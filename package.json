@@ -6,7 +6,7 @@
     "dev": "npm run data:build && next dev",
     "build": "npm run data:build && next build",
     "prebuild:skip": "",
-    "start": "serve out -l 3000 -s --no-clipboard",
+    "start": "serve out -l 3000 --no-clipboard",
     "lint": "eslint",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
