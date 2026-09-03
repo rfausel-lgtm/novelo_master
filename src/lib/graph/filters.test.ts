@@ -70,6 +70,16 @@ describe("applyFilters", () => {
     expect(v.undatedEdgesExcluded).toBe(1);
   });
 
+  it("não conta como oculta a relação de uma categoria desligada", () => {
+    const hiddenEdge = { ...FIXTURE.edges[0], id: "camada-desligada", since: undefined };
+    const idx = buildIndex({ ...FIXTURE, edges: [...FIXTURE.edges, hiddenEdge] });
+    const nodeCategories = new Set(defaultFilterState().nodeCategories);
+    nodeCategories.delete("person");
+    const v = applyFilters(idx, { ...defaultFilterState(), nodeCategories, dateUntil: "2020-12-31" });
+    expect(v.edges.has("camada-desligada")).toBe(false);
+    expect(v.undatedEdgesExcluded).toBe(0);
+  });
+
   it("busca não oculta nós", () => {
     const v = applyFilters(index, { ...defaultFilterState(), search: "zzz" });
     expect(v.nodes.size).toBe(8);

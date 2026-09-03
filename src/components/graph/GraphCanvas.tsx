@@ -378,17 +378,30 @@ export function GraphCanvas(props: GraphCanvasProps) {
       dragMovedRef.current = false;
       layoutRef.current?.stop();
       graph.setNodeAttribute(node, "fixed", true);
+      /*
+       * Congela o enquadramento durante o arraste. Sem isso, mover um nó altera o
+       * bounding box, que altera a conversão tela→grafo, que move o nó de novo:
+       * a realimentação estoura as coordenadas e apaga o mapa inteiro.
+       */
+      if (!sigma.getCustomBBox()) sigma.setCustomBBox(sigma.getBBox());
       preventSigmaDefault();
     });
     const moveDraggedNode = (x: number, y: number) => {
       const node = draggedNodeRef.current;
       if (!node) return;
       const position = sigma.viewportToGraph({ x, y });
+      if (!Number.isFinite(position.x) || !Number.isFinite(position.y)) return;
       graph.mergeNodeAttributes(node, { x: position.x, y: position.y });
       dragMovedRef.current = true;
       sigma.refresh({ partialGraph: { nodes: [node] }, skipIndexation: false });
     };
-    sigma.getMouseCaptor().on("mousemove", ({ x, y }) => moveDraggedNode(x, y));
+    sigma.getMouseCaptor().on("mousemovebody", (e) => {
+      if (!draggedNodeRef.current) return;
+      moveDraggedNode(e.x, e.y);
+      e.preventSigmaDefault();
+      e.original.preventDefault();
+      e.original.stopPropagation();
+    });
     sigma.getMouseCaptor().on("mouseup", () => {
       if (dragMovedRef.current) lastDragAtRef.current = Date.now();
       const node = draggedNodeRef.current;
@@ -396,8 +409,11 @@ export function GraphCanvas(props: GraphCanvasProps) {
         graph.setNodeAttribute(node, "fixed", false);
       draggedNodeRef.current = null;
     });
-    sigma.getTouchCaptor().on("touchmove", ({ touches }) => {
-      if (touches[0]) moveDraggedNode(touches[0].x, touches[0].y);
+    sigma.getTouchCaptor().on("touchmove", (e) => {
+      if (!draggedNodeRef.current || !e.touches[0]) return;
+      moveDraggedNode(e.touches[0].x, e.touches[0].y);
+      e.preventSigmaDefault();
+      e.original.preventDefault();
     });
     sigma.getTouchCaptor().on("touchup", () => {
       if (dragMovedRef.current) lastDragAtRef.current = Date.now();
@@ -440,8 +456,17 @@ export function GraphCanvas(props: GraphCanvasProps) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [view]);
 
+  /* Aplica só a diferença: percorrer todos os nós a cada seleção trava o dataset de estresse. */
+  const appliedPinsRef = useRef<ReadonlySet<string>>(new Set());
   useEffect(() => {
-    for (const id of graph.nodes()) graph.setNodeAttribute(id, "fixed", view.pinnedNodes.has(id));
+    const applied = appliedPinsRef.current;
+    for (const id of applied) {
+      if (!view.pinnedNodes.has(id) && graph.hasNode(id)) graph.setNodeAttribute(id, "fixed", false);
+    }
+    for (const id of view.pinnedNodes) {
+      if (!applied.has(id) && graph.hasNode(id)) graph.setNodeAttribute(id, "fixed", true);
+    }
+    appliedPinsRef.current = view.pinnedNodes;
   }, [graph, view.pinnedNodes]);
 
   /* Voar até um nó. */
@@ -473,6 +498,8 @@ export function GraphCanvas(props: GraphCanvasProps) {
     for (const [id, position] of initialPositionsRef.current) {
       if (graph.hasNode(id)) graph.mergeNodeAttributes(id, position);
     }
+    /* Volta ao enquadramento automático: o congelamento só vale enquanto há arraste. */
+    sigmaRef.current?.setCustomBBox(null);
     sigmaRef.current?.refresh();
     void sigmaRef.current
       ?.getCamera()

@@ -108,12 +108,13 @@ export function applyFilters(index: GraphIndex, f: FilterState): VisibleSets {
     if (!f.evidenceClasses.has(e.evidence_class)) continue;
     if (f.officialOnly && !e.official) continue;
     if (f.documentedOnly && !e.documented) continue;
+    if (!categoryOk(e.source) || !categoryOk(e.target)) continue;
     if (f.dateUntil && !e.since) {
+      /* Só conta o que o usuário veria fora do recorte: camadas desligadas não entram. */
       undatedEdgesExcluded++;
       continue;
     }
     if (f.dateUntil && e.since && e.since > f.dateUntil) continue;
-    if (!categoryOk(e.source) || !categoryOk(e.target)) continue;
     edges.add(e.id);
     hasVisibleEdge.add(e.source);
     hasVisibleEdge.add(e.target);
