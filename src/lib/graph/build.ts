@@ -7,7 +7,7 @@
 import Graph from "graphology";
 import type { EvidenceClass, RelationshipFamily } from "@/lib/schema";
 import type { GraphIndex } from "./indexes";
-import { EDGE_ALPHA, EVIDENCE_EDGE_SIZE, edgeTypeFor, withAlpha, type Palette } from "./style";
+import { EDGE_ALPHA, EDGE_ALPHA_ACTIVE, EVIDENCE_EDGE_SIZE, edgeTypeFor, withAlpha, type Palette } from "./style";
 import type { NodeCategory } from "./types";
 
 export interface SigmaNodeAttributes {
@@ -27,8 +27,10 @@ export interface SigmaNodeAttributes {
 export interface SigmaEdgeAttributes {
   size: number;
   color: string;
-  /** Cor plena (sem alfa) da família, para realce. */
+  /** Cor plena (sem alfa) da família. */
   baseColor: string;
+  /** Cor de realce (alfa alto), pré-calculada para os reducers. */
+  activeColor: string;
   type: string;
   family: RelationshipFamily;
   evidence_class: EvidenceClass;
@@ -64,6 +66,7 @@ export function buildSigmaGraph(index: GraphIndex, palette: Palette): NoveloGrap
       size: EVIDENCE_EDGE_SIZE[e.evidence_class],
       color: withAlpha(baseColor, EDGE_ALPHA),
       baseColor,
+      activeColor: withAlpha(baseColor, EDGE_ALPHA_ACTIVE),
       type: edgeTypeFor(e.evidence_class, e.directed),
       family: e.family,
       evidence_class: e.evidence_class,
