@@ -5,9 +5,19 @@ import { minimalCorpus } from "./fixtures";
 describe("buildGraph", () => {
   const payload = buildGraph(minimalCorpus(), { layout: false });
 
-  it("cria nós para pessoas, organizações e eventos", () => {
+  it("cria nós centrais e a camada probatória", () => {
     const ids = payload.nodes.map((n) => n.id).sort();
-    expect(ids).toEqual(["evt-2025-11-18-teste", "org-x", "pessoa-a", "pessoa-b"]);
+    expect(ids).toEqual([
+      "doc-1",
+      "ev-a",
+      "ev-d",
+      "evt-2025-11-18-teste",
+      "org-x",
+      "pessoa-a",
+      "pessoa-b",
+      "src-imprensa",
+      "src-oficial",
+    ]);
   });
 
   it("cria arestas de relação e de participação", () => {
@@ -28,6 +38,34 @@ describe("buildGraph", () => {
   it("expande fontes via evidências", () => {
     const d = payload.edges.find((e) => e.id === "rel-pessoa-a-org-x-corporate")!;
     expect(d.source_ids).toContain("src-oficial");
+  });
+
+  it("publica metadados humanos de fonte e vínculos de rastreabilidade", () => {
+    expect(payload.source_index["src-oficial"]).toEqual({
+      title: "Nota oficial",
+      publisher: "STF",
+      official: true,
+    });
+    expect(
+      payload.edges.some(
+        (edge) =>
+          edge.kind === "evidence_link" && edge.source === "ev-d" && edge.target === "doc-1",
+      ),
+    ).toBe(true);
+  });
+
+  it("preserva o contraditório específico na aresta", () => {
+    const edge = payload.edges.find(
+      (candidate) => candidate.id === "rel-pessoa-a-pessoa-b-allegation",
+    )!;
+    expect(edge.cited_positions).toEqual([
+      expect.objectContaining({
+        by: "Pessoa B",
+        kind: "denial",
+        summary: "Pessoa B negou a relação.",
+        source_ids: ["src-imprensa"],
+      }),
+    ]);
   });
 
   it("deriva since da data do evento quando não há start_date", () => {

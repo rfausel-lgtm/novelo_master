@@ -27,6 +27,10 @@ export const NODE_COLOR_FALLBACK: Record<NodeCategory, string> = {
   event: "#c9a04c",
   public_act: "#e0c574",
   transaction: "#4dbf91",
+  document: "#b8c2cf",
+  source: "#79b8ff",
+  claim: "#e69b45",
+  evidence: "#d7c67a",
 };
 
 export const EVIDENCE_COLOR_FALLBACK: Record<EvidenceClass, string> = {
@@ -56,6 +60,10 @@ const NODE_VAR: Record<NodeCategory, string> = {
   event: "--node-event",
   public_act: "--node-public-act",
   transaction: "--node-financial",
+  document: "--node-document",
+  source: "--node-source",
+  claim: "--node-claim",
+  evidence: "--node-evidence",
 };
 
 const EVIDENCE_VAR: Record<EvidenceClass, string> = {
@@ -89,15 +97,18 @@ export const PALETTE_FALLBACK: Palette = {
 
 /** Lê a paleta das variáveis CSS (ou devolve o fallback fora do navegador). */
 export function readPalette(): Palette {
-  if (typeof window === "undefined" || typeof getComputedStyle !== "function") return PALETTE_FALLBACK;
+  if (typeof window === "undefined" || typeof getComputedStyle !== "function")
+    return PALETTE_FALLBACK;
   const cs = getComputedStyle(document.documentElement);
   const read = (v: string, fallback: string) => cs.getPropertyValue(v).trim() || fallback;
   const family = { ...FAMILY_COLOR_FALLBACK };
-  for (const k of Object.keys(family) as RelationshipFamily[]) family[k] = read(FAMILY_VAR[k], family[k]);
+  for (const k of Object.keys(family) as RelationshipFamily[])
+    family[k] = read(FAMILY_VAR[k], family[k]);
   const node = { ...NODE_COLOR_FALLBACK };
   for (const k of Object.keys(node) as NodeCategory[]) node[k] = read(NODE_VAR[k], node[k]);
   const evidence = { ...EVIDENCE_COLOR_FALLBACK };
-  for (const k of Object.keys(evidence) as EvidenceClass[]) evidence[k] = read(EVIDENCE_VAR[k], evidence[k]);
+  for (const k of Object.keys(evidence) as EvidenceClass[])
+    evidence[k] = read(EVIDENCE_VAR[k], evidence[k]);
   return {
     bg: read("--bg", PALETTE_FALLBACK.bg),
     fg: read("--fg", PALETTE_FALLBACK.fg),

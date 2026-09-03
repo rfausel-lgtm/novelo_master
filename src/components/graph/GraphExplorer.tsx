@@ -50,7 +50,11 @@ function useReducedMotion(): boolean {
 export function GraphExplorer() {
   const router = useRouter();
   const { state, dispatch, selectNode, dataset } = useGraphState();
-  const [loaded, setLoaded] = useState<{ dataset: string | null; payload: GraphPayload | null; error: string | null }>({
+  const [loaded, setLoaded] = useState<{
+    dataset: string | null;
+    payload: GraphPayload | null;
+    error: string | null;
+  }>({
     dataset: undefined as unknown as string | null,
     payload: null,
     error: null,
@@ -61,6 +65,11 @@ export function GraphExplorer() {
   const [layoutToken, setLayoutToken] = useState(0);
   const [layoutRunning, setLayoutRunning] = useState(false);
   const [fitToken, setFitToken] = useState(0);
+  const [restoreToken, setRestoreToken] = useState(0);
+  const [cameraCommand, setCameraCommand] = useState<{
+    token: number;
+    action: "rotate-left" | "rotate-right" | "reset-angle";
+  } | null>(null);
   const searchRef = useRef<HTMLInputElement | null>(null);
   const reducedMotion = useReducedMotion();
 
@@ -85,11 +94,17 @@ export function GraphExplorer() {
   }, [dataset]);
 
   const index = useMemo(() => (payload ? buildIndex(payload) : null), [payload]);
-  const palette = useMemo(() => (typeof window === "undefined" ? PALETTE_FALLBACK : readPalette()), []);
+  const palette = useMemo(
+    () => (typeof window === "undefined" ? PALETTE_FALLBACK : readPalette()),
+    [],
+  );
   const graph = useMemo(() => (index ? buildSigmaGraph(index, palette) : null), [index, palette]);
 
   /* Visibilidade derivada */
-  const filtered = useMemo(() => (index ? applyFilters(index, state.filters) : null), [index, state.filters]);
+  const filtered = useMemo(
+    () => (index ? applyFilters(index, state.filters) : null),
+    [index, state.filters],
+  );
 
   const visible = useMemo(() => {
     if (!index || !filtered) return null;
@@ -121,13 +136,30 @@ export function GraphExplorer() {
             selectedEdge: state.selectedEdge,
             selection: new Set(state.selection),
             highlight,
+            pinnedNodes: new Set(state.pinnedNodes),
           }
         : null,
-    [visible, state.selectedNode, state.selectedEdge, state.selection, highlight],
+    [
+      visible,
+      state.selectedNode,
+      state.selectedEdge,
+      state.selection,
+      state.pinnedNodes,
+      highlight,
+    ],
   );
 
-  const selectedNode = state.selectedNode && index ? index.nodeById.get(state.selectedNode) : undefined;
-  const selectedEdge = state.selectedEdge && index ? index.edgeById.get(state.selectedEdge) : undefined;
+  const selectedNode =
+    state.selectedNode && index && view?.visibleNodes.has(state.selectedNode)
+      ? index.nodeById.get(state.selectedNode)
+      : undefined;
+  const selectedEdge =
+    state.selectedEdge && index && view?.visibleEdges.has(state.selectedEdge)
+      ? index.edgeById.get(state.selectedEdge)
+      : undefined;
+  const selectionOutsideSlice =
+    (state.selectedNode && !view?.visibleNodes.has(state.selectedNode)) ||
+    (state.selectedEdge && !view?.visibleEdges.has(state.selectedEdge));
 
   const openNode = useCallback(
     (id: string) => {
@@ -139,7 +171,10 @@ export function GraphExplorer() {
 
   /* Time machine: limites */
   const minDate = payload?.stats.min_date ?? "2018-01-01";
-  const maxDate = payload?.stats.max_date && payload.stats.max_date > todayISO() ? payload.stats.max_date : todayISO();
+  const maxDate =
+    payload?.stats.max_date && payload.stats.max_date > todayISO()
+      ? payload.stats.max_date
+      : todayISO();
 
   const modeBanner = state.filters.officialOnly || state.filters.documentedOnly;
 
@@ -191,23 +226,49 @@ export function GraphExplorer() {
           <NodeCard
             index={index}
             node={selectedNode}
+            visible={{ nodes: view.visibleNodes, edges: view.visibleEdges }}
             focusDepth={state.focus?.root === selectedNode.id ? state.focus.depth : null}
             inSelection={state.selection.includes(selectedNode.id)}
+            pinned={state.pinnedNodes.includes(selectedNode.id)}
             onClose={() => selectNode(null)}
             onSelectNode={(id) => selectNode(id, true)}
-            onFocus={(depth) => (depth ? dispatch({ type: "focus", root: selectedNode.id, depth }) : dispatch({ type: "clearFocus" }))}
+            onFocus={(depth) =>
+              depth
+                ? dispatch({ type: "focus", root: selectedNode.id, depth })
+                : dispatch({ type: "clearFocus" })
+            }
             onAddToSelection={() => dispatch({ type: "addToSelection", id: selectedNode.id })}
             onPathFrom={() => {
               dispatch({ type: "panel", panel: "path" });
-              dispatch({ type: "path", patch: { from: selectedNode.id, to: null, results: [], active: 0 } });
+              dispatch({
+                type: "path",
+                patch: { from: selectedNode.id, to: null, results: [], active: 0 },
+              });
             }}
             onBeforeAfter={() => dispatch({ type: "panel", panel: "beforeAfter" })}
+            onTogglePinned={() => dispatch({ type: "togglePinned", id: selectedNode.id })}
           />
         ) : null;
       case "edge":
-        return selectedEdge ? <EdgeCard index={index} edge={selectedEdge} onClose={() => dispatch({ type: "selectEdge", id: null })} onSelectNode={(id) => selectNode(id, true)} /> : null;
+        return selectedEdge ? (
+          <EdgeCard
+            index={index}
+            edge={selectedEdge}
+            sourceIndex={payload.source_index}
+            onClose={() => dispatch({ type: "selectEdge", id: null })}
+            onSelectNode={(id) => selectNode(id, true)}
+          />
+        ) : null;
       case "filters":
-        return <FiltersPanel filters={state.filters} dispatch={dispatch} visibleNodes={view.visibleNodes.size} visibleEdges={view.visibleEdges.size} onClose={() => dispatch({ type: "panel", panel: null })} />;
+        return (
+          <FiltersPanel
+            filters={state.filters}
+            dispatch={dispatch}
+            visibleNodes={view.visibleNodes.size}
+            visibleEdges={view.visibleEdges.size}
+            onClose={() => dispatch({ type: "panel", panel: null })}
+          />
+        );
       case "selection":
         return (
           <SelectionPanel
@@ -238,7 +299,14 @@ export function GraphExplorer() {
           />
         );
       case "beforeAfter":
-        return selectedNode ? <BeforeAfter index={index} node={selectedNode} onSelectNode={(id) => selectNode(id, true)} onClose={() => dispatch({ type: "panel", panel: "node" })} /> : null;
+        return selectedNode ? (
+          <BeforeAfter
+            index={index}
+            node={selectedNode}
+            onSelectNode={(id) => selectNode(id, true)}
+            onClose={() => dispatch({ type: "panel", panel: "node" })}
+          />
+        ) : null;
       default:
         return null;
     }
@@ -260,6 +328,8 @@ export function GraphExplorer() {
         layoutToken={layoutToken}
         onLayoutRunning={setLayoutRunning}
         fitToken={fitToken}
+        restoreToken={restoreToken}
+        cameraCommand={cameraCommand}
         reducedMotion={reducedMotion}
         ariaLabel={ariaLabel}
       />
@@ -268,42 +338,147 @@ export function GraphExplorer() {
       <div className="pointer-events-none absolute inset-x-0 top-0 z-10 flex flex-col gap-2 p-3">
         <div className="pointer-events-auto flex flex-wrap items-center gap-1.5">
           <div className="w-64 max-w-full">
-            <SearchBox index={index} only={view.visibleNodes} ariaLabel="Buscar pessoa, organização ou evento" placeholder="Buscar no novelo…" inputRef={searchRef} onPick={(id) => selectNode(id, true)} />
+            <SearchBox
+              index={index}
+              only={view.visibleNodes}
+              ariaLabel="Buscar pessoa, organização ou evento"
+              placeholder="Buscar no novelo…"
+              inputRef={searchRef}
+              onPick={(id) => selectNode(id, true)}
+            />
           </div>
-          <ToolButton active={state.panel === "filters"} onClick={() => dispatch({ type: "panel", panel: state.panel === "filters" ? null : "filters" })}>
+          <ToolButton
+            active={state.panel === "filters"}
+            onClick={() =>
+              dispatch({ type: "panel", panel: state.panel === "filters" ? null : "filters" })
+            }
+          >
             Filtros
           </ToolButton>
-          <ToolButton active={state.multiSelect} onClick={() => dispatch({ type: "setMultiSelect", on: !state.multiSelect })}>
+          <ToolButton
+            active={state.multiSelect}
+            onClick={() => dispatch({ type: "setMultiSelect", on: !state.multiSelect })}
+          >
             Seleção múltipla
           </ToolButton>
-          <ToolButton active={state.panel === "path"} onClick={() => dispatch({ type: "panel", panel: state.panel === "path" ? null : "path" })}>
+          <ToolButton
+            active={state.panel === "path"}
+            onClick={() =>
+              dispatch({ type: "panel", panel: state.panel === "path" ? null : "path" })
+            }
+          >
             Como A se conecta a B?
           </ToolButton>
-          <ToolButton active={legendOpen} onClick={() => setLegendOpen((v) => !v)} aria-expanded={legendOpen}>
+          <ToolButton
+            active={legendOpen}
+            onClick={() => setLegendOpen((v) => !v)}
+            aria-expanded={legendOpen}
+          >
             Legenda
           </ToolButton>
           <ToolButton onClick={() => setFitToken((t) => t + 1)} aria-label="Ajustar o grafo à tela">
             Ajustar
           </ToolButton>
-          <ToolButton active={layoutRunning} onClick={() => setLayoutToken((t) => t + 1)} aria-label="Reorganizar o layout">
-            {layoutRunning ? "Parar" : "Reorganizar"}
+          <ToolButton
+            active={layoutRunning}
+            onClick={() => setLayoutToken((t) => t + 1)}
+            aria-label="Reorganizar o layout"
+          >
+            {layoutRunning ? "Pausar física" : "Ativar física"}
+          </ToolButton>
+          <ToolButton
+            onClick={() => setRestoreToken((t) => t + 1)}
+            aria-label="Restaurar o layout original"
+          >
+            Restaurar
+          </ToolButton>
+          {state.pinnedNodes.length > 0 && (
+            <ToolButton
+              onClick={() => dispatch({ type: "clearPinned" })}
+              aria-label="Desafixar todos os nós"
+            >
+              Desafixar todos ({state.pinnedNodes.length})
+            </ToolButton>
+          )}
+          <ToolButton
+            onClick={() =>
+              setCameraCommand((current) => ({
+                token: (current?.token ?? 0) + 1,
+                action: "rotate-left",
+              }))
+            }
+            aria-label="Girar o grafo para a esquerda"
+          >
+            ↺
+          </ToolButton>
+          <ToolButton
+            onClick={() =>
+              setCameraCommand((current) => ({
+                token: (current?.token ?? 0) + 1,
+                action: "rotate-right",
+              }))
+            }
+            aria-label="Girar o grafo para a direita"
+          >
+            ↻
+          </ToolButton>
+          <ToolButton
+            onClick={() =>
+              setCameraCommand((current) => ({
+                token: (current?.token ?? 0) + 1,
+                action: "reset-angle",
+              }))
+            }
+            aria-label="Remover a rotação do grafo"
+          >
+            0°
           </ToolButton>
           {(state.focus || state.isolate) && (
             <ToolButton onClick={() => dispatch({ type: "escape" })} aria-label="Sair do foco">
               Sair do foco
             </ToolButton>
           )}
-          <Link href="/rede" className="text-fg-3 hover:text-fg ml-auto hidden text-xs underline-offset-2 hover:underline md:inline">
+          <Link
+            href="/rede"
+            className="text-fg-3 hover:text-fg ml-auto hidden text-xs underline-offset-2 hover:underline md:inline"
+          >
             Ver a mesma rede em tabela
           </Link>
         </div>
         {modeBanner && (
-          <div role="status" className="pointer-events-auto border-accent/60 bg-accent/15 text-fg self-start rounded-md border px-3 py-1.5 text-xs font-medium tracking-wide">
+          <div
+            role="status"
+            className="border-accent/60 bg-accent/15 text-fg pointer-events-auto self-start rounded-md border px-3 py-1.5 text-xs font-medium tracking-wide"
+          >
             {state.filters.officialOnly && "MODO: APENAS FONTES OFICIAIS"}
             {state.filters.officialOnly && state.filters.documentedOnly && " · "}
             {state.filters.documentedOnly && "MODO: SOMENTE FATOS DOCUMENTADOS"}
-            <button type="button" onClick={() => dispatch({ type: "filters", patch: { officialOnly: false, documentedOnly: false } })} className="text-accent ml-3 underline underline-offset-2">
+            <button
+              type="button"
+              onClick={() =>
+                dispatch({ type: "filters", patch: { officialOnly: false, documentedOnly: false } })
+              }
+              className="text-accent ml-3 underline underline-offset-2"
+            >
               desativar
+            </button>
+          </div>
+        )}
+        {selectionOutsideSlice && (
+          <div
+            role="status"
+            className="border-border bg-bg-2 text-fg-2 pointer-events-auto self-start rounded-md border px-3 py-1.5 text-xs"
+          >
+            A seleção ficou fora do recorte atual.
+            <button
+              type="button"
+              onClick={() => {
+                selectNode(null);
+                dispatch({ type: "selectEdge", id: null });
+              }}
+              className="text-accent ml-3 underline underline-offset-2"
+            >
+              limpar seleção
             </button>
           </div>
         )}
@@ -327,8 +502,10 @@ export function GraphExplorer() {
 
       {/* Painel lateral (desktop) / folha inferior (móvel) */}
       {panel && (
-        <div className="pointer-events-none absolute inset-x-0 bottom-0 z-20 max-h-[60dvh] md:inset-x-auto md:top-14 md:right-3 md:bottom-28 md:w-96 md:max-h-none">
-          <div className="pointer-events-auto flex h-full max-h-[60dvh] flex-col md:max-h-full">{panel}</div>
+        <div className="pointer-events-none absolute inset-x-0 bottom-0 z-20 max-h-[60dvh] md:inset-x-auto md:top-14 md:right-3 md:bottom-28 md:max-h-none md:w-96">
+          <div className="pointer-events-auto flex h-full max-h-[60dvh] flex-col md:max-h-full">
+            {panel}
+          </div>
         </div>
       )}
 
@@ -345,6 +522,7 @@ export function GraphExplorer() {
             visibleNodes={view.visibleNodes.size}
             visibleEdges={view.visibleEdges.size}
             reducedMotion={reducedMotion}
+            undatedEdgesExcluded={filtered?.undatedEdgesExcluded ?? 0}
           />
         </div>
       </div>

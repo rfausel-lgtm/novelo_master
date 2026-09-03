@@ -62,6 +62,14 @@ describe("applyFilters", () => {
     expect(v2.nodes.size).toBe(0);
   });
 
+  it("time machine oculta e contabiliza relações sem data", () => {
+    const undatedEdge = { ...FIXTURE.edges[0], id: "sem-data", since: undefined };
+    const datedIndex = buildIndex({ ...FIXTURE, edges: [...FIXTURE.edges, undatedEdge] });
+    const v = applyFilters(datedIndex, { ...defaultFilterState(), dateUntil: "2020-12-31" });
+    expect(v.edges.has("sem-data")).toBe(false);
+    expect(v.undatedEdgesExcluded).toBe(1);
+  });
+
   it("busca não oculta nós", () => {
     const v = applyFilters(index, { ...defaultFilterState(), search: "zzz" });
     expect(v.nodes.size).toBe(8);

@@ -22,6 +22,7 @@ export interface CanvasView {
   selectedEdge: string | null;
   selection: ReadonlySet<string>;
   highlight: { nodes: ReadonlySet<string>; edges: ReadonlySet<string> } | null;
+  pinnedNodes: ReadonlySet<string>;
 }
 
 export interface GraphCanvasProps {
@@ -40,6 +41,8 @@ export interface GraphCanvasProps {
   onLayoutRunning?: (running: boolean) => void;
   /** Incrementa para pedir "Ajustar à tela". */
   fitToken: number;
+  restoreToken: number;
+  cameraCommand: { token: number; action: "rotate-left" | "rotate-right" | "reset-angle" } | null;
   reducedMotion: boolean;
   ariaLabel: string;
 }
@@ -71,6 +74,8 @@ export function GraphCanvas(props: GraphCanvasProps) {
     layoutToken,
     onLayoutRunning,
     fitToken,
+    restoreToken,
+    cameraCommand,
     reducedMotion,
     ariaLabel,
   } = props;
@@ -82,11 +87,29 @@ export function GraphCanvas(props: GraphCanvasProps) {
   const ctxRef = useRef<Context | null>(null);
   const neighborCache = useRef(new Map<string, { nodes: Set<string>; edges: Set<string> }>());
   const layoutRef = useRef<LayoutRunner | null>(null);
-  const callbacks = useRef({ onSelectNode, onSelectEdge, onOpenNode, onEscape, onFocusSearch, onLayoutRunning });
+  const initialPositionsRef = useRef(new Map<string, { x: number; y: number }>());
+  const draggedNodeRef = useRef<string | null>(null);
+  const dragMovedRef = useRef(false);
+  const lastDragAtRef = useRef(0);
+  const callbacks = useRef({
+    onSelectNode,
+    onSelectEdge,
+    onOpenNode,
+    onEscape,
+    onFocusSearch,
+    onLayoutRunning,
+  });
   const reducedMotionRef = useRef(reducedMotion);
   const [webglError, setWebglError] = useState<string | null>(null);
   useEffect(() => {
-    callbacks.current = { onSelectNode, onSelectEdge, onOpenNode, onEscape, onFocusSearch, onLayoutRunning };
+    callbacks.current = {
+      onSelectNode,
+      onSelectEdge,
+      onOpenNode,
+      onEscape,
+      onFocusSearch,
+      onLayoutRunning,
+    };
     reducedMotionRef.current = reducedMotion;
   });
 
@@ -130,10 +153,20 @@ export function GraphCanvas(props: GraphCanvasProps) {
     }
     if (v.selectedEdge && graph.hasEdge(v.selectedEdge)) {
       const [s, t] = graph.extremities(v.selectedEdge);
-      return { nodes: new Set([s, t]), edges: new Set([v.selectedEdge]), emphasis: new Set([s, t]), forceLabels: new Set([s, t]) };
+      return {
+        nodes: new Set([s, t]),
+        edges: new Set([v.selectedEdge]),
+        emphasis: new Set([s, t]),
+        forceLabels: new Set([s, t]),
+      };
     }
     if (v.highlight) {
-      return { nodes: v.highlight.nodes, edges: v.highlight.edges, emphasis: v.highlight.nodes, forceLabels: v.highlight.nodes };
+      return {
+        nodes: v.highlight.nodes,
+        edges: v.highlight.edges,
+        emphasis: v.highlight.nodes,
+        forceLabels: v.highlight.nodes,
+      };
     }
     if (v.selection.size > 0) {
       const nodes = new Set<string>();
@@ -161,15 +194,23 @@ export function GraphCanvas(props: GraphCanvasProps) {
     const container = containerRef.current;
     if (!container) return;
 
-    const labelFont = getComputedStyle(document.body).fontFamily || "IBM Plex Sans, system-ui, sans-serif";
+    const labelFont =
+      getComputedStyle(document.body).fontFamily || "IBM Plex Sans, system-ui, sans-serif";
     const large = graph.size > 2000;
 
-    const nodeReducer: Settings<SigmaNodeAttributes, SigmaEdgeAttributes>["nodeReducer"] = (node, data) => {
+    const nodeReducer: Settings<SigmaNodeAttributes, SigmaEdgeAttributes>["nodeReducer"] = (
+      node,
+      data,
+    ) => {
       const v = viewRef.current;
       const res: Partial<NodeData> & SigmaNodeAttributes = { ...data };
       if (!v.visibleNodes.has(node)) {
         res.hidden = true;
         return res;
+      }
+      if (v.pinnedNodes.has(node)) {
+        res.forceLabel = true;
+        res.zIndex = 2;
       }
       const ctx = ctxRef.current;
       if (!ctx) return res;
@@ -191,7 +232,10 @@ export function GraphCanvas(props: GraphCanvasProps) {
       return res;
     };
 
-    const edgeReducer: Settings<SigmaNodeAttributes, SigmaEdgeAttributes>["edgeReducer"] = (edge, data) => {
+    const edgeReducer: Settings<SigmaNodeAttributes, SigmaEdgeAttributes>["edgeReducer"] = (
+      edge,
+      data,
+    ) => {
       const v = viewRef.current;
       const res: Partial<EdgeDisplayData> & SigmaEdgeAttributes = { ...data };
       if (!v.visibleEdges.has(edge)) {
@@ -213,6 +257,16 @@ export function GraphCanvas(props: GraphCanvasProps) {
 
     const drawLabel: Settings["defaultDrawNodeLabel"] = (context, data, settings) => {
       if (!data.label) return;
+      const graphKind = (data as NodeData & { kind?: string }).kind;
+      const max =
+        graphKind === "event" ||
+        graphKind === "public_act" ||
+        graphKind === "claim" ||
+        graphKind === "evidence"
+          ? 42
+          : 54;
+      const label =
+        data.label.length > max ? `${data.label.slice(0, max - 1).trimEnd()}…` : data.label;
       const size = settings.labelSize;
       context.font = `${settings.labelWeight} ${size}px ${settings.labelFont}`;
       const x = data.x + data.size + 4;
@@ -220,9 +274,13 @@ export function GraphCanvas(props: GraphCanvasProps) {
       context.lineWidth = 3;
       context.strokeStyle = palette.bg;
       context.lineJoin = "round";
-      context.strokeText(data.label, x, y);
-      context.fillStyle = (data as NodeData).dimmed ? DIM.nodeLabel : (data as NodeData).highlighted ? palette.fg : palette.fg2;
-      context.fillText(data.label, x, y);
+      context.strokeText(label, x, y);
+      context.fillStyle = (data as NodeData).dimmed
+        ? DIM.nodeLabel
+        : (data as NodeData).highlighted
+          ? palette.fg
+          : palette.fg2;
+      context.fillText(label, x, y);
     };
 
     const drawHover: Settings["defaultDrawNodeHover"] = (context, data, settings) => {
@@ -257,31 +315,32 @@ export function GraphCanvas(props: GraphCanvasProps) {
     let sigma: NoveloSigma;
     try {
       sigma = new Sigma(graph, container, {
-      allowInvalidContainer: true,
-      renderEdgeLabels: false,
-      enableEdgeEvents: true,
-      hideEdgesOnMove: large,
-      hideLabelsOnMove: false,
-      labelFont,
-      labelSize: 12,
-      labelWeight: "500",
-      labelColor: { color: palette.fg2 },
-      labelRenderedSizeThreshold: graph.order > 1000 ? 9 : graph.order > 300 ? 7 : 4,
-      labelDensity: 0.08,
-      labelGridCellSize: 110,
-      defaultDrawNodeLabel: drawLabel,
-      defaultDrawNodeHover: drawHover,
-      edgeProgramClasses: createEdgeProgramClasses(),
-      zIndex: true,
-      minEdgeThickness: 0.6,
-      antiAliasingFeather: 1,
-      stagePadding: 40,
-      minCameraRatio: 0.01,
-      maxCameraRatio: 4,
-      zoomingRatio: 1.5,
-      doubleClickZoomingRatio: 1.8,
-      nodeReducer,
-      edgeReducer,
+        allowInvalidContainer: true,
+        renderEdgeLabels: false,
+        enableEdgeEvents: true,
+        enableCameraRotation: true,
+        hideEdgesOnMove: large,
+        hideLabelsOnMove: false,
+        labelFont,
+        labelSize: 12,
+        labelWeight: "500",
+        labelColor: { color: palette.fg2 },
+        labelRenderedSizeThreshold: graph.order > 1000 ? 9 : graph.order > 300 ? 7 : 4,
+        labelDensity: 0.045,
+        labelGridCellSize: 145,
+        defaultDrawNodeLabel: drawLabel,
+        defaultDrawNodeHover: drawHover,
+        edgeProgramClasses: createEdgeProgramClasses(),
+        zIndex: true,
+        minEdgeThickness: 0.6,
+        antiAliasingFeather: 1,
+        stagePadding: 40,
+        minCameraRatio: 0.01,
+        maxCameraRatio: 4,
+        zoomingRatio: 1.5,
+        doubleClickZoomingRatio: 1.8,
+        nodeReducer,
+        edgeReducer,
       });
     } catch (e) {
       const message = (e as Error).message || "WebGL indisponível";
@@ -289,6 +348,14 @@ export function GraphCanvas(props: GraphCanvasProps) {
       return;
     }
     sigmaRef.current = sigma;
+    initialPositionsRef.current = new Map(
+      graph
+        .nodes()
+        .map((id) => [
+          id,
+          { x: graph.getNodeAttribute(id, "x"), y: graph.getNodeAttribute(id, "y") },
+        ]),
+    );
     ctxRef.current = computeContext();
     sigma.refresh();
 
@@ -302,7 +369,43 @@ export function GraphCanvas(props: GraphCanvasProps) {
       container.style.cursor = "";
       refresh();
     });
-    sigma.on("clickNode", ({ node }) => callbacks.current.onSelectNode(node));
+    sigma.on("clickNode", ({ node }) => {
+      if (Date.now() - lastDragAtRef.current < 180) return;
+      callbacks.current.onSelectNode(node);
+    });
+    sigma.on("downNode", ({ node, preventSigmaDefault }) => {
+      draggedNodeRef.current = node;
+      dragMovedRef.current = false;
+      layoutRef.current?.stop();
+      graph.setNodeAttribute(node, "fixed", true);
+      preventSigmaDefault();
+    });
+    const moveDraggedNode = (x: number, y: number) => {
+      const node = draggedNodeRef.current;
+      if (!node) return;
+      const position = sigma.viewportToGraph({ x, y });
+      graph.mergeNodeAttributes(node, { x: position.x, y: position.y });
+      dragMovedRef.current = true;
+      sigma.refresh({ partialGraph: { nodes: [node] }, skipIndexation: false });
+    };
+    sigma.getMouseCaptor().on("mousemove", ({ x, y }) => moveDraggedNode(x, y));
+    sigma.getMouseCaptor().on("mouseup", () => {
+      if (dragMovedRef.current) lastDragAtRef.current = Date.now();
+      const node = draggedNodeRef.current;
+      if (node && !viewRef.current.pinnedNodes.has(node))
+        graph.setNodeAttribute(node, "fixed", false);
+      draggedNodeRef.current = null;
+    });
+    sigma.getTouchCaptor().on("touchmove", ({ touches }) => {
+      if (touches[0]) moveDraggedNode(touches[0].x, touches[0].y);
+    });
+    sigma.getTouchCaptor().on("touchup", () => {
+      if (dragMovedRef.current) lastDragAtRef.current = Date.now();
+      const node = draggedNodeRef.current;
+      if (node && !viewRef.current.pinnedNodes.has(node))
+        graph.setNodeAttribute(node, "fixed", false);
+      draggedNodeRef.current = null;
+    });
     sigma.on("doubleClickNode", ({ node, preventSigmaDefault }) => {
       preventSigmaDefault();
       callbacks.current.onOpenNode(node);
@@ -337,6 +440,10 @@ export function GraphCanvas(props: GraphCanvasProps) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [view]);
 
+  useEffect(() => {
+    for (const id of graph.nodes()) graph.setNodeAttribute(id, "fixed", view.pinnedNodes.has(id));
+  }, [graph, view.pinnedNodes]);
+
   /* Voar até um nó. */
   useEffect(() => {
     const sigma = sigmaRef.current;
@@ -345,20 +452,53 @@ export function GraphCanvas(props: GraphCanvasProps) {
     if (!data) return;
     const camera = sigma.getCamera();
     const ratio = Math.min(camera.ratio, 0.5);
-    void camera.animate({ x: data.x, y: data.y, ratio }, { duration: reducedMotionRef.current ? 0 : 450 });
+    void camera.animate(
+      { x: data.x, y: data.y, ratio },
+      { duration: reducedMotionRef.current ? 0 : 450 },
+    );
   }, [cameraTarget, graph]);
 
   /* Ajustar à tela. */
   useEffect(() => {
     if (!fitToken) return;
-    void sigmaRef.current?.getCamera().animatedReset({ duration: reducedMotionRef.current ? 0 : 350 });
+    void sigmaRef.current
+      ?.getCamera()
+      .animatedReset({ duration: reducedMotionRef.current ? 0 : 350 });
   }, [fitToken]);
 
-  /* Reorganizar (FA2 no worker por ~4 s). */
+  /* Restaurar posições editoriais pré-calculadas. */
+  useEffect(() => {
+    if (!restoreToken) return;
+    layoutRef.current?.stop();
+    for (const [id, position] of initialPositionsRef.current) {
+      if (graph.hasNode(id)) graph.mergeNodeAttributes(id, position);
+    }
+    sigmaRef.current?.refresh();
+    void sigmaRef.current
+      ?.getCamera()
+      .animatedReset({ duration: reducedMotionRef.current ? 0 : 350 });
+  }, [restoreToken, graph]);
+
+  /* Rotação acessível além do gesto de dois dedos suportado pelo Sigma. */
+  useEffect(() => {
+    const sigma = sigmaRef.current;
+    if (!sigma || !cameraCommand) return;
+    const camera = sigma.getCamera();
+    const state = camera.getState();
+    const angle =
+      cameraCommand.action === "reset-angle"
+        ? 0
+        : state.angle + (cameraCommand.action === "rotate-left" ? -Math.PI / 12 : Math.PI / 12);
+    void camera.animate({ angle }, { duration: reducedMotionRef.current ? 0 : 180 });
+  }, [cameraCommand]);
+
+  /* Física contínua no worker; segundo clique pausa. */
   useEffect(() => {
     if (!layoutToken || graph.order === 0) return;
     if (!layoutRef.current) {
-      layoutRef.current = createLayoutRunner(graph, () => callbacks.current.onLayoutRunning?.(false));
+      layoutRef.current = createLayoutRunner(graph, () =>
+        callbacks.current.onLayoutRunning?.(false),
+      );
     }
     const runner = layoutRef.current;
     if (runner.isRunning()) {
@@ -366,7 +506,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
       return;
     }
     callbacks.current.onLayoutRunning?.(true);
-    runner.run(4000);
+    runner.run(reducedMotionRef.current ? 1200 : undefined);
   }, [layoutToken, graph]);
 
   /* Teclado: Escape limpa, +/- zoom, setas movem, "/" foca a busca. */
@@ -377,7 +517,10 @@ export function GraphCanvas(props: GraphCanvasProps) {
     const duration = reducedMotionRef.current ? 0 : 150;
     const pan = (dx: number, dy: number) => {
       const s = camera.getState();
-      void camera.animate({ x: s.x + dx * s.ratio * 0.12, y: s.y + dy * s.ratio * 0.12 }, { duration });
+      void camera.animate(
+        { x: s.x + dx * s.ratio * 0.12, y: s.y + dy * s.ratio * 0.12 },
+        { duration },
+      );
     };
     switch (e.key) {
       case "Escape":
@@ -406,6 +549,15 @@ export function GraphCanvas(props: GraphCanvasProps) {
       case "/":
         callbacks.current.onFocusSearch();
         break;
+      case "[":
+        void camera.animate({ angle: camera.getState().angle - Math.PI / 12 }, { duration });
+        break;
+      case "]":
+        void camera.animate({ angle: camera.getState().angle + Math.PI / 12 }, { duration });
+        break;
+      case "0":
+        void camera.animate({ angle: 0 }, { duration });
+        break;
       default:
         return;
     }
@@ -415,16 +567,27 @@ export function GraphCanvas(props: GraphCanvasProps) {
   return (
     <div
       role="application"
-      aria-label="Área do grafo. Use as setas para mover, + e - para aproximar, Escape para limpar a seleção e / para buscar."
+      aria-label="Área do grafo. Arraste nós para reorganizar. Use as setas para mover, + e - para aproximar, colchetes para girar, 0 para remover a rotação, Escape para limpar e / para buscar."
       tabIndex={0}
       onKeyDown={onKeyDown}
       className="focus-visible:outline-accent absolute inset-0 outline-none focus-visible:outline-2 focus-visible:-outline-offset-2"
     >
-      <div ref={containerRef} role="img" aria-label={ariaLabel} className="h-full w-full" data-testid="graph-canvas" />
+      <div
+        ref={containerRef}
+        role="img"
+        aria-label={ariaLabel}
+        className="h-full w-full"
+        data-testid="graph-canvas"
+      />
       {webglError && (
-        <div role="alert" className="bg-bg/90 absolute inset-0 flex items-center justify-center p-6 text-center">
+        <div
+          role="alert"
+          className="bg-bg/90 absolute inset-0 flex items-center justify-center p-6 text-center"
+        >
           <div className="max-w-md">
-            <p className="text-fg font-medium">Este navegador não conseguiu iniciar o WebGL, necessário para o grafo.</p>
+            <p className="text-fg font-medium">
+              Este navegador não conseguiu iniciar o WebGL, necessário para o grafo.
+            </p>
             <p className="text-fg-3 mt-1 text-xs">{webglError}</p>
             <a href="/rede" className="text-accent mt-3 inline-block underline underline-offset-4">
               Ver a mesma rede em tabela

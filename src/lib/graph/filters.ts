@@ -18,6 +18,7 @@ export interface FilterState {
 export interface VisibleSets {
   nodes: Set<string>;
   edges: Set<string>;
+  undatedEdgesExcluded: number;
 }
 
 export const ALL_NODE_CATEGORIES: NodeCategory[] = [
@@ -30,7 +31,16 @@ export const ALL_NODE_CATEGORIES: NodeCategory[] = [
   "event",
   "public_act",
   "transaction",
+  "document",
+  "source",
+  "claim",
+  "evidence",
 ];
+
+/** A camada probatória é opt-in para manter a visão inicial legível. */
+export const DEFAULT_NODE_CATEGORIES = ALL_NODE_CATEGORIES.filter(
+  (category) => !["document", "source", "claim", "evidence"].includes(category),
+);
 
 export const ALL_EVIDENCE_CLASSES: EvidenceClass[] = ["D", "C", "A", "I"];
 
@@ -51,11 +61,15 @@ export const RELATIONSHIP_TYPE_OPTIONS = [
   "participation",
   "actor",
   "transaction",
+  "supports",
+  "documents",
+  "originates_from",
+  "mentions",
 ] as const;
 
 export function defaultFilterState(): FilterState {
   return {
-    nodeCategories: new Set(ALL_NODE_CATEGORIES),
+    nodeCategories: new Set(DEFAULT_NODE_CATEGORIES),
     relationshipTypes: new Set(RELATIONSHIP_TYPE_OPTIONS),
     evidenceClasses: new Set(ALL_EVIDENCE_CLASSES),
     officialOnly: false,
@@ -71,7 +85,8 @@ export function defaultFilterState(): FilterState {
  * Regras:
  *  - aresta visível se ambos os extremos têm categoria permitida, o tipo e a
  *    classe de evidência são permitidos, e passa nos modos oficial/documentado
- *    e no limite de data (arestas sem `since` não são cortadas pela data);
+ *    e no limite de data (arestas sem `since` são ocultadas e contabilizadas
+ *    quando o recorte temporal está ativo);
  *  - nó visível se a categoria é permitida E (tem ao menos uma aresta visível
  *    OU é isolado no grafo completo e first_seen <= dateUntil quando há data).
  *    Assim, um modo restritivo (ex.: só oficiais) esconde nós cujas relações
@@ -81,6 +96,7 @@ export function applyFilters(index: GraphIndex, f: FilterState): VisibleSets {
   const nodes = new Set<string>();
   const edges = new Set<string>();
   const hasVisibleEdge = new Set<string>();
+  let undatedEdgesExcluded = 0;
 
   const categoryOk = (id: string) => {
     const n = index.nodeById.get(id);
@@ -92,6 +108,10 @@ export function applyFilters(index: GraphIndex, f: FilterState): VisibleSets {
     if (!f.evidenceClasses.has(e.evidence_class)) continue;
     if (f.officialOnly && !e.official) continue;
     if (f.documentedOnly && !e.documented) continue;
+    if (f.dateUntil && !e.since) {
+      undatedEdgesExcluded++;
+      continue;
+    }
     if (f.dateUntil && e.since && e.since > f.dateUntil) continue;
     if (!categoryOk(e.source) || !categoryOk(e.target)) continue;
     edges.add(e.id);
@@ -111,7 +131,7 @@ export function applyFilters(index: GraphIndex, f: FilterState): VisibleSets {
     nodes.add(n.id);
   }
 
-  return { nodes, edges };
+  return { nodes, edges, undatedEdgesExcluded };
 }
 
 /** Verdadeiro se o estado difere do padrão (para exibir "limpar filtros"). */
@@ -120,7 +140,7 @@ export function isFilterActive(f: FilterState): boolean {
     f.officialOnly ||
     f.documentedOnly ||
     !!f.dateUntil ||
-    f.nodeCategories.size !== ALL_NODE_CATEGORIES.length ||
+    f.nodeCategories.size !== DEFAULT_NODE_CATEGORIES.length ||
     f.relationshipTypes.size !== RELATIONSHIP_TYPE_OPTIONS.length ||
     f.evidenceClasses.size !== ALL_EVIDENCE_CLASSES.length
   );

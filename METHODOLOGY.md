@@ -204,7 +204,8 @@ Os modos não julgam a qualidade de uma fonte específica; filtram por tipo e po
 - Cor identifica a natureza da relação (família: institucional, financeira ou comercial, política, social, profissional, societária, alegação investigativa) e a categoria do nó (pessoa, empresa, partido, órgão público, instituição financeira, evento, ato público). Cor nunca codifica culpa, gravidade ou juízo. Vermelho, se usado na paleta, significa apenas a família que a legenda indicar; nunca é sinônimo de crime.
 - Forma da aresta identifica a força da evidência, conforme [ADR-0004](docs/adr/0004-sigma-graphology.md): linha sólida para D, sólida de traço curto para C, tracejada para A, pontilhada para I. A legenda da interface é a referência final.
 - Tamanho do nó deriva do grau (número de arestas), em escala logarítmica. Tamanho não indica importância nem responsabilidade.
-- A máquina do tempo mostra o mapa em cada data. Uma aresta aparece a partir de `start_date` ou da data do primeiro evento ligado.
+- A máquina do tempo mostra o mapa em cada data. Uma aresta aparece a partir de `start_date` ou da data do primeiro evento ligado. Enquanto o recorte temporal está ativo, relações sem data determinável ficam ocultas e a interface informa quantas foram excluídas; elas voltam ao mapa quando o recorte é removido.
+- Documentos, fontes, claims e evidências formam uma camada probatória opcional. Seus vínculos indicam apenas rastreabilidade editorial explícita (`documenta`, `obtida em`, `sustenta` ou `menciona`) e não criam relação substantiva por mera coocorrência.
 
 ## 15. Regra final
 

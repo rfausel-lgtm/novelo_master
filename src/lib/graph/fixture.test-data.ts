@@ -10,7 +10,9 @@
  */
 import type { GraphEdge, GraphNode, GraphPayload } from "./types";
 
-function node(partial: Partial<GraphNode> & Pick<GraphNode, "id" | "kind" | "category" | "label">): GraphNode {
+function node(
+  partial: Partial<GraphNode> & Pick<GraphNode, "id" | "kind" | "category" | "label">,
+): GraphNode {
   return {
     subtype: "other",
     degree: 0,
@@ -50,6 +52,7 @@ function edge(
 
 export const FIXTURE: GraphPayload = {
   version: 1,
+  source_index: {},
   built_at: "2026-01-01T00:00:00.000Z",
   stats: {
     people: 5,
@@ -71,20 +74,100 @@ export const FIXTURE: GraphPayload = {
   nodes: [
     node({ id: "a", kind: "person", category: "person", label: "Ana Exemplo", degree: 3 }),
     node({ id: "b", kind: "person", category: "person", label: "Bruno Exemplo", degree: 3 }),
-    node({ id: "c", kind: "organization", category: "company", label: "Companhia Exemplo", degree: 3 }),
-    node({ id: "d", kind: "person", category: "person", label: "Dora Isolada", date: "2018-02-01" }),
+    node({
+      id: "c",
+      kind: "organization",
+      category: "company",
+      label: "Companhia Exemplo",
+      degree: 3,
+    }),
+    node({
+      id: "d",
+      kind: "person",
+      category: "person",
+      label: "Dora Isolada",
+      date: "2018-02-01",
+    }),
     node({ id: "e", kind: "person", category: "person", label: "Elias Exemplo", degree: 1 }),
     node({ id: "f", kind: "person", category: "person", label: "Fábio Exemplo", degree: 1 }),
-    node({ id: "ev1", kind: "event", category: "event", label: "Reunião Exemplo", date: "2019-05-05", degree: 2 }),
-    node({ id: "ato1", kind: "public_act", category: "public_act", label: "Ato Exemplo", date: "2023-01-01", degree: 1 }),
+    node({
+      id: "ev1",
+      kind: "event",
+      category: "event",
+      label: "Reunião Exemplo",
+      date: "2019-05-05",
+      degree: 2,
+    }),
+    node({
+      id: "ato1",
+      kind: "public_act",
+      category: "public_act",
+      label: "Ato Exemplo",
+      date: "2023-01-01",
+      degree: 1,
+    }),
   ],
   edges: [
-    edge({ id: "r1", source: "a", target: "b", evidence_class: "D", official: true, since: "2020-01-10", relationship_type: "corporate", family: "corporate" }),
+    edge({
+      id: "r1",
+      source: "a",
+      target: "b",
+      evidence_class: "D",
+      official: true,
+      since: "2020-01-10",
+      relationship_type: "corporate",
+      family: "corporate",
+    }),
     edge({ id: "r2", source: "b", target: "c", evidence_class: "C", since: "2021-03-01" }),
-    edge({ id: "r3", source: "a", target: "c", evidence_class: "A", since: "2022-06-15", relationship_type: "investigative_allegation", family: "allegation" }),
-    edge({ id: "p1", source: "a", target: "ev1", evidence_class: "D", official: true, kind: "participation", relationship_type: "participation", directed: true, since: "2019-05-05" }),
-    edge({ id: "p2", source: "b", target: "ev1", evidence_class: "D", official: true, kind: "participation", relationship_type: "participation", directed: true, since: "2019-05-05" }),
-    edge({ id: "x1", source: "c", target: "ato1", evidence_class: "I", kind: "actor", relationship_type: "actor", family: "institutional", directed: true, since: "2023-01-01" }),
-    edge({ id: "r4", source: "e", target: "f", evidence_class: "D", official: true, since: "2024-01-01" }),
+    edge({
+      id: "r3",
+      source: "a",
+      target: "c",
+      evidence_class: "A",
+      since: "2022-06-15",
+      relationship_type: "investigative_allegation",
+      family: "allegation",
+    }),
+    edge({
+      id: "p1",
+      source: "a",
+      target: "ev1",
+      evidence_class: "D",
+      official: true,
+      kind: "participation",
+      relationship_type: "participation",
+      directed: true,
+      since: "2019-05-05",
+    }),
+    edge({
+      id: "p2",
+      source: "b",
+      target: "ev1",
+      evidence_class: "D",
+      official: true,
+      kind: "participation",
+      relationship_type: "participation",
+      directed: true,
+      since: "2019-05-05",
+    }),
+    edge({
+      id: "x1",
+      source: "c",
+      target: "ato1",
+      evidence_class: "I",
+      kind: "actor",
+      relationship_type: "actor",
+      family: "institutional",
+      directed: true,
+      since: "2023-01-01",
+    }),
+    edge({
+      id: "r4",
+      source: "e",
+      target: "f",
+      evidence_class: "D",
+      official: true,
+      since: "2024-01-01",
+    }),
   ],
 };

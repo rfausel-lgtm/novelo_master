@@ -8,7 +8,7 @@ import FA2Layout from "graphology-layout-forceatlas2/worker";
 import forceAtlas2 from "graphology-layout-forceatlas2";
 
 export interface LayoutRunner {
-  /** Inicia por `durationMs` e para sozinho. */
+  /** Inicia continuamente; com `durationMs`, para sozinho. */
   run(durationMs?: number): void;
   stop(): void;
   isRunning(): boolean;
@@ -21,7 +21,13 @@ export function createLayoutRunner(graph: Graph, onStop?: () => void): LayoutRun
   }
   const settings = forceAtlas2.inferSettings(graph);
   const layout = new FA2Layout(graph, {
-    settings: { ...settings, gravity: 1, scalingRatio: 8, barnesHutOptimize: graph.order > 800, slowDown: 2 },
+    settings: {
+      ...settings,
+      gravity: 1,
+      scalingRatio: 8,
+      barnesHutOptimize: graph.order > 800,
+      slowDown: 2,
+    },
   });
   let timer: ReturnType<typeof setTimeout> | null = null;
 
@@ -33,10 +39,10 @@ export function createLayoutRunner(graph: Graph, onStop?: () => void): LayoutRun
   };
 
   return {
-    run(durationMs = 4000) {
+    run(durationMs) {
       if (layout.isRunning()) return;
       layout.start();
-      timer = setTimeout(stop, durationMs);
+      if (durationMs) timer = setTimeout(stop, durationMs);
     },
     stop,
     isRunning: () => layout.isRunning(),

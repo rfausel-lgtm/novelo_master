@@ -6,20 +6,29 @@ import type { GraphIndex } from "@/lib/graph/indexes";
 import { NODE_CATEGORY_LABEL, type GraphNode } from "@/lib/graph/types";
 import { NODE_COLOR_FALLBACK } from "@/lib/graph/style";
 import { formatDatePT } from "@/lib/graph/dates";
-import { EVENT_TYPE_LABEL, ORG_TYPE_LABEL, PERSON_CATEGORY_LABEL, PUBLIC_ACT_TYPE_LABEL } from "@/lib/schema";
+import { neighborhood } from "@/lib/graph/algorithms";
+import {
+  EVENT_TYPE_LABEL,
+  ORG_TYPE_LABEL,
+  PERSON_CATEGORY_LABEL,
+  PUBLIC_ACT_TYPE_LABEL,
+} from "@/lib/schema";
 import { Counter, PanelShell, SectionHeading, ToolButton } from "./ui";
 
 interface NodeCardProps {
   index: GraphIndex;
   node: GraphNode;
-  focusDepth: 1 | 2 | null;
+  visible: { nodes: ReadonlySet<string>; edges: ReadonlySet<string> };
+  focusDepth: 1 | 2 | 3 | null;
   inSelection: boolean;
+  pinned: boolean;
   onClose: () => void;
   onSelectNode: (id: string) => void;
-  onFocus: (depth: 1 | 2 | null) => void;
+  onFocus: (depth: 1 | 2 | 3 | null) => void;
   onAddToSelection: () => void;
   onPathFrom: () => void;
   onBeforeAfter: () => void;
+  onTogglePinned: () => void;
 }
 
 function subtypeLabel(node: GraphNode): string {
@@ -59,18 +68,39 @@ function Avatar({ node }: { node: GraphNode }) {
       className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full text-sm font-semibold"
       style={{ background: `${color}22`, color, border: `1px solid ${color}66` }}
     >
-      {node.kind === "person" ? initials(node.label).toUpperCase() : node.kind === "organization" ? "◼" : node.kind === "event" ? "◆" : "§"}
+      {node.kind === "person"
+        ? initials(node.label).toUpperCase()
+        : node.kind === "organization"
+          ? "◼"
+          : node.kind === "event"
+            ? "◆"
+            : "§"}
     </div>
   );
 }
 
 export function NodeCard(props: NodeCardProps) {
-  const { index, node, focusDepth, inSelection, onClose, onSelectNode, onFocus, onAddToSelection, onPathFrom, onBeforeAfter } = props;
+  const {
+    index,
+    node,
+    visible,
+    focusDepth,
+    inSelection,
+    pinned,
+    onClose,
+    onSelectNode,
+    onFocus,
+    onAddToSelection,
+    onPathFrom,
+    onBeforeAfter,
+    onTogglePinned,
+  } = props;
   const [showAll, setShowAll] = useState(false);
 
   const connections = useMemo(() => {
     const seen = new Map<string, { node: GraphNode; edgeLabel: string; count: number }>();
     for (const a of index.adjacency.get(node.id) ?? []) {
+      if (!visible.edges.has(a.edge) || !visible.nodes.has(a.other)) continue;
       const other = index.nodeById.get(a.other);
       const edge = index.edgeById.get(a.edge);
       if (!other || !edge) continue;
@@ -79,11 +109,18 @@ export function NodeCard(props: NodeCardProps) {
       else seen.set(other.id, { node: other, edgeLabel: edge.label, count: 1 });
     }
     return [...seen.values()].sort((a, b) => b.node.degree - a.node.degree);
-  }, [index, node.id]);
+  }, [index, node.id, visible]);
 
   const timeline = useMemo(() => {
-    const items: { date: string; label: string; other: GraphNode; edgeId: string; cls: GraphNode["kind"] }[] = [];
+    const items: {
+      date: string;
+      label: string;
+      other: GraphNode;
+      edgeId: string;
+      cls: GraphNode["kind"];
+    }[] = [];
     for (const a of index.adjacency.get(node.id) ?? []) {
+      if (!visible.edges.has(a.edge) || !visible.nodes.has(a.other)) continue;
       const edge = index.edgeById.get(a.edge);
       const other = index.nodeById.get(a.other);
       if (!edge?.since || !other) continue;
@@ -91,7 +128,38 @@ export function NodeCard(props: NodeCardProps) {
     }
     items.sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : 0));
     return items;
-  }, [index, node.id]);
+  }, [index, node.id, visible]);
+
+  const visibleStats = useMemo(() => {
+    const sourceIds = new Set<string>();
+    const evidenceIds = new Set<string>();
+    const eventIds = new Set<string>();
+    for (const adjacent of index.adjacency.get(node.id) ?? []) {
+      if (!visible.edges.has(adjacent.edge)) continue;
+      const edge = index.edgeById.get(adjacent.edge);
+      const other = index.nodeById.get(adjacent.other);
+      if (!edge) continue;
+      edge.source_ids.forEach((id) => {
+        if (index.payload.source_index[id]?.official) sourceIds.add(id);
+      });
+      edge.evidence_ids.forEach((id) => evidenceIds.add(id));
+      edge.event_ids.forEach((id) => eventIds.add(id));
+      if (other?.kind === "event" || other?.kind === "public_act") eventIds.add(other.id);
+    }
+    return {
+      connections: connections.length,
+      events: eventIds.size,
+      officialSources: sourceIds.size,
+      evidence: evidenceIds.size,
+    };
+  }, [connections.length, index, node.id, visible]);
+
+  const expansionCounts = useMemo(() => {
+    const first = neighborhood(index, node.id, 1, visible).nodes.size;
+    const second = neighborhood(index, node.id, 2, visible).nodes.size;
+    const third = neighborhood(index, node.id, 3, visible).nodes.size;
+    return { second: Math.max(0, second - first), third: Math.max(0, third - second) };
+  }, [index, node.id, visible]);
 
   const isAgent = node.kind === "person" || node.kind === "organization";
   const isEvent = node.kind === "event" || node.kind === "public_act";
@@ -129,28 +197,60 @@ export function NodeCard(props: NodeCardProps) {
       )}
 
       <div className="mt-4 grid grid-cols-4 gap-1.5">
-        <Counter label="conexões" value={node.degree} />
-        <Counter label="eventos" value={node.event_count} />
-        <Counter label="fontes oficiais" value={node.official_source_count} />
-        <Counter label="evidências" value={node.evidence_count} />
+        <Counter label="conexões" value={visibleStats.connections} />
+        <Counter label="eventos" value={visibleStats.events} />
+        <Counter label="fontes oficiais" value={visibleStats.officialSources} />
+        <Counter label="evidências" value={visibleStats.evidence} />
       </div>
 
       <div className="mt-4 flex flex-wrap gap-1.5">
-        <Link
-          href={node.href}
-          className="bg-accent text-bg inline-flex h-8 items-center rounded-md px-3 text-xs font-semibold hover:opacity-90"
-          data-testid="open-dossier"
+        {!node.href.startsWith("/grafo") && (
+          <Link
+            href={node.href}
+            className="bg-accent text-bg inline-flex h-8 items-center rounded-md px-3 text-xs font-semibold hover:opacity-90"
+            data-testid="open-dossier"
+          >
+            Abrir dossiê completo
+          </Link>
+        )}
+        <ToolButton
+          active={focusDepth === 1}
+          onClick={() => onFocus(focusDepth === 1 ? null : 1)}
+          aria-label="Focar: mostrar só o primeiro grau"
         >
-          Abrir dossiê completo
-        </Link>
-        <ToolButton active={focusDepth === 1} onClick={() => onFocus(focusDepth === 1 ? null : 1)} aria-label="Focar: mostrar só o primeiro grau">
           Focar
         </ToolButton>
-        <ToolButton active={focusDepth === 2} onClick={() => onFocus(focusDepth === 2 ? null : 2)} aria-label="Expandir para o segundo grau">
-          Expandir 2º grau
+        <ToolButton
+          active={focusDepth === 2}
+          onClick={() => onFocus(focusDepth === 2 ? null : 2)}
+          aria-label="Expandir para o segundo grau"
+        >
+          Expandir 2º grau (+{expansionCounts.second})
         </ToolButton>
+        <ToolButton
+          active={focusDepth === 3}
+          onClick={() => onFocus(focusDepth === 3 ? 2 : 3)}
+          aria-label="Expandir para o terceiro grau"
+        >
+          Expandir 3º grau (+{expansionCounts.third})
+        </ToolButton>
+        {focusDepth && (
+          <ToolButton
+            onClick={() => onFocus(focusDepth === 1 ? null : focusDepth === 3 ? 2 : 1)}
+            aria-label="Recolher um grau"
+          >
+            Recolher
+          </ToolButton>
+        )}
         <ToolButton active={inSelection} onClick={onAddToSelection}>
           {inSelection ? "Na seleção" : "Adicionar à seleção"}
+        </ToolButton>
+        <ToolButton
+          active={pinned}
+          onClick={onTogglePinned}
+          aria-label={pinned ? "Desafixar nó" : "Fixar nó no layout"}
+        >
+          {pinned ? "Desafixar" : "Fixar nó"}
         </ToolButton>
         <ToolButton onClick={onPathFrom}>Caminho até…</ToolButton>
         {isEvent && <ToolButton onClick={onBeforeAfter}>Antes / depois</ToolButton>}
@@ -168,7 +268,11 @@ export function NodeCard(props: NodeCardProps) {
         </>
       )}
       {connections.length > 8 && (
-        <button type="button" onClick={() => setShowAll((v) => !v)} className="text-accent mt-1.5 text-xs hover:underline">
+        <button
+          type="button"
+          onClick={() => setShowAll((v) => !v)}
+          className="text-accent mt-1.5 text-xs hover:underline"
+        >
           {showAll ? "Mostrar menos" : `Mostrar todas (${connections.length})`}
         </button>
       )}
@@ -179,15 +283,26 @@ export function NodeCard(props: NodeCardProps) {
           <ol className="border-border ml-1.5 border-l pl-3">
             {timeline.slice(0, 12).map((t) => (
               <li key={t.edgeId} className="relative mb-1.5 text-xs">
-                <span aria-hidden="true" className="bg-fg-3 absolute top-1.5 -left-[15.5px] h-1.5 w-1.5 rounded-full" />
-                <span className="text-fg-3 font-mono text-[11px] tabular-nums">{formatDatePT(t.date)}</span>{" "}
+                <span
+                  aria-hidden="true"
+                  className="bg-fg-3 absolute top-1.5 -left-[15.5px] h-1.5 w-1.5 rounded-full"
+                />
+                <span className="text-fg-3 font-mono text-[11px] tabular-nums">
+                  {formatDatePT(t.date)}
+                </span>{" "}
                 <span className="text-fg-2">{t.label}</span>{" "}
-                <button type="button" onClick={() => onSelectNode(t.other.id)} className="text-fg hover:underline">
+                <button
+                  type="button"
+                  onClick={() => onSelectNode(t.other.id)}
+                  className="text-fg hover:underline"
+                >
                   {t.other.label}
                 </button>
               </li>
             ))}
-            {timeline.length > 12 && <li className="text-fg-3 text-[11px]">… e mais {timeline.length - 12}</li>}
+            {timeline.length > 12 && (
+              <li className="text-fg-3 text-[11px]">… e mais {timeline.length - 12}</li>
+            )}
           </ol>
         </>
       )}
@@ -212,13 +327,19 @@ function ConnectionList({
             onClick={() => onSelectNode(c.node.id)}
             className="hover:bg-bg-3 flex w-full items-center gap-2 rounded px-1 py-1.5 text-left"
           >
-            <span aria-hidden="true" className="h-2 w-2 shrink-0 rounded-full" style={{ background: NODE_COLOR_FALLBACK[c.node.category] }} />
+            <span
+              aria-hidden="true"
+              className="h-2 w-2 shrink-0 rounded-full"
+              style={{ background: NODE_COLOR_FALLBACK[c.node.category] }}
+            />
             <span className="text-fg min-w-0 flex-1 truncate text-xs">{c.node.label}</span>
             <span className="text-fg-3 shrink-0 truncate text-[10.5px]">
               {c.edgeLabel}
               {c.count > 1 && ` +${c.count - 1}`}
             </span>
-            <span className="text-fg-3 shrink-0 font-mono text-[10.5px] tabular-nums">{c.node.degree}</span>
+            <span className="text-fg-3 shrink-0 font-mono text-[10.5px] tabular-nums">
+              {c.node.degree}
+            </span>
           </button>
         </li>
       ))}

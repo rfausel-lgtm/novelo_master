@@ -56,6 +56,10 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
 
   const sources = new Map(corpus.sources.map((s) => [s.id, s]));
   const evidence = new Map(corpus.evidence.map((e) => [e.id, e]));
+  const entityLabels = new Map<string, string>([
+    ...corpus.people.map((p) => [p.id, p.name] as const),
+    ...corpus.organizations.map((o) => [o.id, o.name] as const),
+  ]);
   const isOfficialSource = (id: string) => {
     const s = sources.get(id);
     return s ? OFFICIAL_SOURCE_TYPES.has(s.source_type) : false;
@@ -79,12 +83,28 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
         return `/eventos/${id}`;
       case "public_act":
         return `/atos/${id}`;
+      case "document":
+        return `/documentos/${id}`;
+      case "source":
+        return `/fontes/${id}`;
       default:
         return `/grafo?n=${id}`;
     }
   };
 
-  const addNode = (n: Omit<GraphNode, "degree" | "event_count" | "official_source_count" | "evidence_count" | "x" | "y" | "size" | "href">) => {
+  const addNode = (
+    n: Omit<
+      GraphNode,
+      | "degree"
+      | "event_count"
+      | "official_source_count"
+      | "evidence_count"
+      | "x"
+      | "y"
+      | "size"
+      | "href"
+    >,
+  ) => {
     nodes.set(n.id, {
       ...n,
       degree: 0,
@@ -145,9 +165,72 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
       has_photo: false,
     });
   }
+  /* Camada probatória: presente no payload, mas oculta por padrão nos filtros. */
+  for (const d of corpus.documents) {
+    addNode({
+      id: d.id,
+      kind: "document",
+      category: "document",
+      label: d.title,
+      subtype: d.doc_type,
+      role: d.is_official ? "Documento oficial" : "Documento",
+      why: d.summary,
+      date: d.date,
+      first_seen: d.date,
+      has_photo: false,
+    });
+  }
+  for (const s of corpus.sources) {
+    addNode({
+      id: s.id,
+      kind: "source",
+      category: "source",
+      label: s.title,
+      subtype: s.source_type,
+      role: s.publisher,
+      why: s.summary,
+      date: s.publication_date,
+      first_seen: s.publication_date,
+      has_photo: false,
+    });
+  }
+  for (const c of corpus.claims) {
+    addNode({
+      id: c.id,
+      kind: "claim",
+      category: "claim",
+      label: c.statement,
+      subtype: c.classification,
+      role: `Claim ${c.classification}`,
+      why: c.limits,
+      date: c.date,
+      first_seen: c.date,
+      has_photo: false,
+    });
+  }
+  for (const ev of corpus.evidence) {
+    addNode({
+      id: ev.id,
+      kind: "evidence",
+      category: "evidence",
+      label: ev.proposition,
+      subtype: ev.classification,
+      role: `Evidência ${ev.classification}`,
+      why: ev.notes ?? ev.inference_basis,
+      date: ev.date,
+      first_seen: ev.date,
+      has_photo: false,
+    });
+  }
 
   const eventDate = new Map(corpus.events.map((e) => [e.id, e.date]));
-  const bump = (id: string, patch: Partial<Pick<GraphNode, "degree" | "event_count" | "official_source_count" | "evidence_count">>, since?: string) => {
+  const bump = (
+    id: string,
+    patch: Partial<
+      Pick<GraphNode, "degree" | "event_count" | "official_source_count" | "evidence_count">
+    >,
+    since?: string,
+  ) => {
     const n = nodes.get(id);
     if (!n) return;
     n.degree += patch.degree ?? 0;
@@ -187,9 +270,22 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
       event_ids: r.event_ids,
       description: r.description,
       via_id: r.via_id,
+      document_ids: r.document_ids,
+      cited_positions: r.cited_position.map((position) => ({
+        ...position,
+        by: position.by ?? (position.by_id ? entityLabels.get(position.by_id) : undefined),
+      })),
     });
-    bump(r.from_id, { degree: 1, official_source_count: officialCount, evidence_count: r.evidence_ids.length }, since);
-    bump(r.to_id, { degree: 1, official_source_count: officialCount, evidence_count: r.evidence_ids.length }, since);
+    bump(
+      r.from_id,
+      { degree: 1, official_source_count: officialCount, evidence_count: r.evidence_ids.length },
+      since,
+    );
+    bump(
+      r.to_id,
+      { degree: 1, official_source_count: officialCount, evidence_count: r.evidence_ids.length },
+      since,
+    );
   }
 
   /* Participação em eventos */
@@ -209,7 +305,14 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
         label: "participa de",
         evidence_class: e.evidence_class,
         status: e.status,
-        confidence: e.evidence_class === "D" ? 0.95 : e.evidence_class === "C" ? 0.8 : e.evidence_class === "A" ? 0.5 : 0.3,
+        confidence:
+          e.evidence_class === "D"
+            ? 0.95
+            : e.evidence_class === "C"
+              ? 0.8
+              : e.evidence_class === "A"
+                ? 0.5
+                : 0.3,
         directed: true,
         since: e.date,
         official,
@@ -218,8 +321,22 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
         evidence_ids: e.evidence_ids,
         event_ids: [e.id],
         description: e.description,
+        document_ids: e.document_ids,
+        cited_positions: e.cited_position.map((position) => ({
+          ...position,
+          by: position.by ?? (position.by_id ? entityLabels.get(position.by_id) : undefined),
+        })),
       });
-      bump(pid, { degree: 1, event_count: 1, official_source_count: officialCount, evidence_count: e.evidence_ids.length }, e.date);
+      bump(
+        pid,
+        {
+          degree: 1,
+          event_count: 1,
+          official_source_count: officialCount,
+          evidence_count: e.evidence_ids.length,
+        },
+        e.date,
+      );
       bump(e.id, { degree: 1 });
     }
     bump(e.id, { official_source_count: officialCount, evidence_count: e.evidence_ids.length });
@@ -253,7 +370,16 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
         event_ids: [],
         description: a.description,
       });
-      bump(pid, { degree: 1, event_count: 1, official_source_count: officialCount, evidence_count: a.evidence_ids.length }, a.date);
+      bump(
+        pid,
+        {
+          degree: 1,
+          event_count: 1,
+          official_source_count: officialCount,
+          evidence_count: a.evidence_ids.length,
+        },
+        a.date,
+      );
       bump(a.id, { degree: 1 });
     }
     for (const pid of a.affected_ids) {
@@ -309,9 +435,224 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
       evidence_ids: t.evidence_ids,
       event_ids: t.event_ids,
       description: t.description,
+      document_ids: t.document_ids,
+      cited_positions: t.cited_position.map((position) => ({
+        ...position,
+        by: position.by ?? (position.by_id ? entityLabels.get(position.by_id) : undefined),
+      })),
     });
     bump(t.from_id, { degree: 1, evidence_count: t.evidence_ids.length }, t.date);
     bump(t.to_id, { degree: 1, evidence_count: t.evidence_ids.length }, t.date);
+  }
+
+  /* Liga a camada probatória sem inventar relações por simples coocorrência. */
+  const traceEdgeIds = new Set(edges.map((edge) => edge.id));
+  const addTraceEdge = (input: {
+    id: string;
+    source: string;
+    target: string;
+    relationship_type: "supports" | "documents" | "originates_from" | "mentions";
+    label: string;
+    evidenceClass: GraphEdge["evidence_class"];
+    since?: string;
+    sourceIds?: string[];
+    evidenceIds?: string[];
+    description: string;
+  }) => {
+    if (traceEdgeIds.has(input.id) || !nodes.has(input.source) || !nodes.has(input.target)) return;
+    traceEdgeIds.add(input.id);
+    const sourceIds = input.sourceIds ?? [];
+    edges.push({
+      id: input.id,
+      source: input.source,
+      target: input.target,
+      kind: "evidence_link",
+      relationship_type: input.relationship_type,
+      family: input.relationship_type === "originates_from" ? "institutional" : "professional",
+      label: input.label,
+      evidence_class: input.evidenceClass,
+      status: "verified",
+      confidence: 1,
+      directed: true,
+      since: input.since,
+      official: sourceIds.some(isOfficialSource),
+      documented: input.evidenceClass === "D" || input.evidenceClass === "C",
+      source_ids: sourceIds,
+      evidence_ids: input.evidenceIds ?? [],
+      event_ids: [],
+      description: input.description,
+    });
+    for (const id of [input.source, input.target]) {
+      const category = nodes.get(id)?.category;
+      if (category && ["document", "source", "claim", "evidence"].includes(category))
+        bump(id, { degree: 1 }, input.since);
+    }
+  };
+
+  for (const ev of corpus.evidence) {
+    for (const documentId of ev.document_ids) {
+      addTraceEdge({
+        id: `trace-${ev.id}-${documentId}`,
+        source: ev.id,
+        target: documentId,
+        relationship_type: "documents",
+        label: "documentada por",
+        evidenceClass: ev.classification,
+        since: ev.date,
+        sourceIds: ev.source_ids,
+        evidenceIds: [ev.id],
+        description: "A evidência aponta para este documento no corpus.",
+      });
+    }
+    for (const sourceId of ev.source_ids) {
+      addTraceEdge({
+        id: `trace-${ev.id}-${sourceId}`,
+        source: ev.id,
+        target: sourceId,
+        relationship_type: "originates_from",
+        label: "obtida em",
+        evidenceClass: ev.classification,
+        since: ev.date ?? sources.get(sourceId)?.publication_date,
+        sourceIds: [sourceId],
+        evidenceIds: [ev.id],
+        description: "A evidência foi registrada a partir desta fonte.",
+      });
+    }
+  }
+  for (const d of corpus.documents) {
+    for (const sourceId of d.source_ids) {
+      addTraceEdge({
+        id: `trace-${d.id}-${sourceId}`,
+        source: d.id,
+        target: sourceId,
+        relationship_type: "originates_from",
+        label: "obtido em",
+        evidenceClass: d.is_official ? "D" : "C",
+        since: d.date ?? sources.get(sourceId)?.publication_date,
+        sourceIds: [sourceId],
+        description: "O documento foi obtido ou verificado por meio desta fonte.",
+      });
+    }
+    for (const entityId of d.related_entity_ids) {
+      addTraceEdge({
+        id: `trace-${d.id}-${entityId}`,
+        source: d.id,
+        target: entityId,
+        relationship_type: "mentions",
+        label: "documenta",
+        evidenceClass: d.is_official ? "D" : "C",
+        since: d.date,
+        sourceIds: d.source_ids,
+        description: "O documento registra conteúdo relacionado a esta entidade.",
+      });
+    }
+  }
+  for (const r of corpus.relationships) {
+    const relationSince = edges.find((edge) => edge.id === r.id)?.since;
+    const relationSources = expandSources(r.evidence_ids, r.source_ids);
+    for (const evidenceId of r.evidence_ids) {
+      for (const entityId of [r.from_id, r.to_id]) {
+        addTraceEdge({
+          id: `trace-${r.id}-${evidenceId}-${entityId}`,
+          source: evidenceId,
+          target: entityId,
+          relationship_type: "supports",
+          label: "sustenta relação",
+          evidenceClass: r.evidence_class,
+          since: relationSince,
+          sourceIds: relationSources,
+          evidenceIds: [evidenceId],
+          description:
+            "Esta evidência sustenta uma relação editorial publicada envolvendo a entidade.",
+        });
+      }
+    }
+  }
+  for (const event of corpus.events) {
+    const eventSources = expandSources(event.evidence_ids, event.source_ids);
+    for (const evidenceId of event.evidence_ids) {
+      addTraceEdge({
+        id: `trace-${event.id}-${evidenceId}`,
+        source: evidenceId,
+        target: event.id,
+        relationship_type: "supports",
+        label: "sustenta evento",
+        evidenceClass: event.evidence_class,
+        since: event.date,
+        sourceIds: eventSources,
+        evidenceIds: [evidenceId],
+        description: "Esta evidência sustenta o registro editorial do evento.",
+      });
+    }
+  }
+  for (const act of corpus.public_acts) {
+    const actSources = expandSources(act.evidence_ids, act.source_ids);
+    for (const evidenceId of act.evidence_ids) {
+      addTraceEdge({
+        id: `trace-${act.id}-${evidenceId}`,
+        source: evidenceId,
+        target: act.id,
+        relationship_type: "supports",
+        label: "sustenta ato",
+        evidenceClass: act.evidence_class,
+        since: act.date,
+        sourceIds: actSources,
+        evidenceIds: [evidenceId],
+        description: "Esta evidência sustenta o registro editorial do ato público.",
+      });
+    }
+  }
+  for (const transaction of corpus.transactions) {
+    const transactionSources = expandSources(transaction.evidence_ids, transaction.source_ids);
+    for (const evidenceId of transaction.evidence_ids) {
+      for (const entityId of [transaction.from_id, transaction.to_id]) {
+        addTraceEdge({
+          id: `trace-${transaction.id}-${evidenceId}-${entityId}`,
+          source: evidenceId,
+          target: entityId,
+          relationship_type: "supports",
+          label: "sustenta transação",
+          evidenceClass: transaction.evidence_class,
+          since: transaction.date,
+          sourceIds: transactionSources,
+          evidenceIds: [evidenceId],
+          description:
+            "Esta evidência sustenta o registro editorial da transação envolvendo a entidade.",
+        });
+      }
+    }
+  }
+  for (const c of corpus.claims) {
+    const claimSources = expandSources(c.evidence_ids, c.source_ids);
+    for (const evidenceId of c.evidence_ids) {
+      addTraceEdge({
+        id: `trace-${c.id}-${evidenceId}`,
+        source: c.id,
+        target: evidenceId,
+        relationship_type: "supports",
+        label: "apoiado por",
+        evidenceClass: c.classification,
+        since: c.date,
+        sourceIds: claimSources,
+        evidenceIds: [evidenceId],
+        description: "O claim aponta explicitamente para esta evidência.",
+      });
+    }
+    for (const entityId of c.related_entity_ids) {
+      addTraceEdge({
+        id: `trace-${c.id}-${entityId}`,
+        source: c.id,
+        target: entityId,
+        relationship_type: "mentions",
+        label: "refere-se a",
+        evidenceClass: c.classification,
+        since: c.date,
+        sourceIds: claimSources,
+        evidenceIds: c.evidence_ids,
+        description:
+          "O claim identifica esta entidade como relacionada à proposição, sem converter a alegação em fato.",
+      });
+    }
   }
 
   /* Tamanho dos nós: escala log do grau, eventos menores. */
@@ -385,5 +726,15 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
     stats,
     nodes: [...nodes.values()],
     edges,
+    source_index: Object.fromEntries(
+      corpus.sources.map((source) => [
+        source.id,
+        {
+          title: source.title,
+          publisher: source.publisher,
+          official: OFFICIAL_SOURCE_TYPES.has(source.source_type),
+        },
+      ]),
+    ),
   };
 }
