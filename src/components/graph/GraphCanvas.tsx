@@ -284,7 +284,8 @@ export function GraphCanvas(props: GraphCanvasProps) {
       edgeReducer,
       });
     } catch (e) {
-      setWebglError((e as Error).message || "WebGL indisponível");
+      const message = (e as Error).message || "WebGL indisponível";
+      queueMicrotask(() => setWebglError(message));
       return;
     }
     sigmaRef.current = sigma;
