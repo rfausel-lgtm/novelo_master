@@ -13,7 +13,12 @@ NEXT_PUBLIC_SITE_URL=https://novelo-master.fausel.adv.br npm run build   # gera 
 `NEXT_PUBLIC_SITE_URL` alimenta canonical, sitemap e OpenGraph. Sem ela, o build usa
 `https://novelo-master.fausel.adv.br` (valor padrão em `src/lib/site.ts`).
 
-## Cloudflare Pages (recomendado)
+## Cloudflare Pages (em produção)
+
+Estado em 2026-09-03: projeto `novelo-master` criado na conta Cloudflare de rfausel@gmail.com, conectado ao
+repositório `rfausel-lgtm/novelo_master` (branch `main`, deploy automático a cada push), build `npm run build`,
+saída `out`, variável `NODE_VERSION=24`; preview em `novelo-master.pages.dev` e domínio personalizado
+`novelo-master.fausel.adv.br` (CNAME criado pelo próprio Pages).
 
 1. Conecte o repositório ao Cloudflare Pages.
 2. Build command: `npm run build`. Output directory: `out`. Node: 24 (variável `NODE_VERSION=24`).
