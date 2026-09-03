@@ -5,7 +5,7 @@
  * com ResizeObserver. Hover/seleção/filtros são aplicados por reducers a
  * partir de refs (sem mutar o grafo e sem recriar o Sigma).
  */
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import Sigma from "sigma";
 import type { EdgeDisplayData, NodeDisplayData } from "sigma/types";
 import type { Settings } from "sigma/settings";
@@ -84,6 +84,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
   const layoutRef = useRef<LayoutRunner | null>(null);
   const callbacks = useRef({ onSelectNode, onSelectEdge, onOpenNode, onEscape, onFocusSearch, onLayoutRunning });
   const reducedMotionRef = useRef(reducedMotion);
+  const [webglError, setWebglError] = useState<string | null>(null);
   useEffect(() => {
     callbacks.current = { onSelectNode, onSelectEdge, onOpenNode, onEscape, onFocusSearch, onLayoutRunning };
     reducedMotionRef.current = reducedMotion;
@@ -253,7 +254,9 @@ export function GraphCanvas(props: GraphCanvasProps) {
       context.stroke();
     };
 
-    const sigma: NoveloSigma = new Sigma(graph, container, {
+    let sigma: NoveloSigma;
+    try {
+      sigma = new Sigma(graph, container, {
       allowInvalidContainer: true,
       renderEdgeLabels: false,
       enableEdgeEvents: true,
@@ -279,7 +282,11 @@ export function GraphCanvas(props: GraphCanvasProps) {
       doubleClickZoomingRatio: 1.8,
       nodeReducer,
       edgeReducer,
-    });
+      });
+    } catch (e) {
+      setWebglError((e as Error).message || "WebGL indisponível");
+      return;
+    }
     sigmaRef.current = sigma;
     ctxRef.current = computeContext();
     sigma.refresh();
@@ -413,6 +420,17 @@ export function GraphCanvas(props: GraphCanvasProps) {
       className="focus-visible:outline-accent absolute inset-0 outline-none focus-visible:outline-2 focus-visible:-outline-offset-2"
     >
       <div ref={containerRef} role="img" aria-label={ariaLabel} className="h-full w-full" data-testid="graph-canvas" />
+      {webglError && (
+        <div role="alert" className="bg-bg/90 absolute inset-0 flex items-center justify-center p-6 text-center">
+          <div className="max-w-md">
+            <p className="text-fg font-medium">Este navegador não conseguiu iniciar o WebGL, necessário para o grafo.</p>
+            <p className="text-fg-3 mt-1 text-xs">{webglError}</p>
+            <a href="/rede" className="text-accent mt-3 inline-block underline underline-offset-4">
+              Ver a mesma rede em tabela
+            </a>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

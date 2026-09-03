@@ -17,7 +17,14 @@ export default defineConfig({
     timeout: 120_000,
   },
   projects: [
-    { name: "chromium", use: { ...devices["Desktop Chrome"] } },
+    {
+      name: "chromium",
+      use: {
+        ...devices["Desktop Chrome"],
+        // WebGL por software em runners sem GPU (Sigma.js exige WebGL).
+        launchOptions: { args: ["--use-gl=angle", "--use-angle=swiftshader", "--enable-unsafe-swiftshader", "--ignore-gpu-blocklist"] },
+      },
+    },
     { name: "mobile", use: { ...devices["Pixel 7"] } },
   ],
 });
