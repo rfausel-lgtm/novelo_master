@@ -35,7 +35,7 @@ GitHub Actions · Python (utilitários de OSINT).
 ## Quick start
 
 ```bash
-git clone <url-do-repositório> novelo-master
+git clone https://github.com/rfausel-lgtm/novelo_master.git novelo-master
 cd novelo-master
 npm install
 git config core.hooksPath .githooks   # pre-commit com gitleaks

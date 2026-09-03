@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Vulnerabilidade de segurança ou dado pessoal indevido (relato privado)
-    url: https://github.com/rfausel-lgtm/o-novelo-master/security/advisories/new
+    url: https://github.com/rfausel-lgtm/novelo_master/security/advisories/new
     about: Use GitHub Security Advisories. Não publique detalhes exploráveis nem dados pessoais em issue pública. Ver SECURITY.md.
   - name: Metodologia e política editorial
-    url: https://github.com/rfausel-lgtm/o-novelo-master/blob/main/METHODOLOGY.md
+    url: https://github.com/rfausel-lgtm/novelo_master/blob/main/METHODOLOGY.md
     about: Leia antes de propor fontes, correções ou relações.

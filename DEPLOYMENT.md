@@ -7,11 +7,11 @@ segredos em runtime. Qualquer host de arquivos estáticos serve.
 
 ```bash
 npm ci
-NEXT_PUBLIC_SITE_URL=https://seu-dominio.exemplo npm run build   # gera out/
+NEXT_PUBLIC_SITE_URL=https://novelo-master.fausel.adv.br npm run build   # gera out/
 ```
 
 `NEXT_PUBLIC_SITE_URL` alimenta canonical, sitemap e OpenGraph. Sem ela, o build usa
-`http://localhost:3000`.
+`https://novelo-master.fausel.adv.br` (valor padrão em `src/lib/site.ts`).
 
 ## Cloudflare Pages (recomendado)
 
@@ -33,7 +33,7 @@ Adicione um workflow com `actions/configure-pages`, `npm run build` e `actions/u
 ```nginx
 server {
     listen 443 ssl http2;
-    server_name seu-dominio.exemplo;
+    server_name novelo-master.fausel.adv.br;
     root /var/www/novelo/out;
     index index.html;
 
