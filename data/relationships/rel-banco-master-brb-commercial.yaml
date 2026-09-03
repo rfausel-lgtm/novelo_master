@@ -1,0 +1,28 @@
+id: rel-banco-master-brb-commercial
+kind: relationship
+from_id: banco-master
+to_id: banco-de-brasilia-brb
+relationship_type: commercial
+directed: true
+label: cessão de carteiras de crédito
+description: O BRB adquiriu carteiras de crédito do Banco Master. Segundo os autos citados pelo STF, as
+  operações teriam alcançado R$ 12,2 bilhões e envolveriam carteiras supostamente irregulares, apesar
+  de pareceres técnicos contrários; a irregularidade é objeto de investigação, não de julgamento definitivo.
+evidence_class: D
+confidence: 0.85
+status: verified
+event_ids:
+- evt-2026-04-16-compliance-zero-prisao-ex-presidente-brb
+- evt-2025-11-18-operacao-compliance-zero-1a-fase
+evidence_ids:
+- ev-stf-brb-adquiriu-carteiras-12-2-bi
+- ev-pf-carteiras-sem-lastro-vendidas-ao-brb
+source_ids:
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+- src-pf-2025-11-18-compliance-zero
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

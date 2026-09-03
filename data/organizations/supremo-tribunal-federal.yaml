@@ -1,0 +1,21 @@
+id: supremo-tribunal-federal
+kind: organization
+name: Supremo Tribunal Federal
+aliases:
+- STF
+org_type: court
+jurisdiction: Brasil
+summary: Tribunal onde tramitam a PET 15556, o INQ 5026 e petições correlatas do caso Master, sob relatoria
+  do ministro André Mendonça.
+why_in_novelo: É o tribunal competente onde tramitam as investigações do caso Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-stf-2026-03-04-prisao-preventiva-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

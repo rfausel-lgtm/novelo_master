@@ -1,0 +1,16 @@
+id: ev-stf-negociacao-imoveis-vorcaro-costa
+kind: evidence
+classification: A
+proposition: Segundo a investigação citada pelo STF, haveria negociação estimada em R$ 146 milhões em
+  imóveis de luxo entre Daniel Vorcaro e o então presidente do BRB, suspensa após Vorcaro tomar conhecimento
+  das apurações.
+document_ids:
+- doc-2026-04-16-decisao-pet-15771-prisao-brb
+source_ids:
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+attributed_to_id: policia-federal
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

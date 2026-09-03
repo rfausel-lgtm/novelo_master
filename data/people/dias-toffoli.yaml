@@ -1,0 +1,29 @@
+id: dias-toffoli
+kind: person
+name: Dias Toffoli
+full_name: José Antonio Dias Toffoli
+category: judge
+role: Ministro do Supremo Tribunal Federal
+positions:
+- title: Ministro
+  organization_id: supremo-tribunal-federal
+  source_ids:
+  - src-stf-2026-03-20-segunda-turma-mantem-prisao
+summary: Ministro do STF. Segundo comunicação oficial do tribunal de 20/03/2026, declarou suspeição, por
+  razões de foro íntimo, para participar de julgamentos relacionados ao caso Master, após ter sido sorteado
+  relator do MS 40791.
+why_in_novelo: Declarou suspeição, por foro íntimo, para julgamentos relacionados ao caso Master, conforme
+  comunicação oficial do STF.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A relatoria anterior do caso e as razões da suspeição não estão documentadas em fonte primária no corpus;
+  devem ser pesquisadas.
+source_ids:
+- src-stf-2026-03-20-segunda-turma-mantem-prisao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

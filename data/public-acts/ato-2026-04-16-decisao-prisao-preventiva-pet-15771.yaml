@@ -1,0 +1,27 @@
+id: ato-2026-04-16-decisao-prisao-preventiva-pet-15771
+kind: public_act
+title: 'Decisão monocrática na PET 15771: prisão preventiva do ex-presidente do BRB'
+act_type: judicial
+date: '2026-04-16'
+date_precision: day
+issuer_id: andre-mendonca
+actor_ids:
+- andre-mendonca
+affected_ids:
+- paulo-henrique-costa
+description: Decisão do relator decretando a prisão preventiva de Paulo Henrique Bezerra Rodrigues Costa
+  e do advogado Daniel Lopes Monteiro, submetida a referendo da Segunda Turma.
+reference: PET 15771 / INQ 5026
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-prisao-paulo-henrique-costa-2026-04-16
+source_ids:
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+document_ids:
+- doc-2026-04-16-decisao-pet-15771-prisao-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

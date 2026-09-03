@@ -1,0 +1,25 @@
+id: rel-banco-central-banco-master-institutional
+kind: relationship
+from_id: banco-central-do-brasil
+to_id: banco-master
+relationship_type: institutional
+directed: true
+label: liquidação extrajudicial
+start_date: '2025-11-18'
+description: O Banco Central decretou a liquidação extrajudicial do Banco Master e de outras instituições
+  do conglomerado em novembro de 2025.
+evidence_class: D
+confidence: 0.98
+status: verified
+event_ids:
+- evt-2025-11-18-liquidacao-extrajudicial-banco-master
+evidence_ids:
+- ev-bcb-liquidacao-conglomerado-master
+source_ids:
+- src-bcb-2025-11-ata-comef-63
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

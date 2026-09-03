@@ -1,0 +1,19 @@
+id: senado-federal
+kind: organization
+name: Senado Federal
+org_type: public_body
+jurisdiction: Brasil
+summary: Casa legislativa. A PEC 65/2023, mencionada pela PF, tramitou no Senado.
+why_in_novelo: Casa onde tramitou a PEC 65/2023, cuja emenda sobre o FGC é citada pela Polícia Federal
+  em decisão do STF.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-stf-2026-05-07-nova-fase-ciro-nogueira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

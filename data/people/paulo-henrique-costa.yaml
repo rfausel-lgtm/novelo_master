@@ -1,0 +1,27 @@
+id: paulo-henrique-costa
+kind: person
+name: Paulo Henrique Costa
+full_name: Paulo Henrique Bezerra Rodrigues Costa
+category: executive
+role: Ex-presidente do Banco de Brasília (BRB)
+positions:
+- title: Presidente
+  organization_id: banco-de-brasilia-brb
+  source_ids:
+  - src-stf-2026-04-16-prisao-ex-presidente-brb
+summary: Ex-presidente do BRB. Teve prisão preventiva decretada pelo STF em 16/04/2026 (PET 15771) em
+  fase da Compliance Zero relacionada à aquisição, pelo BRB, de carteiras de crédito do Banco Master.
+why_in_novelo: Presidiu o BRB no período em que o banco adquiriu carteiras de crédito do Banco Master
+  e teve prisão preventiva decretada pelo STF em fase da Operação Compliance Zero.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A posição da defesa sobre a decisão de 16/04/2026 não foi localizada em fonte verificada no corpus.
+source_ids:
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

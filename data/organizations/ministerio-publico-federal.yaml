@@ -1,0 +1,23 @@
+id: ministerio-publico-federal
+kind: organization
+name: Ministério Público Federal
+aliases:
+- MPF
+org_type: public_body
+jurisdiction: Brasil
+summary: Segundo a PF, as investigações da Compliance Zero começaram em 2024 a pedido do MPF; a PGR manifestou-se
+  favoravelmente a medidas nas fases posteriores.
+why_in_novelo: Requereu a investigação que deu origem à Operação Compliance Zero, conforme nota oficial
+  da PF.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-pf-2025-11-18-compliance-zero
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

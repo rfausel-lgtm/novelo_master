@@ -1,0 +1,28 @@
+id: andre-mendonca
+kind: person
+name: André Mendonça
+full_name: André Luiz de Almeida Mendonça
+category: judge
+role: Ministro do Supremo Tribunal Federal, relator do caso Master (PET 15556, INQ 5026)
+positions:
+- title: Ministro
+  organization_id: supremo-tribunal-federal
+  source_ids:
+  - src-stf-2026-03-04-prisao-preventiva-vorcaro
+summary: Ministro do STF. Relator da PET 15556 e do INQ 5026, que apuram os fatos conhecidos como caso
+  Master; decretou prisões preventivas e autorizou fases da Operação Compliance Zero a pedido da PF.
+why_in_novelo: É o relator, no STF, das investigações do caso Master e assina as decisões que autorizaram
+  fases da Operação Compliance Zero.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-stf-2026-03-04-prisao-preventiva-vorcaro
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+- src-stf-2026-05-07-nova-fase-ciro-nogueira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

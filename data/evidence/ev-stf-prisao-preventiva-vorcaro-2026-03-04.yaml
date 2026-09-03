@@ -1,0 +1,16 @@
+id: ev-stf-prisao-preventiva-vorcaro-2026-03-04
+kind: evidence
+classification: D
+proposition: Em 04/03/2026 o ministro André Mendonça, relator da PET 15556, decretou a prisão preventiva
+  de Daniel Vorcaro, Fabiano Zettel, Luiz Phillipi Machado de Moraes Mourão e Marilson Roseno da Silva,
+  a pedido da PF.
+document_ids:
+- doc-2026-03-04-decisao-pet-15556-prisao-preventiva
+source_ids:
+- src-stf-2026-03-04-prisao-preventiva-vorcaro
+date: '2026-03-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

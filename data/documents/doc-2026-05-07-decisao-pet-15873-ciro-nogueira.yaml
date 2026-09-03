@@ -1,0 +1,32 @@
+id: doc-2026-05-07-decisao-pet-15873-ciro-nogueira
+kind: document
+title: 'Decisão do relator na Pet 15873 (nova fase da Compliance Zero: senador Ciro Nogueira), conforme
+  comunicação oficial do STF'
+doc_type: judicial_decision
+date: '2026-05-07'
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça (STF)
+reference: Pet 15873
+url: https://noticias.stf.jus.br/postsnoticias/stf-autoriza-nova-fase-da-operacao-compliance-zero/
+source_ids:
+- src-stf-2026-05-07-nova-fase-ciro-nogueira
+summary: Decisão que autorizou nova fase da operação, decretou prisão temporária de Felipe Cançado Vorcaro
+  e impôs cautelares ao senador Ciro Nogueira e a outros investigados; descreve as suspeitas apresentadas
+  pela PF (emenda à PEC 65/2023 sobre o FGC, pagamentos e vantagens).
+excerpt: A PF aponta que Ciro Nogueira apresentou uma emenda à Proposta de Emenda à Constituição (PEC)
+  65/2023, que ampliava a cobertura do Fundo Garantidor de Crédito (FGC) de R$ 250 mil para R$ 1 milhão
+  por depositante. Segundo a investigação, o texto teria sido elaborado pela assessoria do Banco Master
+  e entregue ao parlamentar.
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- ciro-nogueira
+- daniel-vorcaro
+- felipe-cancado-vorcaro
+- banco-master
+- fundo-garantidor-de-creditos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

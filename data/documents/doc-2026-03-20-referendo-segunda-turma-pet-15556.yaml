@@ -1,0 +1,30 @@
+id: doc-2026-03-20-referendo-segunda-turma-pet-15556
+kind: document
+title: Referendo da Segunda Turma do STF à prisão preventiva na PET 15556, conforme comunicação oficial
+  do STF
+doc_type: judicial_decision
+date: '2026-03-20'
+issuer_id: supremo-tribunal-federal
+issuer: Segunda Turma do STF
+reference: PET 15556
+url: https://noticias.stf.jus.br/postsnoticias/2a-turma-do-stf-mantem-prisao-de-daniel-vorcaro-e-de-outros-investigados-no-caso-master/
+source_ids:
+- src-stf-2026-03-20-segunda-turma-mantem-prisao
+summary: Julgamento virtual em que a Segunda Turma (Mendonça, Fux, Nunes Marques, Gilmar Mendes) manteve
+  por unanimidade a prisão preventiva de Vorcaro e outros; registra a suspeição declarada por Dias Toffoli
+  para o caso Master.
+is_official: true
+related_entity_ids:
+- supremo-tribunal-federal
+- daniel-vorcaro
+- fabiano-zettel
+- andre-mendonca
+- gilmar-mendes
+- luiz-fux
+- nunes-marques
+- dias-toffoli
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

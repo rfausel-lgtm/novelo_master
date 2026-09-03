@@ -1,0 +1,22 @@
+id: progressistas-pp
+kind: organization
+name: Progressistas (PP)
+full_name: Progressistas
+aliases:
+- PP
+org_type: party
+jurisdiction: Brasil
+summary: Partido político ao qual o senador Ciro Nogueira é filiado, conforme comunicação oficial do STF.
+why_in_novelo: Partido do senador Ciro Nogueira, citado em comunicação oficial do STF sobre fase da Operação
+  Compliance Zero.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-stf-2026-05-07-nova-fase-ciro-nogueira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

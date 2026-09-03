@@ -1,0 +1,39 @@
+id: evt-2026-03-04-compliance-zero-prisao-preventiva-stf
+kind: event
+title: STF decreta prisão preventiva de Daniel Vorcaro e outros (3ª fase da Compliance Zero)
+event_type: judicial_decision
+date: '2026-03-04'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- supremo-tribunal-federal
+- policia-federal
+- daniel-vorcaro
+- fabiano-zettel
+description: O ministro André Mendonça, relator da PET 15556, decretou a prisão preventiva de Daniel Vorcaro,
+  Fabiano Zettel, Luiz Phillipi Machado de Moraes Mourão e Marilson Roseno da Silva, a pedido da PF, por
+  'risco concreto de interferência nas investigações', e determinou a suspensão de empresas vinculadas
+  e cautelares a servidores do Banco Central. A defesa do banqueiro negou obstrução, segundo a CNN Brasil.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-prisao-preventiva-vorcaro-2026-03-04
+source_ids:
+- src-stf-2026-03-04-prisao-preventiva-vorcaro
+- src-cnn-2026-03-04-relembre-crise-master
+document_ids:
+- doc-2026-03-04-decisao-pet-15556-prisao-preventiva
+public_act_ids:
+- ato-2026-03-04-decisao-prisao-preventiva-pet-15556
+cited_position:
+- date: '2026-03-04'
+  by_id: daniel-vorcaro
+  kind: denial
+  summary: A defesa do banqueiro negou que ele tenha obstruído as investigações, segundo a CNN Brasil.
+  source_ids:
+  - src-cnn-2026-03-04-relembre-crise-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

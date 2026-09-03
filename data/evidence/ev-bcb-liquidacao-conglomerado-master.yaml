@@ -1,0 +1,18 @@
+id: ev-bcb-liquidacao-conglomerado-master
+kind: evidence
+classification: D
+proposition: O Banco Central decretou a liquidação extrajudicial do Banco Master S.A., do Banco Master
+  de Investimento S.A., do Banco Letsbank S.A. e da Master S.A. CCTVM, e RAET no Banco Master Múltiplo
+  S.A.
+document_ids:
+- doc-2025-11-ata-comef-63
+source_ids:
+- src-bcb-2025-11-ata-comef-63
+excerpt: O Banco Central decretou a liquidação extrajudicial do Banco Master S.A., do Banco Master de
+  Investimento S.A., do Banco Letsbank S.A., e da Master S.A. Corretora de Câmbio, Títulos e Valores Mobiliários
+date: 2025-11
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,25 @@
+id: banco-de-brasilia-brb
+kind: organization
+name: BRB
+full_name: Banco de Brasília S.A.
+aliases:
+- Banco de Brasília
+org_type: financial_institution
+jurisdiction: Distrito Federal
+summary: Banco controlado pelo Governo do Distrito Federal. Segundo decisão do STF (PET 15771), teria
+  adquirido carteiras de crédito do Banco Master que alcançariam R$ 12,2 bilhões, apesar de pareceres
+  técnicos e jurídicos contrários.
+why_in_novelo: Adquiriu carteiras de crédito do Banco Master que são objeto central da Operação Compliance
+  Zero, segundo comunicações oficiais da PF e do STF.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-pf-2025-11-18-compliance-zero
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

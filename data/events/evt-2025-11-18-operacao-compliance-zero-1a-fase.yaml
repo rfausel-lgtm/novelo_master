@@ -1,0 +1,33 @@
+id: evt-2025-11-18-operacao-compliance-zero-1a-fase
+kind: event
+title: Deflagração da Operação Compliance Zero (1ª fase)
+event_type: investigation_step
+date: '2025-11-18'
+date_precision: day
+participant_ids:
+- policia-federal
+- banco-master
+- daniel-vorcaro
+- banco-de-brasilia-brb
+description: A Polícia Federal deflagrou a Operação Compliance Zero com sete mandados de prisão e 25 de
+  busca e apreensão no DF, RJ, SP, BA e MG, para combater a emissão de títulos de crédito falsos por instituições
+  do Sistema Financeiro Nacional. Segundo a PF, as investigações começaram em 2024 a pedido do MPF e apontam
+  que o Banco Master teria criado carteiras de crédito sem lastro, vendidas ao BRB. Daniel Vorcaro foi
+  preso na operação, segundo a imprensa, e solto em menos de duas semanas por decisão do TRF.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-pf-deflagra-compliance-zero-2025-11-18
+- ev-pf-carteiras-sem-lastro-vendidas-ao-brb
+- ev-cnn-primeira-prisao-revogada-trf
+source_ids:
+- src-pf-2025-11-18-compliance-zero
+- src-cnn-2026-03-04-relembre-crise-master
+document_ids:
+- doc-2025-11-18-nota-pf-compliance-zero
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,16 @@
+id: ev-stf-vorcaro-dono-do-master
+kind: evidence
+classification: D
+proposition: Comunicações oficiais do STF descrevem Daniel Vorcaro como dono e controlador do Banco Master.
+document_ids:
+- doc-2026-03-04-decisao-pet-15556-prisao-preventiva
+- doc-2026-04-16-decisao-pet-15771-prisao-brb
+source_ids:
+- src-stf-2026-03-04-prisao-preventiva-vorcaro
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+excerpt: o dono do Banco Master, Daniel Vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,31 @@
+id: rel-daniel-vorcaro-ciro-nogueira-allegation
+kind: relationship
+from_id: daniel-vorcaro
+to_id: ciro-nogueira
+relationship_type: investigative_allegation
+directed: false
+label: suposta atuação em favor de interesses (segundo a PF)
+description: Segundo a PF, conforme comunicação oficial do STF de 07/05/2026, o senador teria atuado em
+  favor de interesses de Daniel Vorcaro (inclusive por emenda à PEC 65/2023 sobre a cobertura do FGC)
+  em troca de vantagens. O relator descreveu indícios de 'arranjo funcional' que extrapolaria 'relações
+  de mera amizade'. Trata-se de suspeita da PF sob investigação; não há julgamento de mérito e a posição
+  do senador não foi localizada no corpus.
+evidence_class: A
+confidence: 0.5
+status: unverified
+event_ids:
+- evt-2026-05-07-compliance-zero-fase-ciro-nogueira
+evidence_ids:
+- ev-pf-emenda-pec-65-fgc-ciro-nogueira
+- ev-pf-vantagens-ciro-nogueira
+source_ids:
+- src-stf-2026-05-07-nova-fase-ciro-nogueira
+document_ids: []
+cited_position:
+- kind: not_located
+  summary: Posição pública do senador sobre as suspeitas não localizada em fonte verificada no corpus.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,31 @@
+id: doc-2026-04-16-decisao-pet-15771-prisao-brb
+kind: document
+title: Decisão do relator na PET 15771 (prisão preventiva do ex-presidente do BRB), conforme comunicação
+  oficial do STF
+doc_type: judicial_decision
+date: '2026-04-16'
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça (STF)
+reference: PET 15771 / INQ 5026
+url: https://noticias.stf.jus.br/postsnoticias/stf-determina-prisao-de-ex-presidente-do-brb-e-de-advogado-suspeitos-de-fraudes-bilionarias/
+source_ids:
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+summary: Decisão que decretou a prisão preventiva de Paulo Henrique Bezerra Rodrigues Costa (ex-presidente
+  do BRB) e do advogado Daniel Lopes Monteiro; descreve, segundo os autos, carteiras de crédito de R$
+  12,2 bilhões adquiridas pelo BRB apesar de pareceres contrários e negociação estimada em R$ 146 milhões
+  em imóveis entre Vorcaro e o então presidente do BRB.
+excerpt: Conforme os autos, as operações teriam alcançado R$ 12,2 bilhões em carteiras de crédito supostamente
+  irregulares adquiridas pelo BRB, apesar de pareceres técnicos e jurídicos contrários à operação financeira,
+  desconsiderados pelo gestor do Banco de Brasília.
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- paulo-henrique-costa
+- banco-de-brasilia-brb
+- banco-master
+- daniel-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

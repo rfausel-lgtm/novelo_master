@@ -1,0 +1,32 @@
+id: doc-2026-03-04-decisao-pet-15556-prisao-preventiva
+kind: document
+title: Decisão do relator na PET 15556 (prisão preventiva de Daniel Vorcaro e outros), conforme comunicação
+  oficial do STF
+doc_type: judicial_decision
+date: '2026-03-04'
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça (STF)
+reference: PET 15556
+url: https://noticias.stf.jus.br/postsnoticias/stf-atende-a-pedido-da-pf-e-determina-prisao-de-daniel-vorcaro-e-outros-investigados-por-supostas-fraudes-no-banco-master/
+source_ids:
+- src-stf-2026-03-04-prisao-preventiva-vorcaro
+summary: Decisão monocrática que decretou a prisão preventiva de Daniel Vorcaro, Fabiano Zettel, Luiz
+  Phillipi Machado de Moraes Mourão e Marilson Roseno da Silva, suspendeu empresas vinculadas e impôs
+  cautelares a servidores do Banco Central. O conteúdo aqui registrado é o descrito na comunicação oficial
+  do STF; a íntegra da decisão está vinculada na página.
+excerpt: A investigação aponta a existência de esquema de fraudes bilionárias no mercado financeiro, supostamente
+  comandado e coordenado por Vorcaro, que também atuaria na interlocução direta com servidores do Banco
+  Central responsáveis pela supervisão bancária no órgão.
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- daniel-vorcaro
+- fabiano-zettel
+- supremo-tribunal-federal
+- policia-federal
+- banco-central-do-brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

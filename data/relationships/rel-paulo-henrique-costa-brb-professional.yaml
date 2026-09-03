@@ -1,0 +1,24 @@
+id: rel-paulo-henrique-costa-brb-professional
+kind: relationship
+from_id: paulo-henrique-costa
+to_id: banco-de-brasilia-brb
+relationship_type: professional
+directed: false
+label: ex-presidente
+description: Paulo Henrique Bezerra Rodrigues Costa presidiu o BRB, conforme comunicação oficial do STF
+  que o descreve como ex-presidente do banco.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids:
+- evt-2026-04-16-compliance-zero-prisao-ex-presidente-brb
+evidence_ids:
+- ev-stf-prisao-paulo-henrique-costa-2026-04-16
+source_ids:
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

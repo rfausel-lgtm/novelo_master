@@ -1,0 +1,25 @@
+id: src-stf-2026-05-07-nova-fase-ciro-nogueira
+kind: source
+title: STF autoriza nova fase da Operação Compliance Zero
+publisher: Supremo Tribunal Federal (Notícias STF)
+author: Edilene Cordeiro
+publication_date: '2026-05-07'
+retrieved_at: '2026-09-03'
+url: https://noticias.stf.jus.br/postsnoticias/stf-autoriza-nova-fase-da-operacao-compliance-zero/
+source_type: official_court
+summary: O ministro André Mendonça autorizou, na Pet 15873, nova fase da Compliance Zero envolvendo suposta
+  atuação do senador Ciro Nogueira (PP-PI) em favor de Daniel Vorcaro; decretou prisão temporária de Felipe
+  Cançado Vorcaro por cinco dias e medidas cautelares ao senador e a outros investigados. A PF aponta
+  que Ciro Nogueira apresentou emenda à PEC 65/2023 ampliando a cobertura do FGC de R$ 250 mil para R$
+  1 milhão por depositante, texto que teria sido elaborado pela assessoria do Banco Master; aponta ainda
+  pagamentos mensais e outras vantagens ao parlamentar, segundo relatos colhidos pela PF.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (curl + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

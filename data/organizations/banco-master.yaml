@@ -1,0 +1,30 @@
+id: banco-master
+kind: organization
+name: Banco Master
+full_name: Banco Master S.A.
+aliases:
+- Master
+- Conglomerado Master
+- Banco Máxima (nome anterior)
+org_type: financial_institution
+jurisdiction: Brasil
+summary: Instituição líder do Conglomerado Master, controlada por Daniel Vorcaro. Teve liquidação extrajudicial
+  decretada pelo Banco Central em novembro de 2025, junto com o Banco Master de Investimento, o Banco
+  Letsbank e a Master CCTVM; o Banco Master Múltiplo foi submetido a RAET.
+why_in_novelo: É a instituição financeira cuja liquidação extrajudicial pelo Banco Central e cujas operações
+  investigadas pela Polícia Federal constituem o núcleo do caso.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O CNPJ e os atos societários devem ser confirmados em registro oficial.
+source_ids:
+- src-bcb-2025-11-ata-comef-63
+- src-pf-2025-11-18-compliance-zero
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

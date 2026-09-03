@@ -1,0 +1,40 @@
+id: daniel-vorcaro
+kind: person
+name: Daniel Vorcaro
+full_name: Daniel Bueno Vorcaro
+aliases: []
+category: banker
+role: Controlador do Banco Master (até a liquidação em novembro de 2025)
+positions:
+- title: Controlador / acionista
+  organization_id: banco-master
+  source_ids:
+  - src-stf-2026-03-04-prisao-preventiva-vorcaro
+summary: Banqueiro, controlador do Banco Master. Foi preso na deflagração da Operação Compliance Zero
+  (18/11/2025), solto em seguida por decisão do TRF segundo a imprensa, e teve prisão preventiva decretada
+  pelo STF em 04/03/2026 (PET 15556), mantida pela Segunda Turma em 20/03/2026.
+why_in_novelo: É o controlador do Banco Master, instituição liquidada pelo Banco Central em novembro de
+  2025, e investigado central da Operação Compliance Zero conduzida pela Polícia Federal sob relatoria
+  do STF.
+cited_position:
+- date: '2026-03-04'
+  kind: denial
+  summary: Segundo a CNN Brasil, após a prisão de 04/03/2026 a defesa do banqueiro negou que ele tenha
+    obstruído as investigações relacionadas à instituição financeira.
+  source_ids:
+  - src-cnn-2026-03-04-relembre-crise-master
+open_questions:
+- Não há, no corpus, a íntegra das decisões judiciais; o conteúdo registrado é o das comunicações oficiais
+  do STF.
+- As alegações da PF sobre pagamentos a agentes públicos permanecem sob investigação e não foram julgadas.
+source_ids:
+- src-stf-2026-03-04-prisao-preventiva-vorcaro
+- src-stf-2026-03-20-segunda-turma-mantem-prisao
+- src-cnn-2026-03-04-relembre-crise-master
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

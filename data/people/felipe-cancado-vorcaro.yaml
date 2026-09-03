@@ -1,0 +1,21 @@
+id: felipe-cancado-vorcaro
+kind: person
+name: Felipe Cançado Vorcaro
+category: businessperson
+role: Apontado pela PF como operador financeiro de Daniel Vorcaro
+summary: Teve prisão temporária de cinco dias decretada pelo STF em 07/05/2026 (Pet 15873). Segundo a
+  PF, integraria o núcleo financeiro-operacional do grupo investigado.
+why_in_novelo: Teve prisão temporária decretada pelo STF em fase da Operação Compliance Zero, sendo apontado
+  pela Polícia Federal como operador financeiro de Daniel Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O grau de parentesco com Daniel Vorcaro não está registrado nas fontes oficiais do corpus.
+source_ids:
+- src-stf-2026-05-07-nova-fase-ciro-nogueira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

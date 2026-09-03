@@ -1,0 +1,27 @@
+id: evt-2026-03-toffoli-declara-suspeicao-caso-master
+kind: event
+title: Dias Toffoli declara suspeição para o caso Master
+event_type: judicial_decision
+date: 2026-03
+date_precision: month
+participant_ids:
+- dias-toffoli
+- supremo-tribunal-federal
+description: Segundo comunicação oficial do STF de 20/03/2026, o ministro Dias Toffoli declarou suspeição,
+  por razões de foro íntimo, para participar de julgamentos relacionados ao caso Master, após ter sido
+  sorteado relator do MS 40791, que pedia a instalação de CPI na Câmara sobre o Banco Master; o MS foi
+  redistribuído. A data exata da declaração não consta da comunicação.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-toffoli-suspeicao-caso-master
+source_ids:
+- src-stf-2026-03-20-segunda-turma-mantem-prisao
+document_ids:
+- doc-2026-03-20-referendo-segunda-turma-pet-15556
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

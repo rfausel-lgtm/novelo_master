@@ -1,0 +1,25 @@
+id: rel-daniel-vorcaro-fabiano-zettel-familial
+kind: relationship
+from_id: daniel-vorcaro
+to_id: fabiano-zettel
+relationship_type: familial
+directed: false
+label: cunhado
+description: Comunicação oficial do STF descreve Fabiano Zettel como cunhado de Daniel Vorcaro. Ambos
+  tiveram prisão preventiva decretada na mesma decisão (PET 15556).
+evidence_class: D
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2026-03-04-compliance-zero-prisao-preventiva-stf
+- evt-2026-03-20-segunda-turma-mantem-prisao-vorcaro
+evidence_ids:
+- ev-stf-zettel-cunhado-de-vorcaro
+source_ids:
+- src-stf-2026-03-20-segunda-turma-mantem-prisao
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

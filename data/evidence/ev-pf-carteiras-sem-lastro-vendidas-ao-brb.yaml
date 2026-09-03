@@ -1,0 +1,17 @@
+id: ev-pf-carteiras-sem-lastro-vendidas-ao-brb
+kind: evidence
+classification: A
+proposition: Segundo a PF, o Banco Master teria criado carteiras de crédito sem lastro, posteriormente
+  vendidas ao BRB e substituídas por ativos sem avaliação técnica adequada após fiscalização do Banco
+  Central.
+document_ids:
+- doc-2025-11-18-nota-pf-compliance-zero
+source_ids:
+- src-pf-2025-11-18-compliance-zero
+attributed_to_id: policia-federal
+date: '2025-11-18'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

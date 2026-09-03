@@ -1,0 +1,26 @@
+id: nunes-marques
+kind: person
+name: Nunes Marques
+full_name: Kassio Nunes Marques
+category: judge
+role: Ministro do Supremo Tribunal Federal
+positions:
+- title: Ministro
+  organization_id: supremo-tribunal-federal
+  source_ids:
+  - src-stf-2026-03-20-segunda-turma-mantem-prisao
+summary: Ministro do STF, integrante da Segunda Turma que referendou em 20/03/2026 a prisão preventiva
+  de Daniel Vorcaro e outros investigados (PET 15556).
+why_in_novelo: Votou, na Segunda Turma do STF, no referendo da prisão preventiva de investigados do caso
+  Master, conforme comunicação oficial do tribunal.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-stf-2026-03-20-segunda-turma-mantem-prisao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

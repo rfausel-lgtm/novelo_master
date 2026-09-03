@@ -1,0 +1,28 @@
+id: ato-2026-03-04-decisao-prisao-preventiva-pet-15556
+kind: public_act
+title: 'Decisão monocrática na PET 15556: prisão preventiva de Daniel Vorcaro e outros'
+act_type: judicial
+date: '2026-03-04'
+date_precision: day
+issuer_id: andre-mendonca
+actor_ids:
+- andre-mendonca
+affected_ids:
+- daniel-vorcaro
+- fabiano-zettel
+description: Decisão do relator, a pedido da PF, decretando prisão preventiva de quatro investigados,
+  suspensão de empresas e medidas cautelares a servidores do Banco Central e a outros investigados.
+reference: PET 15556
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-prisao-preventiva-vorcaro-2026-03-04
+source_ids:
+- src-stf-2026-03-04-prisao-preventiva-vorcaro
+document_ids:
+- doc-2026-03-04-decisao-pet-15556-prisao-preventiva
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

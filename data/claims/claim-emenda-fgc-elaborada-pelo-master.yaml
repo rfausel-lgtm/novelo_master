@@ -1,0 +1,37 @@
+id: claim-emenda-fgc-elaborada-pelo-master
+kind: claim
+statement: A emenda à PEC 65/2023 apresentada pelo senador Ciro Nogueira, ampliando a cobertura do FGC,
+  teria sido elaborada pela assessoria do Banco Master.
+classification: A
+status: unverified
+claimant_id: policia-federal
+claimant: Polícia Federal (conforme comunicação oficial do STF)
+date: '2026-05-07'
+related_entity_ids:
+- ciro-nogueira
+- banco-master
+- daniel-vorcaro
+- fundo-garantidor-de-creditos
+event_ids:
+- evt-2026-05-07-compliance-zero-fase-ciro-nogueira
+evidence_ids:
+- ev-pf-emenda-pec-65-fgc-ciro-nogueira
+source_ids:
+- src-stf-2026-05-07-nova-fase-ciro-nogueira
+limits: Os documentos do corpus registram que a PF sustenta essa hipótese e que o relator a considerou
+  suficiente para medidas cautelares. Não há, no corpus, o texto da emenda, sua data de apresentação nem
+  a íntegra da decisão; não há julgamento de mérito.
+counter_position:
+- kind: not_located
+  summary: Posição do senador não localizada em fonte verificada no corpus.
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: 'Verificou-se se a comunicação oficial do STF atribui a afirmação à PF (sim) e
+    se apresenta o fato como provado (não: usa ''teria sido''). Classificação A mantida; status unverified.'
+  outcome: stands
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

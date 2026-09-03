@@ -1,0 +1,27 @@
+id: doc-2025-11-18-nota-pf-compliance-zero
+kind: document
+title: Nota oficial da Polícia Federal sobre a deflagração da Operação Compliance Zero
+doc_type: public_statement
+date: '2025-11-18'
+issuer_id: policia-federal
+issuer: Polícia Federal
+url: https://www.gov.br/pf/pt-br/assuntos/noticias/2025/11/policia-federal-combate-crimes-praticados-contra-o-sistema-financeiro-nacional
+source_ids:
+- src-pf-2025-11-18-compliance-zero
+summary: 'Comunicação oficial da PF: deflagração da Operação Compliance Zero em 18/11/2025 com sete mandados
+  de prisão e 25 de busca e apreensão no DF, RJ, SP, BA e MG, para combater a emissão de títulos de crédito
+  falsos; investigações iniciadas em 2024 a pedido do MPF; suspeita de carteiras de crédito sem lastro
+  criadas pelo Banco Master e vendidas ao BRB.'
+excerpt: A Polícia Federal deflagrou, nesta quarta-feira (18/11), a Operação Compliance Zero, com o objetivo
+  de combater a emissão de títulos de crédito falsos por instituições financeiras que integram o Sistema
+  Financeiro Nacional.
+is_official: true
+related_entity_ids:
+- policia-federal
+- banco-master
+- banco-de-brasilia-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

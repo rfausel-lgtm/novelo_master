@@ -1,0 +1,36 @@
+id: evt-2026-04-16-compliance-zero-prisao-ex-presidente-brb
+kind: event
+title: STF decreta prisão preventiva do ex-presidente do BRB (nova fase da Compliance Zero)
+event_type: judicial_decision
+date: '2026-04-16'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- supremo-tribunal-federal
+- policia-federal
+- paulo-henrique-costa
+- banco-de-brasilia-brb
+- banco-master
+- daniel-vorcaro
+description: O ministro André Mendonça decretou, na PET 15771 (INQ 5026), a prisão preventiva de Paulo
+  Henrique Bezerra Rodrigues Costa, ex-presidente do BRB, e do advogado Daniel Lopes Monteiro, a pedido
+  da PF com manifestação favorável da PGR. Segundo os autos, o BRB teria adquirido carteiras de crédito
+  do Master de até R$ 12,2 bilhões apesar de pareceres contrários; a investigação aponta negociação estimada
+  em R$ 146 milhões em imóveis entre Vorcaro e o então presidente do BRB.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-prisao-paulo-henrique-costa-2026-04-16
+- ev-stf-brb-adquiriu-carteiras-12-2-bi
+- ev-stf-negociacao-imoveis-vorcaro-costa
+source_ids:
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+document_ids:
+- doc-2026-04-16-decisao-pet-15771-prisao-brb
+public_act_ids:
+- ato-2026-04-16-decisao-prisao-preventiva-pet-15771
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,29 @@
+id: ato-2025-11-18-liquidacao-extrajudicial-conglomerado-master
+kind: public_act
+title: Liquidação extrajudicial de instituições do Conglomerado Master
+act_type: regulatory
+date: '2025-11-18'
+date_precision: day
+issuer_id: banco-central-do-brasil
+actor_ids:
+- banco-central-do-brasil
+affected_ids:
+- banco-master
+description: Decretação, pelo Banco Central, da liquidação extrajudicial do Banco Master S.A., do Banco
+  Master de Investimento S.A., do Banco Letsbank S.A. e da Master S.A. CCTVM, e de RAET no Banco Master
+  Múltiplo S.A., conforme ata do Comef.
+reference: Ata 63 do Comef
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-bcb-liquidacao-conglomerado-master
+source_ids:
+- src-bcb-2025-11-ata-comef-63
+document_ids:
+- doc-2025-11-ata-comef-63
+url: https://www.bcb.gov.br/content/publicacoes/atascomef/202511/Ata_63_Comef_pt.pdf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

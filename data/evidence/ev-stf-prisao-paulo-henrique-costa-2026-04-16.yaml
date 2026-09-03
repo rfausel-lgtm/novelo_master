@@ -1,0 +1,15 @@
+id: ev-stf-prisao-paulo-henrique-costa-2026-04-16
+kind: evidence
+classification: D
+proposition: Em 16/04/2026 o ministro André Mendonça decretou a prisão preventiva de Paulo Henrique Bezerra
+  Rodrigues Costa, ex-presidente do BRB, e do advogado Daniel Lopes Monteiro (PET 15771).
+document_ids:
+- doc-2026-04-16-decisao-pet-15771-prisao-brb
+source_ids:
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+date: '2026-04-16'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

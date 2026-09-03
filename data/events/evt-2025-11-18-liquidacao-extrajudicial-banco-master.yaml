@@ -1,0 +1,30 @@
+id: evt-2025-11-18-liquidacao-extrajudicial-banco-master
+kind: event
+title: Banco Central decreta liquidação extrajudicial do Banco Master
+event_type: regulatory_act
+date: '2025-11-18'
+date_precision: day
+participant_ids:
+- banco-central-do-brasil
+- banco-master
+description: O Banco Central decretou a liquidação extrajudicial do Banco Master S.A., do Banco Master
+  de Investimento S.A., do Banco Letsbank S.A. e da Master S.A. CCTVM, e Regime de Administração Especial
+  Temporária no Banco Master Múltiplo S.A. A ata do Comef avalia que a medida não traz risco sistêmico.
+  A data de 18/11/2025 é a registrada pela imprensa; a ata do Comef (novembro de 2025) confirma a decretação
+  sem indicar o dia.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-bcb-liquidacao-conglomerado-master
+source_ids:
+- src-bcb-2025-11-ata-comef-63
+- src-cnn-2026-03-04-relembre-crise-master
+document_ids:
+- doc-2025-11-ata-comef-63
+public_act_ids:
+- ato-2025-11-18-liquidacao-extrajudicial-conglomerado-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
