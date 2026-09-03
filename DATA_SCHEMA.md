@@ -393,7 +393,7 @@ Sequências:
 - Termo imputativo (`criminoso`, `corrupto`, `bandido`, `quadrilha`, `fraudador`, `ladrão`, `propina`, `lavou dinheiro`, `comprou o ministro`, `comprou a decisão`, `mensalão`, `esquema criminoso`) sem qualificador de atribuição no mesmo texto (`segundo`, `conforme`, `de acordo com`, `alega`, `afirma`, `aponta`, `sustenta`, `acusa`, `denúncia`, `suspeita`, `investiga`, `hipótese`, `nega`, `supost-`, `presum-`, `teria`, e flexões), nos campos `proposition`, `summary`, `why_in_novelo`, `description`, `label`, `statement`. O lint é heurístico: um qualificador em qualquer ponto do texto suprime o aviso, e o revisor humano continua responsável.
 - Relação `investigative_allegation` classificada como D (confirmar se o documento prova o fato ou só registra a alegação).
 - Relação `intermediary` sem `via_id`.
-- Relação sem `start_date` e sem `event_ids` (não terá data própria na máquina do tempo).
+- (Nota informativa, nunca bloqueante) Relação sem `start_date` e sem `event_ids` não terá data própria na máquina do tempo.
 - Registro `draft` ou `in_review` excluído do build quando não se usa `--include-drafts` (aviso do carregador, nunca bloqueante).
 
 O que o lint não verifica: independência real entre fontes de classe C, veracidade do conteúdo, coerência entre `is_official` do documento e o tipo da fonte, e a qualidade do `inference_basis`. Isso é trabalho do gauntlet ([EDITORIAL_POLICY.md](EDITORIAL_POLICY.md#1-o-gauntlet-editorial)). O conjunto `OFFICIAL_SOURCE_TYPES` não influencia o lint; ele alimenta apenas a flag `official` das arestas no build do grafo.

@@ -5,7 +5,7 @@ import { z } from "zod";
 import { COLLECTIONS, type CollectionName, type Corpus } from "../../src/lib/schema";
 
 export interface LoadIssue {
-  level: "error" | "warning";
+  level: "error" | "warning" | "info";
   file: string;
   message: string;
   /** Falso quando o registro ainda não está publicado (avisos não bloqueiam em modo estrito). */

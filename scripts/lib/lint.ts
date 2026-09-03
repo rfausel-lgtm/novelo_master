@@ -18,8 +18,10 @@ import type { LoadIssue } from "./load";
  * AVISOS (não bloqueiam; em modo estrito bloqueiam apenas registros publicados):
  *  - vocabulário imputativo sem qualificador de alegação;
  *  - agente sem cited_position; claim sem counter_position ou sem adversarial_review;
- *  - relação sem data; fonte sem verification; fonte de rede social/blog;
+ *  - fonte sem verification; fonte de rede social/blog;
  *  - prefixo de id fora da convenção.
+ *
+ * INFO (nunca bloqueia): relação sem data própria para a time machine.
  */
 
 const IMPUTATIVE_TERMS = [
@@ -104,6 +106,7 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
   const err = (file: string, message: string) => issues.push({ level: "error", file, message });
   const warn = (file: string, message: string, published = true) =>
     issues.push({ level: "warning", file, message, published });
+  const info = (file: string, message: string) => issues.push({ level: "info", file, message });
 
   const checkRefs = (file: string, field: string, refs: string[] | undefined, allowedKinds?: string[]) => {
     for (const ref of refs ?? []) {
@@ -328,7 +331,7 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
       warn(file, "relação de intermediação sem via_id", pub);
     }
     if (!r.start_date && r.event_ids.length === 0) {
-      warn(file, "relação sem start_date nem event_ids: não aparecerá na time machine com data própria", pub);
+      info(file, "relação sem start_date nem event_ids: não aparecerá na time machine com data própria");
     }
     if (r.evidence_class === "D") {
       const docViaEvidence = linked.some((e) => e.document_ids.length > 0);
