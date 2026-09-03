@@ -1,0 +1,27 @@
+id: doc-2026-02-decisao-zona-cinzenta-4a-vara-ap
+kind: document
+title: Decisão da 4ª Vara Federal Criminal do Amapá que autorizou a operação Zona Cinzenta
+doc_type: judicial_decision
+date: 2026-02
+source_ids:
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+summary: Decisão de 14 páginas em pedido de busca e apreensão criminal apresentado pela Polícia Federal
+  no Amapá. Individualiza a conduta de José Milton Afonso Gonçalves, Jackson Rubens de Oliveira e Jocildo
+  Silva Lemos nas deliberações do Comitê de Investimentos da Amprev, defere as buscas, determina a expedição
+  dos mandados e defere o compartilhamento de provas pedido pela autoridade policial.
+is_official: true
+related_entity_ids:
+- policia-federal
+- amapa-previdencia
+- jocildo-lemos
+- banco-master
+issuer_id: tribunal-regional-federal-da-1a-regiao
+issuer: Juiz federal Jucelio Fleury Neto, 4ª Vara Federal Criminal da Seção Judiciária do Amapá
+date_precision: month
+url: https://static.poder360.com.br/2026/02/PEDIDO-DE-BUSCA-E-APREENSAO-CRIMINAL-1.pdf
+reference: Justiça Federal, SJAP, 4ª Vara Federal Criminal — pedido de busca e apreensão criminal (309)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

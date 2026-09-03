@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 7 do corpus, a partir de documentos primários lidos na íntegra: decisão da Petição 16.229
+  (9ª fase da Compliance Zero, 17/06/2026), com os três eixos da apuração sobre Jaques Wagner, o
+  apartamento nº 1.702 do Poème Horto, a BN Financeira, a Epítome S.A. e as medidas cautelares;
+  decisão da 4ª Vara Federal Criminal do Amapá na operação Zona Cinzenta, com a conduta
+  individualizada dos gestores da Amprev e a ata de 30/07/2024; decisão da 6ª fase; e nota da defesa
+  de Thiago Miranda. Os eventos da 9ª fase e da Zona Cinzenta deixaram de ser corroborados por
+  imprensa e passaram a ser documentais.
 - Retratos de 37 pessoas e marcas de 13 organizações, do Wikimedia Commons, com autoria, licença e
   link para o arquivo original exibidos junto da imagem; coletor em `python/novelo_osint/fotos.py`
   recusa licença não livre, imagem que não seja marca própria e arquivo repetido entre entidades.

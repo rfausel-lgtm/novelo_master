@@ -1,0 +1,27 @@
+id: valerio-marega-junior
+kind: person
+name: Valério Marega Júnior
+category: businessperson
+role: Empresário citado na decisão da 9ª fase como acionado para operacionalizar a aquisição do apartamento
+positions: []
+summary: 'Aparece na decisão da Petição 16.229 do STF, que reproduz a narrativa da Polícia Federal: Augusto
+  Lima teria acionado Valério Marega Júnior, identificado como ''Valério Fundos'', para tratar da operacionalização
+  da aquisição do apartamento nº 1.702 do empreendimento Poème Horto. A descrição é da autoridade policial
+  e não houve juízo de mérito.'
+why_in_novelo: É nomeado em decisão pública do STF como quem teria sido acionado para operacionalizar
+  a compra do imóvel no centro do primeiro eixo da investigação sobre Jaques Wagner.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O corpus não registra manifestação de Valério Marega Júnior.
+- A decisão descreve a narrativa da PF; não há juízo de mérito sobre a conduta.
+source_ids:
+- src-poder360-2026-06-18-nona-fase-wagner
+aliases:
+- Valério Fundos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

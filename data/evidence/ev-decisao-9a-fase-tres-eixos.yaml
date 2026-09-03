@@ -1,0 +1,17 @@
+id: ev-decisao-9a-fase-tres-eixos
+kind: evidence
+classification: D
+proposition: 'A decisão da Petição 16.229 organiza a narrativa policial em três eixos: entrega de vantagens
+  econômicas (com destaque para o apartamento nº 1.702 do Poème Horto), pagamentos e cobranças ligados
+  à BN Financeira Ltda. e atuação parlamentar em pautas de interesse do Banco Master.'
+document_ids:
+- doc-2026-06-17-decisao-pet-16229-9a-fase
+source_ids:
+- src-poder360-2026-06-18-nona-fase-wagner
+excerpt: A narrativa policial se desenvolve em três eixos principais
+date: '2026-06-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

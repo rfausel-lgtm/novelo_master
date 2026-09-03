@@ -1,0 +1,40 @@
+id: evt-2026-06-17-decisao-mendonca-9a-fase
+kind: event
+title: Mendonça defere as medidas da 9ª fase da Compliance Zero (PET 16.229)
+event_type: judicial_decision
+date: '2026-06-17'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- supremo-tribunal-federal
+- policia-federal
+- jaques-wagner
+- augusto-lima
+description: Decisão assinada em Brasília em 17/06/2026 que defere os pedidos da Polícia Federal e decreta
+  proibição de contato entre investigados, proibição de contato com pessoas ligadas ao Grupo Moura Dubeux
+  e ao empreendimento Poème Horto, suspensão de passaportes e impedimento de saída do país. A decisão
+  organiza a apuração em três eixos e não contém juízo de mérito sobre as condutas.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-decisao-9a-fase-tres-eixos
+- ev-decisao-9a-fase-medidas
+- ev-decisao-9a-fase-emendas
+source_ids:
+- src-poder360-2026-06-18-nona-fase-wagner
+document_ids:
+- doc-2026-06-17-decisao-pet-16229-9a-fase
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: Wagner disse ter 'certeza' de que provará sua inocência.
+  source_ids:
+  - src-poder360-2026-07-31-pf-wagner-relatorio
+  by_id: jaques-wagner
+  date: '2026-07-31'
+location: Brasília (DF)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

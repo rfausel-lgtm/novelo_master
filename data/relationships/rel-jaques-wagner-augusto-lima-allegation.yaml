@@ -20,12 +20,15 @@ evidence_ids:
 - ev-pf-relatorio-wagner-vantagens
 - ev-pf-70-contatos-lima-wagner
 - ev-wagner-certeza-inocencia
+- ev-decisao-9a-fase-tres-eixos
+- ev-decisao-9a-fase-apartamento
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-metropoles-2026-01-24-wagner-mantega
 - src-poder360-2026-08-27-lula-defende-wagner
 document_ids:
 - doc-pf-relatorio-wagner-2026-07
+- doc-2026-06-17-decisao-pet-16229-9a-fase
 cited_position:
 - kind: denial
   summary: '''Certeza'' de que provará sua inocência.'

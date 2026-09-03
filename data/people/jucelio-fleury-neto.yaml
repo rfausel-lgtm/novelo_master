@@ -1,0 +1,25 @@
+id: jucelio-fleury-neto
+kind: person
+name: Jucelio Fleury Neto
+category: judge
+role: Juiz federal da 4ª Vara Federal Criminal da Seção Judiciária do Amapá
+positions:
+- title: Juiz federal
+  organization: 4ª Vara Federal Criminal da Seção Judiciária do Amapá
+  source_ids:
+  - src-poder360-2026-02-10-amprev-zona-cinzenta
+summary: Assinou a decisão que autorizou as buscas da operação Zona Cinzenta contra gestores da Amapá
+  Previdência e deferiu o compartilhamento de provas pedido pela Polícia Federal.
+why_in_novelo: Autorizou, como juiz federal no Amapá, a operação que apura a aplicação de R$ 400 milhões
+  da previdência estadual em títulos do Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

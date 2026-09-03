@@ -12,14 +12,18 @@ participant_ids:
 description: Segundo o Poder360, a PF cumpriu 18 mandados de busca e apreensão (BA, SP e DF) autorizados
   por André Mendonça, para apurar eventual participação de agente público em esquema ligado ao Master;
   os fatos podem caracterizar, em tese, corrupção e lavagem. Wagner não respondeu ao veículo.
-evidence_class: C
+evidence_class: D
 status: verified
 evidence_ids:
 - ev-nona-fase-wagner-2026-06-18
+- ev-decisao-9a-fase-tres-eixos
+- ev-decisao-9a-fase-medidas
 source_ids:
 - src-poder360-2026-06-18-nona-fase-wagner
 - src-cnn-2026-kassab-video-rioprevidencia
-document_ids: []
+- src-poder360-2026-07-31-pf-wagner-relatorio
+document_ids:
+- doc-2026-06-17-decisao-pet-16229-9a-fase
 public_act_ids: []
 cited_position:
 - kind: no_response

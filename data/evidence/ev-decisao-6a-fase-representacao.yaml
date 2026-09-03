@@ -1,0 +1,16 @@
+id: ev-decisao-6a-fase-representacao
+kind: evidence
+classification: D
+proposition: A decisão da 6ª fase examina os pedidos de prisão preventiva formulados pela Polícia Federal,
+  entre eles o de Henrique Moura Vorcaro, e descreve as imputações da autoridade policial, inclusive de
+  monitoramento telemático ilegal atribuído a um núcleo apontado como subordinado ao comando central.
+document_ids:
+- doc-2026-05-14-decisao-6a-fase-compliance-zero
+source_ids:
+- src-stf-2026-05-14-sexta-fase
+date: '2026-05-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

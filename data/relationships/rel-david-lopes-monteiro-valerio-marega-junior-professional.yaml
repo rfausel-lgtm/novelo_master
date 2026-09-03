@@ -1,0 +1,26 @@
+id: rel-david-lopes-monteiro-valerio-marega-junior-professional
+kind: relationship
+from_id: david-lopes-monteiro
+to_id: valerio-marega-junior
+relationship_type: professional
+directed: false
+label: citados na mesma cadeia de operacionalização do imóvel
+description: 'Ambos são nomeados na decisão da 9ª fase na descrição da operacionalização da aquisição
+  do apartamento: Valério Marega Júnior como acionado por Augusto Lima e David Lopes Monteiro entre os
+  que teriam auxiliado e mantido as tratativas depois da primeira fase da operação.'
+evidence_class: A
+confidence: 0.35
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-decisao-9a-fase-apartamento
+- ev-decisao-9a-fase-tratativas-continuaram
+source_ids:
+- src-poder360-2026-06-18-nona-fase-wagner
+document_ids:
+- doc-2026-06-17-decisao-pet-16229-9a-fase
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

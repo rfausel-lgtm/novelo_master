@@ -1,0 +1,26 @@
+id: grupo-moura-dubeux
+kind: organization
+name: Grupo Moura Dubeux
+aliases:
+- MD BA Parque Florestal Construções
+org_type: company
+summary: Incorporadora do empreendimento Poème Horto, em Salvador (BA), onde fica o apartamento citado
+  no primeiro eixo da investigação. A decisão da 9ª fase proíbe contato dos investigados com pessoas ligadas
+  à MD BA Parque Florestal Construções Ltda., ao grupo e ao empreendimento. Nenhuma conduta ilícita é
+  atribuída à incorporadora nos documentos do corpus; o relatório da PF, segundo o Poder360, registra
+  que o gerente citado atuava no atendimento comercial do imóvel, sem imputação.
+why_in_novelo: É a incorporadora do empreendimento onde está o apartamento examinado na 9ª fase da Compliance
+  Zero, e figura nas medidas de proibição de contato fixadas pelo STF.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O corpus não registra manifestação do Grupo Moura Dubeux.
+source_ids:
+- src-poder360-2026-06-18-nona-fase-wagner
+- src-poder360-2026-07-31-pf-wagner-relatorio
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

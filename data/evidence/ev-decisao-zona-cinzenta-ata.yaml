@@ -1,0 +1,16 @@
+id: ev-decisao-zona-cinzenta-ata
+kind: evidence
+classification: D
+proposition: A decisão cita a ata de 30/07/2024, em que Jocildo Silva Lemos, 'como coordenador do comitê',
+  teria considerado 'já está superada' a questão levantada, e descreve deliberação que condicionou a aplicação
+  a diligência posterior.
+document_ids:
+- doc-2026-02-decisao-zona-cinzenta-4a-vara-ap
+source_ids:
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+date: '2024-07-30'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

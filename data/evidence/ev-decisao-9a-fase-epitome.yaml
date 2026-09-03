@@ -1,0 +1,17 @@
+id: ev-decisao-9a-fase-epitome
+kind: evidence
+classification: D
+proposition: A decisão registra que a compra formal do apartamento teria sido feita pela Epítome S.A.,
+  representada por Luiz Antônio Lombardi, com recursos de estruturas de fundos vinculadas ao grupo econômico
+  investigado, em dinâmica que a autoridade policial reputa compatível com ocultação do beneficiário final.
+document_ids:
+- doc-2026-06-17-decisao-pet-16229-9a-fase
+source_ids:
+- src-poder360-2026-06-18-nona-fase-wagner
+excerpt: A compra formal teria sido realizada pela EPÍTOME S.A., representada por LUIZ ANTÔNIO LOMBARDI
+date: '2026-06-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

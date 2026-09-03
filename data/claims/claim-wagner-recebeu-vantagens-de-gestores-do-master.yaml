@@ -14,16 +14,22 @@ related_entity_ids:
 event_ids:
 - evt-2026-07-30-mendonca-retira-sigilo-relatorio-pf-wagner
 - evt-2026-06-18-compliance-zero-9a-fase-wagner
+- evt-2026-06-17-decisao-mendonca-9a-fase
 evidence_ids:
 - ev-pf-relatorio-wagner-vantagens
 - ev-pf-70-contatos-lima-wagner
 - ev-wagner-certeza-inocencia
 - ev-lula-defende-wagner-2026-08-27
+- ev-decisao-9a-fase-tres-eixos
+- ev-decisao-9a-fase-apartamento
+- ev-decisao-9a-fase-bn-financeira
+- ev-decisao-9a-fase-emendas
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-08-27-lula-defende-wagner
-limits: A própria PF classifica o conjunto como preliminar e indiciário; o relatório não foi lido pela
-  equipe (PDF de 33 MB publicado pelo Poder360). Não há denúncia nem decisão judicial de mérito no corpus.
+limits: A decisão da Petição 16.229, lida na íntegra, defere medidas cautelares e reproduz a narrativa
+  da Polícia Federal em três eixos; ela não julga o mérito nem afirma que houve contrapartida. O relatório
+  de 30/07/2026 (PDF de 33 MB) não foi lido pela equipe. Não há denúncia nem decisão de mérito no corpus.
 counter_position:
 - kind: denial
   summary: 'Wagner: ''certeza'' de que provará sua inocência.'

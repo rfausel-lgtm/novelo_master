@@ -36,8 +36,10 @@ Ainda pendente:
   citados em mensagens de Faria, segundo a piauí); sem registro para evitar inclusão por mera menção.
 - Atos do Banco Central (liquidações de Reag/CBSF, Will Financeira e Banco Pleno): buscar os PDFs de
   "Atos do Presidente" ou o DOU; hoje classificados como C/A a partir da imprensa.
-- Relatório da PF sobre Wagner (PDF de 33 MB no Poder360), decisão da 10ª fase (PDF no Poder360) e decisão
-  da Justiça Federal na Zona Cinzenta (PDF no Poder360): ler e promover evidências A/C para D.
+- Relatório da PF sobre Wagner (PDF de 33 MB no Poder360): único documento grande ainda não lido.
+  A decisão da 9ª fase, a da Zona Cinzenta, a da 6ª fase e a nota de defesa de Thiago Miranda foram
+  lidas no lote 7 e já sustentam evidências documentais. A decisão da 10ª fase segue pendente: o link
+  publicado pelo Poder360 responde 404.
 - Fotografias: nenhuma ingerida; usar Wikimedia Commons com licença registrada em `photo`.
 
 ## Armadilhas encontradas

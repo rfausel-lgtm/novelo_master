@@ -1,0 +1,17 @@
+id: ev-decisao-zona-cinzenta-individualizacao
+kind: evidence
+classification: D
+proposition: A decisão da 4ª Vara Federal Criminal do Amapá individualiza a conduta de José Milton Afonso
+  Gonçalves, Jackson Rubens de Oliveira e Jocildo Silva Lemos nas deliberações do Comitê de Investimentos
+  da Amprev e registra que um dos investigados avocou para si a relatoria das propostas, defendendo de
+  forma ativa a alocação de R$ 200 milhões em letras financeiras da instituição.
+document_ids:
+- doc-2026-02-decisao-zona-cinzenta-4a-vara-ap
+source_ids:
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+date: 2026-02
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

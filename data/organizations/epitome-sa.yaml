@@ -1,0 +1,24 @@
+id: epitome-sa
+kind: organization
+name: Epítome S.A.
+aliases: []
+org_type: company
+summary: Empresa que, segundo a decisão da Petição 16.229, teria realizado a compra formal do apartamento
+  nº 1.702 do Poème Horto, representada por Luiz Antônio Lombardi, com recursos provenientes de estruturas
+  de fundos vinculadas ao grupo econômico investigado — dinâmica que a autoridade policial reputa compatível
+  com ocultação do beneficiário final.
+why_in_novelo: É apontada em decisão pública do STF como a compradora formal do imóvel examinado no primeiro
+  eixo da 9ª fase da Compliance Zero.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O corpus não registra a composição societária da Epítome S.A. nem manifestação da empresa.
+- A leitura de ocultação do beneficiário final é da autoridade policial, sem juízo de mérito.
+source_ids:
+- src-poder360-2026-06-18-nona-fase-wagner
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

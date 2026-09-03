@@ -1,0 +1,27 @@
+id: rev-2026-09-03-lote-7-documentos-primarios
+kind: revision
+date: '2026-09-03'
+summary: 'Lote 7: leitura integral de documentos primários. Decisão da Petição 16.229 (9ª fase, Mendonça,
+  17/06/2026), com os três eixos da apuração, o apartamento nº 1.702 do Poème Horto, a BN Financeira,
+  a Epítome S.A. e as medidas cautelares; decisão da 4ª Vara Federal Criminal do Amapá que autorizou a
+  Zona Cinzenta, com a conduta individualizada dos gestores da Amprev e a ata de 30/07/2024; decisão da
+  6ª fase; e nota da defesa de Thiago Miranda. Eventos da 9ª fase e da Zona Cinzenta passaram de corroborados
+  a documentais.'
+added:
+  people: 4
+  organizations: 3
+  events: 2
+  documents: 4
+  relationships: 7
+  sources: 0
+  evidence: 10
+updated_relationships: 1
+corrections:
+- O 'DANIEL' citado na cadeia do imóvel é Daniel Lopes Monteiro, não Daniel Vorcaro; a evidência foi corrigida
+  antes da publicação.
+author: orquestrador
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

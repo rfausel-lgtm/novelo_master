@@ -20,10 +20,12 @@ status: verified
 evidence_ids:
 - ev-stf-prisao-henrique-vorcaro-2026-05-14
 - ev-pf-henrique-operador-financeiro
+- ev-decisao-6a-fase-representacao
 source_ids:
 - src-stf-2026-05-14-sexta-fase
 document_ids:
 - doc-2026-05-14-decisao-pet-15978-sexta-fase
+- doc-2026-05-14-decisao-6a-fase-compliance-zero
 public_act_ids:
 - ato-2026-05-14-decisao-pet-15978
 review_status: published

@@ -1,0 +1,18 @@
+id: ev-decisao-9a-fase-apartamento
+kind: evidence
+classification: D
+proposition: A decisão registra que Jaques Wagner teria encaminhado a Augusto Ferreira Lima os dados do
+  empreendimento Poème Horto, do corretor responsável e da unidade nº 1.702, avaliada em cerca de R$ 2.450.000,00;
+  que Augusto teria acionado Valério Marega Júnior ('Valério Fundos') para operacionalizar a aquisição;
+  e que ela teria sido realizada com o auxílio de Daniel Lopes Monteiro e David Lopes Monteiro.
+document_ids:
+- doc-2026-06-17-decisao-pet-16229-9a-fase
+source_ids:
+- src-poder360-2026-06-18-nona-fase-wagner
+excerpt: unidade nº 1.702, avaliada em aproximadamente R$ 2.450.000,00
+date: '2026-06-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

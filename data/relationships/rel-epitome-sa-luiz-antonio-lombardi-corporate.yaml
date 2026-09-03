@@ -1,0 +1,24 @@
+id: rel-epitome-sa-luiz-antonio-lombardi-corporate
+kind: relationship
+from_id: epitome-sa
+to_id: luiz-antonio-lombardi
+relationship_type: corporate
+directed: true
+label: representada por, na compra formal do imóvel
+description: A decisão da 9ª fase registra que a compra formal do apartamento teria sido realizada pela
+  Epítome S.A., representada por Luiz Antônio Lombardi.
+evidence_class: A
+confidence: 0.5
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-decisao-9a-fase-epitome
+source_ids:
+- src-poder360-2026-06-18-nona-fase-wagner
+document_ids:
+- doc-2026-06-17-decisao-pet-16229-9a-fase
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

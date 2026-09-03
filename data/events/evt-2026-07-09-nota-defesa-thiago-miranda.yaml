@@ -1,0 +1,26 @@
+id: evt-2026-07-09-nota-defesa-thiago-miranda
+kind: event
+title: Defesa de Thiago Miranda divulga nota refutando ilegalidade
+event_type: statement
+date: '2026-07-09'
+date_precision: day
+participant_ids:
+- thiago-miranda
+description: No mesmo dia da 10ª fase, a defesa divulgou nota à imprensa refutando de forma categórica
+  a prática de qualquer ilegalidade, negando participação em conduta destinada a intimidar, coagir ou
+  violar direitos de terceiros, invocando a presunção de inocência e afirmando que ele está à disposição
+  das autoridades.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-nota-defesa-thiago-miranda
+source_ids:
+- src-poder360-2026-07-09-operacao-thiago-miranda
+document_ids:
+- doc-2026-07-09-nota-defesa-thiago-miranda
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

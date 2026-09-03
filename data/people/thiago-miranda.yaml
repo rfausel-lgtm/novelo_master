@@ -22,9 +22,16 @@ cited_position:
   - src-cnn-2026-09-dark-horse-coaf
   by_id: thiago-miranda
   date: '2026-05-12'
+- kind: denial
+  summary: 'Nota da defesa em 09/07/2026: refuta de forma categórica a prática de qualquer ilegalidade,
+    nega conduta destinada a intimidar, coagir ou violar direitos de terceiros e afirma estar à disposição
+    das autoridades.'
+  source_ids:
+  - src-poder360-2026-07-09-operacao-thiago-miranda
+  by_id: thiago-miranda
+  date: '2026-07-09'
 open_questions:
-- A decisão de André Mendonça na 10ª fase não foi lida pela equipe (o Poder360 publicou o PDF).
-- O corpus não registra manifestação da defesa de Miranda após a operação de 09/07/2026.
+- A decisão da 10ª fase não foi lida integralmente pela equipe.
 source_ids:
 - src-poder360-2026-07-09-operacao-thiago-miranda
 - src-poder360-2026-07-09-quem-e-thiago-miranda

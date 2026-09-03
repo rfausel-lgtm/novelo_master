@@ -1,0 +1,23 @@
+id: bn-financeira
+kind: organization
+name: BN Financeira
+aliases: []
+org_type: company
+summary: Empresa descrita pela Polícia Federal, na representação acolhida na 9ª fase, como associada ao
+  núcleo familiar do senador Jaques Wagner e destinatária de pagamentos e cobranças examinados na investigação.
+why_in_novelo: É apontada em decisão pública do STF como empresa ligada ao núcleo familiar de Jaques Wagner
+  e alvo do segundo eixo da apuração.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O corpus não registra a composição societária da BN Financeira nem manifestação da empresa.
+- Os pagamentos descritos são narrativa da autoridade policial, sem juízo de mérito.
+source_ids:
+- src-poder360-2026-06-18-nona-fase-wagner
+full_name: BN Financeira Ltda.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
