@@ -320,5 +320,5 @@ export function corpusDate(): string {
 
 /** Serializa JSON-LD escapando `<` para impedir fechamento prematuro da tag script. */
 export function safeJsonLd(obj: unknown): string {
-  return JSON.stringify(obj).replace(/</g, "\u003c");
+  return JSON.stringify(obj).replace(/</g, "\\u003c");
 }

@@ -15,7 +15,7 @@ NEXT_PUBLIC_SITE_URL=https://novelo-master.fausel.adv.br npm run build   # gera 
 
 ## Cloudflare Pages (em produção)
 
-Estado em 2026-09-03: projeto `novelo-master` criado na conta Cloudflare de rfausel@gmail.com, conectado ao
+Estado em 2026-09-03: projeto `novelo-master` criado na conta Cloudflare do escritório, conectado ao
 repositório `rfausel-lgtm/novelo_master` (branch `main`, deploy automático a cada push), build `npm run build`,
 saída `out`, variável `NODE_VERSION=24`; preview em `novelo-master.pages.dev` e domínio personalizado
 `novelo-master.fausel.adv.br` (CNAME criado pelo próprio Pages). O app GitHub "Cloudflare Workers and Pages"
