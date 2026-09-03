@@ -29,7 +29,11 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
   const ref = inputRef ?? localRef;
   const listId = useId();
 
-  useEffect(() => setQuery(value ?? ""), [value]);
+  const [prevValue, setPrevValue] = useState(value);
+  if (value !== prevValue) {
+    setPrevValue(value);
+    setQuery(value ?? "");
+  }
   useEffect(() => {
     const t = setTimeout(() => setDebounced(query), 120);
     return () => clearTimeout(t);
@@ -37,7 +41,11 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
 
   const hits: SearchHit[] = useMemo(() => (debounced.trim() ? searchNodes(index, debounced, 10, only) : []), [index, debounced, only]);
 
-  useEffect(() => setActive(0), [hits]);
+  const [prevHits, setPrevHits] = useState(hits);
+  if (hits !== prevHits) {
+    setPrevHits(hits);
+    setActive(0);
+  }
 
   const pick = (hit: SearchHit) => {
     onPick(hit.node.id);

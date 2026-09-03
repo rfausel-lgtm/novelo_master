@@ -83,3 +83,6 @@ venv/
 .vscode/*
 !.vscode/extensions.json
 Thumbs.db
+
+# sessão local
+/.claude/

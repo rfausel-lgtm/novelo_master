@@ -316,8 +316,8 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
 
   /* Tamanho dos nós: escala log do grau, eventos menores. */
   for (const n of nodes.values()) {
-    const base = n.kind === "person" || n.kind === "organization" ? 4 : 2.5;
-    n.size = base + Math.log2(1 + n.degree) * 2.2;
+    const base = n.kind === "person" || n.kind === "organization" ? 2.6 : 1.8;
+    n.size = base + Math.log2(1 + n.degree) * 1.4;
   }
 
   /* Layout */

@@ -496,7 +496,7 @@ function synth(opts: SynthOptions): GraphPayload {
   }
   for (const n of full.values()) {
     const base = n.kind === "person" || n.kind === "organization" ? 4 : 2.5;
-    n.size = Number((base + Math.log2(1 + n.degree) * 2.2).toFixed(2));
+    n.size = Number((base + Math.log2(1 + n.degree) * 1.4).toFixed(2));
   }
 
   /* Layout: posições aleatórias + ForceAtlas2 (Barnes-Hut). */

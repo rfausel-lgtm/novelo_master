@@ -83,9 +83,11 @@ export function GraphCanvas(props: GraphCanvasProps) {
   const neighborCache = useRef(new Map<string, { nodes: Set<string>; edges: Set<string> }>());
   const layoutRef = useRef<LayoutRunner | null>(null);
   const callbacks = useRef({ onSelectNode, onSelectEdge, onOpenNode, onEscape, onFocusSearch, onLayoutRunning });
-  callbacks.current = { onSelectNode, onSelectEdge, onOpenNode, onEscape, onFocusSearch, onLayoutRunning };
   const reducedMotionRef = useRef(reducedMotion);
-  reducedMotionRef.current = reducedMotion;
+  useEffect(() => {
+    callbacks.current = { onSelectNode, onSelectEdge, onOpenNode, onEscape, onFocusSearch, onLayoutRunning };
+    reducedMotionRef.current = reducedMotion;
+  });
 
   /* Vizinhança memoizada por nó (calculada sob demanda a partir do índice). */
   const neighborhoodOf = (id: string) => {
@@ -334,7 +336,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
     const data = sigma.getNodeDisplayData(cameraTarget.id);
     if (!data) return;
     const camera = sigma.getCamera();
-    const ratio = Math.min(camera.ratio, 0.35);
+    const ratio = Math.min(camera.ratio, 0.5);
     void camera.animate({ x: data.x, y: data.y, ratio }, { duration: reducedMotionRef.current ? 0 : 450 });
   }, [cameraTarget, graph]);
 
