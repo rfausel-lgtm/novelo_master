@@ -1,0 +1,17 @@
+# Cabeçalhos de segurança para hosts estáticos (Cloudflare Pages, Netlify).
+# A exportação estática do Next.js inclui scripts inline de hidratação, por isso
+# script-src precisa de 'unsafe-inline'; não há eval nem recursos externos.
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; worker-src 'self' blob:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Cross-Origin-Opener-Policy: same-origin
+
+/data/*
+  Cache-Control: public, max-age=300, must-revalidate
+
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
