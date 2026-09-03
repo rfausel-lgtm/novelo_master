@@ -1,0 +1,22 @@
+id: rel-antonio-rueda-uniao-brasil-political
+kind: relationship
+from_id: antonio-rueda
+to_id: uniao-brasil
+relationship_type: political
+directed: false
+label: presidente nacional
+description: Preside o União Brasil, conforme o Poder360.
+evidence_class: A
+confidence: 0.9
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-receita-pagamentos-master-cpi
+source_ids:
+- src-poder360-2026-04-08-receita-pagamentos-master
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,22 @@
+id: src-cnn-2026-03-vorcaro-esteves-brb
+kind: source
+title: Vorcaro sugere que André Esteves queria dissuadi-lo de compra do BRB
+publisher: CNN Brasil
+publication_date: 2026-03
+retrieved_at: '2026-09-03'
+url: https://www.cnnbrasil.com.br/politica/vorcaro-sugere-que-andre-esteves-queria-dissuadi-lo-de-compra-do-brb/
+source_type: press
+summary: Mensagens de Vorcaro à namorada em 04/04/2025 relatam encontro com André Esteves 'a pedido do
+  Banco Central', com Augusto Lima como testemunha; Esteves teria dito que o Master deveria agradecer
+  a proposta dele e 'esquecer o BRB'. Em nota, o BTG afirmou nunca ter tido interesse na aquisição do
+  Banco Master, limitando-se à aquisição de ativos não problemáticos para prover liquidez em janelas pontuais.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (curl + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

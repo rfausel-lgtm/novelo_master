@@ -1,0 +1,16 @@
+id: ev-receita-pagamentos-master-cpi
+kind: evidence
+classification: A
+proposition: Segundo o Poder360, registros da Receita Federal enviados à CPI do Crime Organizado listam
+  pagamentos do Banco Master (2022-2025) a escritórios e empresas ligados a Temer (R$ 10 mi), Rueda (R$
+  6,4 mi), Mantega (R$ 14 mi), Meirelles (R$ 18,5 mi), Lewandowski, ACM Neto, Perillo e Wajngarten.
+document_ids: []
+source_ids:
+- src-poder360-2026-04-08-receita-pagamentos-master
+attributed_to: Poder360, com base em registros da Receita Federal enviados à CPI do Crime Organizado
+date: '2026-04-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

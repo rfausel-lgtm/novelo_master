@@ -1,0 +1,26 @@
+id: banco-btg-pactual
+kind: organization
+name: BTG Pactual
+aliases: []
+org_type: financial_institution
+summary: Banco de investimento controlado por André Esteves. Negou interesse na aquisição do Banco Master;
+  afirma ter adquirido apenas ativos não problemáticos para prover liquidez.
+why_in_novelo: É mencionado em mensagens de Vorcaro sobre a venda do Master ao BRB e apresentou nota sobre
+  sua atuação.
+cited_position:
+- by_id: banco-btg-pactual
+  kind: denial
+  summary: Nunca houve interesse na aquisição do Banco Master; atuação limitada a ativos não problemáticos
+    para liquidez em janelas pontuais.
+  source_ids:
+  - src-cnn-2026-03-vorcaro-esteves-brb
+open_questions: []
+source_ids:
+- src-cnn-2026-03-vorcaro-esteves-brb
+- src-poder360-2026-03-05-vorcaro-btg-brb
+full_name: Banco BTG Pactual S.A.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,33 @@
+id: antonio-rueda
+kind: person
+name: Antônio Rueda
+category: politician
+role: Presidente nacional do União Brasil; advogado
+positions:
+- title: Presidente nacional
+  organization_id: uniao-brasil
+  source_ids:
+  - src-poder360-2026-04-08-receita-pagamentos-master
+summary: Presidente do União Brasil. Segundo registros da Receita Federal enviados à CPI do Crime Organizado,
+  conforme o Poder360, dois escritórios ligados a Rueda receberam R$ 6,4 milhões do Banco Master desde
+  2023. Sua assessoria não confirmou as informações, disse que os dados foram 'vazados de forma ilícita'
+  e que os serviços são legais e regularmente contratados.
+why_in_novelo: Escritórios ligados a ele constam, segundo registros fiscais enviados a CPI e divulgados
+  pela imprensa, entre os destinatários de pagamentos do Banco Master; sua posição está registrada.
+cited_position:
+- by_id: antonio-rueda
+  kind: clarification
+  summary: 'Assessoria ao Poder360: não confirma as informações; dados ''vazados de forma ilícita''; serviços
+    legais, regularmente contratados e em conformidade fiscal.'
+  source_ids:
+  - src-poder360-2026-04-08-receita-pagamentos-master
+open_questions:
+- Os registros da Receita não foram lidos pela equipe; os valores são os reportados pelo Poder360.
+source_ids:
+- src-poder360-2026-04-08-receita-pagamentos-master
+full_name: Antônio de Rueda
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

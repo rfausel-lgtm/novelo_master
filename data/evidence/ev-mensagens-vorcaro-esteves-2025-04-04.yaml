@@ -1,0 +1,17 @@
+id: ev-mensagens-vorcaro-esteves-2025-04-04
+kind: evidence
+classification: A
+proposition: Segundo mensagens de Vorcaro à namorada (04/04/2025) divulgadas por CNN e Poder360, ele se
+  encontrou com André Esteves 'a pedido do Banco Central', levando Augusto Lima como testemunha, e Esteves
+  teria proposto que o Master aceitasse sua proposta e esquecesse o BRB.
+document_ids: []
+source_ids:
+- src-cnn-2026-03-vorcaro-esteves-brb
+- src-poder360-2026-03-05-vorcaro-btg-brb
+attributed_to_id: daniel-vorcaro
+date: '2025-04-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

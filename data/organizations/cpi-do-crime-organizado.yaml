@@ -1,0 +1,19 @@
+id: cpi-do-crime-organizado
+kind: organization
+name: CPI do Crime Organizado
+aliases: []
+org_type: public_body
+summary: Comissão Parlamentar de Inquérito do Senado que recebeu da Receita Federal registros de pagamentos
+  do Banco Master a escritórios e empresas ligados a políticos, segundo o Poder360.
+why_in_novelo: Recebeu os registros fiscais sobre pagamentos do Banco Master citados pela imprensa.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-04-08-receita-pagamentos-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

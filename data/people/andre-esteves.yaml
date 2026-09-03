@@ -1,0 +1,37 @@
+id: andre-esteves
+kind: person
+name: André Esteves
+category: banker
+role: Controlador do BTG Pactual
+positions:
+- title: Controlador
+  organization_id: banco-btg-pactual
+  source_ids:
+  - src-cnn-2026-03-vorcaro-esteves-brb
+summary: Banqueiro, controlador do BTG Pactual. Mensagens de Vorcaro à namorada (30/03 a 04/04/2025),
+  divulgadas por Poder360 e CNN, sugerem que Esteves teria tentado dissuadi-lo da operação com o BRB e
+  apresentado proposta para o Master; em 04/04/2025 Vorcaro relata encontro 'a pedido do Banco Central'.
+  O BTG afirmou nunca ter tido interesse na aquisição do Banco Master, apenas na compra pontual de ativos
+  não problemáticos para prover liquidez.
+why_in_novelo: É mencionado em mensagens de Daniel Vorcaro, divulgadas pela imprensa, sobre a disputa
+  em torno da venda do Banco Master ao BRB; a posição do BTG está registrada.
+cited_position:
+- by_id: banco-btg-pactual
+  kind: denial
+  summary: 'Nota do BTG: nunca houve interesse na aquisição do Banco Master; atuação limitada à aquisição
+    estratégica de ativos não problemáticos para prover liquidez em janelas pontuais.'
+  source_ids:
+  - src-cnn-2026-03-vorcaro-esteves-brb
+open_questions:
+- Não há, no corpus, documento oficial sobre propostas do BTG; as informações são relatos de Vorcaro a
+  terceira pessoa.
+source_ids:
+- src-cnn-2026-03-vorcaro-esteves-brb
+- src-poder360-2026-03-05-vorcaro-btg-brb
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Andr%C3%A9_Esteves
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

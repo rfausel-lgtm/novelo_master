@@ -1,0 +1,27 @@
+id: michel-temer
+kind: person
+name: Michel Temer
+category: politician
+role: Ex-presidente da República; advogado
+positions: []
+summary: Segundo o Poder360, com base em registros da Receita enviados à CPI do Crime Organizado, o escritório
+  de advocacia de Temer recebeu R$ 10 milhões do Banco Master em 2025, em dois pagamentos. Os citados
+  na reportagem afirmam que os valores correspondem a serviços prestados.
+why_in_novelo: Seu escritório consta, segundo registros fiscais divulgados pela imprensa, entre os destinatários
+  de pagamentos do Banco Master.
+cited_position:
+- kind: version
+  summary: Segundo o Poder360, os políticos e empresários citados afirmam que os valores correspondem
+    a serviços efetivamente prestados; manifestação específica de Temer não localizada no corpus.
+  source_ids:
+  - src-poder360-2026-04-08-receita-pagamentos-master
+open_questions: []
+source_ids:
+- src-poder360-2026-04-08-receita-pagamentos-master
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Michel_Temer
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

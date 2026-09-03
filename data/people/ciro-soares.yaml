@@ -1,0 +1,26 @@
+id: ciro-soares
+kind: person
+name: Ciro Soares
+category: lawyer
+role: Advogado; atuou para o Banco Master, segundo a imprensa
+positions: []
+summary: Advogado baiano. Segundo mensagens e áudios do celular de Vorcaro publicados pela newsletter
+  Noites Húngaras e reproduzidos pelo Brasil de Fato, articulou, com o deputado Cezinha de Madureira,
+  o encontro de 14/03/2025 entre Vorcaro e o ministro André Mendonça no Instituto ITER; em áudio de 08/02/2025
+  disse estar 'trabalhando' pelo banqueiro. Não se manifestou até a publicação, segundo o veículo.
+why_in_novelo: É apontado pela imprensa, com base em mensagens do celular de Daniel Vorcaro, como intermediário
+  do encontro entre o banqueiro e o ministro André Mendonça.
+cited_position:
+- kind: no_response
+  summary: Segundo o Brasil de Fato, não se manifestou sobre o conteúdo das mensagens até a publicação.
+  source_ids:
+  - src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+open_questions: []
+source_ids:
+- src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+full_name: Ciro Rocha Soares
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,15 @@
+id: ev-nota-mendonca-recebeu-uma-vez
+kind: evidence
+classification: A
+proposition: Em nota, o gabinete do ministro André Mendonça declarou ter recebido o empresário uma única
+  vez, para tratar de memoriais sobre precatórios no STF, e que sua decisão no processo foi contrária
+  aos interesses do Banco Master.
+document_ids: []
+source_ids:
+- src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+attributed_to_id: andre-mendonca
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

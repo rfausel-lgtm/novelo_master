@@ -1,0 +1,14 @@
+id: ev-meirelles-confirma-consultoria
+kind: evidence
+classification: A
+proposition: Henrique Meirelles afirmou ter mantido contrato de consultoria macroeconômica com o Banco
+  Master, em caráter opinativo, entre março de 2024 e julho de 2025.
+document_ids: []
+source_ids:
+- src-poder360-2026-04-08-receita-pagamentos-master
+attributed_to_id: henrique-meirelles
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

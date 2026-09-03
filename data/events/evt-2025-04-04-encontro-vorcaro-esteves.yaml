@@ -1,0 +1,36 @@
+id: evt-2025-04-04-encontro-vorcaro-esteves
+kind: event
+title: Encontro entre Vorcaro e André Esteves relatado em mensagens
+event_type: meeting
+date: '2025-04-04'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- andre-esteves
+- augusto-lima
+- banco-btg-pactual
+description: Em mensagens à namorada divulgadas por CNN e Poder360, Vorcaro relata ter se encontrado com
+  Esteves 'a pedido do Banco Central', levando Augusto Lima como testemunha, e que Esteves teria proposto
+  que o Master aceitasse sua proposta e 'esquecesse o BRB'. O BTG nega interesse na aquisição do Master.
+  O relato é unilateral e não há registro oficial do encontro no corpus.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-mensagens-vorcaro-esteves-2025-04-04
+- ev-btg-nega-interesse-master
+source_ids:
+- src-cnn-2026-03-vorcaro-esteves-brb
+- src-poder360-2026-03-05-vorcaro-btg-brb
+document_ids: []
+public_act_ids: []
+cited_position:
+- by_id: banco-btg-pactual
+  kind: denial
+  summary: Nunca houve interesse na aquisição do Banco Master.
+  source_ids:
+  - src-cnn-2026-03-vorcaro-esteves-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

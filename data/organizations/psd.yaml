@@ -1,0 +1,20 @@
+id: psd
+kind: organization
+name: PSD
+aliases: []
+org_type: party
+summary: Partido Social Democrático, presidido por Gilberto Kassab.
+why_in_novelo: Partido presidido por Gilberto Kassab, citado em relatório da PF sobre tentativa de conter
+  críticas aos aportes da RioPrevidência.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-cnn-2026-kassab-video-rioprevidencia
+full_name: Partido Social Democrático
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

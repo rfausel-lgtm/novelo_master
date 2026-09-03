@@ -1,0 +1,23 @@
+id: rel-andre-esteves-banco-btg-pactual-corporate
+kind: relationship
+from_id: andre-esteves
+to_id: banco-btg-pactual
+relationship_type: corporate
+directed: false
+label: controlador
+description: André Esteves controla o BTG Pactual, conforme CNN e Poder360.
+evidence_class: C
+confidence: 0.9
+status: verified
+event_ids: []
+evidence_ids:
+- ev-btg-nega-interesse-master
+source_ids:
+- src-cnn-2026-03-vorcaro-esteves-brb
+- src-poder360-2026-03-05-vorcaro-btg-brb
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

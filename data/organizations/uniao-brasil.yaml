@@ -1,0 +1,19 @@
+id: uniao-brasil
+kind: organization
+name: União Brasil
+aliases: []
+org_type: party
+summary: Partido presidido por Antônio Rueda.
+why_in_novelo: Partido presidido por Antônio Rueda, cujos escritórios constam, segundo a imprensa, entre
+  destinatários de pagamentos do Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-04-08-receita-pagamentos-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

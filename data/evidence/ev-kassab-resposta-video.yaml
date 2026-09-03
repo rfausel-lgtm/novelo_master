@@ -1,0 +1,14 @@
+id: ev-kassab-resposta-video
+kind: evidence
+classification: A
+proposition: Kassab afirmou, por sua assessoria, ter sido procurado, ter conversado com Pedro Paulo para
+  entender o tema e ter orientado que as denúncias prosseguissem.
+document_ids: []
+source_ids:
+- src-cnn-2026-kassab-video-rioprevidencia
+attributed_to_id: gilberto-kassab
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

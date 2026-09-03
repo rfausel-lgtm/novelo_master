@@ -1,0 +1,37 @@
+id: gilberto-kassab
+kind: person
+name: Gilberto Kassab
+category: politician
+role: Presidente nacional do PSD
+positions:
+- title: Presidente nacional
+  organization_id: psd
+  source_ids:
+  - src-cnn-2026-kassab-video-rioprevidencia
+summary: Presidente nacional do PSD. Segundo relatório da PF citado pela CNN Brasil, em outubro de 2024
+  Vorcaro pediu a Augusto Lima que acionasse Kassab para que o deputado estadual Luiz Paulo (PSD-RJ) apagasse
+  vídeo crítico aos aportes da RioPrevidência no Master. Kassab afirmou ter sido procurado, ter conversado
+  com o deputado federal Pedro Paulo para entender o tema e ter orientado que as denúncias prosseguissem;
+  o vídeo não foi removido.
+why_in_novelo: É citado em relatório da Polícia Federal como pessoa que Daniel Vorcaro tentou acionar,
+  por intermediários, para conter críticas aos aportes da RioPrevidência no Banco Master; sua posição
+  está registrada.
+cited_position:
+- by_id: gilberto-kassab
+  kind: clarification
+  summary: 'Assessoria: foi procurado e, por desconhecer o tema, conversou com Pedro Paulo; este esclareceu
+    a importância das denúncias; Kassab reforçou que prosseguissem e alertou que ninguém estava autorizado
+    a falar em seu nome.'
+  source_ids:
+  - src-cnn-2026-kassab-video-rioprevidencia
+open_questions: []
+source_ids:
+- src-cnn-2026-kassab-video-rioprevidencia
+full_name: Gilberto Kassab
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Gilberto_Kassab
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

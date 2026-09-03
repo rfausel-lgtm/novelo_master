@@ -1,0 +1,26 @@
+id: rel-ciro-soares-andre-mendonca-intermediary
+kind: relationship
+from_id: ciro-soares
+to_id: andre-mendonca
+relationship_type: intermediary
+directed: false
+label: intermediou o encontro com Vorcaro (segundo a imprensa)
+start_date: 2025-02
+via_id: daniel-vorcaro
+description: Segundo o Brasil de Fato, Soares articulou com Cezinha de Madureira o encontro de 14/03/2025
+  e enviou a Vorcaro foto ao lado do ministro em alfaiataria.
+evidence_class: A
+confidence: 0.55
+status: unverified
+event_ids:
+- evt-2025-03-14-encontro-mendonca-vorcaro-iter
+evidence_ids:
+- ev-mensagens-mendonca-recebeu-vorcaro-2025-03-14
+source_ids:
+- src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

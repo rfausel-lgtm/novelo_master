@@ -1,0 +1,34 @@
+id: rel-daniel-vorcaro-andre-esteves-allegation
+kind: relationship
+from_id: daniel-vorcaro
+to_id: andre-esteves
+relationship_type: investigative_allegation
+directed: false
+label: encontro e disputa em torno do BRB (segundo mensagens de Vorcaro)
+start_date: '2025-04-04'
+description: Mensagens de Vorcaro à namorada (mar/abr 2025), divulgadas por CNN e Poder360, relatam encontro
+  com Esteves em 04/04/2025 e sugerem que o banqueiro do BTG teria tentado interferir na venda do Master
+  ao BRB. O BTG nega interesse na compra do Master. Relato unilateral, sem documento no corpus.
+evidence_class: A
+confidence: 0.45
+status: disputed
+event_ids:
+- evt-2025-04-04-encontro-vorcaro-esteves
+evidence_ids:
+- ev-mensagens-vorcaro-esteves-2025-04-04
+- ev-btg-nega-interesse-master
+source_ids:
+- src-cnn-2026-03-vorcaro-esteves-brb
+- src-poder360-2026-03-05-vorcaro-btg-brb
+document_ids: []
+cited_position:
+- by_id: banco-btg-pactual
+  kind: denial
+  summary: Nunca houve interesse na aquisição do Banco Master.
+  source_ids:
+  - src-cnn-2026-03-vorcaro-esteves-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,37 @@
+id: evt-2024-10-vorcaro-pede-contato-com-kassab
+kind: event
+title: Vorcaro pede a Augusto Lima que acione Kassab sobre vídeo crítico à RioPrevidência
+event_type: communication
+date: 2024-10
+date_precision: month
+participant_ids:
+- daniel-vorcaro
+- augusto-lima
+- gilberto-kassab
+- rioprevidencia
+- banco-master
+description: Segundo relatório da PF citado pela CNN, em outubro de 2024 Vorcaro pediu a Augusto Lima
+  que ligasse 'urgente pro kassab' para tentar remover vídeo do deputado estadual Luiz Paulo (PSD-RJ)
+  crítico aos aportes de R$ 500 milhões da RioPrevidência no Master; Kassab conversou com o deputado federal
+  Pedro Paulo; o vídeo não foi removido. Kassab e Pedro Paulo afirmam que orientaram a continuidade das
+  denúncias.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-pf-vorcaro-aciona-kassab-2024-10
+- ev-kassab-resposta-video
+source_ids:
+- src-cnn-2026-kassab-video-rioprevidencia
+document_ids: []
+public_act_ids: []
+cited_position:
+- by_id: gilberto-kassab
+  kind: clarification
+  summary: Foi procurado; conversou com Pedro Paulo para entender o tema; orientou que as denúncias prosseguissem.
+  source_ids:
+  - src-cnn-2026-kassab-video-rioprevidencia
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,23 @@
+id: rel-gilberto-kassab-psd-political
+kind: relationship
+from_id: gilberto-kassab
+to_id: psd
+relationship_type: political
+directed: false
+label: presidente nacional
+description: Preside o PSD, conforme a CNN Brasil.
+evidence_class: A
+confidence: 0.9
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-kassab-resposta-video
+source_ids:
+- src-cnn-2026-kassab-video-rioprevidencia
+- src-poder360-2026-04-08-receita-pagamentos-master
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,32 @@
+id: rel-banco-master-antonio-rueda-financial
+kind: relationship
+from_id: banco-master
+to_id: antonio-rueda
+relationship_type: financial
+directed: true
+label: pagamentos a escritórios ligados (R$ 6,4 mi, segundo registros fiscais via imprensa)
+start_date: '2023'
+description: Segundo o Poder360, registros da Receita enviados à CPI indicam R$ 6,4 milhões pagos pelo
+  Banco Master, desde 2023, a dois escritórios ligados a Rueda, em contratos de prestação de serviços.
+  Rueda não confirma e afirma que os serviços são legais. A equipe não leu os registros.
+evidence_class: A
+confidence: 0.5
+status: unverified
+event_ids:
+- evt-2026-04-08-receita-envia-pagamentos-cpi
+evidence_ids:
+- ev-receita-pagamentos-master-cpi
+source_ids:
+- src-poder360-2026-04-08-receita-pagamentos-master
+document_ids: []
+cited_position:
+- by_id: antonio-rueda
+  kind: clarification
+  summary: Não confirma; serviços legais e regularmente contratados.
+  source_ids:
+  - src-poder360-2026-04-08-receita-pagamentos-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

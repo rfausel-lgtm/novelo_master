@@ -1,0 +1,25 @@
+id: src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+kind: source
+title: André Mendonça se reuniu com Daniel Vorcaro fora do STF; ministro confirma encontro
+publisher: Brasil de Fato
+publication_date: '2026-09-02'
+retrieved_at: '2026-09-03'
+url: https://www.brasildefato.com.br/2026/09/02/andre-mendonca-se-reuniu-com-daniel-vorcaro-fora-do-stf-ministro-confirma-encontro/
+source_type: press
+summary: 'Com base em mensagens e áudios do celular de Vorcaro publicados pela newsletter Noites Húngaras:
+  em 14/03/2025 Vorcaro esteve por cerca de duas horas na sede do Instituto ITER, em São Paulo, fundado
+  pelo ministro André Mendonça; o encontro foi articulado pelo advogado Ciro Rocha Soares e pelo deputado
+  Cezinha de Madureira (PL-SP); mensagens registram tratativas prévias com menção a Bruno Bianco. Em nota,
+  o gabinete do ministro declarou ter recebido o empresário uma única vez, para tratar de memoriais sobre
+  precatórios, e que sua decisão foi contrária aos interesses do banco.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (curl + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+author: Igor Carvalho
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

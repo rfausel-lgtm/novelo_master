@@ -1,0 +1,23 @@
+id: bruno-bianco
+kind: person
+name: Bruno Bianco
+category: lawyer
+role: Ex-advogado-geral da União
+positions: []
+summary: Ex-ministro da AGU no governo Bolsonaro. Segundo o Brasil de Fato, mensagens do celular de Vorcaro
+  registram tratativas prévias para encontros com participação de outros nomes, entre eles Bruno Bianco.
+  O corpus não registra o teor nem a realização desses encontros.
+why_in_novelo: É mencionado, segundo a imprensa, em mensagens do celular de Daniel Vorcaro sobre tratativas
+  de encontros; não há, no corpus, registro de encontro realizado.
+cited_position:
+- kind: not_located
+  summary: Posição não localizada em fonte verificada do corpus.
+open_questions:
+- A natureza da menção a Bruno Bianco nas mensagens não está detalhada na fonte lida.
+source_ids:
+- src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

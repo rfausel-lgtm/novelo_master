@@ -1,0 +1,22 @@
+id: cezinha-de-madureira
+kind: person
+name: Cezinha de Madureira
+category: politician
+role: Deputado federal (PL-SP)
+positions: []
+summary: Deputado federal e liderança da Assembleia de Deus Ministério de Madureira. Segundo o Brasil
+  de Fato, articulou com Ciro Soares o encontro de 14/03/2025 entre Vorcaro e o ministro André Mendonça
+  e enviou mensagem confirmando que o ministro aguardava o banqueiro.
+why_in_novelo: É apontado pela imprensa, com base em mensagens do celular de Daniel Vorcaro, como articulador
+  do encontro entre o banqueiro e o ministro André Mendonça.
+cited_position:
+- kind: not_located
+  summary: Posição não localizada em fonte verificada do corpus.
+open_questions: []
+source_ids:
+- src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

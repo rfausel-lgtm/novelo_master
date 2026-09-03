@@ -1,0 +1,42 @@
+id: evt-2026-04-08-receita-envia-pagamentos-cpi
+kind: event
+title: Registros da Receita sobre pagamentos do Banco Master chegam à CPI do Crime Organizado
+event_type: publication
+date: '2026-04-08'
+date_precision: day
+participant_ids:
+- cpi-do-crime-organizado
+- banco-master
+- michel-temer
+- antonio-rueda
+- guido-mantega
+- henrique-meirelles
+description: Segundo o Poder360, a Receita Federal enviou à CPI registros de transferências do Banco Master
+  (2022-2025) a escritórios e empresas ligados a Temer, Rueda, ACM Neto, Perillo, Mantega, Wajngarten,
+  Meirelles e Lewandowski, no contexto de contratos de prestação de serviços; os citados afirmam que os
+  valores correspondem a serviços prestados. A equipe não leu os registros.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-receita-pagamentos-master-cpi
+- ev-meirelles-confirma-consultoria
+source_ids:
+- src-poder360-2026-04-08-receita-pagamentos-master
+document_ids: []
+public_act_ids: []
+cited_position:
+- by_id: antonio-rueda
+  kind: clarification
+  summary: Não confirma; dados vazados ilicitamente; serviços legais.
+  source_ids:
+  - src-poder360-2026-04-08-receita-pagamentos-master
+- by_id: henrique-meirelles
+  kind: clarification
+  summary: Contrato de consultoria macroeconômica, opinativo, mar/2024 a jul/2025.
+  source_ids:
+  - src-poder360-2026-04-08-receita-pagamentos-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
