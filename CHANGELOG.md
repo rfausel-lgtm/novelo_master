@@ -7,6 +7,9 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Camada probatória opcional no grafo, com nós de documentos, fontes, claims e evidências e vínculos
+  explícitos de rastreabilidade; expansão até o 3º grau com contagem prévia; física contínua, arraste,
+  fixação, restauração e rotação do mapa; job semanal/manual de stress com 5.000 nós e 25.000 arestas.
 - Lote 6 do corpus: financiamento do filme "Dark Horse" (Flávio, Eduardo e Jair Bolsonaro, Mário Frias,
   Thiago Miranda, Go Up Entertainment, Havengate Development Fund, Entre Investimentos; 10ª fase da
   Compliance Zero), Resort Tayayá e Maridt (Toffoli), pagamentos do Master à Consult Inteligência
@@ -18,6 +21,9 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Corrigido
 
+- Cards de conexão agora exibem títulos das fontes e o contraditório específico; o recorte temporal
+  oculta relações sem data com aviso explícito; rótulos do grafo usam supressão de colisões e truncamento
+  visual preservando o texto completo no hover e nos painéis.
 - `safeJsonLd` não escapava `<` (a string `"<"` em TypeScript já é `<`), permitindo, em tese,
   fechamento prematuro da tag `<script type="application/ld+json">`. Apontado pelo CodeQL
   (`js/identity-replacement`).
