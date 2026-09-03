@@ -53,7 +53,7 @@
     "serve": "^14.2.6",
     "tailwindcss": "^4",
     "tsx": "^4.23.13",
-    "typescript": "^5",
+    "typescript": "^7",
     "vitest": "^5.0.0"
   },
   "description": "Mapa público de relações, fatos e fontes — caso Banco Master",
