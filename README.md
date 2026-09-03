@@ -1,36 +1,118 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# O Novelo Master
 
-## Getting Started
+**Mapa público de relações, fatos e fontes** sobre o caso Banco Master, Daniel Vorcaro e os agentes,
+empresas, instituições, eventos, contratos, atos públicos e documentos que integram o corpus da
+investigação.
 
-First, run the development server:
+> Mostre a evidência. Mostre a conexão. Mostre a cronologia. Deixe a conclusão para o visitante.
+
+Estar neste mapa não implica ilicitude. Cada relação aponta para a fonte que a sustenta e para a força
+da evidência correspondente. Alegações e inferências nunca são apresentadas como fatos.
+
+![Grafo do Novelo Master](docs/screenshots/grafo-demo.png)
+
+## O que o site oferece
+
+- **Grafo interativo** (Sigma.js/WebGL): zoom, busca instantânea, seleção múltipla, vizinhança em 1º a 3º
+  grau, caminho mínimo ("como A se conecta a B?"), filtros por tipo de nó e de relação, time machine
+  ("assistir o novelo se formar"), modo antes/depois de um evento.
+- **Dois modos ostensivos**: *Mostrar apenas fontes oficiais* e *Mostrar somente fatos documentados*.
+- **Cor = natureza da relação; forma = força da evidência** (documental, corroborado, alegação, inferência).
+- **Páginas individuais indexáveis** para pessoas, organizações, eventos, documentos, fontes e atos
+  públicos, com "Por que está no Novelo?", linha do tempo, evidências, **posição do citado** e lacunas.
+- **Cronologia global**, **coincidências temporais** (proximidade ≠ causalidade), **auditoria de fontes**,
+  **histórico de atualizações** e **metodologia** publicada.
+- **Alternativa textual** ao grafo (`/rede`) e acessibilidade WCAG AA.
+
+## Stack
+
+TypeScript · Next.js 16 (App Router, exportação estática) · React 19 · Tailwind CSS 4 · Sigma.js 3 ·
+Graphology · Zod · YAML · Vitest · React Testing Library · Playwright · ESLint · Prettier · gitleaks ·
+GitHub Actions · Python (utilitários de OSINT).
+
+## Quick start
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone <url-do-repositório> novelo-master
+cd novelo-master
+npm install
+git config core.hooksPath .githooks   # pre-commit com gitleaks
+npm run dev                            # compila /data e sobe http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Build de produção:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm run build      # gera out/ (site estático)
+npm run start      # serve out/ em http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Estrutura
 
-## Learn More
+```
+data/            corpus editorial em YAML (fonte de verdade; um registro por arquivo)
+raw/             material bruto de pesquisa e relatórios dos investigadores
+scripts/         pipeline: validação, lint editorial, grafo e layout, dataset sintético
+src/lib/schema   schemas Zod (contrato único do modelo de dados)
+src/lib/graph    engine do grafo (algoritmos, filtros, estilos, programas WebGL)
+src/components   componentes do grafo e das páginas
+src/app          rotas do site
+python/          utilitários de captura para OSINT
+docs/adr         decisões arquiteturais
+tests/           testes unitários e E2E
+```
 
-To learn more about Next.js, take a look at the following resources:
+Detalhes em [ARCHITECTURE.md](ARCHITECTURE.md).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Dataset
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Os dados vivem em `data/` e são compilados pelo pipeline:
 
-## Deploy on Vercel
+```bash
+npm run data:validate   # schema + referências + regras editoriais (erros bloqueiam)
+npm run data:lint       # modo estrito: avisos em registros publicados também bloqueiam
+npm run data:build      # gera src/generated/corpus.json e public/data/graph.json
+npm run data:stress     # dataset sintético de 5.000 nós / 25.000 arestas para teste de carga
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+O modelo está documentado em [DATA_SCHEMA.md](DATA_SCHEMA.md). A classificação de evidência
+(D documental direto, C corroborado, A alegação, I inferência) e os critérios de inclusão estão em
+[METHODOLOGY.md](METHODOLOGY.md).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Testes
+
+```bash
+npm run check       # typecheck + lint + validação de dados + testes unitários
+npm test            # Vitest
+npm run test:e2e    # Playwright (requer build prévio)
+```
+
+## Desenvolvimento
+
+- `npm run dev` recompila o corpus e sobe o servidor de desenvolvimento.
+- `/grafo?dataset=demo` e `/grafo?dataset=stress` carregam os datasets sintéticos (nomes fictícios).
+- Convenções de branch e commit em [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Contribuição
+
+Contribuições de documentos, correções, novas relações e fontes são bem-vindas por pull request.
+Todo PR de dados exige fonte, data, classificação de evidência e explicação, e passa pelo gauntlet
+editorial descrito em [EDITORIAL_POLICY.md](EDITORIAL_POLICY.md). Diretrizes de pesquisa em
+[OSINT_GUIDELINES.md](OSINT_GUIDELINES.md). Nunca envie segredos por issue ou PR.
+
+## Metodologia
+
+Publicada em `/metodologia` e em [METHODOLOGY.md](METHODOLOGY.md): critérios de inclusão, fontes
+aceitas, como relações são criadas, diferença entre fato, alegação e inferência, direito de resposta,
+política de correção, versionamento, uso de IA e limitações. Nenhuma afirmação produzida por IA é
+evidência; toda informação publicada aponta para fonte verificável.
+
+## Segurança
+
+O repositório é público e não contém segredos: `.env.example` versionado, `.env*` ignorado, gitleaks no
+pre-commit e no CI, scanner de fallback, auditoria de dependências, CodeQL e cabeçalhos de segurança no
+host. Política de divulgação em [SECURITY.md](SECURITY.md); implantação em [DEPLOYMENT.md](DEPLOYMENT.md).
+
+## Licença
+
+Código sob licença MIT. Os dados do corpus apontam para fontes públicas; cada registro traz a origem.
