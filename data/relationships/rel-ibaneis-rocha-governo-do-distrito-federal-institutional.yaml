@@ -1,0 +1,24 @@
+id: rel-ibaneis-rocha-governo-do-distrito-federal-institutional
+kind: relationship
+from_id: ibaneis-rocha
+to_id: governo-do-distrito-federal
+relationship_type: institutional
+directed: false
+label: governador
+description: Governava o Distrito Federal quando o GDF enviou o PL 1882/2025 à CLDF.
+evidence_class: D
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2025-08-19-cldf-aprova-compra-master-pelo-brb
+evidence_ids:
+- ev-cldf-aprova-pl-1882-2025
+source_ids:
+- src-cldf-2025-08-19-autoriza-brb-comprar-master
+document_ids:
+- doc-2025-08-19-pl-1882-2025-cldf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

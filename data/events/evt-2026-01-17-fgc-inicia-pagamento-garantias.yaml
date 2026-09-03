@@ -1,0 +1,28 @@
+id: evt-2026-01-17-fgc-inicia-pagamento-garantias
+kind: event
+title: FGC inicia o pagamento das garantias aos credores do conglomerado Master
+event_type: regulatory_act
+date: '2026-01-17'
+date_precision: day
+participant_ids:
+- fundo-garantidor-de-creditos
+- banco-master
+- banco-central-do-brasil
+description: 'Após a consolidação da relação de credores pelo liquidante nomeado pelo Banco Central, o
+  FGC iniciou em 17/01/2026 o pagamento das garantias: cerca de 800 mil credores e R$ 40,6 bilhões a pagar
+  (estimativa inicial de R$ 41,3 bilhões), com liquidez de R$ 125 bilhões no fundo.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-fgc-inicio-pagamento-40-6-bi
+- ev-fgc-atos-presidente-bcb-18-11-2025
+source_ids:
+- src-fgc-2026-01-17-inicio-pagamento-garantia
+document_ids:
+- doc-2026-01-17-comunicado-fgc-inicio-pagamento
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

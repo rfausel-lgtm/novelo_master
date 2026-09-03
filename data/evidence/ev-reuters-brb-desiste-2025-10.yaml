@@ -1,0 +1,15 @@
+id: ev-reuters-brb-desiste-2025-10
+kind: evidence
+classification: A
+proposition: Segundo fontes ouvidas pela Reuters, conforme o Congresso em Foco, o BRB desistiu de adquirir
+  o Banco Master após a rejeição do Banco Central.
+document_ids: []
+source_ids:
+- src-congressoemfoco-2025-10-20-brb-desiste
+attributed_to: Reuters (fontes não identificadas), via Congresso em Foco
+date: '2025-10-20'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

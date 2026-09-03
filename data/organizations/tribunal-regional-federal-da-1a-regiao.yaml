@@ -1,0 +1,22 @@
+id: tribunal-regional-federal-da-1a-regiao
+kind: organization
+name: TRF-1
+aliases: []
+org_type: court
+summary: Tribunal Regional Federal da 1ª Região. Em 28/11/2025 a desembargadora Solange Salgado substituiu
+  a prisão preventiva de Vorcaro e de executivos do Master por medidas cautelares.
+why_in_novelo: Concedeu o habeas corpus que soltou Daniel Vorcaro após a primeira prisão, em novembro
+  de 2025.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-migalhas-2025-11-28-trf1-solta-vorcaro
+full_name: Tribunal Regional Federal da 1ª Região
+jurisdiction: Brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,30 @@
+id: ibaneis-rocha
+kind: person
+name: Ibaneis Rocha
+category: politician
+role: Governador do Distrito Federal (MDB) à época da tentativa de compra do Master pelo BRB
+positions:
+- title: Governador
+  organization_id: governo-do-distrito-federal
+  source_ids:
+  - src-cldf-2025-08-19-autoriza-brb-comprar-master
+summary: Governador do Distrito Federal. Seu governo enviou à CLDF, em regime de urgência, o PL 1882/2025
+  que autorizou o BRB, banco controlado pelo GDF, a adquirir participação no Banco Master; o projeto foi
+  aprovado em 19/08/2025 e seguia para sanção.
+why_in_novelo: Chefiava o Executivo distrital que propôs a autorização legislativa para o BRB comprar
+  participação no Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Manifestações de Ibaneis Rocha sobre a operação e sobre as investigações não foram localizadas em fonte
+  verificada do corpus.
+source_ids:
+- src-cldf-2025-08-19-autoriza-brb-comprar-master
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Ibaneis_Rocha
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

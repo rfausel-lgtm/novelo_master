@@ -1,0 +1,36 @@
+id: gabriel-galipolo
+kind: person
+name: Gabriel Galípolo
+category: public_official
+role: Presidente do Banco Central do Brasil (desde 2025); diretor do BC em 2024
+positions:
+- title: Presidente
+  organization_id: banco-central-do-brasil
+  start_date: 2025-01
+  source_ids:
+  - src-cnn-2025-11-18-bc-rejeitou-compra-setembro
+summary: Presidente do Banco Central. Segundo a CNN Brasil e a Gazeta do Povo, participou, ainda como
+  indicado à presidência do BC, do encontro de 04/12/2024 entre Lula e Vorcaro no Planalto, chamado por
+  Lula para tratar tecnicamente das questões apresentadas. Como presidente, autorizou a liquidação extrajudicial
+  do Master em 18/11/2025, segundo a CNN.
+why_in_novelo: Presidia o Banco Central quando a compra do Master pelo BRB foi rejeitada e quando o banco
+  foi liquidado, e participou, como indicado ao cargo, do encontro de dezembro de 2024 no Planalto.
+cited_position:
+- kind: version
+  summary: Segundo a Gazeta do Povo e a CNN, Lula relatou ter pedido a Galípolo que examinasse tecnicamente
+    as questões do banqueiro; não há no corpus declaração do próprio Galípolo sobre o encontro.
+  source_ids:
+  - src-gazeta-2026-03-05-vorcaro-otimo-encontro
+open_questions:
+- Declarações públicas de Galípolo sobre o encontro de 04/12/2024 não foram localizadas em fonte verificada
+  do corpus.
+source_ids:
+- src-cnn-2026-01-lula-vorcaro-fora-da-agenda
+- src-gazeta-2026-03-05-vorcaro-otimo-encontro
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Gabriel_Gal%C3%ADpolo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

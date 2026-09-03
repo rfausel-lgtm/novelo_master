@@ -1,0 +1,24 @@
+id: will-bank
+kind: organization
+name: Will Bank
+aliases:
+- Will Financeira
+org_type: financial_institution
+summary: Instituição controlada pelo Banco Master, segundo a CNN; teve liquidação extrajudicial decretada
+  pelo BC em janeiro de 2026; o FGC estima R$ 6,3 bilhões em garantias.
+why_in_novelo: Instituição ligada ao Banco Master liquidada pelo Banco Central em 2026, com garantias
+  pagas pelo FGC.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A data exata e o ato do BC que decretou a liquidação do Will Bank não foram lidos pela equipe (o FGC
+  publicou comunicado em 21/01/2026).
+source_ids:
+- src-fgc-2026-03-05-antecipacao-e-pagamentos
+- src-cnn-2026-03-04-relembre-crise-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

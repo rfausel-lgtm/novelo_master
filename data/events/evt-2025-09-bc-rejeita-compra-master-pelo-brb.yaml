@@ -1,0 +1,31 @@
+id: evt-2025-09-bc-rejeita-compra-master-pelo-brb
+kind: event
+title: Banco Central rejeita a aquisição de participação no Banco Master pelo BRB
+event_type: regulatory_act
+date: '2025-09-03'
+date_precision: approximate
+participant_ids:
+- banco-central-do-brasil
+- banco-de-brasilia-brb
+- banco-master
+- gabriel-galipolo
+description: Segundo CNN Brasil e Congresso em Foco, o Banco Central indeferiu em setembro de 2025 (dia
+  3, segundo a apuração da imprensa) o pedido do BRB, protocolado em março de 2025, para adquirir 49%
+  das ordinárias e 100% das preferenciais do Master, apontando riscos excessivos nos ativos; o BRB confirmou
+  o indeferimento em comunicado ao mercado e pediu acesso à íntegra da decisão. Em outubro, segundo a
+  Reuters, o BRB desistiu da operação.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-bc-rejeita-compra-master-brb-2025-09
+- ev-reuters-brb-desiste-2025-10
+source_ids:
+- src-cnn-2025-11-18-bc-rejeitou-compra-setembro
+- src-congressoemfoco-2025-10-20-brb-desiste
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

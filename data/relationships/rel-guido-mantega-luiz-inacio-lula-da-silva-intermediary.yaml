@@ -1,0 +1,29 @@
+id: rel-guido-mantega-luiz-inacio-lula-da-silva-intermediary
+kind: relationship
+from_id: guido-mantega
+to_id: luiz-inacio-lula-da-silva
+relationship_type: intermediary
+directed: false
+label: articulou o encontro com Vorcaro
+start_date: '2024-12-04'
+via_id: daniel-vorcaro
+description: Segundo a imprensa, Mantega pediu reunião ao chefe de gabinete de Lula e levou Vorcaro e
+  Augusto Lima ao Planalto em 04/12/2024; teria ido ao Planalto ao menos seis vezes, recebido pelo chefe
+  de gabinete.
+evidence_class: C
+confidence: 0.8
+status: verified
+event_ids:
+- evt-2024-12-04-reuniao-planalto-lula-vorcaro
+evidence_ids:
+- ev-lula-recebeu-vorcaro-2024-12-04
+- ev-mantega-consultor-master
+source_ids:
+- src-cnn-2026-01-lula-vorcaro-fora-da-agenda
+- src-brasilparalelo-2026-02-planalto-sem-registros
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

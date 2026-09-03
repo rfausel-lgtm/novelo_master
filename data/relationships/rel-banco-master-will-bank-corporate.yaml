@@ -1,0 +1,24 @@
+id: rel-banco-master-will-bank-corporate
+kind: relationship
+from_id: banco-master
+to_id: will-bank
+relationship_type: corporate
+directed: true
+label: controlador (segundo a CNN)
+description: Segundo a CNN Brasil, o Will Bank era controlado pelo Banco Master; o FGC estima R$ 6,3 bilhões
+  em garantias após sua liquidação. Registro societário não verificado pela equipe.
+evidence_class: C
+confidence: 0.7
+status: verified
+event_ids: []
+evidence_ids:
+- ev-fgc-38-4-bi-pagos-2026-03-05
+source_ids:
+- src-cnn-2026-03-04-relembre-crise-master
+- src-fgc-2026-03-05-antecipacao-e-pagamentos
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

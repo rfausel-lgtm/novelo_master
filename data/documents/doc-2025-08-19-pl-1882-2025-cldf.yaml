@@ -1,0 +1,26 @@
+id: doc-2025-08-19-pl-1882-2025-cldf
+kind: document
+title: 'Projeto de Lei 1882/2025 (CLDF): autorização para o BRB adquirir participação no Banco Master,
+  conforme comunicação oficial da CLDF'
+doc_type: legislative_act
+date: '2025-08-19'
+issuer_id: camara-legislativa-do-distrito-federal
+issuer: Câmara Legislativa do Distrito Federal
+source_ids:
+- src-cldf-2025-08-19-autoriza-brb-comprar-master
+summary: Aprovado em 19/08/2025 (14 a 7) em dois turnos; autoriza o BRB a adquirir 49% das ações ordinárias
+  e 100% das preferenciais do Banco Master; substitutivo do PT removeu autorizações genéricas.
+is_official: true
+related_entity_ids:
+- camara-legislativa-do-distrito-federal
+- banco-de-brasilia-brb
+- banco-master
+- governo-do-distrito-federal
+- paulo-henrique-costa
+url: https://www.cl.df.gov.br/-/cldf-autoriza-brb-a-comprar-banco-master
+reference: PL 1882/2025
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

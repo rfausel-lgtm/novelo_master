@@ -1,0 +1,24 @@
+id: src-brasilparalelo-2026-02-planalto-sem-registros
+kind: source
+title: Planalto afirma não ter registros de reunião entre Vorcaro e Lula
+publisher: Brasil Paralelo
+publication_date: 2026-02
+retrieved_at: '2026-09-03'
+url: https://www.brasilparalelo.com.br/noticias/planalto-afirma-nao-ter-registros-de-reuniao-entre-vorcaro-e-lula
+source_type: press
+summary: 'Resposta da Presidência da República a pedido de acesso à informação do Metrópoles: ''não foram
+  produzidas atas, registros, filmagens, gravações ou outros documentos'' das reuniões de 04/12/2024 e
+  das demais reuniões de Mantega no Planalto; os encontros constariam na agenda do chefe de gabinete Marco
+  Aurélio Santana Ribeiro, não na de Lula.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (curl + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: Veículo de opinião declarada; usado apenas para a transcrição da resposta oficial via LAI e da
+  entrevista de Lula ao UOL, ambas reproduzidas em outros veículos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

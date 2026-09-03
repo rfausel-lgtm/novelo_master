@@ -1,0 +1,17 @@
+id: ev-cldf-aprova-pl-1882-2025
+kind: evidence
+classification: D
+proposition: A CLDF aprovou em 19/08/2025, por 14 a 7, o PL 1882/2025 autorizando o BRB a adquirir 49%
+  das ações ordinárias e 100% das preferenciais do Banco Master.
+document_ids:
+- doc-2025-08-19-pl-1882-2025-cldf
+source_ids:
+- src-cldf-2025-08-19-autoriza-brb-comprar-master
+excerpt: o projeto de lei 1882/2025 foi aprovado pela Câmara Legislativa nesta terça-feira (19), com 14
+  votos favoráveis e 7 contrários
+date: '2025-08-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

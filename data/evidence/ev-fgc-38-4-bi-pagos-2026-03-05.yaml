@@ -1,0 +1,15 @@
+id: ev-fgc-38-4-bi-pagos-2026-03-05
+kind: evidence
+classification: D
+proposition: Até 05/03/2026 o FGC havia pago R$ 38,4 bilhões (94%) a cerca de 675 mil credores do conglomerado
+  Master e estimava R$ 6,3 bilhões para o Will Bank.
+document_ids:
+- doc-2026-03-05-comunicado-fgc-antecipacao
+source_ids:
+- src-fgc-2026-03-05-antecipacao-e-pagamentos
+date: '2026-03-05'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

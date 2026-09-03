@@ -1,0 +1,26 @@
+id: rel-augusto-lima-banco-master-corporate
+kind: relationship
+from_id: augusto-lima
+to_id: banco-master
+relationship_type: corporate
+directed: false
+label: ex-CEO e sócio
+description: Augusto Ferreira Lima é descrito como ex-CEO e sócio do Banco Master; foi preso na 1ª fase
+  da Compliance Zero e solto pelo TRF-1 em 28/11/2025.
+evidence_class: C
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2025-11-28-trf1-solta-vorcaro-e-executivos
+evidence_ids:
+- ev-trf1-solta-vorcaro-2025-11-28
+source_ids:
+- src-migalhas-2025-11-28-trf1-solta-vorcaro
+- src-cnn-2025-11-justica-federal-manda-soltar
+- src-cnn-2026-03-04-relembre-crise-master
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

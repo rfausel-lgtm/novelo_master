@@ -1,0 +1,28 @@
+id: rel-augusto-lima-daniel-vorcaro-shared-event
+kind: relationship
+from_id: augusto-lima
+to_id: daniel-vorcaro
+relationship_type: shared_event
+directed: false
+label: reunião no Planalto e prisão na mesma operação
+start_date: '2024-12-04'
+description: Augusto Lima acompanhou Vorcaro e Mantega ao Planalto em 04/12/2024 (CNN) e foi preso e solto
+  na mesma decisão que o banqueiro (TRF-1, 28/11/2025).
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids:
+- evt-2024-12-04-reuniao-planalto-lula-vorcaro
+- evt-2025-11-28-trf1-solta-vorcaro-e-executivos
+evidence_ids:
+- ev-lula-recebeu-vorcaro-2024-12-04
+- ev-trf1-solta-vorcaro-2025-11-28
+source_ids:
+- src-cnn-2026-01-lula-vorcaro-fora-da-agenda
+- src-migalhas-2025-11-28-trf1-solta-vorcaro
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

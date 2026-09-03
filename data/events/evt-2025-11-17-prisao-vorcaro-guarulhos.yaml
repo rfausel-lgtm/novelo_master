@@ -1,0 +1,28 @@
+id: evt-2025-11-17-prisao-vorcaro-guarulhos
+kind: event
+title: Prisão de Daniel Vorcaro no aeroporto de Guarulhos
+event_type: investigation_step
+date: '2025-11-17'
+date_precision: day
+participant_ids:
+- policia-federal
+- daniel-vorcaro
+description: Segundo a CNN Brasil e a decisão do TRF-1 reproduzida pelo Migalhas, Vorcaro foi preso em
+  17/11/2025 ao tentar embarcar em jato particular em Guarulhos, na execução da Operação Compliance Zero;
+  a decisão registra que ele comunicara previamente ao Banco Central a viagem internacional, para tratar
+  da venda da instituição. A nota da PF data a deflagração da operação em 18/11/2025.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-vorcaro-preso-guarulhos-2025-11-17
+source_ids:
+- src-cnn-2025-11-justica-federal-manda-soltar
+- src-migalhas-2025-11-28-trf1-solta-vorcaro
+document_ids: []
+public_act_ids: []
+location: Aeroporto de Guarulhos, SP
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

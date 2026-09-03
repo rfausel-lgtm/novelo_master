@@ -1,0 +1,51 @@
+id: evt-2024-12-04-reuniao-planalto-lula-vorcaro
+kind: event
+title: Reunião fora da agenda no Palácio do Planalto entre Lula e Vorcaro
+event_type: meeting
+date: '2024-12-04'
+date_precision: day
+participant_ids:
+- luiz-inacio-lula-da-silva
+- daniel-vorcaro
+- guido-mantega
+- gabriel-galipolo
+- augusto-lima
+- presidencia-da-republica
+description: Segundo CNN Brasil, Gazeta do Povo e Brasil Paralelo (esta reproduzindo entrevista de Lula
+  ao UOL e resposta via LAI), Lula recebeu Vorcaro no Planalto em 04/12/2024, fora da agenda oficial.
+  O encontro foi articulado por Guido Mantega, consultor do banco, que chegou com Vorcaro e Augusto Lima;
+  Lula chamou Gabriel Galípolo (então indicado à presidência do BC) e ministros (Rui Costa e Alexandre
+  Silveira, segundo a Gazeta). Lula confirmou o encontro e afirmou ter dito que não haveria posição política
+  sobre o banco, apenas investigação técnica do BC. A Presidência informou não ter produzido registros.
+  Mensagens do banqueiro à então namorada descreveram o encontro como 'ótimo', segundo a Gazeta.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-lula-recebeu-vorcaro-2024-12-04
+- ev-planalto-sem-registros-lai
+- ev-pf-mensagens-vorcaro-otimo-encontro
+- ev-mantega-consultor-master
+source_ids:
+- src-cnn-2026-01-lula-vorcaro-fora-da-agenda
+- src-gazeta-2026-03-05-vorcaro-otimo-encontro
+- src-brasilparalelo-2026-02-planalto-sem-registros
+document_ids: []
+public_act_ids: []
+cited_position:
+- by_id: luiz-inacio-lula-da-silva
+  kind: version
+  summary: Lula confirmou o encontro e disse ter respondido ao banqueiro que haveria apenas investigação
+    técnica do Banco Central, sem posição política.
+  source_ids:
+  - src-gazeta-2026-03-05-vorcaro-otimo-encontro
+- by_id: presidencia-da-republica
+  kind: clarification
+  summary: 'Via LAI: não foram produzidos registros da reunião.'
+  source_ids:
+  - src-brasilparalelo-2026-02-planalto-sem-registros
+location: Palácio do Planalto, Brasília
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

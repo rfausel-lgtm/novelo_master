@@ -1,0 +1,16 @@
+id: ev-planalto-sem-registros-lai
+kind: evidence
+classification: C
+proposition: A Presidência da República respondeu, via Lei de Acesso à Informação, que não foram produzidos
+  atas, registros, filmagens ou gravações das reuniões de 04/12/2024 e das demais reuniões de Mantega
+  no Planalto.
+document_ids: []
+source_ids:
+- src-brasilparalelo-2026-02-planalto-sem-registros
+- src-cnn-2026-01-lula-vorcaro-fora-da-agenda
+date: 2026-02
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

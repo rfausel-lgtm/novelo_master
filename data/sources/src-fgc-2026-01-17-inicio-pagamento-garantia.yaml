@@ -1,0 +1,25 @@
+id: src-fgc-2026-01-17-inicio-pagamento-garantia
+kind: source
+title: FGC dá início ao pagamento da garantia aos credores dos Bancos Master, Master de Investimentos
+  e Letsbank
+publisher: Fundo Garantidor de Créditos
+publication_date: '2026-01-17'
+retrieved_at: '2026-09-03'
+url: https://fgc.org.br/documents/55449/55491/17_01_2026+FGC+d%C3%A1+in%C3%ADcio+ao+pagamento+da+garantia+aos+credores+dos+Bancos+Master,+Master+de+Investimentos+e+Letsbank.pdf/1bd4ea2e-95e8-4f4f-265d-22d6e87adb03?version=1.0&t=1768862149916&download=true
+source_type: official_other
+summary: 'Comunicado ao mercado: início do pagamento das garantias em 17/01/2026; cerca de 800 mil credores;
+  valor total a pagar de R$ 40,6 bilhões; liquidez do FGC de R$ 125 bilhões. Nota de rodapé cita os Atos
+  do Presidente do Banco Central nº 1.369, 1.371, 1.372 e 1.373, publicados em 18/11/2025, que liquidaram
+  o Banco Master, o Banco Master de Investimento, o Banco Letsbank e a Master Corretora de Câmbio.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (curl + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: O FGC é entidade privada de garantia de depósitos; classificado como fonte oficial do sistema (official_other)
+  por ser o gestor legal da garantia, sob regulação do CMN.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

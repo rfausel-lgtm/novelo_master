@@ -1,0 +1,23 @@
+id: doc-2025-11-18-atos-presidente-bcb-liquidacao
+kind: document
+title: Atos do Presidente do Banco Central nº 1.369, 1.371, 1.372 e 1.373 (liquidação extrajudicial do
+  Banco Master, Master de Investimento, Letsbank e Master CCTVM), conforme citados pelo FGC
+doc_type: administrative_act
+date: '2025-11-18'
+issuer_id: banco-central-do-brasil
+issuer: Presidente do Banco Central do Brasil
+source_ids:
+- src-fgc-2026-01-17-inicio-pagamento-garantia
+summary: Atos publicados em 18/11/2025 que decretaram a liquidação extrajudicial das quatro instituições
+  do conglomerado Master, conforme nota de rodapé do comunicado do FGC de 17/01/2026. A íntegra dos atos
+  não foi lida pela equipe.
+is_official: true
+related_entity_ids:
+- banco-central-do-brasil
+- banco-master
+reference: Atos do Presidente nº 1.369, 1.371, 1.372 e 1.373/2025
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

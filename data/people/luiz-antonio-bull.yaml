@@ -1,0 +1,25 @@
+id: luiz-antonio-bull
+kind: person
+name: Luiz Antônio Bull
+category: executive
+role: Ex-diretor de Risco, Compliance e Operações do Banco Master
+positions:
+- title: Diretor de Risco, Compliance e Operações
+  organization_id: banco-master
+  source_ids:
+  - src-cnn-2025-11-justica-federal-manda-soltar
+summary: Executivo do Banco Master, preso na 1ª fase da Compliance Zero e solto pelo TRF-1 em 28/11/2025
+  com medidas cautelares.
+why_in_novelo: Foi diretor do Banco Master e alvo da Operação Compliance Zero.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-migalhas-2025-11-28-trf1-solta-vorcaro
+- src-cnn-2025-11-justica-federal-manda-soltar
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

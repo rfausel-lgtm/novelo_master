@@ -1,0 +1,26 @@
+id: presidencia-da-republica
+kind: organization
+name: Presidência da República
+aliases:
+- Palácio do Planalto
+org_type: public_body
+summary: Palácio do Planalto. Local do encontro de 04/12/2024 entre Lula e Vorcaro; respondeu via LAI
+  não ter produzido registros das reuniões.
+why_in_novelo: Sediou o encontro fora da agenda entre o presidente Lula e Daniel Vorcaro em dezembro de
+  2024.
+cited_position:
+- by_id: presidencia-da-republica
+  kind: clarification
+  summary: 'Via LAI: não foram produzidas atas, registros, filmagens ou gravações das reuniões de 04/12/2024
+    e das demais reuniões de Mantega no Planalto.'
+  source_ids:
+  - src-brasilparalelo-2026-02-planalto-sem-registros
+open_questions: []
+source_ids:
+- src-cnn-2026-01-lula-vorcaro-fora-da-agenda
+- src-brasilparalelo-2026-02-planalto-sem-registros
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

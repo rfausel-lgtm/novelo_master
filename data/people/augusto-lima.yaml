@@ -1,0 +1,29 @@
+id: augusto-lima
+kind: person
+name: Augusto Lima
+category: executive
+role: Ex-CEO e ex-sócio do Banco Master
+positions:
+- title: CEO e sócio
+  organization_id: banco-master
+  source_ids:
+  - src-migalhas-2025-11-28-trf1-solta-vorcaro
+summary: Ex-CEO e ex-sócio do Banco Master. Preso na 1ª fase da Compliance Zero e solto pelo TRF-1 em
+  28/11/2025 com medidas cautelares; acompanhou Vorcaro e Mantega no encontro de 04/12/2024 no Planalto,
+  segundo a CNN. Segundo a CNN, controlava o Banco Pleno, liquidado pelo BC em fevereiro de 2026.
+why_in_novelo: Foi executivo e sócio do Banco Master, alvo da Operação Compliance Zero, e participou do
+  encontro de dezembro de 2024 no Planalto, segundo a imprensa.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-migalhas-2025-11-28-trf1-solta-vorcaro
+- src-cnn-2026-01-lula-vorcaro-fora-da-agenda
+- src-cnn-2026-03-04-relembre-crise-master
+full_name: Augusto Ferreira Lima
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

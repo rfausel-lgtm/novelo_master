@@ -1,0 +1,27 @@
+id: evt-2026-03-05-fgc-atualiza-pagamentos-e-antecipa-contribuicoes
+kind: event
+title: FGC informa R$ 38,4 bilhões pagos e antecipa contribuições das instituições associadas
+event_type: regulatory_act
+date: '2026-03-05'
+date_precision: day
+participant_ids:
+- fundo-garantidor-de-creditos
+- banco-master
+- will-bank
+description: 'Comunicado ao mercado: R$ 38,4 bilhões pagos (94%) a cerca de 675 mil credores do conglomerado
+  Master; estimativa de R$ 6,3 bilhões para o Will Bank; antecipação de 60 meses de contribuições ordinárias
+  (cerca de R$ 32,5 bilhões) para recompor o caixa do fundo.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-fgc-38-4-bi-pagos-2026-03-05
+source_ids:
+- src-fgc-2026-03-05-antecipacao-e-pagamentos
+document_ids:
+- doc-2026-03-05-comunicado-fgc-antecipacao
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

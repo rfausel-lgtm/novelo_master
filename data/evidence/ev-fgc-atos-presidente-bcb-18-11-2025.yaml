@@ -1,0 +1,17 @@
+id: ev-fgc-atos-presidente-bcb-18-11-2025
+kind: evidence
+classification: D
+proposition: Segundo o comunicado do FGC, os Atos do Presidente do Banco Central nº 1.369, 1.371, 1.372
+  e 1.373, publicados em 18/11/2025, liquidaram extrajudicialmente o Banco Master, o Banco Master de Investimento,
+  o Banco Letsbank e a Master Corretora de Câmbio.
+document_ids:
+- doc-2025-11-18-atos-presidente-bcb-liquidacao
+- doc-2026-01-17-comunicado-fgc-inicio-pagamento
+source_ids:
+- src-fgc-2026-01-17-inicio-pagamento-garantia
+date: '2025-11-18'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

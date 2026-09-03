@@ -1,0 +1,16 @@
+id: ev-bc-rejeita-compra-master-brb-2025-09
+kind: evidence
+classification: C
+proposition: Em setembro de 2025 o Banco Central rejeitou o pedido do BRB para adquirir participação no
+  Banco Master, apontando riscos excessivos nos ativos; o BRB confirmou o indeferimento em comunicado
+  ao mercado.
+document_ids: []
+source_ids:
+- src-cnn-2025-11-18-bc-rejeitou-compra-setembro
+- src-congressoemfoco-2025-10-20-brb-desiste
+date: 2025-09
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

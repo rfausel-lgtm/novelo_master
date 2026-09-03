@@ -1,0 +1,21 @@
+id: camara-legislativa-do-distrito-federal
+kind: organization
+name: CLDF
+aliases: []
+org_type: public_body
+summary: Câmara Legislativa do Distrito Federal. Aprovou em 19/08/2025 o PL 1882/2025 (14 a 7) autorizando
+  o BRB a adquirir participação no Banco Master, após reunião fechada com o presidente do BRB.
+why_in_novelo: Aprovou a autorização legislativa para o BRB comprar participação no Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-cldf-2025-08-19-autoriza-brb-comprar-master
+full_name: Câmara Legislativa do Distrito Federal
+jurisdiction: Distrito Federal
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

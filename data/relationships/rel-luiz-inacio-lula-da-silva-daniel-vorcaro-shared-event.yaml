@@ -1,0 +1,37 @@
+id: rel-luiz-inacio-lula-da-silva-daniel-vorcaro-shared-event
+kind: relationship
+from_id: luiz-inacio-lula-da-silva
+to_id: daniel-vorcaro
+relationship_type: shared_event
+directed: false
+label: reunião no Planalto (04/12/2024)
+start_date: '2024-12-04'
+via_id: guido-mantega
+description: Lula recebeu Vorcaro no Palácio do Planalto em 04/12/2024, fora da agenda oficial, em encontro
+  articulado por Guido Mantega; confirmado pelo próprio presidente. Segundo Lula, o banqueiro relatou
+  perseguição e o presidente respondeu que haveria apenas investigação técnica do BC. Não há registro
+  oficial da reunião, segundo a Presidência.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids:
+- evt-2024-12-04-reuniao-planalto-lula-vorcaro
+evidence_ids:
+- ev-lula-recebeu-vorcaro-2024-12-04
+- ev-planalto-sem-registros-lai
+source_ids:
+- src-cnn-2026-01-lula-vorcaro-fora-da-agenda
+- src-gazeta-2026-03-05-vorcaro-otimo-encontro
+- src-brasilparalelo-2026-02-planalto-sem-registros
+document_ids: []
+cited_position:
+- by_id: luiz-inacio-lula-da-silva
+  kind: version
+  summary: Confirmou o encontro; disse não haver posição política pró ou contra o banco.
+  source_ids:
+  - src-gazeta-2026-03-05-vorcaro-otimo-encontro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

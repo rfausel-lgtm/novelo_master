@@ -1,0 +1,31 @@
+id: seq-brb-master-cldf-bc-liquidacao
+kind: temporal_sequence
+title: 'Da autorização da CLDF à liquidação: BRB e Banco Master (ago/2025 a nov/2025)'
+step_ids:
+- evt-2025-08-19-cldf-aprova-compra-master-pelo-brb
+- evt-2025-09-bc-rejeita-compra-master-pelo-brb
+- evt-2025-11-17-prisao-vorcaro-guarulhos
+- evt-2025-11-18-liquidacao-extrajudicial-banco-master
+temporal_proximity: high
+documentary_link: present
+causality_proven: false
+description: Em 19/08/2025 a CLDF autoriza o BRB a comprar participação no Master; em setembro o Banco
+  Central indefere a operação; em 17 e 18/11/2025 Vorcaro é preso e o BC decreta a liquidação. Os documentos
+  oficiais (CLDF, ata do Comef, nota da PF) ligam os atos; a relação entre a rejeição do BC e a liquidação
+  é objeto das investigações.
+limits: A sequência não demonstra que a rejeição tenha causado a liquidação, nem que a autorização legislativa
+  tenha sido obtida de forma irregular; a decisão do BC de setembro não foi lida na íntegra pela equipe.
+source_ids:
+- src-cldf-2025-08-19-autoriza-brb-comprar-master
+- src-cnn-2025-11-18-bc-rejeitou-compra-setembro
+- src-bcb-2025-11-ata-comef-63
+- src-pf-2025-11-18-compliance-zero
+evidence_ids:
+- ev-cldf-aprova-pl-1882-2025
+- ev-bc-rejeita-compra-master-brb-2025-09
+- ev-bcb-liquidacao-conglomerado-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

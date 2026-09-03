@@ -1,0 +1,28 @@
+id: rel-guido-mantega-banco-master-professional
+kind: relationship
+from_id: guido-mantega
+to_id: banco-master
+relationship_type: professional
+directed: false
+label: consultor (segundo a imprensa)
+start_date: '2024'
+description: Mantega prestava consultoria ao Banco Master, segundo CNN Brasil, Gazeta do Povo e Brasil
+  Paralelo, e articulou o encontro de 04/12/2024 no Planalto. Contrato e valores não foram verificados
+  em documento pela equipe.
+evidence_class: C
+confidence: 0.75
+status: verified
+event_ids:
+- evt-2024-12-04-reuniao-planalto-lula-vorcaro
+evidence_ids:
+- ev-mantega-consultor-master
+source_ids:
+- src-cnn-2026-01-lula-vorcaro-fora-da-agenda
+- src-gazeta-2026-03-05-vorcaro-otimo-encontro
+- src-brasilparalelo-2026-02-planalto-sem-registros
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

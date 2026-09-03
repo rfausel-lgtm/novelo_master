@@ -1,0 +1,29 @@
+id: ato-2025-08-19-pl-1882-2025-cldf
+kind: public_act
+title: Aprovação do PL 1882/2025 pela CLDF (autorização para o BRB adquirir participação no Banco Master)
+act_type: legislative
+date: '2025-08-19'
+date_precision: day
+issuer_id: camara-legislativa-do-distrito-federal
+actor_ids:
+- camara-legislativa-do-distrito-federal
+affected_ids:
+- banco-de-brasilia-brb
+- banco-master
+- governo-do-distrito-federal
+description: Aprovação em dois turnos (14 a 7) do projeto enviado pelo GDF em regime de urgência.
+reference: PL 1882/2025
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-cldf-aprova-pl-1882-2025
+source_ids:
+- src-cldf-2025-08-19-autoriza-brb-comprar-master
+document_ids:
+- doc-2025-08-19-pl-1882-2025-cldf
+url: https://www.cl.df.gov.br/-/cldf-autoriza-brb-a-comprar-banco-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

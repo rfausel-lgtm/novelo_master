@@ -1,0 +1,29 @@
+id: guido-mantega
+kind: person
+name: Guido Mantega
+category: businessperson
+role: Ex-ministro da Fazenda; consultor do Banco Master, segundo a imprensa
+positions: []
+summary: Ex-ministro da Fazenda. Segundo CNN Brasil, Gazeta do Povo e Brasil Paralelo, prestava consultoria
+  ao Banco Master e articulou o encontro de 04/12/2024 entre Vorcaro e Lula no Planalto, chegando acompanhado
+  do banqueiro e de Augusto Lima; teria ido ao Planalto ao menos seis vezes, recebido pelo chefe de gabinete
+  de Lula.
+why_in_novelo: É apontado pela imprensa como consultor do Banco Master e articulador do encontro de dezembro
+  de 2024 entre Daniel Vorcaro e o presidente Lula.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A posição de Mantega sobre a consultoria e o encontro não foi localizada em fonte verificada do corpus;
+  o valor da consultoria (R$ 1 milhão mensal, segundo a imprensa) não foi confirmado em documento.
+source_ids:
+- src-cnn-2026-01-lula-vorcaro-fora-da-agenda
+- src-gazeta-2026-03-05-vorcaro-otimo-encontro
+- src-brasilparalelo-2026-02-planalto-sem-registros
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Guido_Mantega
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

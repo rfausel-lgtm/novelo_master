@@ -1,0 +1,15 @@
+id: ev-mantega-consultor-master
+kind: evidence
+classification: C
+proposition: Guido Mantega prestava consultoria ao Banco Master e articulou o encontro de 04/12/2024,
+  segundo CNN Brasil, Gazeta do Povo e Brasil Paralelo.
+document_ids: []
+source_ids:
+- src-cnn-2026-01-lula-vorcaro-fora-da-agenda
+- src-gazeta-2026-03-05-vorcaro-otimo-encontro
+- src-brasilparalelo-2026-02-planalto-sem-registros
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
