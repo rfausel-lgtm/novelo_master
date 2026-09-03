@@ -327,7 +327,7 @@ Sem ReviewTrail; sempre entra no build.
 
 ## Regras do lint
 
-O carregador (`load.ts`) e o lint (`lint.ts`) produzem dois níveis: erro e aviso. Erros bloqueiam `data:build` e `data:validate`. Avisos bloqueiam apenas `data:lint` (modo estrito, usado na integração contínua).
+O carregador (`load.ts`) e o lint (`lint.ts`) produzem dois níveis: erro e aviso. Erros bloqueiam `data:build`, `data:validate` e `data:lint`. Avisos nunca bloqueiam `data:build` nem `data:validate`; em `data:lint` (modo estrito, usado na integração contínua) bloqueiam apenas quando o registro afetado está em `review_status: published`. Rascunhos (`draft`, `in_review`) podem ter avisos pendentes sem derrubar a CI.
 
 ### Erros do carregador
 
@@ -341,11 +341,17 @@ O carregador (`load.ts`) e o lint (`lint.ts`) produzem dois níveis: erro e avis
 Referências:
 
 - Qualquer id referenciado que não exista.
-- Referência a tipo errado (por exemplo `participant_ids` apontando para evento; `document_ids` apontando para fonte). Campos com tipo restrito: `source_ids` (source), `document_ids` (document), `evidence_ids` (evidence), `event_ids` (event), `public_act_ids` (public_act), `transaction_ids` (transaction), `participant_ids`, `actor_ids`, `affected_ids`, `related_entity_ids`, `from_id`, `to_id`, `via_id`, `issuer_id`, `positions.organization_id` (organization), `step_ids` (event ou public_act). `attributed_to_id` e `claimant_id` aceitam qualquer tipo.
+- Referência a tipo errado. Campos com tipo restrito: `source_ids` (source), `document_ids` (document), `evidence_ids` (evidence), `event_ids` (event), `public_act_ids` (public_act), `transaction_ids` (transaction), `step_ids` (event ou public_act), `positions.organization_id` (organization) e, restritos a pessoa ou organização: `participant_ids`, `actor_ids`, `affected_ids`, `related_entity_ids`, `from_id`, `to_id`, `via_id`, `issuer_id`, `cited_position[].by_id`, `counter_position[].by_id`. `cited_position[].source_ids` e `counter_position[].source_ids` devem apontar para source. `attributed_to_id` e `claimant_id` aceitam qualquer tipo.
+
+Regras comuns a eventos, atos públicos, transações, relações e claims (`checkClassAndStatus`):
+
+- `status: verified` com classe A ou I.
+- `evidence_class` (ou `classification`, em claims) superior à melhor classe entre as evidências ligadas (ordem D > C > A > I).
+- Classe I sem ao menos uma evidência ligada de classe I com `inference_basis`. Não existe inferência sem raciocínio escrito em um registro `Evidence`.
 
 Documentos:
 
-- Documento sem `url`, sem `raw_path` e sem `source_ids` (não rastreável).
+- Sem `url`, sem `raw_path` e sem `source_ids` (não rastreável).
 
 Evidências:
 
@@ -355,34 +361,22 @@ Evidências:
 - Classe A sem `attributed_to` nem `attributed_to_id`.
 - Classe I sem `inference_basis`.
 
-Eventos:
+Eventos, atos públicos e transações:
 
-- Sem `evidence_ids` nem `source_ids`, salvo classe I (`document_ids` não conta como suporte aqui).
-- `status: verified` com classe A ou I.
-
-Atos públicos:
-
-- Sem `evidence_ids`, sem `source_ids` e sem `document_ids` (sem exceção para classe I).
-
-Transações:
-
-- Sem `evidence_ids` nem `source_ids`, salvo classe I (`document_ids` não conta).
-- `status: verified` com classe A ou I.
-- `from_id` ou `to_id` que não seja pessoa ou organização.
+- Sem `evidence_ids`, sem `source_ids` e sem `document_ids`, salvo classe I (que, pela regra comum, precisa de evidência I ligada).
+- Transação com `from_id` igual a `to_id`.
 
 Relações:
 
 - `from_id` igual a `to_id`.
 - Sem `evidence_ids`, `source_ids` e `document_ids`, e não classificada como I.
 - Classe I sem suporte e sem `event_ids`.
-- `status: verified` com classe A ou I.
-- `evidence_class` superior à melhor classe entre as evidências ligadas (ordem D > C > A > I).
-- Classe D sem documento primário: nenhuma fonte oficial ligada (direta ou via evidência), nenhum `document_ids` na relação e nenhum documento nas evidências ligadas.
+- Classe D sem documento primário ligado: nenhum `document_ids` na relação e nenhuma evidência ligada com `document_ids`. Fonte oficial sozinha não basta.
+- Classe C com menos de duas fontes independentes: soma das fontes distintas (diretas e via evidências ligadas) mais `document_ids` diretos menor que dois. A independência entre as fontes é avaliada pelo revisor; o lint só conta.
 
 Claims:
 
 - Sem `evidence_ids` nem `source_ids`.
-- `status: verified` com classificação A ou I.
 
 Sequências:
 
@@ -390,15 +384,19 @@ Sequências:
 
 ### Avisos do lint
 
+- Prefixo de id fora da convenção: `evt-` (events), `ato-` (public-acts), `src-` (sources), `doc-` (documents), `ev-` (evidence), `rel-` (relationships), `tx-` (transactions), `claim-` (claims), `seq-` (sequences). Pessoas, organizações e revisões não têm prefixo verificado.
 - Fonte sem bloco `verification`.
 - Fonte de tipo `social_media` ou `blog`.
 - Pessoa ou organização sem `cited_position`.
-- Termo imputativo (`criminoso`, `corrupto`, `bandido`, `quadrilha`, `fraudador`, `ladrão`, `propina`, `lavou dinheiro`, `comprou o ministro`, `comprou a decisão`, `mensalão`, `esquema criminoso`) sem qualificador de atribuição no mesmo texto, nos campos `proposition`, `summary`, `why_in_novelo`, `description`, `label`, `statement`. O lint é heurístico: a presença de um qualificador em qualquer ponto do texto suprime o aviso, e o revisor humano continua responsável.
+- Claim sem `counter_position`.
+- Claim publicado sem `adversarial_review`.
+- Termo imputativo (`criminoso`, `corrupto`, `bandido`, `quadrilha`, `fraudador`, `ladrão`, `propina`, `lavou dinheiro`, `comprou o ministro`, `comprou a decisão`, `mensalão`, `esquema criminoso`) sem qualificador de atribuição no mesmo texto (`segundo`, `conforme`, `de acordo com`, `alega`, `afirma`, `aponta`, `sustenta`, `acusa`, `denúncia`, `suspeita`, `investiga`, `hipótese`, `nega`, `supost-`, `presum-`, `teria`, e flexões), nos campos `proposition`, `summary`, `why_in_novelo`, `description`, `label`, `statement`. O lint é heurístico: um qualificador em qualquer ponto do texto suprime o aviso, e o revisor humano continua responsável.
 - Relação `investigative_allegation` classificada como D (confirmar se o documento prova o fato ou só registra a alegação).
 - Relação `intermediary` sem `via_id`.
 - Relação sem `start_date` e sem `event_ids` (não terá data própria na máquina do tempo).
-- Claim publicado sem `adversarial_review`.
-- Registro `draft` ou `in_review` (excluído do build) quando não se usa `--include-drafts`.
+- Registro `draft` ou `in_review` excluído do build quando não se usa `--include-drafts` (aviso do carregador, nunca bloqueante).
+
+O que o lint não verifica: independência real entre fontes de classe C, veracidade do conteúdo, coerência entre `is_official` do documento e o tipo da fonte, e a qualidade do `inference_basis`. Isso é trabalho do gauntlet ([EDITORIAL_POLICY.md](EDITORIAL_POLICY.md#1-o-gauntlet-editorial)). O conjunto `OFFICIAL_SOURCE_TYPES` não influencia o lint; ele alimenta apenas a flag `official` das arestas no build do grafo.
 
 ## Comandos
 
@@ -406,7 +404,7 @@ Sequências:
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | `npm run data:validate`                     | Carrega e valida `data/`, roda o lint, não gera arquivos. Exclui rascunhos (com aviso)                                                                                                                                           | erros          |
 | `npm run data:validate -- --include-drafts` | O mesmo, incluindo `draft` e `in_review`                                                                                                                                                                                         | erros          |
-| `npm run data:lint`                         | `validate-data.ts --strict`: inclui rascunhos e trata avisos como bloqueantes. É o comando da integração contínua e do PR de dados                                                                                               | erros e avisos |
+| `npm run data:lint` | `validate-data.ts --strict`: inclui rascunhos; avisos bloqueiam apenas em registros `published`. É o comando da integração contínua e do PR de dados | erros e avisos em registros publicados |
 | `npm run data:build`                        | Compila `data/` em `src/generated/corpus.json`, `src/generated/stats.json` e `public/data/graph.json` (com layout ForceAtlas2 determinístico). Aceita `-- --include-drafts` (ou `NOVELO_INCLUDE_DRAFTS=true`) e `-- --no-layout` | erros          |
 | `npm run check`                             | `typecheck`, `lint` (ESLint), `data:lint` e `test` em sequência                                                                                                                                                                  | qualquer falha |
 

@@ -121,7 +121,7 @@ Em todos os casos, a `proposition` da evidência descreve exatamente o que a fon
 
 ## 6. Convenções de identificadores
 
-Todo `id` é kebab-case ASCII (`^[a-z0-9]+(?:-[a-z0-9]+)*$`), sem acentos, sem pontos, sem sublinhado, e o nome do arquivo é `<id>.yaml`. Os prefixos abaixo são convenção editorial (o lint não os exige, mas a revisão sim):
+Todo `id` é kebab-case ASCII (`^[a-z0-9]+(?:-[a-z0-9]+)*$`), sem acentos, sem pontos, sem sublinhado, e o nome do arquivo é `<id>.yaml`. Os prefixos abaixo são convenção editorial verificada pelo lint (aviso quando ausentes):
 
 | Coleção       | Padrão                                                     | Exemplo                                               |
 | ------------- | ---------------------------------------------------------- | ----------------------------------------------------- |
@@ -156,7 +156,7 @@ Homônimos: se dois registros de pessoas distintas resultariam no mesmo id, acre
 - [ ] Fotos com `source`, `author`, `license`, `original_url`, `retrieved_at`, `alt`.
 - [ ] Homônimos verificados (CPF parcial, cargo, empresa, cidade, data de nascimento quando pública) e descartados.
 - [ ] Data de publicação e data do fato distinguidas; `date_precision` declarada quando não se sabe o dia.
-- [ ] `npm run data:validate` sem erros; `npm run data:lint` sem erros nem avisos nos registros que serão publicados.
+- [ ] `npm run data:validate` sem erros; `npm run data:lint` sem erros nem avisos nos registros publicados.
 - [ ] Nenhum segredo, token ou arquivo `.env` no diff.
 - [ ] O PR descreve fonte, data, classificação e justificativa (modelo em `.github/PULL_REQUEST_TEMPLATE.md`).
 

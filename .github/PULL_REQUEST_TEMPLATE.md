@@ -45,7 +45,7 @@ Explicação (a proposição concreta que cada registro sustenta e o que ele nã
 - [ ] Nenhum dado pessoal vedado (telefone, endereço residencial, CPF, dados sensíveis, dados de menores)
 - [ ] Fotos com `source`, `author`, `license`, `original_url`, `retrieved_at`, `alt`
 - [ ] Homônimos verificados
-- [ ] `npm run data:lint` passou sem erros nem avisos
+- [ ] `npm run data:lint` passou sem erros nem avisos em registros publicados
 - [ ] Registros a publicar têm `reviewer` e `reviewed_at`; os demais estão em `draft` ou `in_review`
 - [ ] Entrada em `data/revisions/` para mudanças materiais (inclusões, correções, retratações)
 

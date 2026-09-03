@@ -30,7 +30,7 @@ Verifica:
 - `source_type` correto. Uma reportagem que reproduz decisão judicial é `press`, não `official_court`; a decisão em si, se acessível, é registrada como `Document` com sua própria fonte.
 - Data de publicação distinta da data do fato.
 
-Fonte sem `verification` gera aviso no lint e é bloqueada no lint estrito.
+Fonte sem `verification` gera aviso no lint e, se publicada, é bloqueada no lint estrito.
 
 ### Etapa 3: Investigative Journalist
 
@@ -74,7 +74,7 @@ Resultados possíveis: `stands` (publica), `weakened` (rebaixa classe ou confian
 
 ### Publicação
 
-Após as cinco etapas, `review_status` muda para `published`, com `reviewer` e `reviewed_at` preenchidos. O pull request de dados só é mesclado com `npm run data:lint` passando (sem erros nem avisos) e com a revisão registrada.
+Após as cinco etapas, `review_status` muda para `published`, com `reviewer` e `reviewed_at` preenchidos. O pull request de dados só é mesclado com `npm run data:lint` passando (sem erros e sem avisos em registros publicados) e com a revisão registrada.
 
 ## 2. Quando usar `disputed` e `unverified`
 

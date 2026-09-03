@@ -58,7 +58,7 @@ Exemplos de documentos que sustentam classe D:
 
 O que a classe D demonstra é exatamente o conteúdo do documento. Uma decisão judicial que recebe uma denúncia demonstra que a denúncia foi recebida, não que os fatos denunciados ocorreram. Um relatório de PF que transcreve uma mensagem demonstra que a mensagem existia no aparelho periciado, não que o que a mensagem diz é verdadeiro.
 
-Regras automáticas: evidência D sem `document_ids` é erro. Relação D precisa de documento primário ligado (diretamente, via evidência ou por fonte oficial). Ver [DATA_SCHEMA.md](DATA_SCHEMA.md#regras-do-lint).
+Regras automáticas: evidência D sem `document_ids` é erro. Relação D precisa de documento primário ligado (diretamente ou via evidência); fonte oficial sozinha não basta. Ver [DATA_SCHEMA.md](DATA_SCHEMA.md#regras-do-lint).
 
 ### C: corroborado
 
@@ -92,7 +92,7 @@ Não há documento nem alegação que enuncie a proposição; ela resulta de um 
 
 Exemplo: os documentos mostram que a reunião ocorreu em uma data e que o ato administrativo foi publicado dias depois. O intervalo temporal é fato (classe D, pelos dois documentos). Afirmar que a reunião motivou o ato é inferência (classe I) e deve vir acompanhada do limite: "Não há documento no corpus que ligue o conteúdo da reunião ao ato." Sequências desse tipo têm registro próprio (`TemporalSequence`) com os campos `documentary_link` e `causality_proven`.
 
-Regras automáticas: evidência I sem `inference_basis` é erro. Relação I sem suporte precisa apontar ao menos para os `event_ids` que a fundamentam. Registro com classe I não pode ter status `verified`. Sequência com `causality_proven: true` exige `documentary_link: present`.
+Regras automáticas: evidência I sem `inference_basis` é erro. Todo registro de classe I (relação, evento, ato, transação ou claim) precisa ligar ao menos uma evidência de classe I com `inference_basis`. Registro com classe I não pode ter status `verified`. Sequência com `causality_proven: true` exige `documentary_link: present`.
 
 ### Coerência entre classes
 
@@ -154,7 +154,7 @@ O lint impede `verified` em registros de classe A ou I.
 
 Toda pessoa e organização tem o campo `cited_position`, e o mesmo campo existe em relações, eventos e transações para posições sobre fatos específicos. O campo registra negativas, esclarecimentos, notas públicas, versões apresentadas e explicações alternativas, com fonte. Quando nenhuma posição foi localizada, registra-se `not_located`; quando o citado foi procurado e não respondeu, `no_response`.
 
-Lista vazia é exibida na interface como "posição não localizada". O lint emite aviso para toda pessoa ou organização sem `cited_position`, e o lint estrito (usado na integração contínua) não aceita avisos. Na prática, nenhum agente é publicado sem registro do contraditório, ainda que o registro seja `not_located`.
+Lista vazia é exibida na interface como "posição não localizada". O lint emite aviso para toda pessoa ou organização sem `cited_position`, e o lint estrito (usado na integração contínua) não aceita avisos em registros publicados. Na prática, nenhum agente é publicado sem registro do contraditório, ainda que o registro seja `not_located`.
 
 Pedidos de resposta e de correção seguem o procedimento em [EDITORIAL_POLICY.md](EDITORIAL_POLICY.md#9-pedidos-de-remoção-e-de-resposta).
 
@@ -179,7 +179,7 @@ Regras:
 
 - Nenhuma afirmação produzida por IA entra no corpus sem fonte verificada por pessoa. O bloco `verification` de cada fonte identifica quem verificou (`checked_by`).
 - IA não inventa fonte, página, mensagem ou conexão. Um registro cuja fonte não pode ser aberta e conferida é descartado.
-- O lint impede a publicação de relação, evento ou transação sem `source_ids` nem `evidence_ids`, salvo inferência explicitamente marcada como classe I com fundamento escrito. Isso vale igualmente para dado produzido por pessoa ou por máquina.
+- O lint impede a publicação de relação, evento, ato público ou transação sem `source_ids`, `evidence_ids` nem `document_ids`, salvo inferência explicitamente marcada como classe I e ligada a evidência I com fundamento escrito. Isso vale igualmente para dado produzido por pessoa ou por máquina.
 - Classificações sugeridas por IA são rebaixadas em caso de dúvida.
 
 ## 12. Limitações

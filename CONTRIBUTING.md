@@ -55,7 +55,7 @@ Um commit por unidade lógica. Em PRs de dados, agrupar por entidade ou por font
 
 1. `git pull --rebase origin main` na sua branch.
 2. `npm run typecheck`, `npm run lint`, `npm run test`.
-3. `npm run data:lint` (sem erros e sem avisos; avisos bloqueiam a CI de dados).
+3. `npm run data:lint` (sem erros; avisos em registros publicados bloqueiam a CI de dados).
 4. `npm run scan:secrets` (ou `gitleaks detect --config .gitleaks.toml`).
 5. Abrir PR com o modelo preenchido (`.github/PULL_REQUEST_TEMPLATE.md`).
 6. Revisão: código exige ao menos uma aprovação; dados exigem o gauntlet descrito em [EDITORIAL_POLICY.md](EDITORIAL_POLICY.md#1-o-gauntlet-editorial), com `reviewer` e `reviewed_at` preenchidos nos registros publicados.
