@@ -1,0 +1,18 @@
+id: ev-vorcaro-alega-tortura-psicologica
+kind: evidence
+classification: A
+proposition: Em depoimento por vídeo a juiz auxiliar do gabinete de André Mendonça e a um procurador da
+  República, Daniel Vorcaro afirmou ter sofrido tortura psicológica, maus-tratos e ameaças veladas na
+  prisão para não relatar fatos ligados à Polícia Federal em eventual delação, e disse que teve os olhos
+  vendados em uma transferência entre presídios.
+document_ids: []
+source_ids:
+- src-ndmais-2026-09-02-vorcaro-alega-tortura
+- src-contrapontoms-2026-09-02-investigadores-veem-teatro
+attributed_to_id: daniel-vorcaro
+date: '2026-09-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

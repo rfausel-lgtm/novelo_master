@@ -7,6 +7,12 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 10 do corpus: inspeção do TCU no Banco Central sobre a liquidação, concluída em 11/02/2026, cujo
+  relatório, segundo interlocutores da Corte, não aponta irregularidades na atuação da autoridade
+  monetária, seguida da ampliação do sigilo; depoimento de Daniel Vorcaro ao gabinete de André Mendonça
+  (02/09/2026), com alegação de intimidação para não citar a Polícia Federal, a resposta de integrantes
+  da PF e da PGR e a versão dos interlocutores do diretor-geral; e as duas petições do Partido Novo ao
+  STF (03/09/2026) pedindo prisão preventiva e afastamento do diretor-geral.
 - Lote 9 do corpus, frente de São Paulo: Termo de Colaboração 01/SMIT/2024, de R$ 108 milhões, entre a
   Secretaria Municipal de Inovação e Tecnologia e o Instituto Conhecer Brasil para 5 mil pontos de wi-fi
   gratuito; Operação Wi-Fi Livre da Polícia Civil (01/06/2026), com oito mandados contra o instituto, a

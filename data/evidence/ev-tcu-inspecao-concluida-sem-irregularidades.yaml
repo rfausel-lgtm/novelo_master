@@ -1,0 +1,17 @@
+id: ev-tcu-inspecao-concluida-sem-irregularidades
+kind: evidence
+classification: A
+proposition: Segundo interlocutores do TCU ouvidos pelo Correio Braziliense, o relatório da inspeção concluída
+  em 11/02/2026 não analisa o mérito da decisão do Banco Central de liquidar o Banco Master nem aponta
+  irregularidades na atuação da autoridade monetária; o trabalho limitou-se a verificar os documentos
+  que embasaram a decisão de novembro de 2025.
+document_ids: []
+source_ids:
+- src-correiobraziliense-2026-02-12-tcu-conclui-inspecao
+attributed_to: Interlocutores do TCU, via Correio Braziliense
+date: '2026-02-11'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

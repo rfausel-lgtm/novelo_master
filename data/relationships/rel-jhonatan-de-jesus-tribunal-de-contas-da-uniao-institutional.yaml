@@ -1,0 +1,24 @@
+id: rel-jhonatan-de-jesus-tribunal-de-contas-da-uniao-institutional
+kind: relationship
+from_id: jhonatan-de-jesus
+to_id: tribunal-de-contas-da-uniao
+relationship_type: institutional
+directed: false
+label: ministro relator da inspeção
+description: Jhonatan de Jesus relata no TCU o processo de inspeção sobre a liquidação do Banco Master
+  e determinou a ampliação do sigilo após a conclusão do relatório.
+evidence_class: A
+confidence: 0.7
+status: unverified
+event_ids:
+- evt-2026-02-11-tcu-conclui-inspecao-no-banco-central
+evidence_ids:
+- ev-tcu-ampliacao-do-sigilo
+source_ids:
+- src-correiobraziliense-2026-02-12-tcu-conclui-inspecao
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

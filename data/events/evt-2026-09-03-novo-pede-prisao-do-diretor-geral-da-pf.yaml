@@ -1,0 +1,44 @@
+id: evt-2026-09-03-novo-pede-prisao-do-diretor-geral-da-pf
+kind: event
+title: Partido Novo pede ao STF a prisão preventiva e o afastamento do diretor-geral da PF
+event_type: public_act
+date: '2026-09-03'
+date_precision: day
+participant_ids:
+- partido-novo
+- andrei-rodrigues
+- andre-mendonca
+- supremo-tribunal-federal
+description: 'O partido protocolou duas petições perante o relator do caso Master: representação por prisão
+  preventiva, com base no art. 313 do CPP, e pedido de afastamento cautelar com abertura de inquérito,
+  com base no art. 319. Os pedidos citam mensagens de Vorcaro a Alexandre de Moraes reveladas em 01/09
+  e o depoimento ao gabinete de Mendonça. São pedidos de parte; não há decisão. A PF não respondeu ao
+  Poder360 até a publicação.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-novo-pedidos-stf-2026-09-03
+- ev-mensagem-vorcaro-a-moraes-sobre-andrei-e-gonet
+source_ids:
+- src-poder360-2026-09-03-novo-pede-prisao-de-andrei
+document_ids:
+- doc-2026-09-03-representacao-novo-prisao-andrei-rodrigues
+public_act_ids: []
+cited_position:
+- kind: no_response
+  summary: A Polícia Federal não respondeu ao Poder360 sobre os pedidos até a publicação.
+  source_ids:
+  - src-poder360-2026-09-03-novo-pede-prisao-de-andrei
+  by_id: policia-federal
+  date: '2026-09-03'
+- kind: denial
+  summary: Interlocutores do diretor-geral afirmam que ele nunca teve relação com Vorcaro.
+  source_ids:
+  - src-contrapontoms-2026-09-02-investigadores-veem-teatro
+  by_id: andrei-rodrigues
+  date: '2026-09-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

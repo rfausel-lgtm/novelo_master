@@ -1,0 +1,16 @@
+id: ev-gabinete-mendonca-sobre-o-depoimento
+kind: evidence
+classification: A
+proposition: O gabinete do ministro André Mendonça informou que 'o depoimento foi realizado por requerimento
+  expresso da defesa do depoente, que relatou estar sofrendo graves intimidações e solicitou ser ouvido
+  com urgência'.
+document_ids: []
+source_ids:
+- src-poder360-2026-09-03-novo-pede-prisao-de-andrei
+attributed_to_id: andre-mendonca
+date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -4,26 +4,48 @@ from_id: daniel-vorcaro
 to_id: andrei-rodrigues
 relationship_type: investigative_allegation
 directed: false
-label: menções em notas e mensagens (segundo a PF)
+label: menções em notas e mensagens; alegação de intimidação no depoimento de 02/09/2026
 description: O relatório da PF contém seção de pesquisa por 'Andrei Passos' e identifica notas e mensagens
   de Vorcaro que 'podem indicar' referência ao diretor-geral da PF, inclusive sobre convite a evento ('Ministro
   fez convite ao andrei PF'). Não há registro de comunicação direta no material lido; o relatório não
-  conclui pela prática de crime. Posição de Andrei Rodrigues não localizada.
+  conclui pela prática de crime. Em 02/09/2026 Vorcaro afirmou, em depoimento ao gabinete de André Mendonça,
+  que sofreu intimidações para não citar a PF e que a delação teria sido recusada porque poderia citar
+  o diretor-geral. Integrantes da PF e da PGR dizem que não houve fatos concretos; interlocutores do diretor-geral
+  afirmam que os dois se encontraram uma única vez, casualmente, em Londres, em seminário patrocinado
+  pelo Master.
 evidence_class: A
 confidence: 0.4
-status: unverified
+status: disputed
 event_ids:
 - evt-2026-09-01-mendonca-levanta-sigilo-pet-16662
+- evt-2026-09-02-depoimento-de-vorcaro-ao-gabinete-de-mendonca
 evidence_ids:
 - ev-pf-encontros-vorcaro-moraes
+- ev-vorcaro-alega-tortura-psicologica
+- ev-vorcaro-atribui-recusa-da-delacao-a-mencao-ao-diretor
+- ev-pf-e-pgr-negam-maus-tratos
+- ev-andrei-encontro-casual-em-londres
 source_ids:
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-congressoemfoco-2026-09-01-relatorio-pf
+- src-ndmais-2026-09-02-vorcaro-alega-tortura
+- src-contrapontoms-2026-09-02-investigadores-veem-teatro
 document_ids:
 - doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
 cited_position:
-- kind: not_located
-  summary: Posição pública de Andrei Rodrigues não localizada em fonte verificada do corpus.
+- date: '2026-09-02'
+  by_id: andrei-rodrigues
+  kind: denial
+  summary: Interlocutores do diretor-geral negam relação com o banqueiro e citam um único encontro casual
+    em Londres.
+  source_ids:
+  - src-contrapontoms-2026-09-02-investigadores-veem-teatro
+- date: '2026-09-02'
+  by_id: policia-federal
+  kind: denial
+  summary: Integrantes da PF e da PGR afirmam que não foram apresentados fatos concretos de maus-tratos.
+  source_ids:
+  - src-contrapontoms-2026-09-02-investigadores-veem-teatro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

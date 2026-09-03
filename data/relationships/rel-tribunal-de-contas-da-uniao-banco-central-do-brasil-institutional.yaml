@@ -1,0 +1,27 @@
+id: rel-tribunal-de-contas-da-uniao-banco-central-do-brasil-institutional
+kind: relationship
+from_id: tribunal-de-contas-da-uniao
+to_id: banco-central-do-brasil
+relationship_type: institutional
+directed: true
+label: inspeção sobre a liquidação do Banco Master
+start_date: 2026-01
+description: O TCU inspecionou o Banco Central para verificar os documentos que embasaram a liquidação
+  do Master. Segundo interlocutores da Corte, o relatório final, concluído em 11/02/2026, não aponta irregularidades
+  na atuação da autoridade monetária.
+evidence_class: A
+confidence: 0.6
+status: unverified
+event_ids:
+- evt-2026-02-11-tcu-conclui-inspecao-no-banco-central
+evidence_ids:
+- ev-tcu-inspecao-concluida-sem-irregularidades
+- ev-tcu-ampliacao-do-sigilo
+source_ids:
+- src-correiobraziliense-2026-02-12-tcu-conclui-inspecao
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

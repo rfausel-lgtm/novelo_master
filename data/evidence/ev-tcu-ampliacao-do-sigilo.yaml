@@ -1,0 +1,16 @@
+id: ev-tcu-ampliacao-do-sigilo
+kind: evidence
+classification: A
+proposition: Após a conclusão da inspeção, o relator ampliou o sigilo do processo, que passou de 'sigiloso'
+  para 'sigiloso com exigência de autorização específica para acesso'; o Banco Central deixou de ter acesso
+  automático aos autos.
+document_ids: []
+source_ids:
+- src-correiobraziliense-2026-02-12-tcu-conclui-inspecao
+attributed_to: Correio Braziliense
+date: 2026-02
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

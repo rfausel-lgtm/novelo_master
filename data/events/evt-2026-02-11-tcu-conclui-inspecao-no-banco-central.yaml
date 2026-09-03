@@ -1,0 +1,34 @@
+id: evt-2026-02-11-tcu-conclui-inspecao-no-banco-central
+kind: event
+title: TCU conclui a inspeção no Banco Central sobre a liquidação do Master
+event_type: investigation_step
+date: '2026-02-11'
+date_precision: day
+participant_ids:
+- tribunal-de-contas-da-uniao
+- banco-central-do-brasil
+- jhonatan-de-jesus
+description: A inspeção foi concluída e o relatório final enviado ao relator Jhonatan de Jesus. Segundo
+  interlocutores da Corte, o documento não analisa o mérito da decisão de liquidar nem aponta irregularidades
+  na atuação do Banco Central, limitando-se a verificar os documentos que a embasaram. Em seguida o relator
+  ampliou o sigilo do processo, retirando o acesso automático do próprio BC aos autos.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-tcu-inspecao-concluida-sem-irregularidades
+- ev-tcu-ampliacao-do-sigilo
+source_ids:
+- src-correiobraziliense-2026-02-12-tcu-conclui-inspecao
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: not_located
+  summary: O corpus não registra manifestação do Banco Central sobre a ampliação do sigilo.
+  source_ids:
+  - src-correiobraziliense-2026-02-12-tcu-conclui-inspecao
+  by_id: banco-central-do-brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

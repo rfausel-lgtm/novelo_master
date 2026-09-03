@@ -1,0 +1,16 @@
+id: ev-vorcaro-atribui-recusa-da-delacao-a-mencao-ao-diretor
+kind: evidence
+classification: A
+proposition: Vorcaro afirmou que, na avaliação dele, a Polícia Federal recusou sua proposta de delação
+  porque ele poderia citar o nome do diretor-geral do órgão.
+document_ids: []
+source_ids:
+- src-ndmais-2026-09-02-vorcaro-alega-tortura
+- src-contrapontoms-2026-09-02-investigadores-veem-teatro
+attributed_to_id: daniel-vorcaro
+date: '2026-09-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

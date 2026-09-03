@@ -1,0 +1,25 @@
+id: src-ndmais-2026-09-02-vorcaro-alega-tortura
+kind: source
+title: Daniel Vorcaro diz ter sofrido tortura psicológica e ameaças na prisão para não delatar, afirma
+  jornal
+publisher: ND Mais
+publication_date: '2026-09-02'
+retrieved_at: '2026-09-03'
+url: https://ndmais.com.br/justica/daniel-vorcaro-tortura-psicologica-ameacas-prisao-delacao/
+source_type: press
+summary: 'Reproduz a coluna de Mônica Bergamo, na Folha de S.Paulo: Vorcaro afirmou, em depoimento por
+  vídeo a juiz auxiliar do gabinete de André Mendonça, ter sofrido tortura psicológica, maus-tratos e
+  ameaças veladas na prisão para não revelar fatos ligados à Polícia Federal em eventual delação, citando
+  o diretor-geral Andrei Rodrigues. Ele negocia a delação desde a prisão, em março.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+author: Giorgio Guedin
+notes: Reprodução da coluna de Mônica Bergamo (Folha de S.Paulo); não é apuração própria.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
