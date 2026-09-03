@@ -1,0 +1,20 @@
+id: superior-tribunal-de-justica
+kind: organization
+name: STJ
+aliases: []
+org_type: court
+summary: Superior Tribunal de Justiça.
+why_in_novelo: Tribunal do ministro Benedito Gonçalves, listado entre participantes de evento em Londres
+  pago por Vorcaro, segundo a imprensa.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-03-10-degustacao-londres
+full_name: Superior Tribunal de Justiça
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

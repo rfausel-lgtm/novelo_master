@@ -1,0 +1,27 @@
+id: alessandro-vieira
+kind: person
+name: Alessandro Vieira
+category: politician
+role: Senador (MDB-SE); relator da CPI do Crime Organizado
+positions:
+- title: Senador
+  organization_id: senado-federal
+  source_ids:
+  - src-senado-2026-04-14-cpi-crime-organizado-sem-relatorio
+summary: Relator da CPI do Crime Organizado. Seu relatório final, que pedia o indiciamento por crimes
+  de responsabilidade de Toffoli, Moraes, Gilmar Mendes e Gonet, foi rejeitado por 6 a 4 em 14/04/2026.
+  Coautor da PEC 65/2023.
+why_in_novelo: Relatou a CPI do Crime Organizado, cujo relatório sobre o caso Master foi rejeitado, e
+  é coautor da PEC 65/2023.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-senado-2026-04-14-cpi-crime-organizado-sem-relatorio
+- src-senado-pec-65-2023-materia
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

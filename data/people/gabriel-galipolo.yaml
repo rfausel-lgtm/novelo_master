@@ -16,17 +16,19 @@ summary: Presidente do Banco Central. Segundo a CNN Brasil e a Gazeta do Povo, p
 why_in_novelo: Presidia o Banco Central quando a compra do Master pelo BRB foi rejeitada e quando o banco
   foi liquidado, e participou, como indicado ao cargo, do encontro de dezembro de 2024 no Planalto.
 cited_position:
-- kind: version
-  summary: Segundo a Gazeta do Povo e a CNN, Lula relatou ter pedido a Galípolo que examinasse tecnicamente
-    as questões do banqueiro; não há no corpus declaração do próprio Galípolo sobre o encontro.
+- date: '2026-04-08'
+  by_id: gabriel-galipolo
+  kind: version
+  summary: 'À CPI do Crime Organizado: confirmou a reunião de dezembro de 2024, disse que apenas encaminhou
+    o caso à análise técnica do BC seguindo a orientação de Lula de ser técnico, e negou ter tratado do
+    Master com ministros do STF.'
   source_ids:
-  - src-gazeta-2026-03-05-vorcaro-otimo-encontro
-open_questions:
-- Declarações públicas de Galípolo sobre o encontro de 04/12/2024 não foram localizadas em fonte verificada
-  do corpus.
+  - src-senado-2026-04-08-galipolo-cpi
+open_questions: []
 source_ids:
 - src-cnn-2026-01-lula-vorcaro-fora-da-agenda
 - src-gazeta-2026-03-05-vorcaro-otimo-encontro
+- src-senado-2026-04-08-galipolo-cpi
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Gabriel_Gal%C3%ADpolo
 review_status: published

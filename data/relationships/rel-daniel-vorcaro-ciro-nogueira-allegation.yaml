@@ -20,10 +20,15 @@ evidence_ids:
 - ev-pf-vantagens-ciro-nogueira
 source_ids:
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
+- src-jdb-2026-05-12-ciro-nega-emenda
 document_ids: []
 cited_position:
-- kind: not_located
-  summary: Posição pública do senador sobre as suspeitas não localizada em fonte verificada no corpus.
+- date: '2026-05-12'
+  by_id: ciro-nogueira
+  kind: denial
+  summary: Negou ter apresentado a emenda na íntegra e negou receber valores ilícitos.
+  source_ids:
+  - src-jdb-2026-05-12-ciro-nega-emenda
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

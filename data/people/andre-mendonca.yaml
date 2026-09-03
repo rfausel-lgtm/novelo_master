@@ -14,13 +14,22 @@ summary: Ministro do STF. Relator da PET 15556 e do INQ 5026, que apuram os fato
 why_in_novelo: É o relator, no STF, das investigações do caso Master e assina as decisões que autorizaram
   fases da Operação Compliance Zero.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+- date: '2026-09-02'
+  by_id: andre-mendonca
+  kind: clarification
+  summary: O gabinete confirmou encontro único com Vorcaro em março de 2025, por iniciativa do empresário,
+    limitado a ação sobre precatórios, em que o ministro se restringiu a ouvi-lo; não comenta diálogos
+    privados entre terceiros.
+  source_ids:
+  - src-cnn-2026-09-02-mendonca-admite-encontro
+open_questions:
+- O corpus não contém avaliação oficial sobre impedimento ou suspeição do relator em razão do encontro
+  de março de 2025.
 source_ids:
 - src-stf-2026-03-04-prisao-preventiva-vorcaro
 - src-stf-2026-04-16-prisao-ex-presidente-brb
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
+- src-cnn-2026-09-02-mendonca-admite-encontro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

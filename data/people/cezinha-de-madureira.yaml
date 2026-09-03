@@ -10,11 +10,16 @@ summary: Deputado federal e liderança da Assembleia de Deus Ministério de Madu
 why_in_novelo: É apontado pela imprensa, com base em mensagens do celular de Daniel Vorcaro, como articulador
   do encontro entre o banqueiro e o ministro André Mendonça.
 cited_position:
-- kind: not_located
-  summary: Posição não localizada em fonte verificada do corpus.
+- date: '2026-09-02'
+  by_id: cezinha-de-madureira
+  kind: denial
+  summary: Negou ato ilícito; à época do encontro não havia informação pública de investigação sobre Vorcaro.
+  source_ids:
+  - src-cnn-2026-09-02-mendonca-admite-encontro
 open_questions: []
 source_ids:
 - src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+- src-cnn-2026-09-02-mendonca-admite-encontro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

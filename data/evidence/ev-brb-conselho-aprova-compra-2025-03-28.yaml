@@ -1,0 +1,16 @@
+id: ev-brb-conselho-aprova-compra-2025-03-28
+kind: evidence
+classification: C
+proposition: Em 28/03/2025 o conselho do BRB aprovou contrato de compra de 49% das ordinárias e 100% das
+  preferenciais do Master (58% do capital), sujeito a BC e Cade, conforme fato relevante; o pedido foi
+  protocolado no BC em 28/03/2025 segundo o Congresso em Foco.
+document_ids: []
+source_ids:
+- src-cnn-2025-03-28-brb-aprova-compra
+- src-congressoemfoco-2025-10-20-brb-desiste
+date: '2025-03-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

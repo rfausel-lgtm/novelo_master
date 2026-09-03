@@ -1,0 +1,26 @@
+id: rel-grupo-fictor-banco-master-commercial
+kind: relationship
+from_id: grupo-fictor
+to_id: banco-master
+relationship_type: commercial
+directed: true
+label: anúncio de compra (17/11/2025)
+start_date: '2025-11-17'
+description: A Fictor anunciou a compra do Master com aporte de R$ 3 bilhões, sujeita a BC e Cade, na
+  véspera da liquidação.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids:
+- evt-2025-11-17-fictor-anuncia-compra-master
+evidence_ids:
+- ev-fictor-anuncia-compra-2025-11-17
+source_ids:
+- src-cnn-2025-11-17-fictor-anuncia-compra
+- src-cnn-2026-03-04-relembre-crise-master
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

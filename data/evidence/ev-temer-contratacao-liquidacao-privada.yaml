@@ -1,0 +1,15 @@
+id: ev-temer-contratacao-liquidacao-privada
+kind: evidence
+classification: A
+proposition: Temer afirmou que seu escritório foi contratado pelo Master para tentar uma 'liquidação privada'
+  do banco, que não teve sucesso, que se afastou do caso e que o banco não quitou todo o valor contratado.
+document_ids: []
+source_ids:
+- src-poder360-2026-07-07-temer-vorcaro
+attributed_to_id: michel-temer
+date: '2026-07-06'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

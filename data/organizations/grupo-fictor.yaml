@@ -1,0 +1,22 @@
+id: grupo-fictor
+kind: organization
+name: Grupo Fictor
+aliases: []
+org_type: company
+summary: Holding com atuação em infraestrutura, alimentos e setor financeiro. Em 17/11/2025 anunciou a
+  compra do Banco Master com consórcio de investidores dos Emirados Árabes, sujeita a BC e Cade; no dia
+  seguinte o BC liquidou o banco. Segundo a CNN, entrou depois em recuperação judicial.
+why_in_novelo: Anunciou a compra do Banco Master na véspera da liquidação decretada pelo Banco Central.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-cnn-2025-11-17-fictor-anuncia-compra
+- src-cnn-2026-03-04-relembre-crise-master
+full_name: Fictor Holding Financeira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

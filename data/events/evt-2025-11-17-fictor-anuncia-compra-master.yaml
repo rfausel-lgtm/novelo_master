@@ -1,0 +1,27 @@
+id: evt-2025-11-17-fictor-anuncia-compra-master
+kind: event
+title: Fictor anuncia a compra do Banco Master na véspera da liquidação
+event_type: corporate_act
+date: '2025-11-17'
+date_precision: day
+participant_ids:
+- grupo-fictor
+- banco-master
+- daniel-vorcaro
+description: A Fictor Holding Financeira anunciou, com consórcio de investidores dos Emirados Árabes,
+  a compra do Banco Master, sujeita a BC e Cade, com aporte imediato de R$ 3 bilhões e aquisição da totalidade
+  das ações de Vorcaro. No dia seguinte o BC decretou a liquidação.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-fictor-anuncia-compra-2025-11-17
+source_ids:
+- src-cnn-2025-11-17-fictor-anuncia-compra
+- src-cnn-2026-03-04-relembre-crise-master
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

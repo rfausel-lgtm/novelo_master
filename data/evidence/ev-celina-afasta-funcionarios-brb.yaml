@@ -1,0 +1,16 @@
+id: ev-celina-afasta-funcionarios-brb
+kind: evidence
+classification: A
+proposition: Em 01/04/2026 Celina Leão mandou afastar servidores do BRB que participaram da aprovação
+  da compra de ativos do Master, após auditoria da Kroll e do Machado Meyer, segundo a CNN; o BRB confirmou
+  a ordem.
+document_ids: []
+source_ids:
+- src-cnn-2026-04-01-celina-afasta-funcionarios
+attributed_to: CNN Brasil, com confirmação do BRB
+date: '2026-04-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

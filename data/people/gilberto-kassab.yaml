@@ -24,9 +24,17 @@ cited_position:
     a falar em seu nome.'
   source_ids:
   - src-cnn-2026-kassab-video-rioprevidencia
+- date: '2026-07-03'
+  by_id: gilberto-kassab
+  kind: denial
+  summary: Afirmou nunca ter estado com Vorcaro, não o conhecer e nunca ter tido qualquer vinculação com
+    ele.
+  source_ids:
+  - src-metropoles-2026-07-03-kassab-nunca-estive
 open_questions: []
 source_ids:
 - src-cnn-2026-kassab-video-rioprevidencia
+- src-metropoles-2026-07-03-kassab-nunca-estive
 full_name: Gilberto Kassab
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Gilberto_Kassab

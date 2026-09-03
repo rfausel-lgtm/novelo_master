@@ -21,10 +21,19 @@ cited_position:
     legais, regularmente contratados e em conformidade fiscal.'
   source_ids:
   - src-poder360-2026-04-08-receita-pagamentos-master
+- date: '2026-03-18'
+  by_id: antonio-rueda
+  kind: clarification
+  summary: Admitiu que o escritório Rueda e Rueda advogou para o Master (pareceres, reuniões, mais de
+    1.000 audiências), atividade que considera legítima, após ter dito dois dias antes não ter relação
+    com Vorcaro além de contatos sociais.
+  source_ids:
+  - src-metropoles-2026-03-19-rueda-admite
 open_questions:
 - Os registros da Receita não foram lidos pela equipe; os valores são os reportados pelo Poder360.
 source_ids:
 - src-poder360-2026-04-08-receita-pagamentos-master
+- src-metropoles-2026-03-19-rueda-admite
 full_name: Antônio de Rueda
 review_status: published
 reviewer: orquestrador

@@ -22,6 +22,7 @@ evidence_ids:
 - ev-nota-mendonca-recebeu-uma-vez
 source_ids:
 - src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+- src-cnn-2026-09-02-mendonca-admite-encontro
 document_ids: []
 cited_position:
 - by_id: andre-mendonca

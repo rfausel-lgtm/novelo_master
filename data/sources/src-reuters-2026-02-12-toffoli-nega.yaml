@@ -1,0 +1,22 @@
+id: src-reuters-2026-02-12-toffoli-nega
+kind: source
+title: Brazil Supreme Court's Toffoli denies receiving payments, links to Banco Master's Vorcaro
+publisher: Reuters (via Yahoo News)
+publication_date: '2026-02-12'
+retrieved_at: '2026-09-03'
+url: https://www.yahoo.com/news/articles/brazil-supreme-courts-toffoli-denies-154536506.html
+source_type: wire
+summary: Em 12/02/2026 Dias Toffoli afirmou nunca ter recebido pagamentos e nunca ter tido relação com
+  Daniel Vorcaro.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+author: Ricardo Brito
+notes: Texto em inglês.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

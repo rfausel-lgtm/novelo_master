@@ -1,0 +1,26 @@
+id: evt-2026-04-01-celina-afasta-funcionarios-brb
+kind: event
+title: Governadora do DF afasta funcionários do BRB que aprovaram operações com o Master
+event_type: public_act
+date: '2026-04-01'
+date_precision: day
+participant_ids:
+- celina-leao
+- governo-do-distrito-federal
+- banco-de-brasilia-brb
+description: Segundo a CNN, Celina Leão mandou afastar todos os servidores e comissionados do BRB que
+  participaram da aprovação da compra de ativos do Master, após auditoria independente da Kroll e do Machado
+  Meyer; o BRB confirmou a ordem.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-celina-afasta-funcionarios-brb
+source_ids:
+- src-cnn-2026-04-01-celina-afasta-funcionarios
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

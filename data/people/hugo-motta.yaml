@@ -19,9 +19,16 @@ cited_position:
     a CPI naquele momento por haver fila de requerimentos anteriores (cerca de 15).
   source_ids:
   - src-stf-2026-03-12-rejeita-cpi
+- date: '2026-03-24'
+  by_id: hugo-motta
+  kind: version
+  summary: Disse não temer eventual delação de Vorcaro.
+  source_ids:
+  - src-jparaiba-2026-03-24-motta-nao-teme
 open_questions: []
 source_ids:
 - src-stf-2026-03-12-rejeita-cpi
+- src-jparaiba-2026-03-24-motta-nao-teme
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Hugo_Motta
 review_status: published

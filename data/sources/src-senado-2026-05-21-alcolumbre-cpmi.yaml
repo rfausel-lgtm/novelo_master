@@ -1,0 +1,22 @@
+id: src-senado-2026-05-21-alcolumbre-cpmi
+kind: source
+title: 'Davi: abertura da CPMI do Master é decisão do presidente do Congresso'
+publisher: Agência Senado
+publication_date: '2026-05-21'
+retrieved_at: '2026-09-03'
+url: https://www12.senado.leg.br/noticias/materias/2026/05/21/davi-abertura-da-cpmi-do-master-e-decisao-do-presidente-do-congresso
+source_type: official_legislative
+summary: Em sessão conjunta de 21/05/2026, Davi Alcolumbre afirmou que a leitura de requerimentos de CPMI
+  é ato discricionário do presidente do Congresso (arts. 156 e 214 do Regimento) e que o assunto não era
+  prioritário naquela sessão; parlamentares governistas e de oposição cobraram a leitura do requerimento
+  da CPMI do Master (238 deputados e 42 senadores no pedido de Carlos Jordy).
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

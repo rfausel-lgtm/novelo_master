@@ -1,0 +1,23 @@
+id: rel-cpi-do-crime-organizado-senado-federal-institutional
+kind: relationship
+from_id: cpi-do-crime-organizado
+to_id: senado-federal
+relationship_type: institutional
+directed: true
+label: comissão do Senado
+description: CPI instalada no Senado em novembro de 2025; terminou em 14/04/2026 sem relatório final.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids:
+- ev-senado-cpi-rejeita-relatorio-2026-04-14
+source_ids:
+- src-senado-2026-04-14-cpi-crime-organizado-sem-relatorio
+document_ids:
+- doc-2026-02-03-requerimento-cpmi-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

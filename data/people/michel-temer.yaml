@@ -10,14 +10,17 @@ summary: Segundo o Poder360, com base em registros da Receita enviados à CPI do
 why_in_novelo: Seu escritório consta, segundo registros fiscais divulgados pela imprensa, entre os destinatários
   de pagamentos do Banco Master.
 cited_position:
-- kind: version
-  summary: Segundo o Poder360, os políticos e empresários citados afirmam que os valores correspondem
-    a serviços efetivamente prestados; manifestação específica de Temer não localizada no corpus.
+- date: '2026-07-06'
+  by_id: michel-temer
+  kind: clarification
+  summary: Disse ter conhecido Vorcaro pessoalmente e que seu escritório foi contratado para tentar uma
+    'liquidação privada' do banco, sem sucesso; afastou-se do caso; o banco não quitou todo o valor contratado.
   source_ids:
-  - src-poder360-2026-04-08-receita-pagamentos-master
+  - src-poder360-2026-07-07-temer-vorcaro
 open_questions: []
 source_ids:
 - src-poder360-2026-04-08-receita-pagamentos-master
+- src-poder360-2026-07-07-temer-vorcaro
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Michel_Temer
 review_status: published

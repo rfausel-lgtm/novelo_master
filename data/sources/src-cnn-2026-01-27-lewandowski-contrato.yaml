@@ -1,0 +1,24 @@
+id: src-cnn-2026-01-27-lewandowski-contrato
+kind: source
+title: 'Fontes: contrato com Master acelerou saída de Lewandowski da Justiça'
+publisher: CNN Brasil (blog Matheus Teixeira)
+publication_date: '2026-01-27'
+retrieved_at: '2026-09-03'
+url: https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/contrato-com-master-apressou-pedido-de-demissao-de-lewandowski-da-justica/
+source_type: press
+summary: Segundo integrantes do governo, o contrato do escritório de Ricardo Lewandowski com o Banco Master
+  foi um dos motivos que apressaram sua saída do Ministério da Justiça (10/01/2026); o escritório seguiu
+  sob comando de sua mulher e filho e manteve o contrato após a posse. Em nota, Lewandowski confirmou
+  a prestação de serviços ao Master, disse ter se retirado do escritório e suspendido o registro na OAB
+  ao assumir o ministério em janeiro de 2024, e atribuiu a saída a motivos pessoais.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+author: Matheus Teixeira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

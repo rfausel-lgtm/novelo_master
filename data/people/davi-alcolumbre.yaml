@@ -13,13 +13,19 @@ summary: Senador pelo Amapá e presidente do Senado. Consta entre os coautores d
 why_in_novelo: Preside o Senado e é coautor da PEC 65/2023, matéria à qual foi apresentada a emenda sobre
   o FGC citada pela Polícia Federal.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- date: '2026-05-21'
+  by_id: davi-alcolumbre
+  kind: version
+  summary: A leitura de requerimentos de CPMI é ato discricionário do presidente do Congresso; o tema
+    não era prioritário na sessão.
+  source_ids:
+  - src-senado-2026-05-21-alcolumbre-cpmi
 open_questions:
-- O corpus ainda não registra atos de Alcolumbre relacionados à CPMI do Banco Master; a pesquisa está
-  pendente.
+- O corpus não registra se e quando o requerimento da CPMI do Master foi lido.
 source_ids:
 - src-senado-pec-65-2023-materia
+- src-senado-2026-05-21-alcolumbre-cpmi
+- src-senado-2026-02-03-cpmi-protocolada
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Davi_Alcolumbre
 review_status: published

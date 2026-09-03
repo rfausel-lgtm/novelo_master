@@ -1,0 +1,23 @@
+id: doc-2026-02-03-requerimento-cpmi-master
+kind: document
+title: Requerimento de criação da CPMI do Banco Master (Carlos Jordy), conforme a Agência Senado
+doc_type: legislative_act
+date: '2026-02-03'
+issuer_id: carlos-jordy
+issuer: Deputado Carlos Jordy (PL-RJ) e outros
+source_ids:
+- src-senado-2026-02-03-cpmi-protocolada
+summary: Requerimento protocolado em 03/02/2026 com 42 senadores e 238 deputados, acima do mínimo constitucional;
+  leitura dependia do presidente do Congresso.
+is_official: true
+related_entity_ids:
+- carlos-jordy
+- davi-alcolumbre
+- senado-federal
+- camara-dos-deputados
+url: https://www12.senado.leg.br/noticias/materias/2026/02/03/pedido-de-criacao-da-cpmi-do-banco-master-e-protocolado-no-congresso
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

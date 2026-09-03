@@ -1,0 +1,22 @@
+id: benedito-goncalves
+kind: person
+name: Benedito Gonçalves
+category: judge
+role: Ministro do Superior Tribunal de Justiça
+positions: []
+summary: Ministro do STJ. Segundo o Poder360, com base em documentos encaminhados pela PF à CPMI do INSS,
+  participou da degustação de uísque no George Club, em Londres, em 25/04/2024, evento pago por Vorcaro
+  durante fórum patrocinado pelo Banco Master.
+why_in_novelo: É listado pela imprensa, com base em documentos enviados pela PF à CPMI do INSS, entre
+  os participantes de evento em Londres pago por Daniel Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Posição não localizada em fonte verificada do corpus.
+open_questions: []
+source_ids:
+- src-poder360-2026-03-10-degustacao-londres
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

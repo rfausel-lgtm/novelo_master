@@ -1,0 +1,24 @@
+id: rev-2026-09-03-lote-5-contraditorio-cpi-londres
+kind: revision
+date: '2026-09-03'
+summary: 'Lote 5: posições dos citados (Ciro Nogueira, Toffoli, Kassab, Temer, Mendonça, Cezinha, Rueda,
+  Motta, Galípolo, Alcolumbre, Lewandowski), CPMI e CPI (Agência Senado), evento em Londres (abr/2024),
+  9ª fase (Wagner), Fictor, BRB 28/03/2025, afastamentos no BRB.'
+added:
+  people: 6
+  organizations: 2
+  events: 9
+  documents: 2
+  relationships: 9
+  sources: 20
+  evidence: 20
+updated_relationships: 5
+corrections:
+- Reunião no Planalto (04/12/2024) reclassificada de C para D após confirmação em depoimento oficial de
+  Galípolo à CPI.
+author: orquestrador
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

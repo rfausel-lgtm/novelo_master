@@ -1,0 +1,15 @@
+id: ev-motta-mensagens-jantar-residencia-oficial
+kind: evidence
+classification: A
+proposition: Mensagens do celular de Vorcaro com sigilo levantado, segundo o Jornal da Paraíba, relatam
+  jantar na 'residência oficial' com 'Hugo e seis empresários'; Motta disse não temer eventual delação.
+document_ids: []
+source_ids:
+- src-jparaiba-2026-03-24-motta-nao-teme
+attributed_to: Jornal da Paraíba, com base em mensagens de Vorcaro
+date: '2026-03-24'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

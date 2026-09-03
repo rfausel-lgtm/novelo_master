@@ -1,0 +1,21 @@
+id: src-cnn-2025-11-17-fictor-anuncia-compra
+kind: source
+title: Fictor anuncia compra do Banco Master
+publisher: CNN Brasil
+publication_date: '2025-11-17'
+retrieved_at: '2026-09-03'
+url: https://www.cnnbrasil.com.br/economia/negocios/fictor-anuncia-compra-do-banco-master/
+source_type: press
+summary: Em 17/11/2025 a Fictor Holding Financeira anunciou, com consórcio de investidores dos Emirados
+  Árabes, a compra do Banco Master, sujeita a BC e Cade, com aporte imediato de R$ 3 bilhões e aquisição
+  da totalidade das ações de Vorcaro; nota de Vorcaro elogiou a transação.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

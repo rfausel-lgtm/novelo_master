@@ -1,0 +1,28 @@
+id: evt-2025-03-28-brb-conselho-aprova-compra-master
+kind: event
+title: Conselho do BRB aprova contrato de compra de participação no Banco Master
+event_type: corporate_act
+date: '2025-03-28'
+date_precision: day
+participant_ids:
+- banco-de-brasilia-brb
+- banco-master
+- paulo-henrique-costa
+description: 'Fato relevante do BRB, conforme a CNN: aprovação de contrato para adquirir 49% das ordinárias
+  e 100% das preferenciais (58% do capital) do Master, por 75% do patrimônio líquido, sujeito a BC, Cade,
+  diligência sobre ativos e reorganização do Master. O pedido de autorização foi protocolado no BC em
+  28/03/2025, segundo o Congresso em Foco.'
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-brb-conselho-aprova-compra-2025-03-28
+source_ids:
+- src-cnn-2025-03-28-brb-aprova-compra
+- src-congressoemfoco-2025-10-20-brb-desiste
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

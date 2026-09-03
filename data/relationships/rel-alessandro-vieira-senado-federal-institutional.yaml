@@ -1,0 +1,23 @@
+id: rel-alessandro-vieira-senado-federal-institutional
+kind: relationship
+from_id: alessandro-vieira
+to_id: senado-federal
+relationship_type: institutional
+directed: false
+label: senador
+description: Exerce mandato de senador e relatou a CPI do Crime Organizado.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids:
+- ev-senado-cpi-rejeita-relatorio-2026-04-14
+source_ids:
+- src-senado-2026-04-14-cpi-crime-organizado-sem-relatorio
+document_ids:
+- doc-2026-02-03-requerimento-cpmi-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

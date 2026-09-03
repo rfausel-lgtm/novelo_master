@@ -1,0 +1,15 @@
+id: ev-fictor-anuncia-compra-2025-11-17
+kind: evidence
+classification: C
+proposition: Em 17/11/2025 a Fictor Holding anunciou a compra do Banco Master com aporte imediato de R$
+  3 bilhões, sujeita a BC e Cade; no dia seguinte o BC liquidou o banco.
+document_ids: []
+source_ids:
+- src-cnn-2025-11-17-fictor-anuncia-compra
+- src-cnn-2026-03-04-relembre-crise-master
+date: '2025-11-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

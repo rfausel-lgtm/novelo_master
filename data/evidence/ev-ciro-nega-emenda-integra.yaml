@@ -1,0 +1,15 @@
+id: ev-ciro-nega-emenda-integra
+kind: evidence
+classification: A
+proposition: Em vídeo de 12/05/2026, Ciro Nogueira negou ter apresentado a emenda ao FGC na íntegra conforme
+  recebida e negou ter recebido mesada ou valores ilícitos de Vorcaro.
+document_ids: []
+source_ids:
+- src-jdb-2026-05-12-ciro-nega-emenda
+attributed_to_id: ciro-nogueira
+date: '2026-05-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

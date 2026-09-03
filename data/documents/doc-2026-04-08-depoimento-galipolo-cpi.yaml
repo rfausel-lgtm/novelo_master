@@ -1,0 +1,26 @@
+id: doc-2026-04-08-depoimento-galipolo-cpi
+kind: document
+title: Depoimento de Gabriel Galípolo à CPI do Crime Organizado (08/04/2026), conforme a Agência Senado
+doc_type: testimony
+date: '2026-04-08'
+issuer_id: gabriel-galipolo
+issuer: Gabriel Galípolo, presidente do Banco Central
+source_ids:
+- src-senado-2026-04-08-galipolo-cpi
+summary: Galípolo confirmou a reunião de dezembro de 2024 no Planalto, relatou a orientação de Lula ('seja
+  técnico, não proteja ninguém, não persiga ninguém'), disse ter apenas encaminhado o caso à análise técnica
+  do BC, negou ter tratado do Master com ministros do STF e afirmou não haver amparo técnico para suspender
+  o banco antes do fim de 2025.
+is_official: true
+related_entity_ids:
+- gabriel-galipolo
+- luiz-inacio-lula-da-silva
+- daniel-vorcaro
+- banco-central-do-brasil
+- cpi-do-crime-organizado
+url: https://www12.senado.leg.br/noticias/materias/2026/04/08/galipolo-nega-atuacao-do-bc-em-favor-do-master-e-justifica-liquidacao-
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

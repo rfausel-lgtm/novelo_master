@@ -1,0 +1,15 @@
+id: ev-cezinha-nega-ilicito
+kind: evidence
+classification: A
+proposition: Cezinha de Madureira negou ato ilícito e afirmou que, à época do encontro, não havia informação
+  pública de investigação sobre Vorcaro.
+document_ids: []
+source_ids:
+- src-cnn-2026-09-02-mendonca-admite-encontro
+attributed_to_id: cezinha-de-madureira
+date: '2026-09-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

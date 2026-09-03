@@ -19,14 +19,27 @@ summary: Senador pelo Piauí. Em 07/05/2026 o STF autorizou fase da Compliance Z
 why_in_novelo: É citado em comunicação oficial do STF como investigado em fase da Operação Compliance
   Zero, por suposta atuação em favor de interesses de Daniel Vorcaro, segundo a Polícia Federal.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- date: '2026-05-12'
+  by_id: ciro-nogueira
+  kind: denial
+  summary: Em vídeo, negou ter apresentado a emenda na íntegra conforme recebida, defendeu a atualização
+    do limite do FGC e negou ter recebido mesada ou valores ilícitos de Vorcaro.
+  source_ids:
+  - src-jdb-2026-05-12-ciro-nega-emenda
+- date: '2026-05-07'
+  by: Antônio Carlos de Almeida Castro (Kakay), advogado
+  kind: version
+  summary: A defesa afirmou tratar-se de 'relação natural de um grande banqueiro com um senador da República'
+    e criticou a busca baseada 'somente em celulares de terceiros'.
+  source_ids:
+  - src-metropoles-2026-05-07-defesa-ciro
 open_questions:
-- A posição pública do senador sobre as suspeitas apresentadas pela PF não foi localizada em fonte verificada
-  no corpus.
 - A data e o teor exato da emenda à PEC 65/2023 devem ser confirmados em fonte primária do Senado.
+- A data e o texto exato da Emenda nº 11 devem ser confirmados no documento do Senado (não lido pela equipe).
 source_ids:
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
+- src-jdb-2026-05-12-ciro-nega-emenda
+- src-metropoles-2026-05-07-defesa-ciro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

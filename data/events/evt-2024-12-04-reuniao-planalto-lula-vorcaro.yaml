@@ -18,18 +18,21 @@ description: Segundo CNN Brasil, Gazeta do Povo e Brasil Paralelo (esta reproduz
   Silveira, segundo a Gazeta). Lula confirmou o encontro e afirmou ter dito que não haveria posição política
   sobre o banco, apenas investigação técnica do BC. A Presidência informou não ter produzido registros.
   Mensagens do banqueiro à então namorada descreveram o encontro como 'ótimo', segundo a Gazeta.
-evidence_class: C
+evidence_class: D
 status: verified
 evidence_ids:
 - ev-lula-recebeu-vorcaro-2024-12-04
 - ev-planalto-sem-registros-lai
 - ev-pf-mensagens-vorcaro-otimo-encontro
 - ev-mantega-consultor-master
+- ev-senado-galipolo-confirma-reuniao-planalto
 source_ids:
 - src-cnn-2026-01-lula-vorcaro-fora-da-agenda
 - src-gazeta-2026-03-05-vorcaro-otimo-encontro
 - src-brasilparalelo-2026-02-planalto-sem-registros
-document_ids: []
+- src-senado-2026-04-08-galipolo-cpi
+document_ids:
+- doc-2026-04-08-depoimento-galipolo-cpi
 public_act_ids: []
 cited_position:
 - by_id: luiz-inacio-lula-da-silva
@@ -43,6 +46,12 @@ cited_position:
   summary: 'Via LAI: não foram produzidos registros da reunião.'
   source_ids:
   - src-brasilparalelo-2026-02-planalto-sem-registros
+- date: '2026-04-08'
+  by_id: gabriel-galipolo
+  kind: version
+  summary: Confirmou a reunião à CPI; disse ter apenas encaminhado o caso à análise técnica.
+  source_ids:
+  - src-senado-2026-04-08-galipolo-cpi
 location: Palácio do Planalto, Brasília
 review_status: published
 reviewer: orquestrador

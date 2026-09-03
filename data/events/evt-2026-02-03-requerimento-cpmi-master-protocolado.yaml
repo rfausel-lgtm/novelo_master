@@ -1,0 +1,27 @@
+id: evt-2026-02-03-requerimento-cpmi-master-protocolado
+kind: event
+title: Requerimento de CPMI do Banco Master é protocolado no Congresso
+event_type: public_act
+date: '2026-02-03'
+date_precision: day
+participant_ids:
+- carlos-jordy
+- senado-federal
+- camara-dos-deputados
+- davi-alcolumbre
+description: Requerimento do deputado Carlos Jordy com 42 senadores e 238 deputados; a leitura em sessão
+  conjunta, necessária à instalação, dependia do presidente do Congresso, Davi Alcolumbre.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-senado-cpmi-requerimento-2026-02-03
+source_ids:
+- src-senado-2026-02-03-cpmi-protocolada
+document_ids:
+- doc-2026-02-03-requerimento-cpmi-master
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

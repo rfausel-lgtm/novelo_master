@@ -1,0 +1,20 @@
+id: src-senado-2024-08-14-pec-65-adiada
+kind: source
+title: Adiada análise de PEC que dá mais autonomia ao Banco Central
+publisher: Agência Senado
+publication_date: '2024-08-14'
+retrieved_at: '2026-09-03'
+url: https://www12.senado.leg.br/noticias/materias/2024/08/14/adiada-analise-de-pec-que-altera-natureza-e-da-mais-autonomia-ao-banco
+source_type: official_legislative
+summary: Em 14/08/2024 a CCJ adiou a votação da PEC 65/2023 após pedido de vista de Jaques Wagner; o relator
+  Plínio Valério apresentara texto alternativo naquela manhã.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

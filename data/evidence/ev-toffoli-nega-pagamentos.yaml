@@ -1,0 +1,15 @@
+id: ev-toffoli-nega-pagamentos
+kind: evidence
+classification: A
+proposition: Em 12/02/2026 Dias Toffoli afirmou nunca ter recebido pagamentos e nunca ter tido relação
+  com Daniel Vorcaro.
+document_ids: []
+source_ids:
+- src-reuters-2026-02-12-toffoli-nega
+attributed_to_id: dias-toffoli
+date: '2026-02-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,48 @@
+id: evt-2024-04-25-degustacao-macallan-londres
+kind: event
+title: Degustação de uísque no George Club, em Londres, paga por Vorcaro durante fórum patrocinado pelo
+  Master
+event_type: social_event
+date: '2024-04-25'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- alexandre-de-moraes
+- andrei-rodrigues
+- dias-toffoli
+- benedito-goncalves
+- ciro-soares
+- banco-master
+description: Segundo o Poder360, com base em documentos da organização encaminhados pela PF à CPMI do
+  INSS, cerca de 40 pessoas participaram em 25/04/2024 de degustação de Macallan no George Club (Mayfair),
+  com custo de US$ 640.831,88 pago por Vorcaro, à margem do 1º Fórum Jurídico Brasil de Ideias (24 a 26/04/2024),
+  patrocinado pelo Banco Master. A PF citou a participação de Toffoli no fórum em pedido de suspeição;
+  Andrei Rodrigues também participou. A equipe não leu os documentos originais; a lista de participantes
+  é a reproduzida pela imprensa.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-poder360-degustacao-londres-2024-04-25
+source_ids:
+- src-poder360-2026-03-10-degustacao-londres
+- src-poder360-2026-02-14-andrei-londres
+document_ids: []
+public_act_ids: []
+cited_position:
+- date: '2026-02-12'
+  by_id: dias-toffoli
+  kind: denial
+  summary: Toffoli afirmou nunca ter recebido pagamentos nem tido relação com Vorcaro.
+  source_ids:
+  - src-reuters-2026-02-12-toffoli-nega
+- kind: no_response
+  by_id: policia-federal
+  summary: A PF não respondeu ao Poder360 sobre quem pagou a viagem do diretor-geral.
+  source_ids:
+  - src-poder360-2026-02-14-andrei-londres
+location: George Club, Mayfair, Londres
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

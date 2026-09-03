@@ -1,0 +1,32 @@
+id: ricardo-lewandowski
+kind: person
+name: Ricardo Lewandowski
+category: lawyer
+role: Ex-ministro do STF; ex-ministro da Justiça (2024 a jan/2026); advogado
+positions: []
+summary: Ex-ministro do STF e ex-ministro da Justiça. Segundo a CNN Brasil, o escritório em que atuava
+  manteve contrato com o Banco Master, inclusive após sua posse no ministério, sob comando de familiares;
+  em nota, confirmou a prestação de serviços ao Master, disse ter se retirado do escritório ao assumir
+  o cargo em janeiro de 2024 e atribuiu sua saída do ministério (10/01/2026) a motivos pessoais.
+why_in_novelo: Seu escritório prestou serviços ao Banco Master, fato confirmado por ele em nota, segundo
+  a CNN Brasil.
+cited_position:
+- by_id: ricardo-lewandowski
+  kind: clarification
+  summary: Confirmou a prestação de serviço ao Master; retirou-se do escritório e suspendeu o registro
+    na OAB ao assumir o ministério em janeiro de 2024; saída do ministério por motivos pessoais.
+  source_ids:
+  - src-cnn-2026-01-27-lewandowski-contrato
+open_questions:
+- Período e valores do contrato não foram detalhados pela fonte lida.
+source_ids:
+- src-cnn-2026-01-27-lewandowski-contrato
+- src-poder360-2026-04-08-receita-pagamentos-master
+full_name: Enrique Ricardo Lewandowski
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Ricardo_Lewandowski
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

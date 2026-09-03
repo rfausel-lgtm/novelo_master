@@ -1,0 +1,22 @@
+id: rel-celina-leao-governo-do-distrito-federal-institutional
+kind: relationship
+from_id: celina-leao
+to_id: governo-do-distrito-federal
+relationship_type: institutional
+directed: false
+label: governadora
+description: Governa o Distrito Federal em 2026, conforme a CNN.
+evidence_class: A
+confidence: 0.9
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-celina-afasta-funcionarios-brb
+source_ids:
+- src-cnn-2026-04-01-celina-afasta-funcionarios
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
