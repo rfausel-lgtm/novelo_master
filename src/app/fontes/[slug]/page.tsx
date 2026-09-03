@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { allSources, getSource, usagesOfSource, entityHref, entityName, isOfficialSource } from "@/lib/data";
-import { articleJsonLd, excerptOf, pageMetadata } from "@/lib/pages";
+import { articleJsonLd, excerptOf, pageMetadata , safeJsonLd } from "@/lib/pages";
 import { SOURCE_TYPE_LABEL } from "@/lib/labels";
 import { formatPartialDate } from "@/lib/format";
 import { PageShell } from "@/components/entity/PageShell";
@@ -46,7 +46,7 @@ export default async function FontePage({ params }: { params: Promise<{ slug: st
   const official = isOfficialSource(source);
   return (
     <PageShell>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd({ title: source.title, description: excerptOf(source.summary ?? source.title), path: `/fontes/${source.id}`, dateModified: source.updated_at })) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: safeJsonLd(articleJsonLd({ title: source.title, description: excerptOf(source.summary ?? source.title), path: `/fontes/${source.id}`, dateModified: source.updated_at })) }} />
       <Breadcrumbs items={[{ href: "/fontes", label: "Fontes" }, { label: source.title }]} />
       <header className="mb-6">
         <p className="text-fg-3 font-mono text-[11px] tracking-[0.2em] uppercase">Fonte · {SOURCE_TYPE_LABEL[source.source_type]}</p>

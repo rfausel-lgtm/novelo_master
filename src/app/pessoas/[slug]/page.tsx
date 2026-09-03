@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { allPeople, getPerson } from "@/lib/data";
-import { excerptOf, pageMetadata, personJsonLd } from "@/lib/pages";
+import { excerptOf, pageMetadata, personJsonLd , safeJsonLd } from "@/lib/pages";
 import { PageShell } from "@/components/entity/PageShell";
 import { Breadcrumbs } from "@/components/entity/Breadcrumbs";
 import { AgentDossier } from "@/components/entity/AgentDossier";
@@ -25,7 +25,7 @@ export default async function PessoaPage({ params }: { params: Promise<{ slug: s
   if (!person) notFound();
   return (
     <PageShell>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd(person)) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: safeJsonLd(personJsonLd(person)) }} />
       <Breadcrumbs items={[{ href: "/pessoas", label: "Pessoas" }, { label: person.name }]} />
       <AgentDossier entity={person} />
     </PageShell>

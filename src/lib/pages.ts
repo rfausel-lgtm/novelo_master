@@ -314,3 +314,8 @@ export function articleJsonLd(opts: { title: string; description: string; path: 
 export function corpusDate(): string {
   return corpus.built_at;
 }
+
+/** Serializa JSON-LD escapando `<` para impedir fechamento prematuro da tag script. */
+export function safeJsonLd(obj: unknown): string {
+  return JSON.stringify(obj).replace(/</g, "\u003c");
+}

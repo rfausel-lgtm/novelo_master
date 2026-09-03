@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { allOrganizations, getOrganization } from "@/lib/data";
-import { excerptOf, organizationJsonLd, pageMetadata } from "@/lib/pages";
+import { excerptOf, organizationJsonLd, pageMetadata , safeJsonLd } from "@/lib/pages";
 import { PageShell } from "@/components/entity/PageShell";
 import { Breadcrumbs } from "@/components/entity/Breadcrumbs";
 import { AgentDossier } from "@/components/entity/AgentDossier";
@@ -25,7 +25,7 @@ export default async function OrganizacaoPage({ params }: { params: Promise<{ sl
   if (!org) notFound();
   return (
     <PageShell>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd(org)) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: safeJsonLd(organizationJsonLd(org)) }} />
       <Breadcrumbs items={[{ href: "/organizacoes", label: "Organizações" }, { label: org.name }]} />
       <AgentDossier entity={org} />
     </PageShell>

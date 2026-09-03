@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { allEvents, getEvent, getEvidence, getPublicAct, participantsOf, entityHref } from "@/lib/data";
-import { eventJsonLd, excerptOf, nearbyOf, pageMetadata, sourcesByIds } from "@/lib/pages";
+import { eventJsonLd, excerptOf, nearbyOf, pageMetadata, sourcesByIds , safeJsonLd } from "@/lib/pages";
 import { EVENT_TYPE_LABEL, DOCUMENT_TYPE_LABEL_SAFE } from "@/lib/labels";
 import { formatPartialDate } from "@/lib/format";
 import { getDocument } from "@/lib/data";
@@ -52,7 +52,7 @@ export default async function EventoPage({ params }: { params: Promise<{ slug: s
 
   return (
     <PageShell>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(eventJsonLd(event)) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: safeJsonLd(eventJsonLd(event)) }} />
       <Breadcrumbs items={[{ href: "/eventos", label: "Eventos" }, { label: event.title }]} />
       <header className="mb-6">
         <p className="text-fg-3 font-mono text-[11px] tracking-[0.2em] uppercase">Evento · {EVENT_TYPE_LABEL[event.event_type]}</p>

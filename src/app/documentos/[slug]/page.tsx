@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { allDocuments, getDocument, usagesOfDocument, entityHref, entityName } from "@/lib/data";
-import { articleJsonLd, excerptOf, pageMetadata, sourcesByIds } from "@/lib/pages";
+import { articleJsonLd, excerptOf, pageMetadata, sourcesByIds , safeJsonLd } from "@/lib/pages";
 import { DOCUMENT_TYPE_LABEL_SAFE } from "@/lib/labels";
 import { formatPartialDate } from "@/lib/format";
 import { PageShell } from "@/components/entity/PageShell";
@@ -47,7 +47,7 @@ export default async function DocumentoPage({ params }: { params: Promise<{ slug
   const sources = sourcesByIds(doc.source_ids);
   return (
     <PageShell>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd({ title: doc.title, description: excerptOf(doc.summary), path: `/documentos/${doc.id}`, dateModified: doc.updated_at })) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: safeJsonLd(articleJsonLd({ title: doc.title, description: excerptOf(doc.summary), path: `/documentos/${doc.id}`, dateModified: doc.updated_at })) }} />
       <Breadcrumbs items={[{ href: "/documentos", label: "Documentos" }, { label: doc.title }]} />
       <header className="mb-6">
         <p className="text-fg-3 font-mono text-[11px] tracking-[0.2em] uppercase">Documento · {DOCUMENT_TYPE_LABEL_SAFE(doc.doc_type)}</p>

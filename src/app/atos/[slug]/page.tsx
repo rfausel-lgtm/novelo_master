@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { allPublicActs, getPublicAct, getEvidence, getDocument, entityHref, entityName } from "@/lib/data";
-import { excerptOf, nearbyOf, pageMetadata, sourcesByIds, articleJsonLd } from "@/lib/pages";
+import { excerptOf, nearbyOf, pageMetadata, sourcesByIds, articleJsonLd , safeJsonLd } from "@/lib/pages";
 import { PUBLIC_ACT_TYPE_LABEL, DOCUMENT_TYPE_LABEL_SAFE } from "@/lib/labels";
 import { formatPartialDate } from "@/lib/format";
 import { PageShell } from "@/components/entity/PageShell";
@@ -52,7 +52,7 @@ export default async function AtoPage({ params }: { params: Promise<{ slug: stri
 
   return (
     <PageShell>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd({ title: act.title, description: excerptOf(act.description), path: `/atos/${act.id}`, dateModified: act.updated_at })) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: safeJsonLd(articleJsonLd({ title: act.title, description: excerptOf(act.description), path: `/atos/${act.id}`, dateModified: act.updated_at })) }} />
       <Breadcrumbs items={[{ href: "/atos", label: "Atos públicos" }, { label: act.title }]} />
       <header className="mb-6">
         <p className="text-fg-3 font-mono text-[11px] tracking-[0.2em] uppercase">Ato público · {PUBLIC_ACT_TYPE_LABEL[act.act_type]}</p>
