@@ -1,12 +1,37 @@
 "use client";
 
-import { RELATIONSHIP_FAMILY_LABEL, EVIDENCE_CLASS_LABEL, type EvidenceClass, type RelationshipFamily } from "@/lib/schema";
+import {
+  RELATIONSHIP_FAMILY_LABEL,
+  EVIDENCE_CLASS_LABEL,
+  type EvidenceClass,
+  type RelationshipFamily,
+} from "@/lib/schema";
 import { EVIDENCE_SHAPE, FAMILY_COLOR_FALLBACK, NODE_COLOR_FALLBACK } from "@/lib/graph/style";
 import { NODE_CATEGORY_LABEL, type NodeCategory } from "@/lib/graph/types";
 
-const FAMILIES: RelationshipFamily[] = ["institutional", "financial", "political", "social", "professional", "corporate", "allegation"];
+const FAMILIES: RelationshipFamily[] = [
+  "institutional",
+  "financial",
+  "political",
+  "social",
+  "professional",
+  "corporate",
+  "allegation",
+];
 const CLASSES: EvidenceClass[] = ["D", "C", "A", "I"];
-const CATEGORIES: NodeCategory[] = ["person", "company", "financial_institution", "public_body", "party", "event", "public_act"];
+const CATEGORIES: NodeCategory[] = [
+  "person",
+  "company",
+  "financial_institution",
+  "public_body",
+  "party",
+  "event",
+  "public_act",
+  "document",
+  "source",
+  "claim",
+  "evidence",
+];
 
 function Stroke({ cls }: { cls: EvidenceClass }) {
   const shape = EVIDENCE_SHAPE[cls];
@@ -14,7 +39,16 @@ function Stroke({ cls }: { cls: EvidenceClass }) {
   const width = shape === "solidShort" ? 1 : shape === "solid" ? 2.2 : 1.6;
   return (
     <svg width="56" height="10" aria-hidden="true" className="shrink-0">
-      <line x1="2" y1="5" x2="54" y2="5" stroke="#aab3bf" strokeWidth={width} strokeDasharray={dash} strokeLinecap="round" />
+      <line
+        x1="2"
+        y1="5"
+        x2="54"
+        y2="5"
+        stroke="#aab3bf"
+        strokeWidth={width}
+        strokeDasharray={dash}
+        strokeLinecap="round"
+      />
     </svg>
   );
 }
@@ -28,18 +62,26 @@ export function Legend({ compact = false }: { compact?: boolean }) {
         <span className="text-fg font-medium">Forma</span> = força da evidência
       </p>
       <div>
-        <h4 className="text-fg-3 mb-1 text-[10.5px] font-semibold tracking-[0.14em] uppercase">Natureza da relação</h4>
+        <h4 className="text-fg-3 mb-1 text-[10.5px] font-semibold tracking-[0.14em] uppercase">
+          Natureza da relação
+        </h4>
         <ul className="grid grid-cols-2 gap-x-3 gap-y-1">
           {FAMILIES.map((f) => (
             <li key={f} className="flex items-center gap-2">
-              <span aria-hidden="true" className="h-0.5 w-6 rounded" style={{ background: FAMILY_COLOR_FALLBACK[f] }} />
+              <span
+                aria-hidden="true"
+                className="h-0.5 w-6 rounded"
+                style={{ background: FAMILY_COLOR_FALLBACK[f] }}
+              />
               <span className="text-fg-2">{RELATIONSHIP_FAMILY_LABEL[f]}</span>
             </li>
           ))}
         </ul>
       </div>
       <div>
-        <h4 className="text-fg-3 mb-1 text-[10.5px] font-semibold tracking-[0.14em] uppercase">Força da evidência</h4>
+        <h4 className="text-fg-3 mb-1 text-[10.5px] font-semibold tracking-[0.14em] uppercase">
+          Força da evidência
+        </h4>
         <ul className="space-y-1">
           {CLASSES.map((c) => (
             <li key={c} className="flex items-center gap-2">
@@ -53,7 +95,9 @@ export function Legend({ compact = false }: { compact?: boolean }) {
       </div>
       {!compact && (
         <div>
-          <h4 className="text-fg-3 mb-1 text-[10.5px] font-semibold tracking-[0.14em] uppercase">Nós</h4>
+          <h4 className="text-fg-3 mb-1 text-[10.5px] font-semibold tracking-[0.14em] uppercase">
+            Nós
+          </h4>
           <ul className="grid grid-cols-2 gap-x-3 gap-y-1">
             {CATEGORIES.map((c) => (
               <li key={c} className="flex items-center gap-2">
@@ -69,8 +113,8 @@ export function Legend({ compact = false }: { compact?: boolean }) {
         </div>
       )}
       <p className="text-fg-3">
-        Vermelho nunca significa ilícito. Alegações (A) e inferências (I) não são fatos verificados; estar no mapa não implica
-        irregularidade.
+        Vermelho nunca significa ilícito. Alegações (A) e inferências (I) não são fatos verificados;
+        estar no mapa não implica irregularidade.
       </p>
     </div>
   );

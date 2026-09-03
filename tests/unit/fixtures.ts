@@ -121,7 +121,14 @@ export function minimalCorpus(): Corpus {
         source_ids: ["src-imprensa"],
         document_ids: [],
         transaction_ids: [],
-        cited_position: [],
+        cited_position: [
+          {
+            by_id: "pessoa-b",
+            kind: "denial",
+            summary: "Pessoa B negou a relação.",
+            source_ids: ["src-imprensa"],
+          },
+        ],
         tags: [],
         ...trail,
       },

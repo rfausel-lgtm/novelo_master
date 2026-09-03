@@ -15,6 +15,7 @@ interface TimeMachineProps {
   visibleNodes: number;
   visibleEdges: number;
   reducedMotion: boolean;
+  undatedEdgesExcluded: number;
 }
 
 /**
@@ -22,7 +23,18 @@ interface TimeMachineProps {
  * ("assistir o novelo se formar"). Sóbrio: só muda o recorte de data.
  */
 export function TimeMachine(props: TimeMachineProps) {
-  const { min, max, value, onChange, playing, onPlay, visibleNodes, visibleEdges, reducedMotion } = props;
+  const {
+    min,
+    max,
+    value,
+    onChange,
+    playing,
+    onPlay,
+    visibleNodes,
+    visibleEdges,
+    reducedMotion,
+    undatedEdgesExcluded,
+  } = props;
   const id = useId();
   const total = Math.max(1, daysBetween(min, max));
   const current = value ?? max;
@@ -75,14 +87,23 @@ export function TimeMachine(props: TimeMachineProps) {
   return (
     <div className="border-border bg-bg-2/95 pointer-events-auto flex flex-col gap-1.5 rounded-lg border px-3 py-2 shadow-xl backdrop-blur">
       <div className="flex flex-wrap items-center gap-2">
-        <ToolButton primary active={playing} onClick={() => onPlay(!playing)} aria-label={playing ? "Pausar reprodução" : "Assistir o novelo se formar"}>
+        <ToolButton
+          primary
+          active={playing}
+          onClick={() => onPlay(!playing)}
+          aria-label={playing ? "Pausar reprodução" : "Assistir o novelo se formar"}
+        >
           {playing ? "❚❚ Pausar" : "▶ Assistir o novelo se formar"}
         </ToolButton>
         <label htmlFor={id} className="text-fg-2 text-xs">
           Até <span className="text-fg font-medium tabular-nums">{formatDatePT(current)}</span>
         </label>
         {value && (
-          <button type="button" onClick={() => onChange(undefined)} className="text-accent text-xs underline underline-offset-2">
+          <button
+            type="button"
+            onClick={() => onChange(undefined)}
+            className="text-accent text-xs underline underline-offset-2"
+          >
             mostrar tudo
           </button>
         )}
@@ -111,13 +132,28 @@ export function TimeMachine(props: TimeMachineProps) {
         />
         <div className="text-fg-3 relative mt-0.5 h-3 text-[10px]" aria-hidden="true">
           {years.map((y) => (
-            <span key={y.label} className="absolute -translate-x-1/2 tabular-nums" style={{ left: `${y.pct}%` }}>
+            <span
+              key={y.label}
+              className="absolute -translate-x-1/2 tabular-nums"
+              style={{ left: `${y.pct}%` }}
+            >
               {y.label}
             </span>
           ))}
-          <span className="absolute right-0 tabular-nums">{max === todayISO() ? "hoje" : formatDatePT(max)}</span>
+          <span className="absolute right-0 tabular-nums">
+            {max === todayISO() ? "hoje" : formatDatePT(max)}
+          </span>
         </div>
       </div>
+      {value && undatedEdgesExcluded > 0 && (
+        <p className="text-fg-3 text-[10px]" role="status">
+          {undatedEdgesExcluded}{" "}
+          {undatedEdgesExcluded === 1
+            ? "relação sem data ficou oculta"
+            : "relações sem data ficaram ocultas"}{" "}
+          neste recorte.
+        </p>
+      )}
     </div>
   );
 }

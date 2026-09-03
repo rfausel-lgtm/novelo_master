@@ -19,7 +19,11 @@ export type NodeCategory =
   | "organization_other"
   | "event"
   | "public_act"
-  | "transaction";
+  | "transaction"
+  | "document"
+  | "source"
+  | "claim"
+  | "evidence";
 
 export const NODE_CATEGORY_LABEL: Record<NodeCategory, string> = {
   person: "Pessoa",
@@ -31,11 +35,24 @@ export const NODE_CATEGORY_LABEL: Record<NodeCategory, string> = {
   event: "Evento",
   public_act: "Ato público",
   transaction: "Transação",
+  document: "Documento",
+  source: "Fonte",
+  claim: "Claim",
+  evidence: "Evidência",
 };
 
 export interface GraphNode {
   id: string;
-  kind: "person" | "organization" | "event" | "public_act" | "transaction";
+  kind:
+    | "person"
+    | "organization"
+    | "event"
+    | "public_act"
+    | "transaction"
+    | "document"
+    | "source"
+    | "claim"
+    | "evidence";
   category: NodeCategory;
   label: string;
   /** Subtipo original (categoria de pessoa, org_type, event_type...). */
@@ -60,7 +77,22 @@ export interface GraphNode {
   href: string;
 }
 
-export type EdgeKind = "relationship" | "participation" | "actor" | "transaction";
+export type EdgeKind = "relationship" | "participation" | "actor" | "transaction" | "evidence_link";
+
+export interface GraphSourceInfo {
+  title: string;
+  publisher: string;
+  official: boolean;
+}
+
+export interface GraphPositionInfo {
+  by?: string;
+  by_id?: string;
+  kind: string;
+  summary: string;
+  date?: string;
+  source_ids: string[];
+}
 
 export interface GraphEdge {
   id: string;
@@ -68,7 +100,15 @@ export interface GraphEdge {
   target: string;
   kind: EdgeKind;
   /** Tipo de relação (para relationship) ou tipo derivado. */
-  relationship_type: RelationshipType | "participation" | "actor" | "transaction";
+  relationship_type:
+    | RelationshipType
+    | "participation"
+    | "actor"
+    | "transaction"
+    | "supports"
+    | "documents"
+    | "originates_from"
+    | "mentions";
   family: RelationshipFamily;
   label: string;
   evidence_class: EvidenceClass;
@@ -88,6 +128,8 @@ export interface GraphEdge {
   event_ids: string[];
   description: string;
   via_id?: string;
+  document_ids?: string[];
+  cited_positions?: GraphPositionInfo[];
 }
 
 export interface GraphStats {
@@ -115,4 +157,5 @@ export interface GraphPayload {
   stats: GraphStats;
   nodes: GraphNode[];
   edges: GraphEdge[];
+  source_index: Record<string, GraphSourceInfo>;
 }

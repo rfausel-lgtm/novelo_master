@@ -113,7 +113,10 @@ const PERSON_ROLE: Record<(typeof PERSON_SUBTYPES)[number], string> = {
 };
 
 const ORG_CATEGORY_WEIGHTS: Record<
-  Exclude<NodeCategory, "person" | "event" | "public_act" | "transaction">,
+  Exclude<
+    NodeCategory,
+    "person" | "event" | "public_act" | "transaction" | "document" | "source" | "claim" | "evidence"
+  >,
   number
 > = {
   company: 55,
@@ -161,7 +164,13 @@ const EVENT_TITLE: Record<(typeof EVENT_SUBTYPES)[number], string> = {
   social_event: "Evento social exemplo",
 };
 
-const ACT_SUBTYPES = ["legislative", "judicial", "administrative", "regulatory", "executive"] as const;
+const ACT_SUBTYPES = [
+  "legislative",
+  "judicial",
+  "administrative",
+  "regulatory",
+  "executive",
+] as const;
 const ACT_TITLE: Record<(typeof ACT_SUBTYPES)[number], string> = {
   legislative: "Ato legislativo exemplo",
   judicial: "Ato judicial exemplo",
@@ -353,7 +362,12 @@ function synth(opts: SynthOptions): GraphPayload {
   const evidences = (cls: EvidenceClass): string[] =>
     cls === "I" ? [] : [`ev-${edges.length + 1}`];
 
-  const EDGE_KIND_WEIGHTS = { relationship: 60, participation: 25, actor: 10, transaction: 5 } as const;
+  const EDGE_KIND_WEIGHTS = {
+    relationship: 60,
+    participation: 25,
+    actor: 10,
+    transaction: 5,
+  } as const;
 
   let guard = 0;
   while (edges.length < opts.edges && guard++ < opts.edges * 20) {
@@ -361,7 +375,9 @@ function synth(opts: SynthOptions): GraphPayload {
     const cls = weighted(rng, EVIDENCE_WEIGHTS);
     const official = rng() < OFFICIAL_PROB[cls];
     const status = weighted(rng, STATUS_BY_CLASS[cls]);
-    const confidence = Number(Math.min(1, Math.max(0.05, CONFIDENCE_BASE[cls] + (rng() - 0.5) * 0.2)).toFixed(2));
+    const confidence = Number(
+      Math.min(1, Math.max(0.05, CONFIDENCE_BASE[cls] + (rng() - 0.5) * 0.2)).toFixed(2),
+    );
     const base = {
       evidence_class: cls,
       status,
@@ -396,7 +412,9 @@ function synth(opts: SynthOptions): GraphPayload {
           label,
           directed,
           start_date: since,
-          end_date: hasEnd ? isoDate(Math.min(MAX_DATE, Date.parse(since) + rng() * 3 * 365 * 86400000)) : undefined,
+          end_date: hasEnd
+            ? isoDate(Math.min(MAX_DATE, Date.parse(since) + rng() * 3 * 365 * 86400000))
+            : undefined,
           since,
           event_ids: [],
           description: `Registro sintético (${RELATIONSHIP_TYPE_LABEL[type].toLowerCase()}); não descreve fato real.`,
@@ -563,6 +581,7 @@ function synth(opts: SynthOptions): GraphPayload {
     stats,
     nodes: [...full.values()],
     edges,
+    source_index: {},
   };
 }
 
@@ -584,5 +603,7 @@ if (!demoOnly) {
   const stress = synth({ nodes: 5000, edges: 25000, seed: 42, iterations: 200 });
   fs.writeFileSync(path.join(outDir, "graph-stress.json"), JSON.stringify(stress));
   const bytes = fs.statSync(path.join(outDir, "graph-stress.json")).size;
-  console.log(`  ${stress.stats.nodes} nós, ${stress.stats.edges} arestas, ${(bytes / 1e6).toFixed(1)} MB`);
+  console.log(
+    `  ${stress.stats.nodes} nós, ${stress.stats.edges} arestas, ${(bytes / 1e6).toFixed(1)} MB`,
+  );
 }
