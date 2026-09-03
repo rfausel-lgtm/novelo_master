@@ -55,8 +55,11 @@ export function excerptOf(text: string, max = 160): string {
   return `${cut.slice(0, Math.max(cut.lastIndexOf(" "), 80))}...`;
 }
 
+/** URL absoluta com barra final (a exportação estática usa trailingSlash). */
 export function absoluteUrl(path: string): string {
-  return `${SITE.url}${path}`;
+  const base = SITE.url.replace(/\/$/, "");
+  if (path === "" || path === "/") return `${base}/`;
+  return `${base}${path.endsWith("/") ? path : `${path}/`}`;
 }
 
 /* ------------------------------------------------------------------ */

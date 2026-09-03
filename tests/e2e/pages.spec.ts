@@ -3,7 +3,7 @@ import { test, expect } from "@playwright/test";
 test("home mostra marca, chamada, estatísticas e última atualização", async ({ page }) => {
   await page.goto("/");
   await expect(page.getByRole("heading", { level: 1, name: /O Novelo Master/i })).toBeVisible();
-  await expect(page.getByRole("link", { name: /Explorar o Novelo/i })).toHaveAttribute("href", "/grafo");
+  await expect(page.getByRole("link", { name: /Explorar o Novelo/i })).toHaveAttribute("href", /^\/grafo\/?$/);
   await expect(page.getByText(/Última atualização/)).toBeVisible();
   await expect(page.getByText("pessoas", { exact: true })).toBeVisible();
 });
@@ -14,7 +14,7 @@ test("dossiê de pessoa tem as seções obrigatórias", async ({ page }) => {
   for (const h of ["Por que está no Novelo?", "Linha do tempo", "Principais conexões", "Posição do citado", "Lacunas ainda não esclarecidas", "Fontes", "Histórico de atualização"]) {
     await expect(page.getByRole("heading", { name: h })).toBeVisible();
   }
-  await expect(page.getByRole("link", { name: "Ver no grafo" })).toHaveAttribute("href", "/grafo?n=daniel-vorcaro");
+  await expect(page.getByRole("link", { name: "Ver no grafo" })).toHaveAttribute("href", /^\/grafo\/?\?n=daniel-vorcaro$/);
   await expect(page.getByText("Por que estes nós estão conectados?").first()).toBeAttached();
 });
 
