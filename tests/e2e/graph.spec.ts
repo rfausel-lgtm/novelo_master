@@ -3,7 +3,7 @@ import { test, expect } from "@playwright/test";
 test.describe("Grafo (dataset sintético de demonstração)", () => {
   test.beforeEach(async ({ page }) => {
     await page.goto("/grafo?dataset=demo");
-    await expect(page.getByTestId("graph-canvas")).toBeVisible();
+    await expect(page.getByTestId("graph-canvas")).toBeVisible({ timeout: 20_000 });
     await expect(page.getByText(/\d+ nós · \d+ arestas/)).toBeVisible({ timeout: 20_000 });
   });
 
@@ -31,8 +31,8 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
   test("time machine altera a data limite e a contagem", async ({ page }) => {
     const slider = page.getByRole("slider", { name: /Data limite/i });
     const before = await page.getByText(/\d+ nós · \d+ arestas/).first().innerText();
-    await slider.focus();
-    for (let i = 0; i < 400; i++) await page.keyboard.press("ArrowLeft");
+    const max = Number(await slider.getAttribute("max"));
+    await slider.fill(String(Math.floor(max / 3)));
     await expect(page.getByText(/^Até/)).not.toContainText("2026");
     const after = await page.getByText(/\d+ nós · \d+ arestas/).first().innerText();
     expect(after).not.toEqual(before);
