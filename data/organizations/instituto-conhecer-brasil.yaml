@@ -1,0 +1,35 @@
+id: instituto-conhecer-brasil
+kind: organization
+name: Instituto Conhecer Brasil
+aliases:
+- ICB
+org_type: association
+summary: Associação privada sem fins lucrativos presidida por Karina Ferreira da Gama. Venceu o chamamento
+  que resultou no Termo de Colaboração 01/SMIT/2024, de R$ 108 milhões, para implantar, operar e manter
+  5 mil pontos de wi-fi gratuito em comunidades periféricas de São Paulo, dentro do programa WiFi Livre
+  SP. Foi o principal alvo da Operação Wi-Fi Livre em 01/06/2026.
+why_in_novelo: Firmou com a Prefeitura de São Paulo o contrato de R$ 108 milhões investigado por suspeita
+  de fraude, e é presidido pela mesma pessoa que responde pela produtora do filme 'Dark Horse'.
+cited_position:
+- kind: denial
+  summary: Karina Ferreira da Gama, que preside a entidade, nega os crimes de organização criminosa, evasão
+    de divisas e lavagem de dinheiro.
+  source_ids:
+  - src-cnn-2026-08-26-produtora-entrega-documentos
+  by_id: karina-ferreira-da-gama
+  date: '2026-08-26'
+open_questions:
+- O corpus não registra manifestação institucional própria do instituto.
+- As notas fiscais consideradas irregulares (R$ 16,5 milhões) constam de uma única reportagem; o corpus
+  não tem os documentos.
+source_ids:
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+- src-jb-2026-05-17-quem-e-karina-ferreira-da-gama
+jurisdiction: São Paulo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,28 @@
+id: rel-instituto-conhecer-brasil-go-up-entertainment-corporate
+kind: relationship
+from_id: instituto-conhecer-brasil
+to_id: go-up-entertainment
+relationship_type: corporate
+directed: false
+label: mesma dirigente; sede no mesmo endereço, segundo a imprensa
+via_id: karina-ferreira-da-gama
+description: As duas entidades são dirigidas por Karina Ferreira da Gama e, segundo o Jornal do Brasil,
+  funcionam no mesmo endereço na Avenida Paulista. A hipótese de que a estrutura do instituto tenha servido
+  de fluxo de caixa para a produtora é de investigadores, não conclusão.
+evidence_class: C
+confidence: 0.7
+status: verified
+event_ids: []
+evidence_ids:
+- ev-karina-preside-icb-e-responde-go-up
+source_ids:
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+- src-jb-2026-05-17-quem-e-karina-ferreira-da-gama
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

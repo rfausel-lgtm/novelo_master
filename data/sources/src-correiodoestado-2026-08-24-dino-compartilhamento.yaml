@@ -1,0 +1,24 @@
+id: src-correiodoestado-2026-08-24-dino-compartilhamento
+kind: source
+title: PF vai acessar dados de operação da Civil que atingiu produtora de Dark Horse, decide Dino
+publisher: Correio do Estado (Estadão Conteúdo)
+publication_date: '2026-08-24'
+retrieved_at: '2026-09-03'
+url: https://correiodoestado.com.br/politica/pf-vai-acessar-dados-de-operacao-da-civil-que-atingiu-produtora-de/471641/
+source_type: press
+summary: Em 24/08/2026 o ministro Flávio Dino autorizou o compartilhamento, com a Polícia Federal, dos
+  dados apreendidos na operação da Polícia Civil de São Paulo contra Karina Ferreira da Gama. A PF pediu
+  o acesso para ampliar as investigações sobre suspeitas de desvio de recursos públicos, sobretudo emendas
+  parlamentares. O roteiro de 'Dark Horse' é assinado pelo deputado Mário Frias, que em 2024 destinou
+  R$ 2 milhões em emendas para a ONG ligada ao filme; em maio a defesa negou triangulação, classificando
+  a alegação como 'puramente especulativa'.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

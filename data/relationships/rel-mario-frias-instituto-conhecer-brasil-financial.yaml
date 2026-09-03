@@ -1,0 +1,33 @@
+id: rel-mario-frias-instituto-conhecer-brasil-financial
+kind: relationship
+from_id: mario-frias
+to_id: instituto-conhecer-brasil
+relationship_type: financial
+directed: true
+label: R$ 2 milhões em emendas em 2024, segundo o Estadão; negado pela defesa
+start_date: '2024'
+description: Segundo o Estadão, o deputado Mário Frias, que assina o roteiro de 'Dark Horse', destinou
+  em 2024 R$ 2 milhões em emendas para a ONG ligada ao filme. Em maio de 2026 sua defesa negou ao ministro
+  Flávio Dino qualquer triangulação de emendas.
+evidence_class: A
+confidence: 0.4
+status: disputed
+event_ids: []
+evidence_ids:
+- ev-frias-emendas-2-milhoes-icb
+source_ids:
+- src-correiodoestado-2026-08-24-dino-compartilhamento
+document_ids: []
+cited_position:
+- kind: denial
+  summary: A defesa afirmou que a alegação de triangulação é 'puramente especulativa', baseada em pré-julgamento
+    e juridicamente irrelevante.
+  source_ids:
+  - src-correiodoestado-2026-08-24-dino-compartilhamento
+  by_id: mario-frias
+  date: 2026-05
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

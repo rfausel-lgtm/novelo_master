@@ -10,7 +10,9 @@ summary: Produtora sediada nos Estados Unidos responsável pelo filme 'Dark Hors
   pelo Havengate Development Fund, segundo a CNN. Declarou, em perícia privada anexada a processo em São
   Paulo, custo de US$ 13,3 milhões para o filme (Metrópoles). Sua dona, segundo o Metrópoles, representa
   também o Instituto Conhecer Brasil, investigado por suspeita de desvio de contrato com a Prefeitura
-  de São Paulo.
+  de São Paulo. É dirigida por Karina Ferreira da Gama, que também preside o Instituto Conhecer Brasil,
+  contratado pela Prefeitura de São Paulo em termo de colaboração de R$ 108 milhões investigado pela Polícia
+  Civil.
 why_in_novelo: Produtora do filme 'Dark Horse', destinatária final, segundo a imprensa, dos recursos transferidos
   por Daniel Vorcaro a fundo nos Estados Unidos.
 cited_position:
@@ -21,6 +23,13 @@ cited_position:
   - src-gazeta-2026-05-13-frias-nega
   by_id: go-up-entertainment
   date: '2026-05-13'
+- kind: denial
+  summary: Karina Gama, que responde pela produtora, nega organização criminosa, evasão de divisas e lavagem
+    de dinheiro, e comprometeu-se a entregar a prestação de contas do filme à PF.
+  source_ids:
+  - src-cnn-2026-08-26-produtora-entrega-documentos
+  by_id: karina-ferreira-da-gama
+  date: '2026-08-26'
 open_questions:
 - A estrutura societária da Go Up e sua relação formal com o Havengate Development Fund não foram verificadas
   em registros oficiais pela equipe.
@@ -30,6 +39,12 @@ source_ids:
 - src-cnn-2026-09-dark-horse-coaf
 - src-metropoles-2026-06-produtora-dark-horse-75-milhoes
 - src-gazeta-2026-05-13-frias-nega
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+- src-cnn-2026-08-26-produtora-entrega-documentos
+- src-correiodoestado-2026-08-24-dino-compartilhamento
+- src-jb-2026-05-17-quem-e-karina-ferreira-da-gama
 jurisdiction: Estados Unidos
 review_status: published
 reviewer: orquestrador

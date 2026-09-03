@@ -1,0 +1,27 @@
+id: flavio-dino
+kind: person
+name: Flávio Dino
+category: judge
+role: Ministro do Supremo Tribunal Federal
+positions:
+- title: Ministro
+  organization_id: supremo-tribunal-federal
+  source_ids:
+  - src-correiodoestado-2026-08-24-dino-compartilhamento
+summary: Relator no STF do inquérito que apura o suposto uso de recursos de emendas parlamentares no financiamento
+  do filme 'Dark Horse'. Em 24/08/2026 autorizou o compartilhamento, com a Polícia Federal, dos dados
+  apreendidos pela Polícia Civil de São Paulo na operação contra Karina Ferreira da Gama.
+why_in_novelo: É o relator, no STF, da frente que apura o uso de emendas parlamentares no financiamento
+  do filme, e autorizou o repasse dos dados da operação paulista à Polícia Federal.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-correiodoestado-2026-08-24-dino-compartilhamento
+- src-cnn-2026-09-dark-horse-coaf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

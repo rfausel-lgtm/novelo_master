@@ -1,0 +1,26 @@
+id: rel-karina-ferreira-da-gama-go-up-entertainment-corporate
+kind: relationship
+from_id: karina-ferreira-da-gama
+to_id: go-up-entertainment
+relationship_type: corporate
+directed: true
+label: responde pela produtora
+description: Karina Ferreira da Gama responde pela Go Up Entertainment, produtora do filme 'Dark Horse'.
+evidence_class: C
+confidence: 0.9
+status: verified
+event_ids: []
+evidence_ids:
+- ev-karina-preside-icb-e-responde-go-up
+source_ids:
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+- src-cnn-2026-08-26-produtora-entrega-documentos
+- src-jb-2026-05-17-quem-e-karina-ferreira-da-gama
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

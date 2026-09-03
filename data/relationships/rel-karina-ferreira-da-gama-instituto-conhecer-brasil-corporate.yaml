@@ -1,0 +1,26 @@
+id: rel-karina-ferreira-da-gama-instituto-conhecer-brasil-corporate
+kind: relationship
+from_id: karina-ferreira-da-gama
+to_id: instituto-conhecer-brasil
+relationship_type: corporate
+directed: true
+label: preside a associação
+description: Karina Ferreira da Gama preside o Instituto Conhecer Brasil, associação privada sem fins
+  lucrativos que firmou o Termo de Colaboração 01/SMIT/2024 com a Prefeitura de São Paulo.
+evidence_class: C
+confidence: 0.9
+status: verified
+event_ids: []
+evidence_ids:
+- ev-karina-preside-icb-e-responde-go-up
+source_ids:
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+- src-jb-2026-05-17-quem-e-karina-ferreira-da-gama
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

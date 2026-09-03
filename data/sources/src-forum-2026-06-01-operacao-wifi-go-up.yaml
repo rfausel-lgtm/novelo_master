@@ -1,0 +1,26 @@
+id: src-forum-2026-06-01-operacao-wifi-go-up
+kind: source
+title: Go Up, produtora do filme de Bolsonaro, é alvo de operação da Polícia Civil por lavagem e desvio
+  de dinheiro público
+publisher: Revista Fórum
+publication_date: '2026-06-01'
+retrieved_at: '2026-09-03'
+url: https://revistaforum.com.br/politica/go-up-filme-bolsonaro-policia/
+source_type: press
+summary: Em 01/06/2026 a Polícia Civil de São Paulo deflagrou a Operação Wi-Fi para apurar suspeita de
+  fraude no contrato de R$ 108 milhões entre a Prefeitura e o Instituto Conhecer Brasil. Oito mandados
+  de busca e apreensão autorizados pela 1ª Vara Regional das Garantias alcançaram o ICB, a Go Up Entertainment,
+  endereços ligados a Karina Ferreira da Gama e a Secretaria Municipal de Inovação e Tecnologia. O contrato
+  investigado é o Termo de Colaboração 01/SMIT/2024, para 5 mil pontos de wi-fi gratuito em comunidades
+  periféricas, com custo mensal de R$ 1,8 mil por ponto.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+author: Diego Feijó de Abreu
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

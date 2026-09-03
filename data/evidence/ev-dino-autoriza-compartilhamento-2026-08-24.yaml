@@ -1,0 +1,16 @@
+id: ev-dino-autoriza-compartilhamento-2026-08-24
+kind: evidence
+classification: C
+proposition: Em 24/08/2026 o ministro Flávio Dino autorizou o compartilhamento com a Polícia Federal dos
+  dados apreendidos na operação da Polícia Civil de São Paulo, a pedido da própria PF, para ampliar as
+  investigações sobre desvio de recursos públicos, sobretudo emendas parlamentares.
+document_ids: []
+source_ids:
+- src-correiodoestado-2026-08-24-dino-compartilhamento
+- src-cnn-2026-08-26-produtora-entrega-documentos
+date: '2026-08-24'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

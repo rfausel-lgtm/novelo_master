@@ -19,6 +19,13 @@ cited_position:
   - src-gazeta-2026-05-13-frias-nega
   by_id: mario-frias
   date: '2026-05-13'
+- kind: denial
+  summary: Em maio de 2026 a defesa negou ao ministro Flávio Dino qualquer triangulação de emendas para
+    financiar o filme, classificando a alegação como 'puramente especulativa'.
+  source_ids:
+  - src-correiodoestado-2026-08-24-dino-compartilhamento
+  by_id: mario-frias
+  date: 2026-05
 open_questions:
 - O corpus não registra manifestação de Frias sobre o áudio de 11/12/2024 divulgado pelo Intercept em
   19/05/2026.
@@ -27,6 +34,7 @@ source_ids:
 - src-intercept-2026-05-19-audio-frias
 - src-intercept-2026-05-14-plano-bolsonaro-mansao
 - src-intercept-2026-05-15-eduardo-contrato-dark-horse
+- src-correiodoestado-2026-08-24-dino-compartilhamento
 aliases:
 - Mario Frias
 full_name: Mário Frias

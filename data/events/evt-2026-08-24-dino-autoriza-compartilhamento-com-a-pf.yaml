@@ -1,0 +1,31 @@
+id: evt-2026-08-24-dino-autoriza-compartilhamento-com-a-pf
+kind: event
+title: Dino autoriza a Polícia Federal a acessar os dados da operação paulista
+event_type: judicial_decision
+date: '2026-08-24'
+date_precision: day
+participant_ids:
+- flavio-dino
+- policia-federal
+- policia-civil-de-sao-paulo
+- karina-ferreira-da-gama
+- supremo-tribunal-federal
+description: A pedido da Polícia Federal, o ministro Flávio Dino autorizou o compartilhamento dos dados
+  apreendidos pela Polícia Civil de São Paulo, para ampliar as investigações sobre desvio de recursos
+  públicos, sobretudo emendas parlamentares, no financiamento do filme. Em 26/08 a Polícia Civil enviou
+  o material.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-dino-autoriza-compartilhamento-2026-08-24
+- ev-policia-civil-envia-dados-pf-2026-08-26
+source_ids:
+- src-correiodoestado-2026-08-24-dino-compartilhamento
+- src-cnn-2026-08-26-produtora-entrega-documentos
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

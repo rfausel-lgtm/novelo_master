@@ -1,0 +1,59 @@
+id: claim-recursos-do-contrato-de-wifi-teriam-irrigado-a-produtora
+kind: claim
+statement: Recursos do contrato de wi-fi da Prefeitura de São Paulo com o Instituto Conhecer Brasil teriam
+  sido desviados para a produtora Go Up Entertainment, responsável pelo filme 'Dark Horse'.
+classification: A
+status: disputed
+claimant_id: policia-civil-de-sao-paulo
+claimant: Polícia Civil de São Paulo e Ministério Público de São Paulo
+date: '2026-06-01'
+related_entity_ids:
+- instituto-conhecer-brasil
+- go-up-entertainment
+- karina-ferreira-da-gama
+- secretaria-municipal-de-inovacao-e-tecnologia
+event_ids:
+- evt-2026-06-01-operacao-wifi-livre
+- evt-2026-08-24-dino-autoriza-compartilhamento-com-a-pf
+evidence_ids:
+- ev-operacao-wifi-livre-2026-06-01
+- ev-ssp-crimes-apurados-wifi
+- ev-wifi-3200-pontos-e-aditivos
+- ev-karina-nega-crimes
+- ev-prefeitura-sp-repudia-ilacoes
+source_ids:
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+- src-cnn-2026-08-26-produtora-entrega-documentos
+- src-correiodoestado-2026-08-24-dino-compartilhamento
+limits: É hipótese de investigação, não conclusão. O corpus não tem o termo de colaboração, os pareceres
+  do TCM, as notas fiscais nem qualquer decisão de mérito. A operação apura fraude na licitação e na execução
+  do contrato; o desvio para a produtora é a linha que levou a PF a pedir os dados.
+counter_position:
+- kind: denial
+  summary: Karina Gama nega organização criminosa, evasão de divisas e lavagem de dinheiro e diz que entregará
+    a prestação de contas do filme.
+  source_ids:
+  - src-cnn-2026-08-26-produtora-entrega-documentos
+  by_id: karina-ferreira-da-gama
+  date: '2026-08-26'
+- kind: denial
+  summary: A Prefeitura repudia 'ilações de desvio de recursos públicos' e afirma que o contrato seguiu
+    a legalidade, a transparência e a economicidade.
+  source_ids:
+  - src-jbrasilia-2026-06-01-operacao-wifi-livre
+  by_id: secretaria-municipal-de-inovacao-e-tecnologia
+  date: '2026-06-01'
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: 'Procurou-se decisão judicial ou peça de acusação que afirmasse o desvio: não
+    há no corpus. O que existe são buscas autorizadas, a descrição dos crimes apurados pela SSP-SP e o
+    compartilhamento de dados deferido por Dino. Registrada como alegação em disputa.'
+  outcome: disputed
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

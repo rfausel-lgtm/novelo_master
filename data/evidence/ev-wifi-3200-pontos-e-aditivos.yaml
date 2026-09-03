@@ -1,0 +1,15 @@
+id: ev-wifi-3200-pontos-e-aditivos
+kind: evidence
+classification: C
+proposition: O cronograma previa 5 mil pontos até junho de 2025, mas apenas cerca de 3,2 mil teriam sido
+  instalados, e foram assinados três termos aditivos em curto intervalo de tempo.
+document_ids: []
+source_ids:
+- src-acritica-2026-06-01-operacao-wifi-livre
+- src-jb-2026-05-17-quem-e-karina-ferreira-da-gama
+date: 2025-06
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

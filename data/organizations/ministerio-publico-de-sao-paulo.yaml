@@ -1,0 +1,23 @@
+id: ministerio-publico-de-sao-paulo
+kind: organization
+name: Ministério Público de São Paulo
+aliases:
+- MP-SP
+- MPSP
+org_type: public_body
+summary: A Promotoria de Justiça do Patrimônio Público e Social da Capital acompanha a apuração sobre
+  a implantação, operação e manutenção dos 5 mil pontos do programa WiFi Livre SP.
+why_in_novelo: Acompanha, pela Promotoria do Patrimônio Público, a apuração sobre o contrato de wi-fi
+  da Prefeitura de São Paulo.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-acritica-2026-06-01-operacao-wifi-livre
+jurisdiction: São Paulo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

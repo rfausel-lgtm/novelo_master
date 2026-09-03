@@ -1,0 +1,17 @@
+id: ev-operacao-wifi-livre-2026-06-01
+kind: evidence
+classification: C
+proposition: Em 01/06/2026 a Polícia Civil de São Paulo cumpriu oito mandados de busca e apreensão, autorizados
+  pela 1ª Vara Regional das Garantias, contra o Instituto Conhecer Brasil, a Go Up Entertainment, endereços
+  ligados a Karina Ferreira da Gama e a sede da Secretaria Municipal de Inovação e Tecnologia.
+document_ids: []
+source_ids:
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+date: '2026-06-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

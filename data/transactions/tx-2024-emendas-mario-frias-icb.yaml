@@ -1,0 +1,32 @@
+id: tx-2024-emendas-mario-frias-icb
+kind: transaction
+title: Emendas parlamentares de Mário Frias à ONG ligada ao filme (R$ 2 milhões)
+transaction_type: donation
+from_id: mario-frias
+to_id: instituto-conhecer-brasil
+currency: BRL
+date: '2024'
+date_precision: year
+description: Segundo o Estadão, o deputado destinou em 2024 R$ 2 milhões em emendas para a ONG ligada
+  ao filme 'Dark Horse'. A defesa nega triangulação de recursos.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-frias-emendas-2-milhoes-icb
+source_ids:
+- src-correiodoestado-2026-08-24-dino-compartilhamento
+event_ids: []
+amount: 2000000
+amount_text: R$ 2 milhões em emendas
+cited_position:
+- kind: denial
+  summary: A defesa negou triangulação de emendas ao ministro Flávio Dino.
+  source_ids:
+  - src-correiodoestado-2026-08-24-dino-compartilhamento
+  by_id: mario-frias
+  date: 2026-05
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

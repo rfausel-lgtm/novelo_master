@@ -1,0 +1,50 @@
+id: evt-2026-06-01-operacao-wifi-livre
+kind: event
+title: 'Operação Wi-Fi Livre: buscas no Instituto Conhecer Brasil, na Go Up e na Secretaria Municipal'
+event_type: investigation_step
+date: '2026-06-01'
+date_precision: day
+participant_ids:
+- policia-civil-de-sao-paulo
+- instituto-conhecer-brasil
+- go-up-entertainment
+- karina-ferreira-da-gama
+- secretaria-municipal-de-inovacao-e-tecnologia
+- ministerio-publico-de-sao-paulo
+description: A Polícia Civil de São Paulo cumpriu oito mandados de busca e apreensão autorizados pela
+  1ª Vara Regional das Garantias, para apurar suspeita de fraude no contrato de R$ 108 milhões da Prefeitura
+  com o Instituto Conhecer Brasil. A SSP-SP informou que apura frustração do caráter competitivo de licitação,
+  fraude na execução de contrato administrativo e emprego irregular de verbas públicas.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-operacao-wifi-livre-2026-06-01
+- ev-ssp-crimes-apurados-wifi
+- ev-wifi-notas-16-5-milhoes
+source_ids:
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+document_ids: []
+public_act_ids:
+- ato-2024-termo-colaboracao-01-smit
+cited_position:
+- kind: denial
+  summary: A Prefeitura repudia 'ilações de desvio de recursos públicos' e afirma que o contrato seguiu
+    os princípios da legalidade, transparência e economicidade.
+  source_ids:
+  - src-jbrasilia-2026-06-01-operacao-wifi-livre
+  by_id: secretaria-municipal-de-inovacao-e-tecnologia
+  date: '2026-06-01'
+- kind: denial
+  summary: Karina Gama nega organização criminosa, evasão de divisas e lavagem de dinheiro.
+  source_ids:
+  - src-cnn-2026-08-26-produtora-entrega-documentos
+  by_id: karina-ferreira-da-gama
+  date: '2026-08-26'
+location: São Paulo (SP)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,44 @@
+id: karina-ferreira-da-gama
+kind: person
+name: Karina Ferreira da Gama
+category: businessperson
+role: Presidente do Instituto Conhecer Brasil e responsável pela produtora Go Up Entertainment
+positions: []
+summary: Preside o Instituto Conhecer Brasil, associação que firmou com a Prefeitura de São Paulo o Termo
+  de Colaboração 01/SMIT/2024, de R$ 108 milhões, para 5 mil pontos de wi-fi gratuito, e responde pela
+  Go Up Entertainment, produtora do filme 'Dark Horse'. Foi alvo da Operação Wi-Fi Livre da Polícia Civil
+  de São Paulo em 01/06/2026. Nega os crimes de organização criminosa, evasão de divisas e lavagem de
+  dinheiro e comprometeu-se a entregar à PF a prestação de contas do filme.
+why_in_novelo: É a pessoa que liga o contrato de wi-fi da Prefeitura de São Paulo à produtora do filme
+  financiado por Daniel Vorcaro, e foi alvo de operação policial sobre esse contrato.
+cited_position:
+- kind: denial
+  summary: Nega os crimes de organização criminosa, evasão de divisas e lavagem de dinheiro.
+  source_ids:
+  - src-cnn-2026-08-26-produtora-entrega-documentos
+  by_id: karina-ferreira-da-gama
+  date: '2026-08-26'
+- kind: clarification
+  summary: Comprometeu-se a entregar voluntariamente à PF, até 28/08/2026, notas fiscais, contratos e
+    a prestação de contas do filme, com ao menos 300 contratos de profissionais da produção.
+  source_ids:
+  - src-cnn-2026-08-26-produtora-entrega-documentos
+  by_id: karina-ferreira-da-gama
+  date: '2026-08-26'
+open_questions:
+- O corpus não tem o Termo de Colaboração 01/SMIT/2024 nem os relatórios do TCM; os números vêm da imprensa.
+- Não há denúncia nem decisão de mérito sobre a empresária no corpus.
+source_ids:
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+- src-cnn-2026-08-26-produtora-entrega-documentos
+- src-correiodoestado-2026-08-24-dino-compartilhamento
+- src-jb-2026-05-17-quem-e-karina-ferreira-da-gama
+aliases:
+- Karina Gama
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,27 @@
+id: policia-civil-de-sao-paulo
+kind: organization
+name: Polícia Civil de São Paulo
+aliases:
+- DICCA/DPPC
+org_type: public_body
+summary: Por meio da 2ª Delegacia de Crimes Contra a Administração Pública, Combate à Corrupção e Lavagem
+  de Dinheiro, deflagrou em 01/06/2026 a Operação Wi-Fi Livre sobre o contrato da Prefeitura com o Instituto
+  Conhecer Brasil, e em 26/08/2026 enviou os dados à Polícia Federal.
+why_in_novelo: Conduziu a operação sobre o contrato de wi-fi que liga a Prefeitura de São Paulo à produtora
+  do filme 'Dark Horse'.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+- src-cnn-2026-08-26-produtora-entrega-documentos
+- src-correiodoestado-2026-08-24-dino-compartilhamento
+jurisdiction: São Paulo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

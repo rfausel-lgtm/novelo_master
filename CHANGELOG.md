@@ -7,6 +7,12 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 9 do corpus, frente de São Paulo: Termo de Colaboração 01/SMIT/2024, de R$ 108 milhões, entre a
+  Secretaria Municipal de Inovação e Tecnologia e o Instituto Conhecer Brasil para 5 mil pontos de wi-fi
+  gratuito; Operação Wi-Fi Livre da Polícia Civil (01/06/2026), com oito mandados contra o instituto, a
+  Go Up Entertainment, endereços de Karina Ferreira da Gama e a sede da secretaria; autorização do
+  ministro Flávio Dino (24/08/2026) para a Polícia Federal acessar os dados; e emendas de R$ 2 milhões
+  atribuídas a Mário Frias, negadas pela defesa. Contraditório da empresária e da prefeitura registrado.
 - Lote 8 do corpus: Atos do Presidente do Banco Central nº 1.377 e nº 1.378, lidos no Diário Oficial
   de 19/02/2026, que decretam a liquidação do Banco Pleno e da Pleno DTVM e fixam o termo legal em
   22/12/2025; data certa da liquidação da CBSF, antiga Reag (15/01/2026); e a representação da Polícia

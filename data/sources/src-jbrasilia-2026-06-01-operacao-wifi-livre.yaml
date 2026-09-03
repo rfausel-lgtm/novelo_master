@@ -1,0 +1,23 @@
+id: src-jbrasilia-2026-06-01-operacao-wifi-livre
+kind: source
+title: Polícia Civil faz operação sobre contrato de wi-fi em São Paulo
+publisher: Jornal de Brasília
+publication_date: '2026-06-01'
+retrieved_at: '2026-09-03'
+url: https://jornaldebrasilia.com.br/noticias/brasil/policia-civil-faz-operacao-sobre-contrato-de-wi-fi-em-sao-paulo/
+source_type: press
+summary: A operação teve o Instituto Conhecer Brasil como principal alvo, com diligências em empresas
+  subcontratadas e na Secretaria Municipal para recolher contratos e prestações de contas. A entidade
+  teria apresentado ao menos R$ 16,5 milhões em notas fiscais consideradas irregulares. A prefeitura divulgou
+  nota em que 'repudia veementemente ilações de desvio de recursos públicos', afirma que o contrato seguiu
+  'rigorosamente os princípios da legalidade, transparência e economicidade' e diz colaborar com as investigações.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

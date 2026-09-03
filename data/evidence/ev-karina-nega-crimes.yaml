@@ -1,0 +1,16 @@
+id: ev-karina-nega-crimes
+kind: evidence
+classification: A
+proposition: Karina Gama nega os crimes de organização criminosa, evasão de divisas e lavagem de dinheiro
+  e comprometeu-se a entregar voluntariamente à PF, até 28/08/2026, notas fiscais, contratos e a prestação
+  de contas do filme.
+document_ids: []
+source_ids:
+- src-cnn-2026-08-26-produtora-entrega-documentos
+attributed_to_id: karina-ferreira-da-gama
+date: '2026-08-26'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

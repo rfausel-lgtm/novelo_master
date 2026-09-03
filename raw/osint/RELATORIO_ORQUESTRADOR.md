@@ -26,9 +26,9 @@ Wagner (relatório da PF, saída da liderança), Fábio Faria (projeto eólico, 
 
 Ainda pendente:
 
-- Karina Ferreira da Gama / Instituto Conhecer Brasil (JB 17/05/2026; Metrópoles): contrato de R$ 108 milhões
-  com a Prefeitura de São Paulo; não criado registro de pessoa por envolver investigação estadual sem
-  documento oficial lido.
+- Karina Ferreira da Gama / Instituto Conhecer Brasil: PUBLICADO no lote 9, com cinco fontes independentes
+  e o contraditório da empresária e da prefeitura. Falta o Termo de Colaboração 01/SMIT/2024 em si, os
+  pareceres do TCM e a decisão da 1ª Vara Regional das Garantias que autorizou as buscas.
 - Airton Vieira (Gazeta 14/08/2024): capturado, mas sem vínculo documentado com o caso Master nas fontes lidas.
 - Bruno Bianco (JOTA 24/07/2023) e João Camargo/Esfera (InvestNews 05/06/2025): sem fato ligado ao Master
   além de menções; Vorcaro aparece em eventos da Esfera (foto do Poder360), o que pode virar evento social.

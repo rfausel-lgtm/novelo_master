@@ -1,0 +1,15 @@
+id: ev-wifi-notas-16-5-milhoes
+kind: evidence
+classification: A
+proposition: Segundo o Jornal de Brasília, o instituto teria apresentado à prefeitura ao menos R$ 16,5
+  milhões em notas fiscais consideradas irregulares para justificar despesas do contrato.
+document_ids: []
+source_ids:
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+attributed_to: Jornal de Brasília
+date: '2026-06-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

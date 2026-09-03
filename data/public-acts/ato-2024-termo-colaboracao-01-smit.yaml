@@ -1,0 +1,30 @@
+id: ato-2024-termo-colaboracao-01-smit
+kind: public_act
+title: Termo de Colaboração 01/SMIT/2024 entre a Prefeitura de São Paulo e o Instituto Conhecer Brasil
+act_type: administrative
+date: '2024'
+date_precision: year
+issuer_id: secretaria-municipal-de-inovacao-e-tecnologia
+issuer: Secretaria Municipal de Inovação e Tecnologia de São Paulo
+actor_ids: []
+affected_ids:
+- instituto-conhecer-brasil
+description: Termo de colaboração de R$ 108 milhões para implantação, operação e manutenção de 5 mil pontos
+  de wi-fi gratuito em comunidades periféricas, no programa WiFi Livre SP, com custo mensal de R$ 1,8
+  mil por ponto. O documento não foi lido pela equipe; os termos vêm da imprensa.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-termo-colaboracao-01-smit-2024
+- ev-wifi-3200-pontos-e-aditivos
+source_ids:
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+document_ids: []
+reference: Termo de Colaboração 01/SMIT/2024
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

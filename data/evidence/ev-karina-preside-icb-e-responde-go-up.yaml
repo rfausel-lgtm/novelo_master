@@ -1,0 +1,17 @@
+id: ev-karina-preside-icb-e-responde-go-up
+kind: evidence
+classification: C
+proposition: Karina Ferreira da Gama preside o Instituto Conhecer Brasil e responde pela Go Up Entertainment,
+  produtora do filme 'Dark Horse'.
+document_ids: []
+source_ids:
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+- src-cnn-2026-08-26-produtora-entrega-documentos
+- src-jb-2026-05-17-quem-e-karina-ferreira-da-gama
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,17 @@
+id: ev-termo-colaboracao-01-smit-2024
+kind: evidence
+classification: C
+proposition: O Termo de Colaboração 01/SMIT/2024, de R$ 108 milhões, previa a implantação, operação e
+  manutenção de 5 mil pontos de wi-fi gratuito em comunidades periféricas de São Paulo, no programa WiFi
+  Livre SP, ao custo mensal de R$ 1,8 mil por ponto.
+document_ids: []
+source_ids:
+- src-forum-2026-06-01-operacao-wifi-go-up
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+- src-acritica-2026-06-01-operacao-wifi-livre
+date: '2024'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

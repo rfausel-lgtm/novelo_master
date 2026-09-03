@@ -1,0 +1,16 @@
+id: ev-prefeitura-sp-repudia-ilacoes
+kind: evidence
+classification: A
+proposition: A Prefeitura de São Paulo divulgou nota em que 'repudia veementemente ilações de desvio de
+  recursos públicos', afirma que o contrato seguiu 'rigorosamente os princípios da legalidade, transparência
+  e economicidade' e informa que colabora com as investigações.
+document_ids: []
+source_ids:
+- src-jbrasilia-2026-06-01-operacao-wifi-livre
+attributed_to_id: secretaria-municipal-de-inovacao-e-tecnologia
+date: '2026-06-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

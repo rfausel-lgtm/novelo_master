@@ -1,0 +1,17 @@
+id: ev-ssp-crimes-apurados-wifi
+kind: evidence
+classification: C
+proposition: A Secretaria de Segurança Pública de São Paulo informou que a investigação apura possíveis
+  crimes de frustração do caráter competitivo de licitação, fraude na execução de contrato administrativo
+  e emprego irregular de verbas públicas.
+document_ids: []
+source_ids:
+- src-acritica-2026-06-01-operacao-wifi-livre
+- src-forum-2026-06-01-operacao-wifi-go-up
+attributed_to: SSP-SP
+date: '2026-06-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

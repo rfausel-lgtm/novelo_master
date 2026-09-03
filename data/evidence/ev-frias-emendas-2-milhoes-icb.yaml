@@ -1,0 +1,17 @@
+id: ev-frias-emendas-2-milhoes-icb
+kind: evidence
+classification: A
+proposition: Segundo o Estadão, o roteiro de 'Dark Horse' é assinado pelo deputado Mário Frias, que em
+  2024 destinou R$ 2 milhões em emendas para a ONG ligada ao filme. Em maio de 2026 a defesa do deputado
+  negou ao ministro Flávio Dino qualquer triangulação de emendas, classificando a alegação como 'puramente
+  especulativa'.
+document_ids: []
+source_ids:
+- src-correiodoestado-2026-08-24-dino-compartilhamento
+attributed_to: Estadão Conteúdo
+date: '2024'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
