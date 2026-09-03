@@ -23,6 +23,7 @@ cited_position:
   summary: Mantega não respondeu ao Poder360 até a publicação.
   source_ids:
   - src-poder360-2026-04-08-receita-pagamentos-master
+  by_id: guido-mantega
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

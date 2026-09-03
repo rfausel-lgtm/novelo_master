@@ -22,3 +22,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/rodrigo-rollemberg.png
+  source: Wikimedia Commons
+  author: Dênio Simões/Agência Brasília
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:Rodrigo_Rollemberg,_GOV_DF_2016_v2.png
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Rodrigo Rollemberg

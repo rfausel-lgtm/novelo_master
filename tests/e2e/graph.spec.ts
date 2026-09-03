@@ -121,3 +121,25 @@ test.describe("Stress do grafo (execução agendada/manual)", () => {
     await physics.click();
   });
 });
+
+test.describe("Card de conexão (corpus real)", () => {
+  test("link direto abre a conexão com títulos de fonte e contraditório", async ({ page }) => {
+    await page.goto("/grafo?e=rel-daniel-vorcaro-alexandre-de-moraes-allegation");
+    await expect(page.getByText("Por que estes nós estão conectados?")).toBeVisible();
+
+    // Fontes com título humano, não identificador técnico.
+    const fontes = page.getByRole("link", { name: /Moraes nega que mensagem/i }).first();
+    await expect(fontes).toBeVisible();
+    await expect(fontes).toHaveAttribute("href", /^\/fontes\//);
+    await expect(page.getByText(/^src-/)).toHaveCount(0);
+
+    // Contraditório específico da relação, com autor identificado.
+    await expect(page.getByRole("heading", { name: "Posição dos envolvidos" })).toBeVisible();
+    await expect(page.getByText("Alexandre de Moraes", { exact: false }).first()).toBeVisible();
+    await expect(page.getByText(/Posição não localizada/)).toHaveCount(0);
+
+    // A força da evidência é declarada e o link continua compartilhável.
+    await expect(page.getByRole("heading", { name: "Força da evidência" })).toBeVisible();
+    expect(page.url()).toContain("e=rel-daniel-vorcaro-alexandre-de-moraes-allegation");
+  });
+});

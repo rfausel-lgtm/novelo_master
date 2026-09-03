@@ -69,6 +69,9 @@ export interface GraphNode {
   official_source_count: number;
   evidence_count: number;
   has_photo: boolean;
+  /** Caminho e texto alternativo da foto/marca, quando houver licença registrada. */
+  photo_path?: string;
+  photo_alt?: string;
   /** Posição pré-calculada (ForceAtlas2 no build). */
   x: number;
   y: number;
@@ -151,6 +154,13 @@ export interface GraphStats {
 }
 
 /** Contrato de public/data/graph.json consumido pelo cliente. */
+/** Camada probatória, servida à parte para não pesar o carregamento inicial. */
+export interface GraphLayerPayload {
+  version: number;
+  nodes: GraphNode[];
+  edges: GraphEdge[];
+}
+
 export interface GraphPayload {
   version: 1;
   built_at: string;

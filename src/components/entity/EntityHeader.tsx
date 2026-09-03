@@ -6,11 +6,18 @@ import { Pill } from "./badges";
 
 export function Avatar({ entity, size = 64 }: { entity: Person | Organization; size?: number }) {
   const label = entity.kind === "person" ? initials(entity.name) : "◼";
+  const isOrg = entity.kind === "organization";
   if (entity.photo) {
     return (
       <figure className="shrink-0">
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={entity.photo.path} alt={entity.photo.alt} width={size} height={size} className="border-border rounded-full border object-cover" />
+        <img
+          src={entity.photo.path}
+          alt={entity.photo.alt}
+          width={size}
+          height={size}
+          className={`border-border border ${isOrg ? "bg-bg-2 rounded-md object-contain p-1" : "rounded-full object-cover"}`}
+        />
         <figcaption className="text-fg-3 mt-1 max-w-[12rem] text-[10px]">
           {entity.photo.author} · {entity.photo.license} ·{" "}
           <a href={entity.photo.original_url} rel="noopener noreferrer" className="underline">

@@ -8,7 +8,7 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useMemo, useRef, useState, useSyncExternalStore } from "react";
-import type { GraphPayload } from "@/lib/graph/types";
+import type { GraphLayerPayload, GraphPayload } from "@/lib/graph/types";
 import { buildIndex } from "@/lib/graph/indexes";
 import { buildSigmaGraph } from "@/lib/graph/build";
 import { readPalette, PALETTE_FALLBACK } from "@/lib/graph/style";
@@ -27,6 +27,9 @@ import { BeforeAfter } from "./BeforeAfter";
 import { Legend } from "./Legend";
 import { PanelShell, ToolButton } from "./ui";
 import { useGraphState } from "./useGraphState";
+
+const EVIDENCE_LAYER_URL = "/data/graph-evidence.json";
+const EVIDENCE_CATEGORIES = ["document", "source", "claim", "evidence"] as const;
 
 const DATASETS: Record<string, string> = {
   demo: "/data/graph-demo.json",
@@ -59,8 +62,10 @@ export function GraphExplorer() {
     payload: null,
     error: null,
   });
-  const payload = loaded.dataset === dataset ? loaded.payload : null;
+  const base = loaded.dataset === dataset ? loaded.payload : null;
   const error = loaded.dataset === dataset ? loaded.error : null;
+  const [layerPayload, setLayerPayload] = useState<GraphLayerPayload | null>(null);
+  const layerRequest = useRef<Promise<GraphLayerPayload> | null>(null);
   const [legendOpen, setLegendOpen] = useState(false);
   const [layoutToken, setLayoutToken] = useState(0);
   const [layoutRunning, setLayoutRunning] = useState(false);
@@ -92,6 +97,48 @@ export function GraphExplorer() {
       cancelled = true;
     };
   }, [dataset]);
+
+  /*
+   * A camada probatória (296 nós e 996 arestas) quase triplicava o download inicial,
+   * mesmo desligada. Agora vem em arquivo próprio, buscado quando o leitor a liga.
+   */
+  const wantsLayer =
+    !dataset && EVIDENCE_CATEGORIES.some((c) => state.filters.nodeCategories.has(c));
+
+  const fetchLayer = useCallback(() => {
+    if (!layerRequest.current) {
+      layerRequest.current = fetch(EVIDENCE_LAYER_URL).then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json() as Promise<GraphLayerPayload>;
+      });
+    }
+    return layerRequest.current;
+  }, []);
+
+  useEffect(() => {
+    if (!wantsLayer || layerPayload) return;
+    let cancelled = false;
+    fetchLayer()
+      .then((l) => {
+        if (!cancelled) setLayerPayload(l);
+      })
+      .catch(() => {
+        if (!cancelled) layerRequest.current = null;
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [wantsLayer, layerPayload, fetchLayer]);
+
+  /* Derivado: enquanto o leitor quer a camada e ela não chegou, o painel avisa. */
+  const layerLoading = wantsLayer && !layerPayload;
+
+  const payload = useMemo(() => {
+    if (!base || !layerPayload) return base;
+    const nodes = [...base.nodes, ...layerPayload.nodes];
+    const edges = [...base.edges, ...layerPayload.edges];
+    return { ...base, nodes, edges, stats: { ...base.stats, nodes: nodes.length, edges: edges.length } };
+  }, [base, layerPayload]);
 
   const index = useMemo(() => (payload ? buildIndex(payload) : null), [payload]);
   const palette = useMemo(
@@ -266,6 +313,7 @@ export function GraphExplorer() {
             dispatch={dispatch}
             visibleNodes={view.visibleNodes.size}
             visibleEdges={view.visibleEdges.size}
+            layerLoading={layerLoading}
             onClose={() => dispatch({ type: "panel", panel: null })}
           />
         );

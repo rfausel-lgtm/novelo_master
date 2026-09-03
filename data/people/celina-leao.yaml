@@ -26,3 +26,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/celina-leao.jpg
+  source: Wikimedia Commons
+  author: Agência Brasília
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:F%C3%A1brica_Social_forma_170_alunos,_e_nova_turma_far%C3%A1_material_para_hospitais_(cropped).jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Celina Leão

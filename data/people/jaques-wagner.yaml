@@ -19,6 +19,7 @@ cited_position:
     PT declarou confiança no senador.
   source_ids:
   - src-poder360-2026-06-18-nona-fase-wagner
+  by_id: jaques-wagner
 - kind: denial
   summary: A assessoria negou participação na contratação de Guido Mantega pelo Master.
   source_ids:
@@ -52,3 +53,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/jaques-wagner.jpg
+  source: Wikimedia Commons
+  author: Agência Senado
+  license: Attribution
+  original_url: https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Jaques_Wagner.jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Jaques Wagner

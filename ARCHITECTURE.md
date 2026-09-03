@@ -12,13 +12,16 @@ data/*.yaml  ──►  scripts/build-data.ts  ──►  src/generated/corpus.j
     verdade)            ForceAtlas2)               generateStaticParams)
                               │
                               └──────────►  public/data/graph.json  ──►  /grafo (Sigma.js, client)
+                                            public/data/graph-evidence.json (camada probatória, sob demanda)
 ```
 
 1. **Fonte de verdade**: `data/<coleção>/<id>.yaml`, um registro por arquivo. O histórico Git é a
    trilha de auditoria editorial.
 2. **Compilação**: `npm run data:build` lê, valida (schemas Zod em `src/lib/schema`), aplica o lint
    editorial (`scripts/lib/lint.ts`), monta o grafo e calcula o layout (`scripts/lib/graph.ts`).
-   Erros bloqueiam o build. Saídas em `src/generated/` (páginas) e `public/data/graph.json` (grafo).
+   Erros bloqueiam o build. Saídas em `src/generated/` (páginas), `public/data/graph.json` (núcleo do
+   grafo) e `public/data/graph-evidence.json` (documentos, fontes, claims e evidências, buscados só
+   quando o leitor liga a camada probatória).
 3. **Site**: Next.js 16 (App Router) com `output: "export"`. Páginas individuais são pré-renderizadas
    e indexáveis; o grafo é client-side e carrega o JSON em runtime.
 

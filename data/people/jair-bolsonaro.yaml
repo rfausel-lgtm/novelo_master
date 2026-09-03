@@ -28,3 +28,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/jair-bolsonaro.jpg
+  source: Wikimedia Commons
+  author: Isac Nóbrega/PR
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:Jair_Bolsonaro_2019_Portrait_(3x4_cropped_center).jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Jair Bolsonaro

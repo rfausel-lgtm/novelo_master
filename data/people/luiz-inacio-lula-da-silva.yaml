@@ -23,6 +23,7 @@ cited_position:
   source_ids:
   - src-gazeta-2026-03-05-vorcaro-otimo-encontro
   - src-cnn-2026-01-lula-vorcaro-fora-da-agenda
+  by_id: luiz-inacio-lula-da-silva
 - by_id: presidencia-da-republica
   kind: clarification
   summary: 'Resposta via LAI: não foram produzidas atas, registros, filmagens ou gravações das reuniões.'
@@ -45,3 +46,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/luiz-inacio-lula-da-silva.jpg
+  source: Wikimedia Commons
+  author: Ricardo Stuckert/PR
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(ombros)_denoise.jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Lula

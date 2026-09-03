@@ -7,6 +7,11 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Retratos de 37 pessoas e marcas de 13 organizações, do Wikimedia Commons, com autoria, licença e
+  link para o arquivo original exibidos junto da imagem; coletor em `python/novelo_osint/fotos.py`
+  recusa licença não livre, imagem que não seja marca própria e arquivo repetido entre entidades.
+- Link direto para uma conexão (`/grafo?e=<id>`), compartilhável e coberto por teste de ponta a ponta
+  que verifica títulos de fonte e contraditório no card.
 - Camada probatória opcional no grafo, com nós de documentos, fontes, claims e evidências e vínculos
   explícitos de rastreabilidade; expansão até o 3º grau com contagem prévia; física contínua, arraste,
   fixação, restauração e rotação do mapa; job semanal/manual de stress com 5.000 nós e 25.000 arestas.
@@ -19,11 +24,17 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
   sequências temporais novas; contraditório atualizado em Toffoli, Nunes Marques, Alcolumbre, Wagner e Faria.
 - Teste unitário de `safeJsonLd`.
 
+### Alterado
+
+- A camada probatória saiu do arquivo principal do grafo e passou a ser baixada sob demanda
+  (`public/data/graph-evidence.json`): o carregamento inicial voltou de 1,4 MB para 586 KB.
+
 ### Corrigido
 
 - Cards de conexão agora exibem títulos das fontes e o contraditório específico; o recorte temporal
   oculta relações sem data com aviso explícito; rótulos do grafo usam supressão de colisões e truncamento
   visual preservando o texto completo no hover e nos painéis.
+- Contraditórios sem autor identificado passaram a nomear quem se manifestou, em vez de "Envolvido".
 - `safeJsonLd` não escapava `<` (a string `"<"` em TypeScript já é `<`), permitindo, em tese,
   fechamento prematuro da tag `<script type="application/ld+json">`. Apontado pelo CodeQL
   (`js/identity-replacement`).

@@ -25,3 +25,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/claudio-castro.jpg
+  source: Wikimedia Commons
+  author: Governo do Estado do Rio de Janeiro
+  license: CC BY 2.0 br
+  original_url: https://commons.wikimedia.org/wiki/File:Claudio_Castro_como_Vice_Governador_do_Rio_de_Janeiro.jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Cláudio Castro

@@ -22,3 +22,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/carlos-jordy.jpg
+  source: Wikimedia Commons
+  author: Unknown author
+  license: CC BY 4.0
+  original_url: https://commons.wikimedia.org/wiki/File:Carlos_Jordy_em_2022.jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Carlos Jordy

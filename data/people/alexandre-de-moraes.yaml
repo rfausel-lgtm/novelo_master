@@ -46,3 +46,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/alexandre-de-moraes.jpg
+  source: Wikimedia Commons
+  author: Isac Nóbrega
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:Ministro_Alexandre_de_Moraes_como_presidente_do_TSE.jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Alexandre de Moraes

@@ -48,17 +48,17 @@ function initials(label: string): string {
 function Avatar({ node }: { node: GraphNode }) {
   const [broken, setBroken] = useState(false);
   const color = NODE_COLOR_FALLBACK[node.category];
-  const imgKind = node.kind === "person" ? "pessoas" : "organizacoes";
-  if (node.has_photo && !broken) {
+  const isOrg = node.kind === "organization";
+  if (node.photo_path && !broken) {
     return (
       // eslint-disable-next-line @next/next/no-img-element
       <img
-        src={`/images/${imgKind}/${node.id}.webp`}
-        alt=""
+        src={node.photo_path}
+        alt={node.photo_alt ?? ""}
         width={48}
         height={48}
         onError={() => setBroken(true)}
-        className="border-border h-12 w-12 shrink-0 rounded-full border object-cover"
+        className={`border-border h-12 w-12 shrink-0 border ${isOrg ? "bg-bg-2 rounded-md object-contain p-1" : "rounded-full object-cover"}`}
       />
     );
   }

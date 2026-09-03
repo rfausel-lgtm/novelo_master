@@ -43,3 +43,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/gilberto-kassab.jpg
+  source: Wikimedia Commons
+  author: Governo do Estado de São Paulo
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:Governo_do_Estado_de_S%C3%A3o_Paulo_-_52600908378.jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Gilberto Kassab

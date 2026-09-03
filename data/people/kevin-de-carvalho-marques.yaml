@@ -26,6 +26,8 @@ open_questions:
 - O relatório do Coaf não foi lido pela equipe; os valores vêm de reportagens do Estadão e da Folha reproduzidas
   por outros veículos.
 - O corpus não registra o objeto dos serviços prestados nem os contratos.
+- Não há retrato próprio com licença livre; a interface mantém avatar neutro para não confundi-lo com
+  o pai.
 source_ids:
 - src-gazeta-2026-03-20-master-jbs-consult
 - src-band-2026-03-20-consult-filho-nunes-marques

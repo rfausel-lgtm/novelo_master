@@ -26,3 +26,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/henrique-meirelles.jpg
+  source: Wikimedia Commons
+  author: Governo do Estado de São Paulo
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Henrique_Meirelles,_secret%C3%A1rio_de_Fazenda,_Planejamento_e_Gest%C3%A3o_do_estado_de_S%C3%A3o_Paulo.jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Henrique Meirelles

@@ -28,3 +28,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/jbs.png
+  source: Wikimedia Commons
+  author: JBS
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:Logotipo_da_JBS_(2023).svg
+  retrieved_at: '2026-09-03'
+  alt: Marca do JBS

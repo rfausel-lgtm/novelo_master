@@ -55,3 +55,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/dias-toffoli.jpg
+  source: Wikimedia Commons
+  author: Nelson Jr.
+  license: Attribution
+  original_url: https://commons.wikimedia.org/wiki/File:Dias_Toffoli_em_outubro_de_2019.jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Dias Toffoli

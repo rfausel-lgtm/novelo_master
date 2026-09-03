@@ -19,3 +19,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/governo-do-distrito-federal.png
+  source: Wikimedia Commons
+  author: Governo do Distrito Federal; [ Decreto 1090 de 25/08/1969 Sem Revogação Expressa https://www.sinj.df.gov.br/sinj/Diario/
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:Bandeira_do_Distrito_Federal_(Brasil).svg
+  retrieved_at: '2026-09-03'
+  alt: Marca do Governo do Distrito Federal

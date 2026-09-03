@@ -73,7 +73,7 @@ Os dados vivem em `data/` e são compilados pelo pipeline:
 ```bash
 npm run data:validate   # schema + referências + regras editoriais (erros bloqueiam)
 npm run data:lint       # modo estrito: avisos em registros publicados também bloqueiam
-npm run data:build      # gera src/generated/corpus.json e public/data/graph.json
+npm run data:build      # gera src/generated/corpus.json, public/data/graph.json e a camada probatória
 npm run data:stress     # dataset sintético de 5.000 nós / 25.000 arestas para teste de carga
 ```
 

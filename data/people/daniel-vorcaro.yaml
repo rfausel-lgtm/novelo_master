@@ -23,6 +23,7 @@ cited_position:
     obstruído as investigações relacionadas à instituição financeira.
   source_ids:
   - src-cnn-2026-03-04-relembre-crise-master
+  by_id: daniel-vorcaro
 open_questions:
 - Não há, no corpus, a íntegra das decisões judiciais; o conteúdo registrado é o das comunicações oficiais
   do STF.
@@ -38,3 +39,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/daniel-vorcaro.jpg
+  source: Wikimedia Commons
+  author: Márcio Gustavo Vasconcelos
+  license: CC0
+  original_url: https://commons.wikimedia.org/wiki/File:Daniel_Vorcaro_-_2024_(cropped).jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Daniel Vorcaro

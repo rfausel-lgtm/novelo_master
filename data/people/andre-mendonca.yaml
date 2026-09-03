@@ -38,3 +38,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/andre-mendonca.jpg
+  source: Wikimedia Commons
+  author: Rosinei Coutinho/STF
+  license: Attribution
+  original_url: https://commons.wikimedia.org/wiki/File:Ministro_Andr%C3%A9_Mendon%C3%A7a_em_outubro_de_2025_(3x4).jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de André Mendonça

@@ -19,3 +19,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/camara-legislativa-do-distrito-federal.png
+  source: Wikimedia Commons
+  author: User:Nottimeeew00
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:CLDF2023.svg
+  retrieved_at: '2026-09-03'
+  alt: Marca do CLDF

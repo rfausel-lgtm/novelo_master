@@ -25,3 +25,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/cezinha-de-madureira.jpg
+  source: Wikimedia Commons
+  author: Zeca Ribeiro
+  license: CC BY 3.0
+  original_url: https://commons.wikimedia.org/wiki/File:Cezinha_de_Madureira_Sess%C3%A3o_Deliberativa_22-05-2024.jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Cezinha de Madureira

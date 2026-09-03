@@ -32,6 +32,7 @@ interface FiltersPanelProps {
   dispatch: (a: GraphAction) => void;
   visibleNodes: number;
   visibleEdges: number;
+  layerLoading?: boolean;
   onClose: () => void;
 }
 
@@ -73,6 +74,7 @@ export function FiltersPanel({
   dispatch,
   visibleNodes,
   visibleEdges,
+  layerLoading = false,
   onClose,
 }: FiltersPanelProps) {
   return (
@@ -137,8 +139,10 @@ export function FiltersPanel({
         >
           CAMADA DE EVIDÊNCIA
         </ToolButton>
-        <p className="text-fg-3 mt-1 text-[11px]">
-          Exibe documentos, fontes, claims e evidências e seus vínculos de rastreabilidade.
+        <p className="text-fg-3 mt-1 text-[11px]" aria-live="polite">
+          {layerLoading
+            ? "Carregando a camada probatória…"
+            : "Exibe documentos, fontes, claims e evidências e seus vínculos de rastreabilidade. Baixada sob demanda."}
         </p>
       </div>
 

@@ -35,3 +35,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/andre-esteves.jpg
+  source: Wikimedia Commons
+  author: LSP Luiz Prado
+  license: CC BY-SA 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:Andre_Esteves.jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de André Esteves

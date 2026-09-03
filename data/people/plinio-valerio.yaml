@@ -24,3 +24,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/plinio-valerio.jpg
+  source: Wikimedia Commons
+  author: Assessoria
+  license: CC0
+  original_url: https://commons.wikimedia.org/wiki/File:Foto_senador_pl%C3%ADnio.jfif.jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Plínio Valério

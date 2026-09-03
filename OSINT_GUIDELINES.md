@@ -154,6 +154,11 @@ Homônimos: se dois registros de pessoas distintas resultariam no mesmo id, acre
 - [ ] Toda pessoa e organização tem `why_in_novelo` em uma frase neutra e `cited_position` (ainda que `not_located` com descrição da busca).
 - [ ] Nenhum dado pessoal vedado ([EDITORIAL_POLICY.md](EDITORIAL_POLICY.md#6-dados-pessoais)).
 - [ ] Fotos com `source`, `author`, `license`, `original_url`, `retrieved_at`, `alt`.
+      Use `python python/novelo_osint/fotos.py --listar` para revisar candidatos do Wikimedia Commons
+      antes de `--baixar`: o coletor recusa licença não livre, imagem que não seja marca própria da
+      organização, situação vedada pela política editorial e arquivo já usado por outra entidade
+      (evita, por exemplo, publicar a foto do pai no dossiê do filho). A conferência visual do
+      resultado continua obrigatória.
 - [ ] Homônimos verificados (CPF parcial, cargo, empresa, cidade, data de nascimento quando pública) e descartados.
 - [ ] Data de publicação e data do fato distinguidas; `date_precision` declarada quando não se sabe o dia.
 - [ ] `npm run data:validate` sem erros; `npm run data:lint` sem erros nem avisos nos registros publicados.

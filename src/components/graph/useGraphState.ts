@@ -240,6 +240,7 @@ export function useGraphState() {
     if (initialized.current) return;
     initialized.current = true;
     const n = searchParams.get("n");
+    const e = searchParams.get("e");
     const ate = searchParams.get("ate");
     const patch: Partial<GraphState> = {};
     const filters: Partial<FilterState> = {};
@@ -247,7 +248,11 @@ export function useGraphState() {
     if (searchParams.get("documentado") === "1") filters.documentedOnly = true;
     if (ate && DATE_RE.test(ate)) filters.dateUntil = ate;
     if (Object.keys(filters).length) patch.filters = { ...defaultFilterState(), ...filters };
-    if (n) {
+    if (e) {
+      /* Link direto para uma conexão: o card da aresta é o que o leitor veio ver. */
+      patch.selectedEdge = e;
+      patch.panel = "edge";
+    } else if (n) {
       patch.selectedNode = n;
       patch.panel = "node";
       patch.cameraTarget = { id: n, token: 1 };
@@ -255,7 +260,7 @@ export function useGraphState() {
     if (Object.keys(patch).length) dispatch({ type: "init", patch });
   }, [searchParams]);
 
-  const { selectedNode, filters } = state;
+  const { selectedNode, selectedEdge, filters } = state;
   const { officialOnly, documentedOnly, dateUntil } = filters;
   useEffect(() => {
     if (typeof window === "undefined") return;
@@ -264,6 +269,7 @@ export function useGraphState() {
       const set = (k: string, v: string | null) =>
         v ? url.searchParams.set(k, v) : url.searchParams.delete(k);
       set("n", selectedNode);
+      set("e", selectedEdge);
       set("oficial", officialOnly ? "1" : null);
       set("documentado", documentedOnly ? "1" : null);
       set("ate", dateUntil ?? null);
@@ -272,7 +278,7 @@ export function useGraphState() {
       if (next !== cur) window.history.replaceState(window.history.state, "", next);
     }, 200);
     return () => clearTimeout(t);
-  }, [selectedNode, officialOnly, documentedOnly, dateUntil]);
+  }, [selectedNode, selectedEdge, officialOnly, documentedOnly, dateUntil]);
 
   const dataset = searchParams.get("dataset");
   const selectNode = useCallback(

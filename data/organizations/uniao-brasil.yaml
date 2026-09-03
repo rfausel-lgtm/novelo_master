@@ -17,3 +17,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/uniao-brasil.png
+  source: Wikimedia Commons
+  author: União Brasil
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:Uni%C3%A3o_Brasil_logo.svg
+  retrieved_at: '2026-09-03'
+  alt: Marca do União Brasil

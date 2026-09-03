@@ -19,3 +19,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/policia-federal.png
+  source: Wikimedia Commons
+  author: Munter He
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:Pol%C3%ADcia_Federal.svg
+  retrieved_at: '2026-09-03'
+  alt: Marca do Polícia Federal

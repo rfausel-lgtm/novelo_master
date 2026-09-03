@@ -56,3 +56,11 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+photo:
+  path: /fotos/fabio-faria.jpg
+  source: Wikimedia Commons
+  author: Palácio do Planalto
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:2020_Solenidade_de_Posse_dos_Ministros_de_Estado_das_Comunica%C3%A7%C3%B5es_da_Ci%C3%AAncia,_Tecnologia_e_Inova%C3%A7%C3%B5es_-_50016848041.jpg
+  retrieved_at: '2026-09-03'
+  alt: Retrato de Fábio Faria

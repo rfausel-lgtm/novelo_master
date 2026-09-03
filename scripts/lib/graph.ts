@@ -9,6 +9,7 @@ import type {
   GraphPayload,
   GraphStats,
   NodeCategory,
+  GraphLayerPayload,
 } from "../../src/lib/graph/types";
 
 function minDate(a?: string, b?: string): string | undefined {
@@ -50,6 +51,40 @@ export interface BuildGraphOptions {
  *  - métricas por nó, flags official/documented por aresta, datas para a time machine;
  *  - posições via ForceAtlas2 determinístico (seed fixa).
  */
+/** Categorias que compõem a camada probatória opcional. */
+export const EVIDENCE_LAYER_CATEGORIES = ["document", "source", "claim", "evidence"] as const;
+
+/**
+ * Separa a camada probatória do núcleo. O núcleo é o que todo visitante baixa;
+ * a camada só desce quando o leitor a liga nos filtros.
+ */
+export function splitEvidenceLayer(payload: GraphPayload): {
+  base: GraphPayload;
+  layer: GraphLayerPayload;
+} {
+  const layerCategories = new Set<string>(EVIDENCE_LAYER_CATEGORIES);
+  const layerNodeIds = new Set(
+    payload.nodes.filter((n) => layerCategories.has(n.category)).map((n) => n.id),
+  );
+  const inLayer = (edge: GraphEdge) =>
+    layerNodeIds.has(edge.source) || layerNodeIds.has(edge.target);
+  const baseNodes = payload.nodes.filter((n) => !layerNodeIds.has(n.id));
+  const baseEdges = payload.edges.filter((e) => !inLayer(e));
+  return {
+    base: {
+      ...payload,
+      nodes: baseNodes,
+      edges: baseEdges,
+      stats: { ...payload.stats, nodes: baseNodes.length, edges: baseEdges.length },
+    },
+    layer: {
+      version: payload.version,
+      nodes: payload.nodes.filter((n) => layerNodeIds.has(n.id)),
+      edges: payload.edges.filter(inLayer),
+    },
+  };
+}
+
 export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphPayload {
   const layout = opts.layout ?? true;
   const iterations = opts.iterations ?? 600;
@@ -128,6 +163,8 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
       role: p.role,
       why: p.why_in_novelo,
       has_photo: !!p.photo,
+      photo_path: p.photo?.path,
+      photo_alt: p.photo?.alt,
     });
   }
   for (const o of corpus.organizations) {
@@ -139,6 +176,8 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
       subtype: o.org_type,
       why: o.why_in_novelo,
       has_photo: !!o.photo,
+      photo_path: o.photo?.path,
+      photo_alt: o.photo?.alt,
     });
   }
   for (const e of corpus.events) {

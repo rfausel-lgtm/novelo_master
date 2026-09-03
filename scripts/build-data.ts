@@ -10,7 +10,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { loadCorpus } from "./lib/load";
 import { lintCorpus } from "./lib/lint";
-import { buildGraph } from "./lib/graph";
+import { buildGraph, splitEvidenceLayer } from "./lib/graph";
 import { printIssues } from "./lib/report";
 
 const ROOT = path.resolve(__dirname, "..");
@@ -41,7 +41,10 @@ fs.mkdirSync(GENERATED_DIR, { recursive: true });
 fs.mkdirSync(PUBLIC_DATA_DIR, { recursive: true });
 fs.writeFileSync(path.join(GENERATED_DIR, "corpus.json"), JSON.stringify(corpus));
 fs.writeFileSync(path.join(GENERATED_DIR, "stats.json"), JSON.stringify(graph.stats, null, 2));
-fs.writeFileSync(path.join(PUBLIC_DATA_DIR, "graph.json"), JSON.stringify(graph));
+/* O núcleo é o que todo visitante baixa; a camada probatória fica em arquivo à parte. */
+const { base, layer } = splitEvidenceLayer(graph);
+fs.writeFileSync(path.join(PUBLIC_DATA_DIR, "graph.json"), JSON.stringify(base));
+fs.writeFileSync(path.join(PUBLIC_DATA_DIR, "graph-evidence.json"), JSON.stringify(layer));
 fs.writeFileSync(
   path.join(GENERATED_DIR, ".gitkeep"),
   "# gerado por scripts/build-data.ts — não editar\n",
@@ -53,5 +56,6 @@ console.log(
     `${s.people} pessoas, ${s.organizations} organizações, ${s.events} eventos, ` +
     `${s.public_acts} atos, ${s.relationships} relações, ${s.documents} documentos, ` +
     `${s.sources} fontes (${s.official_sources} oficiais), ${s.evidence} evidências → ` +
-    `${s.nodes} nós / ${s.edges} arestas`,
+    `${base.nodes.length} nós / ${base.edges.length} arestas no núcleo ` +
+    `(+${layer.nodes.length} nós e ${layer.edges.length} arestas na camada probatória)`,
 );
