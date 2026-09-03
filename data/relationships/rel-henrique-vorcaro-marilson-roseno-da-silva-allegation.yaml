@@ -1,0 +1,31 @@
+id: rel-henrique-vorcaro-marilson-roseno-da-silva-allegation
+kind: relationship
+from_id: henrique-vorcaro
+to_id: marilson-roseno-da-silva
+relationship_type: investigative_allegation
+directed: false
+label: negociação de valores por consultas indevidas, segundo a PF
+start_date: 2026-02
+description: Segundo a Polícia Federal, o policial aposentado pediu ao pai do banqueiro para não deixá-lo
+  'à deriva', teria ouvido que receberia R$ 400 mil e pediu '800k', em negociação ligada a consultas indevidas
+  em sistemas internos da corporação para descobrir o teor de inquérito em que Henrique fora intimado.
+evidence_class: A
+confidence: 0.4
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-policial-cooptado-800k
+source_ids:
+- src-metropoles-800k-policial-cooptado
+document_ids: []
+cited_position:
+- kind: not_located
+  summary: O corpus não registra manifestação de Marilson Roseno da Silva nem de Henrique Vorcaro sobre
+    essas mensagens.
+  source_ids:
+  - src-metropoles-800k-policial-cooptado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

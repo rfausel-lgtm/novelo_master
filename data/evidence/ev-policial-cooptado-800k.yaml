@@ -1,0 +1,17 @@
+id: ev-policial-cooptado-800k
+kind: evidence
+classification: A
+proposition: Segundo a PF, o policial federal aposentado Marilson Roseno da Silva procurou ao menos três
+  policiais para consultas indevidas em sistemas internos, com o objetivo de descobrir o teor de inquérito
+  em que Henrique Vorcaro fora intimado; nas negociações pediu a Henrique para não o deixar 'à deriva',
+  ouviu que receberia R$ 400 mil e pediu '800k'.
+document_ids: []
+source_ids:
+- src-metropoles-800k-policial-cooptado
+attributed_to_id: policia-federal
+date: 2026-02
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

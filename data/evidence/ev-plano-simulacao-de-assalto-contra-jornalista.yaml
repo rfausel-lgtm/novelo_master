@@ -1,0 +1,19 @@
+id: ev-plano-simulacao-de-assalto-contra-jornalista
+kind: evidence
+classification: A
+proposition: Segundo a apuração da PF citada na decisão da 3ª fase, houve plano para simular um assalto
+  contra o colunista Lauro Jardim, com o objetivo de intimidá-lo, 'prejudicá-lo violentamente' e silenciar
+  sua cobertura sobre o Banco Master; em uma das mensagens fala-se em 'quebrar todos os dentes dele num
+  assalto'.
+document_ids: []
+source_ids:
+- src-gazeta-2026-03-04-quem-e-lauro-jardim
+- src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
+excerpt: quebrar todos os dentes dele num assalto
+attributed_to_id: policia-federal
+date: '2026-03-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

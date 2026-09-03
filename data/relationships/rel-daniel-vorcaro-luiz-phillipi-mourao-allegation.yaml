@@ -1,0 +1,38 @@
+id: rel-daniel-vorcaro-luiz-phillipi-mourao-allegation
+kind: relationship
+from_id: daniel-vorcaro
+to_id: luiz-phillipi-mourao
+relationship_type: investigative_allegation
+directed: false
+label: apontado pela PF como integrante do núcleo de intimidação
+description: A Polícia Federal aponta Luiz Phillipi Mourão como integrante do chamado núcleo de intimidação
+  e monitoramento de adversários do banqueiro, e a decisão da 6ª fase o descreve como gestor de um núcleo
+  subordinado ao comando central. A família contesta a imputação por falta de prova pública; ele morreu
+  sob custódia antes de qualquer defesa em juízo.
+evidence_class: A
+confidence: 0.35
+status: disputed
+event_ids:
+- evt-2026-03-04-morte-de-luiz-phillipi-mourao-sob-custodia
+evidence_ids:
+- ev-morte-cerebral-sob-custodia-2026-03-04
+- ev-familia-contesta-apelido
+- ev-decisao-6a-fase-representacao
+source_ids:
+- src-poder360-2026-03-04-morte-cerebral-testemunha
+- src-cnn-2026-04-13-familia-de-mourao-sem-acesso
+document_ids:
+- doc-2026-05-14-decisao-6a-fase-compliance-zero
+cited_position:
+- kind: denial
+  summary: A família afirma que jamais teve conhecimento de envolvimento dele em atos de violência e que
+    a imputação não veio acompanhada de prova pública.
+  source_ids:
+  - src-cnn-2026-04-13-familia-de-mourao-sem-acesso
+  by_id: luiz-phillipi-mourao
+  date: '2026-04-13'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

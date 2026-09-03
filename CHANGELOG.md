@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 13 do corpus, o chamado núcleo de intimidação: o plano, revelado na 3ª fase, de simular um
+  assalto contra o colunista Lauro Jardim, com a reação da Associação Nacional de Jornais; o policial
+  federal aposentado apontado como cooptador de agentes para consultas indevidas; a morte de Luiz
+  Phillipi Mourão sob custódia da Polícia Federal em 04/03/2026, com a nota da corporação e a
+  contestação da família, que não teve acesso às imagens, aos autos nem ao laudo do IML; e a primeira
+  manifestação de Daniel Vorcaro sobre o tema. A pessoa morta é tratada pelo nome, e o apelido usado
+  pelos investigadores fica registrado como alias, sempre atribuído.
 - Lote 12 do corpus, resposta institucional por fontes oficiais: Fato Relevante do BRB de 28/03/2025,
   com os percentuais exatos da compra; requerimento da CAE registrando que o preço equivalia a 75% do
   patrimônio do banco público; convocações da CPI do Crime Organizado e da CPMI do INSS; PLP 135/2026,

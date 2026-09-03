@@ -1,0 +1,47 @@
+id: evt-2026-03-04-morte-de-luiz-phillipi-mourao-sob-custodia
+kind: event
+title: Luiz Phillipi Mourão tem morte cerebral sob custódia da PF, horas após a prisão
+event_type: other
+date: '2026-03-04'
+date_precision: day
+participant_ids:
+- luiz-phillipi-mourao
+- policia-federal
+- andre-mendonca
+description: Preso na 3ª fase da operação, teve morte cerebral no mesmo dia, sob custódia na Superintendência
+  da PF em Minas Gerais. A PF informou em nota que ele tentara se matar, que agentes tentaram reanimá-lo,
+  que entregaria os registros em vídeo ao relator no STF e abriria procedimento apuratório, sem descrever
+  as circunstâncias em que foi encontrado. Em abril, a família informou não ter tido acesso às imagens,
+  aos autos nem ao laudo do IML. O corpus não afirma causa de morte.
+evidence_class: C
+status: disputed
+evidence_ids:
+- ev-morte-cerebral-sob-custodia-2026-03-04
+- ev-nota-da-pf-sobre-a-morte
+- ev-familia-sem-acesso-a-imagens-e-laudo
+- ev-familia-contesta-apelido
+source_ids:
+- src-poder360-2026-03-04-morte-cerebral-testemunha
+- src-cnn-2026-04-13-familia-de-mourao-sem-acesso
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: clarification
+  summary: A PF afirmou que houve tentativa de suicídio, que comunicaria o STF, entregaria os vídeos e
+    abriria procedimento apuratório.
+  source_ids:
+  - src-poder360-2026-03-04-morte-cerebral-testemunha
+  by_id: policia-federal
+  date: '2026-03-04'
+- kind: denial
+  summary: A família contesta o apelido atribuído e diz não ter recebido imagens, autos nem laudo do IML.
+  source_ids:
+  - src-cnn-2026-04-13-familia-de-mourao-sem-acesso
+  by_id: luiz-phillipi-mourao
+  date: '2026-04-13'
+location: Belo Horizonte (MG)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

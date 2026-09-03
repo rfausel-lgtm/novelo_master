@@ -1,0 +1,17 @@
+id: ev-nota-da-pf-sobre-a-morte
+kind: evidence
+classification: A
+proposition: Em nota, a Polícia Federal informou que o preso havia tentado se matar, que agentes tentaram
+  reanimá-lo e acionaram o Samu, que comunicaria o ocorrido ao gabinete do relator no STF, entregaria
+  todos os registros em vídeo e abriria procedimento apuratório. A nota não descreve em que circunstâncias
+  ele foi encontrado.
+document_ids: []
+source_ids:
+- src-poder360-2026-03-04-morte-cerebral-testemunha
+attributed_to_id: policia-federal
+date: '2026-03-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

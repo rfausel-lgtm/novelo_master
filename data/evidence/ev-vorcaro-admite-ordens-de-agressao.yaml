@@ -1,0 +1,17 @@
+id: ev-vorcaro-admite-ordens-de-agressao
+kind: evidence
+classification: A
+proposition: Em depoimento ao gabinete de André Mendonça, Vorcaro disse que as ordens dadas para agredir
+  ou ameaçar adversários foram dadas porque 'estava nervoso' e que não se concretizaram; negou crimes
+  financeiros na venda ao BRB e afirmou ter se aproximado de políticos apenas para sua 'proteção'.
+document_ids: []
+source_ids:
+- src-jbrasilia-2026-09-vorcaro-admite-ordens
+excerpt: estava nervoso
+attributed_to_id: daniel-vorcaro
+date: '2026-09-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

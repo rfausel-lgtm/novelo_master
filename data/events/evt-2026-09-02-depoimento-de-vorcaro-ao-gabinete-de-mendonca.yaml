@@ -9,12 +9,14 @@ participant_ids:
 - andre-mendonca
 - andrei-rodrigues
 - policia-federal
-description: Em depoimento por vídeo a juiz auxiliar do gabinete de André Mendonça e a um procurador da
-  República, feito a requerimento da defesa, Vorcaro afirmou ter sofrido tortura psicológica, maus-tratos
+description: 'Em depoimento por vídeo a juiz auxiliar do gabinete de André Mendonça e a um procurador
+  da República, feito a requerimento da defesa, Vorcaro afirmou ter sofrido tortura psicológica, maus-tratos
   e ameaças veladas na prisão para não relatar fatos ligados à Polícia Federal, e disse acreditar que
   a delação foi recusada porque ele poderia citar o diretor-geral da corporação. Integrantes da PF e da
   PGR responderam que não houve apresentação de fatos concretos e que se trataria de pretexto para reabrir
-  a negociação; interlocutores do diretor-geral afirmam que ele nunca teve relação com o banqueiro.
+  a negociação; interlocutores do diretor-geral afirmam que ele nunca teve relação com o banqueiro. No
+  mesmo depoimento, ele falou pela primeira vez sobre a suspeita de comandar grupo de intimidação: disse
+  que as ordens para agredir ou ameaçar adversários foram dadas porque ''estava nervoso'' e não se concretizaram.'
 evidence_class: A
 status: disputed
 evidence_ids:
@@ -22,9 +24,11 @@ evidence_ids:
 - ev-vorcaro-atribui-recusa-da-delacao-a-mencao-ao-diretor
 - ev-pf-e-pgr-negam-maus-tratos
 - ev-andrei-encontro-casual-em-londres
+- ev-vorcaro-admite-ordens-de-agressao
 source_ids:
 - src-ndmais-2026-09-02-vorcaro-alega-tortura
 - src-contrapontoms-2026-09-02-investigadores-veem-teatro
+- src-jbrasilia-2026-09-vorcaro-admite-ordens
 document_ids: []
 public_act_ids: []
 cited_position:

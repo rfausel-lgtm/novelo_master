@@ -1,0 +1,16 @@
+id: ev-morte-cerebral-sob-custodia-2026-03-04
+kind: evidence
+classification: C
+proposition: Luiz Phillipi Machado de Moraes Mourão teve morte cerebral em 04/03/2026, horas depois de
+  ser preso na 3ª fase da Compliance Zero, enquanto estava sob custódia da PF em Belo Horizonte; foi levado
+  pelo Samu ao Hospital João XXIII e morreu no início de março.
+document_ids: []
+source_ids:
+- src-poder360-2026-03-04-morte-cerebral-testemunha
+- src-cnn-2026-04-13-familia-de-mourao-sem-acesso
+date: '2026-03-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

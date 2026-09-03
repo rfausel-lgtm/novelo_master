@@ -1,0 +1,16 @@
+id: ev-familia-contesta-apelido
+kind: evidence
+classification: A
+proposition: A família contesta a atribuição do apelido usado pelos investigadores, por considerá-la acusação
+  gravíssima sem prova pública, e afirma que os familiares jamais tiveram conhecimento de envolvimento
+  em atos de violência.
+document_ids: []
+source_ids:
+- src-cnn-2026-04-13-familia-de-mourao-sem-acesso
+attributed_to_id: luiz-phillipi-mourao
+date: '2026-04-13'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

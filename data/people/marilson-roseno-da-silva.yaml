@@ -1,0 +1,25 @@
+id: marilson-roseno-da-silva
+kind: person
+name: Marilson Roseno da Silva
+category: police
+role: Policial federal aposentado, alvo da Operação Compliance Zero
+positions: []
+summary: Apontado pela Polícia Federal como responsável por cooptar agentes para consultas indevidas em
+  sistemas internos da corporação em favor da família Vorcaro, com o objetivo de descobrir o teor de inquérito
+  em que Henrique Vorcaro fora intimado. Segundo a apuração, negociou valores com o pai do banqueiro,
+  pedindo '800k'.
+why_in_novelo: É apontado pela Polícia Federal como o agente aposentado que teria cooptado policiais para
+  acessar informações sigilosas em favor da família Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O corpus não registra manifestação de Marilson Roseno da Silva ou de sua defesa.
+- As imputações são da autoridade policial, sem juízo de mérito.
+source_ids:
+- src-metropoles-800k-policial-cooptado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

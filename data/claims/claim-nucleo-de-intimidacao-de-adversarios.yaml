@@ -1,0 +1,68 @@
+id: claim-nucleo-de-intimidacao-de-adversarios
+kind: claim
+statement: Daniel Vorcaro teria mantido um núcleo dedicado a monitorar e intimidar adversários, jornalistas
+  e concorrentes.
+classification: A
+status: disputed
+claimant_id: policia-federal
+claimant: Polícia Federal, em representações acolhidas pelo STF
+date: '2026-03-04'
+related_entity_ids:
+- daniel-vorcaro
+- luiz-phillipi-mourao
+- lauro-jardim
+- thiago-miranda
+- marilson-roseno-da-silva
+event_ids:
+- evt-2026-03-04-revelacao-do-plano-contra-lauro-jardim
+- evt-2026-07-09-compliance-zero-10a-fase-thiago-miranda
+evidence_ids:
+- ev-plano-simulacao-de-assalto-contra-jornalista
+- ev-pf-comunicado-10a-fase
+- ev-projeto-dv-influenciadores
+- ev-vorcaro-admite-ordens-de-agressao
+- ev-familia-contesta-apelido
+source_ids:
+- src-gazeta-2026-03-04-quem-e-lauro-jardim
+- src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
+- src-otempo-2026-03-04-anj-repudia
+- src-pf-2026-07-09-decima-fase
+- src-poder360-2026-07-09-operacao-thiago-miranda
+limits: O comunicado oficial da PF sobre a 10ª fase confirma que a corporação apura organização voltada
+  à intimidação de jornalistas e ao monitoramento ilícito, mas apurar não é comprovar. Não há denúncia
+  nem decisão de mérito no corpus. O próprio investigado admitiu ter dado ordens de agressão, dizendo
+  que não se concretizaram; a família de um dos apontados contesta a imputação por falta de prova pública,
+  e ele morreu sob custódia antes de se defender.
+counter_position:
+- kind: version
+  summary: Vorcaro afirmou que as ordens foram dadas porque 'estava nervoso' e que não se concretizaram.
+  source_ids:
+  - src-jbrasilia-2026-09-vorcaro-admite-ordens
+  by_id: daniel-vorcaro
+  date: '2026-09-02'
+- kind: denial
+  summary: A defesa de Thiago Miranda refutou categoricamente a prática de qualquer ilegalidade e negou
+    conduta destinada a intimidar ou coagir.
+  source_ids:
+  - src-poder360-2026-07-09-operacao-thiago-miranda
+  by_id: thiago-miranda
+  date: '2026-07-09'
+- kind: denial
+  summary: A família de Luiz Phillipi Mourão contesta a imputação por ausência de prova pública.
+  source_ids:
+  - src-cnn-2026-04-13-familia-de-mourao-sem-acesso
+  by_id: luiz-phillipi-mourao
+  date: '2026-04-13'
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: 'Testou-se a hipótese contrária: se fosse mera retórica, não haveria operação
+    policial autônoma nem comunicado oficial descrevendo intimidação de jornalistas. Por outro lado, nenhuma
+    peça pública no corpus comprova execução dos atos, e o único ato concreto relatado foi negado ou dito
+    não consumado. Mantida como alegação em disputa.'
+  outcome: disputed
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

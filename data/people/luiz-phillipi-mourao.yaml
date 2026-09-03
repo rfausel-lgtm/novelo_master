@@ -1,0 +1,47 @@
+id: luiz-phillipi-mourao
+kind: person
+name: Luiz Phillipi Mourão
+category: other
+role: Apontado pela Polícia Federal como integrante do chamado núcleo de intimidação; morreu sob custódia
+  em março de 2026
+positions: []
+summary: Preso na 3ª fase da Operação Compliance Zero em 04/03/2026, teve morte cerebral horas depois,
+  sob custódia da PF em Belo Horizonte. A corporação informou que ele havia tentado se matar, disse que
+  entregaria os registros em vídeo ao relator no STF e abriria procedimento apuratório. A família afirma
+  não ter tido acesso às imagens, aos autos nem ao laudo do IML, e contesta o apelido que lhe foi atribuído
+  pelos investigadores, por falta de prova pública. Segundo a decisão da 6ª fase, a autoridade policial
+  o apontava como gestor de um núcleo subordinado ao comando central.
+why_in_novelo: É apontado pela Polícia Federal como peça do núcleo que teria monitorado e intimidado adversários
+  de Daniel Vorcaro, e morreu sob custódia policial, em circunstâncias que a própria PF disse que apuraria.
+cited_position:
+- kind: denial
+  summary: 'A família contesta o apelido atribuído pelos investigadores: ''trata-se de acusação gravíssima,
+    sem apresentação pública, até o momento, de qualquer prova nesse sentido. Seus familiares jamais tiveram
+    conhecimento de envolvimento em atos de violência e muito menos de homicídio''.'
+  source_ids:
+  - src-cnn-2026-04-13-familia-de-mourao-sem-acesso
+  by_id: luiz-phillipi-mourao
+  date: '2026-04-13'
+- kind: clarification
+  summary: A família informa que não teve acesso às imagens de segurança, aos autos do inquérito nem ao
+    laudo do IML com a causa mortis, e que soube do ocorrido pela imprensa.
+  source_ids:
+  - src-cnn-2026-04-13-familia-de-mourao-sem-acesso
+  by_id: luiz-phillipi-mourao
+  date: '2026-04-13'
+open_questions:
+- 'A causa da morte não está estabelecida no corpus: não há laudo do IML público nem conclusão do procedimento
+  apuratório.'
+- As imputações são da autoridade policial e não houve julgamento de mérito; ele morreu antes de qualquer
+  defesa em juízo.
+source_ids:
+- src-poder360-2026-03-04-morte-cerebral-testemunha
+- src-cnn-2026-04-13-familia-de-mourao-sem-acesso
+aliases:
+- Felipe Mourão
+full_name: Luiz Phillipi Machado de Moraes Mourão
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

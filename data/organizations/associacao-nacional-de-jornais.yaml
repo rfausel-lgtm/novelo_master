@@ -1,0 +1,22 @@
+id: associacao-nacional-de-jornais
+kind: organization
+name: Associação Nacional de Jornais
+aliases:
+- ANJ
+org_type: association
+summary: Entidade que reúne os jornais brasileiros. Manifestou solidariedade ao jornal O Globo e ao colunista
+  Lauro Jardim e repúdio ao plano de intimidação revelado na investigação, afirmando que intimidar profissional
+  de imprensa por meio de violência é ataque inaceitável à liberdade de expressão.
+why_in_novelo: Reagiu institucionalmente, em nome dos jornais brasileiros, ao plano de intimidação contra
+  um jornalista revelado na investigação.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-otempo-2026-03-04-anj-repudia
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

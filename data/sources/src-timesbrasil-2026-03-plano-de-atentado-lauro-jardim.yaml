@@ -1,0 +1,21 @@
+id: src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
+kind: source
+title: Mensagens de Vorcaro planejando atentado ao jornalista Lauro Jardim
+publisher: Times Brasil | CNBC
+publication_date: 2026-03
+retrieved_at: '2026-09-03'
+url: https://timesbrasil.com.br/brasil/operacoes-da-pf/vorcaro-mensagens-atentado-jornalista-lauro-jardim-assalto/
+source_type: press
+summary: Reportagem sobre a decisão do STF que revela o plano de forjar um assalto ao jornalista para
+  silenciar a cobertura sobre o Banco Master, com a mensagem em que se fala em 'quebrar todos os dentes
+  dele num assalto'.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

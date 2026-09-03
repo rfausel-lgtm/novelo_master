@@ -1,0 +1,41 @@
+id: evt-2026-03-04-revelacao-do-plano-contra-lauro-jardim
+kind: event
+title: Investigação revela plano para simular assalto contra o colunista Lauro Jardim
+event_type: publication
+date: '2026-03-04'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- lauro-jardim
+- policia-federal
+- associacao-nacional-de-jornais
+description: Mensagens investigadas na 3ª fase da Compliance Zero indicam plano para forjar um assalto
+  contra o jornalista, com o objetivo de intimidá-lo e silenciar sua cobertura. A Associação Nacional
+  de Jornais manifestou solidariedade e repúdio, e o relator adotou providências para resguardar a atividade
+  jornalística. A imputação é da autoridade policial; Vorcaro afirmou depois que ordens desse tipo não
+  se concretizaram.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-plano-simulacao-de-assalto-contra-jornalista
+- ev-anj-repudia-plano-contra-jornalista
+- ev-vorcaro-admite-ordens-de-agressao
+source_ids:
+- src-gazeta-2026-03-04-quem-e-lauro-jardim
+- src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
+- src-otempo-2026-03-04-anj-repudia
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: version
+  summary: Vorcaro disse ao gabinete de Mendonça que as ordens para agredir ou ameaçar adversários foram
+    dadas porque 'estava nervoso' e não se concretizaram.
+  source_ids:
+  - src-jbrasilia-2026-09-vorcaro-admite-ordens
+  by_id: daniel-vorcaro
+  date: '2026-09-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
