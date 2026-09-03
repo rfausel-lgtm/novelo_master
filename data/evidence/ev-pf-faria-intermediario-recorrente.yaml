@@ -1,0 +1,19 @@
+id: ev-pf-faria-intermediario-recorrente
+kind: evidence
+classification: D
+proposition: 'O relatório da PF (IPJ-A 3298613/2026) documenta Faria organizando encontros entre Vorcaro
+  e Moraes (dez/2023–mar/2024): pedido de dados do carro para a segurança (21/12/2023), compartilhamento
+  do contato (26/12), almoço em 30/12 no Six Senses Botanique, jantar ''com o Alex'' em 02/02/2024 e recorte
+  de conversa própria com Moraes (13/03/2024).'
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+source_ids:
+- src-cartacapital-2026-09-01-faria-ponte-moraes
+- src-terra-2026-09-01-quem-e-fabio-faria
+- src-cnn-2026-09-fabio-faria-pf
+date: '2023-12-21'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

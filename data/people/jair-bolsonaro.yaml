@@ -1,0 +1,30 @@
+id: jair-bolsonaro
+kind: person
+name: Jair Bolsonaro
+category: politician
+role: Ex-presidente da República (2019-2022); objeto do filme 'Dark Horse'
+positions: []
+summary: Ex-presidente da República, condenado pelo STF em 11/09/2025 por tentativa de golpe, segundo
+  o Intercept. É o biografado do filme 'Dark Horse' e, segundo contrato descrito pelo Intercept, cedeu
+  os 'direitos de história de vida' para a produção. Mensagens indicam que Vorcaro topou recebê-lo em
+  sua mansão em Brasília em março de 2025, sem confirmação de que o encontro ocorreu.
+why_in_novelo: É o objeto do filme 'Dark Horse', cujo financiamento por Daniel Vorcaro está sob investigação;
+  cedeu direitos de história de vida à produtora, segundo a imprensa.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Não há no corpus manifestação de Jair Bolsonaro sobre o filme ou sobre Vorcaro.
+- Não há confirmação de que o encontro sugerido em março de 2025 tenha ocorrido.
+source_ids:
+- src-intercept-2026-05-14-plano-bolsonaro-mansao
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+- src-congressoemfoco-2026-05-15-duvidas-filme
+full_name: Jair Messias Bolsonaro
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Jair_Bolsonaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,37 @@
+id: eduardo-bolsonaro
+kind: person
+name: Eduardo Bolsonaro
+category: politician
+role: Ex-deputado federal (PL-SP), mandato cassado; produtor-executivo do filme 'Dark Horse' segundo contrato
+positions: []
+summary: Filho de Jair Bolsonaro, teve o mandato de deputado federal cassado. Segundo contrato obtido
+  pelo Intercept (datado de novembro de 2023, assinado digitalmente em 30/01/2024), consta como produtor-executivo
+  de 'Dark Horse' ao lado de Mario Frias, com atribuições ligadas a financiamento e orçamento. Em publicação
+  no Instagram (14/05/2026) disse ter apenas cedido direitos de imagem.
+why_in_novelo: Consta como produtor-executivo, em contrato divulgado pela imprensa, do filme cujo financiamento
+  por Daniel Vorcaro está sob investigação.
+cited_position:
+- kind: version
+  summary: No Instagram, afirmou ter apenas cedido seus direitos de imagem e não ter exercido cargo de
+    gestão no 'Dark Horse' (segundo o Intercept).
+  source_ids:
+  - src-intercept-2026-05-15-eduardo-contrato-dark-horse
+  by_id: eduardo-bolsonaro
+  date: '2026-05-14'
+open_questions:
+- O contrato de produção não foi lido pela equipe; o corpus registra a descrição do Intercept e do Congresso
+  em Foco.
+- O corpus não registra manifestação de Eduardo Bolsonaro sobre o print de março de 2025 descrito pela
+  Gazeta do Povo.
+source_ids:
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+- src-congressoemfoco-2026-05-15-duvidas-filme
+- src-gazeta-2026-07-09-operacao-dark-horse
+full_name: Eduardo Nantes Bolsonaro
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

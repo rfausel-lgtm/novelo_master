@@ -1,0 +1,16 @@
+id: ev-bc-liquida-will-financeira-2026-01-21
+kind: evidence
+classification: C
+proposition: Em 21/01/2026 o BC decretou a liquidação extrajudicial da Will Financeira S.A. CFI, controlada
+  pelo Banco Master, por comprometimento econômico-financeiro, insolvência e vínculo de interesse com
+  o Master.
+document_ids: []
+source_ids:
+- src-cnn-2026-01-21-liquidacao-will-financeira
+- src-migalhas-2026-02-03-liquidacao-reag-will
+date: '2026-01-21'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

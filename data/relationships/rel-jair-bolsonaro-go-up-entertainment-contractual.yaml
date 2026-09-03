@@ -1,0 +1,25 @@
+id: rel-jair-bolsonaro-go-up-entertainment-contractual
+kind: relationship
+from_id: jair-bolsonaro
+to_id: go-up-entertainment
+relationship_type: contractual
+directed: false
+label: cessão dos direitos de história de vida
+description: Segundo o contrato descrito pelo Intercept, Jair Bolsonaro cedeu à produção os 'direitos
+  de história de vida' para o filme então intitulado 'O Capitão do Povo'.
+evidence_class: C
+confidence: 0.7
+status: verified
+event_ids:
+- evt-2024-01-30-contrato-producao-dark-horse
+evidence_ids:
+- ev-jair-cedeu-direitos-historia-de-vida
+source_ids:
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+- src-congressoemfoco-2026-05-15-duvidas-filme
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

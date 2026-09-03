@@ -1,0 +1,26 @@
+id: evt-2026-05-14-flavio-admite-negativa-falsa
+kind: event
+title: Flávio Bolsonaro admite à GloboNews ter negado falsamente a relação com Vorcaro
+event_type: statement
+date: '2026-05-14'
+date_precision: day
+participant_ids:
+- flavio-bolsonaro
+description: 'Após negar horas antes a participação de Vorcaro no filme (''mentira''), Flávio Bolsonaro
+  afirmou à GloboNews: ''Eu menti'', atribuindo a negativa a contrato de confidencialidade com investidores,
+  não apresentado; prometeu prestação de contas em 30 dias, prazo que terminou sem divulgação, segundo
+  a CartaCapital.'
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-flavio-admite-mentiu-2026-05-14
+source_ids:
+- src-congressoemfoco-2026-05-15-duvidas-filme
+- src-cartacapital-2026-09-01-flavio-evita-explicar
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

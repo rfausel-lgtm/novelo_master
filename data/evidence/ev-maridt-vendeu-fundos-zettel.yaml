@@ -1,0 +1,15 @@
+id: ev-maridt-vendeu-fundos-zettel
+kind: evidence
+classification: A
+proposition: A Maridt vendeu sua participação no Tayayá a fundos de investimento que tinham Fabiano Zettel
+  como acionista, antes de a ação do BRB ser distribuída a Toffoli.
+document_ids: []
+source_ids:
+- src-gazeta-2026-02-14-vorcaro-cobrado-resort
+- src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
+attributed_to: Gazeta do Povo e Metrópoles (com base no relatório da PF)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

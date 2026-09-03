@@ -1,0 +1,15 @@
+id: ev-alcolumbre-nega-30-mi
+kind: evidence
+classification: C
+proposition: Alcolumbre classificou as alegações como 'absolutamente falsas', disse jamais ter recebido
+  valores 'no Brasil ou no exterior' e anunciou medidas judiciais.
+document_ids: []
+source_ids:
+- src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+- src-congressoemfoco-2026-06-12-alcolumbre-contesta
+date: '2026-06-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

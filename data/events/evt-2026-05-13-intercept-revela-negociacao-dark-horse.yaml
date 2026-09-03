@@ -1,0 +1,31 @@
+id: evt-2026-05-13-intercept-revela-negociacao-dark-horse
+kind: event
+title: Intercept divulga áudios e mensagens sobre o financiamento de 'Dark Horse' por Vorcaro
+event_type: publication
+date: '2026-05-13'
+date_precision: day
+participant_ids:
+- flavio-bolsonaro
+- daniel-vorcaro
+- mario-frias
+- eduardo-bolsonaro
+- thiago-miranda
+description: Reportagens do Intercept a partir de 13/05/2026 divulgaram áudios, prints e documentos sobre
+  tratativas de R$ 134 milhões entre Flávio Bolsonaro e Vorcaro para o filme, provocando negativa inicial
+  e admissão posterior do senador, nota de Mário Frias e reação nos mercados, segundo a Gazeta do Povo.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-vorcaro-compromisso-134-mi
+- ev-frias-nota-nega-2026-05-13
+source_ids:
+- src-congressoemfoco-2026-05-15-duvidas-filme
+- src-gazeta-2026-05-13-frias-nega
+- src-gazeta-2026-07-09-operacao-dark-horse
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,15 @@
+id: ev-faria-nega-relacao-master
+kind: evidence
+classification: C
+proposition: Faria afirmou ter 'zero' relação com o Banco Master, nunca ter vendido nada ao banco e não
+  ter tido contato com a compradora enquanto exerceu funções públicas.
+document_ids: []
+source_ids:
+- src-timesbrasil-2026-08-05-faria-projeto-eolico
+- src-oeste-2026-01-29-projeto-eolico-faria
+date: 2026-01
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,16 @@
+id: ev-lemos-tesoureiro-alcolumbre
+kind: evidence
+classification: C
+proposition: Jocildo Lemos foi tesoureiro da campanha de Davi Alcolumbre em 2022 e foi indicado ao cargo
+  na Amprev com apoio do senador.
+document_ids: []
+source_ids:
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+- src-cnn-2026-02-06-amprev-alvo-pf
+- src-metropoles-2026-01-19-aliado-alcolumbre-amprev
+- src-gazeta-2026-01-29-pf-mp-amprev
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

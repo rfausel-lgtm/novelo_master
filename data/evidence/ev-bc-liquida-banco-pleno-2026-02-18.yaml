@@ -1,0 +1,15 @@
+id: ev-bc-liquida-banco-pleno-2026-02-18
+kind: evidence
+classification: C
+proposition: Em 18/02/2026 o BC decretou a liquidação extrajudicial do Banco Pleno S.A. e da Pleno DTVM,
+  de Augusto Lima.
+document_ids: []
+source_ids:
+- src-b3-2026-02-18-liquidacao-banco-pleno
+- src-cnn-2026-03-04-relembre-crise-master
+date: '2026-02-18'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

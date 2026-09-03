@@ -1,0 +1,29 @@
+id: havengate-development-fund
+kind: organization
+name: Havengate Development Fund LP
+aliases: []
+org_type: fund
+summary: Fundo sediado no Texas (EUA) que, segundo o Intercept, recebeu ao menos US$ 10,6 milhões de empresas
+  ligadas a Daniel Vorcaro (via Entre Investimentos e Participações) para financiar 'Dark Horse' e, segundo
+  relatório do Coaf noticiado pela piauí, mais US$ 1,6 milhão em 16/09/2025. Foi criado originalmente
+  para um projeto imobiliário em Melissa (Texas) que nunca saiu do papel, conforme registros oficiais
+  checados pelo Intercept.
+why_in_novelo: Veículo financeiro, nos Estados Unidos, por onde passaram os recursos de Daniel Vorcaro
+  destinados ao filme 'Dark Horse', segundo a imprensa.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A equipe não consultou diretamente os registros do Texas citados pelo Intercept.
+- O corpus não registra manifestação dos gestores do fundo.
+source_ids:
+- src-intercept-2026-07-02-havengate
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-cnn-2026-09-dark-horse-coaf
+- src-congressoemfoco-2026-05-15-duvidas-filme
+jurisdiction: Texas, Estados Unidos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

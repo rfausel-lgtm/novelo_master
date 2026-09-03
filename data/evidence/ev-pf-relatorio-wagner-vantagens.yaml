@@ -1,0 +1,17 @@
+id: ev-pf-relatorio-wagner-vantagens
+kind: evidence
+classification: A
+proposition: Relatório da PF aponta indícios, que a própria PF classifica como preliminares e indiciários,
+  de que Wagner recebeu 'vantagens econômicas diversas' de Augusto Lima e Vorcaro, diretamente ou por
+  familiares, incluindo uso gratuito de aeronaves, em aparente correlação com sua atuação parlamentar.
+document_ids:
+- doc-pf-relatorio-wagner-2026-07
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+attributed_to_id: policia-federal
+date: '2026-07-30'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

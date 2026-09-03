@@ -3,6 +3,26 @@
 Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O histórico editorial
 dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
+## [Não publicado]
+
+### Adicionado
+
+- Lote 6 do corpus: financiamento do filme "Dark Horse" (Flávio, Eduardo e Jair Bolsonaro, Mário Frias,
+  Thiago Miranda, Go Up Entertainment, Havengate Development Fund, Entre Investimentos; 10ª fase da
+  Compliance Zero), Resort Tayayá e Maridt (Toffoli), pagamentos do Master à Consult Inteligência
+  Tributária e ao escritório do filho de Nunes Marques (Coaf), Reag/Mansur, Will Financeira, Banco Pleno,
+  Ligga, Amapá Previdência (operação Zona Cinzenta), relatório da PF sobre Jaques Wagner e projeto eólico
+  de Fábio Faria; transações (`data/transactions`) passam a ser usadas no corpus real; 4 claims e 3
+  sequências temporais novas; contraditório atualizado em Toffoli, Nunes Marques, Alcolumbre, Wagner e Faria.
+- Teste unitário de `safeJsonLd`.
+
+### Corrigido
+
+- `safeJsonLd` não escapava `<` (a string `"<"` em TypeScript já é `<`), permitindo, em tese,
+  fechamento prematuro da tag `<script type="application/ld+json">`. Apontado pelo CodeQL
+  (`js/identity-replacement`).
+- DEPLOYMENT.md sem e-mail pessoal; app do Cloudflare no GitHub restrito ao repositório.
+
 ## [0.1.0] - 2026-09-03 (release candidate)
 
 ### Adicionado

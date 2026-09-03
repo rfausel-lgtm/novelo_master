@@ -1,0 +1,26 @@
+id: seq-dark-horse-cobranca-2025-09-08-e-transferencia-2025-09-16
+kind: temporal_sequence
+title: Áudio de cobrança de Flávio Bolsonaro (08/09/2025) e transferência de US$ 1,6 milhão ao Havengate
+  (16/09/2025)
+step_ids:
+- evt-2025-09-audios-flavio-cobra-parcelas-dark-horse
+- evt-2025-09-16-transferencia-vorcaro-havengate-coaf
+temporal_proximity: high
+documentary_link: present
+causality_proven: false
+description: Oito dias após o áudio em que o senador cobra parcelas atrasadas, o Coaf registra transferência
+  de Vorcaro ao fundo que administrava os recursos do filme. O nexo documental existe (o mesmo relatório
+  do Coaf e as mesmas mensagens são citados pela imprensa).
+limits: A sequência não prova que a transferência foi resposta à cobrança nem que o senador conhecia a
+  data do pagamento; a data exata do áudio diverge entre os veículos (08/09 e 16/11/2025).
+source_ids:
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-cnn-2026-09-dark-horse-coaf
+evidence_ids:
+- ev-flavio-audios-cobranca-parcelas-2025
+- ev-coaf-transferencia-havengate-2025-09-16
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,27 @@
+id: tx-2024-2025-entre-havengate-10-6-mi
+kind: transaction
+title: Transferências de empresas ligadas a Vorcaro ao Havengate Development Fund (US$ 10,6 milhões)
+transaction_type: payment
+from_id: entre-investimentos-e-participacoes
+to_id: havengate-development-fund
+currency: USD
+date: '2025'
+date_precision: year
+description: Ao menos US$ 10,6 milhões transferidos, via Entre Investimentos e Participações, para financiar
+  'Dark Horse', segundo o Intercept; o Coaf registrou parcela adicional em setembro de 2025.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-havengate-recebeu-10-6-mi-entre
+source_ids:
+- src-intercept-2026-07-02-havengate
+- src-congressoemfoco-2026-05-15-duvidas-filme
+- src-cnn-2026-09-dark-horse-coaf
+event_ids: []
+amount: 10600000
+amount_text: ao menos US$ 10,6 milhões
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

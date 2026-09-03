@@ -1,0 +1,34 @@
+id: rel-dias-toffoli-maridt-participacoes-corporate
+kind: relationship
+from_id: dias-toffoli
+to_id: maridt-participacoes
+relationship_type: corporate
+directed: false
+label: sócio (empresa familiar, sem atos de gestão, segundo o ministro)
+description: Toffoli integra o quadro societário da Maridt com os irmãos José Eugênio e José Carlos, conforme
+  nota de seu gabinete de 12/02/2026, que invoca o art. 36 da Loman.
+evidence_class: C
+confidence: 0.95
+status: verified
+event_ids:
+- evt-2026-02-12-toffoli-nota-confirma-sociedade-maridt
+evidence_ids:
+- ev-toffoli-socio-maridt
+source_ids:
+- src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
+- src-gazeta-2026-02-12-toffoli-confirma-socio
+document_ids:
+- doc-2026-02-12-nota-toffoli-maridt-tayaya
+cited_position:
+- kind: public_note
+  summary: Empresa familiar administrada por parentes; o magistrado pode integrar o quadro societário
+    e receber dividendos, vedados apenas atos de gestão.
+  source_ids:
+  - src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
+  by_id: dias-toffoli
+  date: '2026-02-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

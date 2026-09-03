@@ -1,0 +1,30 @@
+id: jbs
+kind: organization
+name: JBS
+aliases: []
+org_type: company
+summary: Empresa de alimentos controlada pelos irmãos Joesley e Wesley Batista. Segundo relatório do Coaf
+  noticiado pelo Estadão, transferiu R$ 11,3 milhões à Consult Inteligência Tributária entre 2024 e 2025.
+  Em nota, disse contratar consultores tributários 'como toda grande empresa brasileira'.
+why_in_novelo: Foi, ao lado do Banco Master, pagadora da consultoria que repassou valores ao escritório
+  do filho de um ministro do STF, segundo a imprensa.
+cited_position:
+- kind: clarification
+  summary: '''Como toda empresa brasileira que lida com a complexidade do sistema tributário nacional,
+    contrata consultores para apoiar sua atuação nessa área, entre eles a Consulte Inteligência Tributária''.'
+  source_ids:
+  - src-band-2026-03-20-consult-filho-nunes-marques
+  - src-oantagonista-2026-03-19-repasses-consult
+  by_id: jbs
+  date: '2026-03-20'
+open_questions: []
+source_ids:
+- src-band-2026-03-20-consult-filho-nunes-marques
+- src-gazeta-2026-03-20-master-jbs-consult
+- src-oantagonista-2026-03-19-repasses-consult
+full_name: JBS S.A.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

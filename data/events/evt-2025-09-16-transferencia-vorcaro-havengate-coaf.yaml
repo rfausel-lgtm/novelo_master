@@ -1,0 +1,37 @@
+id: evt-2025-09-16-transferencia-vorcaro-havengate-coaf
+kind: event
+title: Transferência de US$ 1,6 milhão de Vorcaro ao Havengate Development Fund registrada pelo Coaf
+event_type: payment
+date: '2025-09-16'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- havengate-development-fund
+- coaf
+description: Relatório do Coaf obtido pela revista piauí registra transferência de cerca de US$ 1,6 milhão
+  ao fundo texano em 16/09/2025, oito dias após áudio de cobrança de Flávio Bolsonaro e quatro meses depois
+  da data (maio de 2025) que o senador dera como último pagamento. O total conhecido passou a US$ 12,3
+  milhões.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-coaf-transferencia-havengate-2025-09-16
+source_ids:
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-cnn-2026-09-dark-horse-coaf
+document_ids:
+- doc-coaf-relatorio-dark-horse-2025-09
+public_act_ids: []
+cited_position:
+- kind: version
+  summary: '''Essas informações eu não tenho como saber porque eu não trato disso... Pergunte para a produtora
+    que parcela é essa. O valor está na prestação de contas.'''
+  source_ids:
+  - src-cartacapital-2026-09-01-flavio-evita-explicar
+  by_id: flavio-bolsonaro
+  date: '2026-09-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

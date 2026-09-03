@@ -1,0 +1,21 @@
+id: doc-2024-07-30-ata-comite-investimentos-amprev
+kind: document
+title: Ata de 30/07/2024 do Comitê de Investimentos da Amprev
+doc_type: corporate_record
+date: '2024-07-30'
+source_ids:
+- src-gazeta-2026-01-29-pf-mp-amprev
+summary: 'Ata analisada pela Gazeta do Povo: dois conselheiros alertaram Jocildo Lemos sobre alto risco,
+  problemas políticos e a necessidade de consultar o TCU antes de investir no Master. Não lida pela equipe.'
+is_official: true
+related_entity_ids:
+- amapa-previdencia
+- jocildo-lemos
+- banco-master
+issuer_id: amapa-previdencia
+issuer: Comitê de Investimentos da Amprev
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

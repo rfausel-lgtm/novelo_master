@@ -1,0 +1,15 @@
+id: ev-bc-tcu-reag-master-operacoes
+kind: evidence
+classification: A
+proposition: O BC relatou ao TCU que, entre julho de 2023 e julho de 2024, o Banco Master e fundos administrados
+  pela Reag estruturaram operações em desacordo com normas do SFN, com falhas graves de gestão de risco,
+  crédito e liquidez.
+document_ids: []
+source_ids:
+- src-cnn-2026-02-05-mansur-reag-brb
+attributed_to: CNN Brasil (relatório do BC ao TCU)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

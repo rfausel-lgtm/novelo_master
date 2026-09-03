@@ -1,0 +1,23 @@
+id: src-gazeta-2026-02-12-toffoli-confirma-socio
+kind: source
+title: Toffoli confirma que foi sócio de resort no PR, mas nega ter recebido pagamentos de Vorcaro
+publisher: Gazeta do Povo
+publication_date: '2026-02-12'
+retrieved_at: '2026-09-03'
+url: https://www.gazetadopovo.com.br/republica/toffoli-confirma-socio-resort-pr-nega-relacoes-vorcaro/
+source_type: press
+summary: O gabinete de Toffoli confirmou em 12/02/2026 que o ministro foi sócio dos irmãos José Eugênio
+  e José Carlos Dias Toffoli na Maridt Participações, que deteve cotas do resort Tayayá em Ribeirão Claro
+  (PR); a nota invoca a Loman (art. 36) e nega relação financeira com Vorcaro. O relatório da PF, de quase
+  200 páginas, foi entregue a Edson Fachin por Andrei Rodrigues.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+author: Guilherme Grandi e Renan Ramalho
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

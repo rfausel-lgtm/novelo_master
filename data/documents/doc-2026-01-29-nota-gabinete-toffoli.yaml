@@ -1,0 +1,23 @@
+id: doc-2026-01-29-nota-gabinete-toffoli
+kind: document
+title: Nota do Gabinete do Ministro Dias Toffoli sobre os andamentos do caso Master
+doc_type: public_statement
+date: '2026-01-29'
+source_ids:
+- src-stf-2026-01-29-nota-gabinete-toffoli
+summary: 'Nota oficial publicada no portal do STF com a cronologia da relatoria: sorteio em 28/11/2025,
+  remessa ao STF em 03/12/2025, oitivas em 30/12/2025 com acareação entre Vorcaro e Paulo Henrique Costa,
+  reconhecimento da competência do STF.'
+is_official: true
+related_entity_ids:
+- dias-toffoli
+- daniel-vorcaro
+- paulo-henrique-costa
+issuer_id: supremo-tribunal-federal
+issuer: Gabinete do Ministro Dias Toffoli / STF
+url: https://noticias.stf.jus.br/postsnoticias/nota-do-gabinete-do-ministro-dias-toffoli-2/
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

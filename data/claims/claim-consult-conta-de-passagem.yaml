@@ -1,0 +1,59 @@
+id: claim-consult-conta-de-passagem
+kind: claim
+statement: A Consult Inteligência Tributária teria funcionado como 'conta de passagem' para recursos do
+  Banco Master e da JBS, dado o descompasso entre as movimentações e seu faturamento declarado.
+classification: A
+status: disputed
+claimant_id: coaf
+claimant: Coaf (hipótese registrada em relatório, segundo o Estadão)
+date: 2026-03
+related_entity_ids:
+- consult-inteligencia-tributaria
+- banco-master
+- jbs
+- kevin-de-carvalho-marques
+event_ids:
+- evt-2024-10-2025-07-pagamentos-master-consult
+- evt-2024-2025-pagamentos-consult-kevin-marques
+evidence_ids:
+- ev-coaf-hipotese-conta-passagem
+- ev-coaf-master-consult-6-6-mi
+source_ids:
+- src-brasil247-2026-03-24-consult-coaf
+- src-gazeta-2026-03-20-master-jbs-consult
+- src-oantagonista-2026-03-19-repasses-consult
+limits: É uma hipótese de inteligência financeira, não conclusão de investigação. Não há no corpus prova
+  de que os serviços não foram prestados, nem qualquer vínculo demonstrado entre os pagamentos e a atuação
+  do ministro Nunes Marques, que não comentou.
+counter_position:
+- kind: clarification
+  summary: A Consult afirma ter prestado auditoria e consultoria tributária e serviços de sistemas aos
+    grupos.
+  source_ids:
+  - src-oantagonista-2026-03-19-repasses-consult
+  by_id: consult-inteligencia-tributaria
+  date: '2026-03-19'
+- kind: clarification
+  summary: Kevin Marques afirma que os honorários são lícitos e decorrem de assessoria jurídica.
+  source_ids:
+  - src-gazeta-2026-03-20-master-jbs-consult
+  by_id: kevin-de-carvalho-marques
+  date: '2026-03-20'
+- kind: clarification
+  summary: A JBS diz contratar consultores tributários como toda grande empresa.
+  source_ids:
+  - src-band-2026-03-20-consult-filho-nunes-marques
+  by_id: jbs
+  date: '2026-03-20'
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: Tentou-se refutar considerando que faturamento declarado de R$ 25,5 mil pode refletir
+    defasagem cadastral e não ausência de serviços; a hipótese do Coaf segue sem prova documental de simulação.
+    Classificada como alegação em disputa.
+  outcome: disputed
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

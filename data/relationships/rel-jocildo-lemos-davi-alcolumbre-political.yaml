@@ -1,0 +1,38 @@
+id: rel-jocildo-lemos-davi-alcolumbre-political
+kind: relationship
+from_id: jocildo-lemos
+to_id: davi-alcolumbre
+relationship_type: political
+directed: false
+label: ex-tesoureiro de campanha (2022); indicado à Amprev com apoio do senador, segundo a imprensa
+start_date: '2022'
+description: Poder360, CNN, Metrópoles e Gazeta do Povo afirmam que Lemos foi tesoureiro da campanha de
+  Alcolumbre em 2022 e chegou à presidência da Amprev por indicação ou com apoio do senador. Alcolumbre
+  nega qualquer relação com as nomeações ou decisões do fundo; não é investigado.
+evidence_class: C
+confidence: 0.7
+status: disputed
+event_ids: []
+evidence_ids:
+- ev-lemos-tesoureiro-alcolumbre
+- ev-alcolumbre-nega-indicacao
+source_ids:
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+- src-cnn-2026-02-06-amprev-alvo-pf
+- src-metropoles-2026-01-19-aliado-alcolumbre-amprev
+- src-gazeta-2026-01-29-pf-mp-amprev
+document_ids: []
+cited_position:
+- kind: denial
+  summary: '''É falsa e irresponsável qualquer tentativa de vincular o presidente do Senado a essas nomeações
+    ou decisões.'''
+  source_ids:
+  - src-gazeta-2026-01-29-pf-mp-amprev
+  - src-metropoles-2026-01-19-aliado-alcolumbre-amprev
+  by_id: davi-alcolumbre
+  date: 2026-01
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

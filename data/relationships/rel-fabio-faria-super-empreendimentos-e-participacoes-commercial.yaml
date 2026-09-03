@@ -1,0 +1,38 @@
+id: rel-fabio-faria-super-empreendimentos-e-participacoes-commercial
+kind: relationship
+from_id: fabio-faria
+to_id: super-empreendimentos-e-participacoes
+relationship_type: commercial
+directed: false
+label: venda de 90% de projeto eólico por R$ 67,5 milhões (fev/2024)
+start_date: 2024-02
+description: Faria vendeu 90% de projeto eólico no RN a empresa ligada a Vorcaro por R$ 67,5 milhões,
+  com apartamento de R$ 50 milhões como parte do pagamento, segundo a piauí e o UOL; a operação não foi
+  formalizada nos registros e o projeto não avançou.
+evidence_class: C
+confidence: 0.8
+status: verified
+event_ids:
+- evt-2024-02-venda-projeto-eolico-faria-vorcaro
+evidence_ids:
+- ev-venda-projeto-eolico-2024-02
+- ev-faria-nega-relacao-master
+source_ids:
+- src-timesbrasil-2026-08-05-faria-projeto-eolico
+- src-oeste-2026-01-29-projeto-eolico-faria
+document_ids: []
+transaction_ids:
+- tx-2024-02-venda-projeto-eolico-faria
+cited_position:
+- kind: clarification
+  summary: Não teve contato com a compradora durante o exercício de funções públicas; nega ter iniciado
+    a negociação.
+  source_ids:
+  - src-oeste-2026-01-29-projeto-eolico-faria
+  by_id: fabio-faria
+  date: '2026-01-29'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

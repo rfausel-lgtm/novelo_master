@@ -1,0 +1,29 @@
+id: evt-2026-06-24-wagner-deixa-lideranca-governo-senado
+kind: event
+title: Jaques Wagner deixa a liderança do governo no Senado
+event_type: public_act
+date: '2026-06-24'
+date_precision: day
+participant_ids:
+- jaques-wagner
+- luiz-inacio-lula-da-silva
+- senado-federal
+description: 'Seis dias após ser alvo da 9ª fase da Compliance Zero, Wagner anunciou em nota, após reunião
+  com Lula no Alvorada, que deixava a liderança do governo ''em comum acordo'': ''minha prioridade absoluta
+  é provar minha inocência''. Teresa Leitão (PT-PE) foi designada em 25/06.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-wagner-deixa-lideranca-2026-06-24
+- ev-wagner-certeza-inocencia
+source_ids:
+- src-senado-2026-06-25-wagner-deixa-lideranca
+- src-poder360-2026-06-24-wagner-deixa-lideranca
+document_ids:
+- doc-2026-06-25-agencia-senado-wagner-lideranca
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

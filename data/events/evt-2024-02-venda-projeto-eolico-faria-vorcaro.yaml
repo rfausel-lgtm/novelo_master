@@ -1,0 +1,41 @@
+id: evt-2024-02-venda-projeto-eolico-faria-vorcaro
+kind: event
+title: Venda de projeto eólico de Fábio Faria a empresa ligada a Vorcaro por R$ 67,5 milhões
+event_type: transaction
+date: 2024-02
+date_precision: month
+participant_ids:
+- fabio-faria
+- daniel-vorcaro
+- super-empreendimentos-e-participacoes
+- fabiano-zettel
+description: Cerca de quatro meses após conhecer Vorcaro, Faria vendeu 90% de projeto eólico de 240 MW
+  em Galinhos (RN), avaliado em R$ 75 milhões, por R$ 67,5 milhões, mantendo 10%. Segundo o UOL (via Oeste),
+  a compradora foi a Super Empreendimentos e Participações, dirigida por Zettel; parte do pagamento foi
+  um apartamento de R$ 50 milhões em São Paulo, revendido por R$ 54 milhões; a operação não foi formalizada
+  na Junta Comercial nem na Receita e o projeto não avançou. Especialistas ouvidos pela piauí estimaram
+  valor bem menor.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-venda-projeto-eolico-2024-02
+- ev-super-ligada-vorcaro-zettel
+- ev-faria-nega-relacao-master
+source_ids:
+- src-timesbrasil-2026-08-05-faria-projeto-eolico
+- src-oeste-2026-01-29-projeto-eolico-faria
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: clarification
+  summary: 'Faria: não teve contato com a empresa compradora enquanto exerceu funções públicas; as partes
+    só se conheceram cerca de um ano após o fim de sua atuação política; nega ter iniciado a negociação.'
+  source_ids:
+  - src-oeste-2026-01-29-projeto-eolico-faria
+  by_id: fabio-faria
+  date: '2026-01-29'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

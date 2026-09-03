@@ -1,0 +1,30 @@
+id: rel-kevin-de-carvalho-marques-nunes-marques-familial
+kind: relationship
+from_id: kevin-de-carvalho-marques
+to_id: nunes-marques
+relationship_type: familial
+directed: false
+label: filho
+description: Kevin de Carvalho Marques é filho do ministro do STF Nunes Marques.
+evidence_class: C
+confidence: 0.99
+status: verified
+event_ids: []
+evidence_ids:
+- ev-kevin-filho-nunes-marques
+source_ids:
+- src-band-2026-03-20-consult-filho-nunes-marques
+- src-gazeta-2026-03-20-master-jbs-consult
+document_ids: []
+cited_position:
+- kind: no_response
+  summary: O ministro, procurado pela Band, não comentou os repasses ao escritório do filho.
+  source_ids:
+  - src-band-2026-03-20-consult-filho-nunes-marques
+  by_id: nunes-marques
+  date: '2026-03-20'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

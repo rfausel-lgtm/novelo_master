@@ -1,0 +1,51 @@
+id: claim-wagner-recebeu-vantagens-de-gestores-do-master
+kind: claim
+statement: Jaques Wagner teria recebido vantagens econômicas de Augusto Lima e Daniel Vorcaro, diretamente
+  ou por familiares, em correlação com sua atuação parlamentar.
+classification: A
+status: disputed
+claimant_id: policia-federal
+claimant: Polícia Federal (relatório com sigilo retirado em 30/07/2026)
+date: '2026-07-30'
+related_entity_ids:
+- jaques-wagner
+- augusto-lima
+- daniel-vorcaro
+event_ids:
+- evt-2026-07-30-mendonca-retira-sigilo-relatorio-pf-wagner
+- evt-2026-06-18-compliance-zero-9a-fase-wagner
+evidence_ids:
+- ev-pf-relatorio-wagner-vantagens
+- ev-pf-70-contatos-lima-wagner
+- ev-wagner-certeza-inocencia
+- ev-lula-defende-wagner-2026-08-27
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+- src-poder360-2026-08-27-lula-defende-wagner
+limits: A própria PF classifica o conjunto como preliminar e indiciário; o relatório não foi lido pela
+  equipe (PDF de 33 MB publicado pelo Poder360). Não há denúncia nem decisão judicial de mérito no corpus.
+counter_position:
+- kind: denial
+  summary: 'Wagner: ''certeza'' de que provará sua inocência.'
+  source_ids:
+  - src-poder360-2026-07-31-pf-wagner-relatorio
+  by_id: jaques-wagner
+  date: '2026-07-31'
+- kind: version
+  summary: 'Lula: ''até agora não está provado''; não faz política ''vivendo de ilações''.'
+  source_ids:
+  - src-poder360-2026-08-27-lula-defende-wagner
+  by_id: luiz-inacio-lula-da-silva
+  date: '2026-08-27'
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: 'Tentou-se refutar com a distinção da própria PF entre proximidade pessoal (com
+    Lima, anterior ao Master) e contrapartida: o relatório fala em ''aparente correlação'', não em prova
+    de contrapartida. Mantida como alegação investigativa em disputa.'
+  outcome: disputed
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

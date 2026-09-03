@@ -1,0 +1,24 @@
+id: seq-consult-pagamentos-e-negociacao-brb
+kind: temporal_sequence
+title: Pagamentos do Master à Consult (out/2024–jul/2025) e negociação da venda ao BRB (mar–set/2025)
+step_ids:
+- evt-2024-10-2025-07-pagamentos-master-consult
+- evt-2025-03-28-brb-conselho-aprova-compra-master
+- evt-2025-09-bc-rejeita-compra-master-pelo-brb
+temporal_proximity: medium
+documentary_link: absent
+causality_proven: false
+description: O Brasil 247 observa que o período das transferências à Consult coincide com a tentativa
+  de venda do Master ao BRB, aprovada pelo conselho do BRB em março de 2025 e vetada pelo BC em setembro.
+  Nenhum documento no corpus liga os pagamentos à negociação.
+limits: Coincidência temporal apontada pela imprensa, sem nexo documental; não se conclui que os pagamentos
+  tiveram relação com a venda, com o STF ou com o ministro Nunes Marques.
+source_ids:
+- src-brasil247-2026-03-24-consult-coaf
+evidence_ids:
+- ev-coaf-master-consult-6-6-mi
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,16 @@
+id: ev-veja-delacao-alcolumbre-30-mi
+kind: evidence
+classification: A
+proposition: Segundo a Veja, proposta de delação de Vorcaro relataria pagamento de US$ 30 milhões a Davi
+  Alcolumbre em conta no exterior, conduzido por Augusto Lima, por apoio a demanda do Master.
+document_ids: []
+source_ids:
+- src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+- src-congressoemfoco-2026-06-12-alcolumbre-contesta
+attributed_to: Proposta de delação de Daniel Vorcaro, segundo a revista Veja
+date: '2026-06-11'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

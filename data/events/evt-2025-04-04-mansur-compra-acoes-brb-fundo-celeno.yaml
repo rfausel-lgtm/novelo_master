@@ -1,0 +1,36 @@
+id: evt-2025-04-04-mansur-compra-acoes-brb-fundo-celeno
+kind: event
+title: João Carlos Mansur compra ações do BRB por meio do fundo Celeno, administrado pelo Master
+event_type: transaction
+date: '2025-04-04'
+date_precision: day
+participant_ids:
+- joao-carlos-mansur
+- banco-de-brasilia-brb
+- banco-master
+- reag-investimentos
+description: Comunicação do BRB ao BC (23/04/2025) descreve a aquisição, em 04/04/2025, de recibos de
+  ações preferenciais e ações ordinárias por R$ 193,3 milhões, com recursos declarados como próprios (dividendos
+  da Lumabe Participações), no aumento de capital de R$ 2,3 bilhões aprovado pelo regulador. O BRB disse
+  ter encontrado 'achados relevantes' sobre o processo em auditoria independente.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-brb-doc-mansur-celeno-2025-04-04
+source_ids:
+- src-cnn-2026-02-05-mansur-reag-brb
+document_ids:
+- doc-2025-04-23-comunicacao-brb-bc-mansur
+public_act_ids: []
+cited_position:
+- kind: no_response
+  summary: A defesa de Mansur não respondeu à CNN.
+  source_ids:
+  - src-cnn-2026-02-05-mansur-reag-brb
+  by_id: joao-carlos-mansur
+  date: '2026-02-05'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

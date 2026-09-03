@@ -1,0 +1,38 @@
+id: go-up-entertainment
+kind: organization
+name: Go Up Entertainment
+aliases:
+- GoUp Entertainment
+- GOUP Entertainment
+org_type: company
+summary: Produtora sediada nos Estados Unidos responsável pelo filme 'Dark Horse', biografia de Jair Bolsonaro.
+  Consta como produtora no contrato de novembro de 2023 descrito pelo Intercept; recebia recursos encaminhados
+  pelo Havengate Development Fund, segundo a CNN. Declarou, em perícia privada anexada a processo em São
+  Paulo, custo de US$ 13,3 milhões para o filme (Metrópoles). Sua dona, segundo o Metrópoles, representa
+  também o Instituto Conhecer Brasil, investigado por suspeita de desvio de contrato com a Prefeitura
+  de São Paulo.
+why_in_novelo: Produtora do filme 'Dark Horse', destinatária final, segundo a imprensa, dos recursos transferidos
+  por Daniel Vorcaro a fundo nos Estados Unidos.
+cited_position:
+- kind: denial
+  summary: Segundo nota reproduzida por Mário Frias, a GOUP Entertainment afirmou não haver 'um único
+    centavo' de Vorcaro na obra.
+  source_ids:
+  - src-gazeta-2026-05-13-frias-nega
+  by_id: go-up-entertainment
+  date: '2026-05-13'
+open_questions:
+- A estrutura societária da Go Up e sua relação formal com o Havengate Development Fund não foram verificadas
+  em registros oficiais pela equipe.
+source_ids:
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+- src-congressoemfoco-2026-05-15-duvidas-filme
+- src-cnn-2026-09-dark-horse-coaf
+- src-metropoles-2026-06-produtora-dark-horse-75-milhoes
+- src-gazeta-2026-05-13-frias-nega
+jurisdiction: Estados Unidos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

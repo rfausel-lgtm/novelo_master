@@ -1,0 +1,39 @@
+id: mario-frias
+kind: person
+name: Mário Frias
+category: politician
+role: Deputado federal (PL-SP); ex-secretário especial da Cultura; produtor-executivo de 'Dark Horse'
+positions: []
+summary: Deputado federal e ator, ex-secretário especial da Cultura no governo Bolsonaro. É produtor-executivo
+  de 'Dark Horse'. Em 11/12/2024 enviou áudio a Vorcaro agradecendo o apoio ao filme, segundo o Intercept;
+  pediu a Thiago Miranda a ponte com o banqueiro para um encontro com Jair Bolsonaro (março de 2025).
+  Em nota de 13/05/2026 negou uso de dinheiro de Vorcaro no filme.
+why_in_novelo: Produtor-executivo do filme 'Dark Horse' que, segundo áudio divulgado pela imprensa, agradeceu
+  a Daniel Vorcaro pelo apoio à produção; sua negativa pública está registrada.
+cited_position:
+- kind: denial
+  summary: 'Em nota: Flávio Bolsonaro não tem sociedade no filme ou na produtora; segundo a GOUP Entertainment,
+    não há investimento de Vorcaro na obra; o projeto é 100% financiado por capital privado; denunciou
+    campanha de descredibilização por motivação ideológica.'
+  source_ids:
+  - src-gazeta-2026-05-13-frias-nega
+  by_id: mario-frias
+  date: '2026-05-13'
+open_questions:
+- O corpus não registra manifestação de Frias sobre o áudio de 11/12/2024 divulgado pelo Intercept em
+  19/05/2026.
+source_ids:
+- src-gazeta-2026-05-13-frias-nega
+- src-intercept-2026-05-19-audio-frias
+- src-intercept-2026-05-14-plano-bolsonaro-mansao
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+aliases:
+- Mario Frias
+full_name: Mário Frias
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/M%C3%A1rio_Frias
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

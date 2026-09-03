@@ -1,0 +1,14 @@
+id: ev-mansur-fundador-reag
+kind: evidence
+classification: A
+proposition: João Carlos Mansur fundou a Reag Investimentos em 2012 e a comandou até 2025, quando vendeu
+  o controle a executivos internos.
+document_ids: []
+source_ids:
+- src-cnn-2026-02-05-mansur-reag-brb
+attributed_to: CNN Brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

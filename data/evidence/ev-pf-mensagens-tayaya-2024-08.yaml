@@ -1,0 +1,18 @@
+id: ev-pf-mensagens-tayaya-2024-08
+kind: evidence
+classification: C
+proposition: Em agosto de 2024 Vorcaro voltou a cobrar Zettel ('Aquele negócio do Tayayá não foi feito?'
+  / 'Cara, me deu um puta problema. Onde tá a grana?'); Zettel respondeu 'Pagamos 20 milhões lá atrás.
+  Agora mais 15 milhões' e mencionou transferir cotas do 'fundo dono do Tayayá'.
+document_ids:
+- doc-pf-relatorio-toffoli-2026-02
+source_ids:
+- src-metropoles-2026-02-14-vorcaro-cobrado-tayaya
+- src-gazeta-2026-02-14-vorcaro-cobrado-resort
+excerpt: Pagamos 20 milhões lá atrás. Agora mais 15 milhões
+date: 2024-08
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

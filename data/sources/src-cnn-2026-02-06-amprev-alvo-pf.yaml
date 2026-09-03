@@ -1,0 +1,23 @@
+id: src-cnn-2026-02-06-amprev-alvo-pf
+kind: source
+title: Alvo da PF, previdência do Amapá investiu R$ 400 milhões no Master
+publisher: CNN Brasil
+publication_date: '2026-02-06'
+retrieved_at: '2026-09-03'
+url: https://www.cnnbrasil.com.br/economia/macroeconomia/alvo-da-pf-previdencia-do-amapa-investiu-r-400-milhoes-no-master/
+source_type: press
+summary: Em 06/02/2026 a PF cumpriu quatro mandados de busca em Macapá (operação Zona Cinzenta, 4ª Vara
+  Federal) contra o diretor-presidente da Amprev, Jocildo Silva Lemos, e dois membros do comitê de investimentos,
+  pelos votos favoráveis à aplicação de R$ 400 milhões em letras financeiras do Master; apura gestão temerária
+  e fraudulenta. Lemos foi tesoureiro de Alcolumbre em 2022; o senador não está entre os investigados.
+  A Amprev só aplicou menos que o Rioprevidência (R$ 970 mi).
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

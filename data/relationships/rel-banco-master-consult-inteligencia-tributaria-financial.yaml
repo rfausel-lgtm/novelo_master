@@ -1,0 +1,40 @@
+id: rel-banco-master-consult-inteligencia-tributaria-financial
+kind: relationship
+from_id: banco-master
+to_id: consult-inteligencia-tributaria
+relationship_type: contractual
+directed: true
+label: pagamentos de R$ 6,6 milhões (out/2024–jul/2025)
+start_date: 2024-10
+end_date: 2025-07
+description: Relatório do Coaf noticiado pelo Estadão aponta 14 transferências do Master à Consult somando
+  R$ 6,6 milhões; o banco não se manifestou sobre a natureza dos serviços; a Consult diz ter prestado
+  consultoria tributária e serviços de sistemas.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids:
+- evt-2024-10-2025-07-pagamentos-master-consult
+evidence_ids:
+- ev-coaf-master-consult-6-6-mi
+source_ids:
+- src-gazeta-2026-03-20-master-jbs-consult
+- src-oantagonista-2026-03-19-repasses-consult
+- src-band-2026-03-20-consult-filho-nunes-marques
+- src-brasil247-2026-03-24-consult-coaf
+document_ids:
+- doc-coaf-relatorio-consult-2026-03
+transaction_ids:
+- tx-2024-10-2025-07-master-consult-6-6-mi
+cited_position:
+- kind: clarification
+  summary: Serviços de auditoria e consultoria tributária e de sistemas.
+  source_ids:
+  - src-oantagonista-2026-03-19-repasses-consult
+  by_id: consult-inteligencia-tributaria
+  date: '2026-03-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

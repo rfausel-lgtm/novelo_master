@@ -1,0 +1,41 @@
+id: evt-2026-07-09-compliance-zero-10a-fase-thiago-miranda
+kind: event
+title: '10ª fase da Compliance Zero: busca e apreensão contra Thiago Miranda'
+event_type: investigation_step
+date: '2026-07-09'
+date_precision: day
+participant_ids:
+- policia-federal
+- thiago-miranda
+- andre-mendonca
+- daniel-vorcaro
+description: A PF cumpriu mandado de busca e apreensão contra o publicitário Thiago Miranda, autorizado
+  por André Mendonça. A decisão cita o 'Projeto DV' (contratação de influenciadores e jornalistas para
+  defender o Master e atacar o BC) e o levantamento de dados sigilosos de jornalistas (Malu Gaspar, Consuelo
+  Dieguez) e executivos (Milton Maluhy, Renato Breia) a pedido de Vorcaro; até então Miranda não era tratado
+  como investigado.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-decima-fase-thiago-miranda-2026-07-09
+- ev-projeto-dv-influenciadores
+source_ids:
+- src-poder360-2026-07-09-operacao-thiago-miranda
+- src-poder360-2026-07-09-quem-e-thiago-miranda
+- src-gazeta-2026-07-09-operacao-dark-horse
+document_ids:
+- doc-2026-07-09-decisao-mendonca-10a-fase
+public_act_ids: []
+cited_position:
+- kind: version
+  summary: Em depoimento de 12/05/2026, Miranda confirmou o plano com influenciadores, dizendo que sua
+    atuação se limitava a fechar contratos e repassar recursos.
+  source_ids:
+  - src-poder360-2026-07-09-quem-e-thiago-miranda
+  by_id: thiago-miranda
+  date: '2026-05-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

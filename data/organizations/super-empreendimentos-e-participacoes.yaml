@@ -1,0 +1,22 @@
+id: super-empreendimentos-e-participacoes
+kind: organization
+name: Super Empreendimentos e Participações
+aliases: []
+org_type: company
+summary: Empresa ligada a Daniel Vorcaro, então dirigida por Fabiano Zettel, que, segundo o UOL (via Revista
+  Oeste), adquiriu em fevereiro de 2024 90% do projeto eólico de Fábio Faria no Rio Grande do Norte. Segundo
+  a PGR, citada pela Oeste, teria sido usada para desviar patrimônio do Banco Master para Vorcaro.
+why_in_novelo: Veículo da compra do projeto eólico de Fábio Faria por Daniel Vorcaro, segundo a imprensa.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A composição societária da Super e a acusação da PGR não foram verificadas pela equipe em documentos
+  oficiais.
+source_ids:
+- src-oeste-2026-01-29-projeto-eolico-faria
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -5,7 +5,7 @@ to_id: daniel-vorcaro
 relationship_type: communication
 directed: false
 label: troca de mensagens (2023-2024)
-start_date: '2023-12-26'
+start_date: '2023-12-21'
 description: O relatório da PF sobre o celular de Vorcaro documenta mensagens entre Fábio Faria e o banqueiro
   entre dezembro de 2023 e novembro de 2024, sobre reuniões, compartilhamento de contato e o contrato
   com o escritório Barci de Moraes.
@@ -19,8 +19,11 @@ evidence_ids:
 - ev-ipja-faria-compartilha-contato-moraes-2023-12-26
 - ev-ipja-faria-tratativas-contrato-barci-2024-01
 - ev-ipja-cobranca-pagamento-2024-03-15
+- ev-pf-faria-intermediario-recorrente
 source_ids:
 - src-cnn-2026-09-fabio-faria-pf
+- src-cartacapital-2026-09-01-faria-ponte-moraes
+- src-terra-2026-09-01-quem-e-fabio-faria
 document_ids:
 - doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
 cited_position:

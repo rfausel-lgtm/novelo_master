@@ -1,0 +1,19 @@
+id: ev-flavio-audios-cobranca-parcelas-2025
+kind: evidence
+classification: C
+proposition: Flávio Bolsonaro enviou áudios a Vorcaro no segundo semestre de 2025 cobrando parcelas atrasadas
+  do financiamento do filme ('Como tem muita parcela pra trás, cara, tá todo mundo tenso'); a CartaCapital
+  data um áudio em 08/09/2025 e o Metrópoles registra áudio semelhante em 16/11/2025.
+document_ids: []
+source_ids:
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-metropoles-2026-06-produtora-dark-horse-75-milhoes
+- src-gazeta-2026-07-09-operacao-dark-horse
+excerpt: Como tem muita parcela pra trás, cara, tá todo mundo tenso [...]. A gente não pode vacilar, não
+  pode não honrar com os compromissos aqui.
+date: 2025-09
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

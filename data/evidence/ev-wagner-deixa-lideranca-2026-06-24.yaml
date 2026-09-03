@@ -1,0 +1,16 @@
+id: ev-wagner-deixa-lideranca-2026-06-24
+kind: evidence
+classification: D
+proposition: Em 24/06/2026 Jaques Wagner deixou a liderança do governo no Senado, em nota divulgada após
+  reunião com Lula; Teresa Leitão foi designada em 25/06.
+document_ids:
+- doc-2026-06-25-agencia-senado-wagner-lideranca
+source_ids:
+- src-senado-2026-06-25-wagner-deixa-lideranca
+- src-poder360-2026-06-24-wagner-deixa-lideranca
+date: '2026-06-24'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

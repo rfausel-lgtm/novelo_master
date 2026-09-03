@@ -1,0 +1,52 @@
+id: jocildo-lemos
+kind: person
+name: Jocildo Lemos
+category: public_official
+role: Diretor-presidente da Amapá Previdência (Amprev); ex-tesoureiro de campanha de Davi Alcolumbre
+positions:
+- title: Diretor-presidente
+  organization_id: amapa-previdencia
+  source_ids:
+  - src-amprev-2025-11-19-nota-master
+summary: Diretor-presidente da Amapá Previdência e coordenador de seu Comitê de Investimentos. Segundo
+  a PF (operação Zona Cinzenta, 06/02/2026), teve 'papel central' nas reuniões que aprovaram, em julho
+  de 2024, R$ 400 milhões em letras financeiras do Banco Master sem documentação técnica prévia; a Justiça
+  Federal autorizou buscas. Foi tesoureiro da campanha de Alcolumbre em 2022 e indicado ao cargo com apoio
+  do senador, segundo a imprensa. Em comunicado oficial de 19/11/2025 anunciou a habilitação da Amprev
+  na liquidação do Master.
+why_in_novelo: Dirigia a autarquia previdenciária do Amapá que investiu R$ 400 milhões no Banco Master,
+  investimento hoje sob investigação da PF, e tem ligação política com o presidente do Senado, segundo
+  a imprensa.
+cited_position:
+- kind: public_note
+  summary: Como presidente da Amprev, afirmou que os recursos dos segurados estão protegidos, que a autarquia
+    se habilitou junto ao BC para reaver o valor aplicado e obteve na Justiça a retenção dos consignados
+    que seriam repassados ao Master.
+  source_ids:
+  - src-amprev-2025-11-19-nota-master
+  - src-ebc-2026-02-06-pf-investiga-amprev
+  by_id: jocildo-lemos
+  date: '2026-02-06'
+- kind: no_response
+  summary: Não respondeu ao Poder360 nem à Gazeta do Povo sobre as investigações até a publicação.
+  source_ids:
+  - src-poder360-2026-02-10-amprev-zona-cinzenta
+  - src-gazeta-2026-01-29-pf-mp-amprev
+  by_id: jocildo-lemos
+open_questions:
+- A decisão da Justiça Federal que autorizou a operação Zona Cinzenta não foi lida pela equipe (o Poder360
+  publicou o PDF).
+- O corpus não registra defesa pessoal de Lemos quanto às acusações de gestão temerária.
+source_ids:
+- src-amprev-2025-11-19-nota-master
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+- src-cnn-2026-02-06-amprev-alvo-pf
+- src-ebc-2026-02-06-pf-investiga-amprev
+- src-gazeta-2026-01-29-pf-mp-amprev
+- src-metropoles-2026-01-19-aliado-alcolumbre-amprev
+full_name: Jocildo Silva Lemos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

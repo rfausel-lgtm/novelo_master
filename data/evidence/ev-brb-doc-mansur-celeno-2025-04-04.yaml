@@ -1,0 +1,17 @@
+id: ev-brb-doc-mansur-celeno-2025-04-04
+kind: evidence
+classification: A
+proposition: Documento do BRB ao BC (23/04/2025) relata que em 04/04/2025 João Carlos Mansur adquiriu,
+  por meio do fundo Celeno administrado pelo Master, 20.320.952 recibos de ações preferenciais e 1.817.063
+  ações ordinárias do BRB por R$ 193.264.870,97.
+document_ids:
+- doc-2025-04-23-comunicacao-brb-bc-mansur
+source_ids:
+- src-cnn-2026-02-05-mansur-reag-brb
+attributed_to: CNN Brasil (documento revelado pelo Metrópoles)
+date: '2025-04-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,43 @@
+id: evt-2024-07-amprev-aprova-400-mi-letras-master
+kind: event
+title: Comitê de Investimentos da Amprev aprova R$ 400 milhões em letras financeiras do Master
+event_type: transaction
+date: 2024-07
+date_precision: month
+participant_ids:
+- amapa-previdencia
+- jocildo-lemos
+- banco-master
+description: Em julho de 2024, em menos de 20 dias, o Comitê de Investimentos da Amprev, coordenado por
+  Jocildo Lemos, aprovou R$ 400 milhões em letras financeiras do Master (4,7% da carteira), sem documentação
+  técnica prévia, segundo a Justiça Federal citada pelo Poder360; em uma deliberação de R$ 100 milhões,
+  a aplicação foi condicionada apenas a visita posterior ao banco. Ata de 30/07/2024 registra alertas
+  de dois conselheiros sobre risco, segundo a Gazeta.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-amprev-400-mi-letras-master-2024-07
+- ev-ata-amprev-alertas-2024-07-30
+source_ids:
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+- src-cnn-2026-02-06-amprev-alvo-pf
+- src-ebc-2026-02-06-pf-investiga-amprev
+- src-gazeta-2026-01-29-pf-mp-amprev
+- src-metropoles-2026-01-19-aliado-alcolumbre-amprev
+document_ids:
+- doc-2024-07-30-ata-comite-investimentos-amprev
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: Davi Alcolumbre negou qualquer relação com a indicação dos gestores ou com a aquisição dos
+    papéis.
+  source_ids:
+  - src-metropoles-2026-01-19-aliado-alcolumbre-amprev
+  - src-gazeta-2026-01-29-pf-mp-amprev
+  by_id: davi-alcolumbre
+  date: 2026-01
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

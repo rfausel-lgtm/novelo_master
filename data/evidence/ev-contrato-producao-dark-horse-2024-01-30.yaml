@@ -1,0 +1,17 @@
+id: ev-contrato-producao-dark-horse-2024-01-30
+kind: evidence
+classification: C
+proposition: Contrato de produção datado de novembro de 2023 e assinado digitalmente por Eduardo Bolsonaro
+  em 30/01/2024 traz a GoUp Entertainment como produtora e Eduardo Bolsonaro e Mario Frias como produtores-executivos,
+  com atribuições relativas a financiamento e orçamento.
+document_ids:
+- doc-2024-01-30-contrato-producao-dark-horse
+source_ids:
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+- src-congressoemfoco-2026-05-15-duvidas-filme
+date: '2024-01-30'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

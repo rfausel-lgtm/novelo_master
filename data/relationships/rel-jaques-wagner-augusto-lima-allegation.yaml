@@ -1,0 +1,46 @@
+id: rel-jaques-wagner-augusto-lima-allegation
+kind: relationship
+from_id: jaques-wagner
+to_id: augusto-lima
+relationship_type: investigative_allegation
+directed: false
+label: 'relatório da PF: ''longo e duradouro relacionamento''; indícios de vantagens (preliminares)'
+description: O relatório da PF tornado público em 30/07/2026 afirma que Wagner mantém 'longo e duradouro
+  relacionamento' com Augusto Lima (ao menos 70 contatos diretos) e aponta indícios, que classifica como
+  preliminares, de vantagens econômicas incluindo uso gratuito de aeronaves; o Metrópoles já apontava
+  Lima como a relação mais próxima de Wagner no Master. Wagner diz que provará sua inocência; Lula afirma
+  que nada está provado.
+evidence_class: A
+confidence: 0.4
+status: disputed
+event_ids:
+- evt-2026-06-18-compliance-zero-9a-fase-wagner
+- evt-2026-07-30-mendonca-retira-sigilo-relatorio-pf-wagner
+evidence_ids:
+- ev-pf-relatorio-wagner-vantagens
+- ev-pf-70-contatos-lima-wagner
+- ev-wagner-certeza-inocencia
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+- src-metropoles-2026-01-24-wagner-mantega
+- src-poder360-2026-08-27-lula-defende-wagner
+document_ids:
+- doc-pf-relatorio-wagner-2026-07
+cited_position:
+- kind: denial
+  summary: '''Certeza'' de que provará sua inocência.'
+  source_ids:
+  - src-poder360-2026-07-31-pf-wagner-relatorio
+  by_id: jaques-wagner
+  date: '2026-07-31'
+- kind: version
+  summary: 'Lula: ''até agora não está provado''; a relação era com Augusto antes do Master.'
+  source_ids:
+  - src-poder360-2026-08-27-lula-defende-wagner
+  by_id: luiz-inacio-lula-da-silva
+  date: '2026-08-27'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

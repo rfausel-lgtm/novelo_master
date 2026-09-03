@@ -1,0 +1,39 @@
+id: evt-2024-01-30-contrato-producao-dark-horse
+kind: event
+title: Assinatura do contrato de produção de 'Dark Horse' com Eduardo Bolsonaro e Mario Frias como produtores-executivos
+event_type: corporate_act
+date: '2024-01-30'
+date_precision: day
+participant_ids:
+- eduardo-bolsonaro
+- mario-frias
+- go-up-entertainment
+- jair-bolsonaro
+description: 'Contrato datado de novembro de 2023, assinado digitalmente por Eduardo Bolsonaro em 30/01/2024,
+  segundo o Intercept: GoUp Entertainment como produtora; Eduardo Bolsonaro e Mario Frias como produtores-executivos,
+  com atribuições relativas a financiamento e orçamento; Jair Bolsonaro cedeu os direitos de história
+  de vida. O documento não foi lido pela equipe.'
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-contrato-producao-dark-horse-2024-01-30
+- ev-jair-cedeu-direitos-historia-de-vida
+source_ids:
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+- src-congressoemfoco-2026-05-15-duvidas-filme
+document_ids:
+- doc-2024-01-30-contrato-producao-dark-horse
+public_act_ids: []
+cited_position:
+- kind: version
+  summary: Eduardo Bolsonaro disse no Instagram ter apenas cedido direitos de imagem, sem cargo de gestão
+    (segundo o Intercept).
+  source_ids:
+  - src-intercept-2026-05-15-eduardo-contrato-dark-horse
+  by_id: eduardo-bolsonaro
+  date: '2026-05-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

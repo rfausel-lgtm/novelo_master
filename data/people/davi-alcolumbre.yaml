@@ -20,12 +20,36 @@ cited_position:
     não era prioritário na sessão.
   source_ids:
   - src-senado-2026-05-21-alcolumbre-cpmi
+- kind: denial
+  summary: Negou qualquer relação com a indicação de gestores da Amprev ou com a aquisição dos papéis
+    do Master ('narrativa mentirosa e absolutamente irresponsável').
+  source_ids:
+  - src-metropoles-2026-01-19-aliado-alcolumbre-amprev
+  - src-gazeta-2026-01-29-pf-mp-amprev
+  by_id: davi-alcolumbre
+  date: 2026-01
+- kind: denial
+  summary: 'Sobre o relato de US$ 30 milhões atribuído à proposta de delação de Vorcaro (Veja): ''absolutamente
+    falsas''; jamais recebeu valores no Brasil ou no exterior; anunciou ações cíveis e criminais.'
+  source_ids:
+  - src-congressoemfoco-2026-06-12-alcolumbre-contesta
+  - src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+  by_id: davi-alcolumbre
+  date: '2026-06-12'
 open_questions:
 - O corpus não registra se e quando o requerimento da CPMI do Master foi lido.
+- O senador não é investigado na operação Zona Cinzenta, segundo a CNN; o corpus não contém documento
+  que corrobore o relato da Veja.
 source_ids:
 - src-senado-pec-65-2023-materia
 - src-senado-2026-05-21-alcolumbre-cpmi
 - src-senado-2026-02-03-cpmi-protocolada
+- src-metropoles-2026-01-19-aliado-alcolumbre-amprev
+- src-gazeta-2026-01-29-pf-mp-amprev
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+- src-cnn-2026-02-06-amprev-alvo-pf
+- src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+- src-congressoemfoco-2026-06-12-alcolumbre-contesta
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Davi_Alcolumbre
 review_status: published

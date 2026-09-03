@@ -1,0 +1,34 @@
+id: rel-eduardo-bolsonaro-go-up-entertainment-contractual
+kind: relationship
+from_id: eduardo-bolsonaro
+to_id: go-up-entertainment
+relationship_type: contractual
+directed: false
+label: produtor-executivo de 'Dark Horse' (contrato de 2024)
+start_date: '2024-01-30'
+description: Contrato de produção descrito pelo Intercept e pelo Congresso em Foco atribui a Eduardo Bolsonaro
+  a função de produtor-executivo, com atribuições relativas a financiamento e orçamento.
+evidence_class: C
+confidence: 0.75
+status: verified
+event_ids:
+- evt-2024-01-30-contrato-producao-dark-horse
+evidence_ids:
+- ev-contrato-producao-dark-horse-2024-01-30
+source_ids:
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+- src-congressoemfoco-2026-05-15-duvidas-filme
+document_ids:
+- doc-2024-01-30-contrato-producao-dark-horse
+cited_position:
+- kind: version
+  summary: Disse ter apenas cedido direitos de imagem, sem cargo de gestão.
+  source_ids:
+  - src-intercept-2026-05-15-eduardo-contrato-dark-horse
+  by_id: eduardo-bolsonaro
+  date: '2026-05-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

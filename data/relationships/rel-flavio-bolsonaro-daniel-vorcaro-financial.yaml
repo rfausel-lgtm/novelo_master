@@ -1,0 +1,53 @@
+id: rel-flavio-bolsonaro-daniel-vorcaro-financial
+kind: relationship
+from_id: flavio-bolsonaro
+to_id: daniel-vorcaro
+relationship_type: financial
+directed: false
+label: captação de recursos para o filme 'Dark Horse' (2024-2025)
+start_date: 2024-12
+via_id: thiago-miranda
+description: Mensagens e áudios divulgados pelo Intercept e confirmados por outros veículos mostram Flávio
+  Bolsonaro tratando com Vorcaro do financiamento de 'Dark Horse' e cobrando parcelas atrasadas em 2025;
+  o compromisso descrito é de R$ 134 milhões, com repasses via fundo no Texas. O senador admitiu ter buscado
+  o banqueiro como investidor privado, após negar.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids:
+- evt-2024-12-11-encontro-previsto-flavio-vorcaro-brasilia
+- evt-2025-09-audios-flavio-cobra-parcelas-dark-horse
+- evt-2026-05-14-flavio-admite-negativa-falsa
+evidence_ids:
+- ev-flavio-audios-cobranca-parcelas-2025
+- ev-vorcaro-compromisso-134-mi
+- ev-flavio-admite-mentiu-2026-05-14
+- ev-coaf-transferencia-havengate-2025-09-16
+source_ids:
+- src-congressoemfoco-2026-05-15-duvidas-filme
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-gazeta-2026-07-09-operacao-dark-horse
+- src-cnn-2026-09-dark-horse-coaf
+document_ids: []
+transaction_ids:
+- tx-2025-09-16-vorcaro-havengate-1-6-mi
+cited_position:
+- kind: version
+  summary: '''Um filho procurando investidores privados para fazer um filme privado sobre a história do
+    seu próprio pai. Zero de dinheiro público.'''
+  source_ids:
+  - src-congressoemfoco-2026-05-15-duvidas-filme
+  by_id: flavio-bolsonaro
+  date: '2026-05-14'
+- kind: version
+  summary: 'Sobre a transferência de setembro de 2025: ''Pergunte para a produtora que parcela é essa.
+    O valor está na prestação de contas''.'
+  source_ids:
+  - src-cartacapital-2026-09-01-flavio-evita-explicar
+  by_id: flavio-bolsonaro
+  date: '2026-09-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

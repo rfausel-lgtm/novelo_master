@@ -1,0 +1,23 @@
+id: src-cnn-2026-01-21-liquidacao-will-financeira
+kind: source
+title: Banco Central decreta liquidação da Will Financeira, de Vorcaro
+publisher: CNN Brasil
+publication_date: '2026-01-21'
+retrieved_at: '2026-09-03'
+url: https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-da-will-financeira-de-vorcaro/
+source_type: press
+summary: Em 21/01/2026 o BC decretou a liquidação extrajudicial da Will Financeira S.A. CFI, controlada
+  pelo Banco Master, por comprometimento econômico-financeiro, insolvência e vínculo de interesse com
+  o Master (já liquidado); nomeou Eduardo Bianchini liquidante e decretou indisponibilidade de bens de
+  controladores e ex-administradores. A defesa de Vorcaro disse que a instituição tinha administração
+  apartada.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

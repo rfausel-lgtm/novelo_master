@@ -1,0 +1,29 @@
+id: evt-2025-11-18-amprev-habilita-liquidacao-master
+kind: event
+title: Amprev anuncia habilitação junto ao BC para reaver os R$ 400 milhões aplicados no Master
+event_type: statement
+date: '2025-11-18'
+date_precision: day
+participant_ids:
+- amapa-previdencia
+- jocildo-lemos
+- banco-central-do-brasil
+description: Em coletiva de 18/11/2025, dia da liquidação do Master, Jocildo Lemos anunciou a criação
+  de comissão para acompanhar a liquidação e a habilitação da Amprev junto ao BC, afirmando que ao menos
+  19 instituições aplicaram no banco e que o pagamento dos benefícios não seria afetado.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-amprev-habilitacao-bc-2025-11-18
+- ev-lemos-diretor-presidente-amprev
+source_ids:
+- src-amprev-2025-11-19-nota-master
+document_ids:
+- doc-2025-11-19-comunicado-amprev-master
+public_act_ids: []
+location: Macapá (AP)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

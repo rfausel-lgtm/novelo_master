@@ -1,0 +1,43 @@
+id: rel-amapa-previdencia-banco-master-financial
+kind: relationship
+from_id: amapa-previdencia
+to_id: banco-master
+relationship_type: financial
+directed: true
+label: R$ 400 milhões em letras financeiras (jul/2024)
+start_date: 2024-07
+description: A Amprev aplicou R$ 400 milhões em letras financeiras do Master em julho de 2024, o segundo
+  maior aporte de entes públicos segundo a CNN; a aprovação é investigada pela PF (Zona Cinzenta) e pelo
+  MP-AP; a autarquia habilitou-se na liquidação para reaver os valores.
+evidence_class: C
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2024-07-amprev-aprova-400-mi-letras-master
+- evt-2025-11-18-amprev-habilita-liquidacao-master
+- evt-2026-02-06-operacao-zona-cinzenta-amprev
+evidence_ids:
+- ev-amprev-400-mi-letras-master-2024-07
+- ev-amprev-habilitacao-bc-2025-11-18
+- ev-zona-cinzenta-2026-02-06
+source_ids:
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+- src-cnn-2026-02-06-amprev-alvo-pf
+- src-ebc-2026-02-06-pf-investiga-amprev
+- src-amprev-2025-11-19-nota-master
+document_ids:
+- doc-2025-11-19-comunicado-amprev-master
+transaction_ids:
+- tx-2024-07-amprev-master-400-mi
+cited_position:
+- kind: public_note
+  summary: A Amprev diz sentir-se lesada pelo Master e não abrir mão do ressarcimento.
+  source_ids:
+  - src-poder360-2026-02-10-amprev-zona-cinzenta
+  by_id: amapa-previdencia
+  date: '2026-02-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

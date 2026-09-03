@@ -1,0 +1,35 @@
+id: tx-2024-02-venda-projeto-eolico-faria
+kind: transaction
+title: Venda de 90% do projeto eólico de Fábio Faria por R$ 67,5 milhões
+transaction_type: asset_sale
+from_id: fabio-faria
+to_id: super-empreendimentos-e-participacoes
+currency: BRL
+date: 2024-02
+date_precision: month
+description: Projeto de 240 MW em Galinhos (RN) avaliado em R$ 75 milhões; parte do pagamento foi um apartamento
+  de R$ 50 milhões em São Paulo, segundo o UOL.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-venda-projeto-eolico-2024-02
+source_ids:
+- src-timesbrasil-2026-08-05-faria-projeto-eolico
+- src-oeste-2026-01-29-projeto-eolico-faria
+event_ids:
+- evt-2024-02-venda-projeto-eolico-faria-vorcaro
+amount: 67500000
+amount_text: R$ 67,5 milhões (90% do projeto)
+cited_position:
+- kind: clarification
+  summary: Faria nega ter iniciado a negociação e afirma não ter tido contato com a compradora durante
+    o exercício de funções públicas.
+  source_ids:
+  - src-oeste-2026-01-29-projeto-eolico-faria
+  by_id: fabio-faria
+  date: '2026-01-29'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

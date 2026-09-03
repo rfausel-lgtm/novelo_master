@@ -1,0 +1,16 @@
+id: ev-ata-amprev-alertas-2024-07-30
+kind: evidence
+classification: A
+proposition: Ata de 30/07/2024 do Comitê de Investimentos da Amprev mostra que dois conselheiros alertaram
+  Jocildo Lemos sobre alto risco e necessidade de consultar o TCU antes do investimento no Master.
+document_ids:
+- doc-2024-07-30-ata-comite-investimentos-amprev
+source_ids:
+- src-gazeta-2026-01-29-pf-mp-amprev
+attributed_to: Gazeta do Povo (ata analisada pela reportagem)
+date: '2024-07-30'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

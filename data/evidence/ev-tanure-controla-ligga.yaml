@@ -1,0 +1,13 @@
+id: ev-tanure-controla-ligga
+kind: evidence
+classification: A
+proposition: A Ligga Telecom é controlada por fundo de Nelson Tanure.
+document_ids: []
+source_ids:
+- src-gazeta-2026-01-30-ligga-tanure-master
+attributed_to: Gazeta do Povo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,39 @@
+id: thiago-miranda
+kind: person
+name: Thiago Miranda
+category: businessperson
+role: Publicitário; ex-sócio e ex-CEO do Grupo Leo Dias; dono da Agência MiThi
+positions: []
+summary: Publicitário que prestava serviços a Daniel Vorcaro. Segundo mensagens divulgadas pelo Intercept
+  e pela Gazeta do Povo, organizou o encontro de Flávio Bolsonaro com Vorcaro em 11/12/2024 e intermediou
+  o patrocínio ao filme 'Dark Horse'. Em 09/07/2026 foi alvo de busca e apreensão na 10ª fase da Compliance
+  Zero, autorizada por André Mendonça, que cita o 'Projeto DV' (contratação de influenciadores contra
+  o BC) e levantamento de dados de jornalistas e executivos. Em depoimento à PF (12/05/2026) confirmou
+  o plano com influenciadores, dizendo que sua atuação se limitava a fechar contratos e repassar recursos.
+why_in_novelo: Alvo da 10ª fase da Operação Compliance Zero e apontado pela imprensa como intermediário
+  entre Daniel Vorcaro e Flávio Bolsonaro no financiamento do filme 'Dark Horse'.
+cited_position:
+- kind: version
+  summary: Em depoimento à PF em 12/05/2026, confirmou o plano com influenciadores para defender o Master,
+    mas disse que sua atuação se limitava a fechar contratos e repassar recursos; confirmou ter ajudado
+    na captação para 'Dark Horse'.
+  source_ids:
+  - src-poder360-2026-07-09-quem-e-thiago-miranda
+  - src-cnn-2026-09-dark-horse-coaf
+  by_id: thiago-miranda
+  date: '2026-05-12'
+open_questions:
+- A decisão de André Mendonça na 10ª fase não foi lida pela equipe (o Poder360 publicou o PDF).
+- O corpus não registra manifestação da defesa de Miranda após a operação de 09/07/2026.
+source_ids:
+- src-poder360-2026-07-09-operacao-thiago-miranda
+- src-poder360-2026-07-09-quem-e-thiago-miranda
+- src-gazeta-2026-07-09-operacao-dark-horse
+- src-intercept-2026-05-14-plano-bolsonaro-mansao
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+full_name: Thiago Miranda Silva
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

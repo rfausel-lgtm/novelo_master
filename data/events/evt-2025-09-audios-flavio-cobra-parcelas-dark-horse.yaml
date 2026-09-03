@@ -1,0 +1,38 @@
+id: evt-2025-09-audios-flavio-cobra-parcelas-dark-horse
+kind: event
+title: Áudios de Flávio Bolsonaro a Vorcaro cobrando parcelas atrasadas do filme
+event_type: communication
+date: 2025-09
+date_precision: approximate
+participant_ids:
+- flavio-bolsonaro
+- daniel-vorcaro
+description: Áudios divulgados pelo Intercept mostram Flávio Bolsonaro cobrando de Vorcaro parcelas atrasadas
+  do financiamento de 'Dark Horse', alertando para o risco de perder atores e equipe ('Imagina a gente
+  dando calote no Jim Caviezel'). A CartaCapital data um áudio em 08/09/2025; o Metrópoles registra áudio
+  de teor semelhante em 16/11/2025, véspera da primeira prisão de Vorcaro; a Gazeta situa as cobranças
+  em outubro e novembro de 2025.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-flavio-audios-cobranca-parcelas-2025
+source_ids:
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-metropoles-2026-06-produtora-dark-horse-75-milhoes
+- src-gazeta-2026-07-09-operacao-dark-horse
+document_ids: []
+public_act_ids: []
+end_date: '2025-11-16'
+cited_position:
+- kind: version
+  summary: 'Flávio: buscava recursos privados para um projeto privado; ''zero de dinheiro público, zero
+    de Lei Rouanet''.'
+  source_ids:
+  - src-congressoemfoco-2026-05-15-duvidas-filme
+  by_id: flavio-bolsonaro
+  date: '2026-05-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

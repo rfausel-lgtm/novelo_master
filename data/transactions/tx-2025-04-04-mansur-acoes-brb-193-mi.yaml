@@ -1,0 +1,26 @@
+id: tx-2025-04-04-mansur-acoes-brb-193-mi
+kind: transaction
+title: Compra de ações do BRB por João Carlos Mansur via fundo Celeno
+transaction_type: acquisition
+from_id: joao-carlos-mansur
+to_id: banco-de-brasilia-brb
+currency: BRL
+date: '2025-04-04'
+date_precision: day
+description: R$ 193.264.870,97 pagos por recibos de ações preferenciais e ações ordinárias, por meio de
+  fundo administrado pelo Master, segundo comunicação do BRB ao BC.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-brb-doc-mansur-celeno-2025-04-04
+source_ids:
+- src-cnn-2026-02-05-mansur-reag-brb
+event_ids:
+- evt-2025-04-04-mansur-compra-acoes-brb-fundo-celeno
+amount: 193264870.97
+amount_text: R$ 193,3 milhões
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

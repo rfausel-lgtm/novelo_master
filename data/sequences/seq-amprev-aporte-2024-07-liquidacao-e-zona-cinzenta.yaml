@@ -1,0 +1,29 @@
+id: seq-amprev-aporte-2024-07-liquidacao-e-zona-cinzenta
+kind: temporal_sequence
+title: Aporte da Amprev no Master (jul/2024), liquidação do banco (nov/2025) e operação Zona Cinzenta
+  (fev/2026)
+step_ids:
+- evt-2024-07-amprev-aprova-400-mi-letras-master
+- evt-2025-11-18-amprev-habilita-liquidacao-master
+- evt-2026-02-06-operacao-zona-cinzenta-amprev
+temporal_proximity: low
+documentary_link: present
+causality_proven: false
+description: O investimento aprovado em julho de 2024, apesar de alertas registrados em ata, ficou exposto
+  com a liquidação do Master em novembro de 2025; três meses depois a PF fez buscas contra os gestores
+  que o aprovaram.
+limits: 'Não se conclui que o aporte foi motivado por influência política: a PF investiga gestão temerária
+  dos gestores; o presidente do Senado não é investigado e nega qualquer participação nas nomeações ou
+  decisões.'
+source_ids:
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+- src-cnn-2026-02-06-amprev-alvo-pf
+- src-amprev-2025-11-19-nota-master
+evidence_ids:
+- ev-amprev-400-mi-letras-master-2024-07
+- ev-zona-cinzenta-2026-02-06
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

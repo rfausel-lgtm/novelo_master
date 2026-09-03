@@ -1,0 +1,23 @@
+id: entre-investimentos-e-participacoes
+kind: organization
+name: Entre Investimentos e Participações
+aliases: []
+org_type: company
+summary: Empresa apontada pelo Intercept e pelo Congresso em Foco como ligada a Daniel Vorcaro e origem
+  das transferências ao Havengate Development Fund para o filme 'Dark Horse'.
+why_in_novelo: Empresa de onde partiram, segundo a imprensa, os recursos de Daniel Vorcaro para o fundo
+  que financiou 'Dark Horse'.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A composição societária da Entre Investimentos e Participações não foi verificada pela equipe em registros
+  oficiais.
+source_ids:
+- src-intercept-2026-07-02-havengate
+- src-congressoemfoco-2026-05-15-duvidas-filme
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

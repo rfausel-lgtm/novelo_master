@@ -1,0 +1,17 @@
+id: ev-miranda-depoimento-2026-05-12
+kind: evidence
+classification: A
+proposition: Em depoimento à PF em 12/05/2026, Thiago Miranda confirmou o plano com influenciadores e
+  disse que sua atuação se limitava a fechar contratos e repassar recursos; confirmou ter ajudado na captação
+  para 'Dark Horse'.
+document_ids: []
+source_ids:
+- src-poder360-2026-07-09-quem-e-thiago-miranda
+- src-cnn-2026-09-dark-horse-coaf
+attributed_to_id: thiago-miranda
+date: '2026-05-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

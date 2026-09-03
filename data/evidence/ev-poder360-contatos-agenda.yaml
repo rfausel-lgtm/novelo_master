@@ -1,0 +1,15 @@
+id: ev-poder360-contatos-agenda
+kind: evidence
+classification: A
+proposition: O acervo pericial do celular de Vorcaro enviado à CPMI do INSS contém ao menos 84 contatos,
+  incluindo Alexandre de Moraes, Dias Toffoli, Viviane Barci de Moraes, Nunes Marques e Ricardo Lewandowski;
+  os dados não indicam conversas específicas com eles.
+document_ids: []
+source_ids:
+- src-poder360-2026-03-05-agenda-vorcaro-contatos
+attributed_to: Levantamento do Poder360
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

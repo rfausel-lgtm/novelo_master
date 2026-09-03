@@ -1,0 +1,26 @@
+id: tx-2025-09-16-vorcaro-havengate-1-6-mi
+kind: transaction
+title: Transferência de US$ 1,6 milhão de Vorcaro ao Havengate Development Fund
+transaction_type: payment
+from_id: daniel-vorcaro
+to_id: havengate-development-fund
+currency: USD
+date: '2025-09-16'
+date_precision: day
+description: Registrada em relatório do Coaf obtido pela piauí; destinada ao financiamento de 'Dark Horse'.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-coaf-transferencia-havengate-2025-09-16
+source_ids:
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-cnn-2026-09-dark-horse-coaf
+event_ids:
+- evt-2025-09-16-transferencia-vorcaro-havengate-coaf
+amount: 1600000
+amount_text: US$ 1,6 milhão (cerca de US$ 1,66 mi segundo a CartaCapital)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

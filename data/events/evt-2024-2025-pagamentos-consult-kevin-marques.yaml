@@ -1,0 +1,48 @@
+id: evt-2024-2025-pagamentos-consult-kevin-marques
+kind: event
+title: Transferências da Consult ao escritório de Kevin de Carvalho Marques (R$ 281,6 mil)
+event_type: payment
+date: '2024'
+date_precision: year
+participant_ids:
+- consult-inteligencia-tributaria
+- kevin-de-carvalho-marques
+- coaf
+description: O Coaf identificou, por amostragem, 11 transferências da Consult a Kevin de Carvalho Marques,
+  filho do ministro Nunes Marques, somando R$ 281,6 mil entre 2024 e 2025. O advogado afirma tratar-se
+  de assessoria jurídica lícita 'voltada ao fisco administrativo' por 11 meses; a Consult fala em pagamentos
+  mensais de cerca de R$ 25 mil.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-coaf-consult-kevin-281
+- ev-kevin-filho-nunes-marques
+source_ids:
+- src-gazeta-2026-03-20-master-jbs-consult
+- src-oantagonista-2026-03-19-repasses-consult
+- src-band-2026-03-20-consult-filho-nunes-marques
+- src-brasil247-2026-03-24-consult-coaf
+document_ids:
+- doc-coaf-relatorio-consult-2026-03
+public_act_ids: []
+end_date: '2025'
+cited_position:
+- kind: clarification
+  summary: Valores lícitos, decorrentes de atuação profissional voltada ao fisco administrativo; o escritório
+    nunca defendeu caso no STF.
+  source_ids:
+  - src-gazeta-2026-03-20-master-jbs-consult
+  - src-band-2026-03-20-consult-filho-nunes-marques
+  by_id: kevin-de-carvalho-marques
+  date: '2026-03-20'
+- kind: no_response
+  summary: O ministro Nunes Marques, procurado pela Band, não comentou.
+  source_ids:
+  - src-band-2026-03-20-consult-filho-nunes-marques
+  by_id: nunes-marques
+  date: '2026-03-20'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

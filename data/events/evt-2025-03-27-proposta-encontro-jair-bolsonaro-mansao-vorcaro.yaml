@@ -1,0 +1,29 @@
+id: evt-2025-03-27-proposta-encontro-jair-bolsonaro-mansao-vorcaro
+kind: event
+title: Proposta de receber Jair Bolsonaro na mansão de Vorcaro (encontro não confirmado)
+event_type: communication
+date: '2025-03-27'
+date_precision: day
+participant_ids:
+- thiago-miranda
+- daniel-vorcaro
+- jair-bolsonaro
+- mario-frias
+description: Segundo o Intercept, em 27/03/2025 (um dia após Jair Bolsonaro virar réu no STF) Thiago Miranda
+  sugeriu a Vorcaro receber o ex-presidente em sua mansão em Brasília para assistirem juntos a um documentário,
+  encaminhando print de conversa com Mario Frias; Vorcaro autorizou a organização. Os diálogos não permitem
+  confirmar se o encontro ocorreu.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-miranda-sugere-encontro-jair-mansao-2025-03-27
+source_ids:
+- src-intercept-2026-05-14-plano-bolsonaro-mansao
+document_ids: []
+public_act_ids: []
+location: Brasília (DF)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

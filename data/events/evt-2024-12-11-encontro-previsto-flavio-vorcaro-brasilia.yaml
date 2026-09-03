@@ -1,0 +1,39 @@
+id: evt-2024-12-11-encontro-previsto-flavio-vorcaro-brasilia
+kind: event
+title: Encontro previsto entre Flávio Bolsonaro e Vorcaro na casa do banqueiro em Brasília
+event_type: meeting
+date: '2024-12-11'
+date_precision: day
+participant_ids:
+- flavio-bolsonaro
+- daniel-vorcaro
+- thiago-miranda
+description: Mensagens de 08/12/2024 mostram Thiago Miranda confirmando com Vorcaro um encontro com Flávio
+  Bolsonaro para 11/12 às 17h30 na casa do banqueiro em Brasília. Pouco menos de uma hora após o horário
+  previsto, Mario Frias enviou áudio a Vorcaro agradecendo o apoio ao filme. Flávio disse ter conhecido
+  Vorcaro em dezembro de 2024. A realização efetiva do encontro não é confirmada pelos documentos citados.
+evidence_class: C
+status: unverified
+evidence_ids:
+- ev-miranda-marcou-encontro-flavio-vorcaro-2024-12-11
+- ev-frias-audio-agradece-vorcaro-2024-12-11
+source_ids:
+- src-gazeta-2026-07-09-operacao-dark-horse
+- src-intercept-2026-05-19-audio-frias
+- src-congressoemfoco-2026-05-15-duvidas-filme
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: version
+  summary: Flávio afirmou ter conhecido Vorcaro em dezembro de 2024, quando não havia acusação contra
+    ele, e que buscava investidores privados para o filme.
+  source_ids:
+  - src-congressoemfoco-2026-05-15-duvidas-filme
+  by_id: flavio-bolsonaro
+  date: '2026-05-14'
+location: Brasília (DF)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

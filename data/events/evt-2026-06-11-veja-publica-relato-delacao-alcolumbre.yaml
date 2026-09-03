@@ -1,0 +1,40 @@
+id: evt-2026-06-11-veja-publica-relato-delacao-alcolumbre
+kind: event
+title: Veja publica que proposta de delação de Vorcaro cita US$ 30 milhões a Alcolumbre
+event_type: publication
+date: '2026-06-11'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- davi-alcolumbre
+- augusto-lima
+- policia-federal
+description: Segundo a Veja, proposta de delação de Vorcaro (rejeitada pela PF em 11/06/2026 e em análise
+  na PGR) relataria pagamento de US$ 30 milhões a Alcolumbre em conta no exterior, intermediado por Augusto
+  Lima, por apoio a demanda do Master. Alcolumbre negou ('absolutamente falsas'), disse jamais ter recebido
+  valores e anunciou ações cível e criminal. A própria revista ressalva que os relatos dependem de provas.
+evidence_class: C
+status: disputed
+evidence_ids:
+- ev-veja-delacao-alcolumbre-30-mi
+- ev-alcolumbre-nega-30-mi
+- ev-pf-rejeitou-delacao
+source_ids:
+- src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+- src-congressoemfoco-2026-06-12-alcolumbre-contesta
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: '''As alegações... são absolutamente falsas''; o senador ''jamais recebeu valores, no Brasil
+    ou no exterior''; adotará medidas judiciais cíveis e criminais.'
+  source_ids:
+  - src-congressoemfoco-2026-06-12-alcolumbre-contesta
+  - src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+  by_id: davi-alcolumbre
+  date: '2026-06-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

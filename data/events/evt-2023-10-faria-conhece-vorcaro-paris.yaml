@@ -1,0 +1,35 @@
+id: evt-2023-10-faria-conhece-vorcaro-paris
+kind: event
+title: Fábio Faria conhece Daniel Vorcaro em Paris
+event_type: meeting
+date: 2023-10
+date_precision: month
+participant_ids:
+- fabio-faria
+- daniel-vorcaro
+description: Segundo a revista piauí (via Times Brasil), Faria conheceu Vorcaro em outubro de 2023 em
+  Paris e, em menos de duas semanas, já conversava sobre encontros do banqueiro com autoridades em Brasília
+  (mensagens citam Alcolumbre, Pacheco e Toffoli). Em dezembro de 2023 passou a organizar encontros de
+  Vorcaro com Alexandre de Moraes, segundo o relatório da PF.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-piaui-faria-conheceu-vorcaro-paris-2023-10
+source_ids:
+- src-timesbrasil-2026-08-05-faria-projeto-eolico
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: Faria afirmou ter 'zero' relação com o Banco Master e nunca ter vendido nada ao banco (entrevista
+    de janeiro de 2026).
+  source_ids:
+  - src-timesbrasil-2026-08-05-faria-projeto-eolico
+  by_id: fabio-faria
+  date: 2026-01
+location: Paris (França)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

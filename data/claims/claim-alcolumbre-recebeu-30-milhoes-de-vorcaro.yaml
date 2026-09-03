@@ -1,0 +1,44 @@
+id: claim-alcolumbre-recebeu-30-milhoes-de-vorcaro
+kind: claim
+statement: Daniel Vorcaro teria pago US$ 30 milhões a Davi Alcolumbre em conta no exterior, por apoio
+  a demanda do Banco Master, segundo proposta de delação relatada pela Veja.
+classification: A
+status: disputed
+claimant_id: daniel-vorcaro
+claimant: Proposta de delação de Daniel Vorcaro, segundo a revista Veja
+date: '2026-06-11'
+related_entity_ids:
+- daniel-vorcaro
+- davi-alcolumbre
+- augusto-lima
+event_ids:
+- evt-2026-06-11-veja-publica-relato-delacao-alcolumbre
+evidence_ids:
+- ev-veja-delacao-alcolumbre-30-mi
+- ev-alcolumbre-nega-30-mi
+- ev-pf-rejeitou-delacao
+source_ids:
+- src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+- src-congressoemfoco-2026-06-12-alcolumbre-contesta
+limits: A proposta de delação não foi lida pela equipe nem homologada; a PF a rejeitou por ausência de
+  provas inéditas. Não há documento público que corrobore o pagamento. Relato de colaborador não é prova.
+counter_position:
+- kind: denial
+  summary: '''Absolutamente falsas''; jamais recebeu valores no Brasil ou no exterior; medidas judiciais
+    cíveis e criminais.'
+  source_ids:
+  - src-congressoemfoco-2026-06-12-alcolumbre-contesta
+  by_id: davi-alcolumbre
+  date: '2026-06-12'
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: 'Buscou-se qualquer documento público (Coaf, decisão judicial, PGR) que sustentasse
+    o relato: nenhum localizado; a própria reportagem ressalva a necessidade de provas. Registrada como
+    alegação em disputa, sem inferência de veracidade.'
+  outcome: disputed
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

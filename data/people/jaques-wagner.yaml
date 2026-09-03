@@ -2,7 +2,7 @@ id: jaques-wagner
 kind: person
 name: Jaques Wagner
 category: politician
-role: Senador (PT-BA); líder do governo no Senado até junho de 2026
+role: Senador (PT-BA); líder do governo no Senado até 24/06/2026
 positions:
 - title: Senador
   organization_id: senado-federal
@@ -19,12 +19,32 @@ cited_position:
     PT declarou confiança no senador.
   source_ids:
   - src-poder360-2026-06-18-nona-fase-wagner
+- kind: denial
+  summary: A assessoria negou participação na contratação de Guido Mantega pelo Master.
+  source_ids:
+  - src-metropoles-2026-01-24-wagner-mantega
+  by_id: jaques-wagner
+  date: '2026-01-24'
+- kind: denial
+  summary: 'Ao deixar a liderança do governo: ''minha prioridade absoluta é provar minha inocência'';
+    disse ter ''certeza'' de que provará sua inocência após a divulgação do relatório da PF.'
+  source_ids:
+  - src-senado-2026-06-25-wagner-deixa-lideranca
+  - src-poder360-2026-07-31-pf-wagner-relatorio
+  by_id: jaques-wagner
+  date: '2026-07-31'
 open_questions:
-- A decisão do STF que autorizou a 9ª fase não foi lida pela equipe; o corpus não registra a posição do
-  senador.
+- O relatório da PF de 30/07/2026 (PDF de 33 MB) não foi lido pela equipe; o corpus registra a síntese
+  do Poder360.
+- O corpus não contém denúncia ou decisão de mérito sobre o senador.
 source_ids:
 - src-poder360-2026-06-18-nona-fase-wagner
 - src-senado-2024-08-14-pec-65-adiada
+- src-metropoles-2026-01-24-wagner-mantega
+- src-senado-2026-06-25-wagner-deixa-lideranca
+- src-poder360-2026-06-24-wagner-deixa-lideranca
+- src-poder360-2026-07-31-pf-wagner-relatorio
+- src-poder360-2026-08-27-lula-defende-wagner
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Jaques_Wagner
 review_status: published

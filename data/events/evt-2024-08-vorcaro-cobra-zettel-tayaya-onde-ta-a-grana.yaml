@@ -1,0 +1,28 @@
+id: evt-2024-08-vorcaro-cobra-zettel-tayaya-onde-ta-a-grana
+kind: event
+title: 'Nova cobrança de Vorcaro sobre o Tayayá: ''Pagamos 20 milhões lá atrás. Agora mais 15 milhões'''
+event_type: communication
+date: 2024-08
+date_precision: month
+participant_ids:
+- daniel-vorcaro
+- fabiano-zettel
+- resort-tayaya
+description: 'Em agosto de 2024 Vorcaro perguntou se ''aquele negócio do Tayayá'' fora feito e reclamou
+  (''me deu um puta problema. Onde tá a grana?''); Zettel disse que os recursos estavam com intermediário
+  e no ''fundo dono do Tayayá'', e resumiu os aportes: R$ 20 milhões anteriores e mais R$ 15 milhões.'
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-pf-mensagens-tayaya-2024-08
+source_ids:
+- src-metropoles-2026-02-14-vorcaro-cobrado-tayaya
+- src-gazeta-2026-02-14-vorcaro-cobrado-resort
+document_ids:
+- doc-pf-relatorio-toffoli-2026-02
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

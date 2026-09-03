@@ -1,0 +1,33 @@
+id: rel-jaques-wagner-guido-mantega-allegation
+kind: relationship
+from_id: jaques-wagner
+to_id: guido-mantega
+relationship_type: investigative_allegation
+directed: false
+label: teria pedido a contratação de Mantega pelo Master (Metrópoles); negado
+start_date: 2025-07
+description: Segundo integrantes do banco ouvidos pela coluna de Andreza Matais, o Master contratou Mantega
+  (R$ 1 milhão/mês) a pedido de Wagner; a assessoria do senador nega qualquer participação na contratação.
+evidence_class: A
+confidence: 0.3
+status: disputed
+event_ids: []
+evidence_ids:
+- ev-metropoles-wagner-pediu-mantega
+- ev-wagner-nega-mantega
+source_ids:
+- src-metropoles-2026-01-24-wagner-mantega
+document_ids: []
+cited_position:
+- kind: denial
+  summary: '''O senador Jaques Wagner não participou, em nenhum momento, da contratação de Guido Mantega
+    pelo Banco Master.'''
+  source_ids:
+  - src-metropoles-2026-01-24-wagner-mantega
+  by_id: jaques-wagner
+  date: '2026-01-24'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

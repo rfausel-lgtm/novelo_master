@@ -1,0 +1,45 @@
+id: claim-vorcaro-financiou-dark-horse-apos-maio-2025
+kind: claim
+statement: Daniel Vorcaro continuou a transferir recursos para o filme 'Dark Horse' após maio de 2025,
+  data que Flávio Bolsonaro apontou como último pagamento.
+classification: C
+status: verified
+claimant_id: coaf
+claimant: Relatório do Coaf, obtido pela revista piauí
+date: '2025-09-16'
+related_entity_ids:
+- daniel-vorcaro
+- flavio-bolsonaro
+- havengate-development-fund
+event_ids:
+- evt-2025-09-16-transferencia-vorcaro-havengate-coaf
+- evt-2025-09-audios-flavio-cobra-parcelas-dark-horse
+evidence_ids:
+- ev-coaf-transferencia-havengate-2025-09-16
+- ev-flavio-audios-cobranca-parcelas-2025
+source_ids:
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-cnn-2026-09-dark-horse-coaf
+- src-cartacapital-2026-09-01-flavio-evita-explicar
+limits: O relatório do Coaf não foi lido pela equipe. Os registros documentam a transferência e sua data,
+  não a destinação final dos recursos nem o conhecimento do senador sobre cada parcela; a conversa de
+  outubro de 2025 não comprova uma nova transferência.
+counter_position:
+- kind: version
+  summary: Flávio remeteu as explicações à produtora e disse que o valor 'está na prestação de contas'.
+  source_ids:
+  - src-cartacapital-2026-09-01-flavio-evita-explicar
+  by_id: flavio-bolsonaro
+  date: '2026-09-01'
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: 'Tentou-se refutar com a hipótese de erro de data no relatório: CNN confirmou
+    a parcela e a data com fontes próprias, e a cobrança de 08/09/2025 é coerente com um pagamento posterior.
+    A proposição limita-se ao registro do Coaf. Mantida.'
+  outcome: stands
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,26 @@
+id: doc-coaf-relatorio-consult-2026-03
+kind: document
+title: Relatório do Coaf sobre a Consult Inteligência Tributária (descrito pela imprensa)
+doc_type: official_report
+date: '2026'
+source_ids:
+- src-gazeta-2026-03-20-master-jbs-consult
+- src-oantagonista-2026-03-19-repasses-consult
+- src-brasil247-2026-03-24-consult-coaf
+summary: 'Relatório obtido pelo Estadão e pela Folha: R$ 6,6 milhões do Master e R$ 11,3 milhões da JBS
+  à Consult (2024-2025), movimentações atípicas e 11 transferências (R$ 281,6 mil) ao escritório de Kevin
+  de Carvalho Marques. Não lido pela equipe.'
+is_official: true
+related_entity_ids:
+- banco-master
+- jbs
+- consult-inteligencia-tributaria
+- kevin-de-carvalho-marques
+issuer_id: coaf
+issuer: Coaf
+date_precision: year
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

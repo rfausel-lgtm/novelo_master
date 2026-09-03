@@ -21,6 +21,22 @@ cited_position:
   summary: Afirmou nunca ter recebido pagamentos e nunca ter tido relação com Daniel Vorcaro (Reuters).
   source_ids:
   - src-reuters-2026-02-12-toffoli-nega
+- kind: public_note
+  summary: 'Nota de 12/02/2026: integra o quadro societário da Maridt, empresa familiar sem atos de gestão,
+    que foi sócia do grupo Tayayá até 21/02/2025; desconhece o gestor do Fundo Arllen; jamais teve amizade
+    com Vorcaro nem recebeu valores.'
+  source_ids:
+  - src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
+  - src-gazeta-2026-02-12-toffoli-confirma-socio
+  by_id: dias-toffoli
+  date: '2026-02-12'
+- kind: public_note
+  summary: Nota de 29/01/2026 do gabinete com a cronologia da relatoria (sorteio em 28/11/2025; oitivas
+    e acareação em 30/12/2025).
+  source_ids:
+  - src-stf-2026-01-29-nota-gabinete-toffoli
+  by_id: dias-toffoli
+  date: '2026-01-29'
 open_questions:
 - A relatoria anterior do caso e as razões da suspeição não estão documentadas em fonte primária no corpus;
   devem ser pesquisadas.
@@ -28,6 +44,12 @@ source_ids:
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
 - src-reuters-2026-02-12-toffoli-nega
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
+- src-stf-2026-01-29-nota-gabinete-toffoli
+- src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
+- src-gazeta-2026-02-12-toffoli-confirma-socio
+- src-metropoles-2026-02-14-vorcaro-cobrado-tayaya
+- src-gazeta-2026-02-14-vorcaro-cobrado-resort
+- src-poder360-2026-03-05-agenda-vorcaro-contatos
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

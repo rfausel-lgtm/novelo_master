@@ -1,0 +1,27 @@
+id: banco-pleno
+kind: organization
+name: Banco Pleno
+aliases:
+- Voiter
+org_type: financial_institution
+summary: Banco de Augusto Lima, ex-sócio de Vorcaro no Master; operava como Voiter até a aquisição por
+  Lima, aprovada pelo BC em julho de 2025. Em 18/02/2026 o BC decretou a liquidação extrajudicial do Banco
+  Pleno S.A. e da Pleno DTVM por comprometimento econômico-financeiro e infringência às normas, segundo
+  a imprensa.
+why_in_novelo: Instituição do ex-sócio de Daniel Vorcaro, liquidada pelo Banco Central em fevereiro de
+  2026, segundo a imprensa.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O ato do BC de 18/02/2026 não foi lido pela equipe (páginas do BC exigem JavaScript).
+source_ids:
+- src-b3-2026-02-18-liquidacao-banco-pleno
+- src-poder360-2026-06-24-wagner-deixa-lideranca
+- src-cnn-2026-03-04-relembre-crise-master
+full_name: Banco Pleno S.A.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

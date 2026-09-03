@@ -1,0 +1,48 @@
+id: evt-2024-10-2025-07-pagamentos-master-consult
+kind: event
+title: Pagamentos do Banco Master à Consult Inteligência Tributária (R$ 6,6 milhões)
+event_type: payment
+date: 2024-10
+date_precision: month
+participant_ids:
+- banco-master
+- consult-inteligencia-tributaria
+- coaf
+description: 'Relatório do Coaf noticiado pelo Estadão: 14 transferências do Master à Consult entre outubro
+  de 2024 e julho de 2025, somando R$ 6,6 milhões, período que coincide com a negociação da venda do Master
+  ao BRB. A JBS pagou R$ 11,3 milhões no mesmo período. O Master não se manifestou; a Consult diz ter
+  prestado auditoria e consultoria tributária e serviços de sistemas.'
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-coaf-master-consult-6-6-mi
+- ev-coaf-jbs-consult-11-3-mi
+- ev-coaf-hipotese-conta-passagem
+source_ids:
+- src-gazeta-2026-03-20-master-jbs-consult
+- src-oantagonista-2026-03-19-repasses-consult
+- src-band-2026-03-20-consult-filho-nunes-marques
+- src-brasil247-2026-03-24-consult-coaf
+document_ids:
+- doc-coaf-relatorio-consult-2026-03
+public_act_ids: []
+end_date: 2025-07
+cited_position:
+- kind: clarification
+  summary: A Consult afirmou ter prestado serviços de auditoria e consultoria tributária e de sistemas
+    aos grupos.
+  source_ids:
+  - src-oantagonista-2026-03-19-repasses-consult
+  by_id: consult-inteligencia-tributaria
+  date: '2026-03-19'
+- kind: no_response
+  summary: O Banco Master não quis comentar.
+  source_ids:
+  - src-oantagonista-2026-03-19-repasses-consult
+  - src-band-2026-03-20-consult-filho-nunes-marques
+  by_id: banco-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,40 @@
+id: rel-thiago-miranda-daniel-vorcaro-professional
+kind: relationship
+from_id: thiago-miranda
+to_id: daniel-vorcaro
+relationship_type: professional
+directed: false
+label: publicitário a serviço de Vorcaro; intermediou o patrocínio ao filme
+start_date: 2024-12
+description: Miranda prestava serviços a Vorcaro, organizou o encontro com Flávio Bolsonaro (11/12/2024),
+  intermediou o patrocínio a 'Dark Horse' e, segundo a decisão de Mendonça, articulou o 'Projeto DV';
+  foi alvo da 10ª fase da Compliance Zero.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids:
+- evt-2024-12-11-encontro-previsto-flavio-vorcaro-brasilia
+- evt-2026-07-09-compliance-zero-10a-fase-thiago-miranda
+evidence_ids:
+- ev-miranda-marcou-encontro-flavio-vorcaro-2024-12-11
+- ev-projeto-dv-influenciadores
+- ev-decima-fase-thiago-miranda-2026-07-09
+- ev-vorcaro-libera-parcela-2025-10-22
+source_ids:
+- src-poder360-2026-07-09-operacao-thiago-miranda
+- src-poder360-2026-07-09-quem-e-thiago-miranda
+- src-gazeta-2026-07-09-operacao-dark-horse
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+document_ids: []
+cited_position:
+- kind: version
+  summary: Sua atuação se limitava a fechar contratos e repassar recursos (depoimento de 12/05/2026).
+  source_ids:
+  - src-poder360-2026-07-09-quem-e-thiago-miranda
+  by_id: thiago-miranda
+  date: '2026-05-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

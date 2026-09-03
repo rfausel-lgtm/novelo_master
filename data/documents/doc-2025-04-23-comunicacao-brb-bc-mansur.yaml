@@ -1,0 +1,22 @@
+id: doc-2025-04-23-comunicacao-brb-bc-mansur
+kind: document
+title: Comunicação do BRB ao Banco Central sobre a aquisição de ações por João Carlos Mansur
+doc_type: letter
+date: '2025-04-23'
+source_ids:
+- src-cnn-2026-02-05-mansur-reag-brb
+summary: 'Documento revelado pelo Metrópoles e obtido pela CNN: em 04/04/2025 Mansur adquiriu, via fundo
+  Celeno (administrado pelo Master), ações do BRB por R$ 193.264.870,97 no aumento de capital de R$ 2,3
+  bilhões. Não lido pela equipe.'
+is_official: false
+related_entity_ids:
+- joao-carlos-mansur
+- banco-de-brasilia-brb
+- banco-master
+issuer_id: banco-de-brasilia-brb
+issuer: BRB
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

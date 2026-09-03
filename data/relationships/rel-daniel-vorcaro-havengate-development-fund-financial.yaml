@@ -1,0 +1,32 @@
+id: rel-daniel-vorcaro-havengate-development-fund-financial
+kind: relationship
+from_id: daniel-vorcaro
+to_id: havengate-development-fund
+relationship_type: financial
+directed: true
+label: transferências para financiar 'Dark Horse' (≥ US$ 12,3 mi)
+start_date: '2025'
+description: Empresas ligadas a Vorcaro transferiram ao menos US$ 10,6 milhões ao fundo texano via Entre
+  Investimentos e Participações (Intercept); relatório do Coaf registra mais US$ 1,6 milhão em 16/09/2025,
+  elevando o total conhecido a US$ 12,3 milhões (piauí, via CartaCapital e CNN).
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids:
+- evt-2025-09-16-transferencia-vorcaro-havengate-coaf
+evidence_ids:
+- ev-havengate-recebeu-10-6-mi-entre
+- ev-coaf-transferencia-havengate-2025-09-16
+source_ids:
+- src-intercept-2026-07-02-havengate
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-cnn-2026-09-dark-horse-coaf
+document_ids: []
+transaction_ids:
+- tx-2025-09-16-vorcaro-havengate-1-6-mi
+- tx-2024-2025-entre-havengate-10-6-mi
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

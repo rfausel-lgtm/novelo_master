@@ -1,0 +1,14 @@
+id: ev-inqueritos-stf-dark-horse
+kind: evidence
+classification: A
+proposition: 'Há dois inquéritos no STF sobre ''Dark Horse'': um relatado por André Mendonça (financiamento)
+  e outro por Flávio Dino (suposto uso de emendas parlamentares).'
+document_ids: []
+source_ids:
+- src-cnn-2026-09-dark-horse-coaf
+attributed_to: CNN Brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

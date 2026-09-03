@@ -1,0 +1,29 @@
+id: evt-2026-03-05-poder360-lista-contatos-celular-vorcaro
+kind: event
+title: Poder360 publica lista de contatos do celular de Vorcaro (ministros do STF, BC, políticos)
+event_type: publication
+date: '2026-03-05'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- dias-toffoli
+- alexandre-de-moraes
+- nunes-marques
+- ricardo-lewandowski
+- viviane-barci-de-moraes
+description: Levantamento do Poder360 no acervo pericial enviado pela PF à CPMI do INSS identificou ao
+  menos 84 contatos na agenda de Vorcaro, incluindo ministros do STF, o presidente e diretores do BC,
+  senadores e deputados. Os dados confirmam os contatos, mas não indicam conversas específicas com eles.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-poder360-contatos-agenda
+source_ids:
+- src-poder360-2026-03-05-agenda-vorcaro-contatos
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

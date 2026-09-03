@@ -1,0 +1,17 @@
+id: ev-toffoli-deixa-relatoria-2026-02-12
+kind: evidence
+classification: C
+proposition: Em 12/02/2026 Toffoli deixou a relatoria do inquérito do Master, após a entrega ao STF do
+  relatório da PF com menções ao ministro, e André Mendonça foi sorteado relator.
+document_ids:
+- doc-pf-relatorio-toffoli-2026-02
+source_ids:
+- src-apublica-2026-02-13-mendonca-herda-caso
+- src-cnn-2026-02-12-toffoli-deixa-relatoria
+- src-gazeta-2026-02-12-toffoli-confirma-socio
+date: '2026-02-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

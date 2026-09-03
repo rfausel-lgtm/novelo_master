@@ -1,0 +1,23 @@
+id: rel-eduardo-bolsonaro-jair-bolsonaro-familial
+kind: relationship
+from_id: eduardo-bolsonaro
+to_id: jair-bolsonaro
+relationship_type: familial
+directed: false
+label: filho
+description: Eduardo Bolsonaro é filho de Jair Bolsonaro.
+evidence_class: C
+confidence: 0.99
+status: verified
+event_ids: []
+evidence_ids:
+- ev-contrato-producao-dark-horse-2024-01-30
+source_ids:
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+- src-congressoemfoco-2026-05-15-duvidas-filme
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

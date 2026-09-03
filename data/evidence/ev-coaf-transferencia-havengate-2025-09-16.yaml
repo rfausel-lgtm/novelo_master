@@ -1,0 +1,16 @@
+id: ev-coaf-transferencia-havengate-2025-09-16
+kind: evidence
+classification: C
+proposition: Relatório do Coaf registra transferência de cerca de US$ 1,6 milhão de Daniel Vorcaro ao
+  Havengate Development Fund em 16/09/2025, elevando o total conhecido para US$ 12,3 milhões.
+document_ids:
+- doc-coaf-relatorio-dark-horse-2025-09
+source_ids:
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-cnn-2026-09-dark-horse-coaf
+date: '2025-09-16'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

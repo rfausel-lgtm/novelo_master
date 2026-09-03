@@ -14,11 +14,21 @@ summary: Ministro do STF, integrante da Segunda Turma que referendou em 20/03/20
 why_in_novelo: Votou, na Segunda Turma do STF, no referendo da prisão preventiva de investigados do caso
   Master, conforme comunicação oficial do tribunal.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+- kind: no_response
+  summary: Procurado pela Band em 20/03/2026 sobre os repasses da Consult ao escritório do filho, não
+    comentou.
+  source_ids:
+  - src-band-2026-03-20-consult-filho-nunes-marques
+  by_id: nunes-marques
+  date: '2026-03-20'
+open_questions:
+- O corpus não registra manifestação do ministro sobre os pagamentos da Consult ao escritório de seu filho.
 source_ids:
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
+- src-band-2026-03-20-consult-filho-nunes-marques
+- src-gazeta-2026-03-20-master-jbs-consult
+- src-conjur-2026-06-06-fachin-rejeita-suspeicao-nunes-marques
+- src-poder360-2026-03-05-agenda-vorcaro-contatos
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

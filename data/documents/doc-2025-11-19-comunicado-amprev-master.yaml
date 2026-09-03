@@ -1,0 +1,22 @@
+id: doc-2025-11-19-comunicado-amprev-master
+kind: document
+title: Comunicado da Amprev sobre a liquidação do Banco Master
+doc_type: public_statement
+date: '2025-11-19'
+source_ids:
+- src-amprev-2025-11-19-nota-master
+summary: 'Comunicado oficial no portal da autarquia: coletiva de 18/11/2025 do diretor-presidente Jocildo
+  Lemos; criação de comissão e habilitação junto ao BC para reaver os valores aplicados no Master.'
+is_official: true
+related_entity_ids:
+- amapa-previdencia
+- jocildo-lemos
+- banco-master
+issuer_id: amapa-previdencia
+issuer: Amapá Previdência
+url: https://amprev.ap.gov.br/noticia/amprev-garante-o-pagamento-dos-beneficios-e-cria-comissao-para-se-habilitar-ao-recebimento-dos-investimentos-do-banco-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

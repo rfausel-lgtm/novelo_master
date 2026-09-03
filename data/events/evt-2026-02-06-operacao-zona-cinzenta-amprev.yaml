@@ -1,0 +1,39 @@
+id: evt-2026-02-06-operacao-zona-cinzenta-amprev
+kind: event
+title: 'Operação Zona Cinzenta: PF faz buscas contra gestores da Amprev'
+event_type: investigation_step
+date: '2026-02-06'
+date_precision: day
+participant_ids:
+- policia-federal
+- amapa-previdencia
+- jocildo-lemos
+description: A PF cumpriu quatro mandados de busca e apreensão em Macapá, autorizados pela 4ª Vara da
+  Justiça Federal, contra Jocildo Lemos e dois membros do comitê de investimentos (José Milton Afonso
+  Gonçalves e Jackson Rubens de Oliveira), por suspeita de gestão temerária e fraudulenta na aplicação
+  de R$ 400 milhões no Master. Davi Alcolumbre não está entre os investigados, segundo a CNN.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-zona-cinzenta-2026-02-06
+source_ids:
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+- src-cnn-2026-02-06-amprev-alvo-pf
+- src-ebc-2026-02-06-pf-investiga-amprev
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: public_note
+  summary: A Amprev afirmou sentir-se lesada pelo Master, que os recursos dos segurados estão protegidos
+    e que espera a punição dos responsáveis pelo banco.
+  source_ids:
+  - src-poder360-2026-02-10-amprev-zona-cinzenta
+  - src-ebc-2026-02-06-pf-investiga-amprev
+  by_id: amapa-previdencia
+  date: '2026-02-09'
+location: Macapá (AP)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

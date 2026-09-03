@@ -1,0 +1,29 @@
+id: rel-reag-investimentos-banco-master-financial
+kind: relationship
+from_id: reag-investimentos
+to_id: banco-master
+relationship_type: financial
+directed: false
+label: fundos administrados pela Reag em operações com o Master (2023-2024)
+start_date: 2023-07
+end_date: 2024-07
+description: O BC relatou ao TCU, segundo a CNN, que entre julho de 2023 e julho de 2024 o Master e fundos
+  administrados pela Reag estruturaram operações em desacordo com as normas do SFN; o Migalhas cita cerca
+  de 90 fundos nas suspeitas.
+evidence_class: A
+confidence: 0.6
+status: unverified
+event_ids:
+- evt-2026-01-bc-liquida-reag-cbsf-dtvm
+evidence_ids:
+- ev-bc-tcu-reag-master-operacoes
+- ev-bc-liquida-reag-2026-01
+source_ids:
+- src-cnn-2026-02-05-mansur-reag-brb
+- src-migalhas-2026-02-03-liquidacao-reag-will
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

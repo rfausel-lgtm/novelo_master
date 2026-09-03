@@ -1,0 +1,28 @@
+id: tx-2024-07-amprev-master-400-mi
+kind: transaction
+title: Aplicação de R$ 400 milhões da Amprev em letras financeiras do Banco Master
+transaction_type: investment
+from_id: amapa-previdencia
+to_id: banco-master
+currency: BRL
+date: 2024-07
+date_precision: month
+description: Aprovada em julho de 2024 pelo Comitê de Investimentos da Amprev; hoje sob investigação da
+  PF (Zona Cinzenta) e do MP-AP.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-amprev-400-mi-letras-master-2024-07
+source_ids:
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+- src-cnn-2026-02-06-amprev-alvo-pf
+- src-ebc-2026-02-06-pf-investiga-amprev
+event_ids:
+- evt-2024-07-amprev-aprova-400-mi-letras-master
+amount: 400000000
+amount_text: R$ 400 milhões
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

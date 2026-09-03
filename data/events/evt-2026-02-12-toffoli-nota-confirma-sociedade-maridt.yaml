@@ -1,0 +1,29 @@
+id: evt-2026-02-12-toffoli-nota-confirma-sociedade-maridt
+kind: event
+title: Toffoli confirma sociedade na Maridt e nega relação com Vorcaro
+event_type: statement
+date: '2026-02-12'
+date_precision: day
+participant_ids:
+- dias-toffoli
+- maridt-participacoes
+description: Em nota de 12/02/2026, o gabinete de Toffoli admitiu que o ministro integra o quadro societário
+  da Maridt, empresa familiar administrada por parentes, que foi sócia do grupo Tayayá até 21/02/2025;
+  invocou o art. 36 da Loman; negou amizade com Vorcaro e recebimento de valores. No mesmo dia deixou
+  a relatoria do caso.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-toffoli-socio-maridt
+- ev-toffoli-nota-nega-valores
+source_ids:
+- src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
+- src-gazeta-2026-02-12-toffoli-confirma-socio
+document_ids:
+- doc-2026-02-12-nota-toffoli-maridt-tayaya
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

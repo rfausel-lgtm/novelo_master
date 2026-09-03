@@ -1,0 +1,15 @@
+id: ev-wagner-certeza-inocencia
+kind: evidence
+classification: A
+proposition: Wagner disse ter 'certeza' de que provará sua inocência e que está 'tranquilo'.
+document_ids: []
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+- src-poder360-2026-06-24-wagner-deixa-lideranca
+attributed_to_id: jaques-wagner
+date: '2026-07-31'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

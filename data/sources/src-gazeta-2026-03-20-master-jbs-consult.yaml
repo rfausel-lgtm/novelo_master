@@ -1,0 +1,24 @@
+id: src-gazeta-2026-03-20-master-jbs-consult
+kind: source
+title: Master e JBS pagaram R$ 18 milhões a consultoria envolvida com escritório do filho de Nunes Marques
+publisher: Gazeta do Povo
+publication_date: '2026-03-20'
+retrieved_at: '2026-09-03'
+url: https://www.gazetadopovo.com.br/republica/master-jbs-pagaram-consultoria-envolvida-escritorio-filho-nunes-marques/
+source_type: press
+summary: 'Com base em dados do Coaf (via Estadão): R$ 6,6 milhões do Master e R$ 11,3 milhões da JBS à
+  Consult Inteligência Tributária entre agosto de 2024 e julho de 2025, classificados como atípicos por
+  incompatibilidade com o faturamento declarado (R$ 25,5 mil); 11 transferências somando R$ 281,6 mil
+  a Kevin de Carvalho Marques, que afirmou tratar-se de atuação profissional lícita ''voltada ao fisco
+  administrativo''.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+author: Guilherme Grandi
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

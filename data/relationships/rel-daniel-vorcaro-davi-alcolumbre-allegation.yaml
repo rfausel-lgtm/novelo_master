@@ -1,0 +1,38 @@
+id: rel-daniel-vorcaro-davi-alcolumbre-allegation
+kind: relationship
+from_id: daniel-vorcaro
+to_id: davi-alcolumbre
+relationship_type: investigative_allegation
+directed: false
+label: relato de US$ 30 milhões em proposta de delação (Veja); negado; proposta rejeitada pela PF
+via_id: augusto-lima
+description: Segundo a Veja, proposta de delação de Vorcaro relataria pagamento de US$ 30 milhões a Alcolumbre
+  em conta no exterior, intermediado por Augusto Lima, por apoio a demanda do Master. A PF rejeitou a
+  proposta por falta de provas inéditas; Alcolumbre nega e anunciou ações judiciais. Nenhum documento
+  público corrobora o relato.
+evidence_class: A
+confidence: 0.2
+status: disputed
+event_ids:
+- evt-2026-06-11-veja-publica-relato-delacao-alcolumbre
+evidence_ids:
+- ev-veja-delacao-alcolumbre-30-mi
+- ev-alcolumbre-nega-30-mi
+- ev-pf-rejeitou-delacao
+source_ids:
+- src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+- src-congressoemfoco-2026-06-12-alcolumbre-contesta
+document_ids: []
+cited_position:
+- kind: denial
+  summary: '''Absolutamente falsas''; jamais recebeu valores no Brasil ou no exterior; medidas judiciais
+    cíveis e criminais.'
+  source_ids:
+  - src-congressoemfoco-2026-06-12-alcolumbre-contesta
+  by_id: davi-alcolumbre
+  date: '2026-06-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

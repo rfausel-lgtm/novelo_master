@@ -1,0 +1,23 @@
+id: doc-coaf-relatorio-dark-horse-2025-09
+kind: document
+title: Relatório do Coaf sobre transferências ao Havengate Development Fund (descrito pela imprensa)
+doc_type: official_report
+date: '2026'
+source_ids:
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-cnn-2026-09-dark-horse-coaf
+summary: Relatório de inteligência financeira obtido pela revista piauí, que registra transferência de
+  US$ 1,6 milhão de Vorcaro ao Havengate Development Fund em 16/09/2025. Não lido pela equipe; descrito
+  por CartaCapital e CNN.
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- havengate-development-fund
+issuer_id: coaf
+issuer: Coaf
+date_precision: year
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

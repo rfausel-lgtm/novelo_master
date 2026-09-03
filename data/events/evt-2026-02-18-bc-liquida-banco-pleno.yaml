@@ -1,0 +1,28 @@
+id: evt-2026-02-18-bc-liquida-banco-pleno
+kind: event
+title: Banco Central decreta liquidação extrajudicial do Banco Pleno, de Augusto Lima
+event_type: regulatory_act
+date: '2026-02-18'
+date_precision: day
+participant_ids:
+- banco-central-do-brasil
+- banco-pleno
+- augusto-lima
+description: O BC decretou a liquidação do Banco Pleno S.A. (ex-Voiter) e da Pleno DTVM por comprometimento
+  econômico-financeiro, deterioração de liquidez e infringência às normas; grupo de pequeno porte (segmento
+  S4), 0,04% do ativo total do SFN.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-bc-liquida-banco-pleno-2026-02-18
+- ev-augusto-lima-dono-banco-pleno
+source_ids:
+- src-b3-2026-02-18-liquidacao-banco-pleno
+- src-cnn-2026-03-04-relembre-crise-master
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

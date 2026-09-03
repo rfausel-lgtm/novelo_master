@@ -1,0 +1,23 @@
+id: rel-flavio-bolsonaro-jair-bolsonaro-familial
+kind: relationship
+from_id: flavio-bolsonaro
+to_id: jair-bolsonaro
+relationship_type: familial
+directed: false
+label: filho
+description: Flávio Bolsonaro é filho de Jair Bolsonaro, objeto do filme 'Dark Horse'.
+evidence_class: C
+confidence: 0.99
+status: verified
+event_ids: []
+evidence_ids:
+- ev-flavio-audios-cobranca-parcelas-2025
+source_ids:
+- src-congressoemfoco-2026-05-15-duvidas-filme
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

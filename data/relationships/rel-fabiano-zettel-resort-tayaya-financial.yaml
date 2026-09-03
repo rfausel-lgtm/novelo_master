@@ -1,0 +1,28 @@
+id: rel-fabiano-zettel-resort-tayaya-financial
+kind: relationship
+from_id: fabiano-zettel
+to_id: resort-tayaya
+relationship_type: financial
+directed: false
+label: operador dos aportes; acionista dos fundos compradores (segundo a imprensa)
+start_date: 2024-05
+description: Zettel organizava os pagamentos de Vorcaro ao fundo do Tayayá (mensagens da PF) e, segundo
+  a Gazeta e o Metrópoles, era acionista dos fundos que compraram a participação da Maridt no resort.
+evidence_class: A
+confidence: 0.6
+status: unverified
+event_ids:
+- evt-2024-05-vorcaro-cobra-zettel-aporte-tayaya
+- evt-2024-08-vorcaro-cobra-zettel-tayaya-onde-ta-a-grana
+evidence_ids:
+- ev-maridt-vendeu-fundos-zettel
+- ev-pf-mensagens-tayaya-2024-08
+source_ids:
+- src-gazeta-2026-02-14-vorcaro-cobrado-resort
+- src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

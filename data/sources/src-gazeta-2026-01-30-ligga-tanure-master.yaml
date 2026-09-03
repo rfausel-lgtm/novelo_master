@@ -1,0 +1,23 @@
+id: src-gazeta-2026-01-30-ligga-tanure-master
+kind: source
+title: Sob Tanure, Ligga aplicou dinheiro do caixa no Master e foi rebaixada por agência de risco
+publisher: Gazeta do Povo
+publication_date: '2026-01-30'
+retrieved_at: '2026-09-03'
+url: https://www.gazetadopovo.com.br/economia/ligga-telecom-tanure-banco-master-ccbs/
+source_type: press
+summary: Documentos internos da Ligga Telecom (controlada por Nelson Tanure) indicam que parte de cerca
+  de R$ 350 milhões do caixa foi aplicada em CCBs do Banco Master, sem montante público; a Moody's rebaixou
+  o rating em dezembro de 2025 por 'opacidade de informação'. Tanure foi alvo da 2ª fase da Compliance
+  Zero em 14/01/2026.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+author: Célio Yano
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

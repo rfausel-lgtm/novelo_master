@@ -1,0 +1,38 @@
+id: evt-2024-05-vorcaro-cobra-zettel-aporte-tayaya
+kind: event
+title: Vorcaro cobra de Zettel o aporte ao 'fundo Tayayá' e manda pagar 'Tayaya - 15'
+event_type: communication
+date: 2024-05
+date_precision: month
+participant_ids:
+- daniel-vorcaro
+- fabiano-zettel
+- resort-tayaya
+description: 'Mensagens extraídas pela PF (via Estadão): Vorcaro pergunta a Zettel se o aporte ao fundo
+  Tayayá foi resolvido (''Estou em situação ruim''); Zettel apresenta lista de pagamentos com ''Tayaya
+  - 15'', que a PF lê como R$ 15 milhões; Vorcaro responde ''Paga tudo hoje''. A PF não identifica quem
+  cobrava o banqueiro.'
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-pf-mensagens-aporte-tayaya-2024-05
+source_ids:
+- src-metropoles-2026-02-14-vorcaro-cobrado-tayaya
+- src-gazeta-2026-02-14-vorcaro-cobrado-resort
+document_ids:
+- doc-pf-relatorio-toffoli-2026-02
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: 'Toffoli: a Maridt deixou o negócio em fevereiro de 2025; jamais recebeu valores de Vorcaro
+    ou Zettel; não exerceu atos de gestão.'
+  source_ids:
+  - src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
+  - src-metropoles-2026-02-14-vorcaro-cobrado-tayaya
+  by_id: dias-toffoli
+  date: '2026-02-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,47 @@
+id: evt-2026-07-30-mendonca-retira-sigilo-relatorio-pf-wagner
+kind: event
+title: Mendonça retira o sigilo do relatório da PF sobre Jaques Wagner
+event_type: judicial_decision
+date: '2026-07-30'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- jaques-wagner
+- augusto-lima
+- daniel-vorcaro
+- policia-federal
+description: O relatório, tornado público em 30/07/2026, aponta indícios que a PF classifica como preliminares
+  e indiciários de 'vantagens econômicas diversas' a Wagner por Augusto Lima e Vorcaro (incluindo uso
+  gratuito de aeronaves) e registra ao menos 70 contatos entre Lima e o senador; afirma que a proximidade
+  com Vorcaro se deu por intermédio de Lima. A PF ressalva que a presença de pessoas no organograma não
+  implica participação na fraude.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-pf-relatorio-wagner-vantagens
+- ev-pf-70-contatos-lima-wagner
+- ev-wagner-certeza-inocencia
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+document_ids:
+- doc-pf-relatorio-wagner-2026-07
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: Wagner disse ter 'certeza' de que provará sua inocência e que está 'tranquilo'.
+  source_ids:
+  - src-poder360-2026-07-31-pf-wagner-relatorio
+  by_id: jaques-wagner
+  date: '2026-07-31'
+- kind: version
+  summary: 'Lula: ''até agora não está provado'' elo de Wagner com o Master; a relação era com Augusto
+    Lima antes de sua ligação com o banco.'
+  source_ids:
+  - src-poder360-2026-08-27-lula-defende-wagner
+  by_id: luiz-inacio-lula-da-silva
+  date: '2026-08-27'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

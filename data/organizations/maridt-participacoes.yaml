@@ -1,0 +1,33 @@
+id: maridt-participacoes
+kind: organization
+name: Maridt Participações
+aliases:
+- Maridt
+org_type: company
+summary: Sociedade anônima de capital fechado da família Toffoli (o ministro Dias Toffoli e os irmãos
+  José Eugênio e José Carlos Dias Toffoli), administrada por parentes do ministro, segundo nota de seu
+  gabinete (12/02/2026). Deteve participação no grupo Tayayá Ribeirão Claro até 21/02/2025; a nota afirma
+  que tudo foi declarado à Receita e que as vendas se deram a valor de mercado.
+why_in_novelo: Empresa da família de Dias Toffoli que foi sócia do Resort Tayayá, empreendimento citado
+  em mensagens de Daniel Vorcaro obtidas pela PF.
+cited_position:
+- kind: public_note
+  summary: 'Nota do gabinete de Toffoli: a Maridt é empresa familiar; o ministro integra o quadro societário
+    sem atos de gestão (Loman, art. 36); a participação no Tayayá foi encerrada em 21/02/2025; tudo declarado
+    à Receita.'
+  source_ids:
+  - src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
+  - src-gazeta-2026-02-12-toffoli-confirma-socio
+  by_id: dias-toffoli
+  date: '2026-02-12'
+open_questions:
+- Os atos societários da Maridt na Junta Comercial não foram consultados pela equipe.
+source_ids:
+- src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
+- src-gazeta-2026-02-12-toffoli-confirma-socio
+- src-metropoles-2026-02-14-vorcaro-cobrado-tayaya
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

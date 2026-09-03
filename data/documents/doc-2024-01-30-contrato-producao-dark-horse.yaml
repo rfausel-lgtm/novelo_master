@@ -1,0 +1,23 @@
+id: doc-2024-01-30-contrato-producao-dark-horse
+kind: document
+title: Contrato de produção do filme 'Dark Horse' (então 'O Capitão do Povo')
+doc_type: contract
+date: '2024-01-30'
+source_ids:
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+- src-congressoemfoco-2026-05-15-duvidas-filme
+summary: 'Contrato datado de novembro de 2023 e assinado digitalmente por Eduardo Bolsonaro em 30/01/2024,
+  obtido pelo Intercept: GoUp como produtora, Eduardo Bolsonaro e Mario Frias como produtores-executivos;
+  Jair Bolsonaro cedeu os direitos de história de vida. Não lido pela equipe.'
+is_official: false
+related_entity_ids:
+- eduardo-bolsonaro
+- mario-frias
+- go-up-entertainment
+- jair-bolsonaro
+issuer: GoUp Entertainment, Eduardo Bolsonaro e Mario Frias
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

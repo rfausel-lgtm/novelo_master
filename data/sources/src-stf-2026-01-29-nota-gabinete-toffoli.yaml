@@ -1,0 +1,23 @@
+id: src-stf-2026-01-29-nota-gabinete-toffoli
+kind: source
+title: 'Nota do Gabinete do Ministro Dias Toffoli: principais andamentos do caso Master no STF'
+publisher: Supremo Tribunal Federal
+publication_date: '2026-01-29'
+retrieved_at: '2026-09-03'
+url: https://noticias.stf.jus.br/postsnoticias/nota-do-gabinete-do-ministro-dias-toffoli-2/
+source_type: official_court
+summary: 'Nota oficial de 29/01/2026: Toffoli foi sorteado relator da Compliance Zero em 28/11/2025; em
+  03/12/2025 determinou a remessa do processo ao STF mantendo cautelares e sigilo; em 15/12/2025 determinou
+  oitivas dos principais investigados e de dirigentes do BC; em 30/12/2025 houve oitivas e acareação entre
+  Daniel Vorcaro e Paulo Henrique Costa; a reclamação foi julgada parcialmente procedente para reconhecer
+  a competência do STF.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

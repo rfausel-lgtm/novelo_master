@@ -1,0 +1,27 @@
+id: doc-pf-relatorio-toffoli-2026-02
+kind: document
+title: Relatório da PF ao STF com menções a Dias Toffoli no celular de Vorcaro (descrito pela imprensa)
+doc_type: official_report
+date: 2026-02
+source_ids:
+- src-gazeta-2026-02-14-vorcaro-cobrado-resort
+- src-metropoles-2026-02-14-vorcaro-cobrado-tayaya
+- src-gazeta-2026-02-12-toffoli-confirma-socio
+- src-apublica-2026-02-13-mendonca-herda-caso
+summary: Relatório de quase 200 páginas entregue por Andrei Rodrigues a Edson Fachin em fevereiro de 2026,
+  com mensagens de Vorcaro e Zettel sobre aportes ao Tayayá; após sua entrega, Toffoli deixou a relatoria.
+  Não lido pela equipe; trechos publicados pelo Estadão.
+is_official: true
+related_entity_ids:
+- dias-toffoli
+- daniel-vorcaro
+- fabiano-zettel
+- resort-tayaya
+issuer_id: policia-federal
+issuer: Polícia Federal
+date_precision: month
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

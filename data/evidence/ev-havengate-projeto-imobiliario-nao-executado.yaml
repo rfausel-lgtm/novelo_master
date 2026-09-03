@@ -1,0 +1,15 @@
+id: ev-havengate-projeto-imobiliario-nao-executado
+kind: evidence
+classification: A
+proposition: O Havengate Development Fund foi criado para um projeto imobiliário de US$ 21,1 milhões em
+  Melissa (Texas) que nunca saiu do papel, sem terreno registrado nem alvará, segundo checagem do Intercept
+  em registros oficiais e no local.
+document_ids: []
+source_ids:
+- src-intercept-2026-07-02-havengate
+attributed_to: The Intercept Brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

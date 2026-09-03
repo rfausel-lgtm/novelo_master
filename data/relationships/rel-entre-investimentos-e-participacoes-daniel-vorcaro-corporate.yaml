@@ -1,0 +1,26 @@
+id: rel-entre-investimentos-e-participacoes-daniel-vorcaro-corporate
+kind: relationship
+from_id: entre-investimentos-e-participacoes
+to_id: daniel-vorcaro
+relationship_type: corporate
+directed: false
+label: empresa ligada a Vorcaro (origem dos repasses)
+description: O Intercept e o Congresso em Foco descrevem a Entre Investimentos e Participações como empresa
+  ligada a Vorcaro por meio da qual os recursos foram enviados ao Havengate Development Fund.
+evidence_class: C
+confidence: 0.6
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-havengate-recebeu-10-6-mi-entre
+source_ids:
+- src-intercept-2026-07-02-havengate
+- src-congressoemfoco-2026-05-15-duvidas-filme
+document_ids: []
+transaction_ids:
+- tx-2024-2025-entre-havengate-10-6-mi
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

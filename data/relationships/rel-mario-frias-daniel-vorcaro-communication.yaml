@@ -1,0 +1,36 @@
+id: rel-mario-frias-daniel-vorcaro-communication
+kind: relationship
+from_id: mario-frias
+to_id: daniel-vorcaro
+relationship_type: communication
+directed: false
+label: áudio de agradecimento pelo apoio ao filme (11/12/2024)
+start_date: '2024-12-11'
+description: Em 11/12/2024 Frias enviou áudio a Vorcaro agradecendo pelo apoio a 'Dark Horse' e pedindo
+  autorização para informá-lo sobre a produção; em março de 2025 pediu a Thiago Miranda a ponte com o
+  banqueiro para um encontro com Jair Bolsonaro.
+evidence_class: C
+confidence: 0.8
+status: verified
+event_ids:
+- evt-2024-12-11-encontro-previsto-flavio-vorcaro-brasilia
+- evt-2025-03-27-proposta-encontro-jair-bolsonaro-mansao-vorcaro
+evidence_ids:
+- ev-frias-audio-agradece-vorcaro-2024-12-11
+source_ids:
+- src-intercept-2026-05-19-audio-frias
+- src-gazeta-2026-07-09-operacao-dark-horse
+document_ids: []
+cited_position:
+- kind: denial
+  summary: 'Nota de 13/05/2026: não há investimento de Vorcaro na obra; projeto financiado por capital
+    privado.'
+  source_ids:
+  - src-gazeta-2026-05-13-frias-nega
+  by_id: mario-frias
+  date: '2026-05-13'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

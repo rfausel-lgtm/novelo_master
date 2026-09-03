@@ -2,7 +2,7 @@ id: fabio-faria
 kind: person
 name: Fábio Faria
 category: politician
-role: Empresário e ex-ministro das Comunicações (2020-2022); ex-deputado federal
+role: Empresário e ex-ministro das Comunicações (2020-2022); ex-deputado federal; dirigente do SBT News
 positions: []
 summary: Ex-ministro das Comunicações do governo Bolsonaro e ex-deputado federal. Segundo o relatório
   da PF sobre o celular de Vorcaro, compartilhou com o banqueiro, em 26/12/2023, contatos salvos como
@@ -21,6 +21,22 @@ cited_position:
     dos valores contratados entre as partes.
   source_ids:
   - src-cnn-2026-09-fabio-faria-pf
+- kind: denial
+  summary: Em entrevista de janeiro de 2026, afirmou ter 'zero' relação com o Banco Master e nunca ter
+    vendido nada ao banco; sobre o projeto eólico, disse não ter tido contato com a compradora enquanto
+    exerceu funções públicas.
+  source_ids:
+  - src-timesbrasil-2026-08-05-faria-projeto-eolico
+  - src-oeste-2026-01-29-projeto-eolico-faria
+  by_id: fabio-faria
+  date: 2026-01
+- kind: clarification
+  summary: Ao Terra, disse que Vorcaro o questionou sobre a contratação do escritório de Viviane Barci
+    e que recomendou a advogada.
+  source_ids:
+  - src-terra-2026-09-01-quem-e-fabio-faria
+  by_id: fabio-faria
+  date: '2026-09-01'
 open_questions:
 - O corpus não registra a data exata da nota de Faria nem manifestação sobre os encontros descritos pela
   PF.
@@ -28,6 +44,10 @@ open_questions:
 source_ids:
 - src-cnn-2026-09-fabio-faria-pf
 - src-congressoemfoco-2026-09-01-relatorio-pf
+- src-timesbrasil-2026-08-05-faria-projeto-eolico
+- src-oeste-2026-01-29-projeto-eolico-faria
+- src-terra-2026-09-01-quem-e-fabio-faria
+- src-cartacapital-2026-09-01-faria-ponte-moraes
 full_name: Fábio Salustino Mesquita de Faria
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/F%C3%A1bio_Faria

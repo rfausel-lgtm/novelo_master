@@ -1,0 +1,16 @@
+id: ev-toffoli-nota-nega-valores
+kind: evidence
+classification: C
+proposition: Na nota de 12/02/2026 o ministro afirmou desconhecer o gestor do Fundo Arllen, jamais ter
+  tido amizade com Vorcaro e jamais ter recebido valores.
+document_ids:
+- doc-2026-02-12-nota-toffoli-maridt-tayaya
+source_ids:
+- src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
+- src-gazeta-2026-02-12-toffoli-confirma-socio
+date: '2026-02-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

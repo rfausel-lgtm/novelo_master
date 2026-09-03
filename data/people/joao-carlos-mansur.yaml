@@ -1,0 +1,29 @@
+id: joao-carlos-mansur
+kind: person
+name: João Carlos Mansur
+category: businessperson
+role: Fundador da Reag Investimentos; acionista do BRB
+positions: []
+summary: Fundou a Reag Investimentos em 2012 e a comandou até 2025, quando vendeu o controle a executivos
+  internos. Segundo documento do BRB ao BC (23/04/2025) noticiado pelo Metrópoles e pela CNN, adquiriu
+  em 04/04/2025 ações do BRB por R$ 193,3 milhões por meio do fundo Celeno, administrado pelo Banco Master,
+  passando a deter 4,5% da estatal. Foi alvo da operação Carbono Oculto. Sua defesa não respondeu à CNN.
+why_in_novelo: Comprou ações do BRB por meio de fundo administrado pelo Banco Master, segundo documento
+  do próprio BRB noticiado pela imprensa.
+cited_position:
+- kind: no_response
+  summary: A defesa de João Carlos Mansur não respondeu à CNN Brasil até a publicação.
+  source_ids:
+  - src-cnn-2026-02-05-mansur-reag-brb
+  by_id: joao-carlos-mansur
+  date: '2026-02-05'
+open_questions:
+- O documento do BRB ao BC não foi lido pela equipe.
+- O corpus não registra a situação atual da participação de Mansur no BRB após a auditoria independente.
+source_ids:
+- src-cnn-2026-02-05-mansur-reag-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

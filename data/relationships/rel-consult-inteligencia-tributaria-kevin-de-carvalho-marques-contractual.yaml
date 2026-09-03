@@ -1,0 +1,39 @@
+id: rel-consult-inteligencia-tributaria-kevin-de-carvalho-marques-contractual
+kind: relationship
+from_id: consult-inteligencia-tributaria
+to_id: kevin-de-carvalho-marques
+relationship_type: contractual
+directed: true
+label: assessoria jurídica; R$ 281,6 mil em 11 transferências
+start_date: '2024'
+end_date: '2025'
+description: A Consult contratou o escritório de Kevin de Carvalho Marques para 'serviços técnicos e assessoria
+  jurídica' (2024-2025); o Coaf identificou 11 transferências somando R$ 281,6 mil.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids:
+- evt-2024-2025-pagamentos-consult-kevin-marques
+evidence_ids:
+- ev-coaf-consult-kevin-281
+source_ids:
+- src-gazeta-2026-03-20-master-jbs-consult
+- src-oantagonista-2026-03-19-repasses-consult
+- src-band-2026-03-20-consult-filho-nunes-marques
+- src-brasil247-2026-03-24-consult-coaf
+document_ids:
+- doc-coaf-relatorio-consult-2026-03
+transaction_ids:
+- tx-2024-2025-consult-kevin-marques-281-mil
+cited_position:
+- kind: clarification
+  summary: Valores lícitos por assessoria voltada ao fisco administrativo; nunca atuou em caso no STF.
+  source_ids:
+  - src-gazeta-2026-03-20-master-jbs-consult
+  by_id: kevin-de-carvalho-marques
+  date: '2026-03-20'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

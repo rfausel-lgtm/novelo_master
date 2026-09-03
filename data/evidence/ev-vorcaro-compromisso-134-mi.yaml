@@ -1,0 +1,16 @@
+id: ev-vorcaro-compromisso-134-mi
+kind: evidence
+classification: C
+proposition: Documentos e diálogos divulgados pelo Intercept indicam que Vorcaro se comprometeu a investir
+  R$ 134 milhões (US$ 24 milhões em 14 parcelas) no filme, dos quais R$ 62 milhões teriam sido repassados
+  até a divulgação.
+document_ids: []
+source_ids:
+- src-gazeta-2026-07-09-operacao-dark-horse
+- src-metropoles-2026-06-produtora-dark-horse-75-milhoes
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

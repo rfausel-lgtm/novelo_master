@@ -1,0 +1,27 @@
+id: rel-mario-frias-go-up-entertainment-contractual
+kind: relationship
+from_id: mario-frias
+to_id: go-up-entertainment
+relationship_type: contractual
+directed: false
+label: produtor-executivo de 'Dark Horse'
+start_date: '2024-01-30'
+description: Mário Frias é produtor-executivo do filme, conforme o contrato descrito pelo Intercept e
+  sua própria nota de 13/05/2026.
+evidence_class: C
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2024-01-30-contrato-producao-dark-horse
+evidence_ids:
+- ev-contrato-producao-dark-horse-2024-01-30
+- ev-frias-nota-nega-2026-05-13
+source_ids:
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+- src-gazeta-2026-05-13-frias-nega
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

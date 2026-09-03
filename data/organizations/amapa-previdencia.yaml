@@ -1,0 +1,38 @@
+id: amapa-previdencia
+kind: organization
+name: Amapá Previdência
+aliases:
+- Amprev
+- RPPS/AP
+org_type: public_body
+summary: Autarquia do Governo do Amapá que gere o regime próprio de previdência dos servidores estaduais
+  (cerca de 30 mil segurados ativos, segundo a Agência Brasil). Investiu R$ 400 milhões em letras financeiras
+  do Banco Master em julho de 2024, aprovação hoje investigada pela PF (operação Zona Cinzenta, 06/02/2026)
+  e pelo MP-AP. Em 19/11/2025 informou ter se habilitado junto ao BC para reaver o valor.
+why_in_novelo: Fundo previdenciário público que investiu R$ 400 milhões no Banco Master, o segundo maior
+  aporte de entes públicos segundo a CNN, com aprovação sob investigação.
+cited_position:
+- kind: public_note
+  summary: Afirmou sentir-se 'lesada pelos malfeitos do banco Master', que 'não abre mão de ser ressarcida',
+    que os recursos dos segurados estão protegidos e que se habilitou junto ao BC na liquidação.
+  source_ids:
+  - src-poder360-2026-02-10-amprev-zona-cinzenta
+  - src-amprev-2025-11-19-nota-master
+  - src-ebc-2026-02-06-pf-investiga-amprev
+  by_id: amapa-previdencia
+  date: '2026-02-09'
+open_questions:
+- A ata de 30/07/2024 do Comitê de Investimentos foi lida pela Gazeta do Povo, não pela equipe.
+source_ids:
+- src-amprev-2025-11-19-nota-master
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+- src-cnn-2026-02-06-amprev-alvo-pf
+- src-ebc-2026-02-06-pf-investiga-amprev
+- src-gazeta-2026-01-29-pf-mp-amprev
+- src-metropoles-2026-01-19-aliado-alcolumbre-amprev
+jurisdiction: Amapá
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,29 @@
+id: rel-joao-carlos-mansur-banco-de-brasilia-brb-corporate
+kind: relationship
+from_id: joao-carlos-mansur
+to_id: banco-de-brasilia-brb
+relationship_type: corporate
+directed: false
+label: acionista (4,5%) via fundo administrado pelo Master
+start_date: '2025-04-04'
+via_id: banco-master
+description: Segundo comunicação do BRB ao BC noticiada pela CNN, Mansur comprou ações do BRB em 04/04/2025
+  por R$ 193,3 milhões por meio do fundo Celeno, administrado pelo Master, e detém 4,5% da estatal.
+evidence_class: A
+confidence: 0.6
+status: unverified
+event_ids:
+- evt-2025-04-04-mansur-compra-acoes-brb-fundo-celeno
+evidence_ids:
+- ev-brb-doc-mansur-celeno-2025-04-04
+source_ids:
+- src-cnn-2026-02-05-mansur-reag-brb
+document_ids:
+- doc-2025-04-23-comunicacao-brb-bc-mansur
+transaction_ids:
+- tx-2025-04-04-mansur-acoes-brb-193-mi
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

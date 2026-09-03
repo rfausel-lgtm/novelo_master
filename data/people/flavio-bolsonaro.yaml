@@ -1,0 +1,63 @@
+id: flavio-bolsonaro
+kind: person
+name: Flávio Bolsonaro
+category: politician
+role: Senador (PL-RJ); candidato à Presidência da República em 2026
+positions:
+- title: Senador
+  organization_id: senado-federal
+  source_ids:
+  - src-congressoemfoco-2026-05-15-duvidas-filme
+summary: Senador pelo Rio de Janeiro e filho de Jair Bolsonaro. Mensagens e áudios divulgados pelo Intercept
+  em maio de 2026 mostram tratativas com Daniel Vorcaro para financiar o filme 'Dark Horse', com cobrança
+  de parcelas atrasadas; em 14/05/2026 admitiu à GloboNews ter negado a relação anteriormente ('Eu menti'),
+  atribuindo a negativa a contrato de confidencialidade. Em 01/09/2026, diante do registro do Coaf de
+  nova transferência em setembro de 2025, remeteu explicações à produtora.
+why_in_novelo: Aparece em mensagens e áudios, divulgados pela imprensa, tratando com Daniel Vorcaro do
+  financiamento do filme 'Dark Horse'; sua posição pública está registrada.
+cited_position:
+- kind: version
+  summary: Afirmou que se tratava de 'um filho procurando investidores privados para fazer um filme privado
+    sobre a história do seu próprio pai', sem dinheiro público, e que conheceu Vorcaro em dezembro de
+    2024, quando 'não havia absolutamente nenhuma acusação contra ele'.
+  source_ids:
+  - src-congressoemfoco-2026-05-15-duvidas-filme
+  by_id: flavio-bolsonaro
+  date: '2026-05-14'
+- kind: clarification
+  summary: À GloboNews, admitiu ter negado a relação ('Eu menti'), alegando cláusula de confidencialidade
+    com investidores, sem apresentar o contrato; prometeu prestação de contas em 30 dias.
+  source_ids:
+  - src-congressoemfoco-2026-05-15-duvidas-filme
+  - src-cartacapital-2026-09-01-flavio-evita-explicar
+  by_id: flavio-bolsonaro
+  date: '2026-05-14'
+- kind: version
+  summary: 'Sobre a transferência de setembro de 2025 registrada pelo Coaf: ''Essas informações eu não
+    tenho como saber porque eu não trato disso... Pergunte para a produtora que parcela é essa. O valor
+    está na prestação de contas''.'
+  source_ids:
+  - src-cartacapital-2026-09-01-flavio-evita-explicar
+  - src-cnn-2026-09-dark-horse-coaf
+  by_id: flavio-bolsonaro
+  date: '2026-09-01'
+open_questions:
+- A prestação de contas do filme prometida em maio de 2026 não foi localizada pela equipe.
+- O corpus não contém o contrato de confidencialidade mencionado pelo senador.
+- Os inquéritos no STF (relatores André Mendonça e Flávio Dino) não foram lidos pela equipe; o corpus
+  registra apenas a descrição da imprensa.
+source_ids:
+- src-congressoemfoco-2026-05-15-duvidas-filme
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-cartacapital-2026-09-01-flavio-evita-explicar
+- src-cnn-2026-09-dark-horse-coaf
+- src-gazeta-2026-07-09-operacao-dark-horse
+- src-metropoles-2026-06-produtora-dark-horse-75-milhoes
+full_name: Flávio Nantes Bolsonaro
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

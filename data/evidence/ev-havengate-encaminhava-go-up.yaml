@@ -1,0 +1,14 @@
+id: ev-havengate-encaminhava-go-up
+kind: evidence
+classification: C
+proposition: O Havengate Development Fund administrava o dinheiro destinado a 'Dark Horse' e encaminhava
+  os recursos à Go Up Entertainment, produtora do filme.
+document_ids: []
+source_ids:
+- src-cnn-2026-09-dark-horse-coaf
+- src-congressoemfoco-2026-05-15-duvidas-filme
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,14 @@
+id: ev-ligga-ccbs-master
+kind: evidence
+classification: A
+proposition: Documentos internos da Ligga Telecom indicam que parte de cerca de R$ 350 milhões retirados
+  do caixa foi aplicada em CCBs do Banco Master; o montante não é público.
+document_ids: []
+source_ids:
+- src-gazeta-2026-01-30-ligga-tanure-master
+attributed_to: Gazeta do Povo (documentos internos da operadora)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

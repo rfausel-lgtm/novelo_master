@@ -1,0 +1,29 @@
+id: rel-thiago-miranda-flavio-bolsonaro-intermediary
+kind: relationship
+from_id: thiago-miranda
+to_id: flavio-bolsonaro
+relationship_type: communication
+directed: false
+label: marcou o encontro com Vorcaro (dez/2024) e seguiu intermediando o negócio do filme
+start_date: '2024-12-08'
+description: Segundo mensagens divulgadas pelo Intercept e pela Gazeta, Miranda marcou o encontro de Flávio
+  com Vorcaro em 11/12/2024 e seguiu intermediando o negócio do filme em 2025 ('Flávio disse que iria
+  te ligar tb').
+evidence_class: C
+confidence: 0.8
+status: verified
+event_ids:
+- evt-2024-12-11-encontro-previsto-flavio-vorcaro-brasilia
+evidence_ids:
+- ev-miranda-marcou-encontro-flavio-vorcaro-2024-12-11
+- ev-vorcaro-libera-parcela-2025-10-22
+source_ids:
+- src-gazeta-2026-07-09-operacao-dark-horse
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-intercept-2026-05-19-audio-frias
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

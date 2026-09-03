@@ -20,8 +20,11 @@ evidence_ids:
 - ev-ipja-faria-compartilha-contato-moraes-2023-12-26
 - ev-pf-encontros-vorcaro-moraes
 - ev-cnn-faria-nao-e-alvo
+- ev-pf-faria-intermediario-recorrente
 source_ids:
 - src-cnn-2026-09-fabio-faria-pf
+- src-cartacapital-2026-09-01-faria-ponte-moraes
+- src-terra-2026-09-01-quem-e-fabio-faria
 document_ids: []
 cited_position:
 - by_id: fabio-faria

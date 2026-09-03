@@ -1,0 +1,23 @@
+id: doc-pf-relatorio-wagner-2026-07
+kind: document
+title: Relatório da PF sobre Jaques Wagner (sigilo retirado em 30/07/2026)
+doc_type: official_report
+date: 2026-07
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+summary: 'Relatório enviado ao STF, com sigilo retirado por André Mendonça em 30/07/2026 (PDF de 33 MB
+  publicado pelo Poder360): indícios preliminares de vantagens econômicas a Wagner por Augusto Lima e
+  Vorcaro; ao menos 70 contatos entre Lima e o senador. Não lido pela equipe.'
+is_official: true
+related_entity_ids:
+- jaques-wagner
+- augusto-lima
+- daniel-vorcaro
+issuer_id: policia-federal
+issuer: Polícia Federal
+date_precision: month
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
