@@ -1,0 +1,26 @@
+id: credcesta
+kind: organization
+name: CredCesta
+aliases: []
+org_type: company
+summary: Plataforma de crédito consignado oferecida a servidores públicos e pensionistas do estado da
+  Bahia. Segundo a representação da PF, foi criada e operacionalizada no contexto da Empresa Baiana de
+  Alimentos, e foram as carteiras de crédito do CredCesta que credenciaram Augusto Ferreira Lima a se
+  tornar sócio de Daniel Vorcaro no Banco Master em 2019. A mesma representação afirma que o ativo teria
+  servido como um dos instrumentos de fraudes de larga escala entre 2024 e 2025, com desfalques ao Banco
+  de Brasília.
+why_in_novelo: É o ativo que, segundo a Polícia Federal, ligou Augusto Lima ao Banco Master e está no
+  centro do modelo de crédito consignado do banco.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O corpus não registra a estrutura societária do CredCesta nem manifestação de seus responsáveis.
+- A atribuição de uso do ativo em fraudes é da autoridade policial, sem juízo de mérito.
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

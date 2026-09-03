@@ -1,0 +1,21 @@
+id: src-dou-2026-02-19-atos-1377-1378
+kind: source
+title: Atos do Presidente nº 1.377 e nº 1.378, de 18 de fevereiro de 2026
+publisher: Diário Oficial da União
+publication_date: '2026-02-19'
+retrieved_at: '2026-09-03'
+url: https://www.in.gov.br/web/dou/-/ato-do-presidente-n-1.377-de-18-de-fevereiro-de-2026-687610916
+source_type: official_gazette
+summary: Edição 33, Seção 1, página 71, órgão Banco Central do Brasil/Diretoria Colegiada. O Ato nº 1.377
+  decreta a liquidação extrajudicial do Banco Pleno S.A. e o Ato nº 1.378 a da Pleno Distribuidora de
+  Títulos e Valores Mobiliários S.A., ambos assinados por Gabriel Muricca Galípolo.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

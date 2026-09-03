@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 8 do corpus: Atos do Presidente do Banco Central nº 1.377 e nº 1.378, lidos no Diário Oficial
+  de 19/02/2026, que decretam a liquidação do Banco Pleno e da Pleno DTVM e fixam o termo legal em
+  22/12/2025; data certa da liquidação da CBSF, antiga Reag (15/01/2026); e a representação da Polícia
+  Federal de 98 páginas (INQ 5026, PET 16.032), com o uso gratuito de aeronaves e ingressos, o contrato
+  do apartamento quitado na assinatura e a origem da sociedade de Augusto Lima no Master pelas carteiras
+  do CredCesta, criado no contexto da Empresa Baiana de Alimentos. Entram a Lei nº 14.431/2022, que
+  ampliou margem e público do crédito consignado, o CredCesta e a Ebal.
 - Lote 7 do corpus, a partir de documentos primários lidos na íntegra: decisão da Petição 16.229
   (9ª fase da Compliance Zero, 17/06/2026), com os três eixos da apuração sobre Jaques Wagner, o
   apartamento nº 1.702 do Poème Horto, a BN Financeira, a Epítome S.A. e as medidas cautelares;

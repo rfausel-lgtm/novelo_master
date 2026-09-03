@@ -1,0 +1,31 @@
+id: rel-jaques-wagner-empresa-baiana-de-alimentos-political
+kind: relationship
+from_id: jaques-wagner
+to_id: empresa-baiana-de-alimentos
+relationship_type: political
+directed: false
+label: venda da rede estatal a Augusto Lima durante seu governo
+description: Segundo o Poder360, a assessoria do senador confirmou ao Poder360 a venda da rede de supermercado
+  estatal, durante o governo de Jaques Wagner na Bahia, a Augusto Lima, ex-sócio de Vorcaro. O corpus
+  não tem os documentos da operação.
+evidence_class: A
+confidence: 0.6
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-pf-credcesta-origem-sociedade
+source_ids:
+- src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+document_ids: []
+cited_position:
+- kind: clarification
+  summary: A assessoria do senador confirmou a venda da rede estatal a Augusto Lima durante seu governo.
+  source_ids:
+  - src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+  by_id: jaques-wagner
+  date: '2026-06-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

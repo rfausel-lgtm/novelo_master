@@ -24,7 +24,11 @@ test("fontes listam origem, tipo e verificação", async ({ page }) => {
   const rows = page.getByRole("row");
   await expect(rows.nth(1)).toBeVisible();
   await page.getByLabel("Somente fontes oficiais").check();
-  await expect(page.getByText(/de \d+$/)).toBeVisible();
+  // Contador "X de N" da tabela; títulos de fonte também terminam em "de <ano>".
+  const contador = page.getByText(/^\d+ de \d+$/);
+  await expect(contador).toBeVisible();
+  const [visiveis, total] = (await contador.innerText()).split(" de ").map(Number);
+  expect(visiveis).toBeLessThan(total);
 });
 
 test("cronologia filtra por agente", async ({ page }) => {

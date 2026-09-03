@@ -1,0 +1,18 @@
+id: ev-pf-voo-2023-10-14
+kind: evidence
+classification: A
+proposition: A representação descreve ao menos quatro situações de transporte do senador em aeronave de
+  Augusto Ferreira Lima ou operada por pilotos ligados a ele ou ao Banco Master, sem registro de pagamento.
+  A primeira teria ocorrido em 14/10/2023, em visita à propriedade 'Ilha da Paixão', no litoral baiano,
+  sob posse de Augusto Lima.
+document_ids:
+- doc-2026-07-representacao-pf-inq-5026-pet-16032
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+attributed_to_id: policia-federal
+date: '2023-10-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

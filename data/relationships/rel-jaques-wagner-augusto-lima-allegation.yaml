@@ -16,12 +16,15 @@ status: disputed
 event_ids:
 - evt-2026-06-18-compliance-zero-9a-fase-wagner
 - evt-2026-07-30-mendonca-retira-sigilo-relatorio-pf-wagner
+- evt-2023-10-14-voo-ilha-da-paixao
 evidence_ids:
 - ev-pf-relatorio-wagner-vantagens
 - ev-pf-70-contatos-lima-wagner
 - ev-wagner-certeza-inocencia
 - ev-decisao-9a-fase-tres-eixos
 - ev-decisao-9a-fase-apartamento
+- ev-pf-aeronaves-e-ingressos
+- ev-pf-voo-2023-10-14
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-metropoles-2026-01-24-wagner-mantega
@@ -29,6 +32,7 @@ source_ids:
 document_ids:
 - doc-pf-relatorio-wagner-2026-07
 - doc-2026-06-17-decisao-pet-16229-9a-fase
+- doc-2026-07-representacao-pf-inq-5026-pet-16032
 cited_position:
 - kind: denial
   summary: '''Certeza'' de que provará sua inocência.'

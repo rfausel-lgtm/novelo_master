@@ -34,9 +34,11 @@ Ainda pendente:
   além de menções; Vorcaro aparece em eventos da Esfera (foto do Poder360), o que pode virar evento social.
 - Robinson Faria, Patrícia Abravanel e Rodrigo Pacheco: apenas menções genéricas (Pacheco e Alcolumbre são
   citados em mensagens de Faria, segundo a piauí); sem registro para evitar inclusão por mera menção.
-- Atos do Banco Central (liquidações de Reag/CBSF, Will Financeira e Banco Pleno): buscar os PDFs de
-  "Atos do Presidente" ou o DOU; hoje classificados como C/A a partir da imprensa.
-- Relatório da PF sobre Wagner (PDF de 33 MB no Poder360): único documento grande ainda não lido.
+- Atos do Banco Central: os Atos nº 1.377 e nº 1.378 (Banco Pleno e Pleno DTVM) foram lidos no DOU e já
+  sustentam evidência documental. Faltam o ato da CBSF/Reag (nº 1.375, de 15/01/2026, número conhecido
+  pela imprensa) e o da Will Financeira (21/01/2026): a busca do in.gov.br é renderizada em JavaScript,
+  o caminho que funcionou foi achar o link do DOU citado por veículo jurídico.
+- Relatório da PF sobre Wagner (PDF de 34 MB, 98 páginas): LIDO no lote 8.
   A decisão da 9ª fase, a da Zona Cinzenta, a da 6ª fase e a nota de defesa de Thiago Miranda foram
   lidas no lote 7 e já sustentam evidências documentais. A decisão da 10ª fase segue pendente: o link
   publicado pelo Poder360 responde 404.

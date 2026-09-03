@@ -1,0 +1,17 @@
+id: ev-dou-ato-1377-banco-pleno
+kind: evidence
+classification: D
+proposition: O Ato do Presidente do Banco Central nº 1.377, de 18/02/2026, decreta a liquidação extrajudicial
+  do Banco Pleno S.A. com base na Lei nº 6.024/1974, nomeia liquidante e fixa como termo legal da liquidação
+  o dia 22 de dezembro de 2025.
+document_ids:
+- doc-2026-02-18-ato-1377-liquidacao-banco-pleno
+source_ids:
+- src-dou-2026-02-19-atos-1377-1378
+excerpt: Fica indicado, como termo legal da liquidação extrajudicial, o dia 22 de dezembro de 2025.
+date: '2026-02-18'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

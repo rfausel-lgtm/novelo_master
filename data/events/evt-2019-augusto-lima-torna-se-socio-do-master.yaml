@@ -1,0 +1,29 @@
+id: evt-2019-augusto-lima-torna-se-socio-do-master
+kind: event
+title: Augusto Lima torna-se sócio de Daniel Vorcaro no Banco Master
+event_type: corporate_act
+date: '2019'
+date_precision: year
+participant_ids:
+- augusto-lima
+- daniel-vorcaro
+- banco-master
+- credcesta
+description: Segundo a representação da Polícia Federal, foram as carteiras de crédito do CredCesta —
+  plataforma de consignado para servidores e pensionistas da Bahia, criada no contexto da Empresa Baiana
+  de Alimentos — que credenciaram Augusto Ferreira Lima a se tornar sócio de Daniel Vorcaro no Banco Master
+  em 2019. A afirmação é da autoridade policial; o corpus não tem o ato societário.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-pf-credcesta-origem-sociedade
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+document_ids:
+- doc-2026-07-representacao-pf-inq-5026-pet-16032
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

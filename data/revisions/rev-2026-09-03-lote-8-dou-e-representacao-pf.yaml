@@ -1,0 +1,27 @@
+id: rev-2026-09-03-lote-8-dou-e-representacao-pf
+kind: revision
+date: '2026-09-03'
+summary: 'Lote 8: atos oficiais e a representação de 98 páginas. Atos do Presidente do BC nº 1.377 e nº
+  1.378 (DOU de 19/02/2026) elevam a liquidação do Banco Pleno a documental e trazem o termo legal de
+  22/12/2025; a liquidação da CBSF (ex-Reag) ganhou data certa (15/01/2026). A representação da PF (INQ
+  5026, PET 16.032) acrescenta o uso gratuito de aeronaves e ingressos, o contrato do apartamento quitado
+  na assinatura, e a origem da sociedade de Augusto Lima no Master pelas carteiras do CredCesta, criado
+  no contexto da Empresa Baiana de Alimentos; entra também a Lei nº 14.431/2022, que ampliou o consignado.'
+added:
+  people: 0
+  organizations: 2
+  events: 3
+  documents: 3
+  relationships: 6
+  sources: 2
+  evidence: 8
+updated_relationships: 1
+corrections:
+- A liquidação da CBSF (ex-Reag) passou de 'janeiro de 2026' para 15/01/2026, com fonte nomeada.
+- Um evento duplicado da liquidação da CBSF foi criado e removido antes da publicação.
+author: orquestrador
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -10,7 +10,9 @@ positions:
   - src-migalhas-2025-11-28-trf1-solta-vorcaro
 summary: Ex-CEO e ex-sócio do Banco Master. Preso na 1ª fase da Compliance Zero e solto pelo TRF-1 em
   28/11/2025 com medidas cautelares; acompanhou Vorcaro e Mantega no encontro de 04/12/2024 no Planalto,
-  segundo a CNN. Segundo a CNN, controlava o Banco Pleno, liquidado pelo BC em fevereiro de 2026.
+  segundo a CNN. Segundo a CNN, controlava o Banco Pleno, liquidado pelo BC em fevereiro de 2026. Segundo
+  a representação da PF, foram as carteiras do CredCesta, criado no contexto da Empresa Baiana de Alimentos,
+  que o credenciaram a entrar na sociedade do Master em 2019.
 why_in_novelo: Foi executivo e sócio do Banco Master, alvo da Operação Compliance Zero, e participou do
   encontro de dezembro de 2024 no Planalto, segundo a imprensa.
 cited_position:
@@ -24,6 +26,7 @@ source_ids:
 - src-b3-2026-02-18-liquidacao-banco-pleno
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+- src-dou-2026-02-19-atos-1377-1378
 full_name: Augusto Ferreira Lima
 review_status: published
 reviewer: orquestrador

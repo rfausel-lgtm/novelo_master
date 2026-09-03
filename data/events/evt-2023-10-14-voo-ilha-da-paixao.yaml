@@ -1,0 +1,37 @@
+id: evt-2023-10-14-voo-ilha-da-paixao
+kind: event
+title: Deslocamento do senador em aeronave ligada a Augusto Lima até a 'Ilha da Paixão'
+event_type: travel
+date: '2023-10-14'
+date_precision: day
+participant_ids:
+- jaques-wagner
+- augusto-lima
+description: A representação da PF descreve ao menos quatro deslocamentos do senador em aeronave pertencente
+  a Augusto Ferreira Lima ou operada por pilotos ligados a ele ou ao Banco Master, sem registro de pagamento.
+  A primeira ocorrência teria sido em 14/10/2023, em visita à propriedade 'Ilha da Paixão', no litoral
+  baiano, sob posse de Augusto Lima. A descrição é da autoridade policial e não houve juízo de mérito.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-pf-voo-2023-10-14
+- ev-pf-aeronaves-e-ingressos
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+document_ids:
+- doc-2026-07-representacao-pf-inq-5026-pet-16032
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: Wagner disse ter 'certeza' de que provará sua inocência; Lula afirmou que nada está provado.
+  source_ids:
+  - src-poder360-2026-07-31-pf-wagner-relatorio
+  - src-poder360-2026-08-27-lula-defende-wagner
+  by_id: jaques-wagner
+  date: '2026-07-31'
+location: Litoral da Bahia
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

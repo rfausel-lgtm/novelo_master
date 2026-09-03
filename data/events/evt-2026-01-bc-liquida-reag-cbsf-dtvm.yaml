@@ -2,8 +2,8 @@ id: evt-2026-01-bc-liquida-reag-cbsf-dtvm
 kind: event
 title: Banco Central decreta liquidação extrajudicial da CBSF DTVM (antiga Reag Investimentos)
 event_type: regulatory_act
-date: 2026-01
-date_precision: month
+date: '2026-01-15'
+date_precision: day
 participant_ids:
 - banco-central-do-brasil
 - reag-investimentos
@@ -11,16 +11,26 @@ description: Segundo artigo jurídico no Migalhas, o BC decretou em janeiro de 2
   da CBSF DTVM (ex-Reag), com indisponibilidade de bens de controladores e ex-administradores; cerca de
   90 fundos administrados pela Reag são citados nas suspeitas de ocultação de beneficiários. O ato do
   BC não foi lido pela equipe.
-evidence_class: A
-status: unverified
+evidence_class: C
+status: verified
 evidence_ids:
 - ev-bc-liquida-reag-2026-01
+- ev-bc-liquida-cbsf-2026-01-15
 source_ids:
 - src-migalhas-2026-02-03-liquidacao-reag-will
+- src-gazeta-2026-01-15-liquidacao-reag-cbsf
 document_ids: []
-public_act_ids: []
+public_act_ids:
+- ato-2026-01-15-liquidacao-cbsf-reag
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+cited_position:
+- kind: no_response
+  summary: A Gazeta do Povo procurou a CBSF DTVM e aguardava retorno.
+  source_ids:
+  - src-gazeta-2026-01-15-liquidacao-reag-cbsf
+  by_id: reag-investimentos
+  date: '2026-01-15'

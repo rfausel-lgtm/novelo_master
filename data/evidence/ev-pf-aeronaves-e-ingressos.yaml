@@ -1,0 +1,19 @@
+id: ev-pf-aeronaves-e-ingressos
+kind: evidence
+classification: A
+proposition: A representação afirma que foram identificados benefícios financeiros ao senador Jaques Wagner,
+  entre eles o uso gratuito de aeronaves pertencentes aos donos do Master e o recebimento de ingressos
+  para show cujo custo ultrapassou sessenta mil reais.
+document_ids:
+- doc-2026-07-representacao-pf-inq-5026-pet-16032
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+excerpt: uso, a título gratuito, de aeronaves pertencentes aos donos do MASTER, e recebimento de ingressos
+  para show, cujo custo ultrapassou os sessenta mil reais
+attributed_to_id: policia-federal
+date: 2026-07
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -14,11 +14,12 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- O ato do BC de 18/02/2026 não foi lido pela equipe (páginas do BC exigem JavaScript).
+- O corpus não registra manifestação do Banco Pleno nem de seus administradores sobre a liquidação.
 source_ids:
 - src-b3-2026-02-18-liquidacao-banco-pleno
 - src-poder360-2026-06-24-wagner-deixa-lideranca
 - src-cnn-2026-03-04-relembre-crise-master
+- src-dou-2026-02-19-atos-1377-1378
 full_name: Banco Pleno S.A.
 review_status: published
 reviewer: orquestrador

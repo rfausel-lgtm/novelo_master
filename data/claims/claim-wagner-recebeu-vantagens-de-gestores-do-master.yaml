@@ -15,6 +15,7 @@ event_ids:
 - evt-2026-07-30-mendonca-retira-sigilo-relatorio-pf-wagner
 - evt-2026-06-18-compliance-zero-9a-fase-wagner
 - evt-2026-06-17-decisao-mendonca-9a-fase
+- evt-2023-10-14-voo-ilha-da-paixao
 evidence_ids:
 - ev-pf-relatorio-wagner-vantagens
 - ev-pf-70-contatos-lima-wagner
@@ -24,12 +25,16 @@ evidence_ids:
 - ev-decisao-9a-fase-apartamento
 - ev-decisao-9a-fase-bn-financeira
 - ev-decisao-9a-fase-emendas
+- ev-pf-aeronaves-e-ingressos
+- ev-pf-voo-2023-10-14
+- ev-pf-credcesta-origem-sociedade
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-08-27-lula-defende-wagner
-limits: A decisão da Petição 16.229, lida na íntegra, defere medidas cautelares e reproduz a narrativa
-  da Polícia Federal em três eixos; ela não julga o mérito nem afirma que houve contrapartida. O relatório
-  de 30/07/2026 (PDF de 33 MB) não foi lido pela equipe. Não há denúncia nem decisão de mérito no corpus.
+limits: 'A representação de 98 páginas foi lida na íntegra: ela pede medida cautelar de interceptação
+  e descreve indícios, não conclusão de inquérito. Os benefícios citados (aeronaves, ingressos, imóvel,
+  pagamentos à BN Financeira) são descritos pela autoridade policial; o corpus não tem contrato, extrato
+  ou registro de voo que os confirme por si. Não há denúncia nem decisão de mérito.'
 counter_position:
 - kind: denial
   summary: 'Wagner: ''certeza'' de que provará sua inocência.'

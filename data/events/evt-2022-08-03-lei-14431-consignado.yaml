@@ -1,0 +1,29 @@
+id: evt-2022-08-03-lei-14431-consignado
+kind: event
+title: Sanção da Lei nº 14.431/2022, que amplia margem e público do crédito consignado
+event_type: public_act
+date: '2022-08-03'
+date_precision: day
+participant_ids:
+- presidencia-da-republica
+- banco-master
+- credcesta
+description: A conversão da MP nº 1.106/2022 elevou o teto de comprometimento no consignado de 35% para
+  40% (CLT) e de 35% para 45% (RGPS) e autorizou empréstimos a beneficiários do BPC e de programas federais
+  de transferência de renda. A representação da PF examina a Emenda nº 30, apresentada na tramitação,
+  como parte do eixo de atuação parlamentar em pautas de interesse do grupo.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-lei-14431-2022-consignado
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+document_ids:
+- doc-2026-07-representacao-pf-inq-5026-pet-16032
+public_act_ids:
+- ato-2022-08-03-lei-14431-consignado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

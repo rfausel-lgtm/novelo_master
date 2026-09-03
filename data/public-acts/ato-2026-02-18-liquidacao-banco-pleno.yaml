@@ -1,0 +1,32 @@
+id: ato-2026-02-18-liquidacao-banco-pleno
+kind: public_act
+title: Liquidação extrajudicial do Banco Pleno S.A. e da Pleno DTVM
+act_type: regulatory
+date: '2026-02-18'
+date_precision: day
+issuer_id: banco-central-do-brasil
+issuer: Banco Central do Brasil
+actor_ids:
+- gabriel-galipolo
+affected_ids:
+- banco-pleno
+- augusto-lima
+description: Atos do Presidente nº 1.377 e nº 1.378, publicados no DOU de 19/02/2026, que decretam a liquidação
+  extrajudicial do Banco Pleno S.A. e da Pleno DTVM, com termo legal fixado em 22/12/2025.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-dou-ato-1377-banco-pleno
+- ev-dou-ato-1378-pleno-dtvm
+source_ids:
+- src-dou-2026-02-19-atos-1377-1378
+document_ids:
+- doc-2026-02-18-ato-1377-liquidacao-banco-pleno
+- doc-2026-02-18-ato-1378-liquidacao-pleno-dtvm
+reference: Atos do Presidente 1.377 e 1.378/2026
+url: https://www.in.gov.br/web/dou/-/ato-do-presidente-n-1.377-de-18-de-fevereiro-de-2026-687610916
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

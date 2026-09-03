@@ -1,0 +1,24 @@
+id: seq-lei-14431-2022-e-modelo-consignado-do-master
+kind: temporal_sequence
+title: Lei nº 14.431/2022 (ampliação do consignado) e o modelo de negócio do Banco Master
+step_ids:
+- evt-2022-08-03-lei-14431-consignado
+- evt-2024-08-emenda-11-pec-65-fgc
+temporal_proximity: low
+documentary_link: partial
+causality_proven: false
+description: A lei de agosto de 2022 ampliou a margem consignável e o universo de tomadores, e dois anos
+  depois a Emenda nº 11 à PEC 65/2023 tratou do limite de cobertura do FGC. A representação da PF examina
+  os dois atos no mesmo eixo de atuação parlamentar de interesse do grupo Master.
+limits: A lei é geral e beneficiou todo o mercado de consignado; não se conclui que tenha sido editada
+  em favor do Banco Master nem que a atuação parlamentar examinada tenha determinado seu conteúdo.
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+evidence_ids:
+- ev-lei-14431-2022-consignado
+- ev-decisao-9a-fase-emendas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

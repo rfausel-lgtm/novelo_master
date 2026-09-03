@@ -1,0 +1,26 @@
+id: rel-augusto-lima-credcesta-corporate
+kind: relationship
+from_id: augusto-lima
+to_id: credcesta
+relationship_type: corporate
+directed: false
+label: detentor das carteiras de crédito do CredCesta, segundo a PF
+start_date: '2019'
+description: A representação da Polícia Federal descreve as carteiras de crédito do CredCesta como o ativo
+  de Augusto Ferreira Lima que o credenciou a entrar na sociedade do Banco Master em 2019.
+evidence_class: A
+confidence: 0.5
+status: unverified
+event_ids:
+- evt-2019-augusto-lima-torna-se-socio-do-master
+evidence_ids:
+- ev-pf-credcesta-origem-sociedade
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+document_ids:
+- doc-2026-07-representacao-pf-inq-5026-pet-16032
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

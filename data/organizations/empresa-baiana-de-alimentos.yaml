@@ -1,0 +1,31 @@
+id: empresa-baiana-de-alimentos
+kind: organization
+name: Empresa Baiana de Alimentos
+aliases:
+- Ebal
+org_type: public_body
+summary: Empresa estatal baiana, conhecida como Ebal, citada na representação da PF como o contexto em
+  que foram criados e operacionalizados o CredCesta e a relação comercial que depois levaria Augusto Ferreira
+  Lima ao Banco Master. A rede de supermercados estatal foi vendida a Augusto Lima durante o governo de
+  Jaques Wagner, segundo a assessoria do senador ao Poder360.
+why_in_novelo: É a estatal em cujo contexto nasceu o CredCesta, ativo que a Polícia Federal aponta como
+  origem da sociedade entre Augusto Lima e Daniel Vorcaro.
+cited_position:
+- kind: clarification
+  summary: A assessoria do senador Jaques Wagner confirmou a venda da rede de supermercado estatal, durante
+    seu governo, a Augusto Lima.
+  source_ids:
+  - src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+  by_id: jaques-wagner
+  date: '2026-06-12'
+open_questions:
+- O corpus não tem os documentos da venda da rede estatal nem o contrato do CredCesta.
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+- src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+jurisdiction: Bahia
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

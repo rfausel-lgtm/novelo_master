@@ -1,0 +1,16 @@
+id: ev-pf-contrato-apartamento-quitado
+kind: evidence
+classification: A
+proposition: A representação registra contrato no valor de R$ 2.455.250,00, integralmente quitado na data
+  da assinatura, com prazo de conclusão da obra até 30/11/2027.
+document_ids:
+- doc-2026-07-representacao-pf-inq-5026-pet-16032
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+attributed_to_id: policia-federal
+date: 2026-07
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

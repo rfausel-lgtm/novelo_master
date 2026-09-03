@@ -1,0 +1,23 @@
+id: src-gazeta-2026-01-15-liquidacao-reag-cbsf
+kind: source
+title: Banco Central decreta liquidação da Reag, suspeita de ligação com Master e PCC
+publisher: Gazeta do Povo
+publication_date: '2026-01-15'
+retrieved_at: '2026-09-03'
+url: https://www.gazetadopovo.com.br/economia/banco-central-decreta-liquidacao-reag-suspeita-ligacao-pcc-master/
+source_type: press
+summary: Em 15/01/2026 o BC decretou a liquidação extrajudicial da CBSF DTVM, nova denominação da Reag
+  Investimentos, por 'graves violações às normas que regem as atividades das instituições integrantes
+  do SFN'. A CBSF detém menos de 0,001% dos ativos em corretoras. A Gazeta procurou a empresa e aguardava
+  retorno.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+author: Guilherme Grandi
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

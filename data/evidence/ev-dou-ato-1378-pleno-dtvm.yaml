@@ -1,0 +1,15 @@
+id: ev-dou-ato-1378-pleno-dtvm
+kind: evidence
+classification: D
+proposition: O Ato do Presidente nº 1.378, da mesma data, decreta a liquidação extrajudicial da Pleno
+  Distribuidora de Títulos e Valores Mobiliários S.A.
+document_ids:
+- doc-2026-02-18-ato-1378-liquidacao-pleno-dtvm
+source_ids:
+- src-dou-2026-02-19-atos-1377-1378
+date: '2026-02-18'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

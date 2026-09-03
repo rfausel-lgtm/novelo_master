@@ -1,0 +1,30 @@
+id: doc-2026-07-representacao-pf-inq-5026-pet-16032
+kind: document
+title: Representação da Polícia Federal por medida cautelar (INQ 5026, PET 16.032/DF)
+doc_type: official_report
+date: 2026-07
+source_ids:
+- src-poder360-2026-07-31-pf-wagner-relatorio
+summary: Peça de 98 páginas dirigida ao ministro André Mendonça, com pedido de interceptação telefônica
+  e acesso a registros de chamadas. Descreve a origem das investigações na Operação Compliance Zero, os
+  diálogos entre Jaques Wagner e Augusto Ferreira Lima, o apartamento nº 1.702 do Poème Horto, os pagamentos
+  à BN Financeira, outras vantagens econômicas (uso gratuito de aeronaves e ingressos para show) e a atuação
+  parlamentar em dois atos legislativos de interesse do grupo. Teve o sigilo retirado e foi publicada
+  pelo Poder360. As imputações são da autoridade policial e não representam juízo de mérito.
+is_official: true
+related_entity_ids:
+- policia-federal
+- jaques-wagner
+- augusto-lima
+- daniel-vorcaro
+- andre-mendonca
+issuer_id: policia-federal
+issuer: Coordenação de Inquéritos nos Tribunais Superiores — CINQ/CGRC/DICOR/PF
+date_precision: month
+url: https://static.poder360.com.br/uploads/2026/07/relatorio-pf-jaques-wagner-master-31jul26.pdf
+reference: INQ 5026, PET 16.032/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -14,11 +14,12 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- O ato do BC que decretou a liquidação da CBSF DTVM (ex-Reag) e o relatório ao TCU não foram lidos pela
-  equipe.
+- O texto do ato do BC no Diário Oficial não foi lido pela equipe; a data (15/01/2026) e o motivo vêm
+  da Gazeta do Povo.
 source_ids:
 - src-cnn-2026-02-05-mansur-reag-brb
 - src-migalhas-2026-02-03-liquidacao-reag-will
+- src-gazeta-2026-01-15-liquidacao-reag-cbsf
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
