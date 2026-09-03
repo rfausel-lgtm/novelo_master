@@ -1,0 +1,57 @@
+/**
+ * Compila /data (YAML) → src/generated/corpus.json + public/data/graph.json.
+ *
+ * Uso: npm run data:build [-- --include-drafts] [--no-layout]
+ *
+ * Falha (exit 1) se houver erro de schema, referência quebrada ou violação
+ * das regras editoriais bloqueantes (scripts/lib/lint.ts).
+ */
+import fs from "node:fs";
+import path from "node:path";
+import { loadCorpus } from "./lib/load";
+import { lintCorpus } from "./lib/lint";
+import { buildGraph } from "./lib/graph";
+import { printIssues } from "./lib/report";
+
+const ROOT = path.resolve(__dirname, "..");
+const DATA_DIR = path.join(ROOT, "data");
+const GENERATED_DIR = path.join(ROOT, "src", "generated");
+const PUBLIC_DATA_DIR = path.join(ROOT, "public", "data");
+
+const args = new Set(process.argv.slice(2));
+const includeDrafts =
+  args.has("--include-drafts") || process.env.NOVELO_INCLUDE_DRAFTS === "true";
+const doLayout = !args.has("--no-layout");
+
+const t0 = Date.now();
+const { corpus, issues } = loadCorpus({ dataDir: DATA_DIR, includeDrafts });
+issues.push(...lintCorpus(corpus));
+
+const errors = issues.filter((i) => i.level === "error");
+printIssues(issues);
+
+if (errors.length > 0) {
+  console.error(`\n✖ ${errors.length} erro(s) bloqueante(s). Build de dados abortado.`);
+  process.exit(1);
+}
+
+const graph = buildGraph(corpus, { layout: doLayout });
+
+fs.mkdirSync(GENERATED_DIR, { recursive: true });
+fs.mkdirSync(PUBLIC_DATA_DIR, { recursive: true });
+fs.writeFileSync(path.join(GENERATED_DIR, "corpus.json"), JSON.stringify(corpus));
+fs.writeFileSync(path.join(GENERATED_DIR, "stats.json"), JSON.stringify(graph.stats, null, 2));
+fs.writeFileSync(path.join(PUBLIC_DATA_DIR, "graph.json"), JSON.stringify(graph));
+fs.writeFileSync(
+  path.join(GENERATED_DIR, ".gitkeep"),
+  "# gerado por scripts/build-data.ts — não editar\n",
+);
+
+const s = graph.stats;
+console.log(
+  `\n✔ corpus compilado em ${Date.now() - t0} ms: ` +
+    `${s.people} pessoas, ${s.organizations} organizações, ${s.events} eventos, ` +
+    `${s.public_acts} atos, ${s.relationships} relações, ${s.documents} documentos, ` +
+    `${s.sources} fontes (${s.official_sources} oficiais), ${s.evidence} evidências → ` +
+    `${s.nodes} nós / ${s.edges} arestas`,
+);

@@ -1,0 +1,14 @@
+# Configuração do gitleaks para O Novelo Master.
+# Usa o conjunto de regras padrão e adiciona apenas allowlists estritas.
+title = "O Novelo Master — secret scanning"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Arquivos que não contêm segredos por construção"
+paths = [
+  '''package-lock\.json$''',
+  '''\.gitleaks\.toml$''',
+  '''\.env\.example$''',
+]

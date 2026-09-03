@@ -1,0 +1,16 @@
+#!/bin/sh
+# Pre-commit: bloqueia segredos e garante que arquivos .env não entrem no índice.
+# Ativação: git config core.hooksPath .githooks
+set -e
+
+if git diff --cached --name-only | grep -E '(^|/)\.env(\.|$)' | grep -v '\.env\.example$' >/dev/null; then
+  echo "[pre-commit] BLOQUEADO: arquivo .env no índice. Remova com: git reset HEAD <arquivo>" >&2
+  exit 1
+fi
+
+if command -v gitleaks >/dev/null 2>&1; then
+  gitleaks protect --staged --redact --config .gitleaks.toml
+else
+  echo "[pre-commit] aviso: gitleaks não encontrado; rodando scanner de fallback (npm run scan:secrets)" >&2
+  npm run --silent scan:secrets -- --staged
+fi

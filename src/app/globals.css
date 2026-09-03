@@ -1,26 +1,133 @@
 @import "tailwindcss";
 
+/* Paleta O Novelo Master (tema escuro é o padrão editorial). */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg: #090c11;
+  --bg-2: #11161d;
+  --bg-3: #181e27;
+  --border: #232b36;
+  --fg: #f4f6f8;
+  --fg-2: #aab3bf;
+  --fg-3: #7b8592;
+  --accent: #4c8dff;
+
+  /* Famílias de relação (cor = natureza) */
+  --rel-institutional: #4c8dff;
+  --rel-financial: #4dbf91;
+  --rel-political: #e69b45;
+  --rel-social: #a77bf3;
+  --rel-professional: #9aa4b1;
+  --rel-corporate: #3ec9c9;
+  --rel-allegation: #c9a04c;
+
+  /* Tipos de nó */
+  --node-person: #f4f6f8;
+  --node-organization: #4c8dff;
+  --node-public-body: #7fa9ff;
+  --node-financial: #4dbf91;
+  --node-party: #e69b45;
+  --node-event: #c9a04c;
+  --node-public-act: #e0c574;
+
+  /* Classes de evidência */
+  --ev-d: #4dbf91;
+  --ev-c: #4c8dff;
+  --ev-a: #e69b45;
+  --ev-i: #7b8592;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-bg: var(--bg);
+  --color-bg-2: var(--bg-2);
+  --color-bg-3: var(--bg-3);
+  --color-border: var(--border);
+  --color-fg: var(--fg);
+  --color-fg-2: var(--fg-2);
+  --color-fg-3: var(--fg-3);
+  --color-accent: var(--accent);
+  --color-rel-institutional: var(--rel-institutional);
+  --color-rel-financial: var(--rel-financial);
+  --color-rel-political: var(--rel-political);
+  --color-rel-social: var(--rel-social);
+  --color-rel-professional: var(--rel-professional);
+  --color-rel-corporate: var(--rel-corporate);
+  --color-rel-allegation: var(--rel-allegation);
+  --color-ev-d: var(--ev-d);
+  --color-ev-c: var(--ev-c);
+  --color-ev-a: var(--ev-a);
+  --color-ev-i: var(--ev-i);
+  --font-sans: var(--font-plex-sans), "IBM Plex Sans", system-ui, sans-serif;
+  --font-mono: var(--font-plex-mono), "IBM Plex Mono", ui-monospace, monospace;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  color-scheme: dark;
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans);
+  font-feature-settings: "ss01", "cv05";
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* Utilitários editoriais */
+.prose-novelo {
+  max-width: 68ch;
+  line-height: 1.65;
+}
+.prose-novelo h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.prose-novelo h3 {
+  margin-top: 1.75rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+.prose-novelo p,
+.prose-novelo li {
+  color: var(--fg-2);
+  margin-bottom: 0.75rem;
+}
+.prose-novelo ul {
+  list-style: disc;
+  padding-left: 1.25rem;
+}
+.prose-novelo ol {
+  list-style: decimal;
+  padding-left: 1.25rem;
+}
+.prose-novelo a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.prose-novelo code {
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  background: var(--bg-3);
+  padding: 0.1em 0.35em;
+  border-radius: 3px;
 }

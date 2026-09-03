@@ -39,3 +39,47 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# === O Novelo Master: segredos — NUNCA versionar ===
+.env
+.env.*
+!.env.example
+*.key
+*.p12
+*.pfx
+*.crt
+*.jks
+credentials*.json
+client_secret*.json
+token*.json
+*.session
+*.cookies
+*.har
+
+# === Artefatos gerados a partir de /data (reconstruídos no build) ===
+/src/generated/
+/public/data/
+
+# === Testes ===
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# === Python ===
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# === Capturas brutas volumosas (manter apenas metadados em raw/) ===
+/raw/**/*.pdf
+/raw/**/*.zip
+/raw/**/*.mp4
+/raw/**/*.html
+
+# === Editor / SO ===
+.idea/
+.vscode/*
+!.vscode/extensions.json
+Thumbs.db
