@@ -33,7 +33,7 @@ jobs:
       - run: npm run data:validate
       - run: npm test
       - run: npm run build
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: site
           path: out/
@@ -100,7 +100,7 @@ jobs:
       - run: npm run test:e2e -- --project=chromium
         env:
           CI: "true"
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         if: failure()
         with:
           name: playwright-report
@@ -125,7 +125,7 @@ jobs:
         env:
           CI: "true"
           NOVELO_STRESS: "1"
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         if: failure()
         with:
           name: playwright-stress-report
