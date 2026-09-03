@@ -1,0 +1,25 @@
+id: evt-2026-03-12-cpmi-convoca-fabiano-zettel
+kind: event
+title: CPMI do INSS aprova convocação do cunhado de Vorcaro
+event_type: public_act
+date: '2026-03-12'
+date_precision: day
+participant_ids:
+- cpmi-do-inss
+- fabiano-zettel
+- daniel-vorcaro
+description: A CPMI do INSS aprovou a convocação do cunhado e da ex-noiva de Daniel Vorcaro. O corpus
+  não registra pessoa para a ex-noiva, que não tem papel próprio documentado.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-cpmi-convoca-zettel-2026-03-12
+source_ids:
+- src-senado-2026-03-12-cpmi-convoca-zettel
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

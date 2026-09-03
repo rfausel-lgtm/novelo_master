@@ -1,0 +1,22 @@
+id: src-senado-2025-04-29-cae-audiencia-brb-master
+kind: source
+title: CAE terá audiência sobre acordo de compra do Banco Master pelo BRB
+publisher: Agência Senado
+publication_date: '2025-04-29'
+retrieved_at: '2026-09-03'
+url: https://www12.senado.leg.br/noticias/materias/2025/04/29/cae-aprova-audiencia-para-brb-e-master-explicarem-negocio
+source_type: official_legislative
+summary: Em 29/04/2025 a Comissão de Assuntos Econômicos aprovou convite para que Daniel Vorcaro e Paulo
+  Henrique Costa prestassem esclarecimentos sobre a compra de 58% do capital do Master. No requerimento,
+  os senadores destacam que, desde 28 de março, noticiava-se a intenção do BRB de comprar 58% do capital
+  total por R$ 2 bilhões, o que equivalia a 75% do patrimônio consolidado do banco público.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,23 @@
+id: doc-camara-projeto-exoneracao-diretor-bc
+kind: document
+title: Comunicação da Agência Câmara sobre projeto de exoneração de diretor do Banco Central
+doc_type: public_statement
+date: '2026'
+source_ids:
+- src-camara-projeto-exoneracao-diretor-bc
+summary: Registro oficial de projeto que prevê a exoneração de diretor do Banco Central mediante aprovação
+  da maioria absoluta de deputados e senadores, em caso de incompatibilidade com os interesses nacionais.
+  A data exata não foi confirmada pela equipe.
+is_official: true
+related_entity_ids:
+- camara-dos-deputados
+- banco-central-do-brasil
+issuer_id: camara-dos-deputados
+issuer: Agência Câmara
+date_precision: year
+url: https://www.camara.leg.br/noticias/757262-projeto-permite-que-camara-e-senado-exonerem-diretor-do-banco-central
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

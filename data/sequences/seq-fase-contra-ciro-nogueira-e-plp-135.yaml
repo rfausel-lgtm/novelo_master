@@ -1,0 +1,24 @@
+id: seq-fase-contra-ciro-nogueira-e-plp-135
+kind: temporal_sequence
+title: Fase da Compliance Zero que mirou Ciro Nogueira (07/05/2026) e o PLP 135/2026 sobre o FGC (12/05/2026)
+step_ids:
+- evt-2026-05-07-compliance-zero-fase-ciro-nogueira
+- evt-2026-05-12-plp-135-protocolado
+temporal_proximity: high
+documentary_link: absent
+causality_proven: false
+description: Cinco dias depois de ser alvo de busca na fase que apura a autoria da emenda sobre o FGC,
+  o senador protocolou projeto de lei complementar elevando o limite individual da garantia do fundo.
+limits: Não há nexo documental entre os dois atos. Apresentar projeto é atribuição parlamentar regular,
+  e o próprio senador havia anunciado publicamente, na mesma semana, que reapresentaria proposta sobre
+  o FGC, defendendo o mérito da atualização do limite. A proximidade das datas não indica irregularidade.
+source_ids:
+- src-senado-plp-135-2026-fgc
+- src-jdb-2026-05-12-ciro-nega-emenda
+evidence_ids:
+- ev-plp-135-2026-fgc
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

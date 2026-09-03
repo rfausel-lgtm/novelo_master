@@ -1,0 +1,20 @@
+id: src-senado-2026-02-25-cpi-convoca-vorcaro
+kind: source
+title: CPI do Crime Organizado convoca banqueiro Daniel Vorcaro
+publisher: Rádio Senado
+publication_date: '2026-02-25'
+retrieved_at: '2026-09-03'
+url: https://www12.senado.leg.br/radio/1/noticia/2026/02/25/cpi-do-crime-organizado-convoca-banqueiro-daniel-vorcaro
+source_type: official_legislative
+summary: Em 25/02/2026 a CPI do Crime Organizado decidiu convocar Daniel Vorcaro e aprovou convites aos
+  ministros do STF Dias Toffoli e Alexandre de Moraes, além da esposa do segundo.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,30 @@
+id: ato-2026-05-12-plp-135-fgc
+kind: public_act
+title: 'PLP 135/2026: eleva o limite individual da garantia do FGC'
+act_type: legislative
+date: '2026-05-12'
+date_precision: day
+issuer_id: senado-federal
+issuer: Senado Federal
+actor_ids:
+- ciro-nogueira
+affected_ids:
+- fundo-garantidor-de-creditos
+description: Projeto de Lei Complementar que altera a Lei nº 4.595/1964 para elevar o limite individual
+  da garantia de depósitos e demais créditos. Foi protocolado cinco dias depois da fase da Operação Compliance
+  Zero que teve o autor como alvo, e coincide com a mudança no FGC que ele havia anunciado publicamente
+  na mesma semana.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-plp-135-2026-fgc
+source_ids:
+- src-senado-plp-135-2026-fgc
+document_ids: []
+reference: PLP 135/2026
+url: https://www25.senado.leg.br/web/atividade/materias/-/materia/174115
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

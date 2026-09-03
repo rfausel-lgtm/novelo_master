@@ -19,6 +19,7 @@ open_questions: []
 source_ids:
 - src-senado-pec-65-2023-materia
 - src-poder360-2026-05-07-emenda-fgc
+- src-senado-2026-06-10-ccj-pec-65-autonomia
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

@@ -1,0 +1,22 @@
+id: doc-2026-02-25-comunicacao-cpi-convoca-vorcaro
+kind: document
+title: Comunicação da Rádio Senado sobre a convocação de Vorcaro pela CPI
+doc_type: public_statement
+date: '2026-02-25'
+source_ids:
+- src-senado-2026-02-25-cpi-convoca-vorcaro
+summary: 'Registro oficial da decisão de 25/02/2026: convocação de Daniel Vorcaro e convites aos ministros
+  Dias Toffoli e Alexandre de Moraes e à advogada Viviane Barci de Moraes.'
+is_official: true
+related_entity_ids:
+- cpi-do-crime-organizado
+- daniel-vorcaro
+issuer_id: senado-federal
+issuer: Rádio Senado / CPI do Crime Organizado
+date_precision: day
+url: https://www12.senado.leg.br/radio/1/noticia/2026/02/25/cpi-do-crime-organizado-convoca-banqueiro-daniel-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

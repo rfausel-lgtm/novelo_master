@@ -1,0 +1,23 @@
+id: src-brb-2025-03-28-fato-relevante-master
+kind: source
+title: Fato Relevante do BRB sobre a compra do Banco Master
+publisher: BRB — Banco de Brasília (Relações com Investidores)
+publication_date: '2025-03-28'
+retrieved_at: '2026-09-03'
+url: https://ri.brb.com.br/upload/files/3792_Fato-Relevante-Banco-Master.pdf
+source_type: corporate_registry
+summary: 'Comunicado ao mercado, nos termos do art. 157, §4º da Lei das S.A. e da Resolução CVM nº 44/2021:
+  o Conselho de Administração aprovou por unanimidade, em 28/03/2025, a celebração do contrato de compra
+  e venda de ações com os controladores do Banco Master, para aquisição de 49% das ações ordinárias, 100%
+  das preferenciais e 58% do capital total, sujeita à aprovação do Banco Central, do Cade e demais aprovações
+  regulatórias. O objetivo declarado era incorporar o Master ao conglomerado prudencial do BRB.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

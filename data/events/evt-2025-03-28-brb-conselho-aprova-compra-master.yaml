@@ -11,15 +11,23 @@ participant_ids:
 description: 'Fato relevante do BRB, conforme a CNN: aprovação de contrato para adquirir 49% das ordinárias
   e 100% das preferenciais (58% do capital) do Master, por 75% do patrimônio líquido, sujeito a BC, Cade,
   diligência sobre ativos e reorganização do Master. O pedido de autorização foi protocolado no BC em
-  28/03/2025, segundo o Congresso em Foco.'
-evidence_class: C
+  28/03/2025, segundo o Congresso em Foco. O Fato Relevante detalha os percentuais: 49% das ações ordinárias,
+  100% das preferenciais e 58% do capital total, sujeitos a Banco Central, Cade e demais aprovações. O
+  Fato Relevante detalha os percentuais: 49% das ações ordinárias, 100% das preferenciais e 58% do capital
+  total, sujeitos a Banco Central, Cade e demais aprovações.'
+evidence_class: D
 status: verified
 evidence_ids:
 - ev-brb-conselho-aprova-compra-2025-03-28
+- ev-fato-relevante-brb-percentuais
+- ev-fato-relevante-brb-percentuais
 source_ids:
 - src-cnn-2025-03-28-brb-aprova-compra
 - src-congressoemfoco-2025-10-20-brb-desiste
-document_ids: []
+- src-brb-2025-03-28-fato-relevante-master
+document_ids:
+- doc-2025-03-28-fato-relevante-brb-master
+- doc-2025-03-28-fato-relevante-brb-master
 public_act_ids: []
 review_status: published
 reviewer: orquestrador

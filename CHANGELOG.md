@@ -7,6 +7,12 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 12 do corpus, resposta institucional por fontes oficiais: Fato Relevante do BRB de 28/03/2025,
+  com os percentuais exatos da compra; requerimento da CAE registrando que o preço equivalia a 75% do
+  patrimônio do banco público; convocações da CPI do Crime Organizado e da CPMI do INSS; PLP 135/2026,
+  de Ciro Nogueira, elevando o limite do FGC; substitutivo à PEC 65/2023 aprovado na CCJ; projeto da
+  Câmara sobre exoneração de diretor do Banco Central; e o comunicado oficial da Polícia Federal sobre
+  a 10ª fase. As fontes primárias oficiais passaram de 26 para 34.
 - Lote 11 do corpus: os dois contratos do escritório Barci de Moraes. Entra o segundo instrumento, de
   12/05/2025, firmado com a Viking Participações, com limite de R$ 50 milhões líquidos, e o termo de
   dação em pagamento que previa quitar R$ 40 milhões com ações de duas empresas ligadas a aeronaves;

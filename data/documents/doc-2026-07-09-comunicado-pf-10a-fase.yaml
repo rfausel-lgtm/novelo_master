@@ -1,0 +1,25 @@
+id: doc-2026-07-09-comunicado-pf-10a-fase
+kind: document
+title: Comunicado da Polícia Federal sobre a 10ª fase da Operação Compliance Zero
+doc_type: public_statement
+date: '2026-07-09'
+source_ids:
+- src-pf-2026-07-09-decima-fase
+summary: 'Nota oficial publicada em 09/07/2026: dois mandados de busca e apreensão expedidos pelo STF
+  em Brasília; apuração de atuação coordenada em redes sociais voltada a comprometer a credibilidade do
+  Banco Central e de possível organização criminosa dedicada à intimidação de jornalistas, ao monitoramento
+  ilícito de pessoas ligadas a autoridades públicas e a medidas para interferir em investigações.'
+is_official: true
+related_entity_ids:
+- policia-federal
+- banco-central-do-brasil
+- thiago-miranda
+issuer_id: policia-federal
+issuer: Coordenação-Geral de Comunicação Social da Polícia Federal
+date_precision: day
+url: https://www.gov.br/pf/pt-br/assuntos/noticias/2026/07/policia-federal-deflagra-10a-fase-da-operacao-compliance-zero
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

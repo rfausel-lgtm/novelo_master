@@ -1,0 +1,28 @@
+id: evt-2025-04-29-cae-aprova-convite-brb-e-master
+kind: event
+title: CAE aprova convite a Vorcaro e ao presidente do BRB para explicar a compra
+event_type: public_act
+date: '2025-04-29'
+date_precision: day
+participant_ids:
+- senado-federal
+- daniel-vorcaro
+- paulo-henrique-costa
+- banco-de-brasilia-brb
+- banco-master
+description: A Comissão de Assuntos Econômicos aprovou convite para que os presidentes do Master e do
+  BRB prestassem esclarecimentos sobre a aquisição. O requerimento registra que a compra de 58% do capital
+  por R$ 2 bilhões equivalia a 75% do patrimônio consolidado do banco público.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-cae-preco-equivalente-a-75-do-patrimonio
+source_ids:
+- src-senado-2025-04-29-cae-audiencia-brb-master
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

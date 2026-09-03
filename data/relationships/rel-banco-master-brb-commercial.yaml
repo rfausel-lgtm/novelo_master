@@ -17,10 +17,13 @@ event_ids:
 evidence_ids:
 - ev-stf-brb-adquiriu-carteiras-12-2-bi
 - ev-pf-carteiras-sem-lastro-vendidas-ao-brb
+- ev-fato-relevante-brb-percentuais
 source_ids:
 - src-stf-2026-04-16-prisao-ex-presidente-brb
 - src-pf-2025-11-18-compliance-zero
-document_ids: []
+- src-brb-2025-03-28-fato-relevante-master
+document_ids:
+- doc-2025-03-28-fato-relevante-brb-master
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

@@ -1,0 +1,27 @@
+id: evt-2026-02-25-cpi-convoca-vorcaro
+kind: event
+title: CPI do Crime Organizado convoca Vorcaro e convida Toffoli e Moraes
+event_type: public_act
+date: '2026-02-25'
+date_precision: day
+participant_ids:
+- cpi-do-crime-organizado
+- daniel-vorcaro
+- dias-toffoli
+- alexandre-de-moraes
+- viviane-barci-de-moraes
+description: A comissão decidiu convocar o banqueiro e aprovou convites aos dois ministros do STF e à
+  advogada.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-cpi-convoca-vorcaro-2026-02-25
+source_ids:
+- src-senado-2026-02-25-cpi-convoca-vorcaro
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

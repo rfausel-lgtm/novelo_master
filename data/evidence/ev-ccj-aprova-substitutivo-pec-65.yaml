@@ -1,0 +1,16 @@
+id: ev-ccj-aprova-substitutivo-pec-65
+kind: evidence
+classification: D
+proposition: Em 10/06/2026 a CCJ aprovou o substitutivo do senador Plínio Valério à PEC 65/2023, que insere
+  na Constituição a autonomia técnica, operacional, administrativa, orçamentária e financeira do Banco
+  Central, e a proposta seguiu ao Plenário.
+document_ids:
+- doc-2026-06-10-comunicacao-ccj-pec-65
+source_ids:
+- src-senado-2026-06-10-ccj-pec-65-autonomia
+date: '2026-06-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

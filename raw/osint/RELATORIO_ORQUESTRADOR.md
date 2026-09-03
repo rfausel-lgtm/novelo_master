@@ -40,8 +40,8 @@ Ainda pendente:
   o caminho que funcionou foi achar o link do DOU citado por veículo jurídico.
 - Relatório da PF sobre Wagner (PDF de 34 MB, 98 páginas): LIDO no lote 8.
   A decisão da 9ª fase, a da Zona Cinzenta, a da 6ª fase e a nota de defesa de Thiago Miranda foram
-  lidas no lote 7 e já sustentam evidências documentais. A decisão da 10ª fase segue pendente: o link
-  publicado pelo Poder360 responde 404.
+  lidas no lote 7 e já sustentam evidências documentais. A decisão da 10ª fase segue pendente (link 404 no Poder360), mas o
+  comunicado oficial da PF sobre essa fase foi lido e já sustenta evidência documental.
 - Fotografias: nenhuma ingerida; usar Wikimedia Commons com licença registrada em `photo`.
 
 ## Armadilhas encontradas

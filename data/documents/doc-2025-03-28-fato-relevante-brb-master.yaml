@@ -1,0 +1,25 @@
+id: doc-2025-03-28-fato-relevante-brb-master
+kind: document
+title: Fato Relevante do BRB de 28 de março de 2025
+doc_type: corporate_record
+date: '2025-03-28'
+source_ids:
+- src-brb-2025-03-28-fato-relevante-master
+summary: 'Comunicado de três páginas ao mercado: aprovação unânime pelo Conselho de Administração da compra
+  de 49% das ações ordinárias, 100% das preferenciais e 58% do capital total do Banco Master, sujeita
+  a Banco Central, Cade e demais aprovações regulatórias, com o objetivo de incorporar o Master ao conglomerado
+  prudencial do BRB.'
+is_official: true
+related_entity_ids:
+- banco-de-brasilia-brb
+- banco-master
+- daniel-vorcaro
+issuer_id: banco-de-brasilia-brb
+issuer: BRB — Banco de Brasília S.A.
+url: https://ri.brb.com.br/upload/files/3792_Fato-Relevante-Banco-Master.pdf
+reference: Fato Relevante — art. 157, §4º da Lei 6.404/1976 e Resolução CVM 44/2021
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

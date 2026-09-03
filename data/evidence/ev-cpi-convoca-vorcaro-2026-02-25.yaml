@@ -1,0 +1,15 @@
+id: ev-cpi-convoca-vorcaro-2026-02-25
+kind: evidence
+classification: D
+proposition: Em 25/02/2026 a CPI do Crime Organizado convocou Daniel Vorcaro e aprovou convites aos ministros
+  Dias Toffoli e Alexandre de Moraes e à esposa do segundo.
+document_ids:
+- doc-2026-02-25-comunicacao-cpi-convoca-vorcaro
+source_ids:
+- src-senado-2026-02-25-cpi-convoca-vorcaro
+date: '2026-02-25'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

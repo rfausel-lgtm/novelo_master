@@ -13,17 +13,23 @@ description: A PF cumpriu mandado de busca e apreensão contra o publicitário T
   por André Mendonça. A decisão cita o 'Projeto DV' (contratação de influenciadores e jornalistas para
   defender o Master e atacar o BC) e o levantamento de dados sigilosos de jornalistas (Malu Gaspar, Consuelo
   Dieguez) e executivos (Milton Maluhy, Renato Breia) a pedido de Vorcaro; até então Miranda não era tratado
-  como investigado.
-evidence_class: C
+  como investigado. O comunicado oficial da PF registra dois mandados de busca expedidos pelo STF e descreve
+  a apuração de atuação coordenada em redes sociais contra a credibilidade do Banco Central. O comunicado
+  oficial da PF registra dois mandados de busca expedidos pelo STF e descreve a apuração de atuação coordenada
+  em redes sociais contra a credibilidade do Banco Central.
+evidence_class: D
 status: verified
 evidence_ids:
 - ev-decima-fase-thiago-miranda-2026-07-09
 - ev-projeto-dv-influenciadores
 - ev-nota-defesa-thiago-miranda
+- ev-pf-comunicado-10a-fase
+- ev-pf-comunicado-10a-fase
 source_ids:
 - src-poder360-2026-07-09-operacao-thiago-miranda
 - src-poder360-2026-07-09-quem-e-thiago-miranda
 - src-gazeta-2026-07-09-operacao-dark-horse
+- src-pf-2026-07-09-decima-fase
 document_ids:
 - doc-2026-07-09-decisao-mendonca-10a-fase
 - doc-2026-07-09-nota-defesa-thiago-miranda

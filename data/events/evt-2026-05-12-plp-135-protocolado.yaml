@@ -1,0 +1,35 @@
+id: evt-2026-05-12-plp-135-protocolado
+kind: event
+title: Ciro Nogueira protocola o PLP 135/2026, que eleva o limite do FGC
+event_type: public_act
+date: '2026-05-12'
+date_precision: day
+participant_ids:
+- ciro-nogueira
+- senado-federal
+- fundo-garantidor-de-creditos
+description: O projeto altera a Lei nº 4.595/1964 para elevar o limite individual da garantia de depósitos.
+  Foi protocolado cinco dias após a fase da Compliance Zero que o teve como alvo e na mesma semana em
+  que o senador declarou publicamente que reapresentaria proposta sobre o FGC.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-plp-135-2026-fgc
+source_ids:
+- src-senado-plp-135-2026-fgc
+document_ids: []
+public_act_ids:
+- ato-2026-05-12-plp-135-fgc
+cited_position:
+- kind: denial
+  summary: Ciro Nogueira negou ter apresentado a emenda anterior na íntegra como recebida, defendeu a
+    atualização do limite do FGC e negou ter recebido valores ilícitos.
+  source_ids:
+  - src-jdb-2026-05-12-ciro-nega-emenda
+  by_id: ciro-nogueira
+  date: '2026-05-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

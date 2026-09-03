@@ -19,6 +19,8 @@ source_ids:
 - src-pf-2025-11-18-compliance-zero
 - src-stf-2026-04-16-prisao-ex-presidente-brb
 - src-cnn-2026-02-05-mansur-reag-brb
+- src-brb-2025-03-28-fato-relevante-master
+- src-senado-2025-04-29-cae-audiencia-brb-master
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

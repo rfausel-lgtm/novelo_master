@@ -1,0 +1,18 @@
+id: ev-pf-comunicado-10a-fase
+kind: evidence
+classification: D
+proposition: 'Comunicado oficial da Polícia Federal: a 10ª fase, deflagrada em 09/07/2026, cumpriu dois
+  mandados de busca e apreensão expedidos pelo STF em Brasília e apura atuação coordenada em redes sociais
+  voltada, em tese, a comprometer a credibilidade do Banco Central, além de possível organização criminosa
+  dedicada à intimidação de jornalistas, ao monitoramento ilícito de pessoas ligadas a autoridades públicas
+  e a medidas destinadas a interferir em investigações.'
+document_ids:
+- doc-2026-07-09-comunicado-pf-10a-fase
+source_ids:
+- src-pf-2026-07-09-decima-fase
+date: '2026-07-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,15 @@
+id: ev-projeto-exoneracao-diretor-bc
+kind: evidence
+classification: D
+proposition: Projeto em tramitação na Câmara prevê que a exoneração de diretor do Banco Central seja possível
+  quando aprovada pela maioria absoluta de deputados e senadores, em caso de incompatibilidade com os
+  interesses nacionais.
+document_ids:
+- doc-camara-projeto-exoneracao-diretor-bc
+source_ids:
+- src-camara-projeto-exoneracao-diretor-bc
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
