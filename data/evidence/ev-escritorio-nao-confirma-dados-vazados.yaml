@@ -1,0 +1,15 @@
+id: ev-escritorio-nao-confirma-dados-vazados
+kind: evidence
+classification: A
+proposition: Procurado, o escritório disse não confirmar informações 'incorretas e vazadas ilicitamente',
+  lembrando que todos os dados fiscais são sigilosos.
+document_ids: []
+source_ids:
+- src-cnn-2026-03-escritorio-recebeu-80-milhoes
+attributed_to_id: barci-de-moraes-sociedade-de-advogados
+date: 2026-03
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

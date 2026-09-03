@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 11 do corpus: os dois contratos do escritório Barci de Moraes. Entra o segundo instrumento, de
+  12/05/2025, firmado com a Viking Participações, com limite de R$ 50 milhões líquidos, e o termo de
+  dação em pagamento que previa quitar R$ 40 milhões com ações de duas empresas ligadas a aeronaves;
+  os R$ 80,2 milhões apontados pela Receita Federal à CPI; a confirmação do escritório de que o ministro
+  editou a última versão do primeiro contrato a pedido do compliance do banco; e a ressalva da própria
+  Polícia Federal de que o relatório de 218 páginas, feito em 72 horas sobre um único celular, não é
+  exaustivo.
 - Lote 10 do corpus: inspeção do TCU no Banco Central sobre a liquidação, concluída em 11/02/2026, cujo
   relatório, segundo interlocutores da Corte, não aponta irregularidades na atuação da autoridade
   monetária, seguida da ampliação do sigilo; depoimento de Daniel Vorcaro ao gabinete de André Mendonça

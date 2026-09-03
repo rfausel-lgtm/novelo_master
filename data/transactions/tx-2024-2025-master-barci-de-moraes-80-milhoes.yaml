@@ -1,0 +1,34 @@
+id: tx-2024-2025-master-barci-de-moraes-80-milhoes
+kind: transaction
+title: Pagamentos do Banco Master ao escritório Barci de Moraes (R$ 80,2 milhões)
+transaction_type: fee
+from_id: banco-master
+to_id: barci-de-moraes-sociedade-de-advogados
+currency: BRL
+date: '2025'
+date_precision: year
+description: Dados da Receita Federal enviados à CPI do Crime Organizado apontam R$ 80.223.654,94 pagos
+  entre 2024 e 2025, em 22 meses. O escritório não confirma os valores e lembra que dados fiscais são
+  sigilosos.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-escritorio-recebeu-80-2-milhoes
+- ev-escritorio-nao-confirma-dados-vazados
+source_ids:
+- src-cnn-2026-03-escritorio-recebeu-80-milhoes
+event_ids: []
+amount: 80223654.94
+amount_text: R$ 80.223.654,94 em 22 meses
+cited_position:
+- kind: clarification
+  summary: O escritório não confirma informações que considera incorretas e vazadas ilicitamente.
+  source_ids:
+  - src-cnn-2026-03-escritorio-recebeu-80-milhoes
+  by_id: barci-de-moraes-sociedade-de-advogados
+  date: 2026-03
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

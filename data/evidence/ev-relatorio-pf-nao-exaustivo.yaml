@@ -1,0 +1,19 @@
+id: ev-relatorio-pf-nao-exaustivo
+kind: evidence
+classification: C
+proposition: 'A Polícia Federal afirma que o relatório de 218 páginas entregue em 27/08/2026 ''não possui
+  caráter exaustivo'': foi produzido em 72 horas, teve por objeto um único celular apreendido com Vorcaro
+  e transcreveu apenas as menções nominais diretamente identificadas; outros aparelhos ainda devem passar
+  por perícia.'
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+source_ids:
+- src-poder360-2026-09-02-relatorio-pf-nao-conclusivo
+- src-poder360-2026-09-01-sigilo-pet-16662
+excerpt: não possui caráter exaustivo
+date: '2026-08-27'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

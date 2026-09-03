@@ -1,0 +1,28 @@
+id: evt-2026-09-02-escritorio-confirma-edicao-do-contrato-por-moraes
+kind: event
+title: Escritório confirma que a última versão do 1º contrato foi editada pelo ministro
+event_type: statement
+date: '2026-09-02'
+date_precision: day
+participant_ids:
+- barci-de-moraes-sociedade-de-advogados
+- alexandre-de-moraes
+- banco-master
+description: Em nota ao Poder360, o escritório confirmou que Moraes editou a última versão do contrato
+  e explicou que o setor de compliance do banco havia solicitado a ele informações sobre eventuais impedimentos
+  legais à contratação; afirma que, por não haver previsão de atuação no STF nem impedimento, e por o
+  ministro jamais ter julgado causa do Master, o contrato foi assinado e os serviços prestados.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-moraes-editou-ultima-versao-do-contrato
+- ev-escritorio-explica-edicao-do-contrato
+source_ids:
+- src-poder360-2026-09-02-dois-contratos-barci
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

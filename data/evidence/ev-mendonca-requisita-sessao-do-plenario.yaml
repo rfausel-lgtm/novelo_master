@@ -1,0 +1,17 @@
+id: ev-mendonca-requisita-sessao-do-plenario
+kind: evidence
+classification: C
+proposition: Ao levantar o sigilo, o relator requisitou ao presidente do STF uma sessão pública do plenário
+  para que as menções a Moraes, a Gonet e ao diretor-geral da PF sejam analisadas por todos os ministros,
+  'instância soberana para analisar, de modo técnico e estritamente jurídico, os novos elementos'. A sessão
+  não havia sido pautada.
+document_ids: []
+source_ids:
+- src-poder360-2026-09-01-mendonca-quer-sessao-plenario
+- src-poder360-2026-09-01-sigilo-pet-16662
+date: '2026-09-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

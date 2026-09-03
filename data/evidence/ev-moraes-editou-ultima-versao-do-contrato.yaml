@@ -1,0 +1,17 @@
+id: ev-moraes-editou-ultima-versao-do-contrato
+kind: evidence
+classification: D
+proposition: Documento extraído do celular de Vorcaro mostra que a última versão do primeiro contrato
+  foi editada por um usuário identificado como o ministro. Em nota ao Poder360 o escritório confirmou
+  a informação e explicou que o setor de compliance do banco solicitou a Moraes informações sobre eventuais
+  impedimentos legais à contratação.
+document_ids:
+- doc-2024-01-contrato-barci-de-moraes-banco-master
+source_ids:
+- src-poder360-2026-09-02-dois-contratos-barci
+date: '2024-01-16'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

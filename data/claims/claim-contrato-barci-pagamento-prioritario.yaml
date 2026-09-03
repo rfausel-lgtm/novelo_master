@@ -15,8 +15,10 @@ event_ids:
 - evt-2024-03-15-cobranca-pagamento-escritorio-barci
 evidence_ids:
 - ev-ipja-cobranca-pagamento-2024-03-15
+- ev-relatorio-pf-nao-exaustivo
 source_ids:
 - src-cnn-2026-09-fabio-faria-pf
+- src-poder360-2026-09-02-relatorio-pf-nao-conclusivo
 limits: As mensagens documentam a prioridade atribuída ao pagamento e a cobrança de Faria. Não demonstram
   a razão da prioridade nem qualquer contrapartida; a identidade de 'o careca' é interpretação da PF e
   da imprensa, não do documento.

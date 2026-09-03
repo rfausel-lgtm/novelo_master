@@ -15,14 +15,21 @@ description: O relator retirou o sigilo da PET 16.662, aberta após a PF apresen
   analisados pelo Plenário. Tornaram-se públicos o relatório IPJ-A 3298613/2026, a íntegra das conversas
   com o contato 'Alexandre de Moraes BRASILIA' e os contratos do escritório Barci de Moraes. Segundo o
   Poder360, o despacho não cita Moraes nominalmente; a identificação do interlocutor foi feita pela imprensa.
+  O relator requisitou ao presidente do STF uma sessão pública do plenário para examinar as menções; a
+  sessão não havia sido pautada. A própria PF registra que o relatório de 218 páginas, feito em 72 horas
+  sobre um único celular, 'não possui caráter exaustivo'.
 evidence_class: C
 status: verified
 evidence_ids:
 - ev-stf-mendonca-levanta-sigilo-2026-09-01
+- ev-relatorio-pf-nao-exaustivo
+- ev-mendonca-requisita-sessao-do-plenario
 source_ids:
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-congressoemfoco-2026-09-01-relatorio-pf
 - src-poder360-2026-09-01-integras-pet-16662
+- src-poder360-2026-09-01-mendonca-quer-sessao-plenario
+- src-poder360-2026-09-02-relatorio-pf-nao-conclusivo
 document_ids:
 - doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
 public_act_ids: []

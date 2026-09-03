@@ -1,0 +1,17 @@
+id: ev-escritorio-explica-edicao-do-contrato
+kind: evidence
+classification: A
+proposition: 'Segundo o escritório: ''Diante da inexistência de previsão de atuação no STF ou de qualquer
+  impedimento legal, uma vez que o ministro Alexandre de Moraes jamais julgou qualquer causa envolvendo
+  o Banco Master, o contrato foi assinado e os serviços advocatícios devidamente prestados''.'
+document_ids: []
+source_ids:
+- src-poder360-2026-09-02-dois-contratos-barci
+excerpt: o ministro Alexandre de Moraes jamais julgou qualquer causa envolvendo o Banco Master
+attributed_to_id: barci-de-moraes-sociedade-de-advogados
+date: '2026-09-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

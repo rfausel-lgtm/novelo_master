@@ -1,0 +1,39 @@
+id: evt-2025-05-12-segundo-contrato-viking-barci-de-moraes
+kind: event
+title: Viking Participações contrata o escritório Barci de Moraes (2º contrato, R$ 50 milhões)
+event_type: corporate_act
+date: '2025-05-12'
+date_precision: day
+participant_ids:
+- viking-participacoes
+- barci-de-moraes-sociedade-de-advogados
+- viviane-barci-de-moraes
+- daniel-vorcaro
+description: Contrato de três anos com limite de R$ 50 milhões líquidos, firmado com a Viking Participações
+  representada por Vorcaro. Uma semana depois, em 19/05/2025, as partes assinaram termo de dação em pagamento
+  prevendo quitar R$ 40 milhões com ações de duas empresas ligadas a aeronaves. O escritório afirma ter
+  assinado apenas um contrato com o Master; este segundo instrumento tem como contratante a Viking.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-segundo-contrato-viking-barci-2025-05-12
+- ev-dacao-em-pagamento-acoes-de-aeronaves
+- ev-dois-contratos-somam-158-milhoes
+source_ids:
+- src-poder360-2026-09-02-dois-contratos-barci
+document_ids:
+- doc-2025-05-12-contrato-viking-barci-de-moraes
+- doc-2025-05-19-termo-dacao-em-pagamento-viking-barci
+public_act_ids: []
+cited_position:
+- kind: clarification
+  summary: O escritório afirma ter assinado apenas um contrato com o Banco Master.
+  source_ids:
+  - src-poder360-2026-09-02-dois-contratos-barci
+  by_id: barci-de-moraes-sociedade-de-advogados
+  date: '2026-09-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

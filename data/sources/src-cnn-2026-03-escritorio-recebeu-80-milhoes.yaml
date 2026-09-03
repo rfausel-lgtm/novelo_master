@@ -1,0 +1,24 @@
+id: src-cnn-2026-03-escritorio-recebeu-80-milhoes
+kind: source
+title: Escritório de mulher de Moraes recebeu R$ 80,2 milhões do Master
+publisher: CNN Brasil
+publication_date: 2026-03
+retrieved_at: '2026-09-03'
+url: https://www.cnnbrasil.com.br/politica/escritorio-de-mulher-de-moraes-recebeu-r-802-milhoes-do-master/
+source_type: press
+summary: Dados da Receita Federal enviados à CPI do Crime Organizado, com base na declaração de imposto
+  de renda do banco, apontam que o escritório recebeu R$ 80,2 milhões do Banco Master entre 2024 e 2025.
+  Procurado, o escritório disse não confirmar informações 'incorretas e vazadas ilicitamente', lembrando
+  que dados fiscais são sigilosos. Em nota de março, o escritório já reconhecera a prestação de 'ampla
+  consultoria e atuação jurídica', com 15 advogados, três escritórios subcontratados e 79 reuniões na
+  sede do banco, sem revelar o valor.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

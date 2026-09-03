@@ -27,6 +27,13 @@ cited_position:
     contatos do ministro''; o material estaria vinculado a outros contatos da agenda do banqueiro.'
   source_ids:
   - src-poder360-2026-03-06-moraes-nega
+- kind: clarification
+  summary: Segundo o escritório, o compliance do Banco Master consultou o ministro sobre eventuais impedimentos
+    legais antes da contratação; ele jamais julgou causa envolvendo o banco.
+  source_ids:
+  - src-poder360-2026-09-02-dois-contratos-barci
+  by_id: barci-de-moraes-sociedade-de-advogados
+  date: '2026-09-02'
 open_questions:
 - O corpus não contém manifestação do ministro posterior ao levantamento do sigilo da PET 16.662 (01/09/2026).
 - O relatório da PF atribui o número a um contato salvo pelo banqueiro; a titularidade da linha não está
@@ -38,6 +45,9 @@ source_ids:
 - src-poder360-2026-03-06-moraes-nega
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-poder360-2026-03-10-degustacao-londres
+- src-poder360-2026-09-02-dois-contratos-barci
+- src-poder360-2026-09-02-relatorio-pf-nao-conclusivo
+- src-poder360-2026-09-01-mendonca-quer-sessao-plenario
 full_name: Alexandre de Moraes
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Alexandre_de_Moraes

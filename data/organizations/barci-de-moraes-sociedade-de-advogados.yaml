@@ -16,10 +16,26 @@ cited_position:
   summary: Nota de 09/03/2026 detalhando 94 reuniões, 36 pareceres e a não atuação perante o STF.
   source_ids:
   - src-poder360-2026-03-09-nota-barci
+- kind: clarification
+  summary: O escritório afirma ter assinado apenas um contrato com o Banco Master e confirma que o compliance
+    do banco consultou o ministro sobre impedimentos antes da assinatura.
+  source_ids:
+  - src-poder360-2026-09-02-dois-contratos-barci
+  by_id: barci-de-moraes-sociedade-de-advogados
+  date: '2026-09-02'
+- kind: clarification
+  summary: 'Sobre os valores da Receita: não confirma informações ''incorretas e vazadas ilicitamente'';
+    dados fiscais são sigilosos.'
+  source_ids:
+  - src-cnn-2026-03-escritorio-recebeu-80-milhoes
+  by_id: barci-de-moraes-sociedade-de-advogados
+  date: 2026-03
 open_questions: []
 source_ids:
 - src-poder360-2026-03-09-nota-barci
 - src-poder360-2026-09-01-integras-pet-16662
+- src-poder360-2026-09-02-dois-contratos-barci
+- src-cnn-2026-03-escritorio-recebeu-80-milhoes
 full_name: Barci de Moraes Sociedade de Advogados
 review_status: published
 reviewer: orquestrador

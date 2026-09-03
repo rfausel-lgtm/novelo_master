@@ -20,15 +20,19 @@ evidence_ids:
 - ev-pf-encontros-vorcaro-moraes
 - ev-ipja-mensagens-visualizacao-unica-2025-11-17
 - ev-nota-moraes-nega-mensagens
+- ev-relatorio-pf-nao-exaustivo
 source_ids:
 - src-congressoemfoco-2026-09-01-relatorio-pf
 - src-cnn-2026-09-fabio-faria-pf
 - src-poder360-2026-03-06-moraes-nega
+- src-poder360-2026-09-02-relatorio-pf-nao-conclusivo
 limits: 'O relatório documenta o que há no celular de Vorcaro: contato salvo com o nome do ministro, mensagens
   enviadas a esse contato e referências a encontros em conversas com terceiros. Não demonstra a titularidade
   da linha, o teor de eventuais conversas do ministro nem qualquer ato do ministro em favor do banqueiro.
   A PF não fez diligências contra magistrados e o relatório não conclui pela prática de crime. O gabinete
-  do ministro nega ser o destinatário das mensagens. A matéria será analisada pelo Plenário do STF.'
+  do ministro nega ser o destinatário das mensagens. A matéria será analisada pelo Plenário do STF. A
+  própria PF registra que o relatório de 218 páginas foi produzido em 72 horas sobre um único celular
+  e ''não possui caráter exaustivo''; outros aparelhos ainda serão periciados.'
 counter_position:
 - date: '2026-03-06'
   by_id: alexandre-de-moraes

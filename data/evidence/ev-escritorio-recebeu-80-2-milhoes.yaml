@@ -1,0 +1,16 @@
+id: ev-escritorio-recebeu-80-2-milhoes
+kind: evidence
+classification: A
+proposition: Dados da Receita Federal enviados à CPI do Crime Organizado, com base na declaração de imposto
+  de renda do banco, apontam que o escritório recebeu R$ 80.223.654,94 do Banco Master entre 2024 e 2025,
+  em 22 meses de serviços.
+document_ids: []
+source_ids:
+- src-cnn-2026-03-escritorio-recebeu-80-milhoes
+attributed_to: Receita Federal, via CPI do Crime Organizado e CNN Brasil
+date: 2026-03
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

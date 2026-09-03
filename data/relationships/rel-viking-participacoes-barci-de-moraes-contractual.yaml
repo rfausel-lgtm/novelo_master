@@ -1,0 +1,30 @@
+id: rel-viking-participacoes-barci-de-moraes-contractual
+kind: relationship
+from_id: viking-participacoes
+to_id: barci-de-moraes-sociedade-de-advogados
+relationship_type: contractual
+directed: true
+label: 2º contrato (12/05/2025) e dação em pagamento de R$ 40 milhões em ações
+start_date: '2025-05-12'
+description: A Viking Participações, representada por Daniel Vorcaro, firmou com o escritório contrato
+  de três anos com limite de R$ 50 milhões líquidos e, uma semana depois, termo de dação em pagamento
+  prevendo quitar R$ 40 milhões com ações de duas empresas ligadas a aeronaves. Ambos os instrumentos
+  foram anexados ao relatório da PF.
+evidence_class: D
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2025-05-12-segundo-contrato-viking-barci-de-moraes
+evidence_ids:
+- ev-segundo-contrato-viking-barci-2025-05-12
+- ev-dacao-em-pagamento-acoes-de-aeronaves
+source_ids:
+- src-poder360-2026-09-02-dois-contratos-barci
+document_ids:
+- doc-2025-05-12-contrato-viking-barci-de-moraes
+- doc-2025-05-19-termo-dacao-em-pagamento-viking-barci
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,27 @@
+id: doc-2025-05-12-contrato-viking-barci-de-moraes
+kind: document
+title: Contrato de prestação de serviços advocatícios entre a Viking Participações e o escritório Barci
+  de Moraes
+doc_type: contract
+date: '2025-05-12'
+source_ids:
+- src-poder360-2026-09-02-dois-contratos-barci
+- src-poder360-2026-09-01-integras-pet-16662
+summary: 'Segundo contrato revelado pelo relatório da PF: firmado em 12/05/2025 entre o escritório e a
+  Viking Participações, com vigência de três anos e limite máximo de R$ 50 milhões líquidos em 36 meses,
+  com pagamentos mensais, trimestrais ou semestrais conforme a demanda. Anexado ao relatório da PF e tornado
+  público em 01/09/2026.'
+is_official: true
+related_entity_ids:
+- viking-participacoes
+- barci-de-moraes-sociedade-de-advogados
+- viviane-barci-de-moraes
+- daniel-vorcaro
+issuer_id: viking-participacoes
+issuer: Viking Participações, representada por Daniel Vorcaro
+reference: Anexo do relatório IPJ-A 3298613/2026 (PET 16.662)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
