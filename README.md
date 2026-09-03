@@ -9,7 +9,9 @@ investigação.
 Estar neste mapa não implica ilicitude. Cada relação aponta para a fonte que a sustenta e para a força
 da evidência correspondente. Alegações e inferências nunca são apresentadas como fatos.
 
-![Grafo do Novelo Master](docs/screenshots/grafo-demo.png)
+![Grafo do Novelo Master com o corpus real](docs/screenshots/grafo-corpus.png)
+
+Dataset sintético de estresse e demonstração: `docs/screenshots/grafo-demo.png`.
 
 ## O que o site oferece
 

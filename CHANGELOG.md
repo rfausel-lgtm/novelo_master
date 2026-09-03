@@ -1,49 +1,38 @@
 # Changelog
 
-Todas as mudanças relevantes neste projeto são registradas aqui. O formato segue [Keep a Changelog 1.1.0](https://keepachangelog.com/pt-BR/1.1.0/) e o versionamento segue [SemVer](https://semver.org/lang/pt-BR/).
+Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O histórico editorial
+dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
-Mudanças no corpus (`data/`) são registradas de forma resumida nesta página e, para o público, em `data/revisions/` (página `/atualizacoes`). Correções e retratações editoriais entram sempre na seção "Corrigido" ou "Removido", sem reproduzir conteúdo retratado.
-
-## [Unreleased]
+## [0.1.0] - 2026-09-03 (release candidate)
 
 ### Adicionado
 
-- Estrutura inicial do repositório independente com Git como fonte de verdade editorial (ADR-0001).
-- Next.js 16 com exportação estática, sem servidor nem banco em runtime (ADR-0002).
-- Modelo de dados em Zod (`src/lib/schema/`): Person, Organization (com `org_type`), Event, PublicAct, Transaction, Relationship, Claim, Evidence, Source, Document, TemporalSequence e Revision; classes de evidência D/C/A/I; status factual; trilha de revisão; `cited_position` para contraditório; metadados obrigatórios de foto (ADR-0003).
-- Pipeline de dados: carregador YAML (um registro por arquivo), lint editorial com erros bloqueantes e avisos, compilação para `corpus.json`, `stats.json` e `graph.json` com layout ForceAtlas2 determinístico; comandos `data:validate`, `data:lint`, `data:build`, `data:stress`.
-- Grafo com Sigma.js 3 e Graphology; flags `official` e `documented` por aresta para os modos "somente fontes oficiais" e "somente fatos documentados" (ADR-0004).
-- Segurança: `.gitignore` para segredos e artefatos, `.gitleaks.toml`, hook de pre-commit com gitleaks e scanner de fallback (`scripts/scan-secrets.ts`), `.env.example`.
-- Documentação: METHODOLOGY.md, EDITORIAL_POLICY.md, OSINT_GUIDELINES.md, DATA_SCHEMA.md, CONTRIBUTING.md, SECURITY.md, ADRs 0001 a 0004, modelos de issue e de pull request.
-- Página inicial: (a preencher)
-- Grafo interativo com filtros por categoria, família e classe de evidência: (a preencher)
-- Máquina do tempo: (a preencher)
-- Páginas de pessoa, organização, evento e ato público: (a preencher)
-- Página `/coincidencias` (sequências temporais): (a preencher)
-- Página `/atualizacoes` (revisões): (a preencher)
-- Página `/metodologia`: (a preencher)
-- Busca: (a preencher)
-- Testes unitários e end-to-end: (a preencher)
-- Integração contínua: (a preencher)
-
-### Alterado
-
-- (nada ainda)
+- Grafo interativo (Sigma.js 3 + Graphology): busca instantânea, card de nó e de aresta, seleção
+  múltipla com conexões comuns, eventos compartilhados, intermediários e caminhos entre pares,
+  "Como A se conecta a B?" com alternativas, vizinhança em 1º e 2º grau, isolamento, filtros por tipo
+  de nó, de relação e classe de evidência, modos "MOSTRAR APENAS FONTES OFICIAIS" e "MOSTRAR SOMENTE
+  FATOS DOCUMENTADOS", time machine com "assistir o novelo se formar", antes/depois de eventos,
+  legenda (cor = natureza, forma = força), reorganização por ForceAtlas2 em worker, atalhos de teclado.
+- Programas WebGL próprios para arestas tracejadas (alegação) e pontilhadas (inferência), com setas.
+- Modelo de dados (Zod) com evidência como entidade central e classes D/C/A/I; lint editorial que
+  bloqueia relação sem suporte, alegação/inferência com status verificado, classe D sem documento,
+  classe C com fonte única e inferência sem raciocínio escrito.
+- Pipeline `data:build` (YAML → corpus.json + graph.json com layout pré-calculado) e dataset sintético
+  de estresse (5.000 nós / 25.000 arestas).
+- Páginas estáticas indexáveis: pessoas, organizações, eventos, atos públicos, documentos, fontes,
+  cronologia com filtros, coincidências temporais, atualizações, metodologia, política editorial e
+  rede em tabela; sitemap, robots, JSON-LD, OpenGraph.
+- Corpus inicial verificado: 44 pessoas, 26 organizações, 43 eventos, 10 atos públicos, 79 relações,
+  24 documentos, 58 fontes (21 oficiais), 81 evidências, 4 claims, 3 sequências temporais.
+- Documentação: README, ARCHITECTURE, METHODOLOGY, EDITORIAL_POLICY, OSINT_GUIDELINES, DATA_SCHEMA,
+  CONTRIBUTING, SECURITY, DEPLOYMENT, ADRs, notas de performance e relatórios de Red Team.
+- Segurança: gitleaks no pre-commit e no CI, scanner de fallback, `.env.example`, CSP e cabeçalhos em
+  `public/_headers`, CodeQL, dependency review, Dependabot, `npm audit` limpo.
+- Testes: 52 unitários (Vitest) e 10 cenários E2E (Playwright).
+- Utilitários Python de captura para OSINT (`python/novelo_osint`).
 
 ### Corrigido
 
-- (nada ainda)
-
-### Removido
-
-- (nada ainda)
-
-### Segurança
-
-- (nada ainda)
-
-### Corpus
-
-- Carga inicial de dados: (a preencher com a primeira revisão em `data/revisions/`)
-
-[Unreleased]: https://github.com/rfausel-lgtm/o-novelo-master/compare/main...HEAD
+- Escape de JSON-LD contra fechamento prematuro da tag `script`.
+- Datas de publicação de seis fontes conferidas nos metadados das páginas.
+- Reunião no Planalto (04/12/2024) reclassificada de C para D após depoimento oficial de Galípolo à CPI.
