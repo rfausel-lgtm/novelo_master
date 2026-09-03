@@ -1,0 +1,99 @@
+name: Nova relação
+description: Propor uma relação entre duas entidades com proposição concreta e suporte documental.
+title: "[relação] "
+labels: ["data", "relationship", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Uma relação exige proposição concreta com suporte. "Aparecem juntos na reportagem" não é relação. Proximidade não é influência; alegação não é prova. Leia METHODOLOGY.md, seção 5.
+  - type: input
+    id: from
+    attributes:
+      label: Entidade de origem
+      description: Id no corpus (ou nome completo, se ainda não existir).
+    validations:
+      required: true
+  - type: input
+    id: to
+    attributes:
+      label: Entidade de destino
+    validations:
+      required: true
+  - type: dropdown
+    id: relationship_type
+    attributes:
+      label: Tipo de relação
+      options:
+        - personal_social
+        - familial
+        - professional
+        - political
+        - institutional
+        - financial
+        - commercial
+        - corporate (societário)
+        - contractual
+        - shared_event
+        - intermediary (informe via_id abaixo)
+        - communication
+        - investigative_allegation (alegação de autoridade ou veículo)
+    validations:
+      required: true
+  - type: input
+    id: via
+    attributes:
+      label: Intermediário (via_id), se houver
+  - type: input
+    id: label
+    attributes:
+      label: Rótulo curto da aresta
+      placeholder: "Ex.: sócio, advogado de, reunião documentada, nomeado por"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Por que estes nós estão conectados?
+      description: Proposição concreta com data, participantes e referência ao documento. Sem adjetivos, sem imputação.
+    validations:
+      required: true
+  - type: input
+    id: dates
+    attributes:
+      label: Início e fim (se conhecidos)
+      placeholder: "2024-03-12 a 2025-01-31"
+  - type: dropdown
+    id: evidence_class
+    attributes:
+      label: Classe de evidência
+      options:
+        - D (documento primário identificado)
+        - C (duas ou mais fontes independentes)
+        - A (alegação atribuída; informe quem alegou)
+        - I (inferência; informe raciocínio e limites)
+    validations:
+      required: true
+  - type: textarea
+    id: support
+    attributes:
+      label: Suporte
+      description: URLs abertas por você (documento primário, fontes), com data de acesso. Para A, quem alegou e onde. Para I, o raciocínio e o que NÃO se conclui.
+    validations:
+      required: true
+  - type: textarea
+    id: cited_position
+    attributes:
+      label: Posição do citado
+      description: O que as partes disseram sobre esta relação (nota, entrevista, manifestação nos autos), com fonte. Se buscou e não encontrou, descreva onde buscou.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmações
+      options:
+        - label: A relação tem proposição concreta; não decorre apenas de aparição conjunta em reportagem ou evento.
+          required: true
+        - label: A classe proposta não supera o que o suporte demonstra (na dúvida, escolhi a inferior).
+          required: true
+        - label: Abri todas as URLs informadas.
+          required: true

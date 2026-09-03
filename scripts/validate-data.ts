@@ -2,7 +2,7 @@
  * Valida /data sem gerar artefatos.
  *
  * Uso: npm run data:validate            → erros bloqueiam, avisos informam
- *      npm run data:lint (--strict)     → avisos também bloqueiam (CI de dados)
+ *      npm run data:lint (--strict)     → avisos em registros publicados também bloqueiam
  *      ... --include-drafts             → valida rascunhos também
  */
 import path from "node:path";
@@ -21,8 +21,9 @@ printIssues(issues);
 
 const errors = issues.filter((i) => i.level === "error").length;
 const warnings = issues.filter((i) => i.level === "warning").length;
+const blockingWarnings = issues.filter((i) => i.level === "warning" && i.published !== false).length;
 
-if (errors > 0 || (strict && warnings > 0)) {
+if (errors > 0 || (strict && blockingWarnings > 0)) {
   console.error(`\n✖ ${errors} erro(s), ${warnings} aviso(s)${strict ? " (modo estrito)" : ""}.`);
   process.exit(1);
 }

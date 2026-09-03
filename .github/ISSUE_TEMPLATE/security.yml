@@ -1,0 +1,54 @@
+name: Segurança (sem detalhes sensíveis)
+description: Use SOMENTE se GitHub Security Advisories não estiver disponível. Não descreva a vulnerabilidade nem inclua dados pessoais aqui.
+title: "[segurança] pedido de contato"
+labels: ["security", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        PARE. Esta issue é pública. Não descreva a vulnerabilidade, não inclua prova de conceito, não inclua URLs internas, tokens, nem dados pessoais (seus ou de terceiros).
+
+        O canal correto é GitHub Security Advisories: aba Security do repositório, "Report a vulnerability". Use esta issue apenas se aquele canal falhar, e apenas para pedir contato. Os mantenedores responderão indicando um canal privado. Ver SECURITY.md.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Categoria (sem detalhes)
+      options:
+        - Vulnerabilidade no site publicado
+        - Vulnerabilidade no pipeline ou nos scripts
+        - Segredo ou credencial exposta no repositório
+        - Dado pessoal indevido publicado
+        - Dependência com vulnerabilidade conhecida
+        - Configuração do repositório ou da CI
+        - Outro
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Gravidade estimada
+      options:
+        - Crítica
+        - Alta
+        - Média
+        - Baixa
+        - Não sei
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Por que não usou Security Advisories?
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmações
+      options:
+        - label: Não descrevi a vulnerabilidade nem incluí dados exploráveis nesta issue.
+          required: true
+        - label: Não incluí dados pessoais (meus ou de terceiros).
+          required: true
+        - label: Aguardarei o contato dos mantenedores por canal privado antes de divulgar qualquer detalhe.
+          required: true

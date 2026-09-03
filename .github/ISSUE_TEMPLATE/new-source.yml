@@ -1,0 +1,114 @@
+name: Nova fonte
+description: Propor uma fonte (documento oficial, decisão, registro, reportagem) para inclusão no corpus.
+title: "[fonte] "
+labels: ["data", "source", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Registre apenas fontes que você abriu e leu por inteiro. Não proponha URL copiada de citação, de rodapé ou de ferramenta de IA sem conferir. Leia OSINT_GUIDELINES.md antes de preencher. Não inclua dados pessoais vedados (telefone, endereço residencial, CPF, dados de saúde, dados de menores).
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: A URL exata que você abriu, sem parâmetros de rastreamento.
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: archive_url
+    attributes:
+      label: URL arquivada (Wayback Machine)
+      description: Cópia em https://web.archive.org, se existir. Se não existir, crie uma com "Save Page Now" e cole aqui.
+      placeholder: https://web.archive.org/web/
+  - type: input
+    id: title
+    attributes:
+      label: Título exato da fonte
+    validations:
+      required: true
+  - type: input
+    id: publisher
+    attributes:
+      label: Publisher (órgão ou veículo)
+      placeholder: "Ex.: Supremo Tribunal Federal, Agência Brasil, Folha de S.Paulo"
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Autor (repórter, relator, órgão autor)
+  - type: input
+    id: publication_date
+    attributes:
+      label: Data de publicação
+      description: Formato YYYY-MM-DD (ou YYYY-MM, YYYY se não souber o dia). Não confundir com a data do fato.
+      placeholder: "2024-03-22"
+    validations:
+      required: true
+  - type: input
+    id: retrieved_at
+    attributes:
+      label: Data em que você abriu a fonte
+      placeholder: "2026-09-03"
+    validations:
+      required: true
+  - type: dropdown
+    id: source_type
+    attributes:
+      label: Tipo de fonte (source_type)
+      options:
+        - official_court (tribunal)
+        - official_police (Polícia Federal)
+        - official_prosecutor (MPF, PGR, MP)
+        - official_legislative (Câmara, Senado)
+        - official_regulator (Banco Central, CVM, TCU, CGU)
+        - official_gazette (Diário Oficial)
+        - official_government (Planalto, ministérios, governos)
+        - corporate_registry (junta comercial, Receita, cartório)
+        - official_other
+        - press (imprensa)
+        - wire (agência de notícias)
+        - academic
+        - encyclopedic (pista apenas)
+        - self_published (publicação da própria pessoa ou organização)
+        - social_media (pista apenas)
+        - blog (pista apenas)
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: O que a fonte diz
+      description: Uma ou duas frases, sem interpretação. Se a fonte cita um documento (decisão, relatório, contrato), diga qual e se você localizou o documento.
+    validations:
+      required: true
+  - type: textarea
+    id: propositions
+    attributes:
+      label: Proposições que a fonte sustenta e classe sugerida
+      description: Uma por linha, com a classe (D, C, A ou I). Para A, informe quem afirmou. Lembre-se de que "X afirmou que Y fez Z" é diferente de "Y fez Z".
+      placeholder: |
+        A - Segundo a reportagem, o procurador afirmou que a reunião ocorreu em 12/03/2024.
+        D - A alteração contratual de 12/03/2024 registra o ingresso de ... (documento localizado em ...)
+    validations:
+      required: true
+  - type: textarea
+    id: entities
+    attributes:
+      label: Pessoas e organizações mencionadas
+      description: Nomes como aparecem na fonte. Indique se já existem no corpus (id) e se há risco de homônimo.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmações
+      options:
+        - label: Abri e li a fonte por inteiro (não só a manchete).
+          required: true
+        - label: A URL não veio de citação indireta nem de sugestão de ferramenta de IA sem conferência.
+          required: true
+        - label: Distingui a data de publicação da data do fato.
+          required: true
+        - label: Não incluí dados pessoais vedados pela política editorial.
+          required: true

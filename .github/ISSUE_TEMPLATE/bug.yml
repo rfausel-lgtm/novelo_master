@@ -1,0 +1,56 @@
+name: Bug
+description: Problema no site, no grafo, no pipeline de dados ou nos scripts.
+title: "[bug] "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Para erro em dado publicado, use "Correção de dado". Para vulnerabilidade, use GitHub Security Advisories (SECURITY.md). Não cole tokens, chaves, arquivos .env nem dados pessoais.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Área
+      options:
+        - Grafo (Sigma, filtros, layout)
+        - Máquina do tempo
+        - Páginas de entidade, evento ou ato
+        - Busca
+        - Pipeline de dados (data:validate, data:lint, data:build)
+        - Lint editorial (regra com falso positivo ou falso negativo)
+        - Build / deploy
+        - Acessibilidade
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passos para reproduzir
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamento esperado
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Comportamento observado
+      description: Mensagens de erro, saída do console, capturas de tela (sem dados pessoais).
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Ambiente
+      placeholder: "Navegador e versão, SO, versão do Node, commit"
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmações
+      options:
+        - label: Não incluí segredos, tokens, arquivos .env nem dados pessoais.
+          required: true

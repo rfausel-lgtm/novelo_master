@@ -102,12 +102,12 @@ Uma relação não pode reivindicar classe superior à melhor evidência ligada 
 
 O campo `source_type` classifica cada fonte. Os tipos abaixo, com prefixo `official_` ou `corporate_registry`, compõem o conjunto de fontes primárias oficiais usado no modo "somente fontes oficiais".
 
-| Nível | Tipos | Exemplos |
-|---|---|---|
-| Primárias oficiais | `official_court`, `official_police`, `official_prosecutor`, `official_legislative`, `official_regulator`, `official_gazette`, `official_government`, `corporate_registry`, `official_other` | STF, STJ, TRFs, Justiça Federal, Polícia Federal, PGR e MPF, Câmara, Senado, Banco Central, CVM, TCU, CGU, Diário Oficial da União, juntas comerciais, Receita Federal (CNPJ), cartórios, atos administrativos, contratos autênticos juntados a processo |
-| Secundárias reconhecidas | `press`, `wire`, `academic` | Veículos jornalísticos com apuração própria e política de correção pública; agências (Agência Brasil, Agência Câmara, Agência Senado, Reuters, AFP); trabalhos acadêmicos revisados |
-| Pista | `encyclopedic`, `blog`, `social_media`, `other` | Wikipedia, blogs, redes sociais. Servem para localizar documentos; não sustentam sozinhas nenhuma classe acima de A, e o lint emite aviso para `blog` e `social_media` |
-| Publicação própria | `self_published` | Site, rede social ou nota da própria pessoa ou organização citada. Vale como fonte do que a pessoa disse (classe A com `attributed_to` igual ao autor) e para `cited_position` |
+| Nível                    | Tipos                                                                                                                                                                                       | Exemplos                                                                                                                                                                                                                                                 |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Primárias oficiais       | `official_court`, `official_police`, `official_prosecutor`, `official_legislative`, `official_regulator`, `official_gazette`, `official_government`, `corporate_registry`, `official_other` | STF, STJ, TRFs, Justiça Federal, Polícia Federal, PGR e MPF, Câmara, Senado, Banco Central, CVM, TCU, CGU, Diário Oficial da União, juntas comerciais, Receita Federal (CNPJ), cartórios, atos administrativos, contratos autênticos juntados a processo |
+| Secundárias reconhecidas | `press`, `wire`, `academic`                                                                                                                                                                 | Veículos jornalísticos com apuração própria e política de correção pública; agências (Agência Brasil, Agência Câmara, Agência Senado, Reuters, AFP); trabalhos acadêmicos revisados                                                                      |
+| Pista                    | `encyclopedic`, `blog`, `social_media`, `other`                                                                                                                                             | Wikipedia, blogs, redes sociais. Servem para localizar documentos; não sustentam sozinhas nenhuma classe acima de A, e o lint emite aviso para `blog` e `social_media`                                                                                   |
+| Publicação própria       | `self_published`                                                                                                                                                                            | Site, rede social ou nota da própria pessoa ou organização citada. Vale como fonte do que a pessoa disse (classe A com `attributed_to` igual ao autor) e para `cited_position`                                                                           |
 
 Regras:
 
@@ -131,11 +131,11 @@ Quando a relação passa por terceiro, usa-se `via_id` e o tipo `intermediary`. 
 
 ## 6. Fato, alegação e inferência
 
-| | O que é | Como se registra | Frase-modelo |
-|---|---|---|---|
-| Fato | Proposição demonstrada por documento (D) ou corroborada (C) | Evidência D ou C; status pode ser `verified` | "O contrato foi assinado em 12/03/2024 (doc. X, p. 4)." |
-| Alegação | Afirmação atribuída a alguém, não demonstrada por documento | Evidência A com `attributed_to`; status `unverified` ou `disputed` | "Segundo a denúncia da PGR, ..." / "O jornal Y afirmou, citando fontes não identificadas, que ..." |
-| Inferência | Conclusão analítica sobre fatos documentados | Evidência I com `inference_basis` e limites | "O intervalo de 9 dias entre a reunião e o ato é documentado; o nexo entre ambos não." |
+|            | O que é                                                     | Como se registra                                                   | Frase-modelo                                                                                       |
+| ---------- | ----------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| Fato       | Proposição demonstrada por documento (D) ou corroborada (C) | Evidência D ou C; status pode ser `verified`                       | "O contrato foi assinado em 12/03/2024 (doc. X, p. 4)."                                            |
+| Alegação   | Afirmação atribuída a alguém, não demonstrada por documento | Evidência A com `attributed_to`; status `unverified` ou `disputed` | "Segundo a denúncia da PGR, ..." / "O jornal Y afirmou, citando fontes não identificadas, que ..." |
+| Inferência | Conclusão analítica sobre fatos documentados                | Evidência I com `inference_basis` e limites                        | "O intervalo de 9 dias entre a reunião e o ato é documentado; o nexo entre ambos não."             |
 
 A distinção vale também na hora de extrair de reportagem: a reportagem é fonte de que a alegação foi feita; o documento que ela cita é a fonte do fato. Se o documento não foi localizado, o registro fica em A ou C, nunca em D.
 

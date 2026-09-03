@@ -8,321 +8,322 @@ Documentação legível dos schemas Zod em `src/lib/schema/` (`common.ts`, `enti
 - Ids são globais: o mesmo id não pode existir em duas coleções.
 - Só registros com `review_status: published` entram no build público. `draft` e `in_review` são ignorados (com aviso) salvo `--include-drafts`; `retracted` é sempre ignorado, em silêncio.
 - Campos com valor padrão (`default`) podem ser omitidos no YAML.
+- Valores que o YAML converteria em número ou booleano devem ir entre aspas quando o campo é string: `sha256` composto só de dígitos, `reference` numérico (`"2024"`), `cnpj` (o formato com pontos e barra já é lido como string), `true`/`false` em texto livre. O carregador usa o schema core do YAML 1.2, então datas `YYYY-MM-DD` sem aspas são lidas como string.
 
 ## Tipos comuns (`common.ts`)
 
-| Tipo | Regra |
-|---|---|
-| Id | kebab-case ASCII: `^[a-z0-9]+(?:-[a-z0-9]+)*$` |
-| PartialDate | `YYYY`, `YYYY-MM` ou `YYYY-MM-DD` |
-| DatePrecision | `day`, `month`, `year`, `approximate` |
+| Tipo          | Regra                                                                        |
+| ------------- | ---------------------------------------------------------------------------- |
+| Id            | kebab-case ASCII: `^[a-z0-9]+(?:-[a-z0-9]+)*$`                               |
+| PartialDate   | `YYYY`, `YYYY-MM` ou `YYYY-MM-DD`                                            |
+| DatePrecision | `day`, `month`, `year`, `approximate`                                        |
 | EvidenceClass | `D` (documental direto), `C` (corroborado), `A` (alegação), `I` (inferência) |
-| FactStatus | `verified`, `disputed`, `unverified`, `refuted` |
-| ReviewStatus | `draft`, `in_review`, `published`, `retracted` |
-| Confidence | número entre 0 e 1 |
-| URL | string com URL válida (`z.string().url()`) |
+| FactStatus    | `verified`, `disputed`, `unverified`, `refuted`                              |
+| ReviewStatus  | `draft`, `in_review`, `published`, `retracted`                               |
+| Confidence    | número entre 0 e 1                                                           |
+| URL           | string com URL válida (`z.string().url()`)                                   |
 
 ### ReviewTrail (mesclado em todos os registros, exceto `Revision`)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| review_status | ReviewStatus | não (padrão `draft`) | Estado no fluxo editorial |
-| reviewer | string | não | Quem concluiu a revisão |
-| reviewed_at | PartialDate | não | Data da revisão |
-| created_at | PartialDate | sim | Data de criação do registro |
-| updated_at | PartialDate | sim | Data da última alteração |
+| Campo         | Tipo         | Obrigatório          | Descrição                   |
+| ------------- | ------------ | -------------------- | --------------------------- |
+| review_status | ReviewStatus | não (padrão `draft`) | Estado no fluxo editorial   |
+| reviewer      | string       | não                  | Quem concluiu a revisão     |
+| reviewed_at   | PartialDate  | não                  | Data da revisão             |
+| created_at    | PartialDate  | sim                  | Data de criação do registro |
+| updated_at    | PartialDate  | sim                  | Data da última alteração    |
 
 ### CitedPosition (posição do citado)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| date | PartialDate | não | Data da manifestação |
-| by_id | Id | não | Entidade que se manifestou |
-| by | string | não | Nome de quem se manifestou, quando não há registro |
-| kind | enum | sim | `denial`, `clarification`, `public_note`, `version`, `alternative_explanation`, `no_response`, `not_located` |
-| summary | string | sim | Resumo da posição, ou descrição da busca/tentativa de contato |
-| source_ids | Id[] | não (padrão `[]`) | Fontes da manifestação |
+| Campo      | Tipo        | Obrigatório       | Descrição                                                                                                    |
+| ---------- | ----------- | ----------------- | ------------------------------------------------------------------------------------------------------------ |
+| date       | PartialDate | não               | Data da manifestação                                                                                         |
+| by_id      | Id          | não               | Entidade que se manifestou                                                                                   |
+| by         | string      | não               | Nome de quem se manifestou, quando não há registro                                                           |
+| kind       | enum        | sim               | `denial`, `clarification`, `public_note`, `version`, `alternative_explanation`, `no_response`, `not_located` |
+| summary    | string      | sim               | Resumo da posição, ou descrição da busca/tentativa de contato                                                |
+| source_ids | Id[]        | não (padrão `[]`) | Fontes da manifestação                                                                                       |
 
 ### Photo
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| path | string | sim | Caminho do arquivo no repositório |
-| source | string | sim | Origem (órgão, Wikimedia Commons, site institucional) |
-| author | string | sim | Autor ou crédito |
-| license | string | sim | Licença (por exemplo `CC BY 4.0`, `domínio público`) |
-| original_url | URL | sim | URL original da imagem |
-| retrieved_at | PartialDate | sim | Data da obtenção |
-| alt | string | sim | Texto alternativo |
+| Campo        | Tipo        | Obrigatório | Descrição                                             |
+| ------------ | ----------- | ----------- | ----------------------------------------------------- |
+| path         | string      | sim         | Caminho do arquivo no repositório                     |
+| source       | string      | sim         | Origem (órgão, Wikimedia Commons, site institucional) |
+| author       | string      | sim         | Autor ou crédito                                      |
+| license      | string      | sim         | Licença (por exemplo `CC BY 4.0`, `domínio público`)  |
+| original_url | URL         | sim         | URL original da imagem                                |
+| retrieved_at | PartialDate | sim         | Data da obtenção                                      |
+| alt          | string      | sim         | Texto alternativo                                     |
 
 ## Coleções
 
 ### `sources` (Source)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| id | Id | sim | Convenção `src-<publisher>-YYYY-MM-DD-slug` |
-| kind | `source` | sim | Literal |
-| title | string | sim | Título exato |
-| publisher | string | sim | Órgão ou veículo |
-| author | string | não | Autor |
-| publication_date | PartialDate | não | Data de publicação da fonte |
-| retrieved_at | PartialDate | sim | Data em que a fonte foi aberta |
-| url | URL | sim | URL aberta |
-| archive_url | URL | não | Cópia arquivada (Wayback Machine) |
-| source_type | SourceType | sim | Ver enum abaixo |
-| language | string | não (padrão `pt-BR`) | Idioma |
-| summary | string | não | O que a fonte diz |
-| notes | string | não | Restrições, republicação, observações |
-| verification | objeto | não | `checked_at` (PartialDate), `checked_by` (string), `url_reachable` (bool), `content_matches_summary` (bool), `notes` (string, opcional). Preenchido pelo Source Verifier |
+| Campo            | Tipo        | Obrigatório          | Descrição                                                                                                                                                                |
+| ---------------- | ----------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| id               | Id          | sim                  | Convenção `src-<publisher>-YYYY-MM-DD-slug`                                                                                                                              |
+| kind             | `source`    | sim                  | Literal                                                                                                                                                                  |
+| title            | string      | sim                  | Título exato                                                                                                                                                             |
+| publisher        | string      | sim                  | Órgão ou veículo                                                                                                                                                         |
+| author           | string      | não                  | Autor                                                                                                                                                                    |
+| publication_date | PartialDate | não                  | Data de publicação da fonte                                                                                                                                              |
+| retrieved_at     | PartialDate | sim                  | Data em que a fonte foi aberta                                                                                                                                           |
+| url              | URL         | sim                  | URL aberta                                                                                                                                                               |
+| archive_url      | URL         | não                  | Cópia arquivada (Wayback Machine)                                                                                                                                        |
+| source_type      | SourceType  | sim                  | Ver enum abaixo                                                                                                                                                          |
+| language         | string      | não (padrão `pt-BR`) | Idioma                                                                                                                                                                   |
+| summary          | string      | não                  | O que a fonte diz                                                                                                                                                        |
+| notes            | string      | não                  | Restrições, republicação, observações                                                                                                                                    |
+| verification     | objeto      | não                  | `checked_at` (PartialDate), `checked_by` (string), `url_reachable` (bool), `content_matches_summary` (bool), `notes` (string, opcional). Preenchido pelo Source Verifier |
 
 SourceType: `official_court`, `official_police`, `official_prosecutor`, `official_legislative`, `official_regulator`, `official_gazette`, `official_government`, `corporate_registry`, `official_other`, `press`, `wire`, `academic`, `encyclopedic`, `self_published`, `social_media`, `blog`, `other`. Os nove primeiros compõem `OFFICIAL_SOURCE_TYPES` (modo "somente fontes oficiais").
 
 ### `documents` (Document)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| id | Id | sim | Convenção `doc-YYYY-MM-DD-slug` |
-| kind | `document` | sim | Literal |
-| title | string | sim | Título |
-| doc_type | DocumentType | sim | Ver enum abaixo |
-| date | PartialDate | não | Data do documento |
-| date_precision | DatePrecision | não | Precisão da data |
-| issuer_id | Id | não | Emissor, quando existe como entidade (pessoa ou organização) |
-| issuer | string | não | Emissor em texto livre |
-| reference | string | não | Número de processo, protocolo, ofício |
-| url | URL | não | URL do documento |
-| source_ids | Id[] | não (padrão `[]`) | Fontes pelas quais o documento foi obtido |
-| raw_path | string | não | Caminho relativo em `raw/` |
-| sha256 | string | não | Hash SHA-256 do arquivo (64 hex) |
-| summary | string | sim | O que o documento contém |
-| excerpt | string | não | Trecho literal curto |
-| is_official | boolean | não (padrão `false`) | Emitido por órgão oficial |
-| related_entity_ids | Id[] | não (padrão `[]`) | Pessoas e organizações mencionadas |
-| tags | string[] | não (padrão `[]`) | Etiquetas |
+| Campo              | Tipo          | Obrigatório          | Descrição                                                    |
+| ------------------ | ------------- | -------------------- | ------------------------------------------------------------ |
+| id                 | Id            | sim                  | Convenção `doc-YYYY-MM-DD-slug`                              |
+| kind               | `document`    | sim                  | Literal                                                      |
+| title              | string        | sim                  | Título                                                       |
+| doc_type           | DocumentType  | sim                  | Ver enum abaixo                                              |
+| date               | PartialDate   | não                  | Data do documento                                            |
+| date_precision     | DatePrecision | não                  | Precisão da data                                             |
+| issuer_id          | Id            | não                  | Emissor, quando existe como entidade (pessoa ou organização) |
+| issuer             | string        | não                  | Emissor em texto livre                                       |
+| reference          | string        | não                  | Número de processo, protocolo, ofício                        |
+| url                | URL           | não                  | URL do documento                                             |
+| source_ids         | Id[]          | não (padrão `[]`)    | Fontes pelas quais o documento foi obtido                    |
+| raw_path           | string        | não                  | Caminho relativo em `raw/`                                   |
+| sha256             | string        | não                  | Hash SHA-256 do arquivo (64 hex)                             |
+| summary            | string        | sim                  | O que o documento contém                                     |
+| excerpt            | string        | não                  | Trecho literal curto                                         |
+| is_official        | boolean       | não (padrão `false`) | Emitido por órgão oficial                                    |
+| related_entity_ids | Id[]          | não (padrão `[]`)    | Pessoas e organizações mencionadas                           |
+| tags               | string[]      | não (padrão `[]`)    | Etiquetas                                                    |
 
 DocumentType: `judicial_decision`, `judicial_filing`, `official_report`, `forensic_extract`, `contract`, `corporate_record`, `gazette_entry`, `legislative_act`, `administrative_act`, `regulatory_record`, `letter`, `public_statement`, `testimony`, `press_article`, `other`.
 
 ### `evidence` (Evidence)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| id | Id | sim | Convenção `ev-<slug>` |
-| kind | `evidence` | sim | Literal |
-| classification | EvidenceClass | sim | D, C, A ou I |
-| proposition | string | sim | A proposição sustentada, em uma frase |
-| document_ids | Id[] | não (padrão `[]`) | Documentos que sustentam |
-| source_ids | Id[] | não (padrão `[]`) | Fontes que sustentam |
-| excerpt | string | não | Trecho literal curto |
-| locator | string | não | Página, parágrafo, item |
-| attributed_to_id | Id | não | Quem alegou (classe A), quando é entidade registrada |
-| attributed_to | string | não | Quem alegou (classe A), texto livre |
-| inference_basis | string | não | Raciocínio e limites (classe I) |
-| date | PartialDate | não | Data da proposição |
-| notes | string | não | Observações |
+| Campo            | Tipo          | Obrigatório       | Descrição                                            |
+| ---------------- | ------------- | ----------------- | ---------------------------------------------------- |
+| id               | Id            | sim               | Convenção `ev-<slug>`                                |
+| kind             | `evidence`    | sim               | Literal                                              |
+| classification   | EvidenceClass | sim               | D, C, A ou I                                         |
+| proposition      | string        | sim               | A proposição sustentada, em uma frase                |
+| document_ids     | Id[]          | não (padrão `[]`) | Documentos que sustentam                             |
+| source_ids       | Id[]          | não (padrão `[]`) | Fontes que sustentam                                 |
+| excerpt          | string        | não               | Trecho literal curto                                 |
+| locator          | string        | não               | Página, parágrafo, item                              |
+| attributed_to_id | Id            | não               | Quem alegou (classe A), quando é entidade registrada |
+| attributed_to    | string        | não               | Quem alegou (classe A), texto livre                  |
+| inference_basis  | string        | não               | Raciocínio e limites (classe I)                      |
+| date             | PartialDate   | não               | Data da proposição                                   |
+| notes            | string        | não               | Observações                                          |
 
 ### `people` (Person)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| id | Id | sim | Nome completo em kebab |
-| kind | `person` | sim | Literal |
-| name | string | sim | Nome usual |
-| full_name | string | não | Nome completo |
-| aliases | string[] | não (padrão `[]`) | Outras grafias e apelidos públicos |
-| category | PersonCategory | sim | Ver enum abaixo |
-| role | string | sim | Cargo ou função principal no período relevante |
-| positions | Position[] | não (padrão `[]`) | `title` (obrigatório), `organization_id`, `organization`, `start_date`, `end_date`, `source_ids` |
-| summary | string | sim | Resumo factual |
-| why_in_novelo | string | sim | Uma frase factual e neutra |
-| photo | Photo | não | Foto com metadados completos |
-| cited_position | CitedPosition[] | não (padrão `[]`) | Contraditório |
-| open_questions | string[] | não (padrão `[]`) | Lacunas |
-| tags | string[] | não (padrão `[]`) | Etiquetas |
-| source_ids | Id[] | não (padrão `[]`) | Fontes do registro |
-| external_ids | objeto | não | `wikidata` (string), `wikipedia_pt` (URL) |
+| Campo          | Tipo            | Obrigatório       | Descrição                                                                                        |
+| -------------- | --------------- | ----------------- | ------------------------------------------------------------------------------------------------ |
+| id             | Id              | sim               | Nome completo em kebab                                                                           |
+| kind           | `person`        | sim               | Literal                                                                                          |
+| name           | string          | sim               | Nome usual                                                                                       |
+| full_name      | string          | não               | Nome completo                                                                                    |
+| aliases        | string[]        | não (padrão `[]`) | Outras grafias e apelidos públicos                                                               |
+| category       | PersonCategory  | sim               | Ver enum abaixo                                                                                  |
+| role           | string          | sim               | Cargo ou função principal no período relevante                                                   |
+| positions      | Position[]      | não (padrão `[]`) | `title` (obrigatório), `organization_id`, `organization`, `start_date`, `end_date`, `source_ids` |
+| summary        | string          | sim               | Resumo factual                                                                                   |
+| why_in_novelo  | string          | sim               | Uma frase factual e neutra                                                                       |
+| photo          | Photo           | não               | Foto com metadados completos                                                                     |
+| cited_position | CitedPosition[] | não (padrão `[]`) | Contraditório                                                                                    |
+| open_questions | string[]        | não (padrão `[]`) | Lacunas                                                                                          |
+| tags           | string[]        | não (padrão `[]`) | Etiquetas                                                                                        |
+| source_ids     | Id[]            | não (padrão `[]`) | Fontes do registro                                                                               |
+| external_ids   | objeto          | não               | `wikidata` (string), `wikipedia_pt` (URL)                                                        |
 
 PersonCategory: `banker`, `businessperson`, `politician`, `judge`, `prosecutor`, `police`, `lawyer`, `public_official`, `executive`, `journalist`, `family`, `other`.
 
 ### `organizations` (Organization)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| id | Id | sim | Nome em kebab |
-| kind | `organization` | sim | Literal |
-| name | string | sim | Nome usual |
-| full_name | string | não | Razão social ou nome completo |
-| aliases | string[] | não (padrão `[]`) | Outras denominações |
-| org_type | OrgType | sim | Ver enum abaixo |
-| cnpj | string | não | Formato `00.000.000/0000-00` |
-| jurisdiction | string | não | Estado, país, foro |
-| summary | string | sim | Resumo factual |
-| why_in_novelo | string | sim | Uma frase factual e neutra |
-| photo | Photo | não | Logotipo ou imagem com metadados |
-| cited_position | CitedPosition[] | não (padrão `[]`) | Contraditório |
-| open_questions | string[] | não (padrão `[]`) | Lacunas |
-| tags | string[] | não (padrão `[]`) | Etiquetas |
-| source_ids | Id[] | não (padrão `[]`) | Fontes do registro |
-| external_ids | objeto | não | `wikidata`, `wikipedia_pt` |
+| Campo          | Tipo            | Obrigatório       | Descrição                        |
+| -------------- | --------------- | ----------------- | -------------------------------- |
+| id             | Id              | sim               | Nome em kebab                    |
+| kind           | `organization`  | sim               | Literal                          |
+| name           | string          | sim               | Nome usual                       |
+| full_name      | string          | não               | Razão social ou nome completo    |
+| aliases        | string[]        | não (padrão `[]`) | Outras denominações              |
+| org_type       | OrgType         | sim               | Ver enum abaixo                  |
+| cnpj           | string          | não               | Formato `00.000.000/0000-00`     |
+| jurisdiction   | string          | não               | Estado, país, foro               |
+| summary        | string          | sim               | Resumo factual                   |
+| why_in_novelo  | string          | sim               | Uma frase factual e neutra       |
+| photo          | Photo           | não               | Logotipo ou imagem com metadados |
+| cited_position | CitedPosition[] | não (padrão `[]`) | Contraditório                    |
+| open_questions | string[]        | não (padrão `[]`) | Lacunas                          |
+| tags           | string[]        | não (padrão `[]`) | Etiquetas                        |
+| source_ids     | Id[]            | não (padrão `[]`) | Fontes do registro               |
+| external_ids   | objeto          | não               | `wikidata`, `wikipedia_pt`       |
 
 OrgType: `company`, `financial_institution`, `public_body`, `court`, `party`, `fund`, `law_firm`, `media`, `association`, `other`. Empresas e órgãos públicos são subtipos de Organization ([ADR-0003](docs/adr/0003-modelo-de-evidencia.md)). No grafo, `company`, `fund` e `law_firm` são exibidos como "Empresa"; `public_body` e `court`, como "Órgão público".
 
 ### `events` (Event)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| id | Id | sim | Convenção `evt-YYYY-MM-DD-slug` |
-| kind | `event` | sim | Literal |
-| title | string | sim | Título |
-| event_type | EventType | sim | Ver enum abaixo |
-| date | PartialDate | sim | Data do fato |
-| date_precision | DatePrecision | não (padrão `day`) | Precisão |
-| end_date | PartialDate | não | Data final |
-| location | string | não | Local |
-| participant_ids | Id[] | não (padrão `[]`) | Pessoas e organizações participantes |
-| description | string | sim | Descrição factual |
-| evidence_class | EvidenceClass | sim | Classe |
-| status | FactStatus | não (padrão `unverified`) | Status |
-| evidence_ids | Id[] | não (padrão `[]`) | Evidências |
-| source_ids | Id[] | não (padrão `[]`) | Fontes |
-| document_ids | Id[] | não (padrão `[]`) | Documentos |
-| public_act_ids | Id[] | não (padrão `[]`) | Atos públicos relacionados |
-| cited_position | CitedPosition[] | não (padrão `[]`) | Contraditório sobre o evento |
-| tags | string[] | não (padrão `[]`) | Etiquetas |
+| Campo           | Tipo            | Obrigatório               | Descrição                            |
+| --------------- | --------------- | ------------------------- | ------------------------------------ |
+| id              | Id              | sim                       | Convenção `evt-YYYY-MM-DD-slug`      |
+| kind            | `event`         | sim                       | Literal                              |
+| title           | string          | sim                       | Título                               |
+| event_type      | EventType       | sim                       | Ver enum abaixo                      |
+| date            | PartialDate     | sim                       | Data do fato                         |
+| date_precision  | DatePrecision   | não (padrão `day`)        | Precisão                             |
+| end_date        | PartialDate     | não                       | Data final                           |
+| location        | string          | não                       | Local                                |
+| participant_ids | Id[]            | não (padrão `[]`)         | Pessoas e organizações participantes |
+| description     | string          | sim                       | Descrição factual                    |
+| evidence_class  | EvidenceClass   | sim                       | Classe                               |
+| status          | FactStatus      | não (padrão `unverified`) | Status                               |
+| evidence_ids    | Id[]            | não (padrão `[]`)         | Evidências                           |
+| source_ids      | Id[]            | não (padrão `[]`)         | Fontes                               |
+| document_ids    | Id[]            | não (padrão `[]`)         | Documentos                           |
+| public_act_ids  | Id[]            | não (padrão `[]`)         | Atos públicos relacionados           |
+| cited_position  | CitedPosition[] | não (padrão `[]`)         | Contraditório sobre o evento         |
+| tags            | string[]        | não (padrão `[]`)         | Etiquetas                            |
 
 EventType: `meeting`, `communication`, `travel`, `payment`, `transaction`, `corporate_act`, `public_act`, `judicial_decision`, `investigation_step`, `regulatory_act`, `publication`, `statement`, `appointment`, `social_event`, `other`.
 
 ### `public-acts` (PublicAct)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| id | Id | sim | Convenção `ato-YYYY-MM-DD-slug` |
-| kind | `public_act` | sim | Literal |
-| title | string | sim | Título |
-| act_type | PublicActType | sim | `legislative`, `judicial`, `administrative`, `regulatory`, `executive` |
-| date | PartialDate | sim | Data do ato |
-| date_precision | DatePrecision | não (padrão `day`) | Precisão |
-| issuer_id | Id | não | Órgão ou pessoa emissora (entidade) |
-| issuer | string | não | Emissor em texto livre |
-| actor_ids | Id[] | não (padrão `[]`) | Quem praticou, assinou ou relatou |
-| affected_ids | Id[] | não (padrão `[]`) | Entidades afetadas segundo os documentos |
-| description | string | sim | Descrição factual |
-| reference | string | não | Número, protocolo |
-| url | URL | não | URL do ato |
-| evidence_class | EvidenceClass | sim | Classe |
-| status | FactStatus | não (padrão `unverified`) | Status |
-| evidence_ids | Id[] | não (padrão `[]`) | Evidências |
-| source_ids | Id[] | não (padrão `[]`) | Fontes |
-| document_ids | Id[] | não (padrão `[]`) | Documentos |
-| tags | string[] | não (padrão `[]`) | Etiquetas |
+| Campo          | Tipo          | Obrigatório               | Descrição                                                              |
+| -------------- | ------------- | ------------------------- | ---------------------------------------------------------------------- |
+| id             | Id            | sim                       | Convenção `ato-YYYY-MM-DD-slug`                                        |
+| kind           | `public_act`  | sim                       | Literal                                                                |
+| title          | string        | sim                       | Título                                                                 |
+| act_type       | PublicActType | sim                       | `legislative`, `judicial`, `administrative`, `regulatory`, `executive` |
+| date           | PartialDate   | sim                       | Data do ato                                                            |
+| date_precision | DatePrecision | não (padrão `day`)        | Precisão                                                               |
+| issuer_id      | Id            | não                       | Órgão ou pessoa emissora (entidade)                                    |
+| issuer         | string        | não                       | Emissor em texto livre                                                 |
+| actor_ids      | Id[]          | não (padrão `[]`)         | Quem praticou, assinou ou relatou                                      |
+| affected_ids   | Id[]          | não (padrão `[]`)         | Entidades afetadas segundo os documentos                               |
+| description    | string        | sim                       | Descrição factual                                                      |
+| reference      | string        | não                       | Número, protocolo                                                      |
+| url            | URL           | não                       | URL do ato                                                             |
+| evidence_class | EvidenceClass | sim                       | Classe                                                                 |
+| status         | FactStatus    | não (padrão `unverified`) | Status                                                                 |
+| evidence_ids   | Id[]          | não (padrão `[]`)         | Evidências                                                             |
+| source_ids     | Id[]          | não (padrão `[]`)         | Fontes                                                                 |
+| document_ids   | Id[]          | não (padrão `[]`)         | Documentos                                                             |
+| tags           | string[]      | não (padrão `[]`)         | Etiquetas                                                              |
 
 ### `transactions` (Transaction)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| id | Id | sim | Convenção `tx-YYYY-MM-DD-slug` |
-| kind | `transaction` | sim | Literal |
-| title | string | sim | Título |
-| transaction_type | TransactionType | sim | `payment`, `loan`, `acquisition`, `investment`, `donation`, `fee`, `guarantee`, `asset_sale`, `other` |
-| from_id | Id | sim | Origem (pessoa ou organização) |
-| to_id | Id | sim | Destino (pessoa ou organização) |
-| amount | número >= 0 | não | Valor |
-| currency | string | não (padrão `BRL`) | Moeda |
-| amount_text | string | não | Valor em texto, quando aproximado ("cerca de R$ 2 milhões") |
-| date | PartialDate | sim | Data |
-| date_precision | DatePrecision | não (padrão `day`) | Precisão |
-| description | string | sim | Descrição factual |
-| evidence_class | EvidenceClass | sim | Classe |
-| status | FactStatus | não (padrão `unverified`) | Status |
-| evidence_ids, source_ids, document_ids, event_ids | Id[] | não (padrão `[]`) | Suporte e eventos ligados |
-| cited_position | CitedPosition[] | não (padrão `[]`) | Contraditório |
-| tags | string[] | não (padrão `[]`) | Etiquetas |
+| Campo                                             | Tipo            | Obrigatório               | Descrição                                                                                             |
+| ------------------------------------------------- | --------------- | ------------------------- | ----------------------------------------------------------------------------------------------------- |
+| id                                                | Id              | sim                       | Convenção `tx-YYYY-MM-DD-slug`                                                                        |
+| kind                                              | `transaction`   | sim                       | Literal                                                                                               |
+| title                                             | string          | sim                       | Título                                                                                                |
+| transaction_type                                  | TransactionType | sim                       | `payment`, `loan`, `acquisition`, `investment`, `donation`, `fee`, `guarantee`, `asset_sale`, `other` |
+| from_id                                           | Id              | sim                       | Origem (pessoa ou organização)                                                                        |
+| to_id                                             | Id              | sim                       | Destino (pessoa ou organização)                                                                       |
+| amount                                            | número >= 0     | não                       | Valor                                                                                                 |
+| currency                                          | string          | não (padrão `BRL`)        | Moeda                                                                                                 |
+| amount_text                                       | string          | não                       | Valor em texto, quando aproximado ("cerca de R$ 2 milhões")                                           |
+| date                                              | PartialDate     | sim                       | Data                                                                                                  |
+| date_precision                                    | DatePrecision   | não (padrão `day`)        | Precisão                                                                                              |
+| description                                       | string          | sim                       | Descrição factual                                                                                     |
+| evidence_class                                    | EvidenceClass   | sim                       | Classe                                                                                                |
+| status                                            | FactStatus      | não (padrão `unverified`) | Status                                                                                                |
+| evidence_ids, source_ids, document_ids, event_ids | Id[]            | não (padrão `[]`)         | Suporte e eventos ligados                                                                             |
+| cited_position                                    | CitedPosition[] | não (padrão `[]`)         | Contraditório                                                                                         |
+| tags                                              | string[]        | não (padrão `[]`)         | Etiquetas                                                                                             |
 
 No grafo, transações viram arestas dirigidas da família `financial` entre `from_id` e `to_id`.
 
 ### `relationships` (Relationship)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| id | Id | sim | Convenção `rel-<from>-<to>-<tipo>` |
-| kind | `relationship` | sim | Literal |
-| from_id | Id | sim | Entidade de origem |
-| to_id | Id | sim | Entidade de destino |
-| relationship_type | RelationshipType | sim | Ver enum abaixo |
-| directed | boolean | não (padrão `false`) | Relação dirigida |
-| label | string | sim | Rótulo curto da aresta |
-| start_date | PartialDate | não | Início |
-| end_date | PartialDate | não | Fim |
-| via_id | Id | não | Intermediário |
-| description | string | sim | "Por que estes nós estão conectados?" |
-| evidence_class | EvidenceClass | sim | Classe |
-| confidence | 0..1 | sim | Confiança |
-| status | FactStatus | não (padrão `unverified`) | Status |
-| event_ids, evidence_ids, source_ids, document_ids, transaction_ids | Id[] | não (padrão `[]`) | Suporte |
-| cited_position | CitedPosition[] | não (padrão `[]`) | Posição dos envolvidos sobre esta relação |
-| tags | string[] | não (padrão `[]`) | Etiquetas |
+| Campo                                                              | Tipo             | Obrigatório               | Descrição                                 |
+| ------------------------------------------------------------------ | ---------------- | ------------------------- | ----------------------------------------- |
+| id                                                                 | Id               | sim                       | Convenção `rel-<from>-<to>-<tipo>`        |
+| kind                                                               | `relationship`   | sim                       | Literal                                   |
+| from_id                                                            | Id               | sim                       | Entidade de origem                        |
+| to_id                                                              | Id               | sim                       | Entidade de destino                       |
+| relationship_type                                                  | RelationshipType | sim                       | Ver enum abaixo                           |
+| directed                                                           | boolean          | não (padrão `false`)      | Relação dirigida                          |
+| label                                                              | string           | sim                       | Rótulo curto da aresta                    |
+| start_date                                                         | PartialDate      | não                       | Início                                    |
+| end_date                                                           | PartialDate      | não                       | Fim                                       |
+| via_id                                                             | Id               | não                       | Intermediário                             |
+| description                                                        | string           | sim                       | "Por que estes nós estão conectados?"     |
+| evidence_class                                                     | EvidenceClass    | sim                       | Classe                                    |
+| confidence                                                         | 0..1             | sim                       | Confiança                                 |
+| status                                                             | FactStatus       | não (padrão `unverified`) | Status                                    |
+| event_ids, evidence_ids, source_ids, document_ids, transaction_ids | Id[]             | não (padrão `[]`)         | Suporte                                   |
+| cited_position                                                     | CitedPosition[]  | não (padrão `[]`)         | Posição dos envolvidos sobre esta relação |
+| tags                                                               | string[]         | não (padrão `[]`)         | Etiquetas                                 |
 
 RelationshipType e família (a cor da aresta deriva da família):
 
-| Tipo | Família |
-|---|---|
-| personal_social, familial, communication | social |
-| professional, shared_event, intermediary | professional |
-| political | political |
-| institutional | institutional |
-| financial, commercial, contractual | financial |
-| corporate | corporate |
-| investigative_allegation | allegation |
+| Tipo                                     | Família       |
+| ---------------------------------------- | ------------- |
+| personal_social, familial, communication | social        |
+| professional, shared_event, intermediary | professional  |
+| political                                | political     |
+| institutional                            | institutional |
+| financial, commercial, contractual       | financial     |
+| corporate                                | corporate     |
+| investigative_allegation                 | allegation    |
 
 ### `claims` (Claim)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| id | Id | sim | Convenção `claim-<slug>` |
-| kind | `claim` | sim | Literal |
-| statement | string | sim | A proposição sob análise |
-| classification | EvidenceClass | sim | Classe |
-| status | FactStatus | sim | Status (sem padrão) |
-| claimant_id | Id | não | Quem sustenta (entidade) |
-| claimant | string | não | Quem sustenta (texto) |
-| date | PartialDate | não | Data |
-| related_entity_ids | Id[] | não (padrão `[]`) | Entidades envolvidas |
-| event_ids, evidence_ids, source_ids | Id[] | não (padrão `[]`) | Suporte |
-| limits | string | não | O que os documentos não permitem afirmar |
-| counter_position | CitedPosition[] | não (padrão `[]`) | Contraposição |
-| adversarial_review | objeto | não | `reviewed_at`, `reviewer`, `attempted_refutation`, `outcome` (`stands`, `weakened`, `disputed`, `refuted`) |
-| tags | string[] | não (padrão `[]`) | Etiquetas |
+| Campo                               | Tipo            | Obrigatório       | Descrição                                                                                                  |
+| ----------------------------------- | --------------- | ----------------- | ---------------------------------------------------------------------------------------------------------- |
+| id                                  | Id              | sim               | Convenção `claim-<slug>`                                                                                   |
+| kind                                | `claim`         | sim               | Literal                                                                                                    |
+| statement                           | string          | sim               | A proposição sob análise                                                                                   |
+| classification                      | EvidenceClass   | sim               | Classe                                                                                                     |
+| status                              | FactStatus      | sim               | Status (sem padrão)                                                                                        |
+| claimant_id                         | Id              | não               | Quem sustenta (entidade)                                                                                   |
+| claimant                            | string          | não               | Quem sustenta (texto)                                                                                      |
+| date                                | PartialDate     | não               | Data                                                                                                       |
+| related_entity_ids                  | Id[]            | não (padrão `[]`) | Entidades envolvidas                                                                                       |
+| event_ids, evidence_ids, source_ids | Id[]            | não (padrão `[]`) | Suporte                                                                                                    |
+| limits                              | string          | não               | O que os documentos não permitem afirmar                                                                   |
+| counter_position                    | CitedPosition[] | não (padrão `[]`) | Contraposição                                                                                              |
+| adversarial_review                  | objeto          | não               | `reviewed_at`, `reviewer`, `attempted_refutation`, `outcome` (`stands`, `weakened`, `disputed`, `refuted`) |
+| tags                                | string[]        | não (padrão `[]`) | Etiquetas                                                                                                  |
 
 ### `sequences` (TemporalSequence)
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| id | Id | sim | Convenção `seq-<slug>` |
-| kind | `temporal_sequence` | sim | Literal |
-| title | string | sim | Título |
-| step_ids | Id[] (mínimo 2) | sim | Eventos e atos públicos em ordem cronológica |
-| temporal_proximity | enum | sim | `high`, `medium`, `low` |
-| documentary_link | enum | sim | `present`, `absent`, `partial` |
-| causality_proven | boolean | sim | Só `true` com `documentary_link: present` |
-| description | string | sim | Descrição |
-| limits | string | sim | O que não se conclui |
-| source_ids, evidence_ids | Id[] | não (padrão `[]`) | Suporte |
-| tags | string[] | não (padrão `[]`) | Etiquetas |
+| Campo                    | Tipo                | Obrigatório       | Descrição                                    |
+| ------------------------ | ------------------- | ----------------- | -------------------------------------------- |
+| id                       | Id                  | sim               | Convenção `seq-<slug>`                       |
+| kind                     | `temporal_sequence` | sim               | Literal                                      |
+| title                    | string              | sim               | Título                                       |
+| step_ids                 | Id[] (mínimo 2)     | sim               | Eventos e atos públicos em ordem cronológica |
+| temporal_proximity       | enum                | sim               | `high`, `medium`, `low`                      |
+| documentary_link         | enum                | sim               | `present`, `absent`, `partial`               |
+| causality_proven         | boolean             | sim               | Só `true` com `documentary_link: present`    |
+| description              | string              | sim               | Descrição                                    |
+| limits                   | string              | sim               | O que não se conclui                         |
+| source_ids, evidence_ids | Id[]                | não (padrão `[]`) | Suporte                                      |
+| tags                     | string[]            | não (padrão `[]`) | Etiquetas                                    |
 
 ### `revisions` (Revision)
 
 Sem ReviewTrail; sempre entra no build.
 
-| Campo | Tipo | Obrigatório | Descrição |
-|---|---|---|---|
-| id | Id | sim | Convenção `rev-YYYY-MM-DD-slug` |
-| kind | `revision` | sim | Literal |
-| date | PartialDate | sim | Data da revisão |
-| summary | string | sim | Resumo público |
-| added | objeto | não (padrão zeros) | Contagens: `people`, `organizations`, `events`, `documents`, `relationships`, `sources`, `evidence` |
-| updated_relationships | inteiro >= 0 | não (padrão 0) | Relações alteradas |
-| corrections | string[] | não (padrão `[]`) | Correções e retratações descritas |
-| author | string | não | Autor |
+| Campo                 | Tipo         | Obrigatório        | Descrição                                                                                           |
+| --------------------- | ------------ | ------------------ | --------------------------------------------------------------------------------------------------- |
+| id                    | Id           | sim                | Convenção `rev-YYYY-MM-DD-slug`                                                                     |
+| kind                  | `revision`   | sim                | Literal                                                                                             |
+| date                  | PartialDate  | sim                | Data da revisão                                                                                     |
+| summary               | string       | sim                | Resumo público                                                                                      |
+| added                 | objeto       | não (padrão zeros) | Contagens: `people`, `organizations`, `events`, `documents`, `relationships`, `sources`, `evidence` |
+| updated_relationships | inteiro >= 0 | não (padrão 0)     | Relações alteradas                                                                                  |
+| corrections           | string[]     | não (padrão `[]`)  | Correções e retratações descritas                                                                   |
+| author                | string       | não                | Autor                                                                                               |
 
 ## Regras do lint
 
@@ -401,13 +402,13 @@ Sequências:
 
 ## Comandos
 
-| Comando | O que faz | Bloqueia em |
-|---|---|---|
-| `npm run data:validate` | Carrega e valida `data/`, roda o lint, não gera arquivos. Exclui rascunhos (com aviso) | erros |
-| `npm run data:validate -- --include-drafts` | O mesmo, incluindo `draft` e `in_review` | erros |
-| `npm run data:lint` | `validate-data.ts --strict`: inclui rascunhos e trata avisos como bloqueantes. É o comando da integração contínua e do PR de dados | erros e avisos |
-| `npm run data:build` | Compila `data/` em `src/generated/corpus.json`, `src/generated/stats.json` e `public/data/graph.json` (com layout ForceAtlas2 determinístico). Aceita `-- --include-drafts` (ou `NOVELO_INCLUDE_DRAFTS=true`) e `-- --no-layout` | erros |
-| `npm run check` | `typecheck`, `lint` (ESLint), `data:lint` e `test` em sequência | qualquer falha |
+| Comando                                     | O que faz                                                                                                                                                                                                                        | Bloqueia em    |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| `npm run data:validate`                     | Carrega e valida `data/`, roda o lint, não gera arquivos. Exclui rascunhos (com aviso)                                                                                                                                           | erros          |
+| `npm run data:validate -- --include-drafts` | O mesmo, incluindo `draft` e `in_review`                                                                                                                                                                                         | erros          |
+| `npm run data:lint`                         | `validate-data.ts --strict`: inclui rascunhos e trata avisos como bloqueantes. É o comando da integração contínua e do PR de dados                                                                                               | erros e avisos |
+| `npm run data:build`                        | Compila `data/` em `src/generated/corpus.json`, `src/generated/stats.json` e `public/data/graph.json` (com layout ForceAtlas2 determinístico). Aceita `-- --include-drafts` (ou `NOVELO_INCLUDE_DRAFTS=true`) e `-- --no-layout` | erros          |
+| `npm run check`                             | `typecheck`, `lint` (ESLint), `data:lint` e `test` em sequência                                                                                                                                                                  | qualquer falha |
 
 `npm run dev` e `npm run build` executam `data:build` antes do Next.
 

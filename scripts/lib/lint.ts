@@ -1,26 +1,25 @@
-import type { Corpus } from "../../src/lib/schema";
+import type { Corpus, EvidenceClass, FactStatus } from "../../src/lib/schema";
 import { OFFICIAL_SOURCE_TYPES } from "../../src/lib/schema";
 import type { LoadIssue } from "./load";
 
 /**
- * Lint editorial/estrutural do corpus (regras da METHODOLOGY.md e EDITORIAL_POLICY.md).
+ * Lint editorial/estrutural do corpus (regras de METHODOLOGY.md e EDITORIAL_POLICY.md).
  *
- * ERROS bloqueiam o build:
- *  - referência a id inexistente;
- *  - relação/evento/ato/transação sem evidence_ids E sem source_ids, salvo classe I;
- *  - classe I sem inference_basis na evidência (quando houver evidência) ou sem descrição do limite;
- *  - evidência D sem document_ids;
- *  - evidência A sem attributed_to;
- *  - evidência C com menos de duas fontes;
- *  - fonte sem url/retrieved_at (já garantido pelo schema) e foto sem licença (schema);
- *  - status verified com classe A ou I em relação (alegação/inferência não é fato verificado);
- *  - from_id == to_id.
+ * ERROS (bloqueiam o build):
+ *  - referência a id inexistente ou de tipo errado;
+ *  - relação/evento/ato/transação sem evidence_ids, source_ids nem document_ids, salvo classe I;
+ *  - registro de classe I sem ao menos uma evidência de classe I com inference_basis;
+ *  - evidência D sem document_ids; C com menos de duas fontes/documentos; A sem attributed_to; I sem inference_basis;
+ *  - status verified com classe A ou I (alegação/inferência não é fato verificado);
+ *  - evidence_class do registro superior à melhor evidência ligada;
+ *  - relação D sem documento primário (direto ou via evidência);
+ *  - from_id == to_id; documento não rastreável; sequência com causalidade "comprovada" sem nexo documental.
  *
- * AVISOS:
+ * AVISOS (não bloqueiam; em modo estrito bloqueiam apenas registros publicados):
  *  - vocabulário imputativo sem qualificador de alegação;
- *  - agente sem cited_position;
- *  - relação sem data;
- *  - fonte não verificada (sem bloco verification).
+ *  - agente sem cited_position; claim sem counter_position ou sem adversarial_review;
+ *  - relação sem data; fonte sem verification; fonte de rede social/blog;
+ *  - prefixo de id fora da convenção.
  */
 
 const IMPUTATIVE_TERMS = [
@@ -60,7 +59,22 @@ const QUALIFIERS = [
   "negou",
   "supost",
   "presum",
+  "teria",
 ];
+
+const ID_PREFIX: Record<string, RegExp> = {
+  event: /^evt-/,
+  public_act: /^ato-/,
+  source: /^src-/,
+  document: /^doc-/,
+  evidence: /^ev-/,
+  relationship: /^rel-/,
+  transaction: /^tx-/,
+  claim: /^claim-/,
+  temporal_sequence: /^seq-/,
+};
+
+const RANK: Record<EvidenceClass, number> = { D: 4, C: 3, A: 2, I: 1 };
 
 function idsOf(corpus: Corpus): Map<string, string> {
   const m = new Map<string, string>();
@@ -79,6 +93,8 @@ function idsOf(corpus: Corpus): Map<string, string> {
   return m;
 }
 
+const AGENT = ["person", "organization"];
+
 export function lintCorpus(corpus: Corpus): LoadIssue[] {
   const issues: LoadIssue[] = [];
   const ids = idsOf(corpus);
@@ -86,14 +102,10 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
   const evidence = new Map(corpus.evidence.map((e) => [e.id, e]));
 
   const err = (file: string, message: string) => issues.push({ level: "error", file, message });
-  const warn = (file: string, message: string) => issues.push({ level: "warning", file, message });
+  const warn = (file: string, message: string, published = true) =>
+    issues.push({ level: "warning", file, message, published });
 
-  const checkRefs = (
-    file: string,
-    field: string,
-    refs: string[] | undefined,
-    allowedKinds?: string[],
-  ) => {
+  const checkRefs = (file: string, field: string, refs: string[] | undefined, allowedKinds?: string[]) => {
     for (const ref of refs ?? []) {
       const kind = ids.get(ref);
       if (!kind) {
@@ -104,14 +116,51 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     }
   };
 
-  const checkImputation = (file: string, field: string, text: string | undefined) => {
+  const checkCited = (
+    file: string,
+    field: string,
+    list: { by_id?: string; source_ids: string[] }[] | undefined,
+  ) => {
+    for (const cp of list ?? []) {
+      if (cp.by_id) checkRefs(file, `${field}.by_id`, [cp.by_id], AGENT);
+      checkRefs(file, `${field}.source_ids`, cp.source_ids, ["source"]);
+    }
+  };
+
+  const checkImputation = (file: string, field: string, text: string | undefined, published: boolean) => {
     if (!text) return;
     const lower = text.toLowerCase();
     for (const term of IMPUTATIVE_TERMS) {
       if (lower.includes(term) && !QUALIFIERS.some((q) => lower.includes(q))) {
-        warn(file, `${field}: termo imputativo "${term}" sem qualificador de alegação/atribuição`);
+        warn(file, `${field}: termo imputativo "${term}" sem qualificador de alegação/atribuição`, published);
       }
     }
+  };
+
+  const checkPrefix = (file: string, kind: string, id: string, published: boolean) => {
+    const re = ID_PREFIX[kind];
+    if (re && !re.test(id)) warn(file, `id "${id}" fora da convenção de prefixo para ${kind}`, published);
+  };
+
+  /** Verifica status vs classe e coerência com evidências ligadas; devolve as evidências ligadas. */
+  const checkClassAndStatus = (
+    file: string,
+    cls: EvidenceClass,
+    status: FactStatus | undefined,
+    evidenceIds: string[],
+  ) => {
+    if (status === "verified" && (cls === "A" || cls === "I")) {
+      err(file, `status verified incompatível com classe ${cls}`);
+    }
+    const linked = evidenceIds.map((id) => evidence.get(id)).filter((e): e is NonNullable<typeof e> => !!e);
+    if (linked.length > 0) {
+      const best = Math.max(...linked.map((e) => RANK[e.classification]));
+      if (RANK[cls] > best) err(file, `evidence_class ${cls} superior à melhor evidência ligada`);
+    }
+    if (cls === "I" && !linked.some((e) => e.classification === "I" && e.inference_basis)) {
+      err(file, "classe I exige ao menos uma evidência de classe I com inference_basis (raciocínio e limite explícitos)");
+    }
+    return linked;
   };
 
   const hasOfficial = (sourceIds: string[]) =>
@@ -120,30 +169,24 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
       return s ? OFFICIAL_SOURCE_TYPES.has(s.source_type) : false;
     });
 
-  const collectSourceIds = (evidenceIds: string[], sourceIds: string[]) => {
-    const set = new Set(sourceIds);
-    for (const eid of evidenceIds) {
-      const ev = evidence.get(eid);
-      ev?.source_ids.forEach((s) => set.add(s));
-    }
-    return [...set];
-  };
-
   /* ---- fontes ---- */
   for (const s of corpus.sources) {
     const file = `sources/${s.id}.yaml`;
-    if (!s.verification) warn(file, "fonte sem bloco verification (Source Verification Agent)");
+    const pub = s.review_status === "published";
+    checkPrefix(file, "source", s.id, pub);
+    if (!s.verification) warn(file, "fonte sem bloco verification (Source Verification Agent)", pub);
     if (s.source_type === "social_media" || s.source_type === "blog") {
-      warn(file, `fonte ${s.source_type}: usar apenas como pista, salvo publicação da própria pessoa`);
+      warn(file, `fonte ${s.source_type}: usar apenas como pista, salvo publicação da própria pessoa`, pub);
     }
   }
 
   /* ---- documentos ---- */
   for (const d of corpus.documents) {
     const file = `documents/${d.id}.yaml`;
+    checkPrefix(file, "document", d.id, d.review_status === "published");
     checkRefs(file, "source_ids", d.source_ids, ["source"]);
-    checkRefs(file, "related_entity_ids", d.related_entity_ids, ["person", "organization"]);
-    if (d.issuer_id) checkRefs(file, "issuer_id", [d.issuer_id], ["person", "organization"]);
+    checkRefs(file, "related_entity_ids", d.related_entity_ids, AGENT);
+    if (d.issuer_id) checkRefs(file, "issuer_id", [d.issuer_id], AGENT);
     if (!d.url && !d.raw_path && d.source_ids.length === 0) {
       err(file, "documento sem url, raw_path ou source_ids: não rastreável");
     }
@@ -152,6 +195,8 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
   /* ---- evidências ---- */
   for (const e of corpus.evidence) {
     const file = `evidence/${e.id}.yaml`;
+    const pub = e.review_status === "published";
+    checkPrefix(file, "evidence", e.id, pub);
     checkRefs(file, "document_ids", e.document_ids, ["document"]);
     checkRefs(file, "source_ids", e.source_ids, ["source"]);
     if (e.attributed_to_id) checkRefs(file, "attributed_to_id", [e.attributed_to_id]);
@@ -170,17 +215,20 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     if (e.classification === "I" && !e.inference_basis) {
       err(file, "classe I exige inference_basis (raciocínio e limite explícitos)");
     }
-    checkImputation(file, "proposition", e.proposition);
+    checkImputation(file, "proposition", e.proposition, pub);
   }
 
   /* ---- pessoas e organizações ---- */
   for (const p of [...corpus.people, ...corpus.organizations]) {
     const file = `${p.kind === "person" ? "people" : "organizations"}/${p.id}.yaml`;
+    const pub = p.review_status === "published";
     checkRefs(file, "source_ids", p.source_ids, ["source"]);
-    for (const cp of p.cited_position) checkRefs(file, "cited_position.source_ids", cp.source_ids, ["source"]);
-    if (p.cited_position.length === 0) warn(file, "sem cited_position (contraditório): será exibido como 'não localizada'");
-    checkImputation(file, "summary", p.summary);
-    checkImputation(file, "why_in_novelo", p.why_in_novelo);
+    checkCited(file, "cited_position", p.cited_position);
+    if (p.cited_position.length === 0) {
+      warn(file, "sem cited_position (contraditório): será exibido como 'não localizada'", pub);
+    }
+    checkImputation(file, "summary", p.summary, pub);
+    checkImputation(file, "why_in_novelo", p.why_in_novelo, pub);
     if (p.kind === "person") {
       for (const pos of p.positions) {
         if (pos.organization_id) checkRefs(file, "positions.organization_id", [pos.organization_id], ["organization"]);
@@ -192,136 +240,146 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
   /* ---- eventos ---- */
   for (const ev of corpus.events) {
     const file = `events/${ev.id}.yaml`;
-    checkRefs(file, "participant_ids", ev.participant_ids, ["person", "organization"]);
+    const pub = ev.review_status === "published";
+    checkPrefix(file, "event", ev.id, pub);
+    checkRefs(file, "participant_ids", ev.participant_ids, AGENT);
     checkRefs(file, "evidence_ids", ev.evidence_ids, ["evidence"]);
     checkRefs(file, "source_ids", ev.source_ids, ["source"]);
     checkRefs(file, "document_ids", ev.document_ids, ["document"]);
     checkRefs(file, "public_act_ids", ev.public_act_ids, ["public_act"]);
-    if (ev.evidence_ids.length === 0 && ev.source_ids.length === 0 && ev.evidence_class !== "I") {
-      err(file, "evento sem evidence_ids nem source_ids (só permitido para classe I)");
+    checkCited(file, "cited_position", ev.cited_position);
+    const support = ev.evidence_ids.length + ev.source_ids.length + ev.document_ids.length > 0;
+    if (!support && ev.evidence_class !== "I") {
+      err(file, "evento sem evidence_ids, source_ids nem document_ids (só permitido para classe I)");
     }
-    if (ev.status === "verified" && (ev.evidence_class === "A" || ev.evidence_class === "I")) {
-      err(file, `status verified incompatível com classe ${ev.evidence_class}`);
-    }
-    checkImputation(file, "description", ev.description);
+    checkClassAndStatus(file, ev.evidence_class, ev.status, ev.evidence_ids);
+    checkImputation(file, "description", ev.description, pub);
   }
 
   /* ---- atos públicos ---- */
   for (const a of corpus.public_acts) {
     const file = `public-acts/${a.id}.yaml`;
-    checkRefs(file, "actor_ids", a.actor_ids, ["person", "organization"]);
-    checkRefs(file, "affected_ids", a.affected_ids, ["person", "organization"]);
-    if (a.issuer_id) checkRefs(file, "issuer_id", [a.issuer_id], ["person", "organization"]);
+    const pub = a.review_status === "published";
+    checkPrefix(file, "public_act", a.id, pub);
+    checkRefs(file, "actor_ids", a.actor_ids, AGENT);
+    checkRefs(file, "affected_ids", a.affected_ids, AGENT);
+    if (a.issuer_id) checkRefs(file, "issuer_id", [a.issuer_id], AGENT);
     checkRefs(file, "evidence_ids", a.evidence_ids, ["evidence"]);
     checkRefs(file, "source_ids", a.source_ids, ["source"]);
     checkRefs(file, "document_ids", a.document_ids, ["document"]);
-    if (a.evidence_ids.length === 0 && a.source_ids.length === 0 && a.document_ids.length === 0) {
-      err(file, "ato público sem evidência, fonte ou documento");
+    const support = a.evidence_ids.length + a.source_ids.length + a.document_ids.length > 0;
+    if (!support && a.evidence_class !== "I") {
+      err(file, "ato público sem evidência, fonte ou documento (só permitido para classe I)");
     }
-    checkImputation(file, "description", a.description);
+    checkClassAndStatus(file, a.evidence_class, a.status, a.evidence_ids);
+    checkImputation(file, "description", a.description, pub);
   }
 
   /* ---- transações ---- */
   for (const t of corpus.transactions) {
     const file = `transactions/${t.id}.yaml`;
-    checkRefs(file, "from_id", [t.from_id], ["person", "organization"]);
-    checkRefs(file, "to_id", [t.to_id], ["person", "organization"]);
+    const pub = t.review_status === "published";
+    checkPrefix(file, "transaction", t.id, pub);
+    checkRefs(file, "from_id", [t.from_id], AGENT);
+    checkRefs(file, "to_id", [t.to_id], AGENT);
     checkRefs(file, "evidence_ids", t.evidence_ids, ["evidence"]);
     checkRefs(file, "source_ids", t.source_ids, ["source"]);
     checkRefs(file, "document_ids", t.document_ids, ["document"]);
     checkRefs(file, "event_ids", t.event_ids, ["event"]);
-    if (t.evidence_ids.length === 0 && t.source_ids.length === 0 && t.evidence_class !== "I") {
-      err(file, "transação sem evidence_ids nem source_ids");
+    checkCited(file, "cited_position", t.cited_position);
+    if (t.from_id === t.to_id) err(file, "from_id igual a to_id");
+    const support = t.evidence_ids.length + t.source_ids.length + t.document_ids.length > 0;
+    if (!support && t.evidence_class !== "I") {
+      err(file, "transação sem evidence_ids, source_ids nem document_ids (só permitido para classe I)");
     }
-    if (t.status === "verified" && (t.evidence_class === "A" || t.evidence_class === "I")) {
-      err(file, `status verified incompatível com classe ${t.evidence_class}`);
-    }
-    checkImputation(file, "description", t.description);
+    checkClassAndStatus(file, t.evidence_class, t.status, t.evidence_ids);
+    checkImputation(file, "description", t.description, pub);
   }
 
   /* ---- relações ---- */
   for (const r of corpus.relationships) {
     const file = `relationships/${r.id}.yaml`;
-    checkRefs(file, "from_id", [r.from_id], ["person", "organization"]);
-    checkRefs(file, "to_id", [r.to_id], ["person", "organization"]);
-    if (r.via_id) checkRefs(file, "via_id", [r.via_id], ["person", "organization"]);
+    const pub = r.review_status === "published";
+    checkPrefix(file, "relationship", r.id, pub);
+    checkRefs(file, "from_id", [r.from_id], AGENT);
+    checkRefs(file, "to_id", [r.to_id], AGENT);
+    if (r.via_id) checkRefs(file, "via_id", [r.via_id], AGENT);
     checkRefs(file, "event_ids", r.event_ids, ["event"]);
     checkRefs(file, "evidence_ids", r.evidence_ids, ["evidence"]);
     checkRefs(file, "source_ids", r.source_ids, ["source"]);
     checkRefs(file, "document_ids", r.document_ids, ["document"]);
     checkRefs(file, "transaction_ids", r.transaction_ids, ["transaction"]);
-    for (const cp of r.cited_position) checkRefs(file, "cited_position.source_ids", cp.source_ids, ["source"]);
+    checkCited(file, "cited_position", r.cited_position);
 
     if (r.from_id === r.to_id) err(file, "from_id igual a to_id");
 
-    const hasSupport =
-      r.evidence_ids.length > 0 || r.source_ids.length > 0 || r.document_ids.length > 0;
+    const hasSupport = r.evidence_ids.length > 0 || r.source_ids.length > 0 || r.document_ids.length > 0;
     if (!hasSupport && r.evidence_class !== "I") {
       err(file, "relação sem evidence_ids/source_ids/document_ids e não classificada como inferência (I)");
     }
-    if (r.evidence_class === "I" && !hasSupport && r.event_ids.length === 0) {
-      err(file, "inferência (I) precisa apontar ao menos para event_ids que a fundamentam");
-    }
-    if (r.status === "verified" && (r.evidence_class === "A" || r.evidence_class === "I")) {
-      err(file, `status verified incompatível com classe ${r.evidence_class}`);
+    const linked = checkClassAndStatus(file, r.evidence_class, r.status, r.evidence_ids);
+    if (r.evidence_class === "I" && r.event_ids.length === 0 && !hasSupport) {
+      err(file, "inferência (I) precisa apontar para event_ids ou evidências que a fundamentam");
     }
     if (r.relationship_type === "investigative_allegation" && r.evidence_class === "D") {
-      warn(file, "alegação investigativa classificada como D: confirme se o documento prova o fato ou apenas registra a alegação");
+      warn(file, "alegação investigativa classificada como D: confirme se o documento prova o fato ou apenas registra a alegação", pub);
     }
     if (r.relationship_type === "intermediary" && !r.via_id) {
-      warn(file, "relação de intermediação sem via_id");
+      warn(file, "relação de intermediação sem via_id", pub);
     }
     if (!r.start_date && r.event_ids.length === 0) {
-      warn(file, "relação sem start_date nem event_ids: não aparecerá na time machine com data própria");
+      warn(file, "relação sem start_date nem event_ids: não aparecerá na time machine com data própria", pub);
     }
-    // Classe de evidência coerente com as evidências ligadas.
-    const linked = r.evidence_ids.map((id) => evidence.get(id)).filter(Boolean);
-    if (linked.length > 0) {
-      const rank = { D: 4, C: 3, A: 2, I: 1 } as const;
-      const best = Math.max(...linked.map((e) => rank[e!.classification]));
-      if (rank[r.evidence_class] > best) {
-        err(file, `evidence_class ${r.evidence_class} superior à melhor evidência ligada`);
+    if (r.evidence_class === "D") {
+      const docViaEvidence = linked.some((e) => e.document_ids.length > 0);
+      if (r.document_ids.length === 0 && !docViaEvidence) {
+        err(file, "classe D exige documento primário ligado (direto ou via evidência)");
       }
     }
-    const allSources = collectSourceIds(r.evidence_ids, r.source_ids);
-    if (r.evidence_class === "D" && !hasOfficial(allSources) && r.document_ids.length === 0) {
-      const docViaEvidence = linked.some((e) => e!.document_ids.length > 0);
-      if (!docViaEvidence) err(file, "classe D sem documento primário ligado (direto ou via evidência)");
+    if (r.evidence_class === "C") {
+      const allSources = new Set(r.source_ids);
+      linked.forEach((e) => e.source_ids.forEach((s) => allSources.add(s)));
+      if (allSources.size + r.document_ids.length < 2) {
+        err(file, "classe C exige ao menos duas fontes independentes (diretas ou via evidências)");
+      }
     }
-    checkImputation(file, "description", r.description);
-    checkImputation(file, "label", r.label);
+    void hasOfficial;
+    checkImputation(file, "description", r.description, pub);
+    checkImputation(file, "label", r.label, pub);
   }
 
   /* ---- claims ---- */
   for (const c of corpus.claims) {
     const file = `claims/${c.id}.yaml`;
-    checkRefs(file, "related_entity_ids", c.related_entity_ids, ["person", "organization"]);
+    const pub = c.review_status === "published";
+    checkPrefix(file, "claim", c.id, pub);
+    checkRefs(file, "related_entity_ids", c.related_entity_ids, AGENT);
     checkRefs(file, "event_ids", c.event_ids, ["event"]);
     checkRefs(file, "evidence_ids", c.evidence_ids, ["evidence"]);
     checkRefs(file, "source_ids", c.source_ids, ["source"]);
     if (c.claimant_id) checkRefs(file, "claimant_id", [c.claimant_id]);
+    checkCited(file, "counter_position", c.counter_position);
     if (c.evidence_ids.length === 0 && c.source_ids.length === 0) {
       err(file, "claim sem evidência nem fonte");
     }
-    if (c.status === "verified" && (c.classification === "A" || c.classification === "I")) {
-      err(file, `status verified incompatível com classificação ${c.classification}`);
-    }
-    if (c.review_status === "published" && !c.adversarial_review) {
-      warn(file, "claim publicado sem adversarial_review");
-    }
-    checkImputation(file, "statement", c.statement);
+    checkClassAndStatus(file, c.classification, c.status, c.evidence_ids);
+    if (pub && !c.adversarial_review) warn(file, "claim publicado sem adversarial_review", pub);
+    if (c.counter_position.length === 0) warn(file, "claim sem counter_position (contraditório)", pub);
+    checkImputation(file, "statement", c.statement, pub);
   }
 
   /* ---- sequências ---- */
   for (const s of corpus.sequences) {
     const file = `sequences/${s.id}.yaml`;
+    const pub = s.review_status === "published";
+    checkPrefix(file, "temporal_sequence", s.id, pub);
     checkRefs(file, "step_ids", s.step_ids, ["event", "public_act"]);
     checkRefs(file, "source_ids", s.source_ids, ["source"]);
     checkRefs(file, "evidence_ids", s.evidence_ids, ["evidence"]);
     if (s.causality_proven && s.documentary_link !== "present") {
       err(file, "causality_proven=true exige documentary_link=present");
     }
-    checkImputation(file, "description", s.description);
+    checkImputation(file, "description", s.description, pub);
   }
 
   return issues;

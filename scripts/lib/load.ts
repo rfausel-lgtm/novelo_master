@@ -8,6 +8,8 @@ export interface LoadIssue {
   level: "error" | "warning";
   file: string;
   message: string;
+  /** Falso quando o registro ainda não está publicado (avisos não bloqueiam em modo estrito). */
+  published?: boolean;
 }
 
 export interface LoadResult {
@@ -118,6 +120,7 @@ export function loadCorpus(opts: LoadOptions): LoadResult {
           level: "warning",
           file: rel,
           message: `review_status=${reviewStatus}: excluído do build público`,
+          published: false,
         });
         continue;
       }

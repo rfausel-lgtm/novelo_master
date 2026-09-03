@@ -27,14 +27,14 @@ npm run dev          # compila os dados e sobe o site em http://localhost:3000
 
 Crie sempre a partir de `main` atualizado. Prefixos:
 
-| Prefixo | Uso |
-|---|---|
-| `feat/*` | Funcionalidade nova no site ou no pipeline |
-| `fix/*` | Correção de bug |
-| `data/*` | Inclusão ou alteração de registros em `data/` |
+| Prefixo      | Uso                                                                                  |
+| ------------ | ------------------------------------------------------------------------------------ |
+| `feat/*`     | Funcionalidade nova no site ou no pipeline                                           |
+| `fix/*`      | Correção de bug                                                                      |
+| `data/*`     | Inclusão ou alteração de registros em `data/`                                        |
 | `research/*` | Pesquisa em andamento: rascunhos (`review_status: draft`), capturas em `raw/`, notas |
-| `docs/*` | Documentação |
-| `security/*` | Correções de segurança, dependências vulneráveis, remoção de dado indevido |
+| `docs/*`     | Documentação                                                                         |
+| `security/*` | Correções de segurança, dependências vulneráveis, remoção de dado indevido           |
 
 Exemplos: `data/fabio-faria`, `feat/time-machine`, `docs/methodology-fontes`.
 

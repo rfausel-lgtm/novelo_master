@@ -1,0 +1,89 @@
+name: Correção de dado
+description: Apontar erro em registro publicado, pedir mudança de classificação ou exercer direito de resposta.
+title: "[correção] "
+labels: ["data", "correction", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use este modelo para erro factual, erro de classificação, homônimo, data errada, fonte quebrada ou para registrar a posição de pessoa ou organização citada (direito de resposta). Para dado pessoal indevido (telefone, endereço, CPF, dado de saúde, dado de menor), NÃO abra issue pública: use GitHub Security Advisories, conforme SECURITY.md.
+  - type: input
+    id: record
+    attributes:
+      label: Registro afetado
+      description: Id do registro (nome do arquivo em data/) ou URL da página no site.
+      placeholder: "rel-fulano-empresa-corporate ou https://.../pessoas/fulano"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Tipo de correção
+      options:
+        - Erro factual (data, nome, valor, cargo)
+        - Classificação de evidência incorreta (D, C, A, I)
+        - Status incorreto (verified, disputed, unverified, refuted)
+        - Homônimo ou identificação errada
+        - Fonte inacessível, alterada ou que não sustenta o registro
+        - Registro não atende aos critérios de inclusão
+        - Direito de resposta / posição do citado
+        - Texto com vocabulário imputativo ou não neutro
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: O que está errado
+      description: Cite o campo e o trecho exato.
+    validations:
+      required: true
+  - type: textarea
+    id: right
+    attributes:
+      label: O que seria correto
+      description: A redação ou o valor proposto. Para direito de resposta, o texto da posição a registrar (será publicado como cited_position, atribuído a quem o envia).
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: Fonte que demonstra o erro ou sustenta a resposta
+      description: URL aberta por você. Correção sem fonte é avaliada, mas só é aplicada com documento.
+      placeholder: https://
+  - type: input
+    id: source_date
+    attributes:
+      label: Data da fonte
+      placeholder: "2026-09-03"
+  - type: dropdown
+    id: evidence_class
+    attributes:
+      label: Classe de evidência da fonte apresentada
+      options:
+        - D (documento primário)
+        - C (duas ou mais fontes independentes)
+        - A (declaração atribuída)
+        - I (inferência)
+        - Não sei
+  - type: dropdown
+    id: relation
+    attributes:
+      label: Sua relação com o registro
+      options:
+        - Visitante sem vínculo
+        - Pessoa citada ou representante
+        - Organização citada ou representante
+        - Colaborador do projeto
+        - Prefiro não informar
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmações
+      options:
+        - label: Não incluí dados pessoais vedados (telefone, endereço residencial, CPF, dados sensíveis).
+          required: true
+        - label: Entendo que o registro pode ser mantido com a posição do citado registrada e status "disputed", se houver suporte documental.
+          required: true

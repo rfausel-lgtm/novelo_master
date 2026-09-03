@@ -16,7 +16,7 @@ Verifica:
 - `url`, `retrieved_at`, `publisher`, `publication_date` e `source_type` preenchidos; `archive_url` quando disponível.
 - Para documentos: emissor, data, referência (número de processo, ofício, protocolo) e localização do trecho relevante (`locator`, `excerpt`).
 - Cada proposição extraída foi separada em fato, alegação ou inferência antes de virar `Evidence`.
-- Homônimos descartados (ver [OSINT_GUIDELINES.md](OSINT_GUIDELINES.md#armadilhas)).
+- Homônimos descartados (ver [OSINT_GUIDELINES.md](OSINT_GUIDELINES.md#8-armadilhas)).
 
 ### Etapa 2: Source Verifier
 
@@ -108,13 +108,13 @@ Toda proposição de classe I é acompanhada do limite: o que os documentos perm
 
 ### Termos preferidos
 
-| Evitar | Preferir |
-|---|---|
+| Evitar                                     | Preferir                                                                               |
+| ------------------------------------------ | -------------------------------------------------------------------------------------- |
 | "ligado a", "próximo de" (sem especificar) | o tipo concreto: "sócio de", "advogado de", "nomeado por", "participou de reunião com" |
-| "envolvido em" | "citado em", "parte em", "investigado em", conforme o documento |
-| "esquema" | "operação", "arranjo", "conjunto de transações", ou o termo do documento entre aspas |
-| "revelou" | "registrou", "relatou", "publicou" |
-| "confirmou" (para alegação) | "afirmou", "reiterou" |
+| "envolvido em"                             | "citado em", "parte em", "investigado em", conforme o documento                        |
+| "esquema"                                  | "operação", "arranjo", "conjunto de transações", ou o termo do documento entre aspas   |
+| "revelou"                                  | "registrou", "relatou", "publicou"                                                     |
+| "confirmou" (para alegação)                | "afirmou", "reiterou"                                                                  |
 
 ## 4. "Por que está no Novelo?"
 

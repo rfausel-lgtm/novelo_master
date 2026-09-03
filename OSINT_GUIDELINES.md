@@ -13,51 +13,51 @@ Consultar sempre a fonte primária antes da secundária. Quando uma reportagem c
 
 ### Judiciário
 
-| Órgão | Portal | O que buscar |
-|---|---|---|
-| STF | https://portal.stf.jus.br (consulta processual, peças públicas) e https://noticias.stf.jus.br | Decisões, despachos, peças com sigilo levantado, notícias oficiais com número do processo |
-| STJ | https://www.stj.jus.br (consulta processual e jurisprudência) | Decisões, acórdãos, notícias oficiais |
-| Justiça Federal | portais dos TRFs e seções judiciárias (PJe, e-Proc) | Decisões de primeira instância, autos públicos |
-| CNJ | https://www.cnj.jus.br | Consulta unificada (DataJud) para localizar processos por parte |
+| Órgão           | Portal                                                                                        | O que buscar                                                                              |
+| --------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| STF             | https://portal.stf.jus.br (consulta processual, peças públicas) e https://noticias.stf.jus.br | Decisões, despachos, peças com sigilo levantado, notícias oficiais com número do processo |
+| STJ             | https://www.stj.jus.br (consulta processual e jurisprudência)                                 | Decisões, acórdãos, notícias oficiais                                                     |
+| Justiça Federal | portais dos TRFs e seções judiciárias (PJe, e-Proc)                                           | Decisões de primeira instância, autos públicos                                            |
+| CNJ             | https://www.cnj.jus.br                                                                        | Consulta unificada (DataJud) para localizar processos por parte                           |
 
 Regra: o número do processo (formato CNJ) vai em `reference` do `Document`. Decisão publicada em portal oficial é `official_court`; a mesma decisão reproduzida por veículo de imprensa é `press`.
 
 ### Investigação e acusação
 
-| Órgão | Portal |
-|---|---|
-| Polícia Federal | https://www.gov.br/pf |
+| Órgão                            | Portal                |
+| -------------------------------- | --------------------- |
+| Polícia Federal                  | https://www.gov.br/pf |
 | Ministério Público Federal e PGR | https://www.mpf.mp.br |
-| Ministérios Públicos estaduais | portais próprios |
+| Ministérios Públicos estaduais   | portais próprios      |
 
 Relatórios, representações e denúncias só são acessíveis quando juntados a processo público ou divulgados pelo órgão. Reportagem que descreve relatório sigiloso é fonte da alegação de que o relatório existe e diz X (classe A ou C), não fonte do relatório.
 
 ### Legislativo
 
-| Órgão | Portal |
-|---|---|
+| Órgão                | Portal                                                                             |
+| -------------------- | ---------------------------------------------------------------------------------- |
 | Câmara dos Deputados | https://www.camara.leg.br (Agência Câmara, notas taquigráficas, proposições, CPIs) |
-| Senado Federal | https://www.senado.leg.br (Agência Senado, notas taquigráficas, proposições, CPIs) |
+| Senado Federal       | https://www.senado.leg.br (Agência Senado, notas taquigráficas, proposições, CPIs) |
 
 Depoimentos em CPI são `testimony`, classe A quanto ao conteúdo declarado; a ata é `official_legislative`.
 
 ### Reguladores e controle
 
-| Órgão | Portal |
-|---|---|
+| Órgão         | Portal                                                                                          |
+| ------------- | ----------------------------------------------------------------------------------------------- |
 | Banco Central | https://www.bcb.gov.br (normas, decisões de liquidação, sistema de informações de instituições) |
-| CVM | https://www.cvm.gov.br (processos sancionadores, fatos relevantes, registros) |
-| TCU | https://www.tcu.gov.br (acórdãos, relatórios) |
-| CGU | https://www.gov.br/cgu |
+| CVM           | https://www.cvm.gov.br (processos sancionadores, fatos relevantes, registros)                   |
+| TCU           | https://www.tcu.gov.br (acórdãos, relatórios)                                                   |
+| CGU           | https://www.gov.br/cgu                                                                          |
 
 ### Registros e publicações oficiais
 
-| Fonte | Portal |
-|---|---|
-| Diário Oficial da União | https://www.in.gov.br |
-| Receita Federal (consulta CNPJ) | https://www.gov.br/receitafederal |
-| Juntas comerciais | portal de cada estado (por exemplo, JUCESP, JUCEMG, JUCERJA) e Redesim |
-| Diários oficiais estaduais e municipais | portais próprios |
+| Fonte                                   | Portal                                                                 |
+| --------------------------------------- | ---------------------------------------------------------------------- |
+| Diário Oficial da União                 | https://www.in.gov.br                                                  |
+| Receita Federal (consulta CNPJ)         | https://www.gov.br/receitafederal                                      |
+| Juntas comerciais                       | portal de cada estado (por exemplo, JUCESP, JUCEMG, JUCERJA) e Redesim |
+| Diários oficiais estaduais e municipais | portais próprios                                                       |
 
 ### Agências oficiais de notícias
 
@@ -75,19 +75,19 @@ Wikipedia (`encyclopedic`), blogs e redes sociais de terceiros (`blog`, `social_
 
 Para cada fonte aberta, registrar em `data/sources/<id>.yaml`:
 
-| Campo | Como preencher |
-|---|---|
-| `title` | Título exato da página ou documento. Sem editorializar. |
-| `publisher` | Órgão ou veículo responsável. Para decisões: o tribunal. Para agência republicada: a agência. |
-| `author` | Repórter, relator, autor institucional. Opcional quando não identificado. |
-| `publication_date` | Data em que a fonte foi publicada. Não confundir com a data do fato. |
-| `retrieved_at` | Data em que você abriu a fonte. Obrigatório. |
-| `url` | A URL aberta. Sem parâmetros de rastreamento (`utm_*`, `fbclid`). |
-| `archive_url` | Cópia em https://web.archive.org. Se não houver, criar uma (Save Page Now) e registrar a URL resultante. Quando a página é dinâmica e não arquiva, deixar vazio e anotar em `notes`. |
-| `source_type` | Conforme a seção 2. Na dúvida entre oficial e imprensa, imprensa. |
-| `language` | `pt-BR` por padrão. |
-| `summary` | Uma ou duas frases sobre o que a fonte diz, sem interpretação. |
-| `notes` | Restrições de acesso, paywall, trechos que exigem login, indicação de republicação. |
+| Campo              | Como preencher                                                                                                                                                                       |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `title`            | Título exato da página ou documento. Sem editorializar.                                                                                                                              |
+| `publisher`        | Órgão ou veículo responsável. Para decisões: o tribunal. Para agência republicada: a agência.                                                                                        |
+| `author`           | Repórter, relator, autor institucional. Opcional quando não identificado.                                                                                                            |
+| `publication_date` | Data em que a fonte foi publicada. Não confundir com a data do fato.                                                                                                                 |
+| `retrieved_at`     | Data em que você abriu a fonte. Obrigatório.                                                                                                                                         |
+| `url`              | A URL aberta. Sem parâmetros de rastreamento (`utm_*`, `fbclid`).                                                                                                                    |
+| `archive_url`      | Cópia em https://web.archive.org. Se não houver, criar uma (Save Page Now) e registrar a URL resultante. Quando a página é dinâmica e não arquiva, deixar vazio e anotar em `notes`. |
+| `source_type`      | Conforme a seção 2. Na dúvida entre oficial e imprensa, imprensa.                                                                                                                    |
+| `language`         | `pt-BR` por padrão.                                                                                                                                                                  |
+| `summary`          | Uma ou duas frases sobre o que a fonte diz, sem interpretação.                                                                                                                       |
+| `notes`            | Restrições de acesso, paywall, trechos que exigem login, indicação de republicação.                                                                                                  |
 
 Capturar também, em `raw/`, os metadados da captura (ver [DATA_SCHEMA.md](DATA_SCHEMA.md#layout-de-diretórios)). Arquivos volumosos (PDF, ZIP, vídeo, HTML) não são versionados; registra-se `sha256` do arquivo no `Document` para que outra pessoa possa conferir a cópia obtida.
 
@@ -123,20 +123,20 @@ Em todos os casos, a `proposition` da evidência descreve exatamente o que a fon
 
 Todo `id` é kebab-case ASCII (`^[a-z0-9]+(?:-[a-z0-9]+)*$`), sem acentos, sem pontos, sem sublinhado, e o nome do arquivo é `<id>.yaml`. Os prefixos abaixo são convenção editorial (o lint não os exige, mas a revisão sim):
 
-| Coleção | Padrão | Exemplo |
-|---|---|---|
-| people | nome completo em kebab, sem títulos | `maria-aparecida-souza` |
-| organizations | nome usual em kebab, sem tipo societário quando redundante | `banco-master`, `jucemg` |
-| events | `evt-YYYY-MM-DD-slug` | `evt-2024-03-12-reuniao-sede` |
-| public-acts | `ato-YYYY-MM-DD-slug` | `ato-2024-03-21-portaria-nomeacao` |
-| sources | `src-<publisher>-YYYY-MM-DD-slug` | `src-agencia-brasil-2024-03-22-nomeacao` |
-| documents | `doc-YYYY-MM-DD-slug` | `doc-2024-03-12-alteracao-contratual` |
-| evidence | `ev-<slug>` | `ev-socio-empresa-exemplo-2024` |
-| relationships | `rel-<from>-<to>-<tipo>` | `rel-maria-aparecida-souza-empresa-exemplo-corporate` |
-| transactions | `tx-YYYY-MM-DD-slug` | `tx-2024-05-02-pagamento-honorarios` |
-| claims | `claim-<slug>` | `claim-reuniao-motivou-portaria` |
-| sequences | `seq-<slug>` | `seq-reuniao-portaria-2024` |
-| revisions | `rev-YYYY-MM-DD-slug` | `rev-2026-09-03-carga-inicial` |
+| Coleção       | Padrão                                                     | Exemplo                                               |
+| ------------- | ---------------------------------------------------------- | ----------------------------------------------------- |
+| people        | nome completo em kebab, sem títulos                        | `maria-aparecida-souza`                               |
+| organizations | nome usual em kebab, sem tipo societário quando redundante | `banco-master`, `jucemg`                              |
+| events        | `evt-YYYY-MM-DD-slug`                                      | `evt-2024-03-12-reuniao-sede`                         |
+| public-acts   | `ato-YYYY-MM-DD-slug`                                      | `ato-2024-03-21-portaria-nomeacao`                    |
+| sources       | `src-<publisher>-YYYY-MM-DD-slug`                          | `src-agencia-brasil-2024-03-22-nomeacao`              |
+| documents     | `doc-YYYY-MM-DD-slug`                                      | `doc-2024-03-12-alteracao-contratual`                 |
+| evidence      | `ev-<slug>`                                                | `ev-socio-empresa-exemplo-2024`                       |
+| relationships | `rel-<from>-<to>-<tipo>`                                   | `rel-maria-aparecida-souza-empresa-exemplo-corporate` |
+| transactions  | `tx-YYYY-MM-DD-slug`                                       | `tx-2024-05-02-pagamento-honorarios`                  |
+| claims        | `claim-<slug>`                                             | `claim-reuniao-motivou-portaria`                      |
+| sequences     | `seq-<slug>`                                               | `seq-reuniao-portaria-2024`                           |
+| revisions     | `rev-YYYY-MM-DD-slug`                                      | `rev-2026-09-03-carga-inicial`                        |
 
 Datas nos ids usam a data do fato (evento, ato, documento, transação) ou a data de publicação (fonte). Quando só se conhece o mês ou o ano, usar `YYYY-MM` ou `YYYY` no id e declarar `date_precision`.
 
@@ -268,7 +268,7 @@ reference: NIRE 00000000000 / protocolo 24-000.000-0
 url: https://example.org/junta/certidao/000000000
 source_ids: [src-junta-exemplo-2024-03-12-alteracao-contratual]
 raw_path: raw/junta-exemplo/2024-03-12-alteracao-contratual.meta.yaml
-sha256: 0000000000000000000000000000000000000000000000000000000000000000
+sha256: "0000000000000000000000000000000000000000000000000000000000000000"
 summary: Alteração contratual que admite Ana Exemplo Silva como sócia-administradora com 50% das quotas.
 excerpt: "Cláusula 2a: ingressa na sociedade a sócia Ana Exemplo Silva, que passa a exercer a administração."
 is_official: true

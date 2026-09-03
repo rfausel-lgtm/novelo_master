@@ -1,0 +1,50 @@
+name: Funcionalidade
+description: Propor melhoria no site, no grafo, no pipeline ou na documentação.
+title: "[feature] "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Propostas que alterem o modelo de dados ou as regras do lint devem indicar a mudança correspondente em METHODOLOGY.md ou EDITORIAL_POLICY.md. O Novelo não adiciona funcionalidade que induza conclusão (rankings de "suspeição", pontuações de culpa, cores de gravidade).
+  - type: dropdown
+    id: area
+    attributes:
+      label: Área
+      options:
+        - Grafo e filtros
+        - Máquina do tempo e sequências temporais
+        - Páginas de entidade, evento, ato, documento
+        - Busca e navegação
+        - Modelo de dados / schema
+        - Lint editorial
+        - Pipeline e scripts
+        - Documentação e metodologia
+        - Acessibilidade e desempenho
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema que a proposta resolve
+      description: Descreva a necessidade do visitante ou do colaborador, não a solução.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposta
+    validations:
+      required: true
+  - type: textarea
+    id: editorial
+    attributes:
+      label: Impacto editorial
+      description: A proposta muda o que se afirma, como se classifica ou como se exibe evidência? Ela preserva o princípio "cor = natureza, forma = força, conclusão é do visitante"?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas consideradas
