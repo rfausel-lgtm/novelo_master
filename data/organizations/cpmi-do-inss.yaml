@@ -1,0 +1,22 @@
+id: cpmi-do-inss
+kind: organization
+name: CPMI do INSS
+aliases: []
+org_type: public_body
+summary: Comissão Parlamentar Mista de Inquérito do Congresso Nacional que investiga fraudes no INSS.
+  Decretou quebras de sigilo de Daniel Vorcaro; em 20/02/2026 o STF determinou a devolução à comissão
+  dos dados obtidos por essas quebras.
+why_in_novelo: Decretou quebras de sigilo de Daniel Vorcaro cujos dados foram objeto de decisões do STF.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-stf-2026-03-06-inquerito-vazamento
+- src-poder360-2026-03-06-moraes-nega
+full_name: Comissão Parlamentar Mista de Inquérito do INSS
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

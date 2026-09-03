@@ -1,0 +1,16 @@
+id: ev-ipja-faria-tratativas-contrato-barci-2024-01
+kind: evidence
+classification: D
+proposition: O relatório da PF registra conversas de 15 e 17/01/2024 em que Fábio Faria e Daniel Vorcaro
+  tratam do prazo (três ou quatro anos) do contrato entre o escritório Barci de Moraes e o Banco Master.
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+source_ids:
+- src-cnn-2026-09-fabio-faria-pf
+date: '2024-01-17'
+locator: Figura 30
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

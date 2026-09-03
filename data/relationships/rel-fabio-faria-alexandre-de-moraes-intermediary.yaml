@@ -1,0 +1,37 @@
+id: rel-fabio-faria-alexandre-de-moraes-intermediary
+kind: relationship
+from_id: fabio-faria
+to_id: alexandre-de-moraes
+relationship_type: intermediary
+directed: false
+label: intermediação de contatos (segundo a PF)
+start_date: '2023-12-26'
+via_id: daniel-vorcaro
+description: Segundo o relatório da PF, Faria compartilhou com Vorcaro o contato atribuído a Moraes, articulou
+  jantares (02/02/2024) e remarcou encontros (novembro de 2024). A PF não investigou o ministro; Faria
+  não é alvo, segundo a CNN. A existência de relação direta entre Faria e Moraes é inferida pela PF a
+  partir das mensagens.
+evidence_class: A
+confidence: 0.5
+status: unverified
+event_ids:
+- evt-2023-12-26-faria-compartilha-contato-moraes
+evidence_ids:
+- ev-ipja-faria-compartilha-contato-moraes-2023-12-26
+- ev-pf-encontros-vorcaro-moraes
+- ev-cnn-faria-nao-e-alvo
+source_ids:
+- src-cnn-2026-09-fabio-faria-pf
+document_ids: []
+cited_position:
+- by_id: fabio-faria
+  kind: clarification
+  summary: 'Nota à CNN: sugeriu o escritório Barci de Moraes para um caso em São Paulo; não se reuniu
+    com a banca.'
+  source_ids:
+  - src-cnn-2026-09-fabio-faria-pf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

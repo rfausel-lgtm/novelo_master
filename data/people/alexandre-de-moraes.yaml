@@ -1,0 +1,47 @@
+id: alexandre-de-moraes
+kind: person
+name: Alexandre de Moraes
+category: judge
+role: Ministro do Supremo Tribunal Federal
+positions:
+- title: Ministro
+  organization_id: supremo-tribunal-federal
+  source_ids:
+  - src-cnn-2026-02-12-toffoli-deixa-relatoria
+summary: Ministro do STF. O relatório da PF sobre o celular de Daniel Vorcaro (IPJ-A 3298613/2026), tornado
+  público em 01/09/2026, registra contato salvo como 'Alexandre de Moraes BRASILIA' compartilhado por
+  Fábio Faria em 26/12/2023, referências a encontros e cinco mensagens de visualização única enviadas
+  ao contato em 17/11/2025. O gabinete do ministro negou, em nota de 06/03/2026, ser o destinatário das
+  mensagens. O relatório não conclui que o ministro tenha cometido crime e a PF informa não ter feito
+  diligências contra magistrados. O escritório de advocacia de sua esposa, Viviane Barci de Moraes, manteve
+  contrato com o Banco Master entre 2024 e 2025.
+why_in_novelo: Aparece em relatório da Polícia Federal sobre o celular de Daniel Vorcaro como contato
+  salvo e interlocutor referido em mensagens, e é cônjuge da titular do escritório contratado pelo Banco
+  Master; sua posição de negativa está registrada.
+cited_position:
+- date: '2026-03-06'
+  by_id: alexandre-de-moraes
+  kind: denial
+  summary: 'Nota do gabinete divulgada pela Secom do STF: ''análise técnica'' nos dados telemáticos de
+    Vorcaro teria constatado que as mensagens de visualização única de 17/11/2025 ''não conferem com os
+    contatos do ministro''; o material estaria vinculado a outros contatos da agenda do banqueiro.'
+  source_ids:
+  - src-poder360-2026-03-06-moraes-nega
+open_questions:
+- O corpus não contém manifestação do ministro posterior ao levantamento do sigilo da PET 16.662 (01/09/2026).
+- O relatório da PF atribui o número a um contato salvo pelo banqueiro; a titularidade da linha não está
+  demonstrada no material lido pela equipe.
+- Não há, no corpus, registro oficial (agenda) dos encontros referidos nas mensagens.
+source_ids:
+- src-congressoemfoco-2026-09-01-relatorio-pf
+- src-poder360-2026-09-01-sigilo-pet-16662
+- src-poder360-2026-03-06-moraes-nega
+- src-cnn-2026-02-12-toffoli-deixa-relatoria
+full_name: Alexandre de Moraes
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Alexandre_de_Moraes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

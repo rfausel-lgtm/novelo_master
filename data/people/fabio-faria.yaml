@@ -1,0 +1,38 @@
+id: fabio-faria
+kind: person
+name: Fábio Faria
+category: politician
+role: Empresário e ex-ministro das Comunicações (2020-2022); ex-deputado federal
+positions: []
+summary: Ex-ministro das Comunicações do governo Bolsonaro e ex-deputado federal. Segundo o relatório
+  da PF sobre o celular de Vorcaro, compartilhou com o banqueiro, em 26/12/2023, contatos salvos como
+  'Alexandre de Moraes BRASILIA', participou de tratativas sobre o prazo do contrato com o escritório
+  Barci de Moraes (janeiro de 2024) e da articulação de encontros. Em nota, afirmou ter sugerido o escritório
+  para um caso na Justiça de São Paulo, não ter se reunido com a banca e não conhecer os valores. Não
+  é alvo da investigação, segundo a CNN Brasil.
+why_in_novelo: É apontado pela Polícia Federal, em relatório sobre o celular de Daniel Vorcaro, como intermediário
+  de contatos entre o banqueiro e o ministro Alexandre de Moraes; sua posição está registrada.
+cited_position:
+- date: 2026-09
+  by_id: fabio-faria
+  kind: clarification
+  summary: Em nota à CNN Brasil, afirmou que sugeriu o escritório Barci de Moraes para atuação em um caso
+    na Justiça de São Paulo, que não se reuniu em nenhum momento com a banca e que não tomou conhecimento
+    dos valores contratados entre as partes.
+  source_ids:
+  - src-cnn-2026-09-fabio-faria-pf
+open_questions:
+- O corpus não registra a data exata da nota de Faria nem manifestação sobre os encontros descritos pela
+  PF.
+- O relatório da PF não conclui que Faria tenha cometido crime.
+source_ids:
+- src-cnn-2026-09-fabio-faria-pf
+- src-congressoemfoco-2026-09-01-relatorio-pf
+full_name: Fábio Salustino Mesquita de Faria
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/F%C3%A1bio_Faria
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

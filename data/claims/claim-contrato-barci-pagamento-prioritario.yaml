@@ -1,0 +1,45 @@
+id: claim-contrato-barci-pagamento-prioritario
+kind: claim
+statement: O pagamento ao escritório Barci de Moraes era tratado por Daniel Vorcaro como prioritário ('o
+  pgto mais importante que temos'), com cobrança de Fábio Faria em 15/03/2024.
+classification: D
+status: verified
+claimant_id: policia-federal
+claimant: Polícia Federal (IPJ-A 3298613/2026)
+date: '2024-03-15'
+related_entity_ids:
+- daniel-vorcaro
+- fabio-faria
+- barci-de-moraes-sociedade-de-advogados
+event_ids:
+- evt-2024-03-15-cobranca-pagamento-escritorio-barci
+evidence_ids:
+- ev-ipja-cobranca-pagamento-2024-03-15
+source_ids:
+- src-cnn-2026-09-fabio-faria-pf
+limits: As mensagens documentam a prioridade atribuída ao pagamento e a cobrança de Faria. Não demonstram
+  a razão da prioridade nem qualquer contrapartida; a identidade de 'o careca' é interpretação da PF e
+  da imprensa, não do documento.
+counter_position:
+- by_id: fabio-faria
+  kind: clarification
+  summary: Faria afirmou não conhecer os valores contratados.
+  source_ids:
+  - src-cnn-2026-09-fabio-faria-pf
+- date: '2026-03-09'
+  by_id: barci-de-moraes-sociedade-de-advogados
+  kind: clarification
+  summary: O escritório detalhou os serviços prestados (94 reuniões, 36 pareceres).
+  source_ids:
+  - src-poder360-2026-03-09-nota-barci
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: Conferido no PDF do relatório (Figuras 150 e 151) que as mensagens existem tal
+    como descritas pela CNN. A proposição limita-se ao que as mensagens dizem. Mantida.
+  outcome: stands
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

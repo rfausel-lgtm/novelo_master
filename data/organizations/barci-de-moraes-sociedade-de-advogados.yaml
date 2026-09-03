@@ -1,0 +1,28 @@
+id: barci-de-moraes-sociedade-de-advogados
+kind: organization
+name: Barci de Moraes Advogados
+aliases: []
+org_type: law_firm
+summary: Escritório de advocacia de Viviane Barci de Moraes, em São Paulo. Contratado pelo Banco Master
+  em janeiro de 2024 (contrato tornado público na PET 16.662), com serviços prestados de fevereiro de
+  2024 a novembro de 2025 segundo sua nota de 09/03/2026; segundo contrato com a Viking Participações
+  em maio de 2025 (R$ 50 milhões), segundo o Poder360.
+why_in_novelo: Manteve contrato de honorários de grande valor com o Banco Master, documentado nos autos
+  tornados públicos pelo STF.
+cited_position:
+- date: '2026-03-09'
+  by_id: barci-de-moraes-sociedade-de-advogados
+  kind: clarification
+  summary: Nota de 09/03/2026 detalhando 94 reuniões, 36 pareceres e a não atuação perante o STF.
+  source_ids:
+  - src-poder360-2026-03-09-nota-barci
+open_questions: []
+source_ids:
+- src-poder360-2026-03-09-nota-barci
+- src-poder360-2026-09-01-integras-pet-16662
+full_name: Barci de Moraes Sociedade de Advogados
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

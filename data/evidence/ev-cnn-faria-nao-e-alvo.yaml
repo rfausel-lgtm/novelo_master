@@ -1,0 +1,14 @@
+id: ev-cnn-faria-nao-e-alvo
+kind: evidence
+classification: A
+proposition: Segundo a CNN Brasil, Fábio Faria não é alvo da investigação da PF, e o relatório não conclui
+  que tenha cometido crime.
+document_ids: []
+source_ids:
+- src-cnn-2026-09-fabio-faria-pf
+attributed_to: CNN Brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

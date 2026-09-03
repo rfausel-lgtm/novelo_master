@@ -1,0 +1,25 @@
+id: doc-2026-03-06-nota-gabinete-moraes
+kind: document
+title: Nota do gabinete do ministro Alexandre de Moraes divulgada pela Secretaria de Comunicação do STF
+  (06/03/2026)
+doc_type: public_statement
+date: '2026-03-06'
+issuer_id: alexandre-de-moraes
+issuer: Gabinete do ministro Alexandre de Moraes / Secom STF
+source_ids:
+- src-poder360-2026-03-06-moraes-nega
+summary: 'Nega que Vorcaro tenha enviado mensagens ao ministro em 17/11/2025: ''análise técnica'' nos
+  dados tornados públicos pela CPMI do INSS teria constatado que as mensagens de visualização única ''não
+  conferem com os contatos do ministro''.'
+is_official: true
+related_entity_ids:
+- alexandre-de-moraes
+- daniel-vorcaro
+excerpt: Análise técnica realizada nos dados telemáticos de Daniel Vorcaro, tornados públicos pela CPMI
+  do INSS, constatou que as mensagens de visualização única enviadas por ele no dia 17 de novembro de
+  2025 não conferem com os contatos do ministro Alexandre de Moraes nos arquivos apreendidos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

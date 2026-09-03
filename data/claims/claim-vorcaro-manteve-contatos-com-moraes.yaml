@@ -1,0 +1,56 @@
+id: claim-vorcaro-manteve-contatos-com-moraes
+kind: claim
+statement: Daniel Vorcaro manteve contatos e encontros com o ministro Alexandre de Moraes entre dezembro
+  de 2023 e novembro de 2025, intermediados inicialmente por Fábio Faria.
+classification: A
+status: disputed
+claimant_id: policia-federal
+claimant: Polícia Federal (IPJ-A 3298613/2026), conforme reportagens
+date: '2026-09-01'
+related_entity_ids:
+- daniel-vorcaro
+- alexandre-de-moraes
+- fabio-faria
+event_ids:
+- evt-2023-12-26-faria-compartilha-contato-moraes
+- evt-2025-11-17-mensagens-visualizacao-unica-contato-moraes
+- evt-2026-09-01-mendonca-levanta-sigilo-pet-16662
+evidence_ids:
+- ev-ipja-faria-compartilha-contato-moraes-2023-12-26
+- ev-pf-encontros-vorcaro-moraes
+- ev-ipja-mensagens-visualizacao-unica-2025-11-17
+- ev-nota-moraes-nega-mensagens
+source_ids:
+- src-congressoemfoco-2026-09-01-relatorio-pf
+- src-cnn-2026-09-fabio-faria-pf
+- src-poder360-2026-03-06-moraes-nega
+limits: 'O relatório documenta o que há no celular de Vorcaro: contato salvo com o nome do ministro, mensagens
+  enviadas a esse contato e referências a encontros em conversas com terceiros. Não demonstra a titularidade
+  da linha, o teor de eventuais conversas do ministro nem qualquer ato do ministro em favor do banqueiro.
+  A PF não fez diligências contra magistrados e o relatório não conclui pela prática de crime. O gabinete
+  do ministro nega ser o destinatário das mensagens. A matéria será analisada pelo Plenário do STF.'
+counter_position:
+- date: '2026-03-06'
+  by_id: alexandre-de-moraes
+  kind: denial
+  summary: 'Nota do gabinete: as mensagens de 17/11/2025 ''não conferem com os contatos do ministro''.'
+  source_ids:
+  - src-poder360-2026-03-06-moraes-nega
+- by_id: fabio-faria
+  kind: clarification
+  summary: 'Faria: apenas sugeriu o escritório para um caso em São Paulo.'
+  source_ids:
+  - src-cnn-2026-09-fabio-faria-pf
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: Verificou-se que a proposição depende da atribuição do número ao ministro, feita
+    pelo próprio banqueiro (nome do contato) e pela PF; a negativa do gabinete é anterior ao levantamento
+    do sigilo e trata especificamente das mensagens de 17/11/2025. Nenhuma fonte primária no corpus registra
+    manifestação do ministro sobre os encontros. Classificação A e status disputed mantidos.
+  outcome: disputed
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

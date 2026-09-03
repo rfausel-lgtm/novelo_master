@@ -1,0 +1,28 @@
+id: ato-2026-05-26-decisao-pet-15676
+kind: public_act
+title: 'Decisão na PET 15676: busca e apreensão na 8ª fase (RioPrevidência)'
+act_type: judicial
+date: '2026-05-26'
+date_precision: day
+issuer_id: andre-mendonca
+actor_ids:
+- andre-mendonca
+affected_ids:
+- claudio-castro
+- rioprevidencia
+description: Autorização de busca e apreensão na casa de Cláudio Castro, de ex-dirigentes da RioPrevidência
+  e em duas empresas apontadas como intermediadoras.
+reference: PET 15676
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-busca-castro-2026-05-26
+source_ids:
+- src-stf-2026-05-26-oitava-fase-castro
+document_ids:
+- doc-2026-05-26-decisao-pet-15676-castro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,24 @@
+id: rel-paulo-gonet-ministerio-publico-federal-institutional
+kind: relationship
+from_id: paulo-gonet
+to_id: ministerio-publico-federal
+relationship_type: institutional
+directed: false
+label: procurador-geral da República
+description: Chefia o Ministério Público Federal como PGR; a PGR manifestou-se nas fases da Compliance
+  Zero.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids:
+- ev-stf-prisao-paulo-henrique-costa-2026-04-16
+source_ids:
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+document_ids:
+- doc-2026-04-16-decisao-pet-15771-prisao-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

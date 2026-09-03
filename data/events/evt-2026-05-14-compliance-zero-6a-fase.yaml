@@ -1,0 +1,33 @@
+id: evt-2026-05-14-compliance-zero-6a-fase
+kind: event
+title: '6ª fase da Compliance Zero: prisão preventiva de Henrique Vorcaro e outros'
+event_type: judicial_decision
+date: '2026-05-14'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- supremo-tribunal-federal
+- policia-federal
+- ministerio-publico-federal
+- henrique-vorcaro
+- daniel-vorcaro
+description: Na Pet 15978, o relator decretou a prisão preventiva de Henrique Vorcaro e de outros seis
+  investigados dos núcleos 'A Turma' e 'Os Meninos', afastou uma delegada e um agente da PF suspeitos
+  de repassar dados do e-Pol e impôs cautelares; todas as medidas com parecer favorável do MPF. Segundo
+  a PF, Henrique seria o principal operador financeiro do grupo.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-prisao-henrique-vorcaro-2026-05-14
+- ev-pf-henrique-operador-financeiro
+source_ids:
+- src-stf-2026-05-14-sexta-fase
+document_ids:
+- doc-2026-05-14-decisao-pet-15978-sexta-fase
+public_act_ids:
+- ato-2026-05-14-decisao-pet-15978
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

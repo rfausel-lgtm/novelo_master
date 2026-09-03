@@ -1,0 +1,20 @@
+id: ev-ipja-faria-compartilha-contato-moraes-2023-12-26
+kind: evidence
+classification: D
+proposition: O relatório da PF (IPJ-A 3298613/2026) registra que, em 26/12/2023, uma hora após chegar
+  ao local de um segundo encontro, Fábio Faria compartilhou com Daniel Vorcaro um contato denominado 'Alexandre
+  de Moraes BRASILIA', salvo em seguida na agenda do banqueiro.
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+source_ids:
+- src-poder360-2026-09-01-sigilo-pet-16662
+- src-cnn-2026-09-fabio-faria-pf
+excerpt: Uma hora após chegar ao local do segundo encontro, FABIO FARIA compartilha o contato denominado
+  'Alexandre de Moraes BRASILIA' para DANIEL BUENO VORCARO.
+date: '2023-12-26'
+locator: Figuras 18 e 19
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

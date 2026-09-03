@@ -1,0 +1,37 @@
+id: rel-banco-master-barci-de-moraes-contractual
+kind: relationship
+from_id: banco-master
+to_id: barci-de-moraes-sociedade-de-advogados
+relationship_type: contractual
+directed: true
+label: contrato de honorários (2024-2025)
+start_date: 2024-01
+end_date: 2025-11
+description: Contrato de prestação de serviços e honorários advocatícios firmado em janeiro de 2024 (documento
+  público na PET 16.662), com serviços de fevereiro de 2024 a novembro de 2025 segundo a nota do escritório;
+  R$ 108 milhões líquidos em 36 meses, segundo o Poder360.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids:
+- evt-2024-01-contrato-barci-de-moraes-banco-master
+evidence_ids:
+- ev-contrato-barci-master-2024-01
+- ev-nota-barci-servicos-prestados
+source_ids:
+- src-poder360-2026-09-01-integras-pet-16662
+- src-poder360-2026-03-09-nota-barci
+document_ids:
+- doc-2024-01-contrato-barci-de-moraes-banco-master
+cited_position:
+- date: '2026-03-09'
+  by_id: barci-de-moraes-sociedade-de-advogados
+  kind: clarification
+  summary: 94 reuniões, 36 pareceres; sem atuação perante o STF.
+  source_ids:
+  - src-poder360-2026-03-09-nota-barci
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

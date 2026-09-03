@@ -1,0 +1,30 @@
+id: evt-2026-03-12-zanin-rejeita-cpi
+kind: event
+title: Zanin rejeita pedido para obrigar a instalação da CPI do Banco Master
+event_type: judicial_decision
+date: '2026-03-12'
+date_precision: day
+participant_ids:
+- cristiano-zanin
+- supremo-tribunal-federal
+- rodrigo-rollemberg
+- hugo-motta
+- camara-dos-deputados
+description: No MS 40791, o ministro concluiu não haver elementos suficientes para comprovar omissão ilegal
+  da presidência da Câmara e que a questão deve ser resolvida no Legislativo. O MS fora inicialmente sorteado
+  a Dias Toffoli, que declarou suspeição.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-zanin-rejeita-cpi-2026-03-12
+source_ids:
+- src-stf-2026-03-12-rejeita-cpi
+document_ids:
+- doc-2026-03-12-decisao-zanin-ms-40791
+public_act_ids:
+- ato-2026-03-12-decisao-ms-40791
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

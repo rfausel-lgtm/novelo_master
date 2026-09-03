@@ -1,0 +1,27 @@
+id: evt-2026-02-02-requerimento-cpi-banco-master-camara
+kind: event
+title: Requerimento de CPI do Banco Master e do BRB é protocolado na Câmara
+event_type: public_act
+date: '2026-02-02'
+date_precision: day
+participant_ids:
+- camara-dos-deputados
+- rodrigo-rollemberg
+- hugo-motta
+description: Segundo comunicação oficial do STF, o requerimento de criação da CPI foi protocolado em 02/02/2026
+  com 201 assinaturas, acima do mínimo constitucional; Rollemberg alegou que a presidência da Câmara adiava
+  a instalação; Motta declarou haver fila de requerimentos anteriores.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-requerimento-cpi-2026-02-02
+source_ids:
+- src-stf-2026-03-12-rejeita-cpi
+document_ids:
+- doc-2026-03-12-decisao-zanin-ms-40791
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

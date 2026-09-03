@@ -1,0 +1,26 @@
+id: henrique-vorcaro
+kind: person
+name: Henrique Vorcaro
+category: businessperson
+role: Pai de Daniel Vorcaro; apontado pela PF como operador financeiro do grupo investigado
+positions: []
+summary: Pai de Daniel Vorcaro. Teve prisão preventiva decretada pelo STF em 14/05/2026 (Pet 15978, 6ª
+  fase da Compliance Zero), mantida pela Segunda Turma em 16/06/2026 por maioria. Segundo a PF, seria
+  o principal operador financeiro e responsável por repassar ao grupo as ordens do filho.
+why_in_novelo: Teve prisão preventiva decretada e mantida pelo STF na 6ª fase da Operação Compliance Zero,
+  sendo descrito pela Polícia Federal como operador financeiro do grupo investigado.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A posição da defesa de Henrique Vorcaro não foi localizada em fonte verificada do corpus; o ministro
+  Gilmar Mendes propôs prisão domiciliar em divergência parcial.
+source_ids:
+- src-stf-2026-05-14-sexta-fase
+- src-stf-2026-06-16-pai-e-primo
+full_name: Henrique Moura Vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

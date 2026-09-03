@@ -1,0 +1,31 @@
+id: paulo-gonet
+kind: person
+name: Paulo Gonet
+category: prosecutor
+role: Procurador-Geral da República
+positions:
+- title: Procurador-Geral da República
+  organization_id: ministerio-publico-federal
+  source_ids:
+  - src-stf-2026-04-16-prisao-ex-presidente-brb
+summary: Procurador-Geral da República. O relatório da PF sobre o celular de Vorcaro contém seção de pesquisa
+  pelos termos 'Paulo Gonet' e identifica menções, em conversas do banqueiro com terceiros, a pessoa que
+  'pode se tratar' do PGR. A PGR manifestou-se favoravelmente a medidas nas fases da Compliance Zero.
+  O relatório não conclui pela prática de crime.
+why_in_novelo: É mencionado em relatório da Polícia Federal sobre o celular de Daniel Vorcaro e chefia
+  o órgão que se manifestou nas fases da Operação Compliance Zero.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A posição pública de Gonet sobre as menções no relatório da PF não foi localizada em fonte verificada
+  do corpus.
+source_ids:
+- src-poder360-2026-09-01-sigilo-pet-16662
+- src-congressoemfoco-2026-09-01-relatorio-pf
+full_name: Paulo Gustavo Gonet Branco
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

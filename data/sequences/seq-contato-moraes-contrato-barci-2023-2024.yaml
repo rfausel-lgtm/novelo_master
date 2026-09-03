@@ -1,0 +1,33 @@
+id: seq-contato-moraes-contrato-barci-2023-2024
+kind: temporal_sequence
+title: Compartilhamento do contato, contrato com o escritório Barci de Moraes e cobrança de pagamento
+  (dez/2023 a mar/2024)
+step_ids:
+- evt-2023-12-26-faria-compartilha-contato-moraes
+- evt-2024-01-contrato-barci-de-moraes-banco-master
+- evt-2024-03-15-cobranca-pagamento-escritorio-barci
+temporal_proximity: high
+documentary_link: partial
+causality_proven: false
+description: 'Em 26/12/2023 Fábio Faria compartilha com Vorcaro o contato salvo como ''Alexandre de Moraes
+  BRASILIA''; em janeiro de 2024 o Banco Master contrata o escritório de Viviane Barci de Moraes, com
+  Faria tratando do prazo com o banqueiro; em 15/03/2024 Faria cobra o pagamento e Vorcaro o trata como
+  prioritário. Os três passos estão no mesmo documento (relatório da PF), o que constitui nexo documental
+  parcial: o documento liga as pessoas e as datas, não os motivos.'
+limits: A sequência mostra proximidade temporal e um intermediário comum. Não demonstra que o contrato
+  tenha sido celebrado em razão dos contatos com o ministro, nem que o ministro tenha praticado qualquer
+  ato; o escritório afirma ter prestado serviços extensos e o gabinete do ministro nega comunicação com
+  o banqueiro.
+source_ids:
+- src-cnn-2026-09-fabio-faria-pf
+- src-poder360-2026-09-01-integras-pet-16662
+- src-poder360-2026-03-09-nota-barci
+evidence_ids:
+- ev-ipja-faria-compartilha-contato-moraes-2023-12-26
+- ev-contrato-barci-master-2024-01
+- ev-ipja-cobranca-pagamento-2024-03-15
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,20 @@
+id: nelson-tanure
+kind: person
+name: Nelson Tanure
+category: businessperson
+role: Empresário
+positions: []
+summary: Empresário. Em 14/01/2026 o STF (relator Dias Toffoli) deferiu busca pessoal em Tanure na investigação
+  sobre o Banco Master, conforme comunicação oficial do tribunal.
+why_in_novelo: Foi alvo de busca pessoal deferida pelo STF em fase da investigação sobre o Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-stf-2026-01-14-novas-diligencias-toffoli
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

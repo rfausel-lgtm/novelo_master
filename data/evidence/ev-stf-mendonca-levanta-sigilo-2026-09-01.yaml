@@ -1,0 +1,15 @@
+id: ev-stf-mendonca-levanta-sigilo-2026-09-01
+kind: evidence
+classification: C
+proposition: Em 01/09/2026 André Mendonça retirou o sigilo da PET 16.662 e afirmou que os novos elementos
+  apresentados pela PF seriam analisados pelo Plenário do STF.
+document_ids: []
+source_ids:
+- src-poder360-2026-09-01-sigilo-pet-16662
+- src-congressoemfoco-2026-09-01-relatorio-pf
+date: '2026-09-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

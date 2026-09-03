@@ -1,0 +1,33 @@
+id: evt-2026-09-01-mendonca-levanta-sigilo-pet-16662
+kind: event
+title: Mendonça retira o sigilo da PET 16.662 e torna público o relatório da PF sobre o celular de Vorcaro
+event_type: judicial_decision
+date: '2026-09-01'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- supremo-tribunal-federal
+- policia-federal
+- daniel-vorcaro
+- alexandre-de-moraes
+description: O relator retirou o sigilo da PET 16.662, aberta após a PF apresentar (ofício de 27/08/2026)
+  novas informações sobre suposta rede de influência atribuída a Vorcaro, e afirmou que os elementos seriam
+  analisados pelo Plenário. Tornaram-se públicos o relatório IPJ-A 3298613/2026, a íntegra das conversas
+  com o contato 'Alexandre de Moraes BRASILIA' e os contratos do escritório Barci de Moraes. Segundo o
+  Poder360, o despacho não cita Moraes nominalmente; a identificação do interlocutor foi feita pela imprensa.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-stf-mendonca-levanta-sigilo-2026-09-01
+source_ids:
+- src-poder360-2026-09-01-sigilo-pet-16662
+- src-congressoemfoco-2026-09-01-relatorio-pf
+- src-poder360-2026-09-01-integras-pet-16662
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

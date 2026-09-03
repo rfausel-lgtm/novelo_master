@@ -1,0 +1,26 @@
+id: seq-emenda-fgc-e-investigacao
+kind: temporal_sequence
+title: Emenda nº 11 à PEC 65/2023 (ago/2024) e fase da Compliance Zero sobre Ciro Nogueira (mai/2026)
+step_ids:
+- evt-2024-08-emenda-11-pec-65-fgc
+- evt-2026-05-07-compliance-zero-fase-ciro-nogueira
+temporal_proximity: low
+documentary_link: present
+causality_proven: false
+description: A emenda que ampliava a cobertura do FGC foi apresentada em agosto de 2024 e rejeitada pelo
+  relator; em maio de 2026 a PF, com autorização do STF, passou a investigar se o texto teria sido elaborado
+  pela assessoria do Banco Master. O nexo documental existe (a decisão do STF cita a emenda), mas a autoria
+  do texto é alegação da PF.
+limits: Não se conclui que a emenda tenha sido escrita pelo banco nem que o senador tenha recebido vantagem
+  por ela; ambas são hipóteses investigativas sob apuração, sem julgamento de mérito.
+source_ids:
+- src-poder360-2026-05-07-emenda-fgc
+- src-stf-2026-05-07-nova-fase-ciro-nogueira
+evidence_ids:
+- ev-poder360-emenda-11-pec-65-2024-08
+- ev-pf-emenda-pec-65-fgc-ciro-nogueira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

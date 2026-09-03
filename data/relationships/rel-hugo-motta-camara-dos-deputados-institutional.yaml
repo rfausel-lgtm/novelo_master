@@ -1,0 +1,23 @@
+id: rel-hugo-motta-camara-dos-deputados-institutional
+kind: relationship
+from_id: hugo-motta
+to_id: camara-dos-deputados
+relationship_type: institutional
+directed: false
+label: presidente
+description: Preside a Câmara dos Deputados, conforme comunicação oficial do STF.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids:
+- ev-stf-zanin-rejeita-cpi-2026-03-12
+source_ids:
+- src-stf-2026-03-12-rejeita-cpi
+document_ids:
+- doc-2026-03-12-decisao-zanin-ms-40791
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

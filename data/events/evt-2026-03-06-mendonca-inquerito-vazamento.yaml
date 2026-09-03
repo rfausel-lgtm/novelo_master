@@ -1,0 +1,28 @@
+id: evt-2026-03-06-mendonca-inquerito-vazamento
+kind: event
+title: Mendonça determina inquérito sobre vazamento de mensagens do celular de Vorcaro
+event_type: judicial_decision
+date: '2026-03-06'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- supremo-tribunal-federal
+- daniel-vorcaro
+- cpmi-do-inss
+description: Na PET 15612, a pedido da defesa de Vorcaro, o relator determinou a abertura de inquérito
+  para apurar o vazamento de mensagens extraídas dos celulares do banqueiro, ressalvando o sigilo da fonte
+  jornalística. Registrou que em 20/02/2026 determinara a devolução à CPMI do INSS dos dados obtidos por
+  quebras decretadas pela própria comissão e que as investigações são autônomas.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-mendonca-inquerito-vazamento-2026-03-06
+source_ids:
+- src-stf-2026-03-06-inquerito-vazamento
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

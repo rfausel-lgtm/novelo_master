@@ -1,0 +1,26 @@
+id: plinio-valerio
+kind: person
+name: Plínio Valério
+category: politician
+role: Senador (PSDB-AM), relator da PEC 65/2023
+positions:
+- title: Senador
+  organization_id: senado-federal
+  source_ids:
+  - src-senado-pec-65-2023-materia
+summary: Senador pelo Amazonas, relator da PEC 65/2023 (autonomia do Banco Central). Segundo o Poder360,
+  rejeitou a Emenda nº 11, de Ciro Nogueira, que ampliava a cobertura do FGC; a emenda não avançou.
+why_in_novelo: É o relator da PEC 65/2023, à qual foi apresentada a emenda sobre o FGC citada pela Polícia
+  Federal.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-senado-pec-65-2023-materia
+- src-poder360-2026-05-07-emenda-fgc
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

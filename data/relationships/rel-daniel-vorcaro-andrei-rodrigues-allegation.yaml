@@ -1,0 +1,31 @@
+id: rel-daniel-vorcaro-andrei-rodrigues-allegation
+kind: relationship
+from_id: daniel-vorcaro
+to_id: andrei-rodrigues
+relationship_type: investigative_allegation
+directed: false
+label: menções em notas e mensagens (segundo a PF)
+description: O relatório da PF contém seção de pesquisa por 'Andrei Passos' e identifica notas e mensagens
+  de Vorcaro que 'podem indicar' referência ao diretor-geral da PF, inclusive sobre convite a evento ('Ministro
+  fez convite ao andrei PF'). Não há registro de comunicação direta no material lido; o relatório não
+  conclui pela prática de crime. Posição de Andrei Rodrigues não localizada.
+evidence_class: A
+confidence: 0.4
+status: unverified
+event_ids:
+- evt-2026-09-01-mendonca-levanta-sigilo-pet-16662
+evidence_ids:
+- ev-pf-encontros-vorcaro-moraes
+source_ids:
+- src-poder360-2026-09-01-sigilo-pet-16662
+- src-congressoemfoco-2026-09-01-relatorio-pf
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+cited_position:
+- kind: not_located
+  summary: Posição pública de Andrei Rodrigues não localizada em fonte verificada do corpus.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

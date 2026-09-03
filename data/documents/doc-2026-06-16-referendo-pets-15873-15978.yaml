@@ -1,0 +1,25 @@
+id: doc-2026-06-16-referendo-pets-15873-15978
+kind: document
+title: Referendo da Segunda Turma às prisões de Henrique e Felipe Vorcaro (PETs 15873 e 15978), conforme
+  comunicação oficial do STF
+doc_type: judicial_decision
+date: '2026-06-16'
+issuer_id: supremo-tribunal-federal
+issuer: Segunda Turma do STF
+source_ids:
+- src-stf-2026-06-16-pai-e-primo
+summary: Por maioria, mantidas as prisões preventivas; Gilmar Mendes divergiu parcialmente propondo medidas
+  alternativas; Toffoli não participou por suspeição.
+is_official: true
+related_entity_ids:
+- supremo-tribunal-federal
+- henrique-vorcaro
+- felipe-cancado-vorcaro
+- gilmar-mendes
+url: https://noticias.stf.jus.br/postsnoticias/stf-confirma-prisao-preventiva-de-pai-e-primo-de-daniel-vorcaro/
+reference: PET 15873 / PET 15978
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

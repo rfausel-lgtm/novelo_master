@@ -1,0 +1,23 @@
+id: rel-davi-alcolumbre-senado-federal-institutional
+kind: relationship
+from_id: davi-alcolumbre
+to_id: senado-federal
+relationship_type: institutional
+directed: false
+label: senador
+description: Exerce mandato de senador e é coautor da PEC 65/2023, conforme o registro oficial do Senado.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids:
+- ev-senado-pec-65-autoria-e-relatoria
+source_ids:
+- src-senado-pec-65-2023-materia
+document_ids:
+- doc-2023-11-27-pec-65-2023-senado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

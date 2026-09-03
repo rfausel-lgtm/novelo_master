@@ -1,0 +1,27 @@
+id: rel-rioprevidencia-banco-master-financial
+kind: relationship
+from_id: rioprevidencia
+to_id: banco-master
+relationship_type: financial
+directed: true
+label: aportes em fundos e letras financeiras (segundo a PGR, cerca de R$ 3,7 bi)
+description: Segundo a PGR, conforme comunicação oficial do STF, a RioPrevidência aportou cerca de R$
+  3,7 bilhões em fundos e letras financeiras do Banco Master; a PF sustenta que as aplicações contrariaram
+  pareceres técnicos. A existência de investimentos é objeto de investigação oficial; os valores exatos
+  e sua regularidade não foram verificados pela equipe.
+evidence_class: A
+confidence: 0.6
+status: unverified
+event_ids:
+- evt-2026-05-26-compliance-zero-8a-fase-rioprevidencia
+evidence_ids:
+- ev-pf-castro-proximidade-vorcaro
+- ev-stf-busca-castro-2026-05-26
+source_ids:
+- src-stf-2026-05-26-oitava-fase-castro
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,31 @@
+id: andrei-rodrigues
+kind: person
+name: Andrei Rodrigues
+category: police
+role: Diretor-Geral da Polícia Federal
+positions:
+- title: Diretor-Geral
+  organization_id: policia-federal
+  source_ids:
+  - src-poder360-2026-09-01-sigilo-pet-16662
+summary: Diretor-Geral da Polícia Federal. O relatório da PF sobre o celular de Vorcaro contém seção de
+  pesquisa pelos termos 'Andrei Passos' e identifica notas e mensagens do banqueiro que 'podem indicar'
+  referência ao diretor-geral, inclusive sobre convite a evento. O relatório não conclui pela prática
+  de crime.
+why_in_novelo: É mencionado em relatório da Polícia Federal sobre o celular de Daniel Vorcaro e dirige
+  o órgão que conduz a Operação Compliance Zero.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A posição pública de Andrei Rodrigues sobre as menções no relatório não foi localizada em fonte verificada
+  do corpus.
+source_ids:
+- src-poder360-2026-09-01-sigilo-pet-16662
+- src-congressoemfoco-2026-09-01-relatorio-pf
+full_name: Andrei Augusto Passos Rodrigues
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

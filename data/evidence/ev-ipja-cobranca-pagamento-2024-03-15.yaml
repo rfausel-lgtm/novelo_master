@@ -1,0 +1,18 @@
+id: ev-ipja-cobranca-pagamento-2024-03-15
+kind: evidence
+classification: D
+proposition: O relatório da PF registra que em 15/03/2024 Fábio Faria escreveu a Vorcaro 'O careca não
+  pode atrasar' e que, imediatamente após, Vorcaro determinou a Angelo Silva o pagamento do contrato com
+  o escritório Barci de Moraes.
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+source_ids:
+- src-cnn-2026-09-fabio-faria-pf
+excerpt: Imediatamente após a cobrança de FABIO FARIA, DANIEL VORCARO envia mensagem para ANGELO SILVA
+date: '2024-03-15'
+locator: Figuras 150 e 151
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

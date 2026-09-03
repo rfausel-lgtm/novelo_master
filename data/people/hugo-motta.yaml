@@ -1,0 +1,31 @@
+id: hugo-motta
+kind: person
+name: Hugo Motta
+category: politician
+role: Presidente da Câmara dos Deputados
+positions:
+- title: Presidente
+  organization_id: camara-dos-deputados
+  source_ids:
+  - src-stf-2026-03-12-rejeita-cpi
+summary: Presidente da Câmara dos Deputados. No MS 40791, o deputado Rodrigo Rollemberg alegou omissão
+  de Motta na instalação da CPI do Banco Master (requerimento de 02/02/2026 com 201 assinaturas); o STF
+  rejeitou o pedido em 12/03/2026 por falta de prova de omissão ilegal.
+why_in_novelo: Foi apontado como autoridade coatora em mandado de segurança sobre a instalação da CPI
+  do Banco Master, rejeitado pelo STF.
+cited_position:
+- kind: version
+  summary: Segundo a comunicação oficial do STF, Motta declarou à imprensa que não seria possível instalar
+    a CPI naquele momento por haver fila de requerimentos anteriores (cerca de 15).
+  source_ids:
+  - src-stf-2026-03-12-rejeita-cpi
+open_questions: []
+source_ids:
+- src-stf-2026-03-12-rejeita-cpi
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Hugo_Motta
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

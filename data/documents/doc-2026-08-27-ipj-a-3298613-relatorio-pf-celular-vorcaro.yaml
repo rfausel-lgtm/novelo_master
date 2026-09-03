@@ -1,0 +1,37 @@
+id: doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+kind: document
+title: 'IPJ-A nº 3298613/2026: Informação de Polícia Judiciária de Análise do celular de Daniel Vorcaro
+  (Polícia Federal)'
+doc_type: forensic_extract
+date: '2026-08-27'
+issuer_id: policia-federal
+issuer: Polícia Federal (NADIP/DFIN/CGRC/DICOR)
+source_ids:
+- src-poder360-2026-09-01-sigilo-pet-16662
+- src-poder360-2026-09-01-integras-pet-16662
+summary: 'Relatório de 218 páginas, destinado ao ministro André Mendonça e datado de 27/08/2026, com a
+  análise do iPhone apreendido de Daniel Vorcaro (Laudo 4281/2025-SETEC/SR/PF/SP). Documenta mensagens
+  e arquivos: compartilhamento, por Fábio Faria, de contato salvo como ''Alexandre de Moraes BRASILIA''
+  em 26/12/2023; tratativas e cobranças sobre o contrato com o escritório Barci de Moraes; mensagens de
+  visualização única enviadas ao contato em 17/11/2025; pesquisas por termos ''Paulo Gonet'' e ''Andrei
+  Passos''. Tornado público com o levantamento do sigilo da PET 16.662 em 01/09/2026. Lido parcialmente
+  (cabeçalho e trechos-chave) pela equipe editorial.'
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- fabio-faria
+- alexandre-de-moraes
+- viviane-barci-de-moraes
+- barci-de-moraes-sociedade-de-advogados
+- paulo-gonet
+- andrei-rodrigues
+- policia-federal
+url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
+reference: IPJ-A 3298613/2026 / PET 16662
+excerpt: Uma hora após chegar ao local do segundo encontro, FABIO FARIA compartilha o contato denominado
+  'Alexandre de Moraes BRASILIA' para DANIEL BUENO VORCARO.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,29 @@
+id: evt-2024-03-15-cobranca-pagamento-escritorio-barci
+kind: event
+title: Cobrança de pagamento ao escritório Barci de Moraes ('O careca não pode atrasar')
+event_type: communication
+date: '2024-03-15'
+date_precision: day
+participant_ids:
+- fabio-faria
+- daniel-vorcaro
+- barci-de-moraes-sociedade-de-advogados
+description: Segundo o relatório da PF, em 15/03/2024 Fábio Faria escreveu a Vorcaro 'O careca não pode
+  atrasar'; imediatamente após, Vorcaro determinou a Angelo Silva o pagamento do contrato com o escritório
+  Barci de Moraes e, minutos depois, disse a uma funcionária que o pagamento era 'o pgto mais importante
+  que temos'. A CNN relata registro de transferência de R$ 3.422.268,14 em seguida. A identidade de 'o
+  careca' é interpretação da PF/imprensa.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-ipja-cobranca-pagamento-2024-03-15
+source_ids:
+- src-cnn-2026-09-fabio-faria-pf
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

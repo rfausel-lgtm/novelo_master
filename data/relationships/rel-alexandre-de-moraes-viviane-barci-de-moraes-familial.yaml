@@ -1,0 +1,23 @@
+id: rel-alexandre-de-moraes-viviane-barci-de-moraes-familial
+kind: relationship
+from_id: alexandre-de-moraes
+to_id: viviane-barci-de-moraes
+relationship_type: familial
+directed: false
+label: cônjuges
+description: Viviane Barci de Moraes é esposa do ministro Alexandre de Moraes, conforme múltiplas fontes
+  de imprensa.
+evidence_class: C
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-cnn-2025-12-contrato-129-milhoes
+- src-poder360-2026-03-09-nota-barci
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

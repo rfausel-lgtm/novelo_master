@@ -1,0 +1,29 @@
+id: davi-alcolumbre
+kind: person
+name: Davi Alcolumbre
+category: politician
+role: Senador (União-AP), presidente do Senado Federal
+positions:
+- title: Senador
+  organization_id: senado-federal
+  source_ids:
+  - src-senado-pec-65-2023-materia
+summary: Senador pelo Amapá e presidente do Senado. Consta entre os coautores da PEC 65/2023, conforme
+  a página oficial da matéria.
+why_in_novelo: Preside o Senado e é coautor da PEC 65/2023, matéria à qual foi apresentada a emenda sobre
+  o FGC citada pela Polícia Federal.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O corpus ainda não registra atos de Alcolumbre relacionados à CPMI do Banco Master; a pesquisa está
+  pendente.
+source_ids:
+- src-senado-pec-65-2023-materia
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Davi_Alcolumbre
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

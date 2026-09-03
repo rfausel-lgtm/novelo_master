@@ -1,0 +1,46 @@
+id: viviane-barci-de-moraes
+kind: person
+name: Viviane Barci de Moraes
+category: lawyer
+role: Advogada, titular do escritório Barci de Moraes Sociedade de Advogados
+positions:
+- title: Sócia titular
+  organization_id: barci-de-moraes-sociedade-de-advogados
+  source_ids:
+  - src-poder360-2026-03-09-nota-barci
+summary: Advogada, esposa do ministro Alexandre de Moraes. Seu escritório firmou contrato de prestação
+  de serviços com o Banco Master em janeiro de 2024 (R$ 108 milhões líquidos em 36 meses, segundo os documentos
+  da PET 16.662), vigente de fevereiro de 2024 até a liquidação em novembro de 2025. Em nota de 09/03/2026
+  o escritório detalhou 94 reuniões e 36 pareceres e afirmou não ter atuado perante o STF em causas do
+  banco.
+why_in_novelo: Seu escritório manteve contrato de honorários de grande valor com o Banco Master, documentado
+  nos autos tornados públicos pelo STF, e apresentou nota pública detalhando os serviços.
+cited_position:
+- date: '2026-03-09'
+  by_id: barci-de-moraes-sociedade-de-advogados
+  kind: clarification
+  summary: 'Nota do escritório: contratado entre fevereiro de 2024 e novembro de 2025 para ampla consultoria
+    e atuação jurídica, com 15 advogados e três escritórios terceirizados; 94 reuniões e 36 pareceres;
+    não atuou perante o STF em causas do banco.'
+  source_ids:
+  - src-poder360-2026-03-09-nota-barci
+- date: '2026-03-07'
+  by_id: viviane-barci-de-moraes
+  kind: denial
+  summary: Segundo o Poder360, Viviane divulgou nota em 07/03/2026 negando ter recebido as mensagens de
+    Vorcaro de 17/11/2025.
+  source_ids:
+  - src-poder360-2026-03-09-nota-barci
+open_questions:
+- O corpus não contém o valor efetivamente pago; a imprensa cita R$ 80,2 milhões (Receita Federal, via
+  CPI) sem que a equipe tenha lido o documento de origem.
+- A relação entre os serviços descritos na nota e o objeto contratual não foi avaliada pela equipe.
+source_ids:
+- src-poder360-2026-03-09-nota-barci
+- src-poder360-2026-09-01-integras-pet-16662
+- src-cnn-2025-12-contrato-129-milhoes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

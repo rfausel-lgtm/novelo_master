@@ -1,0 +1,29 @@
+id: ato-2026-03-12-decisao-ms-40791
+kind: public_act
+title: 'Decisão no MS 40791: STF rejeita pedido de instalação da CPI do Banco Master'
+act_type: judicial
+date: '2026-03-12'
+date_precision: day
+issuer_id: cristiano-zanin
+actor_ids:
+- cristiano-zanin
+affected_ids:
+- camara-dos-deputados
+- hugo-motta
+- rodrigo-rollemberg
+description: Decisão monocrática rejeitando o pedido de Rodrigo Rollemberg por falta de prova de omissão
+  ilegal da presidência da Câmara.
+reference: MS 40791
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-zanin-rejeita-cpi-2026-03-12
+source_ids:
+- src-stf-2026-03-12-rejeita-cpi
+document_ids:
+- doc-2026-03-12-decisao-zanin-ms-40791
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

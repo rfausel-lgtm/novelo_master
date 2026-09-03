@@ -1,0 +1,22 @@
+id: rioprevidencia
+kind: organization
+name: RioPrevidência
+aliases: []
+org_type: public_body
+summary: Autarquia responsável pela gestão e pagamento das aposentadorias e pensões dos servidores do
+  Estado do Rio de Janeiro. Segundo comunicação oficial do STF, a PF investiga aportes de cerca de R$
+  3,7 bilhões da autarquia em fundos e letras financeiras do Banco Master.
+why_in_novelo: Seus aportes em produtos do Banco Master são objeto da 8ª fase da Operação Compliance Zero,
+  segundo comunicação oficial do STF.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-stf-2026-05-26-oitava-fase-castro
+full_name: Fundo Único de Previdência Social do Estado do Rio de Janeiro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

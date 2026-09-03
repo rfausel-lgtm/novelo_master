@@ -1,0 +1,27 @@
+id: doc-2026-05-26-decisao-pet-15676-castro
+kind: document
+title: 'Decisão do relator na PET 15676 (8ª fase: RioPrevidência e Cláudio Castro), conforme comunicação
+  oficial do STF'
+doc_type: judicial_decision
+date: '2026-05-26'
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça (STF)
+source_ids:
+- src-stf-2026-05-26-oitava-fase-castro
+summary: Busca e apreensão na casa de Cláudio Castro e de ex-dirigentes da RioPrevidência e nas empresas
+  Mídias Promotora e Planner Corretora; a PF aponta proximidade pessoal entre Castro e Vorcaro e aportes
+  de cerca de R$ 3,7 bilhões da autarquia em produtos do Master, segundo a PGR.
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- claudio-castro
+- rioprevidencia
+- banco-master
+- daniel-vorcaro
+url: https://noticias.stf.jus.br/postsnoticias/caso-master-stf-autoriza-busca-e-apreensao-na-casa-do-ex-governador-do-rj/
+reference: PET 15676
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

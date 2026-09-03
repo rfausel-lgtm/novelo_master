@@ -1,0 +1,25 @@
+id: rel-viviane-barci-de-moraes-barci-de-moraes-corporate
+kind: relationship
+from_id: viviane-barci-de-moraes
+to_id: barci-de-moraes-sociedade-de-advogados
+relationship_type: corporate
+directed: false
+label: sócia titular
+description: Viviane Barci de Moraes é a titular do escritório, conforme a nota do próprio escritório
+  e o contrato tornado público.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids:
+- ev-nota-barci-servicos-prestados
+- ev-contrato-barci-master-2024-01
+source_ids:
+- src-poder360-2026-03-09-nota-barci
+document_ids:
+- doc-2024-01-contrato-barci-de-moraes-banco-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

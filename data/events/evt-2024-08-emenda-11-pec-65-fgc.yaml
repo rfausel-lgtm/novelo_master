@@ -1,0 +1,35 @@
+id: evt-2024-08-emenda-11-pec-65-fgc
+kind: event
+title: Ciro Nogueira apresenta a Emenda nº 11 à PEC 65/2023 (cobertura do FGC de R$ 1 milhão)
+event_type: public_act
+date: 2024-08
+date_precision: month
+participant_ids:
+- ciro-nogueira
+- senado-federal
+- fundo-garantidor-de-creditos
+description: Segundo o Poder360, a emenda foi protocolada em agosto de 2024 como Emenda nº 11 à PEC 65/2023
+  e propunha elevar a cobertura do FGC de R$ 250 mil para R$ 1 milhão por depositante; o relator Plínio
+  Valério a rejeitou e ela não avançou. A PF sustenta, conforme comunicação oficial do STF de 07/05/2026,
+  que o texto teria sido elaborado pela assessoria do Banco Master; trata-se de alegação sob investigação.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-poder360-emenda-11-pec-65-2024-08
+- ev-pf-emenda-pec-65-fgc-ciro-nogueira
+source_ids:
+- src-poder360-2026-05-07-emenda-fgc
+- src-stf-2026-05-07-nova-fase-ciro-nogueira
+- src-senado-pec-65-2023-materia
+document_ids:
+- doc-2023-11-27-pec-65-2023-senado
+public_act_ids:
+- ato-2024-08-emenda-11-pec-65-2023
+cited_position:
+- kind: not_located
+  summary: Posição do senador sobre a autoria do texto não localizada em fonte verificada do corpus.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,19 @@
+id: camara-dos-deputados
+kind: organization
+name: Câmara dos Deputados
+aliases: []
+org_type: public_body
+summary: Casa legislativa. Requerimento de CPI do Banco Master protocolado em 02/02/2026 com 201 assinaturas;
+  o STF rejeitou pedido para obrigar sua instalação.
+why_in_novelo: É a Casa onde tramita o requerimento de CPI do Banco Master objeto do MS 40791.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-stf-2026-03-12-rejeita-cpi
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
