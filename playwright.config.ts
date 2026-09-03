@@ -5,7 +5,7 @@ export default defineConfig({
   fullyParallel: true,
   forbidOnly: !!process.env.CI,
   retries: process.env.CI ? 1 : 0,
-  reporter: process.env.CI ? "github" : "list",
+  reporter: process.env.CI ? [["github"], ["html", { open: "never" }]] : "list",
   use: {
     baseURL: "http://localhost:3000",
     trace: "on-first-retry",
@@ -19,11 +19,9 @@ export default defineConfig({
   projects: [
     {
       name: "chromium",
-      use: {
-        ...devices["Desktop Chrome"],
-        // WebGL por software em runners sem GPU (Sigma.js exige WebGL).
-        launchOptions: { args: ["--use-gl=angle", "--use-angle=swiftshader", "--enable-unsafe-swiftshader", "--ignore-gpu-blocklist"] },
-      },
+      // Canal "chromium" (headless novo) em vez do headless-shell: expõe WebGL por software,
+      // exigido pelo Sigma.js, também em runners sem GPU.
+      use: { ...devices["Desktop Chrome"], channel: "chromium" },
     },
     { name: "mobile", use: { ...devices["Pixel 7"] } },
   ],
