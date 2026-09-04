@@ -72,7 +72,7 @@ export default async function EventoPage({ params }: { params: Promise<{ slug: s
         </div>
         {event.place && (
           <div className="mt-4 max-w-md">
-            <Lugar place={event.place} />
+            <Lugar place={event.place} mapaId={event.id} />
           </div>
         )}
       </header>
