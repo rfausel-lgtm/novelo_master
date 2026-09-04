@@ -14,7 +14,9 @@ export const metadata: Metadata = pageMetadata({
   type: "website",
 });
 
-const PROMPT = `Leia https://novelo-master.fausel.adv.br/acervo.txt — é o acervo completo do caso Banco Master, com a classe de evidência e a fonte de cada registro.
+const ORIGEM = SITE.url.replace(/\/$/, "");
+
+const PROMPT = `Leia ${ORIGEM}/acervo.txt — é o acervo completo do caso Banco Master, com a classe de evidência e a fonte de cada registro.
 
 Responda usando apenas o que está nesse arquivo. Cite sempre a classe de evidência (D documental, C corroborado, A alegação, I inferência) e o id do registro, para eu conferir na página. Se algo não constar, diga que não consta em vez de completar de memória. Não trate alegação ou inferência como fato, e não afirme crime.
 
@@ -49,7 +51,7 @@ export default function PerguntarPage() {
           classe de evidência e a contagem de fontes.
         </p>
         <div className="not-prose mt-4">
-          <CopiarPrompt texto={PROMPT} />
+          <CopiarPrompt texto={PROMPT} origemCanonica={ORIGEM} />
         </div>
       </Secao>
 
