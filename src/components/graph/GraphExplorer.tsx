@@ -14,7 +14,7 @@ import { applyPalette, buildSigmaGraph } from "@/lib/graph/build";
 import { readPalette, PALETTE_FALLBACK, type Palette } from "@/lib/graph/style";
 import { applyFilters } from "@/lib/graph/filters";
 import { inducedSubgraph, neighborhood } from "@/lib/graph/algorithms";
-import { todayISO } from "@/lib/graph/dates";
+import { todayISO, toFullDate } from "@/lib/graph/dates";
 import { GraphCanvas, type CanvasView } from "./GraphCanvas";
 import { NodeCard } from "./NodeCard";
 import { EdgeCard } from "./EdgeCard";
@@ -230,6 +230,20 @@ export function GraphExplorer() {
       highlight,
     ],
   );
+
+  /*
+   * Datas em que algo de fato entra no mapa. Entre 2012 e meados de 2017 o corpus tem quase nada:
+   * reproduzir mês a mês gastava dezenas de passos numa tela parada, e quem clicava desistia antes
+   * do primeiro nó aparecer.
+   */
+  const marcosTemporais = useMemo(() => {
+    if (!payload) return [];
+    /* first_seen e since podem ser parciais ("2000", "2019-05"): normalizar antes de comparar. */
+    const datas = new Set<string>();
+    for (const n of payload.nodes) if (n.first_seen) datas.add(toFullDate(n.first_seen));
+    for (const e of payload.edges) if (e.since) datas.add(toFullDate(e.since));
+    return [...datas].sort();
+  }, [payload]);
 
   /* Pontos de partida: os nós mais conectados do recorte atual, que são o miolo do caso. */
   const atalhosDePartida = useMemo(() => {
@@ -680,6 +694,7 @@ export function GraphExplorer() {
           <TimeMachine
             min={minDate}
             max={maxDate}
+            marcos={marcosTemporais}
             value={state.filters.dateUntil}
             onChange={(d) => dispatch({ type: "filters", patch: { dateUntil: d } })}
             playing={state.playing}

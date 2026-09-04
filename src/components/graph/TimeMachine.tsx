@@ -16,6 +16,8 @@ interface TimeMachineProps {
   visibleEdges: number;
   reducedMotion: boolean;
   undatedEdgesExcluded: number;
+  /** Datas em que algo entra no mapa, em ordem. A reprodução salta de uma para a outra. */
+  marcos: string[];
 }
 
 /**
@@ -34,6 +36,7 @@ export function TimeMachine(props: TimeMachineProps) {
     visibleEdges,
     reducedMotion,
     undatedEdgesExcluded,
+    marcos,
   } = props;
   const id = useId();
   const total = Math.max(1, daysBetween(min, max));
@@ -41,8 +44,10 @@ export function TimeMachine(props: TimeMachineProps) {
   const pos = Math.min(total, Math.max(0, daysBetween(min, current)));
   const timer = useRef<ReturnType<typeof setInterval> | null>(null);
   const currentRef = useRef(current);
+  const marcosRef = useRef(marcos);
   useEffect(() => {
     currentRef.current = current;
+    marcosRef.current = marcos;
   });
 
   useEffect(() => {
@@ -51,12 +56,20 @@ export function TimeMachine(props: TimeMachineProps) {
       timer.current = null;
       return;
     }
-    const start = currentRef.current >= max ? min : currentRef.current;
+    /*
+     * Salta de marco em marco: mês vazio não vira passo. Sem marcos (dataset sem datas), volta ao
+     * avanço mensal.
+     */
+    const proximo = (de: string) => {
+      const lista = marcosRef.current;
+      return lista.length > 0 ? lista.find((d) => d > de) : addMonths(de, 1);
+    };
+    const start = currentRef.current >= max ? (marcosRef.current[0] ?? min) : currentRef.current;
     onChange(start);
     timer.current = setInterval(
       () => {
-        const next = addMonths(currentRef.current, 1);
-        if (next >= max) {
+        const next = proximo(currentRef.current);
+        if (!next || next >= max) {
           onChange(undefined);
           onPlay(false);
         } else {
