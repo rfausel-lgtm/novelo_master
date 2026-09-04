@@ -24,4 +24,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+photo:
+  path: /fotos/policia-civil-de-sao-paulo.png
+  source: Wikimedia Commons
+  author: Civil Police of the State of São Paulo
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Nacional_PCSP.svg
+  retrieved_at: '2026-09-04'
+  alt: Marca da Polícia Civil de São Paulo

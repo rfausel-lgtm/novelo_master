@@ -22,4 +22,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+photo:
+  path: /fotos/tribunal-de-contas-da-uniao.png
+  source: Wikimedia Commons
+  author: Tribunal de Contas da União
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:Tribunal_de_Contas_da_Uni%C3%A3o.png
+  retrieved_at: '2026-09-04'
+  alt: Marca do Tribunal de Contas da União

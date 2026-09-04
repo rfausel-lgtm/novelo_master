@@ -7,6 +7,12 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Marcas oficiais de mais sete organizações (STF, TCU, CVM, COAF, OAB Conselho Federal, Partido Novo e
+  Polícia Civil de SP), do Wikimedia Commons, em domínio público ou Creative Commons, com autoria,
+  licença e link para o arquivo original — de 13 para 20 das 80 organizações. As 60 restantes são,
+  em maioria, empresas privadas, fundos e holdings sem presença no Commons; a política editorial só
+  admite marca com licença livre ou material institucional com uso permitido, e nada disso foi
+  localizado para elas.
 - Identidade visual "cartografia documental": arte de fundo do hero da home, fundo discreto do
   carregamento do grafo e faixas de abertura em Cronologia, Fontes e Metodologia, cada uma em arte
   própria para o tema claro e para o escuro (nunca inversão), servida em AVIF com fallback WebP a

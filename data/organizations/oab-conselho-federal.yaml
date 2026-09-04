@@ -21,4 +21,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+photo:
+  path: /fotos/oab-conselho-federal.png
+  source: Wikimedia Commons
+  author: Conselho Federal da OAB
+  license: CC BY 2.5
+  original_url: https://commons.wikimedia.org/wiki/File:Logo_OAB.png
+  retrieved_at: '2026-09-04'
+  alt: Marca do Ordem dos Advogados do Brasil — Conselho Federal

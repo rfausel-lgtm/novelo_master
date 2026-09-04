@@ -49,4 +49,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+photo:
+  path: /fotos/comissao-de-valores-mobiliarios.png
+  source: Wikimedia Commons
+  author: Daniel Siqueira Carvalho
+  license: CC BY 4.0
+  original_url: https://commons.wikimedia.org/wiki/File:Cvm-logo.png
+  retrieved_at: '2026-09-04'
+  alt: Marca da Comissão de Valores Mobiliários
