@@ -7,6 +7,11 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 29 do corpus: o depoimento cancelado de Vorcaro à CPI do Crime Organizado — convocado como
+  testemunha para 04/03/2026, teve o depoimento cancelado no mesmo dia por sua prisão preventiva.
+  André Mendonça tornou facultativo seu comparecimento, tratando-o como investigado; a CPI contestou em
+  recurso à Segunda Turma do STF, sem desfecho localizado. Não há registro de que Vorcaro tenha, em algum
+  momento, efetivamente depoido à comissão antes de seu encerramento sem relatório aprovado.
 - Lote 28 do corpus: a crise institucional escala em 03/09/2026 — dois dias depois de o relatório da PF
   vir a público, Alexandre de Moraes proferiu decisão apontando 'fortes indícios' de improbidade
   administrativa, abuso de autoridade e crime de responsabilidade contra André Mendonça, com base em

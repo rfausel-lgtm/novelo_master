@@ -1,0 +1,15 @@
+id: ev-cpi-cancela-depoimento-prisao-vorcaro
+kind: evidence
+classification: A
+proposition: O depoimento de Vorcaro marcado para 04/03/2026 foi cancelado no mesmo dia, em razão da prisão
+  preventiva decretada horas antes pelo ministro André Mendonça, por suposto risco de obstrução das investigações.
+document_ids: []
+source_ids:
+- src-senadoradio-2026-03-04-cpi-cancela-depoimento
+date: '2026-03-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
+attributed_to: Agência Senado

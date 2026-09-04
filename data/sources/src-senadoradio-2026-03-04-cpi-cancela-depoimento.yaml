@@ -1,0 +1,20 @@
+id: src-senadoradio-2026-03-04-cpi-cancela-depoimento
+kind: source
+title: CPI do crime cancela depoimento após prisão de Vorcaro
+publisher: Rádio Senado
+publication_date: '2026-03-04'
+retrieved_at: '2026-09-03'
+url: https://www12.senado.leg.br/radio/1/noticia/2026/03/04/cpi-do-crime-cancela-depoimento-apos-prisao-de-vorcaro
+source_type: official_legislative
+summary: Registra o cancelamento do depoimento de Vorcaro na data marcada, em razão de sua prisão preventiva
+  decretada no mesmo dia por suposta obstrução das investigações.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,29 @@
+id: rel-daniel-vorcaro-cpi-do-crime-organizado-institutional
+kind: relationship
+from_id: daniel-vorcaro
+to_id: cpi-do-crime-organizado
+relationship_type: institutional
+directed: false
+label: convocado como testemunha, depoimento cancelado por prisão
+start_date: '2026-02-25'
+description: Vorcaro foi convocado como testemunha à CPI do Crime Organizado para 04/03/2026; o depoimento
+  foi cancelado no mesmo dia por sua prisão preventiva. André Mendonça tornou facultativo seu comparecimento,
+  tratando-o como investigado — decisão contestada pela CPI em recurso ao STF sem desfecho localizado.
+  Não há registro de que tenha depoido à comissão antes de seu encerramento.
+evidence_class: A
+confidence: 0.8
+status: unverified
+event_ids:
+- evt-2026-03-10-cpi-recorre-ao-stf-comparecimento-vorcaro
+evidence_ids:
+- ev-cpi-cancela-depoimento-prisao-vorcaro
+- ev-mendonca-torna-facultativo-comparecimento-vorcaro-cpi
+source_ids:
+- src-senadoradio-2026-03-04-cpi-cancela-depoimento
+- src-senado-2026-03-10-cpi-recurso-stf-convocacao
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

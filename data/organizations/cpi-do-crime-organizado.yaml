@@ -3,8 +3,17 @@ kind: organization
 name: CPI do Crime Organizado
 aliases: []
 org_type: public_body
-summary: Comissão Parlamentar de Inquérito do Senado que recebeu da Receita Federal registros de pagamentos
-  do Banco Master a escritórios e empresas ligados a políticos, segundo o Poder360.
+summary: 'Comissão Parlamentar de Inquérito do Senado, instalada em novembro de 2025 com prazo de 120
+  dias. Convidou os ministros Alexandre de Moraes e Dias Toffoli para falar sobre o caso Master (25/02/2026)
+  e convocou Daniel Vorcaro e Fabiano Zettel como testemunhas para 04/03/2026 — depoimento cancelado pela
+  prisão de Vorcaro no mesmo dia; André Mendonça tornou facultativo o comparecimento dele, decisão que
+  a CPI contestou sem desfecho localizado. Recebeu da Receita Federal registros de pagamentos do Banco
+  Master a escritórios e empresas ligados a políticos, segundo o Poder360. Em 14/04/2026, encerrou os
+  trabalhos sem relatório aprovado: o texto do relator Alessandro Vieira, que propunha o indiciamento
+  por crime de responsabilidade de Toffoli, Moraes, Gilmar Mendes e Paulo Gonet por não se declararem
+  suspeitos no caso Master, foi rejeitado por 6 votos a 4. O presidente Davi Alcolumbre não concedeu prorrogação,
+  citando o ano eleitoral. Não há registro de que Moraes ou Toffoli tenham efetivamente comparecido ao
+  convite.'
 why_in_novelo: Recebeu os registros fiscais sobre pagamentos do Banco Master citados pela imprensa.
 cited_position:
 - kind: not_located
@@ -13,6 +22,9 @@ open_questions: []
 source_ids:
 - src-poder360-2026-04-08-receita-pagamentos-master
 - src-senado-2026-02-25-cpi-convoca-vorcaro
+- src-senado-2026-03-02-vorcaro-zettel-depoe-cpi
+- src-senadoradio-2026-03-04-cpi-cancela-depoimento
+- src-senado-2026-03-10-cpi-recurso-stf-convocacao
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
