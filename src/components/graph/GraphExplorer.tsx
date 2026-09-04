@@ -66,6 +66,8 @@ export function GraphExplorer() {
   const error = loaded.dataset === dataset ? loaded.error : null;
   const [layerPayload, setLayerPayload] = useState<GraphLayerPayload | null>(null);
   const layerRequest = useRef<Promise<GraphLayerPayload> | null>(null);
+  const [layerFailed, setLayerFailed] = useState(false);
+  const [layerRetryToken, setLayerRetryToken] = useState(0);
   const [legendOpen, setLegendOpen] = useState(false);
   const [layoutToken, setLayoutToken] = useState(0);
   const [layoutRunning, setLayoutRunning] = useState(false);
@@ -98,12 +100,33 @@ export function GraphExplorer() {
     };
   }, [dataset]);
 
-  /*
-   * A camada probatória (296 nós e 996 arestas) quase triplicava o download inicial,
-   * mesmo desligada. Agora vem em arquivo próprio, buscado quando o leitor a liga.
-   */
+  /* A camada probatória vem em arquivo próprio, buscado quando o leitor a liga. */
+  const baseNodeIds = useMemo(() => new Set(base?.nodes.map((node) => node.id)), [base]);
+  const baseEdgeIds = useMemo(() => new Set(base?.edges.map((edge) => edge.id)), [base]);
+  const selectionNeedsLayer =
+    !dataset &&
+    !!base &&
+    ((!!state.selectedNode && !baseNodeIds.has(state.selectedNode)) ||
+      (!!state.selectedEdge && !baseEdgeIds.has(state.selectedEdge)));
+
+  /* Deep links para nós/arestas probatórios precisam restaurar também a camada. */
+  useEffect(() => {
+    if (!selectionNeedsLayer) return;
+    const nodeCategories = new Set(state.filters.nodeCategories);
+    let changed = false;
+    for (const category of EVIDENCE_CATEGORIES) {
+      if (!nodeCategories.has(category)) {
+        nodeCategories.add(category);
+        changed = true;
+      }
+    }
+    if (changed) dispatch({ type: "filters", patch: { nodeCategories } });
+  }, [dispatch, selectionNeedsLayer, state.filters.nodeCategories]);
+
   const wantsLayer =
-    !dataset && EVIDENCE_CATEGORIES.some((c) => state.filters.nodeCategories.has(c));
+    !dataset &&
+    (selectionNeedsLayer ||
+      EVIDENCE_CATEGORIES.some((category) => state.filters.nodeCategories.has(category)));
 
   const fetchLayer = useCallback(() => {
     if (!layerRequest.current) {
@@ -120,24 +143,39 @@ export function GraphExplorer() {
     let cancelled = false;
     fetchLayer()
       .then((l) => {
-        if (!cancelled) setLayerPayload(l);
+        if (!cancelled) {
+          setLayerPayload(l);
+          setLayerFailed(false);
+        }
       })
       .catch(() => {
-        if (!cancelled) layerRequest.current = null;
+        layerRequest.current = null;
+        if (!cancelled) setLayerFailed(true);
       });
     return () => {
       cancelled = true;
     };
-  }, [wantsLayer, layerPayload, fetchLayer]);
+  }, [wantsLayer, layerPayload, fetchLayer, layerRetryToken]);
 
-  /* Derivado: enquanto o leitor quer a camada e ela não chegou, o painel avisa. */
-  const layerLoading = wantsLayer && !layerPayload;
+  const retryLayer = useCallback(() => {
+    layerRequest.current = null;
+    setLayerFailed(false);
+    setLayerRetryToken((token) => token + 1);
+  }, []);
+
+  const layerLoading = wantsLayer && !layerPayload && !layerFailed;
+  const layerError = wantsLayer && layerFailed;
 
   const payload = useMemo(() => {
     if (!base || !layerPayload) return base;
     const nodes = [...base.nodes, ...layerPayload.nodes];
     const edges = [...base.edges, ...layerPayload.edges];
-    return { ...base, nodes, edges, stats: { ...base.stats, nodes: nodes.length, edges: edges.length } };
+    return {
+      ...base,
+      nodes,
+      edges,
+      stats: { ...base.stats, nodes: nodes.length, edges: edges.length },
+    };
   }, [base, layerPayload]);
 
   const index = useMemo(() => (payload ? buildIndex(payload) : null), [payload]);
@@ -205,8 +243,10 @@ export function GraphExplorer() {
       ? index.edgeById.get(state.selectedEdge)
       : undefined;
   const selectionOutsideSlice =
-    (state.selectedNode && !view?.visibleNodes.has(state.selectedNode)) ||
-    (state.selectedEdge && !view?.visibleEdges.has(state.selectedEdge));
+    !layerLoading &&
+    !layerError &&
+    ((state.selectedNode && !view?.visibleNodes.has(state.selectedNode)) ||
+      (state.selectedEdge && !view?.visibleEdges.has(state.selectedEdge)));
 
   const openNode = useCallback(
     (id: string) => {
@@ -314,6 +354,8 @@ export function GraphExplorer() {
             visibleNodes={view.visibleNodes.size}
             visibleEdges={view.visibleEdges.size}
             layerLoading={layerLoading}
+            layerError={layerError}
+            onRetryLayer={retryLayer}
             onClose={() => dispatch({ type: "panel", panel: null })}
           />
         );
@@ -527,6 +569,21 @@ export function GraphExplorer() {
               className="text-accent ml-3 underline underline-offset-2"
             >
               limpar seleção
+            </button>
+          </div>
+        )}
+        {layerError && state.panel !== "filters" && (
+          <div
+            role="alert"
+            className="border-border bg-bg-2 text-fg-2 pointer-events-auto self-start rounded-md border px-3 py-1.5 text-xs"
+          >
+            Não foi possível carregar a camada probatória.
+            <button
+              type="button"
+              onClick={retryLayer}
+              className="text-accent ml-3 underline underline-offset-2"
+            >
+              tentar novamente
             </button>
           </div>
         )}
