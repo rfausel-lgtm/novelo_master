@@ -21,8 +21,17 @@ source_ids:
 document_ids: []
 public_act_ids: []
 location: Aeroporto de Guarulhos, SP
+place:
+  name: Aeroporto Internacional de Guarulhos (SP)
+  kind: airport
+  lat: -23.43556
+  lon: -46.47306
+  precision: exact
+  note: Coordenada do aeroporto, conforme o Wikidata (Q385406). A prisão ocorreu no terminal executivo,
+    antes do embarque; o ponto marca o aeroporto, não o local exato.
+  source_ids: []
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'

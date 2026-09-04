@@ -41,8 +41,17 @@ cited_position:
   source_ids:
   - src-poder360-2026-02-14-andrei-londres
 location: George Club, Mayfair, Londres
+place:
+  name: Mayfair, Londres (Reino Unido)
+  kind: venue
+  lat: 51.51028
+  lon: -0.14722
+  precision: approximate
+  note: 'Coordenada do bairro de Mayfair, conforme o Wikidata (Q124184). O endereço do George Club não
+    foi levantado: o ponto localiza o bairro, não o clube.'
+  source_ids: []
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'

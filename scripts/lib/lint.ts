@@ -228,8 +228,13 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
   const checkPlace = (file: string, place: { precision: string; kind: string; source_ids: string[] } | undefined) => {
     if (!place) return;
     checkRefs(file, "place.source_ids", place.source_ids, ["source"]);
-    if (place.precision !== "city" && place.source_ids.length === 0) {
-      err(file, "lugar com precisão melhor que município exige place.source_ids");
+    /*
+     * A exigência de fonte é sobre IMÓVEL: dizer qual é o terreno de um negócio investigado é
+     * afirmação contestável e precisa de lastro. O endereço do Palácio do Planalto ou de um
+     * aeroporto não é fato em disputa, e exigir fonte ali só produziria fonte de fachada.
+     */
+    if (place.kind === "property" && place.source_ids.length === 0) {
+      err(file, "lugar do tipo imóvel exige place.source_ids: qual terreno é, num caso investigado, é afirmação contestável");
     }
   };
 
