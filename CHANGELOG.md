@@ -7,6 +7,11 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 33 do corpus: as sanções da Lei Magnitsky dos EUA contra Viviane Barci de Moraes e o Instituto Lex
+  (22/09/2025 a 12/12/2025), com a articulação de Eduardo Bolsonaro pela retomada em setembro de 2026;
+  e o crescimento de 500% no volume processual do escritório Barci de Moraes desde que Alexandre de
+  Moraes assumiu o STF em 2017, segundo levantamento de dados da Gazeta do Povo com base em cadastro
+  processual público.
 - Lote 32 do corpus: biografia de Andrei Rodrigues (carreira na PF, segurança de Dilma e Lula, indicação
   de Flávio Dino à direção-geral) e o episódio de agosto de 2026 em que os 27 superintendentes regionais
   da PF divulgaram nota em defesa da direção-geral, em meio a atrito com André Mendonça sobre a 'Operação

@@ -1,0 +1,34 @@
+id: evt-2025-09-22-eua-sancionam-viviane-barci-instituto-lex
+kind: event
+title: EUA incluem Viviane Barci de Moraes e o Instituto Lex nas sanções da Lei Magnitsky
+event_type: regulatory_act
+date: '2025-09-22'
+date_precision: day
+participant_ids:
+- viviane-barci-de-moraes
+- alexandre-de-moraes
+- lex-instituto-de-estudos-juridicos
+description: O Departamento do Tesouro dos EUA ampliou para Viviane Barci de Moraes e para o Instituto
+  Lex as sanções da Lei Magnitsky já aplicadas a Alexandre de Moraes em 30/07/2025, classificando-os como
+  parte da 'rede de apoio financeiro' do ministro — congelamento de ativos nos EUA, proibição de cartões
+  de crédito americanos e restrição de viagem. Em 12/12/2025 os três foram retirados da lista, sem explicação
+  pública do Tesouro; Eduardo Bolsonaro, que dizia ter articulado as sanções originais, lamentou a decisão.
+  Em 02/09/2026, Bolsonaro afirmou ter pedido aos EUA a retomada das sanções contra Moraes, articulando
+  também a possível reinclusão de Viviane.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-eua-sancionam-viviane-instituto-lex-2025-09-22
+- ev-eua-retiram-viviane-lista-magnitsky-2025-12-12
+- ev-eduardo-bolsonaro-articula-retomada-sancoes-2026-09
+source_ids:
+- src-cnnbrasil-2025-09-22-sancoes-magnitsky-viviane
+- src-congressoemfoco-2025-12-12-eua-retiram-moraes-lista
+- src-tribunadosertao-2026-09-02-eduardo-bolsonaro-sancoes
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

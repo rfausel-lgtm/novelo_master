@@ -1,0 +1,22 @@
+id: ev-crescimento-500-casos-escritorio-barci-pos-stf
+kind: evidence
+classification: A
+proposition: Levantamento da Gazeta do Povo a partir de cadastro processual público do STJ e do STF mostra
+  que o número de processos do escritório Barci de Moraes saltou de 27 (18 no STJ e 9 no STF, até 22/03/2017,
+  data de posse de Alexandre de Moraes no STF) para 159 (136 ou mais no STJ e 23 no STF) depois — crescimento
+  de quase 500%. A mesma reportagem cita R$ 80 milhões recebidos do Banco Master entre fevereiro de 2024
+  e novembro de 2025, segundo dados fiscais da Receita Federal — valor menor que os R$ 108-131 milhões
+  do contrato total, compatível com pagamentos parciais até a suspensão pela liquidação. Consultado, o
+  escritório disse que não se pronunciaria sobre o assunto, e classificou a divulgação dos dados fiscais
+  usados na reportagem como 'incorretos e obtidos de maneira indevida' — sem contestar especificamente
+  os números processuais.
+document_ids: []
+source_ids:
+- src-gazetadopovo-2026-04-08-crescimento-500-casos-barci
+date: '2026-04-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
+attributed_to: Gazeta do Povo

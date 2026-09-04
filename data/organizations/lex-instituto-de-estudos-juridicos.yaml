@@ -1,0 +1,26 @@
+id: lex-instituto-de-estudos-juridicos
+kind: organization
+name: LEX – Instituto de Estudos Jurídicos Ltda
+aliases:
+- Instituto Lex
+org_type: company
+summary: 'Pessoa jurídica fundada em 2000, da qual Viviane Barci de Moraes é sócia-administradora, distinta
+  do escritório de advocacia Barci de Moraes Sociedade de Advogados. Segundo o NSC Total, funciona como
+  espécie de holding patrimonial ligada à família Moraes: detém o imóvel de residência do casal no Jardim
+  Europa (São Paulo, avaliado em cerca de R$ 12,4 milhões) e outros imóveis adquiridos em 2025 — dois
+  apartamentos em Campos do Jordão (R$ 4 milhões cada) e uma mansão em Brasília (725 m², R$ 12 milhões)
+  —, somando cerca de R$ 16 milhões em aquisições naquele ano. Foi incluída, ao lado de Viviane, na lista
+  de sanções da Lei Magnitsky dos EUA entre 22/09/2025 e 12/12/2025.'
+why_in_novelo: Entidade patrimonial ligada à família de Alexandre de Moraes, sancionada pelos EUA junto
+  com Viviane Barci de Moraes; entra no corpus por essa sanção e por deter o imóvel de residência do casal.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-nsctotal-2025-09-22-instituto-lex
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -12,7 +12,11 @@ summary: Advogada, esposa do ministro Alexandre de Moraes. Seu escritório firmo
   de serviços com o Banco Master em janeiro de 2024 (R$ 108 milhões líquidos em 36 meses, segundo os documentos
   da PET 16.662), vigente de fevereiro de 2024 até a liquidação em novembro de 2025. Em nota de 09/03/2026
   o escritório detalhou 94 reuniões e 36 pareceres e afirmou não ter atuado perante o STF em causas do
-  banco.
+  banco. Entre 22/09/2025 e 12/12/2025, ela e o Instituto Lex — pessoa jurídica da qual é sócia-administradora,
+  distinta do escritório — foram incluídos na lista de sanções da Lei Magnitsky dos EUA, como extensão
+  das sanções aplicadas a Alexandre de Moraes; em 02/09/2026, Eduardo Bolsonaro afirmou ter articulado
+  a retomada dessas sanções. Levantamento da Gazeta do Povo mostra que o volume de processos do escritório
+  cresceu cerca de 500% após Moraes assumir o STF em 2017.
 why_in_novelo: Seu escritório manteve contrato de honorários de grande valor com o Banco Master, documentado
   nos autos tornados públicos pelo STF, e apresentou nota pública detalhando os serviços.
 cited_position:
@@ -39,6 +43,8 @@ source_ids:
 - src-poder360-2026-03-09-nota-barci
 - src-poder360-2026-09-01-integras-pet-16662
 - src-cnn-2025-12-contrato-129-milhoes
+- src-cnnbrasil-2025-09-22-sancoes-magnitsky-viviane
+- src-gazetadopovo-2026-04-08-crescimento-500-casos-barci
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

@@ -1,0 +1,26 @@
+id: rel-eduardo-bolsonaro-alexandre-de-moraes-allegation
+kind: relationship
+from_id: eduardo-bolsonaro
+to_id: alexandre-de-moraes
+relationship_type: political
+directed: false
+label: articulou sanções internacionais e pede retomada
+start_date: '2026-09-02'
+description: Eduardo Bolsonaro afirma ter articulado as sanções da Lei Magnitsky de 2025 contra Moraes
+  e disse, em 02/09/2026, ter pedido ao governo dos EUA a retomada delas, incluindo possível reinclusão
+  de Viviane Barci de Moraes.
+evidence_class: A
+confidence: 0.7
+status: unverified
+event_ids:
+- evt-2025-09-22-eua-sancionam-viviane-barci-instituto-lex
+evidence_ids:
+- ev-eduardo-bolsonaro-articula-retomada-sancoes-2026-09
+source_ids:
+- src-tribunadosertao-2026-09-02-eduardo-bolsonaro-sancoes
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

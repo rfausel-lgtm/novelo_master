@@ -1,0 +1,25 @@
+id: rel-viviane-barci-de-moraes-lex-instituto-de-estudos-juridicos-corporate
+kind: relationship
+from_id: viviane-barci-de-moraes
+to_id: lex-instituto-de-estudos-juridicos
+relationship_type: corporate
+directed: false
+label: sócia-administradora
+start_date: '2000'
+description: Viviane Barci de Moraes é sócia-administradora do Instituto Lex desde a fundação, em 2000;
+  a entidade detém o imóvel de residência da família e outros bens patrimoniais.
+evidence_class: C
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2025-09-22-eua-sancionam-viviane-barci-instituto-lex
+evidence_ids:
+- ev-eua-sancionam-viviane-instituto-lex-2025-09-22
+source_ids:
+- src-nsctotal-2025-09-22-instituto-lex
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
