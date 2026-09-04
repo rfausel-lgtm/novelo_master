@@ -20,4 +20,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+photo:
+  path: /fotos/gustavo-loyola.jpg
+  source: Wikimedia Commons
+  author: Elza Fiúza/ABr
+  license: CC BY 3.0 br
+  original_url: https://commons.wikimedia.org/wiki/File:Gustavo_Loyola_em_semin%C3%A1rio.jpg
+  retrieved_at: '2026-09-04'
+  alt: Retrato de Gustavo Loyola

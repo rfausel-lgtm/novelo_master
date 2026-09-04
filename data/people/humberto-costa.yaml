@@ -20,4 +20,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+photo:
+  path: /fotos/humberto-costa.jpg
+  source: Wikimedia Commons
+  author: Senado Federal
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:Senadores_da_56%C2%AA_Legislatura_(47017291821).jpg
+  retrieved_at: '2026-09-04'
+  alt: Retrato de Humberto Costa

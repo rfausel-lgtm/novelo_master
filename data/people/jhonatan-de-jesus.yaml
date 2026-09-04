@@ -23,4 +23,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+photo:
+  path: /fotos/jhonatan-de-jesus.jpg
+  source: Wikimedia Commons
+  author: Michel Jesus
+  license: CC BY 3.0
+  original_url: https://commons.wikimedia.org/wiki/File:Jhonatan_de_Jesus_em_abril_de_2019.jpg
+  retrieved_at: '2026-09-04'
+  alt: Retrato de Jhonatan de Jesus

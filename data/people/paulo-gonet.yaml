@@ -52,4 +52,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+photo:
+  path: /fotos/paulo-gonet.jpg
+  source: Wikimedia Commons
+  author: Pepemoubran
+  license: CC BY-SA 4.0
+  original_url: https://commons.wikimedia.org/wiki/File:Paulo_Gustavo_Gonet_Branco_.jpg
+  retrieved_at: '2026-09-04'
+  alt: Retrato de Paulo Gonet

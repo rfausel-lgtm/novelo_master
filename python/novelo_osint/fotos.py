@@ -217,13 +217,108 @@ def baixar(result: dict, alt: str) -> dict:
 TODAY = "2026-09-03"
 
 
+
+def commons_busca(nome: str, limite: int = 4) -> list[dict]:
+    """Procura arquivos no Commons pelo nome da pessoa.
+
+    A busca do artigo da Wikipédia (page_image) só acha quem TEM artigo, o que exclui a maior
+    parte dos citados. Aqui a rede é mais larga e, por isso, insegura quanto à identidade: o
+    resultado é candidato para confirmação humana, nunca publicação automática.
+    """
+    data = api(
+        "commons.wikimedia.org",
+        {
+            "action": "query",
+            "generator": "search",
+            "gsrsearch": f'intitle:"{nome}"',
+            "gsrnamespace": 6,
+            "gsrlimit": limite * 3,
+            "prop": "imageinfo",
+            "iiprop": "url|extmetadata|mime",
+            "iiurlwidth": 320,
+        },
+    )
+    saida = []
+    for page in (data.get("query", {}).get("pages") or {}).values():
+        info = (page.get("imageinfo") or [None])[0]
+        if not info:
+            continue
+        mime = info.get("mime", "")
+        if not mime.startswith("image/") or "svg" in mime:
+            continue
+        meta = info.get("extmetadata", {})
+        get = lambda k: strip_html(meta.get(k, {}).get("value", ""))  # noqa: E731
+        licenca = get("LicenseShortName") or get("License")
+        arquivo = (page.get("title") or "").removeprefix("File:")
+        texto = f"{arquivo} {get('ImageDescription')}"
+        if not FREE.match(licenca or ""):
+            continue
+        if FORBIDDEN.search(texto):
+            continue
+        saida.append(
+            {
+                "file": arquivo,
+                "thumb": info.get("thumburl") or info.get("url"),
+                "mime": mime,
+                "descricao_url": info.get("descriptionurl", ""),
+                "autor": (dedup(get("Artist")) or "Autor não identificado")[:120].rstrip(" ;,[("),
+                "licenca": licenca,
+                "descricao": get("ImageDescription")[:240],
+            }
+        )
+        if len(saida) >= limite:
+            break
+    return saida
+
+
+def candidatos_para_confirmacao() -> list[dict]:
+    """Pessoas sem foto, com os candidatos encontrados. Saída em JSON para a página de revisão."""
+    out = []
+    for rec in entities("people"):
+        if rec.get("photo"):
+            continue
+        pessoa = {"id": rec["id"], "nome": rec["name"], "papel": rec.get("role", ""), "opcoes": []}
+        # 1) o caminho seguro: imagem do artigo, com a checagem estrita de nome
+        try:
+            base = candidate(rec)
+            if base.get("status") == "ok":
+                base["origem"] = "artigo da Wikipédia"
+                pessoa["opcoes"].append(base)
+        except Exception:
+            pass
+        # 2) a rede larga, que precisa de confirmação
+        try:
+            for c in commons_busca(rec.get("full_name") or rec["name"]):
+                if any(o["file"] == c["file"] for o in pessoa["opcoes"]):
+                    continue
+                c["origem"] = "busca no Commons"
+                pessoa["opcoes"].append(c)
+        except Exception as exc:
+            pessoa["erro"] = str(exc)
+        out.append(pessoa)
+    return out
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--listar", action="store_true")
     parser.add_argument("--baixar", nargs="*", default=None)
     parser.add_argument("--kind", default="people,organizations")
+    parser.add_argument(
+        "--candidatos",
+        metavar="ARQUIVO",
+        help="gera JSON com candidatos de foto das pessoas sem foto, para confirmação humana",
+    )
     args = parser.parse_args()
     sys.stdout.reconfigure(encoding="utf-8")
+
+    if args.candidatos:
+        dados = candidatos_para_confirmacao()
+        Path(args.candidatos).write_text(
+            json.dumps(dados, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+        achou = sum(1 for p in dados if p["opcoes"])
+        print(f"{len(dados)} pessoas sem foto; {achou} com candidato -> {args.candidatos}")
+        return
 
     alvo = set(args.baixar or [])
     # Arquivo já usado por outra entidade: sinal de homônimo ou parente (ex.: pai e filho).

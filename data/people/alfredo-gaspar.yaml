@@ -27,4 +27,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+photo:
+  path: /fotos/alfredo-gaspar.jpg
+  source: Wikimedia Commons
+  author: Portal de Dados Abertos do Tribunal Superior Eleitoral do Brasil (TSE)
+  license: CC BY 4.0
+  original_url: https://commons.wikimedia.org/wiki/File:2020_ALFREDO_GASPAR_DE_MENDON%C3%87A_CANDIDATO_PREFEITO_AL_MACEIO_TSE_(20000774385).jpg
+  retrieved_at: '2026-09-04'
+  alt: Retrato de Alfredo Gaspar
