@@ -11,10 +11,12 @@ summary: Banco de Augusto Lima, ex-sócio de Vorcaro no Master; operava como Voi
 why_in_novelo: Instituição do ex-sócio de Daniel Vorcaro, liquidada pelo Banco Central em fevereiro de
   2026, segundo a imprensa.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions:
-- O corpus não registra manifestação do Banco Pleno nem de seus administradores sobre a liquidação.
+- kind: denial
+  summary: Em nota após a prisão de Lima em novembro de 2025, o Banco Pleno afirmou não ser alvo da operação
+    e não manter relação societária com o Banco Master.
+  source_ids:
+  - src-cnn-2026-03-04-relembre-crise-master
+open_questions: []
 source_ids:
 - src-b3-2026-02-18-liquidacao-banco-pleno
 - src-poder360-2026-06-24-wagner-deixa-lideranca

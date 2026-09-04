@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 30 do corpus: enriquecimento do dossiê de Augusto Lima — sua presença continuada em reuniões do
+  Banco Central como 'CEO do Master' mesmo após a saída formal anunciada em maio de 2024; o dossiê
+  apócrifo (autoria não confirmada, achado pela PF em arquivo digital de Vorcaro) que o chama de dono de
+  fato do banco e Vorcaro de 'laranja', registrado como hipótese sob apuração (classe I); as duas notas
+  públicas de sua defesa, em junho e agosto de 2026, esta última negando qualquer negociação de delação;
+  e a disputa da PKL One, empresa de uma prima, pelos repasses do Credcesta em Macapá. Fecha também a
+  lacuna de manifestação pública do Banco Pleno sobre sua própria liquidação.
 - Lote 29 do corpus: o depoimento cancelado de Vorcaro à CPI do Crime Organizado — convocado como
   testemunha para 04/03/2026, teve o depoimento cancelado no mesmo dia por sua prisão preventiva.
   André Mendonça tornou facultativo seu comparecimento, tratando-o como investigado; a CPI contestou em

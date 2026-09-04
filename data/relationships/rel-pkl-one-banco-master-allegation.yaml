@@ -1,0 +1,24 @@
+id: rel-pkl-one-banco-master-allegation
+kind: relationship
+from_id: pkl-one
+to_id: banco-master
+relationship_type: investigative_allegation
+directed: false
+label: disputa judicial por repasses do Credcesta
+start_date: '2025-08-11'
+description: O liquidante do Banco Master disputa com a PKL One, ligada a uma prima de Augusto Lima, os
+  repasses do Credcesta relativos à folha de Macapá, contratados já sob a liquidação do banco.
+evidence_class: A
+confidence: 0.5
+status: disputed
+event_ids: []
+evidence_ids:
+- ev-pkl-one-disputa-credcesta-macapa
+source_ids:
+- src-metropoles-2026-08-15-pkl-one-credcesta-macapa
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,22 @@
+id: src-metropoles-2026-08-15-pkl-one-credcesta-macapa
+kind: source
+title: Master e empresa da prima de Augusto Lima disputam repasses do Credcesta
+publisher: Metrópoles (coluna Manoela Alcantara)
+publication_date: '2026-08-15'
+retrieved_at: '2026-09-03'
+url: https://www.metropoles.com/colunas/manoela-alcantara/master-e-empresa-da-prima-de-augusto-lima-disputam-repasses-do-credcesta
+source_type: press
+summary: Relata disputa judicial entre o liquidante do Banco Master e a PKL One, identificada como pertencente
+  a Andréa Lima Novaes (prima de Augusto Lima), pelos repasses do Credcesta relativos à folha de servidores
+  de Macapá, com contrato aditado em 11/08/2025. Decisão liminar determinou que a Prefeitura de Macapá
+  retenha e provisione os valores até definição judicial.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

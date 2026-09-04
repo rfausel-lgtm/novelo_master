@@ -1,0 +1,21 @@
+id: pkl-one
+kind: organization
+name: PKL One
+aliases: []
+org_type: company
+summary: Empresa ligada a Andréa Lima Novaes, prima de Augusto Lima, em disputa com o liquidante do Banco
+  Master pelos repasses do Credcesta relativos à folha de servidores da Prefeitura de Macapá, sob contrato
+  aditado em 11/08/2025.
+why_in_novelo: Entra no corpus por disputa judicial com o liquidante do Banco Master sobre repasses do
+  Credcesta.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-metropoles-2026-08-15-pkl-one-credcesta-macapa
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
