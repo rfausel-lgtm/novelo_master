@@ -271,6 +271,75 @@ def commons_busca(nome: str, limite: int = 4) -> list[dict]:
     return saida
 
 
+
+def wikidata_imagem(nome: str) -> str | None:
+    """Imagem (P18) do item do Wikidata. Pega quem tem item mas não tem artigo em português."""
+    busca = api(
+        "www.wikidata.org",
+        {"action": "wbsearchentities", "search": nome, "language": "pt", "type": "item", "limit": 3},
+    )
+    for hit in busca.get("search", []):
+        if not mesmo_nome(hit.get("label", ""), nome):
+            continue
+        ent = api("www.wikidata.org", {"action": "wbgetclaims", "entity": hit["id"], "property": "P18"})
+        for c in ent.get("claims", {}).get("P18", []):
+            valor = (c.get("mainsnak", {}).get("datavalue") or {}).get("value")
+            if valor:
+                return valor
+    return None
+
+
+def commons_busca_ampla(nome: str, limite: int = 4) -> list[dict]:
+    """Busca de texto completo no Commons: acha o arquivo cuja DESCRIÇÃO cita a pessoa.
+
+    Rede ainda mais larga que a busca por título — foto de coletiva, de sessão, de posse. Só faz
+    sentido com confirmação humana depois.
+    """
+    data = api(
+        "commons.wikimedia.org",
+        {
+            "action": "query",
+            "generator": "search",
+            "gsrsearch": f'"{nome}" filetype:bitmap',
+            "gsrnamespace": 6,
+            "gsrlimit": limite * 4,
+            "prop": "imageinfo",
+            "iiprop": "url|extmetadata|mime",
+            "iiurlwidth": 320,
+        },
+    )
+    saida = []
+    for page in (data.get("query", {}).get("pages") or {}).values():
+        info = (page.get("imageinfo") or [None])[0]
+        if not info:
+            continue
+        mime = info.get("mime", "")
+        if not mime.startswith("image/") or "svg" in mime:
+            continue
+        meta = info.get("extmetadata", {})
+        get = lambda k: strip_html(meta.get(k, {}).get("value", ""))  # noqa: E731
+        licenca = get("LicenseShortName") or get("License")
+        arquivo = (page.get("title") or "").removeprefix("File:")
+        descricao = get("ImageDescription")
+        if not FREE.match(licenca or ""):
+            continue
+        if FORBIDDEN.search(f"{arquivo} {descricao}"):
+            continue
+        saida.append(
+            {
+                "file": arquivo,
+                "thumb": info.get("thumburl") or info.get("url"),
+                "mime": mime,
+                "descricao_url": info.get("descriptionurl", ""),
+                "autor": (dedup(get("Artist")) or "Autor não identificado")[:120].rstrip(" ;,[("),
+                "licenca": licenca,
+                "descricao": descricao[:240],
+            }
+        )
+        if len(saida) >= limite:
+            break
+    return saida
+
 def candidatos_para_confirmacao() -> list[dict]:
     """Pessoas sem foto, com os candidatos encontrados. Saída em JSON para a página de revisão."""
     out = []
@@ -295,6 +364,26 @@ def candidatos_para_confirmacao() -> list[dict]:
                 pessoa["opcoes"].append(c)
         except Exception as exc:
             pessoa["erro"] = str(exc)
+        # 3) Wikidata: tem item mas pode não ter artigo em português
+        try:
+            arq = wikidata_imagem(rec.get("full_name") or rec["name"])
+            if arq and not any(o["file"] == arq for o in pessoa["opcoes"]):
+                meta = commons_meta(arq)
+                if meta and FREE.match(meta["licenca"] or ""):
+                    meta["origem"] = "Wikidata"
+                    pessoa["opcoes"].append(meta)
+        except Exception:
+            pass
+        # 4) rede mais larga: a pessoa citada na descrição do arquivo
+        if len(pessoa["opcoes"]) < 3:
+            try:
+                for c in commons_busca_ampla(rec.get("full_name") or rec["name"]):
+                    if any(o["file"] == c["file"] for o in pessoa["opcoes"]):
+                        continue
+                    c["origem"] = "descrição no Commons"
+                    pessoa["opcoes"].append(c)
+            except Exception:
+                pass
         out.append(pessoa)
     return out
 

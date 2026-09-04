@@ -689,10 +689,14 @@ export function GraphExplorer() {
         </div>
       )}
 
-      {/* Painel lateral (desktop) / folha inferior (móvel) */}
+      {/*
+        Painel lateral (desktop) / folha inferior (móvel). No celular a folha cobria a máquina do
+        tempo, que fica logo abaixo: com um nó selecionado o controle temporal ficava inacessível.
+        Por isso ela para acima dela.
+      */}
       {panel && (
-        <div className="pointer-events-none absolute inset-x-0 bottom-0 z-20 max-h-[60dvh] md:inset-x-auto md:top-14 md:right-3 md:bottom-28 md:max-h-none md:w-96">
-          <div className="pointer-events-auto flex h-full max-h-[60dvh] flex-col md:max-h-full">
+        <div className="pointer-events-none absolute inset-x-0 bottom-[104px] z-20 max-h-[52dvh] md:inset-x-auto md:top-14 md:right-3 md:bottom-28 md:max-h-none md:w-96">
+          <div className="pointer-events-auto flex h-full max-h-[52dvh] flex-col md:max-h-full">
             {panel}
           </div>
         </div>
