@@ -1,0 +1,29 @@
+id: ev-registro-de-cotistas-de-2015-nao-e-publico
+kind: evidence
+classification: C
+proposition: 'Resultado de verificação sobre a peça que sustentaria a alegação de que Oliver Ortiz constava
+  como cotista de fundos administrados pela então Foco DTVM em documento de outubro de 2015: essa peça
+  não pode ser obtida por via pública, por três razões documentadas. Primeira, o sistema público de divulgação
+  de documentos de fundos (Fundos.NET) só contém registros a partir de 01/06/2016 — consulta à API sem
+  filtro, em ordem cronológica, mostra acervo de 835.862 documentos sem nada anterior a essa data, para
+  fundo algum; para o Aquilla FII, o documento mais antigo é igualmente de 01/06/2016. Segunda, o formato
+  regulatório dos documentos públicos de fundo imobiliário não comporta nomes de cotistas: a ata de assembleia
+  do próprio Aquilla FII registra apenas ''cotistas representantes de 40,08% das cotas'', e o Informe
+  Anual traz somente faixas percentuais anônimas; o art. 39 da Instrução CVM 472 lista exaustivamente
+  as informações periódicas obrigatórias, e relação nominal de cotistas não está entre elas. Terceira,
+  o registro é mantido pelo administrador — e distribuidora de títulos e valores mobiliários é instituição
+  financeira expressamente sujeita a sigilo pelo art. 1º, §1º, da Lei Complementar 105/2001. A própria
+  CVM trata o dado como sigiloso: o parecer público do PAS 03/2016 anonimiza sistematicamente fundos e
+  pessoas por iniciais. A lacuna, portanto, não decorre de falha da apuração, mas do regime jurídico:
+  fechá-la exigiria requisição da CPI, quebra de sigilo deferida, ou acesso aos autos judiciais.'
+document_ids: []
+source_ids:
+- src-cvm-fnet-sistema-fundos
+- src-cvm-icvm-472-consolidada
+- src-lc-105-2001-sigilo-bancario
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

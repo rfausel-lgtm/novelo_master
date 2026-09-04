@@ -7,18 +7,26 @@ date_precision: month
 participant_ids:
 - saul-dutra-sabba
 - banco-master
-description: A 6ª Vara Criminal Federal de São Paulo condenou Saul Dutra Sabbá a três anos de reclusão
+- benjamim-botelho-de-almeida
+- alberto-mauricio-calo
+- gustavo-cleto-marsiglia
+description: 'A 6ª Vara Criminal Federal de São Paulo condenou Saul Dutra Sabbá a três anos de reclusão
   em regime inicial aberto por gestão fraudulenta, com pena substituída por restritiva de direitos e multa,
-  por fatos ocorridos entre 2014 e 2016 no Banco Máxima. Respondeu como corréu o ex-diretor jurídico e
-  contábil Alberto Maurício Caló.
+  por fatos ocorridos entre novembro de 2014 e março de 2016 no Banco Máxima. Ele foi o único dos cinco
+  réus condenado: a mesma sentença absolveu, com fundamento no art. 386, V, do CPP, o ex-diretor jurídico
+  e contábil Alberto Maurício Caló, Benjamim Botelho de Almeida, Gustavo Cleto Marsiglia e Octavio Pires
+  Vaz Filho. O MPF apelou das absolvições.'
 evidence_class: C
 status: verified
 evidence_ids:
 - ev-sabba-condenado-gestao-fraudulenta-2025
+- ev-botelho-absolvido-sentenca-2025
 source_ids:
 - src-feebpr-2025-04-29-condenacao-sabba
 - src-jbrasilia-2025-01-14-mpf-contra-acordo-maxima
-document_ids: []
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
+document_ids:
+- doc-2025-04-25-sentenca-acao-penal-maxima
 public_act_ids: []
 review_status: published
 reviewer: orquestrador

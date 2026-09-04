@@ -1,0 +1,23 @@
+id: ev-mpf-apela-da-absolvicao-recurso-pendente
+kind: evidence
+classification: D
+proposition: A absolvição não é definitiva. O Ministério Público Federal apelou da sentença, e o recurso
+  foi recebido por decisão de 03/06/2025. A Apelação Criminal nº 5003557-34.2021.4.03.6181 foi distribuída
+  em 23/06/2025 à 11ª Turma do Tribunal Regional Federal da 3ª Região, sob relatoria do desembargador
+  federal José Marcos Lunardelli, figurando como apelados os cinco réus. Foi incluída em pauta de sessão
+  virtual de 09/06/2026, com registro de 'Pedido de Vista' em 11/06/2026, e não havia acórdão de mérito
+  até 04/09/2026. Em decisão de 06/02/2026, ao homologar o acordo de não persecução penal de Saul Dutra
+  Sabbá, o juízo de origem determinou o desmembramento quanto a ele justamente por constar 'pendente recurso
+  de apelação do MPF para os demais corréus'. A nota da defesa de Botelho que afirma que o processo 'resultou
+  na absolvição' é, portanto, verdadeira quanto à sentença, mas omite que o recurso do MPF segue pendente.
+document_ids:
+- doc-2025-04-25-sentenca-acao-penal-maxima
+source_ids:
+- src-datajud-cnj-apelacao-5003557-trf3
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
+date: '2025-06-23'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

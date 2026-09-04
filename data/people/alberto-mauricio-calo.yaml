@@ -1,0 +1,25 @@
+id: alberto-mauricio-calo
+kind: person
+name: Alberto Maurício Caló
+category: other
+role: Ex-diretor jurídico e contábil do Banco Máxima
+positions: []
+summary: Ex-diretor jurídico e contábil do Banco Máxima, respondeu como corréu na ação penal por gestão
+  fraudulenta relativa a fatos de 2014 a 2016. Alegou responder apenas pela área jurídica. Foi absolvido
+  pela sentença de 25/04/2025, com fundamento no art. 386, V, do CPP. Sua defesa impetrou o RHC 188.922
+  no STJ, julgado pela Quinta Turma em 13/08/2024, que reconheceu excesso acusatório e determinou que
+  prevalecesse apenas a imputação do art. 4º da Lei 7.492/86 — decisão cujos efeitos foram depois estendidos
+  aos demais réus. O MPF apelou da absolvição, e o recurso segue pendente de julgamento.
+why_in_novelo: Corréu absolvido na ação penal sobre a gestão fraudulenta do Banco Máxima, e autor do recurso
+  ao STJ que reduziu a imputação para todos os denunciados.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

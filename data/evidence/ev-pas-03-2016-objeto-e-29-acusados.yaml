@@ -1,0 +1,27 @@
+id: ev-pas-03-2016-objeto-e-29-acusados
+kind: evidence
+classification: C
+proposition: 'O sistema oficial de consulta a processos sancionadores da CVM esclarece o objeto e o alcance
+  do PAS 19957.008699/2019-01, antes conhecidos apenas pelo parecer anonimizado. O objeto é a ''apuração
+  de eventuais irregularidades na atuação da INVISTA INVESTIMENTOS INTELIGENTES, bem como na administração
+  e gestão de fundos de investimentos que tinham entre seus cotistas Regimes Próprios de Previdência Social
+  (RPPS)''. São 29 acusados — 20 pessoas naturais e 9 jurídicas —, entre eles Benjamim Botelho de Almeida,
+  Gustavo Cleto Marsiglia, Ricardo Ferreira Junqueira Ribeiro e a distribuidora hoje denominada Sefer
+  Investimentos DTVM Ltda., além de gestoras como Áureo Administração de Recursos, Ático Administração
+  de Recursos, Drachma Investimentos, Leme Investimentos, Reditus Investimentos e Totem Investimentos.
+  Duas correções decorrem daí: a sigla ''I.I.I.'' anonimizada no parecer designa a Invista Investimentos
+  Inteligentes, e o sistema da CVM exibe a razão social atual das pessoas jurídicas — o que confirma documentalmente
+  a cadeia Foco DTVM → Índigo Investimentos DTVM → Sefer Investimentos DTVM.'
+document_ids: []
+source_ids:
+- src-cvm-sistema-consulta-pas
+- src-cvm-parecer-ctc-pas-03-2016-pdf
+excerpt: Apuração de eventuais irregularidades na atuação da INVISTA INVESTIMENTOS INTELIGENTES, bem como
+  na administração e gestão de fundos de investimentos que tinham entre seus cotistas Regimes Próprios
+  de Previdência Social (RPPS).
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

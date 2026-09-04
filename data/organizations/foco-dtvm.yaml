@@ -34,6 +34,10 @@ open_questions:
 - 'Há divergência sobre o porte da casa: a Folhapress, a partir de base do Banco Central, aponta R$ 12,9
   bilhões sob administração em maio de 2026 e classificação S4 (pequeno porte); o Estadão atribui 102
   fundos e mais de R$ 20 bilhões, dos quais cerca de R$ 9,6 bilhões ligados ao ecossistema Master.'
+- 'A cadeia de razões sociais Foco DTVM → Índigo Investimentos DTVM → Sefer Investimentos DTVM está confirmada
+  documentalmente: o sistema oficial de consulta a processos sancionadores da CVM exibe a razão social
+  atual das pessoas jurídicas, e o mesmo processo que nomeia ''Índigo Investimentos DTVM'' no campo de
+  objeto lista ''Sefer Investimentos DTVM'' no campo de acusados.'
 source_ids:
 - src-iclnoticias-2025-12-03-imoveis-superfaturados-fundos-de-pensao
 - src-cvm-2022-07-05-julgamento-fii-sao-domingos
@@ -45,6 +49,7 @@ source_ids:
 - src-agenciabrasil-2020-07-15-operacao-fundo-fake
 - src-afnoticias-2026-02-13-igeprev-aplicacoes-investigadas
 - src-metropoles-2026-02-17-pf-reexamina-pericias-fundos
+- src-cvm-sistema-consulta-pas
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

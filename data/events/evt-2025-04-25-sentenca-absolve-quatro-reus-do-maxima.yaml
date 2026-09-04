@@ -1,0 +1,37 @@
+id: evt-2025-04-25-sentenca-absolve-quatro-reus-do-maxima
+kind: event
+title: Sentença absolve quatro réus e condena apenas Sabbá na ação penal sobre o Banco Máxima
+event_type: judicial_decision
+date: '2025-04-25'
+date_precision: day
+participant_ids:
+- saul-dutra-sabba
+- benjamim-botelho-de-almeida
+- alberto-mauricio-calo
+- gustavo-cleto-marsiglia
+- banco-master
+description: A 6ª Vara Criminal Federal de São Paulo, do juiz Nilson Martins Lopes Júnior, julgou a ação
+  penal movida pelo MPF por gestão fraudulenta no Banco Máxima, por fatos de novembro de 2014 a março
+  de 2016. Absolveu Alberto Maurício Caló, Benjamim Botelho de Almeida, Gustavo Cleto Marsiglia e Octavio
+  Pires Vaz Filho, com fundamento no art. 386, V, do CPP — não existir prova de terem concorrido para
+  a infração —, e condenou apenas Saul Dutra Sabbá, então controlador do banco, a três anos de reclusão
+  em regime inicial aberto. Quanto a Botelho, a sentença assenta que, embora pudesse ter atuado nas operações
+  de subscrição de quotas do Fundo Ravena, não detinha relação de controle, administração ou gerência
+  sobre o Banco Máxima, elemento exigido pelo art. 25 da Lei 7.492/86. O MPF apelou, e o recurso segue
+  pendente na 11ª Turma do TRF3.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-botelho-absolvido-sentenca-2025
+- ev-mpf-apela-da-absolvicao-recurso-pendente
+source_ids:
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
+- src-datajud-cnj-apelacao-5003557-trf3
+document_ids:
+- doc-2025-04-25-sentenca-acao-penal-maxima
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

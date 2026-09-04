@@ -1,0 +1,23 @@
+id: ev-rhc-188922-stj-e-de-alberto-calo
+kind: evidence
+classification: C
+proposition: 'Esclarecida a identidade do réu não nomeado no RHC 188.922 do Superior Tribunal de Justiça,
+  julgado pela Quinta Turma em 2024: trata-se de Alberto Maurício Caló, ex-diretor jurídico e contábil
+  do Banco Máxima, e não de Benjamim Botelho de Almeida. O acórdão do TRF3 no HC 5031212-89.2024.4.03.0000
+  registra que o agravo regimental no RHC 188.922 foi ''manejado pela defesa do corréu Alberto Maurício
+  Caló'', julgado em 13/08/2024, e que em 12/11/2024 a mesma Turma acolheu pedido de extensão formulado
+  pela defesa de Botelho, estendendo os efeitos a ele e, de ofício, aos demais denunciados — restando
+  somente a imputação do art. 4º da Lei 7.492/86. Separadamente, habeas corpus impetrado em favor de Botelho
+  no TRF3 (HC 5033547-52.2022.4.03.0000) teve a ordem denegada por maioria: o relator Lunardelli votava
+  por trancar a ação penal quanto a ele, mas prevaleceu o voto-vista de Fausto De Sanctis, acompanhado
+  por Nino Toldo.'
+document_ids: []
+source_ids:
+- src-trf3-acordao-hc-botelho-5033547
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
+date: '2024-11-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

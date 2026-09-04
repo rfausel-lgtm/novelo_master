@@ -1,0 +1,22 @@
+id: src-datajud-cnj-apelacao-5003557-trf3
+kind: source
+title: Movimentação processual da Apelação Criminal nº 5003557-34.2021.4.03.6181 (11ª Turma do TRF3)
+publisher: DataJud / Conselho Nacional de Justiça
+publication_date: '2026'
+retrieved_at: '2026-09-03'
+url: https://www.cnj.jus.br/sistemas/datajud/api-publica/
+source_type: official_court
+summary: 'Registro de movimentação da apelação: distribuída em 23/06/2025 à 11ª Turma do TRF3, relator
+  desembargador federal José Marcos Lunardelli, tendo como apelantes o Ministério Público Federal e Saul
+  Dutra Sabbá, e como apelados os cinco réus. Incluída em pauta de sessão virtual de 09/06/2026, com registro
+  de ''Pedido de Vista'' em 11/06/2026. Sem acórdão de mérito até 04/09/2026.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

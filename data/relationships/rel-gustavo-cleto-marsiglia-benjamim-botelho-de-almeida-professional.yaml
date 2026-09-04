@@ -1,0 +1,28 @@
+id: rel-gustavo-cleto-marsiglia-benjamim-botelho-de-almeida-professional
+kind: relationship
+from_id: gustavo-cleto-marsiglia
+to_id: benjamim-botelho-de-almeida
+relationship_type: professional
+directed: false
+label: cogestor das mesmas estruturas de fundos
+description: Decisão da Justiça Federal do Rio, em ação sobre terrenos em Queimados, registra que Agera
+  Negócios Imobiliários, Aquilla FII e Verona FII 'são geridas pelas mesmas pessoas, Gustavo Cleto Marsiglia
+  e Benjamim Botelho de Almeida'. Ambos são acusados no mesmo processo sancionador da CVM sobre desvio
+  de recursos de regimes próprios de previdência, e ambos foram absolvidos, em primeira instância, na
+  ação penal sobre o Banco Máxima.
+evidence_class: A
+confidence: 0.75
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-decisao-queimados-liga-ortiz-a-fundos-de-botelho
+- ev-botelho-absolvido-sentenca-2025
+source_ids:
+- src-iclnoticias-2026-05-05-acao-terrenos-elo-narcotraficante
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

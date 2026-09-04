@@ -1,0 +1,21 @@
+id: src-trf3-acordao-hc-botelho-5033547
+kind: source
+title: Acórdão no Habeas Corpus nº 5033547-52.2022.4.03.0000 (11ª Turma do TRF3)
+publisher: Tribunal Regional Federal da 3ª Região
+publication_date: '2022'
+retrieved_at: '2026-09-03'
+url: https://web.trf3.jus.br/acordaos/Acordao/BuscarDocumentoPje/280099386
+source_type: official_court
+summary: 'Habeas corpus impetrado em favor de Benjamim Botelho de Almeida, com ordem denegada por maioria:
+  o relator, desembargador José Marcos Lunardelli, votava por trancar a ação penal quanto a ele, mas prevaleceu
+  o voto-vista do desembargador Fausto De Sanctis, acompanhado por Nino Toldo.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

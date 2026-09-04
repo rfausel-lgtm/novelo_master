@@ -1,20 +1,22 @@
 id: ev-aquilla-veyron-instrumento-da-fraude-no-maxima
 kind: evidence
 classification: A
-proposition: Benjamim Botelho de Almeida foi denunciado pelo MPF por gestão fraudulenta de instituição
-  financeira (arts. 4º e 6º da Lei 7.492/86) no Banco Máxima entre 2014 e 2016, pelo suposto uso do fundo
-  Aquilla Veyron FIM para simular valorização de investimentos e mascarar a insuficiência de capital do
-  banco. É o mesmo período e a mesma mecânica contábil — simular a valorização de investimento para reduzir
-  prejuízos e ocultar insuficiência de capital — que fundamentaram a inabilitação de Saul Dutra Sabbá
-  pelo Banco Central em 2018 e sua condenação criminal em 2025. Segundo nota de seus advogados, o processo
-  resultou na absolvição de Botelho; a equipe não conseguiu confirmar essa absolvição em fonte independente,
-  e a informação fica registrada como versão da defesa.
+proposition: 'Benjamim Botelho de Almeida foi denunciado pelo MPF por gestão fraudulenta de instituição
+  financeira (arts. 4º, 6º e 10 da Lei 7.492/86) no Banco Máxima, por fatos de novembro de 2014 a março
+  de 2016, pelo suposto uso de fundos do Grupo Aquilla para simular valorização de investimentos e mascarar
+  a insuficiência de capital do banco — a mesma mecânica contábil que fundamentou a inabilitação de Saul
+  Dutra Sabbá pelo Banco Central em 2018. VERIFICAÇÃO POSTERIOR: a equipe obteve a íntegra da sentença
+  e confirmou que Botelho FOI ABSOLVIDO em 25/04/2025, com fundamento no art. 386, V, do CPP, ao lado
+  de outros três réus, tendo a sentença assentado que ele não detinha relação de controle, administração
+  ou gerência sobre o Banco Máxima, elemento exigido pelo art. 25 da Lei 7.492/86. O MPF apelou e o recurso
+  segue pendente na 11ª Turma do TRF3. Ver ev-botelho-absolvido-sentenca-2025.'
 document_ids: []
 source_ids:
 - src-estadao-2026-04-07-arquitetura-de-criacao-do-master
 - src-iclnoticias-2026-03-09-nota-defesa-botelho
-attributed_to: Denúncia do MPF, segundo a imprensa; a absolvição é afirmada pela defesa e não foi confirmada
-  de forma independente
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
+attributed_to: Denúncia do MPF, segundo a imprensa; a absolvição está confirmada em sentença obtida pela
+  equipe, com recurso do MPF pendente
 date: '2016'
 review_status: published
 reviewer: orquestrador

@@ -37,6 +37,7 @@ source_ids:
 - src-folhapress-2026-04-18-ciranda-na-compra-do-maxima
 - src-braziljournal-2021-12-23-master-outsider
 - src-jbrasilia-2026-04-14-bc-recusou-e-depois-aprovou
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
 aliases: []
 positions: []
 open_questions:
@@ -48,6 +49,10 @@ open_questions:
 - 'Há versões incompatíveis sobre a fundação do Banco Máxima: a autobiografia de Sabbá indica 1984, ao
   lado do pai, enquanto a imprensa registra 1990, como transformação da Máxima Corretora (de 1974) em
   banco múltiplo.'
+- Sabbá foi o único dos cinco réus condenado na ação penal sobre o Banco Máxima; os outros quatro foram
+  absolvidos por ausência de prova de concorrência para a infração. Consta ainda condenação por gestão
+  fraudulenta em ação distinta, no Rio de Janeiro (nº 5041756-94.2021.4.02.5101), por fatos de 2010 a
+  junho de 2014 envolvendo o Grupo Marsans — dado não verificado na íntegra pela equipe.
 kind: person
 review_status: published
 reviewer: orquestrador

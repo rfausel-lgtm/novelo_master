@@ -15,12 +15,14 @@ summary: 'Fundou em 2003 a distribuidora que passaria por três nomes — Foco D
   fraudulenta caracterizada pelo oferecimento de vantagens a prefeitos e gestores de regimes próprios
   de previdência; e pagou R$ 300 mil em termo de compromisso sobre emissões de debêntures, acordo que
   não implica confissão. Foi denunciado pelo MPF por gestão fraudulenta no Banco Máxima entre 2014 e 2016,
-  pelo suposto uso do fundo Aquilla Veyron para mascarar a insuficiência de capital do banco — sua defesa
-  afirma que o processo terminou em absolvição, o que a equipe não conseguiu confirmar de forma independente.
-  Foi alvo da 2ª fase da Operação Compliance Zero, em 14/01/2026, e teve os bens tornados indisponíveis
-  quando o Banco Central liquidou a Sefer, em 26/06/2026. Não há, até onde a apuração alcança, denúncia
-  oferecida contra ele no caso Master, indiciamento formal ou prisão: é investigado com medidas patrimoniais,
-  não réu nessa frente.'
+  pelo suposto uso do fundo Aquilla Veyron para mascarar a insuficiência de capital do banco — ele foi
+  ABSOLVIDO por sentença de 25/04/2025, com fundamento no art. 386, V, do CPP, ao lado de outros três
+  réus — a sentença assentou que ele não detinha relação de controle, administração ou gerência sobre
+  o Banco Máxima, elemento exigido pelo art. 25 da Lei 7.492/86 —, mas o MPF apelou e o recurso segue
+  pendente de julgamento na 11ª Turma do TRF3. Foi alvo da 2ª fase da Operação Compliance Zero, em 14/01/2026,
+  e teve os bens tornados indisponíveis quando o Banco Central liquidou a Sefer, em 26/06/2026. Não há,
+  até onde a apuração alcança, denúncia oferecida contra ele no caso Master, indiciamento formal ou prisão:
+  é investigado com medidas patrimoniais, não réu nessa frente.'
 why_in_novelo: 'Nome que atravessa, por vias independentes, a origem do Banco Master: administrava os
   fundos usados na aquisição do Banco Máxima, controlava a distribuidora que a Justiça e o Banco Central
   alcançaram no caso, e é apontado pelo MPF como responsável pelo fundo usado na fraude contábil que precedeu
@@ -42,15 +44,29 @@ cited_position:
   - src-iclnoticias-2026-03-09-nota-defesa-botelho
   by_id: benjamim-botelho-de-almeida
   date: 2026-05
+- kind: clarification
+  summary: A afirmação de sua defesa de que o processo sobre o Banco Máxima 'resultou na absolvição' foi
+    confirmada pela equipe na íntegra da sentença — é verdadeira quanto ao julgamento de primeira instância,
+    mas a nota omite que o MPF apelou e que o recurso segue pendente.
+  source_ids:
+  - src-djen-cnj-2025-sentenca-acao-penal-5003557
+  date: '2026-09-03'
 open_questions:
-- A absolvição na ação penal sobre o Banco Máxima é afirmada pela defesa e não foi confirmada em fonte
-  independente; os acórdãos do TRF3 associados ao nome não puderam ser lidos pela equipe.
-- O desfecho do PAS CVM SEI 19957.008699/2019-01, em que é acusado de oferecer vantagens a prefeitos e
-  gestores de RPPS, não foi localizado — consta apenas a rejeição do termo de compromisso em 2021.
 - Não há manifestação dele sobre a menção ao fundo Jaguar Multimarket na delação de João Carlos Mansur;
   nenhum veículo o procurou sobre esse ponto específico.
 - Não foi localizada denúncia, indiciamento formal ou prisão contra ele no caso Master; as medidas existentes
   são patrimoniais e investigativas.
+- 'A absolvição na ação penal sobre o Banco Máxima foi confirmada em sentença, mas não é definitiva: o
+  MPF apelou, e a Apelação Criminal nº 5003557-34.2021.4.03.6181 aguardava julgamento na 11ª Turma do
+  TRF3, com pedido de vista registrado em 11/06/2026.'
+- 'O PAS CVM SEI 19957.008699/2019-01, em que é acusado de operação fraudulenta pelo oferecimento de vantagens
+  a prefeitos e gestores de RPPS, segue PENDENTE DE JULGAMENTO — consta da planilha oficial de processos
+  a julgar da CVM, posição de 31/01/2026, sob relatoria do diretor João Accioly, sem registro público
+  de movimentação desde 24/05/2022. Fica sinalizada, sem afirmação de mérito, a hipótese de prescrição
+  intercorrente: a Lei 9.873/1999, art. 1º, §1º, prevê prescrição em três anos para processo administrativo
+  paralisado pendente de julgamento ou despacho. A equipe não confirmou se a Lei 13.506/2017, que reorganizou
+  o processo sancionador do BCB e da CVM, traz disciplina própria que prevaleça sobre esse regime, nem
+  se houve atos internos não publicados capazes de afastar a paralisação.'
 source_ids:
 - src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
 - src-cvm-2021-02-23-parecer-termo-compromisso-pas-03-2016
@@ -61,6 +77,11 @@ source_ids:
 - src-seudinheiro-2026-06-liquidacao-sefer-bens-controladores
 - src-iclnoticias-2026-03-09-nota-defesa-botelho
 - src-metropoles-2026-pf-reexamina-pericias-conexoes-fundos
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
+- src-datajud-cnj-apelacao-5003557-trf3
+- src-trf3-acordao-hc-botelho-5033547
+- src-cvm-processos-a-julgar-por-relator
+- src-cvm-sistema-consulta-pas
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

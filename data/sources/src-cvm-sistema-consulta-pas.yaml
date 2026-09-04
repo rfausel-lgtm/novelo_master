@@ -1,0 +1,24 @@
+id: src-cvm-sistema-consulta-pas
+kind: source
+title: Sistema de consulta a Processos Administrativos Sancionadores da CVM
+publisher: Comissão de Valores Mobiliários
+publication_date: '2026-09-04'
+retrieved_at: '2026-09-03'
+url: https://sistemas.cvm.gov.br/asp/cvmwww/inqueritos/formbuscapas.asp
+source_type: official_regulator
+summary: 'Sistema oficial de consulta a PAS. Para o processo 19957.008699/2019-01, informa como objeto
+  a ''apuração de eventuais irregularidades na atuação da INVISTA INVESTIMENTOS INTELIGENTES, bem como
+  na administração e gestão de fundos de investimentos que tinham entre seus cotistas Regimes Próprios
+  de Previdência Social (RPPS)'', e lista os 29 acusados — 20 pessoas naturais e 9 jurídicas. O sistema
+  exibe a razão social atual das pessoas jurídicas: a antiga Foco DTVM, depois Índigo Investimentos, aparece
+  como Sefer Investimentos Distribuidora de Títulos e Valores Mobiliários Ltda.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

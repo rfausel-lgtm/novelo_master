@@ -1,0 +1,34 @@
+id: doc-2025-04-25-sentenca-acao-penal-maxima
+kind: document
+title: Sentença na ação penal nº 5003557-34.2021.4.03.6181 — Banco Máxima (gestão fraudulenta)
+doc_type: judicial_decision
+date: '2025-04-25'
+source_ids:
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
+summary: Sentença que julga a ação penal movida pelo MPF por gestão fraudulenta no Banco Máxima, por fatos
+  de novembro de 2014 a março de 2016. Absolve Alberto Maurício Caló, Benjamim Botelho de Almeida, Gustavo
+  Cleto Marsiglia e Octavio Pires Vaz Filho com fundamento no art. 386, V, do Código de Processo Penal
+  — não existir prova de terem concorrido para a infração —, e condena Saul Dutra Sabbá pelo art. 4º da
+  Lei 7.492/86 a três anos de reclusão em regime inicial aberto. Quanto a Botelho, a sentença reconhece
+  que ele pode ter atuado nas operações de subscrição de quotas do Fundo Ravena, dada sua participação
+  na Foco DTVM e na Aquilla Asset Management, mas assenta que o delito apurado se relaciona ao ato de
+  gestão fraudulenta do Banco Máxima, instituição sobre a qual ele não detinha 'qualquer relação de controle,
+  administração ou gerência', como exige o art. 25 da Lei 7.492/86.
+is_official: true
+related_entity_ids:
+- benjamim-botelho-de-almeida
+- saul-dutra-sabba
+- banco-master
+issuer: 6ª Vara Criminal Federal de São Paulo — juiz Nilson Martins Lopes Júnior
+date_precision: day
+url: https://comunica.pje.jus.br/consulta
+reference: Ação penal nº 5003557-34.2021.4.03.6181 — 6ª Vara Criminal Federal de São Paulo
+excerpt: Posto isso, dou parcial provimento à presente ação penal para absolver, nos termos do inciso
+  V do artigo 386 do Código de Processo Penal, os Réus Alberto Mauricio Caló, Benjamim Botelho de Almeida,
+  Gustavo Cleto Marsiglia e Octavio Pires Vaz Filho, uma vez que não existem provas de terem eles concorrido
+  para a infração penal descrita na denúncia.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

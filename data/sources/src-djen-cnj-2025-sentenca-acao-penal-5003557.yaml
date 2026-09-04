@@ -1,0 +1,28 @@
+id: src-djen-cnj-2025-sentenca-acao-penal-5003557
+kind: source
+title: Sentença na ação penal nº 5003557-34.2021.4.03.6181 (6ª Vara Criminal Federal de São Paulo), íntegra
+  publicada no DJEN
+publisher: Diário de Justiça Eletrônico Nacional (DJEN/CNJ)
+publication_date: '2025-05-06'
+retrieved_at: '2026-09-03'
+url: https://comunica.pje.jus.br/consulta
+source_type: official_court
+summary: Íntegra da sentença proferida pelo juiz Nilson Martins Lopes Júnior na ação penal movida pelo
+  MPF contra cinco réus — Saul Dutra Sabbá, Alberto Maurício Caló, Benjamim Botelho de Almeida, Gustavo
+  Cleto Marsiglia e Octavio Pires Vaz Filho — pelos arts. 4º, 6º e 10 da Lei 7.492/86, por fatos de novembro
+  de 2014 a março de 2016 no Banco Máxima. Disponibilizada às partes em 25/04/2025 e publicada no DJEN
+  em 06/05/2025. Absolve quatro réus com base no art. 386, V, do CPP e condena apenas Sabbá pelo art.
+  4º da Lei 7.492/86, a três anos de reclusão em regime inicial aberto.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: Texto integral obtido pela API pública do DJEN/CNJ (comunicaapi.pje.jus.br), consulta pública equivalente
+  em comunica.pje.jus.br/consulta. Os servidores do TRF3 e do PJe de primeiro grau recusaram acesso direto
+  por timeout.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

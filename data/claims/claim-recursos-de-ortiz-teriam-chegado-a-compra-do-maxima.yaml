@@ -20,11 +20,15 @@ evidence_ids:
 - ev-req-287-cpicrime-ortiz-cotista-aquilla-sao-domingos
 - ev-oliver-ortiz-preso-e-condenado-2013
 - ev-relatorio-final-cpicrime-nao-menciona-ortiz
+- ev-registro-de-cotistas-de-2015-nao-e-publico
 source_ids:
 - src-iclnoticias-2026-03-09-exclusivo-narcotraficante-fundo
 - src-iclnoticias-2026-05-05-acao-terrenos-elo-narcotraficante
 - src-senado-req-287-2026-cpicrime-convocacao-hirano
 - src-apublica-2026-03-09-reconstrucao-completa
+- src-cvm-fnet-sistema-fundos
+- src-cvm-icvm-472-consolidada
+- src-lc-105-2001-sigilo-bancario
 limits: 'O núcleo causal da alegação — que dinheiro do tráfico teria financiado a compra — repousa em
   fonte anônima única, em citação direta, e o próprio veículo ressalva que não pôde confirmar os valores
   por causa do sigilo bancário. Nenhum documento foi publicado. Os registros da CVM de outubro de 2015,
@@ -37,7 +41,17 @@ limits: 'O núcleo causal da alegação — que dinheiro do tráfico teria finan
   — apenas citam ou republicam o ICL Notícias. E uma ressalva metodológica: a defesa de Botelho contestou
   com datas específicas uma asserção verificável da reportagem (a de que ele seria visto semanalmente
   na Faria Lima), sem que o veículo tenha retificado ou sustentado o ponto. Nenhuma fonte, inclusive o
-  ICL, afirma que Daniel Vorcaro conhecesse Ortiz ou soubesse da origem dos recursos.'
+  ICL, afirma que Daniel Vorcaro conhecesse Ortiz ou soubesse da origem dos recursos. VERIFICAÇÃO POSTERIOR
+  sobre o documento de outubro de 2015, que era o gargalo de toda a alegação: ele não pode ser obtido
+  por via pública, e não por falha de apuração. O sistema público de divulgação de documentos de fundos
+  só contém registros a partir de 01/06/2016; o formato regulatório dos documentos públicos de fundo imobiliário
+  identifica cotistas por faixas percentuais anônimas, nunca por nome, e o art. 39 da Instrução CVM 472
+  não inclui relação de cotistas entre as informações periódicas obrigatórias; e o registro é coberto
+  pelo sigilo do art. 1º, §1º, da Lei Complementar 105/2001, aplicável a distribuidoras de títulos e valores
+  mobiliários. Registre-se ainda que o próprio Requerimento nº 287/2026, que invoca esses documentos,
+  não indica número, protocolo ou referência deles — ao contrário do que faz para os outros dois fatos
+  que alega, para os quais aponta os autos no TJRJ e registros da Receita Federal. Fechar a lacuna dependeria
+  de requisição da própria CPI à CVM, de quebra de sigilo deferida, ou do acesso aos autos judiciais.'
 counter_position:
 - kind: denial
   summary: Os advogados de Benjamim Botelho de Almeida contestaram a reportagem, afirmando que ele deixou

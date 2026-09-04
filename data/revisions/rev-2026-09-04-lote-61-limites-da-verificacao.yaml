@@ -1,0 +1,30 @@
+id: rev-2026-09-04-lote-61-limites-da-verificacao
+kind: revision
+date: '2026-09-03'
+title: 'Lote 61: os limites da verificação, documentados'
+summary: 'Duas lacunas que o corpus havia sinalizado foram perseguidas até o fim e voltaram negativas
+  — mas com prova de por quê, que é o que distingue um limite de uma omissão. Primeira: o processo da
+  CVM que acusa 29 pessoas e empresas de oferecer vantagens a prefeitos e gestores de previdências municipais
+  NÃO foi julgado. Consta da planilha oficial de processos pendentes, posição de 31/01/2026, sob relatoria
+  do diretor João Accioly, sem registro público de movimentação desde a redistribuição de 24/05/2022 —
+  mais de nove anos após a instauração do inquérito. Fica sinalizada, sem afirmação de mérito, a hipótese
+  de prescrição intercorrente. A consulta ao sistema da CVM esclareceu ainda o objeto do processo e a
+  lista completa de acusados, corrigindo a leitura de uma das siglas anonimizadas e confirmando a cadeia
+  Foco → Índigo → Sefer. Segunda: o documento que nomearia cotistas de fundos em outubro de 2015, gargalo
+  de toda a alegação sobre o narcotraficante espanhol, não pode ser público — o sistema de divulgação
+  só existe desde junho de 2016, o formato regulatório identifica cotistas por faixas percentuais anônimas,
+  e o dado é coberto por sigilo bancário. Acrescenta-se, como inferência expressamente sinalizada e não
+  como fato, a correspondência entre as iniciais anonimizadas no parecer da CVM e nomes já documentados
+  no corpus.'
+affected_ids:
+- benjamim-botelho-de-almeida
+- gustavo-cleto-marsiglia
+- foco-dtvm
+- grupo-aquilla
+- oliver-ortiz-de-zarate-martin
+reason: Resultados negativos documentados das três diligências pendentes, a pedido do editor.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

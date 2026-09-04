@@ -1,0 +1,24 @@
+id: src-cvm-processos-a-julgar-por-relator
+kind: source
+title: Processos a Julgar (Por Relator) — planilha de processos pendentes de julgamento no Colegiado da
+  CVM
+publisher: Comissão de Valores Mobiliários
+publication_date: '2026-02-11'
+retrieved_at: '2026-09-03'
+url: https://www.gov.br/cvm/pt-br/assuntos/processos/processos-a-julgar-por-relator
+source_type: official_regulator
+summary: 'Página oficial que publica a relação de processos já distribuídos a um Diretor Relator e ainda
+  pendentes de julgamento, atualizada em 11/02/2026. A planilha correspondente, com posição de 31/01/2026,
+  foi baixada e lida pela equipe: registra o processo 19957.008699/2019-01, do tipo Inquérito Administrativo,
+  rito ordinário, sob relatoria do diretor João Carlos de Andrade Uzêda Accioly, com data de início de
+  relatoria em 24/05/2022.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

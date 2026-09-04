@@ -1,0 +1,20 @@
+id: src-lc-105-2001-sigilo-bancario
+kind: source
+title: Lei Complementar nº 105, de 10 de janeiro de 2001 — sigilo das operações de instituições financeiras
+publisher: Presidência da República
+publication_date: '2001-01-10'
+retrieved_at: '2026-09-03'
+url: https://www.bcb.gov.br/pre/leisedecretos/Port/Lei_Compl105.pdf
+source_type: official_government
+summary: O art. 1º, §1º, lista as distribuidoras de títulos e valores mobiliários entre as instituições
+  financeiras sujeitas ao dever de sigilo sobre suas operações e os serviços prestados.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

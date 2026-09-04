@@ -1,0 +1,34 @@
+id: evt-2022-05-24-pas-03-2016-redistribuido-e-parado
+kind: event
+title: 'Processo da CVM sobre desvio de previdências municipais é redistribuído e para: sem julgamento
+  desde 2022'
+event_type: regulatory_act
+date: '2022-05-24'
+date_precision: day
+participant_ids:
+- benjamim-botelho-de-almeida
+- gustavo-cleto-marsiglia
+- foco-dtvm
+description: O PAS 19957.008699/2019-01, que acusa 29 pessoas e empresas de operação fraudulenta pelo
+  oferecimento de vantagens a prefeitos e gestores de regimes próprios de previdência, foi redistribuído
+  em 24/05/2022 ao diretor João Carlos de Andrade Uzêda Accioly, após circular entre relatores por sucessivos
+  impedimentos. Essa é a última menção pública ao processo em toda a base da CVM. Na posição de 31/01/2026,
+  ele ainda constava da planilha oficial de processos pendentes de julgamento. O inquérito havia sido
+  instaurado em 02/03/2016 e apurou prejuízos 'da ordem de centenas de milhões de reais'.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-pas-cvm-03-2016-nunca-julgado
+- ev-pas-03-2016-objeto-e-29-acusados
+source_ids:
+- src-cvm-processos-a-julgar-por-relator
+- src-cvm-sistema-consulta-pas
+- src-cvm-relatorio-atividade-sancionadora-1t-2026
+document_ids:
+- doc-2026-01-31-planilha-cvm-processos-a-julgar
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

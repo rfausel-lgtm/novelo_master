@@ -1,0 +1,24 @@
+id: doc-2026-01-31-planilha-cvm-processos-a-julgar
+kind: document
+title: Planilha 'Processos no Colegiado' da CVM, posição de 31/01/2026
+doc_type: regulatory_record
+date: '2026-01-31'
+source_ids:
+- src-cvm-processos-a-julgar-por-relator
+summary: Planilha oficial de processos distribuídos e pendentes de julgamento no Colegiado da CVM, baixada
+  e lida pela equipe. Registra o Inquérito Administrativo 19957.008699/2019-01 sob relatoria do diretor
+  João Carlos de Andrade Uzêda Accioly, com início de relatoria em 24/05/2022 — comprovando que, na posição
+  de 31/01/2026, o processo seguia pendente de julgamento.
+is_official: true
+related_entity_ids:
+- benjamim-botelho-de-almeida
+- foco-dtvm
+issuer: Comissão de Valores Mobiliários
+date_precision: day
+url: https://www.gov.br/cvm/pt-br/assuntos/processos/processos-a-julgar-por-relator/12-processos-no-colegiado-31-01.xlsx
+reference: Processos a Julgar (Por Relator) — posição 31/01/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

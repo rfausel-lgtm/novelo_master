@@ -1,18 +1,20 @@
 id: ev-sabba-condenado-gestao-fraudulenta-2025
 kind: evidence
 classification: C
-proposition: Em abril de 2025, Saul Dutra Sabbá foi condenado pela 6ª Vara Criminal Federal de São Paulo,
-  do juiz Nilson Martins Lopes Júnior, a três anos de reclusão em regime inicial aberto por gestão fraudulenta,
-  com pena substituída por restritiva de direitos e multa. Os fatos, de 2014 a 2016, incluem a geração
-  de ganhos fictícios — entre eles a valorização artificial de 126% em fundo de investimento — e a omissão
-  de posições em ações entre 2015 e 2016. A denúncia fora oferecida pelo MPF em 2021, com base em informações
-  do Banco Central e apuração da Polícia Federal. Respondeu como corréu Alberto Maurício Caló, ex-diretor
-  jurídico e contábil, que alegou responder apenas pela área jurídica. A advogada de Sabbá não se manifestou
-  sobre a condenação.
+proposition: 'Em 25/04/2025, a 6ª Vara Criminal Federal de São Paulo, do juiz Nilson Martins Lopes Júnior,
+  condenou Saul Dutra Sabbá a três anos de reclusão em regime inicial aberto por gestão fraudulenta, com
+  pena substituída por restritiva de direitos e multa. Os fatos, de novembro de 2014 a março de 2016,
+  incluem a geração de ganhos fictícios — entre eles a valorização artificial de 126% em fundo de investimento
+  — e a omissão de posições em ações. A denúncia fora oferecida pelo MPF em 2021, com base em informações
+  do Banco Central e apuração da Polícia Federal. Sabbá foi o ÚNICO dos cinco réus condenado: a mesma
+  sentença absolveu Alberto Maurício Caló (ex-diretor jurídico e contábil), Benjamim Botelho de Almeida,
+  Gustavo Cleto Marsiglia e Octavio Pires Vaz Filho, com fundamento no art. 386, V, do CPP. A advogada
+  de Sabbá não se manifestou sobre a condenação. O MPF apelou quanto às absolvições.'
 document_ids: []
 source_ids:
 - src-feebpr-2025-04-29-condenacao-sabba
 - src-jbrasilia-2025-01-14-mpf-contra-acordo-maxima
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
 date: 2025-04
 review_status: published
 reviewer: orquestrador

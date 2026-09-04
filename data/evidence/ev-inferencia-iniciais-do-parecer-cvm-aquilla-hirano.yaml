@@ -1,0 +1,30 @@
+id: ev-inferencia-iniciais-do-parecer-cvm-aquilla-hirano
+kind: evidence
+classification: I
+proposition: Inferência da equipe, sinalizada como tal. O parecer público do PAS 03/2016 anonimiza fundos
+  e pessoas por iniciais, mas dois elementos permitem correspondência com nomes já documentados no corpus.
+  O parecer identifica a gestora 'A.A.M Ltda.' como 'atual AQ3 A.M. Ltda.'; o Informe Anual do Aquilla
+  FII, disponível no Fundos.NET, nomeia como gestora a AQ3 Asset Management Ltda. — o que sustenta a leitura
+  de que 'A. FII' designa o Aquilla FII. O parecer narra ainda que 'Y.F.H.' subscreveu cotas do 'A. FII'
+  integralizando com metade do 'Imóvel Forjas' e votou, de forma irregular, pela possibilidade de integralização
+  com bens antes mesmo de tornar-se cotista; o Requerimento nº 287/2026 da CPI do Crime Organizado convoca
+  Yan Felix Hirano exatamente por operações imobiliárias em Queimados integradas a fundos do Grupo Aquilla,
+  e as 'SPE Q3' e 'SPE Q.' do parecer são compatíveis com as SPEs de Queimados. Se a correspondência estiver
+  correta, existe fonte oficial da CVM descrevendo a mesma engenharia que a CPI alega — com os nomes em
+  iniciais. A equipe NÃO confirmou essa correspondência em fonte que a declare expressamente; trata-se
+  de leitura, não de fato documentado.
+document_ids: []
+source_ids:
+- src-cvm-parecer-ctc-pas-03-2016-pdf
+- src-cvm-fnet-sistema-fundos
+- src-senado-req-287-2026-cpicrime-convocacao-hirano
+inference_basis: Correspondência entre a gestora 'A.A.M Ltda./atual AQ3 A.M. Ltda.' citada no parecer
+  da CVM e a AQ3 Asset Management nomeada como gestora do Aquilla FII no Informe Anual do próprio fundo;
+  e entre a narrativa sobre 'Y.F.H.' no parecer e os fatos atribuídos a Yan Felix Hirano no requerimento
+  aprovado na CPI do Crime Organizado.
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,28 @@
+id: ev-botelho-absolvido-sentenca-2025
+kind: evidence
+classification: D
+proposition: Confirmada, em documento judicial, a absolvição de Benjamim Botelho de Almeida na ação penal
+  sobre a gestão fraudulenta do Banco Máxima. A sentença da ação penal nº 5003557-34.2021.4.03.6181, da
+  6ª Vara Criminal Federal de São Paulo, do juiz Nilson Martins Lopes Júnior, disponibilizada em 25/04/2025,
+  absolveu quatro dos cinco réus — Alberto Maurício Caló, Benjamim Botelho de Almeida, Gustavo Cleto Marsiglia
+  e Octavio Pires Vaz Filho — com fundamento no art. 386, V, do Código de Processo Penal, 'uma vez que
+  não existem provas de terem eles concorrido para a infração penal descrita na denúncia'. Apenas Saul
+  Dutra Sabbá foi condenado. Quanto a Botelho especificamente, a sentença reconhece que ele 'possa ter
+  atuado nas operações de subscrição de quotas do Fundo Ravena, haja vista sua participação na Foco Distribuidora
+  de Títulos e Valores Mobiliários e na Aquilla Asset Management Ltda.', mas assenta que o delito apurado
+  se relaciona ao ato de gestão fraudulenta do Banco Máxima, instituição em relação à qual ele não tinha
+  'qualquer relação de controle, administração ou gerência', como exige o art. 25 da Lei 7.492/86.
+document_ids:
+- doc-2025-04-25-sentenca-acao-penal-maxima
+source_ids:
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
+excerpt: Não se pode negar que o delito considerado como praticado nos presentes autos relaciona-se com
+  o ato de gestão fraudulenta do Banco Máxima S/A, em relação ao qual, não tinha, o Réu Benjamim Botelho
+  de Almeida, qualquer relação de controle, administração ou gerência de tal Instituição Financeira, conforme
+  exige o artigo 25 da Lei nº 7.492/1986.
+date: '2025-04-25'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
