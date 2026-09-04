@@ -18,7 +18,7 @@ Dataset sintético de estresse e demonstração: `docs/screenshots/grafo-demo.pn
 - **Grafo interativo** (Sigma.js/WebGL): zoom, busca instantânea, seleção múltipla, vizinhança em 1º a 3º
   grau, caminho mínimo ("como A se conecta a B?"), filtros por tipo de nó e de relação, time machine
   ("assistir o novelo se formar"), modo antes/depois de um evento.
-- **Dois modos ostensivos**: *Mostrar apenas fontes oficiais* e *Mostrar somente fatos documentados*.
+- **Dois modos ostensivos**: _Mostrar apenas fontes oficiais_ e _Mostrar somente fatos documentados_.
 - **Cor = natureza da relação; forma = força da evidência** (documental, corroborado, alegação, inferência).
 - **Páginas individuais indexáveis** para pessoas, organizações, eventos, documentos, fontes e atos
   públicos, com "Por que está no Novelo?", linha do tempo, evidências, **posição do citado** e lacunas.

@@ -62,15 +62,15 @@ Uma coordenada é uma afirmação sobre onde algo fica e, como toda afirmação 
 quando a precisão for melhor que o município. `place` **nunca** descreve residência de pessoa física:
 a política editorial proíbe endereço residencial, e o lint recusa `kind: property` sem `source_ids`.
 
-| Campo      | Tipo   | Obrigatório       | Descrição                                                                   |
-| ---------- | ------ | ----------------- | --------------------------------------------------------------------------- |
-| name       | string | sim               | Como o lugar é chamado no texto                                             |
-| kind       | enum   | sim               | `property`, `building`, `public_body`, `venue`, `airport`, `city`, `region` |
+| Campo      | Tipo   | Obrigatório       | Descrição                                                                    |
+| ---------- | ------ | ----------------- | ---------------------------------------------------------------------------- |
+| name       | string | sim               | Como o lugar é chamado no texto                                              |
+| kind       | enum   | sim               | `property`, `building`, `public_body`, `venue`, `airport`, `city`, `region`  |
 | lat        | number | sim               | Latitude (-90 a 90)                                                          |
 | lon        | number | sim               | Longitude (-180 a 180)                                                       |
-| precision  | enum   | sim               | `exact`, `approximate`, `city` — exibida na legenda do minimapa             |
+| precision  | enum   | sim               | `exact`, `approximate`, `city` — exibida na legenda do minimapa              |
 | note       | string | não               | O que a coordenada **não** diz (limites do imóvel, matrícula não localizada) |
-| source_ids | Id[]   | não (padrão `[]`) | Fontes da localização; obrigatório quando `kind` é `property`               |
+| source_ids | Id[]   | não (padrão `[]`) | Fontes da localização; obrigatório quando `kind` é `property`                |
 
 O build exporta os lugares em `public/data/novelo.kml`. O minimapa estático de cada registro é gerado
 por `python python/novelo_osint/minimapas.py` em `public/mapas/<id>.png`.
@@ -421,13 +421,13 @@ O que o lint não verifica: independência real entre fontes de classe C, veraci
 
 ## Comandos
 
-| Comando                                     | O que faz                                                                                                                                                                                                                        | Bloqueia em    |
-| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| `npm run data:validate`                     | Carrega e valida `data/`, roda o lint, não gera arquivos. Exclui rascunhos (com aviso)                                                                                                                                           | erros          |
-| `npm run data:validate -- --include-drafts` | O mesmo, incluindo `draft` e `in_review`                                                                                                                                                                                         | erros          |
-| `npm run data:lint` | `validate-data.ts --strict`: inclui rascunhos; avisos bloqueiam apenas em registros `published`. É o comando da integração contínua e do PR de dados | erros e avisos em registros publicados |
-| `npm run data:build`                        | Compila `data/` em `src/generated/corpus.json`, `src/generated/stats.json` e `public/data/graph.json` (com layout ForceAtlas2 determinístico). Aceita `-- --include-drafts` (ou `NOVELO_INCLUDE_DRAFTS=true`) e `-- --no-layout` | erros          |
-| `npm run check`                             | `typecheck`, `lint` (ESLint), `data:lint` e `test` em sequência                                                                                                                                                                  | qualquer falha |
+| Comando                                     | O que faz                                                                                                                                                                                                                        | Bloqueia em                            |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| `npm run data:validate`                     | Carrega e valida `data/`, roda o lint, não gera arquivos. Exclui rascunhos (com aviso)                                                                                                                                           | erros                                  |
+| `npm run data:validate -- --include-drafts` | O mesmo, incluindo `draft` e `in_review`                                                                                                                                                                                         | erros                                  |
+| `npm run data:lint`                         | `validate-data.ts --strict`: inclui rascunhos; avisos bloqueiam apenas em registros `published`. É o comando da integração contínua e do PR de dados                                                                             | erros e avisos em registros publicados |
+| `npm run data:build`                        | Compila `data/` em `src/generated/corpus.json`, `src/generated/stats.json` e `public/data/graph.json` (com layout ForceAtlas2 determinístico). Aceita `-- --include-drafts` (ou `NOVELO_INCLUDE_DRAFTS=true`) e `-- --no-layout` | erros                                  |
+| `npm run check`                             | `typecheck`, `lint` (ESLint), `data:lint` e `test` em sequência                                                                                                                                                                  | qualquer falha                         |
 
 `npm run dev` e `npm run build` executam `data:build` antes do Next.
 
