@@ -1,0 +1,35 @@
+id: rel-paulo-sergio-neves-de-souza-daniel-vorcaro-investigative-allegation
+from_id: paulo-sergio-neves-de-souza
+to_id: daniel-vorcaro
+relationship_type: investigative_allegation
+label: suspeita de favorecimento
+start_date: '2026-03-04'
+description: Segundo a Polícia Federal, o ex-diretor de fiscalização é suspeito de ter usado influência
+  no Banco Central em favor do banqueiro. Ele nega vantagem indevida. A apuração está em curso e não há
+  decisão de mérito.
+evidence_class: A
+confidence: 0.6
+status: disputed
+event_ids:
+- evt-2026-03-04-medidas-cautelares-contra-dois-servidores-do-bc
+evidence_ids:
+- ev-buscas-e-cautelares-contra-dois-servidores-do-bc
+source_ids:
+- src-portoferreira-2026-03-05-cautelares-paulo-sergio-neves-de-souza
+- src-platobr-2026-03-04-medidas-contra-ex-dirigentes-do-bc
+cited_position:
+- by_id: paulo-sergio-neves-de-souza
+  kind: denial
+  summary: Negou vantagem indevida e afirmou que não simulou a venda de um sítio, dizendo que o negócio
+    foi feito a valor de mercado.
+  source_ids:
+  - src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+directed: false
+document_ids: []
+transaction_ids: []
+kind: relationship
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,28 @@
+id: evt-2019-05-02-novo-pedido-com-grupo-de-controle-de-tres-nomes
+title: Novo pedido ao Banco Central com grupo de controle de três nomes
+event_type: corporate_act
+date: '2019-05-02'
+participant_ids:
+- daniel-vorcaro
+- felipe-wallace-simonsen
+- armando-miguel-gallo-neto
+- banco-central-do-brasil
+- banco-master
+description: Segundo a reconstituição do Valor Econômico, em 2 de maio de 2019 foi protocolado novo pedido
+  de transferência de controle, agora com um grupo enxuto de três nomes. Os candidatos entregaram declarações
+  retificadoras à Receita, recolheram impostos e apresentaram recursos líquidos em bancos de grande porte.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-valor-grupo-de-controle-apresentado-em-maio-de-2019
+source_ids:
+- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+document_ids: []
+public_act_ids: []
+cited_position: []
+kind: event
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,37 @@
+id: evt-2026-03-24-stf-desobriga-belline-santana-de-depor-a-cpi
+title: STF torna facultativo o depoimento de Belline Santana à CPI do Crime Organizado
+event_type: judicial_decision
+date: '2026-03-24'
+participant_ids:
+- andre-mendonca
+- supremo-tribunal-federal
+- belline-santana
+- cpi-do-crime-organizado
+- senado-federal
+- humberto-costa
+- alessandro-vieira
+description: Convocado pelos requerimentos 232/2026 e 239/2026, o ex-chefe do Departamento de Supervisão
+  Bancária obteve decisão do ministro André Mendonça que o desobrigou de comparecer e tornou a convocação
+  facultativa, com direito ao silêncio e assistência de advogado em caso de comparecimento. A defesa informou
+  impossibilidade de deslocamento porque ele cumpre medida cautelar com monitoramento eletrônico em São
+  Paulo. Segundo o presidente da comissão, situação semelhante já havia ocorrido com Paulo Sérgio Neves
+  de Souza.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-torna-facultativo-o-depoimento-de-belline-santana
+- ev-senado-cargos-dos-dois-servidores-do-bc
+source_ids:
+- src-senado-2026-03-20-belline-santana-convocado-a-cpi
+- src-senado-2026-03-24-stf-libera-belline-santana-de-depor
+document_ids:
+- doc-2026-03-24-decisao-mendonca-comparecimento-facultativo
+- doc-2026-03-requerimentos-232-e-239-2026-cpi-crime-organizado
+public_act_ids: []
+cited_position: []
+kind: event
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

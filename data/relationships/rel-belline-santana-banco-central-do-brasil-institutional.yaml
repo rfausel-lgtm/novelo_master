@@ -1,0 +1,31 @@
+id: rel-belline-santana-banco-central-do-brasil-institutional
+from_id: belline-santana
+to_id: banco-central-do-brasil
+relationship_type: institutional
+label: chefe da supervisão bancária
+start_date: '2019-01-01'
+end_date: '2024-12-31'
+description: Servidor de carreira, chefiou o Departamento de Supervisão Bancária entre 2019 e 2024, setor
+  responsável pela supervisão direta das instituições financeiras, segundo a Agência Senado. Está afastado
+  e cumpre medida cautelar.
+evidence_class: C
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2026-03-04-medidas-cautelares-contra-dois-servidores-do-bc
+- evt-2026-03-24-stf-desobriga-belline-santana-de-depor-a-cpi
+evidence_ids:
+- ev-senado-cargos-dos-dois-servidores-do-bc
+source_ids:
+- src-senado-2026-03-20-belline-santana-convocado-a-cpi
+- src-senado-2026-03-24-stf-libera-belline-santana-de-depor
+directed: false
+document_ids: []
+transaction_ids: []
+cited_position: []
+kind: relationship
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

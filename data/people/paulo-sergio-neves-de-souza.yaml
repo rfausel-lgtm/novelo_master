@@ -1,0 +1,34 @@
+id: paulo-sergio-neves-de-souza
+name: Paulo Sérgio Neves de Souza
+category: public_official
+aliases:
+- Paulo Sérgio Neves de Sousa
+role: Diretor de Fiscalização do Banco Central (2019-2023)
+summary: Servidor de carreira do Banco Central. Segundo o Valor Econômico, afirmou na reunião de diretoria
+  de outubro de 2019 que eventuais problemas de conduta do pretendente ao controle do Máxima poderiam
+  ser coibidos pela supervisão. Em março de 2026 foi alvo de busca e apreensão na Operação Compliance
+  Zero e passou a cumprir medidas cautelares determinadas pelo STF, entre elas monitoramento eletrônico;
+  a Polícia Federal o considera suspeito de ter usado influência no Banco Central em favor de Daniel Vorcaro.
+  Já estava afastado no âmbito de apuração interna da própria autarquia.
+why_in_novelo: Dirigiu a área de fiscalização do Banco Central no período de supervisão do banco e é alvo
+  de medidas cautelares determinadas pelo STF na investigação.
+cited_position:
+- by_id: paulo-sergio-neves-de-souza
+  kind: denial
+  summary: Negou vantagem indevida e afirmou que não simulou a venda de um sítio, dizendo que o negócio
+    foi feito a valor de mercado.
+  source_ids:
+  - src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+source_ids:
+- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- src-platobr-2026-03-04-medidas-contra-ex-dirigentes-do-bc
+- src-portoferreira-2026-03-05-cautelares-paulo-sergio-neves-de-souza
+- src-senado-2026-03-24-stf-libera-belline-santana-de-depor
+positions: []
+open_questions: []
+kind: person
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,35 @@
+id: evt-2019-10-14-bc-aprova-a-transferencia-de-controle-do-maxima
+title: Banco Central aprova a transferência de controle do Banco Máxima
+event_type: regulatory_act
+date: '2019-10-14'
+participant_ids:
+- banco-central-do-brasil
+- joao-manoel-pinho-de-mello
+- roberto-campos-neto
+- paulo-sergio-neves-de-souza
+- daniel-vorcaro
+- banco-master
+description: O voto BCB nº 218/2019, relatado pelo diretor João Manoel Pinho de Mello, aprovou a aquisição
+  do controle oito meses depois da rejeição, já sob a presidência de Roberto Campos Neto. O voto considerou
+  aportes de capital de R$ 100 milhões deliberados entre março e junho de 2019, fluxo de caixa futuro
+  e laudos de avaliação a valor de mercado, e afirmou que a origem dos recursos foi regularmente demonstrada
+  pelos novos acionistas. Segundo o Valor Econômico, o então diretor de fiscalização Paulo Sérgio Neves
+  de Souza afirmou na reunião que eventuais problemas de conduta poderiam ser coibidos pela supervisão.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-voto-218-2019-aprova-transferencia-de-controle
+- ev-valor-reputacao-conhecida-pela-diretoria-do-bc
+source_ids:
+- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
+- src-timesbrasil-2026-04-24-bc-divulga-votos-do-maxima
+document_ids: []
+public_act_ids: []
+cited_position: []
+kind: event
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,36 @@
+id: evt-2019-02-bc-rejeita-a-transferencia-de-controle-do-maxima
+title: Banco Central rejeita a transferência de controle do Banco Máxima
+event_type: regulatory_act
+date: 2019-02
+date_precision: month
+participant_ids:
+- banco-central-do-brasil
+- sidnei-correa-marques
+- daniel-vorcaro
+- banco-master
+description: 'O voto BCB nº 20/2019, relatado pelo diretor Sidnei Corrêa Marques, indeferiu o pedido de
+  transferência do controle do Banco Máxima a Daniel Vorcaro. Os dois fundamentos foram a falta de comprovação
+  da origem dos recursos empregados na operação e a falta de demonstração de capacidade econômica e financeira
+  dos pretendentes. O voto registra que parcela expressiva dos recursos teria saído do próprio banco.
+  A análise de reputação ilibada foi dispensada por economia processual, já que outros dois quesitos bastavam
+  para barrar o pedido. As fontes divergem sobre o dia: a data de 13 de fevereiro aparece na reconstituição
+  do Valor e a de 13 de janeiro no texto que a acompanha.'
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-voto-20-2019-rejeita-transferencia-de-controle
+- ev-valor-triangulacao-de-recursos-na-compra-do-maxima
+- ev-valor-reputacao-conhecida-pela-diretoria-do-bc
+source_ids:
+- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
+- src-timesbrasil-2026-04-24-bc-divulga-votos-do-maxima
+document_ids: []
+public_act_ids: []
+cited_position: []
+kind: event
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

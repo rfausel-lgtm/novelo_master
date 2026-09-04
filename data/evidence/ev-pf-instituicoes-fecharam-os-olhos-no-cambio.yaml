@@ -1,0 +1,18 @@
+id: ev-pf-instituicoes-fecharam-os-olhos-no-cambio
+classification: A
+proposition: Segundo o relatório da Polícia Federal, oito instituições financeiras, entre elas o Master,
+  de forma deliberada fecharam os olhos para a realidade de seus clientes nas operações de câmbio apuradas
+  na Operação Colossus.
+source_ids:
+- src-otempo-2026-02-02-remessas-do-master-a-one-world-services
+- src-gazeta-2026-02-02-master-2-8-bilhoes-one-world-services
+date: '2026-02-02'
+attributed_to: Polícia Federal, em relatório citado pela Folha de S.Paulo
+excerpt: de forma deliberada fecharam os olhos para a realidade de seus clientes
+document_ids: []
+kind: evidence
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

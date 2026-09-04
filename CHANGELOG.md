@@ -7,6 +7,17 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 19 do corpus, a origem do controle: os dois votos do Banco Central sobre a transferência do Banco
+  Máxima a Daniel Vorcaro, cujos extratos vieram a público em abril de 2026. Em fevereiro de 2019 o voto
+  BCB 20/2019 indeferiu o pedido por falta de comprovação da origem dos recursos e de capacidade
+  financeira, registrando que parcela expressiva teria saído do próprio banco; oito meses depois, o voto
+  BCB 218/2019 aprovou a mesma operação, afirmando que a origem fora regularmente demonstrada. Entram o
+  caminho patrimonial descrito nos votos (Viking Participações, WWS Holding, Superávit Participações,
+  fundo Brazil Realty e o antigo controlador Saul Dutra Sabbá), as remessas de US$ 531 milhões da era
+  Máxima à One World Services, com a resposta do banco sobre o acordo administrativo com o Banco Central,
+  e a situação dos dois servidores que responderam pela supervisão bancária entre 2019 e 2024, com a
+  negativa de um deles e a decisão que tornou facultativo o depoimento do outro à CPI.
+
 - Lote 18 do corpus: seção 6.1 do IPJ-A 3298613/2026 (já extraído no lote 17) — o episódio da eleição do
   Conselho Nacional de Procuradores-Gerais (CNPG) em abril de 2024. Segundo o laudo, o advogado Ciro
   Soares relatou a Vorcaro ter pedido a Paulo Gonet que convencesse um concorrente a desistir da disputa
@@ -22,6 +33,7 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
   Ministério Público —, os dois inquéritos conexos (IPL 2026.0053200 e IPL 2026.0029775, este sobre o
   grupo 'Turma'), a autuação da PET 16.662 por prevenção e o despacho que abriu vista à PGR por cinco
   dias. Corrige a data do primeiro contrato Barci de Moraes para 23/01/2024.
+
 - Lote 16 do corpus: o relatório final apresentado à CPMI do INSS, de 4.340 páginas, e sua rejeição por
   19 votos a 12 na madrugada de 28/03/2026, com a comissão encerrando sem relatório aprovado. O texto
   dedica seção própria ao Banco Master, propõe indiciar Daniel Vorcaro e Augusto Ferreira Lima por oito

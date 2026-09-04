@@ -1,0 +1,28 @@
+id: evt-2017-12-aporte-do-fgc-na-compra-de-participacao-no-maxima
+title: Aporte de R$ 15,447 milhões do FGC na compra de participação no Máxima
+event_type: transaction
+date: 2017-12
+date_precision: month
+participant_ids:
+- daniel-vorcaro
+- fundo-garantidor-de-creditos
+- banco-master
+description: Os votos do Banco Central registram, segundo a reconstituição publicada a partir dos extratos
+  obtidos pelo Valor Econômico, aporte de R$ 15,447 milhões do Fundo Garantidor de Créditos em dezembro
+  de 2017 para a compra de participação no banco. As fontes lidas não detalham o instrumento nem as condições
+  do aporte.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-valor-aporte-do-fgc-em-dezembro-de-2017
+source_ids:
+- src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
+document_ids: []
+public_act_ids: []
+cited_position: []
+kind: event
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

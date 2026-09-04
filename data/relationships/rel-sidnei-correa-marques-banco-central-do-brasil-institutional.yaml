@@ -1,0 +1,28 @@
+id: rel-sidnei-correa-marques-banco-central-do-brasil-institutional
+from_id: sidnei-correa-marques
+to_id: banco-central-do-brasil
+relationship_type: institutional
+label: diretor do Banco Central
+start_date: 2019-02
+description: Era diretor de Organização do Sistema Financeiro e de Resolução quando relatou o voto BCB
+  20/2019, que indeferiu a transferência de controle do Banco Máxima.
+evidence_class: C
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2019-02-bc-rejeita-a-transferencia-de-controle-do-maxima
+evidence_ids:
+- ev-voto-20-2019-rejeita-transferencia-de-controle
+source_ids:
+- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- src-timesbrasil-2026-04-24-bc-divulga-votos-do-maxima
+directed: false
+document_ids: []
+transaction_ids: []
+cited_position: []
+kind: relationship
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
