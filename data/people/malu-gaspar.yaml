@@ -1,0 +1,24 @@
+id: malu-gaspar
+kind: person
+name: Malu Gaspar
+category: journalist
+role: Colunista do jornal O Globo
+positions: []
+summary: Jornalista, colunista de O Globo, com cobertura sobre a Operação Compliance Zero e o Banco Master.
+  Segundo decisão de André Mendonça na PET 16.346 e mensagens reproduzidas pela CNN Brasil (31/03 a 08/04/2025),
+  Daniel Vorcaro e Thiago Miranda discutiram estratégias para 'frear' sua cobertura, incluindo levantamento
+  de dados pessoais, financeiros e familiares, e cogitaram contratá-la.
+why_in_novelo: Jornalista apontada, em decisão judicial da Operação Compliance Zero, como alvo de levantamento
+  de dados pessoais encomendado por Daniel Vorcaro em razão de sua cobertura do caso.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-07-09-integra-decisao-thiago-miranda
+- src-cnnbrasil-2026-vorcaro-devassa-malu-gaspar
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

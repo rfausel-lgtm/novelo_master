@@ -7,6 +7,16 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 23 do corpus: leitura integral, por OCR, da decisão de 24 páginas que autorizou a 10ª fase da
+  Compliance Zero (PET 16.346) — o PDF publicado pela imprensa tinha fonte corrompida, ilegível por
+  extração direta de texto. Corrige o link do documento (ausente até então) e o número do processo.
+  Acrescenta o núcleo de vigilância contra jornalistas e executivos: o dossiê contra a jornalista Malu
+  Gaspar, com mensagens datadas entre março e abril de 2025; o dossiê contra o CEO do Itaú Milton Maluhy
+  Filho; os contatos com a jornalista Consuelo Dieguez e o consultor Renato Breia para retirada de
+  conteúdo; a plataforma NEXTBUSCAS.PRO; o acordo de confidencialidade da agência UNLTD com um vereador
+  ('Projeto UNLTD'); e o achado independente da Febraban sobre ataques coordenados ao Banco Central.
+  Registra, como alegação de imprensa não verificada diretamente, a tentativa relatada de usar a
+  companheira do presidente do Banco Central, Gabriel Galípolo, como via de influência.
 - Lote 22 do corpus: o obstáculo regimental de Hugo Motta à CPI do Banco Master na Câmara — o pedido,
   protocolado por Rodrigo Rollemberg em 02/02/2026 com 201 assinaturas, ocupava em fevereiro a 16ª posição
   entre 17 requerimentos de CPI, com a lista completa das 15 comissões à frente na fila (da CPI das 123

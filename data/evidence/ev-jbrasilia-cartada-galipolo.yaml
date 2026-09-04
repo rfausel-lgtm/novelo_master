@@ -1,0 +1,23 @@
+id: ev-jbrasilia-cartada-galipolo
+kind: evidence
+classification: A
+proposition: 'Mensagens entre Thiago Miranda e Daniel Vorcaro, sem data precisa e com uma referência situada
+  em agosto de 2025, relatadas pelo Jornal de Brasília com base em reportagem do portal Fatos Online (bloqueada
+  para leitura direta): Miranda escreve ''Temos uma cartada em último caso com o Galípolo'', descreve
+  a companheira do presidente do Banco Central como ''muito amiga minha'' e cogita tê-la como ''nossa
+  funcionária na IstoÉ'' ou em clínica ligada ao grupo; acrescenta ''Se for preciso usarei todas as armas
+  que tenho''. Vorcaro responde ''Obrigado, amigo'' e ''Ainda não usamos seu canhão''. Em mensagem situada
+  em agosto de 2025, Miranda volta a mencionar ''uma cartada que é a namorada dele''. Não há confirmação
+  de que a contratação tenha ocorrido, nem manifestação de Gabriel Galípolo, de sua companheira ou da
+  revista IstoÉ.'
+document_ids: []
+source_ids:
+- src-jbrasilia-2026-cartada-galipolo
+excerpt: Temos uma cartada em último caso com o Galípolo.
+attributed_to: Jornal de Brasília, citando reportagem do portal Fatos Online
+date: 2025-08
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

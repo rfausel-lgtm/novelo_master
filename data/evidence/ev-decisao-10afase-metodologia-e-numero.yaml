@@ -1,0 +1,19 @@
+id: ev-decisao-10afase-metodologia-e-numero
+kind: evidence
+classification: D
+proposition: A decisão de André Mendonça que autorizou a 10ª fase (PET 16.346, 24 páginas) narra que a
+  Coordenação de Contrainteligência da PF produziu a Informação nº 97765/2026 a partir de fontes abertas,
+  o que deu origem a inquérito próprio (Inq. 5.035). Após a publicação de duas reportagens do portal Fatos
+  Online, em 30/06 e 01/07/2026, com trechos de mensagens dos aparelhos apreendidos, foi produzida a Informação
+  de Polícia Judiciária nº 276/2026-NADIP/DFIN/CGRC/DICOR/PF, que corroborou o conteúdo publicado e identificou
+  o papel central de Thiago Miranda no recrutamento de influenciadores.
+document_ids:
+- doc-2026-07-09-decisao-mendonca-10a-fase
+source_ids:
+- src-poder360-2026-07-09-integra-decisao-thiago-miranda
+date: '2026-07-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

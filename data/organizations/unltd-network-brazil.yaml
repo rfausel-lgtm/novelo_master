@@ -1,0 +1,24 @@
+id: unltd-network-brazil
+kind: organization
+name: UNLTD Network Brazil Ltda
+aliases:
+- Unlimited
+org_type: company
+summary: Agência de comunicação e relações públicas, também referida como 'Unlimited', de propriedade
+  de André Salvador e Anderson Antunes (CNPJ 47.643.948/0001-29). Segundo a decisão de André Mendonça
+  na PET 16.346, foi contratada no âmbito do 'Projeto DV' para recrutar formadores de opinião, exigindo
+  acordo de confidencialidade com multa de R$ 800 mil por quebra contratual. A decisão reproduz trecho
+  do acordo firmado com um vereador, sob o título 'PROJETO UNLTD'.
+why_in_novelo: Agência apontada, em decisão judicial da Operação Compliance Zero, como executora de campanha
+  coordenada de influenciadores a favor do Banco Master e contra o Banco Central.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-07-09-integra-decisao-thiago-miranda
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

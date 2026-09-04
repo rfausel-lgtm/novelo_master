@@ -9,6 +9,12 @@ participant_ids:
 - thiago-miranda
 - andre-mendonca
 - daniel-vorcaro
+- milton-maluhy-filho
+- consuelo-dieguez
+- renato-breia
+- andre-salvador-unltd
+- anderson-antunes-unltd
+- unltd-network-brazil
 description: A PF cumpriu mandado de busca e apreensão contra o publicitário Thiago Miranda, autorizado
   por André Mendonça. A decisão cita o 'Projeto DV' (contratação de influenciadores e jornalistas para
   defender o Master e atacar o BC) e o levantamento de dados sigilosos de jornalistas (Malu Gaspar, Consuelo
@@ -24,7 +30,12 @@ evidence_ids:
 - ev-projeto-dv-influenciadores
 - ev-nota-defesa-thiago-miranda
 - ev-pf-comunicado-10a-fase
-- ev-pf-comunicado-10a-fase
+- ev-decisao-10afase-metodologia-e-numero
+- ev-decisao-10afase-dossie-malu-gaspar
+- ev-decisao-10afase-dossie-milton-maluhy
+- ev-decisao-10afase-contatos-consuelo-renato
+- ev-decisao-10afase-acordo-unltd-rony-gabriel
+- ev-decisao-10afase-febraban-ataques-coordenados
 source_ids:
 - src-poder360-2026-07-09-operacao-thiago-miranda
 - src-poder360-2026-07-09-quem-e-thiago-miranda

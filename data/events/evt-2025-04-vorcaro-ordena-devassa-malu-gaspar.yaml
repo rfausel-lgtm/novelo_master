@@ -1,0 +1,31 @@
+id: evt-2025-04-vorcaro-ordena-devassa-malu-gaspar
+kind: event
+title: Vorcaro ordena levantamento de dados pessoais da jornalista Malu Gaspar
+event_type: communication
+date: '2025-04-01'
+date_precision: month
+participant_ids:
+- daniel-vorcaro
+- thiago-miranda
+- malu-gaspar
+description: Entre 31/03/2025 e 08/04/2025, segundo mensagens reproduzidas pela CNN Brasil e corroboradas
+  pela decisão judicial que autorizou a 10ª fase da Compliance Zero, Daniel Vorcaro e Thiago Miranda trocaram
+  mensagens sobre 'frear' a cobertura da jornalista Malu Gaspar (O Globo), cogitando contratá-la ('luva
+  de 1,5 mm e salário de 120k') e determinando levantamento de dados pessoais, financeiros, familiares
+  e patrimoniais, com uso apontado pela PF da plataforma 'NEXTBUSCAS.PRO'.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-decisao-10afase-dossie-malu-gaspar
+- ev-cnn-mensagens-vorcaro-thiago-malu-gaspar
+source_ids:
+- src-poder360-2026-07-09-integra-decisao-thiago-miranda
+- src-cnnbrasil-2026-vorcaro-devassa-malu-gaspar
+document_ids:
+- doc-2026-07-09-decisao-mendonca-10a-fase
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

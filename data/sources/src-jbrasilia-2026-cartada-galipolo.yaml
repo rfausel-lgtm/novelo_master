@@ -1,0 +1,22 @@
+id: src-jbrasilia-2026-cartada-galipolo
+kind: source
+title: Investigação do caso Master reúne mensagens que citam Galípolo e companheira
+publisher: Jornal de Brasília
+publication_date: 2026-07
+retrieved_at: '2026-09-03'
+url: https://jornaldebrasilia.com.br/noticias/politica-e-poder/investigacao-do-caso-master-reune-mensagens-que-citam-galipolo-e-companheira/
+source_type: press
+summary: 'Relata mensagens, sem data precisa e depois de agosto de 2025, entre Thiago Miranda e Daniel
+  Vorcaro sobre o presidente do Banco Central, Gabriel Galípolo, e sua companheira, citada como funcionária
+  ou pretendente a funcionária da revista IstoÉ. Fonte primária: o portal Fatos Online (bloqueado para
+  leitura direta pela equipe editorial — HTTP 403).'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

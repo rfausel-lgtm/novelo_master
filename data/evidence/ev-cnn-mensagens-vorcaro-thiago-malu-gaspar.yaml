@@ -1,0 +1,19 @@
+id: ev-cnn-mensagens-vorcaro-thiago-malu-gaspar
+kind: evidence
+classification: A
+proposition: 'Mensagens reproduzidas pela CNN Brasil, com datas entre 31/03/2025 e 08/04/2025: Vorcaro
+  escreve ''Agora tenho que frear a Malu Gaspar'', ''Ela vai começar campanha contra se não entrarmos'',
+  ''Vamos ter que tentar pegar algo dessa mulher no pessoal'' e, em 08/04, cogita ''Contratar ela. Luva
+  de 1,5 mm e salário de 120k o que acha''. Miranda responde ''Vou revirar a vida dela'' e ''Eu preciso
+  arrumar uma forma de calar essa mulher. Ela é intragável''.'
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-vorcaro-devassa-malu-gaspar
+excerpt: Vamos ter que tentar pegar algo dessa mulher no pessoal.
+attributed_to: CNN Brasil, com base em arquivos da investigação da Operação Compliance Zero
+date: '2025-04-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

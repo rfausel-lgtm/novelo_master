@@ -1,0 +1,35 @@
+id: evt-2025-08-tentativa-de-alavanca-sobre-galipolo
+kind: event
+title: Miranda propõe usar a companheira de Galípolo como 'cartada' contra o presidente do BC
+event_type: communication
+date: 2025-08
+date_precision: month
+participant_ids:
+- daniel-vorcaro
+- thiago-miranda
+- gabriel-galipolo
+description: Segundo o Jornal de Brasília, com base em reportagem do portal Fatos Online, mensagens entre
+  Thiago Miranda e Daniel Vorcaro discutem usar a companheira do presidente do Banco Central, Gabriel
+  Galípolo, como 'cartada' — cogitando contratá-la para a revista IstoÉ ou clínica ligada ao grupo. Não
+  há confirmação de que a contratação tenha ocorrido nem manifestação de Galípolo ou de sua companheira.
+  Relato de imprensa a partir de mensagens não lidas diretamente pela equipe editorial (fonte primária
+  bloqueada); classificado como alegação.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-jbrasilia-cartada-galipolo
+source_ids:
+- src-jbrasilia-2026-cartada-galipolo
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública de Gabriel Galípolo, de sua companheira ou da revista IstoÉ localizada
+    até a data desta atualização.
+  source_ids:
+  - src-jbrasilia-2026-cartada-galipolo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

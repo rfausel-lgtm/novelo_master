@@ -1,0 +1,25 @@
+id: rev-2026-09-04-lote-23-decisao-10a-fase-por-ocr
+kind: revision
+date: '2026-09-03'
+title: 'Lote 23: leitura integral, por OCR, da decisão da 10ª fase (PET 16.346)'
+summary: 'O PDF de 24 páginas da decisão que autorizou a 10ª fase (publicado pelo Poder360) tinha fonte
+  corrompida — pypdf e PyMuPDF retornavam apenas caracteres ilegíveis. Convertidas as páginas em imagem
+  e aplicado OCR em português (Tesseract), obteve-se o texto integral e legível. Corrige o link do documento
+  (antes ausente, causa do erro 404 registrado no backlog) e o número do processo (PET 16.346). Acrescenta
+  o núcleo de vigilância contra jornalistas e executivos: o dossiê contra Malu Gaspar (com mensagens datadas,
+  via CNN Brasil), o dossiê contra o CEO do Itaú Milton Maluhy Filho, os contatos com Consuelo Dieguez
+  e Renato Breia, a plataforma NEXTBUSCAS.PRO, o acordo de confidencialidade da agência UNLTD com um vereador
+  (''Projeto UNLTD'') e o achado independente da Febraban sobre ataques coordenados ao Banco Central.
+  Também registra, com classificação de alegação (fonte de imprensa não lida diretamente), a tentativa
+  relatada de usar a companheira do presidente do Banco Central, Gabriel Galípolo, como via de influência.'
+affected_ids:
+- doc-2026-07-09-decisao-mendonca-10a-fase
+- evt-2026-07-09-compliance-zero-10a-fase-thiago-miranda
+- thiago-miranda
+- daniel-vorcaro
+reason: 'Item de backlog: link 404 do documento da 10ª fase.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

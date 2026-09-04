@@ -1,0 +1,23 @@
+id: consuelo-dieguez
+kind: person
+name: Consuelo Dieguez
+category: journalist
+role: Jornalista da revista Piauí
+positions: []
+summary: Jornalista da revista Piauí. Segundo a decisão de André Mendonça na PET 16.346, foi contatada
+  por Thiago Miranda, a mando de Daniel Vorcaro, para retirar de circulação reportagem considerada prejudicial
+  aos interesses do banqueiro; recusou-se e orientou que ele enviasse carta à revista com sua versão dos
+  fatos.
+why_in_novelo: Jornalista apontada, em decisão judicial da Operação Compliance Zero, como alvo de tentativa
+  de supressão de reportagem a mando de Daniel Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-07-09-integra-decisao-thiago-miranda
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

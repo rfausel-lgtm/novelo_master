@@ -6,9 +6,20 @@ date: '2026-07-09'
 source_ids:
 - src-poder360-2026-07-09-operacao-thiago-miranda
 - src-poder360-2026-07-09-quem-e-thiago-miranda
-summary: Decisão (PDF publicado pelo Poder360) que autoriza busca contra Thiago Miranda, cita o 'Projeto
-  DV' e o levantamento de dados sigilosos de jornalistas e executivos. Não lida pela equipe; trechos citados
-  pelo Poder360.
+summary: Decisão de 24 páginas do ministro André Mendonça (PET 16.346) que autorizou busca e apreensão
+  contra Thiago Miranda, publicitário apontado como articulador do 'Projeto DV' — campanha custeada com
+  recursos do esquema Banco Master para recrutar influenciadores e jornalistas, sob acordo de confidencialidade,
+  para questionar decisões de órgãos públicos e proteger o núcleo dirigente da organização investigada.
+  A decisão narra o histórico do 'braço armado' do grupo (cooptação de policiais para intimidação e obtenção
+  de dados sigilosos, já referido em fases anteriores), o levantamento de dados pessoais contra a jornalista
+  Malu Gaspar e o executivo Milton Maluhy Filho (CEO do Itaú), o uso da plataforma 'NEXTBUSCAS.PRO', contatos
+  com a jornalista Consuelo Dieguez e o consultor Renato Breia para retirada de conteúdo, e o recrutamento
+  de um vereador pela agência UNLTD (Unlimited, de André Salvador e Anderson Antunes) mediante acordo
+  de confidencialidade com multa de R$ 800 mil. Registra manifestação favorável da PGR ao deferimento.
+  A Polícia Federal reconhece lacunas probatórias quanto à real dimensão dos ilícitos e à identificação
+  de todos os integrantes da equipe de Thiago Miranda. O PDF publicado pelo Poder360 tinha fonte corrompida
+  para extração direta de texto; a equipe editorial converteu as páginas em imagem e aplicou OCR em português
+  para leitura integral das 24 páginas.
 is_official: true
 related_entity_ids:
 - andre-mendonca
@@ -21,3 +32,7 @@ reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+url: https://static.poder360.com.br/uploads/2026/07/decisao-de-mendonca-aponta-monitoramento-de-malu-gaspar-consuelo-deos-e-ceo-do-itau-a-pedido-de-vorcaro-09.jul_.2026.pdf
+reference: PET 16.346
+excerpt: os elementos de informação até então colhidos são consistentes quanto à materialidade e à autoria
+  delitiva
