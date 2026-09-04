@@ -12,6 +12,9 @@ summary: Presidente da República. Recebeu Daniel Vorcaro no Palácio do Planalt
   fora da agenda oficial articulado por Guido Mantega, com a participação de Gabriel Galípolo e de ministros;
   confirmou o encontro em entrevista ao UOL e afirmou ter dito ao banqueiro que 'não haverá posição política
   pró ou contra o Banco Master'. A Presidência informou, por LAI, não ter produzido registros da reunião.
+  Em 03/09/2026, fez sua primeira manifestação pública sobre a crise institucional aberta pelas mensagens
+  Vorcaro-Moraes, chamando o caso Master de 'o maior roubo da história do Brasil', defendendo reforma
+  do Judiciário e cobrando apuração 'doa a quem doer'.
 why_in_novelo: Recebeu Daniel Vorcaro em reunião fora da agenda no Palácio do Planalto em dezembro de
   2024, fato confirmado pelo próprio presidente.
 cited_position:
@@ -29,6 +32,13 @@ cited_position:
   summary: 'Resposta via LAI: não foram produzidas atas, registros, filmagens ou gravações das reuniões.'
   source_ids:
   - src-brasilparalelo-2026-02-planalto-sem-registros
+- kind: version
+  summary: Chamou o caso Master de 'o maior roubo da história do Brasil' e cobrou apuração 'doa a quem
+    doer', preservando as instituições.
+  source_ids:
+  - src-infomoney-2026-09-03-lula-maior-roubo-historia
+  by_id: luiz-inacio-lula-da-silva
+  date: '2026-09-03'
 open_questions:
 - Não há, no corpus, documento oficial que registre o encontro; a confirmação vem do próprio presidente
   e de mensagens do banqueiro citadas pela imprensa.
@@ -38,6 +48,7 @@ source_ids:
 - src-brasilparalelo-2026-02-planalto-sem-registros
 - src-poder360-2026-08-27-lula-defende-wagner
 - src-senado-2026-06-25-wagner-deixa-lideranca
+- src-infomoney-2026-09-03-lula-maior-roubo-historia
 full_name: Luiz Inácio Lula da Silva
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva

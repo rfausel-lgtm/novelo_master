@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 49 do corpus: os desdobramentos de 04/09/2026. Moraes contra-atacou pedindo formalmente a Fachin
+  que investigue Mendonça por abuso de autoridade; Fachin avocou o pedido no dia seguinte, dando cinco
+  dias úteis à PGR. Veio a público o vídeo do depoimento de Vorcaro à PF ("tenho passado um terror... mas
+  ainda tenho esperança"), no qual reconhece "erros" mas insiste que a venda ao BRB e a liquidação
+  "precisam ser esclarecidas". Registra a primeira manifestação pública de Lula sobre a crise ("o maior
+  roubo da história do Brasil") e a proposta de Gilmar Mendes para retirar delegados da PF dos gabinetes
+  de ministros do STF.
 - Lote 48 do corpus: dois desdobramentos investigados em paralelo. O rastro da CPMI do INSS após seu
   encerramento sem relatório aprovado — dois textos rejeitados foram entregues informalmente a PF, CGU,
   PGR e aos ministros Fux e Mendonça (STF) em abril de 2026, e um vazamento de dados sigilosos de Vorcaro

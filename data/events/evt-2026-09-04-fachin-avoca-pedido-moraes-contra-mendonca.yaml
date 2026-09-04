@@ -1,0 +1,31 @@
+id: evt-2026-09-04-fachin-avoca-pedido-moraes-contra-mendonca
+kind: event
+title: Fachin avoca para si o pedido de Moraes para investigar Mendonça
+event_type: regulatory_act
+date: '2026-09-04'
+date_precision: day
+participant_ids:
+- edson-fachin
+- alexandre-de-moraes
+- andre-mendonca
+- supremo-tribunal-federal
+description: Na noite de 03/09/2026, Moraes pediu formalmente a Fachin a abertura de apuração contra Mendonça,
+  por 'abuso de autoridade, improbidade administrativa e crime de responsabilidade' na condução dos casos
+  Master e INSS — um contra-ataque ao procedimento de cinco dias úteis já aberto por Fachin no mesmo dia
+  03/09, e distinto do pedido verbal de Mendonça pelo afastamento cautelar de Moraes. Em 04/09, Fachin
+  separou o pedido do inquérito das fake news, avocou-o para sua própria relatoria e deu à PGR cinco dias
+  úteis para se manifestar sobre a admissibilidade e regularidade do procedimento adotado por Moraes;
+  Mendonça terá mais cinco dias úteis após isso.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-moraes-pede-fachin-investigar-mendonca
+source_ids:
+- src-jbrasilia-2026-09-04-fachin-avoca-pedido-moraes-mendonca
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

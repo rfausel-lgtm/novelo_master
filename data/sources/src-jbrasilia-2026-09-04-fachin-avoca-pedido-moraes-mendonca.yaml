@@ -1,0 +1,24 @@
+id: src-jbrasilia-2026-09-04-fachin-avoca-pedido-moraes-mendonca
+kind: source
+title: 'STF: Fachin retira de inquérito das fake news pedido de Moraes para investigar Mendonça'
+publisher: Jornal de Brasília
+publication_date: '2026-09-04'
+retrieved_at: '2026-09-03'
+url: https://jornaldebrasilia.com.br/noticias/politica-e-poder/stf-fachin-retira-de-inquerito-das-fake-news-pedido-de-moraes-para-investigar-mendonca/
+source_type: press
+summary: Registra que, na noite de 03/09/2026, Moraes pediu formalmente a Fachin a abertura de apuração
+  contra Mendonça por 'abuso de autoridade, improbidade administrativa e crime de responsabilidade' na
+  condução dos casos Master e INSS. Em 04/09, às 10h01, Fachin separou o pedido do inquérito das fake
+  news, avocou-o para sua própria relatoria e determinou que a PGR se manifeste em cinco dias úteis sobre
+  a admissibilidade e regularidade do procedimento adotado por Moraes; Mendonça terá mais cinco dias úteis
+  após isso para se manifestar.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

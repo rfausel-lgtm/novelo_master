@@ -1,0 +1,26 @@
+id: evt-2026-09-04-video-depoimento-vorcaro-pf-revelado
+kind: event
+title: 'Vídeo do depoimento de Vorcaro à PF vem a público: ''tenho passado um terror'''
+event_type: publication
+date: '2026-09-04'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- policia-federal
+description: A CNN Brasil obteve e divulgou o vídeo do depoimento que Daniel Vorcaro prestou à PF em 28/08/2026.
+  Nele, Vorcaro diz ter passado 'um terror', reconhece 'erros' no processo do Master mas insiste que a
+  venda ao BRB e a liquidação 'precisam ser esclarecidas', afirma ter sido surpreendido pela decisão de
+  liquidar o banco e sinaliza ter 'muitos temas a revelar', pedindo colaboração.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-vorcaro-depoimento-pf-terror-erros
+source_ids:
+- src-ndmais-2026-09-04-vorcaro-terror-depoimento-pf
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

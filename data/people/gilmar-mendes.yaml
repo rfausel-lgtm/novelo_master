@@ -16,9 +16,12 @@ why_in_novelo: Votou, na Segunda Turma do STF, no referendo da prisão preventiv
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Propôs a Fachin, em setembro de 2026, a retirada dos delegados da PF cedidos ao STF, sob justificativa
+  de risco de influência sobre os ministros investigados; proposta ainda não deliberada.
 source_ids:
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
+- src-correiobraziliense-2026-09-gilmar-propoe-retirar-delegados
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

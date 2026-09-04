@@ -39,6 +39,14 @@ cited_position:
   - src-jbrasilia-2026-09-vorcaro-admite-ordens
   by_id: daniel-vorcaro
   date: '2026-09-02'
+- kind: version
+  summary: Em depoimento à PF de 28/08/2026, tornado público em 04/09, disse ter passado 'um terror' e
+    reconheceu 'erros' no processo do Master, mas insistiu que a venda ao BRB e a liquidação precisam
+    ser esclarecidas, afirmando ter sido surpreendido pela decisão de liquidar o banco.
+  source_ids:
+  - src-ndmais-2026-09-04-vorcaro-terror-depoimento-pf
+  by_id: daniel-vorcaro
+  date: '2026-09-04'
 open_questions:
 - Não há, no corpus, a íntegra das decisões judiciais; o conteúdo registrado é o das comunicações oficiais
   do STF.
@@ -67,6 +75,8 @@ source_ids:
 - src-infomoney-2026-03-18-liminar-bloqueio-bens
 - src-infomoney-2026-03-23-cerco-patrimonio-familiares
 - src-otempo-2026-01-10-justica-nega-conexao-vorcaro-carbono-oculto
+- src-ndmais-2026-09-04-vorcaro-terror-depoimento-pf
+- src-jbrasilia-2026-09-04-fachin-avoca-pedido-moraes-mendonca
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published
