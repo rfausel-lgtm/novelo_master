@@ -15,9 +15,14 @@ event_ids: []
 evidence_ids:
 - ev-lewandowski-confirma-servico-master
 - ev-receita-pagamentos-master-cpi
+- ev-contrato-lewandowski-250-mil-por-mes
+- ev-pagamentos-ao-escritorio-apos-ida-ao-ministerio
+- ev-lewandowski-nota-saida-do-escritorio
 source_ids:
 - src-cnn-2026-01-27-lewandowski-contrato
 - src-poder360-2026-04-08-receita-pagamentos-master
+- src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+- src-cnn-2026-04-master-304-milhoes-a-advogados
 document_ids: []
 cited_position:
 - by_id: ricardo-lewandowski
@@ -25,8 +30,17 @@ cited_position:
   summary: Confirmou o serviço; retirou-se do escritório ao assumir o ministério em jan/2024.
   source_ids:
   - src-cnn-2026-01-27-lewandowski-contrato
+- kind: clarification
+  summary: Ao assumir o Ministério da Justiça em janeiro de 2024, retirou-se do escritório e suspendeu
+    o registro na OAB, deixando de atuar em todos os casos.
+  source_ids:
+  - src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+  by_id: ricardo-lewandowski
+  date: '2026'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+transaction_ids:
+- tx-2023-2025-master-lewandowski-advogados

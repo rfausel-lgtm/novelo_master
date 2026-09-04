@@ -17,11 +17,20 @@ cited_position:
     na OAB ao assumir o ministério em janeiro de 2024; saída do ministério por motivos pessoais.
   source_ids:
   - src-cnn-2026-01-27-lewandowski-contrato
+- kind: clarification
+  summary: Após deixar o STF em abril de 2023 voltou a advogar e prestou consultoria ao Master entre outros
+    clientes; ao assumir o Ministério da Justiça retirou-se do escritório e suspendeu o registro na OAB.
+  source_ids:
+  - src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+  by_id: ricardo-lewandowski
+  date: '2026'
 open_questions:
 - Período e valores do contrato não foram detalhados pela fonte lida.
 source_ids:
 - src-cnn-2026-01-27-lewandowski-contrato
 - src-poder360-2026-04-08-receita-pagamentos-master
+- src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+- src-cnn-2026-04-master-304-milhoes-a-advogados
 full_name: Enrique Ricardo Lewandowski
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Ricardo_Lewandowski

@@ -1,0 +1,17 @@
+id: ev-master-304-milhoes-a-advogados-em-2025
+kind: evidence
+classification: A
+proposition: Dados da Declaração de Imposto de Renda do banco, enviados à Receita e remetidos à CPI do
+  Crime Organizado, indicam cerca de R$ 304,5 milhões pagos a advogados e escritórios em 2025, com ao
+  menos 98 escritórios beneficiados.
+document_ids: []
+source_ids:
+- src-cnn-2026-04-master-304-milhoes-a-advogados
+- src-oeste-2026-master-500-milhoes-a-escritorios
+attributed_to: Receita Federal, via CPI do Crime Organizado e CNN Brasil
+date: '2025'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

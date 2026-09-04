@@ -1,0 +1,38 @@
+id: rel-jaques-wagner-ricardo-lewandowski-political
+kind: relationship
+from_id: jaques-wagner
+to_id: ricardo-lewandowski
+relationship_type: political
+directed: true
+label: indicação do escritório ao Banco Master, confirmada pelo senador
+start_date: 2023-08
+description: Segundo a coluna, a contratação do Lewandowski Advogados pelo Master atendeu a pedido do
+  então líder do governo no Senado, que confirmou ter feito a indicação. O mesmo senador nega, por outro
+  lado, ter indicado Guido Mantega ao banco.
+evidence_class: A
+confidence: 0.6
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-wagner-confirma-indicacao-de-lewandowski
+source_ids:
+- src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+document_ids: []
+cited_position:
+- kind: clarification
+  summary: O senador confirmou ter indicado Lewandowski ao banco.
+  source_ids:
+  - src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+  by_id: jaques-wagner
+  date: '2026'
+- kind: denial
+  summary: O mesmo senador nega ter participado da contratação de Guido Mantega.
+  source_ids:
+  - src-metropoles-2026-01-24-wagner-mantega
+  by_id: jaques-wagner
+  date: '2026-01-24'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-04'

@@ -1,0 +1,34 @@
+id: rel-fabio-wajngarten-daniel-vorcaro-professional
+kind: relationship
+from_id: fabio-wajngarten
+to_id: daniel-vorcaro
+relationship_type: professional
+directed: false
+label: integra a equipe de defesa desde o 1º semestre de 2025
+start_date: '2025'
+description: O advogado confirmou ter sido apresentado a Vorcaro no primeiro semestre de 2025 e integrar
+  sua equipe de defesa; sua empresa recebeu ao menos R$ 3,8 milhões, segundo documentos da Receita encaminhados
+  à CPI.
+evidence_class: A
+confidence: 0.7
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-wf-comunicacao-3-8-milhoes
+source_ids:
+- src-cnn-2026-wajngarten-3-8-milhoes
+document_ids: []
+transaction_ids:
+- tx-2025-master-wf-comunicacao-3-8-milhoes
+cited_position:
+- kind: clarification
+  summary: Confirmou a atuação na defesa; o contrato tem cláusula de confidencialidade.
+  source_ids:
+  - src-cnn-2026-wajngarten-3-8-milhoes
+  by_id: fabio-wajngarten
+  date: '2026'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-04'

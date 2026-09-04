@@ -1,0 +1,30 @@
+id: rel-banco-master-pedro-malan-contractual
+kind: relationship
+from_id: banco-master
+to_id: pedro-malan
+relationship_type: contractual
+directed: true
+label: consultoria contratada (parte dos R$ 25,8 milhões a ex-presidentes do BC)
+start_date: '2022'
+description: Empresa ligada ao ex-presidente do Banco Central integra o conjunto de três consultorias
+  que receberam R$ 25,8 milhões do banco entre 2022 e 2025, segundo dados da Receita obtidos pela CNN.
+evidence_class: A
+confidence: 0.5
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-master-25-8-milhoes-a-ex-presidentes-do-bc
+source_ids:
+- src-cnn-2026-master-25-milhoes-ex-presidentes-do-bc
+document_ids: []
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação localizada no corpus.
+  source_ids:
+  - src-cnn-2026-master-25-milhoes-ex-presidentes-do-bc
+  by_id: pedro-malan
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

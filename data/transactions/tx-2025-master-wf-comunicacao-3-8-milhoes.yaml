@@ -1,0 +1,32 @@
+id: tx-2025-master-wf-comunicacao-3-8-milhoes
+kind: transaction
+title: Pagamentos à WF Comunicação para a defesa de Daniel Vorcaro
+transaction_type: fee
+from_id: banco-master
+to_id: fabio-wajngarten
+currency: BRL
+date: '2025'
+date_precision: year
+description: Ao menos R$ 3,8 milhões, segundo documentos da Receita encaminhados à CPI. O advogado confirma
+  integrar a equipe de defesa desde o primeiro semestre de 2025.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-wf-comunicacao-3-8-milhoes
+source_ids:
+- src-cnn-2026-wajngarten-3-8-milhoes
+event_ids: []
+amount: 3800000
+amount_text: ao menos R$ 3,8 milhões
+cited_position:
+- kind: clarification
+  summary: Confirmou integrar a equipe de defesa; o contrato tem cláusula de confidencialidade.
+  source_ids:
+  - src-cnn-2026-wajngarten-3-8-milhoes
+  by_id: fabio-wajngarten
+  date: '2026'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

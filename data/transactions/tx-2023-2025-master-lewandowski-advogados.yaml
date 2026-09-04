@@ -1,0 +1,36 @@
+id: tx-2023-2025-master-lewandowski-advogados
+kind: transaction
+title: Pagamentos do Banco Master ao escritório Lewandowski Advogados
+transaction_type: fee
+from_id: banco-master
+to_id: ricardo-lewandowski
+currency: BRL
+date: 2025-09
+date_precision: month
+description: Contrato de R$ 250 mil mensais assinado em 28/08/2023, com pagamentos até setembro de 2025,
+  totalizando cerca de R$ 6,5 milhões brutos, dos quais R$ 5,25 milhões após a ida do ex-ministro ao Ministério
+  da Justiça. Ele afirma ter deixado a sociedade e suspendido o registro na OAB ao assumir o cargo.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-contrato-lewandowski-250-mil-por-mes
+- ev-pagamentos-ao-escritorio-apos-ida-ao-ministerio
+- ev-lewandowski-nota-saida-do-escritorio
+source_ids:
+- src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+event_ids: []
+amount: 6500000
+amount_text: cerca de R$ 6,5 milhões brutos (R$ 250 mil por mês)
+cited_position:
+- kind: clarification
+  summary: Ao assumir o Ministério da Justiça, retirou-se do escritório e suspendeu o registro na OAB,
+    deixando de atuar em todos os casos.
+  source_ids:
+  - src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+  by_id: ricardo-lewandowski
+  date: '2026'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

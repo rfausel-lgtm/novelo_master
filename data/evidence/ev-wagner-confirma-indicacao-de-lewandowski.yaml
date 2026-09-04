@@ -1,0 +1,15 @@
+id: ev-wagner-confirma-indicacao-de-lewandowski
+kind: evidence
+classification: A
+proposition: Segundo a coluna, a contratação atendeu a pedido do então líder do governo no Senado, que
+  confirmou ter feito a indicação de Lewandowski ao banco, embora negue ter indicado Guido Mantega.
+document_ids: []
+source_ids:
+- src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+attributed_to_id: jaques-wagner
+date: '2026'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

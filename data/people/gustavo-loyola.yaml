@@ -1,0 +1,23 @@
+id: gustavo-loyola
+kind: person
+name: Gustavo Loyola
+category: executive
+role: Ex-presidente do Banco Central; consultor
+positions: []
+summary: Ex-presidente do Banco Central. Empresa ligada a ele está entre as três consultorias de ex-presidentes
+  do BC que, segundo dados da Receita Federal obtidos pela CNN, receberam do Banco Master um total de
+  R$ 25,8 milhões entre 2022 e 2025.
+why_in_novelo: Uma consultoria ligada a ele foi contratada pelo Banco Master, segundo dados fiscais encaminhados
+  à CPI do Crime Organizado.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O corpus não registra manifestação de Gustavo Loyola nem o objeto do contrato.
+source_ids:
+- src-cnn-2026-master-25-milhoes-ex-presidentes-do-bc
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

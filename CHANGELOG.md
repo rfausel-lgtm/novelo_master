@@ -7,6 +7,14 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 15 do corpus, quanto o banco pagou e a quem: R$ 304,5 milhões a advogados e escritórios em 2025,
+  distribuídos entre ao menos 98 bancas, com o escritório Barci de Moraes no topo (R$ 40,1 milhões só
+  naquele ano); R$ 25,8 milhões em consultorias ligadas a três ex-presidentes do Banco Central; o
+  contrato de R$ 250 mil mensais com o escritório de Ricardo Lewandowski, pago por 21 meses depois de
+  ele assumir o Ministério da Justiça, com sua nota afirmando que deixou a sociedade e suspendeu o
+  registro na OAB; e R$ 3,8 milhões à empresa de Fabio Wajngarten para a defesa de Vorcaro, confirmados
+  por ele. Entra também a confirmação, pelo senador Jaques Wagner, de que indicou o escritório de
+  Lewandowski ao banco.
 - Lote 14 do corpus, frente da Procuradoria-Geral da República: o registro, no relatório da PF, de
   pedido para que Daniel Vorcaro custeasse a ida do filho do procurador-geral a evento em Londres,
   feito por intermediário; o custo da degustação de uísque na primeira edição do fórum; a intimação do
