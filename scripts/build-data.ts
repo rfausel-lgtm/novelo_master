@@ -13,11 +13,13 @@ import { lintCorpus } from "./lib/lint";
 import { buildGraph, splitEvidenceLayer } from "./lib/graph";
 import { printIssues } from "./lib/report";
 import { construirKml } from "./lib/kml";
+import { construirAcervo, construirLlmsTxt } from "./lib/acervo";
 
 const ROOT = path.resolve(__dirname, "..");
 const DATA_DIR = path.join(ROOT, "data");
 const GENERATED_DIR = path.join(ROOT, "src", "generated");
-const PUBLIC_DATA_DIR = path.join(ROOT, "public", "data");
+const PUBLIC_DIR = path.join(ROOT, "public");
+const PUBLIC_DATA_DIR = path.join(PUBLIC_DIR, "data");
 
 const args = new Set(process.argv.slice(2));
 const includeDrafts =
@@ -54,6 +56,14 @@ fs.writeFileSync(path.join(PUBLIC_DATA_DIR, "graph-evidence.json"), JSON.stringi
 const kml = construirKml(corpus);
 fs.writeFileSync(path.join(PUBLIC_DATA_DIR, "novelo.kml"), kml.texto);
 
+/*
+ * Acervo em texto e indice llms.txt: uma extensão de navegador lê a página aberta, não o site.
+ * Sem um artefato único, "analise o acervo" vira resposta baseada em uma página só.
+ */
+const acervo = construirAcervo(corpus);
+fs.writeFileSync(path.join(PUBLIC_DIR, "acervo.txt"), acervo.texto);
+fs.writeFileSync(path.join(PUBLIC_DIR, "llms.txt"), construirLlmsTxt(corpus));
+
 fs.writeFileSync(
   path.join(GENERATED_DIR, ".gitkeep"),
   "# gerado por scripts/build-data.ts — não editar\n",
@@ -67,5 +77,6 @@ console.log(
     `${s.sources} fontes (${s.official_sources} oficiais), ${s.evidence} evidências → ` +
     `${base.nodes.length} nós / ${base.edges.length} arestas no núcleo ` +
     `(+${layer.nodes.length} nós e ${layer.edges.length} arestas na camada probatória; ` +
-    `${kml.lugares} lugar(es) no KML)`,
+    `${kml.lugares} lugar(es) no KML; acervo.txt com ${acervo.registros} registros, ` +
+    `${Math.round(acervo.texto.length / 1024)} KB)`,
 );

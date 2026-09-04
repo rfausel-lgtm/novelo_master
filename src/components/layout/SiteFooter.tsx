@@ -24,6 +24,9 @@ export function SiteFooter() {
           <Link className="hover:text-fg" href="/politica-editorial">
             Política editorial
           </Link>
+          <Link className="hover:text-fg" href="/perguntar">
+            Perguntar a um assistente
+          </Link>
           <Link className="hover:text-fg" href="/sobre">
             Sobre e contato
           </Link>

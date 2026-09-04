@@ -14,6 +14,7 @@ const NAV = [
   { href: "/organizacoes", label: "Organizações" },
   { href: "/fontes", label: "Fontes" },
   { href: "/metodologia", label: "Metodologia" },
+  { href: "/perguntar", label: "Perguntar" },
   { href: "/sobre", label: "Sobre" },
 ];
 
