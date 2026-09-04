@@ -1,0 +1,38 @@
+id: evt-2020-12-01-cvm-aceita-acordo-com-vorcaro
+kind: event
+title: CVM aceita termo de compromisso de R$ 2,3 milhões em processo que acusava Daniel Vorcaro
+event_type: regulatory_act
+date: '2020-12-01'
+date_precision: day
+participant_ids:
+- comissao-de-valores-mobiliarios
+- daniel-vorcaro
+- henrique-balduino-machado-moreira
+- benjamim-botelho-de-almeida
+- foco-dtvm
+description: O Colegiado da CVM aceitou, por unanimidade, propostas de termo de compromisso somando R$
+  2.325.000 no processo sobre as emissões de debêntures da Centara e da Simsan — equivalente a 4,7% dos
+  R$ 49 milhões captados. Entre os proponentes estava Daniel Vorcaro, pessoalmente, na qualidade de diretor
+  da Máxima CCTVM, que pagou R$ 250 mil. O acordo fora rejeitado pelo Comitê de Termo de Compromisso em
+  agosto e novamente em setembro de 2020; o diretor Henrique Machado pediu vista em novembro, assumiu
+  a relatoria e votou pela aceitação — embora o valor final tenha sido 48% maior que o recusado. O voto
+  registra que a área técnica já apontava estruturação das emissões para transferir recursos de uma massa
+  falida a familiares dos controladores, e que os proponentes já eram investigados por condutas semelhantes
+  em processo aberto três semanas antes.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-vorcaro-acusado-e-acordo-de-2020-na-cvm
+- ev-comite-rejeitou-duas-vezes-antes-da-aceitacao
+- ev-voto-machado-conteudo-e-alerta-da-area-tecnica
+source_ids:
+- src-cvm-2020-12-01-decisao-tc-debentures
+- src-cvm-voto-1836-2020-henrique-machado-pdf
+document_ids:
+- doc-2020-12-01-voto-1836-henrique-machado
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,32 @@
+id: rev-2026-09-04-lote-62-policiais-cooptados-identificados
+kind: revision
+date: '2026-09-03'
+title: 'Lote 62: os policiais cooptados têm nome'
+summary: 'Frente aberta a pedido do editor sobre agentes da PF ligados ao caso. O corpus registrava, de
+  fonte única e sem nomes, que Marilson Roseno da Silva teria cooptado ''ao menos três policiais'' para
+  consultas indevidas em favor da família Vorcaro — e estava seis meses desatualizado. A 6ª fase da Operação
+  Compliance Zero, em 14/05/2026, identificou o núcleo: o agente Anderson Wander da Silva Lima, preso;
+  a delegada Valéria Vieira Pereira da Silva, afastada; e os aposentados Francisco José Pereira da Silva
+  e Sebastião Monteiro Júnior. A decisão judicial mostra que as consultas de fato ocorreram e que a informação
+  chegou: a delegada acessou pelo e-Pol, sem atribuição legal, exatamente o inquérito em que Henrique
+  Vorcaro fora intimado, e a PF apreendeu com o pai do banqueiro documento extraído do sistema de inteligência
+  Sinapse. Marilson foi transferido para presídio federal por seguir recebendo informações mesmo preso.
+  Registra-se também o afastamento de um perito criminal federal, na 7ª fase, por suspeita de vazar informações
+  do caso a um jornalista. Nenhum dos citados foi julgado, não há denúncia oferecida, e as defesas que
+  se manifestaram negam — a da delegada e do marido sustenta que o acesso aos sistemas é controlado por
+  matrícula funcional e que nenhum dos dois estava cadastrado no procedimento. Marilson segue sem voz
+  no registro, o que o corpus assinala.'
+affected_ids:
+- marilson-roseno-da-silva
+- anderson-wander-da-silva-lima
+- valeria-vieira-pereira-da-silva
+- francisco-jose-pereira-da-silva
+- sebastiao-monteiro-junior
+- henrique-vorcaro
+- policia-federal
+reason: Atualização e fechamento de lacuna sobre os policiais cooptados, a pedido do editor.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

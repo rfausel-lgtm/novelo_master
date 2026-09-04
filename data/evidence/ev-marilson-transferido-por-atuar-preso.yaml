@@ -1,0 +1,21 @@
+id: ev-marilson-transferido-por-atuar-preso
+kind: evidence
+classification: C
+proposition: Marilson Roseno da Silva, preso preventivamente em 04/03/2026 na 3ª fase da Compliance Zero,
+  foi transferido para presídio federal em Brasília em 15/05/2026, por determinação do ministro André
+  Mendonça, sob o fundamento de que, mesmo preso, continuava recebendo informações sigilosas sobre operações
+  policiais em curso. A decisão descreve 'rede externa ativa capaz de monitorar diligências policiais
+  em curso fora do cárcere' e 'capacidade de manter influência sobre os integrantes do grupo em liberdade',
+  qualificando-o como 'líder operacional' do núcleo apelidado pela corporação de 'A Turma' — descrito
+  como composto por policiais federais da ativa e aposentados, bicheiros e milicianos, e financiado por
+  Henrique Moura Vorcaro.
+document_ids: []
+source_ids:
+- src-otempo-2026-05-15-marilson-transferido-presidio-federal
+- src-cnnbrasil-2026-05-14-agente-infiltrado-vorcaro
+date: '2026-05-15'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

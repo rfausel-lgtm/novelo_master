@@ -33,13 +33,14 @@ cited_position:
   - src-cnn-2026-03-04-relembre-crise-master
   by_id: daniel-vorcaro
 - kind: version
-  summary: Em depoimento de 02/09/2026 ao gabinete de André Mendonça, afirmou ter sofrido tortura psicológica,
-    maus-tratos e ameaças veladas na prisão para não citar a Polícia Federal em eventual delação.
+  summary: Em oitiva de 27/08/2026 ao gabinete de André Mendonça, tornada pública em 02/09, afirmou ter
+    sofrido tortura psicológica, maus-tratos e ameaças veladas na prisão para não citar a Polícia Federal
+    em eventual delação.
   source_ids:
   - src-ndmais-2026-09-02-vorcaro-alega-tortura
   - src-contrapontoms-2026-09-02-investigadores-veem-teatro
   by_id: daniel-vorcaro
-  date: '2026-09-02'
+  date: '2026-08-27'
 - kind: version
   summary: 'Sobre as ordens de agressão a adversários: disse que as deu porque ''estava nervoso'' e que
     não se concretizaram.'
@@ -126,6 +127,7 @@ source_ids:
 - src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
 - src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
 - src-metropoles-2026-02-17-pf-reexamina-pericias-fundos
+- src-metropoles-2026-09-vorcaro-depoimento-papudinha-bastidores
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published

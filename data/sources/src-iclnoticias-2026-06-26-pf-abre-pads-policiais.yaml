@@ -1,0 +1,25 @@
+id: src-iclnoticias-2026-06-26-pf-abre-pads-policiais
+kind: source
+title: PF abre processos administrativos contra policiais ligados a Vorcaro
+publisher: ICL Notícias
+publication_date: '2026-06-26'
+retrieved_at: '2026-09-03'
+url: https://iclnoticias.com.br/pf-processos-policiais-ligados-vorcaro/
+source_type: press
+summary: Informa que a PF comunicou, por boletim eletrônico oficial, a abertura de processos administrativos
+  disciplinares conduzidos pela Corregedoria contra policiais investigados na Compliance Zero, citando
+  nominalmente Anderson Wander da Silva Lima e Valéria Vieira Pereira da Silva. A corporação não informou
+  o número total de servidores envolvidos, e não houve demissão até então.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: Veículo de linha editorial marcadamente governista. O dado é atribuído a boletim oficial da PF,
+  mas a equipe não conseguiu confirmá-lo em fonte independente nem no próprio gov.br — as notas oficiais
+  da corporação retornaram 'conteúdo restrito'. Tratar como informação atribuída, não como fato assentado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

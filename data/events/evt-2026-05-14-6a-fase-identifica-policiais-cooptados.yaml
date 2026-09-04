@@ -1,0 +1,44 @@
+id: evt-2026-05-14-6a-fase-identifica-policiais-cooptados
+kind: event
+title: '6ª fase da Compliance Zero identifica os policiais cooptados: um preso, uma delegada afastada'
+event_type: investigation_step
+date: '2026-05-14'
+date_precision: day
+participant_ids:
+- policia-federal
+- andre-mendonca
+- marilson-roseno-da-silva
+- anderson-wander-da-silva-lima
+- valeria-vieira-pereira-da-silva
+- francisco-jose-pereira-da-silva
+- sebastiao-monteiro-junior
+- henrique-vorcaro
+description: A 6ª fase da Operação Compliance Zero, autorizada por André Mendonça, nomeou o núcleo de
+  policiais e ex-policiais que, segundo a PF, obtinha informações sigilosas em favor da família Vorcaro.
+  Foram presos o agente Anderson Wander da Silva Lima, da Superintendência do Rio de Janeiro — descrito
+  como 'agente infiltrado funcionalmente na Polícia Federal em benefício da organização criminosa' —,
+  e o agente aposentado Sebastião Monteiro Júnior; afastada a delegada Valéria Vieira Pereira da Silva,
+  de Minas Gerais; e alvo de busca o marido dela, o agente aposentado Francisco José Pereira da Silva.
+  A decisão registra que as consultas indevidas de fato ocorreram e que o conteúdo repassado permitiu
+  identificar o objeto da investigação que interessava a Henrique Vorcaro. Na mesma decisão, Mendonça
+  determinou a transferência de Marilson Roseno da Silva para presídio federal, por constatar que ele
+  seguia recebendo informações sobre diligências mesmo preso. Nenhum dos cinco foi julgado; os que se
+  manifestaram negam as imputações.
+evidence_class: C
+status: unverified
+evidence_ids:
+- ev-policiais-cooptados-identificados-6a-fase
+- ev-consultas-indevidas-ocorreram-e-informacao-chegou
+- ev-marilson-transferido-por-atuar-preso
+source_ids:
+- src-cnnbrasil-2026-05-14-agente-infiltrado-vorcaro
+- src-cnnbrasil-2026-05-14-delegada-afastada
+- src-otempo-2026-05-14-delegada-e-agentes-abasteciam-vorcaro
+- src-otempo-2026-05-15-marilson-transferido-presidio-federal
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

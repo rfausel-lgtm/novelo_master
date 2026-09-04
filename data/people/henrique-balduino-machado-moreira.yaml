@@ -1,0 +1,37 @@
+id: henrique-balduino-machado-moreira
+kind: person
+name: Henrique Balduino Machado Moreira
+category: lawyer
+role: Ex-diretor da CVM (julho de 2016 a dezembro de 2020); advogado
+positions: []
+summary: Diretor da Comissão de Valores Mobiliários entre julho de 2016 e dezembro de 2020, tendo sido
+  antes procurador do Banco Central. Em 03/11/2020 pediu vista do processo sobre as emissões de debêntures
+  da Centara e da Simsan, assumiu como diretor relator e votou, em 01/12/2020, pela aceitação das propostas
+  de termo de compromisso — que o Comitê competente havia rejeitado em agosto e ratificado a rejeição
+  em setembro do mesmo ano. Entre os proponentes estava Daniel Vorcaro. Cerca de seis meses depois, ao
+  fim do mandato, passou a integrar o escritório Warde Advogados, que presta serviços ao Banco Master
+  e a Vorcaro. A Polícia Federal, na 2ª fase da Operação Compliance Zero, registrou a sequência como suspeita,
+  sem pedir diligências contra ele. Machado nega, em nota de onze pontos, ter tido contato com o banco
+  durante o mandato ou recebido proposta de emprego, e se dispõe a abrir sigilos bancário, fiscal e telefônico
+  dos últimos vinte anos. Não há inquérito, indiciamento ou denúncia contra ele.
+why_in_novelo: Relator do voto que aceitou termo de compromisso em processo no qual Daniel Vorcaro era
+  acusado, e que deixou a autarquia meses depois para advogar em banca que atende o Banco Master.
+cited_position:
+- kind: denial
+  summary: Em nota de onze pontos, nega ter tido contato com o Banco Master durante o mandato e ter recebido
+    proposta de emprego, e se dispõe a abrir sigilos bancário, fiscal e telefônico dos últimos vinte anos.
+    O escritório Warde afirma que a contratação cumpriu a quarentena legal.
+  source_ids:
+  - src-jbrasilia-2026-03-12-pf-suspeita-de-ex-diretor-da-cvm
+  by_id: henrique-balduino-machado-moreira
+  date: '2026-03-12'
+open_questions: []
+source_ids:
+- src-cvm-voto-1836-2020-henrique-machado-pdf
+- src-jbrasilia-2026-03-12-pf-suspeita-de-ex-diretor-da-cvm
+- src-cvm-pagina-oficial-diretor-henrique-machado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

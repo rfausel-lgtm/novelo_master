@@ -1,0 +1,31 @@
+id: anderson-wander-da-silva-lima
+kind: person
+name: Anderson Wander da Silva Lima
+category: police
+role: Agente da Polícia Federal lotado na Superintendência Regional do Rio de Janeiro
+positions: []
+summary: 'Preso preventivamente em 14/05/2026, na 6ª fase da Operação Compliance Zero. Segundo a Polícia
+  Federal, seria ''agente infiltrado funcionalmente na Polícia Federal em benefício da organização criminosa''
+  e atuaria como ''longa manus'' de Marilson Roseno da Silva, tendo recebido propina para realizar consultas
+  em sistemas restritos da corporação — dados migratórios, inquéritos e registros reservados. Em 26/06/2026,
+  segundo o ICL Notícias, foi citado nominalmente entre os alvos de processo administrativo disciplinar
+  aberto pela Corregedoria da PF. Não há denúncia oferecida nem julgamento: as imputações são da autoridade
+  policial, acolhidas em cognição sumária para fins cautelares. Procurada, sua defesa não se manifestou.'
+why_in_novelo: Apontado pela PF como o agente da ativa que fornecia informações sigilosas ao núcleo que
+  atuava em favor da família Vorcaro.
+cited_position:
+- kind: no_response
+  summary: Procurada pela CNN Brasil, sua defesa não se manifestou.
+  source_ids:
+  - src-cnnbrasil-2026-05-14-agente-infiltrado-vorcaro
+  date: '2026-05-14'
+open_questions:
+- Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ele no corpus.
+source_ids:
+- src-cnnbrasil-2026-05-14-agente-infiltrado-vorcaro
+- src-iclnoticias-2026-06-26-pf-abre-pads-policiais
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

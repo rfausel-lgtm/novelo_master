@@ -1,0 +1,23 @@
+id: src-cnnbrasil-2026-05-14-delegada-afastada
+kind: source
+title: Entenda o papel da delegada da PF afastada por vazamento de dados
+publisher: CNN Brasil
+publication_date: '2026-05-14'
+retrieved_at: '2026-09-03'
+url: https://www.cnnbrasil.com.br/politica/entenda-o-papel-da-delegada-da-pf-afastada-por-vazamento-de-dados/
+source_type: press
+summary: Registra o afastamento preventivo da delegada Valéria Vieira Pereira da Silva por decisão de
+  André Mendonça, com proibição de contato com outros policiais, de acesso a instalações da PF, proibição
+  de deixar o país e entrega de passaporte em 24 horas. Segundo a decisão, sua conduta foi 'além da mera
+  proximidade com investigados', assumindo 'relevante papel no fornecimento de informações sigilosas ao
+  grupo criminoso'. Traz a negativa do advogado Bruno Correia Lemos.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

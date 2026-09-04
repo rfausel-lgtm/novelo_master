@@ -1,0 +1,19 @@
+id: ev-corregedoria-pf-abre-pads
+kind: evidence
+classification: A
+proposition: Em 26/06/2026, segundo o ICL Notícias, a Polícia Federal comunicou por boletim eletrônico
+  oficial a abertura de processos administrativos disciplinares, conduzidos pela Corregedoria, contra
+  policiais investigados na Operação Compliance Zero, citando nominalmente Anderson Wander da Silva Lima
+  e Valéria Vieira Pereira da Silva. A corporação não informou o número total de servidores envolvidos,
+  e não houve demissão ou expulsão até então. A equipe não conseguiu confirmar a informação em fonte independente
+  nem no próprio portal da PF, cujas notas oficiais retornaram 'conteúdo restrito'.
+document_ids: []
+source_ids:
+- src-iclnoticias-2026-06-26-pf-abre-pads-policiais
+attributed_to: ICL Notícias, atribuindo a boletim eletrônico da PF; não confirmado de forma independente
+date: '2026-06-26'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

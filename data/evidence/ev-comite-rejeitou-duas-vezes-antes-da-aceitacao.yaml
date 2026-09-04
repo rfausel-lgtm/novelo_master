@@ -1,0 +1,22 @@
+id: ev-comite-rejeitou-duas-vezes-antes-da-aceitacao
+kind: evidence
+classification: D
+proposition: 'O acordo foi aceito depois de o Comitê de Termo de Compromisso da CVM tê-lo rejeitado: o
+  Comitê deliberou pela rejeição em 18/08/2020 e ratificou a rejeição em 15/09/2020. Em 03/11/2020 o diretor
+  Henrique Machado pediu vista do processo, assumiu como diretor relator e votou pela aceitação em 01/12/2020,
+  sendo acompanhado por unanimidade. RESSALVA ESSENCIAL, em favor da decisão: a proposta efetivamente
+  aceita foi MAIOR do que a rejeitada — o Comitê havia recusado propostas que somavam R$ 1.575.000, e
+  o Colegiado aceitou R$ 2.325.000, um acréscimo de 48%, com Índigo e Botelho subindo de R$ 250 mil para
+  R$ 300 mil cada, Simsan de R$ 30 mil para R$ 100 mil e Zadra de R$ 20 mil para R$ 100 mil. Não se trata,
+  portanto, de aceitar sem mais o que fora recusado.'
+document_ids:
+- doc-2020-12-01-voto-1836-henrique-machado
+source_ids:
+- src-cvm-voto-1836-2020-henrique-machado-pdf
+- src-cvm-2020-12-01-decisao-tc-debentures
+date: '2020-12-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

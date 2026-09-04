@@ -1,0 +1,23 @@
+id: src-gazetadopovo-2026-06-16-acesso-a-informacoes-sigilosas
+kind: source
+title: 'PF: pai de Vorcaro tinha acesso a informações sigilosas da corporação'
+publisher: Gazeta do Povo
+publication_date: '2026-06-16'
+retrieved_at: '2026-09-03'
+url: https://www.gazetadopovo.com.br/republica/pf-pai-vorcaro-acesso-informacoes-sigilosas-corporacao/
+source_type: press
+summary: Registra que, na busca contra Henrique Vorcaro, a PF apreendeu documento impresso extraído do
+  sistema Sinapse — banco de inteligência de acesso restrito —, com captura de tela contendo consulta
+  detalhada aos dados pessoais de Augusto Conte, ex-sócio de Vorcaro. Segundo a corporação, Henrique dispunha
+  de servidores dispostos a acessar ilicitamente os sistemas internos, com pesquisas sobre 'pessoas consideradas
+  estratégicas para os investigados'.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -2,21 +2,22 @@ id: evt-2026-09-02-depoimento-de-vorcaro-ao-gabinete-de-mendonca
 kind: event
 title: Vorcaro depõe ao gabinete de Mendonça e alega intimidação para não delatar
 event_type: statement
-date: '2026-09-02'
+date: '2026-08-27'
 date_precision: day
 participant_ids:
 - daniel-vorcaro
 - andre-mendonca
 - andrei-rodrigues
 - policia-federal
-description: 'Em depoimento por vídeo a juiz auxiliar do gabinete de André Mendonça e a um procurador
-  da República, feito a requerimento da defesa, Vorcaro afirmou ter sofrido tortura psicológica, maus-tratos
-  e ameaças veladas na prisão para não relatar fatos ligados à Polícia Federal, e disse acreditar que
-  a delação foi recusada porque ele poderia citar o diretor-geral da corporação. Integrantes da PF e da
-  PGR responderam que não houve apresentação de fatos concretos e que se trataria de pretexto para reabrir
-  a negociação; interlocutores do diretor-geral afirmam que ele nunca teve relação com o banqueiro. No
-  mesmo depoimento, ele falou pela primeira vez sobre a suspeita de comandar grupo de intimidação: disse
-  que as ordens para agredir ou ameaçar adversários foram dadas porque ''estava nervoso'' e não se concretizaram.'
+description: Em oitiva realizada na manhã de 27/08/2026, dentro da Papudinha, em Brasília, conduzida pelo
+  juiz auxiliar João Azambuja, do gabinete de André Mendonça, com a presença de dois advogados de Vorcaro
+  e de um integrante do MPF — e sem a Polícia Federal, ausência que gerou críticas na corporação —, o
+  banqueiro alegou ter sofrido 'graves intimidações', tortura psicológica e maus-tratos para não citar
+  a PF em eventual delação. O gabinete do ministro afirmou que a oitiva 'foi um ato processual regular',
+  atendendo a pedido expresso da defesa. O conteúdo só veio a público em 02/09/2026, mesma data em que
+  a PGR se manifestou pelo arquivamento — o corpus registrava antes essa data como a da oitiva, o que
+  foi corrigido. No dia seguinte à oitiva, 28/08, Vorcaro prestou depoimento distinto à própria PF, por
+  videoconferência, cujo vídeo veio a público em 04/09.
 evidence_class: A
 status: disputed
 evidence_ids:
@@ -29,6 +30,7 @@ source_ids:
 - src-ndmais-2026-09-02-vorcaro-alega-tortura
 - src-contrapontoms-2026-09-02-investigadores-veem-teatro
 - src-jbrasilia-2026-09-vorcaro-admite-ordens
+- src-metropoles-2026-09-vorcaro-depoimento-papudinha-bastidores
 document_ids: []
 public_act_ids: []
 cited_position:

@@ -10,7 +10,10 @@ summary: Pai de Daniel Vorcaro. Teve prisão preventiva decretada pelo STF em 14
   2026, teve bens bloqueados pela Justiça a pedido da EFB (liquidante do Banco Master) e é réu, ao lado
   da filha Natália Vorcaro Zettel, em ação civil movida pela EFB nos Estados Unidos por dissipação de
   mais de US$ 1 bilhão em ativos do banco. É apontado como presidente da holding Sozo Real Estate, usada
-  na tentativa frustrada de venda da mansão de Orlando à Chosen Vessel LLC.
+  na tentativa frustrada de venda da mansão de Orlando à Chosen Vessel LLC. Na 6ª fase, a PF apreendeu
+  em busca contra ele documento impresso extraído do sistema Sinapse, banco de inteligência de acesso
+  restrito, com consulta detalhada aos dados pessoais de Augusto Conte, ex-sócio de seu filho — indício,
+  segundo a corporação, de que dispunha de servidores dispostos a acessar ilicitamente os sistemas internos.
 why_in_novelo: Teve prisão preventiva decretada e mantida pelo STF na 6ª fase da Operação Compliance Zero,
   sendo descrito pela Polícia Federal como operador financeiro do grupo investigado.
 cited_position:
@@ -27,6 +30,8 @@ source_ids:
 - src-infomoney-2026-03-23-cerco-patrimonio-familiares
 - src-osul-2026-04-20-mansao-orlando-chosen-vessel
 - src-jornaldocomercio-2026-03-03-acao-eua-familia-vorcaro
+- src-gazetadopovo-2026-06-16-acesso-a-informacoes-sigilosas
+- src-otempo-2026-05-14-delegada-e-agentes-abasteciam-vorcaro
 full_name: Henrique Moura Vorcaro
 review_status: published
 reviewer: orquestrador

@@ -1,0 +1,24 @@
+id: ev-policiais-cooptados-identificados-6a-fase
+kind: evidence
+classification: C
+proposition: 'Os policiais antes referidos genericamente como ''ao menos três'' foram identificados na
+  6ª fase da Operação Compliance Zero, em 14/05/2026. Da ativa: o agente Anderson Wander da Silva Lima,
+  lotado na Superintendência da PF no Rio de Janeiro, preso preventivamente e descrito pela corporação
+  como ''agente infiltrado funcionalmente na Polícia Federal em benefício da organização criminosa'' e
+  ''longa manus'' de Marilson Roseno da Silva; e a delegada Valéria Vieira Pereira da Silva, de Minas
+  Gerais, afastada preventivamente do cargo, com proibição de contato com outros policiais, de acesso
+  a instalações da PF, proibição de deixar o país e entrega de passaporte. Aposentados: Francisco José
+  Pereira da Silva, marido da delegada, apontado como intermediário, alvo de busca e apreensão; e Sebastião
+  Monteiro Júnior, preso. Nenhum foi julgado, e não há denúncia oferecida: trata-se de imputação da autoridade
+  policial acolhida em cognição sumária para fins cautelares.'
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-05-14-agente-infiltrado-vorcaro
+- src-cnnbrasil-2026-05-14-delegada-afastada
+- src-otempo-2026-05-14-delegada-e-agentes-abasteciam-vorcaro
+date: '2026-05-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

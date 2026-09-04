@@ -1,0 +1,65 @@
+id: claim-porta-giratoria-ex-diretor-da-cvm-e-o-master
+kind: claim
+statement: A Polícia Federal registrou como suspeita a sequência em que o diretor da CVM Henrique Machado
+  relatou e votou pela aceitação de termo de compromisso favorável a Daniel Vorcaro em dezembro de 2020
+  e, cerca de seis meses depois, ao fim do mandato, passou a integrar escritório de advocacia que presta
+  serviços ao Banco Master e ao próprio Vorcaro.
+classification: A
+status: disputed
+claimant_id: policia-federal
+claimant: Polícia Federal, em relatório de análise da 2ª fase da Operação Compliance Zero
+date: '2026-03-12'
+related_entity_ids:
+- henrique-balduino-machado-moreira
+- daniel-vorcaro
+- comissao-de-valores-mobiliarios
+- banco-master
+event_ids:
+- evt-2020-12-01-cvm-aceita-acordo-com-vorcaro
+evidence_ids:
+- ev-vorcaro-acusado-e-acordo-de-2020-na-cvm
+- ev-voto-machado-conteudo-e-alerta-da-area-tecnica
+- ev-comite-rejeitou-duas-vezes-antes-da-aceitacao
+- ev-restituicao-de-51-milhoes-antes-do-acordo
+source_ids:
+- src-jbrasilia-2026-03-12-pf-suspeita-de-ex-diretor-da-cvm
+- src-cvm-voto-1836-2020-henrique-machado-pdf
+- src-cvm-2020-12-01-decisao-tc-debentures
+- src-cnnbrasil-2026-03-18-restituicao-51-milhoes
+limits: 'A suspeita é registro de relatório de análise policial, não imputação formal: a própria investigação
+  não pediu diligências contra Machado, e não há inquérito, indiciamento ou denúncia contra ele. Três
+  elementos pesam em favor dele e devem constar com o mesmo destaque: o acordo aceito foi 48% MAIOR que
+  o rejeitado pelo Comitê, o que afasta a leitura simples de leniência; Centara e Simsan haviam restituído
+  mais de R$ 51 milhões aos investidores em meados de 2019, o que sustenta o requisito legal de ausência
+  de dano; e a decisão foi unânime, acompanhada pelo presidente da autarquia e por outra diretora. Em
+  sentido contrário, dois pontos da nota de defesa dele são contraditados pelo registro primário: ele
+  afirma que o acordo foi definitivamente aprovado em reunião de 22/12/2020, da qual não participou, quando
+  essa reunião apenas recusou REVER a aprovação de 01/12/2020, em que ele foi o relator e assina o voto;
+  e afirma que à época não se conheciam as ilicitudes hoje aventadas, quando o §12 de seu próprio voto
+  registra que os proponentes já eram investigados por condutas semelhantes, e a nota de rodapé reproduz
+  a tese da área técnica sobre transferência de recursos de massa falida a familiares dos controladores.'
+counter_position:
+- kind: denial
+  summary: Em nota de onze pontos, Machado nega ter tido contato com o Banco Master durante o mandato
+    e ter recebido proposta de emprego, e se dispõe a abrir sigilos bancário, fiscal e telefônico dos
+    últimos vinte anos. O escritório Warde Advogados afirma que a contratação cumpriu a quarentena legal.
+  source_ids:
+  - src-jbrasilia-2026-03-12-pf-suspeita-de-ex-diretor-da-cvm
+  by_id: henrique-balduino-machado-moreira
+  date: '2026-03-12'
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: 'Testou-se a hipótese contrária lendo o voto e a decisão na íntegra, e não apenas
+    a cobertura. Três achados enfraquecem a leitura acusatória: o valor aceito superou em 48% o recusado;
+    houve restituição documentada de mais de R$ 51 milhões antes da apreciação, atendendo ao requisito
+    legal; e a decisão foi unânime, de modo que atribuí-la a um relator isolado distorce o colegiado.
+    Dois achados a reforçam: as duas afirmações da nota de defesa que o registro primário contradiz. Mantida
+    em disputa: há sequência factual documentada e contradições na defesa, mas não há imputação formal
+    nem prova de contrapartida.'
+  outcome: disputed
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

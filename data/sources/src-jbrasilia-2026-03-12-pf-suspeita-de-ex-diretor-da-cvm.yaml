@@ -1,0 +1,25 @@
+id: src-jbrasilia-2026-03-12-pf-suspeita-de-ex-diretor-da-cvm
+kind: source
+title: PF suspeita que diretor da CVM favoreceu Vorcaro indevidamente em troca de virar advogado do Master
+publisher: Estadão, via Jornal de Brasília
+publication_date: '2026-03-12'
+retrieved_at: '2026-09-03'
+url: https://jornaldebrasilia.com.br/noticias/politica-e-poder/pf-suspeita-que-diretor-da-cvm-favoreceu-vorcaro-indevidamente-em-troca-de-virar-advogado-do-master/
+source_type: press
+summary: Registra suspeita levantada pela Polícia Federal na 2ª fase da Operação Compliance Zero. Segundo
+  relatório de análise da corporação, 'é notável que, aproximadamente seis meses após este voto, proferido
+  próximo ao encerramento de seu mandato, deixou o cargo público e passou a integrar o escritório de advocacia
+  Warde Advogados, que presta serviços ao Banco Master e a Daniel Vorcaro'. Registra ainda que, em outubro
+  de 2022, já como advogado, Machado compareceu a reunião na presidência da CVM acompanhado de Walfrido
+  Warde e de Daniel Vorcaro, com a ata anexada ao inquérito. A investigação não pediu diligências contra
+  ele. Traz a nota de defesa em onze pontos.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

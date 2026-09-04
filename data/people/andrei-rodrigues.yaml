@@ -20,7 +20,14 @@ summary: 'Diretor-Geral da Polícia Federal. Gaúcho de Pelotas/RS, formado em D
   na ''Operação Sem Desconto'', os 27 superintendentes regionais da PF divulgaram nota em defesa de sua
   autonomia administrativa, e Rodrigues declarou publicamente que a corporação trabalha ''sem proteger
   ou perseguir''. É um dos quatro chamados por Fachin, em 03/09/2026, a apresentar explicações por escrito
-  em cinco dias úteis.'
+  em cinco dias úteis. A leitura da íntegra do relatório da PF pela equipe acrescenta o elemento mais
+  favorável a ele no documento: não há contato salvo com seu nome no celular de Vorcaro, nem uma única
+  mensagem trocada entre os dois — todas as menções são de terceiros, e o relatório usa o condicional
+  (''podem indicar''). O mesmo documento, porém, transcreve a trilha do convite ao fórum de Londres de
+  abril de 2024, incluindo pergunta atribuída a sua assistente sobre quem cobriria hospedagem e passagem,
+  respondida com ''todas as despesas bancadas por nós''. A PF confirmou por LAI que o organizador custeou
+  diretamente as despesas. Ele permanece no cargo e não há inquérito, indiciamento ou denúncia contra
+  ele.'
 why_in_novelo: É mencionado em relatório da Polícia Federal sobre o celular de Daniel Vorcaro e dirige
   o órgão que conduz a Operação Compliance Zero.
 cited_position:
@@ -40,6 +47,15 @@ cited_position:
   - src-contrapontoms-2026-09-02-investigadores-veem-teatro
   by_id: andrei-rodrigues
   date: '2026-09-03'
+- kind: clarification
+  summary: Segundo resposta da PF a pedido de acesso à informação, 'não foram pagas diárias ao servidor'
+    e 'o organizador do evento custeou diretamente as respectivas despesas extraordinárias'; ele 'não
+    recebeu remuneração, cachê, honorário, ajuda de custo ou qualquer outro benefício dos organizadores'.
+    A corporação declarou desconhecer os valores aplicados pelos entes privados.
+  source_ids:
+  - src-poder360-2026-04-08-master-bancou-viagem-londres
+  by_id: policia-federal
+  date: '2026-04-08'
 open_questions:
 - O corpus não tem manifestação formal da Polícia Federal sobre as alegações.
 - Não há decisão do relator sobre os pedidos de prisão e de afastamento apresentados pelo Partido Novo.
@@ -49,6 +65,14 @@ open_questions:
   Zero, e escalou com determinações na condução da Operação Sem Desconto (remessa de documentação ao gabinete
   do relator, notificação prévia para troca de policiais). A PF recorreu à AGU, que optou por diálogo
   em vez de embate jurídico direto. Sem resolução até setembro de 2026.
+- Não há manifestação pública dele sobre o mérito das menções no relatório — apenas resposta institucional
+  da PF sobre o custeio da viagem, uma declaração genérica anterior à divulgação, e relatos de interlocutores.
+  Procurado por veículos em fevereiro, abril e setembro de 2026, não respondeu. O corpus registra a lacuna
+  e a mantém aberta a direito de resposta.
+- O prazo de cinco dias úteis da Petição 16.704, aberta por Fachin em 03/09/2026, vence por volta de 10/09/2026
+  — posterior à data desta atualização. A resposta dele não é conhecida.
+- O relatório não esclarece qual 'Ministro' teria feito o convite a ele em 03/04/2024, nem a identidade
+  do contato 'Marcio Conjur' e do interlocutor não identificado que propôs o convite.
 source_ids:
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-congressoemfoco-2026-09-01-relatorio-pf
@@ -64,6 +88,12 @@ source_ids:
 - src-piauihoje-2026-09-pgr-arquivamento-ameacas-vorcaro
 - src-gazetadopovo-2026-linha-tempo-crise-mendonca-pf
 - src-gazetadopovo-2026-02-25-pf-cruzamento-master-inss
+- src-pf-relatorio-ipj-3298613-2026-integra
+- src-poder360-2026-04-08-master-bancou-viagem-londres
+- src-poder360-2026-degustacao-macallan-londres
+- src-migalhas-2026-09-03-fachin-cinco-dias-pet-16704
+- src-poder360-2026-05-04-novo-pede-apuracao-viagem-londres
+- src-em-platobr-2026-09-reacao-da-pf-as-citacoes
 full_name: Andrei Augusto Passos Rodrigues
 review_status: published
 reviewer: orquestrador

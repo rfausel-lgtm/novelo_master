@@ -1,0 +1,25 @@
+id: src-cvm-2020-12-01-decisao-tc-debentures
+kind: source
+title: Decisão do Colegiado da CVM de 01/12/2020 — PAS SEI 19957.009798/2019-01 (termo de compromisso)
+publisher: Comissão de Valores Mobiliários
+publication_date: '2020-12-01'
+retrieved_at: '2026-09-03'
+url: https://conteudo.cvm.gov.br/decisoes/2020/20201201_R1/20201201_D1836.html
+source_type: official_regulator
+summary: Decisão que aceitou as propostas de termo de compromisso no processo sobre as emissões de debêntures
+  da Centara e da Simsan. Lista os proponentes, entre eles 'DANIEL BUENO VORCARO, na qualidade de diretor
+  da MÁXIMA S.A. CCTVM (intermediária líder), por infração ao item I c/c item II, letra c, da ICVM 8,
+  e ao inciso I do artigo 11 da ICVM 476'. Total de R$ 2.325.000, sendo R$ 250 mil de Vorcaro, R$ 1 milhão
+  da Máxima CCTVM, R$ 300 mil da Índigo, R$ 300 mil de Benjamim Botelho de Almeida, R$ 250 mil de Luiz
+  Antonio Bull, R$ 100 mil da Simsan, R$ 100 mil de Zadra e R$ 25 mil de Saito. Aprovação por unanimidade,
+  com o diretor Alexandre Rangel declarando-se impedido.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

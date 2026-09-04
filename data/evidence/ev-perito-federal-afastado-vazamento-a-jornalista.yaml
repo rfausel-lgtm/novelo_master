@@ -1,0 +1,17 @@
+id: ev-perito-federal-afastado-vazamento-a-jornalista
+kind: evidence
+classification: A
+proposition: Na 7ª fase da Operação Compliance Zero, em 19/05/2026, um perito criminal federal foi afastado
+  do cargo e teve a residência alvo de busca, por suspeita de repasses indevidos e vazamento de informações
+  sigilosas do caso Banco Master a um jornalista. O nome do perito não foi divulgado, e a equipe não o
+  infere nem o busca por cruzamento.
+document_ids: []
+source_ids:
+- src-timesbrasil-2026-05-19-perito-setima-fase
+attributed_to: Times Brasil/CNBC, com base na decisão da 7ª fase
+date: '2026-05-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

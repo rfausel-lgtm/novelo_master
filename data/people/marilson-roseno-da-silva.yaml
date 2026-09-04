@@ -4,20 +4,37 @@ name: Marilson Roseno da Silva
 category: police
 role: Policial federal aposentado, alvo da Operação Compliance Zero
 positions: []
-summary: Apontado pela Polícia Federal como responsável por cooptar agentes para consultas indevidas em
-  sistemas internos da corporação em favor da família Vorcaro, com o objetivo de descobrir o teor de inquérito
-  em que Henrique Vorcaro fora intimado. Segundo a apuração, negociou valores com o pai do banqueiro,
-  pedindo '800k'.
+summary: 'Policial federal aposentado, apontado pela Polícia Federal como líder operacional do núcleo
+  apelidado de ''A Turma'' — descrito pela corporação como composto por policiais federais da ativa e
+  aposentados, bicheiros e milicianos, e financiado por Henrique Moura Vorcaro. Segundo a apuração, cooptou
+  policiais para consultas indevidas em sistemas internos em favor da família Vorcaro, com o objetivo
+  de descobrir o teor de inquérito em que Henrique Vorcaro fora intimado, negociando valores com o pai
+  do banqueiro e pedindo ''800k''. Os policiais foram identificados na 6ª fase da operação, em 14/05/2026:
+  o agente Anderson Wander da Silva Lima e a delegada Valéria Vieira Pereira da Silva, da ativa, e os
+  aposentados Francisco José Pereira da Silva e Sebastião Monteiro Júnior. Preso preventivamente em 04/03/2026
+  na 3ª fase, foi transferido em 15/05/2026 para presídio federal em Brasília, por determinação de Mendonça,
+  sob o fundamento de que continuava recebendo informações sigilosas sobre operações policiais mesmo preso.
+  Não há denúncia oferecida nem julgamento.'
 why_in_novelo: É apontado pela Polícia Federal como o agente aposentado que teria cooptado policiais para
   acessar informações sigilosas em favor da família Vorcaro.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- O corpus não registra manifestação de Marilson Roseno da Silva ou de sua defesa.
 - As imputações são da autoridade policial, sem juízo de mérito.
+- Não há manifestação de Marilson Roseno da Silva ou de sua defesa em nenhuma das fontes consultadas,
+  embora ele esteja preso e seja pessoa identificada sob imputação grave — situação que o corpus registra
+  com destaque, por dever de contraditório.
+- 'Há divergência entre fontes sobre a natureza do pagamento: reportagem de fevereiro de 2026 registra
+  que ele ouviu que receberia R$ 400 mil; relatório da PF divulgado em junho de 2026, veiculado sobretudo
+  por veículos de menor porte, aponta R$ 400 mil MENSAIS repassados por Henrique Vorcaro, além de pagamentos
+  por Pix, presentes e bônus de fim de ano. A equipe não localizou a versão mensal em veículos de grande
+  porte.'
 source_ids:
 - src-metropoles-800k-policial-cooptado
+- src-cnnbrasil-2026-05-14-agente-infiltrado-vorcaro
+- src-otempo-2026-05-14-delegada-e-agentes-abasteciam-vorcaro
+- src-otempo-2026-05-15-marilson-transferido-presidio-federal
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

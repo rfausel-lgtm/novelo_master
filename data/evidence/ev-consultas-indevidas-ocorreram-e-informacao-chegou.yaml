@@ -1,0 +1,26 @@
+id: ev-consultas-indevidas-ocorreram-e-informacao-chegou
+kind: evidence
+classification: C
+proposition: 'Segundo a decisão da 6ª fase, as consultas indevidas não ficaram na tentativa: a delegada
+  Valéria Vieira Pereira da Silva acessou, sem atribuição legal e pelo sistema e-Pol, inquérito de 2024
+  da Superintendência da PF em São Paulo — exatamente aquele em que Henrique Vorcaro havia sido intimado.
+  A decisão registra que ela e o marido seriam responsáveis ''pelo repasse de informações sigilosas a
+  Marilson Roseno da Silva, mediante consultas indevidas ao sistema e-Pol'', e que ''o conteúdo compartilhado
+  teria sido suficientemente detalhado, permitindo a identificação do objeto da investigação''. Em busca
+  contra Henrique Vorcaro, a PF apreendeu ainda documento impresso extraído do sistema Sinapse, banco
+  de inteligência de acesso restrito, com captura de tela contendo consulta detalhada aos dados pessoais
+  de Augusto Conte, ex-sócio de Vorcaro. Segundo a corporação, o núcleo teria acessado sistemas com dados
+  da PF, do MPF e ainda do FBI e da Interpol, com Luiz Phillipi Mourão coordenando extrações mediante
+  uso de credenciais funcionais de terceiros para burlar protocolos de segurança.'
+document_ids: []
+source_ids:
+- src-otempo-2026-05-14-delegada-e-agentes-abasteciam-vorcaro
+- src-gazetadopovo-2026-06-16-acesso-a-informacoes-sigilosas
+excerpt: O conteúdo compartilhado teria sido suficientemente detalhado, permitindo a identificação do
+  objeto da investigação.
+date: '2026-05-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

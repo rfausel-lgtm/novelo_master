@@ -1,0 +1,31 @@
+id: comissao-de-valores-mobiliarios
+kind: organization
+name: Comissão de Valores Mobiliários
+aliases:
+- CVM
+org_type: public_body
+summary: 'Autarquia federal responsável pela regulação e fiscalização do mercado de capitais brasileiro.
+  É o regulador que, antes do colapso do Banco Master, conduziu ao menos onze processos administrativos
+  sancionadores envolvendo pessoas e empresas do caso — incluindo um em que o próprio Daniel Vorcaro figurou
+  como acusado e fechou termo de compromisso, em dezembro de 2020. Segundo grupo de trabalho interno criado
+  em fevereiro de 2026, foram 314 processos desde 2017 e 14 termos de acusação relacionados ao grupo.
+  A autarquia enfrenta paralisia reconhecida judicialmente: em julho de 2026 o STF homologou plano emergencial
+  de reestruturação na ADI 7.791, diante de cerca de 1.500 processos pendentes, e o Colegiado operou 2026
+  com três de cinco cadeiras vagas.'
+why_in_novelo: Regulador do mercado de capitais que processou repetidamente as empresas e pessoas do caso
+  Master antes do colapso, e cuja atuação passou a ser questionada no Senado.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A CVM nunca deu explicação pública sobre o PAS 19957.008699/2019-01, o processo sobre desvio de recursos
+  de regimes próprios de previdência, que segue sem julgamento desde 2016 e sequer consta da apresentação
+  levada ao Senado em fevereiro de 2026.
+source_ids:
+- src-cvm-2020-12-01-decisao-tc-debentures
+- src-cvm-processos-a-julgar-por-relator
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,28 @@
+id: evt-2026-09-03-fachin-abre-pet-16704
+kind: event
+title: Fachin abre a Petição 16.704 e dá cinco dias úteis a Moraes, Mendonça, Gonet e Andrei Rodrigues
+event_type: judicial_decision
+date: '2026-09-03'
+date_precision: day
+participant_ids:
+- edson-fachin
+- andrei-rodrigues
+- andre-mendonca
+description: 'O presidente do STF abriu a Petição 16.704, derivada da Pet 16.662, dando cinco dias úteis
+  para manifestação sobre quatro pontos: observância da LOMAN pela PF em apurações que atinjam autoridades
+  com foro no Supremo; eventual uso indevido de credenciais institucionais para acesso a documentos privados;
+  circunstâncias do despacho que determinou a identificação de pessoas na Pet 16.662; e medidas de controle
+  externo da atividade policial. O prazo vence por volta de 10/09/2026.'
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-inventario-de-procedimentos-contra-andrei
+source_ids:
+- src-migalhas-2026-09-03-fachin-cinco-dias-pet-16704
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

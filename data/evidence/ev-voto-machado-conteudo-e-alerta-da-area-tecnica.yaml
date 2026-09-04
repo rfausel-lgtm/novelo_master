@@ -1,0 +1,28 @@
+id: ev-voto-machado-conteudo-e-alerta-da-area-tecnica
+kind: evidence
+classification: D
+proposition: O voto do relator revela que a área técnica da CVM já descrevia, em 2020, o padrão que só
+  viria a ser público em 2025. Em nota de rodapé, Machado registra a alegação da Superintendência de Registro
+  de Valores Mobiliários de que as duas emissões de debêntures 'apresentam elementos que indicam que as
+  operações foram estruturadas com o propósito de viabilizar a transferência de recursos financeiros do
+  Banco M e da massa falida do Banco R para beneficiar os responsáveis ou familiares da ÍNDIGO e da Máxima
+  CCTVM' — ou seja, desvio de recursos de uma massa falida em favor de familiares dos controladores. No
+  §7º, o voto afirma que 'os elementos fáticos que permeiam o caso em exame poderiam ter efetivamente
+  ensejado a não instauração do processo considerando a baixa expressividade da lesão ao bem jurídico
+  tutelado'. E no §12 registra que os proponentes eram investigados por condutas semelhantes em processo
+  aberto em 12 de novembro de 2020, concluindo que este 'não apresenta, neste momento, materialidade suficiente
+  para obstar a aceitação das propostas' — processo que é justamente o PAS 19957.007976/2020-94, hoje
+  pautado para julgamento por operação fraudulenta.
+document_ids:
+- doc-2020-12-01-voto-1836-henrique-machado
+source_ids:
+- src-cvm-voto-1836-2020-henrique-machado-pdf
+excerpt: As operações foram estruturadas com o propósito de viabilizar a transferência de recursos financeiros
+  do Banco M e da massa falida do Banco R para beneficiar os responsáveis ou familiares da ÍNDIGO e da
+  Máxima CCTVM.
+date: '2020-12-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

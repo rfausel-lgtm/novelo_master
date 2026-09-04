@@ -1,0 +1,26 @@
+id: ev-vorcaro-acusado-e-acordo-de-2020-na-cvm
+kind: evidence
+classification: D
+proposition: Cinco anos antes do colapso do banco, Daniel Vorcaro figurou pessoalmente como acusado num
+  processo administrativo sancionador da CVM e fechou termo de compromisso. A decisão do Colegiado de
+  01/12/2020, no PAS SEI 19957.009798/2019-01, sobre as emissões de debêntures da Centara e da Simsan,
+  lista entre os proponentes 'DANIEL BUENO VORCARO, na qualidade de diretor da MÁXIMA S.A. CCTVM (intermediária
+  líder), por infração ao item I c/c item II, letra c, da ICVM 8, e ao inciso I do artigo 11 da ICVM 476'.
+  O total pago foi de R$ 2.325.000 — R$ 250 mil de Vorcaro, R$ 1 milhão da Máxima CCTVM, R$ 300 mil da
+  Índigo (a antiga Foco DTVM), R$ 300 mil de Benjamim Botelho de Almeida, R$ 250 mil de Luiz Antonio Bull,
+  R$ 100 mil da Simsan, R$ 100 mil de Zadra e R$ 25 mil de Saito. O montante captado nas emissões somou
+  R$ 49.018.776,98, de modo que o acordo equivale a 4,743% do total, e a parcela de Vorcaro isoladamente
+  a 0,51%. A aprovação foi unânime, com o diretor Alexandre Rangel declarando-se impedido — o mesmo Rangel
+  viria a se declarar impedido depois em outros dois processos do grupo, por ter sido consultado anteriormente,
+  como advogado, sobre fatos relacionados.
+document_ids:
+- doc-2020-12-01-voto-1836-henrique-machado
+source_ids:
+- src-cvm-2020-12-01-decisao-tc-debentures
+- src-cvm-voto-1836-2020-henrique-machado-pdf
+date: '2020-12-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
