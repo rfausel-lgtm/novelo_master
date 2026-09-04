@@ -7,6 +7,11 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Identidade visual "cartografia documental": arte de fundo do hero da home, fundo discreto do
+  carregamento do grafo e faixas de abertura em Cronologia, Fontes e Metodologia, cada uma em arte
+  própria para o tema claro e para o escuro (nunca inversão), servida em AVIF com fallback WebP a
+  partir de `public/assets/novelo/`. O centro do hero fica protegido por um véu radial para o texto
+  não competir com a arte. Masters, prompts e critérios de geração ficam fora do repositório.
 - Acervo em texto (`/acervo.txt`), índice `llms.txt` e página `/perguntar`. O corpus publicado inteiro
   num arquivo — 666 registros, com classe de evidência, contagem de fontes e id de volta para a página —
   precedido das regras de leitura que o site impõe a si mesmo. Existe porque uma extensão de navegador lê
