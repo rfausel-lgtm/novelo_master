@@ -1,0 +1,36 @@
+id: evt-2026-09-02-primeira-sessao-plenario-ignora-tema
+kind: event
+title: Primeira sessão plenária após a divulgação das mensagens ignora o tema; Fachin promete 'medidas
+  cabíveis'
+event_type: meeting
+date: '2026-09-02'
+date_precision: day
+participant_ids:
+- supremo-tribunal-federal
+- alexandre-de-moraes
+- andre-mendonca
+- edson-fachin
+- daniel-vorcaro
+description: Na primeira sessão plenária do STF após a divulgação das mensagens (01/09/2026), o tema não
+  constou da pauta e nenhum ministro o comentou publicamente; Moraes e Mendonça, sentados lado a lado
+  por critério de antiguidade, não conversaram. No mesmo dia, em evento acadêmico separado (a 17ª Conferência
+  Brasileiro-Ítalo-Espanhola de Direito Constitucional), o presidente Edson Fachin qualificou o episódio
+  de 'especial gravidade' e prometeu anunciar, em 'tempo devido', as 'medidas cabíveis e necessárias'
+  — sem especificar quais.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-plenario-02-09-tema-fora-da-pauta
+- ev-fachin-medidas-cabiveis-2026-09-02
+source_ids:
+- src-anoticiadovale-2026-09-03-plenario-ignora-mensagens
+- src-agenciabrasil-2026-09-02-fachin-medidas-cabiveis
+- src-cnnbrasil-2026-09-02-fachin-medidas-cabiveis
+- src-pontanegranews-2026-09-02-moraes-mendonca-lado-a-lado
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

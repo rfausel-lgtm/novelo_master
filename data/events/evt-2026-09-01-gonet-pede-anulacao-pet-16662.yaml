@@ -1,0 +1,33 @@
+id: evt-2026-09-01-gonet-pede-anulacao-pet-16662
+kind: event
+title: Gonet pede anulação da ordem de investigação e extinção da PET 16.662
+event_type: statement
+date: '2026-09-01'
+date_precision: day
+participant_ids:
+- paulo-gonet
+- andre-mendonca
+- alexandre-de-moraes
+- daniel-vorcaro
+- supremo-tribunal-federal
+description: 'Em manifestação assinada digitalmente às 19h27 de 01/09/2026 (ASSCRIM/PGR nº 1428987/2026),
+  em resposta ao despacho de 31/08/2026, o procurador-geral da República sustentou dupla nulidade da ordem
+  que levou a Polícia Federal a investigar o destinatário das mensagens de Vorcaro: excesso de competência
+  do relator na fase pré-processual, e usurpação da competência exclusiva do Plenário para investigar
+  ministro do STF. Pediu que André Mendonça reconhecesse a nulidade e extinguisse a Petição 16.662. Não
+  há, até a última atualização, decisão do relator sobre o pedido.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-gonet-dupla-nulidade-pet-16662
+- ev-gonet-188-de-218-paginas-sobre-moraes
+source_ids:
+- src-conjur-2026-09-manifestacao-gonet-pdf
+document_ids:
+- doc-2026-09-01-manifestacao-gonet-pet-16662
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

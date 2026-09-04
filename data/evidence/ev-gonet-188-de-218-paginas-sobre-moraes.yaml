@@ -1,0 +1,16 @@
+id: ev-gonet-188-de-218-paginas-sobre-moraes
+kind: evidence
+classification: D
+proposition: Gonet registra, na manifestação, que das mais de 200 páginas do informe policial (o IPJ-A
+  3298613/2026, de 218 páginas), 188 foram dedicadas ao ministro Alexandre de Moraes — e que a ordem de
+  investigação do relator data de 24/08/2026, anterior ao ofício de 27/08/2026 que remeteu o laudo.
+document_ids:
+- doc-2026-09-01-manifestacao-gonet-pet-16662
+source_ids:
+- src-conjur-2026-09-manifestacao-gonet-pdf
+date: '2026-09-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

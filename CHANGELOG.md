@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 21 do corpus: a resposta da PGR ao prazo de cinco dias — documento primário lido integralmente,
+  a manifestação de Paulo Gonet na PET 16.662 (ASSCRIM/PGR nº 1428987/2026, assinada em 01/09/2026),
+  sustentando dupla nulidade da ordem de investigação e pedindo que André Mendonça extinga o processo.
+  Registra que 188 das 218 páginas do laudo da PF tratam do ministro Alexandre de Moraes. Acrescenta a
+  primeira sessão plenária pós-divulgação (02/09/2026), em que o tema não entrou na pauta, e a fala
+  pública do presidente Edson Fachin no mesmo dia, prometendo 'medidas cabíveis e necessárias' sem
+  especificá-las.
 - Lote 20 do corpus: como os pagamentos aos dois servidores do Banco Central teriam sido operacionalizados
   — mensagens de WhatsApp entre Fabiano Zettel e Daniel Vorcaro ('Belline cobrando. Paga?' / 'Claro'),
   o contrato fictício de consultoria com a Varajo Consultoria Empresarial (objeto declarado: estudo sobre

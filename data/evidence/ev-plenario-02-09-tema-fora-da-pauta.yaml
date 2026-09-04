@@ -1,0 +1,18 @@
+id: ev-plenario-02-09-tema-fora-da-pauta
+kind: evidence
+classification: C
+proposition: 'Na sessão plenária de 02/09/2026 — a primeira após a divulgação das mensagens — o tema não
+  constou da pauta formal (trataram-se questões tributárias: imunidade de ITBI para incorporadoras e PIS/Cofins
+  sobre rendimentos de aplicações financeiras); nenhum ministro comentou o caso publicamente durante a
+  sessão. Moraes e Mendonça, sentados lado a lado por critério de antiguidade, não conversaram, segundo
+  a reportagem. Cármen Lúcia participou por videoconferência.'
+document_ids: []
+source_ids:
+- src-anoticiadovale-2026-09-03-plenario-ignora-mensagens
+- src-pontanegranews-2026-09-02-moraes-mendonca-lado-a-lado
+date: '2026-09-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

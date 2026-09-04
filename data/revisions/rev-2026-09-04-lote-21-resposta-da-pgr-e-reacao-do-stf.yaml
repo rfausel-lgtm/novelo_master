@@ -1,0 +1,21 @@
+id: rev-2026-09-04-lote-21-resposta-da-pgr-e-reacao-do-stf
+kind: revision
+date: '2026-09-03'
+title: 'Lote 21: a resposta da PGR ao prazo de cinco dias e a reação institucional do STF'
+summary: 'Documento primário lido integralmente: a manifestação de Gonet na PET 16.662 (ASSCRIM/PGR 1428987/2026),
+  pedindo a anulação da ordem de investigação e a extinção do processo por dupla nulidade. Acrescenta
+  a primeira sessão plenária pós-divulgação (02/09/2026), em que o tema não entrou na pauta, e a fala
+  pública de Fachin no mesmo dia prometendo ''medidas cabíveis e necessárias'' sem especificá-las. Resolve
+  dois itens do backlog: a resposta formal da PGR ao prazo de cinco dias fixado em 31/08/2026, e o desfecho
+  (por ora, ausência de desfecho) da sessão pública do Plenário que Mendonça havia requisitado.'
+affected_ids:
+- evt-2026-09-01-mendonca-levanta-sigilo-pet-16662
+- paulo-gonet
+- andre-mendonca
+- edson-fachin
+reason: Documento primário disponível publicamente (Conjur); fecha item de backlog.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

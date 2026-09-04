@@ -24,14 +24,17 @@ evidence_ids:
 - ev-stf-mendonca-levanta-sigilo-2026-09-01
 - ev-relatorio-pf-nao-exaustivo
 - ev-mendonca-requisita-sessao-do-plenario
+- ev-gonet-dupla-nulidade-pet-16662
 source_ids:
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-congressoemfoco-2026-09-01-relatorio-pf
 - src-poder360-2026-09-01-integras-pet-16662
 - src-poder360-2026-09-01-mendonca-quer-sessao-plenario
 - src-poder360-2026-09-02-relatorio-pf-nao-conclusivo
+- src-conjur-2026-09-manifestacao-gonet-pdf
 document_ids:
 - doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+- doc-2026-09-01-manifestacao-gonet-pet-16662
 public_act_ids: []
 review_status: published
 reviewer: orquestrador
