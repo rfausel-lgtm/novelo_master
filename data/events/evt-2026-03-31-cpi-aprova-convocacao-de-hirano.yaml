@@ -1,0 +1,34 @@
+id: evt-2026-03-31-cpi-aprova-convocacao-de-hirano
+kind: event
+title: CPI do Crime Organizado aprova convocação que leva ao plano oficial a tese sobre Ortiz e o Aquilla
+event_type: public_act
+date: '2026-03-31'
+date_precision: day
+participant_ids:
+- alessandro-vieira
+- cpi-do-crime-organizado
+- oliver-ortiz-de-zarate-martin
+- benjamim-botelho-de-almeida
+- foco-dtvm
+description: 'O colegiado da CPI do Crime Organizado aprovou o Requerimento nº 287/2026, do senador Alessandro
+  Vieira, convocando Yan Felix Hirano. O requerimento reproduz a tese veiculada pelo ICL Notícias sobre
+  a presença de Oliver Ortiz entre os cotistas de fundos da antiga Foco DTVM e acrescenta corroboração
+  própria a partir de registros da CVM e da Receita Federal. É o único ponto em que a alegação atravessou
+  para o plano oficial — e sem desdobramento: Hirano nunca depôs, e a comissão encerrou em 14/04/2026
+  com a rejeição do relatório final, que sequer menciona o tema.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-req-287-cpicrime-ortiz-cotista-aquilla-sao-domingos
+- ev-relatorio-final-cpicrime-nao-menciona-ortiz
+source_ids:
+- src-senado-req-287-2026-cpicrime-convocacao-hirano
+- src-senado-2026-04-14-cpi-crime-organizado-sem-relatorio
+document_ids:
+- doc-2026-03-19-req-287-cpicrime
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

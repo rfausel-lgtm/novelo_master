@@ -1,0 +1,33 @@
+id: oliver-ortiz-de-zarate-martin
+kind: person
+name: Oliver Ortiz de Zarate Martin
+category: other
+role: Cidadão espanhol condenado no Brasil por tráfico internacional e lavagem de dinheiro
+positions: []
+summary: 'Preso pela Polícia Federal em 27/06/2013, em cobertura na Barra da Tijuca (RJ), com apreensão
+  de cerca de R$ 20 milhões em bens; segundo a PF à época, chefiava quadrilha espanhola ligada a cartéis
+  colombianos. Foi condenado em dezembro de 2013 a 16 anos por tráfico internacional e lavagem de dinheiro.
+  Aparece no caso Master por uma via indireta e disputada: decisão da Justiça Federal do Rio, em ação
+  de restituição de terrenos em Queimados, o descreve como cotista de fundos do Grupo Aquilla geridos
+  por Benjamim Botelho de Almeida, e requerimento aprovado na CPI do Crime Organizado sustenta que ele
+  constava como cotista de fundos da antiga Foco DTVM em registros da CVM de outubro de 2015. Nenhuma
+  fonte localizada o liga pessoalmente a Daniel Vorcaro, e nenhuma investigação oficial incorporou a alegação
+  de que recursos seus teriam financiado a compra do Banco Máxima. Procurado por reportagens em 2026,
+  não respondeu.'
+why_in_novelo: Citado, em alegação em disputa e em decisão judicial sobre terrenos, como cotista de fundos
+  do grupo que administrava os veículos usados na aquisição do Banco Máxima.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O número do processo da condenação de 2013 não foi localizado pela equipe.
+- Procurado pelas reportagens de 2026, por e-mail e por meio de advogado, não respondeu.
+source_ids:
+- src-agenciabrasil-2013-06-27-prisao-oliver-ortiz
+- src-senado-req-287-2026-cpicrime-convocacao-hirano
+- src-iclnoticias-2026-05-05-acao-terrenos-elo-narcotraficante
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

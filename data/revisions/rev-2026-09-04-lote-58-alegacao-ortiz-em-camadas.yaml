@@ -1,0 +1,29 @@
+id: rev-2026-09-04-lote-58-alegacao-ortiz-em-camadas
+kind: revision
+date: '2026-09-03'
+title: 'Lote 58: a alegação do narcotraficante espanhol, separada em camadas'
+summary: 'Frente aberta a pedido do editor, no aprofundamento do nó Benjamim Botelho. A alegação de que
+  recursos de lavagem do narcotraficante espanhol Oliver Ortiz teriam chegado à compra do Banco Máxima
+  é registrada com separação estrita entre o que tem lastro e o que não tem. Publica-se como fato a condenação
+  de Ortiz em 2013; como evidência atribuída, a decisão da Justiça Federal do Rio que o descreve como
+  cotista de fundos do Grupo Aquilla geridos por Botelho; como documento oficial, o requerimento aprovado
+  na CPI do Crime Organizado que acolheu a tese. O núcleo causal permanece registrado como alegação em
+  disputa, de fonte anônima única, com os limites explicitados — entre eles a constatação, feita por busca
+  textual no PDF oficial, de que o relatório final da CPI não menciona nenhum dos envolvidos, e o fato
+  de nenhuma investigação oficial ter incorporado a tese. Registra-se ainda uma correção de cadeia de
+  atribuição que circulava inclusive na apuração interna: a alegação não é da Agência Pública, que apenas
+  cita o ICL Notícias. Por decisão editorial, não se cria vínculo entre Ortiz e Daniel Vorcaro no grafo
+  — nenhuma fonte, nem mesmo a que originou a alegação, afirma que Vorcaro o conhecesse ou soubesse da
+  origem dos recursos.'
+affected_ids:
+- oliver-ortiz-de-zarate-martin
+- benjamim-botelho-de-almeida
+- grupo-aquilla
+- foco-dtvm
+- banco-master
+reason: Verificação em camadas de alegação grave envolvendo pessoas identificadas, a pedido do editor.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,29 @@
+id: evt-2022-07-05-cvm-condena-botelho-e-indigo-sao-domingos
+kind: event
+title: CVM condena Botelho e a antiga Foco DTVM por irregularidades na administração do FII São Domingos
+event_type: regulatory_act
+date: '2022-07-05'
+date_precision: day
+participant_ids:
+- benjamim-botelho-de-almeida
+- foco-dtvm
+description: A CVM condenou a Índigo Investimentos DTVM (antiga Foco DTVM), Benjamim Botelho de Almeida
+  e Sérgio Paulino Ferreira em multas que somam R$ 2,1 milhões, por irregularidades na administração fiduciária
+  do FII São Domingos — o fundo que comprou por R$ 57 milhões o terreno de Jequitibá regularizado por
+  R$ 2,5 milhões, operação usada para lastrear a capacidade econômica apresentada por Vorcaro ao Banco
+  Central. A Botelho couberam R$ 450 mil; ele foi absolvido de uma das acusações e teve reconhecida ilegitimidade
+  passiva em outra.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-cvm-condena-botelho-fii-sao-domingos-2022
+source_ids:
+- src-cvm-2022-07-05-julgamento-fii-sao-domingos
+- src-estadao-2026-04-07-arquitetura-de-criacao-do-master
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

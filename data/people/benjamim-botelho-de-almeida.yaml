@@ -2,25 +2,65 @@ id: benjamim-botelho-de-almeida
 kind: person
 name: Benjamim Botelho de Almeida
 category: businessperson
-role: Sócio da Foco DTVM (depois Sefer Investimentos)
+role: Proprietário e controlador da Foco DTVM (depois Índigo, depois Sefer Investimentos); principal executivo
+  do Grupo Aquilla
 positions: []
-summary: Sócio da Foco DTVM, administradora de fundos que aparece em mais de uma frente do caso. Segundo
-  documento protocolado na CPI do Crime Organizado, recebeu R$ 2 milhões da Milo Investimentos, empresa
-  ligada a Vorcaro, em 31/10/2016, sendo descrito na peça como 'elo financeiro central' da cadeia investigada
-  em Rondônia. Seu nome aparece também na delação premiada de João Carlos Mansur, como beneficiário formal
-  do fundo Jaguar Multimarket Fund Ltd (Cayman Islands), cujo controlador real seria Vorcaro segundo o
-  colaborador — alegação não comprovada. São registros de origens distintas e nenhum deles constitui imputação
-  formal contra ele no corpus.
-why_in_novelo: Nome recorrente, por vias independentes, na estrutura de fundos associada às operações
-  de Vorcaro.
+summary: 'Fundou em 2003 a distribuidora que passaria por três nomes — Foco DTVM, Índigo Investimentos
+  DTVM e Sefer Investimentos —, tendo antes passado pelo Banco Garantia nos anos 1990. Registros da CVM
+  o identificam como diretor responsável da Foco DTVM de 19/10/2009 a 24/04/2013 e da gestora do Grupo
+  Aquilla de 08/07/2011 a 11/01/2016; decisão de Dias Toffoli, de 06/01/2026, o descreve como proprietário
+  e controlador da casa. Reside em Portugal há cerca de cinco anos e mantém estruturas no exterior, segundo
+  o Estadão. Responde a três frentes documentadas na CVM: foi condenado a R$ 450 mil em 2022 por irregularidades
+  na administração do FII São Domingos; é acusado, em processo cujo desfecho não foi localizado, de operação
+  fraudulenta caracterizada pelo oferecimento de vantagens a prefeitos e gestores de regimes próprios
+  de previdência; e pagou R$ 300 mil em termo de compromisso sobre emissões de debêntures, acordo que
+  não implica confissão. Foi denunciado pelo MPF por gestão fraudulenta no Banco Máxima entre 2014 e 2016,
+  pelo suposto uso do fundo Aquilla Veyron para mascarar a insuficiência de capital do banco — sua defesa
+  afirma que o processo terminou em absolvição, o que a equipe não conseguiu confirmar de forma independente.
+  Foi alvo da 2ª fase da Operação Compliance Zero, em 14/01/2026, e teve os bens tornados indisponíveis
+  quando o Banco Central liquidou a Sefer, em 26/06/2026. Não há, até onde a apuração alcança, denúncia
+  oferecida contra ele no caso Master, indiciamento formal ou prisão: é investigado com medidas patrimoniais,
+  não réu nessa frente.'
+why_in_novelo: 'Nome que atravessa, por vias independentes, a origem do Banco Master: administrava os
+  fundos usados na aquisição do Banco Máxima, controlava a distribuidora que a Justiça e o Banco Central
+  alcançaram no caso, e é apontado pelo MPF como responsável pelo fundo usado na fraude contábil que precedeu
+  a venda.'
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: Em nota de seus advogados, afirma ter deixado definitivamente o Brasil em 2018, contesta com
+    datas específicas a afirmação de que seria visto semanalmente na Faria Lima, 'repudia veementemente'
+    ser descrito como operador financeiro de Vorcaro nos Estados Unidos, e sustenta que a ação penal sobre
+    o Banco Máxima resultou em sua absolvição.
+  source_ids:
+  - src-iclnoticias-2026-03-09-nota-defesa-botelho
+  by_id: benjamim-botelho-de-almeida
+  date: '2026-03-09'
+- kind: clarification
+  summary: Afirma ter sido 'diretor contratado da Aquilla por um curto período', nunca responsável pelas
+    áreas de Compliance e Know Your Client, e ter se desligado voluntariamente 'há mais de 10 anos'.
+  source_ids:
+  - src-iclnoticias-2026-03-09-nota-defesa-botelho
+  by_id: benjamim-botelho-de-almeida
+  date: 2026-05
 open_questions:
-- Não há, no corpus, manifestação de Benjamim Botelho de Almeida sobre nenhum dos registros que o mencionam,
-  nem denúncia ou decisão de mérito contra ele.
+- A absolvição na ação penal sobre o Banco Máxima é afirmada pela defesa e não foi confirmada em fonte
+  independente; os acórdãos do TRF3 associados ao nome não puderam ser lidos pela equipe.
+- O desfecho do PAS CVM SEI 19957.008699/2019-01, em que é acusado de oferecer vantagens a prefeitos e
+  gestores de RPPS, não foi localizado — consta apenas a rejeição do termo de compromisso em 2021.
+- Não há manifestação dele sobre a menção ao fundo Jaguar Multimarket na delação de João Carlos Mansur;
+  nenhum veículo o procurou sobre esse ponto específico.
+- Não foi localizada denúncia, indiciamento formal ou prisão contra ele no caso Master; as medidas existentes
+  são patrimoniais e investigativas.
 source_ids:
 - src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
+- src-cvm-2021-02-23-parecer-termo-compromisso-pas-03-2016
+- src-cvm-2022-07-05-julgamento-fii-sao-domingos
+- src-cvm-2022-acordo-debentures-2325000
+- src-estadao-2026-04-07-arquitetura-de-criacao-do-master
+- src-gazetadopovo-2026-06-26-bc-liquida-sefer
+- src-seudinheiro-2026-06-liquidacao-sefer-bens-controladores
+- src-iclnoticias-2026-03-09-nota-defesa-botelho
+- src-metropoles-2026-pf-reexamina-pericias-conexoes-fundos
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

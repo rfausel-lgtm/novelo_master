@@ -1,0 +1,33 @@
+id: doc-2026-03-19-req-287-cpicrime
+kind: document
+title: Requerimento nº 287/2026 – CPICRIME (convocação de Yan Felix Hirano), do senador Alessandro Vieira
+doc_type: legislative_act
+date: '2026-03-19'
+source_ids:
+- src-senado-req-287-2026-cpicrime-convocacao-hirano
+summary: 'Requerimento aprovado pelo colegiado da CPI do Crime Organizado em 31/03/2026. Reproduz a tese
+  veiculada pelo ICL Notícias e acrescenta corroboração própria: sustenta que documentos registrados na
+  CVM em outubro de 2015 confirmariam Oliver Ortiz como cotista de fundos administrados pela antiga Foco
+  DTVM, inclusive o Aquilla FII, e que registros da Receita Federal demonstram que Yan Felix Hirano e
+  Benjamim Botelho de Almeida figuram conjuntamente como sócios-administradores da ASOCLQ desde junho
+  de 2012. O texto preserva o condicional. Hirano não chegou a depor: a CPI encerrou em 14/04/2026 sem
+  relatório aprovado.'
+is_official: true
+related_entity_ids:
+- oliver-ortiz-de-zarate-martin
+- benjamim-botelho-de-almeida
+- foco-dtvm
+- grupo-aquilla
+issuer: Senado Federal — CPI do Crime Organizado
+date_precision: day
+url: https://legis.senado.leg.br/sdleg-getter/documento?dm=10186866
+reference: REQ 287/2026 – CPICRIME
+excerpt: Documentos registrados na CVM em outubro de 2015 confirmam que Ortiz figurava como cotista de
+  fundos administrados pela antiga Foco DTVM — atual Sefer Investimentos —, tanto em nome próprio quanto
+  por meio de empresas a ele vinculadas, incluindo o Aquilla FII. Este fundo investiu no Fundo São Domingos,
+  veículo utilizado na aquisição do Banco Máxima em 2017.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

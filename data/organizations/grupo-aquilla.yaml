@@ -1,0 +1,30 @@
+id: grupo-aquilla
+kind: organization
+name: Grupo Aquilla
+aliases: []
+org_type: company
+summary: 'Conglomerado formado por uma distribuidora de títulos e valores mobiliários autorizada pelo
+  Banco Central e pela CVM, uma securitizadora e uma gestora de recursos autorizada apenas pela CVM. Benjamim
+  Botelho de Almeida é apontado como seu principal executivo; registros da CVM o identificam como diretor
+  responsável da gestora do grupo (A.A.M Ltda./AQ3 A.M. Ltda.) entre 08/07/2011 e 11/01/2016, e documento
+  da B3 de 2013 o identifica como diretor responsável do FII Aquilla. Fundos do grupo aparecem em duas
+  frentes do caso: o Aquilla Veyron FIM, apontado pelo MPF como instrumento da simulação de valorização
+  que mascarou a insuficiência de capital do Banco Máxima entre 2014 e 2016; e o Aquilla FII, que segundo
+  requerimento aprovado na CPI do Crime Organizado teria investido no Fundo São Domingos, veículo usado
+  na aquisição do Máxima em 2017.'
+why_in_novelo: Estrutura de fundos que atravessa a origem do Banco Master — tanto a fraude contábil que
+  precedeu a venda quanto o veículo usado na aquisição.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A composição societária do Grupo Aquilla e a relação entre suas empresas não foram verificadas em registro
+  oficial pela equipe.
+source_ids:
+- src-cvm-2021-02-23-parecer-termo-compromisso-pas-03-2016
+- src-iclnoticias-2026-03-09-nota-defesa-botelho
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

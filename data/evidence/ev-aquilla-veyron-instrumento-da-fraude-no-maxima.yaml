@@ -1,0 +1,23 @@
+id: ev-aquilla-veyron-instrumento-da-fraude-no-maxima
+kind: evidence
+classification: A
+proposition: Benjamim Botelho de Almeida foi denunciado pelo MPF por gestão fraudulenta de instituição
+  financeira (arts. 4º e 6º da Lei 7.492/86) no Banco Máxima entre 2014 e 2016, pelo suposto uso do fundo
+  Aquilla Veyron FIM para simular valorização de investimentos e mascarar a insuficiência de capital do
+  banco. É o mesmo período e a mesma mecânica contábil — simular a valorização de investimento para reduzir
+  prejuízos e ocultar insuficiência de capital — que fundamentaram a inabilitação de Saul Dutra Sabbá
+  pelo Banco Central em 2018 e sua condenação criminal em 2025. Segundo nota de seus advogados, o processo
+  resultou na absolvição de Botelho; a equipe não conseguiu confirmar essa absolvição em fonte independente,
+  e a informação fica registrada como versão da defesa.
+document_ids: []
+source_ids:
+- src-estadao-2026-04-07-arquitetura-de-criacao-do-master
+- src-iclnoticias-2026-03-09-nota-defesa-botelho
+attributed_to: Denúncia do MPF, segundo a imprensa; a absolvição é afirmada pela defesa e não foi confirmada
+  de forma independente
+date: '2016'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

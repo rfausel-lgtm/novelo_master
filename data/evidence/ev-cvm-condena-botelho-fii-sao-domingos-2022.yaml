@@ -1,0 +1,21 @@
+id: ev-cvm-condena-botelho-fii-sao-domingos-2022
+kind: evidence
+classification: C
+proposition: Em 05/07/2022, a CVM julgou o PAS SEI 19957.002315/2021-53, sobre a administração fiduciária
+  do FII São Domingos — o mesmo fundo que comprou por R$ 57 milhões o terreno de Jequitibá regularizado
+  por R$ 2,5 milhões. Foram condenados a Índigo Investimentos DTVM (denominação então adotada pela antiga
+  Foco DTVM), Benjamim Botelho de Almeida e Sérgio Paulino Ferreira, em multas que somam R$ 2,1 milhões.
+  A Botelho couberam R$ 450 mil, distribuídos em quatro capitulações, entre elas a falta de monitoramento
+  do imóvel San Benedetto. Ele foi absolvido da acusação relativa à cobrança de taxa de administração
+  e teve reconhecida ilegitimidade passiva quanto à operação de permuta, por ter ocorrido após sua renúncia
+  ao cargo.
+document_ids: []
+source_ids:
+- src-cvm-2022-07-05-julgamento-fii-sao-domingos
+- src-estadao-2026-04-07-arquitetura-de-criacao-do-master
+date: '2022-07-05'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

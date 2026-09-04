@@ -1,0 +1,23 @@
+id: ev-req-287-cpicrime-ortiz-cotista-aquilla-sao-domingos
+kind: evidence
+classification: D
+proposition: 'O Requerimento nº 287/2026 da CPI do Crime Organizado, do senador Alessandro Vieira, aprovado
+  pelo colegiado em 31/03/2026, sustenta que ''documentos registrados na CVM em outubro de 2015 confirmam
+  que Ortiz figurava como cotista de fundos administrados pela antiga Foco DTVM — atual Sefer Investimentos
+  —, tanto em nome próprio quanto por meio de empresas a ele vinculadas, incluindo o Aquilla FII'', e
+  que ''este fundo investiu no Fundo São Domingos, veículo utilizado na aquisição do Banco Máxima em 2017''.
+  Registra ainda que Yan Felix Hirano e Benjamim Botelho de Almeida figuram conjuntamente como sócios-administradores
+  da ASOCLQ desde junho de 2012. O texto do próprio requerimento preserva o condicional. Hirano nunca
+  chegou a depor: a CPI encerrou em 14/04/2026 com a rejeição do relatório final por 6 votos a 4. Os documentos
+  da CVM invocados não foram publicados nem localizados pela equipe.'
+document_ids:
+- doc-2026-03-19-req-287-cpicrime
+source_ids:
+- src-senado-req-287-2026-cpicrime-convocacao-hirano
+- src-senado-2026-04-14-cpi-crime-organizado-sem-relatorio
+date: '2026-03-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

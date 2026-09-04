@@ -1,0 +1,21 @@
+id: ev-botelho-cargos-registrados-cvm
+kind: evidence
+classification: C
+proposition: 'Registros oficiais fixam os cargos de Benjamim Botelho de Almeida: foi diretor responsável
+  da Foco DTVM de 19/10/2009 a 24/04/2013 e diretor responsável da gestora A.A.M Ltda./AQ3 A.M. Ltda.
+  — do Grupo Aquilla — de 08/07/2011 a 11/01/2016, conforme parecer do Comitê de Termo de Compromisso
+  da CVM. Em decisão de 06/01/2026 no âmbito da Operação Compliance Zero, o ministro Dias Toffoli afirmou
+  que ''Benjamim Botelho é proprietário e controlador da Foco DTVM (atualmente SEFER Investimentos), devendo
+  as medidas recaírem sobre seu patrimônio e em todas as participações que envolvem a Sefer''.'
+document_ids: []
+source_ids:
+- src-cvm-2021-02-23-parecer-termo-compromisso-pas-03-2016
+- src-iclnoticias-2026-03-09-nota-defesa-botelho
+excerpt: Benjamim Botelho é proprietário e controlador da Foco DTVM (atualmente SEFER Investimentos),
+  devendo as medidas recaírem sobre seu patrimônio e em todas as participações que envolvem a Sefer.
+date: '2026-01-06'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,27 @@
+id: rev-2026-09-04-lote-57-quem-e-benjamim-botelho
+kind: revision
+date: '2026-09-03'
+title: 'Lote 57: quem é Benjamim Botelho de Almeida'
+summary: 'Frente aberta a pedido do editor sobre o nome que apareceu por três caminhos independentes de
+  apuração. O registro, antes de um parágrafo, passa a ter lastro documental: cargos fixados em parecer
+  da CVM, três processos sancionadores — com condenação nominal de R$ 450 mil em 2022 pelo FII São Domingos,
+  acusação não julgada de oferecer vantagens a prefeitos e gestores de RPPS, e termo de compromisso de
+  R$ 300 mil que não implica confissão —, a liquidação da Sefer pelo Banco Central em 26/06/2026 com bloqueio
+  de seus bens, e a condição de alvo da 2ª fase da Compliance Zero. O elo estrutural mais relevante: o
+  fundo Aquilla Veyron, do grupo que ele dirigia, é apontado pelo MPF como instrumento da mesma fraude
+  contábil pela qual Saul Dutra Sabbá foi inabilitado e condenado — o que liga o administrador dos fundos
+  à fraude que precedeu a venda do banco. Corrige três pontos do corpus: a razão social ao tempo da condenação
+  era Índigo, não Foco; a multa somou R$ 2,1 milhões, não ''mais de R$ 1 milhão''; e ele não é silente
+  — manifestou-se por seus advogados, e suas versões passam a constar.'
+affected_ids:
+- benjamim-botelho-de-almeida
+- foco-dtvm
+- grupo-aquilla
+- daniel-vorcaro
+- saul-dutra-sabba
+reason: Aprofundamento do nó Benjamim Botelho, a pedido do editor, com documentos da CVM e do Banco Central.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

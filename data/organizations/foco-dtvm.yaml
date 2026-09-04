@@ -2,23 +2,41 @@ id: foco-dtvm
 kind: organization
 name: Foco DTVM
 aliases:
+- Índigo Investimentos DTVM
 - Sefer Investimentos
 org_type: financial_institution
-summary: Distribuidora de títulos e valores mobiliários, posteriormente renomeada Sefer Investimentos.
+summary: 'Distribuidora de títulos e valores mobiliários fundada em 2003 por Benjamim Botelho de Almeida,
+  que trocou de nome duas vezes: Foco DTVM, depois Índigo Investimentos DTVM e, por fim, Sefer Investimentos.
   Administrava o FII São Domingos, fundo abastecido por regimes próprios de previdência de servidores
   públicos que comprou por R$ 57 milhões um terreno em Jequitibá (MG) regularizado por R$ 2,5 milhões
-  dois anos antes. Em 2022, a CVM multou a Foco DTVM e o diretor do fundo em mais de R$ 1 milhão por má
-  gestão, incluindo operações que beneficiaram empresas da família Vorcaro. Aparece também, em outras
-  frentes de apuração, como administradora de fundos ligados ao Grupo Aquilla e ao esquema de desvio de
-  recursos de regimes próprios de previdência investigado em Rondônia.
+  dois anos antes — operação que ajudou a lastrear a capacidade econômica apresentada por Vorcaro ao Banco
+  Central. Em 05/07/2022, a CVM condenou a casa e dois administradores em multas que somam R$ 2,1 milhões
+  por irregularidades na administração desse fundo. Geria também o fundo Monte Carlo, cujos recursos,
+  como os do São Domingos, teriam sido direcionados a empresas ligadas à família Vorcaro, segundo a imprensa,
+  e aparece em material da Operação Fundo Fake, de 2020. Foi alvo da 2ª fase da Operação Compliance Zero,
+  em 14/01/2026, e teve a liquidação extrajudicial decretada pelo Banco Central em 26/06/2026, por comprometimento
+  econômico-financeiro e graves violações às normas legais.'
 why_in_novelo: Administradora do fundo cuja compra de um terreno supervalorizado ajudou a lastrear a capacidade
   econômica apresentada por Vorcaro ao Banco Central, e nó recorrente em outras frentes do caso.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+- kind: clarification
+  summary: Por sua assessoria, a Sefer declarou que todas as operações 'observam rigorosamente a legislação
+    do mercado de capitais' e são 'lícitas, regulares e pautadas por critérios técnicos', negando que
+    as pessoas citadas em reportagens sejam cotistas dos fundos.
+  source_ids:
+  - src-estadao-2026-04-07-arquitetura-de-criacao-do-master
+  date: 2026-04
+open_questions:
+- 'Há divergência sobre o porte da casa: a Folhapress, a partir de base do Banco Central, aponta R$ 12,9
+  bilhões sob administração em maio de 2026 e classificação S4 (pequeno porte); o Estadão atribui 102
+  fundos e mais de R$ 20 bilhões, dos quais cerca de R$ 9,6 bilhões ligados ao ecossistema Master.'
 source_ids:
 - src-iclnoticias-2025-12-03-imoveis-superfaturados-fundos-de-pensao
+- src-cvm-2022-07-05-julgamento-fii-sao-domingos
+- src-estadao-2026-04-07-arquitetura-de-criacao-do-master
+- src-gazetadopovo-2026-06-26-bc-liquida-sefer
+- src-seudinheiro-2026-06-liquidacao-sefer-bens-controladores
+- src-metropoles-2026-pf-reexamina-pericias-conexoes-fundos
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

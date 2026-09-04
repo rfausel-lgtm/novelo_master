@@ -1,0 +1,23 @@
+id: ev-cvm-acusa-botelho-vantagens-a-gestores-de-rpps
+kind: evidence
+classification: C
+proposition: No PAS CVM SEI 19957.008699/2019-01 (PAS 03/2016), Benjamim Botelho de Almeida é acusado
+  de operação fraudulenta no mercado de valores mobiliários, caracterizada, segundo a acusação, pelo 'oferecimento
+  de vantagens financeiras ilícitas a prefeitos e gestores de RPPS' para desviar recursos de fundos de
+  regimes próprios de previdência, com prejuízos de centenas de milhões. Em 23/02/2021, o Colegiado rejeitou
+  por unanimidade sua proposta de termo de compromisso de R$ 250 mil, citando a desproporção entre a oferta
+  e os prejuízos, a 'gravidade dos fatos' e o 'histórico de parte dos proponentes'. O desfecho do julgamento
+  desse processo não foi localizado pela equipe — é acusação, não condenação. Em processo distinto sobre
+  emissões de debêntures (PAS SEI 19957.009798/2019-01), ele pagou R$ 300 mil em termo de compromisso
+  aceito pela CVM, o que não implica confissão nem reconhecimento de culpa.
+document_ids: []
+source_ids:
+- src-cvm-2021-02-23-parecer-termo-compromisso-pas-03-2016
+- src-cvm-2022-acordo-debentures-2325000
+excerpt: Oferecimento de vantagens financeiras ilícitas a prefeitos e gestores de RPPS.
+date: '2021-02-23'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

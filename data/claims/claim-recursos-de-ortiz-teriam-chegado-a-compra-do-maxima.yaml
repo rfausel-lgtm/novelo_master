@@ -1,0 +1,89 @@
+id: claim-recursos-de-ortiz-teriam-chegado-a-compra-do-maxima
+kind: claim
+statement: Segundo fonte anônima do mercado financeiro ouvida pelo ICL Notícias, recursos oriundos de
+  lavagem de dinheiro do narcotraficante espanhol Oliver Ortiz de Zarate Martin teriam chegado, por meio
+  de fundos do Grupo Aquilla, à operação de compra do Banco Máxima em 2017.
+classification: A
+status: disputed
+claimant: Fonte anônima do mercado financeiro, via ICL Notícias
+date: '2026-03-09'
+related_entity_ids:
+- oliver-ortiz-de-zarate-martin
+- benjamim-botelho-de-almeida
+- grupo-aquilla
+- foco-dtvm
+- banco-master
+event_ids:
+- evt-2026-03-31-cpi-aprova-convocacao-de-hirano
+evidence_ids:
+- ev-decisao-queimados-liga-ortiz-a-fundos-de-botelho
+- ev-req-287-cpicrime-ortiz-cotista-aquilla-sao-domingos
+- ev-oliver-ortiz-preso-e-condenado-2013
+- ev-relatorio-final-cpicrime-nao-menciona-ortiz
+source_ids:
+- src-iclnoticias-2026-03-09-exclusivo-narcotraficante-fundo
+- src-iclnoticias-2026-05-05-acao-terrenos-elo-narcotraficante
+- src-senado-req-287-2026-cpicrime-convocacao-hirano
+- src-apublica-2026-03-09-reconstrucao-completa
+limits: 'O núcleo causal da alegação — que dinheiro do tráfico teria financiado a compra — repousa em
+  fonte anônima única, em citação direta, e o próprio veículo ressalva que não pôde confirmar os valores
+  por causa do sigilo bancário. Nenhum documento foi publicado. Os registros da CVM de outubro de 2015,
+  invocados tanto pela reportagem quanto pelo requerimento do Senado, não são públicos nem foram localizados
+  pela equipe: são o gargalo de todo o caso. O relatório final da CPI do Crime Organizado, de 221 páginas,
+  não menciona Ortiz, Aquilla, Foco/Sefer, Botelho ou Hirano — e foi rejeitado em 14/04/2026. Nenhuma
+  investigação da PF, do MPF, da CVM ou do Banco Central incorporou a alegação até 04/09/2026; os atos
+  oficiais existentes contra Botelho e a Sefer tratam de fraude financeira, não de narcotráfico. Registre-se
+  ainda uma correção de cadeia de atribuição: a Agência Pública e o Brasil de Fato não apuraram esse ponto
+  — apenas citam ou republicam o ICL Notícias. E uma ressalva metodológica: a defesa de Botelho contestou
+  com datas específicas uma asserção verificável da reportagem (a de que ele seria visto semanalmente
+  na Faria Lima), sem que o veículo tenha retificado ou sustentado o ponto. Nenhuma fonte, inclusive o
+  ICL, afirma que Daniel Vorcaro conhecesse Ortiz ou soubesse da origem dos recursos.'
+counter_position:
+- kind: denial
+  summary: Os advogados de Benjamim Botelho de Almeida contestaram a reportagem, afirmando que ele deixou
+    o Brasil em 2018 e que o texto 'omite informações importantes e reproduz informações falsas supostamente
+    fornecidas por uma suposta fonte'.
+  source_ids:
+  - src-iclnoticias-2026-03-09-exclusivo-narcotraficante-fundo
+  by_id: benjamim-botelho-de-almeida
+  date: '2026-03-09'
+- kind: clarification
+  summary: Botelho afirma que, à época da operação, Ortiz não tinha registro criminal que o impedisse
+    de participar de operação lícita no mercado de capitais e tinha conta no Itaú, banco que também teria
+    aprovado a operação em seu compliance. O contrato dos terrenos é de abril de 2012 e a prisão de Ortiz
+    ocorreu em junho de 2013.
+  source_ids:
+  - src-iclnoticias-2026-05-05-acao-terrenos-elo-narcotraficante
+  by_id: benjamim-botelho-de-almeida
+  date: '2026-05-05'
+- kind: no_response
+  summary: O Banco Master foi procurado pelo ICL Notícias nas duas reportagens e não respondeu; a Sefer
+    Investimentos e Oliver Ortiz também foram procurados e não responderam. Não foi localizada manifestação
+    da defesa de Daniel Vorcaro sobre o tema.
+  source_ids:
+  - src-iclnoticias-2026-03-09-exclusivo-narcotraficante-fundo
+  - src-iclnoticias-2026-05-05-acao-terrenos-elo-narcotraficante
+  date: '2026-05-05'
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: 'Testou-se a hipótese contrária em quatro frentes. Primeira: verificou-se a cadeia
+    de atribuição e constatou-se que a alegação não vem da Agência Pública, como circulou, mas de fonte
+    anônima única do ICL Notícias — a Pública apenas a cita. Segunda: extraiu-se o texto integral do relatório
+    final da CPI do Crime Organizado e fez-se busca textual, sem nenhuma ocorrência de Ortiz, Aquilla,
+    Foco/Sefer, Botelho ou Hirano, apesar de 44 menções ao Banco Master e 64 a Vorcaro. Terceira: buscaram-se
+    atos de PF, MPF, CVM e Banco Central que tivessem encampado a tese, sem resultado — os que existem
+    tratam de fraude financeira. Quarta: buscou-se contestação formal à reportagem (ação judicial, direito
+    de resposta, retratação), sem resultado, o que preserva alguma credibilidade ao veículo. Restam de
+    pé, com lastro próprio e independente, apenas as camadas periféricas: a condenação de Ortiz em 2013,
+    o elo dele com fundos do Grupo Aquilla geridos por Botelho segundo decisão judicial, e o fato de a
+    tese ter sido acolhida em requerimento aprovado por colegiado do Senado. O núcleo — dinheiro do tráfico
+    financiando a compra do banco — permanece alegação de fonte anônima, sem documento público e sem acolhida
+    investigativa. Mantida em disputa, com registro expresso de que nenhuma fonte liga Ortiz a Daniel
+    Vorcaro pessoalmente.'
+  outcome: disputed
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

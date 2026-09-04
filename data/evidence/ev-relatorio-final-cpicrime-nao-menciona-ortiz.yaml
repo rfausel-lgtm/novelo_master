@@ -1,0 +1,20 @@
+id: ev-relatorio-final-cpicrime-nao-menciona-ortiz
+kind: evidence
+classification: A
+proposition: 'Verificação da equipe sobre o alcance oficial da alegação: o relatório final da CPI do Crime
+  Organizado, do relator Alessandro Vieira — 221 páginas, de 13/04/2026 —, não menciona Oliver Ortiz,
+  o Grupo Aquilla, a Foco DTVM, a Sefer, Benjamim Botelho de Almeida ou Yan Felix Hirano, embora dedique
+  amplo espaço ao Banco Master (44 menções) e a Daniel Vorcaro (64 menções). Ou seja: o mesmo senador
+  que assinou o requerimento de convocação não levou o tema ao seu relatório — que, de todo modo, foi
+  rejeitado em 14/04/2026. Nenhuma investigação da Polícia Federal, do Ministério Público, da CVM ou do
+  Banco Central incorporou a alegação até a data desta atualização.'
+document_ids: []
+source_ids:
+- src-senado-2026-04-14-cpi-crime-organizado-sem-relatorio
+attributed_to: Verificação da equipe editorial por busca textual no PDF oficial do relatório
+date: '2026-04-13'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

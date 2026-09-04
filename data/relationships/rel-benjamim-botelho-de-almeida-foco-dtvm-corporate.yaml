@@ -1,0 +1,26 @@
+id: rel-benjamim-botelho-de-almeida-foco-dtvm-corporate
+kind: relationship
+from_id: benjamim-botelho-de-almeida
+to_id: foco-dtvm
+relationship_type: corporate
+directed: false
+label: proprietário e controlador; diretor responsável (2009-2013)
+start_date: '2009-10-19'
+description: Registros da CVM o identificam como diretor responsável da Foco DTVM entre 19/10/2009 e 24/04/2013;
+  decisão de Dias Toffoli de 06/01/2026 o descreve como proprietário e controlador da instituição, hoje
+  Sefer Investimentos.
+evidence_class: C
+confidence: 0.9
+status: verified
+event_ids: []
+evidence_ids:
+- ev-botelho-cargos-registrados-cvm
+source_ids:
+- src-cvm-2021-02-23-parecer-termo-compromisso-pas-03-2016
+- src-iclnoticias-2026-03-09-nota-defesa-botelho
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

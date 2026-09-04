@@ -1,0 +1,26 @@
+id: src-senado-req-287-2026-cpicrime-convocacao-hirano
+kind: source
+title: Requerimento nº 287/2026 – CPICRIME, do senador Alessandro Vieira
+publisher: Senado Federal
+publication_date: '2026-03-19'
+retrieved_at: '2026-09-03'
+url: https://legis.senado.leg.br/sdleg-getter/documento?dm=10186866
+source_type: official_legislative
+summary: 'Requerimento de convocação de Yan Felix Hirano à CPI do Crime Organizado, aprovado pelo colegiado
+  em 31/03/2026. Sustenta que documentos registrados na CVM em outubro de 2015 confirmariam que Oliver
+  Ortiz figurava como cotista de fundos administrados pela antiga Foco DTVM — atual Sefer Investimentos
+  —, inclusive o Aquilla FII, e que este fundo teria investido no Fundo São Domingos, veículo utilizado
+  na aquisição do Banco Máxima em 2017. Acrescenta que registros da Receita Federal demonstram que Hirano
+  e Benjamim Botelho de Almeida figuram conjuntamente como sócios-administradores da Associação dos Ocupantes
+  do Centro Logístico de Queimados (ASOCLQ) desde junho de 2012. O próprio texto usa o condicional: a
+  triangulação indicaria que recursos ''possivelmente'' de origem ilícita ''teriam sido'' introduzidos.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

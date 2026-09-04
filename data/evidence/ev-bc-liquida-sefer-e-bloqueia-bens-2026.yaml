@@ -1,0 +1,25 @@
+id: ev-bc-liquida-sefer-e-bloqueia-bens-2026
+kind: evidence
+classification: C
+proposition: Em 26/06/2026, o Banco Central decretou a liquidação extrajudicial da Sefer Investimentos
+  DTVM Ltda. — a mesma pessoa jurídica que já se chamou Foco DTVM e Índigo Investimentos DTVM —, por 'comprometimento
+  da situação econômico-financeira da distribuidora, sujeitando seus credores quirografários a risco anormal,
+  bem como por graves violações às normas legais que disciplinam a atividade da instituição'. O ato tornou
+  indisponíveis os bens dos controladores e ex-administradores, alcançando Benjamim Botelho de Almeida
+  pessoalmente e as pessoas jurídicas Sefer Participações em Instituições Financeiras Ltda., Seferpar
+  Participações e Investimentos S.A., Brazilpar Investments LLC e Lyon Investments LLC. Segundo a Folhapress,
+  a partir de base do BC, a Sefer administrava R$ 12,9 bilhões em maio de 2026 e era classificada como
+  instituição de pequeno porte (S4); o Estadão atribui à casa 102 fundos e mais de R$ 20 bilhões — divergência
+  não reconciliada entre as fontes.
+document_ids: []
+source_ids:
+- src-gazetadopovo-2026-06-26-bc-liquida-sefer
+- src-seudinheiro-2026-06-liquidacao-sefer-bens-controladores
+excerpt: Comprometimento da situação econômico-financeira da distribuidora, sujeitando seus credores quirografários
+  a risco anormal, bem como por graves violações às normas legais que disciplinam a atividade da instituição.
+date: '2026-06-26'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
