@@ -1,0 +1,24 @@
+id: ev-contestacao-judicial-do-credcesta
+kind: evidence
+classification: C
+proposition: A arquitetura é contestada judicialmente. Em 24/11/2025, a Associação dos Funcionários Públicos
+  do Estado da Bahia ajuizou ação direta de inconstitucionalidade perante o Órgão Especial do TJ-BA (nº
+  8073008-82.2025.8.05.0000, relatoria da desembargadora Gardênia Pereira Duarte), pedindo a suspensão
+  imediata dos descontos, a restauração da portabilidade e a declaração de inconstitucionalidade dos decretos,
+  sob o argumento de que criaram monopólio privado sem licitação; a ação foi instruída com contracheques
+  de vinte servidores. A associação já havia ajuizado ação em 2020, sobre endividamento perpétuo via rotativo,
+  e outra em 2023, anulada por questão processual. Há mais de dez mil processos individuais sobre o CredCesta
+  no TJ-BA, e em junho de 2026 a 1ª Vara Cível de Salvador concedeu liminar suspendendo os descontos na
+  folha de uma servidora. A equipe NÃO localizou auditoria, representação ou acórdão do Tribunal de Contas
+  do Estado sobre a privatização ou o contrato — e registra que o próprio TCE-BA aderiu ao programa em
+  2014 e o divulgou a seus servidores.
+document_ids: []
+source_ids:
+- src-tjba-adi-afpeb-2025-credcesta
+- src-poder360-2026-credcesta-arquitetura-e-privatizacao
+date: '2025-11-24'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -8,23 +8,27 @@ positions:
   organization_id: banco-master
   source_ids:
   - src-migalhas-2025-11-28-trf1-solta-vorcaro
-summary: Ex-CEO e ex-sócio do Banco Master. Empresário baiano; antes do setor financeiro, vendia velas
+summary: 'Ex-CEO e ex-sócio do Banco Master. Empresário baiano; antes do setor financeiro, vendia velas
   e abadás. Em 2018 adquiriu a Empresa Baiana de Alimentos (Ebal, rede Cesta do Povo) por cerca de R$
   15 milhões, transformando seu cartão em crédito consignado — o Credcesta —, que em 2019 o credenciou
   a entrar na sociedade do Master como sócio e CEO. Preso na 1ª fase da Compliance Zero e solto pelo TRF-1
   em 28/11/2025 com medidas cautelares; acompanhou Vorcaro e Mantega no encontro de 04/12/2024 no Planalto,
   segundo a CNN. Anunciou saída formal da sociedade em maio de 2024, mas registros do Banco Central mostram
-  sua presença em 7 a 8 reuniões com o órgão ao longo de 2025 ainda identificado como 'CEO do Master'.
+  sua presença em 7 a 8 reuniões com o órgão ao longo de 2025 ainda identificado como ''CEO do Master''.
   Controlava o Banco Pleno (ex-Voiter), liquidado pelo BC em fevereiro de 2026. Foi alvo novamente na
   9ª fase da Compliance Zero (junho de 2026), que apura relação com o senador Jaques Wagner. Um documento
   apócrifo, de autoria não confirmada, encontrado pela PF em arquivo digital de Vorcaro, o descreve como
-  'dono e presidente de fato' do Master e Vorcaro como 'laranja' — hipótese sob apuração, não confirmada
+  ''dono e presidente de fato'' do Master e Vorcaro como ''laranja'' — hipótese sob apuração, não confirmada
   pela PF. Rompeu o silêncio em agosto de 2026 e trocou parte da equipe de defesa, que nega qualquer negociação
   de delação. Fez dois aportes de capital somando R$ 160 milhões no Voiter/Pleno, insuficientes para cobrir
   os cerca de R$ 6 bilhões em CDBs herdados da era Master; a instituição foi liquidada em 18/02/2026.
   Preso preventivamente na Operação Compliance Zero em novembro de 2025, teve a prisão revogada por habeas
   corpus em janeiro de 2026 e está em prisão domiciliar com tornozeleira eletrônica, proibido de exercer
-  atividade financeira, contatar outros investigados ou deixar o país.
+  atividade financeira, contatar outros investigados ou deixar o país. O ativo que ele levou ao Banco
+  Máxima não era uma carteira formada, e a negociação é anterior ao que se registrava: procurou o BMG
+  no segundo semestre de 2018, negociou com o Máxima em setembro de 2018 e comunicou ao Banco Central,
+  em 28/12/2018, a intenção de tornar-se acionista. O que oferecia era o direito de explorar a folha dos
+  servidores baianos, com margem própria de 30% e desconto na fonte.'
 why_in_novelo: Foi executivo e sócio do Banco Master, alvo da Operação Compliance Zero, e participou do
   encontro de dezembro de 2024 no Planalto, segundo a imprensa.
 cited_position:
@@ -67,6 +71,7 @@ source_ids:
 - src-metropoles-2026-08-04-augusto-lima-decide-falar
 - src-gazetadopovo-2026-03-11-dossie-fraudes-ex-socios
 - src-poder360-2026-bc-sabia-fraude-antes-venda-voiter
+- src-poder360-2026-credcesta-arquitetura-e-privatizacao
 full_name: Augusto Ferreira Lima
 review_status: published
 reviewer: orquestrador

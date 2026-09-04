@@ -1,0 +1,27 @@
+id: asseba
+kind: organization
+name: ASSEBA — Associação dos Servidores da Saúde do Estado da Bahia
+aliases: []
+org_type: association
+summary: Associação de servidores da saúde do Estado da Bahia, apontada como ligada a Augusto Ferreira
+  Lima. Segundo relatório do Coaf enviado à CPI do Crime Organizado e revelado pelo Estadão, recebeu R$
+  140,1 milhões do Estado entre maio de 2024 e novembro de 2025 — R$ 65 milhões diretos da Secretaria
+  da Fazenda e R$ 74,1 milhões via fundos previdenciários —, tendo repassado R$ 101,3 milhões ao Banco
+  Master e R$ 21,7 milhões a empresas de Lima. O Coaf classifica o fluxo como atípico. O governo baiano
+  sustenta que os valores são descontos em folha de taxa de associação autorizados pelos próprios servidores,
+  e não recursos do erário.
+why_in_novelo: Associação por meio da qual, segundo relatório do Coaf, transitaram R$ 140,1 milhões entre
+  o Estado da Bahia e o Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Não há manifestação da própria ASSEBA no corpus, nem denúncia ou decisão de mérito sobre os repasses.
+source_ids:
+- src-oeste-2026-04-10-coaf-repasses-asseba
+- src-bahianoticias-2026-04-11-governo-nega-transferencia-asseba
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

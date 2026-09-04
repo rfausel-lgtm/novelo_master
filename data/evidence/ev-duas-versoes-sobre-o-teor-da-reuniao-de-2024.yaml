@@ -1,0 +1,27 @@
+id: ev-duas-versoes-sobre-o-teor-da-reuniao-de-2024
+kind: evidence
+classification: A
+proposition: 'Há duas versões sobre o teor da reunião de 04/12/2024, e o corpus registra ambas sem arbitrar.
+  Pela primeira, sustentada por Gabriel Galípolo em depoimentos à CPI do Crime Organizado, em 08/04/2026,
+  e à CAE do Senado, em 19/05/2026, ele foi chamado pelo gabinete da Presidência e chegou com a reunião
+  já em curso; Vorcaro se apresentava como perseguido pelos grandes bancos, e Lula encaminhou o tema ao
+  Banco Central, dizendo-lhe, conforme notas taquigráficas: ''Seja técnico, mais técnico, você tem toda
+  autonomia nesse processo para investigar, seja quem for. Não proteja ninguém, não persiga ninguém.''
+  Pela segunda, publicada pelo UOL em 17/05/2026 com base em documento apreendido pela PF, Vorcaro teria
+  perguntado se devia aceitar oferta do BTG para comprar o banco por R$ 1, e Lula teria criticado Roberto
+  Campos Neto e André Esteves e aconselhado o banqueiro a não vender. Nem o Planalto, nem o Banco Central,
+  nem a defesa de Vorcaro se manifestaram sobre esse conteúdo. É relato de terceiro sobre fala presidencial,
+  sem áudio nem transcrição publicada — e, ainda que confirmado, aconselhar um banqueiro sobre uma venda
+  em audiência não constitui ilícito.'
+document_ids: []
+source_ids:
+- src-uol-2026-05-17-lula-aconselhou-vorcaro-sobre-btg
+- src-correiobraziliense-2026-05-19-galipolo-na-cae-renan
+attributed_to: Depoimentos de Galípolo, de um lado; reportagem do UOL sobre documento apreendido, de outro
+  — versões não conciliadas
+date: '2024-12-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,44 @@
+id: rui-costa
+kind: person
+name: Rui Costa
+category: politician
+role: Governador da Bahia de 2015 a 2022; ministro da Casa Civil de 2023 a abril de 2026; candidato ao
+  Senado
+positions: []
+summary: Governador da Bahia quando o Estado privatizou a Empresa Baiana de Alimentos, em abril de 2018,
+  e assinou os decretos que estruturaram o CredCesta como plataforma de consignado — os de nº 18.353 e
+  18.354, de 27/04/2018, editados dezesseis dias após o leilão — e, em 13/01/2022, o Decreto nº 21.041,
+  que retirou a portabilidade das consignações do programa. Foi ministro da Casa Civil no terceiro governo
+  Lula até 02/04/2026, quando deixou o cargo para disputar o Senado pela Bahia, na mesma chapa de Jaques
+  Wagner. Esteve presente à reunião de 04/12/2024 no Palácio do Planalto entre Lula e Daniel Vorcaro,
+  fora da agenda oficial. NÃO é alvo, investigado ou indiciado em nenhuma fase da Operação Compliance
+  Zero, nem é citado nominalmente como investigado em relatório da Polícia Federal ou em delação. Foi
+  convidado — não convocado — pela CPI do Crime Organizado em 26/02/2026, e nomeado em requerimento da
+  oposição.
+why_in_novelo: Assinou os decretos estaduais que converteram o CredCesta em plataforma de consignado com
+  margem própria e, depois, os que retiraram a portabilidade dos servidores.
+cited_position:
+- kind: clarification
+  summary: 'Afirmou que o Estado vendeu ''um supermercado falido'', que dava ''quase R$ 200 milhões de
+    prejuízo todo ano'', e que sem o cartão no lote ''nem tinha vendido'' — o comprador ''pagou uma merreca
+    de R$ 15 milhões'' justamente por causa do cartão. Em outra manifestação: ''Na época que nós vendemos
+    a cesta do povo, com o cartão, nem Banco Master existia.'' Não comentou o conteúdo dos decretos.'
+  source_ids:
+  - src-poder360-2026-credcesta-arquitetura-e-privatizacao
+  by_id: rui-costa
+  date: '2026-02-13'
+open_questions:
+- Rui Costa não é alvo nem investigado em nenhuma frente do caso. Sua presença no corpus decorre de ser
+  o signatário dos atos administrativos que estruturaram o produto, e de ter estado na reunião de 04/12/2024
+  — não de imputação de qualquer natureza.
+- Rui Costa e Jaques Wagner disputam, em 2026, as duas vagas do Senado pela Bahia na mesma chapa — contexto
+  político que o corpus registra por transparência, sem que dele decorra qualquer imputação.
+source_ids:
+- src-doe-ba-decreto-18353-2018
+- src-doe-ba-decreto-21041-2022
+- src-poder360-2026-credcesta-arquitetura-e-privatizacao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

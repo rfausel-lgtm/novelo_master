@@ -1,0 +1,22 @@
+id: ev-galipolo-recusou-se-a-responder-nao-negou
+kind: evidence
+classification: C
+proposition: 'Correção a registro anterior do corpus, em ponto sensível. Gabriel Galípolo NÃO negou ter
+  tratado do Banco Master com ministros do STF: ele confirmou reuniões com Alexandre de Moraes e recusou-se
+  a dizer se o Master foi discutido, invocando dever fiduciário de sigilo — ''eu tenho acesso ao sigilo
+  dos ministros a partir da conversa com eles e com os familiares. E aí eu tenho o dever fiduciário por
+  zelar por esse sigilo''. O relator da CPI registrou expressamente em ata que o presidente do Banco Central
+  ''não afirmou que não tratou de Banco Master'', acrescentando que ''a simples negativa do fato questionado
+  não configuraria rompimento das regras de sigilo bancário, mas o depoente não o fez''. Recusar-se a
+  responder não é negar, e o corpus passa a registrar a distinção.'
+document_ids: []
+source_ids:
+- src-senado-2026-04-14-cpi-crime-organizado-sem-relatorio
+- src-correiobraziliense-2026-05-19-galipolo-na-cae-renan
+excerpt: Não afirmou que não tratou de Banco Master.
+date: '2026-04-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

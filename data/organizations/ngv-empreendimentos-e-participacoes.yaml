@@ -1,0 +1,24 @@
+id: ngv-empreendimentos-e-participacoes
+kind: organization
+name: NGV Empreendimentos e Participações
+aliases: []
+org_type: company
+summary: Empresa que arrematou a Empresa Baiana de Alimentos no leilão de 11/04/2018, por R$ 15 milhões,
+  como concorrente única, levando junto os direitos do programa CredCesta. É descrita pela imprensa como
+  empresa de prateleira, tendo como rosto público o investidor espanhol Ignacio Morales. Os direitos do
+  CredCesta seriam repassados em seguida à PKL One Participações.
+why_in_novelo: Veículo que adquiriu a estatal baiana e, com ela, o ativo que se tornaria o motor do Banco
+  Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A composição societária da NGV e a cessão dos direitos do CredCesta à PKL One não foram verificadas
+  em registro oficial pela equipe.
+source_ids:
+- src-poder360-2026-credcesta-arquitetura-e-privatizacao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

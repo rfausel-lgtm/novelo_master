@@ -7,12 +7,25 @@ positions: []
 summary: Ex-ministro da Fazenda. Segundo CNN Brasil, Gazeta do Povo e Brasil Paralelo, prestava consultoria
   ao Banco Master e articulou o encontro de 04/12/2024 entre Vorcaro e Lula no Planalto, chegando acompanhado
   do banqueiro e de Augusto Lima; teria ido ao Planalto ao menos seis vezes, recebido pelo chefe de gabinete
-  de Lula.
+  de Lula. Sua empresa, a Pollaris Consultoria, aberta em 30/04/2024 e transferida em setembro do mesmo
+  ano para Barueri, recebeu R$ 14 milhões do Banco Master entre 2024 e 2025, segundo registros da Receita
+  Federal confirmados no relatório final da CPI do Crime Organizado — que ressalva que os pagamentos,
+  isoladamente, não configuram a priori prática ilícita. Não é indiciado no relatório da CPI, não consta
+  do relatório da PF sobre o celular de Vorcaro e não foi localizado como alvo de operação ou indiciamento.
 why_in_novelo: É apontado pela imprensa como consultor do Banco Master e articulador do encontro de dezembro
   de 2024 entre Daniel Vorcaro e o presidente Lula.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: clarification
+  summary: Afirmou que foi contratado como consultor entre 2024 e 2025 mas que, à época, 'não tinha conhecimento
+    de irregularidades eventualmente cometidas' pelo banco; que 'a Pollaris é uma empresa registrada em
+    meu nome, que emite notas fiscais e paga os tributos devidos'; que não mantém sala fixa porque o trabalho
+    é feito 'principalmente por videoconferências e reuniões nos escritórios dos clientes'; e que não
+    escolheu Barueri 'com a finalidade de reduzir carga tributária', por ser o município 'um grande centro
+    de bancos e empresas de serviços'.
+  source_ids:
+  - src-jbrasilia-2026-08-pollaris-mantega-sala-sem-janela
+  by_id: guido-mantega
+  date: 2026-08
 open_questions:
 - A posição de Mantega sobre a consultoria e o encontro não foi localizada em fonte verificada do corpus;
   o valor da consultoria (R$ 1 milhão mensal, segundo a imprensa) não foi confirmado em documento.
@@ -21,6 +34,8 @@ source_ids:
 - src-gazeta-2026-03-05-vorcaro-otimo-encontro
 - src-brasilparalelo-2026-02-planalto-sem-registros
 - src-metropoles-2026-01-24-wagner-mantega
+- src-jbrasilia-2026-08-pollaris-mantega-sala-sem-janela
+- src-poder360-2026-01-28-mantega-cinco-reunioes-chefe-de-gabinete
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Guido_Mantega
 review_status: published

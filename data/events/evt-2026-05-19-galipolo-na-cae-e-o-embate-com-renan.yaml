@@ -1,0 +1,30 @@
+id: evt-2026-05-19-galipolo-na-cae-e-o-embate-com-renan
+kind: event
+title: Galípolo é questionado na CAE por aliado do governo e nega carta de R$ 11 bilhões ao FGC
+event_type: statement
+date: '2026-05-19'
+date_precision: day
+participant_ids:
+- gabriel-galipolo
+- banco-central-do-brasil
+- banco-master
+description: 'Em audiência na Comissão de Assuntos Econômicos do Senado, o presidente do Banco Central
+  foi questionado não pela oposição, mas pelo presidente da comissão, Renan Calheiros, que sustentou que
+  ele teria defendido a venda do Master ao BRB e intercedido para que o FGC socorresse o banco com R$
+  11 bilhões, citando correspondência de 18/04/2025. Galípolo respondeu: ''A informação está errada. Não
+  há nenhuma carta com valor de R$ 11 bilhões, o Banco Central jamais tentou viabilizar a venda.'' E acrescentou:
+  ''O Banco Central não tem que reagir a pressão. A minha posição é não reagir a pressão.'''
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-galipolo-recusou-se-a-responder-nao-negou
+- ev-bc-ja-tinha-termo-de-compromisso-antes-da-reuniao
+source_ids:
+- src-correiobraziliense-2026-05-19-galipolo-na-cae-renan
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,40 @@
+id: evt-2026-04-10-coaf-aponta-repasses-a-asseba
+kind: event
+title: Relatório do Coaf aponta R$ 140,1 milhões repassados pelo Estado da Bahia à ASSEBA
+event_type: publication
+date: '2026-04-10'
+date_precision: day
+participant_ids:
+- governo-da-bahia
+- asseba
+- augusto-lima
+- banco-master
+- jeronimo-rodrigues
+description: Relatório do Coaf enviado à CPI do Crime Organizado, revelado pelo Estadão, aponta repasses
+  de R$ 140,1 milhões do Estado da Bahia à ASSEBA entre maio de 2024 e novembro de 2025, com R$ 101,3
+  milhões seguindo para o Banco Master e R$ 21,7 milhões para empresas de Augusto Lima. O órgão classifica
+  o fluxo como atípico. O governo baiano nega a caracterização, sustentando tratar-se de descontos em
+  folha de taxa de associação autorizados pelos próprios servidores.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-estado-da-bahia-repassou-140-milhoes-a-asseba
+source_ids:
+- src-oeste-2026-04-10-coaf-repasses-asseba
+- src-bahianoticias-2026-04-11-governo-nega-transferencia-asseba
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: '''Não é verdade que o governo injetou 140 milhões em uma associação de servidores controlada
+    por Augusto Lima'' — os valores seriam descontos em folha da taxa de associação, autorizados pelos
+    próprios servidores.'
+  source_ids:
+  - src-bahianoticias-2026-04-11-governo-nega-transferencia-asseba
+  by_id: governo-da-bahia
+  date: '2026-04-11'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -8,14 +8,21 @@ positions:
   organization_id: senado-federal
   source_ids:
   - src-senado-2024-08-14-pec-65-adiada
-summary: Senador pela Bahia e líder do governo no Senado. Em 14/08/2024 pediu vista da PEC 65/2023 na
+summary: 'Senador pela Bahia e líder do governo no Senado. Em 14/08/2024 pediu vista da PEC 65/2023 na
   CCJ. Em 18/06/2026 foi alvo de busca e apreensão na 9ª fase da Compliance Zero, autorizada por André
   Mendonça, que apura corrupção e lavagem; não respondeu ao Poder360 na ocasião. Seu depoimento à PF,
   marcado para 07/08/2026, foi adiado a pedido da defesa por falta de acesso aos autos, sem nova data
   marcada até setembro de 2026. Confirmou candidatura à reeleição pela Bahia e negou publicamente qualquer
   negócio com o Master ou com Augusto Lima; Lula o defendeu nominalmente. É citado no relatório da PF
   que embasou a decisão de Moraes contra Mendonça em 03/09/2026, apenas como referência comparativa de
-  prazo processual.
+  prazo processual. Apuração posterior da equipe esclarece o ponto mais mal reportado da frente: a Emenda
+  nº 30 à MP 1.106/2022, de autoria dele, propunha um TETO de juros — 300% do CDI — e não a ampliação
+  de margem consignável, e não foi incorporada ao texto final. O que a PF lhe imputa, em suas próprias
+  expressões, é correlação temporal e de comportamento: ele é ''interlocutor relevante'', sua participação
+  na pauta é ''elemento de correlação'', e o fluxo de mensagens sugere, ''em juízo preliminar'', ''relação
+  funcionalmente direcionada e não meramente social''. Até setembro de 2026 não houve depoimento, indiciamento,
+  denúncia nem arquivamento; a 10ª fase da operação não o teve como alvo. Ele segue senador e disputa
+  a reeleição — na mesma chapa de Rui Costa.'
 why_in_novelo: Foi alvo de busca e apreensão na 9ª fase da Operação Compliance Zero, segundo a imprensa,
   e atuou na tramitação da PEC 65/2023 no Senado.
 cited_position:
@@ -46,10 +53,25 @@ cited_position:
   - src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
   by_id: jaques-wagner
   date: '2026'
+- kind: denial
+  summary: 'Por nota da assessoria, em 18/06/2026: ''O senador Jaques Wagner (PT-BA) esclarece que não
+    é réu, não foi denunciado e não foi acusado em nenhum processo relacionado aos fatos investigados.''
+    Afirma que o apartamento ''jamais integrou o patrimônio do parlamentar'' e que os valores em espécie
+    apreendidos provinham de diárias oficiais não utilizadas.'
+  source_ids:
+  - src-agenciabrasil-2026-06-18-wagner-nega-vantagens
+  by_id: jaques-wagner
+  date: '2026-06-18'
 open_questions:
 - O relatório da PF de 30/07/2026 (PDF de 33 MB) não foi lido pela equipe; o corpus registra a síntese
   do Poder360.
 - O corpus não contém denúncia ou decisão de mérito sobre o senador.
+- 'Há divergência não resolvida na imprensa sobre a empresa ligada à família do senador que prestou serviços
+  ao Banco Master: fontes falam alternadamente em BN Financeira Ltda. (R$ 3,5 milhões), BK Financeira
+  (R$ 11 milhões, tendo Bonnie de Bonilha como sócia) e BN Representações. Podem ser duas ou três empresas
+  distintas, ou erro de transcrição em cadeia; a equipe não conciliou as versões em registro societário.'
+- A PGR se opôs à PF quanto às medidas da 9ª fase, em parecer de 16/06/2026 contrário à apreensão de bens
+  e à busca no gabinete parlamentar. O parecer não foi lido pela equipe nem seu signatário identificado.
 source_ids:
 - src-poder360-2026-06-18-nona-fase-wagner
 - src-senado-2024-08-14-pec-65-adiada
@@ -62,6 +84,11 @@ source_ids:
 - src-agenciabrasil-2026-08-07-wagner-depoimento-adiado
 - src-anoticiadovale-2026-09-02-wagner-inocencia-eleicoes
 - src-acordacidade-2026-08-28-lula-defende-wagner
+- src-congresso-mpv-1106-2022-emendas
+- src-metropoles-2026-06-pf-wagner-interlocutor-relevante
+- src-infomoney-2026-06-pgr-foi-contra-pf-apreensao-wagner
+- src-poder360-2026-apartamento-poeme-horto-wagner
+- src-agenciabrasil-2026-06-18-wagner-nega-vantagens
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Jaques_Wagner
 review_status: published

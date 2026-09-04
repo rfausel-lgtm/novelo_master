@@ -1,0 +1,27 @@
+id: governo-da-bahia
+kind: organization
+name: Governo do Estado da Bahia
+aliases:
+- Governo da Bahia
+org_type: public_body
+summary: Executivo estadual da Bahia. É o ente que privatizou a Empresa Baiana de Alimentos em abril de
+  2018, com o programa CredCesta embutido no lote, e que, dezesseis dias depois, editou os decretos que
+  converteram o cartão de compras em plataforma de consignado com margem própria de 30% sobre a folha
+  dos servidores. Em 2022 editou o decreto que retirou desses servidores o direito de portabilidade. O
+  desconto em folha é feito pelo próprio Estado, e é o mecanismo que dá ao produto sua garantia de recebimento.
+why_in_novelo: Ente que criou, por decreto, a arquitetura jurídica que tornou o CredCesta o motor de crescimento
+  do Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-doe-ba-decreto-18353-2018
+- src-doe-ba-decreto-18354-2018
+- src-doe-ba-decreto-21041-2022
+jurisdiction: Bahia, Brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

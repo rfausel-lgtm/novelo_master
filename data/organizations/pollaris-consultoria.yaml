@@ -1,0 +1,28 @@
+id: pollaris-consultoria
+kind: organization
+name: Pollaris Consultoria
+aliases: []
+org_type: company
+summary: Empresa de consultoria de Guido Mantega, aberta em 30/04/2024 em São Paulo e transferida em 03/09/2024
+  para Barueri — onde a alíquota do ISS para consultoria é de 2%, contra 5% na capital. Recebeu R$ 14
+  milhões do Banco Master entre 2024 e 2025, segundo registros da Receita Federal enviados à CPI do Crime
+  Organizado e confirmados no relatório final da comissão, que a descreve como tendo 'atuado na aproximação
+  de Vorcaro com o governo federal, chegando a levá-lo a uma reunião com o presidente da República no
+  Palácio do Planalto'. O próprio relatório ressalva que 'cada um desses pagamentos, vistos de forma isolada,
+  não configuram a priori nenhuma prática ilícita'. O endereço declarado é uma sala em unidade de coworking.
+why_in_novelo: Empresa por meio da qual o ex-ministro da Fazenda prestou consultoria ao Banco Master e
+  intermediou seu acesso ao governo federal.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O valor de R$ 1 milhão mensal atribuído ao contrato é referência de imprensa; a equipe não localizou
+  contrato, nota fiscal ou documento fiscal publicado.
+source_ids:
+- src-jbrasilia-2026-08-pollaris-mantega-sala-sem-janela
+jurisdiction: Brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

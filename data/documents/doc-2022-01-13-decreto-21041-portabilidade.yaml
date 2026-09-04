@@ -1,0 +1,28 @@
+id: doc-2022-01-13-decreto-21041-portabilidade
+kind: document
+title: Decreto nº 21.041/2022 — retira a portabilidade das consignações do CredCesta
+doc_type: legislative_act
+date: '2022-01-13'
+source_ids:
+- src-doe-ba-decreto-21041-2022
+summary: 'Reescreve o art. 15 do Decreto nº 17.251/2016 para facultar a portabilidade apenas quanto às
+  instituições financeiras do art. 9º, excluindo expressamente ''as demais consignatárias'' — categoria
+  em que se enquadra o operador do CredCesta, inserido no art. 5º e não no 9º —, e revoga o procedimento
+  detalhado de portabilidade. O ato não nomeia o CredCesta nem o Banco Master: a exclusão opera pela arquitetura
+  de remissões.'
+is_official: true
+related_entity_ids:
+- credcesta
+- rui-costa
+- governo-da-bahia
+issuer: Governo do Estado da Bahia
+date_precision: day
+url: http://www.legislabahia.ba.gov.br/documentos/decreto-no-21041-de-13-de-janeiro-de-2022
+reference: Decreto estadual nº 21.041, de 13/01/2022
+excerpt: Às consignações realizadas pelas demais consignatárias não se aplica a faculdade prevista no
+  caput.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

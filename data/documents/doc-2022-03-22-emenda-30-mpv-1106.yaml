@@ -1,0 +1,22 @@
+id: doc-2022-03-22-emenda-30-mpv-1106
+kind: document
+title: Emenda nº 30 à Medida Provisória 1.106/2022, de autoria do senador Jaques Wagner
+doc_type: legislative_act
+date: '2022-03-22'
+source_ids:
+- src-congresso-mpv-1106-2022-emendas
+summary: Emenda apresentada em 22/03/2022 propondo que as taxas de juros de todas as modalidades de credito
+  consignado nao excedessem 300% da taxa media do CDI. Dispositivo restritivo, nao expansivo, e nao incorporado
+  ao texto final da Lei 14.431/2022. Consta do registro oficial de tramitacao da MP, que recebeu 66 emendas.
+is_official: true
+related_entity_ids:
+- jaques-wagner
+issuer: Congresso Nacional
+date_precision: day
+url: https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/152261
+reference: Emenda 30 - MPV 1106/2022
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

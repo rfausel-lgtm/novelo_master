@@ -1,0 +1,27 @@
+id: rel-pollaris-consultoria-banco-master-commercial
+kind: relationship
+from_id: pollaris-consultoria
+to_id: banco-master
+relationship_type: commercial
+directed: false
+label: consultoria contratada; R$ 14 milhões entre 2024 e 2025
+start_date: '2024'
+end_date: '2025'
+description: A Pollaris recebeu R$ 14 milhões do Banco Master entre 2024 e 2025, segundo registros da
+  Receita Federal enviados à CPI do Crime Organizado, tendo atuado na aproximação de Vorcaro com o governo
+  federal. O relatório da comissão ressalva que os pagamentos, isoladamente, não configuram a priori prática
+  ilícita.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids: []
+evidence_ids:
+- ev-pollaris-de-mantega-recebeu-14-milhoes
+source_ids:
+- src-jbrasilia-2026-08-pollaris-mantega-sala-sem-janela
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

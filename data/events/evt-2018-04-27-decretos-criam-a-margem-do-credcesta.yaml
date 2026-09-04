@@ -1,0 +1,33 @@
+id: evt-2018-04-27-decretos-criam-a-margem-do-credcesta
+kind: event
+title: Dezesseis dias após o leilão, decretos dão ao operador privado margem própria de 30% na folha
+event_type: public_act
+date: '2018-04-27'
+date_precision: day
+participant_ids:
+- governo-da-bahia
+- rui-costa
+- credcesta
+- empresa-baiana-de-alimentos
+description: Os Decretos nº 18.353 e 18.354, assinados por Rui Costa, converteram o cartão de compras
+  da Cesta do Povo em plataforma de crédito consignado. O primeiro assegurou ao detentor privado dos direitos
+  a faculdade de diversificar as funcionalidades do cartão para serviços creditícios, financeiros e securitários,
+  com margem de 30% da remuneração líquida, e estabeleceu que o Estado não teria custo. O segundo reescreveu
+  o art. 19, II, do regime de consignações, transferindo ao operador privado uma margem de 30% que antes
+  era reservada a benefícios concedidos pelo próprio poder público — tornando-a cumulativa com os 30%
+  dos bancos. Os atos são de dezesseis dias após o leilão da EBAL.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-decretos-de-2018-criam-margem-propria-de-30
+source_ids:
+- src-doe-ba-decreto-18353-2018
+- src-doe-ba-decreto-18354-2018
+document_ids:
+- doc-2018-04-27-decreto-18353-credicesta
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

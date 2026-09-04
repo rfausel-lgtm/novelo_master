@@ -3,28 +3,47 @@ kind: organization
 name: CredCesta
 aliases: []
 org_type: company
-summary: Plataforma de crédito consignado oferecida a servidores públicos e pensionistas do estado da
-  Bahia. Segundo a representação da PF, foi criada e operacionalizada no contexto da Empresa Baiana de
-  Alimentos, e foram as carteiras de crédito do CredCesta que credenciaram Augusto Ferreira Lima a se
-  tornar sócio de Daniel Vorcaro no Banco Master em 2019. A mesma representação afirma que o ativo teria
-  servido como um dos instrumentos de fraudes de larga escala entre 2024 e 2025, com desfalques ao Banco
-  de Brasília. O relatório apresentado à CPMI do INSS, embora rejeitado, descreve o produto como o principal
-  motor de crescimento do banco e o pilar da entrada de Augusto Ferreira Lima na sociedade em 2019. Rebatizado
-  como 'M Fácil Consignado', o produto seguia operando via convênio do INSS entre 2020 e 2025; análise
-  conjunta INSS/CGU, noticiada em 05/03/2026, identificou indícios de fraude nesses contratos — nomes
-  duplicados, ausência de assinatura do segurado e taxas não informadas.
+summary: 'Programa de crédito consignado a servidores, aposentados e pensionistas do Estado da Bahia,
+  originado como cartão de compras da rede estatal Cesta do Povo e operado pela Empresa Baiana de Alimentos
+  — existia pelo menos desde 2014, quando o próprio Tribunal de Contas do Estado firmou convênio para
+  oferecê-lo a seus servidores. Em 11/04/2018 o Estado privatizou a EBAL por R$ 15 milhões, com o programa
+  embutido no lote, sem que o direito de operar a folha de cerca de 280 mil servidores fosse objeto de
+  licitação própria. Dezesseis dias depois, os Decretos 18.353 e 18.354 converteram o cartão em plataforma
+  de consignado e deram ao operador privado margem própria de 30% da remuneração líquida, cumulativa com
+  a dos bancos — margem antes reservada a benefícios do próprio poder público. Em 2022, o Decreto 21.041
+  retirou do servidor o direito de portabilidade. Os direitos passaram à PKL One Participações, da qual
+  o Banco Máxima comprou 50%: é essa a porta pela qual Augusto Lima entrou na sociedade com Daniel Vorcaro.
+  O produto cobrava cerca de 5% ao mês, contra média de mercado inferior a 1,6%, e tornou-se o motor de
+  crescimento do banco — 85,4% das operações em 2022. Rebatizado ''M Fácil Consignado'', foi levado ao
+  INSS, onde análise conjunta INSS/CGU apontou indícios de fraude. É objeto de ação direta de inconstitucionalidade
+  e de mais de dez mil processos individuais no TJ-BA.'
 why_in_novelo: É o ativo que, segundo a Polícia Federal, ligou Augusto Lima ao Banco Master e está no
   centro do modelo de crédito consignado do banco.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- O corpus não registra a estrutura societária do CredCesta nem manifestação de seus responsáveis.
-- A atribuição de uso do ativo em fraudes é da autoridade policial, sem juízo de mérito.
+- A data exata de origem do programa é contestada entre fontes — há versões que a situam nos anos 1980,
+  em 1996, em 2007 e em 2014 —, e a equipe não localizou o ato fundador; o preâmbulo do Decreto 18.353/2018
+  sugere origem contratual da EBAL, não normativa.
+- Atribui-se ao edital ou ao contrato de privatização uma cláusula de exclusividade de quinze anos, até
+  2033, mas a equipe não obteve o edital nem o contrato exigido pelo art. 11 do Decreto 18.353, e os decretos
+  lidos não contêm a palavra 'exclusividade'.
+- Não foi localizada auditoria, representação ou acórdão do Tribunal de Contas do Estado da Bahia sobre
+  a privatização ou o contrato, nem ação civil pública do Ministério Público estadual especificamente
+  sobre ele.
+- 'O volume de crédito concedido e o número de servidores especificamente na Bahia não foram isolados:
+  os números de escala disponíveis são nacionais ou do balanço do Banco Master.'
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
 - src-otempo-2026-03-05-inss-m-facil-consignado-fraude
+- src-doe-ba-decreto-18353-2018
+- src-doe-ba-decreto-18354-2018
+- src-doe-ba-decreto-21041-2022
+- src-tceba-2014-07-28-ebal-apresenta-credicesta
+- src-poder360-2026-credcesta-arquitetura-e-privatizacao
+- src-tjba-adi-afpeb-2025-credcesta
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

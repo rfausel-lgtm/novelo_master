@@ -1,0 +1,26 @@
+id: rel-rui-costa-governo-da-bahia-institutional
+kind: relationship
+from_id: rui-costa
+to_id: governo-da-bahia
+relationship_type: institutional
+directed: false
+label: governador (2015-2022)
+start_date: '2015'
+end_date: '2022'
+description: Governador da Bahia no período em que o Estado privatizou a EBAL e editou os decretos que
+  estruturaram o CredCesta como plataforma de consignado e, depois, retiraram a portabilidade.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids:
+- ev-decretos-de-2018-criam-margem-propria-de-30
+source_ids:
+- src-doe-ba-decreto-18353-2018
+- src-doe-ba-decreto-21041-2022
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,24 @@
+id: ev-decreto-de-2022-retira-a-portabilidade
+kind: evidence
+classification: D
+proposition: 'Quatro anos depois, o Decreto nº 21.041, de 13/01/2022, reescreveu o art. 15 do Decreto
+  17.251/2016 para facultar a portabilidade apenas quanto às instituições ''mencionadas no art. 9º'' —
+  que trata de instituições financeiras com sede, agência ou sucursal no Estado —, dispondo em parágrafo
+  único que ''às consignações realizadas pelas demais consignatárias não se aplica a faculdade prevista
+  no caput''. O operador do CredCesta fora inserido no art. 5º, e não no 9º. O mesmo decreto revogou os
+  incisos I a V do art. 15, que continham o procedimento detalhado de portabilidade, com prazos e vedação
+  de taxa de liquidação antecipada. O efeito verificável é que o servidor perdeu o direito de migrar a
+  dívida do CredCesta para instituição com juros menores. O ato não nomeia o CredCesta nem o Banco Master:
+  a exclusão opera pela arquitetura de remissões entre artigos.'
+document_ids:
+- doc-2022-01-13-decreto-21041-portabilidade
+source_ids:
+- src-doe-ba-decreto-21041-2022
+excerpt: Às consignações realizadas pelas demais consignatárias não se aplica a faculdade prevista no
+  caput.
+date: '2022-01-13'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

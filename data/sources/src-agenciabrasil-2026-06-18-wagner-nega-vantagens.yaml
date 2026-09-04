@@ -1,0 +1,23 @@
+id: src-agenciabrasil-2026-06-18-wagner-nega-vantagens
+kind: source
+title: Apuração da PF acusa Jaques Wagner de receber vantagens; senador nega
+publisher: Agência Brasil
+publication_date: '2026-06-18'
+retrieved_at: '2026-09-03'
+url: https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/apuracao-da-pf-acusa-jaques-wagner-de-receber-vantagens-senador-nega
+source_type: press
+summary: 'Traz a nota da assessoria do senador, de 18/06/2026: ''O senador Jaques Wagner (PT-BA) esclarece
+  que não é réu, não foi denunciado e não foi acusado em nenhum processo relacionado aos fatos investigados.''
+  Na mesma nota, afirma que o apartamento ''jamais integrou o patrimônio do parlamentar'', nega atuação
+  em favor do Master e sustenta que os valores em espécie apreendidos provinham de ''diárias legais, declaradas
+  e não utilizadas em missões internacionais oficiais''.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

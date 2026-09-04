@@ -1,0 +1,27 @@
+id: ev-decretos-de-2018-criam-margem-propria-de-30
+kind: evidence
+classification: D
+proposition: 'O achado estrutural, verificado em texto primário. O Decreto nº 17.251/2016, que rege as
+  consignações na Bahia, tinha duas margens paralelas de 30% no art. 19: o inciso I para instituições
+  financeiras, seguradoras e cooperativas; e o inciso II para ''o custeio parcial de benefícios, produtos
+  e auxílios concedidos pelos órgãos e entidades da Administração Pública Estadual''. O Decreto nº 18.354,
+  de 27/04/2018, trocou a redação do inciso II para ''concedidos pelas pessoas referidas no art. 5º''
+  — artigo onde, no mesmo ato, acabara de inserir o detentor privado dos direitos do CredCesta. O efeito
+  documentado é que o operador privado passou a dispor de margem consignável própria de 30% da remuneração
+  líquida, CUMULATIVA com os 30% dos bancos — margem que antes era reservada a benefícios concedidos pelo
+  próprio poder público. O Decreto nº 18.353, da mesma data, assegurou ao detentor dos direitos a faculdade
+  de ''diversificar as funcionalidades do cartão'', associando-lhe serviços ''creditícios, financeiros,
+  securitários e congêneres'', e estabeleceu que ''o Estado não incorrerá em qualquer custo ou despesa''.
+  Cronologia relevante: o leilão da EBAL foi arrematado em 11/04/2018, e os decretos são de 27/04/2018
+  — dezesseis dias depois.'
+document_ids:
+- doc-2018-04-27-decreto-18353-credicesta
+source_ids:
+- src-doe-ba-decreto-18353-2018
+- src-doe-ba-decreto-18354-2018
+date: '2018-04-27'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,24 @@
+id: src-tjba-adi-afpeb-2025-credcesta
+kind: source
+title: Ação direta de inconstitucionalidade da AFPEB contra os decretos do CredCesta (TJ-BA)
+publisher: Tribunal de Justiça do Estado da Bahia
+publication_date: '2025-11-24'
+retrieved_at: '2026-09-03'
+url: https://www.tjba.jus.br/
+source_type: official_court
+summary: Ação direta de inconstitucionalidade nº 8073008-82.2025.8.05.0000, ajuizada em 24/11/2025 pela
+  Associação dos Funcionários Públicos do Estado da Bahia perante o Órgão Especial do TJ-BA, relatoria
+  da desembargadora Gardênia Pereira Duarte. Pede a suspensão imediata dos descontos, a restauração da
+  portabilidade e a declaração de inconstitucionalidade dos decretos, sob o argumento de criarem monopólio
+  privado sem licitação. Instruída com contracheques de vinte servidores.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: Número e dados da ação obtidos por pesquisa; a equipe não leu a petição inicial nem decisão proferida.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

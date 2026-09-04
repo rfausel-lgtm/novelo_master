@@ -1,0 +1,33 @@
+id: rev-2026-09-04-lote-67-arquitetura-do-credcesta
+kind: revision
+date: '2026-09-03'
+title: 'Lote 67: a arquitetura do CredCesta, em texto primário'
+summary: 'Frente aberta pelo editor sobre o CredCesta como nó do caso. A equipe baixou do Diário Oficial
+  da Bahia e extraiu a íntegra dos três decretos que estruturam o negócio, o que permitiu corrigir dois
+  erros do corpus e tornar visível a arquitetura. Primeira correção: o CredCesta não foi criado em 2018
+  — existia pelo menos desde 2014, quando o próprio Tribunal de Contas do Estado firmou convênio para
+  oferecê-lo a seus servidores; o que 2018 criou foi sua conversão em plataforma de consignado. Segunda:
+  a EBAL não era sócia nem conveniada, mas a gestora estatal do programa, privatizada com ele embutido
+  no lote. O achado estrutural está no Decreto 18.354: ele reescreveu o inciso que reservava 30% de margem
+  a benefícios concedidos pelo poder público, passando-a ao operador privado — margem cumulativa com a
+  dos bancos. Os decretos são de dezesseis dias após o leilão que vendeu a estatal por R$ 15 milhões,
+  com dívidas de R$ 93 milhões deixadas ao Estado. Em 2022, outro decreto retirou do servidor o direito
+  de portar a dívida para instituição mais barata, sem nomear o programa — a exclusão opera pela arquitetura
+  de remissões. O produto cobrava cerca de 5% ao mês contra média de mercado inferior a 1,6%, e virou
+  85,4% das operações do banco em 2022. Registra a contestação judicial e as lacunas honestas: não se
+  obteve o edital, o contrato, nem qualquer atuação do Tribunal de Contas estadual.'
+affected_ids:
+- credcesta
+- empresa-baiana-de-alimentos
+- rui-costa
+- governo-da-bahia
+- pkl-one-participacoes
+- ngv-empreendimentos-e-participacoes
+- augusto-lima
+- banco-master
+reason: Reconstituição documental do nó CredCesta, a pedido do editor, com decretos lidos em texto primário.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,23 @@
+id: src-poder360-2026-01-28-vorcaro-planalto-registros-gsi
+kind: source
+title: Vorcaro esteve no Planalto ao menos 4 vezes em 2023 e 2024
+publisher: Poder360
+publication_date: '2026-01-28'
+retrieved_at: '2026-09-03'
+url: https://www.poder360.com.br/poder-governo/vorcaro-esteve-no-planalto-ao-menos-4-vezes-em-2023-e-2024/
+source_type: press
+summary: Com registros de controle de acesso do Gabinete de Segurança Institucional obtidos por Lei de
+  Acesso à Informação, documenta entradas de Daniel Vorcaro no Palácio do Planalto em 04/12/2023 às 15h42,
+  01/03/2024 às 14h33 e 03/04/2024 às 17h29. A reunião de 04/12/2024 com Lula não consta nem dos registros
+  de acesso nem da agenda oficial. O Planalto afirmou que aquelas entradas não corresponderam a reuniões
+  com o presidente ou com ministros.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

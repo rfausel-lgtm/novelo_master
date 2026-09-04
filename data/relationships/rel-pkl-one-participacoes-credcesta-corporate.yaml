@@ -1,0 +1,24 @@
+id: rel-pkl-one-participacoes-credcesta-corporate
+kind: relationship
+from_id: pkl-one-participacoes
+to_id: credcesta
+relationship_type: corporate
+directed: false
+label: detentora dos direitos de exploração
+start_date: '2018'
+description: A PKL One Participações passou a deter os direitos de exploração do CredCesta após a privatização
+  da EBAL, e é o nome que aparece no contracheque dos servidores baianos.
+evidence_class: A
+confidence: 0.7
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-folha-obtida-sem-licitacao-propria
+source_ids:
+- src-poder360-2026-credcesta-arquitetura-e-privatizacao
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

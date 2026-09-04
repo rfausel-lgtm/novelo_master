@@ -1,0 +1,39 @@
+id: jeronimo-rodrigues
+kind: person
+name: Jerônimo Rodrigues
+category: politician
+role: Governador da Bahia desde 2023; candidato à reeleição
+positions: []
+summary: Governador da Bahia desde 2023. NÃO é alvo, investigado ou citado nominalmente em peça policial
+  do caso. Sob sua gestão, entre maio de 2024 e novembro de 2025, o Estado repassou R$ 140,1 milhões à
+  ASSEBA, associação de servidores da saúde ligada a Augusto Lima, segundo relatório do Coaf enviado à
+  CPI do Crime Organizado — repasses que o governo baiano sustenta serem descontos em folha de taxa de
+  associação autorizados pelos próprios servidores, e não recursos do erário. Em março de 2026 submeteu
+  o contrato do CredCesta à Procuradoria-Geral do Estado e passou a avaliar sua revogação, afirmando que
+  a prioridade é proteger os servidores; antes sustentara que, sendo o programa administrado pela iniciativa
+  privada desde 2018, não caberia falar em falhas do Estado. Eduardo Mendonça Sodré Martins, enteado de
+  Jaques Wagner e nomeado na representação da PF como intermediário, é secretário de Meio Ambiente de
+  seu governo — vínculo funcional que não implica imputação ao governador.
+why_in_novelo: Chefe do Executivo estadual no período dos repasses à ASSEBA apontados pelo Coaf, e responsável
+  pela decisão sobre a continuidade do contrato do CredCesta.
+cited_position:
+- kind: denial
+  summary: 'Por nota do governo do Estado: ''Não é verdade que o governo injetou 140 milhões em uma associação
+    de servidores controlada por Augusto Lima.'' Sustenta que os valores são descontos em folha da taxa
+    de associação, autorizados pelos próprios servidores.'
+  source_ids:
+  - src-bahianoticias-2026-04-11-governo-nega-transferencia-asseba
+  by_id: jeronimo-rodrigues
+  date: '2026-04-11'
+open_questions:
+- Jerônimo Rodrigues não é alvo, investigado nem citado em peça policial. Sua presença no corpus decorre
+  de ser o chefe do Executivo no período dos repasses apontados pelo Coaf e de decidir sobre o contrato
+  do CredCesta.
+source_ids:
+- src-oeste-2026-04-10-coaf-repasses-asseba
+- src-bahianoticias-2026-04-11-governo-nega-transferencia-asseba
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

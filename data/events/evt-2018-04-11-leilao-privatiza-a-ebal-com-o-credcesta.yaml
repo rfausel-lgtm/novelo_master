@@ -1,0 +1,30 @@
+id: evt-2018-04-11-leilao-privatiza-a-ebal-com-o-credcesta
+kind: event
+title: Leilão privatiza a EBAL por R$ 15 milhões, com o CredCesta embutido no lote
+event_type: corporate_act
+date: '2018-04-11'
+date_precision: day
+participant_ids:
+- governo-da-bahia
+- empresa-baiana-de-alimentos
+- ngv-empreendimentos-e-participacoes
+- credcesta
+description: Após dois leilões fracassados com lance mínimo de R$ 81 milhões, a Empresa Baiana de Alimentos
+  foi arrematada por R$ 15 milhões, com 49 lojas da Cesta do Povo, por concorrente único — a NGV Empreendimentos
+  e Participações. No lote ia embutido o programa CredCesta, com acesso à folha de cerca de 280 mil servidores,
+  aposentados e pensionistas do Estado. O direito de operar essa folha nunca foi objeto de licitação própria.
+  As dívidas da estatal permaneceram com o Estado, que pagou R$ 93 milhões entre 2019 e 2026 — 6,2 vezes
+  o preço de venda.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-folha-obtida-sem-licitacao-propria
+source_ids:
+- src-poder360-2026-credcesta-arquitetura-e-privatizacao
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

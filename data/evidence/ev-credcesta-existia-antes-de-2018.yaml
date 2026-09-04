@@ -1,0 +1,22 @@
+id: ev-credcesta-existia-antes-de-2018
+kind: evidence
+classification: C
+proposition: 'Correção ao registro anterior: o CredCesta NÃO foi criado em 2018. Notícia institucional
+  do Tribunal de Contas do Estado da Bahia, de 28/07/2014, descreve a EBAL apresentando o ''Programa CrediCesta''
+  aos servidores do Tribunal — linha de crédito rotativo com cartão magnético, sem anuidade, para compras
+  em mais de 280 lojas da Cesta do Povo em 236 municípios, com desconto em folha; o convênio com o próprio
+  TCE-BA foi assinado em 13/05/2014. O preâmbulo do Decreto 18.353/2018 refere-se ao programa como já
+  existente e não invoca nenhum decreto fundador anterior, o que sugere que ele nasceu por via contratual
+  da EBAL, e não normativa. A data exata de origem é contestada entre fontes — há versões que a situam
+  nos anos 1980, em 1996 e em 2007 —, e a equipe não localizou o ato fundador. O que foi criado em 2018
+  não é o cartão: é sua conversão em plataforma de crédito consignado com margem própria.'
+document_ids: []
+source_ids:
+- src-tceba-2014-07-28-ebal-apresenta-credicesta
+- src-doe-ba-decreto-18353-2018
+date: '2014-07-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

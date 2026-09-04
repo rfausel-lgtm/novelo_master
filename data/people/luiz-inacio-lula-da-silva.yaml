@@ -42,6 +42,14 @@ cited_position:
 open_questions:
 - Não há, no corpus, documento oficial que registre o encontro; a confirmação vem do próprio presidente
   e de mensagens do banqueiro citadas pela imprensa.
+- 'Verificação da equipe em documentos primários: Lula não aparece no relatório da PF sobre o celular
+  de Vorcaro (218 páginas), não está entre os quatro indiciamentos propostos no relatório final da CPI
+  do Crime Organizado, não consta das minutas de delação e não é interlocutor de nenhuma mensagem apreendida.
+  Não é investigado, indiciado nem alvo. O que existe é a audiência de 04/12/2024, que ele próprio confirmou.'
+- 'Há duas versões não conciliadas sobre o teor da reunião de 04/12/2024: a de que o presidente encaminhou
+  o tema ao Banco Central para tratamento técnico, sustentada por Galípolo em depoimentos com notas taquigráficas;
+  e a publicada pelo UOL, com base em documento apreendido, de que teria aconselhado Vorcaro a não vender
+  o banco ao BTG. Nem o Planalto, nem o BC, nem a defesa de Vorcaro se manifestaram sobre a segunda.'
 source_ids:
 - src-cnn-2026-01-lula-vorcaro-fora-da-agenda
 - src-gazeta-2026-03-05-vorcaro-otimo-encontro
@@ -49,6 +57,9 @@ source_ids:
 - src-poder360-2026-08-27-lula-defende-wagner
 - src-senado-2026-06-25-wagner-deixa-lideranca
 - src-infomoney-2026-09-03-lula-maior-roubo-historia
+- src-poder360-2026-01-28-vorcaro-planalto-registros-gsi
+- src-uol-2026-05-17-lula-aconselhou-vorcaro-sobre-btg
+- src-pf-relatorio-ipj-3298613-2026-integra
 full_name: Luiz Inácio Lula da Silva
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva

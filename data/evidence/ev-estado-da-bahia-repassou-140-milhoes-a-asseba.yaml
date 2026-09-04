@@ -1,0 +1,22 @@
+id: ev-estado-da-bahia-repassou-140-milhoes-a-asseba
+kind: evidence
+classification: A
+proposition: 'Segundo relatório do Coaf enviado à CPI do Crime Organizado e revelado pelo Estadão em 10/04/2026,
+  o Estado da Bahia repassou R$ 140,1 milhões à ASSEBA — associação de servidores da saúde apontada como
+  ligada a Augusto Ferreira Lima — entre maio de 2024 e novembro de 2025, período integralmente sob a
+  gestão de Jerônimo Rodrigues. Do total, R$ 65 milhões teriam saído diretamente da Secretaria da Fazenda
+  e R$ 74,1 milhões por fundos previdenciários; a associação teria repassado R$ 101,3 milhões ao Banco
+  Master e R$ 21,7 milhões a empresas de Lima. O Coaf classifica o fluxo como atípico. O governo baiano
+  nega a caracterização: sustenta que os valores são descontos em folha da taxa de associação, autorizados
+  pelos próprios servidores — dinheiro dos servidores, e não do erário —, sem operação financeira ou empréstimo.'
+document_ids: []
+source_ids:
+- src-oeste-2026-04-10-coaf-repasses-asseba
+- src-bahianoticias-2026-04-11-governo-nega-transferencia-asseba
+attributed_to: Relatório do Coaf, via Estadão; com a negativa do governo do Estado
+date: '2026-04-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,21 @@
+id: ev-registros-de-portaria-do-planalto-e-a-lacuna-de-04-12
+kind: evidence
+classification: C
+proposition: 'Correção e precisão sobre os registros. A resposta da Presidência por Lei de Acesso à Informação
+  — de que ''não foram produzidas atas, registros, filmagens, gravações ou documentos da espécie'' — refere-se
+  a documentos de conteúdo. Registros de controle de acesso existem, são do Gabinete de Segurança Institucional
+  e foram efetivamente liberados por LAI: documentam entradas de Daniel Vorcaro no Palácio do Planalto
+  em 04/12/2023 às 15h42, 01/03/2024 às 14h33 e 03/04/2024 às 17h29, e de Henrique Moura Vorcaro em 06/11/2024.
+  O Planalto afirmou que essas entradas não corresponderam a reuniões com o presidente ou com ministros.
+  Já a reunião de 04/12/2024, essa sim com Lula, não consta nem dos registros de acesso nem da agenda
+  oficial, e a Secom não explicou a ausência — lacuna que o corpus registra como tal, sem inferir ocultação.'
+document_ids: []
+source_ids:
+- src-poder360-2026-01-28-vorcaro-planalto-registros-gsi
+- src-poder360-2026-01-28-mantega-cinco-reunioes-chefe-de-gabinete
+date: '2026-01-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

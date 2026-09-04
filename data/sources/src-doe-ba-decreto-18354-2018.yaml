@@ -1,0 +1,28 @@
+id: src-doe-ba-decreto-18354-2018
+kind: source
+title: Decreto nº 18.354, de 27 de abril de 2018 — altera o regime de consignações (Diário Oficial do
+  Estado da Bahia)
+publisher: Governo do Estado da Bahia
+publication_date: '2018-04-27'
+retrieved_at: '2026-09-03'
+url: http://www.legislabahia.ba.gov.br/documentos/decreto-no-18354-de-27-de-abril-de-2018
+source_type: official_gazette
+summary: Decreto que altera o Decreto nº 17.251/2016, inserindo o detentor dos direitos do Credicesta
+  no art. 5º do regime de consignações e reescrevendo o art. 19, II. Texto integral extraído e conferido
+  pela equipe. A redação original do inciso II reservava 30% de margem ao 'custeio parcial de benefícios,
+  produtos e auxílios concedidos pelos órgãos e entidades da Administração Pública Estadual'; a nova redação
+  passou a dizer 'concedidos pelas pessoas referidas no art. 5º' — onde o operador privado acabara de
+  ser inserido.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: A leitura automatizada do PDF por sumarizador produziu alucinação, atribuindo o programa à Caixa
+  Econômica Federal; o texto foi reextraído por ferramenta de conversão e conferido. Nenhum dispositivo
+  aqui citado vem da leitura descartada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

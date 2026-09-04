@@ -1,0 +1,29 @@
+id: pkl-one-participacoes
+kind: organization
+name: PKL One Participações S.A.
+aliases: []
+org_type: company
+summary: Sociedade que passou a deter os direitos de exploração do CredCesta após a privatização da EBAL,
+  e da qual o Banco Máxima — depois Banco Master — adquiriu 50%. É o nome que aparece no contracheque
+  dos servidores baianos, e não 'CredCesta' ou 'Banco Master' — o que ajuda a explicar por que muitos
+  não identificavam a origem do desconto. Seus sócios estão sob sigilo na Junta Comercial de São Paulo.
+  A quebra de sigilo da empresa foi aprovada pela CPMI do INSS no fim de fevereiro de 2026 e suspensa
+  por decisão do ministro Flávio Dino.
+why_in_novelo: Detentora dos direitos do CredCesta e sociedade por meio da qual o Banco Master entrou
+  na folha dos servidores baianos.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- 'A composição societária da PKL One não é pública: os sócios estão sob sigilo na Junta Comercial de
+  São Paulo, e a quebra aprovada pela CPMI do INSS foi suspensa por decisão do STF.'
+- 'Há divergência sobre o valor pago pelo Banco Máxima pelos 50%: o Poder360 registra R$ 22 milhões; outra
+  apuração, de veículo de menor confiabilidade, fala em R$ 30 milhões com retenção de 50% por Augusto
+  Lima. A equipe não conciliou as versões.'
+source_ids:
+- src-poder360-2026-credcesta-arquitetura-e-privatizacao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

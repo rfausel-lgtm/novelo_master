@@ -1,0 +1,24 @@
+id: rel-asseba-banco-master-financial
+kind: relationship
+from_id: asseba
+to_id: banco-master
+relationship_type: financial
+directed: false
+label: repasses apontados pelo Coaf
+start_date: '2024'
+description: Segundo relatório do Coaf, a ASSEBA repassou R$ 101,3 milhões ao Banco Master, dentro de
+  um fluxo de R$ 140,1 milhões recebidos do Estado da Bahia entre maio de 2024 e novembro de 2025.
+evidence_class: A
+confidence: 0.6
+status: disputed
+event_ids: []
+evidence_ids:
+- ev-estado-da-bahia-repassou-140-milhoes-a-asseba
+source_ids:
+- src-oeste-2026-04-10-coaf-repasses-asseba
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

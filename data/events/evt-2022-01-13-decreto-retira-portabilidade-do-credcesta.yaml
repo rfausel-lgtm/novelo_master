@@ -1,0 +1,31 @@
+id: evt-2022-01-13-decreto-retira-portabilidade-do-credcesta
+kind: event
+title: Decreto retira do servidor baiano o direito de portar a dívida do CredCesta
+event_type: public_act
+date: '2022-01-13'
+date_precision: day
+participant_ids:
+- governo-da-bahia
+- rui-costa
+- credcesta
+description: O Decreto nº 21.041, assinado por Rui Costa, restringiu a faculdade de portabilidade às instituições
+  financeiras do art. 9º do regime de consignações, excluindo expressamente 'as demais consignatárias'
+  — categoria em que se enquadra o operador do CredCesta —, e revogou o procedimento detalhado de portabilidade.
+  O servidor perdeu, assim, o direito de migrar a dívida para instituição com juros menores, num produto
+  que cobrava cerca de 5% ao mês contra média de mercado inferior a 1,6%. O ato não nomeia o programa
+  nem o banco.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-decreto-de-2022-retira-a-portabilidade
+- ev-taxas-do-credcesta-versus-mercado
+source_ids:
+- src-doe-ba-decreto-21041-2022
+document_ids:
+- doc-2022-01-13-decreto-21041-portabilidade
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

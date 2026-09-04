@@ -7,7 +7,10 @@ org_type: public_body
 summary: Empresa estatal baiana, conhecida como Ebal, citada na representação da PF como o contexto em
   que foram criados e operacionalizados o CredCesta e a relação comercial que depois levaria Augusto Ferreira
   Lima ao Banco Master. A rede de supermercados estatal foi vendida a Augusto Lima durante o governo de
-  Jaques Wagner, segundo a assessoria do senador ao Poder360.
+  Jaques Wagner, segundo a assessoria do senador ao Poder360. Era a gestora e operadora do programa CredCesta
+  enquanto estatal — não sócia nem conveniada. Foi privatizada em 11/04/2018 por R$ 15 milhões, com o
+  programa embutido no lote e as dívidas remanescentes permanecendo com o Estado, que pagou R$ 93 milhões
+  entre 2019 e 2026.
 why_in_novelo: É a estatal em cujo contexto nasceu o CredCesta, ativo que a Polícia Federal aponta como
   origem da sociedade entre Augusto Lima e Daniel Vorcaro.
 cited_position:
@@ -23,6 +26,9 @@ open_questions:
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+- src-doe-ba-decreto-18353-2018
+- src-poder360-2026-credcesta-arquitetura-e-privatizacao
+- src-tceba-2014-07-28-ebal-apresenta-credicesta
 jurisdiction: Bahia
 review_status: published
 reviewer: orquestrador
