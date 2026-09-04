@@ -1,0 +1,33 @@
+id: evt-2026-06-17-suspensao-das-atividades-das-empresas-bn
+kind: event
+title: STF suspende as atividades da BN Financeira, da BN Representações e da Epítome
+event_type: judicial_decision
+date: '2026-06-17'
+date_precision: day
+participant_ids:
+- bn-financeira
+- bn-representacoes-tecnologicas
+- bonnie-toaldo-bonilha
+- jaques-wagner
+- epitome-sa
+description: Ao autorizar a 9ª fase da Operação Compliance Zero, o ministro André Mendonça determinou
+  a suspensão das atividades econômicas e financeiras da BN Financeira Ltda., da BN Representações Tecnológicas
+  Ltda. e da Epítome S.A., e impôs a Bonnie Toaldo Bonilha, sócia das duas primeiras, proibição de contato
+  com investigados, suspensão de passaporte e impedimento de saída do país. A decisão registra transferência
+  de R$ 3,5 milhões da PKL One à BN Financeira em 17/10/2025, e anota que a suspensão de passaporte do
+  senador Jaques Wagner não foi requerida.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-suspensao-de-atividades-e-cautelares-bn
+- ev-valores-bn-reconciliados
+source_ids:
+- src-stf-pet-16229-decisao-9a-fase-pdf
+document_ids:
+- doc-2026-06-17-decisao-pet-16229-9a-fase
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

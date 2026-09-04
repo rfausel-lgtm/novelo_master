@@ -1,0 +1,31 @@
+id: ev-possivel-irregularidade-regulatoria-art-8
+kind: evidence
+classification: D
+proposition: 'Achado regulatório que a cobertura não explorou, e que é autônomo em relação à acusação
+  penal. A BN Financeira não é instituição financeira nem tem autorização do Banco Central, apesar do
+  nome. Ocorre que a Resolução CMN nº 4.935/2021, no art. 8º — vigente durante todo o período do contrato
+  com o Banco Master —, dispunha que ''depende de prévia autorização do Banco Central do Brasil a celebração
+  de contrato de correspondente com entidade não integrante do Sistema Financeiro Nacional cuja denominação
+  ou nome fantasia empregue termos característicos das denominações das instituições do SFN''. A empresa
+  é exatamente essa hipótese — tem ''Financeira'' na razão social e no nome fantasia, não integra o SFN,
+  e traz entre seus CNAEs o de correspondente de instituições financeiras. Se o contrato de prospecção
+  e indicação de operações de consignado configurar contrato de correspondente, a ausência da autorização
+  prévia seria irregularidade regulatória própria. O dispositivo foi revogado pela Resolução Conjunta
+  nº 17, de 28/11/2025. Registre-se correção a dado de imprensa: o Valor Econômico invocou essa Resolução
+  Conjunta como norma aplicável ao caso, mas seu art. 1º restringe o âmbito às instituições autorizadas
+  a funcionar pelo Banco Central — não alcança a BN Financeira. A norma pertinente era a revogada.'
+document_ids:
+- doc-2021-07-29-resolucao-cmn-4935-art-8
+- doc-2026-cnpj-bn-financeira
+source_ids:
+- src-bcb-resolucao-cmn-4935-2021-art-8
+- src-valor-2026-06-18-bn-financeira-nao-regulada-pelo-bc
+excerpt: Depende de prévia autorização do Banco Central do Brasil a celebração de contrato de correspondente
+  com entidade não integrante do Sistema Financeiro Nacional (SFN) cuja denominação ou nome fantasia empregue
+  termos característicos das denominações das instituições do SFN.
+date: '2021-07-29'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

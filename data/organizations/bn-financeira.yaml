@@ -1,20 +1,56 @@
 id: bn-financeira
 kind: organization
 name: BN Financeira
-aliases: []
+aliases:
+- BK Financeira
+- BN Financeira Ltda.
 org_type: company
-summary: Empresa descrita pela Polícia Federal, na representação acolhida na 9ª fase, como associada ao
-  núcleo familiar do senador Jaques Wagner e destinatária de pagamentos e cobranças examinados na investigação.
+summary: Empresa cuja razão social é BN Financeira Ltda. e cujo nome fantasia é BK Financeira — as duas
+  denominações que a imprensa tratou como se fossem empresas distintas são, no cadastro da Receita Federal,
+  a mesma pessoa jurídica, CNPJ 42.645.396/0001-74. Aberta em 08/07/2021 como microempresa, com capital
+  social de R$ 45.000,00 e sede em sala de edifício comercial em Salvador, tem como sócia-administradora
+  Bonnie Toaldo Bonilha, nora do senador Jaques Wagner, e como sócio, desde agosto de 2022, o advogado
+  Moisés Dantas dos Santos. Nenhum membro da família do senador integra o quadro societário. Apesar do
+  nome, não é instituição financeira nem tem autorização do Banco Central. Segundo a empresa, prestou
+  ao Banco Master serviços de prospecção e indicação de operações de consignado, em caráter de exclusividade,
+  entre 2022 e 2025, com recursos recebidos mediante nota fiscal e declarados à Receita. A decisão do
+  STF de 17/06/2026 registra transferência de R$ 3,5 milhões da PKL One à empresa em 17/10/2025 e determinou
+  a suspensão de suas atividades econômicas e financeiras. A hipótese investigativa da PF é a de que os
+  contratos tenham sido produzidos 'para conferir aparência de licitude às transferências de valores,
+  que não correspondem à remuneração de serviço efetivamente prestado'.
 why_in_novelo: É apontada em decisão pública do STF como empresa ligada ao núcleo familiar de Jaques Wagner
   e alvo do segundo eixo da apuração.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: 'Por seu sócio e advogado Moisés Dantas dos Santos: o serviço ''não foi de consultoria, mas
+    de prospecção e indicação, em caráter de exclusividade, de operações e convênios de crédito consignado'',
+    prestado de 2022 a 2025; ''todos os recursos recebidos pela BN Financeira se deram de forma oficial,
+    contabilizada e mediante emissão de nota fiscal, distribuídos formalmente aos sócios'' e declarados
+    à Receita, ''inexistindo pagamentos não justificados a terceiros''.'
+  source_ids:
+  - src-metro1-2026-03-18-empresa-diz-que-repasse-e-legal
+  date: '2026-03-18'
 open_questions:
-- O corpus não registra a composição societária da BN Financeira nem manifestação da empresa.
-- Os pagamentos descritos são narrativa da autoridade policial, sem juízo de mérito.
+- A representação da PF, ao datar a contratação em 2022 e descrever o objeto, remete a reportagem de imprensa
+  e a declarações do sócio, e não a contratos — de modo que o documento oficial e a matéria não são fontes
+  independentes quanto a esses pontos.
+- 'Não se conhece o total efetivamente pago: a própria PF consigna que os repasses às empresas vinculadas
+  ao núcleo familiar do senador ''são maiores do que a transferência tratada''.'
+- Se o contrato de prospecção configurar contrato de correspondente bancário, a ausência da prévia autorização
+  exigida pelo art. 8º da Resolução CMN 4.935/2021 seria irregularidade regulatória autônoma. A equipe
+  não verificou se tal autorização foi obtida.
+- O histórico societário — datas de entrada e saída de sócios — provém de bases de agregadores privados,
+  e não do conjunto de dados abertos da Receita Federal, que não o publica. A ficha da Junta Comercial
+  da Bahia fecharia a questão.
 source_ids:
 - src-poder360-2026-06-18-nona-fase-wagner
+- src-minhareceita-bn-financeira-cnpj
+- src-stf-pet-16229-decisao-9a-fase-pdf
+- src-pf-representacao-9a-fase-wagner-pdf
+- src-valor-2026-06-18-bn-financeira-nao-regulada-pelo-bc
+- src-bcb-resolucao-cmn-4935-2021-art-8
+- src-metro1-2026-03-18-empresa-diz-que-repasse-e-legal
+- src-cnnbrasil-2026-empresa-dividia-sala-com-19-cnpjs
 full_name: BN Financeira Ltda.
 review_status: published
 reviewer: orquestrador

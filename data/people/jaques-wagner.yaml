@@ -66,12 +66,13 @@ open_questions:
 - O relatório da PF de 30/07/2026 (PDF de 33 MB) não foi lido pela equipe; o corpus registra a síntese
   do Poder360.
 - O corpus não contém denúncia ou decisão de mérito sobre o senador.
-- 'Há divergência não resolvida na imprensa sobre a empresa ligada à família do senador que prestou serviços
-  ao Banco Master: fontes falam alternadamente em BN Financeira Ltda. (R$ 3,5 milhões), BK Financeira
-  (R$ 11 milhões, tendo Bonnie de Bonilha como sócia) e BN Representações. Podem ser duas ou três empresas
-  distintas, ou erro de transcrição em cadeia; a equipe não conciliou as versões em registro societário.'
 - A PGR se opôs à PF quanto às medidas da 9ª fase, em parecer de 16/06/2026 contrário à apreensão de bens
   e à busca no gabinete parlamentar. O parecer não foi lido pela equipe nem seu signatário identificado.
+- 'Resolvida a divergência sobre a empresa da família: BN Financeira e BK Financeira são a mesma pessoa
+  jurídica — razão social e nome fantasia do CNPJ 42.645.396/0001-74. Empresa distinta, da mesma sócia,
+  é a BN Representações Tecnológicas, antiga Vamos Florir Comércio de Flores. Os valores também se reconciliam:
+  R$ 3,5 milhões é uma transferência documentada de outubro de 2025; R$ 11 milhões, o acumulado alegado
+  de 2022 a 2025. O número de R$ 5,5 milhões não existe nos autos.'
 source_ids:
 - src-poder360-2026-06-18-nona-fase-wagner
 - src-senado-2024-08-14-pec-65-adiada
@@ -89,6 +90,9 @@ source_ids:
 - src-infomoney-2026-06-pgr-foi-contra-pf-apreensao-wagner
 - src-poder360-2026-apartamento-poeme-horto-wagner
 - src-agenciabrasil-2026-06-18-wagner-nega-vantagens
+- src-minhareceita-bn-financeira-cnpj
+- src-stf-pet-16229-decisao-9a-fase-pdf
+- src-pf-representacao-9a-fase-wagner-pdf
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Jaques_Wagner
 review_status: published

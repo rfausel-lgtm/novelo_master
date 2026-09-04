@@ -1,0 +1,33 @@
+id: bn-representacoes-tecnologicas
+kind: organization
+name: BN Representações Tecnológicas Ltda.
+aliases:
+- Vamos Florir Comércio de Flores Ltda.
+org_type: company
+summary: Empresa de Bonnie Toaldo Bonilha, sócia única, aberta em 20/05/2019 com capital social de R$
+  10 mil. Constava anteriormente como Vamos Florir Comércio de Flores Ltda., com atividade de floricultura,
+  e passou a BN Representações Tecnológicas Ltda., com atividade de desenvolvimento de software, mudando
+  a sede de Salvador para Igaporã, no interior da Bahia — alteração registrada em janeiro de 2026, poucos
+  meses antes da 9ª fase da Operação Compliance Zero. O endereço de Igaporã abriga vinte CNPJs, dezessete
+  deles sob responsabilidade do mesmo contador, e as duas empresas de Bonnie declaram à Receita o mesmo
+  telefone e praticamente o mesmo e-mail, ambos de escritório de contabilidade. Teve as atividades econômicas
+  e financeiras suspensas por decisão do ministro André Mendonça em 17/06/2026.
+why_in_novelo: Segunda empresa da mesma sócia alcançada pela suspensão de atividades determinada pelo
+  STF, e cuja mudança de ramo e de endereço precedeu em poucos meses a operação.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Não há manifestação da BN Representações Tecnológicas no corpus.
+- 'Há divergência entre fontes sobre a data de saída do sócio anterior: o Metrópoles registra 26 de janeiro
+  de 2026; base de agregador registra fevereiro de 2026.'
+source_ids:
+- src-minhareceita-bn-representacoes-cnpj
+- src-stf-pet-16229-decisao-9a-fase-pdf
+- src-cnnbrasil-2026-empresa-dividia-sala-com-19-cnpjs
+jurisdiction: Brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,21 @@
+id: ev-circularidade-entre-a-pf-e-a-imprensa
+kind: evidence
+classification: D
+proposition: 'Achado metodológico relevante para avaliar o lastro da imputação. A representação da Polícia
+  Federal, ao datar a contratação em 2022 e descrever o objeto contratual, remete em nota de rodapé a
+  uma reportagem de imprensa e a declarações atribuídas ao próprio sócio da empresa — e não a contratos.
+  Ou seja: o documento oficial e a matéria jornalística não são fontes independentes uma da outra quanto
+  a esses pontos, e o valor de R$ 11 milhões não ganhou lastro documental ao entrar nos autos. Isso não
+  invalida a hipótese policial: o que a PF tem de documental próprio é o comprovante da transferência
+  de outubro de 2025, planilhas apreendidas e extrações de celular. Mas obriga a distinguir, no registro,
+  o que a investigação demonstra do que ela reproduz.'
+document_ids:
+- doc-2026-07-31-representacao-pf-9a-fase-wagner
+source_ids:
+- src-pf-representacao-9a-fase-wagner-pdf
+date: '2026-07-31'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

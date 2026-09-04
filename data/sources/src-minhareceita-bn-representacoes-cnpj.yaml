@@ -1,0 +1,24 @@
+id: src-minhareceita-bn-representacoes-cnpj
+kind: source
+title: Cadastro Nacional da Pessoa Jurídica — BN REPRESENTACOES TECNOLOGICAS LTDA (CNPJ 33.663.988/0001-28)
+publisher: Receita Federal, via redistribuição do dump público de CNPJ
+publication_date: '2026'
+retrieved_at: '2026-09-03'
+url: https://minhareceita.org/33663988000128
+source_type: official_government
+summary: Registro cadastral de empresa distinta, também de Bonnie Toaldo Bonilha, como sócia única. Aberta
+  em 20/05/2019, microempresa, capital social de R$ 10.000,00. Constava anteriormente como VAMOS FLORIR
+  COMERCIO DE FLORES LTDA, com CNAE de floricultura, e passou a BN REPRESENTACOES TECNOLOGICAS LTDA, com
+  CNAE principal 6203-1/00 — desenvolvimento e licenciamento de programas não customizáveis —, mudando
+  a sede de Salvador para Igaporã, no interior da Bahia. As duas empresas declaram à Receita o mesmo telefone
+  e praticamente o mesmo endereço de e-mail, ambos de um escritório de contabilidade.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

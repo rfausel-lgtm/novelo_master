@@ -1,0 +1,26 @@
+id: doc-2026-cnpj-bn-representacoes
+kind: document
+title: Registro cadastral do CNPJ 33.663.988/0001-28 — BN REPRESENTACOES TECNOLOGICAS LTDA (ex-Vamos Florir)
+doc_type: corporate_record
+date: '2026-09-04'
+source_ids:
+- src-minhareceita-bn-representacoes-cnpj
+summary: Registro do Cadastro Nacional da Pessoa Jurídica consultado pela equipe. Empresa distinta da
+  BN Financeira, tendo Bonnie Toaldo Bonilha como sócia única desde 20/05/2019. Constava como VAMOS FLORIR
+  COMERCIO DE FLORES LTDA e passou a BN REPRESENTACOES TECNOLOGICAS LTDA, migrando de floricultura para
+  desenvolvimento de software e mudando a sede de Salvador para Igaporã. Capital social de R$ 10.000,00.
+  Declara à Receita o mesmo telefone e praticamente o mesmo e-mail da BN Financeira, ambos de escritório
+  de contabilidade.
+is_official: true
+related_entity_ids:
+- bn-representacoes-tecnologicas
+- bonnie-toaldo-bonilha
+issuer: Receita Federal do Brasil
+date_precision: day
+url: https://minhareceita.org/33663988000128
+reference: CNPJ 33.663.988/0001-28
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

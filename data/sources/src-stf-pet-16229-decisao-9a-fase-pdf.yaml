@@ -1,0 +1,25 @@
+id: src-stf-pet-16229-decisao-9a-fase-pdf
+kind: source
+title: Decisão do ministro André Mendonça na PET 16.229/DF — 9ª fase da Operação Compliance Zero (íntegra)
+publisher: Supremo Tribunal Federal
+publication_date: '2026-06-17'
+retrieved_at: '2026-09-03'
+url: https://static.poder360.com.br/uploads/2026/06/decisao-mendonca-9-fase-compliance-zero-jaques-wagner-caso-master.pdf
+source_type: official_court
+summary: Decisão de 31 páginas que autorizou a 9ª fase, lida na íntegra pela equipe. Registra transferência
+  de R$ 3.500.000,00 à BN FINANCEIRA LTDA. pela PKL ONE PARTICIPAÇÕES S.A. em 17/10/2025. No dispositivo,
+  item 99.6, determina a suspensão das atividades econômicas e financeiras da BN Financeira Ltda., da
+  BN Representações Tecnológicas Ltda. e da Epítome S.A. No item 99.3, impõe a Bonnie Toaldo Bonilha proibição
+  de contato com os demais investigados — ressalvados o senador e o marido, por vínculo familiar —, suspensão
+  de passaporte e impedimento de saída do país. Registra ainda que a suspensão de passaporte do senador
+  não foi requerida.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

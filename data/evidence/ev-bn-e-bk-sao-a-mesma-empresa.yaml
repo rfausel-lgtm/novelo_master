@@ -1,0 +1,24 @@
+id: ev-bn-e-bk-sao-a-mesma-empresa
+kind: evidence
+classification: D
+proposition: 'O nó está resolvido em registro público: BN Financeira e BK Financeira são a MESMA pessoa
+  jurídica. O cadastro da Receita Federal para o CNPJ 42.645.396/0001-74 traz razão social BN FINANCEIRA
+  LTDA e nome fantasia BK FINANCEIRA. Não houve erro de transcrição nem mudança de razão social: a imprensa
+  dividiu-se entre o nome empresarial — usado na decisão do STF e na representação da PF, que trabalham
+  com a razão social — e o nome fantasia, que é como agregadores de dados cadastrais indexam a empresa.
+  A grafia ''BK'' é praticamente exclusiva de um veículo; todos os demais, inclusive os que reproduzem
+  os mesmos números, escrevem ''BN''. Empresa distinta é a BN Representações Tecnológicas Ltda. (CNPJ
+  33.663.988/0001-28), da mesma sócia — e essa sim passou por mudança de razão social, tendo sido Vamos
+  Florir Comércio de Flores Ltda.'
+document_ids:
+- doc-2026-cnpj-bn-financeira
+- doc-2026-cnpj-bn-representacoes
+source_ids:
+- src-minhareceita-bn-financeira-cnpj
+- src-minhareceita-bn-representacoes-cnpj
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
