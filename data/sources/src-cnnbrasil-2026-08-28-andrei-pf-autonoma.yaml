@@ -1,0 +1,20 @@
+id: src-cnnbrasil-2026-08-28-andrei-pf-autonoma
+kind: source
+title: Diretor-geral diz que PF é autônoma e trabalha 'sem proteger nem perseguir'
+publisher: CNN Brasil
+publication_date: '2026-08-28'
+retrieved_at: '2026-09-03'
+url: https://www.cnnbrasil.com.br/politica/diretor-geral-diz-que-pf-e-autonoma-e-trabalha-sem-proteger-nem-perseguir/
+source_type: press
+summary: Declaração de Andrei Rodrigues em formatura de cerca de 700 novos policiais federais, três dias
+  antes da divulgação do laudo sobre o celular de Vorcaro.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

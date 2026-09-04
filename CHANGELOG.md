@@ -7,6 +7,10 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 32 do corpus: biografia de Andrei Rodrigues (carreira na PF, segurança de Dilma e Lula, indicação
+  de Flávio Dino à direção-geral) e o episódio de agosto de 2026 em que os 27 superintendentes regionais
+  da PF divulgaram nota em defesa da direção-geral, em meio a atrito com André Mendonça sobre a 'Operação
+  Sem Desconto' — três dias antes da divulgação do laudo sobre o celular de Vorcaro.
 - Lote 31 do corpus: o laudo da PF sobre a morte de Luiz Phillipi Mourão sob custódia — dez dias depois de
   a família registrar não ter acesso a imagens, autos nem laudo do IML, a PF entregou ao relator, em
   23/04/2026, laudo concluindo suicídio. Não foi localizada resposta da família a essa conclusão.

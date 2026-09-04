@@ -8,10 +8,19 @@ positions:
   organization_id: policia-federal
   source_ids:
   - src-poder360-2026-09-01-sigilo-pet-16662
-summary: Diretor-Geral da Polícia Federal. O relatório da PF sobre o celular de Vorcaro contém seção de
-  pesquisa pelos termos 'Andrei Passos' e identifica notas e mensagens do banqueiro que 'podem indicar'
-  referência ao diretor-geral, inclusive sobre convite a evento. O relatório não conclui pela prática
-  de crime.
+summary: 'Diretor-Geral da Polícia Federal. Gaúcho de Pelotas/RS, formado em Direito (1997), com mestrado
+  em Alta Gestão em Segurança Internacional pela Universidad Carlos III de Madri (2020). Delegado de carreira
+  há quase 20 anos: coordenou a segurança de Dilma Rousseff (2010 e 2013-2017), chefiou a Secretaria Extraordinária
+  de Segurança de Grandes Eventos (Copa 2014, Olimpíadas Rio 2016) e depois a Divisão de Relações Internacionais
+  da PF, e coordenou a segurança de Lula na campanha de 2022. Assumiu a Direção-Geral no início do terceiro
+  mandato de Lula, por indicação de Flávio Dino. O relatório da PF sobre o celular de Vorcaro contém seção
+  de pesquisa pelos termos ''Andrei Passos'' e identifica notas e mensagens do banqueiro que ''podem indicar''
+  referência ao diretor-geral, inclusive sobre convite a evento em Londres; o relatório não conclui pela
+  prática de crime. Em agosto de 2026, em meio a atrito com o ministro André Mendonça sobre determinações
+  na ''Operação Sem Desconto'', os 27 superintendentes regionais da PF divulgaram nota em defesa de sua
+  autonomia administrativa, e Rodrigues declarou publicamente que a corporação trabalha ''sem proteger
+  ou perseguir''. É um dos quatro chamados por Fachin, em 03/09/2026, a apresentar explicações por escrito
+  em cinco dias úteis.'
 why_in_novelo: É mencionado em relatório da Polícia Federal sobre o celular de Daniel Vorcaro e dirige
   o órgão que conduz a Operação Compliance Zero.
 cited_position:
@@ -43,6 +52,9 @@ source_ids:
 - src-contrapontoms-2026-09-02-investigadores-veem-teatro
 - src-poder360-2026-09-03-novo-pede-prisao-de-andrei
 - src-forum-2026-09-mensagens-sem-resposta-de-moraes
+- src-gazetadopovo-2026-conheca-andrei-rodrigues
+- src-poder360-2026-08-06-superintendentes-defendem-andrei
+- src-cnnbrasil-2026-08-28-andrei-pf-autonoma
 full_name: Andrei Augusto Passos Rodrigues
 review_status: published
 reviewer: orquestrador

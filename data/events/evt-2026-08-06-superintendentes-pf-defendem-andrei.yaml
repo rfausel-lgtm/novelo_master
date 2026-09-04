@@ -1,0 +1,35 @@
+id: evt-2026-08-06-superintendentes-pf-defendem-andrei
+kind: event
+title: Superintendentes da PF divulgam nota em defesa de Andrei Rodrigues em meio a atrito com Mendonça
+event_type: statement
+date: '2026-08-06'
+date_precision: day
+participant_ids:
+- policia-federal
+- andrei-rodrigues
+- andre-mendonca
+description: Os 27 superintendentes regionais da Polícia Federal divulgaram nota conjunta defendendo a
+  autonomia administrativa da direção-geral, em meio a tensão com André Mendonça sobre determinações na
+  'Operação Sem Desconto' — exigência de remessa ao STF de todas as peças investigativas e de comunicação
+  prévia antes de qualquer afastamento ou troca de delegados. Em 31/08/2026, Fachin se reuniu com Andrei
+  Rodrigues no CNJ, oficialmente sobre segurança da informação no sistema de Justiça — reunião que a imprensa
+  contextualizou como parte do mesmo desgaste. Três dias antes da divulgação do laudo sobre o celular
+  de Vorcaro (01/09/2026), em 28/08/2026, Rodrigues declarou publicamente que a PF trabalha 'sem proteger
+  ou perseguir'.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-superintendentes-pf-nota-defesa-andrei-2026-08
+- ev-andrei-rodrigues-declaracao-formatura-2026-08-28
+source_ids:
+- src-poder360-2026-08-06-superintendentes-defendem-andrei
+- src-ndmais-2026-08-superintendencias-peitam-mendonca
+- src-cnnbrasil-2026-08-28-andrei-pf-autonoma
+- src-tribunadosertao-2026-08-31-fachin-reuniao-andrei-cnj
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
