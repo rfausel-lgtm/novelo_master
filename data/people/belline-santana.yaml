@@ -1,0 +1,28 @@
+id: belline-santana
+name: Belline Santana
+category: public_official
+aliases:
+- Bellini Santana
+role: Chefe do Departamento de Supervisão Bancária do Banco Central (2019-2024)
+summary: Servidor de carreira do Banco Central, chefiou entre 2019 e 2024 o departamento responsável pela
+  supervisão direta das instituições financeiras. Foi alvo de busca e apreensão na fase de 04/03/2026
+  da Operação Compliance Zero e cumpre medida cautelar com monitoramento eletrônico. Convocado pela CPI
+  do Crime Organizado, obteve decisão do ministro André Mendonça que tornou o comparecimento facultativo.
+why_in_novelo: Chefiou a supervisão bancária do Banco Central no período em que o banco cresceu e é alvo
+  da investigação e de convocação parlamentar.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- As fontes divergem entre as grafias Belline e Bellini; a forma usada pela Agência Senado foi adotada.
+source_ids:
+- src-platobr-2026-03-04-medidas-contra-ex-dirigentes-do-bc
+- src-senado-2026-03-20-belline-santana-convocado-a-cpi
+- src-senado-2026-03-24-stf-libera-belline-santana-de-depor
+positions: []
+kind: person
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

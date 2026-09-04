@@ -1,0 +1,24 @@
+id: wws-holding
+name: WWS Holding
+full_name: WWS Holding S.A.
+org_type: company
+jurisdiction: Brasil
+summary: Controlada da Viking Participações. Segundo o voto BCB 20/2019, na reconstituição publicada a
+  partir dos extratos obtidos pelo Valor Econômico, um imóvel da empresa passou de R$ 1,9 milhão para
+  R$ 92,3 milhões em laudo de reavaliação.
+why_in_novelo: A reavaliação de seu imóvel compõe o patrimônio apresentado ao Banco Central para demonstrar
+  capacidade financeira na aquisição do controle do banco.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Quadro societário e CNPJ não verificados em registro oficial.
+source_ids:
+- src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
+aliases: []
+kind: organization
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

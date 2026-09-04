@@ -1,0 +1,26 @@
+id: rel-fabiano-zettel-ana-claudia-queiroz-de-paiva-professional
+kind: relationship
+from_id: fabiano-zettel
+to_id: ana-claudia-queiroz-de-paiva
+relationship_type: professional
+directed: false
+label: apontados juntos como operadores dos pagamentos
+start_date: '2026-03-04'
+description: Segundo apuração da PF citada pela imprensa, os dois operacionalizavam, ao lado um do outro,
+  os pagamentos a servidores do Banco Central por meio do contrato fictício com a Varajo Consultoria Empresarial.
+  O corpus não localizou informação sobre a natureza exata do vínculo entre eles.
+evidence_class: A
+confidence: 0.4
+status: unverified
+event_ids:
+- evt-2026-03-04-medidas-cautelares-contra-dois-servidores-do-bc
+evidence_ids:
+- ev-mensagens-zettel-vorcaro-belline-cobrando
+source_ids:
+- src-timesbrasil-2026-03-mensagens-belline-cobrando
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

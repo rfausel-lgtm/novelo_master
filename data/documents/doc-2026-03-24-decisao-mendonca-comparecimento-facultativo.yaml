@@ -1,0 +1,25 @@
+id: doc-2026-03-24-decisao-mendonca-comparecimento-facultativo
+title: Decisão do ministro André Mendonça que tornou facultativo o comparecimento de Belline Santana à
+  CPI, conforme a Agência Senado
+doc_type: judicial_decision
+date: '2026-03-24'
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça (STF)
+source_ids:
+- src-senado-2026-03-24-stf-libera-belline-santana-de-depor
+summary: Desobrigou o servidor do Banco Central de comparecer à CPI do Crime Organizado, transformando
+  a convocação em facultativa e assegurando, em caso de comparecimento, o direito ao silêncio, a assistência
+  de advogado, a dispensa do compromisso de dizer a verdade e a ausência de constrangimentos.
+is_official: true
+related_entity_ids:
+- belline-santana
+- andre-mendonca
+- supremo-tribunal-federal
+- cpi-do-crime-organizado
+url: https://www12.senado.leg.br/noticias/materias/2026/03/24/stf-libera-belline-santana-do-bc-de-comparecer-a-cpi-do-crime-organizado
+kind: document
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

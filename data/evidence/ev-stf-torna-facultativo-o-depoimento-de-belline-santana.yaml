@@ -1,0 +1,16 @@
+id: ev-stf-torna-facultativo-o-depoimento-de-belline-santana
+classification: D
+proposition: O ministro André Mendonça desobrigou Belline Santana de comparecer à CPI do Crime Organizado
+  em 24 de março de 2026 e tornou a convocação facultativa, assegurando o direito ao silêncio em caso
+  de comparecimento.
+document_ids:
+- doc-2026-03-24-decisao-mendonca-comparecimento-facultativo
+source_ids:
+- src-senado-2026-03-24-stf-libera-belline-santana-de-depor
+date: '2026-03-24'
+kind: evidence
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

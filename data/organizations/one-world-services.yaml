@@ -1,0 +1,26 @@
+id: one-world-services
+name: One World Services
+aliases:
+- OWS
+org_type: company
+jurisdiction: Brasil
+summary: Empresa brasileira de venda direta de criptoativos. Segundo a apuração da Folha de S.Paulo reproduzida
+  por O Tempo e confirmada pela Gazeta do Povo junto a fontes a par da investigação, é investigada na
+  Operação Colossus sob suspeita de destinar recursos a organizações criminosas, e usou contas no então
+  Banco Máxima para comprar bitcoins.
+why_in_novelo: É a destinatária das remessas de câmbio do banco que a Polícia Federal aponta como irregulares
+  no período anterior à mudança de nome para Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Manifestação da empresa não localizada nas fontes lidas.
+source_ids:
+- src-otempo-2026-02-02-remessas-do-master-a-one-world-services
+- src-gazeta-2026-02-02-master-2-8-bilhoes-one-world-services
+kind: organization
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

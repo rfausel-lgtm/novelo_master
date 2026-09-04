@@ -1,0 +1,54 @@
+id: claim-recursos-do-proprio-maxima-financiaram-a-compra-do-controle
+statement: Parcela expressiva dos recursos usados para adquirir as ações do controlador do Banco Máxima
+  teria se originado no próprio banco, por transferências sucessivas entre a instituição, empresas de
+  Daniel Vorcaro e fundos de investimento.
+classification: A
+status: disputed
+claimant_id: banco-central-do-brasil
+claimant: Banco Central, no voto BCB 20/2019, conforme extratos obtidos pelo Valor Econômico
+date: 2019-02
+related_entity_ids:
+- daniel-vorcaro
+- banco-master
+- viking-participacoes
+- fundo-brazil-realty
+- banco-central-do-brasil
+event_ids:
+- evt-2019-02-bc-rejeita-a-transferencia-de-controle-do-maxima
+evidence_ids:
+- ev-valor-triangulacao-de-recursos-na-compra-do-maxima
+- ev-valor-caminho-do-dinheiro-viking-brazil-realty
+source_ids:
+- src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
+- src-timesbrasil-2026-04-24-bc-divulga-votos-do-maxima
+limits: O voto de outubro de 2019 afirmou o contrário, que a origem dos recursos foi regularmente demonstrada
+  por todos os novos acionistas. Trechos do voto de fevereiro foram cobertos por tarjas antes da liberação,
+  e a equipe editorial não teve acesso ao documento integral.
+counter_position:
+- date: '2019-10-14'
+  by_id: banco-central-do-brasil
+  kind: alternative_explanation
+  summary: O voto BCB 218/2019, oito meses depois, afirmou que a origem dos recursos foi regularmente
+    demonstrada por todos os novos acionistas, considerando aportes de capital de R$ 100 milhões e laudos
+    a valor de mercado.
+  source_ids:
+  - src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
+  - src-timesbrasil-2026-04-24-bc-divulga-votos-do-maxima
+- by_id: daniel-vorcaro
+  kind: not_located
+  summary: Manifestação do banqueiro sobre o conteúdo do voto de 2019 não localizada nas fontes lidas.
+kind: claim
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: Tentou-se opor ao voto de fevereiro o voto de outubro do mesmo ano, que afirma
+    o contrário sobre a origem dos recursos, e considerar que os extratos liberados têm trechos cobertos
+    por tarjas justamente na descrição do fundo comprador. Nenhuma das duas versões pôde ser conferida
+    no documento integral, e as reportagens que as sustentam vêm de dois veículos com origens distintas.
+    Mantida como alegação em disputa, sem conclusão sobre qual das duas leituras prevalece.
+  outcome: disputed

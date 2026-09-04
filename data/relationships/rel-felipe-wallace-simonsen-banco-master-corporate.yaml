@@ -1,0 +1,27 @@
+id: rel-felipe-wallace-simonsen-banco-master-corporate
+from_id: felipe-wallace-simonsen
+to_id: banco-master
+relationship_type: corporate
+label: grupo de controle proposto
+start_date: '2019-05-02'
+description: Integrou o grupo de controle de três nomes apresentado ao Banco Central em maio de 2019,
+  no pedido que resultou na autorização de outubro daquele ano.
+evidence_class: A
+confidence: 0.7
+status: unverified
+event_ids:
+- evt-2019-05-02-novo-pedido-com-grupo-de-controle-de-tres-nomes
+evidence_ids:
+- ev-valor-grupo-de-controle-apresentado-em-maio-de-2019
+source_ids:
+- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+directed: false
+document_ids: []
+transaction_ids: []
+cited_position: []
+kind: relationship
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

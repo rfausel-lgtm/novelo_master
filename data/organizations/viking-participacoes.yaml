@@ -3,19 +3,25 @@ kind: organization
 name: Viking Participações
 aliases: []
 org_type: company
-summary: Empresa que, segundo os documentos da PET 16.662 divulgados pelo Poder360, firmou em maio de
-  2025 contrato de R$ 50 milhões com o escritório Barci de Moraes e um acordo de dação em pagamento. A
-  relação da empresa com o grupo Master não foi verificada pela equipe editorial.
-why_in_novelo: Aparece como contratante do escritório Barci de Moraes nos documentos da PET 16.662 tornados
+summary: 'Empresa tratada como do banqueiro nos votos do Banco Central sobre a transferência de controle
+  do Banco Máxima: segundo o voto BCB 20/2019, na reconstituição publicada a partir dos extratos obtidos
+  pelo Valor Econômico, seu patrimônio cresceu com laudos de reavaliação de imóveis de duas controladas
+  e ela aportou no fundo que comprou a participação do antigo controlador. Segundo os documentos da PET
+  16.662 divulgados pelo Poder360, firmou em maio de 2025 contrato de R$ 50 milhões com o escritório Barci
+  de Moraes e um acordo de dação em pagamento.'
+why_in_novelo: Aparece como origem dos recursos da aquisição do controle do banco, segundo os votos do
+  Banco Central, e como contratante do escritório Barci de Moraes nos documentos da PET 16.662 tornados
   públicos pelo STF.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- Controle societário e relação com o Banco Master não verificados em registro oficial.
+- Quadro societário e CNPJ não verificados em registro oficial.
 source_ids:
 - src-poder360-2026-09-01-integras-pet-16662
 - src-poder360-2026-09-02-dois-contratos-barci
+- src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
+- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

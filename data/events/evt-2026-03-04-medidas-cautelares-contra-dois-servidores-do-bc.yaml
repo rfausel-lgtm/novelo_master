@@ -1,0 +1,44 @@
+id: evt-2026-03-04-medidas-cautelares-contra-dois-servidores-do-bc
+title: Busca e apreensão e cautelares contra dois servidores do Banco Central
+event_type: investigation_step
+date: '2026-03-04'
+participant_ids:
+- policia-federal
+- supremo-tribunal-federal
+- paulo-sergio-neves-de-souza
+- belline-santana
+- banco-central-do-brasil
+- daniel-vorcaro
+description: Na mesma fase da Operação Compliance Zero em que foi decretada a prisão preventiva do banqueiro,
+  o ex-diretor de fiscalização Paulo Sérgio Neves de Souza e o ex-chefe do Departamento de Supervisão
+  Bancária Belline Santana foram alvo de busca e apreensão, afastados de seus cargos por decisão judicial
+  e submetidos a medidas cautelares, entre elas monitoramento eletrônico. Ambos já estavam afastados no
+  âmbito de apuração interna do próprio Banco Central sobre eventuais omissões no caso. Segundo a Polícia
+  Federal, são suspeitos de ter atuado em favor dos interesses do grupo investigado.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-buscas-e-cautelares-contra-dois-servidores-do-bc
+- ev-senado-cargos-dos-dois-servidores-do-bc
+source_ids:
+- src-platobr-2026-03-04-medidas-contra-ex-dirigentes-do-bc
+- src-portoferreira-2026-03-05-cautelares-paulo-sergio-neves-de-souza
+- src-senado-2026-03-24-stf-libera-belline-santana-de-depor
+cited_position:
+- by_id: paulo-sergio-neves-de-souza
+  kind: denial
+  summary: Negou vantagem indevida e afirmou que não simulou a venda de um sítio, dizendo que o negócio
+    foi feito a valor de mercado.
+  source_ids:
+  - src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- by_id: belline-santana
+  kind: not_located
+  summary: Manifestação própria não localizada nas fontes lidas.
+document_ids: []
+public_act_ids: []
+kind: event
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

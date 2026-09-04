@@ -1,0 +1,28 @@
+id: rel-joao-manoel-pinho-de-mello-banco-central-do-brasil-institutional
+from_id: joao-manoel-pinho-de-mello
+to_id: banco-central-do-brasil
+relationship_type: institutional
+label: diretor do Banco Central
+start_date: '2019-10-14'
+description: Era diretor do Banco Central quando relatou o voto BCB 218/2019, que aprovou a transferência
+  de controle do Banco Máxima.
+evidence_class: C
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2019-10-14-bc-aprova-a-transferencia-de-controle-do-maxima
+evidence_ids:
+- ev-voto-218-2019-aprova-transferencia-de-controle
+source_ids:
+- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- src-timesbrasil-2026-04-24-bc-divulga-votos-do-maxima
+directed: false
+document_ids: []
+transaction_ids: []
+cited_position: []
+kind: relationship
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

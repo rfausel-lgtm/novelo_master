@@ -1,0 +1,25 @@
+id: rev-2026-09-04-lote-20-operacionalizacao-dos-pagamentos-bc
+kind: revision
+date: '2026-09-03'
+title: 'Lote 20: como os pagamentos aos servidores do Banco Central teriam sido operacionalizados'
+summary: 'Enquanto este lote era montado, uma segunda sessão de pesquisa publicou, em paralelo, um lote
+  muito mais completo sobre os mesmos dois servidores do Banco Central (Paulo Sérgio Neves de Souza e
+  Belline Santana), a partir da origem do controle do Banco Máxima. Reconciliado por merge: mantidos os
+  registros de pessoa da outra sessão (mais ricos, com a grafia correta ''Belline'' segundo a Agência
+  Senado e a negativa do próprio Paulo Sérgio). Este lote soma a camada que faltava — como os pagamentos
+  teriam sido operacionalizados: mensagens de WhatsApp entre Fabiano Zettel e Vorcaro (''Belline cobrando.
+  Paga?'' / ''Claro''), o contrato fictício de consultoria com a Varajo Consultoria Empresarial (objeto
+  declarado: estudo sobre integração do mercado jovem) e a operadora Ana Cláudia Queiroz de Paiva. Classificação
+  A: é apuração relatada pela imprensa, sem confissão nem condenação.'
+affected_ids:
+- paulo-sergio-neves-de-souza
+- belline-santana
+- fabiano-zettel
+- ana-claudia-queiroz-de-paiva
+- varajo-consultoria-empresarial
+reason: Camada complementar identificada em fonte de imprensa distinta da usada pela outra sessão de pesquisa.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

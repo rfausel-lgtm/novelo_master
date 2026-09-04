@@ -1,0 +1,30 @@
+id: seq-do-veto-ao-aval-na-compra-do-maxima-2019
+kind: temporal_sequence
+title: 'Do veto ao aval: oito meses entre a rejeição e a aprovação do controle do Máxima'
+step_ids:
+- evt-2019-02-bc-rejeita-a-transferencia-de-controle-do-maxima
+- evt-2019-05-02-novo-pedido-com-grupo-de-controle-de-tres-nomes
+- evt-2019-10-14-bc-aprova-a-transferencia-de-controle-do-maxima
+temporal_proximity: medium
+documentary_link: partial
+causality_proven: false
+description: Em fevereiro de 2019 o Banco Central indeferiu a transferência de controle do Banco Máxima
+  por falta de comprovação da origem dos recursos e de capacidade financeira. Em 2 de maio foi protocolado
+  novo pedido, com grupo de controle de três nomes e nova documentação. Em 14 de outubro, já sob outra
+  presidência, a autarquia aprovou a operação, registrando que a origem dos recursos havia sido regularmente
+  demonstrada.
+limits: A sequência mostra a mudança de decisão, não sua causa. As fontes disponíveis são extratos dos
+  votos, com trechos cobertos por tarjas, e relatos de fontes não identificadas. Não se conclui daqui
+  qualquer irregularidade na aprovação, nem se atribui a decisão a interferência externa.
+source_ids:
+- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
+- src-timesbrasil-2026-04-24-bc-divulga-votos-do-maxima
+evidence_ids:
+- ev-voto-20-2019-rejeita-transferencia-de-controle
+- ev-voto-218-2019-aprova-transferencia-de-controle
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

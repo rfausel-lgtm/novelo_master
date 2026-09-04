@@ -1,30 +1,32 @@
 id: paulo-sergio-neves-de-souza
-kind: person
 name: Paulo Sérgio Neves de Souza
 category: public_official
-role: Ex-diretor de Fiscalização do Banco Central do Brasil (2019-2023)
-positions: []
-summary: 'Servidor de carreira do Banco Central desde 1998 (inspetor, supervisor, gerente técnico, chefe
-  de divisão na Desup, consultor, chefe de gestão estratégica, chefe da Desup e diretor de Fiscalização/Supervisão
-  entre 2019 e 2023). Segundo a decisão do ministro André Mendonça na PET 15556 e apuração da PF, teria
-  atuado como consultor informal de Daniel Vorcaro: revisava documentos do Banco Master antes do envio
-  ao Banco Central, alertava sobre achados do sistema de monitoramento e orientava Vorcaro sobre postura
-  e argumentos para reuniões com a diretoria do BC. Em contrapartida, teria recebido vantagens por meio
-  de contrato fictício de consultoria com a empresa Varajo Consultoria Empresarial e uma viagem à Disney/Universal,
-  em Orlando. Recebeu medidas cautelares em 04/03/2026: tornozeleira eletrônica, proibição de contato
-  com testemunhas, proibição de acesso ao Banco Central, restrição de viagem, entrega de passaporte em
-  48 horas e suspensão da função pública. Não houve prisão preventiva.'
-why_in_novelo: Ex-diretor do Banco Central apontado, na decisão do STF que decretou a prisão preventiva
-  de Vorcaro, como alvo de medidas cautelares por suposta prestação de consultoria informal ao Banco Master
-  em troca de vantagens indevidas.
+aliases:
+- Paulo Sérgio Neves de Sousa
+role: Diretor de Fiscalização do Banco Central (2019-2023)
+summary: Servidor de carreira do Banco Central. Segundo o Valor Econômico, afirmou na reunião de diretoria
+  de outubro de 2019 que eventuais problemas de conduta do pretendente ao controle do Máxima poderiam
+  ser coibidos pela supervisão. Em março de 2026 foi alvo de busca e apreensão na Operação Compliance
+  Zero e passou a cumprir medidas cautelares determinadas pelo STF, entre elas monitoramento eletrônico;
+  a Polícia Federal o considera suspeito de ter usado influência no Banco Central em favor de Daniel Vorcaro.
+  Já estava afastado no âmbito de apuração interna da própria autarquia.
+why_in_novelo: Dirigiu a área de fiscalização do Banco Central no período de supervisão do banco e é alvo
+  de medidas cautelares determinadas pelo STF na investigação.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+- by_id: paulo-sergio-neves-de-souza
+  kind: denial
+  summary: Negou vantagem indevida e afirmou que não simulou a venda de um sítio, dizendo que o negócio
+    foi feito a valor de mercado.
+  source_ids:
+  - src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
 source_ids:
-- src-stf-2026-03-04-prisao-preventiva-vorcaro
-- src-timesbrasil-2026-03-quem-e-paulo-sergio
-- src-timesbrasil-2026-03-mensagens-belline-cobrando
+- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- src-platobr-2026-03-04-medidas-contra-ex-dirigentes-do-bc
+- src-portoferreira-2026-03-05-cautelares-paulo-sergio-neves-de-souza
+- src-senado-2026-03-24-stf-libera-belline-santana-de-depor
+positions: []
+open_questions: []
+kind: person
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
