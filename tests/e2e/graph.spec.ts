@@ -58,6 +58,11 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
     expect(after).not.toEqual(before);
   });
 
+  test("primeira visita recebe orientação em vez de painel vazio", async ({ page }) => {
+    await expect(page.getByText("Como ler este mapa")).toBeVisible();
+    await expect(page.getByText(/Cor.*natureza da relação/)).toBeVisible();
+  });
+
   test("busca sem resultado avisa em vez de falhar em silêncio", async ({ page }) => {
     const search = page.getByRole("combobox", { name: /Buscar pessoa/i });
     await search.fill("zzzqx");

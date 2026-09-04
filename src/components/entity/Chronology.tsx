@@ -89,7 +89,44 @@ export function Chronology({ items }: { items: TimelineItem[] }) {
               <h2 id={`g-${label}`} className="text-fg-3 sticky top-14 z-10 mb-2 bg-[var(--bg)] py-1 font-mono text-[11px] tracking-[0.2em] uppercase">
                 {label}
               </h2>
-              <div className="overflow-x-auto">
+              {/*
+                Abaixo de md a tabela dava 112px fixos à data e deixava ~150px para o título, que
+                quebrava em cinco linhas. Cartões empilhados no celular, tabela no desktop; só um
+                dos dois é renderizado, então leitores de tela veem uma versão apenas.
+              */}
+              <ul className="divide-border divide-y md:hidden">
+                {list.map((it) => (
+                  <li key={it.id} className="py-3">
+                    <div className="text-fg-3 flex flex-wrap items-center gap-x-2 gap-y-1 text-[11px]">
+                      <time dateTime={it.date} className="font-mono">
+                        {formatPartialDate(it.date, it.datePrecision)}
+                      </time>
+                      <span aria-hidden="true">·</span>
+                      <span>{it.kindLabel}</span>
+                      <EvidenceBadge cls={it.evidenceClass} />
+                    </div>
+                    <Link href={it.href} className="text-fg hover:text-accent mt-1 block text-[15px] leading-snug font-medium underline-offset-2 hover:underline">
+                      {it.title}
+                    </Link>
+                    <p className="text-fg-3 mt-1 line-clamp-2 text-xs">{it.description}</p>
+                    {it.agents.length > 0 && (
+                      <p className="text-fg-3 mt-1 text-xs">
+                        {it.agents.slice(0, 3).map((a, i) => (
+                          <span key={a.id}>
+                            {i > 0 && ", "}
+                            <Link href={a.href} className="hover:text-fg">
+                              {a.name}
+                            </Link>
+                          </span>
+                        ))}
+                        {it.agents.length > 3 && ` +${it.agents.length - 3}`}
+                      </p>
+                    )}
+                  </li>
+                ))}
+              </ul>
+
+              <div className="hidden overflow-x-auto md:block">
                 <table className="w-full text-left text-sm">
                   <caption className="sr-only">Registros de {label}</caption>
                   <thead className="sr-only">

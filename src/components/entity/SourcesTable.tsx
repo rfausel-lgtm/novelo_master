@@ -50,7 +50,41 @@ export function SourcesTable({ rows }: { rows: SourceRow[] }) {
           {filtered.length} de {rows.length}
         </span>
       </div>
-      <div className="overflow-x-auto">
+      {/*
+        Seis colunas em 375px deixavam ~110px para o titulo da fonte, com "Verificada" e "Usos"
+        cortadas fora da viewport e sem pista de que havia mais a direita.
+      */}
+      <ul className="divide-border divide-y md:hidden">
+        {filtered.map((r) => (
+          <li key={r.id} className="py-3">
+            <div className="text-fg-3 flex flex-wrap items-center gap-x-2 text-[11px]">
+              <span className="font-mono">{r.date ? formatPartialDate(r.date) : "s/d"}</span>
+              <span aria-hidden="true">·</span>
+              <span className={r.official ? "text-rel-financial" : ""}>
+                {r.official ? "Oficial · " : ""}
+                {r.typeLabel}
+              </span>
+              {r.verified && <span aria-label="Fonte verificada">· verificada</span>}
+            </div>
+            <Link href={`/fontes/${r.id}`} className="text-fg hover:text-accent mt-1 block text-[15px] leading-snug font-medium underline-offset-2 hover:underline">
+              {r.title}
+            </Link>
+            <p className="text-fg-2 mt-1 text-xs">
+              {r.publisher}
+              {r.url ? (
+                <>
+                  {" · "}
+                  <a href={r.url} target="_blank" rel="noreferrer noopener" className="text-accent underline underline-offset-2">
+                    original
+                  </a>
+                </>
+              ) : null}
+            </p>
+          </li>
+        ))}
+      </ul>
+
+      <div className="hidden overflow-x-auto md:block">
         <table className="w-full text-left text-sm">
           <caption className="sr-only">Fontes do corpus</caption>
           <thead className="text-fg-3 text-xs uppercase">
@@ -60,7 +94,8 @@ export function SourcesTable({ rows }: { rows: SourceRow[] }) {
               <th scope="col" className="py-2 pr-3">Veículo</th>
               <th scope="col" className="py-2 pr-3">Tipo</th>
               <th scope="col" className="py-2 pr-3">Verificada</th>
-              <th scope="col" className="py-2">Usos</th>
+              <th scope="col" className="py-2 pr-3">Usos</th>
+              <th scope="col" className="py-2">Original</th>
             </tr>
           </thead>
           <tbody className="divide-border divide-y">
@@ -77,7 +112,16 @@ export function SourcesTable({ rows }: { rows: SourceRow[] }) {
                   <span className={r.official ? "text-rel-financial" : "text-fg-2"}>{r.official ? "Oficial · " : ""}{r.typeLabel}</span>
                 </td>
                 <td className="text-fg-2 py-2 pr-3 text-xs">{r.verified ? "sim" : "não"}</td>
-                <td className="text-fg-2 py-2 text-xs tabular-nums">{r.uses}</td>
+                <td className="text-fg-2 py-2 pr-3 text-xs tabular-nums">{r.uses}</td>
+                <td className="py-2 text-xs">
+                  {r.url ? (
+                    <a href={r.url} target="_blank" rel="noreferrer noopener" className="text-accent underline underline-offset-2">
+                      abrir
+                    </a>
+                  ) : (
+                    <span className="text-fg-3">—</span>
+                  )}
+                </td>
               </tr>
             ))}
           </tbody>

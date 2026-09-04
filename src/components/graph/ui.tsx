@@ -94,9 +94,9 @@ export function Chip({ color, children }: { color?: string; children: ReactNode 
   );
 }
 
-export function Counter({ label, value }: { label: string; value: number }) {
+export function Counter({ label, value, title }: { label: string; value: number; title?: string }) {
   return (
-    <div className="bg-bg-3/70 rounded px-2 py-1.5">
+    <div className="bg-bg-3/70 rounded px-2 py-1.5" title={title}>
       <div className="text-fg text-base leading-none font-semibold tabular-nums">{value}</div>
       <div className="text-fg-3 mt-1 text-[10.5px] leading-none">{label}</div>
     </div>

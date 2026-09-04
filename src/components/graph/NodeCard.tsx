@@ -196,11 +196,17 @@ export function NodeCard(props: NodeCardProps) {
         </>
       )}
 
-      <div className="mt-4 grid grid-cols-4 gap-1.5">
-        <Counter label="conexões" value={visibleStats.connections} />
-        <Counter label="eventos" value={visibleStats.events} />
-        <Counter label="fontes oficiais" value={visibleStats.officialSources} />
-        <Counter label="evidências" value={visibleStats.evidence} />
+      {/*
+        Estes números contam o que está visível agora, não o corpus inteiro — o dossiê conta o
+        corpus. Sem dizer isso, o mesmo rótulo aparecia com dois valores diferentes, que é
+        exatamente o tipo de divergência que um leitor cético usa para desacreditar o resto.
+      */}
+      <SectionHeading>Neste recorte do mapa</SectionHeading>
+      <div className="grid grid-cols-4 gap-1.5">
+        <Counter label="conexões" value={visibleStats.connections} title="Conexões visíveis com os filtros e o recorte temporal atuais. O dossiê traz o total do corpus." />
+        <Counter label="eventos" value={visibleStats.events} title="Eventos alcançados pelas conexões visíveis." />
+        <Counter label="fontes oficiais" value={visibleStats.officialSources} title="Fontes oficiais que sustentam as conexões visíveis." />
+        <Counter label="evidências" value={visibleStats.evidence} title="Evidências ligadas às conexões visíveis." />
       </div>
 
       <div className="mt-4 flex flex-wrap gap-1.5">

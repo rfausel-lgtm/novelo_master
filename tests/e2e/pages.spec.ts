@@ -21,8 +21,8 @@ test("dossiê de pessoa tem as seções obrigatórias", async ({ page }) => {
 test("fontes listam origem, tipo e verificação", async ({ page }) => {
   await page.goto("/fontes");
   await expect(page.getByRole("heading", { level: 1, name: "Fontes" })).toBeVisible();
-  const rows = page.getByRole("row");
-  await expect(rows.nth(1)).toBeVisible();
+  /* Cartões abaixo de md, tabela a partir de md: o link para o dossiê da fonte existe nos dois. */
+  await expect(page.locator('#conteudo a[href^="/fontes/"]:not([href="/fontes/"]):visible').first()).toBeVisible();
   await page.getByLabel("Somente fontes oficiais").check();
   // Contador "X de N" da tabela; títulos de fonte também terminam em "de <ano>".
   const contador = page.getByText(/^\d+ de \d+$/);

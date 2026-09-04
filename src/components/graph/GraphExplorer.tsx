@@ -25,6 +25,7 @@ import { PathFinder } from "./PathFinder";
 import { TimeMachine } from "./TimeMachine";
 import { BeforeAfter } from "./BeforeAfter";
 import { Legend } from "./Legend";
+import { OrientacaoPanel } from "./OrientacaoPanel";
 import { PanelShell, ToolButton } from "./ui";
 import { useGraphState } from "./useGraphState";
 
@@ -91,6 +92,7 @@ export function GraphExplorer() {
   const [layerPayload, setLayerPayload] = useState<GraphLayerPayload | null>(null);
   const layerRequest = useRef<Promise<GraphLayerPayload> | null>(null);
   const [legendOpen, setLegendOpen] = useState(false);
+  const [orientacaoOculta, setOrientacaoOculta] = useState(false);
   const [toolsOpen, setToolsOpen] = useState(false);
   const [layoutToken, setLayoutToken] = useState(0);
   const [layoutRunning, setLayoutRunning] = useState(false);
@@ -228,6 +230,17 @@ export function GraphExplorer() {
       highlight,
     ],
   );
+
+  /* Pontos de partida: os nós mais conectados do recorte atual, que são o miolo do caso. */
+  const atalhosDePartida = useMemo(() => {
+    if (!index || !view) return [];
+    return [...view.visibleNodes]
+      .map((id) => index.nodeById.get(id))
+      .filter((n): n is NonNullable<typeof n> => !!n && (n.kind === "person" || n.kind === "organization"))
+      .sort((a, b) => b.degree - a.degree)
+      .slice(0, 3)
+      .map((n) => ({ id: n.id, label: n.label }));
+  }, [index, view]);
 
   useEffect(() => {
     const n = visible?.nodes.size ?? null;
@@ -398,7 +411,18 @@ export function GraphExplorer() {
           />
         ) : null;
       default:
-        return null;
+        /*
+         * Nada selecionado: em vez de 40% da tela vazia, o painel ensina a ler o mapa e oferece
+         * três pontos de partida. Some para sempre depois de dispensado.
+         */
+        if (orientacaoOculta) return null;
+        return (
+          <OrientacaoPanel
+            atalhos={atalhosDePartida}
+            onEscolher={(id) => selectNode(id, true)}
+            onFechar={() => setOrientacaoOculta(true)}
+          />
+        );
     }
   })();
 
@@ -508,7 +532,11 @@ export function GraphExplorer() {
           </ToolButton>
           <ToolButton
             active={legendOpen}
-            onClick={() => setLegendOpen((v) => !v)}
+            /* A legenda completa substitui a orientação: a compacta já está dentro dela. */
+            onClick={() => {
+              setLegendOpen((v) => !v);
+              setOrientacaoOculta(true);
+            }}
             aria-expanded={legendOpen}
           >
             Legenda
