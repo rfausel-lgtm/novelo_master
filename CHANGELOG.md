@@ -7,6 +7,12 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 39 do corpus: atualização de Jaques Wagner — depoimento à PF, marcado para 07/08/2026, adiado a
+  pedido da defesa por falta de acesso aos autos, sem nova data; candidatura à reeleição pela Bahia
+  confirmada; negativa própria em entrevista ('não tenho nenhum negócio com o Banco Master') e defesa
+  nominal de Lula na TV Globo. Acrescenta sua menção comparativa no relatório da PF sobre 'assimetria' de
+  prazos que Moraes usou contra Mendonça — apenas como referência de celeridade, não como participante
+  das mensagens Vorcaro-Moraes.
 - Lote 38 do corpus: os oito diretores do Banco Central que aprovaram por unanimidade a compra do Máxima
   por Vorcaro em outubro de 2019 — lista reconstruída por reportagem investigativa, já que o extrato
   oficial só nomeia o relator. Quatro deles (Maurício Moura, Carolina de Assis Barros, Paulo Sérgio Neves

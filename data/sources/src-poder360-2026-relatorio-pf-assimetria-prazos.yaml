@@ -1,0 +1,20 @@
+id: src-poder360-2026-relatorio-pf-assimetria-prazos
+kind: source
+title: Leia o relatório da PF que Moraes usou para imputar crimes a Mendonça
+publisher: Poder360
+publication_date: 2026-09
+retrieved_at: '2026-09-03'
+url: https://www.poder360.com.br/poder-justica/leia-o-relatorio-da-pf-que-moraes-usou-para-imputar-crimes-a-mendonca/
+source_type: press
+summary: Publica o relatório da PF sobre 'assimetria' de prazos decisórios de Mendonça, que cita Jaques
+  Wagner como referência comparativa de celeridade — não como participante das mensagens Vorcaro-Moraes.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

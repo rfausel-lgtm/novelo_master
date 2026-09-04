@@ -1,0 +1,19 @@
+id: ev-lula-defende-wagner-tv-globo
+kind: evidence
+classification: A
+proposition: 'Em entrevista a Renata Vasconcelos na TV Globo, em 27/08/2026, Lula defendeu Wagner nominalmente:
+  ''Tenho consciência de que o Wagner é honesto. Se ele cometeu um crime, vai pagar. Não sou uma pessoa
+  que mudo de calçada se um amigo for acusado'' e ''Jaques tem relação com Augusto [Lima], que não era
+  do Master. Não posso fazer política com base em ilações. As pessoas são inocentes até que se prove o
+  contrário''.'
+document_ids: []
+source_ids:
+- src-acordacidade-2026-08-28-lula-defende-wagner
+excerpt: Tenho consciência de que o Wagner é honesto. Se ele cometeu um crime, vai pagar.
+attributed_to: Acorda Cidade, citando entrevista à TV Globo
+date: '2026-08-27'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

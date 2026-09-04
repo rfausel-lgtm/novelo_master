@@ -1,0 +1,19 @@
+id: src-acordacidade-2026-08-28-lula-defende-wagner
+kind: source
+title: Lula diz que Jaques Wagner é honesto e rejeita acusações sem provas no caso Master
+publisher: Acorda Cidade
+publication_date: '2026-08-28'
+retrieved_at: '2026-09-03'
+url: https://www.acordacidade.com.br/politica/eleicoes/lula-diz-que-jaques-wagner-e-honesto-e-rejeita-acusacoes-sem-provas-no-caso-master/
+source_type: press
+summary: Entrevista de Lula a Renata Vasconcelos na TV Globo, em 27/08/2026, defendendo Wagner nominalmente.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

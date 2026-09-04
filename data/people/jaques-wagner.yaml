@@ -10,7 +10,12 @@ positions:
   - src-senado-2024-08-14-pec-65-adiada
 summary: Senador pela Bahia e líder do governo no Senado. Em 14/08/2024 pediu vista da PEC 65/2023 na
   CCJ. Em 18/06/2026 foi alvo de busca e apreensão na 9ª fase da Compliance Zero, autorizada por André
-  Mendonça, que apura corrupção e lavagem; não respondeu ao Poder360 na ocasião.
+  Mendonça, que apura corrupção e lavagem; não respondeu ao Poder360 na ocasião. Seu depoimento à PF,
+  marcado para 07/08/2026, foi adiado a pedido da defesa por falta de acesso aos autos, sem nova data
+  marcada até setembro de 2026. Confirmou candidatura à reeleição pela Bahia e negou publicamente qualquer
+  negócio com o Master ou com Augusto Lima; Lula o defendeu nominalmente. É citado no relatório da PF
+  que embasou a decisão de Moraes contra Mendonça em 03/09/2026, apenas como referência comparativa de
+  prazo processual.
 why_in_novelo: Foi alvo de busca e apreensão na 9ª fase da Operação Compliance Zero, segundo a imprensa,
   e atuou na tramitação da PEC 65/2023 no Senado.
 cited_position:
@@ -54,6 +59,9 @@ source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-08-27-lula-defende-wagner
 - src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+- src-agenciabrasil-2026-08-07-wagner-depoimento-adiado
+- src-anoticiadovale-2026-09-02-wagner-inocencia-eleicoes
+- src-acordacidade-2026-08-28-lula-defende-wagner
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Jaques_Wagner
 review_status: published

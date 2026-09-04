@@ -1,0 +1,22 @@
+id: ev-relatorio-pf-wagner-9-dias-comparativo
+kind: evidence
+classification: A
+proposition: 'O relatório da PF sobre ''assimetria'' de prazos decisórios de Mendonça, usado por Moraes
+  na crise institucional de 03/09/2026 (lote 28), cita Jaques Wagner apenas como referência comparativa
+  de celeridade processual — não como participante das mensagens Vorcaro-Moraes: ''Uma medida relacionada
+  a Wagner foi apresentada em 8 de junho de 2026 e decidida em 17 de junho, 9 dias depois'', contra 29
+  dias no caso de Ciro Nogueira e 75 dias no caso de Cláudio Castro. O próprio relatório é descrito como
+  trabalhando ''com hipóteses, sem conclusões definitivas'' sobre a assimetria. Wagner não consta na lista
+  de nomes citados nas mensagens propriamente ditas entre Vorcaro e o contato ''Alexandre de Moraes BRASILIA''.'
+document_ids: []
+source_ids:
+- src-poder360-2026-relatorio-pf-assimetria-prazos
+excerpt: Uma medida relacionada a Wagner foi apresentada em 8 de junho de 2026 e decidida em 17 de junho,
+  9 dias depois.
+attributed_to: Poder360, com base em relatório da PF cujo sigilo foi levantado por Alexandre de Moraes
+date: '2026-06-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
