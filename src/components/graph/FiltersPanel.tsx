@@ -33,6 +33,8 @@ interface FiltersPanelProps {
   visibleNodes: number;
   visibleEdges: number;
   layerLoading?: boolean;
+  layerError?: boolean;
+  onRetryLayer?: () => void;
   onClose: () => void;
 }
 
@@ -75,6 +77,8 @@ export function FiltersPanel({
   visibleNodes,
   visibleEdges,
   layerLoading = false,
+  layerError = false,
+  onRetryLayer,
   onClose,
 }: FiltersPanelProps) {
   return (
@@ -139,11 +143,25 @@ export function FiltersPanel({
         >
           CAMADA DE EVIDÊNCIA
         </ToolButton>
-        <p className="text-fg-3 mt-1 text-[11px]" aria-live="polite">
-          {layerLoading
-            ? "Carregando a camada probatória…"
-            : "Exibe documentos, fontes, claims e evidências e seus vínculos de rastreabilidade. Baixada sob demanda."}
-        </p>
+        {layerError ? (
+          <p className="text-fg-3 mt-1 text-[11px]" role="alert">
+            Não foi possível carregar a camada probatória.{" "}
+            <button
+              type="button"
+              onClick={onRetryLayer}
+              className="text-accent underline underline-offset-2"
+            >
+              Tentar novamente
+            </button>
+            .
+          </p>
+        ) : (
+          <p className="text-fg-3 mt-1 text-[11px]" aria-live="polite">
+            {layerLoading
+              ? "Carregando a camada probatória…"
+              : "Exibe documentos, fontes, claims e evidências e seus vínculos de rastreabilidade. Baixada sob demanda."}
+          </p>
+        )}
       </div>
 
       <SectionHeading>Tipo de nó</SectionHeading>
