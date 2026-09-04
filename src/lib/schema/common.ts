@@ -94,4 +94,55 @@ export const PhotoSchema = z.object({
 });
 export type Photo = z.infer<typeof PhotoSchema>;
 
+/**
+ * Lugar geolocalizado. Só para lugares que são, eles próprios, fato do caso — um imóvel sob
+ * investigação, a sede de uma instituição, um prédio público. NUNCA residência de pessoa: a política
+ * editorial proíbe endereço residencial, e uma coordenada é forma mais precisa de endereço.
+ *
+ * Uma coordenada é uma afirmação sobre onde algo fica, e como toda afirmação aqui, precisa de fonte
+ * quando a precisão for melhor que o município.
+ */
+export const PlaceKindSchema = z.enum([
+  "property", // terreno, imóvel, fazenda
+  "building", // sede, escritório, prédio identificado
+  "public_body", // órgão público
+  "venue", // hotel, clube, local de evento
+  "airport",
+  "city",
+  "region",
+]);
+export type PlaceKind = z.infer<typeof PlaceKindSchema>;
+
+export const PLACE_KIND_LABEL: Record<PlaceKind, string> = {
+  property: "Imóvel",
+  building: "Edificação",
+  public_body: "Órgão público",
+  venue: "Local de evento",
+  airport: "Aeroporto",
+  city: "Município",
+  region: "Região",
+};
+
+export const PlacePrecisionSchema = z.enum(["exact", "approximate", "city"]);
+export type PlacePrecision = z.infer<typeof PlacePrecisionSchema>;
+
+export const PLACE_PRECISION_LABEL: Record<PlacePrecision, string> = {
+  exact: "coordenada do lugar",
+  approximate: "localização aproximada",
+  city: "centro do município",
+};
+
+export const PlaceSchema = z.object({
+  /** Como o lugar é chamado no texto: "Terreno em Jequitibá (MG)". */
+  name: z.string().min(1),
+  kind: PlaceKindSchema,
+  lat: z.number().min(-90).max(90),
+  lon: z.number().min(-180).max(180),
+  precision: PlacePrecisionSchema,
+  /** O que a coordenada NÃO diz: limites do imóvel, matrícula não localizada etc. */
+  note: z.string().optional(),
+  source_ids: z.array(IdSchema).default([]),
+});
+export type Place = z.infer<typeof PlaceSchema>;
+
 export const ConfidenceSchema = z.number().min(0).max(1);

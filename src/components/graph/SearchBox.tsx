@@ -116,7 +116,8 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
           id={listId}
           role="listbox"
           aria-label="Resultados da busca"
-          className="border-border-strong bg-bg-2 absolute z-30 mt-1 max-h-72 w-full overflow-y-auto rounded-md border py-1 shadow-xl"
+          /* Largura independente do input: em 256px todo evento virava "Encontro entre o minist…". */
+          className="border-border-strong bg-bg-2 absolute z-30 mt-1 max-h-72 w-full min-w-full overflow-y-auto rounded-md border py-1 shadow-xl md:min-w-[26rem]"
         >
           {hits.length === 0 && (
             <li className="text-fg-2 px-3 py-2 text-sm" role="presentation">
@@ -135,9 +136,12 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
               onClick={() => pick(hit)}
               className={`flex cursor-pointer items-center justify-between gap-2 px-3 py-1.5 text-sm ${i === active ? "bg-bg-3 text-fg" : "text-fg-2"}`}
             >
-              <span className="truncate">{hit.node.label}</span>
-              <span className="text-fg-3 shrink-0 text-[10.5px]">
-                {NODE_CATEGORY_LABEL[hit.node.category]} · {hit.node.degree}
+              <span className="line-clamp-2 min-w-0">{hit.node.label}</span>
+              <span
+                className="text-fg-3 shrink-0 text-[10.5px]"
+                title={`${NODE_CATEGORY_LABEL[hit.node.category]} · ${hit.node.degree} conexões`}
+              >
+                {NODE_CATEGORY_LABEL[hit.node.category]}
               </span>
             </li>
           ))}

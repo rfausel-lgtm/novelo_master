@@ -8,6 +8,7 @@ import {
   ReviewTrailSchema,
   CitedPositionSchema,
   PhotoSchema,
+  PlaceSchema,
   ConfidenceSchema,
 } from "./common";
 
@@ -301,6 +302,8 @@ export const OrganizationSchema = z
     open_questions: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     source_ids: z.array(IdSchema).default([]),
+    /** Sede ou endereço institucional, quando for fato do caso. Nunca residência. */
+    place: PlaceSchema.optional(),
     external_ids: z
       .object({
         wikidata: z.string().optional(),
@@ -362,6 +365,8 @@ export const EventSchema = z
     date_precision: DatePrecisionSchema.default("day"),
     end_date: PartialDateSchema.optional(),
     location: z.string().optional(),
+    /** Lugar geolocalizado, quando o lugar é ele próprio um fato do caso. */
+    place: PlaceSchema.optional(),
     /** Entidades (pessoas/organizações) que participaram ou são objeto do evento. */
     participant_ids: z.array(IdSchema).default([]),
     description: z.string().min(1),

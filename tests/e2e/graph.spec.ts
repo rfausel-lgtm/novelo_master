@@ -1,5 +1,15 @@
 import { test, expect, type Page } from "@playwright/test";
 
+/** As ações secundárias do card de nó ficam atrás de "Mais ações". */
+async function abrirMaisAcoes(page: Page) {
+  const resumo = page.getByText("Mais ações", { exact: true });
+  if (!(await resumo.isVisible())) return;
+  /* Idempotente: o <summary> continua visível depois de aberto, e clicar de novo fecharia. */
+  const bloco = page.locator("details", { has: resumo });
+  if (await bloco.evaluate((el) => (el as HTMLDetailsElement).open)) return;
+  await resumo.click();
+}
+
 /** No mobile as ferramentas secundárias ficam atrás de um botão; no desktop já estão abertas. */
 async function abrirFerramentas(page: Page) {
   const toggle = page.getByRole("button", { name: "Ferramentas" });
@@ -92,9 +102,11 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
     await search.fill("Pessoa Exemplo 2");
     await page.getByRole("option").first().click();
 
+    await abrirMaisAcoes(page);
     await expect(page.getByRole("button", { name: /Expandir para o terceiro grau/ })).toContainText(
       /\+\d+/,
     );
+    await abrirMaisAcoes(page);
     await page.getByRole("button", { name: /Expandir para o terceiro grau/ }).click();
     await page.getByRole("button", { name: "Fixar nó no layout" }).click();
     await expect(page.getByRole("button", { name: "Desafixar nó" })).toBeVisible();

@@ -12,6 +12,7 @@ import { loadCorpus } from "./lib/load";
 import { lintCorpus } from "./lib/lint";
 import { buildGraph, splitEvidenceLayer } from "./lib/graph";
 import { printIssues } from "./lib/report";
+import { construirKml } from "./lib/kml";
 
 const ROOT = path.resolve(__dirname, "..");
 const DATA_DIR = path.join(ROOT, "data");
@@ -45,6 +46,14 @@ fs.writeFileSync(path.join(GENERATED_DIR, "stats.json"), JSON.stringify(graph.st
 const { base, layer } = splitEvidenceLayer(graph);
 fs.writeFileSync(path.join(PUBLIC_DATA_DIR, "graph.json"), JSON.stringify(base));
 fs.writeFileSync(path.join(PUBLIC_DATA_DIR, "graph-evidence.json"), JSON.stringify(layer));
+/*
+ * KML com tudo que tem coordenada. O link para o Google Earth resolve um lugar de cada vez; quem
+ * quer abrir o caso inteiro (jornalista, pesquisador) precisa de um arquivo só, e o KML abre no
+ * Earth, no Maps e no QGIS sem conversão.
+ */
+const kml = construirKml(corpus);
+fs.writeFileSync(path.join(PUBLIC_DATA_DIR, "novelo.kml"), kml.texto);
+
 fs.writeFileSync(
   path.join(GENERATED_DIR, ".gitkeep"),
   "# gerado por scripts/build-data.ts — não editar\n",
@@ -57,5 +66,6 @@ console.log(
     `${s.public_acts} atos, ${s.relationships} relações, ${s.documents} documentos, ` +
     `${s.sources} fontes (${s.official_sources} oficiais), ${s.evidence} evidências → ` +
     `${base.nodes.length} nós / ${base.edges.length} arestas no núcleo ` +
-    `(+${layer.nodes.length} nós e ${layer.edges.length} arestas na camada probatória)`,
+    `(+${layer.nodes.length} nós e ${layer.edges.length} arestas na camada probatória; ` +
+    `${kml.lugares} lugar(es) no KML)`,
 );

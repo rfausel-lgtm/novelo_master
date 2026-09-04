@@ -52,14 +52,15 @@ function Check({
   return (
     <label
       htmlFor={id}
-      className="hover:bg-bg-3/60 flex cursor-pointer items-center gap-2 rounded px-1 py-0.5"
+      /* Linha de ~22px era alvo pequeno demais no toque, com quarenta caixas empilhadas. */
+      className="hover:bg-bg-3/60 flex min-h-11 cursor-pointer items-center gap-2 rounded px-1 py-0.5 md:min-h-0"
     >
       <input
         id={id}
         type="checkbox"
         checked={checked}
         onChange={onChange}
-        className="accent-accent h-3.5 w-3.5"
+        className="accent-accent h-4 w-4 shrink-0 md:h-3.5 md:w-3.5"
       />
       {color && (
         <span aria-hidden="true" className="h-2 w-2 rounded-full" style={{ background: color }} />

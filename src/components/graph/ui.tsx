@@ -14,7 +14,8 @@ export function ToolButton({
   ...rest
 }: ButtonHTMLAttributes<HTMLButtonElement> & { active?: boolean; primary?: boolean }) {
   const base =
-    "inline-flex h-8 items-center gap-1.5 rounded-md border px-2.5 text-xs font-medium whitespace-nowrap transition-colors disabled:cursor-not-allowed disabled:opacity-40";
+    /* 44px de alvo no toque, 32 no ponteiro: no celular a barra era uma fileira de alvos pequenos. */
+    "inline-flex h-11 items-center gap-1.5 rounded-md border px-3 text-xs font-medium whitespace-nowrap transition-colors disabled:cursor-not-allowed disabled:opacity-40 md:h-8 md:px-2.5";
   const tone = primary
     ? active
       ? "border-accent bg-accent text-bg"
@@ -61,7 +62,7 @@ export function PanelShell({
           type="button"
           onClick={onClose}
           aria-label="Fechar painel"
-          className="text-fg-3 hover:bg-bg-3 hover:text-fg flex h-7 w-7 items-center justify-center rounded"
+          className="text-fg-3 hover:bg-bg-3 hover:text-fg flex h-10 w-10 shrink-0 items-center justify-center rounded md:h-7 md:w-7"
         >
           <span aria-hidden="true">×</span>
         </button>

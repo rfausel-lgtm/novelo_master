@@ -617,6 +617,16 @@ export function GraphExplorer() {
               Sair do foco
             </ToolButton>
           )}
+          {/*
+            No celular o canvas captura o toque e o rodapé é inalcançável: quem não consegue usar o
+            grafo ficava sem nenhuma saída visível para a alternativa em tabela.
+          */}
+          <Link
+            href="/rede"
+            className="border-border-strong text-fg-2 hover:text-fg hover:border-fg-3 inline-flex h-11 items-center rounded-md border px-3 text-xs transition-colors md:hidden"
+          >
+            Ver em tabela
+          </Link>
           <Link
             href="/rede"
             className="text-fg-3 hover:text-fg ml-auto hidden text-xs underline-offset-2 hover:underline md:inline"

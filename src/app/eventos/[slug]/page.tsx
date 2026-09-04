@@ -9,6 +9,7 @@ import { getDocument } from "@/lib/data";
 import { PageShell } from "@/components/entity/PageShell";
 import { Breadcrumbs } from "@/components/entity/Breadcrumbs";
 import { Section, SectionNav, EmptyState } from "@/components/entity/Section";
+import { Lugar } from "@/components/entity/Lugar";
 import { EvidenceBadge, StatusBadge, Pill } from "@/components/entity/badges";
 import { SourceList } from "@/components/entity/SourceList";
 import { CitedPositionBlock } from "@/components/entity/CitedPosition";
@@ -69,6 +70,11 @@ export default async function EventoPage({ params }: { params: Promise<{ slug: s
             Ver no grafo
           </Link>
         </div>
+        {event.place && (
+          <div className="mt-4 max-w-md">
+            <Lugar place={event.place} />
+          </div>
+        )}
       </header>
       <SectionNav items={NAV} />
 
