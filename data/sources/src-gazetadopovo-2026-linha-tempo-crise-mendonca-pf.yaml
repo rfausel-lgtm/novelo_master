@@ -1,0 +1,26 @@
+id: src-gazetadopovo-2026-linha-tempo-crise-mendonca-pf
+kind: source
+title: Como surgiu a crise entre André Mendonça e a cúpula da Polícia Federal
+publisher: Gazeta do Povo
+publication_date: '2026'
+retrieved_at: '2026-09-03'
+url: https://www.gazetadopovo.com.br/republica/como-surgiu-a-crise-entre-andre-mendonca-e-a-cupula-da-policia-federal/
+source_type: press
+summary: 'Reconstrói a origem do atrito: em fevereiro de 2026, ao assumir a relatoria da Compliance Zero,
+  Mendonça restringiu o acesso aos dados do inquérito a policiais diretamente envolvidos — lido pela cúpula
+  da PF como tentativa de reduzir a autoridade de Andrei Rodrigues. A escalada veio com determinações
+  de Mendonça na Sem Desconto: remessa imediata de toda documentação ao seu gabinete, notificação prévia
+  para qualquer troca de policial na equipe, e envio de extrações de dados brutos ao STF durante o inquérito
+  em curso. A PF recorreu à AGU, que optou por buscar diálogo em vez de embate jurídico direto. O atrito
+  seguia sem resolução até setembro de 2026, quando se fundiu à crise mais ampla do caso Master (vazamento
+  das mensagens Vorcaro-Moraes e pedido de prisão do Novo contra Andrei Rodrigues, já registrados no corpus).'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

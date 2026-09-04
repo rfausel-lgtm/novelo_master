@@ -1,0 +1,25 @@
+id: rev-2026-09-04-lote-53-internacional-sem-desconto
+kind: revision
+date: '2026-09-03'
+title: 'Lote 53: repercussão internacional e a Operação Sem Desconto'
+summary: 'Pesquisa conduzida por agente convocado em paralelo, encerrando o ciclo de investigação desta
+  sessão. Parte A: mapeia a repercussão internacional do caso — cobertura investigativa sustentada da
+  Bloomberg e análise institucional do Economist, sem evidência de rebaixamento do rating soberano do
+  Brasil; a falha de avaliação de risco documentada é doméstica, da Fitch sobre o próprio Banco Master.
+  Parte B: esclarece que a Operação Sem Desconto (fraude de descontos do INSS) tem conexão investigativa
+  real com o Master, via o consignado ''M Fácil Consignado'' (ex-CredCesta) e o cruzamento de dados autorizado
+  por Mendonça em 25/02/2026 — e foi a origem concreta do atrito entre Mendonça e a cúpula da PF já registrado
+  no corpus.'
+affected_ids:
+- banco-master
+- daniel-vorcaro
+- credcesta
+- andrei-rodrigues
+- operacao-sem-desconto
+reason: Repercussão internacional e origem da Sem Desconto, delimitadas por pesquisa paralela ao final
+  do ciclo de investigação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

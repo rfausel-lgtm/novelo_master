@@ -1,0 +1,31 @@
+id: operacao-sem-desconto
+kind: organization
+name: Operação Sem Desconto
+aliases: []
+org_type: public_body
+summary: 'Operação da Polícia Federal e da CGU, deflagrada em 23/04/2025, que investiga esquema nacional
+  de descontos associativos não autorizados sobre benefícios do INSS (aposentadorias e pensões), com prejuízo
+  estimado em R$ 6,3 bilhões entre 2019 e 2024 — a mesma matriz de fraude investigada pela CPMI do INSS.
+  Antônio Carlos Camilo Antunes (''Careca do INSS'') é apontado como articulador via entidades associativas.
+  Tem conexão investigativa real, e não apenas circunstancial, com o caso Banco Master: o banco operava,
+  entre 2020 e 2025, o consignado ''M Fácil Consignado'' (rebatização do CredCesta) dentro de convênio
+  do INSS, onde análise conjunta INSS/CGU identificou indícios de fraude (05/03/2026). Em 25/02/2026,
+  a PF obteve autorização de André Mendonça para cruzar formalmente os dados das duas investigações. A
+  gestão dessa operação pelo relator tornou-se também a origem do atrito institucional entre Mendonça
+  e a cúpula da PF (Andrei Rodrigues), que resultou na nota conjunta dos 27 superintendentes regionais
+  em 06/08/2026.'
+why_in_novelo: Operação distinta do caso Master no núcleo, mas com sobreposição investigativa real via
+  o consignado do Master no INSS — e origem direta do atrito institucional Mendonça x cúpula da PF.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-gov-pf-2026-05-sem-desconto-nova-fase
+- src-otempo-2026-03-05-inss-m-facil-consignado-fraude
+- src-gazetadopovo-2026-02-25-pf-cruzamento-master-inss
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

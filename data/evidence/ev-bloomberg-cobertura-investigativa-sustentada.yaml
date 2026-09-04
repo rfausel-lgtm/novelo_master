@@ -1,0 +1,19 @@
+id: ev-bloomberg-cobertura-investigativa-sustentada
+kind: evidence
+classification: C
+proposition: A Bloomberg dedicou cobertura investigativa própria e sustentada ao caso Master ao longo
+  de 2026 (múltiplas reportagens assinadas, mais um gráfico interativo de rede de conexões), tratando-o
+  como estudo de falha regulatória e captura institucional que 'cruza o espectro político e inclui todos
+  os poderes, além do setor privado'. Já o The Economist publicou ao menos duas análises enquadrando o
+  caso como risco de fragilidade institucional. Não foi localizada reportagem investigativa própria de
+  peso do Financial Times ou do Wall Street Journal sobre o caso.
+document_ids: []
+source_ids:
+- src-bloomberg-2026-05-20-brazil-10-billion-scandal-bolsonaro
+- src-timesbrasil-2026-economist-caso-master-riscos-institucionais
+date: 2026-05
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

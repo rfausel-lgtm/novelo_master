@@ -1,0 +1,17 @@
+id: ev-inss-m-facil-consignado-indicios-fraude
+kind: evidence
+classification: A
+proposition: 'O Banco Master operava, entre 2020 e 2025, o consignado ''M Fácil Consignado'' (rebatização
+  do CredCesta) dentro de convênio do INSS. Análise conjunta INSS/CGU, noticiada em 05/03/2026, identificou
+  indícios de fraude nesses contratos: nomes duplicados, ausência de assinatura do segurado e taxas não
+  informadas.'
+document_ids: []
+source_ids:
+- src-otempo-2026-03-05-inss-m-facil-consignado-fraude
+attributed_to: O Tempo, com base em análise conjunta INSS/CGU
+date: '2026-03-05'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

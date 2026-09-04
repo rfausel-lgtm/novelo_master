@@ -9,7 +9,10 @@ summary: Plataforma de crédito consignado oferecida a servidores públicos e pe
   tornar sócio de Daniel Vorcaro no Banco Master em 2019. A mesma representação afirma que o ativo teria
   servido como um dos instrumentos de fraudes de larga escala entre 2024 e 2025, com desfalques ao Banco
   de Brasília. O relatório apresentado à CPMI do INSS, embora rejeitado, descreve o produto como o principal
-  motor de crescimento do banco e o pilar da entrada de Augusto Ferreira Lima na sociedade em 2019.
+  motor de crescimento do banco e o pilar da entrada de Augusto Ferreira Lima na sociedade em 2019. Rebatizado
+  como 'M Fácil Consignado', o produto seguia operando via convênio do INSS entre 2020 e 2025; análise
+  conjunta INSS/CGU, noticiada em 05/03/2026, identificou indícios de fraude nesses contratos — nomes
+  duplicados, ausência de assinatura do segurado e taxas não informadas.
 why_in_novelo: É o ativo que, segundo a Polícia Federal, ligou Augusto Lima ao Banco Master e está no
   centro do modelo de crédito consignado do banco.
 cited_position:
@@ -21,6 +24,7 @@ open_questions:
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
+- src-otempo-2026-03-05-inss-m-facil-consignado-fraude
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

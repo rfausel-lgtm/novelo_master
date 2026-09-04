@@ -1,0 +1,22 @@
+id: src-gov-pf-2026-05-sem-desconto-nova-fase
+kind: source
+title: PF e CGU deflagram nova fase da Operação Sem Desconto
+publisher: Polícia Federal
+publication_date: 2026-05
+retrieved_at: '2026-09-03'
+url: https://www.gov.br/pf/pt-br/assuntos/noticias/2026/05/pf-e-cgu-deflagram-nova-fase-da-operacao-sem-desconto
+source_type: official_police
+summary: Comunicado oficial sobre a Operação Sem Desconto, deflagrada em 23/04/2025 pela PF em conjunto
+  com a CGU, que investiga esquema nacional de descontos associativos não autorizados sobre benefícios
+  do INSS, com prejuízo estimado em R$ 6,3 bilhões entre 2019 e 2024. Antônio Carlos Camilo Antunes, o
+  'Careca do INSS', é apontado como articulador do esquema via entidades associativas.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

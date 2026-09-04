@@ -7,6 +7,14 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 53 do corpus: dois pontos de fechamento. A repercussão internacional do caso — cobertura
+  investigativa sustentada da Bloomberg e análise institucional do The Economist, sem evidência de
+  rebaixamento do rating soberano do Brasil (S&P manteve 'BB/B' estável); a falha de avaliação de risco
+  documentada é doméstica, da Fitch sobre o próprio Banco Master (elevado a 'A-(bra)' em 2024, rebaixado a
+  'D' após a liquidação). E a Operação Sem Desconto (fraude de descontos do INSS): esclarece sua conexão
+  investigativa real com o Master, via o consignado "M Fácil Consignado" (ex-CredCesta) e o cruzamento de
+  dados autorizado por Mendonça em 25/02/2026 — origem concreta do atrito com a cúpula da PF já registrado
+  no corpus.
 - Lote 52 do corpus: a primeira delação da Compliance Zero em detalhe. A PGR assinou, em 02/09/2026, o
   acordo com João Carlos Mansur (ex-Reag) — 17 temas, multa de R$ 40 milhões —, que promete revelar o
   paradeiro de R$ 20 bilhões em ativos atribuídos a Vorcaro; audiência de voluntariedade ocorreu em

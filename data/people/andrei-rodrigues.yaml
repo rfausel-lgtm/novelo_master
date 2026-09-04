@@ -45,6 +45,10 @@ open_questions:
 - Não há decisão do relator sobre os pedidos de prisão e de afastamento apresentados pelo Partido Novo.
   A PGR já se manifestou pelo arquivamento da apuração sobre as alegações de 'graves intimidações' de
   Vorcaro que embasaram esses pedidos, por ausência de provas.
+- O atrito com Mendonça teve origem em fevereiro de 2026, na restrição de acesso aos dados da Compliance
+  Zero, e escalou com determinações na condução da Operação Sem Desconto (remessa de documentação ao gabinete
+  do relator, notificação prévia para troca de policiais). A PF recorreu à AGU, que optou por diálogo
+  em vez de embate jurídico direto. Sem resolução até setembro de 2026.
 source_ids:
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-congressoemfoco-2026-09-01-relatorio-pf
@@ -58,6 +62,8 @@ source_ids:
 - src-poder360-2026-08-06-superintendentes-defendem-andrei
 - src-cnnbrasil-2026-08-28-andrei-pf-autonoma
 - src-piauihoje-2026-09-pgr-arquivamento-ameacas-vorcaro
+- src-gazetadopovo-2026-linha-tempo-crise-mendonca-pf
+- src-gazetadopovo-2026-02-25-pf-cruzamento-master-inss
 full_name: Andrei Augusto Passos Rodrigues
 review_status: published
 reviewer: orquestrador

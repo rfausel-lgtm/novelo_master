@@ -1,0 +1,23 @@
+id: src-bloomberg-2026-05-20-brazil-10-billion-scandal-bolsonaro
+kind: source
+title: Brazil's $10 Billion Banco Master Scandal Puts Bolsonaro Under Scrutiny
+publisher: Bloomberg
+publication_date: '2026-05-20'
+retrieved_at: '2026-09-03'
+url: https://www.bloomberg.com/news/features/2026-05-20/brazil-s-10-billion-banco-master-scandal-puts-bolsonaro-under-scrutiny
+source_type: press
+summary: Uma de várias reportagens investigativas próprias (com apuração e bylines, não wire) que a Bloomberg
+  dedicou ao caso ao longo de 2026 — cobrindo a prisão de Vorcaro, o acordo de colaboração, a reação de
+  executivos e o vazamento envolvendo um ministro do STF. Descreve as conexões de Vorcaro como cruzando
+  'o espectro político e incluindo todos os poderes, além do setor privado', tratando o caso como estudo
+  de falha regulatória e captura institucional.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

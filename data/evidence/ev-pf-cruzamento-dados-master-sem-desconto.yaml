@@ -1,0 +1,16 @@
+id: ev-pf-cruzamento-dados-master-sem-desconto
+kind: evidence
+classification: A
+proposition: Em 25/02/2026, a PF obteve de André Mendonça autorização para cruzar formalmente os dados
+  da Operação Compliance Zero (Master) com os da Operação Sem Desconto (INSS), buscando estruturas financeiras
+  comuns, operadores recorrentes e fluxos de recursos compartilhados em fundos geridos pelo Master.
+document_ids: []
+source_ids:
+- src-gazetadopovo-2026-02-25-pf-cruzamento-master-inss
+attributed_to: Gazeta do Povo
+date: '2026-02-25'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

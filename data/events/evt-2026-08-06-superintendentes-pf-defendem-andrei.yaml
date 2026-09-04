@@ -8,24 +8,37 @@ participant_ids:
 - policia-federal
 - andrei-rodrigues
 - andre-mendonca
-description: Os 27 superintendentes regionais da Polícia Federal divulgaram nota conjunta defendendo a
-  autonomia administrativa da direção-geral, em meio a tensão com André Mendonça sobre determinações na
-  'Operação Sem Desconto' — exigência de remessa ao STF de todas as peças investigativas e de comunicação
+description: 'Os 27 superintendentes regionais da Polícia Federal divulgaram nota conjunta defendendo
+  a autonomia administrativa da direção-geral, em meio a tensão com André Mendonça sobre determinações
+  na ''Operação Sem Desconto'' — exigência de remessa ao STF de todas as peças investigativas e de comunicação
   prévia antes de qualquer afastamento ou troca de delegados. Em 31/08/2026, Fachin se reuniu com Andrei
   Rodrigues no CNJ, oficialmente sobre segurança da informação no sistema de Justiça — reunião que a imprensa
   contextualizou como parte do mesmo desgaste. Três dias antes da divulgação do laudo sobre o celular
-  de Vorcaro (01/09/2026), em 28/08/2026, Rodrigues declarou publicamente que a PF trabalha 'sem proteger
-  ou perseguir'.
+  de Vorcaro (01/09/2026), em 28/08/2026, Rodrigues declarou publicamente que a PF trabalha ''sem proteger
+  ou perseguir''. A Operação Sem Desconto investiga fraude de descontos associativos não autorizados sobre
+  benefícios do INSS (R$ 6,3 bilhões estimados entre 2019 e 2024) e tem conexão investigativa real com
+  o Master: o banco operava, dentro de convênio do INSS, o consignado ''M Fácil Consignado'' (ex-CredCesta),
+  onde análise conjunta INSS/CGU identificou indícios de fraude; em 25/02/2026 a PF obteve autorização
+  de Mendonça para cruzar formalmente os dados das duas investigações. O atrito teve origem em fevereiro
+  de 2026, quando Mendonça restringiu o acesso da cúpula da PF aos dados da Compliance Zero, e escalou
+  com as determinações na condução da Sem Desconto.'
 evidence_class: C
 status: verified
 evidence_ids:
 - ev-superintendentes-pf-nota-defesa-andrei-2026-08
 - ev-andrei-rodrigues-declaracao-formatura-2026-08-28
+- ev-inss-m-facil-consignado-indicios-fraude
+- ev-pf-cruzamento-dados-master-sem-desconto
+- ev-origem-atrito-mendonca-pf-sem-desconto
 source_ids:
 - src-poder360-2026-08-06-superintendentes-defendem-andrei
 - src-ndmais-2026-08-superintendencias-peitam-mendonca
 - src-cnnbrasil-2026-08-28-andrei-pf-autonoma
 - src-tribunadosertao-2026-08-31-fachin-reuniao-andrei-cnj
+- src-gov-pf-2026-05-sem-desconto-nova-fase
+- src-otempo-2026-03-05-inss-m-facil-consignado-fraude
+- src-gazetadopovo-2026-02-25-pf-cruzamento-master-inss
+- src-gazetadopovo-2026-linha-tempo-crise-mendonca-pf
 document_ids: []
 public_act_ids: []
 review_status: published

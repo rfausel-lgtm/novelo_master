@@ -1,0 +1,18 @@
+id: ev-sem-rebaixamento-soberano-mas-fitch-falhou-no-master
+kind: evidence
+classification: C
+proposition: 'O caso Master não gerou rebaixamento do rating soberano do Brasil: a S&P manteve ''BB/B''
+  com perspectiva estável no período. Em contraste, a Fitch elevou a nota nacional do próprio Banco Master
+  para ''A-(bra)'' em outubro de 2024 — avaliação que teria autorizado cerca de R$ 1,876 bilhão de fundos
+  de pensão públicos a investir em letras financeiras do banco sem garantia do FGC —, antes de rebaixá-la
+  sucessivamente entre setembro e novembro de 2025, até ''D'' após a liquidação.'
+document_ids: []
+source_ids:
+- src-spglobal-2026-brazil-bb-b-ratings-affirmed
+- src-tradingview-2025-fitch-downgrade-banco-master
+date: '2026'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

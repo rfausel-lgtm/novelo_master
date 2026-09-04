@@ -1,0 +1,23 @@
+id: src-tradingview-2025-fitch-downgrade-banco-master
+kind: source
+title: Fitch Downgrades Banco Master's Ratings to 'B-' From 'B+'
+publisher: TradingView (wire Reuters)
+publication_date: '2025'
+retrieved_at: '2026-09-03'
+url: https://www.tradingview.com/news/reuters.com,2025:newsml_S0N3U50AY:0-fitch-downgrades-banco-master-s-ratings-to-b-from-b/
+source_type: wire
+summary: Registra o rebaixamento sucessivo do rating do próprio Banco Master pela Fitch entre setembro
+  e novembro de 2025, culminando em 'D' após a liquidação — em contraste com a elevação da nota nacional
+  do banco para 'A-(bra)' pela mesma agência em outubro de 2024, avaliação que teria contribuído para
+  autorizar cerca de R$ 1,876 bilhão de fundos de pensão públicos a investir em letras financeiras do
+  Master sem garantia do FGC.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

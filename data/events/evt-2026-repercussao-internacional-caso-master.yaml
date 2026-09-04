@@ -1,0 +1,33 @@
+id: evt-2026-repercussao-internacional-caso-master
+kind: event
+title: 'A repercussão internacional do caso Master: cobertura investigativa, sem contágio de rating soberano'
+event_type: publication
+date: '2026'
+date_precision: year
+participant_ids:
+- banco-master
+- daniel-vorcaro
+description: 'O caso teve cobertura investigativa internacional substancial — Bloomberg com série própria
+  sustentada, The Economist com análise institucional, FMI citando o caso em avaliação técnica sobre o
+  arcabouço de resolução bancária do Brasil —, mas não gerou rebaixamento do rating soberano brasileiro
+  (S&P manteve ''BB/B'' estável) nem ação formal identificada de reguladores estrangeiros, além da ação
+  civil já registrada da EFB nos EUA. O achado de falha de avaliação de risco documentado é doméstico
+  ao próprio Banco Master: a Fitch elevou sua nota em outubro de 2024, permitindo aportes de fundos de
+  pensão públicos, antes de rebaixá-la a ''D'' após a liquidação.'
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-bloomberg-cobertura-investigativa-sustentada
+- ev-sem-rebaixamento-soberano-mas-fitch-falhou-no-master
+source_ids:
+- src-bloomberg-2026-05-20-brazil-10-billion-scandal-bolsonaro
+- src-timesbrasil-2026-economist-caso-master-riscos-institucionais
+- src-spglobal-2026-brazil-bb-b-ratings-affirmed
+- src-tradingview-2025-fitch-downgrade-banco-master
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
