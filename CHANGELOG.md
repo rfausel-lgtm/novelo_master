@@ -7,6 +7,11 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 51 do corpus: Vorcaro sinaliza que vai poupar Moraes em sua terceira tentativa de delação premiada
+  — após duas propostas já rejeitadas por PF e PGR, mantém a versão de relação de amizade com o ministro
+  e de contrato comercial de R$ 129 milhões com a advogada Viviane Barci de Moraes. Segundo a CNN Brasil,
+  o próprio Vorcaro atribui ao levantamento do sigilo do relatório da PF o prejuízo à sua estratégia de
+  negociação; no MPF, a percepção é de que as chances de acordo se esgotaram.
 - Lote 50 do corpus: dois pontos de enriquecimento sobre as liquidações satélites do Master. Vorcaro
   alega, em depoimento, que a venda do Will Bank ao fundo Mubadala Capital (Abu Dhabi) estava praticamente
   concluída e seria formalizada no mesmo dia da liquidação do Master, mas foi interrompida pela ação da

@@ -47,6 +47,14 @@ cited_position:
   - src-ndmais-2026-09-04-vorcaro-terror-depoimento-pf
   by_id: daniel-vorcaro
   date: '2026-09-04'
+- kind: version
+  summary: Sinalizou a interlocutores que não pretende acusar Moraes de conduta criminosa em uma terceira
+    proposta de delação, mantendo a versão de amizade com o ministro e de contrato comercial com a advogada
+    Viviane Barci de Moraes.
+  source_ids:
+  - src-cnnbrasil-2026-09-04-vorcaro-poupar-moraes-terceira-delacao
+  by_id: daniel-vorcaro
+  date: '2026-09-04'
 open_questions:
 - Não há, no corpus, a íntegra das decisões judiciais; o conteúdo registrado é o das comunicações oficiais
   do STF.
@@ -77,6 +85,7 @@ source_ids:
 - src-otempo-2026-01-10-justica-nega-conexao-vorcaro-carbono-oculto
 - src-ndmais-2026-09-04-vorcaro-terror-depoimento-pf
 - src-jbrasilia-2026-09-04-fachin-avoca-pedido-moraes-mendonca
+- src-cnnbrasil-2026-09-04-vorcaro-poupar-moraes-terceira-delacao
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published

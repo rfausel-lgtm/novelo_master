@@ -1,0 +1,19 @@
+id: ev-vorcaro-sinaliza-poupar-moraes-terceira-delacao
+kind: evidence
+classification: A
+proposition: Segundo apuração da CNN Brasil, Vorcaro sinalizou que não pretende acusar Moraes de conduta
+  criminosa em uma nova (terceira) proposta de delação premiada, mantendo a versão de relação de amizade
+  com o ministro e de contrato comercial de R$ 129 milhões com a advogada Viviane Barci de Moraes. Fontes
+  do MPF veem a tentativa como calculada, sem a espontaneidade exigida para o benefício, após duas propostas
+  anteriores já rejeitadas.
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-09-04-vorcaro-poupar-moraes-terceira-delacao
+attributed_to: CNN Brasil (blog Caio Junqueira), com base em apuração de bastidor — proposta ainda não
+  formalizada nem aceita
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

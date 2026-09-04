@@ -1,0 +1,27 @@
+id: evt-2026-09-04-vorcaro-sinaliza-poupar-moraes-terceira-delacao
+kind: event
+title: Vorcaro sinaliza que vai poupar Moraes em terceira tentativa de delação premiada
+event_type: statement
+date: '2026-09-04'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- alexandre-de-moraes
+description: Segundo apuração da CNN Brasil, Vorcaro sinalizou a interlocutores que não pretende apresentar
+  acusações contra Moraes em uma nova proposta de delação — a terceira, após duas rejeitadas por PF e
+  PGR —, mantendo a versão de relação de amizade e de contrato comercial de R$ 129 milhões com a advogada
+  Viviane Barci de Moraes. Vorcaro atribui ao levantamento do sigilo do relatório da PF um prejuízo à
+  sua estratégia de negociação. No MPF, a percepção é de que as chances de acordo se esgotaram.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-vorcaro-sinaliza-poupar-moraes-terceira-delacao
+source_ids:
+- src-cnnbrasil-2026-09-04-vorcaro-poupar-moraes-terceira-delacao
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
