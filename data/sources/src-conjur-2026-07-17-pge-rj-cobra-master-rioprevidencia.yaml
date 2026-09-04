@@ -1,0 +1,21 @@
+id: src-conjur-2026-07-17-pge-rj-cobra-master-rioprevidencia
+kind: source
+title: Procuradoria do Rio cobra Master por prejuízo de R$ 640 mi ao RioPrevidência
+publisher: ConJur
+publication_date: '2026-07-17'
+retrieved_at: '2026-09-03'
+url: https://www.conjur.com.br/2026-jul-17/procuradoria-do-rio-cobra-master-por-prejuizo-de-r-640-mi-ao-rioprevidencia/
+source_type: press
+summary: Registra ação da PGE-RJ cobrando cerca de R$ 640 milhões do grupo Master (incluindo suas gestoras)
+  por prejuízo ao RioPrevidência, apontando a Trustee como tendo comprado papéis maciçamente para inflar
+  artificialmente preços dos fundos Revolution e Texas I FIA entre julho e agosto de 2024.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

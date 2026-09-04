@@ -11,9 +11,14 @@ why_in_novelo: Seus aportes em produtos do Banco Master são objeto da 8ª fase 
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Em 17/07/2026, a PGE-RJ moveu ação cobrando cerca de R$ 640 milhões do grupo Master, apontando que a
+  Trustee (gestora ligada ao Master, liquidada em 03/09/2026) comprou maciçamente papéis dos fundos Revolution
+  e Texas I FIA entre jul-ago/2024, inflando artificialmente seus preços — alegação sob apuração judicial,
+  não julgada.
 source_ids:
 - src-stf-2026-05-26-oitava-fase-castro
+- src-conjur-2026-07-17-pge-rj-cobra-master-rioprevidencia
 full_name: Fundo Único de Previdência Social do Estado do Rio de Janeiro
 review_status: published
 reviewer: orquestrador

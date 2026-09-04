@@ -1,0 +1,28 @@
+id: evt-2026-07-17-pge-rj-cobra-master-rioprevidencia
+kind: event
+title: PGE-RJ cobra R$ 640 milhões do Master por prejuízo ao RioPrevidência, aponta papel da Trustee
+event_type: public_act
+date: '2026-07-17'
+date_precision: day
+participant_ids:
+- banco-master
+- rioprevidencia
+- trustee-dtvm
+description: A Procuradoria-Geral do Estado do Rio de Janeiro moveu ação cobrando cerca de R$ 640 milhões
+  do grupo Master, incluindo suas gestoras, por prejuízo ao RioPrevidência — cujos aportes de cerca de
+  R$ 3,7 bilhões em produtos do Master já eram objeto da 8ª fase da Operação Compliance Zero. A PGE-RJ
+  aponta que a Trustee comprou maciçamente papéis dos fundos Revolution e Texas I FIA entre julho e agosto
+  de 2024, inflando artificialmente seus preços.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-pge-rj-cobra-master-rioprevidencia-640-milhoes
+source_ids:
+- src-conjur-2026-07-17-pge-rj-cobra-master-rioprevidencia
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

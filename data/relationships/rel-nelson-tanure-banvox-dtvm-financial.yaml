@@ -1,0 +1,31 @@
+id: rel-nelson-tanure-banvox-dtvm-financial
+kind: relationship
+from_id: nelson-tanure
+to_id: banvox-dtvm
+relationship_type: financial
+directed: false
+label: participação indireta alegada, via debêntures conversíveis (fundo Estocolmo)
+description: Segundo apuração jornalística usada pela PF para sustentar a hipótese de que Tanure seria
+  'sócio oculto' do Master, ele teria participação indireta na holding da Banvox via debêntures conversíveis
+  no fundo Estocolmo. Tanure nega qualquer vínculo.
+evidence_class: A
+confidence: 0.4
+status: disputed
+event_ids: []
+evidence_ids:
+- ev-tanure-participacao-indireta-banvox-fundo-estocolmo
+source_ids:
+- src-metropoles-2026-01-20-trustee-negocio-meio-bilhao-tanure
+document_ids: []
+cited_position:
+- kind: denial
+  summary: Nelson Tanure nega qualquer vínculo societário com a Banvox ou com o Master.
+  source_ids:
+  - src-timesbrasil-2026-defesa-tanure-nega-vinculo
+  by_id: nelson-tanure
+  date: 2026-01
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

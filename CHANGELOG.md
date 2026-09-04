@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 46 do corpus: quem controla a Trustee DTVM e a Banvox DTVM, liquidadas pelo BC em 03/09/2026 —
+  Maurício Quadrado, ex-diretor de investimentos do Master sob Vorcaro, que vendeu sua fatia em 2024 e
+  hoje controla as duas gestoras. Registra a fiança solidária de Vorcaro em R$ 470,5 milhões de debêntures
+  da Banvox que capitalizaram o Master, a hipótese sob apuração (negada por Tanure) de participação
+  indireta de Nelson Tanure via o fundo Estocolmo, o bloqueio cautelar de R$ 24,2 milhões de Toffoli, a
+  negativa das empresas quanto a irregularidades, e a cobrança de R$ 640 milhões da PGE-RJ ao Master que
+  aponta a Trustee como operadora do esquema que prejudicou o RioPrevidência.
 - Lote 45 do corpus: o cerco patrimonial contra a família Vorcaro em detalhe. A liminar de 17/03/2026 que
   bloqueou bens ligados a Daniel Vorcaro foi ampliada em 23/03/2026 para incluir o pai (Henrique Vorcaro)
   e a irmã (Natália Vorcaro Zettel) como investigados. Registra a tentativa frustrada de venda da mansão

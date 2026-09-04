@@ -1,0 +1,22 @@
+id: rel-mauricio-quadrado-trustee-dtvm-corporate
+kind: relationship
+from_id: mauricio-quadrado
+to_id: trustee-dtvm
+relationship_type: corporate
+directed: false
+label: controlador
+description: Maurício Quadrado é o controlador da Trustee DTVM.
+evidence_class: A
+confidence: 0.85
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-quadrado-controlador-trustee-banvox
+source_ids:
+- src-cnnbrasil-2026-09-03-bc-liquida-trustee-banvox
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

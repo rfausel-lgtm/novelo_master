@@ -1,0 +1,36 @@
+id: banvox-dtvm
+kind: organization
+name: Banvox DTVM
+aliases: []
+org_type: financial_institution
+summary: Distribuidora de títulos e valores mobiliários (DTVM) fundada em 1984 e autorizada pela CVM em
+  1991 a administrar carteiras, hoje controlada por Maurício Quadrado. Emitiu R$ 470,5 milhões em debêntures
+  via a Banvox Holding Financeira (depois transferida à DV Holding Financeira) para capitalizar o Banco
+  Master, com fiança solidária de Daniel Vorcaro, Augusto Lima e Maurício Quadrado; segundo apuração jornalística,
+  Nelson Tanure teria participação indireta nessa holding via debêntures conversíveis no fundo Estocolmo
+  — Tanure nega qualquer vínculo. Foi liquidada extrajudicialmente pelo Banco Central em 03/09/2026, na
+  mesma decisão que atingiu a Trustee, por 'graves violações às normas legais'. Consta em bloqueio cautelar
+  de R$ 24,2 milhões determinado pelo ministro Dias Toffoli (STF), ao lado de Vorcaro, do Master e de
+  Quadrado. Em nota conjunta com a Trustee, negou irregularidades.
+why_in_novelo: A segunda das duas gestoras ligadas ao ecossistema do Banco Master liquidadas pelo Banco
+  Central em 03/09/2026, com papel na emissão de debêntures que capitalizaram o Master e na hipótese,
+  sob apuração, de participação indireta de Nelson Tanure.
+cited_position:
+- kind: denial
+  summary: Em nota conjunta com a Trustee, negou irregularidades e violações às normas do mercado de capitais.
+  source_ids:
+  - src-bpmoney-2026-trustee-banvox-negam-irregularidades
+  date: 2026-09
+open_questions:
+- O ato normativo do Banco Central com a motivação técnica detalhada da liquidação não foi localizado
+  em fonte pública até a data desta atualização.
+source_ids:
+- src-cnnbrasil-2026-09-03-bc-liquida-trustee-banvox
+- src-metropoles-2026-01-20-trustee-negocio-meio-bilhao-tanure
+- src-metropoles-2026-09-03-vorcaro-liquidacoes-trustee-banvox
+- src-bpmoney-2026-trustee-banvox-negam-irregularidades
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

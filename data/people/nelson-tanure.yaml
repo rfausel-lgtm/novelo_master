@@ -12,7 +12,10 @@ summary: 'Empresário baiano (Salvador, 1951), formado em Administração pela U
   sobre o Banco Master, abordado por agentes da PF no Aeroporto do Galeão. Investigadores apuram — sem
   confirmação judicial — a hipótese de que seria ''sócio oculto'' do Master; ele nega qualquer vínculo
   societário. Uma ação distinta, sobre negociação de ações da Gafisa, foi remetida ao STF por conexão
-  com o caso, também sob relatoria de Toffoli.'
+  com o caso, também sob relatoria de Toffoli. Reportagem posterior (Metrópoles, coluna Grande Angular)
+  aponta participação indireta de Tanure na holding da Banvox — gestora do mesmo ecossistema, liquidada
+  pelo BC em 03/09/2026 — via debêntures conversíveis no fundo Estocolmo, com termos contratuais sigilosos.
+  Tanure mantém a negativa de qualquer vínculo societário com o Master ou suas gestoras.'
 why_in_novelo: Foi alvo de busca pessoal deferida pelo STF em fase da investigação sobre o Banco Master.
 cited_position:
 - kind: denial
@@ -30,6 +33,7 @@ source_ids:
 - src-iclnoticias-2026-tanure-investigado-bc-pf-mpf
 - src-timesbrasil-2026-defesa-tanure-nega-vinculo
 - src-cnnbrasil-2026-justica-sp-envia-stf-acao-tanure
+- src-metropoles-2026-01-20-trustee-negocio-meio-bilhao-tanure
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

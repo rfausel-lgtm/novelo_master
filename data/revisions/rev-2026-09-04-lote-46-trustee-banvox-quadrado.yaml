@@ -1,0 +1,25 @@
+id: rev-2026-09-04-lote-46-trustee-banvox-quadrado
+kind: revision
+date: '2026-09-03'
+title: 'Lote 46: quem controla a Trustee e a Banvox, liquidadas em 03/09/2026'
+summary: Pesquisa conduzida por agente convocado em paralelo. O lote 44 registrou a liquidação da Trustee
+  DTVM e da Banvox DTVM sem detalhar sua ligação com o Master; este lote identifica o controlador — Maurício
+  Quadrado, ex-diretor de investimentos do Master sob Vorcaro —, a fiança solidária de Vorcaro em R$ 470,5
+  milhões de debêntures da Banvox, a hipótese (sob apuração, negada por Tanure) de participação indireta
+  de Nelson Tanure via o fundo Estocolmo, o bloqueio cautelar de R$ 24,2 milhões determinado por Toffoli,
+  a negativa das empresas quanto a irregularidades, e a cobrança de R$ 640 milhões da PGE-RJ ao Master
+  que aponta a Trustee como operadora do esquema que prejudicou o RioPrevidência.
+affected_ids:
+- trustee-dtvm
+- banvox-dtvm
+- mauricio-quadrado
+- nelson-tanure
+- rioprevidencia
+- daniel-vorcaro
+reason: Ligação entre as DTVMs liquidadas em 03/09/2026 e o ecossistema Master, identificada por pesquisa
+  paralela.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

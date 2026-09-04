@@ -1,0 +1,30 @@
+id: mauricio-quadrado
+kind: person
+name: Maurício Quadrado
+category: businessperson
+role: Ex-diretor de investimentos do Banco Master; controlador da Trustee DTVM e da Banvox DTVM
+positions: []
+summary: Ex-diretor de investimentos do Banco Master sob Daniel Vorcaro. Antes, teve carreira no Bradesco
+  (anos 1990, incluindo a coordenação do IPO/ADR da Aracruz Celulose na NYSE) e esteve à frente da corretora
+  Planner entre 2007 e 2020. Vendeu sua fatia (estimada entre 20% e 30%) no Master em 2024 para montar
+  plataforma financeira própria — corretora, gestora e o banco digital Letsbank —, hoje controlando a
+  Trustee DTVM e a Banvox DTVM, ambas liquidadas extrajudicialmente pelo Banco Central em 03/09/2026.
+  Foi fiador solidário, ao lado de Vorcaro e Augusto Lima, em emissão de R$ 470,5 milhões em debêntures
+  da Banvox Holding Financeira que capitalizaram o Master. Alvo de busca e apreensão da Operação Compliance
+  Zero em 14/01/2026. Consta também em bloqueio cautelar de R$ 24,2 milhões determinado pelo ministro
+  Dias Toffoli (STF), ao lado de Vorcaro, do Master e da Banvox.
+why_in_novelo: Ex-sócio de Vorcaro no Master e controlador atual da Trustee e da Banvox, as duas gestoras
+  liquidadas pelo Banco Central em 03/09/2026 por ligação com o caso Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-cnnbrasil-2026-09-03-bc-liquida-trustee-banvox
+- src-jornaldebrasilia-2026-quem-e-mauricio-quadrado
+- src-metropoles-2026-01-20-trustee-negocio-meio-bilhao-tanure
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
