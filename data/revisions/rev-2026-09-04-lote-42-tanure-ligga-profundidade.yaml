@@ -1,0 +1,21 @@
+id: rev-2026-09-04-lote-42-tanure-ligga-profundidade
+kind: revision
+date: '2026-09-03'
+title: 'Lote 42: Nelson Tanure e a Ligga Telecom em profundidade'
+summary: 'Pesquisa conduzida por agente convocado em paralelo. O corpus tinha apenas um registro enxuto
+  sobre a relação Tanure-Ligga-Master; este lote a aprofunda em três camadas distintas: (1) fato relativamente
+  sólido — a Ligga aplicou R$ 353-388,6 milhões do caixa em CCBs do Master sem passar pelo Conselho, e
+  um sócio minoritário alega desvio de R$ 400 milhões via debêntures incentivadas; (2) alegação sob investigação,
+  não fato consumado — a hipótese de que Tanure seria ''sócio oculto'' do Master, com origem em depoimento
+  de Vladimir Timerman à CPI, negada formalmente por Tanure; (3) desdobramento judicial — ação sobre a
+  Gafisa remetida ao STF por conexão, sob a mesma relatoria de Toffoli.'
+affected_ids:
+- nelson-tanure
+- ligga-telecom
+- rel-nelson-tanure-ligga-telecom-corporate
+reason: Aprofundamento de frente subdocumentada identificada por pesquisa paralela.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

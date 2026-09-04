@@ -3,20 +3,27 @@ kind: organization
 name: Ligga Telecom
 aliases: []
 org_type: company
-summary: Operadora de fibra óptica do Paraná, de capital aberto, controlada por fundo de Nelson Tanure.
-  Segundo documentos internos citados pela Gazeta do Povo, parte de cerca de R$ 350 milhões do caixa foi
-  aplicada em CCBs do Banco Master; a Moody's rebaixou seu rating em dezembro de 2025 por 'opacidade de
-  informação'.
+summary: Operadora de fibra óptica do Paraná, nascida como Copel Telecomunicações (2000), privatizada
+  em novembro de 2020 por R$ 2,39 bilhões e arrematada pelo Bordeaux Fundo de Investimento, controlado
+  por Nelson Tanure; rebatizada Ligga Telecom em 2021. Documentos internos mostram que a empresa aplicou
+  entre R$ 353 milhões (dez/2022) e R$ 388,6 milhões (set/2025) de seu caixa em CCBs do Banco Master,
+  decisão que não passou pelo Conselho de Administração; a Moody's rebaixou seu rating em dezembro de
+  2025 por 'opacidade de informação'. Um sócio minoritário notificou extrajudicialmente a empresa em janeiro
+  de 2026, alegando desvio de cerca de R$ 400 milhões de recursos de debêntures incentivadas para o Master.
 why_in_novelo: Empresa de Nelson Tanure que aplicou recursos do caixa em títulos do Banco Master, segundo
   documentos internos citados pela imprensa.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions:
-- O montante aplicado em CCBs do Master não é público.
-- O corpus não registra manifestação da Ligga.
+- kind: denial
+  summary: Afirmou não possuir, atualmente, qualquer aplicação financeira no Banco Master, direta ou indiretamente
+    — nota que não desmente o histórico de aplicações entre 2022 e 2025.
+  source_ids:
+  - src-gazetadopovo-2026-ligga-notificacao-extrajudicial
+  date: '2026-01-29'
+open_questions: []
 source_ids:
 - src-gazeta-2026-01-30-ligga-tanure-master
+- src-gazetadopovo-2026-ligga-ccbs-master
+- src-gazetadopovo-2026-ligga-notificacao-extrajudicial
 jurisdiction: Paraná
 review_status: published
 reviewer: orquestrador

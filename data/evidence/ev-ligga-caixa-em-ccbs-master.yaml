@@ -1,0 +1,21 @@
+id: ev-ligga-caixa-em-ccbs-master
+kind: evidence
+classification: A
+proposition: Documentos internos da Ligga Telecom, citados pela Gazeta do Povo, mostram que a partir de
+  outubro de 2022 a empresa direcionou parte de seu caixa livre a um fundo de liquidez reduzida; em dezembro
+  de 2022 a diretoria deliberou pela contratação de Certificados de Cédula Bancária (CCBs) do Banco Master,
+  decisão que não passou pelo Conselho de Administração. Em dezembro de 2022 o caixa livre da Ligga havia
+  caído a cerca de R$ 5,9 milhões enquanto as aplicações financeiras somavam cerca de R$ 353 milhões;
+  em setembro de 2025 essas aplicações já somavam R$ 388,6 milhões, com rendimentos. Em dezembro de 2025
+  a agência Moody's rebaixou o rating da Ligga de BBB.br para BB-.br, citando 'opacidade de informação'
+  e 'risco elevado de refinanciamento'.
+document_ids: []
+source_ids:
+- src-gazetadopovo-2026-ligga-ccbs-master
+date: 2022-12
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
+attributed_to: Gazeta do Povo

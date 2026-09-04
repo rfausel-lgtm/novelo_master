@@ -5,7 +5,9 @@ to_id: ligga-telecom
 relationship_type: corporate
 directed: false
 label: controlador (via fundo)
-description: A Ligga Telecom é controlada por fundo de Nelson Tanure, segundo a Gazeta do Povo.
+description: A Ligga Telecom é controlada pelo Bordeaux Fundo de Investimento, de Nelson Tanure, que a
+  arrematou na privatização da Copel Telecom em 2020. A empresa aplicou parte relevante de seu caixa em
+  CCBs do Banco Master entre 2022 e 2025, decisão que não passou pelo Conselho de Administração.
 evidence_class: A
 confidence: 0.7
 status: unverified
@@ -14,6 +16,7 @@ evidence_ids:
 - ev-tanure-controla-ligga
 source_ids:
 - src-gazeta-2026-01-30-ligga-tanure-master
+- src-gazetadopovo-2026-ligga-ccbs-master
 document_ids: []
 review_status: published
 reviewer: orquestrador

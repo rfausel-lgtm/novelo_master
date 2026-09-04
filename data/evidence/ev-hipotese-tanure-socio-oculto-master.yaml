@@ -1,0 +1,20 @@
+id: ev-hipotese-tanure-socio-oculto-master
+kind: evidence
+classification: A
+proposition: 'Investigadores da PF, do Banco Central e do MPF levantam a hipótese — sob apuração, ainda
+  sem confirmação judicial — de que Nelson Tanure seria ''sócio oculto'' do Banco Master, exercendo influência
+  por meio de fundos e estruturas societárias complexas, com injeção de cerca de R$ 2,5 bilhões no banco
+  desde 2020. A reportagem cita um grupo de seis nomes apontados nessa linha investigativa: Daniel Vorcaro,
+  Augusto Lima, Fabiano Zettel, João Carlos Mansur, Nelson Tanure e Maurício Quadrado. A origem da linha
+  remonta a um inquérito aberto pelo MPF em 2024, motivado por depoimento de Vladimir Timerman (Esh Capital)
+  à CPI em 19/03/2026, no qual disse que Vorcaro seria ''apenas a face pública'' do Master.'
+document_ids: []
+source_ids:
+- src-iclnoticias-2026-tanure-investigado-bc-pf-mpf
+date: '2026-03-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
+attributed_to: ICL Notícias

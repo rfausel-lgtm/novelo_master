@@ -1,0 +1,26 @@
+id: rel-vladimir-timerman-daniel-vorcaro-allegation
+kind: relationship
+from_id: vladimir-timerman
+to_id: daniel-vorcaro
+relationship_type: investigative_allegation
+directed: false
+label: disse à CPI que Vorcaro era 'a face pública'
+start_date: '2026-03-19'
+description: Em depoimento à CPI do Crime Organizado (19/03/2026), Timerman afirmou que Vorcaro seria
+  'apenas a face pública' do Banco Master, dando origem à linha investigativa sobre controle oculto por
+  terceiros.
+evidence_class: A
+confidence: 0.3
+status: unverified
+event_ids:
+- evt-2026-01-hipotese-socio-oculto-e-caixa-ligga-master
+evidence_ids:
+- ev-hipotese-tanure-socio-oculto-master
+source_ids:
+- src-iclnoticias-2026-tanure-investigado-bc-pf-mpf
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

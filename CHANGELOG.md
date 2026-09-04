@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 42 do corpus: Nelson Tanure e a Ligga Telecom em profundidade. A Ligga aplicou entre R$ 353 milhões
+  (dez/2022) e R$ 388,6 milhões (set/2025) do caixa em CCBs do Banco Master, decisão que não passou pelo
+  Conselho de Administração; um sócio minoritário notificou a empresa alegando desvio de R$ 400 milhões
+  de recursos de debêntures incentivadas. Registra, como hipótese sob apuração (não fato consumado), a
+  linha investigativa de que Tanure seria 'sócio oculto' do Master — com origem em depoimento de Vladimir
+  Timerman à CPI — e a negativa formal de Tanure. Acrescenta a ação sobre a Gafisa remetida ao STF por
+  conexão com o caso.
 - Lote 41 do corpus: a reação da OAB à crise institucional, em duas vozes distintas — o Conselho Federal
   manifestou 'extrema preocupação' sem pedir afastamentos, enquanto a seccional do Paraná pediu o
   afastamento cautelar de Moraes e a suspeição de Gonet. Esclarece que o trabalho de Fabio Wajngarten para

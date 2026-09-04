@@ -1,0 +1,54 @@
+id: evt-2026-01-hipotese-socio-oculto-e-caixa-ligga-master
+kind: event
+title: Investigadores apuram se Tanure é sócio oculto do Master; Ligga aplicou parte do caixa em títulos
+  do banco
+event_type: investigation_step
+date: 2026-01
+date_precision: day
+participant_ids:
+- nelson-tanure
+- daniel-vorcaro
+- ligga-telecom
+- joao-carlos-mansur
+- vladimir-timerman
+description: Documentos internos mostram que a Ligga Telecom, controlada por fundo de Nelson Tanure, direcionou
+  entre R$ 353 milhões (dez/2022) e R$ 388,6 milhões (set/2025) de seu caixa a CCBs do Banco Master, decisão
+  que não passou pelo Conselho de Administração. Um sócio minoritário notificou extrajudicialmente a empresa
+  em 29/01/2026, alegando desvio de cerca de R$ 400 milhões de recursos de debêntures incentivadas para
+  o Master. Paralelamente, PF, Banco Central e MPF apuram — sem confirmação judicial — se Tanure seria
+  'sócio oculto' do banco, hipótese que remonta a depoimento de Vladimir Timerman à CPI em 19/03/2026.
+  Tanure nega qualquer vínculo societário; a Ligga afirma não ter, atualmente, aplicação financeira no
+  Master.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-ligga-caixa-em-ccbs-master
+- ev-ligga-notificacao-socio-minoritario-400-milhoes
+- ev-hipotese-tanure-socio-oculto-master
+- ev-tanure-nega-vinculo-societario-master
+source_ids:
+- src-gazetadopovo-2026-ligga-ccbs-master
+- src-gazetadopovo-2026-ligga-notificacao-extrajudicial
+- src-iclnoticias-2026-tanure-investigado-bc-pf-mpf
+- src-timesbrasil-2026-defesa-tanure-nega-vinculo
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: Nelson Tanure negou categoricamente qualquer vínculo societário com o Master, classificando
+    a relação como 'estritamente comercial, como cliente'.
+  source_ids:
+  - src-timesbrasil-2026-defesa-tanure-nega-vinculo
+  by_id: nelson-tanure
+  date: 2026-01
+- kind: denial
+  summary: A Ligga afirmou não possuir, atualmente, qualquer aplicação financeira no Banco Master, direta
+    ou indiretamente.
+  source_ids:
+  - src-gazetadopovo-2026-ligga-notificacao-extrajudicial
+  date: '2026-01-29'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

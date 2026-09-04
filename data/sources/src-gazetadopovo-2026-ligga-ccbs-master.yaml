@@ -1,0 +1,21 @@
+id: src-gazetadopovo-2026-ligga-ccbs-master
+kind: source
+title: Ligga, de Tanure, usou caixa para aplicações ligadas ao Master
+publisher: Gazeta do Povo
+publication_date: '2026'
+retrieved_at: '2026-09-03'
+url: https://www.gazetadopovo.com.br/economia/ligga-telecom-tanure-banco-master-ccbs/
+source_type: press
+summary: A partir de documentos internos, detalha a aplicação de recursos do caixa da Ligga em Certificados
+  de Cédula Bancária (CCBs) do Banco Master entre 2022 e 2025, decisão que não passou pelo Conselho de
+  Administração, e o rebaixamento de rating pela Moody's.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

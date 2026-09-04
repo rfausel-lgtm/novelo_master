@@ -1,0 +1,23 @@
+id: vladimir-timerman
+kind: person
+name: Vladimir Timerman
+category: businessperson
+role: Sócio da Esh Capital
+positions: []
+summary: Sócio da gestora Esh Capital. Em depoimento à CPI do Crime Organizado, em 19/03/2026, afirmou
+  que Daniel Vorcaro seria 'apenas a face pública' do Banco Master e que 'outros nomes' controlariam de
+  fato a instituição — declaração apontada pela imprensa como origem da linha investigativa sobre a hipótese
+  de 'sócio oculto', que passou a mirar Nelson Tanure.
+why_in_novelo: Prestou depoimento que deu origem à linha investigativa sobre suposto controle oculto do
+  Banco Master por terceiros.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-iclnoticias-2026-tanure-investigado-bc-pf-mpf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

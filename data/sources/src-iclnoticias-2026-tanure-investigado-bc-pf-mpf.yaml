@@ -1,0 +1,21 @@
+id: src-iclnoticias-2026-tanure-investigado-bc-pf-mpf
+kind: source
+title: Tanure é investigado pelo BC, PF e MPF
+publisher: ICL Notícias
+publication_date: '2026'
+retrieved_at: '2026-09-03'
+url: https://iclnoticias.com.br/tanure-investigado-bc-pf-mpf-quebra-master-reag/
+source_type: press
+summary: Relata a hipótese investigativa, ainda sob apuração, de que Nelson Tanure seria 'sócio oculto'
+  do Banco Master, com injeção de cerca de R$ 2,5 bilhões desde 2020, citando um grupo de seis nomes ligados
+  ao esquema.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

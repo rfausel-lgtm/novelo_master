@@ -4,16 +4,32 @@ name: Nelson Tanure
 category: businessperson
 role: Empresário
 positions: []
-summary: Empresário. Em 14/01/2026 o STF (relator Dias Toffoli) deferiu busca pessoal em Tanure na investigação
-  sobre o Banco Master, conforme comunicação oficial do tribunal.
+summary: 'Empresário baiano (Salvador, 1951), formado em Administração pela UFBA, com passagem pela Universidade
+  de Paris I. Investidor especializado em ativos em dificuldade financeira (distressed assets): compra
+  participações em empresas endividadas para reestruturá-las. Ao longo da carreira esteve envolvido em
+  mais de 200 empresas, entre elas Jornal do Brasil, Oi, Light, Gafisa, TIM Brasil e a Copel Telecom/Ligga,
+  adquirida em 2020. Em 14/01/2026 o STF (relator Dias Toffoli) deferiu busca pessoal em Tanure na investigação
+  sobre o Banco Master, abordado por agentes da PF no Aeroporto do Galeão. Investigadores apuram — sem
+  confirmação judicial — a hipótese de que seria ''sócio oculto'' do Master; ele nega qualquer vínculo
+  societário. Uma ação distinta, sobre negociação de ações da Gafisa, foi remetida ao STF por conexão
+  com o caso, também sob relatoria de Toffoli.'
 why_in_novelo: Foi alvo de busca pessoal deferida pelo STF em fase da investigação sobre o Banco Master.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: Negou categoricamente qualquer vínculo societário com o Master, classificando a relação como
+    'estritamente comercial, como cliente'; disse jamais ter enfrentado processo criminal.
+  source_ids:
+  - src-timesbrasil-2026-defesa-tanure-nega-vinculo
+  by_id: nelson-tanure
+  date: 2026-01
 open_questions: []
 source_ids:
 - src-stf-2026-01-14-novas-diligencias-toffoli
 - src-gazeta-2026-01-30-ligga-tanure-master
+- src-seudinheiro-2026-quem-e-nelson-tanure
+- src-iclnoticias-2026-tanure-investigado-bc-pf-mpf
+- src-timesbrasil-2026-defesa-tanure-nega-vinculo
+- src-cnnbrasil-2026-justica-sp-envia-stf-acao-tanure
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

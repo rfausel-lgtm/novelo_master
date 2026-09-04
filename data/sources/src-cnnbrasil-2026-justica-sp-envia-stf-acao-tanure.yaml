@@ -1,0 +1,21 @@
+id: src-cnnbrasil-2026-justica-sp-envia-stf-acao-tanure
+kind: source
+title: Justiça de SP envia ao STF ação contra Tanure por conexão com caso Master
+publisher: CNN Brasil
+publication_date: '2026-01-20'
+retrieved_at: '2026-09-03'
+url: https://www.cnnbrasil.com.br/politica/justica-de-sp-envia-ao-stf-acao-contra-tanure-por-conexao-com-caso-master/
+source_type: press
+summary: Registra a remessa ao STF, em 20/01/2026, de ação sobre crimes contra o mercado de capitais e
+  uso de informação privilegiada em ações da Gafisa envolvendo Tanure, por conexão com a Compliance Zero;
+  distribuída por prevenção a Dias Toffoli.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
