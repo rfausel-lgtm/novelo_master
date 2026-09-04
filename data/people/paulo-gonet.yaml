@@ -38,6 +38,10 @@ open_questions:
 - O corpus não tem a manifestação formal da PGR ao relator; o prazo de cinco dias estava em curso quando
   o registro foi feito.
 - O filho do procurador-geral é pessoa privada e não integra o mapa; as reportagens o nomeiam.
+- Gonet pediu o arquivamento das alegações de intimidação de Vorcaro sendo ele próprio nominalmente citado
+  nas mensagens do celular do banqueiro. Segundo o Jornal de Brasília, há divisão interna no MPF sobre
+  se ele deveria se afastar do processo por prudência; a cúpula avalia que não há elemento capaz de torná-lo
+  alvo de investigação.
 source_ids:
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-congressoemfoco-2026-09-01-relatorio-pf
@@ -47,12 +51,13 @@ source_ids:
 - src-oeste-2026-gonet-fecha-portas-para-delacao
 - src-folhavitoria-2026-09-02-gonet-pede-arquivamento
 - src-forum-2026-09-mensagens-sem-resposta-de-moraes
+- src-jbrasilia-2026-09-04-pgr-exposta-mencoes-a-gonet
 full_name: Paulo Gustavo Gonet Branco
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-04'
+updated_at: '2026-09-03'
 photo:
   path: /fotos/paulo-gonet.jpg
   source: Wikimedia Commons

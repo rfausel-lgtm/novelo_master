@@ -1,0 +1,26 @@
+id: doc-2026-08-28-pauta-julgamento-cvm-08-09
+kind: document
+title: Pauta de julgamentos da CVM para a sessão de 08/09/2026
+doc_type: regulatory_record
+date: '2026-08-28'
+source_ids:
+- src-cvm-pauta-julgamento-2026-09-08
+summary: Pauta oficial que marca, para 08/09/2026, às 15h, em sessão presencial no Rio de Janeiro, o julgamento
+  do PAS 19957.007976/2020-94 (Brazil Realty FII, operação fraudulenta) e do PAS 19957.005363/2021-01
+  (condições artificiais de demanda), ambos sob relatoria do diretor João Accioly. Publicada no Diário
+  Eletrônico de 07/08/2026 e atualizada em 28/08/2026.
+is_official: true
+related_entity_ids:
+- comissao-de-valores-mobiliarios
+- daniel-vorcaro
+- banco-master
+- milo-investimentos
+issuer: Comissão de Valores Mobiliários
+date_precision: day
+url: https://www.gov.br/cvm/pt-br/assuntos/processos/pautas-de-julgamento/pautadejulgamentos-2026-08-28-1.pdf
+reference: Pauta de julgamentos CVM — sessão de 08/09/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

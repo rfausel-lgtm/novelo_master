@@ -1,0 +1,33 @@
+id: evt-2025-12-02-cvm-rejeita-acordo-de-21-milhoes
+kind: event
+title: Colegiado da CVM rejeita por unanimidade acordo de R$ 21,3 milhões no caso do Brazil Realty
+event_type: regulatory_act
+date: '2025-12-02'
+date_precision: day
+participant_ids:
+- comissao-de-valores-mobiliarios
+- daniel-vorcaro
+- banco-master
+- milo-investimentos
+description: O Colegiado da CVM rejeitou por unanimidade a proposta de termo de compromisso de R$ 21,285
+  milhões no processo sobre a terceira emissão de cotas do Brazil Realty FII — contrariando a recomendação
+  do próprio Comitê de Termo de Compromisso, que havia sugerido aceitar. Foi a terceira proposta rejeitada,
+  depois de R$ 1,5 milhão e R$ 3,8 milhões. O voto-vista cita como fatos supervenientes a liquidação do
+  Banco Master, a prisão de Vorcaro e a Operação Compliance Zero. A área técnica estimou prejuízos individualizados
+  em R$ 94,1 milhões.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-curva-dos-acordos-rejeitados-no-brazil-realty
+- ev-mecanismo-da-fraude-no-brazil-realty
+source_ids:
+- src-cvm-voto-vista-accioly-brazil-realty-pdf
+- src-cvm-parecer-ctc-642-brazil-realty-pdf
+document_ids:
+- doc-2025-12-02-parecer-ctc-642-brazil-realty
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

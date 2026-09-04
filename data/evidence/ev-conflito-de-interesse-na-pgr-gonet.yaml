@@ -1,0 +1,20 @@
+id: ev-conflito-de-interesse-na-pgr-gonet
+kind: evidence
+classification: A
+proposition: 'Ponto que a cobertura não fechou: quem pediu o arquivamento das alegações de intimidação
+  é o mesmo Paulo Gonet nominalmente citado nas mensagens do celular de Vorcaro — a nota em que o banqueiro
+  escreve ser preciso ''reforçar com o Andrei e o Paulo''. Segundo o Jornal de Brasília, há racha interno
+  no Ministério Público Federal: uma ala entende que ''há menções suficientes no relatório da PF para
+  gerar dúvidas e, portanto, o melhor seria Gonet se afastar do processo'', por prudência e para prevenir
+  alegações de conflito; outra sustenta que ele foi envolvido em crise que não é dele, sem indícios de
+  má conduta. A cúpula avalia que não existe, até o momento, nada capaz de torná-lo alvo de investigação.'
+document_ids: []
+source_ids:
+- src-jbrasilia-2026-09-04-pgr-exposta-mencoes-a-gonet
+attributed_to: Jornal de Brasília, com base em relatos de procuradores
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

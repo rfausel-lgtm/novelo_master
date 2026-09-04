@@ -1,0 +1,20 @@
+id: ev-curva-dos-acordos-rejeitados-no-brazil-realty
+kind: evidence
+classification: D
+proposition: 'A curva das propostas de acordo no processo do Brazil Realty mostra a mudança de postura
+  do regulador à medida que o caso se agravava: R$ 1,5 milhão em 2021/22, rejeitada; R$ 3,8 milhões em
+  2023, rejeitada; e R$ 21,285 milhões, que o Comitê de Termo de Compromisso recomendou ACEITAR e o Colegiado
+  rejeitou por unanimidade em 02/12/2025, citando como fatos supervenientes a liquidação do Banco Master,
+  a prisão de Vorcaro e a Operação Compliance Zero. A área técnica estimou prejuízos individualizados
+  em R$ 94.149.397,67. Registre-se que circulou na imprensa uma rodada intermediária de ''R$ 8,7 milhões
+  em 2024'' que não consta do registro primário e não deve ser usada.'
+document_ids:
+- doc-2025-12-02-parecer-ctc-642-brazil-realty
+source_ids:
+- src-cvm-voto-vista-accioly-brazil-realty-pdf
+date: '2025-12-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,22 @@
+id: ev-mecanismo-da-fraude-no-brazil-realty
+kind: evidence
+classification: D
+proposition: 'O parecer técnico da CVM descreve o mecanismo apurado no Brazil Realty FII: laudo de avaliação
+  sem assinatura e sem identificação do avaliador; sobreavaliação de R$ 56 milhões; a avaliadora não reconheceu
+  a autoria do laudo; a matrícula do imóvel apontava outro proprietário; o pagamento de R$ 5 mil pelo
+  serviço foi feito em espécie; e o recibo ''aparenta ser uma imagem com a assinatura do contratado colada''.
+  A Entre Investimentos e a administradora operaram como ''espécie de câmara de liquidação'', em 177 operações.
+  O retorno irregular apurado da Milo Investimentos foi de R$ 84.975.236,17, e o lucro do Banco Máxima,
+  de R$ 10,8 milhões. Entre os investidores finais que absorveram o prejuízo havia regimes próprios de
+  previdência social — o mesmo tipo de vítima da frente rondoniense.'
+document_ids:
+- doc-2025-12-02-parecer-ctc-642-brazil-realty
+source_ids:
+- src-cvm-parecer-ctc-642-brazil-realty-pdf
+excerpt: Aparenta ser uma imagem com a assinatura do contratado colada.
+date: '2025-12-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

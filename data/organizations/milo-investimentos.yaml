@@ -1,0 +1,32 @@
+id: milo-investimentos
+kind: organization
+name: Milo Investimentos
+aliases: []
+org_type: company
+summary: Empresa do núcleo familiar de Daniel Vorcaro, sediada em Nova Lima (MG) e administrada pelo pai,
+  Henrique Vorcaro, e pela irmã, Natália Vorcaro Zettel. Aparece em três frentes distintas do caso. Na
+  frente do mercado de capitais, é acusada no PAS CVM 19957.005363/2021-01, sobre criação de condições
+  artificiais de demanda na transferência de cotas do Brazil Realty FII — a operação de 'money pass' —,
+  pautado para julgamento em 08/09/2026; no processo conexo sobre a terceira emissão do mesmo fundo, o
+  parecer técnico apura retorno irregular de R$ 84.975.236,17 em seu favor. Na frente dos fundos de previdência,
+  teria recebido cerca de R$ 64 milhões dos fundos São Domingos e Monte Carlo, geridos pela antiga Foco
+  DTVM, e o Fundo Monte Carlo teria adquirido R$ 14,5 milhões em debêntures da empresa em 2017. Aparece
+  ainda em documento protocolado na CPI do Crime Organizado a respeito da cadeia investigada em Rondônia.
+why_in_novelo: Empresa familiar dos Vorcaro que aparece como destinatária de recursos em três frentes
+  distintas do caso — mercado de capitais, fundos de previdência e a apuração rondoniense.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Não há, no corpus, manifestação da Milo Investimentos ou de seus administradores sobre nenhuma das imputações;
+  nenhuma foi julgada.
+source_ids:
+- src-cvm-pauta-julgamento-2026-09-08
+- src-cvm-parecer-ctc-642-brazil-realty-pdf
+- src-metropoles-2026-02-17-pf-reexamina-pericias-fundos
+jurisdiction: Brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

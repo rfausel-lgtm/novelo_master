@@ -1,0 +1,24 @@
+id: ev-resposta-da-pf-apenas-por-interlocutores
+kind: evidence
+classification: A
+proposition: A resposta da Polícia Federal às acusações veio inteiramente por fontes anônimas e 'interlocutores',
+  sem nota institucional assinada, sem assessoria identificada e sem porta-voz — e sem pronunciamento
+  público do próprio diretor-geral sobre o mérito. Manchetes do tipo 'Polícia Federal nega intimidações'
+  superdimensionam a fonte. O conteúdo da resposta é que Vorcaro não dependia da PF para delatar, podendo
+  negociar diretamente com a PGR, e que propostas anteriores foram rejeitadas por não trazerem fatos novos.
+  Sobre a relação pessoal, a versão de um único encontro casual em Londres, limitado a um aperto de mão,
+  é enfraquecida por mensagens do próprio relatório da PF que mostram o convite ao diretor-geral tratado
+  com Fábio Faria, com despesas e hospedagem custeadas pelo organizador — o que não prova intimidação,
+  mas torna a versão do encontro fortuito mais frágil do que se apresentou. A ausência de manifestação
+  formal da corporação, dias depois de uma acusação de tortura sob custódia, é em si um dado.
+document_ids: []
+source_ids:
+- src-radiopampa-2026-09-investigadores-da-pf-rebatem
+- src-pf-relatorio-ipj-3298613-2026-integra
+attributed_to: Verificação da equipe sobre a natureza das fontes da resposta
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

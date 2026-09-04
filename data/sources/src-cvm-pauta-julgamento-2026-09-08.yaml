@@ -1,0 +1,26 @@
+id: src-cvm-pauta-julgamento-2026-09-08
+kind: source
+title: Pauta de julgamentos da CVM — sessão de 08/09/2026
+publisher: Comissão de Valores Mobiliários
+publication_date: '2026-08-28'
+retrieved_at: '2026-09-03'
+url: https://www.gov.br/cvm/pt-br/assuntos/processos/pautas-de-julgamento/pautadejulgamentos-2026-08-28-1.pdf
+source_type: official_regulator
+summary: 'Pauta oficial, atualizada em 28/08/2026 e publicada no Diário Eletrônico de 07/08/2026, marcando
+  para 08/09/2026, às 15h, em sessão presencial no Rio de Janeiro, o julgamento de dois processos do caso,
+  ambos sob relatoria do diretor João Accioly: o PAS 19957.007976/2020-94, sobre ''operação fraudulenta
+  no mercado de capitais, cumulada com violação de deveres fiduciários e informacionais e prática de embaraço
+  à fiscalização'' no Brazil Realty FII; e o PAS 19957.005363/2021-01, sobre criação de condições artificiais
+  de demanda em transferência de cotas do mesmo fundo.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: Processos podem ser retirados de pauta na véspera; a pauta deve ser reconferida antes de tratar
+  o julgamento como realizado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

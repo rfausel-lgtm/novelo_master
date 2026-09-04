@@ -11,19 +11,40 @@ summary: 'Autarquia federal responsável pela regulação e fiscalização do me
   em fevereiro de 2026, foram 314 processos desde 2017 e 14 termos de acusação relacionados ao grupo.
   A autarquia enfrenta paralisia reconhecida judicialmente: em julho de 2026 o STF homologou plano emergencial
   de reestruturação na ADI 7.791, diante de cerca de 1.500 processos pendentes, e o Colegiado operou 2026
-  com três de cinco cadeiras vagas.'
+  com três de cinco cadeiras vagas. Entre os processos, destaca-se o do Brazil Realty FII (PAS 19957.007976/2020-94),
+  em que o parecer técnico descreve laudo de avaliação sem assinatura, sobreavaliação de R$ 56 milhões,
+  avaliadora que não reconheceu a autoria e recibo com assinatura aparentemente colada, com retorno irregular
+  de R$ 84,9 milhões à Milo Investimentos e regimes próprios de previdência entre os lesados. Três propostas
+  de acordo foram rejeitadas — a última, de R$ 21,285 milhões, por unanimidade em 02/12/2025, contra a
+  recomendação do próprio Comitê. O julgamento estava marcado para 08/09/2026.'
 why_in_novelo: Regulador do mercado de capitais que processou repetidamente as empresas e pessoas do caso
   Master antes do colapso, e cuja atuação passou a ser questionada no Senado.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: clarification
+  summary: Em audiência no Senado, o presidente interino afirmou que 'se houve omissão da CVM, foi na
+    divulgação do que a CVM fez', atribuiu limitações à redução de 70% do orçamento discricionário desde
+    2015 e admitiu que 'pode ter havido erro'.
+  source_ids:
+  - src-senado-2026-02-24-cae-ouve-presidente-interino-da-cvm
+  by_id: comissao-de-valores-mobiliarios
+  date: '2026-02-24'
 open_questions:
 - A CVM nunca deu explicação pública sobre o PAS 19957.008699/2019-01, o processo sobre desvio de recursos
   de regimes próprios de previdência, que segue sem julgamento desde 2016 e sequer consta da apresentação
   levada ao Senado em fevereiro de 2026.
+- A CVM registra treze comunicações formais a MPF, Banco Central, Receita, SUSEP, COAF e B3/BSM entre
+  junho de 2017 e janeiro de 2026, mas não divulgou a lista — não há documento público que mostre se alguma
+  delas nomeia Vorcaro ou o Banco Máxima. O relatório integral do grupo de trabalho interno, que apurou
+  314 processos desde 2017, também não foi publicado.
 source_ids:
 - src-cvm-2020-12-01-decisao-tc-debentures
 - src-cvm-processos-a-julgar-por-relator
+- src-cvm-pauta-julgamento-2026-09-08
+- src-cvm-parecer-ctc-642-brazil-realty-pdf
+- src-cvm-voto-vista-accioly-brazil-realty-pdf
+- src-senado-2026-02-24-cae-ouve-presidente-interino-da-cvm
+- src-cvm-2026-02-06-gt-grupo-master-reag
+- src-cvm-2026-comite-de-riscos-recomendacoes-gt-master
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

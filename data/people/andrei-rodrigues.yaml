@@ -73,6 +73,10 @@ open_questions:
   — posterior à data desta atualização. A resposta dele não é conhecida.
 - O relatório não esclarece qual 'Ministro' teria feito o convite a ele em 03/04/2024, nem a identidade
   do contato 'Marcio Conjur' e do interlocutor não identificado que propôs o convite.
+- Os pedidos do partido Novo de afastamento cautelar (02/09/2026) e de prisão preventiva (03/09/2026)
+  seguem sem decisão do relator. O arquivamento das alegações de intimidação é apenas parecer da PGR,
+  sem homologação. E a resposta da corporação às acusações veio apenas por interlocutores, sem nota institucional
+  assinada.
 source_ids:
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-congressoemfoco-2026-09-01-relatorio-pf
@@ -94,6 +98,8 @@ source_ids:
 - src-migalhas-2026-09-03-fachin-cinco-dias-pet-16704
 - src-poder360-2026-05-04-novo-pede-apuracao-viagem-londres
 - src-em-platobr-2026-09-reacao-da-pf-as-citacoes
+- src-poder360-2026-09-02-pgr-quer-arquivar-depoimento
+- src-radiopampa-2026-09-investigadores-da-pf-rebatem
 full_name: Andrei Augusto Passos Rodrigues
 review_status: published
 reviewer: orquestrador

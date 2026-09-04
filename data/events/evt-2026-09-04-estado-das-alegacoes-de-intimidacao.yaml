@@ -1,0 +1,44 @@
+id: evt-2026-09-04-estado-das-alegacoes-de-intimidacao
+kind: event
+title: 'As alegações de intimidação sem desfecho: sem nomes, sem perícia, sem decisão'
+event_type: investigation_step
+date: '2026-09-04'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- andrei-rodrigues
+- paulo-gonet
+- andre-mendonca
+- policia-federal
+description: 'Balanço do estado das alegações de que agentes da PF teriam intimidado Vorcaro para impedir
+  uma delação. Ele não nomeou nenhum agente — os supostos autores estavam mascarados e são descritos genericamente
+  —, não houve perícia, exame de corpo de delito ou qualquer verificação material, e nenhum agente foi
+  formalmente investigado. Os pedidos do partido Novo contra o diretor-geral seguem sem decisão, e o arquivamento
+  é apenas parecer da PGR, cuja homologação cabe ao relator. Do outro lado, a resposta da corporação veio
+  apenas por interlocutores, sem nota institucional, e a versão do encontro casual em Londres é enfraquecida
+  pelo próprio relatório da PF. Pesa contra a alegação o contexto: é a terceira tentativa de delação,
+  feita no mesmo dia em que ele deveria depor à PF, e o pedido de reabertura da colaboração veio no mesmo
+  ato. E pesa sobre o arquivamento o fato de o procurador-geral que o pediu ser ele próprio citado nas
+  mensagens.'
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-vorcaro-nao-nomeou-os-agentes
+- ev-sem-pericia-e-sem-apuracao-contra-agentes
+- ev-pedidos-do-novo-e-arquivamento-pendentes
+- ev-resposta-da-pf-apenas-por-interlocutores
+- ev-contexto-que-enfraquece-a-alegacao-de-vorcaro
+- ev-conflito-de-interesse-na-pgr-gonet
+source_ids:
+- src-brasilparalelo-2026-09-integra-depoimento-vorcaro
+- src-poder360-2026-09-02-pgr-quer-arquivar-depoimento
+- src-radiopampa-2026-09-investigadores-da-pf-rebatem
+- src-jbrasilia-2026-09-04-pgr-exposta-mencoes-a-gonet
+- src-tnh1-2026-09-depoimento-clandestino-rachou-defesa
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

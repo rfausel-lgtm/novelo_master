@@ -1,0 +1,37 @@
+id: evt-2026-09-08-cvm-julga-processos-do-master
+kind: event
+title: CVM marca para 8 de setembro o julgamento de dois processos do caso, com Vorcaro entre os acusados
+event_type: regulatory_act
+date: '2026-09-08'
+date_precision: day
+participant_ids:
+- comissao-de-valores-mobiliarios
+- daniel-vorcaro
+- henrique-vorcaro
+- banco-master
+- benjamim-botelho-de-almeida
+- milo-investimentos
+- viking-participacoes
+- entre-investimentos-e-participacoes
+- antonio-carlos-freixo-junior
+description: 'A CVM pautou para 08/09/2026 o julgamento do PAS 19957.007976/2020-94, sobre operação fraudulenta
+  na terceira emissão de cotas do Brazil Realty FII, com dezenove acusados — entre eles Daniel Vorcaro,
+  o pai, o irmão, o Banco Master, a Viking, a Milo, a Sefer, Benjamim Botelho de Almeida, a Entre Investimentos
+  e Antônio Carlos Freixo Júnior —, e do PAS 19957.005363/2021-01, conexo, sobre criação de condições
+  artificiais de demanda. É o mesmo processo que o voto de dezembro de 2020, ao aceitar acordo em que
+  Vorcaro era acusado, considerou sem ''materialidade suficiente para obstar a aceitação das propostas''.
+  Registro prospectivo: processos podem ser retirados de pauta na véspera, e o resultado do julgamento
+  não é conhecido nesta atualização.'
+evidence_class: D
+status: unverified
+evidence_ids:
+- ev-julgamento-cvm-marcado-para-8-de-setembro
+source_ids:
+- src-cvm-pauta-julgamento-2026-09-08
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,30 @@
+id: evt-2026-02-24-cae-cobra-a-cvm-sobre-o-caso-master
+kind: event
+title: 'CAE do Senado cobra a CVM: ''Se houve omissão, foi na divulgação do que a CVM fez'''
+event_type: statement
+date: '2026-02-24'
+date_precision: day
+participant_ids:
+- comissao-de-valores-mobiliarios
+- banco-master
+description: Em audiência na Comissão de Assuntos Econômicos do Senado, o presidente interino da CVM,
+  João Accioly, admitiu limitações da autarquia para fiscalizar o Banco Master, atribuindo-as sobretudo
+  à redução de 70% do orçamento discricionário desde 2015, e afirmou que 'pode ter havido erro'. Sustentou
+  que, 'se houve omissão da CVM, foi na divulgação do que a CVM fez'. Senadores cobraram omissão; Eduardo
+  Braga afirmou que 'não dá pra dizer que a CVM não foi omissa'. A apresentação levada à comissão registra
+  que fundos destinados a investidores profissionais ou exclusivos 'recebem menor ênfase da supervisão
+  preventiva'.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-cvm-cobrada-no-senado-e-balanco-do-gt
+source_ids:
+- src-senado-2026-02-24-cae-ouve-presidente-interino-da-cvm
+- src-cvm-2026-02-06-gt-grupo-master-reag
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

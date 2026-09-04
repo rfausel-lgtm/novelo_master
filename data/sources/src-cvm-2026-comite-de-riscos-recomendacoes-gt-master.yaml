@@ -1,0 +1,22 @@
+id: src-cvm-2026-comite-de-riscos-recomendacoes-gt-master
+kind: source
+title: Comitê de Riscos da CVM analisa recomendações do GT Master
+publisher: Comissão de Valores Mobiliários
+publication_date: '2026'
+retrieved_at: '2026-09-03'
+url: https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/comite-de-riscos-da-cvm-analisa-recomendacoes-do-gt-master
+source_type: official_regulator
+summary: Registra que a CVM fez treze comunicações formais ao MPF, ao Banco Central, à Receita Federal,
+  à SUSEP, ao COAF e à B3/BSM entre junho de 2017 e janeiro de 2026, partindo de cinco superintendências.
+  A lista das comunicações não foi divulgada, e nenhum documento público mostra se alguma delas nomeia
+  Vorcaro ou o Banco Máxima.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

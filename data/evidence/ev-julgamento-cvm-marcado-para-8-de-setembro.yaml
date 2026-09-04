@@ -1,0 +1,22 @@
+id: ev-julgamento-cvm-marcado-para-8-de-setembro
+kind: evidence
+classification: D
+proposition: A CVM marcou para 08/09/2026, às 15h, em sessão presencial no Rio de Janeiro, o julgamento
+  de dois processos do caso, ambos sob relatoria do diretor João Accioly. O PAS 19957.007976/2020-94 apura
+  'operação fraudulenta no mercado de capitais, cumulada com violação de deveres fiduciários e informacionais
+  e prática de embaraço à fiscalização' na terceira emissão de cotas do Brazil Realty FII, e tem dezenove
+  acusados — entre eles Daniel Vorcaro, o pai Henrique Vorcaro, o irmão Felipe Cançado Vorcaro, o Banco
+  Master, a Viking Participações, a Milo Investimentos, a Sefer (antiga Foco DTVM), Benjamim Botelho de
+  Almeida, a Entre Investimentos e Antônio Carlos Freixo Júnior. O PAS 19957.005363/2021-01 apura criação
+  de condições artificiais de demanda na transferência de cotas do mesmo fundo, envolvendo a Milo Investimentos,
+  e está conexo ao primeiro desde 30/01/2024. Processos podem ser retirados de pauta na véspera.
+document_ids:
+- doc-2026-08-28-pauta-julgamento-cvm-08-09
+source_ids:
+- src-cvm-pauta-julgamento-2026-09-08
+date: '2026-08-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

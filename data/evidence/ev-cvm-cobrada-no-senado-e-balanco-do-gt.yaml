@@ -1,0 +1,27 @@
+id: ev-cvm-cobrada-no-senado-e-balanco-do-gt
+kind: evidence
+classification: C
+proposition: 'A atuação da CVM foi cobrada no Senado. Em audiência na Comissão de Assuntos Econômicos,
+  em 24/02/2026, o presidente interino João Accioly declarou: ''Se houve omissão da CVM, foi na divulgação
+  do que a CVM fez''; que ''de 2015 para cá, o orçamento discricionário da CVM foi reduzido em 70%, em
+  valores ajustados com a inflação, em um tempo em que o mercado de capitais cresceu''; e que ''pode ter
+  havido erro — certamente, não é impossível''. O senador Eduardo Braga respondeu que ''não dá pra dizer
+  que a CVM não foi omissa''. A apresentação levada ao Senado registra a justificativa da supervisão menos
+  intensa: ''fundos para investidores profissionais ou exclusivos, por exemplo, recebem menor ênfase da
+  supervisão preventiva''. Grupo de trabalho interno criado em 06/02/2026 relatou 314 processos desde
+  2017 e 14 termos de acusação relacionados ao grupo; o relatório integral não foi publicado. A autarquia
+  registra ainda treze comunicações formais a MPF, Banco Central, Receita Federal, SUSEP, COAF e B3/BSM
+  entre junho de 2017 e janeiro de 2026, sem divulgar a lista — e afirma ter comunicado o caso ao MPF
+  em junho de 2025, antes da Operação Carbono Oculto.'
+document_ids: []
+source_ids:
+- src-senado-2026-02-24-cae-ouve-presidente-interino-da-cvm
+- src-cvm-2026-02-06-gt-grupo-master-reag
+- src-cvm-2026-comite-de-riscos-recomendacoes-gt-master
+excerpt: Se houve omissão da CVM, foi na divulgação do que a CVM fez.
+date: '2026-02-24'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

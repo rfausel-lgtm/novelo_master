@@ -1,0 +1,23 @@
+id: src-cvm-voto-vista-accioly-brazil-realty-pdf
+kind: source
+title: Voto-vista do diretor João Accioly — PAS 19957.007976/2020-94 (rejeição do termo de compromisso)
+publisher: Comissão de Valores Mobiliários
+publication_date: '2025-12-02'
+retrieved_at: '2026-09-03'
+url: https://conteudo.cvm.gov.br/export/sites/cvm/decisoes/anexos/2025/20251202/2655_22_DJA.pdf
+source_type: official_regulator
+summary: Voto-vista lido pela equipe. Registra a curva das propostas de termo de compromisso no processo
+  — R$ 1,5 milhão em 2021/22, rejeitada; R$ 3,8 milhões em 2023, rejeitada; e R$ 21,285 milhões, que o
+  Comitê recomendou aceitar e o Colegiado rejeitou por unanimidade em 02/12/2025. Cita como fatos supervenientes
+  a liquidação do Banco Master, a prisão de Vorcaro e a Operação Compliance Zero. Registra que a área
+  técnica estimou prejuízos individualizados em R$ 94.149.397,67.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
