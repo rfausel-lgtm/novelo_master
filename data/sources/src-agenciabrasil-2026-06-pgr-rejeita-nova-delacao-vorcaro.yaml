@@ -1,0 +1,20 @@
+id: src-agenciabrasil-2026-06-pgr-rejeita-nova-delacao-vorcaro
+kind: source
+title: PGR rejeita nova proposta de delação de Vorcaro
+publisher: Agência Brasil
+publication_date: 2026-06
+retrieved_at: '2026-09-03'
+url: https://agenciabrasil.ebc.com.br/justica/noticia/2026-06/pgr-rejeita-nova-proposta-de-delacao-de-vorcaro
+source_type: press
+summary: Confirma a rejeição da segunda proposta de delação de Vorcaro pela PGR, por ausência de elementos
+  novos em relação ao material já apreendido.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

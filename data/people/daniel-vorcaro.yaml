@@ -55,6 +55,18 @@ cited_position:
   - src-cnnbrasil-2026-09-04-vorcaro-poupar-moraes-terceira-delacao
   by_id: daniel-vorcaro
   date: '2026-09-04'
+- kind: no_response
+  summary: Não há, nas fontes consultadas, declaração pública de Vorcaro ou de sua defesa comentando especificamente
+    a delação de Mansur.
+  source_ids:
+  - src-poder360-2026-09-02-pgr-aceita-delacao-mansur
+  date: 2026-09
+- kind: no_response
+  summary: Não há, nas fontes consultadas, declaração pública de Vorcaro ou de sua defesa comentando especificamente
+    a delação de Mansur.
+  source_ids:
+  - src-poder360-2026-09-02-pgr-aceita-delacao-mansur
+  date: 2026-09
 open_questions:
 - Não há, no corpus, a íntegra das decisões judiciais; o conteúdo registrado é o das comunicações oficiais
   do STF.
@@ -86,6 +98,8 @@ source_ids:
 - src-ndmais-2026-09-04-vorcaro-terror-depoimento-pf
 - src-jbrasilia-2026-09-04-fachin-avoca-pedido-moraes-mendonca
 - src-cnnbrasil-2026-09-04-vorcaro-poupar-moraes-terceira-delacao
+- src-cnnbrasil-2026-06-15-pgr-rejeita-segunda-delacao-vorcaro
+- src-poder360-2026-09-02-pgr-aceita-delacao-mansur
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published

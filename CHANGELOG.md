@@ -7,6 +7,12 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 52 do corpus: a primeira delação da Compliance Zero em detalhe. A PGR assinou, em 02/09/2026, o
+  acordo com João Carlos Mansur (ex-Reag) — 17 temas, multa de R$ 40 milhões —, que promete revelar o
+  paradeiro de R$ 20 bilhões em ativos atribuídos a Vorcaro; audiência de voluntariedade ocorreu em
+  03/09, homologação por Mendonça ainda pendente. Registra também a rejeição da segunda proposta de
+  delação do próprio Vorcaro em 15/06/2026 — antecedente direto da terceira tentativa já registrada no
+  lote 51.
 - Lote 51 do corpus: Vorcaro sinaliza que vai poupar Moraes em sua terceira tentativa de delação premiada
   — após duas propostas já rejeitadas por PF e PGR, mantém a versão de relação de amizade com o ministro
   e de contrato comercial de R$ 129 milhões com a advogada Viviane Barci de Moraes. Segundo a CNN Brasil,

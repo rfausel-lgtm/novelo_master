@@ -1,0 +1,18 @@
+id: ev-pgr-rejeita-segunda-delacao-vorcaro-2026-06-15
+kind: evidence
+classification: C
+proposition: Em 15/06/2026, a PGR rejeitou a segunda proposta de delação de Vorcaro, apresentada entre
+  1º e 02/06/2026, por entender que não trazia elementos novos em relação ao material já apreendido —
+  as declarações incluíam trechos como 'ouvi dizer' e não havia compromisso com valores específicos. A
+  PF já havia chegado à mesma conclusão. Após a rejeição, Vorcaro reorganizou sua equipe de defesa, com
+  o criminalista Sérgio Leonardo assumindo a liderança do caso.
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-06-15-pgr-rejeita-segunda-delacao-vorcaro
+- src-agenciabrasil-2026-06-pgr-rejeita-nova-delacao-vorcaro
+date: '2026-06-15'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

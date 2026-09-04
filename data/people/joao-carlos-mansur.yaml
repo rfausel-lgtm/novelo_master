@@ -8,8 +8,16 @@ summary: Fundou a Reag Investimentos em 2012 e a comandou até 2025, quando vend
   internos. Segundo documento do BRB ao BC (23/04/2025) noticiado pelo Metrópoles e pela CNN, adquiriu
   em 04/04/2025 ações do BRB por R$ 193,3 milhões por meio do fundo Celeno, administrado pelo Banco Master,
   passando a deter 4,5% da estatal. Foi alvo da operação Carbono Oculto. Sua defesa não respondeu à CNN.
+  Em 02/09/2026, assinou com a PGR a primeira delação da Operação Compliance Zero — 17 temas, multa de
+  R$ 40 milhões —, prometendo revelar o paradeiro de R$ 20 bilhões em ativos atribuídos a Vorcaro. Audiência
+  de voluntariedade ocorreu em 03/09/2026; a homologação, pelo relator André Mendonça, seguia pendente
+  até a data desta atualização. Em 02/09/2026, assinou com a PGR a primeira delação da Operação Compliance
+  Zero — 17 temas, multa de R$ 40 milhões —, prometendo revelar o paradeiro de R$ 20 bilhões em ativos
+  atribuídos a Vorcaro. Audiência de voluntariedade ocorreu em 03/09/2026; a homologação, pelo relator
+  André Mendonça, seguia pendente até a data desta atualização.
 why_in_novelo: Comprou ações do BRB por meio de fundo administrado pelo Banco Master, segundo documento
-  do próprio BRB noticiado pela imprensa.
+  do próprio BRB noticiado pela imprensa. Firmou a primeira delação premiada da Operação Compliance Zero.
+  Firmou a primeira delação premiada da Operação Compliance Zero.
 cited_position:
 - kind: no_response
   summary: A defesa de João Carlos Mansur não respondeu à CNN Brasil até a publicação.
@@ -22,6 +30,9 @@ open_questions:
 - O corpus não registra a situação atual da participação de Mansur no BRB após a auditoria independente.
 source_ids:
 - src-cnn-2026-02-05-mansur-reag-brb
+- src-poder360-2026-09-02-pgr-aceita-delacao-mansur
+- src-oglobo-2026-mansur-promete-revelar-20-bilhoes-vorcaro
+- src-bahianoticias-2026-09-mansur-jaguar-fund-botelho
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
