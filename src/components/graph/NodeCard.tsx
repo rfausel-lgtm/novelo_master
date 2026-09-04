@@ -170,9 +170,16 @@ export function NodeCard(props: NodeCardProps) {
     <PanelShell
       onClose={onClose}
       labelledBy="node-card-title"
+      /*
+        No celular o cabeçalho fica fixo enquanto a folha rola: mostrava a categoria em caixa alta
+        e o leitor perdia de vista de quem se trata. O nome vem primeiro; a categoria fica ao lado.
+      */
       title={
-        <span className="text-fg-3 text-[10.5px] font-semibold tracking-[0.14em] uppercase">
-          {NODE_CATEGORY_LABEL[node.category]}
+        <span className="flex min-w-0 items-baseline gap-2">
+          <span className="text-fg truncate text-sm font-semibold">{node.label}</span>
+          <span className="text-fg-3 shrink-0 text-[10px] font-semibold tracking-[0.14em] uppercase">
+            {NODE_CATEGORY_LABEL[node.category]}
+          </span>
         </span>
       }
     >
@@ -209,6 +216,10 @@ export function NodeCard(props: NodeCardProps) {
         <Counter label="evidências" value={visibleStats.evidence} title="Evidências ligadas às conexões visíveis." />
       </div>
 
+      {/*
+        Eram nove botões em três linhas antes de qualquer conteúdo: na folha inferior do celular
+        sobrava espaço para duas conexões. Ficam três à mostra; o resto sai do caminho.
+      */}
       <div className="mt-4 flex flex-wrap gap-1.5">
         {!node.href.startsWith("/grafo") && (
           <Link
@@ -233,6 +244,11 @@ export function NodeCard(props: NodeCardProps) {
         >
           Expandir 2º grau (+{expansionCounts.second})
         </ToolButton>
+      </div>
+
+      <details className="mt-2">
+        <summary className="text-fg-3 hover:text-fg cursor-pointer text-xs">Mais ações</summary>
+        <div className="mt-2 flex flex-wrap gap-1.5">
         <ToolButton
           active={focusDepth === 3}
           onClick={() => onFocus(focusDepth === 3 ? 2 : 3)}
@@ -260,7 +276,8 @@ export function NodeCard(props: NodeCardProps) {
         </ToolButton>
         <ToolButton onClick={onPathFrom}>Caminho até…</ToolButton>
         {isEvent && <ToolButton onClick={onBeforeAfter}>Antes / depois</ToolButton>}
-      </div>
+        </div>
+      </details>
 
       {isEvent ? (
         <>
@@ -344,8 +361,12 @@ function ConnectionList({
               {c.edgeLabel}
               {c.count > 1 && ` +${c.count - 1}`}
             </span>
-            <span className="text-fg-3 shrink-0 font-mono text-[10.5px] tabular-nums">
-              {c.node.degree}
+            {/* Número nu não se explica: "74" ao lado de um nome não diz o que conta. */}
+            <span
+              className="text-fg-3 shrink-0 font-mono text-[10.5px] tabular-nums"
+              title={`${c.node.degree} conexões no corpus`}
+            >
+              {c.node.degree} ↔
             </span>
           </button>
         </li>

@@ -87,9 +87,15 @@ export function EdgeCard({ index, edge, onClose, onSelectNode, sourceIndex }: Ed
     <PanelShell
       onClose={onClose}
       labelledBy="edge-card-title"
+      /* Mesmo motivo do card de nó: o cabeçalho fixo precisa dizer QUAL conexão. */
       title={
-        <span className="text-fg-3 text-[10.5px] font-semibold tracking-[0.14em] uppercase">
-          Conexão
+        <span className="flex min-w-0 items-baseline gap-2">
+          <span className="text-fg truncate text-sm font-semibold">
+            {source?.label ?? edge.source} {edge.directed ? "→" : "—"} {target?.label ?? edge.target}
+          </span>
+          <span className="text-fg-3 shrink-0 text-[10px] font-semibold tracking-[0.14em] uppercase">
+            Conexão
+          </span>
         </span>
       }
     >

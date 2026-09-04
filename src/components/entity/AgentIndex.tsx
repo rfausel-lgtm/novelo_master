@@ -5,6 +5,7 @@ import { relationshipsOf, sourcesOf } from "@/lib/data";
 import { officialCount } from "@/lib/pages";
 import { Avatar } from "./EntityHeader";
 import { Pill } from "./badges";
+import { FiltroIndice } from "./FiltroIndice";
 
 /** Índice de pessoas ou organizações, agrupado por categoria. */
 export function AgentIndex({ entities, basePath }: { entities: (Person | Organization)[]; basePath: string }) {
@@ -15,8 +16,11 @@ export function AgentIndex({ entities, basePath }: { entities: (Person | Organiz
   }
   const ordered = [...groups.entries()].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0], "pt-BR"));
   if (entities.length === 0) return <p className="text-fg-3 text-sm italic">Nenhum registro publicado ainda.</p>;
+  const idLista = `indice-${basePath.replace(/\W+/g, "")}`;
   return (
-    <div className="space-y-8">
+    <div>
+      <FiltroIndice alvo={idLista} rotulo="Filtrar por nome" />
+      <div id={idLista} className="space-y-8">
       <nav aria-label="Categorias" className="flex flex-wrap gap-2 text-xs">
         {ordered.map(([g, list]) => (
           <a key={g} href={`#cat-${g.replace(/\W+/g, "-").toLowerCase()}`} className="border-border text-fg-2 hover:text-fg rounded border px-2 py-1">
@@ -25,16 +29,19 @@ export function AgentIndex({ entities, basePath }: { entities: (Person | Organiz
         ))}
       </nav>
       {ordered.map(([g, list]) => (
-        <section key={g} id={`cat-${g.replace(/\W+/g, "-").toLowerCase()}`} aria-labelledby={`h-${g}`}>
+        <section key={g} data-categoria={g} id={`cat-${g.replace(/\W+/g, "-").toLowerCase()}`} aria-labelledby={`h-${g}`}>
           <h2 id={`h-${g}`} className="text-fg mb-3 text-lg font-semibold tracking-tight">
-            {g} <span className="text-fg-3 font-mono text-xs font-normal">{list.length}</span>
+            {g}{" "}
+            <span data-contador className="text-fg-3 font-mono text-xs font-normal">
+              {list.length}
+            </span>
           </h2>
           <ul className="grid gap-3 sm:grid-cols-2">
             {list.map((e) => {
               const rels = relationshipsOf(e.id).length;
               const official = officialCount(sourcesOf(e.id));
               return (
-                <li key={e.id} className="border-border bg-bg-2/50 hover:border-fg-3 flex gap-3 rounded-md border p-3 transition-colors">
+                <li key={e.id} data-nome={e.name} className="border-border bg-bg-2/50 hover:border-fg-3 flex gap-3 rounded-md border p-3 transition-colors">
                   <Avatar entity={e} size={44} />
                   <div className="min-w-0 flex-1">
                     <Link href={`${basePath}/${e.id}`} className="text-fg hover:text-accent font-medium underline-offset-2 hover:underline">
@@ -53,6 +60,7 @@ export function AgentIndex({ entities, basePath }: { entities: (Person | Organiz
           </ul>
         </section>
       ))}
+      </div>
     </div>
   );
 }

@@ -33,6 +33,9 @@ const CATEGORIES: NodeCategory[] = [
   "evidence",
 ];
 
+/* Estes quatro só existem no mapa depois de ligar a camada de evidência, nos filtros. */
+const SO_NA_CAMADA = new Set<NodeCategory>(["document", "source", "claim", "evidence"]);
+
 function Stroke({ cls }: { cls: EvidenceClass }) {
   const shape = EVIDENCE_SHAPE[cls];
   const dash = shape === "dashed" ? "6 4" : shape === "dotted" ? "1.5 3.5" : undefined;
@@ -106,10 +109,16 @@ export function Legend({ compact = false }: { compact?: boolean }) {
                   className={`h-2.5 w-2.5 shrink-0 ${c === "event" || c === "public_act" ? "rotate-45 rounded-sm" : "rounded-full"}`}
                   style={{ background: `var(${NODE_VAR[c]})` }}
                 />
-                <span className="text-fg-2">{NODE_CATEGORY_LABEL[c]}</span>
+                <span className={SO_NA_CAMADA.has(c) ? "text-fg-3" : "text-fg-2"}>
+                  {NODE_CATEGORY_LABEL[c]}
+                </span>
               </li>
             ))}
           </ul>
+          <p className="text-fg-3 mt-1.5 text-[11px]">
+            Documentos, fontes, claims e evidências aparecem ao ligar a{" "}
+            <span className="text-fg-2">camada de evidência</span>, nos filtros.
+          </p>
         </div>
       )}
       <p className="text-fg-3">
