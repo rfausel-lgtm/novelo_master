@@ -17,6 +17,14 @@ cited_position:
   - src-cnn-2026-01-21-liquidacao-will-financeira
   by_id: daniel-vorcaro
   date: '2026-01-21'
+- kind: version
+  summary: Vorcaro afirma que a venda do Will Bank ao fundo Mubadala Capital (Abu Dhabi) estava praticamente
+    concluída e seria formalizada no dia da liquidação do Master, mas foi interrompida pela ação da PF
+    e do BC — alegação sem confirmação independente localizada.
+  source_ids:
+  - src-poder360-2026-will-bank-venda-mesmo-dia-liquidacao
+  by_id: daniel-vorcaro
+  date: '2026'
 open_questions:
 - O ato do BC de 21/01/2026 não foi lido pela equipe (páginas do BC exigem JavaScript); o corpus registra
   a descrição da CNN e do Migalhas.
@@ -25,6 +33,7 @@ source_ids:
 - src-cnn-2026-03-04-relembre-crise-master
 - src-cnn-2026-01-21-liquidacao-will-financeira
 - src-migalhas-2026-02-03-liquidacao-reag-will
+- src-poder360-2026-will-bank-venda-mesmo-dia-liquidacao
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

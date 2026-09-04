@@ -1,0 +1,25 @@
+id: src-poder360-2026-bc-sabia-fraude-antes-venda-voiter
+kind: source
+title: Mesmo sabendo de fraudes, BC autorizou venda do Banco Voiter
+publisher: Poder360
+publication_date: '2026'
+retrieved_at: '2026-09-03'
+url: https://www.poder360.com.br/poder-justica/mesmo-sabendo-de-fraudes-bc-autorizou-venda-do-banco-voiter/
+source_type: press
+summary: Relata que o Banco Central aprovou, em 24/07/2025, a transferência de controle do Banco Voiter
+  (depois renomeado Banco Pleno) do Master para Augusto Lima mesmo após técnicos da própria autarquia
+  terem identificado irregularidades e 'créditos podres' ligados ao Master, com comunicação formal de
+  indícios de fraude ao Ministério Público Federal.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: A reportagem não identifica quem, na diretoria do BC, aprovou a venda, nem traz explicação oficial
+  do BC para a contradição de datas — tratar como indício a apurar, não como fato definitivo de conduta
+  irregular do BC.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

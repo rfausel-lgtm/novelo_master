@@ -20,7 +20,11 @@ summary: Ex-CEO e ex-sócio do Banco Master. Empresário baiano; antes do setor 
   apócrifo, de autoria não confirmada, encontrado pela PF em arquivo digital de Vorcaro, o descreve como
   'dono e presidente de fato' do Master e Vorcaro como 'laranja' — hipótese sob apuração, não confirmada
   pela PF. Rompeu o silêncio em agosto de 2026 e trocou parte da equipe de defesa, que nega qualquer negociação
-  de delação.
+  de delação. Fez dois aportes de capital somando R$ 160 milhões no Voiter/Pleno, insuficientes para cobrir
+  os cerca de R$ 6 bilhões em CDBs herdados da era Master; a instituição foi liquidada em 18/02/2026.
+  Preso preventivamente na Operação Compliance Zero em novembro de 2025, teve a prisão revogada por habeas
+  corpus em janeiro de 2026 e está em prisão domiciliar com tornozeleira eletrônica, proibido de exercer
+  atividade financeira, contatar outros investigados ou deixar o país.
 why_in_novelo: Foi executivo e sócio do Banco Master, alvo da Operação Compliance Zero, e participou do
   encontro de dezembro de 2024 no Planalto, segundo a imprensa.
 cited_position:
@@ -62,6 +66,7 @@ source_ids:
 - src-poder360-2026-06-18-defesa-augusto-lima-nega
 - src-metropoles-2026-08-04-augusto-lima-decide-falar
 - src-gazetadopovo-2026-03-11-dossie-fraudes-ex-socios
+- src-poder360-2026-bc-sabia-fraude-antes-venda-voiter
 full_name: Augusto Ferreira Lima
 review_status: published
 reviewer: orquestrador

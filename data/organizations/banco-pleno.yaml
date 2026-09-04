@@ -7,7 +7,12 @@ org_type: financial_institution
 summary: Banco de Augusto Lima, ex-sócio de Vorcaro no Master; operava como Voiter até a aquisição por
   Lima, aprovada pelo BC em julho de 2025. Em 18/02/2026 o BC decretou a liquidação extrajudicial do Banco
   Pleno S.A. e da Pleno DTVM por comprometimento econômico-financeiro e infringência às normas, segundo
-  a imprensa.
+  a imprensa. Augusto Lima fez dois aportes somando R$ 160 milhões, mas o banco havia herdado cerca de
+  R$ 6 bilhões em CDBs emitidos na era Master e não formou carteira de crédito suficiente para cobrir
+  os compromissos; a corrida de saques se intensificou após a prisão de Lima, em novembro de 2025. Segundo
+  o Poder360, o Banco Central já sabia, desde o primeiro semestre de 2025, de indícios de cessão de créditos
+  inexistentes pelo Master ao BRB — e notificou o MPF em julho de 2025, mesmo mês em que aprovou a venda
+  do banco (então Voiter) a Lima.
 why_in_novelo: Instituição do ex-sócio de Daniel Vorcaro, liquidada pelo Banco Central em fevereiro de
   2026, segundo a imprensa.
 cited_position:
@@ -16,13 +21,17 @@ cited_position:
     e não manter relação societária com o Banco Master.
   source_ids:
   - src-cnn-2026-03-04-relembre-crise-master
-open_questions: []
+open_questions:
+- Não está esclarecido, por fonte oficial do BC, por que a autarquia aprovou a transferência de controle
+  do Voiter para Augusto Lima em 24/07/2025 no mesmo mês em que notificara o MPF sobre indícios de fraude
+  do Master — tratar como indício a apurar, não como conduta irregular do BC estabelecida.
 source_ids:
 - src-b3-2026-02-18-liquidacao-banco-pleno
 - src-poder360-2026-06-24-wagner-deixa-lideranca
 - src-cnn-2026-03-04-relembre-crise-master
 - src-dou-2026-02-19-atos-1377-1378
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
+- src-poder360-2026-bc-sabia-fraude-antes-venda-voiter
 full_name: Banco Pleno S.A.
 review_status: published
 reviewer: orquestrador

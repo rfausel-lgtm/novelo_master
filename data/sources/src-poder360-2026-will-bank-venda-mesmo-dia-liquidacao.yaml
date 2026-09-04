@@ -1,0 +1,22 @@
+id: src-poder360-2026-will-bank-venda-mesmo-dia-liquidacao
+kind: source
+title: Will Bank seria vendido no dia da liquidação do Master, diz Vorcaro
+publisher: Poder360
+publication_date: '2026'
+retrieved_at: '2026-09-03'
+url: https://www.poder360.com.br/poder-justica/will-bank-seria-vendido-no-dia-da-liquidacao-do-master-diz-vorcaro/
+source_type: press
+summary: Registra depoimento de Vorcaro afirmando que a venda do Will Bank ao fundo Mubadala Capital (Abu
+  Dhabi) estava praticamente concluída, faltando apenas assinaturas, e seria formalizada em 18/11/2025
+  — mesma data em que o Banco Central decretou a liquidação do Master —, mas foi interrompida pela ação
+  da PF e do BC. A venda não se concretizou; o Will Bank foi liquidado extrajudicialmente em 21/01/2026.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

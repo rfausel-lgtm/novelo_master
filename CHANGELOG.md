@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 50 do corpus: dois pontos de enriquecimento sobre as liquidações satélites do Master. Vorcaro
+  alega, em depoimento, que a venda do Will Bank ao fundo Mubadala Capital (Abu Dhabi) estava praticamente
+  concluída e seria formalizada no mesmo dia da liquidação do Master, mas foi interrompida pela ação da
+  PF e do BC. Registra o indício, levantado pelo Poder360, de que o Banco Central já sabia de créditos
+  podres ligados ao Master antes de aprovar, em 24/07/2025, a venda do Voiter (depois Banco Pleno) a
+  Augusto Lima — cuja situação financeira e pessoal (aportes insuficientes, prisão e prisão domiciliar) é
+  detalhada com mais precisão.
 - Lote 49 do corpus: os desdobramentos de 04/09/2026. Moraes contra-atacou pedindo formalmente a Fachin
   que investigue Mendonça por abuso de autoridade; Fachin avocou o pedido no dia seguinte, dando cinco
   dias úteis à PGR. Veio a público o vídeo do depoimento de Vorcaro à PF ("tenho passado um terror... mas

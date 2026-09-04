@@ -1,0 +1,19 @@
+id: rev-2026-09-04-lote-50-will-bank-pleno-enriquecimento
+kind: revision
+date: '2026-09-03'
+title: 'Lote 50: Will Bank e Banco Pleno — dois pontos de enriquecimento'
+summary: Pesquisa conduzida por agente convocado em paralelo. Acrescenta a alegação da defesa de Vorcaro
+  sobre uma venda do Will Bank ao fundo Mubadala Capital interrompida pela Compliance Zero, e o indício,
+  levantado pelo Poder360, de que o Banco Central já sabia de fraude do Master antes de aprovar a venda
+  do Voiter (depois Banco Pleno) a Augusto Lima — cujas condições financeiras e situação pessoal são detalhadas
+  com mais precisão.
+affected_ids:
+- will-bank
+- banco-pleno
+- augusto-lima
+reason: Aprofundamento das liquidações satélites do Master, identificado por pesquisa paralela.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
