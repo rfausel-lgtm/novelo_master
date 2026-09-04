@@ -18,10 +18,19 @@ cited_position:
   - src-cnn-2026-wajngarten-3-8-milhoes
   by_id: fabio-wajngarten
   date: '2026'
+- kind: clarification
+  summary: 'Negou ser assessor jurídico: ''Onde está escrito serviços advocatícios? Quem disse isso?''
+    Definiu o trabalho como ''defesa de mídia e imprensa. Defesa de crises''.'
+  source_ids:
+  - src-oantagonista-2026-04-09-crusoe-wajngarten-explica
+  by_id: fabio-wajngarten
+  date: '2026-04-09'
 open_questions:
 - O corpus não tem o contrato, protegido por cláusula de confidencialidade segundo o próprio advogado.
 source_ids:
 - src-cnn-2026-wajngarten-3-8-milhoes
+- src-jbrasilia-2026-04-08-wajngarten-contratado
+- src-oantagonista-2026-04-09-crusoe-wajngarten-explica
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

@@ -1,0 +1,26 @@
+id: evt-2026-08-11-vorcaro-troca-parte-da-defesa-sinaliza-colaboracao
+kind: event
+title: Vorcaro reforça defesa com Daniel Bialski, que sinaliza disposição de colaborar com a investigação
+event_type: statement
+date: '2026-08-11'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- daniel-bialski
+- andre-mendonca
+description: Após a rejeição de duas propostas de delação premiada, Daniel Bialski passou a integrar a
+  defesa de Vorcaro ao lado de Sérgio Leonardo e declarou publicamente que o ex-banqueiro 'quer falar
+  e colaborar', pedindo ao relator André Mendonça mais horas de visita e acesso integral à investigação.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-bialski-vorcaro-quer-colaborar
+source_ids:
+- src-otempo-2026-08-11-bialski-vorcaro-quer-colaborar
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

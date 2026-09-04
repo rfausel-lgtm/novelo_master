@@ -1,0 +1,24 @@
+id: oab-conselho-federal
+kind: organization
+name: Ordem dos Advogados do Brasil — Conselho Federal
+aliases:
+- OAB
+- Conselho Federal da OAB
+org_type: association
+summary: Órgão nacional máximo da advocacia brasileira. Em 01/09/2026, por meio do presidente em exercício
+  Délio Lins e Silva Jr., manifestou 'extrema preocupação' com a crise institucional envolvendo o STF,
+  pedindo apuração rigorosa e imparcial dos fatos, com garantia de devido processo, ampla defesa e presunção
+  de inocência — sem pedir o afastamento de nenhum dos envolvidos.
+why_in_novelo: Manifestou-se institucionalmente sobre a crise entre Moraes e Mendonça, em posição mais
+  moderada que a da seccional do Paraná.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-oantagonista-2026-09-01-oab-extrema-preocupacao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

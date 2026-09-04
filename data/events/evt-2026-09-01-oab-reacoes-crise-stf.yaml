@@ -1,0 +1,31 @@
+id: evt-2026-09-01-oab-reacoes-crise-stf
+kind: event
+title: OAB nacional e seccional do Paraná se manifestam sobre a crise institucional, em posições distintas
+event_type: statement
+date: '2026-09-01'
+date_precision: day
+participant_ids:
+- oab-conselho-federal
+- oab-parana
+- alexandre-de-moraes
+- paulo-gonet
+description: 'Em 01/09/2026, o Conselho Federal da OAB manifestou ''extrema preocupação'' com a crise
+  institucional, sem pedir o afastamento de ninguém — postura mais moderada. Dois dias depois, a seccional
+  paranaense da OAB foi além, pedindo o afastamento cautelar de Alexandre de Moraes e a suspeição de Paulo
+  Gonet na condução da PET 16.662. As duas notas registram posições distintas dentro da própria entidade:
+  não representam consenso nacional da advocacia.'
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-oab-nacional-extrema-preocupacao-2026-09-01
+- ev-oabpr-pede-afastamento-moraes-suspeicao-gonet
+source_ids:
+- src-oantagonista-2026-09-01-oab-extrema-preocupacao
+- src-oabpr-2026-09-03-nota-afastamento-moraes-suspeicao-gonet
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

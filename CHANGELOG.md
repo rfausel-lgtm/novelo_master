@@ -7,6 +7,12 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 41 do corpus: a reação da OAB à crise institucional, em duas vozes distintas — o Conselho Federal
+  manifestou 'extrema preocupação' sem pedir afastamentos, enquanto a seccional do Paraná pediu o
+  afastamento cautelar de Moraes e a suspeição de Gonet. Esclarece que o trabalho de Fabio Wajngarten para
+  Vorcaro é de comunicação e gestão de crise, não jurídico ('Onde está escrito serviços advocatícios?').
+  Registra a entrada do advogado Daniel Bialski na defesa de Vorcaro em agosto de 2026, sinalizando
+  disposição de colaborar com a investigação.
 - Lote 40 do corpus: as reações políticas à crise institucional de 03-04/09/2026 — Nikolas Ferreira ('Mendonça
   tem que dar voz de prisão a Moraes em plenário'), deputados do PT pedindo a Fachin que declare a
   suspeição de Mendonça, e o senador Carlos Viana pedindo o afastamento de Gonet. Acrescenta a

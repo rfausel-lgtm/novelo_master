@@ -1,0 +1,24 @@
+id: oab-parana
+kind: organization
+name: Ordem dos Advogados do Brasil — Seccional do Paraná
+aliases:
+- OAB-PR
+org_type: association
+summary: Seccional estadual da OAB. Em 03/09/2026, por nota da diretoria e do conselho pleno, pediu o
+  afastamento cautelar de Alexandre de Moraes 'do exercício de suas funções até o encerramento das apurações'
+  e o reconhecimento da suspeição do procurador-geral Paulo Gonet para atuar na PET 16.662 — argumentando
+  que, por ser citado no relatório da PF (ainda que por contato indireto), Gonet não poderia ao mesmo
+  tempo supervisionar a investigação contra Moraes.
+why_in_novelo: Seccional estadual que assumiu posição pública mais dura que o Conselho Federal da OAB
+  na crise Moraes-Mendonça.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-oabpr-2026-09-03-nota-afastamento-moraes-suspeicao-gonet
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
