@@ -1,0 +1,25 @@
+id: evt-2026-05-25-bc-conclui-sem-risco-sistemico
+kind: event
+title: Banco Central conclui que a liquidação do Master não gerou risco sistêmico
+event_type: publication
+date: '2026-05-25'
+date_precision: day
+participant_ids:
+- banco-central-do-brasil
+description: No Relatório de Estabilidade Financeira de maio de 2026, o Comef do Banco Central concluiu
+  que a liquidação do conglomerado Master, apesar de ser a maior operação da história do FGC, não representou
+  risco sistêmico ao Sistema Financeiro Nacional — as instituições tinham participação inferior a 0,6%
+  do SFN em ativos e depósitos.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-bc-sem-risco-sistemico-master
+source_ids:
+- src-correiobraziliense-2026-05-25-bc-sem-risco-sistemico
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

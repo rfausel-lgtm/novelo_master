@@ -4,20 +4,26 @@ name: FGC
 full_name: Fundo Garantidor de Créditos
 org_type: association
 jurisdiction: Brasil
-summary: Entidade privada que garante depósitos e investimentos em instituições financeiras. Segundo a
-  imprensa, arcou com dezenas de bilhões de reais em garantias após as liquidações do grupo Master. A
-  PEC 65/2023 e a emenda citada pela PF tratavam da ampliação de sua cobertura.
+summary: Entidade privada que garante depósitos e investimentos em instituições financeiras. Na liquidação
+  do grupo Master, a maior operação de ressarcimento de sua história, estimou inicialmente cerca de 1,6
+  milhão de credores elegíveis e R$ 41 bilhões em garantias; em 15/07/2026 já havia desembolsado R$ 40,03
+  bilhões (98,5%) a mais de 718 mil credores nos três bancos do núcleo Master, restando R$ 1,83 bilhão
+  a pagar em todo o conglomerado (incluindo Pleno e Will Bank). Enfrentou milhares de reclamações por
+  demora e instabilidade de sistema nos primeiros meses, mesmo pagando em ritmo recorde. O Banco Central
+  concluiu, em maio de 2026, que a operação não representou risco sistêmico ao SFN.
 why_in_novelo: Sua cobertura foi objeto de emenda parlamentar citada pela Polícia Federal em decisão do
   STF, e o fundo arcou com garantias após a liquidação do Banco Master, segundo a imprensa.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions:
-- Os valores pagos pelo FGC devem ser confirmados em comunicação oficial do próprio fundo.
+open_questions: []
 source_ids:
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
 - src-cnn-2026-03-04-relembre-crise-master
 - src-senado-plp-135-2026-fgc
+- src-cnnbrasil-2025-12-26-fgc-reembolsos-2026
+- src-moneytimes-2026-07-15-fgc-1-83-bilhoes-pendentes
+- src-seudinheiro-2026-01-29-fgc-reclamacoes
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

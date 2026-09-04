@@ -1,0 +1,19 @@
+id: src-infomoney-2026-justica-trava-venda-bens-master
+kind: source
+title: Justiça trava venda de bens ligados ao Banco Master após indícios de desvios
+publisher: InfoMoney
+publication_date: '2026'
+retrieved_at: '2026-09-03'
+url: https://www.infomoney.com.br/politica/justica-trava-venda-de-bens-ligados-ao-banco-master-apos-indicios-de-desvios/
+source_type: press
+summary: Registra que o próprio processo de venda de ativos para pagar credores enfrentou obstáculos judiciais.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

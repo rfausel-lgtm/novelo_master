@@ -1,0 +1,20 @@
+id: rev-2026-09-04-lote-44-escala-liquidacao-fgc
+kind: revision
+date: '2026-09-03'
+title: 'Lote 44: a escala humana e sistêmica da liquidação'
+summary: 'Pesquisa conduzida por agente convocado em paralelo. O corpus documentava extensamente a rede
+  de influência e corrupção, mas quase nada sobre a dimensão da liquidação em si. Acrescenta: os números
+  do FGC (1,6 milhão de credores estimados, R$ 41 bilhões, R$ 40 bilhões pagos até julho de 2026, R$ 1,83
+  bilhão ainda pendente); os R$ 4,8 bilhões em bens de Vorcaro sob mira do liquidante, com a lista de
+  ativos de luxo; a conclusão do Banco Central de que a operação não gerou risco sistêmico, apesar de
+  ser a maior da história do FGC; e a liquidação mais recente (03/09/2026) de duas DTVMs ligadas ao Master.'
+affected_ids:
+- fundo-garantidor-de-creditos
+- banco-central-do-brasil
+- daniel-vorcaro
+reason: Dimensão sistêmica e humana da liquidação, subdocumentada, identificada por pesquisa paralela.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

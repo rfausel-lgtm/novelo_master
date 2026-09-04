@@ -1,0 +1,21 @@
+id: src-moneytimes-2026-07-15-fgc-1-83-bilhoes-pendentes
+kind: source
+title: FGC ainda tem R$ 1,83 bilhões para devolver a clientes de bancos do grupo Master
+publisher: Money Times
+publication_date: '2026-07-15'
+retrieved_at: '2026-09-03'
+url: https://www.moneytimes.com.br/fgc-ainda-tem-r-183-bilhoes-para-devolver-a-clientes-de-bancos-do-grupo-master-veja-como-sacar-fets/
+source_type: press
+summary: Registra que, em 15/07/2026, o FGC já havia desembolsado R$ 40,03 bilhões (98,54% do previsto)
+  a mais de 718 mil credores nos três bancos do núcleo Master, restando R$ 590 milhões; somado a Pleno
+  e Will Bank, o total pendente em todo o conglomerado era de R$ 1,83 bilhão.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

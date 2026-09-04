@@ -1,0 +1,17 @@
+id: ev-bc-liquida-trustee-banvox-dtvm-2026-09-03
+kind: evidence
+classification: A
+attributed_to: Brasil em Folhas, com base em determinação do Banco Central
+proposition: Em 03/09/2026, o Banco Central decretou a liquidação extrajudicial da Trustee DTVM e da Banvox
+  DTVM, gestoras ligadas ao Banco Master, por 'graves violações às normas legais que disciplinam as atividades
+  das instituições financeiras'. Ambas tinham atuação marginal no Sistema Financeiro Nacional (menos de
+  0,001% do ativo total e 0,76% dos recursos de terceiros administrados no segmento).
+document_ids: []
+source_ids:
+- src-brasilemfolhas-2026-09-03-liquidacao-trustee-banvox
+date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

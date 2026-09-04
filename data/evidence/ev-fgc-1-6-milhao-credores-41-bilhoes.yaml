@@ -1,0 +1,17 @@
+id: ev-fgc-1-6-milhao-credores-41-bilhoes
+kind: evidence
+classification: A
+attributed_to: CNN Brasil, com base em estimativa do FGC
+proposition: O FGC estimou, em dezembro de 2025, cerca de 1,6 milhão de credores com depósitos e investimentos
+  elegíveis à garantia nos bancos do grupo Master (Banco Master, Banco Master de Investimento, Letsbank),
+  totalizando cerca de R$ 41 bilhões — a maior operação de ressarcimento da história do fundo. É estimativa
+  inicial, não contagem final consolidada.
+document_ids: []
+source_ids:
+- src-cnnbrasil-2025-12-26-fgc-reembolsos-2026
+date: '2025-12-26'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

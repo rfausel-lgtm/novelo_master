@@ -1,0 +1,18 @@
+id: ev-fgc-40-bilhoes-pagos-julho-2026
+kind: evidence
+classification: A
+attributed_to: Money Times, com base em balanço do FGC
+proposition: Em 15/07/2026, o FGC já havia desembolsado R$ 40,03 bilhões (98,54% do previsto) a mais de
+  718 mil credores (93,72% do público estimado) nos três bancos do núcleo Master, restando R$ 590 milhões.
+  Somando também o Banco Pleno (ex-Voiter) e o Will Bank, o total ainda pendente em todo o conglomerado
+  era de R$ 1,83 bilhão. Segundo o FGC, valores parados no fundo não recebem correção pela inflação desde
+  a liquidação — quem demora a solicitar recebe menos em termos reais.
+document_ids: []
+source_ids:
+- src-moneytimes-2026-07-15-fgc-1-83-bilhoes-pendentes
+date: '2026-07-15'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

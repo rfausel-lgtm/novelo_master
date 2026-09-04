@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 44 do corpus: a escala humana e sistêmica da liquidação. O FGC estimou 1,6 milhão de credores
+  elegíveis e R$ 41 bilhões em garantias nos bancos do núcleo Master — a maior operação de sua história;
+  em 15/07/2026 já havia pago R$ 40,03 bilhões (98,5%) a mais de 718 mil credores, restando R$ 1,83 bilhão
+  em todo o conglomerado (incluindo Pleno e Will Bank). Registra o alvo de R$ 4,8 bilhões em bens de
+  Vorcaro sob mira do liquidante (mansões, hotel, jato Gulfstream), a conclusão do Banco Central de que a
+  operação não gerou risco sistêmico ao SFN, e a liquidação, em 03/09/2026, de mais duas gestoras ligadas
+  ao Master (Trustee DTVM e Banvox DTVM).
 - Lote 43 do corpus: a segunda delação premiada do caso — em 03/09/2026, a PGR fechou acordo de
   colaboração com Antonio Carlos Freixo Júnior ('Mineiro'), o operador financeiro que movimentava os
   repasses de Vorcaro ao Havengate Development Fund para o filme 'Dark Horse'. Freixo relatou operações

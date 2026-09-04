@@ -1,0 +1,24 @@
+id: ev-bc-sem-risco-sistemico-master
+kind: evidence
+classification: A
+attributed_to: Correio Braziliense, com base no Relatório de Estabilidade Financeira do Banco Central (Comef)
+proposition: 'O Comitê de Estabilidade Financeira (Comef) do Banco Central, no Relatório de Estabilidade
+  Financeira de maio de 2026, concluiu que a liquidação do conglomerado Master não gerou risco sistêmico
+  para o Sistema Financeiro Nacional: as instituições representavam apenas 0,57% do ativo total e 0,55%
+  dos depósitos do SFN, e os recursos ressarcidos pelo FGC migraram majoritariamente para bancos maiores,
+  sem impacto relevante nas taxas de juros de instrumentos garantidos pelo fundo. ''Os mecanismos de proteção
+  associados ao Fundo Garantidor de Créditos (FGC) foram acionados conforme o modelo institucional vigente,
+  evidenciando a capacidade de absorção de choques e a resiliência do sistema financeiro.'' O mesmo relatório
+  registra desembolso de R$ 37,7 bilhões pelo FGC entre 19/01 e 27/02/2026.'
+document_ids: []
+source_ids:
+- src-correiobraziliense-2026-05-25-bc-sem-risco-sistemico
+excerpt: Os mecanismos de proteção associados ao Fundo Garantidor de Créditos (FGC) foram acionados conforme
+  o modelo institucional vigente, evidenciando a capacidade de absorção de choques e a resiliência do
+  sistema financeiro.
+date: '2026-05-25'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,19 @@
+id: ev-fgc-reclamacoes-atraso-janeiro-2026
+kind: evidence
+classification: A
+proposition: Cinquenta dias após a liquidação, em 29/01/2026, o FGC acumulava mais de 2.604 reclamações
+  por demora na execução e 314 por má qualidade de atendimento no ReclameAqui, com relatos de status travado
+  em 'aguardando validação' e instabilidade do aplicativo. O próprio FGC, na mesma matéria, informou já
+  ter pago R$ 32,5 bilhões (80% do total) a cerca de 580 mil credores (75%) até aquela data — ritmo que
+  a reportagem qualifica como recorde para o fundo. Parte da confusão foi atribuída à empresa terceirizada
+  de validação de identidade.
+document_ids: []
+source_ids:
+- src-seudinheiro-2026-01-29-fgc-reclamacoes
+attributed_to: Seu Dinheiro, com relatos de investidores e resposta do FGC
+date: '2026-01-29'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
