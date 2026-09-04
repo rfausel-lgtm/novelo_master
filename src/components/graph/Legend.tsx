@@ -113,8 +113,10 @@ export function Legend({ compact = false }: { compact?: boolean }) {
         </div>
       )}
       <p className="text-fg-3">
-        Vermelho nunca significa ilícito. Alegações (A) e inferências (I) não são fatos verificados;
-        estar no mapa não implica irregularidade.
+        {/* A paleta não tem vermelho: a frase citava uma cor que não existe na tela. */}
+        Nenhuma cor significa ilícito. A cor indica a natureza da relação; a força da evidência está
+        na forma da linha. Alegações (A) e inferências (I) não são fatos verificados, e estar no mapa
+        não implica irregularidade.
       </p>
     </div>
   );

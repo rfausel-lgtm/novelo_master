@@ -28,8 +28,12 @@ export function RelationshipCard({ rel, perspectiveId, open = false }: { rel: Re
   const evidences = rel.evidence_ids.map(getEvidence).filter((e): e is NonNullable<typeof e> => !!e);
 
   return (
-    <details open={open} className="border-border bg-bg-2/50 group rounded-md border">
+    <details open={open} className="border-border bg-bg-2/50 group/rel rounded-md border">
       <summary className="flex cursor-pointer flex-wrap items-center gap-2 px-3 py-2 text-sm">
+        {/* Sem marcador, o conteúdo mais valioso do dossiê ficava atrás de um clique sem pista. */}
+        <span aria-hidden="true" className="text-fg-3 shrink-0 transition-transform group-open/rel:rotate-90">
+          ›
+        </span>
         <span aria-hidden="true" className="h-2 w-2 rounded-full" style={{ background: FAMILY_COLOR[family] }} />
         {otherId ? (
           <Link href={entityHref(otherId)} className="text-fg hover:text-accent font-medium underline-offset-2 hover:underline">
@@ -55,7 +59,13 @@ export function RelationshipCard({ rel, perspectiveId, open = false }: { rel: Re
         <div className="text-fg-3 flex flex-wrap gap-2 text-xs">
           <Pill color={FAMILY_COLOR[family]}>{RELATIONSHIP_FAMILY_LABEL[family]}</Pill>
           <Pill>{RELATIONSHIP_TYPE_LABEL[rel.relationship_type]}</Pill>
-          <Pill>confiança {rel.confidence.toLocaleString("pt-BR", { maximumFractionDigits: 2 })}</Pill>
+          {/*
+            O mesmo campo aparecia como "0,8" aqui e "75%" no card do grafo, sem escala declarada
+            em lugar nenhum. Um formato só, e o title diz o que o número é e o que não é.
+          */}
+          <Pill title="Confiança do revisor no registro desta relação, de 0 a 100%. Não é probabilidade nem medida estatística; a força probatória está na classe de evidência.">
+            confiança {Math.round(rel.confidence * 100)}%
+          </Pill>
           {rel.via_id && (
             <Pill>
               via{" "}

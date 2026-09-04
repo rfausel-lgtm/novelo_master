@@ -561,9 +561,9 @@ export function GraphExplorer() {
           <ToolButton
             active={layoutRunning}
             onClick={() => setLayoutToken((t) => t + 1)}
-            aria-label="Reorganizar o layout"
+            title="Recalcula as posições dos nós; o dado não muda."
           >
-            {layoutRunning ? "Pausar física" : "Ativar física"}
+            {layoutRunning ? "Parar" : "Reorganizar"}
           </ToolButton>
           <ToolButton
             onClick={() => setRestoreToken((t) => t + 1)}

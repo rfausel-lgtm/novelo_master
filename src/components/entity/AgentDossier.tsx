@@ -21,6 +21,7 @@ import { Section, EmptyState } from "./Section";
 import { SectionNavSticky } from "./SectionNavSticky";
 import { RelationshipCard } from "./RelationshipCard";
 import { Dobra } from "./Dobra";
+import { EVIDENCE_EXPLANATION } from "@/lib/labels";
 import { Timeline } from "./Timeline";
 import { SourceList } from "./SourceList";
 import { CitedPositionBlock, OpenQuestions } from "./CitedPosition";
@@ -91,6 +92,28 @@ export function AgentDossier({ entity }: { entity: Person | Organization }) {
       <div className="lg:grid lg:grid-cols-[12rem_minmax(0,1fr)] lg:gap-10">
         <SectionNavSticky items={NAV} />
         <div>
+          {/*
+            A explicação da escala só existia em atributo title, que não abre no toque nem no
+            teclado — e é a chave para ler o resto da página.
+          */}
+          <details className="border-border mb-6 rounded border px-3 py-2">
+            <summary className="text-fg-2 hover:text-fg cursor-pointer text-xs">
+              O que significam D, C, A e I?
+            </summary>
+            <dl className="mt-2 space-y-1.5">
+              {(["D", "C", "A", "I"] as const).map((c) => (
+                <div key={c} className="flex gap-2 text-xs">
+                  <dt className="shrink-0">
+                    <EvidenceBadge cls={c} />
+                  </dt>
+                  <dd className="text-fg-3">{EVIDENCE_EXPLANATION[c]}</dd>
+                </div>
+              ))}
+            </dl>
+            <p className="text-fg-3 mt-2 text-xs">
+              Detalhe em <Link href="/metodologia" className="hover:text-fg underline underline-offset-2">metodologia</Link>.
+            </p>
+          </details>
 
       <Section id="resumo" title="Resumo">
         <p className="prose-novelo text-fg-2 text-sm leading-relaxed sm:text-base">{entity.summary}</p>

@@ -28,7 +28,7 @@ function Background() {
   ];
   const links: [number, number][] = [[0, 2], [2, 4], [4, 6], [6, 8], [1, 3], [3, 5], [5, 7], [2, 9], [4, 9], [5, 10], [1, 11], [3, 10], [7, 8]];
   return (
-    <svg aria-hidden="true" className="rede-de-fundo pointer-events-none absolute inset-0 h-full w-full" viewBox="0 0 100 100" preserveAspectRatio="none">
+    <svg aria-hidden="true" className="rede-de-fundo pointer-events-none absolute inset-0 h-full w-full" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice">
       {links.map(([a, b], i) => (
         <line key={i} x1={pts[a][0]} y1={pts[a][1]} x2={pts[b][0]} y2={pts[b][1]} stroke="var(--accent)" strokeWidth="0.15" />
       ))}

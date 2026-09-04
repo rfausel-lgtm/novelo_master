@@ -5,7 +5,8 @@ import { initials } from "@/lib/format";
 import { Pill } from "./badges";
 
 export function Avatar({ entity, size = 64 }: { entity: Person | Organization; size?: number }) {
-  const label = entity.kind === "person" ? initials(entity.name) : "◼";
+  /* Organização sem logo virava um quadrado cinza vazio, que se lê como imagem quebrada. */
+  const label = initials(entity.name);
   const isOrg = entity.kind === "organization";
   if (entity.photo) {
     return (

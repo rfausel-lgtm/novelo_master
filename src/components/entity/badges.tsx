@@ -1,14 +1,9 @@
+export { EVIDENCE_EXPLANATION } from "@/lib/labels";
+import { EVIDENCE_EXPLANATION } from "@/lib/labels";
 import type { EvidenceClass, FactStatus, Source } from "@/lib/schema";
 import { EVIDENCE_CLASS_LABEL, FACT_STATUS_LABEL, OFFICIAL_SOURCE_TYPES, SOURCE_TYPE_LABEL } from "@/lib/schema";
 
 const EVIDENCE_COLOR: Record<EvidenceClass, string> = { D: "var(--ev-d)", C: "var(--ev-c)", A: "var(--ev-a)", I: "var(--ev-i)" };
-
-export const EVIDENCE_EXPLANATION: Record<EvidenceClass, string> = {
-  D: "Documental direto: consta de documento primário verificável (decisão, relatório oficial, contrato, registro).",
-  C: "Corroborado: confirmado por múltiplas fontes independentes, sem documento primário no corpus.",
-  A: "Alegação: declaração atribuída a terceiro. Não equivale a fato comprovado.",
-  I: "Inferência: interpretação analítica a partir de fatos conhecidos. Não é prova.",
-};
 
 export function EvidenceBadge({ cls, explain = false }: { cls: EvidenceClass; explain?: boolean }) {
   return (
@@ -47,9 +42,9 @@ export function OfficialBadge({ source }: { source: Pick<Source, "source_type"> 
   );
 }
 
-export function Pill({ children, color }: { children: React.ReactNode; color?: string }) {
+export function Pill({ children, color, title }: { children: React.ReactNode; color?: string; title?: string }) {
   return (
-    <span className="bg-bg-3 text-fg-2 inline-flex items-center gap-1.5 rounded px-1.5 py-0.5 text-xs">
+    <span className="bg-bg-3 text-fg-2 inline-flex items-center gap-1.5 rounded px-1.5 py-0.5 text-xs" title={title}>
       {color && <span aria-hidden="true" className="h-2 w-2 rounded-full" style={{ background: color }} />}
       {children}
     </span>

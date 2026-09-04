@@ -337,6 +337,8 @@ function parseList(lines: string[], start: number): [ListBlock, number] {
 export interface MarkdownOptions {
   /** Reescreve hrefs (ex.: mapear arquivos .md do repositório para rotas do site). */
   resolveHref?: (href: string) => string;
+  /** Rótulo legível para links cujo texto é um nome de arquivo do repositório. */
+  resolveLinkText?: (href: string) => string | undefined;
   /** Deslocamento de nível de título (ex.: 1 transforma # em h2). */
   headingOffset?: number;
 }
@@ -356,9 +358,10 @@ function renderInline(nodes: Inline[], opts: MarkdownOptions, keyPrefix = "i"): 
       case "link": {
         const href = opts.resolveHref ? opts.resolveHref(n.href) : n.href;
         const external = /^https?:\/\//.test(href);
+        const rotulo = opts.resolveLinkText?.(n.href);
         return (
           <a key={key} href={href} {...(external ? { rel: "noopener noreferrer", target: "_blank" } : {})}>
-            {renderInline(n.children, opts, key)}
+            {rotulo ?? renderInline(n.children, opts, key)}
           </a>
         );
       }

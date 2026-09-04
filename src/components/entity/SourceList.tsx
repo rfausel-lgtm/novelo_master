@@ -16,6 +16,18 @@ export function SourceLink({ source }: { source: Source }) {
         {source.publication_date ? ` · ${formatPartialDate(source.publication_date)}` : ""}
       </span>
       <OfficialBadge source={source} />
+      {/*
+        O aparato de verificação existia só na página da fonte; aqui é onde o leitor encontra a
+        afirmação, então é aqui que o selo vale.
+      */}
+      {source.verification?.url_reachable && source.verification.content_matches_summary && (
+        <span
+          className="text-rel-financial text-xs"
+          title={`Conferida em ${formatPartialDate(source.verification.checked_at)} por ${source.verification.checked_by}: URL acessível e conteúdo compatível com o resumo.`}
+        >
+          ✓ verificada
+        </span>
+      )}
       <a href={source.url} rel="noopener noreferrer" target="_blank" className="text-fg-3 hover:text-accent text-xs underline-offset-2 hover:underline" aria-label={`Abrir a fonte original: ${source.title}`}>
         original ↗
       </a>

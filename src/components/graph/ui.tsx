@@ -85,9 +85,9 @@ export function EvidenceBadge({ cls, small }: { cls: EvidenceClass; small?: bool
   );
 }
 
-export function Chip({ color, children }: { color?: string; children: ReactNode }) {
+export function Chip({ color, children, title }: { color?: string; children: ReactNode; title?: string }) {
   return (
-    <span className="bg-bg-3 text-fg-2 inline-flex items-center gap-1.5 rounded px-1.5 py-0.5 text-[11px]">
+    <span className="bg-bg-3 text-fg-2 inline-flex items-center gap-1.5 rounded px-1.5 py-0.5 text-[11px]" title={title}>
       {color && <span aria-hidden="true" className="h-2 w-2 rounded-full" style={{ background: color }} />}
       {children}
     </span>

@@ -2,6 +2,19 @@ import fs from "node:fs";
 import path from "node:path";
 import { parseMarkdown, renderBlocks } from "@/lib/markdown";
 
+/*
+ * A página é o que o cético abre para decidir se confia. Links rotulados com nome de arquivo
+ * ("EDITORIAL_POLICY.md") a fazem parecer README de repositório, escrita para contribuidor.
+ */
+const DOC_LABELS: Record<string, string> = {
+  "METHODOLOGY.md": "metodologia",
+  "EDITORIAL_POLICY.md": "política editorial",
+  "OSINT_GUIDELINES.md": "diretrizes de captura de fontes",
+  "DATA_SCHEMA.md": "esquema dos dados",
+  "CONTRIBUTING.md": "como contribuir",
+  "SECURITY.md": "política de segurança",
+};
+
 const DOC_ROUTES: Record<string, string> = {
   "METHODOLOGY.md": "/metodologia",
   "EDITORIAL_POLICY.md": "/politica-editorial",
@@ -24,6 +37,10 @@ export function MarkdownPage({ file }: { file: string }) {
   return (
     <div className="prose-novelo">
       {renderBlocks(blocks, {
+        resolveLinkText: (href) => {
+          const m = /^([A-Z_]+\.md)(#.*)?$/.exec(href);
+          return m ? DOC_LABELS[m[1]] : undefined;
+        },
         resolveHref: (href) => {
           const m = /^([A-Z_]+\.md)(#.*)?$/.exec(href);
           if (m) return (DOC_ROUTES[m[1]] ?? "/") + (m[2] ?? "");

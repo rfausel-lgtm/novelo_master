@@ -339,7 +339,8 @@ function ConnectionList({
               style={{ background: NODE_COLOR_FALLBACK[c.node.category] }}
             />
             <span className="text-fg min-w-0 flex-1 truncate text-xs">{c.node.label}</span>
-            <span className="text-fg-3 shrink-0 truncate text-[10.5px]">
+            {/* shrink-0 e truncate se anulavam: rótulo longo empurrava a largura e criava rolagem horizontal. */}
+            <span className="text-fg-3 max-w-[45%] min-w-0 truncate text-[10.5px]">
               {c.edgeLabel}
               {c.count > 1 && ` +${c.count - 1}`}
             </span>
