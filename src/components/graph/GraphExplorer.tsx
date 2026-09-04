@@ -10,11 +10,11 @@ import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useMemo, useRef, useState, useSyncExternalStore } from "react";
 import type { GraphLayerPayload, GraphPayload } from "@/lib/graph/types";
 import { buildIndex } from "@/lib/graph/indexes";
-import { buildSigmaGraph } from "@/lib/graph/build";
-import { readPalette, PALETTE_FALLBACK } from "@/lib/graph/style";
+import { applyPalette, buildSigmaGraph } from "@/lib/graph/build";
+import { readPalette, PALETTE_FALLBACK, type Palette } from "@/lib/graph/style";
 import { applyFilters } from "@/lib/graph/filters";
 import { inducedSubgraph, neighborhood } from "@/lib/graph/algorithms";
-import { todayISO } from "@/lib/graph/dates";
+import { todayISO, toFullDate } from "@/lib/graph/dates";
 import { GraphCanvas, type CanvasView } from "./GraphCanvas";
 import { NodeCard } from "./NodeCard";
 import { EdgeCard } from "./EdgeCard";
@@ -25,6 +25,7 @@ import { PathFinder } from "./PathFinder";
 import { TimeMachine } from "./TimeMachine";
 import { BeforeAfter } from "./BeforeAfter";
 import { Legend } from "./Legend";
+import { OrientacaoPanel } from "./OrientacaoPanel";
 import { PanelShell, ToolButton } from "./ui";
 import { useGraphState } from "./useGraphState";
 
@@ -50,6 +51,30 @@ function useReducedMotion(): boolean {
   );
 }
 
+/**
+ * Paleta viva: relê as variáveis CSS quando o tema muda (escolha explícita marca data-theme
+ * no <html>; "seguir o sistema" muda pelo media query sem tocar no atributo).
+ */
+function useThemePalette(): Palette {
+  const [palette, setPalette] = useState<Palette>(PALETTE_FALLBACK);
+  useEffect(() => {
+    const sincronizar = () => setPalette(readPalette());
+    sincronizar();
+    const observador = new MutationObserver(sincronizar);
+    observador.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ["data-theme", "style"],
+    });
+    const mq = window.matchMedia("(prefers-color-scheme: dark)");
+    mq.addEventListener("change", sincronizar);
+    return () => {
+      observador.disconnect();
+      mq.removeEventListener("change", sincronizar);
+    };
+  }, []);
+  return palette;
+}
+
 export function GraphExplorer() {
   const router = useRouter();
   const { state, dispatch, selectNode, dataset } = useGraphState();
@@ -67,6 +92,7 @@ export function GraphExplorer() {
   const [layerPayload, setLayerPayload] = useState<GraphLayerPayload | null>(null);
   const layerRequest = useRef<Promise<GraphLayerPayload> | null>(null);
   const [legendOpen, setLegendOpen] = useState(false);
+  const [orientacaoOculta, setOrientacaoOculta] = useState(false);
   const [toolsOpen, setToolsOpen] = useState(false);
   const [layoutToken, setLayoutToken] = useState(0);
   const [layoutRunning, setLayoutRunning] = useState(false);
@@ -142,11 +168,19 @@ export function GraphExplorer() {
   }, [base, layerPayload]);
 
   const index = useMemo(() => (payload ? buildIndex(payload) : null), [payload]);
-  const palette = useMemo(
-    () => (typeof window === "undefined" ? PALETTE_FALLBACK : readPalette()),
-    [],
-  );
-  const graph = useMemo(() => (index ? buildSigmaGraph(index, palette) : null), [index, palette]);
+  const palette = useThemePalette();
+  /* Topologia não depende do tema: a troca de tema só repinta (ver applyPalette). */
+  const graph = useMemo(() => (index ? buildSigmaGraph(index, palette) : null), [index]); // eslint-disable-line react-hooks/exhaustive-deps
+  useEffect(() => {
+    if (graph) applyPalette(graph, palette);
+  }, [graph, palette]);
+
+  /*
+   * Recorte pequeno: a câmera fica onde estava e os poucos nós restantes podem cair fora do
+   * enquadramento — a tela parece vazia sem estar. Reenquadra só quando o conjunto encolhe muito,
+   * para não roubar a câmera do leitor no uso normal.
+   */
+  const visiveisAnterior = useRef<number | null>(null);
 
   /* Visibilidade derivada */
   const filtered = useMemo(
@@ -196,6 +230,40 @@ export function GraphExplorer() {
       highlight,
     ],
   );
+
+  /*
+   * Datas em que algo de fato entra no mapa. Entre 2012 e meados de 2017 o corpus tem quase nada:
+   * reproduzir mês a mês gastava dezenas de passos numa tela parada, e quem clicava desistia antes
+   * do primeiro nó aparecer.
+   */
+  const marcosTemporais = useMemo(() => {
+    if (!payload) return [];
+    /* first_seen e since podem ser parciais ("2000", "2019-05"): normalizar antes de comparar. */
+    const datas = new Set<string>();
+    for (const n of payload.nodes) if (n.first_seen) datas.add(toFullDate(n.first_seen));
+    for (const e of payload.edges) if (e.since) datas.add(toFullDate(e.since));
+    return [...datas].sort();
+  }, [payload]);
+
+  /* Pontos de partida: os nós mais conectados do recorte atual, que são o miolo do caso. */
+  const atalhosDePartida = useMemo(() => {
+    if (!index || !view) return [];
+    return [...view.visibleNodes]
+      .map((id) => index.nodeById.get(id))
+      .filter((n): n is NonNullable<typeof n> => !!n && (n.kind === "person" || n.kind === "organization"))
+      .sort((a, b) => b.degree - a.degree)
+      .slice(0, 3)
+      .map((n) => ({ id: n.id, label: n.label }));
+  }, [index, view]);
+
+  useEffect(() => {
+    const n = visible?.nodes.size ?? null;
+    const antes = visiveisAnterior.current;
+    if (n === null) return;
+    visiveisAnterior.current = n;
+    if (antes === null || n === 0) return;
+    if (n <= 25 && n !== antes) setFitToken((t) => t + 1);
+  }, [visible]);
 
   const selectedNode =
     state.selectedNode && index && view?.visibleNodes.has(state.selectedNode)
@@ -357,7 +425,18 @@ export function GraphExplorer() {
           />
         ) : null;
       default:
-        return null;
+        /*
+         * Nada selecionado: em vez de 40% da tela vazia, o painel ensina a ler o mapa e oferece
+         * três pontos de partida. Some para sempre depois de dispensado.
+         */
+        if (orientacaoOculta) return null;
+        return (
+          <OrientacaoPanel
+            atalhos={atalhosDePartida}
+            onEscolher={(id) => selectNode(id, true)}
+            onFechar={() => setOrientacaoOculta(true)}
+          />
+        );
     }
   })();
 
@@ -383,6 +462,32 @@ export function GraphExplorer() {
         ariaLabel={ariaLabel}
       />
 
+      {/*
+        Recorte vazio: antes a tela ficava preta, sem mensagem e sem reenquadramento, e o leitor
+        não tinha como saber se o site quebrou ou se o filtro é que zerou.
+      */}
+      {view.visibleNodes.size === 0 && (
+        <div className="pointer-events-none absolute inset-0 z-10 flex items-center justify-center p-6">
+          <div className="border-border-strong bg-bg-2/95 pointer-events-auto max-w-sm rounded-lg border p-5 text-center shadow-2xl backdrop-blur">
+            <p className="text-fg text-sm font-medium">Nenhum nó neste recorte.</p>
+            <p className="text-fg-2 mt-1.5 text-xs leading-relaxed">
+              Os filtros ativos, o recorte temporal ou o foco em um nó excluíram tudo o que existe no
+              corpus.
+            </p>
+            <button
+              type="button"
+              onClick={() => {
+                dispatch({ type: "resetFilters" });
+                dispatch({ type: "clearFocus" });
+              }}
+              className="bg-accent text-bg hover:bg-accent/90 mt-4 inline-flex h-9 items-center rounded-md px-4 text-xs font-medium"
+            >
+              Mostrar tudo
+            </button>
+          </div>
+        </div>
+      )}
+
       {/* Barra de ferramentas */}
       <div className="pointer-events-none absolute inset-x-0 top-0 z-10 flex flex-col gap-2 p-3">
         <div className="pointer-events-auto flex flex-wrap items-center gap-1.5">
@@ -394,6 +499,10 @@ export function GraphExplorer() {
               placeholder="Buscar no novelo…"
               inputRef={searchRef}
               onPick={(id) => selectNode(id, true)}
+              onClearScope={() => {
+                dispatch({ type: "resetFilters" });
+                dispatch({ type: "clearFocus" });
+              }}
             />
           </div>
           <ToolButton
@@ -437,7 +546,11 @@ export function GraphExplorer() {
           </ToolButton>
           <ToolButton
             active={legendOpen}
-            onClick={() => setLegendOpen((v) => !v)}
+            /* A legenda completa substitui a orientação: a compacta já está dentro dela. */
+            onClick={() => {
+              setLegendOpen((v) => !v);
+              setOrientacaoOculta(true);
+            }}
             aria-expanded={legendOpen}
           >
             Legenda
@@ -448,9 +561,9 @@ export function GraphExplorer() {
           <ToolButton
             active={layoutRunning}
             onClick={() => setLayoutToken((t) => t + 1)}
-            aria-label="Reorganizar o layout"
+            title="Recalcula as posições dos nós; o dado não muda."
           >
-            {layoutRunning ? "Pausar física" : "Ativar física"}
+            {layoutRunning ? "Parar" : "Reorganizar"}
           </ToolButton>
           <ToolButton
             onClick={() => setRestoreToken((t) => t + 1)}
@@ -581,6 +694,7 @@ export function GraphExplorer() {
           <TimeMachine
             min={minDate}
             max={maxDate}
+            marcos={marcosTemporais}
             value={state.filters.dateUntil}
             onChange={(d) => dispatch({ type: "filters", patch: { dateUntil: d } })}
             playing={state.playing}

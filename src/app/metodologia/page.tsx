@@ -12,7 +12,7 @@ export const metadata: Metadata = pageMetadata({
 export default function MetodologiaPage() {
   return (
     <PageShell>
-      <PageTitle eyebrow="Como o Novelo funciona" title="Metodologia" lede="Mostre a evidência. Mostre a conexão. Mostre a cronologia. Deixe a conclusão para o visitante." />
+      <PageTitle eyebrow="Como o Novelo funciona" title="Metodologia" />
       <MarkdownPage file="METHODOLOGY.md" />
     </PageShell>
   );

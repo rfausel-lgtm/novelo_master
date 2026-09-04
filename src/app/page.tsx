@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { corpus, stats, lastUpdated } from "@/lib/data";
+import { safeJsonLd, siteJsonLd } from "@/lib/pages";
 import { formatDateTimeBRT, formatNumber, formatPartialDate } from "@/lib/format";
 import { Logo } from "@/components/ui/Logo";
 import { EVIDENCE_CLASS_LABEL, type EvidenceClass } from "@/lib/schema";
@@ -27,12 +28,12 @@ function Background() {
   ];
   const links: [number, number][] = [[0, 2], [2, 4], [4, 6], [6, 8], [1, 3], [3, 5], [5, 7], [2, 9], [4, 9], [5, 10], [1, 11], [3, 10], [7, 8]];
   return (
-    <svg aria-hidden="true" className="pointer-events-none absolute inset-0 h-full w-full opacity-[0.16]" viewBox="0 0 100 100" preserveAspectRatio="none">
+    <svg aria-hidden="true" className="rede-de-fundo pointer-events-none absolute inset-0 h-full w-full" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice">
       {links.map(([a, b], i) => (
-        <line key={i} x1={pts[a][0]} y1={pts[a][1]} x2={pts[b][0]} y2={pts[b][1]} stroke="#4C8DFF" strokeWidth="0.15" />
+        <line key={i} x1={pts[a][0]} y1={pts[a][1]} x2={pts[b][0]} y2={pts[b][1]} stroke="var(--accent)" strokeWidth="0.15" />
       ))}
       {pts.map(([x, y], i) => (
-        <circle key={i} cx={x} cy={y} r="0.45" fill="#F4F6F8" />
+        <circle key={i} cx={x} cy={y} r="0.45" fill="var(--fg)" />
       ))}
     </svg>
   );
@@ -41,18 +42,34 @@ function Background() {
 export default function HomePage() {
   return (
     <div className="relative flex flex-1 flex-col">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: safeJsonLd(siteJsonLd()) }}
+      />
       <Background />
       <section className="relative mx-auto flex w-full max-w-4xl flex-1 flex-col items-center justify-center px-6 py-16 text-center sm:py-24">
         <Logo className="h-16 w-16" />
         <h1 className="text-fg mt-6 text-3xl font-semibold tracking-[0.2em] uppercase sm:text-4xl">O Novelo Master</h1>
-        <p className="text-fg-2 mt-4 max-w-xl text-lg leading-snug sm:text-2xl">
-          Mapa público de relações,
-          <br />
-          fatos e fontes.
+        {/*
+          O leitor chega por link compartilhado, sem contexto: o topo precisa nomear o caso, não
+          descrever o formato. O lema do projeto continua no rodapé desta mesma página.
+        */}
+        <p className="text-fg-2 mt-5 max-w-2xl text-base leading-relaxed sm:text-xl">
+          Quem se conecta a quem no <strong className="text-fg font-semibold">caso Banco Master</strong>:
+          o banco liquidado pelo Banco Central em novembro de 2025, seu controlador Daniel Vorcaro e
+          os agentes públicos citados na Operação Compliance Zero.
         </p>
-        <Link href="/grafo" className="bg-accent text-bg hover:bg-accent/90 focus-visible:outline-accent mt-10 inline-flex h-12 items-center rounded-md px-6 text-sm font-semibold tracking-[0.18em] uppercase">
-          Explorar o Novelo
-        </Link>
+        <p className="text-fg-3 mt-3 max-w-2xl text-sm sm:text-base">
+          Cada relação aponta para a fonte que a sustenta e para a força da evidência.
+        </p>
+        <div className="mt-9 flex flex-col items-center gap-3 sm:flex-row">
+          <Link href="/grafo" className="bg-accent text-bg hover:bg-accent/90 focus-visible:outline-accent inline-flex h-12 items-center rounded-md px-6 text-sm font-semibold tracking-[0.18em] uppercase">
+            Explorar o grafo
+          </Link>
+          <Link href="/cronologia" className="border-border-strong text-fg-2 hover:text-fg hover:border-fg-3 inline-flex h-12 items-center rounded-md border px-6 text-sm font-medium tracking-wide transition-colors">
+            Comece pela cronologia
+          </Link>
+        </div>
 
         <dl className="mt-14 grid w-full grid-cols-2 gap-x-6 gap-y-6 sm:grid-cols-3 md:grid-cols-6">
           {STATS.map((s) => (

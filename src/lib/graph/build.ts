@@ -64,7 +64,7 @@ export function buildSigmaGraph(index: GraphIndex, palette: Palette): NoveloGrap
     const baseColor = palette.family[e.family] ?? palette.fg3;
     const attrs: SigmaEdgeAttributes = {
       size: EVIDENCE_EDGE_SIZE[e.evidence_class],
-      color: withAlpha(baseColor, EDGE_ALPHA),
+      color: withAlpha(baseColor, palette.edgeAlpha ?? EDGE_ALPHA),
       baseColor,
       activeColor: withAlpha(baseColor, EDGE_ALPHA_ACTIVE),
       type: edgeTypeFor(e.evidence_class, e.directed),
@@ -78,4 +78,22 @@ export function buildSigmaGraph(index: GraphIndex, palette: Palette): NoveloGrap
   }
 
   return g;
+}
+
+/**
+ * Repinta o grafo já montado quando o tema muda. Reconstruir o grafo inteiro custaria a
+ * câmera, a seleção e o recorte temporal do leitor — a topologia não depende do tema.
+ */
+export function applyPalette(g: NoveloGraph, palette: Palette): void {
+  g.forEachNode((id, a) => {
+    g.setNodeAttribute(id, "color", palette.node[a.category] ?? palette.fg);
+  });
+  g.forEachEdge((id, a) => {
+    const base = palette.family[a.family] ?? palette.fg3;
+    g.mergeEdgeAttributes(id, {
+      baseColor: base,
+      color: withAlpha(base, palette.edgeAlpha ?? EDGE_ALPHA),
+      activeColor: withAlpha(base, EDGE_ALPHA_ACTIVE),
+    });
+  });
 }

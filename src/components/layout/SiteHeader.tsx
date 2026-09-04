@@ -1,16 +1,32 @@
+"use client";
+
 import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { useEffect, useRef } from "react";
 import { Logo } from "@/components/ui/Logo";
+import { ThemeToggle } from "@/components/ui/ThemeToggle";
 
 const NAV = [
   { href: "/grafo", label: "Grafo" },
   { href: "/cronologia", label: "Cronologia" },
-  { href: "/coincidencias", label: "Coincidências" },
+  { href: "/coincidencias", label: "Coincidências temporais" },
   { href: "/pessoas", label: "Pessoas" },
+  { href: "/organizacoes", label: "Organizações" },
   { href: "/fontes", label: "Fontes" },
   { href: "/metodologia", label: "Metodologia" },
+  { href: "/sobre", label: "Sobre" },
 ];
 
 export function SiteHeader() {
+  const rota = usePathname();
+  const menuRef = useRef<HTMLDetailsElement | null>(null);
+  /* O <details> ficava aberto depois de navegar; fecha ao trocar de rota. */
+  useEffect(() => {
+    if (menuRef.current) menuRef.current.open = false;
+  }, [rota]);
+
+  const ativo = (href: string) => rota === href || rota.startsWith(`${href}/`);
+
   return (
     <header className="border-border bg-bg/85 sticky top-0 z-40 border-b backdrop-blur">
       <div className="mx-auto flex h-14 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
@@ -25,13 +41,19 @@ export function SiteHeader() {
             <Link
               key={item.href}
               href={item.href}
-              className="text-fg-2 hover:text-fg hover:bg-bg-3 rounded px-3 py-1.5 text-sm transition-colors"
+              aria-current={ativo(item.href) ? "page" : undefined}
+              className={`rounded px-3 py-1.5 text-sm transition-colors ${
+                ativo(item.href)
+                  ? "text-fg border-accent border-b-2"
+                  : "text-fg-2 hover:text-fg hover:bg-bg-3"
+              }`}
             >
               {item.label}
             </Link>
           ))}
+          <ThemeToggle className="ml-2" />
         </nav>
-        <details className="relative md:hidden">
+        <details ref={menuRef} className="relative md:hidden">
           <summary
             className="text-fg-2 hover:text-fg cursor-pointer list-none rounded px-3 py-1.5 text-sm"
             aria-label="Abrir menu"
@@ -46,11 +68,15 @@ export function SiteHeader() {
               <Link
                 key={item.href}
                 href={item.href}
-                className="text-fg-2 hover:text-fg hover:bg-bg-3 rounded px-3 py-2 text-sm"
+                aria-current={ativo(item.href) ? "page" : undefined}
+                className={`rounded px-3 py-2 text-sm ${
+                  ativo(item.href) ? "text-fg bg-bg-3" : "text-fg-2 hover:text-fg hover:bg-bg-3"
+                }`}
               >
                 {item.label}
               </Link>
             ))}
+            <ThemeToggle className="mt-1 self-start" />
           </nav>
         </details>
       </div>

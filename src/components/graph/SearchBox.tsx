@@ -17,10 +17,12 @@ interface SearchBoxProps {
   value?: string;
   compact?: boolean;
   autoFocus?: boolean;
+  /** Limpa filtros e recorte temporal, quando houver o que limpar. */
+  onClearScope?: () => void;
 }
 
 /** Busca instantânea (difusa) com listbox navegável por teclado (padrão combobox). */
-export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRef, value, compact, autoFocus }: SearchBoxProps) {
+export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRef, value, compact, autoFocus, onClearScope }: SearchBoxProps) {
   const [query, setQuery] = useState(value ?? "");
   const [debounced, setDebounced] = useState(query);
   const [open, setOpen] = useState(false);
@@ -39,7 +41,16 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
     return () => clearTimeout(t);
   }, [query]);
 
-  const hits: SearchHit[] = useMemo(() => (debounced.trim() ? searchNodes(index, debounced, 10, only) : []), [index, debounced, only]);
+  const busca = debounced.trim();
+  const hits: SearchHit[] = useMemo(() => (busca ? searchNodes(index, busca, 10, only) : []), [index, busca, only]);
+  /*
+   * Sem isto a busca mente por omissão: quem move a máquina do tempo e procura alguém que ficou
+   * fora do recorte não recebe nada e conclui que a pessoa não está no corpus.
+   */
+  const foraDoRecorte = useMemo(
+    () => (busca && only ? searchNodes(index, busca, 10).filter((h) => !only.has(h.node.id)) : []),
+    [index, busca, only],
+  );
 
   const [prevHits, setPrevHits] = useState(hits);
   if (hits !== prevHits) {
@@ -61,7 +72,7 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
         role="combobox"
         aria-label={ariaLabel}
         aria-autocomplete="list"
-        aria-expanded={open && hits.length > 0}
+        aria-expanded={open && busca.length > 0}
         aria-controls={listId}
         aria-activedescendant={open && hits[active] ? `${listId}-${active}` : undefined}
         autoComplete="off"
@@ -94,19 +105,25 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
             }
           }
         }}
-        className={`border-border bg-bg-2/95 text-fg placeholder:text-fg-3 focus:border-accent w-full rounded-md border pr-2 pl-8 text-sm outline-none backdrop-blur ${compact ? "h-8" : "h-9"}`}
+        className={`border-border-strong bg-bg-2/95 text-fg placeholder:text-fg-3 focus:border-accent w-full rounded-md border pr-2 pl-8 text-sm outline-none backdrop-blur ${compact ? "h-8" : "h-9"}`}
       />
       <svg aria-hidden="true" viewBox="0 0 20 20" className="text-fg-3 pointer-events-none absolute top-1/2 left-2.5 h-4 w-4 -translate-y-1/2">
         <circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" strokeWidth="1.6" />
         <path d="M13 13l4 4" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
       </svg>
-      {open && hits.length > 0 && (
+      {open && busca.length > 0 && (
         <ul
           id={listId}
           role="listbox"
           aria-label="Resultados da busca"
-          className="border-border bg-bg-2 absolute z-30 mt-1 max-h-72 w-full overflow-y-auto rounded-md border py-1 shadow-xl"
+          className="border-border-strong bg-bg-2 absolute z-30 mt-1 max-h-72 w-full overflow-y-auto rounded-md border py-1 shadow-xl"
         >
+          {hits.length === 0 && (
+            <li className="text-fg-2 px-3 py-2 text-sm" role="presentation">
+              Nenhum resultado para <span className="text-fg font-medium">{busca}</span>
+              {only ? " no recorte atual." : "."}
+            </li>
+          )}
           {hits.map((hit, i) => (
             <li
               key={hit.node.id}
@@ -124,6 +141,26 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
               </span>
             </li>
           ))}
+          {foraDoRecorte.length > 0 && (
+            <li className="border-border text-fg-3 mt-1 border-t px-3 pt-2 pb-1 text-xs" role="presentation">
+              {foraDoRecorte.length === 1
+                ? "1 resultado está fora do recorte atual"
+                : `${foraDoRecorte.length} resultados estão fora do recorte atual`}
+              {onClearScope ? (
+                <>
+                  {" — "}
+                  <button
+                    type="button"
+                    onMouseDown={(e) => e.preventDefault()}
+                    onClick={() => onClearScope()}
+                    className="text-accent underline underline-offset-2"
+                  >
+                    mostrar tudo
+                  </button>
+                </>
+              ) : null}
+            </li>
+          )}
         </ul>
       )}
     </div>

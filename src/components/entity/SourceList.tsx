@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Source } from "@/lib/schema";
 import { formatPartialDate } from "@/lib/format";
 import { OfficialBadge } from "./badges";
+import { Dobra } from "./Dobra";
 import { EmptyState } from "./Section";
 
 export function SourceLink({ source }: { source: Source }) {
@@ -15,6 +16,18 @@ export function SourceLink({ source }: { source: Source }) {
         {source.publication_date ? ` · ${formatPartialDate(source.publication_date)}` : ""}
       </span>
       <OfficialBadge source={source} />
+      {/*
+        O aparato de verificação existia só na página da fonte; aqui é onde o leitor encontra a
+        afirmação, então é aqui que o selo vale.
+      */}
+      {source.verification?.url_reachable && source.verification.content_matches_summary && (
+        <span
+          className="text-rel-financial text-xs"
+          title={`Conferida em ${formatPartialDate(source.verification.checked_at)} por ${source.verification.checked_by}: URL acessível e conteúdo compatível com o resumo.`}
+        >
+          ✓ verificada
+        </span>
+      )}
       <a href={source.url} rel="noopener noreferrer" target="_blank" className="text-fg-3 hover:text-accent text-xs underline-offset-2 hover:underline" aria-label={`Abrir a fonte original: ${source.title}`}>
         original ↗
       </a>
@@ -25,12 +38,14 @@ export function SourceLink({ source }: { source: Source }) {
 export function SourceList({ sources, emptyText = "Nenhuma fonte registrada." }: { sources: Source[]; emptyText?: string }) {
   if (sources.length === 0) return <EmptyState>{emptyText}</EmptyState>;
   return (
-    <ul className="divide-border divide-y text-sm">
-      {sources.map((s) => (
+    <Dobra
+      rotulo="fontes"
+      className="divide-border divide-y text-sm"
+      itens={sources.map((s) => (
         <li key={s.id} className="py-2">
           <SourceLink source={s} />
         </li>
       ))}
-    </ul>
+    />
   );
 }

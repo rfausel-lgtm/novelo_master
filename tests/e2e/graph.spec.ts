@@ -58,6 +58,17 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
     expect(after).not.toEqual(before);
   });
 
+  test("primeira visita recebe orientação em vez de painel vazio", async ({ page }) => {
+    await expect(page.getByText("Como ler este mapa")).toBeVisible();
+    await expect(page.getByText(/Cor.*natureza da relação/)).toBeVisible();
+  });
+
+  test("busca sem resultado avisa em vez de falhar em silêncio", async ({ page }) => {
+    const search = page.getByRole("combobox", { name: /Buscar pessoa/i });
+    await search.fill("zzzqx");
+    await expect(page.getByRole("listbox")).toContainText(/Nenhum resultado/);
+  });
+
   test("caminho entre dois nós é calculado", async ({ page }) => {
     await abrirFerramentas(page);
     await page.getByRole("button", { name: "Como A se conecta a B?" }).click();
@@ -73,7 +84,7 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
     await abrirFerramentas(page);
     await page.getByRole("button", { name: "Legenda" }).click();
     await expect(page.getByRole("heading", { name: "Força da evidência" })).toBeVisible();
-    await expect(page.getByText(/Vermelho nunca significa ilícito/)).toBeVisible();
+    await expect(page.getByText(/Nenhuma cor significa ilícito/)).toBeVisible();
   });
 
   test("permite expandir, fixar, girar e controlar a física", async ({ page }) => {
@@ -92,11 +103,11 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
     await page.getByRole("button", { name: "Girar o grafo para a direita" }).click();
     await page.getByRole("button", { name: "Remover a rotação do grafo" }).click();
 
-    const physics = page.getByRole("button", { name: "Reorganizar o layout" });
+    const physics = page.getByRole("button", { name: /^(Reorganizar|Parar)$/ });
     await physics.click();
-    await expect(physics).toContainText("Pausar física");
+    await expect(physics).toContainText("Parar");
     await physics.click();
-    await expect(physics).toContainText("Ativar física");
+    await expect(physics).toContainText("Reorganizar");
   });
 });
 
@@ -124,9 +135,9 @@ test.describe("Stress do grafo (execução agendada/manual)", () => {
       page.getByRole("status").filter({ hasText: "SOMENTE FATOS DOCUMENTADOS" }),
     ).toBeVisible();
 
-    const physics = page.getByRole("button", { name: "Reorganizar o layout" });
+    const physics = page.getByRole("button", { name: /^(Reorganizar|Parar)$/ });
     await physics.click();
-    await expect(physics).toContainText("Pausar física");
+    await expect(physics).toContainText("Parar");
     await physics.click();
   });
 });

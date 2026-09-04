@@ -17,8 +17,11 @@ import {
 import { formatCurrency, formatPartialDate } from "@/lib/format";
 import { EVIDENCE_RANK, officialCount, timelineOf } from "@/lib/pages";
 import { EntityHeader } from "./EntityHeader";
-import { Section, SectionNav, EmptyState } from "./Section";
+import { Section, EmptyState } from "./Section";
+import { SectionNavSticky } from "./SectionNavSticky";
 import { RelationshipCard } from "./RelationshipCard";
+import { Dobra } from "./Dobra";
+import { EVIDENCE_EXPLANATION } from "@/lib/labels";
 import { Timeline } from "./Timeline";
 import { SourceList } from "./SourceList";
 import { CitedPositionBlock, OpenQuestions } from "./CitedPosition";
@@ -39,16 +42,14 @@ function sortRelationships(rels: Relationship[], selfId: string): Relationship[]
 const NAV = [
   { id: "resumo", label: "Resumo" },
   { id: "por-que", label: "Por que está no Novelo?" },
+  { id: "posicao", label: "Posição do citado" },
+  { id: "lacunas", label: "Lacunas" },
   { id: "linha-do-tempo", label: "Linha do tempo" },
   { id: "conexoes", label: "Principais conexões" },
   { id: "relacoes", label: "Relações por categoria" },
   { id: "negocios", label: "Negócios" },
-  { id: "eventos", label: "Eventos" },
-  { id: "atos", label: "Atos públicos" },
   { id: "documentos", label: "Documentos" },
   { id: "evidencias", label: "Evidências" },
-  { id: "posicao", label: "Posição do citado" },
-  { id: "lacunas", label: "Lacunas" },
   { id: "fontes", label: "Fontes" },
   { id: "historico", label: "Histórico" },
 ];
@@ -84,7 +85,35 @@ export function AgentDossier({ entity }: { entity: Person | Organization }) {
           { label: "evidências", value: evs.length },
         ]}
       />
-      <SectionNav items={NAV} />
+      {/*
+        A partir de lg o sumário vira coluna própria e grudada: numa página de dezenas de milhares
+        de pixels ele era o único mapa e sumia nos primeiros 700px de rolagem.
+      */}
+      <div className="lg:grid lg:grid-cols-[12rem_minmax(0,1fr)] lg:gap-10">
+        <SectionNavSticky items={NAV} />
+        <div>
+          {/*
+            A explicação da escala só existia em atributo title, que não abre no toque nem no
+            teclado — e é a chave para ler o resto da página.
+          */}
+          <details className="border-border mb-6 rounded border px-3 py-2">
+            <summary className="text-fg-2 hover:text-fg cursor-pointer text-xs">
+              O que significam D, C, A e I?
+            </summary>
+            <dl className="mt-2 space-y-1.5">
+              {(["D", "C", "A", "I"] as const).map((c) => (
+                <div key={c} className="flex gap-2 text-xs">
+                  <dt className="shrink-0">
+                    <EvidenceBadge cls={c} />
+                  </dt>
+                  <dd className="text-fg-3">{EVIDENCE_EXPLANATION[c]}</dd>
+                </div>
+              ))}
+            </dl>
+            <p className="text-fg-3 mt-2 text-xs">
+              Detalhe em <Link href="/metodologia" className="hover:text-fg underline underline-offset-2">metodologia</Link>.
+            </p>
+          </details>
 
       <Section id="resumo" title="Resumo">
         <p className="prose-novelo text-fg-2 text-sm leading-relaxed sm:text-base">{entity.summary}</p>
@@ -134,27 +163,49 @@ export function AgentDossier({ entity }: { entity: Person | Organization }) {
       </Section>
 
       <Section id="por-que" title="Por que está no Novelo?">
-        <p className="border-accent/60 bg-bg-2/60 text-fg rounded border-l-2 px-4 py-3 text-sm sm:text-base">{entity.why_in_novelo}</p>
+        <p className="border-accent/60 bg-bg-2/60 text-fg max-w-[68ch] rounded border-l-2 px-4 py-3 text-sm leading-relaxed sm:text-base">{entity.why_in_novelo}</p>
+      </Section>
+
+      <Section id="posicao" title="Posição do citado" description="Negativas, esclarecimentos, notas públicas ou versões apresentadas pela pessoa ou organização. Exibidas sempre, mesmo quando enfraquecem uma hipótese.">
+        <CitedPositionBlock positions={entity.cited_position} />
+      </Section>
+
+      <Section id="lacunas" title="Lacunas ainda não esclarecidas" description="O que o corpus não demonstra. Se não sabemos, dizemos que não sabemos.">
+        <OpenQuestions questions={entity.open_questions} />
       </Section>
 
       <Section id="linha-do-tempo" title="Linha do tempo" count={timeline.length}>
         <Timeline items={timeline} />
       </Section>
 
-      <Section id="conexoes" title="Principais conexões" count={rels.length} description="Ordenadas pela força da evidência (D, C, A, I) e depois por nome. Abra cada uma para ver por que os nós estão conectados, as fontes e a posição dos envolvidos.">
+      {/*
+        Índice, não repetição: as doze relações mais bem sustentadas em uma linha cada, para saltar
+        direto ao dossiê do outro lado. O cartão completo de cada uma está logo abaixo, na seção por
+        categoria — antes o mesmo conteúdo era impresso duas vezes na mesma página.
+      */}
+      <Section id="conexoes" title="Mais bem documentadas" count={Math.min(rels.length, 12)} description="As doze relações com a evidência mais forte. Todas aparecem completas, agrupadas por categoria, na seção seguinte.">
         {rels.length === 0 ? (
           <EmptyState>Nenhuma relação registrada no corpus.</EmptyState>
         ) : (
-          <div className="space-y-2">
-            {rels.slice(0, 12).map((r) => (
-              <RelationshipCard key={r.id} rel={r} perspectiveId={id} />
-            ))}
-            {rels.length > 12 && <p className="text-fg-3 text-xs">As demais relações aparecem por categoria abaixo.</p>}
-          </div>
+          <ul className="divide-border divide-y text-sm">
+            {rels.slice(0, 12).map((r) => {
+              const outro = r.from_id === id ? r.to_id : r.from_id;
+              return (
+                <li key={r.id} className="flex flex-wrap items-center gap-x-2 gap-y-1 py-2">
+                  <EvidenceBadge cls={r.evidence_class} />
+                  <Link href={entityHref(outro)} className="text-fg hover:text-accent font-medium underline-offset-2 hover:underline">
+                    {entityName(outro)}
+                  </Link>
+                  <span className="text-fg-3 text-xs">{r.label}</span>
+                  {r.start_date ? <span className="text-fg-3 font-mono text-[11px]">{formatPartialDate(r.start_date)}</span> : null}
+                </li>
+              );
+            })}
+          </ul>
         )}
       </Section>
 
-      <Section id="relacoes" title="Relações por categoria">
+      <Section id="relacoes" title="Relações por categoria" count={rels.length}>
         {rels.length === 0 ? (
           <EmptyState>Nenhuma relação registrada no corpus.</EmptyState>
         ) : (
@@ -206,14 +257,6 @@ export function AgentDossier({ entity }: { entity: Person | Organization }) {
         )}
       </Section>
 
-      <Section id="eventos" title="Eventos" count={events.length}>
-        <Timeline items={timelineOf(events, [])} emptyText="Nenhum evento com participação registrada." />
-      </Section>
-
-      <Section id="atos" title="Atos públicos relacionados" count={acts.length}>
-        <Timeline items={timelineOf([], acts)} emptyText="Nenhum ato público relacionado." />
-      </Section>
-
       <Section id="documentos" title="Documentos" count={docs.length}>
         {docs.length === 0 ? (
           <EmptyState>Nenhum documento ligado.</EmptyState>
@@ -239,8 +282,10 @@ export function AgentDossier({ entity }: { entity: Person | Organization }) {
         {evs.length === 0 ? (
           <EmptyState>Nenhuma evidência ligada.</EmptyState>
         ) : (
-          <ul className="space-y-2 text-sm">
-            {evs.map((e) => (
+          <Dobra
+            rotulo="evidências"
+            className="space-y-2 text-sm"
+            itens={evs.map((e) => (
               <li key={e.id} className="border-border rounded border px-3 py-2">
                 <div className="flex flex-wrap items-start gap-2">
                   <EvidenceBadge cls={e.classification} />
@@ -265,7 +310,7 @@ export function AgentDossier({ entity }: { entity: Person | Organization }) {
                 </p>
               </li>
             ))}
-          </ul>
+          />
         )}
         {claims.length > 0 && (
           <div className="mt-4">
@@ -293,14 +338,6 @@ export function AgentDossier({ entity }: { entity: Person | Organization }) {
             </ul>
           </div>
         )}
-      </Section>
-
-      <Section id="posicao" title="Posição do citado" description="Negativas, esclarecimentos, notas públicas ou versões apresentadas pela pessoa ou organização. Exibidas sempre, mesmo quando enfraquecem uma hipótese.">
-        <CitedPositionBlock positions={entity.cited_position} />
-      </Section>
-
-      <Section id="lacunas" title="Lacunas ainda não esclarecidas" description="O que o corpus não demonstra. Se não sabemos, dizemos que não sabemos.">
-        <OpenQuestions questions={entity.open_questions} />
       </Section>
 
       <Section id="fontes" title="Fontes" count={sources.length} description={`${official} fonte(s) primária(s) oficial(is).`}>
@@ -334,6 +371,8 @@ export function AgentDossier({ entity }: { entity: Person | Organization }) {
           . Correções podem ser propostas por issue ou pull request.
         </p>
       </Section>
+        </div>
+      </div>
     </article>
   );
 }

@@ -13,7 +13,7 @@ import type { NoveloGraph, SigmaEdgeAttributes, SigmaNodeAttributes } from "@/li
 import type { GraphIndex } from "@/lib/graph/indexes";
 import { createLayoutRunner, type LayoutRunner } from "@/lib/graph/layout-worker";
 import { createEdgeProgramClasses } from "@/lib/graph/programs";
-import { DIM, type Palette } from "@/lib/graph/style";
+import { type Palette } from "@/lib/graph/style";
 
 export interface CanvasView {
   visibleNodes: ReadonlySet<string>;
@@ -83,6 +83,8 @@ export function GraphCanvas(props: GraphCanvasProps) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const sigmaRef = useRef<NoveloSigma | null>(null);
   const viewRef = useRef(view);
+  /* A paleta muda com o tema; num ref, as rotinas de desenho a leem sem recriar o Sigma. */
+  const paletteRef = useRef(palette);
   const hoverRef = useRef<string | null>(null);
   const ctxRef = useRef<Context | null>(null);
   const neighborCache = useRef(new Map<string, { nodes: Set<string>; edges: Set<string> }>());
@@ -228,7 +230,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
         if (ctx.forceLabels.has(node)) res.forceLabel = true;
         return res;
       }
-      res.color = DIM.node;
+      res.color = paletteRef.current.dimNode;
       res.dimmed = true;
       res.zIndex = 0;
       return res;
@@ -252,7 +254,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
         res.zIndex = 1;
         return res;
       }
-      res.color = DIM.edge;
+      res.color = paletteRef.current.dimEdge;
       res.zIndex = 0;
       return res;
     };
@@ -291,14 +293,14 @@ export function GraphCanvas(props: GraphCanvasProps) {
       const x = xRotulo(context, data, context.measureText(label).width, 4);
       const y = data.y + size / 3;
       context.lineWidth = 3;
-      context.strokeStyle = palette.bg;
+      context.strokeStyle = paletteRef.current.bg;
       context.lineJoin = "round";
       context.strokeText(label, x, y);
       context.fillStyle = (data as NodeData).dimmed
-        ? DIM.nodeLabel
+        ? paletteRef.current.dimNodeLabel
         : (data as NodeData).highlighted
-          ? palette.fg
-          : palette.fg2;
+          ? paletteRef.current.fg
+          : paletteRef.current.fg2;
       context.fillText(label, x, y);
     };
 
@@ -313,20 +315,20 @@ export function GraphCanvas(props: GraphCanvasProps) {
         const boxY = data.y - size / 2 - pad;
         const boxW = w + pad * 2;
         const boxH = size + pad * 2;
-        context.fillStyle = "rgba(17,22,29,0.92)";
-        context.strokeStyle = "rgba(35,43,54,1)";
+        context.fillStyle = paletteRef.current.hoverBg;
+        context.strokeStyle = paletteRef.current.hoverBorder;
         context.lineWidth = 1;
         context.beginPath();
         context.roundRect(boxX, boxY, boxW, boxH, 4);
         context.fill();
         context.stroke();
-        context.fillStyle = palette.fg;
+        context.fillStyle = paletteRef.current.fg;
         context.fillText(data.label, x, data.y + size / 3);
       }
       // anel sutil em torno do nó
       context.beginPath();
       context.arc(data.x, data.y, data.size + 2.5, 0, Math.PI * 2);
-      context.strokeStyle = "rgba(244,246,248,0.55)";
+      context.strokeStyle = paletteRef.current.hoverRing;
       context.lineWidth = 1.2;
       context.stroke();
     };
@@ -343,7 +345,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
         labelFont,
         labelSize: narrow ? 11 : 12,
         labelWeight: "500",
-        labelColor: { color: palette.fg2 },
+        labelColor: { color: paletteRef.current.fg2 },
         labelRenderedSizeThreshold: narrow ? 7.5 : graph.order > 1000 ? 9 : graph.order > 300 ? 7 : 4,
         labelDensity: narrow ? 0.03 : 0.045,
         labelGridCellSize: narrow ? 165 : 145,
@@ -466,7 +468,14 @@ export function GraphCanvas(props: GraphCanvasProps) {
     };
     // Sigma é recriado apenas quando o grafo (dataset) muda.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [graph, palette]);
+  }, [graph]);
+
+  /* Troca de tema: só repinta o que já está na tela. */
+  useEffect(() => {
+    paletteRef.current = palette;
+    sigmaRef.current?.setSetting("labelColor", { color: palette.fg2 });
+    sigmaRef.current?.refresh({ skipIndexation: true });
+  }, [palette]);
 
   /* Atualização de visão (filtros, seleção, realce) → reducers + refresh. */
   useEffect(() => {

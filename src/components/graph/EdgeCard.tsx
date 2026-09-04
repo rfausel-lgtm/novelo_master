@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import type { EvidenceClass } from "@/lib/schema";
 import {
   EVIDENCE_CLASS_LABEL,
   FACT_STATUS_LABEL,
@@ -23,12 +22,8 @@ interface EdgeCardProps {
   sourceIndex: Record<string, GraphSourceInfo>;
 }
 
-export const EVIDENCE_EXPLANATION: Record<EvidenceClass, string> = {
-  D: "Documento primário: a conexão consta de registro oficial ou documento verificável.",
-  C: "Múltiplas fontes independentes corroboram a conexão.",
-  A: "Alegação atribuída a terceiro; não equivale a fato comprovado.",
-  I: "Inferência analítica a partir de indícios; não é prova.",
-};
+export { EVIDENCE_EXPLANATION } from "@/lib/labels";
+import { EVIDENCE_EXPLANATION } from "@/lib/labels";
 
 const EDGE_KIND_LABEL: Record<string, string> = {
   participation: "Participação em evento",
@@ -113,7 +108,7 @@ export function EdgeCard({ index, edge, onClose, onSelectNode, sourceIndex }: Ed
         <Chip color={familyColor}>{RELATIONSHIP_FAMILY_LABEL[edge.family]}</Chip>
         <Chip>{typeLabel}</Chip>
         <Chip>{FACT_STATUS_LABEL[edge.status]}</Chip>
-        <Chip>confiança {Math.round(edge.confidence * 100)}%</Chip>
+        <Chip title="Confiança do revisor no registro desta relação, de 0 a 100%. Não é probabilidade nem medida estatística; a força probatória está na classe de evidência.">confiança {Math.round(edge.confidence * 100)}%</Chip>
         {(edge.start_date || edge.since) && (
           <Chip>
             {formatDatePT(edge.start_date ?? edge.since)}

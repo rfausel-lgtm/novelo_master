@@ -1,5 +1,5 @@
 /** Reexporta rótulos pt-BR do schema e adiciona os que faltam para as páginas. */
-import type { DocumentType } from "@/lib/schema";
+import type { DocumentType, EvidenceClass } from "@/lib/schema";
 export {
   RELATIONSHIP_FAMILY,
   RELATIONSHIP_FAMILY_LABEL,
@@ -36,3 +36,14 @@ export const DOCUMENT_TYPE_LABEL: Record<DocumentType, string> = {
 export function DOCUMENT_TYPE_LABEL_SAFE(t: string): string {
   return (DOCUMENT_TYPE_LABEL as Record<string, string>)[t] ?? t;
 }
+
+/**
+ * Definição única da escala de evidência. Havia duas redações diferentes no código (dossiê e card
+ * de conexão) para a mesma sigla — e a escala é o núcleo normativo do projeto.
+ */
+export const EVIDENCE_EXPLANATION: Record<EvidenceClass, string> = {
+  D: "Documental direto: consta de documento primário verificável (decisão, relatório oficial, contrato, registro).",
+  C: "Corroborado: confirmado por múltiplas fontes independentes, sem documento primário no corpus.",
+  A: "Alegação: declaração atribuída a terceiro. Não equivale a fato comprovado.",
+  I: "Inferência: interpretação analítica a partir de fatos conhecidos. Não é prova.",
+};

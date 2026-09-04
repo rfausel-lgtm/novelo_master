@@ -10,6 +10,12 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Cross-Origin-Opener-Policy: same-origin
 
+# O Next gera a imagem de compartilhamento sem extensao; sem esta linha o Cloudflare a serve como
+# application/octet-stream e, com nosniff, WhatsApp e redes sociais recusam exibi-la.
+/opengraph-image
+  Content-Type: image/png
+  Cache-Control: public, max-age=3600
+
 /data/*
   Cache-Control: public, max-age=300, must-revalidate
 
