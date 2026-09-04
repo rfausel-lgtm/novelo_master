@@ -1,0 +1,31 @@
+id: rev-2026-09-04-lote-70-no-bn-bk-resolvido
+kind: revision
+date: '2026-09-03'
+title: 'Lote 70: o nó BN/BK, resolvido em registro público'
+summary: 'Frente aberta pelo editor sobre a divergência entre BN Financeira, BK Financeira e BN Representações.
+  A resposta está no cadastro da Receita Federal: BN Financeira Ltda. é a razão social e BK Financeira
+  o nome fantasia da mesma pessoa jurídica — a imprensa dividiu-se entre o nome empresarial, usado nos
+  documentos judiciais, e o fantasia, usado por agregadores de dados. Empresa distinta, da mesma sócia,
+  é a BN Representações Tecnológicas, que era Vamos Florir Comércio de Flores e migrou de floricultura
+  para software, de Salvador para Igaporã, poucos meses antes da operação. Resolvido o nome, sobram três
+  achados maiores. O primeiro é metodológico: a representação da PF, ao datar o contrato e descrever o
+  objeto, cita como fonte uma reportagem — documento oficial e matéria não são fontes independentes nesses
+  pontos, e o valor de R$ 11 milhões não ganhou lastro ao entrar nos autos. O segundo é regulatório e
+  a cobertura não explorou: o art. 8º da Resolução CMN 4.935/2021, vigente durante o contrato, exigia
+  autorização prévia do Banco Central para contratar como correspondente empresa fora do sistema financeiro
+  que usasse termos característicos de instituição financeira no nome — hipótese exata desta empresa.
+  O terceiro é uma correção: o número de R$ 5,5 milhões que circulou não existe nos autos, e resulta de
+  somar à empresa valores que a PF descreve como pagos a pessoa física.'
+affected_ids:
+- bn-financeira
+- bn-representacoes-tecnologicas
+- bonnie-toaldo-bonilha
+- moises-dantas-dos-santos
+- jaques-wagner
+- pkl-one-participacoes
+reason: Resolução documental do nó BN/BK, a pedido do editor, em cadastro da Receita e documentos judiciais.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

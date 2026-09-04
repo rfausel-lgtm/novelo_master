@@ -1,0 +1,27 @@
+id: doc-2026-cnpj-bn-financeira
+kind: document
+title: Registro cadastral do CNPJ 42.645.396/0001-74 — BN FINANCEIRA LTDA (nome fantasia BK FINANCEIRA)
+doc_type: corporate_record
+date: '2026-09-04'
+source_ids:
+- src-minhareceita-bn-financeira-cnpj
+summary: 'Registro do Cadastro Nacional da Pessoa Jurídica, reproduzido do conjunto de dados abertos da
+  Receita Federal e consultado pela equipe. Fixa a identidade que a imprensa tratou como duas empresas:
+  razão social BN FINANCEIRA LTDA, nome fantasia BK FINANCEIRA. Abertura em 08/07/2021, microempresa,
+  capital social de R$ 45.000,00, situação ativa, sede em Salvador. CNAE principal 6399-2/00, com secundário
+  6619-3/02 — correspondentes de instituições financeiras. Quadro societário com Bonnie Toaldo Bonilha
+  como sócia-administradora desde a constituição e Moisés Dantas dos Santos como sócio desde 30/08/2022.'
+is_official: true
+related_entity_ids:
+- bn-financeira
+- bonnie-toaldo-bonilha
+- moises-dantas-dos-santos
+issuer: Receita Federal do Brasil
+date_precision: day
+url: https://minhareceita.org/42645396000174
+reference: CNPJ 42.645.396/0001-74
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

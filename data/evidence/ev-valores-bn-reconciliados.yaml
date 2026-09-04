@@ -1,0 +1,25 @@
+id: ev-valores-bn-reconciliados
+kind: evidence
+classification: D
+proposition: 'Os valores que circulavam não se contradizem — medem coisas diferentes. R$ 3,5 milhões é
+  uma transferência única e datada: a decisão do STF registra que ''em 17/10/2025, a operação foi concluída
+  com transferência de R$ 3.500.000,00 à BN FINANCEIRA LTDA.'' pela PKL One Participações, com comprovante
+  bancário nos autos. R$ 11 milhões é o acumulado alegado pela imprensa para o período de 2022 a 2025,
+  e é compatível com os autos, porque a própria PF consigna que ''o total de repasses às empresas vinculadas
+  ao núcleo familiar do Senador JAQUES WAGNER são maiores do que a transferência tratada'' e que ''possivelmente
+  outras operações foram realizadas''. Já o número de R$ 5,5 milhões, que circulou em ao menos um veículo,
+  NÃO existe nos documentos: a busca literal na decisão e na representação não retorna nenhuma ocorrência.
+  É quase certamente a soma da transferência de R$ 3,5 milhões com R$ 2,34 milhões que a PF descreve como
+  pagos ao enteado do senador — pessoa física, e não à empresa. O corpus não adota esse número.'
+document_ids:
+- doc-2026-06-17-decisao-pet-16229-9a-fase
+- doc-2026-07-31-representacao-pf-9a-fase-wagner
+source_ids:
+- src-stf-pet-16229-decisao-9a-fase-pdf
+- src-pf-representacao-9a-fase-wagner-pdf
+date: '2025-10-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

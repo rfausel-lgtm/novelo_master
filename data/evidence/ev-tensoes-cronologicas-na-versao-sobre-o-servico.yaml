@@ -1,0 +1,26 @@
+id: ev-tensoes-cronologicas-na-versao-sobre-o-servico
+kind: evidence
+classification: I
+proposition: 'Observação da equipe, sinalizada como leitura e não como fato: há duas tensões cronológicas
+  entre as versões públicas e o registro cadastral. Primeira, o senador descreveu o serviço como intermediação
+  de ''uma negociação no tempo do Bolsonaro'', e a negociação a que a PF associa seu nome — a privatização
+  da EBAL e a criação do CredCesta — é datada pela corporação de 2019; mas a BN Financeira só foi constituída
+  em 08/07/2021, de modo que não poderia tê-la intermediado. Segunda, ele descreve um evento único e encerrado,
+  enquanto a própria empresa descreve contrato de prospecção com exclusividade rendendo pagamentos de
+  2022 a 2025 — e os repasses que a PF documenta, planilhas de 2024 e a transferência de outubro de 2025,
+  situam-se no período em que ele era líder do governo no Senado. Nenhuma das duas observações imputa
+  conduta: são incompatibilidades de datas entre declarações e registro, que o corpus assinala para apuração.'
+document_ids: []
+source_ids:
+- src-minhareceita-bn-financeira-cnpj
+- src-pf-representacao-9a-fase-wagner-pdf
+- src-metro1-2026-03-18-empresa-diz-que-repasse-e-legal
+inference_basis: Confronto entre a data de constituição da empresa no cadastro da Receita (08/07/2021),
+  a data que a PF atribui à negociação da EBAL/CredCesta (2019), o período de prestação de serviços declarado
+  pela própria empresa (2022 a 2025) e as datas dos repasses documentados nos autos.
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

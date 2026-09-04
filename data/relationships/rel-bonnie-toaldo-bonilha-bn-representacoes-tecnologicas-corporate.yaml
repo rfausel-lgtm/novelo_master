@@ -1,0 +1,24 @@
+id: rel-bonnie-toaldo-bonilha-bn-representacoes-tecnologicas-corporate
+kind: relationship
+from_id: bonnie-toaldo-bonilha
+to_id: bn-representacoes-tecnologicas
+relationship_type: corporate
+directed: false
+label: sócia única desde 20/05/2019
+start_date: '2019-05-20'
+description: Consta do cadastro da Receita Federal como sócia única da BN Representações Tecnológicas
+  Ltda., empresa que antes se chamava Vamos Florir Comércio de Flores.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids:
+- ev-bn-e-bk-sao-a-mesma-empresa
+source_ids:
+- src-minhareceita-bn-representacoes-cnpj
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

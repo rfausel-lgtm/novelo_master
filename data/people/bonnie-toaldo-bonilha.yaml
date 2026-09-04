@@ -1,0 +1,36 @@
+id: bonnie-toaldo-bonilha
+kind: person
+name: Bonnie Toaldo Bonilha
+category: other
+role: Sócia-administradora da BN Financeira Ltda. e sócia única da BN Representações Tecnológicas Ltda.
+positions: []
+summary: 'Sócia-administradora da BN Financeira Ltda. desde a constituição da empresa, em 08/07/2021,
+  e sócia única da BN Representações Tecnológicas Ltda. desde 20/05/2019. É nora do senador Jaques Wagner,
+  casada com Eduardo Mendonça Sodré Martins. É alvo de medidas cautelares pessoais impostas pela decisão
+  do ministro André Mendonça de 17/06/2026: proibição de contato com os demais investigados — ressalvados
+  o senador e o marido, por vínculo familiar —, proibição de contato com pessoas ligadas ao empreendimento
+  Poème Horto, suspensão de passaporte, impedimento de saída do país e proibição de atuação econômica
+  com as empresas citadas. A decisão a qualifica por sua posição societária e pelo vínculo familiar, sem
+  imputação individualizada de conduta. Não há bloqueio de bens nem indiciamento noticiado, e não foi
+  localizada manifestação própria dela — as respostas foram dadas pelo sócio e advogado da empresa.'
+why_in_novelo: Sócia das duas empresas cujas atividades o STF suspendeu na 9ª fase da operação, e alvo
+  de cautelares pessoais.
+cited_position:
+- kind: not_located
+  summary: Não foi localizada manifestação própria; as respostas às reportagens foram dadas pelo sócio
+    e advogado da empresa, Moisés Dantas dos Santos.
+  source_ids:
+  - src-metro1-2026-03-18-empresa-diz-que-repasse-e-legal
+  date: '2026-03-18'
+open_questions:
+- 'A decisão não lhe imputa conduta individualizada: as cautelares decorrem da posição societária e do
+  vínculo familiar. É pessoa privada, sem cargo público.'
+source_ids:
+- src-minhareceita-bn-financeira-cnpj
+- src-minhareceita-bn-representacoes-cnpj
+- src-stf-pet-16229-decisao-9a-fase-pdf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

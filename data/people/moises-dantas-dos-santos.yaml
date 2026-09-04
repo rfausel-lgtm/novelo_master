@@ -1,0 +1,30 @@
+id: moises-dantas-dos-santos
+kind: person
+name: Moisés Dantas dos Santos
+category: lawyer
+role: Advogado; sócio da BN Financeira Ltda. desde agosto de 2022
+positions: []
+summary: Advogado e sócio da BN Financeira Ltda. desde 30/08/2022. É quem se manifesta publicamente em
+  nome da empresa, sustentando que o serviço prestado ao Banco Master 'não foi de consultoria, mas de
+  prospecção e indicação, em caráter de exclusividade, de operações e convênios de crédito consignado',
+  prestado de 2022 a 2025, com recursos recebidos 'de forma oficial, contabilizada e mediante emissão
+  de nota fiscal'. Registro societário indica que Eduardo Mendonça Sodré Martins, enteado do senador Jaques
+  Wagner e marido de Bonnie Toaldo Bonilha, foi sócio da Moisés Dantas Advocacia entre fevereiro de 2021
+  e setembro de 2023 — vínculo anterior à entrada dele na BN Financeira.
+why_in_novelo: Sócio e porta-voz da empresa que recebeu pagamentos do Banco Master, e com vínculo societário
+  prévio ao núcleo familiar do senador.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O vínculo societário entre Eduardo Mendonça Sodré Martins e a Moisés Dantas Advocacia consta de base
+  de agregador privado, e não do conjunto de dados abertos da Receita Federal — que não publica histórico
+  societário. Não foi confirmado em ficha de Junta Comercial.
+source_ids:
+- src-metro1-2026-03-18-empresa-diz-que-repasse-e-legal
+- src-minhareceita-bn-financeira-cnpj
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

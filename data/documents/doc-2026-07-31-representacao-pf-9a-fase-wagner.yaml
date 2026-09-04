@@ -1,0 +1,29 @@
+id: doc-2026-07-31-representacao-pf-9a-fase-wagner
+kind: document
+title: Representação da Polícia Federal na 9ª fase da Operação Compliance Zero (98 páginas)
+doc_type: official_report
+date: '2026-07-31'
+source_ids:
+- src-pf-representacao-9a-fase-wagner-pdf
+summary: Representação lida na íntegra pela equipe. Documenta a transferência de R$ 3,5 milhões de 17/10/2025
+  com comprovante bancário, registra a constituição da BN Financeira em 08/07/2021 com capital de R$ 45
+  mil, e consigna expressamente que o total de repasses às empresas vinculadas ao núcleo familiar do senador
+  é maior que a transferência tratada e possivelmente desconhecido. Ao datar a contratação em 2022 e descrever
+  o objeto contratual, remete em nota de rodapé a reportagem de imprensa e a declarações atribuídas ao
+  sócio da empresa — e não a contratos.
+is_official: true
+related_entity_ids:
+- jaques-wagner
+- bn-financeira
+- bonnie-toaldo-bonilha
+issuer: Polícia Federal
+date_precision: day
+url: https://static.poder360.com.br/uploads/2026/07/relatorio-pf-jaques-wagner-master-31jul26.pdf
+reference: Representação da PF — INQ 5026 / PET 16.032
+excerpt: As anotações apontam que o total de repasses às empresas vinculadas ao núcleo familiar do Senador
+  JAQUES WAGNER são maiores do que a transferência tratada. Possivelmente outras operações foram realizadas.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

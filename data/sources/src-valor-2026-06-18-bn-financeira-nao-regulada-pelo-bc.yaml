@@ -1,0 +1,24 @@
+id: src-valor-2026-06-18-bn-financeira-nao-regulada-pelo-bc
+kind: source
+title: BN Financeira, empresa da família de Jaques Wagner, é alvo da Compliance Zero e não é regulada
+  pelo BC
+publisher: Valor Econômico
+publication_date: '2026-06-18'
+retrieved_at: '2026-09-03'
+url: https://valor.globo.com/financas/noticia/2026/06/18/bn-financeira-empresa-da-filha-de-jacques-wagner-e-alvo-da-compliance-zero-no-regulada-pelo-bc.ghtml
+source_type: press
+summary: Registra que a BN Financeira não é instituição financeira e não tem autorização do Banco Central
+  para funcionar como tal, apesar do nome. É sociedade limitada de micro porte, com capital de R$ 45 mil.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: A reportagem invoca a Resolução Conjunta nº 17/2025 como norma aplicável, mas o art. 1º dessa resolução
+  restringe seu âmbito às instituições autorizadas a funcionar pelo Banco Central — não alcança a BN Financeira.
+  A norma pertinente ao período do contrato é a Resolução CMN 4.935/2021, art. 8º, hoje revogada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
