@@ -221,12 +221,25 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     checkImputation(file, "proposition", e.proposition, pub);
   }
 
+  /**
+   * Uma coordenada é uma afirmação sobre onde algo fica, e é forma precisa de endereço. Precisão
+   * melhor que o município exige fonte, e residência é vedada pela política editorial.
+   */
+  const checkPlace = (file: string, place: { precision: string; kind: string; source_ids: string[] } | undefined) => {
+    if (!place) return;
+    checkRefs(file, "place.source_ids", place.source_ids, ["source"]);
+    if (place.precision !== "city" && place.source_ids.length === 0) {
+      err(file, "lugar com precisão melhor que município exige place.source_ids");
+    }
+  };
+
   /* ---- pessoas e organizações ---- */
   for (const p of [...corpus.people, ...corpus.organizations]) {
     const file = `${p.kind === "person" ? "people" : "organizations"}/${p.id}.yaml`;
     const pub = p.review_status === "published";
     checkRefs(file, "source_ids", p.source_ids, ["source"]);
     checkCited(file, "cited_position", p.cited_position);
+    if (p.kind === "organization") checkPlace(file, p.place);
     if (p.cited_position.length === 0) {
       warn(file, "sem cited_position (contraditório): será exibido como 'não localizada'", pub);
     }
@@ -257,6 +270,7 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     }
     checkClassAndStatus(file, ev.evidence_class, ev.status, ev.evidence_ids);
     checkImputation(file, "description", ev.description, pub);
+    checkPlace(file, ev.place);
   }
 
   /* ---- atos públicos ---- */
