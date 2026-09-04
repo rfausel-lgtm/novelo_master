@@ -131,16 +131,20 @@ export function TimeMachine(props: TimeMachineProps) {
           className="accent-accent h-1.5 w-full cursor-pointer"
         />
         <div className="text-fg-3 relative mt-0.5 h-3 text-[10px]" aria-hidden="true">
-          {years.map((y) => (
+          {years.map((y, i) => (
             <span
               key={y.label}
-              className="absolute -translate-x-1/2 tabular-nums"
+              /* Em tela estreita os anos se sobrepõem: mostra um a cada dois. */
+              className={`absolute -translate-x-1/2 tabular-nums ${
+                i % 2 === 1 ? "hidden sm:block" : ""
+              }`}
               style={{ left: `${y.pct}%` }}
             >
               {y.label}
             </span>
           ))}
-          <span className="absolute right-0 tabular-nums">
+          {/* No celular colidiria com o último ano; a data já aparece em "Até ..." acima. */}
+          <span className="absolute right-0 hidden tabular-nums sm:block">
             {max === todayISO() ? "hoje" : formatDatePT(max)}
           </span>
         </div>

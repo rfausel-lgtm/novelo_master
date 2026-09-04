@@ -1,4 +1,10 @@
-import { test, expect } from "@playwright/test";
+import { test, expect, type Page } from "@playwright/test";
+
+/** No mobile as ferramentas secundárias ficam atrás de um botão; no desktop já estão abertas. */
+async function abrirFerramentas(page: Page) {
+  const toggle = page.getByRole("button", { name: "Ferramentas" });
+  if (await toggle.isVisible()) await toggle.click();
+}
 
 test.describe("Grafo (dataset sintético de demonstração)", () => {
   test.beforeEach(async ({ page }) => {
@@ -53,6 +59,7 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
   });
 
   test("caminho entre dois nós é calculado", async ({ page }) => {
+    await abrirFerramentas(page);
     await page.getByRole("button", { name: "Como A se conecta a B?" }).click();
     await page.getByRole("combobox", { name: "Nó de origem" }).fill("Pessoa Exemplo 2");
     await page.getByRole("option").first().click();
@@ -63,6 +70,7 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
   });
 
   test("legenda explica cor e forma", async ({ page }) => {
+    await abrirFerramentas(page);
     await page.getByRole("button", { name: "Legenda" }).click();
     await expect(page.getByRole("heading", { name: "Força da evidência" })).toBeVisible();
     await expect(page.getByText(/Vermelho nunca significa ilícito/)).toBeVisible();
@@ -80,6 +88,7 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
     await page.getByRole("button", { name: "Fixar nó no layout" }).click();
     await expect(page.getByRole("button", { name: "Desafixar nó" })).toBeVisible();
 
+    await abrirFerramentas(page);
     await page.getByRole("button", { name: "Girar o grafo para a direita" }).click();
     await page.getByRole("button", { name: "Remover a rotação do grafo" }).click();
 

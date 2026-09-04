@@ -197,6 +197,8 @@ export function GraphCanvas(props: GraphCanvasProps) {
     const labelFont =
       getComputedStyle(document.body).fontFamily || "IBM Plex Sans, system-ui, sans-serif";
     const large = graph.size > 2000;
+    /* Em tela estreita o rótulo ocupa proporção muito maior: menos rótulos e menos moldura. */
+    const narrow = container.clientWidth < 640;
 
     const nodeReducer: Settings<SigmaNodeAttributes, SigmaEdgeAttributes>["nodeReducer"] = (
       node,
@@ -258,18 +260,24 @@ export function GraphCanvas(props: GraphCanvasProps) {
     const drawLabel: Settings["defaultDrawNodeLabel"] = (context, data, settings) => {
       if (!data.label) return;
       const graphKind = (data as NodeData & { kind?: string }).kind;
-      const max =
+      const longo =
         graphKind === "event" ||
         graphKind === "public_act" ||
         graphKind === "claim" ||
-        graphKind === "evidence"
-          ? 42
-          : 54;
+        graphKind === "evidence";
+      const max = narrow ? (longo ? 22 : 26) : longo ? 42 : 54;
       const label =
         data.label.length > max ? `${data.label.slice(0, max - 1).trimEnd()}…` : data.label;
       const size = settings.labelSize;
       context.font = `${settings.labelWeight} ${size}px ${settings.labelFont}`;
-      const x = data.x + data.size + 4;
+      /*
+       * Rótulo à direita do nó, como padrão. Perto da borda direita ele seria cortado
+       * pela lateral do canvas — nesse caso desenha à esquerda.
+       */
+      const largura = context.canvas.width / (window.devicePixelRatio || 1);
+      const texto = context.measureText(label).width;
+      const xDireita = data.x + data.size + 4;
+      const x = xDireita + texto > largura - 4 ? data.x - data.size - 4 - texto : xDireita;
       const y = data.y + size / 3;
       context.lineWidth = 3;
       context.strokeStyle = palette.bg;
@@ -322,19 +330,19 @@ export function GraphCanvas(props: GraphCanvasProps) {
         hideEdgesOnMove: large,
         hideLabelsOnMove: false,
         labelFont,
-        labelSize: 12,
+        labelSize: narrow ? 11 : 12,
         labelWeight: "500",
         labelColor: { color: palette.fg2 },
-        labelRenderedSizeThreshold: graph.order > 1000 ? 9 : graph.order > 300 ? 7 : 4,
-        labelDensity: 0.045,
-        labelGridCellSize: 145,
+        labelRenderedSizeThreshold: narrow ? 7.5 : graph.order > 1000 ? 9 : graph.order > 300 ? 7 : 4,
+        labelDensity: narrow ? 0.03 : 0.045,
+        labelGridCellSize: narrow ? 165 : 145,
         defaultDrawNodeLabel: drawLabel,
         defaultDrawNodeHover: drawHover,
         edgeProgramClasses: createEdgeProgramClasses(),
         zIndex: true,
         minEdgeThickness: 0.6,
         antiAliasingFeather: 1,
-        stagePadding: 40,
+        stagePadding: narrow ? 14 : 40,
         minCameraRatio: 0.01,
         maxCameraRatio: 4,
         zoomingRatio: 1.5,

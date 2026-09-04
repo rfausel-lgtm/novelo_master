@@ -67,6 +67,7 @@ export function GraphExplorer() {
   const [layerPayload, setLayerPayload] = useState<GraphLayerPayload | null>(null);
   const layerRequest = useRef<Promise<GraphLayerPayload> | null>(null);
   const [legendOpen, setLegendOpen] = useState(false);
+  const [toolsOpen, setToolsOpen] = useState(false);
   const [layoutToken, setLayoutToken] = useState(0);
   const [layoutRunning, setLayoutRunning] = useState(false);
   const [fitToken, setFitToken] = useState(0);
@@ -385,7 +386,7 @@ export function GraphExplorer() {
       {/* Barra de ferramentas */}
       <div className="pointer-events-none absolute inset-x-0 top-0 z-10 flex flex-col gap-2 p-3">
         <div className="pointer-events-auto flex flex-wrap items-center gap-1.5">
-          <div className="w-64 max-w-full">
+          <div className="min-w-0 flex-1 md:w-64 md:flex-none">
             <SearchBox
               index={index}
               only={view.visibleNodes}
@@ -403,6 +404,23 @@ export function GraphExplorer() {
           >
             Filtros
           </ToolButton>
+          <ToolButton
+            className="md:hidden"
+            active={toolsOpen}
+            aria-expanded={toolsOpen}
+            onClick={() => setToolsOpen((v) => !v)}
+          >
+            Ferramentas
+          </ToolButton>
+        </div>
+
+        {/*
+         * No celular a barra ocupava três linhas e comia um terço da tela antes do grafo.
+         * Aqui as ferramentas secundárias ficam atrás de um botão; no desktop seguem visíveis.
+         */}
+        <div
+          className={`pointer-events-auto ${toolsOpen ? "flex" : "hidden"} flex-wrap items-center gap-1.5 md:flex`}
+        >
           <ToolButton
             active={state.multiSelect}
             onClick={() => dispatch({ type: "setMultiSelect", on: !state.multiSelect })}
