@@ -18,4 +18,13 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+photo:
+  path: /fotos/daniel-bialski.jpg
+  source: Agência Brasil (EBC)
+  author: Rovena Rosa/Agência Brasil
+  license: CC BY 3.0 BR
+  original_url: https://agenciabrasil.ebc.com.br/foto/2023-11/dia-internacional-de-combate-ao-fascismo-e-ao-antissemitismo-1699547916-0
+  retrieved_at: '2026-09-04'
+  alt: Retrato de Daniel Bialski
+  focus: center

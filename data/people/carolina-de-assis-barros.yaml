@@ -20,4 +20,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+photo:
+  path: /fotos/carolina-de-assis-barros.jpg
+  source: Wikimedia Commons
+  author: Senado Federal from Brasilia, Brazil
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:CMMPV_-_Comiss%C3%B5es_Mistas_Medidas_Provis%C3%B3rias_(49526168873).jpg
+  retrieved_at: '2026-09-04'
+  alt: Retrato de Carolina de Assis Barros
