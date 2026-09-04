@@ -1,0 +1,24 @@
+id: sozo-real-estate
+kind: organization
+name: Sozo Real Estate
+aliases: []
+org_type: company
+summary: Holding apontada pela EFB (liquidante do Banco Master) como veículo usado por Henrique Vorcaro
+  (presidente) e Natália Vorcaro Zettel (vice-presidente) para deter a titularidade da mansão de Windermere
+  (Orlando/FL), avaliada em cerca de R$ 180 milhões. Em fevereiro de 2026, tentou vender o imóvel de forma
+  privada à empresa Chosen Vessel LLC (Delaware), sem listagem no sistema público MLS nem contratação
+  de advogado independente — irregularidades apontadas pela EFB como indício de tentativa de ocultar a
+  venda. A venda não se consumou.
+why_in_novelo: Veículo societário no centro da tentativa de venda internacional de um dos principais ativos
+  bloqueados da família Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-osul-2026-04-20-mansao-orlando-chosen-vessel
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,27 @@
+id: evt-2026-03-17-justica-bloqueia-bens-vorcaro
+kind: event
+title: Justiça bloqueia bens de Daniel Vorcaro a pedido do liquidante do Banco Master
+event_type: judicial_decision
+date: '2026-03-17'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- banco-master
+- super-empreendimentos-e-participacoes
+description: O juiz Adler Batista Oliveira Nobre (3ª Vara de Falências e Recuperações Judiciais de São
+  Paulo) concedeu liminar, a pedido da EFB Regimes Especiais, proibindo a alienação de bens ligados a
+  Daniel Vorcaro — fundos de investimento, a Super Empreendimentos e Participações e imóveis de alto padrão
+  —, citando risco de dissipação de patrimônio que poderia ressarcir credores.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-liminar-17-03-2026-bloqueio-bens-vorcaro
+source_ids:
+- src-infomoney-2026-03-18-liminar-bloqueio-bens
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

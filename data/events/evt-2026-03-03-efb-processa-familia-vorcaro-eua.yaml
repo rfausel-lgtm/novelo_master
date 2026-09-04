@@ -1,0 +1,27 @@
+id: evt-2026-03-03-efb-processa-familia-vorcaro-eua
+kind: event
+title: Liquidante do Banco Master processa pai e irmã de Vorcaro nos EUA por mais de US$ 1 bilhão
+event_type: public_act
+date: '2026-03-03'
+date_precision: day
+participant_ids:
+- henrique-vorcaro
+- natalia-vorcaro-zettel
+- super-empreendimentos-e-participacoes
+description: A EFB Regimes Especiais moveu ação civil nos Estados Unidos contra Henrique Vorcaro e Natália
+  Vorcaro Zettel, por enriquecimento ilícito e dissipação de mais de US$ 1 bilhão em ativos do Banco Master,
+  incluindo repasses de cerca de R$ 1,5 bilhão à Super Empreendimentos e Participações e R$ 400 milhões
+  à Moriah Asset Management.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-efb-acao-civil-eua-familia-vorcaro
+source_ids:
+- src-jornaldocomercio-2026-03-03-acao-eua-familia-vorcaro
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -43,6 +43,11 @@ open_questions:
 - Não há, no corpus, a íntegra das decisões judiciais; o conteúdo registrado é o das comunicações oficiais
   do STF.
 - As alegações da PF sobre pagamentos a agentes públicos permanecem sob investigação e não foram julgadas.
+- 'Há contradição não resolvida entre fontes sobre o jato Gulfstream G700: uma linha de reportagem (Revista
+  Oeste, aeroin.net) indica que a aeronave estaria em nome do grupo ''Prime You'' e teria sido revendida
+  a uma empresa de táxi aéreo de San Marino em dezembro de 2025, antes do bloqueio patrimonial; outra
+  (InfoMoney, decisão de 23/03/2026) inclui o mesmo modelo na lista oficial de bens sob indisponibilidade.
+  Não localizamos fonte que reconcilie as duas versões.'
 source_ids:
 - src-stf-2026-03-04-prisao-preventiva-vorcaro
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
@@ -55,6 +60,8 @@ source_ids:
 - src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
 - src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+- src-infomoney-2026-03-18-liminar-bloqueio-bens
+- src-infomoney-2026-03-23-cerco-patrimonio-familiares
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published

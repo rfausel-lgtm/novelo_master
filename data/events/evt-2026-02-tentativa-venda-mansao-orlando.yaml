@@ -1,0 +1,26 @@
+id: evt-2026-02-tentativa-venda-mansao-orlando
+kind: event
+title: Sozo Real Estate tenta vender mansão de Orlando à Chosen Vessel LLC sem publicidade
+event_type: transaction
+date: 2026-02
+date_precision: month
+participant_ids:
+- henrique-vorcaro
+- natalia-vorcaro-zettel
+- sozo-real-estate
+description: A Sozo Real Estate, holding da família Vorcaro, tentou vender de forma privada a mansão de
+  Windermere (Orlando/FL) à Chosen Vessel LLC (Delaware), sem listagem pública nem advogado independente
+  — irregularidades apontadas pela EFB como indício de tentativa de ocultar a venda. A venda não se consumou.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-tentativa-venda-mansao-orlando-chosen-vessel
+source_ids:
+- src-osul-2026-04-20-mansao-orlando-chosen-vessel
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

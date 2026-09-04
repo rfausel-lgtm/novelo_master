@@ -1,0 +1,22 @@
+id: src-netcampos-2026-02-botanique-venda
+kind: source
+title: Daniel Vorcaro negocia venda do Hotel Botanique em Campos do Jordão por R$ 150 milhões
+publisher: NetCampos
+publication_date: 2026-02
+retrieved_at: '2026-09-03'
+url: https://www.netcampos.com/noticias/2026/02/daniel-vorcaro-negocia-venda-do-hotel-botanique-em-campos-do-jordao-por-r-150-milhoes.html
+source_type: press
+summary: Reproduz nota atribuída à colunista Malu Gaspar (O Globo) sobre a busca de comprador para o hotel
+  Botanique, adquirido por Vorcaro por cerca de R$ 100 milhões de Ricardo e Fernanda Semler em novembro
+  de 2020. A defesa de Vorcaro nega que ele esteja negociando a venda. Veículo regional de menor porte;
+  a atribuição à coluna de Malu Gaspar reforça a credibilidade do dado.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,23 @@
+id: rel-natalia-vorcaro-zettel-sozo-real-estate-corporate
+kind: relationship
+from_id: natalia-vorcaro-zettel
+to_id: sozo-real-estate
+relationship_type: corporate
+directed: false
+label: vice-presidente
+description: Natália Vorcaro Zettel é apontada como vice-presidente da Sozo Real Estate.
+evidence_class: A
+confidence: 0.7
+status: unverified
+event_ids:
+- evt-2026-02-tentativa-venda-mansao-orlando
+evidence_ids:
+- ev-tentativa-venda-mansao-orlando-chosen-vessel
+source_ids:
+- src-osul-2026-04-20-mansao-orlando-chosen-vessel
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,28 @@
+id: evt-2026-03-23-cerco-patrimonio-familiares-vorcaro
+kind: event
+title: Justiça amplia bloqueio patrimonial e inclui pai e irmã de Vorcaro como investigados
+event_type: judicial_decision
+date: '2026-03-23'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- henrique-vorcaro
+- natalia-vorcaro-zettel
+- sozo-real-estate
+description: O mesmo juízo ampliou o bloqueio patrimonial contra a família Vorcaro, incluindo Henrique
+  Vorcaro (pai) e Natália Vorcaro Zettel (irmã) como investigados, com lista detalhada de dezenas de imóveis,
+  veículos, embarcações e fundos de investimento — entre eles a mansão em Windermere/Orlando, o jato Gulfstream
+  G700 e a participação no Atlético Mineiro via Fundo Galo Forte.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-cerco-patrimonio-familiares-23-03-2026
+source_ids:
+- src-infomoney-2026-03-23-cerco-patrimonio-familiares
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

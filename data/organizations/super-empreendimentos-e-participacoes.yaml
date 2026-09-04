@@ -5,7 +5,10 @@ aliases: []
 org_type: company
 summary: Empresa ligada a Daniel Vorcaro, então dirigida por Fabiano Zettel, que, segundo o UOL (via Revista
   Oeste), adquiriu em fevereiro de 2024 90% do projeto eólico de Fábio Faria no Rio Grande do Norte. Segundo
-  a PGR, citada pela Oeste, teria sido usada para desviar patrimônio do Banco Master para Vorcaro.
+  a PGR, citada pela Oeste, teria sido usada para desviar patrimônio do Banco Master para Vorcaro. Segundo
+  ação civil movida pela EFB (liquidante do Banco Master) nos Estados Unidos, teria recebido cerca de
+  R$ 1,5 bilhão em repasses ligados ao esquema de dissipação de patrimônio atribuído à família Vorcaro;
+  também consta na liminar de 17/03/2026 que bloqueou bens ligados a Daniel Vorcaro.
 why_in_novelo: Veículo da compra do projeto eólico de Fábio Faria por Daniel Vorcaro, segundo a imprensa.
 cited_position:
 - kind: not_located
@@ -15,6 +18,8 @@ open_questions:
   oficiais.
 source_ids:
 - src-oeste-2026-01-29-projeto-eolico-faria
+- src-infomoney-2026-03-18-liminar-bloqueio-bens
+- src-jornaldocomercio-2026-03-03-acao-eua-familia-vorcaro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

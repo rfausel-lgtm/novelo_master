@@ -7,6 +7,12 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 45 do corpus: o cerco patrimonial contra a família Vorcaro em detalhe. A liminar de 17/03/2026 que
+  bloqueou bens ligados a Daniel Vorcaro foi ampliada em 23/03/2026 para incluir o pai (Henrique Vorcaro)
+  e a irmã (Natália Vorcaro Zettel) como investigados. Registra a tentativa frustrada de venda da mansão
+  de Orlando à Chosen Vessel LLC via a holding Sozo Real Estate (sem listagem pública nem advogado
+  independente, segundo o liquidante), e a ação civil da EFB nos EUA por mais de US$ 1 bilhão contra pai e
+  irmã de Vorcaro. Sinaliza contradição não resolvida entre fontes sobre o status do jato Gulfstream G700.
 - Lote 44 do corpus: a escala humana e sistêmica da liquidação. O FGC estimou 1,6 milhão de credores
   elegíveis e R$ 41 bilhões em garantias nos bancos do núcleo Master — a maior operação de sua história;
   em 15/07/2026 já havia pago R$ 40,03 bilhões (98,5%) a mais de 718 mil credores, restando R$ 1,83 bilhão
