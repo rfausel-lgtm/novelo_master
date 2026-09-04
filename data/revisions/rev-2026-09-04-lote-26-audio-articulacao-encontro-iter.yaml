@@ -1,0 +1,17 @@
+id: rev-2026-09-04-lote-26-audio-articulacao-encontro-iter
+kind: revision
+date: '2026-09-03'
+title: 'Lote 26: o áudio de articulação do encontro Mendonça-Vorcaro no Instituto ITER'
+summary: 'Acrescenta ao evento já registrado (encontro de 14/03/2025 no Instituto ITER) o conteúdo do
+  áudio de articulação: Ciro Soares diz a Vorcaro que Mendonça ''sabe, soube da situação do Banco Central
+  toda'' antes do encontro ocorrer — elemento relevante para avaliar o conhecimento prévio do então relator
+  sobre o caso, meses antes de assumir a relatoria em fevereiro de 2026.'
+affected_ids:
+- evt-2025-03-14-encontro-mendonca-vorcaro-iter
+- ev-mensagens-mendonca-recebeu-vorcaro-2025-03-14
+reason: Enriquecimento a partir de análise mais recente com trecho de áudio não registrado antes.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

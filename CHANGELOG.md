@@ -7,6 +7,9 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 26 do corpus: o áudio de articulação do encontro entre André Mendonça e Daniel Vorcaro no Instituto
+  ITER (14/03/2025) — Ciro Soares diz a Vorcaro que Mendonça 'sabe, soube da situação do Banco Central
+  toda' antes mesmo do encontro ocorrer, quase um ano antes de assumir a relatoria do caso.
 - Lote 25 do corpus: os dois atos oficiais do Banco Central que decretaram as liquidações extrajudiciais
   da Will Financeira (Ato do Presidente 1.376/2026) e da CBSF DTVM, ex-Reag (Ato 1.375/2026), ambos
   assinados por Gabriel Galípolo — localizados republicados nos sites das próprias empresas liquidadas,

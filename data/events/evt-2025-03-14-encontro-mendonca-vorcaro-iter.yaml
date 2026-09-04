@@ -14,15 +14,18 @@ description: Segundo mensagens e registros do celular de Vorcaro publicados pela
   e reproduzidos pelo Brasil de Fato, Vorcaro esteve por cerca de duas horas na sede do Instituto ITER,
   fundado pelo ministro, em encontro articulado por Ciro Soares e Cezinha de Madureira. O gabinete do
   ministro confirmou ter recebido o empresário uma única vez, para memoriais sobre precatórios, e afirmou
-  que sua decisão foi contrária aos interesses do banco. O encontro é anterior à relatoria de Mendonça
-  no caso Master (fevereiro de 2026).
+  que sua decisão foi contrária aos interesses do banco. Em áudio da articulação, Ciro Soares diz a Vorcaro
+  que Mendonça 'sabe, soube da situação do Banco Central toda' antes mesmo do encontro. O encontro é anterior
+  à relatoria de Mendonça no caso Master (fevereiro de 2026).
 evidence_class: A
 status: unverified
 evidence_ids:
 - ev-mensagens-mendonca-recebeu-vorcaro-2025-03-14
 - ev-nota-mendonca-recebeu-uma-vez
+- ev-audio-ciro-soares-articula-encontro-iter
 source_ids:
 - src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+- src-apublica-2026-09-02-analise-24h-revelacoes
 document_ids: []
 public_act_ids: []
 cited_position:
