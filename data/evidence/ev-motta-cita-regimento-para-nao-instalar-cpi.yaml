@@ -1,0 +1,20 @@
+id: ev-motta-cita-regimento-para-nao-instalar-cpi
+kind: evidence
+classification: C
+proposition: 'Segundo o Portal da Câmara dos Deputados, em 26/02/2026 Hugo Motta declarou que o pedido
+  de CPI do Banco Master ''precisa respeitar ordem cronológica'' de apresentação. Em maio de 2026, segundo
+  o Metrópoles, formulou o critério de forma mais explícita: ''A inobservância da ordem cronológica de
+  apresentação só não gera prejuízo se ainda restar espaço à criação e funcionamento daquelas comissões
+  requeridas anteriormente, dentre as cinco a serem criadas''.'
+document_ids: []
+source_ids:
+- src-camara-2026-02-26-motta-ordem-cronologica
+- src-metropoles-2026-05-19-obstaculo-regimental-motta
+excerpt: A inobservância da ordem cronológica de apresentação só não gera prejuízo se ainda restar espaço
+  à criação e funcionamento daquelas comissões requeridas anteriormente, dentre as cinco a serem criadas.
+date: '2026-05-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

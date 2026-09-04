@@ -1,0 +1,41 @@
+id: evt-2026-02-11-motta-estabelece-criterio-cronologico-cpi-master
+kind: event
+title: Motta estabelece critério cronológico como obstáculo à instalação da CPI do Banco Master na Câmara
+event_type: regulatory_act
+date: '2026-02-11'
+date_precision: day
+participant_ids:
+- camara-dos-deputados
+- hugo-motta
+- rodrigo-rollemberg
+description: 'Diante do pedido de CPI protocolado por Rodrigo Rollemberg em 02/02/2026 com 201 assinaturas,
+  o presidente da Câmara passou a invocar o critério de ordem cronológica de apresentação dos requerimentos
+  — o pedido do Banco Master ocupava a 16ª posição entre 17, e o Regimento Interno permite apenas cinco
+  CPIs em funcionamento simultâneo. Motta reiterou a posição em 26/02/2026 e, com formulação mais explícita,
+  em maio de 2026, sem indicação de mudança até pelo menos 20/06/2026 (última atualização localizada pela
+  equipe editorial). Na prática, o critério funciona como obstáculo à instalação: nenhuma das CPIs à frente
+  do Master havia liberado vaga entre as cinco simultâneas.'
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-cpi-master-16a-posicao-entre-17-pedidos
+- ev-motta-cita-regimento-para-nao-instalar-cpi
+source_ids:
+- src-gazetadopovo-2026-02-11-criterio-cronologico-fila-cpis
+- src-metropoles-2026-05-19-obstaculo-regimental-motta
+- src-camara-2026-02-26-motta-ordem-cronologica
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: version
+  by_id: hugo-motta
+  summary: Sustenta que o critério é puramente regimental — ordem cronológica de apresentação e teto de
+    cinco CPIs simultâneas — e não uma escolha discricionária sua.
+  source_ids:
+  - src-metropoles-2026-05-19-obstaculo-regimental-motta
+  date: '2026-05-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

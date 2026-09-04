@@ -7,6 +7,11 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 22 do corpus: o obstáculo regimental de Hugo Motta à CPI do Banco Master na Câmara — o pedido,
+  protocolado por Rodrigo Rollemberg em 02/02/2026 com 201 assinaturas, ocupava em fevereiro a 16ª posição
+  entre 17 requerimentos de CPI, com a lista completa das 15 comissões à frente na fila (da CPI das 123
+  Milhas, de agosto de 2023, à das Juntas Médicas, de julho de 2025); o Regimento Interno permite apenas
+  cinco CPIs simultâneas. Motta reiterou o critério cronológico sem mudança até pelo menos junho de 2026.
 - Lote 21 do corpus: a resposta da PGR ao prazo de cinco dias — documento primário lido integralmente,
   a manifestação de Paulo Gonet na PET 16.662 (ASSCRIM/PGR nº 1428987/2026, assinada em 01/09/2026),
   sustentando dupla nulidade da ordem de investigação e pedindo que André Mendonça extinga o processo.

@@ -1,0 +1,17 @@
+id: rev-2026-09-04-lote-22-obstaculo-regimental-cpi-camara
+kind: revision
+date: '2026-09-03'
+title: 'Lote 22: o obstáculo regimental de Hugo Motta à CPI do Banco Master na Câmara'
+summary: 'Fecha item do backlog (frente Hugo Motta/Congresso): documenta o critério de ordem cronológica
+  usado por Motta para não instalar a CPI do Banco Master — 16ª posição entre 17 pedidos, teto regimental
+  de cinco CPIs simultâneas, com a lista completa das comissões à frente na fila. Reiterado sem mudança
+  de fevereiro a pelo menos junho de 2026; nenhuma notícia mais recente localizada até a data desta atualização.'
+affected_ids:
+- evt-2026-02-02-requerimento-cpi-banco-master-camara
+- hugo-motta
+reason: Item do backlog editorial (frente Hugo Motta/Congresso).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

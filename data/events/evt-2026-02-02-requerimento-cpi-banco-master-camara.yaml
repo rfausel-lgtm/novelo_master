@@ -15,8 +15,12 @@ evidence_class: D
 status: verified
 evidence_ids:
 - ev-stf-requerimento-cpi-2026-02-02
+- ev-cpi-master-16a-posicao-entre-17-pedidos
+- ev-motta-cita-regimento-para-nao-instalar-cpi
 source_ids:
 - src-stf-2026-03-12-rejeita-cpi
+- src-gazetadopovo-2026-02-11-criterio-cronologico-fila-cpis
+- src-metropoles-2026-05-19-obstaculo-regimental-motta
 document_ids:
 - doc-2026-03-12-decisao-zanin-ms-40791
 public_act_ids: []
