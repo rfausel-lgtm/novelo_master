@@ -47,3 +47,15 @@ test("metodologia e rede em tabela são acessíveis", async ({ page }) => {
   await page.goto("/rede");
   await expect(page.getByRole("table").first()).toBeVisible();
 });
+
+test("sumário do dossiê acompanha a rolagem no desktop e recolhe no celular", async ({ page, isMobile }) => {
+  await page.goto("/pessoas/daniel-vorcaro");
+  if (isMobile) {
+    await expect(page.getByText(/^Ir para a seção/)).toBeVisible();
+  } else {
+    const nav = page.getByRole("navigation", { name: "Seções desta página" });
+    await expect(nav).toBeVisible();
+    await page.getByRole("heading", { name: "Fontes" }).scrollIntoViewIfNeeded();
+    await expect(nav).toBeInViewport();
+  }
+});

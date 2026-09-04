@@ -17,7 +17,8 @@ import {
 import { formatCurrency, formatPartialDate } from "@/lib/format";
 import { EVIDENCE_RANK, officialCount, timelineOf } from "@/lib/pages";
 import { EntityHeader } from "./EntityHeader";
-import { Section, SectionNav, EmptyState } from "./Section";
+import { Section, EmptyState } from "./Section";
+import { SectionNavSticky } from "./SectionNavSticky";
 import { RelationshipCard } from "./RelationshipCard";
 import { Dobra } from "./Dobra";
 import { Timeline } from "./Timeline";
@@ -83,7 +84,13 @@ export function AgentDossier({ entity }: { entity: Person | Organization }) {
           { label: "evidências", value: evs.length },
         ]}
       />
-      <SectionNav items={NAV} />
+      {/*
+        A partir de lg o sumário vira coluna própria e grudada: numa página de dezenas de milhares
+        de pixels ele era o único mapa e sumia nos primeiros 700px de rolagem.
+      */}
+      <div className="lg:grid lg:grid-cols-[12rem_minmax(0,1fr)] lg:gap-10">
+        <SectionNavSticky items={NAV} />
+        <div>
 
       <Section id="resumo" title="Resumo">
         <p className="prose-novelo text-fg-2 text-sm leading-relaxed sm:text-base">{entity.summary}</p>
@@ -341,6 +348,8 @@ export function AgentDossier({ entity }: { entity: Person | Organization }) {
           . Correções podem ser propostas por issue ou pull request.
         </p>
       </Section>
+        </div>
+      </div>
     </article>
   );
 }
