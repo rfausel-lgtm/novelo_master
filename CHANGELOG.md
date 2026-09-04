@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 38 do corpus: os oito diretores do Banco Central que aprovaram por unanimidade a compra do Máxima
+  por Vorcaro em outubro de 2019 — lista reconstruída por reportagem investigativa, já que o extrato
+  oficial só nomeia o relator. Quatro deles (Maurício Moura, Carolina de Assis Barros, Paulo Sérgio Neves
+  de Souza e Otávio Damaso) já estavam na diretoria em fevereiro daquele ano, quando o mesmo pedido fora
+  rejeitado — sem explicação pública individual localizada para a mudança de posição. Acrescenta que
+  Roberto Campos Neto evitou repetidamente depor sobre o tema à CPI do Crime Organizado, blindado por
+  habeas corpus do STF, e o questionamento de senadores na CAE.
 - Lote 37 do corpus: detalha o material que Alexandre de Moraes usou contra André Mendonça (lote 28) — a
   alegação, com base em relatório da PF (INQ 4781), de que Mendonça sugeriu benefício ilegal (redução de
   dois terços de pena) ao delator Maurício Camisotti, da Operação Sem Desconto; a própria PF classifica

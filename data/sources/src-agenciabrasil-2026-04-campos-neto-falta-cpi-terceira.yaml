@@ -1,0 +1,20 @@
+id: src-agenciabrasil-2026-04-campos-neto-falta-cpi-terceira
+kind: source
+title: Campos Neto falta à CPI do Crime Organizado pela terceira vez
+publisher: Agência Brasil
+publication_date: 2026-04
+retrieved_at: '2026-09-03'
+url: https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/campos-neto-falta-cpi-do-crime-organizado-pela-3a-vez
+source_type: press
+summary: Corrobora a terceira ausência de Roberto Campos Neto à CPI do Crime Organizado, protegido por
+  habeas corpus do STF.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

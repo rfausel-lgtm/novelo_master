@@ -1,0 +1,25 @@
+id: ev-oito-diretores-aprovaram-maxima-outubro-2019
+kind: evidence
+classification: C
+proposition: 'O extrato oficial do voto 218/2019-BCB (14/10/2019) registra apenas a aprovação unânime,
+  o relator (João Manoel Pinho de Mello) e os novos controladores (Daniel Vorcaro, Armando Miguel Gallo
+  Neto e Felipe Wallace Simonsen), sem nomear os demais votantes. A lista completa dos oito diretores
+  foi reconstruída pelo Poder360 a partir de nomeações públicas cruzadas: Roberto Campos Neto (presidente),
+  João Manoel Pinho de Mello (relator, Organização do Sistema Financeiro), Bruno Serra Fernandes (Política
+  Monetária), Fernanda Nechio (Assuntos Internacionais), Maurício Moura (Relacionamento Institucional
+  e Cidadania), Carolina de Assis Barros (Administração), Paulo Sérgio Neves de Souza (Fiscalização) e
+  Otávio Ribeiro Damaso (Regulação). Quatro deles — Moura, Barros, Paulo Sérgio e Damaso — já integravam
+  a diretoria em fevereiro de 2019, quando a mesma operação fora rejeitada: ''mudaram de voto'', segundo
+  o Poder360. Não havia Diretor de Política Econômica nomeado em nenhuma das duas votações. A lista nominal
+  completa dos oito votantes de fevereiro de 2019 não foi localizada em fonte pública.'
+document_ids: []
+source_ids:
+- src-poder360-2026-04-15-quatro-diretores-mudaram-voto
+- src-poder360-2026-static-extrato-voto-218
+excerpt: Quatro dos 8 integrantes da diretoria se mantiveram de fevereiro a outubro de 2019.
+date: '2019-10-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
