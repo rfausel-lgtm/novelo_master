@@ -18,14 +18,19 @@ description: Em resposta à crise aberta pela divulgação do relatório da PF (
   Paulo Gonet e do diretor-geral da PF, Andrei Rodrigues — inclusive sobre observância do art. 33 da LOMAN
   e eventual uso indevido de credenciais institucionais para acesso a material privado. Adiou para a segunda
   quinzena de setembro a sessão plenária sobre o tema. Nenhum dos citados se manifestou publicamente sobre
-  a determinação até a data desta atualização.
+  a determinação até a data desta atualização. Na noite do mesmo dia, Mendonça pediu verbalmente a Fachin
+  o afastamento cautelar imediato de Moraes, com petição formal em preparação — ação distinta do procedimento
+  de cinco dias úteis. Não há registro público de decisão de Fachin sobre esse pedido específico.
 evidence_class: C
 status: verified
 evidence_ids:
 - ev-fachin-procedimento-cinco-dias-uteis-2026-09-03
+- ev-mendonca-pede-afastamento-cautelar-moraes-2026-09-03
 source_ids:
 - src-brasilemfolhas-2026-09-03-fachin-determina-manifestacao
 - src-gazetabrasil-2026-09-03-fachin-cobra-explicacoes
+- src-jbrasilia-2026-09-03-mendonca-pede-afastamento-moraes
+- src-midiamax-2026-09-03-mendonca-pede-afastamento-moraes
 document_ids: []
 public_act_ids: []
 cited_position:

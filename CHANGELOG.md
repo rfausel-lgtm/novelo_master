@@ -7,6 +7,10 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 34 do corpus: na noite de 03/09/2026, André Mendonça pediu verbalmente a Fachin o afastamento
+  cautelar imediato de Alexandre de Moraes do STF, com petição formal em preparação — ação distinta do
+  procedimento de cinco dias úteis aberto por Fachin no mesmo dia (lote 28). Sem decisão pública de
+  Fachin até a data desta atualização.
 - Lote 33 do corpus: as sanções da Lei Magnitsky dos EUA contra Viviane Barci de Moraes e o Instituto Lex
   (22/09/2025 a 12/12/2025), com a articulação de Eduardo Bolsonaro pela retomada em setembro de 2026;
   e o crescimento de 500% no volume processual do escritório Barci de Moraes desde que Alexandre de
