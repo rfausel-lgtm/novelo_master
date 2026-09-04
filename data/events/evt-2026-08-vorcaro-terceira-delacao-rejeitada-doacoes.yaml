@@ -1,0 +1,46 @@
+id: evt-2026-08-vorcaro-terceira-delacao-rejeitada-doacoes
+kind: event
+title: Terceira proposta de delação de Vorcaro é rejeitada; nela, alegava propina em doações a Tarcísio
+  e Bolsonaro
+event_type: statement
+date: '2026-08-27'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- fabiano-zettel
+- gilberto-kassab
+- tarcisio-de-freitas
+description: Em depoimento de 27/08/2026, prestado na Papuda ao gabinete do relator André Mendonça, Vorcaro
+  apresentou uma terceira proposta de delação premiada, rejeitada pela PF e pela PGR por 'ausência de
+  fatos novos'. Nela, alegou que R$ 5 milhões doados por Fabiano Zettel em 2022 às campanhas de Tarcísio
+  de Freitas e Jair Bolsonaro seriam contrapartida de um ajuste indevido com Gilberto Kassab para manter
+  o programa Credcesta em vigor no governo paulista. Kassab negou veementemente qualquer tratativa sobre
+  doações com Vorcaro ou Augusto Lima; a campanha de Tarcísio negou vínculo, citando mais de 600 doadores
+  e conformidade com a legislação eleitoral. A alegação não foi corroborada por elemento novo, segundo
+  os próprios investigadores.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-vorcaro-alega-propina-doacoes-tarcisio-bolsonaro
+source_ids:
+- src-metropoles-2026-09-03-vorcaro-doacoes-propina
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: 'Kassab: ''Refuto com veemência'' e ''Nunca tratei de doações com Augusto Lima ou Daniel Vorcaro''.'
+  source_ids:
+  - src-metropoles-2026-09-03-vorcaro-doacoes-propina
+  by_id: gilberto-kassab
+  date: '2026-09-03'
+- kind: denial
+  summary: A campanha de Tarcísio afirmou ter contado com mais de 600 doadores e seguido estritamente
+    a legislação eleitoral.
+  source_ids:
+  - src-metropoles-2026-09-03-vorcaro-doacoes-propina
+  date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,27 @@
+id: tarcisio-de-freitas
+kind: person
+name: Tarcísio de Freitas
+category: politician
+role: Governador de São Paulo
+positions: []
+summary: Governador de São Paulo (eleito em 2022). Segundo alegação de Daniel Vorcaro em proposta de delação
+  premiada rejeitada pela PF e pela PGR em agosto de 2026, R$ 2 milhões doados por Fabiano Zettel à sua
+  campanha de 2022 teriam sido propina articulada por Gilberto Kassab para manter o Credcesta em vigor
+  no governo estadual. A equipe de Tarcísio negou qualquer vínculo com Vorcaro, afirmando que a campanha
+  contou com mais de 600 doadores e seguiu estritamente a legislação eleitoral.
+why_in_novelo: Nomeado em alegação de delação rejeitada de Daniel Vorcaro como beneficiário indireto de
+  suposto esquema de doações eleitorais ligado ao Credcesta.
+cited_position:
+- kind: denial
+  summary: A campanha afirmou que contou com mais de 600 doadores e seguiu estritamente a legislação eleitoral.
+  source_ids:
+  - src-metropoles-2026-09-03-vorcaro-doacoes-propina
+  date: '2026-09-03'
+open_questions: []
+source_ids:
+- src-metropoles-2026-09-03-vorcaro-doacoes-propina
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

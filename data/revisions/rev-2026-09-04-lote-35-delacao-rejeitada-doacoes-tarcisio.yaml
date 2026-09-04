@@ -1,0 +1,20 @@
+id: rev-2026-09-04-lote-35-delacao-rejeitada-doacoes-tarcisio
+kind: revision
+date: '2026-09-03'
+title: 'Lote 35: a alegação de propina em doações a Tarcísio e Bolsonaro'
+summary: 'Pesquisa conduzida por agente convocado em paralelo. Registra a terceira proposta de delação
+  de Vorcaro, rejeitada por ''ausência de fatos novos'', em que alegou que doações de 2022 a Tarcísio
+  de Freitas e Jair Bolsonaro seriam propina via Gilberto Kassab. Classificado como alegação de baixa
+  confiança (0,2): rejeitada pelos próprios investigadores, com negativas expressas de Kassab e da campanha
+  de Tarcísio, e sem qualquer corroboração independente localizada.'
+affected_ids:
+- daniel-vorcaro
+- gilberto-kassab
+- tarcisio-de-freitas
+- fabiano-zettel
+reason: Alegação registrada com as devidas negativas e o contexto de rejeição pelos investigadores.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

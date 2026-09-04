@@ -7,6 +7,11 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 35 do corpus: a terceira proposta de delação de Vorcaro, rejeitada por 'ausência de fatos novos'
+  em agosto de 2026, em que alegou que doações de 2022 a Tarcísio de Freitas e Jair Bolsonaro seriam
+  propina articulada por Gilberto Kassab para manter o Credcesta no governo paulista. Classificado como
+  alegação de baixa confiança, com as negativas de Kassab ('Refuto com veemência') e da campanha de
+  Tarcísio.
 - Lote 34 do corpus: na noite de 03/09/2026, André Mendonça pediu verbalmente a Fachin o afastamento
   cautelar imediato de Alexandre de Moraes do STF, com petição formal em preparação — ação distinta do
   procedimento de cinco dias úteis aberto por Fachin no mesmo dia (lote 28). Sem decisão pública de

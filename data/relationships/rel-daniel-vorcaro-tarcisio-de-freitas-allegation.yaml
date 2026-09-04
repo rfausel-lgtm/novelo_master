@@ -1,0 +1,32 @@
+id: rel-daniel-vorcaro-tarcisio-de-freitas-allegation
+kind: relationship
+from_id: daniel-vorcaro
+to_id: tarcisio-de-freitas
+relationship_type: investigative_allegation
+directed: false
+label: alegação de doação-propina via Kassab, rejeitada pelos investigadores
+start_date: '2022'
+description: Em delação rejeitada, Vorcaro alegou que doação de R$ 2 milhões feita por Fabiano Zettel
+  à campanha de Tarcísio em 2022 seria propina articulada por Kassab. A campanha negou qualquer vínculo
+  com Vorcaro. A PF e a PGR rejeitaram a delação por ausência de fatos novos.
+evidence_class: A
+confidence: 0.2
+status: disputed
+event_ids:
+- evt-2026-08-vorcaro-terceira-delacao-rejeitada-doacoes
+evidence_ids:
+- ev-vorcaro-alega-propina-doacoes-tarcisio-bolsonaro
+source_ids:
+- src-metropoles-2026-09-03-vorcaro-doacoes-propina
+document_ids: []
+cited_position:
+- kind: denial
+  summary: A campanha afirmou que contou com mais de 600 doadores e seguiu estritamente a legislação eleitoral.
+  source_ids:
+  - src-metropoles-2026-09-03-vorcaro-doacoes-propina
+  date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
