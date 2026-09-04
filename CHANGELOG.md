@@ -7,6 +7,11 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 37 do corpus: detalha o material que Alexandre de Moraes usou contra André Mendonça (lote 28) — a
+  alegação, com base em relatório da PF (INQ 4781), de que Mendonça sugeriu benefício ilegal (redução de
+  dois terços de pena) ao delator Maurício Camisotti, da Operação Sem Desconto; a própria PF classifica
+  como apenas 'moderada' a confiança de que a fala tenha ocorrido. Registra o rito definido por Fachin em
+  04/09/2026: a PGR analisa a admissibilidade da acusação de Moraes antes de Mendonça se manifestar.
 - Lote 36 do corpus: Vorcaro admite, em depoimento de 28/08/2026, a viagem à Disney/Universal oferecida a
   Paulo Sérgio Neves de Souza — já apurada pela imprensa (lote 20) —, identificando a empresa organizadora
   (SL Consulting, do empresário Léo Serrano) e classificando o gesto como cortesia pessoal ('agrado'), não

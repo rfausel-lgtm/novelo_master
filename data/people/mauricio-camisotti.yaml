@@ -1,0 +1,26 @@
+id: mauricio-camisotti
+kind: person
+name: Maurício Camisotti
+category: businessperson
+role: Apontado como operador central da fraude apurada na Operação Sem Desconto (INSS)
+positions: []
+summary: Segundo a PF, foi operador central e beneficiário direto das fraudes apuradas na Operação Sem
+  Desconto (descontos indevidos em benefícios do INSS). Preso em setembro de 2025, firmou em abril de
+  2026 o primeiro acordo de colaboração premiada da investigação, comprometendo-se a devolver cerca de
+  R$ 400 milhões aos cofres públicos. Nas tratativas desse acordo, segundo relatório da PF cujo sigilo
+  foi levantado por Alexandre de Moraes em 03/09/2026, o relator André Mendonça teria defendido a possibilidade
+  de conceder benefício fora das hipóteses previstas em lei — uma redução de dois terços da pena que a
+  PGR considerou desproporcional.
+why_in_novelo: Delator central da Operação Sem Desconto cujas tratativas de acordo são objeto de alegação
+  contra André Mendonça, usada por Alexandre de Moraes na crise institucional de setembro de 2026.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-09-04-mendonca-beneficio-ilegal-camisotti
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
