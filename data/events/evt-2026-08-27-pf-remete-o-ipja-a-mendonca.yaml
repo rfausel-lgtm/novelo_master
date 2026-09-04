@@ -1,0 +1,33 @@
+id: evt-2026-08-27-pf-remete-o-ipja-a-mendonca
+kind: event
+title: Polícia Federal remete a André Mendonça o relatório sobre o celular de Vorcaro
+event_type: investigation_step
+date: '2026-08-27'
+date_precision: day
+participant_ids:
+- policia-federal
+- andre-mendonca
+- supremo-tribunal-federal
+- daniel-vorcaro
+description: Por meio do Ofício 3305795/2026-CINQ/CGRC/DICOR/PF, assinado digitalmente na noite de 27/08/2026
+  por quatro delegados, a Polícia Federal encaminhou ao relator o IPJ-A 3298613/2026, em cumprimento a
+  requisição judicial da PET 15.556. O laudo foi produzido em prazo de 72 horas e a própria PF registra
+  que não é exaustivo e que não houve atos de aprofundamento dirigidos a magistrados ou a membros do Ministério
+  Público.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-ipja-sem-atos-dirigidos-a-magistrados
+- ev-ipja-metodologia-notas-screenshot-whatsapp
+- ev-ipja-duas-hipoteses-criminosas-conexas
+source_ids:
+- src-poder360-2026-09-01-integras-pet-16662
+document_ids:
+- doc-2026-08-27-oficio-3305795-pf-remessa-do-relatorio
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

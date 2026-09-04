@@ -1,0 +1,26 @@
+id: evt-2026-08-28-autuacao-e-distribuicao-da-pet-16662
+kind: event
+title: STF autua a PET 16.662 e a distribui a André Mendonça por prevenção
+event_type: judicial_decision
+date: '2026-08-28'
+date_precision: day
+participant_ids:
+- supremo-tribunal-federal
+- andre-mendonca
+description: 'O material remetido pela PF foi desentranhado e deu origem a processo autônomo: a e-Pet
+  16.662, autuada às 14h18 e distribuída às 14h50 ao ministro André Mendonça por prevenção (RISTF, art.
+  69), tendo como justificador a PET 15.556.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-pet-16662-autuada-por-prevencao
+source_ids:
+- src-poder360-2026-09-01-integras-pet-16662
+document_ids:
+- doc-2026-08-28-certidao-autuacao-pet-16662
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

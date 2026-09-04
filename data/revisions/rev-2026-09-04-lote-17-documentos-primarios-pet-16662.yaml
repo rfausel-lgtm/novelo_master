@@ -1,0 +1,22 @@
+id: rev-2026-09-04-lote-17-documentos-primarios-pet-16662
+kind: revision
+date: '2026-09-03'
+title: 'Lote 17: leitura integral dos documentos primários da PET 16.662'
+summary: 'Os 15 documentos desentranhados e publicados em 01/09/2026 foram baixados e lidos diretamente,
+  entre eles as 218 páginas do IPJ-A 3298613/2026. O lote converte em lastro documental (classe D) registros
+  que o corpus mantinha por imprensa e acrescenta a metodologia da perícia, as duas ressalvas do próprio
+  laudo, os dois inquéritos conexos, a autuação da PET 16.662 por prevenção e o despacho que abriu vista
+  à PGR por cinco dias. Também corrige a data do primeiro contrato Barci de Moraes para 23/01/2024. Divergência
+  registrada: a newsletter A Investigação refere 52 mensagens; o laudo registra cinco mensagens de visualização
+  única em 17/11/2025.'
+affected_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+- ev-mensagem-vorcaro-a-moraes-sobre-andrei-e-gonet
+- evt-2024-01-contrato-barci-de-moraes-banco-master
+- doc-2024-01-contrato-barci-de-moraes-banco-master
+reason: Substituição de lastro indireto por documento primário.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

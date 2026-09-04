@@ -1,0 +1,33 @@
+id: evt-2024-04-03-tratativas-de-convite-ao-diretor-geral-da-pf
+kind: event
+title: Tratativas para convidar o diretor-geral da PF ao evento de Londres
+event_type: communication
+date: '2024-04-03'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- fabio-faria
+- andrei-rodrigues
+- policia-federal
+description: Segundo o laudo da PF, em 03/04/2024 Fábio Faria encaminha a Vorcaro mensagens de interlocutor
+  não identificado propondo convidar 'o DPF Andrei' e afirmando 'Aí fechamos o PGR e o DPF'. Faria aprova
+  e pede que 'o Marcio' faça o convite formal ao 'delegado geral'; Vorcaro comunica a 'Marcio Conjur'
+  que 'o Ministro fez convite ao andrei PF'. Em seguida, assistente do diretor-geral pergunta sobre custeio
+  de hospedagem e passagem, e 'Marcio Conjur' responde que todas as despesas seriam bancadas pelos organizadores.
+  O laudo não identifica os autores das mensagens encaminhadas, não confirma que 'Andrei' seja Andrei
+  Rodrigues — não há contato com esse nome no aparelho — e não registra se a viagem ocorreu.
+evidence_class: D
+status: unverified
+evidence_ids:
+- ev-ipja-faria-e-o-convite-ao-diretor-geral-da-pf
+- ev-ipja-despesas-de-londres-bancadas-pelos-organizadores
+source_ids:
+- src-poder360-2026-09-01-integras-pet-16662
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

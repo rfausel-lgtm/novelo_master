@@ -7,6 +7,15 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 17 do corpus: leitura direta dos 15 documentos desentranhados da PET 16.662, tornados públicos em
+  01/09/2026, entre eles as 218 páginas do IPJ-A 3298613/2026. O lote é sobretudo uma passagem de
+  verificação — registros que o corpus mantinha por intermédio da imprensa passam a ter o documento
+  primário como lastro. Acrescenta a metodologia da perícia (correlação entre logs do sistema, uso de
+  aplicativos e PDFs residuais, sem recuperação do conteúdo das mensagens), as duas ressalvas do próprio
+  laudo — não é exaustivo, e não houve atos de aprofundamento dirigidos a magistrados ou a membros do
+  Ministério Público —, os dois inquéritos conexos (IPL 2026.0053200 e IPL 2026.0029775, este sobre o
+  grupo 'Turma'), a autuação da PET 16.662 por prevenção e o despacho que abriu vista à PGR por cinco
+  dias. Corrige a data do primeiro contrato Barci de Moraes para 23/01/2024.
 - Lote 16 do corpus: o relatório final apresentado à CPMI do INSS, de 4.340 páginas, e sua rejeição por
   19 votos a 12 na madrugada de 28/03/2026, com a comissão encerrando sem relatório aprovado. O texto
   dedica seção própria ao Banco Master, propõe indiciar Daniel Vorcaro e Augusto Ferreira Lima por oito

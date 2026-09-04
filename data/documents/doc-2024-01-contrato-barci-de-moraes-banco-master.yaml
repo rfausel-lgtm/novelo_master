@@ -3,21 +3,23 @@ kind: document
 title: Contrato de prestação de serviços e honorários advocatícios entre Barci de Moraes Sociedade de
   Advogados e Banco Master S.A.
 doc_type: contract
-date: 2024-01
+date: '2024-01-23'
 issuer_id: barci-de-moraes-sociedade-de-advogados
 issuer: Barci de Moraes Sociedade de Advogados e Banco Master S.A.
 source_ids:
 - src-poder360-2026-09-01-integras-pet-16662
 summary: 'Contrato tornado público na PET 16.662 (STF). Objeto: consultoria e atuação jurídica (compliance,
   due diligence, entre outros) para o Banco Master. Segundo o Poder360, previa R$ 108 milhões líquidos
-  em 36 meses (R$ 131,3 milhões brutos). Lido parcialmente pela equipe editorial (cabeçalho e cláusulas
-  de objeto).'
+  em 36 meses (R$ 131,3 milhões brutos). Lido integralmente pela equipe editorial a partir do PDF original:
+  o texto extraído não traz os valores, que permanecem atribuídos ao Poder360. Segundo o laudo da PF,
+  o contrato foi assinado por Daniel Bueno Vorcaro em 23/01/2024 às 15:15:11 e por Angelo Antonio Ribeiro
+  da Silva às 15:35:38 do mesmo dia.'
 is_official: true
 related_entity_ids:
 - barci-de-moraes-sociedade-de-advogados
 - banco-master
 - viviane-barci-de-moraes
-date_precision: month
+date_precision: day
 url: https://static.poder360.com.br/uploads/2026/09/pet16662-contrato-barci-moraes-banco-master-108milhoes-sigiloderrubado-1set2026.pdf
 reference: PET 16662 (anexo)
 review_status: published

@@ -1,0 +1,23 @@
+id: ev-ipja-metodologia-notas-screenshot-whatsapp
+kind: evidence
+classification: D
+proposition: 'Metodologia do IPJ-A 3298613/2026: a perícia não recuperou o conteúdo de mensagens enviadas,
+  e sim correlacionou registros do sistema. Com o software Indexador e Processador de Evidências Digitais
+  (IPED) 4.2.2 e o Cellebrite Reader 10.7.1.5013, a equipe cruzou três categorias de dados — ''Logs''
+  (eventos do sistema, inclusive o envio de mensagem pelo WhatsApp), ''Uso de Aplicativos'' (abertura
+  e fechamento de aplicativos e o instante exato de cada captura de tela) e arquivos PDF residuais gerados
+  automaticamente pelo iOS em pasta temporária ''tmp''. O padrão identificado é uma sequência ininterrupta:
+  abertura do Bloco de Notas, edição, captura de tela, criação no mesmo segundo do PDF temporário de teor
+  idêntico, fechamento do Bloco de Notas, abertura do WhatsApp, envio da mensagem e fechamento do aplicativo.
+  A correlação é temporal e indireta: estabelece que a imagem gerada foi enviada em seguida ao destinatário
+  registrado nos logs.'
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+source_ids:
+- src-poder360-2026-09-01-integras-pet-16662
+date: '2026-08-27'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

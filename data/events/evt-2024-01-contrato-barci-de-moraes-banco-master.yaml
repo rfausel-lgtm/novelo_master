@@ -2,8 +2,8 @@ id: evt-2024-01-contrato-barci-de-moraes-banco-master
 kind: event
 title: Banco Master contrata o escritório Barci de Moraes Sociedade de Advogados
 event_type: corporate_act
-date: 2024-01
-date_precision: month
+date: '2024-01-23'
+date_precision: day
 participant_ids:
 - banco-master
 - barci-de-moraes-sociedade-de-advogados
@@ -20,6 +20,7 @@ evidence_ids:
 - ev-contrato-barci-master-2024-01
 - ev-ipja-faria-tratativas-contrato-barci-2024-01
 - ev-nota-barci-servicos-prestados
+- ev-ipja-primeiro-contrato-assinado-em-23-01-2024
 source_ids:
 - src-poder360-2026-09-01-integras-pet-16662
 - src-cnn-2026-09-fabio-faria-pf

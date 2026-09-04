@@ -10,12 +10,20 @@ source_ids:
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-poder360-2026-09-01-integras-pet-16662
 summary: 'Relatório de 218 páginas, destinado ao ministro André Mendonça e datado de 27/08/2026, com a
-  análise do iPhone apreendido de Daniel Vorcaro (Laudo 4281/2025-SETEC/SR/PF/SP). Documenta mensagens
-  e arquivos: compartilhamento, por Fábio Faria, de contato salvo como ''Alexandre de Moraes BRASILIA''
-  em 26/12/2023; tratativas e cobranças sobre o contrato com o escritório Barci de Moraes; mensagens de
-  visualização única enviadas ao contato em 17/11/2025; pesquisas por termos ''Paulo Gonet'' e ''Andrei
-  Passos''. Tornado público com o levantamento do sigilo da PET 16.662 em 01/09/2026. Lido parcialmente
-  (cabeçalho e trechos-chave) pela equipe editorial.'
+  análise do iPhone 17 Pro apreendido de Daniel Vorcaro em 18/11/2025 (Termo de Apreensão 4473731/2025;
+  extração no Laudo 4281/2025-SETEC/SR/PF/SP). Produzido pela NADIP/DFIN/CGRC/DICOR em prazo de 72 horas
+  e assinado por três agentes e quatro delegados de Polícia Federal. A perícia não recuperou o conteúdo
+  das mensagens: correlacionou logs do sistema, registros de uso de aplicativos e PDFs residuais para
+  demonstrar que textos escritos no aplicativo Notas eram fotografados e enviados por WhatsApp a um destinatário
+  determinado. Documenta o compartilhamento, por Fábio Faria, de contato salvo como ''Alexandre de Moraes
+  BRASILIA'' em 26/12/2023; a assinatura do primeiro contrato com o escritório Barci de Moraes em 23/01/2024;
+  cobranças de pagamento; o segundo contrato, com a Viking; a adoção de mensagens temporárias de 24 horas
+  pelo contato em 17/09/2025; cinco mensagens de visualização única em 17/11/2025; e pesquisas por termos
+  relacionados a ''Paulo Gonet'' e ''Andrei Passos''. O documento traz duas ressalvas próprias: não é
+  exaustivo, dado o prazo de 72 horas, e não houve atos de aprofundamento investigativo dirigidos a magistrados
+  ou a membros do Ministério Público — não há imputação de crime. Traz quatro anexos: os dois contratos,
+  o termo de dação em pagamento e a íntegra das conversas com o contato. Lido integralmente pela equipe
+  editorial a partir do PDF original.'
 is_official: true
 related_entity_ids:
 - daniel-vorcaro
@@ -27,7 +35,7 @@ related_entity_ids:
 - andrei-rodrigues
 - policia-federal
 url: https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf
-reference: IPJ-A 3298613/2026 / PET 16662
+reference: IPJ-A 3298613/2026 (PET 16.662; requisição na PET 15.556)
 excerpt: Uma hora após chegar ao local do segundo encontro, FABIO FARIA compartilha o contato denominado
   'Alexandre de Moraes BRASILIA' para DANIEL BUENO VORCARO.
 review_status: published

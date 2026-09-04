@@ -1,0 +1,17 @@
+id: ev-stf-pet-16662-autuada-por-prevencao
+kind: evidence
+classification: D
+proposition: A PET 16.662 foi autuada em 28/08/2026 às 14h18 e distribuída às 14h50 ao ministro André
+  Mendonça por prevenção, com fundamento no art. 69, caput, do Regimento Interno do STF, tendo como processo
+  justificador a PET 15.556. O processo autônomo nasce, portanto, do desentranhamento do material remetido
+  pela PF um dia antes.
+document_ids:
+- doc-2026-08-28-certidao-autuacao-pet-16662
+source_ids:
+- src-poder360-2026-09-01-integras-pet-16662
+date: '2026-08-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,15 +1,21 @@
 id: ev-mensagem-vorcaro-a-moraes-sobre-andrei-e-gonet
 kind: evidence
-classification: A
-proposition: 'Mensagem de Vorcaro a Alexandre de Moraes, revelada pelo Estadão em 01/09/2026: ''É importante
-  reforçar com Andrei e Paulo para não deixar ninguém de baixo fazer uma sacanagem, que aí vai tudo para
-  o saco. Estou disponível para tratar e explicar qualquer coisa, só não pode ter sacanagem''.'
-document_ids: []
+classification: D
+proposition: 'Texto integral da nota escrita por Vorcaro em 30/10/2025 e enviada, segundo a metodologia
+  da PF, ao contato ''Alexandre de Moraes BRASILIA'': ''É importante reforçar com Andrei e Paulo pra nao
+  deixar ninguem de baixo fazer uma sacanagem que ai vai tudo pro saco. Estou disponivel pra tratar e
+  explicar qq coisa, so nao pode ter sacanagem. Vou te mandar os nomes que tem ido ao Bacen alegando que
+  farao algo em breve''. A última frase, ausente das versões publicadas pela imprensa, liga a nota à mensagem
+  seguinte, enviada seis minutos depois, com a lista de nomes. O laudo registra a sequência de sistema
+  (abertura do Bloco de Notas às 16:28 UTC, captura às 16:32:31, envio às 16:33:03 UTC), não o conteúdo
+  recebido pelo destinatário.'
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
 source_ids:
 - src-poder360-2026-09-03-novo-pede-prisao-de-andrei
+- src-poder360-2026-09-01-integras-pet-16662
 excerpt: É importante reforçar com Andrei e Paulo para não deixar ninguém de baixo fazer uma sacanagem
-attributed_to: O Estado de S. Paulo, via Poder360
-date: '2026-09-01'
+date: '2025-10-30'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
