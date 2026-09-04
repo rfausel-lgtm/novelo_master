@@ -1,0 +1,45 @@
+id: evt-2024-04-14-ciro-soares-pede-a-gonet-desistencia-no-cnpg
+kind: event
+title: Ciro Soares relata a Vorcaro pedido a Gonet para que concorrente desista de disputa no CNPG
+event_type: communication
+date: '2024-04-14'
+date_precision: day
+participant_ids:
+- ciro-soares
+- daniel-vorcaro
+- paulo-gonet
+- jarbas-soares-junior
+- georges-seigneur
+- conselho-nacional-de-procuradores-gerais
+description: Segundo o IPJ-A 3298613/2026, o advogado Ciro Soares relatou a Daniel Vorcaro, por mensagem
+  e áudio de WhatsApp, ter pedido a Paulo Gonet que convencesse um concorrente a desistir de candidatura
+  à presidência do Conselho Nacional de Procuradores-Gerais em favor de outro nome — identificados pela
+  imprensa, a partir de elementos externos ao laudo, como Georges Seigneur (MPDFT) e Jarbas Soares Júnior,
+  então procurador-geral de Justiça de Minas Gerais. Segundo o áudio de Ciro Soares transcrito no laudo,
+  Gonet teria confirmado a desistência na noite anterior. Jarbas Soares Júnior foi eleito por aclamação
+  em 17/04/2024, três dias depois, para mandato de sete meses. O relatório da PF não localizou contato
+  salvo como 'Gonet' no aparelho de Vorcaro e classifica a identificação como possível, não confirmada;
+  a atribuição da ação a Paulo Gonet é alegação de Ciro Soares, relatada em segunda mão. Gonet, Ciro Soares
+  e Jarbas Soares Júnior foram procurados pelo Poder360 e não responderam até a publicação da reportagem.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-ipja-ciro-pede-a-gonet-desistencia-de-concorrente
+source_ids:
+- src-poder360-2026-09-01-integras-pet-16662
+- src-poder360-2026-09-03-pf-cita-pedido-a-gonet-cnpg
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+public_act_ids: []
+cited_position:
+- kind: no_response
+  summary: Gonet, Ciro Soares e Jarbas Soares Júnior foram procurados e não responderam até a publicação
+    da reportagem do Poder360.
+  source_ids:
+  - src-poder360-2026-09-03-pf-cita-pedido-a-gonet-cnpg
+  date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

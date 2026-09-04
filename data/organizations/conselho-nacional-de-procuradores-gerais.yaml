@@ -1,0 +1,22 @@
+id: conselho-nacional-de-procuradores-gerais
+kind: organization
+name: Conselho Nacional de Procuradores-Gerais (CNPG)
+aliases: []
+org_type: association
+summary: Entidade que reúne os procuradores-gerais de Justiça dos estados e do Distrito Federal e o procurador-geral
+  da República. Jarbas Soares Júnior foi eleito presidente por aclamação em 17/04/2024, para mandato de
+  sete meses, em eleição na qual, segundo o relatório da PF sobre o celular de Vorcaro, o único concorrente
+  identificado, Georges Seigneur, teria sido convencido a desistir por intervenção atribuída a Paulo Gonet.
+why_in_novelo: Entra no corpus porque uma eleição interna do órgão é objeto de alegação, no relatório
+  da PF, de influência de Paulo Gonet a pedido de interlocutor de Daniel Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-09-03-pf-cita-pedido-a-gonet-cnpg
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

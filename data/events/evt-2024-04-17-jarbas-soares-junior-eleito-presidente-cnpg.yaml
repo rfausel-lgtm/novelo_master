@@ -1,0 +1,26 @@
+id: evt-2024-04-17-jarbas-soares-junior-eleito-presidente-cnpg
+kind: event
+title: Jarbas Soares Júnior é eleito por aclamação presidente do CNPG
+event_type: corporate_act
+date: '2024-04-17'
+date_precision: day
+participant_ids:
+- jarbas-soares-junior
+- conselho-nacional-de-procuradores-gerais
+description: Eleito por aclamação presidente do Conselho Nacional de Procuradores-Gerais, para mandato
+  de sete meses, três dias após o episódio relatado no laudo da PF em que um interlocutor de Vorcaro alega
+  ter obtido, por intermédio de Paulo Gonet, a desistência do outro concorrente identificado pela imprensa
+  (Georges Seigneur). O evento em si — a eleição e seu resultado — é fato público e verificável, independente
+  da alegação sobre sua causa.
+evidence_class: C
+status: verified
+evidence_ids: []
+source_ids:
+- src-poder360-2026-09-03-pf-cita-pedido-a-gonet-cnpg
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

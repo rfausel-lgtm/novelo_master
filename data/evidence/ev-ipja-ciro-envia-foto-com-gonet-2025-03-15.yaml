@@ -1,0 +1,17 @@
+id: ev-ipja-ciro-envia-foto-com-gonet-2025-03-15
+kind: evidence
+classification: D
+proposition: Em 15/03/2025, às 14:13:37, Ciro Soares envia a Vorcaro foto ao lado de pessoa identificada
+  no laudo como Paulo Gonet e escreve 'Liga aqui', 'Ele quer falar com você'. A partir das 14:23:10 completam-se
+  quatro chamadas de voz entre Vorcaro e Ciro Soares (57s, 27s, 17s e 3min49s). O laudo não recupera o
+  conteúdo das ligações.
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+source_ids:
+- src-poder360-2026-09-01-integras-pet-16662
+date: '2025-03-15'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

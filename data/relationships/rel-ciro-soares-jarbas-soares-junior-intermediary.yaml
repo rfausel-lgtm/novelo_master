@@ -1,0 +1,28 @@
+id: rel-ciro-soares-jarbas-soares-junior-intermediary
+kind: relationship
+from_id: ciro-soares
+to_id: jarbas-soares-junior
+relationship_type: professional
+directed: false
+label: relatou ter interferido a favor da candidatura ao CNPG
+start_date: '2024-04-14'
+description: Segundo o relatório da PF, Ciro Soares disse a Vorcaro ter pedido a Paulo Gonet que convencesse
+  o concorrente de Jarbas Soares Júnior a desistir da disputa pela presidência do CNPG. Não há no laudo
+  registro de contato direto entre Ciro Soares e Jarbas Soares Júnior.
+evidence_class: A
+confidence: 0.3
+status: unverified
+event_ids:
+- evt-2024-04-14-ciro-soares-pede-a-gonet-desistencia-no-cnpg
+evidence_ids:
+- ev-ipja-ciro-pede-a-gonet-desistencia-de-concorrente
+source_ids:
+- src-poder360-2026-09-01-integras-pet-16662
+- src-poder360-2026-09-03-pf-cita-pedido-a-gonet-cnpg
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

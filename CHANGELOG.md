@@ -7,6 +7,12 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 18 do corpus: seção 6.1 do IPJ-A 3298613/2026 (já extraído no lote 17) — o episódio da eleição do
+  Conselho Nacional de Procuradores-Gerais (CNPG) em abril de 2024. Segundo o laudo, o advogado Ciro
+  Soares relatou a Vorcaro ter pedido a Paulo Gonet que convencesse um concorrente a desistir da disputa
+  em favor de Jarbas Soares Júnior, eleito por aclamação três dias depois. Classificado como alegação
+  (classe A): a própria PF registra que a identificação de 'Gonet' nas conversas é possível, não
+  confirmada, e o pedido é relato de terceiro em segunda mão. Nenhum dos citados respondeu à imprensa.
 - Lote 17 do corpus: leitura direta dos 15 documentos desentranhados da PET 16.662, tornados públicos em
   01/09/2026, entre eles as 218 páginas do IPJ-A 3298613/2026. O lote é sobretudo uma passagem de
   verificação — registros que o corpus mantinha por intermédio da imprensa passam a ter o documento

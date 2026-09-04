@@ -1,0 +1,22 @@
+id: rev-2026-09-04-lote-18-episodio-cnpg-secao-gonet
+kind: revision
+date: '2026-09-03'
+title: 'Lote 18: seção 6.1 do IPJ-A 3298613/2026 — episódio da eleição do CNPG em 2024'
+summary: 'Mineração das páginas 201-211 do laudo da PF (já extraído e lido integralmente no lote 17),
+  cruzada com cobertura do Poder360 para identificar os nomes que o laudo não confirma com certeza: Jarbas
+  Soares Júnior, eleito por aclamação presidente do CNPG em 17/04/2024, e o concorrente Georges Seigneur.
+  Classificado como classe A: a alegação de intervenção de Paulo Gonet é relato de terceiro (Ciro Soares)
+  a Vorcaro, em segunda mão, e a própria PF registra que a identificação de ''Gonet'' nas conversas é
+  possível, não confirmada. Nenhum dos citados respondeu à imprensa. Descartada, por falta de qualquer
+  lastro, a menção da newsletter A Investigação a suposto voo de jatinho com Lucas Kallas.'
+affected_ids:
+- jarbas-soares-junior
+- georges-seigneur
+- conselho-nacional-de-procuradores-gerais
+- evt-2024-04-14-ciro-soares-pede-a-gonet-desistencia-no-cnpg
+reason: Novo episódio identificado na mineração do documento primário já em posse da equipe editorial.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

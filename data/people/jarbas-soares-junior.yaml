@@ -1,0 +1,28 @@
+id: jarbas-soares-junior
+kind: person
+name: Jarbas Soares Júnior
+category: prosecutor
+role: Presidente do Conselho Nacional de Procuradores-Gerais (CNPG)
+positions: []
+summary: Procurador-de-Justiça de Minas Gerais, foi então procurador-geral de Justiça do estado. Eleito
+  por aclamação presidente do CNPG em 17/04/2024, para mandato de sete meses. Segundo o relatório da PF
+  sobre o celular de Daniel Vorcaro, o advogado Ciro Soares disse ao banqueiro ter pedido a Paulo Gonet
+  que convencesse o concorrente Georges Seigneur a desistir da candidatura em seu favor. Não há no relatório
+  qualquer contato direto entre Jarbas Soares Júnior e Vorcaro, Ciro Soares ou Gonet sobre o episódio;
+  a alegação é de terceiro, relatada em áudio de WhatsApp.
+why_in_novelo: Nomeado em mensagens do relatório da Polícia Federal sobre o celular de Vorcaro como beneficiário
+  de suposta intervenção de Paulo Gonet em eleição do CNPG.
+cited_position:
+- kind: no_response
+  summary: Procurado pelo Poder360, não respondeu até a publicação da reportagem.
+  source_ids:
+  - src-poder360-2026-09-03-pf-cita-pedido-a-gonet-cnpg
+  date: '2026-09-03'
+open_questions: []
+source_ids:
+- src-poder360-2026-09-03-pf-cita-pedido-a-gonet-cnpg
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
