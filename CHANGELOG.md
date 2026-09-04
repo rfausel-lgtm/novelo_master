@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 14 do corpus, frente da Procuradoria-Geral da República: o registro, no relatório da PF, de
+  pedido para que Daniel Vorcaro custeasse a ida do filho do procurador-geral a evento em Londres,
+  feito por intermediário; o custo da degustação de uísque na primeira edição do fórum; a intimação do
+  relator para manifestação da PGR em cinco dias; a reação do Conselho Superior do MPF; a rejeição de
+  nova tentativa de delação e o pedido de arquivamento das denúncias de ameaça. Fica registrado que o
+  relatório não aponta resposta do ministro Alexandre de Moraes às mensagens em que o banqueiro pede
+  atuação em seu favor. O filho do procurador-geral, pessoa privada, não integra o mapa.
 - Lote 13 do corpus, o chamado núcleo de intimidação: o plano, revelado na 3ª fase, de simular um
   assalto contra o colunista Lauro Jardim, com a reação da Associação Nacional de Jornais; o policial
   federal aposentado apontado como cooptador de agentes para consultas indevidas; a morte de Luiz

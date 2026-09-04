@@ -1,0 +1,15 @@
+id: ev-gonet-rejeita-nova-delacao
+kind: evidence
+classification: A
+proposition: O procurador-geral rejeitou nova tentativa da defesa de retomar as negociações de colaboração
+  premiada, por considerar que as provas já obtidas nos celulares equivalem ao que a delação traria.
+document_ids: []
+source_ids:
+- src-oeste-2026-gonet-fecha-portas-para-delacao
+attributed_to_id: paulo-gonet
+date: 2026-09
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

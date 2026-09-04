@@ -1,0 +1,27 @@
+id: rel-ciro-soares-paulo-gonet-intermediary
+kind: relationship
+from_id: ciro-soares
+to_id: paulo-gonet
+relationship_type: professional
+directed: true
+label: apontado pela PF como interlocutor do procurador-geral
+start_date: '2025-03-29'
+description: Segundo o relatório da PF, o advogado enviava a Vorcaro mensagens e fotos atribuídas ao procurador-geral
+  e transmitiu o pedido relativo à viagem do filho. O advogado, segundo o Brasil de Fato, não se manifestou
+  sobre o conteúdo.
+evidence_class: A
+confidence: 0.4
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-pf-pedido-para-custear-filho-do-pgr
+source_ids:
+- src-otempo-2026-09-01-gonet-despesas-do-filho-em-londres
+- src-poder360-2026-09-01-pgr-bancar-ida-do-filho
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-04'

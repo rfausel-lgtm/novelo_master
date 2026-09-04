@@ -1,0 +1,15 @@
+id: ev-mendonca-intima-pgr-em-cinco-dias
+kind: evidence
+classification: C
+proposition: O relator determinou que a Procuradoria-Geral da República se manifestasse em até cinco dias
+  sobre os dados anexados pela PF aos autos.
+document_ids: []
+source_ids:
+- src-otempo-2026-09-01-gonet-despesas-do-filho-em-londres
+- src-forum-2026-09-mensagens-sem-resposta-de-moraes
+date: '2026-09-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

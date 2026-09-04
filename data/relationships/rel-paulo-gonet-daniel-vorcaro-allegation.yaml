@@ -1,0 +1,42 @@
+id: rel-paulo-gonet-daniel-vorcaro-allegation
+kind: relationship
+from_id: paulo-gonet
+to_id: daniel-vorcaro
+relationship_type: investigative_allegation
+directed: false
+label: pedido de custeio de viagem do filho, segundo a PF; sem manifestação do citado
+start_date: '2025-03-29'
+via_id: ciro-soares
+description: O relatório da PF sobre o celular de Vorcaro registra, por meio do advogado Ciro Soares,
+  pedido para que o banqueiro custeasse a ida do filho do procurador-geral a evento em Londres, além de
+  sugestões sobre o serviço do evento. O relator intimou a PGR a se manifestar em cinco dias; até a publicação
+  das reportagens não havia manifestação. Não há denúncia nem decisão de mérito.
+evidence_class: A
+confidence: 0.35
+status: unverified
+event_ids:
+- evt-2025-03-29-pedido-para-custear-viagem-do-filho-do-pgr
+evidence_ids:
+- ev-pf-pedido-para-custear-filho-do-pgr
+- ev-pf-sugestao-de-charutos-e-macallan
+- ev-mendonca-intima-pgr-em-cinco-dias
+source_ids:
+- src-otempo-2026-09-01-gonet-despesas-do-filho-em-londres
+- src-poder360-2026-09-01-pgr-bancar-ida-do-filho
+- src-forum-2026-09-mensagens-sem-resposta-de-moraes
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+cited_position:
+- kind: no_response
+  summary: Não houve manifestação do procurador-geral até a publicação; o prazo fixado pelo relator estava
+    em curso.
+  source_ids:
+  - src-otempo-2026-09-01-gonet-despesas-do-filho-em-londres
+  - src-poder360-2026-09-01-pgr-bancar-ida-do-filho
+  by_id: paulo-gonet
+  date: '2026-09-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

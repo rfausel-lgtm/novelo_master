@@ -1,0 +1,51 @@
+id: claim-pgr-teria-pedido-custeio-de-viagem-do-filho
+kind: claim
+statement: O procurador-geral da República teria pedido, por intermediário, que Daniel Vorcaro custeasse
+  a ida de seu filho a um evento em Londres.
+classification: A
+status: unverified
+claimant_id: policia-federal
+claimant: Polícia Federal, em relatório sobre o celular de Vorcaro
+date: '2025-03-29'
+related_entity_ids:
+- paulo-gonet
+- daniel-vorcaro
+- ciro-soares
+event_ids:
+- evt-2025-03-29-pedido-para-custear-viagem-do-filho-do-pgr
+evidence_ids:
+- ev-pf-pedido-para-custear-filho-do-pgr
+- ev-pf-sugestao-de-charutos-e-macallan
+- ev-mendonca-intima-pgr-em-cinco-dias
+- ev-relatorio-pf-nao-exaustivo
+source_ids:
+- src-otempo-2026-09-01-gonet-despesas-do-filho-em-londres
+- src-poder360-2026-09-01-pgr-bancar-ida-do-filho
+- src-forum-2026-09-mensagens-sem-resposta-de-moraes
+limits: 'O relatório foi produzido em 72 horas sobre um único celular e a própria PF diz que não é exaustivo.
+  As mensagens atribuídas ao procurador-geral chegaram por intermediário, e o corpus não tem manifestação
+  do citado: o prazo de cinco dias fixado pelo relator estava em curso quando este registro foi feito.
+  A viagem em questão não ocorreu, porque a segunda edição do evento não aconteceu. Não há denúncia nem
+  decisão de mérito.'
+counter_position:
+- kind: no_response
+  summary: O procurador-geral não se manifestou até a publicação das reportagens; o prazo fixado pelo
+    relator seguia em curso.
+  source_ids:
+  - src-otempo-2026-09-01-gonet-despesas-do-filho-em-londres
+  - src-poder360-2026-09-01-pgr-bancar-ida-do-filho
+  by_id: paulo-gonet
+  date: '2026-09-01'
+adversarial_review:
+  reviewed_at: '2026-09-03'
+  reviewer: orquestrador
+  attempted_refutation: 'Buscou-se manifestação do citado em fontes abertas e não foi localizada até a
+    data deste registro. Buscou-se também elemento que confirmasse pagamento efetivo: não há, e o evento
+    da segunda edição não ocorreu. Registrada como alegação não verificada, com o contraditório em aberto
+    e prazo em curso.'
+  outcome: disputed
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

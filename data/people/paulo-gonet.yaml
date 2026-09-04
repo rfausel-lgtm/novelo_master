@@ -15,14 +15,38 @@ summary: Procurador-Geral da República. O relatório da PF sobre o celular de V
 why_in_novelo: É mencionado em relatório da Polícia Federal sobre o celular de Daniel Vorcaro e chefia
   o órgão que se manifestou nas fases da Operação Compliance Zero.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: no_response
+  summary: Procurado sobre as mensagens do relatório da PF, não se manifestou até a publicação; o relator
+    fixou prazo de cinco dias para a PGR.
+  source_ids:
+  - src-otempo-2026-09-01-gonet-despesas-do-filho-em-londres
+  - src-poder360-2026-09-01-pgr-bancar-ida-do-filho
+  by_id: paulo-gonet
+  date: '2026-09-01'
+- kind: version
+  summary: Pediu o arquivamento das denúncias de ameaça feitas por Vorcaro e, segundo relatos, rejeitou
+    nova tentativa de retomar a negociação da delação, por considerar que as provas dos celulares já equivalem
+    ao que ela traria.
+  source_ids:
+  - src-folhavitoria-2026-09-02-gonet-pede-arquivamento
+  - src-oeste-2026-gonet-fecha-portas-para-delacao
+  by_id: paulo-gonet
+  date: '2026-09-02'
 open_questions:
 - A posição pública de Gonet sobre as menções no relatório da PF não foi localizada em fonte verificada
   do corpus.
+- O corpus não tem a manifestação formal da PGR ao relator; o prazo de cinco dias estava em curso quando
+  o registro foi feito.
+- O filho do procurador-geral é pessoa privada e não integra o mapa; as reportagens o nomeiam.
 source_ids:
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-congressoemfoco-2026-09-01-relatorio-pf
+- src-otempo-2026-09-01-gonet-despesas-do-filho-em-londres
+- src-poder360-2026-09-01-pgr-bancar-ida-do-filho
+- src-poder360-2026-09-01-cupula-da-pgr-desanimo
+- src-oeste-2026-gonet-fecha-portas-para-delacao
+- src-folhavitoria-2026-09-02-gonet-pede-arquivamento
+- src-forum-2026-09-mensagens-sem-resposta-de-moraes
 full_name: Paulo Gustavo Gonet Branco
 review_status: published
 reviewer: orquestrador

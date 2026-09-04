@@ -1,0 +1,28 @@
+id: evt-2026-09-02-gonet-pede-arquivamento-das-denuncias-de-vorcaro
+kind: event
+title: Procurador-geral pede o arquivamento das denúncias de ameaça feitas por Vorcaro
+event_type: judicial_decision
+date: '2026-09-02'
+date_precision: day
+participant_ids:
+- paulo-gonet
+- daniel-vorcaro
+- ministerio-publico-federal
+description: O pedido alcança as denúncias que Vorcaro apresentou na oitiva de 27/08 no gabinete do relator,
+  sobre supostas ameaças sofridas na prisão para não firmar acordo de colaboração. Na mesma frente, relatos
+  indicam que o procurador-geral rejeitou nova tentativa de retomar a negociação da delação.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-gonet-pede-arquivamento-das-denuncias
+- ev-gonet-rejeita-nova-delacao
+source_ids:
+- src-folhavitoria-2026-09-02-gonet-pede-arquivamento
+- src-oeste-2026-gonet-fecha-portas-para-delacao
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

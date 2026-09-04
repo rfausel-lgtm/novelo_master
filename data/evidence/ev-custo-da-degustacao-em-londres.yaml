@@ -1,0 +1,16 @@
+id: ev-custo-da-degustacao-em-londres
+kind: evidence
+classification: C
+proposition: A degustação de uísque Macallan na 1ª edição do Fórum Jurídico Brasil de Ideias, em Londres,
+  em 2024, custou US$ 640.831,88, cerca de R$ 3,3 milhões no câmbio de setembro de 2026. A 2ª edição,
+  prevista para 2025, não aconteceu.
+document_ids: []
+source_ids:
+- src-poder360-2026-09-01-pgr-bancar-ida-do-filho
+- src-poder360-2026-03-10-degustacao-londres
+date: '2024'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

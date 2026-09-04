@@ -12,7 +12,8 @@ description: Segundo o relatório da PF sobre o celular de Vorcaro, o banqueiro 
   única a esse contato em 17/11/2025 e mencionou a familiares estar 'com alexandre moraes' (2024-2025).
   O gabinete do ministro negou ser destinatário das mensagens. O relatório não conclui pela prática de
   crime e a PF não realizou diligências contra magistrados. Trata-se de alegação investigativa em análise
-  pelo Plenário do STF.
+  pelo Plenário do STF. O relatório não registra resposta do ministro às mensagens em que o banqueiro
+  pede a atuação de 'Andrei e Paulo' em seu favor.
 evidence_class: A
 confidence: 0.5
 status: disputed
@@ -25,11 +26,13 @@ evidence_ids:
 - ev-ipja-mensagens-visualizacao-unica-2025-11-17
 - ev-nota-moraes-nega-mensagens
 - ev-mensagem-vorcaro-a-moraes-sobre-andrei-e-gonet
+- ev-mensagens-de-protecao-sem-resposta-de-moraes
 source_ids:
 - src-congressoemfoco-2026-09-01-relatorio-pf
 - src-cnn-2026-09-fabio-faria-pf
 - src-poder360-2026-03-06-moraes-nega
 - src-poder360-2026-09-03-novo-pede-prisao-de-andrei
+- src-forum-2026-09-mensagens-sem-resposta-de-moraes
 document_ids: []
 cited_position:
 - date: '2026-03-06'

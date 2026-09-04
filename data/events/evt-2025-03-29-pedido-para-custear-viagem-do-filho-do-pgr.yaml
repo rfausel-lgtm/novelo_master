@@ -1,0 +1,40 @@
+id: evt-2025-03-29-pedido-para-custear-viagem-do-filho-do-pgr
+kind: event
+title: Relatório da PF registra pedido para custear a ida do filho do procurador-geral a Londres
+event_type: communication
+date: '2025-03-29'
+date_precision: day
+participant_ids:
+- paulo-gonet
+- daniel-vorcaro
+- ciro-soares
+description: Segundo o relatório da PF, o pedido chegou a Vorcaro pelo advogado Ciro Soares, apontado
+  como interlocutor do procurador-geral; o banqueiro respondeu 'Óbvio, né' e, cerca de duas semanas depois,
+  aprovou a inclusão do filho na lista de convidados custeados. O evento seria a 2ª edição do fórum jurídico
+  em Londres, que não chegou a acontecer. As imputações são da autoridade policial; o procurador-geral
+  foi intimado a se manifestar e o prazo estava em curso.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-pf-pedido-para-custear-filho-do-pgr
+- ev-pf-sugestao-de-charutos-e-macallan
+source_ids:
+- src-otempo-2026-09-01-gonet-despesas-do-filho-em-londres
+- src-poder360-2026-09-01-pgr-bancar-ida-do-filho
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+public_act_ids: []
+cited_position:
+- kind: no_response
+  summary: Procurado, o procurador-geral não se manifestou até a publicação das reportagens; o relator
+    fixou prazo de cinco dias para manifestação da PGR.
+  source_ids:
+  - src-otempo-2026-09-01-gonet-despesas-do-filho-em-londres
+  - src-poder360-2026-09-01-pgr-bancar-ida-do-filho
+  by_id: paulo-gonet
+  date: '2026-09-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
