@@ -43,6 +43,11 @@ export function pageMetadata(opts: { title: string; description: string; path: s
       description: opts.description,
       siteName: SITE.name,
       locale: "pt_BR",
+      /*
+       * O Next não herda a imagem do segmento raiz quando a página declara seu próprio
+       * openGraph; sem esta linha o link compartilhado de um dossiê vem sem prévia.
+       */
+      images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: SITE.name }],
     },
   };
 }
@@ -310,6 +315,55 @@ export function articleJsonLd(opts: { title: string; description: string; path: 
     dateModified: opts.dateModified,
     publisher: { "@type": "Organization", name: SITE.name, url: SITE.url },
     inLanguage: "pt-BR",
+  };
+}
+
+/**
+ * Dados estruturados do site inteiro, para a home. Descreve o publicador e trata o corpus como
+ * conjunto de dados, que é o que ele é: o grafo servido em /data/graph.json é público.
+ */
+export function siteJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": `${SITE.url}/#site`,
+        name: SITE.name,
+        url: SITE.url,
+        description: SITE.description,
+        inLanguage: "pt-BR",
+        author: { "@id": `${SITE.url}/#autor` },
+        publisher: { "@id": `${SITE.url}/#autor` },
+      },
+      {
+        "@type": "Person",
+        "@id": `${SITE.url}/#autor`,
+        name: SITE.author,
+        jobTitle: "Advogado",
+        email: `mailto:${SITE.contactEmail}`,
+        url: absoluteUrl("/sobre"),
+      },
+      {
+        "@type": "Dataset",
+        "@id": `${SITE.url}/#corpus`,
+        name: `Corpus do ${SITE.name}`,
+        description:
+          "Relações, pessoas, organizações, eventos, documentos, fontes e evidências do caso Banco Master, com classe de evidência declarada para cada registro.",
+        url: SITE.url,
+        creator: { "@id": `${SITE.url}/#autor` },
+        dateModified: corpus.built_at,
+        isAccessibleForFree: true,
+        inLanguage: "pt-BR",
+        distribution: [
+          {
+            "@type": "DataDownload",
+            encodingFormat: "application/json",
+            contentUrl: absoluteUrl("/data/graph.json"),
+          },
+        ],
+      },
+    ],
   };
 }
 

@@ -34,7 +34,24 @@ export const metadata: Metadata = {
     description: SITE.description,
   },
   twitter: { card: "summary_large_image" },
-  robots: { index: true, follow: true },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 },
+  },
+  authors: [{ name: SITE.author, url: `${SITE.url}/sobre/` }],
+  creator: SITE.author,
+  publisher: SITE.author,
+  applicationName: SITE.name,
+  keywords: [
+    "Banco Master",
+    "Daniel Vorcaro",
+    "Operação Compliance Zero",
+    "Banco Central",
+    "liquidação extrajudicial",
+    "investigação",
+    "fontes públicas",
+  ],
 };
 
 export const viewport: Viewport = {

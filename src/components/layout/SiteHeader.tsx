@@ -9,6 +9,7 @@ const NAV = [
   { href: "/pessoas", label: "Pessoas" },
   { href: "/fontes", label: "Fontes" },
   { href: "/metodologia", label: "Metodologia" },
+  { href: "/sobre", label: "Sobre" },
 ];
 
 export function SiteHeader() {

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { corpus, stats, lastUpdated } from "@/lib/data";
+import { safeJsonLd, siteJsonLd } from "@/lib/pages";
 import { formatDateTimeBRT, formatNumber, formatPartialDate } from "@/lib/format";
 import { Logo } from "@/components/ui/Logo";
 import { EVIDENCE_CLASS_LABEL, type EvidenceClass } from "@/lib/schema";
@@ -41,6 +42,10 @@ function Background() {
 export default function HomePage() {
   return (
     <div className="relative flex flex-1 flex-col">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: safeJsonLd(siteJsonLd()) }}
+      />
       <Background />
       <section className="relative mx-auto flex w-full max-w-4xl flex-1 flex-col items-center justify-center px-6 py-16 text-center sm:py-24">
         <Logo className="h-16 w-16" />
