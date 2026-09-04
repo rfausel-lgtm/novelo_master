@@ -505,8 +505,17 @@ export function GraphCanvas(props: GraphCanvasProps) {
     if (!data) return;
     const camera = sigma.getCamera();
     const ratio = Math.min(camera.ratio, 0.5);
+    /*
+     * O painel cobre a direita no desktop e a base no celular: centralizar de verdade colocava o nó
+     * escolhido atrás dele. O alvo é deslocado pela metade da área ocupada, em coordenadas do grafo.
+     */
+    const largura = sigma.getContainer().clientWidth;
+    const altura = sigma.getContainer().clientHeight;
+    const estreito = largura < 768;
+    const deslocamentoX = estreito ? 0 : (384 / 2 / largura) * ratio;
+    const deslocamentoY = estreito ? (0.3 * altura) / altura / 2 : 0;
     void camera.animate(
-      { x: data.x, y: data.y, ratio },
+      { x: data.x + deslocamentoX, y: data.y + deslocamentoY * ratio, ratio },
       { duration: reducedMotionRef.current ? 0 : 450 },
     );
   }, [cameraTarget, graph]);

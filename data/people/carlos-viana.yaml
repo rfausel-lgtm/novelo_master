@@ -24,4 +24,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+photo:
+  path: /fotos/carlos-viana.jpg
+  source: Wikimedia Commons
+  author: Geraldo Magela/Agência Senado
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:Carlos_Viana.jpg
+  retrieved_at: '2026-09-04'
+  alt: Retrato de Carlos Viana
