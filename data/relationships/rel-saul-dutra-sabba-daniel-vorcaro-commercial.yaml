@@ -1,0 +1,25 @@
+id: rel-saul-dutra-sabba-daniel-vorcaro-commercial
+kind: relationship
+from_id: saul-dutra-sabba
+to_id: daniel-vorcaro
+relationship_type: commercial
+directed: false
+label: vendedor do controle do Banco Máxima
+start_date: '2017-09-15'
+description: Sabbá vendeu a Vorcaro, em contrato de 15/09/2017, 56,87% do capital do Banco Máxima por
+  R$ 40 milhões, pagos em R$ 36 milhões em cotas do fundo Brazil Realty e R$ 4 milhões em espécie.
+evidence_class: A
+confidence: 0.8
+status: unverified
+event_ids:
+- evt-2017-09-15-contrato-de-compra-do-controle-do-maxima
+evidence_ids:
+- ev-preco-e-forma-de-pagamento-da-compra-do-maxima
+source_ids:
+- src-folhapress-2026-04-18-ciranda-na-compra-do-maxima
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

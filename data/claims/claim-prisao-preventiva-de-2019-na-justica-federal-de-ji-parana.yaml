@@ -11,14 +11,39 @@ event_ids:
 - evt-2019-10-14-bc-aprova-a-transferencia-de-controle-do-maxima
 evidence_ids:
 - ev-valor-prisao-preventiva-de-2019-em-ji-parana
+- ev-jiparana-2019-verificacao-nao-confirmada
+- ev-linha-investigativa-rondonia-vorcaro
 source_ids:
 - src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
-limits: A equipe editorial não localizou confirmação independente nem o número do processo. O registro
-  fica como alegação de fonte única, sem conclusão sobre o mérito ou o desfecho daquele feito.
+- src-em-2026-04-14-bc-barrou-e-mudou-de-ideia
+- src-gazetadopovo-2026-04-14-ex-servidores-bc-reputacao
+- src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
+limits: 'A equipe editorial não localizou confirmação independente nem o número do processo, e a verificação
+  conduzida em setembro de 2026 permaneceu negativa: não há peça processual, decisão, certidão, nota de
+  tribunal ou cobertura contemporânea que comprove o mandado. Três ressalvas adicionais pesam contra a
+  formulação original: a reportagem descreve ''prisão preventiva de cinco dias'', medida inexistente no
+  direito brasileiro (preventiva não tem prazo; cinco dias prorrogáveis é temporária, da Lei 7.960/1989);
+  a Folhapress, cobrindo o mesmo lote documental do BC, afirma que não havia inquérito policial ou ação
+  criminal contra Vorcaro até então; e a Gazeta do Povo situa o esquema em Roraima, não em Rondônia. Existe,
+  por outro lado, linha investigativa federal documentada em Ji-Paraná desde janeiro de 2019, o que torna
+  a alegação plausível sem torná-la provada.'
 counter_position:
 - by_id: daniel-vorcaro
   kind: not_located
   summary: Manifestação da defesa sobre esse feito de 2019 não localizada nas fontes lidas.
+- kind: alternative_explanation
+  summary: A Folhapress, cobrindo os mesmos votos do Banco Central obtidos via LAI, afirma que 'não havia
+    até então inquérito policial ou ação criminal contra Vorcaro que vetasse a operação', sem mencionar
+    Ji-Paraná ou mandado de prisão.
+  source_ids:
+  - src-em-2026-04-14-bc-barrou-e-mudou-de-ideia
+  date: '2026-04-14'
+- kind: clarification
+  summary: A Gazeta do Povo, no mesmo dia da publicação original, situa o esquema de desvio de fundos
+    de previdência em Roraima, e não em Rondônia — divergência não resolvida entre as fontes.
+  source_ids:
+  - src-gazetadopovo-2026-04-14-ex-servidores-bc-reputacao
+  date: '2026-04-14'
 kind: claim
 review_status: published
 reviewer: orquestrador
@@ -28,7 +53,12 @@ updated_at: '2026-09-03'
 adversarial_review:
   reviewed_at: '2026-09-03'
   reviewer: orquestrador
-  attempted_refutation: 'Procurou-se confirmação em outros veículos e no acervo de decisões do caso: nada
-    localizado, nem o número do processo. A informação aparece em uma única reconstituição jornalística,
-    em tabela, sem citação de peça. Mantida como alegação de fonte única e não verificada.'
+  attempted_refutation: 'Nova rodada de verificação em setembro de 2026, com busca por peça processual,
+    consulta ao DataJud/CNJ pelos números associados à frente rondoniense, e busca por cobertura contemporânea
+    de 2019-2020: nada localizado. Encontrou-se, em sentido contrário, afirmação da Folhapress de que
+    não havia inquérito ou ação criminal contra Vorcaro até então, e divergência entre fontes quanto ao
+    estado (Rondônia x Roraima). Identificou-se também incoerência jurídica na descrição da medida. Em
+    sentido favorável, confirmou-se a existência de linha investigativa federal em Ji-Paraná desde janeiro
+    de 2019, o que explica por que haveria feito contra ele naquele juízo. Mantida como alegação de fonte
+    única não verificada, com enfraquecimento adicional da formulação.'
   outcome: weakened

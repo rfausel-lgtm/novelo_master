@@ -1,0 +1,25 @@
+id: ev-bc-inabilita-saul-sabba-2018
+kind: evidence
+classification: C
+proposition: Em sessão de 19 de julho de 2018, o Banco Central aprovou por unanimidade a penalidade de
+  inabilitação de Saul Dutra Sabbá para atuar como administrador de instituições financeiras. A irregularidade
+  foi caracterizada como grave, por conduzir os negócios do Banco Máxima em desacordo com a regulamentação,
+  ao 'simular a valorização de investimento em empresa controlada para reduzir prejuízos contábeis, resultando
+  em demonstrações financeiras que não refletiam fielmente a real situação econômico-financeira da instituição'
+  e ao 'assumir riscos incompatíveis com sua estrutura de capital e prestar informações incorretas ao
+  Banco Central de forma intencional e sistemática para ocultar sua grave insuficiência de capital'. Segundo
+  a apuração, as manipulações para ocultar a insuficiência de capital nas declarações ao BC ocorreram
+  entre janeiro de 2015 e março de 2016. A punição é anterior à aprovação, pelo mesmo Banco Central, da
+  transferência do controle do banco a Daniel Vorcaro, em outubro de 2019.
+document_ids: []
+source_ids:
+- src-bcb-2018-08-03-boletim-diario-inabilitacao-sabba
+- src-seudinheiro-2021-ex-gestores-maxima-reus
+excerpt: Assumir riscos incompatíveis com sua estrutura de capital e prestar informações incorretas ao
+  Banco Central de forma intencional e sistemática para ocultar sua grave insuficiência de capital.
+date: '2018-07-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,23 @@
+id: src-bcb-2018-08-03-boletim-diario-inabilitacao-sabba
+kind: source
+title: Resumo de Decisão — Boletim Diário do Banco Central de 03/08/2018 (inabilitação de Saul Dutra Sabbá)
+publisher: Banco Central do Brasil
+publication_date: '2018-08-03'
+retrieved_at: '2026-09-03'
+url: https://www.bcb.gov.br/api/relatorio/sitebcb/txjuros?path=conteudo/decap/Reports/BoletimDiarioReport.rdl&parametros=%27DataBoletim:2018-08-03%27&exportar=PDFRETRATO&nome=Boletim+Diario+03-08-2018
+source_type: official_regulator
+summary: Resumo de decisão do Banco Central publicado em dado aberto, registrando a penalidade de inabilitação
+  aplicada a Saul Dutra Sabbá em sessão de 19/07/2018, por conduzir os negócios do Banco Máxima em desacordo
+  com a regulamentação.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: O PDF gerado por esse endpoint de relatório não foi aberto e lido diretamente pela equipe; o teor
+  aqui registrado consta de reprodução em pesquisa e é corroborado por cobertura jornalística independente.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

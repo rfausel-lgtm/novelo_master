@@ -1,0 +1,28 @@
+id: benjamim-botelho-de-almeida
+kind: person
+name: Benjamim Botelho de Almeida
+category: businessperson
+role: Sócio da Foco DTVM (depois Sefer Investimentos)
+positions: []
+summary: Sócio da Foco DTVM, administradora de fundos que aparece em mais de uma frente do caso. Segundo
+  documento protocolado na CPI do Crime Organizado, recebeu R$ 2 milhões da Milo Investimentos, empresa
+  ligada a Vorcaro, em 31/10/2016, sendo descrito na peça como 'elo financeiro central' da cadeia investigada
+  em Rondônia. Seu nome aparece também na delação premiada de João Carlos Mansur, como beneficiário formal
+  do fundo Jaguar Multimarket Fund Ltd (Cayman Islands), cujo controlador real seria Vorcaro segundo o
+  colaborador — alegação não comprovada. São registros de origens distintas e nenhum deles constitui imputação
+  formal contra ele no corpus.
+why_in_novelo: Nome recorrente, por vias independentes, na estrutura de fundos associada às operações
+  de Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Não há, no corpus, manifestação de Benjamim Botelho de Almeida sobre nenhum dos registros que o mencionam,
+  nem denúncia ou decisão de mérito contra ele.
+source_ids:
+- src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

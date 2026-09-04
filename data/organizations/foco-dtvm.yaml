@@ -1,0 +1,26 @@
+id: foco-dtvm
+kind: organization
+name: Foco DTVM
+aliases:
+- Sefer Investimentos
+org_type: financial_institution
+summary: Distribuidora de títulos e valores mobiliários, posteriormente renomeada Sefer Investimentos.
+  Administrava o FII São Domingos, fundo abastecido por regimes próprios de previdência de servidores
+  públicos que comprou por R$ 57 milhões um terreno em Jequitibá (MG) regularizado por R$ 2,5 milhões
+  dois anos antes. Em 2022, a CVM multou a Foco DTVM e o diretor do fundo em mais de R$ 1 milhão por má
+  gestão, incluindo operações que beneficiaram empresas da família Vorcaro. Aparece também, em outras
+  frentes de apuração, como administradora de fundos ligados ao Grupo Aquilla e ao esquema de desvio de
+  recursos de regimes próprios de previdência investigado em Rondônia.
+why_in_novelo: Administradora do fundo cuja compra de um terreno supervalorizado ajudou a lastrear a capacidade
+  econômica apresentada por Vorcaro ao Banco Central, e nó recorrente em outras frentes do caso.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-iclnoticias-2025-12-03-imoveis-superfaturados-fundos-de-pensao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

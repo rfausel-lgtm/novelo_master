@@ -1,0 +1,30 @@
+id: evt-2020-07-15-operacao-fundo-fake
+kind: event
+title: 'Operação Fundo Fake: PF apura desvio de recursos de previdências municipais em fundos da Foco
+  DTVM'
+event_type: investigation_step
+date: '2020-07-15'
+date_precision: day
+participant_ids:
+- foco-dtvm
+- benjamim-botelho-de-almeida
+- daniel-vorcaro
+description: A Polícia Federal deflagrou a Operação Fundo Fake, sobre desvio de recursos de regimes próprios
+  de previdência de municípios de Rondônia aplicados em fundos administrados pela Foco DTVM. É a frente
+  rondoniense que, segundo documento protocolado na CPI do Crime Organizado, alcança Vorcaro por meio
+  de inquéritos sucessivos iniciados em janeiro de 2019 — nove meses antes de o Banco Central aprovar
+  a transferência de controle do Banco Máxima.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-linha-investigativa-rondonia-vorcaro
+source_ids:
+- src-rolimprevi-2020-08-02-nota-operacao-fundo-fake
+- src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

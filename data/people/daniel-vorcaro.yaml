@@ -10,9 +10,13 @@ positions:
   organization_id: banco-master
   source_ids:
   - src-stf-2026-03-04-prisao-preventiva-vorcaro
-summary: Banqueiro, controlador do Banco Master. Foi preso na deflagração da Operação Compliance Zero
+summary: 'Banqueiro, controlador do Banco Master. Foi preso na deflagração da Operação Compliance Zero
   (18/11/2025), solto em seguida por decisão do TRF segundo a imprensa, e teve prisão preventiva decretada
-  pelo STF em 04/03/2026 (PET 15556), mantida pela Segunda Turma em 20/03/2026.
+  pelo STF em 04/03/2026 (PET 15556), mantida pela Segunda Turma em 20/03/2026. Sua origem patrimonial
+  é objeto de apuração: declarava R$ 2,8 milhões à Receita Federal em 2015, dois anos antes de contratar
+  a compra de 56,87% do Banco Máxima por R$ 40 milhões, dos quais apenas R$ 4 milhões em espécie. A diferença
+  foi preenchida, segundo o Banco Central e a imprensa, por reavaliações imobiliárias de valorização extraordinária
+  e por transferências circulares entre o próprio banco, empresas suas e fundos de investimento.'
 why_in_novelo: É o controlador do Banco Master, instituição liquidada pelo Banco Central em novembro de
   2025, e investigado central da Operação Compliance Zero conduzida pela Polícia Federal sob relatoria
   do STF.
@@ -80,6 +84,10 @@ open_questions:
   ao STF por suposta conexão com o caso Master; a Justiça negou o pedido em 19/12/2025, afastando expressamente
   essa conexão. A sobreposição real entre os dois casos é indireta, via gestoras de nicho (Reag, Trustee),
   não identidade entre os esquemas.
+- 'Há duas versões incompatíveis sobre o primeiro negócio de Vorcaro: a dele próprio, em perfil de 2021,
+  de que comprou dos herdeiros um sistema educacional a que prestava consultoria; e a de reportagens posteriores,
+  de que administrava uma editora de livros didáticos do próprio pai. A distinção é relevante porque uma
+  versão o apresenta como empreendedor que se fez sozinho e a outra como gestor de ativo familiar.'
 source_ids:
 - src-stf-2026-03-04-prisao-preventiva-vorcaro
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
@@ -100,6 +108,10 @@ source_ids:
 - src-cnnbrasil-2026-09-04-vorcaro-poupar-moraes-terceira-delacao
 - src-cnnbrasil-2026-06-15-pgr-rejeita-segunda-delacao-vorcaro
 - src-poder360-2026-09-02-pgr-aceita-delacao-mansur
+- src-otempo-2026-06-22-como-vorcaro-ficou-rico
+- src-iclnoticias-2025-12-03-imoveis-superfaturados-fundos-de-pensao
+- src-braziljournal-2021-12-23-master-outsider
+- src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published

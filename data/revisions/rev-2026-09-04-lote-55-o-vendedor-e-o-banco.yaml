@@ -1,0 +1,28 @@
+id: rev-2026-09-04-lote-55-o-vendedor-e-o-banco
+kind: revision
+date: '2026-09-03'
+title: 'Lote 55: o vendedor e o banco — o que o Máxima era antes de virar Master'
+summary: Frente aberta a pedido do editor sobre a entrada de Vorcaro no Banco Máxima. O registro anterior
+  sobre Saul Dutra Sabbá tinha um parágrafo e uma fonte; passa a documentar que o Banco Central o inabilitou
+  em 19/07/2018 por prestar informações incorretas de forma intencional e sistemática para ocultar grave
+  insuficiência de capital do banco, que ele foi condenado por gestão fraudulenta em abril de 2025 por
+  fatos de 2014 a 2016, e que obteve acordo de não persecução penal homologado em 05/02/2026, contra a
+  resistência inicial do MPF. Acrescenta o preço e a forma de pagamento da operação — 56,87% do capital
+  por R$ 40 milhões, dos quais apenas R$ 4 milhões em espécie e R$ 36 milhões em cotas do fundo Brazil
+  Realty — e o porte real do banco vendido (patrimônio líquido de R$ 30 milhões, receita de R$ 180 milhões,
+  desenquadrado e à beira da liquidação). Registra ainda que a exposição potencial do FGC ao Máxima quase
+  quadruplicou entre 2016 e 2019. A ligação de Sabbá com a família Sabbá do Amazonas foi investigada e
+  não pôde ser confirmada — fica como questão em aberto, não como fato.
+affected_ids:
+- saul-dutra-sabba
+- daniel-vorcaro
+- banco-master
+- banco-central-do-brasil
+- fundo-garantidor-de-creditos
+reason: Lacuna sobre o vendedor e a real condição do banco adquirido, apontada pelo editor e apurada em
+  fontes oficiais e judiciais.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

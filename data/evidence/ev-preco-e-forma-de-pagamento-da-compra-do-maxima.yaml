@@ -1,0 +1,19 @@
+id: ev-preco-e-forma-de-pagamento-da-compra-do-maxima
+kind: evidence
+classification: A
+proposition: Em 15 de setembro de 2017, Daniel Vorcaro contratou a compra, junto a Saul Dutra Sabbá, de
+  ações representativas de 56,87% do capital do Banco Máxima por R$ 40 milhões. A forma de pagamento foi
+  posteriormente alterada para R$ 36 milhões em cotas do fundo Brazil Realty e R$ 4 milhões em espécie
+  — ou seja, apenas um décimo do preço saiu em dinheiro, e o restante em cotas do mesmo fundo que, segundo
+  o voto BCB 20/2019, teria recebido recursos originados no próprio Banco Máxima.
+document_ids: []
+source_ids:
+- src-folhapress-2026-04-18-ciranda-na-compra-do-maxima
+attributed_to: Folhapress (Nathalia Garcia), com base nos votos do Banco Central obtidos via Lei de Acesso
+  à Informação
+date: '2017-09-15'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

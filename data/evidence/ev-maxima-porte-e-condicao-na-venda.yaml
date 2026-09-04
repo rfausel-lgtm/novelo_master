@@ -1,0 +1,18 @@
+id: ev-maxima-porte-e-condicao-na-venda
+kind: evidence
+classification: C
+proposition: O Banco Máxima não era um ativo saudável vendido por sucessão familiar. Tinha, no momento
+  da venda, patrimônio líquido de R$ 30 milhões e receita de R$ 180 milhões, e enfrentava dificuldades
+  financeiras, com desenquadramento das regras prudenciais, estando à beira de ser liquidado pelo Banco
+  Central. Saul Dutra Sabbá desligou-se formalmente da gestão em 2017, no ano seguinte ao período das
+  manipulações contábeis apuradas pelo BC e no ano anterior à sua inabilitação.
+document_ids: []
+source_ids:
+- src-braziljournal-2021-12-23-master-outsider
+- src-jbrasilia-2026-04-14-bc-recusou-e-depois-aprovou
+date: '2017'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

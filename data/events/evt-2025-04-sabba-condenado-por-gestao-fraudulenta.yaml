@@ -1,0 +1,27 @@
+id: evt-2025-04-sabba-condenado-por-gestao-fraudulenta
+kind: event
+title: Justiça Federal condena Saul Dutra Sabbá por gestão fraudulenta no Banco Máxima
+event_type: judicial_decision
+date: 2025-04
+date_precision: month
+participant_ids:
+- saul-dutra-sabba
+- banco-master
+description: A 6ª Vara Criminal Federal de São Paulo condenou Saul Dutra Sabbá a três anos de reclusão
+  em regime inicial aberto por gestão fraudulenta, com pena substituída por restritiva de direitos e multa,
+  por fatos ocorridos entre 2014 e 2016 no Banco Máxima. Respondeu como corréu o ex-diretor jurídico e
+  contábil Alberto Maurício Caló.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-sabba-condenado-gestao-fraudulenta-2025
+source_ids:
+- src-feebpr-2025-04-29-condenacao-sabba
+- src-jbrasilia-2025-01-14-mpf-contra-acordo-maxima
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

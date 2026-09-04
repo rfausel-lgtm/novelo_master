@@ -1,19 +1,53 @@
 id: saul-dutra-sabba
 name: Saul Dutra Sabbá
 category: businessperson
-role: Antigo controlador do Banco Máxima
-summary: Controlava o Banco Máxima antes da entrada de Daniel Vorcaro. Segundo o voto BCB 20/2019, na
-  reconstituição publicada a partir dos extratos obtidos pelo Valor Econômico, sua participação foi comprada
-  pelo fundo Brazil Realty.
-why_in_novelo: Era o controlador do banco cuja transferência de controle deu origem ao Conglomerado Master.
+role: Antigo controlador do Banco Máxima; inabilitado pelo BC em 2018 e condenado por gestão fraudulenta
+  em 2025
+summary: 'Controlava o Banco Máxima antes da entrada de Daniel Vorcaro. Em contrato de 15/09/2017, vendeu
+  a Vorcaro 56,87% do capital do banco por R$ 40 milhões, pagos em R$ 36 milhões em cotas do fundo Brazil
+  Realty e apenas R$ 4 milhões em espécie; segundo o voto BCB 20/2019, sua participação foi comprada pelo
+  fundo Brazil Realty. Não se tratava de um ativo saudável vendido por sucessão: o banco estava desenquadrado
+  das regras prudenciais e à beira da liquidação. Em 19/07/2018, o Banco Central o inabilitou para atuar
+  como administrador de instituições financeiras, por simular valorização de investimento em controlada
+  para reduzir prejuízos contábeis e por prestar informações incorretas ao BC, de forma intencional e
+  sistemática, para ocultar grave insuficiência de capital. Em abril de 2025 foi condenado pela 6ª Vara
+  Criminal Federal de São Paulo a três anos de reclusão em regime aberto por gestão fraudulenta, por fatos
+  de 2014 a 2016. Em dezembro de 2025 firmou acordo de não persecução penal com o MPF — que havia resistido
+  ao acordo —, homologado em 05/02/2026, com extinção da punibilidade. Não consta como alvo nas fases
+  divulgadas da Operação Compliance Zero; seu processo é anterior e autônomo.'
+why_in_novelo: Era o controlador do banco cuja transferência de controle deu origem ao Conglomerado Master
+  — e foi punido pelo Banco Central e condenado criminalmente por ocultar a insuficiência de capital da
+  mesma instituição, no período imediatamente anterior à venda.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: no_response
+  summary: Procurado pelo O Tempo em dezembro de 2025 sobre o acordo de não persecução penal, Sabbá não
+    se pronunciou; sua advogada também não se manifestou sobre a condenação de abril de 2025.
+  source_ids:
+  - src-otempo-2025-12-19-anpp-sabba
+  - src-feebpr-2025-04-29-condenacao-sabba
+  by_id: saul-dutra-sabba
+  date: '2025-12-19'
 source_ids:
 - src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
+- src-bcb-2018-08-03-boletim-diario-inabilitacao-sabba
+- src-seudinheiro-2021-ex-gestores-maxima-reus
+- src-feebpr-2025-04-29-condenacao-sabba
+- src-otempo-2025-12-19-anpp-sabba
+- src-jbrasilia-2025-01-14-mpf-contra-acordo-maxima
+- src-folhapress-2026-04-18-ciranda-na-compra-do-maxima
+- src-braziljournal-2021-12-23-master-outsider
+- src-jbrasilia-2026-04-14-bc-recusou-e-depois-aprovou
 aliases: []
 positions: []
-open_questions: []
+open_questions:
+- 'A ligação de Saul Dutra Sabbá com a tradicional família Sabbá do Amazonas — sugerida pela coincidência
+  do sobrenome composto Benayon Sabbá, pela origem judaico-marroquina e por afirmação da Revista Cenarium
+  que o vincula ao contexto da Refinaria Isaac Sabbá — não pôde ser confirmada documentalmente: a genealogia
+  pública de Isaac Benayon Sabbá não registra o pai declarado por Saul entre os familiares. Não se publica
+  o parentesco como fato.'
+- 'Há versões incompatíveis sobre a fundação do Banco Máxima: a autobiografia de Sabbá indica 1984, ao
+  lado do pai, enquanto a imprensa registra 1990, como transformação da Máxima Corretora (de 1974) em
+  banco múltiplo.'
 kind: person
 review_status: published
 reviewer: orquestrador

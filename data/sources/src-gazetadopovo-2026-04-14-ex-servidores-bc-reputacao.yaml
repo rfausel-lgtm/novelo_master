@@ -1,0 +1,22 @@
+id: src-gazetadopovo-2026-04-14-ex-servidores-bc-reputacao
+kind: source
+title: Ex-servidores do BC, Vorcaro e problemas de reputação
+publisher: Gazeta do Povo (Guilherme Grandi)
+publication_date: '2026-04-14'
+retrieved_at: '2026-09-03'
+url: https://www.gazetadopovo.com.br/economia/ex-servidores-bc-vorcaro-picareta-problemas-reputacao/
+source_type: press
+summary: Registra que, pouco depois da liberação pelo BC, 'a Justiça chegou a decretar a prisão preventiva
+  de Vorcaro por suposta participação em um esquema de desvio de recursos de fundos de previdência que
+  atuavam em Roraima, mas a medida não foi cumprida e acabou revogada'. Situa o esquema em Roraima, divergindo
+  da versão que aponta Rondônia.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

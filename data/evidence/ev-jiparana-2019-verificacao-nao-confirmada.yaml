@@ -1,0 +1,26 @@
+id: ev-jiparana-2019-verificacao-nao-confirmada
+kind: evidence
+classification: A
+proposition: 'Resultado de verificação: a alegação de que a Justiça Federal de Ji-Paraná teria decretado
+  prisão contra Daniel Vorcaro em 29/10/2019, quatorze dias após o aval do Banco Central, não foi confirmada
+  de forma independente. Não se localizou peça processual, decisão, certidão, nota de tribunal ou cobertura
+  contemporânea (2019-2020) que a comprove; consultas ao DataJud/CNJ pelos números de processo associados
+  à frente rondoniense não retornaram resultados, o que é compatível com segredo de justiça e não desmente
+  nem confirma. Três ressalvas adicionais enfraquecem a formulação original: (a) a reportagem descreve
+  ''prisão preventiva de cinco dias'', medida que não existe no direito brasileiro — prisão preventiva
+  não tem prazo, e a de cinco dias prorrogáveis é a temporária, da Lei 7.960/1989; (b) a Folhapress, cobrindo
+  o mesmo lote documental do BC, afirma que ''não havia até então inquérito policial ou ação criminal
+  contra Vorcaro que vetasse a operação''; (c) a Gazeta do Povo, no mesmo dia da publicação original,
+  situa o esquema em Roraima, e não em Rondônia. A defesa de Vorcaro não se manifestou sobre o episódio.'
+document_ids: []
+source_ids:
+- src-em-2026-04-14-bc-barrou-e-mudou-de-ideia
+- src-gazetadopovo-2026-04-14-ex-servidores-bc-reputacao
+- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+attributed_to: Verificação da equipe editorial, em confronto com as fontes disponíveis
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

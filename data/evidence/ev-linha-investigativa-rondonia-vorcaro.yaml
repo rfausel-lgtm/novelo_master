@@ -1,0 +1,27 @@
+id: ev-linha-investigativa-rondonia-vorcaro
+kind: evidence
+classification: A
+proposition: 'Existe linha investigativa federal em Rondônia alcançando Daniel Vorcaro desde janeiro de
+  2019 — nove meses antes do aval do Banco Central à transferência de controle do Máxima. Segundo documento
+  protocolado na CPI do Crime Organizado, houve Pedido de Busca e Apreensão Criminal nº 0001530-26.2019.4.01.4101,
+  de 23/01/2019, na Subseção Judiciária de Ji-Paraná (RO), no âmbito de apuração sobre desvio de recursos
+  de regimes próprios de previdência; a mesma peça registra repasses do Banco Máxima e do grupo Multipar
+  à MAXX Consultoria a partir de 2016, transferência de R$ 2 milhões da Milo Investimentos a Benjamim
+  Botelho de Almeida (sócio da Foco DTVM) em 31/10/2016, e três inquéritos sucessivos contra Vorcaro —
+  Rolim Previ (trancado por habeas corpus), Ji-Paraná/Fundo Fake 2 (suspenso) e Pagamentos Suspeitos (em
+  andamento). Em 15/07/2020 a Polícia Federal deflagrou a Operação Fundo Fake, sobre desvio de recursos
+  de previdências municipais aplicados em fundos administrados pela Foco DTVM. Este contexto explica por
+  que haveria feito contra Vorcaro em Rondônia, mas não comprova o mandado de outubro de 2019: a peça
+  da CPI é documento de parte, protocolado por denunciante, e não achado oficial da comissão.'
+document_ids: []
+source_ids:
+- src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
+- src-rolimprevi-2020-08-02-nota-operacao-fundo-fake
+attributed_to: Documento de parte protocolado na CPI do Crime Organizado, hospedado pelo Senado, e nota
+  oficial do RolimPrevi sobre a Operação Fundo Fake
+date: '2019-01-23'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
