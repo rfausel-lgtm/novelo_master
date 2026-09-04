@@ -3,18 +3,25 @@ kind: organization
 name: CPMI do INSS
 aliases: []
 org_type: public_body
-summary: Comissão Parlamentar Mista de Inquérito do Congresso Nacional que investiga fraudes no INSS.
+summary: 'Comissão Parlamentar Mista de Inquérito do Congresso Nacional que investiga fraudes no INSS.
   Decretou quebras de sigilo de Daniel Vorcaro; em 20/02/2026 o STF determinou a devolução à comissão
-  dos dados obtidos por essas quebras.
+  dos dados obtidos por essas quebras. Encerrou os trabalhos em 28/03/2026 sem relatório final aprovado:
+  o texto do relator, de 4.340 páginas, foi rejeitado por 19 votos a 12, e o presidente anunciou o envio
+  de cópias ao MPF e ao STF.'
 why_in_novelo: Decretou quebras de sigilo de Daniel Vorcaro cujos dados foram objeto de decisões do STF.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Não há relatório aprovado da CPMI do INSS; o texto disponível é a proposta vencida do relator.
 source_ids:
 - src-stf-2026-03-06-inquerito-vazamento
 - src-poder360-2026-03-06-moraes-nega
 - src-senado-2026-03-12-cpmi-convoca-zettel
+- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+- src-camara-2026-03-28-cpmi-do-inss-encerra-sem-aprovacao
+- src-congressoemfoco-2026-03-28-cpmi-derruba-relatorio
+- src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
 full_name: Comissão Parlamentar Mista de Inquérito do INSS
 review_status: published
 reviewer: orquestrador

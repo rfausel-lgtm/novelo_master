@@ -1,0 +1,37 @@
+id: evt-2026-03-27-leitura-do-relatorio-da-cpmi-do-inss
+kind: event
+title: Relator lê o relatório final da CPMI do INSS, com capítulo sobre o Banco Master
+event_type: publication
+date: '2026-03-27'
+date_precision: day
+participant_ids:
+- cpmi-do-inss
+- alfredo-gaspar
+- banco-master
+- daniel-vorcaro
+- augusto-lima
+description: O texto de 4.340 páginas dedica a seção 8.3.9 ao Banco Master e propõe o indiciamento de
+  Daniel Vorcaro e de Augusto Ferreira Lima por oito crimes cada, além de recomendações sobre integrantes
+  e familiares do STF. Reúne dados de auditoria da CGU sobre documentação contratual e validação biométrica
+  e registra a suspensão do acordo do banco com o INSS.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-relatorio-propoe-indiciar-vorcaro
+- ev-relatorio-propoe-indiciar-augusto-lima
+- ev-cgu-84-3-por-cento-sem-documentacao
+- ev-explosao-de-operacoes-rcc
+- ev-inss-suspende-act-e-retem-repasses
+- ev-relatorio-recomendacoes-sobre-o-stf
+- ev-relatorio-reconhece-limite-das-provas-sobre-o-stf
+source_ids:
+- src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
+- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+document_ids:
+- doc-2026-03-27-relatorio-final-rejeitado-cpmi-do-inss
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

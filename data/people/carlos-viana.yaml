@@ -1,0 +1,27 @@
+id: carlos-viana
+kind: person
+name: Carlos Viana
+category: politician
+role: Senador; presidente da CPMI do INSS
+positions:
+- title: Senador
+  organization_id: senado-federal
+  source_ids:
+  - src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+summary: Presidiu a CPMI do INSS. Após a rejeição do relatório, encerrou os trabalhos, não acatou a questão
+  de ordem para apreciação do relatório alternativo e anunciou que cópias do texto rejeitado seriam encaminhadas
+  a instituições como o MPF e o STF.
+why_in_novelo: Presidiu a comissão que examinou, entre outros temas, os consignados do Banco Master junto
+  ao INSS, e decidiu o encaminhamento após a rejeição do relatório.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+- src-congressoemfoco-2026-03-28-cpmi-derruba-relatorio
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

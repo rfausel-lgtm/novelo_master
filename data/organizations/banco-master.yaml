@@ -26,6 +26,8 @@ source_ids:
 - src-cnn-2026-master-25-milhoes-ex-presidentes-do-bc
 - src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
 - src-cnn-2026-wajngarten-3-8-milhoes
+- src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
+- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
 review_status: published

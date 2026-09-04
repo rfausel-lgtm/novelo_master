@@ -1,0 +1,33 @@
+id: ato-2026-03-28-rejeicao-do-relatorio-da-cpmi-do-inss
+kind: public_act
+title: CPMI do INSS rejeita o relatório final do relator
+act_type: legislative
+date: '2026-03-28'
+date_precision: day
+issuer_id: cpmi-do-inss
+issuer: Comissão Parlamentar Mista de Inquérito do INSS
+actor_ids:
+- carlos-viana
+- alfredo-gaspar
+affected_ids:
+- banco-master
+- daniel-vorcaro
+- augusto-lima
+description: Por 19 votos a 12, a comissão rejeitou o relatório e encerrou os trabalhos sem documento
+  aprovado, sem acolher o texto alternativo. O presidente anunciou o encaminhamento de cópias do relatório
+  rejeitado a instituições como o MPF e o STF.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-cpmi-do-inss-rejeita-relatorio-19-a-12
+source_ids:
+- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+- src-camara-2026-03-28-cpmi-do-inss-encerra-sem-aprovacao
+- src-congressoemfoco-2026-03-28-cpmi-derruba-relatorio
+document_ids:
+- doc-2026-03-27-relatorio-final-rejeitado-cpmi-do-inss
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

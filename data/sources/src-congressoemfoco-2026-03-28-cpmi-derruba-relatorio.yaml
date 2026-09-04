@@ -1,0 +1,21 @@
+id: src-congressoemfoco-2026-03-28-cpmi-derruba-relatorio
+kind: source
+title: CPMI do INSS derruba relatório de Alfredo Gaspar por 19 a 12
+publisher: Congresso em Foco
+publication_date: '2026-03-28'
+retrieved_at: '2026-09-03'
+url: https://www.congressoemfoco.com.br/noticia/117666/cpmi-do-inss-derruba-relatorio-de-alfredo-gaspar-por-19-a-12
+source_type: press
+summary: O texto pedia o indiciamento de 216 pessoas. Após a rejeição, o presidente encerrou os trabalhos
+  sem acolher o relatório paralelo, e a comissão terminou sem documento oficial. A reunião durou 17 horas;
+  os trabalhos se encerraram por determinação do STF, que barrou a prorrogação.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

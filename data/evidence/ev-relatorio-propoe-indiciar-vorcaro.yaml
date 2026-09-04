@@ -1,0 +1,19 @@
+id: ev-relatorio-propoe-indiciar-vorcaro
+kind: evidence
+classification: D
+proposition: O relatório rejeitado propunha indiciar Daniel Vorcaro por organização criminosa, falsidade
+  ideológica, participação na inserção de dados falsos em sistema de informática, furto qualificado mediante
+  fraude, estelionato eletrônico e previdenciário, gestão fraudulenta e temerária, crime contra a economia
+  popular e lavagem de dinheiro. Por ser proposta vencida, não produz efeito.
+document_ids:
+- doc-2026-03-27-relatorio-final-rejeitado-cpmi-do-inss
+source_ids:
+- src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
+- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+excerpt: esta CPMI indicia Daniel Vorcaro pelos seguintes crimes
+date: '2026-03-27'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

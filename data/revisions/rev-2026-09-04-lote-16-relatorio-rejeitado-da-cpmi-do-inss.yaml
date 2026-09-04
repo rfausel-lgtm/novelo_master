@@ -1,0 +1,30 @@
+id: rev-2026-09-04-lote-16-relatorio-rejeitado-da-cpmi-do-inss
+kind: revision
+date: '2026-09-03'
+summary: 'Lote 16: o relatório final da CPMI do INSS e sua rejeição. O texto do relator, de 4.340 páginas,
+  foi lido em 27/03/2026 e rejeitado por 19 votos a 12 na madrugada seguinte; a comissão encerrou sem
+  relatório aprovado. O documento dedica seção própria ao Banco Master, propõe indiciar Daniel Vorcaro
+  e Augusto Ferreira Lima por oito crimes cada, reúne dados de auditoria da CGU (documentação contratual
+  ausente em 84,3% das operações entre outubro de 2021 e abril de 2023; 62,5% das averbações com score
+  biométrico insuficiente), registra a suspensão do acordo com o INSS em outubro de 2025 e o bloqueio
+  de cerca de R$ 2 bilhões, e recomenda exames sobre contratos e relações envolvendo integrantes e familiares
+  do STF. Todo registro traz o enquadramento: proposta vencida, sem efeito institucional, e o próprio
+  texto reconhece que os elementos sobre o STF vêm sobretudo de debates da comissão e da imprensa.'
+added:
+  people: 2
+  organizations: 0
+  events: 2
+  documents: 1
+  relationships: 3
+  sources: 4
+  evidence: 8
+updated_relationships: 0
+corrections:
+- 'O documento é a proposta do relator, não conclusão da CPMI: foi rejeitado por 19 a 12 e a comissão
+  terminou sem relatório aprovado.'
+author: orquestrador
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

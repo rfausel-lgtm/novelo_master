@@ -7,6 +7,14 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 16 do corpus: o relatório final apresentado à CPMI do INSS, de 4.340 páginas, e sua rejeição por
+  19 votos a 12 na madrugada de 28/03/2026, com a comissão encerrando sem relatório aprovado. O texto
+  dedica seção própria ao Banco Master, propõe indiciar Daniel Vorcaro e Augusto Ferreira Lima por oito
+  crimes cada, reúne auditoria da CGU (documentação contratual ausente em 84,3% das operações entre
+  outubro de 2021 e abril de 2023; 62,5% das averbações com score biométrico insuficiente), registra a
+  suspensão do acordo com o INSS em outubro de 2025 e o bloqueio de cerca de R$ 2 bilhões, e recomenda
+  exames sobre contratos e relações envolvendo integrantes e familiares do STF. Todos os registros
+  trazem o enquadramento de proposta vencida, sem efeito institucional.
 - Lote 15 do corpus, quanto o banco pagou e a quem: R$ 304,5 milhões a advogados e escritórios em 2025,
   distribuídos entre ao menos 98 bancas, com o escritório Barci de Moraes no topo (R$ 40,1 milhões só
   naquele ano); R$ 25,8 milhões em consultorias ligadas a três ex-presidentes do Banco Central; o

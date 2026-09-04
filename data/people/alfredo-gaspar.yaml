@@ -1,0 +1,30 @@
+id: alfredo-gaspar
+kind: person
+name: Alfredo Gaspar
+category: politician
+role: Deputado federal; relator da CPMI do INSS
+positions:
+- title: Deputado federal
+  organization_id: camara-dos-deputados
+  source_ids:
+  - src-camara-2026-03-28-cpmi-do-inss-encerra-sem-aprovacao
+summary: Relator da CPMI do INSS. Apresentou em 27/03/2026 relatório final de 4.340 páginas, que propunha
+  o indiciamento de 216 pessoas, entre elas Daniel Vorcaro e Augusto Ferreira Lima, e recomendava exames
+  sobre contratos e relações envolvendo integrantes do STF. O texto foi rejeitado pela comissão por 19
+  votos a 12.
+why_in_novelo: Redigiu o relatório da CPMI do INSS que dedica capítulo ao Banco Master e propõe indiciamentos;
+  o texto foi rejeitado.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O corpus não registra manifestação do relator após a rejeição.
+source_ids:
+- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+- src-camara-2026-03-28-cpmi-do-inss-encerra-sem-aprovacao
+- src-congressoemfoco-2026-03-28-cpmi-derruba-relatorio
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

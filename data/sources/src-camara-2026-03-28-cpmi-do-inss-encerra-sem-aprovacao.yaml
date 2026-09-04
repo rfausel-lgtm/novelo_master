@@ -1,0 +1,22 @@
+id: src-camara-2026-03-28-cpmi-do-inss-encerra-sem-aprovacao
+kind: source
+title: CPMI do INSS encerra os trabalhos sem aprovação de relatório final
+publisher: Agência Câmara
+publication_date: '2026-03-28'
+retrieved_at: '2026-09-03'
+url: https://www.camara.leg.br/noticias/1258866-cpmi-do-inss-encerra-os-trabalhos-sem-aprovacao-de-relatorio-final/
+source_type: official_legislative
+summary: Por 19 votos a 12, a CPMI rejeitou o relatório na madrugada de 28/03, último dia de funcionamento.
+  Com mais de 4 mil páginas, o texto concluía haver núcleos técnico, administrativo, financeiro, empresarial
+  e político na movimentação de bilhões de reais por meio de descontos não autorizados de aposentadorias
+  e pensões.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

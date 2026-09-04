@@ -1,0 +1,32 @@
+id: doc-2026-03-27-relatorio-final-rejeitado-cpmi-do-inss
+kind: document
+title: Relatório final apresentado à CPMI do INSS pelo relator (rejeitado)
+doc_type: legislative_act
+date: '2026-03-27'
+source_ids:
+- src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
+- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+- src-camara-2026-03-28-cpmi-do-inss-encerra-sem-aprovacao
+summary: Peça de 4.340 páginas lida em 27/03/2026 e REJEITADA pela comissão por 19 votos a 12 na madrugada
+  de 28/03; a CPMI encerrou sem relatório aprovado. O texto propunha o indiciamento de 216 pessoas e dedica
+  a seção 8.3.9 ao Banco Master, os itens 10.3.3.2 e 10.3.3.3 a Daniel Vorcaro e Augusto Ferreira Lima,
+  e a seção 12.3 a recomendações sobre integrantes e familiares do STF. Sendo proposta vencida, seus indiciamentos
+  e recomendações não têm efeito institucional.
+is_official: true
+related_entity_ids:
+- cpmi-do-inss
+- banco-master
+- daniel-vorcaro
+- augusto-lima
+- viviane-barci-de-moraes
+- dias-toffoli
+- fabiano-zettel
+issuer_id: cpmi-do-inss
+issuer: Deputado Alfredo Gaspar, relator da CPMI do INSS
+url: https://www.poder360.com.br/poder-congresso/leia-a-integra-do-relatorio-final-da-cpmi-do-inss/
+reference: CPMI do INSS, instituída pelo Requerimento nº 7, de 2025 — relatório do relator, rejeitado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,23 @@
+id: src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+kind: source
+title: CPMI do INSS termina sem relatório final
+publisher: Agência Senado
+publication_date: '2026-03-28'
+retrieved_at: '2026-09-03'
+url: https://www12.senado.leg.br/noticias/materias/2026/03/28/cpmi-do-inss-termina-sem-relatorio-final
+source_type: official_legislative
+summary: 'Depois de sete meses, a CPMI do INSS terminou sem relatório final: o parecer do deputado Alfredo
+  Gaspar foi rejeitado por 19 votos a 12. O presidente da comissão, senador Carlos Viana, encerrou os
+  trabalhos e não acatou a questão de ordem para apreciação do relatório alternativo, nem indicou relator
+  para o texto da base governista. Viana anunciou que cópias do relatório rejeitado seriam encaminhadas
+  a instituições como o Ministério Público Federal e o Supremo Tribunal Federal.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

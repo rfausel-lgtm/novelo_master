@@ -1,0 +1,37 @@
+id: rel-cpmi-do-inss-daniel-vorcaro-allegation
+kind: relationship
+from_id: cpmi-do-inss
+to_id: daniel-vorcaro
+relationship_type: investigative_allegation
+directed: true
+label: indiciamento proposto no relatório rejeitado
+start_date: '2026-03-27'
+description: O relatório do relator propunha indiciar o banqueiro por oito crimes, entre eles organização
+  criminosa e lavagem de dinheiro, por condutas ligadas ao consignado do INSS. A comissão rejeitou o texto
+  por 19 a 12, de modo que a proposta não se tornou ato da CPMI e não produz efeito.
+evidence_class: A
+confidence: 0.3
+status: disputed
+event_ids:
+- evt-2026-03-27-leitura-do-relatorio-da-cpmi-do-inss
+- evt-2026-03-28-cpmi-do-inss-rejeita-o-relatorio
+evidence_ids:
+- ev-relatorio-propoe-indiciar-vorcaro
+- ev-cpmi-do-inss-rejeita-relatorio-19-a-12
+source_ids:
+- src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
+- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+- src-camara-2026-03-28-cpmi-do-inss-encerra-sem-aprovacao
+document_ids:
+- doc-2026-03-27-relatorio-final-rejeitado-cpmi-do-inss
+cited_position:
+- kind: not_located
+  summary: O corpus não registra manifestação da defesa sobre o relatório rejeitado da CPMI do INSS.
+  source_ids:
+  - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
+  by_id: daniel-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
