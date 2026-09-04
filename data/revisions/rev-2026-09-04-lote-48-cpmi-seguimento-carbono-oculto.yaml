@@ -1,0 +1,26 @@
+id: rev-2026-09-04-lote-48-cpmi-seguimento-carbono-oculto
+kind: revision
+date: '2026-09-03'
+title: 'Lote 48: o rastro da CPMI do INSS e os limites da conexão com a Carbono Oculto'
+summary: 'Pesquisa conduzida por dois agentes convocados em paralelo. Parte A: após o encerramento sem
+  relatório aprovado (28/03/2026), a CPMI do INSS teve dois textos rejeitados encaminhados informalmente
+  a PF, CGU, PGR e STF em abril de 2026, e um vazamento de dados sigilosos de Vorcaro (incluindo conversas
+  privadas) foi rastreado pela PF ao próprio material disponibilizado à comissão. Parte B: apura a relação
+  entre a Operação Carbono Oculto (PCC) e o caso Master — a Justiça já negou formalmente, em dezembro
+  de 2025, que exista conexão processual envolvendo Vorcaro; a sobreposição real é indireta, via a gestora
+  Reag (que recebeu R$ 3,6 bilhões em repasses do Master e também foi alvo da Carbono Oculto) e a Trustee
+  (custodiante comum de fundos bloqueados na operação). Registra-se essa distinção com cuidado para não
+  superdimensionar a ligação entre os dois casos.'
+affected_ids:
+- cpmi-do-inss
+- fabiano-zettel
+- reag-investimentos
+- trustee-dtvm
+- daniel-vorcaro
+reason: Desdobramentos institucionais da CPMI e delimitação da conexão com a Carbono Oculto, identificados
+  por pesquisa paralela.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

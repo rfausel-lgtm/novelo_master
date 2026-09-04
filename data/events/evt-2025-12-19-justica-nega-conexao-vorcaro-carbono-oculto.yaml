@@ -1,0 +1,28 @@
+id: evt-2025-12-19-justica-nega-conexao-vorcaro-carbono-oculto
+kind: event
+title: Justiça nega pedido de Vorcaro para levar Carbono Oculto ao STF por suposta conexão com o Master
+event_type: judicial_decision
+date: '2025-12-19'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- banco-master
+description: 'O juiz Sandro Nogueira Leite negou o pedido de Vorcaro para que as investigações da Operação
+  Carbono Oculto (PCC) e da Operação Quasar fossem remetidas ao STF por conexão com o caso Master, afastando
+  expressamente essa conexão ''por agora''. É um registro relevante para não superdimensionar a ligação
+  entre os dois casos: a Carbono Oculto é, em seu núcleo, investigação distinta, sobre fraude de combustíveis
+  e lavagem ligada ao PCC — a sobreposição real com o ecossistema Master ocorre por vias indiretas, via
+  gestoras de nicho como a Reag e a Trustee, não por identidade entre os dois esquemas.'
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-justica-nega-conexao-vorcaro-carbono-oculto
+source_ids:
+- src-otempo-2026-01-10-justica-nega-conexao-vorcaro-carbono-oculto
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

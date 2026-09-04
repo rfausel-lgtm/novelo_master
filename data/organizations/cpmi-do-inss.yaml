@@ -7,7 +7,11 @@ summary: 'Comissão Parlamentar Mista de Inquérito do Congresso Nacional que in
   Decretou quebras de sigilo de Daniel Vorcaro; em 20/02/2026 o STF determinou a devolução à comissão
   dos dados obtidos por essas quebras. Encerrou os trabalhos em 28/03/2026 sem relatório final aprovado:
   o texto do relator, de 4.340 páginas, foi rejeitado por 19 votos a 12, e o presidente anunciou o envio
-  de cópias ao MPF e ao STF.'
+  de cópias ao MPF e ao STF. Após o encerramento, o texto rejeitado do relator (216 indiciamentos propostos)
+  foi entregue pelo presidente Carlos Viana aos ministros do STF Luiz Fux e André Mendonça em 16/04/2026,
+  para anexação ao inquérito já em curso na Corte; separadamente, um relatório paralelo da base governista,
+  nunca votado, foi entregue a PF, CGU e PGR em 07/04/2026. Em julho de 2026, a PF concluiu que um vazamento
+  de dados sigilosos de Vorcaro teve origem no próprio material disponibilizado à comissão.'
 why_in_novelo: Decretou quebras de sigilo de Daniel Vorcaro cujos dados foram objeto de decisões do STF.
 cited_position:
 - kind: not_located
@@ -22,6 +26,9 @@ source_ids:
 - src-camara-2026-03-28-cpmi-do-inss-encerra-sem-aprovacao
 - src-congressoemfoco-2026-03-28-cpmi-derruba-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
+- src-correiobraziliense-2026-04-07-relatorio-paralelo-cpmi
+- src-cnnbrasil-2026-04-16-viana-entrega-relatorio-fux-mendonca
+- src-bpmoney-2026-07-07-vazamento-vorcaro-cpmi-sala-cofre
 full_name: Comissão Parlamentar Mista de Inquérito do INSS
 review_status: published
 reviewer: orquestrador

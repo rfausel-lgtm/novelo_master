@@ -4,7 +4,9 @@ name: Fabiano Zettel
 category: businessperson
 role: Empresário; descrito pelo STF como cunhado de Daniel Vorcaro
 summary: Teve prisão preventiva decretada pelo STF em 04/03/2026 (PET 15556), mantida pela Segunda Turma
-  em 20/03/2026, que o descreve como cunhado do banqueiro.
+  em 20/03/2026, que o descreve como cunhado do banqueiro. O relatório paralelo da CPMI do INSS (base
+  governista), entregue a PF, CGU e PGR em 07/04/2026, o aponta como o maior doador individual em campanhas
+  de 2022 — R$ 2 milhões a Jair Bolsonaro e R$ 3 milhões a Tarcísio de Freitas.
 why_in_novelo: Teve prisão preventiva decretada e mantida pelo STF na Operação Compliance Zero; comunicações
   oficiais do tribunal o descrevem como cunhado de Daniel Vorcaro.
 cited_position:
@@ -18,6 +20,7 @@ source_ids:
 - src-gazeta-2026-02-14-vorcaro-cobrado-resort
 - src-oeste-2026-01-29-projeto-eolico-faria
 - src-metropoles-2026-06-produtora-dark-horse-75-milhoes
+- src-correiobraziliense-2026-04-07-relatorio-paralelo-cpmi
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

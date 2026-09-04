@@ -25,11 +25,16 @@ cited_position:
 open_questions:
 - O ato normativo do Banco Central com a motivação técnica detalhada da liquidação não foi localizado
   em fonte pública até a data desta atualização.
+- A Trustee era custodiante comum dos fundos Zeus FIDC e Gran Capital FIDC-NP, ambos atingidos por bloqueios
+  judiciais da Operação Carbono Oculto (investigação sobre PCC, distinta do caso Master) — mostrando que
+  a mesma gestora prestava serviço a fundos hoje sob suspeita nas duas investigações, sem que isso implique
+  identidade entre os esquemas.
 source_ids:
 - src-cnnbrasil-2026-09-03-bc-liquida-trustee-banvox
 - src-metropoles-2026-01-20-trustee-negocio-meio-bilhao-tanure
 - src-bpmoney-2026-trustee-banvox-negam-irregularidades
 - src-conjur-2026-07-17-pge-rj-cobra-master-rioprevidencia
+- src-seudinheiro-2026-05-28-carbono-oculto-trustee-elo
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

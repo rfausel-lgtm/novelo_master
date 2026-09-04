@@ -1,0 +1,22 @@
+id: src-cnnbrasil-2026-04-16-viana-entrega-relatorio-fux-mendonca
+kind: source
+title: CPMI do INSS entrega relatório a ministros do STF
+publisher: CNN Brasil
+publication_date: '2026-04-16'
+retrieved_at: '2026-09-03'
+url: https://www.cnnbrasil.com.br/politica/cpmi-do-inss-entrega-relatorio-a-ministros-do-stf/
+source_type: press
+summary: Registra que o senador Carlos Viana entregou, em 16/04/2026, o texto do relator Alfredo Gaspar
+  (rejeitado pelo colegiado, com proposta de 216 indiciamentos) aos ministros do STF Luiz Fux e André
+  Mendonça. Segundo Viana, Mendonça informou que o material seria anexado ao inquérito já em curso na
+  Corte.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

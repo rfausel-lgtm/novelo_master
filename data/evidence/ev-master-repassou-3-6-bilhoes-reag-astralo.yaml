@@ -1,0 +1,17 @@
+id: ev-master-repassou-3-6-bilhoes-reag-astralo
+kind: evidence
+classification: C
+proposition: O Banco Master repassou pelo menos R$ 3,6 bilhões em créditos de dívidas (112 operações)
+  à gestora Reag, incluindo R$ 357 milhões ao fundo Astralo 95. A Reag, liquidada pelo BC em 15/01/2026
+  por fraude com o Master, também foi alvo direto da Operação Carbono Oculto (PCC), com seu fundador João
+  Carlos Mansur acusado de dinâmica fraudulenta e ocultação de recursos de origem desconhecida.
+document_ids: []
+source_ids:
+- src-metropoles-2026-master-repassou-3-6-bilhoes-reag
+- src-cnnbrasil-2026-reag-liquidada-alvo-megaoperacao-pcc
+date: '2026'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

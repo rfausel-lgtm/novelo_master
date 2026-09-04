@@ -7,6 +7,14 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 48 do corpus: dois desdobramentos investigados em paralelo. O rastro da CPMI do INSS após seu
+  encerramento sem relatório aprovado — dois textos rejeitados foram entregues informalmente a PF, CGU,
+  PGR e aos ministros Fux e Mendonça (STF) em abril de 2026, e um vazamento de dados sigilosos de Vorcaro
+  (incluindo conversas privadas) foi rastreado pela PF ao próprio material da comissão. E os limites da
+  conexão entre a Operação Carbono Oculto (PCC) e o caso Master: a Justiça já negou formalmente, em
+  dezembro de 2025, qualquer conexão processual envolvendo Vorcaro; a sobreposição real é indireta, via a
+  gestora Reag (R$ 3,6 bilhões em repasses do Master, também alvo da Carbono Oculto) e a Trustee
+  (custodiante comum de fundos bloqueados na operação).
 - Lote 47 do corpus: o "efeito bumerangue" de Nikolas Ferreira. Mensagens do próprio celular de Vorcaro
   revelam que o banqueiro financiou voos da campanha de Nikolas em 2022 no Nordeste, e que o deputado o
   procurou em 2025 para intermediar a liberação de um ativo mineral de interesse de seu ex-assessor

@@ -1,0 +1,19 @@
+id: ev-vazamento-dados-vorcaro-rastreado-cpmi
+kind: evidence
+classification: A
+proposition: Relatório da PF conclui, com 'elevado grau de certeza técnica', que vazamentos de dados sigilosos
+  de Daniel Vorcaro — incluindo conversas privadas com Martha Graeff — têm origem no material que havia
+  sido disponibilizado à CPMI do INSS. A PF pretendia requerer ao ministro Mendonça imagens do circuito
+  de segurança do Congresso e registros de acesso à 'sala-cofre' onde o material sigiloso ficava guardado.
+document_ids: []
+source_ids:
+- src-bpmoney-2026-07-07-vazamento-vorcaro-cpmi-sala-cofre
+excerpt: É possível afirmar, com elevado grau de certeza técnica, que os vazamentos tiveram origem no
+  material filtrado e posteriormente disponibilizado à CPMI do INSS.
+attributed_to: BPMoney, com base em relatório da PF
+date: '2026-07-07'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

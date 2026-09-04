@@ -1,0 +1,28 @@
+id: evt-2026-07-07-vazamento-dados-vorcaro-rastreado-cpmi
+kind: event
+title: PF rastreia à CPMI do INSS vazamento de dados sigilosos de Vorcaro
+event_type: investigation_step
+date: '2026-07-07'
+date_precision: day
+participant_ids:
+- policia-federal
+- cpmi-do-inss
+- daniel-vorcaro
+description: A Polícia Federal concluiu, com 'elevado grau de certeza técnica', que vazamentos de dados
+  sigilosos de Daniel Vorcaro — incluindo conversas privadas com Martha Graeff — têm origem no material
+  que havia sido disponibilizado à CPMI do INSS. O responsável não havia sido identificado até a data
+  da reportagem; a PF pretendia requerer ao ministro Mendonça imagens do circuito de segurança do Congresso
+  e registros de acesso à 'sala-cofre' onde o material ficava guardado.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-vazamento-dados-vorcaro-rastreado-cpmi
+source_ids:
+- src-bpmoney-2026-07-07-vazamento-vorcaro-cpmi-sala-cofre
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -48,6 +48,10 @@ open_questions:
   a uma empresa de táxi aéreo de San Marino em dezembro de 2025, antes do bloqueio patrimonial; outra
   (InfoMoney, decisão de 23/03/2026) inclui o mesmo modelo na lista oficial de bens sob indisponibilidade.
   Não localizamos fonte que reconcilie as duas versões.'
+- Vorcaro tentou, sem sucesso, levar as investigações da Operação Carbono Oculto (PCC) e da Operação Quasar
+  ao STF por suposta conexão com o caso Master; a Justiça negou o pedido em 19/12/2025, afastando expressamente
+  essa conexão. A sobreposição real entre os dois casos é indireta, via gestoras de nicho (Reag, Trustee),
+  não identidade entre os esquemas.
 source_ids:
 - src-stf-2026-03-04-prisao-preventiva-vorcaro
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
@@ -62,6 +66,7 @@ source_ids:
 - src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
 - src-infomoney-2026-03-18-liminar-bloqueio-bens
 - src-infomoney-2026-03-23-cerco-patrimonio-familiares
+- src-otempo-2026-01-10-justica-nega-conexao-vorcaro-carbono-oculto
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published

@@ -1,0 +1,29 @@
+id: evt-2026-04-07-relatorio-paralelo-cpmi-pf-cgu-pgr
+kind: event
+title: Base governista entrega relatório paralelo da CPMI do INSS a PF, CGU e PGR
+event_type: public_act
+date: '2026-04-07'
+date_precision: day
+participant_ids:
+- cpmi-do-inss
+- daniel-vorcaro
+- fabiano-zettel
+- banco-master
+description: Parlamentares da base governista na CPMI do INSS entregaram à Polícia Federal, à CGU e à
+  PGR o relatório alternativo que nunca chegou a ser votado pelo colegiado — texto distinto do relatório
+  do relator Alfredo Gaspar, rejeitado em 28/03/2026. O documento identifica Daniel Vorcaro como 'dono
+  do Banco Master' e aponta Fabiano Zettel, cunhado do banqueiro, como o maior doador individual em campanhas
+  de 2022, com R$ 2 milhões a Jair Bolsonaro e R$ 3 milhões a Tarcísio de Freitas.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-relatorio-paralelo-identifica-vorcaro-zettel-doador
+source_ids:
+- src-correiobraziliense-2026-04-07-relatorio-paralelo-cpmi
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

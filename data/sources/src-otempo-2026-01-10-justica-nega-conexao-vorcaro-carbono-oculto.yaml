@@ -1,0 +1,22 @@
+id: src-otempo-2026-01-10-justica-nega-conexao-vorcaro-carbono-oculto
+kind: source
+title: Daniel Vorcaro pediu para Operação Carbono Oculto ir para o STF, mas Justiça negou
+publisher: O Tempo
+publication_date: '2026-01-10'
+retrieved_at: '2026-09-03'
+url: https://www.otempo.com.br/economia/2026/1/10/daniel-vorcaro-pediu-para-operacao-carbono-oculto-ir-para-o-stf-mas-justica-negou
+source_type: press
+summary: Registra que Vorcaro pediu a remessa das investigações da Carbono Oculto e da Operação Quasar
+  ao STF, alegando conexão com o caso Master. O juiz Sandro Nogueira Leite negou o pedido em 19/12/2025,
+  escrevendo que 'ao menos por agora, não há notícia de conexão do peticionário e Banco Master com a investigação';
+  o MP indicou que a operação mirava 'outros personagens'.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

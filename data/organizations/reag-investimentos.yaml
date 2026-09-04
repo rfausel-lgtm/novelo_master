@@ -11,7 +11,10 @@ summary: 'Gestora/administradora fundada em 2012 por João Carlos Mansur, que a 
   do BC nº 1.375/2026, de 15/01/2026, assinado por Gabriel Galípolo, por comprometimento econômico-financeiro
   e graves infrações às normas do SFN — liquidante: APS Serviços Especializados de Apoio Administrativo
   Ltda. O próprio ato registra que a CBSF DTVM é pessoa jurídica distinta da REAG IP S.A. (Instituição
-  de Pagamento), não abrangida pela medida.'
+  de Pagamento), não abrangida pela medida. Segundo a imprensa, o Master repassou pelo menos R$ 3,6 bilhões
+  em créditos de dívidas (112 operações) à Reag, incluindo R$ 357 milhões ao fundo Astralo 95. A Reag
+  também foi alvo direto da Operação Carbono Oculto (investigação sobre fraude de combustíveis e lavagem
+  ligada ao PCC), com o fundador João Carlos Mansur acusado de dinâmica fraudulenta e ocultação de recursos.'
 why_in_novelo: Administradora de fundos citada pelo Banco Central em operações irregulares com o Banco
   Master e liquidada em 2026, segundo a imprensa.
 cited_position:
@@ -22,6 +25,8 @@ source_ids:
 - src-migalhas-2026-02-03-liquidacao-reag-will
 - src-gazeta-2026-01-15-liquidacao-reag-cbsf
 - src-cbsf-2026-01-15-comunicado-ato-1375
+- src-metropoles-2026-master-repassou-3-6-bilhoes-reag
+- src-cnnbrasil-2026-reag-liquidada-alvo-megaoperacao-pcc
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
