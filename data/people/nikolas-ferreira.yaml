@@ -6,14 +6,29 @@ role: Deputado federal (PL-MG)
 positions: []
 summary: Deputado federal pelo PL de Minas Gerais. Em 03-04/09/2026, em meio à crise institucional aberta
   pela divulgação de mensagens entre Vorcaro e o contato salvo como Alexandre de Moraes, declarou publicamente
-  que André Mendonça 'tem que dar voz de prisão a Moraes em plenário'.
+  que André Mendonça 'tem que dar voz de prisão a Moraes em plenário'. Mensagens do mesmo celular de Vorcaro
+  revelaram, em 03/09/2026, que o banqueiro financiou voos da campanha de Nikolas em 2022 no Nordeste,
+  e que o deputado o procurou em 2025 para intermediar a liberação de um ativo mineral de interesse de
+  seu ex-assessor Thiago Rodrigues de Faria. Nikolas confirma a ajuda logística de 2022, mas nega relação
+  pessoal com o banqueiro. Deputados do PT pediram à PGR a investigação de ambos e de Thiago Rodrigues
+  de Faria.
 why_in_novelo: Fez declaração pública de repercussão na crise institucional do STF em torno do caso Master.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: Nega relação pessoal com Vorcaro; afirma que, em 2022, não havia suspeitas públicas sobre o
+    nome do banqueiro.
+  source_ids:
+  - src-otempo-2026-09-03-nikolas-admite-voos-nega-relacao
+  by_id: nikolas-ferreira
+  date: '2026-09-03'
 open_questions: []
 source_ids:
 - src-poder360-2026-09-04-nikolas-voz-de-prisao
+- src-brasilemfolhas-2026-09-nikolas-ativo-mineral
+- src-revistaforum-2026-09-vorcaro-bancou-voos-nikolas
+- src-otempo-2026-09-03-nikolas-admite-voos-nega-relacao
+- src-jornalggn-2026-09-nikolas-admite-ajuda-tenta-minimizar
+- src-poder360-2026-09-03-pt-pede-investigacao-nikolas-vorcaro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

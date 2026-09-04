@@ -7,6 +7,12 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 47 do corpus: o "efeito bumerangue" de Nikolas Ferreira. Mensagens do próprio celular de Vorcaro
+  revelam que o banqueiro financiou voos da campanha de Nikolas em 2022 no Nordeste, e que o deputado o
+  procurou em 2025 para intermediar a liberação de um ativo mineral de interesse de seu ex-assessor
+  Thiago Rodrigues de Faria — e que, em 2024, Vorcaro mobilizou interlocutores para conter uma crítica
+  pública de Nikolas a um evento em Londres patrocinado pelo Master. Nikolas confirma a ajuda logística
+  mas nega relação pessoal. Deputados do PT pedem investigação de ambos e do ex-assessor na PGR.
 - Lote 46 do corpus: quem controla a Trustee DTVM e a Banvox DTVM, liquidadas pelo BC em 03/09/2026 —
   Maurício Quadrado, ex-diretor de investimentos do Master sob Vorcaro, que vendeu sua fatia em 2024 e
   hoje controla as duas gestoras. Registra a fiança solidária de Vorcaro em R$ 470,5 milhões de debêntures

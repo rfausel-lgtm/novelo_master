@@ -1,0 +1,49 @@
+id: evt-2026-09-03-nikolas-vorcaro-mensagens-reveladas
+kind: event
+title: Mensagens revelam pedidos de Nikolas Ferreira a Vorcaro e financiamento de voos da campanha de
+  2022
+event_type: publication
+date: '2026-09-03'
+date_precision: day
+participant_ids:
+- nikolas-ferreira
+- daniel-vorcaro
+- thiago-rodrigues-de-faria
+description: 'Na esteira da crise institucional aberta pelas mensagens entre Vorcaro e o contato salvo
+  como ''Alexandre de Moraes'', vieram à tona outras mensagens do mesmo celular envolvendo o deputado
+  Nikolas Ferreira: um pedido, em março de 2025, para que Vorcaro ajudasse a liberar um ativo mineral
+  de interesse de seu ex-assessor Thiago Rodrigues de Faria; e uma mensagem de abril de 2024 em que Vorcaro
+  afirma ter bancado ''todos os voos'' de Nikolas na campanha presidencial de 2022 no Nordeste. As mesmas
+  mensagens mostram que, em abril de 2024, Nikolas havia criticado publicamente um evento em Londres patrocinado
+  pelo Master, levando Vorcaro a mobilizar interlocutores para conter o deputado. Nikolas confirma a ajuda
+  logística de 2022, mas nega relação pessoal com o banqueiro. Deputados do PT pediram à PGR, no mesmo
+  dia, a investigação de Nikolas, Vorcaro e Thiago Rodrigues de Faria.'
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-nikolas-pede-liberacao-ativo-mineral
+- ev-vorcaro-bancou-voos-nikolas-2022
+- ev-nikolas-criticou-evento-londres-vorcaro-conteve
+- ev-pt-pede-investigacao-nikolas-vorcaro-thiago
+source_ids:
+- src-brasilemfolhas-2026-09-nikolas-ativo-mineral
+- src-revistaforum-2026-09-vorcaro-bancou-voos-nikolas
+- src-otempo-2026-09-03-nikolas-admite-voos-nega-relacao
+- src-jornalggn-2026-09-nikolas-admite-ajuda-tenta-minimizar
+- src-poder360-2026-09-03-pt-pede-investigacao-nikolas-vorcaro
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: Nikolas Ferreira nega relação pessoal com Vorcaro, afirmando que, à época dos voos de 2022,
+    não havia suspeitas públicas sobre o nome do banqueiro, e que o contato partiu de intermediação do
+    pastor André Valadão.
+  source_ids:
+  - src-otempo-2026-09-03-nikolas-admite-voos-nega-relacao
+  by_id: nikolas-ferreira
+  date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

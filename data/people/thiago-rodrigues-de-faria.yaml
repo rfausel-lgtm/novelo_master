@@ -1,0 +1,23 @@
+id: thiago-rodrigues-de-faria
+kind: person
+name: Thiago Rodrigues de Faria
+category: other
+role: Ex-assessor e advogado do deputado Nikolas Ferreira
+positions: []
+summary: Ex-assessor e advogado de Nikolas Ferreira. Em março de 2025, teve um pedido de liberação de
+  ativo mineral encaminhado por Nikolas a Daniel Vorcaro, que se dispôs a intermediar o contato. É um
+  dos alvos do pedido de investigação apresentado à PGR pelos deputados do PT em 03/09/2026.
+why_in_novelo: Citado nas mensagens entre Nikolas Ferreira e Daniel Vorcaro reveladas na crise institucional
+  de setembro de 2026, e nomeado no pedido de investigação apresentado à PGR.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-brasilemfolhas-2026-09-nikolas-ativo-mineral
+- src-poder360-2026-09-03-pt-pede-investigacao-nikolas-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,35 @@
+id: rel-nikolas-ferreira-daniel-vorcaro-allegation
+kind: relationship
+from_id: nikolas-ferreira
+to_id: daniel-vorcaro
+relationship_type: financial
+directed: false
+label: voos de campanha bancados; pedidos de intermediação
+start_date: '2022'
+description: Segundo mensagens do celular de Vorcaro, o banqueiro financiou voos da campanha de Nikolas
+  Ferreira em 2022 e foi procurado por ele, em 2025, para intermediar a liberação de um ativo mineral
+  de interesse de um ex-assessor. Nikolas confirma a ajuda logística de 2022, mas nega relação pessoal.
+evidence_class: C
+confidence: 0.6
+status: unverified
+event_ids:
+- evt-2026-09-03-nikolas-vorcaro-mensagens-reveladas
+evidence_ids:
+- ev-vorcaro-bancou-voos-nikolas-2022
+- ev-nikolas-pede-liberacao-ativo-mineral
+source_ids:
+- src-revistaforum-2026-09-vorcaro-bancou-voos-nikolas
+- src-brasilemfolhas-2026-09-nikolas-ativo-mineral
+document_ids: []
+cited_position:
+- kind: denial
+  summary: Nikolas Ferreira nega relação pessoal com Vorcaro.
+  source_ids:
+  - src-otempo-2026-09-03-nikolas-admite-voos-nega-relacao
+  by_id: nikolas-ferreira
+  date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
