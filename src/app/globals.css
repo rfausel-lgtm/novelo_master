@@ -258,3 +258,16 @@ body {
     opacity: 0.3;
   }
 }
+
+/* Tile do OpenStreetMap é claro por natureza: no tema escuro, ofusca sem este ajuste. */
+.minimapa {
+  filter: brightness(0.82) saturate(0.85) contrast(1.06);
+}
+:root[data-theme="light"] .minimapa {
+  filter: none;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .minimapa {
+    filter: none;
+  }
+}
