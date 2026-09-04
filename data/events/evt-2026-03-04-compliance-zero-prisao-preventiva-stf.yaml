@@ -10,10 +10,13 @@ participant_ids:
 - policia-federal
 - daniel-vorcaro
 - fabiano-zettel
+- paulo-sergio-neves-de-souza
+- bellini-santana
 description: O ministro André Mendonça, relator da PET 15556, decretou a prisão preventiva de Daniel Vorcaro,
   Fabiano Zettel, Luiz Phillipi Machado de Moraes Mourão e Marilson Roseno da Silva, a pedido da PF, por
   'risco concreto de interferência nas investigações', e determinou a suspensão de empresas vinculadas
-  e cautelares a servidores do Banco Central. A defesa do banqueiro negou obstrução, segundo a CNN Brasil.
+  e cautelares aos servidores do Banco Central Paulo Sérgio Neves de Souza e Bellini Santana. A defesa
+  do banqueiro negou obstrução, segundo a CNN Brasil.
 evidence_class: D
 status: verified
 evidence_ids:

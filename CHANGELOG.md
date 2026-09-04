@@ -7,6 +7,12 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 19 do corpus: identifica os dois servidores do Banco Central que o corpus, desde o lote 2, registrava
+  apenas como 'cautelares a servidores do Banco Central' sem nomear — Paulo Sérgio Neves de Souza, ex-diretor
+  de Fiscalização, e Bellini Santana, ex-chefe-adjunto da Desup. Documenta o esquema de pagamento por
+  contrato fictício com a Varajo Consultoria Empresarial, operacionalizado por Fabiano Zettel e Ana Cláudia
+  Queiroz de Paiva, com base na decisão do STF de 04/03/2026 e em apuração da PF relatada pela imprensa.
+  É o fato concreto por trás do IPL 2026.0053200 mencionado no laudo do celular de Vorcaro (lote 17).
 - Lote 18 do corpus: seção 6.1 do IPJ-A 3298613/2026 (já extraído no lote 17) — o episódio da eleição do
   Conselho Nacional de Procuradores-Gerais (CNPG) em abril de 2024. Segundo o laudo, o advogado Ciro
   Soares relatou a Vorcaro ter pedido a Paulo Gonet que convencesse um concorrente a desistir da disputa

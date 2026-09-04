@@ -1,0 +1,21 @@
+id: varajo-consultoria-empresarial
+kind: organization
+name: Varajo Consultoria Empresarial
+aliases: []
+org_type: company
+summary: Empresa apontada, segundo apuração da PF citada pela imprensa, como veículo de contrato fictício
+  de consultoria usado para operacionalizar pagamentos a Paulo Sérgio Neves de Souza e a Bellini Santana,
+  servidores do Banco Central, descrevendo um estudo técnico inexistente sobre integração do mercado jovem.
+why_in_novelo: Entra no corpus como o instrumento contratual apontado para dissimular pagamentos a servidores
+  do Banco Central no esquema atribuído a Daniel Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-timesbrasil-2026-03-mensagens-belline-cobrando
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

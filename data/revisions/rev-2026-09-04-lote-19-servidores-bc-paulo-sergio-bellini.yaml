@@ -1,0 +1,23 @@
+id: rev-2026-09-04-lote-19-servidores-bc-paulo-sergio-bellini
+kind: revision
+date: '2026-09-03'
+title: 'Lote 19: os dois servidores do Banco Central com cautelares na 3ª fase'
+summary: 'O corpus já registrava, desde o lote 2, que a decisão de 04/03/2026 impôs ''cautelares a servidores
+  do Banco Central'' sem nomeá-los. Identificados e documentados: Paulo Sérgio Neves de Souza (ex-diretor
+  de Fiscalização, 1998-2023 de carreira) e Bellini Santana (ex-chefe-adjunto da Desup), com o esquema
+  de pagamento via contrato fictício com a Varajo Consultoria Empresarial, operacionalizado por Fabiano
+  Zettel e Ana Cláudia Queiroz de Paiva. É o fato concreto por trás do IPL 2026.0053200 (PET 15.504) mencionado
+  no IPJ-A 3298613/2026 (lote 17). Fonte de imprensa (Times Brasil); classificação A/D conforme o elemento
+  — as cautelares em si são D (decisão do STF), a autoria dos favores é A (apuração da PF relatada pela
+  imprensa, sem confissão).'
+affected_ids:
+- paulo-sergio-neves-de-souza
+- bellini-santana
+- evt-2026-03-04-compliance-zero-prisao-preventiva-stf
+- doc-2026-03-04-decisao-pet-15556-prisao-preventiva
+reason: Preenchimento de lacuna identificada no lote 17 (menção genérica a servidores do BC).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

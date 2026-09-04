@@ -1,0 +1,26 @@
+id: rel-varajo-consultoria-empresarial-paulo-sergio-neves-de-souza-contractual
+kind: relationship
+from_id: varajo-consultoria-empresarial
+to_id: paulo-sergio-neves-de-souza
+relationship_type: contractual
+directed: false
+label: contrato fictício apontado como veículo de pagamento
+start_date: '2026-03-04'
+description: Segundo apuração da PF citada pela imprensa, a Varajo Consultoria Empresarial teria sido
+  usada para formalizar contrato de consultoria com objeto fictício (estudo sobre integração do mercado
+  jovem), servindo de veículo para pagamentos aos dois servidores do Banco Central.
+evidence_class: A
+confidence: 0.4
+status: unverified
+event_ids:
+- evt-2026-03-04-cautelares-servidores-bc-paulo-sergio-bellini
+evidence_ids:
+- ev-favores-paulo-sergio-a-vorcaro
+source_ids:
+- src-timesbrasil-2026-03-mensagens-belline-cobrando
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
