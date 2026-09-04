@@ -30,6 +30,11 @@ import {
 /* Metadados                                                           */
 /* ------------------------------------------------------------------ */
 
+/** Muda quando o corpus muda, que é quando a imagem de compartilhamento muda. */
+function versaoDaImagem(): string {
+  return corpus.built_at.slice(0, 10).replace(/-/g, "");
+}
+
 export function pageMetadata(opts: { title: string; description: string; path: string; type?: "website" | "article" }): Metadata {
   const url = `${SITE.url}${opts.path}`;
   return {
@@ -47,7 +52,18 @@ export function pageMetadata(opts: { title: string; description: string; path: s
        * O Next não herda a imagem do segmento raiz quando a página declara seu próprio
        * openGraph; sem esta linha o link compartilhado de um dossiê vem sem prévia.
        */
-      images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: SITE.name }],
+      images: [
+        {
+          /*
+           * WhatsApp e Facebook guardam a prévia por URL. Sem a versão, uma imagem nova nunca
+           * chegaria a quem já compartilhou o link antes.
+           */
+          url: `/opengraph-image?v=${versaoDaImagem()}`,
+          width: 1200,
+          height: 630,
+          alt: SITE.name,
+        },
+      ],
     },
   };
 }
