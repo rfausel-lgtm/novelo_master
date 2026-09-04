@@ -91,6 +91,12 @@ export const PhotoSchema = z.object({
   original_url: z.string().url(),
   retrieved_at: PartialDateSchema,
   alt: z.string().min(1),
+  /*
+   * Onde está o rosto na imagem. O avatar é um recorte circular central; numa foto de cobertura a
+   * pessoa costuma estar de lado, e o recorte pegaria o vizinho. Ajusta o enquadramento sem alterar
+   * o arquivo, que continua sendo o original com a licença que a fonte declara.
+   */
+  focus: z.enum(["left", "center", "right", "top"]).default("center"),
 });
 export type Photo = z.infer<typeof PhotoSchema>;
 

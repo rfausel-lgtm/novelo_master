@@ -4,6 +4,13 @@ import { PERSON_CATEGORY_LABEL, ORG_TYPE_LABEL } from "@/lib/schema";
 import { initials } from "@/lib/format";
 import { Pill } from "./badges";
 
+const FOCO: Record<string, string> = {
+  left: "25% 30%",
+  center: "50% 30%",
+  right: "75% 30%",
+  top: "50% 12%",
+};
+
 export function Avatar({ entity, size = 64 }: { entity: Person | Organization; size?: number }) {
   /* Organização sem logo virava um quadrado cinza vazio, que se lê como imagem quebrada. */
   const label = initials(entity.name);
@@ -18,6 +25,7 @@ export function Avatar({ entity, size = 64 }: { entity: Person | Organization; s
           width={size}
           height={size}
           className={`border-border border ${isOrg ? "bg-bg-2 rounded-md object-contain p-1" : "rounded-full object-cover"}`}
+          style={isOrg ? undefined : { objectPosition: FOCO[entity.photo.focus] }}
         />
         <figcaption className="text-fg-3 mt-1 max-w-[7rem] text-[10px] leading-tight sm:max-w-[12rem]">
           {entity.photo.author} · {entity.photo.license} ·{" "}
