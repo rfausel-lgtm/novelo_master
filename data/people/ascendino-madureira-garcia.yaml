@@ -1,0 +1,32 @@
+id: ascendino-madureira-garcia
+kind: person
+name: Ascendino Madureira Garcia
+category: businessperson
+role: Operador financeiro; ex-funcionário da Foco DTVM e depois da Master Corretora
+positions: []
+summary: 'Conhecido como ''Dino''. Foi funcionário da Foco DTVM até 2018 e em seguida passou à Master
+  Corretora, atuando como operador de Daniel Vorcaro. É apontado como braço direito de Benjamim Botelho
+  de Almeida nos desvios apurados na Operação Fundo Fake, e foi denunciado em 2023 por gestão fraudulenta
+  e organização criminosa, sem julgamento até a data desta atualização. Foi também denunciado pela PGR
+  em 2021 no esquema de propina da Odebrecht, no âmbito da Lava Jato. Nega: afirma que a associação de
+  seu nome à investigação é ''indevida e baseada em um grande equívoco''; advogados de Vorcaro afirmam
+  que ele não exercia funções de gestão. É o vínculo pessoal documentado e datado entre a estrutura investigada
+  em Rondônia e o ecossistema Master.'
+why_in_novelo: Trabalhou sucessivamente nas duas estruturas — a distribuidora investigada em Rondônia
+  e a corretora do Banco Master —, sendo o elo pessoal mais concreto entre as duas frentes.
+cited_position:
+- kind: denial
+  summary: Afirma que a associação de seu nome à investigação é 'indevida e baseada em um grande equívoco'.
+  source_ids:
+  - src-oantagonista-2026-02-04-reincidencia-operador-tatico
+  date: '2026-02-04'
+open_questions: []
+source_ids:
+- src-oantagonista-2026-02-04-reincidencia-operador-tatico
+aliases:
+- Dino
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

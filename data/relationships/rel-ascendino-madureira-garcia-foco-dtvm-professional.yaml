@@ -1,0 +1,24 @@
+id: rel-ascendino-madureira-garcia-foco-dtvm-professional
+kind: relationship
+from_id: ascendino-madureira-garcia
+to_id: foco-dtvm
+relationship_type: professional
+directed: false
+label: funcionário até 2018
+end_date: '2018'
+description: Ascendino Madureira Garcia foi funcionário da Foco DTVM até 2018, sendo apontado como braço
+  direito de Benjamim Botelho de Almeida nos desvios apurados na Operação Fundo Fake.
+evidence_class: A
+confidence: 0.7
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-vorcaro-alvo-da-fundo-fake-e-mandado-de-2020
+source_ids:
+- src-oantagonista-2026-02-04-reincidencia-operador-tatico
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

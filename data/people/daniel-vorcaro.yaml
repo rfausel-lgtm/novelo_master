@@ -16,7 +16,11 @@ summary: 'Banqueiro, controlador do Banco Master. Foi preso na deflagração da 
   é objeto de apuração: declarava R$ 2,8 milhões à Receita Federal em 2015, dois anos antes de contratar
   a compra de 56,87% do Banco Máxima por R$ 40 milhões, dos quais apenas R$ 4 milhões em espécie. A diferença
   foi preenchida, segundo o Banco Central e a imprensa, por reavaliações imobiliárias de valorização extraordinária
-  e por transferências circulares entre o próprio banco, empresas suas e fundos de investimento.'
+  e por transferências circulares entre o próprio banco, empresas suas e fundos de investimento. Foi alvo
+  da Operação Fundo Fake, sobre desvio de recursos de previdências municipais, e teve mandado de prisão
+  expedido nessa frente — nunca cumprido, depois anulado, com o inquérito trancado pelo TRF-1 em 2023.
+  Sua defesa sustenta que ele foi formalmente excluído da investigação, por não manter vínculo com o Banco
+  Máxima à época dos fatos apurados, que são de dezembro de 2010 a abril de 2016.'
 why_in_novelo: É o controlador do Banco Master, instituição liquidada pelo Banco Central em novembro de
   2025, e investigado central da Operação Compliance Zero conduzida pela Polícia Federal sob relatoria
   do STF.
@@ -71,6 +75,14 @@ cited_position:
   source_ids:
   - src-poder360-2026-09-02-pgr-aceita-delacao-mansur
   date: 2026-09
+- kind: denial
+  summary: A defesa afirma que ele foi 'formalmente excluído' da Operação Fundo Fake e que é 'falsa e
+    difamatória qualquer tentativa de associar seu nome aos fatos apurados', porque à época não controlava
+    o Banco Máxima.
+  source_ids:
+  - src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
+  by_id: daniel-vorcaro
+  date: '2026-02-03'
 open_questions:
 - Não há, no corpus, a íntegra das decisões judiciais; o conteúdo registrado é o das comunicações oficiais
   do STF.
@@ -112,6 +124,8 @@ source_ids:
 - src-iclnoticias-2025-12-03-imoveis-superfaturados-fundos-de-pensao
 - src-braziljournal-2021-12-23-master-outsider
 - src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
+- src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
+- src-metropoles-2026-02-17-pf-reexamina-pericias-fundos
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published

@@ -1,0 +1,27 @@
+id: ev-vorcaro-alvo-da-fundo-fake-e-mandado-de-2020
+kind: evidence
+classification: A
+proposition: 'Daniel Vorcaro foi alvo da Operação Fundo Fake, investigado por suspeitas de envolvimento
+  em esquema de desvio de recursos de fundos de previdência de municípios — e ainda assim recebeu, em
+  outubro de 2019, autorização do Banco Central para se tornar controlador do Banco Máxima. Depois que
+  a investigação chegou à Justiça Federal, em 2019, ele, Benjamim Botelho de Almeida e outros onze alvos
+  foram objeto de mandados de prisão, cautelares que nunca foram cumpridas e cuja ordem judicial acabou
+  anulada meses depois. O inquérito foi posteriormente trancado pelo TRF-1, em 2023. A defesa de Vorcaro
+  sustenta que ele foi ''formalmente excluído da investigação'' e que é ''falsa e difamatória qualquer
+  tentativa de associar seu nome aos fatos apurados'', porque à época dos fatos ainda não havia adquirido
+  o controle do banco nem mantinha vínculo com a instituição. O argumento tem lastro cronológico parcial:
+  os fatos denunciados são de dezembro de 2010 a abril de 2016, e Vorcaro só assumiu o controle do Máxima
+  em outubro de 2019 — de modo que tratar o Banco Máxima como veículo dele em 2016 seria anacronismo.
+  O que sobrevive ao teste temporal é a via familiar, não a bancária.'
+document_ids: []
+source_ids:
+- src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
+- src-timesbrasil-2026-06-26-liquidacao-sefer-engrenagem
+attributed_to: Estadão Conteúdo e Times Brasil; a exclusão formal da investigação é afirmação da defesa,
+  não confirmada em peça processual lida pela equipe
+date: '2020'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

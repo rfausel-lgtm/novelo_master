@@ -1,0 +1,29 @@
+id: doc-2021-02-23-parecer-ctc-cvm-pas-03-2016
+kind: document
+title: Parecer do Comitê de Termo de Compromisso da CVM no PAS SEI 19957.008699/2019-01 (PAS 03/2016)
+doc_type: regulatory_record
+date: '2021-02-23'
+source_ids:
+- src-cvm-parecer-ctc-pas-03-2016-pdf
+summary: Parecer lido na íntegra pela equipe. Fixa os cargos de Benjamim Botelho de Almeida, descreve
+  a acusação de operação fraudulenta caracterizada pelo oferecimento de vantagens financeiras ilícitas
+  a prefeitos e gestores de regimes próprios de previdência, e registra que a estrutura Foco DTVM / A.A.M.
+  Ltda. já era objeto de investigação da Polícia Federal desde 31/01/2013, na Operação Miquéias. Consigna
+  que o inquérito administrativo da CVM foi instaurado em 02/03/2016 e concluiu pela responsabilização
+  de 20 pessoas naturais e 9 jurídicas.
+is_official: true
+related_entity_ids:
+- benjamim-botelho-de-almeida
+- foco-dtvm
+- grupo-aquilla
+issuer: Comissão de Valores Mobiliários
+date_precision: day
+url: https://www.gov.br/cvm/pt-br/assuntos/noticias/anexos/2021/20210223_PAS_CVM_SEI_19957_008699_2019_01_parecer_comite_termo_de_compromisso.pdf
+reference: PAS CVM SEI 19957.008699/2019-01
+excerpt: O esquema, com o oferecimento de vantagens financeiras ilícitas a prefeitos e gestores de RPPS,
+  tinha por objetivo desviar recursos desses institutos para os fundos de investimento geridos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -15,7 +15,11 @@ summary: 'Distribuidora de títulos e valores mobiliários fundada em 2003 por B
   como os do São Domingos, teriam sido direcionados a empresas ligadas à família Vorcaro, segundo a imprensa,
   e aparece em material da Operação Fundo Fake, de 2020. Foi alvo da 2ª fase da Operação Compliance Zero,
   em 14/01/2026, e teve a liquidação extrajudicial decretada pelo Banco Central em 26/06/2026, por comprometimento
-  econômico-financeiro e graves violações às normas legais.'
+  econômico-financeiro e graves violações às normas legais. A estrutura já era investigada muito antes
+  do caso Master: em 31/01/2013, a Polícia Federal instaurou a ''Operação Miquéias'' sobre aplicações
+  de regimes próprios de previdência em fundos administrados pela Foco e geridos pela A.A.M./Aquilla,
+  com uso de ''pastinhas'' que ofereciam percentual sobre o aporte a prefeitos e gestores. A PF identificou
+  aportes suspeitos de RPPS em pelo menos 20 municípios e dez estados direcionados à casa.'
 why_in_novelo: Administradora do fundo cuja compra de um terreno supervalorizado ajudou a lastrear a capacidade
   econômica apresentada por Vorcaro ao Banco Central, e nó recorrente em outras frentes do caso.
 cited_position:
@@ -37,8 +41,13 @@ source_ids:
 - src-gazetadopovo-2026-06-26-bc-liquida-sefer
 - src-seudinheiro-2026-06-liquidacao-sefer-bens-controladores
 - src-metropoles-2026-pf-reexamina-pericias-conexoes-fundos
+- src-cvm-parecer-ctc-pas-03-2016-pdf
+- src-agenciabrasil-2020-07-15-operacao-fundo-fake
+- src-afnoticias-2026-02-13-igeprev-aplicacoes-investigadas
+- src-metropoles-2026-02-17-pf-reexamina-pericias-fundos
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
+document_ids: []

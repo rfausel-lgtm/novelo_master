@@ -1,0 +1,30 @@
+id: rev-2026-09-04-lote-59-frente-rondoniense-e-correcao
+kind: revision
+date: '2026-09-03'
+title: 'Lote 59: a frente rondoniense em profundidade — e uma correção ao lote 56'
+summary: 'Terceira e última parte do aprofundamento do nó Benjamim Botelho. Documenta a Operação Miquéias,
+  de 2013: a estrutura Foco/Aquilla já estava sob apuração federal sete anos antes da Fundo Fake e quatro
+  anos antes de Vorcaro contratar a compra do Máxima — achado extraído da íntegra do parecer da CVM, lida
+  pela equipe. Reconstitui a Operação Fundo Fake com os números oficiais da PF e o modelo do ''rebate''.
+  Registra que Vorcaro foi alvo dessa frente e teve mandado de prisão expedido em 2020, nunca cumprido
+  e depois anulado, com o inquérito trancado pelo TRF-1 em 2023 — e registra, com o mesmo destaque, o
+  argumento temporal da defesa, que tem lastro parcial: os fatos apurados são de 2010 a 2016 e ele só
+  assumiu o controle do banco em outubro de 2019. Acrescenta Ascendino Madureira Garcia, que trabalhou
+  na Foco até 2018 e depois na Master Corretora — o vínculo pessoal mais concreto entre as duas eras —
+  e o mapa dos RPPS lesados. CORRIGE o lote 56: a transferência de R$ 2 milhões afirmada na peça da CPI
+  não foi corroborada, e a única fonte jornalística sobre o tema descreve o fluxo em sentido inverso,
+  dos fundos para a conta pessoal de Vorcaro, em 2017. Registra também que ''Fundo Fake 2'' é nomenclatura
+  do denunciante, não da PF.'
+affected_ids:
+- benjamim-botelho-de-almeida
+- foco-dtvm
+- grupo-aquilla
+- daniel-vorcaro
+- ascendino-madureira-garcia
+- maxx-consultoria
+reason: Aprofundamento da frente de RPPS e correção de ponto não corroborado publicado no lote 56.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

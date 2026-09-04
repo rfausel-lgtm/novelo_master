@@ -5,20 +5,28 @@ proposition: 'Existe linha investigativa federal em Rondônia alcançando Daniel
   2019 — nove meses antes do aval do Banco Central à transferência de controle do Máxima. Segundo documento
   protocolado na CPI do Crime Organizado, houve Pedido de Busca e Apreensão Criminal nº 0001530-26.2019.4.01.4101,
   de 23/01/2019, na Subseção Judiciária de Ji-Paraná (RO), no âmbito de apuração sobre desvio de recursos
-  de regimes próprios de previdência; a mesma peça registra repasses do Banco Máxima e do grupo Multipar
-  à MAXX Consultoria a partir de 2016, transferência de R$ 2 milhões da Milo Investimentos a Benjamim
-  Botelho de Almeida (sócio da Foco DTVM) em 31/10/2016, e três inquéritos sucessivos contra Vorcaro —
-  Rolim Previ (trancado por habeas corpus), Ji-Paraná/Fundo Fake 2 (suspenso) e Pagamentos Suspeitos (em
-  andamento). Em 15/07/2020 a Polícia Federal deflagrou a Operação Fundo Fake, sobre desvio de recursos
-  de previdências municipais aplicados em fundos administrados pela Foco DTVM. Este contexto explica por
-  que haveria feito contra Vorcaro em Rondônia, mas não comprova o mandado de outubro de 2019: a peça
-  da CPI é documento de parte, protocolado por denunciante, e não achado oficial da comissão.'
+  de regimes próprios de previdência, e três inquéritos sucessivos contra Vorcaro. Apuração posterior
+  da equipe confirmou o essencial por fontes independentes — Vorcaro foi de fato alvo da Operação Fundo
+  Fake e teve mandado de prisão expedido, nunca cumprido, com o inquérito trancado pelo TRF-1 em 2023
+  — mas NÃO confirmou vários pontos específicos da peça da CPI, que é documento de parte protocolado por
+  denunciante e não achado oficial. Em particular: (a) não se corroborou a alegação de repasses do Banco
+  Máxima e do grupo Multipar à MAXX Consultoria em 2016, e cabe notar que o Máxima só passou ao controle
+  de Vorcaro em outubro de 2019; (b) a alegada transferência de R$ 2 milhões da Milo Investimentos para
+  Benjamim Botelho de Almeida em 31/10/2016 não foi corroborada, e a única fonte jornalística que trata
+  do tema descreve o fluxo em sentido inverso — três transferências dos fundos à conta pessoal de Vorcaro,
+  somando cerca de R$ 2 milhões, em 2017; (c) o recorte de R$ 7,7 milhões atribuído nominalmente a Vorcaro
+  e Botelho no bloqueio não aparece em fonte independente; (d) a designação ''Fundo Fake 2'' é nomenclatura
+  da peça, não da Polícia Federal — o que existe oficialmente em Ji-Paraná é a Operação Caixa de Minas,
+  sobre o RPPS do município, sem menção pública a Vorcaro, ao Máxima ou à Foco DTVM.'
 document_ids: []
 source_ids:
 - src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
 - src-rolimprevi-2020-08-02-nota-operacao-fundo-fake
-attributed_to: Documento de parte protocolado na CPI do Crime Organizado, hospedado pelo Senado, e nota
-  oficial do RolimPrevi sobre a Operação Fundo Fake
+- src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
+- src-timesbrasil-2026-06-26-liquidacao-sefer-engrenagem
+- src-metropoles-2026-02-17-pf-reexamina-pericias-fundos
+attributed_to: Documento de parte protocolado na CPI do Crime Organizado, com verificação posterior da
+  equipe que confirmou parte e não corroborou outros pontos
 date: '2019-01-23'
 review_status: published
 reviewer: orquestrador

@@ -9,18 +9,27 @@ participant_ids:
 - foco-dtvm
 - benjamim-botelho-de-almeida
 - daniel-vorcaro
-description: A Polícia Federal deflagrou a Operação Fundo Fake, sobre desvio de recursos de regimes próprios
-  de previdência de municípios de Rondônia aplicados em fundos administrados pela Foco DTVM. É a frente
-  rondoniense que, segundo documento protocolado na CPI do Crime Organizado, alcança Vorcaro por meio
-  de inquéritos sucessivos iniciados em janeiro de 2019 — nove meses antes de o Banco Central aprovar
-  a transferência de controle do Banco Máxima.
+- maxx-consultoria
+description: 'A Polícia Federal deflagrou a Operação Fundo Fake com cerca de 200 policiais e 71 mandados
+  de busca e apreensão expedidos pela 3ª Vara Federal de Porto Velho (RO), em cinco estados. Apurou desvio
+  de recursos de regimes próprios de previdência aplicados em fundos administrados pela Foco DTVM, no
+  modelo do ''rebate'': a consultoria contratada indicava os fundos e, dias após o aporte, recebia de
+  volta parte do dinheiro — às vezes mais de 20% —, repassando parcela a gestores do instituto. Prejuízo
+  apurado somente ao RolimPrevi: R$ 17,4 milhões; outros 65 institutos aplicaram em fundos da mesma administradora;
+  cerca de R$ 500 milhões foram objeto de bloqueio judicial. Daniel Vorcaro e Benjamim Botelho de Almeida
+  estiveram entre os treze alvos de mandados de prisão expedidos na frente, nunca cumpridos e depois anulados.'
 evidence_class: A
 status: unverified
 evidence_ids:
 - ev-linha-investigativa-rondonia-vorcaro
+- ev-operacao-fundo-fake-numeros-oficiais
+- ev-vorcaro-alvo-da-fundo-fake-e-mandado-de-2020
 source_ids:
 - src-rolimprevi-2020-08-02-nota-operacao-fundo-fake
 - src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
+- src-agenciabrasil-2020-07-15-operacao-fundo-fake
+- src-timesbrasil-2026-06-26-liquidacao-sefer-engrenagem
+- src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
 document_ids: []
 public_act_ids: []
 review_status: published

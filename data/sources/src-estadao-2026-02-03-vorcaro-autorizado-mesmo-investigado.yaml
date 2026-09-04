@@ -1,0 +1,25 @@
+id: src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
+kind: source
+title: Daniel Vorcaro recebeu autorização do Banco Central mesmo investigado pela PF
+publisher: Estadão Conteúdo, via Amazonas Atual
+publication_date: '2026-02-03'
+retrieved_at: '2026-09-03'
+url: https://amazonasatual.com.br/daniel-vorcaro-recebeu-autorizacao-do-banco-central-mesmo-investigado-pela-pf/
+source_type: press
+summary: 'Registra que Vorcaro era investigado na Operação Fundo Fake por suspeitas de envolvimento em
+  esquema de desvio de recursos de fundos de previdência de municípios e, ainda assim, recebeu autorização
+  do Banco Central para se tornar sócio controlador do Banco Máxima. Traz a versão da defesa: ele teria
+  sido ''formalmente excluído da investigação'' porque, à época dos fatos apurados, ainda não havia adquirido
+  o controle do banco nem mantinha vínculo com a instituição, sendo ''falsa e difamatória qualquer tentativa
+  de associar seu nome aos fatos apurados''.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: Acessado por reprodução; o original do Estadão retorna 403 à leitura automatizada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

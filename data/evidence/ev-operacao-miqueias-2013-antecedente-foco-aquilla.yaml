@@ -1,0 +1,20 @@
+id: ev-operacao-miqueias-2013-antecedente-foco-aquilla
+kind: evidence
+classification: D
+proposition: 'A estrutura Foco DTVM / A.A.M. Ltda. (Aquilla Asset Management) já era investigada pela
+  Polícia Federal desde 31/01/2013, na chamada ''Operação Miquéias'', a partir dos inquéritos IPL 194/2012-SR/DPF/DF
+  e IPL 148/2013-SR/DPF/DF, sobre aplicações de diversos regimes próprios de previdência em fundos administrados
+  pela Foco e geridos pela A.A.M. O parecer da CVM descreve o uso de ''pastinhas'' — que percorriam o
+  país oferecendo percentual sobre o aporte a prefeitos e gestores — e de ''lobistas''. Ou seja: a estrutura
+  estava sob apuração federal sete anos antes da Operação Fundo Fake e quatro anos antes de Vorcaro contratar
+  a compra do Banco Máxima.'
+document_ids:
+- doc-2021-02-23-parecer-ctc-cvm-pas-03-2016
+source_ids:
+- src-cvm-parecer-ctc-pas-03-2016-pdf
+date: '2013-01-31'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

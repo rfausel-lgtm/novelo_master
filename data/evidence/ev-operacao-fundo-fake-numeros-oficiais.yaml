@@ -1,0 +1,22 @@
+id: ev-operacao-fundo-fake-numeros-oficiais
+kind: evidence
+classification: C
+proposition: 'A Operação Fundo Fake foi deflagrada em 15/07/2020 com cerca de 200 policiais e 71 mandados
+  de busca e apreensão expedidos pela 3ª Vara Federal de Porto Velho (RO), alcançando Rondônia, São Paulo,
+  Rio de Janeiro, Goiás e Minas Gerais. Segundo a PF: o prejuízo apurado em laudos periciais somente ao
+  RolimPrevi foi de R$ 17,4 milhões; 65 outros institutos de previdência do país aplicaram em fundos administrados
+  por uma das instituições investigadas; cerca de R$ 500 milhões de recursos de RPPS aportados nos fundos
+  foram objeto de bloqueio judicial; e 18 CPFs e CNPJs tiveram cadastro suspenso para impedir atuação
+  no mercado financeiro. O modelo apurado é o do ''rebate'': a consultoria contratada indicava os fundos
+  e, dias após o aporte, recebia de volta parte do dinheiro — em alguns casos mais de 20% do valor aplicado
+  —, repassando parcela a gestores do instituto.'
+document_ids: []
+source_ids:
+- src-agenciabrasil-2020-07-15-operacao-fundo-fake
+- src-rolimprevi-2020-08-02-nota-operacao-fundo-fake
+date: '2020-07-15'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

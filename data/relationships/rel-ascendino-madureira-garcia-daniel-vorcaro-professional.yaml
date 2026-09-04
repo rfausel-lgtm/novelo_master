@@ -1,0 +1,31 @@
+id: rel-ascendino-madureira-garcia-daniel-vorcaro-professional
+kind: relationship
+from_id: ascendino-madureira-garcia
+to_id: daniel-vorcaro
+relationship_type: professional
+directed: false
+label: operador na Master Corretora, a partir de 2018
+start_date: '2018'
+description: Após deixar a Foco DTVM em 2018, passou à Master Corretora, atuando como operador de Vorcaro.
+  Advogados de Vorcaro afirmam que ele não exercia funções de gestão.
+evidence_class: A
+confidence: 0.65
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-vorcaro-alvo-da-fundo-fake-e-mandado-de-2020
+source_ids:
+- src-oantagonista-2026-02-04-reincidencia-operador-tatico
+document_ids: []
+cited_position:
+- kind: denial
+  summary: Advogados de Vorcaro afirmam que Ascendino não exercia funções de gestão; ele próprio diz que
+    a associação de seu nome à investigação é indevida.
+  source_ids:
+  - src-oantagonista-2026-02-04-reincidencia-operador-tatico
+  date: '2026-02-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

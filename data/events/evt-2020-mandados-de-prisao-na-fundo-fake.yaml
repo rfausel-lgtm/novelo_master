@@ -1,0 +1,40 @@
+id: evt-2020-mandados-de-prisao-na-fundo-fake
+kind: event
+title: Mandados de prisão contra treze alvos da Fundo Fake, entre eles Vorcaro e Botelho, nunca cumpridos
+event_type: judicial_decision
+date: '2020'
+date_precision: year
+participant_ids:
+- daniel-vorcaro
+- benjamim-botelho-de-almeida
+- policia-federal
+description: 'Depois que a investigação da Operação Fundo Fake chegou à Justiça Federal, em 2019, Daniel
+  Vorcaro, Benjamim Botelho de Almeida e outros onze alvos foram objeto de mandados de prisão. As cautelares
+  nunca foram cumpridas e a ordem judicial acabou anulada meses depois; o inquérito contra Vorcaro foi
+  trancado pelo TRF-1 em 2023. A defesa sustenta que ele foi formalmente excluído da investigação, por
+  não ter vínculo com o Banco Máxima à época dos fatos apurados. Este registro é relevante para o exame
+  da alegação, não confirmada, de que teria havido prisão decretada em Ji-Paraná em outubro de 2019: mostra
+  que houve, de fato, ordens de prisão nessa frente rondoniense — em 2020, e não na data alegada.'
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-vorcaro-alvo-da-fundo-fake-e-mandado-de-2020
+source_ids:
+- src-timesbrasil-2026-06-26-liquidacao-sefer-engrenagem
+- src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: A defesa de Vorcaro afirma que ele foi 'formalmente excluído da investigação' e que é 'falsa
+    e difamatória qualquer tentativa de associar seu nome aos fatos apurados', porque à época dos fatos
+    não controlava o Banco Máxima.
+  source_ids:
+  - src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
+  by_id: daniel-vorcaro
+  date: '2026-02-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

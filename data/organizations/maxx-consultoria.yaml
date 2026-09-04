@@ -1,0 +1,26 @@
+id: maxx-consultoria
+kind: organization
+name: MAXX Consultoria de Investimentos
+aliases: []
+org_type: company
+summary: 'Consultoria de investimentos que prestou serviços ao RolimPrevi, regime próprio de previdência
+  de Rolim de Moura (RO), de 2009 a 2016, contratada sem ampla concorrência, por cartas-convite sucessivamente
+  prorrogadas por aditivos. É apontada na Operação Fundo Fake como peça central do modelo de ''rebate'':
+  indicava os fundos ao instituto e, dias após o aporte, recebia de volta parte do dinheiro. Seus controladores,
+  Fernando Vitor de Oliveira e Marcos Antônio Urcino dos Santos, estão entre os denunciados pelo MPF na
+  ação penal que corre na 3ª Vara Federal Criminal da Seção Judiciária de Rondônia.'
+why_in_novelo: Consultoria no centro do modelo de desvio apurado na Operação Fundo Fake, na origem da
+  apuração que alcançaria a estrutura de fundos ligada ao ecossistema Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A MAXX Consultoria e seus controladores não foram localizados para manifestação por nenhuma das fontes
+  consultadas; não há versão de defesa deles no corpus.
+source_ids:
+- src-agenciabrasil-2020-07-15-operacao-fundo-fake
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
