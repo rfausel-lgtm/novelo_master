@@ -8,6 +8,15 @@ participant_ids:
 - daniel-vorcaro
 - viking-participacoes
 - foco-dtvm
+place:
+  name: Jequitibá (MG)
+  kind: city
+  lat: -19.23583
+  lon: -44.02778
+  precision: city
+  note: 'Coordenada do município, conforme o Wikidata (Q1757089). O terreno em si não foi localizado:
+    a matrícula do imóvel não consta do corpus, então o ponto marca a cidade, não a propriedade.'
+  source_ids: []
 description: Terreno em Jequitibá (MG), regularizado por R$ 2,5 milhões em 2015, foi vendido por R$ 57
   milhões ao FII São Domingos, administrado pela Foco DTVM e abastecido por regimes próprios de previdência
   de servidores públicos. A operação — valorização de 2.180% em dois anos — justificou receita operacional
@@ -27,4 +36,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
