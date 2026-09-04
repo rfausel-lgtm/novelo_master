@@ -56,6 +56,25 @@ Documentação legível dos schemas Zod em `src/lib/schema/` (`common.ts`, `enti
 | retrieved_at | PartialDate | sim         | Data da obtenção                                      |
 | alt          | string      | sim         | Texto alternativo                                     |
 
+### Place (lugar geolocalizado)
+
+Uma coordenada é uma afirmação sobre onde algo fica e, como toda afirmação aqui, precisa de fonte
+quando a precisão for melhor que o município. `place` **nunca** descreve residência de pessoa física:
+a política editorial proíbe endereço residencial, e o lint recusa `kind: property` sem `source_ids`.
+
+| Campo      | Tipo   | Obrigatório       | Descrição                                                                   |
+| ---------- | ------ | ----------------- | --------------------------------------------------------------------------- |
+| name       | string | sim               | Como o lugar é chamado no texto                                             |
+| kind       | enum   | sim               | `property`, `building`, `public_body`, `venue`, `airport`, `city`, `region` |
+| lat        | number | sim               | Latitude (-90 a 90)                                                          |
+| lon        | number | sim               | Longitude (-180 a 180)                                                       |
+| precision  | enum   | sim               | `exact`, `approximate`, `city` — exibida na legenda do minimapa             |
+| note       | string | não               | O que a coordenada **não** diz (limites do imóvel, matrícula não localizada) |
+| source_ids | Id[]   | não (padrão `[]`) | Fontes da localização; obrigatório quando `kind` é `property`               |
+
+O build exporta os lugares em `public/data/novelo.kml`. O minimapa estático de cada registro é gerado
+por `python python/novelo_osint/minimapas.py` em `public/mapas/<id>.png`.
+
 ## Coleções
 
 ### `sources` (Source)
@@ -160,6 +179,7 @@ PersonCategory: `banker`, `businessperson`, `politician`, `judge`, `prosecutor`,
 | summary        | string          | sim               | Resumo factual                   |
 | why_in_novelo  | string          | sim               | Uma frase factual e neutra       |
 | photo          | Photo           | não               | Logotipo ou imagem com metadados |
+| place          | Place           | não               | Onde a organização fica          |
 | cited_position | CitedPosition[] | não (padrão `[]`) | Contraditório                    |
 | open_questions | string[]        | não (padrão `[]`) | Lacunas                          |
 | tags           | string[]        | não (padrão `[]`) | Etiquetas                        |
@@ -179,7 +199,8 @@ OrgType: `company`, `financial_institution`, `public_body`, `court`, `party`, `f
 | date            | PartialDate     | sim                       | Data do fato                         |
 | date_precision  | DatePrecision   | não (padrão `day`)        | Precisão                             |
 | end_date        | PartialDate     | não                       | Data final                           |
-| location        | string          | não                       | Local                                |
+| location        | string          | não                       | Local, em texto                      |
+| place           | Place           | não                       | Local geolocalizado                  |
 | participant_ids | Id[]            | não (padrão `[]`)         | Pessoas e organizações participantes |
 | description     | string          | sim                       | Descrição factual                    |
 | evidence_class  | EvidenceClass   | sim                       | Classe                               |

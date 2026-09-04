@@ -7,6 +7,28 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Acervo em texto (`/acervo.txt`), índice `llms.txt` e página `/perguntar`. O corpus publicado inteiro
+  num arquivo — 666 registros, com classe de evidência, contagem de fontes e id de volta para a página —
+  precedido das regras de leitura que o site impõe a si mesmo. Existe porque uma extensão de navegador lê
+  a página aberta, não o site: sem artefato único, "analise o acervo" vira resposta baseada numa página
+  só, ou no que o modelo acha que sabe do caso. A página entrega o prompt pronto e diz o que a resposta
+  de um assistente não é — não é fonte, e a página prevalece sobre ela.
+- Lugares geolocalizados em eventos e organizações (`place`: nome, coordenada, precisão e nota), com
+  minimapa estático servido pela própria origem e exportação em `public/data/novelo.kml`. Os tiles do
+  OpenStreetMap são compostos no repositório por `python/novelo_osint/minimapas.py`: mapa embutido de
+  provedor exigiria afrouxar a CSP e faria cada leitor de um dossiê ser requisitado por um terceiro.
+  Onde a localização exata não é conhecida, marca-se o município, com a precisão declarada na legenda.
+- Tema claro, escuro e automático, com alternador no cabeçalho, persistência local e aplicação antes da
+  primeira pintura. `tests/unit/contraste.test.ts` mede a razão de contraste de cada par token/fundo nas
+  duas paletas e falha abaixo de WCAG AA.
+- Página `/sobre` com autoria, motivo do projeto, como o corpus é feito, declaração de ausência de
+  conflito de interesse, direito de resposta e condições de reúso; botão de contato no rodapé.
+- Imagem de compartilhamento (WhatsApp, redes sociais) que desenha o grafo real do corpus atrás da
+  chamada, gerada no build; site registrado no Google Search Console com o sitemap processado.
+- Retratos de licença livre de 19 pessoas além das 37 iniciais (56 de 114), do Wikimedia Commons e da
+  Agência Brasil, sempre com autoria, licença e link para o arquivo original; coletor da Agência Brasil
+  em `python/novelo_osint/fotos.py`.
+
 - Lote 53 do corpus: dois pontos de fechamento. A repercussão internacional do caso — cobertura
   investigativa sustentada da Bloomberg e análise institucional do The Economist, sem evidência de
   rebaixamento do rating soberano do Brasil (S&P manteve 'BB/B' estável); a falha de avaliação de risco
@@ -326,11 +348,25 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Alterado
 
+- A reprodução da linha do tempo salta para as datas em que algo entra no mapa, em vez de percorrer 321
+  meses — só 45 deles têm conteúdo, e o leitor passava a maior parte da animação vendo nada acontecer.
+- Dossiês reorganizados: sumário que acompanha a rolagem, contraditório no topo, sem repetição entre
+  seções, e altura reduzida de ~47 mil para ~19 mil pixels.
+- Grafo legível no celular: rótulos que não saem da tela, alvos de toque maiores, câmera que desloca o
+  nó selecionado para fora do painel e escala de evidência explicada uma vez só.
 - A camada probatória saiu do arquivo principal do grafo e passou a ser baixada sob demanda
   (`public/data/graph-evidence.json`): o carregamento inicial voltou de 1,4 MB para 586 KB.
 
 ### Corrigido
 
+- O prompt copiável de `/perguntar` trazia a URL de produção cravada: quem lia a página numa prévia, num
+  espelho ou no domínio de deploy mandava o assistente a um endereço que não era o do site à frente.
+  Agora o texto é reescrito para a origem em que o leitor está.
+- Contrastes abaixo de WCAG AA no tema escuro já publicado, encontrados pela medição sistemática das
+  duas paletas.
+- Legenda duplicada entre o painel de orientação e o painel de legenda do grafo.
+- A imagem de compartilhamento era servida como `application/octet-stream` e, com `nosniff`, recusada
+  pelo WhatsApp e pelas redes sociais.
 - Cards de conexão agora exibem títulos das fontes e o contraditório específico; o recorte temporal
   oculta relações sem data com aviso explícito; rótulos do grafo usam supressão de colisões e truncamento
   visual preservando o texto completo no hover e nos painéis.

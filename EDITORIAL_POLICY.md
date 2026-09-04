@@ -167,6 +167,15 @@ CNPJ é dado público de pessoa jurídica e pode ser registrado. Nome completo d
 
 Quando um dado dessa lista é encontrado no corpus, aplica-se o procedimento da seção 9 e o dado é removido do histórico se necessário (ver [SECURITY.md](SECURITY.md#dado-pessoal-indevido)).
 
+### Geolocalização (`place`)
+
+A mesma regra vale para coordenadas. `place` marca imóvel, sede, órgão, local de evento, aeroporto,
+município ou região que **seja objeto do caso** — nunca residência de pessoa física, ainda que o
+endereço conste de matrícula pública. A precisão declarada (`exact`, `approximate`, `city`) é parte da
+afirmação: onde a localização exata não é conhecida, marca-se o município e diz-se isso na página. Toda
+coordenada mais precisa que o município exige fonte, e o lint bloqueia `kind: property` sem
+`source_ids`. O campo `note` registra o que a coordenada **não** diz.
+
 ## 7. Fotos
 
 Toda foto tem `source`, `author`, `license`, `original_url`, `retrieved_at` e `alt` (obrigatórios no schema). Ordem de preferência:

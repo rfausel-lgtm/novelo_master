@@ -24,6 +24,12 @@ Dataset sintético de estresse e demonstração: `docs/screenshots/grafo-demo.pn
   públicos, com "Por que está no Novelo?", linha do tempo, evidências, **posição do citado** e lacunas.
 - **Cronologia global**, **coincidências temporais** (proximidade ≠ causalidade), **auditoria de fontes**,
   **histórico de atualizações** e **metodologia** publicada.
+- **Lugares geolocalizados** em eventos e organizações, com minimapa estático servido pela própria
+  origem (tiles do OpenStreetMap compostos no repositório) e exportação em KML.
+- **Acervo em texto** (`/acervo.txt`) e `llms.txt`: o corpus inteiro num arquivo, com classe de
+  evidência e fonte por registro, para quem quiser ler o caso com ajuda de um assistente. A página
+  `/perguntar` entrega o prompt pronto, com as travas da metodologia.
+- **Tema claro e escuro** (automático, claro ou escuro), com contraste WCAG AA testado nas duas paletas.
 - **Alternativa textual** ao grafo (`/rede`) e acessibilidade WCAG AA.
 
 ## Stack
@@ -54,7 +60,8 @@ npm run start      # serve out/ em http://localhost:3000
 ```
 data/            corpus editorial em YAML (fonte de verdade; um registro por arquivo)
 raw/             material bruto de pesquisa e relatórios dos investigadores
-scripts/         pipeline: validação, lint editorial, grafo e layout, dataset sintético
+public/mapas/    minimapas estáticos dos lugares (um PNG por registro)
+scripts/         pipeline: validação, lint editorial, grafo e layout, acervo em texto, KML, dataset sintético
 src/lib/schema   schemas Zod (contrato único do modelo de dados)
 src/lib/graph    engine do grafo (algoritmos, filtros, estilos, programas WebGL)
 src/components   componentes do grafo e das páginas
@@ -73,7 +80,8 @@ Os dados vivem em `data/` e são compilados pelo pipeline:
 ```bash
 npm run data:validate   # schema + referências + regras editoriais (erros bloqueiam)
 npm run data:lint       # modo estrito: avisos em registros publicados também bloqueiam
-npm run data:build      # gera src/generated/corpus.json, public/data/graph.json e a camada probatória
+npm run data:build      # gera src/generated/corpus.json, public/data/graph.json, a camada probatória,
+                        # public/data/novelo.kml, public/acervo.txt e public/llms.txt
 npm run data:stress     # dataset sintético de 5.000 nós / 25.000 arestas para teste de carga
 ```
 
@@ -92,6 +100,7 @@ npm run test:e2e    # Playwright (requer build prévio)
 ## Desenvolvimento
 
 - `npm run dev` recompila o corpus e sobe o servidor de desenvolvimento.
+- `python python/novelo_osint/minimapas.py` gera os minimapas dos lugares novos (pula os existentes).
 - `/grafo?dataset=demo` e `/grafo?dataset=stress` carregam os datasets sintéticos (nomes fictícios).
 - Convenções de branch e commit em [CONTRIBUTING.md](CONTRIBUTING.md).
 
