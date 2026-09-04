@@ -1,0 +1,22 @@
+id: talk-communications
+kind: organization
+name: Talk Communications
+aliases: []
+org_type: company
+summary: Empresa subcontratada, segundo reportagem do Intercept Brasil relatada pelo Jornal GGN, pelo
+  Instituto Conhecer Brasil por R$ 2,7 milhões para executar 12 campanhas de disparo em massa (WhatsApp
+  e SMS), somando cerca de 8,1 milhões de mensagens, com contatos telefônicos de usuários cadastrados
+  no programa WiFi Livre SP. Negou ter recebido os dados dos usuários.
+why_in_novelo: Empresa apontada, em reportagem investigativa, como executora de campanha de disparo em
+  massa com dados de usuários do WiFi Livre SP repassados pelo Instituto Conhecer Brasil.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-jornalggn-2026-06-03-ong-repassou-dados-wifi
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

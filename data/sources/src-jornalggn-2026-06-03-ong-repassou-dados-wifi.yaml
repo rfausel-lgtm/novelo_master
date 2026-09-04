@@ -1,0 +1,23 @@
+id: src-jornalggn-2026-06-03-ong-repassou-dados-wifi
+kind: source
+title: ONG ligada a filme de Bolsonaro prometeu repassar dados de usuários do Wi-Fi Livre SP
+publisher: Jornal GGN
+publication_date: '2026-06-03'
+retrieved_at: '2026-09-03'
+url: https://jornalggn.com.br/politica/ong-ligada-a-filme-de-bolsonaro-prometeu-repassar-dados-de-usuarios-do-wi-fi-livre-sp/
+source_type: press
+summary: Baseado em reportagem do Intercept Brasil (bloqueada para leitura direta pela equipe editorial
+  — HTTP 403). Relata subcontratos do Instituto Conhecer Brasil com a Talk Communications (R$ 2,7 milhões,
+  para 12 campanhas de disparo em massa somando 8,1 milhões de mensagens) e com o Instituto Orbis (R$
+  5 milhões, para pesquisas de satisfação), ambos dependentes do repasse de contatos telefônicos de usuários
+  cadastrados no wi-fi gratuito, sem termo de consentimento.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

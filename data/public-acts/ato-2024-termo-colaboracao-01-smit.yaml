@@ -9,18 +9,32 @@ issuer: Secretaria Municipal de Inovação e Tecnologia de São Paulo
 actor_ids: []
 affected_ids:
 - instituto-conhecer-brasil
-description: Termo de colaboração de R$ 108 milhões para implantação, operação e manutenção de 5 mil pontos
-  de wi-fi gratuito em comunidades periféricas, no programa WiFi Livre SP, com custo mensal de R$ 1,8
-  mil por ponto. O documento não foi lido pela equipe; os termos vêm da imprensa.
+description: Termo de Colaboração de R$ 108 milhões (R$ 72 milhões em 2024 e R$ 36 milhões em 2025) para
+  implantação, operação e manutenção de 5 mil pontos de wi-fi gratuito em comunidades periféricas, no
+  programa WiFi Livre SP, ao custo mensal de R$ 1,8 mil por ponto. Precedido pelo Edital de Chamamento
+  Público 01/SMIT/2024, publicado em 05/04/2024 (lido integralmente pela equipe editorial via republicação
+  no SINESP), que exigia mínimo de 1.000 usuários simultâneos por comunidade, 100 Mbps de banda total
+  e disponibilidade de 96%, com instalação prevista até 31/12/2024. O Instituto Conhecer Brasil foi o
+  único participante do chamamento e não tinha experiência técnica prévia em comunicações. O TCM-SP identificou
+  20 irregularidades no edital em abril de 2024 e recomendou a suspensão do processo; a SMIT ajustou cláusulas
+  de LGPD, mas manteve o processo. O contrato original de R$ 108 milhões chegou a R$ 157,1 milhões por
+  três aditivos. O termo de colaboração propriamente dito (a peça contratual final) não foi localizado
+  publicamente pela equipe editorial; os termos registrados vêm do edital que o precedeu e da cobertura
+  da operação policial de 01/06/2026.
 evidence_class: C
 status: verified
 evidence_ids:
 - ev-termo-colaboracao-01-smit-2024
 - ev-wifi-3200-pontos-e-aditivos
+- ev-tcm-sp-20-irregularidades-edital-wifi
+- ev-icb-concorrente-unico-sem-experiencia
+- ev-wifi-157-milhoes-tres-aditivos
 source_ids:
 - src-forum-2026-06-01-operacao-wifi-go-up
 - src-jbrasilia-2026-06-01-operacao-wifi-livre
 - src-acritica-2026-06-01-operacao-wifi-livre
+- src-sinesp-2024-edital-01-smit
+- src-jb-2026-06-policia-investiga-wifi
 document_ids: []
 reference: Termo de Colaboração 01/SMIT/2024
 review_status: published

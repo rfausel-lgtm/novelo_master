@@ -1,0 +1,32 @@
+id: evt-2024-04-tcm-recomenda-suspensao-edital-wifi
+kind: event
+title: TCM-SP identifica 20 irregularidades no edital do WiFi Livre e recomenda suspensão, ignorada pela
+  prefeitura
+event_type: regulatory_act
+date: 2024-04
+date_precision: month
+participant_ids:
+- secretaria-municipal-de-inovacao-e-tecnologia
+- instituto-conhecer-brasil
+description: Em relatório preliminar de abril de 2024, o Tribunal de Contas do Município de São Paulo
+  identificou ao menos 20 irregularidades no edital de chamamento público 01/SMIT/2024 e recomendou a
+  suspensão do processo — entre elas, critérios frágeis de seleção da entidade parceira e ausência de
+  especificação sobre proteção de dados (LGPD). A SMIT incluiu cláusulas de LGPD no edital revisado, mas
+  manteve o processo, do qual só o Instituto Conhecer Brasil participou — organização sem experiência
+  técnica prévia em comunicações, com atuação anterior concentrada em feiras e eventos literários e religiosos.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-tcm-sp-20-irregularidades-edital-wifi
+- ev-icb-concorrente-unico-sem-experiencia
+source_ids:
+- src-jb-2026-06-policia-investiga-wifi
+- src-glomes-2026-06-operacao-157-milhoes
+document_ids: []
+public_act_ids:
+- ato-2024-termo-colaboracao-01-smit
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

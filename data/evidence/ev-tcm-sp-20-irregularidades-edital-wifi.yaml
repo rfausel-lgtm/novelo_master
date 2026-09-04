@@ -1,0 +1,19 @@
+id: ev-tcm-sp-20-irregularidades-edital-wifi
+kind: evidence
+classification: C
+proposition: Em relatório preliminar de acompanhamento de edital, datado de abril de 2024, o Tribunal
+  de Contas do Município de São Paulo (TCM-SP) identificou ao menos 20 irregularidades no edital de contratação
+  do sistema de wi-fi e recomendou a suspensão do processo, entre elas a ausência de especificação objetiva
+  de dispositivos sobre proteção de dados pessoais exigidos pela LGPD. A SMIT alterou o edital para incluir
+  cláusulas de LGPD (proibição de uso e repasse de dados a terceiros fora das hipóteses legais), mas manteve
+  o processo apesar da recomendação de suspensão.
+document_ids: []
+source_ids:
+- src-jb-2026-06-policia-investiga-wifi
+- src-glomes-2026-06-operacao-157-milhoes
+date: 2024-04
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

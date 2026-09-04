@@ -1,0 +1,21 @@
+id: instituto-orbis
+kind: organization
+name: Instituto Orbis
+aliases: []
+org_type: association
+summary: Organização subcontratada, segundo reportagem do Intercept Brasil relatada pelo Jornal GGN, pelo
+  Instituto Conhecer Brasil por R$ 5 milhões para realizar pesquisas de satisfação entre usuários do WiFi
+  Livre SP, também dependente do repasse de contatos telefônicos dos usuários. Não comentou.
+why_in_novelo: Organização apontada, em reportagem investigativa, como destinatária de dados de usuários
+  do WiFi Livre SP repassados pelo Instituto Conhecer Brasil para pesquisas de satisfação.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-jornalggn-2026-06-03-ong-repassou-dados-wifi
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

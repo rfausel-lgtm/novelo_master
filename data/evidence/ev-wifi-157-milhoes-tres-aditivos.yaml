@@ -1,0 +1,17 @@
+id: ev-wifi-157-milhoes-tres-aditivos
+kind: evidence
+classification: C
+proposition: O contrato inicial de R$ 108 milhões chegou a R$ 157,1 milhões por meio de três termos aditivos
+  assinados em curto intervalo de tempo, somando R$ 49,1 milhões adicionais. Cerca de R$ 26 milhões teriam
+  sido pagos sem comprovação de execução dos serviços, enquanto apenas 3.200 dos 5 mil pontos prometidos
+  foram efetivamente instalados.
+document_ids: []
+source_ids:
+- src-jb-2026-06-policia-investiga-wifi
+- src-glomes-2026-06-operacao-157-milhoes
+date: '2026-06-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,26 @@
+id: rel-instituto-conhecer-brasil-instituto-orbis-contractual
+kind: relationship
+from_id: instituto-conhecer-brasil
+to_id: instituto-orbis
+relationship_type: contractual
+directed: false
+label: subcontrato de pesquisa de satisfação (R$ 5 milhões)
+start_date: '2026'
+description: Segundo reportagem do Intercept Brasil relatada pelo Jornal GGN, o Instituto Conhecer Brasil
+  subcontratou o Instituto Orbis por R$ 5 milhões para pesquisas de satisfação entre usuários do WiFi
+  Livre SP, também dependentes do repasse de seus contatos telefônicos.
+evidence_class: A
+confidence: 0.4
+status: unverified
+event_ids:
+- evt-2026-06-03-icb-repassou-dados-usuarios-wifi
+evidence_ids:
+- ev-icb-subcontratos-talk-orbis-dados-usuarios
+source_ids:
+- src-jornalggn-2026-06-03-ong-repassou-dados-wifi
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

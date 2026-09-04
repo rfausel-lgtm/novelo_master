@@ -7,6 +7,13 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 24 do corpus: o parecer do TCM-SP sobre o Termo de Colaboração 01/SMIT/2024 — 20 irregularidades
+  identificadas em abril de 2024, recomendação de suspensão ignorada pela SMIT, que seguiu com um único
+  concorrente (Instituto Conhecer Brasil) sem experiência técnica prévia em comunicações. O contrato de
+  R$ 108 milhões chegou a R$ 157,1 milhões por três aditivos, com cerca de R$ 26 milhões pagos sem
+  comprovação de execução. Acrescenta o escândalo de dados: contatos de usuários do wi-fi gratuito
+  repassados à Talk Communications (disparo em massa, 8,1 milhões de mensagens) e ao Instituto Orbis
+  (pesquisas de satisfação), sem consentimento.
 - Lote 23 do corpus: leitura integral, por OCR, da decisão de 24 páginas que autorizou a 10ª fase da
   Compliance Zero (PET 16.346) — o PDF publicado pela imprensa tinha fonte corrompida, ilegível por
   extração direta de texto. Corrige o link do documento (ausente até então) e o número do processo.

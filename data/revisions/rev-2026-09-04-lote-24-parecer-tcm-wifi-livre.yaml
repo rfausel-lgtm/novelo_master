@@ -1,0 +1,22 @@
+id: rev-2026-09-04-lote-24-parecer-tcm-wifi-livre
+kind: revision
+date: '2026-09-03'
+title: 'Lote 24: o parecer do TCM-SP e o escândalo de dados no caso WiFi Livre SP'
+summary: 'Fecha item de backlog (TCM e Termo de Colaboração 01/SMIT/2024): o TCM-SP identificou 20 irregularidades
+  no edital em abril de 2024 e recomendou suspensão — ignorada pela SMIT, que seguiu com um único concorrente
+  (Instituto Conhecer Brasil) sem experiência técnica prévia em comunicações. O contrato de R$ 108 milhões
+  chegou a R$ 157,1 milhões por três aditivos, com cerca de R$ 26 milhões pagos sem comprovação de execução.
+  Acrescenta o escândalo de dados: contatos de usuários do wi-fi gratuito repassados à Talk Communications
+  (disparo em massa) e ao Instituto Orbis (pesquisas), sem consentimento — via Jornal GGN, com a fonte
+  primária (Intercept Brasil) bloqueada para leitura direta.'
+affected_ids:
+- ato-2024-termo-colaboracao-01-smit
+- evt-2026-06-01-operacao-wifi-livre
+- instituto-conhecer-brasil
+- secretaria-municipal-de-inovacao-e-tecnologia
+reason: 'Item de backlog: parecer do TCM sobre o Termo de Colaboração 01/SMIT/2024.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

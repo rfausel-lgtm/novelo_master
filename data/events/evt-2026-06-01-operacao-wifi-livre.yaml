@@ -21,10 +21,14 @@ evidence_ids:
 - ev-operacao-wifi-livre-2026-06-01
 - ev-ssp-crimes-apurados-wifi
 - ev-wifi-notas-16-5-milhoes
+- ev-tcm-sp-20-irregularidades-edital-wifi
+- ev-wifi-157-milhoes-tres-aditivos
 source_ids:
 - src-forum-2026-06-01-operacao-wifi-go-up
 - src-jbrasilia-2026-06-01-operacao-wifi-livre
 - src-acritica-2026-06-01-operacao-wifi-livre
+- src-jb-2026-06-policia-investiga-wifi
+- src-glomes-2026-06-operacao-157-milhoes
 document_ids: []
 public_act_ids:
 - ato-2024-termo-colaboracao-01-smit

@@ -1,0 +1,16 @@
+id: ev-icb-concorrente-unico-sem-experiencia
+kind: evidence
+classification: A
+proposition: Segundo apuração relatada pela imprensa, o Instituto Conhecer Brasil foi o único participante
+  do chamamento público 01/SMIT/2024, e não tinha experiência técnica prévia no setor de comunicações
+  — sua atuação anterior concentrava-se em feiras e eventos literários e religiosos.
+document_ids: []
+source_ids:
+- src-jb-2026-06-policia-investiga-wifi
+date: 2024-04
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
+attributed_to: Jornal do Brasil (JB)

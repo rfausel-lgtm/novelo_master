@@ -1,0 +1,49 @@
+id: evt-2026-06-03-icb-repassou-dados-usuarios-wifi
+kind: event
+title: Reportagem revela repasse de dados de usuários do WiFi Livre a empresas de disparo em massa
+event_type: publication
+date: '2026-06-03'
+date_precision: day
+participant_ids:
+- instituto-conhecer-brasil
+- karina-ferreira-da-gama
+- talk-communications
+- instituto-orbis
+- secretaria-municipal-de-inovacao-e-tecnologia
+description: Reportagem do Intercept Brasil, relatada pelo Jornal GGN, revelou que o Instituto Conhecer
+  Brasil se comprometeu a fornecer contatos telefônicos de usuários do WiFi Livre SP à Talk Communications
+  (campanhas de disparo em massa) e ao Instituto Orbis (pesquisas de satisfação), sem consentimento dos
+  usuários. A SMIT afirmou desconhecer o compartilhamento de dados pessoais e disse fiscalizar regularmente
+  o contrato; a Talk Communications negou ter recebido os dados; o Instituto Conhecer Brasil e o Instituto
+  Orbis não comentaram.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-icb-subcontratos-talk-orbis-dados-usuarios
+source_ids:
+- src-jornalggn-2026-06-03-ong-repassou-dados-wifi
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: A SMIT disse desconhecer o compartilhamento de dados pessoais e afirmou fiscalizar regularmente
+    o contrato.
+  source_ids:
+  - src-jornalggn-2026-06-03-ong-repassou-dados-wifi
+  by_id: secretaria-municipal-de-inovacao-e-tecnologia
+  date: '2026-06-03'
+- kind: denial
+  summary: A Talk Communications negou ter recebido os dados dos usuários.
+  source_ids:
+  - src-jornalggn-2026-06-03-ong-repassou-dados-wifi
+  date: '2026-06-03'
+- kind: not_located
+  summary: O Instituto Conhecer Brasil e o Instituto Orbis não comentaram.
+  source_ids:
+  - src-jornalggn-2026-06-03-ong-repassou-dados-wifi
+  date: '2026-06-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

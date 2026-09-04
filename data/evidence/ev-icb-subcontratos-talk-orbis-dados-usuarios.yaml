@@ -1,0 +1,19 @@
+id: ev-icb-subcontratos-talk-orbis-dados-usuarios
+kind: evidence
+classification: A
+proposition: Segundo reportagem do Intercept Brasil (relatada pelo Jornal GGN, fonte primária bloqueada
+  para leitura direta), o Instituto Conhecer Brasil se comprometeu formalmente a fornecer contatos telefônicos
+  de usuários cadastrados no WiFi Livre SP à Talk Communications (subcontrato de R$ 2,7 milhões, 12 campanhas
+  de disparo em massa, cerca de 8,1 milhões de mensagens) e ao Instituto Orbis (R$ 5 milhões, pesquisas
+  de satisfação), sem termo de consentimento dos usuários — o que a reportagem qualifica como violação
+  frontal à LGPD e ao Marco Civil da Internet.
+document_ids: []
+source_ids:
+- src-jornalggn-2026-06-03-ong-repassou-dados-wifi
+attributed_to: Jornal GGN, com base em reportagem do Intercept Brasil
+date: '2026-06-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

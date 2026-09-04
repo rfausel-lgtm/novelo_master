@@ -1,0 +1,22 @@
+id: src-jb-2026-06-policia-investiga-wifi
+kind: source
+title: Polícia investiga contrato de Wi-Fi da Prefeitura de SP com ONG da produtora do filme sobre Bolsonaro
+publisher: Jornal do Brasil (JB)
+publication_date: 2026-06
+retrieved_at: '2026-09-03'
+url: https://www.jb.com.br/brasil/policia/2026/06/1059824-policia-investiga-contrato-de-wi-fi-da-prefeitura-de-sp-com-ong-da-produtora-do-filme-sobre-bolsonaro.html
+source_type: press
+summary: 'Detalha o parecer do TCM-SP (20 irregularidades, recomendação de suspensão ignorada), a situação
+  de concorrente único (só o Instituto Conhecer Brasil participou do chamamento) sem experiência técnica
+  prévia em comunicações, e os valores: R$ 108 milhões iniciais, R$ 157,1 milhões com três aditivos somando
+  R$ 49,1 milhões.'
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
