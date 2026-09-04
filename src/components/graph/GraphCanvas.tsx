@@ -257,6 +257,24 @@ export function GraphCanvas(props: GraphCanvasProps) {
       return res;
     };
 
+    /*
+     * Rótulo à direita do nó, como padrão. Perto da borda direita ele seria cortado
+     * pela lateral do canvas — nesse caso desenha à esquerda, sem sair da tela.
+     */
+    const xRotulo = (
+      context: CanvasRenderingContext2D,
+      node: { x: number; size: number },
+      texto: number,
+      margem: number,
+    ) => {
+      const largura = context.canvas.width / (window.devicePixelRatio || 1);
+      const direita = node.x + node.size + 4;
+      if (direita + texto <= largura - margem) return direita;
+      /* Nó colado na borda (ou logo fora dela): mantém o rótulo inteiro dentro do palco. */
+      const esquerda = node.x - node.size - 4 - texto;
+      return Math.min(Math.max(margem, esquerda), largura - margem - texto);
+    };
+
     const drawLabel: Settings["defaultDrawNodeLabel"] = (context, data, settings) => {
       if (!data.label) return;
       const graphKind = (data as NodeData & { kind?: string }).kind;
@@ -270,14 +288,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
         data.label.length > max ? `${data.label.slice(0, max - 1).trimEnd()}…` : data.label;
       const size = settings.labelSize;
       context.font = `${settings.labelWeight} ${size}px ${settings.labelFont}`;
-      /*
-       * Rótulo à direita do nó, como padrão. Perto da borda direita ele seria cortado
-       * pela lateral do canvas — nesse caso desenha à esquerda.
-       */
-      const largura = context.canvas.width / (window.devicePixelRatio || 1);
-      const texto = context.measureText(label).width;
-      const xDireita = data.x + data.size + 4;
-      const x = xDireita + texto > largura - 4 ? data.x - data.size - 4 - texto : xDireita;
+      const x = xRotulo(context, data, context.measureText(label).width, 4);
       const y = data.y + size / 3;
       context.lineWidth = 3;
       context.strokeStyle = palette.bg;
@@ -297,7 +308,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
       const pad = 5;
       if (typeof data.label === "string") {
         const w = context.measureText(data.label).width;
-        const x = data.x + data.size + 4;
+        const x = xRotulo(context, data, w, pad + 4);
         const boxX = x - pad;
         const boxY = data.y - size / 2 - pad;
         const boxW = w + pad * 2;
