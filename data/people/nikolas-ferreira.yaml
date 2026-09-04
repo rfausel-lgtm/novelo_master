@@ -1,0 +1,21 @@
+id: nikolas-ferreira
+kind: person
+name: Nikolas Ferreira
+category: politician
+role: Deputado federal (PL-MG)
+positions: []
+summary: Deputado federal pelo PL de Minas Gerais. Em 03-04/09/2026, em meio à crise institucional aberta
+  pela divulgação de mensagens entre Vorcaro e o contato salvo como Alexandre de Moraes, declarou publicamente
+  que André Mendonça 'tem que dar voz de prisão a Moraes em plenário'.
+why_in_novelo: Fez declaração pública de repercussão na crise institucional do STF em torno do caso Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-09-04-nikolas-voz-de-prisao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

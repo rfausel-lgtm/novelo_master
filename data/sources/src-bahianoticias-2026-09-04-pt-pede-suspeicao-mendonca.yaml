@@ -1,0 +1,21 @@
+id: src-bahianoticias-2026-09-04-pt-pede-suspeicao-mendonca
+kind: source
+title: Deputados do PT pedem a Fachin que afaste André Mendonça do caso Master
+publisher: Bahia Notícias
+publication_date: '2026-09-04'
+retrieved_at: '2026-09-03'
+url: https://www.bahianoticias.com.br/noticia/320701-deputados-do-pt-pedem-a-fachin-afastamento-de-mendonca-do-caso-master-apos-encontro-dele-com-vorcaro
+source_type: press
+summary: Registra pedido dos deputados Pedro Uczai, Lindbergh Farias e André Janones (PT) a Fachin, para
+  que declare a suspeição de Mendonça no caso Master, após a revelação do encontro dele com Vorcaro no
+  Instituto ITER (lote 26).
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

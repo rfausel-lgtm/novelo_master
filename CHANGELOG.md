@@ -7,6 +7,11 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 40 do corpus: as reações políticas à crise institucional de 03-04/09/2026 — Nikolas Ferreira ('Mendonça
+  tem que dar voz de prisão a Moraes em plenário'), deputados do PT pedindo a Fachin que declare a
+  suspeição de Mendonça, e o senador Carlos Viana pedindo o afastamento de Gonet. Acrescenta a
+  manifestação da PGR pelo arquivamento da apuração sobre as 'graves intimidações' alegadas por Vorcaro,
+  que embasaram o pedido do partido Novo pela prisão do diretor-geral da PF.
 - Lote 39 do corpus: atualização de Jaques Wagner — depoimento à PF, marcado para 07/08/2026, adiado a
   pedido da defesa por falta de acesso aos autos, sem nova data; candidatura à reeleição pela Bahia
   confirmada; negativa própria em entrevista ('não tenho nenhum negócio com o Banco Master') e defesa

@@ -1,0 +1,19 @@
+id: rev-2026-09-04-lote-40-reacoes-politicas-crise
+kind: revision
+date: '2026-09-03'
+title: 'Lote 40: as reações políticas à crise institucional'
+summary: 'Pesquisa conduzida por agente convocado em paralelo. Registra as reações políticas de 03-04/09/2026
+  à crise Moraes-Mendonça: declaração de Nikolas Ferreira, pedido de suspeição de Mendonça por deputados
+  do PT, e pedido de Carlos Viana pelo afastamento de Gonet. Acrescenta a manifestação da PGR pelo arquivamento
+  da apuração sobre as ''graves intimidações'' alegadas por Vorcaro — atualizando o registro de Andrei
+  Rodrigues, que já continha os pedidos do partido Novo baseados nessas mesmas alegações.'
+affected_ids:
+- andrei-rodrigues
+- nikolas-ferreira
+- carlos-viana
+reason: Reações políticas e contraponto da PGR identificados por pesquisa paralela.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

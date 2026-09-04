@@ -1,0 +1,42 @@
+id: evt-2026-09-04-reacoes-politicas-crise-stf
+kind: event
+title: 'Reações políticas à crise institucional: pedidos de prisão, suspeição e afastamento'
+event_type: statement
+date: '2026-09-04'
+date_precision: day
+participant_ids:
+- edson-fachin
+- andre-mendonca
+- alexandre-de-moraes
+- paulo-gonet
+- andrei-rodrigues
+- nikolas-ferreira
+- carlos-viana
+description: 'Em meio à crise institucional aberta pela divulgação das mensagens Vorcaro-Moraes e pela
+  decisão de Moraes contra Mendonça (lote 28), múltiplos atores políticos se manifestaram: o deputado
+  Nikolas Ferreira (PL) disse que ''Mendonça tem que dar voz de prisão a Moraes em plenário''; deputados
+  do PT (Pedro Uczai, Lindbergh Farias, André Janones) pediram a Fachin que declare a suspeição de Mendonça,
+  após a revelação do encontro dele com Vorcaro no Instituto ITER; o senador Carlos Viana (PSD) pediu
+  o afastamento imediato do procurador-geral Gonet. Separadamente, a PGR se manifestou pelo arquivamento
+  da apuração sobre as alegações de Vorcaro de ter sofrido ''graves intimidações'' durante tratativas
+  de delação — as mesmas que embasaram o pedido do partido Novo pela prisão preventiva do diretor-geral
+  da PF.'
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-nikolas-voz-de-prisao-moraes
+- ev-pt-pede-suspeicao-mendonca
+- ev-viana-pede-afastamento-gonet
+- ev-pgr-arquivamento-ameacas-vorcaro
+source_ids:
+- src-poder360-2026-09-04-nikolas-voz-de-prisao
+- src-bahianoticias-2026-09-04-pt-pede-suspeicao-mendonca
+- src-oantagonista-2026-09-04-viana-pede-afastamento-gonet
+- src-piauihoje-2026-09-pgr-arquivamento-ameacas-vorcaro
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

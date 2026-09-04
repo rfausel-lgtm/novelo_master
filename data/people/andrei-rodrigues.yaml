@@ -41,8 +41,10 @@ cited_position:
   by_id: andrei-rodrigues
   date: '2026-09-03'
 open_questions:
-- Não há decisão do relator sobre os pedidos de prisão e de afastamento apresentados pelo Partido Novo.
 - O corpus não tem manifestação formal da Polícia Federal sobre as alegações.
+- Não há decisão do relator sobre os pedidos de prisão e de afastamento apresentados pelo Partido Novo.
+  A PGR já se manifestou pelo arquivamento da apuração sobre as alegações de 'graves intimidações' de
+  Vorcaro que embasaram esses pedidos, por ausência de provas.
 source_ids:
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-congressoemfoco-2026-09-01-relatorio-pf
@@ -55,6 +57,7 @@ source_ids:
 - src-gazetadopovo-2026-conheca-andrei-rodrigues
 - src-poder360-2026-08-06-superintendentes-defendem-andrei
 - src-cnnbrasil-2026-08-28-andrei-pf-autonoma
+- src-piauihoje-2026-09-pgr-arquivamento-ameacas-vorcaro
 full_name: Andrei Augusto Passos Rodrigues
 review_status: published
 reviewer: orquestrador
