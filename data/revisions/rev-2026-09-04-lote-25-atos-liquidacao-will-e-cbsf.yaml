@@ -1,0 +1,24 @@
+id: rev-2026-09-04-lote-25-atos-liquidacao-will-e-cbsf
+kind: revision
+date: '2026-09-03'
+title: 'Lote 25: os dois atos do Banco Central que liquidaram a Will Financeira e a CBSF (ex-Reag)'
+summary: 'Fecha item de backlog: os atos oficiais do Banco Central para as liquidações da Will Financeira
+  (Ato 1.376/2026) e da CBSF DTVM/ex-Reag (Ato 1.375/2026), ambos assinados por Gabriel Galípolo. A busca
+  no Diário Oficial da União segue bloqueada para acesso automatizado (página renderizada em JavaScript);
+  os dois documentos foram localizados republicados nos próprios sites das empresas liquidadas (Will Bank
+  e CBSF DTVM) e lidos integralmente — o da Will Financeira via OCR, por ser imagem escaneada de página
+  única sem camada de texto. Corrige e detalha a fundamentação legal, o termo legal da liquidação (24/11/2025
+  para a Will, distinto da data do ato), e esclarece que o liquidante nomeado é a empresa EFB Regimes
+  Especiais, não a pessoa física de Eduardo Bianchini isoladamente. Registra a distinção, feita pelo próprio
+  Banco Central, entre a CBSF DTVM liquidada e a REAG IP S.A., instituição de pagamento não abrangida
+  pela medida.'
+affected_ids:
+- ev-bc-liquida-will-financeira-2026-01-21
+- evt-2026-01-21-bc-liquida-will-financeira
+- reag-investimentos
+reason: 'Item de backlog: atos do Banco Central sobre Will Financeira e CBSF/Reag.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

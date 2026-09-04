@@ -1,0 +1,20 @@
+id: src-cbsf-2026-01-15-comunicado-ato-1375
+kind: source
+title: Ato do Presidente nº 1.375, de 15 de janeiro de 2026 (Banco Central do Brasil)
+publisher: CBSF DTVM (republicação)
+publication_date: '2026-01-15'
+retrieved_at: '2026-09-03'
+url: https://cbsf.com.br/?Arquivo=OUM6+WBeDnKJSEdDzZDUUg%3D%3D
+source_type: official_regulator
+summary: Comunicado republicado no site da própria CBSF DTVM (antiga Reag Trust DTVM), com o texto integral
+  do ato do Banco Central. Lido integralmente pela equipe editorial.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

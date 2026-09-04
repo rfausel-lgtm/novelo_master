@@ -7,6 +7,14 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 25 do corpus: os dois atos oficiais do Banco Central que decretaram as liquidações extrajudiciais
+  da Will Financeira (Ato do Presidente 1.376/2026) e da CBSF DTVM, ex-Reag (Ato 1.375/2026), ambos
+  assinados por Gabriel Galípolo — localizados republicados nos sites das próprias empresas liquidadas,
+  já que a busca no Diário Oficial da União segue bloqueada para acesso automatizado. O da Will Financeira
+  foi lido via OCR, por ser imagem escaneada sem camada de texto. Detalha a fundamentação legal, o termo
+  legal da liquidação (24/11/2025, distinto da data do ato) e esclarece que o liquidante nomeado é a
+  empresa EFB Regimes Especiais, não a pessoa física isoladamente. Registra a distinção, feita pelo
+  próprio Banco Central, entre a CBSF DTVM liquidada e a REAG IP S.A., instituição de pagamento distinta.
 - Lote 24 do corpus: o parecer do TCM-SP sobre o Termo de Colaboração 01/SMIT/2024 — 20 irregularidades
   identificadas em abril de 2024, recomendação de suspensão ignorada pela SMIT, que seguiu com um único
   concorrente (Instituto Conhecer Brasil) sem experiência técnica prévia em comunicações. O contrato de

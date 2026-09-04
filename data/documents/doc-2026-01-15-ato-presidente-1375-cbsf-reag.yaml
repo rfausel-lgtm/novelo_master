@@ -1,0 +1,29 @@
+id: doc-2026-01-15-ato-presidente-1375-cbsf-reag
+kind: document
+title: 'Ato do Presidente nº 1.375/2026 do Banco Central: liquidação extrajudicial da CBSF DTVM (ex-Reag
+  Trust DTVM)'
+doc_type: regulatory_record
+date: '2026-01-15'
+source_ids:
+- src-cbsf-2026-01-15-comunicado-ato-1375
+summary: 'Decreta a liquidação extrajudicial da CBSF Distribuidora de Títulos e Valores Mobiliários S.A.
+  (nova denominação da Reag Trust Distribuidora de Títulos e Valores Mobiliários S.A., CNPJ 34.829.992/0001-86),
+  por comprometimento da situação econômico-financeira e graves infrações às normas do Sistema Financeiro
+  Nacional. Nomeia liquidante a APS Serviços Especializados de Apoio Administrativo Ltda. (CNPJ 46.033.690/0001-86),
+  tendo como responsável técnico Antonio Pereira de Souza. O documento faz distinção expressa: a CBSF
+  DTVM é pessoa jurídica distinta da REAG IP S.A. (Instituição de Pagamento, CNPJ 36.272.465/0001-49).
+  Assinado por Gabriel Muricca Galípolo, com visto de Cristiano Cozer, Procurador-Geral do Banco Central.'
+is_official: true
+related_entity_ids:
+- gabriel-galipolo
+- banco-central-do-brasil
+- reag-investimentos
+issuer_id: gabriel-galipolo
+issuer: Gabriel Muricca Galípolo, Presidente do Banco Central do Brasil
+url: https://cbsf.com.br/?Arquivo=OUM6+WBeDnKJSEdDzZDUUg%3D%3D
+reference: Ato do Presidente do BCB nº 1.375/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

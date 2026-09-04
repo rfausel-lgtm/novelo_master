@@ -4,22 +4,24 @@ name: Reag Investimentos
 aliases:
 - CBSF Distribuidora de Títulos e Valores Mobiliários
 org_type: financial_institution
-summary: Gestora/administradora fundada em 2012 por João Carlos Mansur, que a comandou até 2025. Segundo
+summary: 'Gestora/administradora fundada em 2012 por João Carlos Mansur, que a comandou até 2025. Segundo
   relatório do BC ao TCU citado pela CNN, entre julho de 2023 e julho de 2024 o Banco Master e fundos
   administrados pela Reag estruturaram operações em desacordo com as normas do SFN. Sob a denominação
-  CBSF DTVM, teve liquidação extrajudicial decretada pelo BC em janeiro de 2026, segundo o Migalhas.
+  CBSF DTVM (CNPJ 34.829.992/0001-86), teve liquidação extrajudicial decretada pelo Ato do Presidente
+  do BC nº 1.375/2026, de 15/01/2026, assinado por Gabriel Galípolo, por comprometimento econômico-financeiro
+  e graves infrações às normas do SFN — liquidante: APS Serviços Especializados de Apoio Administrativo
+  Ltda. O próprio ato registra que a CBSF DTVM é pessoa jurídica distinta da REAG IP S.A. (Instituição
+  de Pagamento), não abrangida pela medida.'
 why_in_novelo: Administradora de fundos citada pelo Banco Central em operações irregulares com o Banco
   Master e liquidada em 2026, segundo a imprensa.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions:
-- O texto do ato do BC no Diário Oficial não foi lido pela equipe; a data (15/01/2026) e o motivo vêm
-  da Gazeta do Povo.
 source_ids:
 - src-cnn-2026-02-05-mansur-reag-brb
 - src-migalhas-2026-02-03-liquidacao-reag-will
 - src-gazeta-2026-01-15-liquidacao-reag-cbsf
+- src-cbsf-2026-01-15-comunicado-ato-1375
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

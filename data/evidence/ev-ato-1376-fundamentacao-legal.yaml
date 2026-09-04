@@ -1,0 +1,19 @@
+id: ev-ato-1376-fundamentacao-legal
+kind: evidence
+classification: D
+proposition: O Ato do Presidente nº 1.376/2026 funda a liquidação da Will Financeira no art. 12, caput,
+  XI, 'a', do Regimento Interno do BC (Resolução BCB 340/2023) e nos arts. 15, I, 'a', §2º, 16 e 51 da
+  Lei 6.024/1974, e a decreta 'por extensão' da liquidação do Banco Master, referenciando expressamente
+  o processo PE 301874. Fixa o termo legal da liquidação em 24/11/2025 — seis dias após a liquidação do
+  Master (18/11/2025), não na data do próprio ato (21/01/2026).
+document_ids:
+- doc-2026-01-21-ato-presidente-1376-will-financeira
+source_ids:
+- src-willbank-2026-01-21-ato-presidente-1376
+excerpt: Fica indicado, como termo legal da liquidação extrajudicial, o dia 24 de novembro de 2025.
+date: '2026-01-21'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
