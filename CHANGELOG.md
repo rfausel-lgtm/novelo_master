@@ -7,6 +7,9 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 31 do corpus: o laudo da PF sobre a morte de Luiz Phillipi Mourão sob custódia — dez dias depois de
+  a família registrar não ter acesso a imagens, autos nem laudo do IML, a PF entregou ao relator, em
+  23/04/2026, laudo concluindo suicídio. Não foi localizada resposta da família a essa conclusão.
 - Lote 30 do corpus: enriquecimento do dossiê de Augusto Lima — sua presença continuada em reuniões do
   Banco Central como 'CEO do Master' mesmo após a saída formal anunciada em maio de 2024; o dossiê
   apócrifo (autoria não confirmada, achado pela PF em arquivo digital de Vorcaro) que o chama de dono de

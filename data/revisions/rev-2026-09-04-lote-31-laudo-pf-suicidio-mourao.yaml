@@ -1,0 +1,16 @@
+id: rev-2026-09-04-lote-31-laudo-pf-suicidio-mourao
+kind: revision
+date: '2026-09-03'
+title: 'Lote 31: o laudo da PF sobre a morte de Luiz Phillipi Mourão'
+summary: 'Fecha lacuna do lote 13: dez dias depois de a família registrar não ter acesso a imagens, autos
+  nem laudo do IML, a PF entregou a Mendonça, em 23/04/2026, laudo concluindo suicídio. A reportagem consultada
+  não registra resposta da família a essa conclusão — permanece aberta a contestação já registrada no
+  corpus.'
+affected_ids:
+- evt-2026-03-04-morte-de-luiz-phillipi-mourao-sob-custodia
+reason: Lacuna identificada por pesquisa paralela sobre o núcleo 'Turma'.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

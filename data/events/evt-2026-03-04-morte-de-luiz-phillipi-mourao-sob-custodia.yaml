@@ -20,9 +20,11 @@ evidence_ids:
 - ev-nota-da-pf-sobre-a-morte
 - ev-familia-sem-acesso-a-imagens-e-laudo
 - ev-familia-contesta-apelido
+- ev-pf-laudo-conclui-suicidio-mourao-2026-04-23
 source_ids:
 - src-poder360-2026-03-04-morte-cerebral-testemunha
 - src-cnn-2026-04-13-familia-de-mourao-sem-acesso
+- src-em-2026-04-23-laudo-pf-suicidio-sicario
 document_ids: []
 public_act_ids: []
 cited_position:

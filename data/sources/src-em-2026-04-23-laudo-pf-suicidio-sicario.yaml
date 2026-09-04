@@ -1,0 +1,21 @@
+id: src-em-2026-04-23-laudo-pf-suicidio-sicario
+kind: source
+title: Laudo da PF aponta que morte de 'Sicário' de Vorcaro foi causada por suicídio
+publisher: Estado de Minas
+publication_date: '2026-04-23'
+retrieved_at: '2026-09-03'
+url: https://www.em.com.br/politica/2026/04/7404129-laudo-da-pf-aponta-que-morte-de-sicario-de-vorcaro-foi-causada-por-suicidio.html
+source_type: press
+summary: Relata a entrega, em 23/04/2026, de laudo da PF ao ministro André Mendonça (relator) concluindo
+  que a morte de Luiz Phillipi Mourão sob custódia foi por suicídio. A reportagem não registra resposta
+  da família a essa conclusão.
+verification:
+  checked_at: '2026-09-03'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
