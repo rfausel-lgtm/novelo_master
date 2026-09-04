@@ -271,3 +271,187 @@ body {
     filter: none;
   }
 }
+
+/*
+ * Ilustrações temáticas (hero, loader do grafo, faixas editoriais). Cada uma existe em claro/escuro
+ * e o hero também em mobile/desktop; a troca é só CSS (data-theme manual + prefers-color-scheme de
+ * sistema, no mesmo padrão de .minimapa acima) para nunca baixar as duas variantes. image-set()
+ * pede AVIF primeiro e cai para WebP; o url() antes dele é o fallback para navegadores sem
+ * image-set().
+ */
+.novelo-hero {
+  background-image: url("/assets/novelo/hero/novelo-hero-dark-mobile.webp");
+  background-image: image-set(
+    url("/assets/novelo/hero/novelo-hero-dark-mobile.avif") type("image/avif"),
+    url("/assets/novelo/hero/novelo-hero-dark-mobile.webp") type("image/webp")
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@media (min-width: 768px) {
+  .novelo-hero {
+    background-image: url("/assets/novelo/hero/novelo-hero-dark-desktop.webp");
+    background-image: image-set(
+      url("/assets/novelo/hero/novelo-hero-dark-desktop.avif") type("image/avif"),
+      url("/assets/novelo/hero/novelo-hero-dark-desktop.webp") type("image/webp")
+    );
+  }
+}
+:root[data-theme="light"] .novelo-hero {
+  background-image: url("/assets/novelo/hero/novelo-hero-light-mobile.webp");
+  background-image: image-set(
+    url("/assets/novelo/hero/novelo-hero-light-mobile.avif") type("image/avif"),
+    url("/assets/novelo/hero/novelo-hero-light-mobile.webp") type("image/webp")
+  );
+}
+@media (min-width: 768px) {
+  :root[data-theme="light"] .novelo-hero {
+    background-image: url("/assets/novelo/hero/novelo-hero-light-desktop.webp");
+    background-image: image-set(
+      url("/assets/novelo/hero/novelo-hero-light-desktop.avif") type("image/avif"),
+      url("/assets/novelo/hero/novelo-hero-light-desktop.webp") type("image/webp")
+    );
+  }
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .novelo-hero {
+    background-image: url("/assets/novelo/hero/novelo-hero-light-mobile.webp");
+    background-image: image-set(
+      url("/assets/novelo/hero/novelo-hero-light-mobile.avif") type("image/avif"),
+      url("/assets/novelo/hero/novelo-hero-light-mobile.webp") type("image/webp")
+    );
+  }
+}
+@media (prefers-color-scheme: light) and (min-width: 768px) {
+  :root:not([data-theme="dark"]) .novelo-hero {
+    background-image: url("/assets/novelo/hero/novelo-hero-light-desktop.webp");
+    background-image: image-set(
+      url("/assets/novelo/hero/novelo-hero-light-desktop.avif") type("image/avif"),
+      url("/assets/novelo/hero/novelo-hero-light-desktop.webp") type("image/webp")
+    );
+  }
+}
+
+/* Véu radial: o centro (onde fica o texto) permanece igual a antes; a arte só aparece nas bordas. */
+.novelo-hero-veil {
+  background: radial-gradient(
+    ellipse 65% 60% at center,
+    var(--bg) 0%,
+    var(--bg) 35%,
+    transparent 80%
+  );
+}
+
+/* Fundo discreto do estado de carregamento do grafo (Sigma ainda não montou). */
+.novelo-loading-bg {
+  background-image: url("/assets/novelo/loading/novelo-graph-loading-dark.webp");
+  background-image: image-set(
+    url("/assets/novelo/loading/novelo-graph-loading-dark.avif") type("image/avif"),
+    url("/assets/novelo/loading/novelo-graph-loading-dark.webp") type("image/webp")
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.16;
+}
+:root[data-theme="light"] .novelo-loading-bg {
+  background-image: url("/assets/novelo/loading/novelo-graph-loading-light.webp");
+  background-image: image-set(
+    url("/assets/novelo/loading/novelo-graph-loading-light.avif") type("image/avif"),
+    url("/assets/novelo/loading/novelo-graph-loading-light.webp") type("image/webp")
+  );
+  opacity: 0.24;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .novelo-loading-bg {
+    background-image: url("/assets/novelo/loading/novelo-graph-loading-light.webp");
+    background-image: image-set(
+      url("/assets/novelo/loading/novelo-graph-loading-light.avif") type("image/avif"),
+      url("/assets/novelo/loading/novelo-graph-loading-light.webp") type("image/webp")
+    );
+    opacity: 0.24;
+  }
+}
+
+/* Faixas editoriais das páginas Cronologia, Fontes e Metodologia. */
+.novelo-banner-timeline {
+  background-image: url("/assets/novelo/sections/novelo-section-timeline-dark.webp");
+  background-image: image-set(
+    url("/assets/novelo/sections/novelo-section-timeline-dark.avif") type("image/avif"),
+    url("/assets/novelo/sections/novelo-section-timeline-dark.webp") type("image/webp")
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+:root[data-theme="light"] .novelo-banner-timeline {
+  background-image: url("/assets/novelo/sections/novelo-section-timeline-light.webp");
+  background-image: image-set(
+    url("/assets/novelo/sections/novelo-section-timeline-light.avif") type("image/avif"),
+    url("/assets/novelo/sections/novelo-section-timeline-light.webp") type("image/webp")
+  );
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .novelo-banner-timeline {
+    background-image: url("/assets/novelo/sections/novelo-section-timeline-light.webp");
+    background-image: image-set(
+      url("/assets/novelo/sections/novelo-section-timeline-light.avif") type("image/avif"),
+      url("/assets/novelo/sections/novelo-section-timeline-light.webp") type("image/webp")
+    );
+  }
+}
+
+.novelo-banner-sources {
+  background-image: url("/assets/novelo/sections/novelo-section-sources-dark.webp");
+  background-image: image-set(
+    url("/assets/novelo/sections/novelo-section-sources-dark.avif") type("image/avif"),
+    url("/assets/novelo/sections/novelo-section-sources-dark.webp") type("image/webp")
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+:root[data-theme="light"] .novelo-banner-sources {
+  background-image: url("/assets/novelo/sections/novelo-section-sources-light.webp");
+  background-image: image-set(
+    url("/assets/novelo/sections/novelo-section-sources-light.avif") type("image/avif"),
+    url("/assets/novelo/sections/novelo-section-sources-light.webp") type("image/webp")
+  );
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .novelo-banner-sources {
+    background-image: url("/assets/novelo/sections/novelo-section-sources-light.webp");
+    background-image: image-set(
+      url("/assets/novelo/sections/novelo-section-sources-light.avif") type("image/avif"),
+      url("/assets/novelo/sections/novelo-section-sources-light.webp") type("image/webp")
+    );
+  }
+}
+
+.novelo-banner-methodology {
+  background-image: url("/assets/novelo/sections/novelo-section-methodology-dark.webp");
+  background-image: image-set(
+    url("/assets/novelo/sections/novelo-section-methodology-dark.avif") type("image/avif"),
+    url("/assets/novelo/sections/novelo-section-methodology-dark.webp") type("image/webp")
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+:root[data-theme="light"] .novelo-banner-methodology {
+  background-image: url("/assets/novelo/sections/novelo-section-methodology-light.webp");
+  background-image: image-set(
+    url("/assets/novelo/sections/novelo-section-methodology-light.avif") type("image/avif"),
+    url("/assets/novelo/sections/novelo-section-methodology-light.webp") type("image/webp")
+  );
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .novelo-banner-methodology {
+    background-image: url("/assets/novelo/sections/novelo-section-methodology-light.webp");
+    background-image: image-set(
+      url("/assets/novelo/sections/novelo-section-methodology-light.avif") type("image/avif"),
+      url("/assets/novelo/sections/novelo-section-methodology-light.webp") type("image/webp")
+    );
+  }
+}
