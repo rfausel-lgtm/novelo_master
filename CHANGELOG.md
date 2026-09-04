@@ -7,6 +7,10 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 27 do corpus: a reação interna da PF à convocação de 24/08/2026 — delegados chamados sob pretexto
+  de outro tema foram confrontados com despacho pronto exigindo análise do celular de Vorcaro em 72 horas;
+  a cúpula da corporação temeu que o episódio comprometesse outros inquéritos da Compliance Zero por
+  risco de nulidade colegiada. Converge com o argumento da PGR já registrado no lote 21.
 - Lote 26 do corpus: o áudio de articulação do encontro entre André Mendonça e Daniel Vorcaro no Instituto
   ITER (14/03/2025) — Ciro Soares diz a Vorcaro que Mendonça 'sabe, soube da situação do Banco Central
   toda' antes mesmo do encontro ocorrer, quase um ano antes de assumir a relatoria do caso.
