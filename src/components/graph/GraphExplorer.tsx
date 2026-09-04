@@ -173,6 +173,13 @@ export function GraphExplorer() {
     if (graph) applyPalette(graph, palette);
   }, [graph, palette]);
 
+  /*
+   * Recorte pequeno: a câmera fica onde estava e os poucos nós restantes podem cair fora do
+   * enquadramento — a tela parece vazia sem estar. Reenquadra só quando o conjunto encolhe muito,
+   * para não roubar a câmera do leitor no uso normal.
+   */
+  const visiveisAnterior = useRef<number | null>(null);
+
   /* Visibilidade derivada */
   const filtered = useMemo(
     () => (index ? applyFilters(index, state.filters) : null),
@@ -221,6 +228,15 @@ export function GraphExplorer() {
       highlight,
     ],
   );
+
+  useEffect(() => {
+    const n = visible?.nodes.size ?? null;
+    const antes = visiveisAnterior.current;
+    if (n === null) return;
+    visiveisAnterior.current = n;
+    if (antes === null || n === 0) return;
+    if (n <= 25 && n !== antes) setFitToken((t) => t + 1);
+  }, [visible]);
 
   const selectedNode =
     state.selectedNode && index && view?.visibleNodes.has(state.selectedNode)
@@ -408,6 +424,32 @@ export function GraphExplorer() {
         ariaLabel={ariaLabel}
       />
 
+      {/*
+        Recorte vazio: antes a tela ficava preta, sem mensagem e sem reenquadramento, e o leitor
+        não tinha como saber se o site quebrou ou se o filtro é que zerou.
+      */}
+      {view.visibleNodes.size === 0 && (
+        <div className="pointer-events-none absolute inset-0 z-10 flex items-center justify-center p-6">
+          <div className="border-border-strong bg-bg-2/95 pointer-events-auto max-w-sm rounded-lg border p-5 text-center shadow-2xl backdrop-blur">
+            <p className="text-fg text-sm font-medium">Nenhum nó neste recorte.</p>
+            <p className="text-fg-2 mt-1.5 text-xs leading-relaxed">
+              Os filtros ativos, o recorte temporal ou o foco em um nó excluíram tudo o que existe no
+              corpus.
+            </p>
+            <button
+              type="button"
+              onClick={() => {
+                dispatch({ type: "resetFilters" });
+                dispatch({ type: "clearFocus" });
+              }}
+              className="bg-accent text-bg hover:bg-accent/90 mt-4 inline-flex h-9 items-center rounded-md px-4 text-xs font-medium"
+            >
+              Mostrar tudo
+            </button>
+          </div>
+        </div>
+      )}
+
       {/* Barra de ferramentas */}
       <div className="pointer-events-none absolute inset-x-0 top-0 z-10 flex flex-col gap-2 p-3">
         <div className="pointer-events-auto flex flex-wrap items-center gap-1.5">
@@ -419,6 +461,10 @@ export function GraphExplorer() {
               placeholder="Buscar no novelo…"
               inputRef={searchRef}
               onPick={(id) => selectNode(id, true)}
+              onClearScope={() => {
+                dispatch({ type: "resetFilters" });
+                dispatch({ type: "clearFocus" });
+              }}
             />
           </div>
           <ToolButton

@@ -50,14 +50,26 @@ export default function HomePage() {
       <section className="relative mx-auto flex w-full max-w-4xl flex-1 flex-col items-center justify-center px-6 py-16 text-center sm:py-24">
         <Logo className="h-16 w-16" />
         <h1 className="text-fg mt-6 text-3xl font-semibold tracking-[0.2em] uppercase sm:text-4xl">O Novelo Master</h1>
-        <p className="text-fg-2 mt-4 max-w-xl text-lg leading-snug sm:text-2xl">
-          Mapa público de relações,
-          <br />
-          fatos e fontes.
+        {/*
+          O leitor chega por link compartilhado, sem contexto: o topo precisa nomear o caso, não
+          descrever o formato. O lema do projeto continua no rodapé desta mesma página.
+        */}
+        <p className="text-fg-2 mt-5 max-w-2xl text-base leading-relaxed sm:text-xl">
+          Quem se conecta a quem no <strong className="text-fg font-semibold">caso Banco Master</strong>:
+          o banco liquidado pelo Banco Central em novembro de 2025, seu controlador Daniel Vorcaro e
+          os agentes públicos citados na Operação Compliance Zero.
         </p>
-        <Link href="/grafo" className="bg-accent text-bg hover:bg-accent/90 focus-visible:outline-accent mt-10 inline-flex h-12 items-center rounded-md px-6 text-sm font-semibold tracking-[0.18em] uppercase">
-          Explorar o Novelo
-        </Link>
+        <p className="text-fg-3 mt-3 max-w-2xl text-sm sm:text-base">
+          Cada relação aponta para a fonte que a sustenta e para a força da evidência.
+        </p>
+        <div className="mt-9 flex flex-col items-center gap-3 sm:flex-row">
+          <Link href="/grafo" className="bg-accent text-bg hover:bg-accent/90 focus-visible:outline-accent inline-flex h-12 items-center rounded-md px-6 text-sm font-semibold tracking-[0.18em] uppercase">
+            Explorar o grafo
+          </Link>
+          <Link href="/cronologia" className="border-border-strong text-fg-2 hover:text-fg hover:border-fg-3 inline-flex h-12 items-center rounded-md border px-6 text-sm font-medium tracking-wide transition-colors">
+            Comece pela cronologia
+          </Link>
+        </div>
 
         <dl className="mt-14 grid w-full grid-cols-2 gap-x-6 gap-y-6 sm:grid-cols-3 md:grid-cols-6">
           {STATS.map((s) => (

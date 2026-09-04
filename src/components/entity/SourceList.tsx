@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Source } from "@/lib/schema";
 import { formatPartialDate } from "@/lib/format";
 import { OfficialBadge } from "./badges";
+import { Dobra } from "./Dobra";
 import { EmptyState } from "./Section";
 
 export function SourceLink({ source }: { source: Source }) {
@@ -25,12 +26,14 @@ export function SourceLink({ source }: { source: Source }) {
 export function SourceList({ sources, emptyText = "Nenhuma fonte registrada." }: { sources: Source[]; emptyText?: string }) {
   if (sources.length === 0) return <EmptyState>{emptyText}</EmptyState>;
   return (
-    <ul className="divide-border divide-y text-sm">
-      {sources.map((s) => (
+    <Dobra
+      rotulo="fontes"
+      className="divide-border divide-y text-sm"
+      itens={sources.map((s) => (
         <li key={s.id} className="py-2">
           <SourceLink source={s} />
         </li>
       ))}
-    </ul>
+    />
   );
 }
