@@ -1,0 +1,23 @@
+id: rev-2026-09-04-lote-28-crise-institucional-03-09
+kind: revision
+date: '2026-09-03'
+title: 'Lote 28: a crise institucional escala em 03/09/2026'
+summary: Pesquisa conduzida por agentes convocados em paralelo (jornalista de varredura recente + detetive
+  sobre o núcleo 'Turma'). Dois dias depois de o relatório da PF vir a público, Moraes abriu uma frente
+  formal contra Mendonça — decisão alegando improbidade, abuso de autoridade e 'usurpação da direção'
+  de duas petições, com base em relatório da PF sobre assimetria de tratamento por alinhamento político.
+  No mesmo dia, Fachin abriu procedimento com prazo de cinco dias úteis para os quatro envolvidos (Moraes,
+  Mendonça, Gonet, Andrei Rodrigues) se explicarem, e adiou a sessão plenária para a segunda quinzena
+  de setembro. É a primeira medida formal de um ministro contra outro desde a divulgação das mensagens.
+affected_ids:
+- andre-mendonca
+- alexandre-de-moraes
+- edson-fachin
+- paulo-gonet
+- andrei-rodrigues
+reason: Desdobramento institucional relevante identificado por pesquisa paralela.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

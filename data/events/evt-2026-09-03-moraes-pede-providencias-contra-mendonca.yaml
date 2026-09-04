@@ -1,0 +1,30 @@
+id: evt-2026-09-03-moraes-pede-providencias-contra-mendonca
+kind: event
+title: Moraes aponta 'assimetria' e pede providências de Fachin contra Mendonça
+event_type: judicial_decision
+date: '2026-09-03'
+date_precision: day
+participant_ids:
+- alexandre-de-moraes
+- andre-mendonca
+- edson-fachin
+- policia-federal
+description: Dois dias depois de Mendonça derrubar o sigilo do relatório sobre seu próprio celular apreendido
+  de Vorcaro, Alexandre de Moraes proferiu decisão apontando 'fortes indícios' de improbidade administrativa,
+  abuso de autoridade e crime de responsabilidade por parte de Mendonça, com base em relatório da PF sobre
+  tratamento assimétrico de casos por alinhamento político. Alegou 'usurpação da direção' das Petições
+  15.041 (INSS) e 15.556 (Compliance Zero) e encaminhou o caso ao presidente da Corte, Edson Fachin. É
+  a primeira medida formal de um ministro contra outro desde a divulgação das mensagens.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-moraes-decisao-assimetria-mendonca-2026-09-03
+source_ids:
+- src-poder360-2026-09-03-pf-assimetria-decisoes-mendonca
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

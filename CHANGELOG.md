@@ -7,6 +7,14 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 28 do corpus: a crise institucional escala em 03/09/2026 — dois dias depois de o relatório da PF
+  vir a público, Alexandre de Moraes proferiu decisão apontando 'fortes indícios' de improbidade
+  administrativa, abuso de autoridade e crime de responsabilidade contra André Mendonça, com base em
+  relatório da PF sobre 'assimetria' de tratamento por alinhamento político, e alegando 'usurpação da
+  direção' das Petições 15.041 (INSS) e 15.556 (Compliance Zero). No mesmo dia, o presidente do STF Edson
+  Fachin abriu procedimento formal com prazo de cinco dias úteis para Moraes, Mendonça, Gonet e o
+  diretor-geral da PF Andrei Rodrigues se explicarem, e adiou a sessão plenária para a segunda quinzena de
+  setembro. É a primeira medida formal de um ministro contra outro desde a divulgação das mensagens.
 - Lote 27 do corpus: a reação interna da PF à convocação de 24/08/2026 — delegados chamados sob pretexto
   de outro tema foram confrontados com despacho pronto exigindo análise do celular de Vorcaro em 72 horas;
   a cúpula da corporação temeu que o episódio comprometesse outros inquéritos da Compliance Zero por
