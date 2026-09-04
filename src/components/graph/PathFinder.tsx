@@ -67,7 +67,7 @@ export function PathFinder({ index, path, vis, onChange, onSelectNode, onClose }
                   type="button"
                   onClick={() => onChange({ active: i })}
                   aria-pressed={path.active === i}
-                  className={`w-full rounded border px-2 py-1 text-left text-xs ${path.active === i ? "border-accent bg-accent/10 text-fg" : "border-border text-fg-2 hover:border-fg-3"}`}
+                  className={`w-full rounded border px-2 py-1 text-left text-xs ${path.active === i ? "border-accent bg-accent/10 text-fg" : "border-border-strong text-fg-2 hover:border-fg-3"}`}
                 >
                   {i === 0 ? "Caminho mínimo" : `Alternativa ${i}`} · {describe(p)}
                 </button>

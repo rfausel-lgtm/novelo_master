@@ -10,7 +10,7 @@ import {
   type FilterState,
 } from "@/lib/graph/filters";
 import { NODE_CATEGORY_LABEL, type NodeCategory } from "@/lib/graph/types";
-import { FAMILY_COLOR_FALLBACK } from "@/lib/graph/style";
+import { FAMILY_VAR } from "@/lib/graph/style";
 import { RELATIONSHIP_FAMILY } from "@/lib/schema";
 import type { GraphAction } from "./useGraphState";
 import { PanelShell, SectionHeading, ToolButton } from "./ui";
@@ -178,14 +178,14 @@ export function FiltersPanel({
           const label =
             (RELATIONSHIP_TYPE_LABEL as Record<string, string>)[t] ?? EXTRA_TYPE_LABEL[t] ?? t;
           const family = (
-            RELATIONSHIP_FAMILY as Record<string, keyof typeof FAMILY_COLOR_FALLBACK>
+            RELATIONSHIP_FAMILY as Record<string, keyof typeof FAMILY_VAR>
           )[t];
           return (
             <Check
               key={t}
               id={`f-rel-${t}`}
               label={label}
-              color={family ? FAMILY_COLOR_FALLBACK[family] : "#9aa4b1"}
+              color={family ? `var(${FAMILY_VAR[family]})` : "var(--rel-professional)"}
               checked={filters.relationshipTypes.has(t)}
               onChange={() => dispatch({ type: "toggleRelationshipType", relationshipType: t })}
             />

@@ -94,7 +94,7 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
             }
           }
         }}
-        className={`border-border bg-bg-2/95 text-fg placeholder:text-fg-3 focus:border-accent w-full rounded-md border pr-2 pl-8 text-sm outline-none backdrop-blur ${compact ? "h-8" : "h-9"}`}
+        className={`border-border-strong bg-bg-2/95 text-fg placeholder:text-fg-3 focus:border-accent w-full rounded-md border pr-2 pl-8 text-sm outline-none backdrop-blur ${compact ? "h-8" : "h-9"}`}
       />
       <svg aria-hidden="true" viewBox="0 0 20 20" className="text-fg-3 pointer-events-none absolute top-1/2 left-2.5 h-4 w-4 -translate-y-1/2">
         <circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" strokeWidth="1.6" />
@@ -105,7 +105,7 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
           id={listId}
           role="listbox"
           aria-label="Resultados da busca"
-          className="border-border bg-bg-2 absolute z-30 mt-1 max-h-72 w-full overflow-y-auto rounded-md border py-1 shadow-xl"
+          className="border-border-strong bg-bg-2 absolute z-30 mt-1 max-h-72 w-full overflow-y-auto rounded-md border py-1 shadow-xl"
         >
           {hits.map((hit, i) => (
             <li

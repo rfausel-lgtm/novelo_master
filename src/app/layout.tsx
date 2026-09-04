@@ -38,13 +38,38 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#090C11",
-  colorScheme: "dark",
+  themeColor: [
+    { media: "(prefers-color-scheme: dark)", color: "#090C11" },
+    { media: "(prefers-color-scheme: light)", color: "#F4F6F9" },
+  ],
+  colorScheme: "light dark",
 };
+
+/*
+ * Decide o tema antes do primeiro paint. Em export estatico nao ha servidor para negociar,
+ * entao o script vai inline no HTML de cada pagina; sem ele o leitor de tema claro veria um
+ * flash escuro a cada navegacao.
+ */
+const TEMA_INICIAL = `(function(){try{
+var e=localStorage.getItem("novelo-tema");
+var s=window.matchMedia("(prefers-color-scheme: light)").matches?"light":"dark";
+var t=(e==="light"||e==="dark")?e:s;
+var r=document.documentElement;
+r.setAttribute("data-theme",t);
+r.style.colorScheme=t;
+if(e==="light"||e==="dark")r.setAttribute("data-theme-source","user");
+}catch(_){}})();`;
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="pt-BR" className={`${plexSans.variable} ${plexMono.variable} h-full antialiased`}>
+    <html
+      lang="pt-BR"
+      suppressHydrationWarning
+      className={`${plexSans.variable} ${plexMono.variable} h-full antialiased`}
+    >
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: TEMA_INICIAL }} />
+      </head>
       <body className="bg-bg text-fg flex min-h-full flex-col">
         <a
           href="#conteudo"

@@ -10,8 +10,8 @@ import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useMemo, useRef, useState, useSyncExternalStore } from "react";
 import type { GraphLayerPayload, GraphPayload } from "@/lib/graph/types";
 import { buildIndex } from "@/lib/graph/indexes";
-import { buildSigmaGraph } from "@/lib/graph/build";
-import { readPalette, PALETTE_FALLBACK } from "@/lib/graph/style";
+import { applyPalette, buildSigmaGraph } from "@/lib/graph/build";
+import { readPalette, PALETTE_FALLBACK, type Palette } from "@/lib/graph/style";
 import { applyFilters } from "@/lib/graph/filters";
 import { inducedSubgraph, neighborhood } from "@/lib/graph/algorithms";
 import { todayISO } from "@/lib/graph/dates";
@@ -48,6 +48,30 @@ function useReducedMotion(): boolean {
     () => window.matchMedia(RM_QUERY).matches,
     () => false,
   );
+}
+
+/**
+ * Paleta viva: relê as variáveis CSS quando o tema muda (escolha explícita marca data-theme
+ * no <html>; "seguir o sistema" muda pelo media query sem tocar no atributo).
+ */
+function useThemePalette(): Palette {
+  const [palette, setPalette] = useState<Palette>(PALETTE_FALLBACK);
+  useEffect(() => {
+    const sincronizar = () => setPalette(readPalette());
+    sincronizar();
+    const observador = new MutationObserver(sincronizar);
+    observador.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ["data-theme", "style"],
+    });
+    const mq = window.matchMedia("(prefers-color-scheme: dark)");
+    mq.addEventListener("change", sincronizar);
+    return () => {
+      observador.disconnect();
+      mq.removeEventListener("change", sincronizar);
+    };
+  }, []);
+  return palette;
 }
 
 export function GraphExplorer() {
@@ -142,11 +166,12 @@ export function GraphExplorer() {
   }, [base, layerPayload]);
 
   const index = useMemo(() => (payload ? buildIndex(payload) : null), [payload]);
-  const palette = useMemo(
-    () => (typeof window === "undefined" ? PALETTE_FALLBACK : readPalette()),
-    [],
-  );
-  const graph = useMemo(() => (index ? buildSigmaGraph(index, palette) : null), [index, palette]);
+  const palette = useThemePalette();
+  /* Topologia não depende do tema: a troca de tema só repinta (ver applyPalette). */
+  const graph = useMemo(() => (index ? buildSigmaGraph(index, palette) : null), [index]); // eslint-disable-line react-hooks/exhaustive-deps
+  useEffect(() => {
+    if (graph) applyPalette(graph, palette);
+  }, [graph, palette]);
 
   /* Visibilidade derivada */
   const filtered = useMemo(

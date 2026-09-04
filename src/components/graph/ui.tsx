@@ -3,7 +3,7 @@
 import type { ButtonHTMLAttributes, ReactNode } from "react";
 import type { EvidenceClass } from "@/lib/schema";
 import { EVIDENCE_CLASS_LABEL } from "@/lib/schema";
-import { EVIDENCE_COLOR_FALLBACK } from "@/lib/graph/style";
+import { EVIDENCE_VAR } from "@/lib/graph/style";
 
 /** Botão pequeno da barra de ferramentas / painéis. */
 export function ToolButton({
@@ -21,7 +21,7 @@ export function ToolButton({
       : "border-accent/60 bg-bg-2/90 text-accent hover:bg-accent/15"
     : active
       ? "border-fg-2/60 bg-bg-3 text-fg"
-      : "border-border bg-bg-2/90 text-fg-2 hover:border-fg-3 hover:text-fg";
+      : "border-border-strong bg-bg-2/90 text-fg-2 hover:border-fg-3 hover:text-fg";
   return (
     <button type="button" aria-pressed={active} className={`${base} ${tone} ${className}`} {...rest}>
       {children}
@@ -53,7 +53,7 @@ export function PanelShell({
   return (
     <section
       aria-labelledby={labelledBy}
-      className="border-border bg-bg-2/95 pointer-events-auto flex max-h-full flex-col rounded-t-lg border shadow-2xl backdrop-blur md:rounded-lg"
+      className="border-border-strong bg-bg-2/95 pointer-events-auto flex max-h-full flex-col rounded-t-lg border shadow-2xl backdrop-blur md:rounded-lg"
     >
       <header className="border-border flex shrink-0 items-center justify-between gap-2 border-b px-3 py-2">
         <div className="min-w-0 flex-1 text-sm font-semibold">{title}</div>
@@ -72,7 +72,7 @@ export function PanelShell({
 }
 
 export function EvidenceBadge({ cls, small }: { cls: EvidenceClass; small?: boolean }) {
-  const color = EVIDENCE_COLOR_FALLBACK[cls];
+  const color = `var(${EVIDENCE_VAR[cls]})`;
   return (
     <span
       className={`inline-flex items-center gap-1 rounded border font-medium ${small ? "px-1 text-[10px]" : "px-1.5 py-0.5 text-xs"}`}

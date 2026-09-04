@@ -25,7 +25,7 @@ export const NODE_COLOR_FALLBACK: Record<NodeCategory, string> = {
   financial_institution: "#4dbf91",
   organization_other: "#4c8dff",
   event: "#c9a04c",
-  public_act: "#e0c574",
+  public_act: "#bfa6e8",
   transaction: "#4dbf91",
   document: "#b8c2cf",
   source: "#79b8ff",
@@ -40,7 +40,7 @@ export const EVIDENCE_COLOR_FALLBACK: Record<EvidenceClass, string> = {
   I: "#7b8592",
 };
 
-const FAMILY_VAR: Record<RelationshipFamily, string> = {
+export const FAMILY_VAR: Record<RelationshipFamily, string> = {
   institutional: "--rel-institutional",
   financial: "--rel-financial",
   political: "--rel-political",
@@ -50,7 +50,7 @@ const FAMILY_VAR: Record<RelationshipFamily, string> = {
   allegation: "--rel-allegation",
 };
 
-const NODE_VAR: Record<NodeCategory, string> = {
+export const NODE_VAR: Record<NodeCategory, string> = {
   person: "--node-person",
   company: "--node-organization",
   party: "--node-party",
@@ -66,7 +66,7 @@ const NODE_VAR: Record<NodeCategory, string> = {
   evidence: "--node-evidence",
 };
 
-const EVIDENCE_VAR: Record<EvidenceClass, string> = {
+export const EVIDENCE_VAR: Record<EvidenceClass, string> = {
   D: "--ev-d",
   C: "--ev-c",
   A: "--ev-a",
@@ -82,17 +82,32 @@ export interface Palette {
   family: Record<RelationshipFamily, string>;
   node: Record<NodeCategory, string>;
   evidence: Record<EvidenceClass, string>;
+  /** Tons do canvas que mudam com o tema (o WebGL não lê variáveis CSS). */
+  dimNode: string;
+  dimNodeLabel: string;
+  dimEdge: string;
+  hoverBg: string;
+  hoverBorder: string;
+  hoverRing: string;
+  edgeAlpha: number;
 }
 
 export const PALETTE_FALLBACK: Palette = {
   bg: "#090c11",
   fg: "#f4f6f8",
   fg2: "#aab3bf",
-  fg3: "#7b8592",
+  fg3: "#848e9b",
   accent: "#4c8dff",
   family: FAMILY_COLOR_FALLBACK,
   node: NODE_COLOR_FALLBACK,
   evidence: EVIDENCE_COLOR_FALLBACK,
+  dimNode: "rgba(70,78,90,0.55)",
+  dimNodeLabel: "rgba(139,149,163,0.85)",
+  dimEdge: "rgba(120,130,145,0.06)",
+  hoverBg: "rgba(17,22,29,0.92)",
+  hoverBorder: "#232b36",
+  hoverRing: "rgba(244,246,248,0.55)",
+  edgeAlpha: 0.65,
 };
 
 /** Lê a paleta das variáveis CSS (ou devolve o fallback fora do navegador). */
@@ -118,6 +133,13 @@ export function readPalette(): Palette {
     family,
     node,
     evidence,
+    dimNode: read("--dim-node", PALETTE_FALLBACK.dimNode),
+    dimNodeLabel: read("--dim-node-label", PALETTE_FALLBACK.dimNodeLabel),
+    dimEdge: read("--dim-edge", PALETTE_FALLBACK.dimEdge),
+    hoverBg: read("--canvas-hover-bg", PALETTE_FALLBACK.hoverBg),
+    hoverBorder: read("--canvas-hover-border", PALETTE_FALLBACK.hoverBorder),
+    hoverRing: read("--canvas-hover-ring", PALETTE_FALLBACK.hoverRing),
+    edgeAlpha: Number(read("--edge-alpha", "")) || PALETTE_FALLBACK.edgeAlpha,
   };
 }
 
@@ -160,10 +182,14 @@ export function withAlpha(hex: string, alpha: number): string {
 
 /** Tonalidade "apagada" de nós/arestas fora do foco (sem mutar o grafo). */
 export const DIM = {
-  node: "rgba(70,78,90,0.55)",
-  nodeLabel: "rgba(123,133,146,0.6)",
-  edge: "rgba(120,130,145,0.06)",
+  node: PALETTE_FALLBACK.dimNode,
+  nodeLabel: PALETTE_FALLBACK.dimNodeLabel,
+  edge: PALETTE_FALLBACK.dimEdge,
 } as const;
 
-export const EDGE_ALPHA = 0.42;
+/*
+ * A cor da aresta e o canal semantico do projeto (familia da relacao). Abaixo de 0.65 as sete
+ * familias caem para ~2:1 de contraste sobre o fundo, abaixo do minimo de 3:1 da WCAG 1.4.11.
+ */
+export const EDGE_ALPHA = 0.65;
 export const EDGE_ALPHA_ACTIVE = 0.95;

@@ -29,11 +29,11 @@ export function SourcesTable({ rows }: { rows: SourceRow[] }) {
       <div className="mb-4 flex flex-wrap items-end gap-3 text-sm">
         <label className="flex flex-col gap-1 text-xs">
           <span className="text-fg-3">Buscar</span>
-          <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="título ou veículo" className="border-border bg-bg-2 text-fg h-9 rounded-md border px-2" />
+          <input value={q} onChange={(e) => setQ(e.target.value)} placeholder="título ou veículo" className="border-border-strong bg-bg-2 text-fg placeholder:text-fg-3 h-9 rounded-md border px-2" />
         </label>
         <label className="flex flex-col gap-1 text-xs">
           <span className="text-fg-3">Tipo</span>
-          <select value={type} onChange={(e) => setType(e.target.value)} className="border-border bg-bg-2 text-fg h-9 rounded-md border px-2">
+          <select value={type} onChange={(e) => setType(e.target.value)} className="border-border-strong bg-bg-2 text-fg h-9 rounded-md border px-2">
             <option value="all">Todos</option>
             {types.map(([v, l]) => (
               <option key={v} value={v}>

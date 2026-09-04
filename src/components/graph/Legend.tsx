@@ -6,7 +6,7 @@ import {
   type EvidenceClass,
   type RelationshipFamily,
 } from "@/lib/schema";
-import { EVIDENCE_SHAPE, FAMILY_COLOR_FALLBACK, NODE_COLOR_FALLBACK } from "@/lib/graph/style";
+import { EVIDENCE_SHAPE, FAMILY_VAR, NODE_VAR } from "@/lib/graph/style";
 import { NODE_CATEGORY_LABEL, type NodeCategory } from "@/lib/graph/types";
 
 const FAMILIES: RelationshipFamily[] = [
@@ -71,7 +71,7 @@ export function Legend({ compact = false }: { compact?: boolean }) {
               <span
                 aria-hidden="true"
                 className="h-0.5 w-6 rounded"
-                style={{ background: FAMILY_COLOR_FALLBACK[f] }}
+                style={{ background: `var(${FAMILY_VAR[f]})` }}
               />
               <span className="text-fg-2">{RELATIONSHIP_FAMILY_LABEL[f]}</span>
             </li>
@@ -104,7 +104,7 @@ export function Legend({ compact = false }: { compact?: boolean }) {
                 <span
                   aria-hidden="true"
                   className={`h-2.5 w-2.5 shrink-0 ${c === "event" || c === "public_act" ? "rotate-45 rounded-sm" : "rounded-full"}`}
-                  style={{ background: NODE_COLOR_FALLBACK[c] }}
+                  style={{ background: `var(${NODE_VAR[c]})` }}
                 />
                 <span className="text-fg-2">{NODE_CATEGORY_LABEL[c]}</span>
               </li>

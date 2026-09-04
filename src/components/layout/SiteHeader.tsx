@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Logo } from "@/components/ui/Logo";
+import { ThemeToggle } from "@/components/ui/ThemeToggle";
 
 const NAV = [
   { href: "/grafo", label: "Grafo" },
@@ -30,6 +31,7 @@ export function SiteHeader() {
               {item.label}
             </Link>
           ))}
+          <ThemeToggle className="ml-2" />
         </nav>
         <details className="relative md:hidden">
           <summary
@@ -51,6 +53,7 @@ export function SiteHeader() {
                 {item.label}
               </Link>
             ))}
+            <ThemeToggle className="mt-1 self-start" />
           </nav>
         </details>
       </div>

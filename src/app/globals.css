@@ -6,9 +6,11 @@
   --bg-2: #11161d;
   --bg-3: #181e27;
   --border: #232b36;
+  /* Limite de CONTROLE (botao, input, painel): 1.4.11 exige 3:1, o divisor decorativo nao. */
+  --border-strong: #616b79;
   --fg: #f4f6f8;
   --fg-2: #aab3bf;
-  --fg-3: #7b8592;
+  --fg-3: #848e9b;
   --accent: #4c8dff;
 
   /* Famílias de relação (cor = natureza) */
@@ -31,13 +33,119 @@
   --node-evidence: #d7c67a;
   --node-party: #e69b45;
   --node-event: #c9a04c;
-  --node-public-act: #e0c574;
+  --node-public-act: #bfa6e8;
 
   /* Classes de evidência */
   --ev-d: #4dbf91;
   --ev-c: #4c8dff;
   --ev-a: #e69b45;
-  --ev-i: #7b8592;
+  --ev-i: #848e9b;
+
+  /* Canvas do grafo (WebGL nao le variaveis CSS: readPalette() as entrega ao Sigma). */
+  --dim-node: rgba(70, 78, 90, 0.55);
+  --dim-node-label: rgba(139, 149, 163, 0.85);
+  --dim-edge: rgba(120, 130, 145, 0.06);
+  --canvas-hover-bg: rgba(17, 22, 29, 0.92);
+  --canvas-hover-border: #232b36;
+  --canvas-hover-ring: rgba(244, 246, 248, 0.55);
+  --edge-alpha: 0.65;
+}
+
+/*
+ * TEMA CLARO. O bloco aparece duas vezes de proposito: uma para quem segue o sistema e nao
+ * escolheu nada, outra para a escolha explicita. Nao usar light-dark(): readPalette() entrega
+ * o valor bruto ao WebGL e receberia a funcao como string, quebrando o canvas em silencio.
+ */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bg: #f4f6f9;
+    --bg-2: #ffffff;
+    --bg-3: #e7ecf2;
+    --border: #dbe1e9;
+    --border-strong: #767f8d;
+    --fg: #10151c;
+    --fg-2: #414c5a;
+    --fg-3: #5d6875;
+    --accent: #1656c8;
+
+    --rel-institutional: #1a5fd6;
+    --rel-financial: #0a7a55;
+    --rel-political: #9a5a00;
+    --rel-social: #7a2f9e;
+    --rel-professional: #4e5865;
+    --rel-corporate: #0d7175;
+    --rel-allegation: #6b5b34;
+
+    --node-person: #161c24;
+    --node-organization: #1a5fd6;
+    --node-public-body: #3f63b8;
+    --node-financial: #0a7a55;
+    --node-document: #6a7482;
+    --node-source: #0d6f9e;
+    --node-claim: #9a5a00;
+    --node-evidence: #5f6b2a;
+    --node-party: #9a5a00;
+    --node-event: #6b5b34;
+    --node-public-act: #6d3f9c;
+
+    --ev-d: #0a7a55;
+    --ev-c: #1a5fd6;
+    --ev-a: #9a5a00;
+    --ev-i: #5d6875;
+
+    --dim-node: rgba(120, 130, 145, 0.45);
+    --dim-node-label: rgba(93, 104, 117, 0.75);
+    --dim-edge: rgba(90, 100, 115, 0.14);
+    --canvas-hover-bg: rgba(255, 255, 255, 0.94);
+    --canvas-hover-border: #c3ccd8;
+    --canvas-hover-ring: rgba(22, 28, 36, 0.55);
+    --edge-alpha: 0.72;
+  }
+}
+
+:root[data-theme="light"] {
+  --bg: #f4f6f9;
+  --bg-2: #ffffff;
+  --bg-3: #e7ecf2;
+  --border: #dbe1e9;
+  --border-strong: #767f8d;
+  --fg: #10151c;
+  --fg-2: #414c5a;
+  --fg-3: #5d6875;
+  --accent: #1656c8;
+
+  --rel-institutional: #1a5fd6;
+  --rel-financial: #0a7a55;
+  --rel-political: #9a5a00;
+  --rel-social: #7a2f9e;
+  --rel-professional: #4e5865;
+  --rel-corporate: #0d7175;
+  --rel-allegation: #6b5b34;
+
+  --node-person: #161c24;
+  --node-organization: #1a5fd6;
+  --node-public-body: #3f63b8;
+  --node-financial: #0a7a55;
+  --node-document: #6a7482;
+  --node-source: #0d6f9e;
+  --node-claim: #9a5a00;
+  --node-evidence: #5f6b2a;
+  --node-party: #9a5a00;
+  --node-event: #6b5b34;
+  --node-public-act: #6d3f9c;
+
+  --ev-d: #0a7a55;
+  --ev-c: #1a5fd6;
+  --ev-a: #9a5a00;
+  --ev-i: #5d6875;
+
+  --dim-node: rgba(120, 130, 145, 0.45);
+  --dim-node-label: rgba(93, 104, 117, 0.75);
+  --dim-edge: rgba(90, 100, 115, 0.14);
+  --canvas-hover-bg: rgba(255, 255, 255, 0.94);
+  --canvas-hover-border: #c3ccd8;
+  --canvas-hover-ring: rgba(22, 28, 36, 0.55);
+  --edge-alpha: 0.72;
 }
 
 @theme inline {
@@ -45,6 +153,7 @@
   --color-bg-2: var(--bg-2);
   --color-bg-3: var(--bg-3);
   --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
   --color-fg: var(--fg);
   --color-fg-2: var(--fg-2);
   --color-fg-3: var(--fg-3);
@@ -56,6 +165,8 @@
   --color-rel-professional: var(--rel-professional);
   --color-rel-corporate: var(--rel-corporate);
   --color-rel-allegation: var(--rel-allegation);
+  --color-node-person: var(--node-person);
+  --color-node-organization: var(--node-organization);
   --color-ev-d: var(--ev-d);
   --color-ev-c: var(--ev-c);
   --color-ev-a: var(--ev-a);
@@ -65,7 +176,6 @@
 }
 
 html {
-  color-scheme: dark;
   scroll-behavior: smooth;
 }
 
@@ -134,4 +244,17 @@ body {
   background: var(--bg-3);
   padding: 0.1em 0.35em;
   border-radius: 3px;
+}
+
+/* Rede decorativa da home: traço claro sobre papel some antes de traço claro sobre fundo escuro. */
+.rede-de-fundo {
+  opacity: 0.16;
+}
+:root[data-theme="light"] .rede-de-fundo {
+  opacity: 0.3;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .rede-de-fundo {
+    opacity: 0.3;
+  }
 }

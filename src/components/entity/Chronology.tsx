@@ -48,7 +48,7 @@ export function Chronology({ items }: { items: TimelineItem[] }) {
       <div className="border-border mb-6 flex flex-wrap items-end gap-4 border-y py-3 text-sm">
         <label className="flex flex-col gap-1 text-xs">
           <span className="text-fg-3">Agente</span>
-          <select value={agent} onChange={(e) => setAgent(e.target.value)} className="border-border bg-bg-2 text-fg h-9 max-w-xs rounded-md border px-2">
+          <select value={agent} onChange={(e) => setAgent(e.target.value)} className="border-border-strong bg-bg-2 text-fg h-9 max-w-xs rounded-md border px-2">
             <option value="all">Todos</option>
             {agents.map(([id, name]) => (
               <option key={id} value={id}>
@@ -59,7 +59,7 @@ export function Chronology({ items }: { items: TimelineItem[] }) {
         </label>
         <label className="flex flex-col gap-1 text-xs">
           <span className="text-fg-3">Tipo</span>
-          <select value={kind} onChange={(e) => setKind(e.target.value)} className="border-border bg-bg-2 text-fg h-9 rounded-md border px-2">
+          <select value={kind} onChange={(e) => setKind(e.target.value)} className="border-border-strong bg-bg-2 text-fg h-9 rounded-md border px-2">
             <option value="all">Todos</option>
             <option value="event">Eventos</option>
             <option value="public_act">Atos públicos</option>
