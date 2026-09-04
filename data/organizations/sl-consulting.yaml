@@ -1,0 +1,21 @@
+id: sl-consulting
+kind: organization
+name: SL Consulting
+aliases: []
+org_type: company
+summary: Empresa de serviço de concierge de luxo representada pelo empresário Léo Serrano. Segundo depoimento
+  de Daniel Vorcaro à PF em 28/08/2026, organizou a viagem à Disney/Universal (Orlando) oferecida a Paulo
+  Sérgio Neves de Souza, ex-diretor de Fiscalização do Banco Central, no início de 2024.
+why_in_novelo: Empresa apontada, em depoimento de Daniel Vorcaro à PF, como intermediária do serviço de
+  viagem oferecido a ex-diretor do Banco Central.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-09-03-vorcaro-agrado-disney
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

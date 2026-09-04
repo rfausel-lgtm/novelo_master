@@ -1,0 +1,37 @@
+id: evt-2026-08-28-vorcaro-admite-agrado-disney-paulo-sergio
+kind: event
+title: Vorcaro admite ter oferecido viagem à Disney a Paulo Sérgio Neves de Souza, classificando-a como
+  'agrado'
+event_type: statement
+date: '2026-08-28'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- paulo-sergio-neves-de-souza
+- leo-serrano
+- sl-consulting
+description: Em depoimento por videoconferência da Papuda, em 28/08/2026, Vorcaro confirmou ter oferecido
+  a Paulo Sérgio Neves de Souza, ex-diretor de Fiscalização do Banco Central, a viagem à Disney/Universal
+  já referida em apuração anterior (lote 20) — organizada pela empresa SL Consulting, representada por
+  Léo Serrano, no início de 2024. Classificou o gesto como cortesia pessoal ('agrado'), não como contrapartida
+  por serviços, e negou que qualquer servidor do Banco Central tivesse 'trabalhado' para ele.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-vorcaro-admite-agrado-disney-paulo-sergio
+source_ids:
+- src-poder360-2026-09-03-vorcaro-agrado-disney
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: Vorcaro negou que qualquer servidor do Banco Central tivesse 'trabalhado' para ele.
+  source_ids:
+  - src-poder360-2026-09-03-vorcaro-agrado-disney
+  by_id: daniel-vorcaro
+  date: '2026-08-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

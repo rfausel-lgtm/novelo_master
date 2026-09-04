@@ -7,6 +7,10 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 36 do corpus: Vorcaro admite, em depoimento de 28/08/2026, a viagem à Disney/Universal oferecida a
+  Paulo Sérgio Neves de Souza — já apurada pela imprensa (lote 20) —, identificando a empresa organizadora
+  (SL Consulting, do empresário Léo Serrano) e classificando o gesto como cortesia pessoal ('agrado'), não
+  contrapartida por serviços; nega que qualquer servidor do BC tenha 'trabalhado' para ele.
 - Lote 35 do corpus: a terceira proposta de delação de Vorcaro, rejeitada por 'ausência de fatos novos'
   em agosto de 2026, em que alegou que doações de 2022 a Tarcísio de Freitas e Jair Bolsonaro seriam
   propina articulada por Gilberto Kassab para manter o Credcesta no governo paulista. Classificado como
