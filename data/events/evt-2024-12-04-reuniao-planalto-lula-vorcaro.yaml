@@ -53,8 +53,17 @@ cited_position:
   source_ids:
   - src-senado-2026-04-08-galipolo-cpi
 location: Palácio do Planalto, Brasília
+place:
+  name: Palácio do Planalto, Brasília (DF)
+  kind: public_body
+  lat: -15.799
+  lon: -47.86083
+  precision: exact
+  note: Coordenada do edifício, conforme o Wikidata (Q496950). A reunião ocorreu no gabinete presidencial;
+    o registro não indica sala.
+  source_ids: []
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
