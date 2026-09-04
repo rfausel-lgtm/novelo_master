@@ -1,0 +1,43 @@
+id: evt-2019-fgc-emprestimo-emergencial-ao-maxima
+kind: event
+title: FGC concede empréstimo emergencial ao Banco Máxima na operação que viabilizou a troca de controle
+event_type: transaction
+date: '2019'
+date_precision: year
+participant_ids:
+- fundo-garantidor-de-creditos
+- banco-master
+- daniel-vorcaro
+description: Segundo reportagem de janeiro de 2026, o FGC concedeu ao Banco Máxima empréstimo emergencial
+  de entre R$ 20 milhões e R$ 30 milhões em 2019, como parte da operação que viabilizou a transferência
+  de controle a Daniel Vorcaro. O pedido inicial seria de cerca de R$ 100 milhões, reduzido após problemas
+  com imóveis oferecidos em garantia pela família Vorcaro. O FGC sustenta que o empréstimo foi quitado
+  regularmente e que não se destinava a financiar a aquisição, mas a socorrer instituição em dificuldades.
+  O Estatuto do fundo, à época, previa expressamente esse tipo de assistência a associadas e a seus controladores,
+  inclusive com o objetivo de promover transferência de controle acionário — o que retira da operação,
+  em si, o caráter de anomalia.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-fgc-emprestimo-emergencial-maxima-2019
+- ev-estatuto-fgc-preve-assistencia-a-controladores
+source_ids:
+- src-msn-brasil247-2026-01-fgc-apoiou-compra-maxima-2019
+- src-bcb-normativos-res-4222-estatuto-fgc
+document_ids:
+- doc-2016-02-25-estatuto-fgc-anexo-i-res-4469
+public_act_ids: []
+cited_position:
+- kind: clarification
+  summary: Segundo o FGC, o empréstimo foi quitado regularmente e não se destinava a financiar a aquisição
+    do banco, mas a socorrer instituição em dificuldades — 'o FGC não concede crédito com finalidade de
+    compra'.
+  source_ids:
+  - src-msn-brasil247-2026-01-fgc-apoiou-compra-maxima-2019
+  by_id: fundo-garantidor-de-creditos
+  date: 2026-01
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

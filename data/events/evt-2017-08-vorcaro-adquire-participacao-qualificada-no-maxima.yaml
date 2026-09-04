@@ -8,16 +8,19 @@ participant_ids:
 - banco-master
 - banco-central-do-brasil
 - sidnei-correa-marques
-description: Segundo a reconstituição do Valor Econômico a partir dos extratos dos votos do Banco Central,
+description: 'Segundo a reconstituição do Valor Econômico a partir dos extratos dos votos do Banco Central,
   o banqueiro ingressou no então Banco Máxima em agosto de 2017 com 20% do capital, em participação qualificada
   aprovada por decisão monocrática do diretor Sidnei Corrêa Marques. O pedido para assumir o bloco de
-  controle viria depois.
+  controle viria depois. O banco precisava de capitalização: segundo a Bloomberg Línea, Vorcaro acertou
+  o acordo em 2017 com a promessa de injetar mais de R$ 75 milhões, com aporte inicial de R$ 25 milhões.'
 evidence_class: A
 status: unverified
 evidence_ids:
 - ev-valor-participacao-qualificada-em-2017
+- ev-maxima-precisava-de-capitalizacao-2017
 source_ids:
 - src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- src-bloomberglinea-2025-11-18-trajetoria-vorcaro-master
 document_ids: []
 public_act_ids: []
 cited_position: []

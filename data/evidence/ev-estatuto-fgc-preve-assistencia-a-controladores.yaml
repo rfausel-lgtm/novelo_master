@@ -1,0 +1,27 @@
+id: ev-estatuto-fgc-preve-assistencia-a-controladores
+kind: evidence
+classification: D
+proposition: 'O Estatuto do FGC vigente em dezembro de 2017 (Anexo I da Resolução CMN nº 4.222/2013, com
+  redação dada pela Resolução nº 4.469, de 25/2/2016) previa expressamente, no art. 4º, que integra o
+  objeto do fundo a contratação de operações de assistência ou de suporte financeiro, inclusive de liquidez,
+  com instituições associadas — diretamente ou por intermédio de empresas por estas indicadas — e ''inclusive
+  com seus acionistas controladores''. O § 1º admitia que essas operações fossem contratadas ''inclusive,
+  com o objetivo de promover a transferência de controle acionário''. Ou seja: apoio financeiro do FGC
+  a um banco associado, e mesmo a seus controladores, com a finalidade de viabilizar troca de controle,
+  não é, por si só, instrumento atípico nem irregular — é hipótese expressa da norma, com limites quantitativos
+  definidos no § 2º (teto do valor projetado dos instrumentos garantidos da associada, 25% do patrimônio
+  líquido do FGC por associada ou conglomerado e 50% para o conjunto das operações). A equipe leu o texto
+  consolidado da resolução diretamente no sistema de normativos do Banco Central.'
+document_ids:
+- doc-2016-02-25-estatuto-fgc-anexo-i-res-4469
+source_ids:
+- src-bcb-normativos-res-4222-estatuto-fgc
+excerpt: Integra também o objeto do FGC (...) a contratação de operações de assistência ou de suporte
+  financeiro, incluindo operações de liquidez com as instituições associadas (...) inclusive com seus
+  acionistas controladores.
+date: '2016-02-25'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

@@ -1,0 +1,26 @@
+id: rev-2026-09-04-lote-54-fgc-na-origem-do-master
+kind: revision
+date: '2026-09-03'
+title: 'Lote 54: o que era, afinal, o aporte do FGC na origem do Master'
+summary: 'Frente aberta a pedido do editor, sobre a entrada de Vorcaro no Banco Máxima em 2017. A equipe
+  baixou e leu o texto consolidado da Resolução CMN nº 4.222/2013 no sistema de normativos do Banco Central
+  e identificou a redação do Estatuto do FGC vigente em dezembro de 2017: o art. 4º prevê expressamente
+  assistência financeira do fundo a instituições associadas e a seus acionistas controladores, inclusive
+  para promover transferência de controle acionário. Isso retira da operação, em si, o caráter de anomalia
+  — correção importante contra a leitura intuitiva de escândalo. Em paralelo, a verificação enfraqueceu
+  o número de dezembro de 2017 (fonte única, não reproduzida pelas demais coberturas dos mesmos votos)
+  e acrescentou uma operação distinta e melhor documentada: o empréstimo emergencial de R$ 20 milhões
+  a R$ 30 milhões concedido pelo FGC ao Máxima em 2019, com a versão do próprio fundo de que não financia
+  aquisições. Nenhuma fonte reconcilia os dois números, e nenhuma investigação em curso puxou esse fio.'
+affected_ids:
+- fundo-garantidor-de-creditos
+- daniel-vorcaro
+- banco-master
+- banco-central-do-brasil
+reason: Lacuna explícita do corpus sobre o instrumento do aporte do FGC, apontada pelo editor e apurada
+  com documento primário.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

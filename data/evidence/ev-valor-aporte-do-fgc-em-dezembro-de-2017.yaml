@@ -1,7 +1,9 @@
 id: ev-valor-aporte-do-fgc-em-dezembro-de-2017
 classification: A
-proposition: Segundo os votos do Banco Central, em dezembro de 2017 Daniel Vorcaro recebeu aporte de R$
-  15,447 milhões do Fundo Garantidor de Créditos para comprar participação no banco.
+proposition: 'Segundo os votos do Banco Central, em dezembro de 2017 Daniel Vorcaro recebeu aporte de
+  R$ 15,447 milhões do Fundo Garantidor de Créditos para comprar participação no banco. Verificação posterior
+  da equipe: o dado consta de um único veículo e não é reproduzido pelas demais coberturas dos mesmos
+  votos; ver ev-aporte-fgc-2017-fonte-unica-nao-corroborada.'
 source_ids:
 - src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
 date: 2017-12

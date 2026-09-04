@@ -4,19 +4,36 @@ name: FGC
 full_name: Fundo Garantidor de Créditos
 org_type: association
 jurisdiction: Brasil
-summary: Entidade privada que garante depósitos e investimentos em instituições financeiras. Na liquidação
+summary: 'Entidade privada que garante depósitos e investimentos em instituições financeiras. Na liquidação
   do grupo Master, a maior operação de ressarcimento de sua história, estimou inicialmente cerca de 1,6
   milhão de credores elegíveis e R$ 41 bilhões em garantias; em 15/07/2026 já havia desembolsado R$ 40,03
   bilhões (98,5%) a mais de 718 mil credores nos três bancos do núcleo Master, restando R$ 1,83 bilhão
   a pagar em todo o conglomerado (incluindo Pleno e Will Bank). Enfrentou milhares de reclamações por
   demora e instabilidade de sistema nos primeiros meses, mesmo pagando em ritmo recorde. O Banco Central
-  concluiu, em maio de 2026, que a operação não representou risco sistêmico ao SFN.
+  concluiu, em maio de 2026, que a operação não representou risco sistêmico ao SFN. Além de garantir depósitos,
+  o FGC tem, por estatuto, instrumento ordinário de assistência financeira a instituições associadas e
+  a seus acionistas controladores, inclusive com o objetivo de promover transferência de controle acionário
+  (Anexo I da Resolução CMN nº 4.222/2013). Foi com base nesse tipo de operação que o fundo apareceu,
+  segundo a imprensa, na origem do próprio Banco Master: há registro de um empréstimo emergencial de R$
+  20 milhões a R$ 30 milhões ao Banco Máxima em 2019, na operação que viabilizou a troca de controle a
+  Daniel Vorcaro, e a menção, em fonte única, a um aporte de R$ 15,447 milhões em dezembro de 2017. O
+  fundo sustenta que não concede crédito com finalidade de compra.'
 why_in_novelo: Sua cobertura foi objeto de emenda parlamentar citada pela Polícia Federal em decisão do
   STF, e o fundo arcou com garantias após a liquidação do Banco Master, segundo a imprensa.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+- kind: clarification
+  summary: Segundo o FGC, o empréstimo ao Máxima foi quitado regularmente e não se destinava a financiar
+    a aquisição do banco, mas a socorrer instituição em dificuldades — 'o FGC não concede crédito com
+    finalidade de compra'.
+  source_ids:
+  - src-msn-brasil247-2026-01-fgc-apoiou-compra-maxima-2019
+  by_id: fundo-garantidor-de-creditos
+  date: 2026-01
+open_questions:
+- Não se conhece o instrumento nem as condições do aporte de R$ 15,447 milhões atribuído ao FGC em dezembro
+  de 2017, nem como ele se relaciona com o empréstimo emergencial de R$ 20 milhões a R$ 30 milhões noticiado
+  para 2019. O FGC declaradamente não divulga detalhes desse tipo de operação; fechar a lacuna exigiria
+  a íntegra sem tarjas dos votos BCB 20/2019 e 218/2019 ou pedido de acesso ao próprio fundo.
 source_ids:
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
 - src-cnn-2026-03-04-relembre-crise-master
@@ -24,6 +41,8 @@ source_ids:
 - src-cnnbrasil-2025-12-26-fgc-reembolsos-2026
 - src-moneytimes-2026-07-15-fgc-1-83-bilhoes-pendentes
 - src-seudinheiro-2026-01-29-fgc-reclamacoes
+- src-bcb-normativos-res-4222-estatuto-fgc
+- src-msn-brasil247-2026-01-fgc-apoiou-compra-maxima-2019
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

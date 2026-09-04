@@ -7,17 +7,29 @@ participant_ids:
 - daniel-vorcaro
 - fundo-garantidor-de-creditos
 - banco-master
-description: Os votos do Banco Central registram, segundo a reconstituição publicada a partir dos extratos
+description: 'Os votos do Banco Central registram, segundo a reconstituição publicada a partir dos extratos
   obtidos pelo Valor Econômico, aporte de R$ 15,447 milhões do Fundo Garantidor de Créditos em dezembro
-  de 2017 para a compra de participação no banco. As fontes lidas não detalham o instrumento nem as condições
-  do aporte.
+  de 2017 para a compra de participação no banco. Verificação posterior da equipe enfraqueceu o registro:
+  o número aparece em um único veículo e não é reproduzido pelas demais coberturas dos mesmos votos, que
+  listam outros valores sem mencionar o FGC. Permanece sem esclarecimento qual teria sido o instrumento
+  e quais as condições. Registre-se, porém, que o Estatuto do FGC vigente à época previa expressamente
+  operações de assistência financeira a instituições associadas e a seus acionistas controladores, inclusive
+  para promover transferência de controle acionário — de modo que apoio do fundo nessa operação não seria,
+  por si só, atípico. Há ainda notícia de um empréstimo emergencial distinto, de R$ 20 milhões a R$ 30
+  milhões, concedido pelo FGC ao Máxima em 2019; nenhuma fonte localizada reconcilia os dois números.'
 evidence_class: A
 status: unverified
 evidence_ids:
 - ev-valor-aporte-do-fgc-em-dezembro-de-2017
+- ev-aporte-fgc-2017-fonte-unica-nao-corroborada
+- ev-estatuto-fgc-preve-assistencia-a-controladores
+- ev-fgc-emprestimo-emergencial-maxima-2019
 source_ids:
 - src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
-document_ids: []
+- src-bcb-normativos-res-4222-estatuto-fgc
+- src-msn-brasil247-2026-01-fgc-apoiou-compra-maxima-2019
+document_ids:
+- doc-2016-02-25-estatuto-fgc-anexo-i-res-4469
 public_act_ids: []
 cited_position: []
 kind: event

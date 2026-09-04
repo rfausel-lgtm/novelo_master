@@ -1,0 +1,23 @@
+id: ev-aporte-fgc-2017-fonte-unica-nao-corroborada
+kind: evidence
+classification: A
+proposition: 'Tentativa de verificação do aporte de R$ 15,447 milhões atribuído ao FGC em dezembro de
+  2017: o número aparece em um único veículo — Let''s Money, em 20/04/2026 —, que o atribui aos votos
+  do Banco Central obtidos pelo Valor Econômico via Lei de Acesso à Informação. As demais coberturas dos
+  mesmos votos, publicadas na mesma época, não reproduzem esse dado: a versão distribuída pela Folhapress
+  descreve a mesma triangulação com outros valores (R$ 40 milhões pela compra das ações de Sabbá, além
+  de R$ 48,1 milhões, R$ 22,5 milhões, R$ 70 milhões e R$ 30 milhões) e não menciona o FGC. A equipe não
+  localizou a íntegra dos votos BCB 20/2019 e 218/2019 — o Banco Central divulgou apenas extratos, com
+  trechos sob tarja —, nem manifestação do FGC, do BC ou da defesa de Vorcaro sobre esse aporte específico.
+  O registro permanece, portanto, como alegação de fonte única não corroborada.'
+document_ids: []
+source_ids:
+- src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
+attributed_to: Let's Money, atribuindo o dado a votos do Banco Central obtidos pelo Valor Econômico via
+  LAI; não replicado por outros veículos que cobriram os mesmos votos
+date: '2026-04-20'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
