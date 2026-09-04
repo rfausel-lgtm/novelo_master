@@ -7,6 +7,11 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Lote 43 do corpus: a segunda delação premiada do caso — em 03/09/2026, a PGR fechou acordo de
+  colaboração com Antonio Carlos Freixo Júnior ('Mineiro'), o operador financeiro que movimentava os
+  repasses de Vorcaro ao Havengate Development Fund para o filme 'Dark Horse'. Freixo relatou operações
+  'não ortodoxas', incluindo dinheiro em espécie, mas alegou desconhecer a destinação final dos recursos.
+  Eduardo Bolsonaro negou ter recebido recursos; Flávio Bolsonaro reiterou destinação integral à produção.
 - Lote 42 do corpus: Nelson Tanure e a Ligga Telecom em profundidade. A Ligga aplicou entre R$ 353 milhões
   (dez/2022) e R$ 388,6 milhões (set/2025) do caixa em CCBs do Banco Master, decisão que não passou pelo
   Conselho de Administração; um sócio minoritário notificou a empresa alegando desvio de R$ 400 milhões

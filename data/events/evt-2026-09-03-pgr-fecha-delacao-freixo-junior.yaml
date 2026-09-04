@@ -1,0 +1,46 @@
+id: evt-2026-09-03-pgr-fecha-delacao-freixo-junior
+kind: event
+title: PGR fecha segunda delação do caso Master, com o operador dos repasses ao 'Dark Horse'
+event_type: statement
+date: '2026-09-03'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- antonio-carlos-freixo-junior
+- havengate-development-fund
+- flavio-bolsonaro
+- eduardo-bolsonaro
+description: A PGR fechou acordo de colaboração premiada com Antonio Carlos Freixo Júnior ('Mineiro'),
+  doleiro que operacionalizou os repasses de recursos ligados a Vorcaro ao Havengate Development Fund,
+  destinados ao financiamento do filme 'Dark Horse' — a segunda delação do caso, após a de João Carlos
+  Mansur. Freixo confirmou as transferências, mas alegou desconhecer a destinação final dos recursos;
+  relatou operações 'não ortodoxas', incluindo movimentação de dinheiro em espécie. Eduardo Bolsonaro
+  negou ter recebido recursos; Flávio Bolsonaro reiterou que os valores foram integralmente destinados
+  à produção.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-freixo-junior-delacao-dark-horse
+source_ids:
+- src-brasildefato-2026-09-03-pgr-delacao-mineiro
+- src-anoticiadovale-2026-09-04-mineiro-malas-de-dinheiro
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: Eduardo Bolsonaro negou ter recebido recursos de Vorcaro.
+  source_ids:
+  - src-brasildefato-2026-09-03-pgr-delacao-mineiro
+  by_id: eduardo-bolsonaro
+  date: '2026-09-03'
+- kind: denial
+  summary: Flávio Bolsonaro alegou que os recursos foram integralmente destinados à produção do filme.
+  source_ids:
+  - src-brasildefato-2026-09-03-pgr-delacao-mineiro
+  by_id: flavio-bolsonaro
+  date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'

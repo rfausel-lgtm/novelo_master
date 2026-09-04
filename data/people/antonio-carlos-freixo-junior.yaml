@@ -1,0 +1,27 @@
+id: antonio-carlos-freixo-junior
+kind: person
+name: Antonio Carlos Freixo Júnior
+category: businessperson
+role: Operador financeiro ('doleiro'), dono da Entre Investimentos e Participações; conhecido como 'Mineiro'
+positions: []
+summary: Apontado como o operador que intermediou as remessas de recursos ligados a Daniel Vorcaro ao
+  Havengate Development Fund, destinadas ao financiamento do filme 'Dark Horse'. Em 03/09/2026 fechou
+  acordo de colaboração premiada com a PGR — a segunda delação do caso, após a de João Carlos Mansur.
+  Segundo o acordo, confirmou as transferências ao fundo administrado por Paulo Calixto, mas alegou desconhecer
+  a destinação final dos recursos; relatou ter operado transferências que considerava 'não ortodoxas',
+  incluindo repasses sem lastro documental e movimentação de dinheiro em espécie.
+why_in_novelo: Firmou a segunda delação premiada do caso Banco Master, sobre os repasses ao filme 'Dark
+  Horse'.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-brasildefato-2026-09-03-pgr-delacao-mineiro
+aliases:
+- Mineiro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-03'
+created_at: '2026-09-03'
+updated_at: '2026-09-03'
