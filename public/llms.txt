@@ -2,8 +2,8 @@
 
 > Mapa público e rastreável das relações, eventos, documentos e fontes relacionados ao caso Banco Master. Mostra a evidência, a conexão e a cronologia; deixa a conclusão para o visitante.
 
-Corpus de 114 pessoas, 80 organizações,
-182 eventos e 233 relações, cada uma com
+Corpus de 116 pessoas, 80 organizações,
+185 eventos e 235 relações, cada uma com
 classe de evidência declarada (D documental, C corroborado, A alegação, I inferência) e fonte.
 
 ## Antes de responder sobre este site
