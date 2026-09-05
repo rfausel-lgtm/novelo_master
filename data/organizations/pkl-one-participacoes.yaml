@@ -20,10 +20,15 @@ open_questions:
 - 'Há divergência sobre o valor pago pelo Banco Máxima pelos 50%: o Poder360 registra R$ 22 milhões; outra
   apuração, de veículo de menor confiabilidade, fala em R$ 30 milhões com retenção de 50% por Augusto
   Lima. A equipe não conciliou as versões.'
+- O corpus mantém dois registros distintos para o que provavelmente é a mesma empresa — 'PKL One' e 'PKL
+  One Participações S.A.' —, descritos a partir de reportagens sobre operações diferentes, no Amapá e
+  na Bahia. A decisão judicial do Rio nomeia a parte como PKL One Participações S.A. A equipe não localizou
+  o CNPJ que permitiria confirmar a identidade e unificar os registros.
 source_ids:
 - src-poder360-2026-credcesta-arquitetura-e-privatizacao
+- src-djen-cnj-agravo-3000060-09-2026-tjrj
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-05'

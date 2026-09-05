@@ -16,12 +16,15 @@ open_questions:
   Trustee (gestora ligada ao Master, liquidada em 03/09/2026) comprou maciçamente papéis dos fundos Revolution
   e Texas I FIA entre jul-ago/2024, inflando artificialmente seus preços — alegação sob apuração judicial,
   não julgada.
+- A cautelar do Rioprevidência migrou para a Justiça Federal, por pedido de intervenção do Banco Central,
+  e depois ao Supremo; o corpus não apurou sob qual número os autos originários tramitam na corte.
 source_ids:
 - src-stf-2026-05-26-oitava-fase-castro
 - src-conjur-2026-07-17-pge-rj-cobra-master-rioprevidencia
+- src-djen-cnj-agravo-3000060-09-2026-tjrj
 full_name: Fundo Único de Previdência Social do Estado do Rio de Janeiro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-05'

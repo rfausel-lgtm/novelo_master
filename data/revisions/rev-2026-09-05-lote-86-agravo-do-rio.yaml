@@ -1,0 +1,26 @@
+id: rev-2026-09-05-lote-86-agravo-do-rio
+kind: revision
+date: '2026-09-05'
+title: Lote 86 — o caso gêmeo do Rio, e o caminho que ele tomou até o Supremo
+summary: 'Obtidas as cinco publicações do agravo nº 3000060-09.2026.8.19.0000 do TJ-RJ, com os inteiros
+  teores. A ação de origem é a cautelar nº 3049678-51.2025.8.19.0001, do Estado do Rio e do Rioprevidência
+  contra o Banco Master e a PKL One Participações, por crédito de cerca de R$ 970 milhões. A liminar tem
+  a mesma arquitetura da do Amapá — retenção, provisionamento, prestação de contas a cada noventa dias
+  e proibição de medidas constritivas —, com multa de R$ 50 mil por servidor indevidamente negativado.
+  Os autores sustentam atuação integrada entre o banco e a PKL, com possível grupo econômico, e afirmam
+  que o CredCesta foi ''originado dentro da estrutura do próprio Banco Master''. O percurso processual
+  difere do Amapá: o Banco Central pediu para intervir, o juízo estadual remeteu à Justiça Federal e esta
+  ao Supremo, o que levou o tribunal estadual a julgar o agravo prejudicado. Registrada a provável duplicação
+  de registros da PKL no próprio corpus.'
+affected_ids:
+- banco-master
+- rioprevidencia
+- pkl-one-participacoes
+- pkl-one
+- amapa-previdencia
+reason: Pedido de obtenção do agravo do TJ-RJ.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

@@ -1,0 +1,20 @@
+id: ev-caso-do-rio-migrou-para-a-justica-federal-e-para-o-stf
+kind: evidence
+classification: D
+proposition: O caso do Rio percorreu três instâncias de competência em poucos meses. O Banco Central peticionou
+  nos autos de origem informando ter interesse na lide; o juízo estadual então modificou a competência
+  e determinou o encaminhamento à Justiça Federal; e esta, por sua vez, remeteu os autos originários ao
+  Supremo Tribunal Federal. Em 29/06/2026 o tribunal estadual reconheceu sua incompetência absoluta e
+  julgou o agravo prejudicado. A cautelar do Amapá, com a mesma tese e o mesmo réu, permanece na Justiça
+  estadual — onde, em 10/08/2026, o juízo rejeitou expressamente o pedido de declínio de competência formulado
+  por terceiro interessado.
+document_ids:
+- doc-2026-06-29-decisao-agravo-3000060-tjrj
+source_ids:
+- src-djen-cnj-agravo-3000060-09-2026-tjrj
+date: '2026-06-29'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

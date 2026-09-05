@@ -1,0 +1,32 @@
+id: doc-2026-06-29-decisao-agravo-3000060-tjrj
+kind: document
+title: Decisão monocrática no agravo do Banco Master contra a cautelar do Rioprevidência
+doc_type: judicial_decision
+date: '2026-06-29'
+source_ids:
+- src-djen-cnj-agravo-3000060-09-2026-tjrj
+summary: Reconhece a incompetência absoluta da câmara para prosseguir no julgamento, depois que os autos
+  de origem migraram para a Justiça Federal — por força de pedido de intervenção do Banco Central — e
+  desta para o Supremo Tribunal Federal. Registra que a decisão agravada fica sujeita à revisão pelo juízo
+  competente, nos termos do art. 64, § 4º, do Código de Processo Civil, e julga o recurso prejudicado,
+  não o conhecendo. O agravo interno interposto contra o indeferimento do efeito suspensivo também restou
+  prejudicado.
+is_official: true
+related_entity_ids:
+- banco-master
+- rioprevidencia
+- pkl-one-participacoes
+- banco-central-do-brasil
+issuer: Desembargador Márcio Quintes Gonçalves, 9ª Câmara de Direito Público do TJ-RJ
+date_precision: day
+url: https://comunicaapi.pje.jus.br/api/v1/comunicacao?numeroProcesso=30000600920268190000
+reference: TJ-RJ, agravo de instrumento nº 3000060-09.2026.8.19.0000, decisão monocrática publicada em
+  29/06/2026
+excerpt: POSTERIOR MODIFICAÇÃO DA COMPETÊNCIA PARA A JUSTIÇA FEDERAL QUE, POR SUA VEZ, REMETEU OS AUTOS
+  ORIGINÁRIOS AO SUPREMO TRIBUNAL FEDERAL. INCOMPETÊNCIA ABSOLUTA DESTA CÂMARA DE DIREITO PÚBLICO PARA
+  SEGUIR COM O JULGAMENTO DO AGRAVO DE INSTRUMENTO.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

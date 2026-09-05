@@ -1,0 +1,21 @@
+id: ev-cautelar-do-rio-identificada-e-suas-partes
+kind: evidence
+classification: D
+proposition: A ação de origem do agravo é a tutela cautelar antecedente nº 3049678-51.2025.8.19.0001,
+  da 2ª Vara de Fazenda Pública da Comarca da Capital do Rio de Janeiro, ajuizada pelo Estado do Rio de
+  Janeiro e pelo Fundo Único de Previdência Social do Estado — o Rioprevidência — contra o Banco Master
+  e a PKL One Participações S.A., para evitar o perecimento de crédito previdenciário estimado em cerca
+  de R$ 970 milhões, decorrente de aplicações em letras financeiras do banco. É a ação gêmea da cautelar
+  do Amapá, com a mesma tese e estrutura.
+document_ids:
+- doc-2026-06-29-decisao-agravo-3000060-tjrj
+source_ids:
+- src-djen-cnj-agravo-3000060-09-2026-tjrj
+excerpt: pretendendo evitar perecimento de crédito previdenciário estimado em aproximadamente R$ 970 milhões,
+  decorrente de investimentos realizados pela autarquia em Letras Financeiras emitidas pelo Banco Master.
+date: '2026-01-21'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'
