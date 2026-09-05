@@ -1,0 +1,33 @@
+id: doc-2024-01-email-vouguinha-remete-documentos-ao-itaprevi
+kind: document
+title: E-mail de Paula Vouguinha, do Banco Master, remetendo a documentação de credenciamento ao Itaprevi
+doc_type: letter
+date: 2024-01
+source_ids:
+- src-itaprevi-processo-200000015-2024
+summary: Duas mensagens juntadas aos autos, com os assuntos 'Credenciamento Banco Master S.A - Itaguaí/RJ
+  - ITAPREVI' e a mesma linha com 'Parte 2'. O corpo enumera a documentação anexada — ato de autorização
+  do Banco Central e certidão da situação da instituição, certidão conjunta negativa de débitos federais,
+  certidões negativas municipais e estaduais, certificado de regularidade do FGTS, atas de assembleia
+  com as eleições de diretoria e certidões de falência — e informa que os demais documentos seguiriam
+  no e-mail seguinte. É assinado por Paula Vouguinha, Relações Institucionais, no endereço do banco na
+  Avenida Brigadeiro Faria Lima. A mesma pessoa participou da sessão de credenciamento do regime próprio
+  de Aparecida de Goiânia em dezembro de 2023 e apresentou a instituição ao comitê de investimentos do
+  Amapá em março de 2024.
+is_official: true
+related_entity_ids:
+- banco-master
+- itaprevi-itaguai
+- paula-vouguinha
+issuer_id: banco-master
+issuer: Paula Vouguinha, Relações Institucionais do Banco Master
+date_precision: month
+reference: E-mails juntados às fls. 3 dos autos do processo nº 200.000.015/2024
+excerpt: Sendo assim, seguem em anexo os documentos listados abaixo (...) Encaminharemos os demais documentos
+  no próximo e-mail. Peço que, por gentileza, acuse recebimento do presente e-mail. Atenciosamente, Paula
+  Vouguinha — Relações Institucionais
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

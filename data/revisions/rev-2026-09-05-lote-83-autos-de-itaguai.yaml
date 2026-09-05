@@ -1,0 +1,28 @@
+id: rev-2026-09-05-lote-83-autos-de-itaguai
+kind: revision
+date: '2026-09-05'
+title: 'Lote 83 — os autos de Itaguaí: duas cópias do mesmo termo, e o e-mail que o enviou'
+summary: 'Obtidos e lidos integralmente os autos do processo administrativo nº 200.000.015/2024 do Itaprevi,
+  em 203 páginas — o anexo que o Tribunal de Contas do Estado do Rio de Janeiro examinou. Com eles, a
+  identidade textual entre os termos de credenciamento do Banco Master deixa de ser descrição de auditoria
+  sigilosa e passa a ser constatação da equipe, sobre duas cópias lidas: a de Itaguaí e a publicada pela
+  Alagoas Previdência coincidem palavra por palavra. Os autos contêm ainda o e-mail pelo qual o banco
+  remeteu a documentação, assinado por sua executiva de relações institucionais — a mesma pessoa documentada
+  em Goiás, no Amapá e em Alagoas —, e o termo em duas versões, uma sem assinatura e já preenchida, com
+  o CNPJ do banco impresso no campo do representante legal. O processo foi aberto em 11/01/2024 e assinado
+  em 16/01/2024, pela mesma pessoa nos dois campos reservados a funções distintas, com dois minutos de
+  diferença. As sete atestações de conformidade estão todas marcadas com ''Sim'', inclusive a do requisito
+  espelhado pela lista exaustiva, da qual o banco não constava. Corrigido, por documento primário, erro
+  material de data no voto do tribunal.'
+affected_ids:
+- itaprevi-itaguai
+- banco-master
+- paula-vouguinha
+- ev-pareceres-de-credenciamento-elaborados-pelo-proprio-banco
+- ev-tcerj-conclui-que-o-banco-preencheu-o-proprio-parecer
+reason: Autos obtidos pelo editor e analisados pela equipe.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

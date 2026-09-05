@@ -1,0 +1,36 @@
+id: neilton-paixao-de-jesus
+kind: person
+name: Neilton Paixão de Jesus
+category: public_official
+role: Dirigente do Instituto de Previdência de Itaguaí à época do credenciamento do Banco Master
+positions:
+- title: Dirigente da unidade gestora
+  organization_id: itaprevi-itaguai
+  source_ids:
+  - src-itaprevi-processo-200000015-2024
+summary: Assinou digitalmente, em 16/01/2024, o Termo de Análise e Atestado de Credenciamento nº 001/2024
+  do Banco Master no regime próprio de Itaguaí — firmando, com dois minutos de diferença, os dois campos
+  distintos que o modelo do Ministério da Previdência reserva ao dirigente da unidade gestora e ao gestor
+  de recursos. O processo fora aberto cinco dias antes, e a documentação chegara por mensagem do próprio
+  banco. O Tribunal de Contas do Estado do Rio de Janeiro o notificou pelo credenciamento. Não é réu,
+  denunciado nem indiciado.
+why_in_novelo: Assinou o termo que atestou a aptidão do Banco Master para receber recursos previdenciários
+  em Itaguaí, documento que o tribunal de contas concluiu ter sido preenchido pelo próprio banco.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele, ou de defesa constituída, foi localizada pela equipe. Os
+    notificados pelo tribunal têm prazo para defesa.
+  source_ids:
+  - src-tcerj-voto-acordao-26458-2026
+open_questions:
+- O corpus não registra defesa dele quanto aos achados do tribunal.
+- Não se apurou por que os dois campos de assinatura, reservados a funções distintas, foram firmados pela
+  mesma pessoa.
+source_ids:
+- src-itaprevi-processo-200000015-2024
+- src-tcerj-voto-acordao-26458-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

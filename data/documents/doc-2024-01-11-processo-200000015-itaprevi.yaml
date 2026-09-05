@@ -1,0 +1,28 @@
+id: doc-2024-01-11-processo-200000015-itaprevi
+kind: document
+title: Processo administrativo nº 200.000.015/2024 do Itaprevi — credenciamento do Banco Master
+doc_type: administrative_act
+date: '2024-01-11'
+source_ids:
+- src-itaprevi-processo-200000015-2024
+summary: Aberto em 11/01/2024 por André Luiz da Silva Miranda, diretor-geral financeiro, com fundamento
+  no art. 24 da Lei Municipal 3.280/2014, na Resolução nº 30 de 27/12/2023 e no Edital de Credenciamento
+  nº 001/2023 — o mesmo edital que o Tribunal de Contas do Estado apontou não contemplar a categoria de
+  instituição financeira bancária emissora, e que portanto não alcançaria o Banco Master. Os autos contêm
+  o e-mail do banco remetendo a documentação, as certidões por ele geradas, e o Termo de Análise e Atestado
+  de Credenciamento nº 001/2024 em duas versões.
+is_official: true
+related_entity_ids:
+- itaprevi-itaguai
+- banco-master
+issuer_id: itaprevi-itaguai
+issuer: Instituto de Previdência de Itaguaí
+date_precision: day
+url: https://www.tcerj.tc.br/consulta-processo/Processo/List
+reference: Processo nº 200.000.015/2024 — Itaprevi; anexo AN008 do processo TCE-RJ nº 206.599-7/26
+excerpt: determino a abertura do processo administrativo para o Credenciamento do BANCO MASTER S/A
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

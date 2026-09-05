@@ -1,0 +1,27 @@
+id: rel-paula-vouguinha-itaprevi-itaguai-professional
+kind: relationship
+from_id: paula-vouguinha
+to_id: itaprevi-itaguai
+relationship_type: professional
+directed: true
+label: remeteu a documentação de credenciamento do banco
+start_date: 2024-01
+description: Assinou as mensagens pelas quais o Banco Master encaminhou ao Itaprevi, em janeiro de 2024,
+  a documentação que instruiu o processo de credenciamento. É o quarto regime próprio, em quatro estados,
+  em que sua atuação está documentada.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids:
+- evt-2024-01-16-itaprevi-assina-o-termo-do-master
+evidence_ids:
+- ev-o-banco-remeteu-a-documentacao-por-e-mail
+source_ids:
+- src-itaprevi-processo-200000015-2024
+document_ids:
+- doc-2024-01-email-vouguinha-remete-documentos-ao-itaprevi
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

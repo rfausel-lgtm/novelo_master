@@ -1,0 +1,37 @@
+id: evt-2024-01-16-itaprevi-assina-o-termo-do-master
+kind: event
+title: Itaguaí assina em cinco dias o termo de credenciamento que o próprio banco enviou preenchido
+event_type: corporate_act
+date: '2024-01-16'
+date_precision: day
+participant_ids:
+- itaprevi-itaguai
+- banco-master
+- paula-vouguinha
+- neilton-paixao-de-jesus
+description: 'O processo foi aberto em 11/01/2024 e o termo assinado em 16/01/2024 — cinco dias corridos,
+  menos de dois dias úteis de análise, como apontou o Tribunal de Contas do Estado. A documentação foi
+  remetida pelo próprio Banco Master, por mensagem assinada por sua executiva de relações institucionais.
+  O termo aparece nos autos em duas versões: uma sem assinatura, já preenchida e com o CNPJ do banco impresso
+  no campo do representante legal, e outra assinada pelo dirigente da autarquia — que firmou, com dois
+  minutos de diferença, os dois campos distintos reservados ao dirigente e ao gestor de recursos. As sete
+  atestações de conformidade estão todas marcadas com ''Sim''.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-o-banco-remeteu-a-documentacao-por-e-mail
+- ev-duas-versoes-do-termo-uma-sem-assinatura
+- ev-sete-atestacoes-todas-afirmativas
+- ev-mesma-pessoa-assinou-os-dois-campos-do-rpps
+source_ids:
+- src-itaprevi-processo-200000015-2024
+document_ids:
+- doc-2024-01-16-termo-credenciamento-001-itaprevi
+- doc-2024-01-email-vouguinha-remete-documentos-ao-itaprevi
+public_act_ids: []
+location: Itaguaí (RJ)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

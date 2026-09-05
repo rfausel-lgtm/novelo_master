@@ -1,0 +1,33 @@
+id: doc-2024-01-16-termo-credenciamento-001-itaprevi
+kind: document
+title: Termo de Análise e Atestado de Credenciamento nº 001/2024 do Itaprevi — as duas versões
+doc_type: administrative_act
+date: '2024-01-16'
+source_ids:
+- src-itaprevi-processo-200000015-2024
+summary: O documento aparece duas vezes nos mesmos autos. A primeira versão está sem qualquer assinatura,
+  com os campos já preenchidos e com a razão social do banco impressa no campo destinado à assinatura
+  do representante legal da instituição interessada. A segunda está assinada digitalmente por Neilton
+  Paixão de Jesus em 16/01/2024, às 17h15 e às 17h17, nos dois campos distintos reservados ao dirigente
+  da unidade gestora e ao gestor de recursos do regime próprio. O campo de e-mail da instituição a ser
+  credenciada traz o endereço pessoal da executiva de relações institucionais do banco. O campo destinado
+  aos principais contatos com regimes próprios está em branco. As sete perguntas de verificação estão
+  todas assinaladas com 'Sim', inclusive a que atesta o cumprimento do inciso I do § 2º do art. 21 da
+  Resolução CMN 4.963/2021.
+is_official: true
+related_entity_ids:
+- itaprevi-itaguai
+- banco-master
+- neilton-paixao-de-jesus
+- paula-vouguinha
+issuer_id: itaprevi-itaguai
+issuer: Instituto de Previdência de Itaguaí
+date_precision: day
+reference: Termo de Análise e Atestado de Credenciamento nº 001/2024 — processo nº 200.000.015/2024
+excerpt: A título de orientação, no Termo de Credenciamento estão destacados na cor branca os campos que
+  necessitam de preenchimento por parte da Unidade Gestora do RPPS.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

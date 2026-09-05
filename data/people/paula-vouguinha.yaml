@@ -8,17 +8,21 @@ positions:
   organization_id: banco-master
   source_ids:
   - src-amprev-ata-4a-ext-ciap-2024
-summary: Apresentou o Banco Master ao Comitê de Investimentos da Amapá Previdência em 14/03/2024, em reunião
-  solicitada pelo próprio banco. Segundo a ata, expôs o histórico da instituição, informou que o Master
-  se tornara segmento S3 em julho de 2023 e que 'a partir desse momento o banco se preparou para atender
-  o mercado de cliente institucional, como RPPS e Fundo de Pensão', recomendou o prazo de dez anos como
-  o que 'paga melhor taxa' e quantificou a operação de captação institucional então em curso. Na mesma
-  reunião, o banco nomeou os cinco regimes próprios já captados — Rioprevidência, Maceió, Paulista, Cajamar
-  e Araras —, todos presentes na lista final dos dezoito compradores. Segundo reportagem, duas semanas
-  depois ela apresentou ao Iprev de Maceió proposta de R$ 116 milhões em letras financeiras. Não é alvo
-  de nenhuma investigação localizada pela equipe. Três meses antes do Amapá, em 20/12/2023, participou
-  por videoconferência da sessão que credenciou o Banco Master no regime próprio de Aparecida de Goiânia
-  — o que documenta a mesma operação de captação atuando em estados distintos.
+summary: 'Apresentou o Banco Master ao Comitê de Investimentos da Amapá Previdência em 14/03/2024, em
+  reunião solicitada pelo próprio banco. Segundo a ata, expôs o histórico da instituição, informou que
+  o Master se tornara segmento S3 em julho de 2023 e que ''a partir desse momento o banco se preparou
+  para atender o mercado de cliente institucional, como RPPS e Fundo de Pensão'', recomendou o prazo de
+  dez anos como o que ''paga melhor taxa'' e quantificou a operação de captação institucional então em
+  curso. Na mesma reunião, o banco nomeou os cinco regimes próprios já captados — Rioprevidência, Maceió,
+  Paulista, Cajamar e Araras —, todos presentes na lista final dos dezoito compradores. Segundo reportagem,
+  duas semanas depois ela apresentou ao Iprev de Maceió proposta de R$ 116 milhões em letras financeiras.
+  Não é alvo de nenhuma investigação localizada pela equipe. Três meses antes do Amapá, em 20/12/2023,
+  participou por videoconferência da sessão que credenciou o Banco Master no regime próprio de Aparecida
+  de Goiânia — o que documenta a mesma operação de captação atuando em estados distintos. Nos autos do
+  credenciamento do Banco Master em Itaguaí constam as mensagens pelas quais ela remeteu à autarquia,
+  em janeiro de 2024, toda a documentação que instruiu o processo — e o termo de credenciamento traz o
+  endereço eletrônico dela no campo de contato da instituição. É o quarto regime próprio, em quatro estados,
+  em que sua atuação está documentada: Rio de Janeiro, Goiás, Amapá e Alagoas.'
 why_in_novelo: É a executiva que apresenta formalmente o Banco Master ao fundo previdenciário que viria
   a se tornar o segundo maior comprador público de suas letras financeiras.
 cited_position:
@@ -33,8 +37,9 @@ source_ids:
 - src-amprev-ata-4a-ext-ciap-2024
 - src-timesbrasil-18-rpps-lista
 - src-aparecidaprev-ata-cmp-2023-12-20
+- src-itaprevi-processo-200000015-2024
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-04'
 created_at: '2026-09-04'
-updated_at: '2026-09-04'
+updated_at: '2026-09-05'

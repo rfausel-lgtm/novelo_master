@@ -1,17 +1,20 @@
 id: ev-tcerj-conclui-que-o-banco-preencheu-o-proprio-parecer
 kind: evidence
 classification: D
-proposition: O Tribunal de Contas do Estado do Rio de Janeiro concluiu, em voto que examina o processo
-  peça a peça, que o termo de credenciamento do Banco Master no regime próprio de Itaguaí foi 'integralmente
-  preenchido pelo próprio Banco Master'; que apresenta 'natureza predominantemente qualitativa e de promoção
-  institucional'; que toda a documentação comprobatória da aptidão da instituição, das páginas 4 a 105
-  do processo, era formada 'unicamente por certidões e relatórios gerados e enviados pelo próprio Banco
-  Master', sem qualquer consulta de iniciativa da autarquia — nem mesmo a processos sancionatórios na
-  CVM; e que a análise se deu 'no curso de menos de 2 dias úteis'.
+proposition: 'O Tribunal de Contas do Estado do Rio de Janeiro concluiu, em voto que examina o processo
+  peça a peça, que o termo de credenciamento do Banco Master no regime próprio de Itaguaí foi ''integralmente
+  preenchido pelo próprio Banco Master''; que apresenta ''natureza predominantemente qualitativa e de
+  promoção institucional''; que toda a documentação comprobatória da aptidão da instituição, das páginas
+  4 a 105 do processo, era formada ''unicamente por certidões e relatórios gerados e enviados pelo próprio
+  Banco Master'', sem qualquer consulta de iniciativa da autarquia — nem mesmo a processos sancionatórios
+  na CVM; e que a análise se deu ''no curso de menos de 2 dias úteis''. A constatação foi confirmada pela
+  equipe na leitura direta dos autos: o termo aparece duas vezes, uma delas sem assinatura e já preenchida,
+  e a documentação foi remetida por mensagem do próprio banco.'
 document_ids:
 - doc-2026-08-06-voto-acordao-26458-tcerj-itaprevi
 source_ids:
 - src-tcerj-voto-acordao-26458-2026
+- src-itaprevi-processo-200000015-2024
 excerpt: todos os documentos que compunham a massa comprobatória dos fundamentos da aptidão da referida
   instituição financeira para receber recursos do RPPS de Itaguaí (...) eram integrados, unicamente, por
   certidões e relatórios gerados e enviados pelo próprio Banco Master. Não há registro nesses autos de
@@ -21,4 +24,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-04'
 created_at: '2026-09-04'
-updated_at: '2026-09-04'
+updated_at: '2026-09-05'

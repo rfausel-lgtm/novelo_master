@@ -1,0 +1,19 @@
+id: ev-duas-versoes-do-termo-uma-sem-assinatura
+kind: evidence
+classification: D
+proposition: 'O Termo de Credenciamento aparece duas vezes nos mesmos autos. A primeira versão está integralmente
+  preenchida e sem qualquer assinatura — inclusive com a razão social e o CNPJ do Banco Master já impressos
+  no campo reservado à assinatura do representante legal da instituição interessada. A segunda é a mesma
+  peça, assinada digitalmente pelo dirigente do regime próprio em 16/01/2024. A sequência materializa
+  o que o Tribunal de Contas do Estado do Rio de Janeiro descreveu: o documento chegou pronto e foi assinado.'
+document_ids:
+- doc-2024-01-16-termo-credenciamento-001-itaprevi
+source_ids:
+- src-itaprevi-processo-200000015-2024
+- src-tcerj-voto-acordao-26458-2026
+date: '2024-01-16'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

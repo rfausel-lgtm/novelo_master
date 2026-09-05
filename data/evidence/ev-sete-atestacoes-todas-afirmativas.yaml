@@ -1,0 +1,21 @@
+id: ev-sete-atestacoes-todas-afirmativas
+kind: evidence
+classification: D
+proposition: As sete perguntas de verificação do termo estão todas assinaladas com 'Sim'. Entre elas,
+  a que atesta que a instituição atende ao previsto no inciso I do § 2º do art. 21 da Resolução CMN 4.963/2021
+  — o requisito de estar obrigada a instituir comitê de auditoria e comitê de riscos, que é justamente
+  o critério espelhado pela lista exaustiva do Ministério da Previdência. O Banco Master não constava
+  daquela lista em janeiro de 2024, e só passaria a constar em 11/04/2025. Dois meses depois de assinado
+  esse termo, o próprio banco declararia ao comitê de investimentos do Amapá que ainda estava em prazo
+  de adequação, por ter se tornado segmento S3 'com lapso temporal de um ano para as adequações'.
+document_ids:
+- doc-2024-01-16-termo-credenciamento-001-itaprevi
+- doc-2024-05-06-lista-exaustiva-mps
+source_ids:
+- src-itaprevi-processo-200000015-2024
+date: '2024-01-16'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

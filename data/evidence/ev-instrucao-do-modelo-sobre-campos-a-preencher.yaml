@@ -1,0 +1,19 @@
+id: ev-instrucao-do-modelo-sobre-campos-a-preencher
+kind: evidence
+classification: D
+proposition: O próprio modelo do Ministério da Previdência traz, no rodapé, a instrução de que 'no Termo
+  de Credenciamento estão destacados na cor branca os campos que necessitam de preenchimento por parte
+  da Unidade Gestora do RPPS'. A linha sobreviveu no documento juntado aos autos — de modo que o documento
+  assinado carrega, nele mesmo, a advertência de quais campos cabiam à autarquia preencher.
+document_ids:
+- doc-2024-01-16-termo-credenciamento-001-itaprevi
+source_ids:
+- src-itaprevi-processo-200000015-2024
+excerpt: A título de orientação, no Termo de Credenciamento estão destacados na cor branca os campos que
+  necessitam de preenchimento por parte da Unidade Gestora do RPPS.
+date: '2024-01-16'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'
