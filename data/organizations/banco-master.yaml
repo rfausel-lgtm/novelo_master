@@ -24,6 +24,8 @@ open_questions:
   dez maiores devedores, no ativo, mas nenhuma abertura equivalente do passivo.'
 - A faixa de emissão de até 150% do CDI, declarada nas demonstrações de 2024, não foi localizada em nenhuma
   reportagem — a equipe não sabe quais operações foram contratadas nesse patamar.
+- O IF.data deixa de reportar o estoque individual do banco a partir de junho de 2025; o conglomerado
+  registra R$ 4,11 bilhões naquela data. A equipe não apurou a razão da mudança.
 source_ids:
 - src-bcb-2025-11-ata-comef-63
 - src-pf-2025-11-18-compliance-zero
@@ -47,6 +49,8 @@ source_ids:
 - src-camara-aparecida-2025-12-08-audiencia
 - src-banco-master-df-2024
 - src-folha-2026-03-20-letras-master-pf
+- src-bcb-ifdata-letras-financeiras-master
+- src-b3-estoque-balcao-letras-financeiras
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
 review_status: published

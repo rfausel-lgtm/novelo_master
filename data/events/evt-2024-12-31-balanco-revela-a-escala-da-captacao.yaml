@@ -21,11 +21,17 @@ evidence_ids:
 - ev-taxa-do-amapa-era-o-teto-da-emissao-do-master
 - ev-prazo-medio-das-letras-acima-de-cinco-anos
 - ev-rpps-absorveram-quase-todo-o-estoque-de-letras
+- ev-ifdata-confirma-o-balanco-ao-centavo
+- ev-letras-do-master-nao-circulavam-no-secundario
+- ev-letra-financeira-era-instrumento-marginal-no-funding-do-master
 source_ids:
 - src-banco-master-df-2024
 - src-folha-2026-03-20-letras-master-pf
+- src-bcb-ifdata-letras-financeiras-master
+- src-b3-estoque-balcao-letras-financeiras
 document_ids:
 - doc-2024-12-31-demonstracoes-financeiras-banco-master
+- doc-2026-ifdata-serie-letras-financeiras-master
 public_act_ids: []
 review_status: published
 reviewer: orquestrador

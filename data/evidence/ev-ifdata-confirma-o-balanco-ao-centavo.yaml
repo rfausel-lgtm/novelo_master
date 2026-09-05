@@ -1,0 +1,22 @@
+id: ev-ifdata-confirma-o-balanco-ao-centavo
+kind: evidence
+classification: D
+proposition: 'A base regulatória do Banco Central confirma, ao centavo, os números das demonstrações financeiras
+  auditadas: R$ 486.487.421,52 em 12/2023, R$ 1.430.175.202,98 em 06/2024 e R$ 2.110.454.439,68 em 12/2024.
+  A série do IF.data acrescenta dois pontos trimestrais que nenhuma demonstração publicada contém — R$
+  774,9 milhões em 03/2024 e R$ 2.036,7 milhões em 09/2024 — e mostra que o estoque continuou crescendo
+  em 2025: R$ 2,17 bilhões em março e, já em base de conglomerado, R$ 4,11 bilhões em junho de 2025, quase
+  o dobro do fechamento do ano anterior e cinco meses antes da liquidação. O Banco Master de Investimento
+  registra zero em todas as datas: todo o estoque estava na instituição líder.'
+document_ids:
+- doc-2026-ifdata-serie-letras-financeiras-master
+- doc-2024-12-31-demonstracoes-financeiras-banco-master
+source_ids:
+- src-bcb-ifdata-letras-financeiras-master
+- src-banco-master-df-2024
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
