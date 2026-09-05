@@ -1,0 +1,21 @@
+id: rev-2026-09-05-lote-83b-a-lista-nos-proprios-autos
+kind: revision
+date: '2026-09-05'
+title: Lote 83b — a lista que desmentia o atestado estava no mesmo processo
+summary: Varredura completa das 203 páginas dos autos de Itaguaí. A Lista Exaustiva do Ministério da Previdência
+  está juntada ao próprio processo de credenciamento, nas páginas 182 e 183, e não traz o Banco Master
+  S/A em nenhuma de suas seções — apenas a corretora do grupo, entre as elegíveis para administrar fundos,
+  e fora da ordem de CNPJ; a seção de elegíveis apenas para emitir ativos do art. 7º, IV tem uma única
+  entrada, o Banco C6. Na página 136 do mesmo processo, atestou-se com 'Sim' o cumprimento do requisito
+  que essa lista espelha. Registrado ainda que o relatório de rating juntado aos autos já descrevia os
+  precatórios entre as verticais de negócio mais relevantes do banco.
+affected_ids:
+- itaprevi-itaguai
+- banco-master
+- evt-2024-01-16-itaprevi-assina-o-termo-do-master
+reason: Varredura integral dos autos obtidos pelo editor.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

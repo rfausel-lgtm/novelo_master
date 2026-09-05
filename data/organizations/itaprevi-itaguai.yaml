@@ -24,6 +24,9 @@ cited_position:
 open_questions:
 - Os responsáveis notificados pelo tribunal têm prazo para defesa; o corpus não registra as manifestações
   apresentadas.
+- Os autos contêm a Lista Exaustiva do Ministério da Previdência sem o Banco Master, juntada ao mesmo
+  processo em que se atestou o cumprimento do requisito que a lista espelha; o corpus não registra explicação
+  da autarquia para a contradição.
 source_ids:
 - src-tcerj-voto-acordao-26458-2026
 - src-itaprevi-processo-200000015-2024

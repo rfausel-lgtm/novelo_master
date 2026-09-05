@@ -15,7 +15,9 @@ description: 'O processo foi aberto em 11/01/2024 e o termo assinado em 16/01/20
   O termo aparece nos autos em duas versões: uma sem assinatura, já preenchida e com o CNPJ do banco impresso
   no campo do representante legal, e outra assinada pelo dirigente da autarquia — que firmou, com dois
   minutos de diferença, os dois campos distintos reservados ao dirigente e ao gestor de recursos. As sete
-  atestações de conformidade estão todas marcadas com ''Sim''.'
+  atestações de conformidade estão todas marcadas com ''Sim''. Nos mesmos autos, poucas dezenas de páginas
+  depois, está juntada a Lista Exaustiva do Ministério da Previdência — que não traz o Banco Master em
+  nenhuma de suas seções.'
 evidence_class: D
 status: verified
 evidence_ids:
@@ -23,6 +25,8 @@ evidence_ids:
 - ev-duas-versoes-do-termo-uma-sem-assinatura
 - ev-sete-atestacoes-todas-afirmativas
 - ev-mesma-pessoa-assinou-os-dois-campos-do-rpps
+- ev-a-lista-que-desmentia-o-atestado-estava-nos-proprios-autos
+- ev-relatorio-de-rating-nos-autos-mencionava-precatorios
 source_ids:
 - src-itaprevi-processo-200000015-2024
 document_ids:

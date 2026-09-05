@@ -1,0 +1,25 @@
+id: ev-a-lista-que-desmentia-o-atestado-estava-nos-proprios-autos
+kind: evidence
+classification: D
+proposition: 'A Lista Exaustiva do Ministério da Previdência está juntada aos próprios autos do credenciamento,
+  nas páginas 182 e 183 — o mesmo processo em que, na página 136, se atestou com ''Sim'' que a instituição
+  atendia ao inciso I do § 2º do art. 21 da Resolução CMN 4.963/2021. E a lista mostra o contrário: o
+  Banco Master S/A, CNPJ 33.923.798, não consta em nenhuma das duas seções. Aparece somente a Master S.A.
+  Corretora de Câmbio, Títulos e Valores Mobiliários, CNPJ 33.886.862, entre as instituições elegíveis
+  para administrar e gerir fundos, com ''Banco Master S.A.'' apenas na coluna de conglomerado — e fora
+  da ordem numérica de CNPJ, ao final da relação. A seção ''Instituições Elegíveis apenas para emitir
+  ativos do Art. 7, IV'', que é a categoria das letras financeiras, tem uma única entrada: o Banco C6.
+  O documento que desmentia a atestação estava no mesmo processo, a poucas dezenas de páginas de distância.'
+document_ids:
+- doc-2024-01-16-termo-credenciamento-001-itaprevi
+- doc-2024-01-11-processo-200000015-itaprevi
+source_ids:
+- src-itaprevi-processo-200000015-2024
+excerpt: Instituições Elegíveis apenas para emitir ativos do Art. 7, IV — CNPJ 31.872.495 | BANCO C6 S.A.
+  | BANCO C6 S.A.
+date: '2024-01-16'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'
