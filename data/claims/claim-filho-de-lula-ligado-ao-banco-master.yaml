@@ -1,0 +1,55 @@
+id: claim-filho-de-lula-ligado-ao-banco-master
+kind: claim
+statement: Fábio Luís Lula da Silva, filho do presidente da República, teria ligação com o Banco Master,
+  tendo feito prospecção de negócios ao lado de empresários envolvidos na compra do banco.
+classification: A
+status: refuted
+claimant: Coluna de opinião de Cláudio Humberto, replicada por agregadores
+date: '2026-01-02'
+related_entity_ids:
+- banco-master
+- grupo-fictor
+event_ids: []
+evidence_ids:
+- ev-familia-presidencial-ausente-das-pecas-do-caso-master
+- ev-armadilha-de-homonimia-do-apelido-careca
+- ev-relatorio-da-cpmi-do-inss-foi-rejeitado
+source_ids:
+- src-verificacao-textual-equipe-filhos-de-lula
+- src-folha-2026-03-25-lulinha-fictor
+- src-senado-2026-03-28-cpmi-inss-sem-relatorio
+- src-estadao-verifica-2026-05-22-mala-lula-master
+limits: 'A alegação nasce em coluna de opinião de 02/01/2026, sem documento, número de peça, requerimento
+  ou reportagem citada. A viagem a Portugal que ela invoca está documentada em outro contexto — o negócio
+  de canabidiol, em 2024, com personagens do caso do INSS —, um ano antes da oferta do grupo Fictor pelo
+  Banco Master, em 17/11/2025, e sem qualquer empresário do negócio bancário. Existe um elemento adjacente
+  e distinto: reportagem da Folha de S.Paulo, de 25/03/2026, atribui a ele consultoria ao grupo Fictor
+  em 2024, com base em duas fontes anônimas — alegação de fonte única, negada pela defesa e pela Secretaria
+  de Relações Institucionais, anterior e alheia à oferta pelo Master.'
+counter_position:
+- kind: denial
+  summary: A defesa afirma tratar-se de 'mais uma tentativa de colocar Fábio no meio de um escândalo',
+    nega vínculo profissional com o grupo Fictor e qualquer intercessão para cargos públicos, e informa
+    que ele reside na Espanha desde 2024. Em julho de 2026, sustentou que ele 'não é acusado de nada,
+    porque ele nem sequer foi indiciado no inquérito policial'. A Secretaria de Relações Institucionais
+    negou que tenha indicado nome para conselho. O presidente da República chamou as suspeitas de 'ilações'
+    e disse que não protegerá o filho caso tenha cometido ilícito.
+  source_ids:
+  - src-folha-2026-03-25-lulinha-fictor
+  date: '2026-03-25'
+adversarial_review:
+  reviewed_at: '2026-09-04'
+  reviewer: orquestrador
+  attempted_refutation: 'Buscou-se o nome nas três peças primárias do caso Master em posse do corpus,
+    com normalização de acentos: zero ocorrências em todas, com controles de extração funcionando. Buscou-se
+    nos quadros societários das empresas do grupo Fictor na base da Receita: nenhum nome da família presidencial.
+    Buscou-se a origem documental da alegação: é coluna de opinião sem lastro. O que existe de real é
+    investigação em outro caso — a Operação Sem Desconto, sobre fraude no INSS —, em que ele é investigado
+    e não foi indiciado, e cujo pedido de indiciamento em relatório de CPMI foi rejeitado por 19 votos
+    a 12.'
+  outcome: refuted
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

@@ -10,13 +10,18 @@ why_in_novelo: Anunciou a compra do Banco Master na véspera da liquidação dec
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Reportagem de fonte única atribui a Fábio Luís Lula da Silva prestação de consultoria ao grupo em 2024,
+  com base em dois executivos anônimos — alegação negada pela defesa e pela Secretaria de Relações Institucionais,
+  e anterior e alheia à oferta do grupo pelo Banco Master, de novembro de 2025. Nenhum nome da família
+  presidencial consta do quadro societário das empresas do grupo na base da Receita.
 source_ids:
 - src-cnn-2025-11-17-fictor-anuncia-compra
 - src-cnn-2026-03-04-relembre-crise-master
+- src-folha-2026-03-25-lulinha-fictor
 full_name: Fictor Holding Financeira
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'

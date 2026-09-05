@@ -11,15 +11,23 @@ proposition: 'Em decisão de 03/09/2026, Alexandre de Moraes apontou ''fortes in
   por amostra pequena. Moraes alegou ainda ''usurpação da direção'' das Petições 15.041 (Operação Sem
   Desconto, fraude no INSS) e 15.556 (Compliance Zero, Banco Master), com ''intencionalidade preconceituosa''
   contra colegas de Corte e rivais políticos, citando nominalmente o presidente do Senado, Davi Alcolumbre.
-  Encaminhou o caso a Fachin para providências.'
-document_ids: []
+  Encaminhou o caso a Fachin para providências. Esclarecimento necessário: o relatório compara a atuação
+  do relator em dois inquéritos distintos e sob a mesma relatoria — Compliance Zero, que é o caso do Banco
+  Master, e Sem Desconto, que é a fraude no INSS. As pessoas citadas de cada lado são diferentes: ACM
+  Neto está do lado do Master; Fábio Luís Lula da Silva e Roberta Luchsinger, do lado do INSS. A co-ocorrência
+  dos dois casos num mesmo documento decorre da relatoria comum, e não de vínculo entre as pessoas — a
+  busca textual nas peças primárias do caso Master não retorna nenhuma ocorrência dos nomes ligados ao
+  caso do INSS.'
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
 source_ids:
 - src-poder360-2026-09-03-pf-assimetria-decisoes-mendonca
+- src-verificacao-textual-equipe-filhos-de-lula
 excerpt: fortes indícios da prática de improbidade administrativa, abuso de autoridade e crime de responsabilidade
 date: '2026-09-03'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
 attributed_to: Poder360

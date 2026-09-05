@@ -1,0 +1,24 @@
+id: src-folha-2026-03-25-lulinha-fictor
+kind: source
+title: Lulinha foi assessor de fundo que tentou comprar o Banco Master
+publisher: Folha de S.Paulo, reproduzida pelo Estado de Minas
+publication_date: '2026-03-25'
+retrieved_at: '2026-09-04'
+url: https://www.em.com.br/politica/2026/03/7384138-lulinha-foi-assessor-de-fundo-que-tentou-comprar-o-banco-master.html
+source_type: press
+summary: Reportagem que atribui a Fábio Luís Lula da Silva prestação de consultoria ao grupo Fictor em
+  2024, com base em dois executivos anônimos que trabalharam no grupo. A Fictor tentou comprar o Banco
+  Master em novembro de 2025. A defesa nega vínculo profissional com o grupo e a Secretaria de Relações
+  Institucionais nega indicação para cargo público. Todas as demais publicações localizadas reproduzem
+  esta reportagem, de modo que não há segunda fonte independente.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+author: Alexa Salomão
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

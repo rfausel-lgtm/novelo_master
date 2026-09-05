@@ -1,0 +1,25 @@
+id: rev-2026-09-05-lote-83-achados-negativos-e-homonimia
+kind: revision
+date: '2026-09-04'
+title: Lote 83 — dois achados negativos, e uma armadilha de homonímia
+summary: 'Nem Roberta Luchsinger nem qualquer filho do presidente Lula tem ligação documentada com o caso
+  Banco Master. A busca textual feita pela equipe nas peças primárias do caso — o relatório da PF sobre
+  o celular de Vorcaro, de 218 páginas, e a decisão da Zona Cinzenta — retorna zero ocorrências de todos
+  os nomes, com controles de extração funcionando. Ambos estão em outro caso, a Operação Sem Desconto,
+  do INSS. A confusão tem origem rastreável: os dois inquéritos têm o mesmo relator e um relatório da
+  PF os compara, de modo que os nomes aparecem no mesmo documento sem qualquer vínculo entre as pessoas.
+  Registrada a alegação como refutada, com a origem identificada em coluna de opinião sem lastro; esclarecida
+  a evidência do relatório de assimetria; e registrada a armadilha do apelido ''Careca'', que no caso
+  Master designa Alexandre de Moraes, segundo a própria PF, e no caso do INSS designa pessoa inteiramente
+  distinta. Nenhum registro de pessoa foi criado: incluir no grafo quem não tem ligação com o caso sugeriria
+  vínculo pela simples presença.'
+affected_ids:
+- banco-master
+- grupo-fictor
+- ev-moraes-decisao-assimetria-mendonca-2026-09-03
+reason: Pedido de investigação sobre Roberta Luchsinger e sobre filho do presidente da República.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

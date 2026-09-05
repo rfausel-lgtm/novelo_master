@@ -1,0 +1,18 @@
+id: ev-relatorio-da-cpmi-do-inss-foi-rejeitado
+kind: evidence
+classification: D
+proposition: O relatório final da comissão parlamentar mista de inquérito sobre o INSS, que continha pedidos
+  de indiciamento, foi rejeitado por 19 votos a 12 em 28/03/2026, e a comissão encerrou os trabalhos sem
+  relatório aprovado. Os pedidos nele contidos não produziram efeito institucional algum. O registro importa
+  porque parte do que circula sobre o tema tem origem naquele texto, peça de relator da oposição e de
+  linguagem assumidamente acusatória.
+document_ids:
+- doc-2026-03-28-cpmi-inss-rejeita-relatorio-final
+source_ids:
+- src-senado-2026-03-28-cpmi-inss-sem-relatorio
+date: '2026-03-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
