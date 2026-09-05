@@ -48,6 +48,7 @@ data/*.yaml  ──►  scripts/build-data.ts  ──►  src/generated/corpus.j
 | `public/dossies/`        | Um dossiê em texto por pessoa e organização, gerado no build (ignorado no Git).                                                                                                                                       |
 | `public/mapas/`          | Minimapas gerados: um PNG por registro com lugar, servido pela própria origem.                                                                                                                                        |
 | `docs/adr/`              | Architecture Decision Records.                                                                                                                                                                                        |
+| `docs/estudos/`          | Estudos de viabilidade que ainda não viraram decisão (esforço, medições, riscos).                                                                                                                                     |
 | `tests/`                 | Unitários (Vitest) em `tests/unit` e `src/**/*.test.ts`; E2E (Playwright) em `tests/e2e`.                                                                                                                             |
 | `.github/`               | CI (qualidade, segredos, auditoria, e2e), dependency review, CodeQL, Dependabot, templates de issue e PR.                                                                                                             |
 
