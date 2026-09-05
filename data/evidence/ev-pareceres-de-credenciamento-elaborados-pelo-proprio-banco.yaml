@@ -1,18 +1,25 @@
 id: ev-pareceres-de-credenciamento-elaborados-pelo-proprio-banco
 kind: evidence
 classification: C
-proposition: O achado central da auditoria federal é que os termos de credenciamento do Banco Master eram
-  idênticos entre entes de estados diferentes, variando apenas os valores, e que a documentação foi elaborada
-  pelo próprio banco — admissão feita aos auditores pelos técnicos da Amapá Previdência, segundo a reportagem
-  que obteve o documento sigiloso. A mesma constatação foi alcançada de forma independente pelo Tribunal
-  de Contas do Estado do Rio de Janeiro no caso do Itaprevi, que apontou credenciamento sem validação
-  adequada do comitê e com utilização de documentos produzidos pela própria instituição financeira. São
-  duas instituições distintas chegando à mesma conclusão.
+proposition: 'O achado central da auditoria federal é que os termos de credenciamento do Banco Master
+  eram idênticos entre entes de estados diferentes, variando apenas os valores, e que a documentação foi
+  elaborada pelo próprio banco — admissão feita aos auditores pelos técnicos da Amapá Previdência, segundo
+  a reportagem que obteve o documento sigiloso. A mesma constatação foi alcançada de forma independente
+  pelo Tribunal de Contas do Estado do Rio de Janeiro no caso do Itaprevi, que apontou credenciamento
+  sem validação adequada do comitê e com utilização de documentos produzidos pela própria instituição
+  financeira. São duas instituições distintas chegando à mesma conclusão. A constatação deixou de depender
+  de relato: o espécime do documento foi localizado e lido — o Termo de Credenciamento nº 033/2024 da
+  Alagoas Previdência —, e o Tribunal de Contas do Estado do Rio de Janeiro afirmou, em voto de acórdão,
+  que o termo usado em Itaguaí foi ''integralmente preenchido pelo próprio Banco Master''.'
 document_ids:
 - doc-2026-relatorio-auditoria-direta-letras-financeiras
+- doc-2024-04-05-termo-credenciamento-033-master-alagoas
+- doc-2026-08-06-voto-acordao-26458-tcerj-itaprevi
 source_ids:
 - src-oglobo-2026-02-11-copia-e-cola-master
 - src-boletimrj-2026-07-18-tce-rj-itaprevi
+- src-alagoasprevidencia-termo-credenciamento-033-2024
+- src-tcerj-voto-acordao-26458-2026
 excerpt: Aos auditores do ministério, os técnicos da Amprev admitiram que a documentação foi elaborada
   pelo próprio Master.
 date: '2026-02-11'

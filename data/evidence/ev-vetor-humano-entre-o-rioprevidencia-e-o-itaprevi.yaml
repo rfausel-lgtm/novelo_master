@@ -1,0 +1,22 @@
+id: ev-vetor-humano-entre-o-rioprevidencia-e-o-itaprevi
+kind: evidence
+classification: D
+proposition: Fernanda Pereira da Silva Machado assinou, como gerente, o atestado de credenciamento do
+  Banco Master no Rioprevidência em 19/10/2023. Deixou o fundo estadual em 10/06/2024 e foi nomeada presidente
+  do regime próprio de Itaguaí em 12/06/2024, dois dias depois. As aplicações do Itaprevi em letras financeiras
+  do banco começaram naquele mesmo mês e somaram R$ 59,6 milhões. É o vetor humano documentado entre dois
+  entes — não apenas um modelo de documento circulando, mas uma pessoa que credenciou o banco em um fundo
+  e passou a dirigir outro.
+document_ids:
+- doc-2026-08-06-voto-acordao-26458-tcerj-itaprevi
+source_ids:
+- src-rioprevidencia-atestado-credenciamento-master
+- src-tcerj-voto-acordao-26458-2026
+excerpt: Documento assinado eletronicamente por Fernanda Pereira da Silva Machado, Gerente, em 19/10/2023,
+  às 17:16
+date: '2024-06-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

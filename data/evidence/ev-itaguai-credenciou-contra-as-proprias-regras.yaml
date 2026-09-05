@@ -1,0 +1,19 @@
+id: ev-itaguai-credenciou-contra-as-proprias-regras
+kind: evidence
+classification: D
+proposition: O voto do tribunal registra que o edital de credenciamento então vigente em Itaguaí não contemplava
+  a categoria de instituição financeira bancária emissora dos ativos do art. 7º, IV — e, por conseguinte,
+  não contemplaria a possibilidade de credenciar o Banco Master; que o banco não constava da lista exaustiva
+  do Ministério da Previdência; e que seu rating era inferior ao mínimo exigido pelo regimento interno
+  do comitê de investimentos. As restrições que impediriam o credenciamento e o aporte foram depois removidas
+  por resolução com efeitos retroativos.
+document_ids:
+- doc-2026-08-06-voto-acordao-26458-tcerj-itaprevi
+source_ids:
+- src-tcerj-voto-acordao-26458-2026
+date: '2024-01-18'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

@@ -1,0 +1,30 @@
+id: alagoas-previdencia
+kind: organization
+name: Alagoas Previdência
+aliases: []
+org_type: public_body
+summary: Autarquia gestora do regime próprio de previdência do Estado de Alagoas, CNPJ 23.658.211/0001-11.
+  Credenciou o Banco Master em abril de 2024 e publicou o termo em seu portal de transparência — é a única
+  cópia do documento localizada em acesso aberto, e a que permitiu conferir, palavra por palavra, o texto
+  que a auditoria federal descreve como replicado em outros entes. O corpus não apurou se a autarquia
+  chegou a adquirir ativos do banco; ela não consta da relação dos dezoito regimes próprios que compraram
+  letras financeiras.
+why_in_novelo: Único ente que publicou em acesso aberto o termo de credenciamento do Banco Master, permitindo
+  verificar o documento que a auditoria federal descreve como escrito pelo próprio banco.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação da autarquia sobre o credenciamento foi localizada pela equipe.
+  source_ids:
+  - src-alagoasprevidencia-termo-credenciamento-033-2024
+open_questions:
+- Não se apurou se a Alagoas Previdência chegou a adquirir ativos do Banco Master após o credenciamento;
+  ela não consta da relação dos dezoito compradores de letras financeiras.
+- Não há manifestação da autarquia localizada sobre o conteúdo do termo.
+source_ids:
+- src-alagoasprevidencia-termo-credenciamento-033-2024
+jurisdiction: Alagoas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

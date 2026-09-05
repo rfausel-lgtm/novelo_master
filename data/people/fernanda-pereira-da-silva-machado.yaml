@@ -1,0 +1,39 @@
+id: fernanda-pereira-da-silva-machado
+kind: person
+name: Fernanda Pereira da Silva Machado
+category: public_official
+role: Advogada; ex-gerente de controle interno do Rioprevidência e ex-presidente do Itaprevi
+positions:
+- title: Presidente
+  organization_id: itaprevi-itaguai
+  source_ids:
+  - src-tcerj-voto-acordao-26458-2026
+summary: Assinou, como gerente, o atestado de credenciamento do Banco Master no Rioprevidência em 19/10/2023.
+  Deixou o fundo estadual em 10/06/2024 e foi nomeada presidente do regime próprio de Itaguaí em 12/06/2024
+  — dois dias depois. Naquele mesmo mês começaram as aplicações do Itaprevi em letras financeiras do banco,
+  que somaram R$ 59,6 milhões. O Tribunal de Contas do Estado do Rio de Janeiro a notificou por atos relativos
+  à abertura de conta no banco e à resolução que, com efeitos retroativos, retirou do regimento do comitê
+  as restrições que impediriam o credenciamento e o aporte. Segundo reportagem, a Polícia Federal lhe
+  atribui ter assinado atestado de credenciamento fraudulento — imputação relativa ao Rioprevidência,
+  não ao Itaprevi. Não é ré nem denunciada.
+why_in_novelo: 'É o vetor humano documentado entre dois regimes próprios: assinou o credenciamento do
+  banco em um fundo e passou a dirigir outro, onde as aplicações começaram no mês de sua posse.'
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dela, ou de defesa constituída, foi localizada pela equipe. Os
+    notificados pelo tribunal têm prazo para defesa.
+  source_ids:
+  - src-tcerj-voto-acordao-26458-2026
+open_questions:
+- O corpus não registra defesa dela quanto aos achados do tribunal nem quanto à imputação policial relativa
+  ao Rioprevidência.
+- A extensão de sua participação no credenciamento do Banco Master no Rioprevidência, além da assinatura
+  do atestado, não foi apurada.
+source_ids:
+- src-tcerj-voto-acordao-26458-2026
+- src-rioprevidencia-atestado-credenciamento-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

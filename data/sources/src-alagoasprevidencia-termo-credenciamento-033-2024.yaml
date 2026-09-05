@@ -1,0 +1,23 @@
+id: src-alagoasprevidencia-termo-credenciamento-033-2024
+kind: source
+title: Termo de Credenciamento nº 033/2024 do Banco Master na Alagoas Previdência
+publisher: Alagoas Previdência
+publication_date: '2024-04-05'
+retrieved_at: '2026-09-04'
+url: https://www.alagoasprevidencia.al.gov.br/transparencia/investimentos/credenciamento/instituicoes-credenciadas/2024?task=download.send&id=2565&catid=244&m=0
+source_type: official_government
+summary: Documento de três páginas baixado e lido integralmente pela equipe, publicado no portal de transparência
+  da autarquia estadual. Processo E:04799.0000008156/2023, datado de 05/04/2024. É o espécime do termo
+  de credenciamento do Banco Master cujo texto a auditoria do Ministério da Previdência descreve como
+  idêntico em outros quatro regimes próprios. Traz assinaturas digitais de André Kruschewsky Lima e Alberto
+  Felix de Oliveira Neto, em 08/04/2024, como representantes legais da instituição interessada no credenciamento.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
