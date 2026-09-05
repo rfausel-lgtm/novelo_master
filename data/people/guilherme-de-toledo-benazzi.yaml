@@ -1,0 +1,31 @@
+id: guilherme-de-toledo-benazzi
+kind: person
+name: Guilherme de Toledo Benazzi
+category: lawyer
+role: Administrador do escritório Barci de Moraes Sociedade de Advogados
+positions:
+- title: Administrador
+  organization_id: barci-de-moraes-sociedade-de-advogados
+  source_ids:
+  - src-stf-pet-16662-autos-integrais
+summary: Figura como administrador da sociedade de advogados nos dois contratos firmados com o grupo de
+  Daniel Vorcaro, lidos pela equipe nos autos da PET 16.662 — o de 16/01/2024, com o Banco Master, e o
+  de 12/05/2025, com a Viking Participações. É também o nome que consta como autor nos metadados da minuta
+  de contrato descrita no relatório da Polícia Federal sobre o celular de Vorcaro.
+why_in_novelo: Assina, como administrador do escritório, os contratos de honorários que somam até cerca
+  de R$ 181 milhões com o grupo investigado.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele foi localizada pela equipe; o escritório se manifestou institucionalmente
+    em nota de 09/03/2026.
+  source_ids:
+  - src-stf-pet-16662-autos-integrais
+open_questions:
+- A equipe não localizou manifestação pessoal dele sobre os contratos.
+source_ids:
+- src-stf-pet-16662-autos-integrais
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

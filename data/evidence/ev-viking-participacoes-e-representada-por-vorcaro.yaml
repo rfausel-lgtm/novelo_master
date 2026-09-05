@@ -1,0 +1,17 @@
+id: ev-viking-participacoes-e-representada-por-vorcaro
+kind: evidence
+classification: D
+proposition: O segundo contrato foi firmado não com o banco, mas com a Viking Participações Ltda., CNPJ
+  07.875.796/0001-75, sediada em Belo Horizonte e representada no ato pelo próprio Daniel Bueno Vorcaro,
+  pessoa física qualificada no instrumento. É contratação privada do controlador, distinta da contratação
+  da instituição financeira.
+document_ids:
+- doc-2025-05-12-contrato-viking-barci-de-moraes
+source_ids:
+- src-stf-pet-16662-autos-integrais
+date: '2025-05-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

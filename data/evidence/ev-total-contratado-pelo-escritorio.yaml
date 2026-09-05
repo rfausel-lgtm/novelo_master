@@ -1,0 +1,22 @@
+id: ev-total-contratado-pelo-escritorio
+kind: evidence
+classification: I
+proposition: 'Somados os dois instrumentos, o valor máximo contratado pelo escritório junto ao grupo alcança
+  cerca de R$ 181 milhões: R$ 131.275.071,72 em valores brutos no contrato com o Banco Master, ao longo
+  de três anos, e o teto de R$ 50 milhões no contrato com a Viking Participações. O corpus não sabe quanto
+  foi efetivamente pago — o relatório da Polícia Federal registra um primeiro pagamento de R$ 3.422.268,14
+  em 08/02/2024 e cobranças posteriores.'
+document_ids:
+- doc-2024-01-16-contrato-master-barci-de-moraes
+- doc-2025-05-12-contrato-viking-barci-de-moraes
+source_ids:
+- src-stf-pet-16662-autos-integrais
+inference_basis: 'Aritmética direta sobre as cláusulas de honorários lidas nos dois contratos: 36 parcelas
+  de R$ 3.646.529,77 no primeiro, e o teto expresso de R$ 50.000.000,00 no segundo. Não há, nos autos
+  lidos, demonstrativo do valor efetivamente pago.'
+date: '2026-09-05'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

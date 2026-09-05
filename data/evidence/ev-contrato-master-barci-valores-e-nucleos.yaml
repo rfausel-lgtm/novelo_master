@@ -1,0 +1,23 @@
+id: ev-contrato-master-barci-valores-e-nucleos
+kind: evidence
+classification: D
+proposition: O contrato entre o Banco Master e o escritório Barci de Moraes, datado de 16/01/2024 e assinado
+  em 23/01/2024, prevê trinta e seis parcelas mensais de R$ 3.000.000,00 líquidos, com valor bruto declarado
+  de R$ 3.646.529,77 por mês — o que perfaz R$ 131.275.071,72 em três anos. Estrutura a atuação em cinco
+  núcleos, perante o Judiciário, o Ministério Público, a polícia judiciária, órgãos do Executivo — Banco
+  Central, Receita Federal, PGFN e CADE — e o Legislativo, este para acompanhamento de projetos de lei
+  de interesse do contratante. O objeto estende-se expressamente aos sócios e acionistas controladores
+  do banco. Em caso de rescisão unilateral pelo contratante, é devido o valor integral do pró-labore,
+  isto é, a totalidade das parcelas remanescentes.
+document_ids:
+- doc-2024-01-16-contrato-master-barci-de-moraes
+source_ids:
+- src-stf-pet-16662-autos-integrais
+excerpt: O pagamento a título de pró-labore de 36 (trinta e seis) parcelas mensais e sucessivas no valor
+  fixo de R$ 3.000.000,00 (três milhões de reais) líquidos.
+date: '2024-01-16'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

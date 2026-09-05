@@ -1,0 +1,33 @@
+id: doc-2025-05-19-termo-dacao-em-pagamento-aeronaves
+kind: document
+title: 'Termo de acordo e dação em pagamento: R$ 40 milhões de honorários quitados com um jato e um helicóptero'
+doc_type: contract
+date: '2025-05-19'
+source_ids:
+- src-stf-pet-16662-autos-integrais
+summary: 'Firmado em 19/05/2025, sete dias depois do segundo contrato. Quita R$ 40 milhões dos R$ 50 milhões
+  ajustados mediante a transferência de participações em duas sociedades: 33,33% do capital da Fraction
+  024 Administração de Bem Próprio S.A., proprietária da aeronave Legacy 650 de prefixo PP-NLR, e 20%
+  do capital da Fraction 053, então em fase de aquisição de um helicóptero EC 155 B1 da Airbus Helicopters.
+  Os R$ 10 milhões restantes seriam quitados mediante reembolso, pela contratante, das despesas geradas
+  pela utilização das próprias aeronaves. O termo consigna que a contratante arca com todo o custo de
+  aquisição das ações, sem transmitir ônus ao escritório, que o escritório pode usar as aeronaves desde
+  a assinatura, que as ações não podem ser alienadas sem autorização prévia da contratante, e que a dação
+  está vinculada à conclusão integral dos serviços.'
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- barci-de-moraes-sociedade-de-advogados
+- viking-participacoes
+issuer: Viking Participações Ltda. e Barci de Moraes Sociedade de Advogados
+date_precision: day
+reference: Termo de Acordo e Dação em Pagamento, 19/05/2025 — anexo da PET 16.662/STF
+excerpt: A primeira delas mediante dação em pagamento de ativos de titularidade da CONTRATANTE (“Dação
+  em Pagamento”) para a quitação de R$ 40.000.000,00 (quarenta milhões de reais), especificamente considerados
+  direitos e ações de emissão das sociedades empresárias abaixo listadas conjuntamente com a indicação
+  de seus principais ativos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

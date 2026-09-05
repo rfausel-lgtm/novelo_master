@@ -1,0 +1,28 @@
+id: rel-viking-participacoes-barci-de-moraes-commercial
+kind: relationship
+from_id: viking-participacoes
+to_id: barci-de-moraes-sociedade-de-advogados
+relationship_type: commercial
+directed: true
+label: contrato de honorários com teto de R$ 50 milhões
+start_date: '2025-05-12'
+description: A Viking Participações, representada por Daniel Vorcaro, firmou com o escritório contrato
+  de três anos com teto de R$ 50 milhões, quitados em parte por dação em pagamento de participações em
+  sociedades proprietárias de aeronaves.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids:
+- evt-2025-05-19-honorarios-quitados-com-participacoes-em-aeronaves
+evidence_ids:
+- ev-viking-participacoes-e-representada-por-vorcaro
+- ev-honorarios-pagos-com-jato-e-helicoptero
+source_ids:
+- src-stf-pet-16662-autos-integrais
+document_ids:
+- doc-2025-05-12-contrato-viking-barci-de-moraes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

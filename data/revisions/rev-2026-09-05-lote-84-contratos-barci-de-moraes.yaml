@@ -1,0 +1,28 @@
+id: rev-2026-09-05-lote-84-contratos-barci-de-moraes
+kind: revision
+date: '2026-09-05'
+title: Lote 84 — os contratos do escritório Barci de Moraes, lidos nos autos
+summary: Obtidos pelo editor os autos completos da PET 16.662 do Supremo, com sigilo levantado em 01/09/2026,
+  e lidos pela equipe. Entre as 25 peças estão os três anexos que não eram públicos. O contrato com o
+  Banco Master, de 16/01/2024, prevê 36 parcelas mensais de R$ 3.000.000,00 líquidos — bruto de R$ 3.646.529,77
+  ao mês, ou R$ 131.275.071,72 em três anos — e estrutura cinco núcleos de atuação perante o Judiciário,
+  o Ministério Público, a polícia judiciária, órgãos do Executivo e o Legislativo, este para acompanhamento
+  de projetos de lei de interesse do contratante; o objeto estende-se aos sócios e controladores. O segundo
+  contrato, de 12/05/2025, é com a Viking Participações, representada pelo próprio Vorcaro, com teto de
+  R$ 50 milhões e previsão expressa de pagamento por dação. Sete dias depois, termo de dação quitou R$
+  40 milhões com 33,33% da sociedade proprietária de um jato Legacy 650 e 20% da sociedade em vias de
+  adquirir um helicóptero EC 155 B1 — e os R$ 10 milhões restantes com o reembolso das despesas de uso
+  das próprias aeronaves. A dação fica vinculada à conclusão dos serviços e as ações não podem ser alienadas
+  sem autorização de quem pagou.
+affected_ids:
+- barci-de-moraes-sociedade-de-advogados
+- banco-master
+- daniel-vorcaro
+- viking-participacoes
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+reason: Autos da PET 16.662 obtidos pelo editor com certificado digital.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

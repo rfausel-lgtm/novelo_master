@@ -1,0 +1,24 @@
+id: src-stf-pet-16662-autos-integrais
+kind: source
+title: Autos da Petição 16.662 do Supremo Tribunal Federal — 25 peças
+publisher: Supremo Tribunal Federal
+publication_date: '2026-09-05'
+retrieved_at: '2026-09-05'
+url: https://portal.stf.jus.br/processos/
+source_type: official_court
+summary: 'Conjunto completo das peças da PET 16.662, cujo sigilo foi levantado em 01/09/2026, obtido pelo
+  editor com certificado digital e lido integralmente pela equipe. Além do relatório da Polícia Federal
+  sobre o celular de Daniel Vorcaro, os autos contêm os três anexos que até então não eram públicos: os
+  dois contratos de prestação de serviços firmados com o escritório Barci de Moraes e o termo de acordo
+  e dação em pagamento. Contêm ainda os despachos do relator, a manifestação do procurador-geral da República
+  e duas petições do Partido Novo.'
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

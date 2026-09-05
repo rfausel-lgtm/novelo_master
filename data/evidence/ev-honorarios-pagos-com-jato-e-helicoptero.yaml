@@ -1,0 +1,21 @@
+id: ev-honorarios-pagos-com-jato-e-helicoptero
+kind: evidence
+classification: D
+proposition: 'O termo de acordo e dação em pagamento de 19/05/2025 quita R$ 40 milhões de honorários com
+  participações societárias em duas empresas proprietárias de aeronaves: 33,33% da Fraction 024, dona
+  de um jato Legacy 650 de prefixo PP-NLR, e 20% da Fraction 053, então em fase de aquisição de um helicóptero
+  EC 155 B1. Os R$ 10 milhões restantes seriam pagos mediante reembolso, pela própria contratante, das
+  despesas de utilização dessas mesmas aeronaves. O instrumento consigna que a contratante permanece responsável
+  por todo o custo de aquisição, de modo que nenhum ônus é transmitido ao escritório, e faculta ao escritório
+  usar as aeronaves desde a assinatura.'
+document_ids:
+- doc-2025-05-19-termo-dacao-em-pagamento-aeronaves
+source_ids:
+- src-stf-pet-16662-autos-integrais
+excerpt: 33,33% do capital social da F24; e 20% do capital social da F53.
+date: '2025-05-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

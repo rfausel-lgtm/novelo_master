@@ -1,0 +1,20 @@
+id: ev-dacao-vinculada-e-acoes-inalienaveis
+kind: evidence
+classification: D
+proposition: 'A dação em pagamento não é definitiva no sentido comum: o termo estabelece que ela está
+  vinculada à conclusão integral dos serviços jurídicos contratados e que o escritório fica obrigado a
+  manter a titularidade direta das ações até lá, vedada qualquer alienação, cessão, oneração ou transferência
+  sem autorização prévia e por escrito da contratante. Na prática, o pagamento permanece condicionado
+  e sob controle de quem paga.'
+document_ids:
+- doc-2025-05-19-termo-dacao-em-pagamento-aeronaves
+source_ids:
+- src-stf-pet-16662-autos-integrais
+excerpt: A dação em pagamento das ações ora formalizada está vinculada à conclusão integral dos serviços
+  jurídicos contratados
+date: '2025-05-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

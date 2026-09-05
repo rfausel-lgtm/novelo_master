@@ -1,0 +1,42 @@
+id: evt-2024-01-16-contrato-de-131-milhoes-com-o-escritorio
+kind: event
+title: Banco Master contrata o escritório Barci de Moraes por R$ 3 milhões líquidos ao mês, por três anos
+event_type: corporate_act
+date: '2024-01-16'
+date_precision: day
+participant_ids:
+- banco-master
+- barci-de-moraes-sociedade-de-advogados
+- daniel-vorcaro
+- guilherme-de-toledo-benazzi
+description: Contrato de três anos com trinta e seis parcelas mensais de R$ 3.000.000,00 líquidos — valor
+  bruto de R$ 3.646.529,77 ao mês —, estruturando cinco núcleos de atuação perante o Judiciário, o Ministério
+  Público, a polícia judiciária, órgãos do Executivo e o Legislativo. O objeto alcança expressamente os
+  sócios e acionistas controladores do banco. Assinado digitalmente em 23/01/2024 por Daniel Vorcaro e
+  por Angelo Antonio Ribeiro da Silva.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-contrato-master-barci-valores-e-nucleos
+- ev-objeto-do-contrato-alcanca-o-legislativo
+source_ids:
+- src-stf-pet-16662-autos-integrais
+document_ids:
+- doc-2024-01-16-contrato-master-barci-de-moraes
+public_act_ids: []
+cited_position:
+- kind: clarification
+  summary: Em nota de 09/03/2026, o escritório informou ter sido contratado pelo Banco Master entre fevereiro
+    de 2024 e novembro de 2025, com equipe de quinze advogados, noventa e quatro reuniões de trabalho
+    e trinta e seis pareceres e opiniões legais, e afirmou nunca ter conduzido causa para o banco no âmbito
+    do Supremo Tribunal Federal.
+  source_ids:
+  - src-stf-pet-16662-autos-integrais
+  by_id: barci-de-moraes-sociedade-de-advogados
+  date: '2026-03-09'
+location: São Paulo (SP)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

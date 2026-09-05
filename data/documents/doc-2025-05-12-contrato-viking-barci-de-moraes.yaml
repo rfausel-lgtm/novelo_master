@@ -7,10 +7,14 @@ date: '2025-05-12'
 source_ids:
 - src-poder360-2026-09-02-dois-contratos-barci
 - src-poder360-2026-09-01-integras-pet-16662
+- src-stf-pet-16662-autos-integrais
 summary: 'Segundo contrato revelado pelo relatório da PF: firmado em 12/05/2025 entre o escritório e a
   Viking Participações, com vigência de três anos e limite máximo de R$ 50 milhões líquidos em 36 meses,
   com pagamentos mensais, trimestrais ou semestrais conforme a demanda. Anexado ao relatório da PF e tornado
-  público em 01/09/2026.'
+  público em 01/09/2026. Lido integralmente pela equipe nos autos da PET 16.662: fixa limite máximo remuneratório
+  de R$ 50.000.000,00 em trinta e seis meses, admite pagamento por dação em pagamento de bens imóveis,
+  móveis ou serviços, e é representado no ato pelo próprio Daniel Bueno Vorcaro, pessoa física qualificada
+  no instrumento.'
 is_official: true
 related_entity_ids:
 - viking-participacoes
@@ -24,4 +28,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-05'

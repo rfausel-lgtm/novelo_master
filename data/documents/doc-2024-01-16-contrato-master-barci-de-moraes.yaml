@@ -1,0 +1,36 @@
+id: doc-2024-01-16-contrato-master-barci-de-moraes
+kind: document
+title: Contrato de prestação de serviços e honorários entre o Banco Master e o escritório Barci de Moraes
+doc_type: contract
+date: '2024-01-16'
+source_ids:
+- src-stf-pet-16662-autos-integrais
+summary: Contrato de três anos, datado de São Paulo, 16/01/2024, assinado digitalmente em 23/01/2024 por
+  Daniel Bueno Vorcaro e por Angelo Antonio Ribeiro da Silva. A contratada é representada por seu administrador,
+  Guilherme de Toledo Benazzi. O objeto abrange programa de integridade, consultoria estratégica e jurídica
+  em inquéritos policiais e procedimentos administrativos — inclusive perante o Banco Central, a Receita
+  Federal e o CADE — e processos judiciais em todas as instâncias, e estende-se expressamente aos sócios
+  e acionistas controladores do contratante. Prevê a organização de cinco núcleos de atuação perante o
+  Judiciário, o Ministério Público, a polícia judiciária, órgãos do Executivo e o Legislativo, este último
+  para acompanhamento de projetos de lei de interesse do contratante. Os honorários são de 36 parcelas
+  mensais de R$ 3.000.000,00 líquidos, com valor bruto declarado de R$ 3.646.529,77 por mês. Em caso de
+  rescisão unilateral pelo contratante, é devido o valor integral do pró-labore.
+is_official: true
+related_entity_ids:
+- banco-master
+- barci-de-moraes-sociedade-de-advogados
+- daniel-vorcaro
+- guilherme-de-toledo-benazzi
+issuer: Banco Master S.A. e Barci de Moraes Sociedade de Advogados
+date_precision: day
+reference: Contrato de prestação de serviços e de honorários advocatícios, São Paulo, 16/01/2024 — anexo
+  da PET 16.662/STF
+excerpt: A organização e coordenação de CINCO NÚCLEOS de atuação conjunta e complementar – estratégica,
+  consultiva e contenciosa – perante o JUDICIÁRIO, MINISTÉRIO PÚBLICO, POLÍCIA JUDICIÁRIA, ÓRGÃOS DO EXECUTIVO
+  (Banco Central, Receita Federal, PGFN, CADE) e LEGISLATIVO (acompanhamento de projetos de lei de interesse
+  do CONTRATANTE)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'
