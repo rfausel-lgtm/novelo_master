@@ -52,6 +52,295 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
   Agência Brasil, sempre com autoria, licença e link para o arquivo original; coletor da Agência Brasil
   em `python/novelo_osint/fotos.py`.
 
+- Lote 86 do corpus: o caso gêmeo do Rio, e o caminho que ele tomou até o Supremo. Obtidas as cinco
+  publicações do agravo nº 3000060-09.2026.8.19.0000 do TJ-RJ, com os inteiros teores. A ação de origem é a
+  cautelar nº 3049678-51.2025.8.19.0001, do Estado do Rio e do Rioprevidência contra o Banco Master e a PKL
+  One Participações, por crédito de cerca de R$ 970 milhões; a liminar tem a mesma arquitetura da do Amapá,
+  com multa de R$ 50 mil por servidor indevidamente negativado. Os autores sustentam atuação integrada entre
+  o banco e a PKL, com possível grupo econômico, e afirmam que o CredCesta foi "originado dentro da estrutura
+  do próprio Banco Master". O percurso processual difere do Amapá: o Banco Central pediu para intervir, o
+  juízo estadual remeteu à Justiça Federal e esta ao Supremo, e o tribunal estadual julgou o agravo
+  prejudicado. Registrada a provável duplicação de registros da PKL no próprio corpus.
+- Lotes 85 e 85b do corpus: a cautelar dos consignados do Amapá, em 3.475 páginas lidas. A única prestação de
+  contas do processo nº 6102005-63.2025.8.03.0001, de 22/04/2026, soma R$ 7.933.491,87 — e os R$ 63 milhões
+  anunciados publicamente em fevereiro de 2026 não têm correspondência em nenhuma peça. A segunda prestação,
+  vencida em junho, não foi apresentada; o liquidante impugna as contas e aponta diferença de R$ 11,16
+  milhões do lado do Estado. Esclarecido o que é a "notificação do desenquadramento": não é ato de órgão
+  externo, mas a reação administrativa da própria entidade ao rebaixamento do rating, com o liquidante
+  sustentando que nunca houve ordem de resgate. Localizado o ofício de 11/09/2025 em que a Amprev pergunta ao
+  presidente do Banco Central, pela segunda vez, os motivos da negativa à compra do Master pelo BRB — dois
+  meses antes da liquidação, sem resposta nos autos.
+- Lote 84 do corpus: os contratos do escritório Barci de Moraes, lidos nos autos. Obtidos os autos completos
+  da PET 16.662 do Supremo, com sigilo levantado em 01/09/2026, incluindo os três anexos que não eram
+  públicos. O contrato com o Banco Master, de 16/01/2024, prevê 36 parcelas mensais de R$ 3.000.000,00
+  líquidos — R$ 131.275.071,72 em três anos — e estrutura cinco núcleos de atuação perante Judiciário,
+  Ministério Público, polícia judiciária, Executivo e Legislativo, este para acompanhamento de projetos de
+  lei de interesse do contratante. O segundo, de 12/05/2025, é com a Viking Participações, com teto de R$ 50
+  milhões e previsão expressa de pagamento por dação: sete dias depois, R$ 40 milhões foram quitados com
+  participações nas sociedades proprietárias de um jato Legacy 650 e de um helicóptero EC 155 B1.
+- Lotes 83 e 83b do corpus: os autos de Itaguaí, em 203 páginas submetidas a reconhecimento óptico. A
+  identidade textual entre os termos de credenciamento do Banco Master deixa de ser descrição de auditoria
+  sigilosa e passa a ser constatação da equipe sobre duas cópias lidas: a de Itaguaí e a publicada pela
+  Alagoas Previdência coincidem palavra por palavra. Os autos trazem o e-mail com que o banco remeteu a
+  documentação, assinado pela mesma executiva de relações institucionais documentada em Goiás, no Amapá e em
+  Alagoas, e o termo em duas versões — uma sem assinatura e já preenchida, com o CNPJ do banco impresso no
+  campo do representante legal. Aberto em 11/01/2024 e assinado em 16/01/2024, pela mesma pessoa nos dois
+  campos reservados a funções distintas, com dois minutos de diferença. E a Lista Exaustiva do Ministério da
+  Previdência, que não traz o banco em nenhuma de suas seções, está juntada ao próprio processo, nas páginas
+  182 e 183 — a poucas dezenas de páginas da atestação que afirma o requisito que ela espelha.
+- Lote 83 do corpus (achados negativos): nem Roberta Luchsinger nem qualquer filho do presidente Lula tem
+  ligação documentada com o caso Banco Master. A busca textual nas peças primárias retorna zero ocorrências,
+  com controles de extração funcionando; ambos estão em outro caso, a Operação Sem Desconto, do INSS. A
+  confusão tem origem rastreável: os dois inquéritos têm o mesmo relator e um relatório da PF os compara, de
+  modo que os nomes aparecem no mesmo documento sem vínculo entre as pessoas. Registrada também a armadilha
+  do apelido "Careca", que no caso Master designa Alexandre de Moraes, segundo a própria PF, e no caso do
+  INSS designa pessoa inteiramente distinta. Nenhum registro de pessoa foi criado: incluir no grafo quem não
+  tem ligação com o caso sugeriria vínculo pela simples presença.
+- Lote 82 do corpus: o Metrópoles, e uma declaração de conflito da própria plataforma. O Banco Master pagou
+  R$ 27,28 milhões ao veículo entre o segundo semestre de 2024 e outubro de 2025, movimentação que o Coaf
+  classificou como atípica. A contrapartida existe e é lícita — naming rights da Série D de 2025, com
+  contrato confirmado pela CBF —, embora haja descasamento de cerca de seis meses entre o início dos
+  pagamentos e a veiculação da marca. O teste objetivo da cobertura pesa contra a hipótese de captura, e está
+  registrado com o mesmo peso: depois da liquidação ela foi ampla e pioneira, e foi o Metrópoles que revelou
+  o contrato de R$ 129 milhões do escritório Barci de Moraes. Mas há dois artefatos datados de omissão do
+  próprio nome. Como o veículo é uma das fontes mais usadas deste corpus, aplicou-se nota de contexto
+  padronizada a todos os seus registros de fonte, por dever de transparência.
+- Lote 81 do corpus: o documento — o parecer que aprovou o banco foi escrito pelo banco. Localizado e lido o
+  Termo de Credenciamento nº 033/2024 do Banco Master na Alagoas Previdência, publicado aberto e datado de
+  05/04/2024, com as frases exatas que a auditoria do Ministério da Previdência descreveu como idênticas em
+  outros quatro entes: o campo destinado à análise do regime próprio contém texto promocional, e o de
+  qualificação do corpo técnico, uma única frase sem nomes nem indicadores. O Tribunal de Contas do Estado do
+  Rio de Janeiro, em voto de 56 páginas sobre Itaguaí, afirma que o termo foi "integralmente preenchido pelo
+  próprio Banco Master", que a documentação comprobatória era formada "unicamente por certidões e relatórios
+  gerados e enviados pelo próprio Banco Master" e que a análise durou "menos de 2 dias úteis". Registrado
+  ainda o vetor humano entre o Rioprevidência e o Itaprevi.
+- Lote 80 do corpus: Nelson Tanure — a cadeia de atribuição, e a ponte que não existe. Leitura integral da
+  decisão de 06/01/2026 na PET 15.198: a expressão "sócio oculto" está dentro da transcrição da manifestação
+  do procurador-geral, que reporta o que a autoridade policial afirmou, e o relator registra que sua cognição
+  nessa fase é necessariamente limitada. Distinguidos os estágios — investigado e alvo de busca no caso
+  Master, réu em ação penal distinta sobre a Gafisa, cuja conexão o próprio relator rejeitou. Testada na base
+  primária da CVM a hipótese de que recursos de regimes próprios teriam chegado a veículos dele: zero
+  cotistas de regimes próprios no FIDC Maranta, no Bordeaux FIP e no Fonte de Saúde FIP. O fluxo documentado
+  é o inverso, do caixa da Ligga para cédulas de crédito do Master.
+- Lote 79 do corpus: o parecer escrito pelo próprio banco, e a consultoria dos dois lados. O relatório de
+  auditoria federal tem nome oficial, revelado pela própria PF em nota pública — "Relatório de Auditoria
+  Direta — Letras Financeiras", da Coordenação-Geral de Auditoria do DRPPS —, é sigiloso, está com a PF e não
+  trata de quatro entes, mas percorre regimes próprios em vários estados. Seu achado central, de que os
+  termos de credenciamento eram idênticos e elaborados pelo próprio banco, tem confirmação independente do
+  TCE-RJ no caso de Itaguaí. Registrado que a consultoria presente em sete dos compradores declara à CVM
+  assessorar os dois lados do mesmo credenciamento, e que seu principal executivo é quem propõe a compra de
+  letras financeiras na ata de Congonhas. Documentada a assimetria que define o caso: 265 fundos de pensão
+  privados com exposição zero.
+- Lote 78 do corpus: Congonhas — o critério que o próprio comitê fixou e que a compra violou. A ata de
+  07/05/2024 autoriza compra genérica de letras financeiras sem nomear emissor, exigindo apenas instituição
+  no mínimo S3 e presente na lista exaustiva da Secretaria de Previdência. Vinte dias depois compra-se R$ 14
+  milhões do Banco Master, que não constava da lista e só passaria a constar em abril de 2025. A autorização
+  descreve a compra de letra financeira de banco privado como "aplicação em títulos públicos". A única
+  relação de credenciadas publicada pela autarquia, de 2023, não inclui o banco, e nenhuma ata registra a
+  aprovação de seu credenciamento. O saldo chegou a R$ 16,5 milhões em outubro de 2025 e foi baixado a um
+  centavo no mês da liquidação.
+- Lotes 77 e 77b do corpus: o balanço do Master, e a prova de escala. Demonstrações financeiras auditadas de
+  2024 lidas integralmente: a letra financeira não existia no passivo em 2022, somava R$ 486 milhões ao fim
+  de 2023 e R$ 2,11 bilhões ao fim de 2024 — alta de 333% no ano —, com 95,7% vencendo acima de cinco anos,
+  enquanto a letra de crédito imobiliário caía 76%. A taxa de IPCA + 8,35% que a Amprev aceitou é exatamente
+  o teto da faixa de emissão declarada pelo banco (em 2023 o teto era 8,00%). A base IF.data do Banco Central
+  confirma os números ao centavo e mostra o estoque crescendo até R$ 4,11 bilhões em junho de 2025, cinco
+  meses antes da liquidação. Varredura por amostragem no mercado secundário da B3 — 91 dias com dados, quase
+  18 mil registros de 46 emissores — não encontrou uma única negociação de papel do Master: os títulos não
+  circulavam. Os dezoito regimes próprios responderam por cerca de 88% do estoque, e o total nacional foi
+  corrigido para R$ 1,867 bilhão.
+- Lote 76 do corpus: Aparecida de Goiânia — a mesma vendedora, e um controle contornado. Em 20/12/2023, três
+  meses antes do Amapá, a mesma representante do Banco Master participou por videoconferência da sessão que
+  credenciou o banco no regime próprio local. Em 28/02/2024 o conselho rejeitou por sete votos a três a
+  proposta de reduzir a exigência de rating da política de investimentos — proposta que um conselheiro
+  perguntou em ata se seria "para atender somente ao Banco Master", e que o diretor financeiro confirmou ser
+  a única instituição credenciada fora do enquadramento, por não constar da lista exaustiva. Em 06/06/2024 os
+  R$ 40 milhões foram aplicados assim mesmo, e o conselho só registrou conhecimento em setembro; em audiência
+  pública de dezembro de 2025 a direção confirmou não existir documento formal de aprovação.
+- Lotes 75 e 75b do corpus: a mesa institucional do Master, nomeada. A ata de 14/03/2024 traz o próprio banco
+  nomeando os cinco regimes próprios já captados — Rioprevidência, Maceió, Paulista, Cajamar e Araras —,
+  todos presentes na lista final dos dezoito compradores: a carteira pública já conquistada era o argumento
+  de venda para o comprador público seguinte. Verificação primária da Lista Exaustiva do Ministério da
+  Previdência: o Banco Master não constava em 06/05/2024 e só entrou em 11/04/2025, sem nenhuma atualização
+  da lista entre as duas datas — ou seja, durante todo o período das compras dos dezoito regimes próprios ele
+  não constava. Registrados os intermediários remunerados, o parecer que o escritório Barci de Moraes
+  produziu para o banco em julho de 2024 sobre a captação junto a RPPS, o Parecer SEI 146/2024 e a Nota
+  Técnica 726/2024, que rejeita a tese do conglomerado.
+- Lote 74 do corpus: o relatório do celular, medido. Classificação das 109 menções a "Moraes" no relatório da
+  PF, uma a uma, por contexto: 51 ao ministro ou ao contato salvo, 58 ao escritório da esposa, nenhuma a
+  terceiro homônimo. A contagem bruta quase empata, mas a arquitetura do documento não: a seção "Da análise
+  do destinatário das notas" ocupa 190 das 218 páginas, das quais só cerca de 31 tratam dos contratos do
+  escritório. Registrado que o relatório não imputa conduta a magistrado e não cita nenhuma decisão, voto ou
+  ato de ofício; que a titularidade da linha não está demonstrada; que os metadados da minuta trazem nome de
+  conta de usuário, não autoria; e que a manifestação da PGR ataca a via processual, não o mérito.
+  Acrescentada a PET 16.704, aberta de ofício por Fachin, cujo objeto alcança a conduta da própria PF.
+- Lote 73 do corpus: o canal de colocação, e uma retratação. As atas do Comitê de Investimentos da Amprev
+  estão públicas e nunca foram usadas pela cobertura; quatro foram lidas. A de 14/03/2024 registra o próprio
+  Banco Master pedindo reunião com o comitê e descrevendo em números a captação junto a regimes próprios
+  montada desde novembro de 2023 — cinco clientes, quarenta credenciamentos em andamento, R$ 700 milhões
+  captados —, além de recomendar o prazo de dez anos. A de 19/07/2024 mostra que os R$ 400 milhões
+  equivaliam a quase 59% de todo o estoque de letras financeiras do emissor. Corrigida a leitura sobre a
+  rejeição de ofertas de bancos de primeira linha: elas não foram rejeitadas, foram aprovadas na mesma
+  sessão. RETRATAÇÃO: o evento de deliberação de FIDC em 14/09/2021, publicado no lote 71 com base na decisão
+  judicial, foi retirado — não houve reunião do comitê naquela data, não havia FIDC na carteira em nenhum mês
+  de 2021 e nenhum dos investigados integrava o colegiado naquele ano. A evidência de que a passagem existe
+  no documento judicial permanece, reformulada.
+- Lote 72 do corpus: o nó do Amapá em documentos primários. Lidos três edições do Diário Oficial do Estado, a
+  Lei estadual 0915/2005 consolidada, a ata da 9ª reunião ordinária do Conselho Estadual de Previdência e
+  duas publicações do site oficial da Amprev. A atribuição do convite a Davi Alcolumbre não vem de fonte
+  anônima nem de peça policial, mas de declaração do próprio Jocildo Lemos, repetida em dois registros
+  oficiais; a decisão judicial da Zona Cinzenta não menciona o senador nenhuma vez; e a nomeação da diretoria
+  é ato de livre escolha do governador, sem participação legal de parlamentar. Identificados os dois
+  conselheiros vencidos em 19/07/2024. Corrigido o enquadramento jurídico da entidade — não é autarquia, mas
+  serviço social autônomo — e reconciliados os percentuais de concentração, que usavam denominadores
+  distintos.
+- Lote 71 do corpus: leitura integral da decisão da operação Zona Cinzenta. O corpus registrava a decisão da
+  4ª Vara Federal Criminal do Amapá apenas pela descrição de terceiros, com ressalva expressa de que não fora
+  lida pela equipe. As 14 páginas foram extraídas e lidas, acrescentando as condições contratuais do primeiro
+  aporte (IPCA + 8,35% ao ano, dez anos), o alerta de concentração de 40% da carteira líquida, a recusa
+  prévia da Caixa em adquirir os mesmos ativos, a visita técnica tratada como formalidade e os dois votos
+  contrários de 19/07/2024. Deslocou também o centro da imputação policial: a PF aponta o conselheiro José
+  Milton Afonso Gonçalves, e não o diretor-presidente, como mentor intelectual.
+- Lote 70 do corpus: o nó BN/BK, resolvido em registro público. BN Financeira Ltda. é a razão social e BK
+  Financeira o nome fantasia da mesma pessoa jurídica — a imprensa dividiu-se entre o nome empresarial, usado
+  nos documentos judiciais, e o fantasia, usado por agregadores. Empresa distinta, da mesma sócia, é a BN
+  Representações Tecnológicas, que migrou de floricultura para software poucos meses antes da operação.
+  Resolvido o nome, sobram três achados: um metodológico — a representação da PF, ao datar o contrato, cita
+  como fonte uma reportagem, e documento oficial e matéria não são fontes independentes nesses pontos; um
+  regulatório que a cobertura não explorou — o art. 8º da Resolução CMN 4.935/2021 exigia autorização prévia
+  do Banco Central para contratar como correspondente empresa fora do sistema financeiro que usasse termos
+  característicos de instituição financeira no nome; e uma correção — o número de R$ 5,5 milhões que circulou
+  não existe nos autos.
+- Lote 69 do corpus: o eixo nacional — e o que os documentos primários não dizem sobre Lula. Lidos
+  integralmente o relatório da PF sobre o celular de Vorcaro (218 páginas) e o relatório final da CPI do
+  Crime Organizado (221). O resultado sobre o presidente da República é negativo e firme: não aparece no
+  relatório policial, não está entre os quatro indiciamentos propostos pela CPI, não consta das minutas de
+  delação e não é interlocutor de nenhuma mensagem apreendida. O que existe é a audiência de 04/12/2024, que
+  ele próprio confirmou, com duas versões não conciliadas sobre o teor. Documentada a Pollaris, de Guido
+  Mantega, que recebeu R$ 14 milhões do banco, com a ressalva do próprio relatório de que pagamentos isolados
+  não configuram ilícito a priori. Corrigidos três pontos, entre eles o mais sensível: Galípolo não negou ter
+  tratado do Master com ministros do STF, mas recusou-se a responder invocando sigilo.
+- Lote 68 do corpus: a rede baiana — e a correção sobre a Emenda 30. A correção principal favorece o
+  investigado e desmonta uma leitura que circulava em veículos de posições opostas: a Emenda nº 30 à MP
+  1.106/2022 é de Jaques Wagner, mas propunha um TETO de juros de 300% do CDI — dispositivo restritivo, não
+  expansivo — e não foi incorporada ao texto final. O que a PF lhe imputa, em suas próprias palavras, é
+  correlação temporal e de comportamento, em linguagem expressamente preliminar. Registrado que não houve
+  depoimento, indiciamento, denúncia nem arquivamento até setembro de 2026, e que a PGR se opôs à própria PF
+  quanto às medidas da operação. Acrescentados Jerônimo Rodrigues e a ASSEBA, por onde teriam transitado
+  R$ 140,1 milhões segundo relatório do Coaf, com a negativa do governo baiano.
+- Lote 67 do corpus: a arquitetura do CredCesta, em texto primário. Extraída do Diário Oficial da Bahia a
+  íntegra dos três decretos que estruturam o negócio, o que corrigiu dois erros do corpus: o CredCesta não
+  foi criado em 2018 — existia desde pelo menos 2014 —, e a EBAL não era sócia nem conveniada, mas a gestora
+  estatal do programa, privatizada com ele embutido no lote. O achado estrutural está no Decreto 18.354, que
+  reescreveu o inciso reservando 30% de margem a benefícios do poder público, passando-a ao operador privado,
+  cumulativa com a dos bancos — dezesseis dias após o leilão que vendeu a estatal por R$ 15 milhões, com
+  dívidas de R$ 93 milhões deixadas ao Estado. Em 2022, outro decreto retirou do servidor o direito de portar
+  a dívida para instituição mais barata. O produto cobrava cerca de 5% ao mês contra média de mercado
+  inferior a 1,6%, e virou 85,4% das operações do banco em 2022.
+- Lote 66 do corpus: o mapa da CVM e o julgamento de 8 de setembro. Dezenove acusados no processo do Brazil
+  Realty FII — entre eles Daniel Vorcaro, o pai, o irmão, o Banco Master, a Milo, a Sefer, Benjamim Botelho e
+  Antônio Carlos Freixo Júnior —, no mesmo processo que o voto de dezembro de 2020 considerou sem
+  materialidade suficiente para obstar o acordo então firmado com Vorcaro. Publicado o mecanismo descrito no
+  parecer técnico: laudo sem assinatura, sobreavaliação de R$ 56 milhões, avaliadora que não reconheceu a
+  autoria, matrícula apontando outro proprietário, pagamento em espécie e recibo com assinatura aparentemente
+  colada, além do retorno irregular de R$ 84,9 milhões à Milo. Entre os investidores lesados havia regimes
+  próprios de previdência. Registradas as três propostas de acordo rejeitadas e a prestação de contas da
+  autarquia no Senado, incluindo a admissão de que "pode ter havido erro".
+- Lote 65 do corpus: o estado das alegações de intimidação, com o mesmo ceticismo aplicado aos dois lados.
+  Contra a alegação: Vorcaro não nomeou nenhum agente, os supostos autores estavam mascarados, não houve
+  perícia nem exame de corpo de delito, nenhum agente foi formalmente investigado, e o contexto é o de uma
+  terceira tentativa de delação feita no mesmo dia em que ele deveria depor à PF. Contra a versão oficial: a
+  resposta da corporação veio inteiramente por interlocutores anônimos, sem nota institucional nem
+  pronunciamento do diretor-geral, e a versão do encontro casual em Londres é enfraquecida pelo próprio
+  relatório da PF. Nenhuma das frentes teve desfecho, e o procurador-geral que pediu o arquivamento é ele
+  próprio citado nas mensagens.
+- Lote 64 do corpus: o acordo de 2020 — quando a CVM já tinha Vorcaro como acusado. Cinco anos antes do
+  colapso, ele figurou pessoalmente como acusado num processo da autarquia e fechou termo de compromisso por
+  R$ 250 mil, dentro de um acordo total de R$ 2,325 milhões, aceito em 01/12/2020 depois de duas rejeições do
+  Comitê competente. O voto do diretor Henrique Machado, lido na íntegra, mostra que a área técnica já
+  descrevia em 2020 estruturação de emissões para transferir recursos de uma massa falida a familiares dos
+  controladores. Cerca de seis meses depois, ao fim do mandato, Machado passou a integrar escritório que
+  atende o Master; a PF registrou a sequência como suspeita, sem pedir diligências, e ele nega. Registrado
+  com o mesmo destaque o que pesa a favor dele, inclusive a restituição documentada de mais de R$ 51 milhões
+  antes da apreciação. Criado o registro da própria CVM como organização.
+- Lote 63 do corpus: o que o relatório da PF diz — e não diz — sobre o diretor-geral. Lida a íntegra das 218
+  páginas do relatório IPJ-A nº 3298613/2026, de onde veio o elemento mais exculpatório do documento, que
+  não constava do corpus: não há contato salvo com o nome de Andrei Passos no celular de Vorcaro, nem uma
+  única mensagem trocada entre os dois — todas as menções são de terceiros, e o relatório usa o condicional.
+  O documento declara que não realizou atos de aprofundamento investigativo e que não tem caráter exaustivo.
+  Em contrapartida, transcreve a trilha do convite ao fórum de Londres de abril de 2024, com a pergunta sobre
+  quem cobriria hospedagem e passagem e a resposta "todas as despesas bancadas por nós". Fecha com o
+  inventário dos sete procedimentos que o alcançam — nenhum decidido — e com o registro de que ele nunca se
+  manifestou sobre o mérito.
+- Lote 62 do corpus: os policiais cooptados têm nome. O corpus registrava, de fonte única e sem nomes, que
+  Marilson Roseno da Silva teria cooptado "ao menos três policiais", e estava seis meses desatualizado. A 6ª
+  fase da Compliance Zero, em 14/05/2026, identificou o núcleo: o agente Anderson Wander da Silva Lima,
+  preso; a delegada Valéria Vieira Pereira da Silva, afastada; e dois aposentados. A decisão judicial mostra
+  que as consultas de fato ocorreram e que a informação chegou — a delegada acessou pelo e-Pol, sem
+  atribuição legal, exatamente o inquérito em que Henrique Vorcaro fora intimado, e a PF apreendeu com o pai
+  do banqueiro documento extraído do sistema Sinapse. Nenhum dos citados foi julgado, não há denúncia
+  oferecida, e as defesas que se manifestaram negam.
+- Lote 61 do corpus: os limites da verificação, documentados. Duas lacunas foram perseguidas até o fim e
+  voltaram negativas — mas com prova de por quê, que é o que distingue um limite de uma omissão. O processo
+  da CVM que acusa 29 pessoas e empresas de oferecer vantagens a prefeitos e gestores de previdências
+  municipais NÃO foi julgado: consta da planilha oficial de pendentes, posição de 31/01/2026, sem
+  movimentação pública desde 24/05/2022, mais de nove anos após a instauração do inquérito; fica sinalizada,
+  sem afirmação de mérito, a hipótese de prescrição intercorrente. E o documento que nomearia cotistas de
+  fundos em outubro de 2015, gargalo de toda a alegação sobre o narcotraficante espanhol, não pode ser
+  público: o sistema de divulgação só existe desde junho de 2016, o formato identifica cotistas por faixas
+  percentuais anônimas, e o dado é coberto por sigilo bancário.
+- Lote 60 do corpus: a absolvição de Botelho, confirmada em sentença — correção em favor de pessoa
+  identificada. O corpus registrava a absolvição apenas como versão da defesa, marcada como não confirmada, o
+  que lhe era desfavorável sem lastro. A íntegra da sentença foi obtida pela API pública do DJEN/CNJ, rota
+  que resolveu o acesso depois de o TRF3 e o PJe de primeiro grau recusarem conexão: a ação penal nº
+  5003557-34.2021.4.03.6181 absolveu em 25/04/2025 quatro dos cinco réus com fundamento no art. 386, V, do
+  CPP, condenando apenas Saul Dutra Sabbá. Registrado, com o mesmo destaque, o que a nota da defesa omitia: o
+  MPF apelou, e o recurso seguia pendente no TRF3.
+- Lote 59 do corpus: a frente rondoniense em profundidade — e uma correção ao lote 56. A Operação Miquéias,
+  de 2013, mostra que a estrutura Foco/Aquilla já estava sob apuração federal sete anos antes da Fundo Fake e
+  quatro antes de Vorcaro contratar a compra do Máxima. Registrado que ele foi alvo dessa frente e teve
+  mandado de prisão expedido em 2020, nunca cumprido e depois anulado, com o inquérito trancado pelo TRF-1 em
+  2023 — e registrado, com o mesmo destaque, o argumento temporal da defesa, que tem lastro parcial. A
+  correção ao lote 56: a transferência de R$ 2 milhões afirmada na peça da CPI não foi corroborada, e a única
+  fonte jornalística sobre o tema descreve o fluxo em sentido inverso.
+- Lote 58 do corpus: a alegação do narcotraficante espanhol, separada em camadas. Publica-se como fato a
+  condenação de Oliver Ortiz em 2013; como evidência atribuída, a decisão da Justiça Federal do Rio que o
+  descreve como cotista de fundos do Grupo Aquilla; como documento oficial, o requerimento aprovado na CPI do
+  Crime Organizado que acolheu a tese. O núcleo causal permanece registrado como alegação em disputa, de
+  fonte anônima única, com os limites explicitados — entre eles a constatação, por busca textual no PDF
+  oficial, de que o relatório final da CPI não menciona nenhum dos envolvidos. Por decisão editorial, não se
+  cria vínculo entre Ortiz e Daniel Vorcaro no grafo: nenhuma fonte afirma que Vorcaro o conhecesse ou
+  soubesse da origem dos recursos.
+- Lote 57 do corpus: quem é Benjamim Botelho de Almeida. O registro, antes de um parágrafo, passa a ter
+  lastro documental: cargos fixados em parecer da CVM, três processos sancionadores, a liquidação da Sefer
+  pelo Banco Central em 26/06/2026 com bloqueio de seus bens, e a condição de alvo da 2ª fase da Compliance
+  Zero. O elo estrutural mais relevante: o fundo Aquilla Veyron, do grupo que ele dirigia, é apontado pelo
+  MPF como instrumento da mesma fraude contábil pela qual Saul Dutra Sabbá foi inabilitado e condenado.
+  Corrigidos três pontos do corpus, entre eles o de que ele seria silente — manifestou-se por seus advogados,
+  e suas versões passam a constar.
+- Lote 56 do corpus: a origem do capital e a frente de Rondônia. Vorcaro declarava R$ 2,8 milhões à Receita
+  Federal em 2015, dois anos antes de contratar a compra de 56,87% de um banco por R$ 40 milhões — e a
+  diferença foi preenchida por uma engrenagem imobiliária que inclui um terreno em Jequitibá (MG),
+  regularizado por R$ 2,5 milhões e vendido por R$ 57 milhões a um fundo abastecido por previdências de
+  servidores públicos. A alegação de prisão decretada em Ji-Paraná em outubro de 2019 foi submetida a nova
+  verificação e NÃO se confirmou; registra-se o resultado negativo com as ressalvas que o reforçam. Em
+  compensação, documentou-se o que estava por trás: há linha investigativa federal em Ji-Paraná alcançando
+  Vorcaro desde janeiro de 2019, nove meses antes do aval do Banco Central.
+- Lote 55 do corpus: o vendedor e o banco — o que o Máxima era antes de virar Master. O registro sobre Saul
+  Dutra Sabbá passa a documentar que o Banco Central o inabilitou em 19/07/2018 por prestar informações
+  incorretas de forma intencional e sistemática para ocultar grave insuficiência de capital, que ele foi
+  condenado por gestão fraudulenta em abril de 2025 por fatos de 2014 a 2016, e que obteve acordo de não
+  persecução penal homologado em 05/02/2026. Acrescentados o preço e a forma de pagamento — 56,87% do capital
+  por R$ 40 milhões, dos quais apenas R$ 4 milhões em espécie e R$ 36 milhões em cotas de fundo — e o porte
+  real do banco vendido: patrimônio líquido de R$ 30 milhões, desenquadrado e à beira da liquidação.
+- Lote 54 do corpus: o que era, afinal, o aporte do FGC na origem do Master. Lido o texto consolidado da
+  Resolução CMN nº 4.222/2013 e identificada a redação do Estatuto do FGC vigente em dezembro de 2017: o art.
+  4º prevê expressamente assistência financeira do fundo a instituições associadas e a seus acionistas
+  controladores, inclusive para promover transferência de controle acionário. Isso retira da operação, em si,
+  o caráter de anomalia — correção importante contra a leitura intuitiva de escândalo. A verificação
+  enfraqueceu o número de dezembro de 2017 (fonte única, não reproduzida pelas demais coberturas dos mesmos
+  votos) e acrescentou uma operação distinta e melhor documentada: o empréstimo emergencial de R$ 20 a R$ 30
+  milhões concedido pelo FGC ao Máxima em 2019, com a versão do próprio fundo de que não financia aquisições.
 - Lote 53 do corpus: dois pontos de fechamento. A repercussão internacional do caso — cobertura
   investigativa sustentada da Bloomberg e análise institucional do The Economist, sem evidência de
   rebaixamento do rating soberano do Brasil (S&P manteve 'BB/B' estável); a falha de avaliação de risco
