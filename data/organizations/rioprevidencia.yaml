@@ -18,13 +18,25 @@ open_questions:
   não julgada.
 - A cautelar do Rioprevidência migrou para a Justiça Federal, por pedido de intervenção do Banco Central,
   e depois ao Supremo; o corpus não apurou sob qual número os autos originários tramitam na corte.
+- As atas do Comitê de Investimentos entre outubro de 2023 e dezembro de 2023, lidas integralmente pela
+  equipe, não nomeiam o Banco Master em nenhum momento — apenas liberam teto regulatório genérico. As
+  atas de janeiro a agosto de 2024 não foram lidas.
+- Não foi localizado o número do processo em que a cautelar do Rioprevidência tramitou no STF antes da
+  redistribuição por Toffoli à primeira instância.
+- Há divergência entre fontes jornalísticas sobre se a CPI da Alerj, aprovada em 12/05/2026, chegou a
+  ser efetivamente instalada.
+- O número do processo da ação da Procuradoria-Geral do Estado do Rio de Janeiro, de 17/07/2026, não foi
+  localizado; tramita sob sigilo.
 source_ids:
 - src-stf-2026-05-26-oitava-fase-castro
 - src-conjur-2026-07-17-pge-rj-cobra-master-rioprevidencia
 - src-djen-cnj-agravo-3000060-09-2026-tjrj
+- src-rioprevidencia-ata-11-2023-11-30
+- src-migalhas-2026-01-23-barco-de-papel
+- src-stj-2026-03-19-mantem-prisao-deivis
 full_name: Fundo Único de Previdência Social do Estado do Rio de Janeiro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-05'
+updated_at: '2026-09-04'

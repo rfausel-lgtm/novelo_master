@@ -29,11 +29,15 @@ open_questions:
 - Atribui-se ao edital ou ao contrato de privatização uma cláusula de exclusividade de quinze anos, até
   2033, mas a equipe não obteve o edital nem o contrato exigido pelo art. 11 do Decreto 18.353, e os decretos
   lidos não contêm a palavra 'exclusividade'.
-- Não foi localizada auditoria, representação ou acórdão do Tribunal de Contas do Estado da Bahia sobre
-  a privatização ou o contrato, nem ação civil pública do Ministério Público estadual especificamente
-  sobre ele.
 - 'O volume de crédito concedido e o número de servidores especificamente na Bahia não foram isolados:
   os números de escala disponíveis são nacionais ou do balanço do Banco Master.'
+- Localizada ação civil pública do Ministério Público estadual sobre transparência do CredCesta (19/07/2021),
+  mas não representação, auditoria ou acórdão do Tribunal de Contas do Estado da Bahia sobre a privatização
+  da EBAL ou o contrato de exclusividade.
+- A cláusula de exclusividade de quinze anos, até 2033, é atribuída por reportagem a um comunicado oficial
+  da Comissão Especial da Secretaria de Desenvolvimento Econômico da Bahia de 12/04/2018 — não ao edital
+  nem ao contrato, que a equipe não localizou. Uma segunda reportagem do mesmo veículo, sobre o mesmo
+  episódio, menciona apenas exclusividade genérica, sem prazo.
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -44,8 +48,9 @@ source_ids:
 - src-tceba-2014-07-28-ebal-apresenta-credicesta
 - src-poder360-2026-credcesta-arquitetura-e-privatizacao
 - src-tjba-adi-afpeb-2025-credcesta
+- src-mpba-2021-07-19-acp-credcesta
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'

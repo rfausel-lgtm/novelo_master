@@ -1,0 +1,36 @@
+id: eucherio-lerner-rodrigues
+kind: person
+name: Euchério Lerner Rodrigues
+category: public_official
+role: Diretor de Investimentos do Rioprevidência
+positions:
+- title: Diretor de Investimentos
+  organization_id: rioprevidencia
+  source_ids:
+  - src-rioprevidencia-atestado-credenciamento-master
+summary: Assinou, em 19/10/2023, o atestado de credenciamento do Banco Master no Rioprevidência. Conduziu
+  a reunião do Comitê de Investimentos de 30/11/2023 em que se aprovou a liberação genérica de teto regulatório
+  para letras financeiras — sem que a ata nomeasse o Banco Master —, na mesma semana em que a autarquia
+  fez sua primeira aplicação nos papéis do banco. Segundo reportagem, afirmou perante o comitê, em outubro
+  de 2024, que houve due diligence e análise de balanço da instituição, com ressalva de que a avaliação
+  de rating não foi feita internamente. Não é réu nem indiciado; não localizada manifestação pública direta
+  sobre as acusações de credenciamento acelerado.
+why_in_novelo: É o dirigente que assinou o credenciamento e conduziu a reunião em que se liberou o teto
+  regulatório na mesma semana da primeira compra — sem que a decisão específica constasse da ata.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública direta dele sobre as acusações específicas de credenciamento acelerado
+    ou de aportes sem lastro técnico foi localizada; há apenas relato indireto de fala em reunião do comitê,
+    em outubro de 2024, sobre due diligence.
+  source_ids:
+  - src-rioprevidencia-ata-11-2023-11-30
+open_questions:
+- Não há manifestação pública direta localizada sobre as acusações da Operação Barco de Papel.
+source_ids:
+- src-rioprevidencia-atestado-credenciamento-master
+- src-rioprevidencia-ata-11-2023-11-30
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

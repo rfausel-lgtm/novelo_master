@@ -1,0 +1,22 @@
+id: src-migalhas-2026-01-23-barco-de-papel
+kind: source
+title: 'Master: operação da PF mira aplicações irregulares da Rioprevidência'
+publisher: Migalhas
+publication_date: '2026-01-23'
+retrieved_at: '2026-09-04'
+url: https://www.migalhas.com.br/quentes/448455/master-operacao-da-pf-mira-aplicacoes-irregulares-da-rioprevidencia
+source_type: press
+summary: 'Cobertura da primeira fase da Operação Barco de Papel, autorizada pela 6ª Vara Federal Criminal
+  do Rio de Janeiro. Descreve o objeto — nove operações entre novembro de 2023 e julho de 2024, cerca
+  de R$ 970 milhões em letras financeiras do Banco Master sem cobertura do FGC — e os crimes apurados:
+  gestão fraudulenta, desvio de recursos, indução de órgão público a erro e fraude a investidores.'
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

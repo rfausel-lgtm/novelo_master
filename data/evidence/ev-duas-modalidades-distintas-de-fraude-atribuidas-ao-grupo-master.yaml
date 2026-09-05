@@ -1,0 +1,23 @@
+id: ev-duas-modalidades-distintas-de-fraude-atribuidas-ao-grupo-master
+kind: evidence
+classification: A
+proposition: 'A ação da PGE-RJ, de 17/07/2026, descreve modalidade de fraude tecnicamente distinta da
+  compra direta de letras financeiras. Nos fundos Revolution e Texas I FIA, dos quais o Rioprevidência
+  era cotista, a alegação é de manipulação de preços de ativos por gestores ligados ao grupo Master —
+  Acura Capital e Trustee DTVM —, e não de exposição de crédito bancário direto ao emissor. No fundo Revolution,
+  a PGE alega que a gestora votou favoravelmente a mudanças no regulamento de um fundo investido em prejuízo
+  dos próprios cotistas, entre eles o Rioprevidência. No Texas I FIA, a alegação é de compra maciça de
+  ativos entre julho e agosto de 2024 para inflar artificialmente seu preço — mecanismo também sob exame
+  na Operação Carbono Oculto. A distinção importa: uma é risco de crédito bancário sem garantia do FGC;
+  a outra é fraude na gestão fiduciária de fundos de investimento.'
+document_ids: []
+source_ids:
+- src-conjur-2026-07-17-pge-rj-cobra-master-rioprevidencia
+date: '2026-07-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
+attributed_text: Reportagem do Conjur, 17/07/2026, sobre a ação da PGE-RJ
+attributed_to: Reportagem do Conjur, 17/07/2026, sobre a ação da PGE-RJ

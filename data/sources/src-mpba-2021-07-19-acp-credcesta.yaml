@@ -1,0 +1,23 @@
+id: src-mpba-2021-07-19-acp-credcesta
+kind: source
+title: MP-BA ajuíza ação civil pública contra o Banco Máxima sobre o CredCesta
+publisher: Ministério Público do Estado da Bahia
+publication_date: '2021-07-19'
+retrieved_at: '2026-09-04'
+url: https://www.mpba.mp.br/noticia/58188
+source_type: official_prosecutor
+summary: 'Nota oficial do MP-BA sobre ação civil pública ajuizada pela promotora Joseane Suzart, pedindo
+  que o Banco Máxima atue com transparência nos contratos vinculados ao Cartão de Crédito CredCesta, com
+  regras claras de funcionamento e cancelamento imediato de cartões não solicitados. Fecha, parcialmente,
+  a lacuna sobre atuação de órgãos de controle baianos: existe ação civil pública do Ministério Público
+  estadual sobre o produto, ainda que não sobre a privatização da EBAL.'
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

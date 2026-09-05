@@ -1,0 +1,26 @@
+id: rev-2026-09-05-lote-84-rioprevidencia-e-credcesta
+kind: revision
+date: '2026-09-04'
+title: 'Lote 84 — Rioprevidência: a decisão que não aparece em ata, e duas fraudes distintas'
+summary: 'O maior caso do canal de colocação recebeu, pela primeira vez, a leitura direta de suas atas
+  de comitê. Achado central: ao contrário de Amapá, Aparecida, Itaguaí, Congonhas e Alagoas, a decisão
+  de comprar letras financeiras do Banco Master nunca é nomeada em ata — a de 30/11/2023, coincidente
+  com a semana da primeira aplicação, libera apenas teto regulatório genérico, sem citar o banco. Verificação
+  de controle: busca textual retorna zero ocorrências de ''Master'' no documento inteiro. O atestado de
+  credenciamento, diferentemente do de Alagoas, não contém texto promocional. Documentadas a distinção
+  entre a Operação Barco de Papel e a 8ª fase da Compliance Zero, e entre duas modalidades de fraude atribuídas
+  ao grupo — exposição de crédito bancário direto versus manipulação de preços em fundos geridos por terceiros
+  ligados ao Master. Fechada parcialmente uma lacuna do CredCesta: ação civil pública do MP-BA sobre transparência
+  do produto, de 2021, embora nada tenha sido localizado sobre a privatização em si.'
+affected_ids:
+- rioprevidencia
+- banco-master
+- credcesta
+- eucherio-lerner-rodrigues
+- deivis-marcon-antunes
+reason: Loop de investigação de 3 horas — linhas Rioprevidência e fechamento do CredCesta.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
