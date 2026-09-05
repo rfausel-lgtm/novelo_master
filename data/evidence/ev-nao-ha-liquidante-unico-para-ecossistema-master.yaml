@@ -1,0 +1,17 @@
+id: ev-nao-ha-liquidante-unico-para-ecossistema-master
+kind: evidence
+classification: C
+proposition: Não há um liquidante único ou equipe dedicada ao conjunto de instituições ligadas ao ecossistema
+  Master. Marilena Simões Valentim foi nomeada liquidante especificamente da Trustee e da Banvox; o núcleo
+  Banco Master/Master de Investimentos/Will Bank/Letsbank está sob outro liquidante, Sebastião Marcio
+  Monteiro, que substituiu a EFB Regimes Especiais de Empresas Ltda por motivo de saúde do responsável
+  anterior.
+document_ids: []
+source_ids:
+- src-riotimesonline-2026-09-trustee-banvox-liquidante
+- src-spbancarios-2026-02-bc-troca-liquidante-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

@@ -1,0 +1,21 @@
+id: src-agenciabrasil-2026-07-pge-rj-cobra-master-rioprevidencia
+kind: source
+title: PGE-RJ cobra grupo Master por prejuízo de R$ 640 mi ao Rioprevidência
+publisher: Agência Brasil
+publication_date: 2026-07
+retrieved_at: '2026-09-05'
+url: https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/pge-rj-cobra-grupo-master-por-prejuizo-de-r-640-mi-ao-rioprevidencia
+source_type: press
+summary: 'Reportagem corroborando a ação da PGE-RJ e o detalhamento dos dois mecanismos de prejuízo: Texas
+  I FIA (R$ 135,1 milhões, compra maciça de ações da Ambipar via Trustee) e Revolution (R$ 481,4 milhões,
+  voto da Acura prejudicial aos cotistas no FIDC Eicon).'
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

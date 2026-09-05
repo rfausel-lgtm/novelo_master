@@ -3,12 +3,23 @@ kind: organization
 name: Voiter / Banco Pleno
 aliases: []
 org_type: financial_institution
-summary: Banco incorporado ao conglomerado Master no início de 2024, vendido em julho de 2025 a Augusto
-  Ferreira Lima — ex-sócio de Vorcaro no Master até maio de 2024 —, passando a se chamar Banco Pleno.
-  Deixou o conglomerado Master antes da liquidação de novembro de 2025. O Banco Central decretou sua própria
-  liquidação extrajudicial em 18/02/2026, por deterioração da percepção de risco e dificuldades de liquidez,
-  descrito como instituição pequena — 0,04% dos ativos e 0,05% da captação do Sistema Financeiro Nacional.
-  O banco nega ser alvo da Operação Compliance Zero e nega participação nos fatos investigados.
+summary: Banco incorporado ao conglomerado Master no início de 2024, vendido em 24/07/2025 (efeitos a
+  partir de 11/08/2025, pela Diretoria Colegiada do Banco Central) a Augusto Ferreira Lima — ex-sócio
+  de Vorcaro no Master até maio de 2024 —, passando a se chamar Banco Pleno. Segundo o Poder360, o BC
+  aprovou essa transferência de controle meses depois de técnicos da própria autarquia identificarem,
+  no 1º semestre de 2025, cessão de créditos inexistentes do Master ao BRB, comunicada ao MPF em julho
+  de 2025 — sem que o BC ou o Banco Pleno tenham respondido aos questionamentos da reportagem sobre a
+  aparente contradição. Registros oficiais do BC, obtidos e reportados de forma independente por três
+  veículos, mostram Augusto Lima em pelo menos 7 a 8 reuniões com a cúpula do órgão ao longo de 2025 (Galípolo,
+  o diretor de fiscalização Ailton de Aquino, Renato Gomes e o procurador-geral Cristiano Cozer), incluindo
+  datas próximas à aprovação e à efetivação da compra — sem que isso prove relação causal. Deixou o conglomerado
+  Master antes da liquidação de novembro de 2025. O Banco Central decretou sua própria liquidação extrajudicial
+  em 18/02/2026, por deterioração da percepção de risco e dificuldades de liquidez, descrito como instituição
+  pequena — 0,04% dos ativos e 0,05% da captação do Sistema Financeiro Nacional. Segundo o O Tempo, Lima
+  teria gasto cerca de R$ 600 milhões de patrimônio pessoal tentando cobrir o passivo de ~R$ 6 bilhões
+  em CDBs herdados antes da liquidação — valor não reconciliado com os R$ 160 milhões em aportes formais
+  de capital já registrados a partir de outra fonte. O banco nega ser alvo da Operação Compliance Zero
+  e nega participação nos fatos investigados.
 why_in_novelo: É o braço que saiu do grupo antes da crise, mas caiu por conta própria meses depois — sem
   relação formal declarada com o esquema do Master.
 cited_position:
@@ -18,11 +29,22 @@ cited_position:
   - src-cnnbrasil-2026-voiter-banco-pleno-liquidado
   by_id: voiter-banco-pleno
   date: '2026'
-open_questions: []
+open_questions:
+- Não foi localizada a ata/voto nominal da Diretoria Colegiada do BC que aprovou a venda em 24/07/2025,
+  nem explicação oficial do órgão sobre a aparente contradição com os indícios de fraude já identificados.
+- Os R$ 160 milhões (aportes formais de capital) e os R$ 600 milhões (gasto total de patrimônio pessoal,
+  segundo o O Tempo) atribuídos a Augusto Lima no esforço de salvar o Voiter/Pleno não foram reconciliados
+  por nenhuma fonte disponível.
 source_ids:
+- src-acritica-2026-augusto-lima-8-reunioes-bc
+- src-bahianoticias-2025-08-bc-aprova-voiter-augusto-lima
+- src-cnnbrasil-2026-augusto-lima-7-reunioes-bc
 - src-cnnbrasil-2026-voiter-banco-pleno-liquidado
+- src-infomoney-2026-augusto-lima-7-reunioes-bc
+- src-otempo-2026-02-18-augusto-lima-gastou-600-milhoes-pleno
+- src-poder360-2026-bc-sabia-fraude-antes-venda-voiter
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-04'
 created_at: '2026-09-04'
-updated_at: '2026-09-04'
+updated_at: '2026-09-05'

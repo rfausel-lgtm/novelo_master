@@ -1,0 +1,23 @@
+id: ev-alegacao-nao-confirmada-denuncia-mesma-data-carbono-oculto
+kind: evidence
+classification: A
+proposition: A nota conjunta de defesa da Trustee e da Banvox, de 03/09/2026, afirma que nenhum de seus
+  executivos constou em denúncia do Ministério Público na Operação Carbono Oculto 'apresentada na mesma
+  data' da liquidação — mas essa alegação NÃO foi confirmada por nenhuma reportagem independente que cubra
+  diretamente uma ação do MP em 03/09/2026. A única denúncia do MPSP no ciclo Carbono Oculto com data
+  verificada de forma independente é a de 18/08/2026, sobre esquema de adulteração de combustíveis (16
+  alvos) — quase três semanas antes, e nenhuma fonte localizada cita a Trustee ou fundos sob sua custódia
+  entre os denunciados nessa peça. Pode existir uma denúncia distinta, do dia 03/09, não localizada pela
+  equipe — mas a única evidência dela, até aqui, é a própria nota das empresas investigadas, que têm interesse
+  direto em minimizar sua exposição por comparação. Tratada aqui com reserva explícita.
+document_ids: []
+source_ids:
+- src-moneytimes-2026-09-03-trustee-banvox-negam-irregularidades
+- src-novacana-2026-08-18-mpsp-16-alvos-combustiveis-pcc
+attributed_to: Nota conjunta da Trustee e da Banvox
+date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

@@ -1,0 +1,23 @@
+id: src-novacana-2026-08-18-mpsp-16-alvos-combustiveis-pcc
+kind: source
+title: MPSP denuncia 16 por esquema de adulteração de combustíveis ligado ao PCC
+publisher: Novacana
+publication_date: '2026-08-18'
+retrieved_at: '2026-09-05'
+url: https://www.novacana.com/noticias/mpsp-acusa-16-alvos-carbono-oculto-esquema-combustiveis-pcc-fintechs-270826
+source_type: press
+summary: 'A única denúncia do Ministério Público de São Paulo no ciclo Carbono Oculto com data confirmada
+  de forma independente pela equipe: apresentada em 18/08/2026 — quase três semanas antes da liquidação
+  de Trustee/Banvox —, mira 16 alvos por esquema de adulteração de combustíveis. Nenhuma fonte localizada
+  pela equipe cita nominalmente a Trustee, o Zeus FIDC ou o Gran Capital FIDC-NP entre os denunciados
+  nessa peça específica.'
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

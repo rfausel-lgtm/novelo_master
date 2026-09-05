@@ -1,0 +1,24 @@
+id: rev-2026-09-05-lote-93-bc-aprovou-venda-voiter
+kind: revision
+date: '2026-09-05'
+title: 'Lote 93 — a venda do Voiter ao BC: aprovada apesar de fraude já identificada'
+summary: 'Aprofundado o episódio da aprovação, pelo Banco Central, da venda do Banco Voiter a Augusto
+  Lima em 24/07/2025 (efeitos 11/08/2025), meses depois de a própria autarquia identificar cessão de créditos
+  inexistentes ao BRB e comunicar o fato ao MPF em julho de 2025. Documentadas, com nomes e datas precisas,
+  as reuniões de Augusto Lima com a cúpula do BC em 2025 (Galípolo, Ailton de Aquino, Renato Gomes, Cristiano
+  Cozer), corroboradas por três veículos independentes. Mantida cautela editorial explícita: não foi localizada
+  a ata/voto nominal da Diretoria Colegiada, nem resposta oficial do BC sobre a aparente contradição,
+  nem prova de relação causal entre as reuniões e a aprovação — tudo isso permanece indício a apurar,
+  não fato estabelecido. Registrada também divergência não reconciliada entre os R$ 160 milhões (aportes
+  formais de capital) e os R$ 600 milhões (gasto total de patrimônio pessoal, segundo O Tempo) que Augusto
+  Lima teria investido tentando salvar o Voiter/Pleno.'
+affected_ids:
+- voiter-banco-pleno
+- banco-central-do-brasil
+- augusto-lima
+reason: Loop de investigação — aprofundamento da aprovação regulatória da venda do Voiter.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

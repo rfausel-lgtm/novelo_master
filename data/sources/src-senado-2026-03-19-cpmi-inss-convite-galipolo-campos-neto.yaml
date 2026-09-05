@@ -1,0 +1,22 @@
+id: src-senado-2026-03-19-cpmi-inss-convite-galipolo-campos-neto
+kind: source
+title: CPMI do INSS aprova convites a Galípolo e Campos Neto
+publisher: Senado Notícias / Agência Câmara
+publication_date: '2026-03-19'
+retrieved_at: '2026-09-05'
+url: https://www12.senado.leg.br/noticias/materias/2026/03/19/cpmi-do-inss-aprova-convites-a-galipolo-e-campos-neto
+source_type: official_legislative
+summary: A CPMI do INSS aprovou, em 19/03/2026, convite (não convocação obrigatória) ao presidente do
+  Banco Central, Gabriel Galípolo, e ao ex-presidente Roberto Campos Neto, para esclarecer a participação
+  da autoridade monetária em autorizações a bancos envolvidos no esquema de fraude em descontos consignados
+  — pauta mais ampla que o caso Voiter especificamente, sem menção nominal a esse episódio no requerimento.
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

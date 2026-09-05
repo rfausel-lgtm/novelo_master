@@ -1,0 +1,19 @@
+id: ev-bc-nao-respondeu-sobre-aprovacao-voiter
+kind: evidence
+classification: A
+proposition: O Banco Central e o Banco Pleno não responderam aos questionamentos do Poder360 sobre por
+  que a venda do Voiter foi aprovada apesar dos indícios prévios de fraude, até a publicação da reportagem.
+  Não foi localizada, em qualquer momento posterior, explicação oficial do BC sobre o episódio específico
+  — inclusive na CPMI do INSS, que aprovou apenas convite (não convocação) a Galípolo e Campos Neto, com
+  pauta mais ampla sobre autorizações a bancos envolvidos em fraude de consignados, sem menção nominal
+  ao caso Voiter no requerimento.
+document_ids: []
+source_ids:
+- src-poder360-2026-bc-sabia-fraude-antes-venda-voiter
+- src-senado-2026-03-19-cpmi-inss-convite-galipolo-campos-neto
+attributed_to: Poder360, sobre ausência de resposta do BC e do Banco Pleno
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

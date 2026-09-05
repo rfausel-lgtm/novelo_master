@@ -1,0 +1,25 @@
+id: rev-2026-09-05-lote-94-trustee-banvox-liquidacao
+kind: revision
+date: '2026-09-05'
+title: 'Lote 94 — Trustee/Banvox: a liquidação de 03/09/2026, seus mecanismos e seus limites de prova'
+summary: 'Aprofundada a liquidação extrajudicial da Trustee e da Banvox (03/09/2026, dois dias antes desta
+  atualização). Dimensionada a medida: 17ª instituição liquidada pelo BC em 2026, maior volume desde 2002;
+  ato assinado por Ailton de Aquino, substituto de Galípolo. Documentado que não há liquidante único para
+  o ecossistema Master — Marilena Simões Valentim cuida apenas de Trustee/Banvox, distinta do liquidante
+  do núcleo Master/Will Bank/Letsbank. Corrigido, com maior precisão, o mecanismo do prejuízo de R$ 640
+  milhões ao Rioprevidência: dois mecanismos distintos, não um único — compra maciça de ações da Ambipar
+  via Trustee (Texas I FIA) e voto prejudicial da Acura em assembleia de cotistas do FIDC Eicon (Revolution).
+  Registrada, com cautela explícita, a alegação não confirmada da própria Trustee/Banvox de que uma denúncia
+  do MP na Carbono Oculto teria sido apresentada ''na mesma data'' da liquidação — a única denúncia do
+  MPSP verificada de forma independente é de três semanas antes, sobre matéria distinta.'
+affected_ids:
+- trustee-dtvm
+- banvox-dtvm
+- banco-central-do-brasil
+- rioprevidencia
+reason: Loop de investigação — aprofundamento da liquidação recente da Trustee/Banvox.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

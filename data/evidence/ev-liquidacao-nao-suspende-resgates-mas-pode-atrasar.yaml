@@ -1,0 +1,18 @@
+id: ev-liquidacao-nao-suspende-resgates-mas-pode-atrasar
+kind: evidence
+classification: A
+proposition: Segundo gestor de mercado citado pelo Poder360, a liquidação da Trustee e da Banvox não congela
+  nem bloqueia os ativos dos fundos por elas administrados ou custodiados (patrimônio segregado), mas
+  pode causar atrasos operacionais na substituição do administrador fiduciário. Não foi localizada, até
+  05/09/2026, qualquer suspensão efetiva de resgates ou manifestação formal da CVM especificamente sobre
+  o caso.
+document_ids: []
+source_ids:
+- src-poder360-2026-09-03-liquidacao-atrasa-resgates-fundos
+attributed_to: Luiz Felipe Terra Favieri (LAD Capital), via Poder360
+date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

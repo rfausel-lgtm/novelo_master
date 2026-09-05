@@ -1,12 +1,19 @@
 id: ev-pge-rj-cobra-master-rioprevidencia-640-milhoes
 kind: evidence
 classification: A
-proposition: A Procuradoria-Geral do Estado do Rio de Janeiro move ação cobrando cerca de R$ 640 milhões
-  do grupo Master (incluindo suas gestoras) por prejuízo ao RioPrevidência, apontando que a Trustee comprou
-  maciçamente papéis dos fundos Revolution e Texas I FIA entre julho e agosto de 2024, inflando artificialmente
-  seus preços.
+proposition: 'A Procuradoria-Geral do Estado do Rio de Janeiro move ação cobrando cerca de R$ 640 milhões
+  do grupo Master (incluindo suas gestoras) por prejuízo ao RioPrevidência, distribuído entre dois mecanismos
+  distintos, não um único: (1) Texas I FIA (R$ 135,1 milhões) — a Trustee DTVM teria comprado maciçamente
+  ações da Ambipar por meio de fundos, inflando artificialmente seu preço; (2) Revolution (R$ 481,4 milhões,
+  Rioprevidência com 10,7% de participação) — a gestora Acura votou, em nome do fundo, favoravelmente
+  a mudanças no regulamento do FIDC Eicon (fundo investido) que prejudicaram os cotistas: waiver de direito
+  de voto e aumento do prazo de amortização em 48 meses. São mecanismos de natureza diferente — compra
+  artificial de preço versus voto prejudicial em assembleia —, ainda que ambos atribuídos a gestoras do
+  mesmo ecossistema (Trustee e Acura).'
 document_ids: []
 source_ids:
+- src-agenciabrasil-2026-07-pge-rj-cobra-master-rioprevidencia
+- src-bpmoney-2026-07-prejuizo-rioprevidencia-master
 - src-conjur-2026-07-17-pge-rj-cobra-master-rioprevidencia
 attributed_to: ConJur, com base na ação da PGE-RJ
 date: '2026-07-17'
@@ -14,4 +21,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-05'

@@ -1,0 +1,22 @@
+id: ev-bc-aprovou-venda-voiter-apos-identificar-fraude
+kind: evidence
+classification: A
+proposition: Segundo o Poder360 — única fonte primária localizada para este fato específico, sem corroboração
+  jornalística independente — o Banco Central identificou, no 1º semestre de 2025, cessão de créditos
+  inexistentes do Master ao BRB, e comunicou os fatos ao Ministério Público Federal em julho de 2025.
+  A Diretoria Colegiada do BC aprovou, em 24/07/2025, a transferência de controle do Banco Voiter a Augusto
+  Lima, com efeitos em 11/08/2025. O texto-fonte NÃO estabelece a ordem cronológica exata entre a comunicação
+  ao MPF e a aprovação dentro do mês de julho — uma data específica de 15/07/2025 para a comunicação,
+  que tornaria a sequência mais grave, apareceu apenas em resumo automático de busca não verificado por
+  leitura direta de fonte primária, e não é reportada aqui como fato.
+document_ids: []
+source_ids:
+- src-poder360-2026-bc-sabia-fraude-antes-venda-voiter
+- src-bahianoticias-2025-08-bc-aprova-voiter-augusto-lima
+attributed_to: Poder360, com base em fontes não nomeadas
+date: 2025-07
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'
