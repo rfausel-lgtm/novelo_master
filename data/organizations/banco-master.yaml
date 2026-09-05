@@ -18,6 +18,8 @@ cited_position:
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
 - O CNPJ e os atos societários devem ser confirmados em registro oficial.
+- A resposta oficial da Secretaria de Previdência à consulta GesCon invocada pelo banco não foi localizada,
+  nem o parecer do escritório de advocacia citado na ata de março de 2024.
 source_ids:
 - src-bcb-2025-11-ata-comef-63
 - src-pf-2025-11-18-compliance-zero
@@ -28,10 +30,17 @@ source_ids:
 - src-cnn-2026-wajngarten-3-8-milhoes
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
 - src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+- src-amprev-ata-4a-ext-ciap-2024
+- src-mps-lista-exaustiva-2024-05-06
+- src-mps-lista-exaustiva-2025-04-11
+- src-timesbrasil-18-rpps-lista
+- src-mps-versoes-anteriores-lista-exaustiva
+- src-mps-nota-tecnica-726-2024
+- src-mps-parecer-146-2024
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'

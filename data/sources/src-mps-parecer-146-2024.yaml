@@ -1,0 +1,25 @@
+id: src-mps-parecer-146-2024
+kind: source
+title: Parecer SEI nº 146/2024/MPS — processo decisório de investimentos dos RPPS
+publisher: Ministério da Previdência Social
+publication_date: '2024-07-15'
+retrieved_at: '2026-09-04'
+url: https://www.gov.br/previdencia/pt-br/assuntos/rpps/legislacao-dos-rpps/2025/ParecerSEIn1462024MPS.pdf
+source_type: official_government
+summary: Parecer do Departamento dos Regimes de Previdência no Serviço Público, processo SEI 10133.000176/2024-95,
+  assinado em 15/07/2024. Nasce expressamente de consultas feitas pelo sistema Gescon-RPPS, entre elas
+  a de saber se instituição do segmento S3 que não conste da lista exaustiva estaria elegível a receber
+  aplicações de regimes próprios. Responde que a lista é orientativa, mas que cabe ao regime próprio garantir
+  que a instituição cumpra integralmente os requisitos, mesmo que ainda não listada. Registra também que
+  o departamento vinha recebendo alertas do próprio mercado sobre eventual influência de entes federativos
+  nas escolhas de ativos.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

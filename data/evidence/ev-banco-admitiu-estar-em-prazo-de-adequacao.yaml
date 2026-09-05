@@ -1,0 +1,21 @@
+id: ev-banco-admitiu-estar-em-prazo-de-adequacao
+kind: evidence
+classification: D
+proposition: 'Na própria apresentação de 14/03/2024, o Banco Master admitiu ao comitê do Amapá que ainda
+  estava em prazo de adequação: dizia que passaria a constar da lista ''provavelmente em julho'' porque
+  se tornara segmento S3 ''com lapso temporal de um ano para as adequações''. Pela narrativa do próprio
+  vendedor, portanto, em março de 2024 o banco ainda não estava obrigado a instituir os comitês de auditoria
+  e de riscos — que é exatamente o requisito de que depende a elegibilidade do emissor pelo art. 7º, IV
+  da Resolução CMN 4.963/2021.'
+document_ids:
+- doc-2024-03-14-ata-4a-ext-ciap-apresentacao-do-master
+source_ids:
+- src-amprev-ata-4a-ext-ciap-2024
+excerpt: por se tornar do segmento S3 com lapso temporal de um ano para as adequações, provavelmente em
+  julho já constará na lista exaustiva
+date: '2024-03-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

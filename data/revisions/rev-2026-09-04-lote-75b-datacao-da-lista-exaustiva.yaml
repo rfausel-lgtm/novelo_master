@@ -1,0 +1,20 @@
+id: rev-2026-09-04-lote-75b-datacao-da-lista-exaustiva
+kind: revision
+date: '2026-09-04'
+title: Lote 75b — a datação da entrada do Master na Lista Exaustiva
+summary: 'Fechada a lacuna: o Banco Master só entrou na Lista Exaustiva como emissor elegível em 11/04/2025.
+  A relação oficial de versões do próprio ministério não registra atualização alguma entre 06/05/2024
+  e 11/04/2025, e capturas datadas confirmam que em 04/04/2025 o documento vigente ainda era o de maio
+  de 2024. Durante todo o período das compras dos dezoito regimes próprios, o banco não constava da lista.
+  Registrados ainda o Parecer SEI 146/2024, que responde às consultas do Gescon e assenta caber ao regime
+  próprio garantir o cumprimento dos requisitos mesmo sem listagem, e a Nota Técnica 726/2024, que rejeita
+  a tese do conglomerado.'
+affected_ids:
+- banco-master
+- ev-master-nao-estava-na-lista-exaustiva-em-maio-de-2024
+reason: Diligência sobre a Lista Exaustiva aberta no lote 75.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

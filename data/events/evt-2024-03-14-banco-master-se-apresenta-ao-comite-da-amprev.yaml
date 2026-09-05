@@ -21,7 +21,9 @@ description: 'Quatro meses antes das aplicações, o próprio Banco Master solic
   Recomendaram o prazo de dez anos como o de melhor taxa e sustentaram que o banco não precisaria constar
   da lista exaustiva da Secretaria de Previdência. É o registro documental do canal de colocação — a evidência
   de que a compra de letras do Master por dezoito regimes próprios em todo o país não foi uma soma de
-  decisões locais independentes, mas o resultado de uma operação de captação deliberada e datada.'
+  decisões locais independentes, mas o resultado de uma operação de captação deliberada e datada. Na mesma
+  ata o banco nomeia os cinco regimes próprios já captados — Rioprevidência, Maceió, Paulista, Cajamar
+  e Araras —, todos presentes na lista final dos dezoito compradores.'
 evidence_class: D
 status: verified
 evidence_ids:
@@ -29,8 +31,11 @@ evidence_ids:
 - ev-master-descreve-sua-operacao-de-captacao-junto-a-rpps
 - ev-prazo-de-dez-anos-foi-recomendacao-do-vendedor
 - ev-master-argumentou-nao-precisar-da-lista-exaustiva
+- ev-master-nomeou-seus-cinco-clientes-rpps
+- ev-secretaria-teria-dispensado-o-master-da-lista
 source_ids:
 - src-amprev-ata-4a-ext-ciap-2024
+- src-timesbrasil-18-rpps-lista
 document_ids:
 - doc-2024-03-14-ata-4a-ext-ciap-apresentacao-do-master
 public_act_ids: []

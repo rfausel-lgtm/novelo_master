@@ -9,7 +9,10 @@ positions:
   source_ids:
   - src-amprev-ata-4a-ext-ciap-2024
 summary: Identificado na ata da Amprev como tesoureiro do Banco Master, participou com Paula Vouguinha
-  da apresentação da instituição ao Comitê de Investimentos em 14/03/2024.
+  da apresentação da instituição ao Comitê de Investimentos em 14/03/2024. Segundo a imprensa, seu cargo
+  formal era o de superintendente executivo de Tesouraria — a ata da Amprev o registra como 'tesoureiro'.
+  Foi preso em 18/11/2025, na Operação Compliance Zero, e permaneceu em silêncio em depoimento por videoconferência
+  ao STF em 26/01/2026.
 why_in_novelo: Integrava a dupla que apresentou o Banco Master ao comitê que viria a aplicar R$ 400 milhões
   em suas letras financeiras.
 cited_position:
@@ -19,6 +22,8 @@ cited_position:
   - src-amprev-ata-4a-ext-ciap-2024
 open_questions:
 - O corpus não registra o período em que ocupou a tesouraria do banco.
+- A equipe não confirmou, no cadastro de administradores do Banco Central, se ele era diretor estatutário
+  do Banco Master ou ocupava função executiva não estatutária.
 source_ids:
 - src-amprev-ata-4a-ext-ciap-2024
 review_status: published

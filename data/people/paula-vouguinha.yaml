@@ -12,7 +12,11 @@ summary: Apresentou o Banco Master ao Comitê de Investimentos da Amapá Previd�
   solicitada pelo próprio banco. Segundo a ata, expôs o histórico da instituição, informou que o Master
   se tornara segmento S3 em julho de 2023 e que 'a partir desse momento o banco se preparou para atender
   o mercado de cliente institucional, como RPPS e Fundo de Pensão', recomendou o prazo de dez anos como
-  o que 'paga melhor taxa' e quantificou a operação de captação institucional então em curso.
+  o que 'paga melhor taxa' e quantificou a operação de captação institucional então em curso. Na mesma
+  reunião, o banco nomeou os cinco regimes próprios já captados — Rioprevidência, Maceió, Paulista, Cajamar
+  e Araras —, todos presentes na lista final dos dezoito compradores. Segundo reportagem, duas semanas
+  depois ela apresentou ao Iprev de Maceió proposta de R$ 116 milhões em letras financeiras. Não é alvo
+  de nenhuma investigação localizada pela equipe.
 why_in_novelo: É a executiva que apresenta formalmente o Banco Master ao fundo previdenciário que viria
   a se tornar o segundo maior comprador público de suas letras financeiras.
 cited_position:
@@ -25,6 +29,7 @@ open_questions:
   das investigações.
 source_ids:
 - src-amprev-ata-4a-ext-ciap-2024
+- src-timesbrasil-18-rpps-lista
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-04'

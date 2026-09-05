@@ -42,12 +42,15 @@ cited_position:
 open_questions:
 - 'O relatório da PF não examina a contraprestação: não avalia se houve serviço advocatício efetivo, matéria
   que está fora do seu escopo declarado e não pode ser tratada como lacuna incriminatória.'
+- Segundo reportagem, o escritório produziu em julho de 2024 parecer para o Banco Master sobre riscos
+  na captação de recursos de regimes próprios de previdência; a equipe não teve acesso ao texto do parecer.
 source_ids:
 - src-poder360-2026-03-09-nota-barci
 - src-poder360-2026-09-01-integras-pet-16662
 - src-poder360-2026-09-02-dois-contratos-barci
 - src-cnn-2026-03-escritorio-recebeu-80-milhoes
 - src-cnn-2026-04-master-304-milhoes-a-advogados
+- src-metropoles-escritorio-moraes-master-rpps
 full_name: Barci de Moraes Sociedade de Advogados
 review_status: published
 reviewer: orquestrador

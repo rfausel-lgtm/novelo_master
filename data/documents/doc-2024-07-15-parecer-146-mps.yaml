@@ -1,0 +1,26 @@
+id: doc-2024-07-15-parecer-146-mps
+kind: document
+title: Parecer SEI nº 146/2024/MPS — processo decisório de investimentos dos RPPS
+doc_type: official_report
+date: '2024-07-15'
+source_ids:
+- src-mps-parecer-146-2024
+summary: Primeira manifestação oficial pública do ministério sobre a elegibilidade de emissores que não
+  constam da Lista Exaustiva. Nasce de consultas feitas pelo sistema Gescon-RPPS e assenta que a lista
+  é orientativa, mas que cabe ao regime próprio garantir o cumprimento integral dos requisitos mesmo quando
+  a instituição ainda não esteja listada. Assinado três dias depois do primeiro aporte da Amprev no Banco
+  Master.
+is_official: true
+related_entity_ids:
+- banco-master
+issuer: Departamento dos Regimes de Previdência no Serviço Público / Ministério da Previdência Social
+date_precision: day
+url: https://www.gov.br/previdencia/pt-br/assuntos/rpps/legislacao-dos-rpps/2025/ParecerSEIn1462024MPS.pdf
+reference: Parecer SEI nº 146/2024/MPS — processo SEI 10133.000176/2024-95
+excerpt: caso o RPPS queira credenciar tal instituição, deve garantir que a mesma cumpra integralmente
+  os requisitos estabelecidos na Resolução CMN, mesmo que ainda não esteja formalmente listada
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
