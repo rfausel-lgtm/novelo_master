@@ -1,0 +1,25 @@
+id: a-m-consultoria
+kind: organization
+name: A&M Consultoria
+aliases: []
+org_type: company
+summary: 'Empresa de consultoria em gestão empresarial (não é escritório de advocacia), CNPJ 48.998.315/0001-04,
+  Salvador/BA, aberta em 28/12/2022, capital social de R$ 2 mil. Sócios: Antonio Carlos Peixoto de Magalhães
+  Neto (ACM Neto, administrador desde a abertura) e Mariana Almeida Barreto de Magalhães, sua esposa.
+  Recebeu pagamentos do Banco Master — R$ 5,4 milhões (2023-2025, segundo ACM Neto) ou R$ 3,6 milhões
+  (Master+Reag, até maio/2024, segundo relatório do Coaf) — valores não reconciliados entre si.'
+why_in_novelo: É o veículo pelo qual ACM Neto recebeu pagamentos do Banco Master — uma empresa de consultoria,
+  não um escritório de advocacia, distinguindo essa categoria de pagamento das demais na rede de prestadores
+  do banco.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-correiobraziliense-2026-03-acm-neto-36-milhoes-master-reag
+- src-bahiaba-2026-acm-neto-confirma-54-milhoes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

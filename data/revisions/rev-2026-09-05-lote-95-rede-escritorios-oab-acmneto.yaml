@@ -1,0 +1,22 @@
+id: rev-2026-09-05-lote-95-rede-escritorios-oab-acmneto
+kind: revision
+date: '2026-09-05'
+title: 'Lote 95 — a rede dos 91 escritórios: as duas cúpulas da OAB, ACM Neto e o ex-juiz de falências'
+summary: 'Expandida a rede de honorários do Banco Master com quatro novos nomes de relevância pública,
+  todos com CNPJ confirmado: os dois últimos ex-presidentes nacionais da OAB — Marcus Vinicius Furtado
+  Coêlho (R$ 27,5mi em 2025, 2º maior valor do ano) e Felipe Santa Cruz (R$ 1,55mi) —, a empresa de consultoria
+  de ACM Neto (A&M Consultoria, não é escritório de advocacia; valores divergentes entre R$5,4mi e R$3,6mi
+  conforme a fonte) e o escritório fundado por um ex-juiz de vara de falências de São Paulo (Sacramone,
+  Orleans e Bragança). Confirmado que os pagamentos a Antonio Rueda e Fabio Wajngarten já estavam registrados
+  no corpus. Reconciliados os três totais concorrentes da imprensa (R$ 543mi/91 escritórios/4 anos; R$
+  304,5mi/98 escritórios/só 2025; R$ 870mi/empresas jovens de qualquer natureza) como escopos distintos,
+  não contraditórios. Não confirmado: o CNPJ específico ligado a Antonio Rueda — mantido apenas o já registrado
+  no corpus, sem criar vínculo societário não verificado.'
+affected_ids:
+- banco-master
+reason: Loop de investigação — expansão da rede de escritórios de advocacia pagos pelo Master.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

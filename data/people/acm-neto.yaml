@@ -1,0 +1,26 @@
+id: acm-neto
+kind: person
+name: ACM Neto
+category: politician
+role: Ex-prefeito de Salvador (União Brasil); nome civil Antonio Carlos Peixoto de Magalhães Neto
+positions: []
+summary: 'Ex-prefeito de Salvador (2017-2024), neto do falecido senador Antônio Carlos Magalhães, figura
+  de peso do União Brasil. Recebeu pagamentos do Banco Master não por escritório de advocacia, mas por
+  uma empresa de consultoria em gestão — a A&M Consultoria Ltda, da qual é sócio-administrador ao lado
+  da esposa. Os valores divergem entre fontes: R$ 5,4 milhões entre 2023 e 2025, segundo declaração do
+  próprio ACM Neto; R$ 3,6 milhões combinando Master e Reag Investimentos até maio de 2024, segundo relatório
+  do Coaf citado pelo Correio Braziliense — divergência não reconciliada.'
+why_in_novelo: É uma das figuras políticas de maior projeção nacional a receber pagamentos do Banco Master,
+  por via distinta (consultoria) da maioria dos demais nomes da rede (advocacia).
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-correiobraziliense-2026-03-acm-neto-36-milhoes-master-reag
+- src-bahiaba-2026-acm-neto-confirma-54-milhoes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

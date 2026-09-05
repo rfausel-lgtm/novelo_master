@@ -1,0 +1,21 @@
+id: ev-tres-totais-concorrentes-escopos-distintos
+kind: evidence
+classification: C
+proposition: 'Três cifras totais aparecem na imprensa sobre pagamentos do Master a prestadores de serviços
+  jurídicos/consultoria, com escopos DISTINTOS, não contraditórios entre si: (1) R$ 543 milhões a 91 escritórios
+  de advocacia, 2022-2025 (quatro anos) — já registrado no corpus; (2) R$ 304,5 milhões a ''ao menos 98''
+  escritórios, referente apenas a 2025 — mesma fonte primária (Receita Federal/CPI), recorte temporal
+  menor; (3) R$ 870 milhões a ''empresas jovens'' fundadas a partir de 2021, 2022-2025 — universo mais
+  amplo que inclui escritórios de advocacia recém-criados E consultorias/agências, não apenas advocacia.
+  Nenhuma fonte localizada calcula um total único somando todos os fornecedores do Master de qualquer
+  natureza e qualquer idade.'
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-master-3145-mi-advogados-2025
+- src-jbrasilia-2026-empresas-jovens-870-milhoes-master
+- src-otempo-2026-04-09-master-91-escritorios
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

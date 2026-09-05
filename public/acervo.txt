@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-05T20:18:14.805Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-05T20:22:34.829Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -26,6 +26,7 @@ PESSOA, ORG, EVENTO, ATO, RELAÇÃO, TRANSAÇÃO, ALEGAÇÃO, SEQUÊNCIA, POSIÇ
 
 ## PESSOAS
 
+PESSOA|acm-neto|ACM Neto|Ex-prefeito de Salvador (União Brasil); nome civil Antonio Carlos Peixoto de Magalhães Neto|É uma das figuras políticas de maior projeção nacional a receber pagamentos do Banco Master, por via distinta (consultoria) da maioria dos demais nomes da rede (advocacia).
 PESSOA|alberto-felix-oliveira|Alberto Félix Oliveira|Tesoureiro do Banco Master|Integrava a dupla que apresentou o Banco Master ao comitê que viria a aplicar R$ 400 milhões em suas letras financeiras.
 PESSOA|alberto-mauricio-calo|Alberto Maurício Caló|Ex-diretor jurídico e contábil do Banco Máxima|Corréu absolvido na ação penal sobre a gestão fraudulenta do Banco Máxima, e autor do recurso ao STJ que reduziu a imputação para todos os denunciados.
 PESSOA|alberto-samuel-alcolumbre-tobelem|Alberto Samuel Alcolumbre Tobelem|Presidente da Junta Comercial do Estado do Amapá; conselheiro em colegiados da Amprev|Ocupa cargos de nomeação do mesmo governador e no mesmo período do dirigente investigado, inclusive assento em colegiado de fiscalização da autarquia que aplicou R$ 400 milhões no Banco Master.
@@ -122,6 +123,7 @@ PESSOA|fabio-wajngarten|Fabio Wajngarten|Advogado; ex-secretário de Comunicaç�
 POSIÇÃO|fabio-wajngarten|clarification|Confirmou que foi apresentado a Vorcaro no primeiro semestre de 2025 pelos advogados dele e que integra a equipe de defesa até o momento; disse que o contrato tem cláusula de confidencialidade e por isso não pode ser divulgado.
 POSIÇÃO|fabio-wajngarten|clarification|Negou ser assessor jurídico: 'Onde está escrito serviços advocatícios? Quem disse isso?' Definiu o trabalho como 'defesa de mídia e imprensa. Defesa de crises'.
 PESSOA|felipe-cancado-vorcaro|Felipe Cançado Vorcaro|Apontado pela PF como operador financeiro de Daniel Vorcaro|Teve prisão temporária decretada pelo STF em fase da Operação Compliance Zero, sendo apontado pela Polícia Federal como operador financeiro de Daniel Vorcaro.
+PESSOA|felipe-santa-cruz|Felipe Santa Cruz|Advogado; ex-presidente nacional da OAB (2019-2022)|Recebeu pagamentos do Banco Master por meio de seu escritório, segundo dados da Receita Federal enviados à CPI do Crime Organizado — de perfil político oposto ao de outro ex-presidente da OAB (Furtado Coêlho) que também recebeu do banco, mostrando que a rede de honorários atravessa espectros políticos distintos.
 PESSOA|felipe-wallace-simonsen|Felipe Wallace Simonsen|Integrante do grupo de controle apresentado ao Banco Central em 2019|Integrou o grupo de controle apresentado ao Banco Central no pedido que resultou na autorização de 2019.
 PESSOA|fernanda-nechio|Fernanda Nechio|Diretora de Assuntos Internacionais e de Gestão de Riscos Corporativos do Banco Central (2019-)|Uma das oito diretoras do Banco Central que aprovaram, por unanimidade, a venda do Máxima a Daniel Vorcaro.
 PESSOA|fernanda-pereira-da-silva-machado|Fernanda Pereira da Silva Machado|Advogada; ex-gerente de controle interno do Rioprevidência e ex-presidente do Itaprevi|É o vetor humano documentado entre dois regimes próprios: assinou o credenciamento do banco em um fundo e passou a dirigir outro, onde as aplicações começaram no mês de sua posse.
@@ -199,6 +201,8 @@ PESSOA|luiz-phillipi-mourao|Luiz Phillipi Mourão|Apontado pela Polícia Federal
 POSIÇÃO|luiz-phillipi-mourao|denial|A família contesta o apelido atribuído pelos investigadores: 'trata-se de acusação gravíssima, sem apresentação pública, até o momento, de qualquer prova nesse sentido. Seus familiares jamais tiveram conhecimento de envolvimento em atos de violência e muito m…
 POSIÇÃO|luiz-phillipi-mourao|clarification|A família informa que não teve acesso às imagens de segurança, aos autos do inquérito nem ao laudo do IML com a causa mortis, e que soube do ocorrido pela imprensa.
 PESSOA|malu-gaspar|Malu Gaspar|Colunista do jornal O Globo|Jornalista apontada, em decisão judicial da Operação Compliance Zero, como alvo de levantamento de dados pessoais encomendado por Daniel Vorcaro em razão de sua cobertura do caso.
+PESSOA|marcelo-barbosa-sacramone|Marcelo Barbosa Sacramone|Advogado; ex-juiz titular da 2ª Vara de Falências e Recuperações Judiciais de São Paulo (2015-2021)|Integra a rede de escritórios pagos pelo Master com um perfil profissional particular — ex-magistrado de vara de falências —, sem que isso implique, por si só, qualquer irregularidade.
+PESSOA|marcus-vinicius-furtado-coelho|Marcus Vinicius Furtado Coêlho|Advogado; ex-presidente nacional da OAB (2013-2016)|Recebeu, por meio de seu escritório, um dos maiores valores pagos pelo Banco Master a qualquer prestador de serviços jurídicos em 2025, segundo dados da Receita Federal enviados à CPI do Crime Organizado.
 PESSOA|marilson-roseno-da-silva|Marilson Roseno da Silva|Policial federal aposentado, alvo da Operação Compliance Zero|É apontado pela Polícia Federal como o agente aposentado que teria cooptado policiais para acessar informações sigilosas em favor da família Vorcaro.
 PESSOA|mario-frias|Mário Frias|Deputado federal (PL-SP); ex-secretário especial da Cultura; produtor-executivo de 'Dark Horse'|Produtor-executivo do filme 'Dark Horse' que, segundo áudio divulgado pela imprensa, agradeceu a Daniel Vorcaro pelo apoio à produção; sua negativa pública está registrada.
 POSIÇÃO|mario-frias|denial|Em nota: Flávio Bolsonaro não tem sociedade no filme ou na produtora; segundo a GOUP Entertainment, não há investimento de Vorcaro na obra; o projeto é 100% financiado por capital privado; denunciou campanha de descredibilização por motivação ideológica.
@@ -262,6 +266,7 @@ POSIÇÃO|walfrido-warde|denial|O escritório declarou que recebeu a informaçã
 
 ## ORGANIZAÇÕES
 
+ORG|a-m-consultoria|A&M Consultoria|company|É o veículo pelo qual ACM Neto recebeu pagamentos do Banco Master — uma empresa de consultoria, não um escritório de advocacia, distinguindo essa categoria de pagamento das demais na rede de prestadores do banco.
 ORG|alagoas-previdencia|Alagoas Previdência|public_body|Único ente que publicou em acesso aberto o termo de credenciamento do Banco Master, permitindo verificar o documento que a auditoria federal descreve como escrito pelo próprio banco.
 ORG|amapa-previdencia|Amapá Previdência|public_body|Fundo previdenciário público que investiu R$ 400 milhões no Banco Master, o segundo maior aporte de entes públicos segundo a CNN, com aprovação sob investigação.
 POSIÇÃO|amapa-previdencia|public_note|Afirmou sentir-se 'lesada pelos malfeitos do banco Master', que 'não abre mão de ser ressarcida', que os recursos dos segurados estão protegidos e que se habilitou junto ao BC na liquidação.
@@ -305,6 +310,7 @@ ORG|empresa-baiana-de-alimentos|Empresa Baiana de Alimentos|public_body|É a est
 POSIÇÃO|empresa-baiana-de-alimentos|clarification|A assessoria do senador Jaques Wagner confirmou a venda da rede de supermercado estatal, durante seu governo, a Augusto Lima.
 ORG|entre-investimentos-e-participacoes|Entre Investimentos e Participações|company|Empresa de onde partiram, segundo a imprensa, os recursos de Daniel Vorcaro para o fundo que financiou 'Dark Horse'.
 ORG|epitome-sa|Epítome S.A.|company|É apontada em decisão pública do STF como a compradora formal do imóvel examinado no primeiro eixo da 9ª fase da Compliance Zero.
+ORG|felipe-santa-cruz-advogados|Felipe Santa Cruz Advogados|law_firm|É o escritório do ex-presidente da OAB que recebeu pagamentos do Master, num valor bem menor que o de outros escritórios citados na mesma leva de dados.
 ORG|fgc|Fundo Garantidor de Créditos|association|É a entidade que arcou, em primeira instância, com o custo financeiro direto da falência do conglomerado Master perante os credores cobertos — o que dimensiona o tamanho real do rombo e quem, por ora, paga a conta.
 ORG|foco-dtvm|Foco DTVM|financial_institution|Administradora do fundo cuja compra de um terreno supervalorizado ajudou a lastrear a capacidade econômica apresentada por Vorcaro ao Banco Central, e nó recorrente em outras frentes do caso.
 POSIÇÃO|foco-dtvm|clarification|Por sua assessoria, a Sefer declarou que todas as operações 'observam rigorosamente a legislação do mercado de capitais' e são 'lícitas, regulares e pautadas por critérios técnicos', negando que as pessoas citadas em reportagens sejam cotistas dos fundos.
@@ -337,6 +343,7 @@ POSIÇÃO|lewandowski-advocacia|clarification|Confirmou a prestação de serviç
 ORG|lex-instituto-de-estudos-juridicos|LEX – Instituto de Estudos Jurídicos Ltda|company|Entidade patrimonial ligada à família de Alexandre de Moraes, sancionada pelos EUA junto com Viviane Barci de Moraes; entra no corpus por essa sanção e por deter o imóvel de residência do casal.
 ORG|ligga-telecom|Ligga Telecom|company|Empresa de Nelson Tanure que aplicou recursos do caixa em títulos do Banco Master, segundo documentos internos citados pela imprensa.
 POSIÇÃO|ligga-telecom|denial|Afirmou não possuir, atualmente, qualquer aplicação financeira no Banco Master, direta ou indiretamente — nota que não desmente o histórico de aplicações entre 2022 e 2025.
+ORG|marcus-vinicius-furtado-coelho-advocacia|Marcus Vinicius Furtado Coelho Advocacia|law_firm|É o escritório que recebeu o segundo maior valor pago pelo Master a prestadores de serviços jurídicos em 2025.
 ORG|maridt-participacoes|Maridt Participações|company|Empresa da família de Dias Toffoli que foi sócia do Resort Tayayá, empreendimento citado em mensagens de Daniel Vorcaro obtidas pela PF.
 POSIÇÃO|maridt-participacoes|public_note|Nota do gabinete de Toffoli: a Maridt é empresa familiar; o ministro integra o quadro societário sem atos de gestão (Loman, art. 36); a participação no Tayayá foi encerrada em 21/02/2025; tudo declarado à Receita.
 ORG|maxx-consultoria|MAXX Consultoria de Investimentos|company|Consultoria no centro do modelo de desvio apurado na Operação Fundo Fake, na origem da apuração que alcançaria a estrutura de fundos ligada ao ecossistema Master.
@@ -367,6 +374,7 @@ ORG|psd|PSD|party|Partido presidido por Gilberto Kassab, citado em relatório da
 ORG|reag-investimentos|Reag Investimentos|financial_institution|Administradora de fundos citada pelo Banco Central em operações irregulares com o Banco Master e liquidada em 2026, segundo a imprensa.
 ORG|resort-tayaya|Resort Tayayá|company|Empreendimento em que a empresa da família de Dias Toffoli foi sócia e que, segundo mensagens obtidas pela PF, recebeu aportes cobrados por Daniel Vorcaro.
 ORG|rioprevidencia|RioPrevidência|public_body|Seus aportes em produtos do Banco Master são objeto da 8ª fase da Operação Compliance Zero, segundo comunicação oficial do STF.
+ORG|sacramone-orleans-braganca-advogados|Sacramone, Orleans e Bragança Advogados|law_firm|É um dos escritórios de advocacia 'jovens' (fundados após 2021) que receberam pagamentos do Master, com o perfil particular de ter como fundador um ex-magistrado especializado em falências.
 ORG|secretaria-municipal-de-inovacao-e-tecnologia|Secretaria Municipal de Inovação e Tecnologia de São Paulo|public_body|É o órgão que contratou o Instituto Conhecer Brasil e cuja sede foi alvo de busca na operação sobre o contrato de wi-fi.
 POSIÇÃO|secretaria-municipal-de-inovacao-e-tecnologia|denial|A Prefeitura de São Paulo 'repudia veementemente ilações de desvio de recursos públicos', afirma que o contrato seguiu 'rigorosamente os princípios da legalidade, transparência e economicidade' e diz colaborar com as investigações.
 ORG|senado-federal|Senado Federal|public_body|Casa onde tramitou a PEC 65/2023, cuja emenda sobre o FGC é citada pela Polícia Federal em decisão do STF.

@@ -1,0 +1,21 @@
+id: sacramone-orleans-braganca-advogados
+kind: organization
+name: Sacramone, Orleans e Bragança Advogados
+aliases: []
+org_type: law_firm
+summary: Escritório de advocacia fundado em 23/08/2021 em São Paulo (CNPJ 43.295.098/0001-64), por Marcelo
+  Barbosa Sacramone (ex-juiz titular de vara de falências e recuperação judicial em São Paulo) e Gabriel
+  José de Orleans e Bragança, sócios-administradores. Recebeu R$ 6,4 milhões do Banco Master.
+why_in_novelo: É um dos escritórios de advocacia 'jovens' (fundados após 2021) que receberam pagamentos
+  do Master, com o perfil particular de ter como fundador um ex-magistrado especializado em falências.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-jbrasilia-2026-empresas-jovens-870-milhoes-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

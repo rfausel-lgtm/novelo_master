@@ -1,0 +1,22 @@
+id: marcus-vinicius-furtado-coelho-advocacia
+kind: organization
+name: Marcus Vinicius Furtado Coelho Advocacia
+aliases: []
+org_type: law_firm
+summary: Escritório de advocacia aberto em 24/04/2012 em Brasília/DF (CNPJ 15.478.361/0001-15), do ex-presidente
+  nacional da OAB Marcus Vinicius Furtado Coêlho, sócio-administrador. Recebeu R$ 27,5 milhões do Banco
+  Master em 2025.
+why_in_novelo: É o escritório que recebeu o segundo maior valor pago pelo Master a prestadores de serviços
+  jurídicos em 2025.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-cnnbrasil-2026-vorcaro-escritorios-dois-ex-presidentes-oab
+- src-minhareceita-escritorios-master-cnpjs
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'
