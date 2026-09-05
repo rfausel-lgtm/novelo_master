@@ -1,0 +1,21 @@
+id: ev-mesma-carteira-de-consignado-tambem-foi-vendida-ao-brb
+kind: evidence
+classification: A
+proposition: Parte dos mesmos contratos de consignado dados em garantia à Tether também integrava a carteira
+  vendida ao BRB — episódio que, segundo a reportagem, desencadeou as investigações contra Vorcaro. Se
+  confirmada a sobreposição entre os dois conjuntos de recebíveis, isso configuraria oneração dupla dos
+  mesmos créditos perante dois credores distintos — um banco público brasileiro e uma financeira internacional
+  ligada a stablecoin. A equipe não teve acesso a documento que precise o grau de sobreposição entre as
+  duas carteiras.
+document_ids: []
+source_ids:
+- src-timesbrasil-2026-05-08-tether-cobra-titan-holding
+excerpt: Parte desses contratos também integrava a carteira vendida ao BRB, episódio que desencadeou as
+  investigações contra Vorcaro.
+date: '2026-05-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
+attributed_to: Times Brasil/CNBC, 08/05/2026

@@ -1,0 +1,27 @@
+id: rev-2026-09-05-lote-86-divida-com-a-tether
+kind: revision
+date: '2026-09-04'
+title: 'Lote 86 — a dívida com a Tether: a mesma carteira, dois credores'
+summary: 'A Tether Investments — braço de investimento da emissora do stablecoin USDT — emprestou US$
+  300 milhões à Titan Holding, empresa pessoal de Daniel Vorcaro, em março de 2025, com garantia na carteira
+  de crédito consignado do Banco Master, que inclui o CredCesta. Após o vencimento antecipado disparado
+  pela liquidação do banco, a Tether moveu ação de cobrança no TJSP pedindo bloqueio de ativos e direcionamento
+  dos fluxos do consignado, e obteve em Cayman a liquidação da Titan. Dois achados verificados por leitura
+  própria: parte da mesma carteira dada em garantia à Tether também integrava a carteira depois vendida
+  ao BRB — indício de possível oneração dupla dos mesmos recebíveis, registrado sem confirmação de sobreposição
+  exata —, e a primeira parcela do empréstimo foi transferida no mesmo dia em que o BRB anunciou publicamente
+  a intenção de comprar o Master. A cifra de 256.016 trabalhadores e R$ 2 bilhões em garantias, de reportagem
+  do Livecoins, permanece em classe A: nenhuma outra fonte a confirma, e o artigo não cita número de processo
+  nem reproduz trecho dos autos.'
+affected_ids:
+- banco-master
+- credcesta
+- daniel-vorcaro
+- titan-holding
+- tether-investments
+reason: Loop de investigação de 3 horas — linha da dívida com a Tether.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

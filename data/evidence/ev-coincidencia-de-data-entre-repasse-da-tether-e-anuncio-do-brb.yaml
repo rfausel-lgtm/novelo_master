@@ -1,0 +1,19 @@
+id: ev-coincidencia-de-data-entre-repasse-da-tether-e-anuncio-do-brb
+kind: evidence
+classification: A
+proposition: A primeira parcela do empréstimo da Tether à Titan Holding foi transferida em 28/03/2025
+  — o mesmo dia em que o BRB anunciou publicamente a intenção de comprar o Banco Master. A segunda parcela
+  foi transferida quatro dias depois. A coincidência de datas está registrada na própria reportagem, sem
+  explicação atribuída a qualquer das partes.
+document_ids: []
+source_ids:
+- src-timesbrasil-2026-05-08-tether-cobra-titan-holding
+excerpt: A primeira parcela foi transferida em 28 de março, mesmo dia em que o BRB (Banco de Brasília)
+  anunciou a intenção de comprar o Master, e a segunda, quatro dias depois.
+date: '2025-03-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
+attributed_to: Times Brasil/CNBC, 08/05/2026

@@ -101,6 +101,10 @@ open_questions:
   de que comprou dos herdeiros um sistema educacional a que prestava consultoria; e a de reportagens posteriores,
   de que administrava uma editora de livros didáticos do próprio pai. A distinção é relevante porque uma
   versão o apresenta como empreendedor que se fez sozinho e a outra como gestor de ativo familiar.'
+- Reportagem de fonte única (Times Brasil, 08/05/2026) descreve-o como detido 'uma segunda vez', em março
+  de 2026, por suspeita de planejar atos violentos contra opositores — motivo distinto do que o corpus
+  registra para a prisão preventiva decretada pelo STF em 04/03/2026 (PET 15.556). A equipe não confirmou
+  essa segunda razão em documento primário nem em segunda fonte.
 source_ids:
 - src-stf-2026-03-04-prisao-preventiva-vorcaro
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
@@ -128,13 +132,14 @@ source_ids:
 - src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
 - src-metropoles-2026-02-17-pf-reexamina-pericias-fundos
 - src-metropoles-2026-09-vorcaro-depoimento-papudinha-bastidores
+- src-timesbrasil-2026-05-08-tether-cobra-titan-holding
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
 photo:
   path: /fotos/daniel-vorcaro.jpg
   source: Wikimedia Commons

@@ -1,0 +1,25 @@
+id: titan-holding
+kind: organization
+name: Titan Holding
+aliases: []
+org_type: company
+summary: 'Empresa de investimentos pessoais de Daniel Vorcaro, tomadora de empréstimo de US$ 300 milhões
+  da Tether Investments, firmado em março de 2025. Devedora principal na ação de cobrança movida pela
+  Tether no TJSP; a Master Holding Financeira e a Master Participações figuram como devedoras solidárias.
+  Ex-diretores nomeados na ação como representantes: Luiz Antônio Bull e Ângelo Antônio Ribeiro da Silva.
+  Foi alvo de liquidação determinada pela Justiça das Ilhas Cayman, a pedido da Tether, sob alegação de
+  que serviu para esvaziar ativos do Banco Master — cerca de R$ 700 milhões em cotas de fundos transferidos
+  entre janeiro e julho de 2025.'
+why_in_novelo: É a empresa pessoal de Vorcaro que tomou o empréstimo com a Tether e que, segundo a própria
+  credora, serviu para esvaziar ativos do banco antes da liquidação.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-timesbrasil-2026-05-08-tether-cobra-titan-holding
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

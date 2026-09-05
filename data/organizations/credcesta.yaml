@@ -16,7 +16,11 @@ summary: 'Programa de crédito consignado a servidores, aposentados e pensionist
   O produto cobrava cerca de 5% ao mês, contra média de mercado inferior a 1,6%, e tornou-se o motor de
   crescimento do banco — 85,4% das operações em 2022. Rebatizado ''M Fácil Consignado'', foi levado ao
   INSS, onde análise conjunta INSS/CGU apontou indícios de fraude. É objeto de ação direta de inconstitucionalidade
-  e de mais de dez mil processos individuais no TJ-BA.'
+  e de mais de dez mil processos individuais no TJ-BA. Parte da carteira de consignado do CredCesta foi
+  dada em garantia, pelo Banco Master, a um empréstimo de US$ 300 milhões contraído pela Titan Holding
+  — empresa pessoal de Daniel Vorcaro — junto à Tether Investments, braço de investimento da emissora
+  do stablecoin USDT, em março de 2025. Parte dos mesmos contratos também integrava a carteira depois
+  vendida ao BRB.'
 why_in_novelo: É o ativo que, segundo a Polícia Federal, ligou Augusto Lima ao Banco Master e está no
   centro do modelo de crédito consignado do banco.
 cited_position:
@@ -38,6 +42,8 @@ open_questions:
   da Comissão Especial da Secretaria de Desenvolvimento Econômico da Bahia de 12/04/2018 — não ao edital
   nem ao contrato, que a equipe não localizou. Uma segunda reportagem do mesmo veículo, sobre o mesmo
   episódio, menciona apenas exclusividade genérica, sem prazo.
+- Não se sabe o grau de sobreposição entre a carteira dada em garantia à Tether e a vendida ao BRB — se
+  confirmada sobreposição relevante, configuraria oneração dupla dos mesmos recebíveis.
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -49,6 +55,8 @@ source_ids:
 - src-poder360-2026-credcesta-arquitetura-e-privatizacao
 - src-tjba-adi-afpeb-2025-credcesta
 - src-mpba-2021-07-19-acp-credcesta
+- src-timesbrasil-2026-05-08-tether-cobra-titan-holding
+- src-diariodocomercio-2026-05-08-tether-penhora-consignado
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
