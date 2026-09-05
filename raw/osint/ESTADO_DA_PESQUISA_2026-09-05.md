@@ -120,7 +120,8 @@ Estes já foram varridos de ponta a ponta. Voltar a eles só faz sentido com uma
 4. **Processos das faixas 2 e 3 da lista de prioridade, ainda não obtidos:** STF PET 15.198; TRF3
    5008069-89.2023.4.03.6181 (Tanure); MP-AP 0000111-41.2025.9.04.0000; STF PET 16.704; TCE-SP
    TC-002417.989.25-8; TJAP 6000509-57.2026.8.03.0000.
-5. **`CHANGELOG.md` está parado no lote 53** — os lotes 54 a 86 não foram registrados lá.
+5. ~~`CHANGELOG.md` parado no lote 53~~ — **resolvido em 2026-09-05**: os lotes 54 a 86 foram
+   registrados no changelog (commit ed7edcc).
 
 ## 7. Achados estruturais que orientam a continuação
 
