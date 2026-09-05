@@ -30,7 +30,18 @@ cited_position:
   - src-cnn-2026-03-escritorio-recebeu-80-milhoes
   by_id: barci-de-moraes-sociedade-de-advogados
   date: 2026-03
-open_questions: []
+- kind: clarification
+  summary: Em nota de 09/03/2026, o escritório informou ter sido contratado pelo Banco Master entre fevereiro
+    de 2024 e novembro de 2025, com equipe de quinze advogados, noventa e quatro reuniões de trabalho
+    e trinta e seis pareceres e opiniões legais, e afirmou nunca ter conduzido causa para o banco no âmbito
+    do STF.
+  source_ids:
+  - src-poder360-2026-09-01-integras-pet-16662
+  by_id: barci-de-moraes-sociedade-de-advogados
+  date: '2026-03-09'
+open_questions:
+- 'O relatório da PF não examina a contraprestação: não avalia se houve serviço advocatício efetivo, matéria
+  que está fora do seu escopo declarado e não pode ser tratada como lacuna incriminatória.'
 source_ids:
 - src-poder360-2026-03-09-nota-barci
 - src-poder360-2026-09-01-integras-pet-16662
@@ -42,4 +53,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'

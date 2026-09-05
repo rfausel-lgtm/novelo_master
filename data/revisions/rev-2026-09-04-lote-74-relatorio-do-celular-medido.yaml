@@ -1,0 +1,27 @@
+id: rev-2026-09-04-lote-74-relatorio-do-celular-medido
+kind: revision
+date: '2026-09-04'
+title: Lote 74 — o relatório do celular, medido
+summary: 'Classificação das 109 menções a ''Moraes'' no relatório da PF, uma a uma, por contexto: 51 ao
+  ministro ou ao contato salvo, 58 ao escritório da esposa, nenhuma a terceiro homônimo. A contagem bruta
+  quase empata, mas a arquitetura do documento não: a seção ''Da análise do destinatário das notas'' ocupa
+  190 das 218 páginas, das quais só cerca de 31 tratam dos contratos do escritório. Registrado que o relatório
+  não imputa conduta a magistrado e não cita nenhuma decisão, voto ou ato de ofício; que a titularidade
+  da linha não está demonstrada; que os metadados da minuta trazem nome de conta de usuário, não autoria;
+  e que a manifestação da PGR ataca a via processual, não o mérito. Acrescentada a PET 16.704, aberta
+  de ofício por Fachin, cujo objeto alcança a conduta da própria Polícia Federal. Distinguidos os dois
+  relatórios da PF que a cobertura vinha embaralhando.'
+affected_ids:
+- alexandre-de-moraes
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+- barci-de-moraes-sociedade-de-advogados
+- andrei-rodrigues
+- andre-mendonca
+- edson-fachin
+- paulo-gonet
+reason: Pedido de aprofundamento nos nós de Alcolumbre e Alexandre de Moraes.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

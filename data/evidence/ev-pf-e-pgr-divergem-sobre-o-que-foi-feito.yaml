@@ -1,0 +1,19 @@
+id: ev-pf-e-pgr-divergem-sobre-o-que-foi-feito
+kind: evidence
+classification: D
+proposition: Há divergência frontal entre dois documentos oficiais sobre a natureza do mesmo ato. A Polícia
+  Federal afirma não ter realizado atos de aprofundamento investigativo dirigidos a magistrados. O procurador-geral
+  da República sustenta que 'é inegável que houve imersão em elementos dos autos para buscar indicativos
+  de envolvimento do Ministro Alexandre de Moraes em ilícitos' e que o relator 'impôs a investigação'
+  do ministro. É divergência de qualificação jurídica sobre o mesmo fato, não sobre o fato em si.
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+- doc-2026-09-01-manifestacao-gonet-pet-16662
+source_ids:
+- src-poder360-2026-09-01-integras-pet-16662
+date: '2026-09-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

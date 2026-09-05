@@ -1,0 +1,22 @@
+id: ev-relatorio-nao-imputa-conduta-a-magistrado
+kind: evidence
+classification: D
+proposition: O relatório não imputa conduta a Alexandre de Moraes nem a qualquer magistrado. Não contém
+  as palavras 'propina', 'vantagem indevida', 'corrupção', 'imputação' ou 'indiciamento'. A própria peça
+  consigna, na página 5, que não foram realizados atos de aprofundamento investigativo dirigidos a magistrados
+  ou a membros do Ministério Público, limitando-se à exposição objetiva de elementos já existentes no
+  material arrecadado. Nenhuma decisão judicial, voto ou ato de ofício do ministro é citado ou cotejado
+  em qualquer ponto do documento.
+document_ids:
+- doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
+source_ids:
+- src-poder360-2026-09-01-integras-pet-16662
+excerpt: não foram realizados quaisquer atos de aprofundamento investigativo direcionados a magistrados
+  ou membros do Ministério Público, tampouco diligências tipicamente policiais destinadas à apuração de
+  condutas que, em tese, possam configurar ilícitos penais
+date: '2026-08-27'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

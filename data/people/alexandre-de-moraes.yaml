@@ -8,13 +8,20 @@ positions:
   organization_id: supremo-tribunal-federal
   source_ids:
   - src-cnn-2026-02-12-toffoli-deixa-relatoria
-summary: Ministro do STF. O relatório da PF sobre o celular de Daniel Vorcaro (IPJ-A 3298613/2026), tornado
-  público em 01/09/2026, registra contato salvo como 'Alexandre de Moraes BRASILIA' compartilhado por
+summary: 'Ministro do STF. O relatório da PF sobre o celular de Daniel Vorcaro (IPJ-A 3298613/2026), tornado
+  público em 01/09/2026, registra contato salvo como ''Alexandre de Moraes BRASILIA'' compartilhado por
   Fábio Faria em 26/12/2023, referências a encontros e cinco mensagens de visualização única enviadas
   ao contato em 17/11/2025. O gabinete do ministro negou, em nota de 06/03/2026, ser o destinatário das
   mensagens. O relatório não conclui que o ministro tenha cometido crime e a PF informa não ter feito
   diligências contra magistrados. O escritório de advocacia de sua esposa, Viviane Barci de Moraes, manteve
-  contrato com o Banco Master entre 2024 e 2025.
+  contrato com o Banco Master entre 2024 e 2025. A classificação das 109 menções a ''Moraes'' no relatório,
+  uma a uma, mostra 51 referentes ao ministro ou ao contato salvo e 58 ao escritório da esposa — mas a
+  arquitetura do documento pende decisivamente para o primeiro: a seção intitulada ''Da análise do destinatário
+  das notas'' ocupa 190 das 218 páginas, das quais só cerca de 31 tratam dos contratos do escritório.
+  Em 03/09/2026 ele foi intimado, ao lado de André Mendonça, Paulo Gonet e Andrei Passos Rodrigues, a
+  prestar informações na PET 16.704, aberta de ofício pela Presidência do Supremo — condição processual
+  de quem presta informações, não de investigado. Não há inquérito instaurado, indiciamento ou denúncia
+  contra ele.'
 why_in_novelo: Aparece em relatório da Polícia Federal sobre o celular de Daniel Vorcaro como contato
   salvo e interlocutor referido em mensagens, e é cônjuge da titular do escritório contratado pelo Banco
   Master; sua posição de negativa está registrada.
@@ -35,10 +42,17 @@ cited_position:
   by_id: barci-de-moraes-sociedade-de-advogados
   date: '2026-09-02'
 open_questions:
-- O corpus não contém manifestação do ministro posterior ao levantamento do sigilo da PET 16.662 (01/09/2026).
-- O relatório da PF atribui o número a um contato salvo pelo banqueiro; a titularidade da linha não está
-  demonstrada no material lido pela equipe.
-- Não há, no corpus, registro oficial (agenda) dos encontros referidos nas mensagens.
+- O corpus não contém manifestação do ministro posterior ao levantamento do sigilo da PET 16.662 (01/09/2026);
+  ele atuou por despacho no INQ 4.781, não por nota.
+- O relatório da PF atribui o número a um contato salvo pelo banqueiro e compartilhado por Fábio Faria;
+  a titularidade da linha não está demonstrada — não consta consulta cadastral à operadora.
+- Os metadados da minuta de contrato registram 'Ministro Alexandre de Moraes' como usuário da última modificação;
+  nome de conta de editor de texto não demonstra autoria pessoal, e a própria PF não extrai conclusão
+  do dado.
+- A equivalência entre os apelidos usados nas conversas e o ministro é feita pela PF em legendas de figura,
+  sem critério explicitado.
+- A nota do gabinete de 06/03/2026 e o relatório de 27/08/2026 são frontalmente contraditórios sobre o
+  destinatário das mensagens de 17/11/2025; nenhuma das versões foi arbitrada.
 source_ids:
 - src-congressoemfoco-2026-09-01-relatorio-pf
 - src-poder360-2026-09-01-sigilo-pet-16662
@@ -48,6 +62,8 @@ source_ids:
 - src-poder360-2026-09-02-dois-contratos-barci
 - src-poder360-2026-09-02-relatorio-pf-nao-conclusivo
 - src-poder360-2026-09-01-mendonca-quer-sessao-plenario
+- src-stf-despacho-mendonca-2026-09-01-pet-16662
+- src-stf-despacho-fachin-2026-09-03-pet-16704
 full_name: Alexandre de Moraes
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Alexandre_de_Moraes
@@ -55,7 +71,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
 photo:
   path: /fotos/alexandre-de-moraes.jpg
   source: Wikimedia Commons
