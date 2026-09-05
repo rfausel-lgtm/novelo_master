@@ -1,0 +1,18 @@
+id: ev-jocildo-e-alberto-nomeados-no-mesmo-lote-de-decretos
+kind: evidence
+classification: D
+proposition: Jocildo Silva Lemos e Alberto Samuel Alcolumbre Tobelem foram nomeados por decretos de mesma
+  data (02/01/2023), assinados pelo mesmo governador e publicados na mesma edição do Diário Oficial —
+  o Decreto nº 0028 dá a Lemos a direção da Amprev; os Decretos nº 0018 e nº 0019 dão a Tobelem assento
+  no Colégio e a presidência da Junta Comercial do Estado.
+document_ids:
+- doc-2023-01-02-decreto-0028-nomeacao-jocildo
+- doc-2023-01-02-decreto-0019-alberto-jucap
+source_ids:
+- src-diofe-7825-2023-01-03
+date: '2023-01-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

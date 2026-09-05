@@ -8,8 +8,15 @@ positions:
   organization_id: senado-federal
   source_ids:
   - src-senado-pec-65-2023-materia
-summary: Senador pelo Amapá e presidente do Senado. Consta entre os coautores da PEC 65/2023, conforme
-  a página oficial da matéria.
+summary: 'Senador pelo Amapá e presidente do Senado Federal. Consta entre os coautores da PEC 65/2023,
+  matéria à qual foi apresentada a emenda sobre o FGC citada pela Polícia Federal. Aparece no novelo por
+  uma via indireta e contestada: o então diretor-presidente da Amapá Previdência, Jocildo Silva Lemos,
+  atribuiu-lhe publicamente, em duas ocasiões registradas em documentos oficiais da autarquia, o convite
+  para assumir o cargo — o que o senador nega em termos categóricos. **Não é investigado, indiciado, acusado
+  nem réu** em nenhuma apuração relativa ao Banco Master ou à Amprev, e a decisão judicial que autorizou
+  a operação Zona Cinzenta não o menciona uma única vez. Separadamente, a revista Veja noticiou relato
+  de proposta de delação — rejeitada pela PF — sobre suposto repasse de US$ 30 milhões, alegação que ele
+  nega e que nenhum documento público corrobora.'
 why_in_novelo: Preside o Senado e é coautor da PEC 65/2023, matéria à qual foi apresentada a emenda sobre
   o FGC citada pela Polícia Federal.
 cited_position:
@@ -40,6 +47,10 @@ open_questions:
 - O corpus não registra se e quando o requerimento da CPMI do Master foi lido.
 - O senador não é investigado na operação Zona Cinzenta, segundo a CNN; o corpus não contém documento
   que corrobore o relato da Veja.
+- Não há documento oficial que registre indicação, ofício ou correspondência dele relativa à nomeação
+  de Jocildo Lemos — a atribuição repousa exclusivamente na declaração do nomeado.
+- A negativa da assessoria cobre 'nomeações e decisões administrativas'; o corpus não localizou manifestação
+  dele sobre a relação pessoal com Jocildo Lemos nem sobre o vínculo de campanha.
 source_ids:
 - src-senado-pec-65-2023-materia
 - src-senado-2026-05-21-alcolumbre-cpmi
@@ -50,13 +61,17 @@ source_ids:
 - src-cnn-2026-02-06-amprev-alvo-pf
 - src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
 - src-congressoemfoco-2026-06-12-alcolumbre-contesta
+- src-amprev-2024-05-02-premio-jocildo
+- src-amprev-ata-9a-ordinaria-cep-2025-09-17
+- src-decisao-zona-cinzenta-integral-pje-trf1
+- src-amprev-lei-0915-2005-consolidada
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Davi_Alcolumbre
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
 photo:
   path: /fotos/davi-alcolumbre.jpg
   source: Wikimedia Commons

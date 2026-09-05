@@ -13,17 +13,22 @@ description: Na 11ª reunião extraordinária do Comitê de Investimentos da Amp
   Lemos, o conselheiro José Milton Afonso Gonçalves propôs a alocação de R$ 200 milhões em letras financeiras
   do Banco Master, com vencimento em 10 anos e taxa de IPCA + 8,35% ao ano. O bloco deliberativo que incluía
   a aplicação foi aprovado por unanimidade. Comprovantes de TED para o Banco Master (banco 243) datam
-  de três dias depois, 15/07/2024.
+  de três dias depois, 15/07/2024. A ata do Conselho Estadual de Previdência registra que os R$ 200 milhões
+  saíram do resgate do Fundo BB Previdenciário Fluxo RF Simples e que, quatro dias antes, fora noticiada
+  a destituição de dois gerentes da Caixa Asset por se oporem à compra de letras do Master.
 evidence_class: D
 status: verified
 evidence_ids:
 - ev-zc-condicoes-letras-financeiras-master
 - ev-zc-teds-de-15-07-2024-ao-banco-master
+- ev-gerentes-caixa-asset-destituidos-antes-do-aporte
 source_ids:
 - src-decisao-zona-cinzenta-integral-pje-trf1
+- src-diofe-8556-2025-12-16
 document_ids:
 - doc-2026-02-decisao-zona-cinzenta-4a-vara-ap
 - doc-2024-07-12-ata-11a-reuniao-extraordinaria-ciap
+- doc-2025-12-16-ata-cep-cronologia-julho-2024
 public_act_ids: []
 location: Macapá (AP)
 review_status: published

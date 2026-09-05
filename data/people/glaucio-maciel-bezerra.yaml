@@ -1,0 +1,29 @@
+id: glaucio-maciel-bezerra
+kind: person
+name: Gláucio Maciel Bezerra
+category: public_official
+role: Conselheiro do Comitê de Investimentos da Amapá Previdência (CIAP)
+positions:
+- title: Conselheiro do Comitê de Investimentos
+  organization_id: amapa-previdencia
+  source_ids:
+  - src-diofe-8556-2025-12-16
+summary: Conselheiro do Comitê de Investimentos da Amprev. A ata do Conselho Estadual de Previdência publicada
+  no Diário Oficial o nomeia, ao lado do conselheiro Alexandre, entre os dois votos contrários à proposta
+  aprovada por maioria na 12ª reunião do CIAP, em 19/07/2024. Não é alvo da operação Zona Cinzenta.
+why_in_novelo: Um dos dois conselheiros que votaram contra a continuidade das aplicações no Banco Master,
+  identificados por documento oficial.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada pela equipe.
+  source_ids:
+  - src-diofe-8556-2025-12-16
+open_questions:
+- O corpus não registra manifestação pública dele posterior à operação.
+source_ids:
+- src-diofe-8556-2025-12-16
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

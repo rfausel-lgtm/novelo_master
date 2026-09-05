@@ -1,0 +1,27 @@
+id: doc-2024-07-29-portaria-diligencia-banco-master
+kind: document
+title: Portaria da Amprev que designa a comissao de diligencia ao Banco Master (21 a 23/07/2024)
+doc_type: administrative_act
+date: '2024-07-29'
+source_ids:
+- src-diofe-8214-2024-07-29
+summary: Portaria publicada no Diario Oficial do Amapa designando viagem a Sao Paulo para reunioes tecnicas
+  e diligencias junto ao Banco Master, conforme deliberacao da 12a reuniao extraordinaria do CIAP. A comissao
+  era composta por Carlos Roberto dos Anjos Oliveira, chefe da Divisao de Investimento e Mercado, e por
+  Jose Milton Afonso Goncalves, o proprio membro do comite que propusera as aplicacoes. O relatorio positivo
+  destravou o segundo aporte de R$ 100 milhoes.
+is_official: true
+related_entity_ids:
+- amapa-previdencia
+- banco-master
+- jose-milton-afonso-goncalves
+issuer_id: amapa-previdencia
+issuer: Amapa Previdencia
+date_precision: day
+url: https://diofe.portal.ap.gov.br/portal/edicoes/download/2144
+reference: DIOFE no 8.214, de 29/07/2024
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

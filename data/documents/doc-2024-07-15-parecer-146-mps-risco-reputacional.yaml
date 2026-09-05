@@ -1,0 +1,26 @@
+id: doc-2024-07-15-parecer-146-mps-risco-reputacional
+kind: document
+title: Parecer nº 146/2024 do Ministério da Previdência Social — alerta de risco reputacional
+doc_type: official_report
+date: '2024-07-15'
+source_ids:
+- src-diofe-8556-2025-12-16
+summary: Parecer citado na ata do Conselho Estadual de Previdência; não lido diretamente pela equipe.
+  Emitido três dias depois do primeiro aporte de R$ 200 milhões e quatro dias antes do segundo, recomendava
+  a avaliação de riscos reputacionais antes de aplicações — enumerando sanções do Banco Central e da CVM,
+  investigações, exposição negativa na mídia e estrutura societária.
+is_official: true
+related_entity_ids:
+- amapa-previdencia
+- banco-master
+issuer: Ministério da Previdência Social
+date_precision: day
+reference: Parecer nº 146/2024 — Ministério da Previdência Social
+excerpt: 'o Ministério da Previdência Social emitiu o Parecer nº 146/2024, recomendando a avaliação de
+  riscos reputacionais antes da realização de aplicações, tais como: sanções do BACEN e da CVM, investigações,
+  exposição negativa na mídia e estrutura societária.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

@@ -5,13 +5,16 @@ aliases:
 - Amprev
 - RPPS/AP
 org_type: public_body
-summary: Autarquia do Governo do Amapá que gere o regime próprio de previdência dos servidores estaduais
-  (cerca de 30 mil segurados ativos, segundo a Agência Brasil). Investiu R$ 400 milhões em letras financeiras
-  do Banco Master em três deliberações do Comitê de Investimentos em menos de vinte dias, em julho de
-  2024 — a primeira delas com vencimento em 10 anos e taxa de IPCA + 8,35% ao ano. A aprovação é investigada
-  pela PF (operação Zona Cinzenta, 06/02/2026) e pelo MP-AP. A mesma investigação alcança deliberações
-  anteriores, de setembro de 2021, que destinaram R$ 15 milhões a cotas de um FIDC Multisetorial. Em 19/11/2025
-  a autarquia informou ter se habilitado junto ao BC para reaver o valor aplicado no Master.
+summary: 'Entidade que gere o regime próprio de previdência dos servidores do Estado do Amapá. Ao contrário
+  do que a imprensa costuma registrar, não é autarquia: o art. 98 da Lei estadual 0915/2005 a define como
+  pessoa jurídica de direito privado sob a forma de serviço social autônomo, enquadramento que o Diário
+  Oficial do Estado ainda reproduzia em fevereiro de 2026. Sua Diretoria Executiva é de livre nomeação
+  do governador. Investiu R$ 400 milhões em letras financeiras do Banco Master em três deliberações do
+  Comitê de Investimentos em menos de vinte dias, em julho de 2024 — a primeira com vencimento em 10 anos
+  e taxa de IPCA + 8,35% ao ano —, contra dois votos e depois de um parecer de alerta do Ministério da
+  Previdência Social. A aprovação é investigada pela PF (operação Zona Cinzenta, 06/02/2026) e pelo MP-AP.
+  A mesma investigação alcança deliberações de setembro de 2021 que destinaram R$ 15 milhões a cotas de
+  um FIDC Multisetorial. A carteira somava R$ 9,041 bilhões em agosto de 2025.'
 why_in_novelo: Fundo previdenciário público que investiu R$ 400 milhões no Banco Master, o segundo maior
   aporte de entes públicos segundo a CNN, com aprovação sob investigação.
 cited_position:
@@ -25,16 +28,20 @@ cited_position:
   by_id: amapa-previdencia
   date: '2026-02-09'
 open_questions:
-- As atas do Comitê de Investimentos de 12, 19 e 30/07/2024 são conhecidas apenas pelos trechos transcritos
-  na decisão judicial; a equipe não teve acesso ao inteiro teor.
-- Não se sabe se o FIDC Multisetorial cujas cotas a Amprev adquiriu em 2021 tem qualquer relação com o
-  Banco Master, com Daniel Vorcaro ou com o grupo — a decisão não faz essa ligação.
-- Quem são os dois conselheiros que votaram contra as aplicações em 19/07/2024.
+- As atas do Comitê de Investimentos de 12, 19 e 30/07/2024 são conhecidas pelos trechos transcritos na
+  decisão judicial e na ata do Conselho Estadual de Previdência; a equipe não leu o inteiro teor, embora
+  a ata do CEP afirme que a da 11ª reunião está no site da entidade.
+- Não se sabe se o FIDC Multisetorial cujas cotas a Amprev adquiriu em 2021 tem relação com o Banco Master,
+  com Daniel Vorcaro ou com o grupo — a decisão judicial não faz essa ligação.
+- O Parecer nº 146/2024 do Ministério da Previdência Social é conhecido apenas pela descrição na ata do
+  CEP; o texto não foi lido pela equipe.
 - Quais 'agentes públicos' estariam em conluio com os investigados, segundo a decisão que autorizou a
   quebra de sigilo telemático.
 - A decisão fixou prazo de 30 dias para relatório circunstanciado da PF; o resultado dessa etapa não é
   conhecido pelo corpus.
-- A decisão menciona cautelar anterior na mesma investigação, cujo conteúdo e data não são públicos.
+- A imprensa noticiou transformação da Amprev em autarquia por lei complementar de julho de 2025; o texto
+  consolidado publicado pela própria entidade e o Diário Oficial de fevereiro de 2026 mantêm o enquadramento
+  como serviço social autônomo. A equipe não leu a lei complementar.
 source_ids:
 - src-amprev-2025-11-19-nota-master
 - src-poder360-2026-02-10-amprev-zona-cinzenta
@@ -43,6 +50,11 @@ source_ids:
 - src-gazeta-2026-01-29-pf-mp-amprev
 - src-metropoles-2026-01-19-aliado-alcolumbre-amprev
 - src-decisao-zona-cinzenta-integral-pje-trf1
+- src-amprev-lei-0915-2005-consolidada
+- src-diofe-7825-2023-01-03
+- src-diofe-8556-2025-12-16
+- src-diofe-8594-2026-02-11
+- src-amprev-ata-9a-ordinaria-cep-2025-09-17
 jurisdiction: Amapá
 review_status: published
 reviewer: orquestrador

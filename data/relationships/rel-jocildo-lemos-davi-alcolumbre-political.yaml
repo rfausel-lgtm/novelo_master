@@ -6,9 +6,12 @@ relationship_type: political
 directed: false
 label: ex-tesoureiro de campanha (2022); indicado à Amprev com apoio do senador, segundo a imprensa
 start_date: '2022'
-description: Poder360, CNN, Metrópoles e Gazeta do Povo afirmam que Lemos foi tesoureiro da campanha de
-  Alcolumbre em 2022 e chegou à presidência da Amprev por indicação ou com apoio do senador. Alcolumbre
-  nega qualquer relação com as nomeações ou decisões do fundo; não é investigado.
+description: 'Poder360, CNN, Metrópoles e Gazeta do Povo afirmam que Lemos foi tesoureiro da campanha
+  de Alcolumbre em 2022 e chegou à presidência da Amprev por indicação ou com apoio do senador. Alcolumbre
+  nega qualquer relação com as nomeações ou decisões do fundo; não é investigado. Registro distinto e
+  anterior: Jocildo Lemos atribuiu publicamente ao senador o convite para presidir a Amprev, em duas manifestações
+  documentadas em atos oficiais da autarquia (02/05/2024 e 17/09/2025). Alcolumbre nega. A decisão judicial
+  da operação Zona Cinzenta não menciona o senador uma única vez.'
 evidence_class: C
 confidence: 0.7
 status: disputed
@@ -16,11 +19,16 @@ event_ids: []
 evidence_ids:
 - ev-lemos-tesoureiro-alcolumbre
 - ev-alcolumbre-nega-indicacao
+- ev-jocildo-atribui-convite-a-alcolumbre-2024
+- ev-decisao-zona-cinzenta-nao-menciona-alcolumbre
 source_ids:
 - src-poder360-2026-02-10-amprev-zona-cinzenta
 - src-cnn-2026-02-06-amprev-alvo-pf
 - src-metropoles-2026-01-19-aliado-alcolumbre-amprev
 - src-gazeta-2026-01-29-pf-mp-amprev
+- src-amprev-2024-05-02-premio-jocildo
+- src-amprev-ata-9a-ordinaria-cep-2025-09-17
+- src-decisao-zona-cinzenta-integral-pje-trf1
 document_ids: []
 cited_position:
 - kind: denial
@@ -35,4 +43,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'

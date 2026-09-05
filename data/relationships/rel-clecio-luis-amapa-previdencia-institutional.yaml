@@ -1,0 +1,32 @@
+id: rel-clecio-luis-amapa-previdencia-institutional
+kind: relationship
+from_id: clecio-luis
+to_id: amapa-previdencia
+relationship_type: institutional
+directed: false
+label: autoridade nomeante da Diretoria Executiva
+start_date: '2023-01-01'
+description: Pela Lei estadual nº 0915/2005, art. 101, §2º, a Diretoria Executiva da Amprev é de livre
+  nomeação do governador. Clécio Luís assinou tanto a nomeação de Jocildo Lemos, em 02/01/2023, quanto
+  a exoneração dele, a pedido, em 11/02/2026.
+evidence_class: D
+confidence: 0.98
+status: verified
+event_ids:
+- evt-2023-01-02-decretos-nomeiam-jocildo-e-alberto
+- evt-2026-02-11-jocildo-exonerado-a-pedido
+evidence_ids:
+- ev-nomeacao-amprev-e-ato-livre-do-governador
+- ev-jocildo-exonerado-a-pedido-em-11-02-2026
+source_ids:
+- src-amprev-lei-0915-2005-consolidada
+- src-diofe-7825-2023-01-03
+- src-diofe-8594-2026-02-11
+document_ids:
+- doc-2005-08-18-lei-0915-natureza-e-nomeacao-amprev
+- doc-2023-01-02-decreto-0028-nomeacao-jocildo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

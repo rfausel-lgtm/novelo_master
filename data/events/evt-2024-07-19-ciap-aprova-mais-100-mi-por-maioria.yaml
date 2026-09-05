@@ -10,22 +10,31 @@ participant_ids:
 - jose-milton-afonso-goncalves
 - jocildo-lemos
 - banco-master
-description: Segunda das três deliberações de julho de 2024. A ata registra dois votos contrários antes
+- alexandre-flavio-medeiros-monteiro
+- glaucio-maciel-bezerra
+description: 'Segunda das três deliberações de julho de 2024. A ata registra dois votos contrários antes
   da aprovação por maioria dos conselheiros Jackson Rubens, José Milton Gonçalves e Jocildo Lemos; a proposta
   incluía R$ 100 milhões em letras financeiras do Banco Master condicionados a diligência. A mesma ata
-  menciona 'ruído de mercado' em torno do banco. Segundo a decisão judicial, havia nas sessões alertas
+  menciona ''ruído de mercado'' em torno do banco. Segundo a decisão judicial, havia nas sessões alertas
   sobre concentração de 40% da carteira líquida em um único emissor e sobre procedimentos do TCU contra
-  a instituição.
+  a instituição. A ata do Conselho Estadual de Previdência publicada no Diário Oficial identifica os dois
+  conselheiros vencidos: Alexandre Flávio Medeiros Monteiro — que provocou a convocação da reunião, preocupado
+  com as notícias sobre o banco — e Gláucio Maciel Bezerra. A deliberação ocorreu quatro dias depois de
+  o Ministério da Previdência Social emitir o Parecer nº 146/2024, recomendando avaliação de risco reputacional.'
 evidence_class: D
 status: verified
 evidence_ids:
 - ev-zc-dois-votos-contrarios-em-19-07-2024
 - ev-zc-alerta-concentracao-40-por-cento-e-tcu
+- ev-dois-conselheiros-contrarios-identificados
+- ev-parecer-146-mps-entre-o-primeiro-e-o-segundo-aporte
 source_ids:
 - src-decisao-zona-cinzenta-integral-pje-trf1
+- src-diofe-8556-2025-12-16
 document_ids:
 - doc-2026-02-decisao-zona-cinzenta-4a-vara-ap
 - doc-2024-07-19-ata-reuniao-ciap
+- doc-2025-12-16-ata-cep-cronologia-julho-2024
 public_act_ids: []
 location: Macapá (AP)
 review_status: published

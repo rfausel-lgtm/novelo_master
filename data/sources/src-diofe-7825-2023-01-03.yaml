@@ -1,0 +1,23 @@
+id: src-diofe-7825-2023-01-03
+kind: source
+title: Diário Oficial do Estado do Amapá nº 7.825, de 03/01/2023
+publisher: Governo do Estado do Amapá
+publication_date: '2023-01-03'
+retrieved_at: '2026-09-04'
+url: https://diofe.portal.ap.gov.br/portal/edicoes/download/1452
+source_type: official_gazette
+summary: Edição de 37 páginas baixada e lida pela equipe. Publica o primeiro lote de decretos do governo
+  Clécio Luís, todos datados de 02/01/2023 e com efeitos a partir de 1º de janeiro. Entre eles, o Decreto
+  nº 0028, que nomeia Jocildo Silva Lemos diretor-presidente da Amapá Previdência, e os Decretos nº 0018
+  e nº 0019, que nomeiam Alberto Samuel Alcolumbre Tobelem, respectivamente, vogal titular do Colégio
+  e presidente da Junta Comercial do Estado do Amapá.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

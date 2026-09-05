@@ -18,7 +18,12 @@ summary: Diretor-presidente da Amapá Previdência e coordenador de seu Comitê 
   Afonso Gonçalves —, sustentando que ele tinha ciência da recusa da Caixa Econômica Federal em adquirir
   os mesmos ativos por alto risco e que validou uma visita técnica ao Banco Master, às vésperas do terceiro
   aporte, como ato de mera formalidade. A decisão também registra documento de autorização com sua assinatura
-  no contexto das transferências.
+  no contexto das transferências. Foi nomeado pelo Decreto nº 0028, de 02/01/2023, do governador Clécio
+  Luís, e exonerado a pedido pelo Decreto nº 0757, de 11/02/2026, cinco dias depois da operação. Atribuiu
+  publicamente o convite para o cargo ao senador Davi Alcolumbre em duas ocasiões registradas em documentos
+  oficiais da própria autarquia — no site institucional, em 02/05/2024, e na ata do Conselho Estadual
+  de Previdência de 17/09/2025 —, o que o senador nega. Em setembro de 2025, dois meses antes da liquidação
+  do banco, sustentava perante o conselho que o investimento era 'regular, líquido e seguro'.
 why_in_novelo: Dirigia a autarquia previdenciária do Amapá que investiu R$ 400 milhões no Banco Master,
   investimento hoje sob investigação da PF, e tem ligação política com o presidente do Senado, segundo
   a imprensa.
@@ -38,9 +43,26 @@ cited_position:
   - src-poder360-2026-02-10-amprev-zona-cinzenta
   - src-gazeta-2026-01-29-pf-mp-amprev
   by_id: jocildo-lemos
+- kind: version
+  summary: Pediu exoneração para que a Justiça atue com total independência e para que fique comprovado
+    que os procedimentos de sua gestão observaram rigorosamente a legalidade.
+  source_ids:
+  - src-amprev-2026-02-11-comunicado-exoneracao
+  by_id: jocildo-lemos
+  date: '2026-02-11'
+- kind: version
+  summary: 'Perante o Conselho Estadual de Previdência, em 17/09/2025: o Banco Master ''não era problema
+    quando contratamos'' e não havia ''risco identificado'' à época; os bônus semestrais foram pagos em
+    janeiro e julho de 2025, demonstrando liquidez e adimplência.'
+  source_ids:
+  - src-amprev-ata-9a-ordinaria-cep-2025-09-17
+  by_id: jocildo-lemos
+  date: '2025-09-17'
 open_questions:
-- O corpus não registra defesa pessoal de Lemos quanto às acusações de gestão temerária; a decisão determinou
-  contraditório diferido, a ser exercido apenas em eventual ação penal.
+- O corpus não registra defesa técnica de Lemos posterior à operação; a decisão determinou contraditório
+  diferido, a ser exercido apenas em eventual ação penal.
+- A alegação de que teria sido tesoureiro da campanha de Alcolumbre em 2022 circula na imprensa sem que
+  nenhum veículo cite o documento; a equipe não conseguiu confirmá-la em fonte primária do TSE.
 source_ids:
 - src-amprev-2025-11-19-nota-master
 - src-poder360-2026-02-10-amprev-zona-cinzenta
@@ -49,6 +71,11 @@ source_ids:
 - src-gazeta-2026-01-29-pf-mp-amprev
 - src-metropoles-2026-01-19-aliado-alcolumbre-amprev
 - src-decisao-zona-cinzenta-integral-pje-trf1
+- src-diofe-7825-2023-01-03
+- src-diofe-8594-2026-02-11
+- src-amprev-2024-05-02-premio-jocildo
+- src-amprev-ata-9a-ordinaria-cep-2025-09-17
+- src-amprev-2026-02-11-comunicado-exoneracao
 full_name: Jocildo Silva Lemos
 review_status: published
 reviewer: orquestrador
