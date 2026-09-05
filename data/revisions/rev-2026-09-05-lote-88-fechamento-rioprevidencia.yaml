@@ -1,0 +1,23 @@
+id: rev-2026-09-05-lote-88-fechamento-rioprevidencia
+kind: revision
+date: '2026-09-04'
+title: 'Lote 88 — fechamento do Rioprevidência: a única exceção, e a CPI que quase não nasceu'
+summary: 'Fechamento de quatro lacunas abertas nos lotes anteriores sobre o Rioprevidência. Lida a série
+  completa de atas do Comitê de Investimentos de 2023 e 2024: o nome do Banco Master aparece nomeado uma
+  única vez, na tabela de posição de fevereiro de 2024, antes de o padrão reverter à anonimização nos
+  meses seguintes — verificado por leitura direta. Documentada a quase-morte da CPI da Alerj: aprovada
+  em 12/05/2026, não instalada no prazo, mandado de segurança negado pelo TJRJ em 25/05, e só efetivamente
+  em funcionamento a partir de um segundo requerimento, com reuniões registradas até junho. Identificados
+  o juízo e a juíza da ação da PGE-RJ — 10ª Vara de Fazenda Pública da Capital, Aline Massoni —, com o
+  número do processo permanecendo sob sigilo. O número da petição de origem no STF para o caso de Deivis
+  Marcon Antunes, e o processo resultante na Justiça do Rio após a redistribuição por Toffoli, não foram
+  localizados em nenhuma fonte aberta — provavelmente por tramitarem sob sigilo.'
+affected_ids:
+- rioprevidencia
+- banco-master
+reason: Loop de investigação de 3 horas — fechamento de lacunas do Rioprevidência.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
