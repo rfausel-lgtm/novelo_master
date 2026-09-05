@@ -7,7 +7,7 @@ import { corpus, stats } from "@/lib/data";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Perguntar a um assistente",
+  title: "Sua IA responde",
   description:
     "Como usar Claude, ChatGPT ou outro assistente para consultar o acervo inteiro do Novelo Master, com as regras que mantêm a resposta presa às fontes.",
   path: "/perguntar",
@@ -49,8 +49,8 @@ export default function PerguntarPage() {
   return (
     <PageShell>
       <PageTitle
-        eyebrow="Ler o acervo com ajuda"
-        title="Perguntar a um assistente"
+        eyebrow="O acervo no seu assistente"
+        title="Sua IA responde"
         lede="O acervo inteiro cabe num arquivo. Se você usa Claude, ChatGPT ou outro assistente no navegador, dá para perguntar sobre o caso e receber respostas presas às fontes daqui — não à memória do modelo."
       />
 

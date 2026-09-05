@@ -12,9 +12,9 @@ export function SiteFooter() {
             visitante.
           </p>
           <p>
-            Estar neste mapa não implica ilicitude. Toda relação aponta para a fonte que a sustenta e
-            para a força da evidência correspondente. Alegações e inferências são sempre marcadas como
-            tais.
+            Estar neste mapa não implica ilicitude. Toda relação aponta para a fonte que a sustenta
+            e para a força da evidência correspondente. Alegações e inferências são sempre marcadas
+            como tais.
           </p>
         </div>
         <nav aria-label="Rodapé" className="grid grid-cols-2 gap-x-8 gap-y-1.5 sm:grid-cols-3">
@@ -25,7 +25,7 @@ export function SiteFooter() {
             Política editorial
           </Link>
           <Link className="hover:text-fg" href="/perguntar">
-            Perguntar a um assistente
+            Sua IA responde
           </Link>
           <Link className="hover:text-fg" href="/sobre">
             Sobre e contato

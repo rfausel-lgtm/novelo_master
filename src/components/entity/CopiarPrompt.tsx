@@ -53,7 +53,7 @@ export function CopiarPrompt({
         <button
           type="button"
           onClick={copiar}
-          className="border-border-strong text-fg-2 hover:text-fg hover:border-fg-3 h-8 rounded-md border px-3 text-xs transition-colors"
+          className="bg-accent text-bg hover:bg-accent/90 focus-visible:outline-accent h-8 rounded-md px-4 text-xs font-semibold transition-colors"
         >
           {copiado ? "Copiado" : "Copiar"}
         </button>

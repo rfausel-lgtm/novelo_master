@@ -55,7 +55,7 @@ export function CopiarDossie({ href, bytes }: { href: string; bytes: number }) {
         type="button"
         onClick={copiar}
         disabled={estado === "copiando"}
-        className="border-border-strong text-fg-2 hover:text-fg hover:border-fg-3 h-8 rounded-md border px-3 transition-colors disabled:opacity-60"
+        className="border-accent/60 text-accent hover:bg-accent/15 h-8 rounded-md border px-3 font-medium transition-colors disabled:opacity-60"
       >
         {ROTULO[estado]}
       </button>

@@ -371,6 +371,14 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Alterado
 
+- A aba "Perguntar" virou **"Sua IA responde"**, no cabeçalho, no rodapé e no título da página.
+  "Perguntar" não dizia a quem, e a página não é um chat do site: é o acervo levado ao assistente do
+  próprio leitor. O endereço continua `/perguntar` — já está no prompt do acervo, no `llms.txt` e no
+  sitemap indexado.
+- O botão "Copiar" do prompt passou a usar a cor de acento em vez de borda discreta: é a ação
+  principal daquela página e não se distinguia do resto. O botão do dossiê recebeu acento só no texto
+  e na borda, porque ali a ação principal é ler. O par texto/acento do botão primário entrou no teste
+  de contraste, que não o cobria — mede 4,5:1 nos dois temas.
 - A reprodução da linha do tempo salta para as datas em que algo entra no mapa, em vez de percorrer 321
   meses — só 45 deles têm conteúdo, e o leitor passava a maior parte da animação vendo nada acontecer.
 - Dossiês reorganizados: sumário que acompanha a rolagem, contraditório no topo, sem repetição entre
