@@ -7,9 +7,14 @@ org_type: financial_institution
 summary: Will Financeira S.A. CFI (marca Will Bank), controlada pelo Banco Master. Em 21/01/2026 o BC
   decretou sua liquidação extrajudicial por insolvência e vínculo de interesse com o Master, nomeando
   Eduardo Bianchini liquidante; o FGC estima R$ 6,3 bilhões em garantias. A defesa de Vorcaro disse que
-  a instituição tinha administração apartada.
+  a instituição tinha administração apartada. O Banco Central decretou sua liquidação extrajudicial em
+  21/01/2026, dias depois de a Will Financeira não cumprir cronograma de pagamento com a bandeira Mastercard,
+  em 19/01/2026, o que resultou no bloqueio de sua participação no arranjo de pagamentos. Estima-se base
+  de cerca de 12 milhões de clientes. Por ter CNPJ próprio, distinto do Banco Master, a cobertura do FGC
+  aos seus clientes é separada da garantia — inexistente — das letras financeiras dos regimes próprios
+  de previdência, com estimativa de desembolso de R$ 6,3 bilhões.
 why_in_novelo: Instituição ligada ao Banco Master liquidada pelo Banco Central em 2026, com garantias
-  pagas pelo FGC.
+  pagas pelo FGC. Traz ao caso uma classe de vítima nova e numerosa — o correntista de varejo.
 cited_position:
 - kind: clarification
   summary: A defesa de Vorcaro afirmou que a Will tinha administração apartada e gestão própria.
@@ -34,11 +39,13 @@ source_ids:
 - src-cnn-2026-01-21-liquidacao-will-financeira
 - src-migalhas-2026-02-03-liquidacao-reag-will
 - src-poder360-2026-will-bank-venda-mesmo-dia-liquidacao
+- src-cnnbrasil-2026-01-will-bank-12-milhoes-clientes
+- src-agenciabrasil-2026-01-21-liquidacao-will-bank
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
 photo:
   path: /fotos/will-bank.png
   source: Wikimedia Commons

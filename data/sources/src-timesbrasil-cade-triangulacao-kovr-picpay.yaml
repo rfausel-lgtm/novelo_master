@@ -1,0 +1,24 @@
+id: src-timesbrasil-cade-triangulacao-kovr-picpay
+kind: source
+title: Cade identifica eventual triangulação financeira na venda da Kovr ao PicPay
+publisher: Times Brasil (licenciado exclusivo CNBC)
+publication_date: '2026'
+retrieved_at: '2026-09-04'
+url: https://timesbrasil.com.br/brasil/cade-identifica-eventual-triangulacao-financeira-e-abre-investigacao-sobre-venda-de-seguradora-do-banco-master-ao-picpay/
+source_type: press
+summary: Reportagem sobre indícios apontados pelo Cade de 'gun jumping', triangulação financeira e possíveis
+  crimes contra o sistema financeiro nacional na venda da Kovr, aprovada sem restrições em 07/05/2026
+  mas com o valor de crédito concedido por dois bancos coincidindo exatamente com o montante que os compradores
+  intermediários precisavam pagar no fechamento — levantando suspeita sobre a real função da etapa intermediária.
+  O processo foi arquivado em 28/05/2026 por não atingir o faturamento mínimo exigido para análise pelo
+  Cade, com os indícios de crime ainda não encaminhados a BC e MPF.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

@@ -1,0 +1,20 @@
+id: ev-tres-destinos-distintos-dos-bancos-do-grupo
+kind: evidence
+classification: C
+proposition: 'Os três outros bancos do conglomerado tiveram destinos distintos entre si e distintos do
+  Master: o Voiter foi vendido em julho de 2025 a ex-sócio de Vorcaro, tornou-se Banco Pleno e caiu sozinho,
+  por razões próprias, em fevereiro de 2026; o Letsbank teve sua venda vetada pelo Banco Central por dúvida
+  sobre a origem dos recursos do comprador, permaneceu sob controle do Master e foi liquidado junto com
+  ele; a Kovr Seguradora foi segregada e vendida antes da crise pública, mas sua revenda ao PicPay atraiu
+  suspeita própria de triangulação financeira do Cade.'
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-voiter-banco-pleno-liquidado
+- src-letsmoney-bc-vetou-venda-letsbank-quadrado
+- src-timesbrasil-cade-triangulacao-kovr-picpay
+date: '2026'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

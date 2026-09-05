@@ -1,0 +1,20 @@
+id: ev-tirreno-vendia-creditos-fabricados-ao-brb
+kind: evidence
+classification: C
+proposition: 'O mecanismo por trás dos R$ 12,2 bilhões em carteiras que o BRB adquiriu do Master, já registrado
+  no corpus via decisão do STF como tendo ocorrido ''apesar de pareceres técnicos e jurídicos contrários'',
+  foi descrito por reportagem baseada em apuração da PF: uma empresa de fachada criada por Vorcaro, a
+  Tirreno, vendia os créditos ao BRB embutindo um prêmio ao banco comprador. O Master recebia o valor
+  à vista, sem pagar a Tirreno à vista. A investigação concluiu que os créditos nunca existiram na origem.'
+document_ids:
+- doc-2026-03-apublica-mecanismo-tirreno
+source_ids:
+- src-apublica-2026-03-reconstrucao-fraude-master
+excerpt: A Tirreno vendia créditos ao BRB por R$ 12,2 bilhões — embutindo um prêmio (lucro) ao banco.
+  O Master não precisava pagar a Tirreno à vista, mas recebia do BRB à vista.
+date: 2026-03
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

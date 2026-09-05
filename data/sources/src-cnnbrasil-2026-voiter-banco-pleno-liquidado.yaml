@@ -1,0 +1,22 @@
+id: src-cnnbrasil-2026-voiter-banco-pleno-liquidado
+kind: source
+title: Liquidado pelo BC, Banco Pleno é de ex-sócio de Vorcaro; entenda a relação
+publisher: CNN Brasil
+publication_date: 2026-02
+retrieved_at: '2026-09-04'
+url: https://www.cnnbrasil.com.br/economia/macroeconomia/liquidado-pelo-bc-banco-pleno-e-de-ex-socio-de-vorcaro-entenda-relacao/
+source_type: press
+summary: Reportagem sobre a trajetória do Banco Voiter, incorporado ao conglomerado Master no início de
+  2024, vendido em julho de 2025 a Augusto Ferreira Lima — ex-sócio de Vorcaro no Master, sócio até maio
+  de 2024 — passando a se chamar Banco Pleno, e liquidado por ato próprio do Banco Central em 18/02/2026,
+  por deterioração de risco e liquidez, sem relação formal declarada com o esquema do Master.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
