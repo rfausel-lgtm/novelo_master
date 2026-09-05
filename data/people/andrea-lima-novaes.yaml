@@ -1,0 +1,31 @@
+id: andrea-lima-novaes
+kind: person
+name: Andréa Lima Novaes
+category: businessperson
+role: Administradora de empresas; prima de Augusto Lima, segundo a imprensa
+positions: []
+summary: 'Empresária baiana, apontada pela imprensa (Metrópoles) como prima de Augusto Ferreira Lima —
+  grau exato de parentesco não especificado por nenhuma fonte. Administrou a PKL One Participações (CredCesta)
+  desde 2018 até ser substituída, em 16/07/2026, por Marcelo Antonio Bullos Cerqueira, sem explicação
+  causal localizada. É também administradora, por registro oficial da Receita Federal, da Ametrino Participações
+  (desde 2019, sócios: Diamond FIP–Multiestratégia e a própria PKL One Participações) e da Oandlig Participações
+  (desde 2023, junto com Ana Paula de Almeida Pithon, já conhecida no corpus como signatária de convênio
+  da PKL One com o governo do Amapá) — ambas com o mesmo fundo Diamond FIP como sócio. Administra ainda
+  a Novaes Comunicação Integrada (desde 1997, sem ligação aparente ao caso), a A3 Apoio Empresarial e
+  a Santos e Lima Consultoria em Gestão Empresarial.'
+why_in_novelo: É a administradora, por trás da PKL One Participações, do produto CredCesta — o veículo
+  pelo qual o Banco Master (antes Máxima) entrou na folha de servidores baianos —, e de uma rede societária
+  mais ampla que compartilha sócios (Diamond FIP, Ana Paula de Almeida Pithon) entre empresas do mesmo
+  entorno.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-minhareceita-2026-09-05-andrea-lima-novaes-empresas
+- src-minhareceita-2026-09-05-pkl-one-participacoes-cnpj
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

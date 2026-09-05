@@ -1,0 +1,20 @@
+id: ev-pf-prepara-indiciamento-vorcaro-phc-tanure
+kind: evidence
+classification: C
+proposition: A Polícia Federal concluiu, em agosto de 2026, o 'inquérito-mãe' (1ª fase, 18/11/2025) da
+  Operação Compliance Zero, preparando o indiciamento — ato da autoridade policial ao final do inquérito,
+  distinto de denúncia, que é ato do Ministério Público perante o Judiciário — de Daniel Vorcaro, Paulo
+  Henrique Costa (ex-presidente do BRB) e Nelson Tanure. O relatório final foi remetido ao MPF/PGR para
+  análise. Até 05/09/2026, não foi localizada nenhuma denúncia formal oferecida contra qualquer um dos
+  três no âmbito do núcleo do caso Master — distinto do processo Gafisa/Upcon, em que Tanure já é réu
+  por fatos não relacionados ao Master.
+document_ids: []
+source_ids:
+- src-dol-2026-08-05-vorcaro-paulo-henrique-indiciamento
+- src-metropoles-2026-08-pf-conclui-inquerito-indiciamento
+date: '2026-08-05'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

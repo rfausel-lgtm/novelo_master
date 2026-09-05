@@ -1,0 +1,20 @@
+id: ev-analise-estrategia-sufocamento-cpmi-master
+kind: evidence
+classification: I
+proposition: 'Segundo análise de cientistas políticas nomeadas (Yolanda Tolentino e Emerson Masullo),
+  a estratégia de Alcolumbre e Motta é de ''sufocamento por sobreposição de prioridades'': o calendário
+  eleitoral de 2026 consome o tema sem que seja preciso negar formalmente a instalação da CPMI. É leitura
+  interpretativa de analistas nomeados, não fato comprovado — não há declaração de Alcolumbre ou Motta
+  confirmando essa estratégia deliberada.'
+document_ids: []
+source_ids:
+- src-gazetadopovo-2026-06-25-motta-alcolumbre-calendario-eleitoral
+inference_basis: Leitura de duas cientistas políticas nomeadas sobre o padrão de comportamento observado
+  (ausência de leitura do requerimento coincidindo com o calendário eleitoral), sem declaração confirmatória
+  dos próprios atores políticos envolvidos.
+date: '2026-06-25'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

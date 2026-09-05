@@ -1,0 +1,22 @@
+id: src-stfnoticias-2026-03-26-plenario-rejeita-prorrogacao-cpmi-inss
+kind: source
+title: Plenário do STF rejeita prorrogação da CPMI do INSS
+publisher: STF Notícias
+publication_date: '2026-03-26'
+retrieved_at: '2026-09-05'
+url: https://noticias.stf.jus.br/postsnoticias/plenario-do-stf-rejeita-prorrogacao-da-cpmi-do-inss/
+source_type: official_court
+summary: 'Nota oficial do STF sobre o MS 40.799 (tema conexo — prorrogação da CPMI do INSS, não da CPMI
+  do Master), relator André Mendonça: liminar concedida em 23/03/2026, derrubada pelo Plenário em 26/03/2026
+  por maioria. Trecho literal do voto vencedor de Flávio Dino: ''Prazo certo não se compatibiliza com
+  essa ideia de prorrogações sucessivas.'''
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

@@ -1,0 +1,24 @@
+id: src-minhareceita-2026-09-05-pkl-one-participacoes-cnpj
+kind: source
+title: Registro cadastral da PKL One Participações S.A. — Receita Federal
+publisher: Receita Federal do Brasil
+publication_date: '2026-09-05'
+retrieved_at: '2026-09-05'
+url: https://minhareceita.org/27490629000113
+source_type: corporate_registry
+summary: 'Consulta direta ao CNPJ 27.490.629/0001-13: razão social ''PKL ONE PARTICIPACOES S.A.'', nome
+  fantasia ''CREDCESTA'' — confirma que ''PKL One'' (nome usado em reportagens sobre o Amapá) e ''PKL
+  One Participações S.A.'' (nome usado em reportagens sobre a Bahia e na decisão do TJRJ) são a mesma
+  pessoa jurídica. O QSA vigente na data da consulta traz apenas um diretor, Marcelo Antonio Bullos Cerqueira,
+  com entrada em 16/07/2026 — substituindo Andréa Lima Novaes, que agregadores privados (com dados aparentemente
+  defasados) ainda listam como diretora desde 2018.'
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

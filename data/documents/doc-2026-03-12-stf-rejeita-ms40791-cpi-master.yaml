@@ -1,0 +1,23 @@
+id: doc-2026-03-12-stf-rejeita-ms40791-cpi-master
+kind: document
+title: Decisão do STF rejeitando o MS 40.791 sobre instalação de CPI do Banco Master
+doc_type: judicial_decision
+date: '2026-03-12'
+source_ids:
+- src-stfnoticias-2026-03-12-stf-rejeita-cpi-master
+summary: Mandado de segurança de Rodrigo Rollemberg contra Hugo Motta (Câmara dos Deputados), rejeitado
+  por ausência de elementos suficientes para comprovar omissão ilegal.
+is_official: true
+related_entity_ids:
+- hugo-motta
+issuer_id: supremo-tribunal-federal
+issuer: STF (rel. Cristiano Zanin)
+date_precision: day
+url: https://noticias.stf.jus.br/postsnoticias/stf-rejeita-pedido-para-instalacao-de-cpi-do-banco-master/
+excerpt: Não há no processo elementos suficientes para comprovar omissão ilegal da presidência da Câmara
+  dos Deputados.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

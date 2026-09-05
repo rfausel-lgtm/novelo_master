@@ -1,0 +1,25 @@
+id: src-minhareceita-2026-09-05-andrea-lima-novaes-empresas
+kind: source
+title: Registros cadastrais de empresas de Andréa Lima Novaes — Receita Federal
+publisher: Receita Federal do Brasil
+publication_date: '2026-09-05'
+retrieved_at: '2026-09-05'
+url: https://minhareceita.org/31762632000116
+source_type: corporate_registry
+summary: 'Consulta direta aos CNPJs de seis empresas ligadas a Andréa Lima Novaes: Ametrino Participações
+  (31.762.632/0001-16, administradora desde 15/08/2019, sócios Diamond FIP–Multiestratégia e a própria
+  PKL One Participações, ambos desde 05/07/2019); Oandlig Participações (49.678.809/0001-66, administradora
+  conjunta com Ana Paula de Almeida Pithon desde 23/02/2023, sócio o mesmo Diamond FIP); Novaes Comunicação
+  Integrada (02.276.356/0001-88, sócia desde 1997, sem ligação aparente ao ecossistema Master); A3 Apoio
+  Empresarial (59.010.601/0001-28, única sócia desde 21/01/2025); e Santos e Lima Consultoria em Gestão
+  Empresarial (41.132.902/0001-69, sócia desde 18/08/2025).'
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

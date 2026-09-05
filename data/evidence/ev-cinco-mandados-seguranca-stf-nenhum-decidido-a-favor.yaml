@@ -1,0 +1,25 @@
+id: ev-cinco-mandados-seguranca-stf-nenhum-decidido-a-favor
+kind: evidence
+classification: D
+proposition: 'Há ao menos cinco mandados de segurança distintos no STF contra a omissão de Alcolumbre/Motta
+  em instalar a CPMI/CPI do Master — nenhum teve decisão de mérito favorável à instalação até a data desta
+  pesquisa: (1) MS 40.791 (Rollemberg, rel. Zanin), REJEITADO em 12/03/2026 por falta de elementos de
+  omissão ilegal; (2) MS de Kicis/Kataguiri/outros (11/03/2026), sem decisão de mérito localizada; (3)
+  MS de Vieira/Girão (25/03/2026, 53 assinaturas, rel. Nunes Marques), sem qualquer despacho por ao menos
+  125 dias até 28/07/2026, com pedido de redistribuição a Mendonça também não analisado; (4) MS de Kataguiri/Farias
+  (abril-maio/2026), distribuído a Mendonça, que declarou não ver ''urgência'' em decidir (12/05/2026);
+  (5) pedido de suspeição contra Nunes Marques, por sua proximidade com o senador Ciro Nogueira (citado
+  na Compliance Zero), REJEITADO pelo presidente do STF Edson Fachin em 03/06/2026 por razão puramente
+  processual (fora do prazo regimental de 5 dias), sem exame de mérito.'
+document_ids:
+- doc-2026-03-12-stf-rejeita-ms40791-cpi-master
+source_ids:
+- src-stfnoticias-2026-03-12-stf-rejeita-cpi-master
+- src-tribunadainternet-2026-07-28-nunes-marques-125-dias-silencio
+- src-cartacapital-2026-05-12-mendonca-sem-urgencia-cpi-master
+date: '2026-07-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

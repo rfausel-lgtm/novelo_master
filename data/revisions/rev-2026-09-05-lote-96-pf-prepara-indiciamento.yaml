@@ -1,0 +1,20 @@
+id: rev-2026-09-05-lote-96-pf-prepara-indiciamento
+kind: revision
+date: '2026-09-05'
+title: Lote 96 — a PF prepara o primeiro indiciamento formal no núcleo do caso Master
+summary: 'Confirmado, por levantamento de status da Operação Compliance Zero: a PF concluiu, em agosto
+  de 2026, o inquérito-mãe (1ª fase) e preparou indiciamento de Daniel Vorcaro, Paulo Henrique Costa (ex-BRB)
+  e Nelson Tanure, remetido ao MPF/PGR — ainda sem denúncia formal oferecida até 05/09/2026. As demais
+  frentes verificadas (fases 1-10 da operação, depoimento adiado de Jaques Wagner, crise Moraes-Mendonça
+  no STF, mudança de relatoria Toffoli→Mendonça) já estavam corretamente refletidas no corpus, sem necessidade
+  de atualização adicional.'
+affected_ids:
+- daniel-vorcaro
+- nelson-tanure
+- paulo-henrique-costa
+reason: Loop de investigação — verificação de status da Operação Compliance Zero.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

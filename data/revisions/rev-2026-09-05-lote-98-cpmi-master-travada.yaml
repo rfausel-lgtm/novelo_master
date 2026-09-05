@@ -1,0 +1,23 @@
+id: rev-2026-09-05-lote-98-cpmi-master-travada
+kind: revision
+date: '2026-09-05'
+title: 'Lote 98 — a CPMI do Master segue travada: cinco mandados de segurança, nenhum decidido a favor'
+summary: 'Atualizado o status da CPMI do Banco Master, parado no corpus desde 21/05/2026. Confirmado que,
+  até 13/07/2026 — sem indício de mudança até 05/09/2026 —, o requerimento (281 assinaturas) nunca foi
+  lido em sessão. Mapeados cinco mandados de segurança no STF contra a omissão de Alcolumbre/Motta: MS
+  40.791 rejeitado (Zanin); MS sob relatoria de Nunes Marques parado por ao menos 125 dias sem despacho;
+  MS distribuído a Mendonça, que declarou não ver urgência; pedido de suspeição contra Nunes Marques rejeitado
+  por Fachin por razão processual, sem mérito. Reafirmada, com fonte específica, a rejeição da prorrogação
+  da CPMI do INSS pelo Plenário do STF (tema conexo, já corretamente registrado no corpus). Registrada,
+  como leitura interpretativa de analistas — não fato — a hipótese de ''sufocamento por sobreposição de
+  prioridades'' via calendário eleitoral.'
+affected_ids:
+- davi-alcolumbre
+- nunes-marques
+- andre-mendonca
+reason: Loop de investigação — atualização de status da CPMI do Banco Master.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

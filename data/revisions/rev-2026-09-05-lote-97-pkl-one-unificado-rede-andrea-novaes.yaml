@@ -1,0 +1,26 @@
+id: rev-2026-09-05-lote-97-pkl-one-unificado-rede-andrea-novaes
+kind: revision
+date: '2026-09-05'
+title: 'Lote 97 — PKL One = PKL One Participações: identidade confirmada, e a rede de Andréa Lima Novaes'
+summary: 'Por CNPJ oficial (27.490.629/0001-13, nome fantasia CREDCESTA), confirmada a identidade entre
+  ''PKL One'' e ''PKL One Participações S.A.'' — os dois registros do corpus são unificados sob ''pkl-one-participacoes''.
+  Descartada definitivamente a hipótese de uma ''Milo Investimentos'' ligada a Augusto Lima — a única
+  com esse nome no ecossistema é da própria família Vorcaro, já registrada por outra via. Mapeada a rede
+  societária mais ampla de Andréa Lima Novaes (Ametrino e Oandlig Participações, ambas com o fundo Diamond
+  FIP e a própria PKL One Participações como sócios; Ana Paula de Almeida Pithon como sócia recorrente).
+  Registrado, com a devida cautela quanto à causa não estabelecida, um fato novo e não noticiado: a troca
+  do diretor da PKL One Participações em 16/07/2026. Confirmada, por CNPJ oficial, a diretoria atual da
+  Ebal (Gustavo Castro Lima Carlos de Souza e Luia Kruschewsky Monteiro), sem Augusto Lima ou Andréa no
+  quadro, e sem sinal de bloqueio ou alienação judicial da empresa.'
+affected_ids:
+- pkl-one-participacoes
+- empresa-baiana-de-alimentos
+- milo-investimentos
+- augusto-lima
+- banco-master
+reason: Loop de investigação — fechamento da lacuna 'Milo Investimentos' e unificação PKL One.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

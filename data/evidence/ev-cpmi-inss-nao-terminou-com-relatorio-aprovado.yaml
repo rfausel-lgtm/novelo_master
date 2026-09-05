@@ -1,0 +1,19 @@
+id: ev-cpmi-inss-nao-terminou-com-relatorio-aprovado
+kind: evidence
+classification: C
+proposition: 'Tema conexo, útil para não confundir: a CPMI do INSS (distinta da CPMI do Master, nunca
+  instalada) encerrou os trabalhos em 28/03/2026 ao fim do prazo de 180 dias, sem prorrogação — o STF
+  (Plenário, MS 40.799, 26/03/2026) derrubou a liminar do relator Mendonça que a prorrogaria. O relatório
+  final do deputado Alfredo Gaspar foi REJEITADO por 19 a 12 votos; um segundo relatório sequer foi votado.
+  Isso já constava corretamente registrado no corpus (ev-relatorio-da-cpmi-do-inss-foi-rejeitado); reafirmado
+  aqui com a fonte específica sobre a rejeição da prorrogação.'
+document_ids: []
+source_ids:
+- src-stfnoticias-2026-03-26-plenario-rejeita-prorrogacao-cpmi-inss
+- src-senado-2026-03-28-cpmi-inss-sem-relatorio
+date: '2026-03-26'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

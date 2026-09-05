@@ -1,0 +1,19 @@
+id: ev-milo-investimentos-sem-vinculo-augusto-lima-descartado
+kind: evidence
+classification: D
+proposition: Não existe 'Milo Investimentos', 'Milo Participações' ou variação plausível ligada a Augusto
+  Lima, Andréa Lima Novaes ou qualquer Kruschewsky — busca dirigida na Receita Federal encontrou apenas
+  a Milo Investimentos S.A. da própria família Vorcaro (pai Henrique e irmã Natália), já registrada no
+  corpus por via distinta (mercado de capitais, fundos de previdência, apuração rondoniense). Uma hipótese
+  de investigação anterior, registrada como 'não localizado', é aqui fechada definitivamente como sem
+  correspondência plausível — não apenas 'não encontrado desta vez'.
+document_ids:
+- doc-2026-09-05-cnpj-milo-investimentos-vorcaro
+source_ids:
+- src-minhareceita-2026-09-05-milo-investimentos-sem-vinculo-augusto
+date: '2026-09-05'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

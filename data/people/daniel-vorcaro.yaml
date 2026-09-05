@@ -105,33 +105,37 @@ open_questions:
   de 2026, por suspeita de planejar atos violentos contra opositores — motivo distinto do que o corpus
   registra para a prisão preventiva decretada pelo STF em 04/03/2026 (PET 15.556). A equipe não confirmou
   essa segunda razão em documento primário nem em segunda fonte.
+- A PF concluiu em agosto de 2026 o inquérito-mãe (1ª fase) e preparou indiciamento de Vorcaro, remetido
+  ao MPF/PGR — até 05/09/2026, sem denúncia formal oferecida no núcleo do caso Master.
 source_ids:
-- src-stf-2026-03-04-prisao-preventiva-vorcaro
-- src-stf-2026-03-20-segunda-turma-mantem-prisao
+- src-braziljournal-2021-12-23-master-outsider
 - src-cnn-2026-03-04-relembre-crise-master
-- src-ndmais-2026-09-02-vorcaro-alega-tortura
+- src-cnnbrasil-2026-06-15-pgr-rejeita-segunda-delacao-vorcaro
+- src-cnnbrasil-2026-09-04-vorcaro-poupar-moraes-terceira-delacao
 - src-contrapontoms-2026-09-02-investigadores-veem-teatro
-- src-poder360-2026-09-03-novo-pede-prisao-de-andrei
-- src-jbrasilia-2026-09-vorcaro-admite-ordens
+- src-dol-2026-08-05-vorcaro-paulo-henrique-indiciamento
+- src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
 - src-gazeta-2026-03-04-quem-e-lauro-jardim
-- src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
-- src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
-- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+- src-iclnoticias-2025-12-03-imoveis-superfaturados-fundos-de-pensao
 - src-infomoney-2026-03-18-liminar-bloqueio-bens
 - src-infomoney-2026-03-23-cerco-patrimonio-familiares
-- src-otempo-2026-01-10-justica-nega-conexao-vorcaro-carbono-oculto
-- src-ndmais-2026-09-04-vorcaro-terror-depoimento-pf
 - src-jbrasilia-2026-09-04-fachin-avoca-pedido-moraes-mendonca
-- src-cnnbrasil-2026-09-04-vorcaro-poupar-moraes-terceira-delacao
-- src-cnnbrasil-2026-06-15-pgr-rejeita-segunda-delacao-vorcaro
-- src-poder360-2026-09-02-pgr-aceita-delacao-mansur
-- src-otempo-2026-06-22-como-vorcaro-ficou-rico
-- src-iclnoticias-2025-12-03-imoveis-superfaturados-fundos-de-pensao
-- src-braziljournal-2021-12-23-master-outsider
-- src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
-- src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
+- src-jbrasilia-2026-09-vorcaro-admite-ordens
 - src-metropoles-2026-02-17-pf-reexamina-pericias-fundos
+- src-metropoles-2026-08-pf-conclui-inquerito-indiciamento
 - src-metropoles-2026-09-vorcaro-depoimento-papudinha-bastidores
+- src-ndmais-2026-09-02-vorcaro-alega-tortura
+- src-ndmais-2026-09-04-vorcaro-terror-depoimento-pf
+- src-otempo-2026-01-10-justica-nega-conexao-vorcaro-carbono-oculto
+- src-otempo-2026-06-22-como-vorcaro-ficou-rico
+- src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
+- src-poder360-2026-09-02-pgr-aceita-delacao-mansur
+- src-poder360-2026-09-03-novo-pede-prisao-de-andrei
+- src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
+- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+- src-stf-2026-03-04-prisao-preventiva-vorcaro
+- src-stf-2026-03-20-segunda-turma-mantem-prisao
+- src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
 - src-timesbrasil-2026-05-08-tether-cobra-titan-holding
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
@@ -139,7 +143,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-04'
+updated_at: '2026-09-05'
 photo:
   path: /fotos/daniel-vorcaro.jpg
   source: Wikimedia Commons

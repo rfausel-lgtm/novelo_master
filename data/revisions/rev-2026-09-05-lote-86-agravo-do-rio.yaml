@@ -13,11 +13,10 @@ summary: 'Obtidas as cinco publicações do agravo nº 3000060-09.2026.8.19.0000
   ao Supremo, o que levou o tribunal estadual a julgar o agravo prejudicado. Registrada a provável duplicação
   de registros da PKL no próprio corpus.'
 affected_ids:
-- banco-master
-- rioprevidencia
-- pkl-one-participacoes
-- pkl-one
 - amapa-previdencia
+- banco-master
+- pkl-one-participacoes
+- rioprevidencia
 reason: Pedido de obtenção do agravo do TJ-RJ.
 review_status: published
 reviewer: orquestrador

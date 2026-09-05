@@ -1,0 +1,22 @@
+id: src-stfnoticias-2026-03-12-stf-rejeita-cpi-master
+kind: source
+title: STF rejeita pedido para instalação de CPI do Banco Master
+publisher: STF Notícias
+publication_date: '2026-03-12'
+retrieved_at: '2026-09-05'
+url: https://noticias.stf.jus.br/postsnoticias/stf-rejeita-pedido-para-instalacao-de-cpi-do-banco-master/
+source_type: official_court
+summary: 'Nota oficial do STF sobre o MS 40.791 (Rodrigo Rollemberg contra Hugo Motta, Câmara), relator
+  Cristiano Zanin, rejeitado em 12/03/2026. Trecho literal: ''não há no processo elementos suficientes
+  para comprovar omissão ilegal da presidência da Câmara dos Deputados e afirmou que a questão deve ser
+  analisada no âmbito do próprio Poder Legislativo.'''
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

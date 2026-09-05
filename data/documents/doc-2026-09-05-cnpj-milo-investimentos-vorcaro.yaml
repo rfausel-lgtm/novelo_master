@@ -1,0 +1,21 @@
+id: doc-2026-09-05-cnpj-milo-investimentos-vorcaro
+kind: document
+title: Registro cadastral da Milo Investimentos S.A. na Receita Federal
+doc_type: corporate_record
+date: '2026-09-05'
+source_ids:
+- src-minhareceita-2026-09-05-milo-investimentos-sem-vinculo-augusto
+summary: CNPJ 11.459.904/0001-04, diretoria formada por Henrique Moura Vorcaro e Natália Bueno Vorcaro
+  Zettel — sem qualquer nome do círculo de Augusto Lima no quadro societário.
+is_official: true
+related_entity_ids:
+- milo-investimentos
+- augusto-lima
+issuer: Receita Federal do Brasil
+date_precision: day
+url: https://minhareceita.org/11459904000104
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

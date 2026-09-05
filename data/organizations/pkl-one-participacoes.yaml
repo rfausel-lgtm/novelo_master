@@ -1,32 +1,44 @@
 id: pkl-one-participacoes
 kind: organization
 name: PKL One Participações S.A.
-aliases: []
+aliases:
+- CREDCESTA (nome fantasia)
+- PKL One
 org_type: company
-summary: Sociedade que passou a deter os direitos de exploração do CredCesta após a privatização da EBAL,
-  e da qual o Banco Máxima — depois Banco Master — adquiriu 50%. É o nome que aparece no contracheque
-  dos servidores baianos, e não 'CredCesta' ou 'Banco Master' — o que ajuda a explicar por que muitos
-  não identificavam a origem do desconto. Seus sócios estão sob sigilo na Junta Comercial de São Paulo.
-  A quebra de sigilo da empresa foi aprovada pela CPMI do INSS no fim de fevereiro de 2026 e suspensa
-  por decisão do ministro Flávio Dino.
-why_in_novelo: Detentora dos direitos do CredCesta e sociedade por meio da qual o Banco Master entrou
-  na folha dos servidores baianos.
+summary: Sociedade (CNPJ 27.490.629/0001-13, nome fantasia CREDCESTA), confirmada por registro oficial
+  da Receita Federal como a mesma pessoa jurídica referida em reportagens ora como 'PKL One' (disputa
+  de repasses em Macapá), ora como 'PKL One Participações S.A.' (operação na Bahia e decisão do TJRJ)
+  — os dois registros que o corpus mantinha separados são aqui unificados. Passou a deter os direitos
+  de exploração do CredCesta após a privatização da Ebal, e da qual o Banco Máxima — depois Banco Master
+  — adquiriu 50%. É o nome que aparece no contracheque dos servidores baianos, e não 'CredCesta' ou 'Banco
+  Master' — o que ajuda a explicar por que muitos não identificavam a origem do desconto. Administrada
+  por Andréa Lima Novaes, apontada pela imprensa como prima de Augusto Lima, até ser substituída, em 16/07/2026,
+  por Marcelo Antonio Bullos Cerqueira — troca sem explicação causal localizada. Está em disputa judicial
+  com o liquidante do Banco Master pelos repasses do Credcesta relativos à folha de servidores da Prefeitura
+  de Macapá, sob contrato aditado em 11/08/2025, já sob a liquidação do banco. Na cautelar do Rio, o Estado
+  e o Rioprevidência sustentam que o Master e a PKL One administravam de forma conjunta as carteiras de
+  crédito consignado, com indícios de possível grupo econômico — alegação dos autores, sem reconhecimento
+  judicial no material lido. A quebra de sigilo societário foi aprovada pela CPMI do INSS no fim de fevereiro
+  de 2026 e suspensa por decisão do ministro Flávio Dino.
+why_in_novelo: É a sociedade que detém os direitos do CredCesta e por meio da qual o Banco Master (antes
+  Máxima) entrou na folha dos servidores baianos — também em disputa judicial com o liquidante do banco
+  sobre repasses relativos à folha de Macapá.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- 'A composição societária da PKL One não é pública: os sócios estão sob sigilo na Junta Comercial de
-  São Paulo, e a quebra aprovada pela CPMI do INSS foi suspensa por decisão do STF.'
 - 'Há divergência sobre o valor pago pelo Banco Máxima pelos 50%: o Poder360 registra R$ 22 milhões; outra
   apuração, de veículo de menor confiabilidade, fala em R$ 30 milhões com retenção de 50% por Augusto
   Lima. A equipe não conciliou as versões.'
-- O corpus mantém dois registros distintos para o que provavelmente é a mesma empresa — 'PKL One' e 'PKL
-  One Participações S.A.' —, descritos a partir de reportagens sobre operações diferentes, no Amapá e
-  na Bahia. A decisão judicial do Rio nomeia a parte como PKL One Participações S.A. A equipe não localizou
-  o CNPJ que permitiria confirmar a identidade e unificar os registros.
+- A composição societária completa (acionistas, não apenas o diretor/representante legal) segue sob sigilo
+  na Junta Comercial de São Paulo; a quebra aprovada pela CPMI do INSS foi suspensa por decisão do STF.
+- A troca do diretor da PKL One Participações em 16/07/2026, de Andréa Lima Novaes para Marcelo Antonio
+  Bullos Cerqueira, não tem explicação causal localizada em nenhuma fonte.
 source_ids:
-- src-poder360-2026-credcesta-arquitetura-e-privatizacao
 - src-djen-cnj-agravo-3000060-09-2026-tjrj
+- src-metropoles-2026-08-15-pkl-one-credcesta-macapa
+- src-minhareceita-2026-09-05-pkl-one-participacoes-cnpj
+- src-poder360-2026-credcesta-arquitetura-e-privatizacao
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

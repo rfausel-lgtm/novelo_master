@@ -1,0 +1,22 @@
+id: ametrino-participacoes
+kind: organization
+name: Ametrino Participações
+aliases: []
+org_type: company
+summary: 'Holding sediada em Salvador/BA (CNPJ 31.762.632/0001-16), administrada por Andréa Lima Novaes
+  desde 15/08/2019. Sócios: o Diamond Fundo de Investimento em Participações–Multiestratégia e a própria
+  PKL One Participações S.A. (CredCesta), ambos desde 05/07/2019 — achado novo que confirma participação
+  societária formal da PKL One Participações nesta holding.'
+why_in_novelo: É uma das empresas que compõem a rede societária mais ampla de Andréa Lima Novaes, administradora
+  do CredCesta, com participação formal da própria PKL One Participações como sócia.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-minhareceita-2026-09-05-andrea-lima-novaes-empresas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

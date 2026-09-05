@@ -1,0 +1,22 @@
+id: oandlig-participacoes
+kind: organization
+name: Oandlig Participações
+aliases: []
+org_type: company
+summary: 'Holding sediada em Salvador/BA (CNPJ 49.678.809/0001-66), administrada conjuntamente por Andréa
+  Lima Novaes e Ana Paula de Almeida Pithon desde 23/02/2023. Sócio: o mesmo Diamond Fundo de Investimento
+  em Participações–Multiestratégia presente na Ametrino Participações.'
+why_in_novelo: Confirma que Ana Paula de Almeida Pithon — já conhecida no corpus como signatária de convênio
+  da PKL One com o governo do Amapá — é sócia recorrente de Andréa Lima Novaes, não apenas prestadora
+  eventual de serviço.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-minhareceita-2026-09-05-andrea-lima-novaes-empresas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'
