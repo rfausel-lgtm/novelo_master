@@ -2,7 +2,7 @@ import Link from "next/link";
 import { allRevisions, corpus, entityHref, entityName, stats, lastUpdated } from "@/lib/data";
 import { excerptOf, safeJsonLd, siteJsonLd } from "@/lib/pages";
 import { formatDateTimeBRT, formatNumber, formatPartialDate } from "@/lib/format";
-import { Logo } from "@/components/ui/Logo";
+import { LogoAnimado } from "@/components/ui/LogoAnimado";
 import { EVIDENCE_CLASS_LABEL, type EvidenceClass } from "@/lib/schema";
 
 const STATS: { key: keyof typeof stats; label: string }[] = [
@@ -88,7 +88,7 @@ export default function HomePage() {
       <div aria-hidden="true" className="novelo-hero-veil pointer-events-none absolute inset-0" />
       <Background />
       <section className="relative mx-auto flex w-full max-w-4xl flex-1 flex-col items-center justify-center px-6 py-16 text-center sm:py-24">
-        <Logo className="h-16 w-16" />
+        <LogoAnimado size={77} />
         <h1 className="text-fg mt-6 text-3xl font-semibold tracking-[0.2em] uppercase sm:text-4xl">
           O Novelo Master
         </h1>

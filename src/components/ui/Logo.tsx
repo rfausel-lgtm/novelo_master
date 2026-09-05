@@ -2,11 +2,20 @@
  * Marca: o "O" formado por nós e conexões (rede sendo desfeita).
  * Sem desenho literal de novelo.
  */
-export function Logo({ className = "h-8 w-8", title = "O Novelo Master" }: { className?: string; title?: string }) {
+export function Logo({
+  className = "h-8 w-8",
+  title = "O Novelo Master",
+  style,
+}: {
+  className?: string;
+  title?: string;
+  style?: React.CSSProperties;
+}) {
   return (
     <svg
       viewBox="0 0 64 64"
       className={className}
+      style={style}
       role="img"
       aria-label={title}
       fill="none"

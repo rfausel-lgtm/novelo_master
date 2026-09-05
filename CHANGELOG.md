@@ -660,6 +660,14 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Alterado
 
+- A marca no topo da página inicial passou a girar no eixo vertical, como um globo: 22 nós numa
+  esfera, ligados, com o mesmo ponto verde único no centro que o logo já tinha, a 77 px (20% maior
+  que os 64 anteriores). Os nós vão numa esfera, e não no heptágono plano do logo, porque um anel
+  plano girando em torno do eixo vertical vira uma moeda de perfil duas vezes por volta.
+  São ~1,5 KB de código e nenhum arquivo novo: um GIF exigiria dois arquivos (claro e escuro), com
+  transparência de 1 bit, e ainda assim não acompanharia a troca de tema nem o movimento reduzido.
+  O SVG estático continua sendo o que o servidor renderiza, o que aparece sem JavaScript e o que
+  fica quando o sistema pede menos movimento; o cabeçalho segue com ele.
 - A aba "Perguntar" virou **"Sua IA responde"**, no cabeçalho, no rodapé e no título da página.
   "Perguntar" não dizia a quem, e a página não é um chat do site: é o acervo levado ao assistente do
   próprio leitor. O endereço continua `/perguntar` — já está no prompt do acervo, no `llms.txt` e no
