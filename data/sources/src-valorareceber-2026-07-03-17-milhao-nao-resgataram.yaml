@@ -1,0 +1,22 @@
+id: src-valorareceber-2026-07-03-17-milhao-nao-resgataram
+kind: source
+title: 1,7 milhão de clientes e investidores ainda não resgataram dinheiro do FGC
+publisher: Valor a Receber
+publication_date: '2026-07-03'
+retrieved_at: '2026-09-05'
+url: https://www.valorareceber.com.br/17-milhao-de-clientes-e-investidores-ainda-nao-resgataram-dinheiro-do-fgc/
+source_type: press
+summary: 'Reportagem sobre o estágio do processo de pagamento em 03/07/2026: 1,7 milhão de pessoas ainda
+  não haviam resgatado cerca de R$ 2,2 bilhões, concentrados majoritariamente entre credores do Will Bank
+  (apenas 19% dos credores com valores até R$ 1 mil haviam solicitado a garantia), enquanto 2,5 milhões
+  de clientes já haviam recebido cerca de 95,71% do valor devido.'
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

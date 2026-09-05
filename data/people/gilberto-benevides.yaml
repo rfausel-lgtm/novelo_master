@@ -1,0 +1,27 @@
+id: gilberto-benevides
+kind: person
+name: Gilberto Benevides
+category: businessperson
+role: Ex-controlador da Upcon
+positions: []
+summary: Empresário, ex-controlador da Upcon (titular de 82,94% do capital), corréu de Nelson Tanure na
+  ação penal sobre uso de informação privilegiada na aquisição da empresa pela Gafisa. Segundo a denúncia
+  do MPF, teria coordenado com Tanure a inflação do capital social da Upcon dias antes do laudo de avaliação
+  da operação, tomando empréstimo formal da corretora Planner enquanto o lastro real dos recursos teria
+  vindo do próprio Tanure via fundo Singular Plus. Réu desde 28/01/2026, junto com Tanure, perante a 5ª
+  Vara Criminal Federal de São Paulo. Nenhuma manifestação de defesa atribuída a ele foi localizada pela
+  equipe.
+why_in_novelo: É corréu de Nelson Tanure na única ação penal em que o empresário já figura como réu —
+  distinta do caso Master, mas relevante para o perfil processual de um investigado do caso.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-otempo-2026-01-29-tanure-reu-outra-fraude
+- src-seudinheiro-2026-entenda-denuncia-tanure-gafisa-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

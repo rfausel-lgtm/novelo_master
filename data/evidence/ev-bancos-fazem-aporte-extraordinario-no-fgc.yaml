@@ -1,0 +1,18 @@
+id: ev-bancos-fazem-aporte-extraordinario-no-fgc
+kind: evidence
+classification: C
+proposition: 'Os bancos associados fizeram aporte extraordinário no FGC via antecipação de contribuições
+  ordinárias já devidas — não um empréstimo externo ao fundo —, parcelado entre março de 2026 e março
+  de 2028. O valor do aporte aparece com variação entre fontes: R$ 32,2-32,5 bilhões (Agência Brasil,
+  referente à primeira parcela de março/2026) e R$ 44,4 bilhões (Metrópoles, valor total programado até
+  2028) — diferença não reconciliada explicitamente por nenhuma fonte, mas compatível com escopos temporais
+  distintos.'
+document_ids: []
+source_ids:
+- src-metropoles-2026-05-27-master-baixou-liquidez-fgc
+- src-agenciabrasil-2026-01-29-fgc-325bi-75pct
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

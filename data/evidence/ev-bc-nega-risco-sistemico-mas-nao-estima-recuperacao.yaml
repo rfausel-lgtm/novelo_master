@@ -1,0 +1,20 @@
+id: ev-bc-nega-risco-sistemico-mas-nao-estima-recuperacao
+kind: evidence
+classification: C
+proposition: O Banco Central, em Relatório de Estabilidade Financeira de maio de 2026, concluiu que a
+  liquidação do conglomerado Master 'não gerou efeitos sistêmicos no SFN', com os recursos dos clientes
+  ressarcidos migrando majoritariamente (R$ 20,77 bilhões) para instituições de maior porte. Nenhuma fonte
+  localizada pela equipe — nem o BC, nem o FGC, nem o liquidante EFB Regimes Especiais — apresenta estimativa
+  numérica de quanto do valor pago pelo FGC será recuperado na liquidação da massa falida do Master; a
+  literatura disponível trata a recuperação apenas como 'incerta'.
+document_ids: []
+source_ids:
+- src-bcb-2026-05-relatorio-estabilidade-financeira
+- src-correiobraziliense-2026-05-bc-sem-risco-sistemico
+- src-agenciabrasil-2026-05-dinheiro-migrou-bancos-maiores
+date: 2026-05
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

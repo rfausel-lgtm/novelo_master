@@ -1,0 +1,20 @@
+id: ev-augusto-lima-controla-asteba-asseba-por-procuracao
+kind: evidence
+classification: C
+proposition: 'Augusto Lima, ex-CEO e ex-sócio do Banco Master, é procurador da Asteba e da Asseba perante
+  instituições financeiras, com poderes para movimentar recursos — segundo a Polícia Federal, não é dirigente
+  estatutário de nenhuma das duas (esses cargos são ocupados por Nanci Maria Prates Pereira e Maria Helena
+  Santos Ferreira, respectivamente). O vínculo é sustentado por evidência documental: ambas as associações
+  registraram na Receita Federal o mesmo e-mail de contabilidade (''contabilidade@grupoterrafirme.com.br''),
+  pertencente à Terra Firme da Bahia Ltda, empresa de propriedade exclusiva de Augusto Lima; a Asseba
+  e a Terra Firme compartilham também o mesmo telefone de cadastro.'
+document_ids: []
+source_ids:
+- src-jornaldebrasilia-2026-04-11-associacoes-baianas-creditos-falsos
+- src-otempo-2026-04-11-master-pagou-associacoes-creditos-suspeitos
+- src-bahiaba-2026-pf-liga-email-associacoes-augusto-lima
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

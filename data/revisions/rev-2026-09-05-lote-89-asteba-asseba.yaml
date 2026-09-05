@@ -1,0 +1,24 @@
+id: rev-2026-09-05-lote-89-asteba-asseba
+kind: revision
+date: '2026-09-05'
+title: 'Lote 89 — Asteba e Asseba: as associações por trás dos créditos fabricados da Tirreno'
+summary: 'Identificadas com precisão as ''duas associações de servidores da Bahia'' que o Banco Master,
+  em ofício ao Banco Central de 25/03/2025, apontou como origem dos créditos de R$ 12,2 bilhões revendidos
+  ao BRB pela Tirreno (lote 87): são a Asteba e a Asseba, as mesmas associações investigadas na Operação
+  Compliance Zero por R$ 6,7 bilhões em consignado incompatível com suas mensalidades. Documentado o vínculo
+  de controle de Augusto Lima sobre ambas, por procuração e por compartilhamento de e-mail/telefone com
+  empresa de sua propriedade exclusiva (Terra Firme da Bahia). A identificação nominal apoia-se em duas
+  reportagens (Jornal de Brasília e O Tempo) que parecem derivar da mesma peça policial — registrado explicitamente
+  como limite da força probatória da convergência. Não localizados: contrato formal entre as associações
+  e o Master/Tirreno, o texto literal do ofício de 25/03/2025, e manifestação de defesa das associações.'
+affected_ids:
+- tirreno
+- augusto-lima
+- banco-master
+- credcesta
+reason: Loop de investigação de 3 horas — fechamento do elo Tirreno/Compliance Zero via Asteba/Asseba.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

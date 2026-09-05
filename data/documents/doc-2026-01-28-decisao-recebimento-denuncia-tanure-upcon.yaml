@@ -1,0 +1,23 @@
+id: doc-2026-01-28-decisao-recebimento-denuncia-tanure-upcon
+kind: document
+title: Decisão de recebimento da denúncia contra Nelson Tanure e Gilberto Benevides — caso Upcon/Gafisa
+doc_type: judicial_decision
+date: '2026-01-28'
+source_ids:
+- src-otempo-2026-01-29-tanure-reu-outra-fraude
+summary: Decisão que recebeu a denúncia do MPF, tornando Tanure e Benevides réus por suposto uso de informação
+  privilegiada na aquisição da Upcon pela Gafisa. A equipe não teve acesso aos autos — processo em segredo
+  de justiça — e conhece o teor da decisão apenas pela citação de trecho feita pela imprensa.
+is_official: true
+related_entity_ids:
+- nelson-tanure
+- gafisa
+- upcon
+issuer: 5ª Vara Criminal Federal de São Paulo (juíza Maria Isabel do Prado)
+date_precision: day
+excerpt: A acusação está baseada em provas da existência de fato que, em tese, caracteriza infração penal.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

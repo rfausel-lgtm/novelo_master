@@ -1,0 +1,21 @@
+id: ev-asteba-asseba-sao-as-associacoes-citadas-ao-bc
+kind: evidence
+classification: C
+proposition: A Asteba e a Asseba são as 'duas associações de servidores da Bahia' que o Banco Master,
+  em ofício ao Banco Central de 25/03/2025, apontou como originadoras dos créditos de R$ 12,2 bilhões
+  revendidos ao BRB pela Tirreno. A identificação nominal não consta da reportagem-base da Agência Pública
+  sobre a Tirreno, que fala apenas em 'duas associações' sem nomeá-las — vem de duas reportagens posteriores
+  (Jornal de Brasília e O Tempo, ambas de 11/04/2026), que citam a mesma representação da Polícia Federal
+  com formulação quase idêntica, o que sugere fonte comum (a peça policial) mais do que apuração jornalística
+  duplamente independente.
+document_ids: []
+source_ids:
+- src-jornaldebrasilia-2026-04-11-associacoes-baianas-creditos-falsos
+- src-otempo-2026-04-11-master-pagou-associacoes-creditos-suspeitos
+- src-apublica-2026-03-reconstrucao-fraude-master
+date: '2025-03-25'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

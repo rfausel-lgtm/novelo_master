@@ -3,25 +3,37 @@ kind: organization
 name: ASSEBA — Associação dos Servidores da Saúde do Estado da Bahia
 aliases: []
 org_type: association
-summary: Associação de servidores da saúde do Estado da Bahia, apontada como ligada a Augusto Ferreira
-  Lima. Segundo relatório do Coaf enviado à CPI do Crime Organizado e revelado pelo Estadão, recebeu R$
-  140,1 milhões do Estado entre maio de 2024 e novembro de 2025 — R$ 65 milhões diretos da Secretaria
-  da Fazenda e R$ 74,1 milhões via fundos previdenciários —, tendo repassado R$ 101,3 milhões ao Banco
-  Master e R$ 21,7 milhões a empresas de Lima. O Coaf classifica o fluxo como atípico. O governo baiano
-  sustenta que os valores são descontos em folha de taxa de associação autorizados pelos próprios servidores,
-  e não recursos do erário.
+summary: 'Associação de servidores da saúde do Estado da Bahia (CNPJ 34.435.214/0001-02, aberta em 12/04/1991),
+  apontada como ligada a Augusto Ferreira Lima. Segundo relatório do Coaf enviado à CPI do Crime Organizado
+  e revelado pelo Estadão, recebeu R$ 140,1 milhões do Estado entre maio de 2024 e novembro de 2025 —
+  R$ 65 milhões diretos da Secretaria da Fazenda e R$ 74,1 milhões via fundos previdenciários —, tendo
+  repassado R$ 101,3 milhões ao Banco Master e R$ 21,7 milhões a empresas de Lima. O Coaf classifica o
+  fluxo como atípico. O governo baiano sustenta que os valores são descontos em folha de taxa de associação
+  autorizados pelos próprios servidores, e não recursos do erário. Segundo a Polícia Federal, Augusto
+  Lima não é dirigente estatutário da Asseba (cargo ocupado por Maria Helena Santos Ferreira), mas seu
+  procurador perante instituições financeiras, com poderes para movimentar recursos; a associação compartilha
+  com a Terra Firme da Bahia Ltda, empresa de propriedade exclusiva de Lima, o mesmo e-mail de contabilidade
+  e telefone de cadastro na Receita Federal. Foi citada pelo Banco Master, em ofício ao Banco Central
+  de 25/03/2025, como originadora — junto com a Asteba — dos créditos de R$ 12,2 bilhões revendidos ao
+  BRB via Tirreno, explicação que não se sustentou: CPFs de todo o país foram usados para simular a origem
+  dos contratos. Recebeu R$ 2,3 milhões do Master entre 2022 e 2025, segundo a PF.'
 why_in_novelo: Associação por meio da qual, segundo relatório do Coaf, transitaram R$ 140,1 milhões entre
-  o Estado da Bahia e o Banco Master.
+  o Estado da Bahia e o Banco Master — e que a PF aponta, junto com a Asteba, como origem fictícia citada
+  pelo Master para os créditos de R$ 12,2 bilhões revendidos ao BRB pela Tirreno.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- Não há manifestação da própria ASSEBA no corpus, nem denúncia ou decisão de mérito sobre os repasses.
+- Não há manifestação da própria ASSEBA no corpus sobre a alegação da PF de que serviu de origem fictícia
+  para os créditos da Tirreno, nem denúncia ou decisão de mérito sobre os repasses do Coaf.
 source_ids:
-- src-oeste-2026-04-10-coaf-repasses-asseba
+- src-bahiaba-2026-pf-liga-email-associacoes-augusto-lima
 - src-bahianoticias-2026-04-11-governo-nega-transferencia-asseba
+- src-jornaldebrasilia-2026-04-11-associacoes-baianas-creditos-falsos
+- src-oeste-2026-04-10-coaf-repasses-asseba
+- src-otempo-2026-04-11-master-pagou-associacoes-creditos-suspeitos
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-05'

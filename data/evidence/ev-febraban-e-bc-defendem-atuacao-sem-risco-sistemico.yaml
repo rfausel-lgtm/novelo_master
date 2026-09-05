@@ -1,0 +1,21 @@
+id: ev-febraban-e-bc-defendem-atuacao-sem-risco-sistemico
+kind: evidence
+classification: C
+proposition: Febraban, ABBC, Acrefi e Zetta — associações representando mais de 100 instituições financeiras,
+  cerca de 90% do setor e 98% dos ativos do sistema — divulgaram nota conjunta em apoio à atuação do Banco
+  Central na liquidação do Master, afirmando que 'o regulador tem o mandato legal e o dever inescapável
+  de agir em favor da resiliência'. O presidente do BC, Gabriel Galípolo, declarou que 'um banco S3, na
+  terceira divisão do sistema financeiro, não oferece risco sistêmico', e recusou ampliar a cobertura
+  do FGC para investidores institucionais, afirmando ter 'receio de provocar uma distorção sobre o que
+  é a finalidade do FGC'.
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-associacoes-financeiras-nota-apoio-bc
+- src-metropoles-2026-05-27-master-baixou-liquidez-fgc
+- src-correiobraziliense-2026-05-bc-sem-risco-sistemico
+date: 2026-05
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

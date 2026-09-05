@@ -1,0 +1,20 @@
+id: ev-tanure-reu-upcon-processo-sigiloso
+kind: evidence
+classification: C
+proposition: Nelson Tanure e Gilberto Benevides são réus, desde 28/01/2026, por suposto uso de informação
+  privilegiada na aquisição da Upcon pela Gafisa (processo 5008069-89.2023.4.03.6181, 5ª Vara Criminal
+  Federal de São Paulo). Ao contrário do presumido inicialmente pela equipe, o processo tramita em SEGREDO
+  DE JUSTIÇA — confirmado por declaração da própria defesa de Tanure ('a ação tramita em sigilo') e pela
+  ausência de indexação nos sistemas públicos consultados (PJe do TRF3). Isso significa que o acesso aos
+  autos não está disponível por certificado digital a quem não seja parte no processo.
+document_ids:
+- doc-2026-01-28-decisao-recebimento-denuncia-tanure-upcon
+source_ids:
+- src-otempo-2026-01-29-tanure-reu-outra-fraude
+- src-metropoles-2026-justica-sp-envia-toffoli-acao-tanure
+date: '2026-01-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

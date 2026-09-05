@@ -1,0 +1,18 @@
+id: ev-atraso-reclamacoes-pagamento-fgc-willbank
+kind: evidence
+classification: A
+proposition: Houve aumento de reclamações registradas por clientes sobre o processo de pagamento do FGC,
+  concentradas no Will Bank a partir de 17/01/2026 — instabilidade no aplicativo, erro técnico ('FRD000')
+  impedindo acesso à antecipação da garantia, e atraso na divulgação da lista de credores além do prazo
+  regimental de 30 dias úteis. Em 03/07/2026, 1,7 milhão de pessoas ainda não haviam resgatado cerca de
+  R$ 2,2 bilhões, a maior parte credores do Will Bank.
+document_ids: []
+source_ids:
+- src-valorareceber-2026-07-03-17-milhao-nao-resgataram
+attributed_to: Reclamações de clientes reportadas por veículos de imprensa
+date: '2026-07-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

@@ -1,0 +1,26 @@
+id: rev-2026-09-05-lote-91-tanure-reu-upcon
+kind: revision
+date: '2026-09-05'
+title: 'Lote 91 — Tanure réu na Gafisa: a denúncia por informação privilegiada na compra da Upcon'
+summary: 'Aprofundado o processo penal distinto do caso Master em que Nelson Tanure é réu desde 28/01/2026,
+  junto com Gilberto Benevides (ex-controlador da Upcon): uso de informação privilegiada na aquisição
+  da Upcon pela Gafisa (2019-2020), pena máxima de 5 anos, compatível com o art. 27-D da Lei 6.385/76.
+  ACHADO QUE CORRIGE PREMISSA DA EQUIPE: o processo 5008069-89.2023.4.03.6181 tramita em SEGREDO DE JUSTIÇA,
+  confirmado por declaração da própria defesa e pela ausência de indexação pública — não está acessível
+  por certificado digital a quem não seja parte, ao contrário do presumido na lista de processos prioritários
+  fornecida anteriormente. Documentado o mecanismo alegado pelo MPF (inflação do capital da Upcon, uso
+  de offshores e do fundo Singular Plus) e a rejeição, por Toffoli, da conexão com o caso Master. Não
+  localizado: PAS específico da CVM sobre a alegação de insider trading na Upcon (distinto do PAS de 2024
+  sobre tratamento desigual entre acionistas, que é outra matéria), e qualquer andamento processual entre
+  janeiro e setembro de 2026.'
+affected_ids:
+- nelson-tanure
+- gafisa
+- upcon
+- gilberto-benevides
+reason: Loop de investigação de 3 horas — aprofundamento do processo Gafisa/Upcon de Nelson Tanure.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

@@ -1,0 +1,21 @@
+id: src-monitordomercado-2026-fgc-deficit-171bi
+kind: source
+title: FGC registra déficit de R$ 17,1 bi em 2025 após caso Banco Master
+publisher: Monitor do Mercado
+publication_date: '2026'
+retrieved_at: '2026-09-05'
+url: https://monitordomercado.com.br/noticias/378749-fgc-registra-deficit-de-r-171-bi-em-2025-apos-caso-banco-master/
+source_type: press
+summary: Reportagem sobre o déficit contábil de R$ 17,1 bilhões do FGC em 2025; patrimônio líquido caiu
+  de R$ 140,4 bilhões (2024) para R$ 123,2 bilhões (fim de 2025) e para R$ 118,5 bilhões em março de 2026,
+  mesmo após o aporte extraordinário dos bancos associados.
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

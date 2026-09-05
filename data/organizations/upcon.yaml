@@ -1,0 +1,23 @@
+id: upcon
+kind: organization
+name: Upcon
+aliases: []
+org_type: company
+summary: Empresa cuja aquisição pela Gafisa, em 2019-2020, é objeto da ação penal em que Nelson Tanure
+  e Gilberto Benevides — então controlador da Upcon — são réus por suposto uso de informação privilegiada.
+  Segundo a denúncia do MPF, o capital social da Upcon teria sido inflado de R$ 10 milhões para R$ 160,8
+  milhões dias antes do laudo de avaliação que definiu a quantidade de ações da Gafisa entregues em pagamento
+  pela operação.
+why_in_novelo: É o ativo cuja aquisição originou a única ação penal em que Nelson Tanure, hoje investigado
+  no caso Master, já figura como réu.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-seudinheiro-2026-entenda-denuncia-tanure-gafisa-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

@@ -1,0 +1,24 @@
+id: rev-2026-09-05-lote-90-exposicao-fgc
+kind: revision
+date: '2026-09-05'
+title: 'Lote 90 — o preço sistêmico: a exposição consolidada do FGC ao ecossistema Master'
+summary: 'Criada a organização Fundo Garantidor de Créditos e consolidado, pela primeira vez no corpus,
+  o impacto financeiro do caso Master sobre o fundo: R$ 40,6 bilhões provisionados para o núcleo Master/Master
+  de Investimentos/Letsbank, R$ 6,3 bilhões estimados para o Will Bank, impacto total de R$ 57,4 bilhões
+  no balanço de 2025, déficit contábil de R$ 17,1 bilhões e queda de 41,4% na liquidez, cobertos por aporte
+  extraordinário dos bancos associados. Documentado, com convergência de múltiplas fontes, como o maior
+  resgate da história do FGC — e registrado, como resultado negativo relevante, que nenhuma fonte disponível
+  estima quanto desse valor será recuperado da massa falida do Master, isto é, o prejuízo definitivo do
+  fundo permanece indeterminado. Registradas também as posições institucionais do BC e da Febraban negando
+  risco sistêmico, e as reclamações de credores do Will Bank sobre atraso no pagamento.'
+affected_ids:
+- fgc
+- banco-central-do-brasil
+- banco-master
+- will-bank
+reason: Loop de investigação de 3 horas — dimensionamento sistêmico do custo do caso Master.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

@@ -1,0 +1,36 @@
+id: fgc
+kind: organization
+name: Fundo Garantidor de Créditos
+aliases: []
+org_type: association
+summary: 'Entidade privada, sem fins lucrativos, mantida por contribuições mensais compulsórias dos bancos
+  associados, que garante depósitos e outros créditos até o limite regulamentar (R$ 250 mil por CPF/CNPJ
+  e instituição) em caso de liquidação. Responsável pelo maior resgate de sua história de 30 anos: provisionou
+  R$ 40,6 bilhões para os credores do Banco Master, Master de Investimentos e Letsbank (liquidados em
+  18/11/2025) e estimou mais R$ 6,3 bilhões para o Will Bank (liquidado em 21/01/2026). O impacto total
+  no balanço de 2025 — somando provisões de pagamento e empréstimos/exposições diretas a instituições
+  do grupo — chegou a R$ 57,4 bilhões, gerando déficit contábil de R$ 17,1 bilhões e queda de 41,4% na
+  liquidez do fundo (de R$ 114,1 bilhões para R$ 66,8 bilhões). Os bancos associados fizeram aporte extraordinário
+  via antecipação de contribuições ordinárias, parcelado até 2028. Não há, em nenhuma fonte localizada
+  pela equipe, estimativa de quanto desse valor será recuperado na liquidação da massa falida do Master
+  — o prejuízo definitivo do fundo permanece indeterminado.'
+why_in_novelo: É a entidade que arcou, em primeira instância, com o custo financeiro direto da falência
+  do conglomerado Master perante os credores cobertos — o que dimensiona o tamanho real do rombo e quem,
+  por ora, paga a conta.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-fgc-2026-01-17-inicio-pagamento-master
+- src-fgc-2026-04-28-relatorio-anual-123bi
+- src-agenciabrasil-2026-01-29-fgc-325bi-75pct
+- src-bcb-2026-05-relatorio-estabilidade-financeira
+- src-seudinheiro-2026-fgc-574-bilhoes-apos-master
+- src-monitordomercado-2026-fgc-deficit-171bi
+- src-metropoles-2026-05-27-master-baixou-liquidez-fgc
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

@@ -1,0 +1,28 @@
+id: gafisa
+kind: organization
+name: Gafisa
+aliases: []
+org_type: company
+summary: Incorporadora e construtora brasileira listada em bolsa. Nelson Tanure tornou-se acionista relevante
+  e conselheiro da empresa a partir de abril de 2019. É réu, desde 28/01/2026, por uso de informação privilegiada
+  na aquisição da Upcon pela Gafisa em 2019-2020 — ação distinta da investigação sobre o Banco Master,
+  cuja conexão foi expressamente rejeitada pelo STF (Toffoli, 27/01/2026). A CVM também examinou, em processo
+  administrativo distinto julgado em 18/12/2024, um aumento de capital da Gafisa de 2019 com tratamento
+  desigual entre acionistas — absolvido por empate 2x2.
+why_in_novelo: É a empresa através da qual Nelson Tanure, hoje investigado no caso Master, responde como
+  réu em ação penal por informação privilegiada — processo que o STF já determinou não ter conexão com
+  o Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-otempo-2026-01-29-tanure-reu-outra-fraude
+- src-gazetadopovo-2026-01-27-toffoli-devolve-processo-tanure
+- src-seudinheiro-2026-entenda-denuncia-tanure-gafisa-master
+- src-seudinheiro-2024-12-18-cvm-absolve-tanure-gafisa
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

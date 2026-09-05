@@ -1,0 +1,20 @@
+id: src-agenciabrasil-2026-04-fgc-libera-6bi-willbank
+kind: source
+title: FGC libera R$ 6 bi a credores com mais de R$ 1 mil no Will Bank
+publisher: Agência Brasil
+publication_date: 2026-04
+retrieved_at: '2026-09-05'
+url: https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/fgc-libera-r-6-bi-credores-com-mais-de-r-1-mil-no-will-bank
+source_type: press
+summary: Reportagem sobre o início do pagamento de R$ 6,06 bilhões a 312 mil credores do Will Bank, dentro
+  da estimativa total de R$ 6,3 bilhões em garantias para essa instituição.
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

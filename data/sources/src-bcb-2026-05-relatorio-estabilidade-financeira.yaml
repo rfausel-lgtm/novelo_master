@@ -1,0 +1,23 @@
+id: src-bcb-2026-05-relatorio-estabilidade-financeira
+kind: source
+title: Relatório de Estabilidade Financeira, vol. 25, n.1
+publisher: Banco Central do Brasil
+publication_date: 2026-05
+retrieved_at: '2026-09-05'
+url: https://www.bcb.gov.br/content/publicacoes/ref/202605/RELESTAB202605-refPub.pdf
+source_type: official_regulator
+summary: 'Relatório semestral do BC que trata da liquidação do conglomerado Master: entre 19/01 e 27/02/2026,
+  o FGC desembolsou R$ 37,7 bilhões (93,3% da estimativa de R$ 40,4 bilhões), dos quais R$ 20,77 bilhões
+  migraram para títulos de outras instituições financeiras; conclui que a liquidação não gerou efeitos
+  sistêmicos no SFN.'
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: Mesma ressalva de leitura indireta.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'
