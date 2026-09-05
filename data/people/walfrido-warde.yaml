@@ -1,0 +1,40 @@
+id: walfrido-warde
+kind: person
+name: Walfrido Jorge Warde Junior
+category: lawyer
+role: Advogado; ex-procurador do Banco Central; sócio-administrador da Warde Advogados
+positions:
+- title: Sócio-administrador
+  organization_id: warde-advogados
+  source_ids:
+  - src-minhareceita-escritorios-master-cnpjs
+summary: Ex-procurador do Banco Central por mais de quinze anos e ex-diretor da CVM, hoje sócio-administrador
+  da Warde Advogados. Foi advogado pessoal de Daniel Vorcaro desde 2017 e deixou a defesa em janeiro de
+  2026. É atribuída a ele, por reportagem que cita representação da PF, mensagem enviada a Vorcaro horas
+  antes da prisão do banqueiro, dizendo estar 'infernizando' o juiz federal responsável pelo caso na 10ª
+  Vara Federal de Brasília — achado interpretado por investigadores como possível indício de acesso a
+  informação sob sigilo. O escritório nega acesso indevido, afirmando que a informação sobre a investigação
+  veio do próprio cliente e de outros advogados da defesa.
+why_in_novelo: É o único, entre os advogados identificados, que combina porta giratória regulatória (ex-Banco
+  Central, ex-CVM) com alegação direta e grave de proximidade indevida com o Judiciário.
+cited_position:
+- kind: denial
+  summary: O escritório declarou que recebeu a informação sobre a investigação do próprio cliente e de
+    outros escritórios que o representavam, negando acesso indevido a informação sigilosa.
+  source_ids:
+  - src-jornaldebrasilia-2026-03-14-warde-infernizando-juiz
+  by_id: warde-advogados
+  date: '2026-03-14'
+open_questions:
+- A mensagem atribuída a ele não foi lida pela equipe em documento primário — vem de reportagem que a
+  atribui a representação da PF.
+source_ids:
+- src-minhareceita-escritorios-master-cnpjs
+- src-otempo-2026-01-21-warde-deixa-defesa-vorcaro
+- src-jornaldebrasilia-2026-03-14-warde-infernizando-juiz
+- src-otempo-2026-04-09-master-91-escritorios
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

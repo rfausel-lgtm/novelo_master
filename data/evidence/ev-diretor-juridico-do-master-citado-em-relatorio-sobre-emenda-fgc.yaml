@@ -1,0 +1,22 @@
+id: ev-diretor-juridico-do-master-citado-em-relatorio-sobre-emenda-fgc
+kind: evidence
+classification: A
+proposition: André Kruschewsky Lima, o executivo que assinou o termo de credenciamento do Banco Master
+  na Alagoas Previdência, exerceu o cargo de diretor jurídico do banco entre março de 2023 e agosto de
+  2024, segundo reportagem que afirma tê-lo apurado a partir de relatório da PF citado na decisão do ministro
+  André Mendonça que autorizou a 5ª fase da Operação Compliance Zero. O mesmo relatório o situa no contexto
+  da emenda nº 11 à PEC 65/2023 — a mesma emenda sobre ampliação da cobertura do FGC que o corpus já registra
+  como hipótese da Polícia Federal atribuída à assessoria do Banco Master, sem confirmação de autoria
+  pessoal.
+document_ids: []
+source_ids:
+- src-bnews-2026-05-07-kruschewsky-emenda-fgc
+excerpt: Kruschewsky exerceu o cargo de diretor jurídico no Banco Master de março de 2023 até agosto de
+  2024.
+date: '2026-05-07'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
+attributed_to: Reportagem do BNews, 07/05/2026, que afirma ter obtido relatório da PF

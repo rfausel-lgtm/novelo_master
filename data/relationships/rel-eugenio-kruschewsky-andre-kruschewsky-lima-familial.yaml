@@ -1,0 +1,24 @@
+id: rel-eugenio-kruschewsky-andre-kruschewsky-lima-familial
+kind: relationship
+from_id: eugenio-de-souza-kruschewsky
+to_id: andre-kruschewsky-lima
+relationship_type: familial
+directed: false
+label: primos, segundo reportagem — não confirmado por documento
+description: Reportagem do Bahia Notícias afirma que Eugênio de Souza Kruschewsky é primo de André Kruschewsky
+  Lima, então diretor jurídico do Banco Master, que teria contratado o escritório do primo. A equipe não
+  confirmou a genealogia nem a autoria da contratação em documento primário.
+evidence_class: A
+confidence: 0.4
+status: disputed
+event_ids: []
+evidence_ids:
+- ev-genealogia-kruschewsky-nao-confirmada-por-documento-primario
+source_ids:
+- src-bahianoticias-2026-04-11-gabino-kruschewsky-pf
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

@@ -1,0 +1,23 @@
+id: src-poder360-2026-04-16-daniel-monteiro-preso-brb
+kind: source
+title: Quem é Daniel Monteiro, preso como operador de propina no BRB
+publisher: Poder360
+publication_date: '2026-04-16'
+retrieved_at: '2026-09-04'
+url: https://www.poder360.com.br/poder-justica/quem-e-daniel-monteiro-preso-como-operador-de-propina-no-brb/
+source_type: press
+summary: Reportagem sobre a prisão do advogado Daniel Lopes Monteiro na Operação Compliance Zero, acusado
+  pela PGR de operar 'compliance paralelo' do Banco Master fora dos canais internos de controle, e de
+  estruturar empresas de fachada para ocultar imóveis repassados ao ex-presidente do BRB, Paulo Henrique
+  Costa. A PGR estima vantagem econômica pessoal dele em cerca de R$ 86,1 milhões; o Master declarou à
+  Receita R$ 109 milhões em pagamentos a empresas de que ele é sócio, entre 2022 e 2025.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

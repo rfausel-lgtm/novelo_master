@@ -1,0 +1,19 @@
+id: ev-genealogia-kruschewsky-nao-confirmada-por-documento-primario
+kind: evidence
+classification: A
+proposition: 'A alegação de que Eugênio de Souza Kruschewsky, sócio-administrador do escritório que recebeu
+  R$ 54 milhões do Master, é primo de André Kruschewsky Lima, diretor jurídico do banco, e de que este
+  o teria contratado, vem de reportagem — a equipe não leu documento primário (representação da PF ou
+  peça de CPMI) que estabeleça a genealogia ou a autoria da contratação. Registrada como classe C, não
+  D, por decisão editorial explícita: o vínculo é plausível e reportado por veículo profissional, mas
+  não está documentalmente verificado pela equipe.'
+document_ids: []
+source_ids:
+- src-bahianoticias-2026-04-11-gabino-kruschewsky-pf
+date: '2026-04-11'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
+attributed_to: Reportagem do Bahia Notícias, 11/04/2026

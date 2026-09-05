@@ -2,11 +2,16 @@ id: andre-kruschewsky-lima
 kind: person
 name: André Kruschewsky Lima
 category: executive
-role: Representante legal do Banco Master em termo de credenciamento
+role: Diretor jurídico do Banco Master (mar/2023–ago/2024), segundo reportagem
 positions: []
 summary: Assina digitalmente, em 08/04/2024, o termo de credenciamento do Banco Master na Alagoas Previdência,
   na condição de representante legal da instituição interessada no credenciamento, ao lado de Alberto
-  Felix de Oliveira Neto. O corpus não apurou seu cargo formal no banco.
+  Felix de Oliveira Neto. O corpus não apurou seu cargo formal no banco. Segundo reportagem que afirma
+  ter obtido relatório da PF citado em decisão do ministro André Mendonça, exerceu o cargo de diretor
+  jurídico do Banco Master entre março de 2023 e agosto de 2024, e é situado no contexto da emenda nº
+  11 à PEC 65/2023, sobre ampliação da cobertura do FGC. A mesma reportagem atribui a ele a contratação
+  do escritório de seu primo, Eugênio de Souza Kruschewsky — atribuição não confirmada pela equipe em
+  documento primário.
 why_in_novelo: Um dos dois signatários, pelo banco, do termo de credenciamento cujo texto a auditoria
   federal descreve como replicado em vários regimes próprios.
 cited_position:
@@ -15,11 +20,14 @@ cited_position:
   source_ids:
   - src-alagoasprevidencia-termo-credenciamento-033-2024
 open_questions:
-- O cargo que ocupava no Banco Master não foi apurado.
-- Reportagem sobre pagamentos do banco a escritórios de advocacia menciona um escritório de denominação
-  semelhante; a equipe não apurou se há qualquer relação, e não afirma que haja.
+- O cargo de diretor jurídico é atribuição de reportagem que cita relatório da PF; a equipe não leu o
+  documento primário.
+- A relação de parentesco com Eugênio de Souza Kruschewsky e a atribuição a ele da contratação do escritório
+  do primo não foram confirmadas em documento primário.
 source_ids:
 - src-alagoasprevidencia-termo-credenciamento-033-2024
+- src-bnews-2026-05-07-kruschewsky-emenda-fgc
+- src-bahianoticias-2026-04-11-gabino-kruschewsky-pf
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-04'

@@ -1,0 +1,39 @@
+id: warde-advogados
+kind: organization
+name: Warde Advogados
+aliases: []
+org_type: law_firm
+summary: Escritório fundado em 27/04/1998, CNPJ 02.500.682/0001-27, com Walfrido Jorge Warde Junior como
+  um dos sócios-administradores. Warde, ex-procurador do Banco Central por mais de quinze anos e ex-diretor
+  da CVM, foi advogado pessoal de Daniel Vorcaro desde 2017 e deixou a defesa em janeiro de 2026, após
+  articular, segundo a imprensa, estratégia descrita como agressiva para reverter a liquidação do banco
+  no STF e no TCU. O escritório recebeu R$ 76,6 milhões do Master entre 2022 e 2025.
+why_in_novelo: É o escritório do advogado pessoal de Vorcaro por quase uma década, ex-integrante do próprio
+  Banco Central — porta giratória regulatória — e alvo de alegação grave sobre acesso a informação sob
+  sigilo horas antes da prisão do banqueiro.
+cited_position:
+- kind: denial
+  summary: 'Sobre a mensagem em que Warde teria dito estar ''infernizando'' o juiz: o escritório declarou
+    que recebeu a informação sobre a investigação contra Vorcaro e o Master na 10ª Vara Federal de Brasília
+    do próprio cliente e de outros escritórios que o representavam, negando acesso indevido a informação
+    sigilosa. Sobre os pagamentos em geral, a assessoria disse observar o sigilo das relações entre cliente
+    e advogado.'
+  source_ids:
+  - src-jornaldebrasilia-2026-03-14-warde-infernizando-juiz
+  by_id: warde-advogados
+  date: '2026-03-14'
+open_questions:
+- A mensagem atribuída a Warde sobre 'infernizar' o juiz federal Ricardo Leite não foi lida pela equipe
+  em documento primário — vem de reportagem que a atribui a representação da PF, sem reprodução do documento
+  em si.
+- Há divergência de valor entre fontes sobre o total pago ao escritório.
+source_ids:
+- src-minhareceita-escritorios-master-cnpjs
+- src-otempo-2026-04-09-master-91-escritorios
+- src-otempo-2026-01-21-warde-deixa-defesa-vorcaro
+- src-jornaldebrasilia-2026-03-14-warde-infernizando-juiz
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

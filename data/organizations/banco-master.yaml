@@ -63,6 +63,8 @@ source_ids:
 - src-tcerj-voto-acordao-26458-2026
 - src-rioprevidencia-ata-11-2023-11-30
 - src-conjur-2026-07-17-pge-rj-cobra-master-rioprevidencia
+- src-otempo-2026-04-09-master-91-escritorios
+- src-minhareceita-escritorios-master-cnpjs
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
 review_status: published

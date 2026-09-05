@@ -1,0 +1,41 @@
+id: gabino-kruschewsky-advogados-associados
+kind: organization
+name: Gabino Kruschewsky Advogados Associados
+aliases: []
+org_type: law_firm
+summary: Escritório fundado em 10/11/1998, sede em Salvador (BA), CNPJ 02.885.124/0001-27, com atuação
+  declarada em dezenove estados. O sócio-administrador é Eugênio de Souza Kruschewsky, procurador do Estado
+  da Bahia desde 2000. Recebeu R$ 54 milhões do Banco Master entre 2022 e 2025, quarto maior valor entre
+  os escritórios identificados na reportagem sobre pagamentos a advogados. Segundo reportagem — não confirmado
+  por documento lido pela equipe —, Eugênio é primo de André Kruschewsky Lima, que foi diretor jurídico
+  do Banco Master entre março de 2023 e agosto de 2024, e este teria sido responsável por contratar o
+  escritório do primo.
+why_in_novelo: É o escritório cujo sócio administrador é apontado pela imprensa, sem confirmação documental
+  própria da equipe, como primo do diretor jurídico do banco que o contratou — o teste mais direto de
+  nepotismo na rede de fornecedores jurídicos do Master.
+cited_position:
+- kind: clarification
+  summary: Em nota, o escritório afirmou ter atuado em 45 mil processos para o Master, mais de 30 mil
+    ainda em curso, com valor médio de R$ 1.200 por processo — 'compatível ou até mesmo inferior' ao praticado
+    no mercado.
+  source_ids:
+  - src-otempo-2026-04-09-master-91-escritorios
+  by_id: gabino-kruschewsky-advogados-associados
+  date: '2026-04-09'
+open_questions:
+- A relação de parentesco entre Eugênio de Souza Kruschewsky e André Kruschewsky Lima, e a atribuição
+  a este da contratação do escritório do primo, vêm de reportagem — a equipe não leu documento primário
+  (representação da PF ou peça de CPMI) que estabeleça a genealogia ou a autoria da contratação. Tratada
+  como classe C, não D, até que tal documento seja lido.
+- Há divergência não resolvida entre o número de processos do Master na Bahia registrado em certidão de
+  distribuição do TJ-BA, citado pela imprensa em cerca de 7 mil, e os 45 mil alegados pela nota do próprio
+  escritório — a equipe não teve acesso à certidão original.
+source_ids:
+- src-minhareceita-escritorios-master-cnpjs
+- src-otempo-2026-04-09-master-91-escritorios
+- src-bahianoticias-2026-04-11-gabino-kruschewsky-pf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
