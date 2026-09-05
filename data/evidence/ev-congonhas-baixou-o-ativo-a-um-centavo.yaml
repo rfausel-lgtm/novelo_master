@@ -1,0 +1,19 @@
+id: ev-congonhas-baixou-o-ativo-a-um-centavo
+kind: evidence
+classification: D
+proposition: O saldo da letra financeira do Banco Master na carteira do PREVCON era de R$ 16.520.372,81
+  em 31/10/2025, equivalente a 2,78% da carteira. Na posição de 30/11/2025 — mesmo mês da liquidação —
+  o ativo aparece com saldo de R$ 0,01, e assim permanece nas posições seguintes até julho de 2026. A
+  baixa contábil integral contrasta com a nota oficial de 19/11/2025, que sustentava que o ativo não colocava
+  em risco o patrimônio do regime próprio.
+document_ids:
+- doc-2025-10-31-carteira-prevcon
+source_ids:
+- src-prevcon-carteira-2025-10-31
+- src-prevcon-nota-esclarecimento-2025-11-19
+date: '2025-11-30'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

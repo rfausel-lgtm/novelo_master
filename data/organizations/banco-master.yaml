@@ -51,6 +51,8 @@ source_ids:
 - src-folha-2026-03-20-letras-master-pf
 - src-bcb-ifdata-letras-financeiras-master
 - src-b3-estoque-balcao-letras-financeiras
+- src-prevcon-apr-362-2024
+- src-prevcon-ata-140a-comite-2024-05-07
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
 review_status: published

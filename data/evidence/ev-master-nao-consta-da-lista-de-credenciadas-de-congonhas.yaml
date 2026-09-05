@@ -1,0 +1,18 @@
+id: ev-master-nao-consta-da-lista-de-credenciadas-de-congonhas
+kind: evidence
+classification: D
+proposition: A única relação de instituições credenciadas publicada pelo PREVCON, de junho de 2023 e nunca
+  atualizada, enumera dezenove instituições e não inclui o Banco Master. O fluxograma de credenciamento
+  da própria autarquia exige aprovação pelo Comitê de Investimentos como condição para autorizar a aplicação,
+  e nenhuma ata publicada do comitê registra essa aprovação para o banco.
+document_ids:
+- doc-2023-06-13-lista-credenciadas-prevcon
+source_ids:
+- src-prevcon-lista-credenciadas-2023
+- src-prevcon-ata-140a-comite-2024-05-07
+date: '2023-06-13'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

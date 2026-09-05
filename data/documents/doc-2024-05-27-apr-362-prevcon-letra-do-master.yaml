@@ -1,0 +1,29 @@
+id: doc-2024-05-27-apr-362-prevcon-letra-do-master
+kind: document
+title: Autorização de Aplicação e Resgate nº 362/2024 — R$ 14 milhões em letra do Master descritos como
+  título público
+doc_type: administrative_act
+date: '2024-05-27'
+source_ids:
+- src-prevcon-apr-362-2024
+summary: Documento que formaliza a operação. Identifica o ativo como letra financeira do Banco Master,
+  com o CNPJ do banco, e declara enquadramento no art. 7º, IV — o dispositivo que trata de ativos emitidos
+  por instituição financeira. No campo de histórico, porém, descreve a operação como 'aplicação em títulos
+  públicos', que é categoria distinta. Os campos de patrimônio do fundo, cota e retorno estão em branco
+  e a data de início do ativo consta como 01/01/1900.
+is_official: true
+related_entity_ids:
+- prevcon-congonhas
+- banco-master
+issuer_id: prevcon-congonhas
+issuer: Previdência do Município de Congonhas
+date_precision: day
+url: http://servidor.congonhas.mg.gov.br/intranet02-uploads/lei/ELO-427_2024_19_09-06-2025.pdf
+reference: APR nº 362/2024 — PREVCON, 27/05/2024
+excerpt: 'HISTÓRICO / DESCRIÇÃO DA OPERAÇÃO: APLICAÇÃO EM TÍTULOS PÚBLICOS CONFORME DECISÃO COMITÊ DE
+  INVESTIMENTO. (...) CARACTERÍSTICAS DO ATIVO: LETRA FINANCEIRA BANCO MASTER — CNPJ: 33.923.798/0001-00'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

@@ -1,0 +1,22 @@
+id: src-prevcon-ata-232a-conselho-2025-12-18
+kind: source
+title: Ata da 232ª reunião do Conselho Municipal de Previdência de Congonhas (18/12/2025)
+publisher: Previdência do Município de Congonhas (PREVCON)
+publication_date: '2025-12-18'
+retrieved_at: '2026-09-04'
+url: http://servidor.congonhas.mg.gov.br/intranet02-uploads/atas/EPA-2026_03_16_1773671747.pdf
+source_type: official_government
+summary: Ata em que a autarquia registra a previsão de perda, informa reclamação na Ouvidoria do Banco
+  Central e protocolo de representação para auditoria da liquidação, decide redirecionar recursos do segmento
+  S3 para o S1 e atribui o ocorrido a falha de supervisão do Banco Central. PDF digitalizado sem camada
+  de texto, submetido a reconhecimento óptico pela equipe; trechos conferidos visualmente.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
