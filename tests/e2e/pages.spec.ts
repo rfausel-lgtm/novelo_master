@@ -117,7 +117,16 @@ test("home lista as três últimas revisões, da mais recente para a mais antiga
   await page.goto("/");
   const links = page.locator('a[href^="/atualizacoes/#rev-"]');
   await expect(links).toHaveCount(3);
-  await expect(links.first()).toHaveAttribute("href", /lote-70/);
+  /*
+   * A asserção é sobre a ORDEM, não sobre qual lote é o último: o corpus ganha lotes o tempo todo,
+   * e fixar o número aqui quebraria o CI a cada publicação do fork — já quebrou uma vez.
+   */
+  const numeros = (await links.evaluateAll((as) =>
+    as.map((a) => Number(/lote-(\d+)/.exec(a.getAttribute("href") ?? "")?.[1] ?? NaN)),
+  )) as number[];
+  expect(numeros.every(Number.isFinite)).toBe(true);
+  expect(numeros).toEqual([...numeros].sort((a, b) => b - a));
+  const primeiro = await links.first().getAttribute("href");
   await links.first().click();
-  await expect(page).toHaveURL(/\/atualizacoes\/#rev-.*lote-70/);
+  await expect(page).toHaveURL(new RegExp(`${primeiro!.split("#")[1]}$`));
 });
