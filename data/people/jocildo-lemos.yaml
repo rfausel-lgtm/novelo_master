@@ -13,7 +13,12 @@ summary: Diretor-presidente da Amapá Previdência e coordenador de seu Comitê 
   de 2024, R$ 400 milhões em letras financeiras do Banco Master sem documentação técnica prévia; a Justiça
   Federal autorizou buscas. Foi tesoureiro da campanha de Alcolumbre em 2022 e indicado ao cargo com apoio
   do senador, segundo a imprensa. Em comunicado oficial de 19/11/2025 anunciou a habilitação da Amprev
-  na liquidação do Master.
+  na liquidação do Master. A leitura integral da decisão acrescenta que a PF lhe atribui o papel de 'garante
+  institucional' — e não o de idealizador, que a autoridade policial reserva ao conselheiro José Milton
+  Afonso Gonçalves —, sustentando que ele tinha ciência da recusa da Caixa Econômica Federal em adquirir
+  os mesmos ativos por alto risco e que validou uma visita técnica ao Banco Master, às vésperas do terceiro
+  aporte, como ato de mera formalidade. A decisão também registra documento de autorização com sua assinatura
+  no contexto das transferências.
 why_in_novelo: Dirigia a autarquia previdenciária do Amapá que investiu R$ 400 milhões no Banco Master,
   investimento hoje sob investigação da PF, e tem ligação política com o presidente do Senado, segundo
   a imprensa.
@@ -34,9 +39,8 @@ cited_position:
   - src-gazeta-2026-01-29-pf-mp-amprev
   by_id: jocildo-lemos
 open_questions:
-- A decisão da Justiça Federal que autorizou a operação Zona Cinzenta não foi lida pela equipe (o Poder360
-  publicou o PDF).
-- O corpus não registra defesa pessoal de Lemos quanto às acusações de gestão temerária.
+- O corpus não registra defesa pessoal de Lemos quanto às acusações de gestão temerária; a decisão determinou
+  contraditório diferido, a ser exercido apenas em eventual ação penal.
 source_ids:
 - src-amprev-2025-11-19-nota-master
 - src-poder360-2026-02-10-amprev-zona-cinzenta
@@ -44,9 +48,10 @@ source_ids:
 - src-ebc-2026-02-06-pf-investiga-amprev
 - src-gazeta-2026-01-29-pf-mp-amprev
 - src-metropoles-2026-01-19-aliado-alcolumbre-amprev
+- src-decisao-zona-cinzenta-integral-pje-trf1
 full_name: Jocildo Silva Lemos
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'

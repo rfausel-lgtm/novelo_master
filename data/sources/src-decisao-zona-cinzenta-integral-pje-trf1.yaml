@@ -1,0 +1,25 @@
+id: src-decisao-zona-cinzenta-integral-pje-trf1
+kind: source
+title: Decisão da 4ª Vara Federal Criminal da SJAP na cautelar de busca e apreensão da operação Zona Cinzenta
+publisher: Justiça Federal — Seção Judiciária do Amapá (consulta pública do PJe/TRF1)
+publication_date: 2026-02
+retrieved_at: '2026-09-04'
+url: https://static.poder360.com.br/2026/02/PEDIDO-DE-BUSCA-E-APREENSAO-CRIMINAL-1.pdf
+source_type: official_court
+summary: Inteiro teor da decisão, em 14 páginas, baixado e extraído pela equipe. O rodapé de cada página
+  reproduz o endereço da consulta pública do PJe do TRF1 e o carimbo de impressão de 10/02/2026, 13:15
+  — o documento é a impressão da versão pública do ato, hospedada pelo Poder360. O número do processo,
+  os endereços dos investigados, os identificadores das contas eletrônicas e os números do Parecer Técnico
+  e do Memorando de Desembolso aparecem suprimidos na versão pública.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: Captura hospedada em CDN de veículo de imprensa, mas o conteúdo é ato judicial oriundo da consulta
+  pública do PJe/TRF1, conforme rodapé. Lido integralmente pela equipe em 04/09/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

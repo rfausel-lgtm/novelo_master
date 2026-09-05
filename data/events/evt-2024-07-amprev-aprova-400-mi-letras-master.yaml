@@ -18,12 +18,17 @@ status: verified
 evidence_ids:
 - ev-amprev-400-mi-letras-master-2024-07
 - ev-ata-amprev-alertas-2024-07-30
+- ev-zc-condicoes-letras-financeiras-master
+- ev-zc-ofertas-de-bancos-de-primeira-linha-rejeitadas
+- ev-zc-caixa-recusou-os-mesmos-ativos
+- ev-zc-visita-tecnica-como-formalidade
 source_ids:
 - src-poder360-2026-02-10-amprev-zona-cinzenta
 - src-cnn-2026-02-06-amprev-alvo-pf
 - src-ebc-2026-02-06-pf-investiga-amprev
 - src-gazeta-2026-01-29-pf-mp-amprev
 - src-metropoles-2026-01-19-aliado-alcolumbre-amprev
+- src-decisao-zona-cinzenta-integral-pje-trf1
 document_ids:
 - doc-2024-07-30-ata-comite-investimentos-amprev
 public_act_ids: []
@@ -40,4 +45,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'

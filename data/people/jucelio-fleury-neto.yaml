@@ -8,8 +8,10 @@ positions:
   organization: 4ª Vara Federal Criminal da Seção Judiciária do Amapá
   source_ids:
   - src-poder360-2026-02-10-amprev-zona-cinzenta
-summary: Assinou a decisão que autorizou as buscas da operação Zona Cinzenta contra gestores da Amapá
-  Previdência e deferiu o compartilhamento de provas pedido pela Polícia Federal.
+summary: Juiz federal titular da 4ª Vara Federal Criminal da Seção Judiciária do Amapá. Assinou a decisão
+  que autorizou as buscas da operação Zona Cinzenta contra três gestores da Amapá Previdência, deferiu
+  a quebra de sigilo telemático junto a Apple e Google, o compartilhamento de provas com MP-AP, Receita
+  Federal, CGU e Banco Central, e determinou contraditório diferido e sigilo de nível máximo no PJe.
 why_in_novelo: Autorizou, como juiz federal no Amapá, a operação que apura a aplicação de R$ 400 milhões
   da previdência estadual em títulos do Banco Master.
 cited_position:
@@ -18,8 +20,9 @@ cited_position:
 open_questions: []
 source_ids:
 - src-poder360-2026-02-10-amprev-zona-cinzenta
+- src-decisao-zona-cinzenta-integral-pje-trf1
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'

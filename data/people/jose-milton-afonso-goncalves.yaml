@@ -1,0 +1,39 @@
+id: jose-milton-afonso-goncalves
+kind: person
+name: José Milton Afonso Gonçalves
+category: public_official
+role: Conselheiro do Comitê de Investimentos da Amapá Previdência (CIAP)
+positions:
+- title: Conselheiro do Comitê de Investimentos
+  organization_id: amapa-previdencia
+  source_ids:
+  - src-decisao-zona-cinzenta-integral-pje-trf1
+summary: Conselheiro do Comitê de Investimentos da Amprev e um dos três alvos da operação Zona Cinzenta
+  (06/02/2026). É a ele — e não ao diretor-presidente — que a Polícia Federal atribui o papel de 'mentor
+  intelectual e principal articulador' das operações no colegiado. Segundo a decisão que autorizou as
+  buscas, propôs na 11ª reunião extraordinária do CIAP, em 12/07/2024, a alocação de R$ 200 milhões em
+  letras financeiras do Banco Master com vencimento em 10 anos e taxa de IPCA + 8,35% ao ano, avocou para
+  si a relatoria das propostas e sustentou a aprovação nas reuniões de 19 e 30 de julho. A mesma decisão
+  registra que teria omitido comparativos de risco de crédito e rejeitado ofertas de Santander, BTG Pactual
+  e Safra sob o argumento de que a taxa do Master era superior. As imputações são de investigação em curso;
+  não há ação penal conhecida.
+why_in_novelo: É a ele que a Polícia Federal atribui a iniciativa e a relatoria das propostas que levaram
+  R$ 400 milhões da previdência dos servidores do Amapá para letras financeiras do Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública sua, ou de defesa constituída, foi localizada. A decisão determinou
+    contraditório diferido, a ser exercido apenas em eventual ação penal.
+  source_ids:
+  - src-decisao-zona-cinzenta-integral-pje-trf1
+open_questions:
+- Como e quando ingressou no Comitê de Investimentos da Amprev, e por indicação de quem.
+- Se possuía a certificação profissional exigida de membros de comitê de investimentos de RPPS.
+- Se há defesa constituída e qual a versão dele sobre a proposição dos aportes.
+source_ids:
+- src-decisao-zona-cinzenta-integral-pje-trf1
+- src-poder360-2026-02-10-amprev-zona-cinzenta
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

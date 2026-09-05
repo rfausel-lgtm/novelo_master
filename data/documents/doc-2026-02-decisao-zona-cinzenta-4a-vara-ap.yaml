@@ -5,16 +5,30 @@ doc_type: judicial_decision
 date: 2026-02
 source_ids:
 - src-poder360-2026-02-10-amprev-zona-cinzenta
-summary: Decisão de 14 páginas em pedido de busca e apreensão criminal apresentado pela Polícia Federal
-  no Amapá. Individualiza a conduta de José Milton Afonso Gonçalves, Jackson Rubens de Oliveira e Jocildo
-  Silva Lemos nas deliberações do Comitê de Investimentos da Amprev, defere as buscas, determina a expedição
-  dos mandados e defere o compartilhamento de provas pedido pela autoridade policial.
+- src-decisao-zona-cinzenta-integral-pje-trf1
+summary: Decisão de 14 páginas do juiz federal Jucelio Fleury Neto em pedido de busca e apreensão criminal
+  formulado pela Polícia Federal, com parecer favorável do MPF (manifestação de 26/01/2026). Baixada e
+  lida integralmente pela equipe. Enquadra os fatos no art. 4º, caput e parágrafo único, da Lei 7.492/1986
+  e firma a competência federal pelo art. 109, VI, da Constituição. Individualiza as condutas de José
+  Milton Afonso Gonçalves ('mentor intelectual e principal articulador'), Jackson Rubens de Oliveira ('elemento
+  validador') e Jocildo Silva Lemos ('garante institucional'), transcrevendo trechos das atas do CIAP
+  de 12, 19 e 30 de julho de 2024. Registra as condições do primeiro aporte (IPCA + 8,35% a.a., vencimento
+  em 10 anos), a rejeição de ofertas de Santander, BTG Pactual e Safra, alertas sobre concentração de
+  40% da carteira líquida em um único emissor, procedimentos do TCU contra o banco e a recusa da Caixa
+  Econômica Federal em adquirir os mesmos ativos. Descreve ainda uma trilha anterior — aportes de R$ 15
+  milhões em cotas de FIDC Multisetorial deliberados em setembro de 2021. Defere as buscas na sede da
+  Amprev e nos endereços dos três investigados, a quebra de sigilo telemático junto a Apple e Google,
+  o compartilhamento de provas com MP-AP, Receita Federal, CGU e Banco Central, o contraditório diferido
+  e o sigilo de nível máximo no PJe.
 is_official: true
 related_entity_ids:
 - policia-federal
 - amapa-previdencia
 - jocildo-lemos
 - banco-master
+- jose-milton-afonso-goncalves
+- jackson-rubens-de-oliveira
+- jucelio-fleury-neto
 issuer_id: tribunal-regional-federal-da-1a-regiao
 issuer: Juiz federal Jucelio Fleury Neto, 4ª Vara Federal Criminal da Seção Judiciária do Amapá
 date_precision: month
@@ -24,4 +38,6 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
+excerpt: cada investigado teria desempenhado função específica para viabilizar o aporte temerário de quatrocentos
+  milhões de reais em ativos do Banco Master, em um interregno inferior a vinte dias.

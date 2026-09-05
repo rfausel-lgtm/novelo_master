@@ -1,0 +1,28 @@
+id: rel-jackson-rubens-de-oliveira-amapa-previdencia-institutional
+kind: relationship
+from_id: jackson-rubens-de-oliveira
+to_id: amapa-previdencia
+relationship_type: institutional
+directed: false
+label: conselheiro do Comitê de Investimentos
+start_date: '2024'
+description: Jackson Rubens de Oliveira integrava o Comitê de Investimentos da Amprev e é nomeado na ata
+  de 19/07/2024 entre os três votos que aprovaram por maioria a continuidade das aplicações no Banco Master,
+  contra dois votos contrários.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids:
+- evt-2024-07-19-ciap-aprova-mais-100-mi-por-maioria
+- evt-2026-02-06-operacao-zona-cinzenta-amprev
+evidence_ids:
+- ev-zc-dois-votos-contrarios-em-19-07-2024
+source_ids:
+- src-decisao-zona-cinzenta-integral-pje-trf1
+document_ids:
+- doc-2026-02-decisao-zona-cinzenta-4a-vara-ap
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

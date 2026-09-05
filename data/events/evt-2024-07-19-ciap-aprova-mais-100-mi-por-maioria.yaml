@@ -1,0 +1,35 @@
+id: evt-2024-07-19-ciap-aprova-mais-100-mi-por-maioria
+kind: event
+title: CIAP aprova por maioria mais R$ 100 milhões no Master, contra dois votos
+event_type: corporate_act
+date: '2024-07-19'
+date_precision: day
+participant_ids:
+- amapa-previdencia
+- jackson-rubens-de-oliveira
+- jose-milton-afonso-goncalves
+- jocildo-lemos
+- banco-master
+description: Segunda das três deliberações de julho de 2024. A ata registra dois votos contrários antes
+  da aprovação por maioria dos conselheiros Jackson Rubens, José Milton Gonçalves e Jocildo Lemos; a proposta
+  incluía R$ 100 milhões em letras financeiras do Banco Master condicionados a diligência. A mesma ata
+  menciona 'ruído de mercado' em torno do banco. Segundo a decisão judicial, havia nas sessões alertas
+  sobre concentração de 40% da carteira líquida em um único emissor e sobre procedimentos do TCU contra
+  a instituição.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-zc-dois-votos-contrarios-em-19-07-2024
+- ev-zc-alerta-concentracao-40-por-cento-e-tcu
+source_ids:
+- src-decisao-zona-cinzenta-integral-pje-trf1
+document_ids:
+- doc-2026-02-decisao-zona-cinzenta-4a-vara-ap
+- doc-2024-07-19-ata-reuniao-ciap
+public_act_ids: []
+location: Macapá (AP)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

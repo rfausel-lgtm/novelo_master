@@ -8,20 +8,32 @@ participant_ids:
 - policia-federal
 - amapa-previdencia
 - jocildo-lemos
-description: A PF cumpriu quatro mandados de busca e apreensão em Macapá, autorizados pela 4ª Vara da
-  Justiça Federal, contra Jocildo Lemos e dois membros do comitê de investimentos (José Milton Afonso
-  Gonçalves e Jackson Rubens de Oliveira), por suspeita de gestão temerária e fraudulenta na aplicação
-  de R$ 400 milhões no Master. Davi Alcolumbre não está entre os investigados, segundo a CNN.
+- jose-milton-afonso-goncalves
+- jackson-rubens-de-oliveira
+- jucelio-fleury-neto
+description: A PF cumpriu quatro mandados de busca e apreensão em Macapá — na sede da Amprev e nos endereços
+  de José Milton Afonso Gonçalves, Jackson Rubens de Oliveira e Jocildo Silva Lemos —, autorizados pela
+  4ª Vara Federal Criminal da SJAP, por suspeita de gestão fraudulenta e temerária (art. 4º, caput e parágrafo
+  único, da Lei 7.492/1986) na aplicação de R$ 400 milhões em letras financeiras do Banco Master. A decisão
+  também deferiu a quebra de sigilo telemático junto a Apple e Google e o compartilhamento de provas com
+  MP-AP, Receita Federal, CGU e Banco Central, e registra que cautelar anterior da mesma investigação
+  já havia afastado sigilo telemático. Davi Alcolumbre não está entre os investigados, segundo a CNN.
 evidence_class: D
 status: verified
 evidence_ids:
 - ev-zona-cinzenta-2026-02-06
 - ev-decisao-zona-cinzenta-individualizacao
 - ev-decisao-zona-cinzenta-ata
+- ev-zc-pf-centra-imputacao-em-jose-milton
+- ev-zc-conluio-com-agentes-publicos
+- ev-zc-cautelar-anterior-na-mesma-investigacao
+- ev-zc-compartilhamento-com-mp-ap-receita-cgu-bc
+- ev-zc-tipificacao-e-prazo-de-relatorio
 source_ids:
 - src-poder360-2026-02-10-amprev-zona-cinzenta
 - src-cnn-2026-02-06-amprev-alvo-pf
 - src-ebc-2026-02-06-pf-investiga-amprev
+- src-decisao-zona-cinzenta-integral-pje-trf1
 document_ids:
 - doc-2026-02-decisao-zona-cinzenta-4a-vara-ap
 public_act_ids: []
@@ -39,4 +51,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
