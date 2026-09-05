@@ -59,6 +59,7 @@ token*.json
 # === Artefatos gerados a partir de /data (reconstruídos no build) ===
 /src/generated/
 /public/data/
+/public/dossies/
 
 # === Testes ===
 /test-results/

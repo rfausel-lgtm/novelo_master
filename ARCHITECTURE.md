@@ -45,6 +45,7 @@ data/*.yaml  ──►  scripts/build-data.ts  ──►  src/generated/corpus.j
 | `src/app/`               | Rotas: `/`, `/grafo`, `/pessoas`, `/organizacoes`, `/eventos`, `/documentos`, `/fontes`, `/atos`, `/cronologia`, `/coincidencias`, `/atualizacoes`, `/metodologia`, `/politica-editorial`, `/rede`, sitemap e robots. |
 | `python/novelo_osint/`   | Utilitários de captura para OSINT: `fetch.py` (curl com IP local, extração de texto de HTML e PDF, metadados), `fotos.py` (retratos de licença livre), `minimapas.py` (tiles do OSM → PNG estático).                  |
 | `public/assets/novelo/`  | Arte da identidade visual (hero, faixas de seção, fundo do loader), em AVIF e WebP, claro e escuro. Só arquivos finais; os masters ficam fora do repositório.                                                         |
+| `public/dossies/`        | Um dossiê em texto por pessoa e organização, gerado no build (ignorado no Git).                                                                                                                                       |
 | `public/mapas/`          | Minimapas gerados: um PNG por registro com lugar, servido pela própria origem.                                                                                                                                        |
 | `docs/adr/`              | Architecture Decision Records.                                                                                                                                                                                        |
 | `tests/`                 | Unitários (Vitest) em `tests/unit` e `src/**/*.test.ts`; E2E (Playwright) em `tests/e2e`.                                                                                                                             |
@@ -99,6 +100,16 @@ ninguém além do site. A atribuição ao OpenStreetMap (ODbL) é obrigatória e
 `place` nunca descreve residência — a política editorial proíbe.
 
 ## Leitura por assistentes
+
+O estado de filtro da cronologia e dos índices vive na URL (`src/lib/url-state.ts`), lido por
+`useSyncExternalStore` em vez de `useSearchParams`: este último faria a subárvore ser renderizada só
+no cliente na exportação estática, e a cronologia e os índices sumiriam do HTML — justamente o
+conteúdo indexável. O servidor vê busca vazia e renderiza tudo; o cliente hidrata igual e então
+aplica o recorte do link.
+
+Além do acervo inteiro, o build grava um dossiê em texto por entidade em `public/dossies/<id>.txt`,
+com as mesmas regras de vínculo das páginas e sem truncamento, para quem quer perguntar sobre um
+registro só ou precisa entregar o conteúdo a um assistente que não abre URL.
 
 `scripts/lib/acervo.ts` emite o corpus publicado como registros delimitados por barra vertical
 (`PESSOA`, `ORG`, `EVENTO`, `ATO`, `RELAÇÃO`, `TRANSAÇÃO`, `ALEGAÇÃO`, `SEQUÊNCIA`, `POSIÇÃO`), cada um

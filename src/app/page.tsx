@@ -1,6 +1,6 @@
 import Link from "next/link";
-import { corpus, stats, lastUpdated } from "@/lib/data";
-import { safeJsonLd, siteJsonLd } from "@/lib/pages";
+import { allRevisions, corpus, entityHref, entityName, stats, lastUpdated } from "@/lib/data";
+import { excerptOf, safeJsonLd, siteJsonLd } from "@/lib/pages";
 import { formatDateTimeBRT, formatNumber, formatPartialDate } from "@/lib/format";
 import { Logo } from "@/components/ui/Logo";
 import { EVIDENCE_CLASS_LABEL, type EvidenceClass } from "@/lib/schema";
@@ -136,6 +136,58 @@ export default function HomePage() {
           <span className="text-fg-2">{formatDateTimeBRT(corpus.built_at)}</span> · dados até{" "}
           {formatPartialDate(lastUpdated())}
         </p>
+
+        {/*
+          Quem volta quer saber o que mudou, não a data do build: as três últimas revisões
+          editoriais — revisões, não commits — com os registros que tocaram.
+        */}
+        <section aria-labelledby="ultimas" className="mt-10 w-full max-w-2xl text-left">
+          <h2
+            id="ultimas"
+            className="text-fg-3 text-[11px] font-semibold tracking-[0.14em] uppercase"
+          >
+            Últimas atualizações
+          </h2>
+          <ol className="divide-border mt-2 divide-y">
+            {allRevisions()
+              .slice(0, 3)
+              .map((r) => (
+                <li key={r.id} className="py-2.5 text-sm">
+                  <time dateTime={r.date} className="text-fg-3 font-mono text-xs">
+                    {formatPartialDate(r.date)}
+                  </time>
+                  <Link
+                    href={`/atualizacoes#${r.id}`}
+                    className="text-fg hover:text-accent ml-2 font-medium underline-offset-2 hover:underline"
+                  >
+                    {r.title ?? excerptOf(r.summary)}
+                  </Link>
+                  {r.affected_ids.length > 0 && (
+                    <p className="text-fg-3 mt-0.5 text-xs">
+                      {r.affected_ids.slice(0, 4).map((id, i) => (
+                        <span key={id}>
+                          {i > 0 && ", "}
+                          <Link
+                            href={entityHref(id)}
+                            className="hover:text-fg underline-offset-2 hover:underline"
+                          >
+                            {entityName(id)}
+                          </Link>
+                        </span>
+                      ))}
+                      {r.affected_ids.length > 4 && ` +${r.affected_ids.length - 4}`}
+                    </p>
+                  )}
+                </li>
+              ))}
+          </ol>
+          <Link
+            href="/atualizacoes"
+            className="text-fg-2 hover:text-fg mt-2 inline-block text-xs underline-offset-4 hover:underline"
+          >
+            Todas as atualizações
+          </Link>
+        </section>
 
         <nav
           aria-label="Atalhos"
