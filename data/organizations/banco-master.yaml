@@ -26,6 +26,9 @@ open_questions:
   reportagem — a equipe não sabe quais operações foram contratadas nesse patamar.
 - O IF.data deixa de reportar o estoque individual do banco a partir de junho de 2025; o conglomerado
   registra R$ 4,11 bilhões naquela data. A equipe não apurou a razão da mudança.
+- O Relatório de Auditoria Direta — Letras Financeiras é sigiloso e está com a Polícia Federal; documentos
+  do Ministério da Previdência sobre as auditorias já foram encaminhados à Comissão de Assuntos Econômicos
+  do Senado e não foram publicados.
 source_ids:
 - src-bcb-2025-11-ata-comef-63
 - src-pf-2025-11-18-compliance-zero
@@ -53,6 +56,9 @@ source_ids:
 - src-b3-estoque-balcao-letras-financeiras
 - src-prevcon-apr-362-2024
 - src-prevcon-ata-140a-comite-2024-05-07
+- src-oglobo-2026-02-11-copia-e-cola-master
+- src-pf-2026-08-25-operacao-presciencia
+- src-previc-nota-2025-11-19-exposicao-zero
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
 review_status: published

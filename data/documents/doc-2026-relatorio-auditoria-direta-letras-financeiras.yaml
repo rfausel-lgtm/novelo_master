@@ -1,0 +1,31 @@
+id: doc-2026-relatorio-auditoria-direta-letras-financeiras
+kind: document
+title: Relatório de Auditoria Direta — Letras Financeiras, do Ministério da Previdência Social
+doc_type: official_report
+date: '2026'
+source_ids:
+- src-pf-2026-08-25-operacao-presciencia
+- src-oglobo-2026-02-11-copia-e-cola-master
+summary: 'Documento sigiloso, não lido pela equipe. Sua existência e denominação oficial foram confirmadas
+  pela própria Polícia Federal em nota pública de 25/08/2026, que o aponta como origem da investigação
+  sobre o regime próprio de Campo Grande. Não é um relatório sobre quatro entes: é um instrumento federal
+  por classe de ativo, que percorreu regimes próprios compradores de letras financeiras do Banco Master
+  em vários estados. Segundo a reportagem de O Globo, que afirma tê-lo obtido, o relatório registra que
+  os termos de credenciamento eram idênticos entre entes, variando apenas os valores, e que os técnicos
+  da Amapá Previdência admitiram aos auditores que a documentação fora elaborada pelo próprio Banco Master.'
+is_official: true
+related_entity_ids:
+- banco-master
+- amapa-previdencia
+- policia-federal
+issuer: Coordenação-Geral de Auditoria do Departamento dos Regimes Próprios de Previdência Social / MPS
+date_precision: year
+reference: Relatório de Auditoria Direta — Letras Financeiras, Coordenação-Geral de Auditoria do DRPPS/MPS
+excerpt: A investigação teve início a partir de informações constantes de Relatório de Auditoria Direta
+  - Letras Financeiras, elaborado pela Coordenação-Geral de Auditoria do Departamento dos Regimes Próprios
+  de Previdência Social (RPPS) do Ministério da Previdência Social (MPS).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

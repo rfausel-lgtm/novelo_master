@@ -6,9 +6,11 @@ relationship_type: investigative_allegation
 directed: false
 label: hipótese investigativa de 'sócio oculto', negada
 start_date: '2024'
-description: PF, Banco Central e MPF apuram, sem confirmação judicial, se Tanure seria sócio oculto do
-  Master controlado por Vorcaro, com injeção de cerca de R$ 2,5 bilhões desde 2020. Tanure nega qualquer
-  vínculo societário.
+description: A hipótese de participação societária oculta é da Polícia Federal, encampada pelo Ministério
+  Público Federal e transcrita — não afirmada — pelo relator na decisão de 06/01/2026, que registra cognição
+  limitada nessa fase. Tanure nega qualquer vínculo societário e sustenta ter sido apenas cliente. Não
+  há decisão judicial que reconheça a participação, e a equipe testou sem sucesso, na base da CVM, a existência
+  de caminho entre recursos de regimes próprios e veículos ligados a ele.
 evidence_class: A
 confidence: 0.3
 status: disputed
@@ -16,9 +18,14 @@ event_ids:
 - evt-2026-01-hipotese-socio-oculto-e-caixa-ligga-master
 evidence_ids:
 - ev-hipotese-tanure-socio-oculto-master
+- ev-cadeia-de-atribuicao-da-hipotese-de-socio-oculto
+- ev-nenhum-rpps-e-cotista-dos-veiculos-de-tanure
 source_ids:
 - src-iclnoticias-2026-tanure-investigado-bc-pf-mpf
-document_ids: []
+- src-stf-decisao-toffoli-2026-01-06-pet-15198
+- src-cvm-informes-fidc-cotistas-rpps
+document_ids:
+- doc-2026-01-06-decisao-toffoli-pet-15198
 cited_position:
 - kind: denial
   summary: Tanure negou qualquer vínculo societário com o Master.
@@ -29,4 +36,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'

@@ -1,0 +1,22 @@
+id: src-boletimrj-2026-07-18-tce-rj-itaprevi
+kind: source
+title: Processos do TCE-RJ apontam gestão temerária em investimentos no Master
+publisher: Boletim RJ
+publication_date: '2026-07-18'
+retrieved_at: '2026-09-04'
+url: https://boletimrj.com.br/cemiterios-consignados-e-bilhoes-processos-do-tce-rj-apontam-gestao-temeraria-e-ameaca-a-aposentadorias-em-investimentos-no-master/
+source_type: press
+summary: Reportagem sobre processos do Tribunal de Contas do Estado do Rio de Janeiro relativos aos investimentos
+  de regimes próprios fluminenses no Banco Master. Registra que o tribunal apontou, no caso do Itaprevi,
+  credenciamento sem validação adequada do comitê de investimentos e com utilização de documentos produzidos
+  pela própria instituição financeira.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

@@ -1,0 +1,43 @@
+id: evt-2026-01-06-toffoli-defere-cautelares-na-pet-15198
+kind: event
+title: Toffoli defere sequestro bilionário e buscas na investigação do Master; Tanure entre os alvos
+event_type: judicial_decision
+date: '2026-01-06'
+date_precision: day
+participant_ids:
+- dias-toffoli
+- daniel-vorcaro
+- nelson-tanure
+- banco-master
+description: 'Decisão que estrutura a fase cautelar da investigação: teto de sequestro de R$ 5.775.234.097,25,
+  38 alvos de busca, afastamento de sigilo de 101 pessoas e entidades no período de outubro de 2020 a
+  outubro de 2025. Descreve a hipótese de que o banco direcionou recursos captados por CDBs a fundos dos
+  quais era cotista único, usados para adquirir ativos de empresas ligadas aos próprios sócios. Quanto
+  a Nelson Tanure, a caracterização como sócio oculto é atribuída à autoridade policial e transcrita da
+  manifestação do procurador-geral; o relator registra que sua cognição, nessa fase, é limitada. Tanure
+  nega qualquer vínculo societário e afirma ter mantido com o banco relações estritamente comerciais,
+  na condição de cliente.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-cadeia-de-atribuicao-da-hipotese-de-socio-oculto
+- ev-estagio-processual-de-tanure
+source_ids:
+- src-stf-decisao-toffoli-2026-01-06-pet-15198
+document_ids:
+- doc-2026-01-06-decisao-toffoli-pet-15198
+public_act_ids: []
+cited_position:
+- kind: denial
+  summary: Não foi nem é controlador do banco, tampouco seu sócio, ainda que minoritário, direta ou indiretamente;
+    manteve com a instituição relações estritamente comerciais, na condição de cliente ou aplicador.
+  source_ids:
+  - src-stf-decisao-toffoli-2026-01-06-pet-15198
+  by_id: nelson-tanure
+  date: '2026-01-14'
+location: Brasília (DF)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

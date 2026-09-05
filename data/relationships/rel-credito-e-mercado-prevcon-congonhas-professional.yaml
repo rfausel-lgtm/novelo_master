@@ -1,0 +1,27 @@
+id: rel-credito-e-mercado-prevcon-congonhas-professional
+kind: relationship
+from_id: credito-e-mercado
+to_id: prevcon-congonhas
+relationship_type: professional
+directed: true
+label: consultoria presente nas reuniões do comitê em 2024
+start_date: '2024'
+description: O principal executivo da consultoria consta de todas as dez atas do Comitê de Investimentos
+  de Congonhas publicadas em 2024, e é quem propõe, na reunião de 07/05/2024, a compra de cerca de R$
+  14 milhões em letras financeiras de dez anos.
+evidence_class: D
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2024-05-27-prevcon-aplica-14-milhoes-no-master
+evidence_ids:
+- ev-executivo-da-consultoria-propos-a-compra-em-congonhas
+source_ids:
+- src-prevcon-ata-140a-comite-2024-05-07
+document_ids:
+- doc-2024-05-07-ata-140a-comite-prevcon
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

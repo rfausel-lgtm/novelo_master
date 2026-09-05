@@ -1,0 +1,28 @@
+id: doc-2021-07-22-age-bordeaux-emissao-de-debentures
+kind: document
+title: Ata da AGE da Bordeaux Participações que aprovou a emissão de R$ 1,53 bilhão em debêntures
+doc_type: corporate_record
+date: '2021-07-22'
+source_ids:
+- src-doesp-2021-07-24-age-bordeaux-debentures
+summary: Documento que responde como foi financiada a aquisição da Copel Telecom, arrematada em leilão
+  na B3 em 09/11/2020 por R$ 2.395.000.000,00. A emissão foi de debêntures conversíveis em ações, com
+  garantia real, em colocação privada e expressamente sem intermediação de instituições do sistema de
+  distribuição de valores mobiliários. As garantias incluem alienação fiduciária de cem por cento da Copel
+  Telecom. Nelson Tanure foi eleito presidente do conselho na mesma assembleia. O Banco Master não figura
+  no documento.
+is_official: true
+related_entity_ids:
+- nelson-tanure
+- ligga-telecom
+issuer: Bordeaux Participações S.A.
+date_precision: day
+url: https://diariooficial.imprensaoficial.com.br/doflash/prototipo/2021/Julho/24/empresarial/pdf/pg_0004.pdf
+reference: AGE da Bordeaux Participações S.A., 22/07/2021 — DOE-SP de 24/07/2021
+excerpt: a primeira emissão de debêntures conversíveis em ações, da espécie com garantia real, em série
+  única, para distribuição privada, da Companhia (...) no valor R$ 1.530.613.000,00
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

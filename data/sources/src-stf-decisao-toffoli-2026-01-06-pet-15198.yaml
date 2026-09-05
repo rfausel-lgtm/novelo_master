@@ -1,0 +1,25 @@
+id: src-stf-decisao-toffoli-2026-01-06-pet-15198
+kind: source
+title: Decisão de Dias Toffoli na PET 15.198/DF, de 06/01/2026
+publisher: Supremo Tribunal Federal
+publication_date: '2026-01-06'
+retrieved_at: '2026-09-04'
+url: https://static.poder360.com.br/2026/01/Toffoli-ve-indicios-de-fraude-bilionaria-em-master-16.jan_.pdf
+source_type: official_court
+summary: Decisão de vinte páginas, com código de autenticação do STF, baixada e lida integralmente pela
+  equipe. Defere medidas cautelares na investigação sobre o Banco Master, com teto de sequestro de R$
+  5.775.234.097,25, 38 alvos de busca e afastamento de sigilo de 101 pessoas e entidades no período de
+  20/10/2020 a 21/10/2025. Registra que a investigação nasceu de denúncia anônima enviada ao e-mail institucional
+  da Polícia Federal. É nesta peça que aparece a expressão 'sócio oculto' aplicada a Nelson Tanure — dentro
+  da transcrição da manifestação do procurador-geral, que por sua vez reporta o que a autoridade policial
+  afirmou.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

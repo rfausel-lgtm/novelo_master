@@ -1,0 +1,19 @@
+id: ev-copel-telecom-nao-foi-financiada-pelo-master
+kind: evidence
+classification: D
+proposition: 'A aquisição da Copel Telecom não foi financiada pelo Banco Master. A ata da assembleia da
+  Bordeaux Participações de 22/07/2021, publicada no Diário Oficial de São Paulo, registra emissão de
+  R$ 1.530.613.000,00 em debêntures conversíveis com garantia real, em colocação privada e expressamente
+  sem intermediação de instituições do sistema de distribuição de valores mobiliários. Nem o Banco Master,
+  nem a Trustee, nem a Banvox aparecem no documento. Correção de escala: o preço de arremate no leilão
+  de 09/11/2020 foi de R$ 2.395.000.000,00, e não de cerca de R$ 1,1 bilhão.'
+document_ids:
+- doc-2021-07-22-age-bordeaux-emissao-de-debentures
+source_ids:
+- src-doesp-2021-07-24-age-bordeaux-debentures
+date: '2021-07-22'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

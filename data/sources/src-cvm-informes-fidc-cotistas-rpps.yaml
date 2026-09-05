@@ -1,0 +1,22 @@
+id: src-cvm-informes-fidc-cotistas-rpps
+kind: source
+title: Informes periódicos de FIDC e FIP publicados nos dados abertos da CVM
+publisher: Comissão de Valores Mobiliários
+publication_date: '2026-09-04'
+retrieved_at: '2026-09-04'
+url: https://dados.cvm.gov.br/
+source_type: official_regulator
+summary: Base pública de informes periódicos de fundos, consultada pela equipe. Os informes mensais de
+  FIDC contêm campos específicos para o número de cotistas que sejam regimes próprios de previdência,
+  nas classes sênior e subordinada; os informes trimestrais de FIP trazem campo equivalente. É a fonte
+  que permite testar diretamente se dinheiro previdenciário público entrou em um fundo determinado.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

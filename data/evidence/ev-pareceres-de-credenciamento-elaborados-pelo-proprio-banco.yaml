@@ -1,0 +1,23 @@
+id: ev-pareceres-de-credenciamento-elaborados-pelo-proprio-banco
+kind: evidence
+classification: C
+proposition: O achado central da auditoria federal é que os termos de credenciamento do Banco Master eram
+  idênticos entre entes de estados diferentes, variando apenas os valores, e que a documentação foi elaborada
+  pelo próprio banco — admissão feita aos auditores pelos técnicos da Amapá Previdência, segundo a reportagem
+  que obteve o documento sigiloso. A mesma constatação foi alcançada de forma independente pelo Tribunal
+  de Contas do Estado do Rio de Janeiro no caso do Itaprevi, que apontou credenciamento sem validação
+  adequada do comitê e com utilização de documentos produzidos pela própria instituição financeira. São
+  duas instituições distintas chegando à mesma conclusão.
+document_ids:
+- doc-2026-relatorio-auditoria-direta-letras-financeiras
+source_ids:
+- src-oglobo-2026-02-11-copia-e-cola-master
+- src-boletimrj-2026-07-18-tce-rj-itaprevi
+excerpt: Aos auditores do ministério, os técnicos da Amprev admitiram que a documentação foi elaborada
+  pelo próprio Master.
+date: '2026-02-11'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

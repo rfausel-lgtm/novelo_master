@@ -42,13 +42,12 @@ open_questions:
 - A Amprev não publicou demonstrativo da posição na data da liquidação do Banco Master.
 - O Parecer nº 146/2024 do Ministério da Previdência Social é conhecido apenas pela descrição na ata do
   CEP; o texto não foi lido pela equipe.
-- Quais 'agentes públicos' estariam em conluio com os investigados, segundo a decisão que autorizou a
-  quebra de sigilo telemático.
-- A decisão fixou prazo de 30 dias para relatório circunstanciado da PF; o resultado dessa etapa não é
-  conhecido pelo corpus.
 - A imprensa noticiou transformação da Amprev em autarquia por lei complementar de julho de 2025; o texto
   consolidado publicado pela própria entidade e o Diário Oficial de fevereiro de 2026 mantêm o enquadramento
   como serviço social autônomo. A equipe não leu a lei complementar.
+- Segundo a reportagem que obteve o relatório sigiloso de auditoria, técnicos da autarquia admitiram aos
+  auditores federais que a documentação de credenciamento do Banco Master foi elaborada pelo próprio banco;
+  a equipe não teve acesso ao documento nem à manifestação da entidade sobre esse ponto específico.
 source_ids:
 - src-amprev-2025-11-19-nota-master
 - src-poder360-2026-02-10-amprev-zona-cinzenta
@@ -69,6 +68,7 @@ source_ids:
 - src-fgc-regulamento-2026-06-03
 - src-timesbrasil-18-rpps-lista
 - src-mps-lista-exaustiva-2024-05-06
+- src-oglobo-2026-02-11-copia-e-cola-master
 jurisdiction: Amapá
 review_status: published
 reviewer: orquestrador

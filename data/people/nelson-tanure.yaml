@@ -15,7 +15,13 @@ summary: 'Empresário baiano (Salvador, 1951), formado em Administração pela U
   com o caso, também sob relatoria de Toffoli. Reportagem posterior (Metrópoles, coluna Grande Angular)
   aponta participação indireta de Tanure na holding da Banvox — gestora do mesmo ecossistema, liquidada
   pelo BC em 03/09/2026 — via debêntures conversíveis no fundo Estocolmo, com termos contratuais sigilosos.
-  Tanure mantém a negativa de qualquer vínculo societário com o Master ou suas gestoras.'
+  Tanure mantém a negativa de qualquer vínculo societário com o Master ou suas gestoras. A leitura integral
+  da decisão de 06/01/2026 precisa a natureza da imputação: a expressão ''sócio oculto'' está dentro da
+  transcrição da manifestação do procurador-geral, que reporta o que a autoridade policial afirmou, e
+  o relator consigna que sua cognição, nessa fase, é necessariamente limitada. No caso Master ele é investigado,
+  alvo de busca pessoal e de bloqueio de bens — não preso, não indiciado, não denunciado. É réu em ação
+  penal distinta, sobre uso de informação privilegiada na aquisição da Upcon pela Gafisa, cuja conexão
+  com o caso Master o próprio relator rejeitou em 27/01/2026.'
 why_in_novelo: Foi alvo de busca pessoal deferida pelo STF em fase da investigação sobre o Banco Master.
 cited_position:
 - kind: denial
@@ -25,7 +31,17 @@ cited_position:
   - src-timesbrasil-2026-defesa-tanure-nega-vinculo
   by_id: nelson-tanure
   date: 2026-01
-open_questions: []
+open_questions:
+- A cifra de R$ 2,5 bilhões aportados no banco desde 2020 não consta da decisão judicial; vem de reportagem,
+  e outra apuração jornalística, apoiada em documentos próprios, indica R$ 1,6 bilhão. As duas metodologias
+  não foram divulgadas.
+- 'A natureza das debêntures da holding da Banvox é objeto de três versões inconciliáveis: conversíveis
+  em ações, não conversíveis mas com cupom pagável em ações, e nem uma coisa nem outra, segundo a defesa.
+  A equipe não teve acesso à escritura.'
+- Testada na base da CVM, não há cotista de regime próprio de previdência nos veículos identificados como
+  dele; o corpus não localizou nenhum caminho documental entre o dinheiro previdenciário público e ativos
+  seus.
+- Não foi confirmado se o indiciamento anunciado como iminente em agosto de 2026 chegou a ocorrer.
 source_ids:
 - src-stf-2026-01-14-novas-diligencias-toffoli
 - src-gazeta-2026-01-30-ligga-tanure-master
@@ -34,11 +50,16 @@ source_ids:
 - src-timesbrasil-2026-defesa-tanure-nega-vinculo
 - src-cnnbrasil-2026-justica-sp-envia-stf-acao-tanure
 - src-metropoles-2026-01-20-trustee-negocio-meio-bilhao-tanure
+- src-stf-decisao-toffoli-2026-01-06-pet-15198
+- src-stf-decisao-toffoli-2026-01-13-busca-tanure
+- src-cvm-informes-fidc-cotistas-rpps
+- src-doesp-2021-07-24-age-bordeaux-debentures
+- src-bcb-2026-09-03-liquidacao-trustee-banvox
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
 photo:
   path: /fotos/nelson-tanure.png
   source: Wikimedia Commons

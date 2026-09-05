@@ -1,0 +1,33 @@
+id: doc-2026-01-06-decisao-toffoli-pet-15198
+kind: document
+title: Decisão de Dias Toffoli na PET 15.198/DF — medidas cautelares na investigação do Banco Master
+doc_type: judicial_decision
+date: '2026-01-06'
+source_ids:
+- src-stf-decisao-toffoli-2026-01-06-pet-15198
+summary: Peça central da investigação. Defere sequestro com teto de R$ 5.775.234.097,25, buscas contra
+  38 alvos e afastamento de sigilo de 101 pessoas e entidades. Descreve a hipótese policial de que o banco
+  teria direcionado recursos captados por meio de CDBs a fundos dos quais era cotista único, usados para
+  adquirir notas comerciais e direitos creditórios de empresas ligadas aos próprios sócios. Quanto a Nelson
+  Tanure, a expressão 'sócio oculto' aparece dentro da transcrição da manifestação do procurador-geral,
+  que reporta o que 'a autoridade policial salientou'. O relator consigna que sua cognição, nessa fase,
+  é necessariamente limitada.
+is_official: true
+related_entity_ids:
+- nelson-tanure
+- daniel-vorcaro
+- banco-master
+- dias-toffoli
+issuer_id: supremo-tribunal-federal
+issuer: Ministro Dias Toffoli, relator
+date_precision: day
+url: https://static.poder360.com.br/2026/01/Toffoli-ve-indicios-de-fraude-bilionaria-em-master-16.jan_.pdf
+reference: STF, PET 15.198/DF, decisão de 06/01/2026
+excerpt: 'a cognição do relator, nessa fase, é necessariamente limitada: examina-se, em síntese, a coerência
+  entre os indícios reunidos nas investigações realizadas e a imprescindibilidade da adoção das medidas
+  requeridas.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

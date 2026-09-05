@@ -1,0 +1,26 @@
+id: rev-2026-09-05-lote-79-auditoria-e-consultoria
+kind: revision
+date: '2026-09-04'
+title: Lote 79 — o parecer escrito pelo próprio banco, e a consultoria dos dois lados
+summary: 'Fecha a linha do canal de colocação. O relatório de auditoria federal tem nome oficial, revelado
+  pela própria Polícia Federal em nota pública: ''Relatório de Auditoria Direta — Letras Financeiras'',
+  da Coordenação-Geral de Auditoria do DRPPS. É sigiloso e está com a PF, e não é um relatório sobre quatro
+  entes, mas um instrumento por classe de ativo que percorreu regimes próprios em vários estados. Seu
+  achado central — os termos de credenciamento eram idênticos e foram elaborados pelo próprio banco, admitido
+  pelos técnicos da Amprev aos auditores — tem confirmação independente do TCE-RJ no caso de Itaguaí.
+  Registrado ainda que a consultoria presente em sete dos compradores declara à CVM assessorar os dois
+  lados do mesmo credenciamento, e que seu principal executivo é quem propõe a compra de letras financeiras
+  na ata de Congonhas. Documentada a assimetria que define o caso: 265 fundos de pensão privados com exposição
+  zero.'
+affected_ids:
+- banco-master
+- amapa-previdencia
+- credito-e-mercado
+- renan-foglia-calamia
+- prevcon-congonhas
+reason: Fechamento da linha investigativa do canal de colocação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
