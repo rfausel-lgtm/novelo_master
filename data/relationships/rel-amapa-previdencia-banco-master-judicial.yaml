@@ -1,0 +1,28 @@
+id: rel-amapa-previdencia-banco-master-judicial
+kind: relationship
+from_id: amapa-previdencia
+to_id: banco-master
+relationship_type: contractual
+directed: true
+label: autora na cautelar de retenção dos consignados
+start_date: '2025-12-16'
+description: A Amapá Previdência e o Estado do Amapá obtiveram, em 19/12/2025, autorização judicial para
+  reter os repasses de empréstimos consignados devidos ao banco, com obrigação de prestar contas a cada
+  noventa dias. A única prestação localizada nos autos soma R$ 7,93 milhões e é impugnada pelo liquidante.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids:
+- evt-2026-08-19-liquidante-impugna-as-contas-do-amapa
+evidence_ids:
+- ev-valores-efetivamente-retidos-nos-consignados
+- ev-estado-do-amapa-alega-fraude-em-juizo
+source_ids:
+- src-tjap-autos-6102005-63-2025
+document_ids:
+- doc-2025-12-19-liminar-retencao-consignados-amapa
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

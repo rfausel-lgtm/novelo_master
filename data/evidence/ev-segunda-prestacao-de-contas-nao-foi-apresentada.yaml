@@ -1,0 +1,19 @@
+id: ev-segunda-prestacao-de-contas-nao-foi-apresentada
+kind: evidence
+classification: D
+proposition: A decisão liminar obrigou os autores a prestar contas a cada noventa dias. A primeira prestação
+  foi protocolada em 22/04/2026 — segundo o liquidante, com trinta e quatro dias de atraso. A segunda,
+  vencida em 17/06/2026, não foi apresentada até a impugnação de agosto de 2026. Nos autos lidos pela
+  equipe não há prestação de contas posterior à de abril.
+document_ids:
+- doc-2026-08-19-impugnacao-do-liquidante-as-contas
+source_ids:
+- src-tjap-autos-6102005-63-2025
+excerpt: Até a presente data, contudo, os Autores permanecem inertes, em novo e injustificado descumprimento
+  da ordem judicial.
+date: '2026-08-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

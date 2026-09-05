@@ -1,0 +1,22 @@
+id: ev-os-63-milhoes-nao-tem-correspondencia-nos-autos
+kind: evidence
+classification: I
+proposition: 'O número de R$ 63 milhões, anunciado publicamente pelo governador do Amapá em fevereiro
+  de 2026 como valor já recuperado, não tem correspondência nos autos da ação que promove a recuperação.
+  A única prestação de contas do processo, protocolada em abril de 2026 e cobrindo até março daquele ano,
+  soma R$ 7,93 milhões. O corpus não afirma que a declaração pública seja falsa: ela pode referir-se a
+  outra grandeza, como os cupons semestrais que o próprio banco pagou antes da liquidação. Registra-se
+  apenas que, no processo judicial destinado a reter e provisionar esses recursos, o número não aparece.'
+document_ids:
+- doc-2026-04-22-prestacao-de-contas-amapa-consignados
+source_ids:
+- src-tjap-autos-6102005-63-2025
+inference_basis: Leitura integral dos autos de 3.475 páginas e cotejo entre a única prestação de contas
+  neles localizada, de 22/04/2026, e a declaração pública atribuída ao governador em fevereiro de 2026.
+  Nenhuma peça do processo menciona o valor de R$ 63 milhões.
+date: '2026-09-05'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

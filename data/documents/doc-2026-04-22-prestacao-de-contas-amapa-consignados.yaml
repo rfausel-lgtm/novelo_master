@@ -1,0 +1,26 @@
+id: doc-2026-04-22-prestacao-de-contas-amapa-consignados
+kind: document
+title: Prestação de contas do Estado do Amapá e da Amprev sobre os consignados retidos
+doc_type: judicial_filing
+date: '2026-04-22'
+source_ids:
+- src-tjap-autos-6102005-63-2025
+summary: 'Primeira e única prestação de contas localizada nos autos. Cobre o período de novembro de 2025
+  a março de 2026 e informa dois montantes: R$ 2.492.222,49 retidos pela Amprev, depositados em conta
+  específica no Banco do Brasil, e R$ 5.441.269,38 retidos pela Secretaria de Estado da Administração.
+  Total de R$ 7.933.491,87. Os autores sustentam que os valores estão integralmente segregados e comprovados
+  por extratos e relatórios anexos.'
+is_official: true
+related_entity_ids:
+- amapa-previdencia
+- banco-master
+issuer: Procuradoria-Geral do Estado do Amapá e Amapá Previdência
+date_precision: day
+url: https://pje.tjap.jus.br/1g/
+reference: Processo nº 6102005-63.2025.8.03.0001, manifestação ID 26706244
+excerpt: 'Saldo total apurado: R$ 2.492.222,49 (...) Montante total já retido: R$ 5.441.269,38'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

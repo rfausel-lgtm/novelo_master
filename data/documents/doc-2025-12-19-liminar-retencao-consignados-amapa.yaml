@@ -1,0 +1,30 @@
+id: doc-2025-12-19-liminar-retencao-consignados-amapa
+kind: document
+title: Decisão liminar que autorizou a retenção dos consignados devidos ao Banco Master
+doc_type: judicial_decision
+date: '2025-12-19'
+source_ids:
+- src-tjap-autos-6102005-63-2025
+summary: Concede a tutela para autorizar o Estado do Amapá e a Amprev a reter os valores devidos ao banco
+  a título de repasses de empréstimos descontados em folha, provisionando-os em conta a ser aberta no
+  Banco do Brasil até o julgamento de mérito. Impõe aos autores a obrigação de prestar contas ao juízo
+  a cada noventa dias e proíbe o banco de adotar qualquer medida constritiva, administrativa ou judicial,
+  contra servidores, aposentados e pensionistas, sob multa diária de R$ 100 mil limitada a R$ 200 milhões.
+  Registra que a petição inicial veio acompanhada de planilhas de pagamentos de consignados, ofício da
+  Amprev ao Banco Central, relatório de investimentos e ata do comitê.
+is_official: true
+related_entity_ids:
+- amapa-previdencia
+- banco-master
+issuer: Juiz Paulo Cesar do Vale Madeira, 2ª Vara de Fazenda Pública de Macapá
+date_precision: day
+url: https://pje.tjap.jus.br/1g/
+reference: Processo nº 6102005-63.2025.8.03.0001, decisão ID 25592691, de 19/12/2025
+excerpt: concedo a tutela pretendida para autorizar o Estado do Amapá e o Amapá Previdência –AMPREV, a
+  reterem valores devidos aos requeridos a título de repasses de empréstimos descontados em folha (...)
+  Os Autores deverão prestar contas ao Juízo sobre os valores depositados, a cada 90 (noventa) dias.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

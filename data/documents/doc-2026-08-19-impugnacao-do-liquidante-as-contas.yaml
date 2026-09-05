@@ -1,0 +1,30 @@
+id: doc-2026-08-19-impugnacao-do-liquidante-as-contas
+kind: document
+title: Impugnação do liquidante do Banco Master à prestação de contas do Estado do Amapá
+doc_type: judicial_filing
+date: '2026-08-19'
+source_ids:
+- src-tjap-autos-6102005-63-2025
+summary: Peça de 19/08/2026, com vinte anexos extraídos dos sistemas internos do banco, contendo nome
+  do servidor, documento, órgão de vinculação, produto contratado — cartão MFácil ou Credcesta —, data
+  e valor de cada parcela. Sustenta que a prestação de contas foi apresentada com trinta e quatro dias
+  de atraso, que a segunda prestação, vencida em 17/06/2026, não foi apresentada, que os valores declarados
+  são globais e sem detalhamento analítico, e que o Estado do Amapá não comprovou o depósito — tendo juntado
+  apenas ordens bancárias de retenção. Pelos registros do banco, o devido no período seria de R$ 16.632.115,61
+  do lado do Estado, contra R$ 5.441.269,38 declarados, resultando em diferença de R$ 11.165.022,70 depois
+  de compensado pequeno excesso do lado da Amprev.
+is_official: true
+related_entity_ids:
+- amapa-previdencia
+- banco-master
+issuer: Banco Master S.A. em liquidação extrajudicial, por seu liquidante
+date_precision: day
+url: https://pje.tjap.jus.br/1g/
+reference: Processo nº 6102005-63.2025.8.03.0001, petição ID 30610527
+excerpt: os Autores deixaram de reter e provisionar, em relação aos valores do Governo do Estado do Amapá,
+  o expressivo montante líquido de R$ 11.165.022,70.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

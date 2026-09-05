@@ -1,0 +1,18 @@
+id: ev-valores-efetivamente-retidos-nos-consignados
+kind: evidence
+classification: D
+proposition: A prestação de contas apresentada nos autos pelo Estado do Amapá e pela Amapá Previdência,
+  relativa ao período de novembro de 2025 a março de 2026, informa R$ 2.492.222,49 retidos pela autarquia
+  previdenciária e R$ 5.441.269,38 retidos pela Secretaria de Estado da Administração — total de R$ 7.933.491,87.
+  É o único demonstrativo de valores localizado no processo.
+document_ids:
+- doc-2026-04-22-prestacao-de-contas-amapa-consignados
+source_ids:
+- src-tjap-autos-6102005-63-2025
+excerpt: 'Saldo total apurado: R$ 2.492.222,49 (...) Montante total já retido: R$ 5.441.269,38'
+date: '2026-04-22'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

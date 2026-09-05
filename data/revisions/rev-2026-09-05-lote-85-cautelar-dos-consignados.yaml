@@ -1,0 +1,22 @@
+id: rev-2026-09-05-lote-85-cautelar-dos-consignados
+kind: revision
+date: '2026-09-05'
+title: 'Lote 85 — a cautelar dos consignados: o número que circulava não está nos autos'
+summary: Obtidos pelo editor e lidos os autos integrais da tutela cautelar nº 6102005-63.2025.8.03.0001,
+  com 3.475 páginas. A única prestação de contas do processo, protocolada em 22/04/2026 e cobrindo novembro
+  de 2025 a março de 2026, soma R$ 7.933.491,87 — R$ 2,49 milhões pela Amprev e R$ 5,44 milhões pela Secretaria
+  de Administração. Os R$ 63 milhões anunciados publicamente em fevereiro de 2026 não têm correspondência
+  em nenhuma peça. A segunda prestação, vencida em junho, não foi apresentada. O liquidante impugnou as
+  contas, apontando que o devido pelo Estado seria de R$ 16,63 milhões, com diferença de R$ 11,16 milhões,
+  e que só a Amprev comprovou depósito. Registrado também que, na inicial, os próprios entes públicos
+  afirmam em juízo que os recursos 'sequer poderiam ter sido investidos, dado que isso só ocorreu por
+  razões fraudulentas'.
+affected_ids:
+- amapa-previdencia
+- banco-master
+reason: Autos obtidos pelo editor com certificado digital.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'
