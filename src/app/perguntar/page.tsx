@@ -22,9 +22,20 @@ Responda usando apenas o que está nesse arquivo. Cite sempre a classe de evidê
 
 Minha pergunta: `;
 
-function Secao({ id, titulo, children }: { id: string; titulo: string; children: React.ReactNode }) {
+function Secao({
+  id,
+  titulo,
+  children,
+}: {
+  id: string;
+  titulo: string;
+  children: React.ReactNode;
+}) {
   return (
-    <section id={id} className="border-border scroll-mt-20 border-t pt-8 pb-6 first:border-t-0 first:pt-0">
+    <section
+      id={id}
+      className="border-border scroll-mt-20 border-t pt-8 pb-6 first:border-t-0 first:pt-0"
+    >
       <h2 className="text-fg mb-3 text-[1.375rem] leading-snug font-semibold tracking-[-0.01em]">
         {titulo}
       </h2>
@@ -47,56 +58,68 @@ export default function PerguntarPage() {
         <p>
           Abra seu assistente, cole o texto abaixo, escreva a pergunta no fim e envie. O arquivo tem{" "}
           {n(corpus.people.length)} pessoas, {n(corpus.organizations.length)} organizações,{" "}
-          {n(corpus.events.length)} eventos e {n(corpus.relationships.length)} relações, cada um com a
-          classe de evidência e a contagem de fontes.
+          {n(corpus.events.length)} eventos e {n(corpus.relationships.length)} relações, cada um com
+          a classe de evidência e a contagem de fontes.
         </p>
         <div className="not-prose mt-4">
           <CopiarPrompt texto={PROMPT} origemCanonica={ORIGEM} />
         </div>
+        <p className="mt-4">
+          Para perguntar sobre uma pessoa ou organização específica, não precisa do acervo inteiro:
+          o dossiê dela tem o botão <strong className="text-fg">Copiar dossiê</strong>, que leva só
+          o que toca aquele registro — relações, eventos, fontes com link e a posição do citado — e
+          um <em>Baixar .txt</em> para quando o assistente não consegue abrir endereço nenhum.
+        </p>
       </Secao>
 
       <Secao id="porque" titulo="Por que colar isso, e não só perguntar">
         <p>
           Um assistente de navegador lê a página que está aberta, não o site. Sem apontar o acervo,
-          ele responde sobre o caso a partir do que aprendeu no treino — que pode estar desatualizado,
-          incompleto ou simplesmente errado, e que não distingue o que aqui é documento do que é
-          alegação.
+          ele responde sobre o caso a partir do que aprendeu no treino — que pode estar
+          desatualizado, incompleto ou simplesmente errado, e que não distingue o que aqui é
+          documento do que é alegação.
         </p>
         <p>
           As instruções do prompt não são cerimônia: são as mesmas regras que a{" "}
-          <Link href="/metodologia">metodologia</Link> impõe a este site. Sem elas, um modelo tende a
-          transformar alegação em fato e a costurar conexões que o corpus não afirma — exatamente o
-          que o projeto existe para não fazer.
+          <Link href="/metodologia">metodologia</Link> impõe a este site. Sem elas, um modelo tende
+          a transformar alegação em fato e a costurar conexões que o corpus não afirma — exatamente
+          o que o projeto existe para não fazer.
         </p>
       </Secao>
 
       <Secao id="limites" titulo="O que a resposta não é">
         <p>
           Resposta de assistente <strong className="text-fg">não é fonte</strong>. Ela pode errar
-          mesmo com o acervo à mão: resumir demais, embaralhar datas, atribuir a uma pessoa o que é de
-          outra. Use-a para achar o caminho, e confirme no registro citado — cada id do acervo tem
-          página própria, com as fontes e a posição do citado.
+          mesmo com o acervo à mão: resumir demais, embaralhar datas, atribuir a uma pessoa o que é
+          de outra. Use-a para achar o caminho, e confirme no registro citado — cada id do acervo
+          tem página própria, com as fontes e a posição do citado.
         </p>
         <p>
           Se a resposta divergir do que está na página, a página prevalece. E se você encontrar erro
-          no próprio acervo, <Link href="/sobre#resposta">escreva</Link>: correção confirmada entra em{" "}
-          <Link href="/atualizacoes">atualizações</Link>.
+          no próprio acervo, <Link href="/sobre#resposta">escreva</Link>: correção confirmada entra
+          em <Link href="/atualizacoes">atualizações</Link>.
         </p>
       </Secao>
 
       <Secao id="arquivos" titulo="Os arquivos, para quem quiser ir direto">
         <ul>
           <li>
-            <a href="/acervo.txt">acervo.txt</a> — o corpus inteiro em texto, com classe de evidência
-            e fontes por registro. É o arquivo do prompt acima.
+            <a href="/acervo.txt">acervo.txt</a> — o corpus inteiro em texto, com classe de
+            evidência e fontes por registro. É o arquivo do prompt acima.
           </li>
           <li>
-            <a href="/llms.txt">llms.txt</a> — índice curto no padrão que assistentes procuram, com as
-            regras de leitura e os links.
+            <a href="/dossies/daniel-vorcaro.txt">dossies/&lt;id&gt;.txt</a> — um arquivo por pessoa
+            e organização, no mesmo formato do acervo, com as fontes com link. É o que o botão do
+            dossiê copia.
           </li>
           <li>
-            <a href="/data/graph.json">graph.json</a> — o grafo: nós, arestas, categorias e posições.{" "}
-            <a href="/data/graph-evidence.json">graph-evidence.json</a> traz a camada probatória.
+            <a href="/llms.txt">llms.txt</a> — índice curto no padrão que assistentes procuram, com
+            as regras de leitura e os links.
+          </li>
+          <li>
+            <a href="/data/graph.json">graph.json</a> — o grafo: nós, arestas, categorias e
+            posições. <a href="/data/graph-evidence.json">graph-evidence.json</a> traz a camada
+            probatória.
           </li>
           <li>
             <a href="/data/novelo.kml">novelo.kml</a> — os lugares geolocalizados, para abrir no

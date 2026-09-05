@@ -13,7 +13,7 @@ import { lintCorpus } from "./lib/lint";
 import { buildGraph, splitEvidenceLayer } from "./lib/graph";
 import { printIssues } from "./lib/report";
 import { construirKml } from "./lib/kml";
-import { construirAcervo, construirLlmsTxt } from "./lib/acervo";
+import { construirAcervo, construirDossies, construirLlmsTxt } from "./lib/acervo";
 
 const ROOT = path.resolve(__dirname, "..");
 const DATA_DIR = path.join(ROOT, "data");
@@ -22,8 +22,7 @@ const PUBLIC_DIR = path.join(ROOT, "public");
 const PUBLIC_DATA_DIR = path.join(PUBLIC_DIR, "data");
 
 const args = new Set(process.argv.slice(2));
-const includeDrafts =
-  args.has("--include-drafts") || process.env.NOVELO_INCLUDE_DRAFTS === "true";
+const includeDrafts = args.has("--include-drafts") || process.env.NOVELO_INCLUDE_DRAFTS === "true";
 const doLayout = !args.has("--no-layout");
 
 const t0 = Date.now();
@@ -64,6 +63,23 @@ const acervo = construirAcervo(corpus);
 fs.writeFileSync(path.join(PUBLIC_DIR, "acervo.txt"), acervo.texto);
 fs.writeFileSync(path.join(PUBLIC_DIR, "llms.txt"), construirLlmsTxt(corpus));
 
+/*
+ * Um dossiê em texto por pessoa e organização: o botão "Copiar dossiê" busca este arquivo em vez de
+ * embutir o texto na página, e ele serve de download para quem quer levar um registro só ao
+ * assistente. Diretório recriado a cada build, para registro retratado não sobreviver por aqui.
+ */
+const DOSSIES_DIR = path.join(PUBLIC_DIR, "dossies");
+fs.rmSync(DOSSIES_DIR, { recursive: true, force: true });
+fs.mkdirSync(DOSSIES_DIR, { recursive: true });
+const dossies = construirDossies(corpus);
+const tamanhos: Record<string, number> = {};
+for (const [id, texto] of dossies) {
+  fs.writeFileSync(path.join(DOSSIES_DIR, `${id}.txt`), texto);
+  tamanhos[id] = Buffer.byteLength(texto);
+}
+/* O tamanho vai à página: o dossiê do Vorcaro passa de 300 KB, e colar isso sem aviso é armadilha. */
+fs.writeFileSync(path.join(GENERATED_DIR, "dossies.json"), JSON.stringify(tamanhos, null, 2));
+
 fs.writeFileSync(
   path.join(GENERATED_DIR, ".gitkeep"),
   "# gerado por scripts/build-data.ts — não editar\n",
@@ -78,5 +94,5 @@ console.log(
     `${base.nodes.length} nós / ${base.edges.length} arestas no núcleo ` +
     `(+${layer.nodes.length} nós e ${layer.edges.length} arestas na camada probatória; ` +
     `${kml.lugares} lugar(es) no KML; acervo.txt com ${acervo.registros} registros, ` +
-    `${Math.round(acervo.texto.length / 1024)} KB)`,
+    `${Math.round(acervo.texto.length / 1024)} KB; ${dossies.size} dossiês em texto)`,
 );

@@ -668,5 +668,9 @@ export const RevisionSchema = z.object({
   updated_relationships: z.number().int().nonnegative().default(0),
   corrections: z.array(z.string()).default([]),
   author: z.string().optional(),
+  /** Título curto da revisão, para listas; `summary` pode ser um parágrafo inteiro. */
+  title: z.string().optional(),
+  /** Registros que a revisão tocou; viram links em /atualizacoes e na home. */
+  affected_ids: z.array(IdSchema).default([]),
 });
 export type Revision = z.infer<typeof RevisionSchema>;

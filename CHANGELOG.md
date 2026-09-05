@@ -7,6 +7,18 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Filtros da cronologia e dos índices na URL (`?agente=`, `?tipo=`, `?classe=`, `?q=`), com botão
+  "Copiar link deste recorte". Voltar de um registro deixou de perder o recorte, e o link mostra a
+  outra pessoa a mesma vista. O recorte é reproduzido sobre os dados atuais, não sobre uma versão
+  histórica. A leitura da URL é feita por `useSyncExternalStore`, e não por `useSearchParams`, que na
+  exportação estática tiraria a cronologia e os índices do HTML — justamente o conteúdo indexável.
+- "Copiar dossiê" e "Baixar .txt" em cada pessoa e organização, servindo `/dossies/<id>.txt`
+  gerado no build: 194 arquivos com as mesmas regras de vínculo das páginas, sem truncamento, com as
+  fontes por URL. Serve para perguntar sobre um registro só, e para quando o assistente não consegue
+  abrir endereço nenhum — foi o que aconteceu num teste real. O tamanho é anunciado no botão, porque
+  os dossiês vão de 3 KB a 339 KB.
+- Três últimas atualizações editoriais na página inicial, com os registros que cada uma tocou e
+  âncora para a entrada correspondente em `/atualizacoes`. Revisões, não commits.
 - Marcas oficiais de mais sete organizações (STF, TCU, CVM, COAF, OAB Conselho Federal, Partido Novo e
   Polícia Civil de SP), do Wikimedia Commons, em domínio público ou Creative Commons, com autoria,
   licença e link para o arquivo original — de 13 para 20 das 80 organizações. As 60 restantes são,
@@ -370,6 +382,9 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Corrigido
 
+- As 70 revisões do corpus têm a mesma `date`, e a ordenação só por ela deixava o desempate por
+  ordem de leitura do disco: `/atualizacoes` abria num lote do meio. O desempate agora é pelo id,
+  em ordem natural, que carrega a sequência dos lotes.
 - O prompt copiável de `/perguntar` trazia a URL de produção cravada: quem lia a página numa prévia, num
   espelho ou no domínio de deploy mandava o assistente a um endereço que não era o do site à frente.
   Agora o texto é reescrito para a origem em que o leitor está.
