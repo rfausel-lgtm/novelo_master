@@ -1,0 +1,21 @@
+id: src-amprev-ata-4a-ext-ciap-2024
+kind: source
+title: Ata da 4ª Reunião Extraordinária do Comitê de Investimentos da Amprev (14/03/2024)
+publisher: Amapá Previdência (Amprev)
+publication_date: '2024-03-14'
+retrieved_at: '2026-09-04'
+url: https://amprev.ap.gov.br/uploads/setores/CIAP/documentos/CIAP%202024/ATAS%20ASSINADAS%202024/ATA%20DA%204%C2%AA%20REUNI%C3%83O%20EXTRAORDIN%C3%81RIA%20CIAP%202024..pdf
+source_type: official_government
+summary: Ata assinada eletronicamente, com código verificador SIGDoc, baixada e lida integralmente pela
+  equipe. Registra a apresentação institucional do Banco Master ao Comitê de Investimentos, feita a pedido
+  do próprio banco, quatro meses antes das aplicações de julho de 2024.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

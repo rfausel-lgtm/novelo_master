@@ -1,0 +1,23 @@
+id: ev-amprev-equivalia-a-quase-metade-das-letras-do-master
+kind: evidence
+classification: D
+proposition: Na sessão de 19/07/2024, o conselheiro Gláucio Bezerra relatou ter consultado o Banco Central
+  e verificado que a captação total do Banco Master em letras financeiras somava cerca de R$ 680 milhões
+  até abril de 2024. Os R$ 300 milhões já aprovados pela Amprev àquela altura equivaliam, portanto, a
+  cerca de 44% de todo o estoque de letras financeiras do emissor — e os R$ 400 milhões finais, a quase
+  59%. A concentração relevante não era apenas da carteira do fundo no banco, mas do funding do banco
+  em um único fundo público.
+document_ids:
+- doc-2024-07-19-ata-12a-ext-ciap-votos-contrarios
+source_ids:
+- src-amprev-ata-12a-ext-ciap-2024
+excerpt: o último valor da demonstração financeira apresentada pelo Banco Master indicam que a captação
+  do banco, salvo engano, era até abril de 2024 com captação total de letras financeiras perfaziam um
+  montante de mais ou menos R$ 680 milhões, o que o preocupou também em relação a concentração que eventualmente
+  a Amprev pode ter nesse produto especifico do emissor
+date: '2024-07-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

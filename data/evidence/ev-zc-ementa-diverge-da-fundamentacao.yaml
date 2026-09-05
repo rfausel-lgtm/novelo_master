@@ -6,11 +6,16 @@ proposition: 'A ementa da decisão anuncia como objeto os aportes em fundos de i
   R$ 400 milhões em letras financeiras do Banco Master aprovados em julho de 2024. As duas trilhas convivem
   no mesmo ato: o relatório descreve o acervo do FIDC e a fundamentação, o do Master. A divergência pode
   indicar que a investigação abrange dois conjuntos de fatos ou apenas um descompasso de redação entre
-  ementa e corpo — o corpus não tem elementos para decidir entre as hipóteses.'
+  ementa e corpo — o corpus não tem elementos para decidir entre as hipóteses. A hipótese de descompasso
+  de redação ganhou muita força: verificou-se depois que não houve reunião do comitê em 14/09/2021, que
+  não havia FIDC na carteira da Amprev em nenhum mês de 2021 e que nenhum dos três investigados integrava
+  o colegiado naquele ano.'
 document_ids:
 - doc-2026-02-decisao-zona-cinzenta-4a-vara-ap
 source_ids:
 - src-decisao-zona-cinzenta-integral-pje-trf1
+- src-amprev-demonstrativo-2021-09
+- src-amprev-ata-4a-ext-ciap-2024
 inference_basis: Cotejo literal entre a ementa (que menciona 'APORTES TEMERÁRIOS EM FUNDOS DE INVESTIMENTO
   CREDITÓRIO (FIDC)' e 'DELIBERAÇÕES DO COMITÊ DE INVESTIMENTOS EM SETEMBRO DE 2021') e a seção II.2 da
   fundamentação, que trata do 'aporte temerário de quatrocentos milhões de reais em ativos do Banco Master'.

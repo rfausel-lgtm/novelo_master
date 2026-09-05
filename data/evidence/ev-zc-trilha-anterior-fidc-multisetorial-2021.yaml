@@ -1,16 +1,16 @@
 id: ev-zc-trilha-anterior-fidc-multisetorial-2021
 kind: evidence
 classification: D
-proposition: 'A decisão descreve uma trilha investigativa anterior e distinta dos R$ 400 milhões: deliberações
-  do Comitê de Investimentos da Amprev em reuniões extraordinárias de setembro de 2021 que aprovaram a
-  aquisição de cotas do FIDC Multisetorial, com aportes que totalizam R$ 15 milhões e deliberação registrada
-  na reunião de 14/09/2021, instruídas pelo Parecer Técnico nº 36/2021. A decisão consigna que essas deliberações
-  ocorreram com inobservância de alertas técnicos e ausência de certificação profissional de membros do
-  comitê.'
+proposition: A decisão da operação Zona Cinzenta contém passagem descrevendo deliberações do Comitê de
+  Investimentos da Amprev em reuniões extraordinárias de setembro de 2021 que teriam aprovado a aquisição
+  de cotas de um FIDC Multisetorial, com aportes de R$ 15 milhões, deliberação de 14/09/2021 e Parecer
+  Técnico nº 36/2021. A evidência registra a existência da passagem no documento judicial — não a ocorrência
+  dos fatos nela descritos, que os registros públicos da própria Amprev contradizem (ver ev-passagem-do-fidc-de-2021-contradita-pelos-registros-da-amprev).
 document_ids:
 - doc-2026-02-decisao-zona-cinzenta-4a-vara-ap
 source_ids:
 - src-decisao-zona-cinzenta-integral-pje-trf1
+- src-amprev-demonstrativo-2021-09
 excerpt: registros de reuniões extraordinárias realizadas em setembro de 2021, em que se deliberou a aquisição
   de cotas do FIDC Multisetorial (...) Há registros de aportes que totalizam R$ 15.000.000,00, destinados
   ao referido fundo, que se coadunam com a deliberação registrada na reunião de 14/09/2021. Consta, ainda,

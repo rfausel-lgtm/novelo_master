@@ -22,13 +22,16 @@ evidence_ids:
 - ev-zc-condicoes-letras-financeiras-master
 - ev-zc-teds-de-15-07-2024-ao-banco-master
 - ev-gerentes-caixa-asset-destituidos-antes-do-aporte
+- ev-cotacoes-comparadas-na-sessao-de-12-07-2024
 source_ids:
 - src-decisao-zona-cinzenta-integral-pje-trf1
 - src-diofe-8556-2025-12-16
+- src-amprev-ata-11a-ext-ciap-2024
 document_ids:
 - doc-2026-02-decisao-zona-cinzenta-4a-vara-ap
 - doc-2024-07-12-ata-11a-reuniao-extraordinaria-ciap
 - doc-2025-12-16-ata-cep-cronologia-julho-2024
+- doc-2024-07-12-ata-11a-ext-ciap-cotacoes-comparadas
 public_act_ids: []
 location: Macapá (AP)
 review_status: published

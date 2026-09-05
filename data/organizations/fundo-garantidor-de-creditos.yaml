@@ -37,6 +37,9 @@ open_questions:
 - O rombo potencial para o FGC caso o Banco Máxima fosse liquidado saltou de R$ 827 milhões em 2016 para
   R$ 3,224 bilhões em 2019, segundo apuração do Valor Econômico sobre os votos do BC — dado relevante
   para avaliar o custo comparativo entre autorizar a venda e deixar o banco quebrar.
+- O regulamento exclui expressamente da garantia ordinária os créditos de regimes próprios de previdência
+  social, exclusão em vigor desde a Resolução CMN 4.620/2017 — de modo que nenhum dos dezoito RPPS expostos
+  ao Master tem cobertura.
 source_ids:
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
 - src-cnn-2026-03-04-relembre-crise-master
@@ -47,11 +50,12 @@ source_ids:
 - src-bcb-normativos-res-4222-estatuto-fgc
 - src-msn-brasil247-2026-01-fgc-apoiou-compra-maxima-2019
 - src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- src-fgc-regulamento-2026-06-03
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-04'
 photo:
   path: /fotos/fundo-garantidor-de-creditos.png
   source: Wikimedia Commons

@@ -1,0 +1,42 @@
+id: evt-2024-03-14-banco-master-se-apresenta-ao-comite-da-amprev
+kind: event
+title: Banco Master pede reunião e apresenta ao comitê da Amprev sua operação de captação junto a RPPS
+event_type: meeting
+date: '2024-03-14'
+date_precision: day
+participant_ids:
+- banco-master
+- amapa-previdencia
+- paula-vouguinha
+- alberto-felix-oliveira
+- jocildo-lemos
+- jose-milton-afonso-goncalves
+- jackson-rubens-de-oliveira
+- alexandre-flavio-medeiros-monteiro
+- glaucio-maciel-bezerra
+description: 'Quatro meses antes das aplicações, o próprio Banco Master solicitou reunião com o Comitê
+  de Investimentos da Amapá Previdência. Paula Vouguinha, de relações institucionais, e Alberto Félix
+  Oliveira, tesoureiro, apresentaram a instituição e descreveram em números a captação institucional montada
+  desde novembro de 2023: cinco clientes, quarenta credenciamentos em andamento e R$ 700 milhões já captados.
+  Recomendaram o prazo de dez anos como o de melhor taxa e sustentaram que o banco não precisaria constar
+  da lista exaustiva da Secretaria de Previdência. É o registro documental do canal de colocação — a evidência
+  de que a compra de letras do Master por dezoito regimes próprios em todo o país não foi uma soma de
+  decisões locais independentes, mas o resultado de uma operação de captação deliberada e datada.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-master-se-apresentou-ao-comite-da-amprev-em-2024
+- ev-master-descreve-sua-operacao-de-captacao-junto-a-rpps
+- ev-prazo-de-dez-anos-foi-recomendacao-do-vendedor
+- ev-master-argumentou-nao-precisar-da-lista-exaustiva
+source_ids:
+- src-amprev-ata-4a-ext-ciap-2024
+document_ids:
+- doc-2024-03-14-ata-4a-ext-ciap-apresentacao-do-master
+public_act_ids: []
+location: Macapá (AP)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

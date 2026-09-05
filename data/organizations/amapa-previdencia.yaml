@@ -28,11 +28,18 @@ cited_position:
   by_id: amapa-previdencia
   date: '2026-02-09'
 open_questions:
-- As atas do Comitê de Investimentos de 12, 19 e 30/07/2024 são conhecidas pelos trechos transcritos na
-  decisão judicial e na ata do Conselho Estadual de Previdência; a equipe não leu o inteiro teor, embora
-  a ata do CEP afirme que a da 11ª reunião está no site da entidade.
-- Não se sabe se o FIDC Multisetorial cujas cotas a Amprev adquiriu em 2021 tem relação com o Banco Master,
-  com Daniel Vorcaro ou com o grupo — a decisão judicial não faz essa ligação.
+- A passagem da decisão judicial sobre deliberações de FIDC em setembro de 2021 é contraditada pelos registros
+  públicos da própria Amprev em cinco pontos independentes; não se sabe se há erro de redação na peça
+  ou fatos ocorridos em outro colegiado.
+- As atas do Conselho Estadual de Previdência de 2021 estão listadas no site da entidade, mas todos os
+  dezessete links retornam erro 404 — é a única via institucional que ficou fechada.
+- O Parecer nº 146/2024 do Ministério da Previdência Social é conhecido apenas pela descrição em ata;
+  o texto não foi lido pela equipe.
+- Quais 'agentes públicos' estariam em conluio com os investigados, segundo a decisão que autorizou a
+  quebra de sigilo telemático.
+- A decisão fixou prazo de 30 dias para relatório circunstanciado da PF; o resultado dessa etapa não é
+  conhecido pelo corpus.
+- A Amprev não publicou demonstrativo da posição na data da liquidação do Banco Master.
 - O Parecer nº 146/2024 do Ministério da Previdência Social é conhecido apenas pela descrição na ata do
   CEP; o texto não foi lido pela equipe.
 - Quais 'agentes públicos' estariam em conluio com os investigados, segundo a decisão que autorizou a
@@ -55,6 +62,11 @@ source_ids:
 - src-diofe-8556-2025-12-16
 - src-diofe-8594-2026-02-11
 - src-amprev-ata-9a-ordinaria-cep-2025-09-17
+- src-amprev-ata-4a-ext-ciap-2024
+- src-amprev-ata-11a-ext-ciap-2024
+- src-amprev-ata-12a-ext-ciap-2024
+- src-amprev-ata-14a-ext-ciap-2024
+- src-fgc-regulamento-2026-06-03
 jurisdiction: Amapá
 review_status: published
 reviewer: orquestrador

@@ -1,18 +1,21 @@
 id: ev-amprev-comprou-letras-de-santander-e-safra-no-mesmo-mes
 kind: evidence
 classification: D
-proposition: O mesmo demonstrativo de julho de 2024 mostra que a Amprev adquiriu, naquele mês, letras
-  financeiras do Banco Santander (R$ 100.546.673,20, prazo de quatro anos) e do Banco Safra (R$ 100.467.170,76,
-  prazo de quatro anos), além de já deter letras do BTG Pactual e do Bradesco. A afirmação policial de
-  que o relator das propostas 'rejeitou ofertas de bancos de primeira linha como Santander, BTG Pactual
-  e Safra' precisa portanto ser lida como recusa dentro daquela deliberação específica, e não como recusa
-  geral desses emissores pela entidade.
+proposition: 'A afirmação policial de que o relator das propostas ''rejeitou ofertas de bancos de primeira
+  linha como Santander, BTG Pactual e Safra'' não se sustenta na ata da própria sessão: em 12/07/2024
+  as cotações dos cinco emissores foram apresentadas lado a lado e o comitê aprovou, por unanimidade e
+  na mesma deliberação, R$ 100 milhões em letras do BTG Pactual e R$ 200 milhões em letras do Master.
+  O demonstrativo de julho de 2024 confirma a aquisição de letras do Santander e do Safra no mesmo mês.
+  O que distingue o Master não é ter sido preferido com exclusão dos demais, mas ter recebido o dobro,
+  no vértice mais longo e à taxa mais alta.'
 document_ids:
 - doc-2024-07-31-demonstrativo-ativos-amprev
 - doc-2026-02-decisao-zona-cinzenta-4a-vara-ap
+- doc-2024-07-12-ata-11a-ext-ciap-cotacoes-comparadas
 source_ids:
 - src-amprev-demonstrativo-ativos-2024-07
 - src-decisao-zona-cinzenta-integral-pje-trf1
+- src-amprev-ata-11a-ext-ciap-2024
 date: '2024-07-31'
 review_status: published
 reviewer: orquestrador
