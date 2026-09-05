@@ -1,0 +1,24 @@
+id: ev-contradicoes-cronologia-e-valores-pollaris
+kind: evidence
+classification: A
+proposition: 'A cronologia e os valores do contrato de consultoria de Mantega não se reconciliam entre
+  fontes, incluindo dentro do próprio Metrópoles: (1) Mantega, em declaração de 08/04/2026, afirma que
+  o contrato formal foi encerrado em agosto de 2025; a coluna de Andreza Matais (mesmo veículo, matéria
+  diferente, 24/01/2026) diz que ele seguiu fazendo lobby pelo Master até novembro de 2025. (2) A mesma
+  frase da coluna da Matais é reproduzida com ''R$ 16 milhões'' (Metrópoles original, O Antagonista) e
+  ''R$ 11 milhões'' (TopMídia News) como valor mínimo total. (3) A aritmética interna não fecha: R$ 1
+  milhão/mês por 5 meses (jul-nov/2025) resultaria em R$ 5 milhões, não ''ao menos R$ 16 milhões'' — nenhuma
+  fonte localizada explica a diferença. Nenhuma dessas três contradições foi resolvida por qualquer fonte
+  disponível à equipe.'
+document_ids: []
+source_ids:
+- src-metropoles-2026-04-08-master-declarou-pagamentos-temer-acmneto-rueda-lewandowski
+- src-metropoles-2026-01-24-wagner-mantega
+- src-topmidianews-2026-wagner-mantega-lewandowski-11milhoes
+- src-oantagonista-2026-01-25-boquinha-mantega-master
+attributed_to: Comparação entre declaração de Mantega e reportagens do Metrópoles/réplicas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

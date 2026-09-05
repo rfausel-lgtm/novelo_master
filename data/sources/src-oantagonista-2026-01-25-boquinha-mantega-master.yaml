@@ -1,0 +1,21 @@
+id: src-oantagonista-2026-01-25-boquinha-mantega-master
+kind: source
+title: A boquinha de Guido Mantega no Banco Master
+publisher: O Antagonista
+publication_date: '2026-01-25'
+retrieved_at: '2026-09-05'
+url: https://oantagonista.com.br/brasil/a-boquinha-de-guido-mantega-no-banco-master/
+source_type: press
+summary: Reproduz, atribuindo expressamente ao Metrópoles ('diz o Metrópoles'), a mesma apuração da coluna
+  de Andreza Matais sobre a contratação de Mantega a pedido de Wagner e o valor de R$ 16 milhões — não
+  é apuração jornalística independente, é replicação da mesma fonte original.
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

@@ -1,0 +1,23 @@
+id: src-metropoles-2026-04-08-master-declarou-pagamentos-temer-acmneto-rueda-lewandowski
+kind: source
+title: Master declarou pagamentos a Temer, ACM Neto, Rueda e Lewandowski
+publisher: Metrópoles
+publication_date: '2026-04-08'
+retrieved_at: '2026-09-05'
+url: https://www.metropoles.com/brasil/master-declarou-pagamentos-a-temer-rueda-acm-neto-e-lewandowski
+source_type: press
+summary: 'Reportagem sobre o envio, pela Receita Federal, dos dados de pagamentos do Banco Master à CPI
+  do Crime Organizado. Traz declaração direta de Guido Mantega: ''Prestei consultoria econômica financeira
+  para o Banco Master em 2024 e parte de 2025, mediante contrato formal, e emissão de notas fiscais, encerrado
+  em agosto de 2025. Quando firmei o contrato não tinha conhecimento de nenhuma irregularidade eventualmente
+  cometida por essa instituição financeira.'''
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

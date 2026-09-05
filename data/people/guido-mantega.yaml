@@ -4,14 +4,26 @@ name: Guido Mantega
 category: businessperson
 role: Ex-ministro da Fazenda; consultor do Banco Master, segundo a imprensa
 positions: []
-summary: Ex-ministro da Fazenda. Segundo CNN Brasil, Gazeta do Povo e Brasil Paralelo, prestava consultoria
+summary: 'Ex-ministro da Fazenda. Segundo CNN Brasil, Gazeta do Povo e Brasil Paralelo, prestava consultoria
   ao Banco Master e articulou o encontro de 04/12/2024 entre Vorcaro e Lula no Planalto, chegando acompanhado
   do banqueiro e de Augusto Lima; teria ido ao Planalto ao menos seis vezes, recebido pelo chefe de gabinete
-  de Lula. Sua empresa, a Pollaris Consultoria, aberta em 30/04/2024 e transferida em setembro do mesmo
-  ano para Barueri, recebeu R$ 14 milhões do Banco Master entre 2024 e 2025, segundo registros da Receita
-  Federal confirmados no relatório final da CPI do Crime Organizado — que ressalva que os pagamentos,
-  isoladamente, não configuram a priori prática ilícita. Não é indiciado no relatório da CPI, não consta
-  do relatório da PF sobre o celular de Vorcaro e não foi localizado como alvo de operação ou indiciamento.
+  de Lula. Segundo o Metrópoles, sua tarefa concreta no Master era ''azeitar a venda da empresa de Vorcaro
+  para o Banco de Brasília (BRB)'' — a descrição mais precisa disponível sobre o escopo do trabalho. Sua
+  empresa, a Pollaris Consultoria, aberta em 30/04/2024 e transferida em setembro do mesmo ano para Barueri,
+  recebeu R$ 14 milhões do Banco Master entre 2024 e 2025, segundo registros da Receita Federal enviados
+  à CPI do Crime Organizado e citados no relatório do relator Alessandro Vieira — relatório rejeitado
+  por 6 votos a 4 pela própria comissão em 14/04/2026, portanto não uma conclusão oficial, ainda que os
+  dados da Receita ali anexados sejam formais. Reportagens do Metrópoles trazem valores e prazos que não
+  se reconciliam entre si nem com a declaração do próprio Mantega: ele afirma (08/04/2026) que o contrato
+  formal terminou em agosto de 2025, enquanto outra coluna do mesmo veículo (24/01/2026) fala em lobby
+  pelo Master até novembro de 2025, por R$ 1 milhão/mês, ''ao menos R$ 16 milhões'' no período — valor
+  que aparece como R$ 11 milhões em uma réplica do mesmo texto por outro veículo, e cuja aritmética (R$
+  1 milhão × 5 meses = R$ 5 milhões) não bate com o total citado. ACHADO POR LEITURA DIRETA: o nome ''Mantega''
+  não aparece nenhuma vez nas 218 páginas do relatório da PF sobre o celular de Vorcaro, verificação cruzada
+  contra outras contagens já publicadas do mesmo documento (''Moraes'': 109, ''Alcolumbre'': 0), que batem
+  exatamente — indício, não prova, de que a relação foi majoritariamente institucional, sem contato pessoal
+  direto identificado. Não é indiciado no relatório da CPI, não consta do relatório da PF sobre o celular
+  de Vorcaro e não foi localizado como alvo de operação ou indiciamento.'
 why_in_novelo: É apontado pela imprensa como consultor do Banco Master e articulador do encontro de dezembro
   de 2024 entre Daniel Vorcaro e o presidente Lula.
 cited_position:
@@ -27,22 +39,31 @@ cited_position:
   by_id: guido-mantega
   date: 2026-08
 open_questions:
-- A posição de Mantega sobre a consultoria e o encontro não foi localizada em fonte verificada do corpus;
-  o valor da consultoria (R$ 1 milhão mensal, segundo a imprensa) não foi confirmado em documento.
+- A posição de Mantega sobre a consultoria e o encontro não foi localizada em fonte verificada do corpus
+  além das notas já citadas; o valor da consultoria (R$ 1 milhão mensal, segundo a imprensa) não foi confirmado
+  em documento.
+- Os valores e prazos do contrato da Pollaris (R$ 14mi/16mi/11mi; fim em agosto ou lobby até novembro
+  de 2025) não foram reconciliados por nenhuma fonte disponível — inclusive dentro do próprio Metrópoles,
+  que publicou as duas versões conflitantes.
+- Não foi localizado qualquer indício de contato pessoal direto (mensagem, encontro informal, viagem)
+  entre Mantega e Vorcaro além da mediação institucional já registrada.
 source_ids:
+- src-brasilparalelo-2026-02-planalto-sem-registros
 - src-cnn-2026-01-lula-vorcaro-fora-da-agenda
 - src-gazeta-2026-03-05-vorcaro-otimo-encontro
-- src-brasilparalelo-2026-02-planalto-sem-registros
-- src-metropoles-2026-01-24-wagner-mantega
 - src-jbrasilia-2026-08-pollaris-mantega-sala-sem-janela
+- src-metropoles-2026-01-24-wagner-mantega
+- src-metropoles-2026-04-08-master-declarou-pagamentos-temer-acmneto-rueda-lewandowski
+- src-oantagonista-2026-01-25-boquinha-mantega-master
 - src-poder360-2026-01-28-mantega-cinco-reunioes-chefe-de-gabinete
+- src-topmidianews-2026-wagner-mantega-lewandowski-11milhoes
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Guido_Mantega
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-05'
 photo:
   path: /fotos/guido-mantega.jpg
   source: Wikimedia Commons

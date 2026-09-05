@@ -1,0 +1,20 @@
+id: ev-mantega-tarefa-azeitar-venda-ao-brb
+kind: evidence
+classification: A
+proposition: 'Segundo a coluna de Andreza Matais no Metrópoles, a tarefa de Guido Mantega no Banco Master
+  era ''azeitar a venda da empresa de Vorcaro para o Banco de Brasília (BRB)'' — é a descrição mais concreta
+  disponível sobre o escopo do trabalho de consultoria, para além da articulação do encontro de 04/12/2024
+  no Planalto. O período relatado de atuação nesse lobby (julho a novembro de 2025) engloba a rejeição
+  da compra pelo Banco Central em 03/09/2025 — correlação temporal registrada aqui como hipótese explícita
+  da equipe (classe I), não como fato relatado por nenhuma fonte: é plausível que o trabalho incluísse
+  tentar reverter o veto, mas nenhuma fonte afirma isso.'
+document_ids: []
+source_ids:
+- src-metropoles-2026-01-24-wagner-mantega
+attributed_to: Metrópoles, coluna de Andreza Matais
+date: 2025-07
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

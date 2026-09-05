@@ -1,16 +1,19 @@
 id: ev-pollaris-de-mantega-recebeu-14-milhoes
 kind: evidence
 classification: C
-proposition: A Pollaris Consultoria, empresa de Guido Mantega, recebeu R$ 14 milhões do Banco Master entre
-  2024 e 2025, segundo registros da Receita Federal enviados à CPI do Crime Organizado e confirmados no
-  relatório final da comissão, que descreve a consultoria como tendo 'atuado na aproximação de Vorcaro
+proposition: 'A Pollaris Consultoria, empresa de Guido Mantega, recebeu R$ 14 milhões do Banco Master
+  entre 2024 e 2025, segundo registros da Receita Federal enviados à CPI do Crime Organizado e confirmados
+  no relatório final da comissão, que descreve a consultoria como tendo ''atuado na aproximação de Vorcaro
   com o governo federal, chegando a levá-lo a uma reunião com o presidente da República no Palácio do
-  Planalto'. O mesmo relatório ressalva expressamente que 'cada um desses pagamentos, vistos de forma
-  isolada, não configuram a priori nenhuma prática ilícita' — salvaguarda que deve acompanhar sempre o
-  dado. A empresa foi aberta em 30/04/2024 em São Paulo e transferida em 03/09/2024 para Barueri, onde
+  Planalto''. O mesmo relatório ressalva expressamente que ''cada um desses pagamentos, vistos de forma
+  isolada, não configuram a priori nenhuma prática ilícita'' — salvaguarda que deve acompanhar sempre
+  o dado. A empresa foi aberta em 30/04/2024 em São Paulo e transferida em 03/09/2024 para Barueri, onde
   o ISS de consultoria é de 2% contra 5% na capital. Mantega não é indiciado no relatório da CPI, não
   consta do relatório da PF lido pela equipe e não foi localizado como alvo de operação, busca ou indiciamento.
-  A CPI aprovou convite — não convocação — a ele em 25/02/2026, sem registro de depoimento.
+  A CPI aprovou convite — não convocação — a ele em 25/02/2026, sem registro de depoimento. Ressalva de
+  proveniência: o ''relatório final'' citado é o do relator Alessandro Vieira (MDB-SE), rejeitado por
+  6 votos a 4 pela própria CPI em 14/04/2026 — não uma conclusão oficial da comissão, ainda que os dados
+  da Receita Federal nele anexados sejam formais e válidos.'
 document_ids: []
 source_ids:
 - src-jbrasilia-2026-08-pollaris-mantega-sala-sem-janela
@@ -21,4 +24,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-05'

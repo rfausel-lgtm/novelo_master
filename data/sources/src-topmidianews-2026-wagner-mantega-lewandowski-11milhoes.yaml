@@ -1,0 +1,23 @@
+id: src-topmidianews-2026-wagner-mantega-lewandowski-11milhoes
+kind: source
+title: Jaques Wagner pediu emprego no Master para Mantega e Lewandowski (réplica)
+publisher: TopMídia News
+publication_date: '2026'
+retrieved_at: '2026-09-05'
+url: https://www.topmidianews.com.br/
+source_type: press
+summary: Réplica da coluna original de Andreza Matais (Metrópoles, 24/01/2026), com o mesmo relato sobre
+  a contratação de Mantega a pedido de Wagner — mas citando o valor mínimo total como 'R$ 11 milhões',
+  divergente dos 'R$ 16 milhões' da matéria original e do O Antagonista.
+verification:
+  checked_at: '2026-09-05'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: URL genérica do veículo — a equipe não conseguiu fixar o link direto da matéria específica; citada
+  apenas para registrar a divergência numérica entre reproduções do mesmo texto.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

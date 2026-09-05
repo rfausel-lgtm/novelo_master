@@ -1,0 +1,24 @@
+id: rev-2026-09-05-lote-92-mantega-vorcaro
+kind: revision
+date: '2026-09-05'
+title: 'Lote 92 — a relação Mantega-Vorcaro: ausência no relatório do celular, a tarefa do BRB, e valores
+  que não fecham'
+summary: 'A pedido direto do editor, aprofundada a relação entre Guido Mantega e Daniel Vorcaro. Achado
+  central por leitura direta do documento primário: ''Mantega'' tem zero ocorrências nas 218 páginas do
+  relatório da PF sobre o celular de Vorcaro, checagem validada por contagens já publicadas do mesmo documento.
+  Localizada a descrição mais concreta do trabalho de Mantega — ''azeitar a venda... para o BRB'' — e
+  uma declaração inédita dele fixando o fim do contrato em agosto de 2025, que contradiz a mesma coluna
+  do Metrópoles sobre lobby até novembro. Os valores da consultoria (R$ 14mi/16mi/11mi, conforme a fonte)
+  permanecem sem reconciliação — inclusive com uma aritmética interna que não fecha na própria matéria
+  que a relata. Nenhum indício de contato pessoal direto Mantega-Vorcaro além da mediação institucional
+  já conhecida.'
+affected_ids:
+- guido-mantega
+- daniel-vorcaro
+- banco-master
+reason: 'Pedido direto do editor: aprofundar a relação Mantega-Vorcaro.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'
