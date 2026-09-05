@@ -1,0 +1,17 @@
+id: ev-caso-analogo-no-tribunal-de-justica-do-rio
+kind: evidence
+classification: D
+proposition: 'Os autos revelam a existência de caso análogo no Rio de Janeiro, também sobre recursos previdenciários
+  aplicados em letras financeiras do Banco Master: o agravo de instrumento nº 3000060-09.2026.8.19.0000,
+  da 9ª Câmara de Direito Público do Tribunal de Justiça do Rio de Janeiro, relator o desembargador Márcio
+  Quintes Gonçalves, no qual o pedido de efeito suspensivo contra medida cautelar semelhante foi indeferido.'
+document_ids:
+- doc-2026-04-22-prestacao-de-contas-amapa-consignados
+source_ids:
+- src-tjap-autos-6102005-63-2025
+date: '2026-02-25'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

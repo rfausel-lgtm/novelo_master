@@ -1,0 +1,33 @@
+id: doc-2025-09-11-oficio-amprev-ao-banco-central
+kind: document
+title: Ofício da Amprev ao presidente do Banco Central sobre o Banco Master e a negativa ao BRB
+doc_type: letter
+date: '2025-09-11'
+source_ids:
+- src-tjap-autos-6102005-63-2025
+summary: Ofício nº 130204.0076.1547.1278/2025, de 11/09/2025, dirigido ao presidente do Banco Central.
+  O assunto começa com a palavra 'REITERO' — é a segunda vez que a autarquia pergunta. Pede informações
+  oficiais sobre a existência de processos administrativos, sanções, investigações ou outras ocorrências
+  regulatórias que envolvam o Banco Master, seus dirigentes ou controladores, e pede também esclarecimentos
+  sobre os motivos que levaram o Banco Central a negar a aquisição de parte do banco pelo Banco de Brasília,
+  por entender que a decisão reflete na percepção de risco e na avaliação de solvência da instituição.
+  Foi enviado dois meses antes da liquidação extrajudicial.
+is_official: true
+related_entity_ids:
+- amapa-previdencia
+- banco-master
+- banco-central-do-brasil
+- jocildo-lemos
+issuer_id: amapa-previdencia
+issuer: Jocildo Silva Lemos, diretor-presidente da Amapá Previdência
+date_precision: day
+reference: Ofício nº 130204.0076.1547.1278/2025 GABINETE-AMPREV, de 11/09/2025 — anexo dos autos nº 6102005-63.2025.8.03.0001
+excerpt: solicitamos também esclarecimentos quanto aos motivos que ensejaram a negativa do Banco Central
+  do Brasil em relação à negociação de aquisição de parte do Banco Master pelo Banco de Brasília – BRB,
+  haja vista que tal decisão pode refletir diretamente na percepção de risco e na avaliação de solvência
+  desta instituição junto aos investidores institucionais, como é o caso da AMPREV.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

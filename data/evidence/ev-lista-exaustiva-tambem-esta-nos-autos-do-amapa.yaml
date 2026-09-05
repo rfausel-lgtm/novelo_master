@@ -1,0 +1,17 @@
+id: ev-lista-exaustiva-tambem-esta-nos-autos-do-amapa
+kind: evidence
+classification: D
+proposition: Assim como no processo de credenciamento de Itaguaí, a Lista Exaustiva do Ministério da Previdência
+  atualizada em 06/05/2024 está juntada aos autos da ação do Amapá, em mais de uma passagem — a mesma
+  versão que não traz o Banco Master entre as instituições elegíveis para emitir ativos do art. 7º, IV.
+  O documento acompanha as peças que a autarquia levou a juízo.
+document_ids:
+- doc-2024-05-06-lista-exaustiva-mps
+source_ids:
+- src-tjap-autos-6102005-63-2025
+date: '2025-12-16'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'

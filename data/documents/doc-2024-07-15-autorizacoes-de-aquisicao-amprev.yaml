@@ -1,0 +1,29 @@
+id: doc-2024-07-15-autorizacoes-de-aquisicao-amprev
+kind: document
+title: Despachos de 15/07/2024 que autorizaram a aquisição e a transferência de valores ao Banco Master
+doc_type: administrative_act
+date: '2024-07-15'
+source_ids:
+- src-tjap-autos-6102005-63-2025
+summary: 'Dois despachos de mesma data, assinados pela diretora financeira e atuarial, encaminhando o
+  despacho de gabinete com a autorização do diretor-presidente para a aquisição e transferência de valores:
+  o documento nº 130204.0077.1551.0031/2024, referente ao Plano Previdenciário, e o nº 130204.0077.1551.0032/2024,
+  referente ao Plano Financeiro, ambos com fundamento na deliberação da 11ª reunião extraordinária do
+  comitê, de 12/07/2024. São as peças de execução operacional que a decisão da operação Zona Cinzenta
+  descreve como documento de autorização assinado pelo diretor-presidente.'
+is_official: true
+related_entity_ids:
+- amapa-previdencia
+- banco-master
+- jocildo-lemos
+issuer_id: amapa-previdencia
+issuer: Diretoria Financeira e Atuarial da Amapá Previdência
+date_precision: day
+reference: Despachos nº 130204.0077.1551.0031/2024 e 0032/2024 — anexos dos autos nº 6102005-63.2025.8.03.0001
+excerpt: encaminhamos anexo o Despacho/GAB, com autorização do Diretor Presidente para aquisição e transferência
+  de valores, nos termos do Ofício nº 0031/2024 CIAP – AMPREV
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-05'
+created_at: '2026-09-05'
+updated_at: '2026-09-05'
