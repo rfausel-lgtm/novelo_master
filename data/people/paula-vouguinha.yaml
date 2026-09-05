@@ -16,7 +16,9 @@ summary: Apresentou o Banco Master ao Comitê de Investimentos da Amapá Previd�
   reunião, o banco nomeou os cinco regimes próprios já captados — Rioprevidência, Maceió, Paulista, Cajamar
   e Araras —, todos presentes na lista final dos dezoito compradores. Segundo reportagem, duas semanas
   depois ela apresentou ao Iprev de Maceió proposta de R$ 116 milhões em letras financeiras. Não é alvo
-  de nenhuma investigação localizada pela equipe.
+  de nenhuma investigação localizada pela equipe. Três meses antes do Amapá, em 20/12/2023, participou
+  por videoconferência da sessão que credenciou o Banco Master no regime próprio de Aparecida de Goiânia
+  — o que documenta a mesma operação de captação atuando em estados distintos.
 why_in_novelo: É a executiva que apresenta formalmente o Banco Master ao fundo previdenciário que viria
   a se tornar o segundo maior comprador público de suas letras financeiras.
 cited_position:
@@ -30,6 +32,7 @@ open_questions:
 source_ids:
 - src-amprev-ata-4a-ext-ciap-2024
 - src-timesbrasil-18-rpps-lista
+- src-aparecidaprev-ata-cmp-2023-12-20
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-04'

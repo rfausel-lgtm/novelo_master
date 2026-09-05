@@ -1,0 +1,46 @@
+id: aparecidaprev
+kind: organization
+name: Instituto de Previdência de Aparecida de Goiânia
+aliases:
+- AparecidaPrev
+org_type: public_body
+summary: Autarquia municipal que gere o regime próprio de previdência dos servidores de Aparecida de Goiânia
+  (GO). Credenciou o Banco Master em 20/12/2023, em sessão de que participou por videoconferência a representante
+  do banco. Aplicou R$ 40 milhões em letras financeiras da instituição em 06/06/2024 — depois de o conselho
+  ter rejeitado, em fevereiro, a alteração da política de investimentos que era condição para o aporte.
+  O conselho só tomou conhecimento da aplicação em setembro daquele ano. Consta entre os quatro entes
+  em que a auditoria do Ministério da Previdência teria identificado o mesmo modelo de justificativa de
+  credenciamento.
+why_in_novelo: Segundo regime próprio de previdência em que se documenta a atuação direta da mesma representante
+  do Banco Master, e caso em que a aplicação ocorreu apesar de o colegiado ter recusado a mudança de regra
+  que a viabilizaria.
+cited_position:
+- kind: clarification
+  summary: Em audiência na Câmara Municipal, em 08/12/2025, a autarquia informou que, como o conselho
+    não aprovou a operação, a assessoria de investimentos não emitiu parecer e não houve documento formal
+    de aprovação; que se habilitou como credora na liquidação, com crédito atualizado próximo de R$ 47
+    milhões; e que encaminhou denúncias ao Ministério Público, ao Ministério da Previdência e ao Tribunal
+    de Contas dos Municípios em março de 2025.
+  source_ids:
+  - src-camara-aparecida-2025-12-08-audiencia
+  by_id: aparecidaprev
+  date: '2025-12-08'
+open_questions:
+- O parecer de credenciamento do Banco Master nunca foi publicado pelo instituto, e a própria autarquia
+  afirma que não existe documento formal de aprovação da operação — o que tensiona a afirmação da auditoria
+  do Ministério da Previdência de que teria encontrado ali o mesmo modelo de justificativa usado em outros
+  entes.
+- O relatório técnico sobre o caso, prometido em audiência pública, não foi localizado publicado.
+- Não foi localizada manifestação do Tribunal de Contas dos Municípios de Goiás sobre o caso.
+source_ids:
+- src-aparecidaprev-ata-cmp-2023-12-20
+- src-aparecidaprev-ata-cmp-2024-02-28
+- src-aparecidaprev-ata-cmp-2024-09
+- src-aparecidaprev-dair-2024-06
+- src-camara-aparecida-2025-12-08-audiencia
+jurisdiction: Aparecida de Goiânia (GO)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

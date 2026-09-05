@@ -1,0 +1,23 @@
+id: src-aparecidaprev-ata-cmp-2024-09
+kind: source
+title: Ata da reunião do Conselho Municipal de Previdência do AparecidaPrev (setembro de 2024)
+publisher: Instituto de Previdência de Aparecida de Goiânia (AparecidaPrev)
+publication_date: 2024-09
+retrieved_at: '2026-09-04'
+url: https://aparecidaprev.go.gov.br/wp-content/uploads/2024/09/Ata-09-2024-CMP.pdf
+source_type: official_government
+summary: Ata em que o presidente do conselho registra ter havido aplicação em letras financeiras do Banco
+  Master 'sem consentimento do conselho' e pergunta sobre risco de calote; a consultoria responde que
+  o banco 'pode ser um banco mais fragilizado' e sugere permuta dos papéis. PDF sem camada de texto, submetido
+  a reconhecimento óptico pela equipe a 300 dpi; os trechos citados foram conferidos visualmente. Erros
+  residuais de OCR são possíveis em nomes próprios.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

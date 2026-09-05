@@ -1,0 +1,28 @@
+id: doc-2025-12-08-audiencia-camara-aparecida-master
+kind: document
+title: Registro oficial da audiência pública na Câmara de Aparecida de Goiânia sobre a aplicação no Master
+doc_type: official_report
+date: '2025-12-08'
+source_ids:
+- src-camara-aparecida-2025-12-08-audiencia
+summary: Audiência requerida pelo vereador Isaac Martins, com a presidente do AparecidaPrev, Márcia Tinoco,
+  e o diretor Khayo Eduardo Pires de Oliveira. A autarquia confirma que a assessoria de investimentos
+  não emitiu parecer porque o conselho não aprovou a operação, e que não houve documento formal de aprovação.
+  Informa habilitação como credora na liquidação, com crédito atualizado próximo de R$ 47 milhões, e denúncias
+  encaminhadas ao Ministério Público, ao Ministério da Previdência e ao Tribunal de Contas dos Municípios
+  em março de 2025.
+is_official: true
+related_entity_ids:
+- aparecidaprev
+- banco-master
+issuer: Câmara Municipal de Aparecida de Goiânia
+date_precision: day
+url: https://aparecidadegoiania.go.leg.br/representantes-do-aparecidaprev-prestam-esclarecimentos-sobre-aplicacao-de-r-40-milhoes-em-2024/
+reference: Audiência pública de 08/12/2025 — Câmara Municipal de Aparecida de Goiânia
+excerpt: como o Conselho não aprovou a operação, a assessoria de investimentos não chegou a emitir parecer,
+  procedimento obrigatório em aplicações regulares. Portanto, não houve documento formal de aprovação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

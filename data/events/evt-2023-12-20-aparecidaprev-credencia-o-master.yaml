@@ -1,0 +1,30 @@
+id: evt-2023-12-20-aparecidaprev-credencia-o-master
+kind: event
+title: AparecidaPrev credencia o Banco Master com a representante do banco na sessão
+event_type: corporate_act
+date: '2023-12-20'
+date_precision: day
+participant_ids:
+- aparecidaprev
+- banco-master
+- paula-vouguinha
+- sete-capital
+description: 'Sessão extraordinária do conselho municipal de previdência com pauta única: a análise da
+  proposta de credenciamento do Banco Master. A representante do banco, Paula Vouguinha, participou por
+  videoconferência; a análise da documentação foi feita verbalmente pelo consultor da Sete Capital, que
+  a considerou de acordo com a Portaria MTP 1.467/2022. Aprovado por oito votos a três.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-mesma-vendedora-em-dois-estados
+source_ids:
+- src-aparecidaprev-ata-cmp-2023-12-20
+document_ids:
+- doc-2023-12-20-ata-credenciamento-master-aparecidaprev
+public_act_ids: []
+location: Aparecida de Goiânia (GO)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

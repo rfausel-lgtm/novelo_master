@@ -1,0 +1,22 @@
+id: src-aparecidaprev-dair-2024-06
+kind: source
+title: Demonstrativo de aplicações e investimentos do AparecidaPrev — competência 06/2024
+publisher: Instituto de Previdência de Aparecida de Goiânia (AparecidaPrev)
+publication_date: '2024-06-30'
+retrieved_at: '2026-09-04'
+url: https://aparecidaprev.go.gov.br/wp-content/uploads/2024/02/APR-06-2024.pdf
+source_type: official_government
+summary: Demonstrativo do CadPrev publicado pelo próprio instituto, com camada de texto. Registra, na
+  rubrica de ativos de renda fixa emitidos por instituições financeiras do art. 7º, IV, a posição 'LF
+  BANCO MASTER IPCA' de R$ 40.000.000,00, equivalente a 4,95% da carteira. A posição não existe no demonstrativo
+  de maio de 2024 e aparece pela primeira vez em junho.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

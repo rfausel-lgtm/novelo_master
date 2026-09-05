@@ -1,0 +1,21 @@
+id: ev-aparecidaprev-afirma-nao-existir-documento-de-aprovacao
+kind: evidence
+classification: D
+proposition: Em audiência pública na Câmara Municipal, em 08/12/2025, a direção do AparecidaPrev afirmou
+  que, como o conselho não aprovou a operação, a assessoria de investimentos não chegou a emitir parecer
+  — procedimento que a própria autarquia descreve como obrigatório em aplicações regulares — e que, portanto,
+  não houve documento formal de aprovação. Informou ainda ter-se habilitado como credora na liquidação,
+  com crédito atualizado próximo de R$ 47 milhões, e ter encaminhado denúncias ao Ministério Público,
+  ao Ministério da Previdência e ao Tribunal de Contas dos Municípios em março de 2025.
+document_ids:
+- doc-2025-12-08-audiencia-camara-aparecida-master
+source_ids:
+- src-camara-aparecida-2025-12-08-audiencia
+excerpt: como o Conselho não aprovou a operação, a assessoria de investimentos não chegou a emitir parecer,
+  procedimento obrigatório em aplicações regulares. Portanto, não houve documento formal de aprovação.
+date: '2025-12-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
