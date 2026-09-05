@@ -28,7 +28,8 @@ Dataset sintético de estresse e demonstração: `docs/screenshots/grafo-demo.pn
   origem (tiles do OpenStreetMap compostos no repositório) e exportação em KML.
 - **Acervo em texto** (`/acervo.txt`) e `llms.txt`: o corpus inteiro num arquivo, com classe de
   evidência e fonte por registro, para quem quiser ler o caso com ajuda de um assistente. A página
-  `/perguntar` entrega o prompt pronto, com as travas da metodologia.
+  **Sua IA responde** (`/perguntar`) entrega o prompt pronto, com as travas da metodologia, e cada
+  dossiê traz "Copiar dossiê" e "Baixar .txt" para levar um registro só ao assistente.
 - **Tema claro e escuro** (automático, claro ou escuro), com contraste WCAG AA testado nas duas paletas.
 - **Alternativa textual** ao grafo (`/rede`) e acessibilidade WCAG AA.
 
@@ -81,7 +82,8 @@ Os dados vivem em `data/` e são compilados pelo pipeline:
 npm run data:validate   # schema + referências + regras editoriais (erros bloqueiam)
 npm run data:lint       # modo estrito: avisos em registros publicados também bloqueiam
 npm run data:build      # gera src/generated/corpus.json, public/data/graph.json, a camada probatória,
-                        # public/data/novelo.kml, public/acervo.txt e public/llms.txt
+                        # public/data/novelo.kml, public/acervo.txt, public/llms.txt
+                        # e public/dossies/<id>.txt
 npm run data:stress     # dataset sintético de 5.000 nós / 25.000 arestas para teste de carga
 ```
 

@@ -5,7 +5,7 @@ import { useUrlState } from "@/lib/url-state";
 import { CopiarLink } from "./CopiarLink";
 
 /**
- * Filtro por nome nos índices. Com 114 pessoas e 80 organizações agrupadas por categoria, achar
+ * Filtro por nome nos índices. Com mais de uma centena de registros agrupados por categoria, achar
  * alguém pelo nome exigia rolar ou recorrer ao Ctrl+F do navegador.
  *
  * Filtra o DOM já renderizado no servidor, em vez de receber a lista inteira como prop: o índice

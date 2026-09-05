@@ -335,6 +335,10 @@ RelationshipType e família (a cor da aresta deriva da família):
 
 Sem ReviewTrail; sempre entra no build.
 
+`date` é a data editorial do que a revisão cobre, e várias revisões costumam compartilhá-la — a
+ordem exibida desempata pelo id em ordem natural (`allRevisions()` em `src/lib/data`), que é o que
+carrega a sequência dos lotes.
+
 | Campo                 | Tipo         | Obrigatório        | Descrição                                                                                           |
 | --------------------- | ------------ | ------------------ | --------------------------------------------------------------------------------------------------- |
 | id                    | Id           | sim                | Convenção `rev-YYYY-MM-DD-slug`                                                                     |
@@ -345,6 +349,8 @@ Sem ReviewTrail; sempre entra no build.
 | updated_relationships | inteiro >= 0 | não (padrão 0)     | Relações alteradas                                                                                  |
 | corrections           | string[]     | não (padrão `[]`)  | Correções e retratações descritas                                                                   |
 | author                | string       | não                | Autor                                                                                               |
+| title                 | string       | não                | Título curto, para listas; `summary` costuma ser um parágrafo                                       |
+| affected_ids          | Id[]         | não (padrão `[]`)  | Registros que a revisão tocou; viram links na home e em `/atualizacoes`                             |
 
 ## Regras do lint
 

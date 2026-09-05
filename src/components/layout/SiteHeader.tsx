@@ -14,7 +14,7 @@ const NAV = [
   { href: "/organizacoes", label: "Organizações" },
   { href: "/fontes", label: "Fontes" },
   { href: "/metodologia", label: "Metodologia" },
-  { href: "/perguntar", label: "Perguntar" },
+  { href: "/perguntar", label: "Sua IA responde" },
   { href: "/sobre", label: "Sobre" },
 ];
 
@@ -31,7 +31,11 @@ export function SiteHeader() {
   return (
     <header className="border-border bg-bg/85 sticky top-0 z-40 border-b backdrop-blur">
       <div className="mx-auto flex h-14 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
-        <Link href="/" className="flex items-center gap-2.5" aria-label="O Novelo Master, página inicial">
+        <Link
+          href="/"
+          className="flex items-center gap-2.5"
+          aria-label="O Novelo Master, página inicial"
+        >
           <Logo className="h-7 w-7" />
           <span className="text-fg text-sm font-semibold tracking-[0.18em] uppercase">
             O Novelo Master

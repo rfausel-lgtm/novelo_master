@@ -31,9 +31,7 @@ function luminancia(hex: string): number {
   const m = /^#([0-9a-f]{6})$/i.exec(hex);
   if (!m) throw new Error(`hex inválido: ${hex}`);
   const n = parseInt(m[1], 16);
-  return (
-    0.2126 * canal((n >> 16) & 255) + 0.7152 * canal((n >> 8) & 255) + 0.0722 * canal(n & 255)
-  );
+  return 0.2126 * canal((n >> 16) & 255) + 0.7152 * canal((n >> 8) & 255) + 0.0722 * canal(n & 255);
 }
 
 function razao(a: string, b: string): number {
@@ -88,6 +86,14 @@ describe.each(TEMAS)("tema %s", (_nome, seletor) => {
     for (const fg of ["--fg", "--fg-2", "--fg-3", "--accent"])
       for (const bg of ["--bg", "--bg-2", "--bg-3"])
         expect(razao(t[fg], t[bg]), `${fg} sobre ${bg}`).toBeGreaterThanOrEqual(4.5);
+  });
+
+  /*
+   * O botao primario inverte o par: texto do fundo sobre o acento. Usado na home, no cabecalho do
+   * dossie e no "Copiar" da pagina da IA — nenhum deles era medido aqui.
+   */
+  it("texto do botão primário passa em 4.5:1 sobre o acento", () => {
+    expect(razao(t["--bg"], t["--accent"]), "--bg sobre --accent").toBeGreaterThanOrEqual(4.5);
   });
 
   it("limite de controle passa em 3:1 (WCAG 1.4.11)", () => {
