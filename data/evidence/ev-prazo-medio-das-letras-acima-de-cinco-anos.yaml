@@ -1,0 +1,17 @@
+id: ev-prazo-medio-das-letras-acima-de-cinco-anos
+kind: evidence
+classification: D
+proposition: 'As demonstrações financeiras confirmam que o alongamento não foi peculiaridade do negócio
+  com o Amapá: em 31/12/2024, R$ 2.019.887 mil dos R$ 2.110.455 mil em letras financeiras — 95,7% do estoque
+  — venciam acima de cinco anos. Em 2023 a proporção era de 95,4%. As letras subordinadas estavam integralmente
+  nessa faixa.'
+document_ids:
+- doc-2024-12-31-demonstracoes-financeiras-banco-master
+source_ids:
+- src-banco-master-df-2024
+date: '2024-12-31'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

@@ -1,13 +1,18 @@
 id: ev-dezoito-rpps-e-1876-bilhao
 kind: evidence
 classification: C
-proposition: Dezoito regimes próprios de previdência aplicaram R$ 1,876 bilhão em letras financeiras do
-  Banco Master entre outubro de 2023 e dezembro de 2024, segundo dados do CadPrev e do Ministério da Previdência.
-  O Rioprevidência lidera, com R$ 970 milhões; a Amapá Previdência é a segunda, com R$ 400 milhões.
+proposition: 'Dezoito regimes próprios de previdência aplicaram R$ 1,867 bilhão em letras financeiras
+  do Banco Master entre outubro de 2023 e dezembro de 2024, segundo dados do CadPrev e do Ministério da
+  Previdência. O Rioprevidência lidera, com R$ 970 milhões; a Amapá Previdência é a segunda, com R$ 400
+  milhões. Correção: o corpus registrou inicialmente R$ 1,876 bilhão, número que circula em parte da imprensa;
+  a soma dos dezoito valores individuais divulgados resulta em R$ 1,867 bilhão, cifra publicada pelo próprio
+  ministério.'
 document_ids: []
 source_ids:
 - src-timesbrasil-18-rpps-lista
 - src-amprev-ata-4a-ext-ciap-2024
+- src-banco-master-df-2024
+- src-folha-2026-03-20-letras-master-pf
 date: '2025-11-19'
 review_status: published
 reviewer: orquestrador

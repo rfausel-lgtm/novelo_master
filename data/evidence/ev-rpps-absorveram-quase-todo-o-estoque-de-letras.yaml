@@ -1,0 +1,20 @@
+id: ev-rpps-absorveram-quase-todo-o-estoque-de-letras
+kind: evidence
+classification: C
+proposition: 'Os R$ 1,867 bilhão adquiridos pelos dezoito regimes próprios entre outubro de 2023 e dezembro
+  de 2024 correspondem a cerca de 88% do estoque contábil de letras financeiras do banco em 31/12/2024.
+  A Polícia Federal chegou de forma independente a proporção semelhante: dos R$ 2,3 bilhões descritos
+  em seu relatório, R$ 1,87 bilhão fora adquirido por fundos previdenciários públicos. Ressalva metodológica:
+  os R$ 1,867 bilhão são aquisições acumuladas em quinze meses e o estoque é saldo contábil numa data
+  — não são a mesma métrica, e a razão não é uma participação exata, embora a ordem de grandeza coincida.'
+document_ids:
+- doc-2024-12-31-demonstracoes-financeiras-banco-master
+source_ids:
+- src-banco-master-df-2024
+- src-folha-2026-03-20-letras-master-pf
+date: '2024-12-31'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

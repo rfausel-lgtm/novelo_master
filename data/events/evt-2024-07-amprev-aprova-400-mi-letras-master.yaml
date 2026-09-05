@@ -24,6 +24,7 @@ evidence_ids:
 - ev-zc-visita-tecnica-como-formalidade
 - ev-percentuais-de-concentracao-tem-bases-distintas
 - ev-jocildo-defesa-tecnica-em-ata-2025
+- ev-taxa-do-amapa-era-o-teto-da-emissao-do-master
 source_ids:
 - src-poder360-2026-02-10-amprev-zona-cinzenta
 - src-cnn-2026-02-06-amprev-alvo-pf
@@ -33,6 +34,7 @@ source_ids:
 - src-decisao-zona-cinzenta-integral-pje-trf1
 - src-amprev-ata-9a-ordinaria-cep-2025-09-17
 - src-diofe-8556-2025-12-16
+- src-banco-master-df-2024
 document_ids:
 - doc-2024-07-30-ata-comite-investimentos-amprev
 public_act_ids: []

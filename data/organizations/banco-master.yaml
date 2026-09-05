@@ -20,6 +20,10 @@ open_questions:
 - O CNPJ e os atos societários devem ser confirmados em registro oficial.
 - A resposta oficial da Secretaria de Previdência à consulta GesCon invocada pelo banco não foi localizada,
   nem o parecer do escritório de advocacia citado na ata de março de 2024.
+- 'As demonstrações financeiras não abrem a concentração da captação por contraparte: há nota sobre os
+  dez maiores devedores, no ativo, mas nenhuma abertura equivalente do passivo.'
+- A faixa de emissão de até 150% do CDI, declarada nas demonstrações de 2024, não foi localizada em nenhuma
+  reportagem — a equipe não sabe quais operações foram contratadas nesse patamar.
 source_ids:
 - src-bcb-2025-11-ata-comef-63
 - src-pf-2025-11-18-compliance-zero
@@ -41,6 +45,8 @@ source_ids:
 - src-aparecidaprev-ata-cmp-2024-02-28
 - src-aparecidaprev-dair-2024-06
 - src-camara-aparecida-2025-12-08-audiencia
+- src-banco-master-df-2024
+- src-folha-2026-03-20-letras-master-pf
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
 review_status: published

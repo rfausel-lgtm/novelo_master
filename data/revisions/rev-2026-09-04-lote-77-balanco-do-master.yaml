@@ -1,0 +1,23 @@
+id: rev-2026-09-04-lote-77-balanco-do-master
+kind: revision
+date: '2026-09-04'
+title: Lote 77 — o balanço do Master, e a prova de escala
+summary: 'Demonstrações financeiras auditadas de 2024, com comparativos de 2023, lidas integralmente.
+  A letra financeira não existia no passivo do banco em 2022, somava R$ 486 milhões ao fim de 2023 e R$
+  2,11 bilhões ao fim de 2024 — alta de 333% no ano —, com 95,7% vencendo acima de cinco anos, enquanto
+  a letra de crédito imobiliário caía 76%. As subordinadas saltaram de R$ 17 milhões para R$ 962 milhões.
+  A despesa de captação com letras financeiras passou de R$ 5,9 milhões para R$ 192,3 milhões. Achado
+  que fecha o caso do Amapá: a taxa de IPCA + 8,35% que a Amprev aceitou é exatamente o teto da faixa
+  de emissão declarada pelo banco — em 2023 o teto era 8,00%. Os dezoito regimes próprios responderam
+  por cerca de 88% do estoque. Corrigido o total nacional de R$ 1,876 para R$ 1,867 bilhão.'
+affected_ids:
+- banco-master
+- amapa-previdencia
+- evt-2024-07-amprev-aprova-400-mi-letras-master
+- ev-dezoito-rpps-e-1876-bilhao
+reason: Diligência sobre as demonstrações financeiras do emissor, aberta na linha do canal de colocação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

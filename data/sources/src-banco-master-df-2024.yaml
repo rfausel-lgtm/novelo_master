@@ -1,0 +1,23 @@
+id: src-banco-master-df-2024
+kind: source
+title: Demonstrações financeiras do Banco Master S.A. em 31/12/2024, auditadas pela KPMG
+publisher: Banco Master S.A.
+publication_date: 2025-04
+retrieved_at: '2026-09-04'
+url: https://static.poder360.com.br/2025/04/Banco-Master-balanco-consolidado-dez.2024.pdf
+source_type: corporate_registry
+summary: Demonstrações financeiras completas, em 61 páginas, baixadas e lidas integralmente pela equipe.
+  Trazem as notas 20 (recursos de aceites e emissão de títulos) e 21 (instrumentos de dívida elegíveis
+  a capital regulatório), que discriminam o estoque de letras financeiras por faixa de prazo e descrevem
+  a faixa de taxas praticadas, com os comparativos de 2023. O documento estava publicado no site do próprio
+  banco, hoje fora do ar; a cópia hospedada pelo Poder360 tem conteúdo idêntico ao do arquivo original.
+verification:
+  checked_at: '2026-09-04'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
