@@ -1,0 +1,48 @@
+id: metropoles
+kind: organization
+name: Metrópoles
+aliases:
+- Metrópoles Marketing e Comunicação S/A
+- Metrópoles Mídia e Comunicação S/A
+org_type: company
+summary: Veículo de comunicação sediado em Brasília, do Grupo OK, de Luiz Estevão de Oliveira Neto. Opera
+  por três pessoas jurídicas — Metrópoles Mídia e Comunicação S/A, Metrópoles Marketing e Comunicação
+  S/A e Metrópoles Produções, esta última uma associação privada —, todas administradas por Luiz Eduardo
+  Estevão de Oliveira e Luiza Meireles Estevão de Oliveira. Recebeu R$ 27,28 milhões do Banco Master e
+  do Will Bank entre o segundo semestre de 2024 e outubro de 2025, em contratos de publicidade e patrocínio
+  esportivo, movimentação que o Coaf classificou como atípica. O veículo sustenta tratar-se de relação
+  comercial regular. Produziu, depois da liquidação, cobertura ampla e em vários pontos pioneira sobre
+  o caso — foi ele que revelou o contrato de R$ 129 milhões entre o banco e o escritório Barci de Moraes.
+why_in_novelo: É simultaneamente uma das fontes mais utilizadas deste corpus e destinatário de R$ 27,28
+  milhões do banco investigado — condição que a plataforma declara por dever de transparência.
+cited_position:
+- kind: clarification
+  summary: 'Em nota oficial: o Metrópoles celebrou contratos de publicidade e patrocínio de transmissões
+    esportivas com o grupo Master/Will Bank, e todos os pagamentos realizados pelo cliente referem-se
+    a essa relação comercial, que é pública e já foi objeto de matérias no próprio veículo.'
+  source_ids:
+  - src-estadao-terra-2026-04-09-master-pagou-metropoles
+  - src-correiobraziliense-2026-04-09-coaf-repasse-metropoles
+  by_id: metropoles
+  date: '2026-04-09'
+open_questions:
+- O relatório do Coaf não é público e não foi lido pela equipe; o corpus trabalha com os trechos citados
+  pela imprensa.
+- Não há acusação formal, indiciamento ou denúncia contra o veículo ou seus dirigentes por esses fatos.
+- A equipe não localizou matéria do próprio Metrópoles sobre o relatório do Coaf que o cita.
+- A afirmação de que o Banco Master teria se tornado a principal fonte de receita do veículo em 2025 foi
+  localizada em uma única fonte.
+- O veículo não publica política declarada de separação entre as áreas comercial e editorial; a página
+  de princípios editoriais retorna erro.
+source_ids:
+- src-estadao-terra-2026-04-09-master-pagou-metropoles
+- src-correiobraziliense-2026-04-09-coaf-repasse-metropoles
+- src-gazetadopovo-2026-04-09-quem-recebeu-milhoes-do-master
+- src-minhareceita-metropoles-cnpjs
+- src-jb-2026-02-05-estevao-will-bank-serie-d
+jurisdiction: Distrito Federal
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

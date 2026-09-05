@@ -1,0 +1,25 @@
+id: doc-2026-cnpjs-grupo-metropoles
+kind: document
+title: Registros cadastrais das três empresas do grupo Metrópoles
+doc_type: corporate_record
+date: '2026-09-05'
+source_ids:
+- src-minhareceita-metropoles-cnpjs
+summary: Consulta ao conjunto de dados abertos da Receita, feita pela equipe. Metrópoles Mídia e Comunicação
+  S/A, CNPJ 23.035.415/0001-04, aberta em 07/08/2015, capital de R$ 50 mil. Metrópoles Marketing e Comunicação
+  S/A, CNPJ 34.008.137/0001-04, aberta em 24/06/2019, capital de R$ 1 milhão — é a empresa que recebeu
+  os pagamentos do Banco Master. Metrópoles Produções, CNPJ 34.457.314/0001-30, associação privada. Nas
+  três, a administração é de Luiz Eduardo Estevão de Oliveira e Luiza Meireles Estevão de Oliveira. Luiz
+  Estevão de Oliveira Neto, tratado publicamente como controlador, não figura no quadro de nenhuma delas.
+is_official: true
+related_entity_ids:
+- metropoles
+issuer: Receita Federal do Brasil
+date_precision: day
+url: https://minhareceita.org/34008137000104
+reference: CNPJ 23.035.415/0001-04, 34.008.137/0001-04 e 34.457.314/0001-30
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'

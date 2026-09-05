@@ -1,0 +1,25 @@
+id: doc-2026-planilhas-publicidade-secom-df
+kind: document
+title: Planilhas de pagamentos às agências de publicidade do Distrito Federal, 2022 a 2026
+doc_type: administrative_act
+date: '2026-09-05'
+source_ids:
+- src-transparencia-df-gastos-publicidade
+summary: 'Planilhas trimestrais oficiais publicadas no Portal da Transparência do Distrito Federal, com
+  a coluna de veículo subcontratado, baixadas e somadas pela equipe. Resultado para o grupo Metrópoles,
+  somados o site e a rádio, em valores brutos: R$ 6,53 milhões em 2022; R$ 11,26 milhões em 2023; R$ 13,08
+  milhões em 2024; R$ 17,00 milhões em 2025; R$ 5,72 milhões no primeiro semestre de 2026 — total de R$
+  53,58 milhões, de 7% a 10,1% do valor pago pela pasta a todos os veículos. O método é reprodutível e
+  o total de controle impresso nas próprias planilhas confere com a soma.'
+is_official: true
+related_entity_ids:
+- metropoles
+issuer: Secretaria de Comunicação Social do Distrito Federal
+date_precision: day
+url: https://www.transparencia.df.gov.br/#/prestando-contas/gastos-publicidade
+reference: Relação de pagamentos efetuados às agências de publicidade — Portal da Transparência do DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-04'
+created_at: '2026-09-04'
+updated_at: '2026-09-04'
