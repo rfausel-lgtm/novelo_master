@@ -6,6 +6,7 @@ import { searchNodes, type SearchHit } from "@/lib/graph/search";
 import { NODE_CATEGORY_LABEL } from "@/lib/graph/types";
 
 interface SearchBoxProps {
+  grouped?: boolean;
   index: GraphIndex;
   /** Restringe os resultados aos nós visíveis, se informado. */
   only?: ReadonlySet<string>;
@@ -22,7 +23,19 @@ interface SearchBoxProps {
 }
 
 /** Busca instantânea (difusa) com listbox navegável por teclado (padrão combobox). */
-export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRef, value, compact, autoFocus, onClearScope }: SearchBoxProps) {
+export function SearchBox({
+  index,
+  grouped = false,
+  only,
+  placeholder,
+  ariaLabel,
+  onPick,
+  inputRef,
+  value,
+  compact,
+  autoFocus,
+  onClearScope,
+}: SearchBoxProps) {
   const [query, setQuery] = useState(value ?? "");
   const [debounced, setDebounced] = useState(query);
   const [open, setOpen] = useState(false);
@@ -42,7 +55,10 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
   }, [query]);
 
   const busca = debounced.trim();
-  const hits: SearchHit[] = useMemo(() => (busca ? searchNodes(index, busca, 10, only) : []), [index, busca, only]);
+  const hits: SearchHit[] = useMemo(() => {
+    const found = busca ? searchNodes(index, busca, 10, only) : [];
+    return grouped ? found.sort((a, b) => a.node.category.localeCompare(b.node.category)) : found;
+  }, [index, busca, only, grouped]);
   /*
    * Sem isto a busca mente por omissão: quem move a máquina do tempo e procura alguém que ficou
    * fora do recorte não recebe nada e conclui que a pessoa não está no corpus.
@@ -65,7 +81,7 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
   };
 
   return (
-    <div className="relative">
+    <div className={`relative ${grouped ? "mobile-catalog-search" : ""}`}>
       <input
         ref={ref}
         type="search"
@@ -105,9 +121,13 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
             }
           }
         }}
-        className={`border-border-strong bg-bg-2/95 text-fg placeholder:text-fg-3 focus:border-accent w-full rounded-md border pr-2 pl-8 text-sm outline-none backdrop-blur ${compact ? "h-8" : "h-9"}`}
+        className={`border-border-strong bg-bg-2/95 text-fg placeholder:text-fg-3 focus:border-accent w-full rounded-md border pr-2 pl-8 text-base backdrop-blur outline-none md:text-sm ${compact ? "h-11 md:h-8" : "h-11 md:h-9"}`}
       />
-      <svg aria-hidden="true" viewBox="0 0 20 20" className="text-fg-3 pointer-events-none absolute top-1/2 left-2.5 h-4 w-4 -translate-y-1/2">
+      <svg
+        aria-hidden="true"
+        viewBox="0 0 20 20"
+        className="text-fg-3 pointer-events-none absolute top-1/2 left-2.5 h-4 w-4 -translate-y-1/2"
+      >
         <circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" strokeWidth="1.6" />
         <path d="M13 13l4 4" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
       </svg>
@@ -117,7 +137,7 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
           role="listbox"
           aria-label="Resultados da busca"
           /* Largura independente do input: em 256px todo evento virava "Encontro entre o minist…". */
-          className="border-border-strong bg-bg-2 absolute z-30 mt-1 max-h-72 w-full min-w-full overflow-y-auto rounded-md border py-1 shadow-xl md:min-w-[26rem]"
+          className="graph-search-results border-border-strong bg-bg-2 absolute z-30 mt-1 max-h-72 w-full min-w-full overflow-y-auto rounded-md border py-1 shadow-xl md:min-w-[26rem]"
         >
           {hits.length === 0 && (
             <li className="text-fg-2 px-3 py-2 text-sm" role="presentation">
@@ -134,7 +154,12 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
               onMouseDown={(e) => e.preventDefault()}
               onMouseEnter={() => setActive(i)}
               onClick={() => pick(hit)}
-              className={`flex cursor-pointer items-center justify-between gap-2 px-3 py-1.5 text-sm ${i === active ? "bg-bg-3 text-fg" : "text-fg-2"}`}
+              data-category={grouped ? NODE_CATEGORY_LABEL[hit.node.category] : undefined}
+              data-group-start={
+                (grouped && (i === 0 || hits[i - 1].node.category !== hit.node.category)) ||
+                undefined
+              }
+              className={`flex min-h-11 cursor-pointer items-center justify-between gap-2 px-3 py-1.5 text-sm ${i === active ? "bg-bg-3 text-fg" : "text-fg-2"}`}
             >
               <span className="line-clamp-2 min-w-0">{hit.node.label}</span>
               <span
@@ -146,7 +171,10 @@ export function SearchBox({ index, only, placeholder, ariaLabel, onPick, inputRe
             </li>
           ))}
           {foraDoRecorte.length > 0 && (
-            <li className="border-border text-fg-3 mt-1 border-t px-3 pt-2 pb-1 text-xs" role="presentation">
+            <li
+              className="border-border text-fg-3 mt-1 border-t px-3 pt-2 pb-1 text-xs"
+              role="presentation"
+            >
               {foraDoRecorte.length === 1
                 ? "1 resultado está fora do recorte atual"
                 : `${foraDoRecorte.length} resultados estão fora do recorte atual`}

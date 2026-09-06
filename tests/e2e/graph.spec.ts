@@ -16,6 +16,12 @@ async function abrirFerramentas(page: Page) {
   if (await toggle.isVisible()) await toggle.click();
 }
 
+async function abrirBusca(page: Page) {
+  const buscar = page.getByRole("button", { name: "Buscar", exact: true });
+  if ((await buscar.isVisible()) && (await buscar.getAttribute("aria-expanded")) !== "true")
+    await buscar.click();
+}
+
 test.describe("Grafo (dataset sintético de demonstração)", () => {
   test.beforeEach(async ({ page }) => {
     await page.goto("/grafo?dataset=demo");
@@ -24,6 +30,7 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
   });
 
   test("carrega, busca um nó, abre o card e leva ao dossiê", async ({ page }) => {
+    await abrirBusca(page);
     const search = page.getByRole("combobox", { name: /Buscar pessoa/i });
     await search.fill("Pessoa Exemplo 2");
     const option = page.getByRole("option").first();
@@ -53,6 +60,8 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
   });
 
   test("time machine altera a data limite e a contagem", async ({ page }) => {
+    const temporal = page.getByRole("button", { name: /Recorte temporal/ });
+    if (await temporal.isVisible()) await temporal.click();
     const slider = page.getByRole("slider", { name: /Data limite/i });
     const before = await page
       .getByText(/\d+ nós · \d+ arestas/)
@@ -74,6 +83,7 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
   });
 
   test("busca sem resultado avisa em vez de falhar em silêncio", async ({ page }) => {
+    await abrirBusca(page);
     const search = page.getByRole("combobox", { name: /Buscar pessoa/i });
     await search.fill("zzzqx");
     await expect(page.getByRole("listbox")).toContainText(/Nenhum resultado/);
@@ -98,6 +108,7 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
   });
 
   test("permite expandir, fixar, girar e controlar a física", async ({ page }) => {
+    await abrirBusca(page);
     const search = page.getByRole("combobox", { name: /Buscar pessoa/i });
     await search.fill("Pessoa Exemplo 2");
     await page.getByRole("option").first().click();
@@ -135,6 +146,7 @@ test.describe("Stress do grafo (execução agendada/manual)", () => {
     await expect(canvas).toBeVisible({ timeout: 45_000 });
     await expect(canvas).toHaveAttribute("aria-label", /5\.000 nós|5000 nós/, { timeout: 45_000 });
 
+    await abrirBusca(page);
     const search = page.getByRole("combobox", { name: /Buscar pessoa/i });
     await search.fill("Pessoa Exemplo 2");
     await expect(page.getByRole("option").first()).toBeVisible();

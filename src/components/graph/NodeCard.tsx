@@ -95,6 +95,7 @@ export function NodeCard(props: NodeCardProps) {
     onBeforeAfter,
     onTogglePinned,
   } = props;
+  const [mobileCollapsed, setMobileCollapsed] = useState(false);
   const [showAll, setShowAll] = useState(false);
 
   const connections = useMemo(() => {
@@ -169,13 +170,17 @@ export function NodeCard(props: NodeCardProps) {
   return (
     <PanelShell
       onClose={onClose}
-      labelledBy="node-card-title"
+      mobileCollapsed={mobileCollapsed}
+      onMobileCollapsedChange={setMobileCollapsed}
       /*
         No celular o cabeçalho fica fixo enquanto a folha rola: mostrava a categoria em caixa alta
         e o leitor perdia de vista de quem se trata. O nome vem primeiro; a categoria fica ao lado.
       */
       title={
-        <span className="flex min-w-0 items-baseline gap-2">
+        <span className="node-editorial-title flex min-w-0 items-baseline gap-2">
+          <span className="mobile-only">
+            <Avatar key={node.id} node={node} />
+          </span>
           <span className="text-fg truncate text-sm font-semibold">{node.label}</span>
           <span className="text-fg-3 shrink-0 text-[10px] font-semibold tracking-[0.14em] uppercase">
             {NODE_CATEGORY_LABEL[node.category]}
@@ -183,8 +188,8 @@ export function NodeCard(props: NodeCardProps) {
         </span>
       }
     >
-      <div className="mt-3 flex items-start gap-3">
-        {isAgent && <Avatar node={node} />}
+      <div className="node-desktop-identity mt-3 flex items-start gap-3">
+        {isAgent && <Avatar key={node.id} node={node} />}
         <div className="min-w-0">
           <h2 id="node-card-title" className="text-fg text-base leading-tight font-semibold">
             {node.label}
@@ -196,6 +201,20 @@ export function NodeCard(props: NodeCardProps) {
         </div>
       </div>
 
+      <div className="mobile-only node-primary-action">
+        <p className="text-fg-2 text-sm">{node.role ?? subtypeLabel(node)}</p>
+        <ToolButton
+          primary
+          onClick={() => {
+            onFocus(focusDepth ? null : 1);
+            setMobileCollapsed(!focusDepth);
+          }}
+        >
+          {focusDepth ? "Sair do foco" : "Ver conexões"}
+          <span aria-hidden="true"> →</span>
+        </ToolButton>
+        {focusDepth && <p className="text-fg-3 text-xs">Filtros e período mantidos.</p>}
+      </div>
       {node.why && (
         <>
           <SectionHeading>Por que está no Novelo?</SectionHeading>
@@ -210,17 +229,33 @@ export function NodeCard(props: NodeCardProps) {
       */}
       <SectionHeading>Neste recorte do mapa</SectionHeading>
       <div className="grid grid-cols-4 gap-1.5">
-        <Counter label="conexões" value={visibleStats.connections} title="Conexões visíveis com os filtros e o recorte temporal atuais. O dossiê traz o total do corpus." />
-        <Counter label="eventos" value={visibleStats.events} title="Eventos alcançados pelas conexões visíveis." />
-        <Counter label="fontes oficiais" value={visibleStats.officialSources} title="Fontes oficiais que sustentam as conexões visíveis." />
-        <Counter label="evidências" value={visibleStats.evidence} title="Evidências ligadas às conexões visíveis." />
+        <Counter
+          label="conexões"
+          value={visibleStats.connections}
+          title="Conexões visíveis com os filtros e o recorte temporal atuais. O dossiê traz o total do corpus."
+        />
+        <Counter
+          label="eventos"
+          value={visibleStats.events}
+          title="Eventos alcançados pelas conexões visíveis."
+        />
+        <Counter
+          label="fontes oficiais"
+          value={visibleStats.officialSources}
+          title="Fontes oficiais que sustentam as conexões visíveis."
+        />
+        <Counter
+          label="evidências"
+          value={visibleStats.evidence}
+          title="Evidências ligadas às conexões visíveis."
+        />
       </div>
 
       {/*
         Eram nove botões em três linhas antes de qualquer conteúdo: na folha inferior do celular
         sobrava espaço para duas conexões. Ficam três à mostra; o resto sai do caminho.
       */}
-      <div className="mt-4 flex flex-wrap gap-1.5">
+      <div className="node-secondary-actions mt-4 flex flex-wrap gap-1.5">
         {!node.href.startsWith("/grafo") && (
           <Link
             href={node.href}
@@ -249,33 +284,33 @@ export function NodeCard(props: NodeCardProps) {
       <details className="mt-2">
         <summary className="text-fg-3 hover:text-fg cursor-pointer text-xs">Mais ações</summary>
         <div className="mt-2 flex flex-wrap gap-1.5">
-        <ToolButton
-          active={focusDepth === 3}
-          onClick={() => onFocus(focusDepth === 3 ? 2 : 3)}
-          aria-label="Expandir para o terceiro grau"
-        >
-          Expandir 3º grau (+{expansionCounts.third})
-        </ToolButton>
-        {focusDepth && (
           <ToolButton
-            onClick={() => onFocus(focusDepth === 1 ? null : focusDepth === 3 ? 2 : 1)}
-            aria-label="Recolher um grau"
+            active={focusDepth === 3}
+            onClick={() => onFocus(focusDepth === 3 ? 2 : 3)}
+            aria-label="Expandir para o terceiro grau"
           >
-            Recolher
+            Expandir 3º grau (+{expansionCounts.third})
           </ToolButton>
-        )}
-        <ToolButton active={inSelection} onClick={onAddToSelection}>
-          {inSelection ? "Na seleção" : "Adicionar à seleção"}
-        </ToolButton>
-        <ToolButton
-          active={pinned}
-          onClick={onTogglePinned}
-          aria-label={pinned ? "Desafixar nó" : "Fixar nó no layout"}
-        >
-          {pinned ? "Desafixar" : "Fixar nó"}
-        </ToolButton>
-        <ToolButton onClick={onPathFrom}>Caminho até…</ToolButton>
-        {isEvent && <ToolButton onClick={onBeforeAfter}>Antes / depois</ToolButton>}
+          {focusDepth && (
+            <ToolButton
+              onClick={() => onFocus(focusDepth === 1 ? null : focusDepth === 3 ? 2 : 1)}
+              aria-label="Recolher um grau"
+            >
+              Recolher
+            </ToolButton>
+          )}
+          <ToolButton active={inSelection} onClick={onAddToSelection}>
+            {inSelection ? "Na seleção" : "Adicionar à seleção"}
+          </ToolButton>
+          <ToolButton
+            active={pinned}
+            onClick={onTogglePinned}
+            aria-label={pinned ? "Desafixar nó" : "Fixar nó no layout"}
+          >
+            {pinned ? "Desafixar" : "Fixar nó"}
+          </ToolButton>
+          <ToolButton onClick={onPathFrom}>Caminho até…</ToolButton>
+          {isEvent && <ToolButton onClick={onBeforeAfter}>Antes / depois</ToolButton>}
         </div>
       </details>
 

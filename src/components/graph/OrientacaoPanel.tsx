@@ -7,9 +7,9 @@ import { PanelShell } from "./ui";
 const CHAVE = "novelo-orientacao-vista";
 
 const INSTRUCOES = [
-  ["Clique num nó", "abre o card com o resumo, as conexões e as fontes."],
+  ["Toque ou clique num nó", "abre o card com o resumo, as conexões e as fontes."],
   ["Clique duas vezes", "abre o dossiê completo daquela entidade."],
-  ["Arraste um nó", "reposiciona sem alterar o dado; “Restaurar” desfaz."],
+  ["No celular", "um dedo move o mapa; use Ferramentas → Mover nós para reorganizar."],
 ];
 
 /**
@@ -64,7 +64,7 @@ export function OrientacaoPanel({
 
       <dl className="mt-3 space-y-1.5">
         {INSTRUCOES.map(([acao, efeito]) => (
-          <div key={acao} className="flex gap-2 text-[12.5px]">
+          <div key={acao} className="flex flex-wrap gap-x-2 text-sm">
             <dt className="text-fg shrink-0 font-medium">{acao}</dt>
             <dd className="text-fg-3">{efeito}</dd>
           </div>
