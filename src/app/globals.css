@@ -86,6 +86,7 @@ html {
   inset: 0 0 auto;
 }
 .graph-tools {
+  pointer-events: auto;
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
