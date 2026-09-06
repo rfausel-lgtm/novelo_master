@@ -26,7 +26,12 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
   test.beforeEach(async ({ page }) => {
     await page.goto("/grafo?dataset=demo");
     await expect(page.getByTestId("graph-canvas")).toBeVisible({ timeout: 20_000 });
-    await expect(page.getByText(/\d+ nós · \d+ arestas/)).toBeVisible({ timeout: 20_000 });
+    await expect(
+      page
+        .getByText(/\d+ nós · \d+ arestas/)
+        .filter({ visible: true })
+        .first(),
+    ).toBeVisible({ timeout: 20_000 });
   });
 
   test("carrega, busca um nó, abre o card e leva ao dossiê", async ({ page }) => {
@@ -45,6 +50,7 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
   test("modo somente fontes oficiais exibe banner e reduz a contagem", async ({ page }) => {
     const before = await page
       .getByText(/\d+ nós · \d+ arestas/)
+      .filter({ visible: true })
       .first()
       .innerText();
     await page.getByRole("button", { name: "Filtros" }).click();
@@ -54,6 +60,7 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
     ).toBeVisible();
     const after = await page
       .getByText(/\d+ nós · \d+ arestas/)
+      .filter({ visible: true })
       .first()
       .innerText();
     expect(after).not.toEqual(before);
@@ -65,13 +72,15 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
     const slider = page.getByRole("slider", { name: /Data limite/i });
     const before = await page
       .getByText(/\d+ nós · \d+ arestas/)
+      .filter({ visible: true })
       .first()
       .innerText();
     const max = Number(await slider.getAttribute("max"));
     await slider.fill(String(Math.floor(max / 3)));
-    await expect(page.getByText(/^Até/)).not.toContainText("2026");
+    await expect(page.locator(".time-details label")).not.toContainText("2026");
     const after = await page
       .getByText(/\d+ nós · \d+ arestas/)
+      .filter({ visible: true })
       .first()
       .innerText();
     expect(after).not.toEqual(before);
