@@ -1,0 +1,18 @@
+id: ev-agape-associa-jefferson-silva-metadados-dossie
+kind: evidence
+classification: A
+proposition: Segundo David Ágape, metadados de um arquivo PDF do dossiê anônimo usado na decisão de Moraes
+  contra Mendonça (03/09/2026) registram 'Jefferson.Silva' como autor/criador — o artigo sugere, sem afirmar
+  como fato provado, que isso possa se referir a Jefferson Pessoa da Silva, assessor do gabinete de Moraes.
+  O próprio texto do artigo, verificado pela equipe por leitura direta do HTML bruto, qualifica essa associação
+  como 'indício, não prova'. Não há confirmação independente.
+document_ids: []
+source_ids:
+- src-ainvestigacao-2026-09-04-moraes-distorceu-dossie-apocrifo
+attributed_to: David Ágape, newsletter A Investigação
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

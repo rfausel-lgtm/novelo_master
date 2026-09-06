@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-06T12:48:09.997Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-06T13:30:30.611Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -107,6 +107,7 @@ PESSOA|david-agape|David Ágape|Jornalista; autor da newsletter 'A Investigaçã
 PESSOA|david-lopes-monteiro|David Lopes Monteiro|Citado na decisão da 9ª fase como quem teria auxiliado na aquisição do apartamento|É nomeado em decisão pública do STF entre as pessoas que teriam auxiliado na operação imobiliária examinada na 9ª fase da Compliance Zero.
 PESSOA|deivis-marcon-antunes|Deivis Marcon Antunes|Ex-presidente do Rioprevidência|É o principal alvo da Operação Barco de Papel, a investigação sobre os aportes do Rioprevidência no grupo Master.
 POSIÇÃO|deivis-marcon-antunes|denial|A defesa nega interferência nas investigações, afirma colaboração com as autoridades — entregou senhas e se colocou à disposição — e pediu substituição da prisão preventiva por medidas cautelares, pedido negado pelo STJ.
+PESSOA|dennis-cali|Dennis Cali|Diretor de área da Polícia Federal, segundo identificação de David Ágape a partir de sigla em documentos anônimos|É um dos nomes que uma reportagem de fonte única associa, sem confirmação independente, à possível cadeia institucional de origem do dossiê anônimo central na crise Moraes-Mendonça.
 PESSOA|dias-toffoli|Dias Toffoli|Ministro do Supremo Tribunal Federal|Declarou suspeição, por foro íntimo, para julgamentos relacionados ao caso Master, conforme comunicação oficial do STF.
 POSIÇÃO|dias-toffoli|denial|Afirmou nunca ter recebido pagamentos e nunca ter tido relação com Daniel Vorcaro (Reuters).
 POSIÇÃO|dias-toffoli|public_note|Nota de 12/02/2026: integra o quadro societário da Maridt, empresa familiar sem atos de gestão, que foi sócia do grupo Tayayá até 21/02/2025; desconhece o gestor do Fundo Arllen; jamais teve amizade com Vorcaro nem recebeu valores.
@@ -172,6 +173,7 @@ POSIÇÃO|jaques-wagner|clarification|Confirmou ter indicado o escritório de Ri
 POSIÇÃO|jaques-wagner|denial|Por nota da assessoria, em 18/06/2026: 'O senador Jaques Wagner (PT-BA) esclarece que não é réu, não foi denunciado e não foi acusado em nenhum processo relacionado aos fatos investigados.' Afirma que o apartamento 'jamais integrou o patrimônio do parlamentar…
 PESSOA|jarbas-soares-junior|Jarbas Soares Júnior|Presidente do Conselho Nacional de Procuradores-Gerais (CNPG)|Nomeado em mensagens do relatório da Polícia Federal sobre o celular de Vorcaro como beneficiário de suposta intervenção de Paulo Gonet em eleição do CNPG.
 POSIÇÃO|jarbas-soares-junior|no_response|Procurado pelo Poder360, não respondeu até a publicação da reportagem.
+PESSOA|jefferson-pessoa-da-silva|Jefferson Pessoa da Silva|Assessor no gabinete do ministro Alexandre de Moraes (STF), segundo identificação de David Ágape|É o nome que uma reportagem específica associa, por indício técnico de metadados — não por confirmação —, à possível origem de um dossiê anônimo central na crise institucional Moraes-Mendonça no STF; entra no grafo com o peso exato da fonte que o cita, sinalizado pela classificação de evidência.
 PESSOA|jeronimo-rodrigues|Jerônimo Rodrigues|Governador da Bahia desde 2023; candidato à reeleição|Chefe do Executivo estadual no período dos repasses à ASSEBA apontados pelo Coaf, e responsável pela decisão sobre a continuidade do contrato do CredCesta.
 POSIÇÃO|jeronimo-rodrigues|denial|Por nota do governo do Estado: 'Não é verdade que o governo injetou 140 milhões em uma associação de servidores controlada por Augusto Lima.' Sustenta que os valores são descontos em folha da taxa de associação, autorizados pelos próprios servidores.
 PESSOA|jhonatan-de-jesus|Jhonatan de Jesus|Ministro do Tribunal de Contas da União, relator da inspeção sobre a liquidação do Banco Master|Conduz, como relator no TCU, a fiscalização sobre como o Banco Central decidiu liquidar o Banco Master.
@@ -265,6 +267,7 @@ POSIÇÃO|viviane-barci-de-moraes|denial|Segundo o Poder360, Viviane divulgou no
 PESSOA|vladimir-timerman|Vladimir Timerman|Sócio da Esh Capital|Prestou depoimento que deu origem à linha investigativa sobre suposto controle oculto do Banco Master por terceiros.
 PESSOA|walfrido-warde|Walfrido Jorge Warde Junior|Advogado; ex-procurador do Banco Central; sócio-administrador da Warde Advogados|É o único, entre os advogados identificados, que combina porta giratória regulatória (ex-Banco Central, ex-CVM) com alegação direta e grave de proximidade indevida com o Judiciário.
 POSIÇÃO|walfrido-warde|denial|O escritório declarou que recebeu a informação sobre a investigação do próprio cliente e de outros escritórios que o representavam, negando acesso indevido a informação sigilosa.
+PESSOA|wedson-caje-lopes|Wedson Cajé Lopes|Servidor da Polícia Federal citado como único com acesso a uma decisão de Mendonça, segundo David Ágape|É um dos nomes que uma reportagem de fonte única associa, sem confirmação independente, ao acesso a material sensível relacionado ao dossiê anônimo central na crise Moraes-Mendonça.
 
 ## ORGANIZAÇÕES
 
@@ -728,6 +731,8 @@ ATO|ato-2026-06-10-ccj-aprova-substitutivo-pec-65|2026-06-10|D|CCJ aprova substi
 
 ## RELAÇÕES
 
+RELAÇÃO|rel-agape-associa-dennis-cali-ao-dossie-mendonca|A|Dennis Cali -> André Mendonça|allegation|associado por sigla de rodapé a dossiê contra Mendonça|2026-09-04|David Ágape associa, por sigla institucional em rodapé de documentos anônimos — não verificado pela equipe —, a diretoria de Dennis Cali ao dossiê anônimo usado contra Mendonça. Alegação de fonte única, não confirmada.|1 fonte(s)
+RELAÇÃO|rel-agape-associa-jefferson-silva-ao-dossie-moraes|A|Jefferson Pessoa da Silva -> Alexandre de Moraes|allegation|associado por indício de metadados a dossiê usado por Moraes|2026-09-04|David Ágape associa, por indício de metadados de PDF — não por prova —, o nome Jefferson Pessoa da Silva a um dossiê anônimo que teria embasado a decisão de Moraes contra Mendonça. Alegação de fonte única, não confirmada.|1 fonte(s)
 RELAÇÃO|rel-alessandro-vieira-senado-federal-institutional|D|Alessandro Vieira -- Senado Federal|institutional|senador|sem data|Exerce mandato de senador e relatou a CPI do Crime Organizado.|1 fonte(s), 1 oficial(is)
 RELAÇÃO|rel-alexandre-de-moraes-andre-mendonca-allegation|A|Alexandre de Moraes -- André Mendonça|allegation|alegou improbidade e usurpação de direção|2026-09-03|Em decisão de 03/09/2026, Moraes apontou 'fortes indícios' de improbidade administrativa, abuso de autoridade e crime de responsabilidade por parte de Mendonça na condução das Petições 15.041 e 15.556, com base em relatório da PF sobre tratamento assimétrico de casos por alinhamento político. Encaminhou o caso a Fachi…|1 fonte(s)
 RELAÇÃO|rel-alexandre-de-moraes-barci-de-moraes-corporate|D|Alexandre de Moraes -- Barci de Moraes Advogados|professional|editou a última versão do 1º contrato, a pedido do compliance do banco|2024-01-16|Documento extraído do celular de Vorcaro mostra que a última versão do contrato de janeiro de 2024 foi editada por usuário identificado como o ministro. O escritório confirmou e explicou que o compliance do Master consultou Moraes sobre impedimentos legais, e que ele jamais julgou causa envolvendo o banco.|1 fonte(s)

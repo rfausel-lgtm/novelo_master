@@ -1,0 +1,25 @@
+id: dennis-cali
+kind: person
+name: Dennis Cali
+category: police
+role: Diretor de área da Polícia Federal, segundo identificação de David Ágape a partir de sigla em documentos
+  anônimos
+positions: []
+summary: Nome que a newsletter 'A Investigação' (David Ágape) associa a uma diretoria da Polícia Federal
+  identificada pela sigla 'UADIP/CINQ/CGRC/DICOR', presente no rodapé de dois documentos anônimos relacionados
+  ao dossiê usado contra André Mendonça na crise institucional do STF. A equipe editorial NÃO verificou
+  esta alegação contra documento primário nem contra o texto integral do artigo — a informação chegou
+  por resumo assistido, e nenhuma outra fonte a corrobora até a data desta atualização.
+why_in_novelo: É um dos nomes que uma reportagem de fonte única associa, sem confirmação independente,
+  à possível cadeia institucional de origem do dossiê anônimo central na crise Moraes-Mendonça.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-ainvestigacao-2026-09-04-pistas-autor-dossie-mendonca
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,19 @@
+id: ev-agape-associa-dennis-cali-wedson-lopes-sigla-dossie
+kind: evidence
+classification: A
+proposition: Segundo David Ágape, dois documentos anônimos relacionados ao dossiê contra Mendonça trazem
+  no rodapé a sigla 'UADIP/CINQ/CGRC/DICOR', que o autor associa à diretoria de Dennis Cali na Polícia
+  Federal; o artigo cita ainda Wedson Cajé Lopes como único integrante de uma equipe com acesso a uma
+  decisão de Mendonça. Esta alegação NÃO foi verificada pela equipe contra documento primário nem contra
+  o texto integral do artigo (obtida por resumo assistido) — permanece como alegação de fonte única, sem
+  corroboração independente localizada.
+document_ids: []
+source_ids:
+- src-ainvestigacao-2026-09-04-pistas-autor-dossie-mendonca
+attributed_to: David Ágape, newsletter A Investigação
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

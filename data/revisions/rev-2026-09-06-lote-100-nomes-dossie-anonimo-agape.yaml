@@ -1,0 +1,27 @@
+id: rev-2026-09-06-lote-100-nomes-dossie-anonimo-agape
+kind: revision
+date: '2026-09-06'
+title: Lote 100 — os nomes que David Ágape aponta como possível origem do dossiê anônimo contra Mendonça
+summary: 'Por decisão editorial explícita do editor, incluídos no grafo três nomes de baixa notoriedade
+  que a newsletter ''A Investigação'' (David Ágape) associa à possível origem do dossiê anônimo usado
+  na decisão de Moraes contra Mendonça (03/09/2026): Jefferson Pessoa da Silva (indício de metadados de
+  PDF, com o próprio artigo-fonte tratando isso como indício, não prova — verificado pela equipe por leitura
+  direta do HTML bruto) e Dennis Cali / Wedson Cajé Lopes (sigla institucional em rodapé de documentos
+  anônimos, alegação de uma segunda matéria NÃO verificada pela equipe contra documento primário). Todos
+  os três entram como alegação de fonte única, classe A, com o peso da fonte sinalizado pela classificação
+  — não como fato estabelecido. A lógica editorial: o grafo acumula rastro de alegações fracas para que
+  ganhem ou percam relevância com novos lotes de informação, em vez de pré-filtrar o que entra.'
+affected_ids:
+- jefferson-pessoa-da-silva
+- dennis-cali
+- wedson-caje-lopes
+- alexandre-de-moraes
+- andre-mendonca
+- david-agape
+reason: 'Decisão editorial explícita do editor: incluir nomes de alegações fracas com peso sinalizado
+  pela classificação de evidência.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

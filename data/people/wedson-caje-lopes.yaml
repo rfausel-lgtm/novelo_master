@@ -1,0 +1,25 @@
+id: wedson-caje-lopes
+kind: person
+name: Wedson Cajé Lopes
+category: police
+role: Servidor da Polícia Federal citado como único com acesso a uma decisão de Mendonça, segundo David
+  Ágape
+positions: []
+summary: Nome que a newsletter 'A Investigação' (David Ágape) cita como o único integrante de uma equipe
+  da Polícia Federal com acesso a uma decisão do ministro André Mendonça, no contexto da apuração sobre
+  a origem do dossiê anônimo usado contra ele na crise institucional do STF. A equipe editorial NÃO verificou
+  esta alegação contra documento primário nem contra o texto integral do artigo — a informação chegou
+  por resumo assistido, e nenhuma outra fonte a corrobora até a data desta atualização.
+why_in_novelo: É um dos nomes que uma reportagem de fonte única associa, sem confirmação independente,
+  ao acesso a material sensível relacionado ao dossiê anônimo central na crise Moraes-Mendonça.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-ainvestigacao-2026-09-04-pistas-autor-dossie-mendonca
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
