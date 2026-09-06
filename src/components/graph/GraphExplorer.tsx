@@ -12,7 +12,9 @@ import type { GraphLayerPayload, GraphPayload } from "@/lib/graph/types";
 import { buildIndex } from "@/lib/graph/indexes";
 import { applyPalette, buildSigmaGraph } from "@/lib/graph/build";
 import { readPalette, PALETTE_FALLBACK, type Palette } from "@/lib/graph/style";
-import { applyFilters } from "@/lib/graph/filters";
+import { MobileFilters, filterChips } from "./MobileFilters";
+import { useMobileGraph } from "./useMobileGraph";
+import { applyFilters, type FilterState } from "@/lib/graph/filters";
 import { inducedSubgraph, neighborhood } from "@/lib/graph/algorithms";
 import { todayISO, toFullDate } from "@/lib/graph/dates";
 import { GraphCanvas, type CanvasView } from "./GraphCanvas";
@@ -26,7 +28,7 @@ import { TimeMachine } from "./TimeMachine";
 import { BeforeAfter } from "./BeforeAfter";
 import { Legend } from "./Legend";
 import { OrientacaoPanel } from "./OrientacaoPanel";
-import { PanelShell, ToolButton } from "./ui";
+import { MobileToolIcon, PanelShell, ToolButton } from "./ui";
 import { useGraphState } from "./useGraphState";
 
 const EVIDENCE_LAYER_URL = "/data/graph-evidence.json";
@@ -77,6 +79,7 @@ function useThemePalette(): Palette {
 
 export function GraphExplorer() {
   const router = useRouter();
+  const mobile = useMobileGraph();
   const { state, dispatch, selectNode, dataset } = useGraphState();
   const [loaded, setLoaded] = useState<{
     dataset: string | null;
@@ -94,13 +97,38 @@ export function GraphExplorer() {
   const [legendOpen, setLegendOpen] = useState(false);
   const [orientacaoOculta, setOrientacaoOculta] = useState(false);
   const [toolsOpen, setToolsOpen] = useState(false);
+  const [searchOpen, setSearchOpen] = useState(false);
+  const [organizeMode, setOrganizeMode] = useState(false);
+  const [timeOpen, setTimeOpen] = useState(false);
+  const [keyboardOpen, setKeyboardOpen] = useState(false);
+  const explorerRef = useRef<HTMLDivElement | null>(null);
+  useEffect(() => {
+    const viewport = window.visualViewport;
+    if (!viewport) return;
+    const update = () => {
+      if (viewport.scale !== 1) return;
+      explorerRef.current?.style.setProperty("--visible-height", `${viewport.height}px`);
+      setKeyboardOpen(
+        window.innerHeight - viewport.height > 140 && document.activeElement === searchRef.current,
+      );
+    };
+    viewport.addEventListener("resize", update);
+    document.addEventListener("focusin", update);
+    document.addEventListener("focusout", update);
+    update();
+    return () => {
+      viewport.removeEventListener("resize", update);
+      document.removeEventListener("focusin", update);
+      document.removeEventListener("focusout", update);
+    };
+  }, []);
   const [layoutToken, setLayoutToken] = useState(0);
   const [layoutRunning, setLayoutRunning] = useState(false);
   const [fitToken, setFitToken] = useState(0);
   const [restoreToken, setRestoreToken] = useState(0);
   const [cameraCommand, setCameraCommand] = useState<{
     token: number;
-    action: "rotate-left" | "rotate-right" | "reset-angle";
+    action: "rotate-left" | "rotate-right" | "reset-angle" | "zoom-in" | "zoom-out";
   } | null>(null);
   const searchRef = useRef<HTMLInputElement | null>(null);
   const reducedMotion = useReducedMotion();
@@ -164,7 +192,12 @@ export function GraphExplorer() {
     if (!base || !layerPayload) return base;
     const nodes = [...base.nodes, ...layerPayload.nodes];
     const edges = [...base.edges, ...layerPayload.edges];
-    return { ...base, nodes, edges, stats: { ...base.stats, nodes: nodes.length, edges: edges.length } };
+    return {
+      ...base,
+      nodes,
+      edges,
+      stats: { ...base.stats, nodes: nodes.length, edges: edges.length },
+    };
   }, [base, layerPayload]);
 
   const index = useMemo(() => (payload ? buildIndex(payload) : null), [payload]);
@@ -250,7 +283,10 @@ export function GraphExplorer() {
     if (!index || !view) return [];
     return [...view.visibleNodes]
       .map((id) => index.nodeById.get(id))
-      .filter((n): n is NonNullable<typeof n> => !!n && (n.kind === "person" || n.kind === "organization"))
+      .filter(
+        (n): n is NonNullable<typeof n> =>
+          !!n && (n.kind === "person" || n.kind === "organization"),
+      )
       .sort((a, b) => b.degree - a.degree)
       .slice(0, 3)
       .map((n) => ({ id: n.id, label: n.label }));
@@ -333,6 +369,21 @@ export function GraphExplorer() {
     );
   }
 
+  const chips = filterChips(state.filters);
+  const closeMobileFilters = () =>
+    dispatch({
+      type: "panel",
+      panel: state.selectedNode ? "node" : state.selectedEdge ? "edge" : null,
+    });
+  const countDraft = (draft: FilterState) => {
+    const proposed = applyFilters(index, draft);
+    if (state.isolate && state.selection.length)
+      return inducedSubgraph(index, state.selection, state.isolate.withNeighbors, proposed).nodes
+        .size;
+    if (state.focus && index.nodeById.has(state.focus.root))
+      return neighborhood(index, state.focus.root, state.focus.depth, proposed).nodes.size;
+    return proposed.nodes.size;
+  };
   const ariaLabel = `Grafo com ${view.visibleNodes.size} nós e ${view.visibleEdges.size} arestas visíveis, de ${payload.stats.nodes} nós e ${payload.stats.edges} arestas no total.`;
 
   const panel = (() => {
@@ -340,13 +391,14 @@ export function GraphExplorer() {
       case "node":
         return selectedNode ? (
           <NodeCard
+            key={selectedNode.id}
             index={index}
             node={selectedNode}
             visible={{ nodes: view.visibleNodes, edges: view.visibleEdges }}
             focusDepth={state.focus?.root === selectedNode.id ? state.focus.depth : null}
             inSelection={state.selection.includes(selectedNode.id)}
             pinned={state.pinnedNodes.includes(selectedNode.id)}
-            onClose={() => selectNode(null)}
+            onClose={() => dispatch({ type: "panel", panel: null })}
             onSelectNode={(id) => selectNode(id, true)}
             onFocus={(depth) =>
               depth
@@ -371,11 +423,12 @@ export function GraphExplorer() {
             index={index}
             edge={selectedEdge}
             sourceIndex={payload.source_index}
-            onClose={() => dispatch({ type: "selectEdge", id: null })}
+            onClose={() => dispatch({ type: "panel", panel: null })}
             onSelectNode={(id) => selectNode(id, true)}
           />
         ) : null;
       case "filters":
+        if (mobile) return null;
         return (
           <FiltersPanel
             filters={state.filters}
@@ -429,7 +482,7 @@ export function GraphExplorer() {
          * Nada selecionado: em vez de 40% da tela vazia, o painel ensina a ler o mapa e oferece
          * três pontos de partida. Some para sempre depois de dispensado.
          */
-        if (orientacaoOculta) return null;
+        if (orientacaoOculta || state.selectedNode || state.selectedEdge) return null;
         return (
           <OrientacaoPanel
             atalhos={atalhosDePartida}
@@ -440,65 +493,293 @@ export function GraphExplorer() {
     }
   })();
 
-  return (
-    <div className="relative h-full w-full overflow-hidden" data-testid="graph-explorer">
-      <GraphCanvas
-        graph={graph}
-        index={index}
-        palette={palette}
-        view={view}
-        onSelectNode={(id) => selectNode(id)}
-        onSelectEdge={(id) => dispatch({ type: "selectEdge", id })}
-        onOpenNode={openNode}
-        onEscape={() => dispatch({ type: "escape" })}
-        onFocusSearch={() => searchRef.current?.focus()}
-        cameraTarget={state.cameraTarget}
-        layoutToken={layoutToken}
-        onLayoutRunning={setLayoutRunning}
-        fitToken={fitToken}
-        restoreToken={restoreToken}
-        cameraCommand={cameraCommand}
-        reducedMotion={reducedMotion}
-        ariaLabel={ariaLabel}
-      />
-
+  const tools = (
+    <div
+      className="graph-tools"
+      onClick={(event) => {
+        if ((event.target as HTMLElement).closest("button, a")) setToolsOpen(false);
+      }}
+    >
+      {" "}
+      <p className="graph-tool-section">Explorar conexões</p>
+      <ToolButton
+        active={state.multiSelect}
+        onClick={() => dispatch({ type: "setMultiSelect", on: !state.multiSelect })}
+      >
+        Seleção múltipla
+      </ToolButton>
+      <ToolButton
+        active={state.panel === "path"}
+        onClick={() => dispatch({ type: "panel", panel: state.panel === "path" ? null : "path" })}
+      >
+        Como A se conecta a B?
+      </ToolButton>
+      <ToolButton
+        active={legendOpen}
+        /* A legenda completa substitui a orientação: a compacta já está dentro dela. */
+        onClick={() => {
+          setLegendOpen((v) => !v);
+          setOrientacaoOculta(true);
+        }}
+        aria-expanded={legendOpen}
+      >
+        Legenda
+      </ToolButton>
+      <p className="graph-tool-section">Organizar a visualização</p>
+      <ToolButton
+        className="md:hidden"
+        active={organizeMode}
+        onClick={() => setOrganizeMode((v) => !v)}
+      >
+        Mover nós: {organizeMode ? "ativado" : "desativado"}
+      </ToolButton>
+      <ToolButton onClick={() => setFitToken((t) => t + 1)} aria-label="Ajustar o grafo à tela">
+        Ajustar
+      </ToolButton>
+      <ToolButton
+        active={layoutRunning}
+        onClick={() => setLayoutToken((t) => t + 1)}
+        title="Recalcula as posições dos nós; o dado não muda."
+      >
+        {layoutRunning ? "Parar" : "Reorganizar"}
+      </ToolButton>
+      <ToolButton
+        onClick={() => setRestoreToken((t) => t + 1)}
+        aria-label="Restaurar o layout original"
+      >
+        Restaurar
+      </ToolButton>
+      {state.pinnedNodes.length > 0 && (
+        <ToolButton
+          onClick={() => dispatch({ type: "clearPinned" })}
+          aria-label="Desafixar todos os nós"
+        >
+          Desafixar todos ({state.pinnedNodes.length})
+        </ToolButton>
+      )}
+      <ToolButton
+        onClick={() =>
+          setCameraCommand((current) => ({
+            token: (current?.token ?? 0) + 1,
+            action: "rotate-left",
+          }))
+        }
+        className="graph-rotation-control"
+        aria-label="Girar o grafo para a esquerda"
+      >
+        ↺ Esquerda
+      </ToolButton>
+      <ToolButton
+        onClick={() =>
+          setCameraCommand((current) => ({
+            token: (current?.token ?? 0) + 1,
+            action: "rotate-right",
+          }))
+        }
+        className="graph-rotation-control"
+        aria-label="Girar o grafo para a direita"
+      >
+        ↻ Direita
+      </ToolButton>
+      <ToolButton
+        onClick={() =>
+          setCameraCommand((current) => ({
+            token: (current?.token ?? 0) + 1,
+            action: "reset-angle",
+          }))
+        }
+        className="graph-rotation-control"
+        aria-label="Remover a rotação do grafo"
+      >
+        0°
+      </ToolButton>
+      {(state.focus || state.isolate) && (
+        <ToolButton
+          onClick={() => {
+            dispatch({ type: "clearFocus" });
+            dispatch({ type: "isolate", value: null });
+          }}
+          aria-label="Sair do foco"
+        >
+          Sair do foco
+        </ToolButton>
+      )}
       {/*
+            No celular o canvas captura o toque e o rodapé é inalcançável: quem não consegue usar o
+            grafo ficava sem nenhuma saída visível para a alternativa em tabela.
+          */}
+      <Link
+        href="/rede"
+        className="border-border-strong text-fg-2 hover:text-fg hover:border-fg-3 inline-flex h-11 items-center rounded-md border px-3 text-xs transition-colors md:hidden"
+      >
+        Ver em tabela
+      </Link>
+      <Link
+        href="/rede"
+        className="text-fg-3 hover:text-fg ml-auto hidden text-xs underline-offset-2 hover:underline md:inline"
+      >
+        Ver a mesma rede em tabela
+      </Link>
+    </div>
+  );
+  const activePanel = toolsOpen ? (
+    <PanelShell title="Ferramentas" onClose={() => setToolsOpen(false)}>
+      {tools}
+    </PanelShell>
+  ) : legendOpen ? (
+    <PanelShell title="Legenda" onClose={() => setLegendOpen(false)}>
+      <Legend />
+    </PanelShell>
+  ) : (
+    panel
+  );
+
+  return (
+    <div
+      ref={explorerRef}
+      className="graph-workspace relative h-full w-full overflow-hidden"
+      data-testid="graph-explorer"
+      data-keyboard={keyboardOpen || undefined}
+    >
+      {mobile && state.panel === "filters" && (
+        <MobileFilters
+          filters={state.filters}
+          count={countDraft}
+          onClose={closeMobileFilters}
+          ensureEvidenceLayer={async () => {
+            if (!layerPayload) {
+              try {
+                setLayerPayload(await fetchLayer());
+              } catch (error) {
+                layerRequest.current = null;
+                throw error;
+              }
+            }
+          }}
+          onApply={(filters) => {
+            dispatch({ type: "filters", patch: filters });
+            closeMobileFilters();
+          }}
+        />
+      )}
+      <div className="graph-stage">
+        <GraphCanvas
+          graph={graph}
+          index={index}
+          palette={palette}
+          view={view}
+          onSelectNode={(id) => {
+            setToolsOpen(false);
+            setLegendOpen(false);
+            setOrientacaoOculta(true);
+            selectNode(id);
+          }}
+          onSelectEdge={(id) => {
+            setToolsOpen(false);
+            setLegendOpen(false);
+            setOrientacaoOculta(true);
+            dispatch({ type: "selectEdge", id });
+          }}
+          onOpenNode={openNode}
+          onEscape={() => dispatch({ type: "escape" })}
+          onFocusSearch={() => {
+            setSearchOpen(true);
+            requestAnimationFrame(() => searchRef.current?.focus());
+          }}
+          organizeMode={organizeMode}
+          cameraTarget={state.cameraTarget}
+          layoutToken={layoutToken}
+          onLayoutRunning={setLayoutRunning}
+          fitToken={fitToken}
+          restoreToken={restoreToken}
+          cameraCommand={cameraCommand}
+          reducedMotion={reducedMotion}
+          ariaLabel={ariaLabel}
+        />
+
+        {/*
         Recorte vazio: antes a tela ficava preta, sem mensagem e sem reenquadramento, e o leitor
         não tinha como saber se o site quebrou ou se o filtro é que zerou.
       */}
-      {view.visibleNodes.size === 0 && (
-        <div className="pointer-events-none absolute inset-0 z-10 flex items-center justify-center p-6">
-          <div className="border-border-strong bg-bg-2/95 pointer-events-auto max-w-sm rounded-lg border p-5 text-center shadow-2xl backdrop-blur">
-            <p className="text-fg text-sm font-medium">Nenhum nó neste recorte.</p>
-            <p className="text-fg-2 mt-1.5 text-xs leading-relaxed">
-              Os filtros ativos, o recorte temporal ou o foco em um nó excluíram tudo o que existe no
-              corpus.
-            </p>
-            <button
-              type="button"
-              onClick={() => {
-                dispatch({ type: "resetFilters" });
-                dispatch({ type: "clearFocus" });
-              }}
-              className="bg-accent text-bg hover:bg-accent/90 mt-4 inline-flex h-9 items-center rounded-md px-4 text-xs font-medium"
-            >
-              Mostrar tudo
-            </button>
+        {view.visibleNodes.size === 0 && (
+          <div className="pointer-events-none absolute inset-0 z-10 flex items-center justify-center p-6">
+            <div className="border-border-strong bg-bg-2/95 pointer-events-auto max-w-sm rounded-lg border p-5 text-center shadow-2xl backdrop-blur">
+              <p className="text-fg text-sm font-medium">Nenhum nó neste recorte.</p>
+              <p className="text-fg-2 mt-1.5 text-xs leading-relaxed">
+                Os filtros ativos, o recorte temporal ou o foco em um nó excluíram tudo o que existe
+                no corpus.
+              </p>
+              <button
+                type="button"
+                onClick={() => {
+                  dispatch({ type: "resetFilters" });
+                  dispatch({ type: "clearFocus" });
+                }}
+                className="bg-accent text-bg hover:bg-accent/90 mt-4 inline-flex h-9 items-center rounded-md px-4 text-xs font-medium"
+              >
+                Mostrar tudo
+              </button>
+            </div>
           </div>
-        </div>
-      )}
+        )}
 
+        <div className="graph-zoom md:hidden" aria-label="Enquadramento do grafo">
+          <ToolButton
+            aria-label="Aproximar grafo"
+            onClick={() =>
+              setCameraCommand((c) => ({ token: (c?.token ?? 0) + 1, action: "zoom-in" }))
+            }
+          >
+            +
+          </ToolButton>
+          <ToolButton
+            aria-label="Afastar grafo"
+            onClick={() =>
+              setCameraCommand((c) => ({ token: (c?.token ?? 0) + 1, action: "zoom-out" }))
+            }
+          >
+            −
+          </ToolButton>
+          <ToolButton aria-label="Ajustar o grafo à tela" onClick={() => setFitToken((t) => t + 1)}>
+            Ajustar
+          </ToolButton>
+        </div>
+      </div>
       {/* Barra de ferramentas */}
-      <div className="pointer-events-none absolute inset-x-0 top-0 z-10 flex flex-col gap-2 p-3">
-        <div className="pointer-events-auto flex flex-wrap items-center gap-1.5">
-          <div className="min-w-0 flex-1 md:w-64 md:flex-none">
+      <div className="graph-toolbar pointer-events-none z-30 flex flex-col gap-2 p-3">
+        <div className="graph-primary-tools pointer-events-auto flex items-center gap-1.5">
+          <ToolButton
+            className="mobile-search-toggle md:hidden"
+            aria-expanded={searchOpen}
+            aria-controls="graph-search"
+            onClick={() => {
+              setSearchOpen((v) => !v);
+              setToolsOpen(false);
+              setLegendOpen(false);
+              if (!searchOpen) requestAnimationFrame(() => searchRef.current?.focus());
+            }}
+          >
+            <MobileToolIcon name="search" /> Buscar
+          </ToolButton>
+          <div
+            id="graph-search"
+            className={`graph-search min-w-0 flex-1 md:w-64 md:flex-none ${searchOpen ? "is-open" : ""}`}
+          >
             <SearchBox
               index={index}
+              grouped={mobile}
               only={view.visibleNodes}
               ariaLabel="Buscar pessoa, organização ou evento"
-              placeholder="Buscar no novelo…"
+              placeholder={mobile ? "Buscar pessoa, organização ou evento" : "Buscar no novelo…"}
               inputRef={searchRef}
-              onPick={(id) => selectNode(id, true)}
+              onPick={(id) => {
+                setToolsOpen(false);
+                setLegendOpen(false);
+                setOrientacaoOculta(true);
+                setSearchOpen(false);
+                searchRef.current?.blur();
+                selectNode(id, true);
+              }}
               onClearScope={() => {
                 dispatch({ type: "resetFilters" });
                 dispatch({ type: "clearFocus" });
@@ -507,134 +788,58 @@ export function GraphExplorer() {
           </div>
           <ToolButton
             active={state.panel === "filters"}
-            onClick={() =>
-              dispatch({ type: "panel", panel: state.panel === "filters" ? null : "filters" })
-            }
+            onClick={() => {
+              setToolsOpen(false);
+              setLegendOpen(false);
+              setSearchOpen(false);
+              setOrientacaoOculta(true);
+              dispatch({ type: "panel", panel: state.panel === "filters" ? null : "filters" });
+            }}
           >
-            Filtros
+            <MobileToolIcon name="filters" /> Filtros{" "}
+            {mobile && chips.length > 0 && (
+              <span className="mobile-filter-count">{chips.length}</span>
+            )}
           </ToolButton>
           <ToolButton
             className="md:hidden"
             active={toolsOpen}
             aria-expanded={toolsOpen}
-            onClick={() => setToolsOpen((v) => !v)}
+            onClick={() => {
+              setToolsOpen((v) => !v);
+              setLegendOpen(false);
+              setSearchOpen(false);
+              setOrientacaoOculta(true);
+            }}
           >
-            Ferramentas
+            <MobileToolIcon name="tools" /> Ferramentas
           </ToolButton>
         </div>
 
-        {/*
-         * No celular a barra ocupava três linhas e comia um terço da tela antes do grafo.
-         * Aqui as ferramentas secundárias ficam atrás de um botão; no desktop seguem visíveis.
-         */}
-        <div
-          className={`pointer-events-auto ${toolsOpen ? "flex" : "hidden"} flex-wrap items-center gap-1.5 md:flex`}
-        >
-          <ToolButton
-            active={state.multiSelect}
-            onClick={() => dispatch({ type: "setMultiSelect", on: !state.multiSelect })}
-          >
-            Seleção múltipla
-          </ToolButton>
-          <ToolButton
-            active={state.panel === "path"}
-            onClick={() =>
-              dispatch({ type: "panel", panel: state.panel === "path" ? null : "path" })
-            }
-          >
-            Como A se conecta a B?
-          </ToolButton>
-          <ToolButton
-            active={legendOpen}
-            /* A legenda completa substitui a orientação: a compacta já está dentro dela. */
-            onClick={() => {
-              setLegendOpen((v) => !v);
-              setOrientacaoOculta(true);
-            }}
-            aria-expanded={legendOpen}
-          >
-            Legenda
-          </ToolButton>
-          <ToolButton onClick={() => setFitToken((t) => t + 1)} aria-label="Ajustar o grafo à tela">
-            Ajustar
-          </ToolButton>
-          <ToolButton
-            active={layoutRunning}
-            onClick={() => setLayoutToken((t) => t + 1)}
-            title="Recalcula as posições dos nós; o dado não muda."
-          >
-            {layoutRunning ? "Parar" : "Reorganizar"}
-          </ToolButton>
-          <ToolButton
-            onClick={() => setRestoreToken((t) => t + 1)}
-            aria-label="Restaurar o layout original"
-          >
-            Restaurar
-          </ToolButton>
-          {state.pinnedNodes.length > 0 && (
-            <ToolButton
-              onClick={() => dispatch({ type: "clearPinned" })}
-              aria-label="Desafixar todos os nós"
-            >
-              Desafixar todos ({state.pinnedNodes.length})
-            </ToolButton>
-          )}
-          <ToolButton
-            onClick={() =>
-              setCameraCommand((current) => ({
-                token: (current?.token ?? 0) + 1,
-                action: "rotate-left",
-              }))
-            }
-            aria-label="Girar o grafo para a esquerda"
-          >
-            ↺
-          </ToolButton>
-          <ToolButton
-            onClick={() =>
-              setCameraCommand((current) => ({
-                token: (current?.token ?? 0) + 1,
-                action: "rotate-right",
-              }))
-            }
-            aria-label="Girar o grafo para a direita"
-          >
-            ↻
-          </ToolButton>
-          <ToolButton
-            onClick={() =>
-              setCameraCommand((current) => ({
-                token: (current?.token ?? 0) + 1,
-                action: "reset-angle",
-              }))
-            }
-            aria-label="Remover a rotação do grafo"
-          >
-            0°
-          </ToolButton>
-          {(state.focus || state.isolate) && (
-            <ToolButton onClick={() => dispatch({ type: "escape" })} aria-label="Sair do foco">
-              Sair do foco
-            </ToolButton>
-          )}
-          {/*
-            No celular o canvas captura o toque e o rodapé é inalcançável: quem não consegue usar o
-            grafo ficava sem nenhuma saída visível para a alternativa em tabela.
-          */}
-          <Link
-            href="/rede"
-            className="border-border-strong text-fg-2 hover:text-fg hover:border-fg-3 inline-flex h-11 items-center rounded-md border px-3 text-xs transition-colors md:hidden"
-          >
-            Ver em tabela
-          </Link>
-          <Link
-            href="/rede"
-            className="text-fg-3 hover:text-fg ml-auto hidden text-xs underline-offset-2 hover:underline md:inline"
-          >
-            Ver a mesma rede em tabela
-          </Link>
-        </div>
-        {modeBanner && (
+        {mobile && chips.length > 0 && (
+          <div className="mobile-filter-chips pointer-events-auto" aria-label="Filtros aplicados">
+            {chips.map((chip) => (
+              <button
+                type="button"
+                key={chip.label}
+                aria-label={`Remover filtro: ${chip.label}`}
+                onClick={() => dispatch({ type: "filters", patch: chip.patch })}
+              >
+                {chip.label} <span aria-hidden="true">×</span>
+              </button>
+            ))}
+          </div>
+        )}
+        <div className="hidden md:block">{tools}</div>
+        {organizeMode && (
+          <p className="text-accent pointer-events-auto text-sm md:hidden">
+            Mover nós ativado{" "}
+            <button className="min-h-11 underline" onClick={() => setOrganizeMode(false)}>
+              Concluir
+            </button>
+          </p>
+        )}
+        {modeBanner && !mobile && (
           <div
             role="status"
             className="border-accent/60 bg-accent/15 text-fg pointer-events-auto self-start rounded-md border px-3 py-1.5 text-xs font-medium tracking-wide"
@@ -678,34 +883,21 @@ export function GraphExplorer() {
         )}
       </div>
 
-      {/* Legenda */}
-      {legendOpen && (
-        <div className="pointer-events-auto absolute bottom-24 left-3 z-10 w-80 max-w-[calc(100%-1.5rem)] md:bottom-28">
-          <PanelShell title="Legenda" onClose={() => setLegendOpen(false)}>
-            <div className="mt-2">
-              <Legend />
-            </div>
-          </PanelShell>
-        </div>
-      )}
-
-      {/*
-        Painel lateral (desktop) / folha inferior (móvel). No celular a folha cobria a máquina do
-        tempo, que fica logo abaixo: com um nó selecionado o controle temporal ficava inacessível.
-        Por isso ela para acima dela.
-      */}
-      {panel && (
-        <div className="pointer-events-none absolute inset-x-0 bottom-[104px] z-20 max-h-[52dvh] md:inset-x-auto md:top-14 md:right-3 md:bottom-28 md:max-h-none md:w-96">
-          <div className="pointer-events-auto flex h-full max-h-[52dvh] flex-col md:max-h-full">
-            {panel}
-          </div>
+      {activePanel && (
+        <div
+          className="graph-panel"
+          key={toolsOpen ? "tools" : legendOpen ? "legend" : (state.panel ?? "help")}
+        >
+          {activePanel}
         </div>
       )}
 
       {/* Time machine */}
-      <div className="pointer-events-none absolute inset-x-0 bottom-0 z-10 p-3">
+      <div className="graph-timeline pointer-events-none z-10 p-3">
         <div className="mx-auto max-w-3xl">
           <TimeMachine
+            expanded={timeOpen}
+            onExpandedChange={setTimeOpen}
             min={minDate}
             max={maxDate}
             marcos={marcosTemporais}

@@ -1,4 +1,5 @@
 "use client";
+import { MOBILE_QUERY } from "@/lib/graph/mobile";
 
 /**
  * Ciclo de vida do Sigma: cria na montagem, mata na desmontagem, redimensiona
@@ -42,7 +43,11 @@ export interface GraphCanvasProps {
   /** Incrementa para pedir "Ajustar à tela". */
   fitToken: number;
   restoreToken: number;
-  cameraCommand: { token: number; action: "rotate-left" | "rotate-right" | "reset-angle" } | null;
+  cameraCommand: {
+    token: number;
+    action: "rotate-left" | "rotate-right" | "reset-angle" | "zoom-in" | "zoom-out";
+  } | null;
+  organizeMode: boolean;
   reducedMotion: boolean;
   ariaLabel: string;
 }
@@ -77,6 +82,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
     restoreToken,
     cameraCommand,
     reducedMotion,
+    organizeMode,
     ariaLabel,
   } = props;
 
@@ -102,6 +108,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
     onLayoutRunning,
   });
   const reducedMotionRef = useRef(reducedMotion);
+  const organizeRef = useRef(organizeMode);
   const [webglError, setWebglError] = useState<string | null>(null);
   useEffect(() => {
     callbacks.current = {
@@ -113,6 +120,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
       onLayoutRunning,
     };
     reducedMotionRef.current = reducedMotion;
+    organizeRef.current = organizeMode;
   });
 
   /* Vizinhança memoizada por nó (calculada sob demanda a partir do índice). */
@@ -200,7 +208,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
       getComputedStyle(document.body).fontFamily || "IBM Plex Sans, system-ui, sans-serif";
     const large = graph.size > 2000;
     /* Em tela estreita o rótulo ocupa proporção muito maior: menos rótulos e menos moldura. */
-    const narrow = container.clientWidth < 640;
+    const narrow = window.matchMedia(MOBILE_QUERY).matches;
 
     const nodeReducer: Settings<SigmaNodeAttributes, SigmaEdgeAttributes>["nodeReducer"] = (
       node,
@@ -346,7 +354,13 @@ export function GraphCanvas(props: GraphCanvasProps) {
         labelSize: narrow ? 11 : 12,
         labelWeight: "500",
         labelColor: { color: paletteRef.current.fg2 },
-        labelRenderedSizeThreshold: narrow ? 7.5 : graph.order > 1000 ? 9 : graph.order > 300 ? 7 : 4,
+        labelRenderedSizeThreshold: narrow
+          ? 7.5
+          : graph.order > 1000
+            ? 9
+            : graph.order > 300
+              ? 7
+              : 4,
         labelDensity: narrow ? 0.03 : 0.045,
         labelGridCellSize: narrow ? 165 : 145,
         defaultDrawNodeLabel: drawLabel,
@@ -394,7 +408,10 @@ export function GraphCanvas(props: GraphCanvasProps) {
       if (Date.now() - lastDragAtRef.current < 180) return;
       callbacks.current.onSelectNode(node);
     });
-    sigma.on("downNode", ({ node, preventSigmaDefault }) => {
+    sigma.on("downNode", ({ node, event, preventSigmaDefault }) => {
+      const touch = "touches" in event.original;
+      if ((touch || window.matchMedia(MOBILE_QUERY).matches) && !organizeRef.current) return;
+      if (touch && (event.original as TouchEvent).touches.length !== 1) return;
       draggedNodeRef.current = node;
       dragMovedRef.current = false;
       layoutRef.current?.stop();
@@ -431,6 +448,14 @@ export function GraphCanvas(props: GraphCanvasProps) {
       draggedNodeRef.current = null;
     });
     sigma.getTouchCaptor().on("touchmove", (e) => {
+      if (e.touches.length !== 1) {
+        const node = draggedNodeRef.current;
+        if (node && !viewRef.current.pinnedNodes.has(node))
+          graph.setNodeAttribute(node, "fixed", false);
+        draggedNodeRef.current = null;
+        lastDragAtRef.current = Date.now();
+        return;
+      }
       if (!draggedNodeRef.current || !e.touches[0]) return;
       moveDraggedNode(e.touches[0].x, e.touches[0].y);
       e.preventSigmaDefault();
@@ -489,7 +514,8 @@ export function GraphCanvas(props: GraphCanvasProps) {
   useEffect(() => {
     const applied = appliedPinsRef.current;
     for (const id of applied) {
-      if (!view.pinnedNodes.has(id) && graph.hasNode(id)) graph.setNodeAttribute(id, "fixed", false);
+      if (!view.pinnedNodes.has(id) && graph.hasNode(id))
+        graph.setNodeAttribute(id, "fixed", false);
     }
     for (const id of view.pinnedNodes) {
       if (!applied.has(id) && graph.hasNode(id)) graph.setNodeAttribute(id, "fixed", true);
@@ -505,17 +531,23 @@ export function GraphCanvas(props: GraphCanvasProps) {
     if (!data) return;
     const camera = sigma.getCamera();
     const ratio = Math.min(camera.ratio, 0.5);
-    /*
-     * O painel cobre a direita no desktop e a base no celular: centralizar de verdade colocava o nó
-     * escolhido atrás dele. O alvo é deslocado pela metade da área ocupada, em coordenadas do grafo.
-     */
-    const largura = sigma.getContainer().clientWidth;
-    const altura = sigma.getContainer().clientHeight;
-    const estreito = largura < 768;
-    const deslocamentoX = estreito ? 0 : (384 / 2 / largura) * ratio;
-    const deslocamentoY = estreito ? (0.3 * altura) / altura / 2 : 0;
+    // Mobile reserva linhas reais para as barras e o cartão; não há oclusão do canvas.
+    sigma.resize();
+    const container = sigma.getContainer();
+    const bounds = container.getBoundingClientRect();
+    const workspace = container.closest("[data-testid='graph-explorer']");
+    const desktop = !window.matchMedia(MOBILE_QUERY).matches;
+    const panelBounds = desktop
+      ? workspace?.querySelector(".graph-panel")?.getBoundingClientRect()
+      : null;
+    const freeRight = panelBounds
+      ? Math.max(80, panelBounds.left - bounds.left - 12)
+      : bounds.width;
+    const target = { x: freeRight / 2, y: bounds.height / 2 };
+    const cameraState = { ...camera.getState(), x: data.x, y: data.y, ratio };
+    const point = sigma.viewportToFramedGraph(target, { cameraState });
     void camera.animate(
-      { x: data.x + deslocamentoX, y: data.y + deslocamentoY * ratio, ratio },
+      { x: data.x + data.x - point.x, y: data.y + data.y - point.y, ratio },
       { duration: reducedMotionRef.current ? 0 : 450 },
     );
   }, [cameraTarget, graph]);
@@ -523,9 +555,54 @@ export function GraphCanvas(props: GraphCanvasProps) {
   /* Ajustar à tela. */
   useEffect(() => {
     if (!fitToken) return;
-    void sigmaRef.current
-      ?.getCamera()
-      .animatedReset({ duration: reducedMotionRef.current ? 0 : 350 });
+    const sigma = sigmaRef.current;
+    if (!sigma) return;
+    sigma.resize();
+    const nodes = [...viewRef.current.visibleNodes]
+      .map((id) => sigma.getNodeDisplayData(id))
+      .filter((n): n is NodeDisplayData => !!n);
+    if (!nodes.length) return;
+    const camera = sigma.getCamera();
+    const baseState = { x: 0.5, y: 0.5, angle: 0, ratio: 1 };
+    const points = nodes.map((n) => sigma.framedGraphToViewport(n, { cameraState: baseState }));
+    const xs = points.map((p) => p.x),
+      ys = points.map((p) => p.y);
+    const rect = sigma.getContainer().getBoundingClientRect();
+    const workspace = sigma.getContainer().closest("[data-testid='graph-explorer']");
+    const desktop = !window.matchMedia(MOBILE_QUERY).matches;
+    const panel = desktop
+      ? workspace?.querySelector(".graph-panel")?.getBoundingClientRect()
+      : null;
+    const toolbar = desktop
+      ? workspace?.querySelector(".graph-toolbar")?.getBoundingClientRect()
+      : null;
+    const timeline = desktop
+      ? workspace?.querySelector(".graph-timeline")?.getBoundingClientRect()
+      : null;
+    const left = 24,
+      top = toolbar ? toolbar.bottom - rect.top + 16 : 24;
+    const right = panel ? panel.left - rect.left - 16 : rect.width - 24;
+    const bottom = timeline ? timeline.top - rect.top - 16 : rect.height - 64;
+    const ratio = Math.min(
+      4,
+      Math.max(
+        0.01,
+        (Math.max(...xs) - Math.min(...xs)) / Math.max(40, right - left),
+        (Math.max(...ys) - Math.min(...ys)) / Math.max(40, bottom - top),
+      ),
+    );
+    const center = sigma.viewportToFramedGraph(
+      { x: (Math.min(...xs) + Math.max(...xs)) / 2, y: (Math.min(...ys) + Math.max(...ys)) / 2 },
+      { cameraState: baseState },
+    );
+    const target = sigma.viewportToFramedGraph(
+      { x: (left + right) / 2, y: (top + bottom) / 2 },
+      { cameraState: { ...baseState, ...center, ratio } },
+    );
+    void camera.animate(
+      { x: 2 * center.x - target.x, y: 2 * center.y - target.y, ratio, angle: 0 },
+      { duration: reducedMotionRef.current ? 0 : 350 },
+    );
   }, [fitToken]);
 
   /* Restaurar posições editoriais pré-calculadas. */
@@ -548,6 +625,12 @@ export function GraphCanvas(props: GraphCanvasProps) {
     const sigma = sigmaRef.current;
     if (!sigma || !cameraCommand) return;
     const camera = sigma.getCamera();
+    if (cameraCommand.action === "zoom-in" || cameraCommand.action === "zoom-out") {
+      const options = { duration: reducedMotionRef.current ? 0 : 180 };
+      if (cameraCommand.action === "zoom-in") void camera.animatedZoom(options);
+      else void camera.animatedUnzoom(options);
+      return;
+    }
     const state = camera.getState();
     const angle =
       cameraCommand.action === "reset-angle"
@@ -631,7 +714,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
   return (
     <div
       role="application"
-      aria-label="Área do grafo. Arraste nós para reorganizar. Use as setas para mover, + e - para aproximar, colchetes para girar, 0 para remover a rotação, Escape para limpar e / para buscar."
+      aria-label="Área do grafo. No celular, um dedo move o mapa e um toque seleciona. Ative Mover nós em Ferramentas para reorganizar. Use as setas para mover, + e - para aproximar, colchetes para girar, 0 para remover a rotação, Escape para limpar e / para buscar."
       tabIndex={0}
       onKeyDown={onKeyDown}
       className="focus-visible:outline-accent absolute inset-0 outline-none focus-visible:outline-2 focus-visible:-outline-offset-2"
