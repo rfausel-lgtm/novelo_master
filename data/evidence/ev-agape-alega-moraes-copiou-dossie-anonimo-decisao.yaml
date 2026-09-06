@@ -1,0 +1,22 @@
+id: ev-agape-alega-moraes-copiou-dossie-anonimo-decisao
+kind: evidence
+classification: A
+proposition: David Ágape, na newsletter 'A Investigação', alega que a decisão de Alexandre de Moraes de
+  03/09/2026 contra André Mendonça transcreveu literalmente 50,3% (2.313 de 4.628 palavras) de um dossiê
+  anônimo de 50 páginas, omitindo ressalvas sobre ausência de valor probatório presentes no documento
+  original, e que metadados do PDF do dossiê sugerem autoria interna da própria PF — o próprio artigo
+  qualifica esse último ponto como indício, não prova. A CNN Brasil confirma, de forma independente, a
+  existência e o teor geral da decisão de Moraes contra Mendonça (mesma data), mas não corrobora nenhuma
+  das métricas específicas de Ágape. Tratado como alegação atribuída, não verificada de forma independente
+  pela equipe quanto ao conteúdo do próprio dossiê anônimo (documento não público, não lido pela equipe).
+document_ids: []
+source_ids:
+- src-ainvestigacao-2026-09-04-moraes-distorceu-dossie-apocrifo
+- src-cnnbrasil-2026-09-03-uribe-moraes-decisao-mendonca
+attributed_to: David Ágape, newsletter A Investigação
+date: '2026-09-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

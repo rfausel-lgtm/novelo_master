@@ -1,0 +1,28 @@
+id: rev-2026-09-06-lote-99-david-agape-novas-materias
+kind: revision
+date: '2026-09-06'
+title: 'Lote 99 — David Ágape voltou a publicar: o dossiê anônimo por trás da decisão de Moraes contra
+  Mendonça'
+summary: 'A pedido do editor, verificada a produção de David Ágape (newsletter ''A Investigação'') entre
+  03 e 05/09/2026: seis peças novas identificadas, todas sobre a crise Moraes-Mendonça. A mais relevante
+  — verificada por leitura direta do HTML bruto — alega que a decisão de Moraes de 03/09 contra Mendonça
+  copiou verbatim 50,3% de um dossiê anônimo, com metadados do PDF sugerindo autoria interna da PF (o
+  próprio artigo trata isso como indício, não prova). A CNN Brasil corrobora, de forma independente, a
+  existência e o teor geral da decisão, mas não as métricas específicas de Ágape. Criado registro de perfil
+  profissional do jornalista (formação, linha editorial, ação penal anterior arquivada pelo próprio Moraes)
+  para calibrar a confiança da fonte. Re-checada a nota anterior do corpus sobre um suposto erro numérico
+  (''52 vs 5 mensagens'') na matéria de 02/09 — leitura direta do texto publicado não confirma esse erro;
+  a origem da divergência anotada anteriormente fica como pendência a esclarecer. Não criados registros
+  para nomes de servidores da PF citados por Ágape como possíveis autores do dossiê anônimo — alegação
+  de fonte única, não verificada pela equipe contra documento primário, mantida apenas em prosa atribuída,
+  sem elevar os nomes a entidades do grafo.'
+affected_ids:
+- david-agape
+- alexandre-de-moraes
+- andre-mendonca
+reason: 'Pedido direto do editor: verificar novas matérias de David Ágape na ''A Investigação''.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
