@@ -91,6 +91,10 @@ open_questions:
   (distinto da manifestação de agosto/2026 já registrada).
 - Resultado do referendo pendente na 2ª Turma (vista de Gilmar Mendes) e do recurso da AGU não localizados
   até a data desta apuração.
+- A leitura integral da decisão de Mendonça (08/09/2026) confirma que o fundamento do afastamento foi
+  o monitoramento ilícito de Mendonça e do AGU pela PF — não as alegações de corrupção do Partido Novo
+  baseadas no depoimento de Vorcaro, que Mendonça reservou expressamente para apuração posterior, sem
+  se pronunciar sobre elas nesta decisão.
 source_ids:
 - src-cnnbrasil-2026-08-28-andrei-pf-autonoma
 - src-cnnbrasil-2026-09-08-mendonca-afastamento-preventivo-pf
@@ -122,7 +126,9 @@ source_ids:
 - src-poder360-2026-degustacao-macallan-londres
 - src-radiopampa-2026-09-investigadores-da-pf-rebatem
 - src-sbtnews-2026-09-08-mendonca-afasta-andrei
+- src-stf-2026-09-03-peticao-novo-prisao-preventiva-andrei-integra
 - src-stf-despacho-fachin-2026-09-03-pet-16704
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
 full_name: Andrei Augusto Passos Rodrigues
 review_status: published
 reviewer: orquestrador

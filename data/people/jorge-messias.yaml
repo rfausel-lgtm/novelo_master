@@ -1,0 +1,25 @@
+id: jorge-messias
+kind: person
+name: Jorge Messias
+category: public_official
+role: Advogado-Geral da União
+positions: []
+summary: Advogado-Geral da União (AGU). Segundo a decisão de André Mendonça na Pet 16.662 (lida integralmente
+  pela equipe), foi, junto com o próprio Mendonça, alvo do mesmo monitoramento ilícito por relatório de
+  inteligência apócrifo da PF — o documento questiona, com base em 'matriz religiosa comum' entre ele
+  e Mendonça, por que a AGU não recorreu de decisões nas investigações 'Sem Desconto' e 'Compliance Zero'
+  a pedido do diretor-geral da PF, chegando a especular sobre risco à eventual recondução dele ao STF.
+why_in_novelo: É, junto com o ministro Mendonça, um dos dois alvos nomeados do monitoramento ilícito da
+  PF que fundamentou o afastamento do diretor-geral da corporação — figura central para entender o verdadeiro
+  motivo da decisão de 08/09/2026.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

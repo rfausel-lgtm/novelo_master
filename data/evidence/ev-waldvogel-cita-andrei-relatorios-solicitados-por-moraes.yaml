@@ -1,0 +1,24 @@
+id: ev-waldvogel-cita-andrei-relatorios-solicitados-por-moraes
+kind: evidence
+classification: D
+proposition: 'A própria decisão de Mendonça transcreve fala da jornalista Monica Waldvogel (GloboNews,
+  03/09/2026): ''durante muito tempo a polícia federal vinha relatando, fazendo relatórios de inteligência
+  para seu próprio consumo [...] do que ela considerava ilegalidades no comportamento do Ministro André
+  Mendonça [...] esses relatórios foram produzidos nas casa de 5 ou 6 [...] e que esses relatórios foram
+  solicitados pelo Ministro Alexandre e são esses relatórios que embasam essa denúncia.'' A alegação de
+  que Moraes SOLICITOU os relatórios tem três camadas de atribuição: é o que Waldvogel diz ter apurado;
+  segundo ela, com base em conversa com Andrei Rodrigues; e chega ao corpus via citação textual feita
+  pelo próprio Mendonça em decisão oficial. Não há confirmação independente, documental ou por declaração
+  direta de Moraes ou Andrei, de que o pedido tenha de fato partido de Moraes.'
+document_ids:
+- doc-2026-09-08-decisao-mendonca-afasta-andrei-pet16662
+source_ids:
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
+excerpt: esses relatórios foram solicitados pelo Ministro Alexandre e são esses relatórios que embasam
+  essa denúncia
+date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

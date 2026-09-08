@@ -1,0 +1,28 @@
+id: src-stf-2026-09-03-peticao-novo-prisao-preventiva-andrei-integra
+kind: source
+title: Petição do Partido Novo de 03/09/2026 requerendo prisão preventiva de Andrei Rodrigues
+publisher: Partido Novo (autos da Pet 16.662, STF)
+publication_date: '2026-09-03'
+retrieved_at: '2026-09-06'
+url: http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp
+source_type: official_court
+summary: 'Segunda petição do Partido Novo (a primeira foi em 02/09/2026), assinada pelas advogadas Carolina
+  Barreto Siebra (OAB/DF 67.775) e Ana Carolina Sponza Braga (OAB/RJ 158.492), requerendo a decretação
+  de prisão preventiva de Andrei Augusto Passos Rodrigues, com base no depoimento reservado de Daniel
+  Vorcaro (com participação de membro da PGR) ao juiz instrutor do gabinete de Mendonça: Vorcaro alegou
+  ter recebido ameaças de ser ''jogado para fora'' de aeronaves durante transferência de custódia, atribuiu
+  a agentes da PF ameaças agindo ''em nome de'' Andrei Rodrigues sempre que sua colaboração premiada avançava,
+  e afirmou que Andrei seria uma das autoridades objeto de sua própria delação, por ter se beneficiado
+  de ''custeio de viagens e despesas em geral''. A petição enquadra a conduta nos arts. 2º §1º da Lei
+  12.850/2013 (embaraço a investigação envolvendo organização criminosa) e 317/321 do CP (corrupção passiva/advocacia
+  administrativa).'
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

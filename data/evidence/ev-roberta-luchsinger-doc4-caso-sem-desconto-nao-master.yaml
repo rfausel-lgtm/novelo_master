@@ -1,0 +1,25 @@
+id: ev-roberta-luchsinger-doc4-caso-sem-desconto-nao-master
+kind: evidence
+classification: D
+proposition: O 'DOC.4' do relatório de inteligência apócrifo citado na decisão de Mendonça menciona nominalmente
+  Roberta Moreira Luchsinger, avaliando se 'a imputação [...] e a medida cautelar requerida em seu desfavor
+  observam, de forma consistente, o critério de graduação que a própria representação enunciou' — no contexto
+  da Operação Sem Desconto (fraude em descontos do INSS), não do caso Banco Master. É checagem interna
+  da PF sobre consistência de critérios entre casos, não nova imputação contra ela. O corpus já havia
+  confirmado, por busca textual direta no relatório da PF sobre o celular de Vorcaro, zero ocorrências
+  do nome dela ou de termos associados à família presidencial ligados ao Master — esta menção, em documento
+  distinto e sobre matéria distinta, não altera aquela conclusão nem estabelece qualquer vínculo dela
+  com o Master.
+document_ids:
+- doc-2026-09-08-decisao-mendonca-afasta-andrei-pet16662
+source_ids:
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
+excerpt: Seu propósito é verificar se a imputação dirigida a ROBERTA MOREIRA LUCHSINGER [...] e a medida
+  cautelar requerida em seu desfavor observam, de forma consistente, o critério de graduação que a própria
+  representação enunciou.
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

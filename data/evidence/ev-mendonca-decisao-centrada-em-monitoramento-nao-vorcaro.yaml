@@ -1,0 +1,22 @@
+id: ev-mendonca-decisao-centrada-em-monitoramento-nao-vorcaro
+kind: evidence
+classification: D
+proposition: A decisão de Mendonça de 08/09/2026 NÃO se baseia nas alegações de corrupção/obstrução de
+  investigação feitas pelo Partido Novo a partir do depoimento reservado de Vorcaro (ameaças em aeronaves,
+  atuação de agentes 'em nome de' Andrei) — o próprio Mendonça registra, no §6, que 'existem outras questões'
+  sobre a conduta de Andrei, mas que a decisão 'se centrará' exclusivamente no fato de a PF ter produzido,
+  por mais de 30 dias, um relatório de inteligência apócrifo monitorando o próprio Mendonça e o Advogado-Geral
+  da União. A prisão preventiva pedida pelo Partido Novo NÃO foi concedida — apenas o afastamento cautelar
+  dos cargos.
+document_ids:
+- doc-2026-09-08-decisao-mendonca-afasta-andrei-pet16662
+source_ids:
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
+- src-stf-2026-09-03-peticao-novo-prisao-preventiva-andrei-integra
+excerpt: A par de existirem outras questões [...] essa decisão se centrará no exame deste fato específico.
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

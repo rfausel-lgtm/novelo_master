@@ -1,0 +1,31 @@
+id: roberta-moreira-luchsinger
+kind: person
+name: Roberta Moreira Luchsinger
+category: public_official
+role: Mencionada em representação policial da Operação Sem Desconto (fraude do INSS)
+positions: []
+summary: 'Nome mencionado — não no relatório da PF sobre o celular de Vorcaro (onde o corpus já confirmou,
+  por busca textual direta, zero ocorrências), mas em um documento distinto: o relatório de inteligência
+  apócrifo da PF citado na decisão de Mendonça de 08/09/2026 (Pet 16.662), no contexto da Operação SEM
+  DESCONTO (fraude em descontos do INSS) — matéria totalmente distinta do caso Banco Master. O ''DOC.4''
+  desse relatório avalia se ''a imputação dirigida a Roberta Moreira Luchsinger [...] e a medida cautelar
+  requerida em seu desfavor observam, de forma consistente, o critério de graduação que a própria representação
+  enunciou'' — ou seja, é uma checagem interna, feita pela própria PF, sobre se o padrão usado contra
+  ela foi aplicado de forma consistente frente a outros casos, não uma nova imputação. NÃO HÁ, no corpus,
+  qualquer vínculo entre ela e o Banco Master — o corpus já registrou e manteve como refutada a alegação
+  de que o filho do presidente Lula teria ligação com o Master; esta menção não altera essa conclusão.'
+why_in_novelo: Aparece nominalmente em documento primário da crise institucional STF-PF ligada ao caso
+  Master (a Pet 16.662), mas exclusivamente no contexto de outra investigação (Sem Desconto/INSS) — registro
+  incluído por precisão e transparência, com a distinção explicitamente marcada para evitar qualquer leitura
+  equivocada de vínculo com o Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

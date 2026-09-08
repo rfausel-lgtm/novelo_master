@@ -9,25 +9,30 @@ participant_ids:
 - andrei-rodrigues
 - leandro-almada-da-costa
 - policia-federal
-description: André Mendonça, na Pet 16.662, determinou o afastamento cautelar por 90 dias de Andrei Rodrigues
-  e Leandro Almada da Costa, sob alegação de monitoramento ilícito do próprio ministro pela PF. É a concessão,
-  cinco dias depois, de pedido que o partido Novo já havia protocolado em 03/09/2026 (prisão preventiva
-  e afastamento cautelar). William Marcel Murad assumiu interinamente. A decisão foi submetida a referendo
-  da 2ª Turma, com Nunes Marques e Fux acompanhando Mendonça e Gilmar Mendes pedindo vista — portanto
-  ainda não referendada de forma definitiva pelo colegiado. A AGU anunciou recurso, por entender que a
-  nomeação/exoneração do diretor-geral da PF é prerrogativa exclusiva do Presidente da República (Lei
-  9.266/1996), mas orientou cumprimento da decisão enquanto contesta.
-evidence_class: C
-status: disputed
+description: 'André Mendonça, na Pet 16.662, determinou o afastamento cautelar por 90 dias de Andrei Rodrigues
+  e Leandro Almada da Costa. LEITURA INTEGRAL DA DECISÃO PELA EQUIPE (33 páginas): o fundamento real,
+  contrário ao que a cobertura de imprensa sugeria, não são as alegações de corrupção do Partido Novo
+  (baseadas no depoimento de Vorcaro) — Mendonça as reserva expressamente para momento posterior. O fundamento
+  é a produção, pela PF, de um relatório de inteligência apócrifo monitorando o próprio Mendonça e o Advogado-Geral
+  da União por mais de 30 dias, que chegou a Alexandre de Moraes e embasou a acusação dele contra Mendonça.
+  William Marcel Murad assumiu interinamente. A decisão foi submetida a referendo da 2ª Turma, com Nunes
+  Marques e Fux acompanhando Mendonça e Gilmar Mendes pedindo vista. A AGU anunciou recurso, por entender
+  que a nomeação/exoneração do diretor-geral da PF é prerrogativa do Presidente da República, mas orientou
+  cumprimento enquanto contesta.'
+evidence_class: D
+status: verified
 evidence_ids:
-- ev-mendonca-afasta-andrei-cautelar-90dias
 - ev-2a-turma-referendo-pendente-vista-gilmar
 - ev-agu-recorrera-violacao-competencia
+- ev-mendonca-afasta-andrei-cautelar-90dias
+- ev-mendonca-decisao-centrada-em-monitoramento-nao-vorcaro
+- ev-relatorio-apocrifo-autodescrito-sem-valor-probatorio
 source_ids:
-- src-poder360-2026-09-08-mendonca-afasta-andrei
 - src-metropoles-2026-09-08-afastamento-90-dias
 - src-migalhas-2026-09-08-mendonca-afasta-andrei-pet16662
+- src-poder360-2026-09-08-mendonca-afasta-andrei
 - src-sbtnews-2026-09-08-mendonca-afasta-andrei
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
 document_ids:
 - doc-2026-09-08-decisao-mendonca-afasta-andrei-pet16662
 public_act_ids: []

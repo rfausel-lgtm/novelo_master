@@ -1,0 +1,23 @@
+id: aletea-vega-marona-kunde
+kind: person
+name: Aletea Vega Marona Kunde
+category: police
+role: Corregedora-Geral da Polícia Federal
+positions: []
+summary: Corregedora-Geral da Polícia Federal. Recebeu, por ofício do STF de 08/09/2026, a determinação
+  de André Mendonça para abertura de procedimento investigatório de natureza penal e administrativo-disciplinar
+  sobre a produção do relatório de inteligência apócrifo que monitorou o próprio ministro e o Advogado-Geral
+  da União.
+why_in_novelo: É a autoridade da PF encarregada de apurar internamente quem produziu e autorizou o relatório
+  de inteligência apócrifo que motivou o afastamento do diretor-geral da corporação.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
