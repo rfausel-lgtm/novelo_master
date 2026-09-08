@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-08T22:15:07.796Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-08T23:43:15.484Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -241,7 +241,10 @@ PESSOA|paula-vouguinha|Paula Vouguinha|Relações institucionais do Banco Master
 PESSOA|paulo-gonet|Paulo Gonet|Procurador-Geral da República|É mencionado em relatório da Polícia Federal sobre o celular de Daniel Vorcaro e chefia o órgão que se manifestou nas fases da Operação Compliance Zero.
 POSIÇÃO|paulo-gonet|no_response|Procurado sobre as mensagens do relatório da PF, não se manifestou até a publicação; o relator fixou prazo de cinco dias para a PGR.
 POSIÇÃO|paulo-gonet|version|Pediu o arquivamento das denúncias de ameaça feitas por Vorcaro e, segundo relatos, rejeitou nova tentativa de retomar a negociação da delação, por considerar que as provas dos celulares já equivalem ao que ela traria.
-PESSOA|paulo-henrique-costa|Paulo Henrique Costa|Ex-presidente do Banco de Brasília (BRB)|Presidiu o BRB no período em que o banco adquiriu carteiras de crédito do Banco Master e teve prisão preventiva decretada pelo STF em fase da Operação Compliance Zero.
+PESSOA|paulo-henrique-costa|Paulo Henrique Costa|Ex-presidente do Banco de Brasília (BRB); preso preventivamente desde 16/04/2026|É um dos apenas três nomes formalmente indiciados no inquérito-mãe da Compliance Zero, com decisão de prisão que documenta, por mensagens diretas com Daniel Vorcaro, o que a autoridade policial descreve como esquema de vantagem indevida via imóveis em troca da compra pelo BRB de carteiras de crédito fraudulentas do Ma…
+POSIÇÃO|paulo-henrique-costa|denial|Seu primeiro advogado, Cleber Lopes, classificou a prisão preventiva como 'absolutamente desnecessária', em entrevista a jornalistas no dia da prisão.
+POSIÇÃO|paulo-henrique-costa|clarification|Seu segundo advogado, Eugênio Aragão (ex-ministro da Justiça), ao deixar a defesa em meio à negociação de delação: 'só participa de iniciativas jurídicas pautadas por absoluta seriedade, confiança profissional e responsabilidade' — sem detalhar o motivo da sa…
+POSIÇÃO|paulo-henrique-costa|denial|Seu terceiro advogado, Davi Tangerino, pediu liberdade provisória classificando a posição da PGR sobre a delação recusada como 'leviana e assustadora', e afirmando que 'não há rigorosamente nada que se apure no inquérito' quanto ao período posterior ao afasta…
 PESSOA|paulo-sergio-neves-de-souza|Paulo Sérgio Neves de Souza|Diretor de Fiscalização do Banco Central (2019-2023)|Dirigiu a área de fiscalização do Banco Central no período de supervisão do banco e é alvo de medidas cautelares determinadas pelo STF na investigação.
 POSIÇÃO|paulo-sergio-neves-de-souza|denial|Negou vantagem indevida e afirmou que não simulou a venda de um sítio, dizendo que o negócio foi feito a valor de mercado.
 PESSOA|pedro-ivo-velloso|Pedro Ivo Rodrigues Velloso Cordeiro|Advogado criminalista; sócio-fundador da Figueiredo & Velloso Advogados|É o segundo sócio-fundador da banca no centro dessa sobreposição — mesma ressalva do sócio Ticiano Figueiredo, sem indício de conduta irregular pessoal.

@@ -1,0 +1,24 @@
+id: src-cnnbrasil-2026-06-23-defesa-phc-pede-soltura
+kind: source
+title: PF deixa ex-presidente do BRB em banho-maria e defesa pede soltura
+publisher: CNN Brasil
+publication_date: '2026-06-23'
+retrieved_at: '2026-09-06'
+url: https://www.cnnbrasil.com.br/politica/pf-deixa-ex-presidente-do-brb-em-banho-maria-e-defesa-pede-soltura/
+source_type: press
+summary: O novo advogado, Davi Tangerino, pediu ao STF liberdade provisória (subsidiariamente, prisão
+  domiciliar) para Paulo Henrique Costa, argumentando que ele não obstrui investigações e não é reinterrogado
+  desde novembro anterior; classificou a posição da PGR sobre a delação recusada como 'leviana e assustadora',
+  e afirmou que 'não há rigorosamente nada que se apure no inquérito' quanto ao período posterior ao afastamento
+  dele da presidência do BRB. Resultado desse pedido não localizado em busca posterior — status de custódia
+  após esta data permanece não confirmado.
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

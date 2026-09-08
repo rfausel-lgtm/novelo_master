@@ -107,7 +107,12 @@ open_questions:
   essa segunda razão em documento primário nem em segunda fonte.
 - A PF concluiu em agosto de 2026 o inquérito-mãe (1ª fase) e preparou indiciamento de Vorcaro, remetido
   ao MPF/PGR — até 05/09/2026, sem denúncia formal oferecida no núcleo do caso Master.
+- Em 02/09/2026, a PGR pediu ao STF o arquivamento de uma notícia/reclamação apresentada pelo PRÓPRIO
+  Vorcaro sobre supostas ameaças na prisão — não é uma denúncia contra ele, e não deve ser confundida
+  com a denúncia que o MPF/PGR poderá eventualmente oferecer no inquérito-mãe, ainda não apresentada até
+  a data desta apuração.
 source_ids:
+- src-ac24horas-2026-09-04-vorcaro-sinaliza-poupar-moraes-delacao
 - src-braziljournal-2021-12-23-master-outsider
 - src-cnn-2026-03-04-relembre-crise-master
 - src-cnnbrasil-2026-06-15-pgr-rejeita-segunda-delacao-vorcaro
@@ -131,6 +136,7 @@ source_ids:
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
 - src-poder360-2026-09-02-pgr-aceita-delacao-mansur
 - src-poder360-2026-09-03-novo-pede-prisao-de-andrei
+- src-portaltela-2026-09-02-pgr-arquivamento-denuncia-vorcaro-ameacas
 - src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
 - src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
 - src-stf-2026-03-04-prisao-preventiva-vorcaro
@@ -143,7 +149,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-05'
+updated_at: '2026-09-06'
 photo:
   path: /fotos/daniel-vorcaro.jpg
   source: Wikimedia Commons

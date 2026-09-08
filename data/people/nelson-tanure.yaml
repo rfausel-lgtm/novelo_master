@@ -49,6 +49,9 @@ open_questions:
 - No núcleo do caso Master (distinto do processo Gafisa/Upcon, onde já é réu), a PF concluiu em agosto
   de 2026 o inquérito-mãe e preparou seu indiciamento, remetido ao MPF/PGR — sem denúncia formal oferecida
   até 05/09/2026.
+- 'Checagem de 08/09/2026: não está preso (apenas alvo de busca e bloqueio de bens); sem denúncia do MPF/PGR
+  até esta data. Reportagem de 04/09/2026 indica que bancos fecharam linhas de crédito para ele após ''sequência
+  de reveses'' — mesma fonte confirma que eventual indiciamento ''não representa condenação''.'
 source_ids:
 - src-bcb-2026-09-03-liquidacao-trustee-banvox
 - src-cnnbrasil-2026-justica-sp-envia-stf-acao-tanure
@@ -73,7 +76,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-05'
+updated_at: '2026-09-06'
 photo:
   path: /fotos/nelson-tanure.png
   source: Wikimedia Commons

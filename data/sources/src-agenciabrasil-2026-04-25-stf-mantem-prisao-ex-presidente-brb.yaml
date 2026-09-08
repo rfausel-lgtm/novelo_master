@@ -1,0 +1,21 @@
+id: src-agenciabrasil-2026-04-25-stf-mantem-prisao-ex-presidente-brb
+kind: source
+title: Por unanimidade, STF mantém prisão de ex-presidente do BRB
+publisher: Agência Brasil
+publication_date: '2026-04-25'
+retrieved_at: '2026-09-06'
+url: https://agenciabrasil.ebc.com.br/justica/noticia/2026-04/por-unanimidade-stf-mantem-prisao-de-ex-presidente-do-brb
+source_type: press
+summary: A 2ª Turma do STF referendou por 4x0 (Mendonça, relator; Fux; Nunes Marques; Gilmar Mendes) a
+  prisão preventiva de Paulo Henrique Costa, decretada monocraticamente em 15-16/04/2026 (Pet 15.771);
+  Dias Toffoli se declarou impedido/suspeito e não votou.
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

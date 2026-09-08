@@ -3,25 +3,80 @@ kind: person
 name: Paulo Henrique Costa
 full_name: Paulo Henrique Bezerra Rodrigues Costa
 category: executive
-role: Ex-presidente do Banco de Brasília (BRB)
+role: Ex-presidente do Banco de Brasília (BRB); preso preventivamente desde 16/04/2026
 positions:
 - title: Presidente
   organization_id: banco-de-brasilia-brb
   source_ids:
   - src-stf-2026-04-16-prisao-ex-presidente-brb
-summary: Ex-presidente do BRB. Teve prisão preventiva decretada pelo STF em 16/04/2026 (PET 15771) em
-  fase da Compliance Zero relacionada à aquisição, pelo BRB, de carteiras de crédito do Banco Master.
-why_in_novelo: Presidiu o BRB no período em que o banco adquiriu carteiras de crédito do Banco Master
-  e teve prisão preventiva decretada pelo STF em fase da Operação Compliance Zero.
+summary: 'Ex-presidente do BRB (2019 a novembro de 2025), por indicação do governador do Distrito Federal
+  Ibaneis Rocha. Formado em Administração de Empresas pela Universidade Católica de Pernambuco, com pós-graduação
+  em Desenvolvimento Gerencial (EAESP/FGV) e Inovação Corporativa (Stanford), mestrado pela Universidade
+  de Birmingham e mestrado executivo pela Kellogg School of Management. Carreira anterior: HSBC (1999),
+  Caixa Econômica Federal (2001-2018/2019, até vice-presidente de Clientes, Negócios e Transformação Digital)
+  e CEO da Ebserh (2017-2018, governo Temer). Foi afastado da presidência do BRB pelo próprio Ibaneis
+  Rocha em novembro de 2025, já sob suspeita de descumprimento de governança na aquisição de carteiras
+  do Master, e preso preventivamente em 16/04/2026 (Pet 15.771, STF, relator André Mendonça), decisão
+  referendada por 4x0 pela 2ª Turma em 24/04/2026 (Toffoli impedido/suspeito, não votou). A decisão, lida
+  integralmente pela equipe, descreve atuação ''bifronte'': agente público que teria colocado o BRB a
+  serviço da liquidez do Master (que comprou cerca de R$ 12,2 bilhões em carteiras que se revelaram falsas,
+  mesmo após alerta interno de fevereiro/2025) e beneficiário de R$ 146,58 milhões em seis imóveis de
+  alto padrão, com pagamentos já rastreados superiores a R$ 74,6 milhões, tratados em mensagens de WhatsApp
+  com Vorcaro (extraídas do celular deste) como ''cronograma pessoal''. Foi transferido para custódia
+  mais branda (''Papudinha'') em maio de 2026 em meio a tratativas de delação, que a PGR recusou em junho
+  por ''reduzida utilidade''. É um dos apenas três indiciados no inquérito-mãe da Compliance Zero (agosto/2026,
+  junto de Vorcaro e Nelson Tanure); nenhuma denúncia do MPF/PGR foi oferecida até a data desta apuração.
+  O status de sua custódia entre julho e setembro de 2026 não foi confirmado por nenhuma fonte localizada,
+  após pedido de liberdade provisória de seu terceiro advogado em 23/06/2026 — lacuna documentada, não
+  resolvida.'
+why_in_novelo: É um dos apenas três nomes formalmente indiciados no inquérito-mãe da Compliance Zero,
+  com decisão de prisão que documenta, por mensagens diretas com Daniel Vorcaro, o que a autoridade policial
+  descreve como esquema de vantagem indevida via imóveis em troca da compra pelo BRB de carteiras de crédito
+  fraudulentas do Master — alegação sob apuração, sem denúncia ou condenação até a data desta atualização.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: Seu primeiro advogado, Cleber Lopes, classificou a prisão preventiva como 'absolutamente desnecessária',
+    em entrevista a jornalistas no dia da prisão.
+  source_ids:
+  - src-cnnbrasil-2026-04-16-quem-e-paulo-henrique-costa
+  by_id: paulo-henrique-costa
+  date: '2026-04-16'
+- kind: clarification
+  summary: 'Seu segundo advogado, Eugênio Aragão (ex-ministro da Justiça), ao deixar a defesa em meio
+    à negociação de delação: ''só participa de iniciativas jurídicas pautadas por absoluta seriedade,
+    confiança profissional e responsabilidade'' — sem detalhar o motivo da saída.'
+  source_ids:
+  - src-cartacapital-2026-05-19-eugenio-aragao-deixa-defesa-phc
+  by_id: paulo-henrique-costa
+  date: '2026-05-19'
+- kind: denial
+  summary: Seu terceiro advogado, Davi Tangerino, pediu liberdade provisória classificando a posição da
+    PGR sobre a delação recusada como 'leviana e assustadora', e afirmando que 'não há rigorosamente nada
+    que se apure no inquérito' quanto ao período posterior ao afastamento dele da presidência do BRB.
+  source_ids:
+  - src-cnnbrasil-2026-06-23-defesa-phc-pede-soltura
+  by_id: paulo-henrique-costa
+  date: '2026-06-23'
 open_questions:
-- A posição da defesa sobre a decisão de 16/04/2026 não foi localizada em fonte verificada no corpus.
+- O status de custódia entre julho e setembro de 2026 não foi confirmado por nenhuma fonte localizada
+  — não se sabe se o pedido de liberdade provisória de 23/06/2026 foi decidido, nem o resultado.
+- Nenhuma nota formal da defesa nega categoricamente os fatos centrais (recebimento dos imóveis, mensagens
+  com Vorcaro) — a defesa tem focado em contestar a necessidade da prisão e negociar delação, não em negar
+  a materialidade.
+- O teor exato do indiciamento formal de agosto de 2026 (se reproduziu os mesmos crimes da decisão de
+  prisão ou adicionou outros) não foi confirmado por fonte que cite o relatório final diretamente.
+- Não há denúncia do MPF/PGR contra ele até a data desta apuração (08/09/2026).
 source_ids:
+- src-agenciabrasil-2026-04-25-stf-mantem-prisao-ex-presidente-brb
+- src-agenciabrasil-2026-05-09-mendonca-autoriza-transferencia-papudinha
+- src-cartacapital-2026-05-19-eugenio-aragao-deixa-defesa-phc
+- src-cnnbrasil-2026-04-16-quem-e-paulo-henrique-costa
+- src-cnnbrasil-2026-06-23-defesa-phc-pede-soltura
+- src-metropoles-2026-08-05-andreza-matais-pf-conclui-inquerito-indiciamento
 - src-stf-2026-04-16-prisao-ex-presidente-brb
+- src-verificacao-direta-equipe-pet15771-decisao-integra
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'
