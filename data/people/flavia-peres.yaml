@@ -1,0 +1,25 @@
+id: flavia-peres
+kind: person
+name: Flávia Peres
+category: politician
+role: Ex-deputada federal (DF); ex-secretária de Governo do governo Bolsonaro
+positions: []
+summary: Ex-deputada federal pelo Distrito Federal e ex-titular da Secretaria de Governo no governo Jair
+  Bolsonaro, então usando o nome Flávia Arruda. Casou-se, em janeiro de 2024, na Ilha dos Frades (Salvador),
+  com Augusto Ferreira Lima — ex-CEO e ex-sócio do Banco Master, hoje em prisão domiciliar na Operação
+  Compliance Zero. É presidente do Instituto Terra Firme, associação privada sem fins lucrativos ligada
+  às estruturas empresariais do marido.
+why_in_novelo: É a atual esposa de Augusto Lima, figura política de projeção nacional (ex-deputada federal,
+  ex-ministra de fato como titular da Secretaria de Governo) — conexão relevante para mapear a rede de
+  relações do ex-sócio do Master, sem que isso implique qualquer imputação a ela própria.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-metropoles-flavia-peres-casamento-augusto-lima
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,25 @@
+id: luiz-bull
+kind: person
+name: Luiz Bull
+category: executive
+role: Ex-diretor de Compliance, Riscos, RH, Operações e Tecnologia do Banco Master
+positions: []
+summary: Ex-diretor de Compliance, Riscos, RH, Operações e Tecnologia do Banco Master. É citado, junto
+  com Augusto Lima, no documento apócrifo encontrado nos e-mails de Vorcaro (revelado pela Gazeta do Povo
+  em 11/03/2026), que o descreve como 'capataz' de Lima na gestão do banco. Sua defesa classificou o documento
+  como 'carta anônima' repleta de 'adjetivos, mentiras e acusações desvinculadas de qualquer prova', pedindo
+  cautela por se tratar de material de autoria não confirmada.
+why_in_novelo: É o segundo nome, além de Augusto Lima, citado no documento apócrifo sobre o controle de
+  fato do Master — sua reação é a única manifestação direta e nomeada localizada sobre esse documento
+  específico.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-gazetadopovo-2026-03-11-dossie-fraudes-master-alvos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

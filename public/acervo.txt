@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-08T18:27:04.785Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-08T18:43:52.130Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -60,8 +60,6 @@ PESSOA|armando-miguel-gallo-neto|Armando Miguel Gallo Neto|Integrante do grupo d
 PESSOA|ascendino-madureira-garcia|Ascendino Madureira Garcia|Operador financeiro; ex-funcionário da Foco DTVM e depois da Master Corretora|Trabalhou sucessivamente nas duas estruturas — a distribuidora investigada em Rondônia e a corretora do Banco Master —, sendo o elo pessoal mais concreto entre as duas frentes.
 POSIÇÃO|ascendino-madureira-garcia|denial|Afirma que a associação de seu nome à investigação é 'indevida e baseada em um grande equívoco'.
 PESSOA|augusto-lima|Augusto Lima|Ex-CEO e ex-sócio do Banco Master|Foi executivo e sócio do Banco Master, alvo da Operação Compliance Zero, e participou do encontro de dezembro de 2024 no Planalto, segundo a imprensa.
-POSIÇÃO|augusto-lima|denial|Em 18/06/2026, a defesa afirmou que Lima 'sempre atuou dentro dos limites da lei' e estava 'há seis meses à disposição das autoridades'.
-POSIÇÃO|augusto-lima|denial|Em 04/08/2026, a nova defesa negou categoricamente qualquer negociação de delação premiada.
 POSIÇÃO|augusto-lima|denial|Em 18/06/2026, a defesa afirmou que Lima 'sempre atuou dentro dos limites da lei' e estava 'há seis meses à disposição das autoridades'.
 POSIÇÃO|augusto-lima|denial|Em 04/08/2026, a nova defesa negou categoricamente qualquer negociação de delação premiada.
 PESSOA|belline-santana|Belline Santana|Chefe do Departamento de Supervisão Bancária do Banco Central (2019-2024)|Chefiou a supervisão bancária do Banco Central no período em que o banco cresceu e é alvo da investigação e de convocação parlamentar.
@@ -131,6 +129,7 @@ PESSOA|felipe-santa-cruz|Felipe Santa Cruz|Advogado; ex-presidente nacional da O
 PESSOA|felipe-wallace-simonsen|Felipe Wallace Simonsen|Integrante do grupo de controle apresentado ao Banco Central em 2019|Integrou o grupo de controle apresentado ao Banco Central no pedido que resultou na autorização de 2019.
 PESSOA|fernanda-nechio|Fernanda Nechio|Diretora de Assuntos Internacionais e de Gestão de Riscos Corporativos do Banco Central (2019-)|Uma das oito diretoras do Banco Central que aprovaram, por unanimidade, a venda do Máxima a Daniel Vorcaro.
 PESSOA|fernanda-pereira-da-silva-machado|Fernanda Pereira da Silva Machado|Advogada; ex-gerente de controle interno do Rioprevidência e ex-presidente do Itaprevi|É o vetor humano documentado entre dois regimes próprios: assinou o credenciamento do banco em um fundo e passou a dirigir outro, onde as aplicações começaram no mês de sua posse.
+PESSOA|flavia-peres|Flávia Peres|Ex-deputada federal (DF); ex-secretária de Governo do governo Bolsonaro|É a atual esposa de Augusto Lima, figura política de projeção nacional (ex-deputada federal, ex-ministra de fato como titular da Secretaria de Governo) — conexão relevante para mapear a rede de relações do ex-sócio do Master, sem que isso implique qualquer imputação a ela própria.
 PESSOA|flavio-bolsonaro|Flávio Bolsonaro|Senador (PL-RJ); candidato à Presidência da República em 2026|Aparece em mensagens e áudios, divulgados pela imprensa, tratando com Daniel Vorcaro do financiamento do filme 'Dark Horse'; sua posição pública está registrada.
 POSIÇÃO|flavio-bolsonaro|version|Afirmou que se tratava de 'um filho procurando investidores privados para fazer um filme privado sobre a história do seu próprio pai', sem dinheiro público, e que conheceu Vorcaro em dezembro de 2024, quando 'não havia absolutamente nenhuma acusação contra el…
 POSIÇÃO|flavio-bolsonaro|clarification|À GloboNews, admitiu ter negado a relação ('Eu menti'), alegando cláusula de confidencialidade com investidores, sem apresentar o contrato; prometeu prestação de contas em 30 dias.
@@ -199,6 +198,7 @@ PESSOA|leandro-almada-da-costa|Leandro Almada da Costa|Diretor de Inteligência 
 PESSOA|leo-serrano|Léo Serrano|Empresário à frente da SL Consulting, serviço de concierge|Nomeado por Vorcaro, em depoimento à PF, como representante da empresa que organizou a viagem oferecida a ex-diretor do Banco Central.
 PESSOA|luiz-antonio-bull|Luiz Antônio Bull|Ex-diretor de Risco, Compliance e Operações do Banco Master|Foi diretor do Banco Master e alvo da Operação Compliance Zero.
 PESSOA|luiz-antonio-lombardi|Luiz Antônio Lombardi|Representante da Epítome S.A. na compra formal do imóvel, segundo a decisão da 9ª fase|É nomeado em decisão pública do STF como representante da empresa que teria feito a compra formal do imóvel examinado na 9ª fase.
+PESSOA|luiz-bull|Luiz Bull|Ex-diretor de Compliance, Riscos, RH, Operações e Tecnologia do Banco Master|É o segundo nome, além de Augusto Lima, citado no documento apócrifo sobre o controle de fato do Master — sua reação é a única manifestação direta e nomeada localizada sobre esse documento específico.
 PESSOA|luiz-fux|Luiz Fux|Ministro do Supremo Tribunal Federal|Votou, na Segunda Turma do STF, no referendo da prisão preventiva de investigados do caso Master, conforme comunicação oficial do tribunal.
 PESSOA|luiz-inacio-lula-da-silva|Lula|Presidente da República|Recebeu Daniel Vorcaro em reunião fora da agenda no Palácio do Planalto em dezembro de 2024, fato confirmado pelo próprio presidente.
 POSIÇÃO|luiz-inacio-lula-da-silva|version|Em entrevista ao UOL, conforme a Gazeta do Povo e a Brasil Paralelo, Lula confirmou o encontro e disse que Vorcaro relatou perseguição; afirmou ter respondido que haveria apenas investigação técnica do Banco Central, sem posição política; em evento em Maceió …
@@ -280,6 +280,7 @@ PESSOA|william-marcel-murad|William Marcel Murad|Diretor-executivo da PF; assumi
 ## ORGANIZAÇÕES
 
 ORG|a-m-consultoria|A&M Consultoria|company|É o veículo pelo qual ACM Neto recebeu pagamentos do Banco Master — uma empresa de consultoria, não um escritório de advocacia, distinguindo essa categoria de pagamento das demais na rede de prestadores do banco.
+ORG|ac3-cobrancas-e-participacoes|AC3 Cobranças e Participações|company|É a holding através da qual se identificam, pela primeira vez no corpus, os quatro filhos de Augusto Lima, e o veículo do ato de doação com usufruto retido apontado como blindagem patrimonial.
 ORG|alagoas-previdencia|Alagoas Previdência|public_body|Único ente que publicou em acesso aberto o termo de credenciamento do Banco Master, permitindo verificar o documento que a auditoria federal descreve como escrito pelo próprio banco.
 ORG|amapa-previdencia|Amapá Previdência|public_body|Fundo previdenciário público que investiu R$ 400 milhões no Banco Master, o segundo maior aporte de entes públicos segundo a CNN, com aprovação sob investigação.
 POSIÇÃO|amapa-previdencia|public_note|Afirmou sentir-se 'lesada pelos malfeitos do banco Master', que 'não abre mão de ser ressarcida', que os recursos dos segurados estão protegidos e que se habilitou junto ao BC na liquidação.
@@ -407,6 +408,7 @@ ORG|talk-communications|Talk Communications|company|Empresa apontada, em reporta
 ORG|tce-maranhao|Tribunal de Contas do Estado do Maranhão (TCE-MA)|court|É objeto de um precedente citado na decisão central da crise Moraes-Mendonça-PF, mas trata de caso totalmente distinto (Maranhão, Caso Tech Office) — registrado para fechar a pista com transparência, sem forçar conexão onde a apuração não a encontrou.
 ORG|temer-advogados-associados|Temer Advogados Associados|law_firm|É o escritório do próprio ex-presidente Michel Temer, administrador de fato, contratado pelo Banco Master — fato que ele mesmo confirmou publicamente.
 POSIÇÃO|temer-advogados-associados|clarification|Confirmou ter conhecido Daniel Vorcaro pessoalmente e que seu escritório foi contratado para tentar uma 'liquidação privada' do banco, sem sucesso; disse que prestou 'serviços de mediação' e que recebeu dois pagamentos, de R$ 5 milhões e R$ 2,5 milhões — R$ 7…
+ORG|terra-firme-realty|Terra Firme Realty|company|É uma das holdings pessoais de Augusto Lima, usada para repassar ativos imobiliários de luxo em meio à crise do Master — possivelmente parte do mesmo grupo empresarial já citado no corpus por outro vínculo documental (Asteba/Asseba).
 ORG|tether-investments|Tether Investments|financial_institution|É a primeira credora internacional ligada a stablecoin identificada no caso Master — e a primeira vez que o corpus registra recebíveis de consignado brasileiro dados em garantia a credor externo do setor cripto.
 POSIÇÃO|tether-investments|clarification|Os recursos emprestados vieram da Tether Investments, distinta das reservas que lastreiam o USDT, e a inadimplência não compromete a estabilidade ou liquidez das criptomoedas da empresa.
 ORG|tirreno|Tirreno|company|É a peça central do mecanismo por trás dos R$ 12,2 bilhões que o BRB pagou ao Master — não uma carteira de crédito real, mas contratos fabricados vendidos por uma empresa de fachada.

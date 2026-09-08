@@ -1,0 +1,27 @@
+id: src-gazetadopovo-2026-03-11-dossie-fraudes-master-alvos
+kind: source
+title: Dossiê encontrado com Vorcaro atribui fraudes no Master a ex-sócios e diretores
+publisher: Gazeta do Povo (Renan Ramalho)
+publication_date: '2026-03-11'
+retrieved_at: '2026-09-06'
+url: https://www.gazetadopovo.com.br/republica/dossie-encontrado-com-vorcaro-atribui-fraudes-no-master-a-ex-socios-e-diretores/
+source_type: press
+summary: 'Origem do documento apócrifo ''dono e presidente de fato'': uma foto, datada de 2022, de uma
+  folha impressa sem assinatura sobre um envelope selado, encontrada pela PF nos arquivos de e-mail de
+  Daniel Vorcaro — não a peça original, mas um registro fotográfico dela. Trecho literal: ''O Ditador
+  nojento Augusto Lima, dono e presidente de fato (que nem aparece como diretor eleito) dita regra e governa
+  com um regime de terror nos funcionários junto com seu capataz Luiz Bull'', descrevendo Vorcaro como
+  ''laranja'' e ''só um vaidoso que não manda muita coisa''. Na data da publicação, as defesas de Vorcaro
+  e de Augusto Lima não se manifestaram; a defesa de Luiz Bull (ex-diretor de Compliance, Riscos, RH,
+  Operações e Tecnologia do Master, também citado no dossiê) classificou o documento como ''carta anônima''
+  repleta de ''adjetivos, mentiras e acusações desvinculadas de qualquer prova''.'
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
