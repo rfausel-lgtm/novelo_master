@@ -21,17 +21,20 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- A alegação (Jornal Grande Bahia) de que o Instituto Terra Firme administraria a Asseba não foi reconciliada
-  com o registro já existente no corpus sobre a governança estatutária da Asseba (Maria Helena Santos
-  Ferreira como dirigente, Augusto Lima como procurador) — pode refletir uma camada de gestão de fato
-  não estatutária, ou imprecisão de uma das fontes; não verificado.
+- O repasse de R$ 457,2 mil do Master é, segundo a mesma reportagem, negado formalmente por Flávia Peres;
+  não há decisão de mérito nem documento primário da Receita Federal lido diretamente pela equipe.
+- 'Reforçada, não resolvida: o Mapa das OSC/IPEA confirma Maria Helena Santos Ferreira como presidente
+  estatutária da Asseba desde 2008, o que aumenta a dúvida sobre a alegação de fonte única do Jornal Grande
+  Bahia de que o Instituto Terra Firme ''geriria'' a Asseba — pode refletir gestão de fato não estatutária,
+  ou imprecisão da fonte; segue não verificado.'
 - O repasse de R$ 457,2 mil do Master é, segundo a mesma reportagem, negado formalmente por Flávia Peres;
   não há decisão de mérito nem documento primário da Receita Federal lido diretamente pela equipe.
 source_ids:
-- src-minhareceita-2026-09-instituto-terra-firme-cnpj
-- src-metropoles-2026-04-09-master-repassou-ong-flavia-peres-receita
-- src-terrabrasilnoticias-2026-06-18-instituto-flavia-peres-buscas-pf
 - src-folhadealagoas-2026-06-18-instituto-terra-firme-busca-pf
+- src-mapaosc-ipea-2026-asseba-presidente-maria-helena
+- src-metropoles-2026-04-09-master-repassou-ong-flavia-peres-receita
+- src-minhareceita-2026-09-instituto-terra-firme-cnpj
+- src-terrabrasilnoticias-2026-06-18-instituto-flavia-peres-buscas-pf
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'

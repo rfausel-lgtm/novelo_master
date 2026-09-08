@@ -1,0 +1,20 @@
+id: ev-parecer-pgr-opoe-busca-gabinete-apreensao-bens
+kind: evidence
+classification: D
+proposition: 'O parecer da PGR de 16/06/2026 (ASSCRIM nº 940922/2026), assinado por Paulo Gonet, anui
+  à operação de busca e apreensão da 9ª fase da Compliance Zero, mas se opõe especificamente a dois pontos:
+  a busca no gabinete parlamentar de Jaques Wagner, por violação à separação de poderes, e a apreensão
+  de bens de alto valor/dinheiro/joias, por desproporcionalidade e prematuridade. Mendonça não acolheu
+  integralmente essa posição na decisão que autorizou a diligência.'
+document_ids:
+- doc-2026-06-16-parecer-pgr-940922-9a-fase
+source_ids:
+- src-verificacao-direta-equipe-parecer-pgr-940922-2026
+excerpt: A incursão súbita no ambiente legislativo federal importa severa ingerência de um Poder na sede
+  de outro, tensionando o equilíbrio harmônico que deve reger as relações institucionais.
+date: '2026-06-16'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

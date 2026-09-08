@@ -1,0 +1,24 @@
+id: gardenia-fip-multiestrategia
+kind: organization
+name: Gardênia FIP Multiestratégia
+aliases: []
+org_type: fund
+summary: Fundo de investimento em participações (CNPJ 30.332.643/0001-01), administrado pela CBSF Trust
+  Administradora de Recursos e gerido pela WNT Gestora de Recursos, com 7 cotistas e patrimônio líquido
+  de R$ 95,3 milhões (dado de 2026). Segundo reportagem do UOL, controla cerca de metade do Diamond FIP–Multiestratégia
+  (que detém a PKL One Participações) e tem entre seus cotistas o fundo MMPG, apontado como pertencente
+  a Ângelo Rezende.
+why_in_novelo: É um dos dois fundos controladores do Diamond FIP, na cadeia societária que o UOL liga
+  a Ângelo Rezende e à PKL One Participações.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-tiacandia-2026-08-05-angelo-rezende-socio-indireto-pkl-one
+- src-maisretorno-2026-09-gardenia-fip-multiestrategia-cadastro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

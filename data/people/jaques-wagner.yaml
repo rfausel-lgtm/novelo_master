@@ -74,8 +74,6 @@ open_questions:
 - O relatório da PF de 30/07/2026 (PDF de 33 MB) não foi lido pela equipe; o corpus registra a síntese
   do Poder360.
 - O corpus não contém denúncia ou decisão de mérito sobre o senador.
-- A PGR se opôs à PF quanto às medidas da 9ª fase, em parecer de 16/06/2026 contrário à apreensão de bens
-  e à busca no gabinete parlamentar. O parecer não foi lido pela equipe nem seu signatário identificado.
 - 'Resolvida a divergência sobre a empresa da família: BN Financeira e BK Financeira são a mesma pessoa
   jurídica — razão social e nome fantasia do CNPJ 42.645.396/0001-74. Empresa distinta, da mesma sócia,
   é a BN Representações Tecnológicas, antiga Vamos Florir Comércio de Flores. Os valores também se reconciliam:
@@ -96,6 +94,15 @@ open_questions:
   com o quadro societário já conhecido da BN Financeira.
 - O advogado Ângelo Rezende, que o representa, é apontado por reportagem do UOL (replicada) como sócio
   indireto da PKL One Participações — não verificado por consulta direta a registro societário público.
+- 'Confirmado, por leitura direta: o parecer da PGR de 16/06/2026 (ASSCRIM nº 940922/2026) foi assinado
+  por Paulo Gonet, e se opôs especificamente à busca no gabinete parlamentar (separação de poderes) e
+  à apreensão de bens de luxo (desproporcionalidade) — não à operação como um todo. Mendonça não acolheu
+  integralmente essa posição.'
+- 'Confirmado, por leitura direta da decisão de Mendonça na Pet 16.229 (item I.3, §34): o enteado citado
+  pela PF é Eduardo Mendonça Sodré Martins, e a mensagem ''amanhã vence os boletos e são altos'' é dele,
+  de 04/09/2025, dirigida a Augusto Lima — a decisão não formula um valor ''total'' somando a transferência
+  de R$ 3,5 milhões com os R$ 2,34 milhões atribuídos a ele; qualquer soma consolidada citada pela imprensa
+  é inferência jornalística, não afirmação do documento.'
 source_ids:
 - src-acordacidade-2026-08-28-lula-defende-wagner
 - src-agenciabrasil-2026-06-18-wagner-nega-vantagens
@@ -129,6 +136,9 @@ source_ids:
 - src-senado-2026-06-25-wagner-deixa-lideranca
 - src-stf-pet-16229-decisao-9a-fase-pdf
 - src-stfnoticias-2026-06-18-9afase-autoriza-sp-ba-df
+- src-verificacao-direta-equipe-parecer-pgr-940922-2026
+- src-verificacao-direta-equipe-pet16229-decisao-integra
+- src-verificacao-direta-equipe-pet16662-boletos-nao-consta
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Jaques_Wagner
 review_status: published

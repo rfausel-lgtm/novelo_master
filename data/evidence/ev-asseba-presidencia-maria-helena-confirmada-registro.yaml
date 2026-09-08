@@ -1,0 +1,18 @@
+id: ev-asseba-presidencia-maria-helena-confirmada-registro
+kind: evidence
+classification: C
+proposition: O Cadastro Nacional de Organizações da Sociedade Civil (Mapa das OSC/IPEA) confirma Maria
+  Helena Santos Ferreira como presidente da Asseba, com entrada em 13/03/2008 — consistente com a versão
+  já atribuída à Polícia Federal no corpus, de que ela é a dirigente estatutária e Augusto Lima atua apenas
+  como procurador. Isso reforça, sem resolver, a contradição com a alegação de fonte única do Jornal Grande
+  Bahia de que o Instituto Terra Firme 'geriria' a Asseba.
+document_ids: []
+source_ids:
+- src-mapaosc-ipea-2026-asseba-presidente-maria-helena
+- src-jornalgrandebahia-2026-04-12-asseba-140-milhoes-integra
+date: '2026-04-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

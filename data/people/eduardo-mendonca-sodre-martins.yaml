@@ -2,39 +2,36 @@ id: eduardo-mendonca-sodre-martins
 kind: person
 name: Eduardo Mendonça Sodré Martins
 category: businessperson
-role: Enteado do senador Jaques Wagner, conforme identificação por reportagens (O Antagonista/DCM, Jornal
-  Sete, coluna da Metrópoles)
+role: Enteado do senador Jaques Wagner, identificado por decisão do STF (Pet 16.229)
 positions: []
-summary: Identificado pela imprensa, sob a alcunha 'Dudu', como o 'enteado pessoa física' do senador Jaques
-  Wagner a quem a PF atribui, segundo decisão do STF já lida diretamente pela equipe (Pet 16.229), o recebimento
-  de R$ 2,34 milhões — valor que o corpus já registrava como classe D antes desta identificação nominal,
-  sem nome do beneficiário. A identificação de que esse beneficiário é Eduardo Mendonça Sodré Martins
-  vem de fonte secundária (a matéria original do Diário do Centro do Mundo não pôde ser lida diretamente
-  — bloqueio de acesso automatizado — apenas replicações equivalentes), o que a mantém como classe A até
-  confirmação por leitura do documento primário ou por fonte independente adicional. As mesmas reportagens
-  atribuem a ele, em mensagem de 04/09/2025 a Augusto Ferreira Lima, a frase 'Amanhã vence os boletos
-  e são altos' — citação que as fontes atribuem a decisão judicial reproduzindo apuração da PF, mas que
-  a equipe não confirmou por leitura direta do documento primário.
-why_in_novelo: É a pessoa física identificada pela imprensa, com base em decisão judicial que cita apuração
-  da PF, como destinatário de parte dos recursos que saíram da PKL One Participações (núcleo Augusto Lima)
-  rumo ao núcleo familiar do senador Jaques Wagner — preenchendo, com ressalva de fonte secundária, uma
-  lacuna nominal que o corpus já registrava como fato de classe D sem nome.
+summary: 'CONFIRMADO POR LEITURA DIRETA (lote 117): a decisão de Mendonça na Pet 16.229 (17/06/2026, autenticação
+  STF verificada) identifica, no item I.3, Eduardo Mendonça Sodré Martins como enteado de Jaques Wagner,
+  filho de Guilherme Henrique Sodré Martins, pessoa vinculada à BN Financeira Ltda. A mesma decisão transcreve
+  a mensagem de 04/09/2025, de Eduardo a Augusto Ferreira Lima: ''Amanhã vence os boletos e são altos''
+  — ao que Augusto respondeu que o cenário estava ''crítico'', vinculando a dificuldade financeira ao
+  insucesso da operação Banco Master/BRB e sugerindo cancelar a nota para reemissão. O documento cita,
+  separadamente, a transferência de R$ 3,5 milhões (PKL One→BN Financeira, 17/10/2025) e mais de R$ 2,34
+  milhões em planilhas de pagamentos a ele sob a alcunha ''Dudu'', via estruturas societárias interpostas
+  — sem somar os dois valores em um total. A relação exata entre ele e o quadro societário formal da BN
+  Financeira (cuja sócia-administradora é Bonnie Toaldo Bonilha, nora do senador, e cujo sócio é o advogado
+  Moisés Dantas dos Santos) permanece não reconciliada: o documento judicial o identifica como beneficiário
+  e interlocutor das mensagens, mas não como sócio formal.'
+why_in_novelo: É a pessoa física identificada, por leitura direta da decisão do STF na Pet 16.229, como
+  destinatário de recursos e interlocutor de mensagens que saíram do núcleo Augusto Lima (PKL One) rumo
+  ao núcleo familiar do senador Jaques Wagner.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- A identificação nominal ('Eduardo Mendonça Sodré Martins') não foi confirmada por leitura direta do
-  documento judicial primário nem por consulta a registro público (CNPJ/QSA da BN Financeira) que o vincule
-  por nome — o corpus já sabe, por fonte primária, que a BN Financeira tem como sócia Bonnie Toaldo Bonilha
-  (nora do senador) e Moisés Dantas dos Santos (advogado sócio), não este nome; a relação exata entre
-  'enteado pessoa física' e o quadro societário da BN Financeira não foi reconciliada pela equipe.
-- A citação literal 'Amanhã vence os boletos e são altos' não foi verificada por leitura direta da decisão
-  judicial que a reproduziria — apenas por reportagens que a atribuem a essa origem.
+- A relação exata entre ele (identificado pela decisão judicial como beneficiário/interlocutor) e o quadro
+  societário formal da BN Financeira (Bonnie Toaldo Bonilha, sócia-administradora; Moisés Dantas dos Santos,
+  sócio advogado) não foi reconciliada pela equipe.
 - Nenhuma manifestação pública dele ou de representante localizada até a data desta apuração.
 source_ids:
-- src-oantagonista-2026-06-18-enteado-wagner-boletos
 - src-jornalsete-2026-pf-repasse-empresa-enteado-wagner
 - src-metropoles-2026-mirelle-pf-boletos-enteado-wagner
+- src-oantagonista-2026-06-18-enteado-wagner-boletos
+- src-verificacao-direta-equipe-pet16229-decisao-integra
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'

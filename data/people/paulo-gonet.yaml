@@ -51,6 +51,9 @@ open_questions:
 - Manifestou-se publicamente em 02/09/2026, antes do despacho formal de Fachin (03-04/09), pedindo a nulidade
   do procedimento aberto por Moraes contra Mendonça — não está claro se essa manifestação satisfaz o parecer
   de admissibilidade formalmente exigido depois.
+- Assinou, em 16/06/2026, o parecer ASSCRIM/PGR nº 940922/2026 sobre a 9ª fase da Compliance Zero — anuindo
+  à operação, mas opondo-se à busca no gabinete parlamentar de Jaques Wagner (separação de poderes) e
+  à apreensão de bens de luxo (desproporcionalidade); Mendonça não acolheu integralmente essa posição.
 source_ids:
 - src-apublica-2026-09-crise-stf-mensagens-moraes-vorcaro-como-chegamos
 - src-baixadanaweb-2026-09-06-delegados-pedem-impedimento-gonet
@@ -66,6 +69,7 @@ source_ids:
 - src-poder360-2026-09-01-pgr-bancar-ida-do-filho
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
+- src-verificacao-direta-equipe-parecer-pgr-940922-2026
 full_name: Paulo Gustavo Gonet Branco
 review_status: published
 reviewer: orquestrador

@@ -1,21 +1,19 @@
 id: ev-eduardo-mendonca-identificado-enteado-pf-234mi
 kind: evidence
-classification: A
-proposition: 'Reportagens (O Antagonista/DCM, Jornal Sete, coluna da Metrópoles) identificam Eduardo Mendonça
-  Sodré Martins, sob a alcunha ''Dudu'', como o ''enteado pessoa física'' do senador Jaques Wagner a quem
-  a PF atribui o recebimento de R$ 2,34 milhões — valor que já constava no corpus como fato classe D (decisão
-  do STF/Pet 16.229, lida diretamente), mas sem nome do beneficiário. A identificação nominal em si é
-  secundária: a matéria original do DCM não pôde ser lida diretamente (bloqueio de acesso automatizado),
-  e a relação entre esse nome e o quadro societário já conhecido da BN Financeira (Bonnie Toaldo Bonilha,
-  Moisés Dantas dos Santos) não foi reconciliada.'
-document_ids: []
+classification: D
+proposition: 'CONFIRMADO POR LEITURA DIRETA: a decisão de Mendonça na Pet 16.229 (17/06/2026), lida integralmente
+  pela equipe, identifica no item I.3 Eduardo Mendonça Sodré Martins como enteado de Jaques Wagner e transcreve,
+  no §34, a mensagem de 04/09/2025 a Augusto Ferreira Lima: ''Amanhã vence os boletos e são altos'', com
+  a resposta de Augusto sobre o cenário ''crítico''. O documento cita separadamente R$ 3,5 milhões (transferência
+  PKL One→BN Financeira) e mais de R$ 2,34 milhões (pagamentos a ''Dudu''), sem somá-los.'
+document_ids:
+- doc-2026-06-17-decisao-pet-16229-9a-fase
 source_ids:
-- src-oantagonista-2026-06-18-enteado-wagner-boletos
 - src-jornalsete-2026-pf-repasse-empresa-enteado-wagner
 - src-metropoles-2026-mirelle-pf-boletos-enteado-wagner
+- src-oantagonista-2026-06-18-enteado-wagner-boletos
+- src-verificacao-direta-equipe-pet16229-decisao-integra
 excerpt: Amanhã vence os boletos e são altos
-attributed_to: O Antagonista (reproduzindo DCM), Jornal Sete, Metrópoles/Mirelle Pinheiro — convergentes
-  na identificação, nenhuma com leitura primária confirmada pela equipe
 date: '2026-06-18'
 review_status: published
 reviewer: orquestrador

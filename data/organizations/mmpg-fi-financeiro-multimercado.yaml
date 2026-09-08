@@ -1,0 +1,24 @@
+id: mmpg-fi-financeiro-multimercado
+kind: organization
+name: MMPG FI Financeiro Multimercado CP
+aliases: []
+org_type: fund
+summary: Fundo de investimento (CNPJ 31.933.729/0001-44), administrado pela WNT Capital e gerido pela
+  WNT Gestora de Recursos, com exatamente 1 cotista e patrimônio líquido de R$ 22,66 milhões (dado de
+  2026) — consistente com a alegação do UOL de que o fundo pertence exclusivamente a uma única pessoa.
+  Segundo a mesma reportagem, esse cotista único é o advogado Ângelo Rezende; o cadastro público consultado
+  não revela a identidade nominal do cotista, o que mantém a identificação como classe A (fonte secundária).
+why_in_novelo: É o fundo de cotista único que o UOL aponta como pertencente a Ângelo Rezende, e que integra
+  a cadeia societária que o ligaria à PKL One Participações.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-tiacandia-2026-08-05-angelo-rezende-socio-indireto-pkl-one
+- src-maisretorno-2026-09-mmpg-fi-financeiro-multimercado-cadastro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

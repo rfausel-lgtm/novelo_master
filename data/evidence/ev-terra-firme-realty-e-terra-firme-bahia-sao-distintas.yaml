@@ -1,0 +1,19 @@
+id: ev-terra-firme-realty-e-terra-firme-bahia-sao-distintas
+kind: evidence
+classification: C
+proposition: Terra Firme Realty S.A. (raiz de CNPJ 45.125.567) e Terra Firme da Bahia Ltda (raiz de CNPJ
+  04.241.549) têm raízes de CNPJ completamente diferentes — não são a mesma pessoa jurídica nem filiais
+  uma da outra. Nenhum registro de sociedade entre as duas (uma sendo sócia da outra) foi localizado,
+  embora o QSA completo de nenhuma das duas tenha sido aberto diretamente pela equipe. O único elo encontrado
+  entre elas é onomástico (o nome 'Terra Firme') e o denominador comum de estarem ligadas, por vias distintas,
+  a Augusto Lima.
+document_ids: []
+source_ids:
+- src-cnpja-2026-09-terra-firme-realty-cnpj-raiz
+- src-econodata-2026-09-terra-firme-da-bahia-cnpj-raiz
+date: 2026-09
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

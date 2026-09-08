@@ -42,10 +42,11 @@ open_questions:
 - O histórico societário — datas de entrada e saída de sócios — provém de bases de agregadores privados,
   e não do conjunto de dados abertos da Receita Federal, que não o publica. A ficha da Junta Comercial
   da Bahia fecharia a questão.
-- Reportagens de fonte secundária identificam Eduardo Mendonça Sodré Martins como o 'enteado pessoa física'
-  do senador a quem a PF atribui R$ 2,34 milhões (classe D quanto ao valor, A quanto ao nome) — sem reconciliação,
-  pela equipe, com o quadro societário já confirmado da própria BN Financeira (Bonnie Toaldo Bonilha,
-  Moisés Dantas dos Santos).
+- 'Confirmado, por leitura direta da decisão de Mendonça (Pet 16.229), que Eduardo Mendonça Sodré Martins
+  é o ''enteado pessoa física'' do senador citado pela PF — mas a relação exata dele com o quadro societário
+  formal da empresa (Bonnie Toaldo Bonilha, sócia-administradora; Moisés Dantas dos Santos, sócio advogado)
+  permanece não reconciliada: o documento o identifica como beneficiário e interlocutor de mensagens,
+  não como sócio formal.'
 source_ids:
 - src-bcb-resolucao-cmn-4935-2021-art-8
 - src-cnnbrasil-2026-empresa-dividia-sala-com-19-cnpjs
@@ -58,6 +59,7 @@ source_ids:
 - src-poder360-2026-06-18-nona-fase-wagner
 - src-stf-pet-16229-decisao-9a-fase-pdf
 - src-valor-2026-06-18-bn-financeira-nao-regulada-pelo-bc
+- src-verificacao-direta-equipe-pet16229-decisao-integra
 full_name: BN Financeira Ltda.
 review_status: published
 reviewer: orquestrador
