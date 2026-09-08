@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-08T18:17:09.383Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-08T18:27:04.785Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -404,6 +404,7 @@ ORG|superavit-participacoes|Superávit Participações|company|A reavaliação d
 ORG|superior-tribunal-de-justica|STJ|court|Tribunal do ministro Benedito Gonçalves, listado entre participantes de evento em Londres pago por Vorcaro, segundo a imprensa.
 ORG|supremo-tribunal-federal|Supremo Tribunal Federal|court|É o tribunal competente onde tramitam as investigações do caso Master.
 ORG|talk-communications|Talk Communications|company|Empresa apontada, em reportagem investigativa, como executora de campanha de disparo em massa com dados de usuários do WiFi Livre SP repassados pelo Instituto Conhecer Brasil.
+ORG|tce-maranhao|Tribunal de Contas do Estado do Maranhão (TCE-MA)|court|É objeto de um precedente citado na decisão central da crise Moraes-Mendonça-PF, mas trata de caso totalmente distinto (Maranhão, Caso Tech Office) — registrado para fechar a pista com transparência, sem forçar conexão onde a apuração não a encontrou.
 ORG|temer-advogados-associados|Temer Advogados Associados|law_firm|É o escritório do próprio ex-presidente Michel Temer, administrador de fato, contratado pelo Banco Master — fato que ele mesmo confirmou publicamente.
 POSIÇÃO|temer-advogados-associados|clarification|Confirmou ter conhecido Daniel Vorcaro pessoalmente e que seu escritório foi contratado para tentar uma 'liquidação privada' do banco, sem sucesso; disse que prestou 'serviços de mediação' e que recebeu dois pagamentos, de R$ 5 milhões e R$ 2,5 milhões — R$ 7…
 ORG|tether-investments|Tether Investments|financial_institution|É a primeira credora internacional ligada a stablecoin identificada no caso Master — e a primeira vez que o corpus registra recebíveis de consignado brasileiro dados em garantia a credor externo do setor cripto.

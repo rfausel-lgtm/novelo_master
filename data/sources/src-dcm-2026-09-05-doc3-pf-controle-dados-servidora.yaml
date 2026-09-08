@@ -1,0 +1,32 @@
+id: src-dcm-2026-09-05-doc3-pf-controle-dados-servidora
+kind: source
+title: '[Fonte não verificada — nome não publicado pela equipe] Coluna sobre o DOC.3 do relatório apócrifo
+  da PF'
+publisher: Diário do Centro do Mundo (coluna de opinião)
+publication_date: '2026-09-05'
+retrieved_at: '2026-09-06'
+url: https://www.diariodocentrodomundo.com.br/doc3-pf-controle-dados-mendonca-esconde-autores-vazamentos-criminosos
+source_type: press
+summary: Coluna de opinião (não matéria factual apurada por redação) que cita trechos apresentados como
+  do próprio 'DOC.3' do relatório de inteligência apócrifo da PF (Pet 16.662) e atribui, com base nesses
+  trechos, um nome a uma agente da PF descrita como tendo controle concentrado sobre acervos sensíveis
+  da operação — incluindo uma crítica sobre inserção indevida, e depois retirada, de material de celular
+  do senador Weverton Rocha (caso Tech Office, distinto do Master) em minuta de informação policial. É
+  FONTE ÚNICA, de natureza opinativa e linha editorial partidária declarada, sem checagem factual independente
+  localizada, sobre pessoa cuja identidade o próprio STF determinou proteger com 'limites mais estritos
+  que o documento principal' (decisão de Mendonça, §35). Por decisão editorial, o nome atribuído por esta
+  coluna NÃO é reproduzido pela equipe.
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: 'Fonte de baixa confiabilidade para fins de identificação pessoal: coluna de opinião, fonte única,
+  sem corroboração factual independente, tratando de dado que o próprio Tribunal decidiu manter sob proteção
+  reforçada. Citada apenas para registrar a existência da tentativa de identificação — o nome não é publicado
+  neste corpus.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

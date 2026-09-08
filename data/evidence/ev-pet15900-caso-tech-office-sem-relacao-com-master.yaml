@@ -1,0 +1,21 @@
+id: ev-pet15900-caso-tech-office-sem-relacao-com-master
+kind: evidence
+classification: C
+proposition: A Pet 15.900/DF, citada como precedente na decisão de Mendonça de 08/09/2026 (Pet 16.662),
+  é uma decisão monocrática de Flávio Dino de 17/08/2026 que afastou cautelarmente por 180 dias Daniel
+  Itapary Brandão, presidente do TCE-MA e sobrinho do governador do Maranhão, por suspeita de desvio de
+  recursos públicos e obstrução da apuração de um homicídio ocorrido em 2022 no prédio Tech Office, em
+  São Luís — o chamado 'Caso Tech Office', decisão conjunta com as Pets 15.437 e 16.356/DF. É processo
+  autônomo do 'núcleo Maranhão' da pauta de Dino, SEM relação comprovada com o caso Banco Master — a única
+  conexão localizada é uma menção de fonte única e não verificada (ver evidência correlata), explicitamente
+  negada pela assessoria de Dino.
+document_ids: []
+source_ids:
+- src-gazetadopovo-2026-08-17-dino-afasta-presidente-tce-ma
+- src-cnnbrasil-2026-08-17-dino-afastamento-tce-maranhao
+date: '2026-08-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

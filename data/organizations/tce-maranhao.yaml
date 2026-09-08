@@ -1,0 +1,27 @@
+id: tce-maranhao
+kind: organization
+name: Tribunal de Contas do Estado do Maranhão (TCE-MA)
+aliases: []
+org_type: court
+summary: Tribunal de contas estadual do Maranhão. Seu presidente, Daniel Itapary Brandão — sobrinho do
+  governador Carlos Brandão (MDB) —, foi afastado cautelarmente por 180 dias por decisão do ministro Flávio
+  Dino (STF) em 17/08/2026 (Pet 15.900/DF, decisão conjunta com as Pets 15.437 e 16.356/DF), a pedido
+  da PF, no 'Caso Tech Office' — suspeita de desvio de recursos públicos e obstrução da apuração de um
+  homicídio de 2022. Processo autônomo, sem relação comprovada com o caso Banco Master; entra no corpus
+  apenas porque a decisão foi citada como precedente na decisão de Mendonça que afastou o diretor-geral
+  da PF (Pet 16.662).
+why_in_novelo: É objeto de um precedente citado na decisão central da crise Moraes-Mendonça-PF, mas trata
+  de caso totalmente distinto (Maranhão, Caso Tech Office) — registrado para fechar a pista com transparência,
+  sem forçar conexão onde a apuração não a encontrou.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-gazetadopovo-2026-08-17-dino-afasta-presidente-tce-ma
+- src-cnnbrasil-2026-08-17-dino-afastamento-tce-maranhao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
