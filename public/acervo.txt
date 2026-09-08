@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-08T21:15:52.391Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-08T22:15:07.796Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -104,7 +104,7 @@ PESSOA|davi-alcolumbre|Davi Alcolumbre|Senador (União-AP), presidente do Senado
 POSIÇÃO|davi-alcolumbre|version|A leitura de requerimentos de CPMI é ato discricionário do presidente do Congresso; o tema não era prioritário na sessão.
 POSIÇÃO|davi-alcolumbre|denial|Negou qualquer relação com a indicação de gestores da Amprev ou com a aquisição dos papéis do Master ('narrativa mentirosa e absolutamente irresponsável').
 POSIÇÃO|davi-alcolumbre|denial|Sobre o relato de US$ 30 milhões atribuído à proposta de delação de Vorcaro (Veja): 'absolutamente falsas'; jamais recebeu valores no Brasil ou no exterior; anunciou ações cíveis e criminais.
-PESSOA|david-agape|David Ágape|Jornalista; autor da newsletter 'A Investigação' (ainvestigacao.com)|É a fonte de múltiplas reportagens recentes sobre a crise institucional Moraes-Mendonça no STF, com linha editorial declarada e histórico de atrito com um dos ministros centrais ao caso — perfil relevante para calibrar o padrão de verificação aplicado às suas alegações.
+PESSOA|david-agape|David Ágape|Jornalista investigativo; fundador de A Investigação (ainvestigacao.com); colunista da Revista Oeste; segundo autodescr…|É a fonte de múltiplas reportagens recentes sobre a crise institucional Moraes-Mendonça no STF, com linha editorial declarada e histórico de atrito com um dos ministros centrais ao caso — perfil relevante para calibrar o padrão de verificação aplicado às suas alegações.
 PESSOA|david-lopes-monteiro|David Lopes Monteiro|Citado na decisão da 9ª fase como quem teria auxiliado na aquisição do apartamento|É nomeado em decisão pública do STF entre as pessoas que teriam auxiliado na operação imobiliária examinada na 9ª fase da Compliance Zero.
 PESSOA|deivis-marcon-antunes|Deivis Marcon Antunes|Ex-presidente do Rioprevidência|É o principal alvo da Operação Barco de Papel, a investigação sobre os aportes do Rioprevidência no grupo Master.
 POSIÇÃO|deivis-marcon-antunes|denial|A defesa nega interferência nas investigações, afirma colaboração com as autoridades — entregou senhas e se colocou à disposição — e pediu substituição da prisão preventiva por medidas cautelares, pedido negado pelo STJ.
