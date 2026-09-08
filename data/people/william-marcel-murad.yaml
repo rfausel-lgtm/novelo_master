@@ -1,0 +1,22 @@
+id: william-marcel-murad
+kind: person
+name: William Marcel Murad
+category: police
+role: Diretor-executivo da PF; assumiu interinamente a Direção-Geral após o afastamento de Andrei Rodrigues
+positions: []
+summary: Delegado de polícia federal desde 2002, formado pela USP. Diretor-executivo da PF desde janeiro
+  de 2025, por indicação do Ministério da Justiça. Assumiu interinamente a Direção-Geral da PF em 08/09/2026,
+  após o afastamento cautelar de Andrei Rodrigues determinado por André Mendonça.
+why_in_novelo: É quem assumiu interinamente o comando da PF na sequência do afastamento de Andrei Rodrigues,
+  episódio central da crise institucional entre o STF e a Polícia Federal em torno do caso Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-nsctotal-2026-09-08-quem-assume-pf-murad
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

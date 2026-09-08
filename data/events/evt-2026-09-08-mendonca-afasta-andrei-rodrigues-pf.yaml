@@ -1,0 +1,38 @@
+id: evt-2026-09-08-mendonca-afasta-andrei-rodrigues-pf
+kind: event
+title: André Mendonça afasta o diretor-geral da PF, Andrei Rodrigues
+event_type: judicial_decision
+date: '2026-09-08'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- andrei-rodrigues
+- leandro-almada-da-costa
+- policia-federal
+description: André Mendonça, na Pet 16.662, determinou o afastamento cautelar por 90 dias de Andrei Rodrigues
+  e Leandro Almada da Costa, sob alegação de monitoramento ilícito do próprio ministro pela PF. É a concessão,
+  cinco dias depois, de pedido que o partido Novo já havia protocolado em 03/09/2026 (prisão preventiva
+  e afastamento cautelar). William Marcel Murad assumiu interinamente. A decisão foi submetida a referendo
+  da 2ª Turma, com Nunes Marques e Fux acompanhando Mendonça e Gilmar Mendes pedindo vista — portanto
+  ainda não referendada de forma definitiva pelo colegiado. A AGU anunciou recurso, por entender que a
+  nomeação/exoneração do diretor-geral da PF é prerrogativa exclusiva do Presidente da República (Lei
+  9.266/1996), mas orientou cumprimento da decisão enquanto contesta.
+evidence_class: C
+status: disputed
+evidence_ids:
+- ev-mendonca-afasta-andrei-cautelar-90dias
+- ev-2a-turma-referendo-pendente-vista-gilmar
+- ev-agu-recorrera-violacao-competencia
+source_ids:
+- src-poder360-2026-09-08-mendonca-afasta-andrei
+- src-metropoles-2026-09-08-afastamento-90-dias
+- src-migalhas-2026-09-08-mendonca-afasta-andrei-pet16662
+- src-sbtnews-2026-09-08-mendonca-afasta-andrei
+document_ids:
+- doc-2026-09-08-decisao-mendonca-afasta-andrei-pet16662
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

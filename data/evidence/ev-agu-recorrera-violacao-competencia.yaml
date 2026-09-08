@@ -1,0 +1,20 @@
+id: ev-agu-recorrera-violacao-competencia
+kind: evidence
+classification: C
+proposition: 'A AGU anunciou que vai recorrer da decisão, alegando ''violação de competência'': a nomeação
+  e exoneração do diretor-geral da PF são prerrogativa exclusiva do Presidente da República, nos termos
+  da Lei 9.266/1996. O governo, porém, orientou o cumprimento da decisão enquanto contesta, para não repetir
+  o discurso de deslegitimação do STF associado à oposição. A ministra Simone Tebet defendeu a apuração
+  das responsabilidades no caso Master; o governador Ronaldo Caiado elogiou a decisão; o partido Novo
+  tratou como ''vitória'' e reiterou pedido de impeachment de Alexandre de Moraes.'
+document_ids: []
+source_ids:
+- src-jovempan-2026-09-08-governo-recorrera-afastamento
+- src-gazetadopovo-2026-09-08-agu-contestara-afastamento
+- src-jovempan-2026-09-08-doa-a-quem-doer-reacoes
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

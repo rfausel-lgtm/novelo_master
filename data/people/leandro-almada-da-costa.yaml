@@ -1,0 +1,24 @@
+id: leandro-almada-da-costa
+kind: person
+name: Leandro Almada da Costa
+category: police
+role: Diretor de Inteligência Policial da PF, afastado junto com Andrei Rodrigues
+positions: []
+summary: Diretor de Inteligência Policial da Polícia Federal, afastado cautelarmente por 90 dias na mesma
+  decisão de André Mendonça de 08/09/2026 que afastou o diretor-geral Andrei Rodrigues — sob a alegação
+  de monitoramento ilícito do próprio ministro por meio de relatórios de inteligência produzidos entre
+  03 e 31/08/2026.
+why_in_novelo: É o segundo nome afastado, junto com o diretor-geral, na decisão de Mendonça que produziu
+  nova escalada da crise institucional no STF.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-09-08-mendonca-afasta-andrei
+- src-metropoles-2026-09-08-afastamento-90-dias
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

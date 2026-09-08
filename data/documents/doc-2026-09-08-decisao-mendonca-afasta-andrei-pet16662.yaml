@@ -1,0 +1,32 @@
+id: doc-2026-09-08-decisao-mendonca-afasta-andrei-pet16662
+kind: document
+title: Decisão de André Mendonça afastando cautelarmente o diretor-geral da PF e o diretor de Inteligência
+  Policial
+doc_type: judicial_decision
+date: '2026-09-08'
+source_ids:
+- src-migalhas-2026-09-08-mendonca-afasta-andrei-pet16662
+- src-poder360-2026-09-08-mendonca-afasta-andrei
+summary: Decisão monocrática na Pet 16.662 determinando o afastamento cautelar, por 90 dias, de Andrei
+  Rodrigues (diretor-geral) e Leandro Almada da Costa (diretor de Inteligência Policial), sob alegação
+  de monitoramento ilícito do relator por mais de 30 dias; determina abertura de procedimento criminal
+  e administrativo-disciplinar pela Corregedoria da PF, e proíbe novos relatórios de inteligência sobre
+  magistrados, advocacia pública ou policiais. Submetida a referendo da 2ª Turma em sessão virtual extraordinária
+  (08/09/2026, 10h-23h59). A equipe não teve acesso à íntegra do documento — o teor é conhecido por citações
+  da imprensa.
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- andrei-rodrigues
+- leandro-almada-da-costa
+- policia-federal
+issuer_id: andre-mendonca
+issuer: André Mendonça (STF, relator da Pet 16.662)
+date_precision: day
+excerpt: Ao menos há mais de 30 dias este relator tem sido monitorado pela Polícia Federal. Trata-se de
+  monitoramento ilícito...
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
