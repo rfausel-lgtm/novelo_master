@@ -7,6 +7,9 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Cloudflare Web Analytics: beacon embutido no layout raiz para acompanhar acessos por página, sem
+  cookies. `public/_headers` (e o exemplo de nginx em `DEPLOYMENT.md`) liberam na CSP apenas os
+  domínios do próprio Cloudflare necessários para o script funcionar.
 - Filtros da cronologia e dos índices na URL (`?agente=`, `?tipo=`, `?classe=`, `?q=`), com botão
   "Copiar link deste recorte". Voltar de um registro deixou de perder o recorte, e o link mostra a
   outra pessoa a mesma vista. O recorte é reproduzido sobre os dados atuais, não sobre uma versão
