@@ -42,18 +42,25 @@ open_questions:
 - O histórico societário — datas de entrada e saída de sócios — provém de bases de agregadores privados,
   e não do conjunto de dados abertos da Receita Federal, que não o publica. A ficha da Junta Comercial
   da Bahia fecharia a questão.
+- Reportagens de fonte secundária identificam Eduardo Mendonça Sodré Martins como o 'enteado pessoa física'
+  do senador a quem a PF atribui R$ 2,34 milhões (classe D quanto ao valor, A quanto ao nome) — sem reconciliação,
+  pela equipe, com o quadro societário já confirmado da própria BN Financeira (Bonnie Toaldo Bonilha,
+  Moisés Dantas dos Santos).
 source_ids:
-- src-poder360-2026-06-18-nona-fase-wagner
-- src-minhareceita-bn-financeira-cnpj
-- src-stf-pet-16229-decisao-9a-fase-pdf
-- src-pf-representacao-9a-fase-wagner-pdf
-- src-valor-2026-06-18-bn-financeira-nao-regulada-pelo-bc
 - src-bcb-resolucao-cmn-4935-2021-art-8
-- src-metro1-2026-03-18-empresa-diz-que-repasse-e-legal
 - src-cnnbrasil-2026-empresa-dividia-sala-com-19-cnpjs
+- src-jornalsete-2026-pf-repasse-empresa-enteado-wagner
+- src-metro1-2026-03-18-empresa-diz-que-repasse-e-legal
+- src-metropoles-2026-mirelle-pf-boletos-enteado-wagner
+- src-minhareceita-bn-financeira-cnpj
+- src-oantagonista-2026-06-18-enteado-wagner-boletos
+- src-pf-representacao-9a-fase-wagner-pdf
+- src-poder360-2026-06-18-nona-fase-wagner
+- src-stf-pet-16229-decisao-9a-fase-pdf
+- src-valor-2026-06-18-bn-financeira-nao-regulada-pelo-bc
 full_name: BN Financeira Ltda.
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'

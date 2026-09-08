@@ -1,0 +1,32 @@
+id: angelo-rezende
+kind: person
+name: Ângelo Rezende
+category: lawyer
+role: Advogado do senador Jaques Wagner, apontado pela imprensa como sócio indireto da PKL One Participações
+positions: []
+summary: Advogado que atua para o senador Jaques Wagner, apontado por reportagem do UOL (replicada por
+  veículos regionais) como sócio indireto — por meio de uma cadeia de fundos de investimento — da PKL
+  One Participações, sociedade que detém os direitos de exploração do Credcesta e que o corpus já documenta
+  como ligada ao núcleo de Augusto Ferreira Lima e à transferência de R$ 3,5 milhões à BN Financeira.
+  A estrutura exata da cadeia de fundos que ligaria Rezende à PKL One não foi verificada por consulta
+  direta da equipe a registro societário público.
+why_in_novelo: É apontado pela imprensa como o advogado de Jaques Wagner com participação societária indireta
+  na mesma sociedade (PKL One) que o corpus já liga ao núcleo financeiro de Augusto Lima — uma potencial
+  sobreposição de interesse entre a defesa do senador e a estrutura societária sob investigação.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A cadeia exata de fundos de investimento que ligaria Ângelo Rezende à PKL One Participações não foi
+  verificada por consulta direta da equipe a registro societário público (Jucesp/Receita Federal) — a
+  informação vem de reportagem do UOL, replicada por veículos regionais, sem acesso direto ao texto original
+  do UOL pela equipe.
+- Nenhuma manifestação pública dele localizada até a data desta apuração.
+source_ids:
+- src-bahiapolitica-2026-uol-advogado-wagner-pkl-one
+- src-diarioflip-2026-08-advogado-wagner-participacao-consignado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

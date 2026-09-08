@@ -62,6 +62,14 @@ cited_position:
   - src-agenciabrasil-2026-06-18-wagner-nega-vantagens
   by_id: jaques-wagner
   date: '2026-06-18'
+- kind: denial
+  summary: 'Em entrevista à Folha de S.Paulo (26/06/2026), admitiu proximidade com Augusto Lima mas negou
+    favorecimento ilícito, chamou a ação da PF de ''espetacularização'' e ''patacoada'', e acusou o STF
+    de encenar a divulgação do dinheiro apreendido: ''Estão reinventando a Lava Jato.'''
+  source_ids:
+  - src-poder360-2026-06-26-wagner-admite-relacao-augusto-lima-patacoada
+  by_id: jaques-wagner
+  date: '2026-06-26'
 open_questions:
 - O relatório da PF de 30/07/2026 (PDF de 33 MB) não foi lido pela equipe; o corpus registra a síntese
   do Poder360.
@@ -82,24 +90,36 @@ open_questions:
   estrutural do próprio órgão desde 2024 — não por decisão específica sobre o mérito do caso.
 - Em entrevista de 08/09/2026, atribuiu o escândalo a Bolsonaro/Campos Neto, chamou Vorcaro de 'marginal'
   e citou 'setenta e tantos milhões' como valor dado por Vorcaro a Flávio Bolsonaro.
+- Reportagens (O Antagonista/DCM, Jornal Sete, Metrópoles) identificam Eduardo Mendonça Sodré Martins,
+  alcunha 'Dudu', como o enteado a quem a PF atribui R$ 2,34 milhões (fato já classe D no corpus, antes
+  sem nome) — identificação nominal não confirmada por leitura direta de documento primário, e não reconciliada
+  com o quadro societário já conhecido da BN Financeira.
+- O advogado Ângelo Rezende, que o representa, é apontado por reportagem do UOL (replicada) como sócio
+  indireto da PKL One Participações — não verificado por consulta direta a registro societário público.
 source_ids:
 - src-acordacidade-2026-08-28-lula-defende-wagner
 - src-agenciabrasil-2026-06-18-wagner-nega-vantagens
 - src-agenciabrasil-2026-08-07-wagner-depoimento-adiado
 - src-anoticiadovale-2026-09-02-wagner-inocencia-eleicoes
+- src-bahiapolitica-2026-uol-advogado-wagner-pkl-one
 - src-bnews-2026-09-08-sabatina-wagner-bolsonaro-campos-neto-marginal
 - src-congresso-mpv-1106-2022-emendas
+- src-diarioflip-2026-08-advogado-wagner-participacao-consignado
 - src-infomoney-2026-06-pgr-foi-contra-pf-apreensao-wagner
 - src-jbrasilia-2026-06-22-wagner-pede-anular-busca-apreensao
+- src-jornalsete-2026-pf-repasse-empresa-enteado-wagner
 - src-metropoles-2026-01-24-wagner-mantega
 - src-metropoles-2026-06-pf-wagner-interlocutor-relevante
 - src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+- src-metropoles-2026-mirelle-pf-boletos-enteado-wagner
 - src-minhareceita-bn-financeira-cnpj
+- src-oantagonista-2026-06-18-enteado-wagner-boletos
 - src-otempo-2026-07-31-novo-quebra-decoro-wagner-conselho-etica
 - src-otempo-2026-08-07-pf-desmarca-depoimento-wagner
 - src-pf-representacao-9a-fase-wagner-pdf
 - src-poder360-2026-06-18-nona-fase-wagner
 - src-poder360-2026-06-24-wagner-deixa-lideranca
+- src-poder360-2026-06-26-wagner-admite-relacao-augusto-lima-patacoada
 - src-poder360-2026-07-30-mendonca-torna-publica-investigacao-wagner
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-08-27-lula-defende-wagner

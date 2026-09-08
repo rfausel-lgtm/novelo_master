@@ -1,0 +1,24 @@
+id: ev-eduardo-mendonca-identificado-enteado-pf-234mi
+kind: evidence
+classification: A
+proposition: 'Reportagens (O Antagonista/DCM, Jornal Sete, coluna da Metrópoles) identificam Eduardo Mendonça
+  Sodré Martins, sob a alcunha ''Dudu'', como o ''enteado pessoa física'' do senador Jaques Wagner a quem
+  a PF atribui o recebimento de R$ 2,34 milhões — valor que já constava no corpus como fato classe D (decisão
+  do STF/Pet 16.229, lida diretamente), mas sem nome do beneficiário. A identificação nominal em si é
+  secundária: a matéria original do DCM não pôde ser lida diretamente (bloqueio de acesso automatizado),
+  e a relação entre esse nome e o quadro societário já conhecido da BN Financeira (Bonnie Toaldo Bonilha,
+  Moisés Dantas dos Santos) não foi reconciliada.'
+document_ids: []
+source_ids:
+- src-oantagonista-2026-06-18-enteado-wagner-boletos
+- src-jornalsete-2026-pf-repasse-empresa-enteado-wagner
+- src-metropoles-2026-mirelle-pf-boletos-enteado-wagner
+excerpt: Amanhã vence os boletos e são altos
+attributed_to: O Antagonista (reproduzindo DCM), Jornal Sete, Metrópoles/Mirelle Pinheiro — convergentes
+  na identificação, nenhuma com leitura primária confirmada pela equipe
+date: '2026-06-18'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

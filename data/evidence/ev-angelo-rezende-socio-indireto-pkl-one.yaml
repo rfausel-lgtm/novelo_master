@@ -1,0 +1,18 @@
+id: ev-angelo-rezende-socio-indireto-pkl-one
+kind: evidence
+classification: A
+proposition: Ângelo Rezende, advogado do senador Jaques Wagner, é apontado por reportagem do UOL (replicada
+  por veículos regionais) como sócio indireto, via cadeia de fundos de investimento, da PKL One Participações
+  — sociedade já ligada no corpus ao núcleo financeiro de Augusto Ferreira Lima. Não verificado por consulta
+  direta da equipe a registro societário público.
+document_ids: []
+source_ids:
+- src-bahiapolitica-2026-uol-advogado-wagner-pkl-one
+- src-diarioflip-2026-08-advogado-wagner-participacao-consignado
+attributed_to: UOL, replicado por Bahia Política e Diário Flip
+date: '2026'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
