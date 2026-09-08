@@ -1,0 +1,21 @@
+id: ev-pablo-domingues-unico-advogado-identificado-peticao-anulacao
+kind: evidence
+classification: C
+proposition: Três fontes jornalísticas independentes (Correio Braziliense, Agência Brasil, e reproduções
+  em outros veículos) identificam Pablo Domingues como o único advogado citado como signatário da petição
+  de anulação da 9ª fase da Compliance Zero apresentada em nome de Jaques Wagner ao STF (relator André
+  Mendonça). Nenhuma fonte consultada menciona um segundo advogado de sobrenome Rodrigues nessa petição
+  específica — a dúvida registrada em lotes anteriores do corpus sobre um 'Pablo Rodrigues' não encontra
+  lastro em nenhuma matéria e é tratada como possível ruído de sumarização automática de busca, não como
+  fato. Ângelo Rezende também não consta, em nenhuma fonte localizada, como advogado constituído nessa
+  petição.
+document_ids: []
+source_ids:
+- src-correiobraziliense-2026-06-23-pablo-domingues-anulacao-9afase
+- src-agenciabrasil-2026-06-22-pablo-domingues-anulacao-9afase
+date: '2026-06-22'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

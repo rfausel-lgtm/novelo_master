@@ -23,13 +23,16 @@ cited_position:
 open_questions:
 - O repasse de R$ 457,2 mil do Master é, segundo a mesma reportagem, negado formalmente por Flávia Peres;
   não há decisão de mérito nem documento primário da Receita Federal lido diretamente pela equipe.
-- 'Reforçada, não resolvida: o Mapa das OSC/IPEA confirma Maria Helena Santos Ferreira como presidente
-  estatutária da Asseba desde 2008, o que aumenta a dúvida sobre a alegação de fonte única do Jornal Grande
-  Bahia de que o Instituto Terra Firme ''geriria'' a Asseba — pode refletir gestão de fato não estatutária,
-  ou imprecisão da fonte; segue não verificado.'
 - O repasse de R$ 457,2 mil do Master é, segundo a mesma reportagem, negado formalmente por Flávia Peres;
   não há decisão de mérito nem documento primário da Receita Federal lido diretamente pela equipe.
+- 'Refinado (lote 119): a alegação de que o instituto ''geriria'' a Asseba, ao ser rastreada até sua origem
+  em duas reportagens (JGB, Bahia Notícias), parece se apoiar num achado da PF/Coaf sobre sobreposição
+  de e-mail/telefone que o próprio corpus já documenta como referente à empresa ''Terra Firme da Bahia
+  Ltda'' (de Augusto Lima) — pessoa jurídica distinta deste instituto, presidido por Flávia Peres. É possível
+  que a imprensa tenha confundido as duas entidades homônimas; sem o documento primário com o CNPJ exato
+  citado, a equipe não pode decidir a questão, e mantém as duas hipóteses em aberto.'
 source_ids:
+- src-bahianoticias-2026-04-11-asseba-gerida-instituto-terra-firme-coaf
 - src-folhadealagoas-2026-06-18-instituto-terra-firme-busca-pf
 - src-mapaosc-ipea-2026-asseba-presidente-maria-helena
 - src-metropoles-2026-04-09-master-repassou-ong-flavia-peres-receita

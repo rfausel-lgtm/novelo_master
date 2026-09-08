@@ -30,12 +30,21 @@ open_questions:
 - A identidade nominal do cotista único do fundo MMPG (apontado pelo UOL como Ângelo Rezende) não foi
   confirmada por registro público — dados de CVM (via agregador) confirmam a existência do fundo e a contagem
   de cotistas, mas não revelam nomes.
-- Não confirmado se atua formalmente como advogado constituído de Jaques Wagner nos autos do STF — buscas
-  independentes apontaram Pablo Domingues e Pablo Rodrigues como advogados no pedido de anulação da 9ª
-  fase; pode atuar em outra frente da defesa, ou haver imprecisão nas fontes.
 - Nenhuma manifestação pública dele localizada além do silêncio registrado à reportagem do UOL.
+- 'Corrigido (lote 119): três fontes independentes (Correio Braziliense, Agência Brasil) identificam apenas
+  Pablo Domingues, não um segundo advogado ''Pablo Rodrigues'', como signatário da petição de anulação
+  da 9ª fase — a dúvida anterior sobre um segundo nome não tinha lastro em fonte real. Confirmado, por
+  ausência em todas as fontes sobre essa petição, que Ângelo Rezende não consta como advogado constituído
+  nela.'
+- Não localizado, por nenhuma via aberta (OAB, LinkedIn, imprensa), o escritório, número de OAB, ou qualquer
+  manifestação pública dele sobre investimentos ou gestão de fundos — resultado negativo após pesquisa
+  dirigida.
+- A identidade do cotista único do fundo MMPG segue não confirmada por nenhuma fonte independente da própria
+  reportagem original do UOL — permanece classe A, circular.
 source_ids:
+- src-agenciabrasil-2026-06-22-pablo-domingues-anulacao-9afase
 - src-bahiapolitica-2026-uol-advogado-wagner-pkl-one
+- src-correiobraziliense-2026-06-23-pablo-domingues-anulacao-9afase
 - src-diarioflip-2026-08-advogado-wagner-participacao-consignado
 - src-maisretorno-2026-09-diamond-fip-multiestrategia-cadastro
 - src-maisretorno-2026-09-gardenia-fip-multiestrategia-cadastro

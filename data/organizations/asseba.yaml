@@ -29,8 +29,15 @@ open_questions:
 - Confirmado por registro público (Mapa das OSC/IPEA) que Maria Helena Santos Ferreira é presidente estatutária
   desde 13/03/2008 — reforça, sem resolver, a contradição com a alegação de fonte única do Jornal Grande
   Bahia de que o Instituto Terra Firme 'geriria' a associação.
+- A alegação de que o Instituto Terra Firme (não a Terra Firme da Bahia Ltda, já documentada acima) 'geriria'
+  a Asseba, presente em duas reportagens (JGB e Bahia Notícias), pode refletir confusão jornalística entre
+  as duas pessoas jurídicas homônimas — o fundamento citado por essas matérias (sobreposição de e-mail/telefone)
+  é o mesmo já atribuído no corpus à empresa Terra Firme da Bahia Ltda. Sem acesso ao documento primário
+  do Coaf/PF com o CNPJ exato citado, não é possível decidir se há, de fato, um achado adicional e distinto
+  sobre o instituto.
 source_ids:
 - src-bahiaba-2026-pf-liga-email-associacoes-augusto-lima
+- src-bahianoticias-2026-04-11-asseba-gerida-instituto-terra-firme-coaf
 - src-bahianoticias-2026-04-11-governo-nega-transferencia-asseba
 - src-jornaldebrasilia-2026-04-11-associacoes-baianas-creditos-falsos
 - src-jornalgrandebahia-2026-04-12-asseba-140-milhoes-integra
