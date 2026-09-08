@@ -21,9 +21,10 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- A PF suspeita, segundo fonte jornalística única não lida por completo, que tenha transferido R$ 3,5
-  milhões a entidade ligada à família do senador Jaques Wagner — alegação fraca, mantida no corpus para
-  reavaliação, sem documento primário localizado.
+- 'Correção editorial (lote 116): a transferência de R$ 3,5 milhões da PKL One à BN Financeira (17/10/2025)
+  já é fato classe D no corpus (decisão do STF lida diretamente — ver bn-financeira). Ela era administradora
+  da PKL One na data da operação, mas nenhuma fonte localizada atribui a ela, pessoalmente, decisão ou
+  conhecimento sobre essa transferência específica — coincidência de cargo, não de conduta.'
 - É sócia/administradora, ao lado de Gustavo Amorim Araújo, da SPE Mark 71 Empreendimento Imobiliário
   — uma das cinco sociedades da Terra Firme Realty (holding imobiliária de Augusto Lima em Salvador),
   conectando-a também a essa estrutura, além da já documentada PKL One.

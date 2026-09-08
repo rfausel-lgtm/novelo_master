@@ -1,0 +1,23 @@
+id: rev-2026-09-06-lote-116-eduardo-mendonca-angelo-rezende
+kind: revision
+date: '2026-09-06'
+title: 'Lote 116 — o nome por trás do ''enteado'': Eduardo Mendonça Sodré Martins, e a entrevista da ''patacoada'''
+summary: Registrada, com classificação de evidência A (identificação nominal secundária sobre um valor
+  já classe D), a identificação por reportagens de Eduardo Mendonça Sodré Martins como o enteado do senador
+  Jaques Wagner a quem a PF atribui R$ 2,34 milhões. Acrescentado o advogado Ângelo Rezende como apontado
+  sócio indireto da PKL One Participações. Registrada a entrevista de Wagner à Folha de S.Paulo (26/06/2026)
+  em que classificou a ação da PF como 'patacoada' e acusou o STF de 'reinventar a Lava Jato'. Corrigida
+  uma entrada da lote 115 (ev-andrea-novaes-suspeita-transferencia-3-5mi-familia-wagner) que duplicava,
+  com classificação mais fraca, um fato já melhor documentado no corpus como classe D.
+affected_ids:
+- jaques-wagner
+- bn-financeira
+- pkl-one-participacoes
+- augusto-lima
+- andrea-lima-novaes
+reason: Loop de investigação — cross-check de fonte nova contra evidência primária já lida pela equipe.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

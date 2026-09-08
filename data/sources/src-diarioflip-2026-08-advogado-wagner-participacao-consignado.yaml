@@ -1,0 +1,20 @@
+id: src-diarioflip-2026-08-advogado-wagner-participacao-consignado
+kind: source
+title: Advogado de Jaques Wagner tem participação no consignado do Master, diz jornal
+publisher: Diário Flip
+publication_date: 2026-08
+retrieved_at: '2026-09-06'
+url: https://diarioflip.com.br/politica/id-674611/advogado_de_jaques_wagner_tem_participacao_no_consignado_do_master__diz_jornal
+source_type: press
+summary: Corrobora, de forma parcialmente independente (mesma matéria de origem do UOL), a participação
+  indireta do advogado Ângelo Rezende na PKL One Participações.
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
