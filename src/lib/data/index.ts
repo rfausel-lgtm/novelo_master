@@ -77,15 +77,31 @@ export const allDocuments = (): Document[] =>
 export const allEvidence = (): Evidence[] => corpus.evidence;
 export const allSequences = (): TemporalSequence[] => corpus.sequences;
 /*
- * Ordem das revisões: `date` é a data editorial do que a revisão cobre, e hoje as 70 revisões do
- * corpus compartilham a mesma — ordenar só por ela deixava o desempate por ordem de leitura do
- * disco, e a página de atualizações abria num lote do meio. O id (`rev-<data>-lote-<n>-<slug>`)
- * carrega a sequência real, então o desempate é por ele, em ordem natural: `lote-70` depois de
- * `lote-7`, que a comparação de texto inverteria.
+ * Ordem das revisões: `date` é a data editorial do que a revisão cobre, não a da publicação, e
+ * dezenas de revisões compartilham a mesma — então quem decide o topo da home é o desempate.
+ *
+ * O desempate é o id SEM o prefixo `rev-AAAA-MM-DD-`. Esse prefixo é uma segunda cópia da mesma
+ * informação que `date` já ordena, e não confiável: em 66 dos 116 registros ele diverge do campo.
+ * Comparando o id inteiro, bastou um lote com o prefixo à frente dos irmãos (`rev-2026-09-08` num
+ * grupo de `rev-2026-09-06`) para ele grudar no topo à frente de lotes publicados depois — e o
+ * número do lote nunca chegava a ser consultado. Sem o prefixo sobra a sequência do fork, em ordem
+ * natural: `lote-109` acima de `lote-108`, e `lote-70` acima de `lote-7`, que texto puro inverteria.
  */
 const NATURAL = new Intl.Collator("pt-BR", { numeric: true });
-export const allRevisions = (): Revision[] =>
-  [...corpus.revisions].sort((a, b) => b.date.localeCompare(a.date) || NATURAL.compare(b.id, a.id));
+const PREFIXO_DE_DATA = /^rev-\d{4}-\d{2}-\d{2}-/;
+
+/** Exportado para teste: é a regra que decide o que aparece como "última atualização". */
+export function compararRevisoes(
+  a: Pick<Revision, "id" | "date">,
+  b: Pick<Revision, "id" | "date">,
+) {
+  return (
+    b.date.localeCompare(a.date) ||
+    NATURAL.compare(b.id.replace(PREFIXO_DE_DATA, ""), a.id.replace(PREFIXO_DE_DATA, ""))
+  );
+}
+
+export const allRevisions = (): Revision[] => [...corpus.revisions].sort(compararRevisoes);
 
 export const isOfficialSource = (s: Source): boolean => OFFICIAL_SOURCE_TYPES.has(s.source_type);
 
