@@ -1,0 +1,19 @@
+id: ev-conselho-etica-senado-paralisado-nao-especifico-wagner
+kind: evidence
+classification: C
+proposition: O Partido Novo protocolou representação por quebra de decoro contra Wagner no Conselho de
+  Ética do Senado (31/07/2026), mas o órgão está paralisado desde julho de 2024 por falta de instalação
+  — mantendo ao menos 19 representações represadas, entre elas a de Wagner. A ministra Cármen Lúcia (STF)
+  deu prazo de 10 dias ao Senado, a partir de 06/07/2026, para explicações sobre a paralisia — prazo não
+  cumprido até a data desta apuração. A não-tramitação da representação contra Wagner decorre da paralisia
+  estrutural do Conselho, não de decisão específica sobre o mérito do caso dele.
+document_ids: []
+source_ids:
+- src-otempo-2026-07-31-novo-quebra-decoro-wagner-conselho-etica
+- src-quenty-2026-09-06-conselho-etica-senado-paralisado
+date: '2026-09-06'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,27 @@
+id: iprem-santo-antonio-de-posse
+kind: organization
+name: Instituto de Previdência Municipal de Santo Antônio de Posse (Iprem-Posse)
+aliases: []
+org_type: public_body
+summary: 'Instituto de previdência municipal de Santo Antônio de Posse (SP). Aplicou entre R$ 7 e R$ 13
+  milhões (valor divergente entre fontes, não reconciliado) em Letras Financeiras do Master, além de R$
+  16 milhões em fundo imobiliário Golden Tulip (fora do escopo Master). Alvo da Operação ''Moral Hazard''
+  da PF (23/04/2026), com afastamento de função pública e indisponibilidade de bens de cinco investigados:
+  o ex-diretor-presidente Hortêncio Lala Neto, a ex-supervisora Marlene Maria Vieira Bassani, e os membros
+  do comitê de investimentos Hélio Augusto Moraes, Maria de Lourdes Villalva e Tatiana Felix dos Reis.
+  Atendido pela consultoria Crédito e Mercado.'
+why_in_novelo: É um dos RPPS paulistas com investigação própria da PF (Operação Moral Hazard), e cujo
+  caso revelou a suspeita de que a consultoria Crédito e Mercado — já mapeada em Congonhas e Maceió —
+  tenha controlador oculto ligado à 'Farra do INSS'.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-metropoles-2026-pf-firma-lobista-inss-posse-master
+- src-tribunadosertao-2026-04-23-posse-13-milhoes-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

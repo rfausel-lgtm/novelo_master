@@ -1,0 +1,22 @@
+id: ev-wagner-entrevista-08set-bolsonaro-campos-neto-marginal
+kind: evidence
+classification: A
+proposition: Em entrevista de 08/09/2026 (mesma data desta apuração), Wagner atribuiu o escândalo do Master
+  a Jair Bolsonaro e Roberto Campos Neto ('funcionou com o Banco Central de Bolsonaro, fechou com o Banco
+  Central do Lula'), chamou Vorcaro de 'marginal', e afirmou que Vorcaro deu a Flávio Bolsonaro 'um presentão...
+  foi setenta e tantos milhões' — cifra que se aproxima, em ordem de grandeza, do que já se sabia no corpus
+  por outra via sobre o financiamento do filme 'Dark Horse' e a colaboração de Antonio Carlos Freixo Júnior
+  ('Mineiro'), sem que Wagner cite essa fonte especificamente. Negou qualquer recurso da Bahia ou de fundo
+  de previdência baiano aplicado no Master.
+document_ids: []
+source_ids:
+- src-bnews-2026-09-08-sabatina-wagner-bolsonaro-campos-neto-marginal
+excerpt: É por isso que Daniel deu esse presentão para o Flávio Bolsonaro, foi setenta e tantos milhões...
+  Esse rapaz mente de manhã, de tarde, de noite.
+attributed_to: Jaques Wagner, em entrevista à BNews
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

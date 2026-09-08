@@ -1,0 +1,18 @@
+id: ev-sete-municipios-paulistas-nao-quatro-238mi
+kind: evidence
+classification: C
+proposition: 'A representação do MPC-SP sobre RPPS expostos ao Banco Master cobre SETE municípios paulistas,
+  não quatro: Araras, Cajamar, Santo Antônio de Posse, Santa Rita d''Oeste (já citados no corpus), mais
+  São Roque (R$ 93,15 milhões, já mapeado separadamente), Brodowski (R$ 10 milhões em Letras Financeiras
+  + R$ 5 milhões no Fundo Texas) e Fernão (R$ 3 milhões) — elevando a exposição total documentada pelo
+  órgão de controle para R$ 238,15 milhões.'
+document_ids: []
+source_ids:
+- src-conam-2026-mpcsp-tcesp-rpps-master-texas
+- src-cnnbrasil-2026-mpsp-apura-4-cidades-master
+date: '2026'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

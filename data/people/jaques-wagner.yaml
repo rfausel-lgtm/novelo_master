@@ -73,33 +73,49 @@ open_questions:
   é a BN Representações Tecnológicas, antiga Vamos Florir Comércio de Flores. Os valores também se reconciliam:
   R$ 3,5 milhões é uma transferência documentada de outubro de 2025; R$ 11 milhões, o acumulado alegado
   de 2022 a 2025. O número de R$ 5,5 milhões não existe nos autos.'
+- 'Valores apreendidos na busca de 18/06/2026 (US$ 55 mil, € 33 mil): defesa alega origem lícita e pede
+  anulação da medida ao STF — pendente de decisão.'
+- Mendonça registrou, ao publicizar a Pet 16.210, uma coincidência tratada como possível indício de vazamento
+  (pedido de audiência de investigado no mesmo dia da chegada das representações da PF) — sem conclusão
+  sobre autoria.
+- A representação por quebra de decoro contra ele, no Conselho de Ética do Senado, não avança por paralisia
+  estrutural do próprio órgão desde 2024 — não por decisão específica sobre o mérito do caso.
+- Em entrevista de 08/09/2026, atribuiu o escândalo a Bolsonaro/Campos Neto, chamou Vorcaro de 'marginal'
+  e citou 'setenta e tantos milhões' como valor dado por Vorcaro a Flávio Bolsonaro.
 source_ids:
-- src-poder360-2026-06-18-nona-fase-wagner
-- src-senado-2024-08-14-pec-65-adiada
-- src-metropoles-2026-01-24-wagner-mantega
-- src-senado-2026-06-25-wagner-deixa-lideranca
-- src-poder360-2026-06-24-wagner-deixa-lideranca
-- src-poder360-2026-07-31-pf-wagner-relatorio
-- src-poder360-2026-08-27-lula-defende-wagner
-- src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+- src-acordacidade-2026-08-28-lula-defende-wagner
+- src-agenciabrasil-2026-06-18-wagner-nega-vantagens
 - src-agenciabrasil-2026-08-07-wagner-depoimento-adiado
 - src-anoticiadovale-2026-09-02-wagner-inocencia-eleicoes
-- src-acordacidade-2026-08-28-lula-defende-wagner
+- src-bnews-2026-09-08-sabatina-wagner-bolsonaro-campos-neto-marginal
 - src-congresso-mpv-1106-2022-emendas
-- src-metropoles-2026-06-pf-wagner-interlocutor-relevante
 - src-infomoney-2026-06-pgr-foi-contra-pf-apreensao-wagner
-- src-poder360-2026-apartamento-poeme-horto-wagner
-- src-agenciabrasil-2026-06-18-wagner-nega-vantagens
+- src-jbrasilia-2026-06-22-wagner-pede-anular-busca-apreensao
+- src-metropoles-2026-01-24-wagner-mantega
+- src-metropoles-2026-06-pf-wagner-interlocutor-relevante
+- src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
 - src-minhareceita-bn-financeira-cnpj
-- src-stf-pet-16229-decisao-9a-fase-pdf
+- src-otempo-2026-07-31-novo-quebra-decoro-wagner-conselho-etica
+- src-otempo-2026-08-07-pf-desmarca-depoimento-wagner
 - src-pf-representacao-9a-fase-wagner-pdf
+- src-poder360-2026-06-18-nona-fase-wagner
+- src-poder360-2026-06-24-wagner-deixa-lideranca
+- src-poder360-2026-07-30-mendonca-torna-publica-investigacao-wagner
+- src-poder360-2026-07-31-pf-wagner-relatorio
+- src-poder360-2026-08-27-lula-defende-wagner
+- src-poder360-2026-apartamento-poeme-horto-wagner
+- src-quenty-2026-09-06-conselho-etica-senado-paralisado
+- src-senado-2024-08-14-pec-65-adiada
+- src-senado-2026-06-25-wagner-deixa-lideranca
+- src-stf-pet-16229-decisao-9a-fase-pdf
+- src-stfnoticias-2026-06-18-9afase-autoriza-sp-ba-df
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Jaques_Wagner
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'
 photo:
   path: /fotos/jaques-wagner.jpg
   source: Wikimedia Commons

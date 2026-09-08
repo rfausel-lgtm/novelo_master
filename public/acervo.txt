@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-08T18:43:52.130Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-08T19:12:21.107Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -288,6 +288,7 @@ ORG|ambipar|Ambipar|company|É alvo de duas linhas distintas de apuração da Co
 ORG|ametrino-participacoes|Ametrino Participações|company|É uma das empresas que compõem a rede societária mais ampla de Andréa Lima Novaes, administradora do CredCesta, com participação formal da própria PKL One Participações como sócia.
 ORG|aparecidaprev|Instituto de Previdência de Aparecida de Goiânia|public_body|Segundo regime próprio de previdência em que se documenta a atuação direta da mesma representante do Banco Master, e caso em que a aplicação ocorreu apesar de o colegiado ter recusado a mudança de regra que a viabilizaria.
 POSIÇÃO|aparecidaprev|clarification|Em audiência na Câmara Municipal, em 08/12/2025, a autarquia informou que, como o conselho não aprovou a operação, a assessoria de investimentos não emitiu parecer e não houve documento formal de aprovação; que se habilitou como credora na liquidação, com cré…
+ORG|araprev-araras|Serviço de Previdência Social do Município de Araras (Araprev)|public_body|É um dos RPPS paulistas expostos ao Master, com apuração administrativa própria (não judicial) já aberta pelo município.
 ORG|asseba|ASSEBA — Associação dos Servidores da Saúde do Estado da Bahia|association|Associação por meio da qual, segundo relatório do Coaf, transitaram R$ 140,1 milhões entre o Estado da Bahia e o Banco Master — e que a PF aponta, junto com a Asteba, como origem fictícia citada pelo Master para os créditos de R$ 12,2 bilhões revendidos ao BRB pela Tirreno.
 ORG|associacao-nacional-de-jornais|Associação Nacional de Jornais|association|Reagiu institucionalmente, em nome dos jornais brasileiros, ao plano de intimidação contra um jornalista revelado na investigação.
 ORG|associacao-nacional-delegados-pf|Associação Nacional dos Delegados de Polícia Federal|association|É a entidade que formalizou o pedido de impedimento contra o PGR em meio à crise institucional gerada pelo relatório da PF sobre o celular de Vorcaro.
@@ -309,6 +310,8 @@ POSIÇÃO|barci-de-moraes-sociedade-de-advogados|clarification|Em nota de 09/03/
 ORG|bn-financeira|BN Financeira|company|É apontada em decisão pública do STF como empresa ligada ao núcleo familiar de Jaques Wagner e alvo do segundo eixo da apuração.
 POSIÇÃO|bn-financeira|denial|Por seu sócio e advogado Moisés Dantas dos Santos: o serviço 'não foi de consultoria, mas de prospecção e indicação, em caráter de exclusividade, de operações e convênios de crédito consignado', prestado de 2022 a 2025; 'todos os recursos recebidos pela BN Fi…
 ORG|bn-representacoes-tecnologicas|BN Representações Tecnológicas Ltda.|company|Segunda empresa da mesma sócia alcançada pela suspensão de atividades determinada pelo STF, e cuja mudança de ramo e de endereço precedeu em poucos meses a operação.
+ORG|brodowski-previdencia|Regime Próprio de Previdência de Brodowski|public_body|É um dos dois municípios adicionais (junto com Fernão) que ampliam de cinco para sete o número de RPPS paulistas documentados como expostos ao Master pelo MPC-SP.
+ORG|cajamar-previdencia|Instituto de Previdência Social dos Servidores de Cajamar (IPSSC)|public_body|É o RPPS paulista com a maior exposição individual entre os quatro originalmente citados pelo MPC-SP, com investigação da PF e ação popular civil próprias, distintas da representação do MPC-SP.
 ORG|camara-dos-deputados|Câmara dos Deputados|public_body|É a Casa onde tramita o requerimento de CPI do Banco Master objeto do MS 40791.
 ORG|camara-legislativa-do-distrito-federal|CLDF|public_body|Aprovou a autorização legislativa para o BRB comprar participação no Banco Master.
 ORG|coaf|Coaf|public_body|Autor dos relatórios de inteligência financeira, noticiados pela imprensa, que documentam transferências ligadas ao caso.
@@ -328,6 +331,7 @@ POSIÇÃO|empresa-baiana-de-alimentos|clarification|A assessoria do senador Jaqu
 ORG|entre-investimentos-e-participacoes|Entre Investimentos e Participações|company|Empresa de onde partiram, segundo a imprensa, os recursos de Daniel Vorcaro para o fundo que financiou 'Dark Horse'.
 ORG|epitome-sa|Epítome S.A.|company|É apontada em decisão pública do STF como a compradora formal do imóvel examinado no primeiro eixo da 9ª fase da Compliance Zero.
 ORG|felipe-santa-cruz-advogados|Felipe Santa Cruz Advogados|law_firm|É o escritório do ex-presidente da OAB que recebeu pagamentos do Master, num valor bem menor que o de outros escritórios citados na mesma leva de dados.
+ORG|fernao-previdencia|Regime Próprio de Previdência de Fernão|public_body|É um dos dois municípios adicionais (junto com Brodowski) que ampliam de cinco para sete o número de RPPS paulistas documentados como expostos ao Master pelo MPC-SP.
 ORG|fgc|Fundo Garantidor de Créditos|association|É a entidade que arcou, em primeira instância, com o custo financeiro direto da falência do conglomerado Master perante os credores cobertos — o que dimensiona o tamanho real do rombo e quem, por ora, paga a conta.
 ORG|foco-dtvm|Foco DTVM|financial_institution|Administradora do fundo cuja compra de um terreno supervalorizado ajudou a lastrear a capacidade econômica apresentada por Vorcaro ao Banco Central, e nó recorrente em outras frentes do caso.
 POSIÇÃO|foco-dtvm|clarification|Por sua assessoria, a Sefer declarou que todas as operações 'observam rigorosamente a legislação do mercado de capitais' e são 'lícitas, regulares e pautadas por critérios técnicos', negando que as pessoas citadas em reportagens sejam cotistas dos fundos.
@@ -350,6 +354,8 @@ ORG|instituto-conhecer-brasil|Instituto Conhecer Brasil|association|Firmou com a
 POSIÇÃO|instituto-conhecer-brasil|denial|Karina Ferreira da Gama, que preside a entidade, nega os crimes de organização criminosa, evasão de divisas e lavagem de dinheiro.
 ORG|instituto-iter|Instituto ITER|association|Local do encontro entre o ministro André Mendonça e Daniel Vorcaro em março de 2025, segundo a imprensa.
 ORG|instituto-orbis|Instituto Orbis|association|Organização apontada, em reportagem investigativa, como destinatária de dados de usuários do WiFi Livre SP repassados pelo Instituto Conhecer Brasil para pesquisas de satisfação.
+ORG|iprem-santa-rita-doeste|Instituto de Previdência Municipal de Santa Rita d'Oeste|public_body|A sobreposição de nome ('Texas I') e do ativo-âncora (ações da Ambipar) com o mecanismo Texas I FIA já mapeado no caso Rioprevidência (compra coordenada para inflar artificialmente o preço) é forte indício — não confirmado por nenhuma fonte — de que se trata do mesmo fundo ou de fundo da mesma família/estratégia.
+ORG|iprem-santo-antonio-de-posse|Instituto de Previdência Municipal de Santo Antônio de Posse (Iprem-Posse)|public_body|É um dos RPPS paulistas com investigação própria da PF (Operação Moral Hazard), e cujo caso revelou a suspeita de que a consultoria Crédito e Mercado — já mapeada em Congonhas e Maceió — tenha controlador oculto ligado à 'Farra do INSS'.
 ORG|iprev-maceio|Instituto de Previdência dos Servidores do Município de Maceió (Iprev)|public_body|É um dos regimes próprios de previdência expostos ao Master ainda não mapeado no corpus, com a mesma consultoria e o mesmo executivo (Renan Foglia Calamia) já identificados em outro caso (Congonhas) — reforçando o padrão de atuação da Crédito e Mercado em múltiplos RPPS.
 ORG|itaprevi-itaguai|Itaguaí Previdência|public_body|Regime próprio cujo processo de credenciamento do Banco Master foi examinado documento a documento por tribunal de contas, produzindo a constatação de que o parecer que aprovou o banco foi escrito pelo banco.
 ORG|jbs|JBS|company|Foi, ao lado do Banco Master, pagadora da consultoria que repassou valores ao escritório do filho de um ministro do STF, segundo a imprensa.
