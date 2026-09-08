@@ -2,9 +2,11 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Logo } from "@/components/ui/Logo";
 import { ThemeToggle } from "@/components/ui/ThemeToggle";
+
+import { MOBILE_QUERY } from "@/lib/graph/mobile";
 
 const NAV = [
   { href: "/grafo", label: "Grafo" },
@@ -20,16 +22,34 @@ const NAV = [
 
 export function SiteHeader() {
   const rota = usePathname();
-  const menuRef = useRef<HTMLDetailsElement | null>(null);
-  /* O <details> ficava aberto depois de navegar; fecha ao trocar de rota. */
+  const menuRef = useRef<HTMLDialogElement | null>(null);
+  const triggerRef = useRef<HTMLButtonElement | null>(null);
+  const [menuOpen, setMenuOpen] = useState(false);
+  const closeMenu = () => menuRef.current?.close();
   useEffect(() => {
-    if (menuRef.current) menuRef.current.open = false;
+    menuRef.current?.close();
   }, [rota]);
+  useEffect(() => {
+    const mq = window.matchMedia(MOBILE_QUERY);
+    const closeOnDesktop = () => {
+      if (!mq.matches) menuRef.current?.close();
+    };
+    mq.addEventListener("change", closeOnDesktop);
+    return () => mq.removeEventListener("change", closeOnDesktop);
+  }, []);
+  useEffect(() => {
+    if (!menuOpen) return;
+    const previous = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.body.style.overflow = previous;
+    };
+  }, [menuOpen]);
 
   const ativo = (href: string) => rota === href || rota.startsWith(`${href}/`);
 
   return (
-    <header className="border-border bg-bg/85 sticky top-0 z-40 border-b backdrop-blur">
+    <header className="site-header border-border bg-bg/95 z-40 border-b backdrop-blur">
       <div className="mx-auto flex h-14 max-w-7xl items-center justify-between gap-4 px-4 sm:px-6">
         <Link
           href="/"
@@ -37,7 +57,7 @@ export function SiteHeader() {
           aria-label="O Novelo Master, página inicial"
         >
           <Logo className="h-7 w-7" />
-          <span className="text-fg text-sm font-semibold tracking-[0.18em] uppercase">
+          <span className="text-fg text-sm font-semibold tracking-[0.10em] uppercase">
             O Novelo Master
           </span>
         </Link>
@@ -58,32 +78,78 @@ export function SiteHeader() {
           ))}
           <ThemeToggle className="ml-2" />
         </nav>
-        <details ref={menuRef} className="relative md:hidden">
-          <summary
-            className="text-fg-2 hover:text-fg cursor-pointer list-none rounded px-3 py-1.5 text-sm"
-            aria-label="Abrir menu"
-          >
-            Menu
-          </summary>
-          <nav
-            aria-label="Principal (móvel)"
-            className="border-border bg-bg-2 absolute right-0 mt-2 flex w-48 flex-col rounded-md border p-1 shadow-xl"
-          >
-            {NAV.map((item) => (
-              <Link
-                key={item.href}
-                href={item.href}
-                aria-current={ativo(item.href) ? "page" : undefined}
-                className={`rounded px-3 py-2 text-sm ${
-                  ativo(item.href) ? "text-fg bg-bg-3" : "text-fg-2 hover:text-fg hover:bg-bg-3"
-                }`}
-              >
-                {item.label}
-              </Link>
+        <button
+          ref={triggerRef}
+          type="button"
+          className="mobile-menu-trigger md:hidden"
+          aria-expanded={menuOpen}
+          aria-controls="mobile-navigation"
+          aria-haspopup="dialog"
+          onClick={() => {
+            menuRef.current?.showModal();
+            setMenuOpen(true);
+          }}
+        >
+          <span aria-hidden="true">☰</span> Menu
+        </button>
+        <dialog
+          ref={menuRef}
+          id="mobile-navigation"
+          className="mobile-navigation"
+          aria-labelledby="mobile-navigation-title"
+          onClick={(event) => {
+            if (event.target === event.currentTarget) closeMenu();
+          }}
+          onClose={() => {
+            setMenuOpen(false);
+            if (triggerRef.current?.getClientRects().length) triggerRef.current.focus();
+          }}
+        >
+          <div className="mobile-navigation-heading">
+            <span id="mobile-navigation-title" className="font-semibold">
+              O Novelo Master
+            </span>
+            <button
+              type="button"
+              onClick={closeMenu}
+              className="mobile-menu-trigger"
+              aria-label="Fechar menu"
+            >
+              Fechar ×
+            </button>
+          </div>
+          <nav aria-label="Principal (móvel)" className="mobile-navigation-links">
+            {[
+              {
+                title: "Explorar",
+                items: [...NAV.slice(0, 5), { href: "/rede", label: "Rede em tabela" }],
+              },
+              { title: "Fontes e metodologia", items: NAV.slice(5, 7) },
+              { title: "Sobre o projeto", items: NAV.slice(7) },
+            ].map((group) => (
+              <div key={group.title} className="mobile-navigation-group">
+                <p className="text-fg-3 mb-1 text-xs font-medium tracking-wider uppercase">
+                  {group.title}
+                </p>
+                {group.items.map((item) => (
+                  <Link
+                    key={item.href}
+                    href={item.href}
+                    onClick={closeMenu}
+                    aria-current={ativo(item.href) ? "page" : undefined}
+                  >
+                    {item.label}
+                    <span aria-hidden="true">{ativo(item.href) ? "●" : "↗"}</span>
+                  </Link>
+                ))}
+              </div>
             ))}
-            <ThemeToggle className="mt-1 self-start" />
+            <div className="border-border border-t pt-4">
+              <p className="text-fg-3 mb-2 text-xs">Aparência</p>
+              <ThemeToggle />
+            </div>
           </nav>
-        </details>
+        </dialog>
       </div>
     </header>
   );
