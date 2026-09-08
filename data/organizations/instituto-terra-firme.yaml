@@ -1,0 +1,39 @@
+id: instituto-terra-firme
+kind: organization
+name: Instituto Terra Firme
+aliases: []
+org_type: association
+summary: Associação privada sem fins lucrativos (CNPJ 52.354.258/0001-90, aberta em 14/09/2023, sede em
+  Salvador-BA), presidida por Flávia Peres — ex-deputada federal, ex-titular da Secretaria de Governo
+  no governo Bolsonaro (então Flávia Arruda), hoje esposa de Augusto Ferreira Lima. Segundo dado da Receita
+  Federal citado pela imprensa, o Banco Master repassou R$ 457,2 mil à entidade em dois anos — repasse
+  que Flávia Peres nega formalmente. Foi alvo de busca e apreensão da PF em 18/06/2026, na 9ª fase da
+  Operação Compliance Zero, autorizada pelo ministro André Mendonça, com foco declarado na relação entre
+  Augusto Lima e o senador Jaques Wagner. Segundo reportagem do Jornal Grande Bahia, o instituto administraria
+  também a Asseba — associação já documentada no corpus como tendo recebido R$ 140,1 milhões do Estado
+  da Bahia e repassado R$ 101,3 milhões ao Banco Master —, mas essa alegação de gestão compartilhada não
+  foi reconciliada com o registro já existente no corpus, segundo o qual a dirigente estatutária da Asseba
+  é Maria Helena Santos Ferreira, com Augusto Lima atuando como procurador.
+why_in_novelo: É a associação presidida pela esposa de Augusto Lima, destinatária de repasses do Banco
+  Master segundo dado da Receita Federal, e alvo de busca da PF cujo foco declarado foi a relação entre
+  Lima e o senador Jaques Wagner — sem que isso implique investigação contra a própria presidente.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A alegação (Jornal Grande Bahia) de que o Instituto Terra Firme administraria a Asseba não foi reconciliada
+  com o registro já existente no corpus sobre a governança estatutária da Asseba (Maria Helena Santos
+  Ferreira como dirigente, Augusto Lima como procurador) — pode refletir uma camada de gestão de fato
+  não estatutária, ou imprecisão de uma das fontes; não verificado.
+- O repasse de R$ 457,2 mil do Master é, segundo a mesma reportagem, negado formalmente por Flávia Peres;
+  não há decisão de mérito nem documento primário da Receita Federal lido diretamente pela equipe.
+source_ids:
+- src-minhareceita-2026-09-instituto-terra-firme-cnpj
+- src-metropoles-2026-04-09-master-repassou-ong-flavia-peres-receita
+- src-terrabrasilnoticias-2026-06-18-instituto-flavia-peres-buscas-pf
+- src-folhadealagoas-2026-06-18-instituto-terra-firme-busca-pf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

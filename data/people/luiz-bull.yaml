@@ -15,9 +15,21 @@ why_in_novelo: É o segundo nome, além de Augusto Lima, citado no documento ap�
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Em depoimento à PF, disse ter assinado documentos sem lê-los, alegando não ter formação jurídica nem
+  em compliance — declaração relevante para apurar se houve falha estrutural ou conduta dolosa, sem que
+  o corpus tome partido sobre essa distinção.
+- Foi preso na primeira fase da Compliance Zero (18/11/2025); teve um Porsche financiado pelo Safra apreendido
+  pela PF e, posteriormente, autorizada busca civil pelo credor após parar de pagar as parcelas alegando
+  bloqueio judicial de contas.
+- Não foi localizada ligação direta e documentada com Augusto Lima além do vínculo institucional comum
+  como diretores do Banco Master, ambos investigados na Compliance Zero — o corpus não infla essa relação
+  além do que as fontes sustentam.
 source_ids:
+- src-agenciabrasil-2026-01-pf-ouve-ex-diretor-riscos-master
+- src-cnnbrasil-2026-01-luiz-bull-assinava-documentos-sem-ler
 - src-gazetadopovo-2026-03-11-dossie-fraudes-master-alvos
+- src-metropoles-2026-05-19-master-porsche-safra-bull
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'

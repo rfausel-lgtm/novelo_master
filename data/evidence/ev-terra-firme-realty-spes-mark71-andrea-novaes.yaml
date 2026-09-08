@@ -1,0 +1,19 @@
+id: ev-terra-firme-realty-spes-mark71-andrea-novaes
+kind: evidence
+classification: A
+proposition: A Terra Firme Realty S.A. é sócia de cinco SPEs administradas por Gustavo Amorim Araújo —
+  Morro da Barra, Mark 71, Rsp 70, Barra Lodge e Gavazza Empreendimentos —, sendo que na Mark 71 Empreendimento
+  Imobiliário Andréa Lima Novaes consta como sócia/administradora ao lado de Gustavo Amorim Araújo, conectando
+  a holding imobiliária de Augusto Lima em Salvador à mesma administradora que geriu a PKL One Participações
+  (CredCesta). Fonte é agregador privado de dados públicos de CNPJ, não confirmado por consulta direta
+  e independente à Receita Federal para cada SPE — tratado como classe A até verificação primária.
+document_ids: []
+source_ids:
+- src-advdinamico-2026-09-terra-firme-realty-socios-spes
+attributed_to: Adv Dinâmico (agregador de dados públicos de CNPJ), consulta de 09/2026
+date: '2026-09-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,19 @@
+id: ev-andrea-novaes-suspeita-transferencia-3-5mi-familia-wagner
+kind: evidence
+classification: I
+proposition: A PF suspeita, segundo reportagem de fonte única não lida por completo, que Andréa Lima Novaes
+  tenha transferido R$ 3,5 milhões a entidade ligada à família do senador Jaques Wagner, com possível
+  fluxo entre a PKL One Participações e a BN Financeira. Mantida no grafo como alegação fraca — sem verificação
+  direta do texto integral da matéria nem de documento primário —, para permitir reavaliação de peso à
+  medida que novos lotes tragam corroboração ou refutação, conforme a política editorial do acervo de
+  não pré-filtrar alegações por notoriedade da fonte.
+document_ids: []
+source_ids:
+- src-dcm-2026-06-enteado-wagner-cobrou-gestor-master-pf
+inference_basis: Fonte jornalística única, obtida via resumo de busca sem leitura direta do texto integral;
+  sem documento primário da PF localizado. Classificada como inferência fraca até verificação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

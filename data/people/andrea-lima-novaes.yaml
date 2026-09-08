@@ -20,12 +20,20 @@ why_in_novelo: É a administradora, por trás da PKL One Participações, do pro
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- A PF suspeita, segundo fonte jornalística única não lida por completo, que tenha transferido R$ 3,5
+  milhões a entidade ligada à família do senador Jaques Wagner — alegação fraca, mantida no corpus para
+  reavaliação, sem documento primário localizado.
+- É sócia/administradora, ao lado de Gustavo Amorim Araújo, da SPE Mark 71 Empreendimento Imobiliário
+  — uma das cinco sociedades da Terra Firme Realty (holding imobiliária de Augusto Lima em Salvador),
+  conectando-a também a essa estrutura, além da já documentada PKL One.
 source_ids:
+- src-advdinamico-2026-09-terra-firme-realty-socios-spes
+- src-dcm-2026-06-enteado-wagner-cobrou-gestor-master-pf
 - src-minhareceita-2026-09-05-andrea-lima-novaes-empresas
 - src-minhareceita-2026-09-05-pkl-one-participacoes-cnpj
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-05'
 created_at: '2026-09-05'
-updated_at: '2026-09-05'
+updated_at: '2026-09-06'

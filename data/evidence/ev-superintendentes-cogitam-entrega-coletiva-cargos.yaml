@@ -1,0 +1,18 @@
+id: ev-superintendentes-cogitam-entrega-coletiva-cargos
+kind: evidence
+classification: I
+proposition: Parte dos 27 superintendentes regionais da PF debatia internamente, em 08/09/2026, a possibilidade
+  de entrega coletiva de cargos em solidariedade a Andrei Rodrigues — mas trata-se de debate interno reportado
+  pela imprensa, não de nota formal ou decisão coletiva; a maioria dos chefes regionais, segundo a mesma
+  reportagem, prega cautela e defende aguardar os desdobramentos jurídicos.
+document_ids: []
+source_ids:
+- src-brasil247-2026-09-08-superintendentes-cogitam-entrega-cargos
+inference_basis: Reportagem única (Brasil 247) descrevendo debate interno ainda sem desfecho, sem nota
+  oficial formalizada — classificada como inferência sobre um processo em curso, não como fato consumado.
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,21 @@
+id: ev-2turma-maioria-3a0-antes-vista-gilmar
+kind: evidence
+classification: C
+proposition: Em sessão virtual extraordinária da 2ª Turma do STF iniciada às 10h de 08/09/2026, os ministros
+  Luiz Fux e Nunes Marques acompanharam o voto do relator André Mendonça, formando maioria de 3 a 0 para
+  manter o afastamento cautelar de Andrei Rodrigues, antes de Gilmar Mendes pedir vista às 10h05 — interrompendo
+  a formalização do resultado, com Dias Toffoli ainda sem votar. Pelo regimento interno do STF, Gilmar
+  Mendes tem até 90 dias para devolver a vista; o pedido de vista não suspende os efeitos da decisão monocrática,
+  que permanece válida enquanto o julgamento colegiado não é concluído.
+document_ids: []
+source_ids:
+- src-migalhas-2026-09-08-maioria-afasta-andrei-gilmar-pede-vista
+- src-terra-2026-09-08-o-que-acontece-apos-gilmar-pedir-vista
+- src-conjur-2026-09-08-gilmar-pede-vista-referendo-afastamento
+excerpt: O afastamento de Andrei Rodrigues é garantido, continua valendo. É um afastamento cautelar.
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

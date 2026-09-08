@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-08T19:51:09.346Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-08T20:04:17.629Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -130,6 +130,7 @@ PESSOA|felipe-wallace-simonsen|Felipe Wallace Simonsen|Integrante do grupo de co
 PESSOA|fernanda-nechio|Fernanda Nechio|Diretora de Assuntos Internacionais e de Gestão de Riscos Corporativos do Banco Central (2019-)|Uma das oito diretoras do Banco Central que aprovaram, por unanimidade, a venda do Máxima a Daniel Vorcaro.
 PESSOA|fernanda-pereira-da-silva-machado|Fernanda Pereira da Silva Machado|Advogada; ex-gerente de controle interno do Rioprevidência e ex-presidente do Itaprevi|É o vetor humano documentado entre dois regimes próprios: assinou o credenciamento do banco em um fundo e passou a dirigir outro, onde as aplicações começaram no mês de sua posse.
 PESSOA|flavia-peres|Flávia Peres|Ex-deputada federal (DF); ex-secretária de Governo do governo Bolsonaro|É a atual esposa de Augusto Lima, figura política de projeção nacional (ex-deputada federal, ex-ministra de fato como titular da Secretaria de Governo) — conexão relevante para mapear a rede de relações do ex-sócio do Master, sem que isso implique qualquer imputação a ela própria.
+POSIÇÃO|flavia-peres|denial|Negou formalmente, em nota à Metrópoles, qualquer relação financeira entre o Instituto Terra Firme (que preside) e o Banco Master: 'Não há qualquer relação financeira que envolva repasses, dependência econômica ou subordinação entre as instituições.'
 PESSOA|flavio-bolsonaro|Flávio Bolsonaro|Senador (PL-RJ); candidato à Presidência da República em 2026|Aparece em mensagens e áudios, divulgados pela imprensa, tratando com Daniel Vorcaro do financiamento do filme 'Dark Horse'; sua posição pública está registrada.
 POSIÇÃO|flavio-bolsonaro|version|Afirmou que se tratava de 'um filho procurando investidores privados para fazer um filme privado sobre a história do seu próprio pai', sem dinheiro público, e que conheceu Vorcaro em dezembro de 2024, quando 'não havia absolutamente nenhuma acusação contra el…
 POSIÇÃO|flavio-bolsonaro|clarification|À GloboNews, admitiu ter negado a relação ('Eu menti'), alegando cláusula de confidencialidade com investidores, sem apresentar o contrato; prometeu prestação de contas em 30 dias.
@@ -356,6 +357,7 @@ ORG|instituto-conhecer-brasil|Instituto Conhecer Brasil|association|Firmou com a
 POSIÇÃO|instituto-conhecer-brasil|denial|Karina Ferreira da Gama, que preside a entidade, nega os crimes de organização criminosa, evasão de divisas e lavagem de dinheiro.
 ORG|instituto-iter|Instituto ITER|association|Local do encontro entre o ministro André Mendonça e Daniel Vorcaro em março de 2025, segundo a imprensa.
 ORG|instituto-orbis|Instituto Orbis|association|Organização apontada, em reportagem investigativa, como destinatária de dados de usuários do WiFi Livre SP repassados pelo Instituto Conhecer Brasil para pesquisas de satisfação.
+ORG|instituto-terra-firme|Instituto Terra Firme|association|É a associação presidida pela esposa de Augusto Lima, destinatária de repasses do Banco Master segundo dado da Receita Federal, e alvo de busca da PF cujo foco declarado foi a relação entre Lima e o senador Jaques Wagner — sem que isso implique investigação contra a própria presidente.
 ORG|iprem-santa-rita-doeste|Instituto de Previdência Municipal de Santa Rita d'Oeste|public_body|A sobreposição de nome ('Texas I') e do ativo-âncora (ações da Ambipar) com o mecanismo Texas I FIA já mapeado no caso Rioprevidência (compra coordenada para inflar artificialmente o preço) é forte indício — não confirmado por nenhuma fonte — de que se trata do mesmo fundo ou de fundo da mesma família/estratégia.
 ORG|iprem-santo-antonio-de-posse|Instituto de Previdência Municipal de Santo Antônio de Posse (Iprem-Posse)|public_body|É um dos RPPS paulistas com investigação própria da PF (Operação Moral Hazard), e cujo caso revelou a suspeita de que a consultoria Crédito e Mercado — já mapeada em Congonhas e Maceió — tenha controlador oculto ligado à 'Farra do INSS'.
 ORG|iprev-maceio|Instituto de Previdência dos Servidores do Município de Maceió (Iprev)|public_body|É um dos regimes próprios de previdência expostos ao Master ainda não mapeado no corpus, com a mesma consultoria e o mesmo executivo (Renan Foglia Calamia) já identificados em outro caso (Congonhas) — reforçando o padrão de atuação da Crédito e Mercado em múltiplos RPPS.

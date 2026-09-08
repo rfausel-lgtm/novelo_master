@@ -16,8 +16,13 @@ why_in_novelo: É uma das holdings pessoais de Augusto Lima, usada para repassar
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- É sócia de cinco SPEs administradas por Gustavo Amorim Araújo (Morro da Barra, Mark 71, Rsp 70, Barra
+  Lodge, Gavazza) — na Mark 71, Andréa Lima Novaes (ex-administradora da PKL One Participações/CredCesta)
+  consta como sócia/administradora ao lado de Araújo, conforme agregador de dados públicos de CNPJ não
+  confirmado por consulta direta e independente à Receita Federal.
 source_ids:
+- src-advdinamico-2026-09-terra-firme-realty-socios-spes
 - src-metropoles-milena-teixeira-augusto-lima-predios-odebrecht
 review_status: published
 reviewer: orquestrador

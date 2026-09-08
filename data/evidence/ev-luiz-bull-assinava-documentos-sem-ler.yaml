@@ -1,0 +1,18 @@
+id: ev-luiz-bull-assinava-documentos-sem-ler
+kind: evidence
+classification: C
+proposition: Luiz Bull, ex-diretor de Riscos, Compliance, RH, Operações e Tecnologia do Banco Master,
+  disse em depoimento à PF que assinava documentos sem lê-los, alegando não ter formação jurídica nem
+  em compliance e que equipes técnicas analisavam os documentos antes de chegarem a ele — declaração relevante
+  para apurar se houve falha estrutural de compliance ou conduta dolosa, sem que o corpus tome partido
+  sobre essa distinção.
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-01-luiz-bull-assinava-documentos-sem-ler
+- src-agenciabrasil-2026-01-pf-ouve-ex-diretor-riscos-master
+date: 2026-01
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
