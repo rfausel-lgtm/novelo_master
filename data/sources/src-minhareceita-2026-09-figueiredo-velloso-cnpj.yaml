@@ -1,0 +1,22 @@
+id: src-minhareceita-2026-09-figueiredo-velloso-cnpj
+kind: source
+title: Registro cadastral da Figueiredo & Velloso Advogados Associados S/S — Receita Federal
+publisher: Receita Federal do Brasil
+publication_date: 2026-09
+retrieved_at: '2026-09-06'
+url: https://minhareceita.org/11428814000148
+source_type: corporate_registry
+summary: CNPJ 11.428.814/0001-48, razão social 'FIGUEIREDO & VELLOSO ADVOGADOS ASSOCIADOS S/S', aberta
+  em 11/12/2009, sede em Brasília (Lago Sul). QSA lista Ticiano Figueiredo de Oliveira como sócio-administrador
+  desde 06/05/2010 e Pedro Ivo Rodrigues Velloso Cordeiro como sócio-administrador desde 24/06/2015, entre
+  21 sócios cadastrados no total.
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

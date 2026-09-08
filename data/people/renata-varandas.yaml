@@ -14,7 +14,12 @@ summary: Jornalista, ex-Record e ex-CNN, hoje na SBT News (programa 'Poder em Fo
   e se Andrei tinha conhecimento, não respondeu até a publicação (08/09/2026). Não há, em nenhuma fonte
   com lastro documental equivalente, prova de pagamento pessoal a ela distinto de sua remuneração como
   sócia do escritório — uma alegação de 'contrato milionário' pessoal, de veículo de menor rigor editorial,
-  não é sustentada pelo próprio texto que a veicula.
+  não é sustentada pelo próprio texto que a veicula. Confirmado, por CNPJ oficial, que a Figueiredo &
+  Velloso Advogados — banca em que é sócia — é a mesma pessoa jurídica que defendeu Augusto Ferreira Lima,
+  um dos dois investigados centrais da Compliance Zero, desde a prisão dele (18/11/2025) até a renúncia
+  da banca ao caso (04-05/08/2026) — sobreposição de cerca de 8,5 meses com sua presença na banca. Não
+  há indício de que ela tenha atuado nesse caso especificamente; sua atuação profissional conhecida é
+  para a Ambipar.
 why_in_novelo: É a namorada do diretor-geral afastado da PF, com atuação profissional registrada de lobby
   para uma empresa investigada pela própria corporação que ele dirigia — conflito de interesse potencial,
   sem que nenhuma fonte tenha até aqui atribuído a Andrei qualquer ação ou omissão concreta decorrente
@@ -24,8 +29,12 @@ cited_position:
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions: []
 source_ids:
-- src-poder360-2026-09-08-namorada-andrei-lobby-ambipar
+- src-chambers-2026-figueiredo-e-velloso-advogados-profile
+- src-gazetadoparana-2026-exclusivo-escritorio-namorada-andrei-defende-socio-vorcaro
+- src-migalhas-2025-01-31-renata-varandas-nova-socia-fv
+- src-minhareceita-2026-09-figueiredo-velloso-cnpj
 - src-poder360-2025-01-31-renata-varandas-vira-lobista
+- src-poder360-2026-09-08-namorada-andrei-lobby-ambipar
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'

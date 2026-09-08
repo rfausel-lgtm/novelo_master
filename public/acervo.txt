@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-08T19:12:21.107Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-08T19:51:09.346Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -239,6 +239,7 @@ POSIÇÃO|paulo-gonet|version|Pediu o arquivamento das denúncias de ameaça fei
 PESSOA|paulo-henrique-costa|Paulo Henrique Costa|Ex-presidente do Banco de Brasília (BRB)|Presidiu o BRB no período em que o banco adquiriu carteiras de crédito do Banco Master e teve prisão preventiva decretada pelo STF em fase da Operação Compliance Zero.
 PESSOA|paulo-sergio-neves-de-souza|Paulo Sérgio Neves de Souza|Diretor de Fiscalização do Banco Central (2019-2023)|Dirigiu a área de fiscalização do Banco Central no período de supervisão do banco e é alvo de medidas cautelares determinadas pelo STF na investigação.
 POSIÇÃO|paulo-sergio-neves-de-souza|denial|Negou vantagem indevida e afirmou que não simulou a venda de um sítio, dizendo que o negócio foi feito a valor de mercado.
+PESSOA|pedro-ivo-velloso|Pedro Ivo Rodrigues Velloso Cordeiro|Advogado criminalista; sócio-fundador da Figueiredo & Velloso Advogados|É o segundo sócio-fundador da banca no centro dessa sobreposição — mesma ressalva do sócio Ticiano Figueiredo, sem indício de conduta irregular pessoal.
 PESSOA|pedro-malan|Pedro Malan|Ex-presidente do Banco Central e ex-ministro da Fazenda; consultor|Uma consultoria ligada a ele foi contratada pelo Banco Master, segundo dados fiscais encaminhados à CPI do Crime Organizado.
 PESSOA|plinio-valerio|Plínio Valério|Senador (PSDB-AM), relator da PEC 65/2023|É o relator da PEC 65/2023, à qual foi apresentada a emenda sobre o FGC citada pela Polícia Federal.
 PESSOA|renan-foglia-calamia|Renan Foglia Calamia|Executivo da Crédito e Mercado|É quem propõe a compra de letras financeiras na ata de um dos quatro regimes próprios em que a auditoria federal teria identificado pareceres idênticos.
@@ -264,6 +265,7 @@ PESSOA|thiago-miranda|Thiago Miranda|Publicitário; ex-sócio e ex-CEO do Grupo 
 POSIÇÃO|thiago-miranda|version|Em depoimento à PF em 12/05/2026, confirmou o plano com influenciadores para defender o Master, mas disse que sua atuação se limitava a fechar contratos e repassar recursos; confirmou ter ajudado na captação para 'Dark Horse'.
 POSIÇÃO|thiago-miranda|denial|Nota da defesa em 09/07/2026: refuta de forma categórica a prática de qualquer ilegalidade, nega conduta destinada a intimidar, coagir ou violar direitos de terceiros e afirma estar à disposição das autoridades.
 PESSOA|thiago-rodrigues-de-faria|Thiago Rodrigues de Faria|Ex-assessor e advogado do deputado Nikolas Ferreira|Citado nas mensagens entre Nikolas Ferreira e Daniel Vorcaro reveladas na crise institucional de setembro de 2026, e nomeado no pedido de investigação apresentado à PGR.
+PESSOA|ticiano-figueiredo-de-oliveira|Ticiano Figueiredo de Oliveira|Advogado criminalista; sócio-fundador da Figueiredo & Velloso Advogados|É um dos dois sócios-fundadores da banca que, ao mesmo tempo em que empregava a namorada do diretor-geral da PF, defendia um dos dois investigados centrais da própria operação conduzida por essa corporação — sem que nenhuma fonte associe Ticiano Figueiredo pessoalmente a qualquer conduta irregular decorrente disso.
 PESSOA|valeria-vieira-pereira-da-silva|Valéria Vieira Pereira da Silva|Delegada da Polícia Federal em Minas Gerais|Apontada pela PF como a delegada que acessou indevidamente o inquérito que interessava à família Vorcaro.
 POSIÇÃO|valeria-vieira-pereira-da-silva|denial|O advogado Bruno Correia Lemos negou o vazamento, sustentando que o acesso aos sistemas da PF é controlado por matrícula funcional e que nem ela nem o marido estavam cadastrados no procedimento citado: 'não é possível que um agente público não cadastrado em u…
 PESSOA|valerio-marega-junior|Valério Marega Júnior|Empresário citado na decisão da 9ª fase como acionado para operacionalizar a aquisição do apartamento|É nomeado em decisão pública do STF como quem teria sido acionado para operacionalizar a compra do imóvel no centro do primeiro eixo da investigação sobre Jaques Wagner.

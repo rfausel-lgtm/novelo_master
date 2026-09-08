@@ -1,0 +1,28 @@
+id: ticiano-figueiredo-de-oliveira
+kind: person
+name: Ticiano Figueiredo de Oliveira
+category: lawyer
+role: Advogado criminalista; sócio-fundador da Figueiredo & Velloso Advogados
+positions: []
+summary: Advogado criminalista, sócio-administrador da Figueiredo & Velloso Advogados Associados desde
+  06/05/2010 (CNPJ 11.428.814/0001-48) — a mesma banca em que Renata Varandas, namorada do diretor-geral
+  afastado da PF, Andrei Rodrigues, é sócia da área de comunicação desde 31/01/2025. Integrou, junto com
+  Pedro Ivo Velloso, a defesa de Augusto Ferreira Lima desde a prisão dele (18/11/2025) até renunciar
+  ao caso em 04-05/08/2026.
+why_in_novelo: É um dos dois sócios-fundadores da banca que, ao mesmo tempo em que empregava a namorada
+  do diretor-geral da PF, defendia um dos dois investigados centrais da própria operação conduzida por
+  essa corporação — sem que nenhuma fonte associe Ticiano Figueiredo pessoalmente a qualquer conduta irregular
+  decorrente disso.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-minhareceita-2026-09-figueiredo-velloso-cnpj
+- src-timesbrasil-2026-08-04-augusto-lima-troca-advogados-nega-delacao
+- src-chambers-2026-figueiredo-e-velloso-advogados-profile
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

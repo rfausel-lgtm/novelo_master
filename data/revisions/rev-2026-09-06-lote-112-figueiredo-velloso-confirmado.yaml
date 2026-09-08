@@ -1,0 +1,24 @@
+id: rev-2026-09-06-lote-112-figueiredo-velloso-confirmado
+kind: revision
+date: '2026-09-06'
+title: 'Lote 112 — confirmado: a namorada de Andrei trabalhava na mesma banca que defendia Augusto Lima'
+summary: 'Verificação cruzada, feita pela própria equipe a partir de dois achados publicados em lotes
+  anteriores (107 e 109), confirma por CNPJ oficial: a Figueiredo & Velloso Advogados, onde Renata Varandas
+  (namorada de Andrei Rodrigues) é sócia desde 31/01/2025, é a mesma banca que defendeu Augusto Ferreira
+  Lima — um dos dois investigados centrais da Compliance Zero — desde sua prisão até a renúncia da banca
+  em agosto de 2026. Sobreposição de cerca de 8,5 meses. Nenhuma fonte associa Renata diretamente ao caso
+  de Lima, e nenhuma das partes se manifestou sobre essa segunda coincidência de interesse potencial,
+  distinta do lobby para a Ambipar já registrado.'
+affected_ids:
+- andrei-rodrigues
+- renata-varandas
+- augusto-lima
+- banco-master
+- ticiano-figueiredo-de-oliveira
+- pedro-ivo-velloso
+reason: Verificação cruzada iniciada pelo editor entre dois achados já publicados pela equipe.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

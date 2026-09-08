@@ -1,0 +1,25 @@
+id: doc-2026-09-06-pedido-mendonca-julgamento-plenario
+kind: document
+title: Pedido de Mendonça para julgamento do caso Moraes/Gonet pelo plenário do STF
+doc_type: judicial_filing
+date: '2026-09-06'
+source_ids:
+- src-poder360-2026-09-06-mendonca-libera-caso-julgamento-plenario
+summary: Pedido formal, protocolado em 06/09/2026 (domingo), para que o plenário completo do STF — não
+  apenas o presidente Fachin — analise o caso da acusação de Moraes contra Mendonça, com base no art.
+  5º do RISTF (competência do plenário para julgar ministros e o PGR por crimes comuns).
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- alexandre-de-moraes
+- paulo-gonet
+- edson-fachin
+issuer_id: andre-mendonca
+issuer: André Mendonça (STF)
+date_precision: day
+url: https://www.poder360.com.br/poder-justica/mendonca-libera-caso-de-moraes-e-gonet-para-julgamento-no-plenario-do-stf/
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
