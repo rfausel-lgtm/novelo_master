@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { IBM_Plex_Sans, IBM_Plex_Mono } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 import { SITE } from "@/lib/site";
 import { SiteHeader } from "@/components/layout/SiteHeader";
@@ -86,6 +87,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     >
       <head>
         <script dangerouslySetInnerHTML={{ __html: TEMA_INICIAL }} />
+        <Script
+          strategy="afterInteractive"
+          type="module"
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon='{"token": "ad1892765eeb44a29a675b7f2a9ff4c3"}'
+        />
       </head>
       <body className="bg-bg text-fg flex min-h-full flex-col">
         <a

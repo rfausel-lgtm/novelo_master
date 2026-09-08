@@ -27,6 +27,14 @@ tem acesso restrito apenas ao repositório `novelo_master`.
 4. `public/_headers` é copiado para `out/_headers` e aplica CSP e demais cabeçalhos automaticamente.
 5. Domínio personalizado: adicione em Custom domains e aponte o DNS (CNAME) conforme instruído.
 
+### Acompanhamento de acessos
+
+O painel Cloudflare Pages (aba Analytics) já mostra visitas e requisições sem nenhuma
+configuração adicional. Para estatísticas por página (Cloudflare Web Analytics), o beacon está
+embutido em `src/app/layout.tsx` com o token do site; por isso o CSP em `public/_headers` libera
+`static.cloudflareinsights.com` (script) e `cloudflareinsights.com` (connect). O token do beacon
+não é segredo — ele é público em qualquer página que o use.
+
 ## GitHub Pages
 
 Adicione um workflow com `actions/configure-pages`, `npm run build` e `actions/upload-pages-artifact`
@@ -43,7 +51,7 @@ server {
     root /var/www/novelo/out;
     index index.html;
 
-    add_header Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; worker-src 'self' blob:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests" always;
+    add_header Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; worker-src 'self' blob:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests" always;
     add_header X-Content-Type-Options nosniff always;
     add_header X-Frame-Options DENY always;
     add_header Referrer-Policy strict-origin-when-cross-origin always;
