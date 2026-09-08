@@ -46,11 +46,15 @@ open_questions:
 - O corpus não contém o contrato de confidencialidade mencionado pelo senador.
 - Os inquéritos no STF (relatores André Mendonça e Flávio Dino) não foram lidos pela equipe; o corpus
   registra apenas a descrição da imprensa.
+- A colaboração premiada de Antonio Carlos Freixo Júnior ('Mineiro'), fechada em 03/09/2026, alega repasses
+  relacionados a ele dentro de uma movimentação de cerca de US$ 1 bilhão para Vorcaro — alegação do colaborador,
+  não confirmada por prova independente, e sem manifestação pública dele especificamente sobre esse ponto.
 source_ids:
-- src-congressoemfoco-2026-05-15-duvidas-filme
-- src-cartacapital-2026-09-01-novo-repasse-dark-horse
+- src-brasil247-2026-delator-bomba-1-bilhao-vorcaro
 - src-cartacapital-2026-09-01-flavio-evita-explicar
+- src-cartacapital-2026-09-01-novo-repasse-dark-horse
 - src-cnn-2026-09-dark-horse-coaf
+- src-congressoemfoco-2026-05-15-duvidas-filme
 - src-gazeta-2026-07-09-operacao-dark-horse
 - src-metropoles-2026-06-produtora-dark-horse-75-milhoes
 full_name: Flávio Nantes Bolsonaro
@@ -60,7 +64,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'
 photo:
   path: /fotos/flavio-bolsonaro.jpg
   source: Wikimedia Commons

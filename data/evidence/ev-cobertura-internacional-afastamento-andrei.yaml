@@ -1,0 +1,16 @@
+id: ev-cobertura-internacional-afastamento-andrei
+kind: evidence
+classification: C
+proposition: 'O afastamento de Andrei Rodrigues teve cobertura internacional: a agência espanhola EFE
+  noticiou o fato, distribuído também via veículos do Chile (Cooperativa.cl) e da Colômbia (La República);
+  a Reuters também cobriu o episódio em português.'
+document_ids: []
+source_ids:
+- src-infobae-2026-09-08-efe-suspende-director-pf
+- src-investingcom-2026-09-08-reuters-mendonca-afasta-andrei
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

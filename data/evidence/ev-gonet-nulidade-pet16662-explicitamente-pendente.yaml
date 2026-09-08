@@ -1,0 +1,21 @@
+id: ev-gonet-nulidade-pet16662-explicitamente-pendente
+kind: evidence
+classification: D
+proposition: 'O próprio despacho de Fachin de 03/09/2026 confirma que o pedido de Gonet (01/09/2026) para
+  anular a Pet 16.662 e reconhecer nulidade da ordem de investigação não foi decidido — Fachin amarrou
+  expressamente sua apreciação à conclusão da instrução complementar (as manifestações das quatro pessoas
+  chamadas). Trecho literal: ''Posteriormente, vieram aos autos parecer da Procuradoria Geral da República
+  opinando pela extinção da Pet em pauta. [...] Ao lado da apreciação posterior de eventuais vícios de
+  forma, decorrentes da dúvida suscitada pela PGR, as informações ali trazidas pela Polícia Federal, se
+  reconhecidas, recomendam seja cumprido o dever da Presidência do Supremo Tribunal Federal de velar pelas
+  prerrogativas do Tribunal.'''
+document_ids:
+- doc-2026-09-03-despacho-fachin-pet-16704
+source_ids:
+- src-stf-despacho-fachin-2026-09-03-pet-16704
+date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,18 @@
+id: ev-ninguem-se-manifestou-formalmente-ate-08set
+kind: evidence
+classification: C
+proposition: Até 08/09/2026, nenhuma das quatro pessoas chamadas por Fachin (Moraes, Mendonça, Gonet,
+  Andrei Rodrigues) havia apresentado manifestação formal por escrito nas duas trilhas da Pet 16.704 —
+  o prazo comum vence em 11/09/2026 (sexta-feira), data mais precisa que a estimativa anterior de 'por
+  volta de 10/09' registrada no corpus. O prazo sequencial (Gonet, depois Mendonça) só começa a correr
+  após a apresentação do parecer de Gonet, cuja data não foi localizada.
+document_ids: []
+source_ids:
+- src-jornalpassaporte-2026-09-08-fachin-aguarda-explicacoes-sexta
+- src-migalhas-2026-09-03-fachin-cinco-dias-pet-16704
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

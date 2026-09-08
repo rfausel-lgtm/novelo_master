@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-08T14:18:40.385Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-08T14:34:47.604Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -282,6 +282,7 @@ ORG|aparecidaprev|Instituto de Previdência de Aparecida de Goiânia|public_body
 POSIÇÃO|aparecidaprev|clarification|Em audiência na Câmara Municipal, em 08/12/2025, a autarquia informou que, como o conselho não aprovou a operação, a assessoria de investimentos não emitiu parecer e não houve documento formal de aprovação; que se habilitou como credora na liquidação, com cré…
 ORG|asseba|ASSEBA — Associação dos Servidores da Saúde do Estado da Bahia|association|Associação por meio da qual, segundo relatório do Coaf, transitaram R$ 140,1 milhões entre o Estado da Bahia e o Banco Master — e que a PF aponta, junto com a Asteba, como origem fictícia citada pelo Master para os créditos de R$ 12,2 bilhões revendidos ao BRB pela Tirreno.
 ORG|associacao-nacional-de-jornais|Associação Nacional de Jornais|association|Reagiu institucionalmente, em nome dos jornais brasileiros, ao plano de intimidação contra um jornalista revelado na investigação.
+ORG|associacao-nacional-delegados-pf|Associação Nacional dos Delegados de Polícia Federal|association|É a entidade que formalizou o pedido de impedimento contra o PGR em meio à crise institucional gerada pelo relatório da PF sobre o celular de Vorcaro.
 ORG|asteba|Associação dos Servidores Técnico-Administrativo e Afins do Estado da Bahia|association|É uma das duas associações apontadas pela Polícia Federal como peça central de dois esquemas distintos e conexos: a fabricação de lastro para o consignado baiano e a origem fictícia dos créditos revendidos ao BRB pela Tirreno.
 ORG|banco-btg-pactual|BTG Pactual|financial_institution|É mencionado em mensagens de Vorcaro sobre a venda do Master ao BRB e apresentou nota sobre sua atuação.
 POSIÇÃO|banco-btg-pactual|denial|Nunca houve interesse na aquisição do Banco Master; atuação limitada a ativos não problemáticos para liquidez em janelas pontuais.

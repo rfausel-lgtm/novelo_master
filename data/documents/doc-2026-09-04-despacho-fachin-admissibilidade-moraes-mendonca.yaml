@@ -1,0 +1,29 @@
+id: doc-2026-09-04-despacho-fachin-admissibilidade-moraes-mendonca
+kind: document
+title: Despacho de Fachin sobre a admissibilidade do procedimento de Moraes contra Mendonça
+doc_type: judicial_decision
+date: '2026-09-04'
+source_ids:
+- src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
+summary: 'Segundo despacho de Fachin na Pet 16.704, distinto do de 03/09: abre trilha sequencial e mais
+  restrita, tratando especificamente da admissibilidade da acusação que Moraes apresentou contra Mendonça
+  (oriunda do Inq 4.781/DF) — primeiro vista à PGR (5 dias úteis), depois, sucessivamente, manifestação
+  de Mendonça (mais 5 dias úteis).'
+is_official: true
+related_entity_ids:
+- edson-fachin
+- paulo-gonet
+- andre-mendonca
+- alexandre-de-moraes
+issuer_id: supremo-tribunal-federal
+issuer: Ministro Edson Fachin, Presidente do STF
+date_precision: day
+url: https://static.poder360.com.br/uploads/2026/09/fachin-investigacao-mendonca-inquerito-fake-news-4set26.pdf
+excerpt: À Procuradoria-Geral da República, dê-se vista para que, no prazo de 5 (cinco) dias úteis, apresente
+  parecer acerca da admissibilidade e da regularidade do procedimento [...]. Sucessivamente, ao Ministro
+  André Mendonça, faculte-se, no prazo de 5 (cinco) dias úteis, a apresentação de manifestação [...].
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
