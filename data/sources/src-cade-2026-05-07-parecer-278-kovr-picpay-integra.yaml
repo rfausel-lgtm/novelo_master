@@ -1,0 +1,29 @@
+id: src-cade-2026-05-07-parecer-278-kovr-picpay-integra
+kind: source
+title: Parecer nº 278/2026/CGAA5/SGA1/SG — Ato de Concentração PicPay/Kovr/Estrutural
+publisher: Conselho Administrativo de Defesa Econômica (Cade)
+publication_date: '2026-05-07'
+retrieved_at: '2026-09-06'
+url: https://uploads.finsidersbrasil.com.br/2026/05/SEI_CADE-1748173-Parecer.pdf
+source_type: official_regulator
+summary: 'Parecer da Superintendência-Geral do Cade (Processo nº 08700.001346/2026-97), assinado por Alexandre
+  Barreto de Souza e Felipe Neiva Mundim, aprovando sem restrições concorrenciais a compra da Kovr Participações
+  e da corretora Estrutural pelo PicPay Bank, mas apontando ''indícios que podem configurar a consumação
+  prévia de ato de concentração (gun jumping) e eventual triangulação financeira'' na sequência de venda:
+  em 19/09/2025, no mesmo dia em que compradores intermediários (ex-minoritários da Kovr) fecharam a compra
+  junto à Master Serviços (100% de Vorcaro) e a revenderam ao PicPay, o Banco PicPay e o Banco Original
+  concederam a esses intermediários crédito em valor ''exatamente'' igual ao preço de aquisição. O Cade
+  abriu procedimento apartado (APAC) e registrou que indícios de crime contra o sistema financeiro seriam
+  encaminhados a autoridades competentes, por escaparem de sua jurisdição.'
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+notes: Documento SEI/CADE nº 1748173, autenticável em https://sei.cade.gov.br/autentica com código 1748173
+  e CRC 6AC5F633.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,22 @@
+id: src-metropoles-2026-pf-consultoria-iprev-maceio-favorecer-master
+kind: source
+title: 'PF: consultoria do Iprev de Maceió atuou para favorecer Banco Master'
+publisher: Metrópoles (coluna Manoela Alcantara)
+publication_date: '2026'
+retrieved_at: '2026-09-06'
+url: https://www.metropoles.com/colunas/manoela-alcantara/pf-consultoria-do-iprev-de-maceio-atuou-para-favorecer-banco-master
+source_type: press
+summary: A PF aponta Renan Foglia Calamia, executivo da consultoria Crédito e Mercado — já identificado
+  no corpus como o consultor que propôs a compra de Master na ata da Prevcon/Congonhas —, como suspeito
+  de 'omitir alertas de segurança para favorecer' a aplicação de R$ 97 milhões do Iprev de Maceió no Master.
+  A Crédito e Mercado nega, por nota, qualquer participação nos dois casos.
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

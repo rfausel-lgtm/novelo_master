@@ -1,0 +1,21 @@
+id: ev-novos-rpps-iprev-maceio-sao-roque-quatro-mpcsp
+kind: evidence
+classification: C
+proposition: 'Identificados pelo menos seis regimes próprios de previdência expostos ao Master não antes
+  mapeados no corpus: Iprev de Maceió (R$ 97-117 milhões, PF em 10/08/2026), São Roque Prev (R$ 93,15
+  milhões, CPI municipal), e quatro RPPS paulistas formalizados pelo MPC-SP — Araras (R$ 29 milhões),
+  Cajamar (R$ 87 milhões), Santo Antônio de Posse (R$ 7 milhões) e Santa Rita d''Oeste (R$ 2 milhões,
+  mais exposição ao fundo Texas I). O levantamento de 18 RPPS/R$ 1,867 bilhão já registrado no corpus
+  (nov/2025) parece hoje subestimado — não há mapeamento oficial completo e público mais recente. Em pelo
+  menos dois dos novos casos (Congonhas, já no corpus, e Iprev de Maceió), a mesma consultoria (Crédito
+  e Mercado) e o mesmo executivo (Renan Foglia Calamia) aparecem recorrentemente.'
+document_ids: []
+source_ids:
+- src-correiobraziliense-2026-08-pf-mira-iprev-maceio
+- src-jornalcruzeiro-2026-07-cpi-sao-roque-rombo-113-milhoes
+- src-mpcsp-2026-alerta-institutos-rpps-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

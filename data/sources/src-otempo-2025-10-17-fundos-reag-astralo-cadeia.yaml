@@ -1,0 +1,21 @@
+id: src-otempo-2025-10-17-fundos-reag-astralo-cadeia
+kind: source
+title: 'SAF do Atlético e Vorcaro: fundos citados pelo MP em investigação contra o PCC movimentam bilhões'
+publisher: O Tempo
+publication_date: '2025-10-17'
+retrieved_at: '2026-09-06'
+url: https://www.otempo.com.br/economia/2025/10/17/saf-do-atletico-e-vorcaro-fundos-citados-pelo-mp-em-investigacao-contra-o-pcc-movimentam-bilhoes
+source_type: press
+summary: 'Descreve a cadeia de fundos-sobre-fundos administrados pela Reag: Olaf 95 → Hans 95 → Alepo
+  95 → Maia 95 → Astralo 95 → Galo Forte FIP, cada nível com cotista único, estrutura apontada pela imprensa
+  como desenhada para dificultar a identificação do beneficiário final.'
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
