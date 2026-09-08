@@ -1,0 +1,33 @@
+id: renata-varandas
+kind: person
+name: Renata Varandas
+category: journalist
+role: Jornalista (SBT News); sócia de relações governamentais do escritório Figueiredo & Velloso Advogados
+positions: []
+summary: Jornalista, ex-Record e ex-CNN, hoje na SBT News (programa 'Poder em Foco'). Desde janeiro de
+  2025, sócia de comunicação/relações governamentais do escritório Figueiredo & Velloso Advogados. Namorada
+  pública, desde pelo menos 31/01/2025, do diretor-geral afastado da Polícia Federal, Andrei Rodrigues.
+  Consta em registros oficiais do e-Agendas (CGU) em quatro reuniões federais ao longo de 2026 (fevereiro,
+  março, maio e julho) representando a Ambipar — empresa investigada na Operação Compliance Zero —, aparecendo
+  em três delas como 'Diretora de Relações Governamentais' da empresa. É lobby formal e registrado em
+  sistema público, não alegação de atuação informal. Procurada pelo Poder360 sobre a natureza do vínculo
+  e se Andrei tinha conhecimento, não respondeu até a publicação (08/09/2026). Não há, em nenhuma fonte
+  com lastro documental equivalente, prova de pagamento pessoal a ela distinto de sua remuneração como
+  sócia do escritório — uma alegação de 'contrato milionário' pessoal, de veículo de menor rigor editorial,
+  não é sustentada pelo próprio texto que a veicula.
+why_in_novelo: É a namorada do diretor-geral afastado da PF, com atuação profissional registrada de lobby
+  para uma empresa investigada pela própria corporação que ele dirigia — conflito de interesse potencial,
+  sem que nenhuma fonte tenha até aqui atribuído a Andrei qualquer ação ou omissão concreta decorrente
+  disso.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-09-08-namorada-andrei-lobby-ambipar
+- src-poder360-2025-01-31-renata-varandas-vira-lobista
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

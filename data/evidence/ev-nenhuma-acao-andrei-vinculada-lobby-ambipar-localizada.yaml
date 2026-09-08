@@ -1,0 +1,22 @@
+id: ev-nenhuma-acao-andrei-vinculada-lobby-ambipar-localizada
+kind: evidence
+classification: I
+proposition: 'Não foi localizada, em nenhuma fonte disponível, qualquer ação, omissão, reunião ou decisão
+  de Andrei Rodrigues especificamente vinculada ao relacionamento com Renata Varandas ou ao lobby dela
+  para a Ambipar. Seu afastamento cautelar em 08/09/2026 (Pet 16.662) teve motivo diverso e já apurado
+  no corpus por leitura direta da decisão (lote 105): monitoramento ilícito do ministro André Mendonça
+  pela PF, matéria que Mendonça tratou expressamente como não relacionada às alegações do Partido Novo.
+  A sobreposição temporal entre o relacionamento, o lobby e a gestão de Andrei na PF é real e documentada,
+  mas não configura, por si só, prova de conduta irregular dele — é indício de conflito de interesse potencial,
+  registrado como tal.'
+document_ids: []
+source_ids:
+- src-poder360-2026-09-08-namorada-andrei-lobby-ambipar
+inference_basis: Sobreposição temporal comprovada (relacionamento público desde 2025, lobby registrado
+  ao longo de 2026, gestão de Andrei na PF desde 01/01/2023, todos coincidentes) combinada com ausência
+  de qualquer fonte que atribua a ele ato concreto decorrente dessa relação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

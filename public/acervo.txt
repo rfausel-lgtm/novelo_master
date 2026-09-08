@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-08T15:13:50.660Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-08T18:17:09.383Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -243,6 +243,7 @@ PESSOA|pedro-malan|Pedro Malan|Ex-presidente do Banco Central e ex-ministro da F
 PESSOA|plinio-valerio|Plínio Valério|Senador (PSDB-AM), relator da PEC 65/2023|É o relator da PEC 65/2023, à qual foi apresentada a emenda sobre o FGC citada pela Polícia Federal.
 PESSOA|renan-foglia-calamia|Renan Foglia Calamia|Executivo da Crédito e Mercado|É quem propõe a compra de letras financeiras na ata de um dos quatro regimes próprios em que a auditoria federal teria identificado pareceres idênticos.
 POSIÇÃO|renan-foglia-calamia|denial|Por meio da consultoria, sustenta que a empresa não direcionou os aportes, nunca foi consultada sobre os investimentos no Master, e que sua participação se limitou a uma reunião remota de apresentação de cenário econômico.
+PESSOA|renata-varandas|Renata Varandas|Jornalista (SBT News); sócia de relações governamentais do escritório Figueiredo & Velloso Advogados|É a namorada do diretor-geral afastado da PF, com atuação profissional registrada de lobby para uma empresa investigada pela própria corporação que ele dirigia — conflito de interesse potencial, sem que nenhuma fonte tenha até aqui atribuído a Andrei qualquer ação ou omissão concreta decorrente disso.
 PESSOA|renato-breia|Renato Breia|Sócio da consultoria Nord Investimentos|Apontado, em decisão judicial da Operação Compliance Zero, como alvo de pedido de retirada de conteúdo a mando de Daniel Vorcaro.
 PESSOA|ricardo-lewandowski|Ricardo Lewandowski|Ex-ministro do STF; ex-ministro da Justiça (2024 a jan/2026); advogado|Seu escritório prestou serviços ao Banco Master, fato confirmado por ele em nota, segundo a CNN Brasil.
 POSIÇÃO|ricardo-lewandowski|clarification|Confirmou a prestação de serviço ao Master; retirou-se do escritório e suspendeu o registro na OAB ao assumir o ministério em janeiro de 2024; saída do ministério por motivos pessoais.
@@ -282,6 +283,7 @@ ORG|a-m-consultoria|A&M Consultoria|company|É o veículo pelo qual ACM Neto rec
 ORG|alagoas-previdencia|Alagoas Previdência|public_body|Único ente que publicou em acesso aberto o termo de credenciamento do Banco Master, permitindo verificar o documento que a auditoria federal descreve como escrito pelo próprio banco.
 ORG|amapa-previdencia|Amapá Previdência|public_body|Fundo previdenciário público que investiu R$ 400 milhões no Banco Master, o segundo maior aporte de entes públicos segundo a CNN, com aprovação sob investigação.
 POSIÇÃO|amapa-previdencia|public_note|Afirmou sentir-se 'lesada pelos malfeitos do banco Master', que 'não abre mão de ser ressarcida', que os recursos dos segurados estão protegidos e que se habilitou junto ao BC na liquidação.
+ORG|ambipar|Ambipar|company|É alvo de duas linhas distintas de apuração da Compliance Zero — manipulação de preço de ações (Texas I FIA) e venda de créditos podres ao BRB — e está no centro de um possível conflito de interesse envolvendo a namorada do diretor-geral afastado da PF.
 ORG|ametrino-participacoes|Ametrino Participações|company|É uma das empresas que compõem a rede societária mais ampla de Andréa Lima Novaes, administradora do CredCesta, com participação formal da própria PKL One Participações como sócia.
 ORG|aparecidaprev|Instituto de Previdência de Aparecida de Goiânia|public_body|Segundo regime próprio de previdência em que se documenta a atuação direta da mesma representante do Banco Master, e caso em que a aplicação ocorreu apesar de o colegiado ter recusado a mudança de regra que a viabilizaria.
 POSIÇÃO|aparecidaprev|clarification|Em audiência na Câmara Municipal, em 08/12/2025, a autarquia informou que, como o conselho não aprovou a operação, a assessoria de investimentos não emitiu parecer e não houve documento formal de aprovação; que se habilitou como credora na liquidação, com cré…

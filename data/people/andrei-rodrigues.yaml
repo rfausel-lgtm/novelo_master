@@ -95,6 +95,10 @@ open_questions:
   o monitoramento ilícito de Mendonça e do AGU pela PF — não as alegações de corrupção do Partido Novo
   baseadas no depoimento de Vorcaro, que Mendonça reservou expressamente para apuração posterior, sem
   se pronunciar sobre elas nesta decisão.
+- Sua namorada, a jornalista Renata Varandas, fez lobby formal e registrado (e-Agendas) para a Ambipar
+  — empresa investigada na própria Compliance Zero — em quatro reuniões federais ao longo de 2026. Nenhuma
+  fonte disponível atribui a ele qualquer ação ou omissão decorrente dessa relação; nenhuma das partes
+  (Ambipar, Renata, Andrei) respondeu à reportagem que revelou o caso.
 source_ids:
 - src-cnnbrasil-2026-08-28-andrei-pf-autonoma
 - src-cnnbrasil-2026-09-08-mendonca-afastamento-preventivo-pf
@@ -113,6 +117,7 @@ source_ids:
 - src-nsctotal-2026-09-08-quem-assume-pf-murad
 - src-pf-relatorio-ipj-3298613-2026-integra
 - src-piauihoje-2026-09-pgr-arquivamento-ameacas-vorcaro
+- src-poder360-2025-01-31-renata-varandas-vira-lobista
 - src-poder360-2026-02-14-andrei-londres
 - src-poder360-2026-03-10-degustacao-londres
 - src-poder360-2026-04-08-master-bancou-viagem-londres
@@ -123,6 +128,7 @@ source_ids:
 - src-poder360-2026-09-03-novo-pede-prisao-de-andrei
 - src-poder360-2026-09-08-gilmar-pede-vista-afastamento-andrei
 - src-poder360-2026-09-08-mendonca-afasta-andrei
+- src-poder360-2026-09-08-namorada-andrei-lobby-ambipar
 - src-poder360-2026-degustacao-macallan-londres
 - src-radiopampa-2026-09-investigadores-da-pf-rebatem
 - src-sbtnews-2026-09-08-mendonca-afasta-andrei
