@@ -1,9 +1,12 @@
 import { describe, it, expect } from "vitest";
 import { lintCorpus } from "../../scripts/lib/lint";
+import type { Corpus } from "../../src/lib/schema";
 import { minimalCorpus } from "./fixtures";
 
 const errors = (c: ReturnType<typeof minimalCorpus>) =>
-  lintCorpus(c).filter((i) => i.level === "error").map((i) => `${i.file}: ${i.message}`);
+  lintCorpus(c)
+    .filter((i) => i.level === "error")
+    .map((i) => `${i.file}: ${i.message}`);
 
 describe("lint editorial", () => {
   it("corpus mínimo válido não tem erros", () => {
@@ -78,7 +81,9 @@ describe("lint editorial", () => {
       created_at: "2026-09-01",
       updated_at: "2026-09-01",
     });
-    expect(errors(c).some((e) => e.includes("public-acts") && e.includes("verified incompatível"))).toBe(true);
+    expect(
+      errors(c).some((e) => e.includes("public-acts") && e.includes("verified incompatível")),
+    ).toBe(true);
   });
 
   it("avisa sobre prefixo de id fora da convenção", () => {
@@ -129,7 +134,9 @@ describe("lint editorial", () => {
   it("não avisa quando o termo vem qualificado como alegação", () => {
     const c = minimalCorpus();
     c.relationships[0].description = "Segundo a PF, haveria pagamento de propina.";
-    const warnings = lintCorpus(c).filter((i) => i.level === "warning" && i.message.includes("imputativo"));
+    const warnings = lintCorpus(c).filter(
+      (i) => i.level === "warning" && i.message.includes("imputativo"),
+    );
     expect(warnings).toEqual([]);
   });
 
@@ -153,5 +160,75 @@ describe("lint editorial", () => {
       updated_at: "2026-09-01",
     });
     expect(errors(c).some((e) => e.includes("causality_proven"))).toBe(true);
+  });
+});
+
+describe("duplicação de entidade", () => {
+  const pessoa = (id: string, name: string, extra: Record<string, unknown> = {}) => ({
+    id,
+    kind: "person" as const,
+    name,
+    aliases: [] as string[],
+    distinct_from: [] as string[],
+    category: "other" as const,
+    role: "Papel",
+    positions: [],
+    summary: "Resumo.",
+    why_in_novelo: "Frase.",
+    cited_position: [],
+    open_questions: [],
+    tags: [],
+    source_ids: [],
+    review_status: "published" as const,
+    created_at: "2026-09-09",
+    updated_at: "2026-09-09",
+    ...extra,
+  });
+  const comPessoas = (...pessoas: ReturnType<typeof pessoa>[]) =>
+    ({ ...minimalCorpus(), people: pessoas }) as unknown as Corpus;
+
+  it("bloqueia rótulo idêntico entre dois registros", () => {
+    const issues = lintCorpus(
+      comPessoas(pessoa("a", "Fulano de Tal"), pessoa("b", "fulano de tal")),
+    );
+    expect(issues.some((i) => i.level === "error" && /rótulo idêntico/.test(i.message))).toBe(true);
+  });
+
+  /* Foi o caso Sefer/Foco DTVM: os nomes não se parecem, o alias é que coincide. */
+  it("pega colisão entre nome de um e alias do outro", () => {
+    const issues = lintCorpus(
+      comPessoas(
+        pessoa("a", "Empresa X"),
+        pessoa("b", "Nome Diferente", { aliases: ["Empresa X"] }),
+      ),
+    );
+    expect(issues.some((i) => i.level === "error" && /rótulo idêntico/.test(i.message))).toBe(true);
+  });
+
+  /* Caso Felipe/Freixo: similaridade de texto não pega, tokens contidos pegam. */
+  it("avisa quando os tokens de um nome estão contidos no outro", () => {
+    const issues = lintCorpus(
+      comPessoas(pessoa("a", "Antonio Freixo"), pessoa("b", "Antônio Carlos Freixo Júnior")),
+    );
+    expect(issues.some((i) => /possível duplicata/.test(i.message))).toBe(true);
+  });
+
+  /* Caso Kevin x Nunes Marques: pai e filho, indistinguíveis por regra lexical. */
+  it("silencia o par quando um dos lados declara distinct_from", () => {
+    const issues = lintCorpus(
+      comPessoas(
+        pessoa("filho", "Kevin Nunes Marques", { distinct_from: ["pai"] }),
+        pessoa("pai", "Nunes Marques"),
+      ),
+    );
+    expect(issues.some((i) => /duplicata|rótulo idêntico/.test(i.message))).toBe(false);
+  });
+
+  it("não confunde pessoa com organização de nome parecido", () => {
+    const corpus = {
+      ...minimalCorpus(),
+      people: [pessoa("p", "Viviane Barci de Moraes")],
+    } as unknown as Corpus;
+    expect(lintCorpus(corpus).some((i) => /duplicata|rótulo idêntico/.test(i.message))).toBe(false);
   });
 });

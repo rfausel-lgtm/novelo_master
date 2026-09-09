@@ -150,6 +150,7 @@ DocumentType: `judicial_decision`, `judicial_filing`, `official_report`, `forens
 | name           | string          | sim               | Nome usual                                                                                       |
 | full_name      | string          | não               | Nome completo                                                                                    |
 | aliases        | string[]        | não (padrão `[]`) | Outras grafias e apelidos públicos                                                               |
+| distinct_from  | Id[]            | não (padrão `[]`) | Homônimos/parentes que NÃO são este registro; silencia o aviso de duplicata do lint              |
 | category       | PersonCategory  | sim               | Ver enum abaixo                                                                                  |
 | role           | string          | sim               | Cargo ou função principal no período relevante                                                   |
 | positions      | Position[]      | não (padrão `[]`) | `title` (obrigatório), `organization_id`, `organization`, `start_date`, `end_date`, `source_ids` |
@@ -166,25 +167,26 @@ PersonCategory: `banker`, `businessperson`, `politician`, `judge`, `prosecutor`,
 
 ### `organizations` (Organization)
 
-| Campo          | Tipo            | Obrigatório       | Descrição                        |
-| -------------- | --------------- | ----------------- | -------------------------------- |
-| id             | Id              | sim               | Nome em kebab                    |
-| kind           | `organization`  | sim               | Literal                          |
-| name           | string          | sim               | Nome usual                       |
-| full_name      | string          | não               | Razão social ou nome completo    |
-| aliases        | string[]        | não (padrão `[]`) | Outras denominações              |
-| org_type       | OrgType         | sim               | Ver enum abaixo                  |
-| cnpj           | string          | não               | Formato `00.000.000/0000-00`     |
-| jurisdiction   | string          | não               | Estado, país, foro               |
-| summary        | string          | sim               | Resumo factual                   |
-| why_in_novelo  | string          | sim               | Uma frase factual e neutra       |
-| photo          | Photo           | não               | Logotipo ou imagem com metadados |
-| place          | Place           | não               | Onde a organização fica          |
-| cited_position | CitedPosition[] | não (padrão `[]`) | Contraditório                    |
-| open_questions | string[]        | não (padrão `[]`) | Lacunas                          |
-| tags           | string[]        | não (padrão `[]`) | Etiquetas                        |
-| source_ids     | Id[]            | não (padrão `[]`) | Fontes do registro               |
-| external_ids   | objeto          | não               | `wikidata`, `wikipedia_pt`       |
+| Campo          | Tipo            | Obrigatório       | Descrição                                                                           |
+| -------------- | --------------- | ----------------- | ----------------------------------------------------------------------------------- |
+| id             | Id              | sim               | Nome em kebab                                                                       |
+| kind           | `organization`  | sim               | Literal                                                                             |
+| name           | string          | sim               | Nome usual                                                                          |
+| full_name      | string          | não               | Razão social ou nome completo                                                       |
+| aliases        | string[]        | não (padrão `[]`) | Outras denominações                                                                 |
+| distinct_from  | Id[]            | não (padrão `[]`) | Homônimos/parentes que NÃO são este registro; silencia o aviso de duplicata do lint |
+| org_type       | OrgType         | sim               | Ver enum abaixo                                                                     |
+| cnpj           | string          | não               | Formato `00.000.000/0000-00`                                                        |
+| jurisdiction   | string          | não               | Estado, país, foro                                                                  |
+| summary        | string          | sim               | Resumo factual                                                                      |
+| why_in_novelo  | string          | sim               | Uma frase factual e neutra                                                          |
+| photo          | Photo           | não               | Logotipo ou imagem com metadados                                                    |
+| place          | Place           | não               | Onde a organização fica                                                             |
+| cited_position | CitedPosition[] | não (padrão `[]`) | Contraditório                                                                       |
+| open_questions | string[]        | não (padrão `[]`) | Lacunas                                                                             |
+| tags           | string[]        | não (padrão `[]`) | Etiquetas                                                                           |
+| source_ids     | Id[]            | não (padrão `[]`) | Fontes do registro                                                                  |
+| external_ids   | objeto          | não               | `wikidata`, `wikipedia_pt`                                                          |
 
 OrgType: `company`, `financial_institution`, `public_body`, `court`, `party`, `fund`, `law_firm`, `media`, `association`, `other`. Empresas e órgãos públicos são subtipos de Organization ([ADR-0003](docs/adr/0003-modelo-de-evidencia.md)). No grafo, `company`, `fund` e `law_firm` são exibidos como "Empresa"; `public_body` e `court`, como "Órgão público".
 
@@ -351,6 +353,23 @@ carrega a sequência dos lotes.
 | author                | string       | não                | Autor                                                                                               |
 | title                 | string       | não                | Título curto, para listas; `summary` costuma ser um parágrafo                                       |
 | affected_ids          | Id[]         | não (padrão `[]`)  | Registros que a revisão tocou; viram links na home e em `/atualizacoes`                             |
+
+## Duplicação de entidade
+
+Duas sessões geram lotes em paralelo sem enxergar o que a outra criou, e o resultado é um segundo
+registro para a mesma pessoa ou organização — aconteceu no lote 123. O lint checa isso:
+
+- **Rótulo idêntico** depois de normalizar (nome ou alias de um igual a nome ou alias do outro, sem
+  acento, caixa ou pontuação) é **erro**. Pega o caso em que os nomes não se parecem e só o alias
+  coincide, como `sefer-investimentos` contra o alias "Sefer Investimentos" de `foco-dtvm`.
+- **Tokens contidos** (todas as palavras de um rótulo aparecem no outro, ignorando `de`, `da`,
+  `ltda`, `sa` e afins) é **aviso**. Pega "Antonio Freixo" dentro de "Antônio Carlos Freixo Júnior",
+  que a similaridade de texto não pega — os dois batem 0,70.
+
+Nenhuma regra lexical distingue duplicata de parentesco: "Kevin Nunes Marques" contém "Nunes
+Marques", e são pai e filho. Quando o par for legítimo, declare `distinct_from: [<id do outro>]` em
+um dos dois registros — basta um lado. A declaração é a afirmação editorial de que são entidades
+diferentes, e fica no registro, visível para quem ler o YAML.
 
 ## Regras do lint
 

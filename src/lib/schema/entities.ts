@@ -230,6 +230,13 @@ export const PersonSchema = z
     name: z.string().min(1),
     full_name: z.string().optional(),
     aliases: z.array(z.string()).default([]),
+    /**
+     * Homônimos e parentes que o lint acusaria como duplicata. Declarar aqui é a afirmação
+     * editorial "são pessoas/organizações diferentes" — o caso Kevin Nunes Marques x Nunes
+     * Marques (filho e pai) é indistinguível de uma duplicata por qualquer regra lexical.
+     * Basta um dos dois lados declarar.
+     */
+    distinct_from: z.array(IdSchema).default([]),
     category: PersonCategorySchema,
     /** Cargo/função principal no período relevante. */
     role: z.string().min(1),
@@ -289,6 +296,13 @@ export const OrganizationSchema = z
     name: z.string().min(1),
     full_name: z.string().optional(),
     aliases: z.array(z.string()).default([]),
+    /**
+     * Homônimos e parentes que o lint acusaria como duplicata. Declarar aqui é a afirmação
+     * editorial "são pessoas/organizações diferentes" — o caso Kevin Nunes Marques x Nunes
+     * Marques (filho e pai) é indistinguível de uma duplicata por qualquer regra lexical.
+     * Basta um dos dois lados declarar.
+     */
+    distinct_from: z.array(IdSchema).default([]),
     org_type: OrgTypeSchema,
     cnpj: z
       .string()
