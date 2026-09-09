@@ -1,0 +1,23 @@
+id: ev-acao-coletiva-feserp-ms-extinta-por-ilegitimidade
+kind: evidence
+classification: C
+proposition: 'A tentativa de tratar o problema coletivamente fracassou por questão processual. A federação
+  que reúne os servidores estaduais e municipais de Mato Grosso do Sul ajuizou, em 03/03/2026, ação civil
+  pública pedindo a suspensão dos descontos e dos repasses ao Banco Master e auditoria dos contratos.
+  O juízo da 2ª Vara de Direitos Difusos de Campo Grande extinguiu o feito sem exame do mérito, acolhendo
+  parecer da Procuradoria-Geral do Estado e do Ministério Público: federações não são substitutas processuais
+  dos filiados aos sindicatos que as compõem, e o direito discutido seria patrimonial e divisível, não
+  comportando que ''uma entidade de classe substitua a vontade individual de milhares de servidores sem
+  uma análise específica de adimplemento de cada mútuo''. Houve apelação, não julgada até setembro de
+  2026. Na prática, a suspensão que o Judiciário negou à via coletiva veio meses depois por vias administrativas
+  e pelo colapso do próprio convênio.'
+document_ids: []
+source_ids:
+- src-ojacare-2026-04-03-juiz-extingue-acao-feserp-consignados-master
+- src-midiamax-2026-justica-encerra-acao-consignados-master-servidores
+date: '2026-04-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,28 @@
+id: doc-2025-09-29-sentenca-corumba-0801486-pkl-one-master
+kind: document
+title: Sentença de Corumbá que condena PKL One e Banco Master solidariamente
+doc_type: judicial_decision
+date: '2025-09-29'
+source_ids:
+- src-tjms-2025-09-29-sentenca-corumba-0801486-condena-pkl-master
+summary: 'Sentença que rejeita na prática a separação entre a operadora e o banco: condena as duas solidariamente
+  à obrigação de limitar a 5% da remuneração bruta consignável os descontos lançados sob a rubrica do
+  cartão de benefício. É o tipo de decisão que sustenta, no plano individual, a tese que a via coletiva
+  não conseguiu levar adiante no estado.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+- banco-master
+issuer: 3ª Vara Cível de Corumbá (TJMS) — juiz Alan Robson de Souza Gonçalves
+url: https://esaj.tjms.jus.br/cjpg/
+reference: Processo 0801486-79.2025.8.12.0008 — 3ª Vara Cível de Corumbá
+excerpt: CONDENAR as requeridas PKL ONE PARTICIPAÇÕES S.A. e BANCO MASTER S.A., solidariamente, à obrigação
+  de fazer consistente em limitar os descontos mensais em folha de pagamento do(a) autor(a), a título
+  de 'Cartão Benefícios PKL Saque' ou rubrica equivalente, ao patamar máximo de 5% (cinco por cento) de
+  sua remuneração bruta mensal consignável
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

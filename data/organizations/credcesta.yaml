@@ -66,6 +66,12 @@ open_questions:
   demais, removeu o teto de vigência de 24 meses para convênios e moveu o produto para o inciso dispensado
   de autorização do governador — 25 dias antes de o Banco Master assinar convênio de cinco anos, com um
   signatário em comum entre as duas peças.'
+- 'A curva do litígio em Mato Grosso do Sul, medida na base pública de julgados do tribunal estadual,
+  acompanha o credenciamento: 5 julgados em 2023, ano em que o produto entrou na folha, 96 em 2024, 216
+  em 2025 e 114 nos oito primeiros meses de 2026. O primeiro grau vem rejeitando a tese de que a operadora
+  seria ''mera licenciadora'' do programa, condenando-a solidariamente com o banco. Em Mato Grosso, por
+  contraste, a trilha do CredCesta é estreita: o aparato repressivo estadual mira outro grupo empresarial,
+  e o produto entra por uma porta só — o credenciamento de maio de 2023.'
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -88,6 +94,10 @@ source_ids:
 - src-iomat-2023-05-05-decreto-257-2023-consignacoes
 - src-iomat-2023-06-01-extrato-convenio-026-seplag-master
 - src-doerj-2021-05-decreto-47625-cartao-beneficio
+- src-tjms-cjpg-2026-09-09-julgados-pkl-one-credcesta
+- src-stf-2026-adi-7900-decreto-legislativo-79-mt
+- src-stf-2026-adpf-1306-suspensao-consignacoes-seplag-mt
+- src-mpmt-2025-10-14-acp-consignados-capital-consig
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

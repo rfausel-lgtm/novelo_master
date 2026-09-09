@@ -1,0 +1,18 @@
+id: ev-convenio-005-2025-ms-parecer-referencial-generico-de-sindicatos
+kind: evidence
+classification: D
+proposition: A renovação de 2025 invoca como fundamento jurídico apenas um parecer referencial da Procuradoria-Geral
+  do Estado de 2020 — o mesmo que, na mesma página do diário oficial, embasa o credenciamento de duas
+  entidades sindicais. Não há manifestação jurídica individualizada sobre a empresa nem sobre a natureza
+  do produto, embora o objeto declarado já mencionasse expressamente o cartão consignado de benefício.
+document_ids:
+- doc-2025-03-12-extrato-convenio-005-2025-sad-ms-pkl
+source_ids:
+- src-doems-2025-03-12-extrato-convenio-005-2025-pkl
+excerpt: Parecer Referencial PGE/MS/PAA/n. 009/2020
+date: '2025-03-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -39,12 +39,24 @@ open_questions:
   tabelas — resultado obtido com controle metodológico. O dado converte em fato verificado o que o corpus
   registrava como alegação de parlamentares e de decisão judicial de primeira instância, e é coerente
   com seu CNAE principal de holding de instituições não-financeiras.'
+- Em Mato Grosso do Sul, o instrumento que abriu a folha estadual à empresa em março de 2023 declarava
+  como objeto o desconto de 'contribuições e mensalidades devidas por seus servidores filiados' — redação
+  de convênio com entidade sindical — e qualificava a convenente como 'Banco PKL One Participações S.A',
+  designação sem correspondência em qualquer autorização do Banco Central. O cartão consignado de benefício
+  só apareceu por escrito na renovação de 2025, que invoca como fundamento apenas um parecer referencial
+  genérico de 2020, o mesmo usado na mesma página do diário oficial para entidades sindicais. Esse convênio
+  segue formalmente vigente até 10/03/2027, sem nenhum ato de rescisão publicado.
 source_ids:
 - src-djen-cnj-agravo-3000060-09-2026-tjrj
 - src-metropoles-2026-08-15-pkl-one-credcesta-macapa
 - src-minhareceita-2026-09-05-pkl-one-participacoes-cnpj
 - src-poder360-2026-credcesta-arquitetura-e-privatizacao
 - src-bcb-olinda-2026-09-09-pkl-one-nao-consta-instituicoes-autorizadas
+- src-doems-2023-03-14-extrato-convenio-009-2023-pkl
+- src-doems-2025-03-12-extrato-convenio-005-2025-pkl
+- src-doems-2026-07-03-resolucao-sad-235-credenciamentos
+- src-tjms-cjpg-2026-09-09-julgados-pkl-one-credcesta
+- src-investigams-2026-09-05-credcesta-convenio-renovado-segue-vigente
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

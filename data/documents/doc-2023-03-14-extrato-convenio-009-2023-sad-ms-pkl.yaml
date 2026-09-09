@@ -1,0 +1,26 @@
+id: doc-2023-03-14-extrato-convenio-009-2023-sad-ms-pkl
+kind: document
+title: Extrato do Convênio de Consignação nº 009/2023 - SAD/MS — 'Banco PKL One'
+doc_type: contract
+date: '2023-03-14'
+source_ids:
+- src-doems-2023-03-14-extrato-convenio-009-2023-pkl
+summary: 'Primeiro credenciamento da PKL One em Mato Grosso do Sul. Dois elementos objetivos o distinguem:
+  a convenente é qualificada como ''Banco PKL One Participações S.A'', designação que não corresponde
+  a nenhuma autorização do Banco Central; e o objeto declarado é o desconto de ''contribuições e mensalidades
+  devidas por seus servidores filiados'', redação própria de convênio com entidade sindical ou associativa
+  — não de cartão consignado de benefício, que só apareceria no instrumento de 2025.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Secretaria de Estado de Administração de Mato Grosso do Sul
+url: https://assets.imprensaoficial.ms.gov.br/public/prd/Diario%20Oficial/2023/03/14/DO11101_14_03_2023.pdf
+reference: Convênio nº 009/2023 - SAD/MS; DOE-MS nº 11.101, p. 11; NUP 77/002.284/2023
+excerpt: 'CONVENENTE: Banco PKL One Participações S.A [...] com objetivo de realizar o desconto e posterior
+  recebimento de contribuições e mensalidades devidas por seus servidores filiados'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

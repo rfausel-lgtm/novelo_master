@@ -1,0 +1,31 @@
+id: doc-2026-05-18-adpf-1306-stf-decisoes-seplag-mt
+kind: document
+title: ADPF 1306/MT — STF anula as decisões da SEPLAG que suspenderam as consignações
+doc_type: judicial_decision
+date: '2026-05-18'
+source_ids:
+- src-stf-2026-adpf-1306-suspensao-consignacoes-seplag-mt
+summary: 'Segunda frente do sistema financeiro contra as medidas de Mato Grosso, movida pela Associação
+  Brasileira de Bancos e julgada na mesma sessão virtual da ADI 7900, sob a mesma relatoria. Enquanto
+  a ADI derrubou o ato do Legislativo estadual, a ADPF derrubou os atos administrativos do próprio Executivo:
+  as decisões da Secretaria de Planejamento e Gestão que suspenderam por 120 dias as consignações de cartão
+  de crédito e de cartão de benefício e os repasses correspondentes. O resultado combinado é que nenhuma
+  das duas vias — legislativa ou administrativa — sobreviveu ao controle de constitucionalidade.'
+is_official: true
+related_entity_ids:
+- supremo-tribunal-federal
+- andre-mendonca
+- credcesta
+issuer_id: supremo-tribunal-federal
+issuer: Supremo Tribunal Federal — Plenário
+url: https://portal.stf.jus.br/processos/listarProcessos.asp?classe=ADPF&numeroProcesso=1306
+reference: ADPF 1306/MT — 0164434-09.2026.1.00.0000
+excerpt: julgou procedente a presente arguição de descumprimento de preceito fundamental, para declarar
+  a inconstitucionalidade das decisões administrativas proferidas pela Secretaria de Planejamento e Gestão
+  do Estado de Mato Grosso (SEPLAG/MT), que determinaram, em caráter geral, a suspensão por 120 (cento
+  e vinte) dias das consignações
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

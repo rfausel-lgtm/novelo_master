@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T21:57:59.200Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-09T22:30:35.127Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -249,6 +249,7 @@ PESSOA|mauricio-camisotti|Maurício Camisotti|Apontado como operador central da 
 PESSOA|mauricio-moura-bc|Maurício Moura|Diretor de Relacionamento Institucional e Cidadania do Banco Central (indicado por Temer, mantido por Bolsonaro)|Um dos quatro diretores do Banco Central que, presentes nas duas votações de 2019, mudaram de posição sobre a venda do Máxima a Daniel Vorcaro.
 PESSOA|mauricio-quadrado|Maurício Quadrado|Ex-diretor de investimentos do Banco Master; controlador da Trustee DTVM e da Banvox DTVM|Ex-sócio de Vorcaro no Master e controlador atual da Trustee e da Banvox, as duas gestoras liquidadas pelo Banco Central em 03/09/2026 por ligação com o caso Master.
 POSIÇÃO|mauricio-quadrado|denial|No dia da busca e apreensão da PF (14/01/2026), o escritório do executivo declarou à imprensa que ele 'sempre atua dentro da lei' — não localizada, até 09/09/2026, manifestação direta e pessoal dele sobre a liquidação da Trustee/Banvox (03/09/2026).
+PESSOA|mauro-mendes|Mauro Mendes|Ex-governador de Mato Grosso (2019–2026), do União Brasil; renunciou ao cargo em 31/03/2026 para disputar o Senado|Engenheiro civil e empresário, foi prefeito de Cuiabá antes de eleger-se governador. Sua assinatura está no ato normativo que abriu, na folha do funcionalismo mato-grossense, o espaço em que o CredCesta viria a operar. O texto integral do decreto, recuperado na base da Secretaria de Fazenda estadual, mostra que a marg…
 PESSOA|michel-temer|Michel Temer|Ex-presidente da República; advogado|Seu escritório consta, segundo registros fiscais divulgados pela imprensa, entre os destinatários de pagamentos do Banco Master.
 POSIÇÃO|michel-temer|clarification|Disse ter conhecido Vorcaro pessoalmente e que seu escritório foi contratado para tentar uma 'liquidação privada' do banco, sem sucesso; afastou-se do caso; o banco não quitou todo o valor contratado.
 PESSOA|milton-maluhy-filho|Milton Maluhy Filho|CEO do Itaú Unibanco desde 2021|CEO de banco apontado, em decisão judicial da Operação Compliance Zero, como alvo de levantamento de dados pessoais e patrimoniais encomendado por Daniel Vorcaro.
@@ -379,6 +380,7 @@ ORG|epitome-sa|Epítome S.A.|company|É apontada em decisão pública do STF com
 ORG|espaco-engenharia|Espaço Engenharia e Construção|company|É outro dos subscritores cujo laudo de avaliação de imóveis a CVM considerou fraudulento, com matrículas irregulares e liquidação suspeitosamente rápida das cotas obtidas.
 ORG|felipe-santa-cruz-advogados|Felipe Santa Cruz Advogados|law_firm|É o escritório do ex-presidente da OAB que recebeu pagamentos do Master, num valor bem menor que o de outros escritórios citados na mesma leva de dados.
 ORG|fernao-previdencia|Regime Próprio de Previdência de Fernão|public_body|É um dos dois municípios adicionais (junto com Brodowski) que ampliam de cinco para sete o número de RPPS paulistas documentados como expostos ao Master pelo MPC-SP.
+ORG|feserp-ms|Feserp-MS — Federação Sindical dos Servidores Públicos Estaduais e Municipais de MS|association|Foi a única tentativa de tratar coletivamente o endividamento dos servidores sul-mato-grossenses com o produto do Banco Master, e sua derrota processual — por questão de legitimidade, não de mérito — explica por que o litígio migrou integralmente para ações individuais, cuja curva no tribunal estadual quadruplicou ent…
 ORG|fg-participacoes|FG Participações|company|É a holding que unifica, sob o controle de Benjamim Botelho de Almeida, a Sefer e (parcialmente) a Entre — o vínculo societário que a CVM usou para caracterizar a atuação coordenada entre as duas no esquema de liquidez artificial do Brazil Realty FII.
 ORG|fgc|Fundo Garantidor de Créditos|association|É a entidade que arcou, em primeira instância, com o custo financeiro direto da falência do conglomerado Master perante os credores cobertos — o que dimensiona o tamanho real do rombo e quem, por ora, paga a conta.
 ORG|foco-dtvm|Foco DTVM|financial_institution|Administradora do fundo cuja compra de um terreno supervalorizado ajudou a lastrear a capacidade econômica apresentada por Vorcaro ao Banco Central, e nó recorrente em outras frentes do caso — inclusive, já como Sefer Investimentos, na fraude do Brazil Realty FII condenada pela CVM em 2026.

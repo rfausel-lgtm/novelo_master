@@ -1,0 +1,28 @@
+id: doc-2026-05-18-adi-7900-stf-decreto-legislativo-79-mt
+kind: document
+title: ADI 7900/MT — STF declara inconstitucional o decreto que suspendia consignados em Mato Grosso
+doc_type: judicial_decision
+date: '2026-05-18'
+source_ids:
+- src-stf-2026-adi-7900-decreto-legislativo-79-mt
+summary: Ação proposta pela Confederação Nacional do Sistema Financeiro contra o Decreto Legislativo nº
+  79/2025 da Assembleia de Mato Grosso, que suspendia por até 120 dias os efeitos de contratos de cartão
+  consignado acima de 35% da remuneração líquida, vedava negativação no período e determinava que força-tarefa
+  estadual analisasse os credenciamentos das consignatárias. Relatoria do ministro André Mendonça — o
+  mesmo relator do caso Master no STF —, que concedeu cautelar em 11/12/2025. O Plenário julgou o mérito
+  procedente por unanimidade, com trânsito em julgado em 18/05/2026, ao fundamento de usurpação da competência
+  privativa da União para legislar sobre direito civil e política de crédito.
+is_official: true
+related_entity_ids:
+- supremo-tribunal-federal
+- andre-mendonca
+- credcesta
+issuer_id: supremo-tribunal-federal
+issuer: Supremo Tribunal Federal — Plenário
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7439387
+reference: ADI 7900/MT — 0122902-89.2025.1.00.0000
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
