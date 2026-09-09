@@ -11,6 +11,18 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Adicionado
 
+- Checagem de duplicação de pessoa e organização no pipeline, depois de um lote criar três entidades
+  ao lado de registros que já existiam sob outro id. Rótulo idêntico depois de normalizar (nome ou
+  alias de um igual a nome ou alias do outro) é erro; tokens de um nome contidos no outro é aviso que
+  bloqueia o modo estrito. A similaridade de texto não serviria: "Antonio Freixo" e "Antônio Carlos
+  Freixo Júnior" batem 0,70. Como nenhuma regra lexical separa duplicata de parentesco — "Kevin Nunes
+  Marques" contém "Nunes Marques", que é pai e filho —, o campo novo `distinct_from` declara no
+  registro que são entidades diferentes e silencia o par.
+- O hook de pre-commit passou a bloquear registro novo em `data/` sem entrada em `data/revisions/`.
+  Quatro lotes tinham entrado sem registro: o conteúdo foi ao ar e a página `/atualizacoes`, que a
+  política editorial promete manter, não os mostrava. A válvula para lote dividido de propósito é
+  `NOVELO_SEM_REVISAO=1`, e não `--no-verify`, que desligaria junto a varredura de segredos.
+
 - Filtros da cronologia e dos índices na URL (`?agente=`, `?tipo=`, `?classe=`, `?q=`), com botão
   "Copiar link deste recorte". Voltar de um registro deixou de perder o recorte, e o link mostra a
   outra pessoa a mesma vista. O recorte é reproduzido sobre os dados atuais, não sobre uma versão
@@ -691,9 +703,19 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ### Corrigido
 
-- As 70 revisões do corpus têm a mesma `date`, e a ordenação só por ela deixava o desempate por
-  ordem de leitura do disco: `/atualizacoes` abria num lote do meio. O desempate agora é pelo id,
-  em ordem natural, que carrega a sequência dos lotes.
+- Link direto para nó ou aresta da camada probatória não abria nada: a camada só era buscada quando o
+  leitor ligava uma categoria de evidência no filtro, e um link direto não liga nenhuma. A seleção que
+  não existe no grafo base agora pede a camada e reativa as categorias necessárias.
+- Falha ao buscar a camada probatória deixava o painel preso em "Carregando…" para sempre — o `catch`
+  anulava a requisição sem mexer em estado. Agora há estado de erro, aviso e retentativa.
+- Dezenas de revisões compartilham a mesma `date` — que é a data editorial do conteúdo coberto, não
+  a da publicação —, e ordenar só por ela deixava o desempate por ordem de leitura do disco:
+  `/atualizacoes` abria num lote do meio. O desempate passou a ser pelo id, em ordem natural.
+  Isso ainda estava errado: o id começa com `rev-AAAA-MM-DD-`, uma segunda cópia da informação que
+  `date` já ordena e que diverge dela em 66 dos 116 registros. Bastou um lote com o prefixo à frente
+  dos irmãos para ele grudar no topo acima de lotes publicados depois. O desempate agora ignora o
+  prefixo, sobrando a sequência do lote (`lote-109` acima de `lote-108`, `lote-70` acima de
+  `lote-7`).
 - O prompt copiável de `/perguntar` trazia a URL de produção cravada: quem lia a página numa prévia, num
   espelho ou no domínio de deploy mandava o assistente a um endereço que não era o do site à frente.
   Agora o texto é reescrito para a origem em que o leitor está.
