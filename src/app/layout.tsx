@@ -21,6 +21,12 @@ const plexMono = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
+  /*
+   * Canônica da raiz. As páginas internas sobrescrevem com a própria (pageMetadata), mas sem esta
+   * linha a home ficava sem nenhuma — e ela é a única que recebe link de fora com parâmetro colado
+   * (utm de campanha, `?fbclid`), que o Google trataria como página distinta.
+   */
+  alternates: { canonical: SITE.url },
   title: {
     default: SITE.name,
     template: `%s · ${SITE.name}`,
