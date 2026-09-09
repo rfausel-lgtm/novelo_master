@@ -1,0 +1,27 @@
+id: doc-2023-05-05-decreto-257-2023-mt-margem-cartao-beneficio
+kind: document
+title: Decreto nº 257/2023 (Mato Grosso) — margens que não concorrem entre si e fim do teto de 24 meses
+doc_type: legislative_act
+date: '2023-05-05'
+source_ids:
+- src-iomat-2023-05-05-decreto-257-2023-consignacoes
+summary: 'Editado 25 dias antes de o Banco Master assinar convênio de cinco anos, altera o regime de consignações
+  mato-grossense em quatro pontos que, somados, viabilizaram a operação: cria margem própria de 10% para
+  cartão de benefício e determina que as margens não concorrem entre si; remove o teto de 24 meses para
+  a vigência dos convênios; move o produto para o inciso do rol que dispensa autorização expressa do governador,
+  deixando a decisão na secretaria; e cria a figura da instituição financeira que intermedeia o produto
+  para empresas de meios de pagamento.'
+is_official: true
+related_entity_ids:
+- credcesta
+- banco-master
+issuer: Governo do Estado de Mato Grosso
+url: https://www.iomat.mt.gov.br/portal/edicoes/download/17263/4
+reference: Decreto estadual 257/2023 (MT); DOE-MT nº 28.493, p. 4-5
+excerpt: As margens consignáveis previstas nos incisos deste artigo são independentes, de forma que não
+  concorrem entre si.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

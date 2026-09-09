@@ -60,6 +60,12 @@ open_questions:
   à massa liquidanda, enquanto o produto deixava de funcionar para o servidor. Liquidante e operadora
   passaram a disputar os mesmos créditos, levando um município a obter decisão judicial que reteve os
   valores e proibiu ambos de cobrar dos servidores.
+- 'A expansão para os estados está documentada em texto normativo: no Rio de Janeiro, o decreto de 2021
+  criou categoria de consignatária dispensada de autorização do Banco Central, e a operadora foi credenciada
+  cinco dias depois; em Mato Grosso, o decreto de 05/05/2023 criou margem que ''não concorre'' com as
+  demais, removeu o teto de vigência de 24 meses para convênios e moveu o produto para o inciso dispensado
+  de autorização do governador — 25 dias antes de o Banco Master assinar convênio de cinco anos, com um
+  signatário em comum entre as duas peças.'
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -79,6 +85,9 @@ source_ids:
 - src-correiodoestado-2026-banco-fechado-consignado-continua
 - src-jornalgrandebahia-2025-11-afpeb-adi-tjba-credcesta
 - src-legislabahia-decreto-18353-2018-credcesta
+- src-iomat-2023-05-05-decreto-257-2023-consignacoes
+- src-iomat-2023-06-01-extrato-convenio-026-seplag-master
+- src-doerj-2021-05-decreto-47625-cartao-beneficio
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

@@ -1,0 +1,24 @@
+id: ev-rj-castro-contraditorio-sucessao-do-maxima-nao-alcanca-a-pkl
+kind: evidence
+classification: C
+proposition: 'Contraditório do ex-governador, registrado com a distinção que ele próprio não faz. A defesa
+  de Cláudio Castro afirma que ''não houve favorecimento, direcionamento ou criação de regras sob medida''
+  em favor do Banco Master ou de empresas relacionadas, que as medidas obedeceram aos trâmites legais,
+  e sustenta que o Master apenas sucedeu o Banco Máxima S/A, já cadastrado como consignatário desde 2020
+  — de modo que teria havido recadastramento por mudança de razão social, não novo credenciamento. A objeção
+  é pertinente quanto ao banco. Ela não alcança, porém, a autorização da PKL One: trata-se de pessoa jurídica
+  distinta, não financeira, cuja habilitação como consignatária só se tornou possível pelo inciso VIII,
+  criado cinco dias antes do despacho que a autorizou. São dois atos diferentes, e a resposta cobre apenas
+  um deles. Registro de situação: Castro não é mais governador — foi declarado inelegível por oito anos
+  pelo TSE em 25/03/2026, após ter renunciado ao cargo, e o Estado passou a ser governado interinamente
+  pelo presidente do Tribunal de Justiça.'
+document_ids: []
+source_ids:
+- src-revistaoeste-2026-decreto-favoreceu-consignado-master-rj
+- src-tse-2026-03-25-castro-inelegivel-oito-anos
+date: '2026-03-25'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

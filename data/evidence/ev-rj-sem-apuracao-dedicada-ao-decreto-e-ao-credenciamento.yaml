@@ -1,0 +1,25 @@
+id: ev-rj-sem-apuracao-dedicada-ao-decreto-e-ao-credenciamento
+kind: evidence
+classification: I
+proposition: 'Diferentemente de Mato Grosso, onde o Superior Tribunal de Justiça apura o credenciamento
+  a pedido da Procuradoria-Geral da República, não foi localizada no Rio de Janeiro nenhuma investigação,
+  inquérito ou procedimento que tenha por objeto o Decreto 47.625/2021 e a autorização da PKL One em si.
+  As frentes existentes têm outro objeto: a oitava fase da Operação Compliance Zero investiga a participação
+  do ex-governador nos investimentos do Rioprevidência no Master; a ação do Ministério Público estadual
+  mira o prejuízo previdenciário; e os processos no Tribunal de Contas estadual tratam dos descontos e
+  da metodologia de cálculo da margem, com a área técnica sugerindo considerar irregular o método adotado
+  — proposta ainda não julgada pelo plenário. O ato normativo que abriu a porta permanece, ele próprio,
+  sem apuração dedicada.'
+document_ids: []
+source_ids:
+- src-jusbrasil-2026-04-10-mprj-gaesf-acp-master-rioprevidencia
+- src-flavioserafini-2026-08-05-esquema-credcesta-no-rio
+inference_basis: Busca dirigida por procedimento cujo objeto seja o decreto ou o credenciamento, em órgãos
+  de controle e no Judiciário, sem resultado — contrastada com a existência de apuração equivalente em
+  outro estado.
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

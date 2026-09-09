@@ -1,0 +1,27 @@
+id: ev-rj-inciso-viii-dispensou-autorizacao-do-banco-central
+kind: evidence
+classification: D
+proposition: 'O achado documental central da expansão. O Decreto 45.563/2016, que disciplina as consignações
+  em folha no Estado do Rio, define no art. 3º quem pode ser consignatária, e o inciso V é explícito:
+  ''as instituições financeiras, cooperativas de crédito e as administradoras de cartão de crédito, detentoras
+  de autorização de funcionamento pelo Banco Central do Brasil''. O Decreto 47.625, de 27/05/2021, assinado
+  por Cláudio Castro, acrescentou a esse rol uma única linha — o inciso VIII: ''outras entidades consignatárias
+  devidamente autorizadas pelo Estado''. Criou-se, ao lado da categoria que exige autorização do Banco
+  Central, uma categoria residual cuja habilitação depende apenas de ato do próprio Estado. Cinco dias
+  depois, em 01/06/2021, a PKL One Participações — cujo CNAE principal é ''holding de instituições não-financeiras''
+  — foi autorizada por despacho do então secretário da Casa Civil a ofertar o cartão ao funcionalismo.
+  O decreto não fixa contrapartida, prazo, teto de juros nem exclusividade.'
+document_ids:
+- doc-2016-01-27-decreto-45563-rj-consignacoes
+- doc-2021-05-27-decreto-47625-rj-cartao-beneficio
+source_ids:
+- src-sefazrj-decreto-45563-2016-consignacoes
+- src-doerj-2021-05-decreto-47625-cartao-beneficio
+- src-revistaoeste-2026-decreto-favoreceu-consignado-master-rj
+excerpt: VIII - outras entidades consignatárias devidamente autorizadas pelo Estado.
+date: '2021-05-27'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

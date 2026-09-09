@@ -1,0 +1,28 @@
+id: doc-2023-06-01-extrato-convenio-026-2023-seplag-mt-master
+kind: document
+title: Extrato do Convênio de Consignação nº 026/2023 - SEPLAG/MT — Banco Master
+doc_type: contract
+date: '2023-06-01'
+source_ids:
+- src-iomat-2023-06-01-extrato-convenio-026-seplag-master
+summary: 'Instrumento que habilitou o Banco Master a operar cartão consignado de benefício na folha do
+  funcionalismo mato-grossense, com vigência de cinco anos, até maio de 2028. Assinado pelo secretário
+  de Planejamento e Gestão e, pelo banco, pelo diretor Luiz Antonio Bull — nome já mapeado no acervo em
+  outra frente do caso — e por um procurador. Correção metodológica que o documento impõe: não existe
+  portaria de credenciamento publicada; o ato levado a diário oficial é o extrato do convênio.'
+is_official: true
+related_entity_ids:
+- banco-master
+- credcesta
+- luiz-bull
+issuer: Secretaria de Estado de Planejamento e Gestão de Mato Grosso
+url: https://www.iomat.mt.gov.br/portal/edicoes/download/17305/3
+reference: Convênio de Consignação nº 026/2023 - SEPLAG/MT; DOE-MT nº 28.512, p. 3
+excerpt: 'OBJETO: Autorização de consignações em folha de pagamento em favor do BANCO MASTER S/A. inscrito
+  no CNPJ sob o n° 33.923.798/0001-00, para amortização de cartão consignado de benefício [...] VIGÊNCIA:
+  30/05/2023 a 29/05/2028'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

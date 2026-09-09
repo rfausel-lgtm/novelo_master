@@ -1,0 +1,24 @@
+id: src-flavioserafini-2026-08-05-esquema-credcesta-no-rio
+kind: source
+title: O esquema do CredCesta no Rio de Janeiro
+publisher: Gabinete do deputado estadual Flávio Serafini (RJ)
+publication_date: '2026-08-05'
+retrieved_at: '2026-09-09'
+url: https://www.flavioserafini.com.br/2026/08/05/o-esquema-do-credcesta-no-rio-de-janeiro/
+source_type: official_other
+summary: 'Texto de autoria do parlamentar que sintetiza o levantamento feito por seu gabinete, à frente
+  da Comissão de Servidores Públicos: 156.936 contratos ligados a Master e PKL One, cerca de R$ 5,5 bilhões,
+  14,24% de todas as consignações do Estado; análise de 195 contracheques, com 60% apresentando descontos
+  acima de metade da remuneração bruta; e referência ao ''comprometimento de até 100% da renda líquida
+  dos servidores''. Elenca sete recomendações, entre elas piso de R$ 600 líquidos e envio de documentos
+  a Banco Central, TCE-RJ, Ministério Público e Polícia Federal.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura de texto normativo e de acórdão)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

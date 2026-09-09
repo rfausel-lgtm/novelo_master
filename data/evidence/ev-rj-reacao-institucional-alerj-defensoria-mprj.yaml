@@ -1,0 +1,27 @@
+id: ev-rj-reacao-institucional-alerj-defensoria-mprj
+kind: evidence
+classification: C
+proposition: A reação institucional no Rio é a mais desenvolvida entre os estados mapeados, e corre em
+  quatro frentes. A Comissão de Servidores Públicos da Alerj produziu levantamento, divulgado em junho
+  de 2026, apontando 156.936 contratos ligados a Master e PKL One, cerca de R$ 5,5 bilhões, 14,24% de
+  todas as consignações do Estado, e 60% de 195 contracheques analisados com descontos acima de metade
+  da remuneração bruta. A Defensoria Pública ajuizou ação civil pública em 10/08/2026 — processo nº 3147542-55.2026.8.19.0001,
+  confirmado pela equipe na base do Diário de Justiça Eletrônico Nacional —, e obteve em 14/08/2026, da
+  3ª Vara Empresarial da Capital, tutela de urgência que suspendeu a oferta do cartão e determinou canal
+  de atendimento humano em 30 dias, sob multa diária de R$ 20 mil; a decisão é parcial, tendo indeferido
+  a limitação da margem e a revisão dos juros. O Ministério Público estadual ajuizou, em 10/04/2026, ação
+  contra o Master em liquidação, a PKL One, o Estado e dirigentes do Rioprevidência, para evitar prejuízo
+  de R$ 1,088 bilhão. E em 08/09/2026 a Assembleia aprovou projeto suspendendo os descontos até auditoria,
+  pendente de sanção.
+document_ids: []
+source_ids:
+- src-djen-cnj-2026-08-12-acp-defensoria-rj-3147542
+- src-sindpolrj-2026-08-19-justica-suspende-credcesta-defensoria
+- src-jusbrasil-2026-04-10-mprj-gaesf-acp-master-rioprevidencia
+- src-alerj-2026-09-08-pl-7726-suspensao-descontos
+date: '2026-08-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

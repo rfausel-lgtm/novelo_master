@@ -1,0 +1,26 @@
+id: ev-rj-empilhamento-de-margens-35-mais-20-mais-40
+kind: evidence
+classification: D
+proposition: 'A aritmética que produz contracheques quase zerados está em três normas sucessivas. O Decreto
+  45.563/2016 limitava as consignações facultativas a 30% da remuneração. O Decreto 47.625/2021 elevou
+  o teto geral a 35% e criou, no art. 6º, III, margem de até 20% do valor líquido para cartão de benefício,
+  determinando no §1º que esse cartão ''não compõe a margem consignável prevista neste artigo''. O Decreto
+  49.526, de 24/02/2025 — cuja data o corpus registrava incorretamente como 21/02 —, repetiu a fórmula
+  para um ''cartão de adiantamento salarial'': novo inciso no rol de consignatárias, nova rubrica, e a
+  mesma cláusula de que não compõe a margem, com limite de até 40% do líquido, ''sem incidência de juros''.
+  Somadas, as três camadas permitem comprometimento que a própria Comissão de Servidores Públicos da Alerj
+  descreveu como chegando a 100% da renda líquida; a representação ao Banco Central registra caso de servidor
+  com saldo final de R$ 2,83.'
+document_ids:
+- doc-2021-05-27-decreto-47625-rj-cartao-beneficio
+- doc-2025-02-24-decreto-49526-rj-cartao-adiantamento
+source_ids:
+- src-doerj-2021-05-decreto-47625-cartao-beneficio
+- src-doerj-2025-02-decreto-49526-cartao-adiantamento
+- src-flavioserafini-2026-05-01-representacao-banco-central
+date: '2025-02-24'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

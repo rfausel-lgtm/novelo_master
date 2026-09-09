@@ -1,0 +1,36 @@
+id: rev-2026-09-09-lote-139-expansao-rj-mt-inciso-viii
+kind: revision
+date: '2026-09-09'
+title: 'Lote 139 — a expansão: o inciso que dispensou o Banco Central no Rio e o decreto que abriu cinco
+  anos em Mato Grosso'
+summary: 'Primeira etapa da expansão da investigação para além da Bahia, toda ancorada em texto normativo
+  lido diretamente. No Rio de Janeiro, o achado é literal: o decreto de 2016 exigia que consignatárias
+  fossem ''detentoras de autorização de funcionamento pelo Banco Central do Brasil''; o decreto de 27/05/2021,
+  assinado por Cláudio Castro, acrescentou uma única linha ao rol — ''outras entidades consignatárias
+  devidamente autorizadas pelo Estado'' —, criando categoria cuja habilitação depende só do Estado. Cinco
+  dias depois foi autorizada a PKL One, e a equipe confirmou por consulta direta à base pública do Banco
+  Central, com controle metodológico, que a empresa NÃO consta das instituições autorizadas a funcionar
+  no país. O mesmo decreto e o de 2025 retiraram cartão de benefício e cartão de adiantamento da margem
+  consignável, produzindo o empilhamento que leva a contracheques quase zerados. Achado adicional: o Banco
+  Master invocava esse decreto como tese recursal no Tribunal de Justiça fluminense, e vencia. Em Mato
+  Grosso, o decreto de 05/05/2023 fez mais do que criar margem: tornou as margens não concorrentes, removeu
+  o teto de 24 meses para convênios e moveu o produto para o inciso dispensado de aval do governador —
+  25 dias antes de o Master assinar convênio de cinco anos, cujo extrato a equipe leu no diário oficial.
+  Testada a defesa do ex-governador de que houve ''24 bancos e o Master não foi o primeiro'': a ordem
+  procede por um dia, mas o número é cumulativo até 2025 — na data da assinatura havia quatro outros convênios.
+  Corrigida a data do decreto fluminense de 2025 e localizado o número da ação civil pública da Defensoria.'
+affected_ids:
+- claudio-castro
+- pkl-one-participacoes
+- credcesta
+- banco-master
+- luiz-bull
+- banco-central-do-brasil
+- augusto-lima
+reason: Continuação, pedida pelo editor, da expansão da investigação sobre o CredCesta para os demais
+  estados, a partir do padrão normativo identificado no lote anterior.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

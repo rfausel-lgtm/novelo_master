@@ -10,13 +10,12 @@ positions:
   - src-cnn-2025-11-justica-federal-manda-soltar
 summary: Ex-diretor de Compliance, Riscos, RH, Operações e Tecnologia do Banco Master. Preso na 1ª fase
   da Compliance Zero e solto pelo TRF-1 em 28/11/2025 (HC 1045014-48.2025.4.01.0000, desembargadora Solange
-  Salgado), com medidas cautelares (comparecimento periódico, proibição de contato com investigados,
-  proibição de deixar o município, suspensão de atividades de gestão, monitoração eletrônica, retenção
-  de passaporte). É citado, junto
-  com Augusto Lima, no documento apócrifo encontrado nos e-mails de Vorcaro (revelado pela Gazeta do Povo
-  em 11/03/2026), que o descreve como 'capataz' de Lima na gestão do banco. Sua defesa classificou o documento
-  como 'carta anônima' repleta de 'adjetivos, mentiras e acusações desvinculadas de qualquer prova', pedindo
-  cautela por se tratar de material de autoria não confirmada.
+  Salgado), com medidas cautelares (comparecimento periódico, proibição de contato com investigados, proibição
+  de deixar o município, suspensão de atividades de gestão, monitoração eletrônica, retenção de passaporte).
+  É citado, junto com Augusto Lima, no documento apócrifo encontrado nos e-mails de Vorcaro (revelado
+  pela Gazeta do Povo em 11/03/2026), que o descreve como 'capataz' de Lima na gestão do banco. Sua defesa
+  classificou o documento como 'carta anônima' repleta de 'adjetivos, mentiras e acusações desvinculadas
+  de qualquer prova', pedindo cautela por se tratar de material de autoria não confirmada.
 why_in_novelo: É o segundo nome, além de Augusto Lima, citado no documento apócrifo sobre o controle de
   fato do Master — sua reação é a única manifestação direta e nomeada localizada sobre esse documento
   específico.
@@ -45,6 +44,10 @@ open_questions:
 - Seu advogado, Augusto de Arruda Botelho, viajou com o então relator do caso Master no STF, Dias Toffoli,
   a Lima, em 28-30/11/2025, num jato de terceiro — episódio que motivou pedido de suspeição contra Toffoli
   (arquivado). Nenhuma fonte atribui a Bull qualquer participação ou conhecimento sobre a viagem.
+- Assinou, como diretor do Banco Master, o Termo de Convênio de Consignação nº 026/2023 com a Secretaria
+  de Estado de Planejamento e Gestão de Mato Grosso, publicado em 01/06/2023, que habilitou o banco a
+  operar cartão consignado de benefício na folha do funcionalismo estadual com vigência de cinco anos
+  — instrumento hoje objeto de investigação no Superior Tribunal de Justiça quanto ao credenciamento.
 source_ids:
 - src-agenciabrasil-2026-01-pf-ouve-ex-diretor-riscos-master
 - src-cnnbrasil-2025-12-20-advogado-passageiros-torcedores
@@ -54,6 +57,7 @@ source_ids:
 - src-metropoles-2026-05-19-master-porsche-safra-bull
 - src-migalhas-2025-11-28-trf1-solta-vorcaro
 - src-cnn-2025-11-justica-federal-manda-soltar
+- src-iomat-2023-06-01-extrato-convenio-026-seplag-master
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'

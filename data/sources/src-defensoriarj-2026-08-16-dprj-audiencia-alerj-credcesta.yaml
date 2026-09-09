@@ -1,0 +1,23 @@
+id: src-defensoriarj-2026-08-16-dprj-audiencia-alerj-credcesta
+kind: source
+title: DPRJ participa de audiência na Alerj sobre o caso CredCesta
+publisher: Defensoria Pública do Estado do Rio de Janeiro
+publication_date: '2026-08-16'
+retrieved_at: '2026-09-09'
+url: https://defensoria.rj.def.br/noticia/detalhes/32911-DPRJ-participa-de-audiencia-na-Alerj-sobre-o-caso-Credcesta
+source_type: official_other
+summary: 'Registro institucional da Defensoria sobre a audiência de 14/08/2026. A coordenadora do Núcleo
+  de Defesa do Consumidor, Luciana Telles, sintetiza o objeto do pedido liminar: ''O Banco Master entrou
+  em liquidação, e não há um canal de comunicação com a instituição. Na Ação Civil Pública, pedimos que
+  seja criado um canal físico e remoto para que os clientes consigam ter acesso aos contratos. Como podemos
+  pedir revisão de juros abusivos se muitos servidores não têm os contratos?'''
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura de diário oficial e consulta a base pública)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

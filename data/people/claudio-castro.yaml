@@ -15,8 +15,22 @@ cited_position:
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
 - A posição pública de Cláudio Castro sobre a operação não foi localizada em fonte verificada do corpus.
+- 'Assinou os dois decretos que estruturaram a operação do cartão de benefício na folha do funcionalismo
+  fluminense: o de 27/05/2021, que criou o inciso ''outras entidades consignatárias devidamente autorizadas
+  pelo Estado'' — dispensando, para essa categoria, a autorização do Banco Central exigida no inciso anterior
+  — e previu margem de 20% fora da margem consignável; e o de 24/02/2025, que repetiu a fórmula para um
+  cartão de adiantamento salarial de até 40%. Cinco dias após o primeiro, a PKL One foi autorizada por
+  despacho da Casa Civil. Sua defesa nega favorecimento e sustenta que o Banco Master apenas sucedeu instituição
+  já cadastrada — objeção que não alcança a autorização da PKL One, pessoa jurídica distinta e não financeira.
+  Não foi localizada apuração dedicada ao decreto ou ao credenciamento em si, ao contrário do que ocorre
+  em Mato Grosso.'
 source_ids:
 - src-stf-2026-05-26-oitava-fase-castro
+- src-sefazrj-decreto-45563-2016-consignacoes
+- src-doerj-2021-05-decreto-47625-cartao-beneficio
+- src-doerj-2025-02-decreto-49526-cartao-adiantamento
+- src-tjrj-2024-03-06-acordao-agravo-87521-master
+- src-revistaoeste-2026-decreto-favoreceu-consignado-master-rj
 full_name: Cláudio Bomfim de Castro e Silva
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Cl%C3%A1udio_Castro
@@ -24,7 +38,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'
 photo:
   path: /fotos/claudio-castro.jpg
   source: Wikimedia Commons
