@@ -1,0 +1,27 @@
+id: ev-projeto-dv-tres-camadas-influenciadores
+kind: evidence
+classification: C
+proposition: 'O recrutamento de influenciadores no ''Projeto DV'' comporta três camadas distintas, que
+  o corpus registra separadamente por exigirem tratamento diferente. PRIMEIRA: abordados que recusaram
+  e tornaram o fato público por iniciativa própria, entregando documentação — o vereador Rony Gabriel
+  (PL, Erechim/RS), procurado pela agência UNLTD em 20/12/2025; a comentarista Juliana Moreira Leite,
+  procurada pelo Portal Group BR; e o deputado estadual Leo Siqueira (Novo-SP), procurado pela UNLTD em
+  21/12/2025. SEGUNDA: perfis nomeados por Thiago Miranda em depoimento à PF em 12/05/2026 como tendo
+  recebido recursos — lista produzida por investigado, para reduzir a própria exposição, que não é decisão
+  judicial nem lista oficial da Polícia Federal. TERCEIRA: perfis que efetivamente publicaram conteúdo
+  crítico ao Banco Central, identificados por levantamento jornalístico com contraditório colhido de cada
+  um — a maioria negou expressamente ter recebido pagamento, um se recusou a comentar e outro não respondeu.
+  Registro determinante: a lista dos cerca de 40 perfis mapeados pela Polícia Federal NUNCA foi divulgada,
+  e nenhum influenciador foi até hoje indiciado, denunciado ou alvo de medida cautelar. Nenhum jornalista
+  aparece como contratado — jornalistas figuram no caso como alvos de monitoramento, não como beneficiários.'
+document_ids: []
+source_ids:
+- src-correiobraziliense-2026-01-08-influencers-recusaram-proposta-master
+- src-congressoemfoco-2026-influenciadores-miram-bc-apos-caso-master
+- src-cnnbrasil-2026-pf-listou-40-perfis-ataques-banco-central
+date: '2026-01-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

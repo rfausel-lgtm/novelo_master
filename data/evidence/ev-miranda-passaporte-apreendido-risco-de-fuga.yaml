@@ -1,0 +1,22 @@
+id: ev-miranda-passaporte-apreendido-risco-de-fuga
+kind: evidence
+classification: C
+proposition: 'Em 11/07/2026, dois dias após a busca e apreensão da 10ª fase, André Mendonça determinou
+  a apreensão do passaporte de Thiago Miranda, proibição de deixar o país com inclusão no Sistema de Tráfego
+  Internacional e proibição de solicitar novo documento de viagem, advertindo que o descumprimento geraria
+  prisão preventiva. O fundamento foi risco concreto de fuga: ele tinha passagem aérea marcada para Miami
+  em 13/07, e a representação apontava ainda frequentes trocas de aparelhos celulares, o anúncio de encerramento
+  da agência e o cancelamento de uma viagem na véspera da operação. A monitoração por tornozeleira chegou
+  a ser requerida ao STF por um parlamentar, mas não foi deferida. Ele nunca foi preso. Diferentemente
+  do que ocorreu na terceira fase, a Procuradoria-Geral da República manifestou-se FAVORAVELMENTE às medidas
+  desta fase, afirmando haver ''fortes elementos que apontam sua participação na organização criminosa''.'
+document_ids: []
+source_ids:
+- src-infomoney-2026-07-mendonca-apreensao-passaporte-thiago-miranda
+- src-metropoles-2026-07-operacao-thiago-miranda-aval-pgr
+date: '2026-07-11'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

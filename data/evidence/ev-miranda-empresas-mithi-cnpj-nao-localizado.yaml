@@ -1,0 +1,28 @@
+id: ev-miranda-empresas-mithi-cnpj-nao-localizado
+kind: evidence
+classification: I
+proposition: 'Resultado negativo relevante sobre a estrutura empresarial de Thiago Miranda. O CPF terminado
+  em 451 aparece no registro da Receita Federal em duas sociedades: a Miranda Comunicação EIRELI (CNPJ
+  33.943.467/0001-24), aberta em 17/06/2019 com capital social de R$ 100 mil e BAIXADA voluntariamente
+  em 22/07/2020 — portanto não é a pessoa jurídica que assinou os contratos de 2025/2026 —, e a Leo Dias
+  Comunicação e Jornalismo Ltda SCP VTG (CNPJ 55.062.879/0001-98), em que consta como Administrador desde
+  24/08/2023 e onde o registro permanecia vigente na data desta consulta. O CNPJ da Agência MiThi, que
+  assinou os contratos do ''Projeto DV'', NÃO FOI LOCALIZADO: as buscas nominais em agregadores comerciais
+  estão atrás de barreiras de acesso, e nenhuma reportagem publica o número. Em consequência, não é possível
+  afirmar a situação cadastral atual da agência nem se houve suspensão judicial de suas atividades — e
+  nenhuma fonte registra tal suspensão, diferentemente do que ocorreu com outras empresas do caso. O que
+  existe é o encerramento voluntário anunciado por ele em 13/07/2026, quatro dias após a busca, apresentado
+  como cansaço e ano sabático.'
+document_ids: []
+source_ids:
+- src-brasilapi-2026-miranda-comunicacao-eireli
+- src-brasilapi-2026-leo-dias-scp-thiago-miranda
+inference_basis: Consulta direta ao registro da Receita Federal por CNPJ nas duas sociedades localizadas,
+  combinada com resultado negativo de busca pelo CNPJ da Agência MiThi em agregadores e na imprensa. A
+  lacuna é registrada como lacuna.
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

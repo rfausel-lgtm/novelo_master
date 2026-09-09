@@ -1,0 +1,34 @@
+id: rony-gabriel
+kind: person
+name: Rony Gabriel
+category: politician
+role: Vereador em Erechim (RS) pelo PL; influenciador digital
+positions: []
+summary: Vereador em Erechim, no Rio Grande do Sul, pelo PL, e influenciador digital com audiência na
+  casa do milhão de seguidores. Foi procurado em 20/12/2025 pela agência UNLTD para o que lhe foi apresentado
+  como 'trabalho de gerenciamento de reputação e gestão de crise para um importante executivo'; assinou
+  acordo de confidencialidade com multa de R$ 800 mil e, só então, foi informado de que deveria gravar
+  vídeos afirmando que o Banco Master fora vítima de liquidação indevida pelo Banco Central. Recusou —
+  segundo seu relato, antes mesmo de saber o valor — e tornou o caso público por iniciativa própria, em
+  vídeo publicado em 06/01/2026, entregando áudios e documentos à imprensa. Só depois, em 12/02/2026,
+  prestou depoimento à Polícia Federal, que integra a decisão do STF autorizando a 10ª fase da Operação
+  Compliance Zero. Sobre o risco de ser cobrado pela multa contratual, declarou que o caso 'é algo muito
+  maior do que R$ 800 mil'.
+why_in_novelo: Foi quem primeiro tornou pública a existência da campanha paga contra o Banco Central —
+  por iniciativa própria, antes de qualquer depoimento —, e seu relato é a base do trecho da decisão do
+  STF que descreve o recrutamento de influenciadores no 'Projeto DV'.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Não foi localizado registro de que a agência tenha efetivamente cobrado a multa de R$ 800 mil prevista
+  no acordo de confidencialidade que ele rompeu ao tornar o caso público.
+- O número de seguidores atribuído a ele varia entre as fontes, de 1,4 a 2 milhões.
+source_ids:
+- src-correiobraziliense-2026-01-08-influencers-recusaram-proposta-master
+- src-cnnbrasil-2026-depoimentos-influenciadores-pf-ataques-bc
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

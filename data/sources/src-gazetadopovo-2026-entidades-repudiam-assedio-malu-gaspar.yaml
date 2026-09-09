@@ -1,0 +1,22 @@
+id: src-gazetadopovo-2026-entidades-repudiam-assedio-malu-gaspar
+kind: source
+title: Entidades de defesa do jornalismo repudiam assédio de Vorcaro a Malu Gaspar
+publisher: Gazeta do Povo
+publication_date: '2026-07-02'
+retrieved_at: '2026-09-09'
+url: https://www.gazetadopovo.com.br/republica/entidades-de-defesa-do-jornalismo-repudiam-assedio-de-vorcaro-a-malu-gaspar/
+source_type: press
+summary: Em 02/07/2026, Abraji e ANJ publicaram notas de repúdio; a ANJ classificou a conduta como 'métodos
+  mafiosos' e pediu apuração sobre o acesso aos dados da jornalista. O Globo repudiou em nota 'a devassa
+  determinada pelo acusado na vida da colunista Malu Gaspar', classificando-a como tentativa explícita
+  de silenciar a imprensa.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

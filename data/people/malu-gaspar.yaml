@@ -14,7 +14,11 @@ summary: 'Jornalista, colunista de O Globo, com cobertura sobre a Operação Com
   no pessoal''. Antes da devassa houve tentativa de cooptação — proposta de contratá-la por R$ 120 mil
   mensais mais R$ 1,5 milhão a título de luvas, com o objetivo de interromper as apurações —, e em outra
   mensagem Vorcaro reclama que ''Malu e Lauro vieram com mais fúria após a aproximação''. A Abraji, a
-  ANJ e a Fenaj divulgaram notas de repúdio em 04/03/2026.'
+  ANJ e a Fenaj divulgaram notas de repúdio em 04/03/2026. Mensagens adicionais divulgadas registram a
+  determinação de ''freá-la'' porque ela ''daria trabalho nos próximos dias'', e a intenção de ''calar
+  essa mulher''. O Globo repudiou em nota ''a devassa determinada pelo acusado na vida da colunista Malu
+  Gaspar'', classificando-a como tentativa explícita de silenciar a imprensa e afirmando que seus profissionais
+  não se intimidarão; a ANJ classificou a conduta como ''métodos mafiosos''.'
 why_in_novelo: Jornalista apontada, em decisão judicial da Operação Compliance Zero, como alvo de levantamento
   de dados pessoais encomendado por Daniel Vorcaro em razão de sua cobertura do caso.
 cited_position:
@@ -26,12 +30,17 @@ open_questions:
   publicamente.
 - Não foi localizada manifestação pública dela própria sobre o episódio; o registro do corpus vem da decisão
   judicial e da cobertura de terceiros.
+- 'Ela não foi a única alvo: a mesma decisão registra contatos para retirada de conteúdo com a jornalista
+  Consuelo Dieguez, da revista piauí, que recusou, e com o consultor Renato Breia, da Nord Investimentos,
+  que removeu publicação em que recomendava não investir no CDB do Master — único dos três a ceder.'
 source_ids:
 - src-poder360-2026-07-09-integra-decisao-thiago-miranda
 - src-cnnbrasil-2026-vorcaro-devassa-malu-gaspar
 - src-gazetadopovo-2026-vorcaro-ordenou-devassa-jornalista-o-globo
 - src-gazetadopovo-2026-turma-planejou-atacar-jornalistas-autoridades
 - src-abraji-2026-03-04-repudio-intimidacao-jornalistas
+- src-gazetadopovo-2026-entidades-repudiam-assedio-malu-gaspar
+- src-cnnbrasil-2026-pf-thiago-miranda-coagiu-tres-jornalistas
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
