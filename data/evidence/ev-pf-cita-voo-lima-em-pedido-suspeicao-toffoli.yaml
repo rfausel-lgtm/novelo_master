@@ -1,0 +1,20 @@
+id: ev-pf-cita-voo-lima-em-pedido-suspeicao-toffoli
+kind: evidence
+classification: C
+proposition: 'A PF, sob o diretor-geral Andrei Rodrigues, entregou a Fachin (11-12/02/2026) relatório
+  de cerca de 200 páginas sugerindo o afastamento de Toffoli, citando três frentes: o voo a Lima com o
+  advogado de Bull; mensagens no celular de Vorcaro citando o nome de Toffoli; e a venda de participação
+  da empresa Maridt (de Toffoli) ao fundo Arllen, ligado ao cunhado de Vorcaro, Fabiano Zettel. O pedido
+  de suspeição foi arquivado por Fachin em 21/02/2026, após entendimento entre os ministros da Corte,
+  incluindo o próprio Toffoli — que já havia deixado a relatoria em 12/02/2026, substituído por André
+  Mendonça.'
+document_ids: []
+source_ids:
+- src-apublica-2026-02-12-nota-pedido-suspeicao-toffoli-pf
+- src-cnnbrasil-2026-02-22-fachin-arquiva-acao-suspeicao-toffoli
+date: '2026-02-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

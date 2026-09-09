@@ -15,6 +15,15 @@ why_in_novelo: É o segundo nome, além de Augusto Lima, citado no documento ap�
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: clarification
+  summary: 'Por seu advogado, Augusto de Arruda Botelho, em 27/01/2026: ''Luiz Bull sempre esteve e continuará
+    à disposição das autoridades. Respondeu hoje absolutamente todas as perguntas, tanto da autoridade
+    policial quanto do Ministério Público e do juiz-instrutor aqui do STF, no interesse de colaborar com
+    as investigações.'''
+  source_ids:
+  - src-metropoles-2026-01-27-botelho-bull-responde-todas-perguntas-pf
+  by_id: augusto-de-arruda-botelho
+  date: '2026-01-27'
 open_questions:
 - Em depoimento à PF, disse ter assinado documentos sem lê-los, alegando não ter formação jurídica nem
   em compliance — declaração relevante para apurar se houve falha estrutural ou conduta dolosa, sem que
@@ -25,10 +34,15 @@ open_questions:
 - Não foi localizada ligação direta e documentada com Augusto Lima além do vínculo institucional comum
   como diretores do Banco Master, ambos investigados na Compliance Zero — o corpus não infla essa relação
   além do que as fontes sustentam.
+- Seu advogado, Augusto de Arruda Botelho, viajou com o então relator do caso Master no STF, Dias Toffoli,
+  a Lima, em 28-30/11/2025, num jato de terceiro — episódio que motivou pedido de suspeição contra Toffoli
+  (arquivado). Nenhuma fonte atribui a Bull qualquer participação ou conhecimento sobre a viagem.
 source_ids:
 - src-agenciabrasil-2026-01-pf-ouve-ex-diretor-riscos-master
+- src-cnnbrasil-2025-12-20-advogado-passageiros-torcedores
 - src-cnnbrasil-2026-01-luiz-bull-assinava-documentos-sem-ler
 - src-gazetadopovo-2026-03-11-dossie-fraudes-master-alvos
+- src-metropoles-2026-01-27-botelho-bull-responde-todas-perguntas-pf
 - src-metropoles-2026-05-19-master-porsche-safra-bull
 review_status: published
 reviewer: orquestrador

@@ -1,0 +1,38 @@
+id: luiz-osvaldo-pastore
+kind: person
+name: Luiz Osvaldo Pastore
+category: businessperson
+role: Empresário, dono do jato que levou Dias Toffoli e Augusto de Arruda Botelho a Lima
+positions: []
+summary: Empresário, 76 anos (dado de dez/2025), sócio-controlador da Indústria Brasileira de Metais (Ibrame),
+  um dos maiores produtores de cobre do país. Foi senador suplente pelo Espírito Santo (2019-2022, na
+  vaga de Rose de Freitas) e, em 2022, suplente de Flávia Arruda na chapa ao Senado pelo Distrito Federal,
+  declarando R$ 453,3 milhões em bens ao TSE. Nas eleições de 2026, foi identificado como o candidato
+  mais rico do pleito (R$ 677,7 milhões declarados), concorrendo a suplente na chapa de Eduardo Gomes
+  ao Senado por Tocantins. É amigo de longa data do ministro Dias Toffoli, segundo o próprio ministro
+  — foi seu jato particular que levou Toffoli e o advogado Augusto de Arruda Botelho a Lima, em 28-30/11/2025,
+  para a final da Libertadores. Financiou, com R$ 380 mil de doação pessoal, a campanha ao Senado de Flávia
+  Arruda (hoje Flávia Peres) em 2022 — ela se casaria, em janeiro de 2024, com Augusto Ferreira Lima,
+  sócio de Daniel Vorcaro no Banco Master. A doação e o casamento são anteriores à investigação sobre
+  o Master; não há vínculo direto documentado entre Pastore e o núcleo do caso além dessa conexão de círculo
+  social/político pré-existente.
+why_in_novelo: É o dono do jato particular em que Toffoli, então relator do caso Master, viajou com o
+  advogado de um investigado — e tem, além disso, uma conexão financeira documentada e anterior com a
+  atual esposa de outro dos sócios centrais do escândalo, via doação de campanha em 2022.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A conexão entre Pastore e Flávia Arruda/Peres é anterior em anos ao caso Master e ao casamento dela
+  com Augusto Lima — tratada no corpus como correlação factual documentada de círculo social/político,
+  não como evidência de qualquer conluio ou conhecimento prévio do esquema.
+- Não localizado nenhum vínculo financeiro ou societário direto entre Pastore e o Banco Master, Daniel
+  Vorcaro, ou demais figuras centrais do caso.
+source_ids:
+- src-cnnbrasil-2025-12-20-advogado-passageiros-torcedores
+- src-iclnoticias-2025-12-08-pastore-financiou-flavia-arruda
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,31 @@
+id: evt-2025-11-28-toffoli-viaja-lima-jato-pastore-botelho
+kind: event
+title: Toffoli viaja a Lima em jato de Pastore com advogado de investigado do Master
+event_type: travel
+date: '2025-11-28'
+date_precision: day
+participant_ids:
+- dias-toffoli
+- augusto-de-arruda-botelho
+- luiz-osvaldo-pastore
+description: O ministro Dias Toffoli, então relator do caso Master no STF, viajou a Lima (Peru) entre
+  28 e 30/11/2025, no jato particular do empresário Luiz Osvaldo Pastore, para assistir à final da Libertadores
+  (Palmeiras x Flamengo, vitória do Flamengo). Também a bordo estava o advogado Augusto de Arruda Botelho,
+  que defende Luiz Antonio Bull, investigado no caso Master, além do filho de Botelho e do ex-deputado
+  Aldo Rebelo, totalizando cerca de 15 passageiros. Dois dias após o retorno, em 02/12/2025, Toffoli decretou
+  sigilo no processo do Master no STF.
+evidence_class: C
+status: verified
+evidence_ids: []
+source_ids:
+- src-cnnbrasil-2025-12-20-advogado-passageiros-torcedores
+- src-cnnbrasil-luisamartins-2025-12-relator-toffoli-viajou-advogado
+- src-poder360-2025-12-20-advogado-minimiza-carona-jatinho-toffoli
+document_ids: []
+public_act_ids: []
+end_date: '2025-11-30'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

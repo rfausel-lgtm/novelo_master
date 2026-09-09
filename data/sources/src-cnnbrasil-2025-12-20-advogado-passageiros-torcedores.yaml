@@ -1,0 +1,27 @@
+id: src-cnnbrasil-2025-12-20-advogado-passageiros-torcedores
+kind: source
+title: Advogado diz que passageiros em jatinho com Toffoli eram apenas torcedores
+publisher: CNN Brasil
+publication_date: '2025-12-20'
+retrieved_at: '2026-09-06'
+url: https://www.cnnbrasil.com.br/politica/advogado-diz-que-passageiros-em-jatinho-com-toffoli-eram-apenas-torcedores/
+source_type: press
+summary: Augusto de Arruda Botelho, que defende o diretor de compliance do Master Luiz Antonio Bull, afirmou
+  que os passageiros do jatinho que viajou do Brasil ao Peru para assistir a final da Libertadores eram
+  apenas 'torcedores'. O ministro Dias Toffoli, então relator do caso Master no STF, era um dos passageiros.
+  A ida ocorreu na manhã de 28/11/2025 e a volta em 30/11/2025; a partida (Palmeiras x Flamengo, vitória
+  do Flamengo) foi disputada em Lima; Toffoli e Botelho são ambos palmeirenses. O jatinho é do empresário
+  e ex-senador Luiz Osvaldo Pastore. Toffoli não se manifestou publicamente, mas afirmou a interlocutores
+  ser amigo de Pastore há anos e não ter proximidade com Botelho. Dois dias após a viagem, Toffoli decretou
+  sigilo da ação envolvendo o Master no STF.
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+author: Davi Vittorazzi e Luísa Martins
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
