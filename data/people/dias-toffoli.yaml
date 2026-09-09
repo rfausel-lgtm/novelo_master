@@ -51,10 +51,12 @@ open_questions:
 - Não há confirmação pública dele sobre o conteúdo das conversas durante o voo, além de declaração a interlocutores
   (não em nota formal) de que conversou 'só sobre futebol' e de que é amigo de Pastore há anos, sem proximidade
   com Botelho.
-- Suspendeu monocraticamente, em 30/09/2025, a apuração do Ministério Público do Maranhão sobre o contrato
-  entre a Câmara de Imperatriz e o escritório do advogado Daniel Leite — apontado pela Kroll como 'figura
-  instrumental' de Vorcaro na tentativa de compra de ações do BRB —, por ausência de 'lastro mínimo' para
-  a acusação de improbidade.
+- Leitura direta da decisão na PET 14.601/MA (30/09/2025) confirma que ela trata exclusivamente de descumprimento
+  da tese de repercussão geral do Tema 309 (de sua própria relatoria) — não menciona Vorcaro, a Kroll,
+  o BRB, Quadrado ou Mansur em nenhum momento; a ligação do caso com o Master foi feita pela imprensa,
+  não pelo STF. A decisão é anterior, em mais de quatro meses, à revelação pública do vínculo dele com
+  a empresa Maridt e ao seu afastamento da relatoria do caso Master (12/02/2026) — cronologia citada pela
+  imprensa como fundamento de suspeita, sem constituir prova de irregularidade nesta decisão específica.
 source_ids:
 - src-apublica-2026-02-12-nota-pedido-suspeicao-toffoli-pf
 - src-blogdodina-2026-05-01-toffoli-suspende-investigacao-daniel-leite
@@ -67,6 +69,7 @@ source_ids:
 - src-gazetadopovo-2026-02-18-carona-toffoli-preocupacao-etica
 - src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
 - src-metropoles-2026-02-14-vorcaro-cobrado-tayaya
+- src-migalhas-2026-02-12-toffoli-deixa-relatoria-caso-master
 - src-migalhas-2026-02-12-toffoli-socio-empresa-negociou-cunhado-vorcaro
 - src-poder360-2025-12-20-advogado-minimiza-carona-jatinho-toffoli
 - src-poder360-2026-03-05-agenda-vorcaro-contatos
@@ -74,6 +77,7 @@ source_ids:
 - src-revistaoeste-2026-toffoli-tranca-investigacao-advogado-vorcaro
 - src-stf-2026-01-29-nota-gabinete-toffoli
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
+- src-verificacao-direta-equipe-pet14601-decisao-toffoli-integra
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

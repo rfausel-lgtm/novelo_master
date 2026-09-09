@@ -1,15 +1,19 @@
 id: ev-toffoli-suspende-apuracao-mpma-daniel-leite
 kind: evidence
-classification: C
-proposition: O Ministério Público do Maranhão apurava possível improbidade administrativa na renovação,
-  em abril de 2025 e sem nova licitação, do contrato entre a Câmara Municipal de Imperatriz e o escritório
-  de Daniel Leite (cerca de R$ 180 mil/ano, firmado originalmente em abril de 2023). O ministro Dias Toffoli
-  (STF) suspendeu monocraticamente essa apuração em 30/09/2025, sob o fundamento de ausência de 'lastro
-  mínimo' e de que não há improbidade sem dolo.
-document_ids: []
+classification: D
+proposition: 'CORRIGIDO POR LEITURA DIRETA: o Ministério Público do Maranhão (6ª Promotoria de Justiça
+  Especializada de Imperatriz) apurava, na Notícia de Fato nº 003773-253/2025, possível improbidade administrativa
+  no 1º Termo Aditivo (assinado em 06/04/2024, não em abril de 2025) ao contrato entre a Câmara Municipal
+  de Imperatriz e o escritório de Daniel Leite. O ministro Dias Toffoli (STF) trancou essa apuração em
+  30/09/2025, na PET 14.601/MA, com fundamento na tese de repercussão geral do Tema 309 (de sua própria
+  relatoria — não há improbidade sem dolo). A decisão, lida integralmente pela equipe, NÃO menciona Vorcaro,
+  a Kroll, o BRB, Quadrado ou Mansur — a ligação com o caso Master foi feita pela imprensa, não pelo STF.'
+document_ids:
+- doc-2025-09-30-decisao-toffoli-pet14601
 source_ids:
 - src-blogdodina-2026-05-01-toffoli-suspende-investigacao-daniel-leite
 - src-revistaoeste-2026-toffoli-tranca-investigacao-advogado-vorcaro
+- src-verificacao-direta-equipe-pet14601-decisao-toffoli-integra
 date: '2025-09-30'
 review_status: published
 reviewer: orquestrador

@@ -1,0 +1,20 @@
+id: ev-kroll-desmente-divulgacao-relatorio-figura-instrumental
+kind: evidence
+classification: A
+proposition: A consultoria Kroll emitiu nota contestando a divulgação de seu trabalho sobre a disputa
+  acionária do BRB, afirmando que 'nenhum relatório, informação, lista ou recomendação foi compartilhado
+  pela Kroll com terceiros' e que 'não existe relatório que atribua responsabilidade a pessoas'. Isso
+  qualifica a caracterização de Daniel Leite como 'figura instrumental' — atribuída pela imprensa a um
+  relatório da Kroll — como proveniente de via não esclarecida (possivelmente descrições de partes do
+  processo judicial, não de documento divulgado pela própria consultoria). Reportado por fonte única até
+  o momento.
+document_ids: []
+source_ids:
+- src-veronoticias-2026-kroll-desmente-divulgacao-relatorio
+attributed_to: Nota oficial da Kroll, conforme Vero Notícias
+date: '2026'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

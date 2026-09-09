@@ -2,20 +2,31 @@ id: daniel-de-faria-jeronimo-leite
 kind: person
 name: Daniel de Faria Jerônimo Leite
 category: lawyer
-role: Advogado de São Luís (MA), apontado por relatório da Kroll como 'figura instrumental' de Vorcaro
-  na tentativa de compra do BRB
+role: Advogado de São Luís (MA); alvo de ação civil do BRB e da Operação Sem Desconto
 positions: []
 summary: 'Advogado de São Luís (MA), conselheiro federal da OAB, ex-procurador do município de São Luís,
-  sócio-fundador do escritório Daniel Leite & Advogados (fundado em 2007). Apontado por relatório da consultoria
-  Kroll, contratada pelo BRB, como ''figura instrumental'' de Daniel Vorcaro, Maurício Quadrado e João
-  Carlos Mansur na tentativa de compra de ações do BRB. Em abril de 2025, tomou empréstimo de R$ 93,7
+  sócio-fundador do escritório Daniel Leite & Advogados (fundado em 2007). É réu, junto com Daniel Vorcaro,
+  o Banco Master e outros, em ação civil movida pelo BRB (7ª Vara da Fazenda Pública do DF) por suposta
+  tentativa coordenada e oculta de assumir o controle acionário do banco — a imprensa atribuiu a um relatório
+  da consultoria Kroll (contratada pelo BRB) a caracterização dele como ''figura instrumental'' dessa
+  operação, mas a própria Kroll contestou publicamente ter divulgado relatório que atribua responsabilidade
+  a pessoas, o que qualifica a força dessa caracterização. Em abril de 2025, tomou empréstimo de R$ 93,7
   milhões, usado majoritariamente para comprar ações do BRB via fundos de investimento, incluindo o fundo
-  Verbier, administrado por Quadrado. Seu escritório mantinha contrato de prestação de serviços jurídicos
-  com a Câmara Municipal de Imperatriz (MA), cerca de R$ 180 mil/ano, firmado em abril de 2023 e renovado
-  em abril de 2025 sem nova licitação — o que levou o Ministério Público do Maranhão a apurar possível
-  improbidade administrativa, apuração suspensa monocraticamente pelo ministro Dias Toffoli em 30/09/2025
-  por falta de ''lastro mínimo''. Patrimônio declarado: BRB estimou R$ 6 milhões; ele contrapôs R$ 75
-  milhões, incluindo propriedades rurais.'
+  Verbier, administrado por Maurício Quadrado. Seu escritório mantinha contrato de prestação de serviços
+  jurídicos com a Câmara Municipal de Imperatriz (MA) desde abril de 2023 (Pregão 002/2023, R$ 10.900/mês);
+  um aditivo de 06/04/2024 elevou o valor para R$ 15.000/mês (~R$ 180 mil/ano) e prorrogou por 12 meses,
+  o que motivou apuração do Ministério Público do Maranhão (Notícia de Fato nº 003773-253/2025) por possível
+  improbidade administrativa. O ministro Dias Toffoli (STF) trancou essa apuração em 30/09/2025 (PET 14.601/MA,
+  lida integralmente pela equipe), com fundamento na tese de repercussão geral do Tema 309 (de sua própria
+  relatoria — não há improbidade sem dolo, e a inexigibilidade de licitação para serviços advocatícios
+  especializados é constitucional) — decisão que NÃO menciona Vorcaro, a Kroll, o BRB, Quadrado ou Mansur;
+  a ligação com o caso Master foi feita pela imprensa, não pelo STF. O acordo entre ele e o BRB na ação
+  civil foi homologado em 31/07/2026, com sua saída do processo sob cláusula de confidencialidade. É também,
+  desde agosto de 2026, alvo da Operação Sem Desconto (fraudes no INSS, frente distinta), ligada a suposto
+  núcleo de lavagem de dinheiro do senador Weverton Rocha (PDT-MA). Em 06/08/2026, outro advogado pediu
+  publicamente à OAB-MA seu afastamento da profissão, citando o episódio BRB/Kroll. Patrimônio declarado:
+  BRB estimou R$ 6 milhões (renda de R$ 35 mil/mês); ele contrapôs R$ 75 milhões (renda de R$ 579 mil/mês),
+  incluindo propriedades rurais.'
 why_in_novelo: É a única ponte concreta e multissourced encontrada entre o Maranhão e a rede financeira
   de Daniel Vorcaro — via a tentativa de compra de ações do BRB, com contrato público municipal sob suspeita
   de improbidade e investigação trancada pelo mesmo ministro (Toffoli) já central a outras frentes do
@@ -24,17 +35,29 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- A caracterização de 'figura instrumental' é atribuída ao relatório da Kroll (contratada pelo BRB, parte
-  interessada), não é fato provado em juízo — o corpus a mantém como alegação, devidamente atribuída.
-- Não localizada manifestação pública dele sobre as acusações, além da contestação do valor patrimonial
-  atribuído pelo BRB.
-- Não foi possível confirmar, em fonte primária, o número exato do processo do MPMA nem o teor integral
-  da decisão de Toffoli — recomenda-se verificação direta antes de qualquer nova camada editorial sobre
-  este caso.
+- A caracterização de 'figura instrumental' é atribuída pela imprensa a um relatório da Kroll (contratada
+  pelo BRB, parte interessada) — mas a própria Kroll nega ter divulgado relatório que atribua responsabilidade
+  a pessoas; a origem exata da caracterização na imprensa permanece não esclarecida. Não é fato provado
+  em juízo.
+- Não localizada manifestação pública dele sobre as acusações, além da contestação dos valores de renda
+  e patrimônio atribuídos pelo BRB.
+- Não localizado se o MPMA recorreu (agravo regimental) da decisão de Toffoli na PET 14.601; a própria
+  decisão trancou apenas a Notícia de Fato nº 003773-253/2025 (sobre o aditivo de 2024) — há, segundo
+  a mesma decisão, uma tentativa distinta de nova contratação por inexigibilidade em 2025, que o MPMA
+  tentou obstar por outro procedimento (nº 000938-509/2025), não necessariamente alcançado pelo trancamento.
+- A decisão de Toffoli (30/09/2025) é anterior, em mais de quatro meses, à revelação pública (fevereiro
+  de 2026) do vínculo societário dele com a empresa Maridt, ligada ao cunhado de Vorcaro, e ao seu afastamento
+  da relatoria do caso Master — cronologia que fundamenta a suspeita levantada pela imprensa, sem constituir
+  prova de irregularidade na decisão específica.
 source_ids:
-- src-metropoles-2026-05-01-toffoli-trava-apuracao-daniel-leite-vorcaro
 - src-blogdodina-2026-05-01-toffoli-suspende-investigacao-daniel-leite
+- src-metropoles-2026-05-01-toffoli-trava-apuracao-daniel-leite-vorcaro
+- src-metropoles-2026-07-31-acordo-brb-daniel-leite-homologado
+- src-migalhas-2026-02-12-toffoli-deixa-relatoria-caso-master
+- src-migalhas-2026-08-04-leite-alvo-operacao-sem-desconto-inss
 - src-revistaoeste-2026-toffoli-tranca-investigacao-advogado-vorcaro
+- src-verificacao-direta-equipe-pet14601-decisao-toffoli-integra
+- src-veronoticias-2026-kroll-desmente-divulgacao-relatorio
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'
