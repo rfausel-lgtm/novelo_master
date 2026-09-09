@@ -58,6 +58,12 @@ open_questions:
   remuneradas em 50% do lucro líquido; R$ 30,575 milhões pagos ''ao debenturista'' em maio de 2019, sem
   que os extratos o nomeiem. Identificar o debenturista é a pergunta em aberto mais direta sobre quem
   realmente recebia o resultado do CredCesta.'
+- Documento oficial da secretaria de administração catarinense, de março de 2026, identifica o produto
+  como 'Cartão Consignado de Benefícios do CREDCESTA (PKL ONE)' e orienta servidores com dúvidas a procurar
+  a gerência de consignados — confirmando a operação em Santa Catarina, estado que já constava da lista
+  de cobertura em 2022. A empresa não figura entre as consignatárias ativas do mesmo documento, e a data
+  de seu credenciamento no estado não foi localizada porque o portal do diário oficial catarinense exige
+  autenticação para busca de texto integral.
 source_ids:
 - src-djen-cnj-agravo-3000060-09-2026-tjrj
 - src-metropoles-2026-08-15-pkl-one-credcesta-macapa
@@ -78,6 +84,7 @@ source_ids:
 - src-dioe-pr-2026-05-07-resolucao-seap-12294-pas-pkl-one
 - src-doesp-2026-editais-diretoria-ativos-passivos-banco-pkl-one
 - src-doe-es-2023-08-25-decreto-5482-r-margem-adicional
+- src-sea-sc-2026-03-relacao-consignatarias-cartao-beneficio-credcesta
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

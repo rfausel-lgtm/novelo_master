@@ -1,0 +1,29 @@
+id: doc-2022-02-23-decreto-48370-mg-reserva-margem-cartao-beneficio
+kind: document
+title: Decreto nº 48.370/2022 (MG) — a reserva de 10% que manteve a exigência do Banco Central
+doc_type: legislative_act
+date: '2022-02-23'
+source_ids:
+- src-jornalmg-2022-02-23-decreto-48370-reserva-cartao-beneficio
+summary: 'Minas Gerais integra o mesmo ciclo normativo de 2021 a 2023, criando reserva de dez por cento
+  da margem para cartão benefício consignado, mas com uma diferença que se mostrou decisiva: exigiu que
+  o emitente do cartão tivesse ''funcionamento autorizado pelo Banco Central do Brasil''. Ao contrário
+  do Rio de Janeiro, que criou categoria dispensada de tal autorização, e de São Paulo e Mato Grosso,
+  que a deslocaram para o parceiro bancário, o decreto mineiro a manteve sobre o próprio emitente. O efeito
+  prático é visível no registro: a consignatária que operou em Minas foi o Banco Master, sob o código
+  302 — a PKL One não aparece uma única vez no diário oficial do estado.'
+is_official: true
+related_entity_ids:
+- credcesta
+- banco-master
+issuer: Governo do Estado de Minas Gerais
+url: https://www.jornalminasgerais.mg.gov.br/
+reference: Decreto nº 48.370, de 22/02/2022; Diário do Executivo de 23/02/2022, p. 1
+excerpt: 'reserva de margem consignável para fins de cartão benefício consignado: procedimento que caracteriza
+  a reserva de dez por cento da margem consignável [...] em rede credenciada do emitente do cartão benefício
+  consignado, com funcionamento autorizado pelo Banco Central do Brasil'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

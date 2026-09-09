@@ -1,0 +1,28 @@
+id: doc-2026-06-11-decreto-1562-sc-revoga-margem-e-categoria-cartao-beneficio
+kind: document
+title: Decreto nº 1.562/2026 (SC) — Santa Catarina revoga a margem e a própria categoria de consignatária
+doc_type: legislative_act
+date: '2026-06-11'
+source_ids:
+- src-sea-sc-decreto-926-2025-e-1562-2026-margem-cartao-beneficio
+summary: 'A reação regulatória mais completa entre as localizadas. Santa Catarina havia instituído em
+  abril de 2025 a margem adicional de dez por cento para cartão consignado de benefícios e admitido como
+  consignatárias as administradoras desse tipo de cartão. Em 11 de junho de 2026 revogou os dois dispositivos
+  de uma vez: extinguiu a margem e eliminou a própria figura jurídica que a tornava utilizável. Enquanto
+  outros entes suspenderam códigos ou descredenciaram empresas, o estado catarinense fechou a categoria.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+issuer: Governo do Estado de Santa Catarina
+url: https://www.sea.sc.gov.br/wp-content/uploads/2026/06/DECRETO-No-926_2025-E-1.562_2026-apenas-redacao-em-vigor-PDF.pdf
+reference: Decreto nº 926, de 14/04/2025, art. 13 §4º e art. 6º VII, revogados pelo Decreto nº 1.562,
+  de 11/06/2026
+excerpt: Será admitida liberação da margem adicional equivalente a 10% (dez por cento), além da margem
+  consignável prevista no caput deste artigo, destinada exclusivamente para desconto de valores relativos
+  a cartão consignado de benefícios
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

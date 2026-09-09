@@ -1,0 +1,27 @@
+id: doc-2026-02-10-descredenciamento-banco-master-mg-por-falta-de-recadastramento
+kind: document
+title: Descredenciamento do Banco Master como consignatária em Minas Gerais, por falta de recadastramento
+doc_type: administrative_act
+date: '2026-02-10'
+source_ids:
+- src-jornalmg-2026-descredenciamento-banco-master-recadastramento
+summary: 'Processo instaurado em janeiro de 2026 e concluído em fevereiro, com o descredenciamento do
+  banco da folha mineira. Convém registrar o fundamento com precisão, porque ele contraria uma leitura
+  fácil: não se trata de sanção por irregularidade no produto nem de revisão do credenciamento, e sim
+  de omissão em apresentar documentação de recadastramento. É o desfecho mais prosaico entre os estados
+  examinados.'
+is_official: true
+related_entity_ids:
+- banco-master
+- credcesta
+issuer: Secretaria de Estado de Planejamento e Gestão de Minas Gerais
+url: https://www.jornalminasgerais.mg.gov.br/
+reference: Processo SEI nº 1500.01.0002247/2026-84; Diário do Executivo de 23/01/2026 p. 36 e 10/02/2026
+  p. 1090
+excerpt: com o descredenciamento da entidade Banco Master S.A., código 302, CNPJ 33.923.798/0001-00, por
+  não apresentar documentação para o recadastramento
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

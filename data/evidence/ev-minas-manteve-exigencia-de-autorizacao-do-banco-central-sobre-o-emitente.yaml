@@ -1,0 +1,20 @@
+id: ev-minas-manteve-exigencia-de-autorizacao-do-banco-central-sobre-o-emitente
+kind: evidence
+classification: D
+proposition: 'Minas Gerais participou do mesmo ciclo normativo, criando reserva de dez por cento da margem
+  para cartão benefício em fevereiro de 2022, mas escreveu a norma de outro modo: exigiu que o emitente
+  do cartão tivesse ''funcionamento autorizado pelo Banco Central do Brasil''. Não dispensou a exigência,
+  como o Rio de Janeiro, nem a deslocou para um parceiro bancário, como São Paulo e Mato Grosso. O registro
+  documental acompanha a diferença: quem operou em Minas foi o Banco Master, sob o código 302, e a PKL
+  One não aparece uma única vez no diário oficial mineiro.'
+document_ids:
+- doc-2022-02-23-decreto-48370-mg-reserva-margem-cartao-beneficio
+source_ids:
+- src-jornalmg-2022-02-23-decreto-48370-reserva-cartao-beneficio
+excerpt: com funcionamento autorizado pelo Banco Central do Brasil
+date: '2022-02-23'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

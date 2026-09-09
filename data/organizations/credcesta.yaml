@@ -85,6 +85,12 @@ open_questions:
   em ordem de região, deixando de funcionar como índice de cobertura — a equipe não conseguiu reverificar
   essa captura por bloqueio temporário do arquivo, e quem citar capturas posteriores a essa data deve
   confirmar antes se a lista ainda tem valor probatório.'
+- O desenho normativo varia mais do que parecia, e a variação é informativa. Minas Gerais criou a reserva
+  de 10% mantendo a exigência de autorização do Banco Central sobre o próprio emitente, e ali quem operou
+  foi o Banco Master, não a operadora. Goiás criou a margem por lei do Legislativo e não registrou credenciamento
+  algum no diário estadual, apesar de constar da lista de cobertura. Santa Catarina instituiu a margem
+  em abril de 2025 e, em 11/06/2026, revogou-a junto com a própria categoria de consignatária administradora
+  de cartão de benefícios — a reação mais completa localizada até aqui.
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -120,6 +126,9 @@ source_ids:
 - src-poder360-balanco-banco-master-2024-consolidado
 - src-webarchive-balanco-banco-master-2023-consolidado
 - src-convenio-itapissuma-2021-credcesta-clausulas-operacionais
+- src-jornalmg-2022-02-23-decreto-48370-reserva-cartao-beneficio
+- src-doego-2023-12-08-lei-22449-margem-adicional-cartao-beneficio
+- src-sea-sc-decreto-926-2025-e-1562-2026-margem-cartao-beneficio
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

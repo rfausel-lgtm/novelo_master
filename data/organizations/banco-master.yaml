@@ -37,6 +37,11 @@ open_questions:
   todos auditados sem ressalva. Em nenhum deles a expressão 'PKL One' aparece, embora seja o nome que
   consta do contracheque do servidor. A rubrica 'serviços pagos antecipadamente para apoio operacional
   de convênios' passou de R$ 33,3 milhões a R$ 202,5 milhões entre 2023 e 2024.
+- 'Em dois estados o credenciamento saiu em nome do próprio banco, e não da operadora: em Mato Grosso,
+  pelo convênio de 2023 com a secretaria de planejamento, e em Minas Gerais, sob o código 302. Em Minas
+  o banco foi descredenciado em fevereiro de 2026, por não apresentar documentação de recadastramento
+  — fundamento administrativo, não sancionatório. No Amapá, o banco foi habilitado no mesmo despacho que
+  inabilitou a operadora.'
 source_ids:
 - src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
 - src-alagoasprevidencia-termo-credenciamento-033-2024
@@ -81,6 +86,8 @@ source_ids:
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 - src-poder360-balanco-banco-master-2024-consolidado
 - src-webarchive-balanco-banco-master-2023-consolidado
+- src-jornalmg-2026-descredenciamento-banco-master-recadastramento
+- src-jornalmg-2022-02-23-decreto-48370-reserva-cartao-beneficio
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
 review_status: published

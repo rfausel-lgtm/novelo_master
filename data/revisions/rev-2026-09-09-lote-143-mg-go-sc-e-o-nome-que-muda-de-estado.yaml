@@ -1,0 +1,32 @@
+id: rev-2026-09-09-lote-143-mg-go-sc-e-o-nome-que-muda-de-estado
+kind: revision
+date: '2026-09-09'
+title: Lote 143 — Minas, Goiás e Santa Catarina, e o nome que muda de estado para estado
+summary: 'Quarta etapa da expansão, com três estados novos e uma chave metodológica que reorganiza a verificação.
+  A chave é esta: o nome que figura no credenciamento não é o mesmo em todos os estados. A operadora aparece
+  em São Paulo, Rio de Janeiro, Paraná, Mato Grosso do Sul e Santa Catarina; em Mato Grosso e Minas Gerais
+  quem consta é o próprio banco; em Goiás não consta nenhum dos dois no diário estadual, ainda que o estado
+  figure na lista de cobertura desde 2022; e no Amapá a operadora foi inabilitada e o banco habilitado
+  no mesmo despacho. Buscar apenas por um dos nomes perde estados inteiros. Quanto aos casos: Minas Gerais
+  integrou o mesmo ciclo normativo em fevereiro de 2022, mas escreveu a norma de outro modo — exigiu que
+  o emitente do cartão tivesse funcionamento autorizado pelo Banco Central, sem dispensar a exigência
+  como o Rio nem deslocá-la para o parceiro bancário como São Paulo e Mato Grosso —, e ali quem operou
+  foi o banco, descredenciado em fevereiro de 2026 por fundamento estritamente administrativo, falta de
+  recadastramento. Goiás é o único caso em que a margem veio por lei do Legislativo, e o levantamento
+  no índice do diário estadual, com controle metodológico, não encontrou uma única menção à operadora,
+  ao produto ou ao banco. Santa Catarina produziu a reação mais completa localizada até aqui: instituiu
+  a margem em abril de 2025 e, em 11 de junho de 2026, revogou-a junto com a própria categoria de consignatária
+  administradora de cartão de benefícios — enquanto outros entes suspenderam códigos, o estado fechou
+  a categoria.'
+affected_ids:
+- credcesta
+- pkl-one-participacoes
+- banco-master
+reason: Continuação da expansão da investigação sobre o CredCesta para os demais estados, com leitura
+  dos diários oficiais de Minas Gerais e Goiás e de documentos da secretaria de administração de Santa
+  Catarina.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,21 @@
+id: ev-santa-catarina-revogou-a-margem-e-a-categoria-de-consignataria
+kind: evidence
+classification: D
+proposition: 'Santa Catarina produziu a reação regulatória mais completa entre as localizadas. Havia instituído
+  em abril de 2025 a margem adicional de dez por cento para cartão consignado de benefícios e admitido
+  como consignatárias as administradoras desse tipo de cartão. Em 11 de junho de 2026 revogou os dois
+  dispositivos de uma só vez: extinguiu a margem e eliminou a própria figura jurídica que a tornava utilizável.
+  Enquanto outros entes suspenderam códigos de desconto ou descredenciaram empresas, o estado fechou a
+  categoria inteira.'
+document_ids:
+- doc-2026-06-11-decreto-1562-sc-revoga-margem-e-categoria-cartao-beneficio
+- doc-2026-03-relacao-consignatarias-sea-sc-credcesta-pkl-one
+source_ids:
+- src-sea-sc-decreto-926-2025-e-1562-2026-margem-cartao-beneficio
+- src-sea-sc-2026-03-relacao-consignatarias-cartao-beneficio-credcesta
+date: '2026-06-11'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
