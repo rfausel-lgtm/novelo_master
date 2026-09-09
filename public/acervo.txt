@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T14:09:15.372Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-09T14:24:35.261Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -188,7 +188,7 @@ PESSOA|jefferson-pessoa-da-silva|Jefferson Pessoa da Silva|Assessor no gabinete 
 PESSOA|jeronimo-rodrigues|Jerônimo Rodrigues|Governador da Bahia desde 2023; candidato à reeleição|Chefe do Executivo estadual no período dos repasses à ASSEBA apontados pelo Coaf, e responsável pela decisão sobre a continuidade do contrato do CredCesta.
 POSIÇÃO|jeronimo-rodrigues|denial|Por nota do governo do Estado: 'Não é verdade que o governo injetou 140 milhões em uma associação de servidores controlada por Augusto Lima.' Sustenta que os valores são descontos em folha da taxa de associação, autorizados pelos próprios servidores.
 PESSOA|jhonatan-de-jesus|Jhonatan de Jesus|Ministro do Tribunal de Contas da União, relator da inspeção sobre a liquidação do Banco Master|Conduz, como relator no TCU, a fiscalização sobre como o Banco Central decidiu liquidar o Banco Master.
-PESSOA|joao-carlos-mansur|João Carlos Mansur|Fundador da Reag Investimentos; acionista do BRB|Comprou ações do BRB por meio de fundo administrado pelo Banco Master, segundo documento do próprio BRB noticiado pela imprensa. Firmou a primeira delação premiada da Operação Compliance Zero. Firmou a primeira delação premiada da Operação Compliance Zero.
+PESSOA|joao-carlos-mansur|João Carlos Mansur|Fundador da Reag Investimentos; acionista do BRB|Comprou ações do BRB por meio de fundo administrado pelo Banco Master, segundo documento do próprio BRB noticiado pela imprensa. Firmou a primeira delação premiada da Operação Compliance Zero.
 POSIÇÃO|joao-carlos-mansur|no_response|A defesa de João Carlos Mansur não respondeu à CNN Brasil até a publicação.
 PESSOA|joao-manoel-pinho-de-mello|João Manoel Pinho de Mello|Diretor de Organização do Sistema Financeiro e de Resolução do Banco Central (2019)|Relatou o voto do Banco Central que autorizou Daniel Vorcaro a assumir o controle do banco que viria a se chamar Master.
 PESSOA|jocildo-lemos|Jocildo Lemos|Diretor-presidente da Amapá Previdência (Amprev); ex-tesoureiro de campanha de Davi Alcolumbre|Dirigia a autarquia previdenciária do Amapá que investiu R$ 400 milhões no Banco Master, investimento hoje sob investigação da PF, e tem ligação política com o presidente do Senado, segundo a imprensa.
