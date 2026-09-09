@@ -2,6 +2,8 @@ id: associacao-nacional-delegados-pf
 kind: organization
 name: Associação Nacional dos Delegados de Polícia Federal
 aliases: []
+distinct_from:
+- policia-federal
 org_type: association
 summary: Entidade classista de delegados da Polícia Federal (também referida pela sigla ADPF em parte
   da cobertura). Pediu, em 06/09/2026, que o Procurador-Geral da República, Paulo Gonet, se declare impedido
