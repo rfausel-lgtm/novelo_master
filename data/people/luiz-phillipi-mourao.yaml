@@ -5,12 +5,21 @@ category: other
 role: Apontado pela Polícia Federal como integrante do chamado núcleo de intimidação; morreu sob custódia
   em março de 2026
 positions: []
-summary: Preso na 3ª fase da Operação Compliance Zero em 04/03/2026, teve morte cerebral horas depois,
+summary: 'Preso na 3ª fase da Operação Compliance Zero em 04/03/2026, teve morte cerebral horas depois,
   sob custódia da PF em Belo Horizonte. A corporação informou que ele havia tentado se matar, disse que
   entregaria os registros em vídeo ao relator no STF e abriria procedimento apuratório. A família afirma
   não ter tido acesso às imagens, aos autos nem ao laudo do IML, e contesta o apelido que lhe foi atribuído
   pelos investigadores, por falta de prova pública. Segundo a decisão da 6ª fase, a autoridade policial
-  o apontava como gestor de um núcleo subordinado ao comando central.
+  o apontava como gestor de um núcleo subordinado ao comando central. ATUALIZAÇÃO (09/09/2026): a Polícia
+  Federal concluiu o inquérito sobre sua morte em abril de 2026, com a conclusão de que ele atentou contra
+  a própria vida e de que ''não houve intervenção externa na ocorrência''; o relatório foi enviado ao
+  ministro André Mendonça. Não foi localizada divulgação do laudo do IML, nem qualquer apuração externa
+  — de corregedoria ou do Ministério Público — sobre as circunstâncias da morte, e não há registro de
+  que a família tenha obtido, depois disso, o acesso aos autos e às imagens que reclamava. Registro societário:
+  era sócio-administrador único de duas empresas em Belo Horizonte, ambas com capital social declarado
+  de R$ 1 milhão — a King Participações Imobiliárias, apontada como receptora dos repasses mensais destinados
+  ao grupo, e a King Motors Locação de Veículos —, ambas com atividades suspensas por determinação judicial
+  em 03/03/2026.'
 why_in_novelo: É apontado pela Polícia Federal como peça do núcleo que teria monitorado e intimidado adversários
   de Daniel Vorcaro, e morreu sob custódia policial, em circunstâncias que a própria PF disse que apuraria.
 cited_position:
@@ -34,9 +43,19 @@ open_questions:
   apuratório.'
 - As imputações são da autoridade policial e não houve julgamento de mérito; ele morreu antes de qualquer
   defesa em juízo.
+- O inquérito sobre sua morte foi conduzido pela própria instituição sob cuja custódia ela ocorreu e concluído
+  sem que a família, até onde se apurou publicamente, tivesse acesso às imagens, aos autos ou ao laudo
+  do IML — assimetria que o corpus registra.
+- 'Não foi localizado registro de que tivesse sido policial ou profissional de segurança privada: os dados
+  objetivos disponíveis sobre sua trajetória são cadastrais — empresário, sócio único de uma locadora
+  de veículos desde 2020 e de uma imobiliária desde 2022, ambas em Belo Horizonte.'
 source_ids:
 - src-poder360-2026-03-04-morte-cerebral-testemunha
 - src-cnn-2026-04-13-familia-de-mourao-sem-acesso
+- src-brasildefato-2026-04-23-pf-conclui-inquerito-morte-mourao
+- src-brasilapi-2026-king-participacoes-imobiliarias
+- src-brasilapi-2026-king-motors-locacao
+- src-cnnbrasil-2026-vorcaro-pagava-400-mil-mes-a-turma
 aliases:
 - Felipe Mourão
 full_name: Luiz Phillipi Machado de Moraes Mourão
@@ -44,4 +63,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

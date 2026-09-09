@@ -1,0 +1,29 @@
+id: ev-super-varajo-dois-diretores-dois-elos-da-cadeia
+kind: evidence
+classification: I
+proposition: 'Observação estrutural que decorre do cruzamento de registros já verificados, e que não foi
+  localizada em nenhuma fonte jornalística. A cadeia de pagamento ao servidor do Banco Central descrita
+  nas mensagens apreendidas é: ''Sai pra Super. Super manda empresa Léo. Empresa Léo que tem contrato
+  com ele''. Ora, a Super Empreendimentos tem exatamente dois diretores registrados na Receita Federal
+  — Ana Cláudia Queiroz de Paiva (desde 18/08/2021) e Leonardo Augusto Furtado Palhares (desde 23/07/2024)
+  —, e a ''empresa do Léo'' é a Varajo Consultoria, cujo sócio único é o próprio Palhares. Ou seja: os
+  dois elos consecutivos da cadeia descrita são dirigidos pelas duas únicas pessoas que constam do quadro
+  de administradores da primeira empresa, e ambas as sociedades foram suspensas por determinação judicial
+  no mesmo ato, em 03/03/2026. A sobreposição é factual e verificável em registro público; nenhuma fonte
+  afirma que ela tenha sido deliberada, e a coincidência temporal entre a entrada de Palhares na Super
+  (julho de 2024) e a saída de Fabiano Zettel da diretoria no mesmo mês permanece sem explicação localizada.'
+document_ids: []
+source_ids:
+- src-brasilapi-2026-super-empreendimentos-cnpj
+- src-brasilapi-2026-varajo-consultoria-cnpj
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+inference_basis: Cruzamento entre o quadro de administradores da Super Empreendimentos e o quadro societário
+  da Varajo Consultoria, ambos obtidos do registro da Receita Federal, confrontados com a descrição da
+  cadeia de pagamento constante das mensagens reproduzidas na decisão do STF. A inferência é estrutural,
+  não causal.
+date: '2024-07-23'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,32 @@
+id: ev-contradicao-decisao-ana-claudia-socia-ou-funcionaria
+kind: evidence
+classification: I
+proposition: 'A decisão do STF descreve Ana Cláudia Queiroz de Paiva de duas formas incompatíveis. No
+  § 37 ela é ''ANA CLAUDIA, funcionária de VORCARO''. No § 77, a decisão sustenta que sua participação
+  ''foi além da simples execução operacional, uma vez que participava formalmente da estrutura utilizada
+  para viabilizar a circulação de recursos [...] na condição de sócia da empresa SUPER EMPREENDIMENTOS
+  E PARTICIPACOES S.A''. A apuração da equipe não localizou nenhum elemento que a coloque como acionista
+  da Super: o registro da Receita Federal a qualifica como DIRETORA, não sócia, e apuração jornalística
+  aponta que o principal acionista da holding é o fundo Termópilas, administrado pela Reag. Por ser sociedade
+  anônima fechada, o quadro acionário da Super não é público, e não foram localizadas atas de assembleia
+  ou publicações que o esclareçam — de modo que participação minoritária não pode ser descartada, apenas
+  não é sustentada por nenhuma fonte. A leitura que os registros sustentam é a de diretora estatutária
+  não acionista. Ela é, porém, efetivamente sócia quotista de outra empresa do grupo: a Storm Empreendimentos,
+  sociedade limitada de capital social de R$ 50 mil, onde figura como sócia desde 08/01/2025 ao lado de
+  Fabiano Zettel. O corpus registra a contradição interna da decisão como tal, sem convertê-la em participação
+  societária relevante não comprovada.'
+document_ids:
+- doc-2026-03-04-decisao-pet-15556-prisao-preventiva
+source_ids:
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+- src-otempo-2025-12-21-receita-liga-vorcaro-empresa-casa-36-milhoes
+inference_basis: Confronto entre dois parágrafos da mesma decisão judicial e o registro societário da
+  Receita Federal, que qualifica sua posição como diretoria e não como participação acionária. A impossibilidade
+  de verificar o quadro acionário de sociedade anônima fechada impede conclusão definitiva, e isso é registrado
+  como limite.
+date: '2026-03-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

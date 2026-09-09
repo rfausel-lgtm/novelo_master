@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T18:59:33.283Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-09T19:21:49.650Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -39,7 +39,8 @@ POSIÇÃO|alexandre-de-moraes|clarification|Segundo o escritório, o compliance 
 PESSOA|alexandre-flavio-medeiros-monteiro|Alexandre Flávio Medeiros Monteiro|Conselheiro do Comitê de Investimentos da Amapá Previdência (CIAP)|Um dos dois conselheiros que votaram contra a continuidade das aplicações no Banco Master, identificados por documento oficial.
 PESSOA|alfredo-gaspar|Alfredo Gaspar|Deputado federal; relator da CPMI do INSS|Redigiu o relatório da CPMI do INSS que dedica capítulo ao Banco Master e propõe indiciamentos; o texto foi rejeitado.
 PESSOA|aluizio-moizinho|Aluizio Honorio Moizinho Junior|Ex-diretor responsável pela Sefer Investimentos, absolvido pela CVM no caso Brazil Realty|É um dos três ex-diretores da Sefer absolvidos pela CVM, destituído pelo próprio controlador condenado, Benjamim Botelho de Almeida, justamente durante uma auditoria interna que promovia.
-PESSOA|ana-claudia-queiroz-de-paiva|Ana Cláudia Queiroz de Paiva|Apontada como operadora de pagamentos a servidores do Banco Central|Nomeada em apuração da PF, com base na decisão do STF na PET 15556, como operadora de pagamentos no esquema de vantagens a servidores do Banco Central.
+PESSOA|ana-claudia-queiroz-de-paiva|Ana Cláudia Queiroz de Paiva|Administradora de empresas; diretora da Super Empreendimentos e de outras sociedades do grupo; investigada sob cautelar…|É apontada pela decisão do STF como quem executava as transferências do esquema — e, mais do que executar, quem explicou ao próprio Vorcaro o mecanismo para que os pagamentos a um servidor do Banco Central não saíssem diretamente dele.
+POSIÇÃO|ana-claudia-queiroz-de-paiva|version|Não foi localizada manifestação própria dela nem de defesa constituída em seu nome. A única manifestação pública em seu favor veio da defesa de Daniel Vorcaro, em dezembro de 2025: 'Ana Claudia Queiroz de Paiva é administradora de empresas e presta serviços a…
 PESSOA|ana-paula-casagrande|Ana Paula Casagrande|Advogada de Daniel Vorcaro no processo da CVM sobre o Brazil Realty FII|É a advogada que, na sessão, contestou a individualização de conduta atribuída a Vorcaro no processo — argumento não acolhido pelo colegiado, que o condenou a R$ 20 milhões.
 PESSOA|anderson-antunes-unltd|Anderson Antunes|Sócio da agência UNLTD Network Brazil (Unlimited)|Sócio de agência apontada, em decisão judicial da Operação Compliance Zero, como executora de campanha coordenada de influenciadores a favor do Banco Master.
 PESSOA|anderson-wander-da-silva-lima|Anderson Wander da Silva Lima|Agente da Polícia Federal lotado na Superintendência Regional do Rio de Janeiro|Apontado pela PF como o agente da ativa que fornecia informações sigilosas ao núcleo que atuava em favor da família Vorcaro.
@@ -405,6 +406,8 @@ ORG|itaprevi-itaguai|Itaguaí Previdência|public_body|Regime próprio cujo proc
 ORG|jaguar-investments|Jaguar Investments|fund|É o veículo offshore de Benjamim Botelho de Almeida que manteve a maior posição em cotas do Brazil Realty FII entre as entidades ligadas ao esquema, avaliada em cerca de R$ 113 milhões.
 ORG|jbs|JBS|company|Foi, ao lado do Banco Master, pagadora da consultoria que repassou valores ao escritório do filho de um ministro do STF, segundo a imprensa.
 POSIÇÃO|jbs|clarification|'Como toda empresa brasileira que lida com a complexidade do sistema tributário nacional, contrata consultores para apoiar sua atuação nessa área, entre eles a Consulte Inteligência Tributária'.
+ORG|king-motors-locacao-veiculos|King Motors Locação de Veículos e Participações|company|É a segunda das duas empresas de sócio único do chefe do grupo de intimidação alcançadas pela suspensão judicial de atividades na Operação Compliance Zero.
+ORG|king-participacoes-imobiliarias|King Participações Imobiliárias|company|É a pessoa jurídica pela qual passava o dinheiro destinado ao grupo apontado como responsável por monitorar e intimidar jornalistas, concorrentes e ex-empregados a mando de Daniel Vorcaro.
 ORG|kovr-seguradora|Kovr Seguradora|company|É o único braço do grupo que saiu limpo antes da crise pública — mas sua revenda ao PicPay carrega suspeita própria de estrutura artificial, apontada pelo órgão antitruste.
 ORG|letsbank|Letsbank|financial_institution|É o único braço em que o Banco Central interveio diretamente para impedir a saída do conglomerado — e o único, entre os quatro, liquidado na mesma data do Master, pela mesma causa.
 ORG|lewandowski-advocacia|Lewandowski Advocacia|law_firm|É o escritório do próprio ex-ministro Ricardo Lewandowski, cujo registro cadastral, na data desta consulta, ainda o lista como sócio-administrador — dado que precisa ser cotejado com sua própria declaração de afastamento em janeiro de 2024.

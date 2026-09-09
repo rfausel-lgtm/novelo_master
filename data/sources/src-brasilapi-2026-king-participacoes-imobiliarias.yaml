@@ -1,0 +1,22 @@
+id: src-brasilapi-2026-king-participacoes-imobiliarias
+kind: source
+title: Registro cadastral da King Participações Imobiliárias Ltda — Receita Federal
+publisher: Receita Federal do Brasil (via BrasilAPI)
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-09'
+url: https://brasilapi.com.br/api/cnpj/v1/47855227000182
+source_type: corporate_registry
+summary: 'Consulta ao CNPJ 47.855.227/0001-82. Sociedade aberta em 06/09/2022, capital social de R$ 1
+  milhão, sede em Belo Horizonte, CNAE de corretagem no aluguel de imóveis. Sócio-administrador único:
+  Luiz Phillipi Machado de Moraes Mourão. Situação cadastral SUSPENSA desde 03/03/2026 por DETERMINAÇÃO
+  JUDICIAL.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

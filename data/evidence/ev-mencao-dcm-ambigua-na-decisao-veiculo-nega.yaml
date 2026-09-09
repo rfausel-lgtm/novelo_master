@@ -1,0 +1,30 @@
+id: ev-mencao-dcm-ambigua-na-decisao-veiculo-nega
+kind: evidence
+classification: I
+proposition: 'A mensagem em que o chefe do grupo de intimidação detalha a divisão do pagamento mensal
+  — ''Ele manda o mensal e eu divido entre a turma. 400 divido entre 6. Os meninos mando 75 pra cada,
+  o meu. O DCM e mais dois editores'' — contém a sigla ''DCM'', que a decisão do STF reproduz sem identificar.
+  Nem veículo, nem razão social, nem qualquer pessoa é nomeada na peça, e nenhum jornalista figura como
+  investigado. Diversos veículos atribuíram a sigla ao site Diário do Centro do Mundo, apoiando-se em
+  outro diálogo, de 10/10/2024, em que Vorcaro teria proposto ''um pacote patrocínio mensal'' ao site
+  para ''usar eles para bater nos inimigos'', com a pergunta ''50k mês?''. O Diário do Centro do Mundo
+  divulgou nota negando: afirma que a decisão não identifica a sigla como sendo o veículo, que não recebeu
+  recursos, pagamentos ou qualquer benefício das pessoas investigadas, e que o material carece de cadeia
+  de custódia verificável, contrariando seu histórico editorial de publicações críticas a Vorcaro. Não
+  foi localizada confirmação de que a negociação de patrocínio tenha se consumado, nem identificação dos
+  ''dois editores'' em fonte confiável. O corpus registra a menção como ambígua e NÃO atribui pagamento
+  a nenhum veículo ou jornalista.'
+document_ids:
+- doc-2026-03-04-decisao-pet-15556-prisao-preventiva
+source_ids:
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+inference_basis: Leitura direta da decisão, que reproduz a sigla sem identificá-la, confrontada com a
+  atribuição feita por terceiros na imprensa e com a negativa formal do veículo apontado. A ausência de
+  identificação na peça processual e a inexistência de investigado ligado ao veículo impedem qualquer
+  atribuição.
+date: '2026-03-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
