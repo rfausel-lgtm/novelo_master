@@ -1,0 +1,28 @@
+id: doc-2026-04-01-sentenca-acp-feserp-ms-extincao-sem-merito
+kind: document
+title: Sentença que extinguiu a ação coletiva da federação dos servidores sul-mato-grossenses
+doc_type: judicial_decision
+date: '2026-04-01'
+source_ids:
+- src-djems-2026-04-01-sentenca-acp-feserp-0811026
+summary: 'Localiza o número dos autos que o acervo registrava como pendente e precisa o desfecho: a ação
+  foi distribuída em 27/02/2026 — e não em 03/03/2026, como a própria autora divulgou —, e a sentença
+  de 26/03/2026 acolheu as preliminares dos réus, extinguindo o feito sem resolução do mérito com base
+  no inciso VI do art. 485 do Código de Processo Civil. Não houve condenação em custas nem honorários,
+  por não se ter reconhecido má-fé da federação. A apelação, interposta em abril, seguia sem subir ao
+  tribunal em setembro de 2026 por falta de manifestação das procuradorias.'
+is_official: true
+related_entity_ids:
+- feserp-ms
+- credcesta
+- pkl-one-participacoes
+issuer: 2ª Vara de Direitos Difusos, Coletivos e Individuais Homogêneos de Campo Grande
+url: https://esaj.tjms.jus.br/cdje/getPaginaDoDiario.do?cdVolume=11&nuDiario=5839&cdCaderno=3&nuSeqpagina=1450
+reference: ACP 0811026-41.2026.8.12.0001; DJE-TJMS ed. 5.839, p. 1.450
+excerpt: JULGO EXTINTO O FEITO, sem resolução do mérito, com o fundamento no art. 485, inciso VI, do Código
+  de Processo Civil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

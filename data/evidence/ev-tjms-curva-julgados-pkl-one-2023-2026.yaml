@@ -10,9 +10,13 @@ document_ids:
 - doc-2026-09-09-levantamento-julgados-tjms-pkl-one-credcesta
 source_ids:
 - src-tjms-cjpg-2026-09-09-julgados-pkl-one-credcesta
+- src-djems-2025-09-19-decisao-2a-vara-bancaria-pkl-one
 date: '2026-09-09'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'
 created_at: '2026-09-09'
 updated_at: '2026-09-09'
+summary: ' Complemento: a decisão da 2ª Vara Bancária citada pela imprensa foi posteriormente localizada
+  — processo 0848786-58.2025.8.12.0001, publicada no diário da Justiça de 19/09/2025 —, e sua redação
+  é mais contida do que a paráfrase que circulou.'

@@ -18,14 +18,16 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- 'Número do processo da ação civil pública e da apelação não localizados: a base de julgados do tribunal
-  não indexa a sentença, e a consulta por nome de parte não retornou resultado. Obter o número permitiria
-  ler a íntegra da decisão e acompanhar o recurso.'
 - A federação afirma que os servidores não têm acesso aos contratos nem canal de contato com a operadora.
   Confirmar se algum servidor obteve cópia de contrato assinado, e por qual via.
+- 'Autos localizados: ação civil pública 0811026-41.2026.8.12.0001, na 2ª Vara de Direitos Difusos de
+  Campo Grande, distribuída em 27/02/2026, com sentença de extinção em 26/03/2026. A apelação interposta
+  em abril seguia sem subir ao tribunal em setembro de 2026, à espera de manifestação das procuradorias
+  — acompanhar o julgamento é a pendência que resta.'
 source_ids:
 - src-ojacare-2026-04-03-juiz-extingue-acao-feserp-consignados-master
 - src-midiamax-2026-justica-encerra-acao-consignados-master-servidores
+- src-djems-2026-04-01-sentenca-acp-feserp-0811026
 jurisdiction: Mato Grosso do Sul, Brasil
 review_status: published
 reviewer: orquestrador

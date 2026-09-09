@@ -1,0 +1,27 @@
+id: src-campograndenews-2026-impasse-prefeitura-master-servidores-nova-cobranca
+kind: source
+title: Impasse entre Prefeitura e Banco Master ameaça servidores com nova cobrança
+publisher: Campo Grande News
+publication_date: '2026-09-08'
+retrieved_at: '2026-09-09'
+url: https://www.campograndenews.com.br/cidades/capital/impasse-entre-prefeitura-e-banco-master-ameaca-servidores-com-nova-cobranca
+source_type: press
+summary: 'Reporta que a prefeitura e o instituto de previdência municipal obtiveram liminar na 3ª Vara
+  de Fazenda Pública determinando a retenção de repasses em conta judicial como garantia de valores aplicados
+  em letras financeiras do banco, e que a decisão determinou que a instituição se abstivesse de cobrar
+  ou negativar os servidores — único registro localizado de tutela explícita contra negativação. Documenta
+  ainda efeito colateral da liquidação: a nova gestão reprocessou as bases e reenviou listas automatizadas
+  ao setor de pessoal, restabelecendo descontos sobre contratos já quitados. Uma servidora que quitara
+  o contrato em janeiro de 2026 teve R$ 293,46 descontados em agosto; ao reclamar, ouviu que ''enquanto
+  o banco mandar vai ser descontado'', e o telefone do banco ''não existe''. O repasse municipal mensal
+  é de cerca de R$ 1 milhão.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do diário da Justiça e de acórdãos do tribunal sul-mato-grossense)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

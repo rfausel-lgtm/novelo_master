@@ -69,6 +69,14 @@ open_questions:
   vinte e quatro unidades da federação. Quem vendia na ponta era correspondente bancário, remunerado por
   comissão do seguro prestamista — não do seguro de vida, expressamente excluído —, num cartão que não
   admitia portabilidade para outra instituição.'
+- 'Nos autos sul-mato-grossenses a empresa sustentou não possuir documentos da contratação, atribuindo
+  a responsabilidade ao banco. A questão de sua natureza jurídica divide o tribunal estadual: câmaras
+  distintas ora acolhem sua exclusão do polo passivo por não ser instituição financeira, ora a reconduzem
+  por ser ''administradora operacional do produto Credcesta''. O efeito prático é que o mesmo argumento
+  que aponta a falha do credenciamento serve, no processo, para retirá-la da lide. Precisão jurídica:
+  a lei do sistema financeiro pune atuar como instituição financeira sem autorização, e não o uso da palavra
+  ''Banco'' na denominação — a designação que consta do diário oficial é indício de como o Estado enxergava
+  a empresa, não enquadramento autônomo.'
 source_ids:
 - src-djen-cnj-agravo-3000060-09-2026-tjrj
 - src-metropoles-2026-08-15-pkl-one-credcesta-macapa
@@ -92,6 +100,9 @@ source_ids:
 - src-sea-sc-2026-03-relacao-consignatarias-cartao-beneficio-credcesta
 - src-webarchive-2026-01-19-credcesta-lojas-rede-em-vinte-e-quatro-ufs
 - src-webarchive-2024-05-18-faq-credcesta-comissao-seguro-prestamista
+- src-tjms-2025-2026-precedentes-divergentes-sobre-legitimidade-da-pkl-one
+- src-bcb-lei-4595-1964-art-44-paragrafo-7
+- src-tjms-2026-04-30-acordao-ai-1403759-consulta-ao-site-do-banco-central
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

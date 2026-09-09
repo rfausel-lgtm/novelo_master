@@ -1,0 +1,22 @@
+id: ev-tribunal-de-ms-dividido-sobre-a-legitimidade-da-pkl-one
+kind: evidence
+classification: D
+proposition: 'A natureza jurídica da empresa virou, na prática, um problema de competência — e um mecanismo
+  de fragmentação das ações dos servidores. O tribunal sul-mato-grossense está dividido: a 5ª Câmara Cível,
+  em junho de 2025, e a 1ª Câmara, em janeiro de 2026, acolheram a exclusão da empresa do polo passivo
+  por não ser instituição financeira, deslocando a competência; a 3ª Câmara, em maio de 2026, reformou
+  essa exclusão ao entender que ela responde como ''administradora operacional do produto Credcesta'',
+  com base no Código de Defesa do Consumidor. Um conflito de julho de 2026 ementa a causa como ''demanda
+  ajuizada contra holding de instituição não-financeira''. O efeito prático para o servidor é que o mesmo
+  argumento que o acervo registra como falha do credenciamento serve, nos autos, para tirar a empresa
+  do processo.'
+document_ids:
+- doc-2026-04-30-acordao-ai-1403759-tjms-consulta-ao-site-do-banco-central
+source_ids:
+- src-tjms-2025-2026-precedentes-divergentes-sobre-legitimidade-da-pkl-one
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -11,13 +11,19 @@ proposition: 'A tentativa de tratar o problema coletivamente fracassou por quest
   uma análise específica de adimplemento de cada mútuo''. Houve apelação, não julgada até setembro de
   2026. Na prática, a suspensão que o Judiciário negou à via coletiva veio meses depois por vias administrativas
   e pelo colapso do próprio convênio.'
-document_ids: []
+document_ids:
+- doc-2026-04-01-sentenca-acp-feserp-ms-extincao-sem-merito
 source_ids:
 - src-ojacare-2026-04-03-juiz-extingue-acao-feserp-consignados-master
 - src-midiamax-2026-justica-encerra-acao-consignados-master-servidores
+- src-djems-2026-04-01-sentenca-acp-feserp-0811026
 date: '2026-04-01'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'
 created_at: '2026-09-09'
 updated_at: '2026-09-09'
+summary: ' Os autos foram localizados: ação civil pública 0811026-41.2026.8.12.0001, distribuída em 27/02/2026
+  — e não em 03/03/2026, como a própria autora divulgou —, com sentença de 26/03/2026 fundada no inciso
+  VI do art. 485 do Código de Processo Civil, sem condenação em custas ou honorários por não se ter reconhecido
+  má-fé.'

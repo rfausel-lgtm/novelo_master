@@ -1,0 +1,35 @@
+id: rev-2026-09-09-lote-145-autos-de-ms-numeros-localizados-e-duas-correcoes
+kind: revision
+date: '2026-09-09'
+title: 'Lote 145 — os autos de Mato Grosso do Sul: números localizados, duas correções e um tribunal dividido'
+summary: 'Lote de fechamento documental e de precisão. Três peças que o acervo registrava como não localizadas
+  foram encontradas e lidas. A decisão da 2ª Vara Bancária citada à exaustão pela imprensa é o processo
+  0848786-58.2025.8.12.0001, publicada em 19/09/2025 — e sua redação é mais contida do que a paráfrase
+  corrente: diz que a empresa ''aparentemente, não é instituição financeira regulada pelo Banco Central''.
+  A formulação mais forte, de que ela ''não compõe a lista de instituições financeiras'', é de decisões
+  de 2026, e atribuí-la àquela seria impreciso. Há ainda precedente anterior, de 21/05/2025. A ação coletiva
+  da federação dos servidores é a 0811026-41.2026.8.12.0001, distribuída em 27/02/2026 e extinta em 26/03/2026
+  sem resolução de mérito, sem custas nem honorários. Achado metodológico relevante: um acórdão de abril
+  de 2026 preserva a fundamentação de primeira instância com o endereço eletrônico consultado, mostrando
+  que o Judiciário estadual fez, por conta própria, a mesma verificação na base do Banco Central que a
+  equipe havia feito e registrado — e chegou ao mesmo resultado. Registra-se também que o tribunal está
+  dividido sobre a natureza jurídica da empresa, de modo que o mesmo argumento que aponta a falha do credenciamento
+  serve, nos autos, para excluí-la da lide, fragmentando as ações dos servidores. Duas correções de precisão:
+  a lei do sistema financeiro pune atuar como instituição financeira sem autorização, e não o uso da palavra
+  ''Banco'' na denominação, de modo que a designação do diário oficial vale como indício e não como enquadramento;
+  e as explicações para a cessação dos descontos em agosto de 2026 são duas, incompatíveis entre si, ambas
+  registradas sem escolha. Por fim, o efeito humano da liquidação: descontos ressuscitados sobre contratos
+  já quitados, e a única liminar localizada que veda expressamente cobrar ou negativar servidores.'
+affected_ids:
+- pkl-one-participacoes
+- credcesta
+- banco-master
+- feserp-ms
+- banco-central-do-brasil
+reason: Fechamento das lacunas processuais de Mato Grosso do Sul registradas em lotes anteriores, com
+  leitura do diário da Justiça e de acórdãos, e conferência do texto legal invocado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

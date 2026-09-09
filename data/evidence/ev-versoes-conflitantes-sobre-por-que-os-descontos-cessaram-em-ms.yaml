@@ -1,0 +1,22 @@
+id: ev-versoes-conflitantes-sobre-por-que-os-descontos-cessaram-em-ms
+kind: evidence
+classification: A
+proposition: Há duas explicações incompatíveis, em circulação simultânea, para a interrupção dos descontos
+  na folha estadual sul-mato-grossense em agosto de 2026. A secretaria estadual de administração sustenta
+  que a causa foi da própria empresa, que teria deixado de manter contrato com a companhia terceirizada
+  operadora do sistema de consignações, e que 'enquanto o impasse contratual não for resolvido, os valores
+  continuarão fora da folha'. A federação dos servidores afirma, em 08/09/2026, que o governo estadual
+  'realizou auditoria no credenciamento e determinou a suspensão dos descontos'. Nenhum documento que
+  comprove o impasse contratual foi localizado, e nenhum ato de suspensão ou rescisão foi publicado no
+  diário oficial. As duas versões seguem registradas sem que se escolha entre elas.
+document_ids: []
+source_ids:
+- src-investigams-2026-09-05-credcesta-convenio-renovado-segue-vigente
+attributed_to: Secretaria de Estado de Administração de Mato Grosso do Sul e Federação Sindical dos Servidores
+  Públicos Estaduais e Municipais de Mato Grosso do Sul, em declarações à imprensa
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

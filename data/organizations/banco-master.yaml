@@ -42,6 +42,11 @@ open_questions:
   o banco foi descredenciado em fevereiro de 2026, por não apresentar documentação de recadastramento
   — fundamento administrativo, não sancionatório. No Amapá, o banco foi habilitado no mesmo despacho que
   inabilitou a operadora.'
+- 'Efeito documentado da liquidação sobre os consignados: em Campo Grande, a nova gestão reprocessou bases
+  e reenviou listas automatizadas ao setor de pessoal do município, fazendo ressurgir descontos sobre
+  contratos já quitados — caso registrado de servidora que quitou em janeiro de 2026 e teve R$ 293,46
+  descontados em agosto. Liminar na 3ª Vara de Fazenda Pública determinou que a instituição se abstivesse
+  de cobrar ou negativar os servidores, único registro localizado de tutela expressa nesse sentido.'
 source_ids:
 - src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
 - src-alagoasprevidencia-termo-credenciamento-033-2024
@@ -88,6 +93,7 @@ source_ids:
 - src-webarchive-balanco-banco-master-2023-consolidado
 - src-jornalmg-2026-descredenciamento-banco-master-recadastramento
 - src-jornalmg-2022-02-23-decreto-48370-reserva-cartao-beneficio
+- src-campograndenews-2026-impasse-prefeitura-master-servidores-nova-cobranca
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
 review_status: published

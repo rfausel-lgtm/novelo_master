@@ -1,0 +1,25 @@
+id: src-tjms-2026-04-30-acordao-ai-1403759-consulta-ao-site-do-banco-central
+kind: source
+title: Acórdão do agravo de instrumento 1403759-69.2026.8.12.0000 — a consulta do Judiciário à base do
+  Banco Central
+publisher: Tribunal de Justiça de Mato Grosso do Sul — 3ª Câmara Cível
+publication_date: '2026-04-30'
+retrieved_at: '2026-09-09'
+url: https://esaj.tjms.jus.br/cjsg/getArquivo.do?cdAcordao=1886975&cdForo=0
+source_type: official_court
+summary: 'Acórdão lido pela equipe, que reproduz a fundamentação da 2ª Vara Bancária em sua formulação
+  completa: ''em consulta ao sítio eletrônico oficial da aludida autarquia (bcb.gov.br/meubc/encontreinstituicao),
+  constata-se que a parte ré não compõe a lista de instituições financeiras''. O juízo extinguiu parcialmente
+  o feito quanto à empresa, por incompetência do juízo especializado. O registro tem valor metodológico:
+  o Judiciário sul-mato-grossense fez, por conta própria, a mesma consulta à base pública do Banco Central
+  que a equipe realizou, e chegou ao mesmo resultado.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do diário da Justiça e de acórdãos do tribunal sul-mato-grossense)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

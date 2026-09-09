@@ -1,0 +1,25 @@
+id: src-djems-2025-09-19-decisao-2a-vara-bancaria-pkl-one
+kind: source
+title: Decisão da 2ª Vara Bancária de Campo Grande no processo 0848786-58.2025.8.12.0001
+publisher: Diário da Justiça Eletrônico do Tribunal de Justiça de Mato Grosso do Sul
+publication_date: '2025-09-19'
+retrieved_at: '2026-09-09'
+url: https://esaj.tjms.jus.br/cdje/getPaginaDoDiario.do?cdVolume=10&nuDiario=5720&cdCaderno=3&nuSeqpagina=529
+source_type: official_court
+summary: 'Caderno judicial de primeira instância, edição 5.720, página 529, lida pela equipe. Ação de
+  procedimento comum ajuizada em 28/08/2025 contra seis instituições, entre elas a PKL One Participações
+  S.A. O juízo consigna que a empresa ''aparentemente, não é instituição financeira regulada pelo Banco
+  Central'' e intima o autor a manifestar-se sobre a competência do juízo especializado. Precisão necessária:
+  a frase que circulou na imprensa — de que a empresa ''não compõe a lista de instituições financeiras''
+  — não está nesta decisão de setembro de 2025, e sim em decisões de 2026 da mesma vara. A publicação
+  não nomeia o magistrado.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do diário da Justiça e de acórdãos do tribunal sul-mato-grossense)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,22 @@
+id: ev-liquidacao-fez-ressurgir-descontos-sobre-contratos-ja-quitados
+kind: evidence
+classification: C
+proposition: 'A liquidação produziu um efeito que atinge diretamente quem já havia pago. Segundo apuração
+  jornalística com lastro em caso concreto, a nova gestão reprocessou as bases de dados e reenviou listas
+  automatizadas ao setor de pessoal do município de Campo Grande, restabelecendo descontos sobre contratos
+  encerrados: uma servidora que quitou em janeiro de 2026 teve R$ 293,46 descontados em agosto e, ao reclamar,
+  ouviu que ''enquanto o banco mandar vai ser descontado'', enquanto o telefone da instituição ''não existe''.
+  No mesmo processo, a liminar obtida pela prefeitura e pelo instituto de previdência determinou que a
+  instituição se abstivesse de cobrar ou negativar os servidores — único registro localizado de tutela
+  expressa nesse sentido.'
+document_ids:
+- doc-2026-liminar-campo-grande-veda-cobranca-e-negativacao-de-servidores
+source_ids:
+- src-campograndenews-2026-impasse-prefeitura-master-servidores-nova-cobranca
+- src-investigams-2026-09-05-credcesta-convenio-renovado-segue-vigente
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
