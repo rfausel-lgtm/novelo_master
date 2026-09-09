@@ -19,7 +19,9 @@ summary: 'Advogado criminalista, nascido em São Paulo (16/08/1977), bacharel em
   para assistir à final da Libertadores (Palmeiras x Flamengo); Toffoli e Botelho são ambos palmeirenses.
   Dois dias depois, Toffoli decretou sigilo no processo — episódio que se tornou uma das três frentes
   citadas pela PF num pedido de suspeição contra o ministro em fevereiro de 2026, posteriormente arquivado
-  por Fachin.'
+  por Fachin. Concorreu a deputado federal por São Paulo em 2022 (PSB), candidatura financiada em parte
+  por Luiz Osvaldo Pastore (R$ 300 mil) — o mesmo empresário cujo jato o levaria, junto com Toffoli, a
+  Lima três anos depois; não foi eleito.'
 why_in_novelo: É o advogado cuja viagem com o relator do caso Master, dias antes de o ministro decretar
   sigilo no processo, motivou parte de um pedido formal de suspeição da PF contra Toffoli e uma discussão
   ética na OAB-SP sobre transporte gratuito de magistrados por particulares.
@@ -32,12 +34,15 @@ open_questions:
   além da defesa de Luiz Bull — resultado negativo documentado, não prova de inexistência.
 - Nenhuma manifestação posterior localizada especificamente sobre o episódio do voo, além da nota de 20/12/2025
   já registrada.
+- Recebeu R$ 300 mil de Pastore em 2022 para sua candidatura a deputado federal (não eleito) — segunda
+  conexão financeira documentada entre os dois, anterior ao voo a Lima de 2025.
 source_ids:
+- src-campograndenews-2024-10-22-pastore-doacao-botelho-deputado
 - src-cnnbrasil-2025-12-20-advogado-passageiros-torcedores
 - src-cnnbrasil-luisamartins-2025-12-relator-toffoli-viajou-advogado
-- src-poder360-2025-12-20-advogado-minimiza-carona-jatinho-toffoli
-- src-metropoles-2026-01-27-botelho-bull-responde-todas-perguntas-pf
 - src-gazetadopovo-2025-12-11-botelho-comemora-glauber-braga
+- src-metropoles-2026-01-27-botelho-bull-responde-todas-perguntas-pf
+- src-poder360-2025-12-20-advogado-minimiza-carona-jatinho-toffoli
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'

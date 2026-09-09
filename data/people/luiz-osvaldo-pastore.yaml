@@ -15,22 +15,45 @@ summary: Empresário, 76 anos (dado de dez/2025), sócio-controlador da Indústr
   Arruda (hoje Flávia Peres) em 2022 — ela se casaria, em janeiro de 2024, com Augusto Ferreira Lima,
   sócio de Daniel Vorcaro no Banco Master. A doação e o casamento são anteriores à investigação sobre
   o Master; não há vínculo direto documentado entre Pastore e o núcleo do caso além dessa conexão de círculo
-  social/político pré-existente.
+  social/político pré-existente. Também doou, no mesmo ano de 2022, R$ 300 mil à campanha do próprio Augusto
+  de Arruda Botelho a deputado federal (PSB-SP) — o mesmo advogado que embarcaria com ele e com Toffoli
+  rumo a Lima três anos depois; é uma segunda conexão financeira documentada entre os dois, anterior ao
+  episódio do voo. Antes do pedido de suspeição da PF (fevereiro de 2026), deputados de oposição já haviam
+  pedido, em janeiro de 2026, o afastamento de Toffoli citando o mesmo voo — pedido arquivado pela PGR
+  em 23/01/2026. É hoje 1º suplente na chapa do senador Eduardo Gomes (PL-TO) ao Senado em 2026; não foi
+  localizada conexão factual entre essa candidatura e o caso Master. Múltiplas reportagens confirmam que
+  não respondeu a nenhum contato de imprensa sobre o voo, e não há registro dele em relatório da PF ou
+  decisão judicial do caso Master — apenas na representação política dos deputados, como proprietário
+  do jato.
 why_in_novelo: É o dono do jato particular em que Toffoli, então relator do caso Master, viajou com o
   advogado de um investigado — e tem, além disso, uma conexão financeira documentada e anterior com a
   atual esposa de outro dos sócios centrais do escândalo, via doação de campanha em 2022.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: no_response
+  summary: Não respondeu a contatos da imprensa sobre o episódio do voo com Toffoli.
+  source_ids:
+  - src-folhape-2025-12-08-quem-e-pastore-jatinho-toffoli
+  by_id: luiz-osvaldo-pastore
+  date: '2025-12-08'
 open_questions:
 - A conexão entre Pastore e Flávia Arruda/Peres é anterior em anos ao caso Master e ao casamento dela
   com Augusto Lima — tratada no corpus como correlação factual documentada de círculo social/político,
   não como evidência de qualquer conluio ou conhecimento prévio do esquema.
 - Não localizado nenhum vínculo financeiro ou societário direto entre Pastore e o Banco Master, Daniel
   Vorcaro, ou demais figuras centrais do caso.
+- Não localizado, em pesquisa dirigida, qualquer relação comercial ou societária dele (ou da Ibrame) com
+  o Banco Master, com fundos/gestoras do ecossistema Master (Reag, CBSF, Trustee DTVM, Banvox) ou com
+  a PKL One/Credcesta; nenhuma menção a ele no relatório de 218 páginas sobre o celular de Vorcaro nem
+  em glossários de envolvidos no caso; nenhuma doação a Jaques Wagner ou Rui Costa; nenhum CDB ou aplicação
+  pessoal no Master — resultados negativos documentados, não prova de inexistência.
 source_ids:
+- src-campograndenews-2024-10-22-pastore-doacao-botelho-deputado
 - src-cnnbrasil-2025-12-20-advogado-passageiros-torcedores
+- src-congressoemfoco-2026-01-23-pgr-arquiva-pedido-tirar-toffoli-relatoria
+- src-folhape-2025-12-08-quem-e-pastore-jatinho-toffoli
 - src-iclnoticias-2025-12-08-pastore-financiou-flavia-arruda
+- src-iclnoticias-2025-12-08-toffoli-aviao-costa-pinto-explica
+- src-jornalopcao-to-2026-pastore-candidato-mais-rico-suplente-gomes
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'

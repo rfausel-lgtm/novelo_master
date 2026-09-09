@@ -1,0 +1,26 @@
+id: src-congressoemfoco-2026-01-23-pgr-arquiva-pedido-tirar-toffoli-relatoria
+kind: source
+title: PGR manda arquivar pedido para tirar Toffoli da relatoria do Master
+publisher: Congresso em Foco
+publication_date: '2026-01-23'
+retrieved_at: '2026-09-06'
+url: https://www.congressoemfoco.com.br/noticia/115772/pgr-manda-arquivar-pedido-para-tirar-toffoli-da-relatoria-do-master
+source_type: press
+summary: 'Os deputados Carlos Jordy (PL-RJ), Adriana Ventura (Novo-SP) e Caroline de Toni (PL-SC) — e,
+  separadamente, o deputado Luiz Philippe de Orleans e Bragança (PL-SP) — apresentaram representação à
+  PGR pedindo a suspeição/afastamento do ministro Dias Toffoli da relatoria do caso Master, citando a
+  viagem a Lima ''em um jatinho do empresário e ex-senador Luiz Oswaldo Pastore''. O procurador-geral
+  Paulo Gonet determinou o arquivamento em 23/01/2026: ''O caso a que se refere a representação já é objeto
+  de apuração perante o Supremo Tribunal Federal, com atuação regular da Procuradoria-Geral da República.''
+  Este pedido é anterior e distinto do relatório da PF que embasaria o segundo pedido de suspeição, em
+  fevereiro de 2026.'
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

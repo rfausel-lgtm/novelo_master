@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T10:37:48.989Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-09T11:00:48.893Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -212,6 +212,7 @@ POSIÇÃO|luiz-inacio-lula-da-silva|version|Em entrevista ao UOL, conforme a Gaz
 POSIÇÃO|luiz-inacio-lula-da-silva|clarification|Resposta via LAI: não foram produzidas atas, registros, filmagens ou gravações das reuniões.
 POSIÇÃO|luiz-inacio-lula-da-silva|version|Chamou o caso Master de 'o maior roubo da história do Brasil' e cobrou apuração 'doa a quem doer', preservando as instituições.
 PESSOA|luiz-osvaldo-pastore|Luiz Osvaldo Pastore|Empresário, dono do jato que levou Dias Toffoli e Augusto de Arruda Botelho a Lima|É o dono do jato particular em que Toffoli, então relator do caso Master, viajou com o advogado de um investigado — e tem, além disso, uma conexão financeira documentada e anterior com a atual esposa de outro dos sócios centrais do escândalo, via doação de campanha em 2022.
+POSIÇÃO|luiz-osvaldo-pastore|no_response|Não respondeu a contatos da imprensa sobre o episódio do voo com Toffoli.
 PESSOA|luiz-phillipi-mourao|Luiz Phillipi Mourão|Apontado pela Polícia Federal como integrante do chamado núcleo de intimidação; morreu sob custódia em março de 2026|É apontado pela Polícia Federal como peça do núcleo que teria monitorado e intimidado adversários de Daniel Vorcaro, e morreu sob custódia policial, em circunstâncias que a própria PF disse que apuraria.
 POSIÇÃO|luiz-phillipi-mourao|denial|A família contesta o apelido atribuído pelos investigadores: 'trata-se de acusação gravíssima, sem apresentação pública, até o momento, de qualquer prova nesse sentido. Seus familiares jamais tiveram conhecimento de envolvimento em atos de violência e muito m…
 POSIÇÃO|luiz-phillipi-mourao|clarification|A família informa que não teve acesso às imagens de segurança, aos autos do inquérito nem ao laudo do IML com a causa mortis, e que soube do ocorrido pela imprensa.
