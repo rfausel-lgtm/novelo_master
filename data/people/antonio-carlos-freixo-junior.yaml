@@ -28,6 +28,11 @@ cited_position:
 open_questions:
 - Seu acordo de colaboração premiada foi assinado com a PGR em 08/08/2026, segundo o Poder360 — a formalização
   e o envio ao STF, amplamente noticiados, ocorreram em 03/09/2026.
+- Segundo a Poder360 (06/09/2026), indícios de sua delação estariam entre as bases de um plano do grupo
+  político de Lula para divulgar suspeitas contra o senador Flávio Bolsonaro, sugerindo que doações de
+  Vorcaro ao filme 'Dark Horse' atribuídas a Jair Bolsonaro teriam sido direcionadas a integrantes da
+  família Bolsonaro — extensão específica e ainda não confirmada em documento primário da colaboração,
+  distinta do que já está registrado no acervo sobre sua delação.
 source_ids:
 - src-brasil247-2026-delator-bomba-1-bilhao-vorcaro
 - src-brasildefato-2026-09-03-pgr-delacao-mineiro
@@ -35,10 +40,11 @@ source_ids:
 - src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
 - src-poder360-2026-pgr-fecha-delacao-mineiro-dark-horse
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+- src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
 aliases:
 - Mineiro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-09'

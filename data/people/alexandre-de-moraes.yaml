@@ -53,6 +53,11 @@ open_questions:
   sem critério explicitado.
 - A nota do gabinete de 06/03/2026 e o relatório de 27/08/2026 são frontalmente contraditórios sobre o
   destinatário das mensagens de 17/11/2025; nenhuma das versões foi arbitrada.
+- Segundo apuração da Poder360 (06/09 e 09/09/2026), Palácio do Planalto e um grupo do STF (Gilmar Mendes,
+  Flávio Dino, Cristiano Zanin) articulam preservá-lo ao máximo das suspeitas envolvendo Vorcaro, adiando
+  decisões do plenário até depois do período eleitoral — leitura da reportagem, sem corroboração jornalística
+  independente localizada até a data desta apuração; não há manifestação dele sobre essa caracterização
+  específica.
 source_ids:
 - src-congressoemfoco-2026-09-01-relatorio-pf
 - src-poder360-2026-09-01-sigilo-pet-16662
@@ -64,6 +69,8 @@ source_ids:
 - src-poder360-2026-09-01-mendonca-quer-sessao-plenario
 - src-stf-despacho-mendonca-2026-09-01-pet-16662
 - src-stf-despacho-fachin-2026-09-03-pet-16704
+- src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
 full_name: Alexandre de Moraes
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Alexandre_de_Moraes
@@ -71,7 +78,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-04'
+updated_at: '2026-09-09'
 photo:
   path: /fotos/alexandre-de-moraes.jpg
   source: Wikimedia Commons

@@ -23,8 +23,13 @@ why_in_novelo: É o relator, no STF, da frente que apura o uso de emendas parlam
   09/09/2026, usou esses mesmos autos para reintegrar Andrei Rodrigues à PF, neutralizando a decisão de
   Mendonça, num episódio central da crise institucional do STF.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: version
+  summary: 'Em postagem no Instagram em 06/09/2026, defendeu decisões monocráticas do STF e disse caber
+    ao próprio STF decidir sobre a tramitação de processos: ''E quem decide o que é ‘tramitação longa’?
+    Opiniões pessoais? Ou critérios legais e regimentais?'''
+  source_ids:
+  - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+  date: '2026-09-06'
 open_questions:
 - Em 17/08/2026, no 'Caso Tech Office' (Pet 15.900/DF e conexas), afastou o presidente do TCE-MA — processo
   sem relação comprovada com o caso Master, citado apenas como precedente na decisão de Mendonça sobre
@@ -70,6 +75,12 @@ open_questions:
 - Busca dirigida não localizou exposição financeira do governo do Maranhão ou de municípios maranhenses
   ao Banco Master (o estado não consta da lista oficial de 18 RPPS expostos), nem conexão financeira direta
   entre ele e o ecossistema Master no estado — resultado negativo.
+- Segundo apuração da Poder360 (09/09/2026), teria havido articulação paralela na noite de 08/09/2026
+  entre integrantes do governo Lula e ele mesmo, para reverter a decisão de Mendonça antes de Fachin se
+  posicionar — e, segundo a mesma reportagem, ele integraria, com Gilmar Mendes e Alexandre de Moraes,
+  um grupo que deseja retirar a relatoria do caso Master de Mendonça. Ambas as alegações permanecem, até
+  a data desta apuração, exclusivas da Poder360, sem corroboração jornalística independente localizada
+  — registradas como leitura de um único veículo, não como fato estabelecido.
 source_ids:
 - src-111next-2026-09-08-vorcaro-cita-dino-precatorios-15bi
 - src-brasildefato-2022-12-09-dino-indica-andrei-legalidade
@@ -85,11 +96,14 @@ source_ids:
 - src-stf-2024-02-22-dino-posse-ministro
 - src-sul21-2026-09-08-carta-13-exministros-stf-agenciabrasil
 - src-verificacao-direta-equipe-pet16669-decisao-dino-integra
+- src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
+- src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-migalhas-2026-09-09-dino-questiona-mendonca-juiz-de-si-mesmo
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-09'
 photo:
   path: /fotos/flavio-dino.jpg
   source: Wikimedia Commons

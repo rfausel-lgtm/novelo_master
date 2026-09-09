@@ -22,15 +22,21 @@ open_questions:
 - Trecho de seu despacho de pedido de vista (sobre o afastamento de Andrei Rodrigues) foi transcrito na
   decisão de Flávio Dino de 09/09/2026 (Pet 16.669), questionando a legitimidade do Partido Novo e a competência
   da 2ª Turma frente à do Plenário, e citando a ADPF 1.017/AL sobre neutralidade eleitoral do Judiciário.
+- Segundo apuração da Poder360 (06/09 e 09/09/2026), integra, com outros ministros, um grupo que articula
+  preservar Alexandre de Moraes das suspeitas envolvendo Vorcaro e que deseja retirar a relatoria do caso
+  Banco Master de André Mendonça — leitura da reportagem, sem corroboração jornalística independente localizada
+  até a data desta apuração.
 source_ids:
 - src-correiobraziliense-2026-09-gilmar-propoe-retirar-delegados
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
 - src-verificacao-direta-equipe-pet16669-decisao-dino-integra
+- src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-09'
 photo:
   path: /fotos/gilmar-mendes.jpg
   source: Wikimedia Commons

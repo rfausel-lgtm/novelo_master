@@ -15,15 +15,21 @@ why_in_novelo: Decidiu, no STF, o mandado de segurança que pedia a instalação
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Segundo apuração da Poder360 (06/09 e 09/09/2026), integra, com outros ministros, um grupo que articula
+  preservar Alexandre de Moraes das suspeitas envolvendo Vorcaro e que deseja retirar a relatoria do caso
+  Banco Master de André Mendonça — leitura da reportagem, sem corroboração jornalística independente localizada
+  até a data desta apuração.
 source_ids:
 - src-stf-2026-03-12-rejeita-cpi
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
+- src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'
 photo:
   path: /fotos/cristiano-zanin.jpg
   source: Wikimedia Commons

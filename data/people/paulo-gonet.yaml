@@ -54,6 +54,9 @@ open_questions:
 - Assinou, em 16/06/2026, o parecer ASSCRIM/PGR nº 940922/2026 sobre a 9ª fase da Compliance Zero — anuindo
   à operação, mas opondo-se à busca no gabinete parlamentar de Jaques Wagner (separação de poderes) e
   à apreensão de bens de luxo (desproporcionalidade); Mendonça não acolheu integralmente essa posição.
+- A Poder360 (06/09/2026) o descreve como 'próximo' de Gilmar Mendes, no contexto do grupo que defende
+  Moraes e se opõe a Mendonça — caracterização da reportagem, sem detalhamento da natureza dessa proximidade
+  nem manifestação dele sobre isso.
 source_ids:
 - src-apublica-2026-09-crise-stf-mensagens-moraes-vorcaro-como-chegamos
 - src-baixadanaweb-2026-09-06-delegados-pedem-impedimento-gonet
@@ -70,12 +73,13 @@ source_ids:
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
 - src-verificacao-direta-equipe-parecer-pgr-940922-2026
+- src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
 full_name: Paulo Gustavo Gonet Branco
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-09'
 photo:
   path: /fotos/paulo-gonet.jpg
   source: Wikimedia Commons

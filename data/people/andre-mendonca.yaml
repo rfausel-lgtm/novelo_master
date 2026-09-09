@@ -22,6 +22,12 @@ cited_position:
     privados entre terceiros.
   source_ids:
   - src-cnn-2026-09-02-mendonca-admite-encontro
+- kind: version
+  summary: Após a decisão de Dino que o neutralizou, afirmou que a PF produzia 'relatórios paralelos'
+    sobre sua própria atuação no caso Master, chamando a prática de 'arapongagem institucional'.
+  source_ids:
+  - src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
+  date: '2026-09-09'
 open_questions:
 - O corpus não contém avaliação oficial sobre impedimento ou suspeição do relator em razão do encontro
   de março de 2025.
@@ -39,8 +45,11 @@ open_questions:
   — fato já registrado no corpus desde março de 2025 (Instituto ITER, classe A), sem juízo de valor antecipado
   por parte de Dino.
 - Um dia antes da decisão de Dino que reintegrou Andrei, a AGU (Jorge Messias) já havia pedido a suspensão
-  da decisão de afastamento diretamente a Fachin — via distinta, não confirmada como tendo relação formal
-  com a decisão de Dino no dia seguinte.
+  da decisão de afastamento diretamente a Fachin. Apuração da Poder360 (09/09/2026) afirma que houve,
+  na noite anterior, articulação paralela entre integrantes do governo Lula e Dino para reverter a decisão
+  — mas busca por corroboração independente dessa articulação específica (fora da Poder360) não localizou
+  outra fonte até a data desta apuração; permanece registrada como apuração exclusiva de um único veículo,
+  não fato confirmado por múltiplas fontes.
 source_ids:
 - src-apublica-2026-02-13-mendonca-herda-caso
 - src-cnn-2026-09-02-mendonca-admite-encontro
@@ -60,11 +69,12 @@ source_ids:
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
 - src-verificacao-direta-equipe-pet16662-documentos-primarios
 - src-verificacao-direta-equipe-pet16669-decisao-dino-integra
+- src-metropoles-2026-09-08-lula-recebe-agu-alvorada-decisao-mendonca
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-09'
 photo:
   path: /fotos/andre-mendonca.jpg
   source: Wikimedia Commons
