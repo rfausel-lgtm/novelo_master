@@ -1,0 +1,28 @@
+id: ev-padrao-normativo-margem-exclusiva-antes-do-credenciamento
+kind: evidence
+classification: C
+proposition: 'Achado estrutural que ultrapassa o caso baiano: em pelo menos quatro estados, o mesmo roteiro
+  normativo antecede a entrada do CredCesta — primeiro um decreto cria uma margem consignável separada
+  e exclusiva para ''cartão de benefício'', e só então, poucos dias depois, vem o credenciamento da PKL
+  One. Na Bahia, os decretos de 27/04/2018 asseguram margem própria de 30%. No Rio de Janeiro, o Decreto
+  nº 47.625, de 27/05/2021, cria margem adicional de 20% exclusiva para cartão de benefício e viabiliza
+  credenciar entidades não autorizadas pelo Banco Central; a autorização à PKL vem cinco dias depois,
+  em 01/06/2021. No Paraná, a filial da empresa é instalada em Curitiba em 19/08/2021, o credenciamento
+  sai por resolução em 24/08/2021 — cinco dias — e o Decreto nº 9.220, de 28/10/2021, cria margem exclusiva
+  de 10%. Em Mato Grosso, decreto de maio de 2023 cria margem exclusiva de 10% e o credenciamento se conclui
+  sete dias depois. Em São Paulo, o Decreto nº 66.622/2022 cria a categoria e o credenciamento ocorre
+  em 27/05/2022. Dois pontos que o corpus registra com ênfase: primeiro, o caso fluminense expõe a questão
+  jurídica central, porque a PKL One é holding de instituições NÃO-financeiras e nunca foi autorizada
+  a funcionar pelo Banco Central; segundo, NÃO há padrão partidário — os governos envolvidos são de PT,
+  PL, PSD, União e PSDB. O padrão é temporal e técnico, concentrado entre 2018 e 2023, não ideológico.'
+document_ids: []
+source_ids:
+- src-gazetadoparana-2026-consignado-parana-roteiro-master
+- src-iclnoticias-2026-castro-com-master-no-rj-margens
+- src-legislabahia-decreto-18354-2018-consignacoes
+date: '2021-06-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

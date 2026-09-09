@@ -1,0 +1,28 @@
+id: ev-credcesta-servidores-seguiram-pagando-apos-liquidacao
+kind: evidence
+classification: C
+proposition: 'O efeito sobre quem estava na ponta. A liquidação do Banco Master, em 18/11/2025, e a do
+  Banco Pleno e da Pleno DTVM, em 18/02/2026, não cancelaram contrato algum: os descontos em folha continuaram,
+  com os valores destinados à massa liquidanda, enquanto para o servidor o produto deixava de funcionar
+  — saques bloqueados, faturas não enviadas, atendimento inexistente. Simultaneamente, o liquidante do
+  Master e a PKL One passaram a reivindicar os mesmos créditos, levando a Prefeitura de Macapá a ir à
+  Justiça por temer pagar duas vezes; em 13/08/2026, a 2ª Vara de Fazenda Pública determinou a retenção
+  dos valores em conta específica e proibiu ambos de cobrar ou negativar os servidores, sob multa por
+  servidor. O litígio individual é volumoso: mais de dez mil ações no Tribunal de Justiça da Bahia, com
+  perfil majoritário de aposentados e idosos. Casos documentados incluem servidores com a quase totalidade
+  da renda comprometida pelo empilhamento de margens. A Defensoria Pública do Rio de Janeiro obteve decisão
+  suspendendo novas contratações e obrigando as empresas a criar canal de atendimento humano; em 08/09/2026
+  a Assembleia fluminense aprovou projeto suspendendo os descontos até auditoria. Na Bahia, a Associação
+  dos Funcionários Públicos do Estado ajuizou ação direta de inconstitucionalidade contra os decretos
+  de 2016 e 2018.'
+document_ids: []
+source_ids:
+- src-correiodoestado-2026-banco-fechado-consignado-continua
+- src-iclnoticias-2026-castro-com-master-no-rj-margens
+- src-jornalgrandebahia-2025-11-afpeb-adi-tjba-credcesta
+date: '2026-08-13'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

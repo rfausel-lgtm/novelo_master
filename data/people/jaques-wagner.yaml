@@ -122,6 +122,14 @@ open_questions:
 - A alegação sobre os ingressos da Taylor Swift (R$ 63,3 mil), já conhecida no corpus por outra via, consta
   especificamente entre os 17 anexos da delação de João Carlos Mansur (26/08/2026), não apenas em mensagens
   do celular de Vorcaro — ele nega conhecer Mansur ou ter relação com a Reag.
+- 'Sobre a privatização da Ebal, o corpus corrigiu em 09/09/2026 um registro anterior impreciso. O que
+  está documentado: sancionou, como governador, a Lei estadual nº 13.204, de 11/12/2014, cujo art. 36
+  autorizou a alienação do controle acionário da companhia; e, em 2018, já como Secretário de Desenvolvimento
+  Econômico da Bahia, chefiava a secretaria cuja Comissão Especial conduziu o leilão que vendeu a empresa
+  por R$ 15 milhões. Sua assessoria limita-se a afirmar que ele ''já forneceu todos os esclarecimentos
+  necessários'' e que os méritos do procedimento são discutidos por sua defesa nos autos; ao depor na
+  CPMI do INSS em 26/02/2026, sustentou que a privatização era necessária diante dos prejuízos anuais
+  da rede.'
 source_ids:
 - src-acordacidade-2026-08-28-lula-defende-wagner
 - src-agenciabrasil-2026-06-18-wagner-nega-vantagens
@@ -161,13 +169,20 @@ source_ids:
 - src-verificacao-direta-equipe-parecer-pgr-940922-2026
 - src-verificacao-direta-equipe-pet16229-decisao-integra
 - src-verificacao-direta-equipe-pet16662-boletos-nao-consta
+- src-legislabahia-lei-13204-2014-alienacao-ebal
+- src-legislabahia-decreto-18353-2018-credcesta
+- src-legislabahia-decreto-18354-2018-consignacoes
+- src-poder360-2026-credcesta-privatizado-15-milhoes-dividas-93
+- src-poder360-2026-wagner-rui-costa-favoreceram-negocio
+- src-brasilapi-2026-ebal-capital-social
+- src-brasilapi-2026-ngvspe-empreendimentos
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Jaques_Wagner
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-09'
 photo:
   path: /fotos/jaques-wagner.jpg
   source: Wikimedia Commons

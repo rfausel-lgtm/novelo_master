@@ -1,0 +1,22 @@
+id: src-iclnoticias-2026-castro-com-master-no-rj-margens
+kind: source
+title: 'Castro com Master no RJ: os decretos, as margens e os servidores'
+publisher: ICL Notícias
+publication_date: '2026'
+retrieved_at: '2026-09-09'
+url: https://iclnoticias.com.br/castro-com-master-no-rj/
+source_type: press
+summary: 'Detalha o caso do Rio de Janeiro: Decreto nº 47.625, de 27/05/2021, cria margem adicional de
+  20% exclusiva para cartão de benefício e viabiliza credenciar entidades não autorizadas pelo Banco Central;
+  a autorização da Casa Civil à PKL One vem cinco dias depois, em 01/06/2021. Registra casos de servidores
+  com até 99% da renda comprometida pelo empilhamento de margens, com exemplos nominais.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura de texto legal oficial e consulta à Receita Federal)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T20:50:59.511Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-09T21:15:05.182Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -436,6 +436,7 @@ ORG|monteiro-sociedade-de-advogados|Monteiro Sociedade de Advogados|law_firm|É 
 POSIÇÃO|monteiro-sociedade-de-advogados|denial|A defesa nega ilegalidade, afirma que a criação de empresas, fundos e outras estruturas é parte da atividade regular da advocacia, que o uso indevido por clientes não pode ser automaticamente atribuído ao advogado sem provas, e destaca trajetória 'estritament…
 ORG|moriah-asset|Moriah Asset|company|É a gestora própria de Fabiano Zettel — a face empresarial lícita que sua defesa invoca — e, ao mesmo tempo, uma das empresas cujas atividades o STF suspendeu na Operação Compliance Zero.
 ORG|ngv-empreendimentos-e-participacoes|NGV Empreendimentos e Participações|company|Veículo que adquiriu a estatal baiana e, com ela, o ativo que se tornaria o motor do Banco Master.
+ORG|ngvspe-empreendimentos-participacoes|NGVSPE Empreendimentos e Participações|company|É o veículo societário pelo qual o controle da estatal baiana e, com ele, o direito de explorar a folha dos servidores passaram ao setor privado — constituída pouco mais de três meses antes do leilão que venceu.
 ORG|oab-conselho-federal|Ordem dos Advogados do Brasil — Conselho Federal|association|Manifestou-se institucionalmente sobre a crise entre Moraes e Mendonça, em posição mais moderada que a da seccional do Paraná.
 ORG|oab-parana|Ordem dos Advogados do Brasil — Seccional do Paraná|association|Seccional estadual que assumiu posição pública mais dura que o Conselho Federal da OAB na crise Moraes-Mendonça.
 ORG|oandlig-participacoes|Oandlig Participações|company|Confirma que Ana Paula de Almeida Pithon — já conhecida no corpus como signatária de convênio da PKL One com o governo do Amapá — é sócia recorrente de Andréa Lima Novaes, não apenas prestadora eventual de serviço.

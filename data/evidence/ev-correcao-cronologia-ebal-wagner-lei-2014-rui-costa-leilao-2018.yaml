@@ -1,0 +1,29 @@
+id: ev-correcao-cronologia-ebal-wagner-lei-2014-rui-costa-leilao-2018
+kind: evidence
+classification: D
+proposition: 'CORREÇÃO EDITORIAL (09/09/2026). O corpus registrava que a Ebal ''foi vendida a Augusto
+  Lima durante o governo de Jaques Wagner, segundo a assessoria do senador ao Poder360''. A afirmação
+  está incorreta em dois pontos, e a atribuição à assessoria não corresponde ao que a reportagem publica.
+  A cronologia verificada em texto legal oficial é: a autorização para alienar a Ebal está no art. 36
+  da Lei estadual nº 13.204, sancionada por Jaques Wagner em 11/12/2014, no último mês de seu segundo
+  mandato como governador — embutida numa lei de reforma administrativa. A venda, porém, ocorreu em 11/04/2018,
+  no governo de Rui Costa. O papel de Wagner em 2018 era outro: ele era Secretário de Desenvolvimento
+  Econômico da Bahia, e foi a Comissão Especial daquela secretaria, sob seu comando, que conduziu o leilão
+  — o que a própria reportagem afirma textualmente (''O responsável pela organização do leilão foi o então
+  secretário de Desenvolvimento, Jaques Wagner; o governador à época era Rui Costa''). Quanto à assessoria
+  do senador, o que ela disse foi apenas que ele ''já forneceu todos os esclarecimentos necessários''
+  e que ''todos os méritos do procedimento estão sendo discutidos por sua defesa nos autos''. O fato corrigido
+  é mais específico, não menos: Wagner assinou a lei autorizativa em 2014 e chefiava a secretaria que
+  organizou o leilão em 2018.'
+document_ids:
+- doc-2014-12-11-lei-13204-ba-autoriza-alienacao-ebal
+source_ids:
+- src-legislabahia-lei-13204-2014-alienacao-ebal
+- src-poder360-2026-credcesta-privatizado-15-milhoes-dividas-93
+- src-poder360-2026-wagner-rui-costa-favoreceram-negocio
+date: '2018-04-11'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

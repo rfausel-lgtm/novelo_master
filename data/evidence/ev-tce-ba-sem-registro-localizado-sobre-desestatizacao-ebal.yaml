@@ -1,0 +1,24 @@
+id: ev-tce-ba-sem-registro-localizado-sobre-desestatizacao-ebal
+kind: evidence
+classification: I
+proposition: 'Resultado negativo com limitação metodológica declarada. Busca dirigida não localizou acórdão,
+  parecer, representação ou auditoria do Tribunal de Contas do Estado da Bahia sobre a desestatização
+  da Ebal — nem sobre o valor de venda, nem sobre a assunção do passivo pelo Estado, nem sobre a qualificação
+  da arrematante. O que se localizou no portal do tribunal referente à Ebal é anterior e de outra natureza:
+  prestações de contas anuais aprovadas com ressalvas, relativas ao período em que a empresa era estatal.
+  Registro honesto do limite: o portal do TCE-BA bloqueia acesso automatizado — a busca redireciona robôs,
+  a consulta processual depende de aplicação em JavaScript e os relatórios disponíveis são digitalizações
+  sem camada de texto. A ausência de achado NÃO significa ausência de análise pelo tribunal; significa
+  que o repositório não é alcançável pelos meios empregados. Fechar essa lacuna exige consulta manual
+  ao sistema do tribunal, exame do parecer prévio das contas de governo de 2018 ou pedido à ouvidoria.'
+document_ids: []
+source_ids:
+- src-poder360-2026-credcesta-privatizado-15-milhoes-dividas-93
+inference_basis: Busca dirigida no portal do TCE-BA e em mecanismos de busca, sem resultado, combinada
+  com a constatação de barreiras técnicas de acesso ao repositório do tribunal.
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
