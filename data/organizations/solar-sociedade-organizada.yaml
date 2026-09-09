@@ -1,0 +1,36 @@
+id: solar-sociedade-organizada
+kind: organization
+name: SOLAR — Sociedade Organizada Spread of Love and Respect
+aliases: []
+org_type: company
+summary: Associação privada (CNPJ 59.389.736/0001-46) aberta em 10/02/2025, com sede na Avenida Raja Gabaglia,
+  2000, em Belo Horizonte — mesmo endereço que concentra empresas de Fabiano Zettel. Leonardo Augusto
+  Furtado Palhares consta como diretor desde a constituição e é o único integrante do quadro registrado
+  na Receita Federal; a situação cadastral é ativa. É a pessoa jurídica que gere os recursos da Fundação
+  Solar, ONG de educação na África que tem como representante uma filha menor de idade de Daniel Vorcaro.
+  Foi constituída em fevereiro de 2025, em plena crise de liquidez do Banco Master, e apuração jornalística
+  registra a suspeita de que servisse de veículo de movimentação financeira do grupo, mantendo contas
+  no próprio Master. A ONG apagou sua conta em rede social após as reportagens. Nem a fundação nem a filha
+  de Vorcaro figuram como investigadas nesta fase.
+why_in_novelo: É a terceira estrutura registrada em nome de Leonardo Palhares — ao lado da Varajo e da
+  diretoria da Super Empreendimentos — e a única aberta depois do início da crise do Master, ligando o
+  operador jurídico de Vorcaro a uma entidade filantrópica da própria família do banqueiro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O corpus não nomina a filha de Daniel Vorcaro que representa a fundação, por ser menor de idade e não
+  figurar como investigada — ainda que seu nome tenha sido publicado por veículos de imprensa.
+- Não foi localizada a movimentação financeira efetiva da associação, nem prestação de contas, nem qualquer
+  projeto executado na África que permita verificar a atividade declarada.
+- Não há manifestação de Leonardo Palhares, da associação ou da Fundação Solar sobre a suspeita de uso
+  como veículo de movimentação financeira.
+source_ids:
+- src-brasilapi-2026-solar-associacao-palhares
+- src-gazetadopovo-2026-operador-vorcaro-ong-africa
+jurisdiction: Brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

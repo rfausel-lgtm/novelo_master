@@ -1,0 +1,26 @@
+id: src-infomoney-2026-04-bc-negocio-simulado-contratos-varajo
+kind: source
+title: BC vê 'negócio simulado' em contratos de R$ 4 mi com operador do Master
+publisher: InfoMoney
+publication_date: '2026-04-10'
+retrieved_at: '2026-09-09'
+url: https://www.infomoney.com.br/politica/bc-ve-negocio-simulado-em-contratos-de-r-4-mi-com-operador-do-master/
+source_type: press
+summary: 'Sindicância interna do Banco Central, concluída em 04/03/2026 e encaminhada à CGU em 10/03/2026,
+  apurou dois contratos entre Belline Santana e a Varajo Consultoria somando cerca de R$ 4 milhões: o
+  primeiro, de R$ 2 milhões, por um estudo de 50 páginas sobre educação financeira descrito pela comissão
+  como ''um resumo de oito artigos acadêmicos e entrevistas de terceiros''; o segundo, referente ao projeto
+  ''Jovens Potentes''. A comissão classificou o arranjo como ''negócio simulado'' e registrou que o material
+  poderia ser produzido ''com o uso de inteligência artificial, ou mesmo solicitado a terceiros, a baixíssimo
+  custo'', apontando ainda a incompatibilidade entre os valores e o capital social de R$ 10 mil e o endereço
+  de coworking da Varajo.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,23 @@
+id: ev-varajo-registro-sociedade-unipessoal-capital-10-mil
+kind: evidence
+classification: C
+proposition: 'Registro da Receita Federal para a Varajo Consultoria Empresarial Sociedade Unipessoal Ltda
+  (CNPJ 39.665.366/0001-15): aberta em 04/11/2020, capital social de R$ 10.000,00, sede em endereço de
+  coworking na Avenida Paulista, tendo Leonardo Augusto Furtado Palhares como sócio único e administrador
+  desde a constituição. A situação cadastral consta como SUSPENSA desde 03/03/2026 por determinação judicial
+  — a suspensão decretada pelo STF aparece registrada no cadastro fiscal, com a data exata da decisão.
+  Dois pontos relevantes: por ser sociedade unipessoal, não há sócio interposto — a empresa apontada como
+  ''conta de passagem'' está inteiramente em nome dele; e a empresa foi constituída em 2020, antes dos
+  pagamentos relatados (as duas primeiras parcelas teriam sido pagas em 2023), o que afasta a hipótese
+  de que tenha sido criada especificamente para o esquema. A sindicância do Banco Central apontou a incompatibilidade
+  entre o capital de R$ 10 mil e o endereço de coworking e os contratos de cerca de R$ 4 milhões.'
+document_ids: []
+source_ids:
+- src-brasilapi-2026-varajo-consultoria-cnpj
+- src-infomoney-2026-04-bc-negocio-simulado-contratos-varajo
+date: '2020-11-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

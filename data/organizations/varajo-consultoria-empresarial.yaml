@@ -10,16 +10,32 @@ summary: 'Empresa apontada, segundo apuração da PF citada pela imprensa, como 
   Leonardo Augusto Furtado Palhares, autor da ''proposta de prestação de serviços destinada à contratação
   de BELLINE SANTANA para participação em suposto projeto de elaboração de estudo técnico relacionado
   à inserção de jovens no mercado financeiro''. A decisão suspendeu as atividades da empresa por tempo
-  indeterminado.'
+  indeterminado. Registro da Receita Federal (CNPJ 39.665.366/0001-15): sociedade unipessoal aberta em
+  04/11/2020, capital social de R$ 10.000,00, sede em endereço de coworking na Avenida Paulista, tendo
+  Leonardo Augusto Furtado Palhares como sócio único e administrador desde a constituição — não há sócio
+  interposto. A situação cadastral consta como SUSPENSA desde 03/03/2026 por determinação judicial, registrando
+  no cadastro fiscal a suspensão decretada pelo STF. A sindicância do Banco Central apurou dois contratos
+  com Belline Santana somando cerca de R$ 4 milhões e apontou a incompatibilidade entre esses valores
+  e o capital de R$ 10 mil e o endereço de coworking, classificando o arranjo como ''negócio simulado''.
+  A empresa é anterior aos pagamentos relatados, o que afasta a hipótese de ter sido criada especificamente
+  para o esquema.'
 why_in_novelo: Entra no corpus como o instrumento contratual apontado para dissimular pagamentos a servidores
   do Banco Central no esquema atribuído a Daniel Vorcaro.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- 'Divergência de valores não conciliada: cerca de R$ 4 milhões em contratos apurados pelo Banco Central,
+  contra R$ 1,3 milhão que o Master declarou à Receita ter pago à empresa (R$ 309,8 mil em 2024 e R$ 1
+  milhão em 2025).'
+- Não foi localizada manifestação da empresa ou de seu sócio único sobre a caracterização das contas como
+  'conta de passagem' dos recebimentos ilícitos, feita pela Polícia Federal.
 source_ids:
 - src-timesbrasil-2026-03-mensagens-belline-cobrando
 - src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+- src-brasilapi-2026-varajo-consultoria-cnpj
+- src-infomoney-2026-04-bc-negocio-simulado-contratos-varajo
+- src-infomoney-2026-master-declarou-13-milhoes-varajo
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

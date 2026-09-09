@@ -1,0 +1,28 @@
+id: ev-hipotese-nao-confirmada-homonimo-palhares-direito-digital
+kind: evidence
+classification: I
+proposition: 'Hipótese de identidade NÃO CONFIRMADA, registrada para transparência e para orientar apuração
+  futura. Existe um advogado atuante em direito digital e comércio eletrônico que assina como ''Leonardo
+  A. F. Palhares'' — iniciais compatíveis com Augusto Furtado —, ex-sócio do escritório Almeida Advogados,
+  presidente da câmara brasileira de comércio eletrônico entre 2016 e cerca de 2024, e que foi diretor
+  regional para a América Latina de uma banca internacional a partir de dezembro de 2020. As convergências
+  são reais: base em São Paulo, faixa etária compatível com a registrada na Receita Federal, perfil de
+  advogado societário, e a abertura da Varajo em 04/11/2020, um mês antes daquela nomeação. Mas nenhuma
+  reportagem brasileira sobre o caso Master faz essa ligação — o que é contraindício relevante, já que
+  se tratasse do ex-presidente da principal entidade de comércio eletrônico do país isso seria notícia
+  por si só. Os endereços empresariais também não coincidem, e não há CPF público do segundo para cruzamento.
+  O corpus registra a hipótese como expressamente não confirmada e não afirma que sejam a mesma pessoa.
+  Alerta de precisão: uma busca atribuiu a ele o número de inscrição OAB/MG 79456, que na verdade pertence
+  a outra pessoa — o dado é falso e não deve ser reproduzido.'
+document_ids: []
+source_ids:
+- src-brasilapi-2026-varajo-consultoria-cnpj
+inference_basis: Cruzamento entre o CPF parcial registrado na Receita Federal em três CNPJs (âncora de
+  identidade confirmada para o investigado) e o perfil público de um advogado homônimo, sem elemento que
+  una ou separe definitivamente os dois. Registrado como pendência, não como conclusão.
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

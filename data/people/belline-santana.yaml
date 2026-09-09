@@ -4,25 +4,63 @@ category: public_official
 aliases:
 - Bellini Santana
 role: Chefe do Departamento de Supervisão Bancária do Banco Central (2019-2024)
-summary: Servidor de carreira do Banco Central, chefiou entre 2019 e 2024 o departamento responsável pela
-  supervisão direta das instituições financeiras. Foi alvo de busca e apreensão na fase de 04/03/2026
+summary: 'Servidor de carreira do Banco Central, chefiou entre 2019 e 2024 o departamento responsável
+  pela supervisão direta das instituições financeiras. Foi alvo de busca e apreensão na fase de 04/03/2026
   da Operação Compliance Zero e cumpre medida cautelar com monitoramento eletrônico. Convocado pela CPI
   do Crime Organizado, obteve decisão do ministro André Mendonça que tornou o comparecimento facultativo.
+  A sindicância interna do Banco Central, aberta em 08/01/2026 e concluída em 04/03/2026, apurou dois
+  contratos entre ele e a Varajo Consultoria — empresa de Leonardo Palhares — somando cerca de R$ 4 milhões:
+  o primeiro, de R$ 2 milhões, por um estudo de 50 páginas sobre educação financeira descrito pela comissão
+  como compilação de conteúdo já existente, sem produção autoral relevante; o segundo, referente ao projeto
+  ''Jovens Potentes''. A comissão classificou o arranjo como ''negócio simulado''. Foi afastado cautelarmente
+  pelo próprio Banco Central em 19/01/2026, antes da decisão do STF, e responde a processo administrativo
+  disciplinar aberto pela CGU em 23/03/2026, prorrogado em julho, ainda sem desfecho. Registro que complica
+  a leitura acusatória: em 15/07/2025, foi ele próprio quem enviou ao Ministério Público Federal documento
+  apontando irregularidades nas carteiras de crédito do Master vendidas ao BRB — sete dias antes das mensagens
+  em que Vorcaro e Zettel tratam de pagá-lo.'
 why_in_novelo: Chefiou a supervisão bancária do Banco Central no período em que o banco cresceu e é alvo
   da investigação e de convocação parlamentar.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: Sua defesa afirma que ele 'sempre exerceu suas atividades no Banco Central de forma técnica
+    e, principalmente, lícita, dentro dos limites legais', que não houve 'favorecimento a qualquer Instituição
+    Financeira, muito menos ao Banco Master', e que 'as atividades dele no BC não se confundem com outras
+    atividades igualmente lícitas, não havendo desvio de finalidade ou obtenção de vantagem indevida'.
+    Sustenta ainda que ele não adotou medidas para beneficiar o conglomerado e que encerrou a relação
+    ao identificar possível vínculo entre Palhares e o banco supervisionado, criticando a 'divulgação
+    fragmentada e descontextualizada de informações sigilosas'.
+  source_ids:
+  - src-infomoney-2026-04-bc-negocio-simulado-contratos-varajo
+  by_id: belline-santana
+  date: '2026-04-10'
 open_questions:
 - As fontes divergem entre as grafias Belline e Bellini; a forma usada pela Agência Senado foi adotada.
+- 'Há divergência entre as fontes sobre o período em que chefiou o Departamento de Supervisão Bancária:
+  de 2019 a 2024, segundo a Agência Senado, ou de 2019 até janeiro de 2026, segundo outras reportagens.'
+- Segundo fonte única, teria pedido exoneração em janeiro de 2026, já afastado — não foi localizado ato
+  de exoneração publicado no Diário Oficial que confirme o deferimento, e a legislação permite à Administração
+  recusar exoneração de servidor em curso de processo disciplinar.
+- Sua própria versão, registrada em reportagem, é de que recebeu de Leonardo Palhares oferta de cerca
+  de R$ 2 milhões por 'serviços de treinamento', com duas parcelas de R$ 500 mil pagas em 2023 — declaração
+  de coinvestigado, registrada como versão, não como fato apurado.
+- 'Ao contrário do que ocorre com Paulo Sérgio Neves de Souza, não foi localizado documento de supervisão
+  específico apontado como adulterado por ele: os atos que lhe são atribuídos são menos individualizados
+  — revisão prévia de minutas do banco supervisionado e participação em grupo de mensagens com Vorcaro.'
+- O contraste entre o valor contratado (cerca de R$ 4 milhões) e a contrapartida individualizada permanece,
+  no caso dele, menos fechado do que a acusação sugere.
 source_ids:
 - src-platobr-2026-03-04-medidas-contra-ex-dirigentes-do-bc
 - src-senado-2026-03-20-belline-santana-convocado-a-cpi
 - src-senado-2026-03-24-stf-libera-belline-santana-de-depor
+- src-infomoney-2026-04-bc-negocio-simulado-contratos-varajo
+- src-infomoney-2026-master-declarou-13-milhoes-varajo
+- src-jornaldebrasilia-2026-03-cgu-pad-servidores-bc
+- src-ndmais-2026-belline-versao-contratos-varajo
+- src-jornaldebrasilia-2026-aquino-vazamentos-sistematicos-bc
 positions: []
 kind: person
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

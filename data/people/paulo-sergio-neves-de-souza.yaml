@@ -3,13 +3,26 @@ name: Paulo Sérgio Neves de Souza
 category: public_official
 aliases:
 - Paulo Sérgio Neves de Sousa
-role: Diretor de Fiscalização do Banco Central (2019-2023)
-summary: Servidor de carreira do Banco Central. Segundo o Valor Econômico, afirmou na reunião de diretoria
+role: Diretor de Fiscalização do Banco Central (até 2023) e, a partir de outubro de 2023, chefe-adjunto
+  do Departamento de Supervisão Bancária
+summary: 'Servidor de carreira do Banco Central. Segundo o Valor Econômico, afirmou na reunião de diretoria
   de outubro de 2019 que eventuais problemas de conduta do pretendente ao controle do Máxima poderiam
   ser coibidos pela supervisão. Em março de 2026 foi alvo de busca e apreensão na Operação Compliance
   Zero e passou a cumprir medidas cautelares determinadas pelo STF, entre elas monitoramento eletrônico;
   a Polícia Federal o considera suspeito de ter usado influência no Banco Central em favor de Daniel Vorcaro.
-  Já estava afastado no âmbito de apuração interna da própria autarquia.
+  Já estava afastado no âmbito de apuração interna da própria autarquia. CORREÇÃO DE TRAJETÓRIA (09/09/2026):
+  ele não deixou o Banco Central em 2023. Servidor de carreira desde 1998, deixou a diretoria de Fiscalização
+  e, em outubro de 2023, voltou a cargo de chefia como chefe-adjunto do Departamento de Supervisão Bancária
+  — passando a atuar subordinado a Belline Santana, no departamento que supervisionava o Banco Master.
+  Não há, portanto, ''porta giratória'' entre regulador e regulado no caso dele: a cooptação alegada teria
+  ocorrido com ele dentro da autarquia o tempo todo. A apuração lhe atribui atos de ofício concretos:
+  o envio a Vorcaro, um dia depois de apresentada, da emenda que elevava a cobertura do FGC de R$ 250
+  mil para R$ 1 milhão; parecer favorável à aquisição do Master pelo BRB sem responder questões de outro
+  departamento; e estudo sobre carteiras de crédito que levou a diretoria à convicção de que não havia
+  motivo para preocupação. A sindicância patrimonial aponta ainda a venda de uma fazenda de café por R$
+  3 milhões em 2021 a fundo ligado a Fabiano Zettel, serviço de concierge de luxo em Orlando custeado
+  por Vorcaro, e aquisições de cerca de R$ 915 mil, entre elas um terreno pago com R$ 210 mil em dinheiro
+  vivo.'
 why_in_novelo: Dirigiu a área de fiscalização do Banco Central no período de supervisão do banco e é alvo
   de medidas cautelares determinadas pelo STF na investigação.
 cited_position:
@@ -19,16 +32,41 @@ cited_position:
     foi feito a valor de mercado.
   source_ids:
   - src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- kind: denial
+  summary: Sobre a suspeita de manipulação de dados internos, sua defesa afirma que 'nunca houve manipulação',
+    que ele jamais foi indagado pela cúpula do Banco Central sobre a atuação do Master, e que 'diversas
+    equipes' interagem com as informações, sendo que 'todo processo é documentado, não sendo passível
+    de manipulação por uma única pessoa'. Em outras reportagens — sobre a venda da fazenda e sobre o serviço
+    de concierge custeado por Vorcaro — a defesa não se manifestou, e os veículos registraram o espaço
+    aberto.
+  source_ids:
+  - src-jornaldebrasilia-2026-ex-diretor-bc-manipulacao-dados
+  by_id: paulo-sergio-neves-de-souza
+  date: '2026'
 source_ids:
 - src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
 - src-platobr-2026-03-04-medidas-contra-ex-dirigentes-do-bc
 - src-portoferreira-2026-03-05-cautelares-paulo-sergio-neves-de-souza
 - src-senado-2026-03-24-stf-libera-belline-santana-de-depor
+- src-jornaldebrasilia-2026-ex-diretor-bc-manipulacao-dados
+- src-cnnbrasil-2026-ex-diretor-bc-alertou-vorcaro-emenda-fgc
+- src-metropoles-2026-servidor-bc-terrenos-dinheiro-vivo
+- src-jornaldebrasilia-2026-03-cgu-pad-servidores-bc
 positions: []
-open_questions: []
+open_questions:
+- 'As fontes divergem sobre o período em que dirigiu a área de Fiscalização: 2017-2023 em alguns veículos,
+  2019-2023 em outros.'
+- Responde a processo administrativo disciplinar aberto pela CGU em 23/03/2026 e prorrogado em 23/07/2026,
+  sem desfecho localizado — nem demissão, nem cassação de aposentadoria, nem absolvição administrativa.
+- 'Não foi localizada denúncia formal da PGR contra ele, nem qualquer negociação de colaboração premiada.
+  Ele nunca foi preso: cumpre medidas cautelares desde março de 2026. Registro de imprecisão: ao menos
+  um veículo publicou manchete afirmando que o ex-diretor estaria preso, enquanto o próprio corpo da matéria
+  informa o contrário.'
+- 'Vorcaro nega tê-lo remunerado: ''O Paulo Sérgio nunca fez trabalho para mim, nenhum membro do Banco
+  Central'' — embora admita ter oferecido o serviço de concierge como ''um agrado''.'
 kind: person
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'
