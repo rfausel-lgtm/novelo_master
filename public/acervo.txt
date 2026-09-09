@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T20:26:12.307Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-09T20:50:59.511Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -219,6 +219,8 @@ PESSOA|kevin-de-carvalho-marques|Kevin de Carvalho Marques|Advogado; filho do mi
 POSIÇÃO|kevin-de-carvalho-marques|clarification|Os valores recebidos são lícitos e decorrem de atuação profissional 'voltada ao fisco administrativo' (assessoria por 11 meses); o escritório 'nunca defendeu nenhum caso' no STF; criticou 'tentativas de criminalização da advocacia'.
 PESSOA|lauro-jardim|Lauro Jardim|Colunista do jornal O Globo|É o jornalista que, segundo a investigação e a decisão do STF, seria alvo de um plano de intimidação por sua cobertura do caso.
 PESSOA|leandro-almada-da-costa|Leandro Almada da Costa|Diretor de Inteligência Policial da PF, afastado junto com Andrei Rodrigues|É o segundo nome afastado, junto com o diretor-geral, na decisão de Mendonça que produziu nova escalada da crise institucional no STF.
+PESSOA|leandro-de-jesus|Leandro de Jesus|Deputado estadual pela Bahia (PL), mandato 2023-2027|É o autor da notícia-crime que ficou 1.219 dias sem movimentação no STF e que, ao ser decidida, converteu o denunciante em alvo de apuração — episódio que expõe o tratamento processual desigual entre três petições sobre os mesmos fatos, todas no mesmo relator.
+POSIÇÃO|leandro-de-jesus|version|Em vídeo nas redes sociais, em 09/09/2026: 'Alexandre de Moraes coloca a Polícia Federal atrás de mim, para me ouvir e me investigar. Já fiz uma apuração inicial e de fato saiu a determinação do Moraes. Ainda não sei as motivações e vou me aprofundar sobre o …
 PESSOA|leo-serrano|Léo Serrano|Empresário à frente da SL Consulting, serviço de concierge|Nomeado por Vorcaro, em depoimento à PF, como representante da empresa que organizou a viagem oferecida a ex-diretor do Banco Central.
 PESSOA|leonardo-augusto-furtado-palhares|Leonardo Augusto Furtado Palhares|Advogado; sócio único da Varajo Consultoria, diretor da Super Empreendimentos e da associação SOLAR; investigado sob ca…|É o operador jurídico-documental do esquema: quem redigia e assinava os instrumentos que davam aparência de legalidade aos pagamentos — do contrato apontado como fictício para remunerar um servidor do Banco Central às minutas do contrato com o escritório da esposa de um ministro do STF.
 POSIÇÃO|leonardo-augusto-furtado-palhares|no_response|Não foi localizada nenhuma manifestação dele, de advogado seu ou da Varajo Consultoria. Reportagens que trataram das acusações registram explicitamente que 'outras defesas não se manifestaram até a publicação' e que ele não respondeu aos pedidos de comentário…

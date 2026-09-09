@@ -58,6 +58,16 @@ open_questions:
   decisões do plenário até depois do período eleitoral — leitura da reportagem, sem corroboração jornalística
   independente localizada até a data desta apuração; não há manifestação dele sobre essa caracterização
   específica.
+- 'Relatou três notícias-crime sobre os mesmos fatos de 8 de janeiro de 2023, distribuídas a ele por prevenção,
+  com tratamento processual radicalmente diverso — disparidade verificada pela equipe diretamente no andamento
+  público do STF: a de Nikolas Ferreira contra Flávio Dino foi arquivada em um dia, em processo público,
+  com decisão no Diário de Justiça; a do Partido Novo contra o general Gonçalves Dias, em 117 dias, também
+  publicamente e com vista prévia à PGR; e a do deputado estadual Leandro de Jesus contra ambos ficou
+  1.219 dias sem qualquer movimentação, sob segredo de justiça, sendo decidida em 21/08/2026 — três dias
+  depois de reportagem revelar que estava parada. Segundo a reportagem que obteve o despacho sigiloso,
+  o arquivamento veio acompanhado de determinação para que a PF ouvisse o próprio denunciante. Não foi
+  localizada manifestação do gabinete sobre a disparidade de prazos, sobre o sigilo ou sobre a coincidência
+  de datas.'
 source_ids:
 - src-congressoemfoco-2026-09-01-relatorio-pf
 - src-poder360-2026-09-01-sigilo-pet-16662
@@ -71,6 +81,10 @@ source_ids:
 - src-stf-despacho-fachin-2026-09-03-pet-16704
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
 - src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
+- src-stf-2026-pet-11228-andamento-processual
+- src-stf-2023-pet-10829-andamento-e-decisao-nikolas
+- src-stf-2023-pet-11227-andamento-partido-novo
+- src-ainvestigacao-2026-09-09-moraes-arquiva-dino-denunciante-alvo
 full_name: Alexandre de Moraes
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Alexandre_de_Moraes

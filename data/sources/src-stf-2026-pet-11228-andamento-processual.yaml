@@ -1,0 +1,26 @@
+id: src-stf-2026-pet-11228-andamento-processual
+kind: source
+title: Andamento processual da Petição 11.228/DF (incidente 6623549) — STF
+publisher: Supremo Tribunal Federal
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-09'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=6623549
+source_type: official_court
+summary: Consulta direta da equipe ao andamento público da Pet 11.228 (número único 0073862-12.2023.1.00.0000),
+  classe criminal, marcada como SEGREDO DE JUSTIÇA. Requerente L.S.J., com advogados inscritos na OAB/BA;
+  requeridos F.D.C.C. e M.E.G.D.; Polícia Federal como autoridade policial. Protocolada em 19/04/2023
+  às 19h27, autuada e distribuída por prevenção da Pet 10.829 ao ministro Alexandre de Moraes em 20/04/2023,
+  com conclusão ao relator na mesma data. O andamento não registra nenhum movimento entre 20/04/2023 e
+  21/08/2026 — exatamente 1.219 dias. Em 21/08/2026 constam decisão sob segredo de justiça, vista à PGR,
+  disponibilização dos autos à autoridade policial e intimação eletrônica do procurador-geral; em 24 e
+  25/08/2026, expedição de ofício e de carta de intimação postal.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (consulta direta ao andamento processual do STF)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

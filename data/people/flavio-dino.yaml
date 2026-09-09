@@ -86,6 +86,15 @@ open_questions:
   um grupo que deseja retirar a relatoria do caso Master de Mendonça. Ambas as alegações permanecem, até
   a data desta apuração, exclusivas da Poder360, sem corroboração jornalística independente localizada
   — registradas como leitura de um único veículo, não como fato estabelecido.
+- 'Foi requerido em duas notícias-crime por omissão imprópria diante dos atos de 8 de janeiro de 2023,
+  quando era ministro da Justiça, ambas relatadas por Alexandre de Moraes: a Petição 10.829, do deputado
+  Nikolas Ferreira, arquivada em um dia e publicamente, em janeiro de 2023; e a Petição 11.228, do deputado
+  estadual baiano Leandro de Jesus, que ficou 1.219 dias sem movimentação sob segredo de justiça e só
+  foi decidida em 21/08/2026 — três dias após reportagem revelar que estava parada e que seu CPF fora
+  extraído desses autos para uma varredura funcional em tribunais. Não foi localizada manifestação dele
+  sobre nenhum dos dois episódios. Registro de cronologia, para afastar leitura equivocada: o arquivamento
+  é anterior em dezenove dias à sua decisão de 09/09/2026 que reintegrou Andrei Rodrigues à PF, e nenhuma
+  fonte estabelece relação entre os dois atos.'
 source_ids:
 - src-111next-2026-09-08-vorcaro-cita-dino-precatorios-15bi
 - src-brasildefato-2022-12-09-dino-indica-andrei-legalidade
@@ -105,6 +114,10 @@ source_ids:
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
 - src-migalhas-2026-09-09-dino-questiona-mendonca-juiz-de-si-mesmo
 - src-gazetadopovo-2026-09-09-dino-blinda-cupula-pf-atropela-mendonca-fachin
+- src-stf-2026-pet-11228-andamento-processual
+- src-stf-2023-pet-10829-andamento-e-decisao-nikolas
+- src-stf-2023-pet-11227-andamento-partido-novo
+- src-ainvestigacao-2026-09-09-moraes-arquiva-dino-denunciante-alvo
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

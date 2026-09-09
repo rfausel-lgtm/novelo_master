@@ -1,0 +1,32 @@
+id: ev-tres-peticoes-8-janeiro-mesmo-relator-tratamento-desigual
+kind: evidence
+classification: D
+proposition: 'Achado central deste registro, obtido por verificação direta da equipe em três andamentos
+  processuais públicos do STF e mais amplo do que o apontado pela reportagem que originou a apuração.
+  Três notícias-crime sobre os mesmos fatos de 8 de janeiro de 2023 foram distribuídas ao mesmo relator,
+  por prevenção da primeira delas, e tiveram tratamento radicalmente diverso. A Pet 10.829, do deputado
+  federal Nikolas Ferreira contra Flávio Dino, foi protocolada em 11/01/2023 e arquivada em 12/01/2023
+  — UM DIA depois, no mesmo dia da conclusão ao relator —, em processo PÚBLICO, com dispositivo publicado
+  no Diário de Justiça Eletrônico. A Pet 11.227, do Partido Novo contra o general Gonçalves Dias, foi
+  protocolada em 20/04/2023 e arquivada em 15/08/2023 — 117 DIAS —, também em processo PÚBLICO e com vista
+  prévia à PGR. A Pet 11.228, do deputado estadual Leandro de Jesus contra ambos, foi protocolada em 19/04/2023
+  e decidida em 21/08/2026 — 1.219 DIAS —, em processo sob SEGREDO DE JUSTIÇA e com decisão não publicada.
+  Ressalva editorial que o corpus faz questão de registrar: como a petição de Nikolas Ferreira também
+  tinha Flávio Dino como requerido e foi arquivada em um dia sem qualquer consequência ao denunciante,
+  o contraste NÃO sustenta, por si, a leitura de que o objetivo fosse proteger o requerido. O que os registros
+  mostram é disparidade de tratamento processual — de prazo e de publicidade — entre peças de mesmo objeto
+  e mesmo relator.'
+document_ids:
+- doc-2026-09-09-andamento-processual-pet-11228-stf
+- doc-2023-01-12-decisao-moraes-pet-10829-nikolas-dino
+- doc-2026-09-09-andamento-processual-pet-11227-stf
+source_ids:
+- src-stf-2026-pet-11228-andamento-processual
+- src-stf-2023-pet-10829-andamento-e-decisao-nikolas
+- src-stf-2023-pet-11227-andamento-partido-novo
+date: '2026-08-21'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

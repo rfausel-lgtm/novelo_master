@@ -1,0 +1,22 @@
+id: ev-leandro-de-jesus-deputado-estadual-correcao-de-cargo
+kind: evidence
+classification: D
+proposition: 'Correção factual a uma imprecisão da reportagem que originou esta apuração. A matéria descreve
+  Leandro de Jesus, em legenda de foto, como deputado federal. O registro oficial da Assembleia Legislativa
+  da Bahia confirma que ele é deputado ESTADUAL, pelo PL, com mandato 2023-2027, eleito em 2022 com 39.206
+  votos — sendo, em 2026, apenas candidato a deputado federal. Toda a cobertura regional baiana o trata
+  corretamente como estadual, e suas iniciais e a inscrição dos advogados na OAB da Bahia são compatíveis
+  com o requerente que consta do processo. A correção não enfraquece a crítica de competência levantada
+  pela própria reportagem — ao contrário, a reforça: deputado estadual não detém foro por prerrogativa
+  de função perante o Supremo Tribunal Federal.'
+document_ids:
+- doc-2026-09-09-andamento-processual-pet-11228-stf
+source_ids:
+- src-alba-2026-ficha-leandro-silva-de-jesus
+- src-stf-2026-pet-11228-andamento-processual
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

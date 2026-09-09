@@ -1,0 +1,24 @@
+id: src-stf-2023-pet-11227-andamento-partido-novo
+kind: source
+title: Andamento processual da Petição 11.227/DF (incidente 6623138) — STF
+publisher: Supremo Tribunal Federal
+publication_date: '2023-08-15'
+retrieved_at: '2026-09-09'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=6623138
+source_type: official_court
+summary: 'Consulta direta da equipe. Notícia-crime do Partido Novo contra o general Marco Edson Gonçalves
+  Dias pelos fatos de 8 de janeiro, protocolada em 20/04/2023 — um dia depois da petição do deputado Leandro
+  de Jesus — e igualmente distribuída a Alexandre de Moraes por prevenção da Pet 10.829. Processo PÚBLICO.
+  Teve tramitação regular: despacho de vista à PGR em 12/05/2023, manifestação da PGR em 13/06/2023 e
+  arquivamento em 15/08/2023, com dispositivo publicado e trânsito em julgado em 23/08/2023 — 117 dias
+  entre protocolo e decisão.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (consulta direta ao andamento processual do STF)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
