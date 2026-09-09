@@ -52,6 +52,12 @@ open_questions:
   com fundamento no mesmo inciso que abrira a porta em 2022. Com a prefeitura da capital houve convênio
   — o Termo de Adesão nº 003/2022, de 25/08/2022, aditado em 2023 —, e ali a resposta foi mais dura: descredenciamento
   e denúncia do convênio em agosto de 2026, após rejeição da defesa administrativa da empresa.'
+- 'Os atos societários publicados no caderno empresarial paulista descrevem a empresa por dentro: R$ 100,00
+  de capital e sede em apartamento na constituição de 2017; capitalização a R$ 1 milhão e entrada de Andrea
+  Lima Novaes em 24/04/2018, doze dias após o leilão da estatal baiana; debêntures de subscrição privada
+  remuneradas em 50% do lucro líquido; R$ 30,575 milhões pagos ''ao debenturista'' em maio de 2019, sem
+  que os extratos o nomeiem. Identificar o debenturista é a pergunta em aberto mais direta sobre quem
+  realmente recebia o resultado do CredCesta.'
 source_ids:
 - src-djen-cnj-agravo-3000060-09-2026-tjrj
 - src-metropoles-2026-08-15-pkl-one-credcesta-macapa
@@ -67,6 +73,11 @@ source_ids:
 - src-doesp-2026-03-19-suspensao-codigo-097337-4-pkl-one
 - src-doc-2026-08-14-descredenciamento-pkl-one-pmsp
 - src-doc-2022-08-26-termo-adesao-003-2022-pmsp-pkl-one
+- src-doesp-empresarial-2017-2019-atos-societarios-pkl-one
+- src-doe-ap-2023-06-05-edital-001-2023-sead-pkl-one-inabilitada
+- src-dioe-pr-2026-05-07-resolucao-seap-12294-pas-pkl-one
+- src-doesp-2026-editais-diretoria-ativos-passivos-banco-pkl-one
+- src-doe-es-2023-08-25-decreto-5482-r-margem-adicional
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

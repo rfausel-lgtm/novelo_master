@@ -1,0 +1,19 @@
+id: ev-pkl-one-nunca-credenciada-pelo-executivo-do-espirito-santo
+kind: evidence
+classification: D
+proposition: 'No Espírito Santo a operadora entrou pela porta lateral: foi credenciada pela Assembleia
+  Legislativa em 15/09/2022 e pelo município da Serra em 10/07/2023, mas nunca pelo Executivo estadual,
+  em cujas listas de consignatárias não figura em nenhuma captura. O decreto que criou a margem adicional
+  de 10% só foi assinado em 24/08/2023 — quase um ano depois do primeiro credenciamento —, e quem entrou
+  por ele, em novembro de 2023, foi o Banco Master. Nenhum ato de suspensão ou descredenciamento foi publicado
+  pelo município da Serra, cujo credenciamento foi renovado por aditivo em 18/06/2025.'
+document_ids:
+- doc-2023-08-25-decreto-5482-r-es-margem-adicional-cartao-beneficio
+source_ids:
+- src-doe-es-2023-08-25-decreto-5482-r-margem-adicional
+date: '2023-08-25'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,33 @@
+id: doc-2025-04-balanco-consolidado-banco-master-2024-credcesta
+kind: document
+title: Balanço consolidado do Banco Master de 2024 — 24 estados, 176 municípios, e uma série que não fecha
+doc_type: corporate_record
+date: '2025-04-01'
+source_ids:
+- src-poder360-balanco-banco-master-2024-consolidado
+- src-webarchive-balanco-banco-master-2023-consolidado
+summary: 'O relatório da administração de 2024 afirma que o cartão de benefício estava presente em 24
+  estados e 176 municípios, ''ante 20 em 2023'' e 130 municípios. O problema é que o balanço do próprio
+  exercício de 2023 dizia outra coisa: 23 estados e 135 municípios. E o de 2022 falava em 21 estados e
+  130 municípios. São três números irreconciliáveis para a mesma série, em demonstrações auditadas sem
+  ressalva. Duas notas explicativas acompanham a expansão: ''serviços pagos antecipadamente para apoio
+  operacional de convênios'' salta de R$ 33,3 milhões para R$ 202,5 milhões em um ano, e ''valores a receber
+  de vendas de ativos de crédito'' vai de R$ 1,23 bilhão a R$ 3,66 bilhões. Em nenhum dos três balanços
+  a expressão ''PKL One'' aparece uma única vez: a empresa que consta do contracheque do servidor não
+  figura nas contas do banco.'
+is_official: true
+related_entity_ids:
+- banco-master
+- credcesta
+- pkl-one-participacoes
+issuer_id: banco-master
+issuer: Banco Master S.A.
+url: https://static.poder360.com.br/2025/04/Banco-Master-balanco-consolidado-dez.2024.pdf
+reference: Relatório da Administração, seção Varejo, p. 5; notas explicativas 12 e 14
+excerpt: o cartão benefício está presente em 24 estados (ante 20 em 2023) e 176 municípios (contra 130
+  em 2023)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,28 @@
+id: doc-2023-06-05-edital-001-2023-sead-ap-pkl-one-inabilitada
+kind: document
+title: Edital 001/2023 da SEAD-AP — a PKL One inabilitada por não se enquadrar como consignatária
+doc_type: administrative_act
+date: '2023-06-05'
+source_ids:
+- src-doe-ap-2023-06-05-edital-001-2023-sead-pkl-one-inabilitada
+summary: 'O contraexemplo mais nítido do acervo. Depois de o Amapá criar, por decreto de março de 2023,
+  uma reserva de 5% da margem exclusivamente para cartão consignado de benefício, o processo de habilitação
+  inabilitou a PKL One com a motivação de que ela ''não se enquadra dentre os tipos de consignatárias''
+  — e habilitou, no mesmo despacho, o Banco Master. Rondônia chegaria a resultado equivalente por caminho
+  normativo: a lei complementar de abril de 2024 criou a margem, mas exigiu instituição autorizada pelo
+  Banco Central e aderente à autorregulação bancária. Dois estados abriram a margem e barraram a operadora
+  pelo mesmo fundamento que outros ignoraram: ela não é instituição financeira.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+- banco-master
+issuer: Secretaria de Estado da Administração do Amapá
+url: https://editor.amapa.gov.br/
+reference: Edital 001/2023 SEAD-AP; DOE-AP ed. 7.933, p. 11
+excerpt: Não se enquadra dentre os tipos de consignatárias
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

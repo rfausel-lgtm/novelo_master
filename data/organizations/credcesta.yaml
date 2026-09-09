@@ -79,6 +79,12 @@ open_questions:
   adicionalmente, em mais 10%'', expressamente exclusiva. O efeito prático converge; a técnica jurídica,
   não. Registre-se ainda que em Embu das Artes o produto já operava desde outubro de 2021, antes do decreto
   estadual — como no Paraná, a operação municipal precedeu a norma.'
+- 'A cobertura por unidade da federação está documentada pelas capturas do próprio site: doze estados
+  em maio de 2022 e 21 mais o convênio federal em fevereiro de 2024. Advertência metodológica a confirmar:
+  há indício de que, a partir de meados de 2024, o seletor passou a exibir as 27 unidades da federação
+  em ordem de região, deixando de funcionar como índice de cobertura — a equipe não conseguiu reverificar
+  essa captura por bloqueio temporário do arquivo, e quem citar capturas posteriores a essa data deve
+  confirmar antes se a lista ainda tem valor probatório.'
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -109,6 +115,11 @@ source_ids:
 - src-doesp-2022-04-15-resolucao-sfp-26-margem-50
 - src-legislacao-pmsp-decreto-61556-2022-margem-adicional
 - src-doesp-2021-11-24-convenio-credcesta-embu-das-artes
+- src-webarchive-2022-05-24-credcesta-onde-estamos-doze-ufs
+- src-webarchive-2024-02-21-credcesta-onde-estamos-vinte-e-uma-ufs
+- src-poder360-balanco-banco-master-2024-consolidado
+- src-webarchive-balanco-banco-master-2023-consolidado
+- src-convenio-itapissuma-2021-credcesta-clausulas-operacionais
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

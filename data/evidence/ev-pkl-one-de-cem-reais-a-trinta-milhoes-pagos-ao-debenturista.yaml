@@ -1,0 +1,22 @@
+id: ev-pkl-one-de-cem-reais-a-trinta-milhoes-pagos-ao-debenturista
+kind: evidence
+classification: D
+proposition: A empresa que viria a operar em vinte e quatro estados foi constituída em março de 2017 com
+  capital de R$ 100,00 e sede num apartamento em Perdizes; ao fim daquele exercício seu ativo total era
+  de R$ 100,00. Em 24/04/2018 — doze dias depois do leilão da estatal baiana de alimentos e três dias
+  antes dos decretos que criariam a margem na Bahia — mudou-se para a Avenida Cidade Jardim, elevou o
+  capital a R$ 1 milhão e recebeu Andrea Lima Novaes na diretoria. Duas semanas depois aprovou debêntures
+  de subscrição privada remuneradas por percentual do lucro líquido; em outubro o teto mensal foi removido
+  e a remuneração passou a 50% do lucro líquido. Em maio de 2019 a assembleia aprovou o pagamento de R$
+  30,575 milhões 'ao debenturista', que os extratos não nomeiam. Metade do lucro do CredCesta saía por
+  debênture de participação nos lucros, não por dividendo.
+document_ids:
+- doc-2019-06-26-age-pkl-one-pagamento-debentures-30-milhoes
+source_ids:
+- src-doesp-empresarial-2017-2019-atos-societarios-pkl-one
+date: '2019-06-26'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
