@@ -1,0 +1,4 @@
+# Falso positivo verificado: identificador publico do beacon Cloudflare Web Analytics
+# incluido no HTML; nao e credencial de API. Excecao limitada a esta ocorrencia historica.
+# https://developers.cloudflare.com/web-analytics/get-started/
+ce2a2fb0de8273d0bc72887ddca7949f41384177:src/app/layout.tsx:generic-api-key:94

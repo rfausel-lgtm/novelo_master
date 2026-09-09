@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Área de imprensa com media kit PDF aprovado, capa, acesso na abertura, menu móvel e rodapé; inclusão no sitemap.
+
 Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O histórico editorial
 dos dados está em `/atualizacoes` no site e em `data/revisions`.
 

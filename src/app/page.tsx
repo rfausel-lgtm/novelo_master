@@ -120,7 +120,14 @@ export default function HomePage() {
           </Link>
         </div>
 
-        <dl className="mt-14 grid w-full grid-cols-2 gap-x-6 gap-y-6 sm:grid-cols-3 md:grid-cols-6">
+        <Link
+          href="/imprensa"
+          className="text-fg-2 hover:text-fg mt-4 inline-flex min-h-11 items-center text-sm underline underline-offset-4"
+        >
+          Para a imprensa
+        </Link>
+
+        <dl className="mt-10 grid w-full grid-cols-2 gap-x-6 gap-y-6 sm:grid-cols-3 md:grid-cols-6">
           {STATS.map((s) => (
             <div key={s.key}>
               <dd className="text-fg text-2xl font-semibold tabular-nums sm:text-3xl">
