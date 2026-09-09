@@ -1,0 +1,35 @@
+id: evt-2026-09-09-dino-reintegra-andrei-almada
+kind: event
+title: Flávio Dino reintegra Andrei Rodrigues e Leandro Almada à PF
+event_type: judicial_decision
+date: '2026-09-09'
+date_precision: day
+participant_ids:
+- flavio-dino
+- andrei-rodrigues
+- andre-mendonca
+- leandro-almada-da-costa
+- edson-fachin
+- gilmar-mendes
+- daniel-vorcaro
+- partido-novo
+description: O ministro Flávio Dino, em tutela provisória de urgência na Pet 16.669/DF (processo próprio,
+  sobre o caso 'Dark Horse'), determinou a imediata reintegração de Andrei Rodrigues e Leandro Almada
+  da Costa à Polícia Federal, neutralizando os efeitos da decisão de André Mendonça de 08/09/2026 (Pet
+  16.662). Fundamentou-se na ilegitimidade ativa do Partido Novo para requerer medida cautelar pessoal
+  em processo penal e na usurpação da competência do Plenário do STF, já afetada pela Pet 16.704. Determinou
+  vista ao PGR após o cumprimento e ressalvou que a decisão se submete exclusivamente ao Plenário.
+evidence_class: D
+status: verified
+evidence_ids: []
+source_ids:
+- src-verificacao-direta-equipe-pet16669-decisao-dino-integra
+- src-migalhas-2026-09-09-dino-reintegra-andrei-pf
+document_ids:
+- doc-2026-09-09-decisao-dino-pet16669-reintegra-andrei
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

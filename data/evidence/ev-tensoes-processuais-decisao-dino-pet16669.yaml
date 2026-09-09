@@ -1,0 +1,28 @@
+id: ev-tensoes-processuais-decisao-dino-pet16669
+kind: evidence
+classification: D
+proposition: 'A decisão de Dino, lida integralmente, expõe três tensões processuais objetivamente visíveis
+  no próprio texto, sem que o corpus emita juízo de valor autônomo sobre elas: (a) Dino produz efeitos
+  sobre a decisão de Mendonça (Pet 16.662, processo distinto) por meio de petição incidental em seus PRÓPRIOS
+  autos (Pet 16.669, sobre o caso Dark Horse), via processual atípica frente aos instrumentos usuais (recurso,
+  agravo, mandado de segurança) para contestar decisão de outro ministro; (b) fundamenta a ilegalidade
+  da decisão de Mendonça, em parte, na tese de que apenas o Plenário tem competência sobre a matéria —
+  mas decide ele próprio monocraticamente, com efeitos imediatos e vinculantes, antes de qualquer manifestação
+  do Plenário, ressalvando ao final que ''esta decisão se submete exclusivamente à autoridade do Plenário'',
+  sem que a ressalva desfaça os efeitos práticos já produzidos; (c) cita, como agravante da conduta de
+  Mendonça, uma reunião deste com Daniel Vorcaro ''nas dependências de uma empresa privada'', apresentada
+  como fato ''recentemente vindo a lume'', sem citação de documento constante dos autos — o corpus já
+  registra esse encontro (Instituto ITER, 14/03/2025) como classe A desde março de 2025, baseado em reportagem,
+  não em documento primário; a citação por Dino em decisão judicial não eleva, por si, a força probatória
+  do fato subjacente, embora confirme que a informação circulava e foi considerada relevante o suficiente
+  para fundamentar parte de uma decisão do STF.'
+document_ids:
+- doc-2026-09-09-decisao-dino-pet16669-reintegra-andrei
+source_ids:
+- src-verificacao-direta-equipe-pet16669-decisao-dino-integra
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

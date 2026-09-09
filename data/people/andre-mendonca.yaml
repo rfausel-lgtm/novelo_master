@@ -31,11 +31,19 @@ open_questions:
   sobre essa aparente sobreposição de procedimentos.
 - Formalizou, em 06/09/2026, pedido para que o plenário do STF — não apenas Fachin — julgue o caso da
   acusação de Moraes contra ele (art. 5º RISTF) — sem data de pauta definida.
+- Sua decisão de afastamento de Andrei Rodrigues (08/09/2026) foi neutralizada, um dia depois, por decisão
+  de Flávio Dino (Pet 16.669), que a considerou fundada em pedido de parte ilegítima (Partido Novo) e
+  como usurpação da competência do Plenário — chegando a caracterizá-la como possível 'decisão em causa
+  própria', por Mendonça figurar como mencionado nos relatórios objeto da Pet 16.704, da qual é parte.
+  Dino citou, como agravante, uma reunião entre Mendonça e Vorcaro 'nas dependências de uma empresa privada'
+  — fato já registrado no corpus desde março de 2025 (Instituto ITER, classe A), sem juízo de valor antecipado
+  por parte de Dino.
 source_ids:
 - src-apublica-2026-02-13-mendonca-herda-caso
 - src-cnn-2026-09-02-mendonca-admite-encontro
 - src-migalhas-2026-09-03-fachin-cobra-explicacoes-integra
 - src-migalhas-2026-09-08-mendonca-afasta-andrei-pet16662
+- src-migalhas-2026-09-09-dino-reintegra-andrei-pf
 - src-ncnews-2026-09-07-crise-moraes-mendonca-fraturas-stf
 - src-ndmais-2026-09-02-vorcaro-alega-tortura
 - src-poder360-2026-07-09-operacao-thiago-miranda
@@ -47,6 +55,7 @@ source_ids:
 - src-stf-2026-04-16-prisao-ex-presidente-brb
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
 - src-verificacao-direta-equipe-pet16662-documentos-primarios
+- src-verificacao-direta-equipe-pet16669-decisao-dino-integra
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

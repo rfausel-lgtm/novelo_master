@@ -19,14 +19,18 @@ cited_position:
 open_questions:
 - Propôs a Fachin, em setembro de 2026, a retirada dos delegados da PF cedidos ao STF, sob justificativa
   de risco de influência sobre os ministros investigados; proposta ainda não deliberada.
+- Trecho de seu despacho de pedido de vista (sobre o afastamento de Andrei Rodrigues) foi transcrito na
+  decisão de Flávio Dino de 09/09/2026 (Pet 16.669), questionando a legitimidade do Partido Novo e a competência
+  da 2ª Turma frente à do Plenário, e citando a ADPF 1.017/AL sobre neutralidade eleitoral do Judiciário.
 source_ids:
-- src-stf-2026-03-20-segunda-turma-mantem-prisao
 - src-correiobraziliense-2026-09-gilmar-propoe-retirar-delegados
+- src-stf-2026-03-20-segunda-turma-mantem-prisao
+- src-verificacao-direta-equipe-pet16669-decisao-dino-integra
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'
 photo:
   path: /fotos/gilmar-mendes.jpg
   source: Wikimedia Commons

@@ -2,7 +2,7 @@ id: andrei-rodrigues
 kind: person
 name: Andrei Rodrigues
 category: police
-role: Diretor-Geral da Polícia Federal (afastado cautelarmente em 08/09/2026)
+role: Diretor-Geral da Polícia Federal (reintegrado em 09/09/2026 após afastamento cautelar de 08/09/2026)
 positions:
 - title: Diretor-Geral
   organization_id: policia-federal
@@ -108,6 +108,10 @@ open_questions:
   dispositivo legal exato invocado; onze diretores da PF e a APCF (peritos) se manifestaram em apoio/pedindo
   julgamento pelo plenário; superintendentes regionais debatem, sem decisão, entrega coletiva de cargos.
   Verificação direta do site da Fenapef em 08/09/2026 não encontrou nenhuma nota sobre o episódio.'
+- Reintegrado em 09/09/2026 por decisão do ministro Flávio Dino (Pet 16.669), que considerou ilegítimo
+  o pedido do Partido Novo e usurpada a competência do Plenário — decisão lida integralmente pela equipe,
+  com tensões processuais próprias registradas em evidência correlata. A decisão de Dino ressalva que
+  se submete exclusivamente ao Plenário; desfecho final não confirmado até a data desta apuração.
 source_ids:
 - src-brasil247-2026-09-08-superintendentes-cogitam-entrega-cargos
 - src-cnnbrasil-2026-08-28-andrei-pf-autonoma
@@ -127,6 +131,7 @@ source_ids:
 - src-migalhas-2026-09-03-fachin-cinco-dias-pet-16704
 - src-migalhas-2026-09-08-maioria-afasta-andrei-gilmar-pede-vista
 - src-migalhas-2026-09-08-mendonca-afasta-andrei-pet16662
+- src-migalhas-2026-09-09-dino-reintegra-andrei-pf
 - src-ndmais-2026-09-02-vorcaro-alega-tortura
 - src-nsctotal-2026-09-08-quem-assume-pf-murad
 - src-pf-relatorio-ipj-3298613-2026-integra
@@ -152,6 +157,7 @@ source_ids:
 - src-stf-despacho-fachin-2026-09-03-pet-16704
 - src-terra-2026-09-08-o-que-acontece-apos-gilmar-pedir-vista
 - src-verificacao-direta-equipe-pet16662-documentos-primarios
+- src-verificacao-direta-equipe-pet16669-decisao-dino-integra
 full_name: Andrei Augusto Passos Rodrigues
 review_status: published
 reviewer: orquestrador

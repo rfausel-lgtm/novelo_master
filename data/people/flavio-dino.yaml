@@ -10,9 +10,18 @@ positions:
   - src-correiodoestado-2026-08-24-dino-compartilhamento
 summary: Relator no STF do inquérito que apura o suposto uso de recursos de emendas parlamentares no financiamento
   do filme 'Dark Horse'. Em 24/08/2026 autorizou o compartilhamento, com a Polícia Federal, dos dados
-  apreendidos pela Polícia Civil de São Paulo na operação contra Karina Ferreira da Gama.
+  apreendidos pela Polícia Civil de São Paulo na operação contra Karina Ferreira da Gama. Em 09/09/2026,
+  na Pet 16.669/DF (mesmo processo em que já era relator, sobre o caso 'Dark Horse'), acolheu requerimento
+  incidental de Andrei Rodrigues e determinou sua reintegração e a de Leandro Almada da Costa à Polícia
+  Federal, neutralizando a decisão de afastamento de André Mendonça de um dia antes — por considerar ilegítimo
+  o pedido do Partido Novo e usurpada a competência do Plenário do STF (já afetada pela Pet 16.704, de
+  Fachin). Citou, como agravante, reunião entre Mendonça e Vorcaro 'nas dependências de uma empresa privada'
+  e a carta pública de 13 ex-ministros do STF pedindo apuração da 'mais aguda crise' da história da Corte.
+  Ressalvou que sua decisão se submete exclusivamente à autoridade do Plenário.
 why_in_novelo: É o relator, no STF, da frente que apura o uso de emendas parlamentares no financiamento
-  do filme, e autorizou o repasse dos dados da operação paulista à Polícia Federal.
+  do filme 'Dark Horse', e autorizou o repasse dos dados da operação paulista à Polícia Federal — e, em
+  09/09/2026, usou esses mesmos autos para reintegrar Andrei Rodrigues à PF, neutralizando a decisão de
+  Mendonça, num episódio central da crise institucional do STF.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
@@ -22,12 +31,22 @@ open_questions:
   Andrei Rodrigues. Uma fonte única e não verificada (111Next, 08/09/2026) menciona um 'Dino' em anotações
   de Vorcaro sobre precatórios de R$ 15 bilhões — identificação com o ministro expressamente negada por
   sua assessoria, tratada como especulação não confirmada.
+- 'A leitura direta da decisão de 09/09/2026 (Pet 16.669) expõe tensões processuais objetivamente visíveis
+  no próprio texto — uso de petição incidental em processo próprio para produzir efeitos sobre decisão
+  de outro ministro em processo distinto; invocação da competência exclusiva do Plenário como fundamento
+  para uma decisão monocrática própria com efeitos imediatos; citação de fato ''vindo a lume'' (reunião
+  Mendonça-Vorcaro) sem referência a documento constante dos autos — registradas em evidência correlata,
+  sem juízo de valor jurídico autônomo do corpus sobre a correção da decisão. Linha de investigação em
+  aberto: conexões pessoais, políticas e institucionais de Flávio Dino relevantes para avaliar esse episódio.'
 source_ids:
 - src-111next-2026-09-08-vorcaro-cita-dino-precatorios-15bi
 - src-cnn-2026-09-dark-horse-coaf
 - src-cnnbrasil-2026-08-17-dino-afastamento-tce-maranhao
 - src-correiodoestado-2026-08-24-dino-compartilhamento
 - src-gazetadopovo-2026-08-17-dino-afasta-presidente-tce-ma
+- src-migalhas-2026-09-09-dino-reintegra-andrei-pf
+- src-sul21-2026-09-08-carta-13-exministros-stf-agenciabrasil
+- src-verificacao-direta-equipe-pet16669-decisao-dino-integra
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

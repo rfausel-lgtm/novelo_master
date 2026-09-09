@@ -13,10 +13,14 @@ why_in_novelo: É o segundo nome afastado, junto com o diretor-geral, na decisã
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Reintegrado em 09/09/2026 por decisão de Flávio Dino (Pet 16.669), junto com Andrei Rodrigues, pelos
+  mesmos fundamentos — desfecho final não confirmado até a data desta apuração.
 source_ids:
-- src-poder360-2026-09-08-mendonca-afasta-andrei
 - src-metropoles-2026-09-08-afastamento-90-dias
+- src-migalhas-2026-09-09-dino-reintegra-andrei-pf
+- src-poder360-2026-09-08-mendonca-afasta-andrei
+- src-verificacao-direta-equipe-pet16669-decisao-dino-integra
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'

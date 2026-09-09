@@ -14,10 +14,15 @@ why_in_novelo: Presidiu o STF quando o caso Master foi redistribuído de Dias To
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- A decisão de Flávio Dino de 09/09/2026 (Pet 16.669) invoca a Pet 16.704, de sua autoria, como fundamento
+  para afirmar que a matéria do afastamento de Andrei Rodrigues já estaria afetada ao Plenário — não localizada,
+  até a data desta apuração, manifestação direta de Fachin sobre essa leitura específica dada por Dino
+  ao alcance da Pet 16.704.
 source_ids:
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
+- src-verificacao-direta-equipe-pet16669-decisao-dino-integra
 full_name: Luiz Edson Fachin
 review_status: published
 reviewer: orquestrador

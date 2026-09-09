@@ -1,0 +1,37 @@
+id: src-verificacao-direta-equipe-pet16669-decisao-dino-integra
+kind: source
+title: Leitura direta da decisão de Flávio Dino na Pet 16.669/DF
+publisher: Verificação direta da equipe — STF, Pet 16.669/DF
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-06'
+url: https://arq.migalhas.com.br/arquivos/2026/9/7DD1EEDDFBF9E0_PET1666909092026.pdf
+source_type: official_court
+summary: 'Leitura de texto integral (18 páginas, autenticação STF verificada, código A9CE-63AA-C86C-C471).
+  A Pet 16.669 é o mesmo processo em que Dino já era relator, sobre o acesso da PF a material apreendido
+  pela Polícia Civil de SP na investigação de emendas parlamentares ligadas ao filme ''Dark Horse'' —
+  Andrei apresentou, nesses autos, requerimento incidental de tutela de urgência contra os efeitos da
+  decisão de Mendonça na Pet 16.662. Fundamentos centrais: (i) ilegitimidade ativa do Partido Novo para
+  requerer medida cautelar pessoal em processo penal (art. 282, §2º, CPP — ''inexiste qualquer referência
+  a partidos políticos entre os sujeitos legitimados''); (ii) usurpação da competência do Plenário, já
+  afetada pela Pet 16.704 (Fachin); (iii) ''decisão em causa própria'' de Mendonça, por ser mencionado
+  nos relatórios de inteligência objeto da própria Pet 16.704; (iv) menciona reunião entre Mendonça e
+  Vorcaro ''nas dependências de uma empresa privada'', por intermediação de ''agentes que figuram em investigações
+  em curso'', como fato ''recentemente vindo a lume'', com a ressalva expressa de que ''não há aqui qualquer
+  juízo de valor antecipado sobre o que se passou nessa reunião privada''; (v) transcreve trecho do despacho
+  de pedido de vista de Gilmar Mendes, com os mesmos questionamentos sobre legitimidade e competência,
+  e citando a ADPF 1.017/AL sobre neutralidade eleitoral do Judiciário; (vi) cita a carta pública de 13
+  ex-ministros do STF de 08/09/2026. Registra que Andrei ''limitou-se a cumprir determinações judiciais
+  emanadas do Exmo. Ministro Alexandre de Moraes''. Dispositivo: reintegração imediata de Andrei e Almada;
+  proibição preventiva de novas medidas cautelares pessoais fundadas exclusivamente no exercício regular
+  de suas funções; restabelecimento da Diretoria de Inteligência Policial; vista ao PGR após cumprimento;
+  ressalva de que a decisão se submete exclusivamente ao Plenário.'
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
