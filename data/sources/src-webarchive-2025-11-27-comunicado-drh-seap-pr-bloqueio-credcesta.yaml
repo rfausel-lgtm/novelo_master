@@ -1,0 +1,24 @@
+id: src-webarchive-2025-11-27-comunicado-drh-seap-pr-bloqueio-credcesta
+kind: source
+title: Comunicado do departamento de recursos humanos da secretaria paranaense — bloqueio dos códigos
+  5420 e 5410
+publisher: Paraná Previdência (recuperado do Internet Archive)
+publication_date: '2025-11-27'
+retrieved_at: '2026-09-09'
+url: http://web.archive.org/web/20260513062458id_/https://www.paranaprevidencia.pr.gov.br/Noticia/COMUNICADO-DRHSEAP
+source_type: official_government
+summary: 'Comunicado de 27/11/2025 informando o bloqueio, a partir de 24/11/2025, de novos lançamentos
+  de descontos vinculados aos códigos 5420, identificado como ''CREDCESTA – PKL ONE'', e 5410, da Mettacard.
+  O documento só permanece acessível por captura arquivada: a página oficial passou a responder que o
+  conteúdo ficaria indisponível em razão da legislação eleitoral. Nenhum ato de suspensão ou cancelamento
+  do código foi publicado no diário oficial paranaense — o bloqueio foi administrativo.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do PDF oficial do diário capixaba e do texto normativo paranaense)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

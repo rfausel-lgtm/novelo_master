@@ -1,0 +1,31 @@
+id: doc-2025-10-24-portaria-seger-034-r-es-atividade-privativa-instituicao-financeira
+kind: document
+title: Portaria SEGER nº 034-R/2025 (ES) — 'atividade privativa de instituição financeira'
+doc_type: administrative_act
+date: '2025-10-24'
+source_ids:
+- src-doe-es-2025-10-24-portaria-seger-034-r-atividade-privativa
+summary: 'A afirmação normativa mais direta encontrada em todo o acervo sobre a natureza jurídica do produto.
+  Um governo estadual declara, em ato publicado, que oferecer e administrar cartão consignado de benefício
+  é atividade privativa de instituição financeira e depende de autorização do Banco Central. O peso do
+  documento está no contraste: o mesmo estado havia criado, em 2023, a margem adicional de 10% para o
+  produto, no mesmo desenho do Rio de Janeiro e de Mato Grosso. Dois anos depois restabeleceu por escrito
+  o filtro que o Rio dispensou ao criar categoria autorizada apenas pelo Estado, e que São Paulo e Mato
+  Grosso transferiram para o parceiro bancário. A tese de que a operadora não poderia consignar por não
+  ser instituição financeira deixa de ser leitura de terceiros e passa a constar de norma estadual vigente.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+- banco-central-do-brasil
+issuer: Secretaria de Estado de Gestão e Recursos Humanos do Espírito Santo
+url: https://consignados.es.gov.br/Media/Consignados/Leis/PORTARIA%20SEGER%20N%C2%BA%20034-R%20de%2022-10-2025.pdf
+reference: Portaria SEGER nº 034-R, de 22/10/2025, art. 2º §2º; DOE-ES 24/10/2025, p. 19
+excerpt: A oferta e administração de cartão consignado de benefício constituem atividade privativa de
+  instituição financeira, sendo obrigatória a autorização do Banco Central do Brasil - BACEN para o seu
+  funcionamento.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

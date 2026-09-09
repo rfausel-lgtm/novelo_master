@@ -1,0 +1,28 @@
+id: doc-2016-05-12-lei-18779-pr-cartao-de-beneficios-e-margem-de-dez-por-cento
+kind: document
+title: Lei nº 18.779/2016 (PR) — o cartão de benefícios cinco anos antes, e a fissura textual
+doc_type: legislative_act
+date: '2016-05-12'
+source_ids:
+- src-legislacao-pr-lei-18779-2016-cartao-de-beneficios
+summary: 'Documento que dissolve o que o acervo vinha tratando como anomalia paranaense. A pergunta era
+  como a empresa obtivera código de desconto em agosto de 2021 se a margem exclusiva só surgiu em outubro
+  daquele ano. A resposta é que a base normativa existia desde 2016: esta lei já incluía no rol de consignações
+  as despesas com cartão de benefícios em rede credenciada do emitente. Havia, porém, um descompasso interno
+  — enquanto o rol falava em cartão de benefícios, o dispositivo que reservava dez pontos percentuais
+  de margem falava em cartão de crédito. É essa fissura textual que a lei de 2021 fecharia, dois meses
+  depois do credenciamento.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+issuer: Estado do Paraná
+url: https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=iniciarProcesso&codAto=156640&codItemAto=969522
+reference: Lei nº 18.779, de 12/05/2016 — altera a Lei nº 13.740/2002
+excerpt: despesas com a realização de compras, serviços e saques, utilizando cartão de benefícios, em
+  rede credenciada do emitente do cartão
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

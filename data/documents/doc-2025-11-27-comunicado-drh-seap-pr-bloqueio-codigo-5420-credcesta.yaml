@@ -1,0 +1,25 @@
+id: doc-2025-11-27-comunicado-drh-seap-pr-bloqueio-codigo-5420-credcesta
+kind: document
+title: Comunicado da secretaria paranaense que bloqueou o código 5420 do CredCesta
+doc_type: administrative_act
+date: '2025-11-27'
+source_ids:
+- src-webarchive-2025-11-27-comunicado-drh-seap-pr-bloqueio-credcesta
+summary: 'Primeira medida restritiva de um ente estadual contra o produto, anterior em quase três meses
+  à suspensão paulista. Bloqueia, a partir de 24/11/2025, novos lançamentos de descontos vinculados ao
+  código 5420, identificado como ''CREDCESTA – PKL ONE''. Dois registros importam: a medida não foi publicada
+  em diário oficial, tendo sido veiculada apenas como comunicado administrativo; e o documento hoje só
+  é acessível por captura arquivada, porque a página oficial passou a responder que o conteúdo ficaria
+  indisponível em razão da legislação eleitoral.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+issuer: Departamento de Recursos Humanos da Secretaria de Administração e Previdência do Paraná
+url: http://web.archive.org/web/20260513062458id_/https://www.paranaprevidencia.pr.gov.br/Noticia/COMUNICADO-DRHSEAP
+reference: Comunicado DRH/SEAP de 27/11/2025; bloqueio com efeitos de 24/11/2025
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

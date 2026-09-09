@@ -91,6 +91,19 @@ open_questions:
   algum no diário estadual, apesar de constar da lista de cobertura. Santa Catarina instituiu a margem
   em abril de 2025 e, em 11/06/2026, revogou-a junto com a própria categoria de consignatária administradora
   de cartão de benefícios — a reação mais completa localizada até aqui.
+- 'O desenho normativo tem uma variável que organiza todos os casos: o tratamento dado à exigência de
+  autorização do Banco Central. O Rio de Janeiro a dispensou, criando categoria autorizada apenas pelo
+  Estado. São Paulo e Mato Grosso a transferiram para o parceiro bancário. Minas Gerais a manteve sobre
+  o emitente. O Paraná nunca a exigiu para essa espécie. E o Espírito Santo, depois de criar a margem,
+  declarou em portaria de outubro de 2025 que oferecer e administrar cartão consignado de benefício é
+  atividade privativa de instituição financeira. CORREÇÃO ao registro publicado no lote anterior. Ali
+  se afirmou que o Paraná contradizia o padrão por ter credenciado a empresa antes de criar a margem.
+  A leitura do texto normativo mostra que não houve anomalia: a base existia desde a lei de 2016, que
+  já previa consignação por cartão de benefícios. O que a lei de outubro de 2021 fez, dois meses após
+  o credenciamento, foi fechar uma fissura textual — o dispositivo de margem ainda dizia ''cartão de crédito''
+  — substituindo a expressão pela designação exata do produto em operação. A formulação correta, portanto,
+  não é que a empresa entrou antes da norma, e sim que entrou por uma porta que estava aberta havia cinco
+  anos e cuja redação foi depois ajustada à sua prática.'
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -129,6 +142,10 @@ source_ids:
 - src-jornalmg-2022-02-23-decreto-48370-reserva-cartao-beneficio
 - src-doego-2023-12-08-lei-22449-margem-adicional-cartao-beneficio
 - src-sea-sc-decreto-926-2025-e-1562-2026-margem-cartao-beneficio
+- src-doe-es-2025-10-24-portaria-seger-034-r-atividade-privativa
+- src-legislacao-pr-lei-18779-2016-cartao-de-beneficios
+- src-legislacao-pr-lei-20740-2021-margem-cartao-beneficio-consignado
+- src-curitiba-2023-06-27-decreto-1091-margem-e-categoria-de-consignataria
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

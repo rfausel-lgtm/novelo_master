@@ -1,0 +1,37 @@
+id: rev-2026-09-09-lote-144-atividade-privativa-e-a-dissolucao-da-anomalia-paranaense
+kind: revision
+date: '2026-09-09'
+title: Lote 144 — 'atividade privativa de instituição financeira', e o Paraná deixa de ser anomalia
+summary: 'Lote que traz a declaração normativa mais direta de todo o acervo e corrige, a partir de texto
+  oficial, um registro publicado no lote anterior. A declaração é do Espírito Santo: portaria de outubro
+  de 2025, lida no PDF do diário oficial, afirma que ''a oferta e administração de cartão consignado de
+  benefício constituem atividade privativa de instituição financeira, sendo obrigatória a autorização
+  do Banco Central do Brasil''. O peso está no percurso do próprio estado, que em 2023 criara para o produto
+  a mesma margem adicional de 10% do Rio de Janeiro e de Mato Grosso, e dois anos depois restabeleceu
+  por escrito o filtro que o Rio dispensara. A tese de que a operadora não poderia consignar deixa de
+  ser leitura de terceiros e passa a constar de norma estadual. A correção diz respeito ao Paraná: o lote
+  anterior o apresentou como contraexemplo por ter credenciado a empresa antes de criar a margem, mas
+  a leitura da legislação mostra que não houve anomalia — a base existia desde 2016, e a lei de outubro
+  de 2021 apenas fechou uma fissura textual, substituindo ''cartão de crédito'' por ''cartão de benefício
+  consignado'' no dispositivo de margem, dois meses após o credenciamento. Descobriu-se ainda que a legislação
+  paranaense nunca exigiu autorização do Banco Central para essa espécie, porque seu rol se organiza por
+  tipo de despesa e não de entidade: o Rio precisou abrir uma porta que no Paraná jamais esteve fechada.
+  Na capital paranaense, porém, o roteiro fluminense reaparece integralmente no decreto municipal de 2023.
+  Registram-se também a captura intermediária que completa a série de cobertura, em dezoito estados no
+  início de 2023; a rede de 49 lojas que explica a presença nacional sem filiais; o incentivo comercial
+  em que apenas o seguro prestamista remunerava o correspondente, num cartão sem portabilidade; e o bloqueio
+  paranaense de novembro de 2025, primeiro ato restritivo estadual, jamais publicado em diário e hoje
+  acessível somente por captura arquivada.'
+affected_ids:
+- credcesta
+- pkl-one-participacoes
+- banco-master
+- banco-central-do-brasil
+- claudio-castro
+reason: Continuação da expansão da investigação sobre o CredCesta, com leitura do texto normativo capixaba
+  e paranaense e teste da explicação para a sequência temporal registrada no lote anterior.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,28 @@
+id: ev-parana-nunca-exigiu-autorizacao-do-banco-central-para-cartao-de-beneficio
+kind: evidence
+classification: D
+proposition: 'O que parecia anomalia paranaense tem explicação documental, e ela é mais reveladora do
+  que a hipótese original. A base normativa existia desde 2016: a lei daquele ano já incluía no rol de
+  consignações as despesas com cartão de benefícios em rede credenciada do emitente. Havia, porém, um
+  descompasso interno — o rol falava em cartão de benefícios, mas o dispositivo que reservava dez pontos
+  de margem falava em cartão de crédito. A lei de outubro de 2021, dois meses depois de a empresa obter
+  código de desconto, apenas fechou essa fissura, trocando a expressão pela designação exata do produto
+  já em operação. Mais importante: o rol paranaense estrutura-se por tipo de despesa, não de entidade,
+  e o inciso do cartão de benefício não qualifica quem pode operá-lo — ao contrário do inciso dos empréstimos,
+  que exige instituição bancária ou financeira. Em nenhum ponto da legislação paranaense sobre a espécie
+  há exigência de autorização do Banco Central. O Rio de Janeiro precisou criar em 2021 uma categoria
+  dispensada dessa autorização; o Paraná não precisou, porque nunca a exigiu para esse produto.'
+document_ids:
+- doc-2016-05-12-lei-18779-pr-cartao-de-beneficios-e-margem-de-dez-por-cento
+- doc-2021-10-05-lei-20740-pr-fecha-a-fissura-textual-do-cartao-de-beneficio
+source_ids:
+- src-legislacao-pr-lei-18779-2016-cartao-de-beneficios
+- src-legislacao-pr-lei-20740-2021-margem-cartao-beneficio-consignado
+excerpt: será reservado o limite de 10% (dez por cento) destinado exclusivamente para amortização de despesas
+  efetuadas por meio de cartão de benefício consignado
+date: '2021-10-05'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
