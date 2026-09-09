@@ -70,6 +70,14 @@ cited_position:
   - src-poder360-2026-06-26-wagner-admite-relacao-augusto-lima-patacoada
   by_id: jaques-wagner
   date: '2026-06-26'
+- kind: denial
+  summary: 'Sobre a alegação, na delação de João Carlos Mansur, de ter recebido ingressos para show da
+    Taylor Swift avaliados em R$ 63,3 mil: nega conhecer Mansur ou ter tido qualquer relação com a Reag
+    Investimentos, classificando a compra como ''um pedido pessoal a um amigo''.'
+  source_ids:
+  - src-bahianoticias-2026-08-26-proposta-delacao-mansur-wagner-acmneto
+  by_id: jaques-wagner
+  date: '2026-08-26'
 open_questions:
 - O relatório da PF de 30/07/2026 (PDF de 33 MB) não foi lido pela equipe; o corpus registra a síntese
   do Poder360.
@@ -111,11 +119,15 @@ open_questions:
 - Guilherme Henrique Sodré Martins — pai biológico do enteado Eduardo Mendonça Sodré Martins, não parente
   de sangue de Wagner — é descrito pela PF como 'pessoa próxima e de confiança' do senador e articulador
   entre o núcleo Master e seu gabinete; foi alvo de medidas da PF na 9ª fase da Compliance Zero.
+- A alegação sobre os ingressos da Taylor Swift (R$ 63,3 mil), já conhecida no corpus por outra via, consta
+  especificamente entre os 17 anexos da delação de João Carlos Mansur (26/08/2026), não apenas em mensagens
+  do celular de Vorcaro — ele nega conhecer Mansur ou ter relação com a Reag.
 source_ids:
 - src-acordacidade-2026-08-28-lula-defende-wagner
 - src-agenciabrasil-2026-06-18-wagner-nega-vantagens
 - src-agenciabrasil-2026-08-07-wagner-depoimento-adiado
 - src-anoticiadovale-2026-09-02-wagner-inocencia-eleicoes
+- src-bahianoticias-2026-08-26-proposta-delacao-mansur-wagner-acmneto
 - src-bahiapolitica-2026-uol-advogado-wagner-pkl-one
 - src-bnews-2026-09-08-sabatina-wagner-bolsonaro-campos-neto-marginal
 - src-congresso-mpv-1106-2022-emendas

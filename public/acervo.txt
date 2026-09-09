@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T14:24:35.261Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-09T14:32:16.657Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -27,6 +27,7 @@ PESSOA, ORG, EVENTO, ATO, RELAÇÃO, TRANSAÇÃO, ALEGAÇÃO, SEQUÊNCIA, POSIÇ
 ## PESSOAS
 
 PESSOA|acm-neto|ACM Neto|Ex-prefeito de Salvador (União Brasil); nome civil Antonio Carlos Peixoto de Magalhães Neto|É uma das figuras políticas de maior projeção nacional a receber pagamentos do Banco Master, por via distinta (consultoria) da maioria dos demais nomes da rede (advocacia).
+POSIÇÃO|acm-neto|clarification|Confirma ser cotista do fundo Seattle 95, mas afirma que os recursos aplicados são 'recursos próprios de origem declarada e lícita'.
 PESSOA|alberto-felix-oliveira|Alberto Félix Oliveira|Tesoureiro do Banco Master|Integrava a dupla que apresentou o Banco Master ao comitê que viria a aplicar R$ 400 milhões em suas letras financeiras.
 PESSOA|alberto-mauricio-calo|Alberto Maurício Caló|Ex-diretor jurídico e contábil do Banco Máxima|Corréu absolvido na ação penal sobre a gestão fraudulenta do Banco Máxima, e autor do recurso ao STJ que reduziu a imputação para todos os denunciados.
 PESSOA|alberto-samuel-alcolumbre-tobelem|Alberto Samuel Alcolumbre Tobelem|Presidente da Junta Comercial do Estado do Amapá; conselheiro em colegiados da Amprev|Ocupa cargos de nomeação do mesmo governador e no mesmo período do dirigente investigado, inclusive assento em colegiado de fiscalização da autarquia que aplicou R$ 400 milhões no Banco Master.
@@ -182,6 +183,7 @@ POSIÇÃO|jaques-wagner|denial|Ao deixar a liderança do governo: 'minha priorid
 POSIÇÃO|jaques-wagner|clarification|Confirmou ter indicado o escritório de Ricardo Lewandowski ao Banco Master, mantendo a negativa quanto à contratação de Guido Mantega.
 POSIÇÃO|jaques-wagner|denial|Por nota da assessoria, em 18/06/2026: 'O senador Jaques Wagner (PT-BA) esclarece que não é réu, não foi denunciado e não foi acusado em nenhum processo relacionado aos fatos investigados.' Afirma que o apartamento 'jamais integrou o patrimônio do parlamentar…
 POSIÇÃO|jaques-wagner|denial|Em entrevista à Folha de S.Paulo (26/06/2026), admitiu proximidade com Augusto Lima mas negou favorecimento ilícito, chamou a ação da PF de 'espetacularização' e 'patacoada', e acusou o STF de encenar a divulgação do dinheiro apreendido: 'Estão reinventando a…
+POSIÇÃO|jaques-wagner|denial|Sobre a alegação, na delação de João Carlos Mansur, de ter recebido ingressos para show da Taylor Swift avaliados em R$ 63,3 mil: nega conhecer Mansur ou ter tido qualquer relação com a Reag Investimentos, classificando a compra como 'um pedido pessoal a um a…
 PESSOA|jarbas-soares-junior|Jarbas Soares Júnior|Presidente do Conselho Nacional de Procuradores-Gerais (CNPG)|Nomeado em mensagens do relatório da Polícia Federal sobre o celular de Vorcaro como beneficiário de suposta intervenção de Paulo Gonet em eleição do CNPG.
 POSIÇÃO|jarbas-soares-junior|no_response|Procurado pelo Poder360, não respondeu até a publicação da reportagem.
 PESSOA|jefferson-pessoa-da-silva|Jefferson Pessoa da Silva|Assessor no gabinete do ministro Alexandre de Moraes (STF), segundo identificação de David Ágape|É o nome que uma reportagem específica associa, por indício técnico de metadados — não por confirmação —, à possível origem de um dossiê anônimo central na crise institucional Moraes-Mendonça no STF; entra no grafo com o peso exato da fonte que o cita, sinalizado pela classificação de evidência.

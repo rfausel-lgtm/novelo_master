@@ -25,17 +25,20 @@ why_in_novelo: Firmou a segunda delação premiada do caso Banco Master, sobre o
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Seu acordo de colaboração premiada foi assinado com a PGR em 08/08/2026, segundo o Poder360 — a formalização
+  e o envio ao STF, amplamente noticiados, ocorreram em 03/09/2026.
 source_ids:
 - src-brasil247-2026-delator-bomba-1-bilhao-vorcaro
 - src-brasildefato-2026-09-03-pgr-delacao-mineiro
+- src-poder360-2026-08-08-pgr-fecha-delacao-freixo-dark-horse
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
 - src-poder360-2026-pgr-fecha-delacao-mineiro-dark-horse
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
-- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
 aliases:
 - Mineiro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-06'

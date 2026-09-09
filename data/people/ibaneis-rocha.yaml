@@ -19,6 +19,10 @@ cited_position:
 open_questions:
 - Manifestações de Ibaneis Rocha sobre a operação e sobre as investigações não foram localizadas em fonte
   verificada do corpus.
+- Segundo resultado de busca não confirmado por leitura direta de artigo-fonte, seu escritório (Ibaneis
+  Advocacia) teria vendido R$ 38 milhões em honorários de precatório ao fundo Reag Legal Claims — sua
+  defesa afirma que ele está afastado das atividades do escritório desde 2018; alegação classe I, não
+  verificada diretamente pela equipe, mantida para eventual aprofundamento.
 source_ids:
 - src-cldf-2025-08-19-autoriza-brb-comprar-master
 external_ids:
@@ -27,7 +31,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'
 photo:
   path: /fotos/ibaneis-rocha.jpg
   source: Wikimedia Commons

@@ -28,13 +28,27 @@ open_questions:
   — provavelmente sob sigilo até a homologação. Trechos vazados sobre um fundo em Cayman (Jaguar Multimarket
   Fund) e sobre a mecânica da operação Tirreno-BRB não foram confirmados pela equipe em documento primário
   nem em fonte com acesso verificável.
+- Segundo sua proposta de delação (26/08/2026), Jaques Wagner recebeu ingressos para show da Taylor Swift
+  (R$ 63,3 mil) e ACM Neto é cotista do fundo Seattle 95 (R$ 7,92 milhões aplicados, ganho de R$ 4,01
+  milhões) — ambos negam ou minimizam as alegações, conforme registrado nos respectivos perfis.
+- Alega que o Jaguar Multimarket Fund (Cayman), que recebeu R$ 494 milhões do Master e tem Benjamim Botelho
+  como beneficiário formal, teria Vorcaro como 'verdadeiro dono' — alegação própria, sem corroboração
+  documental independente localizada.
+- 'Detalha o paradeiro do patrimônio de R$ 20 bilhões atribuído a Vorcaro: imóveis, fundos (incluindo
+  o Astralo, já conhecido no corpus), direitos creditórios e ativos em nome de terceiros — com ressalva
+  de que não é necessariamente líquido disponível.'
+- Até 09/09/2026, a homologação da delação pelo relator André Mendonça segue pendente.
 source_ids:
 - src-agendadopoder-2026-mansur-entrega-20-bilhoes-vorcaro
+- src-bahianoticias-2026-08-26-proposta-delacao-mansur-wagner-acmneto
 - src-bahianoticias-2026-09-mansur-jaguar-fund-botelho
 - src-cnn-2026-02-05-mansur-reag-brb
 - src-obrasilianista-2026-09-03-delacao-mansur-detalhes
+- src-obrasilianista-2026-09-03-detalhes-delacao-mansur-pgr
 - src-oglobo-2026-mansur-promete-revelar-20-bilhoes-vorcaro
+- src-poder360-2026-09-02-pgr-aceita-delacao-envia-mendonca
 - src-poder360-2026-09-02-pgr-aceita-delacao-mansur
+- src-timesbrasil-2026-09-05-patrimonio-20-bilhoes-imoveis-fundos-mansur
 - src-verofato-2026-mansur-paradeiro-20-bilhoes-jaguar
 review_status: published
 reviewer: orquestrador

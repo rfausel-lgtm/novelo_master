@@ -15,8 +15,14 @@ why_in_novelo: É o veículo offshore de Benjamim Botelho de Almeida que manteve
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Segundo a proposta de delação de João Carlos Mansur (26/08/2026), um fundo chamado 'Jaguar Multimarket
+  Fund Ltd.' (Cayman) recebeu R$ 494 milhões do Banco Master e teria Daniel Vorcaro como 'verdadeiro dono',
+  apesar de Benjamim Botelho figurar como beneficiário formal — alegação do delator, não corroborada.
+  Não confirmado se é a mesma entidade que esta ('Jaguar Investments'), beneficiário do mesmo Botelho
+  na condenação da CVM sobre o Brazil Realty FII, ou um veículo distinto de nome semelhante.
 source_ids:
+- src-bahianoticias-2026-08-26-proposta-delacao-mansur-wagner-acmneto
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 review_status: published
 reviewer: orquestrador

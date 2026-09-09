@@ -1,0 +1,18 @@
+id: ev-mansur-detalha-paradeiro-20bi-imoveis-fundos-astralo
+kind: evidence
+classification: A
+proposition: Segundo a proposta de Mansur, o patrimônio de R$ 20 bilhões atribuído a Vorcaro estaria disperso
+  em imóveis, fundos de investimento (com menção nominal ao fundo Astralo, já citado no corpus em repasses
+  da Reag), direitos creditórios e ativos em nome de terceiros — não necessariamente disponível para saque
+  imediato ou em aplicações de alta liquidez, segundo ressalva da própria reportagem. Reportado por fonte
+  única até o momento.
+document_ids: []
+source_ids:
+- src-timesbrasil-2026-09-05-patrimonio-20-bilhoes-imoveis-fundos-mansur
+attributed_to: Proposta de colaboração premiada de João Carlos Mansur, conforme Times Brasil/CNBC, 05/09/2026
+date: '2026-09-05'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
