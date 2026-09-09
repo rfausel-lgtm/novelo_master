@@ -193,7 +193,7 @@ Não se usa foto que mostre a pessoa em situação privada, em custódia (algema
 - Correção de classificação (rebaixar D para A, por exemplo): editar, registrar na revisão, e reavaliar status.
 - Refutação: `status: refuted`, com a evidência que refutou ligada. O registro fica visível como refutado.
 - Retratação: `review_status: retracted`. O registro sai do build. Motivo registrado em `Revision.corrections` e no [CHANGELOG.md](CHANGELOG.md). Aplica-se a registros que violaram critérios de inclusão, fontes inválidas, dados pessoais indevidos ou erro de identificação (homônimo).
-- Toda correção material gera entrada em `data/revisions/` e aparece em `/atualizacoes`. Correções de grafia sem efeito no sentido podem ser agrupadas na revisão seguinte.
+- Toda correção material gera entrada em `data/revisions/` e aparece em `/atualizacoes`. Correções de grafia sem efeito no sentido podem ser agrupadas na revisão seguinte. O hook de pre-commit recusa registro novo em `data/` sem a entrada correspondente ([CONTRIBUTING.md](CONTRIBUTING.md)), porque a regra já falhou quatro vezes por esquecimento.
 
 ## 9. Pedidos de remoção e de resposta
 

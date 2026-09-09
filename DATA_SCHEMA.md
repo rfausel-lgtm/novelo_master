@@ -381,6 +381,7 @@ O carregador (`load.ts`) e o lint (`lint.ts`) produzem dois níveis: erro e avis
 - Registro que não passa no schema Zod da coleção.
 - `id` diferente do nome do arquivo.
 - `id` duplicado em qualquer coleção.
+- Duas pessoas ou organizações com rótulo idêntico — ver [Duplicação de entidade](#duplicação-de-entidade).
 
 ### Erros do lint
 

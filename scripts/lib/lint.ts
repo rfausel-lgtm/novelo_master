@@ -13,13 +13,15 @@ import type { LoadIssue } from "./load";
  *  - status verified com classe A ou I (alegação/inferência não é fato verificado);
  *  - evidence_class do registro superior à melhor evidência ligada;
  *  - relação D sem documento primário (direto ou via evidência);
- *  - from_id == to_id; documento não rastreável; sequência com causalidade "comprovada" sem nexo documental.
+ *  - from_id == to_id; documento não rastreável; sequência com causalidade "comprovada" sem nexo documental;
+ *  - duas pessoas ou organizações com rótulo idêntico (nome ou alias de uma igual ao da outra).
  *
  * AVISOS (não bloqueiam; em modo estrito bloqueiam apenas registros publicados):
  *  - vocabulário imputativo sem qualificador de alegação;
  *  - agente sem cited_position; claim sem counter_position ou sem adversarial_review;
  *  - fonte sem verification; fonte de rede social/blog;
- *  - prefixo de id fora da convenção.
+ *  - prefixo de id fora da convenção;
+ *  - tokens de um nome contidos no de outro registro do mesmo tipo, sem `distinct_from` declarado.
  *
  * INFO (nunca bloqueia): relação sem data própria para a time machine.
  */
