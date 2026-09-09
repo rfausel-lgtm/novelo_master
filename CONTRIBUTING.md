@@ -14,6 +14,14 @@ git config core.hooksPath .githooks
 cp .env.example .env.local
 ```
 
+O hook de pre-commit também **bloqueia registro novo em `data/` sem entrada em
+`data/revisions/`**. Sem o registro, o conteúdo vai ao ar mas não aparece em `/atualizacoes` —
+aconteceu nos lotes 87, 130, 131 e 132. Só arquivo novo dispara; correção que edita registro
+existente passa, porque a [política editorial](EDITORIAL_POLICY.md) admite agrupá-la na revisão
+seguinte. Para dividir um lote em vários commits de propósito, use `NOVELO_SEM_REVISAO=1 git
+commit ...` — existe para ninguém precisar de `--no-verify`, que desligaria junto a varredura de
+segredos.
+
 Instalação do gitleaks (uma das opções): `winget install gitleaks` (Windows), `brew install gitleaks` (macOS), binário da página de releases do projeto (Linux). Sem gitleaks, o hook de pre-commit usa o scanner de fallback `npm run scan:secrets`, que cobre menos padrões.
 
 Verifique o ambiente:
