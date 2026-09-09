@@ -125,7 +125,10 @@ export function SiteHeader() {
                 items: [...NAV.slice(0, 5), { href: "/rede", label: "Rede em tabela" }],
               },
               { title: "Fontes e metodologia", items: NAV.slice(5, 7) },
-              { title: "Sobre o projeto", items: NAV.slice(7) },
+              {
+                title: "Sobre o projeto",
+                items: [...NAV.slice(7), { href: "/imprensa", label: "Para a imprensa" }],
+              },
             ].map((group) => (
               <div key={group.title} className="mobile-navigation-group">
                 <p className="text-fg-3 mb-1 text-xs font-medium tracking-wider uppercase">
