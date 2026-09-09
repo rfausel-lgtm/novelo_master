@@ -4,11 +4,14 @@ name: Natália Vorcaro Zettel
 category: businessperson
 role: Irmã de Daniel Vorcaro; vice-presidente da holding Sozo Real Estate
 positions: []
-summary: Irmã de Daniel Vorcaro. Apontada como vice-presidente da holding Sozo Real Estate, usada segundo
+summary: 'Irmã de Daniel Vorcaro. Apontada como vice-presidente da holding Sozo Real Estate, usada segundo
   a EFB (liquidante do Banco Master) para deter a titularidade da mansão de Windermere (Orlando/FL). Foi
   incluída, em 23/03/2026, na decisão que ampliou o bloqueio patrimonial contra a família Vorcaro, e é
   ré, ao lado do pai Henrique Vorcaro, em ação civil movida pela EFB nos Estados Unidos por dissipação
-  de mais de US$ 1 bilhão em ativos do banco.
+  de mais de US$ 1 bilhão em ativos do banco. Casou-se com o advogado Fabiano Campos Zettel em 2018; consta
+  como diretora da Rogue Participações desde 24/03/2014, sociedade em que o marido é presidente. Registro
+  adicional: a ação civil da EFB nos Estados Unidos pede US$ 113,6 milhões — a cifra de mais de US$ 1
+  bilhão citada nas reportagens refere-se à dissipação total alegada, não ao valor do pedido.'
 why_in_novelo: Alvo do bloqueio patrimonial brasileiro e de ação civil nos EUA movida pelo liquidante
   do Banco Master, por suposta participação na ocultação de bens da família Vorcaro.
 cited_position:
@@ -19,8 +22,9 @@ source_ids:
 - src-infomoney-2026-03-23-cerco-patrimonio-familiares
 - src-osul-2026-04-20-mansao-orlando-chosen-vessel
 - src-jornaldocomercio-2026-03-03-acao-eua-familia-vorcaro
+- src-brasilapi-2026-super-empreendimentos-cnpj
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

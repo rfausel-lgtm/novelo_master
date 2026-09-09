@@ -1,0 +1,22 @@
+id: src-senado-2026-03-12-cpmi-inss-convoca-zettel
+kind: source
+title: CPMI do INSS convoca Zettel, ex-noiva de Vorcaro e ex-diretores do Master
+publisher: Agência Senado
+publication_date: '2026-03-12'
+retrieved_at: '2026-09-09'
+url: https://www12.senado.leg.br/noticias/materias/2026/03/12/cpmi-do-inss-convoca-zettel-ex-noiva-de-vorcaro-e-ex-diretores-do-master
+source_type: official_legislative
+summary: 'Aprovação do REQ 3.044/2026, do deputado Duarte Jr. (PSB-MA), convocando Fabiano Zettel para
+  esclarecer possível envolvimento dos negócios familiares, do Banco Master, de igrejas e outros empreendimentos
+  com as fraudes do INSS. A convocação nunca se converteu em depoimento: a CPMI encerrou-se em 28/03/2026
+  sem relatório final aprovado.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

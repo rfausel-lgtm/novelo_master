@@ -7,17 +7,28 @@ positions: []
 summary: Segundo mensagens de WhatsApp entre Fabiano Zettel e Daniel Vorcaro reproduzidas pela imprensa,
   atuou ao lado de Zettel operacionalizando pagamentos a Belline Santana por meio de contrato fictício
   de consultoria com a Varajo Consultoria Empresarial. O corpus não localizou informação sobre sua função
-  ou vínculo profissional além dessa menção.
+  ou vínculo profissional além dessa menção. A leitura integral da decisão do STF acrescenta que ela é
+  descrita como funcionária de Daniel Vorcaro e que a decisão registra, a partir de mensagens, 'o detalhamento
+  da lavagem de dinheiro feito por ANA CLÁUDIA a DANIEL VORCARO [...] uma explicação de como fazem para
+  que o pagamento não saia direto de VORCARO para BELLINE'; foi também ela quem, após confirmar com Vorcaro
+  o valor, executou a transferência de R$ 1 milhão ao grupo 'A Turma'. Segundo registro da Receita Federal,
+  é diretora da Super Empreendimentos desde 18/08/2021 e figura também na direção de três empresas de
+  Fabiano Zettel — Adonay, Storm e REN.
 why_in_novelo: Nomeada em apuração da PF, com base na decisão do STF na PET 15556, como operadora de pagamentos
   no esquema de vantagens a servidores do Banco Central.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Sua permanência como diretora da Super Empreendimentos após a saída formal de Fabiano Zettel, somada
+  à direção de três empresas dele, indica sobreposição de administração entre as estruturas — não foi
+  localizada manifestação dela sobre esses vínculos nem sobre as menções na decisão do STF.
 source_ids:
 - src-timesbrasil-2026-03-mensagens-belline-cobrando
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+- src-brasilapi-2026-super-empreendimentos-cnpj
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

@@ -1,0 +1,23 @@
+id: src-brasilapi-2026-super-empreendimentos-cnpj
+kind: source
+title: Registro cadastral da Super Empreendimentos e Participações S.A. — Receita Federal
+publisher: Receita Federal do Brasil (via BrasilAPI)
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-09'
+url: https://brasilapi.com.br/api/cnpj/v1/31446245000170
+source_type: corporate_registry
+summary: 'Consulta ao CNPJ 31.446.245/0001-70. Sociedade anônima fechada aberta em 06/09/2018, capital
+  social de R$ 2.562.578.700,00, CNAE de holding de instituições não-financeiras, sede na Av. Brigadeiro
+  Faria Lima, 3144, São Paulo. Situação cadastral SUSPENSA desde 03/03/2026 por DETERMINAÇÃO JUDICIAL.
+  QSA vigente: Ana Cláudia Queiroz de Paiva (diretora desde 18/08/2021) e Leonardo Augusto Furtado Palhares
+  (diretor desde 23/07/2024). Fabiano Zettel não consta do QSA vigente.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

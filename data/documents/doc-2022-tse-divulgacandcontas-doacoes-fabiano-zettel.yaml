@@ -1,0 +1,23 @@
+id: doc-2022-tse-divulgacandcontas-doacoes-fabiano-zettel
+kind: document
+title: Extrato de doações de campanha de Fabiano Campos Zettel — Eleição Geral 2022 (TSE/DivulgaCandContas)
+doc_type: regulatory_record
+date: '2022-10-13'
+source_ids:
+- src-tse-2022-divulgacandcontas-doacoes-fabiano-zettel
+summary: Registro público de prestação de contas eleitorais consultado diretamente na base do TSE. Três
+  doações de pessoa física em 2022, todas por transferência eletrônica ou PIX, sem doador originário declarado,
+  somando R$ 5.010.000,00, com o doador classificado pelo próprio sistema como o 6º maior da eleição.
+is_official: true
+related_entity_ids:
+- fabiano-zettel
+issuer: Tribunal Superior Eleitoral
+url: https://divulgacandcontas.tse.jus.br/divulga/#/
+excerpt: 10/10/2022 — R$ 3.000.000,00 — Jair Messias Bolsonaro (PL/Presidente); 13/10/2022 — R$ 2.000.000,00
+  — Tarcisio Gomes de Freitas (Republicanos/Governador/SP); 23/09/2022 — R$ 10.000,00 — Lucas de Vasconcelos
+  Gonzalez (Novo/Deputado Federal/MG)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

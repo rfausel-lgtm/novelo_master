@@ -2,20 +2,93 @@ id: fabiano-zettel
 kind: person
 name: Fabiano Zettel
 category: businessperson
-role: Empresário; descrito pelo STF como cunhado de Daniel Vorcaro
-summary: Teve prisão preventiva decretada pelo STF em 04/03/2026 (PET 15556), mantida pela Segunda Turma
-  em 20/03/2026, que o descreve como cunhado do banqueiro. O relatório paralelo da CPMI do INSS (base
-  governista), entregue a PF, CGU e PGR em 07/04/2026, o aponta como o maior doador individual em campanhas
-  de 2022 — R$ 2 milhões a Jair Bolsonaro e R$ 3 milhões a Tarcísio de Freitas. Segundo apuração jornalística
-  (não confirmada em documento primário pela equipe), recebeu, por meio da Super Empreendimentos, R$ 650
-  milhões oriundos do resgate de CDBs do Master pelo fundo Astralo 95 (maio/2024) — parte dos quais usados
-  para comprar uma mansão de R$ 36,1 milhões em Brasília.
-why_in_novelo: Teve prisão preventiva decretada e mantida pelo STF na Operação Compliance Zero; comunicações
-  oficiais do tribunal o descrevem como cunhado de Daniel Vorcaro.
+role: Advogado e empresário; descrito pelo STF como cunhado de Daniel Vorcaro e apontado pela PF como
+  seu operador financeiro; preso preventivamente desde 04/03/2026
+summary: 'Advogado e empresário mineiro, casado desde 2018 com Natália Bueno Vorcaro, irmã do banqueiro.
+  Antes do Banco Master teve carreira de advogado empresarial e imobiliário — graduado pela Faculdade
+  de Direito Milton Campos, mestre pela UFMG, professor em instituições mineiras e advogado com atuação
+  de massa, tendo a MRV Engenharia como principal cliente. Criou a Moriah Asset, gestora de private equity
+  de saúde e bem-estar (Oakberry, Desinchá, Les Cinq Gym), e é pastor da Igreja Batista da Lagoinha, afastado
+  das funções pastorais desde novembro de 2025. A decisão de prisão preventiva na PET 15.556, assinada
+  em 03/03/2026 e lida integralmente pela equipe, dedica-lhe seção própria: descreve-o como participante
+  da ''estrutura operacional responsável pela execução e viabilização financeira'' das iniciativas do
+  grupo, atuando na ''intermediação e operacionalização de pagamentos'' e na estruturação de ''instrumentos
+  contratuais utilizados para justificar tais repasses''; a PF o qualifica como ''operador financeiro
+  e cunhado'' de Vorcaro. Três frentes específicas lhe são atribuídas na decisão: a elaboração da proposta
+  de contratação fictícia, via Varajo Consultoria, para remunerar o servidor do Banco Central Belline
+  Santana; a operacionalização do pagamento mensal de R$ 1 milhão ao grupo ''A Turma'', descrito como
+  estrutura de monitoramento e de coação e intimidação de concorrentes, ex-empregados e jornalistas; e
+  o acompanhamento dos fluxos financeiros do grupo. Foi preso duas vezes: temporariamente em 14/01/2026,
+  quando embarcava para o exterior no aeroporto de Guarulhos, e solto no mesmo dia por decisão de Dias
+  Toffoli; e preventivamente em 04/03/2026, permanecendo desde 05/03/2026 na Penitenciária 2 de Potim
+  (SP). Registro do TSE confirma que foi o 6º maior doador da eleição de 2022, com R$ 5,01 milhões — R$
+  3 milhões a Jair Bolsonaro, R$ 2 milhões a Tarcísio de Freitas e R$ 10 mil a um candidato a deputado
+  pelo Novo em Minas. Seu patrimônio declarado passou de R$ 67,5 milhões (2021) para R$ 204,3 milhões
+  (2024), e relatório do Coaf aponta R$ 99,4 milhões movimentados em sete meses contra renda mensal declarada
+  de R$ 66 mil.'
+why_in_novelo: É apontado pela Polícia Federal e pela decisão do STF que decretou sua prisão como o operador
+  financeiro de Daniel Vorcaro — o nó que liga, numa só pessoa, o dinheiro que saiu do banco, os pagamentos
+  a um servidor do Banco Central, o custeio do grupo de intimidação e o financiamento eleitoral de 2022.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+- kind: denial
+  summary: Antes da prisão, seus advogados afirmaram que ele 'tem atividades empresariais conhecidas e
+    lícitas, sem relação alguma com a gestão do Banco Master'.
+  source_ids:
+  - src-neofeed-2026-zettel-braco-direito-vorcaro-moriah-asset
+  by_id: fabiano-zettel
+  date: 2026-02
+- kind: clarification
+  summary: Ao se entregar à Polícia Federal, sua defesa declarou que ele 'já se apresentou à Polícia Federal'
+    e que, 'em que pese não ter tido acesso ao objeto das investigações, Fabiano está à inteira disposição
+    das autoridades'.
+  source_ids:
+  - src-otempo-2026-03-25-vilardi-assume-defesa-zettel
+  by_id: fabiano-zettel
+  date: '2026-03-04'
+- kind: version
+  summary: Em petição ao STF, a defesa sustentou 'o não preenchimento dos requisitos para a sua segregação
+    cautelar' e pediu prisão domiciliar por razões humanitárias — filho de dois anos e gêmeos por nascer,
+    em gravidez de risco. Gilmar Mendes considerou a tese 'relevante', mas referendou a prisão 'por ora'.
+  source_ids:
+  - src-conjur-2026-03-voto-gilmar-mendes-pet15556-referendo
+  by_id: fabiano-zettel
+  date: 2026-03
+- kind: no_response
+  summary: Sobre os R$ 485 milhões recebidos da Super Empreendimentos e sobre o aporte de R$ 48,5 milhões
+    na forma de AFAC, procurada, a defesa não se manifestou. Não foi localizada nenhuma declaração do
+    próprio Zettel, em nome próprio, em qualquer momento — nem negativa específica quanto aos pagamentos
+    a Belline Santana, nem quanto à acusação de ter atuado como interposta pessoa nas doações eleitorais.
+  source_ids:
+  - src-otempo-2026-03-21-zettel-recebeu-485-milhoes-super
+  by_id: fabiano-zettel
+  date: '2026-03-21'
+open_questions:
+- Está preso preventivamente há seis meses sem que tenha sido localizada denúncia formal da PGR, recebimento
+  de denúncia ou ação penal — o caso segue em inquérito, com relatório da PF previsto para o fim de setembro
+  de 2026. Não foram localizados habeas corpus em seu favor nem arguição de excesso de prazo.
+- Gilmar Mendes determinou, no voto de referendo, que a substituição da preventiva por domiciliar 'deve
+  ser reavaliada' assim que concluídas as diligências, por ele ter filho de tenra idade e gêmeos por nascer
+  em gravidez de risco (art. 318, III, do CPP). Nenhuma decisão que aprecie essa reavaliação foi localizada.
+- Sua proposta de colaboração premiada caminhou para rejeição por PF e PGR em junho de 2026, por falta
+  de elementos novos — embora a PF tenha chegado a considerá-la potencialmente mais valiosa que a do próprio
+  Vorcaro. Não há homologação nem rejeição formal publicada.
+- 'Trocou de defesa em 25/03/2026: os advogados anteriores saíram alegando motivos de foro íntimo, após
+  divergência sobre a possibilidade de delação; assumiu Celso Vilardi, em coordenação com o defensor de
+  Vorcaro.'
+- A tese da defesa de que as doações de 2022 respeitaram o limite de 10% da renda bruta exigiria rendimento
+  declarado de cerca de R$ 50 milhões em 2021 — em tensão com a renda mensal de R$ 66 mil apontada pelo
+  Coaf no mesmo período. A declaração de rendimentos de 2021 não foi localizada, e nenhuma apuração eleitoral
+  sobre sua capacidade financeira para essas doações foi identificada.
+- Não foi localizada nenhuma fonte que descreva como ele conheceu a família Vorcaro, nem vínculo profissional
+  anterior ao casamento de 2018 — a origem do relacionamento permanece desconhecida.
+- Abriu a SL 18 Participação Ltda em 22/02/2026, dez dias antes da prisão preventiva, como sócio administrador
+  único e em endereço distinto do das demais empresas do grupo. Nenhuma cobertura jornalística sobre essa
+  empresa foi localizada, e sua finalidade é desconhecida.
+- 'Nunca depôs em comissão parlamentar: foi desobrigado por Mendonça de comparecer à CPI do Crime Organizado
+  e foi preso no dia em que deporia à CPMI do INSS, que se encerrou sem relatório final.'
+- 'Registros da Receita mostram que ele saiu formalmente da diretoria da Super Empreendimentos em julho
+  de 2024, mas a sobreposição de administradores permaneceu: Ana Cláudia Queiroz de Paiva é diretora da
+  Super e também de três empresas dele (Adonay, Storm e REN).'
 source_ids:
 - src-correiobraziliense-2026-04-07-relatorio-paralelo-cpmi
 - src-gazeta-2026-02-14-vorcaro-cobrado-resort
@@ -25,11 +98,25 @@ source_ids:
 - src-stf-2026-03-04-prisao-preventiva-vorcaro
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
 - src-tribunadosertao-2026-01-16-650-milhoes-zettel-mansao
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+- src-conjur-2026-03-voto-gilmar-mendes-pet15556-referendo
+- src-tse-2022-divulgacandcontas-doacoes-fabiano-zettel
+- src-metropoles-2026-01-14-master-pf-doador-campanha-tarcisio-bolsonaro
+- src-infomoney-2026-coaf-99-milhoes-zettel-renda-incompativel
+- src-otempo-2026-03-21-zettel-recebeu-485-milhoes-super
+- src-opovo-2026-02-28-mendonca-desobriga-zettel-cpi
+- src-senado-2026-03-12-cpmi-inss-convoca-zettel
+- src-otempo-2026-03-25-vilardi-assume-defesa-zettel
+- src-poder360-2026-06-28-pf-pgr-devem-rejeitar-delacao-zettel
+- src-neofeed-2026-zettel-braco-direito-vorcaro-moriah-asset
+- src-jb-2026-03-03-valdemar-zettel-3-milhoes-bolsonaro
+- src-brasilapi-2026-super-empreendimentos-cnpj
+- src-cnnbrasil-2026-arleen-maridt-tayaya-quebra-cabeca
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-09'
 photo:
   path: /fotos/fabiano-zettel.jpg
   source: Wikimedia Commons
@@ -38,3 +125,4 @@ photo:
   original_url: https://commons.wikimedia.org/wiki/File:Fabiano_Zettel.jpg
   retrieved_at: '2026-09-04'
   alt: Retrato de Fabiano Zettel
+full_name: Fabiano Campos Zettel

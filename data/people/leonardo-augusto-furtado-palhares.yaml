@@ -1,0 +1,37 @@
+id: leonardo-augusto-furtado-palhares
+kind: person
+name: Leonardo Augusto Furtado Palhares
+category: businessperson
+role: Administrador da Varajo Consultoria; diretor da Super Empreendimentos desde 23/07/2024
+positions: []
+summary: Identificado na decisão do STF na PET 15.556, lida integralmente pela equipe, como administrador
+  da Varajo Consultoria Empresarial e autor da assinatura da proposta de prestação de serviços destinada
+  a contratar o servidor do Banco Central Belline Santana para um suposto estudo técnico sobre inserção
+  de jovens no mercado financeiro — instrumento que a decisão qualifica como vínculo contratual fictício,
+  usado para justificar pagamentos. É também o 'Leo' das mensagens em que Daniel Vorcaro instrui Fabiano
+  Zettel a fazer o pagamento por interposta pessoa, o que a decisão descreve como forma de viabilizar
+  a ocultação da propina. Segundo registro da Receita Federal, entrou na diretoria da Super Empreendimentos
+  e Participações em 23/07/2024 — o mesmo mês em que Fabiano Zettel deixou a diretoria da empresa — e
+  permanece como um de seus dois diretores registrados.
+why_in_novelo: É o signatário do contrato apontado pelo STF como fictício, usado para remunerar um servidor
+  do Banco Central, e sucedeu Fabiano Zettel na diretoria da holding por onde passaram recursos do Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Não foi localizada nenhuma manifestação pública dele, nem da Varajo, sobre a caracterização do contrato
+  como fictício feita pela decisão do STF.
+- Não foi localizada informação sobre sua trajetória profissional anterior, sobre a natureza de seu vínculo
+  com Fabiano Zettel ou com Daniel Vorcaro, nem sobre as circunstâncias de sua entrada na diretoria da
+  Super Empreendimentos em julho de 2024.
+- Não foi localizado se ele figura como investigado, indiciado ou alvo de medida cautelar em alguma fase
+  da Operação Compliance Zero — a decisão de 03/03/2026 o nomina na descrição dos fatos, mas o corpus
+  não confirma sua condição processual.
+source_ids:
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+- src-brasilapi-2026-super-empreendimentos-cnpj
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,26 @@
+id: ev-tse-doacoes-zettel-2022-registro-primario
+kind: evidence
+classification: D
+proposition: 'Consulta primária à base do TSE (DivulgaCandContas, eleição de 2022) registra três doações
+  de pessoa física feitas por Fabiano Campos Zettel, CPF terminado em 816-86: R$ 3.000.000,00 a Jair Messias
+  Bolsonaro (PL, presidente) em 10/10/2022; R$ 2.000.000,00 a Tarcisio Gomes de Freitas (Republicanos,
+  governador de São Paulo) em 13/10/2022; e R$ 10.000,00 a Lucas de Vasconcelos Gonzalez (Novo, deputado
+  federal por Minas Gerais, não eleito) em 23/09/2022 — este terceiro beneficiário não constava do acervo.
+  Total de R$ 5.010.000,00, com o sistema do TSE classificando-o como 6º maior doador da eleição. Todas
+  as doações constam como recursos de pessoa física, sem doador originário declarado. Nas fichas dos candidatos,
+  ele é o maior doador pessoa física de Tarcísio (5,18% das receitas) e o 2º maior doador de Bolsonaro
+  (2,38%), atrás apenas do diretório nacional do PL. Varredura nas eleições de 2014, 2016, 2018, 2020,
+  2024 e 2026 não localizou nenhuma outra doação em nome dele; buscas por empresas do grupo (Super Empreendimentos,
+  Master, PKL, Credcesta) não retornam nenhuma como doadora — resultado esperado, já que doação por pessoa
+  jurídica é vedada desde a ADI 4650.'
+document_ids:
+- doc-2022-tse-divulgacandcontas-doacoes-fabiano-zettel
+source_ids:
+- src-tse-2022-divulgacandcontas-doacoes-fabiano-zettel
+- src-metropoles-2026-01-14-master-pf-doador-campanha-tarcisio-bolsonaro
+date: '2022-10-13'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,26 @@
+id: ev-decisao-stf-zettel-operador-financeiro-fundamentacao
+kind: evidence
+classification: D
+proposition: 'A decisão de prisão preventiva na PET 15.556, lida integralmente pela equipe, dedica a Fabiano
+  Campos Zettel a seção I.2 (§§ 22-27). Segundo o texto, ele ''manteve atuação direta e reiterada em apoio
+  às atividades desenvolvidas por DANIEL BUENO VORCARO, participando da estrutura operacional responsável
+  pela execução e viabilização financeira'' das iniciativas do grupo; ''atuava na intermediação e operacionalização
+  de pagamentos [...] participando da definição de mecanismos destinados a viabilizar transferências financeiras
+  e a estruturar instrumentos contratuais utilizados para justificar tais repasses''. A PF o qualifica
+  como ''operador financeiro e cunhado'' de Vorcaro. A representação abrange sete frentes: crimes contra
+  o sistema financeiro nacional, corrupção ativa e passiva, organização criminosa, lavagem de dinheiro,
+  violação de sigilo funcional, fraude processual e obstrução de justiça. A decisão também suspendeu as
+  atividades de pessoas jurídicas administradas pelos investigados, entre elas a Moriah Asset e a Super
+  Empreendimentos.'
+document_ids:
+- doc-2026-03-04-decisao-pet-15556-prisao-preventiva
+source_ids:
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+excerpt: não é possível dissociar as condutas de DANIEL VORCARO de seu operador financeiro e cunhado FABIANO
+  ZETTEL
+date: '2026-03-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

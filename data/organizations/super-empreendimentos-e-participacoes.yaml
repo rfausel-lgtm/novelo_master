@@ -3,25 +3,40 @@ kind: organization
 name: Super Empreendimentos e Participações
 aliases: []
 org_type: company
-summary: Empresa ligada a Daniel Vorcaro, então dirigida por Fabiano Zettel, que, segundo o UOL (via Revista
-  Oeste), adquiriu em fevereiro de 2024 90% do projeto eólico de Fábio Faria no Rio Grande do Norte. Segundo
-  a PGR, citada pela Oeste, teria sido usada para desviar patrimônio do Banco Master para Vorcaro. Segundo
-  ação civil movida pela EFB (liquidante do Banco Master) nos Estados Unidos, teria recebido cerca de
-  R$ 1,5 bilhão em repasses ligados ao esquema de dissipação de patrimônio atribuído à família Vorcaro;
-  também consta na liminar de 17/03/2026 que bloqueou bens ligados a Daniel Vorcaro.
+summary: 'Empresa ligada a Daniel Vorcaro, então dirigida por Fabiano Zettel, que, segundo o UOL (via
+  Revista Oeste), adquiriu em fevereiro de 2024 90% do projeto eólico de Fábio Faria no Rio Grande do
+  Norte. Segundo a PGR, citada pela Oeste, teria sido usada para desviar patrimônio do Banco Master para
+  Vorcaro. Segundo ação civil movida pela EFB (liquidante do Banco Master) nos Estados Unidos, teria recebido
+  cerca de R$ 1,5 bilhão em repasses ligados ao esquema de dissipação de patrimônio atribuído à família
+  Vorcaro; também consta na liminar de 17/03/2026 que bloqueou bens ligados a Daniel Vorcaro. Registro
+  da Receita Federal (CNPJ 31.446.245/0001-70): sociedade anônima fechada aberta em 06/09/2018, capital
+  social de R$ 2.562.578.700,00, CNAE de holding de instituições não-financeiras, sede na Avenida Brigadeiro
+  Faria Lima, em São Paulo. A situação cadastral está SUSPENSA desde 03/03/2026 por determinação judicial
+  — mesma data da decisão de prisão preventiva, que suspendeu as atividades das empresas ligadas aos investigados.
+  Fabiano Zettel não consta do quadro de administradores vigente: os dois diretores registrados são Ana
+  Cláudia Queiroz de Paiva (desde 18/08/2021) e Leonardo Augusto Furtado Palhares (desde 23/07/2024),
+  este último identificado pela decisão do STF como administrador da Varajo Consultoria e signatário do
+  contrato apontado como fictício para remunerar um servidor do Banco Central.'
 why_in_novelo: Veículo da compra do projeto eólico de Fábio Faria por Daniel Vorcaro, segundo a imprensa.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- A composição societária da Super e a acusação da PGR não foram verificadas pela equipe em documentos
-  oficiais.
+- O quadro de administradores registrado na Receita Federal foi verificado pela equipe, mas o quadro acionário
+  da companhia não é público — por ser sociedade anônima fechada, o registro traz apenas diretores. Segundo
+  a imprensa, o fundo Termópilas seria seu principal acionista.
+- Fabiano Zettel teria recebido R$ 485 milhões da empresa entre julho de 2022 e janeiro de 2026, incluindo
+  264 transferências em 2025 — a natureza contratual desses repasses não foi esclarecida por nenhuma das
+  partes.
 source_ids:
 - src-oeste-2026-01-29-projeto-eolico-faria
 - src-infomoney-2026-03-18-liminar-bloqueio-bens
 - src-jornaldocomercio-2026-03-03-acao-eua-familia-vorcaro
+- src-brasilapi-2026-super-empreendimentos-cnpj
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+- src-otempo-2026-03-21-zettel-recebeu-485-milhoes-super
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

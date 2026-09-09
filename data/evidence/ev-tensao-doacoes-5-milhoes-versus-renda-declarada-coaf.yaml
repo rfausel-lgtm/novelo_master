@@ -1,0 +1,26 @@
+id: ev-tensao-doacoes-5-milhoes-versus-renda-declarada-coaf
+kind: evidence
+classification: C
+proposition: 'Há uma tensão factual não resolvida entre duas afirmações sobre a capacidade financeira
+  de Fabiano Zettel no período das doações. De um lado, a defesa sustenta que as contribuições de 2022
+  ''respeitaram o limite legal de 10% da renda bruta anual'' — o que, para R$ 5,01 milhões doados, exigiria
+  rendimento bruto de ao menos cerca de R$ 50 milhões em 2021. De outro, relatório de inteligência financeira
+  do Coaf aponta movimentação de cerca de R$ 99,4 milhões na conta dele entre junho de 2021 e janeiro
+  de 2022 — média superior a R$ 14 milhões a cada 30 dias — contra renda mensal declarada de aproximadamente
+  R$ 66 mil, concluindo que os valores são ''incompatíveis com a capacidade financeira declarada'' e que
+  a conta ''aparentemente está sendo utilizada para o trânsito de recursos de terceiros''. Ressalva editorial
+  importante: as reportagens sobre o relatório do Coaf não vinculam expressamente essa movimentação às
+  doações eleitorais — a conexão entre os dois fatos não está estabelecida por nenhuma fonte. Não foi
+  localizada a declaração de rendimentos de 2021 que permitiria testar diretamente a tese da defesa, nem
+  qualquer apuração eleitoral (TSE, TRE-SP ou Ministério Público Eleitoral) sobre a capacidade financeira
+  dele para essas doações.'
+document_ids: []
+source_ids:
+- src-infomoney-2026-coaf-99-milhoes-zettel-renda-incompativel
+- src-tse-2022-divulgacandcontas-doacoes-fabiano-zettel
+date: 2026-03
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

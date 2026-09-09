@@ -3,9 +3,14 @@ kind: organization
 name: Varajo Consultoria Empresarial
 aliases: []
 org_type: company
-summary: Empresa apontada, segundo apuração da PF citada pela imprensa, como veículo de contrato fictício
+summary: 'Empresa apontada, segundo apuração da PF citada pela imprensa, como veículo de contrato fictício
   de consultoria usado para operacionalizar pagamentos a Paulo Sérgio Neves de Souza e a Belline Santana,
   servidores do Banco Central, descrevendo um estudo técnico inexistente sobre integração do mercado jovem.
+  A leitura integral da decisão do STF na PET 15.556 identifica o administrador que assinou o instrumento:
+  Leonardo Augusto Furtado Palhares, autor da ''proposta de prestação de serviços destinada à contratação
+  de BELLINE SANTANA para participação em suposto projeto de elaboração de estudo técnico relacionado
+  à inserção de jovens no mercado financeiro''. A decisão suspendeu as atividades da empresa por tempo
+  indeterminado.'
 why_in_novelo: Entra no corpus como o instrumento contratual apontado para dissimular pagamentos a servidores
   do Banco Central no esquema atribuído a Daniel Vorcaro.
 cited_position:
@@ -14,8 +19,9 @@ cited_position:
 open_questions: []
 source_ids:
 - src-timesbrasil-2026-03-mensagens-belline-cobrando
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

@@ -1,0 +1,31 @@
+id: doc-2026-03-voto-gilmar-mendes-referendo-pet15556
+kind: document
+title: Voto-vogal do ministro Gilmar Mendes no referendo da PET 15.556 (Operação Compliance Zero)
+doc_type: judicial_decision
+date: 2026-03
+source_ids:
+- src-conjur-2026-03-voto-gilmar-mendes-pet15556-referendo
+summary: Voto-vogal de 42 páginas no referendo das prisões da Operação Compliance Zero, lido integralmente
+  pela equipe. Referenda a prisão de Fabiano Campos Zettel 'por ora', mas dedica capítulo próprio ao pedido
+  de prisão domiciliar humanitária formulado pela defesa dele — filho de dois anos e gêmeos por nascer
+  em gravidez de risco — reconhecendo que 'a tese de defesa é relevante' e determinando que, concluídas
+  as diligências, a substituição por domiciliar 'deve ser reavaliada', com base no art. 318, III, do CPP.
+is_official: true
+related_entity_ids:
+- gilmar-mendes
+- fabiano-zettel
+- daniel-vorcaro
+- supremo-tribunal-federal
+issuer_id: gilmar-mendes
+issuer: Ministro Gilmar Mendes / STF
+date_precision: month
+url: https://www.conjur.com.br/wp-content/uploads/2026/03/VOTO-MGM-PET-15556.pdf
+reference: PET 15.556 REF/DF
+excerpt: tão logo finalizadas as diligências investigativas diretamente vinculadas ao aprofundamento das
+  investigações no que tange ao investigado Fabiano Campos Zettel, deve ser reavaliada a possibilidade
+  de substituição de sua prisão preventiva por domiciliar
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

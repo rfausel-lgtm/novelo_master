@@ -1,0 +1,21 @@
+id: ev-zettel-nunca-depos-cpis-desobrigado-por-mendonca
+kind: evidence
+classification: C
+proposition: Apesar de convocado por duas comissões parlamentares, Fabiano Zettel nunca depôs. Em 27/02/2026,
+  André Mendonça o desobrigou, monocraticamente, de comparecer à CPI do Crime Organizado do Senado, com
+  base no direito à não autoincriminação — que, segundo a decisão, 'abrange a discricionariedade de comparecer
+  ou não ao ato', sem 'obrigatoriedade ou sanção pelo não comparecimento'. Em 04/03/2026, data em que
+  deporia à CPMI do INSS, foi preso. A CPMI aprovou sua convocação em 12/03/2026 (REQ 3.044/2026, do deputado
+  Duarte Jr.), mas encerrou-se em 28/03/2026 sem relatório final aprovado, e ele não constou da lista
+  de indiciados do relatório rejeitado. Não há, portanto, notas taquigráficas nem qualquer depoimento
+  dele em comissão parlamentar.
+document_ids: []
+source_ids:
+- src-opovo-2026-02-28-mendonca-desobriga-zettel-cpi
+- src-senado-2026-03-12-cpmi-inss-convoca-zettel
+date: '2026-03-12'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

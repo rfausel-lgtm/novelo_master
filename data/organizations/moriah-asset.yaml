@@ -1,0 +1,34 @@
+id: moriah-asset
+kind: organization
+name: Moriah Asset
+aliases: []
+org_type: company
+summary: Gestora de private equity de saúde e bem-estar criada por Fabiano Zettel, cunhado de Daniel Vorcaro.
+  Segundo seu perfil de mercado, reúne cerca de 27 empresas em portfólio — entre elas Oakberry, Desinchá,
+  Les Cinq Gym, Empório Frutaria e Super Nutrition. O CNPJ 02.425.349/0001-09, com sede em Belo Horizonte,
+  tem data de início de atividade em 12/03/1998, anterior à fundação atribuída pela imprensa, com Zettel
+  registrado como administrador desde 11/09/2020 e a Pipe Participações — da qual ele é sócio único —
+  como sócia; a filial paulista está com situação cadastral SUSPENSA por determinação judicial desde 03/03/2026.
+  A decisão do STF na PET 15.556 incluiu a Moriah Asset entre as pessoas jurídicas administradas por integrantes
+  da estrutura investigada cujas atividades foram suspensas por tempo indeterminado. Segundo a ação civil
+  movida nos Estados Unidos pela EFB, liquidante do Banco Master, a empresa teria recebido cerca de R$
+  400 milhões em repasses ligados ao esquema de dissipação de patrimônio.
+why_in_novelo: É a gestora própria de Fabiano Zettel — a face empresarial lícita que sua defesa invoca
+  — e, ao mesmo tempo, uma das empresas cujas atividades o STF suspendeu na Operação Compliance Zero.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A divergência entre a data de início de atividade no CNPJ (12/03/1998) e a fundação atribuída pela imprensa
+  sugere reaproveitamento de CNPJ pré-existente com mudança de objeto e denominação — hipótese não confirmada
+  em documento societário.
+- Não foi localizada manifestação da gestora ou de suas empresas investidas sobre a suspensão judicial
+  das atividades nem sobre os repasses alegados pela liquidante.
+source_ids:
+- src-neofeed-2026-zettel-braco-direito-vorcaro-moriah-asset
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

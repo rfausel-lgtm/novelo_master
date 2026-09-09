@@ -1,0 +1,26 @@
+id: ev-palhares-assinou-varajo-e-sucedeu-zettel-diretoria-super
+kind: evidence
+classification: I
+proposition: 'Cruzamento entre dois registros já verificados: (a) a decisão do STF na PET 15.556 identifica
+  Leonardo Augusto Furtado Palhares como administrador da Varajo Consultoria, autor da assinatura da proposta
+  de contratação fictícia do servidor do Banco Central, e como o ''Leo'' que Vorcaro queria que pagasse
+  a propina para ocultar a origem do recurso; (b) o registro da Receita Federal mostra que o mesmo Leonardo
+  Augusto Furtado Palhares entrou na diretoria da Super Empreendimentos e Participações em 23/07/2024
+  — o mesmo mês em que, segundo a imprensa, Fabiano Zettel deixou a diretoria da empresa. A sobreposição
+  é factual e verificável; nenhuma fonte localizada estabelece relação causal entre a atuação dele na
+  triangulação da propina e sua posterior entrada na diretoria da Super, e não há manifestação dele sobre
+  isso.'
+document_ids: []
+source_ids:
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+- src-brasilapi-2026-super-empreendimentos-cnpj
+inference_basis: Cruzamento entre a identificação de Palhares como administrador da Varajo na decisão
+  do STF (documental) e a data de entrada dele na diretoria da Super no registro da Receita Federal (documental).
+  A coincidência temporal com a saída de Zettel é objetiva; a interpretação não é afirmada por nenhuma
+  fonte.
+date: '2024-07-23'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
