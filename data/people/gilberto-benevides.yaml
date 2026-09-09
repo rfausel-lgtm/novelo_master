@@ -16,12 +16,15 @@ why_in_novelo: É corréu de Nelson Tanure na única ação penal em que o empre
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Leitura direta do processo (via DJEN/CNJ) confirma que o MPF ofereceu a ele Acordo de Não Persecução
+  Penal (ANPP) — diferentemente de Tanure, a quem o ANPP foi negado — mas ele recusou a proposta.
 source_ids:
 - src-otempo-2026-01-29-tanure-reu-outra-fraude
 - src-seudinheiro-2026-entenda-denuncia-tanure-gafisa-master
+- src-verificacao-direta-equipe-djen-processo-gafisa-upcon
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-05'
 created_at: '2026-09-05'
-updated_at: '2026-09-05'
+updated_at: '2026-09-06'

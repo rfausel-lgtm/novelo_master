@@ -1,0 +1,22 @@
+id: doc-2026-07-31-decisao-gafisa-upcon-audiencias
+kind: document
+title: Decisão da 5ª Vara Criminal Federal de SP no processo Gafisa/Upcon (designação de audiências)
+doc_type: judicial_decision
+date: '2026-07-31'
+source_ids:
+- src-verificacao-direta-equipe-djen-processo-gafisa-upcon
+summary: Decisão que indeferiu a suspensão do processo até a conclusão do PAS CVM nº 19957.001817/2024-18,
+  indeferiu alegação de inépcia da denúncia, manteve a habilitação de assistente de acusação, remeteu
+  à 2ª CCR/MPF o pedido de reavaliação da recusa do ANPP a Nelson Tanure (sem efeito suspensivo) e designou
+  audiências de instrução para 20/10/2026 e 18/11/2026.
+is_official: true
+related_entity_ids:
+- nelson-tanure
+- gilberto-benevides
+issuer: Juíza Federal Maria Isabel do Prado / 5ª Vara Criminal Federal de São Paulo
+date_precision: day
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

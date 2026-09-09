@@ -1,0 +1,34 @@
+id: src-verificacao-direta-equipe-djen-processo-gafisa-upcon
+kind: source
+title: Leitura direta de comunicações judiciais do processo Gafisa/Upcon via DJEN/CNJ
+publisher: Verificação direta da equipe — DJEN/CNJ, processo 5008069-89.2023.4.03.6181
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-06'
+url: https://comunicaapi.pje.jus.br
+source_type: official_court
+summary: 'Leitura de 17 comunicações judiciais públicas do processo (2023 a 04/09/2026), mesmo em segredo
+  de justiça (partes identificadas por iniciais nas publicações, mas com teor processual acessível). Capitulação
+  penal: art. 27-D, caput, c/c §2º, da Lei 6.385/76 (uso indevido de informação privilegiada), c/c arts.
+  29 e 30 do CP (concurso de pessoas); fatos alegados de 19/12/2019 a 28/02/2020. Denúncia recebida em
+  28/01/2026. O MPF negou Acordo de Não Persecução Penal a Tanure, motivando com ''diversas reiterações
+  de condutas similares em nome do denunciado no âmbito da CVM''; ofereceu ANPP ao corréu Gilberto Benevides,
+  que recusou. Processo suspenso entre 28/01/2026 e 08/06/2026 aguardando juntada de documentação do PAS
+  CVM nº 19957.001817/2024-18 (mais de 10 mil páginas), que trata dos mesmos fatos na esfera administrativa,
+  em paralelo. Decisão de 31/07/2026 (juíza federal Maria Isabel do Prado, 5ª Vara Criminal Federal de
+  São Paulo): indeferiu suspensão do processo até conclusão do PAS da CVM; indeferiu alegação de inépcia/falta
+  de justa causa; manteve habilitação de assistente de acusação (ex-acionista da Gafisa); remeteu à 2ª
+  Câmara de Coordenação e Revisão do MPF, sem efeito suspensivo, o pedido de reavaliação da recusa do
+  ANPP a Tanure; designou audiência de instrução para 20/10/2026 (3 testemunhas de acusação + 6 de defesa)
+  e 18/11/2026 (demais testemunhas de defesa e interrogatório dos réus). Atos de 01/09/2026 e 04/09/2026
+  registram apenas diligências negativas de intimação de testemunhas de defesa — rotina processual, não
+  decisão de mérito.'
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

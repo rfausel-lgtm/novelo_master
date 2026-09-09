@@ -1,0 +1,22 @@
+id: ev-reconciliacao-valores-tanure-25bi-16bi-11bi
+kind: evidence
+classification: C
+proposition: Os valores de R$ 2,5 bilhões (Revista Oeste/Malu Gaspar, 14/01/2026) e R$ 1,6 bilhão ('ao
+  menos', Bloomberg Línea, 24/03/2026) tratam do mesmo fenômeno — capitalização do Banco Master por Tanure
+  via debêntures da Banvox Holding — com apurações de datas e metodologias diferentes; a da Bloomberg
+  é posterior, mais específica (nomeia os veículos Estocolmo e Aventti Strategic Partners LLP) e explicitamente
+  um piso mínimo, compatível com ser subconjunto do número do Globo. Um terceiro valor, R$ 1,112 bilhão
+  (Metrópoles/Vecchioli, 24/07/2026), mede o fluxo INVERSO — o Master emprestando a empresas de Tanure
+  e repassando o crédito a fundos 'caixa preta' em até uma semana — e não deve ser somado nem contraposto
+  aos outros dois.
+document_ids: []
+source_ids:
+- src-revistaoeste-2026-01-14-pf-investiga-aportes-25bi-tanure
+- src-bloomberglinea-2026-03-24-imperio-tanure-desfaz-master
+- src-metropoles-2026-07-24-master-11bilhao-bate-volta-tanure
+date: '2026-07-24'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

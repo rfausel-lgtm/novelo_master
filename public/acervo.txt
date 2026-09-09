@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T14:32:16.657Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-09T14:56:46.438Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -62,6 +62,7 @@ PESSOA|antonio-rueda|Antônio Rueda|Presidente nacional do União Brasil; advoga
 POSIÇÃO|antonio-rueda|clarification|Assessoria ao Poder360: não confirma as informações; dados 'vazados de forma ilícita'; serviços legais, regularmente contratados e em conformidade fiscal.
 POSIÇÃO|antonio-rueda|clarification|Admitiu que o escritório Rueda e Rueda advogou para o Master (pareceres, reuniões, mais de 1.000 audiências), atividade que considera legítima, após ter dito dois dias antes não ter relação com Vorcaro além de contatos sociais.
 PESSOA|armando-miguel-gallo-neto|Armando Miguel Gallo Neto|Integrante do grupo de controle apresentado ao Banco Central em 2019|Integrou o grupo de controle apresentado ao Banco Central no pedido que resultou na autorização de 2019.
+PESSOA|artur-martins-de-figueiredo|Artur Martins de Figueiredo|Codiretor da Banvox Holding Financeira S.A. ao lado de Maurício Quadrado|É codiretor, ao lado de Maurício Quadrado, da holding que emitiu as debêntures usadas para capitalizar o Banco Master — nome até então não mapeado no acervo, identificado por registro oficial da Receita Federal.
 PESSOA|ascendino-madureira-garcia|Ascendino Madureira Garcia|Operador financeiro; ex-funcionário da Foco DTVM e depois da Master Corretora|Trabalhou sucessivamente nas duas estruturas — a distribuidora investigada em Rondônia e a corretora do Banco Master —, sendo o elo pessoal mais concreto entre as duas frentes.
 POSIÇÃO|ascendino-madureira-garcia|denial|Afirma que a associação de seu nome à investigação é 'indevida e baseada em um grande equívoco'.
 PESSOA|augusto-de-arruda-botelho|Augusto de Arruda Botelho|Advogado criminalista que defende Luiz Antonio Bull no caso Banco Master|É o advogado cuja viagem com o relator do caso Master, dias antes de o ministro decretar sigilo no processo, motivou parte de um pedido formal de suspeição da PF contra Toffoli e uma discussão ética na OAB-SP sobre transporte gratuito de magistrados por particulares.
@@ -241,6 +242,7 @@ PESSOA|natalia-vorcaro-zettel|Natália Vorcaro Zettel|Irmã de Daniel Vorcaro; v
 PESSOA|neilton-paixao-de-jesus|Neilton Paixão de Jesus|Dirigente do Instituto de Previdência de Itaguaí à época do credenciamento do Banco Master|Assinou o termo que atestou a aptidão do Banco Master para receber recursos previdenciários em Itaguaí, documento que o tribunal de contas concluiu ter sido preenchido pelo próprio banco.
 PESSOA|nelson-tanure|Nelson Tanure|Empresário|Foi alvo de busca pessoal deferida pelo STF em fase da investigação sobre o Banco Master.
 POSIÇÃO|nelson-tanure|denial|Negou categoricamente qualquer vínculo societário com o Master, classificando a relação como 'estritamente comercial, como cliente'; disse jamais ter enfrentado processo criminal.
+POSIÇÃO|nelson-tanure|denial|Em pronunciamento no LinkedIn: 'NÃO fui nem sou controlador do extinto Banco Master, tampouco seu sócio' — relação 'estritamente comercial, sempre na condição de cliente ou aplicador'.
 PESSOA|nikolas-ferreira|Nikolas Ferreira|Deputado federal (PL-MG)|Fez declaração pública de repercussão na crise institucional do STF em torno do caso Master.
 POSIÇÃO|nikolas-ferreira|denial|Nega relação pessoal com Vorcaro; afirma que, em 2022, não havia suspeitas públicas sobre o nome do banqueiro.
 PESSOA|nunes-marques|Nunes Marques|Ministro do Supremo Tribunal Federal|Votou, na Segunda Turma do STF, no referendo da prisão preventiva de investigados do caso Master, conforme comunicação oficial do tribunal.
@@ -323,6 +325,7 @@ POSIÇÃO|banco-pleno|denial|Em nota após a prisão de Lima em novembro de 2025
 POSIÇÃO|banco-pleno|denial|Não é alvo da Operação Compliance Zero e não há participação da instituição nos fatos investigados.
 ORG|banvox-dtvm|Banvox DTVM|financial_institution|A segunda das duas gestoras ligadas ao ecossistema do Banco Master liquidadas pelo Banco Central em 03/09/2026, com papel na emissão de debêntures que capitalizaram o Master e na hipótese, sob apuração, de participação indireta de Nelson Tanure.
 POSIÇÃO|banvox-dtvm|denial|Em nota conjunta com a Trustee, negou irregularidades e violações às normas do mercado de capitais.
+ORG|banvox-holding-financeira|Banvox Holding Financeira|financial_institution|É a holding cujas debêntures são o instrumento central da hipótese, ainda não confirmada judicialmente, de participação financeira indireta de Nelson Tanure no Banco Master.
 ORG|barci-de-moraes-sociedade-de-advogados|Barci de Moraes Advogados|law_firm|Manteve contrato de honorários de grande valor com o Banco Master, documentado nos autos tornados públicos pelo STF.
 POSIÇÃO|barci-de-moraes-sociedade-de-advogados|clarification|Nota de 09/03/2026 detalhando 94 reuniões, 36 pareceres e a não atuação perante o STF.
 POSIÇÃO|barci-de-moraes-sociedade-de-advogados|clarification|O escritório afirma ter assinado apenas um contrato com o Banco Master e confirma que o compliance do banco consultou o ministro sobre impedimentos antes da assinatura.
