@@ -2,20 +2,26 @@ id: antonio-carlos-freixo-junior
 kind: person
 name: Antonio Carlos Freixo Júnior
 category: businessperson
-role: Operador financeiro ('doleiro'), dono da Entre Investimentos e Participações; conhecido como 'Mineiro'
+role: Diretor da Entre Investimentos ('Mineiro'), condenado pela CVM e delator premiado da PGR no caso
+  Master
 positions: []
-summary: Apontado como o operador que intermediou as remessas de recursos ligados a Daniel Vorcaro ao
-  Havengate Development Fund, destinadas ao financiamento do filme 'Dark Horse'. Em 03/09/2026 fechou
-  acordo de colaboração premiada com a PGR — a segunda delação do caso, após a de João Carlos Mansur.
-  Segundo o acordo, confirmou as transferências ao fundo administrado por Paulo Calixto, mas alegou desconhecer
+summary: Fundador e diretor da Entre Investimentos e Participações desde 26/03/2018, conhecido como 'Mineiro'.
+  Apontado como o operador que intermediou as remessas de recursos ligados a Daniel Vorcaro ao Havengate
+  Development Fund, destinadas ao financiamento do filme 'Dark Horse'. Em 03/09/2026 fechou acordo de
+  colaboração premiada com a PGR — a segunda delação do caso, após a de João Carlos Mansur. Segundo o
+  acordo, confirmou as transferências ao fundo administrado por Paulo Calixto, mas alegou desconhecer
   a destinação final dos recursos; relatou ter operado transferências que considerava 'não ortodoxas',
   incluindo repasses sem lastro documental e movimentação de dinheiro em espécie. Segundo trecho vazado
   da própria colaboração, reportado pela imprensa (não confirmado pela equipe em documento primário),
   teria movimentado cerca de US$ 1 bilhão para Vorcaro através de sua rede de operações, incluindo repasses
   relacionados a Flávio Bolsonaro — extensão, em nova ordem de grandeza, do que já era conhecido sobre
-  o financiamento do filme 'Dark Horse'.
+  o financiamento do filme 'Dark Horse'. Separadamente, foi condenado pela CVM em 08/09/2026 a R$ 5 milhões
+  de multa por operação fraudulenta no Brazil Realty FII — a Entre atuou, segundo a CVM, como 'câmara
+  de liquidação' das cotas fraudadas, realizando 177 operações no mercado secundário entre 2018 e 2020.
+  Propôs termo de compromisso de R$ 2,47 milhões, rejeitado pelo colegiado.
 why_in_novelo: Firmou a segunda delação premiada do caso Banco Master, sobre os repasses ao filme 'Dark
-  Horse'.
+  Horse' — e é, separadamente, o operador que a CVM identifica como responsável pela 'câmara de liquidação'
+  de cotas fraudadas do Brazil Realty FII, duas frentes distintas do mesmo personagem.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
@@ -24,10 +30,12 @@ source_ids:
 - src-brasil247-2026-delator-bomba-1-bilhao-vorcaro
 - src-brasildefato-2026-09-03-pgr-delacao-mineiro
 - src-poder360-2026-pgr-fecha-delacao-mineiro-dark-horse
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
 aliases:
 - Mineiro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-09'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-09'
