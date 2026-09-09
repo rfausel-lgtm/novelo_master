@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T23:02:56.356Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-09T23:10:41.813Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -415,6 +415,7 @@ ORG|itaprevi-itaguai|Itaguaí Previdência|public_body|Regime próprio cujo proc
 ORG|jaguar-investments|Jaguar Investments|fund|É o veículo offshore de Benjamim Botelho de Almeida que manteve a maior posição em cotas do Brazil Realty FII entre as entidades ligadas ao esquema, avaliada em cerca de R$ 113 milhões.
 ORG|jbs|JBS|company|Foi, ao lado do Banco Master, pagadora da consultoria que repassou valores ao escritório do filho de um ministro do STF, segundo a imprensa.
 POSIÇÃO|jbs|clarification|'Como toda empresa brasileira que lida com a complexidade do sistema tributário nacional, contrata consultores para apoiar sua atuação nessa área, entre eles a Consulte Inteligência Tributária'.
+ORG|kdb-instituicao-de-pagamento|KDB Instituição de Pagamento S.A.|company|Aparece no acervo como demonstração de que a margem exclusiva para cartão de benefício, criada estado a estado entre 2021 e 2025, não beneficiou apenas a operadora do CredCesta. Na Paraíba, é a credenciada do produto sob o decreto de janeiro de 2025 que obriga o consignado a reservar toda a sua margem disponível a uma…
 ORG|king-motors-locacao-veiculos|King Motors Locação de Veículos e Participações|company|É a segunda das duas empresas de sócio único do chefe do grupo de intimidação alcançadas pela suspensão judicial de atividades na Operação Compliance Zero.
 ORG|king-participacoes-imobiliarias|King Participações Imobiliárias|company|É a pessoa jurídica pela qual passava o dinheiro destinado ao grupo apontado como responsável por monitorar e intimidar jornalistas, concorrentes e ex-empregados a mando de Daniel Vorcaro.
 ORG|kovr-seguradora|Kovr Seguradora|company|É o único braço do grupo que saiu limpo antes da crise pública — mas sua revenda ao PicPay carrega suspeita própria de estrutura artificial, apontada pelo órgão antitruste.

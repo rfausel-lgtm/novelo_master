@@ -77,6 +77,12 @@ open_questions:
   a lei do sistema financeiro pune atuar como instituição financeira sem autorização, e não o uso da palavra
   ''Banco'' na denominação — a designação que consta do diário oficial é indício de como o Estado enxergava
   a empresa, não enquadramento autônomo.'
+- O credenciamento inaugural foi na Bahia, em 03/08/2018, três meses após o decreto que abriu a porta,
+  e assinado pelo mesmo secretário da Administração que o referendara; seguiu-se o Contrato de Cooperação
+  nº 079/2018, de 48 meses, renovado em 21/09/2022. No Rio Grande do Norte, o credenciamento de 19/07/2022
+  antecedeu em dez meses a criação da margem exclusiva, e o termo descreve o objeto como 'credenciamento
+  de instituição financeira' — terceiro ato oficial, ao lado dos de Mato Grosso do Sul e São Paulo, a
+  enquadrar nessa categoria uma holding de instituições não financeiras.
 source_ids:
 - src-djen-cnj-agravo-3000060-09-2026-tjrj
 - src-metropoles-2026-08-15-pkl-one-credcesta-macapa
@@ -103,6 +109,10 @@ source_ids:
 - src-tjms-2025-2026-precedentes-divergentes-sobre-legitimidade-da-pkl-one
 - src-bcb-lei-4595-1964-art-44-paragrafo-7
 - src-tjms-2026-04-30-acordao-ai-1403759-consulta-ao-site-do-banco-central
+- src-doeba-2018-08-04-credenciamento-pkl-one-cadastro-consignatarias
+- src-doeba-2018-09-21-contrato-cooperacao-079-2018-saeb-pkl-one
+- src-doern-2022-07-20-termo-adesao-03-2022-sead-pkl-one
+- src-doern-2023-06-01-decreto-32718-margem-cartao-de-beneficio
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

@@ -1,0 +1,29 @@
+id: doc-2022-07-20-termo-adesao-03-2022-sead-rn-pkl-one
+kind: document
+title: Termo de Adesão nº 03/2022 (RN) — o credenciamento que veio dez meses antes da margem
+doc_type: contract
+date: '2022-07-20'
+source_ids:
+- src-doern-2022-07-20-termo-adesao-03-2022-sead-pkl-one
+- src-doern-2023-06-01-decreto-32718-margem-cartao-de-beneficio
+summary: 'No Rio Grande do Norte a sequência se inverte de forma nítida: a empresa foi credenciada em
+  19/07/2022 e a margem exclusiva de 10% para cartão de benefício só foi criada em 31/05/2023, dez meses
+  depois. Dois detalhes merecem registro. O objeto declarado do termo é o ''credenciamento de instituição
+  financeira'' — mais um ato oficial, ao lado dos de Mato Grosso do Sul e São Paulo, que enquadra nessa
+  categoria uma holding de instituições não financeiras. E o instrumento é assinado, pela empresa, por
+  Andrea Lima Novaes, a mesma signatária dos convênios de Mato Grosso do Sul e de Itapissuma.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+- andrea-lima-novaes
+issuer: Secretaria de Estado da Administração do Rio Grande do Norte
+url: https://webdisk.diariooficial.rn.gov.br/Jornal/12022-07-20.pdf
+reference: Termo de Adesão nº 03/2022; processo SEI 00110042.001420/2022-39; DOE-RN nº 15.225, pp. 30-31
+excerpt: credenciamento de instituição financeira, listada no art. 6º do Decreto Estadual nº 31.315, de
+  23 de março de 2022
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

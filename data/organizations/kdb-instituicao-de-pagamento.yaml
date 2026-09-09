@@ -1,0 +1,32 @@
+id: kdb-instituicao-de-pagamento
+kind: organization
+name: KDB Instituição de Pagamento S.A.
+aliases: []
+org_type: company
+summary: Instituição de pagamento credenciada para operar cartão de benefício consignado nas folhas do
+  Rio Grande do Norte, desde dezembro de 2022, e da Paraíba, onde o convênio com a previdência estadual
+  foi assinado em 14/08/2025. CNPJ 39.330.901/0001-87.
+why_in_novelo: Aparece no acervo como demonstração de que a margem exclusiva para cartão de benefício,
+  criada estado a estado entre 2021 e 2025, não beneficiou apenas a operadora do CredCesta. Na Paraíba,
+  é a credenciada do produto sob o decreto de janeiro de 2025 que obriga o consignado a reservar toda
+  a sua margem disponível a uma única consignatária e isenta de custas operacionais as instituições de
+  pagamento credenciadas para a rubrica. No Rio Grande do Norte foi credenciada meses depois da PKL One,
+  sob o mesmo regulamento estadual.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Não foi apurada a composição societária da empresa nem eventual relação com os demais atores do caso.
+  Verificar quadro de sócios e histórico de alterações societárias.
+- Apurar em quantos outros estados e municípios a empresa se credenciou para cartão de benefício consignado,
+  e se o desenho normativo que a favorece na Paraíba se repete alhures.
+- Não foi localizada manifestação da empresa sobre sua operação nas folhas públicas. Buscar posicionamento.
+source_ids:
+- src-doepb-2025-01-22-decreto-46174-margem-reserva-integral-e-isencao
+- src-doern-2022-07-20-termo-adesao-03-2022-sead-pkl-one
+jurisdiction: Brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -104,6 +104,14 @@ open_questions:
   — substituindo a expressão pela designação exata do produto em operação. A formulação correta, portanto,
   não é que a empresa entrou antes da norma, e sim que entrou por uma porta que estava aberta havia cinco
   anos e cuja redação foi depois ajustada à sua prática.'
+- A origem está documentada e é mais explícita do que qualquer desdobramento posterior. O cartão foi criado
+  em 1999 pela própria estatal baiana de alimentos, como instrumento de compra na rede de supermercados
+  públicos. O decreto de 27/04/2018 — assinado no mesmo dia do leilão que alienou a estatal — fixou margem
+  de 30% e assegurou ao 'detentor dos direitos de exploração comercial', nomeado em abstrato e não por
+  identidade, a faculdade de diversificar as funcionalidades do cartão, associando-lhe serviços 'creditícios,
+  financeiros, securitários e congêneres'. A mesma cláusula já constava do edital de alienação de 2015,
+  que não se consumou. É esse dispositivo que os contratos posteriores reproduzem, e é ele que transforma
+  um cartão de mercearia em plataforma de crédito.
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -146,6 +154,10 @@ source_ids:
 - src-legislacao-pr-lei-18779-2016-cartao-de-beneficios
 - src-legislacao-pr-lei-20740-2021-margem-cartao-beneficio-consignado
 - src-curitiba-2023-06-27-decreto-1091-margem-e-categoria-de-consignataria
+- src-doeba-2018-04-28-decreto-18353-programa-credicesta
+- src-doeba-2015-11-19-edital-001-2015-alienacao-ebal-credicesta
+- src-doeba-2018-08-04-credenciamento-pkl-one-cadastro-consignatarias
+- src-doeba-2018-09-21-contrato-cooperacao-079-2018-saeb-pkl-one
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

@@ -46,6 +46,12 @@ open_questions:
   ativo. O outro diretor registrado não foi identificado em nenhuma fonte além do cadastro.
 - Não foi localizado registro do Tribunal de Contas do Estado da Bahia sobre a desestatização — resultado
   negativo com limitação declarada, já que o portal do tribunal bloqueia acesso automatizado.
+- O cartão Credicesta foi criado em 1999 pela própria empresa, conforme registrado no prospecto do edital
+  de alienação de 2015, e até 2018 era ela quem assinava diretamente os convênios com órgãos públicos.
+  O edital de 2015, que não se consumou, já previa transferir ao comprador 'a titularidade e a gestão
+  plenas do Cartão Credicesta' por cinco anos, com direito de 'diversificar as finalidades do programa'
+  — cláusula que o decreto de 27/04/2018, assinado no dia do leilão, converteria em norma. Em 11/05/2018
+  outro decreto determinou que os passivos da empresa fossem assumidos pelo Estado.
 source_ids:
 - src-doe-ba-decreto-18353-2018
 - src-minhareceita-2026-09-05-ebal-diretoria-atual
@@ -60,6 +66,8 @@ source_ids:
 - src-poder360-2026-wagner-rui-costa-favoreceram-negocio
 - src-brasilapi-2026-ebal-capital-social
 - src-brasilapi-2026-ngvspe-empreendimentos
+- src-doeba-2015-11-19-edital-001-2015-alienacao-ebal-credicesta
+- src-doeba-2018-04-28-decreto-18353-programa-credicesta
 jurisdiction: Bahia
 review_status: published
 reviewer: orquestrador

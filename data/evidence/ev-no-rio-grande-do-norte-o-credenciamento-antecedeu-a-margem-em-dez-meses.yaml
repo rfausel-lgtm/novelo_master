@@ -1,0 +1,21 @@
+id: ev-no-rio-grande-do-norte-o-credenciamento-antecedeu-a-margem-em-dez-meses
+kind: evidence
+classification: D
+proposition: 'No Rio Grande do Norte a sequência se inverte de forma nítida e documentada: a empresa foi
+  credenciada em 19/07/2022, e a margem exclusiva de 10% para cartão de benefício só foi criada por decreto
+  de 31/05/2023 — dez meses depois. O termo de adesão descreve o objeto como ''credenciamento de instituição
+  financeira'', somando-se aos atos de Mato Grosso do Sul e de São Paulo que enquadram nessa categoria
+  uma holding de instituições não financeiras. Assina pela empresa Andrea Lima Novaes, a mesma signatária
+  dos instrumentos de Mato Grosso do Sul e de Itapissuma.'
+document_ids:
+- doc-2022-07-20-termo-adesao-03-2022-sead-rn-pkl-one
+source_ids:
+- src-doern-2022-07-20-termo-adesao-03-2022-sead-pkl-one
+- src-doern-2023-06-01-decreto-32718-margem-cartao-de-beneficio
+excerpt: credenciamento de instituição financeira, listada no art. 6º do Decreto Estadual nº 31.315
+date: '2022-07-20'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
