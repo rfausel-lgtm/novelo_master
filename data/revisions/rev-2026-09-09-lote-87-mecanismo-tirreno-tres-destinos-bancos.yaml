@@ -1,0 +1,32 @@
+id: rev-2026-09-09-lote-87-mecanismo-tirreno-tres-destinos-bancos
+kind: revision
+date: '2026-09-05'
+title: Lote 87 — o mecanismo dos R$ 12,2 bilhões, e três destinos distintos
+summary: 'Reportagem da Agência Pública, lida integralmente pela equipe e baseada em apuração da PF, fecha
+  a lacuna sobre COMO o BRB comprou R$ 12,2 bilhões em carteiras do Master ''apesar de pareceres técnicos
+  e jurídicos contrários'': a Tirreno, empresa de fachada criada por Vorcaro, vendia créditos ao BRB que
+  a investigação concluiu nunca terem existido na origem — questionado pelo Banco Central em março de
+  2025, o Master alegou que duas associações de servidores da Bahia seriam as originadoras; a explicação
+  não se sustentou (CPFs de diversas localidades usados para simular a origem; 130 contratos analisados
+  aleatoriamente sem lastro algum). Documentados os destinos distintos dos outros três bancos do grupo:
+  Voiter (vendido antes da crise, tornou-se Banco Pleno, liquidado por conta própria em fevereiro/2026);
+  Letsbank (venda vetada pelo Banco Central por dúvida sobre a origem dos recursos do comprador, liquidado
+  junto com o Master em 18/11/2025); e Kovr Seguradora (segregada e vendida limpa antes da crise, mas
+  cuja revenda ao PicPay atraiu suspeita própria de triangulação financeira do Cade). O Will Bank trouxe
+  ao caso uma classe de vítima nova — doze milhões de correntistas de varejo —, liquidado em 21/01/2026
+  após inadimplência com a Mastercard.'
+affected_ids:
+- tirreno
+- banco-de-brasilia-brb
+- credcesta
+- kovr-seguradora
+- letsbank
+- will-bank
+- banco-pleno
+reason: Aprofundamento sobre o mecanismo que permitiu a venda de R$ 12,2 bilhões em carteiras fabricadas
+  ao BRB, e sobre o destino de cada um dos quatro bancos do grupo Master.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
