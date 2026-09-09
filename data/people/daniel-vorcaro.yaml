@@ -70,12 +70,6 @@ cited_position:
   source_ids:
   - src-poder360-2026-09-02-pgr-aceita-delacao-mansur
   date: 2026-09
-- kind: no_response
-  summary: Não há, nas fontes consultadas, declaração pública de Vorcaro ou de sua defesa comentando especificamente
-    a delação de Mansur.
-  source_ids:
-  - src-poder360-2026-09-02-pgr-aceita-delacao-mansur
-  date: 2026-09
 - kind: denial
   summary: A defesa afirma que ele foi 'formalmente excluído' da Operação Fundo Fake e que é 'falsa e
     difamatória qualquer tentativa de associar seu nome aos fatos apurados', porque à época não controlava
@@ -111,8 +105,13 @@ open_questions:
   Vorcaro sobre supostas ameaças na prisão — não é uma denúncia contra ele, e não deve ser confundida
   com a denúncia que o MPF/PGR poderá eventualmente oferecer no inquérito-mãe, ainda não apresentada até
   a data desta apuração.
+- Condenado pela CVM em 08/09/2026, por unanimidade, a R$ 20 milhões de multa por operação fraudulenta
+  na 3ª emissão do Brazil Realty FII (2018-2020) — processo autônomo da CVM, distinto da Operação Compliance
+  Zero, sobre esquema anterior ao colapso do banco. Sua advogada, Ana Paula Casagrande, questionou na
+  sessão a falta de provas individualizadas de dolo. Cabe recurso ao CRSFN.
 source_ids:
 - src-ac24horas-2026-09-04-vorcaro-sinaliza-poupar-moraes-delacao
+- src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
 - src-braziljournal-2021-12-23-master-outsider
 - src-cnn-2026-03-04-relembre-crise-master
 - src-cnnbrasil-2026-06-15-pgr-rejeita-segunda-delacao-vorcaro
@@ -136,6 +135,7 @@ source_ids:
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
 - src-poder360-2026-09-02-pgr-aceita-delacao-mansur
 - src-poder360-2026-09-03-novo-pede-prisao-de-andrei
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
 - src-portaltela-2026-09-02-pgr-arquivamento-denuncia-vorcaro-ameacas
 - src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
 - src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
@@ -143,6 +143,7 @@ source_ids:
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
 - src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
 - src-timesbrasil-2026-05-08-tether-cobra-titan-holding
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published

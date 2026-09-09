@@ -20,13 +20,19 @@ cited_position:
 open_questions:
 - Não há, no corpus, manifestação da Milo Investimentos ou de seus administradores sobre nenhuma das imputações;
   nenhuma foi julgada.
+- Integralizou cotas do Brazil Realty FII com quotas da MGI Desenvolvimento Imobiliário sobreavaliadas
+  em cerca de R$ 56 milhões, segundo a CVM, que a incluiu na condenação de 08/09/2026 por operação fraudulenta
+  — Felipe Cançado Vorcaro, ligado à MGI, também foi condenado, apesar de negar qualquer ingerência sobre
+  o laudo usado.
 source_ids:
-- src-cvm-pauta-julgamento-2026-09-08
 - src-cvm-parecer-ctc-642-brazil-realty-pdf
+- src-cvm-pauta-julgamento-2026-09-08
 - src-metropoles-2026-02-17-pf-reexamina-pericias-fundos
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 jurisdiction: Brasil
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'

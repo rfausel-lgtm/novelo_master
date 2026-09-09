@@ -1,0 +1,30 @@
+id: antonio-freixo
+kind: person
+name: Antônio Carlos Freixo Júnior
+category: businessperson
+role: Diretor da Entre Investimentos ('Mineiro'), condenado pela CVM e delator premiado da PGR no caso
+  Master
+positions: []
+summary: Fundador e diretor da Entre Investimentos e Participações desde 26/03/2018, conhecido como 'Mineiro'.
+  Condenado pela CVM em 08/09/2026 a R$ 5 milhões de multa por operação fraudulenta no Brazil Realty FII
+  — a Entre atuou, segundo a CVM, como 'câmara de liquidação' das cotas fraudadas, realizando 177 operações
+  no mercado secundário entre 2018 e 2020. Propôs termo de compromisso de R$ 2,47 milhões, rejeitado pelo
+  colegiado. Separadamente, é apontado pela imprensa como proprietário da Entre Investimentos, de onde
+  partiram, segundo o Intercept e o Congresso em Foco, recursos de Daniel Vorcaro para o Havengate Development
+  Fund, que financiou o filme 'Dark Horse' — e fechou, em 03/09/2026, acordo de colaboração premiada com
+  a PGR sobre essas remessas, a segunda delação do caso Banco Master.
+why_in_novelo: É o operador que a CVM identifica como responsável pela 'câmara de liquidação' de cotas
+  fraudadas do Brazil Realty FII, e que separadamente se tornou delator premiado da PGR sobre remessas
+  de Vorcaro a um fundo de financiamento de cinema — duas frentes distintas do mesmo personagem.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

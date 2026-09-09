@@ -1,0 +1,40 @@
+id: rev-2026-09-09-lote-123-cvm-condena-vorcaro-brazil-realty
+kind: revision
+date: '2026-09-06'
+title: Lote 123 — a CVM condena Vorcaro, o pai, o primo, o Master e mais 12 acusados por fraude no Brazil
+  Realty
+summary: Confirmado e analisado, por leitura direta do relatório de 19 páginas do processo mais duas fontes
+  jornalísticas independentes, o julgamento da CVM de 08/09/2026 que condenou 16 acusados por operação
+  fraudulenta na 3ª emissão do Brazil Realty FII (2018-2020) — laudos falsos/inconsistentes de imóveis
+  e participações, negociações secundárias coordenadas para simular liquidez, R$ 201-201,5 milhões em
+  multas (divergência entre fontes registrada). Mapeada a estrutura societária por trás do esquema (FG
+  Participações controlando Sefer e Entre; Jaguar Investments como veículo offshore de Botelho) e os três
+  ex-diretores da Sefer absolvidos por incompatibilidade cronológica. É processo autônomo da CVM, anterior
+  e distinto da Operação Compliance Zero.
+affected_ids:
+- daniel-vorcaro
+- banco-master
+- henrique-vorcaro
+- felipe-vorcaro
+- benjamim-botelho-de-almeida
+- antonio-freixo
+- viking-participacoes
+- entre-investimentos-e-participacoes
+- milo-investimentos
+- fundo-brazil-realty
+- sefer-investimentos
+- jaguar-investments
+- fg-participacoes
+- talent-construcoes
+- espaco-engenharia
+- mgi-desenvolvimento
+- elisangela-capassi
+- david-abdala
+- aluizio-moizinho
+- ana-paula-casagrande
+reason: Pergunta direta do editor sobre julgamento da CVM contra Vorcaro e outros.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,27 @@
+id: elisangela-capassi
+kind: person
+name: Elisangela Katia Capassi
+category: executive
+role: Ex-diretora responsável pela Sefer Investimentos, absolvida pela CVM no caso Brazil Realty
+positions: []
+summary: Diretora responsável pela administração fiduciária da Sefer Investimentos de 06/12/2018 a 30/04/2019.
+  Em defesa apresentada ao PAS CVM, relatou ter encontrado a distribuidora em cenário operacional crítico
+  ao assumir (demissão de mais da metade da equipe em um único dia, perda de histórico de fundos, atraso
+  grave na entrega de demonstrações financeiras) e alegou ter sofrido pressão do controlador, Benjamim
+  Botelho de Almeida, para conclusão célere de processos, além de falta de independência para realizar
+  as diligências necessárias. Renunciou ao cargo em 30/04/2019. Foi absolvida pela CVM em 08/09/2026,
+  segundo a Agência Brasil.
+why_in_novelo: É uma das três ex-diretoras/diretores da Sefer absolvidos pela CVM por incompatibilidade
+  cronológica com os fatos apurados, num processo que condenou o controlador da distribuidora.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+- src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,22 @@
+id: ev-laudos-forjados-talent-espaco-milo-brazil-realty
+kind: evidence
+classification: D
+proposition: 'Segundo o relatório do PAS, lido na íntegra, três subscritores integralizaram cotas do Brazil
+  Realty FII com ativos sobreavaliados por laudos que a CVM considerou falsos ou inconsistentes: a Talent
+  Construções integralizou ações de uma SPE com um único imóvel em Nova Lima/MG, cujo valor foi majorado
+  de R$ 7,1 milhões para R$ 70,8 milhões com base num laudo atribuído à Pedrosa Consultores, que negou
+  categoricamente a autoria, classificou o documento como fraude e registrou boletim de ocorrência; a
+  Espaço Engenharia integralizou 50 lotes em Nova Lima avaliados em R$ 10,4 milhões, com a SRE apurando
+  valor real de R$ 6,5 milhões (63% do adotado); e a Milo Investimentos sobreavaliou quotas de uma sociedade
+  (MGI) em cerca de R$ 56 milhões, com base em laudo cuja autoria a avaliadora Nova Aliança Engenharia
+  negou na primeira versão apresentada à CVM.'
+document_ids:
+- doc-2026-09-08-relatorio-pas-brazil-realty
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

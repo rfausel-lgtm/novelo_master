@@ -1,0 +1,25 @@
+id: aluizio-moizinho
+kind: person
+name: Aluizio Honorio Moizinho Junior
+category: executive
+role: Ex-diretor responsável pela Sefer Investimentos, absolvido pela CVM no caso Brazil Realty
+positions: []
+summary: Diretor responsável pela administração fiduciária da Sefer Investimentos por cerca de sete meses
+  (22/11/2019 a 19/06/2020), destituído sem motivação informada enquanto conduzia auditoria interna na
+  distribuidora. Em defesa apresentada ao PAS CVM, sustentou incompatibilidade cronológica com os ilícitos
+  apontados e alegou boa-fé, incluindo a promoção de auditorias e a comunicação espontânea à CVM de sua
+  destituição. Foi absolvido pela CVM em 08/09/2026, segundo a Agência Brasil.
+why_in_novelo: É um dos três ex-diretores da Sefer absolvidos pela CVM, destituído pelo próprio controlador
+  condenado, Benjamim Botelho de Almeida, justamente durante uma auditoria interna que promovia.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+- src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

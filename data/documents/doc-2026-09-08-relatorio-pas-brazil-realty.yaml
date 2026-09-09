@@ -1,0 +1,31 @@
+id: doc-2026-09-08-relatorio-pas-brazil-realty
+kind: document
+title: Relatório do PAS CVM 19957.007976/2020-94 (fraude no Brazil Realty FII)
+doc_type: regulatory_record
+date: '2026-09-08'
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+summary: Relatório de 19 páginas que sintetiza a acusação, a estrutura societária do esquema e as defesas
+  de 16 acusados no processo sobre a fraude na 3ª emissão de cotas do Brazil Realty FII (2018-2020), julgado
+  em 08/09/2026 em conjunto com o PAS 19957.005363/2021-01.
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- banco-master
+- henrique-vorcaro
+- felipe-vorcaro
+- benjamim-botelho-de-almeida
+- antonio-freixo
+- viking-participacoes
+- entre-investimentos-e-participacoes
+- milo-investimentos
+- fundo-brazil-realty
+issuer_id: comissao-de-valores-mobiliarios
+issuer: Diretor Relator João Accioly / CVM
+date_precision: day
+url: https://static.poder360.com.br/uploads/2026/09/processo-administrativo.pdf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

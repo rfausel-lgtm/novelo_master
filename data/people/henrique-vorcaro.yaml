@@ -22,19 +22,24 @@ cited_position:
 open_questions:
 - A posição da defesa de Henrique Vorcaro não foi localizada em fonte verificada do corpus; o ministro
   Gilmar Mendes propôs prisão domiciliar em divergência parcial.
+- Condenado pela CVM em 08/09/2026, por unanimidade, a R$ 20 milhões de multa por operação fraudulenta
+  no Brazil Realty FII — mesmo valor aplicado ao filho, Daniel Vorcaro.
 source_ids:
-- src-stf-2026-05-14-sexta-fase
-- src-stf-2026-06-16-pai-e-primo
-- src-metropoles-800k-policial-cooptado
+- src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
+- src-gazetadopovo-2026-06-16-acesso-a-informacoes-sigilosas
 - src-infomoney-2026-03-18-liminar-bloqueio-bens
 - src-infomoney-2026-03-23-cerco-patrimonio-familiares
-- src-osul-2026-04-20-mansao-orlando-chosen-vessel
 - src-jornaldocomercio-2026-03-03-acao-eua-familia-vorcaro
-- src-gazetadopovo-2026-06-16-acesso-a-informacoes-sigilosas
+- src-metropoles-800k-policial-cooptado
+- src-osul-2026-04-20-mansao-orlando-chosen-vessel
 - src-otempo-2026-05-14-delegada-e-agentes-abasteciam-vorcaro
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
+- src-stf-2026-05-14-sexta-fase
+- src-stf-2026-06-16-pai-e-primo
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 full_name: Henrique Moura Vorcaro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'
