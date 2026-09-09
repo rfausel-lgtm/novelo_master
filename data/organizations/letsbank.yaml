@@ -8,17 +8,27 @@ summary: Banco vendido ao Master junto com o Voiter em 2023/2024. Em novembro de
   nome BlueBank; o Banco Central vetou essa venda por dúvida sobre a origem dos recursos usados na aquisição,
   e autorizou a reversão do nome ao original em 29/10/2025. Diferentemente do Voiter, o Letsbank nunca
   efetivamente saiu do controle do Master, e foi liquidado junto com o banco em 18/11/2025, por compartilhamento
-  de administração.
+  de administração. O cadastro de CNPJ (58.497.702/0001-02) já traz a razão social 'Banco Letsbank S.A.
+  — em Liquidação Extrajudicial', confirmando por fonte primária de registro o status decretado junto
+  com outras sete instituições do conglomerado Master na mesma data (18/11/2025).
 why_in_novelo: É o único braço em que o Banco Central interveio diretamente para impedir a saída do conglomerado
   — e o único, entre os quatro, liquidado na mesma data do Master, pela mesma causa.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- 'Há uma inconsistência temporal não resolvida entre fontes secundárias sobre a cronologia veto/aquisição
+  do Letsbank por Maurício Quadrado: nota-se referência a um veto do Banco Central em ''agosto'' (sem
+  ano explícito em algumas matérias) e a uma tentativa de aquisição por Quadrado em novembro de 2024,
+  mas a liquidação de todo o conglomerado em 18/11/2025 parece ter ocorrido antes de esse processo de
+  venda avançar — sinalizado aqui para apuração futura em fonte primária (Diário Oficial da União/comunicados
+  do BC), sem resolver a cronologia por inferência.'
 source_ids:
 - src-letsmoney-bc-vetou-venda-letsbank-quadrado
+- src-jusbrasil-cnpj-2026-banco-letsbank-em-liquidacao
+- src-cnnbrasil-2025-11-18-liquidacao-will-bank-oito-instituicoes
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-04'
 created_at: '2026-09-04'
-updated_at: '2026-09-04'
+updated_at: '2026-09-09'

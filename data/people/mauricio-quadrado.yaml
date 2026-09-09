@@ -12,23 +12,53 @@ summary: Ex-diretor de investimentos do Banco Master sob Daniel Vorcaro. Antes, 
   Foi fiador solidário, ao lado de Vorcaro e Augusto Lima, em emissão de R$ 470,5 milhões em debêntures
   da Banvox Holding Financeira que capitalizaram o Master. Alvo de busca e apreensão da Operação Compliance
   Zero em 14/01/2026. Consta também em bloqueio cautelar de R$ 24,2 milhões determinado pelo ministro
-  Dias Toffoli (STF), ao lado de Vorcaro, do Master e da Banvox.
+  Dias Toffoli (STF), ao lado de Vorcaro, do Master e da Banvox. Documento do próprio BRB (abril/2025)
+  identifica Quadrado pelo CPF 032.718.208-00 como dono integral do Fundo Albali FIM e da Banvox — o Albali
+  tornou-se acionista do BRB (3,4 milhões de ações ordinárias + 8,1 milhões adicionais) via R$ 100 milhões
+  pagos ao fundo Asterope e R$ 28,6 milhões em recursos próprios, em aumento de capital aprovado em 27/12/2024.
+  Debenturistas da Banvox apontaram conflito de interesse por Quadrado acumular a posição de fiador solidário
+  e de controlador da Trustee, agente fiduciária da própria emissão. Firmou acordo com o liquidante do
+  Master (~09/05/2026) mantendo bens bloqueados por 90 dias, na tentativa de recuperar R$ 230 milhões
+  transferidos em 2024 ao Fundo Albali — que usou o valor para comprar o Hotel Fasano Itaim por R$ 330
+  milhões. O liquidante alega doações de quatro imóveis a familiares (set-out/2025) e venda subavaliada
+  de um quinto à empresa própria 'Fraction 032', com bloqueio adicional do TJSP em março de 2026 — alegações
+  ainda sob litígio. Foi também réu, em processo anterior e distinto da fraude Master, na Operação Greenfield/Caixa
+  Econômica Federal (denúncia recebida em 07/05/2019, ainda sem sentença).
 why_in_novelo: Ex-sócio de Vorcaro no Master e controlador atual da Trustee e da Banvox, as duas gestoras
   liquidadas pelo Banco Central em 03/09/2026 por ligação com o caso Master.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: No dia da busca e apreensão da PF (14/01/2026), o escritório do executivo declarou à imprensa
+    que ele 'sempre atua dentro da lei' — não localizada, até 09/09/2026, manifestação direta e pessoal
+    dele sobre a liquidação da Trustee/Banvox (03/09/2026).
+  source_ids:
+  - src-jornaldebrasilia-2026-quem-e-mauricio-quadrado
+  date: '2026-01-14'
 open_questions:
 - Administrava o fundo Verbier, usado pelo advogado maranhense Daniel Leite (apontado pela Kroll como
   'figura instrumental' de Vorcaro) para comprar ações do BRB com empréstimo de R$ 93,7 milhões em abril
   de 2025.
+- Um vínculo entre a Trustee e Nelson Tanure é mencionado por uma única fonte de baixa força probatória
+  (O Brasilianista) — não aprofundado, não deve ser tratado como fato até nova apuração.
+- Há um vídeo de YouTube (não verificado, força fraca) alegando R$ 122 milhões gastos por Quadrado com
+  advogados não identificados — conteúdo não lido/confirmado, não deve ser usado como fonte até checagem
+  direta.
+- Diversas empresas 'Fraction NNN Administração de Bem Próprio S.A.' (inclusive a 'Fraction 032', usada
+  na venda subavaliada de imóvel) e a coincidência com o mesmo padrão de nome usado por Artur Martins
+  de Figueiredo sugerem uma estrutura comum de planejamento patrimonial — hipótese, não fato provado;
+  o escritório/family office responsável não foi identificado.
 source_ids:
 - src-cnnbrasil-2026-09-03-bc-liquida-trustee-banvox
 - src-jornaldebrasilia-2026-quem-e-mauricio-quadrado
 - src-metropoles-2026-01-20-trustee-negocio-meio-bilhao-tanure
 - src-metropoles-2026-05-01-toffoli-trava-apuracao-daniel-leite-vorcaro
+- src-metropoles-2026-01-14-voiter-cobra-247-milhoes-vorcaro-lima-quadrado
+- src-jornalggn-2026-01-21-inquerito-prescrever-peca-chave-caso-master
+- src-revistaforum-2026-05-09-acordo-liquidante-fundo-albali
+- src-revistaoeste-2026-exsocio-master-acordo-recuperar-bens
+- src-metropoles-2026-02-05-exsocio-master-acionista-brb-fundo
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-09'

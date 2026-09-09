@@ -1,0 +1,19 @@
+id: ev-quadrado-fianca-solidaria-conflito-interesse-trustee
+kind: evidence
+classification: C
+proposition: 'Daniel Vorcaro, Maurício Quadrado e Augusto Ferreira Lima assinaram fiança solidária por
+  R$ 400 milhões em debêntures da Banvox Holding Financeira (total emitido: R$ 470,5 milhões) usadas para
+  capitalizar o Master. Debenturistas apontaram ''flagrante conflito de interesse'' porque Quadrado acumulava
+  a posição de fiador (interessado no não vencimento antecipado) e de controlador da Trustee, agente fiduciária
+  encarregada de fiscalizar a própria emissão — e destituíram a Trustee por, segundo eles, não ter declarado
+  o vencimento antecipado quando os fiadores deixaram de pagar no prazo.'
+document_ids: []
+source_ids:
+- src-metropoles-2026-01-14-voiter-cobra-247-milhoes-vorcaro-lima-quadrado
+- src-metropoles-2026-01-20-trustee-negocio-meio-bilhao-tanure
+date: '2026-01-20'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -2,26 +2,52 @@ id: artur-martins-de-figueiredo
 kind: person
 name: Artur Martins de Figueiredo
 category: businessperson
-role: Codiretor da Banvox Holding Financeira S.A. ao lado de Maurício Quadrado
+role: Diretor da Trustee Holding Financeira (desde 31/12/2019) e da Banvox Holding Financeira (desde 25/09/2020),
+  ambas holdings ligadas a Maurício Quadrado
 positions: []
-summary: Diretor da Banvox Holding Financeira S.A. desde a constituição da sociedade em 2020 (entrada
-  registrada em 25/09/2020, dez dias depois da de Maurício Quadrado), segundo registro da Receita Federal.
-  A holding emitiu debêntures que capitalizaram o Banco Master, com fiança solidária de Daniel Vorcaro,
-  Augusto Lima e Quadrado, e é apontada por apuração jornalística como o veículo pelo qual Nelson Tanure
-  teria participação indireta no ecossistema Master.
-why_in_novelo: É codiretor, ao lado de Maurício Quadrado, da holding que emitiu as debêntures usadas para
-  capitalizar o Banco Master — nome até então não mapeado no acervo, identificado por registro oficial
-  da Receita Federal.
+summary: Identidade ancorada pelo CPF parcial 073.813.338-80, consistente em três fontes distintas (ConsultaSocio,
+  Escavador e documento oficial da B3/Fundos.NET), o que descarta confusão com ao menos um homônimo (profissional
+  de hotelaria/turismo, sem qualquer relação com o caso). É diretor da Trustee Holding Financeira S/A
+  (CNPJ 37.665.902/0001-57) desde 31/12/2019 — antes da entrada formal de Maurício Quadrado na mesma holding
+  (05/12/2022) — e da Banvox Holding Financeira S.A. desde 25/09/2020, dez dias depois de Quadrado. Documento
+  regulatório da B3 (01/06/2023) o designa 'Diretor Responsável' do fundo imobiliário Zion Capital Real
+  Estate Investment Fund (FII), sob a Planner Trustee DTVM — a mesma corretora que Quadrado dirigiu entre
+  2007 e 2020, sugerindo um vínculo profissional anterior herdado da Planner, não uma relação recente
+  criada especificamente pela Banvox. É também diretor em diversas empresas 'Fraction NNN Administração
+  de Bem Próprio S.A.' sediadas em Alphaville, Barueri — mesmo padrão de nomenclatura usado pela 'Fraction
+  032', empresa do casal Quadrado apontada em venda imobiliária subavaliada (hipótese de estrutura patrimonial
+  compartilhada, não fato provado). No decreto de liquidação extrajudicial da Trustee (03/09/2026), o
+  Banco Central incluiu seu nome na lista de ex-administradores com bens tornados indisponíveis — mas
+  ele NÃO consta na lista equivalente da liquidação da Banvox Distribuidora. Os dados disponíveis não
+  permitem concluir com segurança se seu papel na Banvox é de diretor executivo ativo ou de posição mais
+  formal/nominal dentro de uma estrutura de planejamento patrimonial — resultado inconclusivo, não 'não
+  localizado'.
+why_in_novelo: É diretor, ao lado de Maurício Quadrado, tanto da Trustee Holding Financeira quanto da
+  Banvox Holding Financeira — mas entrou na Trustee Holding antes de Quadrado (2019 vs. 2022), revisando
+  a hipótese inicial do acervo de um vínculo 'recente e específico à Banvox' para um vínculo profissional
+  mais antigo, provavelmente herdado da corretora Planner. É também o único, além de Quadrado, cujos bens
+  foram tornados indisponíveis no decreto de liquidação da Trustee.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- Não localizada nenhuma manifestação pública dele, nem reportagem que o mencione nominalmente além do
-  registro cadastral — perfil biográfico e papel efetivo na holding não aprofundados.
+- 'O papel efetivo dele na Banvox Holding — diretor executivo ativo ou posição mais nominal/de suporte
+  patrimonial — permanece inconclusivo: há indícios em ambas as direções (designação formal junto à CVM/B3
+  como diretor responsável de um fundo, mas também presença simultânea em múltiplas holdings ''Fraction
+  NNN'' tipicamente usadas para segregar patrimônio pessoal).'
+- Uma suposta função de 'responsável por SIEM' na Trustee, mencionada por um único resultado de busca
+  não corroborado em fonte aberta, não deve ser tratada como fato até confirmação.
+- Não foi localizada formação acadêmica ou histórico de carreira anterior a 2019/2020 (Planner/Trustee)
+  em fonte confiável.
+- Continua sem manifestação pública direta atribuível a ele — resultado negativo, coerente com um perfil
+  de baixo público.
 source_ids:
 - src-brasilapi-2026-banvox-holding-financeira-qsa
+- src-consultasocio-2026-artur-figueiredo-trustee-holding
+- src-fnetb3-2023-06-01-documento-472804-figueiredo-diretor-zion
+- src-iclnoticias-2026-09-03-bc-liquida-distribuidoras-titulos
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'
 created_at: '2026-09-06'
-updated_at: '2026-09-06'
+updated_at: '2026-09-09'

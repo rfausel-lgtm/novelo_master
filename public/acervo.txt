@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T14:56:46.438Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-09T15:38:03.406Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -62,7 +62,7 @@ PESSOA|antonio-rueda|Antônio Rueda|Presidente nacional do União Brasil; advoga
 POSIÇÃO|antonio-rueda|clarification|Assessoria ao Poder360: não confirma as informações; dados 'vazados de forma ilícita'; serviços legais, regularmente contratados e em conformidade fiscal.
 POSIÇÃO|antonio-rueda|clarification|Admitiu que o escritório Rueda e Rueda advogou para o Master (pareceres, reuniões, mais de 1.000 audiências), atividade que considera legítima, após ter dito dois dias antes não ter relação com Vorcaro além de contatos sociais.
 PESSOA|armando-miguel-gallo-neto|Armando Miguel Gallo Neto|Integrante do grupo de controle apresentado ao Banco Central em 2019|Integrou o grupo de controle apresentado ao Banco Central no pedido que resultou na autorização de 2019.
-PESSOA|artur-martins-de-figueiredo|Artur Martins de Figueiredo|Codiretor da Banvox Holding Financeira S.A. ao lado de Maurício Quadrado|É codiretor, ao lado de Maurício Quadrado, da holding que emitiu as debêntures usadas para capitalizar o Banco Master — nome até então não mapeado no acervo, identificado por registro oficial da Receita Federal.
+PESSOA|artur-martins-de-figueiredo|Artur Martins de Figueiredo|Diretor da Trustee Holding Financeira (desde 31/12/2019) e da Banvox Holding Financeira (desde 25/09/2020), ambas holdi…|É diretor, ao lado de Maurício Quadrado, tanto da Trustee Holding Financeira quanto da Banvox Holding Financeira — mas entrou na Trustee Holding antes de Quadrado (2019 vs. 2022), revisando a hipótese inicial do acervo de um vínculo 'recente e específico à Banvox' para um vínculo profissional mais antigo, provavelment…
 PESSOA|ascendino-madureira-garcia|Ascendino Madureira Garcia|Operador financeiro; ex-funcionário da Foco DTVM e depois da Master Corretora|Trabalhou sucessivamente nas duas estruturas — a distribuidora investigada em Rondônia e a corretora do Banco Master —, sendo o elo pessoal mais concreto entre as duas frentes.
 POSIÇÃO|ascendino-madureira-garcia|denial|Afirma que a associação de seu nome à investigação é 'indevida e baseada em um grande equívoco'.
 PESSOA|augusto-de-arruda-botelho|Augusto de Arruda Botelho|Advogado criminalista que defende Luiz Antonio Bull no caso Banco Master|É o advogado cuja viagem com o relator do caso Master, dias antes de o ministro decretar sigilo no processo, motivou parte de um pedido formal de suspeição da PF contra Toffoli e uma discussão ética na OAB-SP sobre transporte gratuito de magistrados por particulares.
@@ -233,6 +233,7 @@ POSIÇÃO|mario-frias|denial|Em maio de 2026 a defesa negou ao ministro Flávio 
 PESSOA|mauricio-camisotti|Maurício Camisotti|Apontado como operador central da fraude apurada na Operação Sem Desconto (INSS)|Delator central da Operação Sem Desconto cujas tratativas de acordo são objeto de alegação contra André Mendonça, usada por Alexandre de Moraes na crise institucional de setembro de 2026.
 PESSOA|mauricio-moura-bc|Maurício Moura|Diretor de Relacionamento Institucional e Cidadania do Banco Central (indicado por Temer, mantido por Bolsonaro)|Um dos quatro diretores do Banco Central que, presentes nas duas votações de 2019, mudaram de posição sobre a venda do Máxima a Daniel Vorcaro.
 PESSOA|mauricio-quadrado|Maurício Quadrado|Ex-diretor de investimentos do Banco Master; controlador da Trustee DTVM e da Banvox DTVM|Ex-sócio de Vorcaro no Master e controlador atual da Trustee e da Banvox, as duas gestoras liquidadas pelo Banco Central em 03/09/2026 por ligação com o caso Master.
+POSIÇÃO|mauricio-quadrado|denial|No dia da busca e apreensão da PF (14/01/2026), o escritório do executivo declarou à imprensa que ele 'sempre atua dentro da lei' — não localizada, até 09/09/2026, manifestação direta e pessoal dele sobre a liquidação da Trustee/Banvox (03/09/2026).
 PESSOA|michel-temer|Michel Temer|Ex-presidente da República; advogado|Seu escritório consta, segundo registros fiscais divulgados pela imprensa, entre os destinatários de pagamentos do Banco Master.
 POSIÇÃO|michel-temer|clarification|Disse ter conhecido Vorcaro pessoalmente e que seu escritório foi contratado para tentar uma 'liquidação privada' do banco, sem sucesso; afastou-se do caso; o banco não quitou todo o valor contratado.
 PESSOA|milton-maluhy-filho|Milton Maluhy Filho|CEO do Itaú Unibanco desde 2021|CEO de banco apontado, em decisão judicial da Operação Compliance Zero, como alvo de levantamento de dados pessoais e patrimoniais encomendado por Daniel Vorcaro.
@@ -458,6 +459,7 @@ ORG|tribunal-de-contas-da-uniao|Tribunal de Contas da União|public_body|Fiscali
 ORG|tribunal-regional-federal-da-1a-regiao|TRF-1|court|Concedeu o habeas corpus que soltou Daniel Vorcaro após a primeira prisão, em novembro de 2025.
 ORG|trustee-dtvm|Trustee DTVM|financial_institution|Uma das duas gestoras ligadas ao ecossistema do Banco Master liquidadas pelo Banco Central em 03/09/2026, com papel documentado na estrutura de debêntures e fundos do grupo.
 POSIÇÃO|trustee-dtvm|denial|Em nota conjunta com a Banvox, negou irregularidades e violações às normas do mercado de capitais, afirmando nunca ter sido notificada pelo BC sobre problema de enquadramento.
+ORG|trustee-holding-financeira|Trustee Holding Financeira|financial_institution|É a holding — distinta da corretora Trustee DTVM já liquidada — que reúne os diretores Maurício Quadrado e Artur Martins de Figueiredo, mesmo par que controla a Banvox Holding Financeira, sugerindo uma estrutura de administração compartilhada entre as duas holdings do ecossistema Master.
 ORG|uniao-brasil|União Brasil|party|Partido presidido por Antônio Rueda, cujos escritórios constam, segundo a imprensa, entre destinatários de pagamentos do Banco Master.
 ORG|unltd-network-brazil|UNLTD Network Brazil Ltda|company|Agência apontada, em decisão judicial da Operação Compliance Zero, como executora de campanha coordenada de influenciadores a favor do Banco Master e contra o Banco Central.
 ORG|upcon|Upcon|company|É o ativo cuja aquisição originou a única ação penal em que Nelson Tanure, hoje investigado no caso Master, já figura como réu.
