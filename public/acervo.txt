@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T22:30:35.127Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-09T22:39:15.428Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -203,6 +203,7 @@ POSIÇÃO|jeronimo-rodrigues|denial|Por nota do governo do Estado: 'Não é verd
 PESSOA|jhonatan-de-jesus|Jhonatan de Jesus|Ministro do Tribunal de Contas da União, relator da inspeção sobre a liquidação do Banco Master|Conduz, como relator no TCU, a fiscalização sobre como o Banco Central decidiu liquidar o Banco Master.
 PESSOA|joao-carlos-mansur|João Carlos Mansur|Fundador da Reag Investimentos; acionista do BRB|Comprou ações do BRB por meio de fundo administrado pelo Banco Master, segundo documento do próprio BRB noticiado pela imprensa. Firmou a primeira delação premiada da Operação Compliance Zero.
 POSIÇÃO|joao-carlos-mansur|no_response|A defesa de João Carlos Mansur não respondeu à CNN Brasil até a publicação.
+PESSOA|joao-doria|João Doria|Ex-governador de São Paulo (2019–2022) e ex-prefeito da capital paulista|Empresário e comunicador, elegeu-se prefeito de São Paulo em 2016 e governador em 2018, deixando o cargo em 31 de março de 2022 para uma tentativa frustrada de disputar a Presidência. O decreto de consignações que assinou nessa mesma data acrescentou ao regulamento estadual de 2014 a consignação facultativa por cartão…
 PESSOA|joao-manoel-pinho-de-mello|João Manoel Pinho de Mello|Diretor de Organização do Sistema Financeiro e de Resolução do Banco Central (2019)|Relatou o voto do Banco Central que autorizou Daniel Vorcaro a assumir o controle do banco que viria a se chamar Master.
 PESSOA|jocildo-lemos|Jocildo Lemos|Diretor-presidente da Amapá Previdência (Amprev); ex-tesoureiro de campanha de Davi Alcolumbre|Dirigia a autarquia previdenciária do Amapá que investiu R$ 400 milhões no Banco Master, investimento hoje sob investigação da PF, e tem ligação política com o presidente do Senado, segundo a imprensa.
 POSIÇÃO|jocildo-lemos|public_note|Como presidente da Amprev, afirmou que os recursos dos segurados estão protegidos, que a autarquia se habilitou junto ao BC para reaver o valor aplicado e obteve na Justiça a retenção dos consignados que seriam repassados ao Master.
@@ -287,6 +288,7 @@ PESSOA|renato-breia|Renato Breia|Sócio da consultoria Nord Investimentos|Aponta
 PESSOA|ricardo-lewandowski|Ricardo Lewandowski|Ex-ministro do STF; ex-ministro da Justiça (2024 a jan/2026); advogado|Seu escritório prestou serviços ao Banco Master, fato confirmado por ele em nota, segundo a CNN Brasil.
 POSIÇÃO|ricardo-lewandowski|clarification|Confirmou a prestação de serviço ao Master; retirou-se do escritório e suspendeu o registro na OAB ao assumir o ministério em janeiro de 2024; saída do ministério por motivos pessoais.
 POSIÇÃO|ricardo-lewandowski|clarification|Após deixar o STF em abril de 2023 voltou a advogar e prestou consultoria ao Master entre outros clientes; ao assumir o Ministério da Justiça retirou-se do escritório e suspendeu o registro na OAB.
+PESSOA|ricardo-nunes|Ricardo Nunes|Prefeito do município de São Paulo|Diferentemente do desenho estadual paulista, que tratou os 15% como sublimite dentro da margem, o decreto municipal usa a fórmula 'majorada, adicionalmente, em mais 10%', a mesma adotada no Rio de Janeiro e em Mato Grosso. A prefeitura credenciou a empresa em 19/08/2022 e assinou com ela o Termo de Adesão nº 003/2022 …
 PESSOA|roberta-moreira-luchsinger|Roberta Moreira Luchsinger|Mencionada em representação policial da Operação Sem Desconto (fraude do INSS)|Aparece nominalmente em documento primário da crise institucional STF-PF ligada ao caso Master (a Pet 16.662), mas exclusivamente no contexto de outra investigação (Sem Desconto/INSS) — registro incluído por precisão e transparência, com a distinção explicitamente marcada para evitar qualquer leitura equivocada de vín…
 PESSOA|roberto-campos-neto|Roberto Campos Neto|Presidente do Banco Central (2019-2024)|Presidia o Banco Central no período em que a autoridade monetária autorizou a aquisição do controle do banco e ao longo dos anos de supervisão que antecederam a liquidação.
 PESSOA|rodrigo-rollemberg|Rodrigo Rollemberg|Deputado federal (PSB-DF)|Impetrou no STF o mandado de segurança que pedia a instalação da CPI do Banco Master.

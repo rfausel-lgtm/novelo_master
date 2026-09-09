@@ -1,0 +1,24 @@
+id: src-doesp-2026-03-19-suspensao-codigo-097337-4-pkl-one
+kind: source
+title: Despacho que suspende o código de desconto da PKL One na folha do Estado de São Paulo
+publisher: Diário Oficial do Estado de São Paulo
+publication_date: '2026-03-19'
+retrieved_at: '2026-09-09'
+url: https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/despacho-2026031811295922041716683
+source_type: official_gazette
+summary: Processo SEI 018.00013344/2025-92. O diretor da Diretoria da Folha de Pagamento determina a suspensão
+  do código de desconto 097337-4, utilizado pela PKL One, com efeitos a partir de 19/02/2026, 'pelo descumprimento
+  ao estabelecido no artigo 6º, inciso IX, do Decreto nº 60.435/2014' — isto é, exatamente o inciso criado
+  pelo decreto de 2022, que exigia convênio com instituição financeira autorizada pelo Banco Central.
+  Trata-se de suspensão de código, não de descredenciamento; ato posterior de descredenciamento estadual
+  não foi localizado.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do texto normativo oficial e dos PDFs do diário oficial)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

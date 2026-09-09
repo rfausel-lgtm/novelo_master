@@ -1,0 +1,26 @@
+id: src-alesp-decreto-66622-2022-cartao-beneficio
+kind: source
+title: Decreto nº 66.622, de 31 de março de 2022 — texto oficial (Assembleia Legislativa de São Paulo)
+publisher: Assembleia Legislativa do Estado de São Paulo
+publication_date: '2022-03-31'
+retrieved_at: '2026-09-09'
+url: https://www.al.sp.gov.br/repositorio/legislacao/decreto/2022/decreto-66622-31.03.2022.html
+source_type: official_legislative
+summary: Texto integral lido pela equipe no repositório oficial. Assinado por João Doria no último dia
+  de seu mandato, véspera da posse do sucessor. Acrescenta ao decreto de consignações de 2014 o inciso
+  XI do art. 5º — 'aquisição de bens e serviços, à vista ou financiada, assim como saques emergenciais,
+  por meio de cartão de benefício, limitada a 15% da margem consignável' — e o inciso IX do art. 6º, que
+  admite como consignatárias 'empresas administradoras de cartões de benefícios, conveniadas com instituições
+  financeiras devidamente autorizadas pelo Banco Central do Brasil'. O art. 8º-A fixa os requisitos de
+  credenciamento e o art. 3º delega ao secretário da Fazenda fixar ou alterar os limites individuais e
+  globais da margem consignável.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do texto normativo oficial e dos PDFs do diário oficial)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,24 @@
+id: src-doc-2026-08-14-descredenciamento-pkl-one-pmsp
+kind: source
+title: Despacho que descredencia a PKL One do sistema de consignações da Prefeitura de São Paulo
+publisher: Diário Oficial da Cidade de São Paulo
+publication_date: '2026-08-14'
+retrieved_at: '2026-09-09'
+url: http://diariooficial.prefeitura.sp.gov.br/md_epubli_visualizar.php?6kz0SrUypxBRd4GmgkPkdS4-QXmEtAN6PyrWYZcPGCDLVXH3n_0pdMujHSKCQO0LqZnDPwWZZxRr9cxAJypFKw,,
+source_type: official_gazette
+summary: Processo 6013.2025/0004957-9. A coordenação de gestão de pessoas não acolhe a defesa apresentada
+  pela empresa e determina seu descredenciamento como entidade consignatária da prefeitura, por não manutenção
+  dos requisitos do art. 6º e descumprimento reiterado do art. 19 do decreto municipal 58.890/2019, com
+  denúncia do convênio celebrado. Assina Alisson Rodrigues Pinheiro, coordenador substituto, em 13/08/2026.
+  O despacho torna sem efeito publicação de 12/08/2026, idêntica no mérito, que trazia a razão social
+  errada — 'PKL One Administrações S.A' — com o CNPJ correto.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do texto normativo oficial e dos PDFs do diário oficial)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

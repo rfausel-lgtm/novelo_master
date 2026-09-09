@@ -1,0 +1,28 @@
+id: doc-2022-05-27-despacho-credenciamento-pkl-one-sp
+kind: document
+title: Despacho de 25/05/2022 que credencia a PKL One na folha do Estado de São Paulo
+doc_type: administrative_act
+date: '2022-05-27'
+source_ids:
+- src-doesp-2022-05-27-despacho-credenciamento-pkl-one
+- src-doesp-2022-06-21-comunicado-ddpe-004-codigo-pkl-one
+summary: 'Ato pelo qual a empresa entra na folha paulista, 55 dias após o decreto que criou a espécie
+  e 41 dias após a resolução que ampliou a margem. Confirma documentalmente a versão oficial de que o
+  vínculo é credenciamento, e não contrato ou convênio: trata-se de despacho de deferimento do secretário
+  da Fazenda, publicado impessoalmente, sem nome de signatário. Concede a espécie de consignação 270 (Cartão
+  de Benefício); o código operacional 097337-4 seria informado no mês seguinte.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Secretaria da Fazenda e Planejamento do Estado de São Paulo
+url: https://www.imprensaoficial.com.br/DO/GatewayPDF.aspx?link=/2022/executivo%20secao%20i/maio/27/pag_0024_afea41fcad6cd82fc639bc0bcf6ff67a.pdf
+reference: GDOC 1000581-2302/2022 - SFP-PRC-2022/12729; DOE-SP 27/05/2022, Executivo I, p. 24
+excerpt: DEFIRO o pedido de credenciamento junto ao Sistema de Consignação em Folha de Pagamento do Estado
+  de São Paulo, formulado pela PKL ONE PARTICIPAÇÕES S/A (fls. 02-03), concedendo-lhe a espécie de consignação
+  270 (Cartão de Benefício).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

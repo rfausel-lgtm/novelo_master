@@ -72,6 +72,13 @@ open_questions:
   seria ''mera licenciadora'' do programa, condenando-a solidariamente com o banco. Em Mato Grosso, por
   contraste, a trilha do CredCesta é estreita: o aparato repressivo estadual mira outro grupo empresarial,
   e o produto entra por uma porta só — o credenciamento de maio de 2023.'
+- 'São Paulo revela que o padrão normativo tem duas arquiteturas. No Estado, o cartão de benefício recebeu
+  um sublimite de 15% dentro da margem consignável — mas, quinze dias depois, a Fazenda elevou o teto
+  global de 35% para 50%, abrindo exatamente os quinze pontos do novo produto, por resolução de secretário.
+  No município da capital, a fórmula é a mesma do Rio de Janeiro e de Mato Grosso: margem ''majorada,
+  adicionalmente, em mais 10%'', expressamente exclusiva. O efeito prático converge; a técnica jurídica,
+  não. Registre-se ainda que em Embu das Artes o produto já operava desde outubro de 2021, antes do decreto
+  estadual — como no Paraná, a operação municipal precedeu a norma.'
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -98,6 +105,10 @@ source_ids:
 - src-stf-2026-adi-7900-decreto-legislativo-79-mt
 - src-stf-2026-adpf-1306-suspensao-consignacoes-seplag-mt
 - src-mpmt-2025-10-14-acp-consignados-capital-consig
+- src-alesp-decreto-66622-2022-cartao-beneficio
+- src-doesp-2022-04-15-resolucao-sfp-26-margem-50
+- src-legislacao-pmsp-decreto-61556-2022-margem-adicional
+- src-doesp-2021-11-24-convenio-credcesta-embu-das-artes
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

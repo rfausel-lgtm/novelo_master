@@ -1,0 +1,24 @@
+id: src-doesp-2022-04-15-resolucao-sfp-26-margem-50
+kind: source
+title: Resolução SFP nº 26, de 14 de abril de 2022 — eleva a margem consignável a 50%
+publisher: Diário Oficial do Estado de São Paulo
+publication_date: '2022-04-15'
+retrieved_at: '2026-09-09'
+url: https://www.imprensaoficial.com.br/DO/GatewayPDF.aspx?link=/2022/executivo%20secao%20i/abril/15/pag_0026_a183b69395724a0a5709ed437241464b.pdf
+source_type: official_gazette
+summary: Publicação no caderno Executivo, Seção I, página 26, cujo PDF foi baixado e lido pela equipe
+  (republicada em 19/04/2022, p. 25). Editada pelo secretário da Fazenda e Planejamento com fundamento
+  nos arts. 2º e 3º do decreto de 31/03/2022. O art. 1º altera para 50% a margem consignável fixada pelo
+  Decreto nº 61.750/2015; o §2º do art. 2º limita a 15% a margem do cartão de benefício; o §4º condiciona
+  a averbação à existência de margem disponível, o que caracteriza os 15% como sublimite e não como acréscimo.
+  O ato é publicado impessoalmente, sem nome do signatário.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do texto normativo oficial e dos PDFs do diário oficial)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

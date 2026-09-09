@@ -1,0 +1,22 @@
+id: ev-sp-2015-usou-formula-margem-adicional-que-2022-evitou
+kind: evidence
+classification: D
+proposition: O contraste interno da própria legislação paulista dá a medida da escolha feita em 2022.
+  Quando quis criar margem verdadeiramente adicional, em 2015, a administração escreveu que a margem 'poderá
+  ser majorada, adicionalmente, em até 5%', com destinação exclusiva a dívidas de cartão de crédito. Em
+  2022, para o cartão de benefício, escolheu a fórmula do sublimite — e chegou ao mesmo resultado elevando
+  o teto global. A fórmula 'majorada, adicionalmente' é a que aparece, textualmente, no decreto do município
+  de São Paulo e nos atos do Rio de Janeiro e de Mato Grosso.
+document_ids:
+- doc-2022-04-14-resolucao-sfp-26-sp-margem-50-por-cento
+- doc-2022-07-07-decreto-61556-municipio-sp-margem-adicional-10
+source_ids:
+- src-alesp-decreto-61750-2015-margem-35-por-cento
+- src-legislacao-pmsp-decreto-61556-2022-margem-adicional
+excerpt: poderá ser majorada, adicionalmente, em até 5% (cinco por cento)
+date: '2022-07-07'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

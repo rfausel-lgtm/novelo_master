@@ -1,0 +1,33 @@
+id: ricardo-nunes
+kind: person
+name: Ricardo Nunes
+category: public_official
+role: Prefeito do município de São Paulo
+positions: []
+summary: Assinou o decreto municipal de julho de 2022 que criou margem consignável adicional e exclusiva
+  de 10% para cartão de benefício na folha do funcionalismo da capital — fundamento invocado seis semanas
+  depois no credenciamento da PKL One pela prefeitura.
+why_in_novelo: Diferentemente do desenho estadual paulista, que tratou os 15% como sublimite dentro da
+  margem, o decreto municipal usa a fórmula 'majorada, adicionalmente, em mais 10%', a mesma adotada no
+  Rio de Janeiro e em Mato Grosso. A prefeitura credenciou a empresa em 19/08/2022 e assinou com ela o
+  Termo de Adesão nº 003/2022 em 25/08/2022, aditado em outubro de 2023, com extensão da operação ao Serviço
+  Funerário e ao Hospital do Servidor Público Municipal. Em agosto de 2026 a própria prefeitura descredenciou
+  a empresa e denunciou o convênio — postura mais rigorosa do que a do governo estadual, que se limitou
+  a suspender o código de desconto.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Não foi localizada manifestação da prefeitura sobre o intervalo entre o decreto de 07/07/2022 e o credenciamento
+  de 19/08/2022, nem sobre quem solicitou a criação da margem adicional. Buscar posicionamento.
+- Apurar o número de servidores municipais com contratos ativos do produto e o volume descontado entre
+  2022 e 2026, dado que o descredenciamento não cancela as dívidas.
+source_ids:
+- src-legislacao-pmsp-decreto-61556-2022-margem-adicional
+- src-doc-2022-08-26-termo-adesao-003-2022-pmsp-pkl-one
+- src-doc-2026-08-14-descredenciamento-pkl-one-pmsp
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
