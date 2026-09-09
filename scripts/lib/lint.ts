@@ -509,13 +509,20 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
   /* ---- duplicação de entidade ---- */
   const checarDuplicatas = (
     pasta: string,
-    registros: { id: string; name: string; aliases: string[]; distinct_from: string[] }[],
+    registros: {
+      id: string;
+      name: string;
+      aliases: string[];
+      distinct_from: string[];
+      review_status?: string;
+    }[],
   ) => {
     const preparados = registros.map((r) => ({
       id: r.id,
       arquivo: `${pasta}/${r.id}.yaml`,
       rotulos: [r.name, ...r.aliases],
       distintos: new Set(r.distinct_from),
+      publicado: r.review_status === "published",
     }));
 
     for (const r of preparados) {
@@ -550,17 +557,18 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
         )[0];
         if (contido) {
           /*
-           * Aviso, e deliberadamente não bloqueante enquanto o acervo tiver os quatro casos que a
-           * medição de 09/09 encontrou: dois duplicados de verdade (luiz-bull/luiz-antonio-bull e
-           * banco-pleno/voiter-banco-pleno), que só a sessão de pesquisa pode fundir, e dois pares
-           * legítimos à espera de `distinct_from`. Resolvidos os quatro, trocar `false` por `pub`
-           * na linha abaixo passa a bloquear o modo estrito, que é o destino desta regra.
+           * Bloqueia o modo estrito desde 09/09, quando os quatro casos que a medição inicial
+           * encontrou foram resolvidos e o acervo passou a fechar em zero: dois eram duplicatas de
+           * verdade (luiz-bull e banco-pleno) e dois eram pares legítimos, hoje declarados.
+           *
+           * Basta um dos dois lados estar publicado para barrar: um rascunho que duplica registro
+           * publicado é o problema antes de acontecer, e é exatamente quando sai barato desfazer.
            */
           warn(
             a.arquivo,
             `possível duplicata de "${b.id}" (${contido}): funda os registros ou declare ` +
               `distinct_from: [${b.id}]`,
-            false,
+            a.publicado || b.publicado,
           );
         }
       }

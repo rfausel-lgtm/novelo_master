@@ -206,11 +206,25 @@ describe("duplicação de entidade", () => {
   });
 
   /* Caso Felipe/Freixo: similaridade de texto não pega, tokens contidos pegam. */
-  it("avisa quando os tokens de um nome estão contidos no outro", () => {
+  it("avisa quando os tokens de um nome estão contidos no outro, e o aviso bloqueia", () => {
     const issues = lintCorpus(
       comPessoas(pessoa("a", "Antonio Freixo"), pessoa("b", "Antônio Carlos Freixo Júnior")),
     );
-    expect(issues.some((i) => /possível duplicata/.test(i.message))).toBe(true);
+    const aviso = issues.find((i) => /possível duplicata/.test(i.message));
+    expect(aviso?.level).toBe("warning");
+    /* `published !== false` é o que faz o modo estrito barrar. */
+    expect(aviso?.published).not.toBe(false);
+  });
+
+  it("não bloqueia quando os dois lados ainda são rascunho", () => {
+    const rascunho = { review_status: "draft" as const };
+    const issues = lintCorpus(
+      comPessoas(
+        pessoa("a", "Antonio Freixo", rascunho),
+        pessoa("b", "Antônio Carlos Freixo Júnior", rascunho),
+      ),
+    );
+    expect(issues.find((i) => /possível duplicata/.test(i.message))?.published).toBe(false);
   });
 
   /* Caso Kevin x Nunes Marques: pai e filho, indistinguíveis por regra lexical. */
