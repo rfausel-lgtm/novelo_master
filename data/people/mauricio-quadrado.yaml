@@ -18,13 +18,17 @@ why_in_novelo: Ex-sócio de Vorcaro no Master e controlador atual da Trustee e d
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Administrava o fundo Verbier, usado pelo advogado maranhense Daniel Leite (apontado pela Kroll como
+  'figura instrumental' de Vorcaro) para comprar ações do BRB com empréstimo de R$ 93,7 milhões em abril
+  de 2025.
 source_ids:
 - src-cnnbrasil-2026-09-03-bc-liquida-trustee-banvox
 - src-jornaldebrasilia-2026-quem-e-mauricio-quadrado
 - src-metropoles-2026-01-20-trustee-negocio-meio-bilhao-tanure
+- src-metropoles-2026-05-01-toffoli-trava-apuracao-daniel-leite-vorcaro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'

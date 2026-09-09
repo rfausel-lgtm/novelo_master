@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T13:10:13.769Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-09T13:24:14.554Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -92,6 +92,7 @@ PESSOA|clecio-luis|Clécio Luís|Governador do Estado do Amapá desde 1º/01/202
 PESSOA|consuelo-dieguez|Consuelo Dieguez|Jornalista da revista Piauí|Jornalista apontada, em decisão judicial da Operação Compliance Zero, como alvo de tentativa de supressão de reportagem a mando de Daniel Vorcaro.
 PESSOA|cristiano-zanin|Cristiano Zanin|Ministro do Supremo Tribunal Federal|Decidiu, no STF, o mandado de segurança que pedia a instalação da CPI do Banco Master na Câmara dos Deputados.
 PESSOA|daniel-bialski|Daniel Bialski|Advogado; integra a defesa de Daniel Vorcaro desde agosto de 2026|Advogado da defesa de Daniel Vorcaro que sinalizou publicamente disposição de colaboração.
+PESSOA|daniel-de-faria-jeronimo-leite|Daniel de Faria Jerônimo Leite|Advogado de São Luís (MA), apontado por relatório da Kroll como 'figura instrumental' de Vorcaro na tentativa de compra…|É a única ponte concreta e multissourced encontrada entre o Maranhão e a rede financeira de Daniel Vorcaro — via a tentativa de compra de ações do BRB, com contrato público municipal sob suspeita de improbidade e investigação trancada pelo mesmo ministro (Toffoli) já central a outras frentes do caso Master.
 PESSOA|daniel-lopes-monteiro|Daniel Lopes Monteiro|Advogado; sócio-administrador da Monteiro Sociedade de Advogados; preso na Operação Compliance Zero|É o único advogado da rede de fornecedores jurídicos do Master preso e formalmente acusado de operar esquema de propina, e não apenas de prestar serviço jurídico questionável.
 POSIÇÃO|daniel-lopes-monteiro|denial|Nega ilegalidade, afirma que a criação de empresas e fundos é atividade regular da advocacia, que o uso indevido por clientes não pode ser automaticamente atribuído ao advogado sem provas, e destaca trajetória 'estritamente técnica'.
 PESSOA|daniel-vorcaro|Daniel Vorcaro|Controlador do Banco Master (até a liquidação em novembro de 2025)|É o controlador do Banco Master, instituição liquidada pelo Banco Central em novembro de 2025, e investigado central da Operação Compliance Zero conduzida pela Polícia Federal sob relatoria do STF.
@@ -331,6 +332,7 @@ ORG|brodowski-previdencia|Regime Próprio de Previdência de Brodowski|public_bo
 ORG|cajamar-previdencia|Instituto de Previdência Social dos Servidores de Cajamar (IPSSC)|public_body|É o RPPS paulista com a maior exposição individual entre os quatro originalmente citados pelo MPC-SP, com investigação da PF e ação popular civil próprias, distintas da representação do MPC-SP.
 ORG|camara-dos-deputados|Câmara dos Deputados|public_body|É a Casa onde tramita o requerimento de CPI do Banco Master objeto do MS 40791.
 ORG|camara-legislativa-do-distrito-federal|CLDF|public_body|Aprovou a autorização legislativa para o BRB comprar participação no Banco Master.
+ORG|camara-municipal-de-imperatriz|Câmara Municipal de Imperatriz|public_body|É o ente público cujo contrato com o escritório de Daniel Leite, renovado sem licitação, motivou a apuração de improbidade que conecta o Maranhão à tentativa de compra de ações do BRB ligada a Vorcaro.
 ORG|coaf|Coaf|public_body|Autor dos relatórios de inteligência financeira, noticiados pela imprensa, que documentam transferências ligadas ao caso.
 POSIÇÃO|coaf|public_note|'Não se manifesta sobre casos concretos'; os relatórios são sigilosos e encaminhados às autoridades competentes quando solicitados ou quando identifica movimentações relevantes.
 ORG|comissao-de-valores-mobiliarios|Comissão de Valores Mobiliários|public_body|Regulador do mercado de capitais que processou repetidamente as empresas e pessoas do caso Master antes do colapso, e cuja atuação passou a ser questionada no Senado.
@@ -399,6 +401,7 @@ POSIÇÃO|metropoles|clarification|Em nota oficial: o Metrópoles celebrou contr
 ORG|mgi-desenvolvimento|MGI Desenvolvimento Imobiliário|company|É a sociedade cuja sobreavaliação de R$ 56 milhões, por laudo de autoria contestada, serviu de base à integralização fraudulenta pela Milo Investimentos — e cuja condenação atingiu Felipe Vorcaro mesmo diante de sua defesa de que não teria ingerência sobre o laudo.
 ORG|milo-investimentos|Milo Investimentos|company|Empresa familiar dos Vorcaro que aparece como destinatária de recursos em três frentes distintas do caso — mercado de capitais, fundos de previdência e a apuração rondoniense.
 ORG|ministerio-publico-de-sao-paulo|Ministério Público de São Paulo|public_body|Acompanha, pela Promotoria do Patrimônio Público, a apuração sobre o contrato de wi-fi da Prefeitura de São Paulo.
+ORG|ministerio-publico-do-maranhao|Ministério Público do Maranhão|public_body|É o órgão cuja apuração sobre o contrato de Daniel Leite com a Câmara de Imperatriz foi trancada por decisão do STF, episódio que conecta o Maranhão à rede de Vorcaro na tentativa de compra do BRB.
 ORG|ministerio-publico-federal|Ministério Público Federal|public_body|Requereu a investigação que deu origem à Operação Compliance Zero, conforme nota oficial da PF.
 ORG|mmpg-fi-financeiro-multimercado|MMPG FI Financeiro Multimercado CP|fund|É o fundo de cotista único que o UOL aponta como pertencente a Ângelo Rezende, e que integra a cadeia societária que o ligaria à PKL One Participações.
 ORG|monteiro-sociedade-de-advogados|Monteiro Sociedade de Advogados|law_firm|É o caso mais grave entre os escritórios identificados: não se trata de honorário questionado, mas de prisão e imputação de operação paralela de esquema de propina, segundo a PGR, ligado à tentativa de compra do Master pelo BRB.

@@ -51,8 +51,13 @@ open_questions:
 - Não há confirmação pública dele sobre o conteúdo das conversas durante o voo, além de declaração a interlocutores
   (não em nota formal) de que conversou 'só sobre futebol' e de que é amigo de Pastore há anos, sem proximidade
   com Botelho.
+- Suspendeu monocraticamente, em 30/09/2025, a apuração do Ministério Público do Maranhão sobre o contrato
+  entre a Câmara de Imperatriz e o escritório do advogado Daniel Leite — apontado pela Kroll como 'figura
+  instrumental' de Vorcaro na tentativa de compra de ações do BRB —, por ausência de 'lastro mínimo' para
+  a acusação de improbidade.
 source_ids:
 - src-apublica-2026-02-12-nota-pedido-suspeicao-toffoli-pf
+- src-blogdodina-2026-05-01-toffoli-suspende-investigacao-daniel-leite
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-cnnbrasil-2025-12-20-advogado-passageiros-torcedores
 - src-cnnbrasil-2026-02-22-fachin-arquiva-acao-suspeicao-toffoli
@@ -66,6 +71,7 @@ source_ids:
 - src-poder360-2025-12-20-advogado-minimiza-carona-jatinho-toffoli
 - src-poder360-2026-03-05-agenda-vorcaro-contatos
 - src-reuters-2026-02-12-toffoli-nega
+- src-revistaoeste-2026-toffoli-tranca-investigacao-advogado-vorcaro
 - src-stf-2026-01-29-nota-gabinete-toffoli
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
 review_status: published

@@ -1,0 +1,42 @@
+id: daniel-de-faria-jeronimo-leite
+kind: person
+name: Daniel de Faria Jerônimo Leite
+category: lawyer
+role: Advogado de São Luís (MA), apontado por relatório da Kroll como 'figura instrumental' de Vorcaro
+  na tentativa de compra do BRB
+positions: []
+summary: 'Advogado de São Luís (MA), conselheiro federal da OAB, ex-procurador do município de São Luís,
+  sócio-fundador do escritório Daniel Leite & Advogados (fundado em 2007). Apontado por relatório da consultoria
+  Kroll, contratada pelo BRB, como ''figura instrumental'' de Daniel Vorcaro, Maurício Quadrado e João
+  Carlos Mansur na tentativa de compra de ações do BRB. Em abril de 2025, tomou empréstimo de R$ 93,7
+  milhões, usado majoritariamente para comprar ações do BRB via fundos de investimento, incluindo o fundo
+  Verbier, administrado por Quadrado. Seu escritório mantinha contrato de prestação de serviços jurídicos
+  com a Câmara Municipal de Imperatriz (MA), cerca de R$ 180 mil/ano, firmado em abril de 2023 e renovado
+  em abril de 2025 sem nova licitação — o que levou o Ministério Público do Maranhão a apurar possível
+  improbidade administrativa, apuração suspensa monocraticamente pelo ministro Dias Toffoli em 30/09/2025
+  por falta de ''lastro mínimo''. Patrimônio declarado: BRB estimou R$ 6 milhões; ele contrapôs R$ 75
+  milhões, incluindo propriedades rurais.'
+why_in_novelo: É a única ponte concreta e multissourced encontrada entre o Maranhão e a rede financeira
+  de Daniel Vorcaro — via a tentativa de compra de ações do BRB, com contrato público municipal sob suspeita
+  de improbidade e investigação trancada pelo mesmo ministro (Toffoli) já central a outras frentes do
+  caso Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- A caracterização de 'figura instrumental' é atribuída ao relatório da Kroll (contratada pelo BRB, parte
+  interessada), não é fato provado em juízo — o corpus a mantém como alegação, devidamente atribuída.
+- Não localizada manifestação pública dele sobre as acusações, além da contestação do valor patrimonial
+  atribuído pelo BRB.
+- Não foi possível confirmar, em fonte primária, o número exato do processo do MPMA nem o teor integral
+  da decisão de Toffoli — recomenda-se verificação direta antes de qualquer nova camada editorial sobre
+  este caso.
+source_ids:
+- src-metropoles-2026-05-01-toffoli-trava-apuracao-daniel-leite-vorcaro
+- src-blogdodina-2026-05-01-toffoli-suspende-investigacao-daniel-leite
+- src-revistaoeste-2026-toffoli-tranca-investigacao-advogado-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'
