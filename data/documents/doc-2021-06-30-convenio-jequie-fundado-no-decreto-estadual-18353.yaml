@@ -1,0 +1,30 @@
+id: doc-2021-06-30-convenio-jequie-fundado-no-decreto-estadual-18353
+kind: document
+title: Convênio de Jequié fundado no decreto estadual de 2018 — a ponte documental
+doc_type: contract
+date: '2021-06-30'
+source_ids:
+- src-dom-jequie-2021-06-30-extrato-convenio-pkl-one-decreto-estadual
+- src-dom-jequie-2021-06-16-decreto-22726-trinta-por-cento-credicesta
+summary: A peça que liga documentalmente as duas escalas. O extrato do convênio municipal declara como
+  fundamento legal o decreto estadual de 27 de abril de 2018 — aquele que foi assinado no dia do leilão
+  da estatal de alimentos e que assegurou ao 'detentor dos direitos de exploração comercial' a faculdade
+  de associar ao cartão serviços creditícios, financeiros e securitários. Um município invoca, como base
+  jurídica de seu próprio ajuste, a norma estadual que criou o produto. O convênio foi assinado em 14/06/2021,
+  e o decreto municipal que reservou 30% da remuneração exclusivamente ao programa veio dois dias depois
+  — a operação precede a norma local, e a norma que a autoriza é a do Estado.
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+- empresa-baiana-de-alimentos
+issuer: Prefeitura Municipal de Jequié (BA)
+url: http://www.ipmbrasil.org.br/download-documento.aspx?cod=961&file=4C74FEE3299AB69B243B464FEB8CE840&type=edicao
+reference: Extrato de convênio, DOM Jequié ed. 01295, p. 111; Decreto municipal nº 22.726, DOM ed. 01287,
+  pp. 18-21
+excerpt: 'FUNDAMENTO LEGAL: Decreto nº 18.353, de 27 de abril de 2018, e Lei nº 8.666/1993'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

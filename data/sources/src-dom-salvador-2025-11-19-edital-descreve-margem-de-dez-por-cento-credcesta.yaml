@@ -1,0 +1,23 @@
+id: src-dom-salvador-2025-11-19-edital-descreve-margem-de-dez-por-cento-credcesta
+kind: source
+title: Edital municipal de Salvador que descreve a margem do servidor como '10% credcesta'
+publisher: Diário Oficial do Município do Salvador (BA)
+publication_date: '2025-11-19'
+retrieved_at: '2026-09-10'
+url: http://www.dom.salvador.ba.gov.br/images/stories/pdf/2025/novembro/dom-9158-19-11-2025.pdf
+source_type: official_gazette
+summary: Edição nº 9.158, página 56, publicada no dia seguinte à liquidação extrajudicial do banco. Edital
+  de auxílio-bolsa da prefeitura descreve a margem disponível do servidor como '30% de margem referente
+  a disponibilidade de 10% credcesta, 10% associação e 10% do benefício de bolsa'. O documento não trata
+  do produto, mas o nomeia como rubrica corrente da folha — prova de que a reserva seguia operante na
+  capital baiana no dia seguinte à liquidação.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura dos PDFs dos diários oficiais municipais baianos)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

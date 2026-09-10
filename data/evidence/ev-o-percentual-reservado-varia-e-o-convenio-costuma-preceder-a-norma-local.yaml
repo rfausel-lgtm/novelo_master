@@ -1,0 +1,22 @@
+id: ev-o-percentual-reservado-varia-e-o-convenio-costuma-preceder-a-norma-local
+kind: evidence
+classification: C
+proposition: 'Dois padrões emergem do conjunto dos atos municipais baianos lidos, e ambos refinam o que
+  o acervo vinha registrando. O primeiro é que o percentual reservado ao produto varia largamente de município
+  para município: 30% em Jequié, Nova Soure e Irará, 20% em Vitória da Conquista, em Juazeiro e em Senhor
+  do Bonfim, 15% em Itapetinga, 10% em Salvador. O segundo é cronológico: o convênio tende a ser assinado
+  antes ou junto do ato que cria a margem — em Jequié dois dias antes, em Alagoinhas meses antes de qualquer
+  decreto —, o que reproduz em escala municipal o achado já registrado para Paraná e Espírito Santo, de
+  que a empresa chega primeiro e a norma se acomoda depois.'
+document_ids: []
+source_ids:
+- src-dom-jequie-2021-06-30-extrato-convenio-pkl-one-decreto-estadual
+- src-dom-jequie-2021-06-16-decreto-22726-trinta-por-cento-credicesta
+- src-dom-vitoria-da-conquista-2021-2026-decretos-e-convenio-credcesta
+- src-dom-salvador-2021-02-05-decreto-33502-consignacoes
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

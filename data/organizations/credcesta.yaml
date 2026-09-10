@@ -140,6 +140,13 @@ open_questions:
   da prefeitura: precisão necessária para não superestimar a cobertura. Único ato municipal paulista posterior
   à liquidação a tratar do banco é o indeferimento de Peruíbe a uma troca de titularidade de conta, por
   falta de amparo junto ao Banco Central.'
+- 'A ponte entre a escala estadual e a municipal está documentada: o convênio da prefeitura de Jequié
+  declara como fundamento legal o próprio decreto estadual de 27/04/2018. O percentual reservado ao produto
+  varia de 10% em Salvador a 30% em Jequié, Nova Soure e Irará, e o convênio costuma ser assinado antes
+  do ato que cria a margem local. A reação administrativa mais antiga localizada é de 22/12/2023, em Vitória
+  da Conquista, por ''reiteradas queixas e denúncias'' de servidores — quase dois anos antes da liquidação
+  e por motivo alheio a ela. E na capital baiana a rubrica seguia corrente: edital de 19/11/2025, dia
+  seguinte à liquidação, descreve a margem do servidor como incluindo ''10% credcesta''.'
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -198,6 +205,11 @@ source_ids:
 - src-varredura-2026-09-10-redes-de-diarios-municipais-e-djen
 - src-procons-paulistas-2024-2026-reclamacoes-credcesta-pkl-one
 - src-doesp-2026-01-30-peruibe-indefere-troca-de-titularidade-brb-master
+- src-dom-jequie-2021-06-30-extrato-convenio-pkl-one-decreto-estadual
+- src-dom-jequie-2021-06-16-decreto-22726-trinta-por-cento-credicesta
+- src-dom-vitoria-da-conquista-2021-2026-decretos-e-convenio-credcesta
+- src-dom-vitoria-da-conquista-2023-12-22-suspensao-por-queixas-de-servidores
+- src-dom-salvador-2025-11-19-edital-descreve-margem-de-dez-por-cento-credcesta
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

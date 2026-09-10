@@ -52,6 +52,10 @@ open_questions:
   plenas do Cartão Credicesta' por cinco anos, com direito de 'diversificar as finalidades do programa'
   — cláusula que o decreto de 27/04/2018, assinado no dia do leilão, converteria em norma. Em 11/05/2018
   outro decreto determinou que os passivos da empresa fossem assumidos pelo Estado.
+- 'O decreto de 27/04/2018, assinado no dia do leilão que alienou a empresa, não ficou restrito à esfera
+  estadual: é invocado como fundamento legal em convênio municipal baiano de 2021, o da prefeitura de
+  Jequié com a operadora. A norma editada na privatização tornou-se, assim, base jurídica da expansão
+  do produto para as folhas municipais.'
 source_ids:
 - src-doe-ba-decreto-18353-2018
 - src-minhareceita-2026-09-05-ebal-diretoria-atual
@@ -68,9 +72,10 @@ source_ids:
 - src-brasilapi-2026-ngvspe-empreendimentos
 - src-doeba-2015-11-19-edital-001-2015-alienacao-ebal-credicesta
 - src-doeba-2018-04-28-decreto-18353-programa-credicesta
+- src-dom-jequie-2021-06-30-extrato-convenio-pkl-one-decreto-estadual
 jurisdiction: Bahia
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'

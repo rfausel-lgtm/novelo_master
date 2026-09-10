@@ -1,0 +1,33 @@
+id: rev-2026-09-10-lote-155-jequie-vitoria-da-conquista-e-salvador
+kind: revision
+date: '2026-09-10'
+title: 'Lote 155 — Jequié, Vitória da Conquista e Salvador: o município que invoca o decreto do Estado'
+summary: 'Varredura complementar de municípios baianos que produz a ponte documental entre as duas escalas
+  da investigação. O extrato do convênio da prefeitura de Jequié com a operadora declara como fundamento
+  legal o Decreto nº 18.353, de 27 de abril de 2018 — o decreto estadual assinado no dia do leilão da
+  estatal de alimentos, que assegurou ao detentor dos direitos de exploração comercial associar ao cartão
+  serviços creditícios, financeiros e securitários. Um município invoca a norma do Estado como base jurídica
+  do próprio ajuste. O convênio é de 14/06/2021 e o decreto municipal que reservou 30% da remuneração
+  ao programa veio dois dias depois. Vitória da Conquista fornece o dossiê mais completo e o único ciclo
+  inteiro: decreto nominal de 2021 com 20%, convênio em junho, regulamento de 2022 repetindo o nome, suspensão
+  de novas operações em dezembro de 2023 por ''reiteradas queixas e denúncias'' de servidores — a reação
+  administrativa mais antiga localizada em toda a investigação, e por motivo alheio à crise bancária —
+  e, em fevereiro de 2026, decreto que eleva a margem a 55% e substitui a menção nominal por fórmula genérica,
+  com a ressalva de que altera apenas o caput e não revoga expressamente o parágrafo que trazia o nome.
+  Em Salvador, a cautela é o achado: o decreto de 2021 reserva 10% para ''linha de crédito rotativo''
+  mas não nomeia o produto, e a equivalência que a imprensa faz permanece afirmação jornalística; o que
+  está documentado é um edital de 19/11/2025, dia seguinte à liquidação, que descreve a margem do servidor
+  como incluindo ''10% credcesta''. Fecham-se dois padrões: o percentual reservado varia de 10% a 30%
+  conforme o município, e o convênio costuma preceder a norma local, reproduzindo em escala municipal
+  o que já se observara no Paraná e no Espírito Santo.'
+affected_ids:
+- credcesta
+- pkl-one-participacoes
+- empresa-baiana-de-alimentos
+reason: Varredura complementar de municípios baianos de maior porte, com leitura dos decretos de consignação
+  e dos extratos de convênio em PDF de diário oficial.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

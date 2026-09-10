@@ -1,0 +1,23 @@
+id: ev-decreto-de-salvador-nao-nomeia-o-produto-mas-a-rubrica-seguia-viva
+kind: evidence
+classification: D
+proposition: 'Registro de cautela e de achado, na mesma peça. O decreto municipal de Salvador de fevereiro
+  de 2021 reserva 10% da remuneração bruta para ''linha de crédito rotativo'', e a imprensa identifica
+  essa faixa com o produto — mas o texto do ato não o nomeia, e a definição da modalidade remete a inciso
+  de decreto de 2014 que a apuração não conseguiu ler. A equivalência permanece, portanto, afirmação jornalística
+  e não documental. O que está documentado vem de outra peça e é forte: edital de auxílio-bolsa publicado
+  em 19/11/2025, no dia seguinte à liquidação do banco, descreve a margem do servidor como incluindo ''10%
+  credcesta''. A capital baiana tratava a rubrica como corrente naquela data.'
+document_ids:
+- doc-2021-02-05-decreto-33502-salvador-linha-de-credito-rotativo
+source_ids:
+- src-dom-salvador-2021-02-05-decreto-33502-consignacoes
+- src-dom-salvador-2025-11-19-edital-descreve-margem-de-dez-por-cento-credcesta
+excerpt: 30% de margem referente a disponibilidade de 10% credcesta, 10% associação e 10% do benefício
+  de bolsa
+date: '2025-11-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

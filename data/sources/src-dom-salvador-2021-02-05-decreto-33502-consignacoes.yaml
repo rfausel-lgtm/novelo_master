@@ -1,0 +1,24 @@
+id: src-dom-salvador-2021-02-05-decreto-33502-consignacoes
+kind: source
+title: Decreto nº 33.502, de 4 de fevereiro de 2021 — consignações em folha no município de Salvador
+publisher: Diário Oficial do Município do Salvador (BA)
+publication_date: '2021-02-05'
+retrieved_at: '2026-09-10'
+url: http://www.dom.salvador.ba.gov.br/images/stories/pdf/2021/fevereiro/dom-7915-05-02-2021.pdf
+source_type: official_gazette
+summary: 'Ano XXXIV, nº 7.915, página 6. Texto integral lido pela equipe. Fixa teto de 60% da remuneração
+  bruta, repartido em quatro faixas, das quais a última reserva 10% ''para linha de crédito rotativo''.
+  Assinam o prefeito, a secretária de Governo em exercício e o secretário municipal de Gestão. RESSALVA
+  DECISIVA: o texto do decreto não nomeia o produto nem a operadora. A definição de ''linha de crédito
+  rotativo'' remete a inciso de decreto de 2014 que a apuração não conseguiu ler, de modo que a equivalência
+  entre essa faixa e o produto é afirmação de imprensa, não do ato.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura dos PDFs dos diários oficiais municipais baianos)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,30 @@
+id: doc-2021-02-05-decreto-33502-salvador-linha-de-credito-rotativo
+kind: document
+title: Decreto nº 33.502/2021 de Salvador — a faixa de 10% que o texto não nomeia
+doc_type: legislative_act
+date: '2021-02-05'
+source_ids:
+- src-dom-salvador-2021-02-05-decreto-33502-consignacoes
+- src-dom-salvador-2025-11-19-edital-descreve-margem-de-dez-por-cento-credcesta
+summary: 'Caso em que a cautela é o achado. O decreto reparte o teto de 60% da remuneração bruta em quatro
+  faixas e reserva a última, de 10%, para ''linha de crédito rotativo''. A imprensa identifica essa faixa
+  com o produto, mas o texto do ato não o nomeia, e a definição da modalidade remete a inciso de decreto
+  de 2014 que a apuração não conseguiu ler — de modo que a equivalência permanece afirmação jornalística,
+  não documental. O que está documentado, e é forte, vem de outra peça: edital de auxílio-bolsa publicado
+  em 19/11/2025, no dia seguinte à liquidação do banco, descreve a margem do servidor como incluindo ''10%
+  credcesta''. A administração municipal tratava a rubrica como corrente naquela data.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+issuer: Prefeitura Municipal do Salvador (BA)
+url: http://www.dom.salvador.ba.gov.br/images/stories/pdf/2021/fevereiro/dom-7915-05-02-2021.pdf
+reference: Decreto nº 33.502, de 04/02/2021; DOM Salvador nº 7.915, p. 6; e DOM nº 9.158, de 19/11/2025,
+  p. 56
+excerpt: 30% de margem referente a disponibilidade de 10% credcesta, 10% associação e 10% do benefício
+  de bolsa
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
