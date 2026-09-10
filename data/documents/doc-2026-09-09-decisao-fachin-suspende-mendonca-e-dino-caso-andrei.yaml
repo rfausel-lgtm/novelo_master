@@ -1,0 +1,36 @@
+id: doc-2026-09-09-decisao-fachin-suspende-mendonca-e-dino-caso-andrei
+kind: document
+title: Decisão de Fachin que suspende os atos de Mendonça e de Dino sobre o comando da Polícia Federal
+doc_type: judicial_decision
+date: '2026-09-09'
+source_ids:
+- src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
+- src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
+summary: 'Segunda decisão do presidente do Supremo no mesmo dia, e a mais direta sobre o choque entre
+  ministros. Suspende simultaneamente a decisão monocrática de André Mendonça, que afastara o diretor-geral
+  da Polícia Federal e o diretor de Inteligência Policial, e a de Flávio Dino, que os reintegrara no dia
+  seguinte — de modo que nenhum dos dois atos produz efeito. O fundamento declarado descreve o próprio
+  tribunal: ''Delineia-se, assim, quadro de conflitos e sobreposições processuais que configuram grave
+  lesão à ordem pública''. Três feitos são articulados: a petição instaurada pela Presidência, a petição
+  de relatoria de Mendonça, sobrestada, e a suspensão de liminar pedida pela União. Na mesma decisão foi
+  convocada sessão extraordinária do Plenário para 15/09/2026, às 10h, presencial. Divergência registrada
+  entre coberturas: parte da imprensa afirma que o diretor-geral permanece no cargo até a sessão, ao passo
+  que outra registra que ele foi intimado a prestar informações em 48 horas, cabendo à Presidência decidir
+  depois sobre sua permanência.'
+is_official: true
+related_entity_ids:
+- edson-fachin
+- andre-mendonca
+- andrei-rodrigues
+- supremo-tribunal-federal
+issuer_id: edson-fachin
+issuer: Ministro Edson Fachin, presidente do Supremo Tribunal Federal
+url: https://www.migalhas.com.br/quentes/464202/fachin-suspende-decisoes-de-dino-e-mendonca-sobre-andrei-caso-vai-a-plenario
+reference: PET 16.704 (Presidência), PET 16.662 (rel. Mendonça, sobrestada) e SL 1.946 (União)
+excerpt: Delineia-se, assim, quadro de conflitos e sobreposições processuais que configuram grave lesão
+  à ordem pública.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

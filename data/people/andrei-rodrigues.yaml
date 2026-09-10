@@ -115,6 +115,11 @@ open_questions:
 - Foi indicado à Direção-Geral da PF por Flávio Dino (então futuro ministro da Justiça), em coletiva ao
   lado de Lula em dezembro de 2022, com posse em janeiro de 2023 — mesmo Dino que, em 09/09/2026, determinou
   sua reintegração ao cargo após o afastamento decidido por Mendonça.
+- 'Ficou no centro do choque entre gabinetes: afastado por Mendonça em 08/09/2026, reintegrado por Dino
+  em 09/09 e, no mesmo dia, alcançado pela decisão de Fachin que suspendeu os dois atos. As coberturas
+  divergem sobre sua situação imediata — parte afirma que permanece no cargo até a sessão de 15/09, parte
+  registra que foi intimado a prestar informações em 48 horas, cabendo à Presidência decidir depois. A
+  divergência segue aberta.'
 source_ids:
 - src-brasil247-2026-09-08-superintendentes-cogitam-entrega-cargos
 - src-brasildefato-2022-12-09-dino-indica-andrei-legalidade
@@ -163,12 +168,14 @@ source_ids:
 - src-terra-2026-09-08-o-que-acontece-apos-gilmar-pedir-vista
 - src-verificacao-direta-equipe-pet16662-documentos-primarios
 - src-verificacao-direta-equipe-pet16669-decisao-dino-integra
+- src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
+- src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
 full_name: Andrei Augusto Passos Rodrigues
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-10'
 photo:
   path: /fotos/andrei-rodrigues.jpg
   source: Agência Brasil (EBC)

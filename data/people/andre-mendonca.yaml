@@ -60,6 +60,11 @@ open_questions:
 - O levantamento de sigilo que determinou em 1º/09/2026, no caso Master, deflagrou a crise institucional
   que culminou, em 09/09, na retirada da relatoria do Inquérito 4.781 de Alexandre de Moraes — que havia
   se valido daquele inquérito para pedir apuração contra ele.
+- Foi dele o pedido que levou o presidente do tribunal a convocar a sessão extraordinária de 15/09/2026,
+  na qual o Plenário decidirá se autoriza investigação contra Alexandre de Moraes. Seu ato de 08/09, que
+  afastou o diretor-geral da Polícia Federal e o diretor de Inteligência, foi suspenso por Fachin no dia
+  seguinte, junto com a decisão de Dino que o havia neutralizado. A Procuradoria-Geral da República sustenta
+  que ele direcionou a apuração contra Moraes sem autorização prévia do Plenário.
 source_ids:
 - src-apublica-2026-02-13-mendonca-herda-caso
 - src-cnn-2026-09-02-mendonca-admite-encontro
@@ -84,6 +89,8 @@ source_ids:
 - src-stf-2026-adi-7900-decreto-legislativo-79-mt
 - src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
 - src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
+- src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

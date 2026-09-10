@@ -40,6 +40,12 @@ open_questions:
   a relatoria. Anunciou que remeterá os autos à autoridade policial e à Procuradoria-Geral da República
   para denúncia ou arquivamento, o que encaminha a um desfecho procedimento aberto desde março de 2019.
   Pendente: obter a íntegra da decisão, que a equipe conhece apenas por cobertura jornalística.'
+- 'Praticou três atos no mesmo 09/09/2026: suspendeu simultaneamente as decisões de Mendonça e de Dino
+  sobre o comando da Polícia Federal, retirou de Moraes a relatoria do Inquérito 4.781 e convocou sessão
+  extraordinária do Plenário para 15/09, às 10h. O efeito combinado é retirar dos gabinetes individuais
+  as três frentes em que a disputa vinha sendo travada por decisão monocrática. Pendente: obter as íntegras,
+  hoje conhecidas apenas por cobertura jornalística, e estabelecer se a sessão de 15/09 tem um item ou
+  dois.'
 source_ids:
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
@@ -48,6 +54,8 @@ source_ids:
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
 - src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
 - src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
+- src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
 full_name: Luiz Edson Fachin
 review_status: published
 reviewer: orquestrador

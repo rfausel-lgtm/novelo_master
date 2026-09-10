@@ -1,0 +1,23 @@
+id: ev-tres-decisoes-de-fachin-no-mesmo-dia-reorganizam-a-crise
+kind: evidence
+classification: I
+proposition: 'Os atos de 09/09/2026 formam um conjunto com desenho reconhecível. No mesmo dia, o presidente
+  do Supremo suspendeu os dois atos monocráticos que se anulavam sobre o comando da Polícia Federal, retirou
+  de Alexandre de Moraes a relatoria do Inquérito 4.781 e convocou o Plenário para 15/09. O efeito combinado
+  é retirar dos gabinetes individuais — de Mendonça, de Dino e de Moraes — as três frentes em que a disputa
+  vinha sendo travada por decisão monocrática, e devolvê-las ao colegiado ou à Presidência. Trata-se de
+  leitura do conjunto, não de motivação declarada: cada decisão invoca fundamento próprio, e nenhuma delas
+  formula juízo sobre a conduta dos ministros envolvidos.'
+document_ids: []
+source_ids:
+- src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
+- src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
+inference_basis: 'Encadeamento dos três atos do presidente do tribunal na mesma data, cada um lido em
+  cobertura independente: a suspensão simultânea dos atos de Mendonça e de Dino, a revogação da designação
+  de Moraes no Inquérito 4.781 e a convocação da sessão extraordinária.'
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

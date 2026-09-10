@@ -1,0 +1,37 @@
+id: evt-2026-09-15-sessao-extraordinaria-stf-investigacao-contra-moraes
+kind: event
+title: Sessão extraordinária do Plenário do STF sobre a abertura de investigação contra Moraes
+event_type: judicial_decision
+date: '2026-09-15'
+date_precision: day
+participant_ids:
+- edson-fachin
+- alexandre-de-moraes
+- andre-mendonca
+- supremo-tribunal-federal
+- paulo-gonet
+description: Sessão extraordinária convocada por Fachin em 09/09/2026, a pedido de André Mendonça, marcada
+  para 15/09/2026 às 10h, presencial. Segundo a cobertura, o Plenário decidirá se autoriza a abertura
+  de investigação contra Alexandre de Moraes, com base no relatório preliminar de 218 páginas da Polícia
+  Federal produzido sobre o material do celular de Daniel Vorcaro — o que seria a primeira deliberação
+  do colegiado sobre abrir inquérito contra um de seus integrantes. A Procuradoria-Geral da República
+  sustenta a nulidade do relatório, por entender que a apuração foi direcionada contra o ministro sem
+  autorização prévia do Plenário. Parte da cobertura descreve a mesma sessão como destinada às decisões
+  conflitantes sobre o comando da Polícia Federal; se são dois itens da mesma pauta, o acervo ainda não
+  estabeleceu. Evento futuro na data deste registro.
+evidence_class: C
+status: unverified
+evidence_ids:
+- ev-plenario-do-stf-decide-em-15-09-se-autoriza-investigacao-contra-moraes
+- ev-pgr-defende-nulidade-do-relatorio-da-pf-sobre-moraes
+source_ids:
+- src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
+- src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
+document_ids:
+- doc-2026-09-09-decisao-fachin-suspende-mendonca-e-dino-caso-andrei
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
