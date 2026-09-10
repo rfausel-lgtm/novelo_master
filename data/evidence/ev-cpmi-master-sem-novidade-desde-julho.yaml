@@ -1,0 +1,17 @@
+id: ev-cpmi-master-sem-novidade-desde-julho
+kind: evidence
+classification: I
+proposition: Não foi localizado nenhum desenvolvimento novo da CPMI do Banco Master (leitura do requerimento,
+  decisão sobre a relatoria de Nunes Marques nos mandados de segurança pendentes) desde a última checagem
+  da equipe em 13/07/2026 (lote 98) até 07/09/2026 — a comissão segue travada sem novidade relevante.
+document_ids: []
+source_ids:
+- src-ncnews-2026-09-07-crise-moraes-mendonca-fraturas-stf
+inference_basis: Busca dirigida por desenvolvimentos de setembro de 2026 não retornou nenhuma fonte tratando
+  especificamente de avanço na instalação da CPMI ou de decisão nova sobre os mandados de segurança já
+  mapeados no corpus.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -22,24 +22,80 @@ cited_position:
     privados entre terceiros.
   source_ids:
   - src-cnn-2026-09-02-mendonca-admite-encontro
+- kind: version
+  summary: Após a decisão de Dino que o neutralizou, afirmou que a PF produzia 'relatórios paralelos'
+    sobre sua própria atuação no caso Master, chamando a prática de 'arapongagem institucional'.
+  source_ids:
+  - src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
+  date: '2026-09-09'
 open_questions:
 - O corpus não contém avaliação oficial sobre impedimento ou suspeição do relator em razão do encontro
   de março de 2025.
+- Em 08/09/2026, na Pet 16.662 (sua própria relatoria), determinou o afastamento cautelar do diretor-geral
+  da PF — decisão tomada em paralelo à Pet 16.704, que o presidente do STF Fachin havia avocado cinco
+  dias antes para tratar da mesma crise; não há, nas fontes disponíveis, manifestação de Fachin especificamente
+  sobre essa aparente sobreposição de procedimentos.
+- Formalizou, em 06/09/2026, pedido para que o plenário do STF — não apenas Fachin — julgue o caso da
+  acusação de Moraes contra ele (art. 5º RISTF) — sem data de pauta definida.
+- Sua decisão de afastamento de Andrei Rodrigues (08/09/2026) foi neutralizada, um dia depois, por decisão
+  de Flávio Dino (Pet 16.669), que a considerou fundada em pedido de parte ilegítima (Partido Novo) e
+  como usurpação da competência do Plenário — chegando a caracterizá-la como possível 'decisão em causa
+  própria', por Mendonça figurar como mencionado nos relatórios objeto da Pet 16.704, da qual é parte.
+  Dino citou, como agravante, uma reunião entre Mendonça e Vorcaro 'nas dependências de uma empresa privada'
+  — fato já registrado no corpus desde março de 2025 (Instituto ITER, classe A), sem juízo de valor antecipado
+  por parte de Dino.
+- Um dia antes da decisão de Dino que reintegrou Andrei, a AGU (Jorge Messias) já havia pedido a suspensão
+  da decisão de afastamento diretamente a Fachin. Apuração da Poder360 (09/09/2026) afirma que houve,
+  na noite anterior, articulação paralela entre integrantes do governo Lula e Dino para reverter a decisão
+  — mas busca por corroboração independente dessa articulação específica (fora da Poder360) não localizou
+  outra fonte até a data desta apuração; permanece registrada como apuração exclusiva de um único veículo,
+  não fato confirmado por múltiplas fontes.
+- 'Homologou em 09/09/2026, na condição de relator, a colaboração premiada de Antonio Carlos Freixo Júnior.
+  Nota de contexto para leitura futura, registrada para evitar inferência indevida: é também o relator
+  da ADI 7900 e da ADPF 1306, julgadas em abril de 2026, que derrubaram as medidas de Mato Grosso restritivas
+  ao cartão consignado de benefício, a pedido de entidades do sistema financeiro. A coincidência de relatoria
+  tem pouco peso inferencial: a distribuição de ações de controle concentrado é por sorteio, o mérito
+  das duas ações foi decidido por unanimidade do Plenário e o fundamento foi de competência privativa
+  da União para legislar sobre direito civil e política de crédito, matéria alheia ao objeto criminal.'
+- O levantamento de sigilo que determinou em 1º/09/2026, no caso Master, deflagrou a crise institucional
+  que culminou, em 09/09, na retirada da relatoria do Inquérito 4.781 de Alexandre de Moraes — que havia
+  se valido daquele inquérito para pedir apuração contra ele.
+- Foi dele o pedido que levou o presidente do tribunal a convocar a sessão extraordinária de 15/09/2026,
+  na qual o Plenário decidirá se autoriza investigação contra Alexandre de Moraes. Seu ato de 08/09, que
+  afastou o diretor-geral da Polícia Federal e o diretor de Inteligência, foi suspenso por Fachin no dia
+  seguinte, junto com a decisão de Dino que o havia neutralizado. A Procuradoria-Geral da República sustenta
+  que ele direcionou a apuração contra Moraes sem autorização prévia do Plenário.
 source_ids:
-- src-stf-2026-03-04-prisao-preventiva-vorcaro
-- src-stf-2026-04-16-prisao-ex-presidente-brb
-- src-stf-2026-05-07-nova-fase-ciro-nogueira
-- src-cnn-2026-09-02-mendonca-admite-encontro
 - src-apublica-2026-02-13-mendonca-herda-caso
+- src-cnn-2026-09-02-mendonca-admite-encontro
+- src-exame-2026-09-08-agu-messias-pede-suspensao-mendonca-fachin
+- src-migalhas-2026-09-03-fachin-cobra-explicacoes-integra
+- src-migalhas-2026-09-08-mendonca-afasta-andrei-pet16662
+- src-migalhas-2026-09-09-dino-reintegra-andrei-pf
+- src-ncnews-2026-09-07-crise-moraes-mendonca-fraturas-stf
+- src-ndmais-2026-09-02-vorcaro-alega-tortura
 - src-poder360-2026-07-09-operacao-thiago-miranda
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-09-03-novo-pede-prisao-de-andrei
-- src-ndmais-2026-09-02-vorcaro-alega-tortura
+- src-poder360-2026-09-06-mendonca-libera-caso-julgamento-plenario
+- src-poder360-2026-09-08-mendonca-afasta-andrei
+- src-stf-2026-03-04-prisao-preventiva-vorcaro
+- src-stf-2026-04-16-prisao-ex-presidente-brb
+- src-stf-2026-05-07-nova-fase-ciro-nogueira
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
+- src-verificacao-direta-equipe-pet16669-decisao-dino-integra
+- src-metropoles-2026-09-08-lula-recebe-agu-alvorada-decisao-mendonca
+- src-timesbrasil-2026-09-09-mendonca-homologa-delacao-mineiro
+- src-stf-2026-adi-7900-decreto-legislativo-79-mt
+- src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
+- src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-10'
 photo:
   path: /fotos/andre-mendonca.jpg
   source: Wikimedia Commons

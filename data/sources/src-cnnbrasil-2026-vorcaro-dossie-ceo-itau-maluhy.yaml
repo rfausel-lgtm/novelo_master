@@ -1,0 +1,20 @@
+id: src-cnnbrasil-2026-vorcaro-dossie-ceo-itau-maluhy
+kind: source
+title: 'Vorcaro encomendou dossiê contra CEO do Itaú: ''Está me causando problema'''
+publisher: CNN Brasil
+publication_date: '2026'
+retrieved_at: '2026-09-09'
+url: https://www.cnnbrasil.com.br/politica/vorcaro-encomendou-dossie-contra-ceo-do-itau-esta-me-causando-problema/
+source_type: press
+summary: Detalha o dossiê encomendado sobre Milton Maluhy Filho, CEO do Itaú Unibanco, e sua esposa Camila
+  Moretti Maluhy. Procurado pela reportagem, o Itaú Unibanco informou que não iria comentar.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

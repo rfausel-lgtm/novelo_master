@@ -1,0 +1,19 @@
+id: src-gazetadopovo-2026-03-11-quem-sao-alvos-dossie
+kind: source
+title: Quem são os alvos do dossiê que revela fraudes no Banco Master
+publisher: Gazeta do Povo Lab e Renan Ramalho
+publication_date: '2026-03-11'
+retrieved_at: '2026-09-06'
+url: https://www.gazetadopovo.com.br/republica/quem-sao-os-alvos-do-dossie-que-revela-fraudes-no-banco-master/
+source_type: press
+summary: Matéria complementar sobre os alvos nomeados no mesmo documento apócrifo.
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

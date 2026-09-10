@@ -1,0 +1,23 @@
+id: doc-2026-06-18-decisao-mendonca-9afase-busca-wagner
+kind: document
+title: Decisão de Mendonça autorizando busca e apreensão contra Jaques Wagner na 9ª fase da Compliance
+  Zero
+doc_type: judicial_decision
+date: '2026-06-18'
+source_ids:
+- src-stfnoticias-2026-06-18-9afase-autoriza-sp-ba-df
+summary: Autoriza busca e apreensão e medidas cautelares (incluindo restrição de atividades econômicas)
+  contra Jaques Wagner, com apreensão de US$ 55 mil e € 33 mil em seus endereços.
+is_official: true
+related_entity_ids:
+- jaques-wagner
+- andre-mendonca
+issuer_id: andre-mendonca
+issuer: André Mendonça (STF)
+date_precision: day
+url: https://noticias.stf.jus.br/postsnoticias/stf-autoriza-9a-fase-da-operacao-compliance-zero-em-sp-ba-e-df/
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

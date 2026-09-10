@@ -1,0 +1,41 @@
+id: flavia-peres
+kind: person
+name: Flávia Peres
+category: politician
+role: Ex-deputada federal (DF); ex-secretária de Governo do governo Bolsonaro
+positions: []
+summary: Ex-deputada federal pelo Distrito Federal e ex-titular da Secretaria de Governo no governo Jair
+  Bolsonaro, então usando o nome Flávia Arruda. Casou-se, em janeiro de 2024, na Ilha dos Frades (Salvador),
+  com Augusto Ferreira Lima — ex-CEO e ex-sócio do Banco Master, hoje em prisão domiciliar na Operação
+  Compliance Zero. É presidente do Instituto Terra Firme, associação privada sem fins lucrativos ligada
+  às estruturas empresariais do marido.
+why_in_novelo: É a atual esposa de Augusto Lima, figura política de projeção nacional (ex-deputada federal,
+  ex-ministra de fato como titular da Secretaria de Governo) — conexão relevante para mapear a rede de
+  relações do ex-sócio do Master, sem que isso implique qualquer imputação a ela própria.
+cited_position:
+- kind: denial
+  summary: 'Negou formalmente, em nota à Metrópoles, qualquer relação financeira entre o Instituto Terra
+    Firme (que preside) e o Banco Master: ''Não há qualquer relação financeira que envolva repasses, dependência
+    econômica ou subordinação entre as instituições.'''
+  source_ids:
+  - src-metropoles-2026-04-09-master-repassou-ong-flavia-peres-receita
+  by_id: flavia-peres
+  date: '2026-04-09'
+open_questions:
+- A sede do Instituto Terra Firme, que preside, foi alvo de busca e apreensão da PF em 18/06/2026 (9ª
+  fase da Compliance Zero), com foco declarado na relação entre Augusto Lima e o senador Jaques Wagner
+  — nenhuma fonte consultada a aponta como investigada pessoalmente.
+- Nega formalmente qualquer relação financeira entre o Instituto Terra Firme e o Banco Master, apesar
+  de dado da Receita Federal citado pela imprensa apontar repasse de R$ 457,2 mil em dois anos — o corpus
+  registra as duas versões sem tomar partido.
+source_ids:
+- src-folhadealagoas-2026-06-18-instituto-terra-firme-busca-pf
+- src-metropoles-2026-04-09-master-repassou-ong-flavia-peres-receita
+- src-metropoles-flavia-peres-casamento-augusto-lima
+- src-minhareceita-2026-09-instituto-terra-firme-cnpj
+- src-terrabrasilnoticias-2026-06-18-instituto-flavia-peres-buscas-pf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

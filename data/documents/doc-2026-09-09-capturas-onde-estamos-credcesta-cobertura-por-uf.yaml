@@ -1,0 +1,31 @@
+id: doc-2026-09-09-capturas-onde-estamos-credcesta-cobertura-por-uf
+kind: document
+title: Capturas arquivadas do 'Onde estamos' do CredCesta — a cobertura por unidade da federação
+doc_type: official_report
+date: '2026-09-09'
+source_ids:
+- src-webarchive-2022-05-24-credcesta-onde-estamos-doze-ufs
+- src-webarchive-2024-02-21-credcesta-onde-estamos-vinte-e-uma-ufs
+summary: 'Fecha uma lacuna que o acervo carregava desde o início: a lista dos estados onde o CredCesta
+  operou nunca foi divulgada, mas o próprio site a expunha. O seletor ''Convênios Atendidos'' listava
+  apenas as unidades da federação com convênio ativo, e duas capturas foram recuperadas e lidas diretamente
+  pela equipe. Em 24/05/2022 havia doze: AM, AP, BA, GO, MA, MS, PA, PE, PR, RJ, SC e SE. Em 21/02/2024
+  já eram 21 mais a entrada federal ''BR'': acrescentam-se ES, MG, MT, PB, PI, RN, RO, SP e TO. Permaneciam
+  ausentes AC, AL, CE, DF, RR e RS. A lista tem um limite importante: mede convênios do produto, não da
+  PKL One — no Amapá, por exemplo, a operadora foi expressamente inabilitada em 2023 e quem se habilitou
+  foi o Banco Master.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+- banco-master
+issuer: Levantamento da equipe sobre capturas do Internet Archive
+url: http://web.archive.org/web/20240221191119id_/https://www.credcesta.com.br/onde-estamos/
+reference: Capturas de 24/05/2022 e 21/02/2024 da página credcesta.com.br/onde-estamos
+excerpt: AM · AP · BA · BR · ES · GO · MA · MG · MS · MT · PA · PB · PE · PI · PR · RJ · RN · RO · SC
+  · SE · SP · TO
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

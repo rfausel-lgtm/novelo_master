@@ -1,0 +1,20 @@
+id: ev-mansur-alega-vorcaro-dono-real-jaguar-cayman
+kind: evidence
+classification: A
+proposition: Segundo a proposta de delação de João Carlos Mansur, o Jaguar Multimarket Fund Ltd. (Ilhas
+  Cayman), que recebeu R$ 494 milhões do Banco Master e tem Benjamim Botelho de Almeida como beneficiário
+  formal, teria Daniel Vorcaro como 'verdadeiro dono' — alegação do próprio delator, parte interessada
+  em barganhar benefícios processuais, sem corroboração documental independente localizada pela equipe.
+  Possível, mas não confirmada, sobreposição com o fundo 'Jaguar Investments' já mapeado no corpus (mesmo
+  beneficiário formal, Botelho, na condenação da CVM sobre o Brazil Realty FII) — nenhum documento localizado
+  une as duas menções numa só entidade.
+document_ids: []
+source_ids:
+- src-bahianoticias-2026-08-26-proposta-delacao-mansur-wagner-acmneto
+attributed_to: Proposta de colaboração premiada de João Carlos Mansur, conforme Bahia Notícias, 26/08/2026
+date: '2026-08-26'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,22 @@
+id: ev-maranhao-nao-consta-lista-18-rpps-master
+kind: evidence
+classification: I
+proposition: Busca dirigida não localizou o Maranhão (estado ou qualquer município) na lista oficial de
+  18 entes de RPPS que investiram R$ 1,876 bilhão em letras financeiras do Banco Master (CadPrev/Ministério
+  da Previdência, já mapeada no corpus — ver ev-dezoito-rpps-e-1876-bilhao), nem em nenhuma das consultorias
+  previdenciárias já investigadas em outros estados (Crédito e Mercado, A&M Consultoria). Também não localizada
+  manifestação do governador Carlos Brandão, da Assembleia Legislativa do MA, ou de sindicatos de servidores
+  estaduais/municipais sobre perdas relacionadas ao Master, nem caso público de pessoa física maranhense
+  lesada. Resultado negativo consistente, não prova de ausência absoluta — reflete o alcance da busca
+  realizada.
+document_ids: []
+source_ids: []
+inference_basis: Busca dirigida ('Banco Master' + 'Maranhão', 'IPREV Maranhão', consultorias já mapeadas)
+  não retornou nenhuma ocorrência positiva de exposição financeira do estado ou de seus municípios ao
+  Master, nem de manifestação institucional local — inferência de ausência de exposição relevante, mantida
+  como classe I por não ser verificação exaustiva de todos os 217 municípios maranhenses.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -13,13 +13,15 @@ import type { LoadIssue } from "./load";
  *  - status verified com classe A ou I (alegação/inferência não é fato verificado);
  *  - evidence_class do registro superior à melhor evidência ligada;
  *  - relação D sem documento primário (direto ou via evidência);
- *  - from_id == to_id; documento não rastreável; sequência com causalidade "comprovada" sem nexo documental.
+ *  - from_id == to_id; documento não rastreável; sequência com causalidade "comprovada" sem nexo documental;
+ *  - duas pessoas ou organizações com rótulo idêntico (nome ou alias de uma igual ao da outra).
  *
  * AVISOS (não bloqueiam; em modo estrito bloqueiam apenas registros publicados):
  *  - vocabulário imputativo sem qualificador de alegação;
  *  - agente sem cited_position; claim sem counter_position ou sem adversarial_review;
  *  - fonte sem verification; fonte de rede social/blog;
- *  - prefixo de id fora da convenção.
+ *  - prefixo de id fora da convenção;
+ *  - tokens de um nome contidos no de outro registro do mesmo tipo, sem `distinct_from` declarado.
  *
  * INFO (nunca bloqueia): relação sem data própria para a time machine.
  */
@@ -95,6 +97,58 @@ function idsOf(corpus: Corpus): Map<string, string> {
   return m;
 }
 
+/**
+ * Duplicação de entidade: dois registros para a mesma pessoa ou organização.
+ *
+ * Aconteceu no lote 123 — `felipe-vorcaro` ao lado de `felipe-cancado-vorcaro`, `antonio-freixo` ao
+ * lado de `antonio-carlos-freixo-junior`, e `sefer-investimentos` ao lado de `foco-dtvm`, que já
+ * trazia "Sefer Investimentos" como alias. As sessões geram lotes em paralelo, sem enxergar o que a
+ * outra criou, e o resultado é um nó paralelo para a mesma entidade real.
+ *
+ * Duas regras, com forças diferentes porque a certeza é diferente:
+ *
+ * 1. RÓTULO IDÊNTICO depois de normalizar (nome ou alias de um igual a nome ou alias do outro) é
+ *    erro. Foi o caso Sefer/Foco, que nenhuma comparação de nome pegaria — os nomes não se parecem.
+ * 2. TOKENS CONTIDOS (todas as palavras de um rótulo aparecem no outro) é aviso, porque é a forma
+ *    dos casos Felipe e Freixo, que a similaridade de texto não pega: "Antonio Freixo" e "Antônio
+ *    Carlos Freixo Júnior" batem 0,70, abaixo de qualquer limiar razoável.
+ *
+ * A regra 2 não distingue duplicata de parentesco, e nenhuma regra lexical distingue: "Kevin Nunes
+ * Marques" contido em "Nunes Marques" é pai e filho, com a mesma assinatura de "Luiz Bull" contido
+ * em "Luiz Antônio Bull", que é a mesma pessoa duas vezes. Por isso a saída é editorial:
+ * `distinct_from` no registro declara "são entidades diferentes" e silencia o par.
+ */
+const RUIDO_ROTULO = new Set([
+  "de",
+  "da",
+  "do",
+  "das",
+  "dos",
+  "e",
+  "ltda",
+  "sa",
+  "eireli",
+  "me",
+  "epp",
+  "cia",
+]);
+
+function normalizarRotulo(rotulo: string): string {
+  return rotulo
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9 ]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function tokensDoRotulo(rotulo: string): string[] {
+  return normalizarRotulo(rotulo)
+    .split(" ")
+    .filter((token) => token && !RUIDO_ROTULO.has(token));
+}
+
 const AGENT = ["person", "organization"];
 
 export function lintCorpus(corpus: Corpus): LoadIssue[] {
@@ -108,7 +162,12 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     issues.push({ level: "warning", file, message, published });
   const info = (file: string, message: string) => issues.push({ level: "info", file, message });
 
-  const checkRefs = (file: string, field: string, refs: string[] | undefined, allowedKinds?: string[]) => {
+  const checkRefs = (
+    file: string,
+    field: string,
+    refs: string[] | undefined,
+    allowedKinds?: string[],
+  ) => {
     for (const ref of refs ?? []) {
       const kind = ids.get(ref);
       if (!kind) {
@@ -130,19 +189,29 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     }
   };
 
-  const checkImputation = (file: string, field: string, text: string | undefined, published: boolean) => {
+  const checkImputation = (
+    file: string,
+    field: string,
+    text: string | undefined,
+    published: boolean,
+  ) => {
     if (!text) return;
     const lower = text.toLowerCase();
     for (const term of IMPUTATIVE_TERMS) {
       if (lower.includes(term) && !QUALIFIERS.some((q) => lower.includes(q))) {
-        warn(file, `${field}: termo imputativo "${term}" sem qualificador de alegação/atribuição`, published);
+        warn(
+          file,
+          `${field}: termo imputativo "${term}" sem qualificador de alegação/atribuição`,
+          published,
+        );
       }
     }
   };
 
   const checkPrefix = (file: string, kind: string, id: string, published: boolean) => {
     const re = ID_PREFIX[kind];
-    if (re && !re.test(id)) warn(file, `id "${id}" fora da convenção de prefixo para ${kind}`, published);
+    if (re && !re.test(id))
+      warn(file, `id "${id}" fora da convenção de prefixo para ${kind}`, published);
   };
 
   /** Verifica status vs classe e coerência com evidências ligadas; devolve as evidências ligadas. */
@@ -155,13 +224,18 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     if (status === "verified" && (cls === "A" || cls === "I")) {
       err(file, `status verified incompatível com classe ${cls}`);
     }
-    const linked = evidenceIds.map((id) => evidence.get(id)).filter((e): e is NonNullable<typeof e> => !!e);
+    const linked = evidenceIds
+      .map((id) => evidence.get(id))
+      .filter((e): e is NonNullable<typeof e> => !!e);
     if (linked.length > 0) {
       const best = Math.max(...linked.map((e) => RANK[e.classification]));
       if (RANK[cls] > best) err(file, `evidence_class ${cls} superior à melhor evidência ligada`);
     }
     if (cls === "I" && !linked.some((e) => e.classification === "I" && e.inference_basis)) {
-      err(file, "classe I exige ao menos uma evidência de classe I com inference_basis (raciocínio e limite explícitos)");
+      err(
+        file,
+        "classe I exige ao menos uma evidência de classe I com inference_basis (raciocínio e limite explícitos)",
+      );
     }
     return linked;
   };
@@ -177,9 +251,14 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     const file = `sources/${s.id}.yaml`;
     const pub = s.review_status === "published";
     checkPrefix(file, "source", s.id, pub);
-    if (!s.verification) warn(file, "fonte sem bloco verification (Source Verification Agent)", pub);
+    if (!s.verification)
+      warn(file, "fonte sem bloco verification (Source Verification Agent)", pub);
     if (s.source_type === "social_media" || s.source_type === "blog") {
-      warn(file, `fonte ${s.source_type}: usar apenas como pista, salvo publicação da própria pessoa`, pub);
+      warn(
+        file,
+        `fonte ${s.source_type}: usar apenas como pista, salvo publicação da própria pessoa`,
+        pub,
+      );
     }
   }
 
@@ -225,7 +304,10 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
    * Uma coordenada é uma afirmação sobre onde algo fica, e é forma precisa de endereço. Precisão
    * melhor que o município exige fonte, e residência é vedada pela política editorial.
    */
-  const checkPlace = (file: string, place: { precision: string; kind: string; source_ids: string[] } | undefined) => {
+  const checkPlace = (
+    file: string,
+    place: { precision: string; kind: string; source_ids: string[] } | undefined,
+  ) => {
     if (!place) return;
     checkRefs(file, "place.source_ids", place.source_ids, ["source"]);
     /*
@@ -234,7 +316,10 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
      * aeroporto não é fato em disputa, e exigir fonte ali só produziria fonte de fachada.
      */
     if (place.kind === "property" && place.source_ids.length === 0) {
-      err(file, "lugar do tipo imóvel exige place.source_ids: qual terreno é, num caso investigado, é afirmação contestável");
+      err(
+        file,
+        "lugar do tipo imóvel exige place.source_ids: qual terreno é, num caso investigado, é afirmação contestável",
+      );
     }
   };
 
@@ -252,7 +337,8 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     checkImputation(file, "why_in_novelo", p.why_in_novelo, pub);
     if (p.kind === "person") {
       for (const pos of p.positions) {
-        if (pos.organization_id) checkRefs(file, "positions.organization_id", [pos.organization_id], ["organization"]);
+        if (pos.organization_id)
+          checkRefs(file, "positions.organization_id", [pos.organization_id], ["organization"]);
         checkRefs(file, "positions.source_ids", pos.source_ids, ["source"]);
       }
     }
@@ -271,7 +357,10 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     checkCited(file, "cited_position", ev.cited_position);
     const support = ev.evidence_ids.length + ev.source_ids.length + ev.document_ids.length > 0;
     if (!support && ev.evidence_class !== "I") {
-      err(file, "evento sem evidence_ids, source_ids nem document_ids (só permitido para classe I)");
+      err(
+        file,
+        "evento sem evidence_ids, source_ids nem document_ids (só permitido para classe I)",
+      );
     }
     checkClassAndStatus(file, ev.evidence_class, ev.status, ev.evidence_ids);
     checkImputation(file, "description", ev.description, pub);
@@ -312,7 +401,10 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     if (t.from_id === t.to_id) err(file, "from_id igual a to_id");
     const support = t.evidence_ids.length + t.source_ids.length + t.document_ids.length > 0;
     if (!support && t.evidence_class !== "I") {
-      err(file, "transação sem evidence_ids, source_ids nem document_ids (só permitido para classe I)");
+      err(
+        file,
+        "transação sem evidence_ids, source_ids nem document_ids (só permitido para classe I)",
+      );
     }
     checkClassAndStatus(file, t.evidence_class, t.status, t.evidence_ids);
     checkImputation(file, "description", t.description, pub);
@@ -335,22 +427,33 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
 
     if (r.from_id === r.to_id) err(file, "from_id igual a to_id");
 
-    const hasSupport = r.evidence_ids.length > 0 || r.source_ids.length > 0 || r.document_ids.length > 0;
+    const hasSupport =
+      r.evidence_ids.length > 0 || r.source_ids.length > 0 || r.document_ids.length > 0;
     if (!hasSupport && r.evidence_class !== "I") {
-      err(file, "relação sem evidence_ids/source_ids/document_ids e não classificada como inferência (I)");
+      err(
+        file,
+        "relação sem evidence_ids/source_ids/document_ids e não classificada como inferência (I)",
+      );
     }
     const linked = checkClassAndStatus(file, r.evidence_class, r.status, r.evidence_ids);
     if (r.evidence_class === "I" && r.event_ids.length === 0 && !hasSupport) {
       err(file, "inferência (I) precisa apontar para event_ids ou evidências que a fundamentam");
     }
     if (r.relationship_type === "investigative_allegation" && r.evidence_class === "D") {
-      warn(file, "alegação investigativa classificada como D: confirme se o documento prova o fato ou apenas registra a alegação", pub);
+      warn(
+        file,
+        "alegação investigativa classificada como D: confirme se o documento prova o fato ou apenas registra a alegação",
+        pub,
+      );
     }
     if (r.relationship_type === "intermediary" && !r.via_id) {
       warn(file, "relação de intermediação sem via_id", pub);
     }
     if (!r.start_date && r.event_ids.length === 0) {
-      info(file, "relação sem start_date nem event_ids: não aparecerá na time machine com data própria");
+      info(
+        file,
+        "relação sem start_date nem event_ids: não aparecerá na time machine com data própria",
+      );
     }
     if (r.evidence_class === "D") {
       const docViaEvidence = linked.some((e) => e.document_ids.length > 0);
@@ -386,7 +489,8 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     }
     checkClassAndStatus(file, c.classification, c.status, c.evidence_ids);
     if (pub && !c.adversarial_review) warn(file, "claim publicado sem adversarial_review", pub);
-    if (c.counter_position.length === 0) warn(file, "claim sem counter_position (contraditório)", pub);
+    if (c.counter_position.length === 0)
+      warn(file, "claim sem counter_position (contraditório)", pub);
     checkImputation(file, "statement", c.statement, pub);
   }
 
@@ -403,6 +507,77 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     }
     checkImputation(file, "description", s.description, pub);
   }
+
+  /* ---- duplicação de entidade ---- */
+  const checarDuplicatas = (
+    pasta: string,
+    registros: {
+      id: string;
+      name: string;
+      aliases: string[];
+      distinct_from: string[];
+      review_status?: string;
+    }[],
+  ) => {
+    const preparados = registros.map((r) => ({
+      id: r.id,
+      arquivo: `${pasta}/${r.id}.yaml`,
+      rotulos: [r.name, ...r.aliases],
+      distintos: new Set(r.distinct_from),
+      publicado: r.review_status === "published",
+    }));
+
+    for (const r of preparados) {
+      checkRefs(r.arquivo, "distinct_from", [...r.distintos], AGENT);
+    }
+
+    for (let i = 0; i < preparados.length; i++) {
+      for (let j = i + 1; j < preparados.length; j++) {
+        const a = preparados[i];
+        const b = preparados[j];
+        if (a.distintos.has(b.id) || b.distintos.has(a.id)) continue;
+
+        const normA = new Map(a.rotulos.map((r) => [normalizarRotulo(r), r] as const));
+        const igual = b.rotulos.find((r) => normA.has(normalizarRotulo(r)));
+        if (igual) {
+          err(
+            a.arquivo,
+            `rótulo idêntico ao de "${b.id}" ("${igual}"): são o mesmo registro? Se não forem, ` +
+              `declare distinct_from: [${b.id}]`,
+          );
+          continue;
+        }
+
+        const contido = a.rotulos.flatMap((ra) =>
+          b.rotulos.flatMap((rb) => {
+            const ta = tokensDoRotulo(ra);
+            const tb = tokensDoRotulo(rb);
+            if (ta.length < 2 || tb.length < 2) return [];
+            const [curto, longo] = ta.length <= tb.length ? [ta, tb] : [tb, ta];
+            return curto.every((token) => longo.includes(token)) ? [`"${ra}" / "${rb}"`] : [];
+          }),
+        )[0];
+        if (contido) {
+          /*
+           * Bloqueia o modo estrito desde 09/09, quando os quatro casos que a medição inicial
+           * encontrou foram resolvidos e o acervo passou a fechar em zero: dois eram duplicatas de
+           * verdade (luiz-bull e banco-pleno) e dois eram pares legítimos, hoje declarados.
+           *
+           * Basta um dos dois lados estar publicado para barrar: um rascunho que duplica registro
+           * publicado é o problema antes de acontecer, e é exatamente quando sai barato desfazer.
+           */
+          warn(
+            a.arquivo,
+            `possível duplicata de "${b.id}" (${contido}): funda os registros ou declare ` +
+              `distinct_from: [${b.id}]`,
+            a.publicado || b.publicado,
+          );
+        }
+      }
+    }
+  };
+  checarDuplicatas("people", corpus.people);
+  checarDuplicatas("organizations", corpus.organizations);
 
   return issues;
 }

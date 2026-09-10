@@ -1,0 +1,22 @@
+id: src-maisretorno-2026-09-diamond-fip-multiestrategia-cadastro
+kind: source
+title: Cadastro do fundo Diamond FIP Multiestratégia
+publisher: maisretorno.com (agregador de dados cadastrais da CVM)
+publication_date: 2026-09
+retrieved_at: '2026-09-06'
+url: https://maisretorno.com/fundo/diamond-fip-multiestrategia
+source_type: corporate_registry
+summary: CNPJ 29.253.771/0001-72, administrado e gerido pela América PE Administração de Recursos, com
+  exatamente 2 cotistas, patrimônio líquido de R$ 193,26 milhões, primeira cota em 31/07/2018 — a contagem
+  de 2 cotistas é estruturalmente consistente com a descrição de dois fundos controladores (Gardênia e
+  Fortress) na reportagem do UOL. Não expõe a identidade nominal dos cotistas.
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

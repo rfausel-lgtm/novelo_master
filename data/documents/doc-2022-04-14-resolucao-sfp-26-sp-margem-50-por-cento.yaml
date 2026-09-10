@@ -1,0 +1,30 @@
+id: doc-2022-04-14-resolucao-sfp-26-sp-margem-50-por-cento
+kind: document
+title: Resolução SFP nº 26/2022 (SP) — a margem consignável salta de 35% para 50%
+doc_type: administrative_act
+date: '2022-04-14'
+source_ids:
+- src-doesp-2022-04-15-resolucao-sfp-26-margem-50
+- src-alesp-decreto-61750-2015-margem-35-por-cento
+summary: 'Quinze dias depois de criada a espécie ''cartão de benefício'', a Fazenda paulista elevou a
+  margem consignável global de 35% para 50% — exatamente os quinze pontos percentuais do sublimite reservado
+  ao novo produto. Formalmente, os 15% não são margem adicional: o §4º condiciona a averbação à existência
+  de margem disponível, e o §2º os define como limite interno. Na prática, porém, o mesmo movimento normativo
+  que criou o produto abriu na folha espaço novo do tamanho exato dele. O contraste com 2015 é instrutivo:
+  quando quis criar margem verdadeiramente adicional, a administração escreveu ''majorada, adicionalmente''.
+  Em 2022 escolheu outra arquitetura para chegar ao mesmo resultado — por resolução de secretário, ato
+  infralegal, e não por decreto.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+issuer: Secretaria da Fazenda e Planejamento do Estado de São Paulo
+url: https://www.imprensaoficial.com.br/DO/GatewayPDF.aspx?link=/2022/executivo%20secao%20i/abril/15/pag_0026_a183b69395724a0a5709ed437241464b.pdf
+reference: Resolução SFP nº 26, de 14/04/2022; DOE-SP 15/04/2022, Executivo I, p. 26
+excerpt: Artigo 1º - A margem consignável a que se refere o caput do artigo 1º do Decreto nº 61.750, de
+  23 de dezembro de 2015, fica alterada para 50% (cinquenta por cento).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

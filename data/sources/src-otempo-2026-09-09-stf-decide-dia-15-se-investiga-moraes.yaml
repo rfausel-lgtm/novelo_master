@@ -1,0 +1,28 @@
+id: src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
+kind: source
+title: STF vai decidir se investiga Moraes na próxima terça (15/9)
+publisher: O Tempo
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-10'
+url: https://www.otempo.com.br/politica/judiciario/2026/9/9/stf-vai-decidir-se-abre-investigacao-contra-moraes-na-proxima-terca-15-9
+source_type: press
+summary: 'Informa que a sessão extraordinária de 15/09/2026, às 10h, foi convocada por Edson Fachin em
+  09/09/2026 a pedido de André Mendonça, e que o Plenário decidirá se autoriza a abertura de investigação
+  contra Alexandre de Moraes — o que, segundo a matéria, seria a primeira vez que o colegiado se reúne
+  para deliberar sobre abrir inquérito contra um de seus próprios integrantes. O objeto da suspeita é
+  o relatório preliminar da Polícia Federal, de 218 páginas, que indica que Daniel Vorcaro teria consultado
+  o ministro durante investigação sobre fraude bancária. Registra a posição do procurador-geral da República,
+  Paulo Gonet, pela nulidade do relatório, com dois trechos literais: ''Não importa o grau de investigação
+  que a providência constitui, é inegável que houve imersão em elementos dos autos para buscar indicativos
+  de envolvimento de Moraes em ilícitos'' e ''Ao juiz, não cabe acusar, menos ainda ao juiz cabe realizar
+  investigações pré-processuais''.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura de três coberturas independentes)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

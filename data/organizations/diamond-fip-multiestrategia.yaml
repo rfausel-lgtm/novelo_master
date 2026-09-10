@@ -1,0 +1,27 @@
+id: diamond-fip-multiestrategia
+kind: organization
+name: Diamond FIP Multiestratégia
+aliases:
+- Reag34
+org_type: fund
+summary: Fundo de investimento em participações (CNPJ 29.253.771/0001-72), administrado e gerido pela
+  América PE Administração de Recursos, com exatamente 2 cotistas e patrimônio líquido de R$ 193,26 milhões
+  (dado de 2026). Segundo reportagem do UOL, é o antigo 'Reag34' e é o fundo que detém as cotas da PKL
+  One Participações — cuja composição societária direta é sigilosa na Junta Comercial de São Paulo, segundo
+  o Poder360. Controlado por dois fundos, Gardênia e Fortress, cada um com cerca de metade da participação.
+why_in_novelo: É o veículo, segundo o UOL, através do qual a PKL One Participações (Credcesta, núcleo
+  Augusto Lima) é efetivamente detida — a peça central da cadeia de fundos que ligaria o advogado Ângelo
+  Rezende, indiretamente, à sociedade.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-tiacandia-2026-08-05-angelo-rezende-socio-indireto-pkl-one
+- src-maisretorno-2026-09-diamond-fip-multiestrategia-cadastro
+- src-poder360-2026-credcesta-arquitetura-e-privatizacao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,25 @@
+id: src-jornalmg-2022-02-23-decreto-48370-reserva-cartao-beneficio
+kind: source
+title: Decreto nº 48.370, de 22 de fevereiro de 2022 — reserva de margem para cartão benefício (MG)
+publisher: Jornal Minas Gerais — Diário do Executivo
+publication_date: '2022-02-23'
+retrieved_at: '2026-09-09'
+url: https://www.jornalminasgerais.mg.gov.br/
+source_type: official_gazette
+summary: 'Publicado no Diário do Executivo de 23/02/2022, ano 130, nº 39, p. 1, e lido pela equipe. Assinado
+  por Romeu Zema Neto, altera o decreto mineiro de consignações para criar a ''reserva de margem consignável
+  para fins de cartão benefício consignado'', definida como a reserva de dez por cento da margem. A redação
+  tem uma diferença decisiva em relação à de outros estados: exige que o emitente do cartão tenha ''funcionamento
+  autorizado pelo Banco Central do Brasil'' — Minas Gerais não dispensou nem transferiu a exigência. O
+  art. 7º fixa o teto de dez por cento com base em dispositivo da própria lei estadual, e o art. 2º admite
+  parcelamento em até setenta e dois meses.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura de diários oficiais estaduais e de documento da secretaria catarinense)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

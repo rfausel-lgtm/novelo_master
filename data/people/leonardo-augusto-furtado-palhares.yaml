@@ -1,0 +1,80 @@
+id: leonardo-augusto-furtado-palhares
+kind: person
+name: Leonardo Augusto Furtado Palhares
+category: businessperson
+role: Advogado; sócio único da Varajo Consultoria, diretor da Super Empreendimentos e da associação SOLAR;
+  investigado sob cautelares na Operação Compliance Zero
+positions: []
+summary: 'Advogado, com CPF terminado em 356 registrado de forma idêntica nos três CNPJs em que figura,
+  e faixa etária entre 41 e 50 anos segundo a Receita Federal. É sócio único e administrador da Varajo
+  Consultoria Empresarial Sociedade Unipessoal Ltda (CNPJ 39.665.366/0001-15), aberta em 04/11/2020, com
+  capital social de R$ 10 mil e sede em endereço de coworking na Avenida Paulista. A decisão da PET 15.556,
+  lida integralmente pela equipe, dedica-lhe seção própria e o descreve como quem assinou a proposta de
+  contratação do servidor do Banco Central Belline Santana para um suposto estudo sobre inserção de jovens
+  no mercado financeiro, conferindo ''aparência de legitimidade à contratação'' e possibilitando ''a utilização
+  da pessoa jurídica como intermediária''; a petição da Polícia Federal, transcrita na decisão, sustenta
+  que as vantagens indevidas aos servidores do BC passavam pela ''estrutura de lavagem de dinheiro orquestrada
+  com o auxílio'' dele, sendo as contas da Varajo a ''conta de passagem'' dos recebimentos ilícitos. Não
+  foi preso: cumpre, desde 03/03/2026, proibição de contato com investigados, proibição de deixar o município
+  e o País com entrega do passaporte, e monitoração eletrônica por tornozeleira. A sindicância do Banco
+  Central apurou dois contratos entre Belline e a Varajo somando cerca de R$ 4 milhões, classificados
+  como ''negócio simulado''. Além da Varajo, é diretor da Super Empreendimentos e Participações desde
+  23/07/2024 — mesmo mês da saída de Fabiano Zettel — e diretor único da associação SOLAR, aberta em fevereiro
+  de 2025, que gere recursos de uma ONG representada por uma filha menor de idade de Daniel Vorcaro. Material
+  cujo sigilo foi levantado em setembro de 2026 mostra que foi ele quem estruturou, em maio de 2025, as
+  minutas do contrato de até R$ 50 milhões entre a Viking Participações e o escritório da esposa do ministro
+  Alexandre de Moraes, alertando Vorcaro sobre o ''risco reputacional'' da operação.'
+why_in_novelo: 'É o operador jurídico-documental do esquema: quem redigia e assinava os instrumentos que
+  davam aparência de legalidade aos pagamentos — do contrato apontado como fictício para remunerar um
+  servidor do Banco Central às minutas do contrato com o escritório da esposa de um ministro do STF.'
+cited_position:
+- kind: no_response
+  summary: Não foi localizada nenhuma manifestação dele, de advogado seu ou da Varajo Consultoria. Reportagens
+    que trataram das acusações registram explicitamente que 'outras defesas não se manifestaram até a
+    publicação' e que ele não respondeu aos pedidos de comentário. O nome de seu advogado não foi localizado,
+    nem qualquer petição pública em seu nome na PET 15.556.
+  source_ids:
+  - src-gazetadopovo-2026-operador-vorcaro-ong-africa
+  - src-jovempan-2026-09-minutas-palhares-aeronaves-barci-moraes
+  by_id: leonardo-augusto-furtado-palhares
+  date: '2026-09-09'
+open_questions:
+- 'A Polícia Federal e a imprensa o descrevem por vezes como ''operador financeiro'' de Vorcaro, mas a
+  decisão do STF e o requerimento do Senado são mais específicos: ele é o operador jurídico-documental
+  — quem redigia e assinava os instrumentos —, enquanto a execução das movimentações financeiras é atribuída
+  a Ana Cláudia Queiroz de Paiva. A distinção importa e o corpus a preserva.'
+- 'Hipótese de identidade não confirmada: um advogado homônimo, atuante em direito digital e ex-presidente
+  da câmara brasileira de comércio eletrônico, assina como ''Leonardo A. F. Palhares'' e tem perfil compatível
+  em base, idade e área de atuação — mas nenhuma reportagem sobre o caso faz essa ligação, os endereços
+  empresariais não coincidem e não há CPF público do segundo para cruzamento. Registrado como pendência
+  expressa, não como conclusão.'
+- Não foi localizada explicação para sua entrada na diretoria da Super Empreendimentos exatamente no mês
+  em que Fabiano Zettel deixou a empresa, nem reconstituição de como e quando passou a atuar para Daniel
+  Vorcaro.
+- 'Convocado pela CPI do Crime Organizado para 01/04/2026, nunca depôs: a reunião foi cancelada sem que
+  a presidência da comissão divulgasse o motivo, e o relatório final da CPI foi rejeitado duas semanas
+  depois.'
+- Não foi localizada denúncia formal da PGR contra ele até a data desta apuração, nem decisão posterior
+  que revogue, substitua ou agrave suas cautelares — a presunção razoável é que sigam vigentes, mas isso
+  não está confirmado documentalmente.
+- 'Ele entrou na diretoria da Super Empreendimentos em julho de 2024: parte relevante dos repasses atribuídos
+  à empresa, incluindo os pagamentos mensais ao grupo ''A Turma'' e os cerca de R$ 68,6 milhões declarados
+  por Vorcaro em 2023, é anterior ao seu mandato.'
+- 'Alerta de precisão: o número de inscrição OAB/MG 79456, atribuído a ele por resultado de busca, pertence
+  a outra pessoa — o dado é falso e não deve ser reproduzido. Seu registro profissional não foi confirmado.'
+source_ids:
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+- src-brasilapi-2026-super-empreendimentos-cnpj
+- src-brasilapi-2026-varajo-consultoria-cnpj
+- src-brasilapi-2026-solar-associacao-palhares
+- src-senado-2026-03-26-oficio-223-cpi-convoca-palhares
+- src-infomoney-2026-04-bc-negocio-simulado-contratos-varajo
+- src-infomoney-2026-master-declarou-13-milhoes-varajo
+- src-gazetadopovo-2026-operador-vorcaro-ong-africa
+- src-jovempan-2026-09-minutas-palhares-aeronaves-barci-moraes
+- src-ndmais-2026-belline-versao-contratos-varajo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

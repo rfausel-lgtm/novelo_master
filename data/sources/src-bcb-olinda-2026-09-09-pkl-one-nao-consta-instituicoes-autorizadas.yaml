@@ -1,0 +1,24 @@
+id: src-bcb-olinda-2026-09-09-pkl-one-nao-consta-instituicoes-autorizadas
+kind: source
+title: Consulta à base 'Instituições em Funcionamento no País' — Banco Central (API Olinda)
+publisher: Banco Central do Brasil
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-09'
+url: https://olinda.bcb.gov.br/olinda/servico/Instituicoes_em_funcionamento/versao/v1/odata/SedesSociedades?$filter=CNPJ%20eq%20%2727490629%27&$format=json
+source_type: official_regulator
+summary: 'Consulta direta da equipe à base pública do Banco Central, em 09/09/2026, por CNPJ e por razão
+  social. As buscas pelo CNPJ 27.490.629 e pelos termos ''PKL'' e ''CREDCESTA'' retornaram conjunto vazio
+  em todas as tabelas — sociedades, bancos comerciais e múltiplos, cooperativas e consórcios. Controle
+  metodológico aplicado: a mesma consulta com o termo ''BRADESCO'' retorna registros, confirmando a validade
+  do método. A operadora do CredCesta não consta, portanto, da relação oficial de instituições autorizadas
+  a funcionar pelo Banco Central.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura de diário oficial e consulta a base pública)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

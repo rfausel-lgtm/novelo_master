@@ -2,10 +2,16 @@ id: fundo-brazil-realty
 name: Fundo Brazil Realty
 org_type: fund
 jurisdiction: Brasil
-summary: Fundo que recebeu aporte da Viking Participações e comprou a participação do antigo controlador
+summary: 'Fundo que recebeu aporte da Viking Participações e comprou a participação do antigo controlador
   do Banco Máxima, segundo o voto BCB 20/2019 na reconstituição publicada a partir dos extratos obtidos
   pelo Valor Econômico. O mesmo voto traz indícios de que o fundo teria recebido recursos do próprio banco,
   mas os trechos correspondentes foram cobertos por tarjas antes da liberação via Lei de Acesso à Informação.
+  O colegiado da CVM condenou, em 08/09/2026 (PAS 19957.007976/2020-94), 16 acusados — incluindo Daniel
+  Vorcaro, seu pai e primo, o Banco Master e Benjamim Botelho de Almeida — por operação fraudulenta na
+  3ª emissão de cotas do fundo (2018-2020): integralizações lastreadas em ativos sobreavaliados por laudos
+  considerados falsos ou inconsistentes, seguidas de negociações coordenadas no mercado secundário para
+  simular liquidez, com prejuízo identificado de R$ 5,8 milhões a investidores finais. Multas somando
+  entre R$ 201 e R$ 201,5 milhões (divergência entre fontes).'
 why_in_novelo: É o veículo por meio do qual a participação no banco foi adquirida, segundo o voto do Banco
   Central.
 cited_position:
@@ -13,12 +19,19 @@ cited_position:
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
 - Denominação completa, CNPJ e cotistas não verificados em registro oficial.
+- O processo administrativo (PAS 19957.007976/2020-94) foi lido na íntegra pela equipe (relatório de 19
+  páginas) — mas não o voto/dispositivo final com a fixação exata das multas, obtido apenas por fonte
+  jornalística, o que explica a divergência de valores entre Poder360 (R$ 201,5 milhões, 5 absolvidos)
+  e Agência Brasil (R$ 201 milhões, 3 absolvidos).
 source_ids:
+- src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
 - src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 aliases: []
 kind: organization
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'

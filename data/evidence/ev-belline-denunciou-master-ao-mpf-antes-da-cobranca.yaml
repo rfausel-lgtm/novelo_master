@@ -1,0 +1,23 @@
+id: ev-belline-denunciou-master-ao-mpf-antes-da-cobranca
+kind: evidence
+classification: C
+proposition: 'Fato ambivalente que o corpus registra sem resolver: em 15/07/2025, o próprio Belline Santana
+  enviou ao Ministério Público Federal um documento apontando irregularidades nas carteiras de crédito
+  do Banco Master vendidas ao BRB por cerca de R$ 12 bilhões, com falhas contábeis, endereçado à chefe
+  da Procuradoria da República no Distrito Federal. Sete dias depois, em 22/07/2025, aparecem as mensagens
+  entre Fabiano Zettel e Vorcaro — ''Belline cobrando. Paga?'' / ''Claro'' — acompanhadas da instrução
+  que descreve a triangulação: ''Sai pra Super. Super manda empresa Léo. Empresa Léo que tem contrato
+  com ele''. A Polícia Federal lê a sequência como cobrança de propina, eventualmente com viés de pressão.
+  O fato bruto, porém, é que o servidor apontado como cooptado foi quem levou irregularidades do banco
+  supervisionado ao MPF, dias antes da cobrança. Nenhuma fonte localizada concilia as duas leituras. O
+  corpus registra a tensão como aberta — não como exculpação nem como agravante.'
+document_ids: []
+source_ids:
+- src-ndmais-2026-belline-versao-contratos-varajo
+- src-infomoney-2026-04-bc-negocio-simulado-contratos-varajo
+date: '2025-07-15'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

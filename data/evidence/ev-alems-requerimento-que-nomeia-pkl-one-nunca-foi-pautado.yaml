@@ -1,0 +1,19 @@
+id: ev-alems-requerimento-que-nomeia-pkl-one-nunca-foi-pautado
+kind: evidence
+classification: D
+proposition: 'Na Assembleia de Mato Grosso do Sul há uma assimetria registrada na própria base de proposições:
+  requerimentos de teor genérico sobre endividamento por consignados foram aprovados por unanimidade em
+  semanas, ao passo que o único que nomeia a PKL One e pede à secretaria os convênios e os descontos aguarda
+  ordem do dia desde 23/06/2026, sem jamais ter sido pautado. O projeto de lei que suspenderia os descontos
+  vinculados ao CredCesta e ao Banco Master teve relator designado na Comissão de Constituição e Justiça
+  em 01/07/2026 e não registra movimentação desde então.'
+document_ids:
+- doc-2026-09-09-tramitacao-pl-88-2026-e-requerimento-01840-alems
+source_ids:
+- src-alems-2026-pl-88-2026-parado-na-ccjr
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

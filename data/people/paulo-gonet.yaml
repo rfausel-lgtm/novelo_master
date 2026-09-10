@@ -42,22 +42,52 @@ open_questions:
   nas mensagens do celular do banqueiro. Segundo o Jornal de Brasília, há divisão interna no MPF sobre
   se ele deveria se afastar do processo por prudência; a cúpula avalia que não há elemento capaz de torná-lo
   alvo de investigação.
+- A Associação Nacional dos Delegados de Polícia Federal pediu, em 06/09/2026, que Gonet se declare impedido
+  nos procedimentos da crise Moraes-Mendonça, por seu nome constar nas mensagens do celular de Vorcaro
+  — sem resposta de Fachin localizada até a data desta atualização.
+- Na trilha sequencial aberta por Fachin em 04/09/2026 (Pet 16.704), Gonet tem prazo de 5 dias úteis para
+  se manifestar sobre a admissibilidade da acusação de Moraes contra Mendonça, antes mesmo do prazo comum
+  de 11/09 — não localizada confirmação de que já apresentou qualquer uma das duas manifestações pendentes.
+- Manifestou-se publicamente em 02/09/2026, antes do despacho formal de Fachin (03-04/09), pedindo a nulidade
+  do procedimento aberto por Moraes contra Mendonça — não está claro se essa manifestação satisfaz o parecer
+  de admissibilidade formalmente exigido depois.
+- Assinou, em 16/06/2026, o parecer ASSCRIM/PGR nº 940922/2026 sobre a 9ª fase da Compliance Zero — anuindo
+  à operação, mas opondo-se à busca no gabinete parlamentar de Jaques Wagner (separação de poderes) e
+  à apreensão de bens de luxo (desproporcionalidade); Mendonça não acolheu integralmente essa posição.
+- A Poder360 (06/09/2026) o descreve como 'próximo' de Gilmar Mendes, no contexto do grupo que defende
+  Moraes e se opõe a Mendonça — caracterização da reportagem, sem detalhamento da natureza dessa proximidade
+  nem manifestação dele sobre isso.
+- 'Sua manifestação de 01/09 na Pet 16.662 sustenta nulidade por vício de método — o relator teria determinado
+  à polícia investigar detentor de foro sem provocação do Ministério Público nem iniciativa da autoridade
+  policial — e quantifica o foco do relatório: quase 190 das 218 páginas dedicadas ao ministro. O pedido
+  é dirigido ao relator, não ao Plenário: que reconheça a nulidade e extinga a petição. O procedimento
+  de controle externo da atividade policial que instaurou para apurar eventual interferência na produção
+  do relatório foi suspenso pela Presidência em 09/09.'
 source_ids:
-- src-poder360-2026-09-01-sigilo-pet-16662
+- src-apublica-2026-09-crise-stf-mensagens-moraes-vorcaro-como-chegamos
+- src-baixadanaweb-2026-09-06-delegados-pedem-impedimento-gonet
 - src-congressoemfoco-2026-09-01-relatorio-pf
-- src-otempo-2026-09-01-gonet-despesas-do-filho-em-londres
-- src-poder360-2026-09-01-pgr-bancar-ida-do-filho
-- src-poder360-2026-09-01-cupula-da-pgr-desanimo
-- src-oeste-2026-gonet-fecha-portas-para-delacao
 - src-folhavitoria-2026-09-02-gonet-pede-arquivamento
 - src-forum-2026-09-mensagens-sem-resposta-de-moraes
 - src-jbrasilia-2026-09-04-pgr-exposta-mencoes-a-gonet
+- src-jornalpassaporte-2026-09-08-fachin-aguarda-explicacoes-sexta
+- src-jota-2026-gonet-aguarda-autorizacao-plenario-investigar-mendonca
+- src-oeste-2026-gonet-fecha-portas-para-delacao
+- src-otempo-2026-09-01-gonet-despesas-do-filho-em-londres
+- src-poder360-2026-09-01-cupula-da-pgr-desanimo
+- src-poder360-2026-09-01-pgr-bancar-ida-do-filho
+- src-poder360-2026-09-01-sigilo-pet-16662
+- src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
+- src-verificacao-direta-equipe-parecer-pgr-940922-2026
+- src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-pgr-2026-09-01-manifestacao-asscrim-1428987-pet-16662
+- src-stf-2026-09-09-integra-decisao-fachin-pet-16704
 full_name: Paulo Gustavo Gonet Branco
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-10'
 photo:
   path: /fotos/paulo-gonet.jpg
   source: Wikimedia Commons

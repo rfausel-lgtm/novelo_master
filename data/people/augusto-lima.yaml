@@ -43,38 +43,73 @@ cited_position:
   source_ids:
   - src-metropoles-2026-08-04-augusto-lima-decide-falar
   date: '2026-08-04'
-- kind: denial
-  summary: Em 18/06/2026, a defesa afirmou que Lima 'sempre atuou dentro dos limites da lei' e estava
-    'há seis meses à disposição das autoridades'.
-  source_ids:
-  - src-poder360-2026-06-18-defesa-augusto-lima-nega
-  date: '2026-06-18'
-- kind: denial
-  summary: Em 04/08/2026, a nova defesa negou categoricamente qualquer negociação de delação premiada.
-  source_ids:
-  - src-metropoles-2026-08-04-augusto-lima-decide-falar
-  date: '2026-08-04'
-open_questions: []
+open_questions:
+- Não foi incluído no indiciamento de agosto/2026 (só Vorcaro, Paulo Henrique Costa e Tanure); depoimento
+  adiado pela terceira vez, sem data fixada até 19/08/2026.
+- Casou-se em janeiro de 2024 com Flávia Peres (ex-Arruda), ex-deputada federal e ex-secretária de Governo
+  de Bolsonaro.
+- O documento apócrifo 'dono e presidente de fato' segue sem qualquer avaliação formal da PF sobre sua
+  credibilidade, estagnado desde março de 2026 — a narrativa dominante de toda a demais cobertura investigativa
+  trata Vorcaro, não Lima, como o controlador do esquema.
+- A divergência entre R$ 160 milhões (aportes formais de capital no Voiter/Pleno) e R$ 600 milhões (gasto
+  total de patrimônio pessoal, segundo O Tempo) segue sem reconciliação por nenhuma fonte disponível.
+- Sua defesa até 04-05/08/2026 (Ticiano Figueiredo e Pedro Ivo Velloso) era da mesma banca em que Renata
+  Varandas, namorada de Andrei Rodrigues, é sócia da área de comunicação — sobreposição confirmada por
+  CNPJ, sem indício de que ela tenha atuado no caso dele especificamente.
+- 'Checagem dirigida em 08/09/2026 não localizou desenvolvimento novo em nenhuma frente: depoimento à
+  PF segue sem data marcada; prisão domiciliar sem alteração; ação cível do Voiter sem decisão posterior
+  a abril/2026; sem indiciamento ou denúncia do MPF contra ele. Resultado negativo documentado para evitar
+  nova checagem redundante no curto prazo.'
+- 'A origem de seu patrimônio está documentada com precisão maior do que o corpus registrava: a autorização
+  para vender a Ebal é de lei de 2014, sancionada por Jaques Wagner como governador; a venda ocorreu em
+  11/04/2018, no governo Rui Costa, após dois leilões desertos com lance mínimo de R$ 81 milhões, sendo
+  arrematada por R$ 15 milhões com um único participante. Rui Costa declarou publicamente que ''se alguém
+  pagou uma merreca de R$ 15 milhões, é porque tinha o cartão''.'
+- 'O produto que ele levou ao sistema financeiro rendia mais com a REVENDA das carteiras do que com juros:
+  em 2024, R$ 1,6 bilhão com venda de carteiras contra R$ 709 milhões de juros, segundo o balanço do Master
+  — o que reposiciona a natureza do negócio.'
+- A exclusividade de quinze anos sobre a folha dos servidores baianos, invocada como lastro para estruturar
+  novo fundo e seguir operando o CredCesta, não consta dos decretos estaduais, que a equipe leu artigo
+  por artigo; é atribuída ao contrato de aquisição, não obtido em fonte oficial.
 source_ids:
-- src-migalhas-2025-11-28-trf1-solta-vorcaro
+- src-acritica-2026-augusto-lima-8-reunioes-bc
+- src-b3-2026-02-18-liquidacao-banco-pleno
+- src-chambers-2026-figueiredo-e-velloso-advogados-profile
 - src-cnn-2026-01-lula-vorcaro-fora-da-agenda
 - src-cnn-2026-03-04-relembre-crise-master
-- src-b3-2026-02-18-liquidacao-banco-pleno
-- src-poder360-2026-07-31-pf-wagner-relatorio
-- src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
 - src-dou-2026-02-19-atos-1377-1378
-- src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
-- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
-- src-infomoney-2026-augusto-lima-7-reunioes-bc
-- src-acritica-2026-augusto-lima-8-reunioes-bc
-- src-poder360-2026-06-18-defesa-augusto-lima-nega
-- src-metropoles-2026-08-04-augusto-lima-decide-falar
+- src-gazetadoparana-2026-exclusivo-escritorio-namorada-andrei-defende-socio-vorcaro
 - src-gazetadopovo-2026-03-11-dossie-fraudes-ex-socios
+- src-gazetadopovo-2026-03-11-dossie-fraudes-master-alvos
+- src-infomoney-2026-augusto-lima-7-reunioes-bc
+- src-metropoles-2026-08-04-augusto-lima-decide-falar
+- src-metropoles-2026-08-05-pf-indiciamento-vorcaro-paulo-henrique
+- src-metropoles-augusto-lima-9a-fase-compliance-zero
+- src-metropoles-augusto-lima-bloqueio-112-milhoes-reag
+- src-metropoles-flavia-peres-casamento-augusto-lima
+- src-metropoles-milena-teixeira-augusto-lima-predios-odebrecht
+- src-migalhas-2025-11-28-trf1-solta-vorcaro
+- src-minhareceita-2026-09-figueiredo-velloso-cnpj
+- src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
+- src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
+- src-poder360-2026-06-18-defesa-augusto-lima-nega
+- src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-bc-sabia-fraude-antes-venda-voiter
 - src-poder360-2026-credcesta-arquitetura-e-privatizacao
+- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+- src-timesbrasil-2026-08-04-augusto-lima-troca-advogados-nega-delacao
+- src-timesbrasil-2026-08-19-augusto-lima-depoimento-setembro
+- src-legislabahia-lei-13204-2014-alienacao-ebal
+- src-legislabahia-decreto-18353-2018-credcesta
+- src-legislabahia-decreto-18354-2018-consignacoes
+- src-poder360-2026-credcesta-privatizado-15-milhoes-dividas-93
+- src-poder360-2026-wagner-rui-costa-favoreceram-negocio
+- src-brasilapi-2026-ebal-capital-social
+- src-brasilapi-2026-ngvspe-empreendimentos
+- src-folhape-2026-02-rui-costa-defende-venda-supermercado-estatal
 full_name: Augusto Ferreira Lima
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

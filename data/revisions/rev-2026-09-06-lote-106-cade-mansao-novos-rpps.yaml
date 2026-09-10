@@ -1,0 +1,29 @@
+id: rev-2026-09-06-lote-106-cade-mansao-novos-rpps
+kind: revision
+date: '2026-09-06'
+title: Lote 106 — o parecer do Cade, a mansão do cunhado de Vorcaro, e novos RPPS expostos ao Master
+summary: 'Localizado e lido o parecer primário do Cade (SEI/CADE nº 1748173) sobre a revenda da Kovr ao
+  PicPay: trecho literal confirma a ''triangulação financeira'' identificada pelo órgão — crédito concedido
+  pelo próprio comprador final aos vendedores intermediários no valor exato do preço, no mesmo dia da
+  dupla operação de compra e revenda. Registrada divergência não resolvida sobre a data/motivo do arquivamento
+  do procedimento apartado. Documentada a rota de R$ 650 milhões que, via cadeia de fundos da Reag (Astralo
+  95), chegou à Super Empreendimentos, do cunhado de Vorcaro, Fabiano Zettel, usados para comprar uma
+  mansão de R$ 36,1 milhões em Brasília. Identificados seis novos RPPS expostos ao Master (Iprev Maceió,
+  São Roque Prev, e quatro formalizados pelo MPC-SP), com recorrência da consultoria Crédito e Mercado
+  e do executivo Renan Foglia Calamia em pelo menos dois casos distintos.'
+affected_ids:
+- kovr-seguradora
+- fabiano-zettel
+- super-empreendimentos-e-participacoes
+- credito-e-mercado
+- renan-foglia-calamia
+- banco-master
+- daniel-vorcaro
+- iprev-maceio
+- sao-roque-prev
+reason: Loop de investigação — consolidação de três linhas paralelas (Cade/Kovr, Astralo 95, novos RPPS).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

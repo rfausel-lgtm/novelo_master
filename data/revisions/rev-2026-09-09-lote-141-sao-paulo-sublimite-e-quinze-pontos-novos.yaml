@@ -1,0 +1,35 @@
+id: rev-2026-09-09-lote-141-sao-paulo-sublimite-e-quinze-pontos-novos
+kind: revision
+date: '2026-09-09'
+title: 'Lote 141 — São Paulo: o sublimite que veio acompanhado de quinze pontos novos de folha'
+summary: 'Terceira etapa da expansão, e a que obriga a refinar a tese. Até aqui o padrão identificado
+  era o de decretos estaduais criando margem consignável exclusiva e adicional para cartão de benefício,
+  seguidos de credenciamento da operadora poucos dias depois. São Paulo não se encaixa nesse molde — e
+  é justamente por isso que interessa. O decreto estadual de 31/03/2022, assinado por João Doria no último
+  dia de seu mandato e lido pela equipe no repositório oficial, criou o cartão de benefício ''limitada
+  a 15% da margem consignável'', isto é, como sublimite interno, não como acréscimo. Quinze dias depois,
+  porém, a Secretaria da Fazenda elevou por resolução — ato infralegal — a margem consignável global de
+  35% para 50%, exatamente os quinze pontos reservados ao novo produto. O resultado prático é o mesmo
+  dos outros estados; a técnica jurídica é outra, e mais discreta. O contraste é aferível dentro da própria
+  legislação paulista: em 2015, ao criar margem realmente adicional para cartão de crédito, o Estado escreveu
+  ''majorada, adicionalmente'' — fórmula que reaparece textualmente no decreto do município de São Paulo,
+  no do Rio de Janeiro e no de Mato Grosso, mas que foi evitada em 2022. Registra-se também que a operação
+  precedeu a norma estadual: em Embu das Artes o CredCesta já operava desde outubro de 2021, como no Paraná.
+  O credenciamento estadual veio 55 dias após o decreto, e foi despacho de deferimento — não contrato
+  nem convênio —, o que confirma documentalmente a versão oficial. O arco se fecha sobre si mesmo em 2026:
+  o inciso criado para acolher a empresa virou o fundamento para suspender seu código de desconto. E as
+  respostas dos entes divergem: a capital descredenciou e denunciou o convênio, o Estado apenas suspendeu
+  o código, e Mato Grosso do Sul mantém o seu vigente até 2027.'
+affected_ids:
+- credcesta
+- pkl-one-participacoes
+- joao-doria
+- ricardo-nunes
+- banco-master
+reason: Continuação da expansão da investigação sobre o CredCesta para os demais estados, com leitura
+  direta do texto normativo paulista e dos PDFs do diário oficial estadual e municipal.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -17,13 +17,18 @@ cited_position:
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
 - Quadro societário e CNPJ não verificados em registro oficial.
+- Condenada pela CVM em 08/09/2026 por atuação como contraparte nas negociações secundárias de cotas do
+  Brazil Realty FII, junto com Daniel Vorcaro (seu sócio administrador) e o Banco Master — resultado estimado
+  de R$ 837 mil de ganho. Propôs termo de compromisso de R$ 2,97 milhões, rejeitado pelo colegiado.
 source_ids:
+- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
 - src-poder360-2026-09-01-integras-pet-16662
 - src-poder360-2026-09-02-dois-contratos-barci
-- src-letsmoney-2026-04-20-triangulacao-de-recursos-no-maxima
-- src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'

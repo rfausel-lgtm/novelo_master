@@ -1,0 +1,23 @@
+id: ev-instrumento-usado-contra-mendonca-saiu-das-maos-de-moraes
+kind: evidence
+classification: I
+proposition: 'Observado o conjunto, o Inquérito 4.781 foi progressivamente retirado das mãos de quem o
+  presidia, nas duas etapas em que serviu de via para alcançar o relator do caso Master: primeiro Fachin
+  destacou dele o pedido de apuração contra Mendonça e o avocou, em 04/09; depois revogou a própria designação
+  do relator, em 09/09. O acervo já registrara que a peça usada por Moraes contra Mendonça naquele inquérito
+  era um relatório de inteligência da Dicor, sem assinatura, que a própria Polícia Federal classificou
+  como desprovido de valor probatório. A leitura é de coerência de trajetória, não de motivação declarada:
+  a decisão invoca segurança jurídica e delimitação institucional, e não avalia a idoneidade daquela peça.'
+document_ids: []
+source_ids:
+- src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+inference_basis: Encadeamento dos atos já registrados no acervo — o pedido de Moraes de 03/09, a avocação
+  e a definição de rito por Fachin em 04/09, e a revogação da designação em 09/09 — combinado ao registro
+  anterior sobre a natureza do relatório da Dicor utilizado contra Mendonça.
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

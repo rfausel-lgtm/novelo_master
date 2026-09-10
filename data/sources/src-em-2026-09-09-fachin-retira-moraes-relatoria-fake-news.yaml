@@ -1,0 +1,27 @@
+id: src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+kind: source
+title: Fachin retira Moraes da relatoria do inquérito das fake news
+publisher: Estado de Minas
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-10'
+url: https://www.em.com.br/politica/2026/09/7497212-fachin-retira-moraes-da-relatoria-do-inquerito-das-fake-news.html
+source_type: press
+summary: Registra a decisão de 09/09/2026 pela qual o presidente do Supremo revoga a designação de Alexandre
+  de Moraes como relator do Inquérito 4.781, instaurado pela Portaria nº 69, de 14 de março de 2019, e
+  assume pessoalmente a condução do feito. Indica como fundamento o art. 43 do regimento interno do tribunal
+  e o entendimento fixado pelo Plenário no julgamento da ADPF 572. Consigna que a revogação produz efeitos
+  'exclusivamente, a partir da data de 09.09.2026, preservando, assim, os atos regularmente praticados
+  durante o período de vigência da designação', e que 'as ações penais conexas ao Inquérito 4781 com denúncia
+  recebida seguirão o rito processual já em curso'. Situa a medida no contexto do embate entre Moraes
+  e André Mendonça em torno das investigações do Banco Master, no qual Moraes havia incluído Mendonça
+  no inquérito.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura de duas coberturas independentes da decisão)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,33 @@
+id: doc-2021-2025-margens-cartao-beneficio-nordeste-pe-pi-se-rn
+kind: document
+title: As margens para cartao de beneficio no Nordeste — PE, PI, SE e RN
+doc_type: legislative_act
+date: '2024-04-09'
+source_ids:
+- src-diarios-nordeste-2021-2024-margens-cartao-beneficio-pe-pi-se
+- src-doern-2023-06-01-decreto-32718-margem-cartao-de-beneficio
+summary: Conjunto normativo reunido pela equipe a partir da leitura dos diarios oficiais. Pernambuco,
+  pelo Decreto 51.760 de 03/11/2021, criou a especie e fixou teto de 48% dos rendimentos brutos, com faixa
+  de 8% COMPARTILHADA entre liquidacao de dividas de cartao de credito consignado e amortizacao de despesas
+  com cartao de beneficio — nao e margem exclusiva. O Piaui, pela Lei Complementar 280 de 12/07/2023,
+  reservou 5% exclusivamente para amortizacao por cartao consignado de beneficio ou para saque, regulamentada
+  pelo Decreto 22.415 de 15/09/2023. Sergipe, pela Lei Complementar 413 de 08/04/2024, elevou o teto a
+  45% e destinou cinco pontos percentuais ao cartao de credito ou ao cartao consignado de beneficio, ou
+  a utilizacao com finalidade de saque. O Rio Grande do Norte, pelo Decreto 32.718 de 31/05/2023, reservou
+  10% e admitiu igualmente o saque. O detalhe que atravessa RN, PI e SE e a autorizacao expressa do saque
+  — funcionalidade que converte o cartao de beneficio em emprestimo.
+is_official: true
+related_entity_ids:
+- credcesta
+issuer: Estados de Pernambuco, Piaui, Sergipe e Rio Grande do Norte
+url: https://iose.se.gov.br/portal/edicoes/download/5919/4
+reference: Decreto PE 51.760/2021; LC PI 280/2023 e Decreto PI 22.415/2023; LC SE 413/2024; Decreto RN
+  32.718/2023
+excerpt: 5% (cinco por cento) serao reservados EXCLUSIVAMENTE para a amortizacao de despesas contraidas
+  por meio de cartao consignado de beneficio ou para a utilizacao com a finalidade de saque por meio de
+  cartao consignado de beneficio
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,20 @@
+id: src-cnpja-2026-09-terra-firme-realty-cnpj-raiz
+kind: source
+title: Registro cadastral da Terra Firme Realty S.A. — matriz e filial
+publisher: cnpja.com (agregador de dados públicos de CNPJ)
+publication_date: 2026-09
+retrieved_at: '2026-09-06'
+url: https://cnpja.com/en/office/45125567000203
+source_type: corporate_registry
+summary: Confirma a raiz de CNPJ 45.125.567, com matriz em São Paulo (45.125.567/0001-22, fundada 02/02/2022,
+  capital R$ 95.808.313,00) e filial em Salvador (45.125.567/0002-03, fundada 17/07/2023).
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

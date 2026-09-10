@@ -1,0 +1,23 @@
+id: doc-2021-11-24-convenio-credcesta-embu-das-artes
+kind: document
+title: Extrato de convenio entre a Prefeitura de Embu das Artes e o CredCesta
+doc_type: contract
+date: '2021-11-24'
+source_ids:
+- src-doesp-2021-11-24-convenio-credcesta-embu-das-artes
+summary: Extrato publicado no diario oficial estadual registrando convenio de 26/10/2021 para cartao de
+  beneficio consignado Credcesta, com vigencia de sessenta meses. Antecede em cinco meses o decreto estadual
+  que criaria a especie no ambito do Estado de Sao Paulo, o que demonstra que, tambem em Sao Paulo, a
+  operacao municipal precedeu a norma estadual.
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+issuer: Prefeitura Municipal de Embu das Artes
+url: https://www.imprensaoficial.com.br/DO/GatewayPDF.aspx?link=/2021/executivo%20secao%20i/novembro/24/pag_0298_3ef0d07d8587ab6033a0d1bae66192db.pdf
+reference: DOE-SP 24/11/2021, Executivo I, p. 298
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

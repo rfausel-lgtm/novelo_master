@@ -1,0 +1,25 @@
+id: ev-bc-vazamentos-sistematicos-pad-cgu-sem-desfecho
+kind: evidence
+classification: C
+proposition: 'O Banco Central abriu sindicância patrimonial sigilosa em 08/01/2026 e afastou cautelarmente
+  Belline Santana e Paulo Sérgio Neves de Souza em 19/01/2026 — cerca de seis semanas antes da decisão
+  do STF. Em 23/03/2026, portarias publicadas no Diário Oficial abriram processo administrativo disciplinar
+  contra os dois, que pode resultar em demissão; em 23/07/2026 a CGU prorrogou o processo por 60 dias,
+  por ainda aguardar o compartilhamento de provas do inquérito. Até a data desta apuração não foi localizado
+  nenhum desfecho — demissão, cassação de aposentadoria ou absolvição administrativa. Em depoimento à
+  PF em 25/05/2026, o diretor de Fiscalização Ailton de Aquino relatou ''vazamentos sistemáticos de informações
+  internas'' (''tudo vazava: decisões, análises, votos ainda em fase de minuta'') e disse ter escondido
+  dos dois a decisão de liquidação do Master — a autoria dos vazamentos, porém, nunca foi apurada. O presidente
+  do Banco Central, Gabriel Galípolo, classificou o episódio como ''um dos fatos mais graves que já aconteceu
+  na história do BC''.'
+document_ids: []
+source_ids:
+- src-jornaldebrasilia-2026-03-cgu-pad-servidores-bc
+- src-jornaldebrasilia-2026-aquino-vazamentos-sistematicos-bc
+- src-cnnbrasil-2026-05-19-galipolo-afastamento-gravissimo
+date: '2026-07-23'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

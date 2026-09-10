@@ -1,0 +1,23 @@
+id: doc-2025-10-14-acp-mpmt-consignados-capital-consig
+kind: document
+title: Ação civil pública do Ministério Público de Mato Grosso sobre fraudes em consignados
+doc_type: judicial_filing
+date: '2025-10-14'
+source_ids:
+- src-mpmt-2025-10-14-acp-consignados-capital-consig
+summary: Ação ajuizada na Vara Especializada em Ações Coletivas de Cuiabá, originada do inquérito civil
+  SIMP nº 009467-001/2025, sob a promotora Valnice Silva dos Santos, contra o que o órgão descreve como
+  'uma estrutura montada para enganar o servidor'. São seis rés, encabeçadas pela Capital Consig. Nem
+  o CredCesta, nem a PKL One, nem o Banco Master figuram no polo passivo — registro necessário para não
+  somar ao caso Master o que pertence a caso distinto no mesmo estado.
+is_official: true
+related_entity_ids:
+- credcesta
+issuer: Ministério Público de Mato Grosso — 6ª Promotoria de Justiça Cível de Cuiabá
+url: https://www.mpmt.mp.br/conteudo/58/167102/acao-do-mpmt-mira-grupo-por-fraudes-em-emprestimos-consignados
+reference: Inquérito civil SIMP nº 009467-001/2025 — MPMT
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

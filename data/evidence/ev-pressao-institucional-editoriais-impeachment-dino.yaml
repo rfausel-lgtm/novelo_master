@@ -1,0 +1,25 @@
+id: ev-pressao-institucional-editoriais-impeachment-dino
+kind: evidence
+classification: C
+proposition: 'A pressão institucional sobre a crise se intensificou entre 01-07/09/2026: editoriais da
+  Folha de S.Paulo e do Estado de S. Paulo (01/09) defenderam a renúncia de Alexandre de Moraes; 54 pedidos
+  de impeachment contra Moraes foram protocolados no Senado, com expectativa de rejeição por Alcolumbre,
+  como ocorreu com 53 pedidos anteriores; o ministro Flávio Dino declarou publicamente (07/09) que ''problemas
+  reais e graves estão sendo misturados com interesses eleitorais e econômicos, objetivos estrangeiros
+  e até ódios pessoais'', defendendo a conclusão técnica dos inquéritos. Um alinhamento informal entre
+  ministros do STF (Dino/Gilmar/Zanin favoráveis a Moraes; Nunes Marques/Fux/Fachin favoráveis a Mendonça,
+  Cármen Lúcia indefinida) é leitura jornalística de bastidor de uma única fonte, não fato documentado
+  — tratado com a devida reserva.'
+document_ids: []
+source_ids:
+- src-apublica-2026-09-crise-stf-mensagens-moraes-vorcaro-como-chegamos
+- src-ncnews-2026-09-07-crise-moraes-mendonca-fraturas-stf
+excerpt: Problemas reais e graves estão sendo misturados com interesses eleitorais e econômicos, objetivos
+  estrangeiros e até ódios pessoais.
+attributed_to: Flávio Dino
+date: '2026-09-07'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

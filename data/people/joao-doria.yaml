@@ -1,0 +1,33 @@
+id: joao-doria
+kind: person
+name: João Doria
+category: public_official
+role: Ex-governador de São Paulo (2019–2022) e ex-prefeito da capital paulista
+positions: []
+summary: Assinou, no último dia de seu mandato como governador, o decreto que criou na folha do funcionalismo
+  paulista a espécie 'cartão de benefício' — a categoria em que o CredCesta viria a operar no maior estado
+  do país.
+why_in_novelo: Empresário e comunicador, elegeu-se prefeito de São Paulo em 2016 e governador em 2018,
+  deixando o cargo em 31 de março de 2022 para uma tentativa frustrada de disputar a Presidência. O decreto
+  de consignações que assinou nessa mesma data acrescentou ao regulamento estadual de 2014 a consignação
+  facultativa por cartão de benefício, limitada a 15% da margem consignável, e admitiu como consignatárias
+  empresas administradoras de cartões conveniadas a instituições financeiras autorizadas pelo Banco Central
+  — fórmula que transfere ao parceiro bancário a exigência de autorização, e que Mato Grosso reproduziria
+  em 2023. Quinze dias depois, já sob outro governo, a Fazenda estadual elevou de 35% para 50% a margem
+  consignável global. O credenciamento da PKL One veio 55 dias após o decreto.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Não foi localizada manifestação sua sobre o decreto de 31/03/2022 nem sobre a escolha de assiná-lo no
+  último dia de mandato. Buscar posicionamento.
+- Apurar quem conduziu a instrução do decreto na Secretaria da Fazenda e se houve pedido prévio de empresas
+  do setor, dado que o ato foi editado na transição de governo.
+source_ids:
+- src-alesp-decreto-66622-2022-cartao-beneficio
+- src-doesp-2022-04-15-resolucao-sfp-26-margem-50
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

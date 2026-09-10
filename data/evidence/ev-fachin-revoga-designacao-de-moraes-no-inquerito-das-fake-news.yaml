@@ -1,0 +1,23 @@
+id: ev-fachin-revoga-designacao-de-moraes-no-inquerito-das-fake-news
+kind: evidence
+classification: C
+proposition: 'O presidente do Supremo revogou em 09/09/2026 a designação de Alexandre de Moraes como relator
+  do Inquérito 4.781, aberto por portaria em 14 de março de 2019, e assumiu pessoalmente a condução do
+  feito. Invocou o art. 43 do regimento interno do tribunal e o entendimento fixado pelo Plenário na ADPF
+  572 — o julgamento em que a própria corte validou o inquérito e lhe estabeleceu limites —, declarando
+  que a medida decorre da ''necessidade de estabelecer segurança jurídica e adequada delimitação institucional''.
+  A revogação foi delimitada no tempo: vale apenas a partir da data da decisão, preservando os atos regularmente
+  praticados, e as ações penais conexas com denúncia já recebida seguem o rito em curso.'
+document_ids:
+- doc-2026-09-09-decisao-fachin-revoga-designacao-moraes-inq-4781
+source_ids:
+- src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+excerpt: A presente medida decorre da necessidade de estabelecer segurança jurídica e adequada delimitação
+  institucional
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

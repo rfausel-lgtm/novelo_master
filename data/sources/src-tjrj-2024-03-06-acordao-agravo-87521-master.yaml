@@ -1,0 +1,23 @@
+id: src-tjrj-2024-03-06-acordao-agravo-87521-master
+kind: source
+title: Acórdão no Agravo de Instrumento nº 0087521-75.2023.8.19.0000 — TJRJ, 4ª Câmara de Direito Privado
+publisher: Tribunal de Justiça do Estado do Rio de Janeiro
+publication_date: '2024-03-06'
+retrieved_at: '2026-09-09'
+url: https://www3.tjrj.jus.br/gedcacheweb/default.aspx?GEDID=000429AA1880829AD4BBF0E85E5A86BB8C26C5161E562448&USER=&UZIP=1
+source_type: official_court
+summary: 'Acórdão em que o Banco Master figura como agravante e que transcreve, palavra por palavra, o
+  art. 6º, III e §1º, do Decreto 45.563/2016 na redação dada pelo Decreto 47.625/2021 — corroborando a
+  literalidade do dispositivo. Relator do voto vencedor: desembargador Heleno Ribeiro Pereira Nunes. O
+  julgado cita quatro precedentes no mesmo sentido, evidenciando que o banco invocava o decreto estadual
+  como fundamento recursal para afastar o teto de margem, com êxito.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura de texto normativo e de acórdão)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

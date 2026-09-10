@@ -34,13 +34,87 @@ open_questions:
   na Junta Comercial de São Paulo; a quebra aprovada pela CPMI do INSS foi suspensa por decisão do STF.
 - A troca do diretor da PKL One Participações em 16/07/2026, de Andréa Lima Novaes para Marcelo Antonio
   Bullos Cerqueira, não tem explicação causal localizada em nenhuma fonte.
+- 'Confirmado documentalmente em 09/09/2026, por consulta da equipe à base pública do Banco Central: a
+  empresa NÃO consta da relação oficial de instituições autorizadas a funcionar no país, em nenhuma das
+  tabelas — resultado obtido com controle metodológico. O dado converte em fato verificado o que o corpus
+  registrava como alegação de parlamentares e de decisão judicial de primeira instância, e é coerente
+  com seu CNAE principal de holding de instituições não-financeiras.'
+- Em Mato Grosso do Sul, o instrumento que abriu a folha estadual à empresa em março de 2023 declarava
+  como objeto o desconto de 'contribuições e mensalidades devidas por seus servidores filiados' — redação
+  de convênio com entidade sindical — e qualificava a convenente como 'Banco PKL One Participações S.A',
+  designação sem correspondência em qualquer autorização do Banco Central. O cartão consignado de benefício
+  só apareceu por escrito na renovação de 2025, que invoca como fundamento apenas um parecer referencial
+  genérico de 2020, o mesmo usado na mesma página do diário oficial para entidades sindicais. Esse convênio
+  segue formalmente vigente até 10/03/2027, sem nenhum ato de rescisão publicado.
+- 'Em São Paulo, o vínculo com o Estado nunca foi contrato nem convênio: a empresa entrou na folha por
+  despacho de deferimento de credenciamento do secretário da Fazenda, em 25/05/2022, recebendo a espécie
+  de consignação 270 e o código 097337-4. Esse código foi suspenso com efeitos a partir de 19/02/2026
+  com fundamento no mesmo inciso que abrira a porta em 2022. Com a prefeitura da capital houve convênio
+  — o Termo de Adesão nº 003/2022, de 25/08/2022, aditado em 2023 —, e ali a resposta foi mais dura: descredenciamento
+  e denúncia do convênio em agosto de 2026, após rejeição da defesa administrativa da empresa.'
+- 'Os atos societários publicados no caderno empresarial paulista descrevem a empresa por dentro: R$ 100,00
+  de capital e sede em apartamento na constituição de 2017; capitalização a R$ 1 milhão e entrada de Andrea
+  Lima Novaes em 24/04/2018, doze dias após o leilão da estatal baiana; debêntures de subscrição privada
+  remuneradas em 50% do lucro líquido; R$ 30,575 milhões pagos ''ao debenturista'' em maio de 2019, sem
+  que os extratos o nomeiem. Identificar o debenturista é a pergunta em aberto mais direta sobre quem
+  realmente recebia o resultado do CredCesta.'
+- Documento oficial da secretaria de administração catarinense, de março de 2026, identifica o produto
+  como 'Cartão Consignado de Benefícios do CREDCESTA (PKL ONE)' e orienta servidores com dúvidas a procurar
+  a gerência de consignados — confirmando a operação em Santa Catarina, estado que já constava da lista
+  de cobertura em 2022. A empresa não figura entre as consignatárias ativas do mesmo documento, e a data
+  de seu credenciamento no estado não foi localizada porque o portal do diário oficial catarinense exige
+  autenticação para busca de texto integral.
+- 'A presença em vinte e quatro estados não vinha de estrutura societária: a empresa tinha seis estabelecimentos
+  inscritos, mas a captura da página de lojas em janeiro de 2026 mostra rede física de 49 unidades em
+  vinte e quatro unidades da federação. Quem vendia na ponta era correspondente bancário, remunerado por
+  comissão do seguro prestamista — não do seguro de vida, expressamente excluído —, num cartão que não
+  admitia portabilidade para outra instituição.'
+- 'Nos autos sul-mato-grossenses a empresa sustentou não possuir documentos da contratação, atribuindo
+  a responsabilidade ao banco. A questão de sua natureza jurídica divide o tribunal estadual: câmaras
+  distintas ora acolhem sua exclusão do polo passivo por não ser instituição financeira, ora a reconduzem
+  por ser ''administradora operacional do produto Credcesta''. O efeito prático é que o mesmo argumento
+  que aponta a falha do credenciamento serve, no processo, para retirá-la da lide. Precisão jurídica:
+  a lei do sistema financeiro pune atuar como instituição financeira sem autorização, e não o uso da palavra
+  ''Banco'' na denominação — a designação que consta do diário oficial é indício de como o Estado enxergava
+  a empresa, não enquadramento autônomo.'
+- O credenciamento inaugural foi na Bahia, em 03/08/2018, três meses após o decreto que abriu a porta,
+  e assinado pelo mesmo secretário da Administração que o referendara; seguiu-se o Contrato de Cooperação
+  nº 079/2018, de 48 meses, renovado em 21/09/2022. No Rio Grande do Norte, o credenciamento de 19/07/2022
+  antecedeu em dez meses a criação da margem exclusiva, e o termo descreve o objeto como 'credenciamento
+  de instituição financeira' — terceiro ato oficial, ao lado dos de Mato Grosso do Sul e São Paulo, a
+  enquadrar nessa categoria uma holding de instituições não financeiras.
 source_ids:
 - src-djen-cnj-agravo-3000060-09-2026-tjrj
 - src-metropoles-2026-08-15-pkl-one-credcesta-macapa
 - src-minhareceita-2026-09-05-pkl-one-participacoes-cnpj
 - src-poder360-2026-credcesta-arquitetura-e-privatizacao
+- src-bcb-olinda-2026-09-09-pkl-one-nao-consta-instituicoes-autorizadas
+- src-doems-2023-03-14-extrato-convenio-009-2023-pkl
+- src-doems-2025-03-12-extrato-convenio-005-2025-pkl
+- src-doems-2026-07-03-resolucao-sad-235-credenciamentos
+- src-tjms-cjpg-2026-09-09-julgados-pkl-one-credcesta
+- src-investigams-2026-09-05-credcesta-convenio-renovado-segue-vigente
+- src-doesp-2022-05-27-despacho-credenciamento-pkl-one
+- src-doesp-2026-03-19-suspensao-codigo-097337-4-pkl-one
+- src-doc-2026-08-14-descredenciamento-pkl-one-pmsp
+- src-doc-2022-08-26-termo-adesao-003-2022-pmsp-pkl-one
+- src-doesp-empresarial-2017-2019-atos-societarios-pkl-one
+- src-doe-ap-2023-06-05-edital-001-2023-sead-pkl-one-inabilitada
+- src-dioe-pr-2026-05-07-resolucao-seap-12294-pas-pkl-one
+- src-doesp-2026-editais-diretoria-ativos-passivos-banco-pkl-one
+- src-doe-es-2023-08-25-decreto-5482-r-margem-adicional
+- src-sea-sc-2026-03-relacao-consignatarias-cartao-beneficio-credcesta
+- src-webarchive-2026-01-19-credcesta-lojas-rede-em-vinte-e-quatro-ufs
+- src-webarchive-2024-05-18-faq-credcesta-comissao-seguro-prestamista
+- src-tjms-2025-2026-precedentes-divergentes-sobre-legitimidade-da-pkl-one
+- src-bcb-lei-4595-1964-art-44-paragrafo-7
+- src-tjms-2026-04-30-acordao-ai-1403759-consulta-ao-site-do-banco-central
+- src-doeba-2018-08-04-credenciamento-pkl-one-cadastro-consignatarias
+- src-doeba-2018-09-21-contrato-cooperacao-079-2018-saeb-pkl-one
+- src-doern-2022-07-20-termo-adesao-03-2022-sead-pkl-one
+- src-doern-2023-06-01-decreto-32718-margem-cartao-de-beneficio
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-05'
+updated_at: '2026-09-09'

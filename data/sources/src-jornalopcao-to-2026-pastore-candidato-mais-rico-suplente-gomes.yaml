@@ -1,0 +1,25 @@
+id: src-jornalopcao-to-2026-pastore-candidato-mais-rico-suplente-gomes
+kind: source
+title: Com patrimônio de R$ 677 milhões, suplente de Eduardo Gomes, Luiz Pastore é o candidato mais rico
+  das eleições de 2026
+publisher: Jornal Opção (Tocantins)
+publication_date: '2026'
+retrieved_at: '2026-09-06'
+url: https://tocantins.jornalopcao.com.br/noticias/com-patrimonio-de-r-677-milhoes-suplente-de-eduardo-gomes-luiz-pastore-e-o-candidato-mais-rico-das-eleicoes-de-2026-597262/
+source_type: press
+summary: Confirma Pastore como 1º suplente na chapa do senador Eduardo Gomes (PL-TO) ao Senado em 2026,
+  com R$ 677,7 milhões declarados — candidato mais rico do pleito. Nenhuma conexão factual entre essa
+  candidatura e o caso Banco Master foi localizada; Eduardo Gomes comentou publicamente, em episódio distinto
+  e sem relação com Pastore, um áudio envolvendo Flávio Bolsonaro e Daniel Vorcaro sobre financiamento
+  de um projeto de filme, negando que Flávio tivesse qualquer estrutura de governo para se envolver no
+  caso Master.
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,20 @@
+id: ev-bahia-precatorios-pedido-cpi-sem-instalacao-confirmada
+kind: evidence
+classification: C
+proposition: O deputado estadual Leandro de Jesus (PL) protocolou, em 15/03/2026, pedido de CPI na Alba
+  (prazo proposto de 180 dias) sobre as operações de cessão, antecipação e pagamento de precatórios ao
+  Master — sem confirmação de instalação até a data desta apuração. O deputado Luciano Ribeiro (União
+  Brasil) também cobrou publicamente explicações. Não foi localizada investigação formal do TCE-BA ou
+  do MP-BA especificamente sobre este mecanismo. Não há contradição factual entre a versão do governo
+  (operação regular, de iniciativa dos servidores, amparada em norma federal) e a da oposição (que trata
+  como possível irregularidade a apurar) — divergem na interpretação política, não nos fatos relatados.
+document_ids: []
+source_ids:
+- src-faroldabahia-2026-03-15-deputado-propoe-cpi-precatorios
+- src-muitainformacao-2026-deputado-cobra-explicacoes-contrato-master
+date: '2026-03-15'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

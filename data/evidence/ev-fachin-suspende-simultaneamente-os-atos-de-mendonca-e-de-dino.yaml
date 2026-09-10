@@ -1,0 +1,29 @@
+id: ev-fachin-suspende-simultaneamente-os-atos-de-mendonca-e-de-dino
+kind: evidence
+classification: C
+proposition: 'Em 09/09/2026 o presidente do Supremo suspendeu, na mesma decisão, os dois atos monocráticos
+  que se anulavam: o de André Mendonça, que em 08/09 afastara o diretor-geral da Polícia Federal, Andrei
+  Rodrigues, e o diretor de Inteligência Policial, Leandro Almada; e o de Flávio Dino, que no dia seguinte
+  os reintegrara. Nenhum dos dois produz efeito. O fundamento declarado descreve o estado do próprio tribunal:
+  ''quadro de conflitos e sobreposições processuais que configuram grave lesão à ordem pública''. Foram
+  articulados três feitos — a petição instaurada pela Presidência, a petição de relatoria de Mendonça,
+  sobrestada, e a suspensão de liminar pedida pela União. A íntegra revela um quarto item no dispositivo,
+  ausente da cobertura: a suspensão de ''todo e qualquer procedimento que verse sobre potencial investigação
+  em face de integrantes deste Supremo Tribunal Federal'', que passam a ser previamente remetidos à Presidência;
+  e ainda a suspensão do procedimento de controle externo da atividade policial instaurado pela Procuradoria-Geral
+  da República.'
+document_ids:
+- doc-2026-09-09-decisao-fachin-suspende-mendonca-e-dino-caso-andrei
+- doc-2026-09-09-integra-decisao-fachin-pet-16704
+source_ids:
+- src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
+- src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
+- src-stf-2026-09-09-integra-decisao-fachin-pet-16704
+excerpt: Delineia-se, assim, quadro de conflitos e sobreposições processuais que configuram grave lesão
+  à ordem pública.
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

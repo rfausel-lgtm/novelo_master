@@ -10,21 +10,119 @@ positions:
   - src-correiodoestado-2026-08-24-dino-compartilhamento
 summary: Relator no STF do inquérito que apura o suposto uso de recursos de emendas parlamentares no financiamento
   do filme 'Dark Horse'. Em 24/08/2026 autorizou o compartilhamento, com a Polícia Federal, dos dados
-  apreendidos pela Polícia Civil de São Paulo na operação contra Karina Ferreira da Gama.
+  apreendidos pela Polícia Civil de São Paulo na operação contra Karina Ferreira da Gama. Em 09/09/2026,
+  na Pet 16.669/DF (mesmo processo em que já era relator, sobre o caso 'Dark Horse'), acolheu requerimento
+  incidental de Andrei Rodrigues e determinou sua reintegração e a de Leandro Almada da Costa à Polícia
+  Federal, neutralizando a decisão de afastamento de André Mendonça de um dia antes — por considerar ilegítimo
+  o pedido do Partido Novo e usurpada a competência do Plenário do STF (já afetada pela Pet 16.704, de
+  Fachin). Citou, como agravante, reunião entre Mendonça e Vorcaro 'nas dependências de uma empresa privada'
+  e a carta pública de 13 ex-ministros do STF pedindo apuração da 'mais aguda crise' da história da Corte.
+  Ressalvou que sua decisão se submete exclusivamente à autoridade do Plenário.
 why_in_novelo: É o relator, no STF, da frente que apura o uso de emendas parlamentares no financiamento
-  do filme, e autorizou o repasse dos dados da operação paulista à Polícia Federal.
+  do filme 'Dark Horse', e autorizou o repasse dos dados da operação paulista à Polícia Federal — e, em
+  09/09/2026, usou esses mesmos autos para reintegrar Andrei Rodrigues à PF, neutralizando a decisão de
+  Mendonça, num episódio central da crise institucional do STF.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+- kind: version
+  summary: 'Em postagem no Instagram em 06/09/2026, defendeu decisões monocráticas do STF e disse caber
+    ao próprio STF decidir sobre a tramitação de processos: ''E quem decide o que é ‘tramitação longa’?
+    Opiniões pessoais? Ou critérios legais e regimentais?'''
+  source_ids:
+  - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+  date: '2026-09-06'
+open_questions:
+- Em 17/08/2026, no 'Caso Tech Office' (Pet 15.900/DF e conexas), afastou o presidente do TCE-MA — processo
+  sem relação comprovada com o caso Master, citado apenas como precedente na decisão de Mendonça sobre
+  Andrei Rodrigues. Uma fonte única e não verificada (111Next, 08/09/2026) menciona um 'Dino' em anotações
+  de Vorcaro sobre precatórios de R$ 15 bilhões — identificação com o ministro expressamente negada por
+  sua assessoria, tratada como especulação não confirmada.
+- 'A leitura direta da decisão de 09/09/2026 (Pet 16.669) expõe tensões processuais objetivamente visíveis
+  no próprio texto — uso de petição incidental em processo próprio para produzir efeitos sobre decisão
+  de outro ministro em processo distinto; invocação da competência exclusiva do Plenário como fundamento
+  para uma decisão monocrática própria com efeitos imediatos; citação de fato ''vindo a lume'' (reunião
+  Mendonça-Vorcaro) sem referência a documento constante dos autos — registradas em evidência correlata,
+  sem juízo de valor jurídico autônomo do corpus sobre a correção da decisão. Linha de investigação em
+  aberto: conexões pessoais, políticas e institucionais de Flávio Dino relevantes para avaliar esse episódio.'
+- 'Trajetória: governador do Maranhão (2015-2023, dois mandatos); ministro da Justiça e Segurança Pública
+  do terceiro governo Lula a partir de janeiro de 2023; indicado ao STF por Lula em 27/11/2023, aprovado
+  na sabatina/plenário do Senado em 13/12/2023, posse em 22/02/2024 (vaga de Rosa Weber).'
+- Foi ele quem anunciou, em coletiva ao lado de Lula em dezembro de 2022, a escolha de Andrei Rodrigues
+  para a Direção-Geral da PF (posse em janeiro de 2023), justificando pela 'necessidade de restauração
+  de plena autoridade e legalidade' na PF e pela experiência de Rodrigues na segurança da Amazônia e na
+  coordenação da segurança de Lula na campanha e na transição — o delegado que reintegraria, no mesmo
+  cargo, em 09/09/2026.
+- Já era relator, desde antes de julho de 2026, de outra frente do mesmo caso Dark Horse (emendas parlamentares
+  a empresas ligadas à produtora do filme) — frente que a CNN Brasil, em análise de 02/07/2026 (mais de
+  dois meses antes do episódio), já apontava como tendo 'potencial de se chocar' com a frente de Mendonça
+  sobre o destino dos recursos de Vorcaro. É a mesma Pet 16.669 usada, em 09/09/2026, para o pedido incidental
+  de Andrei.
+- 'ATUALIZAÇÃO: quatro advogados/juristas ouvidos pela Gazeta do Povo (09/09/2026) criticaram a técnica
+  processual da decisão (ver evidência correlata) — todos no sentido crítico, nenhum a defendendo. Apenas
+  um deles (Alessandro Chiarottino) tem credencial declarada de professor de direito constitucional; os
+  demais são advogados sem especialização acadêmica declarada na área, e todos vêm de uma única reportagem,
+  de veículo com linha editorial crítica ao STF — não caracteriza consenso doutrinário estabelecido. Busca
+  dirigida por manifestação de juristas de maior projeção nacional (Lenio Streck, Pierpaolo Bottini, Gustavo
+  Binenbojm, Ives Gandra Martins, ex-ministros do STF/STJ) e por notas da OAB Federal, do IAB ou da ABJD
+  sobre este episódio específico não localizou nenhuma manifestação — nem crítica, nem favorável — até
+  a data desta apuração; a pendência sobre manifestação doutrinária de peso permanece aberta. Recurso
+  formal de Mendonça contra a decisão de Dino também não foi localizado até esta data.'
+- Não localizado nenhum vínculo financeiro, patrimonial ou societário entre ele e Andrei Rodrigues, ou
+  entre ele e qualquer outra figura central do caso Master, além da indicação profissional de 2022 já
+  registrada.
+- 'No Maranhão, sua base política percorreu o PCdoB (15 anos) até migrar para o PSB em 2021/2022, governando
+  em coalizão ampla (''Todos Pelo Maranhão'', 15 partidos). Articulou a sucessão de Carlos Brandão (então
+  vice) ao governo em 2022, mas a relação se rompeu publicamente depois da reeleição de Brandão, centrada
+  na disputa por indicações ao TCE-MA — episódio (Pet 15.900, afastamento do sobrinho de Brandão da presidência
+  do TCE-MA) já registrado no corpus como sem relação com o caso Master. Segundo fonte única não corroborada,
+  houve reaproximação tática entre o grupo Brandão e a família Sarney, rival histórica de Dino no estado.
+  Aliados do grupo Dino no Maranhão: Othelino Neto, a senadora Ana Paula Lobato, Carlos Lula, Márcio Jerry.
+  Não localizado nenhum operador do mercado financeiro maranhense com proximidade documentada a ele.'
+- Busca dirigida não localizou exposição financeira do governo do Maranhão ou de municípios maranhenses
+  ao Banco Master (o estado não consta da lista oficial de 18 RPPS expostos), nem conexão financeira direta
+  entre ele e o ecossistema Master no estado — resultado negativo.
+- Segundo apuração da Poder360 (09/09/2026), teria havido articulação paralela na noite de 08/09/2026
+  entre integrantes do governo Lula e ele mesmo, para reverter a decisão de Mendonça antes de Fachin se
+  posicionar — e, segundo a mesma reportagem, ele integraria, com Gilmar Mendes e Alexandre de Moraes,
+  um grupo que deseja retirar a relatoria do caso Master de Mendonça. Ambas as alegações permanecem, até
+  a data desta apuração, exclusivas da Poder360, sem corroboração jornalística independente localizada
+  — registradas como leitura de um único veículo, não como fato estabelecido.
+- 'Foi requerido em duas notícias-crime por omissão imprópria diante dos atos de 8 de janeiro de 2023,
+  quando era ministro da Justiça, ambas relatadas por Alexandre de Moraes: a Petição 10.829, do deputado
+  Nikolas Ferreira, arquivada em um dia e publicamente, em janeiro de 2023; e a Petição 11.228, do deputado
+  estadual baiano Leandro de Jesus, que ficou 1.219 dias sem movimentação sob segredo de justiça e só
+  foi decidida em 21/08/2026 — três dias após reportagem revelar que estava parada e que seu CPF fora
+  extraído desses autos para uma varredura funcional em tribunais. Não foi localizada manifestação dele
+  sobre nenhum dos dois episódios. Registro de cronologia, para afastar leitura equivocada: o arquivamento
+  é anterior em dezenove dias à sua decisão de 09/09/2026 que reintegrou Andrei Rodrigues à PF, e nenhuma
+  fonte estabelece relação entre os dois atos.'
 source_ids:
-- src-correiodoestado-2026-08-24-dino-compartilhamento
+- src-111next-2026-09-08-vorcaro-cita-dino-precatorios-15bi
+- src-brasildefato-2022-12-09-dino-indica-andrei-legalidade
 - src-cnn-2026-09-dark-horse-coaf
+- src-cnnbrasil-2022-12-dino-anuncia-andrei-rodrigues-pf
+- src-cnnbrasil-2026-07-02-dino-larga-frente-mendonca-dark-horse
+- src-cnnbrasil-2026-08-17-dino-afastamento-tce-maranhao
+- src-correiodoestado-2026-08-24-dino-compartilhamento
+- src-exame-2026-09-08-agu-messias-pede-suspensao-mendonca-fachin
+- src-gazetadopovo-2026-08-17-dino-afasta-presidente-tce-ma
+- src-johncutrim-2025-08-18-dino-decide-contra-rival-grupo-maranhao-sarney
+- src-migalhas-2026-09-09-dino-reintegra-andrei-pf
+- src-stf-2024-02-22-dino-posse-ministro
+- src-sul21-2026-09-08-carta-13-exministros-stf-agenciabrasil
+- src-verificacao-direta-equipe-pet16669-decisao-dino-integra
+- src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
+- src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-migalhas-2026-09-09-dino-questiona-mendonca-juiz-de-si-mesmo
+- src-gazetadopovo-2026-09-09-dino-blinda-cupula-pf-atropela-mendonca-fachin
+- src-stf-2026-pet-11228-andamento-processual
+- src-stf-2023-pet-10829-andamento-e-decisao-nikolas
+- src-stf-2023-pet-11227-andamento-partido-novo
+- src-ainvestigacao-2026-09-09-moraes-arquiva-dino-denunciante-alvo
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-04'
+updated_at: '2026-09-09'
 photo:
   path: /fotos/flavio-dino.jpg
   source: Wikimedia Commons

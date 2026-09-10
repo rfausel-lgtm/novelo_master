@@ -1,0 +1,21 @@
+id: ev-o-nome-que-assina-o-credenciamento-muda-de-estado-para-estado
+kind: evidence
+classification: C
+proposition: 'Um achado metodológico atravessa toda a expansão: o nome que figura no credenciamento não
+  é o mesmo em todos os estados. A PKL One aparece em São Paulo, no Rio de Janeiro, no Paraná, em Mato
+  Grosso do Sul e em Santa Catarina; em Mato Grosso e em Minas Gerais quem consta é o Banco Master; em
+  Goiás não consta nenhum dos dois no diário estadual, embora o estado figure na lista de cobertura do
+  produto desde 2022; e no Amapá a operadora foi inabilitada e o banco, habilitado. A consequência é prática
+  e vale para qualquer verificação futura: buscar apenas por ''PKL One'' perde estados inteiros, e buscar
+  apenas por ''Banco Master'' perde outros tantos.'
+document_ids: []
+source_ids:
+- src-jornalmg-2022-02-23-decreto-48370-reserva-cartao-beneficio
+- src-doego-2026-09-09-ausencia-de-pkl-one-e-master-no-diario-de-goias
+- src-sea-sc-2026-03-relacao-consignatarias-cartao-beneficio-credcesta
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

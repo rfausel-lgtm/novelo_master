@@ -1,0 +1,23 @@
+id: ev-andrea-novaes-suspeita-transferencia-3-5mi-familia-wagner
+kind: evidence
+classification: I
+proposition: 'CORREÇÃO EDITORIAL (lote 116): a transferência de R$ 3,5 milhões da PKL One Participações
+  à BN Financeira em 17/10/2025 já é fato classe D no corpus, com leitura direta da decisão do STF —
+  ver rel-pkl-one-participacoes-bn-financeira-financial e ev-valores-bn-reconciliados. Não é ''suspeita
+  de fonte única''. O que permanece como inferência, e é o objeto real desta entrada, é a coincidência
+  temporal entre essa transferência e o mandato de Andréa Lima Novaes como administradora da PKL One
+  (2018 até 16/07/2026): ela estava no cargo na data da transferência, mas nenhuma fonte localizada
+  atribui a ela, pessoalmente, decisão, ordem ou conhecimento específico sobre essa operação — o corpus
+  não infere autoria pessoal a partir apenas do cargo.'
+document_ids: []
+source_ids:
+- src-dcm-2026-06-enteado-wagner-cobrou-gestor-master-pf
+inference_basis: A administração institucional da PKL One por Andréa Lima Novaes coincide no tempo com
+  a transferência já documentada (classe D) à BN Financeira, mas nenhuma fonte estabelece conhecimento
+  ou decisão pessoal dela sobre essa operação específica — inferência de coincidência de cargo, não de
+  conduta.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -62,44 +62,127 @@ cited_position:
   - src-agenciabrasil-2026-06-18-wagner-nega-vantagens
   by_id: jaques-wagner
   date: '2026-06-18'
+- kind: denial
+  summary: 'Em entrevista à Folha de S.Paulo (26/06/2026), admitiu proximidade com Augusto Lima mas negou
+    favorecimento ilícito, chamou a ação da PF de ''espetacularização'' e ''patacoada'', e acusou o STF
+    de encenar a divulgação do dinheiro apreendido: ''Estão reinventando a Lava Jato.'''
+  source_ids:
+  - src-poder360-2026-06-26-wagner-admite-relacao-augusto-lima-patacoada
+  by_id: jaques-wagner
+  date: '2026-06-26'
+- kind: denial
+  summary: 'Sobre a alegação, na delação de João Carlos Mansur, de ter recebido ingressos para show da
+    Taylor Swift avaliados em R$ 63,3 mil: nega conhecer Mansur ou ter tido qualquer relação com a Reag
+    Investimentos, classificando a compra como ''um pedido pessoal a um amigo''.'
+  source_ids:
+  - src-bahianoticias-2026-08-26-proposta-delacao-mansur-wagner-acmneto
+  by_id: jaques-wagner
+  date: '2026-08-26'
 open_questions:
 - O relatório da PF de 30/07/2026 (PDF de 33 MB) não foi lido pela equipe; o corpus registra a síntese
   do Poder360.
 - O corpus não contém denúncia ou decisão de mérito sobre o senador.
-- A PGR se opôs à PF quanto às medidas da 9ª fase, em parecer de 16/06/2026 contrário à apreensão de bens
-  e à busca no gabinete parlamentar. O parecer não foi lido pela equipe nem seu signatário identificado.
 - 'Resolvida a divergência sobre a empresa da família: BN Financeira e BK Financeira são a mesma pessoa
   jurídica — razão social e nome fantasia do CNPJ 42.645.396/0001-74. Empresa distinta, da mesma sócia,
   é a BN Representações Tecnológicas, antiga Vamos Florir Comércio de Flores. Os valores também se reconciliam:
   R$ 3,5 milhões é uma transferência documentada de outubro de 2025; R$ 11 milhões, o acumulado alegado
   de 2022 a 2025. O número de R$ 5,5 milhões não existe nos autos.'
+- 'Valores apreendidos na busca de 18/06/2026 (US$ 55 mil, € 33 mil): defesa alega origem lícita e pede
+  anulação da medida ao STF — pendente de decisão.'
+- Mendonça registrou, ao publicizar a Pet 16.210, uma coincidência tratada como possível indício de vazamento
+  (pedido de audiência de investigado no mesmo dia da chegada das representações da PF) — sem conclusão
+  sobre autoria.
+- A representação por quebra de decoro contra ele, no Conselho de Ética do Senado, não avança por paralisia
+  estrutural do próprio órgão desde 2024 — não por decisão específica sobre o mérito do caso.
+- Em entrevista de 08/09/2026, atribuiu o escândalo a Bolsonaro/Campos Neto, chamou Vorcaro de 'marginal'
+  e citou 'setenta e tantos milhões' como valor dado por Vorcaro a Flávio Bolsonaro.
+- Reportagens (O Antagonista/DCM, Jornal Sete, Metrópoles) identificam Eduardo Mendonça Sodré Martins,
+  alcunha 'Dudu', como o enteado a quem a PF atribui R$ 2,34 milhões (fato já classe D no corpus, antes
+  sem nome) — identificação nominal não confirmada por leitura direta de documento primário, e não reconciliada
+  com o quadro societário já conhecido da BN Financeira.
+- O advogado Ângelo Rezende, que o representa, é apontado por reportagem do UOL (replicada) como sócio
+  indireto da PKL One Participações — não verificado por consulta direta a registro societário público.
+- 'Confirmado, por leitura direta: o parecer da PGR de 16/06/2026 (ASSCRIM nº 940922/2026) foi assinado
+  por Paulo Gonet, e se opôs especificamente à busca no gabinete parlamentar (separação de poderes) e
+  à apreensão de bens de luxo (desproporcionalidade) — não à operação como um todo. Mendonça não acolheu
+  integralmente essa posição.'
+- 'Confirmado, por leitura direta da decisão de Mendonça na Pet 16.229 (item I.3, §34): o enteado citado
+  pela PF é Eduardo Mendonça Sodré Martins, e a mensagem ''amanhã vence os boletos e são altos'' é dele,
+  de 04/09/2025, dirigida a Augusto Lima — a decisão não formula um valor ''total'' somando a transferência
+  de R$ 3,5 milhões com os R$ 2,34 milhões atribuídos a ele; qualquer soma consolidada citada pela imprensa
+  é inferência jornalística, não afirmação do documento.'
+- Em mensagem a Augusto Lima, repassou pedido atribuído a 'um de seus filhos' (não identificado por nenhuma
+  fonte) solicitando dados do proprietário formal do apartamento do Poème Horto (Salvador) — frente distinta
+  do enteado (Eduardo Mendonça Sodré Martins/BN Financeira) já documentado no corpus. Busca dirigida por
+  menção a um filho biológico de Wagner especificamente no caso do BRB (disputa acionária, relatório Kroll)
+  não localizou nenhuma ocorrência.
+- Guilherme Henrique Sodré Martins — pai biológico do enteado Eduardo Mendonça Sodré Martins, não parente
+  de sangue de Wagner — é descrito pela PF como 'pessoa próxima e de confiança' do senador e articulador
+  entre o núcleo Master e seu gabinete; foi alvo de medidas da PF na 9ª fase da Compliance Zero.
+- A alegação sobre os ingressos da Taylor Swift (R$ 63,3 mil), já conhecida no corpus por outra via, consta
+  especificamente entre os 17 anexos da delação de João Carlos Mansur (26/08/2026), não apenas em mensagens
+  do celular de Vorcaro — ele nega conhecer Mansur ou ter relação com a Reag.
+- 'Sobre a privatização da Ebal, o corpus corrigiu em 09/09/2026 um registro anterior impreciso. O que
+  está documentado: sancionou, como governador, a Lei estadual nº 13.204, de 11/12/2014, cujo art. 36
+  autorizou a alienação do controle acionário da companhia; e, em 2018, já como Secretário de Desenvolvimento
+  Econômico da Bahia, chefiava a secretaria cuja Comissão Especial conduziu o leilão que vendeu a empresa
+  por R$ 15 milhões. Sua assessoria limita-se a afirmar que ele ''já forneceu todos os esclarecimentos
+  necessários'' e que os méritos do procedimento são discutidos por sua defesa nos autos; ao depor na
+  CPMI do INSS em 26/02/2026, sustentou que a privatização era necessária diante dos prejuízos anuais
+  da rede.'
 source_ids:
-- src-poder360-2026-06-18-nona-fase-wagner
-- src-senado-2024-08-14-pec-65-adiada
-- src-metropoles-2026-01-24-wagner-mantega
-- src-senado-2026-06-25-wagner-deixa-lideranca
-- src-poder360-2026-06-24-wagner-deixa-lideranca
-- src-poder360-2026-07-31-pf-wagner-relatorio
-- src-poder360-2026-08-27-lula-defende-wagner
-- src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+- src-acordacidade-2026-08-28-lula-defende-wagner
+- src-agenciabrasil-2026-06-18-wagner-nega-vantagens
 - src-agenciabrasil-2026-08-07-wagner-depoimento-adiado
 - src-anoticiadovale-2026-09-02-wagner-inocencia-eleicoes
-- src-acordacidade-2026-08-28-lula-defende-wagner
+- src-bahianoticias-2026-08-26-proposta-delacao-mansur-wagner-acmneto
+- src-bahiapolitica-2026-uol-advogado-wagner-pkl-one
+- src-bnews-2026-09-08-sabatina-wagner-bolsonaro-campos-neto-marginal
 - src-congresso-mpv-1106-2022-emendas
-- src-metropoles-2026-06-pf-wagner-interlocutor-relevante
+- src-diarioflip-2026-08-advogado-wagner-participacao-consignado
 - src-infomoney-2026-06-pgr-foi-contra-pf-apreensao-wagner
-- src-poder360-2026-apartamento-poeme-horto-wagner
-- src-agenciabrasil-2026-06-18-wagner-nega-vantagens
+- src-jbrasilia-2026-06-22-wagner-pede-anular-busca-apreensao
+- src-jornalsete-2026-pf-repasse-empresa-enteado-wagner
+- src-metropoles-2026-01-24-wagner-mantega
+- src-metropoles-2026-06-18-filho-wagner-imovel-poeme-horto
+- src-metropoles-2026-06-pf-wagner-interlocutor-relevante
+- src-metropoles-2026-guilherme-sodre-martins-melhor-amigo-wagner-9afase
+- src-metropoles-2026-master-5-milhoes-escritorio-lewandowski
+- src-metropoles-2026-mirelle-pf-boletos-enteado-wagner
 - src-minhareceita-bn-financeira-cnpj
-- src-stf-pet-16229-decisao-9a-fase-pdf
+- src-oantagonista-2026-06-18-enteado-wagner-boletos
+- src-otempo-2026-07-31-novo-quebra-decoro-wagner-conselho-etica
+- src-otempo-2026-08-07-pf-desmarca-depoimento-wagner
 - src-pf-representacao-9a-fase-wagner-pdf
+- src-poder360-2026-06-18-nona-fase-wagner
+- src-poder360-2026-06-24-wagner-deixa-lideranca
+- src-poder360-2026-06-26-wagner-admite-relacao-augusto-lima-patacoada
+- src-poder360-2026-07-30-mendonca-torna-publica-investigacao-wagner
+- src-poder360-2026-07-31-pf-wagner-relatorio
+- src-poder360-2026-08-27-lula-defende-wagner
+- src-poder360-2026-apartamento-poeme-horto-wagner
+- src-quenty-2026-09-06-conselho-etica-senado-paralisado
+- src-senado-2024-08-14-pec-65-adiada
+- src-senado-2026-06-25-wagner-deixa-lideranca
+- src-stf-pet-16229-decisao-9a-fase-pdf
+- src-stfnoticias-2026-06-18-9afase-autoriza-sp-ba-df
+- src-verificacao-direta-equipe-parecer-pgr-940922-2026
+- src-verificacao-direta-equipe-pet16229-decisao-integra
+- src-verificacao-direta-equipe-pet16662-boletos-nao-consta
+- src-legislabahia-lei-13204-2014-alienacao-ebal
+- src-legislabahia-decreto-18353-2018-credcesta
+- src-legislabahia-decreto-18354-2018-consignacoes
+- src-poder360-2026-credcesta-privatizado-15-milhoes-dividas-93
+- src-poder360-2026-wagner-rui-costa-favoreceram-negocio
+- src-brasilapi-2026-ebal-capital-social
+- src-brasilapi-2026-ngvspe-empreendimentos
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Jaques_Wagner
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'
 photo:
   path: /fotos/jaques-wagner.jpg
   source: Wikimedia Commons

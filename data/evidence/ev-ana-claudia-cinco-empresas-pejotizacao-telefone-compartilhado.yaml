@@ -1,0 +1,25 @@
+id: ev-ana-claudia-cinco-empresas-pejotizacao-telefone-compartilhado
+kind: evidence
+classification: C
+proposition: 'Registros da Receita Federal mostram Ana Cláudia Queiroz de Paiva em cinco estruturas: diretora
+  da Super Empreendimentos (desde 18/08/2021), da REN Empreendimentos (desde 03/02/2022) e da Adonay Participação
+  (desde 19/12/2024); sócia quotista da Storm Empreendimentos (desde 08/01/2025); e titular da ACQ Consultoria
+  e Gestão, empresário individual aberto em 14/11/2019, com capital social de R$ 1.000 e atividade declarada
+  de consultoria em gestão e apoio administrativo. Três dessas empresas — REN, Adonay e Storm — pertencem
+  ao grupo de Fabiano Zettel e funcionam no mesmo endereço em Belo Horizonte. O telefone que ela informou
+  à Receita no registro da ACQ é o mesmo cadastrado por três empresas de Daniel Vorcaro (Viking, Vinc
+  e Star Music). O conjunto — empresa individual de capital mínimo, com CNAE de apoio administrativo,
+  aberta antes de sua entrada nas demais e compartilhando telefone com as empresas do grupo — é compatível
+  com o padrão de contratação por pessoa jurídica em substituição a vínculo empregatício, e não com operação
+  empresarial autônoma. A Super teve as atividades suspensas por determinação judicial em 03/03/2026;
+  REN, Adonay e Storm permanecem ativas.'
+document_ids: []
+source_ids:
+- src-brasilapi-2026-acq-consultoria-ana-claudia
+- src-brasilapi-2026-super-empreendimentos-cnpj
+date: '2019-11-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

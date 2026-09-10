@@ -1,0 +1,27 @@
+id: ambipar
+kind: organization
+name: Ambipar
+aliases: []
+org_type: company
+summary: 'Empresa brasileira de gestão ambiental e resposta a emergências. É investigada na Operação Compliance
+  Zero por um mecanismo distinto do já registrado no corpus (Texas I FIA, compra coordenada de suas ações
+  via Trustee DTVM para inflar artificialmente o preço, causando prejuízo de R$ 135,1 milhões ao Rioprevidência):
+  aqui, a apuração é sobre a venda de títulos de crédito ''podres'' do Banco Master ao BRB envolvendo
+  a empresa. A residência da então vice-diretora Luciana Freire Barca Nascimento foi alvo de busca e apreensão
+  na 2ª fase da operação, em 14/01/2026. Contratou, em 2026, serviços de relações governamentais que incluíram
+  Renata Varandas — namorada pública do diretor-geral da PF à época, Andrei Rodrigues — como representante
+  em reuniões federais.'
+why_in_novelo: É alvo de duas linhas distintas de apuração da Compliance Zero — manipulação de preço de
+  ações (Texas I FIA) e venda de créditos podres ao BRB — e está no centro de um possível conflito de
+  interesse envolvendo a namorada do diretor-geral afastado da PF.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-09-08-namorada-andrei-lobby-ambipar
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

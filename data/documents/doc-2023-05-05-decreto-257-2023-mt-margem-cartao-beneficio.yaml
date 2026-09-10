@@ -1,0 +1,35 @@
+id: doc-2023-05-05-decreto-257-2023-mt-margem-cartao-beneficio
+kind: document
+title: Decreto nº 257/2023 (Mato Grosso) — margens que não concorrem entre si e fim do teto de 24 meses
+doc_type: legislative_act
+date: '2023-05-05'
+source_ids:
+- src-iomat-2023-05-05-decreto-257-2023-consignacoes
+- src-sefazmt-decreto-257-2023-texto-oficial
+summary: 'Editado 25 dias antes de o Banco Master assinar convênio de cinco anos, altera o regime de consignações
+  mato-grossense em quatro pontos que, somados, viabilizaram a operação: cria margem própria de 10% para
+  cartão de benefício e determina que as margens não concorrem entre si; remove o teto de 24 meses para
+  a vigência dos convênios; move o produto para o inciso do rol que dispensa autorização expressa do governador,
+  deixando a decisão na secretaria; e cria a figura da instituição financeira que intermedeia o produto
+  para empresas de meios de pagamento. O texto oficial, recuperado na base da Secretaria de Fazenda estadual,
+  acrescenta três elementos ao que já se sabia do extrato: a regra de que ''as margens consignáveis previstas
+  nos incisos deste artigo são independentes, de forma que não concorrem entre si''; a admissão como consignatárias
+  de entidades administradoras de cartão de benefício ''devidamente conveniadas junto a instituições financeiras
+  autorizadas pelo Banco Central do Brasil'', fórmula que desloca a exigência de autorização da operadora
+  para o parceiro bancário; e um considerando único que invoca apenas ''a necessidade de se promover a
+  desburocratização e a celeridade''. A margem exclusiva de 10% viria a ser encerrada pela lei estadual
+  de 18/06/2025.'
+is_official: true
+related_entity_ids:
+- credcesta
+- banco-master
+issuer: Governo do Estado de Mato Grosso
+url: https://www.iomat.mt.gov.br/portal/edicoes/download/17263/4
+reference: Decreto estadual 257/2023 (MT); DOE-MT nº 28.493, p. 4-5
+excerpt: As margens consignáveis previstas nos incisos deste artigo são independentes, de forma que não
+  concorrem entre si.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

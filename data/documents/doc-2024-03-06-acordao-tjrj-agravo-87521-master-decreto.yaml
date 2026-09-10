@@ -1,0 +1,23 @@
+id: doc-2024-03-06-acordao-tjrj-agravo-87521-master-decreto
+kind: document
+title: Acórdão do TJRJ no Agravo de Instrumento nº 0087521-75.2023.8.19.0000 (Banco Master)
+doc_type: judicial_decision
+date: '2024-03-06'
+source_ids:
+- src-tjrj-2024-03-06-acordao-agravo-87521-master
+summary: Julgado em que o Banco Master é agravante e no qual o tribunal transcreve integralmente o art.
+  6º, III e §1º, do decreto fluminense na redação de 2021 — corroborando a literalidade do dispositivo
+  por fonte judicial. O acórdão cita quatro precedentes no mesmo sentido, demonstrando que o banco invocava
+  o decreto estadual para afastar o teto de margem em litígios com servidores, e que essa tese prevalecia.
+is_official: true
+related_entity_ids:
+- banco-master
+- credcesta
+issuer: Tribunal de Justiça do Estado do Rio de Janeiro — 4ª Câmara de Direito Privado
+url: https://www3.tjrj.jus.br/gedcacheweb/default.aspx?GEDID=000429AA1880829AD4BBF0E85E5A86BB8C26C5161E562448&USER=&UZIP=1
+reference: AI 0087521-75.2023.8.19.0000
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

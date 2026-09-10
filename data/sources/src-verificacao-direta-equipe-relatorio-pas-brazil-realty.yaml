@@ -1,0 +1,27 @@
+id: src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+kind: source
+title: Leitura direta do relatório do PAS CVM 19957.007976/2020-94 (Brazil Realty FII)
+publisher: Verificação direta da equipe — CVM, relatório assinado pelo diretor relator João Accioly
+publication_date: '2026-09-08'
+retrieved_at: '2026-09-06'
+url: https://static.poder360.com.br/uploads/2026/09/processo-administrativo.pdf
+source_type: official_regulator
+summary: Leitura de texto integral do relatório de 19 páginas, datado de 08/09/2026 e assinado pelo diretor
+  relator João Accioly (relator designado em reunião do colegiado de 06/03/2026). Descreve a tese acusatória
+  (operação fraudulenta na 3ª emissão do Brazil Realty FII, R$ 139.100.557,50 captados, 78% integralizados
+  em ativos sobreavaliados por laudos considerados falsos ou inconsistentes), a estrutura societária (Sefer
+  e Entre controladas por Benjamim Botelho via FG Participações; Jaguar Investments, offshore de Botelho,
+  com R$ 113 milhões em cotas), as defesas de cada acusado, e o registro de que os termos de compromisso
+  propostos foram rejeitados pelo colegiado. O documento é apenas o relatório (síntese fática pré-voto);
+  não contém o dispositivo com os valores individuais das multas, obtidos por fonte jornalística (ver
+  fontes seguintes).
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

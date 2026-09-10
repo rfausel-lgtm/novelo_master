@@ -1,0 +1,24 @@
+id: src-doern-2023-06-01-decreto-32718-margem-cartao-de-beneficio
+kind: source
+title: Decreto nº 32.718, de 31 de maio de 2023 — margem de 10% para cartão de benefício (RN)
+publisher: Diário Oficial do Estado do Rio Grande do Norte
+publication_date: '2023-06-01'
+retrieved_at: '2026-09-09'
+url: https://webdisk.diariooficial.rn.gov.br/Jornal/12023-06-01.pdf
+source_type: official_gazette
+summary: Ano 90, edição nº 15.438, páginas 3 e 4. Assinado pela governadora Fátima Bezerra. Cria o inciso
+  IX do art. 5º, admitindo consignação para operações de financiamento e contratação de bens e serviços
+  por cartão de benefício consignado 'ou à utilização com a finalidade de saque', e fixa no art. 15 a
+  reserva de 10% das vantagens permanentes para essa espécie. O ato é dez meses posterior ao credenciamento
+  da empresa no estado, o que inverte a sequência observada na Bahia.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do texto integral no índice do diário oficial baiano e dos diários
+    do Nordeste)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

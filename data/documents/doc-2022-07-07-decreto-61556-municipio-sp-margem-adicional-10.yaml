@@ -1,0 +1,28 @@
+id: doc-2022-07-07-decreto-61556-municipio-sp-margem-adicional-10
+kind: document
+title: Decreto municipal nº 61.556/2022 (São Paulo) — margem adicional e exclusiva de 10%
+doc_type: legislative_act
+date: '2022-07-07'
+source_ids:
+- src-legislacao-pmsp-decreto-61556-2022-margem-adicional
+- src-doc-2022-08-26-termo-adesao-003-2022-pmsp-pkl-one
+summary: 'Na capital, o desenho é o oposto do estadual e idêntico ao do Rio de Janeiro e ao de Mato Grosso:
+  a margem para cartão de benefício é expressamente adicional — ''majorada, adicionalmente, em mais 10%''
+  sobre os 30% ordinários, além de até 5% para outra finalidade. Assinado por Ricardo Nunes, é o fundamento
+  invocado seis semanas depois no credenciamento da PKL One pela prefeitura.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+- ricardo-nunes
+issuer: Prefeitura do Município de São Paulo
+url: https://legislacao.prefeitura.sp.gov.br/decreto-61556-de-7-de-julho-de-2022
+reference: Decreto municipal nº 61.556, de 07/07/2022 — altera os Decretos 58.966/2019 e 58.890/2019
+excerpt: fica majorada, adicionalmente, em mais 10% (dez por cento), exclusivamente para aquisição de
+  bens e serviços, à vista ou mediante financiamento, assim como saques emergenciais por meio de Cartão
+  de Benefício
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

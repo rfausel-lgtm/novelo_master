@@ -1,0 +1,24 @@
+id: ev-relatorio-apocrifo-autodescrito-sem-valor-probatorio
+kind: evidence
+classification: D
+proposition: O relatório de inteligência apócrifo citado na decisão de Mendonça se autodescreve, em seu
+  próprio texto (reproduzido na decisão), como 'documento de trabalho', 'sem valor probatório', de 'difusão
+  restrita', com 'natureza não acusatória e não impugnativa' que expressamente 'não imputa infração a
+  magistrado nem a qualquer autoridade'. Sua conclusão central (item 'X.7') classifica como de 'confiança
+  agregada BAIXA' os elos mais frágeis da cadeia inferencial que embasa suas hipóteses mais graves, afirmando
+  que isso não autorizaria 'afirmação institucional, providência formal ou manifestação externa' — mas
+  concluindo, ainda assim, que 'autoriza monitoramento e coleta dirigida'. Entidades técnicas (Intelis
+  — sindicato de inteligência da Abin; ADPF) emitiram notas classificando o documento como tecnicamente
+  impróprio para a finalidade de atividade de inteligência.
+document_ids:
+- doc-2026-09-08-decisao-mendonca-afasta-andrei-pet16662
+source_ids:
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
+excerpt: Ainda que cada elo seja individualmente plausível, a confiança agregada da cadeia completa é
+  BAIXA, e assim deve ser tratada. [...] Autoriza monitoramento e coleta dirigida.
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

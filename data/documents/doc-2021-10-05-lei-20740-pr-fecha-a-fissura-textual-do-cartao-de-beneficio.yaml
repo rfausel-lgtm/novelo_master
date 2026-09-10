@@ -1,0 +1,30 @@
+id: doc-2021-10-05-lei-20740-pr-fecha-a-fissura-textual-do-cartao-de-beneficio
+kind: document
+title: Lei nº 20.740/2021 (PR) — a margem que trocou 'cartão de crédito' por 'cartão de benefício consignado'
+doc_type: legislative_act
+date: '2021-10-05'
+source_ids:
+- src-legislacao-pr-lei-20740-2021-margem-cartao-beneficio-consignado
+summary: 'Dois meses depois de a operadora obter código de desconto no Paraná, a lei estadual substituiu
+  no dispositivo de margem a expressão ''cartão de crédito'', vigente desde 2016, pela designação exata
+  do produto que ela já operava: ''cartão de benefício consignado''. Não criou a possibilidade — ajustou
+  o texto à prática. O segundo achado da leitura é estrutural: o rol de consignações é taxativo e organizado
+  por tipo de despesa, não por tipo de entidade, e o inciso do cartão de benefício não qualifica quem
+  pode operá-lo, ao contrário do inciso dos empréstimos, que exige instituição bancária ou financeira.
+  Em nenhum ponto da legislação paranaense sobre o produto há exigência de autorização do Banco Central.
+  O Rio de Janeiro precisou abrir uma porta em 2021 porque a sua norma exigia essa autorização; o Paraná
+  não precisou, porque nunca a exigiu para essa espécie.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+issuer: Estado do Paraná
+url: https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=iniciarProcesso&codAto=253790&codItemAto=1595102
+reference: Lei nº 20.740, de 05/10/2021, art. 5º §1º e art. 3º
+excerpt: será reservado o limite de 10% (dez por cento) destinado exclusivamente para amortização de despesas
+  efetuadas por meio de cartão de benefício consignado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

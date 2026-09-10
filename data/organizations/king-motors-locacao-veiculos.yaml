@@ -1,0 +1,27 @@
+id: king-motors-locacao-veiculos
+kind: organization
+name: King Motors Locação de Veículos e Participações
+aliases: []
+org_type: company
+summary: Sociedade limitada (CNPJ 36.944.533/0001-79) aberta em 16/04/2020, com capital social de R$ 1
+  milhão, sede em Belo Horizonte, atividade principal de locação de automóveis sem condutor e atividade
+  secundária de holding de instituições não-financeiras. Assim como a King Participações Imobiliárias,
+  tem como sócio-administrador único Luiz Phillipi Machado de Moraes Mourão. Teve as atividades suspensas
+  por determinação judicial em 03/03/2026, na mesma decisão que atingiu as demais empresas do grupo.
+why_in_novelo: É a segunda das duas empresas de sócio único do chefe do grupo de intimidação alcançadas
+  pela suspensão judicial de atividades na Operação Compliance Zero.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Não foi localizada descrição, na decisão ou em reportagem, do papel específico desta empresa no fluxo
+  financeiro — diferentemente da King Participações Imobiliárias, apontada como receptora dos repasses
+  mensais.
+- Não foi localizada manifestação da empresa ou do espólio de seu sócio único.
+source_ids:
+- src-brasilapi-2026-king-motors-locacao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

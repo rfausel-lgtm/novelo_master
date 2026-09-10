@@ -1,0 +1,28 @@
+id: rev-2026-09-06-lote-118-cadeia-fundos-angelo-rezende-terra-firme
+kind: revision
+date: '2026-09-06'
+title: Lote 118 — a cadeia de fundos até Ângelo Rezende cruza com Valério Marega; Terra Firme Realty confirmada
+  como entidade distinta
+summary: Detalhada, com quatro fontes regionais convergentes e dados públicos de CVM, a cadeia de fundos
+  (Diamond FIP, Gardênia, MMPG, Fortress/WNT) que ligaria Ângelo Rezende à PKL One Participações — cruzando
+  com Valério Marega Júnior, já conhecido no corpus. A identificação nominal de Rezende permanece classe
+  A. Confirmado, por CNPJs de raízes diferentes, que Terra Firme Realty e Terra Firme da Bahia Ltda são
+  entidades distintas. Reforçada, sem resolver, a contradição sobre se o Instituto Terra Firme 'gere'
+  a Asseba — registro público confirma Maria Helena Santos Ferreira como presidente estatutária desde
+  2008. Registrada dúvida sobre o nome 'Mark 71' de uma SPE citada no lote 115.
+affected_ids:
+- angelo-rezende
+- valerio-marega-junior
+- andrea-lima-novaes
+- asseba
+- instituto-terra-firme
+- terra-firme-realty
+- pkl-one-participacoes
+- reag-investimentos
+reason: 'Loop de investigação — linha 2 e 3 do investigador-chefe: reconciliação de governança e cadeia
+  de fundos.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

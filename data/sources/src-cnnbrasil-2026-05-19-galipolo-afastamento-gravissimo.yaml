@@ -1,0 +1,21 @@
+id: src-cnnbrasil-2026-05-19-galipolo-afastamento-gravissimo
+kind: source
+title: 'Galípolo: afastamento de servidores ligados ao Master é ''gravíssimo'''
+publisher: CNN Brasil
+publication_date: '2026-05-19'
+retrieved_at: '2026-09-09'
+url: https://www.cnnbrasil.com.br/economia/macroeconomia/galipolo-afastamento-de-servidores-ligados-ao-master-e-gravissimo/
+source_type: press
+summary: 'O presidente do Banco Central, Gabriel Galípolo, sobre o afastamento dos dois servidores: ''Foi
+  gravíssimo e só a justiça vai determinar o que realmente aconteceu''; ''É um dos fatos mais graves que
+  já aconteceu na história do BC. Todo o corpo técnico do BC sente um efetivo luto com o que aconteceu.'''
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

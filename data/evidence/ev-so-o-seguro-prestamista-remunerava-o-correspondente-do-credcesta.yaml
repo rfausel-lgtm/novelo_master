@@ -1,0 +1,20 @@
+id: ev-so-o-seguro-prestamista-remunerava-o-correspondente-do-credcesta
+kind: evidence
+classification: D
+proposition: 'A página de ajuda do próprio operador descreve o incentivo econômico de quem vendia o produto
+  na ponta: o seguro de vida oferecido com o cartão ''não é passível de remuneração para o Correspondente'',
+  ao passo que o seguro prestamista ''é passível de comissão para o Correspondente'', com ativação no
+  momento da contratação. Um dos seguros pagava comissão e o outro não — desenho que orienta a oferta
+  e que dialoga com as reclamações de servidores sobre contratação de itens não solicitados. A mesma página
+  informa que o cartão não admitia portabilidade para outra instituição, o que dificultava a saída.'
+document_ids:
+- doc-2024-05-18-faq-credcesta-comissao-do-seguro-prestamista
+source_ids:
+- src-webarchive-2024-05-18-faq-credcesta-comissao-seguro-prestamista
+excerpt: 'Seguro Prestamista: É passível de comissão para o Correspondente'
+date: '2024-05-18'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

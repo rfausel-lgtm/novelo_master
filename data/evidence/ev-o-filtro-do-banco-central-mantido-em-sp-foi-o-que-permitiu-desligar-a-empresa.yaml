@@ -1,0 +1,22 @@
+id: ev-o-filtro-do-banco-central-mantido-em-sp-foi-o-que-permitiu-desligar-a-empresa
+kind: evidence
+classification: C
+proposition: 'A comparação entre os estados sugere uma consequência prática do desenho normativo escolhido.
+  São Paulo admitiu no rol de consignatárias empresas administradoras de cartões, mas as amarrou a instituições
+  financeiras autorizadas pelo Banco Central, em vez de copiar a fórmula fluminense das ''entidades devidamente
+  autorizadas pelo Estado''. Foi exatamente esse vínculo que permitiu desligar a operadora por ato administrativo
+  próprio quando o banco parceiro foi liquidado: a suspensão do código de desconto invoca o descumprimento
+  do mesmo inciso que a admitira. Onde a exigência foi dispensada, e não transferida, essa via administrativa
+  não estava disponível.'
+document_ids:
+- doc-2026-03-19-despacho-suspensao-codigo-097337-4-pkl-one
+- doc-2025-10-24-portaria-seger-034-r-es-atividade-privativa-instituicao-financeira
+source_ids:
+- src-doesp-2026-03-19-suspensao-codigo-097337-4-pkl-one
+- src-doe-es-2025-10-24-portaria-seger-034-r-atividade-privativa
+date: '2026-03-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

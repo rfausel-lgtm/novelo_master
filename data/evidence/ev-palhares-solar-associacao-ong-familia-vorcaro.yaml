@@ -1,0 +1,23 @@
+id: ev-palhares-solar-associacao-ong-familia-vorcaro
+kind: evidence
+classification: C
+proposition: 'Leonardo Palhares consta como diretor e único integrante do quadro da Sociedade Organizada
+  Spread of Love and Respect (SOLAR), associação privada aberta em 10/02/2025, com sede na Avenida Raja
+  Gabaglia, em Belo Horizonte — mesmo endereço que concentra empresas de Fabiano Zettel. A associação
+  gere recursos da Fundação Solar, ONG de educação na África que tem como representante uma filha menor
+  de idade de Daniel Vorcaro. A entidade foi constituída em fevereiro de 2025, em plena crise de liquidez
+  do Master, e apuração jornalística registra a suspeita de que servisse de veículo de movimentação financeira
+  do grupo, mantendo contas no próprio Master. A ONG apagou sua conta em rede social após as reportagens.
+  Nem a fundação nem a filha de Vorcaro são investigadas nesta fase. Decisão editorial: o corpus não nomina
+  a filha, por ser menor de idade e não figurar como investigada, ainda que seu nome tenha sido publicado
+  por veículos de imprensa.'
+document_ids: []
+source_ids:
+- src-brasilapi-2026-solar-associacao-palhares
+- src-gazetadopovo-2026-operador-vorcaro-ong-africa
+date: '2025-02-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

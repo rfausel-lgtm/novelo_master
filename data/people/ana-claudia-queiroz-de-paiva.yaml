@@ -2,22 +2,78 @@ id: ana-claudia-queiroz-de-paiva
 kind: person
 name: Ana Cláudia Queiroz de Paiva
 category: other
-role: Apontada como operadora de pagamentos a servidores do Banco Central
+role: Administradora de empresas; diretora da Super Empreendimentos e de outras sociedades do grupo; investigada
+  sob cautelares na Operação Compliance Zero
 positions: []
-summary: Segundo mensagens de WhatsApp entre Fabiano Zettel e Daniel Vorcaro reproduzidas pela imprensa,
-  atuou ao lado de Zettel operacionalizando pagamentos a Belline Santana por meio de contrato fictício
-  de consultoria com a Varajo Consultoria Empresarial. O corpus não localizou informação sobre sua função
-  ou vínculo profissional além dessa menção.
-why_in_novelo: Nomeada em apuração da PF, com base na decisão do STF na PET 15556, como operadora de pagamentos
-  no esquema de vantagens a servidores do Banco Central.
+summary: 'Administradora de empresas, de Belo Horizonte, identificada com segurança pelo CPF que integra
+  a razão social de sua empresa individual, a ACQ Consultoria e Gestão (CNPJ 35.521.073/0001-03), aberta
+  em 14/11/2019 com capital social de R$ 1.000 e atividade declarada de consultoria em gestão e apoio
+  administrativo — cujo telefone cadastrado é o mesmo de três empresas de Daniel Vorcaro (Viking, Vinc
+  e Star Music). Figura em cinco estruturas societárias: é diretora da Super Empreendimentos (desde 18/08/2021),
+  da REN Empreendimentos (desde 03/02/2022) e da Adonay Participação (desde 19/12/2024), sócia quotista
+  da Storm Empreendimentos (desde 08/01/2025) e titular da ACQ — as três últimas pertencentes ao grupo
+  de Fabiano Zettel. A decisão de prisão preventiva na PET 15.556, lida integralmente pela equipe, dedica-lhe
+  seção própria: descreve-a como quem ''atuou na operacionalização de movimentações financeiras'' e ''participava
+  da realização e gestão de transferências financeiras destinadas a custear'' o grupo de monitoramento
+  e intimidação conhecido como ''A Turma''. Dois trechos a individualizam: é ela quem pergunta a Vorcaro
+  ''Vai ser 1 mm como normalmente?'', recebe ''Sim'' e executa a transferência de R$ 1 milhão à empresa
+  do chefe do grupo; e a decisão registra ''o detalhamento da lavagem de dinheiro feito por ANA CLÁUDIA
+  a DANIEL VORCARO'', em que ela explica como fazer para que o pagamento não saísse diretamente do banqueiro
+  para o servidor do Banco Central. Não foi presa: cumpre, desde 03/03/2026, proibição de contato com
+  investigados, proibição de deixar o município e o País com entrega do passaporte, e monitoração eletrônica
+  por tornozeleira. Permaneceu nos cargos após a operação, inclusive na reorganização da diretoria da
+  Adonay em junho de 2026.'
+why_in_novelo: É apontada pela decisão do STF como quem executava as transferências do esquema — e, mais
+  do que executar, quem explicou ao próprio Vorcaro o mecanismo para que os pagamentos a um servidor do
+  Banco Central não saíssem diretamente dele.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+- kind: version
+  summary: 'Não foi localizada manifestação própria dela nem de defesa constituída em seu nome. A única
+    manifestação pública em seu favor veio da defesa de Daniel Vorcaro, em dezembro de 2025: ''Ana Claudia
+    Queiroz de Paiva é administradora de empresas e presta serviços a uma das empresas de Vorcaro e que
+    seu contrato não prevê exclusividade e se dá dentro da normalidade nesse tipo de serviço''.'
+  source_ids:
+  - src-otempo-2025-12-21-receita-liga-vorcaro-empresa-casa-36-milhoes
+  by: Defesa de Daniel Vorcaro
+  date: '2025-12-21'
+open_questions:
+- 'A decisão do STF a descreve de duas formas incompatíveis: ''funcionária de VORCARO'' num parágrafo
+  e ''sócia da Super Empreendimentos'' em outro. A apuração não localizou elemento que a coloque como
+  acionista da holding — o registro da Receita a qualifica como diretora, e o principal acionista apontado
+  é um fundo administrado pela Reag. Por ser sociedade anônima fechada, o quadro acionário não é público,
+  de modo que participação minoritária não pode ser descartada, apenas não é sustentada por nenhuma fonte.'
+- 'Os elementos disponíveis não permitem decidir entre duas leituras com consequências muito distintas:
+  executiva com poder de decisão, ou funcionária administrativa que executava ordens e teve o nome usado
+  em estruturas societárias. Não foi localizada nenhuma mensagem em que ela proponha, oriente ou questione
+  — apenas as em que executa e a em que explica o mecanismo. Sua remuneração não foi localizada.'
+- 'Contraste patrimonial não explicado: em 2020 pediu justiça gratuita em ação sobre aluguel de R$ 1.550,
+  alegando não poder arcar com custas sem prejuízo do próprio sustento; em 2024 assumiu financiamentos
+  imobiliários de R$ 2,4 milhões em Belo Horizonte, com entrada de R$ 1,1 milhão, e de R$ 1,3 milhão em
+  São Paulo.'
+- Os dois únicos diretores registrados da Super Empreendimentos são ela e Leonardo Augusto Furtado Palhares
+  — e a cadeia de pagamento descrita nas mensagens ('Sai pra Super. Super manda empresa Léo') percorre
+  exatamente as duas empresas que eles dirigem, ambas suspensas no mesmo ato judicial. A sobreposição
+  é factual; nenhuma fonte afirma que tenha sido deliberada.
+- 'Não foi localizada notícia sobre ela posterior a março de 2026: nenhuma prisão em fases seguintes,
+  nenhuma decisão que revogue ou agrave as cautelares, nenhuma denúncia formal da PGR e nenhuma tratativa
+  de colaboração premiada. Registra-se que a PGR se manifestou contrariamente às cautelares impostas nesta
+  fase.'
+- A Super Empreendimentos doou, em dezembro de 2024, apartamento de R$ 4,4 milhões em São Paulo a pessoa
+  denunciada pelo Ministério Público Federal em 2023 por lavagem de dinheiro. Como Fabiano Zettel deixara
+  a diretoria em julho daquele ano, ela seria a diretora em exercício na data — mas uma das fontes atribui
+  a posição a Zettel, e a reportagem que trataria especificamente do ponto foi despublicada. Quem assinou
+  a escritura não está estabelecido; a verificação depende do registro de imóveis.
 source_ids:
 - src-timesbrasil-2026-03-mensagens-belline-cobrando
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+- src-brasilapi-2026-super-empreendimentos-cnpj
+- src-brasilapi-2026-acq-consultoria-ana-claudia
+- src-otempo-2025-12-21-receita-liga-vorcaro-empresa-casa-36-milhoes
+- src-cnnbrasil-2026-vorcaro-pagava-400-mil-mes-a-turma
+- src-brasilapi-2026-king-participacoes-imobiliarias
+- src-poder360-2026-mendonca-pgr-divergiram-cautelares
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

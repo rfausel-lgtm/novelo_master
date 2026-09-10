@@ -1,0 +1,28 @@
+id: doc-2026-03-19-despacho-suspensao-codigo-097337-4-pkl-one
+kind: document
+title: Despacho que suspende o código de desconto da PKL One na folha estadual paulista
+doc_type: administrative_act
+date: '2026-03-19'
+source_ids:
+- src-doesp-2026-03-19-suspensao-codigo-097337-4-pkl-one
+summary: 'O fecho do arco normativo: o Estado suspende o código 097337-4 com efeitos a partir de 19/02/2026
+  invocando o descumprimento do art. 6º, inciso IX, do decreto de consignações — precisamente o inciso
+  criado pelo decreto de 2022 para acolher a empresa. A exigência de convênio com instituição financeira
+  autorizada pelo Banco Central, que servira de porta de entrada, tornou-se o fundamento da saída depois
+  da liquidação extrajudicial do Banco Master. Trata-se de suspensão de código, não de descredenciamento.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+- banco-master
+issuer: Secretaria de Gestão e Governo Digital de São Paulo — Diretoria da Folha de Pagamento
+url: https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/despacho-2026031811295922041716683
+reference: Processo SEI 018.00013344/2025-92; DOE-SP 19/03/2026
+excerpt: determina a SUSPENSÃO do código de desconto em folha de pagamento 097337-4, utilizado pela PKL
+  ONE PARTICIPAÇÕES S/A, com efeitos a partir de 19/02/2026, pelo descumprimento ao estabelecido no artigo
+  6º, inciso IX, do Decreto nº 60.435/2014
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

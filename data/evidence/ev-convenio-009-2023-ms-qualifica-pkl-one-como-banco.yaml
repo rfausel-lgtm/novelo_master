@@ -1,0 +1,21 @@
+id: ev-convenio-009-2023-ms-qualifica-pkl-one-como-banco
+kind: evidence
+classification: D
+proposition: No extrato publicado no diário oficial sul-mato-grossense, a convenente é qualificada como
+  'Banco PKL One Participações S.A' — designação que não corresponde a nenhuma autorização do Banco Central
+  e que desaparece do instrumento de 2025, onde a empresa figura apenas como 'PKL One Participações S.A.'.
+  A consulta da equipe à base oficial do Banco Central, registrada no lote anterior, confirmou que a empresa
+  não consta da relação de instituições autorizadas a funcionar no país.
+document_ids:
+- doc-2023-03-14-extrato-convenio-009-2023-sad-ms-pkl
+- doc-2025-03-12-extrato-convenio-005-2025-sad-ms-pkl
+source_ids:
+- src-doems-2023-03-14-extrato-convenio-009-2023-pkl
+- src-doems-2025-03-12-extrato-convenio-005-2025-pkl
+excerpt: 'CONVENENTE: Banco PKL One Participações S.A'
+date: '2023-03-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,19 @@
+id: ev-fazenda-paulista-lista-banco-pkl-one-em-quatro-editais-de-2026
+kind: evidence
+classification: D
+proposition: 'O equívoco registrado no diário oficial de Mato Grosso do Sul em 2023 repete-se em São Paulo,
+  e em série: quatro editais de 2026 da Diretoria de Ativos e Passivos da Secretaria da Fazenda paulista
+  — de abril, maio, julho e agosto — arrolam a empresa entre bancos, sob a denominação ''BANCO PKL ONE
+  PARTICIPAÇÕES S/A.''. Trata-se de uma holding de instituições não financeiras, com capital de R$ 1 milhão,
+  que a consulta da equipe ao Banco Central confirmou não constar da relação de instituições autorizadas
+  a funcionar no país.'
+document_ids:
+- doc-2026-editais-diretoria-ativos-passivos-sp-banco-pkl-one
+source_ids:
+- src-doesp-2026-editais-diretoria-ativos-passivos-banco-pkl-one
+date: '2026-08-27'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,28 @@
+id: doc-2026-liminar-campo-grande-veda-cobranca-e-negativacao-de-servidores
+kind: document
+title: A liminar de Campo Grande e os descontos que voltaram sobre contratos já quitados
+doc_type: judicial_decision
+date: '2026-09-08'
+source_ids:
+- src-campograndenews-2026-impasse-prefeitura-master-servidores-nova-cobranca
+summary: 'Único registro localizado de tutela judicial expressa contra a negativação de servidores no
+  caso: a liminar obtida pela prefeitura e pelo instituto de previdência municipal, além de reter repasses
+  em conta judicial como garantia de valores aplicados em letras financeiras do banco, determinou que
+  a instituição se abstivesse de cobrar ou negativar os servidores. O documento importa também pelo efeito
+  colateral que expõe: após a liquidação, a nova gestão reprocessou as bases e reenviou listas automatizadas
+  ao setor de pessoal, restabelecendo descontos sobre contratos já quitados — uma servidora que quitara
+  em janeiro de 2026 teve R$ 293,46 descontados em agosto, e ao reclamar ouviu que ''enquanto o banco
+  mandar vai ser descontado'', enquanto o telefone da instituição ''não existe''.'
+is_official: true
+related_entity_ids:
+- banco-master
+- credcesta
+- pkl-one-participacoes
+issuer: 3ª Vara de Fazenda Pública e Registros Públicos de Campo Grande
+url: https://www.campograndenews.com.br/cidades/capital/impasse-entre-prefeitura-e-banco-master-ameaca-servidores-com-nova-cobranca
+reference: 3ª Vara de Fazenda Pública e Registros Públicos de Campo Grande; decisão saneadora de 08/09/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

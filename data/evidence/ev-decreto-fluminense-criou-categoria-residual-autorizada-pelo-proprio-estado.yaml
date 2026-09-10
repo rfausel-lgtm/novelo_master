@@ -1,0 +1,19 @@
+id: ev-decreto-fluminense-criou-categoria-residual-autorizada-pelo-proprio-estado
+kind: evidence
+classification: D
+proposition: 'O texto integral confirma o dispositivo central: o decreto de 27/05/2021 acrescentou ao
+  rol de consignatárias o inciso VIII, ''outras entidades consignatárias devidamente autorizadas pelo
+  Estado''. Trata-se de categoria residual, aberta e sem critério objetivo, em que o requisito de habilitação
+  é definido pelo mesmo Poder Executivo que concede o credenciamento. Cinco dias depois foi autorizada
+  a operadora do CredCesta.'
+document_ids:
+- doc-2021-05-28-decreto-47625-rj-texto-integral
+source_ids:
+- src-doerj-2021-05-28-decreto-47625-texto-integral
+excerpt: VIII - outras entidades consignatárias devidamente autorizadas pelo Estado.
+date: '2021-05-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

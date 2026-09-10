@@ -1,0 +1,25 @@
+id: mgi-desenvolvimento
+kind: organization
+name: MGI Desenvolvimento Imobiliário
+aliases: []
+org_type: company
+summary: Sociedade cujas quotas, sobreavaliadas em cerca de R$ 56 milhões segundo a CVM, foram usadas
+  pela Milo Investimentos para integralizar cotas do Brazil Realty FII em 31/10/2018. O valor derivava
+  da participação da MGI na Via Expressa S.A. (imóvel de 76 mil m² em Contagem/MG), avaliada pela Nova
+  Aliança Engenharia em duas versões divergentes — a primeira, cuja autoria a própria avaliadora negou.
+  Felipe Cançado Vorcaro, ligado à MGI, foi condenado pela CVM apesar de sustentar que nunca foi sócio
+  ou administrador da Milo nem negociou cotas do fundo.
+why_in_novelo: É a sociedade cuja sobreavaliação de R$ 56 milhões, por laudo de autoria contestada, serviu
+  de base à integralização fraudulenta pela Milo Investimentos — e cuja condenação atingiu Felipe Vorcaro
+  mesmo diante de sua defesa de que não teria ingerência sobre o laudo.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

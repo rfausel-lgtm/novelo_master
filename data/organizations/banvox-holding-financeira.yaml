@@ -1,0 +1,28 @@
+id: banvox-holding-financeira
+kind: organization
+name: Banvox Holding Financeira
+aliases: []
+org_type: financial_institution
+summary: 'Holding financeira (CNPJ 38.461.854/0001-48), distinta da corretora Banvox DTVM (CNPJ 02.671.743/0001-19,
+  já liquidada pelo Banco Central em 03/09/2026). Emitiu R$ 470,5 milhões em debêntures para capitalizar
+  o Banco Master, com fiança solidária de Daniel Vorcaro, Augusto Lima e Maurício Quadrado — depois transferidas
+  à DV Holding Financeira. É apontada por apuração jornalística (Bloomberg Línea, Revista Oeste/Malu Gaspar)
+  como o veículo pelo qual Nelson Tanure teria aportado entre R$ 1,6 e R$ 2,5 bilhões no Master, via debêntures
+  que não são conversíveis em ações, mas que desde dezembro de 2022 alguns títulos passaram a poder pagar
+  cupons com ações da própria Banvox — Tanure nega qualquer vínculo societário. Quadro de diretores registrado
+  na Receita Federal: Maurício Quadrado (desde 15/09/2020) e Artur Martins de Figueiredo (desde 25/09/2020).'
+why_in_novelo: É a holding cujas debêntures são o instrumento central da hipótese, ainda não confirmada
+  judicialmente, de participação financeira indireta de Nelson Tanure no Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-brasilapi-2026-banvox-holding-financeira-qsa
+- src-bloomberglinea-2026-03-24-imperio-tanure-desfaz-master
+- src-revistaoeste-2026-01-14-pf-investiga-aportes-25bi-tanure
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

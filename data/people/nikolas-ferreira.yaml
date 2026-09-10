@@ -21,7 +21,13 @@ cited_position:
   - src-otempo-2026-09-03-nikolas-admite-voos-nega-relacao
   by_id: nikolas-ferreira
   date: '2026-09-03'
-open_questions: []
+open_questions:
+- Foi autor da Petição 10.829/STF, notícia-crime contra Flávio Dino por omissão diante dos atos de 8 de
+  janeiro de 2023, protocolada em 11/01/2023 e arquivada por Alexandre de Moraes em 12/01/2023 — um dia
+  depois, em processo público e com dispositivo publicado no Diário de Justiça, sem qualquer consequência
+  ao denunciante. É a petição que gerou a prevenção pela qual as demais notícias-crime sobre os mesmos
+  fatos foram distribuídas ao mesmo relator, e serve de termo de comparação para a disparidade de tratamento
+  registrada em evidência correlata.
 source_ids:
 - src-poder360-2026-09-04-nikolas-voz-de-prisao
 - src-brasilemfolhas-2026-09-nikolas-ativo-mineral
@@ -29,11 +35,12 @@ source_ids:
 - src-otempo-2026-09-03-nikolas-admite-voos-nega-relacao
 - src-jornalggn-2026-09-nikolas-admite-ajuda-tenta-minimizar
 - src-poder360-2026-09-03-pt-pede-investigacao-nikolas-vorcaro
+- src-stf-2023-pet-10829-andamento-e-decisao-nikolas
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-04'
+updated_at: '2026-09-09'
 photo:
   path: /fotos/nikolas-ferreira.jpg
   source: Wikimedia Commons

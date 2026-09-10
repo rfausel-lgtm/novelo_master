@@ -1,0 +1,21 @@
+id: fernao-previdencia
+kind: organization
+name: Regime Próprio de Previdência de Fernão
+aliases: []
+org_type: public_body
+summary: Instituto de previdência municipal de Fernão (SP), identificado pelo MPC-SP com R$ 3 milhões
+  expostos ao Banco Master — sem cobertura jornalística dedicada localizada além da representação agregada
+  do órgão de controle.
+why_in_novelo: É um dos dois municípios adicionais (junto com Brodowski) que ampliam de cinco para sete
+  o número de RPPS paulistas documentados como expostos ao Master pelo MPC-SP.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-conam-2026-mpcsp-tcesp-rpps-master-texas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

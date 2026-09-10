@@ -1,0 +1,25 @@
+id: iprem-santa-rita-doeste
+kind: organization
+name: Instituto de Previdência Municipal de Santa Rita d'Oeste
+aliases: []
+org_type: public_body
+summary: Instituto de previdência municipal de Santa Rita d'Oeste (SP). Aplicou R$ 2 milhões em Letras
+  Financeiras do Master e mais R$ 2 milhões no 'Texas I Fundo de Investimento em Ações' — administrado
+  pelo Banco Master e gerido pela Master Capital, com quase a totalidade do patrimônio concentrada em
+  ações da Ambipar (AMBP3). É o RPPS com menos cobertura jornalística dedicada entre os do MPC-SP — nenhum
+  dirigente foi identificado por fonte primária confiável.
+why_in_novelo: A sobreposição de nome ('Texas I') e do ativo-âncora (ações da Ambipar) com o mecanismo
+  Texas I FIA já mapeado no caso Rioprevidência (compra coordenada para inflar artificialmente o preço)
+  é forte indício — não confirmado por nenhuma fonte — de que se trata do mesmo fundo ou de fundo da mesma
+  família/estratégia.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-cnnbrasil-2026-mpsp-apura-4-cidades-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

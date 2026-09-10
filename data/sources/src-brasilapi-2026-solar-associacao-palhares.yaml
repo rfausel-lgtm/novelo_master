@@ -1,0 +1,22 @@
+id: src-brasilapi-2026-solar-associacao-palhares
+kind: source
+title: Registro cadastral da Sociedade Organizada Spread of Love and Respect (SOLAR) — Receita Federal
+publisher: Receita Federal do Brasil (via BrasilAPI)
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-09'
+url: https://brasilapi.com.br/api/cnpj/v1/59389736000146
+source_type: corporate_registry
+summary: Consulta ao CNPJ 59.389.736/0001-46. Associação privada aberta em 10/02/2025, sem capital social,
+  sede na Av. Raja Gabaglia, 2000, em Belo Horizonte — mesmo endereço que concentra empresas de Fabiano
+  Zettel. Leonardo Augusto Furtado Palhares consta como diretor desde 10/02/2025 e é o único integrante
+  do quadro registrado. Situação cadastral ATIVA.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

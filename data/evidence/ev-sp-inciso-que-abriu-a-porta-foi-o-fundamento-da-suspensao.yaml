@@ -1,0 +1,21 @@
+id: ev-sp-inciso-que-abriu-a-porta-foi-o-fundamento-da-suspensao
+kind: evidence
+classification: D
+proposition: O arco normativo paulista se fecha sobre si mesmo. O Estado suspendeu o código de desconto
+  da PKL One com efeitos a partir de 19/02/2026 invocando o descumprimento do art. 6º, inciso IX, do decreto
+  de consignações — exatamente o inciso criado em 2022 para acolher empresas administradoras de cartões.
+  A exigência de convênio com instituição financeira autorizada pelo Banco Central, que fora a porta de
+  entrada, tornou-se o fundamento da saída depois da liquidação extrajudicial do Banco Master.
+document_ids:
+- doc-2026-03-19-despacho-suspensao-codigo-097337-4-pkl-one
+- doc-2022-03-31-decreto-66622-sp-cartao-beneficio
+source_ids:
+- src-doesp-2026-03-19-suspensao-codigo-097337-4-pkl-one
+- src-alesp-decreto-66622-2022-cartao-beneficio
+excerpt: pelo descumprimento ao estabelecido no artigo 6º, inciso IX, do Decreto nº 60.435/2014
+date: '2026-03-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

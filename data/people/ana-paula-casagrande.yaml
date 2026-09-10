@@ -1,0 +1,21 @@
+id: ana-paula-casagrande
+kind: person
+name: Ana Paula Casagrande
+category: lawyer
+role: Advogada de Daniel Vorcaro no processo da CVM sobre o Brazil Realty FII
+positions: []
+summary: Advogada que representou Daniel Vorcaro na sessão de julgamento da CVM de 08/09/2026, questionando
+  a falta de provas individualizadas de dolo na conduta do empresário no esquema do Brazil Realty FII.
+why_in_novelo: É a advogada que, na sessão, contestou a individualização de conduta atribuída a Vorcaro
+  no processo — argumento não acolhido pelo colegiado, que o condenou a R$ 20 milhões.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

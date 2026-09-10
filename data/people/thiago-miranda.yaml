@@ -2,16 +2,27 @@ id: thiago-miranda
 kind: person
 name: Thiago Miranda
 category: businessperson
-role: Publicitário; ex-sócio e ex-CEO do Grupo Leo Dias; dono da Agência MiThi
+role: Publicitário; ex-CEO do Grupo LeoDias e dono da Agência MiThi; apontado como articulador do 'Projeto
+  DV'
 positions: []
-summary: Publicitário que prestava serviços a Daniel Vorcaro. Segundo mensagens divulgadas pelo Intercept
-  e pela Gazeta do Povo, organizou o encontro de Flávio Bolsonaro com Vorcaro em 11/12/2024 e intermediou
-  o patrocínio ao filme 'Dark Horse'. Em 09/07/2026 foi alvo de busca e apreensão na 10ª fase da Compliance
-  Zero, autorizada por André Mendonça, que cita o 'Projeto DV' (contratação de influenciadores contra
-  o BC) e levantamento de dados de jornalistas e executivos. Em depoimento à PF (12/05/2026) confirmou
-  o plano com influenciadores, dizendo que sua atuação se limitava a fechar contratos e repassar recursos.
-why_in_novelo: Alvo da 10ª fase da Operação Compliance Zero e apontado pela imprensa como intermediário
-  entre Daniel Vorcaro e Flávio Bolsonaro no financiamento do filme 'Dark Horse'.
+summary: 'Publicitário de Brasília, com CPF terminado em 451 confirmado em registro da Receita Federal.
+  Foi CEO do Grupo LeoDias e dono da Agência MiThi, com carteira que incluía marcas de luxo, instituições
+  financeiras e celebridades. A decisão de André Mendonça na PET 16.346, que autorizou a 10ª fase da Operação
+  Compliance Zero em 09/07/2026 e foi lida integralmente pela equipe, o aponta como articulador do ''Projeto
+  DV'' — campanha para recrutar influenciadores, sob acordo de confidencialidade com multa de R$ 800 mil,
+  para questionar a liquidação do Banco Master e atacar o Banco Central. Foram cerca de R$ 8 milhões em
+  contratos assinados pela MiThi, dos quais R$ 3,5 milhões efetivamente repassados entre o fim de dezembro
+  de 2025 e 5 de janeiro de 2026. A mesma decisão lhe atribui o levantamento de dados pessoais da jornalista
+  Malu Gaspar — renda, cartão de crédito, movimentações bancárias, filhos e veículo, com uso de plataforma
+  de venda não autorizada de dados — e um dossiê sobre o CEO do Itaú, Milton Maluhy Filho, e sua esposa,
+  localizado com a identidade visual da própria agência; além de contatos com a jornalista Consuelo Dieguez,
+  da piauí, e com o consultor Renato Breia, da Nord, pedindo retirada de conteúdo. Admitiu publicamente
+  ter intermediado o investimento de Vorcaro no filme ''Dark Horse''. Não foi preso: em 11/07/2026 teve
+  o passaporte apreendido e a saída do país proibida, por risco de fuga — tinha passagem marcada para
+  Miami dois dias depois. Em 13/07/2026 anunciou o encerramento da agência e um ano sabático.'
+why_in_novelo: 'É apontado como o operador da frente de comunicação do esquema: quem contratava influenciadores
+  para atacar o regulador que liquidara o banco, quem encomendava dossiês sobre jornalistas e executivos
+  incômodos, e quem intermediava o dinheiro do filme sobre Bolsonaro.'
 cited_position:
 - kind: version
   summary: Em depoimento à PF em 12/05/2026, confirmou o plano com influenciadores para defender o Master,
@@ -30,8 +41,53 @@ cited_position:
   - src-poder360-2026-07-09-operacao-thiago-miranda
   by_id: thiago-miranda
   date: '2026-07-09'
+- kind: version
+  summary: 'Admitiu publicamente a intermediação do investimento no filme ''Dark Horse'': ''Sim! Eu fiz
+    exatamente isso. Intermediei o investimento.'' Afirma, porém, que a reunião entre Flávio Bolsonaro
+    e Daniel Vorcaro não chegou a acontecer.'
+  source_ids:
+  - src-sbtnews-2026-miranda-confirma-intermediacao-dark-horse
+  by_id: thiago-miranda
+  date: '2026'
+- kind: version
+  summary: Sustenta que o 'Projeto DV' era gestão de crise legítima, que os contratos vedavam expressamente
+    ataques a instituições públicas e ataques pessoais, e que sua atuação se limitou a fechar contratos
+    e repassar recursos e briefings. Afirma que os recursos empregados eram próprios — produto da venda
+    de sua participação no portal Leo Dias — e descreve a relação com Vorcaro como 'coleguismo' profissional,
+    não amizade. A defesa sustenta postura colaborativa desde o início, com comparecimento voluntário
+    a todos os atos.
+  source_ids:
+  - src-metropoles-2026-05-12-depoimento-thiago-miranda-pf
+  by_id: thiago-miranda
+  date: '2026-05-12'
 open_questions:
-- A decisão da 10ª fase não foi lida integralmente pela equipe.
+- 'CORREÇÃO (09/09/2026): o corpus registrava que a decisão da 10ª fase não havia sido lida integralmente.
+  O registro estava desatualizado — a decisão foi lida na íntegra pela equipe, mediante conversão das
+  24 páginas em imagem e aplicação de OCR, e dela derivam seis evidências de classe documental já publicadas.'
+- 'O ponto que decide o caso dele é uma coincidência de valores não esclarecida: recebeu R$ 3,5 milhões
+  pela venda de 10% do portal Leo Dias a Vorcaro, pagos pela Super Empreendimentos, e repassou R$ 3,5
+  milhões a influenciadores. A defesa diz que o dinheiro da campanha era próprio, produto daquela venda;
+  a investigação diz que veio do esquema, pela mesma Super. Nenhuma fonte apresenta a documentação bancária
+  que permitiria distinguir as hipóteses.'
+- O CNPJ da Agência MiThi, que assinou os contratos do 'Projeto DV', não foi localizado — de modo que
+  não é possível verificar sua situação cadastral nem se houve suspensão judicial de atividades, e nenhuma
+  fonte registra tal suspensão. A empresa individual que ele mantinha anteriormente foi baixada voluntariamente
+  em julho de 2020.
+- 'Há contradição sobre sua saída do Grupo LeoDias: o grupo informou que ele deixou a gestão em junho
+  de 2025 e iniciou a transferência de participação minoritária no fim daquele ano; ele afirmou manter
+  10%; e o registro da Receita Federal ainda o listava como Administrador da sociedade em conta de participação
+  na data desta apuração. O anúncio público da venda ocorreu dois dias antes de ele se tornar alvo da
+  operação.'
+- 'Contradição sobre o encontro entre Flávio Bolsonaro e Vorcaro: mensagens de 08/12/2024 registram-no
+  confirmando reunião para a semana seguinte na casa do banqueiro, dizendo que ''Flávio está ciente de
+  tudo''; ele afirma que a reunião não aconteceu. Não foi localizada manifestação específica do senador
+  ou de sua assessoria sobre a participação dele.'
+- Não foi localizada denúncia formal da PGR nem indiciamento nominal contra ele até a data desta apuração,
+  nem qualquer fase posterior da operação que o atinja. Ele nunca foi preso, e a monitoração por tornozeleira,
+  requerida ao STF por um parlamentar, não foi deferida.
+- O procedimento em que sua atuação vinha sendo mapeada é objeto de pedido de anulação e extinção formulado
+  pelo procurador-geral da República em 01/09/2026 — pendente de decisão. Caso acolhido, há risco de contaminação
+  das provas relativas a ele.
 source_ids:
 - src-poder360-2026-07-09-operacao-thiago-miranda
 - src-poder360-2026-07-09-quem-e-thiago-miranda
@@ -40,9 +96,20 @@ source_ids:
 - src-cartacapital-2026-09-01-novo-repasse-dark-horse
 - src-pf-2026-07-09-decima-fase
 - src-gazeta-2026-03-04-quem-e-lauro-jardim
+- src-brasilapi-2026-miranda-comunicacao-eireli
+- src-brasilapi-2026-leo-dias-scp-thiago-miranda
+- src-metropoles-2026-05-12-depoimento-thiago-miranda-pf
+- src-metropoles-2026-pf-vorcaro-pagava-influenciadores-super
+- src-infomoney-2026-07-mendonca-apreensao-passaporte-thiago-miranda
+- src-metropoles-2026-07-operacao-thiago-miranda-aval-pgr
+- src-sbtnews-2026-miranda-confirma-intermediacao-dark-horse
+- src-noticiasaominuto-2026-contratos-8-milhoes-projeto-dv
+- src-cnnbrasil-2026-pf-thiago-miranda-coagiu-tres-jornalistas
+- src-cnnbrasil-2026-vorcaro-dossie-ceo-itau-maluhy
+- src-apublica-2026-09-analise-master-vorcaro-moraes-mendonca
 full_name: Thiago Miranda Silva
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

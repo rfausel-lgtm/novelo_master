@@ -1,0 +1,28 @@
+id: trustee-holding-financeira
+kind: organization
+name: Trustee Holding Financeira
+aliases: []
+org_type: financial_institution
+summary: Holding financeira (CNPJ 37.665.902/0001-57), distinta da corretora Trustee DTVM (já liquidada
+  pelo Banco Central em 03/09/2026). Tem como diretores Maurício Quadrado (entrada formal em 05/12/2022)
+  e Artur Martins de Figueiredo (diretor desde 31/12/2019, antes de Quadrado). O nome aparece em pelo
+  menos uma fonte como ligado a Nelson Tanure, vínculo ainda não aprofundado (força fraca, carece de verificação
+  adicional).
+why_in_novelo: É a holding — distinta da corretora Trustee DTVM já liquidada — que reúne os diretores
+  Maurício Quadrado e Artur Martins de Figueiredo, mesmo par que controla a Banvox Holding Financeira,
+  sugerindo uma estrutura de administração compartilhada entre as duas holdings do ecossistema Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O vínculo entre a Trustee Holding Financeira e Nelson Tanure, mencionado por uma única fonte de baixa
+  força probatória, não foi aprofundado e não deve ser tratado como fato até nova apuração.
+- Não foi possível confirmar no cadastro oficial da Receita Federal (apenas em agregador de CNPJ) o quadro
+  societário completo e o histórico exato de entrada/saída de administradores desta holding.
+source_ids:
+- src-consultasocio-2026-artur-figueiredo-trustee-holding
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

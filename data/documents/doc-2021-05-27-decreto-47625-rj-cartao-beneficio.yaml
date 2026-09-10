@@ -1,0 +1,31 @@
+id: doc-2021-05-27-decreto-47625-rj-cartao-beneficio
+kind: document
+title: Decreto nº 47.625/2021 (RJ) — o inciso VIII e a margem de 20% fora da margem consignável
+doc_type: legislative_act
+date: '2021-05-27'
+source_ids:
+- src-doerj-2021-05-decreto-47625-cartao-beneficio
+- src-tjrj-2024-03-06-acordao-agravo-87521-master
+summary: Decreto que altera o regime de consignações fluminense em dois pontos decisivos. Primeiro, acrescenta
+  ao rol de consignatárias o inciso VIII — 'outras entidades consignatárias devidamente autorizadas pelo
+  Estado' —, categoria cuja habilitação depende apenas de ato estadual, sem qualquer remissão ao Banco
+  Central, ao lado do inciso V que a exige. Segundo, prevê margem de até 20% do valor líquido para cartão
+  de benefício e determina, no §1º, que esse cartão não compõe a margem consignável. Não fixa contrapartida,
+  prazo, teto de juros nem exclusividade. Cinco dias depois, a PKL One — holding não financeira, sem autorização
+  do Banco Central — foi credenciada por despacho da Casa Civil.
+is_official: true
+related_entity_ids:
+- claudio-castro
+- credcesta
+- pkl-one-participacoes
+- banco-master
+issuer_id: claudio-castro
+issuer: Cláudio Castro, governador do Estado do Rio de Janeiro
+url: https://souservidor.blogspot.com/2021/05/
+reference: Decreto estadual 47.625/2021
+excerpt: VIII - outras entidades consignatárias devidamente autorizadas pelo Estado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

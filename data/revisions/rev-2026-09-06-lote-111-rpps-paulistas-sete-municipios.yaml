@@ -1,0 +1,31 @@
+id: rev-2026-09-06-lote-111-rpps-paulistas-sete-municipios
+kind: revision
+date: '2026-09-06'
+title: 'Lote 111 — os RPPS paulistas do MPC-SP em detalhe: são sete municípios, não quatro'
+summary: 'Aprofundados individualmente os RPPS paulistas antes só citados de forma agregada. Cajamar (R$87mi,
+  Operação Off-Balance da PF, ação popular própria) e Santo Antônio de Posse (R$7-13mi, Operação Moral
+  Hazard, suspeita de laranja controlando a Crédito e Mercado) têm cobertura robusta, com dirigentes nomeados.
+  Araras (R$29mi) tem cobertura moderada. Santa Rita d''Oeste revela exposição ao ''Fundo Texas I'', concentrado
+  em ações da Ambipar — mesmo ativo e família de nome do mecanismo já mapeado no caso Rioprevidência,
+  sem confirmação de identidade entre os fundos. Achado mais importante: a representação do MPC-SP cobre
+  SETE municípios, não quatro — Brodowski e Fernão, antes não mapeados, elevam a exposição documentada
+  em São Paulo para R$ 238,15 milhões. Aprofundado também o perfil da consultoria Crédito e Mercado: sucessora
+  da Plena Consultoria (Operação Fundo Perdido), com suspeita de controlador oculto via um advogado ligado
+  à ''Farra do INSS''.'
+affected_ids:
+- banco-master
+- credito-e-mercado
+- renan-foglia-calamia
+- ambipar
+- cajamar-previdencia
+- iprem-santo-antonio-de-posse
+- araprev-araras
+- iprem-santa-rita-doeste
+- brodowski-previdencia
+- fernao-previdencia
+reason: Loop de investigação — aprofundamento individual dos RPPS paulistas do MPC-SP.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

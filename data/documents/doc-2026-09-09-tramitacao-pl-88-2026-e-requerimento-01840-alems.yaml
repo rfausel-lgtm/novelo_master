@@ -1,0 +1,26 @@
+id: doc-2026-09-09-tramitacao-pl-88-2026-e-requerimento-01840-alems
+kind: document
+title: Tramitação do PL 88/2026 e do Requerimento 01840/2026 na Assembleia de Mato Grosso do Sul
+doc_type: legislative_act
+date: '2026-09-09'
+source_ids:
+- src-alems-2026-pl-88-2026-parado-na-ccjr
+summary: Registro da consulta feita pela equipe ao sistema público de proposições da assembleia sul-mato-grossense.
+  O projeto de lei que suspenderia os descontos vinculados ao CredCesta e ao Banco Master, do deputado
+  Pedro Kemp, foi lido em 23/06/2026, recebeu relator na Comissão de Constituição e Justiça em 01/07/2026
+  e não registra movimentação desde então. O Requerimento 01840/2026, único a nomear a PKL One e a pedir
+  à secretaria os convênios e os descontos, aguarda ordem do dia desde 23/06/2026 sem jamais ter sido
+  pautado — enquanto requerimentos de teor genérico sobre endividamento por consignados foram aprovados
+  por unanimidade em semanas.
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Assembleia Legislativa de Mato Grosso do Sul — Sistema de Proposições
+url: http://sgpl.consulta.al.ms.gov.br/sgpl-publico/#/linha-tempo?idProposicao=332452
+reference: PL 88/2026 (protocolo 01854/2026) e Requerimento 01840/2026 — ALEMS
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

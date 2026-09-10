@@ -1,0 +1,18 @@
+id: ev-termos-compromisso-rejeitados-brazil-realty
+kind: evidence
+classification: D
+proposition: Antes do julgamento, Daniel Vorcaro e o Banco Master propuseram termo de compromisso de R$
+  10,89 milhões; a Viking Participações, R$ 2,97 milhões; a Entre Investimentos, R$ 4,95 milhões; e Antônio
+  Freixo, R$ 2,47 milhões. O colegiado da CVM rejeitou todas as propostas, optando por levar o caso a
+  julgamento de mérito, no qual as penas aplicadas superaram largamente os valores oferecidos.
+document_ids:
+- doc-2026-09-08-relatorio-pas-brazil-realty
+source_ids:
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

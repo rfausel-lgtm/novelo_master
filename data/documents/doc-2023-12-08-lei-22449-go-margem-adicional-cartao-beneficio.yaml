@@ -1,0 +1,28 @@
+id: doc-2023-12-08-lei-22449-go-margem-adicional-cartao-beneficio
+kind: document
+title: Lei nº 22.449/2023 (GO) — a margem adicional criada por lei, num estado sem credenciamento registrado
+doc_type: legislative_act
+date: '2023-12-08'
+source_ids:
+- src-doego-2023-12-08-lei-22449-margem-adicional-cartao-beneficio
+- src-doego-2026-09-09-ausencia-de-pkl-one-e-master-no-diario-de-goias
+summary: 'Goiás é o único caso examinado em que a margem exclusiva veio por lei, aprovada pelo Legislativo,
+  e não por decreto do Executivo — os dez por cento ''somam-se'' ao limite das facultativas, reduzidos
+  a cinco por cento para celetistas. O contraste que o caso oferece é outro: o estado consta da lista
+  de cobertura do produto desde maio de 2022, mas o levantamento da equipe no índice do diário oficial
+  goiano, com controle metodológico, não encontrou uma única ocorrência da operadora, do produto ou do
+  banco. Se houve operação em Goiás, ela não passou pelo diário estadual — o que remete os convênios ao
+  nível municipal.'
+is_official: true
+related_entity_ids:
+- credcesta
+issuer: Estado de Goiás
+url: https://www.diariooficial.abc.go.gov.br/portal/edicoes/download/5924
+reference: Lei nº 22.449, de 08/12/2023; DO/GO nº 24.178, suplemento, p. 1; Decreto regulamentar nº 10.372/2023
+excerpt: somam-se 10% (dez por cento) da remuneração total [...] que serão reservados, exclusivamente,
+  para descontos a favor das instituições que operem com o cartão de benefício
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

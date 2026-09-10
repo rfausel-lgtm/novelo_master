@@ -14,7 +14,8 @@ summary: 'Policial federal aposentado, apontado pela Polícia Federal como líde
   aposentados Francisco José Pereira da Silva e Sebastião Monteiro Júnior. Preso preventivamente em 04/03/2026
   na 3ª fase, foi transferido em 15/05/2026 para presídio federal em Brasília, por determinação de Mendonça,
   sob o fundamento de que continuava recebendo informações sigilosas sobre operações policiais mesmo preso.
-  Não há denúncia oferecida nem julgamento.'
+  Não há denúncia oferecida nem julgamento. Dados funcionais: tem 56 anos, ingressou na Polícia Federal
+  por concurso em 2008 e está aposentado desde 2022, recebendo cerca de R$ 21,9 mil mensais de aposentadoria.'
 why_in_novelo: É apontado pela Polícia Federal como o agente aposentado que teria cooptado policiais para
   acessar informações sigilosas em favor da família Vorcaro.
 cited_position:
@@ -30,13 +31,17 @@ open_questions:
   por veículos de menor porte, aponta R$ 400 mil MENSAIS repassados por Henrique Vorcaro, além de pagamentos
   por Pix, presentes e bônus de fim de ano. A equipe não localizou a versão mensal em veículos de grande
   porte.'
+- 'Há divergência de enquadramento entre as fontes: parte da imprensa o descreve como ''líder operacional''
+  do grupo, enquanto a decisão do STF e as demais fontes atribuem a coordenação a Luiz Phillipi Mourão,
+  com ele atuando na cooptação de policiais para acesso a sistemas.'
 source_ids:
 - src-metropoles-800k-policial-cooptado
 - src-cnnbrasil-2026-05-14-agente-infiltrado-vorcaro
 - src-otempo-2026-05-14-delegada-e-agentes-abasteciam-vorcaro
 - src-otempo-2026-05-15-marilson-transferido-presidio-federal
+- src-brasil247-2026-marilson-aposentadoria-pf
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

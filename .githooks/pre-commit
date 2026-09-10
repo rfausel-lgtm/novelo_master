@@ -1,11 +1,44 @@
 #!/bin/sh
-# Pre-commit: bloqueia segredos e garante que arquivos .env não entrem no índice.
+# Pre-commit: bloqueia segredos, arquivos .env, e registro novo sem entrada de revisão.
 # Ativação: git config core.hooksPath .githooks
 set -e
 
 if git diff --cached --name-only | grep -E '(^|/)\.env(\.|$)' | grep -v '\.env\.example$' >/dev/null; then
   echo "[pre-commit] BLOQUEADO: arquivo .env no índice. Remova com: git reset HEAD <arquivo>" >&2
   exit 1
+fi
+
+# Trilha editorial: registro que entra no acervo sem revisão some do histórico.
+#
+# A política editorial (seção 8) promete que toda correção material aparece em /atualizacoes, e essa
+# página é montada só a partir de data/revisions/. Os lotes 87, 130, 131 e 132 acrescentaram pessoas,
+# organizações e evidências sem criar o registro — o conteúdo foi ao ar, a trilha não.
+#
+# A checagem é sobre o diff, e não sobre o estado, porque o estado não sabe: `affected_ids` está
+# preenchido em 53 das 136 revisões e `added` em 17, então nenhuma soma detecta o que falta.
+#
+# Só ARQUIVO NOVO dispara. Correção que edita registro existente não é barrada — a própria política
+# admite agrupá-la na revisão seguinte.
+#
+# Para dividir um lote em vários commits de propósito, use NOVELO_SEM_REVISAO=1 neste commit. Existe
+# para ninguém precisar de --no-verify, que desligaria junto a varredura de segredos abaixo.
+if [ "${NOVELO_SEM_REVISAO:-}" != "1" ]; then
+  novos=$(git diff --cached --name-only --diff-filter=A -- data/ || true)
+  if [ -n "$novos" ]; then
+    registros=$(echo "$novos" | grep -v '^data/revisions/' || true)
+    revisao=$(echo "$novos" | grep '^data/revisions/' || true)
+    if [ -n "$registros" ] && [ -z "$revisao" ]; then
+      echo "[pre-commit] BLOQUEADO: $(echo "$registros" | wc -l | tr -d ' ') registro(s) novo(s) em data/ sem entrada em data/revisions/." >&2
+      echo "$registros" | sed 's/^/    /' >&2
+      echo "" >&2
+      echo "  Sem o registro de revisão o conteúdo vai ao ar mas não aparece em /atualizacoes," >&2
+      echo "  e a política editorial (seção 8) promete que aparece." >&2
+      echo "" >&2
+      echo "  Crie data/revisions/rev-AAAA-MM-DD-<slug>.yaml, ou, se este commit é parte de um lote" >&2
+      echo "  dividido de propósito: NOVELO_SEM_REVISAO=1 git commit ..." >&2
+      exit 1
+    fi
+  fi
 fi
 
 if command -v gitleaks >/dev/null 2>&1; then

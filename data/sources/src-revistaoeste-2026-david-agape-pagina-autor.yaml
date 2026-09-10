@@ -1,0 +1,20 @@
+id: src-revistaoeste-2026-david-agape-pagina-autor
+kind: source
+title: Página de autor de David Ágape na Revista Oeste
+publisher: Revista Oeste
+publication_date: '2026'
+retrieved_at: '2026-09-06'
+url: https://revistaoeste.com/autor/david-agape/
+source_type: press
+summary: 'Página oficial de autor no site da Revista Oeste: ''Jornalista investigativo e fundador do canal
+  A Investigação'' — confirma, por fonte primária do próprio veículo, que ele é colunista lá.'
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

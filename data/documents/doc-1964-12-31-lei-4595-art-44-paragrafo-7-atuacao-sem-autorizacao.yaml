@@ -1,0 +1,30 @@
+id: doc-1964-12-31-lei-4595-art-44-paragrafo-7-atuacao-sem-autorizacao
+kind: document
+title: Lei n. 4.595/1964, art. 44, paragrafo 7 — atuar como instituicao financeira sem autorizacao
+doc_type: legislative_act
+date: '1964-12-31'
+source_ids:
+- src-bcb-lei-4595-1964-art-44-paragrafo-7
+summary: 'Dispositivo conferido integralmente pela equipe para fixar o enquadramento correto do caso.
+  Pune com multa e detencao de um a dois anos quem atue como instituicao financeira sem autorizacao do
+  Banco Central, estendendo a pena a diretores e administradores quando se tratar de pessoa juridica.
+  A lei nao contem vedacao textual ao uso da expressao Banco na denominacao social — restricao que existe
+  em normas infralegais nao verificadas nesta apuracao. A distincao importa: a designacao Banco PKL One
+  que consta do diario oficial sul-mato-grossense vale como indicio documental de como o Estado enxergava
+  a empresa, nao como enquadramento legal autonomo, e o enquadramento relevante e mais grave e o do exercicio
+  da atividade.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- banco-central-do-brasil
+issuer: Republica Federativa do Brasil
+url: https://www.bcb.gov.br/
+reference: Lei n. 4.595, de 31/12/1964, art. 44, par. 7
+excerpt: Quaisquer pessoas fisicas ou juridicas que atuem como instituicao financeira, sem estar devidamente
+  autorizadas pelo Banco Central do Brasil, ficam sujeitas a multa referida neste artigo e detencao de
+  1 a 2 anos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

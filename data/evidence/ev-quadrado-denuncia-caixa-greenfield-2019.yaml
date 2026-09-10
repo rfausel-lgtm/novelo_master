@@ -1,0 +1,21 @@
+id: ev-quadrado-denuncia-caixa-greenfield-2019
+kind: evidence
+classification: A
+proposition: 'Maurício Quadrado foi réu em ação penal anterior e distinta da fraude Master, derivada da
+  Operação Greenfield/Caixa Econômica Federal (delação de Roberto Carlos Madoglio, ex-superintendente
+  da Caixa): denúncia apresentada em 30/04/2019 e recebida em 07/05/2019; teve contas na Suíça bloqueadas
+  a partir de 03/09/2018 (a pedido do MPF), desbloqueadas em 22/11/2022 por decisão do STJ. Segundo a
+  reportagem, ''o processo continuou sem audiências, sem instrução, sem sentença.'' Não se confunde com
+  o caso das debêntures Banvox/Master — para este, não há denúncia formal localizada contra Quadrado além
+  da busca e apreensão de 14/01/2026 e dos bloqueios cautelares já mapeados no acervo.'
+document_ids: []
+source_ids:
+- src-jornalggn-2026-01-21-inquerito-prescrever-peca-chave-caso-master
+attributed_to: Jornal GGN (Luis Nassif), 21/01/2026, republicada 09/09/2026, com base na denúncia do processo
+  derivado da Operação Greenfield
+date: '2019-05-07'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

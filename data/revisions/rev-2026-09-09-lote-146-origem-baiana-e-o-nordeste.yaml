@@ -1,0 +1,36 @@
+id: rev-2026-09-09-lote-146-origem-baiana-e-o-nordeste
+kind: revision
+date: '2026-09-09'
+title: 'Lote 146 — a origem baiana: o decreto assinado no dia do leilão, e o Nordeste'
+summary: 'Lote que recupera a peça de origem de todo o caso e a lê no texto integral. O cartão foi criado
+  em 1999 pela estatal baiana de alimentos, como instrumento de compra na rede pública de supermercados.
+  O decreto que o converteu em veículo de crédito foi assinado em 27 de abril de 2018 — exatamente o dia
+  do leilão que alienou a estatal — e publicado no dia seguinte. Fixa margem de consignação de 30% da
+  remuneração líquida, compromete a secretaria da Administração a ''garantir a efetivação dos descontos
+  mensais'' e, sobretudo, assegura ao ''detentor dos direitos de exploração comercial'' — nomeado por
+  uma qualidade contratual, e não por identidade — a faculdade de diversificar as funcionalidades do cartão,
+  associando-lhe serviços ''inclusive comerciais, creditícios, financeiros, securitários e congêneres''.
+  A fórmula não foi improvisada: constava do edital de alienação de 2015, que não se consumou. A empresa
+  entrou três meses depois, credenciada pelo mesmo secretário que referendara o decreto, e o contrato
+  reproduz aquela redação palavra por palavra. No Nordeste, o exame dos demais estados corrige a escala
+  do problema: a margem exclusiva para cartão de benefício foi criada em pelo menos seis unidades entre
+  2018 e 2025, mas a operadora do CredCesta só aparece nos atos estaduais de dois deles. No Rio Grande
+  do Norte seu credenciamento antecedeu a margem em dez meses, e o termo a chama de ''instituição financeira''.
+  Na Paraíba, quem se credenciou foi outra empresa, sob um decreto que obriga o servidor a reservar toda
+  a margem disponível a uma única consignatária e isenta de custas operacionais as instituições de pagamento
+  credenciadas — o desenho mais favorável localizado em toda a apuração. Três estados autorizam expressamente
+  o saque pelo cartão, que é a funcionalidade que o converte em empréstimo.'
+affected_ids:
+- credcesta
+- pkl-one-participacoes
+- empresa-baiana-de-alimentos
+- augusto-lima
+- kdb-instituicao-de-pagamento
+- andrea-lima-novaes
+reason: Recuperação da documentação de origem do programa na Bahia e extensão da apuração aos demais estados
+  do Nordeste, com leitura dos textos normativos nos diários oficiais.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

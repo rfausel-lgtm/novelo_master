@@ -1,0 +1,21 @@
+id: ev-decreto-fluminense-de-2025-nao-teve-existencia-confirmada
+kind: evidence
+classification: I
+proposition: RESSALVA a registro anterior deste acervo. A busca documental não confirmou a existência
+  do decreto fluminense nº 49.526, que o corpus registra como de 24/02/2025 e relativo a cartão de adiantamento
+  salarial com limite de até 40%. Buscas por número, data e objeto não retornaram o ato; a consulta em
+  base de diários devolveu mais de mil resultados para esse número, todos de outras unidades da federação.
+  Foram atestados decretos fluminenses vizinhos — nº 49.504, de 12/02/2025, e nº 49.568, de 27/03/2025
+  —, nenhum deles verificado quanto ao objeto. Enquanto não se obtiver o texto, o registro sobre esse
+  decreto deve ser tratado como não confirmado.
+document_ids: []
+source_ids:
+- src-doerj-2021-05-28-decreto-47625-texto-integral
+inference_basis: Busca por número, data e objeto em bases de legislação estadual e de diários oficiais,
+  sem retorno do ato atribuído ao Rio de Janeiro, e ausência de qualquer reprodução de seu texto.
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

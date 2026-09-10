@@ -1,0 +1,31 @@
+id: jaguar-investments
+kind: organization
+name: Jaguar Investments
+aliases: []
+org_type: fund
+summary: Fundo estrangeiro (atual denominação da Centara Multimarket Investments LLC e Brazilian Multimarket
+  Investments LLC), regularmente registrado na CVM, cujo beneficiário final no Brasil é Benjamim Botelho
+  de Almeida — as ordens de compra e venda eram dadas por ele na qualidade de diretor. Realizou 32 operações
+  com cotas do Brazil Realty FII entre outubro de 2018 e fevereiro de 2020, com lucro estimado de R$ 6,99
+  milhões, e mantinha, segundo extrato de 13/09/2021 citado em sua própria defesa, 7.165.997 cotas do
+  fundo avaliadas em cerca de R$ 113 milhões. A defesa argumentou que a retenção substancial de ativos
+  descaracterizaria intuito especulativo — argumento não afastou a condenação de Botelho no processo.
+why_in_novelo: É o veículo offshore de Benjamim Botelho de Almeida que manteve a maior posição em cotas
+  do Brazil Realty FII entre as entidades ligadas ao esquema, avaliada em cerca de R$ 113 milhões.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Segundo a proposta de delação de João Carlos Mansur (26/08/2026), um fundo chamado 'Jaguar Multimarket
+  Fund Ltd.' (Cayman) recebeu R$ 494 milhões do Banco Master e teria Daniel Vorcaro como 'verdadeiro dono',
+  apesar de Benjamim Botelho figurar como beneficiário formal — alegação do delator, não corroborada.
+  Não confirmado se é a mesma entidade que esta ('Jaguar Investments'), beneficiário do mesmo Botelho
+  na condenação da CVM sobre o Brazil Realty FII, ou um veículo distinto de nome semelhante.
+source_ids:
+- src-bahianoticias-2026-08-26-proposta-delacao-mansur-wagner-acmneto
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

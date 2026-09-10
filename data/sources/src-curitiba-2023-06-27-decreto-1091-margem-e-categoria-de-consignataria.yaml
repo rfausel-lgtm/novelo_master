@@ -1,0 +1,27 @@
+id: src-curitiba-2023-06-27-decreto-1091-margem-e-categoria-de-consignataria
+kind: source
+title: Decreto municipal nº 1.091, de 27 de junho de 2023 — margem e categoria nova em Curitiba
+publisher: Prefeitura Municipal de Curitiba
+publication_date: '2023-06-27'
+retrieved_at: '2026-09-09'
+url: https://mid.curitiba.pr.gov.br/2023/00401982.pdf
+source_type: official_gazette
+summary: 'Texto oficial lido pela equipe; protocolo 04-027913/2023, assinado pelo prefeito Rafael Greca.
+  Executa num único ato quatro movimentos: reserva margem de 10% exclusiva para cartão consignado de benefício;
+  determina que esses descontos ''não estará limitado aos percentuais definidos no caput'', replicando
+  a lógica da não concorrência adotada em Mato Grosso; cria a categoria de consignatária ''empresas administradoras
+  de cartão de crédito/benefício''; e dispensa expressamente essa nova categoria de uma das etapas do
+  credenciamento. Em sentido contrário, acrescenta requisitos de sede ou filial no município e de certificado
+  de autorização do Banco Central — a empresa mantinha filial em Curitiba desde 19/08/2021. Não foi possível
+  estabelecer se a dispensa do art. 5º neutraliza a exigência do art. 6º, porque o texto-base do decreto
+  de 2011 não está acessível. Fixa ainda custo efetivo total máximo de 4,5% ao mês e prazo de 72 meses.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do PDF oficial do diário capixaba e do texto normativo paranaense)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

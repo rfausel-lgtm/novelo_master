@@ -1,0 +1,22 @@
+id: src-webarchive-balanco-banco-master-2023-consolidado
+kind: source
+title: Balanço consolidado do Banco Master, dezembro de 2023
+publisher: Banco Master S.A. (captura do Internet Archive)
+publication_date: '2024'
+retrieved_at: '2026-09-09'
+url: http://web.archive.org/web/20251201114912id_/https://www.bancomaster.com.br/arquivos/Banco_Master-Balanco_Consolidado-12.2023.pdf
+source_type: corporate_registry
+summary: Demonstrações financeiras auditadas do exercício de 2023. À p. 3 registra 'presença consolidada
+  em 23 Estados e em 135 Municípios' e nomeia, única vez em toda a documentação do banco, 'São Paulo,
+  Rio de Janeiro, Minas Gerais, Bahia e demais'. O número diverge do que o balanço do ano seguinte atribuiria
+  a 2023. Também aqui a expressão 'PKL One' não aparece.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (recuperação e leitura direta das capturas arquivadas e dos balanços)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

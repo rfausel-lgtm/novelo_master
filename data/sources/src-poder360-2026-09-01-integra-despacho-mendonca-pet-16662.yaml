@@ -1,0 +1,26 @@
+id: src-poder360-2026-09-01-integra-despacho-mendonca-pet-16662
+kind: source
+title: Íntegra do despacho de André Mendonça na Pet 16.662, de 01/09/2026
+publisher: Poder360 (documento do STF)
+publication_date: '2026-09-01'
+retrieved_at: '2026-09-10'
+url: https://static.poder360.com.br/uploads/2026/09/despacho-mendonca-sigilo-telefonico-Moraes-1set2026.pdf
+source_type: official_court
+summary: 'Íntegra assinada digitalmente, lida pela equipe. O item 17 define o encaminhamento do feito:
+  ''independentemente de qual venha a ser a manifestação exarada pela douta Procuradoria-Geral da República,
+  o caminho inevitável dos presentes autos leva ao Plenário deste Supremo Tribunal Federal, instância
+  soberana para analisar, de modo técnico e estritamente jurídico, os novos elementos trazidos pela autoridade
+  policial''. O item 18 determina que a deliberação ocorra ''de forma pública e transparante, em sessão
+  presencial do Colegiado''. Observação de precisão: o despacho não emprega a expressão ''autorizar investigação
+  contra o ministro''. Registre-se ainda aparente erro material no item 7, que data de 17/11/2026 — data
+  futura — decisão de vara federal que a cobertura pericial situa em 17/11/2025.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura das íntegras oficiais e do serviço de pautas do tribunal)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

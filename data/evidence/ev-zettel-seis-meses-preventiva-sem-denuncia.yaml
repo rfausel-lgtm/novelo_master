@@ -1,0 +1,24 @@
+id: ev-zettel-seis-meses-preventiva-sem-denuncia
+kind: evidence
+classification: I
+proposition: Fabiano Zettel está preso preventivamente desde 04/03/2026 (decisão assinada em 03/03), na
+  Penitenciária 2 de Potim (SP) desde 05/03/2026. Em 09/09/2026, data desta apuração, isso perfaz seis
+  meses e cinco dias de prisão cautelar sem que tenha sido localizada denúncia formal da PGR contra ele,
+  recebimento de denúncia ou instauração de ação penal — o caso segue em fase de inquérito, com conclusão
+  do relatório da PF prevista para o fim de setembro de 2026. Também não foram localizados habeas corpus
+  impetrado em seu favor, arguição de excesso de prazo, nem decisão que aprecie a revisão periódica de
+  90 dias prevista no art. 316, parágrafo único, do CPP. A última confirmação explícita de que permanecia
+  preso é de 23/07/2026; nada indica soltura posterior, apenas ausência de confirmação mais recente.
+document_ids: []
+source_ids:
+- src-poder360-2026-06-28-pf-pgr-devem-rejeitar-delacao-zettel
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+inference_basis: Contagem de datas a partir de registros documentados (decisão de 03/03/2026 e confirmações
+  jornalísticas sucessivas da manutenção da prisão), combinada com resultado negativo de busca dirigida
+  por denúncia, HC ou arguição de excesso de prazo.
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

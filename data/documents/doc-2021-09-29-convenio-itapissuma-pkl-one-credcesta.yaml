@@ -1,0 +1,31 @@
+id: doc-2021-09-29-convenio-itapissuma-pkl-one-credcesta
+kind: document
+title: Convenio entre a Prefeitura de Itapissuma e a PKL One — o contrato-padrao do CredCesta
+doc_type: contract
+date: '2021-09-29'
+source_ids:
+- src-convenio-itapissuma-2021-credcesta-clausulas-operacionais
+summary: 'Instrumento integral disponivel no portal de transparencia municipal, que serve de contrato-padrao
+  do produto e revela sua arquitetura. Cabe ao municipio entregar os cartoes aos servidores pelo proprio
+  departamento de recursos humanos; os saques sao liberados por instituicao financeira expressamente autorizada
+  pela operadora, e nao o contrario; as operacoes nao podem ser canceladas a pedido do servidor sem anuencia
+  da empresa; e a carteira de convenios publicos pode ser cedida a terceiros mediante simples aviso ao
+  ente conveniado. O convenio e sem onus para o municipio. Assinado digitalmente em 29/09/2021 e publicado
+  em 03/11/2021, com assinatura de Andrea Lima Novaes pela empresa. Achado adicional: sua redacao reproduz
+  quase literalmente formulas do decreto baiano de 2018, o que indica minuta elaborada pela propria empresa
+  e reaproveitada de estado a estado.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+- andrea-lima-novaes
+issuer: Prefeitura Municipal de Itapissuma (PE)
+url: https://transparencia.systemainformatica.com.br/entidade/itapissuma/upload/20211108122749_CONVENIO_PARA_CONCESSAO_DE_OPERACAO_DO_CARTAO_DE_BENEFICIO_CONSIGNADO_CREDCESTA_DA_EMPRESA_PKL_ONE_PARTICIPACOES_S-A_E_A_PREFEITURA_DE_ITAPISSUMA.pdf
+reference: 'Convenio Prefeitura de Itapissuma x PKL One; base: Decreto municipal 021/2021'
+excerpt: A PKL podera ceder o objeto deste Convenio a terceiros, como tambem a carteira de Convenios respectivas,
+  comunicando tal fato previamente ao CONVENIADO
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

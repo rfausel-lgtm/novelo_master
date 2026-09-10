@@ -13,7 +13,7 @@ summary: 'Aprofundado o episódio da aprovação, pelo Banco Central, da venda d
   formais de capital) e os R$ 600 milhões (gasto total de patrimônio pessoal, segundo O Tempo) que Augusto
   Lima teria investido tentando salvar o Voiter/Pleno.'
 affected_ids:
-- voiter-banco-pleno
+- banco-pleno
 - banco-central-do-brasil
 - augusto-lima
 reason: Loop de investigação — aprofundamento da aprovação regulatória da venda do Voiter.

@@ -1,0 +1,28 @@
+id: rev-2026-09-06-lote-115-instituto-terra-firme
+kind: revision
+date: '2026-09-06'
+title: 'Lote 115 — Instituto Terra Firme: a ONG de Flávia Peres, os R$ 457,2 mil do Master e a busca da
+  PF mirando Lima e Wagner'
+summary: Criado o Instituto Terra Firme (associação presidida por Flávia Peres, esposa de Augusto Lima),
+  com o repasse de R$ 457,2 mil do Banco Master (segundo dado da Receita citado pela imprensa, negado
+  por ela) e a busca da PF em sua sede (18/06/2026, 9ª fase da Compliance Zero, foco na relação Lima–Jaques
+  Wagner). Adicionado ao perfil de Luiz Bull seu depoimento à PF ('assinava documentos sem ler') e o caso
+  do Porsche apreendido. Registrada, com classificação de evidência fraca (fonte única, não verificada
+  por completo), a suspeita da PF sobre transferência de R$ 3,5 milhões de Andréa Lima Novaes a entidade
+  ligada à família de Jaques Wagner — mantida no grafo para reavaliação futura. Conectada a Terra Firme
+  Realty (Augusto Lima) a Andréa Lima Novaes via a SPE Mark 71.
+affected_ids:
+- instituto-terra-firme
+- flavia-peres
+- luiz-bull
+- andrea-lima-novaes
+- terra-firme-realty
+- asseba
+- jaques-wagner
+reason: Loop de investigação — aprofundamento da rede de Augusto Lima com dados de CNPJ e novas fontes
+  de imprensa.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

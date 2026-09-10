@@ -1,0 +1,19 @@
+id: src-cnnbrasil-2026-08-17-dino-afastamento-tce-maranhao
+kind: source
+title: STF apura se senador e ministro do STJ interferiram em investigação no MA
+publisher: CNN Brasil
+publication_date: 2026-08
+retrieved_at: '2026-09-06'
+url: https://www.cnnbrasil.com.br/politica/stf-apura-se-senador-e-ministro-do-stj-interferiram-em-investigacao-no-ma/
+source_type: press
+summary: Segunda fonte independente confirmando o núcleo do 'Caso Tech Office' e a decisão de Dino.
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

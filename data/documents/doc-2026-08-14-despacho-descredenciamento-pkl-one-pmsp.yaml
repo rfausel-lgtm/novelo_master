@@ -1,0 +1,28 @@
+id: doc-2026-08-14-despacho-descredenciamento-pkl-one-pmsp
+kind: document
+title: Despacho que descredencia a PKL One do sistema de consignações da capital paulista
+doc_type: administrative_act
+date: '2026-08-14'
+source_ids:
+- src-doc-2026-08-14-descredenciamento-pkl-one-pmsp
+summary: 'A capital paulista foi mais longe do que o Estado e do que Mato Grosso do Sul: não apenas suspendeu,
+  mas descredenciou a empresa e denunciou o convênio, após rejeitar a defesa administrativa apresentada.
+  O fundamento é a não manutenção dos requisitos de credenciamento e o descumprimento reiterado de dispositivo
+  do decreto municipal de 2019. Um detalhe expõe o cuidado do ato anterior: a publicação de 12/08/2026
+  teve de ser tornada sem efeito porque grafara a razão social como ''PKL One Administrações S.A'', embora
+  com o CNPJ correto.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Prefeitura do Município de São Paulo — Coordenadoria de Gestão de Pessoas
+url: http://diariooficial.prefeitura.sp.gov.br/md_epubli_visualizar.php?6kz0SrUypxBRd4GmgkPkdS4-QXmEtAN6PyrWYZcPGCDLVXH3n_0pdMujHSKCQO0LqZnDPwWZZxRr9cxAJypFKw,,
+reference: Processo 6013.2025/0004957-9; DOC-SP 14/08/2026
+excerpt: não acolho a defesa apresentada pela PKL ONE PARTICIPAÇÕES S.A. [...] e DETERMINO O SEU DESCREDENCIAMENTO
+  como entidade consignatária integrante do Sistema de Consignação em Folha de Pagamento da Prefeitura
+  do Município de São Paulo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

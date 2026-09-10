@@ -1,0 +1,23 @@
+id: ev-messias-lula-alvorada-reuniao-08set-jose-guimaraes-eleitoral
+kind: evidence
+classification: C
+proposition: 'Na manhã de 08/09/2026, após a decisão de Mendonça que afastou Andrei Rodrigues, Lula recebeu
+  no Palácio da Alvorada o Advogado-Geral da União, Jorge Messias, e o ministro da Justiça, Wellington
+  César Lima e Silva; Messias saiu por volta de 12h45. O líder do governo na Câmara, José Guimarães, declarou
+  sobre a decisão de Mendonça: ''essa medida me cheira como eleitoral. Isso não pode!''. Na sequência,
+  a AGU, assinada por Messias, protocolou petição a Fachin pedindo a suspensão da decisão de Mendonça,
+  com base em suposta violação da prerrogativa presidencial de nomear/exonerar a direção-geral da PF (art.
+  84 da Constituição). A reportagem da Poder360 de 09/09/2026 sobre a articulação paralela com Dino não
+  cita Messias nominalmente nessa articulação específica — a ligação entre ele e essa articulação é inferência
+  a partir de seu papel institucional (presença na reunião, autoria da petição à AGU), não uma afirmação
+  textual das fontes consultadas.'
+document_ids: []
+source_ids:
+- src-metropoles-2026-09-08-lula-recebe-agu-alvorada-decisao-mendonca
+- src-exame-2026-09-08-agu-messias-pede-suspensao-mendonca-fachin
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

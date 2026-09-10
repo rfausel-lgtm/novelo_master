@@ -1,0 +1,21 @@
+id: src-cnnbrasil-2025-11-18-liquidacao-will-bank-oito-instituicoes
+kind: source
+title: Liquidação do Will Bank se soma a outras 5 relacionadas ao caso Master
+publisher: CNN Brasil
+publication_date: '2025-11-18'
+retrieved_at: '2026-09-09'
+url: https://www.cnnbrasil.com.br/economia/macroeconomia/liquidacao-do-will-bank-se-soma-a-outras-5-relacionadas-ao-caso-master/
+source_type: press
+summary: 'Banco Central decretou a liquidação extrajudicial de oito instituições do conglomerado Master
+  simultaneamente em 18/11/2025: Banco Letsbank, Banco Master, Banco Master de Investimento, Will Bank,
+  Banco Pleno, Pleno DTVM e Master S/A Corretora, entre outras.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (resumo de busca; alguns textos integrais bloqueados por paywall/403)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

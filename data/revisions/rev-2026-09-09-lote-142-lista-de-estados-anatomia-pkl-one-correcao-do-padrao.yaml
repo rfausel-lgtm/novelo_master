@@ -1,0 +1,37 @@
+id: rev-2026-09-09-lote-142-lista-de-estados-anatomia-pkl-one-correcao-do-padrao
+kind: revision
+date: '2026-09-09'
+title: Lote 142 — a lista dos estados, a anatomia da PKL One e a correção do nosso próprio padrão
+summary: 'Lote que fecha uma lacuna antiga, abre a empresa por dentro e corrige uma tese que o próprio
+  acervo vinha construindo. Primeiro, a lista: os estados em que o CredCesta operou nunca foram divulgados,
+  mas o site os expunha num seletor que listava apenas convênios ativos. Duas capturas foram recuperadas
+  e lidas diretamente — doze unidades da federação em maio de 2022, 21 mais o convênio federal em fevereiro
+  de 2024, ausentes AC, AL, CE, DF, RR e RS. Segundo, a contabilidade: os balanços do banco declaram 21,
+  23 e 24 estados em anos sucessivos, mas o balanço de 2024 atribui a 2023 apenas 20 — três números irreconciliáveis
+  para a mesma série, auditados sem ressalva —, e em nenhum deles a expressão ''PKL One'' aparece uma
+  única vez. A rubrica de apoio operacional a convênios saltou de R$ 33,3 milhões a R$ 202,5 milhões em
+  um ano. Terceiro, a correção: testada com datas exatas, a hipótese de que o decreto criava a margem
+  e o credenciamento vinha em seguida só se confirma na Bahia, no Amapá e em São Paulo. No Paraná e no
+  Espírito Santo a ordem é inversa — a empresa entrou pelo regime antigo ou por porta lateral, e a norma
+  veio depois. O padrão que resiste ao teste é outro: a empresa chega primeiro e a norma se acomoda depois.
+  Quarto, os contraexemplos: Amapá e Rondônia abriram a margem e barraram a operadora pelo mesmo fundamento
+  que os demais não opuseram — ela não é instituição financeira. Quinto, a anatomia: constituída com R$
+  100,00 de capital num apartamento em Perdizes, capitalizada doze dias após o leilão da estatal baiana,
+  a empresa emitiu debêntures remuneradas em 50% do lucro líquido e pagou R$ 30,575 milhões a um debenturista
+  que os extratos não nomeiam. Sexto, o mecanismo: o convênio-padrão obriga o município a entregar os
+  cartões pelo próprio departamento de recursos humanos, e trata a carteira de convênios públicos como
+  ativo cedível a terceiros mediante simples aviso.'
+affected_ids:
+- credcesta
+- pkl-one-participacoes
+- banco-master
+- andrea-lima-novaes
+- augusto-lima
+reason: Consolidação dos achados da expansão para os demais estados, com recuperação direta das capturas
+  arquivadas do site, leitura dos balanços do banco e dos atos societários da operadora, e teste da hipótese
+  de padrão normativo que o próprio acervo vinha formulando.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

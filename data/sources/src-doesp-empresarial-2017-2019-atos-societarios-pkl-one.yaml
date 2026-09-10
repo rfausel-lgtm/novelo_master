@@ -1,0 +1,28 @@
+id: src-doesp-empresarial-2017-2019-atos-societarios-pkl-one
+kind: source
+title: Atos societários da PKL One publicados no caderno Empresarial do Diário Oficial de São Paulo
+publisher: Diário Oficial do Estado de São Paulo — caderno Empresarial
+publication_date: '2019-06-26'
+retrieved_at: '2026-09-09'
+url: https://www.imprensaoficial.com.br/
+source_type: corporate_registry
+summary: 'Série de publicações societárias levantada pela equipe. Ata de constituição de 20/03/2017: capital
+  de R$ 100,00, sede em apartamento na Rua Tucuna, em Perdizes, objeto de mera participação em outras
+  sociedades; as demonstrações de 31/12/2017 registram ativo total de R$ 100,00. Assembleia de 24/04/2018
+  muda a sede para a Avenida Cidade Jardim, eleva o capital a R$ 1 milhão e dá entrada a Andrea Lima Novaes
+  e Marcelo Maia Souza Marques. Assembleia de 07/05/2018 aprova a primeira emissão de debêntures, de subscrição
+  privada, com remuneração fixada como percentual do lucro líquido; em 30/10/2018 o teto mensal é removido
+  e a remuneração passa a 50% do lucro líquido da companhia. Assembleia de 31/05/2019 aprova o pagamento
+  de R$ 15.875.000,00 e R$ 14.700.000,00 ''ao debenturista'', que não é nomeado nos extratos. O estatuto
+  consolidado de dezembro de 2018 inclui no objeto social o ''licenciamento de ativos intangíveis não
+  financeiros''.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (recuperação e leitura direta das capturas arquivadas e dos balanços)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

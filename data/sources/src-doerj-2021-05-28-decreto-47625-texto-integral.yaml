@@ -1,0 +1,27 @@
+id: src-doerj-2021-05-28-decreto-47625-texto-integral
+kind: source
+title: Decreto nº 47.625, de 27 de maio de 2021 — texto integral publicado no diário oficial fluminense
+publisher: Diário Oficial do Estado do Rio de Janeiro (transcrição em base de diários)
+publication_date: '2021-05-28'
+retrieved_at: '2026-09-10'
+url: https://www.jusbrasil.com.br/diarios/1128782214/doerj-poder-executivo-28-05-2021-pg-2
+source_type: official_gazette
+summary: 'Poder Executivo, página 2, seção ''Ato do Poder Executivo'', matéria identificada sob o nº 2319731.
+  Texto integral lido pela equipe e conferido, palavra por palavra, contra transcrição independente publicada
+  em 31/05/2021 — as duas coincidem inclusive nos erros de concordância do original (''quantia devidas'',
+  ''poderá também se efetiva''). Ressalva de classificação: não se trata do fac-símile do órgão oficial
+  de imprensa fluminense, cujo módulo de consulta exige autenticação e não foi acessado. São duas reproduções
+  independentes convergentes, mais citação literal parcial em acórdão do tribunal de justiça estadual.
+  O ato é assinado apenas por Cláudio Castro, sem referendo de qualquer secretário, e tem origem no Processo
+  SEI-150001/006360/2021.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura de duas transcrições independentes do diário fluminense e do decreto-matriz
+    em PDF oficial)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

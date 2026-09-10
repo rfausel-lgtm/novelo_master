@@ -1,0 +1,22 @@
+id: src-metropoles-2026-07-24-master-11bilhao-bate-volta-tanure
+kind: source
+title: Master realizou ao menos R$ 1,1 bilhão em operações 'bate e volta' com Tanure
+publisher: Metrópoles (coluna Demétrio Vecchioli)
+publication_date: '2026-07-24'
+retrieved_at: '2026-09-06'
+url: https://www.metropoles.com/colunas/demetrio-vecchioli/master-realizou-ao-menos-r-11-bilhao-em-operacoes-bate-volta-com-tanure
+source_type: press
+summary: 'Trecho literal: ''o banco Master realizava ao menos R$ 1,112 bilhão em operações em que emprestava
+  dinheiro a empresas ligadas ao investidor Nelson Tanure e, em até uma semana [...] repassava o crédito
+  para fundos caixa preta.'' É o fluxo inverso ao das debêntures — o Master emprestando a empresas de
+  Tanure, não Tanure capitalizando o Master — e mede fenômeno distinto dos valores citados em outras reportagens.'
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

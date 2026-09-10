@@ -1,0 +1,33 @@
+id: king-participacoes-imobiliarias
+kind: organization
+name: King Participações Imobiliárias
+aliases: []
+org_type: company
+summary: Sociedade limitada (CNPJ 47.855.227/0001-82) aberta em 06/09/2022, com capital social de R$ 1
+  milhão, sede em Belo Horizonte e atividade declarada de corretagem no aluguel de imóveis. Tem como sócio-administrador
+  único Luiz Phillipi Machado de Moraes Mourão, apontado pela Polícia Federal como chefe do grupo informal
+  de monitoramento e intimidação conhecido como 'A Turma', morto sob custódia da PF em março de 2026.
+  É a empresa que, segundo a apuração, recebia cerca de R$ 1 milhão por mês de sociedades do grupo Master,
+  sobretudo da Super Empreendimentos — dos quais cerca de R$ 400 mil mensais eram distribuídos entre os
+  integrantes do grupo. Teve as atividades suspensas por determinação judicial em 03/03/2026, na mesma
+  decisão que atingiu a Varajo Consultoria, a Moriah Asset, a Super Empreendimentos e a King Motors.
+why_in_novelo: É a pessoa jurídica pela qual passava o dinheiro destinado ao grupo apontado como responsável
+  por monitorar e intimidar jornalistas, concorrentes e ex-empregados a mando de Daniel Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- O corpo da decisão do STF menciona 'King Empreendimentos Imobiliários e Participações Ltda' como destinatária
+  da transferência de R$ 1 milhão, nome que corresponde a uma terceira empresa, de sócios sem relação
+  identificada com o caso e que permanece ativa — trata-se de imprecisão da decisão, e o corpus não vincula
+  aquela empresa ao caso.
+- Não foi localizada manifestação da empresa ou do espólio de seu sócio único sobre a caracterização feita
+  pela investigação.
+source_ids:
+- src-brasilapi-2026-king-participacoes-imobiliarias
+- src-cnnbrasil-2026-vorcaro-pagava-400-mil-mes-a-turma
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

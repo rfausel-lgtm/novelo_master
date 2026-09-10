@@ -4,21 +4,37 @@ name: UNLTD Network Brazil Ltda
 aliases:
 - Unlimited
 org_type: company
-summary: Agência de comunicação e relações públicas, também referida como 'Unlimited', de propriedade
+summary: 'Agência de comunicação e relações públicas, também referida como ''Unlimited'', de propriedade
   de André Salvador e Anderson Antunes (CNPJ 47.643.948/0001-29). Segundo a decisão de André Mendonça
-  na PET 16.346, foi contratada no âmbito do 'Projeto DV' para recrutar formadores de opinião, exigindo
+  na PET 16.346, foi contratada no âmbito do ''Projeto DV'' para recrutar formadores de opinião, exigindo
   acordo de confidencialidade com multa de R$ 800 mil por quebra contratual. A decisão reproduz trecho
-  do acordo firmado com um vereador, sob o título 'PROJETO UNLTD'.
+  do acordo firmado com um vereador, sob o título ''PROJETO UNLTD''. Registro da Receita Federal: aberta
+  em 19/08/2022, capital social de R$ 5.000, CNAE principal de desenvolvimento de programas de computador
+  sob encomenda e secundários de consultoria em publicidade e marketing direto, com sede em Águas Claras,
+  Brasília. Sua situação cadastral permanece ATIVA — diferentemente da Varajo, da Moriah Asset, da Super
+  Empreendimentos e das duas empresas King, ela não foi alcançada por suspensão judicial de atividades.
+  A agência declarou não ter contrato com o Banco Master. O quadro societário retornado pela base da Receita
+  traz um único sócio-administrador, ao passo que agregadores comerciais listam outros dois nomes, entre
+  eles o de André Salvador, apontado como autor das abordagens — divergência não resolvida.'
 why_in_novelo: Agência apontada, em decisão judicial da Operação Compliance Zero, como executora de campanha
   coordenada de influenciadores a favor do Banco Master e contra o Banco Central.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Há divergência sobre o quadro societário entre a base da Receita Federal, que retorna um único sócio-administrador,
+  e agregadores comerciais, que listam outros dois nomes — checagem que dependeria de certidão da Junta
+  Comercial do Distrito Federal.
+- 'Os nomes associados à agência foram mencionados na decisão do STF, mas não são alvos conhecidos de
+  busca, medida cautelar ou denúncia: a 10ª fase teve Thiago Miranda como único alvo.'
+- Não foi localizada explicação para a incongruência entre o CNAE principal (software sob encomenda),
+  o capital social de R$ 5 mil e a atividade descrita de gerenciamento de reputação.
 source_ids:
 - src-poder360-2026-07-09-integra-decisao-thiago-miranda
+- src-brasilapi-2026-unltd-network-brazil
+- src-cnnbrasil-2026-depoimentos-influenciadores-pf-ataques-bc
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

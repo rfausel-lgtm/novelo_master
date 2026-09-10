@@ -1,0 +1,21 @@
+id: src-cnnbrasil-2026-02-22-fachin-arquiva-acao-suspeicao-toffoli
+kind: source
+title: Fachin confirma arquivamento de ação que pedia suspeição de Toffoli
+publisher: CNN Brasil
+publication_date: '2026-02-22'
+retrieved_at: '2026-09-06'
+url: https://www.cnnbrasil.com.br/politica/fachin-confirma-arquivamento-de-acao-que-pedia-suspeicao-de-toffoli/
+source_type: press
+summary: Em 21/02/2026, o presidente do STF, ministro Edson Fachin, determinou o arquivamento do pedido
+  de suspeição/recusa contra Toffoli, 'após entendimento firmado entre os ministros da Corte, inclusive
+  Toffoli' — decisão posterior à saída dele da relatoria do caso (12/02/2026, substituído por André Mendonça).
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

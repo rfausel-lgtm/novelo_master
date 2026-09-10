@@ -1,0 +1,22 @@
+id: src-doe-ap-2023-06-05-edital-001-2023-sead-pkl-one-inabilitada
+kind: source
+title: Edital 001/2023 da SEAD-AP — PKL One inabilitada, Banco Master habilitado
+publisher: Diário Oficial do Estado do Amapá
+publication_date: '2023-06-05'
+retrieved_at: '2026-09-09'
+url: https://editor.amapa.gov.br/
+source_type: official_gazette
+summary: Edição 7.933, página 11. No mesmo despacho de habilitação de consignatárias, a PKL One Participações
+  S.A. é inabilitada sob a motivação 'Não se enquadra dentre os tipos de consignatárias', enquanto o Banco
+  Master S.A. é habilitado. O ato é posterior ao Decreto estadual 2.692, de 30/03/2023, que reservara
+  5% da margem exclusivamente para cartão consignado de benefício.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (recuperação e leitura direta das capturas arquivadas e dos balanços)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

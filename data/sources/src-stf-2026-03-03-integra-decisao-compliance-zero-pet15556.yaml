@@ -1,0 +1,23 @@
+id: src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+kind: source
+title: Íntegra da decisão de prisão preventiva na PET 15.556 (Operação Compliance Zero)
+publisher: Supremo Tribunal Federal
+publication_date: '2026-03-03'
+retrieved_at: '2026-09-09'
+url: https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2026/03/04111648/decisao-Op.-Compliance-Zero.pdf
+source_type: official_court
+summary: PDF de 48 páginas hospedado no domínio oficial do STF, assinado digitalmente (código de autenticação
+  62C0-F609-8822-74F2), baixado e lido integralmente pela equipe. Contém a seção I.2, dedicada a Fabiano
+  Campos Zettel (§§ 22-27), a descrição do grupo 'A Turma' (§§ 28-36), as mensagens sobre os pagamentos
+  a Belline Santana (§§ 66-70) e a lista de pessoas jurídicas com atividades suspensas (§§ 79 e 105).
+  A decisão está assinada em 3 de março de 2026 — 04/03 é a data de cumprimento.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

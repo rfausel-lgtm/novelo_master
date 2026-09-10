@@ -14,14 +14,18 @@ why_in_novelo: É o autor do requerimento de criação da CPMI do Banco Master.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Apresentou, com outros deputados (Adriana Ventura, Caroline de Toni), representação à PGR em janeiro
+  de 2026 pedindo o afastamento do ministro Dias Toffoli da relatoria do caso Master, citando o voo a
+  Lima com o advogado de um investigado — pedido arquivado por Paulo Gonet em 23/01/2026.
 source_ids:
+- src-congressoemfoco-2026-01-23-pgr-arquiva-pedido-tirar-toffoli-relatoria
 - src-senado-2026-02-03-cpmi-protocolada
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'
 photo:
   path: /fotos/carlos-jordy.jpg
   source: Wikimedia Commons

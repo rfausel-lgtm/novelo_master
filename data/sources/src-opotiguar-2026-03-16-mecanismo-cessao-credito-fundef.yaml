@@ -1,0 +1,26 @@
+id: src-opotiguar-2026-03-16-mecanismo-cessao-credito-fundef
+kind: source
+title: Governo da Bahia realizou repasses de precatórios ao Banco Master; PT diz que operações são regulares
+publisher: O Potiguar
+publication_date: '2026-03-16'
+retrieved_at: '2026-09-06'
+url: https://www.opotiguar.com.br/2026/03/16/governo-da-bahia-realizou-repasses-de-precatorios-ao-banco-master-pt-diz-que-operacoes-sao-regulares
+source_type: press
+summary: 'Detalha o mecanismo, citando a Secretaria da Administração da Bahia: servidores da Educação
+  com direito a precatórios do Fundef ''optaram por antecipar valores junto ao Banco Master através de
+  cessão de crédito. Após formalização, o Estado efetua pagamento direto ao banco, que se torna titular
+  do crédito por escolha do servidor.'' A Secretaria declarou que ''os pagamentos mencionados na imprensa
+  não dizem respeito a contratação nem a qualquer relação direta do Estado com o Banco Master.'' Atribui
+  o instrumento à Emenda Constitucional 114/2021 (norma federal, não decisão discricionária estadual).
+  O PT nacional, por Éden Valadares, secretário de comunicação: ''O Estado apenas faz o repasse de operações
+  estabelecidas entre servidores e o banco em questão.'''
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

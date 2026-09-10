@@ -1,0 +1,24 @@
+id: ev-pauta-de-15-09-tem-um-unico-item-e-nao-inclui-o-caso-andrei
+kind: evidence
+classification: D
+proposition: 'A pauta oficial resolve a dúvida: a sessão plenária extraordinária nº 28/2026, de 15/09/2026
+  às 10h, tem um único incidente — a Petição 16.662, de relatoria de André Mendonça, em matéria penal.
+  A controvérsia sobre o afastamento dos dirigentes da Polícia Federal não está na pauta: o próprio presidente
+  a deslocou para a suspensão de liminar pedida pela União, de competência exclusiva da Presidência, onde
+  disse que decidirá pessoalmente após informações. A convocação é explícita quanto ao objeto: ''No tocante
+  à Pet 16662 [...] convoco Sessão Plenária Extraordinária para o dia 15 de setembro de 2026, às 10 horas''.
+  A sessão da Primeira Turma daquele dia foi cancelada em razão da convocação.'
+document_ids:
+- doc-2026-09-15-pauta-oficial-sessao-extraordinaria-pet-16662
+- doc-2026-09-09-integra-decisao-fachin-pet-16704
+source_ids:
+- src-stf-2026-09-15-servico-de-pautas-sessao-extraordinaria-28
+- src-stf-2026-09-09-integra-decisao-fachin-pet-16704
+- src-stf-2026-09-09-nota-a-imprensa-46-convocacao-sessao
+excerpt: convoco Sessão Plenária Extraordinária para o dia 15 de setembro de 2026, às 10 horas
+date: '2026-09-15'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

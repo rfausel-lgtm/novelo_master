@@ -1,0 +1,18 @@
+id: ev-figueiredo-bc-trustee-indisponibilidade-bens-nao-banvox
+kind: evidence
+classification: A
+proposition: No decreto de liquidação extrajudicial da Trustee (03/09/2026), o Banco Central incluiu Artur
+  Martins de Figueiredo na lista de ex-administradores com bens tornados indisponíveis, junto com Ângelo
+  Pinheiro de Castro, Estevam Borali, Flávio Daniel Aguetoni, Luis Fernando de Almeida e Rogério Penteado
+  Felgueiras. Ele NÃO aparece na lista equivalente da liquidação da Banvox Distribuidora — a indisponibilidade
+  de bens parece vinculada especificamente à Trustee, não à Banvox Holding Financeira.
+document_ids: []
+source_ids:
+- src-iclnoticias-2026-09-03-bc-liquida-distribuidoras-titulos
+attributed_to: ICL Notícias, 03/09/2026, 11h42, citando o decreto de liquidação do Banco Central
+date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

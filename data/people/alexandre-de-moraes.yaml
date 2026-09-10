@@ -53,6 +53,32 @@ open_questions:
   sem critério explicitado.
 - A nota do gabinete de 06/03/2026 e o relatório de 27/08/2026 são frontalmente contraditórios sobre o
   destinatário das mensagens de 17/11/2025; nenhuma das versões foi arbitrada.
+- Segundo apuração da Poder360 (06/09 e 09/09/2026), Palácio do Planalto e um grupo do STF (Gilmar Mendes,
+  Flávio Dino, Cristiano Zanin) articulam preservá-lo ao máximo das suspeitas envolvendo Vorcaro, adiando
+  decisões do plenário até depois do período eleitoral — leitura da reportagem, sem corroboração jornalística
+  independente localizada até a data desta apuração; não há manifestação dele sobre essa caracterização
+  específica.
+- 'Relatou três notícias-crime sobre os mesmos fatos de 8 de janeiro de 2023, distribuídas a ele por prevenção,
+  com tratamento processual radicalmente diverso — disparidade verificada pela equipe diretamente no andamento
+  público do STF: a de Nikolas Ferreira contra Flávio Dino foi arquivada em um dia, em processo público,
+  com decisão no Diário de Justiça; a do Partido Novo contra o general Gonçalves Dias, em 117 dias, também
+  publicamente e com vista prévia à PGR; e a do deputado estadual Leandro de Jesus contra ambos ficou
+  1.219 dias sem qualquer movimentação, sob segredo de justiça, sendo decidida em 21/08/2026 — três dias
+  depois de reportagem revelar que estava parada. Segundo a reportagem que obteve o despacho sigiloso,
+  o arquivamento veio acompanhado de determinação para que a PF ouvisse o próprio denunciante. Não foi
+  localizada manifestação do gabinete sobre a disparidade de prazos, sobre o sigilo ou sobre a coincidência
+  de datas.'
+- 'Perdeu em 09/09/2026 a relatoria do Inquérito 4.781, que exercia desde março de 2019 por designação,
+  revogada pelo presidente do tribunal com efeitos a partir daquela data e preservação dos atos praticados.
+  A decisão declara fundamento institucional — segurança jurídica e delimitação — e não formula juízo
+  disciplinar. O contexto imediato é o caso Master: peças cujo sigilo foi levantado em 1º/09 traziam mensagens
+  suas trocadas com Daniel Vorcaro, e ele havia recorrido àquele mesmo inquérito para alcançar o relator
+  do caso.'
+- O Plenário do Supremo decidirá em 15/09/2026, em sessão extraordinária convocada a pedido de Mendonça,
+  se autoriza a abertura de investigação contra ele — o que seria, segundo a cobertura, a primeira deliberação
+  do colegiado sobre abrir inquérito contra um de seus integrantes. A suspeita se apoia no relatório preliminar
+  de 218 páginas da Polícia Federal, produzido sobre o material do celular de Daniel Vorcaro. A Procuradoria-Geral
+  da República sustenta a nulidade desse relatório, por vício de método na sua produção.
 source_ids:
 - src-congressoemfoco-2026-09-01-relatorio-pf
 - src-poder360-2026-09-01-sigilo-pet-16662
@@ -64,6 +90,15 @@ source_ids:
 - src-poder360-2026-09-01-mendonca-quer-sessao-plenario
 - src-stf-despacho-mendonca-2026-09-01-pet-16662
 - src-stf-despacho-fachin-2026-09-03-pet-16704
+- src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
+- src-stf-2026-pet-11228-andamento-processual
+- src-stf-2023-pet-10829-andamento-e-decisao-nikolas
+- src-stf-2023-pet-11227-andamento-partido-novo
+- src-ainvestigacao-2026-09-09-moraes-arquiva-dino-denunciante-alvo
+- src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
 full_name: Alexandre de Moraes
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Alexandre_de_Moraes
@@ -71,7 +106,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-04'
+updated_at: '2026-09-10'
 photo:
   path: /fotos/alexandre-de-moraes.jpg
   source: Wikimedia Commons

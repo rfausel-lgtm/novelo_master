@@ -1,0 +1,26 @@
+id: doc-2025-09-30-decisao-toffoli-pet14601
+kind: document
+title: Decisão do ministro Dias Toffoli na PET 14.601/MA (Daniel Leite x MPMA)
+doc_type: judicial_decision
+date: '2025-09-30'
+source_ids:
+- src-verificacao-direta-equipe-pet14601-decisao-toffoli-integra
+summary: Decisão que julga procedente petição de descumprimento do Tema 309 de repercussão geral e determina
+  o trancamento da Notícia de Fato nº 003773-253/2025 (6ª Promotoria de Justiça Especializada de Imperatriz/MA),
+  que apurava o 1º Termo Aditivo (06/04/2024) ao contrato entre a Câmara Municipal de Imperatriz e o escritório
+  de Daniel de Faria Jerônimo Leite. Não menciona Vorcaro, Kroll, BRB, Quadrado ou Mansur.
+is_official: true
+related_entity_ids:
+- dias-toffoli
+- daniel-de-faria-jeronimo-leite
+- camara-municipal-de-imperatriz
+- ministerio-publico-do-maranhao
+issuer_id: dias-toffoli
+issuer: Ministro Dias Toffoli / STF
+date_precision: day
+url: https://s.oab.org.br/arquivos/2025/10/6264b998-b5ec-4143-9349-ee8d1fe5b166.pdf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

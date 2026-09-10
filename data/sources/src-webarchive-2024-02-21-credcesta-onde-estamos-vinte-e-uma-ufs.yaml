@@ -1,0 +1,22 @@
+id: src-webarchive-2024-02-21-credcesta-onde-estamos-vinte-e-uma-ufs
+kind: source
+title: Página 'Onde estamos' do CredCesta em 21/02/2024 — seletor de convênios atendidos
+publisher: Internet Archive — captura do site credcesta.com.br
+publication_date: '2024-02-21'
+retrieved_at: '2026-09-09'
+url: http://web.archive.org/web/20240221191119id_/https://www.credcesta.com.br/onde-estamos/
+source_type: self_published
+summary: 'Captura recuperada e lida diretamente pela equipe. O seletor traz 21 unidades da federação mais
+  a entrada ''BR'': AM, AP, BA, BR, ES, GO, MA, MG, MS, MT, PA, PB, PE, PI, PR, RJ, RN, RO, SC, SE, SP
+  e TO. Ausentes: AC, AL, CE, DF, RR e RS. A entrada ''BR'' corresponde ao convênio federal, coerente
+  com o balanço do banco, que separa o consignado do instituto federal da expansão regional.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (recuperação e leitura direta das capturas arquivadas e dos balanços)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

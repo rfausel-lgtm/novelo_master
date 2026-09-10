@@ -1,0 +1,26 @@
+id: iprev-maceio
+kind: organization
+name: Instituto de Previdência dos Servidores do Município de Maceió (Iprev)
+aliases: []
+org_type: public_body
+summary: Instituto de previdência municipal de Maceió (AL). Aplicou entre R$ 97 e R$ 117 milhões (valores
+  variam conforme a fonte) em letras financeiras do Banco Master entre dezembro de 2023 e maio de 2024.
+  Alvo de busca e apreensão da PF em 10/08/2026. O ex-presidente Ronnie Reyner Teixeira Mota (maio/2023-setembro/2025)
+  é apontado como tendo comprado carro e imóvel em espécie após o aporte; a consultoria Crédito e Mercado,
+  já mapeada em outro caso do corpus (Congonhas), é suspeita de ter 'omitido alertas de segurança' para
+  favorecer a aplicação.
+why_in_novelo: É um dos regimes próprios de previdência expostos ao Master ainda não mapeado no corpus,
+  com a mesma consultoria e o mesmo executivo (Renan Foglia Calamia) já identificados em outro caso (Congonhas)
+  — reforçando o padrão de atuação da Crédito e Mercado em múltiplos RPPS.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-correiobraziliense-2026-08-pf-mira-iprev-maceio
+- src-metropoles-2026-pf-consultoria-iprev-maceio-favorecer-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,37 @@
+id: doc-2026-09-09-decisao-fachin-revoga-designacao-moraes-inq-4781
+kind: document
+title: Decisão de Fachin que revoga a designação de Moraes como relator do Inquérito 4.781
+doc_type: judicial_decision
+date: '2026-09-09'
+source_ids:
+- src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+summary: 'Decisão que encerra a relatoria mais longeva e mais disputada do tribunal. O presidente do Supremo
+  revoga a designação de Alexandre de Moraes como relator do inquérito instaurado por portaria em março
+  de 2019 e assume pessoalmente sua condução, invocando o art. 43 do regimento interno e o entendimento
+  do Plenário na ADPF 572 — precisamente o julgamento em que a corte validou o inquérito e lhe fixou limites.
+  A justificativa declarada é a ''necessidade de estabelecer segurança jurídica e adequada delimitação
+  institucional''. Dois efeitos foram delimitados com cuidado: a revogação vale só a partir da data da
+  decisão, preservando os atos já praticados, e as ações penais conexas com denúncia recebida seguem o
+  rito em curso. O ponto de maior alcance está no encaminhamento anunciado: após análise, os autos irão
+  à autoridade policial e à Procuradoria-Geral da República para oferecimento de denúncia ou pedido de
+  arquivamento — ou seja, o presidente sinaliza conduzir a um desfecho um procedimento aberto havia sete
+  anos e meio. Para este acervo, o que importa é a origem do conflito: ela está no caso Master.'
+is_official: true
+related_entity_ids:
+- edson-fachin
+- alexandre-de-moraes
+- andre-mendonca
+- supremo-tribunal-federal
+issuer_id: edson-fachin
+issuer: Ministro Edson Fachin, presidente do Supremo Tribunal Federal
+url: https://www.em.com.br/politica/2026/09/7497212-fachin-retira-moraes-da-relatoria-do-inquerito-das-fake-news.html
+reference: Inquérito 4.781 (Portaria nº 69, de 14/03/2019); art. 43 do RISTF; ADPF 572/DF
+excerpt: A presente medida decorre da necessidade de estabelecer segurança jurídica e adequada delimitação
+  institucional [...] produz efeitos exclusivamente, a partir da data de 09.09.2026, preservando, assim,
+  os atos regularmente praticados durante o período de vigência da designação
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,25 @@
+id: src-metropoles-2026-06-stj-investiga-mauro-mendes-master
+kind: source
+title: STJ investiga suposto favorecimento de ex-governador de MT ao Master
+publisher: Metrópoles
+publication_date: 2026-06
+retrieved_at: '2026-09-09'
+url: https://www.metropoles.com/brasil/stj-investiga-suposto-favorecimento-de-ex-governador-de-mt-ao-master
+source_type: press
+summary: Apuração aberta a pedido da Procuradoria-Geral da República sobre as condições do credenciamento
+  do CredCesta em 2023, sob sigilo no Superior Tribunal de Justiça. Registra que, entre o pedido de credenciamento
+  e a aprovação, o então governador estava em Nova York, em evento empresarial, e esteve em restaurante
+  na véspera da liberação, na mesma ocasião em que ali se encontrava uma comitiva do Rio de Janeiro. Mauro
+  Mendes afirma ter pago as próprias despesas, classifica a coincidência como fortuita, nega ter conversado
+  com representantes do banco e sustenta que outras instituições também foram credenciadas em sua gestão,
+  não tendo o Master sido o primeiro.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura de texto normativo e de diário oficial)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

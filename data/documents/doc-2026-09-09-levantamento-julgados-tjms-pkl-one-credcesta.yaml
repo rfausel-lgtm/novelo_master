@@ -1,0 +1,28 @@
+id: doc-2026-09-09-levantamento-julgados-tjms-pkl-one-credcesta
+kind: document
+title: Levantamento na base de julgados do TJMS — a curva do litígio CredCesta/PKL One
+doc_type: official_report
+date: '2026-09-09'
+source_ids:
+- src-tjms-cjpg-2026-09-09-julgados-pkl-one-credcesta
+summary: Registro do levantamento feito pela equipe na base pública de julgados do tribunal sul-mato-grossense.
+  A série por ano de disponibilização para o termo 'PKL One' é 5 em 2023, 96 em 2024, 216 em 2025 e 114
+  nos oito primeiros meses de 2026. O produto foi credenciado no estado em março de 2023. A base indexa
+  julgados publicados, e não processos distintos, de modo que os números medem a intensidade do litígio
+  e não substituem a contagem jornalística de mais de mil ações; a curva, porém, é o dado. O levantamento
+  também não localizou a decisão da 2ª Vara Bancária da capital citada pela imprensa, o que é compatível
+  com decisão interlocutória, não indexada.
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+- banco-master
+issuer: Tribunal de Justiça de Mato Grosso do Sul — Consulta de Julgados de 1º Grau
+url: https://esaj.tjms.jus.br/cjpg/
+reference: CJPG/TJMS — consulta por termo e ano
+excerpt: 'PKL One: 2023=5, 2024=96, 2025=216, 2026 (até 09/09)=114 — total 431'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

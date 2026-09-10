@@ -1,0 +1,22 @@
+id: ev-capital-paulista-descredencia-pkl-one-enquanto-ms-mantem-convenio
+kind: evidence
+classification: D
+proposition: 'As respostas dos entes públicos divergem de forma acentuada. A capital paulista descredenciou
+  a empresa em agosto de 2026 e denunciou o convênio, após rejeitar sua defesa administrativa. O Estado
+  de São Paulo apenas suspendeu o código de desconto, sem ato de descredenciamento localizado. Mato Grosso
+  do Sul não fez nem uma coisa nem outra: seu convênio segue formalmente vigente até março de 2027, e
+  a resolução editada como resposta ao superendividamento ressalva expressamente as renovações. Três posturas
+  distintas diante do mesmo fato.'
+document_ids:
+- doc-2026-08-14-despacho-descredenciamento-pkl-one-pmsp
+- doc-2026-03-19-despacho-suspensao-codigo-097337-4-pkl-one
+source_ids:
+- src-doc-2026-08-14-descredenciamento-pkl-one-pmsp
+- src-doesp-2026-03-19-suspensao-codigo-097337-4-pkl-one
+- src-doems-2026-07-03-resolucao-sad-235-credenciamentos
+date: '2026-08-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

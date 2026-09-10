@@ -1,0 +1,26 @@
+id: ev-projeto-dv-dimensao-financeira-e-metodo
+kind: evidence
+classification: C
+proposition: 'Dimensão financeira e método do ''Projeto DV'', segundo a investigação e o depoimento de
+  Thiago Miranda: cerca de R$ 8 milhões em contratos assinados pela agência MiThi, com teto de R$ 2 milhões
+  por perfil, faixas mensais entre R$ 30 mil e R$ 1,5 milhão e prazos de um mês a um ano; R$ 3,5 milhões
+  efetivamente repassados entre o fim de dezembro de 2025 e 5 de janeiro de 2026. Os contratos traziam
+  cláusula de confidencialidade com multa de R$ 800 mil. O método descrito é a distribuição de briefing
+  com reportagem-base e roteiro de pontos a destacar, por grupos de mensagens individuais: a linha argumentativa
+  sustentava que o Banco Central agira com pressa, que a liquidação favoreceria concorrentes interessados
+  em ativos baratos e que havia disputa política por trás da intervenção. A Febraban identificou de forma
+  independente um pico de volume atípico concentrado em cerca de 36 horas, entre 27 e 29 de dezembro de
+  2025, com mais de 4.500 publicações no auge e padrão de linguagem similar, mas declarou que seus levantamentos
+  têm caráter interno e não os divulgou. O alvo nominal mais recorrente da campanha era Renato Dias Gomes,
+  ex-diretor do Banco Central que havia recomendado vetar a compra do Master pelo BRB. Não foi localizada
+  manifestação institucional do Banco Central sobre ter sido alvo de campanha paga.'
+document_ids: []
+source_ids:
+- src-noticiasaominuto-2026-contratos-8-milhoes-projeto-dv
+- src-cnnbrasil-2026-pf-listou-40-perfis-ataques-banco-central
+date: '2025-12-27'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

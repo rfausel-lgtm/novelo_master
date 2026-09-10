@@ -21,6 +21,12 @@ const plexMono = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
+  /*
+   * Canônica da raiz. As páginas internas sobrescrevem com a própria (pageMetadata), mas sem esta
+   * linha a home ficava sem nenhuma — e ela é a única que recebe link de fora com parâmetro colado
+   * (utm de campanha, `?fbclid`), que o Google trataria como página distinta.
+   */
+  alternates: { canonical: SITE.url },
   title: {
     default: SITE.name,
     template: `%s · ${SITE.name}`,
@@ -54,11 +60,9 @@ export const metadata: Metadata = {
   ],
 };
 
-/*
- * Identificador público do site no Cloudflare Web Analytics — não é segredo, fica exposto no HTML
- * de qualquer página que o use. gitleaks:allow (evita falso positivo do scanner de segredos)
- */
-const CLOUDFLARE_ANALYTICS_TOKEN = "ad1892765eeb44a29a675b7f2a9ff4c3";
+// Identificador público do site no Cloudflare Web Analytics — não é segredo, fica exposto no HTML
+// de qualquer página que o use.
+const CLOUDFLARE_ANALYTICS_TOKEN = "ad1892765eeb44a29a675b7f2a9ff4c3"; // gitleaks:allow
 
 export const viewport: Viewport = {
   themeColor: [

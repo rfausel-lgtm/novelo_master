@@ -70,12 +70,6 @@ cited_position:
   source_ids:
   - src-poder360-2026-09-02-pgr-aceita-delacao-mansur
   date: 2026-09
-- kind: no_response
-  summary: Não há, nas fontes consultadas, declaração pública de Vorcaro ou de sua defesa comentando especificamente
-    a delação de Mansur.
-  source_ids:
-  - src-poder360-2026-09-02-pgr-aceita-delacao-mansur
-  date: 2026-09
 - kind: denial
   summary: A defesa afirma que ele foi 'formalmente excluído' da Operação Fundo Fake e que é 'falsa e
     difamatória qualquer tentativa de associar seu nome aos fatos apurados', porque à época não controlava
@@ -107,11 +101,30 @@ open_questions:
   essa segunda razão em documento primário nem em segunda fonte.
 - A PF concluiu em agosto de 2026 o inquérito-mãe (1ª fase) e preparou indiciamento de Vorcaro, remetido
   ao MPF/PGR — até 05/09/2026, sem denúncia formal oferecida no núcleo do caso Master.
+- Em 02/09/2026, a PGR pediu ao STF o arquivamento de uma notícia/reclamação apresentada pelo PRÓPRIO
+  Vorcaro sobre supostas ameaças na prisão — não é uma denúncia contra ele, e não deve ser confundida
+  com a denúncia que o MPF/PGR poderá eventualmente oferecer no inquérito-mãe, ainda não apresentada até
+  a data desta apuração.
+- Condenado pela CVM em 08/09/2026, por unanimidade, a R$ 20 milhões de multa por operação fraudulenta
+  na 3ª emissão do Brazil Realty FII (2018-2020) — processo autônomo da CVM, distinto da Operação Compliance
+  Zero, sobre esquema anterior ao colapso do banco. Sua advogada, Ana Paula Casagrande, questionou na
+  sessão a falta de provas individualizadas de dolo. Cabe recurso ao CRSFN.
+- Segundo relatório da Kroll (contratada pelo BRB), o advogado maranhense Daniel de Faria Jerônimo Leite
+  atuou como 'figura instrumental' dele, de Maurício Quadrado e de João Carlos Mansur na tentativa de
+  compra de ações do BRB, com empréstimo de R$ 93,7 milhões em abril de 2025 — única conexão documentada
+  entre a rede Master e o Maranhão localizada pela equipe.
+- 'Sua defesa mudou de estratégia: desistiu de insistir em nova proposta de delação premiada e passou
+  a concentrar esforços no mérito da ação penal, contestando a cadeia de custódia dos celulares apreendidos.
+  Não localizada reação específica da defesa ao conteúdo da delação de João Carlos Mansur (distinta de
+  reagir ao fato de ela existir).'
 source_ids:
+- src-ac24horas-2026-09-04-vorcaro-sinaliza-poupar-moraes-delacao
+- src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
 - src-braziljournal-2021-12-23-master-outsider
 - src-cnn-2026-03-04-relembre-crise-master
 - src-cnnbrasil-2026-06-15-pgr-rejeita-segunda-delacao-vorcaro
 - src-cnnbrasil-2026-09-04-vorcaro-poupar-moraes-terceira-delacao
+- src-cnnbrasil-2026-vorcaro-desiste-delacao-anular-provas
 - src-contrapontoms-2026-09-02-investigadores-veem-teatro
 - src-dol-2026-08-05-vorcaro-paulo-henrique-indiciamento
 - src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
@@ -122,6 +135,7 @@ source_ids:
 - src-jbrasilia-2026-09-04-fachin-avoca-pedido-moraes-mendonca
 - src-jbrasilia-2026-09-vorcaro-admite-ordens
 - src-metropoles-2026-02-17-pf-reexamina-pericias-fundos
+- src-metropoles-2026-05-01-toffoli-trava-apuracao-daniel-leite-vorcaro
 - src-metropoles-2026-08-pf-conclui-inquerito-indiciamento
 - src-metropoles-2026-09-vorcaro-depoimento-papudinha-bastidores
 - src-ndmais-2026-09-02-vorcaro-alega-tortura
@@ -131,19 +145,22 @@ source_ids:
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
 - src-poder360-2026-09-02-pgr-aceita-delacao-mansur
 - src-poder360-2026-09-03-novo-pede-prisao-de-andrei
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
+- src-portaltela-2026-09-02-pgr-arquivamento-denuncia-vorcaro-ameacas
 - src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
 - src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
 - src-stf-2026-03-04-prisao-preventiva-vorcaro
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
 - src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
 - src-timesbrasil-2026-05-08-tether-cobra-titan-holding
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-05'
+updated_at: '2026-09-06'
 photo:
   path: /fotos/daniel-vorcaro.jpg
   source: Wikimedia Commons

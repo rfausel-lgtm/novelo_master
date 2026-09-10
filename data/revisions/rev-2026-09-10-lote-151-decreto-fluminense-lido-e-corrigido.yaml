@@ -1,0 +1,36 @@
+id: rev-2026-09-10-lote-151-decreto-fluminense-lido-e-corrigido
+kind: revision
+date: '2026-09-10'
+title: Lote 151 — o decreto fluminense, lido por inteiro, e a correção da nossa própria leitura
+summary: 'Última peça central do padrão normativo, obtida e conferida. O decreto de 27/05/2021 foi lido
+  em duas transcrições independentes do diário oficial fluminense, coincidentes palavra por palavra, com
+  lastro adicional em acórdão do tribunal estadual que transcreve o dispositivo da margem. Ressalva de
+  classificação: não é o fac-símile do órgão oficial, cujo módulo de consulta exige autenticação e não
+  foi acessado. Confirma-se o dispositivo central: o art. 1º cria a categoria ''outras entidades consignatárias
+  devidamente autorizadas pelo Estado'', residual e sem critério objetivo, em que o requisito é definido
+  pelo mesmo Executivo que credencia — e cinco dias depois foi autorizada a operadora do CredCesta. Confirma-se
+  também que a margem de 20% é adicional, e não sublimite, porque o §1º diz que o cartão ''não compõe
+  a margem consignável''. Mas a leitura do decreto-matriz de 2016, em PDF oficial, obriga a corrigir o
+  que este acervo vinha afirmando: a exigência de autorização do Banco Central não alcançava todas as
+  consignatárias, e sim apenas o inciso V; o inciso III já admitia, desde 2016, administradoras de cartões
+  de benefícios sem essa exigência. O decreto de 2021 não revogou exigência aplicável ao produto — abriu
+  categoria nova. Na variável que organiza a investigação, o Rio fica mais perto do Paraná do que de São
+  Paulo, com agravante de outra ordem: o inciso VIII é cláusula em branco. Achado novo e não explorado:
+  o §2º manda partir ao meio a margem do cartão, metade para compras no comércio local e metade para ''serviços
+  creditícios, financeiros, securitários e congêneres'' — a mesma fórmula do decreto baiano de 2018, o
+  que sugere minuta que viajou entre estados. Registram-se ainda duas ressalvas honestas: a existência
+  do decreto fluminense de 2025, que o acervo registrava, não foi confirmada, e o registro foi marcado
+  para revisão; e o termo de credenciamento da operadora, de 01/06/2021, não foi localizado, de modo que
+  a exclusividade a ele atribuída permanece como afirmação parlamentar noticiada, não como documento lido.'
+affected_ids:
+- claudio-castro
+- credcesta
+- pkl-one-participacoes
+- banco-central-do-brasil
+reason: Obtenção do texto integral do decreto fluminense de 2021, última peça central do padrão normativo
+  que o acervo ainda não lera, e revisão das afirmações que dele dependiam.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

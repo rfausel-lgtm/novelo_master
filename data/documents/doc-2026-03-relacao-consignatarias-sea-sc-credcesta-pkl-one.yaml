@@ -1,0 +1,27 @@
+id: doc-2026-03-relacao-consignatarias-sea-sc-credcesta-pkl-one
+kind: document
+title: Relação de consignatárias da secretaria catarinense — o CredCesta identificado como PKL One
+doc_type: official_report
+date: '2026-03-01'
+source_ids:
+- src-sea-sc-2026-03-relacao-consignatarias-cartao-beneficio-credcesta
+summary: 'Documento que confirma documentalmente a operação em Santa Catarina, estado que constava da
+  lista de cobertura do produto já em maio de 2022. A empresa não figura entre as consignatárias ativas,
+  mas o aviso final da relação orienta servidores com dúvidas sobre o ''Cartão Consignado de Benefícios
+  do CREDCESTA (PKL ONE)'' a procurar a gerência de consignados — o que situa a empresa como operadora
+  recém-saída da lista. A data de seu credenciamento no estado não foi localizada: o portal do diário
+  oficial catarinense exige autenticação para busca de texto integral.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+issuer: Secretaria de Estado da Administração de Santa Catarina
+url: https://www.sea.sc.gov.br/wp-content/uploads/2026/03/Relacao-de-Consignatarias-Cartao-Consignado-de-Beneficios-SEA.pdf
+reference: Relação de Consignatárias — Cartão Consignado de Benefícios, SEA/SC
+excerpt: Em caso de dúvidas referentes ao Cartão Consignado de Benefícios do CREDCESTA (PKL ONE) ou da
+  METTACARD, por favor, entre em contato com a Gerência de Gestão dos Consignados
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

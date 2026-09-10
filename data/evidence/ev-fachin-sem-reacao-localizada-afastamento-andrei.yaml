@@ -1,0 +1,25 @@
+id: ev-fachin-sem-reacao-localizada-afastamento-andrei
+kind: evidence
+classification: I
+proposition: Não foi localizada, até a data desta apuração, nenhuma manifestação pública do presidente
+  do STF, Edson Fachin, sobre o afastamento de Andrei Rodrigues especificamente — distinto do despacho
+  de 03/09/2026 (Pet 16.704) que apenas determinara explicações por escrito das quatro pessoas envolvidas
+  na crise, incluindo o próprio Andrei Rodrigues. Como a decisão de Mendonça foi tomada na Pet 16.662
+  (processo próprio do relator), e não na Pet 16.704 avocada por Fachin, há uma leitura possível — não
+  confirmada por nenhuma fonte — de que Mendonça atuou em paralelo ao procedimento do presidente do STF.
+  Deputado Glauber Braga (PSOL) e o grupo Prerrogativas enquadraram publicamente o episódio como escalada
+  unilateral, questionando 'quem vai afastar André Mendonça' e defendendo convocação do Conselho da República
+  — são leituras políticas de terceiros, não fato estabelecido sobre a conduta de Mendonça.
+document_ids: []
+source_ids:
+- src-brasil247-2026-09-08-glauber-braga-quem-afasta-mendonca
+- src-brasil247-2026-09-08-prerrogativas-conselho-republica
+inference_basis: Ausência de declaração pública localizada de Fachin sobre o fato específico, combinada
+  com a constatação de que a decisão de Mendonça se baseou em processo de sua própria relatoria (Pet 16.662),
+  distinto do procedimento (Pet 16.704) que o presidente do STF havia avocado cinco dias antes para tratar
+  exatamente da mesma crise.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

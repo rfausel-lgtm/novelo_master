@@ -1,6 +1,6 @@
 id: rel-luiz-antonio-bull-banco-master-professional
 kind: relationship
-from_id: luiz-antonio-bull
+from_id: luiz-bull
 to_id: banco-master
 relationship_type: professional
 directed: false

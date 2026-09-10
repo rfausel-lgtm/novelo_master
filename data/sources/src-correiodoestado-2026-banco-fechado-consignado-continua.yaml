@@ -1,0 +1,21 @@
+id: src-correiodoestado-2026-banco-fechado-consignado-continua
+kind: source
+title: Banco é fechado, mas quem tem consignado do CredCesta continua pagando
+publisher: Correio do Estado
+publication_date: '2026'
+retrieved_at: '2026-09-09'
+url: https://correiodoestado.com.br/cidades/banco-e-fechado-mas-quem-tem-consignado-do-credcesta-continua-pagando/462348/
+source_type: press
+summary: 'Registra que a liquidação não cancelou contratos: ''os contratos permanecem válidos e a cobrança
+  segue normal''. Servidores seguiram com desconto em folha de um cartão cujo banco emissor não existe
+  mais, enquanto saques eram bloqueados, faturas deixavam de ser enviadas e o atendimento não funcionava.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura de texto legal oficial e consulta à Receita Federal)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

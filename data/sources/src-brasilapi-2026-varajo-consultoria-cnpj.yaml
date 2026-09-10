@@ -1,0 +1,24 @@
+id: src-brasilapi-2026-varajo-consultoria-cnpj
+kind: source
+title: Registro cadastral da Varajo Consultoria Empresarial Sociedade Unipessoal Ltda — Receita Federal
+publisher: Receita Federal do Brasil (via BrasilAPI)
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-09'
+url: https://brasilapi.com.br/api/cnpj/v1/39665366000115
+source_type: corporate_registry
+summary: 'Consulta ao CNPJ 39.665.366/0001-15. Sociedade unipessoal aberta em 04/11/2020, capital social
+  de R$ 10.000,00, CNAE principal de consultoria em gestão empresarial e secundário de holding de instituições
+  não-financeiras, sede na Av. Paulista, 2202, 7º andar, conjunto 73, sala 6C (endereço de coworking).
+  Sócio único e administrador: Leonardo Augusto Furtado Palhares, CPF terminado em 356, com entrada em
+  04/11/2020. Situação cadastral SUSPENSA desde 03/03/2026 por DETERMINAÇÃO JUDICIAL — a suspensão determinada
+  pelo STF aparece registrada no cadastro da Receita, com a data exata da decisão.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

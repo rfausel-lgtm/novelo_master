@@ -1,0 +1,24 @@
+id: src-legislacao-pmsp-decreto-61556-2022-margem-adicional
+kind: source
+title: Decreto municipal nº 61.556, de 7 de julho de 2022 — margem adicional de 10% (São Paulo)
+publisher: Prefeitura do Município de São Paulo
+publication_date: '2022-07-07'
+retrieved_at: '2026-09-09'
+url: https://legislacao.prefeitura.sp.gov.br/decreto-61556-de-7-de-julho-de-2022
+source_type: official_gazette
+summary: Texto oficial na base de legislação municipal. Determina que a margem consignável 'fica majorada,
+  adicionalmente, em mais 10% (dez por cento), exclusivamente para aquisição de bens e serviços, à vista
+  ou mediante financiamento, assim como saques emergenciais por meio de Cartão de Benefício'. Ao contrário
+  do desenho estadual, aqui a margem é expressamente adicional. Assinam Ricardo Nunes como prefeito e
+  os secretários de Gestão, Casa Civil, Justiça e Governo Municipal. A Portaria 50/SEGES, de 25/07/2022,
+  regulamenta o limite em 30% mais até 5% mais 10%.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do texto normativo oficial e dos PDFs do diário oficial)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

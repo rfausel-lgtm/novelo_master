@@ -1,0 +1,26 @@
+id: src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
+kind: source
+title: CVM multa Vorcaro em R$ 20 milhões por fraude em fundo imobiliário
+publisher: Agência Brasil
+publication_date: '2026-09-08'
+retrieved_at: '2026-09-06'
+url: https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/cvm-multa-vorcaro-em-r-20-milhoes-por-fraude-em-fundo-imobiliario
+source_type: press
+summary: Confirma, de forma independente, a condenação por unanimidade de Daniel Vorcaro (R$ 20 milhões)
+  e Banco Master (R$ 12,5 milhões), com total de multas de R$ 201 milhões (16 acusados, 7 pessoas e 9
+  empresas, 'todos condenados no processo, segundo a CVM') e prejuízo identificado de R$ 5,8 milhões.
+  Registra que 'as multas individuais ficaram entre R$ 5 milhões e R$ 24 milhões' e que 'três ex-diretores
+  da Sefer Investimentos foram absolvidos' — números que divergem, em parte, da contagem do Poder360 (ver
+  open_question). O processo foi suspenso duas vezes por pedidos de vista; pedidos de adiamento das defesas
+  não foram acolhidos. É processo autônomo, independente das investigações criminais da Operação Compliance
+  Zero.
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

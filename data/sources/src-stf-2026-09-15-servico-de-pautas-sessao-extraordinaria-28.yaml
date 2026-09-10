@@ -1,0 +1,24 @@
+id: src-stf-2026-09-15-servico-de-pautas-sessao-extraordinaria-28
+kind: source
+title: Serviço de pautas do STF — sessão plenária extraordinária nº 28/2026, de 15/09/2026
+publisher: Supremo Tribunal Federal
+publication_date: '2026-09-15'
+retrieved_at: '2026-09-10'
+url: https://portal.stf.jus.br/pauta/pesquisarCalendario.asp
+source_type: official_court
+summary: 'Consulta feita pela equipe ao serviço de pautas do tribunal. Para 15/09/2026 registra sessão
+  do Plenário às 10h, do tipo extraordinária, nº 28/2026, com um único incidente: Petição 16.662, relator
+  o ministro André Mendonça, classificada no grupo ''matéria penal''. Registra ainda o cancelamento da
+  sessão da Primeira Turma daquele dia, ''em razão da convocação de Sessão Plenária Extraordinária para
+  15 de setembro de 2026, às 10h''. A pauta não contém as petições relativas ao afastamento dos dirigentes
+  da Polícia Federal.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura das íntegras oficiais e do serviço de pautas do tribunal)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

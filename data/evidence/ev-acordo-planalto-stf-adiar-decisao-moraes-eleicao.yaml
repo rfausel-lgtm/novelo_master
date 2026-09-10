@@ -1,0 +1,23 @@
+id: ev-acordo-planalto-stf-adiar-decisao-moraes-eleicao
+kind: evidence
+classification: A
+proposition: 'Segundo a Poder360 (06/09/2026), Palácio do Planalto, aliados de Lula e um grupo do STF
+  (Gilmar Mendes, Flávio Dino, Cristiano Zanin e Moraes) articulavam preservar ao máximo Moraes das suspeitas
+  sobre a relação com Vorcaro. Fachin discursou no Planalto em 04/09/2026 prometendo resposta ''firme'',
+  mas, na prática, estendeu os prazos: no caso das investigações sobre Moraes, manifestações até 11/09
+  e decisão só depois de 14/09; no caso da inclusão de Mendonça no inquérito das fake news, prazos que
+  levam a decisão para depois de 22/09/2026 — data posterior ao 1º turno da eleição (04/10) e, possivelmente,
+  ao 2º turno (25/10). Grupos identificados: pró-Moraes (Gilmar, Dino, Zanin, Moraes) x pró-Mendonça (Mendonça,
+  Nunes Marques, Fux); Cármen Lúcia descrita como ''transitando entre os 2 grupos''; Dias Toffoli impedido
+  desde 11/03/2026 (data que diverge da data de 20/03/2026 já registrada no corpus a partir de comunicação
+  oficial do STF — divergência sinalizada, não resolvida).'
+document_ids: []
+source_ids:
+- src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+attributed_to: Poder360 (Paulo Silva Pinto, editor sênior), 06/09/2026
+date: '2026-09-06'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

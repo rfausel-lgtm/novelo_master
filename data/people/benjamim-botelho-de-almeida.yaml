@@ -67,23 +67,30 @@ open_questions:
   paralisado pendente de julgamento ou despacho. A equipe não confirmou se a Lei 13.506/2017, que reorganizou
   o processo sancionador do BCB e da CVM, traz disciplina própria que prevaleça sobre esse regime, nem
   se houve atos internos não publicados capazes de afastar a paralisação.'
+- Condenado pela CVM em 08/09/2026 por operação fraudulenta no Brazil Realty FII — era, à época dos fatos,
+  único acionista da FG Participações, holding que controlava a Sefer Investimentos (via Foco Participações)
+  e detinha 70% da Entre Investimentos; era também beneficiário final da offshore Jaguar Investments,
+  com cerca de R$ 113 milhões em cotas do fundo. Sua defesa negou ingerência direta nas operações, sustentando
+  que não exercia cargo de administração formal na FG, Sefer ou Entre — argumento não acolhido pelo colegiado.
 source_ids:
-- src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
 - src-cvm-2021-02-23-parecer-termo-compromisso-pas-03-2016
 - src-cvm-2022-07-05-julgamento-fii-sao-domingos
 - src-cvm-2022-acordo-debentures-2325000
-- src-estadao-2026-04-07-arquitetura-de-criacao-do-master
-- src-gazetadopovo-2026-06-26-bc-liquida-sefer
-- src-seudinheiro-2026-06-liquidacao-sefer-bens-controladores
-- src-iclnoticias-2026-03-09-nota-defesa-botelho
-- src-metropoles-2026-pf-reexamina-pericias-conexoes-fundos
-- src-djen-cnj-2025-sentenca-acao-penal-5003557
-- src-datajud-cnj-apelacao-5003557-trf3
-- src-trf3-acordao-hc-botelho-5033547
 - src-cvm-processos-a-julgar-por-relator
 - src-cvm-sistema-consulta-pas
+- src-datajud-cnj-apelacao-5003557-trf3
+- src-djen-cnj-2025-sentenca-acao-penal-5003557
+- src-estadao-2026-04-07-arquitetura-de-criacao-do-master
+- src-gazetadopovo-2026-06-26-bc-liquida-sefer
+- src-iclnoticias-2026-03-09-nota-defesa-botelho
+- src-metropoles-2026-pf-reexamina-pericias-conexoes-fundos
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
+- src-senado-2026-03-18-cpi-crime-organizado-fraudes-rpps
+- src-seudinheiro-2026-06-liquidacao-sefer-bens-controladores
+- src-trf3-acordao-hc-botelho-5033547
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'

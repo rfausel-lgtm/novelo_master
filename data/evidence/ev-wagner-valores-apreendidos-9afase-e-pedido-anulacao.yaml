@@ -1,0 +1,19 @@
+id: ev-wagner-valores-apreendidos-9afase-e-pedido-anulacao
+kind: evidence
+classification: D
+proposition: Na busca e apreensão de 18/06/2026 (9ª fase da Compliance Zero), foram apreendidos US$ 55
+  mil e € 33 mil (cerca de R$ 471 mil) em endereços de Jaques Wagner. A defesa pediu ao STF a anulação
+  da medida, alegando que os valores 'têm origem lícita e comprovada' e que ele nunca atuou no Congresso
+  para favorecer o Master — pedido pendente de decisão até a data desta apuração.
+document_ids:
+- doc-2026-06-18-decisao-mendonca-9afase-busca-wagner
+source_ids:
+- src-stfnoticias-2026-06-18-9afase-autoriza-sp-ba-df
+- src-jbrasilia-2026-06-22-wagner-pede-anular-busca-apreensao
+excerpt: têm origem lícita e comprovada
+date: '2026-06-22'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

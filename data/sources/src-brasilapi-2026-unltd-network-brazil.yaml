@@ -1,0 +1,24 @@
+id: src-brasilapi-2026-unltd-network-brazil
+kind: source
+title: Registro cadastral da UNLTD Network Brazil Ltda — Receita Federal
+publisher: Receita Federal do Brasil (via BrasilAPI)
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-09'
+url: https://brasilapi.com.br/api/cnpj/v1/47643948000129
+source_type: corporate_registry
+summary: Consulta ao CNPJ 47.643.948/0001-29. Sociedade limitada aberta em 19/08/2022, capital social
+  de R$ 5.000, CNAE principal de desenvolvimento de programas de computador sob encomenda e secundários
+  de consultoria em publicidade e marketing direto, sede em Águas Claras, Brasília. Situação cadastral
+  ATIVA — não há suspensão por determinação judicial registrada. O quadro societário retornado pela base
+  da Receita traz um único sócio-administrador, Anderson Nunes da Rosa, com entrada em 19/08/2022; agregadores
+  comerciais listam também André Silva Salvador e Gabriel Silva, divergência não resolvida.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

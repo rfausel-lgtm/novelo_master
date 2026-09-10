@@ -1,0 +1,28 @@
+id: cajamar-previdencia
+kind: organization
+name: Instituto de Previdência Social dos Servidores de Cajamar (IPSSC)
+aliases: []
+org_type: public_body
+summary: Instituto de previdência municipal de Cajamar (SP). Aplicou R$ 87 milhões em Letras Financeiras
+  do Banco Master em três operações entre outubro de 2023 e março de 2024 (15,36% da carteira), sob a
+  gestão do então prefeito Danilo Joan (PP). Alvo da Operação 'Off-Balance' da PF (13/05/2026), que nomeou
+  como investigados os dirigentes Luiz Henrique Miranda Teixeira, Milton Marques Dias e Marcelo Ribas
+  de Oliveira. Também alvo de ação popular movida por moradores (2ª Vara de Cajamar), com o instituto,
+  o Master, Vorcaro, ex-dirigentes, a consultoria Mais Valia e o ex-prefeito como réus — perícia contábil
+  e atuarial determinada em abril de 2026. O instituto atribui a responsabilidade a falhas de fiscalização
+  federal.
+why_in_novelo: É o RPPS paulista com a maior exposição individual entre os quatro originalmente citados
+  pelo MPC-SP, com investigação da PF e ação popular civil próprias, distintas da representação do MPC-SP.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-metropoleonline-2026-cajamar-87-milhoes-master
+- src-metropoles-2026-cajamar-culpa-regulacao-federal
+- src-economicnewsbrasil-2026-05-13-pf-cajamar-offbalance
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

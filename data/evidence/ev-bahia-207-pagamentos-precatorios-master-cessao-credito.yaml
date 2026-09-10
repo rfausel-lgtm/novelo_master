@@ -1,0 +1,24 @@
+id: ev-bahia-207-pagamentos-precatorios-master-cessao-credito
+kind: evidence
+classification: C
+proposition: 'Entre 2023 e fevereiro de 2026, o governo do Estado da Bahia realizou 207 pagamentos ao
+  Banco Master, somando R$ 49,2 milhões (R$ 47,4 milhões concentrados em 2024). O mecanismo confirmado
+  por múltiplas fontes, com base em declaração da Secretaria da Administração da Bahia: NÃO é o Master
+  comprando precatórios como investimento próprio, nem atuando como agente pagador contratado pelo Estado
+  — é cessão de crédito por iniciativa de servidores da Educação, titulares de precatórios do Fundef,
+  que escolheram individualmente antecipar os valores junto ao banco, amparados na Emenda Constitucional
+  114/2021 (norma federal). Após a cessão, o Estado passa a pagar diretamente ao Master, novo titular
+  do crédito por escolha do servidor — não por relação contratual direta entre o Estado e o banco. TODO
+  o período apurado é posterior à saída de Rui Costa do governo baiano (dezembro de 2022); ocorre inteiramente
+  sob a gestão de Jerônimo Rodrigues.'
+document_ids: []
+source_ids:
+- src-bahianoticias-2026-03-16-207-pagamentos-precatorios-master
+- src-opotiguar-2026-03-16-mecanismo-cessao-credito-fundef
+- src-interiordabahia-2026-03-15-bahia-pagou-492-milhoes-master
+date: '2026-03-16'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,21 @@
+id: ev-margem-para-cartao-de-beneficio-criada-em-seis-estados-do-nordeste-sem-a-operadora
+kind: evidence
+classification: C
+proposition: O produto 'cartão de benefício consignado' foi instituído por norma própria em pelo menos
+  seis estados do Nordeste entre 2018 e 2025, mas apenas em dois deles a operadora do CredCesta aparece
+  nos atos estaduais — Bahia, onde tudo começou, e Rio Grande do Norte. Em Pernambuco, Piauí, Sergipe
+  e Paraíba as buscas nos diários oficiais, feitas com controle metodológico, não retornaram menção à
+  empresa nem ao produto no âmbito estadual, embora haja registros municipais em Pernambuco e na Paraíba.
+  A conclusão que se impõe é que a criação da margem exclusiva foi um movimento normativo mais amplo do
+  que a trajetória de uma única empresa, e que em vários estados ela beneficiou outros operadores.
+document_ids: []
+source_ids:
+- src-diarios-nordeste-2021-2024-margens-cartao-beneficio-pe-pi-se
+- src-doepb-2025-01-22-decreto-46174-margem-reserva-integral-e-isencao
+- src-doern-2023-06-01-decreto-32718-margem-cartao-de-beneficio
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

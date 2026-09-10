@@ -19,9 +19,17 @@ summary: 'Distribuidora de títulos e valores mobiliários fundada em 2003 por B
   do caso Master: em 31/01/2013, a Polícia Federal instaurou a ''Operação Miquéias'' sobre aplicações
   de regimes próprios de previdência em fundos administrados pela Foco e geridos pela A.A.M./Aquilla,
   com uso de ''pastinhas'' que ofereciam percentual sobre o aporte a prefeitos e gestores. A PF identificou
-  aportes suspeitos de RPPS em pelo menos 20 municípios e dez estados direcionados à casa.'
+  aportes suspeitos de RPPS em pelo menos 20 municípios e dez estados direcionados à casa. Já sob a razão
+  social Sefer Investimentos, atuou como administradora fiduciária e intermediária líder da 3ª emissão
+  de cotas do Brazil Realty FII (2018-2020), aceitando integralizações lastreadas em ativos sobreavaliados
+  sem diligenciar a idoneidade dos laudos apresentados, e servindo de contraparte em negociações no mercado
+  secundário que davam liquidez artificial às cotas — era controlada por Benjamim Botelho de Almeida,
+  único acionista da FG Participações, que a controlava por meio da Foco Participações. Condenada pela
+  CVM em 08/09/2026 a R$ 1,3 milhão de multa por essa operação; três de seus ex-diretores (Elisangela
+  Capassi, David Abdala, Aluizio Moizinho) foram absolvidos.'
 why_in_novelo: Administradora do fundo cuja compra de um terreno supervalorizado ajudou a lastrear a capacidade
-  econômica apresentada por Vorcaro ao Banco Central, e nó recorrente em outras frentes do caso.
+  econômica apresentada por Vorcaro ao Banco Central, e nó recorrente em outras frentes do caso — inclusive,
+  já como Sefer Investimentos, na fraude do Brazil Realty FII condenada pela CVM em 2026.
 cited_position:
 - kind: clarification
   summary: Por sua assessoria, a Sefer declarou que todas as operações 'observam rigorosamente a legislação
@@ -50,9 +58,11 @@ source_ids:
 - src-afnoticias-2026-02-13-igeprev-aplicacoes-investigadas
 - src-metropoles-2026-02-17-pf-reexamina-pericias-fundos
 - src-cvm-sistema-consulta-pas
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-09'
 created_at: '2026-09-03'
 updated_at: '2026-09-03'
 document_ids: []

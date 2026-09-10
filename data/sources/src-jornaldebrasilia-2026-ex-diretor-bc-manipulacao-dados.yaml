@@ -1,0 +1,25 @@
+id: src-jornaldebrasilia-2026-ex-diretor-bc-manipulacao-dados
+kind: source
+title: Ex-diretor do BC ligado ao Master é suspeito de manipulação de dados para driblar apurações internas
+publisher: Jornal de Brasília
+publication_date: '2026'
+retrieved_at: '2026-09-09'
+url: https://jornaldebrasilia.com.br/noticias/politica-e-poder/ex-diretor-do-bc-ligado-ao-master-e-suspeito-de-manipulacao-de-dados-para-driblar-apuracoes-internas/
+source_type: press
+summary: 'Reconstrói a trajetória de Paulo Sérgio Neves de Souza, servidor de carreira desde 1998: deixou
+  a diretoria de Fiscalização e, em outubro de 2023, voltou a cargo de chefia como chefe-adjunto do Departamento
+  de Supervisão Bancária, passando a atuar subordinado a Belline Santana no departamento que supervisionava
+  o Master. Atribui a ele parecer favorável à aquisição do Master pelo BRB sem responder questões de outro
+  departamento, e estudo sobre carteiras de crédito que levou a diretoria à convicção de que não havia
+  motivo para preocupação. A defesa nega: ''nunca houve manipulação'' e ''todo processo é documentado,
+  não sendo passível de manipulação por uma única pessoa''.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

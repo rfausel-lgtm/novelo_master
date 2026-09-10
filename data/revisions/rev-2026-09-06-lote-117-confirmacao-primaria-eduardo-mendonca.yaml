@@ -1,0 +1,24 @@
+id: rev-2026-09-06-lote-117-confirmacao-primaria-eduardo-mendonca
+kind: revision
+date: '2026-09-06'
+title: 'Lote 117 — confirmado por leitura direta: Eduardo Mendonça Sodré Martins é o enteado citado pela
+  PF'
+summary: 'A equipe leu diretamente o texto integral da decisão de Mendonça na Pet 16.229 (17/06/2026,
+  autenticação STF verificada) e confirmou, no próprio documento, a identificação de Eduardo Mendonça
+  Sodré Martins como enteado de Jaques Wagner e a citação literal da mensagem ''amanhã vence os boletos
+  e são altos'' (04/09/2025, com resposta de Augusto Lima) — upgrade de classe A para D. Confirmado que
+  a Pet 16.662 (afastamento de Andrei) não contém essa citação. Criado o registro do parecer da PGR de
+  16/06/2026, lido na íntegra: assinado por Paulo Gonet, opondo-se especificamente à busca no gabinete
+  parlamentar e à apreensão de bens de luxo — não à operação como um todo.'
+affected_ids:
+- jaques-wagner
+- eduardo-mendonca-sodre-martins
+- bn-financeira
+- paulo-gonet
+- andrei-rodrigues
+reason: Loop de investigação — leitura direta de documentos primários antes citados só por intermediário.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

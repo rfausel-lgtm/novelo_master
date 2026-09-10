@@ -1,0 +1,28 @@
+id: ev-silencio-institucional-e-replicacao-sem-moldura-pet-11228
+kind: evidence
+classification: I
+proposition: 'Resultado negativo documentado em duas dimensões. Primeira, o silêncio institucional: não
+  foi localizada manifestação do gabinete de Alexandre de Moraes, da Secretaria de Comunicação do STF,
+  de Flávio Dino, do general Marco Edson Gonçalves Dias, da Procuradoria-Geral da República ou da Polícia
+  Federal sobre o arquivamento da Pet 11.228 e a determinação de ouvir o denunciante. A própria reportagem
+  de 18/08 registra ter procurado o STF, o CNJ, o gabinete do relator e Dino, sem resposta. Segunda, o
+  padrão de replicação: o fato foi noticiado, na mesma data de 09/09/2026, pela CartaCapital e por diversos
+  veículos da imprensa baiana — mas nenhum deles credita a origem da revelação, cita o número do processo,
+  menciona o intervalo de 1.219 dias ou reproduz o nexo com a série que expôs o caso. Ou seja: o fato
+  bruto foi corroborado por terceiros; a moldura interpretativa permanece exclusiva do veículo que a formulou.
+  Não foi localizada cobertura do episódio em Metrópoles, O Globo, CNN Brasil, Gazeta do Povo, Migalhas,
+  Conjur, JOTA, Poder360 ou G1. Não há, tampouco, registro de que a oitiva do deputado tenha efetivamente
+  ocorrido: o prazo de quinze dias venceria por volta de 05/09/2026, a carta de intimação foi expedida
+  em 25/08, e em 09/09 ele declarava publicamente ainda não conhecer as motivações da decisão.'
+document_ids: []
+source_ids:
+- src-cartacapital-2026-09-09-moraes-pf-ouvir-deputado-pl
+- src-bnews-2026-09-09-leandro-de-jesus-pronunciamento
+inference_basis: Busca dirigida por manifestações institucionais e por cobertura em veículos de alcance
+  nacional, com resultado negativo; e comparação entre o conteúdo das replicações e o da reportagem original.
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

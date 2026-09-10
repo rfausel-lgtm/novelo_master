@@ -33,12 +33,35 @@ open_questions:
   — não de imputação de qualquer natureza.
 - Rui Costa e Jaques Wagner disputam, em 2026, as duas vagas do Senado pela Bahia na mesma chapa — contexto
   político que o corpus registra por transparência, sem que dele decorra qualquer imputação.
+- Uma reportagem de Lauro Jardim (O Globo, 15/03/2026) revelou 207 pagamentos do governo da Bahia ao Master
+  entre 2023 e fevereiro de 2026 (R$ 49,2 milhões), por cessão de crédito de precatórios do Fundef — mecanismo
+  INTEIRAMENTE POSTERIOR à saída de Rui Costa do governo estadual (dezembro de 2022), sem qualquer ato
+  pessoal dele localizado quanto a esse mecanismo específico, distinto dos decretos do CredCesta já registrados.
+  Um post político no X associou o tema a Rui Costa e Jaques Wagner sem lastro em fonte jornalística —
+  a equipe não encontrou essa associação em nenhuma apuração independente.
+- 'Era governador da Bahia em 11/04/2018, quando a Ebal foi arrematada por R$ 15 milhões após dois leilões
+  desertos com lance mínimo de R$ 81 milhões, e quando foram editados, dezesseis dias depois, os decretos
+  que asseguraram ao programa margem consignável própria de 30% sobre a folha do funcionalismo. Defendeu
+  publicamente a operação: ''Eu vendi um supermercado falido [...] um supermercado que dava quase R$ 200
+  milhões de prejuízo todo ano''; e, sobre o cartão consignado, ''se não estivesse inclusa a operação
+  do cartão, nem tinha vendido. Se alguém pagou uma merreca de R$ 15 milhões, é porque tinha o cartão''.
+  Procurado por reportagem posterior, não respondeu.'
 source_ids:
+- src-bahianoticias-2026-03-16-207-pagamentos-precatorios-master
 - src-doe-ba-decreto-18353-2018
 - src-doe-ba-decreto-21041-2022
+- src-opotiguar-2026-03-16-mecanismo-cessao-credito-fundef
 - src-poder360-2026-credcesta-arquitetura-e-privatizacao
+- src-legislabahia-lei-13204-2014-alienacao-ebal
+- src-legislabahia-decreto-18353-2018-credcesta
+- src-legislabahia-decreto-18354-2018-consignacoes
+- src-poder360-2026-credcesta-privatizado-15-milhoes-dividas-93
+- src-poder360-2026-wagner-rui-costa-favoreceram-negocio
+- src-brasilapi-2026-ebal-capital-social
+- src-brasilapi-2026-ngvspe-empreendimentos
+- src-folhape-2026-02-rui-costa-defende-venda-supermercado-estatal
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

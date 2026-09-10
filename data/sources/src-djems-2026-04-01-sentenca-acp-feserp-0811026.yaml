@@ -1,0 +1,25 @@
+id: src-djems-2026-04-01-sentenca-acp-feserp-0811026
+kind: source
+title: Sentença na ação civil pública 0811026-41.2026.8.12.0001 — Feserp-MS contra o Estado e o município
+publisher: Diário da Justiça Eletrônico do Tribunal de Justiça de Mato Grosso do Sul
+publication_date: '2026-04-01'
+retrieved_at: '2026-09-09'
+url: https://esaj.tjms.jus.br/cdje/getPaginaDoDiario.do?cdVolume=11&nuDiario=5839&cdCaderno=3&nuSeqpagina=1450
+source_type: official_court
+summary: Edição 5.839, página 1.450, lida pela equipe. Ação distribuída em 27/02/2026 na 2ª Vara de Direitos
+  Difusos, Coletivos e Individuais Homogêneos de Campo Grande, tendo como autora a federação dos servidores
+  e como réus o Estado de Mato Grosso do Sul e o município de Campo Grande. A sentença, de 26/03/2026,
+  acolhe as preliminares dos réus e julga extinto o feito sem resolução do mérito, com fundamento no inciso
+  VI do art. 485 do Código de Processo Civil, sem custas nem honorários por não haver comprovação de má-fé
+  da autora. A apelação interposta em abril ainda não havia subido ao tribunal em setembro de 2026, à
+  espera de manifestação das procuradorias.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do diário da Justiça e de acórdãos do tribunal sul-mato-grossense)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

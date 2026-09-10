@@ -1,0 +1,28 @@
+id: ev-proximidade-temporal-vazatoga5-e-decisao-sem-nexo-demonstrado
+kind: evidence
+classification: I
+proposition: 'A proximidade temporal é fato verificado; o nexo causal, não. A série Vaza Toga 5 foi publicada
+  em 18/08/2026, sustentando que o CPF de Flávio Dino havia sido extraído da Pet 11.228 — então sigilosa
+  e parada — e submetido a uma varredura funcional em tribunais de todo o país. A decisão que encerrou
+  aquela petição é de 21/08/2026, três dias depois, e o andamento processual confirma que o processo estivera
+  1.219 dias sem movimento. O corpus registra as duas leituras possíveis sem arbitrar entre elas: a da
+  reportagem, de que a decisão é resposta à exposição pública; e a hipótese concorrente, igualmente compatível
+  com os fatos, de que a exposição pública de um processo paralisado por mais de três anos tenha simplesmente
+  destravado seu julgamento — fenômeno que não exige conluio para ser explicado. Nenhuma fonte localizada
+  demonstra o nexo, e não há manifestação do gabinete do relator sobre a coincidência de datas. Registro
+  adicional, para afastar leitura equivocada de cronologia: o arquivamento de 21/08/2026 é ANTERIOR em
+  dezenove dias à decisão de Flávio Dino que reintegrou Andrei Rodrigues à Polícia Federal, de 09/09/2026
+  — e nenhuma fonte estabelece qualquer relação entre os dois atos.'
+document_ids: []
+source_ids:
+- src-ainvestigacao-2026-08-18-vaza-toga-5-devassa-cpfs
+- src-stf-2026-pet-11228-andamento-processual
+inference_basis: Comparação entre datas verificadas no andamento processual público e a data de publicação
+  da reportagem. A sequência temporal é objetiva; a atribuição de causa entre os dois eventos não é sustentada
+  por nenhuma fonte localizada, e há explicação alternativa igualmente compatível.
+date: '2026-08-21'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

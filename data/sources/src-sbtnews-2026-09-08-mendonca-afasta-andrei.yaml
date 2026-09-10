@@ -1,0 +1,19 @@
+id: src-sbtnews-2026-09-08-mendonca-afasta-andrei
+kind: source
+title: Mendonça afasta Andrei Rodrigues da direção da PF
+publisher: SBT News
+publication_date: '2026-09-08'
+retrieved_at: '2026-09-06'
+url: https://sbtnews.sbt.com.br/noticia/brasil/mendonca-afasta-andrei-rodrigues-da-direcao-da-pf
+source_type: press
+summary: 'Terceira fonte independente confirmando o núcleo do fato: afastamento cautelar.'
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

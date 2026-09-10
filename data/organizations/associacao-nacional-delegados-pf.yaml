@@ -1,0 +1,30 @@
+id: associacao-nacional-delegados-pf
+kind: organization
+name: Associação Nacional dos Delegados de Polícia Federal
+aliases: []
+distinct_from:
+- policia-federal
+org_type: association
+summary: Entidade classista de delegados da Polícia Federal (também referida pela sigla ADPF em parte
+  da cobertura). Pediu, em 06/09/2026, que o Procurador-Geral da República, Paulo Gonet, se declare impedido
+  de atuar nos procedimentos da crise Moraes-Mendonça no STF, por seu nome constar nas mensagens do celular
+  de Daniel Vorcaro.
+why_in_novelo: É a entidade que formalizou o pedido de impedimento contra o PGR em meio à crise institucional
+  gerada pelo relatório da PF sobre o celular de Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- 'Em nota de 08/09/2026 sustentou que o afastamento do dirigente máximo da corporação não poderia dar-se
+  por decisão monocrática e registrou não haver inquérito, ação penal ou processo disciplinar instaurado
+  contra os dois dirigentes afastados. Foi além do caso concreto ao apontar ''um problema estrutural:
+  a direção da instituição responsável pela investigação das mais altas autoridades da República continua
+  submetida a critérios de escolha e de permanência'', defendendo lista tríplice.'
+source_ids:
+- src-baixadanaweb-2026-09-06-delegados-pedem-impedimento-gonet
+- src-agenciabrasil-2026-09-08-delegados-criticam-afastamento-monocratico
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-10'

@@ -1,0 +1,36 @@
+id: doc-2026-09-09-homologacao-delacao-freixo-junior-stf
+kind: document
+title: Homologação, pelo relator do caso Master, da colaboração premiada de 'Mineiro'
+doc_type: judicial_decision
+date: '2026-09-09'
+source_ids:
+- src-timesbrasil-2026-09-09-mendonca-homologa-delacao-mineiro
+- src-gazetadopovo-2026-09-09-mendonca-homologa-delacao-dark-horse
+- src-rdnews-2026-09-09-mendonca-homologa-delacao-repasses-dark-horse
+summary: 'Ato que muda o estatuto processual da segunda delação do caso. Até aqui o corpus registrava
+  apenas o fechamento do acordo com a Procuradoria-Geral da República; com a homologação pelo relator,
+  um dia após a oitiva do colaborador, o material passa a ter validade processual e pode instruir as investigações
+  em curso. O conteúdo confirmado é preciso: sete transferências somando US$ 12,3 milhões ao Havengate
+  Development Fund, realizadas entre fevereiro e setembro de 2025 a pedido de Daniel Vorcaro. O colaborador
+  declara ainda ter sido responsável por obter e entregar grandes quantias em espécie a pessoas indicadas
+  pelo banqueiro, parte delas transportada em malas, dizendo desconhecer a finalidade final dos pagamentos.
+  Registre-se que a homologação não atesta a veracidade do que é narrado: verifica a regularidade e a
+  voluntariedade do acordo, cabendo às provas de corroboração sustentar cada alegação.'
+is_official: true
+related_entity_ids:
+- antonio-carlos-freixo-junior
+- daniel-vorcaro
+- havengate-development-fund
+- andre-mendonca
+- eduardo-bolsonaro
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça (STF)
+url: https://timesbrasil.com.br/brasil/mendonca-homologa-delacao-de-mineiro-operador-de-vorcaro-que-movimentou-us-123-milhoes-para-fundo-ligado-a-dark-horse/
+reference: Homologação de colaboração premiada no âmbito do caso Master (PET 15.556 / INQ 5026)
+excerpt: era responsável por obter e entregar grandes quantias de dinheiro em espécie a pessoas indicadas
+  por Vorcaro [...] parte dos valores era transportada em malas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

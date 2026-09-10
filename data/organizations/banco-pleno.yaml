@@ -3,8 +3,9 @@ kind: organization
 name: Banco Pleno
 aliases:
 - Voiter
+- Voiter / Banco Pleno
 org_type: financial_institution
-summary: Banco de Augusto Lima, ex-sócio de Vorcaro no Master; operava como Voiter até a aquisição por
+summary: 'Banco de Augusto Lima, ex-sócio de Vorcaro no Master; operava como Voiter até a aquisição por
   Lima, aprovada pelo BC em julho de 2025. Em 18/02/2026 o BC decretou a liquidação extrajudicial do Banco
   Pleno S.A. e da Pleno DTVM por comprometimento econômico-financeiro e infringência às normas, segundo
   a imprensa. Augusto Lima fez dois aportes somando R$ 160 milhões, mas o banco havia herdado cerca de
@@ -13,18 +14,43 @@ summary: Banco de Augusto Lima, ex-sócio de Vorcaro no Master; operava como Voi
   o Poder360, o Banco Central já sabia, desde o primeiro semestre de 2025, de indícios de cessão de créditos
   inexistentes pelo Master ao BRB — e notificou o MPF em julho de 2025, mesmo mês em que aprovou a venda
   do banco (então Voiter) a Lima.
+
+  Histórico: foi incorporado ao conglomerado Master no início de 2024 e vendido em 24/07/2025 (efeitos
+  a partir de 11/08/2025, pela Diretoria Colegiada do Banco Central) a Augusto Ferreira Lima — ex-sócio
+  de Vorcaro no Master até maio de 2024 —, passando a se chamar Banco Pleno. Registros oficiais do BC,
+  obtidos e reportados de forma independente por três veículos, mostram Augusto Lima em pelo menos 7 a
+  8 reuniões com a cúpula do órgão ao longo de 2025 (Galípolo, o diretor de fiscalização Ailton de Aquino,
+  Renato Gomes e o procurador-geral Cristiano Cozer), incluindo datas próximas à aprovação e à efetivação
+  da compra — sem que isso prove relação causal. Deixou o conglomerado Master antes da liquidação de
+  novembro de 2025; sua própria liquidação, em 18/02/2026, foi por deterioração da percepção de risco e
+  dificuldades de liquidez, descrito como instituição pequena — 0,04% dos ativos e 0,05% da captação do
+  Sistema Financeiro Nacional. Segundo o O Tempo, Lima teria gasto cerca de R$ 600 milhões de patrimônio
+  pessoal tentando cobrir o passivo de ~R$ 6 bilhões em CDBs herdados antes da liquidação — valor não
+  reconciliado com os R$ 160 milhões em aportes formais de capital já registrados a partir de outra fonte.'
 why_in_novelo: Instituição do ex-sócio de Daniel Vorcaro, liquidada pelo Banco Central em fevereiro de
-  2026, segundo a imprensa.
+  2026, segundo a imprensa — o braço que saiu do grupo antes da crise, mas caiu por conta própria meses
+  depois, sem relação formal declarada com o esquema do Master.
 cited_position:
 - kind: denial
   summary: Em nota após a prisão de Lima em novembro de 2025, o Banco Pleno afirmou não ser alvo da operação
     e não manter relação societária com o Banco Master.
   source_ids:
   - src-cnn-2026-03-04-relembre-crise-master
+- kind: denial
+  summary: Não é alvo da Operação Compliance Zero e não há participação da instituição nos fatos investigados.
+  source_ids:
+  - src-cnnbrasil-2026-voiter-banco-pleno-liquidado
+  by_id: banco-pleno
+  date: '2026'
 open_questions:
 - Não está esclarecido, por fonte oficial do BC, por que a autarquia aprovou a transferência de controle
   do Voiter para Augusto Lima em 24/07/2025 no mesmo mês em que notificara o MPF sobre indícios de fraude
   do Master — tratar como indício a apurar, não como conduta irregular do BC estabelecida.
+- Não foi localizada a ata/voto nominal da Diretoria Colegiada do BC que aprovou a venda em 24/07/2025,
+  nem explicação oficial do órgão sobre a aparente contradição com os indícios de fraude já identificados.
+- Os R$ 160 milhões (aportes formais de capital) e os R$ 600 milhões (gasto total de patrimônio pessoal,
+  segundo o O Tempo) atribuídos a Augusto Lima no esforço de salvar o Voiter/Pleno não foram reconciliados
+  por nenhuma fonte disponível.
 source_ids:
 - src-b3-2026-02-18-liquidacao-banco-pleno
 - src-poder360-2026-06-24-wagner-deixa-lideranca
@@ -32,9 +58,15 @@ source_ids:
 - src-dou-2026-02-19-atos-1377-1378
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
 - src-poder360-2026-bc-sabia-fraude-antes-venda-voiter
+- src-acritica-2026-augusto-lima-8-reunioes-bc
+- src-bahianoticias-2025-08-bc-aprova-voiter-augusto-lima
+- src-cnnbrasil-2026-augusto-lima-7-reunioes-bc
+- src-cnnbrasil-2026-voiter-banco-pleno-liquidado
+- src-infomoney-2026-augusto-lima-7-reunioes-bc
+- src-otempo-2026-02-18-augusto-lima-gastou-600-milhoes-pleno
 full_name: Banco Pleno S.A.
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-09'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

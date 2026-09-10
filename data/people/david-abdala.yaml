@@ -1,0 +1,25 @@
+id: david-abdala
+kind: person
+name: David João Abdala Júnior
+category: executive
+role: Ex-diretor responsável pela Sefer Investimentos, absolvido pela CVM no caso Brazil Realty
+positions: []
+summary: Diretor responsável pela administração fiduciária da Sefer Investimentos de 30/04/2019 a 22/11/2019.
+  Em defesa apresentada ao PAS CVM, sustentou que o início da oferta questionada e as integralizações
+  em ativos ocorreram antes de sua gestão, relatando cenário desorganizado, falta de acesso a documentos
+  e tokens de contas dos fundos, e negando qualquer prática de ardil. Foi absolvido pela CVM em 08/09/2026,
+  segundo a Agência Brasil.
+why_in_novelo: É um dos três ex-diretores da Sefer absolvidos pela CVM por incompatibilidade cronológica
+  com os fatos apurados no processo do Brazil Realty FII.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+- src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

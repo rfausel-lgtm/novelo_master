@@ -1,0 +1,24 @@
+id: src-iclnoticias-2026-09-03-bc-liquida-distribuidoras-titulos
+kind: source
+title: BC liquida distribuidoras de títulos ligadas ao caso Master
+publisher: ICL Notícias
+publication_date: '2026-09-03'
+retrieved_at: '2026-09-09'
+url: https://iclnoticias.com.br/economia/bc-liquida-distribuidoras-de-titulos/
+source_type: press
+summary: No decreto de liquidação extrajudicial da Trustee (03/09/2026), o BC incluiu Artur Martins de
+  Figueiredo na lista de ex-administradores com bens tornados indisponíveis, junto com Ângelo Pinheiro
+  de Castro, Estevam Borali, Flávio Daniel Aguetoni, Luis Fernando de Almeida e Rogério Penteado Felgueiras
+  — motivação genérica de 'graves violações às normas legais que disciplinam as atividades das instituições'.
+  Figueiredo NÃO consta na lista equivalente da liquidação da Banvox Distribuidora — a indisponibilidade
+  parece vinculada especificamente à Trustee.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (resumo de busca; alguns textos integrais bloqueados por paywall/403)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

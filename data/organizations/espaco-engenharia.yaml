@@ -1,0 +1,24 @@
+id: espaco-engenharia
+kind: organization
+name: Espaço Engenharia e Construção
+aliases: []
+org_type: company
+summary: Empresa que subscreveu, em 31/10/2018, cotas do Brazil Realty FII integralizando 50 lotes de
+  terrenos no Balneário Água Limpa, Nova Lima/MG, avaliados em R$ 10,4 milhões por laudo que a CVM considerou
+  fraudulento — apuração independente em site de anúncios imobiliários apontou valor 63% menor (R$ 6,5
+  milhões). As matrículas dos imóveis permaneciam em nome de terceiro (MSB Participações), sem qualquer
+  averbação em favor do fundo. A empresa alienou toda a posição em cinco meses, com retorno de R$ 11,7
+  milhões — rápida liquidação que a CVM apontou como evidência de propósito fraudulento.
+why_in_novelo: É outro dos subscritores cujo laudo de avaliação de imóveis a CVM considerou fraudulento,
+  com matrículas irregulares e liquidação suspeitosamente rápida das cotas obtidas.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

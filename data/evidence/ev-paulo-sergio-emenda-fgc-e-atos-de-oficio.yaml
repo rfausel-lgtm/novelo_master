@@ -1,0 +1,26 @@
+id: ev-paulo-sergio-emenda-fgc-e-atos-de-oficio
+kind: evidence
+classification: C
+proposition: 'Ato de ofício mais concretamente documentado no esquema dos servidores do Banco Central:
+  em agosto de 2024, um dia depois de apresentada, Paulo Sérgio Neves de Souza enviou a Daniel Vorcaro
+  a emenda do senador Ciro Nogueira que elevava a cobertura do Fundo Garantidor de Créditos de R$ 250
+  mil para R$ 1 milhão, alertando sobre a repercussão (''Mercado colocando a conta dessa MP em você''
+  / ''Vc não acha que virá uma reação ainda maior agora?''). A apuração lhe atribui ainda parecer favorável
+  à aquisição do Master pelo BRB sem responder questões levantadas por outro departamento, e estudo sobre
+  carteiras de crédito de empresas ligadas ao Master que levou a diretoria à convicção de que não havia
+  motivo para preocupação — carteiras que a PF depois associou a 36 empresas com empréstimos suspeitos.
+  A defesa nega: ''nunca houve manipulação'', sustentando que ''todo processo é documentado, não sendo
+  passível de manipulação por uma única pessoa''. Nota comparativa: para Belline Santana, os atos concretos
+  são menos individualizados — revisão prévia de minutas do banco supervisionado e participação em grupo
+  de mensagens com Vorcaro —, sem que se tenha localizado documento de supervisão específico apontado
+  como adulterado por ele.'
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-ex-diretor-bc-alertou-vorcaro-emenda-fgc
+- src-jornaldebrasilia-2026-ex-diretor-bc-manipulacao-dados
+date: 2024-08
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

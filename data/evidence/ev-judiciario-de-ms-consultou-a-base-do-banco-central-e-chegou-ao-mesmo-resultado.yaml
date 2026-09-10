@@ -1,0 +1,22 @@
+id: ev-judiciario-de-ms-consultou-a-base-do-banco-central-e-chegou-ao-mesmo-resultado
+kind: evidence
+classification: D
+proposition: 'O Judiciário sul-mato-grossense fez, por iniciativa própria, a mesma verificação que a equipe
+  registrou em lote anterior. A fundamentação preservada em acórdão de abril de 2026 informa o endereço
+  consultado e o resultado: ''em consulta ao sítio eletrônico oficial da aludida autarquia (bcb.gov.br/meubc/encontreinstituicao),
+  constata-se que a parte ré não compõe a lista de instituições financeiras''. A convergência entre a
+  checagem jornalística e a judicial reforça o achado — e mostra que a informação estava disponível a
+  qualquer consulta, inclusive à do ente público que credenciou a empresa.'
+document_ids:
+- doc-2026-04-30-acordao-ai-1403759-tjms-consulta-ao-site-do-banco-central
+- doc-2025-09-19-decisao-2a-vara-bancaria-ms-pkl-nao-e-instituicao-financeira
+source_ids:
+- src-tjms-2026-04-30-acordao-ai-1403759-consulta-ao-site-do-banco-central
+excerpt: em consulta ao sítio eletrônico oficial da aludida autarquia (bcb.gov.br/meubc/encontreinstituicao),
+  constata-se que a parte ré não compõe a lista de instituições financeiras
+date: '2026-04-30'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

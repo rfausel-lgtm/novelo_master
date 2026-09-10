@@ -1,0 +1,19 @@
+id: ev-figueiredo-trustee-holding-diretor-desde-2019-anterior-quadrado
+kind: evidence
+classification: C
+proposition: 'Artur Martins de Figueiredo é diretor da Trustee Holding Financeira S/A (CNPJ 37.665.902/0001-57)
+  desde 31/12/2019 — antes de Maurício Quadrado assumir formalmente a mesma holding (05/12/2022). Revisa
+  a hipótese anterior do acervo de um vínculo ''recente e específico à Banvox'': os dados apontam, em
+  vez disso, para uma relação profissional anterior, provavelmente herdada da corretora Planner (que Quadrado
+  dirigiu entre 2007 e 2020) — sem, no entanto, confirmar a origem exata do relacionamento pessoal entre
+  os dois.'
+document_ids: []
+source_ids:
+- src-consultasocio-2026-artur-figueiredo-trustee-holding
+- src-fnetb3-2023-06-01-documento-472804-figueiredo-diretor-zion
+date: '2019-12-31'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

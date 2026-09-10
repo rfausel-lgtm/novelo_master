@@ -1,0 +1,26 @@
+id: ev-bc-contratos-simulados-varajo-belline-divergencia-valores
+kind: evidence
+classification: C
+proposition: 'Sindicância interna do Banco Central, aberta em 08/01/2026, concluída em 04/03/2026 e encaminhada
+  à CGU em 10/03/2026, apurou dois contratos entre Belline Santana e a Varajo Consultoria somando cerca
+  de R$ 4 milhões: o primeiro, de R$ 2 milhões, por um estudo de 50 páginas sobre educação financeira
+  que a comissão descreveu como ''um resumo de oito artigos acadêmicos e entrevistas de terceiros'', ''sem
+  produção autoral relevante'' e que poderia ser produzido ''com o uso de inteligência artificial, ou
+  mesmo solicitado a terceiros, a baixíssimo custo''; o segundo, referente ao projeto ''Jovens Potentes''.
+  A comissão classificou o arranjo como ''negócio simulado''. Há divergência não conciliada entre quatro
+  números: os cerca de R$ 4 milhões contratados; os R$ 1,3 milhão que o Master declarou à Receita ter
+  pago à Varajo (R$ 309,8 mil em 2024 e R$ 1 milhão em 2025); a fala de Vorcaro em depoimento (''não me
+  lembro se eram R$ 2 ou R$ 4 milhões, que era mais ou menos o que eu colocava em cada um dos projetos
+  sociais''); e a planilha ''despesas fixas mensais'' encontrada em seu celular, que previa R$ 500 mil
+  a servidor do Banco Central. Nenhuma fonte localizada concilia esses valores, e o total efetivamente
+  recebido, o valor mensal e o número de parcelas não foram estabelecidos.'
+document_ids: []
+source_ids:
+- src-infomoney-2026-04-bc-negocio-simulado-contratos-varajo
+- src-infomoney-2026-master-declarou-13-milhoes-varajo
+date: '2026-03-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,28 @@
+id: src-verificacao-direta-equipe-parecer-pgr-940922-2026
+kind: source
+title: Leitura direta do parecer da PGR de 16/06/2026 (Pets 16.201, 16.210, 16.229 e 16.230)
+publisher: Verificação direta da equipe — PGR, ASSCRIM nº 940922/2026
+publication_date: '2026-09-06'
+retrieved_at: '2026-09-06'
+url: https://static.poder360.com.br/uploads/2026/07/PGR-manifestacao-compliance-zero-wagner-augusto-lima-16.jun_.2026.pdf
+source_type: official_court
+summary: 'Leitura de texto integral. Documento ASSCRIM/PGR nº 940922/2026, assinado digitalmente por Paulo
+  Gustavo Gonet Branco, Procurador-Geral da República, em 16/06/2026 18h34. Refere-se conjuntamente às
+  Petições 16.201, 16.210, 16.229 e 16.230/DF. Não se opõe à operação de busca e apreensão em geral —
+  anui a ela —, mas se opõe especificamente a dois pontos: (1) busca no gabinete parlamentar de Jaques
+  Wagner, por violação à separação de poderes (''a incursão súbita no ambiente legislativo federal importa
+  severa ingerência de um Poder na sede de outro''), recomendando restringir a diligência a endereço residencial
+  e escritórios descentralizados; (2) apreensão de bens de alto valor/dinheiro/joias acima de R$ 20 mil,
+  por desproporcionalidade e prematuridade (''a só existência de bens de alto valor nos recintos invadidos
+  não é, por si, crime''; ''haverá estrépito social e mediático prescindível''). A decisão de Mendonça
+  na Pet 16.229 não acolheu integralmente essa posição.'
+verification:
+  checked_at: '2026-09-06'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

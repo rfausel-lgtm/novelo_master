@@ -1,0 +1,28 @@
+id: ev-teor-despacho-pet-11228-sob-segredo-nao-verificavel
+kind: evidence
+classification: I
+proposition: 'Limite de verificação que o corpus registra expressamente. O teor do despacho de 21/08/2026
+  na Pet 11.228 NÃO é público: o andamento do STF marca o movimento como ''Decisão (segredo de justiça)'',
+  com a observação de que ''o conteúdo só pode ser visualizado pelas partes e por seus advogados''. Portanto,
+  as citações literais atribuídas ao despacho pela reportagem que revelou o caso — a expressão ''patente
+  ausência de justa causa'', o enquadramento no art. 340 do Código Penal, o prazo de quinze dias para
+  a oitiva, a invocação do art. 33 da Lei Orgânica da Magistratura — não podem ser conferidas por terceiros
+  sem acesso aos autos. O que a consulta pública corrobora INDIRETAMENTE é a estrutura da decisão: há,
+  na mesma data, vista à PGR, disponibilização dos autos à autoridade policial e expedição de carta de
+  intimação postal, movimentos compatíveis com o que a reportagem descreve. Veículos que replicaram a
+  notícia no mesmo dia citam os mesmos trechos curtos, sem indicar fonte independente — o que não eleva
+  a verificação. As críticas jurídicas ao despacho, por sua vez, são análise editorial do veículo, não
+  fato apurado.'
+document_ids: []
+source_ids:
+- src-stf-2026-pet-11228-andamento-processual
+- src-ainvestigacao-2026-09-09-moraes-arquiva-dino-denunciante-alvo
+inference_basis: Confronto entre o andamento processual público, que marca a decisão como sigilosa, e
+  a reportagem que afirma tê-la obtido com exclusividade. A estrutura da decisão é corroborável pelos
+  movimentos processuais; seu conteúdo literal, não.
+date: '2026-08-21'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

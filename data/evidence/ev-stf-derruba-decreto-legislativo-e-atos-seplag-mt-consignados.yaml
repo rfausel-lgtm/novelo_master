@@ -1,0 +1,23 @@
+id: ev-stf-derruba-decreto-legislativo-e-atos-seplag-mt-consignados
+kind: evidence
+classification: D
+proposition: 'As duas tentativas de Mato Grosso de conter os consignados foram desfeitas pelo Supremo
+  na mesma sessão virtual, sob o mesmo relator, por unanimidade e com trânsito em julgado na mesma data.
+  A ação direta da confederação dos bancos derrubou o decreto legislativo da Assembleia que suspendia
+  por até 120 dias os contratos acima de 35% da remuneração líquida e mandava analisar os credenciamentos
+  das consignatárias; a arguição da associação dos bancos derrubou as decisões administrativas da Secretaria
+  de Planejamento e Gestão que haviam suspendido as consignações e os repasses. O fundamento é de competência:
+  legislar sobre direito civil e política de crédito cabe privativamente à União. Nem a via legislativa
+  nem a administrativa sobreviveram.'
+document_ids:
+- doc-2026-05-18-adi-7900-stf-decreto-legislativo-79-mt
+- doc-2026-05-18-adpf-1306-stf-decisoes-seplag-mt
+source_ids:
+- src-stf-2026-adi-7900-decreto-legislativo-79-mt
+- src-stf-2026-adpf-1306-suspensao-consignacoes-seplag-mt
+date: '2026-05-18'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

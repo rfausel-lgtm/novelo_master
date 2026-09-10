@@ -1,0 +1,25 @@
+id: rev-2026-09-06-lote-119-pablo-domingues-confusao-terra-firme
+kind: revision
+date: '2026-09-06'
+title: Lote 119 — Pablo Domingues, não 'Pablo Rodrigues', assina a petição de Wagner; possível confusão
+  entre Instituto Terra Firme e Terra Firme da Bahia
+summary: 'Corrigida uma dúvida sem lastro real: três fontes confirmam que apenas Pablo Domingues assinou
+  a petição de anulação da 9ª fase em nome de Jaques Wagner — não há um segundo advogado ''Pablo Rodrigues'';
+  Ângelo Rezende não consta nessa petição. Achado mais relevante: rastreada a origem da alegação de que
+  o Instituto Terra Firme ''geriria'' a Asseba, verifica-se que o fundamento citado pelas próprias matérias
+  que a fazem é o mesmo achado (sobreposição de e-mail/telefone) já corretamente atribuído no corpus a
+  outra pessoa jurídica, a Terra Firme da Bahia Ltda — levantando a hipótese de confusão jornalística
+  entre as duas entidades homônimas, registrada explicitamente em vez de tratada como contradição pendente.
+  Checagem de Augusto Lima não encontrou desenvolvimento novo em nenhuma frente processual.'
+affected_ids:
+- angelo-rezende
+- jaques-wagner
+- asseba
+- instituto-terra-firme
+- augusto-lima
+reason: Loop de investigação — fechamento de dúvidas abertas nos lotes 116-118.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

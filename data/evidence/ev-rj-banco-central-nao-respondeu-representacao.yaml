@@ -1,0 +1,26 @@
+id: ev-rj-banco-central-nao-respondeu-representacao
+kind: evidence
+classification: I
+proposition: 'Resultado negativo relevante. A representação administrativa protocolada por parlamentar
+  estadual junto ao Banco Central, pedindo medidas cautelares e abertura de procedimentos de fiscalização
+  contra CredCesta, PKL One e Banco Master, não teve resposta pública localizada. Busca dirigida não encontrou
+  manifestação da autarquia, autuação, procedimento de fiscalização ou medida cautelar decorrente — passados
+  cerca de quatro meses do protocolo. O contraste é interno ao próprio caso: outras providências do mesmo
+  gabinete têm número identificável, como o processo aberto no Tribunal de Contas estadual. Registro de
+  limite: a data exata do protocolo diverge entre a publicação do próprio mandato, de 01/05/2026, e a
+  repercussão jornalística, de 17/06/2026; e a íntegra da peça não foi localizada. Também não foi localizada
+  manifestação do Banco Central sobre a hipótese geral de cartão de benefício consignado operado por entidade
+  que a autarquia não autoriza.'
+document_ids: []
+source_ids:
+- src-flavioserafini-2026-05-01-representacao-banco-central
+- src-bcb-olinda-2026-09-09-pkl-one-nao-consta-instituicoes-autorizadas
+inference_basis: Busca dirigida por manifestação, procedimento ou resposta do Banco Central à representação,
+  sem resultado, combinada com a confirmação documental de que a empresa não consta da relação de instituições
+  autorizadas.
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

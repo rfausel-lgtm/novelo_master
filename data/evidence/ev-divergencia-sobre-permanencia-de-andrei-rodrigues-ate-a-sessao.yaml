@@ -1,0 +1,25 @@
+id: ev-divergencia-sobre-permanencia-de-andrei-rodrigues-ate-a-sessao
+kind: evidence
+classification: C
+proposition: 'As coberturas divergem sobre a situação imediata do diretor-geral da Polícia Federal. Parte
+  da imprensa afirma que, suspensos os dois atos, ele permanece no cargo até a sessão de 15/09. Outra
+  registra que a permanência ficou indefinida: Fachin teria determinado que ele preste informações em
+  48 horas, cabendo à Presidência decidir em seguida. As duas versões são incompatíveis quanto ao estado
+  atual do comando da corporação, e o acervo as mantém registradas sem escolher entre elas até que se
+  leia a íntegra da decisão. RESOLVIDA pela leitura da íntegra: as duas versões estavam metade certas.
+  O afastamento está suspenso e o diretor-geral permanece no cargo por força da liminar da Presidência;
+  mas sua permanência não está assegurada, pois foi intimado a prestar informações em 48 horas, findas
+  as quais o presidente do tribunal apreciará pessoalmente a questão — prazo que vence antes da sessão
+  de 15/09.'
+document_ids: []
+source_ids:
+- src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
+- src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
+- src-stf-2026-09-09-nota-a-imprensa-46-convocacao-sessao
+- src-stf-2026-09-09-integra-decisao-fachin-pet-16704
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

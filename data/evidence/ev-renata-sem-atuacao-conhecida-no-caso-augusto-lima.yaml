@@ -1,0 +1,19 @@
+id: ev-renata-sem-atuacao-conhecida-no-caso-augusto-lima
+kind: evidence
+classification: I
+proposition: Não há, em nenhuma fonte localizada, indício de que Renata Varandas tenha atuado — direta
+  ou indiretamente — na defesa ou na comunicação de crise de Augusto Lima. Toda a cobertura sobre conflito
+  de interesse envolvendo ela trata do lobby registrado para a Ambipar (já registrado no corpus, lote
+  107), não do caso de Lima. Nenhuma das partes (a banca, Renata, Andrei, Augusto Lima) se manifestou
+  especificamente sobre essa segunda coincidência.
+document_ids: []
+source_ids:
+- src-gazetadoparana-2026-exclusivo-escritorio-namorada-andrei-defende-socio-vorcaro
+inference_basis: Ausência de qualquer fonte que associe a atuação profissional de Renata Varandas ao caso
+  específico de Augusto Lima, combinada com a existência confirmada do vínculo societário entre ela e
+  os dois advogados que efetivamente atuaram nesse caso.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

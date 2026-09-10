@@ -1,0 +1,40 @@
+id: mauro-mendes
+kind: person
+name: Mauro Mendes
+category: public_official
+role: Ex-governador de Mato Grosso (2019–2026), do União Brasil; renunciou ao cargo em 31/03/2026 para
+  disputar o Senado
+positions: []
+summary: Assinou, em 05/05/2023, o decreto que criou em Mato Grosso a margem consignável exclusiva de
+  10% para cartão de benefício. É investigado no Superior Tribunal de Justiça, a pedido da Procuradoria-Geral
+  da República, por suposto favorecimento ao Banco Master no credenciamento que se seguiu ao decreto.
+why_in_novelo: Engenheiro civil e empresário, foi prefeito de Cuiabá antes de eleger-se governador. Sua
+  assinatura está no ato normativo que abriu, na folha do funcionalismo mato-grossense, o espaço em que
+  o CredCesta viria a operar. O texto integral do decreto, recuperado na base da Secretaria de Fazenda
+  estadual, mostra que a margem de 10% foi desenhada para não concorrer com as demais e que a exigência
+  de autorização do Banco Central foi deslocada da operadora para o parceiro bancário. Três dias após
+  a publicação o Banco Master pediu credenciamento; o convênio, de cinco anos, foi assinado menos de um
+  mês depois. A margem exclusiva viria a ser encerrada em junho de 2025 por lei estadual. Reportagem de
+  junho de 2026 revelou que o Superior Tribunal de Justiça apura o episódio sob sigilo, e registrou que
+  ele estava em Nova York, em evento empresarial, na véspera da aprovação.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- 'Número do inquérito no Superior Tribunal de Justiça e ministro relator não localizados: o tribunal
+  opõe sigilo e sua consulta processual bloqueou o acesso automatizado. Sem o número não é possível verificar
+  o objeto exato da apuração nem eventuais coinvestigados.'
+- Sua defesa afirma que 24 instituições foram credenciadas em sua gestão e que o Banco Master não foi
+  a primeira. O número é cumulativo até 2025; apurar quantos convênios existiam na data da assinatura
+  de 2023 para aferir o peso do argumento.
+- Número da portaria de 01/06/2023 que oficializou a autorização, com validade declarada até maio de 2028,
+  não localizado.
+source_ids:
+- src-sefazmt-decreto-257-2023-texto-oficial
+- src-metropoles-2026-06-stj-investiga-mauro-mendes-master
+- src-iomat-2023-05-05-decreto-257-2023-consignacoes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-06'

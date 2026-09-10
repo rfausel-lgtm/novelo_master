@@ -1,0 +1,26 @@
+id: ev-doc3-servidora-identidade-nao-publicada-por-decisao-editorial
+kind: evidence
+classification: I
+proposition: A decisão de Mendonça (Pet 16.662, §35) confirma a existência de um 'DOC.3', complementar
+  ao DOC.4 (sobre Roberta Luchsinger/caso Sem Desconto), com 'avaliações críticas, de natureza correicional...
+  sobre conduta de servidora nominalmente identificada' — tratada pelo próprio relatório apócrifo com
+  'limites mais estritos que o documento principal'. Uma única coluna de opinião (não matéria factual
+  apurada) atribui um nome a essa servidora, citando trechos apresentados como do próprio documento. Não
+  há checagem factual independente, segunda fonte, ou manifestação da própria pessoa. Dado o padrão de
+  fonte única e opinativa, e o fato de o STF ter decidido expressamente proteger essa identidade com sigilo
+  reforçado, a equipe optou por NÃO publicar o nome atribuído — registra-se apenas a existência da tentativa
+  de identificação, com a fonte e a razão da reserva.
+document_ids: []
+source_ids:
+- src-dcm-2026-09-05-doc3-pf-controle-dados-servidora
+inference_basis: A diferença em relação a outras decisões editoriais anteriores do corpus (nomear alegações
+  fracas sobre figuras já públicas) é que aqui (a) a fonte é uma coluna de opinião, não reportagem factual,
+  sem verificação por leitura do documento original; (b) o próprio Tribunal tomou a decisão afirmativa
+  de proteger esta identidade específica com sigilo reforçado, distinto do tratamento dado às demais partes
+  do mesmo relatório; e (c) não há, diferentemente do caso David Ágape (lote 100), nenhuma verificação
+  direta de texto integral que corrobore a citação atribuída ao documento.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

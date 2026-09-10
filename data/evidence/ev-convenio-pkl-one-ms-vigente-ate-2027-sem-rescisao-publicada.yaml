@@ -1,0 +1,19 @@
+id: ev-convenio-pkl-one-ms-vigente-ate-2027-sem-rescisao-publicada
+kind: evidence
+classification: D
+proposition: 'O convênio renovado em 11/03/2025 tem vigência declarada até 10/03/2027 e, até 09/09/2026,
+  nenhum ato de rescisão ou de descredenciamento havia sido publicado no diário oficial do estado. A interrupção
+  dos descontos na folha de agosto de 2026 não decorreu de decisão do Estado: a Secretaria de Administração
+  a atribuiu à própria empresa, que teria deixado de manter contrato com a companhia terceirizada que
+  opera o sistema de consignações. As dívidas permanecem exigíveis.'
+document_ids:
+- doc-2025-03-12-extrato-convenio-005-2025-sad-ms-pkl
+source_ids:
+- src-doems-2025-03-12-extrato-convenio-005-2025-pkl
+- src-investigams-2026-09-05-credcesta-convenio-renovado-segue-vigente
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

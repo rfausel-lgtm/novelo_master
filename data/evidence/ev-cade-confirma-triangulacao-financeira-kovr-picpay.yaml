@@ -1,0 +1,26 @@
+id: ev-cade-confirma-triangulacao-financeira-kovr-picpay
+kind: evidence
+classification: D
+proposition: 'O parecer nº 278/2026/CGAA5/SGA1/SG do Cade, aprovando sem restrições concorrenciais a compra
+  da Kovr pelo PicPay, identifica ''indícios que podem configurar a consumação prévia de ato de concentração
+  (gun jumping) e eventual triangulação financeira'': em 19/09/2025, no mesmo dia em que compradores intermediários
+  (ex-minoritários da Kovr) fecharam a aquisição junto à Master Serviços (100% de Vorcaro) e a revenderam
+  ao PicPay, o Banco PicPay e o Banco Original concederam a esses intermediários crédito em valor ''exatamente''
+  igual ao preço de aquisição — mecanismo consistente com financiamento circular do próprio comprador
+  final à operação de venda. O Cade abriu procedimento apartado (APAC) e registrou expressamente que ''os
+  indícios de possíveis crimes contra o sistema financeiro nacional, que não são de jurisdição deste Conselho
+  [...] serão levados ao conhecimento das autoridades competentes''.'
+document_ids:
+- doc-2026-05-07-parecer-cade-278-kovr-picpay
+source_ids:
+- src-cade-2026-05-07-parecer-278-kovr-picpay-integra
+excerpt: verifica-se indícios que podem configurar a consumação prévia de ato de concentração (gun jumping)
+  e eventual triangulação financeira [...]. Portanto, os indícios de possíveis crimes contra o sistema
+  financeiro nacional, que não são de jurisdição deste Conselho Administrativo de Defesa Econômica, serão
+  levados ao conhecimento das autoridades competentes para sua apuração.
+date: '2026-05-07'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

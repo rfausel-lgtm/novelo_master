@@ -18,6 +18,9 @@ export function SiteFooter() {
           </p>
         </div>
         <nav aria-label="Rodapé" className="grid grid-cols-2 gap-x-8 gap-y-1.5 sm:grid-cols-3">
+          <Link className="hover:text-fg" href="/imprensa">
+            Para a imprensa
+          </Link>
           <Link className="hover:text-fg" href="/metodologia">
             Metodologia
           </Link>

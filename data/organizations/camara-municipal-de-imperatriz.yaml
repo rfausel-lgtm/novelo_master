@@ -1,0 +1,29 @@
+id: camara-municipal-de-imperatriz
+kind: organization
+name: Câmara Municipal de Imperatriz
+aliases: []
+org_type: public_body
+summary: Casa legislativa do município de Imperatriz (MA). Manteve contrato de prestação de serviços jurídicos
+  com o escritório do advogado Daniel de Faria Jerônimo Leite desde abril de 2023 (Pregão 002/2023, R$
+  10.900/mês); um aditivo de 06/04/2024 elevou o valor para R$ 15.000/mês (~R$ 180 mil/ano) e prorrogou
+  por 12 meses — motivo de apuração do Ministério Público do Maranhão por possível improbidade administrativa
+  (Notícia de Fato nº 003773-253/2025), trancada pelo ministro Dias Toffoli em 30/09/2025 (PET 14.601/MA),
+  com fundamento na tese de repercussão geral do Tema 309, sem menção a Vorcaro ou ao caso Master no texto
+  da decisão.
+why_in_novelo: É o ente público cujo contrato com o escritório de Daniel Leite, renovado sem licitação,
+  motivou a apuração de improbidade que conecta o Maranhão à tentativa de compra de ações do BRB ligada
+  a Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-blogdodina-2026-05-01-toffoli-suspende-investigacao-daniel-leite
+- src-metropoles-2026-05-01-toffoli-trava-apuracao-daniel-leite-vorcaro
+- src-verificacao-direta-equipe-pet14601-decisao-toffoli-integra
+jurisdiction: Imperatriz, Maranhão
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -9,20 +9,68 @@ positions:
   source_ids:
   - src-cnn-2026-02-12-toffoli-deixa-relatoria
 summary: Presidente do STF. Assinou a nota dos dez ministros de 12/02/2026 e promoveu a redistribuição
-  do caso Master, sorteado para André Mendonça.
+  do caso Master, sorteado para André Mendonça. Foi surpreendido, na manhã de 09/09/2026, pela decisão
+  de Flávio Dino que reintegrou Andrei Rodrigues à PF — havia passado o dia anterior tentando uma solução
+  própria via recurso da AGU, sem conhecimento de articulação paralela entre o governo e Dino (ver evidência
+  correlata). Cancelou a sessão plenária de 09/09/2026 após a decisão de Dino. Não havia respondido, até
+  a publicação da reportagem, aos ministros que o questionaram sobre se barraria a decisão.
 why_in_novelo: Presidiu o STF quando o caso Master foi redistribuído de Dias Toffoli para André Mendonça.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+- kind: version
+  summary: Em discurso no Palácio do Planalto, em 04/09/2026, afirmou que haveria resposta 'firme' sobre
+    a situação de Moraes — segundo a Poder360, na prática, os prazos que fixou posteriormente empurraram
+    qualquer decisão do plenário para depois de 22/09/2026, data posterior ao 1º turno da eleição (04/10)
+    e possivelmente ao 2º turno (25/10).
+  source_ids:
+  - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+  date: '2026-09-04'
+open_questions:
+- A decisão de Flávio Dino de 09/09/2026 (Pet 16.669) invoca a Pet 16.704, de sua autoria, como fundamento
+  para afirmar que a matéria do afastamento de Andrei Rodrigues já estaria afetada ao Plenário — não localizada,
+  até a data desta apuração, manifestação direta de Fachin sobre essa leitura específica dada por Dino
+  ao alcance da Pet 16.704.
+- Segundo apuração da Poder360 (09/09/2026), Fachin estaria cedendo à estratégia do Planalto e do grupo
+  Gilmar Mendes-Dino-Moraes de não decidir nada sobre a crise até depois do período eleitoral — avaliação
+  da própria reportagem, não confirmada por manifestação direta dele nem por fonte independente até a
+  data desta apuração; permanece registrada como leitura jornalística, não fato estabelecido.
+- 'Em 09/09/2026 revogou a designação de Alexandre de Moraes como relator do Inquérito 4.781 e assumiu
+  pessoalmente sua condução, invocando o art. 43 do regimento interno e o entendimento do Plenário na
+  ADPF 572. É o terceiro ato seu, em uma semana, sobre o mesmo eixo: em 03/09 abriu procedimento, em 04/09
+  separou do inquérito das fake news o pedido de Moraes contra Mendonça e o avocou, e em 09/09 retirou
+  a relatoria. Anunciou que remeterá os autos à autoridade policial e à Procuradoria-Geral da República
+  para denúncia ou arquivamento, o que encaminha a um desfecho procedimento aberto desde março de 2019.
+  Pendente: obter a íntegra da decisão, que a equipe conhece apenas por cobertura jornalística.'
+- 'Praticou três atos no mesmo 09/09/2026: suspendeu simultaneamente as decisões de Mendonça e de Dino
+  sobre o comando da Polícia Federal, retirou de Moraes a relatoria do Inquérito 4.781 e convocou sessão
+  extraordinária do Plenário para 15/09, às 10h. O efeito combinado é retirar dos gabinetes individuais
+  as três frentes em que a disputa vinha sendo travada por decisão monocrática. Pendente: obter as íntegras,
+  hoje conhecidas apenas por cobertura jornalística, e estabelecer se a sessão de 15/09 tem um item ou
+  dois.'
+- 'A íntegra da decisão de 09/09 mostra alcance maior do que a cobertura registrou: o quarto item do dispositivo
+  suspende ''todo e qualquer procedimento que verse sobre potencial investigação em face de integrantes
+  deste Supremo Tribunal Federal'', que passam a ser previamente remetidos à Presidência, e a decisão
+  ainda suspende o procedimento de controle externo da atividade policial instaurado pela Procuradoria-Geral
+  da República e reserva à Presidência poder de supervisão sobre feitos já distribuídos. Reconhece que
+  suspender decisão de ministro é providência ''absolutamente excepcional'', citando como únicos precedentes
+  as SL 1.395/SP, de 2020, e SL 1.188/DF, de 2018.'
 source_ids:
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
+- src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
+- src-verificacao-direta-equipe-pet16669-decisao-dino-integra
+- src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
+- src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
+- src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
+- src-stf-2026-09-09-integra-decisao-fachin-pet-16704
+- src-stf-2026-09-09-nota-a-imprensa-46-convocacao-sessao
 full_name: Luiz Edson Fachin
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-10'
 photo:
   path: /fotos/edson-fachin.jpg
   source: Wikimedia Commons

@@ -1,0 +1,28 @@
+id: rev-2026-09-06-lote-109-augusto-lima-flavia-peres-dossie
+kind: revision
+date: '2026-09-06'
+title: 'Lote 109 — Augusto Lima: o casamento com Flávia Peres, a blindagem patrimonial, e o dossiê estagnado'
+summary: 'A pedido do editor, aprofundado o dossiê de Augusto Lima em três frentes. Status processual:
+  NÃO indiciado em agosto/2026 (só Vorcaro, Paulo Henrique Costa e Tanure), prisão domiciliar sem alteração,
+  depoimento adiado pela terceira vez, defesa anterior renunciou em 04/08. Patrimônio pessoal: casamento
+  em janeiro/2024 com Flávia Peres (ex-Arruda), ex-deputada federal e ex-secretária de Governo de Bolsonaro
+  — conexão política nova; identificados os quatro filhos via holding AC3, alvo de acusação de blindagem
+  patrimonial (doação com usufruto retido); bloqueio de R$ 112,8 milhões revogado em 8 dias; nova cobrança
+  de R$ 247 milhões em curso; imóveis de luxo repassados à Novonor/OR em outubro/2025. Documento apócrifo
+  ''dono de fato'': origem confirmada (Gazeta do Povo, 11/03/2026), mas sem qualquer avaliação formal
+  da PF sobre credibilidade, estagnado desde março, contrariado pela narrativa dominante de toda a demais
+  cobertura investigativa que trata Vorcaro como o controlador do esquema.'
+affected_ids:
+- augusto-lima
+- daniel-vorcaro
+- banco-master
+- flavia-peres
+- luiz-bull
+- ac3-cobrancas-e-participacoes
+- terra-firme-realty
+reason: 'Pedido direto do editor: aprofundar a investigação sobre Augusto Ferreira Lima.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,19 @@
+id: ev-pgr-contraria-cautelares-terceira-fase-compliance-zero
+kind: evidence
+classification: C
+proposition: Na terceira fase da Operação Compliance Zero, a Procuradoria-Geral da República manifestou-se
+  CONTRARIAMENTE às medidas cautelares requeridas pela Polícia Federal, sustentando que não havia indicadores
+  de perigo iminente e afirmando não poder endossar os pedidos. O ministro André Mendonça impôs as medidas
+  mesmo assim e registrou lamentar a posição do Ministério Público. As cautelares aplicadas a Leonardo
+  Palhares, a Ana Cláudia Queiroz de Paiva e aos dois servidores do Banco Central foram, portanto, determinadas
+  contra o parecer do órgão acusador.
+document_ids: []
+source_ids:
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+- src-senado-2026-03-26-oficio-223-cpi-convoca-palhares
+date: '2026-03-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

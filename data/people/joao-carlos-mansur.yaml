@@ -11,13 +11,9 @@ summary: Fundou a Reag Investimentos em 2012 e a comandou até 2025, quando vend
   Em 02/09/2026, assinou com a PGR a primeira delação da Operação Compliance Zero — 17 temas, multa de
   R$ 40 milhões —, prometendo revelar o paradeiro de R$ 20 bilhões em ativos atribuídos a Vorcaro. Audiência
   de voluntariedade ocorreu em 03/09/2026; a homologação, pelo relator André Mendonça, seguia pendente
-  até a data desta atualização. Em 02/09/2026, assinou com a PGR a primeira delação da Operação Compliance
-  Zero — 17 temas, multa de R$ 40 milhões —, prometendo revelar o paradeiro de R$ 20 bilhões em ativos
-  atribuídos a Vorcaro. Audiência de voluntariedade ocorreu em 03/09/2026; a homologação, pelo relator
-  André Mendonça, seguia pendente até a data desta atualização.
+  até a data desta atualização.
 why_in_novelo: Comprou ações do BRB por meio de fundo administrado pelo Banco Master, segundo documento
   do próprio BRB noticiado pela imprensa. Firmou a primeira delação premiada da Operação Compliance Zero.
-  Firmou a primeira delação premiada da Operação Compliance Zero.
 cited_position:
 - kind: no_response
   summary: A defesa de João Carlos Mansur não respondeu à CNN Brasil até a publicação.
@@ -28,13 +24,34 @@ cited_position:
 open_questions:
 - O documento do BRB ao BC não foi lido pela equipe.
 - O corpus não registra a situação atual da participação de Mansur no BRB após a auditoria independente.
+- Os 17 temas/anexos da colaboração não foram discriminados individualmente por nenhum veículo consultado
+  — provavelmente sob sigilo até a homologação. Trechos vazados sobre um fundo em Cayman (Jaguar Multimarket
+  Fund) e sobre a mecânica da operação Tirreno-BRB não foram confirmados pela equipe em documento primário
+  nem em fonte com acesso verificável.
+- Segundo sua proposta de delação (26/08/2026), Jaques Wagner recebeu ingressos para show da Taylor Swift
+  (R$ 63,3 mil) e ACM Neto é cotista do fundo Seattle 95 (R$ 7,92 milhões aplicados, ganho de R$ 4,01
+  milhões) — ambos negam ou minimizam as alegações, conforme registrado nos respectivos perfis.
+- Alega que o Jaguar Multimarket Fund (Cayman), que recebeu R$ 494 milhões do Master e tem Benjamim Botelho
+  como beneficiário formal, teria Vorcaro como 'verdadeiro dono' — alegação própria, sem corroboração
+  documental independente localizada.
+- 'Detalha o paradeiro do patrimônio de R$ 20 bilhões atribuído a Vorcaro: imóveis, fundos (incluindo
+  o Astralo, já conhecido no corpus), direitos creditórios e ativos em nome de terceiros — com ressalva
+  de que não é necessariamente líquido disponível.'
+- Até 09/09/2026, a homologação da delação pelo relator André Mendonça segue pendente.
 source_ids:
-- src-cnn-2026-02-05-mansur-reag-brb
-- src-poder360-2026-09-02-pgr-aceita-delacao-mansur
-- src-oglobo-2026-mansur-promete-revelar-20-bilhoes-vorcaro
+- src-agendadopoder-2026-mansur-entrega-20-bilhoes-vorcaro
+- src-bahianoticias-2026-08-26-proposta-delacao-mansur-wagner-acmneto
 - src-bahianoticias-2026-09-mansur-jaguar-fund-botelho
+- src-cnn-2026-02-05-mansur-reag-brb
+- src-obrasilianista-2026-09-03-delacao-mansur-detalhes
+- src-obrasilianista-2026-09-03-detalhes-delacao-mansur-pgr
+- src-oglobo-2026-mansur-promete-revelar-20-bilhoes-vorcaro
+- src-poder360-2026-09-02-pgr-aceita-delacao-envia-mendonca
+- src-poder360-2026-09-02-pgr-aceita-delacao-mansur
+- src-timesbrasil-2026-09-05-patrimonio-20-bilhoes-imoveis-fundos-mansur
+- src-verofato-2026-mansur-paradeiro-20-bilhoes-jaguar
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'

@@ -1,0 +1,32 @@
+id: doc-2022-03-31-decreto-66622-sp-cartao-beneficio
+kind: document
+title: Decreto nº 66.622/2022 (SP) — cria o cartão de benefício no último dia do governo Doria
+doc_type: legislative_act
+date: '2022-03-31'
+source_ids:
+- src-alesp-decreto-66622-2022-cartao-beneficio
+summary: Ato que abre, na folha do funcionalismo paulista, a espécie em que o CredCesta viria a operar.
+  Foi assinado por João Doria em 31 de março de 2022, seu último dia de mandato, na véspera da posse do
+  sucessor. Cria o cartão de benefício como consignação facultativa 'limitada a 15% da margem consignável'
+  e admite como consignatárias empresas administradoras de cartões 'conveniadas com instituições financeiras
+  devidamente autorizadas pelo Banco Central do Brasil' — a mesma fórmula que Mato Grosso adotaria em
+  2023, e que desloca a exigência de autorização da operadora para o parceiro bancário. Diferentemente
+  do Rio de Janeiro, São Paulo não dispensou a referência ao Banco Central; transferiu-a. O art. 3º delega
+  ao secretário da Fazenda a fixação dos limites da margem.
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+- joao-doria
+issuer: Governo do Estado de São Paulo
+url: https://www.al.sp.gov.br/repositorio/legislacao/decreto/2022/decreto-66622-31.03.2022.html
+reference: Decreto nº 66.622, de 31/03/2022 — altera o Decreto nº 60.435/2014
+excerpt: XI - aquisição de bens e serviços, à vista ou financiada, assim como saques emergenciais, por
+  meio de cartão de benefício, limitada a 15% da margem consignável. [...] IX - empresas administradoras
+  de cartões de benefícios, conveniadas com instituições financeiras devidamente autorizadas pelo Banco
+  Central do Brasil.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

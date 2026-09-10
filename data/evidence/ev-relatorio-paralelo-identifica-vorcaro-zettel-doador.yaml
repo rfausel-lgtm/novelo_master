@@ -1,16 +1,25 @@
 id: ev-relatorio-paralelo-identifica-vorcaro-zettel-doador
 kind: evidence
 classification: A
-proposition: O relatório paralelo da base governista na CPMI do INSS, entregue a PF, CGU e PGR em 07/04/2026,
-  identifica Daniel Vorcaro como 'dono do Banco Master' e Fabiano Zettel, seu cunhado, como o maior doador
-  individual em campanhas de 2022 — R$ 2 milhões a Jair Bolsonaro e R$ 3 milhões a Tarcísio de Freitas.
+proposition: 'O relatório paralelo da base governista na CPMI do INSS, entregue a PF, CGU e PGR em 07/04/2026,
+  identifica Daniel Vorcaro como ''dono do Banco Master'' e Fabiano Zettel, seu cunhado, como o maior
+  doador individual em campanhas de 2022. CORREÇÃO EDITORIAL (09/09/2026): a reportagem do Correio Braziliense
+  que noticiou o relatório atribuiu ''R$ 2 milhões a Bolsonaro e R$ 3 milhões a Tarcísio'', apresentando
+  os valores como sendo ''de acordo com dados da Justiça Eleitoral''. Consulta primária da equipe à base
+  do TSE (DivulgaCandContas) mostra que os valores estão INVERTIDOS: foram R$ 3 milhões a Jair Bolsonaro
+  (10/10/2022) e R$ 2 milhões a Tarcísio de Freitas (13/10/2022), além de R$ 10 mil a um candidato a deputado
+  federal pelo Novo em Minas Gerais, não mencionado por nenhuma das reportagens. O registro correto está
+  em evidência própria (ev-tse-doacoes-zettel-2022-registro-primario). O presidente do PL, Valdemar da
+  Costa Neto, corroborou publicamente a versão do TSE quanto a Bolsonaro.'
 document_ids: []
 source_ids:
 - src-correiobraziliense-2026-04-07-relatorio-paralelo-cpmi
+- src-tse-2022-divulgacandcontas-doacoes-fabiano-zettel
+- src-jb-2026-03-03-valdemar-zettel-3-milhoes-bolsonaro
 attributed_to: Correio Braziliense, com base no relatório paralelo
 date: '2026-04-07'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-09'

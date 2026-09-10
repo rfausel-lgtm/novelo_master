@@ -1,0 +1,24 @@
+id: ev-decisao-stf-propina-belline-triangulacao-palhares
+kind: evidence
+classification: D
+proposition: 'A decisão da PET 15.556 (§§ 24 e 66-70) descreve que Fabiano Zettel ''participou da elaboração
+  e encaminhamento de proposta de contratação simulada, estruturada para formalizar vínculo contratual
+  fictício por meio da empresa VARAJO CONSULTORIA EMPRESARIAL'' para remunerar o servidor do Banco Central
+  Belline Santana. O texto trata os valores explicitamente como propina e descreve a triangulação para
+  ocultá-la: após Zettel perguntar ''Hoje tem que pagar a primeira do Belline, ok?'', Vorcaro responde
+  ''OK'' e acrescenta ''Mas veja se Leo pode pagar. E reembolsamos dia seguinte. Bem importante isso''
+  — ''Leo'' identificado na decisão como Leonardo Augusto Furtado Palhares, administrador da Varajo, que
+  assinou a proposta de prestação de serviços destinada a contratar Belline para suposto estudo sobre
+  inserção de jovens no mercado financeiro. Em outra mensagem, Zettel escreve ''Belline cobrando. Paga?'',
+  e Vorcaro responde ''Claro''.'
+document_ids:
+- doc-2026-03-04-decisao-pet-15556-prisao-preventiva
+source_ids:
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+excerpt: Mas veja se Leo pode pagar. E reembolsamos dia seguinte. Bem importante isso.
+date: '2026-03-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

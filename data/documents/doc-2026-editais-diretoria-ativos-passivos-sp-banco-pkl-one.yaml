@@ -1,0 +1,26 @@
+id: doc-2026-editais-diretoria-ativos-passivos-sp-banco-pkl-one
+kind: document
+title: Editais de 2026 da Fazenda paulista que arrolam Banco PKL One entre bancos
+doc_type: administrative_act
+date: '2026-08-27'
+source_ids:
+- src-doesp-2026-editais-diretoria-ativos-passivos-banco-pkl-one
+summary: Quatro editais publicados em 2026 — n. 11/2026 de 02/04, n. 42/2026 de 14/05, n. 52/2026 de 07/07
+  e n. 64/2026 de 27/08 — arrolam a empresa entre bancos sob a denominacao BANCO PKL ONE PARTICIPACOES
+  S/A. Repete-se em Sao Paulo, e em serie ao longo de cinco meses, o mesmo equivoco registrado no diario
+  oficial de Mato Grosso do Sul em 2023, sobre uma holding de instituicoes nao financeiras que a consulta
+  da equipe ao Banco Central confirmou nao constar da relacao de instituicoes autorizadas a funcionar
+  no pais.
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Secretaria da Fazenda e Planejamento de Sao Paulo — Diretoria de Ativos e Passivos
+url: https://doe.sp.gov.br/
+reference: Editais 11/2026, 42/2026, 52/2026 e 64/2026 — DAP/SFP-SP
+excerpt: BANCO PKL ONE PARTICIPACOES S/A.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

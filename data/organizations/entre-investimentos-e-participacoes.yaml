@@ -15,12 +15,18 @@ cited_position:
 open_questions:
 - A composição societária da Entre Investimentos e Participações não foi verificada pela equipe em registros
   oficiais.
+- Condenada pela CVM em 08/09/2026 a R$ 10 milhões de multa por atuar como 'câmara de liquidação' de cotas
+  fraudadas do Brazil Realty FII (177 operações, 2018-2020) — controlada, à época, em 70% pela FG Participações,
+  holding de Benjamim Botelho de Almeida. Propôs termo de compromisso de R$ 4,95 milhões, rejeitado pelo
+  colegiado.
 source_ids:
-- src-intercept-2026-07-02-havengate
-- src-congressoemfoco-2026-05-15-duvidas-filme
 - src-brasildefato-2026-09-03-pgr-delacao-mineiro
+- src-congressoemfoco-2026-05-15-duvidas-filme
+- src-intercept-2026-07-02-havengate
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-06'

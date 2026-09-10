@@ -1,0 +1,21 @@
+id: ev-pgr-pede-anulacao-procedimento-que-mapeia-miranda
+kind: evidence
+classification: A
+proposition: Em 01/09/2026, o procurador-geral da República, Paulo Gonet, pediu a André Mendonça a anulação
+  da ordem que determinou o mapeamento da rede de influência de Daniel Vorcaro e a extinção do procedimento
+  — fundamentando-se no fato de que o relatório da Polícia Federal entregue em 27/08/2026, com 218 páginas
+  extraídas do celular do banqueiro, avançou sobre informações relativas ao ministro Alexandre de Moraes,
+  que aparece na maior parte do documento. É exatamente o procedimento em que a atuação de Thiago Miranda
+  vinha sendo mapeada, e no qual ele próprio aparece. O pedido aguardava decisão na data desta apuração.
+  Caso acolhido, há risco de contaminação ou anulação de provas relativas a ele — cenário que o corpus
+  registra como pendência aberta, não como desfecho.
+document_ids: []
+source_ids:
+- src-apublica-2026-09-analise-master-vorcaro-moraes-mendonca
+attributed_to: Agência Pública, 09/2026, sobre o pedido formulado pelo procurador-geral da República
+date: '2026-09-01'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

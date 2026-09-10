@@ -1,0 +1,27 @@
+id: src-stf-2026-09-09-nota-a-imprensa-46-convocacao-sessao
+kind: source
+title: Nota à Imprensa nº 46 do STF — convocação da sessão extraordinária e decisão na SL 1.946
+publisher: Supremo Tribunal Federal
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-10'
+url: https://noticias.stf.jus.br/postsnoticias/nota-a-imprensa-46/
+source_type: official_court
+summary: 'Comunicação institucional que confirma o objeto da convocação: ''fica convocada sessão extraordinária
+  do Plenário, em formato presencial, para a data de 15 de setembro de 2026, às 10h00, para apreciar a
+  Pet 16.662, feito já indicado à pauta pelo Relator''. Na suspensão de liminar pedida pela União, cuja
+  íntegra a equipe leu, consta o deferimento da medida e a intimação do diretor-geral da Polícia Federal
+  ''para, em 48 (quarenta e oito) horas, querendo, prestar informações, prazo após o qual sua permanência
+  na Direção-Geral da Polícia Federal, à luz do disposto no art. 33, parágrafo único da LOMAN, será apreciada
+  por esta Presidência''. A decisão registra que a suspensão de decisão de ministro pela Presidência é
+  ''absolutamente excepcional'' e cita como únicos precedentes as SL 1.395/SP, de 2020, e SL 1.188/DF,
+  de 2018.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura das íntegras oficiais e do serviço de pautas do tribunal)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,19 @@
+id: ev-agu-anuncia-recurso-competencia-presidencial
+kind: evidence
+classification: A
+proposition: A AGU, sob o Advogado-Geral da União Jorge Messias, anunciou publicamente, em 08/09/2026,
+  que recorreria da decisão de Mendonça até 09/09/2026, com o argumento de que ele teria violado a competência
+  privativa da Presidência da República ao afastar monocraticamente o diretor-geral da PF. O texto do
+  recurso não foi localizado para verificação direta; fontes secundárias divergem sobre o dispositivo
+  legal exato invocado (Lei 9.266/1996 vs. art. 84, XXV, da Constituição), mantido como alegação não verificada
+  até acesso ao documento primário.
+document_ids: []
+source_ids:
+- src-metropoles-2026-09-08-agu-vai-recorrer-decisao-mendonca-andrei
+attributed_to: AGU/Jorge Messias, conforme reportagem
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

@@ -1,0 +1,26 @@
+id: talent-construcoes
+kind: organization
+name: Talent Construções
+aliases: []
+org_type: company
+summary: Empresa que subscreveu, em 15/04/2019, 2.360.162 cotas do Brazil Realty FII, integralizando ações
+  de uma SPE (Brasil Realty Empreendimentos S.A.) cujo único ativo era um imóvel em Nova Lima/MG, avaliado
+  por laudo cujo valor a CVM considerou majorado de R$ 7,1 milhões para R$ 70,8 milhões — com base num
+  laudo cuja autoria a empresa avaliadora (Pedrosa Consultores) negou categoricamente, classificando o
+  documento como fraude e registrando boletim de ocorrência policial. No dia seguinte à subscrição, já
+  alienava R$ 15 milhões em cotas à Entre Investimentos, com valorização de 22,2% em um único dia; a liquidação
+  completa, em cinco meses, somou ganho de R$ 6,07 milhões.
+why_in_novelo: É o subscritor cujo laudo de avaliação teve autoria expressamente negada pela empresa avaliadora
+  apontada, que registrou boletim de ocorrência por falsificação — o indício mais direto de fraude documental
+  identificado no processo.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

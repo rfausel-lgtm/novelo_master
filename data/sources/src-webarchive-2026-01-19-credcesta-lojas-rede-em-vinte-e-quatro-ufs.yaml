@@ -1,0 +1,24 @@
+id: src-webarchive-2026-01-19-credcesta-lojas-rede-em-vinte-e-quatro-ufs
+kind: source
+title: Página de lojas do CredCesta em 19/01/2026 — rede física em 24 unidades da federação
+publisher: Internet Archive — captura do site credcesta.com.br
+publication_date: '2026-01-19'
+retrieved_at: '2026-09-09'
+url: http://web.archive.org/web/20260119111959id_/https://www.credcesta.com.br/credcesta-lojas
+source_type: self_published
+summary: Captura recuperada pela equipe que resolve uma contradição aparente do acervo. A operadora tinha
+  apenas seis estabelecimentos inscritos no cadastro nacional — matriz em São Paulo e filiais em Vitória,
+  Curitiba, Campo Grande, Cuiabá e Guarulhos —, o que parecia incompatível com presença em vinte e quatro
+  estados. A página de lojas mostra rede física de 49 unidades distribuídas por AL, AM, AP, BA com dez
+  lojas, CE, DF, ES, GO, MA, MG com três, MS, MT, PA, PB, PE, PI, PR, RJ com oito, RN, RO, RS, SC, SE
+  e SP com sete. A presença nacional não vinha de filiais próprias, mas de rede de lojas e de correspondentes.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do PDF oficial do diário capixaba e do texto normativo paranaense)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,18 @@
+id: ev-luiz-bull-porsche-apreendido-preso-1a-fase
+kind: evidence
+classification: A
+proposition: Luiz Bull financiou um Porsche Macan pelo Banco Safra, parou de pagar em dezembro de 2025
+  alegando contas bloqueadas por ordem judicial; o veículo foi apreendido pela PF em novembro de 2025,
+  com busca e apreensão civil autorizada em 19/05/2026. Foi preso na primeira fase da Operação Compliance
+  Zero, em 18/11/2025. Reportado por fonte única até o momento; tratado como classe A até corroboração
+  por segunda fonte independente.
+document_ids: []
+source_ids:
+- src-metropoles-2026-05-19-master-porsche-safra-bull
+attributed_to: Metrópoles (coluna Tácio Lorran), 19/05/2026
+date: '2026-05-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

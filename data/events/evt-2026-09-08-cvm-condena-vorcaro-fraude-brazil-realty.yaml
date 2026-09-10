@@ -1,0 +1,39 @@
+id: evt-2026-09-08-cvm-condena-vorcaro-fraude-brazil-realty
+kind: event
+title: CVM condena Vorcaro, pai, primo, Master e outros por fraude no Brazil Realty FII
+event_type: regulatory_act
+date: '2026-09-08'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- henrique-vorcaro
+- felipe-cancado-vorcaro
+- banco-master
+- benjamim-botelho-de-almeida
+- antonio-carlos-freixo-junior
+- viking-participacoes
+- entre-investimentos-e-participacoes
+- foco-dtvm
+- comissao-de-valores-mobiliarios
+description: O colegiado da CVM, por unanimidade e sob relatoria do diretor João Accioly, condenou Daniel
+  Vorcaro, Henrique Vorcaro (pai), Felipe Cançado Vorcaro (primo), o Banco Master, Benjamim Botelho de
+  Almeida, Antônio Carlos Freixo Júnior, a Viking Participações, a Entre Investimentos, a Sefer Investimentos
+  e outros acusados por operação fraudulenta na 3ª emissão de cotas do Brazil Realty FII, com multas somando
+  entre R$ 201 e R$ 201,5 milhões (divergência entre fontes não reconciliada). Três ex-diretores da Sefer
+  foram absolvidos. Os termos de compromisso propostos pelos acusados foram rejeitados. É processo autônomo
+  da CVM, distinto da Operação Compliance Zero.
+evidence_class: D
+status: verified
+evidence_ids: []
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+- src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
+- src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
+document_ids:
+- doc-2026-09-08-relatorio-pas-brazil-realty
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

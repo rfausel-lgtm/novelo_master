@@ -2,20 +2,27 @@ id: david-agape
 kind: person
 name: David Ágape
 category: journalist
-role: Jornalista; autor da newsletter 'A Investigação' (ainvestigacao.com)
+role: Jornalista investigativo; fundador de A Investigação (ainvestigacao.com); colunista da Revista Oeste;
+  segundo autodescrição em seu site oficial, diretor de comunicação da Free Speech Union Brasil
 positions: []
-summary: Jornalista formado pela Uninove, com especialização em jornalismo digital pela ESPM. Onze anos
-  no Grupo Comunique-se (de estagiário a editor sênior); atuou como freelancer no Metrópoles e na Gazeta
-  do Povo; é colunista da Revista Oeste (linha editorial conservadora). Autor da série 'Twitter Files
-  Brazil' e de 'Vaza Toga' (com Eli Vieira), pela qual ambos foram alvo de ação penal apresentada ao STF
-  por ex-colaboradora do TSE, sob acusação de incitação, perseguição e 'tentativa de subversão do Estado
-  Democrático de Direito' — ação arquivada pelo próprio ministro Alexandre de Moraes por falta de indícios
-  mínimos de crime. Publica, na newsletter 'A Investigação', cobertura de linha editorial declaradamente
-  crítica ao STF e ao governo, com conteúdo parcialmente restrito a assinantes. A equipe editorial NÃO
-  localizou fact-checking institucional (Aos Fatos, Lupa, Comprova) desmentindo publicações específicas
-  dele. Em checagem direta de um de seus artigos contra o documento primário citado, a equipe não confirmou
-  nenhum erro factual na redação do texto (ver evidência correlata) — mas, dado o histórico de atrito
-  pessoal direto com o ministro que é alvo central de suas matérias atuais sobre a crise Moraes-Mendonça,
+summary: Jornalista investigativo brasileiro, fundador da newsletter 'A Investigação'. É colunista da
+  Revista Oeste (linha editorial conservadora) — vínculo corroborado de forma independente pela página
+  de autor do próprio veículo e por nota do portal de mídia Comunique-se sobre sua chegada à redação.
+  Idealizador da série 'Twitter Files Brazil' (com Michael Shellenberger e Eli Vieira) e de 'Vaza Toga
+  2 e 4' (com Eli Vieira) — por esta última, ambos foram alvo de ação penal apresentada ao STF por ex-colaboradora
+  do TSE, sob acusação de incitação, perseguição e 'tentativa de subversão do Estado Democrático de Direito',
+  ação arquivada pelo próprio ministro Alexandre de Moraes por falta de indícios mínimos de crime. Segundo
+  autodescrição em seu site oficial (davidagape.com) — não verificada de forma independente pela equipe
+  —, é também diretor de comunicação da Free Speech Union Brasil, coautor do livro 'In Verbo Veritas',
+  vencedor do 'Free Speech Courage Award' (Civilization Works, Londres, 2026), e seu trabalho já provocou
+  depoimentos no Senado Federal, na Câmara dos Deputados, no Congresso dos Estados Unidos e 'intervenção
+  direta do Vaticano' em 2019, após reportagem sobre os Arautos do Evangelho; o mesmo site lista citações
+  por veículos como NYT, Reuters, BBC e WSJ sem links de verificação. Publica, na 'A Investigação', cobertura
+  de linha editorial declaradamente crítica ao STF e ao governo, com conteúdo parcialmente restrito a
+  assinantes. A equipe editorial NÃO localizou fact-checking institucional (Aos Fatos, Lupa, Comprova)
+  desmentindo publicações específicas dele. Em checagem direta de um de seus artigos contra o documento
+  primário citado, a equipe não confirmou nenhum erro factual na redação do texto — mas, dado o histórico
+  de atrito pessoal direto com o ministro que é alvo central de suas matérias atuais sobre a crise Moraes-Mendonça,
   o corpus trata sua reportagem como posição atribuída, nunca como lastro factual autônomo sem verificação
   direta contra documento primário.
 why_in_novelo: É a fonte de múltiplas reportagens recentes sobre a crise institucional Moraes-Mendonça
@@ -24,13 +31,35 @@ why_in_novelo: É a fonte de múltiplas reportagens recentes sobre a crise insti
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- 'A pedido do próprio jornalista, por e-mail de 08/09/2026, a ficha foi revisada: a versão anterior citava
+  formação pela Uninove e ESPM, e ''onze anos no Grupo Comunique-se, de estagiário a editor sênior'' —
+  informação sem fonte própria no corpus, agora removida por falta de verificação; mantida apenas a passagem
+  pela Comunique-se enquanto veículo de imprensa que noticiou sua chegada à Revista Oeste, corroborada
+  de forma independente. As afirmações do próprio site dele (Vaticano, Congresso dos EUA, prêmio ''Civilization
+  Works'', citações internacionais) são mantidas como autodescrição atribuída, não como fato verificado
+  — o corpus não confirmou nenhuma delas por fonte independente.'
+- 'Aplicação da diretriz editorial registrada nesta ficha, em 09/09/2026: sua reportagem sobre o arquivamento
+  da Petição 11.228 foi submetida a verificação direta contra o andamento processual público do STF. A
+  espinha factual e cronológica CONFIRMOU-SE integralmente — existência e classe do processo, partes,
+  datas de protocolo e autuação, relator por prevenção, o intervalo de exatamente 1.219 dias sem movimentação
+  e a decisão de 21/08/2026 com vista à PGR e remessa à autoridade policial. Duas ressalvas permanecem:
+  o teor do despacho não é conferível por terceiros, por correr o processo em segredo de justiça; e a
+  matéria descreve o denunciante como deputado federal, quando o registro oficial confirma tratar-se de
+  deputado estadual — imprecisão que, no entanto, reforça em vez de enfraquecer a crítica de competência
+  que ela própria levanta.'
 source_ids:
-- src-ainvestigacao-2026-09-04-moraes-distorceu-dossie-apocrifo
-- src-ainvestigacao-2026-09-02-relatorio-pf-moraes
 - src-ainvestigacao-2026-09-02-gonet-cnpg-jatinho-kallas
+- src-ainvestigacao-2026-09-02-relatorio-pf-moraes
+- src-ainvestigacao-2026-09-04-moraes-distorceu-dossie-apocrifo
+- src-comuniquese-2026-david-agape-estreia-revista-oeste
+- src-davidagape-2026-09-site-oficial-sobre
+- src-revistaoeste-2026-david-agape-pagina-autor
+- src-ainvestigacao-2026-09-09-moraes-arquiva-dino-denunciante-alvo
+- src-ainvestigacao-2026-08-18-vaza-toga-5-devassa-cpfs
+- src-stf-2026-pet-11228-andamento-processual
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'
 created_at: '2026-09-06'
-updated_at: '2026-09-06'
+updated_at: '2026-09-09'

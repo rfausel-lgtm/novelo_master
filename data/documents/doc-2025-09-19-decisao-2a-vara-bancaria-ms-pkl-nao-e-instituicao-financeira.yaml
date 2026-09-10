@@ -1,0 +1,27 @@
+id: doc-2025-09-19-decisao-2a-vara-bancaria-ms-pkl-nao-e-instituicao-financeira
+kind: document
+title: Decisão da 2ª Vara Bancária de Campo Grande — 'aparentemente, não é instituição financeira'
+doc_type: judicial_decision
+date: '2025-09-19'
+source_ids:
+- src-djems-2025-09-19-decisao-2a-vara-bancaria-pkl-one
+summary: 'Decisão que a imprensa citou repetidamente e que o acervo registrava como não localizada. Localizada
+  e lida no diário da Justiça, ela é mais contida do que a paráfrase que circulou: o juízo afirma que
+  a empresa ''aparentemente, não é instituição financeira regulada pelo Banco Central'' e intima o autor
+  a manifestar-se sobre a competência do juízo especializado. A formulação mais forte — a de que a empresa
+  não compõe a lista de instituições financeiras — pertence a decisões de 2026 da mesma vara, e atribuí-la
+  a esta seria impreciso. Registre-se ainda que há precedente anterior, de 21/05/2025, com afirmação equivalente.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: 2ª Vara Bancária de Campo Grande (TJMS)
+url: https://esaj.tjms.jus.br/cdje/getPaginaDoDiario.do?cdVolume=10&nuDiario=5720&cdCaderno=3&nuSeqpagina=529
+reference: Processo 0848786-58.2025.8.12.0001; DJE-TJMS ed. 5.720, p. 529
+excerpt: A parte ré Pkl One Participações S.A., aparentemente, não é instituição financeira regulada pelo
+  Banco Central.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

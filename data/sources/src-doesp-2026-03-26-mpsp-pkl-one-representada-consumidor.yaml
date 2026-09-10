@@ -1,0 +1,23 @@
+id: src-doesp-2026-03-26-mpsp-pkl-one-representada-consumidor
+kind: source
+title: Relatório semanal do CAO Cível do Ministério Público de São Paulo — PKL One como representada
+publisher: Diário Oficial do Estado de São Paulo
+publication_date: '2026-03-26'
+retrieved_at: '2026-09-09'
+url: https://doe.sp.gov.br/executivo/ministerio-publico/cao-civel-e-de-tutela-coletiva-relatorio-semanal-difusos-de-25-03-2026-20260325114251991733047
+source_type: official_prosecutor
+summary: Relatório publicado nos termos do art. 108 da Resolução 1342/2021-CPJ, cobrindo o período de
+  17 a 23/03/2026, área consumidor. Registra o procedimento nº 0726.0000657/2025, do município de São
+  Paulo, com o Banco Master como reclamado e a PKL One Participações S.A. como representada, sob a ementa
+  'irregularidade no atendimento'. É procedimento de consumidor, não de improbidade nem sobre o credenciamento
+  — e o único do Ministério Público paulista com a empresa nominada localizado em fonte oficial.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do texto normativo oficial e dos PDFs do diário oficial)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

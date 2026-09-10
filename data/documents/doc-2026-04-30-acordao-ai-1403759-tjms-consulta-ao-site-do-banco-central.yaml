@@ -1,0 +1,28 @@
+id: doc-2026-04-30-acordao-ai-1403759-tjms-consulta-ao-site-do-banco-central
+kind: document
+title: Acórdão do TJMS que reproduz a consulta do juízo à base do Banco Central
+doc_type: judicial_decision
+date: '2026-04-30'
+source_ids:
+- src-tjms-2026-04-30-acordao-ai-1403759-consulta-ao-site-do-banco-central
+- src-tjms-2025-2026-precedentes-divergentes-sobre-legitimidade-da-pkl-one
+summary: 'Acórdão que preserva a fundamentação da primeira instância em sua forma completa, incluindo
+  a menção ao endereço eletrônico consultado. Tem duplo valor: fixa a origem exata da frase que a imprensa
+  reproduziu, e mostra que o Judiciário estadual realizou, por iniciativa própria, a mesma verificação
+  na base pública do Banco Central que a equipe fez e registrou em lote anterior — chegando ao mesmo resultado,
+  de que a empresa não consta da relação de instituições autorizadas.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+- banco-central-do-brasil
+issuer: Tribunal de Justiça de Mato Grosso do Sul — 3ª Câmara Cível
+url: https://esaj.tjms.jus.br/cjsg/getArquivo.do?cdAcordao=1886975&cdForo=0
+reference: Agravo de instrumento 1403759-69.2026.8.12.0000, j. 30/04/2026
+excerpt: em consulta ao sítio eletrônico oficial da aludida autarquia (bcb.gov.br/meubc/encontreinstituicao),
+  constata-se que a parte ré não compõe a lista de instituições financeiras
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

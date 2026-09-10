@@ -1,0 +1,27 @@
+id: doc-2026-05-07-parecer-cade-278-kovr-picpay
+kind: document
+title: Parecer nº 278/2026/CGAA5/SGA1/SG do Cade sobre o Ato de Concentração PicPay/Kovr/Estrutural
+doc_type: regulatory_record
+date: '2026-05-07'
+source_ids:
+- src-cade-2026-05-07-parecer-278-kovr-picpay-integra
+summary: Parecer da Superintendência-Geral do Cade (Processo nº 08700.001346/2026-97), aprovando sem restrições
+  concorrenciais a operação, mas apontando indícios de gun jumping e triangulação financeira na revenda
+  da Kovr ao PicPay via compradores intermediários financiados, no mesmo dia da operação, pelo próprio
+  comprador final.
+is_official: true
+related_entity_ids:
+- kovr-seguradora
+- banco-master
+- daniel-vorcaro
+issuer: Conselho Administrativo de Defesa Econômica (Cade)
+date_precision: day
+url: https://uploads.finsidersbrasil.com.br/2026/05/SEI_CADE-1748173-Parecer.pdf
+reference: Cade, Processo 08700.001346/2026-97, Parecer 278/2026/CGAA5/SGA1/SG
+excerpt: verifica-se indícios que podem configurar a consumação prévia de ato de concentração (gun jumping)
+  e eventual triangulação financeira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

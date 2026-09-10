@@ -1,0 +1,27 @@
+id: ev-nextbuscas-plataforma-nao-identificada
+kind: evidence
+classification: I
+proposition: 'A decisão do STF aponta o uso da plataforma ''NEXTBUSCAS.PRO'', associada a esquemas de
+  venda não autorizada de dados pessoais sigilosos, no levantamento sobre a jornalista Malu Gaspar — que
+  incluiu estimativa de renda, operações de cartão de crédito, movimentações bancárias, estrutura familiar
+  e dados de veículo. A apuração da equipe não conseguiu identificar quem opera a plataforma, se ela permanece
+  em funcionamento, nem localizar investigação específica sobre ela. Alerta metodológico registrado para
+  evitar erro futuro: foram examinadas três operações policiais contra painéis de venda de dados sigilosos
+  e NENHUMA está documentalmente ligada a esta plataforma — uma delas atingiu serviço de nome semelhante
+  mas distinto, e outra não nomeia publicamente a plataforma atingida. O corpus não estabelece vínculo
+  entre a NextBuscas e essas operações. O tema constitui ângulo de interesse público autônomo — a existência
+  de um mercado clandestino capaz de entregar renda, cartão e movimentação bancária de uma jornalista
+  mediante pagamento —, mas hoje o acervo tem apenas o nome da plataforma citado em decisão judicial.'
+document_ids:
+- doc-2026-07-09-decisao-mendonca-10a-fase
+source_ids:
+- src-cnnbrasil-2026-pf-thiago-miranda-coagiu-tres-jornalistas
+inference_basis: Leitura da menção na decisão do STF combinada com busca dirigida, sem resultado, sobre
+  operadores, status e investigações relativas à plataforma; e com o descarte explícito de três operações
+  policiais que tratam de serviços distintos ou não nomeados.
+date: '2026-07-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

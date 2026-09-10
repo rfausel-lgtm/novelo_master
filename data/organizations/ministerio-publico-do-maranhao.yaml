@@ -1,0 +1,28 @@
+id: ministerio-publico-do-maranhao
+kind: organization
+name: Ministério Público do Maranhão
+aliases: []
+org_type: public_body
+summary: Órgão do Ministério Público estadual do Maranhão. Apurava, pela 6ª Promotoria de Justiça Especializada
+  de Imperatriz (Notícia de Fato nº 003773-253/2025), possível improbidade administrativa no aditivo de
+  06/04/2024 ao contrato entre a Câmara Municipal de Imperatriz e o escritório do advogado Daniel de Faria
+  Jerônimo Leite — apuração trancada pelo ministro Dias Toffoli (STF) em 30/09/2025 (PET 14.601/MA), por
+  descumprimento alegado da tese de repercussão geral do Tema 309. Não localizado se houve recurso do
+  MPMA contra essa decisão.
+why_in_novelo: É o órgão cuja apuração sobre o contrato de Daniel Leite com a Câmara de Imperatriz foi
+  trancada por decisão do STF, episódio que conecta o Maranhão à rede de Vorcaro na tentativa de compra
+  do BRB.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions: []
+source_ids:
+- src-blogdodina-2026-05-01-toffoli-suspende-investigacao-daniel-leite
+- src-metropoles-2026-05-01-toffoli-trava-apuracao-daniel-leite-vorcaro
+- src-verificacao-direta-equipe-pet14601-decisao-toffoli-integra
+jurisdiction: Maranhão
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

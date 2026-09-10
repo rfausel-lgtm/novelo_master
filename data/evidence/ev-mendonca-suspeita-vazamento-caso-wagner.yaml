@@ -1,0 +1,20 @@
+id: ev-mendonca-suspeita-vazamento-caso-wagner
+kind: evidence
+classification: A
+proposition: 'Ao tornar pública a investigação contra Wagner (Pet 16.210, 30/07/2026), Mendonça registrou
+  uma coincidência que trata como possível indício de vazamento: um dos investigados solicitou audiência
+  ao seu gabinete no mesmo dia em que chegaram as representações da PF sobre o caso. Não há, na fonte,
+  conclusão sobre quem seria o investigado ou confirmação formal de vazamento — é observação do próprio
+  ministro, registrada como indício a apurar.'
+document_ids: []
+source_ids:
+- src-poder360-2026-07-30-mendonca-torna-publica-investigacao-wagner
+excerpt: Trata-se de solicitação de audiência, por parte de um dos investigados, recebida pelo meu gabinete
+  [...] no mesmo dia em que aportaram as representações da Polícia Federal.
+attributed_to: André Mendonça, ao publicizar a Pet 16.210
+date: '2026-07-30'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

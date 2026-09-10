@@ -15,8 +15,25 @@ cited_position:
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
 - A posição pública de Cláudio Castro sobre a operação não foi localizada em fonte verificada do corpus.
+- 'Assinou, em 27/05/2021, o decreto que acrescentou ao rol de consignatárias fluminenses a categoria
+  residual ''outras entidades consignatárias devidamente autorizadas pelo Estado'' — cláusula em branco
+  cujo requisito de habilitação é definido pelo mesmo Executivo que credencia — e que fixou para o cartão
+  de benefício margem de 20% do líquido que, nos termos do §1º, ''não compõe a margem consignável''. Cinco
+  dias depois foi autorizada a operadora do CredCesta. CORREÇÃO ao que este acervo registrara: o decreto
+  de 2016 não exigia autorização do Banco Central de todas as consignatárias, e sim apenas no inciso V;
+  o inciso III já admitia administradoras de cartões de benefícios sem essa exigência. O decreto de 2021
+  não revogou exigência que alcançasse o produto — abriu categoria nova e aberta. O ato não teve referendo
+  de secretário e origina-se do Processo SEI-150001/006360/2021, cuja obtenção mostraria quem propôs o
+  inciso VIII e como se justificou o limite de 20%.'
 source_ids:
 - src-stf-2026-05-26-oitava-fase-castro
+- src-sefazrj-decreto-45563-2016-consignacoes
+- src-doerj-2021-05-decreto-47625-cartao-beneficio
+- src-doerj-2025-02-decreto-49526-cartao-adiantamento
+- src-tjrj-2024-03-06-acordao-agravo-87521-master
+- src-revistaoeste-2026-decreto-favoreceu-consignado-master-rj
+- src-doerj-2021-05-28-decreto-47625-texto-integral
+- src-tjrj-acordao-ai-87521-transcreve-art-6-decreto-47625
 full_name: Cláudio Bomfim de Castro e Silva
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Cl%C3%A1udio_Castro
@@ -24,7 +41,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-10'
 photo:
   path: /fotos/claudio-castro.jpg
   source: Wikimedia Commons

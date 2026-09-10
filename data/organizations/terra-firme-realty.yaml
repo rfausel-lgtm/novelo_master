@@ -1,0 +1,38 @@
+id: terra-firme-realty
+kind: organization
+name: Terra Firme Realty
+aliases: []
+org_type: company
+summary: 'Holding de Augusto Lima (CNPJ 45.125.567/0002-03, filial aberta em 17/07/2023, capital social
+  de R$ 99.418.310,00, sede em Salvador). Controlava dois empreendimentos residenciais de luxo em Salvador
+  (Amarama Barra e One), repassados à OR (Novonor/ex-Odebrecht) em outubro de 2025, em meio à crise do
+  Master. Diretor: Gustavo Amorim Araújo. Confirmado, por CNPJs de raízes diferentes (45.125.567 x 04.241.549),
+  que é entidade DISTINTA da ''Terra Firme da Bahia Ltda'' — a empresa histórica de Augusto Lima ligada
+  à Asseba/Asteba por e-mail e telefone compartilhados. Não é a mesma estrutura societária; o vínculo
+  entre as duas é apenas onomástico e o denominador comum de Augusto Lima.'
+why_in_novelo: É uma das holdings pessoais de Augusto Lima, usada para repassar ativos imobiliários de
+  luxo em meio à crise do Master — possivelmente parte do mesmo grupo empresarial já citado no corpus
+  por outro vínculo documental (Asteba/Asseba).
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- É sócia de cinco SPEs administradas por Gustavo Amorim Araújo (Morro da Barra, Mark 71, Rsp 70, Barra
+  Lodge, Gavazza) — na Mark 71, Andréa Lima Novaes (ex-administradora da PKL One Participações/CredCesta)
+  consta como sócia/administradora ao lado de Araújo, conforme agregador de dados públicos de CNPJ não
+  confirmado por consulta direta e independente à Receita Federal.
+- O nome 'Mark 71' (SPE em que Andréa Lima Novaes apareceria como sócia, segundo o agregador Adv Dinâmico)
+  não foi confirmado por pesquisa independente adicional — que localizou, entre as SPEs de Gustavo Amorim
+  Araújo, uma 'Azure 71 Empreendimentos Imobiliários', não 'Mark 71'. Pode ser erro de transcrição do
+  agregador original, nome real de outra SPE do mesmo padrão de nomenclatura, ou informação não indexada
+  — recomenda-se verificação direta antes de tratar 'Mark 71' como nome confirmado.
+source_ids:
+- src-advdinamico-2026-09-terra-firme-realty-socios-spes
+- src-cnpja-2026-09-terra-firme-realty-cnpj-raiz
+- src-econodata-2026-09-terra-firme-da-bahia-cnpj-raiz
+- src-metropoles-milena-teixeira-augusto-lima-predios-odebrecht
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

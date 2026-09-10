@@ -1,0 +1,23 @@
+id: src-jusbrasil-2026-04-10-mprj-gaesf-acp-master-rioprevidencia
+kind: source
+title: GAESF/MPRJ ajuíza ação contra Banco Master, Rioprevidência e o Estado e pede bloqueio de bens
+publisher: Jusbrasil (notícia institucional do MPRJ)
+publication_date: '2026-04-10'
+retrieved_at: '2026-09-09'
+url: https://www.jusbrasil.com.br/noticias/gaesf-mprj-ajuiza-acao-contra-banco-master-rioprevidencia-e-o-estado-e-pede-o-bloqueio-de-bens-para-ressarcimento-de-mais-de-r-1-bilhao/5828048640
+source_type: press
+summary: Ação civil pública do Grupo de Atuação Especializada em Segurança Pública do Ministério Público
+  fluminense contra o Banco Master em liquidação, a PKL One Participações, ex-dirigentes e dirigentes
+  do Rioprevidência, o Estado e a autarquia, para evitar prejuízo de R$ 1,088 bilhão. Pede suspensão imediata
+  dos contratos do CredCesta e declaração de nulidade de contratos abusivos, sustentando que o modelo
+  gerava 'descontos em folha que não reduzem efetivamente a dívida'.
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura de texto normativo e de acórdão)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

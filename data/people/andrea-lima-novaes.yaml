@@ -20,12 +20,25 @@ why_in_novelo: É a administradora, por trás da PKL One Participações, do pro
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- 'Correção editorial (lote 116): a transferência de R$ 3,5 milhões da PKL One à BN Financeira (17/10/2025)
+  já é fato classe D no corpus (decisão do STF lida diretamente — ver bn-financeira). Ela era administradora
+  da PKL One na data da operação, mas nenhuma fonte localizada atribui a ela, pessoalmente, decisão ou
+  conhecimento sobre essa transferência específica — coincidência de cargo, não de conduta.'
+- É sócia/administradora, ao lado de Gustavo Amorim Araújo, da SPE Mark 71 Empreendimento Imobiliário
+  — uma das cinco sociedades da Terra Firme Realty (holding imobiliária de Augusto Lima em Salvador),
+  conectando-a também a essa estrutura, além da já documentada PKL One.
+- O nome 'Mark 71', usado no corpus para a SPE em que apareceria como sócia ao lado de Gustavo Amorim
+  Araújo, não foi confirmado por pesquisa independente adicional (que achou 'Azure 71' em vez disso, entre
+  as SPEs do mesmo administrador) — possível erro de transcrição do agregador original; recomenda-se verificação
+  direta.
 source_ids:
+- src-advdinamico-2026-09-terra-firme-realty-socios-spes
+- src-dcm-2026-06-enteado-wagner-cobrou-gestor-master-pf
 - src-minhareceita-2026-09-05-andrea-lima-novaes-empresas
 - src-minhareceita-2026-09-05-pkl-one-participacoes-cnpj
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-05'
 created_at: '2026-09-05'
-updated_at: '2026-09-05'
+updated_at: '2026-09-06'

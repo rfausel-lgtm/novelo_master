@@ -1,0 +1,30 @@
+id: doc-2023-01-12-decisao-moraes-pet-10829-nikolas-dino
+kind: document
+title: Decisão de arquivamento na Petição 10.829/DF (Nikolas Ferreira x Flávio Dino) — STF
+doc_type: judicial_decision
+date: '2023-01-12'
+source_ids:
+- src-stf-2023-pet-10829-andamento-e-decisao-nikolas
+summary: Decisão monocrática pública que arquivou, em 12/01/2023, a notícia-crime apresentada pelo deputado
+  federal Nikolas Ferreira contra Flávio Dino por omissão diante dos atos de 8 de janeiro de 2023 — um
+  dia após o protocolo e no mesmo dia da conclusão ao relator. Dispositivo publicado no Diário de Justiça
+  Eletrônico em 16/01/2023; trânsito em julgado em 07/02/2023. É a petição que gerou a prevenção pela
+  qual as demais notícias-crime sobre os mesmos fatos foram distribuídas ao mesmo relator, e serve de
+  termo de comparação para a disparidade de tratamento processual registrada no acervo.
+is_official: true
+related_entity_ids:
+- nikolas-ferreira
+- flavio-dino
+- alexandre-de-moraes
+- supremo-tribunal-federal
+issuer_id: alexandre-de-moraes
+issuer: Ministro Alexandre de Moraes / STF
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=6546751
+reference: Pet 10.829/DF — incidente 6546751
+excerpt: Diante do exposto, em razão da ausência de indícios mínimos da ocorrência de ilícito penal, DETERMINO
+  O ARQUIVAMENTO imediato desta representação, nos termos dos arts. 21, XV, e 231, § 4º, do RISTF.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

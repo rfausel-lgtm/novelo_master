@@ -1,0 +1,19 @@
+id: ev-pet15771-mensagens-vorcaro-phc-imoveis
+kind: evidence
+classification: D
+proposition: A decisão de prisão preventiva de Paulo Henrique Costa (Pet 15.771, STF, 15/04/2026), lida
+  integralmente pela equipe, transcreve mensagens de WhatsApp entre ele e Daniel Vorcaro sobre R$ 146.582.649,50
+  em seis imóveis de alto padrão, com pagamentos já rastreados superiores a R$ 74,6 milhões, tratados
+  como contrapartida por Costa ter chancelado a compra pelo BRB de cerca de R$ 12,2 bilhões em carteiras
+  de crédito do Master que se revelaram falsas.
+document_ids:
+- doc-2026-04-15-decisao-pet15771-prisao-paulo-henrique-costa
+source_ids:
+- src-verificacao-direta-equipe-pet15771-decisao-integra
+excerpt: Preciso dele feliz. Reverte isso aí.
+date: '2026-04-15'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

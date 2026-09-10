@@ -1,0 +1,27 @@
+id: src-legislacao-pr-lei-20740-2021-margem-cartao-beneficio-consignado
+kind: source
+title: Lei nº 20.740, de 5 de outubro de 2021 — margem de 10% para cartão de benefício consignado (PR)
+publisher: Sistema Estadual de Legislação do Paraná
+publication_date: '2021-10-05'
+retrieved_at: '2026-09-09'
+url: https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=iniciarProcesso&codAto=253790&codItemAto=1595102
+source_type: official_legislative
+summary: 'Texto oficial consultado pela equipe. O §1º do art. 5º reserva ''o limite de 10% (dez por cento)
+  destinado exclusivamente para amortização de despesas efetuadas por meio de cartão de benefício consignado
+  e/ou utilização com a finalidade de saque por meio de cartão de benefício consignado'' — trocando a
+  expressão ''cartão de crédito'', que constava desde 2016, pela designação exata do produto que a empresa
+  já vinha operando havia dois meses. Ponto decisivo para a leitura do caso: o rol de consignações do
+  art. 3º é taxativo e estrutura-se por tipo de despesa, não por tipo de entidade; o inciso relativo ao
+  cartão de benefício não qualifica quem pode operá-lo, ao contrário do inciso sobre empréstimos, que
+  exige instituição bancária ou financeira. Em nenhum ponto da lei, do decreto regulamentar ou da resolução
+  há exigência de autorização do Banco Central para o cartão de benefício.'
+verification:
+  checked_at: '2026-09-09'
+  checked_by: orquestrador (leitura do PDF oficial do diário capixaba e do texto normativo paranaense)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

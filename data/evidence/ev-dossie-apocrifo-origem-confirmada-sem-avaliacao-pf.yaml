@@ -1,0 +1,26 @@
+id: ev-dossie-apocrifo-origem-confirmada-sem-avaliacao-pf
+kind: evidence
+classification: C
+proposition: 'O documento apócrifo ''dono e presidente de fato'' foi revelado pela Gazeta do Povo em 11/03/2026:
+  uma foto de 2022, sem assinatura, de uma folha impressa sobre um envelope selado, encontrada pela PF
+  nos e-mails de Daniel Vorcaro — não a peça original, mas um registro fotográfico dela. Não foi localizada,
+  até 06/09/2026, nenhuma nota técnica ou parecer formal da PF avaliando a credibilidade ou autoria deste
+  documento específico (distinto do relatório apócrifo do caso Mendonça/Pet 16.662, avaliado como ''confiança
+  agregada baixa'' — os dois documentos apócrifos desta investigação tratam de temas diferentes e não
+  devem ser confundidos). A hipótese aparenta estagnada desde março de 2026, sem diligência, oitiva ou
+  decisão judicial específica localizada. A narrativa dominante de toda a demais cobertura investigativa
+  do caso (Agência Pública, entre outras) trata Vorcaro, não Lima, como o controlador e arquiteto do esquema
+  — contrariando frontalmente a tese do dossiê apócrifo.'
+document_ids: []
+source_ids:
+- src-gazetadopovo-2026-03-11-dossie-fraudes-master-alvos
+- src-gazetadopovo-2026-03-11-quem-sao-alvos-dossie
+- src-apublica-2026-03-13-reconstrucao-completa-fraude-master
+excerpt: O Ditador nojento Augusto Lima, dono e presidente de fato (que nem aparece como diretor eleito)
+  dita regra e governa com um regime de terror nos funcionários junto com seu capataz Luiz Bull.
+date: '2026-03-11'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-06'
+created_at: '2026-09-06'
+updated_at: '2026-09-06'

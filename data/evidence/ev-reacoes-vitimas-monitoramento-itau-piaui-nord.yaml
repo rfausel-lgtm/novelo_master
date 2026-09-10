@@ -1,0 +1,26 @@
+id: ev-reacoes-vitimas-monitoramento-itau-piaui-nord
+kind: evidence
+classification: C
+proposition: 'Reações das pessoas e instituições alvo do monitoramento atribuído a Thiago Miranda, registradas
+  para contraditório e para dimensionar o alcance. Milton Maluhy Filho, CEO do Itaú Unibanco, cujo dossiê
+  alcançava também sua esposa: procurado, o banco informou que não iria comentar, e não foi localizada
+  manifestação posterior. Consuelo Dieguez, da revista piauí: recusou retirar o texto e orientou o envio
+  de carta à revista, tendo a publicação confirmado as tentativas de intimidação — nota institucional
+  própria da revista não foi localizada. Renato Breia, da Nord Investimentos, foi o único que cedeu: havia
+  publicado, em outubro de 2024, recomendação para que clientes não investissem no CDB do Master e, após
+  contatos insistentes, removeu o conteúdo, ainda que manifestando descontentamento — Miranda enviou o
+  print da conversa a Vorcaro comemorando: ''Mais um arquivado!''. Breia e a Nord confirmaram o contato
+  e disseram estar à disposição das autoridades. No caso da jornalista Malu Gaspar, O Globo repudiou em
+  nota a devassa, e Abraji e ANJ publicaram notas em 02/07/2026 — a ANJ classificou a conduta como ''métodos
+  mafiosos''.'
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-vorcaro-dossie-ceo-itau-maluhy
+- src-cnnbrasil-2026-pf-thiago-miranda-coagiu-tres-jornalistas
+- src-gazetadopovo-2026-entidades-repudiam-assedio-malu-gaspar
+date: '2026-07-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

@@ -1,0 +1,25 @@
+id: ev-empresas-king-mourao-e-homonimo-nao-relacionado
+kind: evidence
+classification: C
+proposition: 'As empresas que receberam os recursos destinados ao grupo de intimidação são duas, ambas
+  de sócio único, ambas em Belo Horizonte, ambas com capital social declarado de exatamente R$ 1 milhão,
+  e ambas com situação cadastral SUSPENSA desde 03/03/2026 por determinação judicial: a King Participações
+  Imobiliárias Ltda (CNPJ 47.855.227/0001-82, aberta em 06/09/2022, corretagem de imóveis) e a King Motors
+  Locação de Veículos e Participações Ltda (CNPJ 36.944.533/0001-79, aberta em 16/04/2020, locação de
+  automóveis, com CNAE secundário de holding). O sócio-administrador único de ambas é Luiz Phillipi Machado
+  de Moraes Mourão. RESSALVA EDITORIAL IMPORTANTE: o corpo da decisão do STF menciona ''King Empreendimentos
+  Imobiliários e Participações Ltda'' como destinatária da transferência de R$ 1 milhão, mas o dispositivo
+  suspende as duas empresas nomeadas acima. Existe uma empresa registrada com aquele nome exato (CNPJ
+  29.883.638/0001-08), também em Belo Horizonte, cujos sócios não têm relação identificada com o caso
+  e que permanece ativa, nunca tendo sido suspensa — trata-se, portanto, de imprecisão na decisão, e o
+  corpus não vincula essa terceira empresa ao caso.'
+document_ids: []
+source_ids:
+- src-brasilapi-2026-king-participacoes-imobiliarias
+- src-brasilapi-2026-king-motors-locacao
+date: '2026-03-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'
