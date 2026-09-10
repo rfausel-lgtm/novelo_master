@@ -1,0 +1,30 @@
+id: academia-nacional-de-cultura
+kind: organization
+name: Academia Nacional de Cultura
+full_name: Academia Nacional de Cultura (ANC)
+aliases:
+- ANC
+org_type: association
+cnpj: 38.244.438/0001-98
+jurisdiction: Brasil
+summary: Organização da sociedade civil presidida por Karina Ferreira da Gama, a mesma que preside o Instituto Conhecer
+  Brasil, com o qual, segundo a decisão do STF de 03/09/2026, compartilha integrantes, procuradores e administradores.
+  Foi indicada como beneficiária de emendas dos deputados federais Marcos Pollon (R$ 1 milhão) e Bia Kicis (R$ 150
+  mil) destinadas ao estado de São Paulo para o projeto 'Heróis Nacionais', mas nenhum valor lhe foi repassado,
+  por óbices normativos e técnicos na celebração do termo de parceria. Em 03/09/2026 teve suspensa, por decisão
+  judicial, qualquer atividade de natureza econômica ou financeira.
+why_in_novelo: É a segunda entidade presidida por Karina Ferreira da Gama alcançada pela investigação sobre emendas
+  parlamentares que corre no STF ao lado da frente do filme 'Dark Horse'.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública da entidade sobre a decisão foi localizada até 10/09/2026.
+open_questions:
+- A decisão não detalha a atividade própria da entidade antes das emendas; o acervo não localizou prestação de contas
+  ou histórico de projetos executados.
+source_ids:
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

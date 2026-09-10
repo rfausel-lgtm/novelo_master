@@ -1,0 +1,20 @@
+id: ev-decisao-da-make-up-nao-menciona-vorcaro-nem-o-banco-master
+kind: evidence
+classification: D
+proposition: 'A leitura integral das 150 páginas da decisão de 03/09/2026 não encontra uma única menção a Daniel
+  Vorcaro, ao Banco Master, ao Havengate Development Fund, a Flávio Bolsonaro ou a Eduardo Bolsonaro: a frente relatada
+  por Flávio Dino trata de emendas parlamentares e contratos administrativos, e não do dinheiro que, segundo o Coaf
+  e a imprensa, teria saído do banqueiro para o filme.'
+document_ids:
+- doc-2026-09-03-decisao-dino-pet16669-operacao-make-up
+locator: documento integral
+date: '2026-09-10'
+notes: Conclusão negativa obtida por busca textual sobre a extração integral do PDF, conferida pela equipe. Importa
+  para a leitura do caso porque as duas frentes correm com relatores distintos — a do financiamento, com André Mendonça;
+  a das emendas, com Flávio Dino — e manchetes que descrevem a operação como investigação do 'financiamento do filme'
+  atribuem à decisão um alcance que ela não tem.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

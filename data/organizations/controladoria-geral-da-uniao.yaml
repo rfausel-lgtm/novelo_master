@@ -1,0 +1,26 @@
+id: controladoria-geral-da-uniao
+kind: organization
+name: Controladoria-Geral da União
+full_name: Controladoria-Geral da União (CGU)
+aliases:
+- CGU
+org_type: public_body
+jurisdiction: União
+summary: 'Órgão de controle interno do Poder Executivo federal. Foi a origem documental da investigação que resultou
+  na Operação Make Up: a Nota Técnica nº 2180/2026/CINV/DIOPE/SFC, sobre a execução de quatro emendas parlamentares
+  destinadas ao Instituto Conhecer Brasil e à Academia Nacional de Cultura, motivou a instauração do inquérito policial
+  em 23/06/2026 por determinação do ministro Flávio Dino. A CGU produziu ainda o Relatório de Apuração nº 2007711
+  e a Nota Técnica nº 2770/2026/DS/SFC, esta com aprofundamento mantido fora dos autos principais para preservar
+  o sigilo da investigação.'
+why_in_novelo: É o órgão cuja nota técnica deu origem à investigação sobre emendas parlamentares que corre no STF
+  em conexão com o caso do filme 'Dark Horse'.
+cited_position:
+- kind: not_located
+  summary: O acervo não localizou manifestação pública específica do órgão sobre a operação.
+source_ids:
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

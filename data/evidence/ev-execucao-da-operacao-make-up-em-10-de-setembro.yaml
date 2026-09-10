@@ -1,0 +1,17 @@
+id: ev-execucao-da-operacao-make-up-em-10-de-setembro
+kind: evidence
+classification: C
+proposition: A Polícia Federal deflagrou a Operação Make Up na manhã de 10/09/2026, cumprindo 49 mandados de busca
+  e apreensão autorizados pelo ministro Flávio Dino, com o deputado federal Mário Frias e Karina Gama entre os alvos.
+document_ids: []
+source_ids:
+- src-cartacapital-2026-09-10-operacao-make-up-49-mandados
+- src-brasildefato-2026-09-10-dino-derruba-sigilo-e-cita-deputados
+date: '2026-09-10'
+notes: O número de mandados cumpridos e a data de deflagração não constam da decisão, que autoriza as buscas sem
+  fixar quantidade; vêm da cobertura de imprensa.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

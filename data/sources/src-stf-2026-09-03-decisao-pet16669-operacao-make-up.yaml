@@ -1,0 +1,35 @@
+id: src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+kind: source
+title: Decisão do ministro Flávio Dino na PET 16.669/DF, de 3 de setembro de 2026, que autorizou a Operação Make
+  Up
+publisher: Supremo Tribunal Federal
+publication_date: '2026-09-03'
+retrieved_at: '2026-09-10'
+url: https://tvtnews.com.br/wp-content/uploads/2026/09/Decisao-PET-16669.pdf
+source_type: official_court
+summary: 'Decisão de 150 páginas, com sigilo levantado em 10/09/2026 por determinação contida nela própria, lida
+  integralmente pela equipe. Defere representação da autoridade policial incidental à PET 16.070/DF e determina:
+  a avocação ao STF do inquérito e da cautelar de busca que tramitavam na Vara Estadual das Garantias de Organizações
+  Criminosas de São Paulo; busca e apreensão domiciliar contra 29 pessoas físicas e 24 pessoas jurídicas; busca
+  pessoal em onze investigados; suspensão de toda atividade econômica ou financeira do Instituto Conhecer Brasil
+  e da Academia Nacional de Cultura; suspensão do direito de licitar e contratar com o poder público de 22 empresas,
+  entre elas a produtora Go Up Entertainment Ltda.; suspensão de qualquer pagamento oriundo de contratos públicos
+  a essas empresas; proibição de comunicação entre 29 investigados; e proibição de que os mesmos 29 deixem o país,
+  com entrega de passaporte. O objeto declarado é o desvio de recursos de emendas parlamentares repassadas a duas
+  organizações sociais presididas por Karina Ferreira da Gama, com o deputado federal Mário Frias apontado como
+  integrante do núcleo político.'
+notes: Documento autenticável no portal do STF pelo código A132-0D33-4041-A2AB e senha EFED-208E-B081-2FB8. Cópia
+  baixada e conferida pela equipe em raw/dark-horse (SHA-256 43470bf5801a2c2dcea098f2b2225e10d5c0ca0d4ea878d01a358441f705d7a2).
+  O arquivo publicado por veículo de imprensa é a íntegra da decisão, com as partes sob sigilo suprimidas no cabeçalho
+  pelo próprio tribunal. A leitura integral registra que a decisão NÃO menciona Daniel Vorcaro, o Banco Master,
+  o Havengate Development Fund, Flávio Bolsonaro ou Eduardo Bolsonaro.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura integral das 150 páginas do PDF, com extração de texto conferida)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

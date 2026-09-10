@@ -1,0 +1,39 @@
+id: evt-2026-09-10-operacao-make-up
+kind: event
+title: PF deflagra a Operação Make Up e cai o sigilo da decisão que a autorizou
+event_type: investigation_step
+date: '2026-09-10'
+location: Distrito Federal, São Paulo, Rio de Janeiro e Ceará
+participant_ids:
+- policia-federal
+- flavio-dino
+- mario-frias
+- karina-ferreira-da-gama
+- instituto-conhecer-brasil
+- go-up-entertainment
+- academia-nacional-de-cultura
+description: 'A Polícia Federal cumpriu na manhã de 10/09/2026 os mandados autorizados sete dias antes pelo ministro
+  Flávio Dino na PET 16.669/DF, e a decisão perdeu o sigilo por cláusula que ela própria trazia: ''cumpridas as
+  diligências de busca e apreensão, determino o levantamento do sigilo''. A apuração trata do desvio de recursos
+  de emendas parlamentares repassadas a duas organizações sociais presididas por Karina Ferreira da Gama, e alcança
+  o deputado federal Mário Frias, roteirista e produtor executivo do filme ''Dark Horse''. Além das buscas, a decisão
+  suspendeu a atividade econômica das duas entidades, barrou 22 empresas de contratar com o poder público, suspendeu
+  pagamentos de contratos públicos a elas, proibiu 29 investigados de deixar o país e de se comunicarem entre si,
+  e avocou ao Supremo o inquérito paulista do contrato de wi-fi.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-decisao-de-3-de-setembro-autorizou-a-operacao-make-up
+- ev-execucao-da-operacao-make-up-em-10-de-setembro
+- ev-stf-avocou-o-inquerito-paulista-do-contrato-de-wifi
+document_ids:
+- doc-2026-09-03-decisao-dino-pet16669-operacao-make-up
+source_ids:
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+- src-cartacapital-2026-09-10-operacao-make-up-49-mandados
+- src-brasildefato-2026-09-10-dino-derruba-sigilo-e-cita-deputados
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

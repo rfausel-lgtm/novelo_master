@@ -1,0 +1,44 @@
+id: doc-2026-09-03-decisao-dino-pet16669-operacao-make-up
+kind: document
+title: A decisão que autorizou a Operação Make Up, lida por inteiro
+doc_type: judicial_decision
+date: '2026-09-03'
+source_ids:
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+sha256: 43470bf5801a2c2dcea098f2b2225e10d5c0ca0d4ea878d01a358441f705d7a2
+url: https://tvtnews.com.br/wp-content/uploads/2026/09/Decisao-PET-16669.pdf
+reference: PET 16.669/DF, relator ministro Flávio Dino; representação incidental à PET 16.070/DF
+summary: 'Cento e cinquenta páginas assinadas em 03/09/2026, com o sigilo levantado por cláusula da própria decisão
+  assim que cumpridas as buscas, o que ocorreu em 10/09/2026. A investigação nasceu da Nota Técnica nº 2180/2026
+  da Controladoria-Geral da União sobre quatro emendas parlamentares: duas do deputado federal Mário Frias, que
+  somaram R$ 2 milhões e custearam os Termos de Fomento nº 971232 e nº 964068 com o Instituto Conhecer Brasil; uma
+  do deputado Marcos Pollon (R$ 1 milhão) e uma da deputada Bia Kicis (R$ 150 mil), ambas destinadas à Academia
+  Nacional de Cultura por intermédio do governo de São Paulo e nunca repassadas. As duas entidades são presididas
+  pela mesma pessoa, Karina Ferreira da Gama. O texto reproduz longamente a representação policial, que descreve
+  contratações com indícios de vínculos cruzados, empresas criadas às vésperas dos contratos, objetos sociais alterados,
+  doadores da campanha do parlamentar entre os contratados e pagamento a escritório do advogado do próprio deputado.
+  O filme ''Dark Horse'' aparece em dois pontos: no resumo das reportagens que motivaram a apuração e na descrição
+  da produtora Go Up Entertainment Ltda. como destinatária de recursos de pessoas e empresas do núcleo investigado.
+  A parte financeira analisa relatórios de inteligência do Coaf e registra a movimentação da produtora entre 10/11/2025
+  e 30/12/2025. No dispositivo, o ministro avoca ao Supremo o inquérito paulista do contrato de wi-fi, defere as
+  buscas, suspende a atividade econômica das duas organizações sociais, suspende o direito de contratar com o poder
+  público de 22 empresas e os pagamentos de contratos públicos a elas, proíbe a comunicação entre 29 investigados
+  e os impede de deixar o país. Determina ainda cautelas incomuns na execução: veda exposição audiovisual dos alvos,
+  nega acesso de veículos de comunicação aos endereços e proíbe agentes de antecipar culpa em entrevistas ou redes
+  sociais.'
+is_official: true
+issuer_id: flavio-dino
+related_entity_ids:
+- mario-frias
+- karina-ferreira-da-gama
+- instituto-conhecer-brasil
+- go-up-entertainment
+- academia-nacional-de-cultura
+- policia-federal
+- supremo-tribunal-federal
+excerpt: Cumpridas as diligências de busca e apreensão, determino o levantamento do sigilo desta decisão.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -4,37 +4,43 @@ name: Mário Frias
 category: politician
 role: Deputado federal (PL-SP); ex-secretário especial da Cultura; produtor-executivo de 'Dark Horse'
 positions: []
-summary: Deputado federal e ator, ex-secretário especial da Cultura no governo Bolsonaro. É produtor-executivo
-  de 'Dark Horse'. Em 11/12/2024 enviou áudio a Vorcaro agradecendo o apoio ao filme, segundo o Intercept;
-  pediu a Thiago Miranda a ponte com o banqueiro para um encontro com Jair Bolsonaro (março de 2025).
-  Em nota de 13/05/2026 negou uso de dinheiro de Vorcaro no filme.
-why_in_novelo: Produtor-executivo do filme 'Dark Horse' que, segundo áudio divulgado pela imprensa, agradeceu
-  a Daniel Vorcaro pelo apoio à produção; sua negativa pública está registrada.
+summary: Deputado federal e ator, ex-secretário especial da Cultura no governo Bolsonaro. É produtor-executivo de
+  'Dark Horse'. Em 11/12/2024 enviou áudio a Vorcaro agradecendo o apoio ao filme, segundo o Intercept; pediu a
+  Thiago Miranda a ponte com o banqueiro para um encontro com Jair Bolsonaro (março de 2025). Em nota de 13/05/2026
+  negou uso de dinheiro de Vorcaro no filme.
+why_in_novelo: Produtor-executivo do filme 'Dark Horse' que, segundo áudio divulgado pela imprensa, agradeceu a
+  Daniel Vorcaro pelo apoio à produção; sua negativa pública está registrada.
 cited_position:
 - kind: denial
   summary: 'Em nota: Flávio Bolsonaro não tem sociedade no filme ou na produtora; segundo a GOUP Entertainment,
-    não há investimento de Vorcaro na obra; o projeto é 100% financiado por capital privado; denunciou
-    campanha de descredibilização por motivação ideológica.'
+    não há investimento de Vorcaro na obra; o projeto é 100% financiado por capital privado; denunciou campanha
+    de descredibilização por motivação ideológica.'
   source_ids:
   - src-gazeta-2026-05-13-frias-nega
   by_id: mario-frias
   date: '2026-05-13'
 - kind: denial
-  summary: Em maio de 2026 a defesa negou ao ministro Flávio Dino qualquer triangulação de emendas para
-    financiar o filme, classificando a alegação como 'puramente especulativa'.
+  summary: Em maio de 2026 a defesa negou ao ministro Flávio Dino qualquer triangulação de emendas para financiar
+    o filme, classificando a alegação como 'puramente especulativa'.
   source_ids:
   - src-correiodoestado-2026-08-24-dino-compartilhamento
   by_id: mario-frias
   date: 2026-05
 open_questions:
-- O corpus não registra manifestação de Frias sobre o áudio de 11/12/2024 divulgado pelo Intercept em
-  19/05/2026.
+- O corpus não registra manifestação de Frias sobre o áudio de 11/12/2024 divulgado pelo Intercept em 19/05/2026.
+- Alvo de busca e apreensão domiciliar e pessoal na Operação Make Up, deflagrada em 10/09/2026, e sujeito a proibição
+  de deixar o país, de se comunicar com outros 28 investigados e a entrega de passaporte. A decisão que autorizou
+  a operação registra que ele transferiu R$ 645.400,00 à produtora Go Up Entertainment entre 10/11 e 30/12/2025
+  e observa que seus rendimentos mensais são de R$ 44.008,52, o que, no texto, 'coloca em questão o lastro financeiro'
+  das transferências. A mesma decisão o aponta, na transcrição da representação policial, como integrante do núcleo
+  político da organização investigada — hipótese de investigação, não juízo condenatório.
 source_ids:
 - src-gazeta-2026-05-13-frias-nega
 - src-intercept-2026-05-19-audio-frias
 - src-intercept-2026-05-14-plano-bolsonaro-mansao
 - src-intercept-2026-05-15-eduardo-contrato-dark-horse
 - src-correiodoestado-2026-08-24-dino-compartilhamento
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
 aliases:
 - Mario Frias
 full_name: Mário Frias
@@ -44,7 +50,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-10'
 photo:
   path: /fotos/mario-frias.jpg
   source: Wikimedia Commons

@@ -6,33 +6,41 @@ aliases:
 - GOUP Entertainment
 org_type: company
 summary: Produtora sediada nos Estados Unidos responsável pelo filme 'Dark Horse', biografia de Jair Bolsonaro.
-  Consta como produtora no contrato de novembro de 2023 descrito pelo Intercept; recebia recursos encaminhados
-  pelo Havengate Development Fund, segundo a CNN. Declarou, em perícia privada anexada a processo em São
-  Paulo, custo de US$ 13,3 milhões para o filme (Metrópoles). Sua dona, segundo o Metrópoles, representa
-  também o Instituto Conhecer Brasil, investigado por suspeita de desvio de contrato com a Prefeitura
-  de São Paulo. É dirigida por Karina Ferreira da Gama, que também preside o Instituto Conhecer Brasil,
-  contratado pela Prefeitura de São Paulo em termo de colaboração de R$ 108 milhões investigado pela Polícia
-  Civil.
+  Consta como produtora no contrato de novembro de 2023 descrito pelo Intercept; recebia recursos encaminhados pelo
+  Havengate Development Fund, segundo a CNN. Declarou, em perícia privada anexada a processo em São Paulo, custo
+  de US$ 13,3 milhões para o filme (Metrópoles). Sua dona, segundo o Metrópoles, representa também o Instituto Conhecer
+  Brasil, investigado por suspeita de desvio de contrato com a Prefeitura de São Paulo. É dirigida por Karina Ferreira
+  da Gama, que também preside o Instituto Conhecer Brasil, contratado pela Prefeitura de São Paulo em termo de colaboração
+  de R$ 108 milhões investigado pela Polícia Civil.
 why_in_novelo: Produtora do filme 'Dark Horse', destinatária final, segundo a imprensa, dos recursos transferidos
   por Daniel Vorcaro a fundo nos Estados Unidos.
 cited_position:
 - kind: denial
-  summary: Segundo nota reproduzida por Mário Frias, a GOUP Entertainment afirmou não haver 'um único
-    centavo' de Vorcaro na obra.
+  summary: Segundo nota reproduzida por Mário Frias, a GOUP Entertainment afirmou não haver 'um único centavo' de
+    Vorcaro na obra.
   source_ids:
   - src-gazeta-2026-05-13-frias-nega
   by_id: go-up-entertainment
   date: '2026-05-13'
 - kind: denial
-  summary: Karina Gama, que responde pela produtora, nega organização criminosa, evasão de divisas e lavagem
-    de dinheiro, e comprometeu-se a entregar a prestação de contas do filme à PF.
+  summary: Karina Gama, que responde pela produtora, nega organização criminosa, evasão de divisas e lavagem de
+    dinheiro, e comprometeu-se a entregar a prestação de contas do filme à PF.
   source_ids:
   - src-cnn-2026-08-26-produtora-entrega-documentos
   by_id: karina-ferreira-da-gama
   date: '2026-08-26'
 open_questions:
-- A estrutura societária da Go Up e sua relação formal com o Havengate Development Fund não foram verificadas
-  em registros oficiais pela equipe.
+- A estrutura societária da Go Up e sua relação formal com o Havengate Development Fund não foram verificadas em
+  registros oficiais pela equipe.
+- 'PRECISÃO trazida pela decisão do STF de 03/09/2026: são duas pessoas jurídicas com o mesmo nome — a Go Up Entertainment
+  Ltda., inscrita no cadastro nacional sob o nº 44.447.509/0001-52, que é a produtora cujas contas foram analisadas
+  e que teve suspenso o direito de contratar com o poder público, e a Go Up Entertainment LLC, sediada no exterior,
+  citada pelo ministro como elemento do risco de evasão dos investigados. O corpus descrevia a produtora apenas
+  como sediada nos Estados Unidos. A decisão registra que a empresa brasileira movimentou R$ 19.033.071,00 entre
+  10/11/2025 e 30/12/2025, período das filmagens, tendo como principais remetentes a Moneycorp Banco de Câmbio (R$
+  3,92 milhões), a GO7 (R$ 2,61 milhões), uma pessoa física (R$ 1 milhão), a NTT Brasil (R$ 750 mil) e o deputado
+  federal Mário Frias (R$ 645,4 mil), e como principais destinatários o Hotel Unique (R$ 906,7 mil), a BAW Facilitadora
+  de Pagamentos (R$ 896,7 mil) e a Foodflix Alimentação (R$ 653,1 mil).'
 source_ids:
 - src-intercept-2026-05-15-eduardo-contrato-dark-horse
 - src-congressoemfoco-2026-05-15-duvidas-filme
@@ -45,9 +53,11 @@ source_ids:
 - src-cnn-2026-08-26-produtora-entrega-documentos
 - src-correiodoestado-2026-08-24-dino-compartilhamento
 - src-jb-2026-05-17-quem-e-karina-ferreira-da-gama
-jurisdiction: Estados Unidos
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+jurisdiction: Brasil (Ltda.) e Estados Unidos (LLC)
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-10'
+cnpj: 44.447.509/0001-52

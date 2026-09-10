@@ -1,0 +1,25 @@
+id: bia-kicis
+kind: person
+name: Bia Kicis
+category: politician
+role: Deputada federal pelo Distrito Federal
+summary: Deputada federal eleita pelo Distrito Federal. É citada na decisão do STF de 03/09/2026 como autora da
+  emenda parlamentar nº 202439190003, de R$ 150 mil, destinada à Academia Nacional de Cultura por intermédio do
+  governo do estado de São Paulo. A Controladoria-Geral da União apontou aparente desconformidade com a exigência
+  de vinculação federativa, já que a parlamentar foi eleita por outra unidade da federação. Nenhum valor da emenda
+  chegou a ser repassado à entidade.
+why_in_novelo: É autora de uma das quatro emendas parlamentares examinadas na investigação do STF sobre recursos
+  destinados às entidades ligadas ao filme 'Dark Horse'.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública da parlamentar sobre a decisão foi localizada até 10/09/2026.
+open_questions:
+- A decisão não a inclui entre os investigados, entre os alvos de busca ou entre os destinatários de medidas cautelares;
+  o acervo não localizou peça que esclareça se ela é objeto de apuração própria.
+source_ids:
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

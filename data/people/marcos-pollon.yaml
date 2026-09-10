@@ -1,0 +1,25 @@
+id: marcos-pollon
+kind: person
+name: Marcos Pollon
+category: politician
+role: Deputado federal por Mato Grosso do Sul
+summary: Deputado federal eleito por Mato Grosso do Sul. É citado na decisão do STF de 03/09/2026 como autor da
+  emenda parlamentar nº 202444200010, de R$ 1 milhão, destinada à Academia Nacional de Cultura por intermédio do
+  governo do estado de São Paulo. A Controladoria-Geral da União apontou aparente desconformidade com a exigência
+  de vinculação federativa, já que o parlamentar foi eleito por outro estado. Nenhum valor da emenda chegou a ser
+  repassado à entidade.
+why_in_novelo: É autor de uma das quatro emendas parlamentares examinadas na investigação do STF sobre recursos
+  destinados às entidades ligadas ao filme 'Dark Horse'.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública do parlamentar sobre a decisão foi localizada até 10/09/2026.
+open_questions:
+- A decisão não o inclui entre os investigados, entre os alvos de busca ou entre os destinatários de medidas cautelares;
+  o acervo não localizou peça que esclareça se ele é objeto de apuração própria.
+source_ids:
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

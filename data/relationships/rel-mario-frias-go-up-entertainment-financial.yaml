@@ -1,0 +1,26 @@
+id: rel-mario-frias-go-up-entertainment-financial
+kind: relationship
+from_id: mario-frias
+to_id: go-up-entertainment
+relationship_type: financial
+directed: true
+label: transferiu R$ 645,4 mil
+start_date: '2025-11-10'
+end_date: '2025-12-30'
+description: A decisão do STF de 03/09/2026 registra, a partir de relatório de inteligência financeira, que o deputado
+  federal Mário Frias transferiu R$ 645.400,00 à produtora entre 10/11/2025 e 30/12/2025 — período das filmagens
+  do filme de que é roteirista e produtor executivo —, e observa que seus rendimentos mensais são de R$ 44.008,52.
+evidence_class: D
+confidence: 0.9
+status: verified
+evidence_ids:
+- ev-frias-transferiu-645-mil-a-produtora-e-a-decisao-questiona-o-lastro
+document_ids:
+- doc-2026-09-03-decisao-dino-pet16669-operacao-make-up
+source_ids:
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
