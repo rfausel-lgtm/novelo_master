@@ -18,12 +18,14 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
   metodologia prescreve, e nenhum trabalho editorial apagava o aviso. Aviso que não se resolve vira
   ruído e ensina a ignorar o painel. De quebra, a regra antiga não pegava o caso que importa: nada
   impedia citar um blog dentro de uma evidência documental.
-- Exceção no `.gitleaks.toml` para o token do Cloudflare Web Analytics, que o beacon serve no HTML de
-  todas as páginas e portanto é público por construção. O gitleaks o acusava como `generic-api-key`
-  pela entropia e, varrendo o histórico inteiro com branches não mesclados, deixava a varredura de
-  segredos vermelha em toda execução. A exceção casa apenas a linha que nomeia a constante: um
-  segredo de verdade no mesmo arquivo continua sendo acusado, o que está coberto por teste. As
-  allowlists passaram de `[allowlist]` para `[[allowlists]]`, forma que o gitleaks 8.30 exige.
+- A varredura de segredos acusava um `generic-api-key` que não estava em `main`: o token do Cloudflare
+  Web Analytics, literal no fonte do branch não mesclado `claude/site-access-tracking-wdl4av`. Como o
+  gitleaks varre o histórico inteiro, inclusive branches, o alarme tocava em toda execução — e detector
+  permanentemente vermelho ensina a ignorá-lo. O branch foi apagado (ponta em `3a9cee7`, recuperável
+  pelo SHA enquanto o GitHub não coleta), e com ele o achado. Nenhuma exceção por valor ficou no
+  `.gitleaks.toml`: token não deve ser literal no fonte nem quando o valor é público, e o beacon volta
+  por variável `NEXT_PUBLIC_*` declarada em `.env.example`. As allowlists passaram de `[allowlist]`
+  para `[[allowlists]]`, forma que o gitleaks 8.30 exige.
 
 ### Adicionado
 

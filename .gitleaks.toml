@@ -13,15 +13,7 @@ paths = [
   '''\.env\.example$''',
 ]
 
-# O token do Cloudflare Web Analytics não é credencial: o snippet do beacon é servido no HTML de
-# todas as páginas, então o valor é público por construção — quem abre o site já o tem. O gitleaks
-# o classifica como generic-api-key pela entropia, e como varre o histórico inteiro do repositório,
-# inclusive branches não mesclados, o alarme tocava em toda execução do CI. Um detector de segredos
-# permanentemente vermelho ensina a ignorá-lo, e ele é justamente a salvaguarda deste projeto.
-#
-# A exceção é estreita de propósito: casa apenas a linha que nomeia esta constante. Qualquer outro
-# segredo, no mesmo arquivo ou no mesmo commit, continua sendo acusado.
-[[allowlists]]
-description = "Token do Cloudflare Web Analytics: público por construção, vai no HTML de cada página"
-regexTarget = "line"
-regexes = ['''CLOUDFLARE_ANALYTICS_TOKEN''']
+# Não há exceção por valor aqui, e é de propósito: nenhum token deve ser literal no código-fonte,
+# nem quando o valor é público. O beacon do Cloudflare Web Analytics, que já rendeu um alarme, volta
+# por variável de ambiente (NEXT_PUBLIC_*) declarada em .env.example — assim não há entropia no fonte
+# para o scanner acusar, e a exceção deixa de ser necessária.
