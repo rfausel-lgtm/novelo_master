@@ -1,6 +1,5 @@
 import type { Metadata, Viewport } from "next";
 import { IBM_Plex_Sans, IBM_Plex_Mono } from "next/font/google";
-import Script from "next/script";
 import "./globals.css";
 import { SITE } from "@/lib/site";
 import { SiteHeader } from "@/components/layout/SiteHeader";
@@ -55,6 +54,12 @@ export const metadata: Metadata = {
   ],
 };
 
+/*
+ * Identificador público do site no Cloudflare Web Analytics — não é segredo, fica exposto no HTML
+ * de qualquer página que o use. gitleaks:allow (evita falso positivo do scanner de segredos)
+ */
+const CLOUDFLARE_ANALYTICS_TOKEN = "ad1892765eeb44a29a675b7f2a9ff4c3";
+
 export const viewport: Viewport = {
   themeColor: [
     { media: "(prefers-color-scheme: dark)", color: "#090C11" },
@@ -87,11 +92,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     >
       <head>
         <script dangerouslySetInnerHTML={{ __html: TEMA_INICIAL }} />
-        <Script
-          strategy="afterInteractive"
-          type="module"
+        <script
+          defer
           src="https://static.cloudflareinsights.com/beacon.min.js"
-          data-cf-beacon='{"token": "ad1892765eeb44a29a675b7f2a9ff4c3"}'
+          data-cf-beacon={`{"token": "${CLOUDFLARE_ANALYTICS_TOKEN}"}`}
         />
       </head>
       <body className="bg-bg text-fg flex min-h-full flex-col">
