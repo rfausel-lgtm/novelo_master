@@ -246,3 +246,79 @@ describe("duplicação de entidade", () => {
     expect(lintCorpus(corpus).some((i) => /duplicata|rótulo idêntico/.test(i.message))).toBe(false);
   });
 });
+
+/*
+ * Blog e rede social: a regra pergunta como a fonte é usada, não se ela existe.
+ *
+ * A versão anterior avisava no registro da própria fonte, e por isso deixou o modo estrito vermelho
+ * por dias — as duas fontes do ainvestigacao.com sustentam apenas evidências de Inferência, que é
+ * exatamente o uso que a política prescreve, e nenhum trabalho editorial apagava o aviso.
+ */
+describe("fonte de pista (blog/rede social)", () => {
+  const comBlog = (classificacao: "D" | "C" | "A" | "I") => {
+    const c = minimalCorpus();
+    c.sources.push({
+      id: "src-blog",
+      kind: "source",
+      title: "Post",
+      publisher: "A Investigação",
+      retrieved_at: "2026-09-01",
+      url: "https://blog.example/x",
+      source_type: "blog",
+      language: "pt-BR",
+      verification: {
+        checked_at: "2026-09-01",
+        checked_by: "teste",
+        url_reachable: true,
+        content_matches_summary: true,
+      },
+      review_status: "published",
+      created_at: "2026-09-01",
+      updated_at: "2026-09-01",
+    } as unknown as Corpus["sources"][number]);
+    c.evidence.push({
+      id: "ev-blog",
+      kind: "evidence",
+      classification: classificacao,
+      proposition: "Proposição sustentada pelo post.",
+      document_ids: classificacao === "D" ? ["doc-1"] : [],
+      source_ids: classificacao === "C" ? ["src-blog", "src-oficial"] : ["src-blog"],
+      attributed_to: classificacao === "A" ? "David Ágape" : undefined,
+      inference_basis:
+        classificacao === "I" ? "O post é a pista; o nexo não se conclui." : undefined,
+      review_status: "published",
+      created_at: "2026-09-01",
+      updated_at: "2026-09-01",
+    } as unknown as Corpus["evidence"][number]);
+    return c;
+  };
+
+  const avisoDePista = (c: Corpus) =>
+    lintCorpus(c).filter(
+      (i) => i.level === "warning" && /como pista, não como prova/.test(i.message),
+    );
+
+  it("avisa quando um blog sustenta evidência documental", () => {
+    expect(avisoDePista(comBlog("D"))).toHaveLength(1);
+  });
+
+  it("avisa quando um blog entra na corroboração", () => {
+    expect(avisoDePista(comBlog("C"))).toHaveLength(1);
+  });
+
+  it("cala quando o blog sustenta uma alegação: é o uso que a política manda", () => {
+    expect(avisoDePista(comBlog("A"))).toEqual([]);
+  });
+
+  it("cala quando o blog sustenta uma inferência: o caso do ainvestigacao.com", () => {
+    expect(avisoDePista(comBlog("I"))).toEqual([]);
+  });
+
+  it("não avisa nada só por a fonte de blog existir no acervo", () => {
+    const c = comBlog("I");
+    c.evidence = c.evidence.filter((e) => e.id !== "ev-blog");
+    expect(lintCorpus(c).filter((i) => i.level === "warning" && /blog/.test(i.message))).toEqual(
+      [],
+    );
+  });
+});

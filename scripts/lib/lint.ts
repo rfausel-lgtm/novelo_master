@@ -19,7 +19,8 @@ import type { LoadIssue } from "./load";
  * AVISOS (não bloqueiam; em modo estrito bloqueiam apenas registros publicados):
  *  - vocabulário imputativo sem qualificador de alegação;
  *  - agente sem cited_position; claim sem counter_position ou sem adversarial_review;
- *  - fonte sem verification; fonte de rede social/blog;
+ *  - fonte sem verification;
+ *  - evidência D ou C apoiada em fonte de blog/rede social (em A e I a fonte de pista é o esperado);
  *  - prefixo de id fora da convenção;
  *  - tokens de um nome contidos no de outro registro do mesmo tipo, sem `distinct_from` declarado.
  *
@@ -253,13 +254,6 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     checkPrefix(file, "source", s.id, pub);
     if (!s.verification)
       warn(file, "fonte sem bloco verification (Source Verification Agent)", pub);
-    if (s.source_type === "social_media" || s.source_type === "blog") {
-      warn(
-        file,
-        `fonte ${s.source_type}: usar apenas como pista, salvo publicação da própria pessoa`,
-        pub,
-      );
-    }
   }
 
   /* ---- documentos ---- */
@@ -271,6 +265,37 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     if (d.issuer_id) checkRefs(file, "issuer_id", [d.issuer_id], AGENT);
     if (!d.url && !d.raw_path && d.source_ids.length === 0) {
       err(file, "documento sem url, raw_path ou source_ids: não rastreável");
+    }
+  }
+
+  /**
+   * Blog e rede social são pista, não prova — e a política manda usá-los assim, não bani-los.
+   *
+   * A checagem é sobre o USO, e não sobre a existência da fonte. A versão anterior avisava no
+   * próprio registro da fonte: publicar um blog deixava o aviso aceso para sempre, porque nenhum
+   * trabalho editorial o resolvia, e o modo estrito ficava vermelho por mérito nenhum. Pior, ela
+   * não pegava o caso que importa — nada impedia citar um blog dentro de uma evidência documental.
+   *
+   * Em Alegação e Inferência a fonte fraca está no lugar certo: é exatamente a pista que a classe
+   * declara ser. Em Documental direto e Corroborado, não: ali ela sustenta o fato.
+   */
+  const FONTE_DE_PISTA = new Set(["blog", "social_media"]);
+  function checarFonteFraca(
+    file: string,
+    classe: EvidenceClass,
+    source_ids: string[],
+    publicado: boolean,
+  ) {
+    if (classe !== "D" && classe !== "C") return;
+    for (const id of source_ids) {
+      const tipo = sources.get(id)?.source_type;
+      if (tipo && FONTE_DE_PISTA.has(tipo)) {
+        warn(
+          file,
+          `classe ${classe} apoiada em fonte ${tipo} (${id}): blog e rede social valem como pista, não como prova`,
+          publicado,
+        );
+      }
     }
   }
 
@@ -297,6 +322,7 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
     if (e.classification === "I" && !e.inference_basis) {
       err(file, "classe I exige inference_basis (raciocínio e limite explícitos)");
     }
+    checarFonteFraca(file, e.classification, e.source_ids, pub);
     checkImputation(file, "proposition", e.proposition, pub);
   }
 

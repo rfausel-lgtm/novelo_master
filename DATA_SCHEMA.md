@@ -433,7 +433,7 @@ Sequências:
 
 - Prefixo de id fora da convenção: `evt-` (events), `ato-` (public-acts), `src-` (sources), `doc-` (documents), `ev-` (evidence), `rel-` (relationships), `tx-` (transactions), `claim-` (claims), `seq-` (sequences). Pessoas, organizações e revisões não têm prefixo verificado.
 - Fonte sem bloco `verification`.
-- Fonte de tipo `social_media` ou `blog`.
+- Evidência de classe `D` ou `C` com fonte de tipo `social_media` ou `blog` em `source_ids`. O aviso é sobre o uso, não sobre a existência da fonte: em classes `A` e `I` a fonte de pista está no lugar que a metodologia lhe reserva e não gera aviso.
 - Pessoa ou organização sem `cited_position`.
 - Claim sem `counter_position`.
 - Claim publicado sem `adversarial_review`.

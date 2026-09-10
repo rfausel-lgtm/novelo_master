@@ -5,10 +5,23 @@ title = "O Novelo Master — secret scanning"
 [extend]
 useDefault = true
 
-[allowlist]
+[[allowlists]]
 description = "Arquivos que não contêm segredos por construção"
 paths = [
   '''package-lock\.json$''',
   '''\.gitleaks\.toml$''',
   '''\.env\.example$''',
 ]
+
+# O token do Cloudflare Web Analytics não é credencial: o snippet do beacon é servido no HTML de
+# todas as páginas, então o valor é público por construção — quem abre o site já o tem. O gitleaks
+# o classifica como generic-api-key pela entropia, e como varre o histórico inteiro do repositório,
+# inclusive branches não mesclados, o alarme tocava em toda execução do CI. Um detector de segredos
+# permanentemente vermelho ensina a ignorá-lo, e ele é justamente a salvaguarda deste projeto.
+#
+# A exceção é estreita de propósito: casa apenas a linha que nomeia esta constante. Qualquer outro
+# segredo, no mesmo arquivo ou no mesmo commit, continua sendo acusado.
+[[allowlists]]
+description = "Token do Cloudflare Web Analytics: público por construção, vai no HTML de cada página"
+regexTarget = "line"
+regexes = ['''CLOUDFLARE_ANALYTICS_TOKEN''']

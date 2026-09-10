@@ -9,6 +9,22 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
 
 ## [Não publicado]
 
+### Corrigido
+
+- O aviso de fonte `blog`/`social_media` passou a olhar o uso, e não a existência da fonte: ele só
+  dispara em evidência de classe D ou C, onde a pista estaria sendo tratada como prova. Antes disparava
+  no registro da própria fonte, e por isso o `data:lint --strict` ficou vermelho por dias — as duas
+  fontes do ainvestigacao.com sustentam apenas evidências de classe I, que é exatamente o uso que a
+  metodologia prescreve, e nenhum trabalho editorial apagava o aviso. Aviso que não se resolve vira
+  ruído e ensina a ignorar o painel. De quebra, a regra antiga não pegava o caso que importa: nada
+  impedia citar um blog dentro de uma evidência documental.
+- Exceção no `.gitleaks.toml` para o token do Cloudflare Web Analytics, que o beacon serve no HTML de
+  todas as páginas e portanto é público por construção. O gitleaks o acusava como `generic-api-key`
+  pela entropia e, varrendo o histórico inteiro com branches não mesclados, deixava a varredura de
+  segredos vermelha em toda execução. A exceção casa apenas a linha que nomeia a constante: um
+  segredo de verdade no mesmo arquivo continua sendo acusado, o que está coberto por teste. As
+  allowlists passaram de `[allowlist]` para `[[allowlists]]`, forma que o gitleaks 8.30 exige.
+
 ### Adicionado
 
 - Checagem de duplicação de pessoa e organização no pipeline, depois de um lote criar três entidades

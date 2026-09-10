@@ -69,7 +69,7 @@ Veículos com apuração própria, política de correção pública e assinatura
 
 ### Pistas
 
-Wikipedia (`encyclopedic`), blogs e redes sociais de terceiros (`blog`, `social_media`) servem para localizar documentos. Não sustentam registro sozinhos e geram aviso no lint. Publicação da própria pessoa ou organização (site, perfil oficial, nota) é `self_published` e vale para o que ela disse e para `cited_position`.
+Wikipedia (`encyclopedic`), blogs e redes sociais de terceiros (`blog`, `social_media`) servem para localizar documentos. Não sustentam registro sozinhos, e o lint avisa quando aparecem em evidência de classe D ou C, isto é, quando a pista passa a ser tratada como prova. Publicação da própria pessoa ou organização (site, perfil oficial, nota) é `self_published` e vale para o que ela disse e para `cited_position`.
 
 ## 3. Como capturar uma fonte
 
