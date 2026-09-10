@@ -12,10 +12,28 @@
 # o script carregava, a contagem não acontecia, e nada no site denunciava isso. Só o console do
 # navegador acusava. Não confie na documentação aqui; confira com read_console_messages depois de
 # qualquer mudança nesta linha.
+#
+# NÃO REPONHA `X-Frame-Options: DENY`. Ele saiu de propósito, e repor derruba o embed da Revista
+# Oeste sem nenhum aviso — o site continua no ar, só some de dentro da página deles.
+#
+# A Revista Oeste pediu autorização para embutir o Novelo, e quem controla isso é `frame-ancestors`.
+# O X-Frame-Options não sabe liberar domínio específico: a sintaxe que fazia isso, `ALLOW-FROM`, foi
+# abandonada, e a documentação da Mozilla é explícita em que navegador moderno que a encontra ignora
+# o cabeçalho inteiro. Manter os dois seria manter uma contradição, com o risco de algum navegador ou
+# intermediário obedecer ao DENY.
+#
+# Liberar o enquadramento não abre buraco NESTE site porque não há o que sequestrar: sem login, sem
+# cookie (produção não devolve Set-Cookie), sem formulário, e as únicas requisições são GET de JSON
+# estático do próprio domínio. Clickjacking precisa de uma ação que valha a autoridade do visitante,
+# e aqui não existe nenhuma. Se um dia existir — formulário de direito de resposta enviado no próprio
+# site, inscrição, qualquer botão com efeito —, esta linha volta a ser decisão de segurança e precisa
+# ser reavaliada ANTES de a funcionalidade entrar.
+#
+# Cada host é uma origem distinta: `revistaoeste.com` não cobre `www.revistaoeste.com`. Domínio novo
+# (homologação, preview, CMS) exige acréscimo explícito aqui.
 /*
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; worker-src 'self' blob:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; worker-src 'self' blob:; frame-ancestors 'self' https://revistaoeste.com https://www.revistaoeste.com; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests
   X-Content-Type-Options: nosniff
-  X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
