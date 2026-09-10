@@ -6,11 +6,13 @@ aliases:
 - CEDAE
 org_type: public_body
 jurisdiction: Estado do Rio de Janeiro
-summary: Estatal fluminense de saneamento básico. Segundo reportagem do UOL de 10/09/2026, a partir da terceira
+summary: 'Estatal fluminense de saneamento básico. Segundo reportagem do UOL de 10/09/2026, a partir da terceira
   proposta de colaboração premiada de Daniel Vorcaro, investiu R$ 200 milhões em produtos do Banco Master — valor
   distinto dos regimes próprios de previdência, porque a Cedae não é entidade previdenciária, e sim empresa estatal
   com tesouraria própria. É um dos quatro entes que, segundo Vorcaro, tiveram acesso ao banco intermediado por ACM
-  Neto e Antônio Rueda em troca de comissão de 10%.
+  Neto e Antônio Rueda em troca de comissão de 10%. PRECISÃO (10/09/2026): segundo auditoria do TCE-RJ relatada
+  pela Band em 25/11/2025, o valor é R$ 237 milhões, não R$ 200 milhões, e a estatal declarou que a movimentação
+  seguiu suas políticas de investimento, governança e compliance.'
 why_in_novelo: É a única entidade não previdenciária entre os entes públicos citados na proposta de colaboração
   de Vorcaro sobre a comissão política de captação para o Banco Master, o que amplia o alcance da alegação para
   além dos regimes de previdência.
@@ -23,9 +25,13 @@ open_questions:
   o confirme.
 - Não está esclarecido se o investimento é de recursos operacionais da companhia, de fundo de pensão de seus empregados,
   ou de outra natureza — a reportagem não distingue.
+- O TCE-RJ já havia identificado e noticiado o aporte da Cedae (R$ 237 milhões) quatro meses antes de a proposta
+  de colaboração de Vorcaro citar o mesmo ente com valor arredondado (R$ 200 milhões) — a coincidência de datação
+  entre as duas fontes não foi investigada.
 source_ids:
 - src-revistaforum-2026-09-10-acm-neto-rueda-comissao-rpps-master
 - src-jgb-2026-09-10-delacao-vorcaro-conta-corrente-gerencial
+- src-band-2025-11-25-tce-aponta-2-6-bilhoes-rioprevidencia
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-10'

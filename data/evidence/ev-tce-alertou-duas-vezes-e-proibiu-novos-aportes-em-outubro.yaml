@@ -1,0 +1,19 @@
+id: ev-tce-alertou-duas-vezes-e-proibiu-novos-aportes-em-outubro
+kind: evidence
+classification: D
+proposition: O TCE-RJ alertou o Rioprevidência sobre a concentração de recursos no Banco Master em maio de 2025,
+  repetiu a cobrança em outubro, e diante da continuidade dos aportes determinou tutela inibitória proibindo novos
+  investimentos em produtos do banco.
+document_ids:
+- doc-2026-09-10-reconciliacao-dos-numeros-do-rioprevidencia-no-master
+source_ids:
+- src-cnnbrasil-2026-01-23-rioprevidencia-seguiu-aplicando-apos-alerta-tce
+- src-temporealrj-2026-05-26-rioprevidencia-quase-3-bilhoes
+date: 2025-10
+excerpt: Cabe pontuar o cenário de grave omissão da Presidência da autarquia previdenciária com a situação tratada
+  nestes autos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

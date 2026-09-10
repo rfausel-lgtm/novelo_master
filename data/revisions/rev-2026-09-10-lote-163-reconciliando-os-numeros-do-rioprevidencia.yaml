@@ -1,0 +1,36 @@
+id: rev-2026-09-10-lote-163-reconciliando-os-numeros-do-rioprevidencia
+kind: revision
+date: '2026-09-10'
+title: 'Lote 163 — reconciliando os números do Rioprevidência: de R$ 970 milhões a R$ 3,7 bilhões'
+summary: 'O acervo trazia três cifras para o mesmo caso, sem explicar a diferença entre elas. Este lote monta a
+  linha do tempo e resolve duas das três lacunas. Os R$ 970 milhões são o núcleo original: nove operações em letras
+  financeiras entre novembro de 2023 e julho de 2024, objeto da Operação Barco de Papel (23/01/2026), com Deivis
+  Marcon Antunes, diretor-presidente, preso, e um mecanismo de recuperação judicial já em curso desde dezembro de
+  2025 — retenção via desconto de consignados, com liquidação prevista em cerca de dois anos, segundo a própria
+  autarquia. A partir de dezembro de 2024, mesmo depois de dois alertas formais do TCE-RJ (maio e outubro de 2025),
+  o fundo abriu uma segunda frente, agora em cotas de fundos administrados pelo próprio grupo Master — os fundos
+  Arena (mais de R$ 1 bilhão acumulado, rentabilidade de 4,05% contra 9,31% do CDI), Revolution e Texas (este, R$
+  100 milhões reduzidos a R$ 75,751 milhões em um mês), mais R$ 301 milhões em três letras financeiras adicionais
+  ''sem qualquer transparência''. A auditoria do TCE somava essa segunda frente a R$ 2,6 bilhões em 25/11/2025;
+  a Polícia Federal, reapurando o mesmo conjunto seis meses depois, na 8ª fase da Compliance Zero, chegou a R$ 2,01
+  bilhões — crescimento consistente com o intervalo entre as duas contagens. Somados ao núcleo original, dão os
+  ''cerca de R$ 3 bilhões'' que a imprensa registrou em 26/05/2026. A terceira cifra, os R$ 3,7 bilhões citados
+  pela PGR na mesma data, permanece sem explicação encontrada: fica registrada como inferência fraca, não confirmada,
+  a hipótese de que incorpore juros e correção monetária ou perdas projetadas que a conta da PF não soma ao principal.
+  Uma quarta cifra, os R$ 6,5 bilhões de uma auditoria extraordinária mais ampla do TCE, é expressamente desqualificada
+  como comparável: cobre também o Banco Genial (mera custódia, sem exposição de crédito), a Mirae Asset e o Banco
+  Digimais. Entram ainda no acervo: o valor mais preciso do aporte da Cedae, R$ 237 milhões (não R$ 200 milhões,
+  como constava do lote anterior), com a nota da estatal de que seguiu suas políticas de compliance; o registro
+  de que o Ministério da Previdência já contava 19 entes federativos com aplicação no Master até fevereiro de 2026,
+  um a mais que os dezoito que abriram esta frente — o décimo nono segue não identificado; e Pedro Pinheiro Guerra
+  Leal, terceiro dirigente do Rioprevidência nomeado como alvo da Barco de Papel.'
+affected_ids:
+- rioprevidencia
+- banco-master
+- cedae
+- claudio-castro
+- deivis-marcon-antunes
+reason: Reconciliação dos números do Rioprevidência pedida pelo editor, na sequência do lote 162.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'

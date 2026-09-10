@@ -1,0 +1,22 @@
+id: ev-decisao-judicial-retem-970-milhoes-via-consignado
+kind: evidence
+classification: D
+proposition: Decisão judicial de dezembro de 2025 determinou a retenção de cerca de R$ 970 milhões, acrescidos de
+  juros e correção monetária, referentes aos valores investidos pelo Rioprevidência no Master, via descontos de
+  empréstimos consignados que seriam repassados ao banco — mecanismo pelo qual a autarquia projeta liquidar o investimento
+  em cerca de dois anos.
+document_ids:
+- doc-2026-09-10-reconciliacao-dos-numeros-do-rioprevidencia-no-master
+source_ids:
+- src-cnnbrasil-2026-01-23-rioprevidencia-seguiu-aplicando-apos-alerta-tce
+date: 2025-12
+excerpt: O Rioprevidência destaca ainda que está resguardado por decisão judicial, de dezembro de 2025, que determinou
+  a retenção de cerca de R$ 970 milhões, acrescidos de juros e correção monetária.
+notes: O mecanismo de recuperação identificado cobre apenas o núcleo original de R$ 970 milhões em letras financeiras;
+  o corpus não localizou mecanismo equivalente, judicial ou administrativo, para a segunda frente de R$ 2 a 2,6
+  bilhões em cotas de fundos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

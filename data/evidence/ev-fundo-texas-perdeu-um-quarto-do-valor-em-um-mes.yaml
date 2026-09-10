@@ -1,0 +1,20 @@
+id: ev-fundo-texas-perdeu-um-quarto-do-valor-em-um-mes
+kind: evidence
+classification: D
+proposition: O Rioprevidência aportou R$ 100 milhões no fundo Texas, administrado pelo Banco Master, em junho de
+  2025; em um mês, segundo o TCE, o valor da cota caiu para R$ 75.751.000,00 — perda de cerca de um quarto.
+document_ids:
+- doc-2026-09-10-reconciliacao-dos-numeros-do-rioprevidencia-no-master
+source_ids:
+- src-band-2025-11-25-tce-aponta-2-6-bilhoes-rioprevidencia
+date: 2025-06
+excerpt: R$ 100 milhões foram investidos no Fundo Texas (...). Em apenas um mês, o montante virou R$ 75 milhões
+  e 751 mil, segundo o TCE.
+notes: É a queda de valor mais rápida e mais alta registrada em qualquer aplicação do Rioprevidência no grupo Master;
+  o corpus não localizou explicação técnica para a perda nem manifestação da autarquia especificamente sobre este
+  fundo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

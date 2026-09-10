@@ -1,0 +1,47 @@
+id: doc-2026-09-10-reconciliacao-dos-numeros-do-rioprevidencia-no-master
+kind: document
+title: 'Reconciliação: quatro números para a exposição do Rioprevidência ao Master, e o que cada um mede'
+doc_type: official_report
+date: '2026-09-10'
+source_ids:
+- src-band-2025-11-25-tce-aponta-2-6-bilhoes-rioprevidencia
+- src-cnnbrasil-2026-01-23-rioprevidencia-seguiu-aplicando-apos-alerta-tce
+- src-cnnbrasil-2026-05-26-entenda-como-o-rio-investiu-3-bi
+- src-temporealrj-2026-05-26-rioprevidencia-quase-3-bilhoes
+summary: 'O acervo registrava três cifras para o mesmo caso — R$ 970 milhões, ''quase R$ 3 bilhões'' e R$ 3,7 bilhões
+  — sem explicar a diferença. Este documento reconstrói a linha do tempo e mostra que as duas primeiras se explicam
+  por escopo temporal e as duas últimas continuam sem explicação encontrada. Base: R$ 970 milhões é o núcleo original,
+  nove operações em Letras Financeiras entre novembro de 2023 e julho de 2024, objeto da Operação Barco de Papel
+  (deflagrada em 23/01/2026, com prisão de Deivis Marcon Antunes, diretor-presidente). A partir de dezembro de 2024,
+  mesmo após alertas do TCE-RJ (maio e outubro de 2025), o fundo abriu uma segunda frente, agora em cotas de fundos
+  de investimento administrados pelo próprio grupo Master, não mais em títulos diretos: o fundo Arena (R$ 50 milhões
+  iniciais em 19/12/2024, mais de R$ 1 bilhão acumulado, rentabilidade média de 4,05% contra 9,31% do CDI), o fundo
+  Revolution (mais de R$ 100 milhões em dois aportes de março de 2025) e o fundo Texas (R$ 100 milhões em junho
+  de 2025, reduzidos a R$ 75,751 milhões em um mês), além de mais R$ 301 milhões em três letras financeiras adicionais,
+  ''sem qualquer transparência'', também em março de 2025. Levantamento do TCE-RJ, de 25/11/2025, somava essa segunda
+  frente a R$ 2,6 bilhões de exposição total ao Master até aquela data. Em 26/05/2026, na 8ª fase da Compliance
+  Zero, a Polícia Federal reapurou a mesma segunda frente e chegou a R$ 2,01 bilhões — que, somados ao R$ 970 milhões
+  original, dão ''cerca de R$ 3 bilhões'', número compatível com o crescimento natural dos R$ 2,6 bilhões do TCE
+  seis meses antes. Nesse mesmo dia, porém, a decisão do STF que autorizou a busca na casa de Cláudio Castro cita
+  estimativa da PGR de R$ 3,7 bilhões — R$ 700 milhões acima da conta da própria PF, sem que nenhuma fonte consultada
+  explique a origem da diferença. Fica registrada a hipótese mais provável, não confirmada: a PGR pode incorporar
+  juros e correção monetária acumulados sobre os R$ 970 milhões, já reconhecidos por decisão judicial de dezembro
+  de 2025, ou projeções de perda que a PF não soma ao principal. Distinto de tudo isso é o número de R$ 6,5 bilhões,
+  de auditoria extraordinária do TCE-RJ relatada por José Gomes Graciosa: cobre não só o Master, mas também o Banco
+  Genial (que apenas custodia títulos públicos do Rioprevidência, sem exposição de crédito), a Mirae Asset e o Banco
+  Digimais — não deve ser somado nem comparado diretamente às cifras específicas do Master.'
+is_official: false
+related_entity_ids:
+- rioprevidencia
+- banco-master
+- claudio-castro
+- deivis-marcon-antunes
+- eucherio-lerner-rodrigues
+issuer: Levantamento da equipe, a partir de quatro reportagens
+url: https://www.band.com.br/bandnews-fm/rio-de-janeiro/noticias/tce-aponta-indicios-de-irregularidades-em-quase-r-2-bilhoes-de-investimentos-do-rioprevidencia-202511251445
+reference: TCE-RJ (25/11/2025), Operação Barco de Papel (23/01/2026), Operação Compliance Zero 8ª fase (26/05/2026)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

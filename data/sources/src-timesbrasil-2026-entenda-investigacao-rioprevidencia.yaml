@@ -1,0 +1,29 @@
+id: src-timesbrasil-2026-entenda-investigacao-rioprevidencia
+kind: source
+title: 'Rioprevidência: entenda a investigação do TCE-RJ sobre bilhões em investimentos'
+publisher: Times Brasil | CNBC
+publication_date: 2026-09
+retrieved_at: '2026-09-10'
+url: https://timesbrasil.com.br/brasil/entenda-a-investigacao-que-envolve-a-rioprevidencia/
+source_type: press
+summary: 'Descreve uma auditoria extraordinária do TCE-RJ, relatada pelo conselheiro José Gomes Graciosa, que soma
+  R$ 6,5 bilhões em aplicações financeiras do Rioprevidência sob exame — mas cobre quatro instituições, não só o
+  Banco Master: o próprio Master, o Banco Genial, a Mirae Asset e o Banco Digimais. Esclarece que a relação do Genial
+  com o fundo é de custódia de títulos públicos federais e execução de ordens, sem exposição de crédito — a investigação,
+  nesse caso, trata do registro contábil das operações, não de inadimplência. A natureza da relação com o Digimais
+  não foi detalhada publicamente pelo Tribunal. Registra ainda que o TCE cobrou explicações sobre R$ 118 milhões
+  aplicados no fim de 2025 em fundos de instituições cujo credenciamento não estava concluído, e que as investigações
+  ganharam força após o julgamento das contas estaduais de 2025, quando a Corte apontou ausência de provisão para
+  perdas relacionadas ao Master.'
+notes: 'É a fonte que evita o erro de tratar R$ 6,5 bilhões como sinônimo de exposição ao Master: o valor é do escopo
+  da auditoria, não do risco específico com o banco liquidado.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (captura local e leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

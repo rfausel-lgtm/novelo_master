@@ -1,0 +1,19 @@
+id: ev-mps-atualizou-de-18-para-19-entes-ate-fevereiro-de-2026
+kind: evidence
+classification: C
+proposition: Levantamento do Ministério da Previdência até fevereiro de 2026, citado pela CNN, aponta 19 entes federativos
+  com aplicações no Banco Master — um a mais que os dezoito do levantamento de 19/11/2025 que baseou a abertura
+  desta frente investigativa; o décimo nono ente não foi nomeado na reportagem nem localizado pela equipe em outra
+  fonte.
+document_ids:
+- doc-2026-09-10-reconciliacao-dos-numeros-do-rioprevidencia-no-master
+source_ids:
+- src-cnnbrasil-2026-05-26-entenda-como-o-rio-investiu-3-bi
+date: '2026-05-26'
+notes: 'Fio em aberto: identificar o décimo nono ente exige a mesma consulta primária ao CadPrev que está bloqueada
+  por reCAPTCHA, ou nova reportagem que o nomeie.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,19 @@
+id: ev-6-5-bilhoes-do-tce-nao-e-comparavel-ao-numero-do-master
+kind: evidence
+classification: D
+proposition: 'O valor de R$ 6,5 bilhões, de auditoria extraordinária do TCE-RJ relatada por José Gomes Graciosa,
+  não é específico do Banco Master: cobre também o Banco Genial — cuja relação com o Rioprevidência é de mera custódia
+  de títulos públicos federais, sem exposição de crédito —, a Mirae Asset e o Banco Digimais, cuja natureza de relação
+  com o fundo o Tribunal não detalhou publicamente.'
+document_ids:
+- doc-2026-09-10-reconciliacao-dos-numeros-do-rioprevidencia-no-master
+source_ids:
+- src-timesbrasil-2026-entenda-investigacao-rioprevidencia
+date: '2026-09-10'
+notes: Registrado para que este número maior não seja somado ou confundido, em coberturas futuras, com as cifras
+  específicas de exposição ao Master.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

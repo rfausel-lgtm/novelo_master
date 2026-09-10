@@ -3,12 +3,18 @@ kind: organization
 name: RioPrevidência
 aliases: []
 org_type: public_body
-summary: Autarquia responsável pela gestão e pagamento das aposentadorias e pensões dos servidores do Estado do
+summary: 'Autarquia responsável pela gestão e pagamento das aposentadorias e pensões dos servidores do Estado do
   Rio de Janeiro. Segundo comunicação oficial do STF, a PF investiga aportes de cerca de R$ 3,7 bilhões da autarquia
   em fundos e letras financeiras do Banco Master. Em 10/09/2026, o UOL revelou proposta de colaboração de Vorcaro
   atribuindo a ACM Neto e a Antônio Rueda a intermediação política do acesso do Master à autarquia, mediante comissão
   de 10%; a proposta cita R$ 2,97 bilhões investidos pelo Rioprevidência entre 2023 e 2025, o maior entre os quatro
-  entes citados.
+  entes citados. RECONCILIAÇÃO (10/09/2026): os R$ 970 milhões são o núcleo original em letras financeiras (nov/2023-jul/2024,
+  Operação Barco de Papel, 23/01/2026); a partir de dez/2024, mesmo após dois alertas do TCE-RJ, abriu-se segunda
+  frente em cotas de fundos do próprio Master (Arena, Revolution, Texas), que o TCE somava a R$ 2,6 bi em 25/11/2025
+  e a PF, reapurando o mesmo conjunto, a R$ 2,01 bi em 26/05/2026 — juntos, ''cerca de R$ 3 bi''. Os R$ 3,7 bi da
+  PGR, mesma data, seguem sem explicação encontrada. Os R$ 6,5 bi de outra auditoria do TCE NÃO são exposição ao
+  Master: cobrem também Genial (mera custódia), Mirae Asset e Digimais. Decisão judicial de dez/2025 já retém os
+  R$ 970 mi via desconto de consignados, com liquidação prevista em ~2 anos.'
 why_in_novelo: Seus aportes em produtos do Banco Master são objeto da 8ª fase da Operação Compliance Zero, segundo
   comunicação oficial do STF.
 cited_position:
@@ -32,6 +38,9 @@ open_questions:
 - A proposta de colaboração não esclarece se a comissão de 10% incidiu sobre o total investido pelo Rioprevidência
   ou sobre parcela dele, nem distingue a atuação específica de ACM Neto e Rueda da atuação de Cláudio Castro, já
   investigada na 8ª fase da Compliance Zero.
+- 'A diferença de R$ 700 milhões entre a estimativa de R$ 3 bi da PF e de R$ 3,7 bi da PGR, ambas de 26/05/2026,
+  permanece sem explicação encontrada em nenhuma fonte consultada; hipótese não confirmada: juros e correção monetária,
+  ou perdas projetadas, somados por uma das partes e não pela outra.'
 source_ids:
 - src-stf-2026-05-26-oitava-fase-castro
 - src-conjur-2026-07-17-pge-rj-cobra-master-rioprevidencia
@@ -41,6 +50,11 @@ source_ids:
 - src-stj-2026-03-19-mantem-prisao-deivis
 - src-revistaforum-2026-09-10-acm-neto-rueda-comissao-rpps-master
 - src-jgb-2026-09-10-delacao-vorcaro-conta-corrente-gerencial
+- src-band-2025-11-25-tce-aponta-2-6-bilhoes-rioprevidencia
+- src-cnnbrasil-2026-01-23-rioprevidencia-seguiu-aplicando-apos-alerta-tce
+- src-cnnbrasil-2026-05-26-entenda-como-o-rio-investiu-3-bi
+- src-temporealrj-2026-05-26-rioprevidencia-quase-3-bilhoes
+- src-timesbrasil-2026-entenda-investigacao-rioprevidencia
 full_name: Fundo Único de Previdência Social do Estado do Rio de Janeiro
 review_status: published
 reviewer: orquestrador

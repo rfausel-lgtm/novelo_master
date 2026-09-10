@@ -1,0 +1,16 @@
+id: ev-cedae-diz-que-investimento-seguiu-politicas-de-compliance
+kind: evidence
+classification: A
+proposition: A Cedae afirmou que a movimentação financeira no Banco Master esteve de acordo com suas políticas de
+  investimento, governança e compliance.
+document_ids:
+- doc-2026-09-10-reconciliacao-dos-numeros-do-rioprevidencia-no-master
+source_ids:
+- src-band-2025-11-25-tce-aponta-2-6-bilhoes-rioprevidencia
+attributed_to: Cedae, em nota à Band News FM
+date: '2025-11-25'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
