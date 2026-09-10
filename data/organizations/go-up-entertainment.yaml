@@ -41,6 +41,13 @@ open_questions:
   3,92 milhões), a GO7 (R$ 2,61 milhões), uma pessoa física (R$ 1 milhão), a NTT Brasil (R$ 750 mil) e o deputado
   federal Mário Frias (R$ 645,4 mil), e como principais destinatários o Hotel Unique (R$ 906,7 mil), a BAW Facilitadora
   de Pagamentos (R$ 896,7 mil) e a Foodflix Alimentação (R$ 653,1 mil).'
+- 'Cadastro federal consultado em 10/09/2026: capital social declarado de R$ 100.000,00, atividade principal de
+  estúdios cinematográficos, existência desde 01/12/2021 e uma única sócia-administradora — contra R$ 19 milhões
+  movimentados em cinquenta e um dias. O maior remetente do período é a Moneycorp Banco de Câmbio, instituição autorizada
+  pelo Banco Central, o que indica entrada de recursos do exterior liquidada em reais; quem remeteu de fora não
+  está identificado em documento algum lido pela equipe. Um dos aportes, o de R$ 1 milhão do publicitário Marcello
+  Lopes, está amparado em contrato denominado em dólares (US$ 185.185,19) e assinado seis meses depois do dinheiro,
+  em 04/06/2026.'
 source_ids:
 - src-intercept-2026-05-15-eduardo-contrato-dark-horse
 - src-congressoemfoco-2026-05-15-duvidas-filme
@@ -54,6 +61,9 @@ source_ids:
 - src-correiodoestado-2026-08-24-dino-compartilhamento
 - src-jb-2026-05-17-quem-e-karina-ferreira-da-gama
 - src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+- src-bcb-olinda-2026-09-10-moneycorp-banco-de-cambio-autorizado
+- src-minhareceita-2026-09-10-moneycorp-e-go-up-entertainment
+- src-metropoles-2026-09-10-marcelao-confirma-aporte-de-um-milhao
 jurisdiction: Brasil (Ltda.) e Estados Unidos (LLC)
 review_status: published
 reviewer: orquestrador

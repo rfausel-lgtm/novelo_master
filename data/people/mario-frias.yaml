@@ -34,6 +34,11 @@ open_questions:
   e observa que seus rendimentos mensais são de R$ 44.008,52, o que, no texto, 'coloca em questão o lastro financeiro'
   das transferências. A mesma decisão o aponta, na transcrição da representação policial, como integrante do núcleo
   político da organização investigada — hipótese de investigação, não juízo condenatório.
+- Em 10/09/2026, o publicitário Marcello Lopes declarou à imprensa que aportou R$ 1 milhão na produtora do filme
+  A PEDIDO DE MÁRIO FRIAS, em dezembro de 2025, depois que os repasses de Daniel Vorcaro pararam em outubro daquele
+  ano e a produção 'abriu cotas para investimento'. É declaração de terceiro, atribuída, e contrasta com a nota
+  do próprio deputado, de 13/05/2026, segundo a qual não haveria 'um único centavo' de Vorcaro na obra. O corpus
+  não localizou resposta de Frias a essa declaração específica.
 source_ids:
 - src-gazeta-2026-05-13-frias-nega
 - src-intercept-2026-05-19-audio-frias
@@ -41,6 +46,7 @@ source_ids:
 - src-intercept-2026-05-15-eduardo-contrato-dark-horse
 - src-correiodoestado-2026-08-24-dino-compartilhamento
 - src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+- src-metropoles-2026-09-10-marcelao-confirma-aporte-de-um-milhao
 aliases:
 - Mario Frias
 full_name: Mário Frias

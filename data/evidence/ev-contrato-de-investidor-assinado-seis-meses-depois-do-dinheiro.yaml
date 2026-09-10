@@ -1,0 +1,19 @@
+id: ev-contrato-de-investidor-assinado-seis-meses-depois-do-dinheiro
+kind: evidence
+classification: A
+proposition: O contrato que dá suporte ao aporte de Marcello Lopes registra US$ 185.185,19 em favor da produtora,
+  feitos em dezembro de 2025, mas só foi assinado em 04/06/2026, já sob a repercussão do caso Master; o investidor
+  atribui a defasagem a ajustes de cláusulas entre as partes.
+document_ids:
+- doc-2026-06-04-contrato-de-investidor-de-marcello-lopes-com-a-go-up
+source_ids:
+- src-metropoles-2026-09-10-marcelao-confirma-aporte-de-um-milhao
+attributed_to: Metrópoles (coluna Igor Gadelha), a partir de contrato entregue pelo próprio investidor
+date: '2026-06-04'
+notes: O documento não foi lido pela equipe; o que se conhece dele vem da descrição e das imagens publicadas pela
+  coluna. Registre-se que o aporte de um brasileiro foi denominado em dólares.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

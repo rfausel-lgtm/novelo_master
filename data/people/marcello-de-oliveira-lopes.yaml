@@ -1,0 +1,41 @@
+id: marcello-de-oliveira-lopes
+kind: person
+name: Marcello Lopes
+full_name: Marcello de Oliveira Lopes
+aliases:
+- Marcellão
+category: businessperson
+role: Publicitário; ex-marqueteiro da pré-campanha presidencial de Flávio Bolsonaro
+summary: Publicitário e amigo pessoal de Flávio Bolsonaro, de quem foi marqueteiro na pré-campanha presidencial
+  até 20/05/2026, quando deixou a função em meio à repercussão das mensagens entre o senador e Daniel Vorcaro sobre
+  o financiamento de 'Dark Horse'. É nomeado na decisão do STF de 03/09/2026 como remetente de R$ 1 milhão à produtora
+  do filme entre 10/11 e 30/12/2025, sem qualquer qualificação. Procurado pela imprensa no dia da queda do sigilo,
+  confirmou o repasse, descreveu-o como aporte de investidor feito a pedido do deputado Mário Frias e apresentou
+  contrato de US$ 185.185,19 assinado em 04/06/2026, seis meses depois do dinheiro. Não figura entre os investigados,
+  os alvos de busca ou os destinatários de medidas cautelares da Operação Make Up.
+why_in_novelo: É o remetente de R$ 1 milhão à produtora de 'Dark Horse' citado na decisão do STF, e liga esse aporte
+  ao entorno político do senador Flávio Bolsonaro.
+cited_position:
+- kind: clarification
+  summary: 'Confirmou o repasse e o descreveu como investimento: disse que aportou a pedido de Mário Frias, depois
+    que ''parou de ter o dinheiro que Vorcaro investia'' em outubro de 2025 e a produção abriu cotas, e atribuiu
+    a assinatura tardia do contrato a ajustes de cláusulas entre as partes.'
+  source_ids:
+  - src-metropoles-2026-09-10-marcelao-confirma-aporte-de-um-milhao
+  by_id: marcello-de-oliveira-lopes
+  date: '2026-09-10'
+open_questions:
+- A origem dos recursos do aporte não foi objeto de exame em nenhum documento lido pela equipe.
+- O corpus não localizou o contrato em si — apenas a descrição e as imagens publicadas pela coluna que o recebeu
+  do próprio investidor.
+- Não há, nos documentos lidos, elemento que ligue o aporte a Flávio Bolsonaro; o que está documentado é a relação
+  profissional e pessoal entre os dois.
+source_ids:
+- src-metropoles-2026-09-10-marcelao-confirma-aporte-de-um-milhao
+- src-cnnbrasil-2026-05-20-flavio-troca-marqueteiro-apos-dark-horse
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

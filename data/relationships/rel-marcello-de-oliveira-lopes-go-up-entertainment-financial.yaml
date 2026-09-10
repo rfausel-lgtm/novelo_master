@@ -1,0 +1,28 @@
+id: rel-marcello-de-oliveira-lopes-go-up-entertainment-financial
+kind: relationship
+from_id: marcello-de-oliveira-lopes
+to_id: go-up-entertainment
+relationship_type: financial
+directed: true
+label: aportou R$ 1 milhão
+start_date: 2025-12
+description: A decisão do STF de 03/09/2026 registra remessa de R$ 1.000.000,00 do publicitário à produtora entre
+  10/11 e 30/12/2025. Ele confirmou o repasse e o descreve como aporte de investidor, feito a pedido do deputado
+  Mário Frias, com contrato de US$ 185.185,19 assinado apenas em 04/06/2026.
+evidence_class: D
+confidence: 0.9
+status: verified
+evidence_ids:
+- ev-decisao-registra-remessa-de-um-milhao-por-marcello-de-oliveira-lopes
+- ev-marcello-lopes-confirma-aporte-de-um-milhao-como-investidor
+- ev-contrato-de-investidor-assinado-seis-meses-depois-do-dinheiro
+document_ids:
+- doc-2026-09-03-decisao-dino-pet16669-operacao-make-up
+source_ids:
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+- src-metropoles-2026-09-10-marcelao-confirma-aporte-de-um-milhao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

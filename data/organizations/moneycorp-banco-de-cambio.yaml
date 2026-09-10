@@ -1,0 +1,35 @@
+id: moneycorp-banco-de-cambio
+kind: organization
+name: Moneycorp Banco de Câmbio
+full_name: Moneycorp Banco de Câmbio S.A.
+aliases:
+- Moneycorp
+org_type: financial_institution
+cnpj: 08.609.934/0001-37
+jurisdiction: Brasil
+summary: Instituição financeira autorizada pelo Banco Central e por ele classificada no segmento 'Banco de Câmbio',
+  com sede no Itaim Bibi, em São Paulo, atividade desde dezembro de 2006 e capital social de R$ 19,5 milhões. Bancos
+  de câmbio operam compra e venda de moeda estrangeira e transferências internacionais; ao liquidar um contrato
+  de câmbio de entrada, é a instituição que credita reais na conta do cliente. Aparece uma única vez na decisão
+  do STF de 03/09/2026, como o maior remetente isolado de recursos à produtora de 'Dark Horse' entre 10/11 e 30/12/2025,
+  com R$ 3.920.976,40, sem que o texto a qualifique ou pergunte quem remeteu do exterior.
+why_in_novelo: É o maior remetente de recursos à produtora do filme no período das filmagens, segundo a decisão
+  do STF, e a via pela qual dinheiro do exterior chega em reais a uma conta no país.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação da instituição sobre a citação foi localizada até 10/09/2026. Registre-se que instituições
+    financeiras estão sujeitas a sigilo bancário e que a citação, no documento, não lhe imputa conduta.
+open_questions:
+- Quem remeteu do exterior os recursos liquidados, em que moeda e sob qual natureza declarada de operação — nada
+  disso consta dos documentos lidos pela equipe.
+- Não há elemento documental que ligue esse crédito a Daniel Vorcaro, ao Banco Master ou ao fundo Havengate; a coincidência
+  de período com as filmagens é o que se pode afirmar.
+source_ids:
+- src-bcb-olinda-2026-09-10-moneycorp-banco-de-cambio-autorizado
+- src-minhareceita-2026-09-10-moneycorp-e-go-up-entertainment
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

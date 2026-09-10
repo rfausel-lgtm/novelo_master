@@ -1,0 +1,18 @@
+id: ev-marcello-lopes-era-marqueteiro-da-pre-campanha-de-flavio-bolsonaro
+kind: evidence
+classification: C
+proposition: Marcello Lopes, amigo pessoal de Flávio Bolsonaro, era o marqueteiro de sua pré-campanha presidencial
+  e deixou a função em 20/05/2026, substituído por Eduardo Fischer, em meio à repercussão das mensagens entre o
+  senador e Daniel Vorcaro sobre o financiamento do filme.
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-05-20-flavio-troca-marqueteiro-apos-dark-horse
+- src-metropoles-2026-09-10-marcelao-confirma-aporte-de-um-milhao
+date: '2026-05-20'
+notes: Duas fontes independentes. Por nota, à época, Lopes disse que sairia para focar na própria empresa e cumprir
+  agenda familiar nos Estados Unidos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,28 @@
+id: rel-moneycorp-banco-de-cambio-go-up-entertainment-financial
+kind: relationship
+from_id: moneycorp-banco-de-cambio
+to_id: go-up-entertainment
+relationship_type: financial
+directed: true
+label: creditou R$ 3,92 milhões (liquidação cambial)
+start_date: '2025-11-10'
+end_date: '2025-12-30'
+description: 'Segundo a decisão do STF, a instituição foi o maior remetente isolado de recursos à produtora no período,
+  com R$ 3.920.976,40. A relação é de intermediação: banco de câmbio credita em reais o valor de uma operação de
+  câmbio do cliente, e não recursos próprios. Quem remeteu do exterior não é identificado em nenhum documento lido
+  pela equipe.'
+evidence_class: D
+confidence: 0.85
+status: verified
+evidence_ids:
+- ev-maior-remetente-da-produtora-no-periodo-foi-um-banco-de-cambio
+- ev-credito-vindo-de-banco-de-cambio-indica-liquidacao-de-recurso-do-exterior
+document_ids:
+- doc-2026-09-03-decisao-dino-pet16669-operacao-make-up
+source_ids:
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

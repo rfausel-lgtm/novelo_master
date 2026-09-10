@@ -1,0 +1,37 @@
+id: doc-2026-09-10-a-via-cambial-do-maior-remetente-da-produtora
+kind: document
+title: O maior remetente da produtora é um banco de câmbio — e o que isso significa
+doc_type: official_report
+date: '2026-09-10'
+source_ids:
+- src-bcb-olinda-2026-09-10-moneycorp-banco-de-cambio-autorizado
+- src-minhareceita-2026-09-10-moneycorp-e-go-up-entertainment
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+summary: 'A decisão que autorizou a Operação Make Up lista, como maior remetente isolado de recursos à produtora
+  do filme entre 10/11 e 30/12/2025, a Moneycorp Banco de Câmbio S.A., com R$ 3.920.976,40 — mais do que a soma
+  do que enviaram o deputado Mário Frias e a NTT Brasil. O texto não diz uma palavra sobre esse remetente: não o
+  qualifica, não pergunta de onde veio o dinheiro e não o menciona em nenhum outro ponto das 150 páginas. A equipe
+  verificou o que a decisão não verificou. A Moneycorp é instituição autorizada pelo Banco Central e classificada
+  por ele no segmento ''Banco de Câmbio'', com atividade principal declarada na Receita Federal como ''Bancos de
+  câmbio'' e capital social de R$ 19,5 milhões; é, portanto, uma instituição regulada — o oposto do que a investigação
+  já documentou sobre a operadora do CredCesta. Banco de câmbio, por definição legal, opera compra e venda de moeda
+  estrangeira e transferências internacionais: não é fonte econômica de recursos próprios, é a instituição que liquida
+  a operação de um cliente. Um crédito com essa origem, num relatório de inteligência financeira sobre a conta de
+  uma empresa, corresponde tipicamente à entrega em reais de recurso vindo do exterior. Quem remeteu do exterior
+  é exatamente o que a decisão não pergunta — e é o ponto em que esta frente encosta na outra: o corpus registra
+  que o fundo Havengate, nos Estados Unidos, recebeu US$ 12,3 milhões de Daniel Vorcaro entre fevereiro e setembro
+  de 2025, e que as filmagens ocorreram em São Paulo entre outubro e dezembro daquele ano. Se e quanto desse dinheiro
+  voltou ao Brasil pela via cambial não está demonstrado em nenhum documento lido pela equipe.'
+is_official: true
+issuer: Levantamento da equipe
+related_entity_ids:
+- moneycorp-banco-de-cambio
+- go-up-entertainment
+- havengate-development-fund
+url: https://olinda.bcb.gov.br/olinda/servico/Instituicoes_em_funcionamento/versao/v1/odata/SedesBancoComMultCE?$filter=CNPJ%20eq%20%2708609934%27&$format=json
+reference: Cadastro 08.609.934/0001-37; decisão da PET 16.669/DF, p. 99
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

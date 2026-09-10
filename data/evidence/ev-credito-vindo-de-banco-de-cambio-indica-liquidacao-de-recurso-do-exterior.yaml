@@ -1,0 +1,23 @@
+id: ev-credito-vindo-de-banco-de-cambio-indica-liquidacao-de-recurso-do-exterior
+kind: evidence
+classification: I
+proposition: O crédito de R$ 3,92 milhões tendo um banco de câmbio como remetente indica, com alta probabilidade,
+  a entrega em reais de recursos vindos do exterior, e não dinheiro próprio da instituição — de modo que a maior
+  entrada de dinheiro na produtora no período das filmagens tem origem externa não identificada na decisão.
+document_ids:
+- doc-2026-09-10-a-via-cambial-do-maior-remetente-da-produtora
+inference_basis: 'Banco de câmbio é instituição cujo objeto legal é a compra e venda de moeda estrangeira e as transferências
+  internacionais; ao liquidar um contrato de câmbio de entrada, é ele quem credita reais na conta do cliente, aparecendo
+  nos extratos e nos relatórios de inteligência financeira como remetente, embora seja intermediário e não fonte
+  econômica. A inferência é forte, mas não é prova: seria afastada se os R$ 3,92 milhões correspondessem a devolução
+  de operação anterior, a serviço de pagamento doméstico prestado pela instituição, ou a liquidação de câmbio de
+  saída revertida. Nenhum documento lido pela equipe identifica o remetente no exterior, o valor em moeda estrangeira
+  ou a natureza declarada da operação, e a decisão não trata do assunto.'
+date: '2026-09-10'
+notes: 'Fica registrado o que NÃO se afirma: não há elemento documental ligando esse crédito a Daniel Vorcaro, ao
+  Banco Master ou ao fundo Havengate.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
