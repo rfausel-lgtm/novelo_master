@@ -1,0 +1,25 @@
+id: src-sbc-2023-12-22-errata-do-credenciamento-gsa-001-2023
+kind: source
+title: Notícias do Município de São Bernardo do Campo nº 2.411 — errata dos extratos do Credenciamento GSA nº 001/2023
+publisher: Notícias do Município de São Bernardo do Campo (SP)
+publication_date: '2023-12-22'
+retrieved_at: '2026-09-10'
+url: https://data.queridodiario.ok.org.br/3548708/2023-12-22/10bf816cd8b03d6df0f3dc8b267a8fd1879470c2.pdf
+source_type: official_gazette
+summary: Edição com extração integral lida pela equipe. Publica errata, na fórmula 'onde se lê / leia-se', dos extratos
+  de credenciamento do Edital GSA nº 001/2023 divulgados uma semana antes. A correção alcança a descrição do objeto
+  — que passa de 'concessão de empréstimo pessoal e cartão de crédito com desconto em folha' para 'conceder financiamento
+  de bens e serviços e saques, por meio de cartão consignado de benefícios aos servidores públicos ativos, aposentados
+  e pensionistas' — e mantém a PKL One Participações S.A. e a Neo Crédito Ltda como credenciadas distintas, com
+  o mesmo processo SB 114563/2023-38, a mesma assinatura de 14/12/2023 e a mesma vigência de sessenta meses. A errata
+  não toca no número de cadastro nacional publicado no julgamento de habilitação.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura da extração integral da edição, no acervo do Querido Diário)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

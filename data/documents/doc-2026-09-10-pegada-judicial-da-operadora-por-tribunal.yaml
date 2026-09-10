@@ -1,0 +1,27 @@
+id: doc-2026-09-10-pegada-judicial-da-operadora-por-tribunal
+kind: document
+title: A pegada judicial da operadora, tribunal a tribunal — e o Amazonas, onde não há convênio
+doc_type: official_report
+date: '2026-09-10'
+source_ids:
+- src-djen-cnj-2026-09-10-pegada-judicial-da-operadora-por-tribunal
+summary: 'Contagem completa por tribunal no diário eletrônico nacional, que substitui, por totais, os números que
+  a varredura anterior extraíra de uma amostra. São Paulo (13.944) e Rio de Janeiro (12.436) lideram; seguem Bahia
+  (8.036), Paraná (4.364), Mato Grosso do Sul (3.879) e Amazonas (3.234). O Amazonas é a anomalia: não há ali um
+  único instrumento localizado, e a série anual mostra que o litígio nasceu tarde e cresceu depressa — nenhuma comunicação
+  em 2022, uma em 2023, 56 em 2024, 1.248 em 2025 e 1.929 até setembro de 2026, com feitos espalhados por comarcas
+  do interior como Carauari, Parintins e Iranduba, além de Manaus. Em Rondônia são 67 comunicações e no Tocantins,
+  sete. A leitura conservadora é que o volume judicial mede quando o conflito estourou, não quando o produto chegou;
+  e que, onde ele estourou sem convênio localizado, o instrumento existe e não foi publicado no acervo consultado.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Conselho Nacional de Justiça — Diário de Justiça Eletrônico Nacional
+url: https://comunicaapi.pje.jus.br/
+reference: Consultas por sigla de tribunal e por ano, em 10/09/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,29 @@
+id: src-djen-cnj-2026-09-10-pegada-judicial-da-operadora-por-tribunal
+kind: source
+title: Diário eletrônico do Judiciário — comunicações com a operadora como parte, por tribunal e por ano
+publisher: Diário de Justiça Eletrônico Nacional (DJEN), Conselho Nacional de Justiça
+publication_date: '2026-09-10'
+retrieved_at: '2026-09-10'
+url: https://comunicaapi.pje.jus.br/
+source_type: official_court
+summary: 'Contagem da equipe na API pública do diário eletrônico nacional, tribunal a tribunal, com a operadora
+  como parte. Em 10/09/2026 os totais são: São Paulo 13.944, Rio de Janeiro 12.436, Bahia 8.036, Paraná 4.364, Mato
+  Grosso do Sul 3.879, Amazonas 3.234, Santa Catarina 1.337, Minas Gerais 772, Goiás 741, Maranhão 706, Mato Grosso
+  553, Amapá 343, Piauí 277, Pará 273, Paraíba 217, Pernambuco 150, Sergipe 105, Rio Grande do Sul 67, Rondônia
+  67, Espírito Santo 34, Roraima 26, Distrito Federal 26, Rio Grande do Norte 15, Alagoas 11, Tocantins 7, Ceará
+  5 e Acre zero. A série anual do Amazonas mostra o salto: nenhuma comunicação em 2022, uma em 2023, 56 em 2024,
+  1.248 em 2025 e 1.929 até setembro de 2026.'
+notes: 'A consulta por tribunal devolve no máximo dez mil no campo de contagem: São Paulo e Rio de Janeiro batem
+  nesse teto, e os números aqui registrados para os dois vêm da soma das consultas ano a ano. Comunicação não é
+  processo — um mesmo feito gera várias. A varredura anterior do corpus registrou números menores por tribunal porque
+  descreviam a composição de uma amostra de dez mil comunicações, e não os totais.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (consultas por sigla de tribunal e por ano à API pública do DJEN)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,27 @@
+id: src-procons-2023-2026-reclamacoes-em-jundiai-londrina-taubate-e-outros
+kind: source
+title: Diários municipais — reclamações fundamentadas contra a operadora em Procons de três estados
+publisher: Diários oficiais de Jundiaí, Taubaté, Marília, Barueri (SP), Londrina (PR) e Feira de Santana (BA)
+publication_date: '2026-07-08'
+retrieved_at: '2026-09-10'
+url: https://data.queridodiario.ok.org.br/4113700/2026-07-08/54962adb093d4cb54180f7e09a07d7ff90774eb8.pdf
+source_type: official_gazette
+summary: Trinta edições de oito municípios, entre 03/10/2023 e 08/08/2026, publicam listas de atendimentos de Procon
+  em que a operadora aparece como fornecedora reclamada, quase sempre na classificação 'fundamentada não atendida'
+  — o consumidor reclamou, o órgão considerou a reclamação procedente e a empresa não respondeu. Em sete dessas
+  edições o Banco Master figura no mesmo registro ou no protocolo vizinho, o que mostra os dois nomes do grupo respondendo
+  pelo mesmo atendimento. Estende para a Bahia e o Paraná uma camada que o corpus registrava apenas em municípios
+  paulistas.
+notes: As listas trazem nomes de consumidores; a apuração registra apenas os totais, a classificação e a presença
+  das duas empresas, sem reproduzir dados pessoais. A URL registrada é a da edição de Londrina de 08/07/2026; as
+  demais estão no acervo data.queridodiario.ok.org.br sob os territórios de cada município, nas datas citadas.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura dos extratos das trinta edições no acervo do Querido Diário)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

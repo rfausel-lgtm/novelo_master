@@ -1,0 +1,19 @@
+id: ev-neo-credito-e-empresa-distinta-publicada-sob-o-cadastro-da-operadora
+kind: evidence
+classification: D
+proposition: No julgamento de habilitação do Credenciamento GSA nº 001/2023 de São Bernardo do Campo, publicado
+  em 08/12/2023, a Neo Crédito Ltda foi deferida sob o número de cadastro nacional da PKL One Participações S.A.;
+  a base pública da Receita Federal mostra que a Neo Crédito é empresa distinta e ativa, sediada em Florianópolis,
+  com cadastro próprio 37.788.118/0001-36.
+document_ids:
+- doc-2023-12-08-cadastro-repetido-em-sao-bernardo-e-a-errata-que-nao-corrigiu
+excerpt: PKL ONE PARTICIPACOES S.A. 27.490.629/0001-13 DEFERIDO NEO CRÉDITO LTDA 27.490.629/0001-13 DEFERIDO
+date: '2023-12-08'
+notes: Resolve a anomalia que o corpus registrava para verificação. Nenhum vínculo societário entre a Neo Crédito
+  e o grupo investigado foi localizado, e os documentos não permitem dizer se o erro nasceu no requerimento da empresa
+  ou na transcrição do município.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,18 @@
+id: ev-camada-de-consumo-alcanca-bahia-e-parana-alem-de-sao-paulo
+kind: evidence
+classification: D
+proposition: Listas de atendimento de Procon publicadas em trinta edições de oito municípios da Bahia, do Paraná
+  e de São Paulo, entre 03/10/2023 e 08/08/2026, trazem a operadora como fornecedora reclamada, predominantemente
+  na classificação 'fundamentada não atendida', e em sete delas o Banco Master figura no mesmo registro ou no protocolo
+  vizinho.
+document_ids:
+- doc-2023-2026-camada-de-consumo-contra-a-operadora-em-tres-estados
+date: '2026-08-08'
+notes: Dezesseis das trinta edições são posteriores a 18 de novembro de 2025, o que mostra que o conflito de consumo
+  não se interrompeu com as liquidações. Em Taubaté, em 2023, quem aparece ao lado da operadora é o Banco Máxima,
+  nome anterior do banco.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,29 @@
+id: doc-2025-12-13-condenacao-administrativa-da-operadora-no-procon-de-feira-de-santana
+kind: document
+title: 'A primeira condenação administrativa localizada: R$ 11.612,70 no Procon de Feira de Santana'
+doc_type: administrative_act
+date: '2025-12-13'
+source_ids:
+- src-dom-feira-de-santana-2025-2026-decisoes-do-procon
+summary: Decisão do Procon municipal de Feira de Santana, publicada em 13/12/2025 — vinte e cinco dias depois da
+  liquidação do Banco Master —, que acolhe a reclamação do processo nº 57613C/2025 e condena a PKL One Participações
+  S.A. ao pagamento de penalidade administrativa de R$ 11.612,70, com fundamento no artigo 56, inciso I, e parágrafo
+  único do Código de Defesa do Consumidor, determinando ainda sua inclusão no cadastro do artigo 44 do mesmo código.
+  É a primeira sanção administrativa contra a operadora localizada na investigação. A empresa não tinha advogado
+  constituído nos autos, e a decisão faculta recurso em dez dias úteis; a apuração não localizou recurso nem execução
+  da multa. A publicação é uma lista de decisões e não descreve a conduta sancionada — no mesmo lote foram condenados,
+  entre outros, o Banco BMG e a Vivo.
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Procon do Município de Feira de Santana (BA)
+url: https://data.queridodiario.ok.org.br/2910800/2025-12-13/366c17d65a59c3e5a07cf05e575c79e9d266424a.pdf
+reference: Processo administrativo nº 57613C/2025
+excerpt: condenando a PKL ONE PARTICIPAÇOES S.A. ao pagamento de penalidade administrativa no valor de R$ 11.612,70
+  (onze mil seiscentos e doze reais e setenta centavos)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,29 @@
+id: rev-2026-09-10-lote-157-o-cadastro-que-nao-confere-e-a-pegada-judicial
+kind: revision
+date: '2026-09-10'
+title: Lote 157 — o cadastro que não confere, a pegada judicial por tribunal e a primeira multa
+summary: 'Fecha a segunda ponta deixada em aberto pela apuração paulista e mede o que estava medido por amostra.
+  A anomalia de São Bernardo do Campo tem resposta: no julgamento de habilitação de 08/12/2023 a Neo Crédito Ltda
+  foi deferida sob o número de cadastro da PKL One, e a consulta à base pública da Receita Federal mostra que as
+  duas empresas existem e são distintas — a Neo Crédito é sociedade ativa de Florianópolis, com cadastro próprio.
+  A errata publicada duas semanas depois corrigiu a descrição do objeto e deixou o cadastro como estava. O caso
+  deixa de ser isolado quando se junta a outros dois: Belém imprimiu, em 2024, um número que a Receita recusa como
+  inválido, e Petrolina, em 2021, o cadastro de um município do Pará. Em três estados o ente público assinou sem
+  conferir o número que identifica a empresa. A pegada judicial, antes descrita a partir de uma amostra de dez mil
+  comunicações, agora vem em totais por tribunal: São Paulo com 13.944, Rio de Janeiro com 12.436, Bahia com 8.036,
+  Paraná com 4.364, Mato Grosso do Sul com 3.879 e Amazonas com 3.234 — este último sendo a anomalia do conjunto,
+  porque ali não há um único instrumento localizado e o litígio saltou de uma comunicação em 2023 para 1.929 até
+  setembro de 2026, alcançando comarcas do interior. E há a primeira sanção administrativa localizada em toda a
+  investigação: em 13/12/2025, vinte e cinco dias depois da liquidação, o Procon de Feira de Santana condenou a
+  operadora a R$ 11.612,70 com base no artigo 56 do Código de Defesa do Consumidor. A camada de consumo, antes registrada
+  só em Procons paulistas, aparece agora em trinta edições de oito municípios de três estados, dezesseis delas posteriores
+  a 18 de novembro de 2025.'
+affected_ids:
+- pkl-one-participacoes
+- credcesta
+- banco-master
+reason: 'Fechamento da segunda ponta declarada em aberto no lote 154, a pedido do editor: a anomalia do cadastro
+  nacional repetido no julgamento de habilitação de São Bernardo do Campo.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'

@@ -1,0 +1,27 @@
+id: src-dom-feira-de-santana-2025-2026-decisoes-do-procon
+kind: source
+title: Diário Oficial de Feira de Santana — decisões do Procon municipal envolvendo a operadora
+publisher: Diário Oficial do Município de Feira de Santana (BA)
+publication_date: '2025-12-13'
+retrieved_at: '2026-09-10'
+url: https://data.queridodiario.ok.org.br/2910800/2025-12-13/366c17d65a59c3e5a07cf05e575c79e9d266424a.pdf
+source_type: official_gazette
+summary: Três edições lidas pela equipe. A de 13/12/2025 publica, em lista de decisões administrativas, o acolhimento
+  da reclamação do processo nº 57613C/2025 e a condenação da PKL One Participações S.A. ao pagamento de penalidade
+  administrativa de R$ 11.612,70, com fundamento no artigo 56, inciso I, e parágrafo único do Código de Defesa do
+  Consumidor, e determinação de inclusão no cadastro do artigo 44 do mesmo código. As de 07/02/2026 e 08/08/2026
+  registram outros dois processos contra a mesma empresa, ambos não acolhidos por ausência da parte reclamante à
+  audiência.
+notes: A publicação é uma lista de decisões e não descreve os fatos que originaram cada reclamação; do documento
+  se extrai a sanção e seu fundamento legal, não a conduta sancionada. A decisão é administrativa e comporta recurso
+  no prazo de dez dias úteis, que o documento faculta.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura da extração integral da edição de 13/12/2025 e dos extratos das demais)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

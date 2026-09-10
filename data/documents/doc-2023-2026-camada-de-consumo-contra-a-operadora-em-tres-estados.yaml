@@ -1,0 +1,27 @@
+id: doc-2023-2026-camada-de-consumo-contra-a-operadora-em-tres-estados
+kind: document
+title: A camada de consumo passa da Bahia ao Paraná, e continua depois das liquidações
+doc_type: official_report
+date: '2026-08-08'
+source_ids:
+- src-procons-2023-2026-reclamacoes-em-jundiai-londrina-taubate-e-outros
+summary: 'Trinta edições de oito municípios, entre 03/10/2023 e 08/08/2026, publicam listas de atendimentos de Procon
+  com a operadora como fornecedora reclamada — Feira de Santana (BA), Londrina (PR) e, em São Paulo, Campinas, Jundiaí,
+  Taubaté, Marília, Barueri e a capital. A classificação predominante é ''fundamentada não atendida'': a reclamação
+  foi julgada procedente e a empresa não respondeu. Em sete edições o Banco Master aparece no mesmo registro ou
+  no protocolo vizinho, e em Taubaté, em 2023, quem figura ao lado da operadora é o Banco Máxima, nome anterior
+  do banco. A camada estende para dois outros estados o que o corpus registrava apenas em Procons paulistas, e não
+  se interrompe com as liquidações: dezesseis das trinta edições são posteriores a 18 de novembro de 2025.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+- banco-master
+issuer: Procons municipais da Bahia, do Paraná e de São Paulo
+url: https://data.queridodiario.ok.org.br/2910800/2026-08-08/ed3017e7d5735799a724f4f95badadea711fdf52.pdf
+reference: Trinta edições municipais entre outubro de 2023 e agosto de 2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

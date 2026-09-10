@@ -1,0 +1,30 @@
+id: src-minhareceita-2026-09-10-conferencia-de-tres-cadastros-nacionais
+kind: source
+title: Conferência dos três números de cadastro nacional impressos em atos oficiais sobre a operadora
+publisher: Base pública de CNPJ da Receita Federal do Brasil, via serviço aberto Minha Receita
+publication_date: '2026-09-10'
+retrieved_at: '2026-09-10'
+url: https://minhareceita.org/27490629000113
+source_type: corporate_registry
+summary: Consulta da equipe aos três números que atos oficiais de três estados imprimem ao identificar a operadora.
+  O 27.490.629/0001-13 corresponde a PKL ONE PARTICIPACOES S.A., ativa, aberta em 07/04/2017, com sede na rua Tabapuã,
+  888, Itaim Bibi, São Paulo, nome fantasia CREDCESTA, capital social de R$ 1.000.100 e atividade principal de 'Holdings
+  de instituições não-financeiras'. O 24.490.629/0001-13, impresso por Belém em 2024, é recusado pela base como
+  número inválido. O 05.196.530/0001-70, impresso por Petrolina em 2021, pertence ao MUNICIPIO DE TOME-ACU, no Pará.
+  A mesma consulta confirma que NEO CREDITO LTDA existe, é ativa, tem sede em Florianópolis, atividade de administração
+  de cartões de crédito e cadastro próprio, 37.788.118/0001-36 — diferente daquele sob o qual foi deferida em São
+  Bernardo do Campo.
+notes: O quadro societário devolvido para a operadora traz um único nome, Marcelo Antonio Bullos Cerqueira, como
+  diretor, com entrada em 16/07/2026, o que é coerente com a troca de administração já registrada no corpus. Nenhum
+  vínculo societário entre a Neo Crédito e o grupo investigado foi localizado; o que os documentos mostram é coincidência
+  de número em ato administrativo, não relação entre empresas.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (consulta ao serviço aberto Minha Receita, que espelha a base pública de CNPJ)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

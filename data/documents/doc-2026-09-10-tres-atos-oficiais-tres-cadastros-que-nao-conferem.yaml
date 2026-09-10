@@ -1,0 +1,31 @@
+id: doc-2026-09-10-tres-atos-oficiais-tres-cadastros-que-nao-conferem
+kind: document
+title: 'Três atos, três números: como o Estado identifica a operadora quando a identifica errado'
+doc_type: official_report
+date: '2026-09-10'
+source_ids:
+- src-minhareceita-2026-09-10-conferencia-de-tres-cadastros-nacionais
+- src-dom-belem-2022-2024-termos-credenciamento-semad
+- src-dom-pe-2021-petrolina-e-jaboatao-instrumentos-municipais
+- src-sbc-2023-12-credenciamento-gsa-001-2023-pkl-one-neo-credito
+summary: 'Três atos administrativos de três estados imprimem, ao identificar a mesma empresa, números de cadastro
+  nacional que não conferem. Em São Bernardo do Campo (SP), em dezembro de 2023, o cadastro correto da operadora
+  aparece também na linha de outra empresa, a Neo Crédito. Em Belém (PA), em junho de 2024, o extrato do termo de
+  credenciamento traz 24.490.629/0001-13, número que a base pública da Receita Federal recusa como inválido — e
+  que difere do correto por um único dígito. Em Petrolina (PE), em dezembro de 2021, o aviso do convênio traz 05.196.530/0001-70,
+  que é o cadastro do município de Tomé-Açu, no Pará. Isoladamente, cada um é erro material corriqueiro de diário
+  oficial. Reunidos, dizem algo sobre o controle exercido na porta de entrada: em três estados, o ente público assinou
+  com a empresa sem que o número que a identifica tenha sido conferido — o mesmo tipo de porta pela qual já se documentou
+  que ela foi qualificada como instituição financeira em pelo menos três atos, sem autorização do Banco Central.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Levantamento da equipe
+url: https://minhareceita.org/27490629000113
+reference: Cadastros 27.490.629/0001-13, 24.490.629/0001-13, 05.196.530/0001-70 e 37.788.118/0001-36
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

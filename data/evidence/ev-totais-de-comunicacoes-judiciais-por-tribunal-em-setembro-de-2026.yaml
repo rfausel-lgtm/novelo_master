@@ -1,0 +1,18 @@
+id: ev-totais-de-comunicacoes-judiciais-por-tribunal-em-setembro-de-2026
+kind: evidence
+classification: D
+proposition: Em 10/09/2026 o diário eletrônico nacional registrava, com a operadora como parte, 13.944 comunicações
+  em São Paulo, 12.436 no Rio de Janeiro, 8.036 na Bahia, 4.364 no Paraná, 3.879 em Mato Grosso do Sul e 3.234 no
+  Amazonas, entre outros tribunais.
+document_ids:
+- doc-2026-09-10-pegada-judicial-da-operadora-por-tribunal
+date: '2026-09-10'
+notes: 'Comunicação não é processo: um mesmo feito gera várias. O campo de contagem da API satura em dez mil, de
+  modo que os números de São Paulo e do Rio vêm da soma das consultas ano a ano. Precisão sobre registro anterior
+  do corpus: os números por tribunal ali publicados descreviam a composição de uma amostra de dez mil comunicações,
+  não os totais.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

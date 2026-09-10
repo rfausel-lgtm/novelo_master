@@ -1,0 +1,33 @@
+id: doc-2023-12-08-cadastro-repetido-em-sao-bernardo-e-a-errata-que-nao-corrigiu
+kind: document
+title: 'São Bernardo: duas empresas deferidas sob o mesmo cadastro, e a errata que corrigiu outra coisa'
+doc_type: administrative_act
+date: '2023-12-08'
+source_ids:
+- src-sbc-2023-12-credenciamento-gsa-001-2023-pkl-one-neo-credito
+- src-sbc-2023-12-22-errata-do-credenciamento-gsa-001-2023
+- src-minhareceita-2026-09-10-conferencia-de-tres-cadastros-nacionais
+summary: 'Resolve a anomalia que a apuração paulista deixara registrada para verificação. No julgamento de habilitação
+  do Credenciamento GSA nº 001/2023, publicado em 08/12/2023, oito empresas foram deferidas, e duas delas aparecem
+  com o mesmo número de cadastro nacional: ''PKL ONE PARTICIPACOES S.A. 27.490.629/0001-13'' e ''NEO CRÉDITO LTDA
+  27.490.629/0001-13''. A consulta à base pública da Receita Federal mostra que as duas empresas existem e são distintas
+  — a Neo Crédito é sociedade ativa de Florianópolis, com atividade de administração de cartões de crédito e cadastro
+  próprio, 37.788.118/0001-36 —, de modo que o número publicado ao lado do nome da segunda é o da primeira. Em 22/12/2023
+  o município publicou errata dos extratos, na fórmula ''onde se lê / leia-se'', mas para corrigir a descrição do
+  objeto; o cadastro repetido permaneceu como publicado, e as duas seguem credenciadas pelo mesmo processo, com
+  assinatura de 14/12/2023 e sessenta meses de vigência. Nada nos documentos permite dizer se o erro nasceu no requerimento
+  da empresa ou na transcrição do município, e nenhum vínculo societário entre a Neo Crédito e o grupo investigado
+  foi localizado.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Prefeitura Municipal de São Bernardo do Campo (SP)
+url: https://data.queridodiario.ok.org.br/3548708/2023-12-22/10bf816cd8b03d6df0f3dc8b267a8fd1879470c2.pdf
+reference: Edital de Credenciamento GSA nº 001/2023; processo SB 114563/2023; edições nº 2.408 e nº 2.411
+excerpt: PKL ONE PARTICIPACOES S.A. 27.490.629/0001-13 DEFERIDO NEO CRÉDITO LTDA 27.490.629/0001-13 DEFERIDO
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
