@@ -9,7 +9,10 @@ summary: 'Repete, quatro anos depois, a mesma engenharia normativa: inclui o inc
   (''As administradoras de Cartão de Adiantamento Salarial''), cria a rubrica correspondente no art. 4º
   e determina, no art. 6º, que esse cartão também não compõe a margem consignável, com limite de até 40%
   do valor líquido, ''sem incidência de juros''. Somado ao decreto de 2021, produz o empilhamento de margens
-  que está na origem dos contracheques com quase toda a renda comprometida.'
+  que está na origem dos contracheques com quase toda a renda comprometida. RESSALVA: a existência deste
+  ato com o número e a data aqui registrados NÃO foi confirmada em apuração documental de 10/09/2026.
+  Buscas por número, data e objeto em bases de legislação e de diários oficiais não o retornaram. Trate-se
+  o registro como não confirmado até que se obtenha o texto.'
 is_official: true
 related_entity_ids:
 - claudio-castro
@@ -21,8 +24,8 @@ reference: Decreto estadual 49.526/2025
 excerpt: IV - O cartão de adiantamento salarial não compõe a margem consignável prevista neste artigo.
   Parágrafo Único - Poderá ser utilizado o cartão de adiantamento salarial até o limite máximo de 40%
   (quarenta por cento), sem incidência de juros, sobre o valor líquido
-review_status: published
+review_status: in_review
 reviewer: orquestrador
 reviewed_at: '2026-09-09'
 created_at: '2026-09-09'
-updated_at: '2026-09-09'
+updated_at: '2026-09-06'

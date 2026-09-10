@@ -112,6 +112,14 @@ open_questions:
   financeiros, securitários e congêneres'. A mesma cláusula já constava do edital de alienação de 2015,
   que não se consumou. É esse dispositivo que os contratos posteriores reproduzem, e é ele que transforma
   um cartão de mercearia em plataforma de crédito.
+- 'Com a leitura do texto fluminense fecha-se o mapa normativo, e ele tem quatro desenhos, não dois. O
+  Rio criou categoria residual sem critério, autorizada pelo próprio Estado, e margem que expressamente
+  ''não compõe a margem consignável''. São Paulo e Mato Grosso transferiram ao parceiro bancário a exigência
+  de autorização do Banco Central. Minas manteve-a sobre o emitente. O Paraná nunca a exigiu para a espécie.
+  O Espírito Santo criou a margem e depois declarou a atividade privativa de instituição financeira. O
+  dispositivo fluminense mais revelador, porém, é o que parte ao meio a margem do cartão: metade para
+  compras no comércio local, metade para ''serviços creditícios, financeiros, securitários e congêneres''
+  — a mesma fórmula do decreto baiano de 2018.'
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -158,8 +166,10 @@ source_ids:
 - src-doeba-2015-11-19-edital-001-2015-alienacao-ebal-credicesta
 - src-doeba-2018-08-04-credenciamento-pkl-one-cadastro-consignatarias
 - src-doeba-2018-09-21-contrato-cooperacao-079-2018-saeb-pkl-one
+- src-doerj-2021-05-28-decreto-47625-texto-integral
+- src-tjrj-acordao-ai-87521-transcreve-art-6-decreto-47625
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'

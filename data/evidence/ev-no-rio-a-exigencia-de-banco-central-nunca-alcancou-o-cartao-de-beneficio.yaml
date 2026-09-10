@@ -1,0 +1,26 @@
+id: ev-no-rio-a-exigencia-de-banco-central-nunca-alcancou-o-cartao-de-beneficio
+kind: evidence
+classification: D
+proposition: 'CORREÇÃO de leitura que este acervo vinha fazendo. O decreto-matriz de 2016, lido em PDF
+  oficial, não impunha autorização do Banco Central a todas as consignatárias: a exigência estava presa
+  ao inciso V, relativo a ''instituições financeiras, cooperativas de crédito e as administradoras de
+  cartão de crédito, detentoras de autorização de funcionamento pelo Banco Central do Brasil''. O inciso
+  III, desde 2016, já abrigava ''entidades administradoras de plano de saúde, de cartões especiais de
+  benefícios e de crédito'' sem qualquer exigência dessa ordem. Logo, o decreto de 2021 não revogou uma
+  exigência que alcançasse o cartão de benefício — abriu uma oitava categoria residual. Para a variável
+  que organiza a investigação, o Rio aproxima-se do Paraná, onde a autorização nunca foi exigida para
+  essa espécie, e não de São Paulo ou Mato Grosso, que a transferiram ao parceiro bancário. O agravante
+  fluminense é de outra natureza: o inciso VIII é cláusula em branco.'
+document_ids:
+- doc-2021-05-28-decreto-47625-rj-texto-integral
+source_ids:
+- src-sefazrj-decreto-45563-2016-consignacoes
+- src-doerj-2021-05-28-decreto-47625-texto-integral
+excerpt: V - as instituições financeiras, cooperativas de crédito e as administradoras de cartão de crédito,
+  detentoras de autorização de funcionamento pelo Banco Central do Brasil
+date: '2021-05-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

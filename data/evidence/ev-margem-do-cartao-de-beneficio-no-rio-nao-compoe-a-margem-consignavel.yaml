@@ -1,0 +1,20 @@
+id: ev-margem-do-cartao-de-beneficio-no-rio-nao-compoe-a-margem-consignavel
+kind: evidence
+classification: D
+proposition: 'A margem fluminense é adicional, e o texto o diz de duas formas. O inciso III do art. 6º
+  admite o cartão de benefício até 20% do valor líquido calculado depois de excluídos os descontos legais
+  e as demais consignações facultativas; e o §1º afirma sem rodeios: ''O cartão de benefícios não compõe
+  a margem consignável prevista neste artigo''. O teto potencial passa, assim, de 35% para 35% mais 20%
+  sobre o líquido residual. O tribunal de justiça estadual aplica o dispositivo exatamente nesse sentido.'
+document_ids:
+- doc-2021-05-28-decreto-47625-rj-texto-integral
+source_ids:
+- src-doerj-2021-05-28-decreto-47625-texto-integral
+- src-tjrj-acordao-ai-87521-transcreve-art-6-decreto-47625
+excerpt: § 1º - O cartão de benefícios não compõe a margem consignável prevista neste artigo.
+date: '2021-05-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,22 @@
+id: ev-termo-de-credenciamento-da-pkl-one-no-rio-nao-foi-localizado
+kind: evidence
+classification: I
+proposition: O termo pelo qual a Casa Civil fluminense teria autorizado a operadora do CredCesta em 01/06/2021
+  — cinco dias após o decreto — não foi localizado em nenhuma base pública, e tampouco há documento que
+  sustente a cláusula de exclusividade atribuída a ele pelo relatório da comissão da assembleia estadual.
+  O acervo registra o dado, portanto, apenas como afirmação de origem parlamentar noticiada pela imprensa,
+  não como documento lido. O decreto-matriz de 2016 torna o convênio com a consignatária documento obrigatório,
+  de modo que sua eventual inexistência seria, por si, achado relevante.
+document_ids: []
+source_ids:
+- src-doerj-2021-05-28-decreto-47625-texto-integral
+- src-sefazrj-decreto-45563-2016-consignacoes
+inference_basis: Ausência de retorno em buscas cruzadas por nome da empresa, credenciamento, consignatária
+  e Casa Civil em bases de diários oficiais e de legislação estadual, contrastada com a obrigatoriedade
+  do convênio prevista no decreto-matriz.
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
