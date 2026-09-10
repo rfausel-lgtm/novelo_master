@@ -1,0 +1,21 @@
+id: ev-entrada-total-no-brasil-e-cinco-vezes-maior-que-o-credito-cambial-da-janela
+kind: evidence
+classification: I
+proposition: Os R$ 20,93 milhões que, segundo a perícia, entraram no Brasil ao longo de doze meses são cerca de
+  cinco vezes o crédito de R$ 3,92 milhões que um banco de câmbio fez à produtora nos cinquenta e um dias examinados
+  pelo Coaf — de modo que esse crédito é fatia compatível da mesma corrente de recursos, e não um aporte à parte.
+document_ids:
+- doc-2026-06-10-laudo-pericial-da-go-up-sobre-o-custo-do-filme
+inference_basis: 'Comparação entre dois recortes de tempo distintos sobre a mesma conta: o laudo cobre 01/06/2025
+  a 04/06/2026 e aponta US$ 3,7 milhões recebidos do exterior (R$ 20,93 milhões pela taxa que adota); o relatório
+  de inteligência financeira cobre 10/11 a 30/12/2025 e registra R$ 3,92 milhões creditados por instituição de câmbio.
+  Um recorte de cinquenta e um dias dentro de doze meses, no período das filmagens, com valor da ordem de um quinto
+  do total, é aritmeticamente compatível com a hipótese de ser parte do mesmo fluxo. A inferência cairia se o crédito
+  cambial tivesse outra origem — por exemplo, receita de licenciamento ou aporte de investidor estrangeiro não contabilizado
+  pela perícia. Nenhum documento lido identifica o remetente específico desses R$ 3,92 milhões.'
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,21 @@
+id: ev-defesa-na-ancine-atribui-o-pagamento-do-elenco-a-empresa-estrangeira-nao-nomeada
+kind: evidence
+classification: A
+proposition: Na defesa protocolada em 31/08/2026 contra o auto de infração da Ancine de 28/07/2026, a produtora
+  brasileira sustenta ter sido apenas prestadora de serviços locais e atribui a contratação e o pagamento do elenco
+  principal a uma 'empresa estrangeira' que não nomeia em nenhum ponto — sendo essa empresa a própria estrutura
+  americana da mesma dona, que a produtora havia nomeado à mesma agência seis semanas antes.
+document_ids:
+- doc-2026-07-28-auto-de-infracao-da-ancine-e-a-defesa-da-produtora
+- doc-2026-07-17-memorando-da-goup-llc-dirigido-a-ancine
+source_ids:
+- src-intercept-2026-09-04-produtora-esconde-da-ancine-quem-mandava-no-dinheiro
+attributed_to: The Intercept Brasil, a partir das peças do processo administrativo na Ancine
+date: '2026-08-31'
+notes: A defesa pede que a multa fique no mínimo legal de R$ 2 mil, quando a autuação pode chegar a R$ 200 mil.
+  Procuradas, a produtora e sua dona não responderam à reportagem.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,19 @@
+id: ev-pericia-atesta-que-a-produtora-brasileira-recebeu-do-fundo-texano
+kind: evidence
+classification: A
+proposition: Segundo a leitura do laudo pericial feita pelo Intercept, a produtora no Brasil recebeu US$ 3,7 milhões
+  do Havengate Development Fund — R$ 20,93 milhões no câmbio da época —, enquanto outros US$ 9,7 milhões teriam
+  permanecido nos Estados Unidos, somando os US$ 13,4 milhões que a mesma perícia aponta como custo total da obra.
+document_ids:
+- doc-2026-06-10-laudo-pericial-da-go-up-sobre-o-custo-do-filme
+source_ids:
+- src-intercept-2026-09-04-produtora-esconde-da-ancine-quem-mandava-no-dinheiro
+attributed_to: The Intercept Brasil, a partir do laudo pericial contratado pela produtora
+date: '2026-09-04'
+notes: 'Responde, no nível documental disponível, à pergunta sobre a origem externa do dinheiro que entrou na conta
+  brasileira: o remetente apontado é o fundo texano administrado pelo advogado de Eduardo Bolsonaro.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

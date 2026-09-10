@@ -1,0 +1,21 @@
+id: ev-empresa-americana-do-filme-fica-em-miami-e-tem-dois-socios
+kind: evidence
+classification: A
+proposition: A Goup Entertainment LLC, empresa americana da produção, é sediada em Miami, na Flórida, e tem como
+  sócios a brasileira Karina Ferreira da Gama — a mesma sócia-administradora da empresa brasileira — e Michael Brian
+  Davis, brasileiro naturalizado nos Estados Unidos.
+document_ids: []
+source_ids:
+- src-intercept-2026-09-04-produtora-esconde-da-ancine-quem-mandava-no-dinheiro
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+attributed_to: The Intercept Brasil, em reportagens de 15/05/2026 e 04/09/2026
+date: '2026-09-04'
+notes: 'O corpus não verificou o registro societário no órgão estadual da Flórida: a consulta pública ao portal
+  de corporações do estado está atrás de verificação anti-bot, e a equipe não contorna esse tipo de barreira. A
+  informação fica atribuída à reportagem. Registre-se ainda uma divergência menor: um verbete enciclopédico dá a
+  sede como Thousand Oaks, na Califórnia.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

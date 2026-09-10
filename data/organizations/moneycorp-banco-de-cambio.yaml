@@ -29,11 +29,19 @@ open_questions:
   pela boca da própria empresa, um fluxo de entrada de moeda estrangeira compatível com o crédito de R$ 3,92 milhões
   aqui registrado — sem, contudo, identificar instituições, datas ou valores individuais dessas remessas, o que
   mantém em aberto quem remeteu especificamente estes R$ 3,92 milhões.'
+- 'Até onde vai a resposta sobre a origem dos R$ 3,92 milhões: a perícia contratada pela produtora aponta entrada
+  de US$ 3,7 milhões vindos do exterior ao longo de doze meses (R$ 20,93 milhões), atribuídos pelo Intercept ao
+  fundo Havengate e, pelo texto da Folhapress, a repasses da empresa americana da mesma dona — duas leituras do
+  mesmo laudo. O crédito aqui registrado é fatia compatível dessa corrente, mas NENHUM documento lido identifica
+  o remetente específico destes R$ 3,92 milhões. Fechar isso depende do contrato de câmbio, que fica registrado
+  no sistema do Banco Central com remetente, valor e natureza declarada, e é acessível apenas por ordem judicial.'
 source_ids:
 - src-bcb-olinda-2026-09-10-moneycorp-banco-de-cambio-autorizado
 - src-minhareceita-2026-09-10-moneycorp-e-go-up-entertainment
 - src-stf-2026-09-03-decisao-pet16669-operacao-make-up
 - src-folhapress-2026-08-29-laudo-pericial-da-go-up-e-as-contradicoes
+- src-intercept-2026-09-04-produtora-esconde-da-ancine-quem-mandava-no-dinheiro
+- src-folhapress-2026-06-06-pf-quer-pedir-aos-eua-quebra-de-sigilo-do-fundo
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-10'

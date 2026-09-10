@@ -1,0 +1,29 @@
+id: doc-2026-07-28-auto-de-infracao-da-ancine-e-a-defesa-da-produtora
+kind: document
+title: O auto de infração da Ancine e a defesa que não nomeia a 'empresa estrangeira'
+doc_type: administrative_act
+date: '2026-07-28'
+source_ids:
+- src-intercept-2026-09-04-produtora-esconde-da-ancine-quem-mandava-no-dinheiro
+summary: Em 28/07/2026 a Agência Nacional do Cinema lavrou auto de infração imputando à Go Up Entertainment Ltda
+  a conduta de produzir no Brasil a obra cinematográfica estrangeira 'Dark Horse' sem comunicar previamente a agência,
+  em violação às normas do setor. Na defesa administrativa protocolada em 31/08/2026, a produtora sustenta ter atuado
+  apenas como prestadora de serviços locais e afirma que quem contratou e pagou o elenco principal foi uma 'empresa
+  estrangeira' — que os advogados não nomeiam em nenhum ponto do documento, embora seja a Goup Entertainment LLC,
+  de Miami, cuja sócia-administradora é a mesma da empresa brasileira e que a própria empresa havia nomeado à Ancine
+  seis semanas antes, em memorando assinado em Miami. A defesa alega boa-fé, diz ter procurado previamente a SPCine
+  e o Sindcine-SP, e pede que a multa fique no mínimo legal de R$ 2 mil; a autuação pode alcançar R$ 200 mil. Segundo
+  a reportagem, é o primeiro documento oficial em que a produtora reconhece que a estrutura estadunidense existe
+  e opera dividida entre os dois países. Não lido pela equipe.
+is_official: true
+related_entity_ids:
+- go-up-entertainment
+- karina-ferreira-da-gama
+issuer: Agência Nacional do Cinema (Ancine)
+url: https://www.intercept.com.br/2026/09/04/produtora-dark-horse-esconde-ancine-quem-mandava-dinheiro-vorcaro/
+reference: Auto de infração de 28/07/2026; defesa administrativa protocolada em 31/08/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

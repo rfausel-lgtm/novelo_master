@@ -1,0 +1,30 @@
+id: michael-brian-davis
+kind: person
+name: Michael Brian Davis
+category: businessperson
+role: Sócio e diretor da Goup Entertainment LLC, nos Estados Unidos
+summary: Brasileiro naturalizado nos Estados Unidos, é sócio de Karina Ferreira da Gama na Goup Entertainment LLC,
+  empresa americana da produção de 'Dark Horse', sediada em Miami. Em 17/07/2026 assinou com ela, em Miami, na condição
+  de acionista e diretor, o memorando dirigido à Ancine em que a empresa americana é declarada titular dos direitos
+  sobre a obra. Procurado pela reportagem que revelou o contrato de produção, em maio de 2026, não respondeu.
+why_in_novelo: É o sócio, nos Estados Unidos, da empresa que a própria produtora brasileira aponta como responsável
+  por contratar e pagar o elenco principal do filme financiado com recursos remetidos por Daniel Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Procurado pelo Intercept em maio de 2026, não respondeu; o corpus não localizou manifestação pública
+    sua.
+  source_ids:
+  - src-intercept-2026-05-15-eduardo-contrato-dark-horse
+open_questions:
+- 'O corpus não verificou seu vínculo societário em registro público estadual americano: a consulta ao portal de
+  corporações da Flórida está atrás de verificação anti-bot.'
+- Não há, nos documentos lidos, elemento que o ligue às remessas de Daniel Vorcaro ao fundo texano; o que está atribuído
+  a ele é a condição de sócio e diretor da empresa americana da produção.
+source_ids:
+- src-intercept-2026-09-04-produtora-esconde-da-ancine-quem-mandava-no-dinheiro
+- src-intercept-2026-05-15-eduardo-contrato-dark-horse
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

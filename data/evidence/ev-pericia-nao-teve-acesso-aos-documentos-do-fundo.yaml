@@ -1,0 +1,20 @@
+id: ev-pericia-nao-teve-acesso-aos-documentos-do-fundo
+kind: evidence
+classification: A
+proposition: 'A perícia contratada pela produtora não teve acesso aos documentos do fundo Havengate, segundo apuração
+  de O Globo, e o laudo, de 32 páginas, não desdobra os valores nem identifica gastos específicos, segundo a piauí:
+  não se sabe quanto recebeu cada ator, diretor ou produtor, quais empresas foram contratadas nem em que datas os
+  pagamentos ocorreram.'
+document_ids:
+- doc-2026-06-10-laudo-pericial-da-go-up-sobre-o-custo-do-filme
+source_ids:
+- src-intercept-2026-09-04-produtora-esconde-da-ancine-quem-mandava-no-dinheiro
+attributed_to: The Intercept Brasil, citando apurações de O Globo e da revista piauí
+date: '2026-09-04'
+notes: 'É o limite do documento que a produção apresenta como prestação de contas: ele afirma a origem dos recursos
+  sem ter examinado a contabilidade de quem os remeteu.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

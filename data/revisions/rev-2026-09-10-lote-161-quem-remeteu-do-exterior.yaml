@@ -1,0 +1,39 @@
+id: rev-2026-09-10-lote-161-quem-remeteu-do-exterior
+kind: revision
+date: '2026-09-10'
+title: 'Lote 161 — quem remeteu do exterior: a resposta está em Miami, e a conta não fecha'
+summary: 'O fio do banco de câmbio chega onde podia chegar sem quebra de sigilo. A pergunta era quem, do exterior,
+  mandou os R$ 3,92 milhões que a Moneycorp entregou em reais à produtora entre 10 de novembro e 30 de dezembro
+  de 2025. A resposta documental aponta para a própria estrutura da produção nos Estados Unidos — e vem com uma
+  divergência que o acervo registra sem resolver: para o Intercept, lendo o laudo pericial, a empresa brasileira
+  recebeu US$ 3,7 milhões DO HAVENGATE DEVELOPMENT FUND, o fundo texano administrado pelo advogado de Eduardo Bolsonaro,
+  equivalentes a R$ 20,93 milhões; para o texto distribuído pela Folhapress, lendo o mesmo laudo, os gastos no Brasil
+  foram cobertos por repasses da Go Up Entertainment LLC. As duas leituras apontam para o mesmo lado da fronteira,
+  e acima das duas está o fundo. O que se firmou nesta apuração é o desenho da estrutura, e ele veio de um lugar
+  inesperado: o processo administrativo da Ancine. Em 28/07/2026 a agência autuou a produtora por rodar no Brasil
+  uma obra ESTRANGEIRA sem avisar; na defesa protocolada em 31/08, a empresa brasileira se apresenta como mera prestadora
+  de serviços locais e diz que quem contratou e pagou o elenco principal foi uma ''empresa estrangeira'' que os
+  advogados não nomeiam em nenhuma linha. Não nomeiam porque é ela mesma do outro lado: a Goup Entertainment LLC,
+  de Miami, cuja sócia-administradora é a mesma. E a própria empresa já havia dito o nome à mesma agência seis semanas
+  antes — no memorando que Karina Ferreira da Gama e Michael Brian Davis assinaram em Miami em 17/07/2026, onde
+  a LLC aparece como ''Licenciante e titular declarada dos direitos sobre a Obra'' e a cláusula 5.1 declara que
+  a produção foi realizada apenas parcialmente no Brasil. Ou seja: para licenciar, a estrutura americana existe;
+  para pagar multa, ela é uma ''empresa estrangeira'' sem nome. A defesa pede o mínimo legal, R$ 2 mil, num processo
+  que pode chegar a R$ 200 mil. Fica registrado também o limite do laudo que a produção apresenta como prestação
+  de contas: ele não teve acesso aos documentos do fundo, segundo O Globo, e não desdobra valores nem identifica
+  gastos, segundo a piauí. E fica o caminho que resta: a Polícia Federal pretende pedir aos Estados Unidos a quebra
+  de sigilo do fundo — medida que depende de cooperação das autoridades americanas — e usar a Difusão Prata da Interpol
+  para localizar patrimônio. Até 10/09/2026 o corpus não localizou notícia de que o pedido tenha sido formalizado.
+  Duas ressalvas de método: a equipe não leu o laudo, o memorando nem a defesa, que chegam por reportagem; e não
+  verificou o registro societário da empresa americana, porque o portal de corporações da Flórida está atrás de
+  verificação anti-bot, que não se contorna.'
+affected_ids:
+- go-up-entertainment
+- havengate-development-fund
+- karina-ferreira-da-gama
+- michael-brian-davis
+- moneycorp-banco-de-cambio
+reason: Continuação, a pedido do editor, do fio aberto no lote 159 sobre a origem externa do crédito cambial.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'

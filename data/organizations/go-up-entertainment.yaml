@@ -57,6 +57,15 @@ open_questions:
   documento fiscal do destino dos valores. Pergunta que ele deixa em aberto: se o aporte do Havengate equivale a
   100% do custo, onde entram as ''cotas para investimento'' abertas em outubro de 2025 e o aporte de US$ 185.185,19
   cujo contrato foi assinado seis dias antes de o laudo ser assinado.'
+- 'A ESTRUTURA, agora desenhada por documentos do processo administrativo da Ancine: a empresa americana é a Goup
+  Entertainment LLC, sediada em Miami, com Karina Ferreira da Gama e Michael Brian Davis como sócios e diretores;
+  a brasileira é o braço da mesma estrutura, e não prestadora de serviços de terceiro. Em 17/07/2026 os dois assinaram
+  em Miami memorando dirigido à Ancine nomeando a LLC ''Licenciante e titular declarada dos direitos sobre a Obra'',
+  com cláusula declarando produção realizada apenas parcialmente no Brasil, e licenciando a distribuição no país
+  à Cannes Produções Ltda, de Barueri. Em 28/07/2026 a agência lavrou auto de infração por a produtora ter rodado
+  no Brasil obra ESTRANGEIRA sem comunicação prévia; na defesa de 31/08/2026 a empresa brasileira se diz mera prestadora
+  local e atribui a contratação e o pagamento do elenco principal a uma ''empresa estrangeira'' que nunca nomeia
+  — a própria LLC —, pedindo multa no mínimo legal de R$ 2 mil, num processo que pode chegar a R$ 200 mil.'
 source_ids:
 - src-intercept-2026-05-15-eduardo-contrato-dark-horse
 - src-congressoemfoco-2026-05-15-duvidas-filme
@@ -74,6 +83,7 @@ source_ids:
 - src-minhareceita-2026-09-10-moneycorp-e-go-up-entertainment
 - src-metropoles-2026-09-10-marcelao-confirma-aporte-de-um-milhao
 - src-folhapress-2026-08-29-laudo-pericial-da-go-up-e-as-contradicoes
+- src-intercept-2026-09-04-produtora-esconde-da-ancine-quem-mandava-no-dinheiro
 jurisdiction: Brasil (Ltda.) e Estados Unidos (LLC)
 review_status: published
 reviewer: orquestrador
