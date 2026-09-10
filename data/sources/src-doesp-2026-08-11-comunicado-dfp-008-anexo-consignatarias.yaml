@@ -1,0 +1,24 @@
+id: src-doesp-2026-08-11-comunicado-dfp-008-anexo-consignatarias
+kind: source
+title: Comunicado DFP nº 008, de 10 de agosto de 2026 — anexo de consignatárias credenciadas do Estado
+  de São Paulo
+publisher: Diário Oficial do Estado de São Paulo
+publication_date: '2026-08-11'
+retrieved_at: '2026-09-10'
+url: https://doe.sp.gov.br/executivo/secretaria-de-gestao-e-governo-digital/comunicado-dfp-n-008-10-de-agosto-de-2026-2026081011295921992039482
+source_type: official_gazette
+summary: Documento SEI/GESP 0117227615. Fixa o cronograma de recadastramento das consignatárias credenciadas
+  e traz, no Anexo I, entre elas, 'PKL One Participações S/A — 097337.4 — nov/26'. É o mesmo código de
+  desconto cuja suspensão fora determinada com efeitos a partir de 19/02/2026. As retificações do comunicado
+  anterior, publicadas em 20/05/2026 e em 02/06/2026, também mantêm a empresa no anexo. Comunicado da
+  São Paulo Previdência publicado em 07/08/2025 igualmente a lista entre as consignatárias.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura própria dos PDFs dos diários oficiais paulistas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

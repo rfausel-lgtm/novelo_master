@@ -1,0 +1,32 @@
+id: rev-2026-09-10-lote-154-sao-paulo-depois-da-liquidacao
+kind: revision
+date: '2026-09-10'
+title: 'Lote 154 — São Paulo depois da liquidação: o código suspenso e o credenciamento preservado'
+summary: 'Fecha a frente paulista com leitura própria dos PDFs oficiais. O achado central é uma contradição
+  administrativa do Estado: a mesma diretoria que suspendeu o código de desconto da operadora, com efeitos
+  a partir de 19/02/2026, manteve-a cinco meses depois no anexo de consignatárias credenciadas, com recadastramento
+  marcado para novembro de 2026 — e as retificações de maio e junho preservam o registro. Na capital,
+  descobriu-se por que o vínculo durou tanto: o aditamento de 2023 vigorava até o recadastramento bienal
+  de 2025, e portaria de agosto de 2026 registra que esse recadastramento ''não foi realizado'', mantendo
+  em caráter excepcional as consignatárias ativas. O convênio sobreviveu por inércia. E o descredenciamento
+  de 14/08/2026 não alcançou a administração indireta: serviço funerário e hospital do servidor seguem
+  sem ato de revogação, e o hospital chegou a credenciar o próprio banco em abril de 2025, sete meses
+  antes da liquidação. Até 10/09/2026 nenhum comunicado foi publicado aos servidores — ao contrário do
+  que a mesma prefeitura fez ao descredenciar outra consignatária. Nos demais municípios, os dois desfechos
+  comuns não envolvem decisão: em Guarulhos o termo caducou por decurso em junho de 2026, com substituição
+  de fato por outra empresa em março; em Carapicuíba e em São Bernardo do Campo os instrumentos correm
+  até 2028 sem ato algum. Registram-se ainda uma anomalia a verificar — duas razões sociais deferidas
+  sob o mesmo cadastro nacional no julgamento de habilitação de São Bernardo, com a ressalva expressa
+  de que o número de processo não as vincula — e a prova de que o produto seguiu gerando reclamação fundamentada
+  não atendida em Procons paulistas até a data de fechamento desta apuração.'
+affected_ids:
+- pkl-one-participacoes
+- credcesta
+- banco-master
+reason: Conclusão da frente paulista da apuração sobre a situação dos convênios após as liquidações, com
+  leitura direta dos diários oficiais do Estado, da capital e de municípios da região metropolitana.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

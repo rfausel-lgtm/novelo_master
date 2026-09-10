@@ -1,0 +1,21 @@
+id: ev-em-guarulhos-e-carapicuiba-o-vinculo-expirou-ou-persiste-sem-ato-algum
+kind: evidence
+classification: D
+proposition: Os dois desfechos mais comuns nos municípios paulistas não envolvem decisão administrativa.
+  Em Guarulhos, o termo assinado em junho de 2024 caducou por decurso de prazo em 11/06/2026 — quase sete
+  meses depois da liquidação — sem prorrogação e sem denúncia; entre uma coisa e outra, em março de 2026,
+  o município publicou três novos termos com outra empresa, substituição de fato sem nada dizer sobre
+  a anterior. Em Carapicuíba, o convênio assinado em outubro de 2023 tem vigência declarada de cinco anos,
+  até outubro de 2028, e segue sem qualquer ato posterior; o novo prefeito assinou convênios substitutos
+  com quatro bancos entre maio e julho de 2026, também sem mencioná-la.
+document_ids:
+- doc-2024-06-11-termo-guarulhos-pkl-one-caducado-por-decurso
+source_ids:
+- src-dom-guarulhos-2022-2024-termos-cooperacao-pkl-one-e-master
+- src-doesp-2023-10-24-convenio-carapicuiba-pkl-one-cinco-anos
+date: '2026-06-11'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

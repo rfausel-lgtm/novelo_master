@@ -1,0 +1,27 @@
+id: doc-2026-01-30-peruibe-indefere-troca-titularidade-brb-master
+kind: document
+title: Peruibe indefere troca de titularidade de conta em consignado entre BRB e Banco Master
+doc_type: administrative_act
+date: '2026-01-30'
+source_ids:
+- src-doesp-2026-01-30-peruibe-indefere-troca-de-titularidade-brb-master
+summary: 'Unico ato municipal paulista posterior a liquidacao que trata diretamente do banco, e e um indeferimento
+  com fundamento expresso. O municipio negou requerimento de troca de titularidade de conta corrente no
+  ambito de operacao de credito consignado firmada entre o Banco de Brasilia e o Banco Master, invocando
+  a inexistencia de amparo legal e regulamentar junto ao Banco Central e os riscos ao erario e a seguranca
+  financeira dos servidores. Registre-se o contexto: em 06/01/2026 o municipio publicara termo de cooperacao
+  com a Camara Interbancaria de Pagamentos para gestao das consignacoes, assinado em 22/12/2025.'
+is_official: true
+related_entity_ids:
+- banco-master
+- credcesta
+issuer: Prefeitura Municipal de Peruibe (SP)
+url: https://doe.sp.gov.br/municipios/peruibe/extrato-banco-de-brasilia-20260129314281241598662
+reference: Extrato de Decisao, DOE-SP caderno Municipios, 30/01/2026
+excerpt: diante da inexistencia de amparo legal e regulamentar junto ao Banco Central do Brasil, bem como
+  em razao dos riscos identificados ao erario publico e a seguranca financeira dos servidores municipais
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

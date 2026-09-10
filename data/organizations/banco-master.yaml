@@ -53,6 +53,12 @@ open_questions:
   o banco por termo próprio, cujo prazo expirou por decurso em 31/01/2026, sem renovação e sem rescisão.
   Em Canapi, em Alagoas, o extrato de rescisão de um contrato firmado com a operadora traz 'BANCO MASTER
   S/A' na linha de assinatura.
+- 'Instrumentos paulistas do próprio banco, sem ato de revogação localizado: termo de adesão com a secretaria
+  municipal da capital, de 2020, aditado em 20/10/2023; credenciamento no hospital do servidor público
+  municipal deferido em 23/04/2025, sete meses antes da liquidação; termo de cooperação com Guarulhos,
+  de 06/10/2023; credenciamento em São Bernardo do Campo, assinado em 27/04/2023 com sessenta meses; e
+  convênio com Embu das Artes, publicado em 12/07/2023. Em Peruíbe, o município indeferiu troca de titularidade
+  de conta em operação firmada com o Banco de Brasília, por inexistência de amparo junto ao Banco Central.'
 source_ids:
 - src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
 - src-alagoasprevidencia-termo-credenciamento-033-2024
@@ -102,6 +108,10 @@ source_ids:
 - src-campograndenews-2026-impasse-prefeitura-master-servidores-nova-cobranca
 - src-diogrande-2023-06-15-termo-credenciamento-10-banco-master
 - src-diarios-municipais-2021-2024-rescisoes-pio-xii-canapi-jeremoabo-juazeiro
+- src-doc-sp-2022-2025-sfmsp-hspm-iprem-instrumentos-do-grupo
+- src-dom-guarulhos-2022-2024-termos-cooperacao-pkl-one-e-master
+- src-sbc-2023-12-credenciamento-gsa-001-2023-pkl-one-neo-credito
+- src-doesp-2026-01-30-peruibe-indefere-troca-de-titularidade-brb-master
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
 review_status: published

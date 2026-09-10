@@ -1,0 +1,19 @@
+id: ev-produto-seguiu-gerando-reclamacao-fundamentada-ate-setembro-de-2026
+kind: evidence
+classification: D
+proposition: 'O produto seguiu operando e gerando conflito muito depois das liquidações, e há registro
+  oficial disso na data de fechamento desta apuração: o diário de Santos de 10/09/2026 traz quatro protocolos
+  contra a operadora sob a marca do produto, todos classificados como fundamentada não atendida — o consumidor
+  reclamou, o órgão considerou procedente e a empresa não atendeu. Campinas registra processos em quatorze
+  edições entre julho de 2025 e junho de 2026; Bauru, sete ocorrências até dezembro de 2025, com pares
+  de protocolo que reúnem operadora e banco no mesmo atendimento.'
+document_ids:
+- doc-2026-09-10-reclamacoes-procons-paulistas-credcesta
+source_ids:
+- src-procons-paulistas-2024-2026-reclamacoes-credcesta-pkl-one
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

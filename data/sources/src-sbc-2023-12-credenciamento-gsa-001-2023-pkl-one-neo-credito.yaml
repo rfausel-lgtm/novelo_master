@@ -1,0 +1,27 @@
+id: src-sbc-2023-12-credenciamento-gsa-001-2023-pkl-one-neo-credito
+kind: source
+title: Credenciamento GSA nº 001/2023 de São Bernardo do Campo — PKL One e a duplicidade de cadastro nacional
+publisher: Notícias do Município de São Bernardo do Campo (SP)
+publication_date: '2023-12-15'
+retrieved_at: '2026-09-10'
+url: https://data.queridodiario.ok.org.br/3548708/2023-12-15/aa2237428000f1db269899161c4e64605a570b94.pdf
+source_type: official_gazette
+summary: 'Edição nº 2.409, página 14, de 431 páginas, com extração integral conferida — a expressão aparece
+  uma única vez em toda a edição. Termo assinado em 14/12/2023, vigência de sessenta meses, objeto de
+  concessão de empréstimo pessoal e cartão de crédito com desconto em folha, chamamento SB 114563/2023.
+  O julgamento de habilitação, publicado na edição nº 2.408 de 08/12/2023, página 11, traz uma anomalia:
+  duas razões sociais distintas — ''PKL ONE PARTICIPACOES S.A.'' e ''NEO CRÉDITO LTDA'' — aparecem deferidas
+  sob o mesmo cadastro nacional de pessoa jurídica. Ressalva de precisão registrada pela própria apuração:
+  o sufixo do número de processo NÃO amarra as duas empresas entre si, pois é compartilhado com um terceiro
+  credenciado sem relação com o grupo. Também credenciado no município o Banco Master, por chamamento
+  de 2012, com assinatura em 27/04/2023 e sessenta meses.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura própria dos PDFs dos diários oficiais paulistas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,20 @@
+id: ev-o-convenio-da-capital-sobreviveu-por-recadastramento-nao-realizado
+kind: evidence
+classification: D
+proposition: A longevidade do vínculo na capital paulista tem explicação administrativa, e ela está escrita.
+  O aditamento ao termo de adesão, de outubro de 2023, vigorava 'até que ocorra o recadastramento bienal
+  do exercício de 2025'. Portaria de 20/08/2026 registra que esse recadastramento 'não foi realizado'
+  e mantém, em caráter excepcional, o credenciamento das consignatárias ativas na data da publicação.
+  O convênio sobreviveu, portanto, por inércia — e a operadora, descredenciada seis dias antes dessa portaria,
+  ficou de fora da prorrogação excepcional.
+document_ids:
+- doc-2026-08-20-portaria-063-seges-recadastramento-bienal-nao-realizado
+source_ids:
+- src-doc-sp-2026-08-20-portaria-063-seges-recadastramento
+excerpt: o recadastramento bienal previsto para o exercício de 2025 não foi realizado
+date: '2026-08-20'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

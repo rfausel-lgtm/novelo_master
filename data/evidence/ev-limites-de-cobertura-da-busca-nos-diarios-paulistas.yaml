@@ -1,0 +1,21 @@
+id: ev-limites-de-cobertura-da-busca-nos-diarios-paulistas
+kind: evidence
+classification: D
+proposition: Duas limitações que dão a medida exata do que os resultados negativos paulistas provam. O
+  índice de texto integral do caderno de municípios do diário estadual só cobre de 2023 em diante — a
+  busca por termos genéricos no período anterior devolve conjunto vazio —, de modo que o silêncio sobre
+  instrumentos de 2021 e 2022 nada significa. E a base de despesas por fornecedor do tribunal de contas
+  estadual, consultada para todos os entes municipais entre 2014 e 2026, não retorna nenhum registro da
+  operadora nem do banco, com controle metodológico válido — resultado coerente com o fato de a consignação
+  em folha ser retenção extraorçamentária, e que fecha esse canal como via de prova.
+document_ids:
+- doc-2026-09-10-reclamacoes-procons-paulistas-credcesta
+source_ids:
+- src-doesp-2023-10-24-convenio-carapicuiba-pkl-one-cinco-anos
+- src-procons-paulistas-2024-2026-reclamacoes-credcesta-pkl-one
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

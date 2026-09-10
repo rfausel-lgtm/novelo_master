@@ -1,0 +1,24 @@
+id: src-doesp-2026-01-30-peruibe-indefere-troca-de-titularidade-brb-master
+kind: source
+title: Peruíbe indefere troca de titularidade de conta em operação de consignado entre o BRB e o Banco
+  Master
+publisher: Diário Oficial do Estado de São Paulo — caderno Municípios
+publication_date: '2026-01-30'
+retrieved_at: '2026-09-10'
+url: https://doe.sp.gov.br/municipios/peruibe/extrato-banco-de-brasilia-20260129314281241598662
+source_type: official_gazette
+summary: Único ato municipal paulista posterior à liquidação que trata diretamente do banco. Indefere
+  requerimento de troca de titularidade de conta corrente no âmbito de operação de crédito consignado
+  firmada entre o Banco de Brasília e o Banco Master, 'diante da inexistência de amparo legal e regulamentar
+  junto ao Banco Central do Brasil, bem como em razão dos riscos identificados ao erário público e à segurança
+  financeira dos servidores municipais'.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura própria dos PDFs dos diários oficiais paulistas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

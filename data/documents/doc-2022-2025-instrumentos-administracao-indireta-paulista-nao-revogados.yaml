@@ -1,0 +1,30 @@
+id: doc-2022-2025-instrumentos-administracao-indireta-paulista-nao-revogados
+kind: document
+title: Os instrumentos paulistanos da administração indireta que ninguém revogou
+doc_type: contract
+date: '2025-04-24'
+source_ids:
+- src-doc-sp-2022-2025-sfmsp-hspm-iprem-instrumentos-do-grupo
+summary: O descredenciamento de agosto de 2026 alcançou a secretaria municipal de gestão, mas não os instrumentos
+  firmados por entidades da administração indireta. O serviço funerário municipal autorizou consignação
+  em 2023; o hospital do servidor credenciou a operadora para cartão benefício em 2023 e novamente, para
+  empréstimo consignado, em março de 2025; e deferiu credenciamento ao próprio banco em abril de 2025,
+  sete meses antes da liquidação. Para nenhum deles se localizou ato de revogação. Enquanto isso, a ata
+  do conselho deliberativo do instituto de previdência municipal, de janeiro de 2026, registra que os
+  descontos seguiam sendo feitos e depositados 'enquanto a situação judicial do banco é regularizada'.
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+- banco-master
+issuer: Serviço Funerário, Hospital do Servidor e Instituto de Previdência do Município de São Paulo
+url: https://diariooficial.prefeitura.sp.gov.br/
+reference: Termo de Autorização nº 01/2022 do Serviço Funerário; credenciamentos do HSPM de 23/03/2023,
+  24/03/2025 e 23/04/2025; ata do IPREM de 21/01/2026
+excerpt: os valores das parcelas estão sendo descontados corretamente e depositados na conta responsável
+  pela organização financeira, enquanto a situação judicial do banco é regularizada
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
