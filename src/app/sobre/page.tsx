@@ -124,6 +124,39 @@ export default function SobrePage() {
           exatamente o trecho do mapa que sustenta a citação.
         </p>
       </Secao>
+
+      {/*
+        Parte de quem lê este site são jornalistas e pessoas ligadas a um caso criminal em curso, e
+        gente assim confere o que está sendo medido. Aqui só entra o que é verificável: as duas
+        primeiras afirmações são medidas no próprio site; sobre o serviço de terceiro, o texto aponta
+        para a documentação dele em vez de dar garantia em nome do Novelo.
+      */}
+      <Secao id="medicao" titulo="O que este site mede">
+        <p>
+          Não há cadastro, anúncio nem comentários, e o site não grava nenhum cookie. Nada aqui
+          identifica quem está lendo.
+        </p>
+        <p>
+          Duas preferências ficam guardadas no seu próprio navegador e não saem dele: o tema, claro
+          ou escuro, e a dispensa do painel de orientação do grafo. Apagar os dados do site no
+          navegador apaga as duas.
+        </p>
+        <p>
+          A contagem de acessos é feita pelo{" "}
+          <a
+            href="https://developers.cloudflare.com/web-analytics/"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            Cloudflare Web Analytics
+          </a>
+          , ativado na hospedagem, e serve para saber quais páginas são lidas, em números agregados.
+          O que esse serviço coleta está descrito pelo próprio Cloudflare — não peça que se acredite
+          na palavra do Novelo sobre o trabalho de terceiro, que é a mesma regra aplicada a qualquer
+          fonte deste acervo. E, como em todo site, quem entrega a página vê o pedido que a
+          solicitou: isso é do funcionamento da web, não da medição.
+        </p>
+      </Secao>
     </PageShell>
   );
 }

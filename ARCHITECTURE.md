@@ -129,6 +129,23 @@ Site estático sem segredos em runtime. `.env.example` versionado, `.env*` ignor
 pre-commit e no CI, scanner de fallback (`npm run scan:secrets`), auditoria de dependências e CodeQL.
 Cabeçalhos de segurança são aplicados pelo host (`public/_headers`, ver [DEPLOYMENT.md](DEPLOYMENT.md)).
 
+## Medição de acessos
+
+O site usa **Cloudflare Web Analytics no modo automático**: o beacon é injetado pelo Pages no deploy
+(painel → Workers & Pages → `novelo-master` → aba Metrics), e **não existe código nem token neste
+repositório**. Está documentado aqui justamente por isso — sem esta seção, nada no código diria que a
+medição existe, e um projeto que se apresenta como auditável não pode ter um medidor invisível.
+
+A CSP em `public/_headers` libera `static.cloudflareinsights.com` em `script-src`, e só ele. A
+medição é enviada para `/cdn-cgi/rum` no próprio domínio, porque o site é servido pelo Cloudflare;
+por isso `connect-src` continua apenas `'self'`. Beacon embutido à mão em host não proxiado exigiria
+abrir `cloudflareinsights.com` também.
+
+O que o site expõe ao leitor sobre isso está em `/sobre`, seção "O que este site mede". Aquele texto
+afirma apenas o que é verificável aqui — ausência de cookie, as duas preferências em `localStorage`
+(tema e dispensa do painel do grafo) — e, quanto ao serviço de terceiro, aponta para a documentação
+do Cloudflare em vez de dar garantia em nome do projeto.
+
 ## Evolução prevista
 
 - **Banco de dados**: os schemas Zod permitem derivar DDL para PostgreSQL/Supabase sem alterar o
