@@ -1,0 +1,32 @@
+id: doc-2025-02-previpaulista-contra-parecer-sem-aprovacao-comite
+kind: document
+title: 'PreviPaulista: o único aporte que a própria prefeitura admite ter sido irregular desde o início'
+doc_type: official_report
+date: '2025-11-20'
+source_ids:
+- src-movimentoeconomico-2025-11-20-previpaulista-joga-gestao-anterior
+- src-movimentoeconomico-2026-06-10-operacao-take-over-previpaulista
+summary: Nota oficial da Prefeitura de Paulista (PE), de 20/11/2025, responsabilizando o ex-prefeito Yves Ribeiro
+  pelo investimento de aproximadamente R$ 3 milhões em Letras Financeiras do Banco Master pela PreviPaulista, em
+  fevereiro de 2024, sob responsabilidade do então diretor do instituto, Luiz Augusto da Silva Junior. Diferentemente
+  de São Gabriel do Oeste, onde a aplicação seguiu parecer favorável de consultoria contratada, a auditoria interna
+  de Paulista concluiu que o aporte ocorreu 'à revelia da governança interna, contrariando parecer da consultoria
+  de investimentos contratada à época e sem a devida aprovação do Comitê de Investimentos' — é o único, entre os
+  seis institutos examinados neste lote, em que a própria administração afirma que a irregularidade formal precedeu
+  a crise do banco, e não apenas a sucedeu. Em 10/06/2026, a Polícia Federal deflagrou a Operação Take Over, com
+  dez mandados em Paulista, Recife e no Rio de Janeiro, investigando suspeita de pagamento de propina a gestores
+  do fundo e se a conduta caracteriza gestão temerária ou fraudulenta. A gestão atual — prefeito Ramos e a diretora-presidente
+  do instituto, Giovanna Cordeiro — contratou escritório de advocacia para buscar reparação integral do patrimônio.
+is_official: true
+related_entity_ids:
+- previpaulista
+- yves-ribeiro
+- banco-master
+issuer: Prefeitura Municipal do Paulista (PE) e Polícia Federal
+url: https://movimentoeconomico.com.br/previdencia/2025/11/20/paulista-banco-master/
+reference: Nota oficial de 20/11/2025; Operação Take Over, 10/06/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

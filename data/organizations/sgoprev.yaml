@@ -1,0 +1,38 @@
+id: sgoprev
+kind: organization
+name: SGOPrev
+full_name: Instituto de Previdência de São Gabriel do Oeste
+aliases:
+- SGOPrev
+- RPPS de São Gabriel do Oeste
+org_type: public_body
+jurisdiction: São Gabriel do Oeste (MS)
+summary: Gestor do regime próprio de previdência de São Gabriel do Oeste (MS). Aplicou R$ 3,4 milhões — 4,20% de
+  sua carteira — em Letra Financeira do Banco Master indexada ao IPCA, prazo de dez anos, taxa de 7,15% ao ano,
+  com base em parecer técnico de 12/09/2025 da Crédito & Mercado Consultoria de Investimentos, aprovado por Comitê
+  de Investimentos e Conselho Administrativo, dois meses antes da liquidação do banco. Após a crise, a prefeitura
+  instituiu comissão para apurar o processo de escolha da instituição financeira. É um dos cinco regimes de Mato
+  Grosso do Sul sob auditoria conjunta do TCE-MS.
+why_in_novelo: É um dos dezoito regimes próprios que aplicaram em papel do Banco Master, e o caso em que o parecer
+  técnico datado de uma consultoria — a Crédito & Mercado — contradiz a negativa pública posterior da mesma empresa
+  de ter assessorado investimentos no banco.
+cited_position:
+- kind: clarification
+  summary: A diretoria do SGOPrev afirmou que a aplicação foi embasada por parecer técnico de consultoria contratada
+    e passou por Comitê de Investimentos e Conselho Administrativo.
+  source_ids:
+  - src-idest-2025-11-19-sgoprev-3-4-milhoes-letra-financeira
+  by_id: sgoprev
+  date: '2025-11-19'
+open_questions:
+- O corpus não obteve o texto integral do parecer da Crédito & Mercado, apenas a descrição e a conclusão citadas
+  pela reportagem.
+source_ids:
+- src-midiamax-2026-01-31-municipios-ms-16-milhoes-nao-sabem-recuperar
+- src-idest-2025-11-19-sgoprev-3-4-milhoes-letra-financeira
+- src-timesbrasil-18-rpps-lista
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

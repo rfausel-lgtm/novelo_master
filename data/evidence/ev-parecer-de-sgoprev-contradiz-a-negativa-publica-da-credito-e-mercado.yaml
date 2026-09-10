@@ -1,0 +1,23 @@
+id: ev-parecer-de-sgoprev-contradiz-a-negativa-publica-da-credito-e-mercado
+kind: evidence
+classification: D
+proposition: O parecer técnico de 12/09/2025 da Crédito & Mercado sobre o investimento do SGOPrev no Banco Master
+  — datado, assinado pela própria consultoria e amplamente noticiado desde 19/11/2025 — contradiz a declaração pública
+  da mesma empresa, de agosto de 2026, de que 'nunca foi consultada' sobre investimentos no Master, 'não analisou
+  nem recomendou as operações' e 'não emitiu parecer técnico'.
+document_ids:
+- doc-2025-09-12-parecer-credito-e-mercado-sgoprev-master
+source_ids:
+- src-credito-e-mercado-formulario-referencia-cvm
+date: '2026-09-10'
+notes: A denúncia geral da consultoria, registrada no acervo desde o lote da rede de sete regimes próprios, é anterior
+  a esta apuração específica sobre São Gabriel do Oeste ter sido tornada explícita no acervo, mas o caso já era
+  público — a reportagem original é de 19/11/2025, nove meses antes da negativa de agosto de 2026. A contradição
+  é entre um enunciado geral ('nunca foi consultada... não emitiu parecer') e um documento específico, datado e
+  atribuído à própria empresa. São Gabriel do Oeste passa a ser o oitavo regime próprio identificado com vínculo
+  à Crédito & Mercado, e não mais o sétimo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,23 @@
+id: rel-iprefsul-banco-master-financial
+kind: relationship
+from_id: iprefsul
+to_id: banco-master
+relationship_type: financial
+directed: true
+label: aplicou R$ 7 milhões em letras financeiras
+start_date: 2024-07
+description: O IPREFSUL aplicou R$ 7 milhões em letras financeiras do Banco Master em julho de 2024, mais de 15%
+  do patrimônio do fundo.
+evidence_class: C
+confidence: 0.8
+status: unverified
+evidence_ids: []
+source_ids:
+- src-midiamax-2026-01-31-municipios-ms-16-milhoes-nao-sabem-recuperar
+- src-midiamax-2026-05-27-pf-apura-rombo-9-milhoes-fatima-sul-angelica
+- src-midiamax-2025-11-19-fatima-sul-pode-proibir-bancos-privados
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

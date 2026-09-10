@@ -1,0 +1,29 @@
+id: doc-2025-09-12-parecer-credito-e-mercado-sgoprev-master
+kind: document
+title: O parecer da Crédito & Mercado que aprovou o Master para o SGOPrev, seis meses antes da liquidação
+doc_type: corporate_record
+date: '2025-09-12'
+source_ids:
+- src-idest-2025-11-19-sgoprev-3-4-milhoes-letra-financeira
+summary: 'Parecer técnico assinado pela Crédito & Mercado Consultoria de Investimentos, contratada pelo SGOPrev
+  (São Gabriel do Oeste), datado de 12/09/2025 — pouco mais de dois meses antes da liquidação do Banco Master —,
+  concluindo que a instituição ''atendia aos requisitos legais e de risco'' previstos na Resolução CMN nº 4.963/2021.
+  O parecer embasou a aplicação de R$ 3,4 milhões em Letra Financeira, aprovada pelo Comitê de Investimentos e pelo
+  Conselho Administrativo do instituto. É relevante por um motivo que extrapola São Gabriel do Oeste: a mesma consultoria
+  — já registrada no acervo como assessora de sete regimes próprios que compraram papel do Master, somando R$ 232
+  milhões — afirmou publicamente, em agosto de 2026, que ''nunca foi consultada'' sobre os investimentos no banco
+  e que ''não emitiu parecer técnico''. Este documento, específico e datado, contradiz esse enunciado geral no caso
+  concreto de São Gabriel do Oeste.'
+is_official: false
+related_entity_ids:
+- sgoprev
+- credito-e-mercado
+- banco-master
+issuer: Crédito & Mercado Consultoria de Investimentos
+url: https://idest.com.br/variedade/instituto-de-previdencia-de-sao-gabriel-do-oeste-aplicou-r-34-milhoes-em-letra-financeira-do-banco-master
+reference: Parecer técnico de 12/09/2025, citado no Relatório Analítico de Investimentos de agosto de 2025
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

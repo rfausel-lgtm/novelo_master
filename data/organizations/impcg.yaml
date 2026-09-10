@@ -1,0 +1,45 @@
+id: impcg
+kind: organization
+name: IMPCG
+full_name: Instituto Municipal de Previdência de Campo Grande
+aliases:
+- IMPCG
+- Previdência da Capital
+- RPPS de Campo Grande
+org_type: public_body
+jurisdiction: Campo Grande (MS)
+summary: 'Gestor do regime próprio de previdência da capital sul-mato-grossense. Aplicou R$ 1,2 milhão em Letra
+  Financeira do Banco Master em abril de 2024, com vencimento em abril de 2029 e sem possibilidade de resgate antecipado
+  — investimento amparado, segundo o Município, pela Resolução CMN nº 4.963/2021 e pela Política Anual de Investimentos
+  vigente à época, quando o Master estava regularmente autorizado a captar recursos de RPPS. Com a liquidação extrajudicial
+  de novembro de 2025, o vencimento do título foi antecipado por força de lei, tornando o valor de R$ 1.427.000,00
+  líquido e certo; o instituto ajuizou ação de compensação de créditos contra o banco, aproveitando ser ele devedor
+  de empréstimos consignados dos servidores, e obteve tutela de urgência para depósito judicial e suspensão de cobranças
+  sobre os consignados. Em 25/08/2026 foi alvo da Operação Presciência da PF, com seis mandados, apurando gestão
+  temerária e corrupção passiva e ativa: à época do investimento, o instituto era comandado por Camilla Nascimento,
+  hoje vice-prefeita de Campo Grande e secretária municipal de Assistência Social. É um dos cinco regimes de Mato
+  Grosso do Sul sob auditoria conjunta do TCE-MS.'
+why_in_novelo: É um dos dezoito regimes próprios que aplicaram em papel do Banco Master, e o único, entre os seis
+  deste lote, com investigação criminal que alcança a atual vice-prefeita da capital do estado, à frente do instituto
+  no momento da decisão.
+cited_position:
+- kind: clarification
+  summary: O Município afirmou que os investimentos seguiram a Resolução CMN nº 4.963/2021 e a Política Anual de
+    Investimentos, e que, à época, o Banco Master estava regularmente autorizado a receber recursos de RPPS.
+  source_ids:
+  - src-midiamax-2026-01-31-municipios-ms-16-milhoes-nao-sabem-recuperar
+  date: '2026-01-31'
+open_questions:
+- 'A divergência entre R$ 1,2 milhão (valor original, agosto de 2026) e R$ 1.427.000,00 (valor atualizado citado
+  em janeiro de 2026) não foi objeto de reconciliação explícita em nenhuma das fontes: a diferença é compatível
+  com juros e correção monetária acumulados entre o aporte (abril de 2024) e as datas das duas reportagens.'
+- Não localizada manifestação pública de Camilla Nascimento sobre a Operação Presciência.
+source_ids:
+- src-midiamax-2026-01-31-municipios-ms-16-milhoes-nao-sabem-recuperar
+- src-investigams-2026-08-25-operacao-presciencia-impcg-1-2-milhao
+- src-timesbrasil-18-rpps-lista
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

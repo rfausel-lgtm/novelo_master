@@ -1,0 +1,40 @@
+id: ipa-angelica
+kind: organization
+name: IPA de Angélica
+full_name: Instituto de Previdência dos Servidores Municipais de Angélica
+aliases:
+- IPA
+- RPPS de Angélica
+org_type: public_body
+jurisdiction: Angélica (MS)
+summary: Gestor do regime próprio de previdência de Angélica (MS), descrito pela Prefeitura como autônomo do Executivo
+  municipal. Credenciou o Banco Master em abril de 2024, aplicando R$ 2 milhões, com parecer próprio concluindo
+  não haver indícios que prejudicassem a aprovação. Resgatou o valor semanas antes da liquidação de novembro de
+  2025 e das prisões subsequentes — a única exposição líquida praticamente nula entre os seis institutos deste lote.
+  Ainda assim, foi o principal alvo das operações Zehirut e Charitzut (27/05/2026), concentrando sete dos mandados
+  de busca e apreensão, com medidas cautelares de afastamento de funções públicas cumpridas. Investigado por gestão
+  temerária; é um dos cinco regimes de Mato Grosso do Sul sob auditoria conjunta do TCE-MS.
+why_in_novelo: É um dos dezoito regimes próprios que aplicaram em papel do Banco Master, e o único caso de resgate
+  integral antes da liquidação combinado com investigação criminal concentrada sobre o processo de decisão, não
+  sobre o valor perdido.
+cited_position:
+- kind: clarification
+  summary: A Prefeitura de Angélica declarou que o IPA é autônomo do Executivo municipal e que resgatou o valor
+    investido semanas antes da liquidação do banco.
+  source_ids:
+  - src-midiamax-2026-05-28-angelica-parecer-sem-indicio-de-prejuizo
+  date: '2026-05-28'
+open_questions:
+- O que motivou o resgate antecipado, semanas antes da liquidação, não foi esclarecido em nenhuma fonte consultada
+  — se decisão técnica preventiva ou coincidência de calendário.
+- Os fundamentos das medidas cautelares de afastamento de funções públicas não foram detalhados pela imprensa consultada.
+source_ids:
+- src-midiamax-2026-01-31-municipios-ms-16-milhoes-nao-sabem-recuperar
+- src-midiamax-2026-05-27-pf-apura-rombo-9-milhoes-fatima-sul-angelica
+- src-midiamax-2026-05-28-angelica-parecer-sem-indicio-de-prejuizo
+- src-timesbrasil-18-rpps-lista
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

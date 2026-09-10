@@ -1,0 +1,38 @@
+id: iprefsul
+kind: organization
+name: IPREFSUL
+full_name: Instituto de Previdência Social dos Servidores Municipais de Fátima do Sul
+aliases:
+- IPREFSUL
+- RPPS de Fátima do Sul
+org_type: public_body
+jurisdiction: Fátima do Sul (MS)
+summary: Autarquia criada pela Lei municipal nº 898/2002, gestora do regime próprio de previdência dos servidores
+  de Fátima do Sul (MS). Aplicou R$ 7 milhões em letras financeiras do Banco Master em julho de 2024, sob gestão
+  municipal e presidência do instituto anteriores às atuais — mais de 15% do patrimônio total do fundo, segundo
+  apuração da Polícia Federal. Alvo de mandado de busca e apreensão na Operação Zehirut (27/05/2026), parte da auditoria
+  conjunta do TCE-MS sobre cinco regimes próprios do estado. O prefeito atual, Wagner da Garagem, estuda projeto
+  de lei para restringir futuras aplicações a bancos oficiais.
+why_in_novelo: É um dos dezoito regimes próprios de previdência que aplicaram em letras financeiras do Banco Master,
+  com mais de 15% do patrimônio comprometido e alvo de operação da Polícia Federal.
+cited_position:
+- kind: not_located
+  summary: A atual presidente do instituto, professora Claudete Santos, não respondeu a pedido de manifestação do
+    Midiamax.
+  source_ids:
+  - src-midiamax-2025-11-19-fatima-sul-pode-proibir-bancos-privados
+open_questions:
+- O corpus não obteve o parecer técnico ou a ata que aprovou a aplicação de julho de 2024, nem identificou a presidente
+  do instituto à época.
+- Não está esclarecido o percentual exato de comprometimento do patrimônio nem o estado atual de recuperação do
+  valor.
+source_ids:
+- src-midiamax-2026-01-31-municipios-ms-16-milhoes-nao-sabem-recuperar
+- src-midiamax-2026-05-27-pf-apura-rombo-9-milhoes-fatima-sul-angelica
+- src-midiamax-2025-11-19-fatima-sul-pode-proibir-bancos-privados
+- src-timesbrasil-18-rpps-lista
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,24 @@
+id: rel-sgoprev-banco-master-financial
+kind: relationship
+from_id: sgoprev
+to_id: banco-master
+relationship_type: financial
+directed: true
+label: aplicou R$ 3,4 milhões em letra financeira
+start_date: 2025-09
+description: O SGOPrev aplicou R$ 3,4 milhões em Letra Financeira do Banco Master, com parecer técnico favorável
+  da Crédito & Mercado, dois meses antes da liquidação.
+evidence_class: D
+confidence: 0.9
+status: verified
+evidence_ids:
+- ev-sgoprev-aplicou-3-4-milhoes-com-parecer-favoravel-da-credito-e-mercado
+document_ids:
+- doc-2025-09-12-parecer-credito-e-mercado-sgoprev-master
+source_ids:
+- src-idest-2025-11-19-sgoprev-3-4-milhoes-letra-financeira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,44 @@
+id: previpaulista
+kind: organization
+name: PreviPaulista
+full_name: Instituto de Previdência Social do Município do Paulista
+aliases:
+- PreviPaulista
+- RPPS de Paulista
+org_type: public_body
+jurisdiction: Paulista (PE)
+summary: Gestor do regime próprio de previdência de Paulista, na Região Metropolitana do Recife. Aplicou cerca de
+  R$ 3 milhões em Letras Financeiras do Banco Master em fevereiro de 2024, sob a gestão do então prefeito Yves Ribeiro
+  e do então diretor do instituto, Luiz Augusto da Silva Junior — decisão que a própria administração atual descreve
+  como tomada 'à revelia da governança interna, contrariando parecer da consultoria de investimentos contratada
+  à época e sem a devida aprovação do Comitê de Investimentos', a única, entre os seis institutos deste lote, formalmente
+  contrária ao parecer técnico próprio. A carteira do instituto supera R$ 135 milhões, excluindo o valor aplicado
+  no Master. Em 10/06/2026 a Polícia Federal deflagrou a Operação Take Over, com dez mandados em Paulista, Recife
+  e no Rio de Janeiro, investigando suspeita de possível pagamento de propina a gestores do fundo e gestão temerária
+  ou fraudulenta. A gestão atual — prefeito Ramos e a diretora-presidente Giovanna Cordeiro — contratou escritório
+  de advocacia para buscar responsabilização e reparação integral.
+why_in_novelo: É um dos dezoito regimes próprios que aplicaram em papel do Banco Master, e o único fora de Mato
+  Grosso do Sul entre os seis pequenos compradores que fecham a lista — e o único em que a própria administração
+  municipal admite irregularidade formal anterior à crise do banco.
+cited_position:
+- kind: clarification
+  summary: A Prefeitura de Paulista atribuiu a decisão à gestão anterior, afirmou ter identificado falhas de governança
+    em auditoria interna e informou ter contratado escritório de advocacia para buscar reparação integral do patrimônio,
+    reafirmando que servidores, aposentados e pensionistas não serão afetados.
+  source_ids:
+  - src-movimentoeconomico-2025-11-20-previpaulista-joga-gestao-anterior
+  date: '2025-11-20'
+open_questions:
+- O corpus não obteve a íntegra do parecer contrariado nem da ata (inexistente, segundo a própria prefeitura) do
+  Comitê de Investimentos.
+- Não localizada manifestação de Yves Ribeiro ou de Luiz Augusto da Silva Junior sobre a acusação de terem contornado
+  a governança interna.
+source_ids:
+- src-movimentoeconomico-2025-11-20-previpaulista-joga-gestao-anterior
+- src-movimentoeconomico-2026-06-10-operacao-take-over-previpaulista
+- src-timesbrasil-18-rpps-lista
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

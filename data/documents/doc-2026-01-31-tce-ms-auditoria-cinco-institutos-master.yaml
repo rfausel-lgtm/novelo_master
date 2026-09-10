@@ -1,0 +1,29 @@
+id: doc-2026-01-31-tce-ms-auditoria-cinco-institutos-master
+kind: document
+title: TCE-MS abre auditoria única sobre os cinco institutos sul-mato-grossenses no Master
+doc_type: official_report
+date: '2026-01-31'
+source_ids:
+- src-midiamax-2026-01-31-municipios-ms-16-milhoes-nao-sabem-recuperar
+summary: O Tribunal de Contas de Mato Grosso do Sul abriu, por representação do Ministério Público de Contas do
+  Estado, uma única auditoria para apurar a regularidade das aplicações em Banco Master feitas pelos regimes próprios
+  de previdência de Fátima do Sul, Jateí, São Gabriel do Oeste, Angélica e Campo Grande — R$ 16 milhões somados.
+  O processo, ainda em fase de planejamento dois meses após a liquidação do banco, examinará documentalmente o passo
+  a passo de cada decisão de investimento, sem prazo de conclusão definido; a manifestação dos entes só ocorrerá
+  depois de concluído o relatório técnico da Divisão de Fiscalização. É a mesma lógica de auditoria unificada que
+  o TCE-RJ aplicou ao Rioprevidência, mas em escala municipal e coordenando cinco entes de uma vez.
+is_official: true
+related_entity_ids:
+- iprefsul
+- jateiprev
+- sgoprev
+- ipa-angelica
+- impcg
+issuer: Tribunal de Contas do Estado de Mato Grosso do Sul (TCE-MS)
+url: https://midiamax.com.br/politica/transparencia/2026/municipios-ms-ainda-nao-sabem-recuperar-r-16-milhoes-investidos-master/
+reference: Auditoria aberta por representação do Ministério Público de Contas de Mato Grosso do Sul
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

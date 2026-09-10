@@ -1,0 +1,27 @@
+id: rel-ipa-angelica-banco-master-financial
+kind: relationship
+from_id: ipa-angelica
+to_id: banco-master
+relationship_type: financial
+directed: true
+label: aplicou e resgatou R$ 2 milhões
+start_date: 2024-04
+end_date: 2025-11
+description: O IPA de Angélica credenciou o Master em abril de 2024, aplicou R$ 2 milhões e resgatou o valor semanas
+  antes da liquidação de novembro de 2025.
+evidence_class: D
+confidence: 0.85
+status: verified
+evidence_ids:
+- ev-parecer-de-angelica-aprovou-master-mes-do-credenciamento
+- ev-angelica-resgatou-recursos-semanas-antes-da-liquidacao
+document_ids:
+- doc-2024-parecer-ipa-angelica-aprova-master-sem-indicio-de-prejuizo
+source_ids:
+- src-midiamax-2026-01-31-municipios-ms-16-milhoes-nao-sabem-recuperar
+- src-midiamax-2026-05-28-angelica-parecer-sem-indicio-de-prejuizo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

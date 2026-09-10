@@ -1,0 +1,26 @@
+id: rel-impcg-banco-master-financial
+kind: relationship
+from_id: impcg
+to_id: banco-master
+relationship_type: financial
+directed: true
+label: aplicou R$ 1,2 milhão em letra financeira
+start_date: 2024-04
+description: O IMPCG aplicou R$ 1,2 milhão em Letra Financeira do Banco Master em abril de 2024, vencimento abril
+  de 2029, hoje objeto de ação de compensação de créditos.
+evidence_class: D
+confidence: 0.85
+status: verified
+evidence_ids:
+- ev-campo-grande-processa-master-por-compensacao-com-consignados
+- ev-impcg-comandado-por-atual-vice-prefeita-de-campo-grande
+document_ids:
+- doc-2026-08-25-operacao-presciencia-impcg
+source_ids:
+- src-midiamax-2026-01-31-municipios-ms-16-milhoes-nao-sabem-recuperar
+- src-investigams-2026-08-25-operacao-presciencia-impcg-1-2-milhao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

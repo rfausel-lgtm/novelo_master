@@ -1,0 +1,33 @@
+id: jateiprev
+kind: organization
+name: JATEIPREV
+full_name: Fundo Previdenciário Municipal dos Servidores Públicos de Jateí
+aliases:
+- JATEIPREV
+- RPPS de Jateí
+org_type: public_body
+jurisdiction: Jateí (MS)
+summary: Gestor do regime próprio de previdência dos servidores de Jateí (MS), presidido por Luciano Francisco da
+  Silva. Aplicou cerca de R$ 2,5 milhões em papel do Banco Master antes da liquidação de novembro de 2025; a prefeita
+  Cileide Cabral da Silva Brito acionou acompanhamento jurídico para a recuperação dos valores. É um dos cinco regimes
+  próprios de Mato Grosso do Sul sob auditoria conjunta do TCE-MS, e buscou, em março de 2026, apoio institucional
+  da ADIMP-MS (associação de institutos de previdência do estado) para conduzir as demandas relacionadas ao caso.
+why_in_novelo: É um dos dezoito regimes próprios de previdência que aplicaram em papel do Banco Master, entre os
+  cinco de Mato Grosso do Sul sob auditoria do TCE-MS.
+cited_position:
+- kind: not_located
+  summary: Não respondeu a pedido de manifestação do Midiamax sobre as ações tomadas após a liquidação do banco.
+  source_ids:
+  - src-midiamax-2026-01-31-municipios-ms-16-milhoes-nao-sabem-recuperar
+open_questions:
+- 'É o menos documentado dos seis institutos deste lote: a equipe não localizou parecer técnico, ata de aprovação
+  ou data precisa da aplicação, apenas o valor aproximado e a resposta institucional posterior.'
+source_ids:
+- src-midiamax-2026-01-31-municipios-ms-16-milhoes-nao-sabem-recuperar
+- src-adimpms-2026-03-24-apoio-institucional-jatei-banco-master
+- src-timesbrasil-18-rpps-lista
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

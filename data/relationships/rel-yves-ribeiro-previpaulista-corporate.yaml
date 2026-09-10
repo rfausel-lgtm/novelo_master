@@ -1,0 +1,25 @@
+id: rel-yves-ribeiro-previpaulista-corporate
+kind: relationship
+from_id: yves-ribeiro
+to_id: previpaulista
+relationship_type: investigative_allegation
+directed: true
+label: gestão em que ocorreu o investimento irregular
+start_date: 2024-02
+description: Yves Ribeiro era prefeito de Paulista quando a PreviPaulista aplicou recursos no Master de forma que
+  a administração seguinte classifica como irregular; ele é citado na Operação Take Over da PF.
+evidence_class: C
+confidence: 0.7
+status: disputed
+evidence_ids:
+- ev-previpaulista-investiu-contra-parecer-e-sem-aprovacao-de-comite
+document_ids:
+- doc-2025-02-previpaulista-contra-parecer-sem-aprovacao-comite
+source_ids:
+- src-movimentoeconomico-2025-11-20-previpaulista-joga-gestao-anterior
+- src-movimentoeconomico-2026-06-10-operacao-take-over-previpaulista
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

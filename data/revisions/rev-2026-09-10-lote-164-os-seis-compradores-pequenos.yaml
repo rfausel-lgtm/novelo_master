@@ -1,0 +1,39 @@
+id: rev-2026-09-10-lote-164-os-seis-compradores-pequenos
+kind: revision
+date: '2026-09-10'
+title: 'Lote 164 — os seis compradores pequenos: cinco institutos de MS e um de Pernambuco'
+summary: 'Fecha a lista original dos dezoito compradores institucionais do Banco Master com os seis regimes próprios
+  que faltavam: Fátima do Sul, Jateí, São Gabriel do Oeste, Angélica e Campo Grande, em Mato Grosso do Sul, e Paulista,
+  em Pernambuco. Cinco deles estão sob uma única auditoria do TCE-MS, aberta por representação do Ministério Público
+  de Contas estadual — R$ 16 milhões somados, processo sem prazo de conclusão. Cada caso tem um traço próprio. Fátima
+  do Sul (R$ 7 milhões, mais de 15% do fundo) levou o prefeito atual a estudar lei restringindo aplicações a bancos
+  oficiais. Angélica (R$ 2 milhões) é o único caso de resgate integral, feito semanas antes da liquidação — mas
+  ainda assim concentrou sete dos mandados das operações Zehirut e Charitzut, porque a investigação mira o processo
+  de decisão, não o prejuízo. Campo Grande (R$ 1,2 milhão, atualizado para R$ 1.427.000,00) processa o Master por
+  compensação de créditos usando valores de consignados — o mesmo mecanismo jurídico que o Rioprevidência usa em
+  escala maior — e é o único caso que alcança uma autoridade em exercício: o instituto era presidido, em 2024, por
+  Camilla Nascimento, hoje vice-prefeita da capital, alvo da Operação Presciência (25/08/2026). São Gabriel do Oeste
+  (R$ 3,4 milhões) produz o achado mais estrutural do lote: um parecer técnico datado, de 12/09/2025, da consultoria
+  Crédito & Mercado — já mapeada no acervo como assessora de sete regimes próprios que compraram Master — aprovando
+  o banco dois meses antes da liquidação. Esse documento específico contradiz a negativa pública e geral que a mesma
+  consultoria deu em agosto de 2026, de nunca ter sido consultada sobre o tema; São Gabriel do Oeste passa a ser
+  o oitavo regime próprio ligado à empresa. Paulista, em Pernambuco (R$ 3 milhões), é o único caso fora de Mato
+  Grosso do Sul e o único em que a própria prefeitura admite que a decisão de 2024 foi tomada contra o parecer da
+  consultoria contratada e sem aprovação do Comitê de Investimentos — irregularidade formal anterior à crise do
+  banco, hoje apurada pela Operação Take Over (10/06/2026) por suspeita de propina a gestores. Jateí (R$ 2,5 milhões)
+  permanece o caso mais pobre em fontes: sem parecer, ata ou data precisa localizados, apenas o valor e a resposta
+  institucional via ADIMP-MS. Com este lote, os dezoito compradores originais estão todos no acervo como entidades
+  próprias.'
+affected_ids:
+- iprefsul
+- jateiprev
+- sgoprev
+- ipa-angelica
+- impcg
+- previpaulista
+- credito-e-mercado
+- banco-master
+reason: Fechamento da lista dos dezoito compradores institucionais, pedido pelo editor.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'

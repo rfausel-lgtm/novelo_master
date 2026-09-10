@@ -1,0 +1,24 @@
+id: src-movimentoeconomico-2026-06-10-operacao-take-over-previpaulista
+kind: source
+title: Operação da PF mira investimento de fundo municipal pernambucano no Banco Master
+publisher: Movimento Econômico, a partir de reportagem do Portal Folha de Pernambuco
+publication_date: '2026-06-10'
+retrieved_at: '2026-09-10'
+url: https://movimentoeconomico.com.br/previdencia/2026/06/10/operacao-da-pf-mira-investimento-de-fundo-municipal-pernambucano-no-banco-master/
+source_type: press
+summary: Cobertura da Operação Take Over, deflagrada pela Polícia Federal em 10/06/2026 contra o PreviPaulista,
+  com dez mandados de busca e apreensão cumpridos em Paulista, no Recife e no Rio de Janeiro. A PF aponta que os
+  investimentos no Master 'foram feitos por meio de decisões em desacordo com as normas legais e com os procedimentos
+  de governança exigidos', e que a investigação busca esclarecer se houve pagamento de propina a gestores do fundo
+  e se a conduta caracteriza gestão temerária ou fraudulenta. A Prefeitura de Paulista reafirmou, em nota, que os
+  fatos investigados se referem a atos da administração anterior.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (captura local e leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

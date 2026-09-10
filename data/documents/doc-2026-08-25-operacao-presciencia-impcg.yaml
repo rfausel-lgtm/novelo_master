@@ -1,0 +1,27 @@
+id: doc-2026-08-25-operacao-presciencia-impcg
+kind: document
+title: 'Operação Presciência: a ex-presidente do IMPCG que hoje é vice-prefeita de Campo Grande'
+doc_type: official_report
+date: '2026-08-25'
+source_ids:
+- src-investigams-2026-08-25-operacao-presciencia-impcg-1-2-milhao
+summary: A Polícia Federal deflagrou em 25/08/2026 a Operação Presciência, com seis mandados de busca e apreensão
+  e afastamento de sigilo bancário e fiscal, para apurar o investimento de R$ 1,2 milhão do Instituto Municipal
+  de Previdência de Campo Grande (IMPCG) em letras financeiras do Master. A origem é um Relatório de Auditoria Direta
+  — Letras Financeiras da Coordenação-Geral de Auditoria do Ministério da Previdência Social. O inquérito apura
+  gestão temerária, corrupção passiva e corrupção ativa. À época do investimento, abril de 2024, o instituto era
+  comandado por Camilla Nascimento — hoje vice-prefeita de Campo Grande e, simultaneamente, secretária municipal
+  de Assistência Social —, e viaturas da PF estiveram também na secretaria que ela hoje comanda.
+is_official: true
+related_entity_ids:
+- impcg
+- camilla-nascimento
+- banco-master
+issuer: Polícia Federal
+url: https://investigams.com.br/2026/08/25/pf-investiga-investimento-de-r-12-milhao-da-previdencia-da-capital-no-banco-master/
+reference: Operação Presciência, 3ª Vara Federal de Campo Grande/MS
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
