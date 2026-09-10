@@ -83,6 +83,12 @@ open_questions:
   antecedeu em dez meses a criação da margem exclusiva, e o termo descreve o objeto como 'credenciamento
   de instituição financeira' — terceiro ato oficial, ao lado dos de Mato Grosso do Sul e São Paulo, a
   enquadrar nessa categoria uma holding de instituições não financeiras.
+- 'Instrumentos municipais baianos localizados em sete sedes entre 2020 e 2024: Senhor do Bonfim (21/08/2020),
+  Alagoinhas (09/02/2021, renovado em 31/07/2024), Juazeiro (12/03/2021), Jacobina (março e 13/11/2021),
+  Itapetinga (publicado em 08/07/2021), Barra do Choça (24/11/2021) e Alcobaça (publicado em 31/03/2022,
+  com número e data em branco). Em Juazeiro, também a companhia estatal municipal de trânsito firmou termo
+  próprio. Os mesmos dois representantes assinam pela empresa em vários desses instrumentos — os mesmos
+  de Itapissuma, de Mato Grosso do Sul e do Rio Grande do Norte.'
 source_ids:
 - src-djen-cnj-agravo-3000060-09-2026-tjrj
 - src-metropoles-2026-08-15-pkl-one-credcesta-macapa
@@ -113,8 +119,14 @@ source_ids:
 - src-doeba-2018-09-21-contrato-cooperacao-079-2018-saeb-pkl-one
 - src-doern-2022-07-20-termo-adesao-03-2022-sead-pkl-one
 - src-doern-2023-06-01-decreto-32718-margem-cartao-de-beneficio
+- src-doem-2026-09-10-varredura-409-sedes-municipais-bahia
+- src-doem-senhordobonfim-2020-10-07-convenio-005-e-decreto-253
+- src-doem-alagoinhas-2021-2024-convenios-01-2021-e-002-2024
+- src-doem-juazeiro-2021-convenio-001-e-termo-cstt
+- src-doem-barradochoca-2021-11-26-termo-adesao-001-2021-integral
+- src-doem-alcobaca-2022-03-31-convenio-pkl-one-sem-numero
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'

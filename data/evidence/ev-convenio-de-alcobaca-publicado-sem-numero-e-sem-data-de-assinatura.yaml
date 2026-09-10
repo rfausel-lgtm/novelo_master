@@ -1,0 +1,19 @@
+id: ev-convenio-de-alcobaca-publicado-sem-numero-e-sem-data-de-assinatura
+kind: evidence
+classification: D
+proposition: Um dos instrumentos foi publicado incompleto pelo próprio município. O convênio de Alcobaça
+  traz o número em branco no título e a data de assinatura igualmente em branco, na fórmula ', de de de
+  20', embora estabeleça vigência de sessenta meses improrrogáveis 'a contar da assinatura' que não data.
+  A falha importa porque torna indeterminável, pelo documento publicado, quando começa e quando termina
+  a vigência do ajuste que autoriza descontos na folha dos servidores.
+document_ids:
+- doc-2022-03-31-convenio-alcobaca-pkl-one-sem-numero-e-sem-data
+source_ids:
+- src-doem-alcobaca-2022-03-31-convenio-pkl-one-sem-numero
+excerpt: CONVÊNIO PARA CONCESSÃO DE OPERAÇÕES DO CARTÃO DE BENEFÍCIO CONSIGNADO CREDCESTA Nº ___
+date: '2022-03-31'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

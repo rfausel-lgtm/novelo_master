@@ -1,0 +1,36 @@
+id: doc-2020-2024-convenios-municipais-baianos-pkl-one-credcesta
+kind: document
+title: Os convênios municipais baianos com a PKL One, de 2020 a 2024
+doc_type: contract
+date: '2024-07-31'
+source_ids:
+- src-doem-senhordobonfim-2020-10-07-convenio-005-e-decreto-253
+- src-doem-juazeiro-2021-convenio-001-e-termo-cstt
+- src-doem-alagoinhas-2021-2024-convenios-01-2021-e-002-2024
+- src-doem-barradochoca-2021-11-26-termo-adesao-001-2021-integral
+- src-doem-alcobaca-2022-03-31-convenio-pkl-one-sem-numero
+- src-doem-2026-09-10-varredura-409-sedes-municipais-bahia
+summary: 'Conjunto documental reunido pela varredura das sedes municipais baianas. Sete municípios firmaram
+  instrumentos com a operadora, todos localizados em PDF de diário oficial com o cadastro nacional conferido:
+  Senhor do Bonfim, com convênio assinado em 21/08/2020 e vigência até 21/08/2025 — o mais antigo desta
+  varredura; Alagoinhas, em 09/02/2021, com segundo convênio em 31/07/2024; Juazeiro, em 12/03/2021, onde
+  também a companhia estatal municipal de trânsito firmou termo próprio em 08/06/2021; Jacobina, com dois
+  instrumentos, em março e em 13/11/2021; Itapetinga, publicado em 08/07/2021; Barra do Choça, assinado
+  digitalmente em 24/11/2021, com as onze páginas do termo publicadas na íntegra; e Alcobaça, publicado
+  em 31/03/2022. A vigência padrão é de sessenta meses improrrogáveis, e os mesmos dois representantes
+  assinam pela empresa em vários deles — os mesmos que subscrevem os instrumentos de Itapissuma, de Mato
+  Grosso do Sul e do Rio Grande do Norte.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+- andrea-lima-novaes
+issuer: Prefeituras municipais da Bahia
+url: https://doem.org.br/ba/senhordobonfim/diarios/previsualizar/WwjPbwNQ
+reference: Convênios municipais em Senhor do Bonfim, Alagoinhas, Juazeiro, Jacobina, Itapetinga, Barra
+  do Choça e Alcobaça (BA), 2020-2024
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

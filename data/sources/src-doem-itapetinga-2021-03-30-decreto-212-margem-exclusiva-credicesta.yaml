@@ -1,0 +1,25 @@
+id: src-doem-itapetinga-2021-03-30-decreto-212-margem-exclusiva-credicesta
+kind: source
+title: Decreto nº 212/2021 de Itapetinga — 15% da margem exclusivamente para o Programa CREDICESTA
+publisher: Diário Oficial do Município de Itapetinga (BA)
+publication_date: '2021-03-30'
+retrieved_at: '2026-09-10'
+url: https://doem.org.br/ba/itapetinga/diarios/previsualizar/3aB16LN1
+source_type: official_gazette
+summary: 'Edição 2.667, ano 11, páginas 11 a 13. PDF baixado e lido pela equipe. Altera o Decreto 198/2021
+  para estabelecer que, do teto de consignações, ''20% (vinte por cento) da remuneração do servidor para
+  amortização de despesas através de cartão de crédito, sendo 15% (quinze por cento) exclusivamente para
+  o cartão de crédito previsto no Programa CREDICESTA e 05% (cinco por cento) para os outros cartões''.
+  É o achado mais direto da varredura municipal: a norma nomeia o programa privado e lhe reserva três
+  quartos da margem de cartão de crédito, deixando um quarto para todos os concorrentes somados. O convênio
+  com a operadora seria publicado em 08/07/2021.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (varredura das 409 sedes municipais baianas e leitura dos PDFs oficiais)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

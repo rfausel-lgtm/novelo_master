@@ -1,0 +1,28 @@
+id: doc-2026-09-10-varredura-doem-409-sedes-municipais-bahia
+kind: document
+title: Varredura de 409 sedes municipais baianas — o que há e o que não há
+doc_type: official_report
+date: '2026-09-10'
+source_ids:
+- src-doem-2026-09-10-varredura-409-sedes-municipais-bahia
+summary: 'Registro do método e dos resultados negativos, que aqui valem tanto quanto os positivos. Foram
+  consultadas 409 das 421 sedes municipais baianas, com sete grafias distintas e controle metodológico
+  por termos inexistentes, que confirmou tratar-se de busca por token exato. Sete municípios retornaram
+  atos com a operadora, e a convergência entre busca por cadastro nacional e por razão social foi total.
+  Dois falsos positivos foram identificados e descartados: o termo ''PKL'' isolado retorna 38 municípios,
+  quase todos por placas de veículo em editais de infração de trânsito; e a palavra ''Credicesta'' aparece
+  em decretos municipais de consignação referindo-se ao programa estadual de 2018, sem menção à operadora.
+  Nenhum ato de suspensão, rescisão ou descredenciamento posterior à liquidação do banco foi localizado
+  — o ato mais recente em toda a série é de 31/07/2024.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+issuer: Levantamento da equipe
+url: https://doem.org.br/
+reference: Varredura de 409 sedes na plataforma DOEM, com sete termos e controle por termos inexistentes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

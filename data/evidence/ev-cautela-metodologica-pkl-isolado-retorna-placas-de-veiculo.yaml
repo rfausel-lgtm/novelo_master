@@ -1,0 +1,19 @@
+id: ev-cautela-metodologica-pkl-isolado-retorna-placas-de-veiculo
+kind: evidence
+classification: D
+proposition: Registro metodológico que evita erro em verificações futuras. Buscar o termo 'PKL' isolado
+  nos diários municipais retorna 38 municípios, e quase todos os resultados são placas de veículo, no
+  formato PKL seguido de quatro dígitos, em editais de notificação de infração de trânsito. Do mesmo modo,
+  a palavra 'Credicesta' aparece em decretos municipais de consignação referindo-se ao programa estadual
+  criado em 2018, sem qualquer vínculo com a operadora. As buscas que sustentam este acervo usaram o cadastro
+  nacional da empresa e sua razão social, cujos resultados convergiram integralmente.
+document_ids:
+- doc-2026-09-10-varredura-doem-409-sedes-municipais-bahia
+source_ids:
+- src-doem-2026-09-10-varredura-409-sedes-municipais-bahia
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

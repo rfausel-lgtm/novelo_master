@@ -120,6 +120,13 @@ open_questions:
   dispositivo fluminense mais revelador, porém, é o que parte ao meio a margem do cartão: metade para
   compras no comércio local, metade para ''serviços creditícios, financeiros, securitários e congêneres''
   — a mesma fórmula do decreto baiano de 2018.'
+- A escala municipal mostra a engenharia em sua forma mais direta. Nos estados, os decretos criaram categoria
+  genérica de cartão de benefício e a operadora entrou depois; em municípios baianos, a norma nomeia o
+  programa. O decreto de Itapetinga reserva-lhe 15 dos 20 pontos da margem de cartão de crédito, deixando
+  5 para todos os concorrentes; Senhor do Bonfim e Juazeiro reservaram 20%; Irará chega a 30%, a maior
+  margem exclusiva localizada na investigação, embora ali não se tenha encontrado convênio. Sete municípios
+  baianos firmaram instrumentos com a operadora entre 2020 e 2024, com vigência padrão de sessenta meses,
+  e nenhum publicou ato de rescisão após a liquidação do banco.
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -168,6 +175,10 @@ source_ids:
 - src-doeba-2018-09-21-contrato-cooperacao-079-2018-saeb-pkl-one
 - src-doerj-2021-05-28-decreto-47625-texto-integral
 - src-tjrj-acordao-ai-87521-transcreve-art-6-decreto-47625
+- src-doem-itapetinga-2021-03-30-decreto-212-margem-exclusiva-credicesta
+- src-doem-2026-09-10-varredura-409-sedes-municipais-bahia
+- src-doem-senhordobonfim-2020-10-07-convenio-005-e-decreto-253
+- src-doem-juazeiro-2021-convenio-001-e-termo-cstt
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

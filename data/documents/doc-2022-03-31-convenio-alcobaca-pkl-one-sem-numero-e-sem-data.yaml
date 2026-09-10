@@ -1,0 +1,27 @@
+id: doc-2022-03-31-convenio-alcobaca-pkl-one-sem-numero-e-sem-data
+kind: document
+title: Convênio de Alcobaça publicado sem número e sem data de assinatura
+doc_type: contract
+date: '2022-03-31'
+source_ids:
+- src-doem-alcobaca-2022-03-31-convenio-pkl-one-sem-numero
+summary: 'Instrumento que o município publicou incompleto: o título traz o número em branco — ''CARTÃO
+  DE BENEFÍCIO CONSIGNADO CREDCESTA Nº ___'' — e o fecho traz a data em branco, na fórmula '', de de de
+  20''. A cláusula de vigência estabelece sessenta meses improrrogáveis ''a contar da assinatura'', que
+  o próprio documento não data. Publicado em onze páginas de imagem, sem camada de texto, e recuperado
+  por reconhecimento óptico. Assinam pela empresa os mesmos dois representantes que subscrevem os demais
+  instrumentos do grupo.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+- andrea-lima-novaes
+issuer: Prefeitura Municipal de Alcobaça (BA)
+url: https://doem.org.br/ba/alcobaca/diarios/previsualizar/K3aWyDVY
+reference: DOM Alcobaça, ed. 1.611, ano 10, pp. 18-28
+excerpt: CONVÊNIO PARA CONCESSÃO DE OPERAÇÕES DO CARTÃO DE BENEFÍCIO CONSIGNADO CREDCESTA Nº ___
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

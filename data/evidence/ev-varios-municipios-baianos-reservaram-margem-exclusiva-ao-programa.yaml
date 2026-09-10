@@ -1,0 +1,24 @@
+id: ev-varios-municipios-baianos-reservaram-margem-exclusiva-ao-programa
+kind: evidence
+classification: C
+proposition: Itapetinga não é caso isolado. Senhor do Bonfim, por decreto de 04/10/2020, reservou até
+  20% da base de descontos exclusivamente para o cartão do programa; Juazeiro editou decretos no mesmo
+  sentido em março de 2021, também com 20%; Barra do Choça previu, em decreto de 08/06/2021, linha de
+  crédito rotativo pelo cartão. Registre-se ainda o município de Irará, cujo decreto de 2021 reserva 30%
+  da remuneração exclusivamente para operações do programa — a maior margem exclusiva localizada em toda
+  a investigação, estadual ou municipal —, embora ali não se tenha localizado convênio nem menção à operadora,
+  de modo que o vínculo permanece não estabelecido.
+document_ids:
+- doc-2021-03-30-decreto-212-itapetinga-margem-exclusiva-credicesta
+- doc-2020-2024-convenios-municipais-baianos-pkl-one-credcesta
+source_ids:
+- src-doem-senhordobonfim-2020-10-07-convenio-005-e-decreto-253
+- src-doem-juazeiro-2021-convenio-001-e-termo-cstt
+- src-doem-barradochoca-2021-11-26-termo-adesao-001-2021-integral
+- src-doem-2026-09-10-varredura-409-sedes-municipais-bahia
+date: '2021-06-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

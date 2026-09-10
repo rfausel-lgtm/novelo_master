@@ -1,0 +1,25 @@
+id: ev-sete-municipios-baianos-com-convenio-documentado-com-a-operadora
+kind: evidence
+classification: D
+proposition: 'A varredura de 409 sedes municipais baianas localizou instrumentos com a operadora em sete:
+  Senhor do Bonfim, com convênio assinado em 21/08/2020 e vigência até 21/08/2025; Alagoinhas, em 09/02/2021,
+  renovado em 31/07/2024; Juazeiro, em 12/03/2021; Jacobina, com dois instrumentos, um em março e outro
+  em 13/11/2021; Itapetinga, publicado em 08/07/2021; Barra do Choça, assinado digitalmente em 24/11/2021;
+  e Alcobaça, publicado em 31/03/2022. A vigência padrão é de sessenta meses improrrogáveis. Somem-se
+  aos já registrados Feira de Santana, de 02/05/2019, o mais antigo do estado, e a capital baiana pela
+  via estadual.'
+document_ids:
+- doc-2020-2024-convenios-municipais-baianos-pkl-one-credcesta
+source_ids:
+- src-doem-2026-09-10-varredura-409-sedes-municipais-bahia
+- src-doem-senhordobonfim-2020-10-07-convenio-005-e-decreto-253
+- src-doem-alagoinhas-2021-2024-convenios-01-2021-e-002-2024
+- src-doem-juazeiro-2021-convenio-001-e-termo-cstt
+- src-doem-barradochoca-2021-11-26-termo-adesao-001-2021-integral
+- src-doem-alcobaca-2022-03-31-convenio-pkl-one-sem-numero
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
