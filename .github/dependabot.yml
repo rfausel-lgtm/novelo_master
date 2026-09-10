@@ -11,3 +11,9 @@ updates:
     directory: "/"
     schedule:
       interval: weekly
+    groups:
+      # Sem este grupo, o Dependabot abre um PR por passo, e o codeql-action quebra: init e analyze
+      # são duas metades da mesma execução e precisam da mesma versão. Cada PR sozinho deixava o
+      # analyze morrer com "Loaded a configuration file for version 3.x, but running version 4.x".
+      codeql-action:
+        patterns: ["github/codeql-action*"]
