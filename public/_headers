@@ -2,12 +2,18 @@
 # A exportação estática do Next.js inclui scripts inline de hidratação, por isso
 # script-src precisa de 'unsafe-inline'; não há eval.
 #
-# O único recurso externo admitido é o beacon do Cloudflare Web Analytics. No modo automático (o Pages
-# injeta o script no deploy), ele carrega de static.cloudflareinsights.com e envia a medição para
-# /cdn-cgi/rum no PRÓPRIO domínio — por isso connect-src continua só 'self'. Se um dia o beacon for
-# embutido à mão em site não proxiado, aí sim connect-src precisaria de cloudflareinsights.com.
+# O único recurso externo admitido é o beacon do Cloudflare Web Analytics, e ele precisa de DOIS hosts:
+# carrega de static.cloudflareinsights.com (script-src) e envia a medição para
+# cloudflareinsights.com/cdn-cgi/rum (connect-src).
+#
+# A documentação da Cloudflare diz que, em site proxiado com injeção automática, a medição vai para
+# /cdn-cgi/rum no próprio domínio, o que dispensaria o segundo host. MEDIDO EM PRODUÇÃO: não vai. O
+# beacon chama o domínio da Cloudflare, e com connect-src só 'self' o navegador bloqueava o envio —
+# o script carregava, a contagem não acontecia, e nada no site denunciava isso. Só o console do
+# navegador acusava. Não confie na documentação aqui; confira com read_console_messages depois de
+# qualquer mudança nesta linha.
 /*
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; worker-src 'self' blob:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; worker-src 'self' blob:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin

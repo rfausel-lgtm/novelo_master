@@ -151,7 +151,9 @@ export default function SobrePage() {
             Cloudflare Web Analytics
           </a>
           , ativado na hospedagem, e serve para saber quais páginas são lidas, em números agregados.
-          O que esse serviço coleta está descrito pelo próprio Cloudflare — não peça que se acredite
+          Ao abrir uma página, seu navegador envia essa medição diretamente ao Cloudflare, e não a
+          este site. O que esse serviço coleta está descrito pelo próprio Cloudflare — não peça que
+          se acredite
           na palavra do Novelo sobre o trabalho de terceiro, que é a mesma regra aplicada a qualquer
           fonte deste acervo. E, como em todo site, quem entrega a página vê o pedido que a
           solicitou: isso é do funcionamento da web, não da medição.

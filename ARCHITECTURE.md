@@ -136,10 +136,15 @@ O site usa **Cloudflare Web Analytics no modo automático**: o beacon é injetad
 repositório**. Está documentado aqui justamente por isso — sem esta seção, nada no código diria que a
 medição existe, e um projeto que se apresenta como auditável não pode ter um medidor invisível.
 
-A CSP em `public/_headers` libera `static.cloudflareinsights.com` em `script-src`, e só ele. A
-medição é enviada para `/cdn-cgi/rum` no próprio domínio, porque o site é servido pelo Cloudflare;
-por isso `connect-src` continua apenas `'self'`. Beacon embutido à mão em host não proxiado exigiria
-abrir `cloudflareinsights.com` também.
+A CSP em `public/_headers` libera dois hosts, e os dois são necessários: `static.cloudflareinsights.com`
+em `script-src` (de onde o beacon carrega) e `cloudflareinsights.com` em `connect-src` (para onde ele
+envia a medição, em `/cdn-cgi/rum`).
+
+A documentação da Cloudflare afirma que, em site proxiado com injeção automática, a medição vai para
+`/cdn-cgi/rum` no próprio domínio — o que dispensaria o segundo host. **Medido em produção: não vai.**
+Com `connect-src` apenas `'self'`, o script carregava e o envio era bloqueado; o site não dava nenhum
+sinal, e só o console do navegador acusava. É a classe de defeito que não aparece em teste nem em
+build: confira com o console depois de mexer nessa linha.
 
 O que o site expõe ao leitor sobre isso está em `/sobre`, seção "O que este site mede". Aquele texto
 afirma apenas o que é verificável aqui — ausência de cookie, as duas preferências em `localStorage`
