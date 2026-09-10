@@ -57,6 +57,9 @@ open_questions:
   tem pouco peso inferencial: a distribuição de ações de controle concentrado é por sorteio, o mérito
   das duas ações foi decidido por unanimidade do Plenário e o fundamento foi de competência privativa
   da União para legislar sobre direito civil e política de crédito, matéria alheia ao objeto criminal.'
+- O levantamento de sigilo que determinou em 1º/09/2026, no caso Master, deflagrou a crise institucional
+  que culminou, em 09/09, na retirada da relatoria do Inquérito 4.781 de Alexandre de Moraes — que havia
+  se valido daquele inquérito para pedir apuração contra ele.
 source_ids:
 - src-apublica-2026-02-13-mendonca-herda-caso
 - src-cnn-2026-09-02-mendonca-admite-encontro
@@ -79,11 +82,13 @@ source_ids:
 - src-metropoles-2026-09-08-lula-recebe-agu-alvorada-decisao-mendonca
 - src-timesbrasil-2026-09-09-mendonca-homologa-delacao-mineiro
 - src-stf-2026-adi-7900-decreto-legislativo-79-mt
+- src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'
 photo:
   path: /fotos/andre-mendonca.jpg
   source: Wikimedia Commons

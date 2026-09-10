@@ -33,18 +33,27 @@ open_questions:
   Gilmar Mendes-Dino-Moraes de não decidir nada sobre a crise até depois do período eleitoral — avaliação
   da própria reportagem, não confirmada por manifestação direta dele nem por fonte independente até a
   data desta apuração; permanece registrada como leitura jornalística, não fato estabelecido.
+- 'Em 09/09/2026 revogou a designação de Alexandre de Moraes como relator do Inquérito 4.781 e assumiu
+  pessoalmente sua condução, invocando o art. 43 do regimento interno e o entendimento do Plenário na
+  ADPF 572. É o terceiro ato seu, em uma semana, sobre o mesmo eixo: em 03/09 abriu procedimento, em 04/09
+  separou do inquérito das fake news o pedido de Moraes contra Mendonça e o avocou, e em 09/09 retirou
+  a relatoria. Anunciou que remeterá os autos à autoridade policial e à Procuradoria-Geral da República
+  para denúncia ou arquivamento, o que encaminha a um desfecho procedimento aberto desde março de 2019.
+  Pendente: obter a íntegra da decisão, que a equipe conhece apenas por cobertura jornalística.'
 source_ids:
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
 - src-verificacao-direta-equipe-pet16669-decisao-dino-integra
 - src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
 full_name: Luiz Edson Fachin
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'
 photo:
   path: /fotos/edson-fachin.jpg
   source: Wikimedia Commons

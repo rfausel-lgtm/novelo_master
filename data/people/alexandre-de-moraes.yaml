@@ -68,6 +68,12 @@ open_questions:
   o arquivamento veio acompanhado de determinação para que a PF ouvisse o próprio denunciante. Não foi
   localizada manifestação do gabinete sobre a disparidade de prazos, sobre o sigilo ou sobre a coincidência
   de datas.'
+- 'Perdeu em 09/09/2026 a relatoria do Inquérito 4.781, que exercia desde março de 2019 por designação,
+  revogada pelo presidente do tribunal com efeitos a partir daquela data e preservação dos atos praticados.
+  A decisão declara fundamento institucional — segurança jurídica e delimitação — e não formula juízo
+  disciplinar. O contexto imediato é o caso Master: peças cujo sigilo foi levantado em 1º/09 traziam mensagens
+  suas trocadas com Daniel Vorcaro, e ele havia recorrido àquele mesmo inquérito para alcançar o relator
+  do caso.'
 source_ids:
 - src-congressoemfoco-2026-09-01-relatorio-pf
 - src-poder360-2026-09-01-sigilo-pet-16662
@@ -85,6 +91,8 @@ source_ids:
 - src-stf-2023-pet-10829-andamento-e-decisao-nikolas
 - src-stf-2023-pet-11227-andamento-partido-novo
 - src-ainvestigacao-2026-09-09-moraes-arquiva-dino-denunciante-alvo
+- src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
 full_name: Alexandre de Moraes
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Alexandre_de_Moraes
@@ -92,7 +100,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'
 photo:
   path: /fotos/alexandre-de-moraes.jpg
   source: Wikimedia Commons
