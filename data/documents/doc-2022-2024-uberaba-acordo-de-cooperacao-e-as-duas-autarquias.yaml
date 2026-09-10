@@ -1,0 +1,26 @@
+id: doc-2022-2024-uberaba-acordo-de-cooperacao-e-as-duas-autarquias
+kind: document
+title: 'Uberaba: o acordo com o município, o convênio da companhia de saneamento e o do instituto de previdência'
+doc_type: administrative_act
+date: '2023-12-22'
+source_ids:
+- src-dom-uberaba-2022-2024-acordo-de-cooperacao-codau-e-ipserv
+summary: 'Uberaba repete, em Minas Gerais, o padrão que a apuração paulista já registrara: o vínculo não fica só
+  na administração direta. O Acordo de Cooperação com o município foi publicado em 29/04/2022 e aditado em 26/10/2022,
+  com prorrogação publicada em 09/12/2024. A CODAU, companhia municipal de saneamento, abriu inexigibilidade própria
+  (nº 15/2023, despacho de 24/08/2023) e celebrou o Convênio de Consignação em Folha nº 02/2023, publicado em 27/09/2023.
+  O IPSERV, instituto de previdência dos servidores municipais, firmou termo próprio, publicado em 22/12/2023. São
+  três instrumentos distintos, com três signatários distintos, sobre a mesma folha de pagamento municipal — e, no
+  caso do instituto, sobre a folha de quem já se aposentou.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Município de Uberaba (MG), CODAU e IPSERV
+url: https://data.queridodiario.ok.org.br/3170107/2023-12-22/db14d84241dced62f3330a08d79b53821e7e2c04.pdf
+reference: Acordo de Cooperação (2022); Convênio CODAU nº 02/2023; convênio IPSERV (2023)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

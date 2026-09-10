@@ -1,0 +1,23 @@
+id: src-dom-duque-de-caxias-2022-07-04-credenciamento-da-operadora
+kind: source
+title: Boletim Oficial de Duque de Caxias — credenciamento da operadora para cartão de benefícios
+publisher: Boletim Oficial do Município de Duque de Caxias (RJ)
+publication_date: '2022-07-04'
+retrieved_at: '2026-09-10'
+url: https://data.queridodiario.ok.org.br/3301702/2022-07-04/c11950133dd114b628e19756b71989357aa16271.pdf
+source_type: official_gazette
+summary: Edição que publica o credenciamento da operadora pela Secretaria Municipal de Administração para o serviço
+  de cartão de benefícios aos servidores do município, no processo nº 003/001291/2021, com a empresa representada
+  por procuração por Marcos Oliveira Calmon de Bittencourt — o mesmo representante que assina por ela em municípios
+  da Bahia, de Pernambuco e do Mato Grosso do Sul e que subscreve, em Campo Grande, aditivo do próprio banco.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura dos extratos publicados nas edicoes do diario oficial, no acervo do Querido
+    Diario)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,27 @@
+id: src-dom-vitoria-es-2023-10-licenciamento-da-empresa-praia-do-canto
+kind: source
+title: Diário Oficial de Vitória — a empresa em relação municipal de licenciamento, com endereço próprio
+publisher: Diário Oficial do Município de Vitória (ES)
+publication_date: '2023-10-18'
+retrieved_at: '2026-09-10'
+url: https://data.queridodiario.ok.org.br/3205309/2023-10-18/fcfd833eade51a7f7871cc9c5199daa3027e1c83.pdf
+source_type: official_gazette
+summary: Duas relações municipais de licenciamento, publicadas em 02/10/2023 e 18/10/2023, em que a PKL One Participações
+  S.A. figura com endereço próprio na avenida Nossa Senhora da Penha, 714, Edifício RS Trade Tower, lojas 03 e 04,
+  no bairro Praia do Canto, em Vitória. A primeira relação descreve a atividade da empresa como 'Holdings de Instituições
+  Não-Financeiras'; a segunda registra validade até 05/09/2028. É registro municipal de presença física, e não de
+  credenciamento em folha.
+notes: As relações identificam a empresa pelo nome e pela atividade, sem imprimir o cadastro nacional; a correspondência
+  com a operadora é feita pelo nome empresarial e pela atividade declarada, que coincide com o cadastro da Receita
+  Federal.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura dos extratos publicados nas edicoes do diario oficial, no acervo do Querido
+    Diario)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

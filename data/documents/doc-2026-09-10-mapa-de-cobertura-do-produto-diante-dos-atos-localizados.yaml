@@ -1,0 +1,29 @@
+id: doc-2026-09-10-mapa-de-cobertura-do-produto-diante-dos-atos-localizados
+kind: document
+title: 'O mapa que o produto publicava, confrontado com os atos: onde ele acertava e onde ficava aquém'
+doc_type: official_report
+date: '2026-09-10'
+source_ids:
+- src-queridodiario-2026-09-10-varredura-nominal-da-operadora
+summary: 'Fecha a tensão que a varredura anterior deixara declarada em aberto. O seletor ''Convênios Atendidos''
+  do site listava 21 unidades da federação mais a entrada federal em fevereiro de 2024, e a investigação não tinha
+  instrumento em vários deles. A varredura nominal no acervo nacional de diários municipais resolve a maior parte
+  da diferença por excesso, não por falta: apareceram atos em municípios de estados que o corpus tratava como documentados
+  só na esfera estadual — entre eles quatro capitais que faltavam, Belém, Goiânia, Cuiabá e Florianópolis — e um
+  instrumento em Feira de Santana anterior a tudo que se conhecia. Restam três estados do mapa sem nenhum ato localizado:
+  Amazonas, Rondônia e Tocantins. Em Palmas o negativo é real, porque o mesmo acervo devolve milhares de ocorrências
+  de termos genéricos de consignação para a capital tocantinense; no Amazonas e em Rondônia a ausência convive com
+  litígio judicial volumoso, o que sugere operação por instrumento não publicado nesse acervo, e não ausência de
+  operação.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Levantamento da equipe
+url: https://queridodiario.ok.org.br/
+reference: Varredura nominal em janelas semestrais de 2018 a 2026 no acervo do Querido Diário
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

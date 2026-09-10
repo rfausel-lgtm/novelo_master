@@ -1,0 +1,30 @@
+id: doc-2023-09-18-termos-007-e-008-2023-da-ima-de-campinas
+kind: document
+title: Em Campinas, o edital criou a categoria que acomoda quem o Banco Central não autoriza
+doc_type: contract
+date: '2023-09-18'
+source_ids:
+- src-dom-campinas-2023-09-19-termos-007-e-008-2023-ima
+summary: 'A empresa municipal de tecnologia de Campinas credenciou, no mesmo dia e na mesma página do diário, a
+  operadora (Termo nº 007/2023) e o Banco Master (Termo nº 008/2023), ambos por 24 meses contados da publicação,
+  derivados do Chamamento Público nº 003/2023 e da Inexigibilidade nº 008/2023. O achado não é a coincidência, e
+  sim a redação do objeto: o chamamento divide os interessados entre ''Instituições Bancária/Financeiras (autorizadas
+  pelo Banco Central do Brasil)'' e ''Gestoras de Cartão de Crédito (isentas de autorização do Banco Central do
+  Brasil)''. É a formulação administrativa que torna a ausência de autorização não um defeito, mas uma categoria
+  de habilitação — e ela aparece aqui por escrito, num edital municipal, ao lado do credenciamento do banco que
+  detém metade do produto.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+- banco-master
+issuer: Informática de Municípios Associados S/A — IMA, empresa do município de Campinas (SP)
+url: https://data.queridodiario.ok.org.br/3509502/2023-09-19/3aff457ee4e90db73f9596607ea58bdfa05369a0.pdf
+reference: Termos de Credenciamento nº 007/2023 e nº 008/2023; Chamamento Público nº 003/2023
+excerpt: Credenciamento de Instituições Bancária/Financeiras (autorizadas pelo Banco Central do Brasil) e Gestoras
+  de Cartão de Crédito (isentas de autorização do Banco Central do Brasil)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

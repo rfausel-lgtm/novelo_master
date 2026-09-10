@@ -1,0 +1,27 @@
+id: doc-2023-10-18-licenciamento-municipal-da-operadora-em-vitoria
+kind: document
+title: A empresa licenciada em Vitória, com endereço próprio e a atividade de holding
+doc_type: administrative_act
+date: '2023-10-18'
+source_ids:
+- src-dom-vitoria-es-2023-10-licenciamento-da-empresa-praia-do-canto
+summary: 'Duas relações municipais de licenciamento, de 02/10/2023 e 18/10/2023, registram a PKL One Participações
+  S.A. com endereço próprio na avenida Nossa Senhora da Penha, 714, Edifício RS Trade Tower, lojas 03 e 04, no bairro
+  Praia do Canto. A primeira descreve a atividade como ''Holdings de Instituições Não-Financeiras'' — a mesma do
+  cadastro federal —, e a segunda registra validade até 05/09/2028. O registro é de presença física licenciada,
+  não de credenciamento em folha, e ajuda a aterrissar a rede de 49 unidades em vinte e quatro estados que a captura
+  do site do produto mostrava em janeiro de 2026: ao menos uma dessas portas tem ato municipal que a autoriza.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Prefeitura Municipal de Vitória (ES)
+url: https://data.queridodiario.ok.org.br/3205309/2023-10-18/fcfd833eade51a7f7871cc9c5199daa3027e1c83.pdf
+reference: Relações de licenciamento publicadas em 02/10/2023 e 18/10/2023
+excerpt: PKL ONE PARTICIPACOES S.A. Holdings De Instituições Não-Financeiras Av Nossa Senhora Da Penha, Nº 714 Edif
+  Rs Trade Tower Loja 03 E 04, Praia Do Canto - Vitoria/Es
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

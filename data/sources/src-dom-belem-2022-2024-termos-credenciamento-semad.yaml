@@ -1,0 +1,28 @@
+id: src-dom-belem-2022-2024-termos-credenciamento-semad
+kind: source
+title: Diário Oficial do Município de Belém — termos de credenciamento nº 05/2022 e nº 02/2024 da SEMAD
+publisher: Diário Oficial do Município de Belém (PA)
+publication_date: '2024-06-03'
+retrieved_at: '2026-09-10'
+url: https://data.queridodiario.ok.org.br/1501402/2024-06-03/736ca3fffcecdf5d112ed41be001c419ed908d29.pdf
+source_type: official_gazette
+summary: Duas edições lidas na íntegra pela equipe. A de 26/04/2022 publica o extrato do Termo de Credenciamento
+  nº 05/2022-SEMAD, assinado em 25/04/2022, com vigência de 24 meses prorrogáveis, fundado no Edital de Credenciamento
+  nº 001/2022-SEMAD e no Decreto Municipal nº 103.487/2022-PMB, e no processo administrativo nº 1456/2022-SEMAD.
+  A de 03/06/2024 publica o Termo nº 02/2024-SEMAD, assinado em 18/04/2024, também de 24 meses, processo administrativo
+  nº 1027/2024-SEMAD. Nos dois o objeto é a consignação facultativa em folha dos servidores ativos, aposentados
+  e pensionistas da administração direta e indireta do Executivo municipal. A edição de 2022 identifica a empresa
+  pelo cadastro nacional correto; a de 2024 imprime outro número.
+notes: A edição de 26/04/2022 está em https://data.queridodiario.ok.org.br/1501402/2022-04-26/82fb897309d1f7832a981e1ff48661703bd8611a.pdf.
+  O número impresso em 2024, 24.490.629/0001-13, é recusado como inválido pela base pública da Receita Federal;
+  o correto, publicado em 2022, é 27.490.629/0001-13.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura da extracao integral da edicao do diario oficial, no acervo do Querido Diario)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

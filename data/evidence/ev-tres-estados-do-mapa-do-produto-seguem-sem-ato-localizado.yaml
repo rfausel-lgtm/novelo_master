@@ -1,0 +1,17 @@
+id: ev-tres-estados-do-mapa-do-produto-seguem-sem-ato-localizado
+kind: evidence
+classification: D
+proposition: Amazonas, Rondônia e Tocantins constavam do mapa de cobertura publicado pelo produto em fevereiro de
+  2024 e continuam sem nenhum ato municipal localizado; em Palmas o negativo tem valor, porque o mesmo acervo devolve
+  milhares de ocorrências de termos genéricos de consignação para a capital.
+document_ids:
+- doc-2026-09-10-mapa-de-cobertura-do-produto-diante-dos-atos-localizados
+date: '2026-09-10'
+notes: Ausência de ocorrência num acervo incompleto não é prova de ausência de instrumento. No Amazonas e em Rondônia
+  a ausência convive com litígio judicial volumoso contra a operadora, o que aponta para operação por instrumento
+  não publicado nesse acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

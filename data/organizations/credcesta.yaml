@@ -3,150 +3,145 @@ kind: organization
 name: CredCesta
 aliases: []
 org_type: company
-summary: 'Programa de crédito consignado a servidores, aposentados e pensionistas do Estado da Bahia,
-  originado como cartão de compras da rede estatal Cesta do Povo e operado pela Empresa Baiana de Alimentos
-  — existia pelo menos desde 2014, quando o próprio Tribunal de Contas do Estado firmou convênio para
-  oferecê-lo a seus servidores. Em 11/04/2018 o Estado privatizou a EBAL por R$ 15 milhões, com o programa
-  embutido no lote, sem que o direito de operar a folha de cerca de 280 mil servidores fosse objeto de
-  licitação própria. Dezesseis dias depois, os Decretos 18.353 e 18.354 converteram o cartão em plataforma
-  de consignado e deram ao operador privado margem própria de 30% da remuneração líquida, cumulativa com
-  a dos bancos — margem antes reservada a benefícios do próprio poder público. Em 2022, o Decreto 21.041
-  retirou do servidor o direito de portabilidade. Os direitos passaram à PKL One Participações, da qual
-  o Banco Máxima comprou 50%: é essa a porta pela qual Augusto Lima entrou na sociedade com Daniel Vorcaro.
-  O produto cobrava cerca de 5% ao mês, contra média de mercado inferior a 1,6%, e tornou-se o motor de
-  crescimento do banco — 85,4% das operações em 2022. Rebatizado ''M Fácil Consignado'', foi levado ao
+summary: 'Programa de crédito consignado a servidores, aposentados e pensionistas do Estado da Bahia, originado
+  como cartão de compras da rede estatal Cesta do Povo e operado pela Empresa Baiana de Alimentos — existia pelo
+  menos desde 2014, quando o próprio Tribunal de Contas do Estado firmou convênio para oferecê-lo a seus servidores.
+  Em 11/04/2018 o Estado privatizou a EBAL por R$ 15 milhões, com o programa embutido no lote, sem que o direito
+  de operar a folha de cerca de 280 mil servidores fosse objeto de licitação própria. Dezesseis dias depois, os
+  Decretos 18.353 e 18.354 converteram o cartão em plataforma de consignado e deram ao operador privado margem própria
+  de 30% da remuneração líquida, cumulativa com a dos bancos — margem antes reservada a benefícios do próprio poder
+  público. Em 2022, o Decreto 21.041 retirou do servidor o direito de portabilidade. Os direitos passaram à PKL
+  One Participações, da qual o Banco Máxima comprou 50%: é essa a porta pela qual Augusto Lima entrou na sociedade
+  com Daniel Vorcaro. O produto cobrava cerca de 5% ao mês, contra média de mercado inferior a 1,6%, e tornou-se
+  o motor de crescimento do banco — 85,4% das operações em 2022. Rebatizado ''M Fácil Consignado'', foi levado ao
   INSS, onde análise conjunta INSS/CGU apontou indícios de fraude. É objeto de ação direta de inconstitucionalidade
-  e de mais de dez mil processos individuais no TJ-BA. Parte da carteira de consignado do CredCesta foi
-  dada em garantia, pelo Banco Master, a um empréstimo de US$ 300 milhões contraído pela Titan Holding
-  — empresa pessoal de Daniel Vorcaro — junto à Tether Investments, braço de investimento da emissora
-  do stablecoin USDT, em março de 2025. Parte dos mesmos contratos também integrava a carteira depois
-  vendida ao BRB.'
-why_in_novelo: É o ativo que, segundo a Polícia Federal, ligou Augusto Lima ao Banco Master e está no
-  centro do modelo de crédito consignado do banco.
+  e de mais de dez mil processos individuais no TJ-BA. Parte da carteira de consignado do CredCesta foi dada em
+  garantia, pelo Banco Master, a um empréstimo de US$ 300 milhões contraído pela Titan Holding — empresa pessoal
+  de Daniel Vorcaro — junto à Tether Investments, braço de investimento da emissora do stablecoin USDT, em março
+  de 2025. Parte dos mesmos contratos também integrava a carteira depois vendida ao BRB.'
+why_in_novelo: É o ativo que, segundo a Polícia Federal, ligou Augusto Lima ao Banco Master e está no centro do
+  modelo de crédito consignado do banco.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- A data exata de origem do programa é contestada entre fontes — há versões que a situam nos anos 1980,
-  em 1996, em 2007 e em 2014 —, e a equipe não localizou o ato fundador; o preâmbulo do Decreto 18.353/2018
-  sugere origem contratual da EBAL, não normativa.
-- Atribui-se ao edital ou ao contrato de privatização uma cláusula de exclusividade de quinze anos, até
-  2033, mas a equipe não obteve o edital nem o contrato exigido pelo art. 11 do Decreto 18.353, e os decretos
-  lidos não contêm a palavra 'exclusividade'.
-- 'O volume de crédito concedido e o número de servidores especificamente na Bahia não foram isolados:
-  os números de escala disponíveis são nacionais ou do balanço do Banco Master.'
-- Localizada ação civil pública do Ministério Público estadual sobre transparência do CredCesta (19/07/2021),
-  mas não representação, auditoria ou acórdão do Tribunal de Contas do Estado da Bahia sobre a privatização
-  da EBAL ou o contrato de exclusividade.
-- A cláusula de exclusividade de quinze anos, até 2033, é atribuída por reportagem a um comunicado oficial
-  da Comissão Especial da Secretaria de Desenvolvimento Econômico da Bahia de 12/04/2018 — não ao edital
-  nem ao contrato, que a equipe não localizou. Uma segunda reportagem do mesmo veículo, sobre o mesmo
-  episódio, menciona apenas exclusividade genérica, sem prazo.
-- Não se sabe o grau de sobreposição entre a carteira dada em garantia à Tether e a vendida ao BRB — se
-  confirmada sobreposição relevante, configuraria oneração dupla dos mesmos recebíveis.
-- O Banco Master atribuiu ao Banco Central, em março de 2025, a origem de créditos vendidos ao BRB por
-  meio da empresa Tirreno a 'duas associações de servidores da Bahia' — explicação que não se sustentou,
-  segundo apuração da PF, por uso de CPFs de diversas localidades do país. Não se sabe se essas associações
-  são as mesmas (ASTEBA/ASSEBA) já registradas no corpus em relação ao CredCesta.
-- 'Em pelo menos quatro estados o credenciamento foi precedido, poucos dias antes, por decreto que criava
-  margem consignável separada e exclusiva para ''cartão de benefício'' — Bahia (30%, 2018), Rio de Janeiro
-  (20%, 2021, com credenciamento cinco dias depois), Paraná (10%, 2021) e Mato Grosso (10%, 2023). Não
-  há padrão partidário: os governos envolvidos são de PT, PL, PSD, União e PSDB. O padrão é temporal e
-  técnico.'
-- O decreto fluminense de 2021 viabilizou credenciar entidades não autorizadas pelo Banco Central — e
-  a PKL One, operadora do produto, é holding de instituições não-financeiras, nunca autorizada a funcionar
-  como instituição financeira.
-- Após as liquidações do Master e do Banco Pleno, os descontos em folha continuaram, com os valores indo
-  à massa liquidanda, enquanto o produto deixava de funcionar para o servidor. Liquidante e operadora
-  passaram a disputar os mesmos créditos, levando um município a obter decisão judicial que reteve os
-  valores e proibiu ambos de cobrar dos servidores.
-- 'A expansão para os estados está documentada em texto normativo: no Rio de Janeiro, o decreto de 2021
-  criou categoria de consignatária dispensada de autorização do Banco Central, e a operadora foi credenciada
-  cinco dias depois; em Mato Grosso, o decreto de 05/05/2023 criou margem que ''não concorre'' com as
-  demais, removeu o teto de vigência de 24 meses para convênios e moveu o produto para o inciso dispensado
-  de autorização do governador — 25 dias antes de o Banco Master assinar convênio de cinco anos, com um
-  signatário em comum entre as duas peças.'
-- 'A curva do litígio em Mato Grosso do Sul, medida na base pública de julgados do tribunal estadual,
-  acompanha o credenciamento: 5 julgados em 2023, ano em que o produto entrou na folha, 96 em 2024, 216
-  em 2025 e 114 nos oito primeiros meses de 2026. O primeiro grau vem rejeitando a tese de que a operadora
-  seria ''mera licenciadora'' do programa, condenando-a solidariamente com o banco. Em Mato Grosso, por
-  contraste, a trilha do CredCesta é estreita: o aparato repressivo estadual mira outro grupo empresarial,
-  e o produto entra por uma porta só — o credenciamento de maio de 2023.'
-- 'São Paulo revela que o padrão normativo tem duas arquiteturas. No Estado, o cartão de benefício recebeu
-  um sublimite de 15% dentro da margem consignável — mas, quinze dias depois, a Fazenda elevou o teto
-  global de 35% para 50%, abrindo exatamente os quinze pontos do novo produto, por resolução de secretário.
-  No município da capital, a fórmula é a mesma do Rio de Janeiro e de Mato Grosso: margem ''majorada,
-  adicionalmente, em mais 10%'', expressamente exclusiva. O efeito prático converge; a técnica jurídica,
-  não. Registre-se ainda que em Embu das Artes o produto já operava desde outubro de 2021, antes do decreto
-  estadual — como no Paraná, a operação municipal precedeu a norma.'
-- 'A cobertura por unidade da federação está documentada pelas capturas do próprio site: doze estados
-  em maio de 2022 e 21 mais o convênio federal em fevereiro de 2024. Advertência metodológica a confirmar:
-  há indício de que, a partir de meados de 2024, o seletor passou a exibir as 27 unidades da federação
-  em ordem de região, deixando de funcionar como índice de cobertura — a equipe não conseguiu reverificar
-  essa captura por bloqueio temporário do arquivo, e quem citar capturas posteriores a essa data deve
-  confirmar antes se a lista ainda tem valor probatório.'
-- O desenho normativo varia mais do que parecia, e a variação é informativa. Minas Gerais criou a reserva
-  de 10% mantendo a exigência de autorização do Banco Central sobre o próprio emitente, e ali quem operou
-  foi o Banco Master, não a operadora. Goiás criou a margem por lei do Legislativo e não registrou credenciamento
-  algum no diário estadual, apesar de constar da lista de cobertura. Santa Catarina instituiu a margem
-  em abril de 2025 e, em 11/06/2026, revogou-a junto com a própria categoria de consignatária administradora
-  de cartão de benefícios — a reação mais completa localizada até aqui.
-- 'O desenho normativo tem uma variável que organiza todos os casos: o tratamento dado à exigência de
-  autorização do Banco Central. O Rio de Janeiro a dispensou, criando categoria autorizada apenas pelo
-  Estado. São Paulo e Mato Grosso a transferiram para o parceiro bancário. Minas Gerais a manteve sobre
-  o emitente. O Paraná nunca a exigiu para essa espécie. E o Espírito Santo, depois de criar a margem,
-  declarou em portaria de outubro de 2025 que oferecer e administrar cartão consignado de benefício é
-  atividade privativa de instituição financeira. CORREÇÃO ao registro publicado no lote anterior. Ali
-  se afirmou que o Paraná contradizia o padrão por ter credenciado a empresa antes de criar a margem.
-  A leitura do texto normativo mostra que não houve anomalia: a base existia desde a lei de 2016, que
-  já previa consignação por cartão de benefícios. O que a lei de outubro de 2021 fez, dois meses após
-  o credenciamento, foi fechar uma fissura textual — o dispositivo de margem ainda dizia ''cartão de crédito''
-  — substituindo a expressão pela designação exata do produto em operação. A formulação correta, portanto,
-  não é que a empresa entrou antes da norma, e sim que entrou por uma porta que estava aberta havia cinco
-  anos e cuja redação foi depois ajustada à sua prática.'
-- A origem está documentada e é mais explícita do que qualquer desdobramento posterior. O cartão foi criado
-  em 1999 pela própria estatal baiana de alimentos, como instrumento de compra na rede de supermercados
-  públicos. O decreto de 27/04/2018 — assinado no mesmo dia do leilão que alienou a estatal — fixou margem
-  de 30% e assegurou ao 'detentor dos direitos de exploração comercial', nomeado em abstrato e não por
-  identidade, a faculdade de diversificar as funcionalidades do cartão, associando-lhe serviços 'creditícios,
-  financeiros, securitários e congêneres'. A mesma cláusula já constava do edital de alienação de 2015,
-  que não se consumou. É esse dispositivo que os contratos posteriores reproduzem, e é ele que transforma
-  um cartão de mercearia em plataforma de crédito.
-- 'Com a leitura do texto fluminense fecha-se o mapa normativo, e ele tem quatro desenhos, não dois. O
-  Rio criou categoria residual sem critério, autorizada pelo próprio Estado, e margem que expressamente
-  ''não compõe a margem consignável''. São Paulo e Mato Grosso transferiram ao parceiro bancário a exigência
-  de autorização do Banco Central. Minas manteve-a sobre o emitente. O Paraná nunca a exigiu para a espécie.
-  O Espírito Santo criou a margem e depois declarou a atividade privativa de instituição financeira. O
-  dispositivo fluminense mais revelador, porém, é o que parte ao meio a margem do cartão: metade para
-  compras no comércio local, metade para ''serviços creditícios, financeiros, securitários e congêneres''
-  — a mesma fórmula do decreto baiano de 2018.'
-- A escala municipal mostra a engenharia em sua forma mais direta. Nos estados, os decretos criaram categoria
-  genérica de cartão de benefício e a operadora entrou depois; em municípios baianos, a norma nomeia o
-  programa. O decreto de Itapetinga reserva-lhe 15 dos 20 pontos da margem de cartão de crédito, deixando
-  5 para todos os concorrentes; Senhor do Bonfim e Juazeiro reservaram 20%; Irará chega a 30%, a maior
-  margem exclusiva localizada na investigação, embora ali não se tenha encontrado convênio. Sete municípios
-  baianos firmaram instrumentos com a operadora entre 2020 e 2024, com vigência padrão de sessenta meses,
-  e nenhum publicou ato de rescisão após a liquidação do banco.
-- 'Em Macapá, o convênio de setembro de 2021 nunca foi rescindido e os repasses somaram R$ 37,99 milhões
-  entre 2023 e junho de 2026 — no mesmo estado cujo Executivo inabilitara a operadora em 2023 por não
-  se enquadrar entre os tipos de consignatárias. A decisão judicial de agosto de 2026 ali autoriza reter
-  os valores e proíbe cobrar ou negativar servidores, mas mantém os descontos na folha. Em Cairu, o município
-  ajuizou consignação em pagamento por não saber a quem pertencem os créditos que desconta dos servidores.
-  Precisão sobre a resposta sul-mato-grossense: o ato é o Decreto nº 16.696, de 17/11/2025, que veda novas
-  consignações mas preserva os contratos existentes.'
-- 'O produto seguiu gerando reclamação fundamentada em Procons paulistas até 10/09/2026, data de fechamento
-  desta apuração — quatro protocolos em Santos, todos como fundamentada não atendida. Em Campinas, o credenciamento
-  localizado é de empresa de economia mista municipal e alcança seus empregados celetistas, não a folha
-  da prefeitura: precisão necessária para não superestimar a cobertura. Único ato municipal paulista posterior
-  à liquidação a tratar do banco é o indeferimento de Peruíbe a uma troca de titularidade de conta, por
-  falta de amparo junto ao Banco Central.'
-- 'A ponte entre a escala estadual e a municipal está documentada: o convênio da prefeitura de Jequié
-  declara como fundamento legal o próprio decreto estadual de 27/04/2018. O percentual reservado ao produto
-  varia de 10% em Salvador a 30% em Jequié, Nova Soure e Irará, e o convênio costuma ser assinado antes
-  do ato que cria a margem local. A reação administrativa mais antiga localizada é de 22/12/2023, em Vitória
-  da Conquista, por ''reiteradas queixas e denúncias'' de servidores — quase dois anos antes da liquidação
-  e por motivo alheio a ela. E na capital baiana a rubrica seguia corrente: edital de 19/11/2025, dia
-  seguinte à liquidação, descreve a margem do servidor como incluindo ''10% credcesta''.'
+- A data exata de origem do programa é contestada entre fontes — há versões que a situam nos anos 1980, em 1996,
+  em 2007 e em 2014 —, e a equipe não localizou o ato fundador; o preâmbulo do Decreto 18.353/2018 sugere origem
+  contratual da EBAL, não normativa.
+- Atribui-se ao edital ou ao contrato de privatização uma cláusula de exclusividade de quinze anos, até 2033, mas
+  a equipe não obteve o edital nem o contrato exigido pelo art. 11 do Decreto 18.353, e os decretos lidos não contêm
+  a palavra 'exclusividade'.
+- 'O volume de crédito concedido e o número de servidores especificamente na Bahia não foram isolados: os números
+  de escala disponíveis são nacionais ou do balanço do Banco Master.'
+- Localizada ação civil pública do Ministério Público estadual sobre transparência do CredCesta (19/07/2021), mas
+  não representação, auditoria ou acórdão do Tribunal de Contas do Estado da Bahia sobre a privatização da EBAL
+  ou o contrato de exclusividade.
+- A cláusula de exclusividade de quinze anos, até 2033, é atribuída por reportagem a um comunicado oficial da Comissão
+  Especial da Secretaria de Desenvolvimento Econômico da Bahia de 12/04/2018 — não ao edital nem ao contrato, que
+  a equipe não localizou. Uma segunda reportagem do mesmo veículo, sobre o mesmo episódio, menciona apenas exclusividade
+  genérica, sem prazo.
+- Não se sabe o grau de sobreposição entre a carteira dada em garantia à Tether e a vendida ao BRB — se confirmada
+  sobreposição relevante, configuraria oneração dupla dos mesmos recebíveis.
+- O Banco Master atribuiu ao Banco Central, em março de 2025, a origem de créditos vendidos ao BRB por meio da empresa
+  Tirreno a 'duas associações de servidores da Bahia' — explicação que não se sustentou, segundo apuração da PF,
+  por uso de CPFs de diversas localidades do país. Não se sabe se essas associações são as mesmas (ASTEBA/ASSEBA)
+  já registradas no corpus em relação ao CredCesta.
+- 'Em pelo menos quatro estados o credenciamento foi precedido, poucos dias antes, por decreto que criava margem
+  consignável separada e exclusiva para ''cartão de benefício'' — Bahia (30%, 2018), Rio de Janeiro (20%, 2021,
+  com credenciamento cinco dias depois), Paraná (10%, 2021) e Mato Grosso (10%, 2023). Não há padrão partidário:
+  os governos envolvidos são de PT, PL, PSD, União e PSDB. O padrão é temporal e técnico.'
+- O decreto fluminense de 2021 viabilizou credenciar entidades não autorizadas pelo Banco Central — e a PKL One,
+  operadora do produto, é holding de instituições não-financeiras, nunca autorizada a funcionar como instituição
+  financeira.
+- Após as liquidações do Master e do Banco Pleno, os descontos em folha continuaram, com os valores indo à massa
+  liquidanda, enquanto o produto deixava de funcionar para o servidor. Liquidante e operadora passaram a disputar
+  os mesmos créditos, levando um município a obter decisão judicial que reteve os valores e proibiu ambos de cobrar
+  dos servidores.
+- 'A expansão para os estados está documentada em texto normativo: no Rio de Janeiro, o decreto de 2021 criou categoria
+  de consignatária dispensada de autorização do Banco Central, e a operadora foi credenciada cinco dias depois;
+  em Mato Grosso, o decreto de 05/05/2023 criou margem que ''não concorre'' com as demais, removeu o teto de vigência
+  de 24 meses para convênios e moveu o produto para o inciso dispensado de autorização do governador — 25 dias antes
+  de o Banco Master assinar convênio de cinco anos, com um signatário em comum entre as duas peças.'
+- 'A curva do litígio em Mato Grosso do Sul, medida na base pública de julgados do tribunal estadual, acompanha
+  o credenciamento: 5 julgados em 2023, ano em que o produto entrou na folha, 96 em 2024, 216 em 2025 e 114 nos
+  oito primeiros meses de 2026. O primeiro grau vem rejeitando a tese de que a operadora seria ''mera licenciadora''
+  do programa, condenando-a solidariamente com o banco. Em Mato Grosso, por contraste, a trilha do CredCesta é estreita:
+  o aparato repressivo estadual mira outro grupo empresarial, e o produto entra por uma porta só — o credenciamento
+  de maio de 2023.'
+- 'São Paulo revela que o padrão normativo tem duas arquiteturas. No Estado, o cartão de benefício recebeu um sublimite
+  de 15% dentro da margem consignável — mas, quinze dias depois, a Fazenda elevou o teto global de 35% para 50%,
+  abrindo exatamente os quinze pontos do novo produto, por resolução de secretário. No município da capital, a fórmula
+  é a mesma do Rio de Janeiro e de Mato Grosso: margem ''majorada, adicionalmente, em mais 10%'', expressamente
+  exclusiva. O efeito prático converge; a técnica jurídica, não. Registre-se ainda que em Embu das Artes o produto
+  já operava desde outubro de 2021, antes do decreto estadual — como no Paraná, a operação municipal precedeu a
+  norma.'
+- 'A cobertura por unidade da federação está documentada pelas capturas do próprio site: doze estados em maio de
+  2022 e 21 mais o convênio federal em fevereiro de 2024. Advertência metodológica a confirmar: há indício de que,
+  a partir de meados de 2024, o seletor passou a exibir as 27 unidades da federação em ordem de região, deixando
+  de funcionar como índice de cobertura — a equipe não conseguiu reverificar essa captura por bloqueio temporário
+  do arquivo, e quem citar capturas posteriores a essa data deve confirmar antes se a lista ainda tem valor probatório.'
+- O desenho normativo varia mais do que parecia, e a variação é informativa. Minas Gerais criou a reserva de 10%
+  mantendo a exigência de autorização do Banco Central sobre o próprio emitente, e ali quem operou foi o Banco Master,
+  não a operadora. Goiás criou a margem por lei do Legislativo e não registrou credenciamento algum no diário estadual,
+  apesar de constar da lista de cobertura. Santa Catarina instituiu a margem em abril de 2025 e, em 11/06/2026,
+  revogou-a junto com a própria categoria de consignatária administradora de cartão de benefícios — a reação mais
+  completa localizada até aqui.
+- 'O desenho normativo tem uma variável que organiza todos os casos: o tratamento dado à exigência de autorização
+  do Banco Central. O Rio de Janeiro a dispensou, criando categoria autorizada apenas pelo Estado. São Paulo e Mato
+  Grosso a transferiram para o parceiro bancário. Minas Gerais a manteve sobre o emitente. O Paraná nunca a exigiu
+  para essa espécie. E o Espírito Santo, depois de criar a margem, declarou em portaria de outubro de 2025 que oferecer
+  e administrar cartão consignado de benefício é atividade privativa de instituição financeira. CORREÇÃO ao registro
+  publicado no lote anterior. Ali se afirmou que o Paraná contradizia o padrão por ter credenciado a empresa antes
+  de criar a margem. A leitura do texto normativo mostra que não houve anomalia: a base existia desde a lei de 2016,
+  que já previa consignação por cartão de benefícios. O que a lei de outubro de 2021 fez, dois meses após o credenciamento,
+  foi fechar uma fissura textual — o dispositivo de margem ainda dizia ''cartão de crédito'' — substituindo a expressão
+  pela designação exata do produto em operação. A formulação correta, portanto, não é que a empresa entrou antes
+  da norma, e sim que entrou por uma porta que estava aberta havia cinco anos e cuja redação foi depois ajustada
+  à sua prática.'
+- A origem está documentada e é mais explícita do que qualquer desdobramento posterior. O cartão foi criado em 1999
+  pela própria estatal baiana de alimentos, como instrumento de compra na rede de supermercados públicos. O decreto
+  de 27/04/2018 — assinado no mesmo dia do leilão que alienou a estatal — fixou margem de 30% e assegurou ao 'detentor
+  dos direitos de exploração comercial', nomeado em abstrato e não por identidade, a faculdade de diversificar as
+  funcionalidades do cartão, associando-lhe serviços 'creditícios, financeiros, securitários e congêneres'. A mesma
+  cláusula já constava do edital de alienação de 2015, que não se consumou. É esse dispositivo que os contratos
+  posteriores reproduzem, e é ele que transforma um cartão de mercearia em plataforma de crédito.
+- 'Com a leitura do texto fluminense fecha-se o mapa normativo, e ele tem quatro desenhos, não dois. O Rio criou
+  categoria residual sem critério, autorizada pelo próprio Estado, e margem que expressamente ''não compõe a margem
+  consignável''. São Paulo e Mato Grosso transferiram ao parceiro bancário a exigência de autorização do Banco Central.
+  Minas manteve-a sobre o emitente. O Paraná nunca a exigiu para a espécie. O Espírito Santo criou a margem e depois
+  declarou a atividade privativa de instituição financeira. O dispositivo fluminense mais revelador, porém, é o
+  que parte ao meio a margem do cartão: metade para compras no comércio local, metade para ''serviços creditícios,
+  financeiros, securitários e congêneres'' — a mesma fórmula do decreto baiano de 2018.'
+- A escala municipal mostra a engenharia em sua forma mais direta. Nos estados, os decretos criaram categoria genérica
+  de cartão de benefício e a operadora entrou depois; em municípios baianos, a norma nomeia o programa. O decreto
+  de Itapetinga reserva-lhe 15 dos 20 pontos da margem de cartão de crédito, deixando 5 para todos os concorrentes;
+  Senhor do Bonfim e Juazeiro reservaram 20%; Irará chega a 30%, a maior margem exclusiva localizada na investigação,
+  embora ali não se tenha encontrado convênio. Sete municípios baianos firmaram instrumentos com a operadora entre
+  2020 e 2024, com vigência padrão de sessenta meses, e nenhum publicou ato de rescisão após a liquidação do banco.
+- 'Em Macapá, o convênio de setembro de 2021 nunca foi rescindido e os repasses somaram R$ 37,99 milhões entre 2023
+  e junho de 2026 — no mesmo estado cujo Executivo inabilitara a operadora em 2023 por não se enquadrar entre os
+  tipos de consignatárias. A decisão judicial de agosto de 2026 ali autoriza reter os valores e proíbe cobrar ou
+  negativar servidores, mas mantém os descontos na folha. Em Cairu, o município ajuizou consignação em pagamento
+  por não saber a quem pertencem os créditos que desconta dos servidores. Precisão sobre a resposta sul-mato-grossense:
+  o ato é o Decreto nº 16.696, de 17/11/2025, que veda novas consignações mas preserva os contratos existentes.'
+- 'O produto seguiu gerando reclamação fundamentada em Procons paulistas até 10/09/2026, data de fechamento desta
+  apuração — quatro protocolos em Santos, todos como fundamentada não atendida. Em Campinas, o credenciamento localizado
+  é de empresa de economia mista municipal e alcança seus empregados celetistas, não a folha da prefeitura: precisão
+  necessária para não superestimar a cobertura. Único ato municipal paulista posterior à liquidação a tratar do
+  banco é o indeferimento de Peruíbe a uma troca de titularidade de conta, por falta de amparo junto ao Banco Central.'
+- 'A ponte entre a escala estadual e a municipal está documentada: o convênio da prefeitura de Jequié declara como
+  fundamento legal o próprio decreto estadual de 27/04/2018. O percentual reservado ao produto varia de 10% em Salvador
+  a 30% em Jequié, Nova Soure e Irará, e o convênio costuma ser assinado antes do ato que cria a margem local. A
+  reação administrativa mais antiga localizada é de 22/12/2023, em Vitória da Conquista, por ''reiteradas queixas
+  e denúncias'' de servidores — quase dois anos antes da liquidação e por motivo alheio a ela. E na capital baiana
+  a rubrica seguia corrente: edital de 19/11/2025, dia seguinte à liquidação, descreve a margem do servidor como
+  incluindo ''10% credcesta''.'
+- 'O instrumento municipal mais antigo localizado é de Feira de Santana, assinado em 02/05/2019, com sessenta meses
+  de vigência e objeto nomeado como ''Programa CREDICESTA'' — nove meses depois do credenciamento estadual baiano,
+  o que mostra que a descida do produto do estado para os municípios foi quase imediata. O mapa de cobertura que
+  o próprio site publicava em fevereiro de 2024 ficava aquém do alcance real: apareceram atos em municípios de estados
+  que o corpus tratava como documentados só na esfera estadual. Seguem sem ato localizado, entre os estados do mapa,
+  o Amazonas, Rondônia e o Tocantins.'
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -210,6 +205,8 @@ source_ids:
 - src-dom-vitoria-da-conquista-2021-2026-decretos-e-convenio-credcesta
 - src-dom-vitoria-da-conquista-2023-12-22-suspensao-por-queixas-de-servidores
 - src-dom-salvador-2025-11-19-edital-descreve-margem-de-dez-por-cento-credcesta
+- src-dom-feira-de-santana-2019-05-02-convenio-do-programa-credicesta
+- src-queridodiario-2026-09-10-varredura-nominal-da-operadora
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

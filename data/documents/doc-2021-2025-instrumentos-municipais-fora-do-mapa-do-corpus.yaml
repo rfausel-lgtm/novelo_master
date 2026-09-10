@@ -1,0 +1,36 @@
+id: doc-2021-2025-instrumentos-municipais-fora-do-mapa-do-corpus
+kind: document
+title: 'Sete municípios que faltavam: Cuiabá, Florianópolis, Serra, Duque de Caxias, Taubaté, Petrolina e Jaboatão'
+doc_type: administrative_act
+date: '2023-08-07'
+source_ids:
+- src-dom-cuiaba-2022-2024-termo-002-2022-e-aditivos
+- src-dom-florianopolis-2021-07-09-portaria-1218-credenciamento
+- src-dom-serra-es-2023-2025-termo-001-2023-e-aditivo
+- src-dom-duque-de-caxias-2022-07-04-credenciamento-da-operadora
+- src-dom-pe-2021-petrolina-e-jaboatao-instrumentos-municipais
+- src-dom-taubate-2023-08-decreto-15602-e-termo-de-convenio
+summary: 'Instrumentos localizados em fonte primária que a investigação ainda não registrara, todos com a operadora
+  como consignatária. Cuiabá firmou o Termo de Credenciamento nº 002/2022, publicado em 17/02/2022, por doze meses,
+  e o aditou duas vezes, em fevereiro de 2023 e abril de 2024. Florianópolis a credenciou por Portaria nº 1218/2021,
+  de 09/07/2021, com base no Decreto nº 22.958/2021. A Serra assinou o Termo nº 001/2023, publicado em 07/08/2023,
+  aditado em 27/06/2025. Duque de Caxias a credenciou em julho de 2022, no processo nº 003/001291/2021, com a empresa
+  representada pelo mesmo procurador que assina por ela em outros estados. Jaboatão dos Guararapes publicou parceria
+  vigente de 24/05/2021 a 24/05/2023. Petrolina publicou o Termo de Convênio nº 002/2021 em 30/12/2021. Taubaté
+  autorizou o credenciamento por despacho de 14/08/2023, regido pelo Decreto nº 15.602/23, e publicou em 18/08/2023
+  o extrato do convênio assinado em 17/08/2023, que nomeia o produto entre parênteses: ''cartão Credcesta''. Em
+  nenhum deles foi localizado ato de rescisão posterior às liquidações.'
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Municípios de Cuiabá (MT), Florianópolis (SC), Serra (ES), Duque de Caxias (RJ), Petrolina e Jaboatão dos
+  Guararapes (PE)
+url: https://data.queridodiario.ok.org.br/5103403/2022-02-17/970f3b7420f8fcfd75a0463b4eeac93fdb57cfb6.pdf
+reference: Termo 002/2022 (Cuiabá); Portaria 1218/2021 (Florianópolis); Termo 001/2023 (Serra); processo 003/001291/2021
+  (Duque de Caxias); Termo de Convênio 002/2021 (Petrolina); Decreto 15.602/23 e convênio de 17/08/2023 (Taubaté)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,28 @@
+id: doc-2023-2026-balancos-financeiros-de-goiania-consignacoes-da-operadora
+kind: document
+title: 'O que Goiânia descontou e repassou: de R$ 237 mil em 2022 a R$ 13,4 milhões em 2025'
+doc_type: official_report
+date: '2026-04-13'
+source_ids:
+- src-dom-goiania-2023-2026-balancos-financeiros-consignacoes
+summary: Os balanços financeiros anuais da capital goiana trazem a consignatária em linha nominal, o que permite
+  acompanhar a curva do dinheiro num único ente por quatro exercícios. Em 2022, ano do contrato, foram R$ 237.485,24
+  retidos e R$ 1.851,00 repassados. Em 2023, R$ 7.432.451,34 e R$ 6.696.184,74. Em 2024, R$ 10.583.599,51 e R$ 10.295.517,59.
+  Em 2025, R$ 13.359.574,03 e R$ 13.409.591,02 — publicados em 13/04/2026, quase cinco meses depois da liquidação
+  do banco, sem nota ou ressalva sobre ela. O mesmo balanço de 2025 traz linha separada do Banco Master, com R$
+  6.442.082,89 retidos, de modo que os dois nomes do grupo somam quase R$ 20 milhões descontados dos servidores
+  da capital num único exercício. São valores de consignação, não receita própria da empresa.
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+- banco-master
+issuer: Prefeitura de Goiânia (GO) — Balanço Financeiro consolidado, anexo 13 da Lei 4.320/64
+url: https://data.queridodiario.ok.org.br/5208707/2026-04-13/9abb7ef92d506f8747e0fe12b9e8aa4aafe66e6d.pdf
+reference: Balanços financeiros consolidados dos exercícios de 2022, 2023, 2024 e 2025
+excerpt: PKL ONE PARTICIPACOES S.A. - CARTAO BENEFI | 13.359.574,03 (...) BANCO MASTER S/A | 6.442.082,89
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

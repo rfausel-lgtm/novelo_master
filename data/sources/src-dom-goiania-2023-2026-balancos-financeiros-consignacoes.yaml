@@ -1,0 +1,27 @@
+id: src-dom-goiania-2023-2026-balancos-financeiros-consignacoes
+kind: source
+title: Balanços financeiros da Prefeitura de Goiânia, exercícios de 2022 a 2025 — a linha da consignatária
+publisher: Diário Oficial do Município de Goiânia (GO)
+publication_date: '2026-04-13'
+retrieved_at: '2026-09-10'
+url: https://data.queridodiario.ok.org.br/5208707/2026-04-13/9abb7ef92d506f8747e0fe12b9e8aa4aafe66e6d.pdf
+source_type: official_gazette
+summary: 'Quatro edições anuais que publicam o Balanço Financeiro consolidado, anexo 13 da Lei 4.320/64, no qual
+  as consignações aparecem nominalmente como receita retida e como despesa repassada. A linha ''PKL ONE PARTICIPACOES
+  S.A. - CARTAO BENEFI'' evolui assim: exercício de 2022, R$ 237.485,24 retidos e R$ 1.851,00 repassados; 2023,
+  R$ 7.432.451,34 e R$ 6.696.184,74; 2024, R$ 10.583.599,51 e R$ 10.295.517,59; 2025, R$ 13.359.574,03 e R$ 13.409.591,02.
+  O balanço do exercício de 2025 foi publicado em 13/04/2026, quase cinco meses depois da liquidação do banco, e
+  traz linha própria do Banco Master, com R$ 6.442.082,89 retidos e R$ 6.228.670,10 repassados.'
+notes: 'São valores de consignação — dinheiro descontado do servidor e repassado —, não receita própria nem lucro
+  da empresa. O balanço de cada exercício sai no ano seguinte: 28/04/2023 (2022), 30/04/2024 (2023), 30/04/2025
+  (2024) e 13/04/2026 (2025), todos no acervo data.queridodiario.ok.org.br sob o território 5208707.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura da extracao integral da edicao do diario oficial, no acervo do Querido Diario)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

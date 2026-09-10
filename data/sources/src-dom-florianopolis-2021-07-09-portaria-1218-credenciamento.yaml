@@ -1,0 +1,25 @@
+id: src-dom-florianopolis-2021-07-09-portaria-1218-credenciamento
+kind: source
+title: Diário Oficial de Florianópolis — Portaria nº 1218/2021, que credencia a operadora como consignatária
+publisher: Diário Oficial Eletrônico do Município de Florianópolis (SC)
+publication_date: '2021-07-09'
+retrieved_at: '2026-09-10'
+url: https://data.queridodiario.ok.org.br/4205407/2021-07-09/9cb71902edd25aa572b305cbca9979a4c8603a33.pdf
+source_type: official_gazette
+summary: Portaria do secretário municipal de Administração, editada com base no Decreto nº 22.958/2021, que credencia
+  a PKL One Participações S.A., pelo cadastro nacional 27.490.629/0001-13, para atuar como entidade consignatária
+  na Prefeitura Municipal de Florianópolis, por consignação facultativa na folha de pagamento dos servidores da
+  administração. É o primeiro ato localizado em Santa Catarina, estado que já constava do mapa de cobertura do produto
+  em maio de 2022 e cuja data de credenciamento estadual o corpus não conseguira localizar porque o portal do diário
+  estadual exige autenticação.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura dos extratos publicados nas edicoes do diario oficial, no acervo do Querido
+    Diario)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

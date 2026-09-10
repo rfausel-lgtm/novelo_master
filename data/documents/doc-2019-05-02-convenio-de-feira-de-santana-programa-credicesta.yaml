@@ -1,0 +1,27 @@
+id: doc-2019-05-02-convenio-de-feira-de-santana-programa-credicesta
+kind: document
+title: 'O instrumento municipal mais antigo: Feira de Santana, maio de 2019'
+doc_type: contract
+date: '2019-05-02'
+source_ids:
+- src-dom-feira-de-santana-2019-05-02-convenio-do-programa-credicesta
+summary: Termo de convênio entre o município de Feira de Santana e a operadora, assinado em 02/05/2019 pelo prefeito
+  Colbert Martins da Silva Filho, com vigência de sessenta meses. O objeto é disponibilizar aos servidores ativos
+  e inativos, por desconto em folha, 'uma linha de crédito rotativo, através do Programa CREDICESTA'. Antecede em
+  quinze meses o instrumento até agora tido como o mais antigo localizado em município, o de Senhor do Bonfim, de
+  agosto de 2020, e situa a expansão municipal a nove meses do credenciamento estadual baiano de 03/08/2018 — isto
+  é, o produto desceu do estado para os municípios quase imediatamente.
+is_official: true
+related_entity_ids:
+- pkl-one-participacoes
+- credcesta
+issuer: Prefeitura Municipal de Feira de Santana (BA)
+url: https://data.queridodiario.ok.org.br/2910800/2019-07-12/59726270c4bb639fbdf2eb6ce44da8bb0a58725b.pdf
+reference: Termo de convênio publicado no Diário Oficial de Feira de Santana em 12/07/2019
+excerpt: 'OBJETO: DISPONIBILIZAÇÃO, ATRAVES DE DESCONTO EM FOLHA DE PAGAMENTO, AOS SERVIDORES DA PREFEITURA, ATIVOS
+  E INATIVOS, DE UMA LINHA DE CRÉDITO ROTATIVO, ATRAVES DO PROGRAMA CREDICESTA'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

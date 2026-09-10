@@ -1,0 +1,19 @@
+id: ev-empresa-tem-registro-municipal-de-endereco-proprio-em-vitoria
+kind: evidence
+classification: D
+proposition: Relações de licenciamento do município de Vitória, publicadas em outubro de 2023, registram a PKL One
+  Participações S.A. com endereço próprio na avenida Nossa Senhora da Penha, 714, Praia do Canto, descrita pela
+  atividade de 'Holdings de Instituições Não-Financeiras' e com validade até 05/09/2028.
+document_ids:
+- doc-2023-10-18-licenciamento-municipal-da-operadora-em-vitoria
+excerpt: PKL ONE PARTICIPACOES S.A. Holdings De Instituições Não-Financeiras Av Nossa Senhora Da Penha, Nº 714 Edif
+  Rs Trade Tower Loja 03 E 04, Praia Do Canto - Vitoria/Es
+date: '2023-10-18'
+notes: As relações identificam a empresa pelo nome e pela atividade, sem imprimir o cadastro nacional. O registro
+  é de presença física licenciada, não de credenciamento em folha; a atividade declarada coincide com a do cadastro
+  federal.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

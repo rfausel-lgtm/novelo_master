@@ -1,0 +1,24 @@
+id: src-dom-serra-es-2023-2025-termo-001-2023-e-aditivo
+kind: source
+title: Diário Oficial do Município da Serra — Termo de Credenciamento nº 001/2023 e primeiro aditivo
+publisher: Diário Oficial do Município da Serra (ES)
+publication_date: '2025-06-27'
+retrieved_at: '2026-09-10'
+url: https://data.queridodiario.ok.org.br/3205002/2025-06-27/52116300e7b17d70ab0b0975c4eb1a9e51c3931b.pdf
+source_type: official_gazette
+summary: Duas edições lidas pela equipe. Em 07/08/2023, o extrato do Termo de Credenciamento nº 001/2023 entre o
+  município da Serra, por sua Secretaria Municipal de Gestão e Planejamento, na qualidade de consignante, e a operadora,
+  na qualidade de consignatária, no processo nº 29179/2023; em 27/06/2025, o extrato do primeiro aditivo ao mesmo
+  termo, que mantém o vínculo depois da metade de 2025.
+notes: A edição de 07/08/2023 está em https://data.queridodiario.ok.org.br/3205002/2023-08-07/28d3a7e18c8bb8951643c84789404960ca68223a.pdf.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura dos extratos publicados nas edicoes do diario oficial, no acervo do Querido
+    Diario)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

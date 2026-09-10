@@ -1,0 +1,29 @@
+id: src-queridodiario-2026-09-10-varredura-nominal-da-operadora
+kind: source
+title: Varredura nominal da operadora no acervo nacional de diários municipais do Querido Diário
+publisher: Levantamento da equipe
+publication_date: '2026-09-10'
+retrieved_at: '2026-09-10'
+url: https://queridodiario.ok.org.br/
+source_type: official_other
+summary: Busca por texto integral no acervo nacional agregado, em janelas semestrais de 2018 a 2026, que recuperou
+  182 edições com a expressão pesquisada. Separadas as ocorrências reais da empresa das placas de veículo em editais
+  de trânsito — noventa edições descartadas por esse motivo, em dez estados —, restaram ocorrências reais em trinta
+  municípios de treze unidades da federação. A comparação com o corpus apontou instrumentos e atos em municípios
+  que a investigação ainda não documentara, entre eles quatro capitais. Nenhuma ocorrência da empresa foi encontrada
+  no Amazonas, em Rondônia ou no Tocantins, três estados que o mapa de cobertura do produto listava em fevereiro
+  de 2024.
+notes: 'Limites declarados: o acervo do Querido Diário não cobre todos os municípios brasileiros nem todas as datas
+  de cada um, de modo que a ausência de ocorrência não prova ausência de instrumento. A soma das janelas semestrais
+  recuperou 182 das 239 edições que a mesma busca sem recorte de data reporta — diferença não reconciliada, que
+  só pode subestimar o resultado.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (consulta à API pública do Querido Diário e leitura das edições recuperadas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
