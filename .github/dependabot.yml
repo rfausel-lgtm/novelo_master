@@ -7,6 +7,20 @@ updates:
     groups:
       minor-and-patch:
         update-types: ["minor", "patch"]
+    ignore:
+      # ESLint 10 removeu os métodos antigos de contexto (context.getFilename() virou
+      # context.filename). O eslint-plugin-react, que vem empacotado DENTRO do eslint-config-next,
+      # ainda usa a forma removida, e o lint morre ao carregar a regra react/display-name — antes de
+      # olhar para o nosso código. Nenhuma configuração daqui contorna.
+      #
+      # O eslint-config-next 16.3.4 (última estável) declara peer `eslint >= 9.0.0`, o que é falso na
+      # prática e foi o que fez o Dependabot achar o upgrade seguro.
+      #
+      # CONDIÇÃO DE SAÍDA: apagar este bloco quando sair eslint-config-next estável (16.4.0 ou
+      # superior, hoje só em canary) que rode com ESLint 10. Verificar com:
+      #   npm view eslint-config-next@latest version peerDependencies.eslint
+      - dependency-name: "eslint"
+        update-types: ["version-update:semver-major"]
   - package-ecosystem: github-actions
     directory: "/"
     schedule:
