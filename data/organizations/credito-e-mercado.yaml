@@ -5,16 +5,20 @@ aliases:
 - Crédito & Mercado
 - Crédito e Mercado Engenharia Financeira
 - Crédito e Mercado Gestão de Valores Mobiliários
+- PAR Engenharia Financeira
 org_type: company
-summary: Grupo de consultoria de valores mobiliários especializado em regimes próprios de previdência. Declara à
-  CVM, em formulário de referência público, ter 386 clientes que são regimes próprios, de 390 clientes totais. O
-  mesmo formulário registra a incorporação da Plena Consultoria de Investimentos em 31/12/2019 — a Plena foi alvo
-  da Operação Fundo Perdido, e três de seus ex-controladores figuram no quadro societário do grupo em períodos distintos.
-  Assessorava ao menos oito dos regimes próprios que compraram letras financeiras do Banco Master — sete somando
-  cerca de R$ 232 milhões, mais o SGOPrev (São Gabriel do Oeste, MS), identificado em 10/09/2026 por um parecer
-  técnico datado de 12/09/2025 que contradiz a negativa geral da empresa; sua sede foi alvo de busca autorizada
-  pelo STF em 12/08/2026. Seu principal executivo aparece propondo a compra de letras financeiras na ata do comitê
-  de investimentos de Congonhas.
+summary: Grupo de consultoria de valores mobiliários especializado em regimes próprios de previdência, antes chamado
+  PAR Engenharia Financeira. Declara à CVM, em formulário de referência público, ter 386 clientes que são regimes
+  próprios, de 390 clientes totais. O mesmo formulário registra a incorporação da Plena Consultoria de Investimentos
+  em 31/12/2019 — a Plena foi alvo da Operação Fundo Perdido, e três de seus ex-controladores figuram no quadro
+  societário do grupo em períodos distintos. A decisão que autorizou a busca de 12/08/2026 na sua sede identifica
+  sete institutos clientes que somaram cerca de R$ 232 milhões no Master — Maceió (R$ 97 mi), São Roque (R$ 93,15
+  mi), Araras (R$ 29 mi), Santo Antônio de Posse (R$ 7 mi), São Gabriel do Oeste (R$ 3 mi), Angélica (R$ 2 mi) e
+  Campo Grande (R$ 1,2 mi) —, além de Congonhas, mapeado à parte no corpus por ata própria, totalizando ao menos
+  oito. Dois pareceres datados e específicos contradizem a negativa geral da empresa de nunca ter emitido parecer
+  técnico sobre o Master — SGOPrev (12/09/2025) e Araras (fevereiro de 2024). Seu CEO, Renan Foglia Calamia, já
+  havia sido condenado em 19/01/2026 por gestão temerária em caso anterior (2017) no mesmo instituto de Santo
+  Antônio de Posse.
 why_in_novelo: Consultoria presente em pelo menos oito dos dezoito regimes próprios que compraram letras financeiras
   do Banco Master, e cujo formulário público declara assessorar os dois lados do mesmo processo de credenciamento.
 cited_position:
@@ -44,8 +48,12 @@ source_ids:
 - src-noticiasdeararas-2025-11-araprev-29-milhoes-master
 - src-prevcon-ata-140a-comite-2024-05-07
 - src-idest-2025-11-19-sgoprev-3-4-milhoes-letra-financeira
+- src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
+- src-brasil247-2026-01-19-calamia-condenado-gestao-temeraria-iprem-posse
+- src-nttv-2026-08-credito-mercado-nega-orientacao-iprev-maceio
+- src-folhadealagoas-2026-01-20-calamia-condenado-negocio-milionario-iprev
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-04'
+reviewed_at: '2026-09-10'
 created_at: '2026-09-04'
 updated_at: '2026-09-10'

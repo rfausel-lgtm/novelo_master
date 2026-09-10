@@ -1,0 +1,31 @@
+id: rel-credito-e-mercado-araprev-araras-professional
+kind: relationship
+from_id: credito-e-mercado
+to_id: araprev-araras
+relationship_type: professional
+directed: true
+label: assessorava e emitiu parecer sobre letras financeiras do Master
+start_date: 2024-02
+description: A Crédito & Mercado assessorava a Araprev e produziu, em fevereiro de 2024, um parecer sobre letras
+  financeiras do Banco Master — documento datado que, como no caso do SGOPrev, contradiz a negativa pública geral
+  da consultoria de nunca ter emitido parecer técnico sobre o banco.
+evidence_class: A
+confidence: 0.6
+status: disputed
+evidence_ids:
+- ev-consultoria-emitiu-parecer-sobre-araras-em-fevereiro-2024
+source_ids:
+- src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
+cited_position:
+- kind: denial
+  summary: A Crédito & Mercado afirma que nunca foi consultada sobre investimentos no Banco Master e que não emitiu
+    parecer técnico sobre o tema.
+  source_ids:
+  - src-credito-e-mercado-formulario-referencia-cvm
+  by_id: credito-e-mercado
+  date: 2026-08
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

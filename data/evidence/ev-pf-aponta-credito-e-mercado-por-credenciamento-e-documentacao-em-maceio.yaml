@@ -1,0 +1,18 @@
+id: ev-pf-aponta-credito-e-mercado-por-credenciamento-e-documentacao-em-maceio
+kind: evidence
+classification: A
+proposition: A Polícia Federal aponta que a Crédito & Mercado, contratada pelo Iprev de Maceió, participou da condução
+  do credenciamento do Banco Master, da elaboração e validação de análises e da formação da documentação das operações,
+  caracterizando isso como terceirização imprópria de competência administrativa do instituto.
+attributed_to: Polícia Federal, conforme decisão que autorizou a Operação de 10/08/2026
+document_ids: []
+source_ids:
+- src-metropoles-2026-pf-consultoria-iprev-maceio-favorecer-master
+- src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
+date: '2026-08-10'
+notes: A consultoria nega, ver ev-credito-e-mercado-nega-orientacao-em-maceio-alega-confusao-sobre-aprs.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

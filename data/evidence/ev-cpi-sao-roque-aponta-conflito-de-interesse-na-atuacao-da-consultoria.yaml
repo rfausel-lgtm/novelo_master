@@ -1,0 +1,19 @@
+id: ev-cpi-sao-roque-aponta-conflito-de-interesse-na-atuacao-da-consultoria
+kind: evidence
+classification: C
+proposition: O relatório final da CPI municipal de São Roque aponta que a Crédito & Mercado acumulava o papel de
+  emitir pareceres de investimento e de implementar o programa Pró-Gestão RPPS no instituto — potencial conflito
+  de interesse — e conclui que os pareceres anteriores aos investimentos no Master não destacaram com clareza riscos
+  como a ausência de garantia do FGC, a concentração em emissor único e a baixa liquidez dos papéis, recomendando
+  avaliar medidas administrativas e judiciais contra a consultoria.
+document_ids: []
+source_ids:
+- src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
+- src-jornalcruzeiro-2026-07-cpi-sao-roque-rombo-113-milhoes
+date: 2026-07
+notes: O corpus não obteve o texto integral do relatório final da CPI, apenas a cobertura de imprensa.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

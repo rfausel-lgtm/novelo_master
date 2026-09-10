@@ -9,7 +9,8 @@ org_type: public_body
 jurisdiction: Angélica (MS)
 summary: Gestor do regime próprio de previdência de Angélica (MS), descrito pela Prefeitura como autônomo do Executivo
   municipal. Credenciou o Banco Master em abril de 2024, aplicando R$ 2 milhões, com parecer próprio concluindo
-  não haver indícios que prejudicassem a aprovação. Resgatou o valor semanas antes da liquidação de novembro de
+  não haver indícios que prejudicassem a aprovação. É um dos sete institutos identificados, pela decisão que
+  autorizou a busca de 12/08/2026 na sede da consultoria Crédito & Mercado, como cliente dela. Resgatou o valor semanas antes da liquidação de novembro de
   2025 e das prisões subsequentes — a única exposição líquida praticamente nula entre os seis institutos deste lote.
   Ainda assim, foi o principal alvo das operações Zehirut e Charitzut (27/05/2026), concentrando sete dos mandados
   de busca e apreensão, com medidas cautelares de afastamento de funções públicas cumpridas. Investigado por gestão
@@ -33,6 +34,7 @@ source_ids:
 - src-midiamax-2026-05-27-pf-apura-rombo-9-milhoes-fatima-sul-angelica
 - src-midiamax-2026-05-28-angelica-parecer-sem-indicio-de-prejuizo
 - src-timesbrasil-18-rpps-lista
+- src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-10'

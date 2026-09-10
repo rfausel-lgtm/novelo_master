@@ -7,17 +7,21 @@ summary: Instituto de previdência municipal de São Roque (SP). Aplicou R$ 93,1
   do patrimônio líquido) em letras financeiras do Banco Master, mais R$ 20 milhões no fundo imobiliário
   Neteagle (EAGL11), ligado ao mesmo grupo — rombo total de R$ 113 milhões apurado por CPI municipal aberta
   em abril de 2026. O ex-diretor-presidente Vanderlei Massarioli nega contato direto com o Master, atribuindo
-  a operação à consultoria contratada pelo instituto.
+  a operação à consultoria contratada pelo instituto — a Crédito & Mercado, que além de emitir pareceres de
+  investimento também implementava no instituto o programa Pró-Gestão RPPS, acúmulo de papéis que o relatório
+  final da CPI aponta como potencial conflito de interesse.
 why_in_novelo: É outro dos regimes próprios de previdência expostos ao Master não antes mapeado no corpus,
   com CPI municipal própria apurando o caso.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- O corpus não obteve o texto integral do relatório final da CPI, apenas a cobertura de imprensa.
 source_ids:
 - src-jornalcruzeiro-2026-07-cpi-sao-roque-rombo-113-milhoes
+- src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-06'
+reviewed_at: '2026-09-10'
 created_at: '2026-09-06'
-updated_at: '2026-09-06'
+updated_at: '2026-09-10'

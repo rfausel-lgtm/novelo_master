@@ -1,0 +1,26 @@
+id: src-folhadealagoas-2026-01-20-calamia-condenado-negocio-milionario-iprev
+kind: source
+title: 'Banco Master: consultoria do negócio milionário do Iprev é condenada'
+publisher: Folha de Alagoas
+author: não identificado
+publication_date: '2026-01-20'
+retrieved_at: '2026-09-10'
+url: https://folhadealagoas.com.br/2026/01/20/banco-master-consultoria-do-negocio-milionario-do-iprev-e-condenada/
+source_type: press
+summary: 'Cobre a mesma condenação de Renan Foglia Calamia por gestão temerária (juiz Rubens Petrucci Junior,
+  dois anos de prisão em regime aberto, convertidos em prestação de serviços comunitários e multa de oito
+  salários mínimos), pela recomendação, em 2017, de aportes irregulares do Iprem de Santo Antônio de Posse
+  no fundo Horus Vetor, com absolvição quanto a outros investimentos que teriam causado prejuízo de R$ 5,1
+  milhões. Diverge do Brasil 247 quanto à data da decisão: registra 09/12/2025, não 19/01/2026.'
+notes: A divergência de data com o Brasil 247 (09/12/2025 aqui, 19/01/2026 naquela) não foi reconciliada;
+  pode refletir a distinção entre data de julgamento e data de publicação/trânsito da decisão.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura integral via WebFetch)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

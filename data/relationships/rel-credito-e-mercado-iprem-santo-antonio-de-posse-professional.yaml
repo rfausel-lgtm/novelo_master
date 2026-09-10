@@ -1,0 +1,22 @@
+id: rel-credito-e-mercado-iprem-santo-antonio-de-posse-professional
+kind: relationship
+from_id: credito-e-mercado
+to_id: iprem-santo-antonio-de-posse
+relationship_type: professional
+directed: true
+label: assessorava o instituto que investiu R$ 7 milhões
+description: A Crédito & Mercado assessorava o Iprem de Santo Antônio de Posse, um dos sete institutos identificados
+  pela decisão que autorizou a busca de 12/08/2026 na sede da consultoria. É o mesmo instituto em que o CEO da consultoria,
+  Renan Foglia Calamia, havia sido condenado em 19/01/2026 por gestão temerária em caso anterior (2017, fundo Horus
+  Vetor), anos antes do episódio Master.
+evidence_class: A
+confidence: 0.6
+status: unverified
+evidence_ids: []
+source_ids:
+- src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

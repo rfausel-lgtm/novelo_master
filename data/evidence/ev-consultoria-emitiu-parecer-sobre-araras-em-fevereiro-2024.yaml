@@ -1,0 +1,20 @@
+id: ev-consultoria-emitiu-parecer-sobre-araras-em-fevereiro-2024
+kind: evidence
+classification: A
+proposition: A Crédito & Mercado produziu, em fevereiro de 2024, um parecer sobre letras financeiras do Banco Master
+  para a Araprev — documento datado e anterior à liquidação que contradiz a negativa pública geral da consultoria
+  de nunca ter emitido parecer técnico sobre o banco.
+attributed_to: Decisão que autorizou a busca de 12/08/2026 na sede da Crédito & Mercado (STF), conforme reportagem
+  da ICL Notícias
+document_ids: []
+source_ids:
+- src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
+date: 2024-02
+notes: É o segundo caso, além do SGOPrev (lote 164), em que um parecer datado e específico da consultoria contradiz
+  sua negativa geral; o corpus não obteve o texto integral do parecer, apenas a menção da imprensa à sua existência
+  e ao tema.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -8,18 +8,19 @@ positions:
   organization_id: credito-e-mercado
   source_ids:
   - src-prevcon-ata-140a-comite-2024-05-07
-summary: Executivo da consultoria Crédito e Mercado. Consta da ata da 140ª reunião do Comitê de Investimentos
-  de Congonhas, de 07/05/2024, como o consultor financeiro que sugeriu a compra de cerca de R$ 14 milhões
-  em letras financeiras com vencimento em dez anos, fixando como critério que se optasse por instituições
-  no mínimo S3 e presentes na lista exaustiva da Secretaria de Previdência. Vinte dias depois a autarquia
-  comprou do Banco Master, que não constava da lista. É alvo da apuração da PF sobre a atuação da consultoria
-  junto ao Iprev de Maceió, segundo decisão que autorizou a operação de 10/08/2026. É também alvo da apuração
-  da PF sobre a atuação da Crédito e Mercado junto ao Iprev de Maceió (operação de 10/08/2026), suspeito
-  de 'omitir alertas de segurança' para favorecer a aplicação de R$ 97 milhões do instituto no Master
-  — segundo caso, além de Congonhas, em que ele aparece nominalmente. É também alvo da apuração da PF
-  sobre a atuação da Crédito e Mercado junto ao Iprev de Maceió (operação de 10/08/2026), suspeito de
+summary: CEO da consultoria Crédito e Mercado, antes chamada PAR Engenharia Financeira. Consta da ata da 140ª
+  reunião do Comitê de Investimentos de Congonhas, de 07/05/2024, como o consultor financeiro que sugeriu a compra
+  de cerca de R$ 14 milhões em letras financeiras com vencimento em dez anos, fixando como critério que se optasse
+  por instituições no mínimo S3 e presentes na lista exaustiva da Secretaria de Previdência. Vinte dias depois a
+  autarquia comprou do Banco Master, que não constava da lista. É alvo da apuração da PF sobre a atuação da
+  consultoria junto ao Iprev de Maceió, segundo decisão que autorizou a operação de 10/08/2026, suspeito de
   'omitir alertas de segurança' para favorecer a aplicação de R$ 97 milhões do instituto no Master — segundo
-  caso, além de Congonhas, em que ele aparece nominalmente.
+  caso, além de Congonhas, em que ele aparece nominalmente. Em 19/01/2026, a Justiça Federal em São Paulo já o
+  havia condenado a dois anos de prisão em regime aberto (convertidos em prestação de serviços comunitários e
+  multa) por gestão temerária, em caso anterior e não relacionado ao Master — a recomendação, em 2017, de aplicação
+  de R$ 1,5 milhão do mesmo Iprem de Santo Antônio de Posse — um dos sete institutos que a consultoria assessorou
+  na compra de letras do Master — no fundo multimercado Horus Vetor, incompatível com as regras de RPPS. No mesmo
+  julgamento foi absolvido de acusação de causar prejuízo de R$ 5,1 milhões ao instituto em outros investimentos.
 why_in_novelo: É quem propõe a compra de letras financeiras na ata de um dos quatro regimes próprios em
   que a auditoria federal teria identificado pareceres idênticos.
 cited_position:
@@ -33,13 +34,16 @@ cited_position:
   date: 2026-08
 open_questions:
 - A equipe não localizou manifestação pessoal dele sobre a proposta registrada na ata de Congonhas.
+- O corpus não obteve a sentença integral de 19/01/2026 nem o número do processo, apenas a cobertura de imprensa.
 source_ids:
 - src-credito-e-mercado-formulario-referencia-cvm
 - src-metropoles-2026-pf-consultoria-iprev-maceio-favorecer-master
 - src-metropoles-demetrio-vecchioli-2026-creditomercado-donos-condenados
 - src-prevcon-ata-140a-comite-2024-05-07
+- src-brasil247-2026-01-19-calamia-condenado-gestao-temeraria-iprem-posse
+- src-folhadealagoas-2026-01-20-calamia-condenado-negocio-milionario-iprev
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-04'
+reviewed_at: '2026-09-10'
 created_at: '2026-09-04'
-updated_at: '2026-09-06'
+updated_at: '2026-09-10'

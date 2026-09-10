@@ -1,0 +1,26 @@
+id: src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
+kind: source
+title: Consultoria alvo de operação da PF assessorou fundos que aplicaram R$ 232 mi no Master
+publisher: ICL Notícias
+author: Cleber Lourenço
+publication_date: '2026-08-14'
+retrieved_at: '2026-09-10'
+url: https://iclnoticias.com.br/consultoria-fundos-pf-no-master/
+source_type: press
+summary: 'Registra a decisão do ministro André Mendonça (STF) que autorizou, em 12/08/2026, busca e apreensão na
+  sede da Crédito & Mercado, com apreensão de ''relatórios internos, contratos, notas fiscais, critérios de remuneração,
+  relação de clientes, comunicações com representantes do Master e diferentes versões de documentos''. Lista os
+  sete institutos identificados como clientes da consultoria que investiram cerca de R$ 232 milhões no Master: Maceió
+  (R$ 97 milhões), São Roque (R$ 93,15 milhões), Araras (R$ 29 milhões), Santo Antônio de Posse (R$ 7 milhões),
+  São Gabriel do Oeste (R$ 3 milhões), Angélica (R$ 2 milhões) e Campo Grande (R$ 1,2 milhão). Registra que, em
+  Araras, a consultoria produziu em fevereiro de 2024 um parecer sobre letras financeiras do Master.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura integral via WebFetch, com citação literal)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

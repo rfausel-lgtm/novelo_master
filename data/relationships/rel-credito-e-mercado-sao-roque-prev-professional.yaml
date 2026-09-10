@@ -1,0 +1,25 @@
+id: rel-credito-e-mercado-sao-roque-prev-professional
+kind: relationship
+from_id: credito-e-mercado
+to_id: sao-roque-prev
+relationship_type: professional
+directed: true
+label: assessorava o instituto e também implementava o Pró-Gestão RPPS
+description: A Crédito & Mercado assessorava o São Roque Prev, emitindo pareceres de investimento, e ao mesmo tempo
+  implementava no instituto o programa Pró-Gestão RPPS — acúmulo de papéis que o relatório final da CPI municipal
+  aponta como potencial conflito de interesse, concluindo que os pareceres anteriores aos investimentos não destacaram
+  com clareza os riscos do Banco Master (ausência de garantia do FGC, concentração em emissor único, baixa liquidez)
+  e recomendando avaliar medidas administrativas e judiciais contra a consultoria.
+evidence_class: C
+confidence: 0.75
+status: disputed
+evidence_ids:
+- ev-cpi-sao-roque-aponta-conflito-de-interesse-na-atuacao-da-consultoria
+source_ids:
+- src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
+- src-jornalcruzeiro-2026-07-cpi-sao-roque-rombo-113-milhoes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

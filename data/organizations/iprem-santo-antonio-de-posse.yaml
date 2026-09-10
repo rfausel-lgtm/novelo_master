@@ -16,12 +16,18 @@ why_in_novelo: É um dos RPPS paulistas com investigação própria da PF (Opera
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- O CEO da Crédito e Mercado, Renan Foglia Calamia, já havia sido condenado em 19/01/2026 por gestão temerária
+  em caso anterior e não relacionado ao Master neste mesmo instituto (2017, fundo Horus Vetor) — o corpus não
+  apurou se a gestão do instituto era a mesma em ambos os episódios.
 source_ids:
 - src-metropoles-2026-pf-firma-lobista-inss-posse-master
 - src-tribunadosertao-2026-04-23-posse-13-milhoes-master
+- src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
+- src-brasil247-2026-01-19-calamia-condenado-gestao-temeraria-iprem-posse
+- src-folhadealagoas-2026-01-20-calamia-condenado-negocio-milionario-iprev
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-06'
+reviewed_at: '2026-09-10'
 created_at: '2026-09-06'
-updated_at: '2026-09-06'
+updated_at: '2026-09-10'

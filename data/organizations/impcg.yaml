@@ -18,7 +18,8 @@ summary: 'Gestor do regime próprio de previdência da capital sul-mato-grossens
   sobre os consignados. Em 25/08/2026 foi alvo da Operação Presciência da PF, com seis mandados, apurando gestão
   temerária e corrupção passiva e ativa: à época do investimento, o instituto era comandado por Camilla Nascimento,
   hoje vice-prefeita de Campo Grande e secretária municipal de Assistência Social. É um dos cinco regimes de Mato
-  Grosso do Sul sob auditoria conjunta do TCE-MS.'
+  Grosso do Sul sob auditoria conjunta do TCE-MS, e um dos sete institutos identificados, pela decisão que
+  autorizou a busca de 12/08/2026 na sede da consultoria Crédito & Mercado, como cliente dela.'
 why_in_novelo: É um dos dezoito regimes próprios que aplicaram em papel do Banco Master, e o único, entre os seis
   deste lote, com investigação criminal que alcança a atual vice-prefeita da capital do estado, à frente do instituto
   no momento da decisão.
@@ -38,6 +39,7 @@ source_ids:
 - src-midiamax-2026-01-31-municipios-ms-16-milhoes-nao-sabem-recuperar
 - src-investigams-2026-08-25-operacao-presciencia-impcg-1-2-milhao
 - src-timesbrasil-18-rpps-lista
+- src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-10'
