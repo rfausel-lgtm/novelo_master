@@ -24,10 +24,16 @@ open_questions:
   disso consta dos documentos lidos pela equipe.
 - Não há elemento documental que ligue esse crédito a Daniel Vorcaro, ao Banco Master ou ao fundo Havengate; a coincidência
   de período com as filmagens é o que se pode afirmar.
+- 'Contexto documental acrescentado depois: o laudo pericial da produtora afirma que os gastos do filme no Brasil
+  foram cobertos em sua maior parte por repasses da Go Up Entertainment LLC, dos Estados Unidos. Isso descreve,
+  pela boca da própria empresa, um fluxo de entrada de moeda estrangeira compatível com o crédito de R$ 3,92 milhões
+  aqui registrado — sem, contudo, identificar instituições, datas ou valores individuais dessas remessas, o que
+  mantém em aberto quem remeteu especificamente estes R$ 3,92 milhões.'
 source_ids:
 - src-bcb-olinda-2026-09-10-moneycorp-banco-de-cambio-autorizado
 - src-minhareceita-2026-09-10-moneycorp-e-go-up-entertainment
 - src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+- src-folhapress-2026-08-29-laudo-pericial-da-go-up-e-as-contradicoes
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-10'

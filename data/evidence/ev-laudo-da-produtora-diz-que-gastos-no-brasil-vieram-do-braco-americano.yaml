@@ -1,0 +1,21 @@
+id: ev-laudo-da-produtora-diz-que-gastos-no-brasil-vieram-do-braco-americano
+kind: evidence
+classification: A
+proposition: O laudo pericial contratado pela dona da produtora afirma que os gastos do filme no Brasil, de US$
+  3.728.084,66 entre 01/06/2025 e 04/06/2026, foram cobertos em sua maior parte por repasses da Go Up Entertainment
+  LLC, registrada nos Estados Unidos — isto é, a própria empresa descreve a entrada, no Brasil, de dinheiro vindo
+  do exterior para pagar a produção.
+document_ids:
+- doc-2026-06-10-laudo-pericial-da-go-up-sobre-o-custo-do-filme
+source_ids:
+- src-folhapress-2026-08-29-laudo-pericial-da-go-up-e-as-contradicoes
+attributed_to: Perícia privada contratada por Karina Ferreira da Gama, conforme reportagem da Folhapress
+date: '2026-06-10'
+notes: 'É a resposta documental mais direta à pergunta aberta pelo crédito de R$ 3,92 milhões que um banco de câmbio
+  fez à produtora entre 10/11 e 30/12/2025: pelo relato da própria empresa, o custeio no Brasil vinha de fora. O
+  laudo não detalha datas, valores individuais nem instituições dessas remessas, e a equipe não o leu.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

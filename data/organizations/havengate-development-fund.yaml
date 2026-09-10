@@ -3,25 +3,29 @@ kind: organization
 name: Havengate Development Fund LP
 aliases: []
 org_type: fund
-summary: Fundo sediado no Texas (EUA) que, segundo o Intercept, recebeu ao menos US$ 10,6 milhões de empresas
-  ligadas a Daniel Vorcaro (via Entre Investimentos e Participações) para financiar 'Dark Horse' e, segundo
-  relatório do Coaf noticiado pela piauí, mais US$ 1,6 milhão em 16/09/2025. Foi criado originalmente
-  para um projeto imobiliário em Melissa (Texas) que nunca saiu do papel, conforme registros oficiais
-  checados pelo Intercept.
-why_in_novelo: Veículo financeiro, nos Estados Unidos, por onde passaram os recursos de Daniel Vorcaro
-  destinados ao filme 'Dark Horse', segundo a imprensa.
+summary: Fundo sediado no Texas (EUA) que, segundo o Intercept, recebeu ao menos US$ 10,6 milhões de empresas ligadas
+  a Daniel Vorcaro (via Entre Investimentos e Participações) para financiar 'Dark Horse' e, segundo relatório do
+  Coaf noticiado pela piauí, mais US$ 1,6 milhão em 16/09/2025. Foi criado originalmente para um projeto imobiliário
+  em Melissa (Texas) que nunca saiu do papel, conforme registros oficiais checados pelo Intercept.
+why_in_novelo: Veículo financeiro, nos Estados Unidos, por onde passaram os recursos de Daniel Vorcaro destinados
+  ao filme 'Dark Horse', segundo a imprensa.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
 - A equipe não consultou diretamente os registros do Texas citados pelo Intercept.
 - O corpus não registra manifestação dos gestores do fundo.
-- A soma que o corpus havia reconstruído de duas fontes independentes — US$ 10,6 milhões apurados pelo
-  Intercept mais US$ 1,6 milhão de relatório do Coaf, totalizando US$ 12,2 milhões — foi praticamente
-  confirmada pela delação homologada em 09/09/2026, que declara sete transferências somando US$ 12,3 milhões
-  entre fevereiro e setembro de 2025. O fundo é administrado por Paulo Calixto, advogado descrito como
-  próximo a Eduardo Bolsonaro, e a apuração busca esclarecer se todo o valor foi destinado à produção
-  do filme.
+- A soma que o corpus havia reconstruído de duas fontes independentes — US$ 10,6 milhões apurados pelo Intercept
+  mais US$ 1,6 milhão de relatório do Coaf, totalizando US$ 12,2 milhões — foi praticamente confirmada pela delação
+  homologada em 09/09/2026, que declara sete transferências somando US$ 12,3 milhões entre fevereiro e setembro
+  de 2025. O fundo é administrado por Paulo Calixto, advogado descrito como próximo a Eduardo Bolsonaro, e a apuração
+  busca esclarecer se todo o valor foi destinado à produção do filme.
+- O laudo pericial contratado pela dona da produtora, assinado em 10/06/2026, afirma ter tido acesso ao contrato
+  de investimento do fundo, fechado em 24/02/2025, e registra que o aporte somava, até aquela data, US$ 13.393.081,29
+  — exatamente o custo total do filme que a mesma perícia apura. Confrontado com os US$ 12,3 milhões que o delator
+  declara ter remetido ao fundo a pedido de Daniel Vorcaro, isso significa que o dinheiro do banqueiro corresponde
+  a cerca de 92% de tudo o que o fundo pôs na obra — comparação de ordem de grandeza entre duas contabilidades,
+  não rastreamento dólar a dólar.
 source_ids:
 - src-intercept-2026-07-02-havengate
 - src-cartacapital-2026-09-01-novo-repasse-dark-horse
@@ -29,9 +33,10 @@ source_ids:
 - src-congressoemfoco-2026-05-15-duvidas-filme
 - src-timesbrasil-2026-09-09-mendonca-homologa-delacao-mineiro
 - src-gazetadopovo-2026-09-09-mendonca-homologa-delacao-dark-horse
+- src-folhapress-2026-08-29-laudo-pericial-da-go-up-e-as-contradicoes
 jurisdiction: Texas, Estados Unidos
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'

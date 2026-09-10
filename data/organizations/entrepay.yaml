@@ -1,0 +1,41 @@
+id: entrepay
+kind: organization
+name: Entrepay
+full_name: Entrepay Instituição de Pagamento S.A. (em liquidação extrajudicial)
+aliases:
+- Conglomerado Entrepay
+- Grupo Entre
+org_type: financial_institution
+cnpj: 17.887.874/0001-05
+jurisdiction: Brasil
+summary: Instituição de pagamento sediada em São Paulo, existente desde abril de 2013, com capital social de R$
+  581,4 milhões e atividade principal de administração de cartões de crédito. É a líder do conglomerado liquidado
+  pelo Banco Central em 27/03/2026, junto com a Acqio Adquirência e a Octa Sociedade de Crédito Direto, por comprometimento
+  da situação econômico-financeira, infringência às normas e prejuízos que sujeitam credores a risco anormal. Antonio
+  Carlos Freixo Júnior, o 'Mineiro', consta como diretor desde 18/02/2022 — e é, cinco meses depois da liquidação,
+  o autor da segunda delação do caso Master. Segundo o próprio colaborador, técnicos do Banco Central identificaram
+  na Entrepay fluxo atípico em que recursos deixavam o Brasil, passavam pelas Bahamas e seguiam para o Texas, onde
+  está o fundo que financiou 'Dark Horse'.
+why_in_novelo: É a instituição de pagamento do delator do caso do filme, liquidada pelo Banco Central em março de
+  2026, e o ponto em que o regulador identificou, segundo o próprio delator, o fluxo atípico de recursos para o
+  exterior.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação da instituição ou de seu liquidante foi localizada pelo corpus.
+open_questions:
+- O Ato do Presidente nº 1.381, de 27/03/2026, não foi lido pela equipe; o que se registra vem da cobertura da agência
+  pública e da averbação na Receita Federal.
+- Não está esclarecido, nos documentos lidos, se o fluxo atípico identificado pelo Banco Central na Entrepay é o
+  mesmo que abasteceu as sete transferências ao fundo americano, que segundo a cobertura partiram da Entre Investimentos
+  e Participações — duas empresas distintas do mesmo grupo.
+- A relação entre a indisponibilidade de bens decorrente da liquidação, em março, e o compromisso de pagar cerca
+  de R$ 2 bilhões assumido na delação, em agosto, não foi examinada em nenhum documento lido pela equipe.
+source_ids:
+- src-agenciabrasil-2026-03-27-bc-liquida-entrepay-acqio-e-octa
+- src-minhareceita-2026-09-10-entrepay-em-liquidacao-extrajudicial
+- src-poder360-2026-09-04-delacao-de-mineiro-comprovantes-de-cambio-e-rota-das-bahamas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

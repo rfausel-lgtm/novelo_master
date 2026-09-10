@@ -1,0 +1,31 @@
+id: doc-2026-03-27-ato-do-presidente-1381-liquidacao-da-entrepay
+kind: document
+title: 'Ato do Presidente nº 1.381: o Banco Central liquida a Entrepay, do delator do caso do filme'
+doc_type: regulatory_record
+date: '2026-03-27'
+source_ids:
+- src-agenciabrasil-2026-03-27-bc-liquida-entrepay-acqio-e-octa
+- src-minhareceita-2026-09-10-entrepay-em-liquidacao-extrajudicial
+summary: Em 27/03/2026 o Banco Central decretou a liquidação extrajudicial da Entrepay Instituição de Pagamento
+  S.A., líder do conglomerado, e, por extensão, da Acqio Adquirência e da Octa Sociedade de Crédito Direto. A autarquia
+  declarou como motivos o comprometimento da situação econômico-financeira da instituição líder, a infringência
+  às normas que disciplinam sua atividade e prejuízos que sujeitam a risco anormal seus credores. Com a medida,
+  os bens dos controladores e ex-administradores ficam indisponíveis, e as instituições, por serem de pagamento
+  e de crédito direto, não têm captações cobertas pelo Fundo Garantidor de Créditos. A Entrepay é dirigida por Antonio
+  Carlos Freixo Júnior desde fevereiro de 2022 — o mesmo empresário que, cinco meses depois, fecharia com a Procuradoria-Geral
+  da República a segunda delação do caso Master, sobre as remessas ao fundo que financiou 'Dark Horse'. A liquidação
+  está averbada na razão social registrada na Receita Federal, e a instituição não consta mais da base de instituições
+  em funcionamento do Banco Central. O ato em si não foi lido pela equipe.
+is_official: true
+related_entity_ids:
+- entrepay
+- antonio-carlos-freixo-junior
+- banco-central-do-brasil
+issuer: Banco Central do Brasil
+url: https://agenciabrasil.ebc.com.br/economia/noticia/2026-03/bc-decreta-liquidacao-extrajudicial-de-instituicoes-da-entrepay
+reference: Ato do Presidente nº 1.381, de 27/03/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

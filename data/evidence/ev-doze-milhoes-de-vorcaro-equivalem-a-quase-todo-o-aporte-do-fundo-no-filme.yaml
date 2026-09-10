@@ -1,0 +1,25 @@
+id: ev-doze-milhoes-de-vorcaro-equivalem-a-quase-todo-o-aporte-do-fundo-no-filme
+kind: evidence
+classification: I
+proposition: Os US$ 12,3 milhões que o colaborador declara ter remetido ao Havengate a pedido de Vorcaro equivalem
+  a cerca de 92% dos US$ 13,39 milhões que o fundo, segundo o laudo da produtora, aportou no filme — de modo que,
+  pelas duas contabilidades disponíveis, o dinheiro do banqueiro responde por quase toda a produção.
+document_ids:
+- doc-2026-06-10-laudo-pericial-da-go-up-sobre-o-custo-do-filme
+- doc-2026-09-09-homologacao-delacao-freixo-junior-stf
+inference_basis: 'Comparação aritmética entre dois números de origens distintas: o total declarado pelo colaborador
+  em acordo homologado (sete transferências, US$ 12,3 milhões, entre fevereiro e setembro de 2025) e o total que
+  o laudo contratado pela produtora atribui ao fundo (US$ 13.393.081,29, com contrato de 24/02/2025). As datas de
+  início praticamente coincidem. A inferência é de ordem de grandeza, não de identidade: nenhum documento lido pela
+  equipe rastreia cada dólar do banqueiro até cada dólar aportado no filme, e o fundo pode ter recebido recursos
+  de outras origens. Ela cairia se o fundo tivesse outros investidores relevantes no mesmo período, ou se parte
+  do que Vorcaro remeteu tivesse tido outra destinação — hipótese que a própria investigação examina ao apurar se
+  parte do dinheiro custeou a permanência de Eduardo Bolsonaro nos Estados Unidos.'
+date: '2026-09-10'
+notes: O confronto importa porque a produtora e o deputado Mário Frias sustentaram publicamente que não havia 'um
+  único centavo' de Vorcaro na obra.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

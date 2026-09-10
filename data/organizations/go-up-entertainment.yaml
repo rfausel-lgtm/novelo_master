@@ -48,6 +48,15 @@ open_questions:
   está identificado em documento algum lido pela equipe. Um dos aportes, o de R$ 1 milhão do publicitário Marcello
   Lopes, está amparado em contrato denominado em dólares (US$ 185.185,19) e assinado seis meses depois do dinheiro,
   em 04/06/2026.'
+- 'Resposta parcial à pergunta sobre a origem externa do dinheiro que entrou na conta brasileira: o laudo pericial
+  contratado pela própria dona da produtora afirma que os gastos do filme no Brasil, de US$ 3.728.084,66 entre 01/06/2025
+  e 04/06/2026, foram cobertos em sua maior parte por REPASSES DA GO UP ENTERTAINMENT LLC, dos Estados Unidos, enquanto
+  outros US$ 9.664.996,63 foram pagos diretamente pelo braço americano. É a empresa descrevendo a entrada de dinheiro
+  de fora para custear a produção — o formato exato do crédito que um banco de câmbio entrega em reais. O laudo
+  não detalha datas, valores individuais nem instituições dessas remessas, não identifica fornecedores e não apresenta
+  documento fiscal do destino dos valores. Pergunta que ele deixa em aberto: se o aporte do Havengate equivale a
+  100% do custo, onde entram as ''cotas para investimento'' abertas em outubro de 2025 e o aporte de US$ 185.185,19
+  cujo contrato foi assinado seis dias antes de o laudo ser assinado.'
 source_ids:
 - src-intercept-2026-05-15-eduardo-contrato-dark-horse
 - src-congressoemfoco-2026-05-15-duvidas-filme
@@ -64,6 +73,7 @@ source_ids:
 - src-bcb-olinda-2026-09-10-moneycorp-banco-de-cambio-autorizado
 - src-minhareceita-2026-09-10-moneycorp-e-go-up-entertainment
 - src-metropoles-2026-09-10-marcelao-confirma-aporte-de-um-milhao
+- src-folhapress-2026-08-29-laudo-pericial-da-go-up-e-as-contradicoes
 jurisdiction: Brasil (Ltda.) e Estados Unidos (LLC)
 review_status: published
 reviewer: orquestrador

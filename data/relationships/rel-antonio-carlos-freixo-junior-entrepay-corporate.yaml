@@ -1,0 +1,26 @@
+id: rel-antonio-carlos-freixo-junior-entrepay-corporate
+kind: relationship
+from_id: antonio-carlos-freixo-junior
+to_id: entrepay
+relationship_type: corporate
+directed: true
+label: diretor desde 2022
+start_date: '2022-02-18'
+description: O cadastro federal registra Antonio Carlos Freixo Júnior como diretor da Entrepay Instituição de Pagamento
+  desde 18/02/2022. A instituição foi liquidada pelo Banco Central em 27/03/2026, cinco meses antes de ele fechar
+  com a Procuradoria-Geral da República a delação sobre as remessas ao fundo que financiou o filme.
+evidence_class: D
+confidence: 0.95
+status: verified
+evidence_ids:
+- ev-banco-central-liquidou-a-entrepay-do-delator-em-marco-de-2026
+document_ids:
+- doc-2026-03-27-ato-do-presidente-1381-liquidacao-da-entrepay
+source_ids:
+- src-minhareceita-2026-09-10-entrepay-em-liquidacao-extrajudicial
+- src-agenciabrasil-2026-03-27-bc-liquida-entrepay-acqio-e-octa
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

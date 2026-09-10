@@ -1,0 +1,33 @@
+id: doc-2026-06-10-laudo-pericial-da-go-up-sobre-o-custo-do-filme
+kind: document
+title: O laudo pericial que a produtora apresenta como prestação de contas do filme
+doc_type: forensic_extract
+date: '2026-06-10'
+source_ids:
+- src-folhapress-2026-08-29-laudo-pericial-da-go-up-e-as-contradicoes
+summary: 'Perícia privada assinada em 10/06/2026, elaborada a pedido de Karina Ferreira da Gama, com base em materiais
+  fornecidos por ela, e anexada ao processo sobre o contrato de wi-fi da Prefeitura de São Paulo. É o documento
+  a que o senador Flávio Bolsonaro se refere ao dizer que já mostrou a prestação de contas do filme. Aponta custo
+  total de produção de US$ 13.393.081,29 (R$ 75.182.282,80 pela taxa adotada), repartido entre US$ 9.664.996,63
+  pagos diretamente pelo braço americano da produtora e US$ 3.728.084,66 gastos no Brasil entre 01/06/2025 e 04/06/2026,
+  estes cobertos em sua maior parte por repasses da Go Up Entertainment LLC, dos Estados Unidos. Registra ter tido
+  acesso ao contrato de investimento do Havengate Development Fund LP, fechado em 24/02/2025, cujo aporte somava,
+  até a data do laudo, exatamente o custo total apurado. Afirma ausência de recursos públicos, incentivos ou patrocínio.
+  O que não faz: não identifica os fornecedores que receberam da produtora, não apresenta documento fiscal do destino
+  dos valores, apresenta apenas categorias gerais de despesa e não discute compatibilidade com o mercado. Não lido
+  pela equipe.'
+is_official: false
+related_entity_ids:
+- go-up-entertainment
+- karina-ferreira-da-gama
+- havengate-development-fund
+- flavio-bolsonaro
+issuer: Perícia privada contratada por Karina Ferreira da Gama
+url: https://diariodocomercio.com.br/politica/dark-horse-contradicoes-justificar-dinheiro-vorcaro/
+excerpt: A maior parte dos custos foi coberta, segundo a perícia, a partir de repasses da Go Up Entertainment LLC,
+  registrada nos Estados Unidos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

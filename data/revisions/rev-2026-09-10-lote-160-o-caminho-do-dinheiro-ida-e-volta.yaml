@@ -1,0 +1,40 @@
+id: rev-2026-09-10-lote-160-o-caminho-do-dinheiro-ida-e-volta
+kind: revision
+date: '2026-09-10'
+title: 'Lote 160 — o caminho do dinheiro, ida e volta: o que a delação diz e o que o laudo da produtora diz'
+summary: 'O lote anterior deixou uma pergunta: de onde vieram os R$ 3,92 milhões que um banco de câmbio creditou
+  à produtora do filme entre 10 de novembro e 30 de dezembro de 2025. Este lote busca a resposta nos dois documentos
+  que tratam do dinheiro — e encontra as duas pernas do trajeto, descritas por lados opostos. A IDA está na delação
+  de Antônio Carlos Freixo Júnior: além das sete transferências de US$ 12,3 milhões ao fundo no Texas, entre fevereiro
+  e setembro de 2025, o colaborador descreve uma espécie de conta conjunta, apresenta comprovantes de operações
+  de câmbio da saída — os investigadores apuram evasão de divisas — e relata que Vorcaro lhe pedia operadores capazes
+  de disponibilizar dinheiro vivo, cobrando esses intermediários 4%. Ele também conta que técnicos do Banco Central
+  já haviam identificado, na Entrepay, fluxo atípico em que o dinheiro deixava o Brasil, passava pelas Bahamas e
+  seguia para o Texas — o que reconcilia a divergência entre as coberturas que situavam o fundo ora num lugar, ora
+  noutro: as Bahamas eram trânsito. Daí vem um achado que o acervo não tinha: a Entrepay, instituição de pagamento
+  dirigida pelo próprio delator desde 2022, com capital social de R$ 581 milhões, foi LIQUIDADA pelo Banco Central
+  em 27/03/2026, pelo Ato do Presidente nº 1.381, junto com outras duas do conglomerado — cinco meses antes de ele
+  fechar a delação, e com os bens de controladores e ex-administradores indisponíveis por força de lei. A liquidação
+  está averbada na própria razão social registrada na Receita Federal. A VOLTA está no documento que a produção
+  apresenta como prestação de contas: o laudo pericial assinado em 10/06/2026, contratado pela dona da produtora,
+  diz que os gastos do filme no Brasil — US$ 3.728.084,66 — foram cobertos em sua maior parte por repasses da Go
+  Up Entertainment LLC, registrada nos Estados Unidos. É a própria empresa descrevendo a entrada, no Brasil, de
+  dinheiro vindo de fora para pagar a produção; e é o formato exato do crédito que um banco de câmbio entrega em
+  reais. O mesmo laudo afirma ter tido acesso ao contrato do Havengate, de 24/02/2025, e atribui ao fundo um aporte
+  de US$ 13.393.081,29 — exatamente o custo total que apura para o filme. Posto ao lado da delação, isso significa
+  que os US$ 12,3 milhões do banqueiro equivalem a cerca de 92% de tudo o que o fundo pôs na obra: fica registrado
+  como inferência de ordem de grandeza, com os limites escritos, porque nenhum documento rastreia dólar a dólar.
+  Duas ressalvas fecham o lote. A delação, pelo que se conhece dela, NÃO trata do retorno dos recursos ao Brasil:
+  a ida termina em setembro, o crédito cambial é de novembro e dezembro. E o laudo, que atribui 100% do custo ao
+  fundo, não explica onde entram as ''cotas para investimento'' que um investidor diz terem sido abertas em outubro
+  de 2025 — nem o aporte de US$ 185.185,19 cujo contrato foi assinado seis dias antes de o laudo ser assinado.'
+affected_ids:
+- antonio-carlos-freixo-junior
+- havengate-development-fund
+- go-up-entertainment
+- daniel-vorcaro
+- entrepay
+reason: Pergunta do editor sobre o que a delação de Freixo Júnior diz a respeito do dinheiro vindo do exterior.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
