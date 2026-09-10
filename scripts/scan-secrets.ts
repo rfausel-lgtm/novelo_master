@@ -38,6 +38,7 @@ for (const file of files) {
   const content = fs.readFileSync(file, "utf8");
   const lines = content.split(/\r?\n/);
   lines.forEach((line, idx) => {
+    if (line.includes("gitleaks:allow")) return; // mesmo marcador usado pelo gitleaks, ver .gitleaksignore
     for (const p of PATTERNS) {
       if (p.re.test(line)) {
         hits++;
