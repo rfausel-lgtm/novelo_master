@@ -1,0 +1,30 @@
+id: rel-karina-ferreira-da-gama-fernando-sarney-investigative-allegation
+kind: relationship
+from_id: karina-ferreira-da-gama
+to_id: fernando-sarney
+relationship_type: investigative_allegation
+directed: true
+label: aponta como um dos articuladores da pressão para delatar Flávio Bolsonaro
+start_date: '2026-09-10'
+description: Em ata notarial apreendida pela PF na Operação Make Up, Karina Ferreira da Gama aponta Fernando Sarney
+  como uma das pessoas que a teriam pressionado, sob ameaça de prisão, a depor contra o senador Flávio Bolsonaro.
+  Sarney nega qualquer contato com ela.
+evidence_class: A
+confidence: 0.3
+status: disputed
+evidence_ids:
+- ev-karina-gama-aponta-fernando-sarney-como-um-dos-articuladores-da-pressao
+source_ids:
+- src-ndmais-2026-09-10-produtora-registra-cartorio-pressao-delatar-flavio
+cited_position:
+- kind: denial
+  summary: Nega ter tido qualquer contato com Karina Ferreira da Gama.
+  source_ids:
+  - src-ndmais-2026-09-10-produtora-registra-cartorio-pressao-delatar-flavio
+  by_id: fernando-sarney
+  date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

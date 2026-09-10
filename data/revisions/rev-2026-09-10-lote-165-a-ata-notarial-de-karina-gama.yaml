@@ -1,0 +1,27 @@
+id: rev-2026-09-10-lote-165-a-ata-notarial-de-karina-gama
+kind: revision
+date: '2026-09-10'
+title: 'Lote 165 — a ata notarial: Karina Gama registra em cartório suposta pressão para delatar Flávio Bolsonaro'
+summary: 'Durante os mandados de busca e apreensão da Operação Make Up, cumpridos em 10/09/2026 (lote 158/159),
+  a PF encontrou e apreendeu uma ata notarial em que Karina Ferreira da Gama relata ter sido pressionada por
+  ao menos quatro pessoas ligadas ao governo Lula, sob a insinuação de prisão, a prestar depoimento incriminando
+  o senador Flávio Bolsonaro. Entre os apontados está Fernando Sarney, filho do ex-presidente José Sarney, que
+  nega qualquer contato com ela — os demais não foram identificados pela imprensa, entre eles uma figura religiosa
+  descrita como próxima do Palácio do Planalto. À imprensa, no mesmo dia, Karina Gama detalhou o episódio: pessoas
+  que se identificaram como oficiais de justiça sem exibir documentação teriam tocado a campainha de sua casa por
+  volta das 21h, e um pastor evangélico de Brasília, apontado como próximo à esquerda, teria oferecido ajuda e
+  sugerido delação premiada. Ela reafirma não ter o que delatar sobre o financiamento do filme: nega ter arrecadado
+  dinheiro ou tratado com financiadores, diz ter apenas prestado serviços de produção, e afirma ter recebido
+  recursos do fundo Havengate sem nunca saber quem o financiava — declaração que contrasta com o achado do lote
+  159, de que a Moneycorp Banco de Câmbio foi a maior remetente de recursos à Go Up Entertainment no período
+  apurado. O achado é registrado como alegação (classe A), atribuída à própria Karina Gama via o documento
+  apreendido, com a negativa de Fernando Sarney anexada como cited_position; a existência do episódio de pressão
+  em si (classe C) é corroborada por duas coberturas independentes.'
+affected_ids:
+- karina-ferreira-da-gama
+- fernando-sarney
+- evt-2026-09-10-operacao-make-up
+reason: Investigação de notícia trazida pelo editor sobre a ata notarial apreendida na Operação Make Up.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'

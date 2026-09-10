@@ -1,0 +1,20 @@
+id: ev-karina-gama-registra-ata-notarial-sobre-pressao-para-delatar-flavio
+kind: evidence
+classification: C
+proposition: Karina Ferreira da Gama registrou em cartório uma ata notarial relatando ter sido pressionada por pessoas
+  ligadas ao governo Lula a prestar depoimento incriminando o senador Flávio Bolsonaro, sob a insinuação de que
+  seria presa caso não o fizesse — documento encontrado e apreendido pela Polícia Federal durante a Operação Make
+  Up, em 10/09/2026.
+document_ids: []
+source_ids:
+- src-ndmais-2026-09-10-produtora-registra-cartorio-pressao-delatar-flavio
+- src-brasil247-2026-09-10-karina-gama-relata-ameaca-nega-delacao
+date: '2026-09-10'
+notes: A ata notarial em si não está disponível ao corpus, apenas o relato da imprensa sobre seu conteúdo e a apreensão
+  pela PF; a reportagem da ND+ é a única a descrever o documento diretamente, enquanto a do Brasil 247 corrobora
+  o mesmo episódio de pressão a partir da fala direta de Karina Gama à imprensa, sem citar a ata nominalmente.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

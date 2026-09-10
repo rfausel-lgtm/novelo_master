@@ -1,0 +1,28 @@
+id: fernando-sarney
+kind: person
+name: Fernando Sarney
+category: businessperson
+role: Empresário, filho do ex-presidente José Sarney
+summary: Empresário maranhense, filho do ex-presidente José Sarney. Apontado por Karina Ferreira da Gama, em ata
+  notarial apreendida pela Polícia Federal na Operação Make Up (10/09/2026), como uma das pessoas que a teriam pressionado
+  a depor contra o senador Flávio Bolsonaro sob ameaça de prisão. Nega qualquer contato com ela.
+why_in_novelo: É apontado, em documento apreendido pela PF, como um dos supostos articuladores de pressão sobre
+  uma testemunha-chave do financiamento do filme 'Dark Horse' — episódio que toca diretamente a apuração do dinheiro
+  de Daniel Vorcaro no filme.
+cited_position:
+- kind: denial
+  summary: Nega ter tido qualquer contato com Karina Ferreira da Gama.
+  source_ids:
+  - src-ndmais-2026-09-10-produtora-registra-cartorio-pressao-delatar-flavio
+  by_id: fernando-sarney
+  date: '2026-09-10'
+open_questions:
+- O corpus não tem acesso ao texto integral da ata notarial, apenas ao relato da imprensa sobre seu conteúdo; a
+  identidade dos outros supostos articuladores citados por Karina Gama não foi estabelecida.
+source_ids:
+- src-ndmais-2026-09-10-produtora-registra-cartorio-pressao-delatar-flavio
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

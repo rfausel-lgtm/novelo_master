@@ -26,12 +26,14 @@ evidence_ids:
 - ev-decisao-de-3-de-setembro-autorizou-a-operacao-make-up
 - ev-execucao-da-operacao-make-up-em-10-de-setembro
 - ev-stf-avocou-o-inquerito-paulista-do-contrato-de-wifi
+- ev-karina-gama-registra-ata-notarial-sobre-pressao-para-delatar-flavio
 document_ids:
 - doc-2026-09-03-decisao-dino-pet16669-operacao-make-up
 source_ids:
 - src-stf-2026-09-03-decisao-pet16669-operacao-make-up
 - src-cartacapital-2026-09-10-operacao-make-up-49-mandados
 - src-brasildefato-2026-09-10-dino-derruba-sigilo-e-cita-deputados
+- src-ndmais-2026-09-10-produtora-registra-cartorio-pressao-delatar-flavio
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-10'
