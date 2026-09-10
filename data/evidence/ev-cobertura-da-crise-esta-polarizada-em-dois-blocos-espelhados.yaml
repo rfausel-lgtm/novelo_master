@@ -1,0 +1,22 @@
+id: ev-cobertura-da-crise-esta-polarizada-em-dois-blocos-espelhados
+kind: evidence
+classification: I
+proposition: 'Registro metodológico útil a quem usar este acervo. A cobertura da crise não é majoritariamente
+  favorável a um dos lados: está dividida em dois blocos que se espelham, um enquadrando Moraes como investigado
+  sob suspeita e a atuação do presidente como recuo, outro enquadrando Mendonça como autor de decisão
+  monocrática abusiva e celebrando a liminar. Os veículos que permaneceram mais próximos dos documentos
+  foram os especializados e as agências públicas. Há, porém, um viés que atravessa os dois blocos: quase
+  toda a cobertura descreve a sessão de 15/09 como destinada a ''decidir se abre investigação contra Moraes'',
+  e nenhuma reproduz o enunciado da pauta oficial.'
+document_ids: []
+source_ids:
+- src-stf-2026-09-15-servico-de-pautas-sessao-extraordinaria-28
+- src-stf-2026-09-09-nota-a-imprensa-46-convocacao-sessao
+inference_basis: Comparação entre o enunciado da pauta oficial e da nota institucional do tribunal, de
+  um lado, e as formulações adotadas pela cobertura examinada, de outro.
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

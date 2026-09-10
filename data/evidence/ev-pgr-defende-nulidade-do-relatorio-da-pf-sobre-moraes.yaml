@@ -7,10 +7,17 @@ proposition: 'O procurador-geral da República sustenta a nulidade do relatório
   importa o grau de investigação que a providência constitui, é inegável que houve imersão em elementos
   dos autos para buscar indicativos de envolvimento de Moraes em ilícitos'' e ''Ao juiz, não cabe acusar,
   menos ainda ao juiz cabe realizar investigações pré-processuais''. A objeção é de método, não de conteúdo:
-  não afirma que o relatório seja falso, e sim que foi produzido por via que reputa inadmissível.'
-document_ids: []
+  não afirma que o relatório seja falso, e sim que foi produzido por via que reputa inadmissível. PRECISÃO:
+  o pedido final da manifestação não é dirigido ao Plenário, e sim ao relator — ''cabe ao relator reconhecê-lo
+  e extinguir a Petição''. A peça foi protocolada em 01/09, antes de o feito ser remetido ao colegiado.
+  Os dois trechos citados foram conferidos na íntegra e trazem pequenas diferenças de redação em relação
+  ao que se registrara: lê-se ''envolvimento do Ministro Alexandre de Moraes em ilícitos'' e ''Ao juiz
+  não cabe acusar'', sem vírgula.'
+document_ids:
+- doc-2026-09-01-manifestacao-pgr-pet-16662-nulidade
 source_ids:
 - src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
+- src-pgr-2026-09-01-manifestacao-asscrim-1428987-pet-16662
 excerpt: Ao juiz, não cabe acusar, menos ainda ao juiz cabe realizar investigações pré-processuais
 attributed_to: Paulo Gonet, procurador-geral da República, em manifestação nos autos noticiada pela imprensa
 date: '2026-09-09'

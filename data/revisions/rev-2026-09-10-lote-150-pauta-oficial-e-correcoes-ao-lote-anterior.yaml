@@ -1,0 +1,42 @@
+id: rev-2026-09-10-lote-150-pauta-oficial-e-correcoes-ao-lote-anterior
+kind: revision
+date: '2026-09-10'
+title: Lote 150 — o que a pauta oficial diz, e três correções ao lote anterior
+summary: 'Lote de precisão, feito sobre as íntegras oficiais, que corrige o que o acervo registrara a
+  partir de cobertura jornalística. Primeira correção: a sessão extraordinária de 15/09 tem um único item,
+  a Petição 16.662, e a controvérsia sobre o comando da Polícia Federal não está nela — migrou, por decisão
+  do próprio presidente, para a suspensão de liminar pedida pela União, de competência exclusiva da Presidência.
+  Segunda correção, mais delicada: nenhum ato oficial emprega a fórmula ''autorizar investigação contra
+  o ministro Alexandre de Moraes''. O objeto formal é apreciar a petição e os elementos trazidos pela
+  autoridade policial; a formulação corrente é moldura de imprensa, adotada por praticamente toda a cobertura
+  e por este acervo no lote anterior. Terceira correção: o pedido do Ministério Público não é dirigido
+  ao Plenário, e sim ao relator, para que reconheça a nulidade e extinga o feito. Ao mesmo tempo, a leitura
+  das íntegras revelou o item de maior alcance institucional da decisão de 09/09, que a cobertura omitiu:
+  a suspensão de ''todo e qualquer procedimento que verse sobre potencial investigação em face de integrantes
+  deste Supremo Tribunal Federal'', que passam a ser previamente remetidos à Presidência — e também a
+  suspensão do procedimento de controle externo da atividade policial instaurado pelo próprio Ministério
+  Público. Resolveu-se a divergência sobre o diretor-geral da Polícia Federal: permanece no cargo por
+  força da liminar, mas foi intimado a prestar informações em 48 horas, findas as quais o presidente apreciará
+  pessoalmente sua permanência, em prazo que vence antes da sessão. Registrou-se ainda que não se localizou
+  precedente de deliberação do Plenário sobre investigar ministro da própria corte, com a ressalva de
+  que a busca negativa não foi exaustiva. Por fim, acrescentou-se ressalva a registro anterior: a caracterização
+  dos relatórios de inteligência como sem assinatura e sem valor probatório vem de cobertura e não foi
+  confirmada em fonte primária — a decisão do presidente diz apenas que provêm de unidade diversa da equipe
+  técnica que subscreve as representações.'
+affected_ids:
+- edson-fachin
+- alexandre-de-moraes
+- andre-mendonca
+- andrei-rodrigues
+- leandro-almada-da-costa
+- paulo-gonet
+- supremo-tribunal-federal
+- associacao-nacional-delegados-pf
+reason: Apuração documental sobre o objeto da sessão de 15/09/2026, com leitura das íntegras oficiais
+  das decisões, da manifestação do Ministério Público e do serviço de pautas do tribunal, em revisão do
+  que fora registrado a partir de cobertura jornalística.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

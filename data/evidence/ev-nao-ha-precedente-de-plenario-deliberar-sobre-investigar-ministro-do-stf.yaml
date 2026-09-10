@@ -1,0 +1,25 @@
+id: ev-nao-ha-precedente-de-plenario-deliberar-sobre-investigar-ministro-do-stf
+kind: evidence
+classification: I
+proposition: 'A busca não localizou precedente de deliberação do Plenário sobre a abertura de inquérito
+  contra ministro do próprio tribunal, e há convergência de indícios de que não exista. Nenhuma das partes
+  cita precedente nesse sentido: o presidente invoca, para a excepcionalidade de suspender decisão de
+  ministro, apenas as SL 1.395/SP, de 2020, e SL 1.188/DF, de 2018 — que são de suspensão de decisão,
+  não de investigação; o Ministério Público cita precedentes sobre sistema acusatório, nenhum envolvendo
+  ministro da corte; e a ADPF 572 tratou do poder de a Presidência instaurar inquérito, não de investigar
+  integrante do colegiado. A cobertura afirma tratar-se de situação inédita. Registre-se que uma busca
+  negativa exaustiva no acervo de inquéritos e petições do Plenário não foi realizada, de modo que a ausência
+  de precedente é fortemente indicada, não provada.'
+document_ids: []
+source_ids:
+- src-stf-2026-09-09-nota-a-imprensa-46-convocacao-sessao
+- src-pgr-2026-09-01-manifestacao-asscrim-1428987-pet-16662
+inference_basis: Ausência de citação de precedente por qualquer das partes nas peças lidas — decisões
+  do presidente, manifestação do Ministério Público e despacho do relator —, somada à convergência da
+  cobertura especializada quanto ao ineditismo.
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

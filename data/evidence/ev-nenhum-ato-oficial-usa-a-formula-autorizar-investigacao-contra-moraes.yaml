@@ -1,0 +1,27 @@
+id: ev-nenhum-ato-oficial-usa-a-formula-autorizar-investigacao-contra-moraes
+kind: evidence
+classification: D
+proposition: Precisão que muda o enunciado do que está em jogo. Nem o despacho do relator de 01/09, nem
+  a decisão do presidente de 09/09, nem a nota institucional do tribunal empregam a expressão 'autorizar
+  investigação contra o ministro Alexandre de Moraes'. O objeto formal é apreciar a Petição 16.662, que
+  o relator descreve como levar ao Plenário 'os novos elementos trazidos pela autoridade policial'. A
+  fórmula 'decidir se investiga Moraes' é moldura de imprensa — provavelmente correta quanto ao efeito
+  prático, e adotada por praticamente toda a cobertura, mas ausente dos atos oficiais. O acervo registra
+  a distinção porque ela altera o que o colegiado formalmente decidirá.
+document_ids:
+- doc-2026-09-15-pauta-oficial-sessao-extraordinaria-pet-16662
+- doc-2026-09-09-integra-decisao-fachin-pet-16704
+source_ids:
+- src-poder360-2026-09-01-integra-despacho-mendonca-pet-16662
+- src-stf-2026-09-09-integra-decisao-fachin-pet-16704
+- src-stf-2026-09-09-nota-a-imprensa-46-convocacao-sessao
+- src-stf-2026-09-15-servico-de-pautas-sessao-extraordinaria-28
+excerpt: o caminho inevitável dos presentes autos leva ao Plenário deste Supremo Tribunal Federal, instância
+  soberana para analisar, de modo técnico e estritamente jurídico, os novos elementos trazidos pela autoridade
+  policial
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,28 @@
+id: src-stf-2026-09-09-sei-012146-portaria-189-inq-4781
+kind: source
+title: Despacho 3438699/2026 e Portaria nº 189, de 9 de setembro de 2026 — Inquérito 4.781
+publisher: Supremo Tribunal Federal
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-10'
+url: https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2026/09/09173103/SEI_012146_2026.pdf
+source_type: official_court
+summary: Processo administrativo SEI 12.146/2026, lido pela equipe. O despacho registra que 'a presente
+  medida decorre da necessidade de estabelecer segurança jurídica e adequada delimitação institucional
+  dentro do regime de exercício da atribuição prevista no art. 43 do Regimento Interno do Supremo Tribunal
+  Federal por esta Presidência', e invoca a ADPF 572, na qual o Plenário reconheceu a constitucionalidade
+  da Portaria GP nº 69/2019 'nas específicas e próprias circunstâncias de fato exclusivamente envolvidas
+  com aquele ato'. A Portaria 189 revoga a designação de Alexandre de Moraes, determina que inquéritos
+  e procedimentos preliminares retornem à relatoria da Presidência, que 'após análise remeterá os autos
+  à autoridade policial e, ato contínuo, à Procuradoria Geral da República para oferecimento da denúncia
+  ou requerimento do arquivamento', e mantém com Moraes a delegação quanto às ações penais já instauradas
+  com denúncia recebida.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura das íntegras oficiais e do serviço de pautas do tribunal)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

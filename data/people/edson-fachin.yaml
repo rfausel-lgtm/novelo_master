@@ -46,6 +46,13 @@ open_questions:
   as três frentes em que a disputa vinha sendo travada por decisão monocrática. Pendente: obter as íntegras,
   hoje conhecidas apenas por cobertura jornalística, e estabelecer se a sessão de 15/09 tem um item ou
   dois.'
+- 'A íntegra da decisão de 09/09 mostra alcance maior do que a cobertura registrou: o quarto item do dispositivo
+  suspende ''todo e qualquer procedimento que verse sobre potencial investigação em face de integrantes
+  deste Supremo Tribunal Federal'', que passam a ser previamente remetidos à Presidência, e a decisão
+  ainda suspende o procedimento de controle externo da atividade policial instaurado pela Procuradoria-Geral
+  da República e reserva à Presidência poder de supervisão sobre feitos já distribuídos. Reconhece que
+  suspender decisão de ministro é providência ''absolutamente excepcional'', citando como únicos precedentes
+  as SL 1.395/SP, de 2020, e SL 1.188/DF, de 2018.'
 source_ids:
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
@@ -56,6 +63,8 @@ source_ids:
 - src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
 - src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
 - src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
+- src-stf-2026-09-09-integra-decisao-fachin-pet-16704
+- src-stf-2026-09-09-nota-a-imprensa-46-convocacao-sessao
 full_name: Luiz Edson Fachin
 review_status: published
 reviewer: orquestrador
