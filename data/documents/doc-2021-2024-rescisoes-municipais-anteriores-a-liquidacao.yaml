@@ -1,0 +1,28 @@
+id: doc-2021-2024-rescisoes-municipais-anteriores-a-liquidacao
+kind: document
+title: As rescisões municipais — todas anteriores às liquidações
+doc_type: administrative_act
+date: '2024-04-25'
+source_ids:
+- src-diarios-municipais-2021-2024-rescisoes-pio-xii-canapi-jeremoabo-juazeiro
+- src-varredura-2026-09-10-redes-de-diarios-municipais-e-djen
+summary: 'Levantamento que produz uma conclusão negativa e sólida: as rupturas contratuais existem, mas
+  nenhuma delas decorre das liquidações. Pio XII rescindiu unilateralmente em agosto de 2021, quatro meses
+  depois de assinar; Canapi em fevereiro de 2022, com o extrato trazendo ''BANCO MASTER S/A'' na linha
+  de assinatura de um contrato firmado com a operadora; Jeremoabo em junho de 2022; e em Juazeiro foi
+  a própria operadora quem rescindiu, em abril de 2024. Lauro de Freitas suspendeu e restabeleceu o ajuste
+  três vezes, por descumprimento de margem. Depois de novembro de 2025, a varredura nacional não encontrou
+  um único ato municipal de rescisão em rede alguma.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+- banco-master
+issuer: Prefeituras municipais do Maranhão, de Alagoas e da Bahia
+url: https://www.diariomunicipal.com.br/
+reference: Rescisões em Pio XII (MA), Canapi (AL), Jeremoabo (BA) e Juazeiro (BA), 2021-2024
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

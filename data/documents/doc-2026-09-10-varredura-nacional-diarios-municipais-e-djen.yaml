@@ -1,0 +1,31 @@
+id: doc-2026-09-10-varredura-nacional-diarios-municipais-e-djen
+kind: document
+title: 'Varredura nacional: o que os negativos provam e o que não provam'
+doc_type: official_report
+date: '2026-09-10'
+source_ids:
+- src-varredura-2026-09-10-redes-de-diarios-municipais-e-djen
+summary: 'Registro do método, com a distinção que dá valor aos resultados. Foram consultadas 23 redes
+  estaduais de diários municipais em janelas semestrais de 2018 a 2026, e o controle de cobertura por
+  termo genérico revelou que quatro delas estão vazias — as da Bahia, de Sergipe, de Mato Grosso do Sul
+  e uma rede baiana regional —, de modo que seus resultados negativos nada provam, ao passo que os das
+  demais são negativos reais. Ocorrências surgiram apenas nas redes de Pernambuco, de Alagoas e de Goiás.
+  No diário eletrônico do Judiciário, dez mil comunicações permitiram mapear a pegada da operadora por
+  tribunal e identificar entes públicos que litigam com ela sem que se tenha localizado o convênio correspondente
+  — entre eles os institutos de previdência de Betim, de Belém e de Duque de Caxias. Fica registrada uma
+  tensão não resolvida: o site do produto listava, em fevereiro de 2024, estados onde nenhum convênio
+  municipal foi encontrado, o que sugere ou operação estadual e autárquica, ou diários próprios fora das
+  redes varridas.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+issuer: Levantamento da equipe
+url: https://comunicaapi.pje.jus.br/
+reference: 23 redes de diários municipais, 2018-2026, com controle de cobertura; 10.000 comunicações do
+  DJEN
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

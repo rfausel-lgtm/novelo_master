@@ -1,0 +1,29 @@
+id: src-varredura-2026-09-10-redes-de-diarios-municipais-e-djen
+kind: source
+title: Varredura nacional de redes de diários municipais e do diário eletrônico do Judiciário
+publisher: Levantamento da equipe
+publication_date: '2026-09-10'
+retrieved_at: '2026-09-10'
+url: https://comunicaapi.pje.jus.br/
+source_type: official_court
+summary: Varredura conduzida pela equipe em duas frentes. Nos diários municipais, foram consultadas 23
+  redes estaduais agregadas, em janelas semestrais de 2018 a 2026, com registro de status por janela e
+  controle de cobertura por termo genérico — procedimento que revelou que as redes da Bahia, de Sergipe,
+  de Mato Grosso do Sul e uma rede baiana regional estão vazias, de modo que seus resultados negativos
+  não têm valor probatório, ao passo que os das demais têm. Não houve nenhuma ocorrência do produto em
+  2025 e 2026 em rede alguma. No diário eletrônico nacional do Judiciário, dez mil comunicações com a
+  operadora como parte permitiram mapear sua pegada judicial por tribunal — São Paulo com 2.571, Bahia
+  com 1.731, Rio de Janeiro com 1.217, Amazonas com 355, Mato Grosso do Sul com 343 — e extrair, do campo
+  de destinatários, os entes públicos que litigam com ela. O diário do município do Rio de Janeiro retornou
+  zero para a operadora e para o produto, com controle válido.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (varredura de 23 redes de diários municipais, do DJEN e dos diários de MS,
+    AP, MA, PE e BA)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

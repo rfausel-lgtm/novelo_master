@@ -127,6 +127,13 @@ open_questions:
   margem exclusiva localizada na investigação, embora ali não se tenha encontrado convênio. Sete municípios
   baianos firmaram instrumentos com a operadora entre 2020 e 2024, com vigência padrão de sessenta meses,
   e nenhum publicou ato de rescisão após a liquidação do banco.
+- 'Em Macapá, o convênio de setembro de 2021 nunca foi rescindido e os repasses somaram R$ 37,99 milhões
+  entre 2023 e junho de 2026 — no mesmo estado cujo Executivo inabilitara a operadora em 2023 por não
+  se enquadrar entre os tipos de consignatárias. A decisão judicial de agosto de 2026 ali autoriza reter
+  os valores e proíbe cobrar ou negativar servidores, mas mantém os descontos na folha. Em Cairu, o município
+  ajuizou consignação em pagamento por não saber a quem pertencem os créditos que desconta dos servidores.
+  Precisão sobre a resposta sul-mato-grossense: o ato é o Decreto nº 16.696, de 17/11/2025, que veda novas
+  consignações mas preserva os contratos existentes.'
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
@@ -179,6 +186,10 @@ source_ids:
 - src-doem-2026-09-10-varredura-409-sedes-municipais-bahia
 - src-doem-senhordobonfim-2020-10-07-convenio-005-e-decreto-253
 - src-doem-juazeiro-2021-convenio-001-e-termo-cstt
+- src-dom-macapa-2021-09-15-convenio-002-2021-gestao-pkl-one
+- src-tjap-2026-08-13-decisao-6060141-retencao-consignados-macapa
+- src-doems-2025-11-18-decreto-16696-veda-novas-consignacoes
+- src-varredura-2026-09-10-redes-de-diarios-municipais-e-djen
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

@@ -1,0 +1,21 @@
+id: ev-nenhuma-rescisao-municipal-decorre-das-liquidacoes
+kind: evidence
+classification: D
+proposition: 'Conclusão negativa e sólida: as rupturas contratuais municipais existem, mas nenhuma delas
+  decorre das liquidações do banco, em novembro de 2025, ou de seu sucessor, em fevereiro de 2026. Pio
+  XII, no Maranhão, rescindiu unilateralmente em agosto de 2021, quatro meses após assinar; Canapi, em
+  Alagoas, em fevereiro de 2022; Jeremoabo, na Bahia, em junho de 2022; e em Juazeiro foi a própria operadora
+  quem rescindiu, em abril de 2024. Lauro de Freitas suspendeu e restabeleceu o ajuste três vezes por
+  descumprimento de margem. Depois de novembro de 2025, a varredura de 23 redes estaduais, em janelas
+  semestrais, não encontrou um único ato municipal de rescisão.'
+document_ids:
+- doc-2021-2024-rescisoes-municipais-anteriores-a-liquidacao
+source_ids:
+- src-diarios-municipais-2021-2024-rescisoes-pio-xii-canapi-jeremoabo-juazeiro
+- src-varredura-2026-09-10-redes-de-diarios-municipais-e-djen
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

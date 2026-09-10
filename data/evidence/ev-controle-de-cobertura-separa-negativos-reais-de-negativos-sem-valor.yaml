@@ -1,0 +1,20 @@
+id: ev-controle-de-cobertura-separa-negativos-reais-de-negativos-sem-valor
+kind: evidence
+classification: D
+proposition: Registro metodológico que dá valor aos resultados negativos e evita erro grave de leitura.
+  Na varredura das 23 redes estaduais de diários municipais, aplicou-se controle de cobertura por termo
+  genérico em cada rede. O procedimento revelou que quatro delas estão vazias — as da Bahia, de Sergipe,
+  de Mato Grosso do Sul e uma rede baiana regional —, de modo que o fato de não retornarem o produto nada
+  prova. As demais responderam com resultados, e seus negativos são reais. Ocorrências surgiram apenas
+  nas redes de Pernambuco, de Alagoas e de Goiás. O diário do município do Rio de Janeiro retornou zero
+  para a operadora e para o produto com controle válido, o que é negativo forte para a capital fluminense.
+document_ids:
+- doc-2026-09-10-varredura-nacional-diarios-municipais-e-djen
+source_ids:
+- src-varredura-2026-09-10-redes-de-diarios-municipais-e-djen
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

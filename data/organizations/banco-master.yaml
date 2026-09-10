@@ -47,6 +47,12 @@ open_questions:
   contratos já quitados — caso registrado de servidora que quitou em janeiro de 2026 e teve R$ 293,46
   descontados em agosto. Liminar na 3ª Vara de Fazenda Pública determinou que a instituição se abstivesse
   de cobrar ou negativar os servidores, único registro localizado de tutela expressa nesse sentido.'
+- Em Campo Grande, o credenciamento municipal foi do próprio banco — Termo de Credenciamento nº 10, de
+  26/05/2023, aditado em 2025 para vigorar até maio de 2027 —, e não da operadora, que não aparece uma
+  única vez no diário do município entre 2015 e 2026. O instituto de previdência municipal credenciou
+  o banco por termo próprio, cujo prazo expirou por decurso em 31/01/2026, sem renovação e sem rescisão.
+  Em Canapi, em Alagoas, o extrato de rescisão de um contrato firmado com a operadora traz 'BANCO MASTER
+  S/A' na linha de assinatura.
 source_ids:
 - src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
 - src-alagoasprevidencia-termo-credenciamento-033-2024
@@ -94,10 +100,12 @@ source_ids:
 - src-jornalmg-2026-descredenciamento-banco-master-recadastramento
 - src-jornalmg-2022-02-23-decreto-48370-reserva-cartao-beneficio
 - src-campograndenews-2026-impasse-prefeitura-master-servidores-nova-cobranca
+- src-diogrande-2023-06-15-termo-credenciamento-10-banco-master
+- src-diarios-municipais-2021-2024-rescisoes-pio-xii-canapi-jeremoabo-juazeiro
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-10'

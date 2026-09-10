@@ -1,0 +1,18 @@
+id: ev-decreto-de-mato-grosso-do-sul-e-o-16696-e-preservou-contratos-existentes
+kind: evidence
+classification: D
+proposition: Precisão sobre a resposta estadual sul-mato-grossense, que a cobertura atribui a decreto
+  de número diverso. O ato correto é o Decreto nº 16.696, de 17/11/2025, publicado no diário do dia seguinte
+  à liquidação extrajudicial do banco. Ele veda novas consignações e revoga a modalidade de cartão de
+  benefício na folha estadual — mas preserva os contratos existentes, o que é coerente com o fato, já
+  registrado, de que o convênio com a operadora seguiu vigente e nunca foi rescindido.
+document_ids:
+- doc-2025-11-18-decreto-16696-ms-veda-novas-consignacoes-cartao-beneficio
+source_ids:
+- src-doems-2025-11-18-decreto-16696-veda-novas-consignacoes
+date: '2025-11-18'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

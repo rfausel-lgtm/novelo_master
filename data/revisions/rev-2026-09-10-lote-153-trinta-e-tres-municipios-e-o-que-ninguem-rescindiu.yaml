@@ -1,0 +1,34 @@
+id: rev-2026-09-10-lote-153-trinta-e-tres-municipios-e-o-que-ninguem-rescindiu
+kind: revision
+date: '2026-09-10'
+title: Lote 153 — trinta e três municípios, e o que ninguém rescindiu
+summary: 'Varredura nacional que eleva de dez para trinta e três os municípios com instrumento localizado
+  em fonte primária, acrescenta cerca de vinte com prova de operação sem convênio e produz duas conclusões
+  negativas sólidas. A primeira: nenhuma rescisão municipal decorre das liquidações. As rupturas existem
+  — Pio XII em agosto de 2021, quatro meses depois de assinar; Canapi em fevereiro de 2022; Jeremoabo
+  em junho de 2022; Juazeiro em abril de 2024, rescindido pela própria operadora — mas todas são anteriores
+  e têm motivos próprios. Depois de novembro de 2025, a varredura de 23 redes estaduais não encontrou
+  um único ato municipal de rescisão. A segunda: o controle de cobertura aplicado a cada rede revelou
+  que quatro delas estão vazias, de modo que seus negativos nada provam, ao passo que os das demais são
+  reais — distinção sem a qual toda a varredura seria inútil. Entre os achados positivos, Pernambuco surge
+  como o segundo polo, com dez instrumentos em nove municípios, e Macapá como o caso de maior volume:
+  convênio nunca rescindido, R$ 37,99 milhões repassados entre 2023 e junho de 2026, num estado cujo Executivo
+  inabilitara a operadora em 2023. A decisão judicial de lá desenha o impasse: retenção autorizada, cobrança
+  e negativação proibidas, descontos mantidos. Em Cairu, o município foi à Justiça por não saber a quem
+  pagar. Registra-se ainda que em Campo Grande o credenciado foi o próprio banco, e não a operadora —
+  e que o aditivo é assinado pelo mesmo representante que subscreve os convênios da operadora em outros
+  entes, o que mostra que a alternância entre os dois nomes é operacional, não societária. Fica aberta
+  a tensão entre o mapa de cobertura do site do produto e os convênios efetivamente encontrados.'
+affected_ids:
+- credcesta
+- pkl-one-participacoes
+- banco-master
+- andrea-lima-novaes
+reason: Conclusão da frente de apuração sobre municípios com convênio, com varredura de 23 redes de diários
+  municipais, do diário eletrônico do Judiciário e dos diários de Mato Grosso do Sul, Amapá, Maranhão,
+  Pernambuco e Bahia.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

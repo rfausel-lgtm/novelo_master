@@ -1,0 +1,22 @@
+id: ev-trinta-e-tres-municipios-com-instrumento-documentado-do-credcesta
+kind: evidence
+classification: D
+proposition: 'A varredura elevou de dez para trinta e três o número de municípios com instrumento localizado
+  em fonte primária, e acrescentou cerca de vinte com prova de operação sem convênio localizado. Os novos
+  concentram-se em Pernambuco, com dez instrumentos em nove municípios, e distribuem-se ainda por Alagoas,
+  Goiás, Maranhão, Amapá, Mato Grosso do Sul, Bahia, São Paulo e Espírito Santo. Contra os 176 municípios
+  declarados no balanço do banco de 2024, falta ainda a maior parte — mas o gargalo agora é de cobertura
+  documental, não de método: Bahia, Sergipe e Mato Grosso do Sul não têm rede agregada útil, e São Paulo,
+  Rio de Janeiro e Minas Gerais dependem de diários municipais próprios.'
+document_ids:
+- doc-2021-2024-convenios-municipais-pernambucanos-pkl-one
+- doc-2026-09-10-varredura-nacional-diarios-municipais-e-djen
+source_ids:
+- src-varredura-2026-09-10-redes-de-diarios-municipais-e-djen
+- src-domamupe-2021-2024-convenios-municipais-pernambucanos-credcesta
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

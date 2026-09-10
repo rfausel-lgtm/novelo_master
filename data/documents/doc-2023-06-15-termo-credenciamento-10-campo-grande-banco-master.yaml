@@ -1,0 +1,26 @@
+id: doc-2023-06-15-termo-credenciamento-10-campo-grande-banco-master
+kind: document
+title: Termo de Credenciamento nº 10 de Campo Grande — com o banco, não com a operadora
+doc_type: contract
+date: '2023-06-15'
+source_ids:
+- src-diogrande-2023-06-15-termo-credenciamento-10-banco-master
+summary: Achado que desfaz uma suposição natural e reforça um padrão já registrado. Na capital sul-mato-grossense,
+  onde a operadora está no centro do litígio estadual, o credenciamento municipal foi do próprio banco,
+  por termo de 26/05/2023, aditado em 2025 para vigorar até maio de 2027. A busca de texto integral no
+  diário municipal, de 2015 a 2026, não retornou uma única ocorrência da operadora. E o aditivo é assinado,
+  pelo banco, pelo mesmo representante que assina pela operadora em Corumbá, em Macapá e nos convênios
+  baianos e pernambucanos — o que mostra que a alternância entre os dois nomes é operacional, não societária.
+is_official: true
+related_entity_ids:
+- banco-master
+- pkl-one-participacoes
+- credcesta
+issuer: Prefeitura Municipal de Campo Grande (MS)
+url: https://diogrande.campogrande.ms.gov.br/
+reference: Termo de Credenciamento nº 10, de 26/05/2023; DIOGRANDE nº 7.084, p. 15
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,27 @@
+id: doc-2021-2024-convenios-municipais-pernambucanos-pkl-one
+kind: document
+title: Os dez instrumentos municipais pernambucanos com a PKL One
+doc_type: contract
+date: '2024-12-10'
+source_ids:
+- src-domamupe-2021-2024-convenios-municipais-pernambucanos-credcesta
+summary: 'Pernambuco é, depois da Bahia, o estado com maior concentração de instrumentos municipais localizados.
+  Dez atos em nove municípios, entre junho de 2021 e novembro de 2024, com vigência padrão de sessenta
+  meses. O caso de Aliança é instrutivo: o primeiro convênio foi tornado sem efeito cinco meses depois
+  e substituído por outro na mesma semana. O de São Lourenço da Mata é o único em que o instituto de previdência
+  municipal firmou instrumento próprio, em novembro de 2024, por cinco anos — já sob a crise do banco.
+  Vários dos convênios se fundam em decreto ou lei municipal editados poucos meses antes, repetindo em
+  escala local a sequência norma-depois-credenciamento observada nos estados.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+issuer: Prefeituras municipais de Pernambuco
+url: https://www.diariomunicipal.com.br/amupe/
+reference: Convênios em Aliança, Custódia, Glória do Goitá, Paudalho, Limoeiro, São Lourenço da Mata,
+  Vitória de Santo Antão e Surubim (PE), 2021-2024
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

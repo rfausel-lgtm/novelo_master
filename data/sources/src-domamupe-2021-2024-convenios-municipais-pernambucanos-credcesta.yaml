@@ -1,0 +1,28 @@
+id: src-domamupe-2021-2024-convenios-municipais-pernambucanos-credcesta
+kind: source
+title: Convênios municipais pernambucanos com a PKL One publicados no diário da associação municipalista
+publisher: Diário Oficial dos Municípios de Pernambuco (AMUPE)
+publication_date: '2024-12-10'
+retrieved_at: '2026-09-10'
+url: https://www.diariomunicipal.com.br/amupe/
+source_type: official_gazette
+summary: Conjunto de dez instrumentos localizados pela equipe na varredura da rede pernambucana, todos
+  com código de verificação próprio. Aliança firmou convênio em 08/06/2021, tornado sem efeito em 25/11/2021
+  e substituído por outro assinado em 24/11/2021, com sessenta meses improrrogáveis. Seguem-se Custódia,
+  com o Contrato nº 020/2021, de 10/11/2021 e vigência declarada até 10/11/2026; Glória do Goitá, em 17/09/2021;
+  Paudalho, com o Termo nº 001/2021, de 05/07/2021; Limoeiro, em 25/11/2021, com primeiro aditivo publicado
+  em 18/10/2023; São Lourenço da Mata, em 12/04/2022, e novamente pelo instituto de previdência municipal,
+  em 12/11/2024, por cinco anos; Vitória de Santo Antão, com o Convênio nº 04/2022, de 28/04/2022; e Surubim,
+  com o Convênio nº 010/2022, de 08/08/2022 e vigência declarada até 08/08/2027. Vários se fundam em decreto
+  ou lei municipal editados poucos meses antes.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (varredura de 23 redes de diários municipais, do DJEN e dos diários de MS,
+    AP, MA, PE e BA)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,26 @@
+id: doc-2026-08-13-decisao-macapa-retencao-sem-suspensao-de-descontos
+kind: document
+title: 'A decisão de Macapá: retenção sim, suspensão dos descontos não'
+doc_type: judicial_decision
+date: '2026-08-13'
+source_ids:
+- src-tjap-2026-08-13-decisao-6060141-retencao-consignados-macapa
+summary: 'Decisão que sintetiza o impasse em que os entes públicos se encontram. O juízo autoriza o município
+  a reter e provisionar os valores, proíbe as rés de cobrar ou negativar os servidores sob multa de vinte
+  mil reais por servidor — e, ao mesmo tempo, mantém os descontos na folha, negando expressamente a suspensão,
+  à conta da pendência do Tema 1.414 no Superior Tribunal de Justiça. Ou seja: o servidor continua sendo
+  descontado, o dinheiro fica retido, e ninguém pode cobrá-lo por isso. É o desenho que se repete em Campo
+  Grande e que Cairu levou à consignação em pagamento.'
+is_official: true
+related_entity_ids:
+- credcesta
+- pkl-one-participacoes
+- banco-master
+issuer: 2ª Vara de Fazenda Pública de Macapá (TJAP)
+url: https://www.tjap.jus.br/
+reference: Processo 6060141-11.2026.8.03.0001, decisão de 13/08/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

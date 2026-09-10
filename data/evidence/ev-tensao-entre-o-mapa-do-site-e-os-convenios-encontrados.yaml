@@ -1,0 +1,23 @@
+id: ev-tensao-entre-o-mapa-do-site-e-os-convenios-encontrados
+kind: evidence
+classification: I
+proposition: 'Fica registrada uma tensão que a apuração não resolveu. O site do produto listava, em fevereiro
+  de 2024, unidades da federação — entre elas Santa Catarina, Minas Gerais, Rio de Janeiro, Tocantins,
+  Rondônia, Piauí e Rio Grande do Norte — em que nenhum convênio municipal foi localizado, mesmo onde
+  a varredura tinha cobertura comprovada. Três explicações permanecem abertas: a presença nesses estados
+  pode ser estadual ou autárquica, e não municipal; os instrumentos podem estar em diários municipais
+  próprios, fora das redes agregadas varridas; ou o seletor pode registrar cobertura comercial, e não
+  convênios formalizados. A pegada judicial reforça a primeira hipótese em Minas Gerais e no Pará, onde
+  institutos de previdência litigam com a empresa sem convênio localizado.'
+document_ids: []
+source_ids:
+- src-varredura-2026-09-10-redes-de-diarios-municipais-e-djen
+inference_basis: Confronto entre a lista de unidades da federação extraída das capturas arquivadas do
+  site do produto e o resultado da varredura de 23 redes de diários municipais com controle de cobertura,
+  complementado pelo mapeamento de partes no diário eletrônico do Judiciário.
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

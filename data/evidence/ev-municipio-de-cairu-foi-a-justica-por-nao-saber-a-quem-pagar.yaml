@@ -1,0 +1,21 @@
+id: ev-municipio-de-cairu-foi-a-justica-por-nao-saber-a-quem-pagar
+kind: evidence
+classification: C
+proposition: 'O efeito das liquidações sobre os entes públicos aparece em sua forma mais nítida na Bahia:
+  o município de Cairu ajuizou consignação em pagamento contra o banco e a operadora, depositando em juízo
+  R$ 53.323,91 e as parcelas vincendas, por dúvida sobre quem é o titular dos créditos descontados dos
+  servidores. Não é litígio sobre a legalidade do desconto — é a administração declarando que não sabe
+  a quem entregar o dinheiro que retém da folha. Macapá havia tentado o mesmo caminho antes, em processo
+  extinto por falta de depósito.'
+document_ids: []
+source_ids:
+- src-varredura-2026-09-10-redes-de-diarios-municipais-e-djen
+- src-tjap-2026-08-13-decisao-6060141-retencao-consignados-macapa
+attributed_to: Registro do levantamento da equipe no diário eletrônico nacional do Judiciário, a partir
+  de comunicações processuais do Tribunal de Justiça da Bahia
+date: '2026-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,24 @@
+id: ev-macapa-repassou-38-milhoes-e-o-juizo-manteve-os-descontos
+kind: evidence
+classification: C
+proposition: 'Macapá é o caso municipal de maior volume conhecido e o que melhor expõe o impasse. O convênio
+  de setembro de 2021 nunca foi rescindido administrativamente, e os repasses somaram R$ 37,99 milhões
+  entre 2023 e junho de 2026. Levado à Justiça, o caso produziu decisão que autoriza reter e provisionar
+  os valores e proíbe as rés de cobrar ou negativar servidores sob multa de vinte mil reais por servidor
+  — mas mantém os descontos na folha, negando expressamente a suspensão, à conta da pendência do Tema
+  1.414 no Superior Tribunal de Justiça. O servidor segue descontado, o dinheiro fica retido e ninguém
+  pode cobrá-lo. Registre-se a assimetria federativa: no mesmo estado, a operadora fora inabilitada pelo
+  Executivo estadual em 2023 por não se enquadrar entre os tipos de consignatárias, e ainda assim operava
+  na folha da capital.'
+document_ids:
+- doc-2021-09-15-convenio-002-2021-macapa-pkl-one
+- doc-2026-08-13-decisao-macapa-retencao-sem-suspensao-de-descontos
+source_ids:
+- src-dom-macapa-2021-09-15-convenio-002-2021-gestao-pkl-one
+- src-tjap-2026-08-13-decisao-6060141-retencao-consignados-macapa
+date: '2026-08-13'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

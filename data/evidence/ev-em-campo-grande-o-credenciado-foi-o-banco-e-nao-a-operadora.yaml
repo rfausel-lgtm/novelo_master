@@ -1,0 +1,20 @@
+id: ev-em-campo-grande-o-credenciado-foi-o-banco-e-nao-a-operadora
+kind: evidence
+classification: D
+proposition: 'Na capital sul-mato-grossense, onde a operadora está no centro do litígio estadual, o credenciamento
+  municipal foi do próprio banco: termo de 26/05/2023, publicado em 15/06/2023 e aditado em 2025 para
+  vigorar até maio de 2027. A busca de texto integral no diário do município, de 2015 a 2026, não retornou
+  uma única ocorrência da operadora, do produto ou de seu cadastro nacional. O dado reforça o achado já
+  registrado de que o nome no credenciamento varia — e acrescenta a ele um elemento novo: o aditivo é
+  assinado pelo banco pelo mesmo representante que assina pela operadora em Corumbá, em Macapá e nos convênios
+  baianos e pernambucanos. A alternância entre os dois nomes é operacional.'
+document_ids:
+- doc-2023-06-15-termo-credenciamento-10-campo-grande-banco-master
+source_ids:
+- src-diogrande-2023-06-15-termo-credenciamento-10-banco-master
+date: '2023-06-15'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
