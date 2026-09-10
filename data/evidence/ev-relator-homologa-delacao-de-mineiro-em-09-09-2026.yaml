@@ -1,0 +1,21 @@
+id: ev-relator-homologa-delacao-de-mineiro-em-09-09-2026
+kind: evidence
+classification: C
+proposition: 'O relator do caso Master no Supremo homologou, em 09/09/2026, a colaboração premiada de
+  Antonio Carlos Freixo Júnior, um dia após a oitiva do colaborador. O ato altera o estatuto processual
+  do material: o corpus registrava até então apenas o fechamento do acordo com a Procuradoria-Geral da
+  República, e a homologação lhe confere validade processual, permitindo que instrua as investigações
+  em curso. Convém precisar o alcance do ato: homologar não é atestar a veracidade do relato — o juízo
+  verifica regularidade, legalidade e voluntariedade, e cada alegação segue dependendo de prova de corroboração.'
+document_ids:
+- doc-2026-09-09-homologacao-delacao-freixo-junior-stf
+source_ids:
+- src-timesbrasil-2026-09-09-mendonca-homologa-delacao-mineiro
+- src-rdnews-2026-09-09-mendonca-homologa-delacao-repasses-dark-horse
+- src-gazetadopovo-2026-09-09-mendonca-homologa-delacao-dark-horse
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

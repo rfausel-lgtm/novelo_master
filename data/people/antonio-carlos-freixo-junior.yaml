@@ -33,6 +33,13 @@ open_questions:
   Vorcaro ao filme 'Dark Horse' atribuídas a Jair Bolsonaro teriam sido direcionadas a integrantes da
   família Bolsonaro — extensão específica e ainda não confirmada em documento primário da colaboração,
   distinta do que já está registrado no acervo sobre sua delação.
+- 'A colaboração foi homologada pelo relator do caso no Supremo em 09/09/2026, um dia após sua oitiva,
+  passando a ter validade processual. O conteúdo confirmado detalha sete transferências somando US$ 12,3
+  milhões ao fundo norte-americano, entre fevereiro e setembro de 2025, e o relato de entrega de grandes
+  quantias em espécie a pessoas indicadas pelo banqueiro, parte transportada em malas. Segundo uma das
+  coberturas, teria afirmado dispor de vídeos das entregas — elemento a apurar, que converteria o relato
+  em prova material. Divergência registrada: a data de assinatura do acordo aparece como 08/08/2026 em
+  uma cobertura e como 03/09/2026 no registro anterior do corpus.'
 source_ids:
 - src-brasil247-2026-delator-bomba-1-bilhao-vorcaro
 - src-brasildefato-2026-09-03-pgr-delacao-mineiro
@@ -41,6 +48,9 @@ source_ids:
 - src-poder360-2026-pgr-fecha-delacao-mineiro-dark-horse
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-timesbrasil-2026-09-09-mendonca-homologa-delacao-mineiro
+- src-gazetadopovo-2026-09-09-mendonca-homologa-delacao-dark-horse
+- src-rdnews-2026-09-09-mendonca-homologa-delacao-repasses-dark-horse
 aliases:
 - Mineiro
 review_status: published

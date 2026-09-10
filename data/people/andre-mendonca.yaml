@@ -50,6 +50,13 @@ open_questions:
   — mas busca por corroboração independente dessa articulação específica (fora da Poder360) não localizou
   outra fonte até a data desta apuração; permanece registrada como apuração exclusiva de um único veículo,
   não fato confirmado por múltiplas fontes.
+- 'Homologou em 09/09/2026, na condição de relator, a colaboração premiada de Antonio Carlos Freixo Júnior.
+  Nota de contexto para leitura futura, registrada para evitar inferência indevida: é também o relator
+  da ADI 7900 e da ADPF 1306, julgadas em abril de 2026, que derrubaram as medidas de Mato Grosso restritivas
+  ao cartão consignado de benefício, a pedido de entidades do sistema financeiro. A coincidência de relatoria
+  tem pouco peso inferencial: a distribuição de ações de controle concentrado é por sorteio, o mérito
+  das duas ações foi decidido por unanimidade do Plenário e o fundamento foi de competência privativa
+  da União para legislar sobre direito civil e política de crédito, matéria alheia ao objeto criminal.'
 source_ids:
 - src-apublica-2026-02-13-mendonca-herda-caso
 - src-cnn-2026-09-02-mendonca-admite-encontro
@@ -70,6 +77,8 @@ source_ids:
 - src-verificacao-direta-equipe-pet16662-documentos-primarios
 - src-verificacao-direta-equipe-pet16669-decisao-dino-integra
 - src-metropoles-2026-09-08-lula-recebe-agu-alvorada-decisao-mendonca
+- src-timesbrasil-2026-09-09-mendonca-homologa-delacao-mineiro
+- src-stf-2026-adi-7900-decreto-legislativo-79-mt
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

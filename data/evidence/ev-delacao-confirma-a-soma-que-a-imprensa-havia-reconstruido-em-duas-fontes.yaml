@@ -1,0 +1,22 @@
+id: ev-delacao-confirma-a-soma-que-a-imprensa-havia-reconstruido-em-duas-fontes
+kind: evidence
+classification: C
+proposition: A convergência aritmética é o achado mais forte do episódio. O corpus registrava, de duas
+  apurações independentes e por vias distintas, que o fundo norte-americano recebera ao menos US$ 10,6
+  milhões de empresas ligadas a Daniel Vorcaro, conforme o Intercept, mais US$ 1,6 milhão em 16/09/2025,
+  conforme relatório do Coaf noticiado pela piauí — soma de US$ 12,2 milhões. O colaborador declara agora
+  sete transferências totalizando US$ 12,3 milhões, realizadas entre fevereiro e setembro de 2025. O número
+  reconstruído pela imprensa a partir de duas fontes separadas coincide, na prática, com o que o próprio
+  operador das remessas confirma — o que eleva a confiança tanto no relato quanto no trabalho de reconstrução
+  anterior.
+document_ids:
+- doc-2026-09-09-homologacao-delacao-freixo-junior-stf
+source_ids:
+- src-timesbrasil-2026-09-09-mendonca-homologa-delacao-mineiro
+- src-gazetadopovo-2026-09-09-mendonca-homologa-delacao-dark-horse
+date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

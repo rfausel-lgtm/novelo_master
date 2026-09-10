@@ -1,0 +1,35 @@
+id: paulo-calixto
+kind: person
+name: Paulo Calixto
+category: lawyer
+role: Advogado brasileiro que administra o Havengate Development Fund, nos Estados Unidos
+positions: []
+summary: É quem administra o fundo norte-americano que recebeu as sete transferências de US$ 12,3 milhões
+  confirmadas pela delação homologada em 09/09/2026, e é descrito pela cobertura como pessoa próxima a
+  Eduardo Bolsonaro.
+why_in_novelo: O fundo que administra havia sido criado, segundo verificação do Intercept em registros
+  oficiais do Texas, para um projeto imobiliário que nunca saiu do papel, e passou a receber os recursos
+  destinados ao financiamento do filme sobre Jair Bolsonaro. Parte da cobertura o descreve especificamente
+  como advogado de imigração — detalhe que, se confirmado, dialoga com a linha de apuração da Polícia
+  Federal sobre eventual custeio da permanência de Eduardo Bolsonaro nos Estados Unidos; outras coberturas
+  dizem apenas 'advogado brasileiro', e o corpus registra a divergência sem escolher entre elas. Não foi
+  localizada manifestação sua.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Confirmar se atua como advogado de imigração, como parte da cobertura afirma, e desde quando administra
+  o Havengate Development Fund. O ponto é relevante porque liga o administrador do fundo à hipótese investigada
+  sobre a permanência de Eduardo Bolsonaro nos Estados Unidos.
+- Não foi localizada manifestação pública sua sobre a administração do fundo nem sobre a origem e a destinação
+  dos recursos recebidos. Procurar posicionamento.
+- Apurar a natureza jurídica do Havengate e se houve registro das operações perante autoridades norte-americanas,
+  dado que o fundo foi constituído para finalidade diversa.
+source_ids:
+- src-timesbrasil-2026-09-09-mendonca-homologa-delacao-mineiro
+- src-gazetadopovo-2026-09-09-mendonca-homologa-delacao-dark-horse
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-06'

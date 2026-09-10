@@ -1,0 +1,35 @@
+id: rev-2026-09-09-lote-147-homologacao-da-delacao-de-mineiro
+kind: revision
+date: '2026-09-09'
+title: Lote 147 — a homologação da delação de 'Mineiro' e a soma que a imprensa já havia reconstruído
+summary: 'Atualização de última hora sobre linha que o corpus já acompanhava. O relator do caso Master
+  no Supremo homologou em 09/09/2026, um dia após a oitiva, a colaboração premiada do operador financeiro
+  apontado como responsável pelas remessas ao fundo norte-americano que financiou o filme sobre Jair Bolsonaro.
+  O ato muda o estatuto processual do material: até aqui havia apenas o acordo fechado com a Procuradoria-Geral
+  da República. O achado analítico é a convergência aritmética: o corpus registrava, de duas apurações
+  independentes e por vias distintas, US$ 10,6 milhões apurados pelo Intercept e US$ 1,6 milhão vindo
+  de relatório do Coaf — soma de US$ 12,2 milhões —, e o colaborador declara agora sete transferências
+  totalizando US$ 12,3 milhões, feitas entre fevereiro e setembro de 2025. O número que a imprensa reconstruiu
+  de duas fontes separadas coincide com o que o próprio operador confirma. Registram-se ainda o relato
+  de entrega de grandes quantias em espécie, parte em malas, com menção a vídeos das entregas que, se
+  existirem, converteriam o relato em prova material; a linha de apuração sobre eventual custeio da permanência
+  de Eduardo Bolsonaro nos Estados Unidos, que ele nega; e duas divergências de cobertura, quanto à data
+  de assinatura do acordo e quanto aos valores globais, mantidas sem escolha entre versões. Novo no grafo:
+  Paulo Calixto, administrador do fundo. Anotou-se, no verbete do relator, uma nota de contexto destinada
+  a impedir inferência indevida sobre a coincidência de relatoria entre este caso e as ações que derrubaram
+  as restrições de Mato Grosso ao produto.'
+affected_ids:
+- antonio-carlos-freixo-junior
+- havengate-development-fund
+- daniel-vorcaro
+- eduardo-bolsonaro
+- andre-mendonca
+- paulo-calixto
+- entre-investimentos-e-participacoes
+reason: 'Notícia de última hora trazida pelo editor: homologação, pelo relator, da segunda delação do
+  caso Master, com detalhamento das remessas ao fundo norte-americano.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-09'
+created_at: '2026-09-09'
+updated_at: '2026-09-09'

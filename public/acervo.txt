@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-09-09T23:10:41.813Z.
+Corpus completo do caso Banco Master, gerado em 2026-09-10T00:15:43.772Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -268,6 +268,7 @@ POSIÇÃO|nunes-marques|no_response|Procurado pela Band em 20/03/2026 sobre os r
 PESSOA|oliver-ortiz-de-zarate-martin|Oliver Ortiz de Zarate Martin|Cidadão espanhol condenado no Brasil por tráfico internacional e lavagem de dinheiro|Citado, em alegação em disputa e em decisão judicial sobre terrenos, como cotista de fundos do grupo que administrava os veículos usados na aquisição do Banco Máxima.
 PESSOA|otavio-ribeiro-damaso|Otávio Ribeiro Damaso|Diretor de Regulação do Banco Central (indicado por Dilma, recondicionado por Temer e Bolsonaro)|Um dos quatro diretores do Banco Central que, presentes nas duas votações de 2019, mudaram de posição sobre a venda do Máxima a Daniel Vorcaro.
 PESSOA|paula-vouguinha|Paula Vouguinha|Relações institucionais do Banco Master|É a executiva que apresenta formalmente o Banco Master ao fundo previdenciário que viria a se tornar o segundo maior comprador público de suas letras financeiras.
+PESSOA|paulo-calixto|Paulo Calixto|Advogado brasileiro que administra o Havengate Development Fund, nos Estados Unidos|O fundo que administra havia sido criado, segundo verificação do Intercept em registros oficiais do Texas, para um projeto imobiliário que nunca saiu do papel, e passou a receber os recursos destinados ao financiamento do filme sobre Jair Bolsonaro. Parte da cobertura o descreve especificamente como advogado de imigra…
 PESSOA|paulo-gonet|Paulo Gonet|Procurador-Geral da República|É mencionado em relatório da Polícia Federal sobre o celular de Daniel Vorcaro e chefia o órgão que se manifestou nas fases da Operação Compliance Zero.
 POSIÇÃO|paulo-gonet|no_response|Procurado sobre as mensagens do relatório da PF, não se manifestou até a publicação; o relator fixou prazo de cinco dias para a PGR.
 POSIÇÃO|paulo-gonet|version|Pediu o arquivamento das denúncias de ameaça feitas por Vorcaro e, segundo relatos, rejeitou nova tentativa de retomar a negociação da delação, por considerar que as provas dos celulares já equivalem ao que ela traria.
