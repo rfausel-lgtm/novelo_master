@@ -1,8 +1,13 @@
 # Cabeçalhos de segurança para hosts estáticos (Cloudflare Pages, Netlify).
 # A exportação estática do Next.js inclui scripts inline de hidratação, por isso
-# script-src precisa de 'unsafe-inline'; não há eval nem recursos externos.
+# script-src precisa de 'unsafe-inline'; não há eval.
+#
+# O único recurso externo admitido é o beacon do Cloudflare Web Analytics. No modo automático (o Pages
+# injeta o script no deploy), ele carrega de static.cloudflareinsights.com e envia a medição para
+# /cdn-cgi/rum no PRÓPRIO domínio — por isso connect-src continua só 'self'. Se um dia o beacon for
+# embutido à mão em site não proxiado, aí sim connect-src precisaria de cloudflareinsights.com.
 /*
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; worker-src 'self' blob:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; worker-src 'self' blob:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin

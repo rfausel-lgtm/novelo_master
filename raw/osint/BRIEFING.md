@@ -3,11 +3,13 @@
 Leia integralmente antes de criar qualquer arquivo em /data.
 
 ## Princípio
+
 Mostre a evidência. Mostre a conexão. Mostre a cronologia. Deixe a conclusão para o visitante.
 Estar no mapa não implica ilicitude. Alegação não é fato. Proximidade não é influência.
 Coincidência temporal não é causalidade. NUNCA invente fonte, página, mensagem ou conexão.
 
 ## Ferramentas
+
 - Descobrir: WebSearch (funciona). WebFetch NÃO funciona para gov.br/stf/bcb (403/geo).
 - Ler página: `python python/novelo_osint/fetch.py "<url>" [--grep TERMO] [--max-chars N]`
   (curl local com IP brasileiro; funciona em noticias.stf.jus.br, portal.stf.jus.br, CNN, G1, Folha,
@@ -22,6 +24,7 @@ Coincidência temporal não é causalidade. NUNCA invente fonte, página, mensag
 - Wikipedia: só como índice/pista (source_type `encyclopedic`), nunca como suporte de relação/evento.
 
 ## Regras de dados (ver src/lib/schema/entities.ts e scripts/lib/lint.ts — leia ambos)
+
 - Um registro por arquivo: data/<coleção>/<id>.yaml, `id` == nome do arquivo, kebab-case ascii.
 - IDs: pessoas `nome-completo-usual` (ex.: alexandre-de-moraes); organizações `nome` (ex.: banco-btg-pactual);
   eventos `evt-YYYY-MM-DD-slug` (ou evt-YYYY-MM-slug); atos `ato-YYYY-MM-DD-slug`; fontes
@@ -48,7 +51,31 @@ Coincidência temporal não é causalidade. NUNCA invente fonte, página, mensag
   reviewed_at/created_at/updated_at = 2026-09-03.
 - Sem fotos, sem downloads binários (exceto PDF oficial via fetch.py, que fica fora do git).
 
+## Regras que o pipeline passou a impor (atualizado em 2026-09-10)
+
+Estas quatro entraram depois da primeira versão deste briefing, e cada uma já derrubou o site ou o CI
+uma vez. O lint e o hook as aplicam sozinhos — não há como publicar contornando.
+
+- **Aviso bloqueia registro publicado.** `npm run data:validate` não basta: o CI roda
+  `npm run data:lint` (modo estrito), e ali AVISO em registro `published` derruba o build. Rode os dois
+  e termine com **0 erros e 0 avisos**, não só 0 erros.
+- **Registro novo exige entrada de revisão.** Um arquivo novo em `data/` sem um arquivo novo em
+  `data/revisions/` no mesmo commit é bloqueado pelo hook de pre-commit. Sem o registro, o conteúdo vai
+  ao ar e não aparece em `/atualizacoes`, que a política editorial promete manter. Para dividir um lote
+  em vários commits de propósito: `NOVELO_SEM_REVISAO=1 git commit ...` (nunca `--no-verify`, que
+  desligaria junto a varredura de segredos).
+- **Registro publicado não pode citar registro não publicado.** O build monta o corpus só com
+  `review_status: published`; um `document_ids`/`source_ids` apontando para registro `in_review` vira
+  "referência a id inexistente", erro bloqueante, e o site inteiro para de publicar. Se rebaixar um
+  registro para `in_review`, rebaixe junto tudo que o cita — ou não rebaixe. Foi assim que a produção
+  ficou cinco lotes atrás em 10/09/2026.
+- **Duplicata de entidade é erro.** Rótulo idêntico depois de normalizar (nome ou alias de um igual ao
+  do outro) bloqueia. Tokens de um nome contidos no outro geram aviso — e aviso bloqueia registro
+  publicado. Quando forem mesmo entidades diferentes (homônimos, pai e filho), declare no registro:
+  `distinct_from: [id-do-outro]`. Não resolva renomeando.
+
 ## Coordenação (vários agentes escrevem em /data ao mesmo tempo)
+
 - Você SÓ cria arquivos novos. Se um arquivo já existe (ex.: data/people/daniel-vorcaro.yaml), NÃO edite:
   escreva o acréscimo proposto (novos source_ids, cited_position, positions, open_questions) em
   raw/osint/<seu-cluster>/patches.md, indicando o id e o bloco YAML a acrescentar.
@@ -66,12 +93,15 @@ Coincidência temporal não é causalidade. NUNCA invente fonte, página, mensag
   src-stf-2026-04-16-prisao-ex-presidente-brb, src-stf-2026-05-07-nova-fase-ciro-nogueira,
   src-pf-2025-11-18-compliance-zero, src-bcb-2025-11-ata-comef-63, src-cnn-2026-03-04-relembre-crise-master.
 - Não referencie ids que outro cluster esteja criando nesta rodada (não existem ainda); descreva em patches.md.
-- Ao final: `npm run data:validate` deve terminar com 0 erros (avisos são aceitáveis, mas revise-os).
-  Corrija até passar. Não rode git commit.
+- Ao final: `npm run data:validate` E `npm run data:lint` devem terminar com 0 erros e 0 avisos (ver a
+  seção acima: no modo estrito, aviso em registro publicado bloqueia). Confira pelo código de saída
+  (`echo $?`), não por leitura da saída — foi lendo a saída que cinco lotes seguidos subiram com o build
+  quebrado sem ninguém perceber. Corrija até passar. Não rode git commit.
 - Entregue também raw/osint/<seu-cluster>/RELATORIO.md: o que pesquisou, o que não encontrou, fontes que
   não conseguiu abrir, dúvidas para o Red Team, e a lista de ids criados.
 
 ## Meta por cluster
+
 Qualidade acima de quantidade. Alvo razoável: 8 a 15 pessoas/organizações novas, 10 a 25 eventos/atos,
 20 a 40 fontes, 15 a 30 relações, evidências correspondentes, 2 a 5 claims com limits, 1 a 3 sequências
 temporais (seq-*) quando houver sequência evento→ato público relevante, sempre com causality_proven: false
