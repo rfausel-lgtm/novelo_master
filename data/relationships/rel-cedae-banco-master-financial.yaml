@@ -1,0 +1,23 @@
+id: rel-cedae-banco-master-financial
+kind: relationship
+from_id: cedae
+to_id: banco-master
+relationship_type: financial
+directed: true
+label: investiu R$ 200 milhões
+description: Segundo reportagem do UOL de 10/09/2026, a partir da proposta de colaboração de Vorcaro, a Cedae investiu
+  R$ 200 milhões em produtos do Banco Master — o único dos quatro entes citados que não é entidade previdenciária.
+evidence_class: A
+confidence: 0.5
+status: unverified
+evidence_ids:
+- ev-quatro-instituicoes-somam-3-62-bilhoes-mais-que-o-dobro-da-versao-de-vorcaro
+document_ids:
+- doc-2026-09-terceira-proposta-delacao-vorcaro-comissao-politica
+source_ids:
+- src-revistaforum-2026-09-10-acm-neto-rueda-comissao-rpps-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

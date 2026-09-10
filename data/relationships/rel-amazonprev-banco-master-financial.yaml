@@ -1,0 +1,23 @@
+id: rel-amazonprev-banco-master-financial
+kind: relationship
+from_id: amazonprev
+to_id: banco-master
+relationship_type: financial
+directed: true
+label: aplicou R$ 50 milhões em letras financeiras
+start_date: 2023-10
+end_date: 2024-12
+description: Segundo o Ministério da Previdência e o CadPrev, citados pelo Times Brasil, a Amazonprev aplicou R$
+  50 milhões em letras financeiras do Banco Master entre outubro de 2023 e dezembro de 2024, um dos dezoito regimes
+  próprios de previdência do país que investiram no banco.
+evidence_class: A
+confidence: 0.7
+status: unverified
+evidence_ids: []
+source_ids:
+- src-timesbrasil-18-rpps-lista
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

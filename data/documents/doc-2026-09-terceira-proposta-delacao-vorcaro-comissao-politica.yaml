@@ -1,0 +1,39 @@
+id: doc-2026-09-terceira-proposta-delacao-vorcaro-comissao-politica
+kind: document
+title: 'A terceira proposta de colaboração de Vorcaro: a comissão política dos 10%'
+doc_type: testimony
+date: '2026-09-10'
+source_ids:
+- src-revistaforum-2026-09-10-acm-neto-rueda-comissao-rpps-master
+- src-jgb-2026-09-10-delacao-vorcaro-conta-corrente-gerencial
+summary: 'Terceira proposta de colaboração premiada apresentada por Daniel Vorcaro às autoridades, revelada pelo
+  UOL em 10/09/2026 e ainda não aceita pela Polícia Federal nem pela PGR. Nela, o banqueiro atribui a ACM Neto e
+  a Antônio Rueda, dois dos principais dirigentes do União Brasil, a intermediação da entrada de recursos de institutos
+  de previdência do Rio de Janeiro, do Amapá e do Amazonas, além da Cedae, estatal fluminense de água e esgoto,
+  no Banco Master — em troca de uma remuneração de 10% do valor aplicado, ou alternativamente 1% ao ano enquanto
+  o dinheiro permanecesse investido. Segundo Vorcaro, a articulação teria captado cerca de R$ 2 bilhões, gerando
+  obrigação estimada de R$ 200 milhões, sem que o documento diga quanto foi de fato pago. Um dos anexos, intitulado
+  ''captação de recursos públicos promovida por Antônio Carlos Magalhães Neto e Antônio de Rueda'', descreve uma
+  ''conta corrente gerencial'' interna do banco para controlar os valores devidos aos dois, que também registraria
+  operações do CredCesta e negociações do BRB. A ACM Neto atribui quatro modalidades de repasse — espécie e contratos
+  de consultoria via A&M Consultoria e B6 Capital; a Rueda, espécie e contratos com o escritório Rueda & Rueda Advogados,
+  somando possivelmente R$ 3 milhões mensais. Ambos negam irregularidades. Não lida pela equipe: o que se conhece
+  é o que duas reportagens, a partir do mesmo furo do UOL, descrevem do documento.'
+is_official: false
+related_entity_ids:
+- daniel-vorcaro
+- acm-neto
+- antonio-rueda
+- rioprevidencia
+- amapa-previdencia
+- amazonprev
+- cedae
+- banco-master
+issuer: Daniel Vorcaro, em proposta de colaboração premiada
+url: https://revistaforum.com.br/politica/acm-neto-e-rueda-aportes-master
+reference: Terceira proposta de colaboração premiada de Daniel Vorcaro, revelada em 10/09/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

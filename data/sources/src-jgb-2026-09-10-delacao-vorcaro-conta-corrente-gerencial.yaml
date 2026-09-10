@@ -1,0 +1,30 @@
+id: src-jgb-2026-09-10-delacao-vorcaro-conta-corrente-gerencial
+kind: source
+title: Daniel Vorcaro acusa ACM Neto e Rueda de receber 10% sobre aportes ao Banco Master
+publisher: Jornal Grande Bahia (JGB), citando reportagem original do UOL
+author: Carlos Augusto, a partir de reportagem de Cézar Feitoza, Fabio Serapião e Natália Portinari (UOL)
+publication_date: '2026-09-10'
+retrieved_at: '2026-09-10'
+url: https://jornalgrandebahia.com.br/2026/09/daniel-vorcaro-acusa-acm-neto-e-rueda-de-receber-10-sobre-aportes-ao-banco-master-delacao-rejeitada-cita-ate-r-200-milhoes/
+source_type: press
+summary: 'Cobertura mais detalhada da mesma proposta de colaboração, com um elemento que a Fórum não registra: um
+  dos anexos, intitulado ''captação de recursos públicos promovida por Antônio Carlos Magalhães Neto e Antônio de
+  Rueda'', descreve uma suposta ''conta corrente gerencial'' mantida pelo Master para controlar internamente os
+  valores devidos aos dois políticos — e essa conta, segundo a narrativa atribuída a Vorcaro, registraria não só
+  a captação de investidores institucionais, mas também operações envolvendo o CredCesta e negociações relacionadas
+  ao Banco de Brasília (BRB). A reportagem confirma que a proposta não foi aceita pela Polícia Federal nem pela
+  PGR, não informa se os valores foram efetivamente pagos, e registra que ''ACM Neto classificou as insinuações
+  como falsas, enquanto Rueda negou irregularidades'' — ambos mantendo, segundo o texto, o direito ao contraditório.'
+notes: O título do veículo usa 'delação rejeitada'; o corpo do texto esclarece que se trata de proposta 'não aceita'
+  pelas autoridades até a data da reportagem — não uma rejeição formal e definitiva registrada em decisão. A diferença
+  é relevante e fica marcada nos verbetes.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (captura local e leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

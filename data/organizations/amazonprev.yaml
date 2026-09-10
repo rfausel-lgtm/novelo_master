@@ -1,0 +1,37 @@
+id: amazonprev
+kind: organization
+name: Amazonprev
+full_name: Amazonprev — Instituto de Previdência do Estado do Amazonas
+aliases:
+- RPPS/AM
+- Previdência do Amazonas
+org_type: public_body
+jurisdiction: Estado do Amazonas
+summary: Entidade que gere o regime próprio de previdência do Estado do Amazonas. Segundo levantamento do Ministério
+  da Previdência e do CadPrev, publicado pelo Times Brasil em 19/11/2025, aplicou R$ 50 milhões em letras financeiras
+  do Banco Master entre outubro de 2023 e dezembro de 2024 — um dos dezoito regimes próprios de previdência do país
+  que investiram no banco antes da liquidação extrajudicial de 18/11/2025. Em 10/09/2026, tornou-se um dos quatro
+  entes citados na terceira proposta de colaboração premiada de Daniel Vorcaro, segundo a qual ACM Neto e Antônio
+  Rueda teriam intermediado a entrada desses recursos no banco em troca de comissão de 10%.
+why_in_novelo: É um dos dezoito regimes próprios de previdência que aplicaram em letras financeiras do Banco Master,
+  e um dos quatro entes citados na proposta de colaboração de Vorcaro sobre a comissão política de captação institucional.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica da entidade foi localizada no corpus até 10/09/2026.
+open_questions:
+- O valor de R$ 50 milhões vem de reportagem baseada em dados do CadPrev e do Ministério da Previdência; a equipe
+  não consultou o demonstrativo primário do ente, porque a consulta pública do sistema federal (DAIR) exige resolução
+  de reCAPTCHA, barreira que a equipe não contorna.
+- Não foi localizada a ata do comitê de investimento que aprovou a aplicação, nem o estado atual do crédito na liquidação
+  do banco.
+- A alegação de comissão paga a ACM Neto e Rueda, na proposta de colaboração de Vorcaro, não foi corroborada por
+  documento independente; o próprio documento não distingue este ente dos demais três citados quanto à atuação específica
+  de cada político.
+source_ids:
+- src-timesbrasil-18-rpps-lista
+- src-revistaforum-2026-09-10-acm-neto-rueda-comissao-rpps-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

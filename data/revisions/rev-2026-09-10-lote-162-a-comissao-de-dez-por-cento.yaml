@@ -1,0 +1,38 @@
+id: rev-2026-09-10-lote-162-a-comissao-de-dez-por-cento
+kind: revision
+date: '2026-09-10'
+title: 'Lote 162 — a comissão de 10%: Vorcaro liga quatro entes públicos a ACM Neto e Rueda'
+summary: 'Ao abrir a frente dos dezoito compradores institucionais do Master, o fato do dia se impôs: horas atrás
+  o UOL revelou o conteúdo de uma terceira proposta de colaboração premiada de Daniel Vorcaro, ainda não aceita
+  pela Polícia Federal nem pela PGR, em que ele atribui a ACM Neto e a Antônio Rueda — dois dos principais dirigentes
+  do União Brasil, já mapeados no acervo por pagamentos de consultoria e advocacia — a intermediação da entrada
+  de recursos de institutos de previdência do Rio de Janeiro, do Amapá e do Amazonas, e da estatal fluminense Cedae,
+  no banco, em troca de comissão de 10% do valor aplicado (ou 1% ao ano enquanto o dinheiro permanecesse investido).
+  Pela conta do próprio colaborador, a articulação teria captado cerca de R$ 2 bilhões, gerando obrigação estimada
+  em R$ 200 milhões — mas o documento não diz se o valor foi pago. A checagem contra os números já conhecidos expõe
+  um furo que nenhuma reportagem resolve: as quatro instituições citadas somam R$ 3,62 bilhões efetivamente investidos,
+  mais que o dobro dos R$ 2 bilhões da versão de Vorcaro. Um anexo traz o achado estrutural mais importante: uma
+  ''conta corrente gerencial'' interna do Master que, segundo o colaborador, registrava não só a captação institucional
+  mas também operações do CredCesta e negociações do BRB — a primeira indicação documental de que essas frentes,
+  que o acervo vinha tratando como capítulos separados, corriam sob um mesmo controle financeiro. ACM Neto chamou
+  a acusação de falsa; Rueda negou irregularidades. Entram no acervo dois entes que faltavam: a Amazonprev, um dos
+  dezoito compradores da lista do Ministério da Previdência (R$ 50 milhões, 2023-2024), e a Cedae, que não é RPPS
+  e cuja presença nesta lista amplia o alcance da alegação para além da previdência pública. Registro de método:
+  a consulta pública federal do CadPrev (DAIR), fonte primária ideal para verificar aplicação por aplicação os dezoito
+  compradores, exige resolução de reCAPTCHA — barreira que a equipe não contorna; a via que resta é o documento
+  primário de cada ente (atas, demonstrativos, diário oficial), como já se fez com a Amapá Previdência e o Rioprevidência.'
+affected_ids:
+- daniel-vorcaro
+- acm-neto
+- antonio-rueda
+- rioprevidencia
+- amapa-previdencia
+- amazonprev
+- cedae
+- banco-master
+reason: Abertura da frente investigativa sobre os dezoito regimes próprios de previdência compradores de papel do
+  Banco Master, pedida pelo editor a partir da ata do CIAP; o fato do dia — a proposta de colaboração revelada pelo
+  UOL — tornou-se o ponto de entrada natural, por ligar quatro dos dezoito entes a um único mecanismo alegado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'

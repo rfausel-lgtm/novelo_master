@@ -1,0 +1,33 @@
+id: cedae
+kind: organization
+name: Cedae
+full_name: Companhia Estadual de Águas e Esgotos do Rio de Janeiro
+aliases:
+- CEDAE
+org_type: public_body
+jurisdiction: Estado do Rio de Janeiro
+summary: Estatal fluminense de saneamento básico. Segundo reportagem do UOL de 10/09/2026, a partir da terceira
+  proposta de colaboração premiada de Daniel Vorcaro, investiu R$ 200 milhões em produtos do Banco Master — valor
+  distinto dos regimes próprios de previdência, porque a Cedae não é entidade previdenciária, e sim empresa estatal
+  com tesouraria própria. É um dos quatro entes que, segundo Vorcaro, tiveram acesso ao banco intermediado por ACM
+  Neto e Antônio Rueda em troca de comissão de 10%.
+why_in_novelo: É a única entidade não previdenciária entre os entes públicos citados na proposta de colaboração
+  de Vorcaro sobre a comissão política de captação para o Banco Master, o que amplia o alcance da alegação para
+  além dos regimes de previdência.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica da estatal sobre a citação foi localizada no corpus até 10/09/2026.
+open_questions:
+- O valor de R$ 200 milhões vem exclusivamente da reportagem do UOL sobre a proposta de colaboração; a equipe não
+  localizou documento primário da própria Cedae (ata de diretoria, demonstrativo de aplicações financeiras) que
+  o confirme.
+- Não está esclarecido se o investimento é de recursos operacionais da companhia, de fundo de pensão de seus empregados,
+  ou de outra natureza — a reportagem não distingue.
+source_ids:
+- src-revistaforum-2026-09-10-acm-neto-rueda-comissao-rpps-master
+- src-jgb-2026-09-10-delacao-vorcaro-conta-corrente-gerencial
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

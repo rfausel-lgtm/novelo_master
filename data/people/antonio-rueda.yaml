@@ -8,36 +8,43 @@ positions:
   organization_id: uniao-brasil
   source_ids:
   - src-poder360-2026-04-08-receita-pagamentos-master
-summary: Presidente do União Brasil. Segundo registros da Receita Federal enviados à CPI do Crime Organizado,
-  conforme o Poder360, dois escritórios ligados a Rueda receberam R$ 6,4 milhões do Banco Master desde
-  2023. Sua assessoria não confirmou as informações, disse que os dados foram 'vazados de forma ilícita'
-  e que os serviços são legais e regularmente contratados.
-why_in_novelo: Escritórios ligados a ele constam, segundo registros fiscais enviados a CPI e divulgados
-  pela imprensa, entre os destinatários de pagamentos do Banco Master; sua posição está registrada.
+summary: Presidente do União Brasil. Segundo registros da Receita Federal enviados à CPI do Crime Organizado, conforme
+  o Poder360, dois escritórios ligados a Rueda receberam R$ 6,4 milhões do Banco Master desde 2023. Sua assessoria
+  não confirmou as informações, disse que os dados foram 'vazados de forma ilícita' e que os serviços são legais
+  e regularmente contratados. Em 10/09/2026, o UOL revelou que a mesma proposta atribui a ele, com ACM Neto, a intermediação
+  dos mesmos aportes institucionais mediante comissão de 10%, com pagamentos possivelmente somando R$ 3 milhões
+  mensais via o escritório Rueda & Rueda Advogados. Rueda negou irregularidades.
+why_in_novelo: Escritórios ligados a ele constam, segundo registros fiscais enviados a CPI e divulgados pela imprensa,
+  entre os destinatários de pagamentos do Banco Master; sua posição está registrada.
 cited_position:
 - by_id: antonio-rueda
   kind: clarification
-  summary: 'Assessoria ao Poder360: não confirma as informações; dados ''vazados de forma ilícita''; serviços
-    legais, regularmente contratados e em conformidade fiscal.'
+  summary: 'Assessoria ao Poder360: não confirma as informações; dados ''vazados de forma ilícita''; serviços legais,
+    regularmente contratados e em conformidade fiscal.'
   source_ids:
   - src-poder360-2026-04-08-receita-pagamentos-master
 - date: '2026-03-18'
   by_id: antonio-rueda
   kind: clarification
-  summary: Admitiu que o escritório Rueda e Rueda advogou para o Master (pareceres, reuniões, mais de
-    1.000 audiências), atividade que considera legítima, após ter dito dois dias antes não ter relação
-    com Vorcaro além de contatos sociais.
+  summary: Admitiu que o escritório Rueda e Rueda advogou para o Master (pareceres, reuniões, mais de 1.000 audiências),
+    atividade que considera legítima, após ter dito dois dias antes não ter relação com Vorcaro além de contatos
+    sociais.
   source_ids:
   - src-metropoles-2026-03-19-rueda-admite
 open_questions:
 - Os registros da Receita não foram lidos pela equipe; os valores são os reportados pelo Poder360.
+- 'A nova acusação de comissão de 10% é distinta dos R$ 6,4 milhões já documentados por registros fiscais enviados
+  à CPI (2022-2025): aquele valor é pagamento a escritório por serviços; este é comissão alegada sobre captação
+  de terceiros, sem comprovação de repasse efetivo.'
 source_ids:
 - src-poder360-2026-04-08-receita-pagamentos-master
 - src-metropoles-2026-03-19-rueda-admite
 - src-cnn-2026-04-master-304-milhoes-a-advogados
+- src-revistaforum-2026-09-10-acm-neto-rueda-comissao-rpps-master
+- src-jgb-2026-09-10-delacao-vorcaro-conta-corrente-gerencial
 full_name: Antônio de Rueda
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-10'

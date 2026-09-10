@@ -5,22 +5,24 @@ aliases:
 - Amprev
 - RPPS/AP
 org_type: public_body
-summary: 'Entidade que gere o regime próprio de previdência dos servidores do Estado do Amapá. Ao contrário
-  do que a imprensa costuma registrar, não é autarquia: o art. 98 da Lei estadual 0915/2005 a define como
-  pessoa jurídica de direito privado sob a forma de serviço social autônomo, enquadramento que o Diário
-  Oficial do Estado ainda reproduzia em fevereiro de 2026. Sua Diretoria Executiva é de livre nomeação
-  do governador. Investiu R$ 400 milhões em letras financeiras do Banco Master em três deliberações do
-  Comitê de Investimentos em menos de vinte dias, em julho de 2024 — a primeira com vencimento em 10 anos
-  e taxa de IPCA + 8,35% ao ano —, contra dois votos e depois de um parecer de alerta do Ministério da
-  Previdência Social. A aprovação é investigada pela PF (operação Zona Cinzenta, 06/02/2026) e pelo MP-AP.
-  A mesma investigação alcança deliberações de setembro de 2021 que destinaram R$ 15 milhões a cotas de
-  um FIDC Multisetorial. A carteira somava R$ 9,041 bilhões em agosto de 2025.'
-why_in_novelo: Fundo previdenciário público que investiu R$ 400 milhões no Banco Master, o segundo maior
-  aporte de entes públicos segundo a CNN, com aprovação sob investigação.
+summary: 'Entidade que gere o regime próprio de previdência dos servidores do Estado do Amapá. Ao contrário do que
+  a imprensa costuma registrar, não é autarquia: o art. 98 da Lei estadual 0915/2005 a define como pessoa jurídica
+  de direito privado sob a forma de serviço social autônomo, enquadramento que o Diário Oficial do Estado ainda
+  reproduzia em fevereiro de 2026. Sua Diretoria Executiva é de livre nomeação do governador. Investiu R$ 400 milhões
+  em letras financeiras do Banco Master em três deliberações do Comitê de Investimentos em menos de vinte dias,
+  em julho de 2024 — a primeira com vencimento em 10 anos e taxa de IPCA + 8,35% ao ano —, contra dois votos e depois
+  de um parecer de alerta do Ministério da Previdência Social. A aprovação é investigada pela PF (operação Zona
+  Cinzenta, 06/02/2026) e pelo MP-AP. A mesma investigação alcança deliberações de setembro de 2021 que destinaram
+  R$ 15 milhões a cotas de um FIDC Multisetorial. A carteira somava R$ 9,041 bilhões em agosto de 2025. Em 10/09/2026,
+  o UOL revelou proposta de colaboração de Vorcaro atribuindo a ACM Neto e a Antônio Rueda a intermediação política
+  do acesso do Master à entidade, mediante comissão de 10% — a mesma alegação que alcança o Rioprevidência, a Amazonprev
+  e a Cedae.'
+why_in_novelo: Fundo previdenciário público que investiu R$ 400 milhões no Banco Master, o segundo maior aporte
+  de entes públicos segundo a CNN, com aprovação sob investigação.
 cited_position:
 - kind: public_note
-  summary: Afirmou sentir-se 'lesada pelos malfeitos do banco Master', que 'não abre mão de ser ressarcida',
-    que os recursos dos segurados estão protegidos e que se habilitou junto ao BC na liquidação.
+  summary: Afirmou sentir-se 'lesada pelos malfeitos do banco Master', que 'não abre mão de ser ressarcida', que
+    os recursos dos segurados estão protegidos e que se habilitou junto ao BC na liquidação.
   source_ids:
   - src-poder360-2026-02-10-amprev-zona-cinzenta
   - src-amprev-2025-11-19-nota-master
@@ -28,38 +30,39 @@ cited_position:
   by_id: amapa-previdencia
   date: '2026-02-09'
 open_questions:
-- A passagem da decisão judicial sobre deliberações de FIDC em setembro de 2021 é contraditada pelos registros
-  públicos da própria Amprev em cinco pontos independentes; não se sabe se há erro de redação na peça
-  ou fatos ocorridos em outro colegiado.
-- As atas do Conselho Estadual de Previdência de 2021 estão listadas no site da entidade, mas todos os
-  dezessete links retornam erro 404 — é a única via institucional que ficou fechada.
-- O Parecer nº 146/2024 do Ministério da Previdência Social é conhecido apenas pela descrição em ata;
-  o texto não foi lido pela equipe.
-- Quais 'agentes públicos' estariam em conluio com os investigados, segundo a decisão que autorizou a
-  quebra de sigilo telemático.
-- A decisão fixou prazo de 30 dias para relatório circunstanciado da PF; o resultado dessa etapa não é
-  conhecido pelo corpus.
+- A passagem da decisão judicial sobre deliberações de FIDC em setembro de 2021 é contraditada pelos registros públicos
+  da própria Amprev em cinco pontos independentes; não se sabe se há erro de redação na peça ou fatos ocorridos
+  em outro colegiado.
+- As atas do Conselho Estadual de Previdência de 2021 estão listadas no site da entidade, mas todos os dezessete
+  links retornam erro 404 — é a única via institucional que ficou fechada.
+- O Parecer nº 146/2024 do Ministério da Previdência Social é conhecido apenas pela descrição em ata; o texto não
+  foi lido pela equipe.
+- Quais 'agentes públicos' estariam em conluio com os investigados, segundo a decisão que autorizou a quebra de
+  sigilo telemático.
+- A decisão fixou prazo de 30 dias para relatório circunstanciado da PF; o resultado dessa etapa não é conhecido
+  pelo corpus.
 - A Amprev não publicou demonstrativo da posição na data da liquidação do Banco Master.
-- O Parecer nº 146/2024 do Ministério da Previdência Social é conhecido apenas pela descrição na ata do
-  CEP; o texto não foi lido pela equipe.
-- A imprensa noticiou transformação da Amprev em autarquia por lei complementar de julho de 2025; o texto
-  consolidado publicado pela própria entidade e o Diário Oficial de fevereiro de 2026 mantêm o enquadramento
-  como serviço social autônomo. A equipe não leu a lei complementar.
-- Segundo a reportagem que obteve o relatório sigiloso de auditoria, técnicos da autarquia admitiram aos
-  auditores federais que a documentação de credenciamento do Banco Master foi elaborada pelo próprio banco;
-  a equipe não teve acesso ao documento nem à manifestação da entidade sobre esse ponto específico.
-- A prestação de contas nos autos da cautelar soma R$ 7,93 milhões até março de 2026; o valor de R$ 63
-  milhões anunciado publicamente em fevereiro daquele ano não tem correspondência no processo, e o corpus
-  não apurou a que grandeza ele se refere.
+- O Parecer nº 146/2024 do Ministério da Previdência Social é conhecido apenas pela descrição na ata do CEP; o texto
+  não foi lido pela equipe.
+- A imprensa noticiou transformação da Amprev em autarquia por lei complementar de julho de 2025; o texto consolidado
+  publicado pela própria entidade e o Diário Oficial de fevereiro de 2026 mantêm o enquadramento como serviço social
+  autônomo. A equipe não leu a lei complementar.
+- Segundo a reportagem que obteve o relatório sigiloso de auditoria, técnicos da autarquia admitiram aos auditores
+  federais que a documentação de credenciamento do Banco Master foi elaborada pelo próprio banco; a equipe não teve
+  acesso ao documento nem à manifestação da entidade sobre esse ponto específico.
+- A prestação de contas nos autos da cautelar soma R$ 7,93 milhões até março de 2026; o valor de R$ 63 milhões anunciado
+  publicamente em fevereiro daquele ano não tem correspondência no processo, e o corpus não apurou a que grandeza
+  ele se refere.
 - A segunda prestação de contas, vencida em 17/06/2026, não foi localizada nos autos.
-- Não há decisão sobre a impugnação do liquidante, que aponta diferença de R$ 11,16 milhões do lado do
-  Estado do Amapá.
-- A autarquia oficiou o Banco Central pelo menos duas vezes, até 11/09/2025, pedindo informações sobre
-  processos contra o Banco Master e sobre os motivos da negativa à compra pelo BRB; o corpus não localizou
-  resposta.
-- O liquidante sustenta que não houve ordem de resgate emitida pela Amprev antes da liquidação, apesar
-  do desenquadramento; os autores sustentam ter notificado formalmente o banco. Não há decisão sobre o
-  ponto.
+- Não há decisão sobre a impugnação do liquidante, que aponta diferença de R$ 11,16 milhões do lado do Estado do
+  Amapá.
+- A autarquia oficiou o Banco Central pelo menos duas vezes, até 11/09/2025, pedindo informações sobre processos
+  contra o Banco Master e sobre os motivos da negativa à compra pelo BRB; o corpus não localizou resposta.
+- O liquidante sustenta que não houve ordem de resgate emitida pela Amprev antes da liquidação, apesar do desenquadramento;
+  os autores sustentam ter notificado formalmente o banco. Não há decisão sobre o ponto.
+- A proposta de colaboração não distingue a atuação de ACM Neto e Rueda no Amapá da atuação de Paula Vouguinha e
+  Alberto Félix Oliveira, já documentada na ata do CIAP de 14/03/2024 como a via direta de apresentação do banco
+  ao comitê de investimentos.
 source_ids:
 - src-amprev-2025-11-19-nota-master
 - src-poder360-2026-02-10-amprev-zona-cinzenta
@@ -83,9 +86,11 @@ source_ids:
 - src-oglobo-2026-02-11-copia-e-cola-master
 - src-tjap-autos-6102005-63-2025
 - src-djen-cnj-agravo-3000060-09-2026-tjrj
+- src-revistaforum-2026-09-10-acm-neto-rueda-comissao-rpps-master
+- src-jgb-2026-09-10-delacao-vorcaro-conta-corrente-gerencial
 jurisdiction: Amapá
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-05'
+updated_at: '2026-09-10'

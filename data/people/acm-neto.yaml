@@ -4,34 +4,42 @@ name: ACM Neto
 category: politician
 role: Ex-prefeito de Salvador (União Brasil); nome civil Antonio Carlos Peixoto de Magalhães Neto
 positions: []
-summary: 'Ex-prefeito de Salvador (2017-2024), neto do falecido senador Antônio Carlos Magalhães, figura
-  de peso do União Brasil. Recebeu pagamentos do Banco Master não por escritório de advocacia, mas por
-  uma empresa de consultoria em gestão — a A&M Consultoria Ltda, da qual é sócio-administrador ao lado
-  da esposa. Os valores divergem entre fontes: R$ 5,4 milhões entre 2023 e 2025, segundo declaração do
-  próprio ACM Neto; R$ 3,6 milhões combinando Master e Reag Investimentos até maio de 2024, segundo relatório
-  do Coaf citado pelo Correio Braziliense — divergência não reconciliada. Segundo a proposta de delação
-  de João Carlos Mansur (26/08/2026), é cotista exclusivo do fundo Seattle 95, que aplicou R$ 7,92 milhões
-  em fundos ligados ao Master, com ganho de R$ 4,01 milhões — ele confirma a condição de cotista, mas
-  afirma que são ''recursos próprios de origem declarada e lícita''.'
-why_in_novelo: É uma das figuras políticas de maior projeção nacional a receber pagamentos do Banco Master,
-  por via distinta (consultoria) da maioria dos demais nomes da rede (advocacia).
+summary: 'Ex-prefeito de Salvador (2017-2024), neto do falecido senador Antônio Carlos Magalhães, figura de peso
+  do União Brasil. Recebeu pagamentos do Banco Master não por escritório de advocacia, mas por uma empresa de consultoria
+  em gestão — a A&M Consultoria Ltda, da qual é sócio-administrador ao lado da esposa. Os valores divergem entre
+  fontes: R$ 5,4 milhões entre 2023 e 2025, segundo declaração do próprio ACM Neto; R$ 3,6 milhões combinando Master
+  e Reag Investimentos até maio de 2024, segundo relatório do Coaf citado pelo Correio Braziliense — divergência
+  não reconciliada. Segundo a proposta de delação de João Carlos Mansur (26/08/2026), é cotista exclusivo do fundo
+  Seattle 95, que aplicou R$ 7,92 milhões em fundos ligados ao Master, com ganho de R$ 4,01 milhões — ele confirma
+  a condição de cotista, mas afirma que são ''recursos próprios de origem declarada e lícita''. Em 10/09/2026, o
+  UOL revelou uma terceira proposta de colaboração de Vorcaro — ainda não aceita pelas autoridades — atribuindo
+  a ele, junto com Antônio Rueda, a intermediação de aportes de institutos de previdência do Rio, do Amapá e do
+  Amazonas, e da Cedae, no Master, mediante comissão de 10% (ou 1% ao ano). ACM Neto classificou as insinuações
+  como falsas.'
+why_in_novelo: É uma das figuras políticas de maior projeção nacional a receber pagamentos do Banco Master, por
+  via distinta (consultoria) da maioria dos demais nomes da rede (advocacia).
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 - kind: clarification
-  summary: Confirma ser cotista do fundo Seattle 95, mas afirma que os recursos aplicados são 'recursos
-    próprios de origem declarada e lícita'.
+  summary: Confirma ser cotista do fundo Seattle 95, mas afirma que os recursos aplicados são 'recursos próprios
+    de origem declarada e lícita'.
   source_ids:
   - src-bahianoticias-2026-08-26-proposta-delacao-mansur-wagner-acmneto
   by_id: acm-neto
   date: '2026-08-26'
-open_questions: []
+open_questions:
+- A nova acusação de comissão de 10% não especifica ato concreto praticado por ele em nenhum dos quatro institutos
+  citados; a proposta soma R$ 2 bilhões captados por essa via, quando os quatro entes juntos investiram R$ 3,62
+  bilhões no banco — diferença não explicada por Vorcaro nem pela imprensa.
 source_ids:
 - src-bahiaba-2026-acm-neto-confirma-54-milhoes
 - src-bahianoticias-2026-08-26-proposta-delacao-mansur-wagner-acmneto
 - src-correiobraziliense-2026-03-acm-neto-36-milhoes-master-reag
+- src-revistaforum-2026-09-10-acm-neto-rueda-comissao-rpps-master
+- src-jgb-2026-09-10-delacao-vorcaro-conta-corrente-gerencial
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-05'
 created_at: '2026-09-05'
-updated_at: '2026-09-06'
+updated_at: '2026-09-10'
