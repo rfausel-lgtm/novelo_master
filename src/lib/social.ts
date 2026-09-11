@@ -40,7 +40,7 @@ export class ArteInvalida extends Error {}
  *
  * Percorrer os chunks, em vez de confiar em offsets fixos, é o que permite (a) achar o `VP8 `/`VP8L`
  * dentro de um `VP8X` e (b) detectar animação por `ANIM`/`ANMF` presentes, e não só pela flag —
- * arte animada escaparia da conferência humana nos quadros seguintes ao primeiro.
+ * arte animada escaparia da inspeção visual nos quadros seguintes ao primeiro.
  */
 export function lerWebp(buf: Buffer): { width: number; height: number; animado: boolean } {
   if (

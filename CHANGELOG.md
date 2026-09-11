@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+- Artes de lote passam a ter liberação automática sob autorização editorial continuada de Rafael,
+  registrada na seção 7.1 da política. O agente inspeciona e documenta o checklist, espera todas as
+  verificações obrigatórias e mescla o PR conforme; qualquer dúvida falha fechado e chama o editor.
+  A mudança vale só para as artes no site e seus rascunhos no Buffer: publicar ou agendar no X
+  continua proibido sem aprovação humana explícita.
 - Gatilho de arte deixou de existir apenas como instrução de sessão: `social:pending` detecta, a
   partir do marco explícito do lote 200, revisões novas sem WebP canônico; uma automação local do
   Codex executa a recuperação periódica. Arte publicada é o estado durável de deduplicação, falha

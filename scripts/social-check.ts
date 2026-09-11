@@ -3,8 +3,8 @@
  *
  * Não escreve, não abre navegador, não depende de `corpus.json` nem da ordem do build: a fonte de
  * verdade dos ids é `data/revisions/`. É o gate mecânico; o que não se verifica por máquina — rosto
- * de pessoa real, simulação de documento, alegação nova — é da conferência humana (EDITORIAL_POLICY
- * seção 7.1), e nenhum dos dois substitui o outro.
+ * de pessoa real, simulação de documento, alegação nova — exige inspeção visual registrada
+ * (EDITORIAL_POLICY seção 7.1), e nenhum dos dois substitui o outro.
  *
  *   npm run social:check
  */
