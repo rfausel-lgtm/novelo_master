@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Artes de divulgação dos lotes 190 a 199 adicionadas em `public/social/`, uma por revisão, com
+  conferência humana registrada no PR que as publica (seção 7.1 da `EDITORIAL_POLICY`).
 - `/atualizacoes` paginada em dez revisões por página, com barra numerada convencional
   (`‹ 1 … 10 11 12 … 21 ›`), campo de salto direto e o intervalo de lotes como legenda. A página
   listava as 208 revisões de uma vez e o HTML tinha chegado a 1,15 MB; agora são 78 KB. A página 1
