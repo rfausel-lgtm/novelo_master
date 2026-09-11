@@ -106,31 +106,22 @@ export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
         </ol>
       )}
 
+      {/*
+        Rótulo em cima, numa linha só dele, e as setas embaixo.
+
+        A tentativa anterior punha os três lado a lado numa grade `1fr auto 1fr`, contando com as
+        colunas das pontas para centrar o rótulo. Medido em produção, isso só vale em tela larga: a
+        375 px não sobra espaço, as duas colunas `1fr` colapsam para zero e o rótulo sai 33 px do
+        centro. Com o rótulo na própria linha ele fica centrado em qualquer largura, sem depender de
+        sobra — e a linha das setas é uma grade de duas colunas, para a seta única da primeira e da
+        última página ficar no seu lado em vez de escorregar para a esquerda.
+      */}
       {paginas > 1 && (
         <nav
           aria-label="Paginação das atualizações"
-          /*
-           * Grade de três colunas, e não `justify-between`: na primeira e na última página só existe
-           * uma seta, e com flex o rótulo do meio escorrega para o lado — medido no DOM, ele saía do
-           * centro na página 1. A coluna do meio é `auto` e as das pontas dividem o resto, então o
-           * rótulo fica no mesmo lugar em todas as páginas, haja uma seta ou duas.
-           */
-          className="border-border mt-8 grid grid-cols-[1fr_auto_1fr] items-center gap-4 border-t pt-4 text-sm"
+          className="border-border mt-8 border-t pt-4 text-sm"
         >
-          {/* A lista vai da mais recente para a mais antiga: a seta da esquerda anda para páginas menores. */}
-          {pagina > 1 ? (
-            <Link
-              href={hrefDaPagina(pagina - 1)}
-              rel="prev"
-              className="text-fg-2 hover:text-fg inline-flex min-h-11 items-center gap-1.5 justify-self-start underline-offset-4 hover:underline"
-            >
-              <span aria-hidden="true">←</span> Mais recentes
-            </Link>
-          ) : (
-            <span />
-          )}
-
-          <span className="text-fg-3 justify-self-center text-center font-mono text-xs">
+          <p className="text-fg-3 text-center font-mono text-xs">
             {rotuloDoIntervalo(
               revisions.map((r) => r.id),
               primeiro,
@@ -139,19 +130,34 @@ export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
             <span className="block">
               página {pagina} de {paginas}
             </span>
-          </span>
+          </p>
 
-          {pagina < paginas ? (
-            <Link
-              href={hrefDaPagina(pagina + 1)}
-              rel="next"
-              className="text-fg-2 hover:text-fg inline-flex min-h-11 items-center gap-1.5 justify-self-end underline-offset-4 hover:underline"
-            >
-              Mais antigas <span aria-hidden="true">→</span>
-            </Link>
-          ) : (
-            <span />
-          )}
+          <div className="mt-1 grid grid-cols-2 items-center gap-4">
+            {/* A lista vai da mais recente para a mais antiga: a seta da esquerda anda para páginas menores. */}
+            {pagina > 1 ? (
+              <Link
+                href={hrefDaPagina(pagina - 1)}
+                rel="prev"
+                className="text-fg-2 hover:text-fg inline-flex min-h-11 items-center gap-1.5 justify-self-start underline-offset-4 hover:underline"
+              >
+                <span aria-hidden="true">←</span> Mais recentes
+              </Link>
+            ) : (
+              <span />
+            )}
+
+            {pagina < paginas ? (
+              <Link
+                href={hrefDaPagina(pagina + 1)}
+                rel="next"
+                className="text-fg-2 hover:text-fg inline-flex min-h-11 items-center gap-1.5 justify-self-end underline-offset-4 hover:underline"
+              >
+                Mais antigas <span aria-hidden="true">→</span>
+              </Link>
+            ) : (
+              <span />
+            )}
+          </div>
         </nav>
       )}
 
