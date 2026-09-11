@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+- A arte do lote passou a abrir o item em `/atualizacoes`, antes do texto, com a legenda "Ilustração
+  gerada por IA" entre a imagem e o texto — o leitor lê a ressalva no instante em que passa da
+  ilustração para o que o acervo afirma. Ausência de arte segue sendo estado normal: o item começa
+  pela data, sem espaço reservado.
+
 - Artes de lote passam a ter liberação automática sob autorização editorial continuada de Rafael,
   registrada na seção 7.1 da política. O agente inspeciona e documenta o checklist, espera todas as
   verificações obrigatórias e mescla o PR conforme; qualquer dúvida falha fechado e chama o editor.

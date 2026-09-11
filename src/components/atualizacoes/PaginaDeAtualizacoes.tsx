@@ -87,6 +87,27 @@ export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
                   aria-hidden="true"
                   className="bg-accent absolute top-1.5 -left-[1.85rem] h-2.5 w-2.5 rounded-full"
                 />
+                {/*
+                  A arte abre o item, antes do texto do lote. A legenda fica entre a imagem e o
+                  texto, que é onde ela precisa estar: o leitor lê "ilustração gerada por IA" no
+                  instante em que passa da imagem para o que o acervo de fato afirma.
+                */}
+                {arte && (
+                  <figure className="mb-3">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={arte.src}
+                      alt={`Arte de divulgação gerada por inteligência artificial${r.title ? `: ${r.title}` : ""}`}
+                      width={arte.width}
+                      height={arte.height}
+                      loading="lazy"
+                      className="border-border w-full rounded-md border"
+                    />
+                    <figcaption className="text-fg-3 mt-1 text-[10px] tracking-wide uppercase">
+                      Ilustração gerada por IA
+                    </figcaption>
+                  </figure>
+                )}
                 <time dateTime={r.date} className="text-fg font-mono text-sm font-medium">
                   {formatPartialDate(r.date)}
                 </time>
@@ -127,22 +148,6 @@ export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
                   </p>
                 )}
                 {r.author && <p className="text-fg-3 mt-1 text-xs">por {r.author}</p>}
-                {arte && (
-                  <figure className="mt-3">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
-                      src={arte.src}
-                      alt={`Arte de divulgação gerada por inteligência artificial${r.title ? `: ${r.title}` : ""}`}
-                      width={arte.width}
-                      height={arte.height}
-                      loading="lazy"
-                      className="border-border w-full rounded-md border"
-                    />
-                    <figcaption className="text-fg-3 mt-1 text-[10px] tracking-wide uppercase">
-                      Ilustração gerada por IA
-                    </figcaption>
-                  </figure>
-                )}
               </li>
             );
           })}
