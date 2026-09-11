@@ -10,7 +10,10 @@ Contrato fechado na [issue #34](https://github.com/rfausel-lgtm/novelo_master/is
 4. A arte não é evidência, não entra em `photo` nem em `source_ids`, e não sustenta alegação. Texto embutido no pixel **não prevalece** sobre `data/`; divergindo os dois, corrige-se ou remove-se a arte.
 5. Toda arte é WebP válido, **estático**, com largura máxima de **1280 px**.
 6. `npm run social:add` é o fluxo de inclusão e produz exclusivamente o arquivo canônico. `npm run social:check` falha para nome ou extensão inválidos, revisão inexistente, WebP inválido, largura acima do limite, animação, ou qualquer arquivo não canônico na pasta.
-7. **Nenhuma arte é publicada sem conferência humana registrada** no PR ou no commit que a publica. Quem gerou a imagem — sempre um modelo — nunca a libera. Ver [EDITORIAL_POLICY.md](../EDITORIAL_POLICY.md), seção 7.1.
+7. **A liberação é automática sob autorização editorial continuada.** O agente que gera a imagem
+   também a inspeciona, registra o checklist no PR e só o mescla depois de todas as verificações
+   obrigatórias. Incerteza sobre qualquer vedação é falha: a arte não é publicada e o editor é
+   avisado. Ver [EDITORIAL_POLICY.md](../EDITORIAL_POLICY.md), seção 7.1.
 
 ## Por que a chave é o `Revision.id`, e não o número do lote
 
@@ -42,7 +45,8 @@ o lote 83 tem 2 revisões. Passe o Revision.id completo:
 
 Nunca infere, aproxima ou corrige um id digitado: id desconhecido é erro.
 
-Depois: confira a arte (seção 7.1), commite, e o site a publica no próximo build.
+Depois: faça a inspeção visual e registre o checklist da seção 7.1, commite, abra o PR, espere todas
+as verificações obrigatórias e mescle. O site publica a arte no próximo build da `main`.
 
 ## Detecção de lotes novos
 
@@ -89,4 +93,7 @@ Proibido:
 Saída: WebP estático, largura <= 1280 px.
 ```
 
-O que é verificável por máquina — formato, largura, animação, nome canônico, vínculo com revisão existente — é responsabilidade do `social:check`. O resto é da conferência humana, e um não substitui o outro.
+O que é verificável por máquina — formato, largura, animação, nome canônico, vínculo com revisão
+existente — é responsabilidade do `social:check`. O restante exige inspeção visual do agente. O PR
+registra as duas verificações, e nenhuma substitui a outra. Se a inspeção não puder concluir com
+segurança que todos os itens estão conformes, o fluxo falha fechado e pede intervenção humana.

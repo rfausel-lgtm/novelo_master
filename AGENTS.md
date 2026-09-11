@@ -28,10 +28,11 @@ nada nesta cadeia depende de alguém lembrar depois.
    arte parada em branch não existe para o leitor — e branch parada foi exatamente como as artes dos
    lotes 156 a 164 ficaram um dia inteiro fora do ar. O agente fecha o trabalho com `social:check`
    verde e **PR aberto para a `main`**, nunca com a branch abandonada. A liberação obedece ao que a
-   seção 7.1 da [EDITORIAL_POLICY.md](EDITORIAL_POLICY.md) exigir no momento: hoje, conferência
-   humana específica registrada no PR ou no commit — nenhum agente libera a própria arte; onde houver
-   autorização continuada registrada no repositório, o agente publica direto depois das validações
-   mecânicas.
+   seção 7.1 da [EDITORIAL_POLICY.md](EDITORIAL_POLICY.md) exigir no momento. Rafael concedeu
+   autorização editorial continuada para liberação automática das artes: o agente inspeciona a
+   imagem, registra o checklist no PR, espera todas as verificações obrigatórias e, estando tudo
+   conforme, mescla o próprio PR. Dúvida sobre qualquer vedação editorial bloqueia a publicação e
+   exige aviso ao editor.
 4. **Rascunho para o X.** Só depois que a arte está na `main` o post do lote fica completo — antes
    disso o rascunho apontaria para uma imagem que o site não serve. Aí o fluxo do Codex salva o
    rascunho no buffer, via API, para aprovação.
@@ -46,9 +47,10 @@ nada nesta cadeia depende de alguém lembrar depois.
   `main` é o estado durável de conclusão. Revisão sem arquivo continua pendente para a próxima
   execução; revisão com arte nunca é refeita. Antes de gerar, a automação também procura PR aberto
   para o mesmo `Revision.id`, para não duplicar trabalho ainda em conferência.
-- **Autorização não se inventa.** O agente que gera a arte não cria autorização própria nem afasta as
-  vedações da seção 7.1 (rosto de pessoa real, retrato fotorrealista, simulação de documento ou de
-  cena, alegação nova, animação).
+- **Autoaprovação não reduz o padrão editorial.** Ela decorre da autorização continuada registrada na
+  seção 7.1, não de autorização criada pelo agente. O agente ainda precisa conferir e registrar cada
+  item do checklist; qualquer dúvida sobre rosto de pessoa real, retrato fotorrealista, simulação de
+  documento ou de cena, alegação nova ou animação interrompe o fluxo.
 - **Ninguém commita na branch alheia.** A equipe de arte trabalha em worktree próprio e traz a `main`
   para dentro; a equipe de investigação publica na `main` sem parar para esperar arte. As duas correm
   em paralelo de propósito — antes de editar código, verifique se o worktree já tem trabalho não
