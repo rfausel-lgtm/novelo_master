@@ -1,0 +1,32 @@
+id: ev-notas-apagadas-fontes-no-bacen-e-pressao-sobre-cupulas
+kind: evidence
+classification: D
+proposition: 'Em 30/10/2025, Daniel Vorcaro escreveu duas notas no iPhone e as apagou poucos minutos
+  depois; ambas foram recuperadas na extração forense. Na primeira, às 13h13, registrou que viajaria a
+  Abu Dhabi para encontrar um interlocutor não identificado e relatou ter recebido de integrantes do
+  Banco Central a informação confidencial de que "G" — provavelmente Gabriel Galípolo, presidente do BC
+  — e os demais diretores estariam sob forte pressão da PF e do MPF; pediu que o interlocutor reforçasse
+  junto a "Andrei" (provavelmente Andrei Passos Rodrigues, diretor-geral da PF) e "Paulo" (provavelmente
+  Paulo Gonet, procurador-geral da República) a necessidade de impedir que subordinados praticassem
+  "alguma sacanagem", pois "aí vai tudo pro saco". Na segunda, às 13h38, sob o título "De pessoas de
+  dentro do Bacen que são meus amigos e ficaram preocupados", afirmou que essas fontes haviam
+  participado da reunião e que as informações eram "100% confiáveis", acrescentando que não poderia
+  "queimá-los".'
+document_ids:
+- doc-2026-02-ipja-extracao-celular-vorcaro
+source_ids:
+- src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+excerpt: De pessoas de dentro do Bacen que são meus amigos e ficaram preocupados
+date: '2025-10-30'
+notes: 'As identificações de "G", "Andrei" e "Paulo" são hipóteses da própria PF, sinalizadas no
+  documento com "provavelmente" — não são atribuições estabelecidas, e assim ficam registradas aqui. O
+  documento não identifica o interlocutor a quem as notas se dirigiam, nem nomeia as fontes dentro do
+  Banco Central. O fato de as duas notas terem sido apagadas minutos após a escrita é usado pela PF como
+  indício de que o próprio autor reconhecia o teor como comprometedor. Nada aqui imputa conduta a
+  Galípolo, a Andrei Passos Rodrigues ou a Gonet: eles aparecem como pessoas sobre quem Vorcaro
+  pretendia influir, não como participantes do esquema.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,32 @@
+id: doc-2026-02-ipja-extracao-celular-vorcaro
+kind: document
+title: IPJ-A nº 1020625/2026 — análise do celular apreendido com Daniel Vorcaro
+doc_type: forensic_extract
+date: '2026-02'
+date_precision: month
+source_ids:
+- src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+summary: Análise de 126 páginas do conteúdo do iPhone apreendido com Daniel Vorcaro na 1ª fase da
+  Compliance Zero. Além dos diálogos com Luiz Phillipi Mourão que sustentam os capítulos já conhecidos
+  da investigação, traz as anotações do aplicativo "Notas" do próprio investigado — incluindo a lista
+  dos policiais federais que participaram de reunião sigilosa no Banco Central e duas notas apagadas
+  minutos após escritas, recuperadas na extração, sobre fontes dentro do Bacen e sobre pressionar as
+  cúpulas da PF e da PGR.
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- luiz-phillipi-mourao
+- ricardo-soares-leite
+- walfrido-warde
+- diego-escosteguy
+- banco-central-do-brasil
+- policia-federal
+issuer_id: policia-federal
+issuer: NADIP/DFIN/CGRC/DICOR/PF
+reference: 'PF, IPJ-A nº 1020625/2026 (e-Doc 4, PET 15.978)'
+excerpt: De pessoas de dentro do Bacen que são meus amigos e ficaram preocupados
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

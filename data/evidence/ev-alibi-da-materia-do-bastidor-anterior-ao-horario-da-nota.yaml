@@ -1,0 +1,29 @@
+id: ev-alibi-da-materia-do-bastidor-anterior-ao-horario-da-nota
+kind: evidence
+classification: D
+proposition: 'A extração do celular de Vorcaro data a nota em que ele pergunta a um interlocutor se este
+  teria proximidade com o juiz federal Ricardo Soares Leite em 16/11/2025, às 15h51min31s — cerca de 19
+  horas antes de a imprensa revelar, em 17/11/2025 às 11h08, que havia inquérito sobre a compra do Master
+  pelo BRB tramitando na 10ª Vara Federal do DF. O nome do magistrado não fora publicado por veículo
+  nenhum. A defesa de Vorcaro sustentou publicamente que só procurou aquela vara depois da reportagem,
+  porque "desconhecia o número do inquérito e qual dos juízes era responsável por ele". A PF registra
+  ainda que, segundo a análise, a própria reportagem foi construída com participação de Vorcaro, que
+  conversou com o jornalista Diego Escosteguy na véspera e no dia, e recebeu dele o texto já publicado
+  às 11h11min48s — repassando-o ao advogado Walfrido Warde treze segundos depois.'
+document_ids:
+- doc-2026-02-ipja-extracao-celular-vorcaro
+source_ids:
+- src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+date: '2025-11-16'
+notes: 'A nota de 16/11 já constava do acervo pela representação de 27/02/2026; o que esta IPJ-A
+  acrescenta é o horário exato da criação e a contraposição direta com o horário da publicação — é o
+  carimbo de tempo que transforma a coincidência em contradição documentada. Em depoimento de 30/12,
+  perguntado pela delegada Janaína Palazzo como soubera da vara antes da prisão, Vorcaro respondeu que
+  saíra notícia e que "a gente já sabia, na verdade". A alegação de que Escosteguy recebia dinheiro para
+  publicar matérias de interesse do banqueiro é imputação da PF, já registrada no acervo como alegação
+  não verificada, e continua nessa condição.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

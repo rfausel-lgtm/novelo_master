@@ -7,7 +7,12 @@ summary: Juiz federal da 10ª Vara Federal de Brasília/DF, que autorizou os man
   Compliance Zero — Fase I, cumpridos em 18/11/2025. Segundo a representação da PF de 27/02/2026, em 16/11/2025,
   dois dias antes da operação, Daniel Vorcaro registrou nota em seu celular perguntando a um interlocutor não identificado
   se este seria próximo dele — circunstância que a PF aponta como indício de vazamento da identidade do magistrado
-  responsável por um inquérito então sigiloso.
+  responsável por um inquérito então sigiloso. A EXTRAÇÃO DO CELULAR DE VORCARO (IPJ-A nº 1020625/2026,
+  lote 200, PET 15.978) precisa o horário da nota — 16/11/2025, às 15h51min31s —, cerca de 19 horas
+  antes de a imprensa revelar que havia inquérito na 10ª Vara; o nome dele não fora publicado em veículo
+  nenhum. No dia da prisão, o advogado Walfrido Warde enviou a Vorcaro captura de conversa de WhatsApp
+  com um contato salvo como "Ricardo Leite" e escreveu "Mandamos pro juiz também" e "Estamos infernizando
+  o cara".
 why_in_novelo: É o juiz cuja identidade, segundo a PF, Vorcaro teria obtido antecipadamente e de forma irregular,
   dois dias antes da operação que autorizou — indício central da tese de vazamento que embasou a representação por
   prisão preventiva.
@@ -19,6 +24,7 @@ open_questions:
   como o nome do magistrado teria chegado a ele.
 source_ids:
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+- src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

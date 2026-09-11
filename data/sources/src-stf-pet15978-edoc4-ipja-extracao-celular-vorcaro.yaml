@@ -1,0 +1,36 @@
+id: src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+kind: source
+title: IPJ-A nº 1020625/2026 — análise do celular apreendido com Daniel Vorcaro (e-Doc 4, PET 15.978)
+publisher: Polícia Federal — NADIP/DFIN/CGRC/DICOR/PF
+author: APF Fellipe Oliveira, APF Teixeira, APF Boson e APF Wilker Goulart
+publication_date: '2026-02'
+date_precision: month
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7514958
+source_type: official_police
+summary: 'Informação de Polícia Judiciária de Análise, de 126 páginas, sobre o conteúdo extraído do iPhone
+  17 Pro apreendido com Daniel Bueno Vorcaro no cumprimento do mandado de prisão da 1ª fase da Operação
+  Compliance Zero. É o documento-fonte que as representações da PF vinham citando como "IPJ nº 1020625/2026":
+  aqui estão, em primeira mão, os diálogos de WhatsApp entre Vorcaro e Luiz Phillipi Mourão que sustentam
+  os capítulos de acesso indevido a procedimentos sigilosos, uso de violência e coação, articulação com
+  estruturas criminosas, manipulação de perfis em redes sociais, supressão de conteúdo digital e
+  fabricação de avaliações em aplicativos. O capítulo final (4.2) trata do monitoramento de autoridades,
+  da tentativa de influência sobre agentes públicos, da obstrução à Justiça e da hipótese de plano de
+  fuga — e traz material que não aparece em nenhuma outra peça já lida do acervo: as anotações que o
+  próprio Vorcaro mantinha no aplicativo "Notas" do aparelho, algumas apagadas minutos após escritas e
+  recuperadas na extração.'
+notes: 'Documento obtido pelo próprio Rafael via certificado digital, parte do download completo da PET
+  15.978 (378 peças) — mesma política de divulgação aplicada às demais peças. O cabeçalho da IPJ-A traz
+  "Data 19/02/2025", mas o texto cita reportagem de fevereiro de 2026 e fatos de 2025 e 2026: trata-se,
+  ao que tudo indica, de erro de digitação do ano, e por isso a data foi registrada com precisão de mês
+  (fevereiro de 2026), não de dia.'
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador (leitura do sumário e do capítulo 4.2, 126 páginas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,27 @@
+id: ev-notas-iphone-vorcaro-lista-da-reuniao-sigilosa-no-bc
+kind: evidence
+classification: D
+proposition: 'Em 17/10/2025, por volta das 09h, a Polícia Federal e integrantes do Banco Central
+  realizaram reunião sigilosa sobre a investigação do Banco Master — procedimento que nascera de
+  comunicações do próprio BC. Quatro dias depois, em 21/10/2025 às 19h08, Daniel Vorcaro registrou no
+  aplicativo "Notas" do seu iPhone a lista nominal dos representantes da PF que estiveram lá: o diretor
+  de Investigação e Combate ao Crime Organizado e à Corrupção Dennis Cali, o chefe da Divisão de
+  Repressão a Crimes Financeiros Guilherme Alves de Siqueira, o agente Wilker Goulart, a delegada
+  Janaína — que presidia o inquérito da 1ª fase — e o delegado Britto, da 2ª fase, que participara
+  remotamente. A mesma nota trazia ainda os nomes de três procuradores da República (Ubiratan, Gabriel
+  Pimenta e Guilherme) que sequer estiveram na reunião.'
+document_ids:
+- doc-2026-02-ipja-extracao-celular-vorcaro
+source_ids:
+- src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+date: '2025-10-21'
+notes: 'É um vetor probatório novo no acervo: até aqui, o que se tinha do celular de Vorcaro eram os
+  diálogos de WhatsApp. As notas são registros do próprio investigado sobre quem o investigava —
+  investigadores identificados por nome e cargo quatro dias depois de uma reunião sigilosa. O documento
+  não estabelece quem repassou os nomes a ele. Os policiais e procuradores citados aparecem aqui como
+  alvos do monitoramento, não como suspeitos, e por isso não ganham registro próprio no acervo.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
