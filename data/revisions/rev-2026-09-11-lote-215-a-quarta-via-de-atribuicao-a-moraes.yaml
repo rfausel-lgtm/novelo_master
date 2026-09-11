@@ -1,0 +1,23 @@
+id: rev-2026-09-11-lote-215-a-quarta-via-de-atribuicao-a-moraes
+kind: revision
+date: '2026-09-11'
+title: 'Lote 215 — a quarta via de atribuição a Moraes: o que o voto de Gilmar realmente diz'
+summary: 'Leitura direta, no portal público do STF, do texto integral do voto de vista de Gilmar Mendes de
+  08/09/2026 (PET 16.662) — até aqui conhecido no acervo apenas pela mecânica processual (maioria 3x0
+  formada, vista pedida ~8 minutos após o início da sessão) e por trechos transcritos em decisão de outro
+  ministro. O texto original confirma as duas razões jurídicas já conhecidas (vício de legitimidade ativa
+  por provocação de partido político; precedente da ADPF 1.017/AL) e acrescenta uma razão prática (pauta
+  lançada menos de uma hora antes da sessão) e, mais sensível, a leitura do próprio Gilmar de que a decisão
+  de Mendonça "sugere" que o relatório de inteligência contra a PF foi produzido "por provocação de membro
+  da Primeira Turma" — expressão que, conferida contra o texto integral da decisão de Mendonça, não é
+  citação literal dela, e que soma uma quarta via, independente, à cadeia de atribuição a Alexandre de
+  Moraes já registrada no acervo via jornalista Waldvogel.'
+affected_ids:
+- gilmar-mendes
+- andre-mendonca
+- andrei-rodrigues
+reason: Mineração das decisões públicas do STF (Resolução 427/2010) da PET 16.662, um dos processos
+  indicados como tendo o sigilo levantado pelo despacho de André Mendonça de 10/09/2026 (Petição 16.704).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

@@ -1,0 +1,28 @@
+id: ev-gilmar-le-decisao-mendonca-como-sugerindo-provocacao-primeira-turma
+kind: evidence
+classification: A
+proposition: 'No voto de vista de 08/09/2026, Gilmar Mendes afirma que "a decisão de afastamento cautelar
+  registra elementos que sugerem que o relatório de inteligência teria sido produzido pelo Diretor-Geral da
+  Polícia Federal por provocação de membro da Primeira Turma desta Corte; tomada essa premissa nos termos
+  em que formulada pelo Relator, a competência para exame dos atos imputados a integrante do Tribunal é do
+  Plenário, e não da Segunda Turma". Como Alexandre de Moraes integra a Primeira Turma, a frase admite
+  leitura como referência indireta a ele — mas Gilmar não o nomeia expressamente.'
+attributed_to: Ministro Gilmar Mendes, em voto de vista de 08/09/2026
+document_ids:
+- doc-2026-09-08-voto-vista-gilmar-mendes-pet16662
+source_ids:
+- src-stf-pet-16662-voto-vista-gilmar-mendes-08-09-2026
+excerpt: a decisão de afastamento cautelar registra elementos que sugerem que o relatório de inteligência teria sido produzido pelo Diretor-Geral da Polícia Federal por provocação de membro da Primeira Turma desta Corte
+date: '2026-09-08'
+notes: 'Verificação de precisão: conferido o texto integral da decisão de Mendonça de 08/09/2026
+  (doc-2026-09-08-decisao-mendonca-afasta-andrei-pet16662) — as expressões "provocação" e "Primeira Turma"
+  NÃO aparecem nela. Trata-se de leitura/inferência do próprio Gilmar Mendes sobre o que a decisão
+  "sugere", não de citação literal de Mendonça. É uma quarta via de atribuição, independente e distinta da
+  já registrada em `ev-waldvogel-cita-andrei-relatorios-solicitados-por-moraes` (que trata da alegação de
+  que Moraes teria "solicitado" os relatórios, via jornalista Waldvogel citando Andrei, citado por
+  Mendonça) — aqui é o próprio Gilmar, por escrito, em voto oficial.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

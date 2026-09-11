@@ -33,9 +33,14 @@ cited_position:
 open_questions:
 - Propôs a Fachin, em setembro de 2026, a retirada dos delegados da PF cedidos ao STF, sob justificativa
   de risco de influência sobre os ministros investigados; proposta ainda não deliberada.
-- Trecho de seu despacho de pedido de vista (sobre o afastamento de Andrei Rodrigues) foi transcrito na
-  decisão de Flávio Dino de 09/09/2026 (Pet 16.669), questionando a legitimidade do Partido Novo e a competência
-  da 2ª Turma frente à do Plenário, e citando a ADPF 1.017/AL sobre neutralidade eleitoral do Judiciário.
+- 'CONFIRMADO POR FONTE PRIMÁRIA (lote 215): o texto integral do voto de vista de 08/09/2026 (sobre o
+  afastamento de Andrei Rodrigues) foi lido diretamente do portal do STF. Além da tese de vício de
+  legitimidade ativa (partido político, art. 282 §2º CPP, art. 230-B RISTF) e da citação à ADPF 1.017/AL já
+  conhecidas via transcrição na decisão de Flávio Dino (Pet 16.669), o voto original traz uma leitura de
+  Gilmar sobre a própria decisão de Mendonça: que ela ''sugere'' que o relatório de inteligência foi
+  produzido ''por provocação de membro da Primeira Turma'' — expressão que não é citação literal da decisão
+  de Mendonça (conferido), e que, sem nomear ninguém, é compatível com referência indireta a Alexandre de
+  Moraes, único ministro da Primeira Turma citado alhures nessa cadeia de atribuição.'
 - Segundo apuração da Poder360 (06/09 e 09/09/2026), integra, com outros ministros, um grupo que articula
   preservar Alexandre de Moraes das suspeitas envolvendo Vorcaro e que deseja retirar a relatoria do caso
   Banco Master de André Mendonça — leitura da reportagem, sem corroboração jornalística independente localizada
@@ -47,6 +52,7 @@ source_ids:
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
 - src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
 - src-stf-pet15556-edoc286-acordao-referendo-23-03-2026
+- src-stf-pet-16662-voto-vista-gilmar-mendes-08-09-2026
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

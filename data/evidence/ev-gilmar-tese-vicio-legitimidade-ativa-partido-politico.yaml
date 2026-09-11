@@ -1,0 +1,21 @@
+id: ev-gilmar-tese-vicio-legitimidade-ativa-partido-politico
+kind: evidence
+classification: D
+proposition: 'No voto de vista de 08/09/2026, Gilmar Mendes sustenta que "o afastamento cautelar foi
+  determinado a partir de solicitação formulada por partido político, em aparente contrariedade ao art.
+  282, § 2º, do Código de Processo Penal e ao art. 230-B do Regimento Interno do Supremo Tribunal Federal,
+  preceitos que traduzem exigência própria do sistema acusatório" — tese de vício de legitimidade ativa,
+  somada ao argumento de que a matéria seria de competência do Plenário, não da 2ª Turma.'
+document_ids:
+- doc-2026-09-08-voto-vista-gilmar-mendes-pet16662
+source_ids:
+- src-stf-pet-16662-voto-vista-gilmar-mendes-08-09-2026
+excerpt: o afastamento cautelar foi determinado a partir de solicitação formulada por partido político, em aparente contrariedade ao art. 282, § 2º, do Código de Processo Penal e ao art. 230-B do Regimento Interno do Supremo Tribunal Federal
+date: '2026-09-08'
+notes: Trata-se de tese jurídica de Gilmar Mendes, não de fato apurado — classificação D quanto ao fato de
+  ele tê-la levantado por escrito em voto oficial, não quanto ao mérito da tese.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

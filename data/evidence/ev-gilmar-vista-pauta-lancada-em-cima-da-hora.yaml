@@ -1,0 +1,18 @@
+id: ev-gilmar-vista-pauta-lancada-em-cima-da-hora
+kind: evidence
+classification: D
+proposition: 'No voto de vista de 08/09/2026, Gilmar Mendes registra como primeira razão prática para o
+  pedido de vista que "o feito foi incluído em pauta no próprio dia do julgamento, menos de uma hora antes
+  do início da sessão virtual designada para essa finalidade", circunstância que, segundo ele, "impediu o
+  exame da integralidade dos autos e da decisão submetida a referendo".'
+document_ids:
+- doc-2026-09-08-voto-vista-gilmar-mendes-pet16662
+source_ids:
+- src-stf-pet-16662-voto-vista-gilmar-mendes-08-09-2026
+excerpt: o feito foi incluído em pauta no próprio dia do julgamento, menos de uma hora antes do início da sessão virtual designada para essa finalidade
+date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

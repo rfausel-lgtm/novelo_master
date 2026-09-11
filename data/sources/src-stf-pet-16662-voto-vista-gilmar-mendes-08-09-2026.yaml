@@ -1,0 +1,33 @@
+id: src-stf-pet-16662-voto-vista-gilmar-mendes-08-09-2026
+kind: source
+title: Voto de vista de Gilmar Mendes no referendo do afastamento de Andrei Rodrigues (PET 16.662, 08/09/2026)
+publisher: Supremo Tribunal Federal — Ministro Gilmar Mendes
+author: Ministro Gilmar Mendes
+publication_date: '2026-09-08'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390205543&ext=.pdf
+source_type: official_court
+summary: 'Peça pública (Resolução STF 427/2010), baixada diretamente do portal do STF, com o texto integral
+  do pedido de vista de Gilmar Mendes no referendo da decisão de Mendonça que afastou cautelarmente o
+  Diretor-Geral da PF, Andrei Rodrigues, e o Diretor de Inteligência Policial, Leandro Almada. O acervo já
+  registrava a mecânica processual do pedido de vista (maioria 3x0 formada, vista pedida ~8 minutos após o
+  início da sessão) via imprensa, mas não o conteúdo jurídico do voto em si. Gilmar apresenta três ordens
+  de razão: (i) o feito foi incluído em pauta menos de uma hora antes da sessão, impedindo exame integral
+  dos autos; (ii) vício de legitimidade ativa, por o afastamento ter partido de solicitação de partido
+  político (art. 282 §2º CPP, art. 230-B RISTF), e usurpação da competência do Plenário — citando que a
+  própria decisão de Mendonça "registra elementos que sugerem que o relatório de inteligência teria sido
+  produzido pelo Diretor-Geral da Polícia Federal por provocação de membro da Primeira Turma desta Corte";
+  (iii) precedente da ADPF 1.017/AL sobre paridade de armas e neutralidade estatal em disputas
+  político-eleitorais.'
+notes: Documento público, baixado diretamente do portal do STF. Não depende do certificado digital do
+  Rafael. Conferido o texto integral contra as citações do relatório de mineração — nenhuma discrepância.
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
