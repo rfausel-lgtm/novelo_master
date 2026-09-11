@@ -20,12 +20,18 @@ nada nesta cadeia depende de alguém lembrar depois.
 2. **Acionar a arte.** Logo após o push, a própria sessão que publicou dispara o agente de arte do
    Codex passando o **`Revision.id` completo** — nunca o número do lote, que não identifica revisão
    neste acervo ([docs/ARTE-DE-LOTE.md](docs/ARTE-DE-LOTE.md)). Esse agente gera a arte, roda
-   `npm run social:check` e grava o arquivo canônico `public/social/<Revision.id>.webp`. A liberação
-   obedece ao que a seção 7.1 da [EDITORIAL_POLICY.md](EDITORIAL_POLICY.md) exigir no momento:
-   conferência humana específica ou, onde houver autorização continuada registrada no repositório,
-   publicação direta pelo agente depois das validações mecânicas.
-3. **Rascunho para o X.** Com a arte publicada, o post do lote fica completo e o fluxo do Codex salva
-   o rascunho no buffer, via API, para aprovação.
+   `npm run social:check` e grava o arquivo canônico `public/social/<Revision.id>.webp`.
+3. **Levar a arte até a `main`.** Gerar não é publicar. O site é construído a partir da `main`, então
+   arte parada em branch não existe para o leitor — e branch parada foi exatamente como as artes dos
+   lotes 156 a 164 ficaram um dia inteiro fora do ar. O agente fecha o trabalho com `social:check`
+   verde e **PR aberto para a `main`**, nunca com a branch abandonada. A liberação obedece ao que a
+   seção 7.1 da [EDITORIAL_POLICY.md](EDITORIAL_POLICY.md) exigir no momento: hoje, conferência
+   humana específica registrada no PR ou no commit — nenhum agente libera a própria arte; onde houver
+   autorização continuada registrada no repositório, o agente publica direto depois das validações
+   mecânicas.
+4. **Rascunho para o X.** Só depois que a arte está na `main` o post do lote fica completo — antes
+   disso o rascunho apontaria para uma imagem que o site não serve. Aí o fluxo do Codex salva o
+   rascunho no buffer, via API, para aprovação.
 
 ## O que não se dobra
 
@@ -40,3 +46,9 @@ nada nesta cadeia depende de alguém lembrar depois.
   para dentro; a equipe de investigação publica na `main` sem parar para esperar arte. As duas correm
   em paralelo de propósito — antes de editar código, verifique se o worktree já tem trabalho não
   commitado de outra sessão, e nunca o entrelace com o seu.
+- **Conflito no `CHANGELOG.md` é esperado, não é acidente.** As duas equipes escrevem no mesmo bloco
+  `Unreleased`, e trazer a `main` para dentro colide ali com frequência. Resolve-se **mantendo as duas
+  entradas** — descartar a da outra equipe apaga trabalho alheio do histórico.
+- **Não se abandona worktree no meio de um merge.** Merge iniciado se conclui ou se aborta
+  (`git merge --abort`) antes de a sessão encerrar. Worktree parado em conflito vira armadilha para a
+  próxima sessão, que o encontra sem saber de quem é nem em que pé está.

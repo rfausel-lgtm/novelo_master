@@ -20,7 +20,14 @@
   Vitest. A suíte caiu de 16,8 s para 10,0 s. É mtime, e não um booleano, para que arte nova apareça
   em `next dev` sem reiniciar o servidor.
 
-- Regra da cadeia de gatilhos da publicação de lote em `AGENTS.md`: quem publica aciona a geração de arte na mesma sessão, e o fluxo segue até o rascunho de post — que para ali, esperando aprovação humana antes de qualquer publicação no X.
+- Regra da cadeia de gatilhos da publicação de lote em `AGENTS.md`: quem publica aciona a geração de
+  arte na mesma sessão, e o fluxo segue até o rascunho de post — que para ali, esperando aprovação
+  humana antes de qualquer publicação no X. A regra nasceu sem o elo que a fazia funcionar: gerar não
+  é publicar, e o passo da arte só termina com PR aberto para a `main`. As artes dos lotes 156 a 164
+  ficaram prontas e validadas em um branch por um dia inteiro, invisíveis no site, porque nada na
+  cadeia carregava o trabalho até lá. Ficou escrito também que conflito no próprio `CHANGELOG.md` é
+  esperado entre as duas equipes e se resolve mantendo as duas entradas, e que merge iniciado se
+  conclui ou se aborta antes de a sessão encerrar.
 - Área de imprensa com media kit PDF aprovado, capa, acesso na abertura, menu móvel e rodapé; inclusão no sitemap.
 
 Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O histórico editorial
