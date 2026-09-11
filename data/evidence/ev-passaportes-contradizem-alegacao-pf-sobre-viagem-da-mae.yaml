@@ -1,0 +1,33 @@
+id: ev-passaportes-contradizem-alegacao-pf-sobre-viagem-da-mae
+kind: evidence
+classification: D
+proposition: 'A defesa de Katherine Venâncio Telles apresentou ao STF os passaportes de sua mãe, Erica
+  Venancio (nº FV112408), e de seu padrasto, José Marcos e Souza (nº FV109741), ambos emitidos em
+  02/02/2018 pela Delegacia da Polícia Federal em Santos/SP, com validade até 01/02/2028, além do bilhete
+  aéreo de uma viagem internacional efetivamente realizada entre 03/04/2026 e 19/04/2026. A Polícia
+  Federal, em consulta a sistemas internos por volta de março de 2026, já havia afirmado não terem sido
+  encontradas reservas de voo para "Erica Venancio ou Fabio Da Silva Teles" — este último identificado
+  pela própria PF como o outro genitor de Katherine — e que "Fabio sequer possui passaporte emitido pela
+  Polícia Federal".'
+document_ids:
+- doc-2026-05-28-manifestacao-defesa-katherine
+source_ids:
+- src-stf-pet15978-edoc160-manifestacao-defesa-katherine
+excerpt: não foram encontradas reservas de voos para Erica Venancio ou Fabio Da Silva Teles [...] Fabio
+  sequer possui passaporte emitido pela polícia federal
+date: '2026-05-28'
+notes: 'Contraponto direto, com documento, a uma afirmação da PF já registrada no perfil de Katherine
+  Venâncio Telles (decisão de 13/05/2026, lote 190): que "nenhum registro de viagem internacional da mãe
+  foi localizado em 2026" — alegação que ela deu, em depoimento, para justificar a viagem a Santos como
+  planejada com antecedência. Atenção à precisão: os passaportes apresentados são de Erica Venancio (mãe)
+  e de José Marcos e Souza (padrasto) — a defesa não apresenta passaporte de Fabio Da Silva Teles, que a
+  própria PF nomeia como o segundo genitor e afirma não possuir documento de viagem. Ou seja, os
+  documentos comprovam que a mãe e o padrasto tinham passaporte válido e fizeram uma viagem internacional
+  efetiva em abril de 2026 — o que contradiz a busca de "reservas de voo" da PF de março — mas não tratam
+  especificamente do pai biológico. Registrado com essa distinção para não estender a prova além do que
+  ela demonstra.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

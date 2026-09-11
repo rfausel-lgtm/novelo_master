@@ -1,0 +1,27 @@
+id: andre-velloso-martins
+kind: person
+category: police
+name: André Velloso Martins
+role: Escrivão de Polícia Federal, lotado no NUPROC/DRPJ/SR/PF/MG
+summary: 'Escrivão de Polícia Federal (matrícula 20.932). A análise do celular de Marilson Roseno da
+  Silva (IPJ nº 1752768/2026, PET 15.978) mostra que, em março de 2024, atendeu a pedidos de Marilson
+  para consultar um processo SEI — que se revelou vinculado ao inquérito em que Henrique Moura Vorcaro
+  fora intimado — verificando primeiro sua escala de plantão e depois checando o conteúdo do processo a
+  pedido do escrivão aposentado. A PF o descreve como policial que, ao contrário de Marilson, Sebastião
+  Monteiro Júnior e Anderson Wander da Silva Lima, não integrava "A Turma" propriamente, mas atendeu
+  pedidos pontuais de consulta.'
+why_in_novelo: É um dos policiais federais da ativa identificados, fora do núcleo "A Turma", que teria
+  atendido a pedidos de consulta indevida a sistemas internos em favor de Marilson Roseno.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele foi localizada no corpus.
+open_questions:
+- Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ele no corpus. O
+  documento não esclarece se ele sabia da finalidade da consulta que fazia.
+source_ids:
+- src-stf-pet15978-edoc14-ipj-1752768-celular-marilson
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

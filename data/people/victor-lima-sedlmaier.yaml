@@ -3,16 +3,20 @@ kind: person
 name: Victor Lima Sedlmaier
 category: other
 role: Apontado como operador do núcleo 'Os Meninos', subordinado a David Henrique Alves
-summary: Integrante identificado do núcleo 'Os Meninos' na decisão de 13/05/2026 (6ª fase). Em depoimento próprio,
-  descreveu-se como 'desenvolvedor' e estudante de ciência da computação, afirmando prestar serviços a David Henrique
+summary: 'Integrante identificado do núcleo ''Os Meninos'' na decisão de 13/05/2026 (6ª fase). Em depoimento próprio,
+  descreveu-se como ''desenvolvedor'' e estudante de ciência da computação, afirmando prestar serviços a David Henrique
   Alves desde julho de 2024 (conserto de computadores, deslocamento de veículo, recarga de celular, desenvolvimento
   de software de IA), recebendo R$ 2 mil mensais mais bônus. Disse saber que David trabalhava para Luiz Phillipi
-  Mourão 'por questões do Daniel' e que a empresa de David (BIPE) tinha contrato para mapear a reputação online
+  Mourão ''por questões do Daniel'' e que a empresa de David (BIPE) tinha contrato para mapear a reputação online
   de Daniel Vorcaro. Em 05/03/2026, foi flagrado entrando no apartamento já esvaziado de David em Lagoa Santa/MG,
   autorizado por Katherine Venâncio Telles, e retornando depois com caminhão de mudança para retirar os móveis restantes
   — indício de desmobilização do imóvel após a fuga de David. A PF apontou alta probabilidade, por reconhecimento
-  facial, de que o RG de 'Marcelo Souza Gonçalves' encontrado no carro de David na noite de 04/03/2026 fosse dele.
-  É sócio minoritário da Drogaria Saúde Vida e da Nova Farma Drogaria e Cosméticos.
+  facial, de que o RG de ''Marcelo Souza Gonçalves'' encontrado no carro de David na noite de 04/03/2026 fosse dele.
+  É sócio minoritário da Drogaria Saúde Vida e da Nova Farma Drogaria e Cosméticos. A MANIFESTAÇÃO DA
+  DEFESA DE KATHERINE VENÂNCIO TELLES (28/05/2026, lote 209, PET 15.978) detalha a abordagem dele em
+  06/03/2026: foram apreendidos com ele materiais de informática e dinheiro em espécie, cuja origem não
+  soube justificar, além de documentos, um SSD e o celular; foi conduzido à sala da PF no Aeroporto de
+  Confins, e não autorizou o acesso ao aparelho.'
 why_in_novelo: É um dos dois operadores subordinados a David Henrique Alves no núcleo 'Os Meninos', com depoimento
   próprio que reconstitui a hierarquia do grupo — e possível usuário de documento de identidade falsificado.
 cited_position:
@@ -27,6 +31,7 @@ open_questions:
 - Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ele no corpus.
 source_ids:
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+- src-stf-pet15978-edoc160-manifestacao-defesa-katherine
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

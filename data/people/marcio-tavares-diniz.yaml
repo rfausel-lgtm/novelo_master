@@ -1,0 +1,27 @@
+id: marcio-tavares-diniz
+kind: person
+category: police
+name: Márcio Tavares Diniz
+role: Agente de Polícia Federal, lotado no DRE/DRPJ/SR/PF/MG
+summary: 'Agente de Polícia Federal (matrícula 1918). A análise do celular de Marilson Roseno da Silva
+  (IPJ nº 1752768/2026, PET 15.978) mostra que, em 04/07/2023, Marilson lhe pediu "ajuda" em troca do que
+  a PF lê como provável recompensa financeira; em seguida foram reencaminhadas ao escrivão aposentado
+  telas de sistemas internos da PF com dados societários completos da empresa "Clube de Benefícios Bem
+  Protege" — sócios, contadores, endereços. A PF pondera que as imagens podem ter sido produzidas por
+  outro policial e apenas repassadas por Diniz, não necessariamente por ele mesmo.'
+why_in_novelo: É um dos policiais federais da ativa identificados, fora do núcleo "A Turma", ligado ao
+  repasse de dados obtidos indevidamente de sistemas internos a Marilson Roseno.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele foi localizada no corpus.
+open_questions:
+- 'Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ele no corpus. A própria
+  PF não tem certeza se a consulta foi feita por ele ou por terceiro que a repassou através dele
+  ("provavelmente não foram realizadas diretamente por Márcio Tavares").'
+source_ids:
+- src-stf-pet15978-edoc14-ipj-1752768-celular-marilson
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
