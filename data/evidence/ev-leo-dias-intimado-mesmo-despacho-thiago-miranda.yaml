@@ -1,0 +1,24 @@
+id: ev-leo-dias-intimado-mesmo-despacho-thiago-miranda
+kind: evidence
+classification: D
+proposition: 'Leonardo Antônio Lima Dias ("Léo Dias") foi intimado, pelo Mandado de Intimação nº
+  1783075/2026, no mesmo IPL 2026.0009625 (INQ 5.035) que apura o "Projeto DV", para prestar Termo de
+  Declarações em 29/04/2026 na sede da Polícia Federal em Brasília. Seus advogados (escritório KLA)
+  pediram vista integral dos autos e redesignação da oitiva, alegando desconhecimento do teor da
+  investigação e residência em São Paulo por compromissos profissionais. Um contrato de locação anexo aos
+  autos identifica a empresa "Leo Dias Comunicação e Jornalismo Ltda" (CNPJ 51.568.337/0001-30),
+  representada pelo sócio Ivan Carlos de Oliveira, como locatária de imóvel vinculado a ele em Vila
+  Olímpia, São Paulo.'
+document_ids:
+- doc-2026-04-despacho-intimacoes-projeto-dv
+source_ids:
+- src-stf-inq5035-edoc42-despacho-intimacoes-projeto-dv
+date: '2026-04-24'
+notes: A intimação é para depor como testemunha ("Termo de Declarações"), não há imputação de conduta
+  a ele no documento. É a primeira vez que ele aparece no acervo como pessoa própria, formalmente
+  vinculado ao inquérito, e não apenas como ex-empregador de Thiago Miranda citado de passagem.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

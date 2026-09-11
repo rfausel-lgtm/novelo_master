@@ -1,0 +1,25 @@
+id: olivetto-comunicacao
+kind: organization
+name: Olivetto Comunicação
+org_type: company
+summary: 'Empresa citada em reportagem do G1 (colacionada na Portaria de instauração do IPL sobre o
+  "Projeto DV", INQ 5.035) como contraparte contratual, ao lado da Miranda Comunicação, nos contratos
+  oferecidos a influenciadores digitais. Segundo a reportagem, Thiago Miranda seria responsável por
+  encaminhar ao influenciador, por meio da Olivetto, "as matérias, links e orientações do tema a ser
+  tratado, com antecedência suficiente para produção e validação". Nenhum CNPJ, sócio ou outro dado
+  cadastral foi localizado nas fontes disponíveis.'
+why_in_novelo: É a segunda pessoa jurídica identificada, ao lado da Miranda Comunicação/Agência MiThi,
+  no mecanismo contratual usado para operacionalizar o "Projeto DV" junto a influenciadores.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada no corpus.
+open_questions:
+- Não foi localizado CNPJ, sócios ou qualquer outro dado de identificação desta empresa além do nome
+  citado na reportagem.
+source_ids:
+- src-stf-inq5035-edoc15-portaria-ipl-projeto-dv
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

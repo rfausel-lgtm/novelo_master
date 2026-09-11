@@ -1,0 +1,33 @@
+id: src-stf-inq5035-edoc42-despacho-intimacoes-projeto-dv
+kind: source
+title: Despacho de intimações e depoimentos do inquérito sobre o "Projeto DV" (e-Doc 42, INQ 5.035)
+publisher: Polícia Federal — CINQ/CGRC/DICOR/PF
+author: Delegado Ramon Santos Morais
+publication_date: '2026-02'
+date_precision: month
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/listarProcessos.asp?classe=INQ&numeroProcesso=5035
+source_type: official_police
+summary: 'Compilação de 78 páginas de despachos, mandados de intimação, transcrições de depoimentos e
+  petições de defesa do IPL 2026.0009625 (INQ 5.035), sobre o "Projeto DV". Traz as intimações originais
+  de Thiago Miranda e de Leonardo Antônio Lima Dias ("Léo Dias"), as transcrições literais dos depoimentos
+  de Rony Gabriel e Juliana Moreira Leite, a ata notarial com a conversa de WhatsApp que embasa o caso da
+  UNLTD (já explorada na decisão de 10ª fase, já no acervo), e documentos societários — inclusive um
+  contrato de locação que identifica a empresa "Leo Dias Comunicação e Jornalismo" (CNPJ 51.568.337/0001-
+  30) e seu sócio Ivan Carlos de Oliveira.'
+notes: 'Documento obtido pelo próprio Rafael via certificado digital, parte do download completo do INQ
+  5.035 (83 peças). Lido por agente de pesquisa dedicado, com filtragem explícita para não repetir o que
+  já consta em thiago-miranda.yaml e nas evidências da decisão de 10ª fase — a maior parte do conteúdo
+  (acordo UNLTD, multa de R$ 800 mil, André Salvador, Rony Gabriel como denunciante) já estava coberta;
+  os achados novos estão registrados em evidências e registros de pessoa próprios.'
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador (síntese de leitura por agente de pesquisa dedicado, com verificação direta
+    dos trechos citados; 78 páginas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

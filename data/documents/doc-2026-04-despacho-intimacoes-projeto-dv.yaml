@@ -1,0 +1,26 @@
+id: doc-2026-04-despacho-intimacoes-projeto-dv
+kind: document
+title: Despacho de intimações e depoimentos do inquérito sobre o "Projeto DV"
+doc_type: judicial_filing
+date: '2026-04'
+date_precision: month
+source_ids:
+- src-stf-inq5035-edoc42-despacho-intimacoes-projeto-dv
+summary: Compilação de despachos, mandados de intimação e depoimentos do IPL 2026.0009625, com as
+  intimações de Thiago Miranda e Leonardo Antônio Lima Dias ("Léo Dias"), depoimentos de Rony Gabriel e
+  Juliana Moreira Leite, e documentos societários das empresas ligadas ao caso.
+is_official: true
+related_entity_ids:
+- thiago-miranda
+- leonardo-antonio-lima-dias
+- rony-gabriel
+issuer_id: policia-federal
+issuer: Delegado Ramon Santos Morais
+reference: 'PF, despachos e mandados de intimação (e-Doc 42, INQ 5.035)'
+excerpt: LEO DIAS COMUNICAÇÃO E JORNALISMO, sociedade empresária limitada, inscrita no C.N.P.J sob nº
+  51.568.337/0001-30 [...] representada por seu sócio Ivan Carlos de Oliveira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

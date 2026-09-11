@@ -25,7 +25,14 @@ summary: 'Publicitário de Brasília, com CPF terminado em 451 confirmado em reg
   decisões ''tanto perante o Supremo Tribunal Federal, quanto perante o Tribunal de Contas da União''. Um
   dos influenciadores abordados relatou, em vídeo de denúncia, que a proposta fazia referência a uma
   sessão de plenário do TCU marcada para 21/01/2026 sobre a liquidação do Master — relato não confirmado
-  por apuração independente.'
+  por apuração independente. O MESMO DESPACHO QUE O INTIMOU (lote 211) também convocou, no mesmo IPL,
+  Leonardo Antônio Lima Dias (''Léo Dias'') para depor — reportagem citada na Portaria de abertura aponta
+  vínculo societário e telefônico entre a Miranda Comunicação e uma empresa ''Léo Dias Comunicação e
+  Jornalismo S.A.'', da qual o mesmo sócio-administrador de Miranda teria sido administrador até 2025,
+  além de apontar Flávio Carneiro como possível sócio majoritário (60%) do ''Grupo Leo Dias''. A partir
+  de maio de 2026, os despachos de intimação a Miranda passaram a usar o e-mail
+  ''thiagomiranda@agenciamentha.com.br'', ao lado do já conhecido ''@agenciamithi.com.br'' — sem
+  explicação documentada do que seria essa ''Agência Mentha''.'
 why_in_novelo: 'É apontado como o operador da frente de comunicação do esquema: quem contratava influenciadores
   para atacar o regulador que liquidara o banco, quem encomendava dossiês sobre jornalistas e executivos
   incômodos, e quem intermediava o dinheiro do filme sobre Bolsonaro.'
@@ -114,6 +121,7 @@ source_ids:
 - src-cnnbrasil-2026-vorcaro-dossie-ceo-itau-maluhy
 - src-apublica-2026-09-analise-master-vorcaro-moraes-mendonca
 - src-stf-inq5035-edoc15-portaria-ipl-projeto-dv
+- src-stf-inq5035-edoc42-despacho-intimacoes-projeto-dv
 full_name: Thiago Miranda Silva
 review_status: published
 reviewer: orquestrador

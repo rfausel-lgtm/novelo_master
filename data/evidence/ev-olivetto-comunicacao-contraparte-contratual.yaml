@@ -1,0 +1,22 @@
+id: ev-olivetto-comunicacao-contraparte-contratual
+kind: evidence
+classification: A
+proposition: 'Segundo reportagem do G1, colacionada na Portaria de instauração do IPL sobre o "Projeto
+  DV", "o contrato oferecido ao influenciador tem como partes a Miranda Comunicação, em nome de Thiago
+  Miranda, e a empresa Olivetto Comunicação. Miranda seria responsável por encaminhar ao influenciador,
+  por meio da Olivetto, ''as matérias, links e orientações do tema a ser tratado, com antecedência
+  suficiente para produção e validação''."'
+document_ids:
+- doc-2026-01-28-portaria-ipl-projeto-dv
+source_ids:
+- src-stf-inq5035-edoc15-portaria-ipl-projeto-dv
+date: '2026-01-09'
+attributed_to: reportagem do G1
+notes: Nenhum CNPJ, sócio ou outro dado cadastral da Olivetto Comunicação foi localizado nas fontes
+  disponíveis. O papel descrito é de intermediária operacional no fluxo de conteúdo para os influenciadores
+  contratados, não de parte financeira — os pagamentos documentados saem da conta de Thiago Miranda.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

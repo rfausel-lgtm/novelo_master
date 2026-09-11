@@ -1,0 +1,31 @@
+id: ev-vinculo-telefonico-miranda-comunicacao-leo-dias-sa
+kind: evidence
+classification: A
+proposition: 'Segundo reportagem do G1 (09/01/2026), colacionada na Portaria de instauração do IPL sobre
+  o "Projeto DV", "há uma relação entre Thiago Miranda e o comunicador Léo Dias. O sócio-administrador da
+  Miranda Comunicação também é administrador da empresa Léo Dias Comunicação e Jornalismo S.A. e foi, até
+  2025, administrador da Léo Dias Comunicação e Jornalismo Ltda SCP VTG. Um mesmo número de telefone
+  aparece registrado no CNPJ da Miranda Comunicação e também no CNPJ da Léo Dias Comunicação e Jornalismo
+  S.A." A mesma reportagem cita Flávio Carneiro como detentor de 60% de participação no "Grupo Leo Dias",
+  do qual Miranda teria 10%.'
+document_ids:
+- doc-2026-01-28-portaria-ipl-projeto-dv
+source_ids:
+- src-stf-inq5035-edoc15-portaria-ipl-projeto-dv
+date: '2026-01-09'
+attributed_to: reportagem do G1, citando registros societários da Receita Federal
+notes: 'Cautela sobre a identidade das pessoas jurídicas envolvidas: a reportagem cita pelo menos três
+  nomes semelhantes — "Léo Dias Comunicação e Jornalismo S.A." (atual, administrada pelo mesmo sócio da
+  Miranda Comunicação, sem CNPJ dado pela reportagem), "Léo Dias Comunicação e Jornalismo Ltda SCP VTG"
+  (já registrada no acervo, CNPJ 55.062.879/0001-98, Miranda como administrador até 2025) e "Leo Dias
+  Comunicação e Jornalismo Ltda" (CNPJ 51.568.337/0001-30, administrada por Ivan Carlos de Oliveira,
+  identificada em documento separado — ver ev-leo-dias-intimado-mesmo-despacho-thiago-miranda). As fontes
+  disponíveis não esclarecem se são três entidades distintas ou se há erro de nomenclatura em algum dos
+  registros. Não é possível, com o material atual, indicar a qual delas o número de telefone compartilhado
+  se refere. O CNPJ da própria Agência MiThi permanece não localizado (ver
+  ev-miranda-empresas-mithi-cnpj-nao-localizado).'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

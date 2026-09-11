@@ -1,0 +1,27 @@
+id: flavio-carneiro-leo-dias
+kind: person
+category: businessperson
+name: Flávio Carneiro
+role: Apontado como sócio majoritário do "Grupo Leo Dias"
+summary: 'Empresário citado em reportagem (colacionada na Portaria de instauração do IPL sobre o "Projeto
+  DV", INQ 5.035) como detentor de 60% de participação no "Grupo Leo Dias" — do qual Thiago Miranda
+  possuía os outros 10%, com os demais 30% não descritos na fonte. O documento primário apresenta a
+  informação com alguma ambiguidade textual entre duas reportagens diferentes sobre se os 60% seriam do
+  "grupo" (Grupo Leo Dias) ou "da agência" (Agência MiThi) — lido em conjunto, o texto indica tratar-se
+  do Grupo Leo Dias.'
+why_in_novelo: É apontado como sócio majoritário da estrutura empresarial em torno do nome "Leo Dias",
+  que tem Thiago Miranda — apontado como articulador do "Projeto DV" — como sócio minoritário e ex-CEO.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele foi localizada no corpus.
+open_questions:
+- 'A fonte primária tem ambiguidade textual não resolvida sobre se a participação de 60% é no "Grupo
+  Leo Dias" ou especificamente na Agência MiThi; nenhum registro societário com CNPJ foi localizado para
+  confirmar. Não há qualquer imputação de conduta a ele no documento — é citado apenas como sócio.'
+source_ids:
+- src-stf-inq5035-edoc15-portaria-ipl-projeto-dv
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,26 @@
+id: rev-2026-09-11-lote-211-leo-dias-intimado-e-os-tres-cnpjs
+kind: revision
+date: '2026-09-11'
+title: 'Lote 211 — Léo Dias intimado, e os três CNPJs que ninguém no acervo tinha reconciliado'
+summary: 'Segundo lote do INQ 5.035, fechando a leitura dos dois documentos mais densos deste processo
+  (e-Docs 15 e 42, 168 páginas). O comunicador Leonardo Antônio Lima Dias ("Léo Dias") foi intimado, no
+  mesmo despacho que convocou Thiago Miranda, para depor como testemunha no inquérito do "Projeto DV" —
+  ganha registro próprio no acervo pela primeira vez, com a ressalva expressa de que não há imputação de
+  conduta a ele. Os documentos revelam uma teia de pelo menos três pessoas jurídicas com nomes quase
+  idênticos ("Léo Dias Comunicação e Jornalismo", com sufixos S.A., SCP VTG e Ltda simples, cada uma com
+  CNPJ ou dado cadastral diferente) que nenhuma fonte disponível reconcilia — registrado com a cautela
+  explícita de não presumir que sejam a mesma empresa. Aparecem ainda dois nomes novos no mecanismo do
+  esquema: Flávio Carneiro, citado como possível sócio majoritário (60%) do "Grupo Leo Dias", e a empresa
+  Olivetto Comunicação, contraparte contratual da Miranda Comunicação nos contratos com influenciadores.
+  Por fim, o lote atualiza a lacuna já registrada sobre o CNPJ da Agência MiThi com um dado novo: desde
+  maio de 2026, a PF passou a intimar Thiago Miranda pelo e-mail "@agenciamentha.com.br", sem que nenhum
+  documento explique o que é essa "Agência Mentha".'
+affected_ids:
+- leonardo-antonio-lima-dias
+- thiago-miranda
+- flavio-carneiro-leo-dias
+reason: Análise do novo processo aberto pelo despacho de 10/09/2026 (Petição 16.704) — segundo lote do
+  INQ 5.035, obtido via certificado digital do Rafael.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
