@@ -1,0 +1,20 @@
+id: rel-jose-eugenio-dias-toffoli-dias-toffoli-familial
+kind: relationship
+from_id: jose-eugenio-dias-toffoli
+to_id: dias-toffoli
+relationship_type: familial
+directed: false
+label: irmão
+description: José Eugênio Dias Toffoli é irmão do ministro do STF Dias Toffoli, segundo apuração externa da equipe.
+evidence_class: C
+confidence: 0.8
+status: unverified
+evidence_ids: []
+source_ids:
+- src-stf-pet15556-edoc173-peticao-belline-dispensa-cpi
+- src-ti-brasil-2026-01-24-irmaos-de-toffoli-tayaya
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

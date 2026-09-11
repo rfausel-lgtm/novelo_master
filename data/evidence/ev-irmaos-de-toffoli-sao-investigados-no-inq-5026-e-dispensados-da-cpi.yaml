@@ -1,0 +1,20 @@
+id: ev-irmaos-de-toffoli-sao-investigados-no-inq-5026-e-dispensados-da-cpi
+kind: evidence
+classification: C
+proposition: José Eugênio Dias Toffoli e José Carlos Dias Toffoli, irmãos do ministro Dias Toffoli e sócios da empresa
+  familiar Maridt, constam como investigados no Inquérito 5.026/DF (a apuração sobre a relação financeira entre
+  o Banco Master e o BRB), tendo obtido dispensa de comparecimento à CPI do Crime Organizado em 26/02/2026, precedente
+  citado por outra investigada (Belline Santana) para pedir o mesmo benefício.
+document_ids: []
+source_ids:
+- src-stf-pet15556-edoc173-peticao-belline-dispensa-cpi
+- src-ti-brasil-2026-01-24-irmaos-de-toffoli-tayaya
+date: '2026-02-26'
+notes: Classe C por depender de checagem externa (fora do documento) para confirmar o grau de parentesco com o ministro
+  — o documento primário não o declara, apenas o sobrenome comum; a condição de investigados no INQ 5.026/DF em
+  si, porém, está no próprio documento processual.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

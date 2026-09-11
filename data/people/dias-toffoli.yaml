@@ -2,6 +2,9 @@ id: dias-toffoli
 kind: person
 name: Dias Toffoli
 full_name: José Antonio Dias Toffoli
+distinct_from:
+- jose-eugenio-dias-toffoli
+- jose-carlos-dias-toffoli
 category: judge
 role: Ministro do Supremo Tribunal Federal
 positions:
@@ -46,8 +49,13 @@ cited_position:
   by_id: dias-toffoli
   date: '2026-01-29'
 open_questions:
-- A relatoria anterior do caso e as razões da suspeição não estão documentadas em fonte primária no corpus;
-  devem ser pesquisadas.
+- 'PISTA ENCONTRADA (lote 174), não prova: seus irmãos José Eugênio e José Carlos Dias Toffoli — sócios,
+  junto com ele, da empresa familiar Maridt — constam como investigados no INQ 5.026/DF (o eixo BRB-Master),
+  e obtiveram dispensa de comparecimento à CPI do Crime Organizado em 26/02/2026, poucas semanas antes de
+  ele próprio declarar suspeição no caso irmão (PET 15.556). Nenhuma fonte consultada liga expressamente
+  as duas coisas — é leitura da equipe a partir da cronologia e do tema comum (registrada como inferência
+  classe I), não fato relatado por qualquer autoridade. A relatoria anterior do caso e as razões formais da
+  suspeição, tais como declaradas por ele, continuam sem documentação em fonte primária no corpus.'
 - Não há confirmação pública dele sobre o conteúdo das conversas durante o voo, além de declaração a interlocutores
   (não em nota formal) de que conversou 'só sobre futebol' e de que é amigo de Pastore há anos, sem proximidade
   com Botelho.
@@ -82,11 +90,12 @@ source_ids:
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
 - src-verificacao-direta-equipe-pet14601-decisao-toffoli-integra
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-stf-pet15556-edoc173-peticao-belline-dispensa-cpi
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-11'
 photo:
   path: /fotos/dias-toffoli.jpg
   source: Wikimedia Commons

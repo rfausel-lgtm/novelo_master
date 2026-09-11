@@ -1,0 +1,25 @@
+id: rev-2026-09-11-lote-174-os-irmaos-de-toffoli-no-inq-5026
+kind: revision
+date: '2026-09-11'
+title: 'Lote 174 — os irmãos de Toffoli são investigados no INQ 5026, e ganharam dispensa da CPI antes dele próprio se declarar suspeito'
+summary: 'Quinto documento explorado do acervo de 416 peças da PET 15.556: o e-Doc 173, petição de
+  20/03/2026 em que os advogados de Belline Santana pedem dispensa de comparecimento à CPI do Crime
+  Organizado, invocando como precedente uma decisão de 26/02/2026 no INQ 5.026/DF (o eixo BRB-Master) que
+  dispensou, pela mesma razão, José Eugênio Dias Toffoli e José Carlos Dias Toffoli — qualificados nos
+  autos como investigados. Checagem externa da equipe confirma que os dois são IRMÃOS do ministro Dias
+  Toffoli (não filhos), e já apareciam de forma genérica no verbete dele como sócios da empresa familiar
+  Maridt, ligada ao entorno do caso via venda de participação no Resort Tayayá ao fundo Arllen (do cunhado
+  de Vorcaro). O que muda agora: eles têm nome, e constam FORMALMENTE como investigados no mesmo eixo
+  BRB-Master — fato que o acervo não tinha antes. Isso toca diretamente um open_question já registrado no
+  verbete do ministro ("as razões da suspeição não estão documentadas em fonte primária"): a dispensa dos
+  irmãos da CPI antecede em poucas semanas a própria declaração de suspeição do ministro no caso irmão (PET
+  15.556). Registrada como inferência (classe I), com base explícita e não como fato relatado por qualquer
+  autoridade — nenhuma fonte liga as duas coisas expressamente.'
+affected_ids:
+- dias-toffoli
+- jose-eugenio-dias-toffoli
+- jose-carlos-dias-toffoli
+reason: Análise em lotes do acervo de 416 peças da PET 15.556 — quinto documento, por ordem de pontuação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

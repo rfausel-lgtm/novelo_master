@@ -1,0 +1,22 @@
+id: ev-inferencia-sobre-motivo-da-suspeicao-de-toffoli-e-o-inq-5026
+kind: evidence
+classification: I
+proposition: É plausível que a apuração sobre os irmãos do ministro Dias Toffoli no INQ 5.026/DF — o mesmo eixo
+  investigativo (BRB-Master) ligado ao caso em que o ministro declarou suspeição por foro íntimo — tenha relação
+  com essa suspeição, dado que a dispensa de comparecimento dos irmãos à CPI (26/02/2026) precede a declaração formal
+  de suspeição do ministro na PET 15.556 (20/03/2026, segundo o acervo, ou 11/03/2026 segundo a Poder360).
+document_ids: []
+source_ids:
+- src-stf-pet15556-edoc173-peticao-belline-dispensa-cpi
+date: '2026-09-11'
+inference_basis: 'Baseia-se em três elementos que, somados, sugerem a hipótese sem prová-la: (1) os irmãos do ministro
+  são sócios de empresa (Maridt) já ligada por reportagens ao entorno do caso Master via venda ao fundo Arllen do
+  cunhado de Vorcaro; (2) eles constam formalmente como investigados no INQ 5.026/DF, inquérito do mesmo eixo BRB-Master;
+  (3) a dispensa deles da CPI antecede em poucas semanas a suspeição do próprio ministro no caso irmão (PET 15.556).
+  Nenhuma fonte consultada declara expressamente que a suspeição decorre da situação dos irmãos — é a leitura da
+  equipe a partir da cronologia e do tema comum, não um fato relatado por qualquer autoridade.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
