@@ -6,6 +6,7 @@ import { formatDateTimeBRT, formatPartialDate } from "@/lib/format";
 import { SITE } from "@/lib/site";
 import { PageShell, PageTitle } from "@/components/entity/PageShell";
 import { EmptyState } from "@/components/entity/Section";
+import { artesPorRevisao } from "@/lib/social";
 
 export const metadata: Metadata = pageMetadata({
   title: "Atualizações",
@@ -26,6 +27,7 @@ const LABEL: Record<string, string> = {
 
 export default function AtualizacoesPage() {
   const revisions = allRevisions();
+  const artes = artesPorRevisao();
   return (
     <PageShell>
       <PageTitle
@@ -39,6 +41,7 @@ export default function AtualizacoesPage() {
         <ol className="border-border relative ml-2 border-l pl-6">
           {revisions.map((r) => {
             const added = Object.entries(r.added).filter(([, v]) => v > 0);
+            const arte = artes.get(r.id);
             return (
               <li key={r.id} id={r.id} className="relative scroll-mt-20 pb-8 last:pb-0">
                 <span
@@ -85,6 +88,22 @@ export default function AtualizacoesPage() {
                   </p>
                 )}
                 {r.author && <p className="text-fg-3 mt-1 text-xs">por {r.author}</p>}
+                {arte && (
+                  <figure className="mt-3">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={arte.src}
+                      alt={`Arte de divulgação gerada por inteligência artificial${r.title ? `: ${r.title}` : ""}`}
+                      width={arte.width}
+                      height={arte.height}
+                      loading="lazy"
+                      className="border-border w-full rounded-md border"
+                    />
+                    <figcaption className="text-fg-3 mt-1 text-[10px] tracking-wide uppercase">
+                      Ilustração gerada por IA
+                    </figcaption>
+                  </figure>
+                )}
               </li>
             );
           })}
