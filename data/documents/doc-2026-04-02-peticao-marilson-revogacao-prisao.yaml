@@ -1,0 +1,28 @@
+id: doc-2026-04-02-peticao-marilson-revogacao-prisao
+kind: document
+title: Petição de Marilson Roseno da Silva pedindo revogação da prisão preventiva
+doc_type: judicial_filing
+date: '2026-04-02'
+source_ids:
+- src-stf-pet15556-edoc221-peticao-marilson-revogacao-prisao-02-04-2026
+summary: Primeira manifestação de Marilson Roseno da Silva localizada no corpus. Argumenta ausência de
+  violência ou ameaça atribuída a ele, contato apenas com Mourão (falecido) e não com Vorcaro, cooperação
+  com a PF, e ausência de recomendação da PGR pela prisão preventiva, para pedir sua revogação.
+is_official: true
+related_entity_ids:
+- marilson-roseno-da-silva
+- andre-mendonca
+- luiz-phillipi-mourao
+issuer_id: marilson-roseno-da-silva
+issuer: Igor Campos de Oliveira Pires, Luciano Santos Lopes e Pedro Dojas Mello Andrade (defesa de Marilson Roseno da Silva)
+date_precision: day
+reference: STF, PET 15.556, petição de 02/04/2026 (e-Doc 221)
+excerpt: 'não há qualquer notícia de que Marilson, individualmente considerado, tenha contatado possíveis
+  testemunhas... Marilson não mantinha contato direto com Daniel Vorcaro – o qual se encontra preso e, por
+  consequência, incomunicável –, havendo apenas referência a interações com Luiz Phillipi Machado de
+  Moraes Mourão, infelizmente já falecido.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

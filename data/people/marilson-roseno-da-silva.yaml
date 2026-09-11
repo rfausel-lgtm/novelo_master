@@ -19,13 +19,18 @@ summary: 'Policial federal aposentado, apontado pela Polícia Federal como líde
 why_in_novelo: É apontado pela Polícia Federal como o agente aposentado que teria cooptado policiais para
   acessar informações sigilosas em favor da família Vorcaro.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: version
+  summary: 'RESOLVIDO (lote 185): primeira manifestação dele localizada no corpus, em petição de 02/04/2026
+    pedindo a revogação da prisão preventiva. Não nega os fatos centrais (coleta e repasse de informações),
+    mas argumenta ausência de violência ou ameaça atribuída a ele, contato apenas com Mourão (já falecido)
+    e não com Vorcaro, cooperação integral com a PF (interrogatório de 26/03/2026) e ausência de recomendação
+    da PGR pela prisão. Cita como dependentes dele uma filha de 12 anos e a mãe, de 87 anos, enferma.'
+  source_ids:
+  - src-stf-pet15556-edoc221-peticao-marilson-revogacao-prisao-02-04-2026
+  by_id: marilson-roseno-da-silva
+  date: '2026-04-02'
 open_questions:
 - As imputações são da autoridade policial, sem juízo de mérito.
-- Não há manifestação de Marilson Roseno da Silva ou de sua defesa em nenhuma das fontes consultadas,
-  embora ele esteja preso e seja pessoa identificada sob imputação grave — situação que o corpus registra
-  com destaque, por dever de contraditório.
 - 'Há divergência entre fontes sobre a natureza do pagamento: reportagem de fevereiro de 2026 registra
   que ele ouviu que receberia R$ 400 mil; relatório da PF divulgado em junho de 2026, veiculado sobretudo
   por veículos de menor porte, aponta R$ 400 mil MENSAIS repassados por Henrique Vorcaro, além de pagamentos
@@ -44,6 +49,7 @@ source_ids:
 - src-otempo-2026-05-15-marilson-transferido-presidio-federal
 - src-brasil247-2026-marilson-aposentadoria-pf
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+- src-stf-pet15556-edoc221-peticao-marilson-revogacao-prisao-02-04-2026
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

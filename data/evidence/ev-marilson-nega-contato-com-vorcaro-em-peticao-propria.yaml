@@ -1,0 +1,22 @@
+id: ev-marilson-nega-contato-com-vorcaro-em-peticao-propria
+kind: evidence
+classification: D
+proposition: Em petição de 02/04/2026 — a primeira manifestação dele ou de defesa em seu nome localizada
+  no corpus —, Marilson Roseno da Silva argumenta que sua conduta se restringiu à coleta e ao repasse de
+  informações, sem qualquer ato de violência ou intimidação atribuído a ele especificamente; que nunca
+  manteve contato direto com Daniel Vorcaro, apenas com Luiz Phillipi Mourão (já falecido); que foi
+  interrogado pela PF em 26/03/2026 e respondeu a todas as perguntas; e que a PGR não recomendou sua prisão
+  preventiva.
+document_ids:
+- doc-2026-04-02-peticao-marilson-revogacao-prisao
+source_ids:
+- src-stf-pet15556-edoc221-peticao-marilson-revogacao-prisao-02-04-2026
+date: '2026-04-02'
+notes: Prova que ele apresentou essa defesa — não nega os fatos centrais já atribuídos a ele no acervo
+  (coleta de dados, rastreamento do drone sobre a casa de Vorcaro em 06/04/2024), apenas argumenta que não
+  justificam prisão preventiva.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
