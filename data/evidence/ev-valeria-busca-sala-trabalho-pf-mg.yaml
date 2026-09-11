@@ -1,0 +1,19 @@
+id: ev-valeria-busca-sala-trabalho-pf-mg
+kind: evidence
+classification: D
+proposition: Em 14/05/2026, atendendo a pedido complementar da Polícia Federal, o ministro André Mendonça
+  autorizou busca e apreensão especificamente na sala de trabalho da Delegada de Polícia Federal Valéria
+  Vieira Pereira da Silva, dentro da Superintendência da Polícia Federal em Minas Gerais — medida distinta
+  e adicional à busca domiciliar já afastada em decisão anterior.
+document_ids:
+- doc-2026-05-14-decisao-pet15976-busca-sala-valeria-pf-mg
+source_ids:
+- src-stf-pet15976-decisao-14-05-2026-busca-sala-valeria-pf-mg
+date: '2026-05-14'
+notes: O perfil dela já registrava afastamento do cargo, proibição de contato e retenção de passaporte,
+  mas não a busca e apreensão no próprio local de trabalho dentro da corporação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

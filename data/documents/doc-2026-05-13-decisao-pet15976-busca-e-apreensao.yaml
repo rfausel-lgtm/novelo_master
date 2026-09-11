@@ -1,0 +1,35 @@
+id: doc-2026-05-13-decisao-pet15976-busca-e-apreensao
+kind: document
+title: Decisão que autoriza busca e apreensão contra 13 alvos e define parâmetros operacionais
+doc_type: judicial_decision
+date: '2026-05-13'
+date_precision: day
+source_ids:
+- src-stf-pet15976-decisao-13-05-2026-busca-e-apreensao
+summary: Decisão que autoriza busca e apreensão contra 13 alvos da 6ª fase da Operação Compliance Zero e
+  define parâmetros operacionais dos mandados, incluindo autorização de compartilhamento com a Corregedoria
+  da Polícia Federal.
+is_official: true
+related_entity_ids:
+- henrique-vorcaro
+- daniel-vorcaro
+- erlene-nonato-lacerda
+- helder-alves-de-lima
+- david-henrique-alves
+- victor-lima-sedlmaier
+- rodrigo-pimenta-franco-avelar-campos
+- katherine-venancio-telles
+- manoel-mendes-rodrigues
+- anderson-wander-da-silva-lima
+- sebastiao-monteiro-junior
+- valeria-vieira-pereira-da-silva
+- francisco-jose-pereira-da-silva
+issuer_id: supremo-tribunal-federal
+issuer: Ministro André Mendonça
+reference: 'STF, PET 15.976/DF, decisão de 13/05/2026'
+excerpt: os mandados sejam cumpridos de forma serena, respeitosa e discreta, sem qualquer espetacularização
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
