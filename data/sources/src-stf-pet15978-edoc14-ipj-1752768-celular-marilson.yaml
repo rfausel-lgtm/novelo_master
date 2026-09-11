@@ -1,0 +1,32 @@
+id: src-stf-pet15978-edoc14-ipj-1752768-celular-marilson
+kind: source
+title: IPJ nº 1752768/2026 — análise do celular apreendido com Marilson Roseno da Silva (e-Doc 14, PET 15.978)
+publisher: Polícia Federal — CINQ/DICOR
+author: CINQ/DICOR/PF, destinada ao DPF Victor Barbabella Negraes
+publication_date: '2026-03-18'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7514958
+source_type: official_police
+summary: 'Informação de Polícia Judiciária de 117 páginas (IPJ nº 1752768/2026), referente ao inquérito
+  2026.0022454-CGRC/DICOR/PF (PET 15.562, "Operação Compliance Zero 3"), com a análise do celular
+  apreendido diretamente com Marilson Roseno da Silva — fonte distinta das duas análises já mineradas do
+  celular de Daniel Vorcaro (e-Docs 3 e 4). Revela que o próprio Marilson mantinha uma conta secundária de
+  WhatsApp Business com número internacional da Turquia, sob o codinome "MISTER", com mensagens
+  temporárias auto-apagáveis, e mapeia outros terminais internacionais usados por integrantes da
+  organização (Reino Unido, possivelmente de Luiz Phillipi Mourão; Colômbia, provavelmente de Henrique
+  Vorcaro). Traz ainda trechos da própria oitiva de Marilson, em que ele tenta minimizar seu papel
+  chamando as acusações de "fake news" — versão que a PF classifica como causando "extrema estranheza"
+  por suas contradições internas —, e um capítulo extenso (37 páginas) sobre Anderson Wander da Silva
+  Lima.'
+notes: 'Documento obtido pelo próprio Rafael via certificado digital, parte do download completo da PET
+  15.978 (378 peças) — mesma política de divulgação aplicada às demais peças.'
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador (leitura dirigida por seções de maior densidade, 117 páginas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

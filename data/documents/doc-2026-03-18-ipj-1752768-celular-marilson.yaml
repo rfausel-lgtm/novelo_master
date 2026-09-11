@@ -1,0 +1,29 @@
+id: doc-2026-03-18-ipj-1752768-celular-marilson
+kind: document
+title: IPJ nº 1752768/2026 — análise do celular apreendido com Marilson Roseno da Silva
+doc_type: forensic_extract
+date: '2026-03-18'
+source_ids:
+- src-stf-pet15978-edoc14-ipj-1752768-celular-marilson
+summary: Análise de 117 páginas do celular apreendido diretamente com Marilson Roseno da Silva,
+  revelando conta secundária de WhatsApp Business dele com número internacional da Turquia (codinome
+  "MISTER", mensagens auto-apagáveis) e outros terminais internacionais da organização, além de trechos
+  da própria oitiva dele em que tenta minimizar seu papel.
+is_official: true
+related_entity_ids:
+- marilson-roseno-da-silva
+- luiz-phillipi-mourao
+- henrique-vorcaro
+- daniel-vorcaro
+- sebastiao-monteiro-junior
+- anderson-wander-da-silva-lima
+- helder-alves-de-lima
+issuer_id: policia-federal
+issuer: CINQ/DICOR/PF
+reference: 'PF, IPJ nº 1752768/2026 (e-Doc 14, PET 15.978)'
+excerpt: MISTER (+905386670594) – terminal telefônico procedente da Turquia, utilizado por Marilson Roseno
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

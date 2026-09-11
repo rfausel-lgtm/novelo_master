@@ -23,7 +23,14 @@ summary: 'Policial federal aposentado, apontado pela Polícia Federal como líde
   grande lá que o senhor não tem noção"). O mesmo documento revela consultas ilegais dele ao sistema
   ePol, já na ativa, com os termos "André Beraldo Vorcaro", "Daniel Vorcaro", "Daniel Bueno Vorcaro" e
   "Banco Máxima", entre 7 e 13/12/2021 — quase três anos antes do episódio do drone de 2024, a evidência
-  mais antiga do acervo de um vínculo dele com o interesse da família Vorcaro.'
+  mais antiga do acervo de um vínculo dele com o interesse da família Vorcaro. A ANÁLISE DO SEU PRÓPRIO
+  CELULAR (IPJ nº 1752768/2026, lote 207, PET 15.978) revela que mantinha conta secundária de WhatsApp
+  Business associada a número da Turquia, sob o codinome "MISTER", com mensagens temporárias
+  auto-apagáveis. Em oitiva, tentou desqualificar as acusações contra si como "fake news", dizendo que
+  gravava áudios falsos a pedido de Mourão sem receber nada em troca — versão que a PF considera
+  contraditória, já que ele próprio relatou, na mesma oitiva, um padrão recorrente de dois anos em que
+  Vorcaro o questionava todo fim de ano sobre mandados de prisão pendentes contra o grupo. Confirmou usar
+  o codinome "SP" ou "São Paulo" para se referir a Daniel Vorcaro, só depois de negar inicialmente.'
 why_in_novelo: É apontado pela Polícia Federal como o agente aposentado que teria cooptado policiais para
   acessar informações sigilosas em favor da família Vorcaro.
 cited_position:
@@ -71,6 +78,7 @@ source_ids:
 - src-mpf-pgr-2026-07-21-manifestacao-marilson-belline-cvm-mourao
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 - src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+- src-stf-pet15978-edoc14-ipj-1752768-celular-marilson
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
