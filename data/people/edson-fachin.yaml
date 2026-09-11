@@ -53,6 +53,11 @@ open_questions:
   da República e reserva à Presidência poder de supervisão sobre feitos já distribuídos. Reconhece que
   suspender decisão de ministro é providência ''absolutamente excepcional'', citando como únicos precedentes
   as SL 1.395/SP, de 2020, e SL 1.188/DF, de 2018.'
+- 'Quarto ato na mesma linha em oito dias: em 10/09/2026, na própria PET 16.704, determinou a Mendonça a
+  remessa em HD de todos os procedimentos da PET 15.556 (a petição-mãe do caso Master) a todos os gabinetes
+  do STF, e o levantamento do sigilo dela, ressalvadas diligências pendentes cujo sigilo seja imprescindível.
+  A equipe obteve e leu a íntegra do despacho (lote 168): uma página, assinatura digital verificável. Antecede
+  em cinco dias a sessão de 15/09.'
 source_ids:
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
@@ -65,6 +70,8 @@ source_ids:
 - src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
 - src-stf-2026-09-09-integra-decisao-fachin-pet-16704
 - src-stf-2026-09-09-nota-a-imprensa-46-convocacao-sessao
+- src-poder360-2026-09-10-fachin-pede-levantamento-sigilo-pet15556
+- src-metropoles-2026-09-10-fachin-derruba-sigilo-inquerito-master
 full_name: Luiz Edson Fachin
 review_status: published
 reviewer: orquestrador
