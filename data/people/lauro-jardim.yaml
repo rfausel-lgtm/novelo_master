@@ -9,7 +9,11 @@ summary: 'Jornalista político, colunista de O Globo. Teve o nome citado em mens
   de intimidá-lo e silenciar sua cobertura sobre o Banco Master. A Associação Nacional de Jornais manifestou
   solidariedade e repúdio ao plano. A representação da PF de 27/02/2026 (lote 170) traz as mensagens na
   íntegra — em 08/06/2025, Vorcaro pediu que o seguissem (''pra pegar tudo dele''); em 28/07/2025, escreveu
-  ''quero mandar dar um pau nele. Quebrar todos os dentes. Num assalto'', com aval de Luiz Phillipi Mourão.'
+  ''quero mandar dar um pau nele. Quebrar todos os dentes. Num assalto'', com aval de Luiz Phillipi Mourão.
+  A REPRESENTAÇÃO DA PF de maio de 2026 (lote 198, PET 15.978) revela um segundo episódio, digital: em
+  29/07/2025, Vorcaro pediu a Mourão que "hackear[a] esse lauro"; Mourão respondeu que já havia acionado
+  o núcleo "Os Meninos", propondo obter o e-mail ou o celular dele por meio de um link-isca disfarçado de
+  convite para reunião.'
 why_in_novelo: É o jornalista que, segundo a investigação e a decisão do STF, seria alvo de um plano de
   intimidação por sua cobertura do caso.
 cited_position:
@@ -22,6 +26,7 @@ source_ids:
 - src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
 - src-otempo-2026-03-04-anj-repudia
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

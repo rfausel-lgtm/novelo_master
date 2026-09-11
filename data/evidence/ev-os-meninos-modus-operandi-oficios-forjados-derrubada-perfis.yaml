@@ -1,0 +1,27 @@
+id: ev-os-meninos-modus-operandi-oficios-forjados-derrubada-perfis
+kind: evidence
+classification: D
+proposition: 'Além de invadir dispositivos e contas na nuvem, o núcleo "Os Meninos" derrubava perfis de
+  redes sociais de críticos de Daniel Vorcaro por meio de ofícios forjados, com aparência de terem sido
+  emitidos por autoridades públicas, enviados aos canais de Law Enforcement Information Request das
+  próprias plataformas — além de DDoS e robôs contra notícias desfavoráveis. Exemplos documentados: em
+  07/10/2024, Daniel Bueno Vorcaro pediu a Felipe Mourão que derrubasse o perfil @marthagraeff6666, um
+  perfil falso que usava dados de sua namorada Martha Graeff para se aproximar de sua filha ("Esse filha
+  da puta quero achar nem que seja no inferno") — a conta foi banida dois dias depois, via ofício forjado
+  do MP-CE (episódio já registrado no perfil de Nayara Maria Dias Albuquerque de Sá); e a derrubada do
+  Instagram do perfil @alexandreknuz, que criticava um evento do Banco Master em Londres.'
+document_ids:
+- doc-2026-05-representacao-pf-pet15978-sexta-fase
+source_ids:
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+date: '2024-10-07'
+notes: 'O autor do perfil falso "@marthagraeff6666" não foi identificado no documento — o alvo da
+  investigação de Vorcaro era descobrir quem o criara, não a própria Martha Graeff, que aparece apenas
+  como pessoa cujos dados foram usados sem que se afirme qualquer participação dela nos fatos. "Alexandre
+  Knuz" é citado apenas de passagem, como um crítico cujo perfil foi derrubado; o corpus não tem mais
+  informações sobre ele e não se cria registro dedicado a partir de uma única menção lateral.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

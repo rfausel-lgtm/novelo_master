@@ -1,0 +1,23 @@
+id: ev-tentativa-hackear-lauro-jardim-julho-2025
+kind: evidence
+classification: D
+proposition: 'Em 29/07/2025, Daniel Vorcaro pediu a Felipe Mourão que "hackear[a] esse lauro", referindo-se
+  ao jornalista Lauro Jardim. Mourão respondeu que já havia pedido a "Os Meninos" para fazer isso,
+  perguntando se Vorcaro queria o e-mail dele ou "tomar o cel dele" — e descreveu o modus operandi: o
+  núcleo enviaria um link convidando o jornalista para uma reunião, como isca.'
+document_ids:
+- doc-2026-05-representacao-pf-pet15978-sexta-fase
+source_ids:
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+excerpt: Vou mandar fazer isto. Algo específico? E-mail. Já pedi aos meninos para fazerem isto, mandar no
+  e-mail. Quer eu tome o cel dele? As vezes conseguimos alguma coisa por lá.
+date: '2025-07-29'
+notes: É episódio distinto do plano de simulação de assalto físico contra Lauro Jardim já registrado no
+  acervo (ev-plano-simulacao-de-assalto-contra-jornalista, de 2025) — aqui o alvo é o dispositivo/e-mail
+  dele, por meio do núcleo hacker "Os Meninos", não uma abordagem física. O documento não afirma que o
+  ataque tenha sido concluído com sucesso, apenas a ordem e o planejamento da isca por link.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
