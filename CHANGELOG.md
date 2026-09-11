@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Gatilho de arte deixou de existir apenas como instrução de sessão: `social:pending` detecta, a
+  partir do marco explícito do lote 200, revisões novas sem WebP canônico; uma automação local do
+  Codex executa a recuperação periódica. Arte publicada é o estado durável de deduplicação, falha
+  permanece pendente para retomada e PR aberto impede geração concorrente da mesma revisão.
 - Artes de divulgação dos lotes 190 a 199 adicionadas em `public/social/`, uma por revisão, com
   conferência humana registrada no PR que as publica (seção 7.1 da `EDITORIAL_POLICY`).
 - `/atualizacoes` paginada em dez revisões por página, com barra numerada convencional

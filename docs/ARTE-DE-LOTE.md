@@ -44,6 +44,24 @@ Nunca infere, aproxima ou corrige um id digitado: id desconhecido é erro.
 
 Depois: confira a arte (seção 7.1), commite, e o site a publica no próximo build.
 
+## Detecção de lotes novos
+
+O detector usado pela automação local exige um marco inicial explícito:
+
+```bash
+npm run social:pending -- --since-lot 200 --limit 5 --json
+```
+
+Ele compara os `Revision.id` em `data/revisions/` com os WebPs canônicos já presentes em
+`public/social/`. A presença de `<Revision.id>.webp` é o estado durável de conclusão; se uma execução
+falhar antes de publicar a arte, a revisão continua pendente para a próxima tentativa. O comando não
+cria nem altera arquivos e se recusa a rodar sem `--since-lot`, para uma configuração incorreta nunca
+importar automaticamente o histórico inteiro.
+
+O detector não enxerga arte que ainda está apenas em branch. Por isso o executor deve, antes de
+gerar, procurar branch ou PR aberto que mencione o mesmo `Revision.id`; se encontrar, preserva esse
+trabalho e não cria uma segunda imagem concorrente.
+
 ## Especificação de geração
 
 Para pedir a arte a um modelo. `<Revision.id>` e o título saem de `data/revisions/`.

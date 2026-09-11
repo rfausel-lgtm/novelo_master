@@ -19,8 +19,11 @@ nada nesta cadeia depende de alguém lembrar depois.
    atualizações mais recentes no topo — nenhuma curadoria manual entra aqui.
 2. **Acionar a arte.** Logo após o push, a própria sessão que publicou dispara o agente de arte do
    Codex passando o **`Revision.id` completo** — nunca o número do lote, que não identifica revisão
-   neste acervo ([docs/ARTE-DE-LOTE.md](docs/ARTE-DE-LOTE.md)). Esse agente gera a arte, roda
-   `npm run social:check` e grava o arquivo canônico `public/social/<Revision.id>.webp`.
+   neste acervo ([docs/ARTE-DE-LOTE.md](docs/ARTE-DE-LOTE.md)). Como recuperação independente dessa
+   sessão, a automação local `Novelo — artes de lotes novos` consulta periodicamente
+   `npm run social:pending -- --since-lot 200 --limit 5 --json`. O marco é obrigatório: ela nunca
+   importa o histórico anterior ao lote 200. Esse agente gera a arte, roda `npm run social:check` e
+   grava o arquivo canônico `public/social/<Revision.id>.webp`.
 3. **Levar a arte até a `main`.** Gerar não é publicar. O site é construído a partir da `main`, então
    arte parada em branch não existe para o leitor — e branch parada foi exatamente como as artes dos
    lotes 156 a 164 ficaram um dia inteiro fora do ar. O agente fecha o trabalho com `social:check`
@@ -39,6 +42,10 @@ nada nesta cadeia depende de alguém lembrar depois.
   ali. Um agente nunca aperta o botão de publicar.
 - **O gatilho nunca bloqueia a publicação de dados.** Ausência de arte é estado normal, não pendência:
   se o passo 2 falhar, o lote continua publicado e correto. Dado publicado não espera imagem.
+- **Detecção é idempotente e recuperável.** A presença de `public/social/<Revision.id>.webp` na
+  `main` é o estado durável de conclusão. Revisão sem arquivo continua pendente para a próxima
+  execução; revisão com arte nunca é refeita. Antes de gerar, a automação também procura PR aberto
+  para o mesmo `Revision.id`, para não duplicar trabalho ainda em conferência.
 - **Autorização não se inventa.** O agente que gera a arte não cria autorização própria nem afasta as
   vedações da seção 7.1 (rosto de pessoa real, retrato fotorrealista, simulação de documento ou de
   cena, alegação nova, animação).
