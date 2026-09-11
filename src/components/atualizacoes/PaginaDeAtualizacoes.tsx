@@ -5,6 +5,7 @@ import { SITE } from "@/lib/site";
 import { PageShell, PageTitle } from "@/components/entity/PageShell";
 import { EmptyState } from "@/components/entity/Section";
 import { artesPorRevisao } from "@/lib/social";
+import { PularParaPagina } from "@/components/atualizacoes/PularParaPagina";
 import {
   POR_PAGINA,
   hrefDaPagina,
@@ -61,7 +62,7 @@ function Seta({
 
 export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
   const todas = allRevisions();
-  const paginas = totalDePaginas();
+  const paginas = totalDePaginas(todas.length);
   const primeiro = (pagina - 1) * POR_PAGINA;
   const revisions = todas.slice(primeiro, primeiro + POR_PAGINA);
   const artes = artesPorRevisao();
@@ -226,6 +227,8 @@ export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
               />
             </li>
           </ol>
+
+          <PularParaPagina atual={pagina} total={paginas} />
         </nav>
       )}
 

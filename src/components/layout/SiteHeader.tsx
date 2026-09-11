@@ -6,7 +6,20 @@ import { useEffect, useRef, useState } from "react";
 import { Logo } from "@/components/ui/Logo";
 import { ThemeToggle } from "@/components/ui/ThemeToggle";
 
-import { MOBILE_QUERY } from "@/lib/graph/mobile";
+/**
+ * Onde o menu completo passa a caber.
+ *
+ * Ele aparecia a partir de `md` (768 px) e não cabia: medido em produção, a linha do cabeçalho pede
+ * 1111 px — marca 101, vão 16, menu 946 e respiro 48. Entre 768 e 1110 o menu vazava para fora da
+ * janela e TODA página do site ganhava rolagem horizontal, inclusive no tablet deitado.
+ *
+ * 1140 é o valor medido mais uma folga de ~3%, para mudança de fonte ou item novo não reabrir o
+ * defeito em silêncio. Se o menu ganhar itens, remeça: some a largura da marca, do vão, do `scrollWidth`
+ * do nav e do padding da linha.
+ *
+ * O MESMO NÚMERO está em globals.css (busque por 1140). Mexeu aqui, mexa lá.
+ */
+const LARGURA_DO_MENU_COMPLETO = "(max-width: 1139px)";
 
 const NAV = [
   { href: "/grafo", label: "Grafo" },
@@ -30,7 +43,7 @@ export function SiteHeader() {
     menuRef.current?.close();
   }, [rota]);
   useEffect(() => {
-    const mq = window.matchMedia(MOBILE_QUERY);
+    const mq = window.matchMedia(LARGURA_DO_MENU_COMPLETO);
     const closeOnDesktop = () => {
       if (!mq.matches) menuRef.current?.close();
     };
@@ -61,7 +74,7 @@ export function SiteHeader() {
             O Novelo Master
           </span>
         </Link>
-        <nav aria-label="Principal" className="hidden items-center gap-1 md:flex">
+        <nav aria-label="Principal" className="hidden items-center gap-1 min-[1140px]:flex">
           {NAV.map((item) => (
             <Link
               key={item.href}
@@ -81,7 +94,7 @@ export function SiteHeader() {
         <button
           ref={triggerRef}
           type="button"
-          className="mobile-menu-trigger md:hidden"
+          className="mobile-menu-trigger min-[1140px]:hidden"
           aria-expanded={menuOpen}
           aria-controls="mobile-navigation"
           aria-haspopup="dialog"

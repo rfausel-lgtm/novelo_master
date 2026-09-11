@@ -113,8 +113,9 @@ html {
   position: absolute;
   inset: auto 0 0;
 }
-@media (min-width: 768px) {
-  .mobile-menu-trigger.md\:hidden {
+/* 1140: largura medida em que o menu completo cabe. O mesmo número está em SiteHeader.tsx. */
+@media (min-width: 1140px) {
+  .site-header .mobile-menu-trigger {
     display: none;
   }
 }
@@ -726,10 +727,15 @@ body {
   .mobile-only {
     display: block;
   }
-  .site-header nav.hidden.md\:flex {
+  /*
+   * Estes dois seletores olham o elemento, e não o nome da classe utilitária. Antes casavam
+   * `.md\:flex` e `.md\:hidden`; quando o ponto de quebra do menu mudou de 768 para 1140, viraram
+   * seletores mortos sem que nada acusasse.
+   */
+  .site-header nav[aria-label="Principal"] {
     display: none;
   }
-  .site-header .mobile-menu-trigger.md\:hidden {
+  .site-header .mobile-menu-trigger {
     display: inline-flex;
   }
   .graph-workspace .md\:hidden {

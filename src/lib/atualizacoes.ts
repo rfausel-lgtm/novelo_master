@@ -1,5 +1,3 @@
-import { allRevisions } from "@/lib/data";
-
 /**
  * Paginação de /atualizacoes.
  *
@@ -9,11 +7,18 @@ import { allRevisions } from "@/lib/data";
  * A lógica mora aqui, e não no componente, porque o sitemap também precisa saber quantas páginas
  * existem: sitemap importando componente arrastaria React e `node:fs` (via lib/social) para dentro
  * do grafo de módulos de um arquivo que só devia conhecer dados.
+ *
+ * O módulo é PURO de propósito — nada de `@/lib/data` aqui dentro. Ver `totalDePaginas`.
  */
 export const POR_PAGINA = 10;
 
-export function totalDePaginas(): number {
-  return Math.max(1, Math.ceil(allRevisions().length / POR_PAGINA));
+/**
+ * Recebe a contagem em vez de ler o corpus: este módulo é importado por um componente de cliente
+ * (o salto para página), e uma importação de `@/lib/data` aqui arrastaria o acervo inteiro para o
+ * pacote que vai ao navegador.
+ */
+export function totalDePaginas(totalDeRevisoes: number): number {
+  return Math.max(1, Math.ceil(totalDeRevisoes / POR_PAGINA));
 }
 
 /** `/atualizacoes` é a página 1; as demais moram sob `/atualizacoes/pagina/N`. */
