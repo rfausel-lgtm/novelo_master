@@ -1,0 +1,19 @@
+id: ev-defesa-nega-bloqueio-de-2-24-bilhoes-na-conta-de-henrique-vorcaro
+kind: evidence
+classification: A
+proposition: A defesa de Daniel Vorcaro afirma que 'não houve nenhum bloqueio de conta bancária do Sr. Henrique
+  Vorcaro', alegando que ele 'não possui tal valor a sua disposição', em resposta direta à alegação da PF sobre
+  o bloqueio de R$ 2.245.235.850,24 na 2ª fase da Compliance Zero.
+attributed_to: Defesa de Daniel Vorcaro, em agravo regimental
+document_ids: []
+source_ids:
+- src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
+date: '2026-03-09'
+notes: Contrasta com os comprovantes de protocolamento SISBAJUD lidos pela equipe (lote 171, e-Doc 6), que registram
+  bloqueio processado na CBSF DTVM sob o CPF de Henrique Vorcaro, classificado como 'ativo de baixa liquidez' —
+  o que talvez explique, sem provar nem refutar, a alegação de indisponibilidade imediata do valor.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -22,11 +22,19 @@ summary: Pai de Daniel Vorcaro. Teve prisão preventiva decretada pelo STF em 14
 why_in_novelo: Teve prisão preventiva decretada e mantida pelo STF na 6ª fase da Operação Compliance Zero,
   sendo descrito pela Polícia Federal como operador financeiro do grupo investigado.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: Em petição própria de 04/03/2026, referida no agravo regimental do filho (lote 175), nega que
+    exista bloqueio de R$ 2,24 bilhões em conta sua, afirmando não possuir tal valor à sua disposição —
+    negativa que contrasta com comprovantes de protocolamento SISBAJUD lidos pela equipe (lote 171),
+    registrando bloqueio processado na CBSF DTVM sob o CPF dele, classificado como ativo de baixa liquidez.
+  source_ids:
+  - src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
+  by_id: henrique-vorcaro
+  date: '2026-03-04'
 open_questions:
-- A posição da defesa de Henrique Vorcaro não foi localizada em fonte verificada do corpus; o ministro
-  Gilmar Mendes propôs prisão domiciliar em divergência parcial.
+- A posição pessoal e direta da defesa de Henrique Vorcaro (fora da menção feita na petição do filho) não
+  foi localizada em fonte verificada do corpus; o ministro Gilmar Mendes propôs prisão domiciliar em
+  divergência parcial.
 - Condenado pela CVM em 08/09/2026, por unanimidade, a R$ 20 milhões de multa por operação fraudulenta
   no Brazil Realty FII — mesmo valor aplicado ao filho, Daniel Vorcaro.
 source_ids:
@@ -43,6 +51,7 @@ source_ids:
 - src-stf-2026-06-16-pai-e-primo
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+- src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
 full_name: Henrique Moura Vorcaro
 review_status: published
 reviewer: orquestrador

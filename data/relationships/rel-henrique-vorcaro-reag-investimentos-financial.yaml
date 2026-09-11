@@ -10,13 +10,23 @@ description: A Polícia Federal bloqueou R$ 2.245.235.850,24 em conta de Henriqu
   de Títulos e Valores Mobiliários S.A. (nova denominação da Reag Trust), na 2ª fase da Operação Compliance Zero,
   em 14/01/2026.
 evidence_class: D
-confidence: 0.85
-status: unverified
+confidence: 0.75
+status: disputed
 evidence_ids: []
 document_ids:
 - doc-2026-02-27-representacao-pf-pet15556-edoc1
 source_ids:
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+- src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
+cited_position:
+- kind: denial
+  summary: A defesa nega que exista tal bloqueio, afirmando que Henrique Vorcaro não possui o valor à sua
+    disposição — negativa posterior aos comprovantes de protocolamento SISBAJUD lidos pela equipe, que
+    registram bloqueio processado na CBSF DTVM sob o CPF dele.
+  source_ids:
+  - src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
+  by_id: henrique-vorcaro
+  date: '2026-03-04'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

@@ -78,6 +78,25 @@ cited_position:
   - src-estadao-2026-02-03-vorcaro-autorizado-mesmo-investigado
   by_id: daniel-vorcaro
   date: '2026-02-03'
+- kind: denial
+  summary: 'Em agravo regimental contra a prisão preventiva de 03/03/2026, a defesa nega, ponto a ponto:
+    (i) que exista ou que ele tenha participado de qualquer grupo de mensagens chamado ''A Turma'' (lote
+    170); (ii) que haja bloqueio de R$ 2,24 bilhões em conta de seu pai, Henrique Vorcaro; e sustenta que
+    todos os fatos citados pela PF são anteriores a 17/11/2025, sem contemporaneidade que justifique a
+    prisão.'
+  source_ids:
+  - src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
+  by_id: daniel-vorcaro
+  date: '2026-03-09'
+- kind: version
+  summary: Acusa as autoridades de terem vazado à imprensa fotos e diálogos íntimos dele e de terceiros sem
+    relação com o caso — incluindo fotos suas dentro da unidade prisional — e de terem apresentado
+    'inexistentes diálogos' entre ele e ministros do STF, com o objetivo de lançar suspeita sobre a própria
+    Corte.
+  source_ids:
+  - src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
+  by_id: daniel-vorcaro
+  date: '2026-03-09'
 open_questions:
 - Não há, no corpus, a íntegra das decisões judiciais; o conteúdo registrado é o das comunicações oficiais
   do STF.
@@ -95,10 +114,15 @@ open_questions:
   de que comprou dos herdeiros um sistema educacional a que prestava consultoria; e a de reportagens posteriores,
   de que administrava uma editora de livros didáticos do próprio pai. A distinção é relevante porque uma
   versão o apresenta como empreendedor que se fez sozinho e a outra como gestor de ativo familiar.'
-- Reportagem de fonte única (Times Brasil, 08/05/2026) descreve-o como detido 'uma segunda vez', em março
-  de 2026, por suspeita de planejar atos violentos contra opositores — motivo distinto do que o corpus
-  registra para a prisão preventiva decretada pelo STF em 04/03/2026 (PET 15.556). A equipe não confirmou
-  essa segunda razão em documento primário nem em segunda fonte.
+- 'PARCIALMENTE ESCLARECIDO (lote 175): reportagem de fonte única (Times Brasil, 08/05/2026) descrevia-o
+  como detido ''uma segunda vez'', em março de 2026, por suspeita de planejar atos violentos contra
+  opositores — motivo aparentemente distinto do que o corpus registrava para a prisão preventiva decretada
+  pelo STF em 04/03/2026 (PET 15.556). O agravo regimental da própria defesa (e-Doc 86), lido pela equipe,
+  confirma que a prisão de 04/03/2026 É a mesma da PET 15.556 — a conversão do monitoramento eletrônico
+  vigente desde novembro de 2025 em prisão em estabelecimento penal, fundamentada exatamente nos fatos de
+  ''A Turma'' já mapeados (lote 170) —, não uma prisão distinta por planejamento de atos violentos. A
+  caracterização da Times Brasil parece ser paráfrase imprecisa do mesmo fato, não uma segunda prisão com
+  motivo próprio; segue sem confirmação em segunda fonte que a trate como evento distinto.'
 - A PF concluiu em agosto de 2026 o inquérito-mãe (1ª fase) e preparou indiciamento de Vorcaro, remetido
   ao MPF/PGR — até 05/09/2026, sem denúncia formal oferecida no núcleo do caso Master.
 - Em 02/09/2026, a PGR pediu ao STF o arquivamento de uma notícia/reclamação apresentada pelo PRÓPRIO
@@ -154,13 +178,14 @@ source_ids:
 - src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
 - src-timesbrasil-2026-05-08-tether-cobra-titan-holding
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+- src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-11'
 photo:
   path: /fotos/daniel-vorcaro.jpg
   source: Wikimedia Commons
