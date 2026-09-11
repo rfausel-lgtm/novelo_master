@@ -57,7 +57,9 @@ open_questions:
   remessa em HD de todos os procedimentos da PET 15.556 (a petição-mãe do caso Master) a todos os gabinetes
   do STF, e o levantamento do sigilo dela, ressalvadas diligências pendentes cujo sigilo seja imprescindível.
   A equipe obteve e leu a íntegra do despacho (lote 168): uma página, assinatura digital verificável. Antecede
-  em cinco dias a sessão de 15/09.'
+  em cinco dias a sessão de 15/09. Mendonça anunciou cumprimento no mesmo dia, mas a checagem direta da equipe
+  no portal do STF, às 23h53 de 10/09/2026, mostrou a PET 15.556 ainda com a etiqueta ''Sigiloso'' (lote 169)
+  — discrepância entre o anunciado e o status público ao vivo, não reconciliada.'
 source_ids:
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
@@ -72,6 +74,8 @@ source_ids:
 - src-stf-2026-09-09-nota-a-imprensa-46-convocacao-sessao
 - src-poder360-2026-09-10-fachin-pede-levantamento-sigilo-pet15556
 - src-metropoles-2026-09-10-fachin-derruba-sigilo-inquerito-master
+- src-poder360-2026-09-10-fachin-pede-e-mendonca-tira-sigilo
+- src-stf-portal-2026-09-10-status-pet15556-pet15978-pet16704
 full_name: Luiz Edson Fachin
 review_status: published
 reviewer: orquestrador

@@ -15,15 +15,23 @@ description: No mesmo processo em que abrira de ofício, em 03/09/2026, apuraç�
   qual a PET 16.662 foi extraída — a todos os gabinetes, e o levantamento do sigilo dela, ressalvadas apenas diligências
   pendentes que exijam sigilo para sua eficácia. A medida antecede em cinco dias a sessão extraordinária de 15/09/2026,
   que julgará o relatório da PF sobre as mensagens entre Moraes e Vorcaro e o pedido da PGR de nulidade desse relatório.
+  Em cumprimento ao despacho, Mendonça anunciou no mesmo dia ter retirado o sigilo da PET 15.556 e de mais 14
+  procedimentos relacionados. Mas às 23h53 do mesmo dia, o portal público do STF ainda exibia a PET 15.556 e a
+  PET 15.978 (uma das 14) como 'Sigiloso' — só a PET 16.704, do próprio despacho de Fachin, aparecia como 'Público',
+  o que descarta etiqueta travada. A discrepância entre o anúncio e o status ao vivo não foi reconciliada.
 evidence_class: D
 status: verified
 evidence_ids:
 - ev-despacho-fachin-remessa-hd-e-levantamento-sigilo-pet15556
+- ev-portal-stf-mostra-pet15556-ainda-sigiloso-apos-anuncio-de-levantamento
 source_ids:
 - src-poder360-2026-09-10-fachin-pede-levantamento-sigilo-pet15556
 - src-metropoles-2026-09-10-fachin-derruba-sigilo-inquerito-master
+- src-poder360-2026-09-10-fachin-pede-e-mendonca-tira-sigilo
+- src-stf-portal-2026-09-10-status-pet15556-pet15978-pet16704
 document_ids:
 - doc-2026-09-10-despacho-fachin-levanta-sigilo-pet-15556
+- doc-2026-09-10-captura-portal-stf-status-sigilo-pet15556
 public_act_ids: []
 location: Brasília (DF)
 review_status: published

@@ -1,0 +1,27 @@
+id: rev-2026-09-10-lote-169-verificacao-direta-no-portal-do-stf
+kind: revision
+date: '2026-09-10'
+title: 'Lote 169 — verificação direta no portal do STF: o sigilo anunciado ainda não aparece como levantado'
+summary: 'A pedido do editor, que questionou se a decisão de Fachin (lote 168) de fato retira o sigilo dos
+  autos ou apenas franqueia acesso aos demais ministros, a equipe releu o despacho com precisão — ele contém
+  DUAS determinações distintas, ligadas por ''bem como'': (1) a remessa em HD à Presidência e aos gabinetes
+  dos ministros, e (2) separadamente, ''o levantamento do sigilo da Pet 15.556'', sem qualificação de que
+  seria restrito aos ministros. A imprensa noticiou, ainda em 10/09, que Mendonça já havia cumprido a ordem,
+  retirando o sigilo da PET 15.556 e de mais 14 procedimentos relacionados. A equipe foi além da leitura da
+  notícia e consultou diretamente o portal de acompanhamento processual do STF: às 23h53 de 10/09/2026, a
+  PET 15.556 e a PET 15.978 (uma das 14 supostamente liberadas) ainda exibiam a etiqueta ''Sigiloso''; como
+  controle, a PET 16.704 — o próprio processo do despacho de Fachin, que termina em ''Publique-se'' — exibia
+  ''Público'', confirmando que a etiqueta reflete o status real e não está simplesmente travada. A discrepância
+  entre o anúncio de cumprimento e o status público ao vivo não foi reconciliada: pode ser defasagem
+  administrativa de cadastro, ou o levantamento pode ter alcance mais qualificado, na prática, do que a
+  manchete sugere. Um precedente relevante, já no acervo: a PET 16.662 teve o sigilo formalmente levantado em
+  01/09/2026, mas a equipe só obteve os autos completos em 05/09/2026 mediante certificado digital — não por
+  consulta pública anônima —, o que sugere que ''sigilo levantado'' e ''acesso público irrestrito e imediato''
+  podem não ser a mesma coisa na prática processual do STF.'
+affected_ids:
+- edson-fachin
+- andre-mendonca
+reason: Pergunta de precisão do editor sobre o alcance real da decisão de levantamento de sigilo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'

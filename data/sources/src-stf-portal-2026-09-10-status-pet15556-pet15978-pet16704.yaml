@@ -1,0 +1,27 @@
+id: src-stf-portal-2026-09-10-status-pet15556-pet15978-pet16704
+kind: source
+title: Portal de acompanhamento processual do STF — status de sigilo da PET 15.556, PET 15.978 e PET 16.704
+publisher: Supremo Tribunal Federal
+author: não se aplica
+publication_date: '2026-09-10'
+retrieved_at: '2026-09-10'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7514886
+source_type: official_court
+summary: Consulta direta feita pela equipe às 23h53 de 10/09/2026 ao portal público de acompanhamento processual
+  do STF. A PET 15.556 (incidente 7514886) exibia a etiqueta 'Sigiloso'. A PET 15.978 (incidente 7576893), uma das
+  14 supostamente liberadas segundo o Poder360, também exibia 'Sigiloso'. Como controle, a PET 16.704 (incidente
+  7687920) — o próprio processo do despacho de Fachin, que termina em 'Publique-se' — exibia 'Público', confirmando
+  que o portal distingue ativamente os dois status e não se trata de etiqueta estática.
+notes: Status verificado em um único momento (23h53 de 10/09/2026); o portal pode ter sido atualizado depois dessa
+  consulta. Não foi possível determinar se a discrepância com a cobertura de imprensa reflete apenas defasagem administrativa
+  de cadastro ou um alcance mais qualificado, na prática, do levantamento de sigilo anunciado.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (consulta direta ao portal via requisição HTTP, HTML salvo localmente)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,25 @@
+id: ev-portal-stf-mostra-pet15556-ainda-sigiloso-apos-anuncio-de-levantamento
+kind: evidence
+classification: D
+proposition: Às 23h53 de 10/09/2026 — mesmo dia em que a imprensa noticiou que Mendonça havia retirado o sigilo
+  da PET 15.556 e de 14 procedimentos relacionados —, o portal de acompanhamento processual do STF ainda exibia
+  a PET 15.556 e a PET 15.978 (uma das 14) com a etiqueta 'Sigiloso', enquanto a PET 16.704 (o processo do próprio
+  despacho de Fachin) exibia 'Público', confirmando que o portal distingue ativamente os dois estados.
+document_ids:
+- doc-2026-09-10-captura-portal-stf-status-sigilo-pet15556
+source_ids:
+- src-stf-portal-2026-09-10-status-pet15556-pet15978-pet16704
+- src-poder360-2026-09-10-fachin-pede-e-mendonca-tira-sigilo
+date: '2026-09-10'
+notes: 'Constatação direta da equipe, não de cobertura de imprensa. Interpretações possíveis, não reconciliadas:
+  (a) defasagem administrativa entre a assinatura do despacho/cumprimento e a atualização do cadastro público do
+  processo; (b) o levantamento de sigilo anunciado é mais qualificado, na prática, do que a manchete sugere — por
+  exemplo, valendo para acesso entre os gabinetes dos ministros antes de se refletir no status de consulta pública
+  geral. O caso da PET 16.662, cujo sigilo foi levantado em 01/09/2026 e cujos autos a equipe obteve na íntegra
+  em 05/09/2026 mediante certificado digital (não por consulta pública anônima), sugere que mesmo um processo com
+  sigilo formalmente levantado pode continuar a exigir credencial para acesso às peças.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

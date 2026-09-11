@@ -1,0 +1,29 @@
+id: doc-2026-09-10-captura-portal-stf-status-sigilo-pet15556
+kind: document
+title: Captura do portal de acompanhamento processual do STF — status de sigilo de três processos
+doc_type: official_report
+date: '2026-09-10'
+source_ids:
+- src-stf-portal-2026-09-10-status-pet15556-pet15978-pet16704
+summary: 'Captura HTML, feita diretamente pela equipe às 23h53 de 10/09/2026, de três páginas do portal
+  público de acompanhamento processual do STF (portal.stf.jus.br/processos/detalhe.asp): a PET 15.556
+  (incidente 7514886) e a PET 15.978 (incidente 7576893) exibiam a etiqueta ''Sigiloso''; a PET 16.704
+  (incidente 7687920), processo do próprio despacho de Fachin publicado no mesmo dia, exibia ''Público''.
+  A captura serve de controle negativo: descarta a hipótese de que a etiqueta do portal seja estática ou
+  não reflita mudanças de status em tempo real.'
+is_official: true
+related_entity_ids:
+- supremo-tribunal-federal
+- edson-fachin
+- andre-mendonca
+issuer_id: supremo-tribunal-federal
+issuer: Portal público do STF (sistema de acompanhamento processual)
+date_precision: day
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7514886
+reference: STF, portal de acompanhamento processual, consulta de 10/09/2026 às 23h53
+excerpt: 'Pet 15556 [...] Sigiloso | Pet 15978 [...] Sigiloso | Pet 16704 [...] Público'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
