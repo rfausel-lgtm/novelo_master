@@ -1,0 +1,38 @@
+id: rev-2026-09-11-lote-171-o-vazamento-que-permitiu-a-fuga
+kind: revision
+date: '2026-09-11'
+title: 'Lote 171 — o vazamento que permitiu a fuga tentada em Guarulhos, na noite de 17/11/2025'
+summary: 'Segundo lote extraído do e-Doc 1 da PET 15.556 (a representação da PF de 27/02/2026), cobrindo
+  a seção 2.2.6 — o capítulo mais denso do documento sobre como Daniel Vorcaro teria antecipado a Operação
+  Compliance Zero. Reconstrói a cadeia de eventos de 17/11/2025, véspera da operação: mensagens urgentes
+  do advogado Walfrido Warde às 07h28, mudança de planos de Vorcaro para voar de Congonhas às 08h48,
+  conversa com o jornalista Diego Escosteguy (novo na base, apontado como pago mensalmente por matérias
+  favoráveis) sobre reportagem publicada n''O Bastidor citando o inquérito sigiloso da 10ª Vara Federal,
+  uso imediato dessa reportagem por Warde para peticionar acesso aos autos e para ''infernizar'' o juiz
+  Ricardo Soares Leite (novo na base) por WhatsApp direto, vazamento à imprensa do interesse do Grupo Fictor
+  na compra do Master, e uma reunião de última hora com o Banco Central — articulada por Paulo Sérgio e
+  Belline Santana — na qual Vorcaro anunciou viagem a Dubai naquele mesmo dia. Horas depois, foi interceptado
+  em Guarulhos. A mesma reunião com o BC virou, ironicamente, argumento da DEFESA contra risco de fuga no
+  habeas corpus que soltou Vorcaro em 28/11/2025 (já no acervo) — a PF agora contesta essa leitura. Na sede
+  do Master, um quadro com o rótulo ''TITAN CAYMAN'' foi encontrado, elaborado na mesma noite da tentativa
+  de fuga. Resolve um open_question já registrado no verbete de Walfrido Warde (a mensagem ''infernizando
+  o juiz'' agora tem documento primário, não só reportagem) e esclarece o cargo real de Dennis Cali, cuja
+  associação anterior a um caso totalmente diferente (o dossiê contra Mendonça) segue como achado à parte,
+  não confirmado. Acrescenta um achado financeiro que antecede, na linha do tempo, tudo que já estava
+  registrado sobre Henrique Vorcaro (pai do banqueiro, já mapeado no acervo por fatos de maio/2026 em
+  diante): R$ 2.245.235.850,24 bloqueados em conta dele na CBSF/Reag já na 2ª fase da Compliance Zero
+  (14/01/2026) — instituição já mapeada no acervo por seu vínculo com o PCC via Operação Carbono Oculto.'
+affected_ids:
+- daniel-vorcaro
+- walfrido-warde
+- dennis-cali
+- diego-escosteguy
+- ricardo-soares-leite
+- henrique-vorcaro
+- reag-investimentos
+- paulo-sergio-neves-de-souza
+- belline-santana
+reason: Análise em lotes do acervo de 416 peças da PET 15.556 — continuação da leitura do e-Doc 1 (lote 170).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

@@ -1,0 +1,18 @@
+id: ev-vorcaro-pergunta-sobre-proximidade-com-juiz-dois-dias-antes-da-operacao
+kind: evidence
+classification: D
+proposition: Em 16/11/2025, dois dias antes da Operação Compliance Zero, Daniel Vorcaro registrou nota no celular
+  perguntando a um interlocutor não identificado se este seria próximo do juiz federal Ricardo Soares Leite, responsável
+  pela investigação então sigilosa que autorizaria sua prisão.
+document_ids:
+- doc-2026-02-27-representacao-pf-pet15556-edoc1
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+date: '2025-11-16'
+notes: A PF registra não haver, à época, razão ou meio lícito conhecido para que o alvo da investigação soubesse
+  o nome e a jurisdição do magistrado responsável pelo caso sigiloso.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

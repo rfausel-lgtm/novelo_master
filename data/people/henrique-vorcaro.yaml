@@ -14,6 +14,11 @@ summary: Pai de Daniel Vorcaro. Teve prisão preventiva decretada pelo STF em 14
   em busca contra ele documento impresso extraído do sistema Sinapse, banco de inteligência de acesso
   restrito, com consulta detalhada aos dados pessoais de Augusto Conte, ex-sócio de seu filho — indício,
   segundo a corporação, de que dispunha de servidores dispostos a acessar ilicitamente os sistemas internos.
+  RETROCESSO NA LINHA DO TEMPO (lote 171) — antes de tudo isso, já na 2ª fase da Compliance Zero (14/01/2026),
+  a PF bloqueara R$ 2.245.235.850,24 em conta dele na CBSF DTVM (nova denominação da Reag Trust) — instituição
+  liquidada pelo BC em 15/01/2026 e alvo direto da Operação Carbono Oculto, que revelou vínculo da Reag
+  com o PCC. A representação da PF de 27/02/2026 cita esse bloqueio como indício de ocultação bilionária
+  de recursos que se perpetuou mesmo após a soltura de Daniel Vorcaro em 28/11/2025.
 why_in_novelo: Teve prisão preventiva decretada e mantida pelo STF na 6ª fase da Operação Compliance Zero,
   sendo descrito pela Polícia Federal como operador financeiro do grupo investigado.
 cited_position:
@@ -37,9 +42,10 @@ source_ids:
 - src-stf-2026-05-14-sexta-fase
 - src-stf-2026-06-16-pai-e-primo
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
 full_name: Henrique Moura Vorcaro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-11'

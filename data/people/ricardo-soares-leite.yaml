@@ -1,0 +1,26 @@
+id: ricardo-soares-leite
+kind: person
+name: Ricardo Soares Leite
+category: judge
+role: Juiz federal da 10ª Vara Federal de Brasília/DF
+summary: Juiz federal da 10ª Vara Federal de Brasília/DF, que autorizou os mandados de busca e prisão da Operação
+  Compliance Zero — Fase I, cumpridos em 18/11/2025. Segundo a representação da PF de 27/02/2026, em 16/11/2025,
+  dois dias antes da operação, Daniel Vorcaro registrou nota em seu celular perguntando a um interlocutor não identificado
+  se este seria próximo dele — circunstância que a PF aponta como indício de vazamento da identidade do magistrado
+  responsável por um inquérito então sigiloso.
+why_in_novelo: É o juiz cuja identidade, segundo a PF, Vorcaro teria obtido antecipadamente e de forma irregular,
+  dois dias antes da operação que autorizou — indício central da tese de vazamento que embasou a representação por
+  prisão preventiva.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele sobre o episódio foi localizada no corpus até a data desta apuração.
+open_questions:
+- A representação da PF não identifica o interlocutor a quem Vorcaro perguntou sobre a proximidade com o juiz, nem
+  como o nome do magistrado teria chegado a ele.
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

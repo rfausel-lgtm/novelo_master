@@ -1,0 +1,18 @@
+id: ev-vorcaro-tem-amigos-no-bc-que-vazam-nomes-de-reuniao-reservada-com-pf
+kind: evidence
+classification: D
+proposition: Daniel Vorcaro registrou em seu celular, em 21/10/2025, os nomes dos representantes da Polícia Federal
+  que participaram de uma reunião reservada com o Banco Central em 17/10/2025 (entre eles o DPF Dennis Cali, diretor
+  de Investigação e Combate ao Crime Organizado e à Corrupção), atribuindo a informação a 'amigos' dentro do Bacen
+  que teriam participado da reunião e que ele não poderia 'queimar'.
+document_ids:
+- doc-2026-02-27-representacao-pf-pet15556-edoc1
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+date: '2025-10-21'
+notes: Registrado em nota no aplicativo do celular apreendido, não em mensagem trocada com terceiro.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

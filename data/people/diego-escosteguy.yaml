@@ -1,0 +1,27 @@
+id: diego-escosteguy
+kind: person
+name: Diego Escosteguy
+category: journalist
+role: Jornalista, editor do site O Bastidor
+summary: Jornalista, editor do site O Bastidor. Segundo a representação da PF de 27/02/2026, recebia pagamento regular
+  de Daniel Vorcaro — a petição cita R$ 2 milhões associados a seu nome numa lista de pagamentos mensais de Fabiano
+  Zettel — por matérias de interesse do Banco Master. Na manhã de 17/11/2025, horas antes da tentativa de fuga de
+  Vorcaro, publicou n'O Bastidor uma matéria sobre a disputa em torno da venda do Master ao BRB que mencionava o
+  inquérito em curso na 10ª Vara Federal de Brasília — link que o advogado Walfrido Warde usou no mesmo dia para
+  fundamentar petição de acesso aos autos da investigação.
+why_in_novelo: É apontado pela PF como jornalista pago pelo Banco Master cuja matéria, publicada horas antes da
+  operação Compliance Zero, foi usada pela defesa de Vorcaro para tentar obter acesso à investigação sigilosa que
+  o mirava.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele foi localizada no corpus até a data desta apuração.
+open_questions:
+- O corpus não obteve documento que discrimine com precisão a periodicidade e o total pago a ele, apenas a menção
+  a R$ 2 milhões numa lista de pagamentos mensais citada de passagem na representação da PF.
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
