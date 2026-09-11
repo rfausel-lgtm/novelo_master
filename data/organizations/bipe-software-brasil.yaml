@@ -6,7 +6,11 @@ summary: Empresa da qual David Henrique Alves é sócio-administrador único, ap
   de recebimento dos cerca de R$ 35 mil mensais pagos a ele por Luiz Phillipi Mourão pela liderança do núcleo 'Os
   Meninos'. Segundo depoimento de Victor Lima Sedlmaier, a empresa tinha contrato para uso de um software desenvolvido
   para 'analisar e mapear a reputação' de Daniel Vorcaro na internet — uma fachada empresarial formal para a atividade
-  de monitoramento e ataque digital do núcleo.
+  de monitoramento e ataque digital do núcleo. A REPRESENTAÇÃO DA PF de maio de 2026 (lote 198, PET
+  15.978) precisa que a empresa foi constituída em 25/01/2023, com capital social declarado de R$ 680
+  mil, e que, apesar do capital elevado, usa endereço compartilhado por diversas outras pessoas jurídicas
+  para recebimento de correspondência — indício, segundo a PF, de uso do endereço como mera caixa
+  postal, sem operação real no local.
 why_in_novelo: É o veículo empresarial que dava aparência lícita ao pagamento mensal ao líder do núcleo hacker da
   organização.
 cited_position:
@@ -14,6 +18,7 @@ cited_position:
   summary: Nenhuma manifestação pública localizada no corpus.
 source_ids:
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
