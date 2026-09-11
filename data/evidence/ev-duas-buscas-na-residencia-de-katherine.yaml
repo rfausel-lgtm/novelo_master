@@ -1,0 +1,24 @@
+id: ev-duas-buscas-na-residencia-de-katherine
+kind: evidence
+classification: D
+proposition: 'A residência de Katherine Venâncio Telles em Santos/SP foi alvo de duas buscas e
+  apreensões distintas. A primeira, em 06/03/2026 por volta das 6h — no dia seguinte ao depoimento dela
+  por videoconferência —, quando agentes da PF compareceram e ela entregou espontaneamente celular e
+  notebook, sem resistência. A segunda, em 14/05/2026, em cumprimento ao Mandado de Busca e Apreensão nº
+  288/2026 (deferido por André Mendonça em 13/05/2026, no bojo da representação da 6ª fase), quando foram
+  apreendidos um iPhone 17 Pro Max e um notebook Dell 13 XPS. A defesa afirma não ter localizado nos
+  autos o termo de cumprimento e o auto de apreensão dessa segunda diligência.'
+document_ids:
+- doc-2026-05-28-manifestacao-defesa-katherine
+source_ids:
+- src-stf-pet15978-edoc160-manifestacao-defesa-katherine
+date: '2026-03-06'
+notes: São dois episódios com aparelhos distintos apreendidos em cada um — não uma única diligência
+  contada duas vezes. A alegação da defesa sobre ausência de termo de apreensão da segunda busca nos
+  autos é uma questão processual levantada por ela, não um fato confirmado de forma independente pelo
+  corpus; fica registrada como ponto em aberto, não como irregularidade estabelecida.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

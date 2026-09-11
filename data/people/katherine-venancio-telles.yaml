@@ -3,13 +3,22 @@ kind: person
 name: Katherine Venâncio Telles
 category: other
 role: Vinculada a David Henrique Alves; alvo de cautelar de proibição de deixar o país na 6ª fase
-summary: Na noite de 04/03/2026, estava no carro conduzido por David Henrique Alves (a Range Rover de Luiz Phillipi
+summary: 'Na noite de 04/03/2026, estava no carro conduzido por David Henrique Alves (a Range Rover de Luiz Phillipi
   Mourão) quando ele foi abordado pela PRF transportando computadores, notebooks, caixas e malas. Segundo a PF,
   deu versão incompatível com os fatos — disse que ambos iam a Santos/SP ficar com o irmão dela enquanto os pais
-  viajavam à Europa, mas nenhum registro de viagem internacional da mãe foi localizado em 2026. Em depoimento, reconheceu
-  que a empresa de David 'trabalha/presta serviços' para Mourão. Em 05/03/2026, autorizou a entrada de Victor Lima
+  viajavam à Europa, e que nenhum registro de viagem internacional da mãe foi localizado em 2026. Em depoimento, reconheceu
+  que a empresa de David ''trabalha/presta serviços'' para Mourão. Em 05/03/2026, autorizou a entrada de Victor Lima
   Sedlmaier no apartamento já esvaziado de David em Lagoa Santa/MG. A decisão de 13/05/2026 determinou contra ela
-  proibição de deixar a comarca e o país, com entrega de passaporte.
+  proibição de deixar a comarca e o país, com entrega de passaporte. A MANIFESTAÇÃO DA DEFESA (28/05/2026, lote 209,
+  PET 15.978) contesta a alegação da PF sobre a viagem, apresentando os passaportes de sua mãe Erica Venancio e de
+  seu padrasto José Marcos e Souza (emitidos em 2018) e o bilhete de uma viagem internacional efetivamente realizada
+  em abril de 2026 — sem, porém, tratar do pai biológico dela, Fabio Da Silva Teles, que a PF afirma não possuir
+  passaporte (ver evidência dedicada para a distinção exata). A mesma manifestação traz o depoimento integral dela
+  de 05/03/2026: confirma que a empresa de David, a BIPE Software, ''pelo que lhe era explicado'', visava ''transformar
+  a empresa em um portal jornalístico'' — versão que contrasta com a descrição da PF da BIPE como fachada de
+  monitoramento digital; e confirma o endereço do apartamento de David no condomínio Golden Class, em Lagoa Santa, e
+  o novo número de telefone dele, (31) 99090-0000. Sua residência em Santos foi alvo de duas buscas — 06/03/2026
+  (celular e notebook entregues sem resistência) e 14/05/2026, por mandado (iPhone 17 Pro Max e notebook Dell XPS).'
 why_in_novelo: É apontada pela PF como quem deu cobertura à fuga de David Henrique Alves com material potencialmente
   probatório do núcleo 'Os Meninos'.
 cited_position:
@@ -20,10 +29,22 @@ cited_position:
   - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
   by_id: katherine-venancio-telles
   date: '2026-03-04'
+- kind: denial
+  summary: Sua defesa apresentou os passaportes da mãe e do padrasto dela, com viagem internacional
+    efetivamente realizada em abril de 2026, para contestar a alegação da PF de que não havia registro
+    de viagem programada, e pediu a revogação integral da cautelar de proibição de deixar o país.
+  source_ids:
+  - src-stf-pet15978-edoc160-manifestacao-defesa-katherine
+  by_id: katherine-venancio-telles
+  date: '2026-05-28'
 open_questions:
 - Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ela no corpus.
+- 'Os passaportes apresentados pela defesa são da mãe e do padrasto; não tratam da alegação específica
+  da PF sobre o pai biológico (Fabio Da Silva Teles) não possuir passaporte — ponto que a manifestação
+  da defesa não aborda diretamente.'
 source_ids:
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+- src-stf-pet15978-edoc160-manifestacao-defesa-katherine
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

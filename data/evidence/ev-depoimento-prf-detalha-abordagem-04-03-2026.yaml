@@ -1,0 +1,27 @@
+id: ev-depoimento-prf-detalha-abordagem-04-03-2026
+kind: evidence
+classification: D
+proposition: 'A defesa de Katherine Venâncio Telles transcreveu o depoimento do policial rodoviário
+  federal que abordou o veículo Range Rover conduzido por David Henrique Alves na noite de 04/03/2026 —
+  Vinicius Martins Alves, matrícula 3263.361 — precisando o local (BR-381, Km 871, próximo a Pouso
+  Alegre/MG) e o motivo formal da abordagem: irregularidade administrativa (licenciamento vencido de
+  2024), não suspeita de crime. O policial confirmou que o veículo trafegava em velocidade incompatível
+  com a via, que os ocupantes eram David (condutor) e Katherine (passageira), que havia no carro "um
+  computador grande de mesa, dois ou três notebooks, caixas e malas", e que ambos disseram estar indo
+  passar alguns dias na casa de parentes.'
+document_ids:
+- doc-2026-05-28-manifestacao-defesa-katherine
+source_ids:
+- src-stf-pet15978-edoc160-manifestacao-defesa-katherine
+date: '2026-03-04'
+notes: Complementa, com nome, matrícula e local exatos, a evidência já registrada sobre a apreensão do
+  veículo e seu conteúdo (ev-david-alves-fuga-com-equipamentos-04-03-2026) — que já tinha o essencial do
+  depoimento do policial (então não identificado) mas não a matrícula nem o motivo formal da parada. A
+  qualificação da abordagem como decorrente de irregularidade administrativa, e não de suspeita
+  criminal, é o ponto que a defesa explora para contestar a tese de fuga; o corpus registra o fato sem
+  adotar a conclusão de nenhuma das partes.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
