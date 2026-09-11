@@ -15,7 +15,15 @@ summary: 'Policial federal aposentado, apontado pela Polícia Federal como líde
   na 3ª fase, foi transferido em 15/05/2026 para presídio federal em Brasília, por determinação de Mendonça,
   sob o fundamento de que continuava recebendo informações sigilosas sobre operações policiais mesmo preso.
   Não há denúncia oferecida nem julgamento. Dados funcionais: tem 56 anos, ingressou na Polícia Federal
-  por concurso em 2008 e está aposentado desde 2022, recebendo cerca de R$ 21,9 mil mensais de aposentadoria.'
+  por concurso em 2008 e está aposentado desde 2022, recebendo cerca de R$ 21,9 mil mensais de aposentadoria.
+  A REPRESENTAÇÃO DA PF que fundamenta a 6ª fase (maio de 2026, lote 196, PET 15.978) traz o fundamento
+  concreto da transferência para o presídio federal: já preso, soube por colegas de cárcere não
+  identificados que a PF havia buscado sua residência em 13/03/2026 — nove dias após sua prisão —, e
+  recusou-se a identificar a fonte alegando risco à sua segurança ("Doutor, eu tô correndo um risco
+  grande lá que o senhor não tem noção"). O mesmo documento revela consultas ilegais dele ao sistema
+  ePol, já na ativa, com os termos "André Beraldo Vorcaro", "Daniel Vorcaro", "Daniel Bueno Vorcaro" e
+  "Banco Máxima", entre 7 e 13/12/2021 — quase três anos antes do episódio do drone de 2024, a evidência
+  mais antiga do acervo de um vínculo dele com o interesse da família Vorcaro.'
 why_in_novelo: É apontado pela Polícia Federal como o agente aposentado que teria cooptado policiais para
   acessar informações sigilosas em favor da família Vorcaro.
 cited_position:
@@ -61,6 +69,8 @@ source_ids:
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
 - src-stf-pet15556-edoc221-peticao-marilson-revogacao-prisao-02-04-2026
 - src-mpf-pgr-2026-07-21-manifestacao-marilson-belline-cvm-mourao
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

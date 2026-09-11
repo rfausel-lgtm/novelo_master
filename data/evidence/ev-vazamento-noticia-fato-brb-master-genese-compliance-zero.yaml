@@ -1,0 +1,29 @@
+id: ev-vazamento-noticia-fato-brb-master-genese-compliance-zero
+kind: evidence
+classification: D
+proposition: 'Em 16/07/2024, o MPF instaurou Notícia de Fato para apurar a demissão de dois gerentes da
+  Caixa Econômica Federal que teriam se posicionado contra a compra, pelo Banco Master, de R$ 500 milhões
+  em letras financeiras — episódio que, segundo a PF, constitui o marco inicial da própria Operação
+  Compliance Zero, que culminaria na prisão de Daniel Vorcaro em 17/11/2025. Dois dias depois, em
+  18/07/2024, Felipe Mourão já enviou a Daniel Vorcaro o arquivo do procedimento reservado, obtido pelo
+  acesso ilícito ao sistema Único do MPF. Em 30/07/2024, um novo extrato do procedimento, novamente
+  gerado pelo perfil da servidora Alina Boueres, foi enviado a Vorcaro. A PF registra ainda que Vorcaro
+  tinha, no próprio celular, a íntegra de um Relatório de Inteligência Financeira (RIF nº
+  84719.3.2793.4976) enviado à Procuradoria-Geral da República sobre o mesmo assunto.'
+document_ids:
+- doc-2026-05-representacao-pf-pet15978-sexta-fase
+source_ids:
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+excerpt: CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. Apurar eventual ocorrência de crimes contra o sistema
+  financeiro nacional e conexos, na aquisição do Banco Master S/A pelo Banco de Brasília - BRB, cujo
+  acionista majoritário é o Governo do Distrito Federal - GDF.
+date: '2024-07-16'
+notes: É o achado mais grave desta cadeia de acessos ilícitos ao MPF — não um procedimento qualquer, mas
+  o próprio documento que deu origem à investigação que, 16 meses depois, prenderia Vorcaro. Significa
+  que a organização criminosa teve acesso, em tempo real, ao nascimento da investigação que a alcançaria.
+  A PF qualifica o documento como de "natureza reservada", o que reforça a irregularidade do acesso.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

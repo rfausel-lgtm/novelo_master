@@ -1,0 +1,30 @@
+id: daniel-souza-iost
+kind: person
+category: public_official
+name: Daniel Souza Iost
+role: Servidor do Ministério Público Federal, lotado no setor SECREG-4ª/SNPD
+summary: 'Servidor do MPF. Segundo a representação da PF de maio de 2026 (PET 15.978), o login institucional
+  dele foi usado em 23/07/2025 para uma consulta ao sistema Único do MPF usando o CPF de Daniel Bueno
+  Vorcaro como parâmetro, que retornou 15 procedimentos relacionados a ele, dos quais 11 sigilosos. A
+  PF identificou que houve tentativa de ocultar a identificação do usuário no documento (um hachurado
+  branco sobre nome e setor), mas os dados eram recuperáveis ao copiar o texto encoberto. Assim como no
+  caso da colega Alina Boueres, a PF registra não saber, até a data do documento, se as credenciais dele
+  foram usadas com seu conhecimento ou obtidas sem ele.'
+why_in_novelo: É o segundo servidor do Ministério Público Federal cujo login institucional foi identificado
+  como canal de acesso ilícito da organização de Daniel Vorcaro a procedimentos sigilosos que o
+  investigavam.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele localizada no corpus até a data desta apuração.
+open_questions:
+- 'A própria PF registra explicitamente não ter, até a data do documento, elementos para concluir se
+  houve uso indevido do perfil dele por terceiros ou participação consciente — agravado pelo indício de
+  que alguém tentou ocultar a identificação dele no próprio material usado como prova, o que tanto pode
+  sugerir dissimulação de uso indevido quanto tentativa dele de apagar rastros.'
+source_ids:
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

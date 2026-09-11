@@ -1,0 +1,36 @@
+id: src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+kind: source
+title: Representação da PF que fundamenta a 6ª fase da Compliance Zero (e-Doc 2, PET 15.978)
+publisher: Polícia Federal — CINQ/CGRC/DICOR/PF
+author: Delegados de Polícia Federal Victor Barbabella Negraes e Verônica Snoeck Salles
+publication_date: '2026-05'
+date_precision: month
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7514958
+source_type: official_police
+summary: 'Representação de 243 páginas da Polícia Federal ao STF, dirigida ao ministro André Mendonça, que
+  fundamenta as prisões preventivas e cautelares decretadas na decisão de 13/05/2026 (6ª fase, e-Doc 28,
+  já no acervo). É a peça bruta e integral por trás daquela decisão — traz a análise completa dos núcleos
+  "A Turma" e "Os Meninos", com prints de conversas, tabelas de pagamento e depoimentos na íntegra, incluindo
+  material não resumido na decisão: as contradições no depoimento de Marilson Roseno da Silva (obtenção de
+  informação sigilosa dentro da prisão; histórico de consultas ilegais desde dezembro de 2021); o acesso
+  ilícito da organização a sistemas do Ministério Público Federal e da própria Polícia Federal, incluindo
+  um documento forjado enviado à Interpol num plano de intimidação contra um DJ; e o detalhamento completo
+  do núcleo "Os Meninos" (identificação de campo de David Henrique Alves, Victor Lima Sedlmaier e Rodrigo
+  Pimenta Franco Avelar Campos, e o histórico de ataques a perfis de críticos do banco).
+  Não traz data de assinatura legível no corpo do documento (apenas "Brasília/DF, na data da assinatura
+  eletrônica"), mas antecede a decisão de 13/05/2026 que a acolhe integralmente.'
+notes: 'Documento obtido pelo próprio Rafael via certificado digital, parte do download completo da PET 15.978
+  (378 peças) — mesma política de divulgação já aplicada à PET 15.556 e ao e-Doc 28 desta mesma petição:
+  informação pode ser usada e citada oficialmente, PDF original não é redistribuído. Os três anexos DOCSDEIDENTIF
+  do acervo (documentos de identificação pessoal) não foram abertos, por política do projeto.'
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador (leitura integral, 243 páginas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,28 @@
+id: ev-henrique-vorcaro-sabia-antecipadamente-mandado-prisao
+kind: evidence
+classification: A
+proposition: Em depoimento, Marilson Roseno da Silva relatou que Henrique Vorcaro, antes de ser preso
+  (por volta de dezembro de 2025), telefonou-lhe na presença de Luiz Phillipi Mourão e afirmou já saber
+  que "vai sair um mandado de prisão" contra ele, perguntando a Marilson se ele sabia de algo. Marilson
+  negou. Questionado por que Henrique já sabia, Marilson especulou que haveria um "ex-colega" seu, da PF,
+  "que trabalha lá dentro do banco" — possivelmente um "ex-superintendente" ou "ex-diretor" — repassando
+  informações a Henrique e a Mourão.
+document_ids:
+- doc-2026-05-representacao-pf-pet15978-sexta-fase
+source_ids:
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+excerpt: Parece que tem um ex-colega da PF que trabalha lá dentro do banco. Felipe falou alguma coisa
+  nesse sentido. Não sei se é ex-superintendente, ex-diretor...
+attributed_to_id: marilson-roseno-da-silva
+date: '2025-12'
+notes: É especulação do próprio Marilson em depoimento, não confirmada pela PF — que, aliás, usa o
+  restante do depoimento dele para desqualificar sua credibilidade, contrapondo suas declarações às
+  conversas de WhatsApp extraídas. A hipótese de um ex-policial "dentro do banco" (isto é, do Banco
+  Master) como fonte adicional de vazamento, distinta do próprio núcleo "A Turma", não foi investigada
+  a fundo neste documento e permanece em aberto. Não identificado o suposto "ex-colega" nem confirmada
+  a existência desse canal de informação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

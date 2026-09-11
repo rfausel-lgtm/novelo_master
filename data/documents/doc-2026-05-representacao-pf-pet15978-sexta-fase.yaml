@@ -1,0 +1,33 @@
+id: doc-2026-05-representacao-pf-pet15978-sexta-fase
+kind: document
+title: Representação da PF pela 6ª fase da Compliance Zero
+doc_type: judicial_filing
+date: '2026-05'
+date_precision: month
+source_ids:
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+summary: Representação de 243 páginas que fundamenta a decisão de 13/05/2026 (6ª fase). Detalha, com prints
+  de conversas e depoimentos, a atuação de Henrique Vorcaro e do núcleo "A Turma", as contradições no
+  depoimento de Marilson Roseno da Silva (vazamento de informação sigilosa dentro da prisão; consultas
+  ilegais desde dezembro de 2021), o acesso ilícito a sistemas do Ministério Público Federal e da Polícia
+  Federal — incluindo um ofício forjado enviado à Interpol — e a identificação de campo dos três integrantes
+  do núcleo hacker "Os Meninos".
+is_official: true
+related_entity_ids:
+- henrique-vorcaro
+- daniel-vorcaro
+- marilson-roseno-da-silva
+- luiz-phillipi-mourao
+- david-henrique-alves
+- victor-lima-sedlmaier
+- rodrigo-pimenta-franco-avelar-campos
+issuer_id: policia-federal
+issuer: Delegados de Polícia Federal Victor Barbabella Negraes e Verônica Snoeck Salles
+reference: 'PF, representação (e-Doc 2, PET 15.978), maio de 2026'
+excerpt: 'Doutor, eu tô correndo um risco grande lá que o senhor não tem noção... Desejo não falar porque
+  eu corro risco.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
