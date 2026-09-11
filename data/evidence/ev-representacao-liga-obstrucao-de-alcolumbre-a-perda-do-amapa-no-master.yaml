@@ -1,0 +1,23 @@
+id: ev-representacao-liga-obstrucao-de-alcolumbre-a-perda-do-amapa-no-master
+kind: evidence
+classification: A
+proposition: Em representação apresentada ao STF em 09/03/2026 — seis meses antes de o editor levantar
+  hipótese semelhante (lote 167) —, um advogado em nome próprio já articulava formalmente a tese de que a
+  omissão de Davi Alcolumbre em pautar pedidos de impeachment contra ministros do STF e em instalar CPI
+  sobre o Banco Master estaria ligada a conflito de interesse, citando a perda de R$ 400 milhões do fundo
+  de previdência do Amapá (estado que Alcolumbre representa) aplicados no Master.
+document_ids: []
+source_ids:
+- src-stf-pet15556-edoc82-representacao-emerson-pontes-alcolumbre-09-03-2026
+attributed_to: Emerson Henriques Pontes, advogado, em representação individual ao STF
+date: '2026-03-09'
+notes: É a alegação de uma única pessoa física, sem mandato institucional, pedindo o afastamento cautelar
+  do presidente do Senado — não há no corpus notícia de que o STF tenha dado seguimento. Registra-se como
+  evidência de que a teoria do conflito de interesse já circulava formalmente em março de 2026, não apenas
+  no episódio Alcolumbre-Flávio Bolsonaro de setembro — mas não estabelece, por si só, nenhuma relação causal
+  comprovada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
