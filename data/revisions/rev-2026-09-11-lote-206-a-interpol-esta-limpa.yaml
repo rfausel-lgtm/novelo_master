@@ -1,0 +1,25 @@
+id: rev-2026-09-11-lote-206-a-interpol-esta-limpa
+kind: revision
+date: '2026-09-11'
+title: 'Lote 206 — "A interpol está limpa": o indício de uma dimensão internacional'
+summary: 'Terceiro lote do e-Doc 3 da PET 15.978 (IPJ-A nº 1070759/2026). O achado mais significativo:
+  em 24/10/2025, Felipe Mourão enviou a Vorcaro um print com logotipo da Interpol, campo do requisitante
+  ocultado, mostrando o próprio nome de Vorcaro usado como critério de busca, com as mensagens "A interpol
+  está limpa" e "Estamos aguardando o relatório principal do FBI". A Polícia Federal consultou o órgão de
+  representação da Interpol no Brasil, que confirmou que o layout do print NÃO corresponde a nenhum
+  mecanismo de busca real da Interpol — mas ponderou que poderia ser sistema de outro país integrado a
+  uma base offline construída com dados da Interpol, prática que atribui, a título de exemplo, aos EUA;
+  nesse caso, o usuário muito provavelmente não seria brasileiro. É o único indício, em todo o acervo, de
+  possível dimensão internacional no acesso a bases de segurança — a PF pondera a hipótese sem afirmá-la
+  como fato, e levanta alternativa de que o material tenha sido produzido pelo próprio núcleo hacker "Os
+  Meninos". O lote também identifica, pela primeira vez, o alvo da já registrada mensagem "Preciso matar
+  esse cara" (25/07/2025): um contato internacional chamado Sean Monteine, contra quem "A Turma" chegou a
+  telefonar se passando pela Polícia Federal.'
+affected_ids:
+- sean-monteine
+- daniel-vorcaro
+reason: Análise em lotes do novo acervo de 378 peças da PET 15.978, doado pelo Rafael — terceiro lote do
+  e-Doc 3 (IPJ-A nº 1070759/2026, análise do chat Vorcaro–Mourão).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

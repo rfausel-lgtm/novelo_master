@@ -13,11 +13,14 @@ document_ids:
 source_ids:
 - src-stf-pet15978-edoc2-representacao-pf-sexta-fase
 date: '2025-09-15'
-notes: A auditoria da PF sobre a origem do acesso (Juiz de Fora/MG) e a menção a FBI/Interpol estavam em
-  curso à data do documento — não há, neste material, identificação de qual servidor específico da
-  delegacia de Juiz de Fora teria fornecido o acesso, nem detalhamento do que foi obtido junto a FBI ou
-  Interpol. A PF atribui esse canal, de forma geral, a Marilson Roseno e Anderson Wander da Silva Lima,
-  que já constam do acervo como operadores de consultas ilegais ao ePol em favor de Vorcaro.
+notes: 'A auditoria da PF sobre a origem do acesso (Juiz de Fora/MG) estava em curso à data do documento
+  — não há, neste material, identificação de qual servidor específico da delegacia teria fornecido o
+  acesso. A PF atribui esse canal, de forma geral, a Marilson Roseno e Anderson Wander da Silva Lima, já
+  registrados como operadores de consultas ilegais ao ePol em favor de Vorcaro. A menção genérica a FBI
+  e Interpol aqui provavelmente se refere ao mesmo episódio detalhado em evidência separada (lote 206,
+  ev-consulta-nome-vorcaro-em-base-associada-a-interpol-fbi): um print de 24/10/2025 em que Mourão afirma
+  "A interpol está limpa" e menciona aguardar "relatório do FBI" — a Interpol confirmou à PF que o layout
+  do print não corresponde a nenhum de seus sistemas reais.'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

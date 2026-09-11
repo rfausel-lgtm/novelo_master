@@ -1,0 +1,35 @@
+id: ev-consulta-nome-vorcaro-em-base-associada-a-interpol-fbi
+kind: evidence
+classification: D
+proposition: 'Em 24/10/2025, Felipe Mourão enviou a Daniel Vorcaro um print de tela com o logotipo da
+  Interpol, em que o campo de identificação de quem fez a pesquisa aparecia deliberadamente oculto, com
+  as mensagens "Estamos aguardando o relatório principal do FBI" e "A interpol está limpa". O print
+  mostrava o próprio nome de Daniel Vorcaro usado como critério de busca em um site que, segundo Mourão,
+  estaria vinculado à Interpol. Ao investigar o episódio, a Polícia Federal consultou o órgão de
+  representação da Interpol no Brasil, que respondeu que o layout compartilhado NÃO corresponde a nenhum
+  mecanismo de busca disponibilizado pela própria Interpol — mas ponderou que pode se tratar de sistema de
+  outro país integrado a uma base de dados "offline", construída a partir do download de Notices
+  publicadas pela Interpol (procedimento que, segundo a Interpol, é adotado por exemplo pelos EUA); nesse
+  caso, apenas o país que mantém tal sistema poderia identificar o usuário responsável, e é provável que
+  não se trate de usuário brasileiro.'
+document_ids:
+- doc-2026-02-ipja-1070759-analise-chat-vorcaro-mourao
+source_ids:
+- src-stf-pet15978-edoc3-ipja-analise-chat-vorcaro-mourao
+excerpt: A interpol está limpa
+date: '2025-10-24'
+notes: 'É o único indício, em todo o acervo até este ponto, de uma possível dimensão internacional no
+  acesso a bases de segurança usadas para monitorar a própria situação de Vorcaro perante a Justiça — os
+  demais episódios de acesso ilícito documentados (MPF, PF, ePol) são inteiramente nacionais. A PF NÃO
+  conclui que houve corrupção de agente estrangeiro: registra que o print não corresponde a um sistema
+  real da Interpol, levanta como hipótese alternativa que os próprios hackers do núcleo "Os Meninos"
+  possam ter produzido ou obtido o material, e trata a hipótese de "cooperação obscura" com agentes de
+  outros países mediante vantagem financeira como possibilidade a ser considerada, não como fato
+  estabelecido — linguagem da própria autoridade policial ("não se pode olvidar", "podem... ter operado").
+  Não há identificação de qualquer agente estrangeiro específico, nem confirmação de que o "relatório do
+  FBI" mencionado por Mourão exista de fato.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

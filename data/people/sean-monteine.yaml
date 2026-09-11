@@ -1,0 +1,29 @@
+id: sean-monteine
+kind: person
+category: other
+name: Sean Monteine
+role: Apontado por Daniel Vorcaro como autor de uma filmagem dele com a filha
+summary: 'Contato internacional (número de telefone estrangeiro) identificado por Daniel Vorcaro, em
+  25/07/2025, como quem teria filmado ele com a filha e espalhado o vídeo na internet — episódio em que
+  Vorcaro escreveu a Felipe Mourão "Preciso matar esse cara". A análise do chat entre os dois (IPJ-A nº
+  1070759/2026, PET 15.978) mostra que, a partir dessa identificação, Vorcaro mandou ligar "como Polícia
+  Federal do Brasil" para o estabelecimento Amor St Tropez pedindo os nomes de todos à mesa, Mourão
+  confirmou que "A Turma" telefonou para ele, e há registro de conversas diretas entre o policial federal
+  aposentado Marilson Roseno da Silva e ele sobre o episódio.'
+why_in_novelo: É o alvo nomeado da mensagem "Preciso matar esse cara", de Daniel Vorcaro — um dos poucos
+  episódios do acervo em que o núcleo de intimidação foi mobilizado com contato telefônico direto,
+  incluindo ligação com uso indevido da identidade da Polícia Federal, contra pessoa fora do Brasil.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação dele foi localizada no corpus.
+open_questions:
+- 'A acusação de que ele filmou Vorcaro e divulgou o vídeo é alegação exclusiva do próprio Vorcaro, sem
+  corroboração independente no acervo; o documento não registra o teor do contato feito por "A Turma"
+  nem qualquer desdobramento posterior.'
+source_ids:
+- src-stf-pet15978-edoc3-ipja-analise-chat-vorcaro-mourao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

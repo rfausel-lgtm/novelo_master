@@ -7,16 +7,22 @@ proposition: 'Em 25/07/2025, Daniel Vorcaro escreveu a Luiz Phillipi Mourão que
   por Vorcaro, respondeu: "sabe quem é? Vou pra cima".'
 document_ids:
 - doc-2026-02-ipja-extracao-celular-vorcaro
+- doc-2026-02-ipja-1070759-analise-chat-vorcaro-mourao
 source_ids:
 - src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+- src-stf-pet15978-edoc3-ipja-analise-chat-vorcaro-mourao
 excerpt: Preciso matar esse cara
 date: '2025-07-25'
-notes: 'A pessoa filmada junto com Vorcaro é filha dele e seu nome, que consta do documento, não é
-  reproduzido aqui por ser dado pessoal de terceiro sem relevância para o fato apurado. O documento não
-  identifica o autor da filmagem, não registra desdobramento da conversa e não indica que algo tenha sido
-  executado — o que está documentado é a ordem verbal e a adesão imediata de Mourão. A frase se soma a
-  outras do mesmo padrão já no acervo, como o plano de simular assalto contra o jornalista Lauro Jardim
-  e a determinação de "sacode" contra ex-funcionários, e é nesse conjunto que a PF a lê.'
+notes: 'A pessoa filmada junto com Vorcaro é filha dele, identificada no documento como Stella; seu nome
+  não é reproduzido aqui por ser dado pessoal de terceiro sem relevância para o fato apurado. A análise
+  do chat (IPJ-A nº 1070759/2026, lote 206) mostra o desdobramento imediato desta mesma conversa: Vorcaro
+  identificou o autor como "Sean" (contato salvo como Sean Monteine, de número internacional) e mandou
+  que ligassem "como Polícia Federal do Brasil" para o estabelecimento Amor St Tropez, pedindo os nomes
+  de todos à mesa; Felipe Mourão confirmou que "A Turma" ligou para Sean, e há registro de conversas
+  diretas entre Marilson Roseno da Silva e ele sobre o episódio. O documento não indica que algo além do
+  contato telefônico e do levantamento de dados tenha sido executado. A frase se soma a outras do mesmo
+  padrão já no acervo, como o plano de simular assalto contra o jornalista Lauro Jardim e a determinação
+  de "sacode" contra ex-funcionários, e é nesse conjunto que a PF a lê.'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
