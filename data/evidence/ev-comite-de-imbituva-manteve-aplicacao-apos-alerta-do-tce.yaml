@@ -1,0 +1,17 @@
+id: ev-comite-de-imbituva-manteve-aplicacao-apos-alerta-do-tce
+kind: evidence
+classification: D
+proposition: Em 19/08/2025, o Comitê de Investimentos do Fundo de Previdência de Imbituva deliberou, por unanimidade,
+  manter a aplicação em Letra Financeira do Banco Master, mesmo após o TCE-PR ter apontado a irregularidade e determinado
+  assembleia para deliberar sobre manutenção ou desinvestimento — decisão tomada cerca de três meses antes da liquidação
+  extrajudicial do banco.
+document_ids:
+- doc-2026-04-06-despacho-tcepr-imbituva-tomada-contas
+source_ids:
+- src-tcepr-2026-04-06-despacho-zucchi-imbituva-tomada-contas
+date: '2025-08-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

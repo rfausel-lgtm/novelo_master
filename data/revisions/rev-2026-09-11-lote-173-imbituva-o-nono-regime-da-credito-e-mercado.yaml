@@ -1,0 +1,33 @@
+id: rev-2026-09-11-lote-173-imbituva-o-nono-regime-da-credito-e-mercado
+kind: revision
+date: '2026-09-11'
+title: 'Lote 173 — Imbituva: o nono regime da Crédito & Mercado, e a primeira Tomada de Contas Extraordinária que a nomeia'
+summary: 'Quarto documento explorado do acervo de 416 peças da PET 15.556, encontrado por uma varredura de
+  novidade (script `pet15556_novelty.py`, que cruza nomes próprios com termos-chave já mapeados) — o e-Doc
+  268 bateu com ''crédito e mercado'', ''letra financeira'' e ''credenciamento'', termos da frente já aberta
+  nos lotes 164-166. É um despacho do TCE-PR (Conselheiro Augustinho Zucchi, 06/04/2026) que converte
+  representação contra o Fundo de Previdência Municipal de Imbituva (PR) em Tomada de Contas Extraordinária,
+  por dano ao erário de cerca de R$ 4 milhões decorrente de aplicação em Letra Financeira do Banco Master —
+  um NONO regime ligado à consultoria Crédito & Mercado, não constante da lista de sete institutos + SGOPrev
+  + Congonhas já mapeada. A peça registra que o Comitê de Investimentos do fundo deliberou, por unanimidade,
+  em 19/08/2025, manter a aplicação mesmo após alerta do TCE — decisão tomada cerca de três meses antes da
+  liquidação do banco — e documenta um erro de lançamento no CADPREV (a corretora Genial Investimentos
+  registrada como emissora, em vez do Banco Master, depois corrigido). O achado mais forte: pela primeira
+  vez no acervo, um órgão de controle nomeia formalmente a Crédito e Mercado Engenharia Financeira Ltda
+  como corresponsável solidária pelo dano ao erário, com base no art. 8º-A da Lei 9.717/98, ao lado dos
+  quatro dirigentes do fundo — Claudinei Galvão da Silva (presidente), Amilton Tiago de Souza (gestor de
+  recursos), Emerson José Pedroso (presidente do comitê de investimentos) e Maiara Hass (integrante do
+  comitê), todos citados para defesa em 15 dias. Criadas as entidades do Fundo de Previdência de Imbituva,
+  do TCE-PR e dos quatro citados.'
+affected_ids:
+- credito-e-mercado
+- fundo-de-previdencia-municipal-de-imbituva
+- tribunal-de-contas-do-estado-do-parana
+- claudinei-galvao-da-silva
+- amilton-tiago-de-souza
+- emerson-jose-pedroso
+- maiara-hass
+reason: Análise em lotes do acervo de 416 peças da PET 15.556 — achado da varredura de novidade por termos-chave.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

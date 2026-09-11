@@ -1,0 +1,22 @@
+id: maiara-hass
+kind: person
+name: Maiara Hass
+category: public_official
+role: Membro do Comitê de Investimentos do Fundo de Previdência Municipal de Imbituva (PR)
+summary: Integrante do Comitê de Investimentos do Fundo de Previdência Municipal de Imbituva (PR). Citada pelo TCE-PR,
+  em Tomada de Contas Extraordinária de 06/04/2026, como uma das responsáveis solidárias pelo dano ao erário decorrente
+  da aplicação do fundo em Letra Financeira do Banco Master.
+why_in_novelo: É integrante do comitê de investimentos citada pelo TCE-PR como responsável pelo dano da aplicação
+  no Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dela foi localizada no corpus até a data desta apuração; tem prazo de 15
+    dias, a partir do despacho, para apresentar defesa.
+open_questions: []
+source_ids:
+- src-tcepr-2026-04-06-despacho-zucchi-imbituva-tomada-contas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,30 @@
+id: src-tcepr-2026-04-06-despacho-zucchi-imbituva-tomada-contas
+kind: source
+title: Despacho nº 426/26-GCAZ — conversão em Tomada de Contas Extraordinária (Fundo de Previdência de Imbituva)
+publisher: Tribunal de Contas do Estado do Paraná — Gabinete do Conselheiro Augustinho Zucchi
+author: Conselheiro Augustinho Zucchi
+publication_date: '2026-04-06'
+retrieved_at: '2026-09-11'
+url: https://www.tce.pr.gov.br
+source_type: official_court
+summary: Despacho no Processo nº 451436/25 do TCE-PR que converte em Tomada de Contas Extraordinária a Representação
+  da Coordenadoria de Acompanhamento de Atos de Gestão (CAGE) contra o Fundo de Previdência Municipal de Imbituva,
+  por aplicação de cerca de R$ 4 milhões em Letra Financeira do Banco Master em desacordo com a política de investimentos,
+  resolução do CMN e princípios de prudência do RPPS. Nomeia como responsáveis pelo dano ao erário o presidente
+  do fundo Claudinei Galvão da Silva, o gestor de recursos Amilton Tiago de Souza, o presidente do comitê de investimentos
+  Emerson José Pedroso, a integrante do comitê Maiara Hass, e a consultoria Crédito e Mercado Engenharia Financeira
+  Ltda, citada para apresentar defesa em 15 dias. Registra que, em 19/08/2025, o Comitê de Investimentos deliberou
+  por unanimidade manter a aplicação mesmo após alerta do TCE, e que houve erro de lançamento no CADPREV registrando
+  'Genial Investimentos' (a corretora) como emissora, em vez do Banco Master — corrigido posteriormente.
+notes: Peça anexa à representação da PF na PET 15.556 (e-Doc 268), obtida pela equipe em 11/09/2026 via certificado
+  digital do editor, após o levantamento de sigilo da PET 15.556 (lote 168).
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador (leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

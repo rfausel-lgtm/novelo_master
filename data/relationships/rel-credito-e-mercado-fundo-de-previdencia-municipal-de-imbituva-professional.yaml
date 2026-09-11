@@ -1,0 +1,33 @@
+id: rel-credito-e-mercado-fundo-de-previdencia-municipal-de-imbituva-professional
+kind: relationship
+from_id: credito-e-mercado
+to_id: fundo-de-previdencia-municipal-de-imbituva
+relationship_type: professional
+directed: true
+label: assessorava o fundo e foi citada como corresponsável pelo dano ao erário
+description: A Crédito & Mercado assessorava o Fundo de Previdência Municipal de Imbituva e foi citada pelo TCE-PR,
+  em Tomada de Contas Extraordinária de 06/04/2026, como corresponsável solidária pelo dano de cerca de R$ 4 milhões
+  decorrente da aplicação do fundo em Letra Financeira do Banco Master — a medida de responsabilização mais formal
+  já registrada entre os casos da consultoria no acervo.
+evidence_class: D
+confidence: 0.8
+status: disputed
+evidence_ids:
+- ev-tcepr-converte-em-tomada-de-contas-e-nomeia-credito-e-mercado-como-responsavel
+document_ids:
+- doc-2026-04-06-despacho-tcepr-imbituva-tomada-contas
+source_ids:
+- src-tcepr-2026-04-06-despacho-zucchi-imbituva-tomada-contas
+cited_position:
+- kind: denial
+  summary: A Crédito & Mercado afirma, em declaração geral anterior a este caso, que nunca foi consultada sobre
+    investimentos no Banco Master e que não emitiu parecer técnico sobre o tema.
+  source_ids:
+  - src-credito-e-mercado-formulario-referencia-cvm
+  by_id: credito-e-mercado
+  date: 2026-08
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
