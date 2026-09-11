@@ -4,11 +4,19 @@ name: Sebastião Monteiro Júnior
 category: police
 role: Agente aposentado da Polícia Federal
 positions: []
-summary: Agente aposentado da PF, preso na 6ª fase da Operação Compliance Zero, em 14/05/2026, como integrante
+summary: 'Agente aposentado da PF, preso na 6ª fase da Operação Compliance Zero, em 14/05/2026, como integrante
   do núcleo apontado pela corporação como responsável por obter informações sigilosas em favor da família
   Vorcaro. Em 19/06/2026, sua defesa protocolou pedido de revogação da prisão preventiva, alegando falta
-  de provas e afirmando que ele estaria 'exposto a risco concreto e atual à sua integridade física e à
-  sua vida'; a decisão sobre esse pedido não foi localizada. Não há denúncia oferecida nem julgamento.
+  de provas e afirmando que ele estaria ''exposto a risco concreto e atual à sua integridade física e à
+  sua vida''; a decisão sobre esse pedido não foi localizada. Não há denúncia oferecida nem julgamento.
+  A DECISÃO DA 6ª FASE (13/05/2026, lote 195, PET 15.978), fonte primária, usa a grafia ''Monteiro''.
+  Detalha padrão de comunicação clandestino: usava terminal internacional (+1 201 279 8461, dos EUA),
+  salvo no celular de Marilson como ''Sebastião/SP PF''; mensagens anteriores a 01/03/2026 eram
+  automaticamente apagadas. Em 01/03/2026, teve encontro presencial reservado com Marilson (cerca de 1h10),
+  após este recusar sair e chamá-lo até sua casa dizendo estar ''com uma turma que pode atrapalhar''. Em
+  02/03/2026, um dia antes da 3ª fase, trocou mensagens com Marilson (''reunião sem êxito'') no mesmo
+  intervalo em que a PF registrou Marilson dentro do carro de Mourão tentando contato com Henrique Vorcaro
+  e Manoel Mendes — levando a PF a concluir que o encontro envolvia todos eles.'
 why_in_novelo: Integrante apontado do núcleo de policiais e ex-policiais que teria fornecido informações
   sigilosas à família Vorcaro.
 cited_position:
@@ -20,16 +28,18 @@ cited_position:
   by_id: sebastiao-monteiro-junior
   date: '2026-06-19'
 open_questions:
-- 'Há divergência de grafia do sobrenome entre veículos: O Tempo, CNN Brasil e Poder360 registram ''Monteiro'';
-  a Gazeta do Povo registra ''Moreira''. A equipe não localizou documento primário que fixe a grafia.'
+- 'RESOLVIDO (lote 195): a decisão de 13/05/2026, fonte primária, usa a grafia ''Monteiro'' — mesma grafia
+  de O Tempo, CNN Brasil e Poder360; a divergência da Gazeta do Povo (''Moreira'') fica registrada como
+  imprecisão daquele veículo.'
 - Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ele no corpus.
 source_ids:
 - src-metropoles-2026-06-19-sebastiao-teme-integridade
 - src-cnnbrasil-2026-05-14-agente-infiltrado-vorcaro
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 aliases:
 - Sebastião Moreira Júnior
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-11'

@@ -7,7 +7,10 @@ positions: []
 summary: Agente aposentado da PF, casado com a delegada Valéria Vieira Pereira da Silva. Alvo de busca
   e apreensão na 6ª fase da Operação Compliance Zero, em 14/05/2026. Segundo a decisão judicial, seria
   o intermediário que repassava a Marilson Roseno da Silva as informações obtidas em consultas indevidas
-  ao sistema e-Pol. Sua defesa, comum à da esposa, nega. Não há denúncia oferecida nem julgamento.
+  ao sistema e-Pol. Sua defesa, comum à da esposa, nega. Não há denúncia oferecida nem julgamento. A decisão
+  da 6ª fase (13/05/2026, lote 195, PET 15.978) precisa que o inquérito indevidamente acessado é o de nº
+  2023.0064343 (o mesmo em que Henrique Vorcaro fora intimado); mantinha relação próxima e de confiança com
+  Marilson, comprovada por registros telemáticos, com indícios de exclusão de mensagens entre os dois.
 why_in_novelo: Apontado pela PF como intermediário no repasse de informações sigilosas ao núcleo que servia
   à família Vorcaro.
 cited_position:
@@ -23,8 +26,9 @@ open_questions:
 source_ids:
 - src-otempo-2026-05-14-delegada-e-agentes-abasteciam-vorcaro
 - src-cnnbrasil-2026-05-14-delegada-afastada
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-11'

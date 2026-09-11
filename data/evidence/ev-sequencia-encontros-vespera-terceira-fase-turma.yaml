@@ -1,0 +1,21 @@
+id: ev-sequencia-encontros-vespera-terceira-fase-turma
+kind: evidence
+classification: D
+proposition: A decisão de 13/05/2026 reconstrói, por cruzamento de mensagens e diligências externas, uma
+  sequência de encontros e contatos entre Marilson Roseno da Silva, Sebastião Monteiro Júnior, Luiz Phillipi
+  Mourão, Henrique Vorcaro e Manoel Mendes Rodrigues nos dias 01 a 03/03/2026 — véspera da 3ª fase da
+  Operação Compliance Zero (04/03/2026) — incluindo um encontro reservado de cerca de 1h10 entre Marilson
+  e Sebastião em 01/03/2026, e contatos telefônicos simultâneos entre Marilson (dentro do carro de Mourão),
+  Henrique Vorcaro e Manoel Mendes em 02-03/03/2026.
+document_ids:
+- doc-2026-05-13-decisao-pet15978-sexta-fase-os-meninos
+source_ids:
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+date: '2026-03-03'
+notes: A conclusão de que o mesmo encontro envolvia todos os citados é inferência da PF a partir de dados
+  de geolocalização e registros telefônicos, não de confissão ou prova direta de conteúdo da conversa.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

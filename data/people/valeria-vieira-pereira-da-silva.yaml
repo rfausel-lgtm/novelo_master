@@ -11,7 +11,12 @@ summary: 'Afastada preventivamente do cargo por decisão do ministro André Mend
   de informações sigilosas ao grupo criminoso'': teria acessado, sem atribuição legal, pelo sistema e-Pol,
   inquérito de 2024 da Superintendência da PF em São Paulo — exatamente aquele em que Henrique Vorcaro
   fora intimado. É casada com o agente aposentado Francisco José Pereira da Silva, apontado como intermediário
-  do repasse. Sua defesa nega. Não há denúncia oferecida nem julgamento.'
+  do repasse. Sua defesa nega. Não há denúncia oferecida nem julgamento.
+  A DECISÃO DA 6ª FASE (13/05/2026, lote 195, PET 15.978), fonte primária, precisa: o inquérito é o de nº
+  2023.0064343, e ela estava lotada, desde 2006, na Delegacia de Polícia Fazendária em Minas Gerais, sem
+  qualquer atribuição relacionada a ele. A PF não localizou comunicações diretas entre ela e Marilson — a
+  hipótese é de que Francisco atuava como intermediário para reduzir os rastros da participação dela; há
+  indícios de exclusão de conversas do casal.'
 why_in_novelo: Apontada pela PF como a delegada que acessou indevidamente o inquérito que interessava
   à família Vorcaro.
 cited_position:
@@ -29,8 +34,9 @@ open_questions:
 source_ids:
 - src-cnnbrasil-2026-05-14-delegada-afastada
 - src-otempo-2026-05-14-delegada-e-agentes-abasteciam-vorcaro
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-11'
