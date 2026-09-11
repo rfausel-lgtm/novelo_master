@@ -5,7 +5,13 @@ import { SITE } from "@/lib/site";
 import { PageShell, PageTitle } from "@/components/entity/PageShell";
 import { EmptyState } from "@/components/entity/Section";
 import { artesPorRevisao } from "@/lib/social";
-import { POR_PAGINA, hrefDaPagina, rotuloDoIntervalo, totalDePaginas } from "@/lib/atualizacoes";
+import {
+  POR_PAGINA,
+  hrefDaPagina,
+  janelaDePaginas,
+  rotuloDoIntervalo,
+  totalDePaginas,
+} from "@/lib/atualizacoes";
 
 const LABEL: Record<string, string> = {
   people: "pessoas",
@@ -16,6 +22,42 @@ const LABEL: Record<string, string> = {
   sources: "fontes",
   evidence: "evidências",
 };
+
+/**
+ * Seta da barra de paginação. Na primeira e na última página ela vira um `<span>` opaco em vez de
+ * sumir: some, e a barra inteira desloca; fica, e o leitor vê que chegou ao fim.
+ */
+function Seta({
+  para,
+  rel,
+  rotulo,
+  simbolo,
+}: {
+  para: string | null;
+  rel: "prev" | "next";
+  rotulo: string;
+  simbolo: string;
+}) {
+  const base =
+    "inline-flex h-10 min-w-10 items-center justify-center rounded-md border px-2 text-base";
+  if (!para) {
+    return (
+      <span aria-hidden="true" className={`${base} border-border text-fg-3 opacity-40`}>
+        {simbolo}
+      </span>
+    );
+  }
+  return (
+    <Link
+      href={para}
+      rel={rel}
+      aria-label={rotulo}
+      className={`${base} border-border text-fg-2 hover:border-fg-3 hover:text-fg focus-visible:outline-accent transition-colors`}
+    >
+      <span aria-hidden="true">{simbolo}</span>
+    </Link>
+  );
+}
 
 export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
   const todas = allRevisions();
@@ -107,57 +149,83 @@ export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
       )}
 
       {/*
-        Rótulo em cima, numa linha só dele, e as setas embaixo.
+        Paginação numerada, que é a forma convencional de navegar conteúdo — o leitor já sabe operar
+        sem instrução. As setas sozinhas não serviam: com 21 páginas, chegar ao começo do acervo
+        exigiria vinte cliques.
 
-        A tentativa anterior punha os três lado a lado numa grade `1fr auto 1fr`, contando com as
-        colunas das pontas para centrar o rótulo. Medido em produção, isso só vale em tela larga: a
-        375 px não sobra espaço, as duas colunas `1fr` colapsam para zero e o rótulo sai 33 px do
-        centro. Com o rótulo na própria linha ele fica centrado em qualquer largura, sem depender de
-        sobra — e a linha das setas é uma grade de duas colunas, para a seta única da primeira e da
-        última página ficar no seu lado em vez de escorregar para a esquerda.
+        As setas das pontas ficam desabilitadas em vez de sumirem, para a barra não mudar de largura
+        nem de posição de uma página para outra. Tudo centrado com `justify-center` e com quebra de
+        linha permitida, então nada depende de sobrar espaço — foi a dependência de sobra que
+        descentrou o rótulo no celular na versão anterior.
       */}
       {paginas > 1 && (
-        <nav
-          aria-label="Paginação das atualizações"
-          className="border-border mt-8 border-t pt-4 text-sm"
-        >
+        <nav aria-label="Paginação das atualizações" className="border-border mt-8 border-t pt-4">
           <p className="text-fg-3 text-center font-mono text-xs">
             {rotuloDoIntervalo(
               revisions.map((r) => r.id),
               primeiro,
               todas.length,
             )}
-            <span className="block">
-              página {pagina} de {paginas}
-            </span>
           </p>
 
-          <div className="mt-1 grid grid-cols-2 items-center gap-4">
-            {/* A lista vai da mais recente para a mais antiga: a seta da esquerda anda para páginas menores. */}
-            {pagina > 1 ? (
-              <Link
-                href={hrefDaPagina(pagina - 1)}
+          <ol className="mt-3 flex flex-wrap items-center justify-center gap-1.5 text-sm">
+            <li>
+              <Seta
+                para={pagina > 1 ? hrefDaPagina(pagina - 1) : null}
                 rel="prev"
-                className="text-fg-2 hover:text-fg inline-flex min-h-11 items-center gap-1.5 justify-self-start underline-offset-4 hover:underline"
-              >
-                <span aria-hidden="true">←</span> Mais recentes
-              </Link>
-            ) : (
-              <span />
+                rotulo="Página anterior"
+                simbolo="‹"
+              />
+            </li>
+
+            {janelaDePaginas(pagina, paginas).map((p, i) =>
+              p === null ? (
+                <li key={`lacuna-${i}`} aria-hidden="true" className="text-fg-3 px-1 select-none">
+                  …
+                </li>
+              ) : (
+                <li
+                  key={p}
+                  /*
+                   * No celular a barra inteira não cabe: nove itens a 40 px quebravam em três
+                   * linhas a 375 px (medido). As vizinhas da atual saem abaixo de 640 px — quem
+                   * quer a página de trás ou da frente usa as setas, que fazem exatamente isso.
+                   * Primeira, última e atual ficam sempre, porque nenhuma seta substitui o salto
+                   * para o começo ou o fim do acervo.
+                   */
+                  className={
+                    p !== 1 && p !== paginas && p !== pagina ? "hidden sm:block" : undefined
+                  }
+                >
+                  {p === pagina ? (
+                    <span
+                      aria-current="page"
+                      className="bg-accent text-bg inline-flex h-10 min-w-10 items-center justify-center rounded-md px-2 font-medium tabular-nums"
+                    >
+                      {p}
+                    </span>
+                  ) : (
+                    <Link
+                      href={hrefDaPagina(p)}
+                      aria-label={`Página ${p}`}
+                      className="border-border text-fg-2 hover:border-fg-3 hover:text-fg focus-visible:outline-accent inline-flex h-10 min-w-10 items-center justify-center rounded-md border px-2 tabular-nums transition-colors"
+                    >
+                      {p}
+                    </Link>
+                  )}
+                </li>
+              ),
             )}
 
-            {pagina < paginas ? (
-              <Link
-                href={hrefDaPagina(pagina + 1)}
+            <li>
+              <Seta
+                para={pagina < paginas ? hrefDaPagina(pagina + 1) : null}
                 rel="next"
-                className="text-fg-2 hover:text-fg inline-flex min-h-11 items-center gap-1.5 justify-self-end underline-offset-4 hover:underline"
-              >
-                Mais antigas <span aria-hidden="true">→</span>
-              </Link>
-            ) : (
-              <span />
-            )}
-          </div>
+                rotulo="Próxima página"
+                simbolo="›"
+              />
+            </li>
+          </ol>
         </nav>
       )}
 

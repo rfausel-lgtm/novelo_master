@@ -40,3 +40,30 @@ export function rotuloDoIntervalo(ids: string[], primeiro: number, total: number
   if (inicio && fim && inicio !== fim) return `lote ${inicio} até lote ${fim} · ${posicoes}`;
   return `${posicoes} atualizações`;
 }
+
+/** Buraco entre blocos de números na barra de paginação. */
+export const LACUNA = null;
+
+/**
+ * Os números a mostrar na barra: primeira, última, a atual e as vizinhas, com reticências no lugar
+ * do que foi omitido — a forma convencional de paginar conteúdo, e a que o leitor já sabe operar.
+ *
+ * Com 21 páginas, mostrar todas seria uma fileira ilegível no celular; mostrar só setas obriga a
+ * clicar dezenove vezes para chegar ao começo do acervo. A janela resolve as duas coisas: de
+ * qualquer página dá para ir à primeira, à última, ou caminhar de uma em uma.
+ */
+export function janelaDePaginas(atual: number, total: number, raio = 1): (number | null)[] {
+  if (total <= 1) return [1];
+  const mostrar = new Set<number>([1, total]);
+  for (let p = atual - raio; p <= atual + raio; p++) {
+    if (p >= 1 && p <= total) mostrar.add(p);
+  }
+  const ordenadas = [...mostrar].sort((a, b) => a - b);
+  const saida: (number | null)[] = [];
+  ordenadas.forEach((p, i) => {
+    // Só há reticências quando o salto esconde algo; pular exatamente uma página mostra o número.
+    if (i > 0 && p - ordenadas[i - 1] > 1) saida.push(LACUNA);
+    saida.push(p);
+  });
+  return saida;
+}

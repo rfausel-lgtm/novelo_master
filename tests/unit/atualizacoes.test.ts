@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { hrefDaPagina, loteDo, rotuloDoIntervalo } from "@/lib/atualizacoes";
+import { hrefDaPagina, janelaDePaginas, loteDo, rotuloDoIntervalo } from "@/lib/atualizacoes";
 
 const id = (lote: string) => `rev-2026-09-11-lote-${lote}-um-slug-qualquer`;
 
@@ -36,5 +36,32 @@ describe("paginação de /atualizacoes", () => {
 
   it("não anuncia intervalo quando as duas pontas são o mesmo lote", () => {
     expect(rotuloDoIntervalo([id("83")], 10, 204)).toBe("11–11 de 204 atualizações");
+  });
+});
+
+describe("janela de páginas na barra", () => {
+  it("com poucas páginas mostra todas, sem reticências", () => {
+    expect(janelaDePaginas(1, 3)).toEqual([1, 2, 3]);
+  });
+
+  it("na primeira de 21: primeira, vizinha, reticências e última", () => {
+    expect(janelaDePaginas(1, 21)).toEqual([1, 2, null, 21]);
+  });
+
+  it("no meio, reticências dos dois lados", () => {
+    expect(janelaDePaginas(11, 21)).toEqual([1, null, 10, 11, 12, null, 21]);
+  });
+
+  it("na última, o caminho de volta ao começo continua a um clique", () => {
+    expect(janelaDePaginas(21, 21)).toEqual([1, null, 20, 21]);
+  });
+
+  /* Pular exatamente uma página mostra o número: reticências escondendo um só item é ruído. */
+  it("não põe reticências para esconder uma única página", () => {
+    expect(janelaDePaginas(3, 5)).toEqual([1, 2, 3, 4, 5]);
+  });
+
+  it("uma página só não vira barra", () => {
+    expect(janelaDePaginas(1, 1)).toEqual([1]);
   });
 });
