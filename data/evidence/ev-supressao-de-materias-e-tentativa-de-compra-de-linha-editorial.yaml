@@ -1,0 +1,37 @@
+id: ev-supressao-de-materias-e-tentativa-de-compra-de-linha-editorial
+kind: evidence
+classification: D
+proposition: 'A extração do celular de Daniel Vorcaro registra ordens reiteradas para retirar do ar
+  matérias jornalísticas sobre ele e o Banco Master, com Luiz Phillipi Mourão relatando os resultados
+  ("estão tirando todas do ar", "derrubado", "clean permanente") e enviando listas de links já removidos.
+  Em 11/07/2023, Mourão comunicou a remoção de conteúdo que, pela URL, tratava de conta de ministros do
+  STF em restaurante de luxo em Nova York supostamente paga por um banco — link que a PF confirmou estar
+  fora do ar. Em 03/09/2024, diante de reportagem do Diário do Centro do Mundo sobre processo na CVM
+  contra Vorcaro e o pai, ele escreveu "Tem que derrubar urgente. Derrubar de vez esse blogo. Achei que
+  tinha parceria. E tinhamos comprado os caras."; em seguida Mourão informou que o interlocutor no
+  veículo "vai tentar criar filtro lá dentro, pra não conseguirem subir mais títulos com banco master".
+  Em 10/10/2024, sobre o mesmo site, Vorcaro determinou "Vamos focar na parceria com essa turma. Veja um
+  valor mensal. Não pode sair uma frase com meu nome ou Master"; no dia seguinte, quando Mourão disse que
+  "o pessoal do dcm está perguntando sobre a parceria", Vorcaro respondeu "50K mês?". Há ainda registro
+  de Mourão separando links negativos no Google para derrubá-los enquanto criava conteúdo positivo para
+  ocupar o topo das buscas.'
+document_ids:
+- doc-2026-02-ipja-extracao-celular-vorcaro
+source_ids:
+- src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+excerpt: Tem que derrubar urgente. Derrubar de vez esse blogo. Achei que tinha parceria. E tinhamos
+  comprado os caras.
+date: '2024-10-11'
+notes: 'Cuidado editorial exigido aqui. O que a extração comprova é o que Vorcaro e Mourão escreveram
+  entre si: a ordem de derrubar matérias, a crença de Vorcaro de que havia uma "parceria" e de que
+  "tínhamos comprado os caras", e a cifra de R$ 50 mil mensais cogitada por ele. O documento NÃO
+  demonstra que o Diário do Centro do Mundo tenha recebido pagamento, aceitado proposta ou alterado sua
+  cobertura por dinheiro — a menção a que "o pessoal do dcm está perguntando sobre a parceria" é relato
+  de Mourão a seu contratante, não prova de acordo, e o veículo não é investigado nesta peça. O corpus
+  não localizou manifestação do site sobre o episódio. Por isso o veículo não ganha registro próprio no
+  acervo: o que está documentado é a conduta do lado comprador.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

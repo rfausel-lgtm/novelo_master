@@ -1,0 +1,28 @@
+id: ev-inferencia-pf-mourao-contato-com-faccoes
+kind: evidence
+classification: I
+proposition: A Polícia Federal infere que Luiz Phillipi Mourão mantinha algum tipo de contato, direto ou
+  indireto, com indivíduos ligados a facções criminosas — circunstância que, segundo a corporação, teria
+  viabilizado a interlocução com os autores da invasão da conta de Instagram e a devolução dela.
+document_ids:
+- doc-2026-02-ipja-extracao-celular-vorcaro
+source_ids:
+- src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+inference_basis: 'A inferência é da própria PF, que a enuncia como tal ("infere-se") ao fim do capítulo
+  4.1.3 da IPJ-A nº 1020625/2026. A base é indiciária e de dois tipos: a rapidez e a naturalidade com que
+  Mourão estabeleceu canal com os invasores — dizendo estar "com os meninos na linha", transmitindo
+  recados de ameaça e encaminhando áudio atribuído aos próprios criminosos — e o teor dessas trocas, em
+  que os invasores negociavam a devolução da conta. O que a inferência NÃO alcança: o documento não
+  identifica nenhum interlocutor criminoso, não nomeia facção, não demonstra vínculo de Mourão com
+  organização criminosa alguma, e não converte em prova a menção jocosa de Vorcaro ao PCC (escrita com
+  "rsrs"). Trata-se de hipótese investigativa sobre pessoa já falecida, que não teve oportunidade de
+  contraditório, e que não foi objeto de denúncia nem de decisão de mérito no acervo.'
+date: '2026-02'
+notes: Registrada como inferência, e não como fato, porque é exatamente assim que a PF a apresenta. O
+  acervo já registra Mourão como chefe operacional dos núcleos "A Turma" e "Os Meninos"; contato com
+  facções é afirmação de outra ordem e não está demonstrada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

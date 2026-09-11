@@ -1,0 +1,30 @@
+id: ev-fabricacao-de-avaliacoes-e-comentarios-sobre-a-compra-pelo-brb
+kind: evidence
+classification: D
+proposition: 'A análise do celular de Daniel Vorcaro identificou estrutura organizada para manipular
+  avaliações públicas e fabricar comentários positivos sobre as empresas sob seu controle — orientações
+  para elevar notas de aplicativos, inserir avaliações favoráveis e produzir interações artificiais, além
+  de comentários elogiosos em redes sociais para ampliar narrativas favoráveis e neutralizar críticas.
+  A prática foi aplicada ao próprio negócio que está no centro do caso: diante de reportagens sobre a
+  tentativa de aquisição do Banco Master pelo BRB, Vorcaro determinou a publicação imediata de múltiplos
+  comentários para transmitir a impressão de que a operação havia sido bem-sucedida, chegando a
+  especificar o teor desejado; Mourão respondeu "Já estão subindo" e enviou captura de tela dos
+  comentários publicados. Em 28/05/2025, Vorcaro pediu especificamente comentários positivos em matéria
+  do portal Metrópoles sobre a negociação.'
+document_ids:
+- doc-2026-02-ipja-extracao-celular-vorcaro
+source_ids:
+- src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+excerpt: Já estão subindo
+date: '2025-05-28'
+notes: 'Distingue-se do que o acervo já registrava sobre pagamento a influenciadores: aqui não se trata
+  de contratar quem assine o conteúdo, e sim de simular reação espontânea de público — avaliação de
+  aplicativo e comentário de leitor. O alvo não é reputação difusa, mas a percepção sobre a compra do
+  Master pelo BRB, operação que é o núcleo da investigação. O documento descreve as conversas e remete a
+  capturas de tela que não são recuperáveis do texto extraído; os veículos cujas seções de comentários
+  foram usadas não são parte no episódio.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
