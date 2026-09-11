@@ -1,0 +1,34 @@
+id: src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+kind: source
+title: Decisão que decreta a 6ª fase da Compliance Zero — prisões e cautelares contra o núcleo 'A Turma' e o núcleo
+  revelado 'Os Meninos' (e-Doc 28, PET 15.978)
+publisher: Supremo Tribunal Federal — Ministro André Mendonça
+author: Ministro André Mendonça, com base em representação da Polícia Federal e parecer da PGR
+publication_date: '2026-05-13'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7514958
+source_type: official_court
+summary: 'Decisão de 59 páginas, assinada em 13/05/2026 e tornada pública em 14/05/2026 como ''6ª fase'' da Operação
+  Compliance Zero. Muito mais detalhada que a cobertura de imprensa já no acervo: decreta prisão preventiva de Henrique
+  Vorcaro, David Henrique Alves, Victor Lima Sedlmaier, Rodrigo Pimenta Franco Avelar Campos, Manoel Mendes Rodrigues,
+  Anderson Wander da Silva Lima e Sebastião Monteiro Júnior; e cautelares diversas (proibição de deixar a comarca/país,
+  afastamento de cargo) contra Erlene Nonato Lacerda, Helder Alves de Lima, Katherine Venâncio Telles, Valéria Vieira
+  Pereira da Silva e Francisco José Pereira da Silva; determina a transferência de Marilson Roseno da Silva ao Sistema
+  Penitenciário Federal. Revela pela primeira vez, com transcrição de mensagens de WhatsApp e depoimentos, um SEGUNDO
+  núcleo operacional da organização — ''Os Meninos'', braço de ataques cibernéticos e monitoramento digital ilegal,
+  liderado por David Henrique Alves e subordinado, como ''A Turma'', a Luiz Phillipi Mourão. Confirma a estrutura
+  de pagamento mensal de R$ 1 milhão de Daniel Vorcaro: R$ 400 mil para ''A Turma'' (via Marilson), R$ 75 mil para
+  cada um de seis integrantes de ''Os Meninos'', o restante com Mourão.'
+notes: 'Documento obtido pelo próprio Rafael via certificado digital, parte do download completo da PET 15.978 (378
+  peças) — mesma política de divulgação já aplicada à PET 15.556: informação pode ser usada e citada oficialmente,
+  PDF original não é redistribuído.'
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador (leitura integral, 59 páginas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

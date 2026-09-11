@@ -1,0 +1,31 @@
+id: david-henrique-alves
+kind: person
+name: David Henrique Alves
+category: other
+role: Apontado como líder do núcleo 'Os Meninos' (braço hacker) da organização de Daniel Vorcaro; preso preventivamente
+  em 14/05/2026
+summary: Preso preventivamente na 6ª fase da Operação Compliance Zero (decisão de 13/05/2026, tornada pública em
+  14/05/2026). Apontado pela PF como líder do núcleo 'Os Meninos', braço tecnológico da organização de Daniel Vorcaro,
+  responsável por ataques cibernéticos, invasões telemáticas, derrubada de perfis de redes sociais de críticos do
+  grupo e monitoramento digital ilícito — tudo sob gerência de Luiz Phillipi Mourão. Remunerado por Mourão em cerca
+  de R$ 35 mil mensais, com recursos que ingressavam pela empresa BIPE Software Brasil, da qual é sócio único. Comandava,
+  segundo a PF, Victor Lima Sedlmaier e Rodrigo Pimenta Franco Avelar Campos. Na noite de 04/03/2026 — data da 3ª
+  fase da Operação, quando Vorcaro e Mourão foram presos —, foi abordado pela PRF dirigindo a Range Rover de Mourão,
+  acompanhado de Katherine Venâncio Telles, transportando computador de mesa, notebooks, caixas e malas; havia no
+  carro um RG de terceiro (Marcelo Souza Gonçalves) que, por reconhecimento facial posterior, seria de Victor Lima
+  Sedlmaier — indício de documento falsificado. Na mesma manhã, telefonou à corretora do apartamento que alugava
+  em Lagoa Santa/MG pedindo para devolvê-lo com urgência, e saiu do condomínio 'cantando pneus' por volta das 15h.
+why_in_novelo: É o elo que faltava para entender 'Os Meninos' — até esta decisão, um núcleo inteiro da organização,
+  citado apenas de passagem pela imprensa, não tinha um único integrante identificado no acervo.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele localizada no corpus.
+open_questions:
+- Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ele no corpus.
+source_ids:
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

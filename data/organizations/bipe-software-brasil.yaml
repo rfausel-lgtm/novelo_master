@@ -1,0 +1,21 @@
+id: bipe-software-brasil
+kind: organization
+name: BIPE Software Brasil Ltda
+org_type: company
+summary: Empresa da qual David Henrique Alves é sócio-administrador único, apontada pela PF como o provável veículo
+  de recebimento dos cerca de R$ 35 mil mensais pagos a ele por Luiz Phillipi Mourão pela liderança do núcleo 'Os
+  Meninos'. Segundo depoimento de Victor Lima Sedlmaier, a empresa tinha contrato para uso de um software desenvolvido
+  para 'analisar e mapear a reputação' de Daniel Vorcaro na internet — uma fachada empresarial formal para a atividade
+  de monitoramento e ataque digital do núcleo.
+why_in_novelo: É o veículo empresarial que dava aparência lícita ao pagamento mensal ao líder do núcleo hacker da
+  organização.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada no corpus.
+source_ids:
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

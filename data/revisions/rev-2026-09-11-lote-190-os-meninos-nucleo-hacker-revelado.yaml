@@ -1,0 +1,29 @@
+id: rev-2026-09-11-lote-190-os-meninos-nucleo-hacker-revelado
+kind: revision
+date: '2026-09-11'
+title: 'Lote 190 — o núcleo "Os Meninos" é revelado por completo (novo acervo: PET 15.978)'
+summary: 'Início da exploração de um novo acervo doado pelo Rafael: os 378 documentos da PET 15.978
+  (a "6ª fase" da Operação Compliance Zero), obtidos via certificado digital dele, seguindo a mesma
+  metodologia e política de divulgação já aplicada à PET 15.556. Primeiro documento explorado: o e-Doc 28,
+  a decisão de 13/05/2026 que decretou a 6ª fase — muito mais detalhada que a cobertura de imprensa já no
+  acervo, com transcrição de mensagens de WhatsApp e depoimentos. Revela pela primeira vez a identidade
+  completa do núcleo "Os Meninos", braço tecnológico da organização (ataques cibernéticos, derrubada de
+  perfis, monitoramento digital), até então citado apenas genericamente pela imprensa sem nenhum integrante
+  identificado: David Henrique Alves (líder, remunerado ~R$ 35 mil/mês via empresa própria, BIPE Software),
+  Victor Lima Sedlmaier e Rodrigo Pimenta Franco Avelar Campos (operadores subordinados), e Katherine
+  Venâncio Telles (companheira de David, apontada por dar cobertura à fuga dele). Confirma a estrutura de
+  pagamento mensal de R$ 1 milhão de Daniel Vorcaro, dividido entre "A Turma" (R$ 400 mil) e "Os Meninos"
+  (R$ 75 mil por integrante). Descreve o episódio da fuga de David Henrique Alves na noite de 04/03/2026,
+  flagrado pela PRF na Range Rover de Mourão com equipamentos de informática e um RG possivelmente
+  falsificado.'
+affected_ids:
+- os-meninos
+- bipe-software-brasil
+- david-henrique-alves
+- victor-lima-sedlmaier
+- rodrigo-pimenta-franco-avelar-campos
+- katherine-venancio-telles
+reason: Início da análise em lotes do novo acervo de 378 peças da PET 15.978, doado pelo Rafael.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

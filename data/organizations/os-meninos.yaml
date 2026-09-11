@@ -1,0 +1,25 @@
+id: os-meninos
+kind: organization
+name: Os Meninos
+org_type: association
+summary: 'Núcleo operacional da organização criminosa investigada na Operação Compliance Zero, revelado na íntegra
+  pela decisão de 13/05/2026 (6ª fase, PET 15.978) — até então, o acervo só tinha menção genérica a ''Os Meninos''
+  via imprensa, sem qualquer identificação de integrantes. É o braço tecnológico da organização, paralelo a ''A
+  Turma'' (braço presencial de intimidação): especializado em ataques cibernéticos, invasões telemáticas, derrubada
+  de perfis e monitoramento digital ilícito. Liderado por David Henrique Alves, reunia pelo menos Victor Lima Sedlmaier
+  e Rodrigo Pimenta Franco Avelar Campos como operadores subordinados. Segundo mensagem de Luiz Phillipi Mourão
+  a Daniel Vorcaro, transcrita na decisão, recebia R$ 75 mil mensais por integrante (David, mais ''o DCM e mais
+  dois editores''), dentro do repasse mensal total de R$ 1 milhão feito por Vorcaro.'
+why_in_novelo: É a contraparte digital de 'A Turma' — até este documento, um núcleo inteiro da organização permanecia
+  sem qualquer integrante identificado no acervo, apesar de citado de passagem em reportagens sobre a Operação Compliance
+  Zero.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública sobre o núcleo como entidade coletiva localizada no corpus.
+source_ids:
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
