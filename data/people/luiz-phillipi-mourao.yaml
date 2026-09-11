@@ -28,7 +28,10 @@ summary: 'Preso na 3ª fase da Operação Compliance Zero em 04/03/2026, teve mo
   aparência de ser da Interpol. Em 29/05/2026, o STF declarou extinta sua punibilidade por morte (art. 107,
   I, CP), com arquivamento parcial das investigações — mas manteve as medidas de sequestro de bens contra
   o espólio, determinando que os herdeiros ingressem nos autos para acompanhar as restrições patrimoniais,
-  por se tratar de obrigação de reparação que se transmite a eles.'
+  por se tratar de obrigação de reparação que se transmite a eles. A ANÁLISE TÉCNICA DO CHAT COM VORCARO
+  (IPJ-A nº 1070759/2026, lote 204, PET 15.978) calcula que ele recebeu, no mínimo, R$ 24.000.000,00 ao
+  todo entre outubro de 2023 e novembro de 2025 (R$ 1 milhão mensal por cerca de 24 meses, sem contar
+  bônus), dos quais R$ 9,6 milhões eram repassados a ''A Turma''.'
 why_in_novelo: É apontado pela Polícia Federal como peça do núcleo que teria monitorado e intimidado adversários
   de Daniel Vorcaro, e morreu sob custódia policial, em circunstâncias que a própria PF disse que apuraria.
 cited_position:
@@ -72,6 +75,7 @@ source_ids:
 - src-cnnbrasil-2026-vorcaro-pagava-400-mil-mes-a-turma
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
 - src-stf-pet15556-edoc322-decisao-extincao-punibilidade-mourao-29-05-2026
+- src-stf-pet15978-edoc3-ipja-analise-chat-vorcaro-mourao
 aliases:
 - Felipe Mourão
 full_name: Luiz Phillipi Machado de Moraes Mourão

@@ -1,21 +1,27 @@
 id: ev-fluxo-um-milhao-mes-turma-9-6-milhoes-divergencia
 kind: evidence
 classification: C
-proposition: 'Segundo apuração jornalística baseada na investigação, a King Participações Imobiliárias
-  recebia cerca de R$ 1 milhão por mês de empresas do grupo, especialmente da Super Empreendimentos, dos
-  quais cerca de R$ 400 mil mensais eram distribuídos entre os integrantes do grupo ''A Turma'', com bônus
-  eventuais; a Polícia Federal estima cerca de R$ 9,6 milhões movimentados entre 2023 e 2025. Nota aritmética
-  que o corpus registra sem resolver: R$ 9,6 milhões distribuídos por 36 meses corresponderiam a cerca
-  de R$ 267 mil mensais, valor inferior tanto ao R$ 1 milhão quanto aos R$ 400 mil citados — ou o período
-  efetivo de pagamentos é menor do que três anos, ou a estimativa se refere apenas a uma fatia do fluxo.
-  As fontes não explicitam a conta.'
-document_ids: []
+proposition: 'A King Participações Imobiliárias, de Felipe Mourão, recebia cerca de R$ 1 milhão por mês
+  de empresas do grupo Vorcaro — Super Empreendimentos e, em ao menos um registro (13/03/2024), a Viking
+  Participações —, dos quais R$ 400 mil mensais eram repassados aos seis integrantes de ''A Turma'', à
+  parte bônus eventuais.'
+document_ids:
+- doc-2026-02-ipja-1070759-analise-chat-vorcaro-mourao
 source_ids:
 - src-cnnbrasil-2026-vorcaro-pagava-400-mil-mes-a-turma
 - src-brasilapi-2026-king-participacoes-imobiliarias
+- src-stf-pet15978-edoc3-ipja-analise-chat-vorcaro-mourao
 date: 2026-03
+notes: 'RESOLVIDO (lote 204): a divergência aritmética antes registrada aqui — R$ 9,6 milhões não
+  fechavam com 36 meses de R$ 400 mil — está esclarecida pela análise técnica da PF sobre o próprio chat
+  (IPJ-A nº 1070759/2026): o período de pagamento mensal comprovado vai de outubro de 2023 a novembro de
+  2025, cerca de 24 meses, não 36. A PF calcula, com essa base, que Mourão recebeu no mínimo
+  R$ 24.000.000,00 ao todo (R$ 1 milhão × 24 meses, excluídos bônus) e que ''A Turma'' recebeu
+  R$ 9.600.000,00 para ratear (R$ 400 mil × 24 meses) — a conta fecha exatamente. O documento também
+  registra repasse extra de R$ 1 milhão em 02/07/2024, tratado nas próprias mensagens como bônus, e
+  repasses maiores (R$ 2 milhões) em 07/02/2025 e 03/04/2025, não somados ao cálculo mínimo da PF.'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-09'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-09'
-updated_at: '2026-09-09'
+updated_at: '2026-09-11'

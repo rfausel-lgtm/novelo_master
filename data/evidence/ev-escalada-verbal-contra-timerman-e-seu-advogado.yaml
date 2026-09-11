@@ -1,0 +1,30 @@
+id: ev-escalada-verbal-contra-timerman-e-seu-advogado
+kind: evidence
+classification: D
+proposition: 'Em 28/08/2024, após Vorcaro encaminhar a Mourão uma Notícia de Fato subscrita por Vladimir
+  Timerman contra o fundo ESH Theta Master (endereçada ao Procurador-Chefe do MPF em São Paulo, por
+  prevenção a outra notícia de fato envolvendo o Banco Máxima/Master), Mourão disse que se reuniria com
+  "A Turma" e que "teriam que tomar uma medida mais drástica contra Vladimir". Vorcaro respondeu "E
+  contra o advogado tb". Na sequência do mesmo diálogo, ao ser perguntado se poderia se reunir com "A
+  Turma" naquele mesmo dia para alinhar a forma de atuação, Vorcaro respondeu que mandaria "A turma" a
+  São Paulo para "matar esses negócios".'
+document_ids:
+- doc-2026-02-ipja-1070759-analise-chat-vorcaro-mourao
+source_ids:
+- src-stf-pet15978-edoc3-ipja-analise-chat-vorcaro-mourao
+excerpt: teriam que tomar uma medida mais drástica contra Vladimir
+date: '2024-08-28'
+notes: 'O advogado mencionado não é identificado pelo nome no trecho analisado — o documento não permite
+  afirmar se é o mesmo "Luis Francisco" citado alhures no acervo em conexão com Timerman e Woyceichoski,
+  e por isso a atribuição não é feita aqui. A expressão "matar esses negócios" é lida no contexto de
+  disputa processual (resolver, encerrar as pendências jurídicas) e não como ameaça de vida explícita —
+  distinta, por isso, da frase "preciso matar esse cara" já registrada em evidência separada sobre outro
+  episódio, de teor mais direto. Ainda assim, "medida mais drástica" chega logo depois de uma notícia-crime
+  protocolada contra o grupo, e se soma ao padrão de resposta de Vorcaro a quem o processa ou investiga —
+  o mesmo padrão documentado contra Woyceichoski, Leandro Garcia e o DJ de Miami. O documento não registra
+  o que, na prática, "A Turma" fez em São Paulo depois desta conversa.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

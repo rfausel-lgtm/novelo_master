@@ -4,18 +4,27 @@ name: Vladimir Timerman
 category: businessperson
 role: Sócio da Esh Capital
 positions: []
-summary: Sócio da gestora Esh Capital. Em depoimento à CPI do Crime Organizado, em 19/03/2026, afirmou
-  que Daniel Vorcaro seria 'apenas a face pública' do Banco Master e que 'outros nomes' controlariam de
+summary: 'Sócio da gestora Esh Capital. Em depoimento à CPI do Crime Organizado, em 19/03/2026, afirmou
+  que Daniel Vorcaro seria ''apenas a face pública'' do Banco Master e que ''outros nomes'' controlariam de
   fato a instituição — declaração apontada pela imprensa como origem da linha investigativa sobre a hipótese
-  de 'sócio oculto', que passou a mirar Nelson Tanure.
+  de ''sócio oculto'', que passou a mirar Nelson Tanure. A ANÁLISE DO CHAT DE VORCARO E MOURÃO (IPJ-A nº
+  1070759/2026, lote 204, PET 15.978) mostra que, já em 2024, ele era alvo da dupla: apontado por Vorcaro
+  como autor de um pedido de busca e apreensão contra o Master (chamado por ele de "depravado" em
+  18/02/2024) e de uma notícia de fato ao MPF de São Paulo contra o fundo ESH Theta Master, em agosto de
+  2024 — episódio que levou Mourão a propor "medida mais drástica" contra ele e Vorcaro a estender a
+  ameaça a "o advogado tb".'
 why_in_novelo: Prestou depoimento que deu origem à linha investigativa sobre suposto controle oculto do
-  Banco Master por terceiros.
+  Banco Master por terceiros, e é alvo nomeado, desde 2024, de reações hostis de Vorcaro a cada medida
+  judicial que promoveu contra o banco.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- 'O advogado a quem Vorcaro se referiu em ''E contra o advogado tb'' (28/08/2024) não é identificado
+  pelo nome no trecho analisado.'
 source_ids:
 - src-iclnoticias-2026-tanure-investigado-bc-pf-mpf
+- src-stf-pet15978-edoc3-ipja-analise-chat-vorcaro-mourao
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

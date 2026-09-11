@@ -1,0 +1,30 @@
+id: ev-dossie-contra-advogados-do-pedido-de-busca-e-apreensao
+kind: evidence
+classification: D
+proposition: 'Em 18/02/2024, Daniel Vorcaro reagiu a uma decisão judicial que autorizava busca e
+  apreensão e quebra de sigilo bancário e fiscal contra o Banco Master, chamando o autor do pedido —
+  Vladimir Timerman — de "depravado". No dia seguinte, 20/02/2024, Felipe Mourão encaminhou a Vorcaro
+  três documentos com dados cadastrais completos — telefones, endereços, vínculos empresariais e
+  familiares — dos quatro advogados responsáveis pelo pedido de busca e apreensão e quebra de sigilo:
+  Patricia Lopes Dannebrock Aguedo, Miguel Carvalhes Pinheiro Antunes, Maciel Mussinch e Davi de Paiva
+  Costa Tangerino.'
+document_ids:
+- doc-2026-02-ipja-1070759-analise-chat-vorcaro-mourao
+source_ids:
+- src-stf-pet15978-edoc3-ipja-analise-chat-vorcaro-mourao
+date: '2024-02-20'
+notes: 'Os quatro são advogados que atuavam em nome de terceiro (aparentemente Vladimir Timerman) em
+  medida judicial contra o Banco Master — profissionais no exercício regular da função, não investigados
+  nem alvos de apuração alguma. O documento não registra nenhuma ação de intimidação, contato ou
+  represália contra eles depois da compilação dos dados: o episódio, tal como documentado, se esgota no
+  levantamento das informações. Ainda assim, é o mesmo padrão de coleta de dados pessoais já registrado
+  no acervo contra jornalistas e ex-funcionários antes de ações de pressão — e a coincidência de datas com
+  a reação hostil de Vorcaro à decisão, no dia anterior, é registrada aqui sem inferir consequência que o
+  documento não demonstra. "Miguel Carvalhes Pinheiro Antunes" e "Maciel Mussinch" aparecem colados no
+  texto original sem pontuação entre os nomes; mantida a separação como o documento aparenta indicar,
+  sem certeza de que sejam de fato duas pessoas distintas.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

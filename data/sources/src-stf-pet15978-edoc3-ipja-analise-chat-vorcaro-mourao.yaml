@@ -1,0 +1,36 @@
+id: src-stf-pet15978-edoc3-ipja-analise-chat-vorcaro-mourao
+kind: source
+title: IPJ-A nº 1070759/2026 — análise do chat de WhatsApp entre Daniel Vorcaro e Felipe Mourão (e-Doc 3, PET 15.978)
+publisher: Polícia Federal — NADIP/DFIN/CGRC/DICOR/PF
+author: APF Nelson Paulino da Silva
+publication_date: '2026-02-25'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7514958
+source_type: official_police
+summary: 'Informação de Polícia Judiciária de Análise de 198 páginas, também baseada no aparelho celular
+  de Daniel Bueno Vorcaro (mesmo inquérito 2025.0087917 do e-Doc 4), mas com foco específico e exaustivo
+  no chat de WhatsApp entre Vorcaro e Luiz Phillipi Mourão ("Sicário"), cobrindo o período de 18/10/2023
+  a 17/11/2025. É a análise técnica mais longa e granular do acervo sobre essa relação: qualifica
+  formalmente Marilson Roseno da Silva como líder de "A Turma" a partir do episódio do drone (05-06/04/2024,
+  já registrado), narra dia a dia mais de dois anos de trocas entre os dois, e fecha com a análise
+  financeira dos repasses mensais via Fabiano Zettel e Ana Cláudia Queiroz de Paiva — inclusive o cálculo
+  da própria PF de que Mourão recebeu, no mínimo, R$ 24 milhões ao todo, e "A Turma" R$ 9,6 milhões.
+  Revela também episódios de coleta de dados pessoais contra alvos não cobertos em nenhuma outra peça já
+  lida, entre eles os quatro advogados responsáveis por um pedido de busca e apreensão contra o Banco
+  Master, e uma escalada verbal ("medida mais drástica", "matar esses negócios") contra Vladimir Timerman
+  e um advogado não identificado, em agosto de 2024.'
+notes: 'Documento obtido pelo próprio Rafael via certificado digital, parte do download completo da PET
+  15.978 (378 peças) — mesma política de divulgação aplicada às demais peças. Não foi lido linha a linha
+  em sua integralidade: as 170 páginas do chat (seção 2.2) foram varridas por frequência de nomes próprios
+  para localizar episódios inéditos, e trechos de alta densidade foram lidos por inteiro.'
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador (varredura dirigida por nomes próprios + leitura integral dos trechos de maior
+    densidade, 198 páginas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
