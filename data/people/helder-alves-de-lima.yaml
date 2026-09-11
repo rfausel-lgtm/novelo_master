@@ -4,12 +4,17 @@ name: Helder Alves de Lima
 category: other
 role: Contador da Roseno & Ribeiro Gestão Empresarial (empresa de Marilson Roseno da Silva); cautelar de proibição
   de deixar o país em 14/05/2026
-summary: Alvo de cautelar de proibição de se ausentar da comarca e do país na 6ª fase da Operação Compliance Zero
+summary: 'Alvo de cautelar de proibição de se ausentar da comarca e do país na 6ª fase da Operação Compliance Zero
   (decisão de 13/05/2026). Contador da Roseno & Ribeiro Gestão Empresarial, controlada por Marilson Roseno da Silva,
   responsável pela emissão das notas fiscais que davam aparência formal aos pagamentos da King Participações Imobiliárias
   (de Luiz Phillipi Mourão) a Marilson. Segundo a PF, permaneceu emitindo notas mesmo após a 2ª fase da operação
-  — em 08/10/2025, Marilson lhe pediu 'outra nota de 50k' por um 'serviço adicional'. Comunicava-se com Marilson
-  por dois números salvos como 'Heldera' e 'Heldeira Resenha'.
+  — em 08/10/2025, Marilson lhe pediu ''outra nota de 50k'' por um ''serviço adicional''. Comunicava-se com Marilson
+  por dois números salvos como ''Heldera'' e ''Heldeira Resenha''. A MANIFESTAÇÃO DA PGR de 05/05/2026 (lote
+  199, e-Doc 26, PET 15.978) traz um episódio adicional de camuflagem: um jogador de pôquer enviou à
+  empresa de Marilson R$ 50 mil, e Marilson perguntou a Helder se seria melhor "tirar nota" para o dinheiro
+  entrar "todo limpinho"; Helder respondeu que sim, mas, diante de relutância na emissão, sugeriu o uso de
+  CPF de terceiro para formalizar a nota fiscal — indício de técnica ativa de lavagem, não apenas
+  formalização passiva de repasses já articulados por outros.'
 why_in_novelo: É o operador contábil-documental que dava roupagem formal e lícita aos repasses financeiros recebidos
   por Marilson Roseno em nome do núcleo 'A Turma'.
 cited_position:
@@ -19,6 +24,7 @@ open_questions:
 - Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ele no corpus.
 source_ids:
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+- src-mpf-pgr-2026-05-05-manifestacao-pet15978-sexta-fase
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
