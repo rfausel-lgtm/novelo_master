@@ -1,0 +1,28 @@
+id: luis-felipe-woyceichoski
+kind: person
+name: Luís Felipe Woyceichoski
+category: other
+role: Ex-funcionário de Daniel Vorcaro (capitão de embarcação)
+summary: Ex-funcionário de Daniel Vorcaro, capitão da embarcação do banqueiro. Segundo a representação da PF de
+  27/02/2026, foi alvo de campanha de intimidação determinada por Vorcaro a partir de 28/05/2024, após um episódio
+  descrito nas mensagens como 'extorsão'. Vorcaro determinou levantamento de dados sobre ele e sua família e ordenou
+  que a Turma 'desse um sacode' nele; em 11/07/2025, segundo relato do próprio Woyceichoski em gravação obtida pela
+  investigação, sete pessoas identificadas por ele como milicianos foram até a marina onde trabalhava e o ameaçaram
+  de morte, a ele e à família, em nome de Vorcaro.
+why_in_novelo: É a vítima nomeada de um episódio concreto de ameaça de morte determinada por Daniel Vorcaro e executada
+  pelo núcleo de intimidação 'A Turma', segundo a representação da PF que fundamentou a prisão preventiva de Vorcaro
+  e de Luiz Phillipi Mourão.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele foi localizada no corpus até a data desta apuração; o relato de ameaça
+    consta da transcrição de um áudio dele obtido pela investigação, não de declaração pública própria.
+open_questions:
+- O corpus não localizou notícia de imprensa sobre este episódio específico antes da leitura direta da representação
+  da PF; não há registro de boletim de ocorrência ou processo próprio dele contra Vorcaro.
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

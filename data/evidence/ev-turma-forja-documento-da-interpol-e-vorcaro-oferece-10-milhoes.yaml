@@ -1,0 +1,19 @@
+id: ev-turma-forja-documento-da-interpol-e-vorcaro-oferece-10-milhoes
+kind: evidence
+classification: D
+proposition: Em outubro de 2024, Daniel Vorcaro propôs intimidar uma pessoa que teria se aproximado de seu filho,
+  oferecendo R$ 10 milhões para 'dar uma lição' nela; a 'Turma' produziu um documento com aparência de ser da Interpol
+  para essa finalidade, que a própria Interpol, consultada pela PF, informou não corresponder a nenhum mecanismo
+  de busca por ela disponibilizado.
+document_ids:
+- doc-2026-02-27-representacao-pf-pet15556-edoc1
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+date: '2024-10-11'
+notes: A PF registra que o layout do documento pode corresponder a um sistema de outro país integrado a base de
+  dados offline da Interpol, e que não foi possível identificar o usuário responsável pela consulta original.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

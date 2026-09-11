@@ -1,0 +1,28 @@
+id: nayara-maria-dias-albuquerque-de-sa
+kind: person
+category: public_official
+name: Nayara Maria Dias Albuquerque de Sá
+role: Servidora do Ministério Público do Estado do Ceará
+summary: Servidora do Ministério Público do Ceará. Segundo a representação da PF de 27/02/2026, seu e-mail funcional
+  foi usado para enviar, em outubro de 2024, solicitações de remoção de conta a plataformas digitais (canal Law
+  Enforcement Information Request do Meta/Facebook) em nome de um ofício com aparência de ter sido emitido pelo
+  Grupo Especial de Combate à Corrupção do MP-CE, mas com inconsistências — assinatura sem validade digital e divergência
+  entre o nome da promotora titular do órgão (Mayara Menezes Muniz) e o nome grafado como signatário ('Nayara Muniz').
+  A própria PF registra não ter, até aquele momento, elementos para determinar se ela participou conscientemente
+  ou se suas credenciais foram usadas por terceiros sem seu conhecimento.
+why_in_novelo: Seu e-mail funcional aparece como o canal usado num esquema de ofícios forjados para derrubar perfis
+  em redes sociais, atribuído pela PF ao núcleo de intimidação de Daniel Vorcaro — caso em que a própria autoridade
+  investigativa reconhece não estar estabelecida a participação dela.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dela foi localizada no corpus até a data desta apuração.
+open_questions:
+- A própria representação da PF não conclui se houve uso consciente das credenciais dela ou uso indevido por terceiros
+  — o corpus registra essa incerteza como central ao caso, não como fato resolvido contra ela.
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,25 @@
+id: rel-daniel-vorcaro-luis-felipe-woyceichoski-allegation
+kind: relationship
+from_id: daniel-vorcaro
+to_id: luis-felipe-woyceichoski
+relationship_type: investigative_allegation
+directed: true
+label: ordenou ameaça de morte contra ex-funcionário e sua família, segundo a PF
+start_date: '2024-05-28'
+description: Segundo a representação da PF, Vorcaro determinou o levantamento de dados sobre seu ex-funcionário
+  Luís Felipe Woyceichoski e a intimidação dele pela 'Turma', que culminou em ameaça de morte contra ele e sua família
+  em 11/07/2025.
+evidence_class: A
+confidence: 0.7
+status: unverified
+evidence_ids:
+- ev-vorcaro-ordena-ameaca-de-morte-contra-woyceichoski-e-familia
+document_ids:
+- doc-2026-02-27-representacao-pf-pet15556-edoc1
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

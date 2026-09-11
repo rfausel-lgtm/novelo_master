@@ -1,0 +1,27 @@
+id: luiz-guilherme-camasmie
+kind: person
+name: Luiz Guilherme Atalla Camasmie
+category: businessperson
+role: Empresário, crítico público do Banco Master
+summary: Empresário que fez críticas públicas ao Banco Master e a Daniel Vorcaro. Segundo a representação da PF
+  de 27/02/2026, foi alvo de invasão de seus perfis em redes sociais (Instagram, WhatsApp) e de sua conta iCloud,
+  determinada por Vorcaro e executada por integrantes da 'Turma' em outubro de 2024. Registrou boletim de ocorrência
+  e, segundo reportagem do jornalista Lauro Jardim n'O Globo (11/12/2025), move ação por indenização contra o banco
+  por danos do ataque hacker, que teria custado a ele cerca de R$ 50 mil para recuperar os números invadidos.
+why_in_novelo: É a vítima nomeada de um caso de invasão digital coordenada que, segundo a PF, foi determinada por
+  Daniel Vorcaro e executada pelo mesmo núcleo responsável pelos episódios de intimidação física apurados na mesma
+  representação.
+cited_position:
+- kind: not_located
+  summary: O corpus não localizou manifestação pública dele além do que foi reportado pelo jornalista Lauro Jardim
+    sobre o boletim de ocorrência e a ação por indenização.
+open_questions:
+- O corpus não obteve o boletim de ocorrência nem os autos da ação por indenização, apenas a reportagem que os menciona
+  e a representação da PF.
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

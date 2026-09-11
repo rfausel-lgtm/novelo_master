@@ -7,7 +7,9 @@ positions: []
 summary: 'Jornalista político, colunista de O Globo. Teve o nome citado em mensagens investigadas na 3ª
   fase da Compliance Zero: segundo a apuração, houve plano para simular um assalto contra ele, com o objetivo
   de intimidá-lo e silenciar sua cobertura sobre o Banco Master. A Associação Nacional de Jornais manifestou
-  solidariedade e repúdio ao plano.'
+  solidariedade e repúdio ao plano. A representação da PF de 27/02/2026 (lote 170) traz as mensagens na
+  íntegra — em 08/06/2025, Vorcaro pediu que o seguissem (''pra pegar tudo dele''); em 28/07/2025, escreveu
+  ''quero mandar dar um pau nele. Quebrar todos os dentes. Num assalto'', com aval de Luiz Phillipi Mourão.'
 why_in_novelo: É o jornalista que, segundo a investigação e a decisão do STF, seria alvo de um plano de
   intimidação por sua cobertura do caso.
 cited_position:
@@ -19,8 +21,9 @@ source_ids:
 - src-gazeta-2026-03-04-quem-e-lauro-jardim
 - src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
 - src-otempo-2026-03-04-anj-repudia
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-11'

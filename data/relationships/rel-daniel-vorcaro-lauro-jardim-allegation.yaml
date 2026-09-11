@@ -6,12 +6,12 @@ relationship_type: investigative_allegation
 directed: true
 label: plano de simular assalto para intimidar o jornalista, segundo a PF
 start_date: '2026-03-04'
-description: Segundo a apuração citada na decisão da 3ª fase, houve plano para forjar um assalto contra
-  o colunista, para intimidá-lo e silenciar sua cobertura do caso. Vorcaro afirmou depois, em depoimento,
-  que ordens de agressão foram dadas porque 'estava nervoso' e não se concretizaram. Não há julgamento
-  de mérito.
+description: Segundo a representação da PF de 27/02/2026, houve plano para forjar um assalto contra o
+  colunista, para intimidá-lo e silenciar sua cobertura do caso, com mensagens de Vorcaro à sua 'Turma'
+  em 08/06/2025 e 28/07/2025. Vorcaro afirmou depois, em depoimento, que ordens de agressão foram dadas
+  porque 'estava nervoso' e não se concretizaram. Não há julgamento de mérito.
 evidence_class: A
-confidence: 0.4
+confidence: 0.6
 status: disputed
 event_ids:
 - evt-2026-03-04-revelacao-do-plano-contra-lauro-jardim
@@ -21,7 +21,9 @@ evidence_ids:
 source_ids:
 - src-gazeta-2026-03-04-quem-e-lauro-jardim
 - src-timesbrasil-2026-03-plano-de-atentado-lauro-jardim
-document_ids: []
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+document_ids:
+- doc-2026-02-27-representacao-pf-pet15556-edoc1
 cited_position:
 - kind: version
   summary: 'Vorcaro: as ordens foram dadas porque ''estava nervoso'' e não se concretizaram.'
@@ -31,6 +33,6 @@ cited_position:
   date: '2026-09-02'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-11'

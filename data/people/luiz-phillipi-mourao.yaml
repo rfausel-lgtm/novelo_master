@@ -19,7 +19,13 @@ summary: 'Preso na 3ª fase da Operação Compliance Zero em 04/03/2026, teve mo
   era sócio-administrador único de duas empresas em Belo Horizonte, ambas com capital social declarado
   de R$ 1 milhão — a King Participações Imobiliárias, apontada como receptora dos repasses mensais destinados
   ao grupo, e a King Motors Locação de Veículos —, ambas com atividades suspensas por determinação judicial
-  em 03/03/2026.'
+  em 03/03/2026. A REPRESENTAÇÃO DA PF DE 27/02/2026 (lote 170) — a própria petição que fundamentou sua
+  prisão preventiva de 04/03/2026 — é a fonte documental primária do apelido ''Sicário'' e do papel a ele
+  atribuído: segundo a PF, comandava, a mando de Daniel Vorcaro, o núcleo de intimidação ''A Turma'', com
+  Marilson Roseno da Silva como líder operacional em campo, remunerado em R$ 1 milhão por mês; a petição
+  transcreve mensagens de WhatsApp em que ele aprova ou executa ameaças de morte contra um ex-funcionário
+  de Vorcaro e sua família, invasão de dispositivos de um crítico do banco, e um documento forjado com
+  aparência de ser da Interpol.'
 why_in_novelo: É apontado pela Polícia Federal como peça do núcleo que teria monitorado e intimidado adversários
   de Daniel Vorcaro, e morreu sob custódia policial, em circunstâncias que a própria PF disse que apuraria.
 cited_position:
@@ -39,6 +45,11 @@ cited_position:
   by_id: luiz-phillipi-mourao
   date: '2026-04-13'
 open_questions:
+- 'ATUALIZAÇÃO (lote 170): a leitura direta da representação da PF de 27/02/2026 relativiza, em parte,
+  a alegação da família de que a acusação carecia de ''apresentação pública... de qualquer prova'' — a
+  petição transcreve mensagens de WhatsApp atribuídas a ele nesse sentido. Continua sem resposta, porém,
+  se essas mensagens foram objeto de perícia de autenticidade, e ele morreu antes de qualquer contraditório
+  judicial sobre elas.'
 - 'A causa da morte não está estabelecida no corpus: não há laudo do IML público nem conclusão do procedimento
   apuratório.'
 - As imputações são da autoridade policial e não houve julgamento de mérito; ele morreu antes de qualquer
@@ -56,11 +67,12 @@ source_ids:
 - src-brasilapi-2026-king-participacoes-imobiliarias
 - src-brasilapi-2026-king-motors-locacao
 - src-cnnbrasil-2026-vorcaro-pagava-400-mil-mes-a-turma
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
 aliases:
 - Felipe Mourão
 full_name: Luiz Phillipi Machado de Moraes Mourão
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-11'

@@ -1,0 +1,24 @@
+id: rel-daniel-vorcaro-luiz-guilherme-camasmie-allegation
+kind: relationship
+from_id: daniel-vorcaro
+to_id: luiz-guilherme-camasmie
+relationship_type: investigative_allegation
+directed: true
+label: ordenou invasão de dispositivos e perfis do empresário, segundo a PF
+start_date: '2024-10-17'
+description: Segundo a representação da PF, Vorcaro determinou a invasão dos perfis digitais e da conta iCloud do
+  empresário Luiz Guilherme Camasmie, crítico público do Banco Master.
+evidence_class: A
+confidence: 0.7
+status: unverified
+evidence_ids:
+- ev-turma-invade-whatsapp-e-icloud-de-camasmie-a-mando-de-vorcaro
+document_ids:
+- doc-2026-02-27-representacao-pf-pet15556-edoc1
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

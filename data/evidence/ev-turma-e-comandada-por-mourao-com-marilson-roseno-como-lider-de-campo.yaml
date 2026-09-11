@@ -1,0 +1,22 @@
+id: ev-turma-e-comandada-por-mourao-com-marilson-roseno-como-lider-de-campo
+kind: evidence
+classification: D
+proposition: Segundo a representação da PF, Luiz Phillipi Mourão ('Sicário') comandava, a mando de Daniel Vorcaro,
+  o núcleo de intimidação apelidado 'A Turma', remunerado em R$ 1 milhão por mês via a empresa King, enquanto o
+  policial federal aposentado Marilson Roseno da Silva atuava como líder operacional do grupo em campo — identificado
+  pela PF a partir de um episódio em que rastreou, a pedido de Vorcaro, o responsável por um drone sobre a residência
+  do banqueiro em Belo Horizonte, e cujo ingresso no condomínio, em 06/04/2024, foi confirmado pelos registros de
+  visitantes autorizados por Vorcaro.
+document_ids:
+- doc-2026-02-27-representacao-pf-pet15556-edoc1
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+date: '2024-04-06'
+notes: 'Esclarece, com base documental, a divergência já registrada no acervo entre imprensa (que descrevia Marilson
+  Roseno como ''líder operacional'') e a decisão do STF (que atribuía a coordenação a Mourão): os dois papéis coexistem,
+  em níveis distintos da mesma estrutura.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
