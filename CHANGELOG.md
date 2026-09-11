@@ -20,6 +20,9 @@
   Vitest. A suíte caiu de 16,8 s para 10,0 s. É mtime, e não um booleano, para que arte nova apareça
   em `next dev` sem reiniciar o servidor.
 
+- Arte de divulgação dos lotes 156 a 164 publicada em `public/social/`, sob autorização editorial de
+  Rafael registrada no commit (seção 7.1 da `EDITORIAL_POLICY`). São nove imagens que já estavam
+  geradas e validadas, paradas em um branch fora da `main` — e por isso invisíveis no site.
 - Regra da cadeia de gatilhos da publicação de lote em `AGENTS.md`: quem publica aciona a geração de
   arte na mesma sessão, e o fluxo segue até o rascunho de post — que para ali, esperando aprovação
   humana antes de qualquer publicação no X. A regra nasceu sem o elo que a fazia funcionar: gerar não
