@@ -1,0 +1,36 @@
+id: antonio-augusto-conte
+kind: person
+category: other
+name: Antônio Augusto Conte
+role: Citado nas conversas de Daniel Vorcaro e Luiz Phillipi Mourão como desafeto
+summary: 'Figura que aparece no acervo exclusivamente como alvo, não como investigado. Em 14/10/2024,
+  ao listar alvos de matérias negativas, Luiz Phillipi Mourão o descreveu a Daniel Vorcaro em termos
+  ofensivos e disse que ele teria contratado jornalista para publicar informação falsa sobre o banco.
+  Cinco dias depois, em 19/10/2024, Mourão propôs a Vorcaro interná-lo, afirmando ter contato com dono
+  de clínica psiquiátrica e de reabilitação e que conseguiriam a internação "com ordem judicial" —
+  medida que a própria Polícia Federal registra como aparentemente forjada ou irregular. Não há registro
+  de resposta de Vorcaro à proposta, nem indício de que ela tenha sido executada. Separadamente, o nome
+  dele figura entre os termos pesquisados por Marilson Roseno da Silva em consultas indevidas a sistemas
+  da Polícia Federal, segundo a manifestação da PGR de 05/05/2026.'
+why_in_novelo: É o alvo nomeado de uma proposta documentada de internação psiquiátrica obtida por via
+  irregular — e, por outro caminho, de consultas ilegais a bancos de dados policiais. Está no acervo na
+  condição de pessoa visada pela estrutura investigada, não de suspeito.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação dele foi localizada no corpus, e a equipe não conseguiu contato. As
+    afirmações sobre ele nas conversas são de Luiz Phillipi Mourão, já falecido, e não foram objeto de
+    apuração.
+open_questions:
+- 'O acervo não sabe quem é: nenhuma informação independente sobre sua identidade, ocupação ou relação
+  com o Banco Master foi localizada além das menções nas conversas apreendidas.'
+- Não se sabe se a proposta de internação chegou a ser levada adiante; o documento não registra resposta
+  de Vorcaro.
+- Não há elemento no acervo que sustente qualquer das caracterizações que Mourão fez dele.
+source_ids:
+- src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+- src-mpf-pgr-2026-05-05-manifestacao-pet15978-sexta-fase
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

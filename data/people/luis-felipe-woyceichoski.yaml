@@ -22,7 +22,13 @@ summary: 'Ex-funcionário de Daniel Vorcaro, capitão da embarcação do banquei
   alinhamento entre fontes da mesma apuração, o mais provável é que 04/06/2024 seja a data correta e que
   ''11/07/2025'', na representação de 27/02/2026 (PET 15.556), decorra de erro de transcrição do ano — mas
   o corpus não confirmou isso diretamente com aquele documento, e a hipótese de dois episódios distintos
-  não pode ser descartada com certeza.'
+  não pode ser descartada com certeza. A EXTRAÇÃO DO CELULAR DE VORCARO (lote 203) esclarece a origem do
+  áudio em que ele relata a ameaça: são 25 minutos de conversa, aparentemente captação de ambiente, entre
+  ele e provavelmente Marcus Vinícius da Mata, presidente da Solar Administração de Bem Próprio S.A. —
+  empresa em que atuava como comandante. No relato, diz ter os nomes e contatos de quem lhe telefonou
+  para adverti-lo, identificando dois deles como Naldo Armando e Emanuel Luiz. Ao repassar o áudio a
+  Mourão, Vorcaro pediu que o apagasse ("preciso que você apague e não mande pra ninguém. Vou ter
+  problema com esse cara") e avaliou: "tiro saiu pela culatra. Esse cara era o principal".'
 why_in_novelo: É a vítima nomeada de um episódio concreto de ameaça de morte determinada por Daniel Vorcaro e executada
   pelo núcleo de intimidação 'A Turma', segundo a representação da PF que fundamentou a prisão preventiva de Vorcaro
   e de Luiz Phillipi Mourão.
@@ -40,6 +46,7 @@ source_ids:
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 - src-mpf-pgr-2026-05-05-manifestacao-pet15978-sexta-fase
+- src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
