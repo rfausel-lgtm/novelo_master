@@ -1,0 +1,21 @@
+id: ev-cvm-autorizada-a-ouvir-vorcaro-tres-pas-ambipar-fidcs
+kind: evidence
+classification: D
+proposition: Em 24/07/2026, o STF autorizou a CVM a colher depoimento de Daniel Vorcaro, preso, para
+  instruir três Investigações Administrativas sancionadoras da autarquia — sobre a Ambipar (mercados à
+  vista e de derivativos, 2024-2025), sobre notas comerciais adquiridas pelos fundos CITY-02 FIDC, CITY
+  FIDC, Máxima FIM – Crédito Privado 2, MN I FIDC e ST 1001 FIDC, e sobre CRIs adquiridos pelos três
+  primeiros desses fundos.
+document_ids:
+- doc-2026-07-24-decisao-oitiva-vorcaro-cvm
+source_ids:
+- src-stf-pet15556-edoc353-decisao-oitiva-vorcaro-cvm-24-07-2026
+date: '2026-07-24'
+notes: Confirma que a apuração da CVM sobre a Ambipar (já no acervo) corre como processo sancionador formal
+  com Vorcaro pessoalmente na mira, e revela cinco fundos (FIDCs) até então não registrados no acervo — sem
+  detalhamento adicional disponível sobre valores ou mecanismo específico de fraude em cada um.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,31 @@
+id: doc-2026-07-24-decisao-oitiva-vorcaro-cvm
+kind: document
+title: Decisão que autoriza a CVM a colher depoimento de Daniel Vorcaro, preso, para três processos administrativos sancionadores
+doc_type: judicial_decision
+date: '2026-07-24'
+source_ids:
+- src-stf-pet15556-edoc353-decisao-oitiva-vorcaro-cvm-24-07-2026
+summary: Decisão do ministro André Mendonça que autoriza a CVM a ouvir Daniel Vorcaro, preso, no interior
+  do estabelecimento prisional, para instruir três Investigações Administrativas sancionadoras (Ambipar;
+  notas comerciais dos fundos CITY-02, CITY, Máxima FIM, MN I e ST 1001 FIDC; CRIs dos mesmos fundos),
+  resguardado o direito ao silêncio e a assistência de defesa técnica.
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- andre-mendonca
+- supremo-tribunal-federal
+- ambipar
+issuer_id: supremo-tribunal-federal
+issuer: Ministro André Mendonça
+date_precision: day
+reference: STF, PET 15.556, decisão monocrática de 24/07/2026 (e-Doc 353)
+excerpt: 'as investigações em trâmite relativas à Operação Compliance Zero apontam que o Banco Master S.A.,
+  então controlado por DANIEL BUENO VORCARO, teria estruturado esquema de captação agressiva de recursos
+  mediante a emissão de Certificados de Depósito Bancário (CDBs)... os valores captados teriam sido
+  direcionados a operações financeiras de elevado risco, à aquisição de ativos de baixa liquidez e à
+  estruturação de fundos vinculados ao próprio conglomerado econômico'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

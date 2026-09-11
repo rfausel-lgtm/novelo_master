@@ -141,6 +141,11 @@ open_questions:
   a concentrar esforços no mérito da ação penal, contestando a cadeia de custódia dos celulares apreendidos.
   Não localizada reação específica da defesa ao conteúdo da delação de João Carlos Mansur (distinta de
   reagir ao fato de ela existir).'
+- 'NOVO: em 24/07/2026, o STF autorizou a CVM a colhê-lo em depoimento, preso, para instruir três
+  Investigações Administrativas sancionadoras da autarquia — sobre a Ambipar (mercados à vista e de
+  derivativos, 2024-2025, já no acervo por outra via) e sobre notas comerciais e CRIs adquiridos por cinco
+  fundos até então não registrados no corpus (CITY-02 FIDC, CITY FIDC, Máxima FIM – Crédito Privado 2, MN
+  I FIDC, ST 1001 FIDC) — sem detalhamento disponível sobre valores ou mecanismo em cada um.'
 source_ids:
 - src-ac24horas-2026-09-04-vorcaro-sinaliza-poupar-moraes-delacao
 - src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
@@ -179,6 +184,7 @@ source_ids:
 - src-timesbrasil-2026-05-08-tether-cobra-titan-holding
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 - src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
+- src-stf-pet15556-edoc353-decisao-oitiva-vorcaro-cvm-24-07-2026
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published
