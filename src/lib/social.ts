@@ -50,7 +50,13 @@ export function lerWebp(buf: Buffer): { width: number; height: number; animado: 
   const fim = Math.min(declarado, buf.length);
   if (declarado > buf.length) throw new ArteInvalida("tamanho RIFF maior que o arquivo");
 
-  let dimensoes: { width: number; height: number } | undefined;
+  type Dim = { width: number; height: number };
+  /*
+   * Canvas e frame são lidos separadamente e conferidos no fim. O navegador desenha pelo canvas do
+   * VP8X; confiar no frame interno deixaria passar arte cujo canvas excede o limite de largura.
+   */
+  let canvas: Dim | undefined;
+  let frame: Dim | undefined;
   let animado = false;
 
   let pos = 12;
@@ -63,24 +69,30 @@ export function lerWebp(buf: Buffer): { width: number; height: number; animado: 
     if (tipo === "ANIM" || tipo === "ANMF") animado = true;
     if (tipo === "VP8X" && tamanho >= 10) {
       if ((buf.readUInt8(corpo) & 0x02) !== 0) animado = true;
-      dimensoes ??= {
+      canvas ??= {
         width: buf.readUIntLE(corpo + 4, 3) + 1,
         height: buf.readUIntLE(corpo + 7, 3) + 1,
       };
     }
     if (tipo === "VP8 " && tamanho >= 10) {
-      dimensoes = {
+      frame ??= {
         width: buf.readUInt16LE(corpo + 6) & 0x3fff,
         height: buf.readUInt16LE(corpo + 8) & 0x3fff,
       };
     }
     if (tipo === "VP8L" && tamanho >= 5) {
       const bits = buf.readUInt32LE(corpo + 1);
-      dimensoes = { width: (bits & 0x3fff) + 1, height: ((bits >>> 14) & 0x3fff) + 1 };
+      frame ??= { width: (bits & 0x3fff) + 1, height: ((bits >>> 14) & 0x3fff) + 1 };
     }
     pos = corpo + tamanho + (tamanho % 2); // chunks têm padding para tamanho par
   }
 
+  if (canvas && frame && (canvas.width !== frame.width || canvas.height !== frame.height)) {
+    throw new ArteInvalida(
+      `canvas ${canvas.width}x${canvas.height} diverge do frame ${frame.width}x${frame.height}`,
+    );
+  }
+  const dimensoes = canvas ?? frame;
   if (!dimensoes) throw new ArteInvalida("nenhum chunk de imagem (VP8/VP8L/VP8X) encontrado");
   if (dimensoes.width < 1 || dimensoes.height < 1) throw new ArteInvalida("dimensão inválida");
   return { ...dimensoes, animado };

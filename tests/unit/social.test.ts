@@ -69,6 +69,24 @@ describe("lerWebp", () => {
     expect(() => lerWebp(buf)).toThrow(/tamanho RIFF/);
   });
 
+  it("recusa canvas do VP8X divergente do frame interno", () => {
+    // O navegador desenha pelo canvas: um VP8X de 2000 px com frame de 799 px passaria no limite
+    // de largura lendo só o frame, e apareceria no site com 2000.
+    const vp8 = Buffer.alloc(10);
+    vp8.writeUInt16LE(799, 6);
+    vp8.writeUInt16LE(599, 8);
+    const buf = webp([vp8x({ largura: 2000, altura: 600, flags: 0 }), { tipo: "VP8 ", corpo: vp8 }]);
+    expect(() => lerWebp(buf)).toThrow(/canvas 2000x600 diverge do frame 799x599/);
+  });
+
+  it("aceita VP8X cujo canvas bate com o frame", () => {
+    const vp8 = Buffer.alloc(10);
+    vp8.writeUInt16LE(800, 6);
+    vp8.writeUInt16LE(600, 8);
+    const buf = webp([vp8x({ largura: 800, altura: 600, flags: 0 }), { tipo: "VP8 ", corpo: vp8 }]);
+    expect(lerWebp(buf)).toEqual({ width: 800, height: 600, animado: false });
+  });
+
   it("recusa contêiner sem chunk de imagem", () => {
     expect(() => lerWebp(webp([{ tipo: "ICCP", corpo: Buffer.alloc(4) }]))).toThrow(/nenhum chunk/);
   });
