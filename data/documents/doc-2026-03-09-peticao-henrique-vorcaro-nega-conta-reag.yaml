@@ -1,0 +1,29 @@
+id: doc-2026-03-09-peticao-henrique-vorcaro-nega-conta-reag
+kind: document
+title: Petição de Henrique Vorcaro negando saldo na conta na Reag (e-Doc 75)
+doc_type: judicial_filing
+date: '2026-03-09'
+source_ids:
+- src-stf-pet15556-edoc75-peticao-henrique-vorcaro-nega-conta-reag-09-03-2026
+summary: Petição da defesa de Henrique Moura Vorcaro, reiterando pedido de 04/03/2026 pendente, negando
+  que a conta dele na Reag tenha qualquer saldo ou tenha sido usada para repasse de valores, e classificando
+  a cobertura de imprensa sobre o tema como "linchamento" baseado em informação "gravemente equivocada,
+  senão falsa em si mesma". Anexa reportagem da Folha de 07/03/2026 sobre o mecanismo de desvio de recursos
+  do Master via CDBs e fundos cativos.
+is_official: true
+related_entity_ids:
+- henrique-vorcaro
+- andre-mendonca
+- supremo-tribunal-federal
+- reag-investimentos
+issuer_id: henrique-vorcaro
+issuer: Eugênio Pacelli de Oliveira e Frederico Gomes de Almeida Horta (defesa de Henrique Vorcaro)
+date_precision: day
+reference: STF, PET 15.556, petição de 09/03/2026 (e-Doc 75)
+excerpt: 'A única conta que o peticionário possui na REAG não tem um único centavo de recurso financeiro
+  e jamais foi utilizada para repasse de qualquer valor.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

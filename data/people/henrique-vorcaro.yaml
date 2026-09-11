@@ -18,7 +18,9 @@ summary: Pai de Daniel Vorcaro. Teve prisão preventiva decretada pelo STF em 14
   a PF bloqueara R$ 2.245.235.850,24 em conta dele na CBSF DTVM (nova denominação da Reag Trust) — instituição
   liquidada pelo BC em 15/01/2026 e alvo direto da Operação Carbono Oculto, que revelou vínculo da Reag
   com o PCC. A representação da PF de 27/02/2026 cita esse bloqueio como indício de ocultação bilionária
-  de recursos que se perpetuou mesmo após a soltura de Daniel Vorcaro em 28/11/2025.
+  de recursos que se perpetuou mesmo após a soltura de Daniel Vorcaro em 28/11/2025. Reportagem da Folha
+  de 07/03/2026, anexada à petição em que ele nega saldo na Reag, descreve-o como um dos destinatários do
+  mecanismo de desvio via CDBs e fundos cativos do Master — ao lado da irmã Natália e do primo Felipe.
 why_in_novelo: Teve prisão preventiva decretada e mantida pelo STF na 6ª fase da Operação Compliance Zero,
   sendo descrito pela Polícia Federal como operador financeiro do grupo investigado.
 cited_position:
@@ -31,10 +33,17 @@ cited_position:
   - src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
   by_id: henrique-vorcaro
   date: '2026-03-04'
+- kind: denial
+  summary: 'RESOLVIDO (lote 178): manifestação pessoal e direta, em petição própria de 09/03/2026 (não
+    apenas por menção na petição do filho) — nega que a conta dele na Reag tenha qualquer saldo ou tenha
+    sido usada para repasse de valores, classificando a cobertura de imprensa (que anexa) como ''linchamento''
+    baseado em informação ''gravemente equivocada, senão falsa em si mesma''.'
+  source_ids:
+  - src-stf-pet15556-edoc75-peticao-henrique-vorcaro-nega-conta-reag-09-03-2026
+  by_id: henrique-vorcaro
+  date: '2026-03-09'
 open_questions:
-- A posição pessoal e direta da defesa de Henrique Vorcaro (fora da menção feita na petição do filho) não
-  foi localizada em fonte verificada do corpus; o ministro Gilmar Mendes propôs prisão domiciliar em
-  divergência parcial.
+- O ministro Gilmar Mendes propôs prisão domiciliar em divergência parcial no referendo de 16/06/2026.
 - Condenado pela CVM em 08/09/2026, por unanimidade, a R$ 20 milhões de multa por operação fraudulenta
   no Brazil Realty FII — mesmo valor aplicado ao filho, Daniel Vorcaro.
 source_ids:
@@ -52,6 +61,8 @@ source_ids:
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
 - src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
+- src-stf-pet15556-edoc75-peticao-henrique-vorcaro-nega-conta-reag-09-03-2026
+- src-folha-2026-03-07-como-vorcaro-desviava-dinheiro-familiares
 full_name: Henrique Moura Vorcaro
 review_status: published
 reviewer: orquestrador

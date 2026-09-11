@@ -12,7 +12,9 @@ summary: Teve prisão temporária de cinco dias decretada pelo STF em 07/05/2026
   pela Milo Investimentos. Em defesa apresentada individualmente em 13/10/2025, sustentou nunca ter sido
   sócio ou administrador da Milo ou de qualquer contraparte das operações, e que nem ele nem a MGI se
   enquadrariam na definição subjetiva de sujeito passível de responsabilização pela norma invocada —
-  argumento rejeitado pelo colegiado, que o condenou mesmo assim.
+  argumento rejeitado pelo colegiado, que o condenou mesmo assim. Reportagem da Folha de 07/03/2026, baseada
+  em documentos da PF, já o nomeava como um dos destinatários do mecanismo de desvio de recursos do Master
+  via CDBs e fundos cativos, ao lado do tio Henrique e da prima Natália.
 why_in_novelo: Teve prisão temporária decretada pelo STF em fase da Operação Compliance Zero, sendo apontado
   pela Polícia Federal como operador financeiro de Daniel Vorcaro — e é um dos parentes dele condenados
   pela CVM no processo do Brazil Realty FII, ao lado do pai, Henrique Vorcaro, evidenciando o padrão familiar
@@ -29,8 +31,9 @@ source_ids:
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 - src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
 - src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
+- src-folha-2026-03-07-como-vorcaro-desviava-dinheiro-familiares
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-09'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-11'

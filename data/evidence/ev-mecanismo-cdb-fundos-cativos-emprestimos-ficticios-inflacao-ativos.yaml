@@ -1,0 +1,25 @@
+id: ev-mecanismo-cdb-fundos-cativos-emprestimos-ficticios-inflacao-ativos
+kind: evidence
+classification: A
+proposition: 'Segundo investigações da PF reportadas pela Folha, o Banco Master captou mais de R$ 50 bilhões via
+  venda de CDBs e direcionou parte desses recursos a fundos de crédito dos quais o próprio Master era o único cotista;
+  a partir desses fundos, concedia ''empréstimos'' fictícios a empresas ligadas a Daniel Vorcaro, sua família e
+  sócios — dos R$ 3,5 bilhões investidos nesses fundos, R$ 1,8 bilhão teria ido a empresas ligadas aos próprios
+  sócios do banco (exemplo: Clínica Mais Médico, R$ 361,1 milhões, via laranja). Paralelamente, fundos da Reag compravam
+  certificados de ações do extinto Besc, de valor real ínfimo, e os precificavam artificialmente para inflar os
+  ativos do Master e permitir a emissão de mais CDBs. O dinheiro desviado teria beneficiado, além de Henrique Vorcaro,
+  a irmã Natália Vorcaro Zettel, o primo Felipe Cançado Vorcaro e três parentes não identificados de João Carlos
+  Mansur, com destino final numa conta do Master mantida pela Super Empreendimentos e Participações.'
+document_ids: []
+source_ids:
+- src-folha-2026-03-07-como-vorcaro-desviava-dinheiro-familiares
+date: '2026-03-07'
+attributed_to: Polícia Federal, segundo reportagem da Folha de S.Paulo baseada em documentos das investigações
+notes: Fica classe A porque o corpus não obteve os documentos primários da PF citados pela reportagem — apenas a
+  descrição jornalística deles. A defesa de Henrique Vorcaro, na petição que anexou esta mesma reportagem (e-Doc
+  75), nega o ponto relativo à conta na Reag, sem contestar especificamente o restante do mecanismo descrito.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

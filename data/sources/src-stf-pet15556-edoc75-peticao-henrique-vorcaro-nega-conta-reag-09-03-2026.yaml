@@ -1,0 +1,26 @@
+id: src-stf-pet15556-edoc75-peticao-henrique-vorcaro-nega-conta-reag-09-03-2026
+kind: source
+title: Petição de Henrique Vorcaro negando saldo na conta na Reag (e-Doc 75)
+publisher: Supremo Tribunal Federal — petição da defesa de Henrique Moura Vorcaro
+author: Eugênio Pacelli de Oliveira e Frederico Gomes de Almeida Horta
+publication_date: '2026-03-09'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7514886
+source_type: official_court
+summary: 'Petição de 09/03/2026, apresentada diretamente pela defesa de Henrique Moura Vorcaro (advogados Eugênio
+  Pacelli de Oliveira e Frederico Gomes de Almeida Horta), reiterando pedido de 04/03/2026 ainda pendente de apreciação:
+  nega que a conta dele na Reag tenha qualquer saldo ou tenha sido usada para repasse de valores, classificando
+  a cobertura de imprensa como ''linchamento'' baseado em informação ''gravemente equivocada, senão falsa em si
+  mesma''. Anexa reportagem da Folha de 07/03/2026 como exemplo da imprensa que contesta.'
+notes: É a manifestação pessoal e direta da defesa de Henrique Vorcaro que um open_question do verbete dele registrava
+  como não localizada — até então só havia a menção feita na petição do filho (e-Doc 86, lote 175).
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador (leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

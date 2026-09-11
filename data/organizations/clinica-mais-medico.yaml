@@ -1,0 +1,20 @@
+id: clinica-mais-medico
+kind: organization
+name: Clínica Mais Médico
+org_type: company
+summary: Pequeno empreendimento que, segundo reportagem da Folha baseada em documentos da PF, recebeu cerca de R$
+  361,1 milhões de um fundo de crédito controlado pelo Banco Master — recursos repassados por meio de um 'laranja'
+  que, por sua vez, tinha dado procuração a uma pessoa ligada à família de Daniel Vorcaro. Citada como exemplo do
+  mecanismo de empréstimos fictícios usado para desviar dinheiro do banco.
+why_in_novelo: É o exemplo concreto, com valor específico, do mecanismo de 'empréstimos' fictícios a empresas de
+  fachada que a PF aponta como parte central da engenharia financeira do esquema Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada no corpus.
+source_ids:
+- src-folha-2026-03-07-como-vorcaro-desviava-dinheiro-familiares
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

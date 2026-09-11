@@ -1,0 +1,30 @@
+id: rev-2026-09-11-lote-178-engrenagem-cdb-fundos-cativos
+kind: revision
+date: '2026-09-11'
+title: 'Lote 178 — a engrenagem: como o Master fabricava dinheiro via CDBs, fundos cativos e empréstimos fictícios'
+summary: 'Nono documento explorado do acervo de 416 peças da PET 15.556: o e-Doc 75, petição de 09/03/2026
+  em que a defesa de Henrique Vorcaro (advogados Eugênio Pacelli de Oliveira e Frederico Gomes de Almeida
+  Horta) nega, diretamente e pela primeira vez em nome próprio (não apenas por menção na petição do filho,
+  lote 175), que a conta dele na Reag tenha qualquer saldo — resolvendo um open_question do verbete dele.
+  A peça anexa uma reportagem da Folha de 07/03/2026 ("Como Vorcaro desviava dinheiro do Master para
+  familiares"), que a própria defesa usa como exemplo do que chama de "linchamento" da imprensa — mas que
+  é, ela mesma, um achado substantivo: descreve, com base em documentos da PF, o mecanismo completo da
+  fraude — captação de mais de R$ 50 bilhões via CDBs, direcionamento a fundos de crédito cativos (onde
+  o próprio Master era único cotista) e concessão de "empréstimos" fictícios a empresas ligadas a Vorcaro,
+  família e sócios (R$ 1,8 bilhão dos R$ 3,5 bilhões investidos nesses fundos), com o exemplo concreto da
+  Clínica Mais Médico (R$ 361,1 milhões via laranja) — mais um esquema paralelo de inflar ativos do Master
+  com certificados de ações do extinto Besc, comprados por fundos da Reag e precificados artificialmente.
+  Nomeia como destinatários dos desvios, além de Henrique, a irmã Natália Vorcaro Zettel e o primo Felipe
+  Cançado Vorcaro (ambos já no acervo) e três parentes não identificados de João Carlos Mansur. Cita
+  despacho da PF que aponta "participação coordenada do Banco Master e da Reag DTVM" na estruturação das
+  cadeias de transação.'
+affected_ids:
+- henrique-vorcaro
+- doc-2026-03-09-peticao-henrique-vorcaro-nega-conta-reag
+- natalia-vorcaro-zettel
+- felipe-cancado-vorcaro
+- clinica-mais-medico
+reason: Análise em lotes do acervo de 416 peças da PET 15.556 — nono documento, por ordem de pontuação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

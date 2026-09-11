@@ -11,7 +11,10 @@ summary: 'Irmã de Daniel Vorcaro. Apontada como vice-presidente da holding Sozo
   de mais de US$ 1 bilhão em ativos do banco. Casou-se com o advogado Fabiano Campos Zettel em 2018; consta
   como diretora da Rogue Participações desde 24/03/2014, sociedade em que o marido é presidente. Registro
   adicional: a ação civil da EFB nos Estados Unidos pede US$ 113,6 milhões — a cifra de mais de US$ 1
-  bilhão citada nas reportagens refere-se à dissipação total alegada, não ao valor do pedido.'
+  bilhão citada nas reportagens refere-se à dissipação total alegada, não ao valor do pedido. Reportagem
+  da Folha de 07/03/2026, baseada em documentos da PF, nomeia-a como uma das destinatárias do mecanismo
+  de desvio de recursos do Master via CDBs e fundos cativos, ao lado do pai Henrique e do primo Felipe
+  Cançado Vorcaro.'
 why_in_novelo: Alvo do bloqueio patrimonial brasileiro e de ação civil nos EUA movida pelo liquidante
   do Banco Master, por suposta participação na ocultação de bens da família Vorcaro.
 cited_position:
@@ -23,8 +26,9 @@ source_ids:
 - src-osul-2026-04-20-mansao-orlando-chosen-vessel
 - src-jornaldocomercio-2026-03-03-acao-eua-familia-vorcaro
 - src-brasilapi-2026-super-empreendimentos-cnpj
+- src-folha-2026-03-07-como-vorcaro-desviava-dinheiro-familiares
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-11'
