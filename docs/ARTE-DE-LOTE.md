@@ -6,7 +6,7 @@ Contrato fechado na [issue #34](https://github.com/rfausel-lgtm/novelo_master/is
 
 1. Cada revisão tem **zero ou uma** arte. Quando existir, o único nome válido é `public/social/<Revision.id>.webp`. Não há sufixos, slugs ou artes adicionais.
 2. `public/social/` contém **somente** artes canônicas em WebP. Iterações substituídas, PNGs-fonte e arquivos fora do contrato não moram lá.
-3. `/atualizacoes` exibe a arte canônica junto da revisão correspondente, com `alt` de arte de divulgação gerada por IA e a legenda "Ilustração gerada por IA". **A ausência de arte é normal**, não é lacuna, e a lista não reserva espaço para ela.
+3. `/atualizacoes` exibe a arte canônica **no topo da revisão correspondente, antes do texto do lote**, com `alt` de arte de divulgação gerada por IA e a legenda "Ilustração gerada por IA" entre a imagem e o texto — o leitor lê a legenda no instante em que passa da ilustração para o que o acervo afirma. **A ausência de arte é normal**, não é lacuna, e a lista não reserva espaço para ela: o item simplesmente começa pela data.
 4. A arte não é evidência, não entra em `photo` nem em `source_ids`, e não sustenta alegação. Texto embutido no pixel **não prevalece** sobre `data/`; divergindo os dois, corrige-se ou remove-se a arte.
 5. Toda arte é WebP válido, **estático**, com largura máxima de **1280 px**.
 6. `npm run social:add` é o fluxo de inclusão e produz exclusivamente o arquivo canônico. `npm run social:check` falha para nome ou extensão inválidos, revisão inexistente, WebP inválido, largura acima do limite, animação, ou qualquer arquivo não canônico na pasta.
