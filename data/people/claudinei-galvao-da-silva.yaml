@@ -9,12 +9,20 @@ summary: Presidente do Fundo de Previdência Municipal de Imbituva (PR). Citado 
 why_in_novelo: É o presidente do fundo de previdência citado pelo TCE-PR como responsável pelo dano da aplicação
   no Master.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública dele foi localizada no corpus até a data desta apuração; tem prazo de 15
-    dias, a partir do despacho, para apresentar defesa.
-open_questions: []
+- kind: version
+  summary: Em petição de 29/04/2026, não contesta as acusações do TCE-PR — pede diretamente ao STF que o
+    título de R$ 4 milhões do FUNPREV Imbituva no Master seja incluído em eventual restituição a RPPS
+    pactuada na delação premiada de Daniel Vorcaro.
+  source_ids:
+  - src-stf-pet15556-edoc260-peticao-imbituva-pedido-restituicao-29-04-2026
+  by_id: claudinei-galvao-da-silva
+  date: '2026-04-29'
+open_questions:
+- 'Não verificado: o pedido cita reportagem não confirmada pela equipe sobre possível devolução de R$ 3
+  bilhões a fundos de RPPS na delação de Vorcaro — rumor, não fato estabelecido no corpus.'
 source_ids:
 - src-tcepr-2026-04-06-despacho-zucchi-imbituva-tomada-contas
+- src-stf-pet15556-edoc260-peticao-imbituva-pedido-restituicao-29-04-2026
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

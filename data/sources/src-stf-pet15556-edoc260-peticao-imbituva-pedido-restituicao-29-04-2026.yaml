@@ -1,0 +1,28 @@
+id: src-stf-pet15556-edoc260-peticao-imbituva-pedido-restituicao-29-04-2026
+kind: source
+title: Petição de Claudinei Galvão da Silva (FUNPREV Imbituva) pedindo inclusão em eventual restituição de delação de Vorcaro (e-Doc 260)
+publisher: Supremo Tribunal Federal — Claudinei Galvão da Silva, Diretor-Presidente do FUNPREV Imbituva/PR
+author: André Sberze (OAB/PR 52.254)
+publication_date: '2026-04-29'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7514886
+source_type: official_court
+summary: Primeira manifestação de Claudinei Galvão da Silva localizada no corpus — não é uma defesa contra
+  as acusações do TCE-PR (já respondidas em processo próprio), mas um pedido direto ao STF para que o
+  título de R$ 4 milhões investido pelo FUNPREV de Imbituva no Master seja incluído em eventual restituição
+  a RPPS pactuada na proposta de delação premiada de Daniel Vorcaro — citando reportagens não verificadas
+  pela equipe sobre uma possível devolução de R$ 3 bilhões a fundos de RPPS, e sobre expectativa de fechamento
+  da delação até 03/05/2026.
+notes: O rumor de R$ 3 bilhões em devolução a RPPS via delação de Vorcaro é citado pelo peticionário com
+  base em reportagem (Investidor Institucional), não verificado de forma independente pela equipe nem
+  confirmado por nenhum outro documento do corpus.
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador (leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
