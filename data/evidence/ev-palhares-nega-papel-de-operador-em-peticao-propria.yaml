@@ -1,0 +1,22 @@
+id: ev-palhares-nega-papel-de-operador-em-peticao-propria
+kind: evidence
+classification: D
+proposition: Em petição de 12/08/2026 — a primeira manifestação dele ou de advogado seu localizada no
+  corpus —, Leonardo Augusto Furtado Palhares nega ter atuado como "operador" de Daniel Vorcaro, afirmando
+  que sua única conduta no caso foi celebrar, por indicação de Fabiano Zettel, o contrato do projeto social
+  "Jovens Potentes" com Belline Santana. Afirma ter respondido a todas as perguntas da Polícia Federal, sem
+  exercer o direito ao silêncio, e cita a PET 15.504 como o procedimento com a documentação integral do
+  projeto.
+document_ids:
+- doc-2026-08-12-peticao-palhares-revisao-cautelares
+source_ids:
+- src-stf-pet15556-edoc390-peticao-palhares-revisao-cautelares-12-08-2026
+date: '2026-08-12'
+notes: Prova que ele fez essa negativa e essa versão dos fatos — não prova sua veracidade, que contrasta
+  com a caracterização da decisão do STF (já no acervo) de que ele estruturou uma "conta de passagem" para
+  lavagem de dinheiro via Varajo Consultoria.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

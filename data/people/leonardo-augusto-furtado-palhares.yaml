@@ -23,16 +23,29 @@ summary: 'Advogado, com CPF terminado em 356 registrado de forma idêntica nos t
   de 2025, que gere recursos de uma ONG representada por uma filha menor de idade de Daniel Vorcaro. Material
   cujo sigilo foi levantado em setembro de 2026 mostra que foi ele quem estruturou, em maio de 2025, as
   minutas do contrato de até R$ 50 milhões entre a Viking Participações e o escritório da esposa do ministro
-  Alexandre de Moraes, alertando Vorcaro sobre o ''risco reputacional'' da operação.'
+  Alexandre de Moraes, alertando Vorcaro sobre o ''risco reputacional'' da operação. Em petição de 12/08/2026,
+  pediu abrandamento das cautelares (proibição de deixar São Paulo e tornozeleira eletrônica), citando
+  prejuízo à carreira de advogado, ser pai de cinco filhos (dois bebês) e ter mãe octogenária com doença
+  grave em Minas Gerais.'
 why_in_novelo: 'É o operador jurídico-documental do esquema: quem redigia e assinava os instrumentos que
   davam aparência de legalidade aos pagamentos — do contrato apontado como fictício para remunerar um
   servidor do Banco Central às minutas do contrato com o escritório da esposa de um ministro do STF.'
 cited_position:
+- kind: version
+  summary: 'RESOLVIDO (lote 184): primeira manifestação dele localizada no corpus, em petição de 12/08/2026.
+    Nega ter atuado como ''operador'' de Vorcaro: sua única conduta teria sido celebrar, por indicação de
+    Fabiano Zettel (de cujas empresas era advogado), o contrato do projeto social ''Jovens Potentes'' com
+    Belline Santana — episódio isolado, sem ligação com outras fases da Compliance Zero. Afirma ter respondido
+    a todas as perguntas da PF, sem exercer o direito ao silêncio, e ter entregue documentação complementar;
+    cita a PET 15.504 como o procedimento com a documentação integral do projeto.'
+  source_ids:
+  - src-stf-pet15556-edoc390-peticao-palhares-revisao-cautelares-12-08-2026
+  by_id: leonardo-augusto-furtado-palhares
+  date: '2026-08-12'
 - kind: no_response
-  summary: Não foi localizada nenhuma manifestação dele, de advogado seu ou da Varajo Consultoria. Reportagens
-    que trataram das acusações registram explicitamente que 'outras defesas não se manifestaram até a
-    publicação' e que ele não respondeu aos pedidos de comentário. O nome de seu advogado não foi localizado,
-    nem qualquer petição pública em seu nome na PET 15.556.
+  summary: Até 09/09/2026, nenhuma manifestação PÚBLICA (via imprensa) dele havia sido localizada — reportagens
+    registram explicitamente que 'outras defesas não se manifestaram até a publicação'. A manifestação
+    acima veio da petição de 12/08/2026, não de declaração à imprensa.
   source_ids:
   - src-gazetadopovo-2026-operador-vorcaro-ong-africa
   - src-jovempan-2026-09-minutas-palhares-aeronaves-barci-moraes
@@ -67,6 +80,8 @@ open_questions:
   por Vorcaro em 2023, é anterior ao seu mandato.'
 - 'Alerta de precisão: o número de inscrição OAB/MG 79456, atribuído a ele por resultado de busca, pertence
   a outra pessoa — o dado é falso e não deve ser reproduzido. Seu registro profissional não foi confirmado.'
+- 'A petição de 12/08/2026 cita a PET 15.504 como o procedimento com a documentação integral do projeto
+  Jovens Potentes — número de processo até então não registrado no corpus.'
 source_ids:
 - src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
 - src-brasilapi-2026-super-empreendimentos-cnpj
@@ -79,6 +94,7 @@ source_ids:
 - src-jovempan-2026-09-minutas-palhares-aeronaves-barci-moraes
 - src-ndmais-2026-belline-versao-contratos-varajo
 - src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
+- src-stf-pet15556-edoc390-peticao-palhares-revisao-cautelares-12-08-2026
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

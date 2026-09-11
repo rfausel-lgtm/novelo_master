@@ -1,0 +1,30 @@
+id: doc-2026-08-12-peticao-palhares-revisao-cautelares
+kind: document
+title: Petição de Leonardo Augusto Furtado Palhares pedindo revisão de cautelares
+doc_type: judicial_filing
+date: '2026-08-12'
+source_ids:
+- src-stf-pet15556-edoc390-peticao-palhares-revisao-cautelares-12-08-2026
+summary: Primeira manifestação de Leonardo Augusto Furtado Palhares localizada no corpus. Nega ter atuado
+  como "operador" de Daniel Vorcaro; descreve sua única conduta como a celebração do contrato do projeto
+  social "Jovens Potentes" com Belline Santana, por indicação de Fabiano Zettel; afirma ter colaborado com
+  a PF sem exercer o direito ao silêncio; pede abrandamento das cautelares de proibição de deixar São Paulo
+  e monitoração eletrônica.
+is_official: true
+related_entity_ids:
+- leonardo-augusto-furtado-palhares
+- andre-mendonca
+- fabiano-zettel
+- belline-santana
+issuer_id: leonardo-augusto-furtado-palhares
+issuer: Antônio Sérgio A. de Moraes Pitombo, Flávia Mortari Lotfi e Barbara Salgueiro de Abreu (defesa de Leonardo Palhares)
+date_precision: day
+reference: STF, PET 15.556, petição de 12/08/2026 (e-Doc 390)
+excerpt: 'a única conduta atribuível ao PETICIONÁRIO no contexto sob apuração consiste na celebração de
+  contrato para o desenvolvimento de projeto social em conjunto com Belline Santana, servidor do Banco
+  Central do Brasil, do qual decorreram pagamentos correspondentes às atividades contratadas. E, nada mais.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
