@@ -3,12 +3,17 @@ kind: person
 name: Luís Felipe Woyceichoski
 category: other
 role: Ex-funcionário de Daniel Vorcaro (capitão de embarcação)
-summary: Ex-funcionário de Daniel Vorcaro, capitão da embarcação do banqueiro. Segundo a representação da PF de
+summary: 'Ex-funcionário de Daniel Vorcaro, capitão da embarcação do banqueiro. Segundo a representação da PF de
   27/02/2026, foi alvo de campanha de intimidação determinada por Vorcaro a partir de 28/05/2024, após um episódio
-  descrito nas mensagens como 'extorsão'. Vorcaro determinou levantamento de dados sobre ele e sua família e ordenou
-  que a Turma 'desse um sacode' nele; em 11/07/2025, segundo relato do próprio Woyceichoski em gravação obtida pela
+  descrito nas mensagens como ''extorsão''. Vorcaro determinou levantamento de dados sobre ele e sua família e ordenou
+  que a Turma ''desse um sacode'' nele; em 11/07/2025, segundo relato do próprio Woyceichoski em gravação obtida pela
   investigação, sete pessoas identificadas por ele como milicianos foram até a marina onde trabalhava e o ameaçaram
-  de morte, a ele e à família, em nome de Vorcaro.
+  de morte, a ele e à família, em nome de Vorcaro. DETALHADO PELA DECISÃO DA 6ª FASE (13/05/2026, lote 192, PET
+  15.978): a mesma campanha teve um episódio concreto em 04/06/2024, na Marina Bracuhy e no Hotel Nacional Inn,
+  em Angra dos Reis/RJ, executado por grupo de cerca de sete homens que incluía Luiz Phillipi Mourão e Manoel
+  Mendes Rodrigues (''amigo de Daniel Vorcaro'', segundo o próprio agressor se identificou, ligado ao jogo do
+  bicho) — também atingiu Leandro Garcia e teve testemunha em Tatiana Dantas Carta. Não está resolvido se
+  04/06/2024 e 11/07/2025 são a mesma ameaça registrada com datas divergentes ou dois episódios distintos.'
 why_in_novelo: É a vítima nomeada de um episódio concreto de ameaça de morte determinada por Daniel Vorcaro e executada
   pelo núcleo de intimidação 'A Turma', segundo a representação da PF que fundamentou a prisão preventiva de Vorcaro
   e de Luiz Phillipi Mourão.
@@ -19,10 +24,16 @@ cited_position:
 open_questions:
 - O corpus não localizou notícia de imprensa sobre este episódio específico antes da leitura direta da representação
   da PF; não há registro de boletim de ocorrência ou processo próprio dele contra Vorcaro.
+- 'Divergência de data não resolvida: a representação de 27/02/2026 (PET 15.556) associa a ameaça a ele a
+  11/07/2025; a decisão de 13/05/2026 (PET 15.978) descreve um episódio de intimidação em Angra dos Reis
+  datado de 04/06/2024. Podem ser a mesma ameaça relatada com datas diferentes por fontes distintas, ou dois
+  episódios de intimidação separados contra ele.'
 source_ids:
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-11'
 updated_at: '2026-09-11'
+
