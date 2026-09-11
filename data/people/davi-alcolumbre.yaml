@@ -44,6 +44,15 @@ cited_position:
   by_id: davi-alcolumbre
   date: '2026-06-12'
 open_questions:
+- 'HIPÓTESE EM ABERTO (levantada pelo editor, 10/09/2026): há uma possível ligação entre a blindagem que
+  Alcolumbre dá a Moraes contra o impeachment e o fato de que dois nomes de peso do próprio partido dele
+  (União Brasil) — Antônio Rueda e ACM Neto — são acusados por Vorcaro, em proposta de delação, de cobrar
+  comissão de 10% sobre aportes de RPPS ao Master. A equipe NÃO localizou nenhuma fonte que estabeleça relação
+  causal ou mesmo correlação direta entre os dois fatos; a proposta de delação (revelada em 10/09/2026) cita
+  institutos do Rio, Amapá e Amazonas de forma genérica, sem nomear Alcolumbre nem seu ex-tesoureiro Jocildo
+  Lemos. O que está confirmado é apenas a coincidência de partido e o fato de que Alcolumbre, ao ser cobrado
+  sobre o impeachment de Moraes, reagiu citando o financiamento do Dark Horse por Vorcaro (lote 167) — não
+  uma ligação com o esquema de comissões de Rueda/ACM Neto. Fica como fio a apurar, não como fato estabelecido.'
 - O corpus não registra se e quando o requerimento da CPMI do Master foi lido.
 - O senador não é investigado na operação Zona Cinzenta, segundo a CNN; o corpus não contém documento
   que corrobore o relato da Veja.
@@ -61,6 +70,10 @@ source_ids:
 - src-cnn-2026-02-06-amprev-alvo-pf
 - src-poder360-2026-06-12-veja-alcolumbre-30-milhoes
 - src-congressoemfoco-2026-06-12-alcolumbre-contesta
+- src-gazetadopovo-2026-09-01-alcolumbre-109-pedidos-impeachment
+- src-direitonews-2026-09-02-alcolumbre-recado-flavio-dark-horse
+- src-cnnbrasil-2026-09-04-flavio-acusa-alcolumbre-proteger-moraes
+- src-brasil247-2026-09-04-flavio-acusa-alcolumbre-bloqueio-impeachment
 - src-amprev-2024-05-02-premio-jocildo
 - src-amprev-ata-9a-ordinaria-cep-2025-09-17
 - src-decisao-zona-cinzenta-integral-pje-trf1

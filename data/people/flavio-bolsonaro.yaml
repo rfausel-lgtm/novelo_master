@@ -41,6 +41,15 @@ cited_position:
   - src-cnn-2026-09-dark-horse-coaf
   by_id: flavio-bolsonaro
   date: '2026-09-01'
+- kind: version
+  summary: Acusou publicamente o presidente do Senado, Davi Alcolumbre, de 'proteger um amigo' (o ministro
+    Alexandre de Moraes) 'ao invés de proteger a instituição', bloqueando pedidos de impeachment contra ele;
+    Alcolumbre reagiu citando o financiamento do Dark Horse por Daniel Vorcaro (lote 167).
+  source_ids:
+  - src-cnnbrasil-2026-09-04-flavio-acusa-alcolumbre-proteger-moraes
+  - src-brasil247-2026-09-04-flavio-acusa-alcolumbre-bloqueio-impeachment
+  by_id: flavio-bolsonaro
+  date: '2026-09-04'
 open_questions:
 - A prestação de contas do filme prometida em maio de 2026 não foi localizada pela equipe.
 - O corpus não contém o contrato de confidencialidade mencionado pelo senador.
@@ -64,6 +73,8 @@ source_ids:
 - src-metropoles-2026-06-produtora-dark-horse-75-milhoes
 - src-metropoles-2026-09-10-marcelao-confirma-aporte-de-um-milhao
 - src-cnnbrasil-2026-05-20-flavio-troca-marqueteiro-apos-dark-horse
+- src-cnnbrasil-2026-09-04-flavio-acusa-alcolumbre-proteger-moraes
+- src-brasil247-2026-09-04-flavio-acusa-alcolumbre-bloqueio-impeachment
 full_name: Flávio Nantes Bolsonaro
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro

@@ -1,0 +1,17 @@
+id: ev-109-pedidos-impeachment-contra-ministros-stf-nao-pautados
+kind: evidence
+classification: A
+proposition: Davi Alcolumbre confirmou, em 01/09/2026, haver 109 pedidos de impeachment protocolados contra os dez
+  ministros do STF, sem indicar se daria andamento a algum deles.
+attributed_to: Davi Alcolumbre, em declaração à imprensa
+document_ids: []
+source_ids:
+- src-gazetadopovo-2026-09-01-alcolumbre-109-pedidos-impeachment
+date: '2026-09-01'
+notes: Pela Lei do Impeachment de 1950, o recebimento da denúncia cabe à Mesa do Senado, não ao presidente isoladamente
+  — o corpus não apurou se algum dos 109 pedidos chegou a tramitar internamente além do protocolo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

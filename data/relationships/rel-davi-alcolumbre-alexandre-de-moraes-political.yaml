@@ -1,0 +1,37 @@
+id: rel-davi-alcolumbre-alexandre-de-moraes-political
+kind: relationship
+from_id: davi-alcolumbre
+to_id: alexandre-de-moraes
+relationship_type: political
+directed: false
+label: acusado de proteger Moraes de pedidos de impeachment no Senado
+start_date: 2026-09
+description: 'Flávio Bolsonaro acusa publicamente Alcolumbre de bloquear o andamento de pedidos de impeachment contra
+  Moraes por amizade pessoal, em vez de deixá-los tramitar. Alcolumbre não negou nem confirmou a caracterização
+  de ''proteção'': em vez de responder diretamente, contra-atacou citando o financiamento do Dark Horse por Daniel
+  Vorcaro — o mesmo banqueiro cujas mensagens com Moraes estão no centro da crise institucional apurada pelo corpus.'
+evidence_class: A
+confidence: 0.4
+status: disputed
+evidence_ids:
+- ev-flavio-acusa-alcolumbre-de-proteger-amigo-em-vez-de-instituicao
+- ev-alcolumbre-referencia-dark-horse-em-resposta-a-pressao
+event_ids:
+- evt-2026-09-02-alcolumbre-invoca-dark-horse-contra-pressao-por-impeachment
+source_ids:
+- src-cnnbrasil-2026-09-04-flavio-acusa-alcolumbre-proteger-moraes
+- src-brasil247-2026-09-04-flavio-acusa-alcolumbre-bloqueio-impeachment
+- src-direitonews-2026-09-02-alcolumbre-recado-flavio-dark-horse
+cited_position:
+- kind: version
+  summary: Não respondeu diretamente à acusação de proteger Moraes; reagiu citando o financiamento do filme Dark
+    Horse por Daniel Vorcaro, sem confirmar nem negar a caracterização de 'proteção'.
+  source_ids:
+  - src-direitonews-2026-09-02-alcolumbre-recado-flavio-dark-horse
+  by_id: davi-alcolumbre
+  date: '2026-09-02'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

@@ -1,0 +1,17 @@
+id: ev-oposicao-diz-54-pedidos-contra-moraes-parados
+kind: evidence
+classification: A
+proposition: Flávio Bolsonaro e aliados de oposição afirmam que 54 pedidos de impeachment contra Alexandre de Moraes
+  especificamente estão parados no Senado por recusa de Alcolumbre em pautar votação.
+attributed_to: Flávio Bolsonaro e aliados, segundo o Brasil 247
+document_ids: []
+source_ids:
+- src-brasil247-2026-09-04-flavio-acusa-alcolumbre-bloqueio-impeachment
+date: '2026-09-04'
+notes: O número de 54 não foi confirmado por fonte independente nem cotejado com o de 109 pedidos totais (contra
+  os dez ministros) que o próprio Alcolumbre declarou em 01/09/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

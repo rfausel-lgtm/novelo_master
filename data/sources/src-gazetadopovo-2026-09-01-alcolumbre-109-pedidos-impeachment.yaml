@@ -1,0 +1,24 @@
+id: src-gazetadopovo-2026-09-01-alcolumbre-109-pedidos-impeachment
+kind: source
+title: 'Alcolumbre sinaliza que não pautará impeachment de Moraes: 109 pedidos contra o STF'
+publisher: Gazeta do Povo
+author: não identificado
+publication_date: '2026-09-01'
+retrieved_at: '2026-09-10'
+url: https://www.gazetadopovo.com.br/republica/alcolumbre-sinaliza-que-nao-pautara-impeachment-de-moraes-109-pedidos-contra-stf/
+source_type: press
+summary: 'Registra a declaração do presidente do Senado, Davi Alcolumbre, em 01/09/2026: ''A decisão é que tem 109
+  pedidos. Isso não é normal. [São] 109 pedidos de impeachment dos 10 ministros do STF'' — sem responder diretamente
+  se daria andamento ao pedido contra Alexandre de Moraes. Explica que, pela Lei do Impeachment (1950), cabe à Mesa
+  do Senado — não ao presidente isoladamente — receber a denúncia, que segue para a Advocacia do Senado, depois
+  para a Comissão Diretora, antes de eventual deliberação em plenário.'
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura integral via WebFetch)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

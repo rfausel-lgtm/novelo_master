@@ -1,0 +1,36 @@
+id: evt-2026-09-02-alcolumbre-invoca-dark-horse-contra-pressao-por-impeachment
+kind: event
+title: Alcolumbre invoca o financiamento do Dark Horse ao ser cobrado pelo impeachment de Moraes
+event_type: statement
+date: '2026-09-02'
+date_precision: day
+participant_ids:
+- davi-alcolumbre
+- alexandre-de-moraes
+- flavio-bolsonaro
+description: Em 01/09/2026, Alcolumbre confirmou haver 109 pedidos de impeachment contra os dez ministros do STF,
+  sem dizer se daria andamento ao de Moraes. No dia seguinte, 02/09/2026, em sessão do plenário do Senado, sob nova
+  cobrança, respondeu citando o financiamento de R$ 130 milhões do filme sobre Bolsonaro por 'a mesma pessoa' (Daniel
+  Vorcaro) — sem nomear Flávio, Vorcaro ou 'Dark Horse' explicitamente, mas em fala interpretada pela imprensa como
+  recado velado. Dois dias depois, 04/09/2026, em ato de campanha, o senador e candidato Flávio Bolsonaro respondeu
+  publicamente, acusando Alcolumbre de proteger um 'amigo' (Moraes) em vez da instituição, e afirmando que 54 pedidos
+  de impeachment contra Moraes especificamente estariam parados.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-109-pedidos-impeachment-contra-ministros-stf-nao-pautados
+- ev-alcolumbre-referencia-dark-horse-em-resposta-a-pressao
+- ev-flavio-acusa-alcolumbre-de-proteger-amigo-em-vez-de-instituicao
+- ev-oposicao-diz-54-pedidos-contra-moraes-parados
+source_ids:
+- src-gazetadopovo-2026-09-01-alcolumbre-109-pedidos-impeachment
+- src-direitonews-2026-09-02-alcolumbre-recado-flavio-dark-horse
+- src-cnnbrasil-2026-09-04-flavio-acusa-alcolumbre-proteger-moraes
+- src-brasil247-2026-09-04-flavio-acusa-alcolumbre-bloqueio-impeachment
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

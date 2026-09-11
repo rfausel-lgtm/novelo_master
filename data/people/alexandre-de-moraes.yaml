@@ -58,6 +58,12 @@ open_questions:
   decisões do plenário até depois do período eleitoral — leitura da reportagem, sem corroboração jornalística
   independente localizada até a data desta apuração; não há manifestação dele sobre essa caracterização
   específica.
+- Espelho dessa mesma dinâmica no Senado — Flávio Bolsonaro acusa publicamente Davi Alcolumbre,
+  presidente do Senado, de bloquear pedidos de impeachment contra o ministro por amizade pessoal — 109 pedidos
+  contra os dez ministros do STF, segundo o próprio Alcolumbre (01/09/2026). Cobrado sobre o caso, em 02/09/2026,
+  Alcolumbre reagiu citando o financiamento de R$ 130 milhões do filme Dark Horse por Daniel Vorcaro, sem
+  confirmar nem negar que protege o ministro. Um editorial de opinião da Gazeta do Povo (30/08/2026) chama isso
+  de 'grande acordo nacional' entre Lula, Moraes, Alcolumbre e Motta — tese de opinião, não fato apurado.
 - 'Relatou três notícias-crime sobre os mesmos fatos de 8 de janeiro de 2023, distribuídas a ele por prevenção,
   com tratamento processual radicalmente diverso — disparidade verificada pela equipe diretamente no andamento
   público do STF: a de Nikolas Ferreira contra Flávio Dino foi arquivada em um dia, em processo público,
@@ -99,6 +105,11 @@ source_ids:
 - src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
 - src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
 - src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
+- src-gazetadopovo-2026-09-01-alcolumbre-109-pedidos-impeachment
+- src-direitonews-2026-09-02-alcolumbre-recado-flavio-dark-horse
+- src-cnnbrasil-2026-09-04-flavio-acusa-alcolumbre-proteger-moraes
+- src-brasil247-2026-09-04-flavio-acusa-alcolumbre-bloqueio-impeachment
+- src-gazetadopovo-2026-08-30-editorial-grande-acordo-nacional
 full_name: Alexandre de Moraes
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Alexandre_de_Moraes

@@ -1,0 +1,27 @@
+id: src-gazetadopovo-2026-08-30-editorial-grande-acordo-nacional
+kind: source
+title: Moraes, Lula, Motta e Alcolumbre selam o 'grande acordo nacional'
+publisher: Gazeta do Povo (editorial de opinião)
+author: não identificado
+publication_date: '2026-08-30'
+retrieved_at: '2026-09-10'
+url: https://www.gazetadopovo.com.br/opiniao/editoriais/acordo-lula-alexandre-de-moraes-davi-alcolumbre-hugo-motta/
+source_type: press
+summary: EDITORIAL DE OPINIÃO, não reportagem factual. Defende a tese de que Lula, Moraes, Alcolumbre e Hugo Motta
+  seguem um 'conchavo' de autoproteção mútua entre os Três Poderes, citando como indícios um jantar de Moraes reunindo
+  Lula e Alcolumbre em agosto de 2026 e um almoço no Palácio da Alvorada com os três, além de mencionar genericamente
+  o escândalo do INSS e os 'envolvimentos nebulosos' de Alcolumbre e Moraes com Daniel Vorcaro e o Banco Master,
+  sem apresentar documento ou fato novo específico para esse último ponto.
+notes: Fonte de opinião, tratada no acervo como registro de interpretação política publicada, não como fato apurado;
+  usada apenas para contextualizar a tese da 'blindagem mútua' que circula na imprensa, não para sustentar qualquer
+  proposição de classe C ou D.
+verification:
+  checked_at: '2026-09-10'
+  checked_by: orquestrador (leitura integral via WebFetch)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'

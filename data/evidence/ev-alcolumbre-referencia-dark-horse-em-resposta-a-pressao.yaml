@@ -1,0 +1,19 @@
+id: ev-alcolumbre-referencia-dark-horse-em-resposta-a-pressao
+kind: evidence
+classification: A
+proposition: Ao ser cobrado, em 02/09/2026, sobre o impeachment de Moraes, Alcolumbre respondeu em plenário citando
+  que 'pediram R$ 130 milhões para a mesma pessoa para fazer um filme', numa fala interpretada pela imprensa como
+  referência velada ao financiamento do Dark Horse por Daniel Vorcaro e como contra-ataque a quem pressiona pelo
+  impeachment.
+attributed_to: Davi Alcolumbre, em sessão do plenário do Senado
+document_ids: []
+source_ids:
+- src-direitonews-2026-09-02-alcolumbre-recado-flavio-dark-horse
+date: '2026-09-02'
+notes: A fala não nomeia Flávio Bolsonaro, Daniel Vorcaro nem o filme; a interpretação de que se trata de um recado
+  ao senador é leitura editorial da imprensa, registrada como tal.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-10'
+created_at: '2026-09-10'
+updated_at: '2026-09-10'
