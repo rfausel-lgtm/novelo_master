@@ -1,0 +1,25 @@
+id: ev-pf-acesso-ilicito-sistema-epol-juiz-de-fora
+kind: evidence
+classification: D
+proposition: 'Além do MPF, a organização de Daniel Vorcaro também acessou ilicitamente o sistema ePol
+  (polícia judiciária) da própria Polícia Federal — em 15/09/2025, Felipe Mourão enviou a Marilson Roseno
+  um print do sistema com inquéritos relacionados a "Daniel Vorcaro" (dois deles sigilosos, cujo conteúdo
+  não foi acessado). A auditoria instaurada pela PF em razão da gravidade do episódio apurou, até a data
+  do documento, que o acesso indevido partiu da Delegacia de Polícia Federal de Juiz de Fora/MG, e as
+  evidências mencionam ainda acesso a organismos internacionais como o FBI e a Interpol, sem detalhamento
+  do que teria sido obtido.'
+document_ids:
+- doc-2026-05-representacao-pf-pet15978-sexta-fase
+source_ids:
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+date: '2025-09-15'
+notes: A auditoria da PF sobre a origem do acesso (Juiz de Fora/MG) e a menção a FBI/Interpol estavam em
+  curso à data do documento — não há, neste material, identificação de qual servidor específico da
+  delegacia de Juiz de Fora teria fornecido o acesso, nem detalhamento do que foi obtido junto a FBI ou
+  Interpol. A PF atribui esse canal, de forma geral, a Marilson Roseno e Anderson Wander da Silva Lima,
+  que já constam do acervo como operadores de consultas ilegais ao ePol em favor de Vorcaro.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
