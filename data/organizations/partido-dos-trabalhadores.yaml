@@ -1,0 +1,25 @@
+id: partido-dos-trabalhadores
+kind: organization
+name: Partido dos Trabalhadores
+aliases:
+- PT
+org_type: party
+summary: Partido político brasileiro. Seu Diretório Nacional, por meio de advogados, peticionou ao STF em
+  09/09/2026 pelo levantamento do sigilo da PET 15.556 e de oito feitos conexos do caso Banco Master,
+  invocando paridade de armas eleitoral a menos de um mês do 1º turno das eleições de 2026.
+why_in_novelo: Peticionou formalmente ao STF pelo levantamento do sigilo do caso Master, um dia antes do
+  despacho de Fachin que efetivamente o determinou.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública adicional do partido sobre o tema, além da própria petição, localizada
+    no corpus.
+open_questions:
+- Não está estabelecido se esta petição influenciou o despacho de Fachin do dia seguinte (10/09/2026), que
+  correu por procedimento distinto (PET 16.704) aberto por Fachin seis dias antes desta petição.
+source_ids:
+- src-stf-pet15556-edoc414-peticao-pt-levantamento-sigilo-09-09-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

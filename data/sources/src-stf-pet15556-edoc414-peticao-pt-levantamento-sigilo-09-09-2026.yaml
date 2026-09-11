@@ -1,0 +1,35 @@
+id: src-stf-pet15556-edoc414-peticao-pt-levantamento-sigilo-09-09-2026
+kind: source
+title: Petição do PT pedindo o levantamento do sigilo da PET 15.556 e de oito feitos conexos (e-Doc 414)
+publisher: Supremo Tribunal Federal — Partido dos Trabalhadores (Diretório Nacional)
+author: Angelo Longo Ferraro e Miguel Filipi Pimentel Novaes (advogados do PT)
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7514886
+source_type: official_court
+summary: Petição de 09/09/2026, um dia antes do despacho de Fachin que efetivamente levantou o sigilo
+  (lote 168), em que o Diretório Nacional do PT pede ao relator André Mendonça o levantamento do sigilo da
+  PET 15.556 e de oito feitos conexos do caso Master sob a mesma relatoria — Pet 15.219, 15.612, 15.676,
+  15.771, 15.873, 15.978, 16.063, 16.078 e o Inq 5.026 —, invocando o direito de acesso à informação (CF,
+  art. 5º, XIV e XXXIII), a paridade de armas eleitoral (a menos de um mês do 1º turno de 04/10/2026, com
+  13 candidaturas à Presidência registradas) e o precedente da Operação Spoofing (Rcl 43.007/DF), em que o
+  STF levantou o sigilo de mensagens de Sergio Moro com procuradores da Lava Jato. Cataloga o estado de
+  publicidade em mosaico do caso e identifica, entre os feitos ainda sigilosos, a Pet 15.612/DF (inquérito
+  sobre o vazamento de dados dos celulares de Vorcaro) e as Pet 16.063/DF e 16.078/DF (que, segundo
+  requerimento de líderes partidários à Presidência, tratam do financiamento de obra cinematográfica — o
+  filme Dark Horse, já no acervo).
+notes: 'Não é possível estabelecer, com os elementos do corpus, se esta petição causou o despacho de
+  Fachin do dia seguinte: o despacho de Fachin corre pela PET 16.704, procedimento que ele mesmo abrira de
+  ofício em 03/09/2026, seis dias antes desta petição do PT — não há, no despacho de Fachin já no acervo,
+  menção expressa a esta petição. Trata-se, no mínimo, de coincidência temporal relevante e de registro
+  contemporâneo do argumento jurídico e do contexto eleitoral que cercavam a decisão.'
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador (leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

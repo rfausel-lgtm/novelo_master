@@ -1,0 +1,23 @@
+id: ev-pt-peticiona-levantamento-sigilo-um-dia-antes-de-fachin
+kind: evidence
+classification: D
+proposition: Em 09/09/2026 — um dia antes do despacho de Fachin que efetivamente levantou o sigilo da PET
+  15.556 (lote 168) —, o Diretório Nacional do PT peticionou ao ministro André Mendonça pedindo o
+  levantamento do sigilo da PET 15.556 e de oito feitos conexos (Pet 15.219, 15.612, 15.676, 15.771,
+  15.873, 15.978, 16.063, 16.078 e Inq 5.026), invocando paridade de armas eleitoral a menos de um mês do
+  1º turno de 2026 e o precedente da Operação Spoofing (Rcl 43.007/DF). A petição identifica a Pet 15.612
+  como o inquérito sobre o vazamento de dados dos celulares de Vorcaro, e as Pet 16.063 e 16.078 como
+  relativas ao financiamento do filme Dark Horse.
+document_ids:
+- doc-2026-09-09-peticao-pt-levantamento-sigilo-pet15556
+source_ids:
+- src-stf-pet15556-edoc414-peticao-pt-levantamento-sigilo-09-09-2026
+date: '2026-09-09'
+notes: Não estabelece relação causal com o despacho de Fachin do dia seguinte — que correu por procedimento
+  distinto (PET 16.704), aberto por ele seis dias antes desta petição, sem menção expressa a ela. Registra
+  apenas a coincidência temporal e o argumento jurídico que circulava no processo às vésperas da decisão.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

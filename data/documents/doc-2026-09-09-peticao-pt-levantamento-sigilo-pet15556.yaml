@@ -1,0 +1,28 @@
+id: doc-2026-09-09-peticao-pt-levantamento-sigilo-pet15556
+kind: document
+title: Petição do PT pedindo o levantamento do sigilo da PET 15.556 e de oito feitos conexos
+doc_type: judicial_filing
+date: '2026-09-09'
+source_ids:
+- src-stf-pet15556-edoc414-peticao-pt-levantamento-sigilo-09-09-2026
+summary: O Diretório Nacional do PT pede ao ministro André Mendonça o levantamento do sigilo da PET 15.556
+  e de oito feitos conexos do caso Banco Master, invocando direito de acesso à informação, paridade de
+  armas eleitoral e o precedente da Operação Spoofing.
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- edson-fachin
+- supremo-tribunal-federal
+- partido-dos-trabalhadores
+issuer_id: partido-dos-trabalhadores
+issuer: Partido dos Trabalhadores — Diretório Nacional
+date_precision: day
+reference: STF, PET 15.556, petição de 09/09/2026 (e-Doc 414)
+excerpt: 'Faltam vinte e cinco dias para o primeiro turno das eleições gerais de 2026. Foram requeridos
+  treze registros de candidatura à Presidência da República, e o caso Master (...) tornou-se tema central
+  da disputa.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
