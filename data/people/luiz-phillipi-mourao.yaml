@@ -25,7 +25,10 @@ summary: 'Preso na 3ª fase da Operação Compliance Zero em 04/03/2026, teve mo
   Marilson Roseno da Silva como líder operacional em campo, remunerado em R$ 1 milhão por mês; a petição
   transcreve mensagens de WhatsApp em que ele aprova ou executa ameaças de morte contra um ex-funcionário
   de Vorcaro e sua família, invasão de dispositivos de um crítico do banco, e um documento forjado com
-  aparência de ser da Interpol.'
+  aparência de ser da Interpol. Em 29/05/2026, o STF declarou extinta sua punibilidade por morte (art. 107,
+  I, CP), com arquivamento parcial das investigações — mas manteve as medidas de sequestro de bens contra
+  o espólio, determinando que os herdeiros ingressem nos autos para acompanhar as restrições patrimoniais,
+  por se tratar de obrigação de reparação que se transmite a eles.'
 why_in_novelo: É apontado pela Polícia Federal como peça do núcleo que teria monitorado e intimidado adversários
   de Daniel Vorcaro, e morreu sob custódia policial, em circunstâncias que a própria PF disse que apuraria.
 cited_position:
@@ -68,6 +71,7 @@ source_ids:
 - src-brasilapi-2026-king-motors-locacao
 - src-cnnbrasil-2026-vorcaro-pagava-400-mil-mes-a-turma
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+- src-stf-pet15556-edoc322-decisao-extincao-punibilidade-mourao-29-05-2026
 aliases:
 - Felipe Mourão
 full_name: Luiz Phillipi Machado de Moraes Mourão
