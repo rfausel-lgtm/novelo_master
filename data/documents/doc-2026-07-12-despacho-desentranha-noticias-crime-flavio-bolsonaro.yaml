@@ -1,0 +1,27 @@
+id: doc-2026-07-12-despacho-desentranha-noticias-crime-flavio-bolsonaro
+kind: document
+title: Despacho que desentranha duas notícias-crime contra Flávio Bolsonaro para autuação autônoma
+doc_type: judicial_decision
+date: '2026-07-12'
+source_ids:
+- src-stf-pet15556-edoc345-despacho-desentranha-noticias-crime-flavio-bolsonaro
+summary: Despacho de André Mendonça que desentranha da PET 15.556 as notícias-crime da deputada Luciene
+  Cavalcante e do deputado Henrique dos Santos Vieira Lima contra o senador Flávio Bolsonaro, determinando
+  autuação em procedimentos autônomos conexos à Pet 16.292.
+is_official: true
+related_entity_ids:
+- flavio-bolsonaro
+- andre-mendonca
+- daniel-vorcaro
+issuer_id: supremo-tribunal-federal
+issuer: Ministro André Mendonça
+date_precision: day
+reference: STF, PET 15.556, despacho de 12/07/2026 (e-Doc 345)
+excerpt: 'Flávio Bolsonaro visitou Daniel Vorcaro em sua residência particular em São Paulo ainda no final
+  de 2025, durante o período em que o banqueiro cumpria restrições cautelares impostas pelo Poder
+  Judiciário.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

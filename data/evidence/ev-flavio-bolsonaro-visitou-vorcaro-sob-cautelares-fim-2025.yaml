@@ -1,0 +1,21 @@
+id: ev-flavio-bolsonaro-visitou-vorcaro-sob-cautelares-fim-2025
+kind: evidence
+classification: D
+proposition: O senador Flávio Bolsonaro visitou Daniel Vorcaro em sua residência particular em São Paulo
+  no final de 2025, período em que o banqueiro já cumpria restrições cautelares impostas pelo Poder
+  Judiciário — fato noticiado pelo colunista Igor Gadelha (Metrópoles, 19/05/2026) e confirmado pelo
+  próprio senador ao jornal O Globo na mesma data, conforme relatado na notícia-crime do deputado Henrique
+  dos Santos Vieira Lima.
+document_ids:
+- doc-2026-07-12-despacho-desentranha-noticias-crime-flavio-bolsonaro
+source_ids:
+- src-stf-pet15556-edoc345-despacho-desentranha-noticias-crime-flavio-bolsonaro
+date: '2025-12-01'
+notes: A data exata da visita não é precisada (apenas "final de 2025"); o fato de o próprio senador tê-la
+  confirmado à imprensa (O Globo, 19/05/2026) reduz a controvérsia sobre sua ocorrência, mas o corpus não
+  obteve essa reportagem original — apenas a descrição dela feita na notícia-crime.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

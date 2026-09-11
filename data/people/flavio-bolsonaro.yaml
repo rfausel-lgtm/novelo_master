@@ -13,8 +13,10 @@ summary: Senador pelo Rio de Janeiro e filho de Jair Bolsonaro. Mensagens e áud
   atrasadas; em 14/05/2026 admitiu à GloboNews ter negado a relação anteriormente ('Eu menti'), atribuindo a negativa
   a contrato de confidencialidade. Em 01/09/2026, diante do registro do Coaf de nova transferência em setembro de
   2025, remeteu explicações à produtora.
-why_in_novelo: Aparece em mensagens e áudios, divulgados pela imprensa, tratando com Daniel Vorcaro do financiamento
-  do filme 'Dark Horse'; sua posição pública está registrada.
+why_in_novelo: 'Aparece em mensagens e áudios, divulgados pela imprensa, tratando com Daniel Vorcaro do financiamento
+  do filme ''Dark Horse''; sua posição pública está registrada. NOVO: notícia-crime de deputado federal (desentranhada
+  da PET 15.556 em 12/07/2026) relata que ele visitou Vorcaro em sua residência particular no final de 2025, período
+  em que o banqueiro já cumpria restrições cautelares — fato confirmado pelo próprio senador ao O Globo.'
 cited_position:
 - kind: version
   summary: Afirmou que se tratava de 'um filho procurando investidores privados para fazer um filme privado sobre
@@ -75,14 +77,15 @@ source_ids:
 - src-cnnbrasil-2026-05-20-flavio-troca-marqueteiro-apos-dark-horse
 - src-cnnbrasil-2026-09-04-flavio-acusa-alcolumbre-proteger-moraes
 - src-brasil247-2026-09-04-flavio-acusa-alcolumbre-bloqueio-impeachment
+- src-stf-pet15556-edoc345-despacho-desentranha-noticias-crime-flavio-bolsonaro
 full_name: Flávio Nantes Bolsonaro
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-10'
+updated_at: '2026-09-11'
 photo:
   path: /fotos/flavio-bolsonaro.jpg
   source: Wikimedia Commons
