@@ -2,6 +2,24 @@
 
 ## Unreleased
 
+- `/atualizacoes` paginada em dez revisões por página, com barra numerada convencional
+  (`‹ 1 … 10 11 12 … 21 ›`), campo de salto direto e o intervalo de lotes como legenda. A página
+  listava as 208 revisões de uma vez e o HTML tinha chegado a 1,15 MB; agora são 78 KB. A página 1
+  segue em `/atualizacoes` e as demais em `/atualizacoes/pagina/N`, estáticas e no sitemap — não há
+  `/pagina/1`, para não criar URL duplicada. No celular as vizinhas da atual saem da barra, porque os
+  nove itens quebravam em três linhas a 375 px; as setas cobrem esse salto.
+- O menu do cabeçalho só aparece onde cabe. Ele abria em `md` (768 px) e a linha pede 1111 px
+  medidos, então entre 768 e 1110 px o menu vazava e **toda página do site** ganhava rolagem
+  horizontal — tablet deitado e notebook pequeno inclusive. O ponto de quebra passou para 1140 px, o
+  medido mais folga. As regras de CSS do cabeçalho passaram a casar o elemento em vez do nome da
+  classe utilitária: casavam `.md\:flex` e `.md\:hidden`, e ao mudar o ponto de quebra virariam
+  seletores mortos sem nada acusar.
+- `artesPorRevisao()` passou a memorizar a leitura pelo mtime de `public/social/`. Cada chamada abria
+  todos os `.webp` da pasta só para ler largura e altura, e a paginação multiplicou as chamadas por
+  21; um teste que a chamava dentro de um filtro sobre as revisões estourou o limite de 5 s do
+  Vitest. A suíte caiu de 16,8 s para 10,0 s. É mtime, e não um booleano, para que arte nova apareça
+  em `next dev` sem reiniciar o servidor.
+
 - Regra da cadeia de gatilhos da publicação de lote em `AGENTS.md`: quem publica aciona a geração de arte na mesma sessão, e o fluxo segue até o rascunho de post — que para ali, esperando aprovação humana antes de qualquer publicação no X.
 - Área de imprensa com media kit PDF aprovado, capa, acesso na abertura, menu móvel e rodapé; inclusão no sitemap.
 

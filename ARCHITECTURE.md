@@ -29,28 +29,31 @@ data/*.yaml  ──►  scripts/build-data.ts  ──►  src/generated/corpus.j
 
 ## Diretórios
 
-| Caminho                  | Conteúdo                                                                                                                                                                                                                                                                                        |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `data/`                  | Corpus editorial (people, organizations, events, relationships, claims, sources, documents, public-acts, transactions, evidence, sequences, revisions).                                                                                                                                         |
-| `raw/`                   | Material bruto de pesquisa: briefing dos investigadores, relatórios de cluster, patches propostos. Nada daqui vai ao site sem passar pelo schema.                                                                                                                                               |
-| `processed/`             | Capturas de páginas e PDFs feitas por `python/novelo_osint/fetch.py` (ignorado no Git).                                                                                                                                                                                                         |
-| `scripts/`               | Pipeline de dados (`build-data.ts`, `validate-data.ts`), dataset sintético (`synth-stress.ts`), scanner de segredos de fallback.                                                                                                                                                                |
-| `scripts/lib/`           | `load.ts` (YAML → registros validados), `lint.ts` (regras editoriais), `graph.ts` (corpus → grafo + layout), `acervo.ts` (corpus → texto e llms.txt), `kml.ts` (lugares → KML), `report.ts`.                                                                                                    |
-| `src/lib/schema/`        | Schemas Zod e rótulos pt-BR. Contrato único usado pelo pipeline e pelo site.                                                                                                                                                                                                                    |
-| `src/lib/data/`          | Acesso ao corpus compilado nas páginas (server-only).                                                                                                                                                                                                                                           |
-| `src/lib/graph/`         | Contrato do grafo (`types.ts`), construção do Graphology, algoritmos (caminhos, vizinhança, filtros), estilos e programas WebGL.                                                                                                                                                                |
-| `src/components/graph/`  | Canvas Sigma, explorador, cards de nó e aresta, filtros, legenda, seleção múltipla, caminho mínimo, time machine, antes/depois.                                                                                                                                                                 |
-| `src/components/entity/` | Componentes das páginas individuais (evidência, fontes, posição do citado, timeline, relação, lugar, prompt copiável).                                                                                                                                                                          |
-| `src/components/ui/`     | Peças transversais de interface: logo e alternador de tema.                                                                                                                                                                                                                                     |
-| `src/app/`               | Rotas: `/`, `/grafo`, `/pessoas`, `/organizacoes`, `/eventos`, `/documentos`, `/fontes`, `/atos`, `/cronologia`, `/coincidencias`, `/atualizacoes`, `/metodologia`, `/politica-editorial`, `/rede`, `/perguntar` ("Sua IA responde"), `/sobre`, sitemap, robots e a imagem de compartilhamento. |
-| `python/novelo_osint/`   | Utilitários de captura para OSINT: `fetch.py` (curl com IP local, extração de texto de HTML e PDF, metadados), `fotos.py` (retratos de licença livre), `minimapas.py` (tiles do OSM → PNG estático).                                                                                            |
-| `public/assets/novelo/`  | Arte da identidade visual (hero, faixas de seção, fundo do loader), em AVIF e WebP, claro e escuro. Só arquivos finais; os masters ficam fora do repositório.                                                                                                                                   |
-| `public/dossies/`        | Um dossiê em texto por pessoa e organização, gerado no build (ignorado no Git).                                                                                                                                                                                                                 |
-| `public/mapas/`          | Minimapas gerados: um PNG por registro com lugar, servido pela própria origem.                                                                                                                                                                                                                  |
-| `docs/adr/`              | Architecture Decision Records.                                                                                                                                                                                                                                                                  |
-| `docs/estudos/`          | Estudos de viabilidade que ainda não viraram decisão (esforço, medições, riscos).                                                                                                                                                                                                               |
-| `tests/`                 | Unitários (Vitest) em `tests/unit` e `src/**/*.test.ts`; E2E (Playwright) em `tests/e2e`.                                                                                                                                                                                                       |
-| `.github/`               | CI (qualidade, segredos, auditoria, e2e), dependency review, CodeQL, Dependabot, templates de issue e PR.                                                                                                                                                                                       |
+| Caminho                        | Conteúdo                                                                                                                                                                                                                                                                                                                     |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `data/`                        | Corpus editorial (people, organizations, events, relationships, claims, sources, documents, public-acts, transactions, evidence, sequences, revisions).                                                                                                                                                                      |
+| `raw/`                         | Material bruto de pesquisa: briefing dos investigadores, relatórios de cluster, patches propostos. Nada daqui vai ao site sem passar pelo schema.                                                                                                                                                                            |
+| `processed/`                   | Capturas de páginas e PDFs feitas por `python/novelo_osint/fetch.py` (ignorado no Git).                                                                                                                                                                                                                                      |
+| `scripts/`                     | Pipeline de dados (`build-data.ts`, `validate-data.ts`), dataset sintético (`synth-stress.ts`), scanner de segredos de fallback.                                                                                                                                                                                             |
+| `scripts/lib/`                 | `load.ts` (YAML → registros validados), `lint.ts` (regras editoriais), `graph.ts` (corpus → grafo + layout), `acervo.ts` (corpus → texto e llms.txt), `kml.ts` (lugares → KML), `report.ts`.                                                                                                                                 |
+| `src/lib/schema/`              | Schemas Zod e rótulos pt-BR. Contrato único usado pelo pipeline e pelo site.                                                                                                                                                                                                                                                 |
+| `src/lib/data/`                | Acesso ao corpus compilado nas páginas (server-only).                                                                                                                                                                                                                                                                        |
+| `src/lib/graph/`               | Contrato do grafo (`types.ts`), construção do Graphology, algoritmos (caminhos, vizinhança, filtros), estilos e programas WebGL.                                                                                                                                                                                             |
+| `src/components/graph/`        | Canvas Sigma, explorador, cards de nó e aresta, filtros, legenda, seleção múltipla, caminho mínimo, time machine, antes/depois.                                                                                                                                                                                              |
+| `src/components/entity/`       | Componentes das páginas individuais (evidência, fontes, posição do citado, timeline, relação, lugar, prompt copiável).                                                                                                                                                                                                       |
+| `src/components/ui/`           | Peças transversais de interface: logo e alternador de tema.                                                                                                                                                                                                                                                                  |
+| `src/components/layout/`       | Cabeçalho e rodapé do site. O cabeçalho decide sozinho quando troca o menu completo pelo botão de menu (ver Aparência).                                                                                                                                                                                                      |
+| `src/components/atualizacoes/` | Lista paginada de `/atualizacoes` e o campo de salto para uma página (único componente de cliente da rota).                                                                                                                                                                                                                  |
+| `src/app/`                     | Rotas: `/`, `/grafo`, `/pessoas`, `/organizacoes`, `/eventos`, `/documentos`, `/fontes`, `/atos`, `/cronologia`, `/coincidencias`, `/atualizacoes` e `/atualizacoes/pagina/[n]`, `/metodologia`, `/politica-editorial`, `/rede`, `/perguntar` ("Sua IA responde"), `/sobre`, sitemap, robots e a imagem de compartilhamento. |
+| `python/novelo_osint/`         | Utilitários de captura para OSINT: `fetch.py` (curl com IP local, extração de texto de HTML e PDF, metadados), `fotos.py` (retratos de licença livre), `minimapas.py` (tiles do OSM → PNG estático).                                                                                                                         |
+| `public/assets/novelo/`        | Arte da identidade visual (hero, faixas de seção, fundo do loader), em AVIF e WebP, claro e escuro. Só arquivos finais; os masters ficam fora do repositório.                                                                                                                                                                |
+| `public/dossies/`              | Um dossiê em texto por pessoa e organização, gerado no build (ignorado no Git).                                                                                                                                                                                                                                              |
+| `public/social/`               | Arte de divulgação dos lotes, um `.webp` por revisão (ver [docs/ARTE-DE-LOTE.md](docs/ARTE-DE-LOTE.md)). Lida por `src/lib/social.ts`, que memoriza a leitura pelo mtime da pasta — a lista é montada uma vez por build, não uma vez por página.                                                                             |
+| `public/mapas/`                | Minimapas gerados: um PNG por registro com lugar, servido pela própria origem.                                                                                                                                                                                                                                               |
+| `docs/adr/`                    | Architecture Decision Records.                                                                                                                                                                                                                                                                                               |
+| `docs/estudos/`                | Estudos de viabilidade que ainda não viraram decisão (esforço, medições, riscos).                                                                                                                                                                                                                                            |
+| `tests/`                       | Unitários (Vitest) em `tests/unit` e `src/**/*.test.ts`; E2E (Playwright) em `tests/e2e`.                                                                                                                                                                                                                                    |
+| `.github/`                     | CI (qualidade, segredos, auditoria, e2e), dependency review, CodeQL, Dependabot, templates de issue e PR.                                                                                                                                                                                                                    |
 
 ## Modelo de dados (resumo)
 
@@ -88,6 +91,46 @@ As paletas são declaradas por extenso nos dois blocos, sem `light-dark()`, porq
 as cores computadas e as entrega ao WebGL como números — a função chegaria ao shader como texto. O
 mesmo motivo torna o contraste testável: `tests/unit/contraste.test.ts` calcula a razão de cada par
 token/fundo nas duas paletas e falha abaixo de WCAG AA.
+
+### O ponto de quebra do cabeçalho é medido, não convencionado
+
+O menu completo aparece a partir de **1140 px**, e esse número saiu de medição, não do conjunto
+padrão do Tailwind. A linha do cabeçalho pede 1111 px — marca 101, vão 16, menu 946, respiro 48 —, e
+os 29 px restantes são folga para troca de fonte ou item novo. Enquanto o menu abria em `md` (768 px)
+ele não cabia, vazava para fora da janela e **toda página do site** ganhava rolagem horizontal entre
+768 e 1110 px.
+
+Se o menu ganhar ou perder item, remeça antes de confiar: some a largura da marca, o vão, o
+`scrollWidth` do `nav[aria-label="Principal"]` e o padding da linha. O número vive em dois lugares —
+`src/components/layout/SiteHeader.tsx` e `src/app/globals.css` — e cada um aponta para o outro.
+
+Regra relacionada: as regras de CSS do cabeçalho casam o **elemento** (`nav[aria-label="Principal"]`,
+`.mobile-menu-trigger`), nunca o nome da classe utilitária. Elas já casaram `.md\:flex` e
+`.md\:hidden`, e ao mudar o ponto de quebra viraram seletores mortos sem que nada acusasse.
+
+## Listas longas: /atualizacoes
+
+O histórico editorial cresce um lote por vez e não para. Listado de uma vez, o HTML de
+`/atualizacoes` chegou a **1,15 MB** — peso que o leitor de celular paga inteiro para ler as dez
+últimas revisões.
+
+A rota é paginada em dez por página: `/atualizacoes` é a página 1 e as demais ficam em
+`/atualizacoes/pagina/N`, geradas estaticamente e incluídas no sitemap (sem isso o buscador só
+conheceria as dez últimas). **Não existe `/pagina/1`**: duas rotas servindo a mesma lista seriam URL
+duplicada, o defeito que a canônica da home e do grafo já teve de corrigir uma vez.
+
+A navegação é a barra numerada convencional (`‹ 1 … 10 11 12 … 21 ›`), mais um campo de salto direto.
+Duas decisões que vieram de medição e não de gosto:
+
+- Abaixo de 640 px as páginas vizinhas da atual são escondidas por CSS — os nove itens quebravam em
+  três linhas a 375 px. Primeira, última e atual nunca somem; para a vizinha existem as setas.
+- O campo de salto é o único componente de cliente da rota e custa 1 KB. Para que custasse isso,
+  `src/lib/atualizacoes.ts` é um módulo **puro**: `totalDePaginas` recebe a contagem em vez de chamar
+  `allRevisions()`. Um `import` de `@/lib/data` ali arrastaria o corpus inteiro para o pacote do
+  navegador.
+
+A barra de links continua completa mesmo com o campo de salto presente: sem JavaScript o campo não
+faz nada, e a navegação precisa seguir funcionando.
 
 ## Lugares
 
