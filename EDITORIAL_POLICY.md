@@ -199,9 +199,29 @@ Essas artes existem para divulgação do lote em rede social, ficam em `public/s
 4. **A ausência é o estado normal.** A maior parte dos lotes não tem nem terá arte. Isso não é lacuna, não é pendência, e a lista não reserva espaço para ela.
 5. **O texto embutido na arte não é fonte.** Os cards trazem o título do lote e a marca do site no próprio pixel. O que vale é o registro em `data/`; divergindo os dois, corrige-se ou remove-se a arte.
 
-**Conferência humana, obrigatória.** Nenhuma arte é publicada sem conferência humana registrada no PR ou no commit que a publica. Quem gerou a imagem — sempre um modelo — nunca a libera. A confirmação declara que a arte não traz rosto ou pessoa real identificável, não é retrato fotorrealista, não simula documento nem cena de fato, não acrescenta alegação e não é animada. Sem esse registro, a arte não é publicada.
+**Autorização editorial continuada e liberação automática.** Em 11 de setembro de 2026, Rafael
+Fausel, responsável editorial pelo projeto, autorizou de forma continuada que as artes geradas a
+partir desta data sejam inspecionadas e publicadas pelo próprio agente, sem aprovação humana
+individual. A autorização pode ser revogada a qualquer momento e não afasta nenhuma regra desta
+seção.
 
-O que é verificável por máquina — formato, largura, animação, nome canônico, vínculo com revisão existente — é responsabilidade do `npm run social:check`; o resto é da conferência humana, e um não substitui o outro. O contrato técnico está em [docs/ARTE-DE-LOTE.md](docs/ARTE-DE-LOTE.md).
+Antes de publicar cada arte, o agente registra no PR um checklist concluído declarando que a imagem:
+
+- não traz rosto ou pessoa real identificável;
+- não é retrato fotorrealista;
+- não simula documento, decisão, processo, print, fotografia jornalística ou cena de fato específica;
+- não acrescenta pessoa, fato, número, documento, alegação ou conclusão ausente da revisão;
+- contém somente o título exato da revisão e a marca do site como texto editorial; e
+- não é animada.
+
+O agente só mescla o PR depois de inspecionar a imagem e de todas as verificações obrigatórias
+passarem. Se não puder afirmar com segurança que qualquer item está conforme, falha fechado: não
+publica a arte e avisa o editor. A autoaprovação não permite presumir conformidade nem ignorar alerta.
+
+O que é verificável por máquina — formato, largura, animação, nome canônico, vínculo com revisão
+existente — é responsabilidade do `npm run social:check`; o restante é da inspeção visual registrada
+pelo agente, e um não substitui o outro. O contrato técnico está em
+[docs/ARTE-DE-LOTE.md](docs/ARTE-DE-LOTE.md).
 
 Remover uma arte não exige revisão em `data/`: basta apagar o arquivo, porque nenhum registro depende dela.
 

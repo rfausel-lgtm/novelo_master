@@ -10,7 +10,7 @@
  * A conversão usa o Chrome já instalado na máquina (`channel: "chrome"`), não o Chromium que o
  * Playwright baixaria à parte. Arte já entregue em WebP conforme é só copiada.
  *
- * Isto não dispensa a conferência humana exigida pela EDITORIAL_POLICY seção 7.1.
+ * Isto não dispensa a inspeção visual e o registro exigidos pela EDITORIAL_POLICY seção 7.1.
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -75,8 +75,10 @@ async function publicar() {
   if (width > LARGURA_MAXIMA) throw new Error(`${width} px acima do limite de ${LARGURA_MAXIMA}`);
 
   fs.writeFileSync(destino, saida);
-  console.log(`${path.basename(destino)}: ${width}x${height}, ${Math.round(saida.length / 1024)} KB`);
-  console.log("Confira a arte antes de commitar — EDITORIAL_POLICY.md, seção 7.1.");
+  console.log(
+    `${path.basename(destino)}: ${width}x${height}, ${Math.round(saida.length / 1024)} KB`,
+  );
+  console.log("Inspecione a arte e registre o checklist — EDITORIAL_POLICY.md, seção 7.1.");
 }
 
 publicar().catch((e) => {
