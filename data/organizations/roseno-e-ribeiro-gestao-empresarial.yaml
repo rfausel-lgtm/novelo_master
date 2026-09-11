@@ -1,0 +1,21 @@
+id: roseno-e-ribeiro-gestao-empresarial
+kind: organization
+name: Roseno & Ribeiro Gestão Empresarial Ltda
+org_type: company
+summary: Empresa da qual Marilson Roseno da Silva é sócio-administrador, apontada pela PF como o veículo formal
+  pelo qual a King Participações Imobiliárias (de Luiz Phillipi Mourão) fazia os repasses mensais destinados a Marilson
+  e ao núcleo 'A Turma' — com notas fiscais emitidas por Helder Alves de Lima, contador da empresa. Documentação
+  contábil localizada pela PF cobre novembro/dezembro de 2025 e janeiro/fevereiro de 2026, mostrando que os repasses
+  continuaram mesmo após as fases ostensivas da operação.
+why_in_novelo: É o veículo empresarial formal que dava aparência lícita aos repasses mensais ao núcleo 'A Turma',
+  ligando a King Participações de Mourão a Marilson Roseno.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada no corpus.
+source_ids:
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

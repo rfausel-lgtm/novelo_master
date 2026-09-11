@@ -4,7 +4,7 @@ name: Henrique Vorcaro
 category: businessperson
 role: Pai de Daniel Vorcaro; apontado pela PF como operador financeiro do grupo investigado
 positions: []
-summary: Pai de Daniel Vorcaro. Teve prisão preventiva decretada pelo STF em 14/05/2026 (Pet 15978, 6ª
+summary: 'Pai de Daniel Vorcaro. Teve prisão preventiva decretada pelo STF em 14/05/2026 (Pet 15978, 6ª
   fase da Compliance Zero), mantida pela Segunda Turma em 16/06/2026 por maioria. Segundo a PF, seria
   o principal operador financeiro e responsável por repassar ao grupo as ordens do filho. Em março de
   2026, teve bens bloqueados pela Justiça a pedido da EFB (liquidante do Banco Master) e é réu, ao lado
@@ -21,6 +21,15 @@ summary: Pai de Daniel Vorcaro. Teve prisão preventiva decretada pelo STF em 14
   de recursos que se perpetuou mesmo após a soltura de Daniel Vorcaro em 28/11/2025. Reportagem da Folha
   de 07/03/2026, anexada à petição em que ele nega saldo na Reag, descreve-o como um dos destinatários do
   mecanismo de desvio via CDBs e fundos cativos do Master — ao lado da irmã Natália e do primo Felipe.
+  A DECISÃO DA 6ª FASE (13/05/2026, lote 191), lida na íntegra, é muito mais específica que a cobertura
+  de imprensa: reproduz mensagens de WhatsApp em que ele cobra e paga o núcleo ''A Turma'' mesmo após a
+  1ª e a 2ª fases da operação (09/01/2026: ''no momento em que estou é que preciso de vocês''; 06/01/2026:
+  promete enviar ''400'' a Marilson Roseno, que pede ''800k''), usa número estrangeiro (Colômbia) e troca
+  de terminal com frequência, e se reuniu pessoalmente com Marilson em 03/03/2026 na empresa One
+  Investimentos, na véspera da 3ª fase (identificado apenas como ''H'' numa mensagem de Marilson à esposa,
+  decifrado por cruzamento de dados pela PF). Documentação contábil da empresa Roseno & Ribeiro Gestão
+  Empresarial (de Marilson) mostra repasses da King Participações (de Mourão) que continuaram em
+  novembro/dezembro de 2025 e janeiro/fevereiro de 2026.'
 why_in_novelo: Teve prisão preventiva decretada e mantida pelo STF na 6ª fase da Operação Compliance Zero,
   sendo descrito pela Polícia Federal como operador financeiro do grupo investigado.
 cited_position:
@@ -63,6 +72,7 @@ source_ids:
 - src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
 - src-stf-pet15556-edoc75-peticao-henrique-vorcaro-nega-conta-reag-09-03-2026
 - src-folha-2026-03-07-como-vorcaro-desviava-dinheiro-familiares
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 full_name: Henrique Moura Vorcaro
 review_status: published
 reviewer: orquestrador

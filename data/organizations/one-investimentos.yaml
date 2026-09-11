@@ -1,0 +1,20 @@
+id: one-investimentos
+kind: organization
+name: One Investimentos
+org_type: company
+summary: Empresa em cujo escritório Marilson Roseno da Silva se reuniu, em 03/03/2026 — véspera da 3ª fase da Operação
+  Compliance Zero —, com uma pessoa identificada por ele à esposa apenas como 'H', que a PF concluiu, por cruzamento
+  de dados, ser Henrique Vorcaro. O corpus não obteve mais informações sobre a empresa nem sobre eventual vínculo
+  formal dela com o caso Master.
+why_in_novelo: É o local de um encontro que a PF usa como evidência de contato direto e recente entre Henrique Vorcaro
+  e o líder operacional de 'A Turma', às vésperas da fase que prendeu Vorcaro e Mourão.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada no corpus.
+source_ids:
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
