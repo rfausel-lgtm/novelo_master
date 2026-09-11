@@ -23,12 +23,58 @@ dos dados está em `/atualizacoes` no site e em `data/revisions`.
   gitleaks varre o histórico inteiro, inclusive branches, o alarme tocava em toda execução — e detector
   permanentemente vermelho ensina a ignorá-lo. O branch foi apagado (ponta em `3a9cee7`, recuperável
   pelo SHA enquanto o GitHub não coleta), e com ele o achado. Nenhuma exceção por valor ficou no
-  `.gitleaks.toml`: token não deve ser literal no fonte nem quando o valor é público, e o beacon volta
-  por variável `NEXT_PUBLIC_*` declarada em `.env.example`. As allowlists passaram de `[allowlist]`
-  para `[[allowlists]]`, forma que o gitleaks 8.30 exige.
+  `.gitleaks.toml`: token não deve ser literal no fonte nem quando o valor é público. O beacon acabou
+  voltando sem token nenhum, pelo modo automático do Pages (ver adiante). As allowlists passaram de
+  `[allowlist]` para `[[allowlists]]`, forma que o gitleaks 8.30 exige.
+- O `github/codeql-action` subiu para a v4 **nas duas pontas de uma vez**. O Dependabot abria um PR
+  por passo, e `init` e `analyze` são duas metades da mesma execução: cada PR sozinho punha as duas em
+  versões diferentes e o `analyze` morria com `Loaded a configuration file for version '3.37.9', but
+running version '4.37.9'`. Nenhum dos dois passaria isolado. A causa raiz estava no
+  `dependabot.yml`, que não agrupava o ecossistema `github-actions`; o grupo `codeql-action` resolve.
+  O comentário de versão ao lado do SHA passou a trazer a versão exata em vez do major — era "# v3"
+  ao lado de um SHA da v4 que mascarava a incompatibilidade no diff.
+- O major do ESLint entrou em `ignore` no `dependabot.yml`, com condição de saída escrita. O ESLint 10
+  removeu os métodos antigos de contexto e o `eslint-plugin-react`, empacotado dentro do
+  `eslint-config-next`, ainda chama `context.getFilename()`: o lint morre ao carregar
+  `react/display-name`, antes de olhar para o código do projeto. O `eslint-config-next` 16.3.4, última
+  estável, declara peer `eslint >= 9.0.0` — declaração falsa na prática, e foi ela que fez o Dependabot
+  tratar o upgrade como seguro.
+- `raw/osint/BRIEFING.md`, que é o texto lido pelos agentes de investigação antes de escrever em
+  `data/`, estava atrás das regras que o pipeline passou a impor: mandava terminar com "0 erros
+  (avisos são aceitáveis)" quando o CI roda o modo estrito, onde aviso em registro publicado bloqueia.
+  Ganhou as quatro regras novas — aviso bloqueante, entrada de revisão obrigatória, proibição de
+  registro publicado citar registro `in_review`, e duplicata de entidade — e a instrução de conferir
+  build e lint pelo código de saída, não pela leitura da saída, que foi como cinco lotes seguidos
+  subiram com o build quebrado sem ninguém perceber.
 
 ### Adicionado
 
+- **Medição de acessos**, pelo Cloudflare Web Analytics no **modo automático**: o Pages injeta o
+  beacon no deploy e não há código nem token no repositório. Foi escolhido sobre a alternativa de
+  embutir o snippet com o token em variável de ambiente, que exigiria cadastrar o valor em dois
+  lugares e abrir mais um host na CSP. O custo do modo automático é a invisibilidade — nada no código
+  diria que a medição existe —, pago com a seção "Medição de acessos" no `ARCHITECTURE.md`.
+  Armadilha registrada no `public/_headers`: a documentação da Cloudflare afirma que em site proxiado
+  a medição vai para `/cdn-cgi/rum` no próprio domínio, o que dispensaria liberar `connect-src`.
+  Medido em produção, não vai — o beacon chama `cloudflareinsights.com`, e sem esse host a contagem
+  simplesmente não acontecia, sem nenhum sinal no site e só com erro no console.
+- **`/sobre` declara ao leitor o que o site mede**, na seção "O que este site mede". O texto afirma só
+  o que foi medido aqui — produção não devolve `Set-Cookie`, e o único armazenamento no navegador são
+  duas preferências locais (tema e dispensa do painel do grafo) — e, sobre o serviço de terceiro,
+  aponta para a documentação da Cloudflare em vez de dar garantia em nome do projeto: as páginas
+  públicas alcançadas não afirmam nada sobre cookie ou impressão digital, então nada disso foi escrito
+  como fato. Diz também o que costuma ficar implícito: quem entrega a página vê o pedido que a
+  solicitou, o que é do funcionamento da web e não da medição.
+- **Autorização de embed para a Revista Oeste**, que pediu para embutir o Novelo em `iframe`:
+  `frame-ancestors` passou a admitir `revistaoeste.com` e `www.revistaoeste.com`, e o
+  `X-Frame-Options: DENY` foi **removido** — ele não sabe liberar domínio específico, porque a sintaxe
+  `ALLOW-FROM` foi abandonada e navegador moderno que a encontra ignora o cabeçalho inteiro. Liberar
+  não abre superfície: clickjacking precisa de ação que valha a autoridade do visitante, e o site não
+  tem login, cookie, formulário nem requisição que não seja `GET` de JSON estático do próprio domínio.
+  **A premissa tem prazo** — está escrito no `_headers` e no `ARCHITECTURE.md` que, no dia em que o
+  site ganhar qualquer interação com efeito, a linha volta a ser decisão de segurança e precisa ser
+  reavaliada antes de a funcionalidade entrar. Cada host é uma origem distinta: domínio de homologação
+  ou preview exigirá acréscimo explícito.
 - Checagem de duplicação de pessoa e organização no pipeline, depois de um lote criar três entidades
   ao lado de registros que já existiam sob outro id. Rótulo idêntico depois de normalizar (nome ou
   alias de um igual a nome ou alias do outro) é erro; tokens de um nome contidos no outro é aviso que
