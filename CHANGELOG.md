@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Regra da cadeia de gatilhos da publicação de lote em `AGENTS.md`: quem publica aciona a geração de arte na mesma sessão, e o fluxo segue até o rascunho de post — que para ali, esperando aprovação humana antes de qualquer publicação no X.
 - Área de imprensa com media kit PDF aprovado, capa, acesso na abertura, menu móvel e rodapé; inclusão no sitemap.
 
 Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O histórico editorial
