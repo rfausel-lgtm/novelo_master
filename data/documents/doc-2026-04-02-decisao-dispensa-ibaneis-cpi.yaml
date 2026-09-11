@@ -1,0 +1,29 @@
+id: doc-2026-04-02-decisao-dispensa-ibaneis-cpi
+kind: document
+title: Decisão monocrática que dispensa Ibaneis Rocha de depor na CPI do Crime Organizado
+doc_type: judicial_decision
+date: '2026-04-02'
+source_ids:
+- src-stf-pet15556-edoc223-decisao-dispensa-ibaneis-cpi-02-04-2026
+summary: Decisão do ministro André Mendonça que afasta a obrigatoriedade de comparecimento do governador
+  do Distrito Federal, Ibaneis Rocha Barros Júnior, à CPI do Crime Organizado, por já figurar como
+  investigado — reproduzindo a justificativa da própria CPI de que ele está no centro de dois eixos de
+  investigação ligados ao caso Master.
+is_official: true
+related_entity_ids:
+- ibaneis-rocha
+- andre-mendonca
+- supremo-tribunal-federal
+issuer_id: supremo-tribunal-federal
+issuer: Ministro André Mendonça
+date_precision: day
+reference: STF, PET 15.556, decisão monocrática de 02/04/2026 (e-Doc 223)
+excerpt: 'o primeiro [eixo] diz respeito às relações comerciais do escritório de advocacia que fundou -
+  e que leva seu nome - com entidades investigadas pelas denominadas Operação Compliance Zero e Operação
+  Carbono Oculto (...); o segundo refere-se ao papel institucional exercido pelo Governador nas decisões
+  estratégicas do Banco de Brasília (BRB)'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

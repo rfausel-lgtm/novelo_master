@@ -1,0 +1,19 @@
+id: ev-ibaneis-rocha-e-formalmente-investigado-em-dois-eixos
+kind: evidence
+classification: D
+proposition: 'O governador do Distrito Federal, Ibaneis Rocha, é formalmente investigado em dois eixos citados pela
+  CPI do Crime Organizado e reconhecidos por decisão do STF de 02/04/2026: as relações comerciais do escritório
+  de advocacia que leva seu nome com entidades investigadas nas operações Compliance Zero e Carbono Oculto, e seu
+  papel institucional nas decisões do BRB sobre a compra do Banco Master.'
+document_ids:
+- doc-2026-04-02-decisao-dispensa-ibaneis-cpi
+source_ids:
+- src-stf-pet15556-edoc223-decisao-dispensa-ibaneis-cpi-02-04-2026
+date: '2026-04-02'
+notes: A decisão reproduz a caracterização da CPI, não uma conclusão própria do STF sobre o mérito das relações
+  comerciais do escritório — o corpus não obteve detalhamento dos contratos ou valores envolvidos nessa via específica.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

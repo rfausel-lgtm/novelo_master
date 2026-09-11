@@ -8,30 +8,39 @@ positions:
   organization_id: governo-do-distrito-federal
   source_ids:
   - src-cldf-2025-08-19-autoriza-brb-comprar-master
-summary: Governador do Distrito Federal. Seu governo enviou à CLDF, em regime de urgência, o PL 1882/2025
+summary: 'Governador do Distrito Federal. Seu governo enviou à CLDF, em regime de urgência, o PL 1882/2025
   que autorizou o BRB, banco controlado pelo GDF, a adquirir participação no Banco Master; o projeto foi
-  aprovado em 19/08/2025 e seguia para sanção.
+  aprovado em 19/08/2025 e seguia para sanção. CONFIRMADO COMO INVESTIGADO FORMAL (lote 176): decisão do
+  STF de 02/04/2026, que o dispensou de depor na CPI do Crime Organizado por essa condição, reproduz a
+  justificativa da própria CPI de que ele está ''no centro de dois eixos de investigação'' — as relações
+  comerciais do escritório de advocacia que leva seu nome com entidades investigadas nas operações Compliance
+  Zero e Carbono Oculto, e seu papel institucional nas decisões do BRB sobre a compra do Master.'
 why_in_novelo: Chefiava o Executivo distrital que propôs a autorização legislativa para o BRB comprar
-  participação no Banco Master.
+  participação no Banco Master, e é formalmente investigado, segundo decisão do STF, em dois eixos ligados
+  ao caso — um envolvendo seu próprio escritório de advocacia.
 cited_position:
 - kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+  summary: Nenhuma manifestação pública específica dele sobre a operação ou sobre as investigações foi
+    localizada no corpus até a data desta atualização; sua defesa técnica apenas noticiou a convocação da
+    CPI e pediu dispensa, sem se manifestar sobre o mérito das alegações.
 open_questions:
-- Manifestações de Ibaneis Rocha sobre a operação e sobre as investigações não foram localizadas em fonte
-  verificada do corpus.
-- Segundo resultado de busca não confirmado por leitura direta de artigo-fonte, seu escritório (Ibaneis
-  Advocacia) teria vendido R$ 38 milhões em honorários de precatório ao fundo Reag Legal Claims — sua
-  defesa afirma que ele está afastado das atividades do escritório desde 2018; alegação classe I, não
-  verificada diretamente pela equipe, mantida para eventual aprofundamento.
+- 'PARCIALMENTE CORROBORADO (lote 176): a alegação, já registrada aqui como classe I e não verificada
+  diretamente, de que seu escritório (Ibaneis Advocacia) teria vendido R$ 38 milhões em honorários de
+  precatório ao fundo Reag Legal Claims agora tem lastro em documento primário — a decisão do STF de
+  02/04/2026 reproduz a caracterização da CPI de que o escritório mantém ''relações comerciais'' com
+  entidades investigadas nas operações Compliance Zero e Carbono Oculto. A decisão, porém, não cita
+  nominalmente a Reag Legal Claims nem confirma o valor de R$ 38 milhões — corroboração do eixo geral, não
+  do valor específico. Sua defesa mantém que ele está afastado das atividades do escritório desde 2018.'
 source_ids:
 - src-cldf-2025-08-19-autoriza-brb-comprar-master
+- src-stf-pet15556-edoc223-decisao-dispensa-ibaneis-cpi-02-04-2026
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Ibaneis_Rocha
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-11'
 photo:
   path: /fotos/ibaneis-rocha.jpg
   source: Wikimedia Commons
