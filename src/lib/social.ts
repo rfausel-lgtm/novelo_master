@@ -43,7 +43,11 @@ export class ArteInvalida extends Error {}
  * arte animada escaparia da conferência humana nos quadros seguintes ao primeiro.
  */
 export function lerWebp(buf: Buffer): { width: number; height: number; animado: boolean } {
-  if (buf.length < 12 || buf.toString("ascii", 0, 4) !== "RIFF" || buf.toString("ascii", 8, 12) !== "WEBP") {
+  if (
+    buf.length < 12 ||
+    buf.toString("ascii", 0, 4) !== "RIFF" ||
+    buf.toString("ascii", 8, 12) !== "WEBP"
+  ) {
     throw new ArteInvalida("não é um contêiner WebP (RIFF/WEBP ausente)");
   }
   const declarado = buf.readUInt32LE(4) + 8;
@@ -100,15 +104,30 @@ export function lerWebp(buf: Buffer): { width: number; height: number; animado: 
 
 export const LARGURA_MAXIMA = 1280;
 
+/*
+ * A leitura é cacheada porque cada chamada abre TODOS os webp da pasta só para ler largura e altura
+ * — e as chamadas se multiplicaram: /atualizacoes virou 21 páginas paginadas, cada uma renderizando
+ * a lista. Sem cache, um teste que chamava a função dentro de um filtro sobre as 204 revisões
+ * estourou o limite de 5 s do Vitest.
+ *
+ * A chave é o mtime da pasta, e não um booleano: em `next dev` a arte nova precisa aparecer sem
+ * reiniciar o servidor, e o stat de um diretório custa perto de nada perto de reler os arquivos.
+ */
+let cache: { mtimeMs: number; mapa: Map<string, Ilustracao> } | null = null;
+
 /** `Revision.id` → arte publicável. Revisão sem arte é o estado normal, não lacuna. */
 export function artesPorRevisao(): Map<string, Ilustracao> {
+  if (!fs.existsSync(DIR)) return new Map();
+  const mtimeMs = fs.statSync(DIR).mtimeMs;
+  if (cache && cache.mtimeMs === mtimeMs) return cache.mapa;
+
   const mapa = new Map<string, Ilustracao>();
-  if (!fs.existsSync(DIR)) return mapa;
   for (const arquivo of fs.readdirSync(DIR).sort()) {
     const achado = NOME_CANONICO.exec(arquivo);
     if (!achado) continue;
     const { width, height } = lerWebp(fs.readFileSync(path.join(DIR, arquivo)));
     mapa.set(achado[1], { src: `/social/${arquivo}`, width, height });
   }
+  cache = { mtimeMs, mapa };
   return mapa;
 }

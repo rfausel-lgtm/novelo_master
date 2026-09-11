@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { SITE } from "@/lib/site";
 import { allDocuments, allEvents, allOrganizations, allPeople, allPublicActs, allSources, corpus } from "@/lib/data";
+import { totalDePaginas } from "@/lib/atualizacoes";
 
 export const dynamic = "force-static";
 
@@ -17,5 +18,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   add("/atos", allPublicActs());
   add("/documentos", allDocuments());
   add("/fontes", allSources());
+  // As páginas 2..N de /atualizacoes: sem isso, o buscador só conhece as dez últimas revisões.
+  for (let p = 2; p <= totalDePaginas(); p++) {
+    entries.push({ url: `${base}/atualizacoes/pagina/${p}/`, lastModified: built, changeFrequency: "weekly", priority: 0.4 });
+  }
   return entries;
 }
