@@ -22,7 +22,10 @@ summary: 'Servidor de carreira do Banco Central. Segundo o Valor Econômico, afi
   motivo para preocupação. A sindicância patrimonial aponta ainda a venda de uma fazenda de café por R$
   3 milhões em 2021 a fundo ligado a Fabiano Zettel, serviço de concierge de luxo em Orlando custeado
   por Vorcaro, e aquisições de cerca de R$ 915 mil, entre elas um terreno pago com R$ 210 mil em dinheiro
-  vivo.'
+  vivo. Em 30/04/2026, o STF autorizou a instauração formal de investigação por corrupção ativa e passiva,
+  organização criminosa, lavagem de capitais e violação de sigilo funcional contra ele e Belline Santana,
+  em coautoria com Vorcaro (PET 15.504, vinculada ao INQ 5.026) — prorrogada por mais 60 dias em 13/07 e
+  novamente em 04/09/2026, sem denúncia até a data mais recente disponível.'
 why_in_novelo: Dirigiu a área de fiscalização do Banco Central no período de supervisão do banco e é alvo
   de medidas cautelares determinadas pelo STF na investigação.
 cited_position:
@@ -53,6 +56,7 @@ source_ids:
 - src-metropoles-2026-servidor-bc-terrenos-dinheiro-vivo
 - src-jornaldebrasilia-2026-03-cgu-pad-servidores-bc
 - src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
+- src-stf-pet15504-decisao-30-04-2026-instauracao-corrupcao-bc
 positions: []
 open_questions:
 - 'NOVO (lote 180): em relato verbal à Corregedoria-Geral do BC em 07/01/2026 — antes de qualquer

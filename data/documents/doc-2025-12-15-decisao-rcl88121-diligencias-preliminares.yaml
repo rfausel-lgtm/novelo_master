@@ -1,0 +1,26 @@
+id: doc-2025-12-15-decisao-rcl88121-diligencias-preliminares
+kind: document
+title: Decisão fundadora da Reclamação 88.121 — primeiras diligências preliminares
+doc_type: judicial_decision
+date: '2025-12-15'
+source_ids:
+- src-stf-rcl88121-decisao-15-12-2025-diligencias-preliminares
+summary: Primeira decisão do STF no caso Banco Master, determinando diligências preliminares — oitiva de
+  investigados e de dirigentes do Banco Central, requisições de informação e possibilidade de pedidos de
+  quebra de sigilo — com prazo de 30 dias.
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- banco-central-do-brasil
+- dias-toffoli
+issuer_id: supremo-tribunal-federal
+issuer: Ministro Dias Toffoli
+date_precision: day
+reference: 'STF, Rcl 88.121/DF, decisão de 15/12/2025'
+excerpt: verifica-se a absoluta necessidade da realização de diligências urgentes, não só para o sucesso
+  das investigações, mas também como medida de proteção ao Sistema Financeiro Nacional
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

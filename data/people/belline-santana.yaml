@@ -17,7 +17,11 @@ summary: 'Servidor de carreira do Banco Central, chefiou entre 2019 e 2024 o dep
   disciplinar aberto pela CGU em 23/03/2026, prorrogado em julho, ainda sem desfecho. Registro que complica
   a leitura acusatória: em 15/07/2025, foi ele próprio quem enviou ao Ministério Público Federal documento
   apontando irregularidades nas carteiras de crédito do Master vendidas ao BRB — sete dias antes das mensagens
-  em que Vorcaro e Zettel tratam de pagá-lo.'
+  em que Vorcaro e Zettel tratam de pagá-lo. Em 30/04/2026, o STF autorizou a instauração formal de
+  investigação por corrupção ativa e passiva, organização criminosa, lavagem de capitais e violação de
+  sigilo funcional contra ela e Paulo Sérgio Neves de Souza, em coautoria com Vorcaro (PET 15.504,
+  vinculada ao INQ 5.026) — prorrogada por mais 60 dias em 13/07 e novamente em 04/09/2026, sem denúncia
+  até a data mais recente disponível.'
 why_in_novelo: Chefiou a supervisão bancária do Banco Central no período em que o banco cresceu e é alvo
   da investigação e de convocação parlamentar.
 cited_position:
@@ -63,6 +67,7 @@ source_ids:
 - src-ndmais-2026-belline-versao-contratos-varajo
 - src-jornaldebrasilia-2026-aquino-vazamentos-sistematicos-bc
 - src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
+- src-stf-pet15504-decisao-30-04-2026-instauracao-corrupcao-bc
 positions: []
 kind: person
 review_status: published

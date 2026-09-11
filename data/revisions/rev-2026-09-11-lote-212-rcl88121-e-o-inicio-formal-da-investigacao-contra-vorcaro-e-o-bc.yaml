@@ -1,0 +1,28 @@
+id: rev-2026-09-11-lote-212-rcl88121-e-o-inicio-formal-da-investigacao-contra-vorcaro-e-o-bc
+kind: revision
+date: '2026-09-11'
+title: 'Lote 212 — o marco fundador da supervisão do STF, e a investigação formal por corrupção contra dois dirigentes do BC'
+summary: 'Primeiro lote a partir das decisões públicas do STF baixadas sem certificado digital (Resolução
+  427/2010), cobrindo dois processos da lista de sigilo levantado pelo despacho de 10/09/2026. Na Rcl
+  88.121, registra-se o marco documental mais antigo já lido diretamente pelo acervo sobre a supervisão
+  do STF ao caso: em 15/12/2025, o ministro Dias Toffoli determinou as primeiras diligências do que viria
+  a se tornar a Operação Compliance Zero, incluindo oitiva de dirigentes do Banco Central sobre o Master
+  "e possíveis desdobramentos envolvendo outras instituições financeiras" — formulação que antecede o
+  surgimento de frentes posteriores como o INQ 5.026. Na PET 15.504, registra-se o ato formal, de
+  30/04/2026, em que o ministro André Mendonça autorizou a instauração de investigação por corrupção
+  ativa e passiva, organização criminosa, lavagem de capitais e violação de sigilo funcional contra Daniel
+  Vorcaro em coautoria com os dois ex-dirigentes do Banco Central já documentados no acervo, Paulo Sérgio
+  Neves de Souza e Belline Santana — prorrogada duas vezes (13/07 e 04/09/2026) sem denúncia até a data
+  mais recente disponível.'
+affected_ids:
+- daniel-vorcaro
+- paulo-sergio-neves-de-souza
+- belline-santana
+- banco-central-do-brasil
+- dias-toffoli
+reason: Mineração das decisões públicas do STF (Resolução 427/2010) baixadas sem certificado digital para
+  os processos indicados como tendo o sigilo levantado pelo despacho de André Mendonça de 10/09/2026
+  (Petição 16.704).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

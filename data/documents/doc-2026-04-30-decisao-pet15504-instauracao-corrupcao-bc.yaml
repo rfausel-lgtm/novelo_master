@@ -1,0 +1,28 @@
+id: doc-2026-04-30-decisao-pet15504-instauracao-corrupcao-bc
+kind: document
+title: Decisão que autoriza a instauração de investigação por corrupção contra Vorcaro e dois ex-dirigentes do BC
+doc_type: judicial_decision
+date: '2026-04-30'
+date_precision: day
+source_ids:
+- src-stf-pet15504-decisao-30-04-2026-instauracao-corrupcao-bc
+summary: Decisão que autoriza a instauração de procedimento investigatório, vinculado ao INQ 5.026, para
+  apurar corrupção ativa e passiva, organização criminosa, lavagem de capitais, violação de sigilo
+  funcional e crimes contra o Sistema Financeiro Nacional atribuídos a Daniel Bueno Vorcaro em coautoria
+  com os servidores do Banco Central Paulo Sérgio de Souza e Belline Santana.
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- paulo-sergio-neves-de-souza
+- belline-santana
+- banco-central-do-brasil
+issuer_id: supremo-tribunal-federal
+issuer: Ministro André Mendonça
+reference: 'STF, PET 15.504/DF, decisão de 30/04/2026'
+excerpt: eventuais crimes de corrupção ativa e passiva, de formação de organização criminosa, de lavagem
+  de capitais, de violação de sigilo funcional, além de outros contra o Sistema Financeiro Nacional
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
