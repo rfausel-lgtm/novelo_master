@@ -28,7 +28,9 @@ export function resolverRevisao(alvo: string): string {
   if (!/^\d+$/.test(alvo)) {
     throw new Error(`alvo inválido: ${alvo}\nUse o número do lote (ex.: 165) ou o Revision.id completo.`);
   }
-  const candidatos = ids.filter((id) => new RegExp(`-lote-${alvo}(?:-|$)`).test(id));
+  // Comparação literal, não regex: o lote 75 não pode capturar o 75b, e montar um RegExp a partir
+  // de argumento de linha de comando é injeção de expressão regular mesmo com o alvo já validado.
+  const candidatos = ids.filter((id) => id.includes(`-lote-${alvo}-`) || id.endsWith(`-lote-${alvo}`));
   if (candidatos.length === 1) return candidatos[0];
   if (candidatos.length === 0) {
     throw new Error(`nenhuma revisão para o lote ${alvo}.`);
