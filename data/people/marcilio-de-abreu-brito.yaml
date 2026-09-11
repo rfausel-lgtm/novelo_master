@@ -1,0 +1,26 @@
+id: marcilio-de-abreu-brito
+kind: person
+category: police
+name: Marcílio de Abreu Brito
+role: Agente de Polícia Federal, lotado no NO/DREX/SR/PF/MG
+summary: 'Agente de Polícia Federal (matrícula 485). A análise do celular de Marilson Roseno da Silva
+  (IPJ nº 1752768/2026, PET 15.978) mostra que, em 10/09/2025, respondeu a Marilson que "não teria nada
+  na PF" sobre uma lista de nomes escrita à mão — Henrique Moura Vorcaro, Nathalia Bueno Ribeiro Vorcaro
+  e a empresa Milo Investimento SA. O chat entre os dois no WhatsApp começa apenas em 05/11/2025, o que
+  a PF lê como indício de que mensagens anteriores foram apagadas para não deixar rastro.'
+why_in_novelo: É um dos policiais federais da ativa identificados, fora do núcleo "A Turma", que teria
+  atendido a pedido de consulta indevida a sistemas internos em favor de Marilson Roseno.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele foi localizada no corpus.
+open_questions:
+- Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ele no corpus. Não há
+  elemento que ligue a consulta a qualquer irregularidade das pessoas pesquisadas — o resultado, segundo
+  o próprio agente, foi negativo.
+source_ids:
+- src-stf-pet15978-edoc14-ipj-1752768-celular-marilson
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

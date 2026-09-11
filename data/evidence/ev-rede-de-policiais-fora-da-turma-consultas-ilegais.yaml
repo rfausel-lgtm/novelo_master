@@ -1,0 +1,35 @@
+id: ev-rede-de-policiais-fora-da-turma-consultas-ilegais
+kind: evidence
+classification: D
+proposition: 'A análise do celular de Marilson Roseno da Silva identifica, com nome completo, CPF e
+  matrícula, quatro policiais federais da ativa lotados em Minas Gerais que, segundo a PF, "prima facie"
+  não integravam "A Turma" mas atenderam a pedidos de consulta a sistemas internos feitos por Marilson:
+  André Velloso Martins (escrivão, matrícula 20.932), que localizou o processo SEI vinculado ao inquérito
+  em que Henrique Vorcaro fora intimado (08/03/2024); Marcílio de Abreu Brito (agente, matrícula 485), que
+  em 10/09/2025 informou não haver procedimento contra uma lista manuscrita de nomes — Henrique Moura
+  Vorcaro, Nathalia Bueno Ribeiro Vorcaro e a empresa Milo Investimento SA; Marcos Antônio Lauria (agente,
+  matrícula 2517), que em 31/01/2025 verificou o registro de uma arma de fogo a pedido de Marilson; e
+  Márcio Tavares Diniz (agente, matrícula 1918), a quem Marilson pediu "ajuda" em 04/07/2023 — pedido
+  seguido do reencaminhamento de telas de sistemas internos com dados societários completos da empresa
+  "Clube de Benefícios Bem Protege". Ao ser questionado em oitiva se havia solicitado consultas a
+  policiais da ativa, Marilson negou inicialmente qualquer pedido, depois admitiu apenas uma consulta
+  isolada a uma quinta servidora (não relacionada a Vorcaro) — versão que a PF classifica como isolada e
+  contrariada pelos próprios dados do aparelho.'
+document_ids:
+- doc-2026-03-18-ipj-1752768-celular-marilson
+source_ids:
+- src-stf-pet15978-edoc14-ipj-1752768-celular-marilson
+date: '2024-03-08'
+notes: 'A PF não os classifica como integrantes de "A Turma" no sentido operacional do núcleo, mas como
+  policiais fora da estrutura criminosa que atenderam pedidos pontuais — o que, se confirmado, amplia a
+  rede de violação de sigilo funcional identificada no caso para além dos seis nomes já associados ao
+  núcleo. Nenhum deles tem denúncia oferecida ou julgamento no acervo; a natureza de sua participação
+  (consciente, em troca de favor, ou enganada quanto ao propósito da consulta) não está esclarecida pelo
+  documento. Não há elemento que ligue as buscas sobre Henrique Moura Vorcaro, Nathalia Bueno Ribeiro
+  Vorcaro ou Milo Investimento SA a qualquer irregularidade cometida por eles — o resultado da consulta,
+  segundo o próprio agente, foi negativo ("não teria nada na PF").'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

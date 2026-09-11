@@ -1,0 +1,22 @@
+id: ev-consulta-andre-aranha-coelho-executivo-financeiro
+kind: evidence
+classification: D
+proposition: 'No terminal internacional de Marilson Roseno da Silva foram encontradas, reencaminhadas
+  para seu próprio número brasileiro, diversas imagens de consultas a sistemas internos da PF sobre André
+  Aranha Coelho, executivo do setor financeiro (atuação em corporate banking na UBS, Banco PAN e Banco
+  Modal, CEO da Saffe e fundador de empresa de Open Finance e inteligência artificial, segundo pesquisa em
+  fontes abertas). O documento não identifica quem realizou a consulta.'
+document_ids:
+- doc-2026-03-18-ipj-1752768-celular-marilson
+source_ids:
+- src-stf-pet15978-edoc14-ipj-1752768-celular-marilson
+date: '2026-03'
+notes: A PF especula que a consulta teria sido feita a pedido de Daniel Vorcaro, dada a área de atuação
+  semelhante — hipótese de que se trate de "rival" ou "parceiro de negócios" —, mas o documento não
+  identifica quem a solicitou, nem confirma o motivo. Sem registro próprio no acervo por se tratar de
+  menção lateral com conexão apenas especulada ao caso.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

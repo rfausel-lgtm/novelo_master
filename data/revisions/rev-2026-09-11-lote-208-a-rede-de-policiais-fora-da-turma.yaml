@@ -1,0 +1,29 @@
+id: rev-2026-09-11-lote-208-a-rede-de-policiais-fora-da-turma
+kind: revision
+date: '2026-09-11'
+title: 'Lote 208 — A rede de policiais fora de "A Turma": quatro novos nomes com CPF e matrícula'
+summary: 'Segundo lote do e-Doc 14 da PET 15.978 (IPJ nº 1752768/2026). Achado mais amplo do documento:
+  a análise do celular de Marilson Roseno identifica, com nome completo, CPF e matrícula, quatro policiais
+  federais da ativa em Minas Gerais que atenderam pedidos de consulta indevida a sistemas internos — André
+  Velloso Martins (escrivão), Marcílio de Abreu Brito, Marcos Antônio Lauria e Márcio Tavares Diniz
+  (agentes) —, descritos pela PF como fora da estrutura de "A Turma" propriamente dita, mas ligados à
+  mesma rede de violação de sigilo funcional. Os episódios incluem a localização do processo que gerou o
+  inquérito em que Henrique Vorcaro fora intimado, uma checagem sem resultado sobre Henrique Vorcaro, sua
+  esposa Nathalia Bueno Ribeiro Vorcaro e a empresa Milo Investimento, e o repasse de dados societários
+  completos de uma empresa terceira em troca do que a PF lê como provável recompensa financeira. Marilson,
+  em oitiva, negou qualquer pedido a policiais da ativa antes de admitir apenas um caso isolado — versão
+  que os próprios dados do aparelho contradizem. O lote registra ainda uma consulta sobre um executivo do
+  setor financeiro, André Aranha Coelho, cuja ligação ao caso é hipótese da PF, não fato estabelecido, e
+  a confirmação visual — a mesma foto de perfil — de que o codinome "MISTER" no número internacional de
+  Marilson é o mesmo perfil que contatou Sean Monteine, já registrado no e-Doc 3.'
+affected_ids:
+- andre-velloso-martins
+- marcilio-de-abreu-brito
+- marcos-antonio-lauria
+- marcio-tavares-diniz
+- marilson-roseno-da-silva
+reason: Análise em lotes do novo acervo de 378 peças da PET 15.978, doado pelo Rafael — segundo lote do
+  e-Doc 14 (IPJ nº 1752768/2026, análise do celular de Marilson Roseno da Silva).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
