@@ -2,7 +2,14 @@ import fs from "node:fs";
 import path from "node:path";
 import { describe, expect, it } from "vitest";
 import { ArteInvalida, NOME_CANONICO, artesPorRevisao, lerWebp } from "@/lib/social";
-import { conferirPasta, idsDeRevisao, nomeCanonico, resolverRevisao } from "../../scripts/lib/artes";
+import {
+  conferirPasta,
+  idsDeRevisao,
+  nomeCanonico,
+  numeroDoLote,
+  resolverRevisao,
+  selecionarIdsPendentes,
+} from "../../scripts/lib/artes";
 
 const arte = (nome: string) => fs.readFileSync(path.join(process.cwd(), "public", "social", nome));
 
@@ -54,7 +61,10 @@ describe("lerWebp", () => {
     const vp8l = Buffer.alloc(5);
     vp8l.writeUInt8(0x2f, 0);
     vp8l.writeUInt32LE((639 & 0x3fff) | ((479 & 0x3fff) << 14), 1);
-    const buf = webp([{ tipo: "ICCP", corpo: Buffer.alloc(7) }, { tipo: "VP8L", corpo: vp8l }]);
+    const buf = webp([
+      { tipo: "ICCP", corpo: Buffer.alloc(7) },
+      { tipo: "VP8L", corpo: vp8l },
+    ]);
     expect(lerWebp(buf)).toEqual({ width: 640, height: 480, animado: false });
   });
 
@@ -75,7 +85,10 @@ describe("lerWebp", () => {
     const vp8 = Buffer.alloc(10);
     vp8.writeUInt16LE(799, 6);
     vp8.writeUInt16LE(599, 8);
-    const buf = webp([vp8x({ largura: 2000, altura: 600, flags: 0 }), { tipo: "VP8 ", corpo: vp8 }]);
+    const buf = webp([
+      vp8x({ largura: 2000, altura: 600, flags: 0 }),
+      { tipo: "VP8 ", corpo: vp8 },
+    ]);
     expect(() => lerWebp(buf)).toThrow(/canvas 2000x600 diverge do frame 799x599/);
   });
 
@@ -94,7 +107,9 @@ describe("lerWebp", () => {
 
 describe("nome canônico", () => {
   it("aceita só <Revision.id>.webp", () => {
-    expect(NOME_CANONICO.test("rev-2026-09-10-lote-165-a-ata-notarial-de-karina-gama.webp")).toBe(true);
+    expect(NOME_CANONICO.test("rev-2026-09-10-lote-165-a-ata-notarial-de-karina-gama.webp")).toBe(
+      true,
+    );
     expect(NOME_CANONICO.test("lote-165.webp")).toBe(false);
     expect(NOME_CANONICO.test("rev-2026-09-10-lote-165-a-ata.WEBP")).toBe(false);
     expect(NOME_CANONICO.test("rev-2026-09-10-lote-165-a-ata.png")).toBe(false);
@@ -137,6 +152,34 @@ describe("resolverRevisao", () => {
 
   it("recusa alvo que não é número nem id", () => {
     expect(() => resolverRevisao("lote-165")).toThrow(/inválido/);
+  });
+});
+
+describe("detector de revisões sem arte", () => {
+  it("exige marco explícito e não importa o histórico anterior", () => {
+    const ids = [
+      "rev-2026-09-11-lote-199-antigo",
+      "rev-2026-09-11-lote-200-primeiro",
+      "rev-2026-09-11-lote-201-segundo",
+    ];
+    const artes = new Set(["rev-2026-09-11-lote-201-segundo.webp"]);
+    expect(selecionarIdsPendentes(ids, artes, 200)).toEqual([
+      { id: "rev-2026-09-11-lote-200-primeiro", lote: 200 },
+    ]);
+    expect(() => selecionarIdsPendentes(ids, artes, 0)).toThrow(/inteiro positivo/);
+  });
+
+  it("não confunde lote numérico com revisão de sufixo", () => {
+    expect(numeroDoLote("rev-2026-09-11-lote-200-titulo")).toBe(200);
+    expect(numeroDoLote("rev-2026-09-11-lote-200b-titulo")).toBeNull();
+  });
+
+  it("mantém todas as revisões distintas do mesmo lote", () => {
+    const ids = ["rev-a-lote-200-um", "rev-b-lote-200-dois"];
+    expect(selecionarIdsPendentes(ids, new Set(), 200)).toEqual([
+      { id: "rev-a-lote-200-um", lote: 200 },
+      { id: "rev-b-lote-200-dois", lote: 200 },
+    ]);
   });
 });
 

@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import { parse } from "yaml";
 import { LARGURA_MAXIMA, NOME_CANONICO, lerWebp, ArteInvalida } from "../../src/lib/social";
 
 /** Fonte de verdade dos ids: `data/revisions/`, onde o id é o nome do arquivo (188/188 conferidos). */
@@ -26,11 +27,15 @@ export function resolverRevisao(alvo: string): string {
     throw new Error(`revisão inexistente: ${alvo}\nNenhum arquivo data/revisions/${alvo}.yaml.`);
   }
   if (!/^\d+$/.test(alvo)) {
-    throw new Error(`alvo inválido: ${alvo}\nUse o número do lote (ex.: 165) ou o Revision.id completo.`);
+    throw new Error(
+      `alvo inválido: ${alvo}\nUse o número do lote (ex.: 165) ou o Revision.id completo.`,
+    );
   }
   // Comparação literal, não regex: o lote 75 não pode capturar o 75b, e montar um RegExp a partir
   // de argumento de linha de comando é injeção de expressão regular mesmo com o alvo já validado.
-  const candidatos = ids.filter((id) => id.includes(`-lote-${alvo}-`) || id.endsWith(`-lote-${alvo}`));
+  const candidatos = ids.filter(
+    (id) => id.includes(`-lote-${alvo}-`) || id.endsWith(`-lote-${alvo}`),
+  );
   if (candidatos.length === 1) return candidatos[0];
   if (candidatos.length === 0) {
     throw new Error(`nenhuma revisão para o lote ${alvo}.`);
@@ -42,6 +47,56 @@ export function resolverRevisao(alvo: string): string {
 }
 
 export const nomeCanonico = (revisionId: string): string => `${revisionId}.webp`;
+
+export type RevisaoPendente = {
+  id: string;
+  lote: number;
+  title: string;
+};
+
+/** Extrai apenas lotes numéricos; `75b` não pode ser confundido com o lote 75. */
+export function numeroDoLote(revisionId: string): number | null {
+  const achado = /-lote-(\d+)(?:-|$)/.exec(revisionId);
+  return achado ? Number(achado[1]) : null;
+}
+
+/**
+ * Parte pura do detector: seleciona revisões novas sem arte canônica.
+ *
+ * `desdeLote` é obrigatório no chamador para tornar impossível importar o histórico inteiro por
+ * acidente. O arquivo canônico já publicado é o estado durável de deduplicação.
+ */
+export function selecionarIdsPendentes(
+  ids: string[],
+  artesExistentes: ReadonlySet<string>,
+  desdeLote: number,
+): { id: string; lote: number }[] {
+  if (!Number.isSafeInteger(desdeLote) || desdeLote < 1) {
+    throw new Error("desdeLote deve ser um inteiro positivo");
+  }
+  return ids
+    .map((id) => ({ id, lote: numeroDoLote(id) }))
+    .filter(
+      (item): item is { id: string; lote: number } =>
+        item.lote !== null && item.lote >= desdeLote && !artesExistentes.has(nomeCanonico(item.id)),
+    )
+    .sort((a, b) => a.lote - b.lote || a.id.localeCompare(b.id));
+}
+
+/** Lê o repositório e devolve as revisões pendentes com o título editorial aprovado. */
+export function revisoesPendentes(desdeLote: number): RevisaoPendente[] {
+  const artes = new Set(fs.existsSync(DIR_ARTES) ? fs.readdirSync(DIR_ARTES) : []);
+  return selecionarIdsPendentes(idsDeRevisao(), artes, desdeLote).map(({ id, lote }) => {
+    const documento = parse(fs.readFileSync(path.join(DIR_REVISOES, `${id}.yaml`), "utf8")) as {
+      id?: unknown;
+      title?: unknown;
+    };
+    if (documento.id !== id || typeof documento.title !== "string" || !documento.title.trim()) {
+      throw new Error(`${id}: revisão sem id/título editorial coerente`);
+    }
+    return { id, lote, title: documento.title };
+  });
+}
 
 /** Validações que independem de navegador. Devolve a lista de problemas, vazia quando conforme. */
 export function conferirPasta(): string[] {
