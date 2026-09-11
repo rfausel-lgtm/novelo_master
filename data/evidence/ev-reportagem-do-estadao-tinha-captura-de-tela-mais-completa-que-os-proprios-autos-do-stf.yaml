@@ -1,0 +1,22 @@
+id: ev-reportagem-do-estadao-tinha-captura-de-tela-mais-completa-que-os-proprios-autos-do-stf
+kind: evidence
+classification: D
+proposition: Gilmar Mendes registrou, em seu voto, que uma matéria do Estadão de 13/03/2026 sobre mensagens de Walfrido
+  Warde a Vorcaro ('infernizando o juiz') reproduziu uma captura de tela mais detalhada e completa do que a versão
+  constante dos próprios autos entregues à Segunda Turma (e-Doc 1, p. 132; e-Doc 3, p. 104) — indício, segundo ele,
+  de que a reportagem teve acesso, mediante vazamento, a arquivo mais completo do que o disponibilizado até mesmo
+  ao colegiado julgador.
+attributed_to: Ministro Gilmar Mendes, em voto no STF
+document_ids:
+- doc-2026-03-23-acordao-referendo-pet15556-edoc286
+source_ids:
+- src-stf-pet15556-edoc286-acordao-referendo-23-03-2026
+date: '2026-03-23'
+notes: 'Achado relevante e não reconciliado: se a reportagem tinha material mais completo do que os autos oficiais,
+  a fonte do vazamento teria acesso mais amplo do que o próprio STF — o corpus não apurou quem seria essa fonte,
+  nem se o inquérito sobre vazamentos (PET 15.612, já mapeado) investigou especificamente esse episódio.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -9,13 +9,27 @@ positions:
   organization_id: supremo-tribunal-federal
   source_ids:
   - src-stf-2026-03-20-segunda-turma-mantem-prisao
-summary: Ministro do STF, integrante da Segunda Turma que referendou em 20/03/2026 a prisão preventiva
-  de Daniel Vorcaro e outros investigados (PET 15556).
+summary: 'Ministro do STF, integrante da Segunda Turma que referendou, em acórdão de 23/03/2026 (sessão
+  virtual de 13 a 20/03/2026), a prisão preventiva de Daniel Vorcaro e outros investigados (PET 15.556).
+  Acompanhou o relator ''com ressalvas'': votou por manter a prisão preventiva de Fabiano Zettel, mas
+  registrou que a substituição por domiciliar deveria ser reavaliada assim que possível, por ele ter filho
+  de tenra idade e gêmeos por nascer em gravidez de risco. Dedicou capítulo próprio do voto (lote 172) a
+  criticar vazamentos à imprensa no curso do caso, comparando a dinâmica a abusos da Operação Lava Jato, e
+  apontou que uma reportagem do Estadão sobre mensagens do advogado Walfrido Warde continha captura de tela
+  mais completa do que a constante dos próprios autos entregues à Turma — indício de vazamento com acesso
+  mais amplo que o do próprio colegiado julgador.'
 why_in_novelo: Votou, na Segunda Turma do STF, no referendo da prisão preventiva de investigados do caso
-  Master, conforme comunicação oficial do tribunal.
+  Master, com ressalvas próprias sobre vazamentos à imprensa que expuseram um achado ainda não explicado —
+  uma reportagem tinha acesso a material mais completo do que o próprio STF.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: version
+  summary: Comparou os vazamentos à imprensa no caso Master a 'práticas processuais autoritárias da
+    famigerada Operação Lava Jato', criticando a cobertura jornalística que, em sua leitura, funcionou como
+    'efetiva assessoria de imprensa' de interesses investigativos.
+  source_ids:
+  - src-stf-pet15556-edoc286-acordao-referendo-23-03-2026
+  by_id: gilmar-mendes
+  date: '2026-03-23'
 open_questions:
 - Propôs a Fachin, em setembro de 2026, a retirada dos delegados da PF cedidos ao STF, sob justificativa
   de risco de influência sobre os ministros investigados; proposta ainda não deliberada.
@@ -32,11 +46,12 @@ source_ids:
 - src-verificacao-direta-equipe-pet16669-decisao-dino-integra
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
 - src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
+- src-stf-pet15556-edoc286-acordao-referendo-23-03-2026
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-11'
 photo:
   path: /fotos/gilmar-mendes.jpg
   source: Wikimedia Commons

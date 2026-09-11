@@ -1,0 +1,21 @@
+id: ev-gilmar-mendes-compara-vazamentos-do-caso-master-a-abusos-da-lava-jato
+kind: evidence
+classification: D
+proposition: Em voto de 23/03/2026, o ministro Gilmar Mendes dedicou capítulo próprio, intitulado 'Frenesi midiático
+  e publicidade opressiva', a criticar vazamentos à imprensa no curso do caso Master, comparando a dinâmica a 'práticas
+  processuais autoritárias da famigerada Operação Lava Jato' — vazamentos seletivos, estigmatização pública de acusados
+  e cobertura jornalística que funcionou como 'efetiva assessoria de imprensa da força-tarefa'.
+attributed_to: Ministro Gilmar Mendes, em voto no STF
+document_ids:
+- doc-2026-03-23-acordao-referendo-pet15556-edoc286
+source_ids:
+- src-stf-pet15556-edoc286-acordao-referendo-23-03-2026
+date: '2026-03-23'
+notes: É um voto que referenda a prisão preventiva, não uma crítica à investigação em si — a ressalva de Gilmar
+  Mendes é sobre a condução dos vazamentos em torno do caso, não sobre o mérito das medidas cautelares, que ele
+  acompanhou.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
