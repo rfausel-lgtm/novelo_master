@@ -17,6 +17,8 @@
     "data:lint": "tsx scripts/validate-data.ts --strict",
     "data:stress": "tsx scripts/synth-stress.ts",
     "scan:secrets": "tsx scripts/scan-secrets.ts",
+    "social:add": "tsx scripts/social-add.ts",
+    "social:check": "tsx scripts/social-check.ts",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:e2e": "playwright test",

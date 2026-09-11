@@ -187,6 +187,24 @@ Toda foto tem `source`, `author`, `license`, `original_url`, `retrieved_at` e `a
 
 Não se usa foto que mostre a pessoa em situação privada, em custódia (algemas, viatura), com familiares ou menores, ou que tenha sido tirada em residência.
 
+## 7.1. Arte de divulgação gerada por IA
+
+A seção 7 trata de foto: imagem que alguém captou do mundo e que, por isso, tem autor, licença e procedência. Arte gerada por IA não é isso, e a diferença é de natureza, não de grau — ela não registra nada. Por isso não usa o campo `photo`, não entra em `source_ids`, não é evidência e não sustenta afirmação nenhuma.
+
+Essas artes existem para divulgação do lote em rede social, ficam em `public/social/` e aparecem em `/atualizacoes` ao lado da revisão correspondente. Regras:
+
+1. **Sempre rotulada.** A legenda "Ilustração gerada por IA" acompanha a imagem onde quer que ela apareça no site, e o `alt` a identifica como arte de divulgação. Nunca se publica sem o rótulo.
+2. **Nunca pessoa real identificável em retrato fotorrealista.** Silhueta, figura genérica e composição simbólica são admitidas; rosto reconhecível de pessoa do caso, não. Uma imagem sintética que pareça foto de alguém é, na prática, uma foto falsa.
+3. **Nunca simula documento nem cena de fato.** A arte não reproduz peça processual, decisão, print de conversa ou registro de acontecimento de modo que se possa lê-la como captura do real. Elementos de cenário estilizados (uma mesa, um selo, uma fachada) são cenário; a reconstituição de um fato específico, não.
+4. **A ausência é o estado normal.** A maior parte dos lotes não tem nem terá arte. Isso não é lacuna, não é pendência, e a lista não reserva espaço para ela.
+5. **O texto embutido na arte não é fonte.** Os cards trazem o título do lote e a marca do site no próprio pixel. O que vale é o registro em `data/`; divergindo os dois, corrige-se ou remove-se a arte.
+
+**Conferência humana, obrigatória.** Nenhuma arte é publicada sem conferência humana registrada no PR ou no commit que a publica. Quem gerou a imagem — sempre um modelo — nunca a libera. A confirmação declara que a arte não traz rosto ou pessoa real identificável, não é retrato fotorrealista, não simula documento nem cena de fato, não acrescenta alegação e não é animada. Sem esse registro, a arte não é publicada.
+
+O que é verificável por máquina — formato, largura, animação, nome canônico, vínculo com revisão existente — é responsabilidade do `npm run social:check`; o resto é da conferência humana, e um não substitui o outro. O contrato técnico está em [docs/ARTE-DE-LOTE.md](docs/ARTE-DE-LOTE.md).
+
+Remover uma arte não exige revisão em `data/`: basta apagar o arquivo, porque nenhum registro depende dela.
+
 ## 8. Correções e retratações
 
 - Correção de campo (data, grafia, referência): editar o registro, atualizar `updated_at`, descrever em `Revision.corrections`.
