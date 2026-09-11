@@ -1,0 +1,21 @@
+id: inspiracao
+kind: organization
+name: Inspiração
+org_type: company
+summary: Pessoa jurídica que, segundo o relato do próprio Belline Santana aos investigadores internos do BC (07/01/2026),
+  ele mesmo criou em 2025 para retomar o recebimento de parcelas mensais de R$ 100 mil do projeto de 'inclusão financeira
+  de jovens' iniciado em 2023 com 'Leonardo Palhares' — depois de ter interrompido os pagamentos em 2024 por 'desconforto'.
+  O corpus não obteve CNPJ nem registro societário desta empresa.
+why_in_novelo: É o terceiro veículo (depois da abordagem via Câmara e.Net e, segundo a imprensa, dos contratos com
+  a Varajo Consultoria) que Belline Santana usou para receber parcelas do mesmo esquema, segundo o relato que ele
+  próprio deu ao Banco Central.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada no corpus.
+source_ids:
+- src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

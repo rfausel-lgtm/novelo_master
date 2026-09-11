@@ -40,9 +40,14 @@ open_questions:
 - Segundo fonte única, teria pedido exoneração em janeiro de 2026, já afastado — não foi localizado ato
   de exoneração publicado no Diário Oficial que confirme o deferimento, e a legislação permite à Administração
   recusar exoneração de servidor em curso de processo disciplinar.
-- Sua própria versão, registrada em reportagem, é de que recebeu de Leonardo Palhares oferta de cerca
-  de R$ 2 milhões por 'serviços de treinamento', com duas parcelas de R$ 500 mil pagas em 2023 — declaração
-  de coinvestigado, registrada como versão, não como fato apurado.
+- 'DETALHADO (lote 180): a fonte primária da ''própria versão'' é o relato que ele deu pessoalmente à
+  Corregedoria-Geral do BC em 07/01/2026 — antes de qualquer repercussão pública. Nele, descreve a oferta
+  de R$ 2 milhões de ''Leonardo Palhares'' (que se apresentou como ligado à Câmara e.Net) por um projeto
+  de inclusão financeira de jovens, mediante uso apenas do nome e imagem dele; duas parcelas de R$ 500 mil
+  em 2023, interrupção em 2024 ''por desconforto'', retomada em 2025 via pessoa jurídica criada por ele
+  mesmo (''Inspiração''), com parcelas mensais de R$ 100 mil. Não está estabelecido se essa narrativa
+  descreve o mesmo contrato de R$ 2 milhões com a Varajo já registrado acima, ou um esquema paralelo —
+  segue classificada como declaração de coinvestigado, não como fato apurado.'
 - 'Ao contrário do que ocorre com Paulo Sérgio Neves de Souza, não foi localizado documento de supervisão
   específico apontado como adulterado por ele: os atos que lhe são atribuídos são menos individualizados
   — revisão prévia de minutas do banco supervisionado e participação em grupo de mensagens com Vorcaro.'
@@ -57,10 +62,11 @@ source_ids:
 - src-jornaldebrasilia-2026-03-cgu-pad-servidores-bc
 - src-ndmais-2026-belline-versao-contratos-varajo
 - src-jornaldebrasilia-2026-aquino-vazamentos-sistematicos-bc
+- src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
 positions: []
 kind: person
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-11'

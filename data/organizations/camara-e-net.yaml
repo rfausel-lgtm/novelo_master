@@ -1,0 +1,22 @@
+id: camara-e-net
+kind: organization
+name: Câmara e.Net
+org_type: association
+summary: 'Entidade ligada ao comércio eletrônico/economia digital citada no dossiê interno do BC: um link do próprio
+  dossiê (''camara-e.net/leonardo-palhares-e-reeleito-presidente-da-camara-e-net'')  identifica um ''Leonardo Palhares''
+  como presidente reeleito da entidade. Segundo o relato de Belline Santana aos investigadores do BC, foi sob esse
+  vínculo institucional que ''Leonardo Palhares'' o abordou em 2023 oferecendo R$ 2 milhões por um projeto de inclusão
+  financeira de jovens, mediante o uso apenas do nome e imagem dele.'
+why_in_novelo: É a entidade que, segundo o próprio dossiê interno do BC, deu ao 'Leonardo Palhares' que abordou
+  Belline Santana em 2023 a aparência de credibilidade institucional inicial — antes de os pagamentos migrarem para
+  a Varajo Consultoria e depois para uma nova empresa, a Inspiração.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública da entidade sobre o caso localizada no corpus.
+source_ids:
+- src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

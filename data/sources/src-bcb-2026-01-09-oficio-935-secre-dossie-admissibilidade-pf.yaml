@@ -1,0 +1,30 @@
+id: src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
+kind: source
+title: Dossiê interno de admissibilidade correcional do BC (PE 301538/PE 301598) e Ofício 935/2026-BCB/SECRE, encaminhando
+  o caso à PF
+publisher: Banco Central do Brasil — Corregedoria-Geral (Coger) e Presidência
+author: Allyson Augusto Bastos (Corregedor-Geral) e Gabriel Muricca Galípolo (Presidente do BCB)
+publication_date: '2026-01-09'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7514886
+source_type: official_regulator
+summary: 'Dossiê que originou, do lado do Banco Central, todo o caso Compliance Zero: reúne o relato circunstanciado
+  de fatos (08/01/2026) que levou à instauração de juízo de admissibilidade disciplinar contra Belline Santana e
+  Paulo Sérgio Neves de Souza, os relatos verbais que os dois deram pessoalmente aos investigadores internos em
+  07/01/2026 — antes de qualquer repercussão pública —, o afastamento cautelar de ambos por 60 dias, a instauração
+  de Sindicância Patrimonial para cada um, e o Ofício 935/2026-BCB/SECRE de 09/01/2026, assinado pelo próprio presidente
+  do BC, Gabriel Galípolo, comunicando à Polícia Federal indícios de corrupção passiva (art. 317, CP). É o documento
+  que efetivamente deflagra o lado criminal do caso, dois meses antes das buscas de março de 2026.'
+notes: Boa parte das páginas seguintes do documento (declarações patrimoniais e tabelas) veio com falha de extração
+  de texto (fonte customizada do PDF) e não pôde ser lida pela equipe — apenas o corpo textual em português-padrão
+  foi aproveitado.
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador (leitura do texto extraível)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

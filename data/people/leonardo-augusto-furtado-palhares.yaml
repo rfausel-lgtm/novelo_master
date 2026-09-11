@@ -43,11 +43,16 @@ open_questions:
   decisão do STF e o requerimento do Senado são mais específicos: ele é o operador jurídico-documental
   — quem redigia e assinava os instrumentos —, enquanto a execução das movimentações financeiras é atribuída
   a Ana Cláudia Queiroz de Paiva. A distinção importa e o corpus a preserva.'
-- 'Hipótese de identidade não confirmada: um advogado homônimo, atuante em direito digital e ex-presidente
-  da câmara brasileira de comércio eletrônico, assina como ''Leonardo A. F. Palhares'' e tem perfil compatível
-  em base, idade e área de atuação — mas nenhuma reportagem sobre o caso faz essa ligação, os endereços
-  empresariais não coincidem e não há CPF público do segundo para cruzamento. Registrado como pendência
-  expressa, não como conclusão.'
+- 'Hipótese de identidade não confirmada, mas REFORÇADA (lote 180): um advogado homônimo, atuante em direito
+  digital e ex-presidente da câmara brasileira de comércio eletrônico, assina como ''Leonardo A. F. Palhares''
+  e tem perfil compatível em base, idade e área de atuação — mas nenhuma reportagem sobre o caso fazia essa
+  ligação, os endereços empresariais não coincidem e não há CPF público do segundo para cruzamento. O dossiê
+  interno do BC (e-Doc 7 da PET 15.556) cita, como material de apoio ao relato de Belline Santana, um link
+  para ''camara-e.net/leonardo-palhares-e-reeleito-presidente-da-camara-e-net'' — ou seja, os próprios
+  investigadores do BC associaram esse ''Leonardo Palhares'' à Câmara e.Net (câmara de comércio eletrônico)
+  ao apurar o caso da Varajo. Isso aproxima as duas pontas da hipótese sem fechá-la: pode ser o mesmo
+  ''Leonardo Palhares'' descrito de duas formas, ou o investigado pode ter se apresentado a Belline citando
+  vínculo com a entidade sem de fato presidi-la. Registrado como pendência reforçada, não como conclusão.'
 - Não foi localizada explicação para sua entrada na diretoria da Super Empreendimentos exatamente no mês
   em que Fabiano Zettel deixou a empresa, nem reconstituição de como e quando passou a atuar para Daniel
   Vorcaro.
@@ -73,8 +78,9 @@ source_ids:
 - src-gazetadopovo-2026-operador-vorcaro-ong-africa
 - src-jovempan-2026-09-minutas-palhares-aeronaves-barci-moraes
 - src-ndmais-2026-belline-versao-contratos-varajo
+- src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-09'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-09'
-updated_at: '2026-09-09'
+updated_at: '2026-09-11'

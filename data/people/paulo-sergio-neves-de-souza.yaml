@@ -52,8 +52,17 @@ source_ids:
 - src-cnnbrasil-2026-ex-diretor-bc-alertou-vorcaro-emenda-fgc
 - src-metropoles-2026-servidor-bc-terrenos-dinheiro-vivo
 - src-jornaldebrasilia-2026-03-cgu-pad-servidores-bc
+- src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
 positions: []
 open_questions:
+- 'NOVO (lote 180): em relato verbal à Corregedoria-Geral do BC em 07/01/2026 — antes de qualquer
+  repercussão pública —, admitiu ter vendido, em janeiro de 2020, por R$ 4,5 milhões, um sítio em
+  Guaxupé/MG (que planejava lotear) a um comprador que só descobriu, um ano depois, na escritura, ser
+  Fabiano Campos Zettel; recebeu o valor em cinco parcelas em conta conjunta com o irmão, que depois
+  passou a arrendar a mesma terra de Zettel para lavoura de café. Não está estabelecido se essa venda é
+  a mesma já registrada abaixo (fazenda de café, R$ 3 milhões, 2021, a fundo ligado a Zettel) descrita de
+  forma diferente, ou uma segunda operação distinta — datas, valores, tipo de comprador (pessoa física vs.
+  fundo) e natureza do imóvel divergem o suficiente para não presumir identidade.'
 - 'As fontes divergem sobre o período em que dirigiu a área de Fiscalização: 2017-2023 em alguns veículos,
   2019-2023 em outros.'
 - Responde a processo administrativo disciplinar aberto pela CGU em 23/03/2026 e prorrogado em 23/07/2026,
@@ -67,6 +76,6 @@ open_questions:
 kind: person
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-11'
