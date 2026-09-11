@@ -1,0 +1,28 @@
+id: ev-marilson-consultas-ilegais-dezembro-2021-andre-beraldo
+kind: evidence
+classification: D
+proposition: Auditoria de sistema (IPJ nº 1813573/2026) mostra que, entre 7 e 13 de dezembro de 2021 —
+  quando ainda estava na ativa, quase um ano antes de se aposentar (2022) —, Marilson Roseno da Silva,
+  usando seu login institucional "marilson.mrs", realizou diversas consultas no sistema ePol da Polícia
+  Federal com os termos "André Beraldo Vorcaro", "Daniel Vorcaro", "Daniel Bueno Vorcaro" e "Banco Máxima"
+  (nome do banco, antes de rebatizado Banco Master, que Daniel Vorcaro viria a controlar). Os acessos têm
+  registro preciso de data, horário, IP de origem e usuário, e ocorreram em horário incomum — por exemplo,
+  às 21h35min e depois de 23h em 07/12/2021 —, fora do expediente normal da corporação.
+document_ids:
+- doc-2026-05-representacao-pf-pet15978-sexta-fase
+source_ids:
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+date: '2021-12-13'
+notes: 'É a evidência mais antiga do acervo de um vínculo entre Marilson e o interesse da família Vorcaro
+  — quase três anos antes do episódio do drone em Belo Horizonte (06/04/2024) já registrado no perfil
+  dele, e antes mesmo de o banco adotar o nome "Master". A própria PF (nota de rodapé 41 do documento)
+  suspeita que "André Beraldo Vorcaro" seja André Beraldo de Morais, apontado por reportagens do jornal
+  O Tempo (29/03/2026) e da UOL como alvo de busca e apreensão na 2ª fase da Compliance Zero e suspeito
+  de operar empresas de fachada para desviar recursos do Master — mas essa identificação é hipótese da
+  PF, não fato estabelecido no documento, e André Beraldo de Morais não tem registro próprio no acervo.
+  Tratar com cautela até confirmação por fonte adicional.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
