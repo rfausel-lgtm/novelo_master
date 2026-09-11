@@ -1,0 +1,19 @@
+id: ev-erlene-helder-camada-contabil-lavagem-marilson
+kind: evidence
+classification: D
+proposition: A decisão de 13/05/2026 descreve capítulo específico sobre lavagem de capitais praticada por
+  Marilson Roseno da Silva a partir de Erlene Nonato Lacerda (gestora financeira informal, recebedora
+  formal de dois pagamentos de R$ 50 mil da King Participações que seriam na verdade destinados a
+  Marilson) e Helder Alves de Lima (contador da Roseno & Ribeiro Gestão Empresarial, emissor das notas
+  fiscais que formalizavam os repasses), identificando estrutura empresarial e patrimonial destinada ao
+  financiamento dos núcleos "A Turma" e "Os Meninos".
+document_ids:
+- doc-2026-05-13-decisao-pet15978-sexta-fase-os-meninos
+source_ids:
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+date: '2026-05-13'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
