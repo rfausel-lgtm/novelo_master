@@ -10,7 +10,9 @@ summary: Alvo de cautelar de proibição de se ausentar da comarca e do país na
   em nome próprio, dois pagamentos de R$ 50 mil cada (26/10/2023 e 16/02/2024) da King Participações Imobiliária
   (de Luiz Phillipi Mourão), que segundo a PF eram na verdade destinados a Marilson. Enviava a ele planilhas com
   depósitos em sua própria conta no Santander, prestando contas dos ingressos financeiros formalmente registrados
-  em seu nome mas com destinação real a Marilson.
+  em seu nome mas com destinação real a Marilson. No mesmo dia 13/05/2026, na PET 16.019 (processo formal
+  de bloqueio patrimonial, distinto da PET 15.978), teve R$ 9,6 milhões em bens e valores bloqueados por
+  decisão de Mendonça.
 why_in_novelo: É a peça da engrenagem de lavagem/ocultação patrimonial que separava formalmente o recebedor (ela)
   do beneficiário real (Marilson Roseno) dos repasses de Mourão.
 cited_position:
@@ -20,6 +22,7 @@ open_questions:
 - Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ela no corpus.
 source_ids:
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+- src-stf-pet16019-decisao-13-05-2026-medidas-assecuratorias
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

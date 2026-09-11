@@ -1,0 +1,34 @@
+id: src-stf-pet16019-decisao-13-05-2026-medidas-assecuratorias
+kind: source
+title: Decisão que decreta bloqueio patrimonial de sete integrantes de 'A Turma' e 'Os Meninos' (PET 16.019, 13/05/2026)
+publisher: Supremo Tribunal Federal — Ministro André Mendonça
+author: Ministro André Mendonça
+publication_date: '2026-05-13'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15387071515&ext=.pdf
+source_type: official_court
+summary: 'Decisão pública (Resolução STF 427/2010), baixada diretamente do portal do STF, que defere pedido
+  da Polícia Federal de medidas assecuratórias de bloqueio patrimonial contra sete integrantes dos núcleos
+  "A Turma" e "Os Meninos" da Operação Compliance Zero: David Henrique Alves, Victor Lima Sedlmaier e
+  Rodrigo Pimenta Franco Avelar Campos (R$ 1,8 milhão cada, "Os Meninos"), e Manoel Mendes Rodrigues,
+  Anderson Wander da Silva Lima, Sebastião Monteiro Júnior e Erlene Nonato Lacerda (R$ 9,6 milhões cada,
+  "A Turma"), com os respectivos CPFs individualizados. A decisão é a peça formal de constrição
+  patrimonial da PET 16.019 — processo distinto da PET 15.978 (prisão preventiva) e da PET 15.976 (busca e
+  apreensão), tramitando em paralelo sob o mesmo relator e a mesma investigação. Determina o bloqueio via
+  SISBAJUD, CNIB, RENAJUD, ofícios ao Banco Central, à CVM, às Capitanias dos Portos e à ANAC, e a 14
+  corretoras de criptoativos nomeadas (Foxbit, Mercado Bitcoin, Binance e Coinbase via plataforma Kodex,
+  BitcoinTrade/Ripio Trade, NovaDAX, BitPreço, Coinext, BitcoinToYou, NoxBitcoin, Flow, BitNuvem, BitBlue e
+  BitCâmbio) mais a Associação Brasileira de Criptoeconomia (ABcripto), para bloqueio de eventuais
+  criptoativos.'
+notes: Documento público, baixado diretamente do portal do STF. Não depende do certificado digital do
+  Rafael.
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

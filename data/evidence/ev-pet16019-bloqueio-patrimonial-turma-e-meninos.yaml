@@ -1,0 +1,29 @@
+id: ev-pet16019-bloqueio-patrimonial-turma-e-meninos
+kind: evidence
+classification: D
+proposition: 'Em 13/05/2026, na PET 16.019/DF, o ministro André Mendonça decretou bloqueio patrimonial
+  individualizado por CPF contra sete integrantes de "A Turma" e "Os Meninos": David Henrique Alves (CPF
+  491.536.108-06), Victor Lima Sedlmaier (CPF 119.349.706-03) e Rodrigo Pimenta Franco Avelar Campos (CPF
+  702.010.036-86) — R$ 1.800.000,00 cada, núcleo "Os Meninos" — e Manoel Mendes Rodrigues (CPF
+  100.625.587-73), Anderson Wander da Silva Lima (CPF 021.724.237-50), Sebastião Monteiro Júnior (CPF
+  356.121.346-49) e Erlene Nonato Lacerda (CPF 735.120.106-44) — R$ 9.600.000,00 cada, núcleo "A Turma". O
+  bloqueio alcança ativos financeiros (SISBAJUD), imóveis (CNIB), veículos (RENAJUD), embarcações
+  (Capitanias dos Portos), aeronaves (ANAC), valores mobiliários (CVM) e criptoativos — via ofícios a 14
+  corretoras nomeadas (Foxbit, Mercado Bitcoin, Binance, Coinbase, BitcoinTrade/Ripio Trade, NovaDAX,
+  BitPreço, Coinext, BitcoinToYou, NoxBitcoin, Flow, BitNuvem, BitBlue e BitCâmbio) e à Associação
+  Brasileira de Criptoeconomia (ABcripto).'
+document_ids:
+- doc-2026-05-13-decisao-pet16019-medidas-assecuratorias
+source_ids:
+- src-stf-pet16019-decisao-13-05-2026-medidas-assecuratorias
+date: '2026-05-13'
+notes: A PET 16.019 é o processo formal de constrição patrimonial — distinto da PET 15.978 (prisão
+  preventiva, mesma data) e da PET 15.976 (busca e apreensão, mesma data) — tramitando em paralelo sob o
+  mesmo relator e a mesma investigação (6ª fase da Compliance Zero). É a primeira vez que o acervo registra
+  os valores exatos de bloqueio individualizados por pessoa nesta fase, e o mecanismo de bloqueio de
+  criptoativos via corretoras nomeadas e a ABcripto.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

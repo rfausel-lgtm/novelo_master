@@ -1,0 +1,30 @@
+id: doc-2026-05-13-decisao-pet16019-medidas-assecuratorias
+kind: document
+title: Decisão que decreta bloqueio patrimonial de sete integrantes de 'A Turma' e 'Os Meninos'
+doc_type: judicial_decision
+date: '2026-05-13'
+date_precision: day
+source_ids:
+- src-stf-pet16019-decisao-13-05-2026-medidas-assecuratorias
+summary: Decisão que defere medidas assecuratórias de bloqueio patrimonial contra David Henrique Alves,
+  Victor Lima Sedlmaier, Rodrigo Pimenta Franco Avelar Campos, Manoel Mendes Rodrigues, Anderson Wander da
+  Silva Lima, Sebastião Monteiro Júnior e Erlene Nonato Lacerda, com valores individualizados por CPF.
+is_official: true
+related_entity_ids:
+- david-henrique-alves
+- victor-lima-sedlmaier
+- rodrigo-pimenta-franco-avelar-campos
+- manoel-mendes-rodrigues
+- anderson-wander-da-silva-lima
+- sebastiao-monteiro-junior
+- erlene-nonato-lacerda
+issuer_id: supremo-tribunal-federal
+issuer: Ministro André Mendonça
+reference: 'STF, PET 16.019/DF, decisão de 13/05/2026'
+excerpt: bloqueio de valores em contas bancárias e a indisponibilidade de ativos financeiros, imóveis,
+  veículos, embarcações, aeronaves e criptoativos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

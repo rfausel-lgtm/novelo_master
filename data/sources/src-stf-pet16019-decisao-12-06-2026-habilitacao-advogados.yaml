@@ -1,0 +1,25 @@
+id: src-stf-pet16019-decisao-12-06-2026-habilitacao-advogados
+kind: source
+title: Decisão que autoriza acesso dos advogados de Manoel Mendes Rodrigues aos autos sigilosos (PET 16.019, 12/06/2026)
+publisher: Supremo Tribunal Federal — Ministro André Mendonça
+author: Ministro André Mendonça
+publication_date: '2026-06-12'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15388000511&ext=.pdf
+source_type: official_court
+summary: Decisão pública (Resolução STF 427/2010), baixada diretamente do portal do STF, que defere pedido
+  dos advogados de Manoel Mendes Rodrigues de habilitação e acesso temporário aos autos sigilosos da PET
+  16.019, com as restrições da Súmula Vinculante 14, e estende o mesmo benefício aos advogados dos demais
+  investigados que comprovarem habilitação.
+notes: Documento público, baixado diretamente do portal do STF. Não depende do certificado digital do
+  Rafael.
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
