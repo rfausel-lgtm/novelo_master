@@ -1,0 +1,22 @@
+id: fundo-laguz-i
+kind: organization
+name: Laguz I Fundo de Investimento em Direitos Creditórios Não Padronizados
+org_type: fund
+summary: FIDC administrado pela Reag Distribuidora de Títulos Mobiliários S/A (mesma CBSF DTVM, CNPJ 34.829.992/0001-86,
+  já no acervo por operações irregulares com o Banco Master). Segundo a defesa de Ibaneis Rocha, o fundo teria como
+  único cotista o Banco Original e recebeu, em 23/12/2021, a cessão de créditos de honorários advocatícios do escritório
+  Ibaneis Advocacia e Consultoria, relativos a cumprimento de sentença de ação iniciada em 2008 contra a União Federal.
+why_in_novelo: É o veículo, administrado pela mesma Reag/CBSF já implicada em irregularidades com o Master, por
+  onde o escritório de advocacia do governador do DF cedeu créditos — uma das duas operações que a CPI do Crime
+  Organizado cita como motivo para convocar Ibaneis Rocha.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública direta do fundo ou de seus administradores localizada no corpus.
+source_ids:
+- src-stf-pet15556-edoc216-pedido-extensao-ibaneis-01-04-2026
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

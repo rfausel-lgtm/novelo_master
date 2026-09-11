@@ -1,0 +1,20 @@
+id: ev-ibaneis-confirma-cessoes-de-creditos-via-fundo-administrado-pela-reag
+kind: evidence
+classification: D
+proposition: O escritório Ibaneis Advocacia e Consultoria (fundado pelo governador do DF, dele afastado desde 2018)
+  cedeu, em duas operações (29/05/2024 e 23/12/2021), créditos de honorários advocatícios de uma ação iniciada em
+  2008 contra a União Federal; a cessão de 23/12/2021 foi feita ao Fundo Laguz I FIDC, administrado pela Reag/CBSF
+  DTVM, cujo único cotista seria o Banco Original.
+document_ids:
+- doc-2026-04-01-pedido-extensao-ibaneis-edoc216
+source_ids:
+- src-stf-pet15556-edoc216-pedido-extensao-ibaneis-01-04-2026
+date: '2026-04-01'
+notes: Confissão/explicação da própria parte investigada, documentada em petição própria — prova que a operação
+  e as datas foram admitidas por ele, não que a operação seja irregular; a defesa a caracteriza como prática lícita
+  de mercado (deságio de créditos contra a fazenda pública), sem relação com o Banco Master.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

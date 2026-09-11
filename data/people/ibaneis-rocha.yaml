@@ -19,21 +19,33 @@ why_in_novelo: Chefiava o Executivo distrital que propôs a autorização legisl
   participação no Banco Master, e é formalmente investigado, segundo decisão do STF, em dois eixos ligados
   ao caso — um envolvendo seu próprio escritório de advocacia.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica dele sobre a operação ou sobre as investigações foi
-    localizada no corpus até a data desta atualização; sua defesa técnica apenas noticiou a convocação da
-    CPI e pediu dispensa, sem se manifestar sobre o mérito das alegações.
+- kind: denial
+  summary: 'Em petição de 01/04/2026 (e-Doc 216), a defesa dele afirma: (1) confirma duas cessões de
+    créditos de honorários advocatícios de uma ação de 2008 contra a União (29/05/2024 e 23/12/2021, esta
+    ao Fundo Laguz I, administrado pela Reag/CBSF), caracterizando-as como prática lícita de mercado sem
+    relação com o Banco Master; (2) nega qualquer ligação entre o escritório e a parceria do PicPay com o
+    GDF para antecipação salarial; (3) confirma que o escritório presta serviços ao Grupo J&F "em centenas
+    de ações", mas nega relevância disso ou da compra, pelo filho dele, de imóvel que antes pertenceu a um
+    sobrinho dos irmãos Batista; (4) nega qualquer papel operacional nas decisões do BRB sobre o Master,
+    afirmando que nunca escolheu diretores do banco e que sua atuação se limitou ao dever de vigilância
+    institucional.'
+  source_ids:
+  - src-stf-pet15556-edoc216-pedido-extensao-ibaneis-01-04-2026
+  by_id: ibaneis-rocha
+  date: '2026-04-01'
 open_questions:
-- 'PARCIALMENTE CORROBORADO (lote 176): a alegação, já registrada aqui como classe I e não verificada
-  diretamente, de que seu escritório (Ibaneis Advocacia) teria vendido R$ 38 milhões em honorários de
-  precatório ao fundo Reag Legal Claims agora tem lastro em documento primário — a decisão do STF de
-  02/04/2026 reproduz a caracterização da CPI de que o escritório mantém ''relações comerciais'' com
-  entidades investigadas nas operações Compliance Zero e Carbono Oculto. A decisão, porém, não cita
-  nominalmente a Reag Legal Claims nem confirma o valor de R$ 38 milhões — corroboração do eixo geral, não
-  do valor específico. Sua defesa mantém que ele está afastado das atividades do escritório desde 2018.'
+- 'ATUALIZADO (lote 177): a própria petição de Ibaneis Rocha (e-Doc 216, 01/04/2026) confirma que houve,
+  sim, uma cessão de créditos a um fundo administrado pela Reag/CBSF (Fundo Laguz I, 23/12/2021) — mas
+  a CPI, no mesmo requerimento, cita uma OUTRA operação, com o fundo Reag Legal Claims (hoje Pedra Azul
+  FIDC), sem que nenhum documento do corpus detalhe valor ou data dela. Ou seja: a existência de cessões
+  de crédito ao grupo Reag está confirmada pela própria defesa; o valor de R$ 38 milhões e a operação
+  específica com a Reag Legal Claims/Pedra Azul FIDC seguem sem confirmação documental direta — corpus
+  não resolve se são a mesma operação, descrita de forma diferente pelas duas partes, ou duas operações
+  distintas.'
 source_ids:
 - src-cldf-2025-08-19-autoriza-brb-comprar-master
 - src-stf-pet15556-edoc223-decisao-dispensa-ibaneis-cpi-02-04-2026
+- src-stf-pet15556-edoc216-pedido-extensao-ibaneis-01-04-2026
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Ibaneis_Rocha
 review_status: published

@@ -1,0 +1,20 @@
+id: ev-cpi-alega-segunda-cessao-ao-fundo-reag-legal-claims-pedra-azul
+kind: evidence
+classification: A
+proposition: Segundo o Requerimento 310/2026 da CPI do Crime Organizado, reproduzido na petição de Ibaneis Rocha,
+  o escritório Ibaneis Advocacia e Consultoria também realizou uma operação de cessão de direitos creditórios com
+  o fundo Reag Legal Claims, atualmente operando sob o nome Pedra Azul FIDC — sem que o documento consultado detalhe
+  valor ou data dessa segunda operação.
+attributed_to: CPI do Crime Organizado, Requerimento 310/2026, reproduzido na petição de Ibaneis Rocha (e-Doc 216)
+document_ids: []
+source_ids:
+- src-stf-pet15556-edoc216-pedido-extensao-ibaneis-01-04-2026
+date: '2026-03-31'
+notes: Fica classe A porque é a caracterização da CPI, reproduzida (não contestada em seus fatos básicos, apenas
+  na interpretação) na petição — o corpus não obteve o Requerimento 310/2026 em si nem documento que confirme valor
+  ou data da operação com a Pedra Azul FIDC.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

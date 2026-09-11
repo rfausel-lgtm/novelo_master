@@ -1,0 +1,25 @@
+id: paulo-humberto-barbosa
+kind: person
+name: Paulo Humberto Barbosa
+category: other
+role: Investigado no Inquérito 5.026/DF, dispensado de comparecimento obrigatório à CPI do Crime Organizado
+summary: Citado na petição de Ibaneis Rocha (e-Doc 216) como uma das pessoas que, no âmbito do Inquérito 5.026/DF,
+  tiveram a obrigatoriedade de comparecimento à CPI do Crime Organizado afastada por decisão do ministro André Mendonça
+  em 26/02/2026 — mesma data da dispensa dos irmãos Dias Toffoli. O corpus não localizou, até esta atualização,
+  nenhum outro documento que explique seu papel nas investigações do caso Master.
+why_in_novelo: Nome novo, citado apenas de passagem em lista de dispensas de comparecimento à CPI — sua conexão
+  específica com o caso Master ainda não está estabelecida no acervo.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada no corpus.
+open_questions:
+- Qual é exatamente o papel de Paulo Humberto Barbosa nas investigações do caso Master? A única referência no corpus
+  é a de que foi dispensado de depor à CPI por decisão de 26/02/2026 no Inquérito 5.026/DF, sem detalhamento do
+  motivo.
+source_ids:
+- src-stf-pet15556-edoc216-pedido-extensao-ibaneis-01-04-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
