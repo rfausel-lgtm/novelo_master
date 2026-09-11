@@ -1,0 +1,29 @@
+id: joana-machado-de-moraes-mourao
+kind: person
+name: Joana Machado de Moraes Mourão
+category: other
+role: Parente de Luiz Phillipi Machado de Moraes Mourão; requereu restituição de veículo apreendido
+summary: Requereu ao STF, em 29/05/2026, a restituição de um Range Rover SE 4x4 (placa TYM9F99) apreendido
+  durante busca e apreensão contra Luiz Phillipi Machado de Moraes Mourão — de quem compartilha o
+  sobrenome, sugerindo parentesco não esclarecido no corpus. Alega ser proprietária de boa-fé; a PGR opinou
+  pelo indeferimento, por suspeita de que o veículo tenha sido comprado com recursos de origem ilícita
+  ligados a Mourão, e observou que ela não apresentou informações sobre a origem dos recursos usados na compra.
+why_in_novelo: É requerente de restituição de bem apreendido na investigação sobre o núcleo de intimidação
+  "A Turma", ligado por sobrenome a Luiz Phillipi Mourão, líder do grupo.
+cited_position:
+- kind: version
+  summary: Alega ser proprietária de boa-fé do veículo, sem relação com os fatos investigados contra Mourão.
+  source_ids:
+  - src-mpf-pgr-2026-07-21-manifestacao-marilson-belline-cvm-mourao
+  by_id: joana-machado-de-moraes-mourao
+  date: '2026-05-29'
+open_questions:
+- O grau de parentesco dela com Luiz Phillipi Mourão não está esclarecido no corpus — apenas o sobrenome
+  compartilhado sugere vínculo familiar.
+source_ids:
+- src-mpf-pgr-2026-07-21-manifestacao-marilson-belline-cvm-mourao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

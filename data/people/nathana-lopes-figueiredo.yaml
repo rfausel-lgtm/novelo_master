@@ -1,0 +1,27 @@
+id: nathana-lopes-figueiredo
+kind: person
+name: Nathana Lopes Figueiredo
+category: other
+role: Requereu restituição de celular apreendido na busca contra Luiz Phillipi Mourão
+summary: Requereu ao STF, em 29/05/2026, a restituição de um iPhone 17 Pro Max apreendido durante busca e
+  apreensão contra Luiz Phillipi Machado de Moraes Mourão, alegando ser proprietária de boa-fé e pedindo
+  perícia e extração de dados do aparelho. A PGR não se opôs diretamente, mas pediu manifestação da
+  autoridade policial sobre a necessidade de manter o aparelho apreendido para fins periciais.
+why_in_novelo: É requerente de restituição de bem apreendido na investigação sobre o núcleo de intimidação
+  "A Turma", ligado a Luiz Phillipi Mourão. O corpus não esclarece sua relação com ele.
+cited_position:
+- kind: version
+  summary: Alega ser proprietária de boa-fé do aparelho, sem relação com os fatos investigados contra Mourão.
+  source_ids:
+  - src-mpf-pgr-2026-07-21-manifestacao-marilson-belline-cvm-mourao
+  by_id: nathana-lopes-figueiredo
+  date: '2026-05-29'
+open_questions:
+- A relação dela com Luiz Phillipi Mourão não está esclarecida no corpus.
+source_ids:
+- src-mpf-pgr-2026-07-21-manifestacao-marilson-belline-cvm-mourao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

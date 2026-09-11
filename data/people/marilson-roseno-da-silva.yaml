@@ -29,6 +29,16 @@ cited_position:
   - src-stf-pet15556-edoc221-peticao-marilson-revogacao-prisao-02-04-2026
   by_id: marilson-roseno-da-silva
   date: '2026-04-02'
+- kind: version
+  summary: 'ATUALIZAÇÃO (lote 187): em manifestação de 21/07/2026 sobre o próprio pedido de revogação
+    acima, a PGR opinou pelo indeferimento, caracterizando-o como ''um dos principais operadores do núcleo
+    de coerção da organização criminosa'' — linguagem mais forte que a usada em documentos anteriores. A
+    referência dele à ''ausência de recomendação da PGR'' dizia respeito à manifestação original sobre o
+    decreto de prisão (março de 2026), não a esta manifestação, na qual a PGR se posiciona contra a soltura.'
+  source_ids:
+  - src-mpf-pgr-2026-07-21-manifestacao-marilson-belline-cvm-mourao
+  by_id: marilson-roseno-da-silva
+  date: '2026-07-21'
 open_questions:
 - As imputações são da autoridade policial, sem juízo de mérito.
 - 'Há divergência entre fontes sobre a natureza do pagamento: reportagem de fevereiro de 2026 registra
@@ -50,6 +60,7 @@ source_ids:
 - src-brasil247-2026-marilson-aposentadoria-pf
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
 - src-stf-pet15556-edoc221-peticao-marilson-revogacao-prisao-02-04-2026
+- src-mpf-pgr-2026-07-21-manifestacao-marilson-belline-cvm-mourao
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
