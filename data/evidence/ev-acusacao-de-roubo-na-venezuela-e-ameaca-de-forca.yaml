@@ -1,0 +1,31 @@
+id: ev-acusacao-de-roubo-na-venezuela-e-ameaca-de-forca
+kind: evidence
+classification: D
+proposition: 'Em 18-19/09/2024, Daniel Vorcaro acusou dois nacionais, André Flores Tavares e Gabriel
+  Garrido Lacerda, de tê-lo roubado na Venezuela ("Eram faria limas. Não aguentam pressão. Mas foram pra
+  Venezuela e me roubaram. Esse é pra ir pra c forca") e determinou que "A Turma" fizesse levantamento
+  geral de ambos. Felipe Mourão e Marilson Roseno da Silva mobilizaram o grupo, compilando e trocando
+  documentos com dados pessoais dos dois, e Mourão mencionou que "estavam com uma entrada na Interpol"
+  contra eles. Em 03/10/2024, Vorcaro voltou a cobrar ação urgente, pedindo que alguém da PF "hoje ainda"
+  dissesse haver "denúncia de crime contra sistema financeiro" contra eles, e Mourão respondeu "estou
+  indo lá neles" — indo, segundo o áudio de Marilson que se segue, à Superintendência da Polícia Federal.'
+document_ids:
+- doc-2026-02-ipja-1070759-analise-chat-vorcaro-mourao
+source_ids:
+- src-stf-pet15978-edoc3-ipja-analise-chat-vorcaro-mourao
+excerpt: Eram faria limas. Não aguentam pressão. Mas foram pra Venezuela e me roubaram. Esse é pra ir pra
+  c forca
+date: '2024-09-18'
+notes: 'A acusação de roubo é alegação do próprio Daniel Vorcaro, sem qualquer elemento independente no
+  acervo que a corrobore — trata-se de disputa privada entre ele e os dois nacionais, de natureza e
+  origem não esclarecidas no documento. André Flores Tavares e Gabriel Garrido Lacerda entram aqui como
+  alvos do aparato de intimidação de Vorcaro, não como investigados nesta apuração, e a frase "pra ir pra
+  a forca" — de teor claramente violento — é dele, não fato provado. Chama atenção que a resposta ao que
+  Vorcaro descreve como um roubo tenha sido buscar contato na Polícia Federal e cogitar uma notificação à
+  Interpol por vias que passam pelo mesmo canal usado para as demais ações do grupo — não uma queixa-crime
+  ordinária.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
