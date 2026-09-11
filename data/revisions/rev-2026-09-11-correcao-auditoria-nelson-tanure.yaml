@@ -1,0 +1,18 @@
+id: rev-2026-09-11-correcao-auditoria-nelson-tanure
+kind: revision
+date: '2026-09-11'
+title: Correção editorial em Nelson Tanure — alegação autodescrita marcada como tal, e data/local de nascimento sem fonte removidos
+summary: 'Auditoria cruzada (outra sessão) de data/people/nelson-tanure.yaml apontou dois problemas: (1) o
+  resumo afirmava como fato que ele "esteve envolvido em mais de 200 empresas", quando a fonte citada
+  (src-seudinheiro-2026-quem-e-nelson-tanure) registra isso como autodescrição dele em podcast — corrigido
+  para "já se descreveu (...) como tendo investido em mais de 200 empresas", classe A explícita; (2) o resumo
+  abria com "Empresário baiano (Salvador, 1951)" sem que nenhuma fonte do registro sustentasse local ou ano
+  de nascimento (as únicas ocorrências de "1951" nas capturas locais eram coordenadas de SVG, não texto) —
+  removido por falta de lastro documental no acervo. A foto do verbete e as demais 75 fotos do acervo foram
+  auditadas na mesma passada e conferem (arquivo, Commons, descrição, licença).'
+affected_ids:
+- nelson-tanure
+reason: Auditoria editorial cruzada de outra sessão de trabalho sobre o mesmo repositório.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
