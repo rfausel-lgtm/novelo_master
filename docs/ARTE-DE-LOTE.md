@@ -10,7 +10,7 @@ Contrato fechado na [issue #34](https://github.com/rfausel-lgtm/novelo_master/is
 4. A arte não é evidência, não entra em `photo` nem em `source_ids`, e não sustenta alegação. Texto embutido no pixel **não prevalece** sobre `data/`; divergindo os dois, corrige-se ou remove-se a arte.
 5. Toda arte é WebP válido, **estático**, com largura máxima de **1280 px**.
 6. `npm run social:add` é o fluxo de inclusão e produz exclusivamente o arquivo canônico. `npm run social:check` falha para nome ou extensão inválidos, revisão inexistente, WebP inválido, largura acima do limite, animação, ou qualquer arquivo não canônico na pasta.
-7. **Nenhuma arte é publicada sem conferência humana registrada** no PR ou no commit que a publica. Quem gerou a imagem — sempre um modelo — nunca a libera. Ver [EDITORIAL_POLICY.md](../EDITORIAL_POLICY.md), seção 7.1.
+7. Toda publicação exige **autorização editorial humana**. Ela pode ser específica para uma arte ou continuada para o fluxo de geração, desde que registrada no repositório. Sob autorização continuada, o agente que gera pode executar a publicação direta após `social:check`; ele não decide sozinho nem afasta as vedações da seção 7.1 da [EDITORIAL_POLICY.md](../EDITORIAL_POLICY.md).
 
 ## Por que a chave é o `Revision.id`, e não o número do lote
 
@@ -42,7 +42,7 @@ o lote 83 tem 2 revisões. Passe o Revision.id completo:
 
 Nunca infere, aproxima ou corrige um id digitado: id desconhecido é erro.
 
-Depois: confira a arte (seção 7.1), commite, e o site a publica no próximo build.
+Depois: rode `npm run social:check`. Sem autorização continuada, submeta a arte à conferência humana; com autorização continuada registrada, o agente pode commitar e publicar diretamente, registrando a autorização no commit ou PR.
 
 ## Especificação de geração
 
@@ -71,4 +71,4 @@ Proibido:
 Saída: WebP estático, largura <= 1280 px.
 ```
 
-O que é verificável por máquina — formato, largura, animação, nome canônico, vínculo com revisão existente — é responsabilidade do `social:check`. O resto é da conferência humana, e um não substitui o outro.
+O que é verificável por máquina — formato, largura, animação, nome canônico, vínculo com revisão existente — é responsabilidade do `social:check`. O restante permanece sob responsabilidade editorial humana, exercida por conferência específica ou autorização continuada registrada.

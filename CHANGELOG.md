@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Política de artes passou a admitir autorização editorial humana continuada para publicação direta pelo agente gerador; a autorização permanece registrada e o `social:check` e as vedações substantivas continuam obrigatórios.
 - Área de imprensa com media kit PDF aprovado, capa, acesso na abertura, menu móvel e rodapé; inclusão no sitemap.
 
 Formato baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). O histórico editorial

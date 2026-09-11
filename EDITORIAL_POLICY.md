@@ -199,9 +199,9 @@ Essas artes existem para divulgação do lote em rede social, ficam em `public/s
 4. **A ausência é o estado normal.** A maior parte dos lotes não tem nem terá arte. Isso não é lacuna, não é pendência, e a lista não reserva espaço para ela.
 5. **O texto embutido na arte não é fonte.** Os cards trazem o título do lote e a marca do site no próprio pixel. O que vale é o registro em `data/`; divergindo os dois, corrige-se ou remove-se a arte.
 
-**Conferência humana, obrigatória.** Nenhuma arte é publicada sem conferência humana registrada no PR ou no commit que a publica. Quem gerou a imagem — sempre um modelo — nunca a libera. A confirmação declara que a arte não traz rosto ou pessoa real identificável, não é retrato fotorrealista, não simula documento nem cena de fato, não acrescenta alegação e não é animada. Sem esse registro, a arte não é publicada.
+**Autorização editorial humana, obrigatória.** Ela pode ser específica para cada arte ou continuada para um fluxo de geração, desde que registrada no repositório. Deve abranger, separadamente da mera inclusão do arquivo, que a arte não traz rosto ou pessoa real identificável, não é retrato fotorrealista, não simula documento nem cena de fato, não acrescenta alegação e não é animada. O modelo ou agente não pode inventar a autorização nem alterar essas vedações; sob autorização continuada registrada, pode executar a publicação direta depois das validações obrigatórias. Sem autorização, não publica.
 
-O que é verificável por máquina — formato, largura, animação, nome canônico, vínculo com revisão existente — é responsabilidade do `npm run social:check`; o resto é da conferência humana, e um não substitui o outro. O contrato técnico está em [docs/ARTE-DE-LOTE.md](docs/ARTE-DE-LOTE.md).
+O que é verificável por máquina — formato, largura, animação, nome canônico, vínculo com revisão existente — é responsabilidade do `npm run social:check`; o restante permanece sob responsabilidade editorial humana, exercida por conferência específica ou autorização continuada registrada. O contrato técnico está em [docs/ARTE-DE-LOTE.md](docs/ARTE-DE-LOTE.md).
 
 Remover uma arte não exige revisão em `data/`: basta apagar o arquivo, porque nenhum registro depende dela.
 
