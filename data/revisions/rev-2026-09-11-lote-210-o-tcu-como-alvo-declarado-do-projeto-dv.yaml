@@ -1,0 +1,24 @@
+id: rev-2026-09-11-lote-210-o-tcu-como-alvo-declarado-do-projeto-dv
+kind: revision
+date: '2026-09-11'
+title: 'Lote 210 — O TCU como alvo declarado do "Projeto DV"'
+summary: 'Primeiro lote do INQ 5.035, novo processo aberto após o despacho de levantamento de sigilo de
+  10/09/2026, e primeiro lote produzido com apoio de dois agentes de pesquisa trabalhando em paralelo
+  sobre os dois documentos mais densos do acervo (168 páginas somadas). Achado principal: a própria
+  Portaria de 28/01/2026 que instaura o inquérito sobre o "Projeto DV" — a campanha de Thiago Miranda já
+  extensamente documentada no acervo a partir da decisão de 10ª fase — descreve seu objetivo de forma mais
+  ampla do que registrado até agora: influenciar decisões "tanto perante o Supremo Tribunal Federal,
+  quanto perante o Tribunal de Contas da União". É a primeira vez que o TCU aparece como alvo declarado
+  da campanha, e não apenas como órgão que depois inspecionou o Banco Central sem achar irregularidade.
+  O lote registra também, com cautela editorial explícita sobre a origem da citação, o relato de um dos
+  influenciadores abordados, em vídeo de denúncia, sobre uma sessão de plenário do TCU marcada para
+  21/01/2026 em que se buscaria a suspensão da liquidação do Master — informação não confirmada por
+  apuração independente, e a transcrição do documento mistura, sem separação clara, trechos de mais de
+  um depoente.'
+affected_ids:
+- thiago-miranda
+reason: Análise do novo processo aberto pelo despacho de 10/09/2026 (Petição 16.704) — primeiro lote do
+  INQ 5.035, obtido via certificado digital do Rafael.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

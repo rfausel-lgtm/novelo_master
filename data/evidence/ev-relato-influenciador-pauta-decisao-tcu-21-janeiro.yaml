@@ -1,0 +1,30 @@
+id: ev-relato-influenciador-pauta-decisao-tcu-21-janeiro
+kind: evidence
+classification: A
+proposition: 'Em vídeo de denúncia pública, transcrito nos anexos da Portaria do IPL sobre o "Projeto DV",
+  um dos influenciadores abordados relata que o conteúdo pedido fazia referência a uma decisão do TCU —
+  citando a manchete real "TCU vê indícios de precipitação em liquidação do Master e dá 72 horas para o
+  BC se explicar" — e a uma sessão de plenário marcada para 21 de janeiro de 2026 em que se buscaria a
+  suspensão da liquidação do Banco Master.'
+document_ids:
+- doc-2026-01-28-portaria-ipl-projeto-dv
+source_ids:
+- src-stf-inq5035-edoc15-portaria-ipl-projeto-dv
+excerpt: TCU vê indícios de precipitação em liquidação do Master e dá 72 horas para o BC se explicar
+date: '2026-01-20'
+attributed_to: influenciador abordado pela campanha, em vídeo de denúncia pública
+notes: 'Cautela editorial necessária: a transcrição no documento mistura, sem separação clara, trechos
+  que parecem vir de mais de um vídeo de denúncia (o do vereador Rony Gabriel e o da comentarista política
+  Juliana Moreira Leite, ambos já registrados no acervo como parte da "primeira camada" de influenciadores
+  que recusaram a proposta) — por isso a atribuição específica a um ou outro não é feita aqui com
+  certeza. O que está claro é que a menção ao TCU e à data de 21 de janeiro vem do relato do próprio
+  influenciador sobre o que lhe foi pedido, não de documento da campanha em si nem de apuração
+  independente da PF sobre o conteúdo exato da pauta do TCU naquela data — o corpus não localizou,
+  fora deste relato, confirmação de uma sessão de plenário do TCU marcada para 21/01/2026 sobre o Master.
+  A manchete citada ("TCU vê indícios de precipitação...") parece ser notícia real, mencionada pelo
+  próprio influenciador como contraponto ao que lhe pediram para publicar.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -19,7 +19,13 @@ summary: 'Publicitário de Brasília, com CPF terminado em 451 confirmado em reg
   da piauí, e com o consultor Renato Breia, da Nord, pedindo retirada de conteúdo. Admitiu publicamente
   ter intermediado o investimento de Vorcaro no filme ''Dark Horse''. Não foi preso: em 11/07/2026 teve
   o passaporte apreendido e a saída do país proibida, por risco de fuga — tinha passagem marcada para
-  Miami dois dias depois. Em 13/07/2026 anunciou o encerramento da agência e um ano sabático.'
+  Miami dois dias depois. Em 13/07/2026 anunciou o encerramento da agência e um ano sabático. A PORTARIA
+  DE ABERTURA DO INQUÉRITO (28/01/2026, lote 210, INQ 5.035) — peça mais primitiva que a decisão da 10ª
+  fase — descreve o objetivo do ''Projeto DV'' de forma mais ampla do que já registrado: influenciar
+  decisões ''tanto perante o Supremo Tribunal Federal, quanto perante o Tribunal de Contas da União''. Um
+  dos influenciadores abordados relatou, em vídeo de denúncia, que a proposta fazia referência a uma
+  sessão de plenário do TCU marcada para 21/01/2026 sobre a liquidação do Master — relato não confirmado
+  por apuração independente.'
 why_in_novelo: 'É apontado como o operador da frente de comunicação do esquema: quem contratava influenciadores
   para atacar o regulador que liquidara o banco, quem encomendava dossiês sobre jornalistas e executivos
   incômodos, e quem intermediava o dinheiro do filme sobre Bolsonaro.'
@@ -107,6 +113,7 @@ source_ids:
 - src-cnnbrasil-2026-pf-thiago-miranda-coagiu-tres-jornalistas
 - src-cnnbrasil-2026-vorcaro-dossie-ceo-itau-maluhy
 - src-apublica-2026-09-analise-master-vorcaro-moraes-mendonca
+- src-stf-inq5035-edoc15-portaria-ipl-projeto-dv
 full_name: Thiago Miranda Silva
 review_status: published
 reviewer: orquestrador

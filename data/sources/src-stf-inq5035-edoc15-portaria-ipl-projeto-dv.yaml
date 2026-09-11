@@ -1,0 +1,35 @@
+id: src-stf-inq5035-edoc15-portaria-ipl-projeto-dv
+kind: source
+title: Portaria de instauração do IPL sobre o "Projeto DV" e anexos de contrainteligência (e-Doc 15, INQ 5.035)
+publisher: Polícia Federal — CINQ/CGRC/DICOR/PF e Coordenação-Geral de Contrainteligência
+author: Delegada Nathalia Ribeiro Leite Silva; Agente Pedro Baptista de Carli
+publication_date: '2026-01-28'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/listarProcessos.asp?classe=INQ&numeroProcesso=5035
+source_type: official_police
+summary: 'Portaria de 90 páginas que instaura o IPL 2026.0009625-CINQ/CGRC/DICOR/PF, embrião do que se
+  tornaria o Inquérito 5.035 sobre o "Projeto DV" — a campanha paga de Daniel Vorcaro contra o Banco
+  Central, já bastante documentada no acervo a partir da decisão de 10ª fase (PET 16.346, julho de 2026).
+  É peça mais primitiva e granular: inclui a Informação de Polícia Judiciária nº 82854/2026 (prints de
+  reportagens e transcrição de vídeos de denúncia de influenciadores) e a Informação nº 97765/2026
+  (mapeamento de contrainteligência de dezenas de perfis de redes sociais). O achado mais relevante é que
+  a própria Portaria — não uma testemunha, a peça oficial de abertura do inquérito — descreve o objetivo
+  da campanha como influenciar decisões "tanto perante o Supremo Tribunal Federal, quanto perante o
+  Tribunal de Contas da União". Identifica ainda Leonardo Antônio Lima Dias ("Léo Dias") como segundo
+  intimado no mesmo despacho de Thiago Miranda, um possível sócio majoritário (Flávio Carneiro, 60%) do
+  Grupo Leo Dias ou da Agência MiThi, e a empresa Olivetto Comunicação como contraparte contratual.'
+notes: 'Documento obtido pelo próprio Rafael via certificado digital, parte do download completo do INQ
+  5.035 (83 peças) — nova frente aberta após o despacho de levantamento de sigilo de 10/09/2026 (Petição
+  16.704). Lido por dois agentes de pesquisa em paralelo, cada um cobrindo um dos dois documentos mais
+  densos do acervo (este e o e-Doc 42), com síntese e verificação final deste orquestrador.'
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador (síntese de leitura por agente de pesquisa dedicado, com verificação direta
+    dos trechos citados; 90 páginas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
