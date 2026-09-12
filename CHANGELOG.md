@@ -60,7 +60,8 @@
 - A arte do lote passou a ilustrar o item em `/atualizacoes`, com a legenda "Ilustração gerada por
   IA" colada na imagem — a ressalva fica onde o leitor a encontra antes de tomar a arte pelo que o
   acervo afirma. No celular ela abre o item, em largura cheia; a partir de 768 px vai para a direita,
-  em 18 rem, com o texto à esquerda. Em largura cheia na coluna de ~944 px a mesma imagem paisagem
+  em duas colunas iguais com o texto à esquerda, e a mesma margem de 33 px nos dois lados — a
+  borda direita da imagem espelha o recuo do texto na linha do tempo. Em largura cheia na coluna de ~944 px a mesma imagem paisagem
   virava um bloco de mais de 500 px de altura por lote e empurrava o texto para fora da tela a cada
   item. Ausência de arte segue sendo estado normal: o item começa pela data, sem espaço reservado.
 

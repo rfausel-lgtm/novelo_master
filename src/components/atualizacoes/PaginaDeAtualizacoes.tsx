@@ -91,16 +91,24 @@ export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
                   No celular a arte abre o item, em largura cheia, e o texto vem embaixo: a coluna
                   é estreita e a imagem paisagem ocupa pouca altura.
 
-                  A partir de `md` ela sai do topo e vai para a direita, em tamanho intermediário
-                  (18rem). Em largura cheia, na coluna de ~944 px, a mesma imagem paisagem virava
-                  um bloco de mais de 500 px de altura por lote e empurrava o texto — que é o
-                  conteúdo — para fora da tela a cada item.
+                  A partir de `md` ela sai do topo e vai para a direita, dividindo o item em duas
+                  colunas iguais com o texto. Em largura cheia, na coluna de ~944 px, a mesma imagem
+                  paisagem virava um bloco de mais de 500 px de altura por lote e empurrava o texto
+                  — que é o conteúdo — para fora da tela a cada item.
 
-                  A legenda continua colada na imagem, e não no texto: é da ilustração que ela fala.
+                  `md:pr-[33px]` espelha a margem da esquerda: o texto começa 33 px dentro da caixa da
+                  página (`ml-2` + 1 px de borda + `pl-6` da linha do tempo), então a imagem termina 33 px antes da
+                  borda direita. Sem isso a imagem encostava na borda e o item ficava torto.
+
+                  A legenda continua colada na imagem, e não no texto: é da imagem que ela fala.
                 */}
-                <div className={arte ? "md:flex md:items-start md:gap-6" : undefined}>
+                <div
+                  className={
+                    arte ? "md:grid md:grid-cols-2 md:items-start md:gap-6 md:pr-[33px]" : undefined
+                  }
+                >
                   {arte && (
-                    <figure className="mb-3 md:order-last md:mb-0 md:w-72 md:shrink-0">
+                    <figure className="mb-3 md:order-last md:mb-0">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img
                         src={arte.src}
@@ -128,7 +136,7 @@ export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
                       </figcaption>
                     </figure>
                   )}
-                  <div className={arte ? "md:min-w-0 md:flex-1" : undefined}>
+                  <div className={arte ? "md:min-w-0" : undefined}>
                     <time dateTime={r.date} className="text-fg font-mono text-sm font-medium">
                       {formatPartialDate(r.date)}
                     </time>
