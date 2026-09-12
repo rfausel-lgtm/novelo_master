@@ -1,0 +1,38 @@
+id: rev-2026-09-12-lote-234-projeto-dv-fundamenta-nova-busca-e-numeros-do-processo-pre-stf
+kind: revision
+date: '2026-09-12'
+title: 'Lote 234 — Vorcaro sob nova busca: o Projeto DV como fundamento, os números do processo pré-STF, e
+  a confirmação da própria defesa'
+summary: 'Três achados sobre a fase cautelar de janeiro de 2026 contra Daniel Vorcaro. Primeiro: a PF
+  fundamentou o pedido de nova busca em seu endereço atual citando o "Projeto DV" — a campanha de
+  influenciadores já mapeada no acervo via INQ 5.035 — como indício de novos crimes; a PGR concordou. É o
+  primeiro elo explícito entre as duas frentes. Segundo: a procuração e os substabelecimentos anexados
+  revelam os números completos do processo pré-STF (10ª Vara Federal Criminal da SJDF), até aqui só
+  existentes truncados num slug de fonte — e confirmam, por documento primário, que Walfrido Warde já não
+  assinava as petições da defesa em 14/01/2026. Terceiro: a própria defesa de Vorcaro confirmou, em
+  petição do mesmo dia, que ele foi alvo da busca de 14/01/2026 — corroboração por fonte independente do
+  que já era conhecido pela cobertura oficial do STF.'
+added:
+  people: 1
+  organizations: 0
+  events: 0
+  documents: 3
+  relationships: 0
+  sources: 3
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'walfrido-warde: a saída da defesa de Vorcaro em janeiro de 2026, até aqui sourced só por reportagem,
+  ganha confirmação por documento processual primário.'
+author: orquestrador
+affected_ids:
+- daniel-vorcaro
+- walfrido-warde
+- daniel-penido-de-britto
+- tiago-oliva-schietti
+reason: Leitura direta, por equipes de investigação em paralelo, das peças 20, 21, 22, 24, 46 e 47 da PET
+  15.198/DF — material novo obtido por Rafael via peticionamento eletrônico do STF, ainda não minerado
+  pelo acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

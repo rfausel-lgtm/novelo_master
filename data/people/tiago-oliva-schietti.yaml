@@ -1,0 +1,24 @@
+id: tiago-oliva-schietti
+kind: person
+category: other
+name: Tiago Oliva Schietti
+role: Alvo de busca e apreensão na PET 15.198 (Banco Master)
+summary: Nomeado entre os alvos de busca e apreensão da representação policial que fundamentou a decisão
+  de Dias Toffoli de 06/01/2026 na PET 15.198. Seu endereço, em condomínio de São Paulo, foi retificado
+  pela PF em 12/01/2026 (unidade incorreta na comunicação inicial).
+why_in_novelo: É um dos alvos de busca e apreensão da fase cautelar da PET 15.198, sem que as peças lidas
+  detalhem sua relação específica com o esquema investigado.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação dele foi localizada no corpus, e a equipe não conseguiu contato.
+open_questions:
+- 'O acervo não sabe quem é: nenhuma informação independente sobre sua identidade, ocupação ou relação
+  com o Banco Master foi localizada além da lista de alvos de busca.'
+source_ids:
+- src-stf-pet15198-peca006-manifestacao-pgr-representacao
+- src-stf-pet15198-peca020-pf-projeto-dv-fundamenta-nova-busca
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

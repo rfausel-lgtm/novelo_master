@@ -10,7 +10,9 @@ positions:
   - src-minhareceita-escritorios-master-cnpjs
 summary: 'Ex-procurador do Banco Central por mais de quinze anos e ex-diretor da CVM, hoje sócio-administrador
   da Warde Advogados. Foi advogado pessoal de Daniel Vorcaro desde 2017 e deixou a defesa em janeiro de
-  2026. A leitura direta da representação da PF de 27/02/2026 (lote 171) confirma e detalha o episódio:
+  2026 — confirmado por documento primário (lote 234): consta substabelecido em 18/11/2025, mas já não
+  assina as petições da defesa de 14/01/2026. A leitura direta da representação da PF de 27/02/2026 (lote
+  171) confirma e detalha o episódio:
   na manhã de 17/11/2025, horas antes da operação Compliance Zero, enviou mensagens urgentes a Vorcaro
   às 07h28, recebeu dele o link de matéria de Diego Escosteguy sobre o caso, e no mesmo dia protocolou
   petição pedindo acesso aos autos sigilosos da 10ª Vara Federal citando a matéria como fonte — dizendo
@@ -36,6 +38,7 @@ source_ids:
 - src-jornaldebrasilia-2026-03-14-warde-infernizando-juiz
 - src-otempo-2026-04-09-master-91-escritorios
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+- src-stf-pet15198-peca047-procsubs-numeros-processo-pre-stf
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

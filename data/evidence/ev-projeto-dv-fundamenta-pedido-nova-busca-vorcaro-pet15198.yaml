@@ -1,0 +1,21 @@
+id: ev-projeto-dv-fundamenta-pedido-nova-busca-vorcaro-pet15198
+kind: evidence
+classification: A
+proposition: Em 12/01/2026, a PF pediu reconsideração da decisão de 06/01/2026 que indeferira nova busca
+  no endereço atual de Daniel Vorcaro, citando o "Projeto DV" — campanha de influenciadores já mapeada no
+  acervo via INQ 5.035 — como indício de novos crimes; a PGR concordou em 12/01/2026.
+document_ids:
+- doc-2026-01-12-pf-projeto-dv-fundamenta-nova-busca
+source_ids:
+- src-stf-pet15198-peca020-pf-projeto-dv-fundamenta-nova-busca
+attributed_to: Delegado Daniel Penido de Britto (Polícia Federal)
+date: '2026-01-12'
+notes: Elo até então não registrado entre duas frentes já documentadas separadamente no acervo — o
+  Projeto DV (INQ 5.035) e a fase cautelar da PET 15.198. A tese de que a campanha configura "novos
+  crimes" é alegação da autoridade policial; a existência da campanha em si já está corroborada (C) por
+  múltiplas fontes de imprensa independentes registradas em ev-projeto-dv-tres-camadas-influenciadores.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

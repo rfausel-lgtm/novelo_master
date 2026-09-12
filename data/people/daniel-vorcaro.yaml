@@ -146,6 +146,15 @@ open_questions:
   derivativos, 2024-2025, já no acervo por outra via) e sobre notas comerciais e CRIs adquiridos por cinco
   fundos até então não registrados no corpus (CITY-02 FIDC, CITY FIDC, Máxima FIM – Crédito Privado 2, MN
   I FIDC, ST 1001 FIDC) — sem detalhamento disponível sobre valores ou mecanismo em cada um.'
+- 'NOVO (lote 234): a procuração e os substabelecimentos anexados aos autos da PET 15.198 revelam os
+  números completos do processo pré-STF, na 10ª Vara Federal Criminal da SJDF — Processo nº
+  1096304-87.2025.4.01.3400, Pedido de Prisão Preventiva nº 1117065-42.2025.4.01.3400 e Pedido de Busca e
+  Apreensão nº 1117412-75.2025.4.01.3400 —, até aqui só existentes truncados num slug de fonte do acervo.
+  A própria defesa dele confirmou, em petição de 14/01/2026, que ele foi alvo da busca e apreensão daquele
+  dia — corroborando por fonte independente o que já constava, de forma genérica, na cobertura oficial do
+  STF. A PF havia fundamentado o pedido de nova busca no endereço atual dele citando o "Projeto DV"
+  (campanha de influenciadores, já mapeada no acervo via INQ 5.035) como indício de novos crimes — elo
+  entre as duas frentes até então não registrado.'
 source_ids:
 - src-ac24horas-2026-09-04-vorcaro-sinaliza-poupar-moraes-delacao
 - src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
@@ -185,6 +194,9 @@ source_ids:
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 - src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
 - src-stf-pet15556-edoc353-decisao-oitiva-vorcaro-cvm-24-07-2026
+- src-stf-pet15198-peca047-procsubs-numeros-processo-pre-stf
+- src-stf-pet15198-peca046-peticao-defesa-vorcaro-confirma-busca
+- src-stf-pet15198-peca020-pf-projeto-dv-fundamenta-nova-busca
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published
