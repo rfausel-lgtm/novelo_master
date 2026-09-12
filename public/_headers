@@ -56,3 +56,7 @@
 
 /_next/static/*
   Cache-Control: public, max-age=31536000, immutable
+
+# O endereço padrão do Pages serve o site inteiro: fora do índice, para não competir com o domínio próprio.
+https://novelo-master.pages.dev/*
+  X-Robots-Tag: noindex

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { allPeople, getPerson } from "@/lib/data";
-import { excerptOf, pageMetadata, personJsonLd , safeJsonLd } from "@/lib/pages";
+import { excerptOf, pageMetadata, personJsonLd , safeJsonLd, tituloDeEntidade } from "@/lib/pages";
 import { PageShell } from "@/components/entity/PageShell";
 import { Breadcrumbs } from "@/components/entity/Breadcrumbs";
 import { AgentDossier } from "@/components/entity/AgentDossier";
@@ -16,7 +16,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const p = getPerson(slug);
   if (!p) return {};
-  return pageMetadata({ title: p.name, description: excerptOf(p.why_in_novelo), path: `/pessoas/${p.id}`, type: "article" });
+  const titulo = tituloDeEntidade(p.name);
+  /* `absolute`: sem o " · O Novelo Master" do layout, que empurrava o caso para fora do corte do buscador. */
+  return {
+    ...pageMetadata({ title: titulo, description: excerptOf(p.why_in_novelo), path: `/pessoas/${p.id}`, type: "article" }),
+    title: { absolute: titulo },
+  };
 }
 
 export default async function PessoaPage({ params }: { params: Promise<{ slug: string }> }) {

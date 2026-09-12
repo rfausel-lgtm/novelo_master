@@ -35,6 +35,15 @@ function versaoDaImagem(): string {
   return corpus.built_at.slice(0, 10).replace(/-/g, "");
 }
 
+/**
+ * Título de pessoa e organização no resultado de busca. "Documentos do caso" descreve o que a página
+ * contém sem afirmar papel no caso. Nome que já traz "Banco Master" não repete o caso, mas mantém a
+ * marca do site — sozinho, "Banco Master" disputaria com o próprio banco.
+ */
+export function tituloDeEntidade(nome: string): string {
+  return /banco master/i.test(nome) ? `${nome} · O Novelo Master` : `${nome}: documentos do caso Banco Master`;
+}
+
 export function pageMetadata(opts: { title: string; description: string; path: string; type?: "website" | "article" }): Metadata {
   const url = `${SITE.url}${opts.path}`;
   return {
