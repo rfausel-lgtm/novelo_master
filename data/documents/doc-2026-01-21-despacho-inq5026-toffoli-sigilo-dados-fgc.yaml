@@ -1,0 +1,22 @@
+id: doc-2026-01-21-despacho-inq5026-toffoli-sigilo-dados-fgc
+kind: document
+title: Despacho estendendo a quebra de sigilo bancário aos dados consolidados pelo FGC
+doc_type: judicial_decision
+date: '2026-01-21'
+date_precision: day
+source_ids:
+- src-stf-inq5026-despacho-21-01-2026-toffoli-sigilo-dados-fgc
+summary: Defere representação da PF por nova determinação de afastamento do sigilo bancário dos investigados
+  abrangendo os dados consolidados no âmbito do Fundo Garantidor de Créditos, com ofício complementar para
+  envio ao IPL 2025.0087917-SR/PF/DF.
+is_official: true
+related_entity_ids:
+- dias-toffoli
+issuer_id: dias-toffoli
+issuer: Ministro Dias Toffoli
+reference: INQ 5.026/DF; IPL 2025.0087917-SR/PF/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

@@ -1,0 +1,36 @@
+id: rev-2026-09-12-lote-247-as-ultimas-semanas-de-toffoli-no-inq-5026
+kind: revision
+date: '2026-09-12'
+title: 'Lote 247 — as últimas semanas de Toffoli no INQ 5.026, e a ordem de trazer os aparelhos ao STF no dia da saída'
+summary: 'Leitura dos despachos do INQ 5.026 de janeiro e fevereiro de 2026 ainda não minerados — os últimos
+  da relatoria de Dias Toffoli. Em 20/01, ele mandou reservar salas e servidores do STF para as oitivas da
+  Polícia Federal; em 21/01, estendeu a quebra de sigilo bancário dos investigados aos dados consolidados pelo
+  FGC; em 24/01, ratificou as medidas de primeiro grau e liberou a análise do material apreendido às vésperas
+  das oitivas, nos termos da PGR. E em 12/02/2026, mesmo dia em que deixou a relatoria, determinou que a PF
+  enviasse ao STF, na íntegra, o conteúdo dos aparelhos e mídias apreendidos e os laudos — fundamentando na
+  Súmula Vinculante 14. Doze dias depois, Mendonça autorizou a PF a seguir o fluxo pericial ordinário,
+  dispensado o encaminhamento global das extrações à relatoria.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 4
+  relationships: 0
+  sources: 4
+  evidence: 4
+updated_relationships: 0
+corrections:
+- 'dias-toffoli: registrada sua condução do INQ 5.026 em janeiro e fevereiro de 2026, a partir dos despachos primários.'
+author: orquestrador
+affected_ids:
+- dias-toffoli
+- andre-mendonca
+- paulo-gonet
+reason: Continuação da leitura do INQ 5.026 via peticionamento.stf.jus.br (sessão autenticada pelo próprio
+  Rafael), nos despachos fora da camada pública e fora das 100 primeiras peças já mineradas. Outros despachos
+  lidos nesta rodada ficaram fora por serem expediente sem conteúdo novo (vista à PGR, desentranhamentos,
+  pedidos de informação à PF sobre medidas pendentes e o amplo acesso às defesas de 03 e 05/02/2026, este
+  incorporado como contexto).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

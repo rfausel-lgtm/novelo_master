@@ -1,0 +1,27 @@
+id: src-stf-inq5026-despacho-12-02-2026-toffoli-integra-aparelhos-ao-stf
+kind: source
+title: Despacho de Dias Toffoli mandando a PF enviar ao STF, na íntegra, o conteúdo dos aparelhos apreendidos
+publisher: Supremo Tribunal Federal
+author: Ministro Dias Toffoli
+publication_date: '2026-02-12'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347
+source_type: official_court
+summary: 'Uma defesa relata (e-doc. 255) que, apesar do acesso deferido, não obteve cópia dos laudos
+  periciais telemáticos, informáticos e telefônicos, porque a PF exigia autorização específica dado o volume
+  dos arquivos. Citando pedidos iguais de outras defesas e a concordância da PF (e-doc. 238) com amplo acesso
+  nos termos da Súmula Vinculante 14, Toffoli determina à PF que envie imediatamente ao STF, "na íntegra, o
+  conteúdo dos aparelhos e de outras mídias que foram apreendidos", os laudos periciais sobre esse material e
+  os demais elementos de prova ainda não juntados.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
+  certificado ou credencial do agente). Datada do mesmo dia em que ele deixou a relatoria do caso.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

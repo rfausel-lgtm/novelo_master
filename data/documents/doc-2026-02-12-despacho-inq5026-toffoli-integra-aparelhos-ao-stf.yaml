@@ -1,0 +1,23 @@
+id: doc-2026-02-12-despacho-inq5026-toffoli-integra-aparelhos-ao-stf
+kind: document
+title: Despacho determinando o envio ao STF, na íntegra, do conteúdo dos aparelhos apreendidos
+doc_type: judicial_decision
+date: '2026-02-12'
+date_precision: day
+source_ids:
+- src-stf-inq5026-despacho-12-02-2026-toffoli-integra-aparelhos-ao-stf
+summary: 'Para cumprir a Súmula Vinculante 14 diante de pedidos de defesas, determina à Polícia Federal que
+  encaminhe imediatamente ao STF (i) na íntegra, o conteúdo dos aparelhos e mídias apreendidos, (ii) os laudos
+  periciais sobre esse material, incluindo dados telemáticos, informáticos e telefônicos, e (iii) outros
+  elementos de prova já documentados e ainda não juntados ao inquérito.'
+is_official: true
+related_entity_ids:
+- dias-toffoli
+issuer_id: dias-toffoli
+issuer: Ministro Dias Toffoli
+reference: INQ 5.026/DF (e-doc. 238 e 255)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

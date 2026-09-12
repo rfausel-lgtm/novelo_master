@@ -1,0 +1,26 @@
+id: ev-toffoli-manda-integra-dos-aparelhos-ao-stf-no-dia-da-saida
+kind: evidence
+classification: D
+proposition: Em 12/02/2026 — mesmo dia em que deixou a relatoria do caso — Dias Toffoli determinou à Polícia
+  Federal que enviasse imediatamente ao STF, na íntegra, o conteúdo dos aparelhos e mídias apreendidos, os
+  laudos periciais sobre esse material e os demais elementos de prova ainda não juntados ao INQ 5.026. Doze
+  dias depois, o novo relator, André Mendonça, autorizou a PF a seguir o fluxo pericial ordinário, dispensado
+  o encaminhamento global das extrações à relatoria.
+document_ids:
+- doc-2026-02-12-despacho-inq5026-toffoli-integra-aparelhos-ao-stf
+- doc-2026-02-24-decisao-pet15198-planejamento-pericial-100-dispositivos
+source_ids:
+- src-stf-inq5026-despacho-12-02-2026-toffoli-integra-aparelhos-ao-stf
+- src-stf-pet15198-decisao-24-02-2026-planejamento-pericial-100-dispositivos
+date: '2026-02-12'
+notes: 'O fundamento declarado da ordem de Toffoli é garantir às defesas o acesso previsto na Súmula Vinculante
+  14, depois de uma delas relatar que a PF condicionava a entrega dos laudos a autorização específica, pelo
+  volume dos arquivos; ele já havia mandado dar amplo acesso em 03 e 05/02/2026. A sequência com a decisão de
+  Mendonça é registrada como fato cronológico — os dois despachos tratam de fases e peças processuais
+  distintas (INQ 5.026 e Pet 15.198), e nenhum menciona o outro. Cobertura jornalística já registrada no
+  acervo atribui a Mendonça, em outra operação (Sem Desconto), exigência de envio de extrações brutas ao STF.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

@@ -22,7 +22,10 @@ summary: Ministro do STF. Segundo comunicação oficial do tribunal de 20/03/202
   de sua empresa Maridt ao fundo Arllen, ligado ao cunhado de Vorcaro, Fabiano Zettel) num pedido de afastamento
   por suspeição — pedido arquivado por Fachin em 21/02/2026, já após Toffoli ter deixado a relatoria (12/02/2026,
   substituído por André Mendonça). O episódio motivou a OAB-SP a estudar, a partir de fevereiro de 2026,
-  restrições éticas ao transporte gratuito de ministros por particulares.
+  restrições éticas ao transporte gratuito de ministros por particulares. Como relator do INQ 5.026, em
+  janeiro de 2026 mandou reservar salas do STF para as oitivas da PF, estendeu a quebra de sigilo bancário
+  aos dados consolidados do FGC e ratificou as medidas de primeiro grau; no dia em que deixou a relatoria,
+  determinou que a PF enviasse ao STF, na íntegra, o conteúdo dos aparelhos apreendidos.
 why_in_novelo: Declarou suspeição, por foro íntimo, para julgamentos relacionados ao caso Master, conforme
   comunicação oficial do STF.
 cited_position:
@@ -91,6 +94,10 @@ source_ids:
 - src-verificacao-direta-equipe-pet14601-decisao-toffoli-integra
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
 - src-stf-pet15556-edoc173-peticao-belline-dispensa-cpi
+- src-stf-inq5026-despacho-20-01-2026-toffoli-salas-oitivas
+- src-stf-inq5026-despacho-21-01-2026-toffoli-sigilo-dados-fgc
+- src-stf-inq5026-despacho-24-01-2026-toffoli-ratifica-medidas
+- src-stf-inq5026-despacho-12-02-2026-toffoli-integra-aparelhos-ao-stf
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

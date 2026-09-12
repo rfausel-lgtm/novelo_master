@@ -1,0 +1,28 @@
+id: src-stf-inq5026-despacho-24-01-2026-toffoli-ratifica-medidas
+kind: source
+title: Despacho de Dias Toffoli ratificando as medidas da primeira instância e liberando o uso do material apreendido
+publisher: Supremo Tribunal Federal
+author: Ministro Dias Toffoli
+publication_date: '2026-01-24'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347
+source_type: official_court
+summary: 'A PF pediu, em 22/01/2026, ratificação das medidas deferidas pelo juízo de primeiro grau e
+  autorização expressa para seguir extraindo e analisando o material apreendido, com oitivas marcadas para
+  26 e 27/01/2026 e ainda pendente a possibilidade de usar os dados telemáticos no questionamento dos
+  investigados. A PGR concordou, lembrando que na Rcl 88.121, em 09/12/2025, o próprio relator mantivera
+  "por ora, todas as decisões administrativas, cíveis e criminais até então proferidas". Toffoli defere nos
+  exatos termos da PGR.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
+  certificado ou credencial do agente). A decisão de 09/12/2025 na Rcl 88.121 aparece citada aqui pela
+  PGR; ela não foi localizada como peça própria no acervo.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

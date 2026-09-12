@@ -1,0 +1,19 @@
+id: ev-toffoli-oitivas-do-inq5026-com-estrutura-do-stf
+kind: evidence
+classification: D
+proposition: Em 20/01/2026, como relator do INQ 5.026, Dias Toffoli mandou a Secretaria Judiciária do STF
+  reservar sala e disponibilizar servidores para as oitivas pedidas pela Polícia Federal, e enviar à PF o
+  link de acesso das audiências.
+document_ids:
+- doc-2026-01-20-despacho-inq5026-toffoli-salas-oitivas
+source_ids:
+- src-stf-inq5026-despacho-20-01-2026-toffoli-salas-oitivas
+date: '2026-01-20'
+notes: O despacho não diz quem seriam os ouvidos nem as datas. Em 26/01/2026, outro despacho dele registra
+  oitivas agendadas pela PF para 26 e 27/01/2026 e remete os pedidos de adiamento das defesas à própria
+  autoridade policial, mencionando videoconferência disponível para os atos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
