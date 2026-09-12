@@ -7,6 +7,8 @@
 - **Ilustrações dos lotes 236 a 240 publicadas** (80–127 KB), geradas pelo Codex às 18h18–18h22,
   depois da varredura anterior — que por isso as dava, errado, como inexistentes. Mesma inspeção pela
   seção 7.1: título idêntico ao da revisão; no 236, só silhueta de costas.
+- **Ilustrações dos lotes 241 e 242 publicadas**, também geradas às 18h22–18h23 e perdidas na
+  mesma varredura. Sem pessoa; título idêntico ao da revisão.
 
 - **`/atualizacoes` volta a mostrar só ilustração.** O card repetia, ao lado do item, o título que o
   texto já traz em corpo legível, e não acrescentava nada ao leitor da página. Ele continua gerado
