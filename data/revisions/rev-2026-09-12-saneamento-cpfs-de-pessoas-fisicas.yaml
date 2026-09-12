@@ -1,0 +1,46 @@
+id: rev-2026-09-12-saneamento-cpfs-de-pessoas-fisicas
+kind: revision
+date: '2026-09-12'
+title: 'Saneamento: o acervo deixa de reproduzir o CPF de quatro pessoas físicas'
+summary: 'A política editorial veda a reprodução de CPF de pessoa física, mas dez registros do acervo
+  traziam os números completos de quatro pessoas — Maurício Quadrado, Artur Martins de Figueiredo,
+  Antônio Augusto Conte e Leonardo Antônio Lima Dias —, copiados de documentos oficiais e de uma
+  reportagem. Os dígitos saem; o que eles provavam fica. Onde o CPF servia para ancorar identidade e
+  descartar homônimos, o texto passa a dizer que o CPF consta no documento e que é o mesmo nas fontes
+  cruzadas, sem imprimi-lo. Nos trechos citados literalmente, o número é substituído por [CPF]. Nenhuma
+  classificação, fonte ou conclusão mudou.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 0
+updated_relationships: 1
+corrections:
+- 'Proteção de dado pessoal: o CPF de Maurício Quadrado deixa de constar na evidência e na fonte que
+  citam o documento do BRB de abril/2025 e no perfil dele. A citação literal mantém a redação do
+  documento, com o número substituído por [CPF]; o perfil diz que o documento o identifica nominalmente,
+  com CPF.'
+- 'Proteção de dado pessoal: o CPF de Artur Martins de Figueiredo deixa de constar no documento da
+  B3/Fundos.NET, na evidência e na fonte correspondentes, no perfil e na relação com a Trustee Holding
+  Financeira. A âncora de identidade continua descrita — o CPF parcial é idêntico em três fontes
+  distintas e descarta o homônimo —, sem os dígitos.'
+- 'Proteção de dado pessoal: os CPFs de Antônio Augusto Conte e de Leonardo Antônio Lima Dias deixam de
+  constar nos respectivos perfis; o texto registra apenas que ambos são identificados nos autos por CPF.'
+author: orquestrador
+affected_ids:
+- mauricio-quadrado
+- artur-martins-de-figueiredo
+- antonio-augusto-conte
+- leonardo-antonio-lima-dias
+- doc-2023-06-01-fnetb3-472804-zion-figueiredo-diretor-responsavel
+- ev-albali-banvox-cpf-quadrado-documento-brb
+- ev-figueiredo-diretor-responsavel-zion-fii-documento
+- rel-artur-martins-de-figueiredo-trustee-holding-financeira-corporate
+- src-fnetb3-2023-06-01-documento-472804-figueiredo-diretor-zion
+- src-metropoles-2026-02-05-exsocio-master-acionista-brb-fundo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
