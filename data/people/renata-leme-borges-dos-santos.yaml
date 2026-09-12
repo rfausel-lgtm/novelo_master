@@ -1,0 +1,26 @@
+id: renata-leme-borges-dos-santos
+kind: person
+name: Renata Leme Borges dos Santos
+category: executive
+role: Diretora do Banco Pleno S.A.
+positions:
+- title: Diretora
+  organization_id: banco-pleno
+  source_ids:
+  - src-stf-inq5026-pecas-1-100
+summary: Diretora do Banco Pleno S.A., cossignatária, ao lado de Belline Santana (pelo Banco Central), do
+  Termo de Comparecimento 27/2025-BCB/DESUP (18/12/2025) — a advertência formal do BC ao Pleno sobre
+  agravamento do risco de liquidez, dois meses antes de sua liquidação extrajudicial (18/02/2026).
+why_in_novelo: É quem, pelo Banco Pleno, recebeu formalmente a advertência do Banco Central que precedeu
+  a liquidação da instituição.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
+open_questions: []
+source_ids:
+- src-stf-inq5026-pecas-1-100
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

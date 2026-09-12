@@ -1,0 +1,37 @@
+id: rev-2026-09-12-lote-225-o-bc-avisou-o-pleno-dois-meses-antes
+kind: revision
+date: '2026-09-12'
+title: 'Lote 225 — o Banco Central avisou o Pleno dois meses antes da liquidação'
+summary: 'O acervo já sabia, pela imprensa, que o Banco Pleno (ex-Voiter, comprado por Augusto Lima em
+  2025) foi liquidado em 18/02/2026 por "deterioração da percepção de risco". A leitura direta do IPL
+  2025.0087917 traz o documento que faltava: o Termo de Comparecimento 27/2025-BCB/DESUP, de 18/12/2025,
+  em que o Banco Central formaliza a advertência com números precisos — Índice de Basileia de 6,64%, abaixo
+  do mínimo regulatório, ~R$ 475 milhões em CDIs do Master em liquidação e R$ 2,5 bilhões em créditos FCVS
+  como ativos de difícil monetização, com determinação de elevar de 20% para 150% o peso de risco sobre os
+  CDIs do Master. É base documental primária que faltava, dois meses antes da liquidação. O termo também
+  confirma, oficialmente, que Augusto Lima não foi convocado ao ato "por se encontrar em vacância temporária,
+  em virtude da operação Compliance Zero" — e traz a diretora do Pleno que assinou, Renata Leme Borges dos
+  Santos, nova no acervo.'
+added:
+  people: 1
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 0
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- banco-pleno
+- banco-central-do-brasil
+- belline-santana
+- renata-leme-borges-dos-santos
+- augusto-lima
+- banco-master
+reason: Leitura direta, por equipes de investigação em paralelo, do IPL 2025.0087917 trasladado ao STF —
+  material novo obtido por Rafael, ainda não minerado pelo acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

@@ -1,0 +1,32 @@
+id: doc-2025-12-18-termo-comparecimento-27-2025-bc-pleno
+kind: document
+title: Termo de Comparecimento 27/2025-BCB/DESUP — o Banco Central advertiu o Pleno dois meses antes da
+  liquidação
+doc_type: regulatory_record
+date: '2025-12-18'
+date_precision: day
+source_ids:
+- src-stf-inq5026-pecas-1-100
+summary: 'Termo de Comparecimento do Banco Central ao Banco Pleno, assinado por Belline Santana (Chefe do
+  Desup) e Renata Leme Borges dos Santos (Diretora do Pleno), advertindo sobre agravamento do risco de
+  liquidez: cerca de R$ 475 milhões em CDIs do Banco Master (em liquidação extrajudicial) e cerca de R$ 2,5
+  bilhões em créditos FCVS como ativos de difícil monetização. Registra Índice de Basileia do Pleno em
+  6,64% (data-base outubro/2025), abaixo do mínimo regulatório, e determina elevação do Fator de Ponderação
+  de Risco de 20% para 150% sobre os CDIs do Master, com plano de solução em 30 dias. Registra também que
+  Augusto Ferreira Lima não foi convocado "por se encontrar em vacância temporária, em virtude da operação
+  Compliance Zero da Polícia Federal".'
+is_official: true
+related_entity_ids:
+- banco-pleno
+- banco-central-do-brasil
+- belline-santana
+- renata-leme-borges-dos-santos
+- augusto-lima
+- banco-master
+issuer: Banco Central do Brasil — Departamento de Supervisão Bancária (Desup)
+reference: Termo de Comparecimento 27/2025-BCB/DESUP
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

@@ -10,7 +10,11 @@ summary: 'Banco de Augusto Lima, ex-sócio de Vorcaro no Master; operava como Vo
   Pleno S.A. e da Pleno DTVM por comprometimento econômico-financeiro e infringência às normas, segundo
   a imprensa. Augusto Lima fez dois aportes somando R$ 160 milhões, mas o banco havia herdado cerca de
   R$ 6 bilhões em CDBs emitidos na era Master e não formou carteira de crédito suficiente para cobrir
-  os compromissos; a corrida de saques se intensificou após a prisão de Lima, em novembro de 2025. Segundo
+  os compromissos; a corrida de saques se intensificou após a prisão de Lima, em novembro de 2025. Dois
+  meses antes, em 18/12/2025, o Banco Central já havia formalizado advertência ao Pleno (Termo de
+  Comparecimento 27/2025-BCB/DESUP, assinado por Belline Santana e pela diretora do Pleno Renata Leme
+  Borges dos Santos): Índice de Basileia de 6,64%, abaixo do mínimo regulatório, e cerca de R$ 475 milhões
+  em CDIs do Master e R$ 2,5 bilhões em créditos FCVS como ativos de difícil monetização. Segundo
   o Poder360, o Banco Central já sabia, desde o primeiro semestre de 2025, de indícios de cessão de créditos
   inexistentes pelo Master ao BRB — e notificou o MPF em julho de 2025, mesmo mês em que aprovou a venda
   do banco (então Voiter) a Lima.
@@ -64,9 +68,10 @@ source_ids:
 - src-cnnbrasil-2026-voiter-banco-pleno-liquidado
 - src-infomoney-2026-augusto-lima-7-reunioes-bc
 - src-otempo-2026-02-18-augusto-lima-gastou-600-milhoes-pleno
+- src-stf-inq5026-pecas-1-100
 full_name: Banco Pleno S.A.
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-09'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-12'
