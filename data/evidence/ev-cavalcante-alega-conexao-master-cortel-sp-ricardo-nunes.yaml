@@ -1,0 +1,26 @@
+id: ev-cavalcante-alega-conexao-master-cortel-sp-ricardo-nunes
+kind: evidence
+classification: A
+proposition: 'A Deputada Luciene Cavalcante apresentou, no INQ 5.026, "Requerimento de apuração de fatos
+  novos e inclusão de investigado" em face de Ricardo Nunes, Prefeito de São Paulo à época da concessão dos
+  serviços funerários e cemiteriais da capital paulista (2023), "ante a suspeita aventada, segundo a qual
+  haveria possível conexão entre o Banco Master, a Concessionária Cortel SP e a Prefeitura do Município de
+  São Paulo". Em 06/07/2026, o pedido foi desentranhado para autuação em petição autônoma, conexa ao
+  inquérito.'
+attributed_to: Deputada Luciene Cavalcante, em requerimento apresentado no INQ 5.026
+document_ids:
+- doc-2026-07-06-decisao-inq5026-quatro-peticoes-desentranhadas
+source_ids:
+- src-stf-inq5026-decisao-06-07-2026-quatro-peticoes-desentranhadas
+date: '2026-07-06'
+notes: 'Tratamento com cautela reforçada: a decisão do STF apenas relata a existência da suspeita alegada
+  pela parlamentar — não reproduz nenhum elemento probatório, documento ou apuração que a sustente, nem
+  emite qualquer juízo sobre sua plausibilidade. "Cortel SP" não aparece em nenhuma outra fonte do acervo.
+  O arquivo pré-existente de Ricardo Nunes (`ricardo-nunes.yaml`) trata de tema totalmente diferente
+  (margem consignável/PKL One). Não é fato apurado; é acusação de parlamentar, sem lastro documental
+  apresentado nesta peça, contra prefeito em exercício.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

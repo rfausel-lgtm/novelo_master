@@ -1,0 +1,36 @@
+id: src-stf-inq5026-decisao-06-07-2026-quatro-peticoes-desentranhadas
+kind: source
+title: Decisão que desentranha quatro petições autônomas do INQ 5.026 (06/07/2026)
+publisher: Supremo Tribunal Federal — Ministro André Mendonça
+author: Ministro André Mendonça
+publication_date: '2026-07-06'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15388643748&ext=.pdf
+source_type: official_court
+summary: 'Decisão pública (Resolução STF 427/2010), baixada diretamente do portal do STF, que relata e
+  desentranha, para autuação em petições autônomas conexas ao INQ 5.026, quatro pedidos distintos: (a) da
+  Deputada Luciene Cavalcante, pedido de inclusão de Mario Frias como investigado, com base em áudio do
+  Intercept Brasil de 19/05/2026 em que ele teria agradecido a Vorcaro pelo fomento a obra cinematográfica
+  sobre Jair Bolsonaro; (b) da mesma deputada, pedido de inclusão de Ricardo Nunes, Prefeito de São Paulo,
+  por suspeita de conexão entre o Banco Master, a Concessionária Cortel SP e a Prefeitura de São Paulo na
+  concessão de serviços funerários e cemiteriais de 2023 — a decisão apenas relata a existência da suspeita
+  alegada pela parlamentar, sem reproduzir qualquer elemento probatório; (c) da Senadora Eudócia Maria
+  Holanda de Araujo Caldas, "Notícia-Crime" pedindo reabertura de inquéritos arquivados por conexão com o
+  objeto do INQ 5.026, com teor não detalhado na decisão; (d) do Banco Central do Brasil, comunicação
+  oficial (e-Doc. 869) sobre irregularidades no conglomerado liderado pela Entrepay Instituição de
+  Pagamento S.A. (da qual faz parte a Octa Sociedade de Crédito Direto S.A.) — negociação de valores
+  mobiliários sem lastro suficiente, indução do BCB a erro, uso de artifícios contábeis e desvio de
+  recursos — que, segundo o próprio Banco Central, "guardam conexão com os ilícitos que estão sendo
+  investigados no âmbito da Operação Compliance Zero".'
+notes: Documento público, baixado diretamente do portal do STF. Não depende do certificado digital do
+  Rafael.
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

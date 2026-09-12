@@ -1,0 +1,28 @@
+id: ev-bc-comunica-irregularidades-entrepay-octa-conexao-compliance-zero
+kind: evidence
+classification: D
+proposition: 'O Banco Central do Brasil comunicou ao STF, no INQ 5.026 (e-Doc. 869), a identificação de
+  irregularidades no conglomerado liderado pela Entrepay Instituição de Pagamento S.A. — da qual faz parte
+  a Octa Sociedade de Crédito Direto S.A. —, consistentes em "negociação de valores mobiliários (cotas de
+  fundo de investimento) sem lastro suficiente; indução do BCB a erro sobre situação financeira e
+  operações, sonegando-lhe informações; utilização de artifícios contábeis, aparentando falsamente
+  enquadramento em limites regulamentares; e desvio de recursos que, por expressa determinação legal,
+  deveriam ser destinados à liquidação das transações de pagamento necessárias ao recebimento pelo usuário
+  final". O próprio Banco Central afirma que esses fatos "guardam conexão com os ilícitos que estão sendo
+  investigados no âmbito da Operação Compliance Zero".'
+document_ids:
+- doc-2026-07-06-decisao-inq5026-quatro-peticoes-desentranhadas
+source_ids:
+- src-stf-inq5026-decisao-06-07-2026-quatro-peticoes-desentranhadas
+excerpt: guardam conexão com os ilícitos que estão sendo investigados no âmbito da Operação Compliance Zero
+date: '2026-07-06'
+notes: A liquidação extrajudicial da Entrepay em 27/03/2026 (Ato do Presidente nº 1.381) já está registrada
+  no acervo (`ev-banco-central-liquidou-a-entrepay-do-delator-em-marco-de-2026`). Esta é a primeira vez que
+  o próprio Banco Central, em comunicação oficial ao STF, afirma textualmente a conexão entre essas
+  irregularidades e a Operação Compliance Zero — mais forte do que a inferência já registrada no acervo via
+  outra fonte.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

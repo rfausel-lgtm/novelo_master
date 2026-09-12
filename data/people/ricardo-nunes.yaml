@@ -18,6 +18,12 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
+- 'ALEGAÇÃO NÃO APURADA, TRATAR COM CAUTELA REFORÇADA: em 06/07/2026, a Deputada Luciene Cavalcante
+  apresentou, no INQ 5.026, pedido de inclusão dele como investigado, por suposta conexão entre o Banco
+  Master, a Concessionária Cortel SP e a Prefeitura de São Paulo na concessão de serviços funerários e
+  cemiteriais de 2023 — tema distinto do decreto de margem consignável já registrado abaixo. A decisão do
+  STF apenas relata a existência da suspeita alegada pela parlamentar, sem reproduzir qualquer prova; não
+  há, até esta data, nenhuma outra fonte que mencione ''Cortel SP''.'
 - Não foi localizada manifestação da prefeitura sobre o intervalo entre o decreto de 07/07/2022 e o credenciamento
   de 19/08/2022, nem sobre quem solicitou a criação da margem adicional. Buscar posicionamento.
 - Apurar o número de servidores municipais com contratos ativos do produto e o volume descontado entre
@@ -26,8 +32,9 @@ source_ids:
 - src-legislacao-pmsp-decreto-61556-2022-margem-adicional
 - src-doc-2022-08-26-termo-adesao-003-2022-pmsp-pkl-one
 - src-doc-2026-08-14-descredenciamento-pkl-one-pmsp
+- src-stf-inq5026-decisao-06-07-2026-quatro-peticoes-desentranhadas
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-09'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-09'
-updated_at: '2026-09-09'
+updated_at: '2026-09-11'

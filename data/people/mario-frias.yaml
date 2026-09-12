@@ -27,6 +27,9 @@ cited_position:
   by_id: mario-frias
   date: 2026-05
 open_questions:
+- Em 06/07/2026, a Deputada Luciene Cavalcante apresentou, no INQ 5.026, pedido formal de inclusão dele
+  como investigado, com base no mesmo áudio de 11/12/2024 — desentranhado para petição autônoma conexa ao
+  inquérito. É processo distinto da Operação Make Up (PET 16.669), em que ele já é alvo.
 - O corpus não registra manifestação de Frias sobre o áudio de 11/12/2024 divulgado pelo Intercept em 19/05/2026.
 - Alvo de busca e apreensão domiciliar e pessoal na Operação Make Up, deflagrada em 10/09/2026, e sujeito a proibição
   de deixar o país, de se comunicar com outros 28 investigados e a entrega de passaporte. A decisão que autorizou
@@ -47,6 +50,7 @@ source_ids:
 - src-correiodoestado-2026-08-24-dino-compartilhamento
 - src-stf-2026-09-03-decisao-pet16669-operacao-make-up
 - src-metropoles-2026-09-10-marcelao-confirma-aporte-de-um-milhao
+- src-stf-inq5026-decisao-06-07-2026-quatro-peticoes-desentranhadas
 aliases:
 - Mario Frias
 full_name: Mário Frias

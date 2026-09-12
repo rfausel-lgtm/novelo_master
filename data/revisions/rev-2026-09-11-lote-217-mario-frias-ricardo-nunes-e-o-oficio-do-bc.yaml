@@ -1,0 +1,24 @@
+id: rev-2026-09-11-lote-217-mario-frias-ricardo-nunes-e-o-oficio-do-bc
+kind: revision
+date: '2026-09-11'
+title: 'Lote 217 — Mario Frias, Ricardo Nunes e o ofício do Banco Central'
+summary: 'A partir de decisão de 06/07/2026 do INQ 5.026 que desentranhou quatro petições em conexão com o
+  inquérito: (1) pedido formal da Deputada Luciene Cavalcante de inclusão de Mario Frias como investigado,
+  com base no áudio de 11/12/2024 já conhecido do acervo — processo distinto da Operação Make Up, em que
+  ele já é alvo; (2) pedido da mesma deputada de inclusão de Ricardo Nunes, Prefeito de São Paulo, por
+  suspeita de conexão entre o Banco Master, a Concessionária Cortel SP e a Prefeitura de São Paulo —
+  registrado com cautela reforçada como alegação atribuída, sem qualquer prova apresentada na decisão; (3)
+  comunicação oficial do Banco Central ao STF detalhando quatro irregularidades no conglomerado
+  Entrepay/Octa e afirmando textualmente conexão com a Operação Compliance Zero — mais forte do que a
+  inferência já registrada no acervo. O pedido de reabertura de inquéritos da Senadora Eudócia Maria
+  Holanda de Araujo Caldas, de teor não detalhado na decisão, não gerou registro por falta de conteúdo
+  substantivo conhecido.'
+affected_ids:
+- mario-frias
+- ricardo-nunes
+- entrepay
+reason: Mineração das decisões públicas do STF (Resolução 427/2010) do INQ 5.026, um dos processos
+  indicados como tendo o sigilo levantado pelo despacho de André Mendonça de 10/09/2026 (Petição 16.704).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

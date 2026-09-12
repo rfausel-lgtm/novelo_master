@@ -1,0 +1,22 @@
+id: ev-cavalcante-pede-inclusao-frias-investigado-inq5026
+kind: evidence
+classification: D
+proposition: A Deputada Luciene Cavalcante apresentou, no INQ 5.026, "Requerimento de inclusão de
+  investigado e apuração de fatos novos" em face do Deputado Mario Frias, com base no áudio divulgado pelo
+  Intercept Brasil em 19/05/2026 em que ele teria agradecido a Daniel Vorcaro pelo fomento a obra
+  cinematográfica sobre Jair Bolsonaro. Em 06/07/2026, o pedido foi desentranhado para autuação em petição
+  autônoma, conexa ao inquérito.
+document_ids:
+- doc-2026-07-06-decisao-inq5026-quatro-peticoes-desentranhadas
+source_ids:
+- src-stf-inq5026-decisao-06-07-2026-quatro-peticoes-desentranhadas
+date: '2026-07-06'
+notes: O conteúdo do áudio já está registrado no acervo com classificação C
+  (`ev-frias-audio-agradece-vorcaro-2024-12-11`); esta evidência documenta apenas o fato processual novo —
+  o pedido formal de inclusão de Frias como investigado no INQ 5.026, distinto da Operação Make Up (PET
+  16.669) em que ele já é alvo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

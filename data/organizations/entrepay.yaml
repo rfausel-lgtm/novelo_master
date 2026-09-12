@@ -15,7 +15,11 @@ summary: Instituição de pagamento sediada em São Paulo, existente desde abril
   Carlos Freixo Júnior, o 'Mineiro', consta como diretor desde 18/02/2022 — e é, cinco meses depois da liquidação,
   o autor da segunda delação do caso Master. Segundo o próprio colaborador, técnicos do Banco Central identificaram
   na Entrepay fluxo atípico em que recursos deixavam o Brasil, passavam pelas Bahamas e seguiam para o Texas, onde
-  está o fundo que financiou 'Dark Horse'.
+  está o fundo que financiou 'Dark Horse'. Em comunicação oficial ao STF no INQ 5.026 (e-Doc. 869, relatada
+  em decisão de 06/07/2026), o próprio Banco Central detalhou quatro irregularidades do conglomerado —
+  negociação de valores mobiliários sem lastro suficiente, indução do BCB a erro, uso de artifícios
+  contábeis e desvio de recursos — e afirmou textualmente que os fatos 'guardam conexão com os ilícitos
+  que estão sendo investigados no âmbito da Operação Compliance Zero'.
 why_in_novelo: É a instituição de pagamento do delator do caso do filme, liquidada pelo Banco Central em março de
   2026, e o ponto em que o regulador identificou, segundo o próprio delator, o fluxo atípico de recursos para o
   exterior.
@@ -34,8 +38,9 @@ source_ids:
 - src-agenciabrasil-2026-03-27-bc-liquida-entrepay-acqio-e-octa
 - src-minhareceita-2026-09-10-entrepay-em-liquidacao-extrajudicial
 - src-poder360-2026-09-04-delacao-de-mineiro-comprovantes-de-cambio-e-rota-das-bahamas
+- src-stf-inq5026-decisao-06-07-2026-quatro-peticoes-desentranhadas
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-10'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-10'
-updated_at: '2026-09-10'
+updated_at: '2026-09-11'
