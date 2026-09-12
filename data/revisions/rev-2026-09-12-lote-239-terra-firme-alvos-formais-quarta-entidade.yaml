@@ -1,0 +1,36 @@
+id: rev-2026-09-12-lote-239-terra-firme-alvos-formais-quarta-entidade
+kind: revision
+date: '2026-09-12'
+title: 'Lote 239 — as duas Terra Firme viram alvos formais de quebra de sigilo, e uma possível quarta
+  homônima aparece'
+summary: 'A decisão de 22/06/2026 na PET 15.478/DF nomeia "Terra Firme Construções e Incorporações Ltda"
+  e "Terra Firme da Bahia Ltda" como alvos formais e distintos de afastamento de sigilo bancário e fiscal,
+  apontando pagamentos do Banco Master superiores a R$ 3 milhões a empresas do grupo — valores e entidades
+  diferentes dos R$457,2 mil já registrados para o Instituto Terra Firme (associação civil presidida pela
+  esposa de Augusto Lima, que nega qualquer repasse). "Terra Firme da Bahia Ltda" já era conhecida no
+  acervo, mas só como nota lateral, sem arquivo de organização próprio — ganha um agora. "Terra Firme
+  Construções e Incorporações Ltda" não corresponde, por CNPJ, a nenhuma das outras "Terra Firme" já
+  mapeadas (Realty S.A. ou da Bahia Ltda); é registrada como possível quarta entidade homônima ligada a
+  Augusto Lima, com a incerteza sobre sua identidade exata sinalizada explicitamente.'
+added:
+  people: 0
+  organizations: 2
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- augusto-lima
+- terra-firme-realty
+- terra-firme-da-bahia
+- terra-firme-construcoes-e-incorporacoes
+- banco-master
+reason: Leitura direta, por equipe de investigação, da decisão de 22/06/2026 na PET 15.478/DF — peça
+  pública do portal do STF, obtida em sessão anterior e ainda não analisada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

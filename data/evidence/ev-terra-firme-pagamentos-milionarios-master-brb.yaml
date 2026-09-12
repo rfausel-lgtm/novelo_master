@@ -1,0 +1,23 @@
+id: ev-terra-firme-pagamentos-milionarios-master-brb
+kind: evidence
+classification: A
+proposition: Segundo a representação policial citada na decisão de 22/06/2026 na PET 15.478, empresas do
+  grupo Terra Firme (Construções e Incorporações Ltda e da Bahia Ltda) — vinculadas a Augusto Lima —
+  receberam do Banco Master pagamentos em parcelas superiores a R$ 3 milhões por supostos serviços
+  prestados durante a crise aguda do banco, em coincidência temporal com as interferências de Augusto Lima
+  junto ao BRB para viabilizar o pagamento de carteiras fraudulentas.
+document_ids:
+- doc-2026-06-22-decisao-pet15478-sigilo-tirreno-brb
+source_ids:
+- src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
+attributed_to: Autoridade policial, encampada pelo MPF e citada na decisão de André Mendonça
+date: '2026-06-22'
+notes: Valor e entidades distintos dos R$457,2 mil já registrados para o Instituto Terra Firme (associação
+  civil presidida por Flávia Peres, esposa de Augusto Lima, que nega formalmente qualquer repasse) — não
+  somar nem confundir os dois achados. A decisão não detalha datas nem qual das duas empresas Terra Firme
+  recebeu qual parcela especificamente.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
