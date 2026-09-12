@@ -1,0 +1,24 @@
+id: doc-2025-oficio-seab-gab-6091-asteba-asseba-valores
+kind: document
+title: Ofício SEAB/GAB nº 6091/2025 — os valores reais das autorizações da Asteba e da Asseba
+doc_type: letter
+date: '2025-07-31'
+date_precision: day
+source_ids:
+- src-stf-inq5026-pecas-1-100
+summary: 'Ofício da Secretaria de Administração do Estado da Bahia (SEAB), citado em manifestação do MPF
+  reproduzida em petição de Augusto Lima no INQ 5.026: em 2025, a Asteba e a Asseba somavam 52.176 e 51.111
+  autorizações de desconto em contracheque, respectivamente; mesmo na hipótese mais generosa, o valor máximo
+  agregado dessas autorizações giraria em torno de R$ 1 bilhão — muito aquém dos R$ 6,7 bilhões movimentados
+  na operação Master-BRB atribuída às duas associações.'
+is_official: true
+related_entity_ids:
+- asteba
+- asseba
+issuer: Secretaria de Administração do Estado da Bahia (SEAB)
+reference: Ofício SEAB/GAB nº 6091/2025
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

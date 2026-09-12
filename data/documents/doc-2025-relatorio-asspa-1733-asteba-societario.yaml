@@ -1,0 +1,25 @@
+id: doc-2025-relatorio-asspa-1733-asteba-societario
+kind: document
+title: Relatório de Pesquisa 1733/2025 (ASSPA/MPF) — histórico de presidência da Asteba
+doc_type: official_report
+date: '2025'
+date_precision: year
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+summary: 'Documentação CCS/CENSEC pesquisada pela Assessoria de Pesquisa e Análise do MPF sobre a Asteba,
+  mostrando que Augusto Ferreira Lima foi presidente estatutário da associação de 01/09/2005 a 28/02/2008
+  — não apenas procurador, seu papel documentado no período mais recente —, sucedido por Roque Ribeiro
+  Damásio (2008-2018, falecido em 2017) e por Nanci Maria Prates Pereira (presidente desde 2018, atual).
+  Joselita Nascimento dos Santos aparece como representante/procuradora recorrente nas contas bancárias
+  da associação (Banco Master, Bradesco, Banco do Brasil) de 2017 a 2025.'
+is_official: true
+related_entity_ids:
+- asteba
+- augusto-lima
+issuer: Assessoria de Pesquisa e Análise do Ministério Público Federal (ASSPA/MPF)
+reference: Relatório de Pesquisa 1733/2025
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

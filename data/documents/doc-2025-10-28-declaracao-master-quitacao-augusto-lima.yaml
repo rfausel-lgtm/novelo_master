@@ -1,0 +1,24 @@
+id: doc-2025-10-28-declaracao-master-quitacao-augusto-lima
+kind: document
+title: Declaração do Banco Master sobre restituição de remuneração indevida por Augusto Lima
+doc_type: letter
+date: '2025-10-28'
+date_precision: day
+source_ids:
+- src-stf-inq5026-pecas-1-100
+summary: 'Declaração do Banco Master, assinada por Daniel Vorcaro, atestando que Augusto Ferreira Lima
+  recebeu remuneração indevida de R$ 1.089.222,35 entre junho de 2024 e agosto de 2025 — período posterior
+  à sua saída formal da sociedade (maio de 2024) —, que restituiu integralmente o valor, e concedendo-lhe
+  quitação ampla e irrevogável.'
+is_official: false
+related_entity_ids:
+- banco-master
+- augusto-lima
+- daniel-vorcaro
+issuer_id: daniel-vorcaro
+issuer: Daniel Vorcaro, em nome do Banco Master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
