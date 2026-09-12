@@ -1,0 +1,28 @@
+id: src-stf-pet15198-peca001-peticao-inicial-pgr
+kind: source
+title: Petição inicial da PGR autuando a PET 15.198/DF (ASSCRIM/PGR n. 1922076/2025)
+publisher: Procuradoria-Geral da República
+author: Paulo Gonet Branco, Procurador-Geral da República
+publication_date: '2025-12-22'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336
+source_type: official_prosecutor
+summary: Petição inicial que deu origem à PET 15.198/DF, pedindo autuação de "procedimento autônomo, em
+  apartado", com sigilo de grau máximo (nível 4), e distribuição por prevenção à Reclamação 88.121 (relator
+  Dias Toffoli, Operação Compliance Zero).
+notes: 'Peça 1 de 50 obtidas por Rafael via certificado digital no peticionamento eletrônico do STF (pasta
+  local "Pet 15198-1_50") — mesma política de divulgação já aplicada às demais peças obtidas por
+  certificado: informação pode ser usada e citada oficialmente, PDF original não é redistribuído. Toda
+  página traz rodapé de impressão identificando o CPF de quem baixou o documento — nunca reproduzido no
+  acervo.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador (leitura por equipe de investigação dedicada à genealogia processual da PET
+    15.198)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
