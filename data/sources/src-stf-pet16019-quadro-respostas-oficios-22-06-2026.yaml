@@ -1,0 +1,26 @@
+id: src-stf-pet16019-quadro-respostas-oficios-22-06-2026
+kind: source
+title: Quadro da secretaria do STF sobre as respostas aos ofícios de bloqueio da PET 16.019
+publisher: Supremo Tribunal Federal
+author: Gabinete do Ministro André Mendonça
+publication_date: '2026-06-22'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7586934
+source_type: official_court
+summary: 'Tabela juntada aos autos em 22/06/2026 com a situação de cada ofício expedido pela decisão de bloqueio de
+  13/05/2026. Registra resposta da Marinha, da ABcripto, do Banco Central, da ANAC, da CVM, da NovaDAX e da Coinbase,
+  e de oito bancos e instituições de pagamento. Das catorze corretoras de criptoativos oficiadas, dez receberam o
+  ofício e não responderam (Coinext, BitcoinTrade/Ripio, BitCâmbio, BitcoinToYou, NoxBitcoin, BitBlue, Mercado
+  Bitcoin, Flow, BitNuvem e Foxbit), e os avisos de recebimento da Binance e da BitPreço voltaram sem cumprimento.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
+  certificado ou credencial do agente).'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

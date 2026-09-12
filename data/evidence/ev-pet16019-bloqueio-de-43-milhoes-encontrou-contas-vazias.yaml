@@ -1,0 +1,31 @@
+id: ev-pet16019-bloqueio-de-43-milhoes-encontrou-contas-vazias
+kind: evidence
+classification: D
+proposition: O bloqueio de até R$ 43,8 milhões decretado em 13/05/2026 na PET 16.019 contra sete integrantes da "Turma"
+  e dos "Meninos" encontrou, nas respostas escritas juntadas aos autos até agosto de 2026, contas sem saldo ou com
+  centavos, nenhuma embarcação e nenhuma aeronave; os maiores valores localizados foram R$ 735,47 e R$ 120,41 em
+  frações de ações de Sebastião Monteiro Júnior e R$ 1.160,12 em quotas de cooperativa de David Henrique Alves, que o
+  Sicredi considera impenhoráveis. Das catorze corretoras de criptoativos oficiadas, dez não haviam respondido até
+  22/06/2026.
+document_ids:
+- doc-2026-05-13-decisao-pet16019-medidas-assecuratorias
+- doc-2026-06-22-quadro-respostas-oficios-bloqueio-pet16019
+source_ids:
+- src-stf-pet16019-quadro-respostas-oficios-22-06-2026
+- src-stf-pet16019-respostas-orgaos-publicos-bloqueio-mai-2026
+- src-stf-pet16019-respostas-bancos-e-corretoras-mai-ago-2026
+date: '2026-06-22'
+notes: 'O teto soma R$ 1,8 milhão para cada um dos três "Meninos" e R$ 9,6 milhões para cada um dos quatro da
+  "Turma". Os demais valores achados: R$ 26,26 de Anderson Wander da Silva Lima no Itaú e R$ 0,12 no Santander; R$ 2,77
+  de David no Santander; R$ 0,63 de Rodrigo Pimenta Franco Avelar Campos e R$ 0,08 de Manoel Mendes Rodrigues no
+  Nubank; R$ 0,66 de Victor Lima Sedlmaier na Coinbase; saldo negativo de Erlene Nonato Lacerda no Santander. Contas
+  de David e Victor no Nubank estavam canceladas desde 2024, e o Mercado Pago achou cadastro de cinco requeridos sem
+  fundos. Ressalva: bloqueios feitos pelo fluxo automático do SISBAJUD podem não constar das respostas escritas, e a
+  99Pay não informou valores; o quadro não é, portanto, um balanço completo do que foi constrito. É o mesmo padrão
+  já visto na PET 15.563 (ver ev-pet15563-primeiro-bloqueio-patrimonial-da-compliance-zero). A PGR concordou com o
+  pedido da PF em 13/05/2026, no mesmo dia da decisão.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

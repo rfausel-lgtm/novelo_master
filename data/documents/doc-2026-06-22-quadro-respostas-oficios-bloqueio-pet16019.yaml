@@ -1,0 +1,21 @@
+id: doc-2026-06-22-quadro-respostas-oficios-bloqueio-pet16019
+kind: document
+title: Quadro de situação das respostas aos ofícios de bloqueio da PET 16.019
+doc_type: official_report
+date: '2026-06-22'
+date_precision: day
+source_ids:
+- src-stf-pet16019-quadro-respostas-oficios-22-06-2026
+summary: 'Tabela que o gabinete juntou aos autos listando, para cada destinatário dos ofícios da decisão de 13/05/2026,
+  o número do ofício e se houve resposta. Das catorze corretoras de criptoativos, só a NovaDAX e a Coinbase haviam
+  respondido; dez receberam o ofício sem responder, e duas não foram localizadas pelos Correios.'
+is_official: true
+related_entity_ids:
+- andre-mendonca
+issuer: Gabinete do Ministro André Mendonça
+reference: PET 16.019/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

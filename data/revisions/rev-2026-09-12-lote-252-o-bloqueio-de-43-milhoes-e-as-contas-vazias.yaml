@@ -1,0 +1,40 @@
+id: rev-2026-09-12-lote-252-o-bloqueio-de-43-milhoes-e-as-contas-vazias
+kind: revision
+date: '2026-09-12'
+title: 'Lote 252 — o bloqueio de R$ 43,8 milhões da Turma e dos Meninos, e as contas que estavam vazias'
+summary: 'Leitura das respostas ao bloqueio patrimonial da PET 16.019, decretado em 13/05/2026 contra sete integrantes
+  da "Turma" e dos "Meninos". O teto somava R$ 43,8 milhões. Nas respostas escritas juntadas até agosto, a Marinha não
+  achou embarcação, a ANAC não achou aeronave, e os bancos acharam contas zeradas, canceladas ou com centavos — R$
+  0,08 de Manoel Mendes Rodrigues no Nubank, R$ 0,66 de Victor Lima Sedlmaier na Coinbase. Os maiores valores foram
+  frações de ações de um policial aposentado e quotas de cooperativa que o Sicredi diz serem impenhoráveis. Das
+  catorze corretoras de criptoativos oficiadas, dez não tinham respondido até 22/06. Bloqueios feitos pelo fluxo
+  automático do SISBAJUD podem não aparecer nas respostas, e o registro diz isso.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 3
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'ev-pet16019-bloqueio-patrimonial-turma-e-meninos: retirados os sete números de CPF que a proposição reproduzia,
+  contra a política editorial do acervo; incluída remissão ao resultado do bloqueio.'
+author: orquestrador
+affected_ids:
+- andre-mendonca
+- david-henrique-alves
+- victor-lima-sedlmaier
+- rodrigo-pimenta-franco-avelar-campos
+- manoel-mendes-rodrigues
+- anderson-wander-da-silva-lima
+- sebastiao-monteiro-junior
+- erlene-nonato-lacerda
+reason: Mineração da PET 16.019 via peticionamento.stf.jus.br (sessão autenticada pelo próprio Rafael) — 96 peças.
+  Lidas também, sem entrada própria, a manifestação da PGR de 13/05/2026 (concorda com o bloqueio e repete a narrativa
+  da representação já registrada a partir da PET 15.978), o ofício da PF que encaminhou a representação vinculada à
+  PET 15.499, as habilitações dos advogados de Manoel Mendes Rodrigues e a nota de ciência da PGR.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
