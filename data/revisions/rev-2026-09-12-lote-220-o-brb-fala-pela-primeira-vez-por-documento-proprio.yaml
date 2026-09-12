@@ -1,0 +1,38 @@
+id: rev-2026-09-12-lote-220-o-brb-fala-pela-primeira-vez-por-documento-proprio
+kind: revision
+date: '2026-09-12'
+title: 'Lote 220 — o BRB fala pela primeira vez por documento próprio'
+summary: 'O acervo só tinha, sobre a atuação do BRB no caso, reportagens e decisões judiciais — nunca uma
+  manifestação institucional do próprio banco. A leitura direta do IPL 2025.0087917 traz o Ofício
+  PRESI-2025/051, de 18/06/2025, assinado por Paulo Henrique Costa (então presidente), Dário Oswaldo Garcia
+  Júnior e Robério Bonfim Mangueira: reconhece tranches de crédito com origem em promotores de vendas
+  contratados pelo Master, documentação incompleta entregue pelo Master e auditoria independente contratada
+  e não concluída — cinco meses antes do afastamento de Costa e onze antes de sua prisão preventiva. É
+  também a primeira vez que o registro do BRB deixa de marcar "nenhuma manifestação pública localizada".'
+added:
+  people: 2
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 0
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'banco-de-brasilia-brb.yaml e tirreno.yaml/o registro geral repetiam a afirmação de que "130 contratos
+  analisados pelo Banco Central não tinham lastro algum" como fato estabelecido — a mesma reclassificação
+  já aplicada em ev-bc-encontrou-130-contratos-sem-lastro-e-cpfs-dispersos (rebaixada para A em 12/09) não
+  havia sido propagada ao resumo do BRB. Corrigido aqui, removendo a cifra do resumo institucional.'
+author: orquestrador
+affected_ids:
+- banco-de-brasilia-brb
+- paulo-henrique-costa
+- dario-oswaldo-garcia-junior
+- roberio-bonfim-mangueira
+- banco-central-do-brasil
+- tirreno
+reason: Leitura direta, por equipes de investigação em paralelo, do IPL 2025.0087917 trasladado ao STF —
+  material novo obtido por Rafael, ainda não minerado pelo acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

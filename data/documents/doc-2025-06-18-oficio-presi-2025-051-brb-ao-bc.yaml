@@ -1,0 +1,38 @@
+id: doc-2025-06-18-oficio-presi-2025-051-brb-ao-bc
+kind: document
+title: Ofício PRESI-2025/051 — o BRB explica ao Banco Central a aquisição de carteiras do Master
+doc_type: letter
+date: '2025-06-18'
+date_precision: day
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+summary: 'Ofício do BRB à Diretoria de Fiscalização do Banco Central (destinado a Ailton de Aquino Santos
+  e Belline Santana), assunto "Esclarecimentos sobre aquisição de carteiras de crédito – Banco Master
+  S.A.", assinado eletronicamente por Paulo Henrique Bezerra Rodrigues Costa (então presidente do BRB),
+  Dário Oswaldo Garcia Júnior (Diretor Executivo DIFIC) e Robério César Bonfim Mangueira (Superintendente
+  SUOPE). É a primeira peça já lida diretamente pela equipe em que o BRB se manifesta institucionalmente,
+  por documento próprio, sobre o episódio — até então, o acervo só tinha reportagens sobre sua atuação, não
+  um documento seu. Descreve o histórico de cessões desde 2021, a escalada em 2024-2025 (R$ 5,99 bilhões em
+  2024; R$ 7,4 bilhões até maio de 2025, com prêmio de R$ 5,5 bilhões), reconhece que identificou tranches
+  recentes originadas por "promotores de vendas com atuação de bancarizadores contratados pelo Banco
+  Master", que o Master não apresentou documentação completa solicitada e que uma auditoria independente
+  contratada não foi concluída, e relaciona as medidas de mitigação adotadas: garantias adicionais de R$
+  9,3 bilhões, contrato com a Tirreno para revenda de carteiras, e transferência de conta escrow para o
+  BRB.'
+is_official: true
+related_entity_ids:
+- banco-de-brasilia-brb
+- banco-central-do-brasil
+- paulo-henrique-costa
+- dario-oswaldo-garcia-junior
+- roberio-bonfim-mangueira
+- tirreno
+issuer_id: paulo-henrique-costa
+issuer: Paulo Henrique Costa, então presidente do BRB, com Dário Oswaldo Garcia Júnior e Robério Bonfim
+  Mangueira
+reference: Ofício PRESI-2025/051
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

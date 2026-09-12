@@ -9,14 +9,23 @@ jurisdiction: Distrito Federal
 summary: 'Banco controlado pelo Governo do Distrito Federal. Segundo decisão do STF (PET 15771), teria
   adquirido carteiras de crédito do Banco Master que alcançariam R$ 12,2 bilhões, apesar de pareceres
   técnicos e jurídicos contrários. Reportagem baseada em apuração da Polícia Federal descreve o mecanismo
-  dessa aquisição: uma empresa de fachada criada por Vorcaro, a Tirreno, vendia os créditos ao BRB embutindo
-  prêmio ao banco comprador, e a investigação concluiu que os créditos nunca existiram na origem — contratos
-  fabricados, segundo amostra de 130 casos analisados pelo Banco Central sem lastro algum.'
+  dessa aquisição: uma empresa de fachada, a Tirreno, vendia os créditos ao BRB embutindo prêmio ao banco
+  comprador, e a Polícia Federal apurou que os créditos não puderam ser confirmados na origem. Em ofício
+  próprio de 18/06/2025 ao Banco Central, ainda sob a presidência de Paulo Henrique Costa, o BRB reconheceu
+  ter identificado tranches de crédito com origem em promotores de vendas contratados pelo Master, documentação
+  incompleta e auditoria independente não concluída — cinco meses antes do afastamento dele.'
 why_in_novelo: Adquiriu carteiras de crédito do Banco Master que são objeto central da Operação Compliance
   Zero, segundo comunicações oficiais da PF e do STF.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: clarification
+  summary: 'Em ofício de 18/06/2025 ao Banco Central (Ofício PRESI-2025/051), o BRB — sob a presidência de
+    Paulo Henrique Costa — atribuiu as medidas adicionais de garantia à "intempestividade no envio das
+    informações complementares" pelo Master e à "não conclusão dos trabalhos da auditoria independente"
+    contratada.'
+  source_ids:
+  - src-stf-inq5026-ipl1096304-completo
+  by_id: paulo-henrique-costa
+  date: '2025-06-18'
 open_questions:
 - A extensão da responsabilidade de dirigentes do BRB que aprovaram a compra apesar de pareceres técnicos
   e jurídicos contrários não foi apurada pela equipe neste lote.
@@ -37,8 +46,9 @@ source_ids:
 - src-pf-2025-11-18-compliance-zero
 - src-senado-2025-04-29-cae-audiencia-brb-master
 - src-stf-2026-04-16-prisao-ex-presidente-brb
+- src-stf-inq5026-ipl1096304-completo
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-12'

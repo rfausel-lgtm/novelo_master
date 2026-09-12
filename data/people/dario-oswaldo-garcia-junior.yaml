@@ -1,0 +1,29 @@
+id: dario-oswaldo-garcia-junior
+kind: person
+name: Dário Oswaldo Garcia Júnior
+category: executive
+role: Diretor Executivo de Finanças e Controladoria (DIFIC) do BRB
+positions:
+- title: Diretor Executivo de Finanças e Controladoria (DIFIC)
+  organization_id: banco-de-brasilia-brb
+  source_ids:
+  - src-stf-inq5026-ipl1096304-completo
+summary: 'Diretor Executivo de Finanças e Controladoria do BRB, cossignatário, ao lado de Paulo Henrique
+  Costa e Robério César Bonfim Mangueira, do Ofício PRESI-2025/051 (18/06/2025) — a primeira manifestação
+  institucional própria do BRB sobre a aquisição de carteiras do Banco Master já lida diretamente pela
+  equipe. Investigado formal no INQ 5.026, com pedido de habilitação de defesa em novembro de 2025.'
+why_in_novelo: É um dos dirigentes do BRB apontados pelo Ministério Público Federal como responsáveis por
+  entregar ao Banco Central a documentação hoje questionada sobre a aquisição de carteiras do Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
+open_questions:
+- Não há, nos documentos lidos até agora, indício de conduta pessoal distinta da atuação institucional
+  descrita no ofício que assina — a imputação, quando existe, é do BRB como instituição, não individualizada.
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

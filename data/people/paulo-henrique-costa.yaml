@@ -28,7 +28,12 @@ summary: 'Ex-presidente do BRB (2019 a novembro de 2025), por indicação do gov
   junto de Vorcaro e Nelson Tanure); nenhuma denúncia do MPF/PGR foi oferecida até a data desta apuração.
   O status de sua custódia entre julho e setembro de 2026 não foi confirmado por nenhuma fonte localizada,
   após pedido de liberdade provisória de seu terceiro advogado em 23/06/2026 — lacuna documentada, não
-  resolvida.'
+  resolvida. Cinco meses antes do afastamento, em 18/06/2025, assinou como presidente do BRB o Ofício
+  PRESI-2025/051 ao Banco Central — a primeira manifestação institucional própria dele sobre a aquisição
+  de carteiras do Master já lida diretamente pela equipe (até então só havia reportagens sobre sua atuação).
+  No documento, reconhece tranches de crédito com origem em promotores de vendas contratados pelo Master
+  e atribui as medidas adicionais de garantia à documentação incompleta entregue pelo Master e à auditoria
+  independente não concluída.'
 why_in_novelo: É um dos apenas três nomes formalmente indiciados no inquérito-mãe da Compliance Zero,
   com decisão de prisão que documenta, por mensagens diretas com Daniel Vorcaro, o que a autoridade policial
   descreve como esquema de vantagem indevida via imóveis em troca da compra pelo BRB de carteiras de crédito
@@ -78,8 +83,9 @@ source_ids:
 - src-metropoles-2026-08-05-andreza-matais-pf-conclui-inquerito-indiciamento
 - src-stf-2026-04-16-prisao-ex-presidente-brb
 - src-verificacao-direta-equipe-pet15771-decisao-integra
+- src-stf-inq5026-ipl1096304-completo
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-12'

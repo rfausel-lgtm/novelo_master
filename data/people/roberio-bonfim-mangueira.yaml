@@ -1,0 +1,32 @@
+id: roberio-bonfim-mangueira
+kind: person
+name: Robério Bonfim Mangueira
+aliases:
+- Robério César Bonfim Mangueira
+category: executive
+role: Superintendente de Operações Financeiras (SUOPE) do BRB
+positions:
+- title: Superintendente de Operações Financeiras (SUOPE)
+  organization_id: banco-de-brasilia-brb
+  source_ids:
+  - src-stf-inq5026-ipl1096304-completo
+summary: 'Superintendente de Operações Financeiras do BRB, cossignatário, ao lado de Paulo Henrique Costa
+  e Dário Oswaldo Garcia Júnior, do Ofício PRESI-2025/051 (18/06/2025) — a primeira manifestação institucional
+  própria do BRB sobre a aquisição de carteiras do Banco Master já lida diretamente pela equipe. O Ministério
+  Público Federal o nomeia, no despacho que fundamenta o IPL 2025.0087917, como um dos responsáveis por
+  entregar ao Banco Central a documentação hoje questionada. Investigado formal no INQ 5.026.'
+why_in_novelo: É apontado pelo MPF como um dos responsáveis, do lado do BRB, por entregar ao Banco Central
+  a documentação sobre a aquisição de carteiras do Master hoje tida por fraudulenta.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
+open_questions:
+- O despacho do MPF nomeia-o como responsável pela entrega da documentação sem detalhar se a imputação
+  é de conduta dolosa ou de mera função institucional — não resolvido pelos documentos lidos até agora.
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
