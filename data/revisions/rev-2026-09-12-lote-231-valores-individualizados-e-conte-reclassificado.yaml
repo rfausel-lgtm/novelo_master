@@ -1,0 +1,47 @@
+id: rev-2026-09-12-lote-231-valores-individualizados-e-conte-reclassificado
+kind: revision
+date: '2026-09-12'
+title: 'Lote 231 — a prisão preventiva de Vorcaro excluída por um HC, e os valores individualizados de
+  bloqueio que reclassificam Antônio Augusto Conte'
+summary: 'A manifestação da PGR de 05/01/2026 — a petição de origem direta da decisão de 06/01/2026 —
+  reconstrói a cronologia processual completa da PET 15.198 e individualiza, em nota de rodapé, os
+  valores de bloqueio de bens: R$ 3,28 bilhões cada para Daniel Vorcaro e o Banco Master, e R$ 1,01 bilhão
+  cada para Antônio Augusto Conte, César Reginato Ligeiro, Vicente Conte Neto e Ricardo Batista De
+  Siqueira Xavier. Antônio Augusto Conte — até aqui só o alvo nomeado de uma proposta de internação
+  psiquiátrica forjada por Luiz Phillipi Mourão — ganha assim uma segunda e distinta razão para estar no
+  acervo: é um dos poucos nomes com bloqueio bilionário individualizado na decisão fundadora do caso, sem
+  que as peças disponíveis expliquem por quê. A mesma manifestação confirma, por documento oficial (não
+  apenas imprensa), que o HC 1045014-48.2025.4.01.0000 seguia em vigor e foi a razão para excluir o pedido
+  de prisão preventiva de Vorcaro nesta decisão.'
+added:
+  people: 3
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'antonio-augusto-conte: ganha nova razão para estar no acervo — alvo de bloqueio individualizado de
+  R$ 1,01 bilhão na PET 15.198, distinta e sem relação estabelecida com o episódio da internação
+  psiquiátrica forjada.'
+- 'ev-marilson-consultas-ilegais-dezembro-2021-andre-beraldo: nota atualizada — Antônio Augusto Conte e
+  Vicente Conte Neto deixam de ser "sem registro próprio" no acervo.'
+- 'ev-trf1-solta-vorcaro-2025-11-28: corroborado por documento oficial (manifestação da PGR de 05/01/2026),
+  além da cobertura de imprensa já existente.'
+author: orquestrador
+affected_ids:
+- antonio-augusto-conte
+- vicente-conte-neto
+- cesar-reginato-ligeiro
+- ricardo-batista-de-siqueira-xavier
+- daniel-vorcaro
+- banco-master
+- paulo-gonet
+reason: Leitura direta, por equipe de investigação, da peça 6 da PET 15.198/DF — a manifestação da PGR de
+  05/01/2026 que fundamenta diretamente a decisão de Toffoli de 06/01/2026, já parcialmente coberta no
+  acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

@@ -1,0 +1,32 @@
+id: vicente-conte-neto
+kind: person
+name: Vicente Conte Neto
+category: other
+role: Alvo de busca e apreensão e bloqueio de bens na PET 15.198 (Banco Master); citado de passagem nas
+  consultas ilegais de Marilson Roseno da Silva
+summary: 'Nomeado entre os 38 alvos de busca e apreensão da representação policial que fundamentou a
+  decisão de Dias Toffoli de 06/01/2026 na PET 15.198, com bloqueio individualizado de R$ 1.012.025.000,00
+  — mesmo valor atribuído a Antônio Augusto Conte, César Reginato Ligeiro e Ricardo Batista De Siqueira
+  Xavier. A manifestação da PGR de 05/05/2026 (PET 15.978) já registrava seu nome, ao lado do de Antônio
+  Augusto Conte, entre os termos pesquisados por Marilson Roseno da Silva em consultas indevidas a sistemas
+  da Polícia Federal desde 2021 — sem outro contexto no documento.'
+why_in_novelo: É um dos quatro alvos, ao lado de Daniel Vorcaro e do próprio Banco Master, com valor
+  individualizado de bloqueio de bens acima de R$ 1 bilhão na decisão fundadora da PET 15.198 — mas o
+  acervo não localizou, nas peças lidas, qual seria especificamente sua relação com o esquema investigado.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação dele foi localizada no corpus, e a equipe não conseguiu contato.
+open_questions:
+- 'O acervo não sabe quem é: nenhuma informação independente sobre sua identidade, ocupação ou relação
+  com o Banco Master foi localizada além da lista de alvos de busca/bloqueio e da menção nas consultas de
+  Marilson Roseno da Silva.'
+- Por que ele e Antônio Augusto Conte compartilham sobrenome e foram bloqueados no mesmo valor exato não
+  está explicado nas peças lidas — pode indicar parentesco, mas isso não é afirmado em nenhum documento.
+source_ids:
+- src-stf-pet15198-peca006-manifestacao-pgr-representacao
+- src-mpf-pgr-2026-05-05-manifestacao-pet15978-sexta-fase
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

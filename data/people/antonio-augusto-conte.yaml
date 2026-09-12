@@ -2,7 +2,8 @@ id: antonio-augusto-conte
 kind: person
 category: other
 name: Antônio Augusto Conte
-role: Citado nas conversas de Daniel Vorcaro e Luiz Phillipi Mourão como desafeto
+role: Citado nas conversas de Daniel Vorcaro e Luiz Phillipi Mourão como desafeto; alvo de busca e
+  apreensão e bloqueio de bens de R$ 1,01 bilhão na PET 15.198 (Banco Master)
 summary: 'Figura que aparece no acervo exclusivamente como alvo, não como investigado. Em 14/10/2024,
   ao listar alvos de matérias negativas, Luiz Phillipi Mourão o descreveu a Daniel Vorcaro em termos
   ofensivos e disse que ele teria contratado jornalista para publicar informação falsa sobre o banco.
@@ -11,10 +12,17 @@ summary: 'Figura que aparece no acervo exclusivamente como alvo, não como inves
   medida que a própria Polícia Federal registra como aparentemente forjada ou irregular. Não há registro
   de resposta de Vorcaro à proposta, nem indício de que ela tenha sido executada. Separadamente, o nome
   dele figura entre os termos pesquisados por Marilson Roseno da Silva em consultas indevidas a sistemas
-  da Polícia Federal, segundo a manifestação da PGR de 05/05/2026.'
-why_in_novelo: É o alvo nomeado de uma proposta documentada de internação psiquiátrica obtida por via
-  irregular — e, por outro caminho, de consultas ilegais a bancos de dados policiais. Está no acervo na
-  condição de pessoa visada pela estrutura investigada, não de suspeito.
+  da Polícia Federal, segundo a manifestação da PGR de 05/05/2026. ACHADO NOVO (lote 231) — a representação
+  policial que fundamentou a decisão de Dias Toffoli de 06/01/2026 na PET 15.198 o nomeia, com CPF próprio
+  (216.959.918-50), entre os 38 alvos de busca e apreensão, com bloqueio individualizado de bens de R$
+  1.012.025.000,00 — mesmo valor atribuído a Vicente Conte Neto, César Reginato Ligeiro e Ricardo Batista
+  De Siqueira Xavier. As peças lidas não explicam qual seria sua relação específica com o esquema
+  investigado; o fato de ser alvo formal de bloqueio bilionário não confirma nem esclarece as
+  caracterizações anteriores de Mourão sobre ele.'
+why_in_novelo: Era conhecido só como o alvo nomeado de uma proposta de internação psiquiátrica obtida por
+  via irregular e de consultas ilegais a bancos de dados policiais. Ganhou, na PET 15.198, uma segunda e
+  distinta razão para estar no acervo — é um dos poucos alvos com valor individualizado de bloqueio de
+  bens acima de R$ 1 bilhão na decisão fundadora do caso — sem que as peças disponíveis expliquem por quê.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação dele foi localizada no corpus, e a equipe não conseguiu contato. As
@@ -29,6 +37,7 @@ open_questions:
 source_ids:
 - src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
 - src-mpf-pgr-2026-05-05-manifestacao-pet15978-sexta-fase
+- src-stf-pet15198-peca006-manifestacao-pgr-representacao
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

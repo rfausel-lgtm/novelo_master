@@ -1,0 +1,26 @@
+id: cesar-reginato-ligeiro
+kind: person
+name: César Reginato Ligeiro
+category: other
+role: Alvo de busca e apreensão e bloqueio de bens na PET 15.198 (Banco Master)
+summary: Nomeado entre os 38 alvos de busca e apreensão da representação policial que fundamentou a
+  decisão de Dias Toffoli de 06/01/2026 na PET 15.198, com bloqueio individualizado de R$ 1.012.025.000,00
+  — mesmo valor atribuído a Antônio Augusto Conte, Vicente Conte Neto e Ricardo Batista De Siqueira Xavier.
+  Seu endereço, inicialmente pendente de confirmação pela autoridade policial, foi localizado (Moema, São
+  Paulo) e comunicado ao STF em 12/01/2026.
+why_in_novelo: É um dos quatro alvos, ao lado de Daniel Vorcaro e do próprio Banco Master, com valor
+  individualizado de bloqueio de bens acima de R$ 1 bilhão na decisão fundadora da PET 15.198 — mas o
+  acervo não localizou, nas peças lidas, qual seria especificamente sua relação com o esquema investigado.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação dele foi localizada no corpus, e a equipe não conseguiu contato.
+open_questions:
+- 'O acervo não sabe quem é: nenhuma informação independente sobre sua identidade, ocupação ou relação com
+  o Banco Master foi localizada além da lista de alvos de busca/bloqueio.'
+source_ids:
+- src-stf-pet15198-peca006-manifestacao-pgr-representacao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

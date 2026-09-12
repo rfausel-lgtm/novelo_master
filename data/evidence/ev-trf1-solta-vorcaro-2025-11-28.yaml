@@ -6,12 +6,18 @@ proposition: Em 28/11/2025 a desembargadora Solange Salgado (TRF-1) substituiu a
   Félix de Oliveira e Angelo Antonio Ribeiro da Silva.
 document_ids:
 - doc-2025-11-28-hc-trf1-solange-salgado
+- doc-2026-01-05-manifestacao-pgr-representacao-pet15198
 source_ids:
 - src-migalhas-2025-11-28-trf1-solta-vorcaro
 - src-cnn-2025-11-justica-federal-manda-soltar
+- src-stf-pet15198-peca006-manifestacao-pgr-representacao
 date: '2025-11-28'
+notes: 'Atualizado em 12/09/2026 (lote 231): corroborado por fonte oficial, além da imprensa. A
+  manifestação da PGR de 05/01/2026 cita o mesmo HC (1045014-48.2025.4.01.0000) como razão para excluir
+  o pedido de prisão preventiva de Vorcaro na PET 15.198 — confirmando, por documento processual distinto
+  da cobertura jornalística, que a substituição por cautelares seguia em vigor.'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-12'
