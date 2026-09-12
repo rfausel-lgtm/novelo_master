@@ -1,0 +1,27 @@
+id: src-stf-inq5026-decisao-30-04-2026-alberto-felix-viagem-humanitaria
+kind: source
+title: Decisão que autoriza viagem humanitária de Alberto Felix de Oliveira Neto ao velório do pai (INQ 5.026, 30/04/2026)
+publisher: Supremo Tribunal Federal — Ministro André Mendonça
+author: Ministro André Mendonça
+publication_date: '2026-04-30'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15386637969&ext=.pdf
+source_type: official_court
+summary: 'Decisão pública (Resolução STF 427/2010), baixada diretamente do portal do STF, que autoriza
+  Alberto Felix de Oliveira Neto — sujeito a medidas cautelares restritivas, incluindo prisão domiciliar e
+  proibição de contato com investigados da Operação Compliance Zero (art. 319, III, CPP) — a se deslocar
+  excepcionalmente a Passos/MG entre 30/04 e 04/05/2026, para o velório e sepultamento do pai, Gerson Felix
+  de Oliveira, com flexibilização temporária do monitoramento eletrônico.'
+notes: Documento público, baixado diretamente do portal do STF. Não depende do certificado digital do
+  Rafael. Confirma que, por abril/2026, Alberto Felix de Oliveira Neto já cumpria prisão domiciliar (não
+  mais custódia fechada) com monitoramento eletrônico.
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

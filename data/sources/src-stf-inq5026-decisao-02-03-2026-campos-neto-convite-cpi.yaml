@@ -1,0 +1,33 @@
+id: src-stf-inq5026-decisao-02-03-2026-campos-neto-convite-cpi
+kind: source
+title: Decisão que converte convocação de Roberto Campos Neto em convite, por desvio de finalidade da CPI (INQ 5.026, 02/03/2026)
+publisher: Supremo Tribunal Federal — Ministro André Mendonça
+author: Ministro André Mendonça
+publication_date: '2026-03-02'
+retrieved_at: '2026-09-11'
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15384533922&ext=.pdf
+source_type: official_court
+summary: 'Decisão pública (Resolução STF 427/2010), baixada diretamente do portal do STF, em petição no
+  INQ 5.026 — não é habeas corpus. O requerimento da CPI do Crime Organizado que fundamentava a convocação
+  de Roberto de Oliveira Campos Neto (ex-presidente do BC) citava expressamente o "colapso do Banco Master,
+  instituição envolvida em um esquema de fraudes que pode alcançar R$ 17 bilhões" e a movimentação de
+  "cerca de R$ 2,8 bilhões em operações de câmbio para uma empresa suspeita de lavar dinheiro para o
+  Primeiro Comando da Capital (PCC)" como nexo causal com o objeto da comissão. Mendonça entende que a CPI
+  (instalada para investigar facções criminosas e milícias) extrapolou seu objeto ao convocá-lo com base no
+  caso Master, e converte a convocação em convite (comparecimento facultativo), "nos exatos termos
+  realizados em relação ao atual presidente do Banco Central do Brasil, Gabriel Galípolo".'
+notes: 'Documento público, baixado diretamente do portal do STF. Não depende do certificado digital do
+  Rafael. CORREÇÃO IMPORTANTE: a imprensa noticiou a blindagem de Campos Neto como fruto de ''habeas
+  corpus'' — o texto integral desta decisão mostra que o instrumento real foi uma decisão em petição do
+  próprio INQ 5.026, convertendo convocação em convite por desvio de finalidade da CPI, não um habeas
+  corpus.'
+verification:
+  checked_at: '2026-09-11'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

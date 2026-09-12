@@ -1,0 +1,25 @@
+id: doc-2026-03-02-decisao-inq5026-campos-neto-convite-cpi
+kind: document
+title: Decisão que converte convocação de Roberto Campos Neto em convite, por desvio de finalidade da CPI
+doc_type: judicial_decision
+date: '2026-03-02'
+date_precision: day
+source_ids:
+- src-stf-inq5026-decisao-02-03-2026-campos-neto-convite-cpi
+summary: Decisão em petição no INQ 5.026 que converte a convocação obrigatória de Roberto Campos Neto pela
+  CPI do Crime Organizado em convite facultativo, por entender que a comissão extrapolou seu objeto
+  (facções e milícias) ao convocá-lo com base no caso Banco Master.
+is_official: true
+related_entity_ids:
+- roberto-campos-neto
+- cpi-do-crime-organizado
+- gabriel-galipolo
+issuer_id: supremo-tribunal-federal
+issuer: Ministro André Mendonça
+reference: 'STF, INQ 5.026/DF, decisão de 02/03/2026'
+excerpt: acolho parcialmente o pedido, para convolar o requerimento de convocação em convite
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,22 @@
+id: doc-2026-04-30-decisao-inq5026-alberto-felix-viagem-humanitaria
+kind: document
+title: Decisão que autoriza viagem humanitária de Alberto Felix de Oliveira Neto ao velório do pai
+doc_type: judicial_decision
+date: '2026-04-30'
+date_precision: day
+source_ids:
+- src-stf-inq5026-decisao-30-04-2026-alberto-felix-viagem-humanitaria
+summary: Decisão que autoriza, excepcionalmente, o deslocamento de Alberto Felix de Oliveira Neto a
+  Passos/MG para o velório e sepultamento do pai, com flexibilização temporária do monitoramento eletrônico.
+is_official: true
+related_entity_ids:
+- alberto-felix-oliveira
+issuer_id: supremo-tribunal-federal
+issuer: Ministro André Mendonça
+reference: 'STF, INQ 5.026/DF, decisão de 30/04/2026'
+excerpt: a situação apresentada denota circunstância humanitária excepcional
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

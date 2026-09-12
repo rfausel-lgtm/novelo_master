@@ -1,0 +1,23 @@
+id: doc-2026-06-12-decisao-inq5026-alberto-felix-intimacao-pf
+kind: document
+title: Decisão que autoriza deslocamento de Alberto Felix de Oliveira Neto para depor no IPL 2025.0087917-SR/PF/DF
+doc_type: judicial_decision
+date: '2026-06-12'
+date_precision: day
+source_ids:
+- src-stf-inq5026-decisao-12-06-2026-alberto-felix-intimacao-pf
+summary: Decisão que autoriza o deslocamento de Alberto Felix de Oliveira Neto a Brasília, em 16/06/2026,
+  para prestar declarações no inquérito policial nº 2025.0087917-SR/PF/DF, e estende a mesma autorização
+  aos demais investigados do INQ 5.026 com medidas restritivas de liberdade.
+is_official: true
+related_entity_ids:
+- alberto-felix-oliveira
+issuer_id: supremo-tribunal-federal
+issuer: Ministro André Mendonça
+reference: 'STF, INQ 5.026/DF, decisão de 12/06/2026'
+excerpt: para atendimento de intimação para prestar declarações nos autos do inquérito policial nº 2025.0087917-SR/PF/DF, em que figura como investigado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

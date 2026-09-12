@@ -1,0 +1,20 @@
+id: ev-alberto-felix-intimado-ipl-2025-0087917
+kind: evidence
+classification: D
+proposition: 'Em 12/06/2026, o STF autorizou o deslocamento de Alberto Felix de Oliveira Neto a Brasília,
+  em 16/06/2026, para prestar declarações no inquérito policial nº 2025.0087917-SR/PF/DF, no qual figura
+  como investigado — inquérito distinto e ainda não identificado no acervo. A mesma decisão estendeu a
+  autorização de deslocamento a "os demais investigados com medidas pessoais restritivas de liberdade" no
+  âmbito do INQ 5.026.'
+document_ids:
+- doc-2026-06-12-decisao-inq5026-alberto-felix-intimacao-pf
+source_ids:
+- src-stf-inq5026-decisao-12-06-2026-alberto-felix-intimacao-pf
+date: '2026-06-12'
+notes: O número do IPL 2025.0087917-SR/PF/DF não foi localizado em nenhum outro registro do acervo até
+  esta data — pista para checagem futura sobre a natureza dessa apuração paralela.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

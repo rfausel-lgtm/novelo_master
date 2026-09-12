@@ -1,0 +1,25 @@
+id: ev-cpi-justificativa-convocacao-campos-neto-cifras-master-pcc
+kind: evidence
+classification: A
+proposition: 'O requerimento da CPI do Crime Organizado que fundamentou a convocação de Roberto Campos
+  Neto — reproduzido na decisão de Mendonça de 02/03/2026 (INQ 5.026) — afirma que "o recente colapso do
+  Banco Master, instituição envolvida em um esquema de fraudes que pode alcançar R$ 17 bilhões, conforme
+  apurado pela Operação Compliance Zero da Polícia Federal, serve como o principal nexo causal para esta
+  convocação", e que "investigações revelaram que o Banco Master teria movimentado cerca de R$ 2,8 bilhões
+  em operações de câmbio para uma empresa suspeita de lavar dinheiro para o Primeiro Comando da Capital
+  (PCC)".'
+attributed_to: Requerimento da CPI do Crime Organizado, reproduzido na decisão de Mendonça de 02/03/2026
+document_ids:
+- doc-2026-03-02-decisao-inq5026-campos-neto-convite-cpi
+source_ids:
+- src-stf-inq5026-decisao-02-03-2026-campos-neto-convite-cpi
+excerpt: o Banco Master teria movimentado cerca de R$ 2,8 bilhões em operações de câmbio para uma empresa suspeita de lavar dinheiro para o Primeiro Comando da Capital (PCC)
+date: '2026-03-02'
+notes: As cifras são alegação do requerimento da CPI, reproduzida por Mendonça ao relatar o pedido — não
+  são conclusão da própria decisão nem fato apurado de forma independente pelo acervo. Nenhuma outra fonte
+  do acervo, até esta data, relaciona o Banco Master a uma operação de lavagem de dinheiro em favor do PCC.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

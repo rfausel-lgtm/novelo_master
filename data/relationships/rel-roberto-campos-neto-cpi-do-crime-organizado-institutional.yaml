@@ -4,20 +4,25 @@ from_id: roberto-campos-neto
 to_id: cpi-do-crime-organizado
 relationship_type: institutional
 directed: false
-label: faltou três vezes, blindado por habeas corpus
-start_date: '2026-04-08'
-description: Roberto Campos Neto faltou três vezes a convocações da CPI para depor sobre a aprovação do
-  Máxima em 2019, protegido por habeas corpus do STF; ofereceu apenas resposta por escrito.
-evidence_class: C
-confidence: 0.8
+label: faltou três vezes, convocação convertida em convite por decisão no INQ 5.026
+start_date: '2026-03-02'
+description: 'Roberto Campos Neto faltou três vezes a convocações da CPI para depor sobre a aprovação do
+  Máxima em 2019, blindado não por habeas corpus (como noticiou a imprensa), mas por decisão de Mendonça
+  de 02/03/2026, em petição no INQ 5.026, que converteu sua convocação em convite facultativo por desvio
+  de finalidade da CPI; ofereceu apenas resposta por escrito.'
+evidence_class: D
+confidence: 0.9
 status: verified
 event_ids: []
 evidence_ids:
 - ev-campos-neto-blindado-hc-falta-cpi-tres-vezes
+- ev-inq5026-decisao-converte-convocacao-campos-neto-em-convite
 source_ids:
 - src-revistaforum-2026-04-07-campos-neto-falta-cpi
 - src-agenciabrasil-2026-04-campos-neto-falta-cpi-terceira
-document_ids: []
+- src-stf-inq5026-decisao-02-03-2026-campos-neto-convite-cpi
+document_ids:
+- doc-2026-03-02-decisao-inq5026-campos-neto-convite-cpi
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

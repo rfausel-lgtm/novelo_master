@@ -1,0 +1,26 @@
+id: ev-inq5026-decisao-converte-convocacao-campos-neto-em-convite
+kind: evidence
+classification: D
+proposition: 'Em 02/03/2026, em petição no INQ 5.026, o ministro André Mendonça converteu a convocação
+  obrigatória de Roberto Campos Neto pela CPI do Crime Organizado em convite facultativo, acolhendo a tese
+  de "desvio de finalidade": a CPI foi instalada para investigar facções criminosas e milícias, e a
+  convocação dele se baseava no colapso do Banco Master, tema estranho ao objeto da comissão. Mendonça
+  aplicou "os exatos termos realizados em relação ao atual presidente do Banco Central do Brasil, Gabriel
+  Galípolo" — ou seja, o mesmo tratamento facultativo já dado a Galípolo. O instrumento processual real é
+  esta decisão em petição do INQ 5.026, não um habeas corpus, como a imprensa noticiou.'
+document_ids:
+- doc-2026-03-02-decisao-inq5026-campos-neto-convite-cpi
+source_ids:
+- src-stf-inq5026-decisao-02-03-2026-campos-neto-convite-cpi
+excerpt: acolho parcialmente o pedido, para convolar o requerimento de convocação em convite
+date: '2026-03-02'
+notes: 'CORREÇÃO: substitui a caracterização do instrumento como "habeas corpus" (ver
+  `ev-campos-neto-blindado-hc-falta-cpi-tres-vezes`, baseada em imprensa) pelo instrumento real, verificado
+  no texto integral da decisão. As duas evidências permanecem publicadas — a original documenta o fato do
+  não comparecimento via cobertura jornalística; esta documenta o mecanismo jurídico exato via fonte
+  primária.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

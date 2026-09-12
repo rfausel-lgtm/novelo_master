@@ -6,7 +6,11 @@ summary: Presidia o Banco Central quando a autarquia aprovou, em outubro de 2019
   do Banco Máxima a Daniel Vorcaro, oito meses depois de a diretoria anterior ter indeferido o mesmo pedido.
   Na CPI do Crime Organizado, o senador Fabiano Contarato citou reportagem do Estado de S. Paulo segundo
   a qual ele teria atuado por duas vezes para evitar uma intervenção no banco; a pergunta foi dirigida
-  ao atual presidente do BC, e a equipe editorial não localizou manifestação sua sobre o ponto.
+  ao atual presidente do BC, e a equipe editorial não localizou manifestação sua sobre o ponto. Faltou três
+  vezes a convocações da CPI para depor sobre a aprovação do Máxima; em 02/03/2026, o STF converteu sua
+  convocação em convite facultativo — não por habeas corpus, como noticiou a imprensa, mas por decisão em
+  petição do INQ 5.026 que acolheu a tese de desvio de finalidade da CPI, aplicando a ele o mesmo
+  tratamento já dado a Gabriel Galípolo.
 why_in_novelo: Presidia o Banco Central no período em que a autoridade monetária autorizou a aquisição
   do controle do banco e ao longo dos anos de supervisão que antecederam a liquidação.
 open_questions:
@@ -15,6 +19,7 @@ source_ids:
 - src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
 - src-timesbrasil-2026-04-24-bc-divulga-votos-do-maxima
 - src-senado-2026-04-08-galipolo-cpi
+- src-stf-inq5026-decisao-02-03-2026-campos-neto-convite-cpi
 aliases: []
 positions: []
 cited_position:

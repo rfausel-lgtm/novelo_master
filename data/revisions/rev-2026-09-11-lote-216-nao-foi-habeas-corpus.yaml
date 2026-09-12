@@ -1,0 +1,26 @@
+id: rev-2026-09-11-lote-216-nao-foi-habeas-corpus
+kind: revision
+date: '2026-09-11'
+title: 'Lote 216 — não foi habeas corpus: como a CPI blindou Campos Neto'
+summary: 'Leitura direta, no portal público do STF, de cinco decisões do INQ 5.026. A de 02/03/2026 blindou
+  Roberto Campos Neto de comparecer à CPI do Crime Organizado — o acervo registrava esse fato via imprensa
+  como proteção por "habeas corpus", mas o texto integral mostra que o instrumento real foi uma decisão em
+  petição do próprio INQ 5.026, que converteu a convocação obrigatória em convite facultativo por "desvio
+  de finalidade" da CPI, aplicando a ele o mesmo tratamento já dado a Gabriel Galípolo; a decisão também
+  reproduz a alegação do requerimento da CPI de que o Master teria movimentado "cerca de R$ 2,8 bilhões em
+  operações de câmbio para uma empresa suspeita de lavar dinheiro para o Primeiro Comando da Capital (PCC)"
+  — registrada como alegação atribuída, não como fato apurado. Duas outras decisões (30/04 e 12/06/2026)
+  atualizam o regime cautelar de Alberto Felix de Oliveira Neto, tesoureiro do Banco Master: por abril/2026
+  já cumpria prisão domiciliar com monitoramento eletrônico (não mais custódia fechada), obteve autorização
+  humanitária para o velório do pai, e foi intimado a depor em um inquérito policial correlato ainda não
+  identificado no acervo (2025.0087917-SR/PF/DF).'
+affected_ids:
+- roberto-campos-neto
+- cpi-do-crime-organizado
+- gabriel-galipolo
+- alberto-felix-oliveira
+reason: Mineração das decisões públicas do STF (Resolução 427/2010) do INQ 5.026, um dos processos
+  indicados como tendo o sigilo levantado pelo despacho de André Mendonça de 10/09/2026 (Petição 16.704).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

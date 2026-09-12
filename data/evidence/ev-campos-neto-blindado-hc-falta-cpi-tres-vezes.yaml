@@ -17,8 +17,13 @@ source_ids:
 excerpt: O entendimento da área técnica é que ele apresentou uma outra origem de recurso e que, a partir
   daí, estava atendido o que antes tinha sido rejeitado.
 date: '2026-04-08'
+notes: 'CORREÇÃO (lote 216): a imprensa (fontes desta evidência) descreveu o instrumento de blindagem como
+  ''habeas corpus''. A leitura direta da decisão primária mostra que não é habeas corpus, e sim uma decisão
+  em petição do INQ 5.026 (02/03/2026) que converteu a convocação obrigatória em convite facultativo, por
+  desvio de finalidade da CPI — ver `ev-inq5026-decisao-converte-convocacao-campos-neto-em-convite`, que
+  documenta o mecanismo exato com fonte primária.'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-11'
