@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+- Workflow `arte-de-lote.yml`: a arte gerada pela automação do Codex passa a chegar sozinha à `main`.
+  A automação gera e valida em minutos, mas o `gh` dela responde 401 — autentica pelo keyring do
+  Windows, inacessível no ambiente isolado —, então o PR nunca era aberto e a arte ficava parada em
+  branch até alguém perceber; foi assim que os lotes 136–165 levaram até 44 h. O workflow dispara no
+  push de branch `codex/**`, exige que o diff contra a `main` seja exclusivamente arte, roda
+  `social:check`, `data:lint` estrito e `build`, e só então abre o PR e o mescla, com o token do
+  próprio Actions — nenhuma credencial nova na máquina. As verificações rodam dentro dele porque PR
+  aberto com `GITHUB_TOKEN` não dispara o evento `pull_request` e nasceria sem checagem alguma.
+
 - A arte do lote passou a abrir o item em `/atualizacoes`, antes do texto, com a legenda "Ilustração
   gerada por IA" entre a imagem e o texto — o leitor lê a ressalva no instante em que passa da
   ilustração para o que o acervo afirma. Ausência de arte segue sendo estado normal: o item começa

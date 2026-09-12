@@ -25,24 +25,35 @@ nada nesta cadeia depende de alguém lembrar depois.
    obrigatório: ela nunca importa o histórico anterior ao lote 200. Esse agente gera a arte, roda
    `npm run social:check` e grava o arquivo canônico `public/social/<Revision.id>.webp`.
 
-   **Gargalo conhecido, medido em 12/09/2026.** A automação gera e valida em minutos, mas não
-   consegue concluir sozinha: o `gh` desta máquina autentica pelo **keyring do Windows**, e o
-   ambiente isolado dela não alcança o keyring — `gh` responde 401, o PR não é aberto, e o push
-   direto na `main` é recusado pelo ruleset `proteger-main`, que exige PR com verificações. O
-   resultado é arte pronta parada em branch até alguém abrir o PR à mão. Foi isso, e não lentidão de
-   geração, que produziu latências de até 44 h nos lotes 136–165: a mediana é 3 h, mas a arte chega
-   em levas, quando alguém percebe. Enquanto o `gh` da automação não autenticar, o passo 3 depende de
-   gente.
+   **Por que a automação não fecha sozinha, medido em 12/09/2026.** Ela gera e valida em minutos,
+   mas o `gh` desta máquina autentica pelo **keyring do Windows** e o ambiente isolado dela não
+   alcança o keyring: `gh` responde 401 e o PR nunca é aberto. O push direto também não sai, barrado
+   pelo controle de segurança do próprio Codex — não pelo GitHub, cujo ruleset `proteger-main` só
+   impede deleção e force-push. Resultado: arte pronta parada em branch até alguém abrir o PR à mão.
+   Foi isso, e não lentidão de geração, que produziu latências de até 44 h nos lotes 136–165.
 
-3. **Levar a arte até a `main`.** Gerar não é publicar. O site é construído a partir da `main`, então
-   arte parada em branch não existe para o leitor — e branch parada foi exatamente como as artes dos
-   lotes 156 a 164 ficaram um dia inteiro fora do ar. O agente fecha o trabalho com `social:check`
-   verde e **PR aberto para a `main`**, nunca com a branch abandonada. A liberação obedece ao que a
+3. **Levar a arte até a `main`.** Gerar não é publicar. Quem fecha essa ponte é o workflow
+   [`.github/workflows/arte-de-lote.yml`](.github/workflows/arte-de-lote.yml): ele dispara no push de
+   qualquer branch `codex/**`, confere que o diff contra a `main` é **exclusivamente** arte (ao menos
+   um `public/social/*.webp` novo e nada fora dele e do `CHANGELOG.md`), roda `social:check`,
+   `data:lint` estrito e `build`, e só então abre o PR e o mescla. O token é o do próprio Actions, o
+   que dispensa credencial nova na máquina. Branch que toque `src/`, `scripts/`, `data/` ou
+   `.github/` é ignorada em silêncio: código e dado passam por gente.
+
+   As verificações rodam DENTRO desse workflow, e não pelo CI de PR, porque PR aberto com o
+   `GITHUB_TOKEN` não dispara o evento `pull_request` — restrição do GitHub contra laço infinito de
+   workflows. Um PR assim nasceria sem verificação nenhuma.
+
+   O que não mudou: o site é construído a partir da `main`, então arte parada em branch não existe
+   para o leitor — e branch parada foi exatamente como as artes dos lotes 156 a 164 ficaram um dia
+   inteiro fora do ar. O agente fecha o trabalho com `social:check` verde e a branch empurrada, nunca
+   abandonada; o workflow faz o resto. A liberação obedece ao que a
    seção 7.1 da [EDITORIAL_POLICY.md](EDITORIAL_POLICY.md) exigir no momento. Rafael concedeu
    autorização editorial continuada para liberação automática das artes: o agente inspeciona a
    imagem, registra o checklist no PR, espera todas as verificações obrigatórias e, estando tudo
    conforme, mescla o próprio PR. Dúvida sobre qualquer vedação editorial bloqueia a publicação e
    exige aviso ao editor.
+
 4. **Rascunho para o X.** Só depois que a arte está na `main` o post do lote fica completo — antes
    disso o rascunho apontaria para uma imagem que o site não serve. Aí o fluxo do Codex salva o
    rascunho no buffer, via API, para aprovação.

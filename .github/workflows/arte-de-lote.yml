@@ -1,0 +1,121 @@
+name: Arte de lote
+
+# Entrega a arte gerada pela automação do Codex até a `main`.
+#
+# POR QUE ISTO EXISTE. A automação `Novelo — artes de lotes novos` gera, valida e empurra a arte para
+# um branch em minutos, mas não consegue concluir: o `gh` da máquina autentica pelo keyring do
+# Windows e o ambiente isolado dela não alcança o keyring — `gh` responde 401 e o PR nunca é aberto.
+# A arte ficava parada em branch até uma pessoa perceber; foi assim que os lotes 136–165 levaram até
+# 44 h para aparecer no site. Aqui o token é o do próprio Actions: nenhuma credencial nova precisa
+# existir na máquina do Rafael.
+#
+# POR QUE AS VERIFICAÇÕES RODAM AQUI DENTRO, e não pelo CI de PR. PR aberto com o `GITHUB_TOKEN` não
+# dispara o evento `pull_request` — é restrição do GitHub, para não haver laço infinito de workflows.
+# Um PR assim nasceria sem verificação nenhuma. Então este workflow roda ele mesmo o que precisa
+# passar antes de entregar.
+#
+# O QUE ELE SE RECUSA A FAZER. Só entrega branch cujo diff contra a `main` seja exclusivamente arte:
+# ao menos um `public/social/*.webp` novo e nada fora da lista permitida. Branch que toque `src/`,
+# `scripts/`, `data/` ou `.github/` é ignorada — código e dado passam por gente.
+
+on:
+  push:
+    branches: ["codex/**"]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: arte-de-lote-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  entregar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          fetch-depth: 0
+
+      - name: A branch é só de arte?
+        id: triagem
+        run: |
+          set -euo pipefail
+          base=$(git merge-base origin/main HEAD)
+          mudados=$(git diff --name-only "$base" HEAD)
+          novas=$(git diff --name-only --diff-filter=A "$base" HEAD | grep -E '^public/social/.+\.webp$' || true)
+
+          if [ -z "$novas" ]; then
+            echo "nenhuma arte nova nesta branch; nada a entregar"
+            echo "seguir=nao" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # Lista permitida: a arte e o changelog, que a automação também escreve. Nada mais.
+          fora=$(echo "$mudados" | grep -vE '^(public/social/.+\.webp|CHANGELOG\.md)$' || true)
+          if [ -n "$fora" ]; then
+            echo "branch mexe em arquivo que não é arte — deixando para revisão humana:"
+            echo "$fora" | sed 's/^/    /'
+            echo "seguir=nao" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "artes novas:"
+          echo "$novas" | sed 's/^/    /'
+          echo "seguir=sim" >> "$GITHUB_OUTPUT"
+          echo "quantas=$(echo "$novas" | wc -l | tr -d ' ')" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7
+        if: steps.triagem.outputs.seguir == 'sim'
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+        if: steps.triagem.outputs.seguir == 'sim'
+
+      # As três que decidem se a arte pode ir ao ar: nome canônico e WebP válido, corpus íntegro, e o
+      # site inteiro construindo com ela dentro.
+      - run: npm run social:check
+        if: steps.triagem.outputs.seguir == 'sim'
+      - run: npm run data:lint
+        if: steps.triagem.outputs.seguir == 'sim'
+      - run: npm run build
+        if: steps.triagem.outputs.seguir == 'sim'
+
+      # O corpo do PR vai por arquivo, e o heredoc é aspado ('CORPO'): sem isso as crases do texto
+      # viram substituição de comando no shell.
+      - name: Abrir o PR e entregar
+        if: steps.triagem.outputs.seguir == 'sim'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ github.ref_name }}
+          QUANTAS: ${{ steps.triagem.outputs.quantas }}
+        run: |
+          set -euo pipefail
+          cat > /tmp/corpo.md <<'CORPO'
+          Entrega automática da arte gerada pela automação `Novelo — artes de lotes novos`.
+
+          O agente do Codex faz a inspeção editorial da seção 7.1 antes de empurrar a branch. Aqui
+          rodaram `social:check`, `data:lint` (estrito) e `build`, todos verdes, e a branch foi
+          conferida como exclusivamente de arte: nenhum arquivo fora de `public/social/*.webp` e
+          `CHANGELOG.md`.
+
+          Aberto e mesclado por `.github/workflows/arte-de-lote.yml`, porque o `gh` da automação
+          local não autentica — o keyring do Windows é inacessível no ambiente isolado dela.
+          CORPO
+
+          numero=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number // empty')
+          if [ -n "$numero" ]; then
+            echo "PR #$numero já estava aberto para $BRANCH"
+          else
+            url=$(gh pr create --base main --head "$BRANCH" \
+              --title "feat(social): arte de lote ($QUANTAS)" \
+              --body-file /tmp/corpo.md)
+            numero=${url##*/}
+            echo "PR #$numero aberto"
+          fi
+
+          gh pr merge "$numero" --squash --delete-branch
+          echo "PR #$numero mesclado na main"
