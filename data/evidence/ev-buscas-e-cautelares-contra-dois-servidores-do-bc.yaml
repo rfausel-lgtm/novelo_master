@@ -9,9 +9,11 @@ source_ids:
 - src-senado-2026-03-24-stf-libera-belline-santana-de-depor
 date: '2026-03-04'
 document_ids: []
+notes: A ordem judicial das buscas, de 03/03/2026, foi lida na PET 15.562 e está registrada em
+  ev-pet15562-buscas-da-compliance-zero-incluiram-ex-capitao-nao-investigado.
 kind: evidence
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-12'

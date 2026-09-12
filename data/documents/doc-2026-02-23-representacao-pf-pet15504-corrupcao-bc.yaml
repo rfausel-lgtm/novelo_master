@@ -1,0 +1,26 @@
+id: doc-2026-02-23-representacao-pf-pet15504-corrupcao-bc
+kind: document
+title: Representação da PF pela instauração de apuração em apartado sobre servidores do Banco Central
+doc_type: judicial_filing
+date: '2026-02-23'
+date_precision: day
+source_ids:
+- src-stf-pet15504-representacao-pf-23-02-2026
+summary: 'A Polícia Federal representa ao ministro André Mendonça pela instauração de petição sigilosa em apartado
+  do INQ 5.026, "destinada exclusivamente à apuração dos fatos relacionados à possível prática de crimes de corrupção
+  e correlatos envolvendo servidores do alto escalão do Banco Central do Brasil, no contexto da influência exercida
+  por Daniel Bueno Vorcaro". Fundamenta-se na análise do celular de Vorcaro e em notícia-crime do próprio Banco
+  Central sobre servidores do Departamento de Supervisão Bancária.'
+is_official: true
+related_entity_ids:
+- paulo-sergio-neves-de-souza
+- belline-santana
+- daniel-vorcaro
+- andre-mendonca
+issuer: Delegado Victor Arruda de Oliveira, Polícia Federal (CINQ/CGRC/DICOR)
+reference: PET 15.504/DF, e-Doc. 1; RE 2026.0018562
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

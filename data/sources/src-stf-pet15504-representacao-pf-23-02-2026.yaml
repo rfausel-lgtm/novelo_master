@@ -1,0 +1,30 @@
+id: src-stf-pet15504-representacao-pf-23-02-2026
+kind: source
+title: Representação da PF que pediu a abertura da PET 15.504 para apurar corrupção de servidores do Banco Central
+publisher: Polícia Federal
+author: Delegado Victor Arruda de Oliveira (CINQ/CGRC/DICOR/PF)
+publication_date: '2026-02-23'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7509527
+source_type: official_police
+summary: 'Pede a instauração de petição sigilosa em apartado do INQ 5.026 para apurar indícios de corrupção de
+  servidores do alto escalão do Banco Central ligados a Daniel Vorcaro. Diz que os elementos vêm da análise do
+  celular atribuído a Vorcaro e de notícia-crime formal enviada pelo próprio Banco Central à PF, e descreve Paulo
+  Sérgio Neves de Souza (chefe-adjunto do DESUP) e Belline Santana (chefe do DESUP) como tendo atuado "de forma
+  reiterada como consultores informais" de Vorcaro — revisando minutas destinadas ao BC e ao FGC, antecipando
+  posicionamentos internos e alinhando estratégias num grupo de mensagens chamado "Master". Enquadra em tese
+  corrupção passiva e ativa, lavagem, organização criminosa, violação de sigilo funcional e crimes contra o sistema
+  financeiro.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
+  certificado ou credencial do agente), juntada como e-Doc. 1 da PET 15.504. Descreve hipóteses investigativas da
+  PF, não fatos julgados.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

@@ -1,0 +1,22 @@
+id: ev-pf-descreve-servidores-do-bc-como-consultores-informais-de-vorcaro
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, os servidores do Banco Central Paulo Sérgio Neves de Souza e Belline Santana
+  atuaram de forma reiterada como consultores informais de Daniel Vorcaro, revisando minutas de documentos
+  destinados ao próprio BC e ao FGC, antecipando posicionamentos internos e alinhando estratégias num grupo de
+  mensagens chamado "Master", com indícios de vantagens indevidas custeadas pelo empresário.
+document_ids:
+- doc-2026-02-23-representacao-pf-pet15504-corrupcao-bc
+source_ids:
+- src-stf-pet15504-representacao-pf-23-02-2026
+attributed_to: Polícia Federal, em representação de 23/02/2026 na PET 15.504
+date: '2026-02-23'
+notes: É a descrição com que a PF abriu a apuração em apartado, depois deferida em 30/04/2026 (ver
+  ev-instauracao-formal-investigacao-corrupcao-vorcaro-bc). Os elementos citados são a análise do celular de
+  Vorcaro e uma notícia-crime do próprio Banco Central. Hipótese investigativa, sem denúncia até a data mais
+  recente disponível.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

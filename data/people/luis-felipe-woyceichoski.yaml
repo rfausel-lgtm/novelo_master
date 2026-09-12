@@ -28,7 +28,10 @@ summary: 'Ex-funcionário de Daniel Vorcaro, capitão da embarcação do banquei
   empresa em que atuava como comandante. No relato, diz ter os nomes e contatos de quem lhe telefonou
   para adverti-lo, identificando dois deles como Naldo Armando e Emanuel Luiz. Ao repassar o áudio a
   Mourão, Vorcaro pediu que o apagasse ("preciso que você apague e não mande pra ninguém. Vou ter
-  problema com esse cara") e avaliou: "tiro saiu pela culatra. Esse cara era o principal".'
+  problema com esse cara") e avaliou: "tiro saiu pela culatra. Esse cara era o principal". A DECISÃO DE BUSCAS
+  DA PET 15.562 (03/03/2026, lote 251) o incluiu entre os alvos de busca e apreensão sem que figurasse como
+  investigado, com a finalidade exclusiva de apreender vídeos e contatos que ele teria declarado guardar sobre a
+  Turma, a quem se refere como milícia.'
 why_in_novelo: É a vítima nomeada de um episódio concreto de ameaça de morte determinada por Daniel Vorcaro e executada
   pelo núcleo de intimidação 'A Turma', segundo a representação da PF que fundamentou a prisão preventiva de Vorcaro
   e de Luiz Phillipi Mourão.
@@ -47,9 +50,10 @@ source_ids:
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 - src-mpf-pgr-2026-05-05-manifestacao-pet15978-sexta-fase
 - src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+- src-stf-pet15562-decisao-03-03-2026-busca-e-apreensao
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-09-12'
 

@@ -1,0 +1,49 @@
+id: rev-2026-09-12-lote-251-os-servidores-do-bc-na-origem-e-as-buscas-de-marco
+kind: revision
+date: '2026-09-12'
+title: 'Lote 251 — como a PF descreveu os servidores do BC, e a ordem das buscas de março'
+summary: 'Duas peças que estavam na origem de frentes já conhecidas. A representação da Polícia Federal de 23/02/2026,
+  que abriu a PET 15.504, descreve Paulo Sérgio Neves de Souza e Belline Santana, então no comando da supervisão
+  bancária do Banco Central, como "consultores informais" de Daniel Vorcaro que revisavam minutas destinadas ao
+  próprio BC e ao FGC num grupo de mensagens chamado "Master" — hipótese da PF, registrada como alegação. E a decisão
+  de 03/03/2026 na PET 15.562, até aqui só citada de passagem, é a ordem judicial das buscas cumpridas em 04/03:
+  alcançou oito pessoas e cinco empresas que Mendonça chamou de "típicas empresas de fachada", e também Luís Felipe
+  Woyceichoski, ex-capitão da embarcação de Vorcaro e vítima da ameaça atribuída à Turma, que não era investigado —
+  a PF queria dele os vídeos e contatos que ele dizia guardar sobre o grupo.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 2
+  relationships: 0
+  sources: 2
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'ev-instauracao-formal-investigacao-corrupcao-vorcaro-bc: remete à representação que originou a PET 15.504.'
+- 'ev-buscas-e-cautelares-contra-dois-servidores-do-bc: remete à ordem judicial das buscas, agora lida.'
+- 'luis-felipe-woyceichoski: registrada a busca deferida contra ele sem que figurasse como investigado.'
+author: orquestrador
+affected_ids:
+- paulo-sergio-neves-de-souza
+- belline-santana
+- daniel-vorcaro
+- andre-mendonca
+- fabiano-zettel
+- luiz-phillipi-mourao
+- marilson-roseno-da-silva
+- leonardo-augusto-furtado-palhares
+- ana-claudia-queiroz-de-paiva
+- luis-felipe-woyceichoski
+- varajo-consultoria-empresarial
+- moriah-asset
+- super-empreendimentos-e-participacoes
+- king-participacoes-imobiliarias
+- king-motors-locacao-veiculos
+reason: Mineração das PETs 15.504 e 15.562 via peticionamento.stf.jus.br (sessão autenticada pelo próprio Rafael).
+  Lidas também, sem entrada própria, a decisão de 27/03/2026 na PET 15.562 (acesso aos autos para as defesas de
+  Zettel, Ana Cláudia, Palhares, Belline e Vorcaro) e o despacho de 22/05/2026 (vista à PGR sobre pedidos de Paulo
+  Sérgio, depois julgados prejudicados por duplicarem os da PET 15.556).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

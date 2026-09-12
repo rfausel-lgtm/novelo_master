@@ -1,0 +1,39 @@
+id: doc-2026-03-03-decisao-pet15562-busca-e-apreensao
+kind: document
+title: Decisão de busca e apreensão na PET 15.562 contra alvos da Compliance Zero
+doc_type: judicial_decision
+date: '2026-03-03'
+date_precision: day
+source_ids:
+- src-stf-pet15562-decisao-03-03-2026-busca-e-apreensao
+summary: 'Com base nos arts. 240 e 244 do CPP, defere busca e apreensão e mandado específico de busca pessoal contra os
+  investigados listados pela PF, com autorização de acesso a dados telemáticos, apreensão de dispositivos, de
+  dinheiro em espécie acima de R$ 20 mil e de bens de luxo sem origem justificada, e acompanhamento da OAB em
+  escritórios de advocacia. Classifica as cinco pessoas jurídicas-alvo como "típicas empresas de fachada" e
+  estende a busca a Luís Felipe Woyceichoski, não investigado, para localizar provas que ele próprio disse guardar
+  sobre a "Turma".'
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- daniel-vorcaro
+- fabiano-zettel
+- luiz-phillipi-mourao
+- marilson-roseno-da-silva
+- paulo-sergio-neves-de-souza
+- belline-santana
+- leonardo-augusto-furtado-palhares
+- ana-claudia-queiroz-de-paiva
+- luis-felipe-woyceichoski
+- varajo-consultoria-empresarial
+- moriah-asset
+- super-empreendimentos-e-participacoes
+- king-participacoes-imobiliarias
+- king-motors-locacao-veiculos
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: PET 15.562/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
