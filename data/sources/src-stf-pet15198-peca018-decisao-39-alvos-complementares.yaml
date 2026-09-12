@@ -1,0 +1,28 @@
+id: src-stf-pet15198-peca018-decisao-39-alvos-complementares
+kind: source
+title: Decisão de Dias Toffoli deferindo parcialmente busca e apreensão complementar contra 39 alvos
+publisher: Supremo Tribunal Federal
+author: Ministro Dias Toffoli
+publication_date: '2026-01-08'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336
+source_type: official_court
+summary: Decisão de seis páginas encampando pedido complementar do PGR, que por sua vez encampa
+  manifestação da Procuradoria da República em São Paulo, com lista de 39 alvos de busca e apreensão (34
+  pessoas físicas e 5 pessoas jurídicas), endereços indicados pela autoridade policial no bojo do pedido de
+  prisão preventiva n. 5009071-26.2025.4.03.6181. Defere parcialmente, excluindo três alvos já alcançados
+  por diligências anteriores.
+notes: 'Peça 18 de 50 obtidas por Rafael via certificado digital no peticionamento eletrônico do STF (pasta
+  local "Pet 15198-1_50") — mesma política de divulgação já aplicada às demais peças obtidas por
+  certificado. Rodapé de impressão com CPF de quem baixou o documento nunca reproduzido no acervo.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador (leitura por equipe de investigação dedicada às duas decisões de escalada da
+    PET 15.198)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

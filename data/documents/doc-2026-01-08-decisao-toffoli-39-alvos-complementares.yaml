@@ -1,0 +1,33 @@
+id: doc-2026-01-08-decisao-toffoli-39-alvos-complementares
+kind: document
+title: Decisão de Dias Toffoli deferindo parcialmente busca e apreensão complementar contra 39 alvos
+doc_type: judicial_decision
+date: '2026-01-08'
+date_precision: day
+source_ids:
+- src-stf-pet15198-peca018-decisao-39-alvos-complementares
+summary: 'Toffoli defere parcialmente pedido complementar de busca e apreensão contra 39 alvos (34 pessoas
+  físicas e 5 pessoas jurídicas — entre elas Banco Master, Sefer Investimentos, Clínica Mais Médicos,
+  Acura Gestora de Recursos e WNT Gestora de Recursos), "exceto em relação aos indivíduos sob n. 2
+  (endereço 1), 12 e 33" — respectivamente um dos endereços de Daniel Vorcaro, André Felipe de Oliveira
+  Seixas Maia e o próprio Banco Master, por já terem sido alvo de diligências de igual natureza. Entre os
+  alvos com busca deferida: Nelson Tanure (item 7) e Fabiano Zettel, com a esposa Natália Vorcaro Zettel
+  (item 4). Determina que as diligências sejam "o mais discreto possível", vedado acompanhamento de
+  imprensa ou terceiros.'
+is_official: true
+related_entity_ids:
+- dias-toffoli
+- nelson-tanure
+- fabiano-zettel
+- natalia-vorcaro-zettel
+- daniel-vorcaro
+- andre-seixas-maia
+- banco-master
+issuer_id: dias-toffoli
+issuer: Ministro Dias Toffoli
+reference: PET 15.198/DF, decisão de 08/01/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

@@ -1,0 +1,38 @@
+id: evt-2026-01-08-toffoli-defere-busca-complementar-39-alvos
+kind: event
+title: Toffoli defere busca e apreensão complementar contra 39 alvos, incluindo as residências de Tanure
+  e de Zettel
+event_type: judicial_decision
+date: '2026-01-08'
+date_precision: day
+participant_ids:
+- dias-toffoli
+- nelson-tanure
+- fabiano-zettel
+- natalia-vorcaro-zettel
+- daniel-vorcaro
+- andre-seixas-maia
+- banco-master
+description: 'Pedido complementar do PGR, encampando manifestação da Procuradoria da República em São
+  Paulo, ampliou para 39 o número de alvos de busca e apreensão na investigação sobre o Banco Master —
+  34 pessoas físicas e 5 pessoas jurídicas. Toffoli deferiu parcialmente, excluindo apenas três alvos já
+  alcançados por diligências anteriores (um dos endereços de Daniel Vorcaro, André Felipe de Oliveira
+  Seixas Maia e o próprio Banco Master). Entre os alvos com busca domiciliar deferida estão Nelson Tanure,
+  em endereço no Leblon (Rio de Janeiro), e Fabiano Zettel com a esposa Natália Vorcaro Zettel, em
+  endereço em Nova Lima (Minas Gerais). É medida de busca e apreensão, distinta e anterior à busca pessoal
+  em aeroportos de 13-14/01/2026 já registrada no acervo — nenhuma das duas peças amplia ou repete a
+  hipótese de "sócio oculto" contra Tanure.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-lista-complementar-39-alvos-busca-08-01-2026
+source_ids:
+- src-stf-pet15198-peca018-decisao-39-alvos-complementares
+document_ids:
+- doc-2026-01-08-decisao-toffoli-39-alvos-complementares
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
