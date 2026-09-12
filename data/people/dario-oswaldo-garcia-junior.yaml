@@ -11,17 +11,23 @@ positions:
 summary: 'Diretor Executivo de Finanças e Controladoria do BRB, cossignatário, ao lado de Paulo Henrique
   Costa e Robério César Bonfim Mangueira, do Ofício PRESI-2025/051 (18/06/2025) — a primeira manifestação
   institucional própria do BRB sobre a aquisição de carteiras do Banco Master já lida diretamente pela
-  equipe. Investigado formal no INQ 5.026, com pedido de habilitação de defesa em novembro de 2025.'
+  equipe. Investigado formal no INQ 5.026, com pedido de habilitação de defesa em novembro de 2025. ACHADO
+  NOVO (lote 240) — a decisão de 22/06/2026 na PET 15.478 atribui a ele conduta pessoal, não apenas
+  institucional: segundo a autoridade policial, já desde novembro/dezembro de 2024 tinha conhecimento de
+  inconsistências graves na carteira CREDCESTA (manipulação, ausência de lastro, movimentação atípica de
+  créditos entre fundos) e manteve conversas diretas com Paulo Henrique Costa sobre o tema.'
 why_in_novelo: É um dos dirigentes do BRB apontados pelo Ministério Público Federal como responsáveis por
   entregar ao Banco Central a documentação hoje questionada sobre a aquisição de carteiras do Master.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
 open_questions:
-- Não há, nos documentos lidos até agora, indício de conduta pessoal distinta da atuação institucional
-  descrita no ofício que assina — a imputação, quando existe, é do BRB como instituição, não individualizada.
+- 'RESOLVIDO EM PARTE (lote 240): a decisão de 22/06/2026 na PET 15.478 atribui a ele conduta pessoal
+  (conhecimento específico desde nov/dez de 2024, conversas diretas com Paulo Henrique) — mas é alegação
+  da autoridade policial em fase de investigação, sem denúncia ou decisão de mérito.'
 source_ids:
 - src-stf-inq5026-ipl1096304-completo
+- src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'

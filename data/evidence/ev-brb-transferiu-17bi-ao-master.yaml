@@ -1,0 +1,23 @@
+id: ev-brb-transferiu-17bi-ao-master
+kind: evidence
+classification: D
+proposition: Segundo a decisão de 22/06/2026 na PET 15.478, o BRB transferiu ao Banco Master cerca de
+  R$ 17 bilhões no total, dos quais R$ 12,2 bilhões corresponderiam a carteiras de crédito que o próprio
+  BRB "admitia não conseguir auditar adequadamente" por falta de documentação.
+document_ids:
+- doc-2026-06-22-decisao-pet15478-sigilo-tirreno-brb
+source_ids:
+- src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
+date: '2026-06-22'
+notes: 'Upgrade de classificação (lote 240): o valor de R$ 12,2 bilhões já constava do acervo como D,
+  desde a decisão da PET 15.771 (16/04/2026) — esta peça corrobora, não amplia, esse número. Já o valor de
+  R$ 17 bilhões só constava como alegação não verificada de um requerimento da CPI do Crime Organizado
+  (ver ev-cpi-justificativa-convocacao-campos-neto-cifras-master-pcc, classe A) — esta decisão do STF lhe
+  dá, pela primeira vez, uma fonte judicial direta (D) e explicita a relação entre as duas cifras mais
+  citadas do caso: R$ 17 bi é o total transferido pelo BRB ao Master, do qual R$ 12,2 bi é o subconjunto
+  de carteiras inauditáveis.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

@@ -1,0 +1,46 @@
+id: rev-2026-09-12-lote-240-r17bi-e-a-cadeia-de-comando-info-brb
+kind: revision
+date: '2026-09-12'
+title: 'Lote 240 — os R$17 bilhões viram fato documental, e o grupo "INFO-BRB" fabricava lastro sob ordem
+  de Vorcaro'
+summary: 'Fecha a leitura da decisão de 22/06/2026 na PET 15.478/DF. O valor de R$17 bilhões transferidos
+  pelo BRB ao Master — até aqui só uma alegação não verificada de requerimento da CPI do Crime Organizado
+  — ganha fonte judicial direta, que também explicita pela primeira vez sua relação com o já conhecido
+  R$12,2 bilhões (subconjunto de carteiras que o BRB não conseguia auditar). A decisão também nomeia o
+  grupo de WhatsApp "INFO-BRB", usado por Alberto Félix de Oliveira e Ângelo Ribeiro da Silva, por
+  determinação de Daniel Vorcaro, para fabricar um extrato artificial da conta da Tirreno — e atribui a
+  Dário Oswaldo Garcia Júnior (BRB) conhecimento pessoal das inconsistências da carteira CREDCESTA desde
+  novembro/dezembro de 2024, resolvendo em parte uma lacuna que o perfil dele já sinalizava.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'ev-cpi-justificativa-convocacao-campos-neto-cifras-master-pcc (indiretamente): o valor de R$17
+  bilhões, lá classificado A, agora tem fonte judicial direta e classificação D em novo registro
+  (ev-brb-transferiu-17bi-ao-master).'
+- 'dario-oswaldo-garcia-junior: open_question sobre ausência de conduta pessoal distinta da atuação
+  institucional, resolvida em parte por nova alegação policial datada.'
+author: orquestrador
+affected_ids:
+- daniel-vorcaro
+- augusto-lima
+- luiz-bull
+- alberto-felix-oliveira
+- angelo-ribeiro-da-silva
+- paulo-henrique-costa
+- dario-oswaldo-garcia-junior
+- banco-de-brasilia-brb
+- banco-master
+reason: Leitura direta, por equipe de investigação, da decisão de 22/06/2026 na PET 15.478/DF — peça
+  pública do portal do STF, obtida em sessão anterior e ainda não analisada. Encerra a mineração desta
+  peça e, com ela, do lote de decisões públicas ainda pendentes do despacho de 10/09/2026 identificado
+  nesta sessão.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
