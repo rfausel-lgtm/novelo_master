@@ -48,9 +48,15 @@
 /data/*
   Cache-Control: public, max-age=300, must-revalidate
 
-# Sem `immutable`: o nome do arquivo é estável e a ilustração pode substituir o card.
+# Sem `immutable`: o nome do arquivo é estável e a ilustração pode substituir o card. Também sem
+# `stale-while-revalidate` — foi ele que escondeu o problema: com max-age de 24h e revalidação em
+# 7 dias, a borda seguia servindo o CARD por até 24h depois de a ilustração já estar na origem, sem
+# nenhum sinal de erro (a resposta vinha 200, só com o conteúdo velho). Medido em 12/09/2026: 4 das
+# 56 ilustrações publicadas no dia ficaram presas assim. Rafael pediu que a troca apareça rápido;
+# `must-revalidate` corta a raiz do problema, e não só o sintoma — depois de 5 min a borda é
+# OBRIGADA a confirmar com a origem (ETag), nunca serve o antigo por engano.
 /social/*
-  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+  Cache-Control: public, max-age=300, must-revalidate
 
 # /fotos/ fica sem regra de propósito: o padrão revalida, e foto corrigida precisa aparecer logo.
 
