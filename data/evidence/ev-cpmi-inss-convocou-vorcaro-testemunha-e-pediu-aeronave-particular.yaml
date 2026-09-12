@@ -1,0 +1,24 @@
+id: ev-cpmi-inss-convocou-vorcaro-testemunha-e-pediu-aeronave-particular
+kind: evidence
+classification: D
+proposition: A CPMI do INSS convocou Daniel Vorcaro como testemunha para 26/02/2026, recusou depoimento
+  por videoconferência e pediu ao então relator, Dias Toffoli, que declarasse o comparecimento compulsório
+  e autorizasse o transporte em aeronave particular dos próprios advogados de defesa, com escolta da
+  Polícia Legislativa do Senado.
+document_ids:
+- doc-2026-01-29-oficio-cpmi-inss-1741-convoca-vorcaro-testemunha
+- doc-2026-02-03-oficio-cpmi-inss-1739-pede-compulsoriedade-vorcaro
+source_ids:
+- src-stf-inq5026-oficio-cpmi-inss-1741-2026-convocacao-vorcaro
+- src-stf-inq5026-oficio-cpmi-inss-1739-2026-pede-compulsoriedade
+date: '2026-02-03'
+notes: Terceira frente parlamentar a buscar o depoimento de Vorcaro no mesmo mês, ao lado da CAE e da CPI
+  do Crime Organizado. O pedido de transporte em aeronave particular da defesa contrasta com a decisão de
+  19/02/2026 do relator seguinte, André Mendonça, que no caso da CAE vedou expressamente o deslocamento em
+  aeronave particular. Não foi localizada decisão sobre este pedido da CPMI nem registro de que Vorcaro
+  tenha deposto à comissão em 26/02/2026 — data em que o acervo registra o depoimento de Rui Costa à mesma CPMI.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

@@ -1,0 +1,24 @@
+id: doc-2026-01-29-oficio-cpmi-inss-1741-convoca-vorcaro-testemunha
+kind: document
+title: Ofício nº 1741/2026 da CPMI do INSS convocando Vorcaro como testemunha
+doc_type: letter
+date: '2026-01-29'
+date_precision: day
+source_ids:
+- src-stf-inq5026-oficio-cpmi-inss-1741-2026-convocacao-vorcaro
+summary: 'Convoca Daniel Vorcaro, "como testemunha", para depor em 26/02/2026 (Requerimento nº 2749/2025),
+  alertando-o sobre o art. 3º da Lei 1.579/1952. Aceita adiar para depois do carnaval, mas recusa
+  videoconferência, afirmando que todos os depoimentos à CPMI foram presenciais, "inclusive" de depoente
+  preso preventivamente.'
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- cpmi-do-inss
+issuer_id: cpmi-do-inss
+issuer: CPMI do INSS
+reference: Ofício nº 1741/2026 — CPMI-INSS
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

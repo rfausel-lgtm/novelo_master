@@ -1,0 +1,27 @@
+id: src-stf-inq5026-oficio-cpmi-inss-1739-2026-pede-compulsoriedade
+kind: source
+title: Ofício nº 1739 da CPMI do INSS ao ministro Dias Toffoli pedindo comparecimento compulsório de Vorcaro
+publisher: Senado Federal
+author: CPMI do INSS (por ordem do presidente, senador Carlos Viana)
+publication_date: '2026-02-03'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347
+source_type: official_legislative
+summary: 'Dirigido ao então relator, ministro Dias Toffoli, informa que Vorcaro seria ouvido
+  presencialmente em 26/02/2026 e pede (i) que o comparecimento seja declarado compulsório, (ii) que o
+  transporte seja autorizado em aeronave particular dos próprios advogados de defesa, com escolta da
+  Polícia Legislativa do Senado — medida apresentada como economia ao erário e atendimento a indicação da
+  defesa — e (iii) que a custódia no Congresso fique a cargo da Polícia Legislativa.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
+  certificado ou credencial do agente). O ofício é numerado "1739/2025" no corpo e "1739/2026" no
+  e-mail de encaminhamento de 04/02/2026 — divergência do próprio documento, reproduzida como está.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

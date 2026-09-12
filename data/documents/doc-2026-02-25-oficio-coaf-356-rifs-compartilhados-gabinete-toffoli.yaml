@@ -1,0 +1,26 @@
+id: doc-2026-02-25-oficio-coaf-356-rifs-compartilhados-gabinete-toffoli
+kind: document
+title: Ofício SEI nº 356/2026 do COAF sobre dois RIFs enviados ao gabinete de Dias Toffoli
+doc_type: letter
+date: '2026-02-25'
+date_precision: day
+source_ids:
+- src-stf-inq5026-oficio-coaf-356-2026-rifs-gabinete-toffoli
+summary: 'O presidente do COAF informa que, em cumprimento a decisão na Reclamação 88.121, dois RIFs — um
+  pedido pela CPMI do INSS e um espontâneo — foram compartilhados com o gabinete do ministro Dias Toffoli
+  por pasta SEI-C, e pede orientação ao novo relator sobre difundi-los à CPMI, à PF e ao MPF, conforme o
+  art. 15 da Lei 9.613/1998.'
+is_official: true
+related_entity_ids:
+- coaf
+- cpmi-do-inss
+- dias-toffoli
+- andre-mendonca
+issuer_id: coaf
+issuer: Ricardo Andrade Saadi, presidente do COAF
+reference: Ofício SEI nº 356/2026/COAF; Processo nº 11893.001091/2025-76
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

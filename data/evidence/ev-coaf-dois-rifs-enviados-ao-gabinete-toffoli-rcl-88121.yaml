@@ -1,0 +1,21 @@
+id: ev-coaf-dois-rifs-enviados-ao-gabinete-toffoli-rcl-88121
+kind: evidence
+classification: D
+proposition: Em cumprimento a decisão na Reclamação 88.121, o COAF compartilhou com o gabinete do ministro
+  Dias Toffoli dois Relatórios de Inteligência Financeira — um elaborado a pedido da CPMI do INSS e outro
+  espontâneo — e, depois da troca de relatoria, pediu ao ministro André Mendonça orientação sobre se deveria
+  difundi-los à CPMI, à Polícia Federal e ao MPF.
+document_ids:
+- doc-2026-02-25-oficio-coaf-356-rifs-compartilhados-gabinete-toffoli
+source_ids:
+- src-stf-inq5026-oficio-coaf-356-2026-rifs-gabinete-toffoli
+date: '2026-02-25'
+notes: O ofício não informa o conteúdo dos RIFs nem a data do compartilhamento com o gabinete de Toffoli
+  (remete ao Ofício SEI nº 231/2026/COAF, não localizado). Registra só o roteamento — os relatórios
+  pedidos pela CPMI e o espontâneo, que normalmente iriam direto às autoridades competentes, foram
+  canalizados ao gabinete do relator anterior.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

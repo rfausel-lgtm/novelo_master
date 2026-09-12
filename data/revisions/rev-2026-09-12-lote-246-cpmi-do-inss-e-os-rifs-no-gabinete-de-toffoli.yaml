@@ -1,0 +1,41 @@
+id: rev-2026-09-12-lote-246-cpmi-do-inss-e-os-rifs-no-gabinete-de-toffoli
+kind: revision
+date: '2026-09-12'
+title: 'Lote 246 — a CPMI do INSS também quis Vorcaro, e dois RIFs do COAF foram parar no gabinete de Toffoli'
+summary: 'Leitura das peças não-decisórias de maior valor do INQ 5.026 (ofícios juntados ao processo).
+  A CPMI do INSS convocou Vorcaro como testemunha para 26/02/2026, recusou videoconferência e pediu ao
+  então relator, Dias Toffoli, comparecimento compulsório e transporte em aeronave particular dos próprios
+  advogados de defesa, com escolta da Polícia Legislativa — terceira frente parlamentar a buscar o
+  depoimento dele no mesmo mês, e um pedido que contrasta com a vedação a aeronave particular imposta
+  depois por André Mendonça. E um ofício do presidente do COAF, de 25/02/2026, revela que, em cumprimento a
+  decisão na Reclamação 88.121, dois Relatórios de Inteligência Financeira — um pedido pela CPMI e outro
+  espontâneo — tinham sido compartilhados com o gabinete de Toffoli, e pede ao novo relator orientação sobre
+  difundi-los à CPMI, à PF e ao MPF.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 3
+  relationships: 0
+  sources: 3
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'cpmi-do-inss: registrada a convocação de Vorcaro como testemunha e o pedido de compulsoriedade a Toffoli.'
+- 'coaf: registrado o envio de dois RIFs ao gabinete de Toffoli em cumprimento à Rcl 88.121.'
+author: orquestrador
+affected_ids:
+- daniel-vorcaro
+- cpmi-do-inss
+- carlos-viana
+- dias-toffoli
+- coaf
+- andre-mendonca
+reason: Continuação da leitura do INQ 5.026 via peticionamento.stf.jus.br (sessão autenticada pelo próprio
+  Rafael), agora nas peças não-decisórias com descrição específica (ofícios de órgãos externos). Outras duas
+  lidas nesta rodada ficaram fora — o Ofício 488 da 10ª Vara Federal (só roteamento de respostas de cartórios)
+  e um e-mail de defesa pedindo habilitação em inquérito sobre o BRB, que traz dados pessoais do investigado
+  e nada de novo sobre o caso.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

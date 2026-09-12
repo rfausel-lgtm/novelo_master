@@ -6,7 +6,9 @@ org_type: public_body
 summary: Conselho de Controle de Atividades Financeiras, unidade de inteligência financeira vinculada
   ao Ministério da Fazenda. Relatórios seus, obtidos pela imprensa, são a origem das informações sobre
   transferências de Vorcaro ao Havengate Development Fund e sobre os pagamentos do Master e da JBS à Consult
-  Inteligência Tributária. O órgão informa não se manifestar sobre casos concretos.
+  Inteligência Tributária. O órgão informa não se manifestar sobre casos concretos. Em ofício de 25/02/2026
+  juntado ao INQ 5.026, informou ter compartilhado dois RIFs (um pedido pela CPMI do INSS, outro espontâneo)
+  com o gabinete do ministro Dias Toffoli, em cumprimento a decisão na Reclamação 88.121.
 why_in_novelo: Autor dos relatórios de inteligência financeira, noticiados pela imprensa, que documentam
   transferências ligadas ao caso.
 cited_position:
@@ -21,6 +23,7 @@ open_questions: []
 source_ids:
 - src-cnn-2026-09-dark-horse-coaf
 - src-gazeta-2026-03-20-master-jbs-consult
+- src-stf-inq5026-oficio-coaf-356-2026-rifs-gabinete-toffoli
 full_name: Conselho de Controle de Atividades Financeiras
 review_status: published
 reviewer: orquestrador

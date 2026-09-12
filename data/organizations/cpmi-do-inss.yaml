@@ -4,7 +4,8 @@ name: CPMI do INSS
 aliases: []
 org_type: public_body
 summary: 'Comissão Parlamentar Mista de Inquérito do Congresso Nacional que investiga fraudes no INSS.
-  Decretou quebras de sigilo de Daniel Vorcaro; em 20/02/2026 o STF determinou a devolução à comissão
+  Convocou Daniel Vorcaro como testemunha para 26/02/2026 e pediu ao então relator, Dias Toffoli, que
+  declarasse o comparecimento compulsório. Decretou quebras de sigilo de Daniel Vorcaro; em 20/02/2026 o STF determinou a devolução à comissão
   dos dados obtidos por essas quebras. Encerrou os trabalhos em 28/03/2026 sem relatório final aprovado:
   o texto do relator, de 4.340 páginas, foi rejeitado por 19 votos a 12, e o presidente anunciou o envio
   de cópias ao MPF e ao STF. Após o encerramento, o texto rejeitado do relator (216 indiciamentos propostos)
@@ -29,6 +30,9 @@ source_ids:
 - src-correiobraziliense-2026-04-07-relatorio-paralelo-cpmi
 - src-cnnbrasil-2026-04-16-viana-entrega-relatorio-fux-mendonca
 - src-bpmoney-2026-07-07-vazamento-vorcaro-cpmi-sala-cofre
+- src-stf-inq5026-oficio-cpmi-inss-1741-2026-convocacao-vorcaro
+- src-stf-inq5026-oficio-cpmi-inss-1739-2026-pede-compulsoriedade
+- src-stf-inq5026-oficio-coaf-356-2026-rifs-gabinete-toffoli
 full_name: Comissão Parlamentar Mista de Inquérito do INSS
 review_status: published
 reviewer: orquestrador

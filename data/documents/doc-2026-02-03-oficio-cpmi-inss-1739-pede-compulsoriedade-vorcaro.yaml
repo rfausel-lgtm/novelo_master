@@ -1,0 +1,26 @@
+id: doc-2026-02-03-oficio-cpmi-inss-1739-pede-compulsoriedade-vorcaro
+kind: document
+title: Ofício nº 1739 da CPMI do INSS a Dias Toffoli pedindo comparecimento compulsório de Vorcaro
+doc_type: letter
+date: '2026-02-03'
+date_precision: day
+source_ids:
+- src-stf-inq5026-oficio-cpmi-inss-1739-2026-pede-compulsoriedade
+summary: 'Pede ao ministro Dias Toffoli que declare compulsório o comparecimento de Vorcaro em 26/02/2026,
+  autorize seu transporte "em aeronave particular dos seus defendentes" com escolta da Polícia Legislativa
+  do Senado e, se conveniente, apoio da Polícia Federal, e fixe a custódia no Congresso a cargo da Polícia
+  Legislativa.'
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- cpmi-do-inss
+- carlos-viana
+- dias-toffoli
+issuer_id: cpmi-do-inss
+issuer: CPMI do INSS
+reference: Ofício nº 1739 — CPMI-INSS
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
