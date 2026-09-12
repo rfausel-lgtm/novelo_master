@@ -1,0 +1,24 @@
+id: ev-natalia-vorcaro-zettel-nova-operadora-financeira-a-turma
+kind: evidence
+classification: A
+proposition: Segundo elementos da IPJ nº 2293065/2026, citados na decisão de 19/06/2026 na PET 15.693,
+  Natália Bueno Vorcaro Zettel teria assumido o papel de operadora financeira do núcleo "A Turma" após a
+  prisão preventiva do marido, Fabiano Campos Zettel, em 04/03/2026.
+document_ids:
+- doc-2026-06-19-decisao-pet15693-dados-armazenados
+source_ids:
+- src-stf-pet15693-decisao-19-06-2026-dados-armazenados
+attributed_to: Autoridade policial, com base na IPJ nº 2293065/2026, encampada pela PGR e citada na decisão
+  de André Mendonça
+date: '2026-06-19'
+notes: É o único elemento genuinamente novo entre os 17 nomes desta decisão — a própria PGR, citada no
+  texto, afirma que a situação dos demais 15 (fora Mourão) já foi "exercida de modo satisfativo" nas
+  Petições 15.556 e 15.978. A IPJ nº 2293065/2026 em si não tem, até esta data, nenhum documento
+  correspondente no acervo — referência nova, conhecida apenas indiretamente por esta citação. Tratar como
+  alegação em fase de investigação, não fato apurado; nenhuma denúncia ou decisão de mérito contra ela
+  consta do acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

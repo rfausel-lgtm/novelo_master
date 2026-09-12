@@ -1,0 +1,33 @@
+id: rev-2026-09-12-lote-236-natalia-vorcaro-zettel-nova-operadora-financeira
+kind: revision
+date: '2026-09-12'
+title: 'Lote 236 — Natália Vorcaro Zettel: apontada como nova operadora financeira de "A Turma" após a
+  prisão do marido'
+summary: 'Primeiro lote de uma nova frente: a leitura de decisões públicas do STF (portal, sem
+  necessidade de certificado) ainda não mineradas para os processos do despacho de 10/09/2026. A decisão
+  de 19/06/2026 na PET 15.693/DF (Min. André Mendonça) — pedido complementar de afastamento de sigilo de
+  dados armazenados junto a Apple, Google e Microsoft para 17 pessoas do núcleo "A Turma" — traz, segundo a
+  própria PGR citada no texto, apenas um elemento genuinamente novo: elementos da IPJ nº 2293065/2026
+  apontam Natália Bueno Vorcaro Zettel como possível nova operadora financeira do núcleo, assumindo esse
+  papel após a prisão do marido, Fabiano Zettel, em março de 2026. Os outros 16 nomes já tiveram sua
+  situação "exercida de modo satisfativo" em petições anteriores, segundo a própria PGR.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- natalia-vorcaro-zettel
+- fabiano-zettel
+- daniel-vorcaro
+reason: Leitura direta, por equipe de investigação, da decisão de 19/06/2026 na PET 15.693/DF — peça
+  pública do portal do STF, obtida em sessão anterior e ainda não analisada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

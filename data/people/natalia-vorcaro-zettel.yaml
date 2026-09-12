@@ -16,7 +16,11 @@ summary: 'Irmã de Daniel Vorcaro. Apontada como vice-presidente da holding Sozo
   de desvio de recursos do Master via CDBs e fundos cativos, ao lado do pai Henrique e do primo Felipe
   Cançado Vorcaro. Deu à luz gêmeos (Samuel e Sarah) em 08/04/2026, com gravidez de risco pré-existente;
   teve complicações graves no pós-parto (síndrome HELLP, com reinternação, e agravamento de quadro
-  psiquiátrico preexistente), citadas por seu marido, Fabiano Zettel, em pedido de prisão domiciliar.'
+  psiquiátrico preexistente), citadas por seu marido, Fabiano Zettel, em pedido de prisão domiciliar.
+  ACHADO NOVO (lote 236): a decisão de 19/06/2026 na PET 15.693 cita elementos da IPJ nº 2293065/2026,
+  segundo os quais ela teria assumido o papel de operadora financeira do núcleo "A Turma" após a prisão
+  do marido em 04/03/2026 — alegação da autoridade policial, sem denúncia ou decisão de mérito contra ela
+  até esta data.'
 why_in_novelo: Alvo do bloqueio patrimonial brasileiro e de ação civil nos EUA movida pelo liquidante
   do Banco Master, por suposta participação na ocultação de bens da família Vorcaro.
 cited_position:
@@ -30,6 +34,7 @@ source_ids:
 - src-brasilapi-2026-super-empreendimentos-cnpj
 - src-folha-2026-03-07-como-vorcaro-desviava-dinheiro-familiares
 - src-stf-pet15556-edoc247-peticao-zettel-domiciliar-pos-parto-24-04-2026
+- src-stf-pet15693-decisao-19-06-2026-dados-armazenados
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

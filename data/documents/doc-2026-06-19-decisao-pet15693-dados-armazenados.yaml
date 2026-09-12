@@ -1,0 +1,27 @@
+id: doc-2026-06-19-decisao-pet15693-dados-armazenados
+kind: document
+title: Decisão de André Mendonça na PET 15.693/DF — afastamento de sigilo de dados armazenados
+doc_type: judicial_decision
+date: '2026-06-19'
+date_precision: day
+source_ids:
+- src-stf-pet15693-decisao-19-06-2026-dados-armazenados
+summary: 'Defere afastamento de sigilo de dados telemáticos armazenados (não interceptação em tempo real)
+  junto a Apple, Google e Microsoft, individualizando qual provedor foi acionado para cada um dos 17
+  nomeados, no período de 01/01/2021 até o cumprimento da ordem. A PGR, citada na decisão, afirma que 15
+  dos 17 nomes já tiveram sua situação "exercida de modo satisfativo" nas Petições 15.556 e 15.978 —
+  concentrando a novidade do pedido em Natália Bueno Vorcaro Zettel, apontada, com base na IPJ nº
+  2293065/2026, como possível nova operadora financeira do núcleo "A Turma" após a prisão do marido,
+  Fabiano Zettel.'
+is_official: true
+related_entity_ids:
+- natalia-vorcaro-zettel
+- daniel-vorcaro
+- fabiano-zettel
+- luiz-phillipi-mourao
+- marilson-roseno-da-silva
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
