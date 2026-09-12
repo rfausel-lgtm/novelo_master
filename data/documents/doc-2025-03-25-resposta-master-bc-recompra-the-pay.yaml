@@ -1,0 +1,27 @@
+id: doc-2025-03-25-resposta-master-bc-recompra-the-pay
+kind: document
+title: Resposta do Banco Master ao Banco Central sobre a recompra de carteiras da The-Pay
+doc_type: letter
+date: '2025-03-25'
+date_precision: day
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+summary: 'Carta do Banco Master ao Banco Central (Ofício 7062/2025-BCB/DESUP), assinada por Angelo Ribeiro
+  da Silva e Luiz Bull, relacionando cessões de carteira originadas por terceiros ao BRB e detalhando três
+  recompras (12/02, 19/02 e 27/02/2025) — a primeira motivada por reclamações de clientes de carteira
+  originada pela The-Pay Soluções de Pagamentos Ltda, as demais por análise de risco solicitada pelo próprio
+  BRB. O Master informou o valor recomprado da The-Pay em cerca de R$ 303 milhões — muito inferior aos R$
+  1,7 bilhão que o próprio Banco Central, em ofício posterior (agosto/2025), atribuiria à mesma operação.'
+is_official: true
+related_entity_ids:
+- banco-master
+- banco-central-do-brasil
+- angelo-ribeiro-da-silva
+- luiz-bull
+issuer: Banco Master S.A.
+reference: Ofício 7062/2025-BCB/DESUP (resposta do Master)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

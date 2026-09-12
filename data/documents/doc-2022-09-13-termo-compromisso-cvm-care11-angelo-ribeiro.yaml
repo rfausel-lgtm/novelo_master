@@ -1,0 +1,25 @@
+id: doc-2022-09-13-termo-compromisso-cvm-care11-angelo-ribeiro
+kind: document
+title: Termo de Compromisso da CVM — manipulação de preços do ativo CARE11 pelo Banco Máxima
+doc_type: regulatory_record
+date: '2022-09-13'
+date_precision: day
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+summary: 'Parecer do Comitê de Termo de Compromisso da CVM (PAS 19957.006441/2021-87 + PA 19957.010180/2022-81)
+  sobre manipulação de preços do ativo CARE11 pelo Banco Máxima, com Angelo Ribeiro da Silva identificado
+  como responsável pelas ordens. Inclui trechos de gravações telefônicas entre ele e operadores de mesa,
+  obtidas pela BSM (Supervisão de Mercados da B3), citadas como evidência de coordenação de preço ("dá uma
+  protegida no papel", "pra não cair"). O Comitê aceitou a proposta de termo de compromisso em 13/09/2022:
+  R$ 2,208 milhões pagos pelo Banco Máxima e R$ 736 mil por Angelo Ribeiro da Silva.'
+is_official: true
+related_entity_ids:
+- angelo-ribeiro-da-silva
+- banco-master
+issuer: Comitê de Termo de Compromisso da Comissão de Valores Mobiliários
+reference: PAS CVM 19957.006441/2021-87 + PA 19957.010180/2022-81 (Parecer CTC 468)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

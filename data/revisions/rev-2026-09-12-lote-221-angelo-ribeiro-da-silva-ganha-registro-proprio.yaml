@@ -1,0 +1,57 @@
+id: rev-2026-09-12-lote-221-angelo-ribeiro-da-silva-ganha-registro-proprio
+kind: revision
+date: '2026-09-12'
+title: 'Lote 221 — Angelo Ribeiro da Silva ganha registro próprio, e a The-Pay: um segundo vetor de fraude'
+summary: 'Angelo Ribeiro da Silva aparecia, sem página própria, em pelo menos quatro registros distintos do
+  acervo: como signatário do contrato de R$ 3 milhões mensais com o escritório Barci de Moraes (16/01/2024),
+  como um dos soltos pelo TRF-1 junto com Vorcaro (28/11/2025) — nos dois casos sem constar em
+  participant_ids/related_entity_ids, gap agora corrigido —, e nas oito equipes que mineraram o IPL
+  2025.0087917 nesta rodada, todas o identificando de forma independente como diretor do Master desde 2017.
+  A leitura direta do IPL acrescenta seu histórico sancionador prévio: um processo da CVM concluído em 2022,
+  por manipulação de preços do ativo CARE11 enquanto operava pelo Banco Máxima, com gravações telefônicas
+  como evidência e termo de compromisso pago (R$ 736 mil, dele; R$ 2,208 milhões, do Máxima) — episódio
+  anterior e distinto da Operação Compliance Zero.
+
+  Ele também assinou, com Luiz Bull, a resposta do Master ao Banco Central (25/03/2025) sobre a recompra
+  de carteiras da The-Pay Soluções de Pagamentos — um segundo vetor de fraude na relação Master-BRB,
+  distinto da Tirreno, nomeado na própria portaria do IPL. O valor que o Master informou (R$ 303 milhões)
+  destoa do que o Banco Central apurou para a mesma operação (R$ 1,7 bilhão) — contradição que o MPF
+  registrou expressamente. A The-Pay teve como sócio único, entre 2020 e 2024, Roberto Fernandes de
+  Oliveira Filho; a partir daí, o controle passou a uma holding identificada de forma inconsistente no
+  próprio processo (Sirius/Merope Participações) e a novos administradores, entre eles Priscila Franca
+  Parigine — que o próprio MPF aponta ter, hoje, ocupação (atendente de padaria) incompatível com a
+  administração de uma sociedade envolvida em cessões bilionárias, indício de administração de fachada.'
+added:
+  people: 4
+  organizations: 1
+  events: 0
+  documents: 5
+  relationships: 0
+  sources: 0
+  evidence: 4
+updated_relationships: 0
+corrections:
+- 'evt-2024-01-16-contrato-de-131-milhoes-com-o-escritorio e doc-2024-01-16-contrato-master-barci-de-moraes
+  já descreviam Angelo Ribeiro da Silva como signatário, mas não o incluíam em participant_ids/
+  related_entity_ids — corrigido.'
+- 'evt-2025-11-28-trf1-solta-vorcaro-e-executivos descrevia a extensão do habeas corpus a Alberto Félix de
+  Oliveira e Angelo Ribeiro da Silva, mas só listava três dos cinco soltos em participant_ids — corrigido,
+  incluindo também Alberto Félix (id já existente).'
+author: orquestrador
+affected_ids:
+- angelo-ribeiro-da-silva
+- the-pay-solucoes-de-pagamentos
+- priscila-franca-parigine
+- roberto-fernandes-de-oliveira-filho
+- banco-master
+- daniel-vorcaro
+- luiz-bull
+- alberto-felix-oliveira
+- augusto-lima
+- banco-central-do-brasil
+- banco-de-brasilia-brb
+reason: Leitura direta, por equipes de investigação em paralelo, do IPL 2025.0087917 trasladado ao STF —
+  material novo obtido por Rafael, ainda não minerado pelo acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

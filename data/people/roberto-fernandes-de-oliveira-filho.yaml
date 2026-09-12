@@ -1,0 +1,29 @@
+id: roberto-fernandes-de-oliveira-filho
+kind: person
+category: other
+name: Roberto Fernandes de Oliveira Filho
+role: Ex-sócio-administrador da The-Pay Soluções de Pagamentos
+positions:
+- title: Sócio-administrador (100%)
+  organization_id: the-pay-solucoes-de-pagamentos
+  source_ids:
+  - src-stf-inq5026-ipl1096304-completo
+summary: Foi sócio-administrador da The-Pay Soluções de Pagamentos, com 100% de participação, de 08/05/2020
+  a 05/09/2024 — período que cobre o início da originação de crédito consignado depois cedido ao BRB via
+  Banco Master. Nessa data, o controle passou a uma holding identificada de forma inconsistente no processo
+  (Sirius/Merope Participações S.A.), com novos administradores.
+why_in_novelo: Foi o controlador formal da The-Pay durante o período em que a empresa se tornou originadora
+  de créditos hoje sob escrutínio na relação Master-BRB.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele localizada.
+open_questions:
+- Não localizada, nos documentos lidos até agora, qualquer conexão direta entre ele e o Banco Master ou
+  seus dirigentes, além da relação comercial de originação de créditos que a The-Pay mantinha.
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

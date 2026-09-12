@@ -1,0 +1,42 @@
+id: angelo-ribeiro-da-silva
+kind: person
+name: Angelo Ribeiro da Silva
+aliases:
+- Angelo Antonio Ribeiro da Silva
+category: executive
+role: Diretor do Banco Master desde 2017
+positions:
+- title: Diretor
+  organization_id: banco-master
+  source_ids:
+  - src-stf-inq5026-ipl1096304-completo
+summary: 'Diretor do Banco Master desde 07/07/2017 (Receita Federal). Assinou, ao lado de Daniel Vorcaro,
+  o contrato de R$ 3 milhões líquidos mensais com o escritório Barci de Moraes (16/01/2024) e, ao lado de
+  Luiz Bull, a resposta do Master ao Banco Central sobre a recompra de carteiras originadas pela The-Pay
+  Soluções de Pagamentos (25/03/2025). Foi solto da prisão preventiva pelo TRF-1 em 28/11/2025, junto com
+  Vorcaro, Augusto Lima, Luiz Bull e Alberto Félix de Oliveira. Tem histórico sancionador prévio e distinto
+  do caso Master: em processo administrativo da CVM concluído em 2022 (PAS 19957.006441/2021-87 + PA
+  19957.010180/2022-81), por manipulação de preços do ativo CARE11 enquanto operava pelo Banco Máxima, foi
+  identificado como responsável pelas ordens — a decisão inclui trechos de gravações telefônicas entre ele
+  e operadores de mesa, obtidas pela BSM, que a CVM cita como evidência de coordenação de preço ("dá uma
+  protegida no papel", "pra não cair"). Firmou termo de compromisso aceito pelo Comitê em 13/09/2022, com
+  pagamento de R$ 736 mil (o Banco Máxima pagou R$ 2,208 milhões pelo mesmo processo).'
+why_in_novelo: É diretor do Banco Master desde 2017, signatário de atos centrais da defesa institucional
+  do grupo (o contrato com o escritório Barci de Moraes, a resposta ao Banco Central sobre a The-Pay), e
+  tem histórico sancionador prévio da CVM por manipulação de preços, anterior e distinto do caso Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
+open_questions:
+- Não confirmado se é ou foi diretor estatutário do Banco Master ou ocupa função executiva não estatutária.
+- O termo de compromisso da CVM de 2022 é instrumento de autocomposição, não confissão de culpa — não
+  encontrada, até esta data, qualquer conexão documental entre esse episódio (CARE11, Banco Máxima) e a
+  investigação atual da Operação Compliance Zero.
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+- src-migalhas-2025-11-28-trf1-solta-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

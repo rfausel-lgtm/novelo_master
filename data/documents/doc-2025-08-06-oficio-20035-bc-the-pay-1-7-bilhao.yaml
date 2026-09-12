@@ -1,0 +1,28 @@
+id: doc-2025-08-06-oficio-20035-bc-the-pay-1-7-bilhao
+kind: document
+title: Ofício 20035/2025-BCB/DESUP — o Banco Central detalha a recompra de carteiras da The-Pay
+doc_type: letter
+date: '2025-08-06'
+date_precision: day
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+summary: 'Ofício do Banco Central ao MPF, assinado por Belline Santana, informando que em 12/02/2025 o
+  Banco Master recomprou carteiras de crédito consignado cedidas ao BRB em 20 e 24/12/2024, originadas pela
+  The-Pay Soluções de Pagamentos Ltda, no valor de aproximadamente R$ 1,7 bilhão — motivadas por reclamações
+  de titulares que negavam conhecer as operações. O mesmo ofício registra que operações de consignado
+  originadas pelo próprio Banco Master, e não por terceiros, historicamente não apresentaram indícios de
+  irregularidade.'
+is_official: true
+related_entity_ids:
+- banco-central-do-brasil
+- banco-master
+- banco-de-brasilia-brb
+- the-pay-solucoes-de-pagamentos
+issuer_id: belline-santana
+issuer: Belline Santana, Banco Central do Brasil (DESUP)
+reference: Ofício 20035/2025-BCB/DESUP
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

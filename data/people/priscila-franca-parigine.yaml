@@ -1,0 +1,34 @@
+id: priscila-franca-parigine
+kind: person
+name: Priscila Franca Parigine
+category: other
+role: Sócia-administradora e representante legal formal da The-Pay Soluções de Pagamentos
+positions:
+- title: Sócia-administradora
+  organization_id: the-pay-solucoes-de-pagamentos
+  source_ids:
+  - src-stf-inq5026-ipl1096304-completo
+summary: 'Assumiu formalmente, em 28/04/2025, a representação legal da The-Pay Soluções de Pagamentos —
+  empresa que originou carteiras de crédito consignado cedidas ao BRB e depois recompradas pelo Master em
+  meio a divergência de valores entre R$ 303 milhões e R$ 1,7 bilhão. O despacho do Ministério Público
+  Federal que fundamenta o IPL 2025.0087917 registra que ela tem vínculo empregatício atual como atendente
+  de padaria/lanchonete, com remuneração incompatível com a administração de uma sociedade envolvida em
+  cessões bilionárias — indício, apontado pelo próprio MPF, de que ela ocuparia formalmente o cargo sem
+  exercer controle efetivo sobre a empresa.'
+why_in_novelo: É apontada pelo Ministério Público Federal como possível administradora de fachada de uma
+  das empresas usadas na relação Master-BRB — não há, nos documentos lidos, qualquer alegação de que ela
+  tenha atuado por vontade própria ou tivesse conhecimento do esquema mais amplo.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dela localizada.
+open_questions:
+- O despacho do MPF aponta a incompatibilidade entre sua ocupação e o cargo formal como indício de
+  administração de fachada, mas não afirma — nem a equipe encontrou em outra fonte — que ela soubesse do
+  uso da empresa ou tivesse qualquer participação consciente.
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

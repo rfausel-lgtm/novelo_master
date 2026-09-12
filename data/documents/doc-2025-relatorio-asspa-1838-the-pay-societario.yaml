@@ -1,0 +1,27 @@
+id: doc-2025-relatorio-asspa-1838-the-pay-societario
+kind: document
+title: Relatório de Pesquisa 1838/2025 (ASSPA/MPF) — quadro societário da The-Pay
+doc_type: official_report
+date: '2025'
+date_precision: year
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+summary: 'Pesquisa societária da Assessoria de Pesquisa e Análise do MPF sobre a The-Pay Soluções de
+  Pagamentos (nome fantasia "Privilege", CNPJ 17.780.249/0001-60): Roberto Fernandes de Oliveira Filho como
+  sócio-administrador com 100% de participação de 08/05/2020 a 05/09/2024; nessa data, o controle passou a
+  uma holding identificada de forma inconsistente no próprio documento (ora "Sirius Participações S.A.",
+  ora "Merope Participações S.A.", mesmo CNPJ 50.618.350/0001-94) e a novos administradores — Gustavo Franca
+  Pianosi (ou Pianucci, grafia inconsistente), Pedro Vinicius Santana e Priscila Franca Parigine, esta
+  assumindo formalmente a representação em 28/04/2025.'
+is_official: true
+related_entity_ids:
+- the-pay-solucoes-de-pagamentos
+- roberto-fernandes-de-oliveira-filho
+- priscila-franca-parigine
+issuer: Assessoria de Pesquisa e Análise do Ministério Público Federal (ASSPA/MPF)
+reference: Relatório de Pesquisa 1838/2025
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
