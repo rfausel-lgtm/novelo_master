@@ -1,0 +1,30 @@
+id: rev-2026-09-12-lote-226-os-numeros-de-processo-da-linha-rondoniense
+kind: revision
+date: '2026-09-12'
+title: 'Lote 226 — os números de processo que faltavam para a linha investigativa de Rondônia'
+summary: 'O acervo já registrava, com cautela adversarial extensa, que existe uma linha investigativa
+  federal em Rondônia contra Daniel Vorcaro desde janeiro de 2019 — mas sem nenhum número de processo
+  confirmado por documento primário. Um relatório da Assessoria de Pesquisa do MPF, lido dentro do IPL
+  2025.0087917, traz os primeiros: indiciamento por organização criminosa em Vilhena/RO (07/05/2020), e três
+  processos entre 2020 e 2022 — um sequestro de bens com 19 corréus, um inquérito policial de 2021 e um
+  recurso de 2022, ambos em Ji-Paraná. Não resolve a alegação específica, ainda não confirmada, de uma
+  prisão preventiva decretada em 29/10/2019 — são processos de anos e natureza diferentes —, mas dá lastro
+  documental primário, pela primeira vez, à existência real da linha investigativa.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 0
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- daniel-vorcaro
+reason: Leitura direta, por equipes de investigação em paralelo, do IPL 2025.0087917 trasladado ao STF —
+  material novo obtido por Rafael, ainda não minerado pelo acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

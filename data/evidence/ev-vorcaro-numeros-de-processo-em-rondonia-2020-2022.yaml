@@ -1,0 +1,26 @@
+id: ev-vorcaro-numeros-de-processo-em-rondonia-2020-2022
+kind: evidence
+classification: D
+proposition: 'Daniel Vorcaro foi indiciado em 07/05/2020 por organização criminosa em inquérito conduzido
+  pela Polícia Federal em Vilhena/RO, e consta como parte em três processos federais em Rondônia entre
+  2020 e 2022 — um sequestro de bens (28/07/2020, processo 1009187-68.2020.4.01.4100, 19 corréus, em grau
+  de recurso), um inquérito policial de 2021 na SSJ de Ji-Paraná (processo 1001403-03.2021.4.01.4101,
+  suspenso) e um recurso em sentido estrito de 2022, também em Ji-Paraná (processo 1004425-35.2022.4.01.4101,
+  suspenso). São os primeiros números de processo concretos já confirmados por documento primário para a
+  linha investigativa rondoniense contra ele.'
+document_ids:
+- doc-2025-relatorio-asspa-1004-vorcaro-rondonia
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+date: '2025-04-28'
+notes: Não confirma nem infirma a alegação específica, ainda não verificada, de uma prisão preventiva
+  decretada em 29/10/2019 em Ji-Paraná (ver ev-jiparana-2019-verificacao-nao-confirmada) — são processos de
+  anos diferentes (2020-2022) e sobre organização criminosa, não a medida cautelar de 2019 especificamente.
+  Reforça, com lastro documental agora primário, a conclusão já publicada de que existe linha investigativa
+  federal real contra ele em Rondônia (ver ev-linha-investigativa-rondonia-vorcaro), sem resolver a data e
+  a natureza exatas do episódio de outubro de 2019.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

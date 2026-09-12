@@ -28,8 +28,12 @@ source_ids:
 attributed_to: Documento de parte protocolado na CPI do Crime Organizado, com verificação posterior da
   equipe que confirmou parte e não corroborou outros pontos
 date: '2019-01-23'
+notes: 'Reforço de 12/09/2026: relatório da ASSPA/MPF (ver ev-vorcaro-numeros-de-processo-em-rondonia-2020-2022)
+  confirma, por documento primário, números de processo concretos da linha rondoniense — indiciamento por
+  organização criminosa em Vilhena/RO (07/05/2020) e três processos em Ji-Paraná/2020-2022 —, mas de anos e
+  natureza diferentes da alegação específica da prisão preventiva de 29/10/2019, que segue não confirmada.'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-12'
