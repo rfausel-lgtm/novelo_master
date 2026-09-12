@@ -1,0 +1,28 @@
+id: doc-2025-12-05-decisao-gimenez-suspende-remete-stf
+kind: document
+title: Decisão de Décio Gabriel Gimenez suspendendo a apreciação do pedido de prisão preventiva de Vorcaro
+doc_type: judicial_decision
+date: '2025-12-05'
+date_precision: day
+source_ids:
+- src-stf-pet15198-peca012-pedido-prisao-preventiva-5009071
+summary: O juiz federal Décio Gabriel Gimenez suspende a apreciação do Pedido de Prisão Preventiva n.
+  5009071-26.2025.4.03.6181 "em cumprimento ao determinado pelo STF na Reclamação nº 88.121-DF", até
+  definição do juízo competente para atuar como juiz de garantias — citando, como fonte dessa decisão do
+  STF, reportagem do Poder360, não comunicação institucional direta. O MPF, em manifestação final de
+  23/12/2025, reconhece "ausência de conexão entre as investigações" mas pede a remessa vinculada à PET
+  15.198 apenas por cautela de sigilo.
+is_official: true
+related_entity_ids:
+- decio-gabriel-gimenez
+- dias-toffoli
+- daniel-vorcaro
+- supremo-tribunal-federal
+issuer_id: decio-gabriel-gimenez
+issuer: Décio Gabriel Gimenez, juiz federal da 8ª Vara Criminal Federal de São Paulo
+reference: Pedido de Prisão Preventiva n. 5009071-26.2025.4.03.6181
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

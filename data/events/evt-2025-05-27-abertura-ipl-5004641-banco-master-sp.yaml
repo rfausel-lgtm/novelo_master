@@ -1,0 +1,36 @@
+id: evt-2025-05-27-abertura-ipl-5004641-banco-master-sp
+kind: event
+title: PF de São Paulo abre inquérito sobre o Banco Master a partir de denúncia anônima — origem distinta
+  da Compliance Zero
+event_type: investigation_step
+date: '2025-05-27'
+date_precision: day
+participant_ids:
+- daniel-penido-de-britto
+- daniel-vorcaro
+- benjamim-botelho-de-almeida
+- banco-master
+- policia-federal
+description: 'O Delegado Daniel Penido de Britto (DELECOR/DRPJ/SR/PF/SP) instaurou o IPL
+  5004641-31.2025.4.03.6181 a partir de denúncia-crime anônima recebida por e-mail institucional da PF em
+  um PDF intitulado "INFORMAÇÕES BANCO MASTER" — quase dois meses antes da notícia de fato do MPF sobre a
+  compra do Master pelo BRB (16/07/2024) que o acervo já documentava como gênese da Operação Compliance
+  Zero. É uma segunda linha de apuração sobre o Banco Master, autônoma e mais antiga enquanto operação
+  nomeada, tendo como focos centrais Daniel Vorcaro e Benjamim Botelho de Almeida (Foco DTVM, atual Sefer
+  Investimentos). O próprio Ministério Público Federal, em manifestação final de 23/12/2025, reconheceu
+  "ausência de conexão entre as investigações", pedindo a vinculação processual à PET 15.198 apenas por
+  cautela de preservação de sigilo, não por mérito de conexão estabelecido.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-ipl-5004641-segunda-linha-investigativa-distinta-compliance-zero
+source_ids:
+- src-stf-pet15198-peca013-ipl-5004641-completo
+document_ids:
+- doc-2025-05-27-portaria-ipl-5004641-banco-master
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

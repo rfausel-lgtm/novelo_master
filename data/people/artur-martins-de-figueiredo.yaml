@@ -21,7 +21,15 @@ summary: Identidade ancorada pelo CPF parcial 073.813.338-80, consistente em tr�
   ele NÃO consta na lista equivalente da liquidação da Banvox Distribuidora. Os dados disponíveis não
   permitem concluir com segurança se seu papel na Banvox é de diretor executivo ativo ou de posição mais
   formal/nominal dentro de uma estrutura de planejamento patrimonial — resultado inconclusivo, não 'não
-  localizado'.
+  localizado'. ACHADO NOVO (lote 229) — o mesmo CPF aparece como alvo de quebra de sigilo no Pedido de
+  Prisão Preventiva de Daniel Vorcaro (5009071-26.2025.4.03.6181), no qual a PF o descreve como
+  "responsável técnico pela execução das movimentações e formalizações documentais" do grupo Vorcaro —
+  incluindo pedido de intervenção junto a auditor do fundo Amazonita para evitar impacto negativo no
+  balanço do Banco Master. É alegação da autoridade policial, não fato provado. O mesmo processo anexa,
+  como prova documental, o PAS CVM 19957.008143/2018-26 (debêntures EBPH), no qual ele foi absolvido
+  (20/12/2023), como diretor responsável da Planner Corretora, de suposta infração ao dever de fiscalização
+  — antecedente regulatório que já o ligava ao mesmo círculo profissional (Planner/Quadrado) antes da
+  criação da Banvox.
 why_in_novelo: É diretor, ao lado de Maurício Quadrado, tanto da Trustee Holding Financeira quanto da
   Banvox Holding Financeira — mas entrou na Trustee Holding antes de Quadrado (2019 vs. 2022), revisando
   a hipótese inicial do acervo de um vínculo 'recente e específico à Banvox' para um vínculo profissional
@@ -46,6 +54,7 @@ source_ids:
 - src-consultasocio-2026-artur-figueiredo-trustee-holding
 - src-fnetb3-2023-06-01-documento-472804-figueiredo-diretor-zion
 - src-iclnoticias-2026-09-03-bc-liquida-distribuidoras-titulos
+- src-stf-pet15198-peca012-pedido-prisao-preventiva-5009071
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'

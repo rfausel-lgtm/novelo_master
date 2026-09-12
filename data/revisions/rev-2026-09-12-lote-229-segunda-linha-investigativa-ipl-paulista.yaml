@@ -1,0 +1,51 @@
+id: rev-2026-09-12-lote-229-segunda-linha-investigativa-ipl-paulista
+kind: revision
+date: '2026-09-12'
+title: 'Lote 229 — a segunda linha investigativa sobre o Master: o IPL paulista de maio de 2025, e a
+  prisão preventiva de Vorcaro que nunca foi decidida'
+summary: 'Leitura das peças 12 e 13 da PET 15.198 — o traslado quase completo de um Inquérito Policial
+  paulista (5004641-31.2025.4.03.6181) e do Pedido de Prisão Preventiva de Daniel Vorcaro dele derivado
+  (5009071-26.2025.4.03.6181). O IPL nasceu de denúncia anônima em 27/05/2025, quase dois meses antes da
+  notícia de fato que originou a Operação Compliance Zero — e o próprio MPF reconhece, em manifestação
+  final, "ausência de conexão entre as investigações", pedindo vinculação à PET 15.198 apenas por cautela
+  de sigilo. O pedido de prisão preventiva de Vorcaro nunca foi decidido no mérito: foi suspenso por ordem
+  do STF em 05/12/2025. Três registros existentes ganham lastro documental novo: o reaproveitamento de
+  perícias da Operação Fundo Fake (upgrade de alegação de imprensa para documental), uma transferência de
+  R$ 9 milhões a Henrique Vorcaro anterior a todo o resto do seu perfil, e a hipótese de Nelson Tanure como
+  "sócio oculto" antedatada em oito meses. Artur Martins de Figueiredo ganha uma nova alegação policial
+  (papel de "operador técnico" do grupo Vorcaro) e um antecedente regulatório (absolvição no PAS CVM das
+  debêntures EBPH).'
+added:
+  people: 2
+  organizations: 0
+  events: 1
+  documents: 2
+  relationships: 0
+  sources: 2
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'ev-pf-recicla-pericias-da-fundo-fake-no-inquerito-master: upgrade de classificação A para D — o
+  reaproveitamento de perícias da Fundo Fake agora está confirmado por documento primário (o próprio IPL
+  paulista), não apenas por reportagem do Metrópoles.'
+- 'henrique-vorcaro: nova alegação policial (transferência de R$ 9 milhões via análise de FIDCs),
+  anterior a todo o restante do perfil dele no acervo.'
+- 'nelson-tanure: a hipótese de "sócio oculto" antedatada para maio de 2025 (IPJ nº 90/2025-PF), cerca de
+  oito meses antes da busca pessoal do STF já registrada.'
+- 'artur-martins-de-figueiredo: nova alegação policial (papel de "operador técnico" das movimentações do
+  grupo Vorcaro) e novo antecedente regulatório (absolvição no PAS CVM EBPH, 2023).'
+author: orquestrador
+affected_ids:
+- decio-gabriel-gimenez
+- daniel-penido-de-britto
+- daniel-vorcaro
+- benjamim-botelho-de-almeida
+- henrique-vorcaro
+- nelson-tanure
+- artur-martins-de-figueiredo
+- banco-master
+reason: Leitura direta, por equipes de investigação em paralelo, das peças 12 e 13 da PET 15.198/DF —
+  material novo obtido por Rafael via peticionamento eletrônico do STF, ainda não minerado pelo acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

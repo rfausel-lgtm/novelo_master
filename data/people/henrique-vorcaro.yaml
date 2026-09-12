@@ -29,7 +29,12 @@ summary: 'Pai de Daniel Vorcaro. Teve prisão preventiva decretada pelo STF em 1
   Investimentos, na véspera da 3ª fase (identificado apenas como ''H'' numa mensagem de Marilson à esposa,
   decifrado por cruzamento de dados pela PF). Documentação contábil da empresa Roseno & Ribeiro Gestão
   Empresarial (de Marilson) mostra repasses da King Participações (de Mourão) que continuaram em
-  novembro/dezembro de 2025 e janeiro/fevereiro de 2026.'
+  novembro/dezembro de 2025 e janeiro/fevereiro de 2026. NOVO RETROCESSO NA LINHA DO TEMPO (lote 229): o
+  IPL paulista 5004641-31.2025.4.03.6181 — segunda linha investigativa sobre o Master, aberta em
+  27/05/2025 a partir de denúncia anônima, formalmente distinta da Compliance Zero — traz, em análise de
+  FIDCs anexada ao inquérito, o apontamento de uma transferência de R$ 9 milhões de um intermediário não
+  identificado a ele. É alegação da autoridade policial em fase de apuração, anterior a qualquer outro
+  registro do acervo sobre ele.'
 why_in_novelo: Teve prisão preventiva decretada e mantida pelo STF na 6ª fase da Operação Compliance Zero,
   sendo descrito pela Polícia Federal como operador financeiro do grupo investigado.
 cited_position:
@@ -73,6 +78,7 @@ source_ids:
 - src-stf-pet15556-edoc75-peticao-henrique-vorcaro-nega-conta-reag-09-03-2026
 - src-folha-2026-03-07-como-vorcaro-desviava-dinheiro-familiares
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+- src-stf-pet15198-peca013-ipl-5004641-completo
 full_name: Henrique Moura Vorcaro
 review_status: published
 reviewer: orquestrador

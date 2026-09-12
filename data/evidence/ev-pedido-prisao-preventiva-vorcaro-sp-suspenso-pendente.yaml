@@ -1,0 +1,24 @@
+id: ev-pedido-prisao-preventiva-vorcaro-sp-suspenso-pendente
+kind: evidence
+classification: D
+proposition: O Pedido de Prisão Preventiva n. 5009071-26.2025.4.03.6181 contra Daniel Vorcaro, representado
+  pela PF em 21/10/2025 e encampado pelo MPF em 27/10/2025, nunca foi decidido no mérito — o juízo de
+  origem determinou diligências de esclarecimento em 24/11/2025 e suspendeu integralmente a apreciação em
+  05/12/2025, por determinação do STF, remetendo a questão à PET 15.198.
+document_ids:
+- doc-2025-12-05-decisao-gimenez-suspende-remete-stf
+source_ids:
+- src-stf-pet15198-peca012-pedido-prisao-preventiva-5009071
+excerpt: 'Decisão de 24/11/2025: "À vista do exposto, previamente à apreciação dos pedidos formulados na
+  representação, DETERMINO à autoridade policial que: 1 - Esclareça o objeto, a unidade judicial em que
+  tramita atualmente e a situação dos inquéritos policiais [conexos]..."'
+date: '2025-12-05'
+notes: Nenhuma decisão posterior sobre o mérito deste pedido específico consta no traslado lido pela
+  equipe (que termina em 23/12/2025). A prisão preventiva de Vorcaro só viria a ser decretada meses
+  depois, por outro caminho processual (PET 15.556, 04/03/2026, já registrada no acervo) — este pedido
+  paulista permanece, tanto quanto se sabe pela documentação disponível, sem desfecho de mérito próprio.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

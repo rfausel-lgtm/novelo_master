@@ -1,0 +1,26 @@
+id: ev-ipl-5004641-segunda-linha-investigativa-distinta-compliance-zero
+kind: evidence
+classification: D
+proposition: O IPL 5004641-31.2025.4.03.6181 (8ª Vara Criminal Federal de São Paulo) nasceu de denúncia
+  anônima recebida em 27/05/2025, diretamente sobre o Banco Master — anterior e, segundo reconhecimento
+  expresso do próprio MPF, sem conexão estabelecida com a origem da Operação Compliance Zero (a notícia de
+  fato do MPF de 16/07/2024 sobre a compra do Master pelo BRB).
+document_ids:
+- doc-2025-05-27-portaria-ipl-5004641-banco-master
+- doc-2025-12-05-decisao-gimenez-suspende-remete-stf
+source_ids:
+- src-stf-pet15198-peca013-ipl-5004641-completo
+excerpt: 'Manifestação final do MPF, 23/12/2025: "não obstante a constatação de ausência de conexão entre
+  as investigações, consoante explicado anteriormente" — pedindo, ainda assim, que a remessa ao STF se dê
+  "por vinculação com a PET nº 15198", para preservar o sigilo da autuação.'
+date: '2025-12-23'
+notes: 'As duas frentes se uniram processualmente sob supervisão do STF (por determinação de Dias Toffoli
+  na Rcl 88.121, diante de risco de foro por prerrogativa de função), mas o próprio juízo de origem e o
+  MPF registram que a conexão substantiva entre elas não estava estabelecida — apenas a cautela
+  institucional de sigilo. Não tratar como uma frente unificada por mérito, e sim como duas origens
+  documentais distintas que passaram a tramitar sob o mesmo guarda-chuva processual.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

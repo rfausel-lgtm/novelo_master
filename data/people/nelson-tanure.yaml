@@ -18,7 +18,12 @@ summary: 'Empresário, formado em Administração pela UFBA, com passagem pela U
   Tanure mantém a negativa de qualquer vínculo societário com o Master ou suas gestoras. A leitura integral
   da decisão de 06/01/2026 precisa a natureza da imputação: a expressão ''sócio oculto'' está dentro da
   transcrição da manifestação do procurador-geral, que reporta o que a autoridade policial afirmou, e
-  o relator consigna que sua cognição, nessa fase, é necessariamente limitada. No caso Master ele é investigado,
+  o relator consigna que sua cognição, nessa fase, é necessariamente limitada.
+  RETROCESSO NA LINHA DO TEMPO (lote 229): a hipótese já constava, quase oito meses antes, da IPJ nº
+  90/2025 da Polícia Federal de São Paulo — anexa a um inquérito sobre o Master aberto em maio de 2025,
+  formalmente distinto da Compliance Zero — que o descreve como "sócio oculto do Banco Master, com
+  influência decisiva sobre fundos, securitizadoras e estruturas societárias". Mesma natureza de
+  atribuição: alegação da autoridade policial, não fato apurado. No caso Master ele é investigado,
   alvo de busca pessoal e de bloqueio de bens — não preso, não indiciado, não denunciado. É réu em ação
   penal distinta, sobre uso de informação privilegiada na aquisição da Upcon pela Gafisa, cuja conexão
   com o caso Master o próprio relator rejeitou em 27/01/2026.'
@@ -103,6 +108,7 @@ source_ids:
 - src-stf-decisao-toffoli-2026-01-13-busca-tanure
 - src-timesbrasil-2026-defesa-tanure-nega-vinculo
 - src-verificacao-direta-equipe-djen-processo-gafisa-upcon
+- src-stf-pet15198-peca013-ipl-5004641-completo
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

@@ -1,0 +1,28 @@
+id: decio-gabriel-gimenez
+kind: person
+name: Décio Gabriel Gimenez
+category: judge
+role: Juiz federal da 8ª Vara Criminal Federal de São Paulo
+summary: Conduziu, em primeiro grau, o Inquérito Policial n. 5004641-31.2025.4.03.6181 e o Pedido de
+  Prisão Preventiva n. 5009071-26.2025.4.03.6181 contra Daniel Vorcaro — a linha investigativa paulista
+  sobre o Banco Master aberta a partir de denúncia anônima em maio de 2025. Em 24/11/2025, não decidiu o
+  mérito do pedido de prisão preventiva, determinando antes diligências de esclarecimento à Polícia
+  Federal sobre a relação com outros inquéritos conexos. Em 05/12/2025, suspendeu integralmente a
+  apreciação do pedido, em cumprimento a determinação do STF (Dias Toffoli, Reclamação 88.121) de que
+  novas diligências em investigações conexas fossem previamente submetidas àquela Corte, até definição do
+  juízo competente.
+why_in_novelo: É o juiz de primeiro grau responsável pelo processo que, suspenso por ordem do STF, foi
+  remetido e vinculado à PET 15.198 — sem que o mérito da prisão preventiva de Daniel Vorcaro tenha sido
+  decidido até o fim do que consta nos autos trasladados.
+cited_position:
+- kind: not_located
+  summary: Atuou em capacidade estritamente jurisdicional; nenhuma declaração pública dele fora dos autos
+    foi localizada.
+source_ids:
+- src-stf-pet15198-peca012-pedido-prisao-preventiva-5009071
+- src-stf-pet15198-peca013-ipl-5004641-completo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
