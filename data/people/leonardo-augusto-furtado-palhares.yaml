@@ -71,7 +71,11 @@ open_questions:
   Vorcaro.
 - 'Convocado pela CPI do Crime Organizado para 01/04/2026, nunca depôs: a reunião foi cancelada sem que
   a presidência da comissão divulgasse o motivo, e o relatório final da CPI foi rejeitado duas semanas
-  depois.'
+  depois. Dado novo: em 27/03/2026, o STF já havia deferido seu pedido de salvo-conduto, tornando
+  facultativo o comparecimento — mesmo tratamento dado a outros convocados da mesma CPI. Isso explica por
+  que ele não estava obrigado a comparecer, mas não esclarece se foi essa facultatividade (e sua opção por
+  não ir) ou o cancelamento da própria reunião que efetivamente impediu a oitiva — as duas explicações não
+  se excluem, mas nenhuma fonte cruza os dois fatos diretamente.'
 - Não foi localizada denúncia formal da PGR contra ele até a data desta apuração, nem decisão posterior
   que revogue, substitua ou agrave suas cautelares — a presunção razoável é que sigam vigentes, mas isso
   não está confirmado documentalmente.
@@ -95,6 +99,7 @@ source_ids:
 - src-ndmais-2026-belline-versao-contratos-varajo
 - src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
 - src-stf-pet15556-edoc390-peticao-palhares-revisao-cautelares-12-08-2026
+- src-stf-inq5026-decisao-27-03-2026-palhares-facultativo-cpi
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

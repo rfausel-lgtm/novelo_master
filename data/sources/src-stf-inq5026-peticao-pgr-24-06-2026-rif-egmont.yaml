@@ -1,0 +1,34 @@
+id: src-stf-inq5026-peticao-pgr-24-06-2026-rif-egmont
+kind: source
+title: Petição do PGR juntando RIF do COAF com informações de autoridade estrangeira via Rede de Egmont
+publisher: Ministério Público Federal — Procuradoria-Geral da República
+author: Paulo Gonet Branco
+publication_date: '2026-06-23'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347
+source_type: official_prosecutor
+summary: 'O PGR descreve o INQ 5.026 como apurando "crimes contra o sistema financeiro nacional,
+  corrupção ativa e passiva, organização criminosa, lavagem de dinheiro, violação de sigilo funcional,
+  fraude processual e obstrução de justiça", praticados por estrutura liderada por Daniel Vorcaro
+  organizada em cinco núcleos: financeiro; corrupção institucional (cooptação de servidores do Banco
+  Central); ocultação patrimonial e lavagem via interpostas pessoas; intimidação/ações violentas/vigilância
+  de adversários, jornalistas e autoridades ("A Turma"); e controle digital/ataques cibernéticos ("Os
+  Meninos"). Requer a juntada do RIF nº 143651.3.9787.17885, elaborado pelo COAF em 30/04/2026 com
+  informações complementares ao RIF 140953, recebidas de autoridade estrangeira via Rede de Egmont, sobre
+  operações financeiras suspeitas de Vorcaro.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
+  certificado ou credencial do agente). "A Turma" e "Os Meninos" já são extensamente documentados no
+  acervo por outras vias; o que esta peça acrescenta é (i) a caracterização oficial do PGR em cinco
+  núcleos, numa única peça, e (ii) a cooperação internacional via Rede de Egmont — ainda não registrada.
+  O conteúdo do próprio RIF (anexo em CD-R) não foi obtido, só a petição que o acompanha. Código de
+  autenticação/senha do rodapé de cada página nunca reproduzido no acervo.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

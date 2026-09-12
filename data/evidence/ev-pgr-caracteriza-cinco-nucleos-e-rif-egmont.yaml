@@ -1,0 +1,22 @@
+id: ev-pgr-caracteriza-cinco-nucleos-e-rif-egmont
+kind: evidence
+classification: D
+proposition: 'O PGR caracteriza formalmente a estrutura liderada por Daniel Vorcaro no INQ 5.026 em
+  cinco núcleos — financeiro, corrupção institucional, ocultação patrimonial/lavagem, intimidação ("A
+  Turma") e controle digital/cibernético ("Os Meninos") —, e requer a juntada de um RIF do COAF que
+  reúne, via Rede de Egmont, informações de autoridade estrangeira sobre operações financeiras suspeitas
+  de Vorcaro.'
+document_ids:
+- doc-2026-06-23-peticao-pgr-inq5026-rif-egmont
+source_ids:
+- src-stf-inq5026-peticao-pgr-24-06-2026-rif-egmont
+date: '2026-06-23'
+notes: A existência de "A Turma" e "Os Meninos" já é extensamente documentada no acervo por outras vias;
+  o valor desta peça é a caracterização oficial e unificada do PGR em cinco núcleos, e o primeiro registro
+  de cooperação financeira internacional (Rede de Egmont) no caso. O conteúdo do próprio RIF (em CD-R,
+  anexo à petição) não foi obtido — só a petição que requer sua juntada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

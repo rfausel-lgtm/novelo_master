@@ -1,0 +1,24 @@
+id: doc-2026-03-03-decisao-inq5026-vorcaro-facultativo-cpi
+kind: document
+title: Decisão que converte a convocação de Vorcaro à CPI do Crime Organizado em facultativa
+doc_type: judicial_decision
+date: '2026-03-03'
+date_precision: day
+source_ids:
+- src-stf-inq5026-decisao-03-03-2026-vorcaro-facultativo-cpi
+summary: 'Defere o pleito formulado por Daniel Vorcaro na Petição 23612/2026 (e-Docs. 434), "para afastar
+  a obrigatoriedade de comparecimento, transmudando-a em facultatividade" à sessão da CPI do Crime
+  Organizado de 04/03/2026 — mesma fundamentação (nemo tenetur se detegere, ADPFs 395/444) já aplicada
+  a outros investigados convocados pela CPI.'
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- andre-mendonca
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: INQ 5.026/DF, Petição 23612/2026, e-Docs. 434
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

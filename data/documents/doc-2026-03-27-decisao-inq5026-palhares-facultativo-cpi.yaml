@@ -1,0 +1,25 @@
+id: doc-2026-03-27-decisao-inq5026-palhares-facultativo-cpi
+kind: document
+title: Decisão que converte a convocação de Leonardo Palhares à CPI do Crime Organizado em facultativa
+doc_type: judicial_decision
+date: '2026-03-27'
+date_precision: day
+source_ids:
+- src-stf-inq5026-decisao-27-03-2026-palhares-facultativo-cpi
+summary: 'Defere o pleito de Leonardo Augusto Furtado Palhares (Petição 34376/2026, e-Doc. 543), "para
+  afastar a obrigatoriedade de comparecimento, transmudando-a em facultatividade" à CPI do Crime
+  Organizado — mesma fundamentação (nemo tenetur se detegere, ADPFs 395/444) já aplicada a outros
+  convocados. O pedido também invocava sigilo profissional de advogado (art. 7º, XIX, Lei 8.906/1994),
+  não especificamente enfrentado na fundamentação da decisão.'
+is_official: true
+related_entity_ids:
+- leonardo-augusto-furtado-palhares
+- andre-mendonca
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: INQ 5.026/DF, Petição 34376/2026, e-Doc. 543
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

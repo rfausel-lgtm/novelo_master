@@ -1,0 +1,42 @@
+id: rev-2026-09-12-lote-245-mapeamento-completo-e-vorcaro-tambem-na-cpi
+kind: revision
+date: '2026-09-12'
+title: 'Lote 245 — mapeamento completo do INQ 5.026, Vorcaro também facultativo na CPI, e o PGR nomeia
+  cinco núcleos'
+summary: 'Concluído o mapeamento de metadado (id numérico de peça) das 949 peças do INQ 5.026 via
+  peticionamento.stf.jus.br — cobertura completa de 22/12/2025 a 10/09/2026. Da leitura desta rodada:
+  upgrade de classe A para D da evidência sobre a facultatividade de Vorcaro na CPI do Crime Organizado
+  (antes só conhecida via Agência Senado, agora com a decisão primária de 03/03/2026); mesmo tratamento
+  concedido a Leonardo Palhares em 27/03/2026, que também invocou sigilo profissional de advogado — dado
+  novo que se conecta a uma pendência já registrada sobre sua não-comparecença à CPI; e uma petição do PGR
+  de 23/06/2026 que caracteriza formalmente a estrutura de Vorcaro em cinco núcleos e introduz o primeiro
+  registro de cooperação financeira internacional via Rede de Egmont. Cinco outras peças lidas nesta
+  rodada (decisões sobre Roberto Campos Neto, Alberto Felix de Oliveira Neto ×2, e um despacho de acesso
+  a dados telemáticos) confirmaram, por segunda via, conteúdo já registrado no acervo — sem gerar entradas
+  novas.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 4
+  relationships: 0
+  sources: 4
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'ev-mendonca-torna-facultativo-comparecimento-vorcaro-cpi: upgrade de classe A para D — localizada a
+  decisão primária de 03/03/2026, antes só conhecida via cobertura da Agência Senado.'
+- 'leonardo-augusto-furtado-palhares: nova fonte sobre seu próprio salvo-conduto na CPI (27/03/2026),
+  conectada à pendência já registrada sobre sua não-comparecença à sessão de 01/04/2026.'
+author: orquestrador
+affected_ids:
+- daniel-vorcaro
+- andre-mendonca
+- leonardo-augusto-furtado-palhares
+- paulo-gonet
+reason: Conclusão da captura de peças do INQ 5.026 via peticionamento.stf.jus.br (sessão autenticada pelo
+  próprio Rafael) — mapeamento de metadado das 949 peças completo; leitura priorizou as 12 "Decisão
+  Interlocutória" do docket mais um par de peças de conteúdo financeiro-institucional (PGR/RIF).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
