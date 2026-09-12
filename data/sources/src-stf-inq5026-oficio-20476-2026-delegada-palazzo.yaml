@@ -1,0 +1,27 @@
+id: src-stf-inq5026-oficio-20476-2026-delegada-palazzo
+kind: source
+title: Ofício eletrônico nº 20476/2026 do STF à Delegada Janaina Pereira Lima Palazzo
+publisher: Supremo Tribunal Federal
+author: Secretaria Judiciária do STF
+publication_date: '2026-08-28'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347
+source_type: official_court
+summary: Comunica à Delegada de Polícia Federal Janaina Pereira Lima Palazzo, da Delegacia de Inquéritos
+  Especiais (DELEINQUE/DRPJ/SR/PF/DF), os termos do despacho de 28/08/2026 sobre as informações prestadas
+  por Diogo Ilário de Araújo Oliveira, e encaminha cópia dos documentos (e-Doc. 1021-1024) sobre o estado
+  de saúde do investigado.
+notes: 'Peça distinta do despacho já registrado em src-stf-inq5026-despacho-28-08-2026-diogo-ilario-saude-investigado
+  (aquele veio da camada pública do portal; este veio via peticionamento.stf.jus.br, sessão do Rafael, já
+  autenticada por ele). Identifica pela primeira vez a autoridade policial destinatária. Código de
+  autenticação/senha do rodapé de cada página nunca reproduzido no acervo.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

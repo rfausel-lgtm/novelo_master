@@ -1,0 +1,20 @@
+id: jayme-campos
+kind: person
+category: politician
+name: Jayme Campos
+role: Senador representante do Estado de Mato Grosso
+summary: Coassinou, em 14/08/2026, ofício ao relator do INQ 5.026 pedindo especial atenção à apuração de
+  operações de crédito consignado envolvendo servidores públicos de Mato Grosso, no contexto do caso
+  Banco Master.
+why_in_novelo: Coautor de um pedido formal de senadores ao STF sobre o consignado de Mato Grosso, ligado
+  ao caso Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma outra manifestação pública dele foi localizada no corpus.
+source_ids:
+- src-stf-inq5026-oficio-senado-001-2026-mt-consignado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

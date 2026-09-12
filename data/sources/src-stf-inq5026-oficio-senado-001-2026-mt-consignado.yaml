@@ -1,0 +1,27 @@
+id: src-stf-inq5026-oficio-senado-001-2026-mt-consignado
+kind: source
+title: Ofício nº 001/2026 de senadores de Mato Grosso ao relator do INQ 5.026 sobre crédito consignado
+publisher: Senado Federal
+author: Senadores Jayme Campos, Wellington Fagundes e Carlos Fávaro
+publication_date: '2026-08-14'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347
+source_type: official_legislative
+summary: Três senadores representantes do Mato Grosso pedem ao relator do INQ 5.026 "especial atenção" à
+  apuração de fatos relacionados a operações de crédito consignado envolvendo servidores públicos do
+  Estado de Mato Grosso, no contexto do caso Banco Master — descrevendo denúncias de valores desembolsados
+  muito inferiores aos posteriormente cobrados, atingindo servidores, pequenos comerciantes e produtores
+  rurais.
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
+  certificado ou credencial do agente). Protocolada no processo em 17/08/2026, com data de 14/08/2026.
+  Código de autenticação/senha do rodapé de cada página nunca reproduzido no acervo.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

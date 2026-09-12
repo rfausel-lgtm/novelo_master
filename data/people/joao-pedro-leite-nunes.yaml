@@ -1,0 +1,26 @@
+id: joao-pedro-leite-nunes
+kind: person
+category: other
+name: João Pedro Leite Nunes
+role: Investigado no INQ 5.026 — intimado a prestar depoimento perante a Delegacia de Inquéritos Especiais
+  da Polícia Federal
+summary: Sua defesa pediu, em petição protocolada antes de 27/08/2026, acesso integral aos autos do
+  INQ 5.026 e o adiamento de uma oitiva marcada para essa data, alegando falta de acesso prévio ao
+  caderno investigativo. Em 28/08/2026, o relator julgou os dois pedidos prejudicados — o acesso já
+  havia sido concedido em 24/08/2026, e a data da oitiva já havia transcorrido.
+why_in_novelo: É o primeiro nome, entre os investigados do INQ 5.026, a aparecer por extenso em uma
+  decisão do processo — as demais peças listam todas as partes como "sob sigilo".
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele foi localizada no corpus, além da petição de sua defesa
+    citada na decisão de 28/08/2026.
+open_questions:
+- Não há, nas fontes disponíveis, indicação de qual fato investigado no INQ 5.026 o vincula ao processo,
+  nem se ele já prestou o depoimento cuja oitiva seria adiada.
+source_ids:
+- src-stf-inq5026-decisao-28-08-2026-joao-pedro-leite-nunes-pedidos-prejudicados
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

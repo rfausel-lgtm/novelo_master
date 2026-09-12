@@ -1,0 +1,22 @@
+id: doc-2026-08-28-oficio-20476-inq5026-delegada-palazzo
+kind: document
+title: Ofício eletrônico nº 20476/2026 à Delegada Janaina Pereira Lima Palazzo
+doc_type: letter
+date: '2026-08-28'
+date_precision: day
+source_ids:
+- src-stf-inq5026-oficio-20476-2026-delegada-palazzo
+summary: A Secretaria Judiciária do STF comunica à Delegada Janaina Pereira Lima Palazzo (DELEINQUE/DRPJ/SR/PF/DF)
+  os termos do despacho/decisão sobre as informações de Diogo Ilário de Araújo Oliveira, e encaminha
+  cópia dos documentos (e-Doc. 1021-1024) sobre o estado de saúde do investigado.
+is_official: true
+related_entity_ids:
+- janaina-pereira-lima-palazzo
+- diogo-ilario-de-araujo-oliveira
+issuer: Secretaria Judiciária do STF
+reference: INQ 5.026/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

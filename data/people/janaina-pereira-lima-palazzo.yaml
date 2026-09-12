@@ -1,0 +1,20 @@
+id: janaina-pereira-lima-palazzo
+kind: person
+category: police
+name: Janaina Pereira Lima Palazzo
+role: Delegada de Polícia Federal — Delegacia de Inquéritos Especiais (DELEINQUE/DRPJ/SR/PF/DF)
+summary: Destinatária, em 28/08/2026, de ofício do STF sobre o INQ 5.026 comunicando despacho relativo
+  às informações prestadas por Diogo Ilário de Araújo Oliveira e a documentos sobre o estado de saúde de
+  um investigado (e-Doc. 1021-1024).
+why_in_novelo: É a autoridade policial identificada como responsável, na Delegacia de Inquéritos
+  Especiais, pelo andamento dessa linha específica do INQ 5.026.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dela foi localizada no corpus.
+source_ids:
+- src-stf-inq5026-oficio-20476-2026-delegada-palazzo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

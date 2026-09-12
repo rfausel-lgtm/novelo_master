@@ -7,7 +7,9 @@ summary: Citado em despacho de 28/08/2026 no INQ 5.026 — a autoridade policial
   ciência de informações prestadas por ele e de documentos sobre "o estado de saúde do investigado" (e-Doc.
   1021-1024). A capa do processo lista todas as partes como "sob sigilo", e o despacho não identifica quem
   é o investigado nem qual é o papel de Diogo Ilário (médico, advogado, familiar, ou o próprio investigado
-  falando de si).
+  falando de si). O ofício nº 20476/2026 que comunica esse despacho foi endereçado à Delegada Janaina
+  Pereira Lima Palazzo, da Delegacia de Inquéritos Especiais (DELEINQUE/DRPJ/SR/PF/DF) — a autoridade
+  policial responsável por essa linha do INQ 5.026, antes não identificada.
 why_in_novelo: Nome novo no acervo, ligado a uma peça recente do INQ 5.026 sobre estado de saúde de um
   investigado não identificado — registrado por transparência, sem tentar adivinhar de quem se trata.
 cited_position:
@@ -19,6 +21,7 @@ open_questions:
   outra peça do acervo, até esta apuração, trata de questão de saúde de qualquer investigado do INQ 5.026.'
 source_ids:
 - src-stf-inq5026-despacho-28-08-2026-diogo-ilario-saude-investigado
+- src-stf-inq5026-oficio-20476-2026-delegada-palazzo
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'

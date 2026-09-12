@@ -1,0 +1,24 @@
+id: doc-2026-08-28-decisao-inq5026-joao-pedro-leite-nunes-pedidos-prejudicados
+kind: document
+title: Decisão interlocutória julgando prejudicados os pedidos de João Pedro Leite Nunes
+doc_type: judicial_decision
+date: '2026-08-28'
+date_precision: day
+source_ids:
+- src-stf-inq5026-decisao-28-08-2026-joao-pedro-leite-nunes-pedidos-prejudicados
+summary: 'A defesa alegou não ter tido acesso ao caderno investigativo e pediu (i) acesso integral aos
+  autos e (ii) adiamento de oitiva marcada para 27/08/2026. O relator invoca a Súmula Vinculante 14 mas
+  julga ambos prejudicados: o acesso já fora concedido em 24/08/2026, e a data da oitiva já havia
+  transcorrido.'
+is_official: true
+related_entity_ids:
+- joao-pedro-leite-nunes
+- andre-mendonca
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: INQ 5.026/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

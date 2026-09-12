@@ -1,0 +1,44 @@
+id: rev-2026-09-12-lote-243-prorrogacao-um-investigado-nomeado-e-o-senado-de-mt
+kind: revision
+date: '2026-09-12'
+title: 'Lote 243 — prorrogação de 60 dias, um investigado nomeado pede acesso aos autos, e senadores de
+  MT levam o consignado ao INQ 5.026'
+summary: 'Primeira mineração de peças do INQ 5.026 obtidas via peticionamento.stf.jus.br (acervo completo,
+  além da camada pública de decisões já esgotada), cobrindo o trecho mais recente do processo (14/08 a
+  10/09/2026). Achados: em 25/08/2026, a investigação foi prorrogada por 60 dias a pedido da própria PF;
+  em 28/08/2026, uma decisão nomeia pela primeira vez um investigado do INQ 5.026 fora do bloco "sob
+  sigilo" — João Pedro Leite Nunes, cuja defesa teve dois pedidos (acesso aos autos e adiamento de oitiva)
+  julgados prejudicados; o ofício que comunica outro despacho do mesmo dia identifica a delegada da PF
+  responsável pela linha de Diogo Ilário de Araújo Oliveira; e um ofício de três senadores de Mato Grosso
+  (14/08/2026) pede ao relator atenção à apuração de crédito consignado ligado ao Banco Master no Estado —
+  uma frente institucional distinta da CPI e da CAE, incorporada aos próprios autos do inquérito.'
+added:
+  people: 5
+  organizations: 0
+  events: 0
+  documents: 4
+  relationships: 0
+  sources: 4
+  evidence: 3
+updated_relationships: 0
+corrections:
+- 'diogo-ilario-de-araujo-oliveira: identificada a delegada destinatária do ofício que comunica seu
+  despacho (Janaina Pereira Lima Palazzo, DELEINQUE/DRPJ/SR/PF/DF) — identidade e papel dele seguem em
+  aberto.'
+author: orquestrador
+affected_ids:
+- joao-pedro-leite-nunes
+- janaina-pereira-lima-palazzo
+- jayme-campos
+- wellington-fagundes
+- carlos-favaro
+- diogo-ilario-de-araujo-oliveira
+- andre-mendonca
+reason: Retomada da captura de peças do INQ 5.026 via peticionamento.stf.jus.br (sessão autenticada pelo
+  próprio Rafael — usuário/senha/código por e-mail; nunca pelo agente), depois que a camada pública de
+  decisões se esgotou. Mapeamento de metadado em massa (id numérico de cada peça) confirmou 949 peças no
+  processo; a leitura desta rodada cobriu as peças mais recentes (páginas finais da tabela em ordem
+  cronológica), priorizadas sobre o meio do processo por maior chance de conteúdo ainda não registrado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
