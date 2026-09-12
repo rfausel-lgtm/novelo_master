@@ -1,0 +1,46 @@
+id: rev-2026-09-12-lote-248-o-deputado-que-levou-o-caso-ao-stf
+kind: revision
+date: '2026-09-12'
+title: 'Lote 248 — o deputado que levou a Compliance Zero ao STF, e os dados da CPMI guardados no Senado'
+summary: 'Primeira leitura, pela via do peticionamento, das decisões da Reclamação 88.121 — a ação de Daniel
+  Vorcaro que tirou a investigação da primeira instância. A liminar de 09/12/2025 revela o fundamento: a defesa
+  alegou que a PF apreendeu no endereço dele um documento de um deputado federal e omitiu o nome no termo de
+  apreensão; Toffoli suspendeu as investigações na 10ª Vara, trouxe tudo ao STF, manteve atos e constrições e deu
+  acesso aos autos ao deputado João Carlos Paolilo Bacelar Filho, "referido nos documentos apreendidos". Na
+  decisão final de 22/12/2025, a PGR descreve o documento como termo de opção de compra e venda de imóvel
+  envolvendo o deputado, e Toffoli fixa no STF a supervisão da Compliance Zero por "indícios" de que ele pode
+  estar envolvido — fundamento de competência, não imputação. Em 12/12/2025, Toffoli negou anular as quebras de
+  sigilo de Vorcaro e da Moriah Asset aprovadas pela CPMI do INSS, mas mandou os dados ficarem acautelados na
+  Presidência do Senado — a guarda que o STF desfaria em fevereiro. O deputado ganha registro próprio, e
+  resolve-se a lacuna do "parlamentar não identificado" que o acervo trazia desde a leitura do IPL.'
+added:
+  people: 1
+  organizations: 0
+  events: 0
+  documents: 3
+  relationships: 0
+  sources: 3
+  evidence: 4
+updated_relationships: 0
+corrections:
+- 'ev-juiz-1a-instancia-suspende-pf-remete-ao-stf: o parlamentar antes "não identificado" é nomeado nas decisões da Rcl 88.121.'
+- 'moriah-asset: registrada a quebra de sigilo pela CPMI do INSS e o acautelamento dos dados no Senado.'
+- 'ev-toffoli-ratifica-medidas-de-primeiro-grau-antes-das-oitivas: a decisão de 09/12/2025 citada pela PGR agora tem registro próprio.'
+author: orquestrador
+affected_ids:
+- joao-carlos-paolilo-bacelar-filho
+- daniel-vorcaro
+- dias-toffoli
+- luiz-bull
+- moriah-asset
+- cpmi-do-inss
+- paulo-gonet
+reason: Início da mineração da Rcl 88.121 via peticionamento.stf.jus.br (sessão autenticada pelo próprio Rafael),
+  depois de esgotado o conteúdo novo do INQ 5.026. O processo tem hoje 373 peças; mapeadas as 25 primeiras
+  páginas e lidas as decisões de dezembro de 2025. Ao longo desta rodada também foram lidas, sem gerar entradas,
+  uma petição de Augusto Lima pedindo revogação de cautelares (repete fatos já registrados e traz dados pessoais
+  que não entram no acervo) e anexos de 12/05/2026 do INQ 5.026 com matrículas de imóveis e extrato da Tirreno
+  (material de dossiês já documentados).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

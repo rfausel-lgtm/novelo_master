@@ -1,0 +1,28 @@
+id: doc-2025-12-09-decisao-liminar-rcl88121-remete-compliance-zero-stf
+kind: document
+title: Liminar na Rcl 88.121 que suspende a investigação de primeira instância e leva a Compliance Zero ao STF
+doc_type: judicial_decision
+date: '2025-12-09'
+date_precision: day
+source_ids:
+- src-stf-rcl88121-decisao-liminar-09-12-2025
+summary: 'Defere parcialmente a liminar "para suspender as investigações perante o Juízo Federal da 10ª Vara
+  da Seção Judiciária do Distrito Federal e as demais instâncias antecedentes, e determinar sua remessa a esta
+  Suprema Corte de toda matéria, inclusive conexa", mantendo "por ora, todas as decisões administrativas,
+  cíveis e criminais até então proferidas", inclusive as constrições sobre bens. Defere acesso ao deputado
+  federal João Carlos Paolilo Bacelar Filho, "referido nos documentos apreendidos", e oficia o Banco Central
+  e a Polícia Federal.'
+is_official: true
+related_entity_ids:
+- dias-toffoli
+- daniel-vorcaro
+- luiz-bull
+- joao-carlos-paolilo-bacelar-filho
+issuer_id: dias-toffoli
+issuer: Ministro Dias Toffoli
+reference: Rcl 88.121/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

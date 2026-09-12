@@ -22,7 +22,10 @@ summary: Ministro do STF. Segundo comunicação oficial do tribunal de 20/03/202
   de sua empresa Maridt ao fundo Arllen, ligado ao cunhado de Vorcaro, Fabiano Zettel) num pedido de afastamento
   por suspeição — pedido arquivado por Fachin em 21/02/2026, já após Toffoli ter deixado a relatoria (12/02/2026,
   substituído por André Mendonça). O episódio motivou a OAB-SP a estudar, a partir de fevereiro de 2026,
-  restrições éticas ao transporte gratuito de ministros por particulares. Como relator do INQ 5.026, em
+  restrições éticas ao transporte gratuito de ministros por particulares. Na Reclamação 88.121, ajuizada por
+  Vorcaro, suspendeu em 09/12/2025 as investigações de primeira instância e trouxe a Compliance Zero ao STF, e em
+  22/12/2025 fixou essa competência com base em indícios envolvendo o deputado federal João Carlos Bacelar,
+  mencionado em documento apreendido. Como relator do INQ 5.026, em
   janeiro de 2026 mandou reservar salas do STF para as oitivas da PF, estendeu a quebra de sigilo bancário
   aos dados consolidados do FGC e ratificou as medidas de primeiro grau; no dia em que deixou a relatoria,
   determinou que a PF enviasse ao STF, na íntegra, o conteúdo dos aparelhos apreendidos.
@@ -98,6 +101,9 @@ source_ids:
 - src-stf-inq5026-despacho-21-01-2026-toffoli-sigilo-dados-fgc
 - src-stf-inq5026-despacho-24-01-2026-toffoli-ratifica-medidas
 - src-stf-inq5026-despacho-12-02-2026-toffoli-integra-aparelhos-ao-stf
+- src-stf-rcl88121-decisao-liminar-09-12-2025
+- src-stf-rcl88121-decisao-12-12-2025-quebras-cpmi-acauteladas-senado
+- src-stf-rcl88121-decisao-final-22-12-2025
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

@@ -12,7 +12,9 @@ summary: Gestora de private equity de saúde e bem-estar criada por Fabiano Zett
   A decisão do STF na PET 15.556 incluiu a Moriah Asset entre as pessoas jurídicas administradas por integrantes
   da estrutura investigada cujas atividades foram suspensas por tempo indeterminado. Segundo a ação civil
   movida nos Estados Unidos pela EFB, liquidante do Banco Master, a empresa teria recebido cerca de R$
-  400 milhões em repasses ligados ao esquema de dissipação de patrimônio.
+  400 milhões em repasses ligados ao esquema de dissipação de patrimônio. Em 04/12/2025, a CPMI do INSS aprovou
+  a quebra de seus sigilos; em 12/12/2025, Dias Toffoli negou anular a medida, mas mandou os dados ficarem
+  acautelados na Presidência do Senado até deliberação do STF.
 why_in_novelo: É a gestora própria de Fabiano Zettel — a face empresarial lícita que sua defesa invoca
   — e, ao mesmo tempo, uma das empresas cujas atividades o STF suspendeu na Operação Compliance Zero.
 cited_position:
@@ -27,6 +29,7 @@ open_questions:
 source_ids:
 - src-neofeed-2026-zettel-braco-direito-vorcaro-moriah-asset
 - src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+- src-stf-rcl88121-decisao-12-12-2025-quebras-cpmi-acauteladas-senado
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'

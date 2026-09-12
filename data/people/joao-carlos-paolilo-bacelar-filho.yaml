@@ -1,0 +1,33 @@
+id: joao-carlos-paolilo-bacelar-filho
+kind: person
+category: politician
+name: João Carlos Paolilo Bacelar Filho
+role: Deputado federal
+summary: 'Em 04/12/2025, pediu acesso aos autos da Reclamação 88.121 com base na Súmula Vinculante 14, por ser
+  mencionado em documentos apreendidos na investigação que envolvia Daniel Vorcaro; Dias Toffoli deferiu o
+  acesso na liminar de 09/12/2025, registrando que ele é "referido nos documentos apreendidos". A defesa de
+  Vorcaro sustentou que a PF apreendeu no endereço do empresário uma pasta pertencente a um deputado federal
+  identificado pelas iniciais J.C.B., com opção de compra e venda de imóvel, e omitiu o nome dele no termo de
+  apreensão — alegação da defesa, não fato apurado. Na decisão final de 22/12/2025, que fixou no STF a
+  supervisão da Compliance Zero, Toffoli transcreve a PGR descrevendo o documento como "termo de opção de
+  compra e venda de imóvel envolvendo o Deputado Federal João Carlos Bacelar" e afirma haver "indícios" de que
+  ele "pode estar envolvido em prática delitiva" — fundamento para fixar a competência, não conclusão de
+  investigação.'
+why_in_novelo: A menção a ele em documento apreendido na casa de Vorcaro foi o fundamento de foro por
+  prerrogativa de função invocado para levar a investigação da Compliance Zero da primeira instância ao STF.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele sobre o documento apreendido foi localizada no corpus.
+open_questions:
+- O conteúdo do documento apreendido não é público; a decisão não diz se ele é investigado, e não foi
+  localizada imputação formal contra ele no caso Master.
+- A ligação com a Operação Overclean (Pet 13.884, relatoria de Nunes Marques) e com emendas destinadas a
+  Boquira (BA) aparece só na petição da defesa de Vorcaro, que a atribui a notícias de imprensa.
+source_ids:
+- src-stf-rcl88121-decisao-liminar-09-12-2025
+- src-stf-rcl88121-decisao-final-22-12-2025
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

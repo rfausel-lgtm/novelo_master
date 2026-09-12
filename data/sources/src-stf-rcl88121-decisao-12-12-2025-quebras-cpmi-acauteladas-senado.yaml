@@ -1,0 +1,27 @@
+id: src-stf-rcl88121-decisao-12-12-2025-quebras-cpmi-acauteladas-senado
+kind: source
+title: Decisão de Dias Toffoli na Rcl 88.121 que manda os dados das quebras da CPMI do INSS ficarem acautelados no Senado
+publisher: Supremo Tribunal Federal
+author: Ministro Dias Toffoli
+publication_date: '2025-12-12'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7450195
+source_type: official_court
+summary: 'A defesa de Vorcaro pediu a anulação das quebras de sigilo telemático, bancário e fiscal aprovadas
+  pela CPMI do INSS em 04/12/2025 contra ele e a Moriah Asset, empresa do cunhado, alegando falta de
+  pertinência temática e repasse de dados da Compliance Zero a senadores. Toffoli nega a liminar de anulação,
+  mas determina que Banco Central, Receita Federal e empresas telemáticas enviem as informações diretamente
+  à Presidência do Senado, onde devem ficar acauteladas até deliberação do STF, e ratifica as quebras
+  determinadas pela CPMI e pelo juízo de origem.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
+  certificado ou credencial do agente).'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

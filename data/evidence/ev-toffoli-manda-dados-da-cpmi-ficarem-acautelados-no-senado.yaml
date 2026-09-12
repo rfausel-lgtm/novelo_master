@@ -1,0 +1,20 @@
+id: ev-toffoli-manda-dados-da-cpmi-ficarem-acautelados-no-senado
+kind: evidence
+classification: D
+proposition: Em 12/12/2025, Dias Toffoli negou a anulação das quebras de sigilo de Daniel Vorcaro e da Moriah
+  Asset aprovadas pela CPMI do INSS, mas determinou que Banco Central, Receita Federal e empresas telemáticas
+  enviassem os dados diretamente à Presidência do Senado, onde deveriam ficar acautelados até deliberação do STF.
+document_ids:
+- doc-2025-12-12-decisao-rcl88121-quebras-cpmi-acauteladas-senado
+source_ids:
+- src-stf-rcl88121-decisao-12-12-2025-quebras-cpmi-acauteladas-senado
+date: '2025-12-12'
+notes: É a origem da guarda na Presidência do Senado que a CPMI do INSS pediu para revogar e que o STF desfez em
+  20/02/2026, determinando a devolução do material à comissão — decisão referida no ofício do COAF de
+  25/02/2026, já registrado. A defesa de Vorcaro alegava, no mesmo pedido, que dados da Compliance Zero estavam
+  sendo repassados a senadores da CPMI sem autorização judicial.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

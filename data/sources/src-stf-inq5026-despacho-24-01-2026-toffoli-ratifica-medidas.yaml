@@ -14,8 +14,8 @@ summary: 'A PF pediu, em 22/01/2026, ratificação das medidas deferidas pelo ju
   "por ora, todas as decisões administrativas, cíveis e criminais até então proferidas". Toffoli defere nos
   exatos termos da PGR.'
 notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
-  certificado ou credencial do agente). A decisão de 09/12/2025 na Rcl 88.121 aparece citada aqui pela
-  PGR; ela não foi localizada como peça própria no acervo.'
+  certificado ou credencial do agente). A decisão de 09/12/2025 na Rcl 88.121, citada aqui pela PGR, tem
+  fonte própria em src-stf-rcl88121-decisao-liminar-09-12-2025.'
 verification:
   checked_at: '2026-09-12'
   checked_by: orquestrador
