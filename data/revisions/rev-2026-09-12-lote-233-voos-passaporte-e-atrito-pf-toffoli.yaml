@@ -1,0 +1,43 @@
+id: rev-2026-09-12-lote-233-voos-passaporte-e-atrito-pf-toffoli
+kind: revision
+date: '2026-09-12'
+title: 'Lote 233 — a prisão de Zettel e a abordagem de Tanure: voos, passaporte, e o atrito entre a PF e
+  Toffoli'
+summary: 'A leitura integral das peças 35 e 40 da PET 15.198 acrescenta lastro documental primário ao que
+  o acervo já sabia sobre a operação de 13-14/01/2026: os voos exatos que motivaram a urgência (Zettel —
+  Emirates EK0262, Guarulhos–Dubai; Tanure — Latam LA3540, Galeão–Curitiba), a apreensão de passaporte e
+  proibição de sair do país como medida específica de Zettel, e o horário exato de sua soltura (07h00 de
+  14/01 — uma prisão de poucas horas). A mesma data revela um episódio de atrito institucional até aqui
+  não registrado: a Direção-Geral da PF respondeu por escrito a Toffoli sobre o descumprimento de um prazo
+  de 24 horas, atribuindo o atraso a sobrecarga operacional e pedindo para não entregar os celulares
+  apreendidos ao gabinete do relator — um precedente distinto do atrito, já registrado, entre a PF e o
+  ministro André Mendonça a partir de fevereiro de 2026.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 3
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'doc-2026-01-14-decisao-toffoli-novas-diligencias, evt-2026-01-14-toffoli-novas-diligencias e
+  ev-stf-toffoli-diligencias-2026-01-14: enriquecidos com voos, passaporte e a determinação simultânea de
+  explicação à PF.'
+- 'andrei-rodrigues: novo episódio de atrito institucional, desta vez com o relator Dias Toffoli em
+  14/01/2026 — distinto do atrito posterior com o ministro Mendonça.'
+author: orquestrador
+affected_ids:
+- dias-toffoli
+- fabiano-zettel
+- nelson-tanure
+- andrei-rodrigues
+- daniel-penido-de-britto
+- policia-federal
+reason: Leitura direta, por equipes de investigação em paralelo, das peças 35, 36, 40 e 50 da PET
+  15.198/DF — material novo obtido por Rafael via peticionamento eletrônico do STF, ainda não minerado
+  pelo acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

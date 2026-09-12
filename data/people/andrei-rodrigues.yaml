@@ -74,6 +74,13 @@ open_questions:
   Zero, e escalou com determinações na condução da Operação Sem Desconto (remessa de documentação ao gabinete
   do relator, notificação prévia para troca de policiais). A PF recorreu à AGU, que optou por diálogo
   em vez de embate jurídico direto. Sem resolução até setembro de 2026.
+- 'Achado de 12/09/2026 (lote 233): episódio anterior e distinto de atrito institucional, desta vez com o
+  relator Dias Toffoli, não com Mendonça — em 14/01/2026, ele próprio respondeu por escrito ao ministro
+  sobre o descumprimento de um prazo de 24 horas na PET 15.198, atribuindo o atraso a sobrecarga
+  operacional da corporação e pedindo que os celulares apreendidos não fossem lacrados no gabinete do
+  relator. A decisão de Toffoli da mesma data caracteriza o episódio como descumprimento deliberado — as
+  duas peças são versões opostas do mesmo confronto. Não presumir relação com a origem do atrito posterior
+  com Mendonça: são disputas distintas, com ministros diferentes.'
 - Não há manifestação pública dele sobre o mérito das menções no relatório — apenas resposta institucional
   da PF sobre o custeio da viagem, uma declaração genérica anterior à divulgação, e relatos de interlocutores.
   Procurado por veículos em fevereiro, abril e setembro de 2026, não respondeu. O corpus registra a lacuna
@@ -176,6 +183,7 @@ source_ids:
 - src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
 - src-stf-2026-09-09-nota-a-imprensa-46-convocacao-sessao
 - src-stf-2026-09-09-integra-decisao-fachin-pet-16704
+- src-stf-pet15198-peca050-informacao-pf-nao-cumprimento-prazo
 full_name: Andrei Augusto Passos Rodrigues
 review_status: published
 reviewer: orquestrador

@@ -8,17 +8,27 @@ issuer_id: dias-toffoli
 issuer: Ministro Dias Toffoli (STF)
 source_ids:
 - src-stf-2026-01-14-novas-diligencias-toffoli
-summary: Nova busca e apreensão em endereços ligados a Daniel Vorcaro, prisão temporária de Fabiano Campos
-  Zettel, busca pessoal em Nelson Tanure e carta de ordem para sequestro de bens requerido pela PGR.
+- src-stf-pet15198-peca040-decisao-prisao-temporaria-zettel-busca-tanure
+- src-stf-pet15198-peca035-representacao-pf-voos-zettel-tanure
+summary: 'Nova busca e apreensão em endereços ligados a Daniel Vorcaro, prisão temporária de Fabiano Campos
+  Zettel, busca pessoal em Nelson Tanure e carta de ordem para sequestro de bens requerido pela PGR. A
+  leitura integral da decisão (peça 40 da PET 15.198) e da representação da PF que a fundamentou (peça 35)
+  acrescenta: a decisão deferiu busca pessoal e apreensão de objetos contra os dois (inclusive celulares),
+  mas prisão temporária e apreensão de passaporte/proibição de sair do país apenas para Zettel, até as
+  07h00 de 14/01/2026; a PF havia identificado que Zettel tinha passagem para Dubai (voo Emirates EK0262,
+  Guarulhos, comprada em 10/01) e Tanure para Curitiba (voo Latam LA3540, Galeão, comprada em 07/01),
+  ambas horas antes do prazo de cumprimento das medidas; e a decisão determina que o Diretor-Geral da PF
+  explique, em 24 horas, o descumprimento de ordem anterior de 12/01/2026.'
 is_official: true
 related_entity_ids:
 - dias-toffoli
 - daniel-vorcaro
 - fabiano-zettel
 - nelson-tanure
+- daniel-penido-de-britto
 url: https://noticias.stf.jus.br/postsnoticias/a-pedido-da-pf-stf-autoriza-novas-diligencias-em-investigacao-sobre-fraudes-no-banco-master/
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-12'

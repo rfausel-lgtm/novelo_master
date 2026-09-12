@@ -2,14 +2,24 @@ id: ev-stf-toffoli-diligencias-2026-01-14
 kind: evidence
 classification: D
 proposition: Em 14/01/2026, como relator, Dias Toffoli determinou nova busca e apreensão em endereços
-  ligados a Vorcaro, prisão temporária de Fabiano Zettel e busca pessoal em Nelson Tanure.
+  ligados a Vorcaro, prisão temporária de Fabiano Zettel (até as 07h00 de 14/01) e busca pessoal em Nelson
+  Tanure — medidas motivadas por passagens aéreas de ambos com embarque previsto horas antes do prazo de
+  cumprimento.
 document_ids:
 - doc-2026-01-14-decisao-toffoli-novas-diligencias
+- doc-2026-01-14-informacao-pf-explica-descumprimento-prazo
 source_ids:
 - src-stf-2026-01-14-novas-diligencias-toffoli
+- src-stf-pet15198-peca040-decisao-prisao-temporaria-zettel-busca-tanure
+- src-stf-pet15198-peca035-representacao-pf-voos-zettel-tanure
 date: '2026-01-14'
+notes: 'Enriquecido em 12/09/2026 (lote 233) com a leitura integral das peças 35 e 40 da PET 15.198: os
+  voos exatos (Zettel — Emirates EK0262, Guarulhos–Dubai; Tanure — Latam LA3540, Galeão–Curitiba), a
+  apreensão de passaporte e proibição de sair do país como medida específica de Zettel (não de Tanure), e
+  a determinação simultânea para que o Diretor-Geral da PF explicasse o descumprimento do prazo de 12/01 —
+  ver ev-pf-nao-cumpre-prazo-24h-pede-reconsideracao-lacracao para a resposta da PF a essa cobrança.'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-12'

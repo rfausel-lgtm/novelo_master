@@ -1,0 +1,31 @@
+id: src-stf-pet15198-peca050-informacao-pf-nao-cumprimento-prazo
+kind: source
+title: Informação nº 144270321/2026-GAB/PF explicando o descumprimento do prazo de 24 horas
+publisher: Polícia Federal — Gabinete da Direção-Geral
+author: Andrei Augusto Passos Rodrigues, Diretor-Geral da Polícia Federal
+publication_date: '2026-01-14'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336
+source_type: official_police
+summary: Resposta do Diretor-Geral da PF ao Min. Dias Toffoli, explicando o descumprimento do prazo de 24
+  horas fixado em 12/01/2026 para a deflagração das medidas cautelares — atribuindo o atraso à instabilidade
+  de endereços de alvos em viagem e à sobreposição com sete outras operações da DICOR e a 9ª fase da
+  Operação Overclean (corrupção ligada a DNOCS/Bahia, sem relação com a Operação Compliance Zero). Pede
+  reconsideração da ordem de lacrar os aparelhos apreendidos no gabinete do relator, citando risco de
+  "autodestruição lógica de dados" e as "horas de ouro" de perícia em celulares.
+notes: 'Peça 50 de 50 obtidas por Rafael via certificado digital no peticionamento eletrônico do STF (pasta
+  local "Pet 15198-1_50") — mesma política de divulgação já aplicada às demais peças obtidas por
+  certificado. É a versão da própria PF sobre um episódio de atrito institucional que a decisão de Toffoli
+  (peça 40 do mesmo processo) registra em tom oposto, como descumprimento deliberado. Rodapé de impressão
+  com CPF de quem baixou o documento nunca reproduzido no acervo.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador (leitura por equipe de investigação dedicada às petições de partes da PET
+    15.198)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

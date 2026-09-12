@@ -11,20 +11,28 @@ participant_ids:
 - daniel-vorcaro
 - fabiano-zettel
 - nelson-tanure
-description: A pedido da PF, o então relator Dias Toffoli determinou nova busca e apreensão em endereços
+description: 'A pedido da PF, o então relator Dias Toffoli determinou nova busca e apreensão em endereços
   ligados a Vorcaro, decretou a prisão temporária de Fabiano Campos Zettel, deferiu busca pessoal em Nelson
-  Tanure e expediu carta de ordem para sequestro e bloqueio de bens requeridos pela PGR.
+  Tanure e expediu carta de ordem para sequestro e bloqueio de bens requeridos pela PGR. A PF havia
+  identificado que Zettel embarcaria para Dubai e Tanure para Curitiba horas antes do prazo de cumprimento;
+  a prisão de Zettel e a apreensão de passaporte/proibição de sair do país foram medidas específicas dele,
+  não de Tanure. Na mesma data, Toffoli cobrou explicações da PF pelo descumprimento de prazo anterior — a
+  Direção-Geral respondeu no mesmo dia, atribuindo o atraso a sobrecarga operacional.'
 evidence_class: D
 status: verified
 evidence_ids:
 - ev-stf-toffoli-diligencias-2026-01-14
+- ev-pf-nao-cumpre-prazo-24h-pede-reconsideracao-lacracao
 source_ids:
 - src-stf-2026-01-14-novas-diligencias-toffoli
+- src-stf-pet15198-peca040-decisao-prisao-temporaria-zettel-busca-tanure
+- src-stf-pet15198-peca035-representacao-pf-voos-zettel-tanure
 document_ids:
 - doc-2026-01-14-decisao-toffoli-novas-diligencias
+- doc-2026-01-14-informacao-pf-explica-descumprimento-prazo
 public_act_ids: []
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-12'
