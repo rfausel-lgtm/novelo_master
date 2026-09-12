@@ -1,0 +1,39 @@
+id: rev-2026-09-12-lote-253-mendonca-remete-a-pet-16662-a-presidencia
+kind: revision
+date: '2026-09-12'
+title: 'Lote 253 — Mendonça manda a PET 16.662 para a Presidência, três dias antes do Plenário'
+summary: 'Despacho de 12/09/2026, lido no dia em que foi assinado: André Mendonça encaminhou à Presidência do STF os
+  autos da PET 16.662, o processo do relatório da PF sobre o celular de Vorcaro que é o único item da sessão plenária
+  extraordinária de 15/09. Ele cita a ordem de Edson Fachin, na Pet 16.704, que suspendeu todo procedimento sobre
+  potencial investigação de integrantes da Corte, e registra que já havia liberado o caso para o Plenário em 06/09. O
+  despacho não diz se a sessão fica mantida. O lote também lê a certidão de julgamento da Segunda Turma sobre o
+  afastamento da cúpula da PF — três votos pelo referendo e vista de Gilmar Mendes —, o que promove o registro desse
+  placar de alegação de imprensa a documento.'
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 2
+  relationships: 0
+  sources: 2
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'ev-2a-turma-referendo-pendente-vista-gilmar: reclassificada de C para D com a certidão de julgamento.'
+- 'ev-pauta-de-15-09-tem-um-unico-item-e-nao-inclui-o-caso-andrei: remete à remessa dos autos à Presidência.'
+author: orquestrador
+affected_ids:
+- andre-mendonca
+- edson-fachin
+- gilmar-mendes
+- dias-toffoli
+reason: Mineração da PET 16.662 via peticionamento.stf.jus.br (sessão autenticada pelo próprio Rafael) — 56 peças.
+  Lidas também, sem entrada própria, as duas petições do Partido Novo, a manifestação da PGR, a decisão de afastamento,
+  o pedido de vista de Gilmar Mendes, a medida cautelar na SL 1.946 e a decisão da Pet 16.704, todas já no acervo; e
+  duas petições de terceiros sem relação com o mérito (uma notícia-crime contra um deputado por publicações sobre o
+  relator e um pedido de ingresso de particular processado por ofensa ao diretor-geral da PF), não registradas.
+  Lidas ainda, sem conteúdo novo, as PETs 15.976 (buscas da 6ª fase) e 15.977 (interceptação; as operadoras
+  confirmam implementação entre 11 e 26/05/2026).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

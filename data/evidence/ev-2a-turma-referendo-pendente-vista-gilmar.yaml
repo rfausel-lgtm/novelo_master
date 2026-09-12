@@ -1,17 +1,22 @@
 id: ev-2a-turma-referendo-pendente-vista-gilmar
 kind: evidence
-classification: C
+classification: D
 proposition: A decisão de Mendonça foi submetida a referendo da 2ª Turma do STF em sessão virtual extraordinária
   (08/09/2026, 10h às 23h59). Kassio Nunes Marques e Luiz Fux acompanharam Mendonça; Gilmar Mendes pediu
   vista — o colegiado, portanto, ainda NÃO confirmou definitivamente a medida monocrática até a data desta
   apuração.
-document_ids: []
+document_ids:
+- doc-2026-09-08-certidao-julgamento-referendo-pet16662-2a-turma
 source_ids:
+- src-stf-pet16662-certidao-julgamento-referendo-2a-turma-08-09-2026
 - src-metropoles-2026-09-08-afastamento-90-dias
 - src-migalhas-2026-09-08-mendonca-afasta-andrei-pet16662
 date: '2026-09-08'
+notes: Reclassificada de C para D no lote 253, com a leitura da certidão de julgamento da Segunda Turma, que confirma
+  o placar de três votos pelo referendo e o pedido de vista. Dias Toffoli, que integra a Turma, não aparece com voto
+  registrado na certidão.
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-06'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-06'
-updated_at: '2026-09-06'
+updated_at: '2026-09-12'

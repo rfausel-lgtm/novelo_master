@@ -1,0 +1,23 @@
+id: doc-2026-09-08-certidao-julgamento-referendo-pet16662-2a-turma
+kind: document
+title: Certidão de julgamento do referendo da decisão que afastou a cúpula da PF (PET 16.662, Segunda Turma)
+doc_type: judicial_decision
+date: '2026-09-08'
+date_precision: day
+source_ids:
+- src-stf-pet16662-certidao-julgamento-referendo-2a-turma-08-09-2026
+summary: 'Registra o resultado parcial da sessão virtual extraordinária de 08/09/2026: três votos pelo referendo
+  (Mendonça, Fux e Nunes Marques) e pedido de vista de Gilmar Mendes. Dias Toffoli, integrante da Turma, não aparece
+  com voto registrado.'
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- gilmar-mendes
+- dias-toffoli
+issuer: Secretaria da Segunda Turma do STF
+reference: REF na PET 16.662/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

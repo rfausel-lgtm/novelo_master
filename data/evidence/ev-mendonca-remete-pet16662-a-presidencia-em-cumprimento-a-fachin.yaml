@@ -1,0 +1,22 @@
+id: ev-mendonca-remete-pet16662-a-presidencia-em-cumprimento-a-fachin
+kind: evidence
+classification: D
+proposition: Em 12/09/2026, André Mendonça encaminhou os autos da PET 16.662 à Presidência do STF, citando como
+  fundamento o item IV da decisão do presidente Edson Fachin na Pet 16.704, de 09/09/2026, que suspendeu todo
+  procedimento sobre potencial investigação de integrantes da Corte; no mesmo despacho, registrou ter liberado o
+  feito para julgamento pelo Plenário em 06/09/2026.
+document_ids:
+- doc-2026-09-12-despacho-mendonca-remete-pet16662-a-presidencia
+- doc-2026-09-09-integra-decisao-fachin-pet-16704
+source_ids:
+- src-stf-pet16662-despacho-12-09-2026-remessa-a-presidencia
+date: '2026-09-12'
+notes: 'O acervo registra a pauta da sessão plenária extraordinária de 15/09/2026, cujo único item é a PET 16.662 (ver
+  ev-pauta-de-15-09-tem-um-unico-item-e-nao-inclui-o-caso-andrei). O despacho não diz se a sessão fica mantida,
+  e o acervo não localizou, até a coleta, ato alterando a pauta. Mendonça apresenta a remessa como cumprimento da
+  ordem do presidente, e não como desistência do rito plenário, que diz ter seguido desde a instauração.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
