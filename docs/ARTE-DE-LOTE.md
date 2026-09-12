@@ -14,7 +14,7 @@ Contrato fechado na [issue #34](https://github.com/rfausel-lgtm/novelo_master/is
    A distinção existe por causa da legenda, e não por capricho de catalogação: "gerada por IA" é verdade sobre uma e falsa sobre a outra, e num site cujo assunto é procedência legenda imprecisa custa mais do que legenda ausente. O manifesto é lista de **cards**, nunca de ilustrações — manifesto perdido degrada tudo para a legenda mais cautelosa.
 4. A arte não é evidência, não entra em `photo` nem em `source_ids`, e não sustenta alegação. Texto embutido no pixel **não prevalece** sobre `data/`; divergindo os dois, corrige-se ou remove-se a arte.
 5. Toda arte é WebP válido, **estático**, com largura máxima de **1280 px**.
-6. `npm run social:cards` gera o card das revisões sem arte e **nunca sobrescreve** arquivo existente — é por isso que a ilustração, quando existe, prevalece. `npm run social:add` é o fluxo de inclusão da ilustração: produz exclusivamente o arquivo canônico e **tira o id do manifesto**, devolvendo àquela revisão a legenda de IA. `npm run social:check` falha para nome ou extensão inválidos, revisão inexistente, WebP inválido, largura acima do limite, animação, arquivo não canônico na pasta, ou id de card sem arquivo correspondente.
+6. `npm run social:cards` gera o card das revisões sem arte e **nunca sobrescreve** arquivo existente — por isso ele nunca apaga ilustração. A ilustração, ao contrário, **prevalece sobre o card**: `social:pending` trata revisão só com card como pendente, e o `arte-de-lote.yml` aceita arte que substitui card. `npm run social:add` é o fluxo de inclusão da ilustração: produz exclusivamente o arquivo canônico e **tira o id do manifesto**, devolvendo àquela revisão a legenda de IA. `npm run social:check` falha para nome ou extensão inválidos, revisão inexistente, WebP inválido, largura acima do limite, animação, arquivo não canônico na pasta, ou id de card sem arquivo correspondente.
 7. **A liberação é automática sob autorização editorial continuada.** O agente que gera a imagem
    também a inspeciona, registra o checklist no PR e só o mescla depois de todas as verificações
    obrigatórias. Incerteza sobre qualquer vedação é falha: a arte não é publicada e o editor é
@@ -62,7 +62,7 @@ npm run social:pending -- --since-lot 200 --limit 5 --json
 ```
 
 Ele compara os `Revision.id` em `data/revisions/` com os WebPs canônicos já presentes em
-`public/social/`. A presença de `<Revision.id>.webp` é o estado durável de conclusão; se uma execução
+`public/social/`. A presença de `<Revision.id>.webp` fora do manifesto de cards é o estado durável de conclusão; se uma execução
 falhar antes de publicar a arte, a revisão continua pendente para a próxima tentativa. O comando não
 cria nem altera arquivos e se recusa a rodar sem `--since-lot`, para uma configuração incorreta nunca
 importar automaticamente o histórico inteiro.

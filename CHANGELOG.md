@@ -2,6 +2,17 @@
 
 ## Unreleased
 
+- **A ilustração do Codex volta a prevalecer sobre o card** (decisão de Rafael, 12/09/2026). Na
+  primeira versão o card contava como arte concluída, e com ele cobrindo 100% das revisões dois elos
+  pararam em silêncio: `social:pending` deixou de listar pendência — a automação do Codex não tinha
+  mais o que gerar — e o `arte-de-lote.yml`, que só aceitava arquivo *novo*, descartaria qualquer
+  arte que chegasse por cima de um card. Agora revisão só com card é pendente (9 lotes a partir do
+  200 voltaram à fila: 220, 223, 226, 228–232 e 235), e o workflow aceita arte que substitui card,
+  tirando o id do manifesto. Ilustração já publicada continua nunca sendo refeita nem sobrescrita.
+  O workflow foi simulado de ponta a ponta num repositório descartável, com os blocos `run`
+  extraídos do próprio YAML: card substituído, ilustração preservada, arte nova entregue, arte
+  chegada por fora intacta e manifesto limpo.
+
 - **Ilustrações dos lotes 233 e 234 publicadas**, convertidas de PNG para WebP 1280×720 por
   `social:add` (92 e 74 KB) e inspecionadas pela seção 7.1.
 - **Ilustrações dos lotes 236 a 240 publicadas** (80–127 KB), geradas pelo Codex às 18h18–18h22,

@@ -11,6 +11,7 @@ import {
 import {
   conferirPasta,
   idsDeRevisao,
+  ilustracoesConcluidas,
   nomeCanonico,
   numeroDoLote,
   resolverRevisao,
@@ -178,6 +179,20 @@ describe("detector de revisões sem arte", () => {
   it("não confunde lote numérico com revisão de sufixo", () => {
     expect(numeroDoLote("rev-2026-09-11-lote-200-titulo")).toBe(200);
     expect(numeroDoLote("rev-2026-09-11-lote-200b-titulo")).toBeNull();
+  });
+
+  it("revisão só com card continua pendente: a ilustração do Codex prevalece sobre o card", () => {
+    const ids = ["rev-a-lote-200-com-card", "rev-b-lote-201-ilustrada", "rev-c-lote-202-sem-nada"];
+    const arquivos = [
+      "rev-a-lote-200-com-card.webp",
+      "rev-b-lote-201-ilustrada.webp",
+      "cards.json",
+    ];
+    const cards = new Set(["rev-a-lote-200-com-card"]);
+    expect(selecionarIdsPendentes(ids, ilustracoesConcluidas(arquivos, cards), 200)).toEqual([
+      { id: "rev-a-lote-200-com-card", lote: 200 },
+      { id: "rev-c-lote-202-sem-nada", lote: 202 },
+    ]);
   });
 
   it("mantém todas as revisões distintas do mesmo lote", () => {

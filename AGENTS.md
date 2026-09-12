@@ -30,8 +30,8 @@ nada nesta cadeia depende de alguém lembrar depois.
    verdade sobre a cena que o Codex pinta e é falsa sobre um card, que só compõe o título já
    aprovado pelo acervo.
 
-3. **A ilustração do Codex virou melhoria opcional.** Quando você quiser uma cena para um lote,
-   a sessão dispara o agente de arte do Codex passando o **`Revision.id` completo** — nunca o número do lote, que não identifica revisão
+3. **A ilustração do Codex substitui o card.** A sessão que publica o lote dispara o agente de
+   arte do Codex passando o **`Revision.id` completo** — nunca o número do lote, que não identifica revisão
    neste acervo ([docs/ARTE-DE-LOTE.md](docs/ARTE-DE-LOTE.md)). Como recuperação independente dessa
    sessão, a automação local `Novelo — artes de lotes novos` (Codex, `~/.codex/automations/`, a cada
    **10 minutos**) consulta `npm run social:pending -- --since-lot 200 --limit 10 --json`. O marco é
@@ -45,16 +45,21 @@ nada nesta cadeia depende de alguém lembrar depois.
    impede deleção e force-push. Resultado: arte pronta parada em branch até alguém abrir o PR à mão.
    Foi isso, e não lentidão de geração, que produziu latências de até 44 h nos lotes 136–165.
 
-   **E por que ela agora fica quase sempre parada.** `social:pending` considera concluída toda
-   revisão com arquivo canônico, card inclusive. Com o card cobrindo tudo, a automação não encontra
-   pendência e não roda — de propósito. A ilustração passa a ser pedida caso a caso, e entra por
-   `npm run social:add -- <arquivo> <lote>`, que sobrescreve o card e tira o id do manifesto.
+   **A ilustração prevalece sobre o card (Rafael, 12/09/2026).** O card é o que existe enquanto a
+   ilustração não chega, não o fim da fila: `social:pending` trata revisão só com card como
+   PENDENTE, o `arte-de-lote.yml` aceita arte que substitui card e tira o id do manifesto, e
+   `npm run social:add -- <arquivo> <lote>` faz o mesmo à mão. O que nunca acontece é uma
+   ilustração publicada ser refeita ou sobrescrita. Na primeira versão (12/09) o card contava como
+   conclusão; com ele cobrindo 100% das revisões, a automação deixou de ter o que gerar e o workflow
+   passou a descartar a arte em silêncio, por só aceitar arquivo novo.
 
 4. **Levar a ilustração até a `main`.** Gerar não é publicar. Quem fecha essa ponte é o workflow
    [`.github/workflows/arte-de-lote.yml`](.github/workflows/arte-de-lote.yml): ele dispara no push de
    qualquer branch `codex/**`, confere que o diff contra a `main` é **exclusivamente** arte (ao menos
-   um `public/social/*.webp` novo e nada fora dele e do `CHANGELOG.md`), roda `social:check`,
-   `data:lint` estrito e `build`, e só então commita os `.webp` novos direto na `main`. O token é o do
+   um `public/social/*.webp` novo ou alterado, e nada fora dele, do `cards.json` e do `CHANGELOG.md`),
+   roda `social:check`, `data:lint` estrito e `build`, e só então commita na `main` a arte de revisão
+   que não tinha arquivo ou que só tinha card — tirando esse id do manifesto. Ilustração já publicada
+   é pulada, nunca sobrescrita. O token é o do
    próprio Actions, o que dispensa credencial nova na máquina. Branch que toque `src/`, `scripts/`,
    `data/` ou `.github/` é ignorada em silêncio: código e dado passam por gente.
 
@@ -92,7 +97,7 @@ nada nesta cadeia depende de alguém lembrar depois.
 - **O gatilho nunca bloqueia a publicação de dados.** Ausência de arte é estado normal, não pendência:
   se a geração de arte falhar, o lote continua publicado e correto. Dado publicado não espera imagem.
 - **Detecção é idempotente e recuperável.** A presença de `public/social/<Revision.id>.webp` na
-  `main` é o estado durável de conclusão. Revisão sem arquivo continua pendente para a próxima
+  `main` **fora do manifesto de cards** é o estado durável de conclusão. Revisão sem arquivo continua pendente para a próxima
   execução; revisão com arte nunca é refeita. Antes de gerar, a automação também procura PR aberto
   para o mesmo `Revision.id`, para não duplicar trabalho ainda em conferência.
 - **Autoaprovação não reduz o padrão editorial.** Ela decorre da autorização continuada registrada na
