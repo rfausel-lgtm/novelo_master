@@ -20,10 +20,20 @@ nada nesta cadeia depende de alguém lembrar depois.
 2. **Acionar a arte.** Logo após o push, a própria sessão que publicou dispara o agente de arte do
    Codex passando o **`Revision.id` completo** — nunca o número do lote, que não identifica revisão
    neste acervo ([docs/ARTE-DE-LOTE.md](docs/ARTE-DE-LOTE.md)). Como recuperação independente dessa
-   sessão, a automação local `Novelo — artes de lotes novos` consulta periodicamente
-   `npm run social:pending -- --since-lot 200 --limit 5 --json`. O marco é obrigatório: ela nunca
-   importa o histórico anterior ao lote 200. Esse agente gera a arte, roda `npm run social:check` e
-   grava o arquivo canônico `public/social/<Revision.id>.webp`.
+   sessão, a automação local `Novelo — artes de lotes novos` (Codex, `~/.codex/automations/`, a cada
+   **10 minutos**) consulta `npm run social:pending -- --since-lot 200 --limit 10 --json`. O marco é
+   obrigatório: ela nunca importa o histórico anterior ao lote 200. Esse agente gera a arte, roda
+   `npm run social:check` e grava o arquivo canônico `public/social/<Revision.id>.webp`.
+
+   **Gargalo conhecido, medido em 12/09/2026.** A automação gera e valida em minutos, mas não
+   consegue concluir sozinha: o `gh` desta máquina autentica pelo **keyring do Windows**, e o
+   ambiente isolado dela não alcança o keyring — `gh` responde 401, o PR não é aberto, e o push
+   direto na `main` é recusado pelo ruleset `proteger-main`, que exige PR com verificações. O
+   resultado é arte pronta parada em branch até alguém abrir o PR à mão. Foi isso, e não lentidão de
+   geração, que produziu latências de até 44 h nos lotes 136–165: a mediana é 3 h, mas a arte chega
+   em levas, quando alguém percebe. Enquanto o `gh` da automação não autenticar, o passo 3 depende de
+   gente.
+
 3. **Levar a arte até a `main`.** Gerar não é publicar. O site é construído a partir da `main`, então
    arte parada em branch não existe para o leitor — e branch parada foi exatamente como as artes dos
    lotes 156 a 164 ficaram um dia inteiro fora do ar. O agente fecha o trabalho com `social:check`
