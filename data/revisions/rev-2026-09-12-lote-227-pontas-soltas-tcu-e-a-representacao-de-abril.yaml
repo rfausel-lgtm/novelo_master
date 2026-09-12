@@ -1,0 +1,35 @@
+id: rev-2026-09-12-lote-227-pontas-soltas-tcu-e-a-representacao-de-abril
+kind: revision
+date: '2026-09-12'
+title: 'Lote 227 — pontas soltas: o processo do TCU sobre a Caixa, e a representação de abril'
+summary: 'Dois achados menores, mas úteis, da leitura do IPL 2025.0087917. Primeiro: a CAIXA se recusou a
+  entregar ao MPF, em maio de 2025, os pareceres internos sobre por que a Caixa Asset recusou os mesmos
+  ativos do Master que a autarquia depois comprou — invocando a Representação TC 017.570/2024-7, em
+  trâmite no TCU, número de processo até aqui não registrado no acervo. Segundo: o deputado federal
+  Antônio Carlos Rodrigues (PL/SP) representou ao PGR em 02/04/2025 — antes mesmo da instauração formal
+  do IPL — classificando a compra do Master pelo BRB como possível desvio de finalidade institucional;
+  o MPF correlacionou formalmente a representação à Notícia de Fato que originaria o inquérito. Também
+  ganha registro Gabriel Pimenta Alves, o procurador da República cuja atuação, desde abril de 2025,
+  originou toda a apuração hoje conhecida como Operação Compliance Zero.'
+added:
+  people: 2
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 0
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- antonio-carlos-rodrigues
+- gabriel-pimenta-alves
+- paulo-gonet
+- banco-de-brasilia-brb
+- banco-master
+reason: Leitura direta, por equipes de investigação em paralelo, do IPL 2025.0087917 trasladado ao STF —
+  material novo obtido por Rafael, ainda não minerado pelo acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

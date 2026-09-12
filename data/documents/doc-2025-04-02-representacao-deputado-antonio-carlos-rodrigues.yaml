@@ -1,0 +1,28 @@
+id: doc-2025-04-02-representacao-deputado-antonio-carlos-rodrigues
+kind: document
+title: Representação do deputado Antônio Carlos Rodrigues ao PGR sobre a compra do Master pelo BRB
+doc_type: letter
+date: '2025-04-02'
+date_precision: day
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+summary: Ofício do Deputado Federal Antônio Carlos Rodrigues (PL/SP) ao Procurador-Geral da República
+  Paulo Gonet, alegando "indícios de irregularidades e violações ao interesse público" na aquisição do
+  Banco Master pelo BRB, e acusando o Banco Central, a CVM, o FGC e a Anbima de "omissão e inoperância", e
+  a diretoria e o conselho do Master de "gestão temerária". O PGR encaminhou à PR-DF em 04/04/2025; Gabriel
+  Pimenta Alves reconheceu correlação com a Notícia de Fato que originaria o IPL 2025.0087917 e determinou
+  a juntada em 11/04/2025.
+is_official: false
+related_entity_ids:
+- antonio-carlos-rodrigues
+- paulo-gonet
+- gabriel-pimenta-alves
+- banco-de-brasilia-brb
+- banco-master
+issuer_id: antonio-carlos-rodrigues
+issuer: Deputado Federal Antônio Carlos Rodrigues (PL/SP)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

@@ -1,0 +1,26 @@
+id: antonio-carlos-rodrigues
+kind: person
+name: Antônio Carlos Rodrigues
+category: politician
+role: Deputado Federal (PL/SP)
+summary: 'Deputado Federal pelo PL/SP. Em 02/04/2025, enviou ofício ao Procurador-Geral da República Paulo
+  Gonet alegando "indícios de irregularidades e violações ao interesse público" na aquisição do Banco
+  Master pelo BRB, e acusando o Banco Central, a CVM, o FGC e a Anbima de "omissão e inoperância", e a
+  diretoria e o conselho do Master de "gestão temerária". O PGR encaminhou a representação à PR-DF em
+  04/04/2025; o Procurador Gabriel Pimenta Alves reconheceu correlação com a Notícia de Fato que originaria
+  o IPL 2025.0087917 e determinou a juntada.'
+why_in_novelo: Foi um dos primeiros a formalizar, por representação a autoridade federal, alegação de
+  irregularidade na aquisição do Master pelo BRB — antes mesmo da instauração do inquérito policial.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública adicional localizada além do teor da própria representação.
+open_questions:
+- As qualificações usadas ("desvio de finalidade institucional", "gestão temerária") são dele próprio —
+  não há, nos documentos lidos, apuração independente que as confirme ou refute.
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
