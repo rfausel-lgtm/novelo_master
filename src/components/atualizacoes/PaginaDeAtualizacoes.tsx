@@ -104,14 +104,27 @@ export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img
                         src={arte.src}
-                        alt={`Arte de divulgação gerada por inteligência artificial${r.title ? `: ${r.title}` : ""}`}
+                        alt={
+                          arte.tipo === "card"
+                            ? `Cartão de divulgação do lote${r.title ? `: ${r.title}` : ""}`
+                            : `Arte de divulgação gerada por inteligência artificial${r.title ? `: ${r.title}` : ""}`
+                        }
                         width={arte.width}
                         height={arte.height}
                         loading="lazy"
                         className="border-border w-full rounded-md border"
                       />
+                      {/*
+                        A legenda muda com o tipo porque as duas artes não têm a mesma procedência.
+                        "Gerada por IA" é verdade sobre a cena que o Codex pinta e mentira sobre um
+                        cartão, que só compõe o título já aprovado pelo acervo sobre um emaranhado
+                        desenhado a partir do id da revisão. Num site cujo assunto é procedência,
+                        legenda imprecisa custa mais do que ausência de legenda.
+                      */}
                       <figcaption className="text-fg-3 mt-1 text-[10px] tracking-wide uppercase">
-                        Ilustração gerada por IA
+                        {arte.tipo === "card"
+                          ? "Cartão gerado do próprio acervo"
+                          : "Ilustração gerada por IA"}
                       </figcaption>
                     </figure>
                   )}

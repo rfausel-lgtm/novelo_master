@@ -5,11 +5,16 @@ Contrato fechado na [issue #34](https://github.com/rfausel-lgtm/novelo_master/is
 ## O contrato
 
 1. Cada revisão tem **zero ou uma** arte. Quando existir, o único nome válido é `public/social/<Revision.id>.webp`. Não há sufixos, slugs ou artes adicionais.
-2. `public/social/` contém **somente** artes canônicas em WebP. Iterações substituídas, PNGs-fonte e arquivos fora do contrato não moram lá.
-3. `/atualizacoes` exibe a arte canônica **no topo da revisão correspondente, antes do texto do lote**, com `alt` de arte de divulgação gerada por IA e a legenda "Ilustração gerada por IA" entre a imagem e o texto — o leitor lê a legenda no instante em que passa da ilustração para o que o acervo afirma. **A ausência de arte é normal**, não é lacuna, e a lista não reserva espaço para ela: o item simplesmente começa pela data.
+2. `public/social/` contém **somente** artes canônicas em WebP, mais o manifesto `cards.json`. Iterações substituídas, PNGs-fonte e arquivos fora do contrato não moram lá.
+3. `/atualizacoes` exibe a arte canônica ao lado do texto do lote — no celular acima dele, em largura cheia; a partir de 768 px à direita, em 18 rem —, com a legenda colada na imagem. **A ausência de arte é normal**, não é lacuna, e a lista não reserva espaço para ela: o item simplesmente começa pela data.
+   Há **dois tipos de arte**, no mesmo nome de arquivo, distinguidos pelo manifesto `public/social/cards.json`:
+   - **card** — gerado do próprio acervo por `npm run social:cards` (`scripts/lib/card.ts`): tipografia do título já aprovado sobre um emaranhado desenhado a partir do `Revision.id`. Sem modelo de imagem, reproduzível byte a byte a partir do id. Legenda: "Cartão gerado do próprio acervo".
+   - **ilustração** — a cena que o agente do Codex pinta. Legenda: "Ilustração gerada por IA".
+
+   A distinção existe por causa da legenda, e não por capricho de catalogação: "gerada por IA" é verdade sobre uma e falsa sobre a outra, e num site cujo assunto é procedência legenda imprecisa custa mais do que legenda ausente. O manifesto é lista de **cards**, nunca de ilustrações — manifesto perdido degrada tudo para a legenda mais cautelosa.
 4. A arte não é evidência, não entra em `photo` nem em `source_ids`, e não sustenta alegação. Texto embutido no pixel **não prevalece** sobre `data/`; divergindo os dois, corrige-se ou remove-se a arte.
 5. Toda arte é WebP válido, **estático**, com largura máxima de **1280 px**.
-6. `npm run social:add` é o fluxo de inclusão e produz exclusivamente o arquivo canônico. `npm run social:check` falha para nome ou extensão inválidos, revisão inexistente, WebP inválido, largura acima do limite, animação, ou qualquer arquivo não canônico na pasta.
+6. `npm run social:cards` gera o card das revisões sem arte e **nunca sobrescreve** arquivo existente — é por isso que a ilustração, quando existe, prevalece. `npm run social:add` é o fluxo de inclusão da ilustração: produz exclusivamente o arquivo canônico e **tira o id do manifesto**, devolvendo àquela revisão a legenda de IA. `npm run social:check` falha para nome ou extensão inválidos, revisão inexistente, WebP inválido, largura acima do limite, animação, arquivo não canônico na pasta, ou id de card sem arquivo correspondente.
 7. **A liberação é automática sob autorização editorial continuada.** O agente que gera a imagem
    também a inspeciona, registra o checklist no PR e só o mescla depois de todas as verificações
    obrigatórias. Incerteza sobre qualquer vedação é falha: a arte não é publicada e o editor é

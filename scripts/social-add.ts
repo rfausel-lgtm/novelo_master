@@ -16,7 +16,13 @@ import fs from "node:fs";
 import path from "node:path";
 import { chromium } from "@playwright/test";
 import { LARGURA_MAXIMA, lerWebp } from "../src/lib/social";
-import { DIR_ARTES, nomeCanonico, resolverRevisao } from "./lib/artes";
+import {
+  DIR_ARTES,
+  gravarManifestoDeCards,
+  lerManifestoDeCards,
+  nomeCanonico,
+  resolverRevisao,
+} from "./lib/artes";
 
 const [origem, alvo] = process.argv.slice(2);
 if (!origem || !alvo) {
@@ -75,6 +81,15 @@ async function publicar() {
   if (width > LARGURA_MAXIMA) throw new Error(`${width} px acima do limite de ${LARGURA_MAXIMA}`);
 
   fs.writeFileSync(destino, saida);
+
+  /*
+   * Ilustração publicada deixa de ser card. Sem esta linha o site continuaria legendando a cena
+   * pintada pelo Codex como arte gerada do acervo — exatamente a legenda errada que o manifesto
+   * existe para evitar.
+   */
+  const manifesto = lerManifestoDeCards();
+  if (manifesto.delete(revisionId)) gravarManifestoDeCards(manifesto);
+
   console.log(
     `${path.basename(destino)}: ${width}x${height}, ${Math.round(saida.length / 1024)} KB`,
   );

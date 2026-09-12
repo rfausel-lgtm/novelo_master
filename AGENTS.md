@@ -17,8 +17,20 @@ nada nesta cadeia depende de alguém lembrar depois.
    o código de saída, não o texto), commit com o `data/revisions/*.yaml` do lote, push na `main`. O
    Cloudflare Pages reconstrói o site a cada push na `main` e `/atualizacoes` já abre com as dez
    atualizações mais recentes no topo — nenhuma curadoria manual entra aqui.
-2. **Acionar a arte.** Logo após o push, a própria sessão que publicou dispara o agente de arte do
-   Codex passando o **`Revision.id` completo** — nunca o número do lote, que não identifica revisão
+2. **A arte padrão já vem sozinha.** O workflow
+   [`card-de-lote.yml`](.github/workflows/card-de-lote.yml) dispara no push de `data/revisions/**`
+   na `main`, gera o **card** de toda revisão sem arte e o commita de volta. O card é função do
+   `Revision.id` — mesmo id, mesmo desenho —, não usa modelo de imagem nenhum, custa cerca de um
+   segundo por peça e vale para 100% das revisões. Quem publica lote não precisa acionar nada, e
+   quem quiser antecipar roda `npm run social:cards` antes do push.
+
+   O card **não é ilustração**, e o site não o legenda como tal: `public/social/cards.json` registra
+   quais artes são cards, e a legenda em `/atualizacoes` muda conforme. "Ilustração gerada por IA" é
+   verdade sobre a cena que o Codex pinta e é falsa sobre um card, que só compõe o título já
+   aprovado pelo acervo.
+
+3. **A ilustração do Codex virou melhoria opcional.** Quando você quiser uma cena para um lote,
+   a sessão dispara o agente de arte do Codex passando o **`Revision.id` completo** — nunca o número do lote, que não identifica revisão
    neste acervo ([docs/ARTE-DE-LOTE.md](docs/ARTE-DE-LOTE.md)). Como recuperação independente dessa
    sessão, a automação local `Novelo — artes de lotes novos` (Codex, `~/.codex/automations/`, a cada
    **10 minutos**) consulta `npm run social:pending -- --since-lot 200 --limit 10 --json`. O marco é
@@ -32,7 +44,12 @@ nada nesta cadeia depende de alguém lembrar depois.
    impede deleção e force-push. Resultado: arte pronta parada em branch até alguém abrir o PR à mão.
    Foi isso, e não lentidão de geração, que produziu latências de até 44 h nos lotes 136–165.
 
-3. **Levar a arte até a `main`.** Gerar não é publicar. Quem fecha essa ponte é o workflow
+   **E por que ela agora fica quase sempre parada.** `social:pending` considera concluída toda
+   revisão com arquivo canônico, card inclusive. Com o card cobrindo tudo, a automação não encontra
+   pendência e não roda — de propósito. A ilustração passa a ser pedida caso a caso, e entra por
+   `npm run social:add -- <arquivo> <lote>`, que sobrescreve o card e tira o id do manifesto.
+
+4. **Levar a ilustração até a `main`.** Gerar não é publicar. Quem fecha essa ponte é o workflow
    [`.github/workflows/arte-de-lote.yml`](.github/workflows/arte-de-lote.yml): ele dispara no push de
    qualquer branch `codex/**`, confere que o diff contra a `main` é **exclusivamente** arte (ao menos
    um `public/social/*.webp` novo e nada fora dele e do `CHANGELOG.md`), roda `social:check`,
@@ -63,7 +80,7 @@ nada nesta cadeia depende de alguém lembrar depois.
    conforme, mescla o próprio PR. Dúvida sobre qualquer vedação editorial bloqueia a publicação e
    exige aviso ao editor.
 
-4. **Rascunho para o X.** Só depois que a arte está na `main` o post do lote fica completo — antes
+5. **Rascunho para o X.** Só depois que a arte está na `main` o post do lote fica completo — antes
    disso o rascunho apontaria para uma imagem que o site não serve. Aí o fluxo do Codex salva o
    rascunho no buffer, via API, para aprovação.
 
@@ -72,7 +89,7 @@ nada nesta cadeia depende de alguém lembrar depois.
 - **Nada é publicado no X sem aprovação humana explícita.** A cadeia automatiza até o rascunho e para
   ali. Um agente nunca aperta o botão de publicar.
 - **O gatilho nunca bloqueia a publicação de dados.** Ausência de arte é estado normal, não pendência:
-  se o passo 2 falhar, o lote continua publicado e correto. Dado publicado não espera imagem.
+  se a geração de arte falhar, o lote continua publicado e correto. Dado publicado não espera imagem.
 - **Detecção é idempotente e recuperável.** A presença de `public/social/<Revision.id>.webp` na
   `main` é o estado durável de conclusão. Revisão sem arquivo continua pendente para a próxima
   execução; revisão com arte nunca é refeita. Antes de gerar, a automação também procura PR aberto

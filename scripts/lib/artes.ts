@@ -1,7 +1,14 @@
 import fs from "node:fs";
 import path from "node:path";
 import { parse } from "yaml";
-import { LARGURA_MAXIMA, NOME_CANONICO, lerWebp, ArteInvalida } from "../../src/lib/social";
+import {
+  ARQUIVO_MANIFESTO,
+  LARGURA_MAXIMA,
+  NOME_CANONICO,
+  lerManifestoDeCards,
+  lerWebp,
+  ArteInvalida,
+} from "../../src/lib/social";
 
 /** Fonte de verdade dos ids: `data/revisions/`, onde o id é o nome do arquivo (188/188 conferidos). */
 export const DIR_REVISOES = path.join(process.cwd(), "data", "revisions");
@@ -47,6 +54,28 @@ export function resolverRevisao(alvo: string): string {
 }
 
 export const nomeCanonico = (revisionId: string): string => `${revisionId}.webp`;
+
+/**
+ * Manifesto dos cards: quais artes foram GERADAS do próprio acervo, e não ilustradas por IA.
+ *
+ * Existe por causa da legenda. "Ilustração gerada por IA" é verdade sobre a cena que o Codex pinta e
+ * é falsa sobre um card, que só compõe o título que o acervo já aprovou — e legenda falsa num site
+ * cujo assunto é procedência não é detalhe. Os dois arquivos são `<Revision.id>.webp` e ficam na
+ * mesma pasta de propósito (o contrato de nome único não muda); o manifesto é o que os distingue.
+ *
+ * A leitura mora em src/lib/social.ts, com o resto do acesso à pasta; aqui fica só a gravação, que
+ * é coisa de script. Ordenado e com quebra de linha final: o manifesto entra em diff a cada lote.
+ */
+export function gravarManifestoDeCards(ids: ReadonlySet<string>): void {
+  fs.mkdirSync(DIR_ARTES, { recursive: true });
+  fs.writeFileSync(
+    path.join(DIR_ARTES, ARQUIVO_MANIFESTO),
+    `${JSON.stringify({ cards: [...ids].sort() }, null, 2)}\n`,
+    "utf8",
+  );
+}
+
+export { ARQUIVO_MANIFESTO, lerManifestoDeCards };
 
 export type RevisaoPendente = {
   id: string;
@@ -104,7 +133,16 @@ export function conferirPasta(): string[] {
   if (!fs.existsSync(DIR_ARTES)) return problemas; // ausência de arte é válida
   const ids = new Set(idsDeRevisao());
 
+  const cards = lerManifestoDeCards();
+  for (const id of cards) {
+    if (!ids.has(id)) problemas.push(`${ARQUIVO_MANIFESTO}: ${id} não é uma revisão existente`);
+    else if (!fs.existsSync(path.join(DIR_ARTES, nomeCanonico(id)))) {
+      problemas.push(`${ARQUIVO_MANIFESTO}: ${id} listado como card, mas não há arquivo`);
+    }
+  }
+
   for (const arquivo of fs.readdirSync(DIR_ARTES).sort()) {
+    if (arquivo === ARQUIVO_MANIFESTO) continue;
     const achado = NOME_CANONICO.exec(arquivo);
     if (!achado) {
       problemas.push(`${arquivo}: fora do contrato. O único nome válido é <Revision.id>.webp`);
