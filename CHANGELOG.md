@@ -2,6 +2,16 @@
 
 ## Unreleased
 
+- **`/atualizacoes` volta a mostrar só ilustração.** O card repetia, ao lado do item, o título que o
+  texto já traz em corpo legível, e não acrescentava nada ao leitor da página. Ele continua gerado
+  para toda revisão em `public/social/`; só não entra na lista.
+- **Sete ilustrações do Codex publicadas**: lotes 218, 219, 221, 222, 224, 225 e 227, convertidas de
+  PNG para WebP 1280×720 por `social:add` (79–111 KB), cada uma inspecionada pela seção 7.1 — título
+  idêntico ao da revisão, sem rosto identificável, sem documento simulado. Onde havia duas versões
+  do mesmo lote, entrou a mais recente; a primeira do lote 218 também tinha o título corrompido. A
+  do lote 235 **não** foi publicada: a cena reconstitui um fato específico do lote — a casa
+  "localizada por drone" —, o que a regra 3 da seção 7.1 veda.
+
 - Entrega dos workflows `card-de-lote.yml` e `arte-de-lote.yml` deixa de falhar quando a `main` anda
   no meio da execução. O `npm run build` de validação reescreve `public/acervo.txt` e
   `public/llms.txt`, que são versionados; com esse resíduo no worktree, a retentativa do card

@@ -6,9 +6,9 @@ Contrato fechado na [issue #34](https://github.com/rfausel-lgtm/novelo_master/is
 
 1. Cada revisão tem **zero ou uma** arte. Quando existir, o único nome válido é `public/social/<Revision.id>.webp`. Não há sufixos, slugs ou artes adicionais.
 2. `public/social/` contém **somente** artes canônicas em WebP, mais o manifesto `cards.json`. Iterações substituídas, PNGs-fonte e arquivos fora do contrato não moram lá.
-3. `/atualizacoes` exibe a arte canônica ao lado do texto do lote — no celular acima dele, em largura cheia; a partir de 768 px à direita, em duas colunas iguais com o texto e a mesma margem dos dois lados —, com a legenda colada na imagem. **A ausência de arte é normal**, não é lacuna, e a lista não reserva espaço para ela: o item simplesmente começa pela data.
+3. `/atualizacoes` exibe **só a ilustração** ao lado do texto do lote (o card fica fora da lista: repetia o título que o item já traz em texto) — no celular acima dele, em largura cheia; a partir de 768 px à direita, em duas colunas iguais com o texto e a mesma margem dos dois lados —, com a legenda colada na imagem. **A ausência de arte é normal**, não é lacuna, e a lista não reserva espaço para ela: o item simplesmente começa pela data.
    Há **dois tipos de arte**, no mesmo nome de arquivo, distinguidos pelo manifesto `public/social/cards.json`:
-   - **card** — gerado do próprio acervo por `npm run social:cards` (`scripts/lib/card.ts`): tipografia do título já aprovado sobre um emaranhado desenhado a partir do `Revision.id`. Sem modelo de imagem, reproduzível byte a byte a partir do id. Legenda: "Cartão gerado do próprio acervo".
+   - **card** — gerado do próprio acervo por `npm run social:cards` (`scripts/lib/card.ts`): tipografia do título já aprovado sobre um emaranhado desenhado a partir do `Revision.id`. Sem modelo de imagem, reproduzível byte a byte a partir do id. Não aparece em `/atualizacoes`.
    - **ilustração** — a cena que o agente do Codex pinta. Legenda: "Ilustração gerada por IA".
 
    A distinção existe por causa da legenda, e não por capricho de catalogação: "gerada por IA" é verdade sobre uma e falsa sobre a outra, e num site cujo assunto é procedência legenda imprecisa custa mais do que legenda ausente. O manifesto é lista de **cards**, nunca de ilustrações — manifesto perdido degrada tudo para a legenda mais cautelosa.

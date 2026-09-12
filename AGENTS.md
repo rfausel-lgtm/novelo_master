@@ -24,8 +24,9 @@ nada nesta cadeia depende de alguém lembrar depois.
    segundo por peça e vale para 100% das revisões. Quem publica lote não precisa acionar nada, e
    quem quiser antecipar roda `npm run social:cards` antes do push.
 
-   O card **não é ilustração**, e o site não o legenda como tal: `public/social/cards.json` registra
-   quais artes são cards, e a legenda em `/atualizacoes` muda conforme. "Ilustração gerada por IA" é
+   O card **não é ilustração** e **não aparece em `/atualizacoes`**: `public/social/cards.json`
+   registra quais artes são cards, e a lista mostra só as ilustrações — o card repetia, ao lado, o
+   título que o item já traz em texto. Decisão de Rafael em 12/09/2026. "Ilustração gerada por IA" é
    verdade sobre a cena que o Codex pinta e é falsa sobre um card, que só compõe o título já
    aprovado pelo acervo.
 
