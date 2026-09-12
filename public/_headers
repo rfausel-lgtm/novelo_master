@@ -48,13 +48,11 @@
 /data/*
   Cache-Control: public, max-age=300, must-revalidate
 
-# Sem `immutable` nas duas regras abaixo: o nome do arquivo é estável e o conteúdo pode ser trocado
-# (ilustração que substitui o card; foto corrigida).
+# Sem `immutable`: o nome do arquivo é estável e a ilustração pode substituir o card.
 /social/*
   Cache-Control: public, max-age=86400, stale-while-revalidate=604800
 
-/fotos/*
-  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+# /fotos/ fica sem regra de propósito: o padrão revalida, e foto corrigida precisa aparecer logo.
 
 /_next/static/*
   Cache-Control: public, max-age=31536000, immutable
