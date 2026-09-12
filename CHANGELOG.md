@@ -3,9 +3,10 @@
 ## Unreleased
 
 - **Ilustrações dos lotes 233 e 234 publicadas**, convertidas de PNG para WebP 1280×720 por
-  `social:add` (92 e 74 KB) e inspecionadas pela seção 7.1. Varredura completa das 86 imagens do
-  Codex geradas desde 09/09: fora estas duas, nenhuma é de lote que ainda esteja só com card — 15 não
-  trazem título (painéis de identidade visual) e as demais são de lotes já ilustrados.
+  `social:add` (92 e 74 KB) e inspecionadas pela seção 7.1.
+- **Ilustrações dos lotes 236 a 240 publicadas** (80–127 KB), geradas pelo Codex às 18h18–18h22,
+  depois da varredura anterior — que por isso as dava, errado, como inexistentes. Mesma inspeção pela
+  seção 7.1: título idêntico ao da revisão; no 236, só silhueta de costas.
 
 - **`/atualizacoes` volta a mostrar só ilustração.** O card repetia, ao lado do item, o título que o
   texto já traz em corpo legível, e não acrescentava nada ao leitor da página. Ele continua gerado
