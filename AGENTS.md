@@ -36,13 +36,22 @@ nada nesta cadeia depende de alguém lembrar depois.
    [`.github/workflows/arte-de-lote.yml`](.github/workflows/arte-de-lote.yml): ele dispara no push de
    qualquer branch `codex/**`, confere que o diff contra a `main` é **exclusivamente** arte (ao menos
    um `public/social/*.webp` novo e nada fora dele e do `CHANGELOG.md`), roda `social:check`,
-   `data:lint` estrito e `build`, e só então abre o PR e o mescla. O token é o do próprio Actions, o
-   que dispensa credencial nova na máquina. Branch que toque `src/`, `scripts/`, `data/` ou
-   `.github/` é ignorada em silêncio: código e dado passam por gente.
+   `data:lint` estrito e `build`, e só então commita os `.webp` novos direto na `main`. O token é o do
+   próprio Actions, o que dispensa credencial nova na máquina. Branch que toque `src/`, `scripts/`,
+   `data/` ou `.github/` é ignorada em silêncio: código e dado passam por gente.
 
-   As verificações rodam DENTRO desse workflow, e não pelo CI de PR, porque PR aberto com o
-   `GITHUB_TOKEN` não dispara o evento `pull_request` — restrição do GitHub contra laço infinito de
-   workflows. Um PR assim nasceria sem verificação nenhuma.
+   **Sem PR, e por dois motivos medidos.** PR aberto com o `GITHUB_TOKEN` não dispara o evento
+   `pull_request` (restrição do GitHub contra laço infinito de workflows), então nasceria sem
+   verificação nenhuma — por isso as validações rodam dentro do próprio workflow. E abrir PR pelo
+   Actions esbarra em `GitHub Actions is not permitted to create or approve pull requests`,
+   configuração de repositório desligada: foi assim que a primeira execução real falhou
+   (run 34664172083). O `proteger-main` não exige PR — só impede deleção e force-push —, então a
+   entrega direta é legítima, e o rastro fica no commit e no log da execução.
+
+   **A entrega copia arquivo a arquivo, nunca a pasta.** `git checkout <ref> -- public/social/`
+   traria a pasta como está na branch e apagaria da `main` a arte que chegou depois que a branch
+   nasceu. E a `main` anda o tempo todo: por isso, se ela andar durante a entrega, o passo se refaz
+   sobre a `main` nova, até cinco vezes, em vez de falhar.
 
    O que não mudou: o site é construído a partir da `main`, então arte parada em branch não existe
    para o leitor — e branch parada foi exatamente como as artes dos lotes 156 a 164 ficaram um dia

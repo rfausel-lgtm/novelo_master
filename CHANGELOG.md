@@ -7,10 +7,12 @@
   Windows, inacessível no ambiente isolado —, então o PR nunca era aberto e a arte ficava parada em
   branch até alguém perceber; foi assim que os lotes 136–165 levaram até 44 h. O workflow dispara no
   push de branch `codex/**`, exige que o diff contra a `main` seja exclusivamente arte, roda
-  `social:check`, `data:lint` estrito e `build`, e só então abre o PR e o mescla, com o token do
-  próprio Actions — nenhuma credencial nova na máquina. As verificações rodam dentro dele porque PR
-  aberto com `GITHUB_TOKEN` não dispara o evento `pull_request` e nasceria sem checagem alguma.
-
+  `social:check`, `data:lint` estrito e `build`, e então commita os `.webp` novos direto na `main`,
+  com o token do próprio Actions — nenhuma credencial nova na máquina. Sem PR: abrir um pelo Actions
+  esbarra em `GitHub Actions is not permitted to create or approve pull requests`, e um PR aberto com
+  `GITHUB_TOKEN` sequer dispararia o CI, por restrição do GitHub contra laço de workflows. A entrega
+  copia arquivo a arquivo e se refaz sobre a `main` nova se ela andar no meio, para nunca apagar arte
+  que chegou depois que a branch nasceu.
 - A arte do lote passou a abrir o item em `/atualizacoes`, antes do texto, com a legenda "Ilustração
   gerada por IA" entre a imagem e o texto — o leitor lê a ressalva no instante em que passa da
   ilustração para o que o acervo afirma. Ausência de arte segue sendo estado normal: o item começa
