@@ -3,21 +3,27 @@ kind: person
 name: Paulo Humberto Barbosa
 category: other
 role: Investigado no Inquérito 5.026/DF, dispensado de comparecimento obrigatório à CPI do Crime Organizado
-summary: Citado na petição de Ibaneis Rocha (e-Doc 216) como uma das pessoas que, no âmbito do Inquérito 5.026/DF,
+summary: 'Citado na petição de Ibaneis Rocha (e-Doc 216) como uma das pessoas que, no âmbito do Inquérito 5.026/DF,
   tiveram a obrigatoriedade de comparecimento à CPI do Crime Organizado afastada por decisão do ministro André Mendonça
-  em 26/02/2026 — mesma data da dispensa dos irmãos Dias Toffoli. O corpus não localizou, até esta atualização,
-  nenhum outro documento que explique seu papel nas investigações do caso Master.
+  em 26/02/2026 — mesma data da dispensa dos irmãos Dias Toffoli. ACHADO NOVO (lote 241): a decisão primária (Petição
+  21112/2026, e-Doc. 376), lida por inteiro, revela que o Requerimento nº 145/2026 que motivou sua convocação pela
+  CPI tinha fundamentação idêntica à dos irmãos Toffoli (mesmo texto-modelo), e que sua própria defesa caracteriza
+  o requerimento como baseado em suposta "relação ilícita" entre ele e outros convocados — alegação da defesa sobre
+  o que a CPI teria usado contra ele, não fato apurado. O corpus não localizou, além disso, nenhum outro documento
+  que explique seu papel nas investigações do caso Master.'
 why_in_novelo: Nome novo, citado apenas de passagem em lista de dispensas de comparecimento à CPI — sua conexão
   específica com o caso Master ainda não está estabelecida no acervo.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública localizada no corpus.
 open_questions:
-- Qual é exatamente o papel de Paulo Humberto Barbosa nas investigações do caso Master? A única referência no corpus
-  é a de que foi dispensado de depor à CPI por decisão de 26/02/2026 no Inquérito 5.026/DF, sem detalhamento do
-  motivo.
+- 'RESOLVIDO EM PARTE (lote 241): a decisão primária de 26/02/2026 foi lida por inteiro — confirma a
+  dispensa e a suposta "relação ilícita" alegada pela própria defesa como fundamento da convocação, mas
+  não detalha qual conduta lhe é especificamente atribuída no INQ 5.026/DF além de figurar como
+  investigado.'
 source_ids:
 - src-stf-pet15556-edoc216-pedido-extensao-ibaneis-01-04-2026
+- src-stf-inq5026-decisao-26-02-2026-paulo-humberto-barbosa-salvo-conduto
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

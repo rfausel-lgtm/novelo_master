@@ -1,0 +1,37 @@
+id: rev-2026-09-12-lote-241-decisoes-primarias-salvo-conduto-cpi
+kind: revision
+date: '2026-09-12'
+title: 'Lote 241 — os irmãos Toffoli e Paulo Humberto Barbosa: as decisões primárias que faltavam'
+summary: 'Duas decisões de André Mendonça no INQ 5.026, ambas de 26/02/2026, que o acervo só conhecia por
+  citação em petições de terceiros (Belline Santana e Ibaneis Rocha) — lidas agora por inteiro. Confirmam,
+  com fonte judicial direta, que José Eugênio e José Carlos Dias Toffoli (irmãos do ex-relator do próprio
+  inquérito) e Paulo Humberto Barbosa figuram como investigados no INQ 5.026 e foram dispensados de
+  comparecimento à CPI do Crime Organizado por essa condição — upgrade de classificação de C para D. As
+  duas decisões usam fundamentação textualmente idêntica, revelando um padrão: convocações da CPI
+  neutralizadas em bloco por salvo-conduto/habeas corpus preventivo, com os números dos Requerimentos que
+  motivaram cada convocação agora identificados.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 2
+  relationships: 0
+  sources: 2
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'ev-irmaos-de-toffoli-sao-investigados-no-inq-5026-e-dispensados-da-cpi: upgrade de classificação C
+  para D — decisão primária lida por inteiro, não mais só citação de terceiro.'
+- 'jose-eugenio-dias-toffoli, jose-carlos-dias-toffoli, paulo-humberto-barbosa: open_question sobre
+  ausência da decisão primária, resolvida em parte.'
+author: orquestrador
+affected_ids:
+- jose-eugenio-dias-toffoli
+- jose-carlos-dias-toffoli
+- paulo-humberto-barbosa
+- andre-mendonca
+reason: Leitura direta, por equipe de investigação, de decisões públicas do INQ 5.026/DF ainda não
+  analisadas — peças do portal do STF, obtidas em sessão anterior.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

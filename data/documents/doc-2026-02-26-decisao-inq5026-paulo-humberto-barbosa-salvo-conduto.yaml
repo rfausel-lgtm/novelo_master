@@ -1,0 +1,26 @@
+id: doc-2026-02-26-decisao-inq5026-paulo-humberto-barbosa-salvo-conduto
+kind: document
+title: Decisão de André Mendonça concedendo salvo-conduto a Paulo Humberto Barbosa
+doc_type: judicial_decision
+date: '2026-02-26'
+date_precision: day
+source_ids:
+- src-stf-inq5026-decisao-26-02-2026-paulo-humberto-barbosa-salvo-conduto
+summary: 'Defere tutela incidental/habeas corpus preventivo em favor de Paulo Humberto Barbosa (Petição
+  21112/2026, e-Doc. 376), dispensando-o de comparecimento compulsório à CPI do Crime Organizado por
+  figurar como investigado no INQ 5.026 — extensão direta, com fundamentação idêntica, da decisão do
+  mesmo dia sobre os irmãos Dias Toffoli. A petição de defesa caracteriza o Requerimento nº 145/2026 como
+  baseado em suposta "relação ilícita" entre ele e outros convocados — alegação da própria defesa sobre o
+  que a CPI teria usado contra ele, não fato apurado.'
+is_official: true
+related_entity_ids:
+- paulo-humberto-barbosa
+- andre-mendonca
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: INQ 5.026/DF, Petição 21112/2026, e-Doc. 376
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

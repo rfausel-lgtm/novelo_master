@@ -16,12 +16,14 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública dele foi localizada no corpus até a data desta apuração.
 open_questions:
-- O corpus não obteve o teor da decisão de 26/02/2026 (Petição 20501/2026 do INQ 5.026/DF) que o qualifica como
-  investigado, apenas a menção feita em petição de terceiro (Belline Santana) que a cita como precedente.
-- Não está estabelecido, em fonte primária, qual conduta especificamente lhe é atribuída no INQ 5.026/DF — apenas
-  que figura como investigado.
+- 'RESOLVIDO EM PARTE (lote 241): a decisão primária de 26/02/2026 (Petição 20501/2026, e-Doc. 355) foi
+  lida por inteiro — confirma a condição de investigado e o deferimento do salvo-conduto, citando os
+  Requerimentos 143/2026 e 160/2026 como base da convocação pela CPI. Não detalha, porém, qual conduta
+  especificamente lhe é atribuída no INQ 5.026/DF além de figurar como investigado — isso segue em
+  aberto.'
 source_ids:
 - src-stf-pet15556-edoc173-peticao-belline-dispensa-cpi
+- src-stf-inq5026-decisao-26-02-2026-irmaos-toffoli-salvo-conduto
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

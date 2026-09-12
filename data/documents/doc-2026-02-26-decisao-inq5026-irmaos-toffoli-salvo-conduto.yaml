@@ -1,0 +1,27 @@
+id: doc-2026-02-26-decisao-inq5026-irmaos-toffoli-salvo-conduto
+kind: document
+title: Decisão de André Mendonça concedendo salvo-conduto a José Eugênio e José Carlos Dias Toffoli
+doc_type: judicial_decision
+date: '2026-02-26'
+date_precision: day
+source_ids:
+- src-stf-inq5026-decisao-26-02-2026-irmaos-toffoli-salvo-conduto
+summary: 'Defere tutela incidental/habeas corpus preventivo em favor de José Eugênio e José Carlos Dias
+  Toffoli (Petição 20501/2026, e-Doc. 355), dispensando-os de comparecimento compulsório à CPI do Crime
+  Organizado por figurarem como investigados no INQ 5.026 — "a própria natureza e justificativa dos
+  requerimentos evidencia que os Requerentes foram convocados na condição de investigados, de modo que
+  não se pode deles obrigar comparecimento compulsório". Cita os Requerimentos 140/2026 e 161/2026 (José
+  Eugênio) e 143/2026 e 160/2026 (José Carlos).'
+is_official: true
+related_entity_ids:
+- jose-eugenio-dias-toffoli
+- jose-carlos-dias-toffoli
+- andre-mendonca
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: INQ 5.026/DF, Petição 20501/2026, e-Doc. 355
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
