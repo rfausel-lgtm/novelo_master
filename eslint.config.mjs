@@ -14,7 +14,11 @@ const eslintConfig = defineConfig([
     "dist/**",
     "next-env.d.ts",
     // Worktrees de sessões paralelas vivem dentro do repositório e não devem ser linkadas aqui.
+    // `.codex/` entrou depois: sem ele, `npm run lint` passou a varrer as cópias inteiras do repo
+    // que a automação de artes deixa em .codex/worktrees/ — 1.284 arquivos alheios e 75 mil
+    // apontamentos, num comando que antes devolvia um aviso.
     ".claude/**",
+    ".codex/**",
   ]),
 ]);
 

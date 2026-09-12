@@ -1,7 +1,7 @@
 "use client";
 
-import { useEffect, useId, useMemo, useRef } from "react";
-import { addMonths, daysBetween, addDays, formatDatePT, todayISO } from "@/lib/graph/dates";
+import { useCallback, useEffect, useId, useMemo, useRef } from "react";
+import { addMonths, formatDatePT, todayISO } from "@/lib/graph/dates";
 import { ToolButton } from "./ui";
 
 interface TimeMachineProps {
@@ -43,9 +43,7 @@ export function TimeMachine(props: TimeMachineProps) {
     marcos,
   } = props;
   const id = useId();
-  const total = Math.max(1, daysBetween(min, max));
   const current = value ?? max;
-  const pos = Math.min(total, Math.max(0, daysBetween(min, current)));
   const timer = useRef<ReturnType<typeof setInterval> | null>(null);
   const currentRef = useRef(current);
   const marcosRef = useRef(marcos);
@@ -89,17 +87,60 @@ export function TimeMachine(props: TimeMachineProps) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [playing]);
 
+  /**
+   * A régua anda por MARCO, não por dia.
+   *
+   * Medido no acervo em 12/09/2026: de 440 elementos datados, 2000–2018 somam 5% e ocupavam ~70% da
+   * barra; 2024–2026 somam 60% e ocupavam ~11%. Arrastar dois terços do curso percorria um vigésimo
+   * do caso — a régua era quase toda inútil, e tudo se amontoava na ponta direita.
+   *
+   * `marcos` são as datas em que algo de fato entra no grafo (primeira aparição de nó, início de
+   * relação). Indexar por elas dá passo de tamanho igual em CONTEÚDO: ano sem nada encolhe, ano
+   * cheio se abre. De quebra, arrastar e reproduzir passam a andar na mesma unidade — antes o play
+   * saltava de marco em marco enquanto o arraste corria por dia.
+   *
+   * `max` entra no fim da escala para a ponta direita continuar significando "tudo".
+   */
+  const escala = useMemo(() => {
+    const datas = [...new Set([...marcos.filter((d) => d >= min && d <= max), max])].sort();
+    return datas.length > 1 ? datas : [min, max];
+  }, [marcos, min, max]);
+
+  const posicaoDe = useCallback(
+    (data: string) => {
+      let i = escala.findIndex((d) => d >= data);
+      if (i < 0) i = escala.length - 1;
+      return i;
+    },
+    [escala],
+  );
+
+  /**
+   * Rótulo de ano na posição real dele dentro da escala — e só quando couber.
+   *
+   * Com a escala por marco os anos vazios se juntam, então a regra antiga (`i % 5`) ora escondia
+   * rótulo que cabia, ora deixava dois colados. Aqui o critério é a distância até o último rótulo
+   * já desenhado, que é o que decide de fato se um número lê ou vira borrão.
+   */
   const years = useMemo(() => {
     const out: { label: string; pct: number }[] = [];
     const y0 = Number(min.slice(0, 4));
     const y1 = Number(max.slice(0, 4));
+    const ultimoTopo = escala.length - 1;
+    let ultimoPct = -Infinity;
     for (let y = y0; y <= y1; y++) {
       const d = `${y}-01-01`;
       if (d < min || d > max) continue;
-      out.push({ label: String(y), pct: (daysBetween(min, d) / total) * 100 });
+      const pct = (posicaoDe(d) / ultimoTopo) * 100;
+      // 7% ≈ 45 px numa barra de 640, que é o necessário para quatro dígitos não encostarem.
+      if (pct - ultimoPct < 7) continue;
+      // A borda direita é do rótulo da data final; ano colado nela sobrepõe.
+      if (pct > 88) continue;
+      out.push({ label: String(y), pct });
+      ultimoPct = pct;
     }
     return out;
-  }, [min, max, total]);
+  }, [min, max, escala, posicaoDe]);
 
   return (
     <div className="graph-time-machine border-border bg-bg-2/95 pointer-events-auto flex flex-col gap-1.5 rounded-lg border px-3 py-2 shadow-xl backdrop-blur">
@@ -159,28 +200,25 @@ export function TimeMachine(props: TimeMachineProps) {
             id={id}
             type="range"
             min={0}
-            max={total}
+            max={escala.length - 1}
             step={1}
-            value={pos}
+            value={posicaoDe(current)}
             onChange={(e) => {
-              const d = addDays(min, Number(e.target.value));
+              const d = escala[Number(e.target.value)] ?? max;
               onChange(d >= max ? undefined : d);
             }}
             aria-valuemin={0}
-            aria-valuemax={total}
-            aria-valuenow={pos}
+            aria-valuemax={escala.length - 1}
+            aria-valuenow={posicaoDe(current)}
             aria-valuetext={`até ${formatDatePT(current)}`}
             aria-label="Data limite do grafo"
             className="accent-accent h-11 w-full cursor-pointer md:h-1.5"
           />
           <div className="text-fg-3 relative mt-0.5 h-3 text-[10px]" aria-hidden="true">
-            {years.map((y, i) => (
+            {years.map((y) => (
               <span
                 key={y.label}
-                /* Em tela estreita os anos se sobrepõem: mostra um a cada dois. */
-                className={`absolute -translate-x-1/2 tabular-nums ${
-                  i % 5 !== 0 ? "hidden sm:block" : ""
-                }`}
+                className="absolute -translate-x-1/2 tabular-nums"
                 style={{ left: `${y.pct}%` }}
               >
                 {y.label}

@@ -783,7 +783,23 @@ export function GraphExplorer() {
         </div>
       </div>
       {/* Barra de ferramentas */}
-      <div className="graph-toolbar pointer-events-none z-30 flex flex-col gap-2 p-3">
+      {/*
+        Quando há painel aberto, a barra reserva a coluna dele.
+
+        A barra vive em z-30 e o painel em z-20, então tudo que a barra alinha à direita desenha POR
+        CIMA do card — e o link "Ver a mesma rede em tabela" cobria exatamente o botão de fechar.
+        Medido em produção: o link ocupava x 1099–1253 e o × ocupava 1212–1240, e
+        `elementFromPoint` no centro do × devolvia o link. Não era sobreposição visual apenas: clicar
+        no × levava o leitor para /rede em vez de fechar o card.
+
+        Reservar o espaço resolve sem mexer em camada nem esconder controle: os dois ficam visíveis e
+        clicáveis. 396px = 384 do painel + 12 da margem direita dele.
+      */}
+      <div
+        className={`graph-toolbar pointer-events-none z-30 flex flex-col gap-2 p-3 ${
+          activePanel ? "md:pr-[396px]" : ""
+        }`}
+      >
         <div className="graph-primary-tools pointer-events-auto flex items-center gap-1.5">
           <ToolButton
             className="mobile-search-toggle md:hidden"
