@@ -3,7 +3,7 @@
 import { useState } from "react";
 import type { GraphIndex } from "@/lib/graph/indexes";
 import { kPaths, type PathResult, type Visibility } from "@/lib/graph/algorithms";
-import { EVIDENCE_CLASS_LABEL } from "@/lib/schema";
+import { EVIDENCE_CLASS_LABEL } from "@/lib/schema/labels";
 import { SearchBox } from "./SearchBox";
 import { EvidenceBadge, PanelShell, SectionHeading, ToolButton } from "./ui";
 import type { PathState } from "./useGraphState";

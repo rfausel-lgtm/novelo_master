@@ -12,7 +12,7 @@ import {
   ORG_TYPE_LABEL,
   PERSON_CATEGORY_LABEL,
   PUBLIC_ACT_TYPE_LABEL,
-} from "@/lib/schema";
+} from "@/lib/schema/labels";
 import { Counter, PanelShell, SectionHeading, ToolButton } from "./ui";
 
 interface NodeCardProps {

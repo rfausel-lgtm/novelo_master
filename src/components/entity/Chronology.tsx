@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useMemo } from "react";
 import type { TimelineItem } from "@/lib/pages";
 import type { EvidenceClass } from "@/lib/schema";
-import { EVIDENCE_CLASS_LABEL } from "@/lib/schema";
+import { EVIDENCE_CLASS_LABEL } from "@/lib/schema/labels";
 import { formatPartialDate } from "@/lib/format";
 import { listaDaUrl, listaParaUrl, useUrlState } from "@/lib/url-state";
 import { EvidenceBadge } from "./badges";
@@ -153,7 +153,7 @@ export function Chronology({ items }: { items: TimelineItem[] }) {
                     </div>
                     <Link
                       href={it.href}
-                      className="text-fg hover:text-accent mt-1 block text-[15px] leading-snug font-medium underline-offset-2 hover:underline"
+                      className="text-fg hover:text-accent mt-0.5 block py-0.5 text-[15px] leading-snug font-medium underline-offset-2 hover:underline"
                     >
                       {it.title}
                     </Link>

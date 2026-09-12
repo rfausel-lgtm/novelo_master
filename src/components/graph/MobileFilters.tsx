@@ -10,7 +10,7 @@ import {
   type FilterState,
 } from "@/lib/graph/filters";
 import { NODE_CATEGORY_LABEL } from "@/lib/graph/types";
-import { EVIDENCE_CLASS_LABEL, RELATIONSHIP_TYPE_LABEL } from "@/lib/schema";
+import { EVIDENCE_CLASS_LABEL, RELATIONSHIP_TYPE_LABEL } from "@/lib/schema/labels";
 
 const extras: Record<string, string> = {
   participation: "Participação em evento",

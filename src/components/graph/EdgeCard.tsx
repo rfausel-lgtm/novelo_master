@@ -1,12 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import {
-  EVIDENCE_CLASS_LABEL,
-  FACT_STATUS_LABEL,
-  RELATIONSHIP_FAMILY_LABEL,
-  RELATIONSHIP_TYPE_LABEL,
-} from "@/lib/schema";
+import { EVIDENCE_CLASS_LABEL, FACT_STATUS_LABEL, RELATIONSHIP_FAMILY_LABEL, RELATIONSHIP_TYPE_LABEL } from "@/lib/schema/labels";
 import type { GraphIndex } from "@/lib/graph/indexes";
 import type { GraphEdge, GraphPositionInfo, GraphSourceInfo } from "@/lib/graph/types";
 import { FAMILY_COLOR_FALLBACK, EVIDENCE_SHAPE_LABEL } from "@/lib/graph/style";

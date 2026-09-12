@@ -1,11 +1,7 @@
 "use client";
 
-import {
-  RELATIONSHIP_FAMILY_LABEL,
-  EVIDENCE_CLASS_LABEL,
-  type EvidenceClass,
-  type RelationshipFamily,
-} from "@/lib/schema";
+import type { EvidenceClass, RelationshipFamily } from "@/lib/schema";
+import { RELATIONSHIP_FAMILY_LABEL, EVIDENCE_CLASS_LABEL } from "@/lib/schema/labels";
 import { EVIDENCE_SHAPE, FAMILY_VAR, NODE_VAR } from "@/lib/graph/style";
 import { NODE_CATEGORY_LABEL, type NodeCategory } from "@/lib/graph/types";
 

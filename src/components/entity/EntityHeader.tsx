@@ -18,14 +18,19 @@ export function Avatar({ entity, size = 64 }: { entity: Person | Organization; s
   if (entity.photo) {
     return (
       <figure className="shrink-0">
+        {/*
+          `loading="lazy"` também impede o React de emitir `<link rel="preload">` para esta imagem;
+          sem ele, toda página que pré-carrega um link para cá baixa a foto junto.
+        */}
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src={entity.photo.path}
           alt={entity.photo.alt}
           width={size}
           height={size}
+          loading="lazy"
           className={`border-border border ${isOrg ? "bg-bg-2 rounded-md object-contain p-1" : "rounded-full object-cover"}`}
-          style={isOrg ? undefined : { objectPosition: FOCO[entity.photo.focus] }}
+          style={{ width: size, height: size, ...(isOrg ? {} : { objectPosition: FOCO[entity.photo.focus] }) }}
         />
         <figcaption className="text-fg-3 mt-1 max-w-[7rem] text-[10px] leading-tight sm:max-w-[12rem]">
           {entity.photo.author} · {entity.photo.license} ·{" "}
