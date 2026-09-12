@@ -7,6 +7,13 @@ date_precision: day
 participant_ids:
 - banco-central-do-brasil
 - banco-master
+- master-holding-financeira
+- 113-investimentos-e-participacoes
+- daniel-vorcaro
+- armando-miguel-gallo-neto
+- felipe-wallace-simonsen
+- angelo-ribeiro-da-silva
+- luiz-bull
 description: O Banco Central decretou a liquidação extrajudicial do Banco Master S.A., do Banco Master
   de Investimento S.A., do Banco Letsbank S.A. e da Master S.A. CCTVM, e Regime de Administração Especial
   Temporária no Banco Master Múltiplo S.A. A ata do Comef avalia que a medida não traz risco sistêmico.
@@ -16,15 +23,18 @@ evidence_class: D
 status: verified
 evidence_ids:
 - ev-bcb-liquidacao-conglomerado-master
+- ev-comunicado-bacen-nomeia-controladoras-e-ex-administradores
 source_ids:
 - src-bcb-2025-11-ata-comef-63
 - src-cnn-2026-03-04-relembre-crise-master
+- src-stf-inq5026-pecas-1-100
 document_ids:
 - doc-2025-11-ata-comef-63
+- doc-2025-11-18-comunicado-bacen-44234-liquidacao
 public_act_ids:
 - ato-2025-11-18-liquidacao-extrajudicial-conglomerado-master
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-12'

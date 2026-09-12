@@ -1,0 +1,28 @@
+id: src-stf-inq5026-pecas-1-100
+kind: source
+title: INQ 5.026 — cem primeiras peças do processo (STF)
+publisher: Supremo Tribunal Federal
+publication_date: '2026-01'
+date_precision: month
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347
+source_type: official_court
+summary: 'As cem primeiras peças do INQ 5.026 (STF) — petições de partes investigadas (Augusto Ferreira Lima,
+  Paulo Henrique Bezerra Rodrigues Costa, Daniel Bueno Vorcaro), documentos comprobatórios anexados por
+  elas, recibos de peticionamento e despachos — baixadas por Rafael via certificado digital. Lidas por
+  inteiro em 12/09/2026 por equipe de investigação. As petições reproduzem, por vezes, o texto de documentos
+  primários anexados (comunicados oficiais do Banco Central, declarações do Banco Master) — nesses casos a
+  classificação segue o documento reproduzido, não a petição que o transcreve.'
+notes: 'Obtido pelo próprio Rafael via certificado digital, mesma política de divulgação já aplicada às
+  demais peças obtidas por certificado. Toda página traz rodapé "Impresso por: [CPF] - RAFAEL FAUSEL" — nunca
+  reproduzido no acervo.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador (leitura integral por equipe de investigação, 100 peças)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

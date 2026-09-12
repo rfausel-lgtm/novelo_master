@@ -1,0 +1,32 @@
+id: doc-2025-11-18-comunicado-bacen-44234-liquidacao
+kind: document
+title: Comunicado 44.234 do Banco Central — decretação da liquidação extrajudicial do Banco Master
+doc_type: administrative_act
+date: '2025-11-18'
+date_precision: day
+source_ids:
+- src-stf-inq5026-pecas-1-100
+summary: 'Comunicado oficial do Banco Central que decretou a liquidação extrajudicial do Banco Master S.A. e
+  determinou indisponibilidade de bens de seus controladores e ex-administradores. Lista como controladoras
+  pessoas jurídicas Master Holding Financeira S.A. e 113 Investimentos e Participações Ltda, e como
+  controladores pessoas físicas Daniel Bueno Vorcaro, Armando Miguel Gallo Neto e Felipe Wallace Simonsen;
+  como ex-administradores, Angelo Ribeiro da Silva, Daniel Bueno Vorcaro, Felipe Wallace Simonsen e Luiz
+  Antonio Bull. Reproduzido (via OCR) em petição de Augusto Ferreira Lima no INQ 5.026.'
+is_official: true
+related_entity_ids:
+- banco-central-do-brasil
+- banco-master
+- master-holding-financeira
+- 113-investimentos-e-participacoes
+- daniel-vorcaro
+- armando-miguel-gallo-neto
+- felipe-wallace-simonsen
+- angelo-ribeiro-da-silva
+- luiz-bull
+issuer: Banco Central do Brasil
+reference: Comunicado BACEN 44.234, de 18/11/2025
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

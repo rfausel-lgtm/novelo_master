@@ -1,0 +1,36 @@
+id: rev-2026-09-12-lote-222-as-duas-holdings-controladoras-do-master
+kind: revision
+date: '2026-09-12'
+title: 'Lote 222 — as duas holdings controladoras do Master, nomeadas pelo próprio Banco Central'
+summary: 'O Comunicado 44.234 do Banco Central, que decretou a liquidação extrajudicial do Banco Master em
+  18/11/2025, nomeia como controladoras sujeitas a indisponibilidade de bens duas pessoas jurídicas até
+  então fora do acervo: Master Holding Financeira S.A. e 113 Investimentos e Participações Ltda — ao lado
+  das pessoas físicas já mapeadas (Daniel Vorcaro, Armando Miguel Gallo Neto, Felipe Wallace Simonsen). O
+  mesmo comunicado confirma que Angelo Ribeiro da Silva, Felipe Wallace Simonsen e Luiz Bull permaneceram
+  como ex-administradores até a liquidação, ao lado do próprio Vorcaro.'
+added:
+  people: 0
+  organizations: 2
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- banco-master
+- banco-central-do-brasil
+- master-holding-financeira
+- 113-investimentos-e-participacoes
+- daniel-vorcaro
+- armando-miguel-gallo-neto
+- felipe-wallace-simonsen
+- angelo-ribeiro-da-silva
+- luiz-bull
+reason: Leitura direta de peças do INQ 5.026 (petições de Augusto Ferreira Lima) que reproduzem comunicado
+  oficial do Banco Central — material novo obtido por Rafael, ainda não minerado pelo acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

@@ -1,0 +1,25 @@
+id: master-holding-financeira
+kind: organization
+name: Master Holding Financeira
+aliases:
+- Master Holding Financeira S.A.
+org_type: company
+summary: Uma das duas pessoas jurídicas listadas pelo Banco Central, no Comunicado 44.234 de 18/11/2025,
+  como controladoras do Banco Master sujeitas a indisponibilidade de bens na liquidação extrajudicial —
+  ao lado de 113 Investimentos e Participações Ltda e de controladores pessoas físicas já mapeados no
+  acervo (Daniel Vorcaro, Armando Miguel Gallo Neto, Felipe Wallace Simonsen).
+why_in_novelo: É controladora formal do Banco Master, nomeada no próprio comunicado oficial do Banco
+  Central que decretou a liquidação extrajudicial do conglomerado.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
+open_questions:
+- Não localizado, nos documentos disponíveis, o quadro societário interno dessa holding — apenas sua
+  qualificação como controladora no comunicado do Banco Central.
+source_ids:
+- src-stf-inq5026-pecas-1-100
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
