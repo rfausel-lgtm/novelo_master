@@ -1,0 +1,26 @@
+id: diogo-ilario-de-araujo-oliveira
+kind: person
+category: other
+name: Diogo Ilário de Araújo Oliveira
+role: Papel no INQ 5.026 não identificado — prestou informações sobre o estado de saúde de um investigado
+summary: Citado em despacho de 28/08/2026 no INQ 5.026 — a autoridade policial foi intimada a tomar
+  ciência de informações prestadas por ele e de documentos sobre "o estado de saúde do investigado" (e-Doc.
+  1021-1024). A capa do processo lista todas as partes como "sob sigilo", e o despacho não identifica quem
+  é o investigado nem qual é o papel de Diogo Ilário (médico, advogado, familiar, ou o próprio investigado
+  falando de si).
+why_in_novelo: Nome novo no acervo, ligado a uma peça recente do INQ 5.026 sobre estado de saúde de um
+  investigado não identificado — registrado por transparência, sem tentar adivinhar de quem se trata.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele foi localizada no corpus.
+open_questions:
+- 'Identidade e papel não estabelecidos — não se sabe se é médico, advogado, familiar, ou o próprio
+  investigado. Não se sabe também quem é "o investigado" cujo estado de saúde está em questão: nenhuma
+  outra peça do acervo, até esta apuração, trata de questão de saúde de qualquer investigado do INQ 5.026.'
+source_ids:
+- src-stf-inq5026-despacho-28-08-2026-diogo-ilario-saude-investigado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

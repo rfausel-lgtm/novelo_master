@@ -46,10 +46,14 @@ open_questions:
 - Se ele efetivamente criou o mecanismo de fabricação de créditos da Tirreno, ou apenas assumiu a direção de
   uma empresa já constituída por Daniel Moreira Bezerra, permanece em apuração — os documentos mostram
   assunção formal da direção, não a autoria do esquema em si.
+- 'NOVO (lote 242): em 24/04/2026, o MPF se opôs à devolução do celular e notebook apreendidos dele, por
+  falta de confirmação de que a perícia havia terminado — indício de que a análise dos aparelhos ainda
+  seguia em curso naquela data.'
 source_ids:
 - src-poder360-2026-02-04-bc-poupou-cartos
 - src-stf-inq5026-ipl1096304-completo
 - src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
+- src-stf-inq5026-despacho-24-04-2026-seixas-maia-devolucao-equipamentos
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'

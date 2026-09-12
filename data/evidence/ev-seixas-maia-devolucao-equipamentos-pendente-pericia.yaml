@@ -1,0 +1,18 @@
+id: ev-seixas-maia-devolucao-equipamentos-pendente-pericia
+kind: evidence
+classification: D
+proposition: Em 24/04/2026, o MPF se opôs à devolução imediata do celular e do notebook apreendidos de
+  André Seixas Maia, por falta de confirmação de que a perícia havia terminado; o relator determinou que a
+  PF informasse em 10 dias.
+document_ids:
+- doc-2026-04-24-despacho-inq5026-seixas-maia-devolucao-equipamentos
+source_ids:
+- src-stf-inq5026-despacho-24-04-2026-seixas-maia-devolucao-equipamentos
+date: '2026-04-24'
+notes: Fato processual pontual, sem desdobramento de mérito conhecido — indica apenas que a perícia nos
+  aparelhos dele seguia em curso em abril de 2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

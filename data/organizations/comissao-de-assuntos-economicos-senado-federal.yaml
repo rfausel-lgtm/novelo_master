@@ -1,0 +1,26 @@
+id: comissao-de-assuntos-economicos-senado-federal
+kind: organization
+name: Comissão de Assuntos Econômicos
+full_name: Comissão de Assuntos Econômicos do Senado Federal
+aliases:
+- CAE
+org_type: public_body
+summary: Comissão permanente do Senado Federal, presidida por Renan Calheiros, que conduz uma linha
+  própria de apuração parlamentar sobre o caso Banco Master — distinta da CPI do Crime Organizado —,
+  tendo pedido ao STF autorização para a apresentação de Daniel Vorcaro perante a comissão (inicialmente
+  para 24/02/2026, depois estendida para 10/03/2026) e questionado publicamente o presidente do Banco
+  Central, Gabriel Galípolo, em 19/05/2026.
+why_in_novelo: É uma frente institucional de apuração sobre o caso Master até aqui não mapeada no acervo,
+  paralela à CPI do Crime Organizado.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública em nome da comissão foi localizada além dos próprios atos oficiais
+    já registrados.
+source_ids:
+- src-stf-inq5026-decisao-26-02-2026-cae-estende-convocacao-vorcaro
+- src-correiobraziliense-2026-05-19-galipolo-na-cae-renan
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

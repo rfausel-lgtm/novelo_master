@@ -1,0 +1,39 @@
+id: rev-2026-09-12-lote-242-cae-senado-convoca-vorcaro-e-pontas-soltas
+kind: revision
+date: '2026-09-12'
+title: 'Lote 242 — a CAE do Senado também convocou Vorcaro, e outras pontas soltas do INQ 5.026'
+summary: 'Fecha a leitura das decisões públicas do INQ 5.026. Achado principal: a Comissão de Assuntos
+  Econômicos do Senado, sob a presidência de Renan Calheiros, obteve do STF autorização para colher
+  depoimento de Daniel Vorcaro — uma frente parlamentar distinta e paralela à já conhecida CPI do Crime
+  Organizado, até aqui não mapeada. Renan Calheiros e a própria comissão ganham registro próprio. Duas
+  pontas soltas menores: o MPF se opôs, em abril de 2026, à devolução imediata dos aparelhos apreendidos
+  de André Seixas Maia por falta de confirmação de perícia concluída; e um despacho de agosto de 2026 cita
+  Diogo Ilário de Araújo Oliveira prestando informações sobre a saúde de um investigado não identificado
+  — registrado com a incerteza de identidade explícita, sem tentar adivinhar quem é.'
+added:
+  people: 2
+  organizations: 1
+  events: 0
+  documents: 2
+  relationships: 0
+  sources: 3
+  evidence: 3
+updated_relationships: 0
+corrections:
+- 'evt-2026-05-19-galipolo-na-cae-e-o-embate-com-renan: Renan Calheiros adicionado aos participant_ids,
+  agora que tem registro próprio.'
+- 'andre-seixas-maia: nova ponta processual sobre pendência de perícia em seus aparelhos.'
+author: orquestrador
+affected_ids:
+- daniel-vorcaro
+- renan-calheiros
+- comissao-de-assuntos-economicos-senado-federal
+- andre-seixas-maia
+- diogo-ilario-de-araujo-oliveira
+- gabriel-galipolo
+reason: Leitura direta, por equipe de investigação, de decisões públicas do INQ 5.026/DF ainda não
+  analisadas — peças do portal do STF, obtidas em sessão anterior. Encerra, por ora, a mineração das
+  decisões públicas disponíveis para os processos do despacho de 10/09/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
