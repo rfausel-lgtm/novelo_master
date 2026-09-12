@@ -104,6 +104,14 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           origem=$(git rev-parse HEAD)
 
+          # `npm run build`, acima, reescreve public/acervo.txt e public/llms.txt, que são
+          # versionados. Com esse resíduo no worktree, o `git checkout -B entrega origin/main` logo
+          # abaixo recusa trocar de base sempre que a `main` tiver versão diferente desses arquivos —
+          # o mesmo defeito que derrubou o card-de-lote.yml nas runs 34711387952 e 34711774411. As
+          # artes a entregar já estão commitadas em `$origem` e voltam de lá arquivo a arquivo, então
+          # descartar o worktree não perde nada.
+          git checkout -- .
+
           # Pela mesma razão, a corrida com a `main` se resolve refazendo a entrega sobre a `main`
           # nova, em vez de falhar.
           for tentativa in 1 2 3 4 5; do
