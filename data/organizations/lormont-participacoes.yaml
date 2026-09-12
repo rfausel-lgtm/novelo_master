@@ -1,0 +1,25 @@
+id: lormont-participacoes
+kind: organization
+name: Lormont Participações
+full_name: Lormont Participações S.A.
+org_type: company
+summary: Segundo a decisão de Dias Toffoli de 06/01/2026 na PET 15.198, a autoridade policial aponta
+  Nelson Tanure como beneficiário final da Lormont Participações S.A., cujas CCBs (Cédulas de Crédito
+  Bancário) de R$ 73,7 milhões concentraram 97% da carteira do FIDC Maranta, em operação entre partes
+  relacionadas.
+why_in_novelo: É o veículo societário citado na peça central que fundamenta a hipótese policial de que
+  Nelson Tanure seria "sócio oculto" do Banco Master — a mesma passagem em que se pede bloqueio do
+  patrimônio dele "no mesmo volume" do de Daniel Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública em nome da empresa foi localizada no corpus.
+open_questions:
+- O acervo não localizou, até esta apuração, registro societário independente (Receita/juntas comerciais)
+  confirmando a beneficiária final apontada pela autoridade policial.
+source_ids:
+- src-stf-decisao-toffoli-2026-01-06-pet-15198
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

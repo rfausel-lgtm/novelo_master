@@ -1,18 +1,30 @@
 id: ev-650-milhoes-astralo-super-empreendimentos-mansao-zettel
 kind: evidence
-classification: A
+classification: C
 proposition: Entre 24/04/2024 e 17/05/2024, os fundos Astralo 95 e Reag Growth 95 (cadeia de fundos-sobre-fundos
   administrada pela Reag) compraram CDBs emitidos pelo Master; em 21/05/2024 o Astralo 95 resgatou R$
   800 milhões desses CDBs, dos quais R$ 650 milhões foram para o fundo Termópilas e, deste, para a Super
   Empreendimentos — empresa de Fabiano Zettel, cunhado de Vorcaro, já registrado no corpus por outras
   frentes —, que usou parte dos recursos para comprar uma mansão de R$ 36,1 milhões em Brasília.
-document_ids: []
+document_ids:
+- doc-2026-01-06-decisao-toffoli-pet-15198
 source_ids:
 - src-tribunadosertao-2026-01-16-650-milhoes-zettel-mansao
+- src-stf-decisao-toffoli-2026-01-06-pet-15198
 attributed_to: Tribuna do Sertão, com base em apuração atribuída a investigadores
 date: '2024-05-21'
+notes: 'Atualizado em 12/09/2026 (lote 230): upgrade de A para C. A decisão de Dias Toffoli de 06/01/2026
+  confirma, com datas e valores idênticos (R$ 800 milhões resgatados, R$ 650 milhões repassados via
+  Termópilas), o mesmo fluxo Astralo 95 → Termópilas → Super Empreendimentos, a partir de fonte oficial —
+  fonte genuinamente independente da imprensa, e não mero envelope da mesma apuração. A ligação entre a
+  Super Empreendimentos e a compra da mansão de Fabiano Zettel permanece sustentada só pela reportagem;
+  a decisão do STF não menciona esse desfecho. A mesma decisão revela ainda uma etapa ANTERIOR do fluxo,
+  não capturada nesta evidência até agora: a Brain Realty devia R$ 459 milhões ao Master; o Astralo 95 e o
+  Reag Growth 95 tornaram-se credores por R$ 450 milhões em CDBs; o desembolso total de R$ 1,45 bilhão
+  teve retorno de R$ 1,38 bilhão entre abril e maio de 2024 — precedendo o resgate de 21/05/2024 já
+  registrado aqui.'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-06'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-06'
-updated_at: '2026-09-06'
+updated_at: '2026-09-12'

@@ -1,0 +1,44 @@
+id: rev-2026-09-12-lote-230-lormont-fidc-maranta-galo-forte-e-o-fluxo-astralo
+kind: revision
+date: '2026-09-12'
+title: 'Lote 230 — o que a decisão de 06/01 tinha e o acervo ainda não sabia: Lormont, FIDC Maranta, Galo
+  Forte FIP, e o fluxo Astralo confirmado por documento oficial'
+summary: 'A leitura integral da decisão de Dias Toffoli de 06/01/2026 na PET 15.198 revela três coisas
+  que o registro truncado já publicado não continha. Primeiro: a citação sobre Nelson Tanure como "sócio
+  oculto" — até aqui interrompida com "(...)" no ponto mais substantivo — está completa: liga a hipótese a
+  dois veículos societários (Lormont Participações e FIDC Maranta) e ao pedido de que seu patrimônio seja
+  bloqueado "no mesmo volume" do de Daniel Vorcaro. Segundo: o fundo Galo Forte FIP muda de titularidade
+  de cotas entre novembro e dezembro de 2024 — do Astralo 95 (100%) para Daniel Vorcaro (~80%) e Astralo
+  95 (~20%) —, em contradição com o que já era de conhecimento público. Terceiro: o fluxo Astralo 95 →
+  Termópilas → Super Empreendimentos, hoje sustentado só por uma reportagem, ganha corroboração
+  documental oficial com datas e valores idênticos — e uma etapa anterior até agora desconhecida (Brain
+  Realty, R$ 459 milhões devidos ao Master).'
+added:
+  people: 0
+  organizations: 3
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'ev-cadeia-de-atribuicao-da-hipotese-de-socio-oculto: trecho completado — a citação sobre Tanure não
+  é mais truncada, e agora nomeia Lormont Participações e FIDC Maranta.'
+- 'ev-650-milhoes-astralo-super-empreendimentos-mansao-zettel: upgrade de classificação A para C (fonte
+  oficial corrobora a reportagem) e adição da etapa anterior do fluxo (Brain Realty, R$ 459 milhões).'
+author: orquestrador
+affected_ids:
+- nelson-tanure
+- daniel-vorcaro
+- fabiano-zettel
+- lormont-participacoes
+- fidc-maranta
+- galo-forte-fip
+- banco-master
+reason: Leitura direta, por equipe de investigação, da íntegra da decisão de Dias Toffoli de 06/01/2026
+  na PET 15.198/DF — peça já parcialmente coberta no acervo, agora relida por completo junto com as demais
+  49 peças do processo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

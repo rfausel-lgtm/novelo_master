@@ -1,0 +1,24 @@
+id: fidc-maranta
+kind: organization
+name: FIDC Maranta
+org_type: fund
+summary: Fundo de Investimento em Direitos Creditórios citado na decisão de Dias Toffoli de 06/01/2026 na
+  PET 15.198 — 97% de sua carteira estava concentrada em CCBs de R$ 73,7 milhões da Lormont Participações
+  S.A., em operação entre partes relacionadas, segundo apontamento da autoridade policial na apuração
+  sobre o Banco Master.
+why_in_novelo: É o fundo cuja concentração de carteira em um único emissor relacionado (Lormont) sustenta,
+  na decisão fundadora da PET 15.198, a hipótese policial de que Nelson Tanure seria "sócio oculto" do
+  Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública em nome do fundo ou de seu administrador foi localizada no corpus.
+open_questions:
+- O acervo não localizou, até esta apuração, registro independente (CVM/administrador) sobre este fundo
+  além da própria decisão do STF que o cita.
+source_ids:
+- src-stf-decisao-toffoli-2026-01-06-pet-15198
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
