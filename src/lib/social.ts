@@ -17,9 +17,35 @@ import path from "node:path";
  * seção 7.1.
  */
 
-export type Ilustracao = { src: string; width: number; height: number };
+/**
+ * `card` é a arte gerada do próprio acervo (scripts/lib/card.ts); `ilustracao` é a cena pintada por
+ * IA. Os dois são `<Revision.id>.webp` na mesma pasta — o tipo muda só a legenda e o `alt`, e é aí
+ * que a distinção importa: "gerada por IA" é verdade sobre uma e falsa sobre a outra.
+ */
+export type TipoDeArte = "card" | "ilustracao";
+export type Ilustracao = { src: string; width: number; height: number; tipo: TipoDeArte };
 
 const DIR = path.join(process.cwd(), "public", "social");
+
+/** Manifesto dos cards. Ver `gravarManifestoDeCards` em scripts/lib/artes.ts. */
+export const ARQUIVO_MANIFESTO = "cards.json";
+
+/**
+ * Lista de cards, não de ilustrações: manifesto ausente ou corrompido degrada tudo para
+ * "ilustração", que é a legenda cautelosa. O default nunca pode ser o que afirma menos.
+ */
+export function lerManifestoDeCards(): Set<string> {
+  const caminho = path.join(DIR, ARQUIVO_MANIFESTO);
+  if (!fs.existsSync(caminho)) return new Set();
+  try {
+    const bruto: unknown = JSON.parse(fs.readFileSync(caminho, "utf8"));
+    const lista = (bruto as { cards?: unknown })?.cards;
+    if (!Array.isArray(lista)) return new Set();
+    return new Set(lista.filter((v): v is string => typeof v === "string"));
+  } catch {
+    return new Set();
+  }
+}
 
 /**
  * O único nome de arquivo publicável: o id da revisão, tal como ele é — segmentos alfanuméricos
@@ -121,12 +147,18 @@ export function artesPorRevisao(): Map<string, Ilustracao> {
   const mtimeMs = fs.statSync(DIR).mtimeMs;
   if (cache && cache.mtimeMs === mtimeMs) return cache.mapa;
 
+  const cards = lerManifestoDeCards();
   const mapa = new Map<string, Ilustracao>();
   for (const arquivo of fs.readdirSync(DIR).sort()) {
     const achado = NOME_CANONICO.exec(arquivo);
     if (!achado) continue;
     const { width, height } = lerWebp(fs.readFileSync(path.join(DIR, arquivo)));
-    mapa.set(achado[1], { src: `/social/${arquivo}`, width, height });
+    mapa.set(achado[1], {
+      src: `/social/${arquivo}`,
+      width,
+      height,
+      tipo: cards.has(achado[1]) ? "card" : "ilustracao",
+    });
   }
   cache = { mtimeMs, mapa };
   return mapa;

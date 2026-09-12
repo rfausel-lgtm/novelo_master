@@ -1,0 +1,100 @@
+name: Card de lote
+
+# Gera o card padrão das revisões que chegaram à `main` sem arte, e o commita de volta.
+#
+# POR QUE ISTO EXISTE. A ilustração do Codex depende de uma automação local que varre a cada dez
+# minutos, de um `gh` que responde 401 no ambiente isolado dela e de um workflow para chegar à
+# `main`. Cada elo já falhou, e o resultado foi arte parada e lote publicado sem imagem. O card não
+# tem elo nenhum: nasce do YAML da revisão, aqui, no mesmo push que publica o lote.
+#
+# ELE NÃO SUBSTITUI A ILUSTRAÇÃO. Card e ilustração dividem o nome canônico `<Revision.id>.webp`, e
+# `social:cards` nunca sobrescreve arquivo existente — então a ilustração, quando existe, prevalece,
+# e publicar uma depois (via `social:add`) apaga o id do manifesto `public/social/cards.json` e
+# devolve a legenda de IA àquela revisão.
+#
+# POR QUE NÃO ENTRA EM LAÇO. A gatilho é `data/revisions/**`; o commit que este workflow empurra
+# toca apenas `public/social/**`, que não casa com o caminho — a execução seguinte não nasce.
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/revisions/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: card-de-lote
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      # O runner não tem Chrome do sistema; o script cai para o Chromium empacotado.
+      - run: npx playwright install --with-deps chromium
+
+      - name: Gerar os cards que faltam
+        id: gerar
+        run: |
+          set -euo pipefail
+          npm run social:cards
+          if [ -z "$(git status --porcelain -- public/social)" ]; then
+            echo "nenhuma revisão sem arte"
+            echo "seguir=nao" >> "$GITHUB_OUTPUT"
+          else
+            git status --porcelain -- public/social | sed 's/^/    /'
+            echo "seguir=sim" >> "$GITHUB_OUTPUT"
+          fi
+
+      # As mesmas três que a entrega de ilustração exige: contrato da pasta, corpus íntegro, e o site
+      # construindo com as artes novas dentro.
+      - run: npm run social:check
+        if: steps.gerar.outputs.seguir == 'sim'
+      - run: npm run data:lint
+        if: steps.gerar.outputs.seguir == 'sim'
+      - run: npm run build
+        if: steps.gerar.outputs.seguir == 'sim'
+
+      # A `main` anda o tempo todo — a pesquisa publica em rajadas —, então a corrida se resolve
+      # rebaseando e tentando de novo, e não falhando. O rebase é seguro aqui porque o commit toca
+      # só arquivos gerados: conflito de conteúdo com trabalho humano não existe nesta pasta.
+      - name: Entregar os cards na main
+        if: steps.gerar.outputs.seguir == 'sim'
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- public/social
+          quantas=$(git diff --cached --name-only --diff-filter=A -- 'public/social/*.webp' | wc -l | tr -d ' ')
+          git commit -q -F - <<COMMIT
+          feat(social): card de lote ($quantas)
+
+          Geração automática de .github/workflows/card-de-lote.yml. O card é função do
+          Revision.id: mesmo id, mesmo desenho. Passaram social:check, data:lint e build.
+          COMMIT
+
+          for tentativa in 1 2 3 4 5; do
+            if git push origin HEAD:main; then
+              echo "entregue na tentativa $tentativa"
+              exit 0
+            fi
+            echo "a main andou; refazendo sobre ela (tentativa $tentativa)"
+            git fetch --quiet origin main
+            git rebase origin/main
+          done
+          echo "não foi possível entregar depois de 5 tentativas"
+          exit 1

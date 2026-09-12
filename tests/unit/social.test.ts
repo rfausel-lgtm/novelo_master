@@ -1,7 +1,13 @@
 import fs from "node:fs";
 import path from "node:path";
 import { describe, expect, it } from "vitest";
-import { ArteInvalida, NOME_CANONICO, artesPorRevisao, lerWebp } from "@/lib/social";
+import {
+  ArteInvalida,
+  NOME_CANONICO,
+  artesPorRevisao,
+  lerManifestoDeCards,
+  lerWebp,
+} from "@/lib/social";
 import {
   conferirPasta,
   idsDeRevisao,
@@ -196,9 +202,24 @@ describe("artesPorRevisao", () => {
     }
   });
 
+  /*
+   * A asserção era "existe ao menos uma revisão sem arte", que passava por acidente do acervo e
+   * quebrou quando o card levou a cobertura a 100%. Ausência de arte continua sendo estado normal —
+   * é contrato, não estatística —, então o que se testa é o COMPORTAMENTO diante dela.
+   */
   it("não entrega arte para revisão que não tem — ausência é o estado normal", () => {
-    const semArte = idsDeRevisao().filter((id) => !artesPorRevisao().has(id));
-    expect(semArte.length).toBeGreaterThan(0);
+    expect(artesPorRevisao().has("rev-2026-01-01-lote-inexistente")).toBe(false);
+  });
+
+  it("classifica cada arte como card ou ilustração, e o manifesto só fala de cards", () => {
+    const cards = lerManifestoDeCards();
+    const artes = artesPorRevisao();
+    expect(artes.size).toBeGreaterThan(0);
+    for (const [id, a] of artes) {
+      expect(a.tipo).toBe(cards.has(id) ? "card" : "ilustracao");
+    }
+    // Todo id do manifesto tem arquivo: manifesto apontando para o vazio é erro de `social:check`.
+    for (const id of cards) expect(artes.has(id)).toBe(true);
   });
 });
 

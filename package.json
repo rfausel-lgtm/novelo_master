@@ -18,6 +18,7 @@
     "data:stress": "tsx scripts/synth-stress.ts",
     "scan:secrets": "tsx scripts/scan-secrets.ts",
     "social:add": "tsx scripts/social-add.ts",
+    "social:cards": "tsx scripts/social-card.ts",
     "social:check": "tsx scripts/social-check.ts",
     "social:pending": "tsx scripts/social-pending.ts",
     "test": "vitest run",

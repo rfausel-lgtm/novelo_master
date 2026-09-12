@@ -2,6 +2,25 @@
 
 ## Unreleased
 
+- **Card de lote: toda revisão passa a ter arte, sem modelo de imagem.** A ilustração do Codex
+  dependia de uma automação local que varre a cada dez minutos, de um `gh` que responde 401 no
+  ambiente isolado dela e de um workflow para chegar à `main` — três elos, os três já falharam, e o
+  resultado era lote publicado sem imagem: 40 artes para 249 revisões. O card (`scripts/lib/card.ts`,
+  `npm run social:cards`) é tipografia do título já aprovado sobre um emaranhado de nós e arestas
+  desenhado a partir do `Revision.id`: mesmo id, mesmo desenho, cerca de um segundo por peça, e
+  nenhuma dependência nova — usa o Chromium do Playwright e o `canvas.toDataURL("image/webp")` que
+  `social:add` já usava. Cobertura agora é 249/249. O workflow
+  `.github/workflows/card-de-lote.yml` gera e commita no mesmo push que publica o lote; ele não entra
+  em laço porque dispara em `data/revisions/**` e só escreve em `public/social/**`.
+- **A legenda passou a distinguir card de ilustração.** "Ilustração gerada por IA" é verdade sobre a
+  cena que o Codex pinta e é falsa sobre um card, que só compõe o título que o acervo já aprovou —
+  num site cujo assunto é procedência, legenda imprecisa custa mais do que legenda ausente. O
+  manifesto `public/social/cards.json` registra quais artes são cards; o `alt` e a legenda em
+  `/atualizacoes` mudam conforme, e `social:add` apaga o id do manifesto ao publicar uma ilustração
+  por cima. O manifesto é lista de cards, nunca de ilustrações: manifesto perdido degrada tudo para a
+  legenda mais cautelosa. A ilustração do Codex continua possível e vira melhoria opcional, pedida
+  caso a caso.
+
 - **Retratação** de `seq-dark-horse-cobranca-2025-09-08-e-transferencia-2025-09-16`. A sequência
   afirmava, no título e na descrição, um intervalo de oito dias entre o áudio em que Flávio Bolsonaro
   cobra parcelas do filme e a transferência de US$ 1,6 milhão ao Havengate — e a proximidade era todo
