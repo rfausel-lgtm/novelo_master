@@ -1,0 +1,20 @@
+id: ev-compliance-zero-2fase-cerca-100-dispositivos-pericia
+kind: evidence
+classification: D
+proposition: A 2ª fase da Operação Compliance Zero envolveu a apreensão de cerca de 100 dispositivos
+  eletrônicos, cuja perícia de extração o Instituto Nacional de Criminalística estimou em
+  aproximadamente 20 semanas de dedicação exclusiva de um único perito; as extrações mais urgentes já
+  haviam sido feitas antecipadamente a pedido da PGR, por risco de perda de conteúdo probatório
+  perecível.
+document_ids:
+- doc-2026-02-24-decisao-pet15198-planejamento-pericial-100-dispositivos
+source_ids:
+- src-stf-pet15198-decisao-24-02-2026-planejamento-pericial-100-dispositivos
+date: '2026-02-24'
+notes: Primeiro registro no acervo de uma dimensão numérica concreta da perícia digital da Operação
+  Compliance Zero — não fala do conteúdo dos dispositivos, só do volume e do prazo técnico estimado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

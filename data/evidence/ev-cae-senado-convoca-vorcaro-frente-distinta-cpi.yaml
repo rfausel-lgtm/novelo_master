@@ -3,16 +3,19 @@ kind: evidence
 classification: D
 proposition: A Comissão de Assuntos Econômicos do Senado Federal, sob a presidência de Renan Calheiros,
   pediu e obteve do STF autorização para colher depoimento de Daniel Vorcaro — frente institucional
-  distinta e paralela à CPI do Crime Organizado, inicialmente autorizada para 24/02/2026 e depois
-  estendida para 10/03/2026.
+  distinta e paralela à CPI do Crime Organizado, inicialmente autorizada para 24/02/2026, sob a condição
+  de adesão voluntária e expressa do próprio Vorcaro, e depois estendida para 10/03/2026.
 document_ids:
+- doc-2026-02-19-decisao-inq5026-cae-convoca-vorcaro-original
 - doc-2026-02-26-decisao-inq5026-cae-estende-convocacao-vorcaro
 source_ids:
+- src-stf-inq5026-decisao-19-02-2026-cae-convoca-vorcaro-original
 - src-stf-inq5026-decisao-26-02-2026-cae-estende-convocacao-vorcaro
-date: '2026-02-26'
+date: '2026-02-19'
 notes: Frente até então não mapeada no acervo, que já documentava extensamente a CPI do Crime Organizado
-  mas não esta segunda via parlamentar. A decisão de 19/02/2026 (e-Doc. 323), que autorizou a apresentação
-  pela primeira vez, não foi localizada nem lida — pista para leitura futura.
+  mas não esta segunda via parlamentar. A decisão original de 19/02/2026 (e-Doc. 323) — antes uma lacuna
+  explícita — foi localizada e lida, e autoriza o convite da CAE, mas condiciona o comparecimento à
+  manifestação prévia e voluntária do próprio investigado, sob o direito à não autoincriminação.
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'

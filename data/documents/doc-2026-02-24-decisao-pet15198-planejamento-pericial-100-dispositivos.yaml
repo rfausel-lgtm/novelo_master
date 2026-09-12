@@ -1,0 +1,24 @@
+id: doc-2026-02-24-decisao-pet15198-planejamento-pericial-100-dispositivos
+kind: document
+title: Decisão sobre planejamento pericial da 2ª fase da Compliance Zero
+doc_type: judicial_decision
+date: '2026-02-24'
+date_precision: day
+source_ids:
+- src-stf-pet15198-decisao-24-02-2026-planejamento-pericial-100-dispositivos
+summary: 'Defere o requerimento da Polícia Federal (Ofício nº 12/2026-CINQ/CGRC/DICOR/PF, e-doc. 380 da
+  Pet. 15.198, e representação e-doc. 306 do INQ 5.026) para que as extrações, indexações e análises dos
+  cerca de 100 dispositivos eletrônicos apreendidos na 2ª fase da Operação Compliance Zero sigam o fluxo
+  ordinário de trabalho pericial da instituição, com distribuição regular entre peritos habilitados,
+  dispensado o encaminhamento global das extrações à relatoria.'
+is_official: true
+related_entity_ids:
+- andre-mendonca
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: Pet 15.198/DF; INQ 5.026/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

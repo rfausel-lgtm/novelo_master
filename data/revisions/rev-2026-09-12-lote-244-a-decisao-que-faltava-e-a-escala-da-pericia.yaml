@@ -1,0 +1,40 @@
+id: rev-2026-09-12-lote-244-a-decisao-que-faltava-e-a-escala-da-pericia
+kind: revision
+date: '2026-09-12'
+title: 'Lote 244 — a decisão de 19/02/2026 que faltava, e a escala da perícia da 2ª fase da Compliance Zero'
+summary: 'Continuação da mineração de peças do INQ 5.026 via peticionamento.stf.jus.br, cobrindo o trecho
+  de fevereiro a março de 2026. Dois achados: a decisão original de 19/02/2026 (e-Doc. 323) que autorizou
+  pela primeira vez a apresentação de Daniel Vorcaro à CAE do Senado — uma lacuna explícita registrada em
+  renan-calheiros.yaml desde o lote 242 — foi localizada; ela condiciona o comparecimento à adesão
+  voluntária e expressa do próprio Vorcaro, sob o direito à não autoincriminação. E uma decisão
+  cross-referenciada entre o INQ 5.026 e a Pet 15.198 revela a escala da perícia digital da 2ª fase da
+  Operação Compliance Zero: cerca de 100 dispositivos eletrônicos, com prazo técnico estimado em 20
+  semanas de dedicação exclusiva de um único perito. Três outras peças lidas nesta rodada confirmaram,
+  por segunda via, conteúdo já registrado no acervo (decisões de 26/02/2026 sobre os irmãos Dias Toffoli,
+  Paulo Humberto Barbosa, e a extensão da convocação de Vorcaro à CAE) — sem gerar entradas novas.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 2
+  relationships: 0
+  sources: 2
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'renan-calheiros: resolvida a lacuna sobre a decisão de 19/02/2026 (e-Doc. 323) — localizada e lida.'
+- 'ev-cae-senado-convoca-vorcaro-frente-distinta-cpi: incorporada a decisão original de 19/02/2026, com a
+  condição de adesão voluntária de Vorcaro antes não registrada.'
+author: orquestrador
+affected_ids:
+- renan-calheiros
+- daniel-vorcaro
+- andre-mendonca
+- comissao-de-assuntos-economicos-senado-federal
+reason: Continuação da captura de peças do INQ 5.026 via peticionamento.stf.jus.br (sessão autenticada
+  pelo próprio Rafael), avançando da leitura mais recente (lote 243) para o trecho de fevereiro-março de
+  2026 — cronologicamente intermediário, ainda não coberto pela mineração anterior das decisões públicas
+  nem pelo lote 243.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

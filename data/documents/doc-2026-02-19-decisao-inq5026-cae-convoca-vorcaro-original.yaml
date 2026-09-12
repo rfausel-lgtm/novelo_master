@@ -1,0 +1,27 @@
+id: doc-2026-02-19-decisao-inq5026-cae-convoca-vorcaro-original
+kind: document
+title: Decisão original autorizando a apresentação de Vorcaro à CAE do Senado, condicionada à sua adesão
+doc_type: judicial_decision
+date: '2026-02-19'
+date_precision: day
+source_ids:
+- src-stf-inq5026-decisao-19-02-2026-cae-convoca-vorcaro-original
+summary: 'Autoriza o pedido da CAE do Senado (Petição 16015/2026, e-Doc. 310) para colher depoimento de
+  Daniel Vorcaro em 24/02/2026, mas "condicionado à prévia manifestação expressa, formal e inequívoca
+  quanto à sua opção por comparecer" — o comparecimento é "de caráter estritamente facultativo". Fixa
+  ainda as condições de custódia e deslocamento (escolta da Polícia Federal, vedado transporte em
+  aeronave particular).'
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- renan-calheiros
+- comissao-de-assuntos-economicos-senado-federal
+- andre-mendonca
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: INQ 5.026/DF, Petição 16015/2026, e-Doc. 310
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

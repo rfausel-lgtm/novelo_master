@@ -9,11 +9,12 @@ positions:
   source_ids:
   - src-stf-inq5026-decisao-26-02-2026-cae-estende-convocacao-vorcaro
 summary: Como presidente da Comissão de Assuntos Econômicos do Senado, pediu ao STF autorização para a
-  apresentação de Daniel Vorcaro perante a comissão — pedido inicialmente deferido para 24/02/2026 e depois
-  estendido para 10/03/2026 —, uma frente institucional distinta e paralela à já conhecida CPI do Crime
-  Organizado. Também presidiu a audiência de 19/05/2026 na CAE em que questionou o presidente do Banco
-  Central, Gabriel Galípolo, sobre uma alegada carta de R$ 11 bilhões ao FGC — acusação que Galípolo negou
-  publicamente.
+  apresentação de Daniel Vorcaro perante a comissão — deferida em 19/02/2026 para 24/02/2026, mas
+  condicionada à adesão voluntária e expressa do próprio Vorcaro (direito à não autoincriminação), e
+  depois estendida para 10/03/2026 —, uma frente institucional distinta e paralela à já conhecida CPI do
+  Crime Organizado. Também presidiu a audiência de 19/05/2026 na CAE em que questionou o presidente do
+  Banco Central, Gabriel Galípolo, sobre uma alegada carta de R$ 11 bilhões ao FGC — acusação que Galípolo
+  negou publicamente.
 why_in_novelo: Conduz, como presidente da CAE, uma linha própria de apuração parlamentar sobre o caso
   Master — distinta da CPI do Crime Organizado — que já produziu ao menos um confronto público direto com
   o presidente do Banco Central.
@@ -21,11 +22,8 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública dele especificamente sobre o pedido de depoimento de Vorcaro foi
     localizada no corpus, além do próprio requerimento.
-open_questions:
-- A decisão de 19/02/2026 (e-Doc. 323 do INQ 5.026) que primeiro autorizou a apresentação de Vorcaro à CAE,
-  para 24/02/2026, ainda não foi localizada/lida — apenas a decisão de 26/02/2026 que a estende para
-  10/03/2026.
 source_ids:
+- src-stf-inq5026-decisao-19-02-2026-cae-convoca-vorcaro-original
 - src-stf-inq5026-decisao-26-02-2026-cae-estende-convocacao-vorcaro
 - src-correiobraziliense-2026-05-19-galipolo-na-cae-renan
 review_status: published

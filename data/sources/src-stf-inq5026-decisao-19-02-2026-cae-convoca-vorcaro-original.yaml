@@ -1,0 +1,29 @@
+id: src-stf-inq5026-decisao-19-02-2026-cae-convoca-vorcaro-original
+kind: source
+title: Decisão original de André Mendonça autorizando a apresentação de Vorcaro à CAE do Senado
+publisher: Supremo Tribunal Federal
+author: Ministro André Mendonça
+publication_date: '2026-02-19'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347
+source_type: official_court
+summary: 'Decide a Petição 16015/2026 (e-Doc. 310), da Comissão de Assuntos Econômicos do Senado sob a
+  presidência de Renan Calheiros, que pedia autorização para colher depoimento de Daniel Vorcaro em
+  24/02/2026. O relator autoriza, invocando o direito à não autoincriminação (nemo tenetur se detegere) e
+  a jurisprudência das ADPFs 395/444 contra condução coercitiva de investigados — mas condiciona o
+  comparecimento à manifestação prévia, expressa e inequívoca do próprio Vorcaro, e determina que a CAE
+  agiu por convite (art. 58, §2º, V, CF), não por poder de CPI, reforçando o caráter voluntário do ato.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
+  certificado ou credencial do agente). É a decisão original que a de 26/02/2026 (já registrada no acervo)
+  estendeu para a sessão de 10/03/2026 — permanecia como lacuna explícita em renan-calheiros.yaml até esta
+  apuração. Código de autenticação/senha do rodapé de cada página nunca reproduzido no acervo.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
