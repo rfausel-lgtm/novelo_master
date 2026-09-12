@@ -26,12 +26,19 @@ open_questions:
 - O grau de parentesco com Daniel Vorcaro não está registrado nas fontes oficiais do corpus sobre a
   prisão temporária de 07/05/2026 — mas é confirmado como "primo" pela cobertura da condenação da CVM
   (Agência Brasil, Poder360).
+- 'NOVO (lote 235): em 13/01/2026, a PF localizou, por sobrevoo de drone comparado a fotos públicas de
+  Instagram, uma segunda casa de veraneio dele no distrito de Trancoso, Porto Seguro (BA) — além do
+  endereço já conhecido em Nova Lima (MG). Nas fotos usadas para a identificação aparecem Cláudia Resende
+  Soares da Silva e Karina Resende Oliveira Vorcaro; o sobrenome desta última sugere vínculo conjugal, mas
+  nenhuma peça lida afirma isso expressamente.'
 source_ids:
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 - src-poder360-2026-09-08-cvm-multa-vorcaro-master-2015-milhoes
 - src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
 - src-folha-2026-03-07-como-vorcaro-desviava-dinheiro-familiares
+- src-stf-pet15198-peca027-drone-identifica-casa-trancoso
+- src-stf-pet15198-peca033-pgr-estende-busca-trancoso
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

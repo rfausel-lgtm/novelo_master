@@ -1,0 +1,27 @@
+id: karina-resende-oliveira-vorcaro
+kind: person
+category: other
+name: Karina Resende Oliveira Vorcaro
+role: Aparece em fotos de rede social associadas a Felipe Cançado Vorcaro, na casa de veraneio dele em
+  Trancoso (BA)
+summary: Identificada por relatório de inteligência da PF (13/01/2026), a partir de fotos públicas de
+  Instagram, ao lado de Felipe Cançado Vorcaro na casa de veraneio dele em Trancoso, distrito de Porto
+  Seguro (BA). O sobrenome sugere vínculo conjugal com ele, mas nenhuma peça lida afirma isso expressamente.
+why_in_novelo: Aparece associada a Felipe Cançado Vorcaro no relatório de inteligência que localizou o
+  imóvel usado como fundamento para busca e apreensão complementar na PET 15.198.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dela foi localizada no corpus.
+open_questions:
+- 'Vínculo com Felipe Cançado Vorcaro não confirmado em documento: o sobrenome "Oliveira Vorcaro" sugere
+  cônjuge, mas nenhuma peça lida afirma isso expressamente — tratado como hipótese, não fato.'
+- Não há, no acervo, qualquer alegação de irregularidade contra ela — a menção decorre apenas de
+  vigilância policial sobre paradeiro/patrimônio de Felipe Cançado Vorcaro para fins de cumprimento de
+  mandado.
+source_ids:
+- src-stf-pet15198-peca027-drone-identifica-casa-trancoso
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

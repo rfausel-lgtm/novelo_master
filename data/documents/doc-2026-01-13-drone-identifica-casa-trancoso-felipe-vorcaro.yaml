@@ -1,0 +1,27 @@
+id: doc-2026-01-13-drone-identifica-casa-trancoso-felipe-vorcaro
+kind: document
+title: Relatório de inteligência policial identificando casa de veraneio de Felipe Cançado Vorcaro em
+  Trancoso
+doc_type: official_report
+date: '2026-01-13'
+date_precision: day
+source_ids:
+- src-stf-pet15198-peca027-drone-identifica-casa-trancoso
+- src-stf-pet15198-peca033-pgr-estende-busca-trancoso
+summary: A PF identificou, por sobrevoo de drone comparado a fotos públicas de Instagram de Cláudia
+  Resende Soares da Silva (nas quais aparecem Felipe Cançado Vorcaro e Karina Resende Oliveira Vorcaro), um
+  imóvel de veraneio no distrito de Trancoso, Porto Seguro (BA), pertencente ou frequentado por Felipe
+  Cançado Vorcaro. A PGR concordou com a extensão da busca e apreensão a esse endereço, além do já indicado
+  em Nova Lima (MG).
+is_official: true
+related_entity_ids:
+- felipe-cancado-vorcaro
+- karina-resende-oliveira-vorcaro
+- claudia-resende-soares-da-silva
+- daniel-penido-de-britto
+- paulo-gonet
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
