@@ -30,10 +30,12 @@
   `GITHUB_TOKEN` sequer dispararia o CI, por restrição do GitHub contra laço de workflows. A entrega
   copia arquivo a arquivo e se refaz sobre a `main` nova se ela andar no meio, para nunca apagar arte
   que chegou depois que a branch nasceu.
-- A arte do lote passou a abrir o item em `/atualizacoes`, antes do texto, com a legenda "Ilustração
-  gerada por IA" entre a imagem e o texto — o leitor lê a ressalva no instante em que passa da
-  ilustração para o que o acervo afirma. Ausência de arte segue sendo estado normal: o item começa
-  pela data, sem espaço reservado.
+- A arte do lote passou a ilustrar o item em `/atualizacoes`, com a legenda "Ilustração gerada por
+  IA" colada na imagem — a ressalva fica onde o leitor a encontra antes de tomar a arte pelo que o
+  acervo afirma. No celular ela abre o item, em largura cheia; a partir de 768 px vai para a direita,
+  em 18 rem, com o texto à esquerda. Em largura cheia na coluna de ~944 px a mesma imagem paisagem
+  virava um bloco de mais de 500 px de altura por lote e empurrava o texto para fora da tela a cada
+  item. Ausência de arte segue sendo estado normal: o item começa pela data, sem espaço reservado.
 
 - Artes de lote passam a ter liberação automática sob autorização editorial continuada de Rafael,
   registrada na seção 7.1 da política. O agente inspeciona e documenta o checklist, espera todas as

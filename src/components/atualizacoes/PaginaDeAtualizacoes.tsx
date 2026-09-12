@@ -88,66 +88,78 @@ export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
                   className="bg-accent absolute top-1.5 -left-[1.85rem] h-2.5 w-2.5 rounded-full"
                 />
                 {/*
-                  A arte abre o item, antes do texto do lote. A legenda fica entre a imagem e o
-                  texto, que é onde ela precisa estar: o leitor lê "ilustração gerada por IA" no
-                  instante em que passa da imagem para o que o acervo de fato afirma.
+                  No celular a arte abre o item, em largura cheia, e o texto vem embaixo: a coluna
+                  é estreita e a imagem paisagem ocupa pouca altura.
+
+                  A partir de `md` ela sai do topo e vai para a direita, em tamanho intermediário
+                  (18rem). Em largura cheia, na coluna de ~944 px, a mesma imagem paisagem virava
+                  um bloco de mais de 500 px de altura por lote e empurrava o texto — que é o
+                  conteúdo — para fora da tela a cada item.
+
+                  A legenda continua colada na imagem, e não no texto: é da ilustração que ela fala.
                 */}
-                {arte && (
-                  <figure className="mb-3">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
-                      src={arte.src}
-                      alt={`Arte de divulgação gerada por inteligência artificial${r.title ? `: ${r.title}` : ""}`}
-                      width={arte.width}
-                      height={arte.height}
-                      loading="lazy"
-                      className="border-border w-full rounded-md border"
-                    />
-                    <figcaption className="text-fg-3 mt-1 text-[10px] tracking-wide uppercase">
-                      Ilustração gerada por IA
-                    </figcaption>
-                  </figure>
-                )}
-                <time dateTime={r.date} className="text-fg font-mono text-sm font-medium">
-                  {formatPartialDate(r.date)}
-                </time>
-                {r.title && <p className="text-fg mt-1 text-sm font-medium">{r.title}</p>}
-                <p className="text-fg-2 mt-1 text-sm">{r.summary}</p>
-                <ul className="text-fg-3 mt-2 flex flex-wrap gap-x-4 gap-y-1 font-mono text-xs">
-                  {added.map(([k, v]) => (
-                    <li key={k}>
-                      + {v} {LABEL[k] ?? k}
-                    </li>
-                  ))}
-                  {r.updated_relationships > 0 && (
-                    <li>{r.updated_relationships} relações atualizadas</li>
+                <div className={arte ? "md:flex md:items-start md:gap-6" : undefined}>
+                  {arte && (
+                    <figure className="mb-3 md:order-last md:mb-0 md:w-72 md:shrink-0">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src={arte.src}
+                        alt={`Arte de divulgação gerada por inteligência artificial${r.title ? `: ${r.title}` : ""}`}
+                        width={arte.width}
+                        height={arte.height}
+                        loading="lazy"
+                        className="border-border w-full rounded-md border"
+                      />
+                      <figcaption className="text-fg-3 mt-1 text-[10px] tracking-wide uppercase">
+                        Ilustração gerada por IA
+                      </figcaption>
+                    </figure>
                   )}
-                  {r.corrections.length > 0 && <li>{r.corrections.length} correções editoriais</li>}
-                </ul>
-                {r.corrections.length > 0 && (
-                  <ul className="text-fg-2 mt-2 list-disc space-y-1 pl-5 text-xs">
-                    {r.corrections.map((c, i) => (
-                      <li key={i}>{c}</li>
-                    ))}
-                  </ul>
-                )}
-                {r.affected_ids.length > 0 && (
-                  <p className="text-fg-3 mt-2 text-xs">
-                    Registros afetados:{" "}
-                    {r.affected_ids.map((id, i) => (
-                      <span key={id}>
-                        {i > 0 && ", "}
-                        <Link
-                          href={entityHref(id)}
-                          className="hover:text-fg underline-offset-2 hover:underline"
-                        >
-                          {entityName(id)}
-                        </Link>
-                      </span>
-                    ))}
-                  </p>
-                )}
-                {r.author && <p className="text-fg-3 mt-1 text-xs">por {r.author}</p>}
+                  <div className={arte ? "md:min-w-0 md:flex-1" : undefined}>
+                    <time dateTime={r.date} className="text-fg font-mono text-sm font-medium">
+                      {formatPartialDate(r.date)}
+                    </time>
+                    {r.title && <p className="text-fg mt-1 text-sm font-medium">{r.title}</p>}
+                    <p className="text-fg-2 mt-1 text-sm">{r.summary}</p>
+                    <ul className="text-fg-3 mt-2 flex flex-wrap gap-x-4 gap-y-1 font-mono text-xs">
+                      {added.map(([k, v]) => (
+                        <li key={k}>
+                          + {v} {LABEL[k] ?? k}
+                        </li>
+                      ))}
+                      {r.updated_relationships > 0 && (
+                        <li>{r.updated_relationships} relações atualizadas</li>
+                      )}
+                      {r.corrections.length > 0 && (
+                        <li>{r.corrections.length} correções editoriais</li>
+                      )}
+                    </ul>
+                    {r.corrections.length > 0 && (
+                      <ul className="text-fg-2 mt-2 list-disc space-y-1 pl-5 text-xs">
+                        {r.corrections.map((c, i) => (
+                          <li key={i}>{c}</li>
+                        ))}
+                      </ul>
+                    )}
+                    {r.affected_ids.length > 0 && (
+                      <p className="text-fg-3 mt-2 text-xs">
+                        Registros afetados:{" "}
+                        {r.affected_ids.map((id, i) => (
+                          <span key={id}>
+                            {i > 0 && ", "}
+                            <Link
+                              href={entityHref(id)}
+                              className="hover:text-fg underline-offset-2 hover:underline"
+                            >
+                              {entityName(id)}
+                            </Link>
+                          </span>
+                        ))}
+                      </p>
+                    )}
+                    {r.author && <p className="text-fg-3 mt-1 text-xs">por {r.author}</p>}
+                  </div>
+                </div>
               </li>
             );
           })}
