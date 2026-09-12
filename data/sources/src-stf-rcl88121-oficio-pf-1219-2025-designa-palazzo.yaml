@@ -1,0 +1,25 @@
+id: src-stf-rcl88121-oficio-pf-1219-2025-designa-palazzo
+kind: source
+title: Ofício nº 1219/2025 do diretor-geral da PF a Dias Toffoli designando a delegada Janaina Palazzo para a investigação
+publisher: Polícia Federal
+author: Andrei Augusto Passos Rodrigues, diretor-geral da Polícia Federal
+publication_date: '2025-12-18'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7450195
+source_type: official_police
+summary: 'Em observância à decisão na Reclamação 88.121, o diretor-geral da PF informa a Dias Toffoli que foi
+  designada a delegada Janaina Pereira Lima Palazzo, chefe da DELEINQUE/DRPJ/SR/PF/DF, para a continuidade das
+  investigações.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
+  certificado ou credencial do agente). Assinado eletronicamente em 18/12/2025 e protocolado na Rcl 88.121 em
+  19/12/2025.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

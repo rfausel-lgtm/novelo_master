@@ -1,0 +1,19 @@
+id: ev-pf-designou-palazzo-para-o-caso-master-em-dezembro-2025
+kind: evidence
+classification: D
+proposition: Em 18/12/2025, cumprindo decisão da Reclamação 88.121, o diretor-geral da Polícia Federal, Andrei
+  Rodrigues, designou a delegada Janaina Pereira Lima Palazzo, chefe da Delegacia de Inquéritos Especiais no DF,
+  para dar continuidade às investigações do caso Master sob supervisão do STF.
+document_ids:
+- doc-2025-12-18-oficio-pf-1219-designa-palazzo-rcl88121
+source_ids:
+- src-stf-rcl88121-oficio-pf-1219-2025-designa-palazzo
+date: '2025-12-18'
+notes: A decisão de 15/12/2025 na mesma reclamação previa oitivas por delegado designado pelo diretor-geral da PF
+  (ver ev-rcl88121-marco-fundador-supervisao-stf); este ofício é o cumprimento. Oito meses depois, em agosto de
+  2026, ela seguia como a autoridade policial destinatária de comunicações do INQ 5.026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

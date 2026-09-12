@@ -1,0 +1,21 @@
+id: ev-toffoli-submeteu-o-coaf-a-rcl-88121
+kind: evidence
+classification: D
+proposition: Dias Toffoli mandou o COAF observar a liminar de 09/12/2025 da Reclamação 88.121 (despacho de
+  23/12/2025), deu-lhe ciência também da decisão de 12/12/2025 (02/02/2026) e, em 09/02/2026, determinou que o
+  órgão enviasse as informações requisitadas, de forma sigilosa, ao INQ 5.026.
+document_ids:
+- doc-2025-12-23-despacho-rcl88121-coaf-deve-observar-liminar
+- doc-2026-02-09-despacho-rcl88121-coaf-envia-ao-inq5026
+source_ids:
+- src-stf-rcl88121-despachos-coaf-dez-2025-fev-2026
+date: '2025-12-23'
+notes: É a base processual do roteamento que o próprio COAF descreveu em 25/02/2026 — dois RIFs, um pedido pela
+  CPMI do INSS e um espontâneo, compartilhados com o gabinete de Toffoli "em cumprimento à decisão proferida na
+  Reclamação 88.121" (ver ev-coaf-dois-rifs-enviados-ao-gabinete-toffoli-rcl-88121). Os despachos não descrevem o
+  conteúdo das informações requisitadas.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

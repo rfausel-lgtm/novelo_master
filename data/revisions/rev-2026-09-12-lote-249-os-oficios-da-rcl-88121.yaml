@@ -1,0 +1,45 @@
+id: rev-2026-09-12-lote-249-os-oficios-da-rcl-88121
+kind: revision
+date: '2026-09-12'
+title: 'Lote 249 — a delegada escolhida em dezembro, o COAF submetido à reclamação e a CPMI que queria Vorcaro obrigado a depor'
+summary: 'Fecha a leitura das peças de conteúdo da Reclamação 88.121. Em 18/12/2025, o diretor-geral da PF, Andrei
+  Rodrigues, designou a delegada Janaina Pereira Lima Palazzo, chefe da Delegacia de Inquéritos Especiais no DF,
+  para conduzir a investigação sob supervisão do STF — a mesma delegada que o acervo só conhecia como destinatária
+  de ofício em agosto de 2026. Três despachos de Dias Toffoli mostram o COAF sendo submetido à reclamação: mandado
+  a observar a liminar de 09/12 (23/12/2025), avisado da decisão de 12/12 (02/02/2026) e obrigado a enviar as
+  informações requisitadas ao INQ 5.026 (09/02/2026) — a base do roteamento de RIFs descrito pelo próprio COAF e
+  já registrado. E um ofício de 29/01/2026 do senador Carlos Viana, presidente da CPMI do INSS, pediu a Toffoli o
+  depoimento compulsório de Vorcaro, marcado inicialmente para 05/02/2026, argumentando que as ADPFs 395 e 444 não
+  alcançam as CPIs.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 4
+  relationships: 0
+  sources: 3
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'ev-cpmi-inss-convocou-vorcaro-testemunha-e-pediu-aeronave-particular: acrescentado o ofício de 29/01/2026 e a primeira data de depoimento (05/02/2026).'
+- 'ev-coaf-dois-rifs-enviados-ao-gabinete-toffoli-rcl-88121: localizada a base processual do roteamento dos RIFs.'
+- 'janaina-pereira-lima-palazzo: registrada a designação pelo diretor-geral da PF em 18/12/2025.'
+- 'carlos-viana: registrado o pedido de depoimento compulsório de Vorcaro e seu argumento sobre as ADPFs 395 e 444.'
+author: orquestrador
+affected_ids:
+- janaina-pereira-lima-palazzo
+- andrei-rodrigues
+- coaf
+- dias-toffoli
+- carlos-viana
+- cpmi-do-inss
+- daniel-vorcaro
+reason: Continuação da mineração da Rcl 88.121 via peticionamento.stf.jus.br (sessão autenticada pelo próprio Rafael).
+  Lidas também, sem gerar entradas próprias, a decisão de 27/02/2026 em que André Mendonça desarquiva a reclamação por
+  petições supervenientes, o despacho de Fachin de 23/02/2026 mandando redistribuí-la e o de 13/03/2026 em que Mendonça
+  separa em nova petição um pedido do BRB, sobre o qual ouviu os liquidantes do Master, da Will Financeira e do Pleno,
+  o Banco Central e o MPF. Ficou de fora um pedido de habilitação da Safra Crédito sobre veículo financiado a Luiz Bull,
+  que traz placa e chassi.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

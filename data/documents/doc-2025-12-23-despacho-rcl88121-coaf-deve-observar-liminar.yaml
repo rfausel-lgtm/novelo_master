@@ -1,0 +1,22 @@
+id: doc-2025-12-23-despacho-rcl88121-coaf-deve-observar-liminar
+kind: document
+title: Despacho mandando dar ciência ao COAF da liminar da Rcl 88.121, que o órgão deve observar
+doc_type: judicial_decision
+date: '2025-12-23'
+date_precision: day
+source_ids:
+- src-stf-rcl88121-despachos-coaf-dez-2025-fev-2026
+summary: 'Determina que se dê ciência ao Conselho de Controle de Atividades Financeiras da decisão de 09/12/2025
+  na Reclamação 88.121, "a qual deve ser observada pelo referido órgão".'
+is_official: true
+related_entity_ids:
+- dias-toffoli
+- coaf
+issuer_id: dias-toffoli
+issuer: Ministro Dias Toffoli
+reference: Rcl 88.121/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

@@ -1,0 +1,26 @@
+id: doc-2026-01-29-oficio-cpmi-inss-1730-viana-pede-vorcaro-compulsorio
+kind: document
+title: Ofício nº 1730/2025 de Carlos Viana a Dias Toffoli sobre a convocação de Vorcaro pela CPMI do INSS
+doc_type: letter
+date: '2026-01-29'
+date_precision: day
+source_ids:
+- src-stf-rcl88121-oficio-cpmi-inss-1730-2025-viana-compulsoriedade
+summary: 'O presidente da CPMI do INSS pede a Dias Toffoli que "determine a compulsoriedade do comparecimento do
+  depoente Daniel Bueno Vorcaro", marcado para 05/02/2026, autorize seu transporte a Brasília e transfira a
+  custódia à Polícia do Senado no Congresso. Argumenta que as ADPFs 395 e 444 tratam de investigações policiais e
+  não alcançam as CPIs, cujo principal meio de apuração é a tomada de depoimentos.'
+is_official: true
+related_entity_ids:
+- carlos-viana
+- cpmi-do-inss
+- daniel-vorcaro
+- dias-toffoli
+issuer_id: carlos-viana
+issuer: Senador Carlos Viana, presidente da CPMI do INSS
+reference: Ofício nº 1730/2025 — CPMI-INSS; Requerimento nº 2749/2025
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

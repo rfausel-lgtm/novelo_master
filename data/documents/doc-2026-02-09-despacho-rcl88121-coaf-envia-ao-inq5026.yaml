@@ -1,0 +1,23 @@
+id: doc-2026-02-09-despacho-rcl88121-coaf-envia-ao-inq5026
+kind: document
+title: Despacho mandando o COAF enviar as informações requisitadas ao INQ 5.026
+doc_type: judicial_decision
+date: '2026-02-09'
+date_precision: day
+source_ids:
+- src-stf-rcl88121-despachos-coaf-dez-2025-fev-2026
+summary: 'Diante de manifestação do COAF (e-doc. 307), determina que o órgão encaminhe as informações
+  requisitadas, por ofício e de maneira segura, por se tratar de material sigiloso, ao INQ 5.026. Uma semana
+  antes, em 02/02/2026, Toffoli já havia mandado dar ciência ao COAF também da decisão de 12/12/2025.'
+is_official: true
+related_entity_ids:
+- dias-toffoli
+- coaf
+issuer_id: dias-toffoli
+issuer: Ministro Dias Toffoli
+reference: Rcl 88.121/DF (e-doc. 302 e 307)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

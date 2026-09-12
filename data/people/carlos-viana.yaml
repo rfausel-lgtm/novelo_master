@@ -8,9 +8,11 @@ positions:
   organization_id: senado-federal
   source_ids:
   - src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
-summary: Presidiu a CPMI do INSS. Após a rejeição do relatório, encerrou os trabalhos, não acatou a questão
-  de ordem para apreciação do relatório alternativo e anunciou que cópias do texto rejeitado seriam encaminhadas
-  a instituições como o MPF e o STF.
+summary: Presidiu a CPMI do INSS. Em 29/01/2026, pediu ao ministro Dias Toffoli que declarasse compulsório o
+  depoimento de Daniel Vorcaro à comissão, marcado para 05/02/2026, sustentando que as ADPFs 395 e 444 não alcançam
+  as CPIs. Após a rejeição do relatório, encerrou os trabalhos, não acatou a questão de ordem para apreciação do
+  relatório alternativo e anunciou que cópias do texto rejeitado seriam encaminhadas a instituições como o MPF e
+  o STF.
 why_in_novelo: Presidiu a comissão que examinou, entre outros temas, os consignados do Banco Master junto
   ao INSS, e decidiu o encaminhamento após a rejeição do relatório.
 cited_position:
@@ -20,6 +22,7 @@ open_questions: []
 source_ids:
 - src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
 - src-congressoemfoco-2026-03-28-cpmi-derruba-relatorio
+- src-stf-rcl88121-oficio-cpmi-inss-1730-2025-viana-compulsoriedade
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

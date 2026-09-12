@@ -1,0 +1,28 @@
+id: src-stf-rcl88121-oficio-cpmi-inss-1730-2025-viana-compulsoriedade
+kind: source
+title: Ofício nº 1730/2025 do senador Carlos Viana a Dias Toffoli pedindo o comparecimento compulsório de Vorcaro à CPMI do INSS
+publisher: Senado Federal
+author: Senador Carlos Viana, presidente da CPMI do INSS
+publication_date: '2026-01-29'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7450195
+source_type: official_legislative
+summary: 'Informa que a CPMI do INSS aprovou, em 04/12/2025, o Requerimento nº 2749/2025, convocando Daniel
+  Vorcaro como testemunha por causa dos empréstimos consignados concedidos pelo Banco Master, e marca o depoimento
+  para 05/02/2026. Afirma que Vorcaro cumpria prisão domiciliar por decisão do relator e pede autorização para
+  transportá-lo a Brasília, comparecimento compulsório e custódia pela Polícia do Senado. Sustenta que ministros
+  do STF erram ao estender às CPIs as ADPFs 395 e 444 sobre condução coercitiva, que a oralidade é essencial às
+  CPIs e que vários ministros, inclusive Toffoli, mantiveram a compulsoriedade em outros habeas corpus.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
+  certificado ou credencial do agente), protocolada na Rcl 88.121 em 30/01/2026. O número de identificação da
+  assinatura digital não é reproduzido no acervo.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
