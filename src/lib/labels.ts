@@ -13,7 +13,7 @@ export {
   EVIDENCE_CLASS_LABEL,
   FACT_STATUS_LABEL,
   CITED_POSITION_LABEL,
-} from "@/lib/schema";
+} from "@/lib/schema/labels";
 
 export const DOCUMENT_TYPE_LABEL: Record<DocumentType, string> = {
   judicial_decision: "Decisão judicial",

@@ -80,7 +80,13 @@ export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
         <ol className="border-border relative ml-2 border-l pl-6">
           {revisions.map((r) => {
             const added = Object.entries(r.added).filter(([, v]) => v > 0);
-            const arte = artes.get(r.id);
+            /*
+             * A lista mostra só ilustração. O card continua existindo em public/social/ para quem
+             * precisar dele fora do site, mas aqui ele repetia, ao lado, o mesmo título que o texto
+             * do item já traz em corpo legível — não acrescentava nada ao leitor da página.
+             */
+            const candidata = artes.get(r.id);
+            const arte = candidata?.tipo === "ilustracao" ? candidata : undefined;
             return (
               <li key={r.id} id={r.id} className="relative scroll-mt-20 pb-8 last:pb-0">
                 <span
@@ -112,27 +118,15 @@ export function PaginaDeAtualizacoes({ pagina }: { pagina: number }) {
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img
                         src={arte.src}
-                        alt={
-                          arte.tipo === "card"
-                            ? `Cartão de divulgação do lote${r.title ? `: ${r.title}` : ""}`
-                            : `Arte de divulgação gerada por inteligência artificial${r.title ? `: ${r.title}` : ""}`
-                        }
+                        alt={`Arte de divulgação gerada por inteligência artificial${r.title ? `: ${r.title}` : ""}`}
                         width={arte.width}
                         height={arte.height}
                         loading="lazy"
                         className="border-border w-full rounded-md border"
                       />
-                      {/*
-                        A legenda muda com o tipo porque as duas artes não têm a mesma procedência.
-                        "Gerada por IA" é verdade sobre a cena que o Codex pinta e mentira sobre um
-                        cartão, que só compõe o título já aprovado pelo acervo sobre um emaranhado
-                        desenhado a partir do id da revisão. Num site cujo assunto é procedência,
-                        legenda imprecisa custa mais do que ausência de legenda.
-                      */}
+                      {/* Só ilustração chega aqui (ver o filtro acima), então o rótulo é sempre de IA. */}
                       <figcaption className="text-fg-3 mt-1 text-[10px] tracking-wide uppercase">
-                        {arte.tipo === "card"
-                          ? "Cartão gerado do próprio acervo"
-                          : "Ilustração gerada por IA"}
+                        Ilustração gerada por IA
                       </figcaption>
                     </figure>
                   )}

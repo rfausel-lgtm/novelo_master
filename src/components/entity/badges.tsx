@@ -1,7 +1,7 @@
 export { EVIDENCE_EXPLANATION } from "@/lib/labels";
 import { EVIDENCE_EXPLANATION } from "@/lib/labels";
 import type { EvidenceClass, FactStatus, Source } from "@/lib/schema";
-import { EVIDENCE_CLASS_LABEL, FACT_STATUS_LABEL, OFFICIAL_SOURCE_TYPES, SOURCE_TYPE_LABEL } from "@/lib/schema";
+import { EVIDENCE_CLASS_LABEL, FACT_STATUS_LABEL, OFFICIAL_SOURCE_TYPES, SOURCE_TYPE_LABEL } from "@/lib/schema/labels";
 
 const EVIDENCE_COLOR: Record<EvidenceClass, string> = { D: "var(--ev-d)", C: "var(--ev-c)", A: "var(--ev-a)", I: "var(--ev-i)" };
 

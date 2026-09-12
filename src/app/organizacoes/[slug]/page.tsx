@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { allOrganizations, getOrganization } from "@/lib/data";
-import { excerptOf, organizationJsonLd, pageMetadata , safeJsonLd } from "@/lib/pages";
+import { excerptOf, organizationJsonLd, pageMetadata , safeJsonLd, tituloDeEntidade } from "@/lib/pages";
 import { PageShell } from "@/components/entity/PageShell";
 import { Breadcrumbs } from "@/components/entity/Breadcrumbs";
 import { AgentDossier } from "@/components/entity/AgentDossier";
@@ -16,7 +16,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const o = getOrganization(slug);
   if (!o) return {};
-  return pageMetadata({ title: o.name, description: excerptOf(o.why_in_novelo), path: `/organizacoes/${o.id}`, type: "article" });
+  const titulo = tituloDeEntidade(o.name);
+  /* `absolute`: sem o " · O Novelo Master" do layout, que empurrava o caso para fora do corte do buscador. */
+  return {
+    ...pageMetadata({ title: titulo, description: excerptOf(o.why_in_novelo), path: `/organizacoes/${o.id}`, type: "article" }),
+    title: { absolute: titulo },
+  };
 }
 
 export default async function OrganizacaoPage({ params }: { params: Promise<{ slug: string }> }) {

@@ -1,7 +1,7 @@
 "use client";
 
 import type { EvidenceClass } from "@/lib/schema";
-import { EVIDENCE_CLASS_LABEL, RELATIONSHIP_TYPE_LABEL } from "@/lib/schema";
+import { EVIDENCE_CLASS_LABEL, RELATIONSHIP_TYPE_LABEL } from "@/lib/schema/labels";
 import {
   ALL_EVIDENCE_CLASSES,
   ALL_NODE_CATEGORIES,
@@ -11,7 +11,7 @@ import {
 } from "@/lib/graph/filters";
 import { NODE_CATEGORY_LABEL, type NodeCategory } from "@/lib/graph/types";
 import { FAMILY_VAR } from "@/lib/graph/style";
-import { RELATIONSHIP_FAMILY } from "@/lib/schema";
+import { RELATIONSHIP_FAMILY } from "@/lib/schema/labels";
 import type { GraphAction } from "./useGraphState";
 import { PanelShell, SectionHeading, ToolButton } from "./ui";
 

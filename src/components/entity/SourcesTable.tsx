@@ -66,7 +66,7 @@ export function SourcesTable({ rows }: { rows: SourceRow[] }) {
               </span>
               {r.verified && <span aria-label="Fonte verificada">· verificada</span>}
             </div>
-            <Link href={`/fontes/${r.id}`} className="text-fg hover:text-accent mt-1 block text-[15px] leading-snug font-medium underline-offset-2 hover:underline">
+            <Link href={`/fontes/${r.id}`} className="text-fg hover:text-accent mt-0.5 block py-0.5 text-[15px] leading-snug font-medium underline-offset-2 hover:underline">
               {r.title}
             </Link>
             <p className="text-fg-2 mt-1 text-xs">
@@ -74,7 +74,7 @@ export function SourcesTable({ rows }: { rows: SourceRow[] }) {
               {r.url ? (
                 <>
                   {" · "}
-                  <a href={r.url} target="_blank" rel="noreferrer noopener" className="text-accent underline underline-offset-2">
+                  <a href={r.url} target="_blank" rel="noreferrer noopener" className="text-accent -my-1 inline-block py-1 underline underline-offset-2">
                     original
                   </a>
                 </>
@@ -115,7 +115,7 @@ export function SourcesTable({ rows }: { rows: SourceRow[] }) {
                 <td className="text-fg-2 py-2 pr-3 text-xs tabular-nums">{r.uses}</td>
                 <td className="py-2 text-xs">
                   {r.url ? (
-                    <a href={r.url} target="_blank" rel="noreferrer noopener" className="text-accent underline underline-offset-2">
+                    <a href={r.url} target="_blank" rel="noreferrer noopener" className="text-accent -my-1 inline-block py-1 underline underline-offset-2">
                       abrir
                     </a>
                   ) : (

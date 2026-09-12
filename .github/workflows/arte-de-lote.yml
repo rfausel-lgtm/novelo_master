@@ -43,7 +43,12 @@ jobs:
           set -euo pipefail
           base=$(git merge-base origin/main HEAD)
           mudados=$(git diff --name-only "$base" HEAD)
-          novas=$(git diff --name-only --diff-filter=A "$base" HEAD | grep -E '^public/social/.+\.webp$' || true)
+          # A = arte de revisão que ainda não tinha arquivo; M = arte que substitui o card. A ilustração
+          # do Codex prevalece sobre o card (Rafael, 12/09/2026), e desde que o card cobre toda revisão
+          # quase toda arte chega como M — só com A este passo descartava tudo em silêncio. Quem decide
+          # se a substituição vale é a entrega, contra o manifesto da `main`: card cede, ilustração
+          # publicada nunca é refeita.
+          novas=$(git diff --name-only --diff-filter=AM "$base" HEAD | grep -E '^public/social/.+\.webp$' || true)
 
           if [ -z "$novas" ]; then
             echo "nenhuma arte nova nesta branch; nada a entregar"
@@ -51,8 +56,10 @@ jobs:
             exit 0
           fi
 
-          # Lista permitida: a arte e o changelog, que a automação também escreve. Nada mais.
-          fora=$(echo "$mudados" | grep -vE '^(public/social/.+\.webp|CHANGELOG\.md)$' || true)
+          # Lista permitida: a arte, o manifesto de cards (que `social:add` edita ao publicar) e o
+          # changelog. Nada mais. O manifesto da branch não é levado à `main`: a entrega o recalcula
+          # sobre o da `main`, que é o que está em vigor.
+          fora=$(echo "$mudados" | grep -vE '^(public/social/.+\.webp|public/social/cards\.json|CHANGELOG\.md)$' || true)
           if [ -n "$fora" ]; then
             echo "branch mexe em arquivo que não é arte — deixando para revisão humana:"
             echo "$fora" | sed 's/^/    /'
@@ -119,18 +126,35 @@ jobs:
             git checkout -q -B entrega origin/main
 
             faltando=""
+            substituidos=""
             for arquivo in $NOVAS; do
+              id=$(basename "$arquivo" .webp)
               if git cat-file -e "origin/main:$arquivo" 2>/dev/null; then
-                echo "já está na main, pulando: $arquivo"
-              else
-                git checkout "$origem" -- "$arquivo"
-                faltando="$faltando $arquivo"
+                # Já existe arquivo na `main`. Só entra por cima se o que está lá é CARD. Manifesto
+                # ausente ou ilegível faz o `node` falhar, e aí o arquivo é tratado como ilustração e
+                # preservado — o erro nunca pode apagar uma ilustração publicada.
+                if node -e 'const c=JSON.parse(require("fs").readFileSync("public/social/cards.json","utf8")).cards; process.exit(c.includes(process.argv[1]) ? 0 : 1)' "$id" 2>/dev/null; then
+                  echo "substitui o card: $arquivo"
+                  substituidos="$substituidos $id"
+                else
+                  echo "já há ilustração na main, pulando: $arquivo"
+                  continue
+                fi
               fi
+              git checkout "$origem" -- "$arquivo"
+              faltando="$faltando $arquivo"
             done
 
             if [ -z "$faltando" ]; then
-              echo "nada a entregar: todas as artes já estão na main"
+              echo "nada a entregar: todas as artes já estão na main como ilustração"
               exit 0
+            fi
+
+            # Card substituído sai do manifesto, senão o site continuaria tratando a ilustração como
+            # card e a esconderia da lista. Mesmo formato de `gravarManifestoDeCards`.
+            if [ -n "$substituidos" ]; then
+              node -e 'const fs=require("fs"); const p="public/social/cards.json"; const fora=new Set(process.argv.slice(1)); const cards=JSON.parse(fs.readFileSync(p,"utf8")).cards.filter((i)=>!fora.has(i)).sort(); fs.writeFileSync(p, JSON.stringify({cards}, null, 2) + "\n")' $substituidos
+              git add -- public/social/cards.json
             fi
 
             git add -- $faltando

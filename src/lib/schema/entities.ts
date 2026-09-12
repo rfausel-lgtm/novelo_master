@@ -41,37 +41,9 @@ export const SourceTypeSchema = z.enum([
 ]);
 export type SourceType = z.infer<typeof SourceTypeSchema>;
 
-export const OFFICIAL_SOURCE_TYPES: ReadonlySet<SourceType> = new Set<SourceType>([
-  "official_court",
-  "official_police",
-  "official_prosecutor",
-  "official_legislative",
-  "official_regulator",
-  "official_gazette",
-  "official_government",
-  "corporate_registry",
-  "official_other",
-]);
+export { OFFICIAL_SOURCE_TYPES } from "./labels";
 
-export const SOURCE_TYPE_LABEL: Record<SourceType, string> = {
-  official_court: "Tribunal (oficial)",
-  official_police: "Polícia Federal (oficial)",
-  official_prosecutor: "Ministério Público (oficial)",
-  official_legislative: "Legislativo (oficial)",
-  official_regulator: "Órgão regulador (oficial)",
-  official_gazette: "Diário Oficial",
-  official_government: "Governo (oficial)",
-  corporate_registry: "Registro societário",
-  official_other: "Outra fonte oficial",
-  press: "Imprensa",
-  wire: "Agência de notícias",
-  academic: "Acadêmica",
-  encyclopedic: "Enciclopédica",
-  self_published: "Publicação própria",
-  social_media: "Rede social",
-  blog: "Blog",
-  other: "Outra",
-};
+export { SOURCE_TYPE_LABEL } from "./labels";
 
 export const SourceSchema = z
   .object({
@@ -199,20 +171,7 @@ export const PersonCategorySchema = z.enum([
 ]);
 export type PersonCategory = z.infer<typeof PersonCategorySchema>;
 
-export const PERSON_CATEGORY_LABEL: Record<PersonCategory, string> = {
-  banker: "Banqueiro",
-  businessperson: "Empresário",
-  politician: "Político",
-  judge: "Magistrado",
-  prosecutor: "Membro do Ministério Público",
-  police: "Policial",
-  lawyer: "Advogado",
-  public_official: "Servidor / agente público",
-  executive: "Executivo",
-  journalist: "Jornalista",
-  family: "Familiar",
-  other: "Outro",
-};
+export { PERSON_CATEGORY_LABEL } from "./labels";
 
 export const PositionSchema = z.object({
   title: z.string().min(1),
@@ -276,18 +235,7 @@ export const OrgTypeSchema = z.enum([
 ]);
 export type OrgType = z.infer<typeof OrgTypeSchema>;
 
-export const ORG_TYPE_LABEL: Record<OrgType, string> = {
-  company: "Empresa",
-  financial_institution: "Instituição financeira",
-  public_body: "Órgão público",
-  court: "Tribunal",
-  party: "Partido",
-  fund: "Fundo",
-  law_firm: "Escritório de advocacia",
-  media: "Veículo de mídia",
-  association: "Associação",
-  other: "Outra",
-};
+export { ORG_TYPE_LABEL } from "./labels";
 
 export const OrganizationSchema = z
   .object({
@@ -351,23 +299,7 @@ export const EventTypeSchema = z.enum([
 ]);
 export type EventType = z.infer<typeof EventTypeSchema>;
 
-export const EVENT_TYPE_LABEL: Record<EventType, string> = {
-  meeting: "Reunião / encontro",
-  communication: "Comunicação",
-  travel: "Viagem",
-  payment: "Pagamento",
-  transaction: "Transação",
-  corporate_act: "Ato societário",
-  public_act: "Ato público",
-  judicial_decision: "Decisão judicial",
-  investigation_step: "Ato de investigação",
-  regulatory_act: "Ato regulatório",
-  publication: "Publicação",
-  statement: "Declaração",
-  appointment: "Nomeação / posse",
-  social_event: "Evento social",
-  other: "Outro",
-};
+export { EVENT_TYPE_LABEL } from "./labels";
 
 export const EventSchema = z
   .object({
@@ -405,13 +337,7 @@ export const PublicActTypeSchema = z.enum([
 ]);
 export type PublicActType = z.infer<typeof PublicActTypeSchema>;
 
-export const PUBLIC_ACT_TYPE_LABEL: Record<PublicActType, string> = {
-  legislative: "Legislativo",
-  judicial: "Judicial",
-  administrative: "Administrativo",
-  regulatory: "Regulatório",
-  executive: "Executivo",
-};
+export { PUBLIC_ACT_TYPE_LABEL } from "./labels";
 
 export const PublicActSchema = z
   .object({
@@ -453,17 +379,7 @@ export const TransactionTypeSchema = z.enum([
 ]);
 export type TransactionType = z.infer<typeof TransactionTypeSchema>;
 
-export const TRANSACTION_TYPE_LABEL: Record<TransactionType, string> = {
-  payment: "Pagamento",
-  loan: "Empréstimo",
-  acquisition: "Aquisição",
-  investment: "Investimento",
-  donation: "Doação",
-  fee: "Honorário / taxa",
-  guarantee: "Garantia",
-  asset_sale: "Venda de ativo",
-  other: "Outra",
-};
+export { TRANSACTION_TYPE_LABEL } from "./labels";
 
 export const TransactionSchema = z
   .object({
@@ -513,21 +429,7 @@ export const RelationshipTypeSchema = z.enum([
 ]);
 export type RelationshipType = z.infer<typeof RelationshipTypeSchema>;
 
-export const RELATIONSHIP_TYPE_LABEL: Record<RelationshipType, string> = {
-  personal_social: "Pessoal / social",
-  familial: "Familiar",
-  professional: "Profissional",
-  political: "Político",
-  institutional: "Institucional",
-  financial: "Financeiro",
-  commercial: "Comercial",
-  corporate: "Societário",
-  contractual: "Contratual",
-  shared_event: "Evento compartilhado",
-  intermediary: "Intermediação",
-  communication: "Comunicação",
-  investigative_allegation: "Alegação investigativa",
-};
+export { RELATIONSHIP_TYPE_LABEL } from "./labels";
 
 export const RelationshipFamilySchema = z.enum([
   "institutional",
@@ -540,31 +442,9 @@ export const RelationshipFamilySchema = z.enum([
 ]);
 export type RelationshipFamily = z.infer<typeof RelationshipFamilySchema>;
 
-export const RELATIONSHIP_FAMILY: Record<RelationshipType, RelationshipFamily> = {
-  personal_social: "social",
-  familial: "social",
-  professional: "professional",
-  political: "political",
-  institutional: "institutional",
-  financial: "financial",
-  commercial: "financial",
-  corporate: "corporate",
-  contractual: "financial",
-  shared_event: "professional",
-  intermediary: "professional",
-  communication: "social",
-  investigative_allegation: "allegation",
-};
+export { RELATIONSHIP_FAMILY } from "./labels";
 
-export const RELATIONSHIP_FAMILY_LABEL: Record<RelationshipFamily, string> = {
-  institutional: "Institucional",
-  financial: "Financeiro / comercial",
-  political: "Político",
-  social: "Pessoal / social",
-  professional: "Profissional",
-  corporate: "Societário",
-  allegation: "Alegação investigativa",
-};
+export { RELATIONSHIP_FAMILY_LABEL } from "./labels";
 
 export const RelationshipSchema = z
   .object({

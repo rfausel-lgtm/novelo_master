@@ -1,9 +1,19 @@
+import type { Metadata } from "next";
 import Link from "next/link";
+import { SITE } from "@/lib/site";
 import { allRevisions, corpus, entityHref, entityName, stats, lastUpdated } from "@/lib/data";
 import { excerptOf, safeJsonLd, siteJsonLd } from "@/lib/pages";
 import { formatDateTimeBRT, formatNumber, formatPartialDate } from "@/lib/format";
 import { LogoAnimado } from "@/components/ui/LogoAnimado";
 import { EVIDENCE_CLASS_LABEL, type EvidenceClass } from "@/lib/schema";
+
+/*
+ * Canônica da home declarada aqui, e não no layout: as páginas internas já trazem a própria
+ * (pageMetadata), e a home é a única que recebe link de fora com parâmetro colado (utm, `?fbclid`).
+ */
+export const metadata: Metadata = {
+  alternates: { canonical: SITE.url },
+};
 
 const STATS: { key: keyof typeof stats; label: string }[] = [
   { key: "people", label: "pessoas" },

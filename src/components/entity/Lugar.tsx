@@ -33,6 +33,7 @@ export function Lugar({
           alt={`Mapa de ${place.name}`}
           width={560}
           height={280}
+          loading="lazy"
           className="minimapa block h-auto w-full"
         />
         {/* O ponto fica no centro por construção: o mapa é recortado em torno da coordenada. */}

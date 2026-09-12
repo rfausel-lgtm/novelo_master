@@ -2,7 +2,7 @@
 
 import { useId, useState, type ButtonHTMLAttributes, type ReactNode } from "react";
 import type { EvidenceClass } from "@/lib/schema";
-import { EVIDENCE_CLASS_LABEL } from "@/lib/schema";
+import { EVIDENCE_CLASS_LABEL } from "@/lib/schema/labels";
 import { EVIDENCE_VAR } from "@/lib/graph/style";
 
 /** Botão pequeno da barra de ferramentas / painéis. */

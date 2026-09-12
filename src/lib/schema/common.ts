@@ -22,23 +22,13 @@ export const DatePrecisionSchema = z.enum(["day", "month", "year", "approximate"
 export const EvidenceClassSchema = z.enum(["D", "C", "A", "I"]);
 export type EvidenceClass = z.infer<typeof EvidenceClassSchema>;
 
-export const EVIDENCE_CLASS_LABEL: Record<EvidenceClass, string> = {
-  D: "Documental direto",
-  C: "Corroborado",
-  A: "Alegação",
-  I: "Inferência",
-};
+export { EVIDENCE_CLASS_LABEL } from "./labels";
 
 /** Status factual de um registro após o gauntlet editorial. */
 export const FactStatusSchema = z.enum(["verified", "disputed", "unverified", "refuted"]);
 export type FactStatus = z.infer<typeof FactStatusSchema>;
 
-export const FACT_STATUS_LABEL: Record<FactStatus, string> = {
-  verified: "Verificado",
-  disputed: "Disputado",
-  unverified: "Não verificado",
-  refuted: "Refutado",
-};
+export { FACT_STATUS_LABEL } from "./labels";
 
 /** Estado no fluxo editorial. Só `published` entra no build público. */
 export const ReviewStatusSchema = z.enum(["draft", "in_review", "published", "retracted"]);
@@ -72,15 +62,7 @@ export const CitedPositionSchema = z.object({
 });
 export type CitedPosition = z.infer<typeof CitedPositionSchema>;
 
-export const CITED_POSITION_LABEL: Record<CitedPosition["kind"], string> = {
-  denial: "Negativa",
-  clarification: "Esclarecimento",
-  public_note: "Nota pública",
-  version: "Versão apresentada",
-  alternative_explanation: "Explicação alternativa",
-  no_response: "Sem resposta",
-  not_located: "Posição não localizada",
-};
+export { CITED_POSITION_LABEL } from "./labels";
 
 /** Metadados obrigatórios de imagem. */
 export const PhotoSchema = z.object({

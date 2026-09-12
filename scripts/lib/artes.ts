@@ -112,9 +112,27 @@ export function selecionarIdsPendentes(
     .sort((a, b) => a.lote - b.lote || a.id.localeCompare(b.id));
 }
 
+/**
+ * Arquivos que contam como ARTE CONCLUÍDA para o detector: tudo, menos os cards.
+ *
+ * A ilustração do Codex prevalece sobre o card (Rafael, 12/09/2026). Se o card contasse como
+ * conclusão — como contou na primeira versão —, cobrir 100% das revisões com card faria a automação
+ * nunca mais encontrar pendência, e nenhuma ilustração seria gerada de novo. O card é o que o leitor
+ * vê enquanto a ilustração não chega; não é o fim da fila.
+ */
+export function ilustracoesConcluidas(
+  arquivos: readonly string[],
+  cards: ReadonlySet<string>,
+): Set<string> {
+  return new Set(arquivos.filter((arquivo) => !cards.has(arquivo.replace(/\.webp$/, ""))));
+}
+
 /** Lê o repositório e devolve as revisões pendentes com o título editorial aprovado. */
 export function revisoesPendentes(desdeLote: number): RevisaoPendente[] {
-  const artes = new Set(fs.existsSync(DIR_ARTES) ? fs.readdirSync(DIR_ARTES) : []);
+  const artes = ilustracoesConcluidas(
+    fs.existsSync(DIR_ARTES) ? fs.readdirSync(DIR_ARTES) : [],
+    lerManifestoDeCards(),
+  );
   return selecionarIdsPendentes(idsDeRevisao(), artes, desdeLote).map(({ id, lote }) => {
     const documento = parse(fs.readFileSync(path.join(DIR_REVISOES, `${id}.yaml`), "utf8")) as {
       id?: unknown;
