@@ -11,10 +11,11 @@ document_ids:
 source_ids:
 - src-stf-inq5026-decisao-12-06-2026-alberto-felix-intimacao-pf
 date: '2026-06-12'
-notes: O número do IPL 2025.0087917-SR/PF/DF não foi localizado em nenhum outro registro do acervo até
-  esta data — pista para checagem futura sobre a natureza dessa apuração paralela.
+notes: 'Resolvido em 12/09/2026 (lote 219): o IPL 2025.0087917-SR/PF/DF é o mesmo inquérito trasladado ao
+  STF como peça do INQ 5.026, lido diretamente pela equipe — não é uma apuração paralela desconhecida, mas
+  o próprio inquérito que originou toda a investigação sobre o caso Master.'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-09-12'

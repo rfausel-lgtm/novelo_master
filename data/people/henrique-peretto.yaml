@@ -1,0 +1,41 @@
+id: henrique-peretto
+kind: person
+name: Henrique Peretto
+aliases:
+- Henrique Souza e Silva Peretto
+category: executive
+role: Fundador e presidente da Cartos Sociedade de Crédito Direto S.A.
+positions:
+- title: Fundador e presidente
+  organization_id: cartos
+  source_ids:
+  - src-stf-inq5026-ipl1096304-completo
+summary: 'Fundou a Cartos SCD em 03/11/2014 e segue como seu representante formal perante o Banco Central
+  em janelas sucessivas até pelo menos 2025. Firmou termo de compromisso com o Banco Central em 2021 (Decisão
+  158/2021-BCB/DEGEF), ao lado de André Seixas Maia, Yim Kyu Lee e da própria Cartos — teor exato das
+  irregularidades ainda não localizado nos documentos lidos. Segundo o Poder360, Daniel Vorcaro atribuiu
+  publicamente a criação da Tirreno a Peretto — versão que a reportagem, com base em documentos societários,
+  considera falsa (a criação é atribuída a Daniel Moreira Bezerra, sob o nome original ''SX 016'', com Seixas
+  Maia assumindo a direção depois da renomeação). É investigado formal no INQ 5.026: pediu adiamento de
+  oitiva agendada para 26/01/2026 por conflito de agenda com audiência em processo distinto (10ª Vara
+  Criminal de São Paulo), e renunciou a procuradores em novembro de 2025.'
+why_in_novelo: É apontado por Daniel Vorcaro como o criador da Tirreno — atribuição que o Poder360 considera
+  falsa, mas que o torna, de qualquer forma, uma das figuras centrais na disputa sobre a origem da empresa
+  usada para vender créditos fabricados ao BRB.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
+open_questions:
+- O teor exato das irregularidades que levaram ao termo de compromisso de 2021 da Cartos com o Banco Central
+  não está disponível nos documentos lidos até agora.
+- Não confirmado se a atribuição de Vorcaro (Peretto como criador da Tirreno) é alegação de má-fé, engano, ou
+  se há alguma participação de Peretto ainda não documentada — os registros primários lidos até agora só
+  confirmam o vínculo dele com a Cartos, não com a Tirreno diretamente.
+source_ids:
+- src-poder360-2026-02-04-bc-poupou-cartos
+- src-stf-inq5026-ipl1096304-completo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

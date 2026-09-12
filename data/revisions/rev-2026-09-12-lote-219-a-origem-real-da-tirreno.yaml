@@ -1,0 +1,49 @@
+id: rev-2026-09-12-lote-219-a-origem-real-da-tirreno
+kind: revision
+date: '2026-09-12'
+title: 'Lote 219 — a origem real da Tirreno: de SX 016 a Cartos, três versões contestadas'
+summary: 'A leitura direta do IPL 2025.0087917 corrige e aprofunda tudo que o acervo sabia sobre a origem
+  da Tirreno, a empresa de fachada por trás dos R$ 12,2 bilhões vendidos ao BRB. A empresa nasceu em
+  04/11/2024 como "SX 016 Empreendimentos e Participações S.A.", uma entre ~91 empresas semelhantes
+  registradas por Daniel Moreira Bezerra — não foi criada por Daniel Vorcaro, afirmação que o registro
+  anterior fazia sem lastro documental. Renomeada Tirreno em 02/12/2024, dois dias antes de assinar
+  contrato de parceria com o Master; André Seixas Maia assumiu a direção em 15/04/2025. Seixas Maia e
+  Henrique Peretto, a dupla que a imprensa já apontava como a real origem da empresa (e que Vorcaro tentou
+  atribuir só a Peretto), têm agora lastro documental primário: ambos vêm da Cartos Sociedade de Crédito
+  Direto S.A., que também firmou termo de compromisso com o Banco Central em 2021. E a explicação do Master
+  para a origem dos créditos mudou três vezes perante o Banco Central — associações da Bahia, depois a
+  própria Tirreno, depois a Cartos via três FIDCs — sem que nenhuma versão fosse confirmada. Um achado
+  lateral: Alberto Felix de Oliveira Neto, já conhecido como tesoureiro do Master, assinou o contrato
+  Master-Tirreno como superintendente executivo de tesouraria da própria Tirreno — e o inquérito em que ele
+  foi intimado em junho, até aqui não identificado no acervo, é este mesmo IPL.'
+added:
+  people: 3
+  organizations: 1
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 0
+  evidence: 4
+updated_relationships: 0
+corrections:
+- 'tirreno.yaml afirmava que a empresa foi "criada por Daniel Vorcaro" — sem lastro documental. Corrigido:
+  a leitura direta do IPL mostra origem em Daniel Moreira Bezerra (SX 016), com André Seixas Maia assumindo
+  a direção depois da renomeação. Nenhum documento primário lido até agora atribui a criação a Vorcaro.'
+- 'ev-alberto-felix-intimado-ipl-2025-0087917 registrava o IPL 2025.0087917 como "distinto e ainda não
+  identificado no acervo" — resolvido: é o próprio IPL que originou toda a apuração do caso Master, hoje
+  lido por inteiro.'
+author: orquestrador
+affected_ids:
+- tirreno
+- cartos
+- andre-seixas-maia
+- henrique-peretto
+- daniel-moreira-bezerra
+- alberto-felix-oliveira
+- banco-master
+- banco-de-brasilia-brb
+reason: Leitura direta, por equipes de investigação em paralelo, do IPL 2025.0087917 trasladado ao STF —
+  material novo obtido por Rafael, ainda não minerado pelo acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

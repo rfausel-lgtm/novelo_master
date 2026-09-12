@@ -1,0 +1,31 @@
+id: daniel-moreira-bezerra
+kind: person
+name: Daniel Moreira Bezerra
+category: other
+role: Constituiu a empresa que se tornou a Tirreno
+summary: 'Constituiu, em 04/11/2024, a empresa "SX 016 Empreendimentos e Participações S.A." (CNPJ
+  57.965.351/0001-54) — uma entre cerca de 91 empresas de nomes semelhantes ("SX XXX") que registrou, padrão
+  que o Banco Central aponta como indício de "empresa de prateleira". Em 02/12/2024, a SX 016 teve seu
+  contrato social alterado: mudou de nome para Tirreno Consultoria Promotoria de Crédito e Participações
+  S.A., ampliou o capital para R$ 30 milhões, e ele foi substituído por André Seixas Maia na direção. A
+  alteração só foi registrada na Junta Comercial de São Paulo em 15/04/2025 — quando os primeiros contratos
+  de cessão de crédito com o Banco Master já haviam sido assinados (a partir de 05/12/2024) em nome da
+  empresa ainda formalmente chamada SX 016.'
+why_in_novelo: É quem, na prática, abriu a casca societária que se tornaria a Tirreno — um passo anterior
+  a tudo que se sabia sobre a empresa até a leitura direta do IPL, e nenhuma fonte jornalística já registrada
+  no acervo o identifica.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada.
+open_questions:
+- Não há indício, nos documentos lidos até agora, de que ele conhecesse o uso posterior da empresa como
+  veículo de venda de créditos ao BRB — o registro de ~91 empresas semelhantes é consistente tanto com
+  atuação própria de "vendedor de empresas de prateleira" (praxe comercial comum, não necessariamente ilícita)
+  quanto com participação consciente no esquema; os documentos não resolvem essa distinção.
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

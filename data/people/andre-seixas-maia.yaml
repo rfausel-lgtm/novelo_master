@@ -1,0 +1,47 @@
+id: andre-seixas-maia
+kind: person
+name: André Seixas Maia
+aliases:
+- André Felipe de Oliveira Seixas Maia
+category: executive
+role: Diretor da Tirreno Consultoria Promotoria de Crédito e Participações S.A.
+positions:
+- title: Sócio-diretor
+  organization_id: cartos
+  source_ids:
+  - src-stf-inq5026-ipl1096304-completo
+- title: Diretor
+  organization_id: tirreno
+  source_ids:
+  - src-stf-inq5026-ipl1096304-completo
+summary: 'Ex-funcionário do Banco Master até março de 2022, foi sócio-diretor da Cartos SCD entre 03/11/2014
+  e 05/05/2021 — período em que a Cartos firmou termo de compromisso com o Banco Central por irregularidades
+  ainda não detalhadas nos documentos lidos (Decisão 158/2021-BCB/DEGEF). Em 15/04/2025, assumiu a direção
+  da empresa hoje conhecida como Tirreno, substituindo Daniel Moreira Bezerra, que a havia constituído em
+  04/11/2024 sob o nome ''SX 016 Empreendimentos e Participações S.A.'' — renomeada em 02/12/2024, dois dias
+  antes da assinatura do contrato de parceria com o Banco Master (05/12/2024). Registros do Banco Central
+  (CCS) confirmam vínculo formal com a Cartos desde 2014, com janelas sucessivas de representação bancária
+  até pelo menos 2025, e conta corrente no próprio Banco Master desde 2019. Segundo o Poder360, a versão
+  pública de Daniel Vorcaro — de que Henrique Peretto teria criado a Tirreno — é falsa; a reportagem atribui
+  a criação a Seixas Maia. É investigado formal no INQ 5.026, com busca e apreensão cumprida em sua residência
+  em 18/11/2025 e oitiva agendada para 26/01/2026, adiada a pedido da defesa por falta de acesso aos autos.'
+why_in_novelo: É a figura central por trás da Tirreno, a empresa de fachada usada para vender ao BRB R$ 12,2
+  bilhões em créditos que a Polícia Federal não conseguiu confirmar na origem — com lastro documental primário
+  (Banco Central e o próprio IPL), não apenas jornalístico.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
+open_questions:
+- O teor exato das irregularidades que levaram ao termo de compromisso de 2021 da Cartos com o Banco Central
+  não está disponível nos documentos lidos até agora.
+- Se ele efetivamente criou o mecanismo de fabricação de créditos da Tirreno, ou apenas assumiu a direção de
+  uma empresa já constituída por Daniel Moreira Bezerra, permanece em apuração — os documentos mostram
+  assunção formal da direção, não a autoria do esquema em si.
+source_ids:
+- src-poder360-2026-02-04-bc-poupou-cartos
+- src-stf-inq5026-ipl1096304-completo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

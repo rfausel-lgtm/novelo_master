@@ -10,6 +10,10 @@ positions:
   organization_id: banco-master
   source_ids:
   - src-amprev-ata-4a-ext-ciap-2024
+- title: Superintendente Executivo de Tesouraria
+  organization_id: tirreno
+  source_ids:
+  - src-stf-inq5026-ipl1096304-completo
 summary: Identificado na ata da Amprev como tesoureiro do Banco Master, participou com Paula Vouguinha
   da apresentação da instituição ao Comitê de Investimentos em 14/03/2024. Segundo a imprensa, seu cargo
   formal era o de superintendente executivo de Tesouraria — a ata da Amprev o registra como 'tesoureiro'.
@@ -21,7 +25,9 @@ summary: Identificado na ata da Amprev como tesoureiro do Banco Master, particip
   cumpria prisão domiciliar com monitoramento eletrônico (não mais custódia fechada) — em 30/04/2026, obteve
   autorização excepcional do STF para viajar a Passos/MG e comparecer ao velório e sepultamento do pai,
   Gerson Felix de Oliveira. Em 12/06/2026, foi intimado a depor em Brasília no inquérito policial nº
-  2025.0087917-SR/PF/DF, distinto e ainda não identificado no acervo.
+  2025.0087917-SR/PF/DF — o mesmo IPL, hoje identificado, que originou toda a apuração do caso Master; a
+  leitura direta dele revelou que, além de tesoureiro do Master, ele assinou como "Superintendente Executivo
+  de Tesouraria" da Tirreno o contrato de parceria entre as duas empresas (05/12/2024).
 why_in_novelo: Integrava a dupla que apresentou o Banco Master ao comitê que viria a aplicar R$ 400 milhões
   em suas letras financeiras.
 cited_position:
@@ -33,8 +39,6 @@ open_questions:
 - 'Identidade entre ''Alberto Félix Oliveira'' (fonte: ata da Amprev) e ''Alberto Felix de Oliveira Neto''
   (fonte: decisões do INQ 5.026) tratada como a mesma pessoa, dado o contexto idêntico — tesoureiro do
   Master, preso em 18/11/2025 na Compliance Zero, silêncio em depoimento — mas sem confirmação por CPF.'
-- Número do inquérito policial 2025.0087917-SR/PF/DF, em que figura como investigado, não identificado em
-  nenhuma outra fonte do acervo.
 - O corpus não registra o período em que ocupou a tesouraria do banco.
 - A equipe não confirmou, no cadastro de administradores do Banco Central, se ele era diretor estatutário
   do Banco Master ou ocupava função executiva não estatutária.
@@ -43,8 +47,9 @@ source_ids:
 - src-alagoasprevidencia-termo-credenciamento-033-2024
 - src-stf-inq5026-decisao-30-04-2026-alberto-felix-viagem-humanitaria
 - src-stf-inq5026-decisao-12-06-2026-alberto-felix-intimacao-pf
+- src-stf-inq5026-ipl1096304-completo
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-04'
-updated_at: '2026-09-11'
+updated_at: '2026-09-12'

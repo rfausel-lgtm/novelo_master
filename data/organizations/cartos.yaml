@@ -1,0 +1,39 @@
+id: cartos
+kind: organization
+name: Cartos
+aliases:
+- Cartos Sociedade de Crédito Direto S.A.
+- Solid Cred Sociedade de Crédito ao Microempreendedor e à Empresa de Pequeno Porte
+org_type: company
+summary: 'Sociedade de Crédito Direto (CNPJ 21.332.862/0001-91), fundada por Henrique Souza e Silva Peretto
+  em 03/11/2014, sob a razão social anterior "Solid Cred". André Felipe de Oliveira Seixas Maia foi
+  sócio-diretor da Cartos entre 03/11/2014 e 05/05/2021, antes de assumir a direção da Tirreno em 2025.
+  Já firmou termo de compromisso com o Banco Central em 2021 (Decisão 158/2021-BCB/DEGEF, Processo 165807),
+  ao lado de Seixas Maia, Peretto e Yim Kyu Lee — o teor exato das irregularidades não está disponível nos
+  documentos lidos até agora. Segundo apurou o Banco Central em 2025, a Cartos surge como uma terceira
+  versão (após Asteba/Asseba e a Tirreno "pura") para a origem dos créditos vendidos ao BRB: teria cedido
+  créditos a três Fundos de Investimento em Direitos Creditórios — FIDC Noto, FIDC Sueste e FIDC VCK —,
+  via seus próprios promotores de crédito, num acordo operacional com a Tirreno datado de 03/01/2025 (assinado
+  à mão, sem reconhecimento de firma). É citada nominalmente na própria portaria de instauração do IPL
+  2025.0087917 (17/08/2025) como uma das cinco empresas a apurar.'
+why_in_novelo: É uma das cinco empresas nomeadas na portaria que abriu a investigação sobre o Banco Master,
+  e a origem societária comum de André Felipe de Oliveira Seixas Maia e Henrique Souza e Silva Peretto —
+  as duas figuras mais diretamente ligadas à criação e à direção da Tirreno.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
+open_questions:
+- O teor exato das irregularidades que levaram ao termo de compromisso de 2021 com o Banco Central (Decisão
+  158/2021-BCB/DEGEF) não está disponível nos documentos lidos até agora — só o cabeçalho/qualificação das
+  partes foi localizado.
+- Se a Cartos de fato originou os créditos via os três FIDCs citados, ou se essa é mais uma camada de
+  simulação, não está resolvido pelos documentos lidos — o próprio Banco Central tratou a explicação como
+  nova versão a apurar, não como fato estabelecido.
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+- src-poder360-2026-02-04-bc-poupou-cartos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

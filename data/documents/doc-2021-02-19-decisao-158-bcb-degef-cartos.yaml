@@ -1,0 +1,25 @@
+id: doc-2021-02-19-decisao-158-bcb-degef-cartos
+kind: document
+title: Decisão 158/2021-BCB/DEGEF — termo de compromisso da Cartos com o Banco Central
+doc_type: regulatory_record
+date: '2021-02-19'
+date_precision: day
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+summary: 'Decisão do Departamento de Gestão de Fundos Garantidores e Gerenciamento de Crises (DEGEF) do
+  Banco Central, Processo 165807, que lista como compromitentes de um termo de compromisso a Cartos (sob
+  a razão social anterior, Solid Cred), André Seixas Maia, Henrique Peretto e Yim Kyu Lee. Conhecida por
+  citação/cabeçalho reproduzido dentro do despacho do MPF que fundamenta o IPL 2025.0087917 — o teor
+  integral (natureza das irregularidades, obrigação assumida) não foi lido diretamente.'
+is_official: true
+related_entity_ids:
+- cartos
+- andre-seixas-maia
+- henrique-peretto
+issuer: Banco Central do Brasil — DEGEF
+reference: Processo 165807
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
