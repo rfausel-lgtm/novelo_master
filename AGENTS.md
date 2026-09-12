@@ -50,7 +50,8 @@ nada nesta cadeia depende de alguém lembrar depois.
 - **Autoaprovação não reduz o padrão editorial.** Ela decorre da autorização continuada registrada na
   seção 7.1, não de autorização criada pelo agente. O agente ainda precisa conferir e registrar cada
   item do checklist; qualquer dúvida sobre rosto de pessoa real, retrato fotorrealista, simulação de
-  documento ou de cena, alegação nova ou animação interrompe o fluxo.
+  documento ou de cena fora da exceção cenográfica expressa na seção 7.1, alegação nova ou animação
+  interrompe o fluxo.
 - **Ninguém commita na branch alheia.** A equipe de arte trabalha em worktree próprio e traz a `main`
   para dentro; a equipe de investigação publica na `main` sem parar para esperar arte. As duas correm
   em paralelo de propósito — antes de editar código, verifique se o worktree já tem trabalho não

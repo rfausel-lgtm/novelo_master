@@ -195,7 +195,7 @@ Essas artes existem para divulgação do lote em rede social, ficam em `public/s
 
 1. **Sempre rotulada.** A legenda "Ilustração gerada por IA" acompanha a imagem onde quer que ela apareça no site, e o `alt` a identifica como arte de divulgação. Nunca se publica sem o rótulo.
 2. **Nunca pessoa real identificável em retrato fotorrealista.** Silhueta, figura genérica e composição simbólica são admitidas; rosto reconhecível de pessoa do caso, não. Uma imagem sintética que pareça foto de alguém é, na prática, uma foto falsa.
-3. **Nunca simula documento nem cena de fato.** A arte não reproduz peça processual, decisão, print de conversa ou registro de acontecimento de modo que se possa lê-la como captura do real. Elementos de cenário estilizados (uma mesa, um selo, uma fachada) são cenário; a reconstituição de um fato específico, não.
+3. **Nunca simula documento nem cena de fato.** A arte não reproduz peça processual, decisão, print de conversa ou registro de acontecimento de modo que se possa lê-la como captura do real. Elementos de cenário estilizados (uma mesa, um selo, uma fachada) são cenário; a reconstituição de um fato específico, não. Fachadas de edifícios, espaços públicos e objetos oficiais fechados também podem integrar essa cenografia, inclusive a reprodução reconhecível da capa externa original de um passaporte. A exceção é somente cenográfica: nunca mostra páginas internas, campos preenchidos, número, QR code, código de barras, carimbo, fotografia, dado pessoal ou mecanismo individual de autenticação legível. A legenda pública e o brasão estampados na capa original são admitidos; nunca se sugere que o objeto pertence a alguém ou prova um fato do lote.
 4. **A ausência é o estado normal.** A maior parte dos lotes não tem nem terá arte. Isso não é lacuna, não é pendência, e a lista não reserva espaço para ela.
 5. **O texto embutido na arte não é fonte.** Os cards trazem o título do lote e a marca do site no próprio pixel. O que vale é o registro em `data/`; divergindo os dois, corrige-se ou remove-se a arte.
 
@@ -211,7 +211,7 @@ Antes de publicar cada arte, o agente registra no PR um checklist concluído dec
 - não é retrato fotorrealista;
 - não simula documento, decisão, processo, print, fotografia jornalística ou cena de fato específica;
 - não acrescenta pessoa, fato, número, documento, alegação ou conclusão ausente da revisão;
-- contém somente o título exato da revisão e a marca do site como texto editorial; e
+- contém somente o título exato da revisão e a marca do site como texto editorial; marcas ou inscrições inseparáveis de uma capa externa oficial permitida não são texto editorial e não podem trazer dado pessoal ou afirmação sobre o caso; e
 - não é animada.
 
 O agente só mescla o PR depois de inspecionar a imagem e de todas as verificações obrigatórias

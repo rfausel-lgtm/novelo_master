@@ -78,14 +78,19 @@ Criar card editorial simbólico, sóbrio e não fotorrealista, em composição
 horizontal adequada a até 1280 px de largura. Pode usar formas abstratas,
 silhuetas genéricas, tipografia e elementos cenográficos estilizados.
 
-Incluir apenas texto editorial aprovado para o lote e a marca do site.
+Incluir apenas o título editorial aprovado para o lote e a marca do site. Inscrições inseparáveis da reprodução cenográfica autorizada de uma capa externa oficial (por exemplo, a capa original de um passaporte) não constituem texto editorial; não podem ter dados pessoais nem afirmar algo sobre o caso.
 A arte é decorativa: não acrescenta fatos, pessoas, documentos ou alegações.
 
 Proibido:
 - rosto ou pessoa real identificável;
 - retrato fotorrealista;
-- simular documento, decisão, processo, print, fotografia jornalística
-  ou cena de fato específica;
+- simular peça processual, decisão, página interna de documento, print,
+  fotografia jornalística ou cena de fato específica. É permitido usar, como
+  cenografia ilustrativa, fachadas, espaços públicos e a capa externa original
+  de objeto oficial fechado; nunca páginas internas, campos preenchidos,
+  número, QR code, código de barras, carimbo, foto, dado pessoal ou mecanismo
+  individual de autenticação legível. A legenda pública e o brasão da capa
+  original são permitidos, desde que não sejam apresentados como prova;
 - alegação factual nova, número que não esteja na revisão, ou linguagem
   conclusiva que exceda os dados;
 - animação.
