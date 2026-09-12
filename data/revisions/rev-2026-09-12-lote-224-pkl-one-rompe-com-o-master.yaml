@@ -1,0 +1,39 @@
+id: rev-2026-09-12-lote-224-pkl-one-rompe-com-o-master
+kind: revision
+date: '2026-09-12'
+title: 'Lote 224 — a PKL One rompe com o Master: da averbação negada à extinção do Credcesta'
+summary: 'A disputa PKL One–Banco Master, até aqui registrada só pela via da imprensa (o litígio pelos
+  repasses da folha de Macapá, agosto de 2025), ganha um capítulo anterior e mais concreto: duas cartas da
+  PKL One documentam a ruptura contratual. Em 18/09/2025, a PKL One avisou o Master de que não poderia mais
+  registrar novos produtos sob a marca Credcesta sem autorização prévia; em 02/10/2025, formalizou a
+  extinção do direito de uso da marca. Registrado como relação própria, distinta da disputa por Macapá, com
+  documentos primários (as próprias cartas, assinadas digitalmente) em vez de fonte jornalística única.
+  Um achado lateral: uma semana antes de sua liquidação, em 10/11/2025, o Master autorizou compensar
+  pagamentos entre cinco credores ligados ao mesmo ecossistema Credcesta — PKL One, Ametrino, uma "Terra
+  Firme" ainda não identificada com precisão, o Banco Pleno e uma empresa nova para o acervo, Você Pode
+  Saúde.'
+added:
+  people: 0
+  organizations: 1
+  events: 0
+  documents: 3
+  relationships: 1
+  sources: 0
+  evidence: 3
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- pkl-one-participacoes
+- banco-master
+- andrea-lima-novaes
+- luiz-bull
+- credcesta
+- ametrino-participacoes
+- banco-pleno
+- voce-pode-saude
+reason: Leitura direta, por equipes de investigação em paralelo, de peças do INQ 5.026 — material novo
+  obtido por Rafael, ainda não minerado pelo acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

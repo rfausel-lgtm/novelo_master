@@ -1,0 +1,22 @@
+id: voce-pode-saude
+kind: organization
+name: Você Pode Saúde
+org_type: company
+summary: Empresa citada, ao lado de PKL One Participações, Ametrino Participações, Terra Firme e Banco
+  Pleno, na autorização do Banco Master de 10/11/2025 para que valores recebidos na cobrança das operações
+  de crédito fossem usados para compensar débitos com essas cinco contrapartes.
+why_in_novelo: É uma das contrapartes credoras citadas na autorização de compensação de pagamentos do
+  Banco Master de novembro de 2025, no mesmo grupo do Credcesta/PKL One/Terra Firme.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
+open_questions:
+- Não localizada, nos documentos lidos até agora, a natureza exata do débito do Master com essa empresa,
+  nem qualquer outra informação sobre ela além de ser citada nesta autorização.
+source_ids:
+- src-stf-inq5026-pecas-1-100
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

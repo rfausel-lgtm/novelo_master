@@ -1,0 +1,25 @@
+id: doc-2025-11-10-autorizacao-master-compensacao-pagamentos
+kind: document
+title: Autorização do Banco Master para compensação de pagamentos entre credores do Credcesta
+doc_type: administrative_act
+date: '2025-11-10'
+date_precision: day
+source_ids:
+- src-stf-inq5026-pecas-1-100
+summary: O Banco Master autorizou, em 10/11/2025, que valores recebidos na cobrança de operações de
+  crédito fossem usados para compensar débitos com a PKL One Participações, a Ametrino Participações, uma
+  "Terra Firme" não identificada com precisão entre as homônimas já mapeadas no acervo, o Banco Pleno e a
+  Você Pode Saúde — datada uma semana antes da liquidação extrajudicial (18/11/2025).
+is_official: false
+related_entity_ids:
+- banco-master
+- pkl-one-participacoes
+- ametrino-participacoes
+- banco-pleno
+- voce-pode-saude
+issuer: Banco Master S.A.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

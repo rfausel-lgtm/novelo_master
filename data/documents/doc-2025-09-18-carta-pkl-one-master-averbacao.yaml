@@ -1,0 +1,24 @@
+id: doc-2025-09-18-carta-pkl-one-master-averbacao
+kind: document
+title: Carta da PKL One ao Banco Master reiterando pedido de dados do Credcesta
+doc_type: letter
+date: '2025-09-18'
+date_precision: day
+source_ids:
+- src-stf-inq5026-pecas-1-100
+summary: Carta da PKL One Participações ao Banco Master, endereçada a Luiz Bull, reiterando pedido de dados
+  do Credcesta, referenciando o Contrato de Licenciamento de 1º/8/2018, e comunicando que a partir daquela
+  data o Master não poderia mais "averbar" produtos da PKL sem autorização prévia.
+is_official: false
+related_entity_ids:
+- pkl-one-participacoes
+- banco-master
+- luiz-bull
+- credcesta
+issuer: PKL One Participações
+reference: Contrato de Licenciamento de 1º/8/2018
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
