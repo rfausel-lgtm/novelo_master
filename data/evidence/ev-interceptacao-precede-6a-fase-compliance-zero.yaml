@@ -1,0 +1,21 @@
+id: ev-interceptacao-precede-6a-fase-compliance-zero
+kind: evidence
+classification: D
+proposition: Em 11/05/2026, o STF autorizou interceptação telefônica e de WhatsApp contra dez integrantes
+  apontados de "A Turma" e "Os Meninos" — dois a três dias antes de praticamente todos eles serem alvo de
+  prisão, afastamento de cargo ou cautelar patrimonial na 6ª fase da Operação Compliance Zero
+  (13-14/05/2026), já registrada no acervo.
+document_ids:
+- doc-2026-05-11-decisao-pet15977-interceptacao
+source_ids:
+- src-stf-pet15977-decisao-11-05-2026-interceptacao
+date: '2026-05-11'
+notes: Padrão investigativo típico (escuta secreta seguida de ação ostensiva) — o celular de Marilson
+  Roseno da Silva, apreendido desde março de 2026, segue sendo a espinha dorsal probatória por trás de
+  ambas as fases. Não altera a classificação de nenhum dos dez como investigado, não indiciado nem
+  denunciado nesta peça.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

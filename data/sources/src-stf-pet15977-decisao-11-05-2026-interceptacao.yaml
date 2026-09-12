@@ -1,0 +1,30 @@
+id: src-stf-pet15977-decisao-11-05-2026-interceptacao
+kind: source
+title: Decisão de André Mendonça na PET 15.977/DF autorizando interceptação telefônica e de WhatsApp
+publisher: Supremo Tribunal Federal
+author: Ministro André Mendonça
+publication_date: '2026-05-11'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576885
+source_type: official_court
+summary: Decisão que defere interceptação telefônica e monitoramento em tempo real de WhatsApp, por 15
+  dias a partir da efetiva implementação, contra dez pessoas apontadas como integrantes, colaboradoras ou
+  financiadoras dos núcleos "A Turma" e "Os Meninos" — Henrique Moura Vorcaro, Erlene Nonato Lacerda,
+  Helder Alves de Lima, David Henrique Alves, Victor Lima Sedlmaier, Rodrigo Pimenta Franco Avelar Campos,
+  Katherine Venâncio Telles, Manoel Mendes Rodrigues, Anderson Wander da Silva Lima e Sebastião Monteiro
+  Júnior — dois a três dias antes das prisões e cautelares patrimoniais da 6ª fase da Operação Compliance
+  Zero (13-14/05/2026), já registrada no acervo.
+notes: 'Peça pública do portal do STF (Resolução 427/2010), obtida em sessão anterior via
+  scripts/stf_baixar_decisoes.py e ainda não analisada até 12/09/2026. Código de autenticação/senha do
+  rodapé de cada página nunca reproduzido no acervo.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador (leitura por equipe de investigação dedicada, cruzando os 10 nomes contra o
+    acervo)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

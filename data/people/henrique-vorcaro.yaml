@@ -34,7 +34,9 @@ summary: 'Pai de Daniel Vorcaro. Teve prisão preventiva decretada pelo STF em 1
   27/05/2025 a partir de denúncia anônima, formalmente distinta da Compliance Zero — traz, em análise de
   FIDCs anexada ao inquérito, o apontamento de uma transferência de R$ 9 milhões de um intermediário não
   identificado a ele. É alegação da autoridade policial em fase de apuração, anterior a qualquer outro
-  registro do acervo sobre ele.'
+  registro do acervo sobre ele. ACHADO NOVO (lote 237): em 11/05/2026 — três dias antes de sua prisão
+  preventiva de 14/05/2026 — o STF já havia autorizado interceptação telefônica e de WhatsApp contra ele,
+  por 15 dias, na PET 15.977.'
 why_in_novelo: Teve prisão preventiva decretada e mantida pelo STF na 6ª fase da Operação Compliance Zero,
   sendo descrito pela Polícia Federal como operador financeiro do grupo investigado.
 cited_position:
@@ -79,6 +81,7 @@ source_ids:
 - src-folha-2026-03-07-como-vorcaro-desviava-dinheiro-familiares
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 - src-stf-pet15198-peca013-ipl-5004641-completo
+- src-stf-pet15977-decisao-11-05-2026-interceptacao
 full_name: Henrique Moura Vorcaro
 review_status: published
 reviewer: orquestrador

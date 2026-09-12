@@ -17,7 +17,8 @@ summary: Preso preventivamente na 6ª fase da Operação Compliance Zero (decis�
   mesmo dia 13/05/2026, na PET 16.019 (processo formal de bloqueio patrimonial, distinto da PET 15.978),
   teve R$ 9,6 milhões em bens e valores bloqueados por decisão de Mendonça. Em 12/06/2026, seus advogados
   obtiveram habilitação e acesso temporário aos autos sigilosos da PET 16.019, com as restrições da Súmula
-  Vinculante 14.
+  Vinculante 14. ACHADO NOVO (lote 237) — em 11/05/2026, dois dias antes da prisão, o STF já havia
+  autorizado interceptação telefônica e de WhatsApp contra ele, por 15 dias, na PET 15.977.
 why_in_novelo: É o elo entre o núcleo central da organização e um braço de intimidação territorializado no Rio de
   Janeiro, com uso declarado de conexões com o jogo do bicho e possivelmente milícias — e o executor apontado de
   uma ameaça de morte específica, com reconhecimento fotográfico formal por uma das vítimas.
@@ -30,6 +31,7 @@ source_ids:
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 - src-stf-pet16019-decisao-13-05-2026-medidas-assecuratorias
 - src-stf-pet16019-decisao-12-06-2026-habilitacao-advogados
+- src-stf-pet15977-decisao-11-05-2026-interceptacao
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

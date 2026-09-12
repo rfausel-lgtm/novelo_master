@@ -14,7 +14,9 @@ summary: 'Alvo de cautelar de proibição de se ausentar da comarca e do país n
   empresa de Marilson R$ 50 mil, e Marilson perguntou a Helder se seria melhor "tirar nota" para o dinheiro
   entrar "todo limpinho"; Helder respondeu que sim, mas, diante de relutância na emissão, sugeriu o uso de
   CPF de terceiro para formalizar a nota fiscal — indício de técnica ativa de lavagem, não apenas
-  formalização passiva de repasses já articulados por outros.'
+  formalização passiva de repasses já articulados por outros. ACHADO NOVO (lote 237): em 11/05/2026 —
+  dois dias antes da cautelar de 13/05/2026 — o STF já havia autorizado interceptação telefônica e de
+  WhatsApp contra ele, por 15 dias, na PET 15.977.'
 why_in_novelo: É o operador contábil-documental que dava roupagem formal e lícita aos repasses financeiros recebidos
   por Marilson Roseno em nome do núcleo 'A Turma'.
 cited_position:
@@ -25,6 +27,7 @@ open_questions:
 source_ids:
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 - src-mpf-pgr-2026-05-05-manifestacao-pet15978-sexta-fase
+- src-stf-pet15977-decisao-11-05-2026-interceptacao
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

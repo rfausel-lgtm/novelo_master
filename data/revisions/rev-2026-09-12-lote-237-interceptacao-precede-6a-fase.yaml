@@ -1,0 +1,43 @@
+id: rev-2026-09-12-lote-237-interceptacao-precede-6a-fase
+kind: revision
+date: '2026-09-12'
+title: 'Lote 237 — escutar primeiro, prender depois: a interceptação secreta de 11/05/2026 que antecedeu a
+  6ª fase'
+summary: 'A decisão de André Mendonça na PET 15.977/DF, de 11/05/2026, autorizou interceptação telefônica
+  e de WhatsApp contra dez integrantes apontados de "A Turma" e "Os Meninos" — dois a três dias antes de
+  praticamente todos eles serem alvo de prisão, afastamento de cargo ou cautelar patrimonial na 6ª fase da
+  Operação Compliance Zero (13-14/05/2026), já registrada no acervo. É o padrão investigativo típico
+  (escuta secreta seguida de ação ostensiva), com data e fundamento até aqui ausentes dos perfis de
+  Henrique Vorcaro, Helder Alves de Lima, Erlene Nonato Lacerda e Manoel Mendes Rodrigues — os demais seis
+  nomes (David Henrique Alves, Victor Lima Sedlmaier, Rodrigo Pimenta Franco Avelar Campos, Katherine
+  Venâncio Telles, Sebastião Monteiro Júnior e Anderson Wander da Silva Lima) ganham a mesma fonte como
+  referência adicional.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'henrique-vorcaro, helder-alves-de-lima, erlene-nonato-lacerda, manoel-mendes-rodrigues: data e
+  fundamento da interceptação secreta de 11/05/2026 (PET 15.977), até aqui ausentes dos perfis.'
+author: orquestrador
+affected_ids:
+- henrique-vorcaro
+- helder-alves-de-lima
+- erlene-nonato-lacerda
+- manoel-mendes-rodrigues
+- david-henrique-alves
+- victor-lima-sedlmaier
+- rodrigo-pimenta-franco-avelar-campos
+- katherine-venancio-telles
+- sebastiao-monteiro-junior
+- anderson-wander-da-silva-lima
+reason: Leitura direta, por equipe de investigação, da decisão de 11/05/2026 na PET 15.977/DF — peça
+  pública do portal do STF, obtida em sessão anterior e ainda não analisada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
