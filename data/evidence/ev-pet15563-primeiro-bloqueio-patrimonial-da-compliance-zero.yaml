@@ -1,0 +1,30 @@
+id: ev-pet15563-primeiro-bloqueio-patrimonial-da-compliance-zero
+kind: evidence
+classification: D
+proposition: Em 03/03/2026, na PET 15.563, André Mendonça decretou, a pedido da Polícia Federal, o bloqueio de
+  contas e a indisponibilidade de bens, valores mobiliários, veículos, aeronaves e criptoativos dos alvos listados
+  na representação policial — entre eles, com papel descrito na decisão, Luiz Phillipi Mourão, Marilson Roseno da
+  Silva, Paulo Sérgio Neves de Souza, Belline Santana, Leonardo Augusto Furtado Palhares, Ana Cláudia Queiroz de
+  Paiva e a Varajo Consultoria Empresarial.
+document_ids:
+- doc-2026-03-03-decisao-pet15563-medidas-assecuratorias
+source_ids:
+- src-stf-pet15563-decisao-03-03-2026-medidas-assecuratorias
+- src-stf-pet15563-resposta-itau-06-03-2026-bloqueios
+- src-stf-pet15563-despacho-03-07-2026-agravo-palhares-varajo
+date: '2026-03-03'
+notes: 'Mesma data da decisão da PET 15.556 que decretou prisões e buscas da fase de 04/03/2026 — a PET 15.563 é o
+  processo paralelo de constrição patrimonial, como a PET 16.019 seria para a 6ª fase, em maio (ver
+  ev-pet16019-bloqueio-patrimonial-turma-e-meninos). Diferente daquela, os valores individualizados não aparecem na
+  decisão: ficam na fl. 169 da representação policial, não lida. A resposta do Itaú, de 06/03/2026, indica que essa
+  tabela tem onze requeridos e que o teto de bloqueio de Ana Cláudia Queiroz de Paiva era de R$ 42 milhões — o banco
+  encontrou e bloqueou em nome dela pouco mais de R$ 90 mil somando conta, fundo, capitalização e previdência, e
+  R$ 22,01 em nome de Palhares; para os outros nove requeridos, nada. Palhares e a Varajo recorreram por agravo
+  regimental; em 03/07/2026 o relator abriu vista à PGR, e nenhum julgamento do recurso foi localizado. O MPF teve 24 horas de vista e não se manifestou;
+  o pedido de mais prazo da PGR, protocolado depois, foi indeferido. Em 05/03/2026, o Banco Central informou ter
+  transmitido a ordem a todas as instituições financeiras; o BRB respondeu que os alvos não tinham contas nele.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

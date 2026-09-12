@@ -1,0 +1,41 @@
+id: rev-2026-09-12-lote-250-o-primeiro-bloqueio-de-bens-da-compliance-zero
+kind: revision
+date: '2026-09-12'
+title: 'Lote 250 — o primeiro bloqueio de bens da Compliance Zero, e o que os bancos encontraram'
+summary: 'Primeira leitura da PET 15.563, processo que o acervo só citava de passagem. Em 03/03/2026 — mesma data das
+  prisões e buscas da PET 15.556 —, André Mendonça decretou, a pedido da Polícia Federal, bloqueio de contas e
+  indisponibilidade de imóveis, veículos, aeronaves, valores mobiliários e criptoativos dos alvos listados na
+  representação, descrevendo o papel de Luiz Phillipi Mourão, Marilson Roseno da Silva, Paulo Sérgio Neves de
+  Souza, Belline Santana, Leonardo Palhares, Ana Cláudia Queiroz de Paiva e da Varajo. É o antecessor, dois meses
+  antes, do bloqueio da PET 16.019 já registrado. Os valores individuais não estão na decisão, mas a resposta do
+  Itaú mostra que a tabela tinha onze requeridos e que o teto para Ana Cláudia era de R$ 42 milhões — o banco
+  achou pouco mais de R$ 90 mil em nome dela e R$ 22,01 em nome de Palhares. Palhares e a Varajo recorreram, e o
+  agravo aguardava manifestação da PGR desde julho.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 3
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'leonardo-augusto-furtado-palhares: registrada a indisponibilidade de bens decretada na PET 15.563.'
+author: orquestrador
+affected_ids:
+- andre-mendonca
+- luiz-phillipi-mourao
+- marilson-roseno-da-silva
+- paulo-sergio-neves-de-souza
+- belline-santana
+- leonardo-augusto-furtado-palhares
+- ana-claudia-queiroz-de-paiva
+- varajo-consultoria-empresarial
+reason: Mineração da PET 15.563 via peticionamento.stf.jus.br (sessão autenticada pelo próprio Rafael) — 151 peças,
+  quase todas respostas de instituições ao ofício de bloqueio. Lidas também, sem entrada própria, a resposta do
+  Banco Central (ordem transmitida a todas as instituições em 04/03/2026), a do BRB (nenhuma conta dos alvos) e uma
+  segunda resposta do Itaú que repete a primeira e traz dado de seguro pessoal, não reproduzido.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

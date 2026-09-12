@@ -1,0 +1,24 @@
+id: src-stf-pet15563-despacho-03-07-2026-agravo-palhares-varajo
+kind: source
+title: Despacho de André Mendonça na PET 15.563 abrindo vista à PGR sobre agravo de Leonardo Palhares e da Varajo
+publisher: Supremo Tribunal Federal
+author: Ministro André Mendonça
+publication_date: '2026-07-03'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7515626
+source_type: official_court
+summary: Abre vista à Procuradoria-Geral da República para manifestação sobre o agravo regimental interposto por
+  Leonardo Augusto Furtado Palhares e pela Varajo Consultoria Empresarial Sociedade Unipessoal (e-doc. 160) na PET
+  15.563, o processo de medidas assecuratórias da Compliance Zero.
+notes: 'Peça da camada pública do portal do STF (Resolução 427/2010), baixada em sessão anterior e lida nesta. O
+  agravo em si não foi lido; o despacho não resume seus fundamentos.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

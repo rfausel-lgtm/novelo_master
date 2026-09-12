@@ -1,0 +1,30 @@
+id: src-stf-pet15563-decisao-03-03-2026-medidas-assecuratorias
+kind: source
+title: Decisão de André Mendonça na PET 15.563 que bloqueia bens de alvos da Compliance Zero
+publisher: Supremo Tribunal Federal
+author: Ministro André Mendonça
+publication_date: '2026-03-03'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7515626
+source_type: official_court
+summary: 'Acolhe representação da Polícia Federal e decreta bloqueio de contas e indisponibilidade de ativos
+  financeiros, créditos, valores mobiliários, imóveis, veículos, embarcações, aeronaves e criptoativos das
+  pessoas e empresas listadas na tabela da fl. 169 da representação, nos limites individuais ali fixados,
+  descrevendo o papel atribuído a Luiz Phillipi Mourão, Marilson Roseno da Silva, Paulo Sérgio Neves de Souza,
+  Belline Santana, Leonardo Augusto Furtado Palhares, Ana Cláudia Queiroz de Paiva e à Varajo Consultoria
+  Empresarial. Indefere pedido de dilação de prazo da PGR, protocolado depois de
+  esgotadas as 24 horas de vista, e manda oficiar Banco Central, CVM, SUSEP, ANAC e corretoras de criptoativos.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
+  certificado ou credencial do agente). Decisão de 21 páginas. Os valores individualizados estão na fl. 169 da
+  representação policial, que não integra a peça lida; endereços e contatos das corretoras citados no dispositivo
+  não são reproduzidos no acervo.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
