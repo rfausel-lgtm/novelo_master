@@ -1,0 +1,28 @@
+id: rel-daniel-vorcaro-os-meninos-allegation
+kind: relationship
+from_id: daniel-vorcaro
+to_id: os-meninos
+relationship_type: investigative_allegation
+directed: true
+label: demandante e beneficiário do braço tecnológico, segundo a PF
+description: Segundo as decisões de 13/05/2026, as ações do núcleo hacker — derrubada de perfis, invasões e monitoramento
+  telemático ilícito — eram executadas a mando de Daniel Vorcaro, sob gerência de Luiz Phillipi Mourão, em favor
+  da reputação e dos interesses dele.
+evidence_class: A
+confidence: 0.6
+status: unverified
+start_date: '2026-05-13'
+evidence_ids:
+- ev-hierarquia-os-meninos-david-lidera-victor-e-rodrigo
+- ev-estrutura-pagamento-mensal-1-milhao-turma-e-meninos
+document_ids:
+- doc-2026-05-13-decisao-pet16019-medidas-assecuratorias
+- doc-2026-05-13-decisao-pet15978-sexta-fase-os-meninos
+source_ids:
+- src-stf-pet16019-decisao-13-05-2026-medidas-assecuratorias
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

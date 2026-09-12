@@ -1,0 +1,28 @@
+id: rel-sebastiao-monteiro-junior-a-turma-professional
+kind: relationship
+from_id: sebastiao-monteiro-junior
+to_id: a-turma
+relationship_type: professional
+directed: true
+label: integrante apontado pela PF
+description: A representação da PF de maio de 2026 imputa a Sebastião Monteiro Júnior, agente aposentado da PF,
+  a condição de integrante de 'A Turma', com base em encontros reservados e comunicação clandestina com Marilson
+  Roseno da Silva nas vésperas da 3ª fase da operação.
+evidence_class: D
+confidence: 0.75
+status: unverified
+start_date: '2026-05-13'
+evidence_ids:
+- ev-tipificacao-penal-turma-os-meninos-casal-pf
+- ev-pet16019-bloqueio-patrimonial-turma-e-meninos
+document_ids:
+- doc-2026-05-representacao-pf-pet15978-sexta-fase
+- doc-2026-05-13-decisao-pet16019-medidas-assecuratorias
+source_ids:
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+- src-stf-pet16019-decisao-13-05-2026-medidas-assecuratorias
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

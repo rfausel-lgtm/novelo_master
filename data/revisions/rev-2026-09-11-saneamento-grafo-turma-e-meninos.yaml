@@ -1,0 +1,54 @@
+id: rev-2026-09-11-saneamento-grafo-turma-e-meninos
+kind: revision
+date: '2026-09-11'
+title: 'Saneamento: os dois núcleos criminais religados ao grafo'
+summary: 'Manutenção de integridade do acervo, não apuração nova. Uma auditoria do grafo apontou que 131
+  das 381 entidades publicadas não tinham nenhuma conexão registrada — e que o conjunto mais desconectado
+  era justamente o mais bem documentado: os núcleos "A Turma" e "Os Meninos". David Henrique Alves, Victor
+  Lima Sedlmaier, Rodrigo Pimenta Franco Avelar Campos, Manoel Mendes Rodrigues, Sebastião Monteiro Júnior,
+  Erlene Nonato Lacerda, Helder Alves de Lima, Katherine Venâncio Telles e a BIPE Software Brasil tinham
+  página publicada e zero ligação: a hierarquia que as decisões do STF descrevem existia na prosa das
+  páginas, mas não como estrutura navegável. Esta revisão cria "A Turma" como entidade — citada em todo o
+  acervo desde o início, mas até agora sem registro próprio —, formaliza como evidência a cadeia de comando
+  de "Os Meninos" e o vínculo de remuneração de David Henrique Alves via BIPE, e publica 20 relações que
+  religam os dois núcleos. Nenhum fato novo entra no acervo: o que muda é que fatos já publicados passam a
+  ser percorríveis. As imputações de comando contra Daniel Vorcaro entram como alegação atribuída, com a
+  negativa expressa da defesa registrada na entidade e nas relações.'
+added:
+  people: 0
+  organizations: 1
+  events: 0
+  documents: 0
+  relationships: 20
+  sources: 0
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'Correção estrutural: dez entidades que estavam publicadas sem nenhuma conexão no grafo passam a ter as
+  relações que os documentos já sustentavam — David Henrique Alves, Victor Lima Sedlmaier, Rodrigo Pimenta
+  Franco Avelar Campos, Manoel Mendes Rodrigues, Sebastião Monteiro Júnior, Erlene Nonato Lacerda, Helder
+  Alves de Lima, Katherine Venâncio Telles, BIPE Software Brasil e a organização Os Meninos.'
+- 'Lacuna de registro: o núcleo "A Turma" era citado em dezenas de registros do acervo sem existir como
+  entidade própria, enquanto seu núcleo irmão "Os Meninos" já existia. A assimetria foi corrigida.'
+- 'Ligação ausente: Daniel Vorcaro e Marilson Roseno da Silva coocorriam em oito documentos oficiais sem
+  que houvesse relação registrada entre eles. A relação foi criada como alegação atribuída à PF.'
+author: orquestrador
+affected_ids:
+- a-turma
+- os-meninos
+- daniel-vorcaro
+- luiz-phillipi-mourao
+- marilson-roseno-da-silva
+- david-henrique-alves
+- victor-lima-sedlmaier
+- rodrigo-pimenta-franco-avelar-campos
+- manoel-mendes-rodrigues
+- sebastiao-monteiro-junior
+- anderson-wander-da-silva-lima
+- erlene-nonato-lacerda
+- helder-alves-de-lima
+- katherine-venancio-telles
+- bipe-software-brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

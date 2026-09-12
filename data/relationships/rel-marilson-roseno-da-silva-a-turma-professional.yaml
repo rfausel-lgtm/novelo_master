@@ -1,0 +1,24 @@
+id: rel-marilson-roseno-da-silva-a-turma-professional
+kind: relationship
+from_id: marilson-roseno-da-silva
+to_id: a-turma
+relationship_type: professional
+directed: true
+label: líder de campo do núcleo
+description: Segundo a representação da PF, Marilson Roseno da Silva era o líder operacional em campo de 'A Turma',
+  posição que esclarece a divergência de enquadramento entre imprensa e decisão do STF já registrada no acervo.
+evidence_class: D
+confidence: 0.85
+status: unverified
+start_date: '2026-05-13'
+evidence_ids:
+- ev-turma-e-comandada-por-mourao-com-marilson-roseno-como-lider-de-campo
+document_ids:
+- doc-2026-02-27-representacao-pf-pet15556-edoc1
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

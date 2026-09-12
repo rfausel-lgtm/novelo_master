@@ -1,0 +1,24 @@
+id: rel-luiz-phillipi-mourao-david-henrique-alves-financial
+kind: relationship
+from_id: luiz-phillipi-mourao
+to_id: david-henrique-alves
+relationship_type: financial
+directed: true
+label: remunerava em cerca de R$ 35 mil por mês
+description: Segundo a decisão de 13/05/2026 na PET 16.019, Mourão remunerava David Henrique Alves em cerca de R$
+  35 mil mensais, com os recursos ingressando por meio da BIPE Software Brasil.
+evidence_class: D
+confidence: 0.8
+status: unverified
+start_date: '2026-05-13'
+evidence_ids:
+- ev-david-remunerado-por-mourao-via-bipe
+document_ids:
+- doc-2026-05-13-decisao-pet16019-medidas-assecuratorias
+source_ids:
+- src-stf-pet16019-decisao-13-05-2026-medidas-assecuratorias
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

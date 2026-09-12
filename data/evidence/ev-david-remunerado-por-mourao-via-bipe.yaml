@@ -1,0 +1,19 @@
+id: ev-david-remunerado-por-mourao-via-bipe
+kind: evidence
+classification: D
+proposition: Segundo a decisão de 13/05/2026 na PET 16.019, David Henrique Alves era remunerado mensalmente por
+  Luiz Phillipi Mourão em cerca de R$ 35.000,00, com os recursos ingressando por meio da empresa BIPE Software Brasil
+  Ltda., da qual ele seria proprietário exclusivo e sócio-administrador — arranjo que, segundo a Polícia Federal,
+  conferia aparência empresarial formal ao financiamento do braço cibernético da organização.
+document_ids:
+- doc-2026-05-13-decisao-pet16019-medidas-assecuratorias
+source_ids:
+- src-stf-pet16019-decisao-13-05-2026-medidas-assecuratorias
+date: '2026-05-13'
+notes: 'Complementa a estrutura já registrada de repasse mensal de R$ 1 milhão de Vorcaro a Mourão: mostra o elo
+  seguinte da cadeia, de Mourão ao líder do núcleo tecnológico, e a pessoa jurídica usada como veículo.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

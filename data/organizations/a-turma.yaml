@@ -1,0 +1,39 @@
+id: a-turma
+kind: organization
+name: A Turma
+org_type: association
+summary: Núcleo operacional de intimidação presencial da organização criminosa investigada na Operação Compliance
+  Zero, paralelo a 'Os Meninos' (braço tecnológico). Segundo a representação da PF e as decisões de 13/05/2026,
+  era controlado por Daniel Vorcaro e gerenciado por Luiz Phillipi Mourão, tendo Marilson Roseno da Silva como líder
+  de campo e, entre os integrantes identificados, Sebastião Monteiro Júnior, Anderson Wander da Silva Lima e Manoel
+  Mendes Rodrigues — este último à frente de um braço local no Rio de Janeiro. Recebia R$ 400 mil por mês dentro
+  do repasse mensal de R$ 1 milhão feito por Vorcaro a Mourão. Registre-se que a defesa de Vorcaro nega peremptoriamente
+  que o grupo exista.
+why_in_novelo: É o braço presencial da organização — o que executa ameaças, monitoramentos e constrangimentos físicos
+  contra desafetos —, citado em todo o acervo como núcleo irmão de 'Os Meninos', mas que até aqui não existia como
+  entidade própria.
+cited_position:
+- kind: denial
+  summary: A defesa de Daniel Vorcaro nega peremptoriamente a existência do grupo, afirmando que ele 'desconhece
+    por completo a existência de algum grupo de WhatsApp ou de qualquer outra plataforma/aplicativo eletrônico de
+    mensagens com a denominação A Turma'.
+  by_id: daniel-vorcaro
+  date: '2026-03-09'
+  source_ids:
+  - src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
+source_ids:
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+- src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
+open_questions:
+- Não há denúncia oferecida nem decisão de mérito que reconheça a existência do grupo — o que há são imputações
+  da autoridade policial acolhidas em cognição sumária para fins cautelares, e a negativa expressa da defesa de
+  Daniel Vorcaro.
+- 'A composição completa do núcleo não está fechada: a própria representação registra que haveria outros integrantes
+  ainda não identificados.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

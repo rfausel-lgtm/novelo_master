@@ -1,0 +1,21 @@
+id: ev-hierarquia-os-meninos-david-lidera-victor-e-rodrigo
+kind: evidence
+classification: D
+proposition: 'A decisão de 13/05/2026 na PET 16.019 descreve a cadeia de comando do núcleo ''Os Meninos'': as demandas
+  partiam de Daniel Vorcaro, eram operacionalizadas por Luiz Phillipi Mourão e chegavam a David Henrique Alves,
+  apontado como líder do grupo, que se valia de Victor Lima Sedlmaier e Rodrigo Pimenta Franco Avelar Campos para
+  a execução das tarefas. Em depoimento, Victor declarou prestar serviços a David desde julho de 2024 por R$ 2 mil
+  mensais mais bônus, e afirmou já ter pedido a Rodrigo a realização de ''alguns trabalhos para David'', entre eles
+  pagar boletos e adquirir domínios na internet.'
+document_ids:
+- doc-2026-05-13-decisao-pet16019-medidas-assecuratorias
+source_ids:
+- src-stf-pet16019-decisao-13-05-2026-medidas-assecuratorias
+date: '2026-05-13'
+notes: A hierarquia estava descrita na prosa das páginas de pessoa, mas não existia como evidência própria nem como
+  relação no grafo. É imputação da autoridade policial acolhida em cognição sumária, não fato julgado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
