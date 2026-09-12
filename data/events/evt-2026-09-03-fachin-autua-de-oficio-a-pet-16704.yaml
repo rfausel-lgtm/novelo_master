@@ -12,25 +12,38 @@ participant_ids:
 - andrei-rodrigues
 - policia-federal
 - supremo-tribunal-federal
-description: 'Dois dias após o levantamento do sigilo da PET 16.662, o presidente do STF abriu de ofício
-  novo procedimento com fundamento no dever de velar pelas prerrogativas do Tribunal. O objeto desloca
-  o eixo da controvérsia: além do cumprimento da Lei Orgânica da Magistratura em relação a autoridades
-  com foro, apura eventuais indícios de uso de credenciais de acesso institucional para avaliar documento
-  estritamente particular e de revelação de informação sob sigilo judicial a pessoa investigada, as circunstâncias
-  do despacho que determinou a identificação das pessoas mencionadas e as medidas de controle externo
-  da atividade policial. Prazo comum de cinco dias úteis.'
+description: 'Dois dias após o levantamento do sigilo da PET 16.662, o presidente do STF abriu de ofício novo procedimento
+  com fundamento no dever de velar pelas prerrogativas do Tribunal. O objeto desloca o eixo da controvérsia: além
+  do cumprimento da Lei Orgânica da Magistratura em relação a autoridades com foro, apura eventuais indícios de
+  uso de credenciais de acesso institucional para avaliar documento estritamente particular e de revelação de informação
+  sob sigilo judicial a pessoa investigada, as circunstâncias do despacho que determinou a identificação das pessoas
+  mencionadas e as medidas de controle externo da atividade policial. Prazo comum de cinco dias úteis. O prazo comum
+  de cinco dias úteis vence por volta de 10/09/2026. Fachin também adiou para a segunda quinzena de setembro a sessão
+  plenária sobre o tema.'
 evidence_class: D
 status: verified
 evidence_ids:
 - ev-fachin-apura-tambem-a-conduta-da-policia-federal
+- ev-inventario-de-procedimentos-contra-andrei
+- ev-fachin-procedimento-cinco-dias-uteis-2026-09-03
 source_ids:
 - src-stf-despacho-fachin-2026-09-03-pet-16704
+- src-migalhas-2026-09-03-fachin-cinco-dias-pet-16704
+- src-brasilemfolhas-2026-09-03-fachin-determina-manifestacao
+- src-gazetabrasil-2026-09-03-fachin-cobra-explicacoes
 document_ids:
 - doc-2026-09-03-despacho-fachin-pet-16704
 public_act_ids: []
 location: Brasília (DF)
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-04'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-04'
-updated_at: '2026-09-04'
+updated_at: '2026-09-12'
+cited_position:
+- kind: not_located
+  summary: Nenhum dos quatro citados (Moraes, Mendonça, Gonet, Andrei Rodrigues) se manifestou publicamente sobre
+    a determinação até a data desta atualização.
+  source_ids:
+  - src-gazetabrasil-2026-09-03-fachin-cobra-explicacoes
+  date: '2026-09-03'

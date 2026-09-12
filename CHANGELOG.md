@@ -2,6 +2,23 @@
 
 ## Unreleased
 
+- **Retratação** de `seq-dark-horse-cobranca-2025-09-08-e-transferencia-2025-09-16`. A sequência
+  afirmava, no título e na descrição, um intervalo de oito dias entre o áudio em que Flávio Bolsonaro
+  cobra parcelas do filme e a transferência de US$ 1,6 milhão ao Havengate — e a proximidade era todo
+  o seu fundamento. A datação do áudio, porém, não está estabelecida: a CartaCapital o situa em
+  08/09/2025, o Metrópoles registra áudio de teor semelhante em 16/11/2025 e a Gazeta fala em outubro
+  e novembro; o evento de origem está registrado com precisão aproximada. Se a datação do Metrópoles
+  estiver certa, o áudio é posterior à transferência e a ordem cronológica se inverte junto com o
+  sentido sugerido. A própria sequência já registrava a divergência em `limits`, mas seguia afirmando
+  a data no título. Sai do ar até que a data seja fixada.
+- Auditoria da aba de coincidências temporais: o intervalo em dias passa a ser exibido com "≈" e a
+  ressalva "(data aproximada)" quando qualquer das duas pontas não tem precisão de dia. O cálculo
+  assume o dia 1º nesses casos, o que era irrelevante num intervalo de 644 dias e decisivo num de 15.
+- Consolidação de registros duplicados do despacho de Fachin de 03/09/2026: o mesmo ato constava de
+  três eventos, criados conforme as fontes chegavam. Fica o registro canônico, de classe D e ancorado
+  no despacho oficial do STF, com as evidências e fontes dos outros dois. O pedido de Mendonça pelo
+  afastamento cautelar de Moraes, que estava pendurado num deles, ganhou evento próprio — é ação
+  distinta, como o próprio texto do registro antigo reconhecia.
 - Workflow `arte-de-lote.yml`: a arte gerada pela automação do Codex passa a chegar sozinha à `main`.
   A automação gera e valida em minutos, mas o `gh` dela responde 401 — autentica pelo keyring do
   Windows, inacessível no ambiente isolado —, então o PR nunca era aberto e a arte ficava parada em

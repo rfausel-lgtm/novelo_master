@@ -17,6 +17,14 @@ export const metadata: Metadata = pageMetadata({
 const PROX: Record<string, string> = { high: "alta", medium: "média", low: "baixa" };
 const LINK: Record<string, string> = { present: "existente", absent: "ausente", partial: "parcial" };
 
+/**
+ * O intervalo em dias assume o dia 1º quando a data não tem precisão de dia, então
+ * o número vira presunção: só é exibido como exato quando as duas pontas têm dia.
+ */
+type Step = { date: string; precision?: string } | null;
+const isApprox = (a: Step, b: Step) =>
+  [a, b].some((s) => !s || s.date.length < 10 || (s.precision && s.precision !== "day"));
+
 export default function CoincidenciasPage() {
   const seqs = allSequences();
   return (
@@ -29,9 +37,9 @@ export default function CoincidenciasPage() {
           {seqs.map((s) => {
             const steps = s.step_ids.map((id) => {
               const e = getEvent(id);
-              if (e) return { id, title: e.title, date: e.date, href: `/eventos/${id}`, cls: e.evidence_class, kind: "Evento" };
+              if (e) return { id, title: e.title, date: e.date, precision: e.date_precision, href: `/eventos/${id}`, cls: e.evidence_class, kind: "Evento" };
               const a = getPublicAct(id);
-              if (a) return { id, title: a.title, date: a.date, href: `/atos/${id}`, cls: a.evidence_class, kind: "Ato público" };
+              if (a) return { id, title: a.title, date: a.date, precision: a.date_precision, href: `/atos/${id}`, cls: a.evidence_class, kind: "Ato público" };
               return null;
             });
             return (
@@ -42,7 +50,14 @@ export default function CoincidenciasPage() {
                     <li key={st?.id ?? i}>
                       {i > 0 && st && steps[i - 1] && (
                         <div className="text-fg-3 ml-3 flex items-center gap-2 py-1 text-xs">
-                          <span aria-hidden="true">↓</span> intervalo: {daysBetween(steps[i - 1]!.date, st.date)} dias
+                          <span aria-hidden="true">↓</span> intervalo: {isApprox(steps[i - 1]!, st) ? "≈ " : ""}
+                          {daysBetween(steps[i - 1]!.date, st.date)}
+                          {daysBetween(steps[i - 1]!.date, st.date) === 1 ? " dia" : " dias"}
+                          {isApprox(steps[i - 1]!, st) && (
+                            <span className="text-fg-3" title="Uma das datas não tem precisão de dia; o intervalo é calculado a partir do primeiro dia do período informado.">
+                              (data aproximada)
+                            </span>
+                          )}
                         </div>
                       )}
                       {st ? (

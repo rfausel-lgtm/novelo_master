@@ -1,0 +1,61 @@
+id: rev-2026-09-12-auditoria-coincidencias-temporais
+kind: revision
+date: '2026-09-12'
+title: 'Auditoria da aba de coincidências temporais: uma sequência retratada e um despacho que constava três vezes'
+summary: 'Auditoria das nove sequências publicadas em /coincidencias, nos três eixos que a própria página
+  promete separar — proximidade temporal, nexo documental e causalidade. A disciplina de fundo está
+  intacta: causalidade comprovada é "não" em todas as nove, inclusive nas quatro em que o nexo documental
+  existe, e todas trazem limites substantivos. Os problemas estavam na precisão. A sequência que ligava o
+  áudio de cobrança de Flávio Bolsonaro à transferência de US$ 1,6 milhão ao Havengate foi retratada: ela
+  afirmava no título um intervalo de oito dias, mas a data do áudio não está estabelecida — três veículos
+  dão datações diferentes, e pela do Metrópoles o áudio seria posterior à transferência, invertendo a
+  ordem cronológica e o sentido sugerido. A sequência já registrava a divergência nos próprios limites,
+  mas seguia afirmando a data no título. Sai do ar até que a data se resolva. A página também passa a
+  marcar com "≈" e a ressalva "(data aproximada)" os intervalos calculados a partir de datas sem precisão
+  de dia — seis das nove sequências têm ao menos um passo nessa condição. Por fim, o despacho de Fachin de
+  03/09/2026 constava do acervo três vezes, registrado conforme as fontes chegavam: fica o registro
+  canônico, de classe D e ancorado no despacho oficial do STF, e o pedido de Mendonça pelo afastamento de
+  Moraes, que estava pendurado num dos duplicados, ganha evento próprio.'
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'RETRATAÇÃO: seq-dark-horse-cobranca-2025-09-08-e-transferencia-2025-09-16 sai do ar. O título e a
+  descrição afirmavam um intervalo de oito dias entre o áudio de cobrança e a transferência ao Havengate,
+  mas a datação do áudio diverge entre CartaCapital (08/09/2025), Metrópoles (16/11/2025) e Gazeta
+  (outubro e novembro), e o evento de origem tem precisão aproximada. Pela datação do Metrópoles, o áudio
+  é posterior à transferência e a sequência inverte de sentido. Como a proximidade temporal era todo o
+  fundamento da sequência, ela não se sustenta enquanto a data não for fixada.'
+- 'Correção de exibição: o intervalo em dias entre passos de uma sequência era apresentado como número
+  exato mesmo quando uma das datas não tinha precisão de dia — nesses casos o cálculo assume o dia 1º do
+  período. Passa a ser exibido com "≈" e a ressalva "(data aproximada)". Afeta seis das nove sequências.'
+- 'Correção de título: a sequência sobre a Lei nº 14.431/2022 anunciava "o modelo de negócio do Banco
+  Master", mas seu segundo passo é a Emenda nº 11 à PEC 65/2023, que trata da cobertura do FGC. O título
+  passa a nomear o que os passos de fato contêm.'
+- 'Consolidação de duplicatas: o despacho de Fachin de 03/09/2026, que abriu a PET 16.704 com prazo comum
+  de cinco dias úteis, constava de três eventos distintos — registrados conforme a notícia chegava, primeiro
+  pela imprensa e depois pelo despacho oficial. Permanece o registro canônico (classe D, ancorado no
+  despacho do STF), que recebeu as evidências e fontes dos outros dois; os duplicados foram retratados.'
+- 'Separação de fatos distintos: um dos registros duplicados carregava também o pedido verbal de André
+  Mendonça a Fachin pelo afastamento cautelar de Alexandre de Moraes — ação distinta, como o próprio texto
+  daquele registro reconhecia. O pedido passa a ter evento próprio, com as duas fontes e a evidência que
+  lhe pertenciam.'
+author: orquestrador
+affected_ids:
+- edson-fachin
+- andre-mendonca
+- alexandre-de-moraes
+- paulo-gonet
+- andrei-rodrigues
+- flavio-bolsonaro
+- daniel-vorcaro
+- havengate-development-fund
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

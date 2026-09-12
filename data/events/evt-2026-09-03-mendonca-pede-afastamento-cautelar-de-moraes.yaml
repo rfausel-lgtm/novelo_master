@@ -1,0 +1,28 @@
+id: evt-2026-09-03-mendonca-pede-afastamento-cautelar-de-moraes
+kind: event
+title: Mendonça pede a Fachin o afastamento cautelar de Moraes
+event_type: statement
+date: '2026-09-03'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- edson-fachin
+- alexandre-de-moraes
+description: Na noite de 03/09/2026, segundo relato do Jornal de Brasília e do Midiamax, André Mendonça pediu verbalmente
+  a Edson Fachin o afastamento cautelar imediato de Alexandre de Moraes, com petição formal em preparação. É ação
+  distinta do procedimento de cinco dias úteis aberto por Fachin no mesmo dia, com o qual o acervo chegou a registrá-la
+  em conjunto. Não há registro público de decisão de Fachin sobre esse pedido específico.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-mendonca-pede-afastamento-cautelar-moraes-2026-09-03
+source_ids:
+- src-jbrasilia-2026-09-03-mendonca-pede-afastamento-moraes
+- src-midiamax-2026-09-03-mendonca-pede-afastamento-moraes
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

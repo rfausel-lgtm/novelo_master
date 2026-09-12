@@ -1,7 +1,6 @@
 id: evt-2026-09-03-fachin-abre-procedimento-cinco-dias
 kind: event
-title: Fachin abre procedimento e dá cinco dias úteis para Moraes, Mendonça, Gonet e Andrei Rodrigues
-  se explicarem
+title: Fachin abre procedimento e dá cinco dias úteis para Moraes, Mendonça, Gonet e Andrei Rodrigues se explicarem
 event_type: regulatory_act
 date: '2026-09-03'
 date_precision: day
@@ -12,15 +11,11 @@ participant_ids:
 - paulo-gonet
 - andrei-rodrigues
 - supremo-tribunal-federal
-description: Em resposta à crise aberta pela divulgação do relatório da PF (01/09), ao pedido de anulação
-  de Gonet (01/09) e à decisão de Moraes contra Mendonça (mesmo dia), o presidente do STF abriu procedimento
-  formal exigindo explicações por escrito, em até cinco dias úteis, de Alexandre de Moraes, André Mendonça,
-  Paulo Gonet e do diretor-geral da PF, Andrei Rodrigues — inclusive sobre observância do art. 33 da LOMAN
-  e eventual uso indevido de credenciais institucionais para acesso a material privado. Adiou para a segunda
-  quinzena de setembro a sessão plenária sobre o tema. Nenhum dos citados se manifestou publicamente sobre
-  a determinação até a data desta atualização. Na noite do mesmo dia, Mendonça pediu verbalmente a Fachin
-  o afastamento cautelar imediato de Moraes, com petição formal em preparação — ação distinta do procedimento
-  de cinco dias úteis. Não há registro público de decisão de Fachin sobre esse pedido específico.
+description: 'RETRATADO em 12/09/2026: registro misto e duplicado. Este evento juntava dois fatos distintos do mesmo
+  dia — a abertura do procedimento de cinco dias úteis por Fachin, que já constava do evt-2026-09-03-fachin-autua-de-oficio-a-pet-16704
+  (registro canônico, classe D, ancorado no despacho oficial), e o pedido verbal de Mendonça pelo afastamento cautelar
+  de Moraes, que passou a ter evento próprio em evt-2026-09-03-mendonca-pede-afastamento-cautelar-de-moraes. Evidências
+  e fontes foram redistribuídas entre os dois registros corretos.'
 evidence_class: C
 status: verified
 evidence_ids:
@@ -35,13 +30,13 @@ document_ids: []
 public_act_ids: []
 cited_position:
 - kind: not_located
-  summary: Nenhum dos quatro citados (Moraes, Mendonça, Gonet, Andrei Rodrigues) se manifestou publicamente
-    sobre a determinação até a data desta atualização.
+  summary: Nenhum dos quatro citados (Moraes, Mendonça, Gonet, Andrei Rodrigues) se manifestou publicamente sobre
+    a determinação até a data desta atualização.
   source_ids:
   - src-gazetabrasil-2026-09-03-fachin-cobra-explicacoes
   date: '2026-09-03'
-review_status: published
+review_status: retracted
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-12'
