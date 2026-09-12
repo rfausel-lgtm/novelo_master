@@ -1,0 +1,23 @@
+id: rel-ticiano-figueiredo-de-oliveira-figueiredo-velloso-advogados-corporate
+kind: relationship
+from_id: ticiano-figueiredo-de-oliveira
+to_id: figueiredo-velloso-advogados
+relationship_type: corporate
+directed: true
+label: sócio-administrador desde 06/05/2010
+description: Ticiano Figueiredo de Oliveira é sócio-administrador da Figueiredo & Velloso Advogados Associados desde
+  06/05/2010.
+evidence_class: C
+confidence: 0.85
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-minhareceita-2026-09-figueiredo-velloso-cnpj
+- src-chambers-2026-figueiredo-e-velloso-advogados-profile
+start_date: '2010-05-06'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

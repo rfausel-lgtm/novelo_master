@@ -1,0 +1,24 @@
+id: rel-renata-varandas-figueiredo-velloso-advogados-corporate
+kind: relationship
+from_id: renata-varandas
+to_id: figueiredo-velloso-advogados
+relationship_type: corporate
+directed: true
+label: sócia de comunicação e relações governamentais desde janeiro de 2025
+description: A jornalista Renata Varandas é, desde janeiro de 2025, sócia da área de comunicação e relações governamentais
+  da Figueiredo & Velloso Advogados.
+evidence_class: C
+confidence: 0.85
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-migalhas-2025-01-31-renata-varandas-nova-socia-fv
+- src-poder360-2025-01-31-renata-varandas-vira-lobista
+- src-minhareceita-2026-09-figueiredo-velloso-cnpj
+start_date: 2025-01
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

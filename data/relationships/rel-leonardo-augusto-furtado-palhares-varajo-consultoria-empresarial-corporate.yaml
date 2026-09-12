@@ -1,0 +1,26 @@
+id: rel-leonardo-augusto-furtado-palhares-varajo-consultoria-empresarial-corporate
+kind: relationship
+from_id: leonardo-augusto-furtado-palhares
+to_id: varajo-consultoria-empresarial
+relationship_type: corporate
+directed: true
+label: sócio único e administrador
+description: Leonardo Augusto Furtado Palhares é sócio único e administrador da Varajo Consultoria Empresarial Sociedade
+  Unipessoal Ltda (CNPJ 39.665.366/0001-15), aberta em 04/11/2020 — a empresa apontada na decisão da PET 15.556
+  como veículo do contrato simulado usado para remunerar servidores do Banco Central.
+evidence_class: D
+confidence: 0.9
+status: verified
+evidence_ids:
+- ev-decisao-stf-palhares-cautelares-conta-de-passagem
+document_ids:
+- doc-2026-03-04-decisao-pet-15556-prisao-preventiva
+source_ids:
+- src-brasilapi-2026-varajo-consultoria-cnpj
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+start_date: '2020-11-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

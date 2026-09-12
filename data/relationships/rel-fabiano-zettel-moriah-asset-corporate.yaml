@@ -1,0 +1,23 @@
+id: rel-fabiano-zettel-moriah-asset-corporate
+kind: relationship
+from_id: fabiano-zettel
+to_id: moriah-asset
+relationship_type: corporate
+directed: true
+label: criador e administrador da gestora
+description: A Moriah Asset, gestora de private equity de saúde e bem-estar com cerca de 27 empresas em portfólio,
+  foi criada por Fabiano Zettel, cunhado de Daniel Vorcaro, e o tem registrado como administrador. O CNPJ tem início
+  de atividade em 12/03/1998, anterior à fundação atribuída pela imprensa.
+evidence_class: C
+confidence: 0.8
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-neofeed-2026-zettel-braco-direito-vorcaro-moriah-asset
+- src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

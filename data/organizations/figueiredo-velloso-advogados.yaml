@@ -1,0 +1,26 @@
+id: figueiredo-velloso-advogados
+kind: organization
+name: Figueiredo & Velloso Advogados
+full_name: Figueiredo & Velloso Advogados Associados
+org_type: law_firm
+cnpj: 11.428.814/0001-48
+jurisdiction: Brasil
+summary: Banca criminalista de Brasília, fundada por Ticiano Figueiredo de Oliveira (sócio-administrador desde 06/05/2010)
+  e Pedro Ivo Velloso (desde 24/06/2015). Desde janeiro de 2025, tem como sócia da área de comunicação e relações
+  governamentais a jornalista Renata Varandas, namorada pública do diretor-geral afastado da Polícia Federal, Andrei
+  Rodrigues — vínculo que colocou o escritório no perímetro do caso.
+why_in_novelo: 'É o ponto em que três registros do acervo se encontram: os dois sócios criminalistas e a sócia de
+  comunicação que mantém relação pessoal com o diretor-geral da PF afastado por decisão do STF.'
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação do escritório como instituição foi localizada pelo corpus.
+source_ids:
+- src-gazetadoparana-2026-06-25-namorada-andrei-contrato-ambipar
+open_questions:
+- O corpus não estabelece que o escritório tenha atuado em qualquer processo do caso Banco Master — o vínculo registrado
+  é societário e pessoal, não processual.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

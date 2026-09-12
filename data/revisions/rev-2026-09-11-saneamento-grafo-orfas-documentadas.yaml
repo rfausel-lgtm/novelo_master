@@ -1,0 +1,82 @@
+id: rev-2026-09-11-saneamento-grafo-orfas-documentadas
+kind: revision
+date: '2026-09-11'
+title: 'Saneamento: as órfãs com lastro documental voltam ao grafo'
+summary: 'Segunda etapa da manutenção de integridade aberta pela auditoria do grafo — não é apuração nova. Vinte
+  e quatro relações religam entidades que estavam publicadas sem nenhuma conexão, embora os documentos já sustentassem
+  o vínculo: o caso Gafisa/Upcon (Nelson Tanure, Gilberto Benevides), a estrutura de Leonardo Augusto Furtado Palhares
+  (Varajo Consultoria, Super Empreendimentos, e o contrato que remunerou Belline Santana), a empresa ''Inspiração''
+  criada pelo próprio servidor do Banco Central, a administração da PKL One por Andrea Lima Novaes, a ação coletiva
+  da Feserp-MS contra o CredCesta, os dois fundos que receberam cessões do escritório de Ibaneis Rocha, a Kovr Seguradora
+  dentro e fora do conglomerado Master, a Moriah Asset de Fabiano Zettel, e o Rioprevidência sob Deivis Marcon Antunes.
+  Entra também a banca Figueiredo & Velloso como entidade, para dar lugar próprio ao nexo entre seus dois sócios
+  criminalistas e a sócia de comunicação que namora o diretor-geral afastado da PF. Nenhum fato novo é acrescentado:
+  o que muda é que fatos já publicados passam a ser percorríveis no grafo.'
+added:
+  people: 0
+  organizations: 1
+  events: 0
+  documents: 0
+  relationships: 24
+  sources: 0
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'Correção estrutural: vinte entidades que estavam publicadas sem nenhuma conexão no grafo passam a ter as relações
+  que os documentos já sustentavam, entre elas Gafisa, Upcon, Gilberto Benevides, Leonardo Augusto Furtado Palhares,
+  Inspiração, Câmara e.Net, Andrea Lima Novaes, Feserp-MS, Fundo Laguz I, Pedra Azul FIDC, Kovr Seguradora, Moriah
+  Asset, Câmara Municipal de Imperatriz, Daniel de Faria Jerônimo Leite, Deivis Marcon Antunes, Aletéa Vega Marona
+  Kunde, Renata Varandas, Pedro Ivo Velloso e Ticiano Figueiredo de Oliveira.'
+- 'Cautela preservada: a ligação entre a Câmara e.Net e Leonardo Augusto Furtado Palhares entra como inferência
+  (classe I), não como fato — a identidade entre o dirigente citado no dossiê do Banco Central e o investigado permanece
+  hipótese reforçada, e não confirmada.'
+- 'Cautela preservada: a relação entre Gafisa e Upcon registra expressamente que a ação penal por uso de informação
+  privilegiada é distinta da investigação sobre o Banco Master, conexão rejeitada pelo STF em 27/01/2026.'
+- O juiz federal Ricardo Soares Leite passa a constar como participante do evento da 1ª fase da Operação Compliance
+  Zero, que ele autorizou — em vez de receber uma aresta direta com investigados, que insinuaria vínculo inexistente.
+- 'Ajuste de classificação durante o próprio saneamento: oito relações redigidas inicialmente como classe D foram
+  rebaixadas para C por não terem documento primário ligado — o lastro delas é de duas ou mais fontes independentes,
+  não de peça documental. A regra é do próprio lint do acervo.'
+- A dupla Daniel de Faria Jerônimo Leite / Câmara Municipal de Imperatriz havia ficado como ilha isolada, ligada
+  entre si mas fora do corpo principal do grafo. Foram acrescentadas as relações com o BRB (ação civil, acordo homologado
+  em 31/07/2026) e com Maurício Quadrado (compra de ações do BRB via fundo Verbier), que a trazem para a rede.
+author: orquestrador
+affected_ids:
+- gafisa
+- upcon
+- nelson-tanure
+- gilberto-benevides
+- leonardo-augusto-furtado-palhares
+- varajo-consultoria-empresarial
+- super-empreendimentos-e-participacoes
+- belline-santana
+- inspiracao
+- camara-e-net
+- andrea-lima-novaes
+- pkl-one-participacoes
+- feserp-ms
+- credcesta
+- fundo-laguz-i
+- pedra-azul-fidc
+- ibaneis-rocha
+- banco-master
+- kovr-seguradora
+- moriah-asset
+- fabiano-zettel
+- figueiredo-velloso-advogados
+- ticiano-figueiredo-de-oliveira
+- pedro-ivo-velloso
+- renata-varandas
+- andrei-rodrigues
+- daniel-de-faria-jeronimo-leite
+- camara-municipal-de-imperatriz
+- deivis-marcon-antunes
+- rioprevidencia
+- aletea-vega-marona-kunde
+- policia-federal
+- ricardo-soares-leite
+- banco-de-brasilia-brb
+- mauricio-quadrado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

@@ -1,0 +1,30 @@
+id: ev-identidade-palhares-camara-enet-hipotese-nao-confirmada
+kind: evidence
+classification: I
+proposition: O 'Leonardo Palhares' que, segundo o relato de Belline Santana à Corregedoria-Geral do Banco
+  Central, o abordou em 2023 apresentando-se como ligado à Câmara e.Net é provavelmente — mas não
+  comprovadamente — a mesma pessoa que Leonardo Augusto Furtado Palhares, investigado na Operação Compliance
+  Zero e sócio único da Varajo Consultoria, empresa apontada como veículo do contrato simulado que
+  remunerou o próprio Belline.
+inference_basis: 'Convergem quatro elementos: (i) o dossiê do Banco Central registra o nome ''Leonardo
+  Palhares'' associado à Câmara e.Net, cujo site identifica um homônimo como presidente reeleito; (ii) o
+  investigado assina como ''Leonardo A. F. Palhares'' e atua em direito digital e comércio eletrônico, área
+  compatível com a presidência daquela entidade; (iii) a faixa etária registrada na Receita Federal é
+  compatível; (iv) é o mesmo nome que aparece na ponta contratual que remunerou Belline Santana, o que
+  tornaria coincidência improvável. LIMITE: nenhuma fonte do acervo confirma a identidade. Não há CPF, ato
+  societário da Câmara e.Net nem declaração de qualquer das partes que una as duas figuras. Enquanto isso
+  não existir, o acervo trata como hipótese reforçada, e não como fato — e nenhuma conclusão sobre a
+  conduta do investigado pode ser extraída deste vínculo.'
+document_ids:
+- doc-2026-01-09-dossie-bcb-admissibilidade-belline-paulo-sergio
+source_ids:
+- src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
+date: '2026-01-09'
+notes: Formaliza como inferência, com limites explícitos, uma hipótese que já estava registrada em
+  `open_questions` no perfil de Leonardo Augusto Furtado Palhares desde o lote 180. Não acrescenta apuração
+  nova — dá lastro à aresta correspondente no grafo, que sem isso ficaria sem classe válida.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

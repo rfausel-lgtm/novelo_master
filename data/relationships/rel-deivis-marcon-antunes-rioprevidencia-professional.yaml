@@ -1,0 +1,23 @@
+id: rel-deivis-marcon-antunes-rioprevidencia-professional
+kind: relationship
+from_id: deivis-marcon-antunes
+to_id: rioprevidencia
+relationship_type: professional
+directed: true
+label: ex-presidente, preso na Operação Barco de Papel
+description: Deivis Marcon Antunes presidiu o Rioprevidência e foi preso preventivamente na Operação Barco de Papel,
+  apontado como responsável por direcionar cerca de R$ 1 bilhão em aplicações irregulares e suspeito de tentar obstruir
+  a coleta de provas.
+evidence_class: C
+confidence: 0.8
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-migalhas-2026-01-23-barco-de-papel
+- src-stj-2026-03-19-mantem-prisao-deivis
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

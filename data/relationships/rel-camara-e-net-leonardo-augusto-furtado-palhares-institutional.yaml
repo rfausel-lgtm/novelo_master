@@ -1,0 +1,30 @@
+id: rel-camara-e-net-leonardo-augusto-furtado-palhares-institutional
+kind: relationship
+from_id: camara-e-net
+to_id: leonardo-augusto-furtado-palhares
+relationship_type: institutional
+directed: true
+label: vínculo de identidade apenas provável, não confirmado
+description: O dossiê interno do Banco Central registra que 'Leonardo Palhares' abordou Belline Santana apresentando-se
+  como ligado à Câmara e.Net, cujo site identifica um 'Leonardo Palhares' como presidente reeleito. O acervo trata
+  a identidade entre esse dirigente e Leonardo Augusto Furtado Palhares como hipótese reforçada — perfil compatível
+  em área de atuação, idade e base cadastral — mas não confirmada documentalmente. A aresta registra a hipótese,
+  não o fato.
+evidence_class: I
+confidence: 0.5
+status: unverified
+evidence_ids:
+- ev-identidade-palhares-camara-enet-hipotese-nao-confirmada
+- ev-belline-relato-interno-leonardo-palhares-camara-enet-inspiracao
+document_ids:
+- doc-2026-01-09-dossie-bcb-admissibilidade-belline-paulo-sergio
+source_ids:
+- src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
+inference_basis: Homonímia entre o 'Leonardo Palhares' citado no dossiê do BC como ligado à Câmara e.Net e o investigado
+  Leonardo Augusto Furtado Palhares, somada à compatibilidade de área de atuação (direito digital/comércio eletrônico),
+  faixa etária e dados cadastrais. Nenhuma fonte confirma que sejam a mesma pessoa.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

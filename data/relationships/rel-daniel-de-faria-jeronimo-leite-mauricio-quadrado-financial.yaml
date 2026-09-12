@@ -1,0 +1,26 @@
+id: rel-daniel-de-faria-jeronimo-leite-mauricio-quadrado-financial
+kind: relationship
+from_id: daniel-de-faria-jeronimo-leite
+to_id: mauricio-quadrado
+relationship_type: financial
+directed: true
+label: comprou ações do BRB via fundo administrado por ele
+description: Em abril de 2025, Daniel de Faria Jerônimo Leite tomou empréstimo de R$ 93,7 milhões, usado majoritariamente
+  para comprar ações do BRB via fundos de investimento, entre eles o fundo Verbier, administrado por Maurício Quadrado.
+  A consultoria Kroll, contratada pelo BRB, contestou publicamente ter divulgado relatório que atribua responsabilidade
+  a pessoas.
+evidence_class: C
+confidence: 0.75
+status: unverified
+start_date: 2025-04
+evidence_ids:
+- ev-daniel-leite-emprestimo-93mi-acoes-brb
+document_ids: []
+source_ids:
+- src-metropoles-2026-05-01-toffoli-trava-apuracao-daniel-leite-vorcaro
+- src-blogdodina-2026-05-01-toffoli-suspende-investigacao-daniel-leite
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

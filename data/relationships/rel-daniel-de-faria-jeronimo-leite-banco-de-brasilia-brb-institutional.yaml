@@ -1,0 +1,25 @@
+id: rel-daniel-de-faria-jeronimo-leite-banco-de-brasilia-brb-institutional
+kind: relationship
+from_id: daniel-de-faria-jeronimo-leite
+to_id: banco-de-brasilia-brb
+relationship_type: institutional
+directed: false
+label: réu em ação civil do BRB; acordo homologado em 31/07/2026
+description: O BRB moveu ação civil contra Daniel de Faria Jerônimo Leite, Daniel Vorcaro, o Banco Master e outros,
+  na 7ª Vara da Fazenda Pública do DF, por suposta tentativa coordenada e oculta de assumir o controle acionário
+  do banco público. Acordo entre o BRB e Daniel Leite foi assinado em 15/04/2026 e homologado em 31/07/2026, em
+  termos confidenciais.
+evidence_class: A
+confidence: 0.7
+status: unverified
+start_date: '2026-04-15'
+evidence_ids:
+- ev-acordo-brb-daniel-leite-homologado-confidencial
+document_ids: []
+source_ids:
+- src-metropoles-2026-07-31-acordo-brb-daniel-leite-homologado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

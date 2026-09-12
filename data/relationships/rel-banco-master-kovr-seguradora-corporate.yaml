@@ -1,0 +1,26 @@
+id: rel-banco-master-kovr-seguradora-corporate
+kind: relationship
+from_id: banco-master
+to_id: kovr-seguradora
+relationship_type: corporate
+directed: true
+label: comprou em 2021 e segregou do conglomerado em 2025
+description: O Banco Master comprou a Kovr Seguradora em 2021 e a manteve sob controle final até 2025, quando a
+  segregou do conglomerado — antes das tratativas de venda do Master ao BRB. A seguradora foi então vendida a executivos,
+  em operação apresentada como management buyout, e revendida ao PicPay por R$ 657,6 milhões; o Cade apontou indícios
+  de gun jumping e triangulação financeira nessa revenda.
+evidence_class: D
+confidence: 0.9
+status: verified
+evidence_ids:
+- ev-cade-confirma-triangulacao-financeira-kovr-picpay
+document_ids:
+- doc-2026-05-07-parecer-cade-278-kovr-picpay
+source_ids:
+- src-cade-2026-05-07-parecer-278-kovr-picpay-integra
+start_date: '2021'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

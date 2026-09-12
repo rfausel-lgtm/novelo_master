@@ -1,0 +1,27 @@
+id: rel-andrea-lima-novaes-pkl-one-participacoes-corporate
+kind: relationship
+from_id: andrea-lima-novaes
+to_id: pkl-one-participacoes
+relationship_type: corporate
+directed: true
+label: administrou a empresa de 2018 a julho de 2026
+description: Andrea Lima Novaes administrou a PKL One Participações, operadora do cartão CredCesta, de 2018 até
+  16/07/2026, quando foi substituída por Marcelo Antonio Bullos Cerqueira sem explicação causal localizada pelo
+  corpus. A imprensa a aponta como prima de Augusto Ferreira Lima, sem que nenhuma fonte especifique o grau exato
+  de parentesco.
+evidence_class: D
+confidence: 0.85
+status: verified
+evidence_ids:
+- ev-pkl-one-de-cem-reais-a-trinta-milhoes-pagos-ao-debenturista
+document_ids:
+- doc-2019-06-26-age-pkl-one-pagamento-debentures-30-milhoes
+source_ids:
+- src-minhareceita-2026-09-05-pkl-one-participacoes-cnpj
+- src-doesp-empresarial-2017-2019-atos-societarios-pkl-one
+start_date: '2018'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

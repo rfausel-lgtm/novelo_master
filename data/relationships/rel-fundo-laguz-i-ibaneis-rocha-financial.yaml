@@ -1,0 +1,25 @@
+id: rel-fundo-laguz-i-ibaneis-rocha-financial
+kind: relationship
+from_id: fundo-laguz-i
+to_id: ibaneis-rocha
+relationship_type: financial
+directed: true
+label: recebeu cessão de honorários do escritório dele em 23/12/2021
+description: Segundo a própria defesa de Ibaneis Rocha, o FIDC Laguz I — administrado pela Reag DTVM, a mesma CBSF
+  já registrada no acervo por operações irregulares com o Banco Master — recebeu, em 23/12/2021, a cessão de créditos
+  de honorários advocatícios do escritório Ibaneis Advocacia e Consultoria, tendo como único cotista o Banco Original.
+evidence_class: D
+confidence: 0.8
+status: unverified
+evidence_ids:
+- ev-ibaneis-confirma-cessoes-de-creditos-via-fundo-administrado-pela-reag
+document_ids:
+- doc-2026-04-01-pedido-extensao-ibaneis-edoc216
+source_ids:
+- src-stf-pet15556-edoc216-pedido-extensao-ibaneis-01-04-2026
+start_date: '2021-12-23'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
