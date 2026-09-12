@@ -24,7 +24,16 @@ summary: 'Ex-funcionário do Banco Master até março de 2022, foi sócio-direto
   até pelo menos 2025, e conta corrente no próprio Banco Master desde 2019. Segundo o Poder360, a versão
   pública de Daniel Vorcaro — de que Henrique Peretto teria criado a Tirreno — é falsa; a reportagem atribui
   a criação a Seixas Maia. É investigado formal no INQ 5.026, com busca e apreensão cumprida em sua residência
-  em 18/11/2025 e oitiva agendada para 26/01/2026, adiada a pedido da defesa por falta de acesso aos autos.'
+  em 18/11/2025 e oitiva agendada para 26/01/2026, adiada a pedido da defesa por falta de acesso aos autos.
+  ACHADO NOVO (lote 238) — a decisão de 22/06/2026 na PET 15.478 acrescenta que ele receberia compensação
+  financeira pelo risco de figurar como diretor da Tirreno e que não teria havido pagamento pelos créditos
+  gerados pela empresa, reforçando a tese de simulação; e que recebeu de Henrique Peretto, em 17/04/2025,
+  uma ata de assembleia extraordinária da Tirreno supostamente de 02/12/2024 — dois dias depois de a
+  empresa ter sido formalmente registrada na JUCESP em 15/04/2025, indício, segundo a autoridade policial,
+  de documento fabricado a posteriori. A mesma peça o qualifica também como "diretor e sócio da Cartos" no
+  presente, qualificação que tensiona com o registro já publicado de que ele deixou a Cartos em
+  05/05/2021 — pode ser imprecisão da representação policial ou vínculo residual não documentado; não
+  resolvido pelos documentos disponíveis.'
 why_in_novelo: É a figura central por trás da Tirreno, a empresa de fachada usada para vender ao BRB R$ 12,2
   bilhões em créditos que a Polícia Federal não conseguiu confirmar na origem — com lastro documental primário
   (Banco Central e o próprio IPL), não apenas jornalístico.
@@ -40,6 +49,7 @@ open_questions:
 source_ids:
 - src-poder360-2026-02-04-bc-poupou-cartos
 - src-stf-inq5026-ipl1096304-completo
+- src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'

@@ -1,0 +1,41 @@
+id: rev-2026-09-12-lote-238-peretto-antedatacao-tirreno
+kind: revision
+date: '2026-09-12'
+title: 'Lote 238 — Henrique Peretto, de figura periférica a partícipe direto: a ata antedatada da Tirreno'
+summary: 'A decisão de 22/06/2026 na PET 15.478/DF (Min. André Mendonça), sobre afastamento de sigilo
+  bancário/fiscal no esquema de venda de créditos fabricados do Master ao BRB via Tirreno, muda a
+  caracterização de Henrique Peretto: até aqui ele só aparecia ligado à Cartos, com a atribuição de
+  "criador da Tirreno" feita por Daniel Vorcaro tratada como disputada e provavelmente falsa. A nova peça
+  descreve ciência irrestrita dele sobre os termos espúrios da empresa, presença na assinatura dos
+  contratos no Banco Master e reuniões no BRB ao lado de Augusto Lima e Paulo Henrique Costa — e revela
+  que ele encaminhou a André Seixas Maia, em 17/04/2025, uma ata de assembleia extraordinária da Tirreno
+  datada de 02/12/2024, dois dias depois de a empresa ter sido formalmente registrada na JUCESP em
+  15/04/2025 — indício, segundo a autoridade policial, de documento fabricado a posteriori.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'henrique-peretto: recharacterizado de figura periférica (só ligada à Cartos) para partícipe
+  operacional direto do aparato documental da Tirreno.'
+- 'andre-seixas-maia: acrescenta a compensação financeira pelo risco, a ausência de pagamento pelos
+  créditos gerados, e sinaliza tensão não resolvida sobre sua qualificação como "sócio da Cartos" no
+  presente (ele saiu da empresa em 2021, segundo registro já publicado).'
+author: orquestrador
+affected_ids:
+- henrique-peretto
+- andre-seixas-maia
+- daniel-vorcaro
+- augusto-lima
+- paulo-henrique-costa
+- tirreno
+reason: Leitura direta, por equipe de investigação, da decisão de 22/06/2026 na PET 15.478/DF — peça
+  pública do portal do STF, obtida em sessão anterior e ainda não analisada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

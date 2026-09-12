@@ -1,0 +1,40 @@
+id: doc-2026-06-22-decisao-pet15478-sigilo-tirreno-brb
+kind: document
+title: Decisão de André Mendonça na PET 15.478/DF — afastamento de sigilo bancário e fiscal no esquema
+  Tirreno/BRB
+doc_type: judicial_decision
+date: '2026-06-22'
+date_precision: day
+source_ids:
+- src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
+summary: 'Defere afastamento de sigilo bancário e fiscal (01/01/2024-31/12/2025) sobre representação
+  policial encampada pelo MPF, descrevendo a venda fraudulenta ao BRB de R$ 17 bilhões em carteiras de
+  crédito do Banco Master — R$ 12,2 bilhões das quais o próprio BRB admitia não conseguir auditar
+  adequadamente — estruturada via a empresa de fachada Tirreno. Narra papel individualizado de 11 pessoas
+  físicas (Daniel Vorcaro, Augusto Lima, Luiz Bull, Alberto Félix de Oliveira, Ângelo Ribeiro da Silva,
+  André Seixas Maia, Henrique Peretto, Paulo Henrique Costa, Dario Oswaldo Garcia Junior) e inclui como
+  alvos a própria Tirreno, a Viking Participações e as empresas do grupo Terra Firme (Construções e
+  Incorporações; da Bahia).'
+is_official: true
+related_entity_ids:
+- daniel-vorcaro
+- augusto-lima
+- luiz-bull
+- alberto-felix-oliveira
+- angelo-ribeiro-da-silva
+- andre-seixas-maia
+- henrique-peretto
+- paulo-henrique-costa
+- dario-oswaldo-garcia-junior
+- tirreno
+- viking-participacoes
+- banco-de-brasilia-brb
+- andre-mendonca
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: PET 15.478/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

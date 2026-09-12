@@ -18,7 +18,16 @@ summary: 'Fundou a Cartos SCD em 03/11/2014 e segue como seu representante forma
   considera falsa (a criação é atribuída a Daniel Moreira Bezerra, sob o nome original ''SX 016'', com Seixas
   Maia assumindo a direção depois da renomeação). É investigado formal no INQ 5.026: pediu adiamento de
   oitiva agendada para 26/01/2026 por conflito de agenda com audiência em processo distinto (10ª Vara
-  Criminal de São Paulo), e renunciou a procuradores em novembro de 2025.'
+  Criminal de São Paulo), e renunciou a procuradores em novembro de 2025. ACHADO NOVO (lote 238) — a
+  decisão de 22/06/2026 na PET 15.478 muda sua caracterização de figura periférica para partícipe
+  operacional direto do aparato documental da Tirreno, independente da disputa sobre quem a "criou": a
+  autoridade policial afirma que ele tinha ciência irrestrita dos termos espúrios da empresa, acompanhou
+  André Seixas Maia durante longa permanência no Banco Master no dia da assinatura dos contratos, e
+  compareceu a reuniões no BRB ao lado de Augusto Lima e Paulo Henrique Costa — elo até então ausente do
+  acervo, que só o ligava à Cartos. A mesma decisão narra que ele encaminhou a Seixas Maia, em 17/04/2025,
+  uma ata de assembleia extraordinária da Tirreno supostamente de 02/12/2024, dois dias depois de a
+  empresa ter sido formalmente registrada na JUCESP em 15/04/2025 — indício, segundo a autoridade
+  policial, de documento fabricado a posteriori.'
 why_in_novelo: É apontado por Daniel Vorcaro como o criador da Tirreno — atribuição que o Poder360 considera
   falsa, mas que o torna, de qualquer forma, uma das figuras centrais na disputa sobre a origem da empresa
   usada para vender créditos fabricados ao BRB.
@@ -28,12 +37,13 @@ cited_position:
 open_questions:
 - O teor exato das irregularidades que levaram ao termo de compromisso de 2021 da Cartos com o Banco Central
   não está disponível nos documentos lidos até agora.
-- Não confirmado se a atribuição de Vorcaro (Peretto como criador da Tirreno) é alegação de má-fé, engano, ou
-  se há alguma participação de Peretto ainda não documentada — os registros primários lidos até agora só
-  confirmam o vínculo dele com a Cartos, não com a Tirreno diretamente.
+- 'PARCIALMENTE ESCLARECIDO (lote 238): a decisão de 22/06/2026 na PET 15.478 confirma vínculo operacional
+  direto dele com a Tirreno (antedatação de ata, presença na assinatura dos contratos, reuniões no BRB) —
+  mas não confirma nem refuta especificamente que ele a tenha "criado", questão que segue em aberto.'
 source_ids:
 - src-poder360-2026-02-04-bc-poupou-cartos
 - src-stf-inq5026-ipl1096304-completo
+- src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'

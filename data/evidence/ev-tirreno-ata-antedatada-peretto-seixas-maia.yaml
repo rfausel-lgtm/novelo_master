@@ -1,0 +1,26 @@
+id: ev-tirreno-ata-antedatada-peretto-seixas-maia
+kind: evidence
+classification: A
+proposition: Henrique Peretto encaminhou a André Seixas Maia, em 17/04/2025, uma ata de assembleia
+  extraordinária da Tirreno supostamente realizada em 02/12/2024 — mas o registro da empresa na JUCESP só
+  foi homologado em 15/04/2025, dois dias antes; a autoridade policial trata o hiato como indício de
+  documento fabricado a posteriori para simular formalização anterior.
+document_ids:
+- doc-2026-06-22-decisao-pet15478-sigilo-tirreno-brb
+source_ids:
+- src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
+attributed_to: Autoridade policial, encampada pelo MPF e citada na decisão de André Mendonça
+date: '2025-04-17'
+notes: 'O acervo já tinha os mesmos marcos temporais da cadeia societária da Tirreno (constituição
+  04/11/2024 sob o nome SX 016, renomeação 02/12/2024, contrato com o Master 05/12/2024, Seixas Maia
+  assume a direção em 15/04/2025 — ver tirreno.yaml, lote 219), tratados até aqui como sequência
+  relativamente linear. Esta peça acrescenta a suspeita processual explícita de antedatação documental e
+  estabelece, pela primeira vez, um elo operacional direto entre Peretto e o aparato documental da
+  Tirreno — até aqui ele só aparecia ligado à Cartos, com a autoria da Tirreno sendo atribuição disputada
+  (e tida por falsa pelo Poder360) feita por Daniel Vorcaro. Tratar como alegação da fase investigativa,
+  não fato apurado.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
