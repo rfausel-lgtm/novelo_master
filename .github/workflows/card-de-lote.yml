@@ -79,6 +79,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- public/social
+
+          # `npm run build`, acima, reescreve public/acervo.txt e public/llms.txt, que são
+          # versionados. Esse resíduo não é do card, e deixá-lo solto no worktree fazia o rebase da
+          # retentativa abortar com "cannot rebase: You have unstaged changes" — ou seja, a entrega
+          # falhava sempre que a `main` andava durante a execução, que é quase sempre (runs 34711387952
+          # e 34711774411). O descarte vem DEPOIS do `git add`: o índice já tem os .webp novos e o
+          # cards.json atualizado, e restaurar o worktree a partir dele preserva os dois.
+          git checkout -- .
+
           quantas=$(git diff --cached --name-only --diff-filter=A -- 'public/social/*.webp' | wc -l | tr -d ' ')
           git commit -q -F - <<COMMIT
           feat(social): card de lote ($quantas)

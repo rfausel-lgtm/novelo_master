@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+- Entrega dos workflows `card-de-lote.yml` e `arte-de-lote.yml` deixa de falhar quando a `main` anda
+  no meio da execução. O `npm run build` de validação reescreve `public/acervo.txt` e
+  `public/llms.txt`, que são versionados; com esse resíduo no worktree, a retentativa do card
+  abortava em `cannot rebase: You have unstaged changes` (runs 34711387952 e 34711774411), e a da
+  arte recusaria o `checkout` para a `main` nova pelo mesmo motivo. Com a pesquisa publicando em
+  rajadas, a `main` anda durante quase toda execução — a falha era a regra, não o acaso. Os dois
+  passos de entrega passam a descartar o worktree antes de rebasear ou trocar de base; no card, o
+  descarte vem depois do `git add`, para preservar os `.webp` novos e o `cards.json` já no índice.
 - **Card de lote: toda revisão passa a ter arte, sem modelo de imagem.** A ilustração do Codex
   dependia de uma automação local que varre a cada dez minutos, de um `gh` que responde 401 no
   ambiente isolado dela e de um workflow para chegar à `main` — três elos, os três já falharam, e o
