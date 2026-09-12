@@ -1,6 +1,6 @@
 id: ev-fachin-sinaliza-desfecho-do-inquerito-4781-apos-sete-anos
 kind: evidence
-classification: C
+classification: D
 proposition: 'Mais do que trocar o relator, a decisão sinaliza um desfecho. O presidente do tribunal comunicou
   que, após análise, remeterá os autos à autoridade policial e à Procuradoria-Geral da República para
   ''oferecimento da denúncia ou requerimento do arquivamento''. É o encaminhamento que encerra um inquérito:
@@ -10,11 +10,16 @@ document_ids:
 - doc-2026-09-09-decisao-fachin-revoga-designacao-moraes-inq-4781
 source_ids:
 - src-jovempan-2026-09-09-fachin-retira-moraes-relatoria-fake-news
+- src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
 excerpt: à autoridade policial e à Procuradoria-Geral da República (PGR) para oferecimento da denúncia
   ou requerimento do arquivamento
 date: '2026-09-09'
+notes: 'Reclassificação de 12/09/2026: elevada de C para D. O document_id é a própria decisão de Fachin
+  (is_official: true, excerto reproduz linguagem direta do texto), documento primário oficial — não apenas
+  reportagem sobre ela. Mantidas as duas reportagens (Jovem Pan e Estado de Minas) que já constavam ligadas
+  ao documento, como leitura/corroboração, não como base da classificação.'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-10'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-10'
-updated_at: '2026-09-10'
+updated_at: '2026-09-12'

@@ -1,0 +1,75 @@
+id: rev-2026-09-12-auditoria-classe-c-fontes-independentes
+kind: revision
+date: '2026-09-12'
+title: 'O que conta como "duas fontes independentes": seis evidências reclassificadas'
+summary: 'Auditoria movida por uma decisão pendente há vários lotes: o que conta como fonte independente para
+  a classe C. O lint soma `source_ids.length + document_ids.length`, e um registro `document` que é só o
+  envelope da MESMA reportagem já citada como fonte passa a conta sem ser uma segunda origem — foi o que
+  aconteceu em três evidências publicadas. Fixada a regra em BRIEFING.md e aplicada a seis registros: duas
+  ganharam segunda fonte real, verificada por leitura direta (WebFetch) antes de citar, e mantiveram classe C;
+  uma foi rebaixada para A depois que a segunda fonte buscada (Metrópoles, acesso próprio ao relatório do
+  grupo de trabalho do BRB) não corroborou os números, e sim divergiu deles; uma foi rebaixada para A por
+  depender de um documento que é a própria análise interna da equipe, não uma origem externa; uma foi elevada
+  para D, por citar como documento a decisão oficial em si, não uma reportagem sobre ela; e uma — uma soma
+  aritmética feita pela própria equipe sobre quatro cifras — passou para I, com inference_basis. Um achado
+  lateral (Cedae R$237mi, não R$200mi, já documentado no acervo desde o mesmo lote de reconciliação) ficou
+  registrado como nota, sem alterar o número já publicado na evidência da soma — decisão de correção
+  aritmética e eventual renomeação do registro fica para o Rafael.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 2
+  evidence: 0
+updated_relationships: 1
+corrections:
+- 'ev-tirreno-vendia-creditos-fabricados-ao-brb: mantida classe C, agora com segunda fonte real (Poder360,
+  verificada por leitura direta) no lugar do document_id que duplicava a própria fonte da Agência Pública. A
+  nova fonte corrobora o mecanismo central, mas atribui a criação da Tirreno a André Felipe de Oliveira
+  Seixas Maia, não a Daniel Vorcaro — a proposição foi ajustada para não afirmar autoria de Vorcaro sobre a
+  empresa, ponto que não está corroborado. Seixas Maia ainda não tem registro próprio: pista para apuração
+  futura.'
+- 'ev-mendonca-pede-julgamento-plenario-06set: mantida classe C, agora com segunda fonte real (Gazeta do
+  Povo, apuração e byline próprios, verificada por leitura direta) no lugar do document_id que duplicava a
+  fonte do Poder360. As duas coberturas confirmam o mesmo fato central com formulação jurídica distinta
+  (uma cita o art. 5º do RISTF como pedido formal; a outra descreve como liberação, sem o dispositivo) —
+  registrado no corpo da evidência.'
+- 'ev-bc-encontrou-130-contratos-sem-lastro-e-cpfs-dispersos: rebaixada de C para A, atribuída à Agência
+  Pública. A segunda fonte buscada (Metrópoles, com acesso próprio ao relatório sigiloso do grupo de trabalho
+  do BRB) não corrobora os números: fala em 47 contratos consultados, dos quais 8 existiam, sem mencionar
+  associações da Bahia nem março de 2025 — divergência registrada em notes, não resolvida.'
+- 'ev-mps-atualizou-de-18-para-19-entes-ate-fevereiro-de-2026: rebaixada de C para A, atribuída ao
+  Ministério da Previdência via CNN Brasil. O document_id ligado era a reconciliação interna da própria
+  equipe (is_official: false), não uma segunda origem.'
+- 'ev-fachin-sinaliza-desfecho-do-inquerito-4781-apos-sete-anos: elevada de C para D. O document_id é a
+  própria decisão de Fachin (is_official: true, com excerto que reproduz linguagem direta do texto) — não
+  apenas reportagem sobre ela.'
+- 'ev-quatro-instituicoes-somam-3-62-bilhoes-mais-que-o-dobro-da-versao-de-vorcaro: reclassificada de C para
+  I, com inference_basis. É soma aritmética da própria equipe sobre quatro cifras, não uma cifra corroborada
+  por duas fontes. Nota registra que o acervo já corrigiu o valor da Cedae para R$237 milhões (não R$200mi)
+  em outro registro — a soma não foi recalculada nesta auditoria, por não ter sido pedida correção
+  aritmética; refeita, o total seria ~R$3,66 bi, não R$3,62 bi.'
+- 'rel-cedae-banco-master-financial: ganhou o evidence_id de ev-cedae-investiu-237-milhoes-nao-200 (classe
+  D), consequência direta da reclassificação acima — sem isso, a relação (classe A) ficava com evidência
+  superior à melhor evidência ligada (I), erro bloqueante de lint.'
+- 'Duas sequências revisadas e mantidas sem alteração: seq-consult-pagamentos-e-negociacao-brb e
+  seq-lei-14431-2022-e-modelo-consignado-do-master, ambas com fonte única na própria sequência, mas ancoradas
+  em evidências (ev-coaf-master-consult-6-6-mi, classe C com 4 fontes reais; ev-lei-14431-2022-consignado e
+  ev-decisao-9a-fase-emendas, classe D) que já seguem a regra corretamente.'
+author: orquestrador
+affected_ids:
+- tirreno
+- banco-de-brasilia-brb
+- andre-mendonca
+- alexandre-de-moraes
+- banco-central-do-brasil
+- edson-fachin
+- rioprevidencia
+- cedae
+- amapa-previdencia
+- amazonprev
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

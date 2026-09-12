@@ -38,6 +38,22 @@ Coincidência temporal não é causalidade. NUNCA invente fonte, página, mensag
   C exige ≥2 fontes independentes; A exige attributed_to/attributed_to_id (quem alegou); I exige inference_basis.
 - Reportagem que diz "segundo a PF, X" sustenta a evidência "a PF afirma X" (classe A, attributed_to
   policia-federal), NÃO "X aconteceu". Se a reportagem cita documento oficial que você não leu, classe A/C.
+- **O que conta como "fonte independente" para a classe C (regra fixada em 12/09/2026, depois de três
+  registros publicados terem passado no lint sem sê-lo de fato).** O lint soma `source_ids.length +
+  document_ids.length` — e um registro `document` cujo `source_ids` é a MESMA reportagem já citada em
+  `source_ids` da evidência passa a conta (1+1=2) sem ser uma segunda origem. Antes de classificar C,
+  pergunte: as duas entradas vêm de apurações OU registros PRIMÁRIOS realmente distintos? Três padrões
+  NÃO contam como independência, mesmo passando no lint:
+  (a) um documento no acervo que é só o envelope da MESMA reportagem já citada como fonte (confira
+  `document_ids[].source_ids` contra `source_ids` da evidência — se coincidirem, é uma fonte só, não duas);
+  (b) vários veículos citando a mesma origem única (um vazamento, um documento oficial, um boletim) sem
+  apuração própria — classe A, atribuída a essa origem, não C;
+  (c) reprodução ou wire de um texto original (mesmo título/estrutura em vários veículos) — conte como
+  uma fonte, não uma por veículo.
+  CONTA como independência real: dois veículos com apuração própria (bylines distintos, fontes/documentos
+  próprios), mesmo cobrindo o mesmo fato — aí sim é C, mesmo que os dois divirjam em detalhe (registre a
+  divergência em `notes`, não escolha uma versão em silêncio). Uma soma aritmética feita pela própria
+  equipe sobre valores já documentados é classe I com `inference_basis`, nunca C.
 - Relação: label curto, description = "por que estes nós estão conectados" factual, evidence_class coerente
   com as evidências ligadas, status verified só para D/C. Nunca crie aresta só porque duas pessoas
   aparecem na mesma reportagem: precisa de proposição concreta (reunião X, contrato Y, cargo Z).

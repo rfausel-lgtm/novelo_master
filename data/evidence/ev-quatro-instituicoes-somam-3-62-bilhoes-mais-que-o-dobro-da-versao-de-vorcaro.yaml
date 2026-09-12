@@ -1,20 +1,34 @@
 id: ev-quatro-instituicoes-somam-3-62-bilhoes-mais-que-o-dobro-da-versao-de-vorcaro
 kind: evidence
-classification: C
+classification: I
 proposition: Somados, os valores já conhecidos investidos no Banco Master pelas quatro instituições citadas na proposta
   de Vorcaro chegam a R$ 3,62 bilhões — Rioprevidência R$ 2,97 bilhões, Amprev R$ 400 milhões, Cedae R$ 200 milhões
   e Amazonprev R$ 50 milhões —, mais que o dobro dos R$ 2 bilhões que o próprio colaborador atribui à intermediação
   de ACM Neto e Rueda, sem que a proposta explique a diferença.
+inference_basis: 'Soma aritmética feita pela própria equipe sobre quatro cifras individualmente reportadas, não uma
+  cifra publicada como tal por nenhuma fonte — por isso classe I, não C. Ancoragem de cada parcela: Rioprevidência
+  e Amprev pela reportagem citada em source_ids (compatível com ev-amprev-equivalia-a-quase-metade-das-letras-do-master,
+  classe D, que confirma os R$ 400 milhões finais da Amprev); Cedae e Amazonprev não têm evidência própria neste
+  registro. Limite: o próprio acervo já corrigiu o valor da Cedae para R$ 237 milhões, não R$ 200 milhões
+  (ev-cedae-investiu-237-milhoes-nao-200, classe D, mesma auditoria do TCE-RJ) — a soma aqui não incorpora essa
+  correção; refeita, o total seria de aproximadamente R$ 3,66 bilhões, não R$ 3,62 bilhões. Mantido o valor original
+  nesta reclassificação por não ter sido pedida correção aritmética; ver nota.'
 document_ids:
 - doc-2026-09-terceira-proposta-delacao-vorcaro-comissao-politica
 source_ids:
 - src-revistaforum-2026-09-10-acm-neto-rueda-comissao-rpps-master
 date: '2026-09-10'
-notes: 'A discrepância admite duas leituras não excludentes: parte dos recursos pode ter entrado por vias não atribuídas
-  aos dois políticos, ou a estimativa de Vorcaro sobre o total captado por eles pode estar simplesmente incompleta.
-  Nenhuma das reportagens resolve a questão.'
+notes: 'Reclassificação de 12/09/2026: de C para I (ver inference_basis — é soma da própria equipe, não corroboração
+  por duas fontes independentes). Achado adjacente, não corrigido aqui: o total usa Cedae em R$ 200 milhões, já
+  superado no próprio acervo por R$ 237 milhões (ver inference_basis) — corrigir o somatório mudaria o número
+  publicado (~R$ 3,66 bi) e, para manter id/slug coerente com o conteúdo, provavelmente exigiria renomear o
+  registro e atualizar quem o referencia. Fica para decisão do Rafael, não decidido nesta reclassificação.
+  A discrepância entre a soma e os R$ 2 bilhões atribuídos por Vorcaro a ACM Neto/Rueda admite duas leituras não
+  excludentes: parte dos recursos pode ter entrado por vias não atribuídas aos dois políticos, ou a estimativa de
+  Vorcaro sobre o total captado por eles pode estar simplesmente incompleta. Nenhuma das reportagens resolve a
+  questão.'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-10'
+reviewed_at: '2026-09-12'
 created_at: '2026-09-10'
-updated_at: '2026-09-10'
+updated_at: '2026-09-12'
