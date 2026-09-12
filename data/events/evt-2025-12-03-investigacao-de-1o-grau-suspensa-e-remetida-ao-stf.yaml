@@ -1,0 +1,35 @@
+id: evt-2025-12-03-investigacao-de-1o-grau-suspensa-e-remetida-ao-stf
+kind: event
+title: Investigação de 1º grau é suspensa e o caso passa ao controle direto do STF
+event_type: judicial_decision
+date: '2025-12-03'
+date_precision: day
+participant_ids:
+- dias-toffoli
+- antonio-claudio-macedo-da-silva
+- policia-federal
+- ministerio-publico-federal
+- supremo-tribunal-federal
+- luiz-bull
+description: 'Em 03/12/2025, dois atos distintos e no mesmo dia deslocaram o controle do caso Banco Master
+  para o STF. Dias Toffoli, na Rcl 88.121/DF, determinou que novas diligências fossem previamente submetidas
+  ao crivo do STF diante de suspeita de foro por prerrogativa de função. No juízo de origem, o juiz federal
+  substituto Antônio Cláudio Macedo da Silva foi além: determinou que a Polícia Federal não praticasse mais
+  nenhum ato investigatório no IPL 2025.0087917, remetendo-o ao STF ''com urgência'' — motivado por documento
+  apreendido supostamente ligado a parlamentar federal não identificado nos autos. O MPF opôs embargos de
+  declaração contra essa segunda decisão; foram rejeitados em 07/12/2025.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-toffoli-03-12-2025-e-o-novo-marco-mais-antigo
+- ev-juiz-1a-instancia-suspende-pf-remete-ao-stf
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+document_ids:
+- doc-2025-12-03-decisao-toffoli-rcl88121-aprovacao-previa
+- doc-2025-12-03-decisao-1a-instancia-suspende-pf-remete-stf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

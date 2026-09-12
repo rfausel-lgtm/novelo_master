@@ -1,0 +1,37 @@
+id: doc-2025-08-17-portaria-instauracao-ipl-1096304
+kind: document
+title: Portaria de instauração do Inquérito Policial 2025.0087917-DELEINQUE/DRPJ/SR/PF/DF
+doc_type: administrative_act
+date: '2025-08-17'
+date_precision: day
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+summary: 'Portaria assinada pela Delegada Janaína Pereira Lima Palazzo às 18h54 de 17/08/2025, com base
+  no Ofício nº 5462/2025/MPF/PRDF/28º Ofício (Notícia de Fato 1.16.000.001223/2025-35), instaurando o IPL
+  para apurar os arts. 4º e 6º da Lei 7.492/1986 (crimes contra o Sistema Financeiro Nacional) e o art. 1º
+  da Lei 6.385/1976 (mercado de valores mobiliários). Resume o fato investigado: desvio de recursos do BRB,
+  transferidos ao Banco Master (operação avaliada em R$ 12,2 bilhões), por meio de simulação de cessão de
+  carteiras de crédito inexistentes, com falsificação documental, empresas de fachada e pessoas interpostas.
+  Determina consultar dados de pessoas jurídicas nominalmente citadas — Tirreno, SX 016 Empreendimentos e
+  Participações S.A., Asteba, Asseba, Cartos SCD S/A e The-Pay Soluções de Pagamentos Ltda — e suas relações
+  com funcionários, diretores e ex-diretores do Banco Master.'
+is_official: true
+related_entity_ids:
+- banco-master
+- banco-de-brasilia-brb
+- tirreno
+- asteba
+- asseba
+- policia-federal
+- ministerio-publico-federal
+issuer: Delegada Janaína Pereira Lima Palazzo (DELEINQUE/DRPJ/SR/PF/DF)
+reference: IPL 2025.0087917-DELEINQUE/DRPJ/SR/PF/DF
+excerpt: os fatos narrados e a robusta documentação encartada apontam desvio de recursos do BRB, transferidos
+  ao BANCO MASTER (operação financeira avaliada em 12,2 Bilhões de Reais), por meio de simulação de cessão
+  de carteiras de crédito inexistentes, criadas fraudulentamente através de falsificação documental, de
+  empresas de fachada e pessoas interpostas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

@@ -1,0 +1,47 @@
+id: rev-2026-09-12-lote-218-a-portaria-fundadora-e-o-marco-que-antecede-o-marco
+kind: revision
+date: '2026-09-12'
+title: 'Lote 218 — a portaria fundadora do IPL, e o marco que antecede o marco'
+summary: 'Primeiro lote da leitura direta do IPL 2025.0087917-DELEINQUE/DRPJ/SR/PF/DF (2.637 páginas),
+  trasladado ao STF como peça do INQ 5.026 e obtido por Rafael via certificado digital. A portaria de
+  instauração, de 17/08/2025, é o marco documental mais antigo do acervo sobre a origem da investigação —
+  quatro meses anterior ao primeiro ato de supervisão do STF até então registrado. Ela nomeia cinco pessoas
+  jurídicas para apuração de vínculos com o Banco Master: Tirreno, SX 016 Empreendimentos e Participações
+  S.A., Asteba, Asseba, Cartos SCD S/A e The-Pay Soluções de Pagamentos Ltda. Também registrado: em
+  03/12/2025, doze dias antes da decisão de Toffoli na Rcl 88.121 até aqui tratada como marco mais antigo da
+  supervisão do STF, o próprio Toffoli já havia determinado, na mesma Reclamação, que novas diligências
+  fossem previamente submetidas ao crivo da Corte — e, no mesmo dia, um juiz federal de 1º grau foi além:
+  suspendeu todos os atos investigatórios da Polícia Federal e remeteu o inquérito inteiro ao STF, por
+  suspeita de foro por prerrogativa de função ligada a um documento apreendido que cita parlamentar federal
+  não identificado nos autos — episódio que a imprensa não cobriu e que só a leitura direta do IPL revela.'
+added:
+  people: 1
+  organizations: 0
+  events: 1
+  documents: 3
+  relationships: 0
+  sources: 1
+  evidence: 4
+updated_relationships: 0
+corrections:
+- 'ev-rcl88121-marco-fundador-supervisao-stf deixa de ser o marco documental mais antigo do acervo sobre a
+  supervisão do STF — a decisão de Toffoli de 03/12/2025, doze dias anterior, assume esse lugar. O conteúdo
+  já registrado permanece correto para 15/12/2025, apenas deixa de ser a primeira decisão.'
+author: orquestrador
+affected_ids:
+- banco-master
+- banco-de-brasilia-brb
+- tirreno
+- asteba
+- asseba
+- policia-federal
+- ministerio-publico-federal
+- dias-toffoli
+- luiz-bull
+- supremo-tribunal-federal
+- antonio-claudio-macedo-da-silva
+reason: 'Leitura direta, por equipes de investigação em paralelo, do IPL 2025.0087917 trasladado ao STF —
+  material novo obtido por Rafael, ainda não minerado pelo acervo.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

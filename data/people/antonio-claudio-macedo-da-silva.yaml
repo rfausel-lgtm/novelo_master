@@ -1,0 +1,30 @@
+id: antonio-claudio-macedo-da-silva
+kind: person
+name: Antônio Cláudio Macedo da Silva
+category: other
+role: Juiz Federal substituto, 10ª Vara Federal Criminal da SJDF
+summary: Juiz federal substituto que, atuando pelo titular Ricardo Augusto Soares Leite (em férias), determinou
+  em 03/12/2025 que a Polícia Federal não praticasse mais nenhum ato investigatório no IPL 2025.0087917 e
+  remeteu o inquérito e as cautelares conexas ao STF "com urgência", por entender haver indício de investigação
+  dirigida contra pessoa com foro por prerrogativa de função — motivado por documento apreendido em busca
+  domiciliar, supostamente ligado a parlamentar federal não identificado nos autos, associado à Petição 13.884/BA
+  (Operação Overclean, DNOCS/Bahia). Rejeitou, em 07/12/2025, os embargos de declaração opostos pelo MPF contra
+  essa decisão.
+why_in_novelo: Foi quem, na prática, suspendeu a investigação de primeiro grau e a remeteu ao STF — o ato
+  processual que antecede e explica a assunção do caso pela Corte, hoje datada no acervo a partir de decisões
+  posteriores do próprio STF.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública própria localizada além do teor das duas decisões judiciais lidas.
+open_questions:
+- O parlamentar federal mencionado como titular do documento apreendido não é identificado nos autos lidos
+  (referência "sob sigilo"); a ligação com a Pet 13.884/BA (Operação Overclean) não foi aprofundada.
+- Não localizada cobertura de imprensa sobre este episódio específico — o registro depende integralmente
+  da leitura direta do IPL.
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

@@ -1,0 +1,30 @@
+id: doc-2025-12-03-decisao-toffoli-rcl88121-aprovacao-previa
+kind: document
+title: Decisão de Toffoli na Rcl 88.121 que exige aprovação prévia do STF para novas diligências
+doc_type: judicial_decision
+date: '2025-12-03'
+date_precision: day
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+summary: 'Em 02/12/2025, Luiz Antônio Bull pediu habilitação na Reclamação 88.121/DF (relator Dias Toffoli),
+  relatando ter sido preso por onze dias na Operação Compliance Zero e pedindo suspensão das investigações.
+  Em 03/12/2025, Toffoli deferiu acesso a Bull e à Polícia Federal, mas determinou que ''novas diligências e
+  medidas devem ser previamente submetidas ao crivo desta Suprema Corte, cuja competência originária se
+  encontra estabelecida... inclusive sobre outras investigações conexas'', diante de investigação
+  ''supostamente dirigida contra pessoas com foro por prerrogativa de função''. É, com a leitura direta do
+  IPL em 12/09/2026, o primeiro ato de supervisão do STF ao caso já lido pela equipe — doze dias anterior à
+  decisão de 15/12/2025 até aqui registrada como marco documental mais antigo.'
+is_official: true
+related_entity_ids:
+- dias-toffoli
+- luiz-bull
+- supremo-tribunal-federal
+- policia-federal
+issuer_id: dias-toffoli
+issuer: Ministro Dias Toffoli
+reference: STF, Rcl 88.121/DF, decisão de 03/12/2025
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

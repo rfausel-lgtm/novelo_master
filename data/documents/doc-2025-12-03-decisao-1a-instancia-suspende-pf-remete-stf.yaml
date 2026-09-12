@@ -1,0 +1,31 @@
+id: doc-2025-12-03-decisao-1a-instancia-suspende-pf-remete-stf
+kind: document
+title: Decisão de 1ª instância que suspende atos investigativos da PF e remete o IPL ao STF
+doc_type: judicial_decision
+date: '2025-12-03'
+date_precision: day
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+summary: 'O juiz federal substituto Antônio Cláudio Macedo da Silva (10ª Vara Federal Criminal da SJDF,
+  respondendo pelo titular Ricardo Augusto Soares Leite) determinou, em 03/12/2025, que a Polícia Federal
+  não praticasse mais nenhum ato investigatório no IPL 2025.0087917, e remeteu o inquérito e todas as
+  cautelares conexas ao STF "com urgência" — motivado por documento apreendido em busca domiciliar,
+  supostamente relacionado a parlamentar federal não identificado nos autos (associado à Pet 13.884/BA,
+  Operação Overclean/DNOCS-Bahia), por entender haver investigação dirigida contra pessoa com foro por
+  prerrogativa de função. O MPF (procurador Gabriel Pimenta Alves) opôs embargos de declaração em 04-05/12/2025
+  por contradição/obscuridade; o mesmo juiz rejeitou os embargos em 07/12/2025, reafirmando a remessa, com
+  fundamentação atípica que cita economia comportamental (Kahneman e Tversky).'
+is_official: true
+related_entity_ids:
+- policia-federal
+- ministerio-publico-federal
+- supremo-tribunal-federal
+- antonio-claudio-macedo-da-silva
+issuer_id: antonio-claudio-macedo-da-silva
+issuer: Juiz Federal substituto Antônio Cláudio Macedo da Silva, 10ª Vara Federal Criminal da SJDF
+reference: IPL 2025.0087917-DELEINQUE/DRPJ/SR/PF/DF; Pet 13.884/BA (Operação Overclean)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

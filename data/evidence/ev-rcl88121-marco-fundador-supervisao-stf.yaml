@@ -12,12 +12,12 @@ document_ids:
 source_ids:
 - src-stf-rcl88121-decisao-15-12-2025-diligencias-preliminares
 date: '2025-12-15'
-notes: É o marco documental mais antigo do acervo sobre a supervisão do STF ao caso — anterior até à
-  prisão preventiva de Vorcaro (18/11/2025 é anterior, mas esta é a primeira decisão judicial de
-  supervisão investigativa já lida diretamente). Mostra que a preocupação declarada, desde o início,
-  incluía "possíveis desdobramentos envolvendo outras instituições financeiras" — formulação genérica que
-  antecede e talvez explique o surgimento de frentes posteriores como o INQ 5.026 (BRB) e a investigação
-  de corrupção contra dirigentes do Banco Central (PET 15.504).
+notes: 'Atualizado em 12/09/2026: não é mais o marco documental mais antigo do acervo. A leitura direta do
+  IPL 2025.0087917 (trasladado ao INQ 5.026) revelou uma decisão de Toffoli, na mesma Rcl 88.121, datada de
+  03/12/2025 — doze dias anterior a esta — que já exigia aprovação prévia do STF para novas diligências (ver
+  ev-toffoli-03-12-2025-e-o-novo-marco-mais-antigo). O conteúdo específico registrado aqui (prazo de 30 dias,
+  oitiva de dirigentes do BC, autorização para quebras de sigilo individualizadas) permanece correto para
+  15/12/2025 — é a decisão SEGUINTE, mais detalhada, não a primeira.'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
