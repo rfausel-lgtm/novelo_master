@@ -1,0 +1,23 @@
+id: rel-cajamar-previdencia-banco-master-financial
+kind: relationship
+from_id: cajamar-previdencia
+to_id: banco-master
+relationship_type: financial
+directed: true
+label: aplicou R$ 87 milhões em Letras Financeiras
+description: O instituto de previdência de Cajamar (SP) aplicou R$ 87 milhões em Letras Financeiras do Banco Master
+  em três operações entre outubro de 2023 e março de 2024, o equivalente a 15,36% da carteira.
+evidence_class: C
+confidence: 0.85
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-metropoleonline-2026-cajamar-87-milhoes-master
+- src-metropoles-2026-cajamar-culpa-regulacao-federal
+start_date: 2023-10
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

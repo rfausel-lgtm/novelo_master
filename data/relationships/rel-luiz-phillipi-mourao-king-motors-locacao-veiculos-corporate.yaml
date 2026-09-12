@@ -1,0 +1,23 @@
+id: rel-luiz-phillipi-mourao-king-motors-locacao-veiculos-corporate
+kind: relationship
+from_id: luiz-phillipi-mourao
+to_id: king-motors-locacao-veiculos
+relationship_type: corporate
+directed: true
+label: empresa de locação de veículos ligada a ele
+description: A King Motors Locação de Veículos (CNPJ 36.944.533/0001-79, Belo Horizonte, aberta em 16/04/2020) integra
+  o conjunto de pessoas jurídicas ligadas a Luiz Phillipi Mourão identificadas no acervo, ao lado da King Participações
+  Imobiliárias.
+evidence_class: A
+confidence: 0.65
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-brasilapi-2026-king-motors-locacao
+start_date: '2020-04-16'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

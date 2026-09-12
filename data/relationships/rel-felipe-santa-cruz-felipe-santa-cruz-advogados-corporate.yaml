@@ -1,0 +1,22 @@
+id: rel-felipe-santa-cruz-felipe-santa-cruz-advogados-corporate
+kind: relationship
+from_id: felipe-santa-cruz
+to_id: felipe-santa-cruz-advogados
+relationship_type: corporate
+directed: true
+label: sócio com capital no escritório que leva seu nome
+description: Felipe de Santa Cruz Oliveira Scaletsky, ex-presidente nacional da OAB, é sócio com capital do escritório
+  aberto em 30/03/2010 no Rio de Janeiro (CNPJ 11.820.663/0001-79) que leva seu nome.
+evidence_class: C
+confidence: 0.85
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-vorcaro-escritorios-dois-ex-presidentes-oab
+- src-plenonews-2026-santa-cruz-15-milhao-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

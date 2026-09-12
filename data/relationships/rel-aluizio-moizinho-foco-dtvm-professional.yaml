@@ -1,0 +1,24 @@
+id: rel-aluizio-moizinho-foco-dtvm-professional
+kind: relationship
+from_id: aluizio-moizinho
+to_id: foco-dtvm
+relationship_type: professional
+directed: true
+label: diretor responsável destituído durante auditoria interna
+description: Aluízio Moizinho foi diretor responsável pela administração fiduciária da Sefer Investimentos, hoje
+  Foco DTVM, por cerca de sete meses (22/11/2019 a 19/06/2020), destituído sem motivação informada enquanto conduzia
+  auditoria interna. Foi absolvido pela CVM no caso Brazil Realty FII.
+evidence_class: C
+confidence: 0.8
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+- src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
+start_date: '2019-11-22'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,24 @@
+id: rel-andre-velloso-martins-marilson-roseno-da-silva-allegation
+kind: relationship
+from_id: andre-velloso-martins
+to_id: marilson-roseno-da-silva
+relationship_type: investigative_allegation
+directed: true
+label: consultou processo SEI a pedido dele, segundo a PF
+description: Segundo a análise do celular de Marilson Roseno da Silva (IPJ nº 1752768/2026), o escrivão da Polícia
+  Federal André Velloso Martins atendeu, em março de 2024, a pedidos de Marilson para consultar um processo SEI
+  que se revelou vinculado ao inquérito em que Henrique Moura Vorcaro era investigado.
+evidence_class: A
+confidence: 0.6
+status: unverified
+evidence_ids: []
+document_ids:
+- doc-2026-03-18-ipj-1752768-celular-marilson
+source_ids:
+- src-stf-pet15978-edoc14-ipj-1752768-celular-marilson
+start_date: 2024-03
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

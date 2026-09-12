@@ -1,0 +1,21 @@
+id: rel-clinica-mais-medico-banco-master-financial
+kind: relationship
+from_id: clinica-mais-medico
+to_id: banco-master
+relationship_type: financial
+directed: true
+label: recebeu R$ 361,1 milhões de fundo de crédito do banco
+description: Segundo reportagem da Folha baseada em documentos da Polícia Federal, a Clínica Mais Médico — pequeno
+  empreendimento — recebeu cerca de R$ 361,1 milhões de um fundo de crédito controlado pelo Banco Master.
+evidence_class: A
+confidence: 0.65
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-folha-2026-03-07-como-vorcaro-desviava-dinheiro-familiares
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

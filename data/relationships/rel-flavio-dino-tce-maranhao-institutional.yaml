@@ -1,0 +1,23 @@
+id: rel-flavio-dino-tce-maranhao-institutional
+kind: relationship
+from_id: flavio-dino
+to_id: tce-maranhao
+relationship_type: institutional
+directed: true
+label: afastou cautelarmente o presidente da corte por 180 dias
+description: O ministro Flávio Dino afastou cautelarmente, por 180 dias, o presidente do Tribunal de Contas do Maranhão,
+  Daniel Itapary Brandão, sobrinho do governador Carlos Brandão.
+evidence_class: C
+confidence: 0.85
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-gazetadopovo-2026-08-17-dino-afasta-presidente-tce-ma
+- src-cnnbrasil-2026-08-17-dino-afastamento-tce-maranhao
+start_date: '2026-08-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

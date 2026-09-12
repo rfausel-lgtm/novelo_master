@@ -1,0 +1,24 @@
+id: rel-wellington-cesar-lima-e-silva-andrei-rodrigues-institutional
+kind: relationship
+from_id: wellington-cesar-lima-e-silva
+to_id: andrei-rodrigues
+relationship_type: institutional
+directed: true
+label: ministro da Justiça intimado da decisão que afastou o diretor-geral
+description: O ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, foi intimado por mandado
+  do STF, em 08/09/2026, do inteiro teor da decisão de André Mendonça que afastou cautelarmente o diretor-geral
+  da Polícia Federal, Andrei Rodrigues, e o diretor de Inteligência Policial.
+evidence_class: D
+confidence: 0.85
+status: verified
+evidence_ids: []
+document_ids:
+- doc-2026-09-08-decisao-mendonca-afasta-andrei-pet16662
+source_ids:
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
+start_date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

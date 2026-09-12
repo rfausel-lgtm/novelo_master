@@ -1,0 +1,24 @@
+id: rel-marcilio-de-abreu-brito-marilson-roseno-da-silva-allegation
+kind: relationship
+from_id: marcilio-de-abreu-brito
+to_id: marilson-roseno-da-silva
+relationship_type: investigative_allegation
+directed: true
+label: respondeu a consulta sobre lista de nomes, segundo a PF
+description: Segundo a análise do celular de Marilson Roseno da Silva (IPJ nº 1752768/2026), o agente da Polícia
+  Federal Marcílio de Abreu Brito respondeu a Marilson, em 10/09/2025, que 'não teria nada na PF' sobre uma lista
+  de nomes escrita à mão que incluía Henrique Moura Vorcaro.
+evidence_class: A
+confidence: 0.6
+status: unverified
+evidence_ids: []
+document_ids:
+- doc-2026-03-18-ipj-1752768-celular-marilson
+source_ids:
+- src-stf-pet15978-edoc14-ipj-1752768-celular-marilson
+start_date: '2025-09-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

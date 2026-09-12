@@ -1,0 +1,24 @@
+id: rel-solar-sociedade-organizada-leonardo-augusto-furtado-palhares-corporate
+kind: relationship
+from_id: solar-sociedade-organizada
+to_id: leonardo-augusto-furtado-palhares
+relationship_type: corporate
+directed: true
+label: associação dirigida por ele, no endereço que concentra empresas de Zettel
+description: A associação SOLAR – Sociedade Organizada (CNPJ 59.389.736/0001-46), aberta em 10/02/2025, tem Leonardo
+  Augusto Furtado Palhares entre seus dirigentes e sede na Avenida Raja Gabaglia, 2000, em Belo Horizonte — mesmo
+  endereço que concentra empresas ligadas a Fabiano Zettel.
+evidence_class: C
+confidence: 0.75
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-brasilapi-2026-solar-associacao-palhares
+- src-gazetadopovo-2026-operador-vorcaro-ong-africa
+start_date: '2025-02-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,23 @@
+id: rel-angelo-rezende-jaques-wagner-professional
+kind: relationship
+from_id: angelo-rezende
+to_id: jaques-wagner
+relationship_type: professional
+directed: true
+label: advogado que atua para o senador
+description: Ângelo Rezende é advogado que atua para o senador Jaques Wagner. Reportagem do UOL, replicada por veículos
+  regionais, o aponta como sócio indireto da PKL One por uma cadeia societária — atribuição que o acervo registra
+  como alegação da imprensa.
+evidence_class: C
+confidence: 0.7
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-bahiapolitica-2026-uol-advogado-wagner-pkl-one
+- src-agenciabrasil-2026-06-22-pablo-domingues-anulacao-9afase
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

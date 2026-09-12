@@ -1,0 +1,24 @@
+id: rel-operacao-sem-desconto-roberta-moreira-luchsinger-institutional
+kind: relationship
+from_id: operacao-sem-desconto
+to_id: roberta-moreira-luchsinger
+relationship_type: institutional
+directed: true
+label: caso dela é da Sem Desconto, não do caso Master
+description: Roberta Moreira Luchsinger é mencionada no relatório de inteligência apócrifo discutido na PET 16.662.
+  O acervo registra, por verificação direta, que o caso a que ela se liga é o da Operação Sem Desconto (fraude do
+  INSS), e não a investigação sobre o Banco Master — distinção que a decisão de Mendonça de 08/09/2026 preserva.
+evidence_class: D
+confidence: 0.75
+status: unverified
+evidence_ids:
+- ev-roberta-luchsinger-doc4-caso-sem-desconto-nao-master
+document_ids:
+- doc-2026-09-08-decisao-mendonca-afasta-andrei-pet16662
+source_ids:
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

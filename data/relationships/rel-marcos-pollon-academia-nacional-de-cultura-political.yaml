@@ -1,0 +1,22 @@
+id: rel-marcos-pollon-academia-nacional-de-cultura-political
+kind: relationship
+from_id: marcos-pollon
+to_id: academia-nacional-de-cultura
+relationship_type: political
+directed: true
+label: autor de emenda de R$ 1 milhão à entidade
+description: A decisão do STF de 03/09/2026 cita o deputado federal Marcos Pollon como autor da emenda parlamentar
+  nº 202444200010, de R$ 1 milhão, destinada à Academia Nacional de Cultura.
+evidence_class: D
+confidence: 0.85
+status: verified
+evidence_ids: []
+document_ids:
+- doc-2026-09-03-decisao-dino-pet16669-operacao-make-up
+source_ids:
+- src-stf-2026-09-03-decisao-pet16669-operacao-make-up
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

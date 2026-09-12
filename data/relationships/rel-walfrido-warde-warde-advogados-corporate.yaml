@@ -1,0 +1,22 @@
+id: rel-walfrido-warde-warde-advogados-corporate
+kind: relationship
+from_id: walfrido-warde
+to_id: warde-advogados
+relationship_type: corporate
+directed: true
+label: sócio-administrador
+description: Walfrido Jorge Warde Junior é um dos sócios-administradores do escritório Warde Advogados (CNPJ 02.500.682/0001-27,
+  fundado em 27/04/1998). Ele foi advogado pessoal de Daniel Vorcaro de 2017 até janeiro de 2026.
+evidence_class: C
+confidence: 0.85
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-minhareceita-escritorios-master-cnpjs
+- src-otempo-2026-04-09-master-91-escritorios
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

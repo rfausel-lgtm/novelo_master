@@ -1,0 +1,22 @@
+id: rel-milo-investimentos-mgi-desenvolvimento-corporate
+kind: relationship
+from_id: milo-investimentos
+to_id: mgi-desenvolvimento
+relationship_type: corporate
+directed: true
+label: usou quotas sobreavaliadas da empresa para integralizar cotas do FII
+description: Segundo a CVM, as quotas da MGI Desenvolvimento — sobreavaliadas em cerca de R$ 56 milhões — foram
+  usadas pela Milo Investimentos para integralizar cotas do Brazil Realty FII em 31/10/2018.
+evidence_class: A
+confidence: 0.75
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+start_date: '2018-10-31'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

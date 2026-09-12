@@ -1,0 +1,24 @@
+id: rel-luiz-phillipi-mourao-king-participacoes-imobiliarias-corporate
+kind: relationship
+from_id: luiz-phillipi-mourao
+to_id: king-participacoes-imobiliarias
+relationship_type: corporate
+directed: true
+label: sócio-administrador único
+description: A King Participações Imobiliárias (CNPJ 47.855.227/0001-82, Belo Horizonte, aberta em 06/09/2022) tem
+  Luiz Phillipi Machado de Moraes Mourão como sócio-administrador único. É a empresa apontada pela PF como origem
+  formal dos repasses mensais destinados ao núcleo 'A Turma'.
+evidence_class: C
+confidence: 0.85
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-brasilapi-2026-king-participacoes-imobiliarias
+- src-cnnbrasil-2026-vorcaro-pagava-400-mil-mes-a-turma
+start_date: '2022-09-06'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

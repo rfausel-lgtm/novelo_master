@@ -1,0 +1,26 @@
+id: rel-daniel-vorcaro-daniel-marinelli-meira-allegation
+kind: relationship
+from_id: daniel-vorcaro
+to_id: daniel-marinelli-meira
+relationship_type: investigative_allegation
+directed: true
+label: alvo de dossiê após postagens sobre suposta falência do banco
+description: Segundo a análise do chat entre Vorcaro e Mourão (IPJ-A nº 1070759/2026), em agosto de 2024 um telefone
+  usado para publicar postagens sobre um suposto pedido de falência do Banco Master foi identificado por Mourão
+  como cadastrado em nome de Daniel Marinelli Meira, que passou a ser alvo de levantamento. Ele aparece no acervo
+  como alvo, não como investigado.
+evidence_class: A
+confidence: 0.6
+status: unverified
+evidence_ids:
+- ev-daniel-marinelli-dossie-e-susto-por-critica-a-falencia
+document_ids:
+- doc-2026-02-ipja-1070759-analise-chat-vorcaro-mourao
+source_ids:
+- src-stf-pet15978-edoc3-ipja-analise-chat-vorcaro-mourao
+start_date: 2024-08
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

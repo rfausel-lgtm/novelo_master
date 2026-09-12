@@ -1,0 +1,21 @@
+id: rel-olivetto-comunicacao-thiago-miranda-commercial
+kind: relationship
+from_id: olivetto-comunicacao
+to_id: thiago-miranda
+relationship_type: commercial
+directed: true
+label: apontada como contraparte contratual nos contratos com influenciadores
+description: Reportagem colacionada na Portaria de instauração do IPL sobre o 'Projeto DV' cita a Olivetto Comunicação
+  como contraparte contratual, ao lado da Miranda Comunicação, nos contratos com influenciadores digitais.
+evidence_class: A
+confidence: 0.55
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-stf-inq5035-edoc15-portaria-ipl-projeto-dv
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

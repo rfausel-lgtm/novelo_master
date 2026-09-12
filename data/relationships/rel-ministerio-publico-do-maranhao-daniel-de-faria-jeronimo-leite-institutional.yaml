@@ -1,0 +1,24 @@
+id: rel-ministerio-publico-do-maranhao-daniel-de-faria-jeronimo-leite-institutional
+kind: relationship
+from_id: ministerio-publico-do-maranhao
+to_id: daniel-de-faria-jeronimo-leite
+relationship_type: institutional
+directed: true
+label: apurava improbidade no contrato com a Câmara de Imperatriz
+description: A 6ª Promotoria de Justiça Especializada de Imperatriz (Notícia de Fato nº 003773-253/2025) apurava
+  possível improbidade administrativa no aditivo do contrato entre a Câmara Municipal de Imperatriz e o escritório
+  de Daniel de Faria Jerônimo Leite. A apuração foi suspensa por decisão de Dias Toffoli.
+evidence_class: C
+confidence: 0.8
+status: verified
+evidence_ids:
+- ev-toffoli-suspende-apuracao-mpma-daniel-leite
+document_ids: []
+source_ids:
+- src-blogdodina-2026-05-01-toffoli-suspende-investigacao-daniel-leite
+- src-metropoles-2026-05-01-toffoli-trava-apuracao-daniel-leite-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

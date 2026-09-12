@@ -1,0 +1,25 @@
+id: rel-luiz-phillipi-mourao-antonio-augusto-conte-allegation
+kind: relationship
+from_id: luiz-phillipi-mourao
+to_id: antonio-augusto-conte
+relationship_type: investigative_allegation
+directed: true
+label: listado como alvo de matérias negativas, segundo a PF
+description: Segundo a extração do celular de Daniel Vorcaro, em 14/10/2024 Luiz Phillipi Mourão listou Antônio
+  Augusto Conte a Vorcaro como alvo de matérias negativas, descrevendo-o em termos ofensivos e afirmando que ele
+  teria contratado jornalista para publicar informação falsa sobre o banco. Ele aparece no acervo exclusivamente
+  como alvo, não como investigado.
+evidence_class: A
+confidence: 0.6
+status: unverified
+evidence_ids: []
+document_ids:
+- doc-2026-02-ipja-extracao-celular-vorcaro
+source_ids:
+- src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+start_date: '2024-10-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

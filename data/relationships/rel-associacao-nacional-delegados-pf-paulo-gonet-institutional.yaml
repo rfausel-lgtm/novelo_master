@@ -1,0 +1,23 @@
+id: rel-associacao-nacional-delegados-pf-paulo-gonet-institutional
+kind: relationship
+from_id: associacao-nacional-delegados-pf
+to_id: paulo-gonet
+relationship_type: institutional
+directed: true
+label: pediu que o PGR se declare impedido
+description: A entidade classista dos delegados da Polícia Federal pediu, em 06/09/2026, que o Procurador-Geral
+  da República, Paulo Gonet, se declare impedido no caso.
+evidence_class: C
+confidence: 0.8
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-baixadanaweb-2026-09-06-delegados-pedem-impedimento-gonet
+- src-agenciabrasil-2026-09-08-delegados-criticam-afastamento-monocratico
+start_date: '2026-09-06'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

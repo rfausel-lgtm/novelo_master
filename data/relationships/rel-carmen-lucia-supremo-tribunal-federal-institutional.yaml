@@ -1,0 +1,23 @@
+id: rel-carmen-lucia-supremo-tribunal-federal-institutional
+kind: relationship
+from_id: carmen-lucia
+to_id: supremo-tribunal-federal
+relationship_type: institutional
+directed: true
+label: ministra da Corte
+description: Cármen Lúcia é ministra do Supremo Tribunal Federal. Segundo apuração da Poder360 de 06/09/2026, ela
+  'transita entre os 2 grupos' formados na crise institucional em torno das suspeitas contra Alexandre de Moraes
+  e do caso Banco Master — leitura da reportagem, sem corroboração independente localizada.
+evidence_class: C
+confidence: 0.8
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

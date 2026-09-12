@@ -1,0 +1,23 @@
+id: rel-associacao-nacional-delegados-pf-andrei-rodrigues-institutional
+kind: relationship
+from_id: associacao-nacional-delegados-pf
+to_id: andrei-rodrigues
+relationship_type: institutional
+directed: true
+label: criticou o afastamento monocrático do diretor-geral
+description: A entidade classista dos delegados da Polícia Federal criticou publicamente, em 08/09/2026, o afastamento
+  monocrático do diretor-geral Andrei Rodrigues.
+evidence_class: C
+confidence: 0.8
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-agenciabrasil-2026-09-08-delegados-criticam-afastamento-monocratico
+- src-baixadanaweb-2026-09-06-delegados-pedem-impedimento-gonet
+start_date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,23 @@
+id: rel-partido-dos-trabalhadores-supremo-tribunal-federal-institutional
+kind: relationship
+from_id: partido-dos-trabalhadores
+to_id: supremo-tribunal-federal
+relationship_type: institutional
+directed: true
+label: peticionou pelo levantamento do sigilo da PET 15.556
+description: O Diretório Nacional do Partido dos Trabalhadores peticionou ao STF em 09/09/2026, por meio de advogados,
+  pelo levantamento do sigilo da PET 15.556 e de oito feitos conexos.
+evidence_class: D
+confidence: 0.85
+status: verified
+evidence_ids: []
+document_ids:
+- doc-2026-09-09-peticao-pt-levantamento-sigilo-pet15556
+source_ids:
+- src-stf-pet15556-edoc414-peticao-pt-levantamento-sigilo-09-09-2026
+start_date: '2026-09-09'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

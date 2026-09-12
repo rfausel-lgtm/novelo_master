@@ -1,0 +1,22 @@
+id: rel-augusto-lima-ac3-cobrancas-e-participacoes-corporate
+kind: relationship
+from_id: augusto-lima
+to_id: ac3-cobrancas-e-participacoes
+relationship_type: corporate
+directed: true
+label: administrador da holding, com os quatro filhos como sócios
+description: A AC3 Cobranças e Participações (CNPJ 33.084.900/0001-13, capital social de R$ 12,34 milhões) é holding
+  de Augusto Ferreira Lima, que figura como administrador ao lado dos quatro filhos como sócios.
+evidence_class: A
+confidence: 0.7
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-metropoles-augusto-lima-bloqueio-112-milhoes-reag
+start_date: '2019-03-20'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

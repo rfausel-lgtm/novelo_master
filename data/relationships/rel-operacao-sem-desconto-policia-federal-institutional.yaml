@@ -1,0 +1,24 @@
+id: rel-operacao-sem-desconto-policia-federal-institutional
+kind: relationship
+from_id: operacao-sem-desconto
+to_id: policia-federal
+relationship_type: institutional
+directed: true
+label: operação conduzida pela PF e pela CGU
+description: A Operação Sem Desconto, deflagrada em 23/04/2025, é conduzida pela Polícia Federal em conjunto com
+  a Controladoria-Geral da União, e investiga esquema nacional de descontos associativos não autorizados sobre benefícios
+  do INSS.
+evidence_class: C
+confidence: 0.9
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-gov-pf-2026-05-sem-desconto-nova-fase
+- src-otempo-2026-03-05-inss-m-facil-consignado-fraude
+start_date: '2025-04-23'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

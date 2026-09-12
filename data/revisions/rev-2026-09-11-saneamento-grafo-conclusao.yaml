@@ -1,0 +1,63 @@
+id: rev-2026-09-11-saneamento-grafo-conclusao
+kind: revision
+date: '2026-09-11'
+title: 'Saneamento: o grafo fecha sem nenhuma entidade solta'
+summary: 'Etapa final da manutenção de integridade aberta pela auditoria do grafo — não é apuração nova.
+  Restavam 102 entidades publicadas sem nenhuma conexão, quase todas sem documento primário no acervo: os
+  responsáveis solidários apontados pelo TCE-PR no fundo de previdência de Imbituva, os três diretores da
+  Sefer absolvidos no processo da CVM sobre o Brazil Realty FII, os institutos de previdência paulistas
+  expostos ao Master, as holdings do eixo baiano, os escritórios de advocacia contratados pelo banco, as
+  empresas que integralizaram cotas do FII com ativos sobreavaliados, os fundos da cadeia societária
+  indireta da PKL One, os alvos e testemunhas citados nas conversas de Vorcaro e Mourão, os policiais e
+  servidores que atenderam a consultas de Marilson Roseno, e os governantes que assinaram os decretos de
+  margem consignável em que o CredCesta passou a operar. Com 106 relações e um evento novo — o episódio de
+  intimidação em Angra dos Reis, de 04/06/2024, que estava documentado em evidências mas não existia como
+  nó —, o acervo passa a ter zero entidade solta: as 383 pessoas e organizações formam um único componente
+  conexo. Nenhum fato novo entra: o que muda é que todo fato já publicado passa a ser percorrível.'
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 0
+  relationships: 106
+  sources: 0
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'Correção estrutural, terceira e última etapa: as 102 entidades que ainda estavam publicadas sem nenhuma
+  conexão no grafo passam a ter as relações que suas próprias fontes já sustentavam. O acervo sai de 131
+  entidades soltas para nenhuma, e o componente principal do grafo vai de 250 para 383 nós — todas as
+  entidades publicadas.'
+- 'Lacuna de registro: o episódio de intimidação de 04/06/2024 em Angra dos Reis, contra o capitão e o
+  ex-chefe de cozinha da embarcação usada por Daniel Vorcaro, estava descrito em evidências e em páginas de
+  pessoa, mas não existia como evento. Passa a existir, com as vítimas e a testemunha registradas como
+  participantes — e a nota expressa de que figuram no acervo como vítimas, não como investigados.'
+- 'Cautela preservada: as pessoas que aparecem no acervo apenas como alvo das conversas do grupo — entre
+  elas André Flores Tavares, Gabriel Garrido Lacerda, Sean Monteine, Daniel Marinelli Meira e Antônio
+  Augusto Conte — foram ligadas como alegação atribuída, com a ressalva explícita, em cada relação, de que
+  constam como alvos e não como investigados.'
+- 'Cautela preservada: nas ligações envolvendo servidores cujos logins institucionais foram usados em
+  consultas indevidas, as descrições registram que a representação policial não estabelece que eles
+  próprios tenham feito as consultas.'
+author: orquestrador
+affected_ids:
+- fundo-de-previdencia-municipal-de-imbituva
+- tribunal-de-contas-do-estado-do-parana
+- foco-dtvm
+- fundo-brazil-realty
+- comissao-de-valores-mobiliarios
+- banco-master
+- credcesta
+- pkl-one-participacoes
+- marilson-roseno-da-silva
+- luiz-phillipi-mourao
+- daniel-vorcaro
+- a-turma
+- policia-federal
+- andrei-rodrigues
+- jaques-wagner
+- thiago-miranda
+- supremo-tribunal-federal
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'

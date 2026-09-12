@@ -1,0 +1,25 @@
+id: rel-monica-waldvogel-andrei-rodrigues-communication
+kind: relationship
+from_id: monica-waldvogel
+to_id: andrei-rodrigues
+relationship_type: communication
+directed: true
+label: relatou conversa com ele sobre os relatórios de inteligência
+description: Em programa da GloboNews de 03/09/2026, a jornalista Mônica Waldvogel relatou ter apurado, em conversa
+  com Andrei Rodrigues, que a Polícia Federal vinha produzindo relatórios de inteligência para consumo próprio.
+  A fala foi transcrita na própria decisão de André Mendonça de 08/09/2026.
+evidence_class: D
+confidence: 0.8
+status: unverified
+evidence_ids:
+- ev-waldvogel-cita-andrei-relatorios-solicitados-por-moraes
+document_ids:
+- doc-2026-09-08-decisao-mendonca-afasta-andrei-pet16662
+source_ids:
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
+start_date: '2026-09-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

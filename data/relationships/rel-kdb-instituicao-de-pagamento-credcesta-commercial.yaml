@@ -1,0 +1,23 @@
+id: rel-kdb-instituicao-de-pagamento-credcesta-commercial
+kind: relationship
+from_id: kdb-instituicao-de-pagamento
+to_id: credcesta
+relationship_type: commercial
+directed: true
+label: operadora concorrente credenciada nas mesmas folhas
+description: A KDB Instituição de Pagamento é credenciada para operar cartão de benefício consignado nas folhas
+  do Rio Grande do Norte, desde dezembro de 2022, e da Paraíba — as mesmas folhas em que o CredCesta opera, sob
+  o mesmo desenho regulatório de margem exclusiva.
+evidence_class: C
+confidence: 0.7
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-doepb-2025-01-22-decreto-46174-margem-reserva-integral-e-isencao
+- src-doern-2022-07-20-termo-adesao-03-2022-sead-pkl-one
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

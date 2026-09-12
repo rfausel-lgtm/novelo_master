@@ -1,0 +1,24 @@
+id: rel-joana-machado-de-moraes-mourao-luiz-phillipi-mourao-familial
+kind: relationship
+from_id: joana-machado-de-moraes-mourao
+to_id: luiz-phillipi-mourao
+relationship_type: familial
+directed: false
+label: parentesco sugerido pelo sobrenome, não esclarecido no acervo
+description: Joana Machado de Moraes Mourão requereu ao STF, em 29/05/2026, a restituição de um Range Rover apreendido
+  em busca contra Luiz Phillipi Machado de Moraes Mourão, alegando ser proprietária de boa-fé. Compartilha com ele
+  o sobrenome completo, o que sugere parentesco — vínculo que nenhuma fonte do acervo esclarece.
+evidence_class: A
+confidence: 0.5
+status: unverified
+evidence_ids: []
+document_ids:
+- doc-2026-07-21-manifestacao-pgr-marilson-belline-mourao-cvm
+source_ids:
+- src-mpf-pgr-2026-07-21-manifestacao-marilson-belline-cvm-mourao
+start_date: '2026-05-29'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,23 @@
+id: rel-jorge-messias-andre-mendonca-institutional
+kind: relationship
+from_id: jorge-messias
+to_id: andre-mendonca
+relationship_type: institutional
+directed: false
+label: alvo do mesmo monitoramento ilícito, segundo a decisão
+description: Segundo a decisão de André Mendonça na Pet 16.662, lida integralmente pela equipe, o Advogado-Geral
+  da União Jorge Messias foi, junto com o próprio ministro, alvo do mesmo monitoramento ilícito apurado no caso
+  do relatório de inteligência apócrifo.
+evidence_class: D
+confidence: 0.8
+status: unverified
+evidence_ids: []
+document_ids:
+- doc-2026-09-08-decisao-mendonca-afasta-andrei-pet16662
+source_ids:
+- src-verificacao-direta-equipe-pet16662-documentos-primarios
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

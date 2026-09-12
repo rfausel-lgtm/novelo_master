@@ -1,0 +1,23 @@
+id: rel-joao-doria-credcesta-political
+kind: relationship
+from_id: joao-doria
+to_id: credcesta
+relationship_type: political
+directed: true
+label: assinou o decreto paulista que criou a espécie 'cartão de benefício'
+description: No último dia de seu mandato como governador de São Paulo, João Doria assinou o decreto que criou na
+  folha do funcionalismo paulista a espécie 'cartão de benefício' — a categoria em que o CredCesta viria a operar
+  no maior estado do país.
+evidence_class: C
+confidence: 0.8
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-alesp-decreto-66622-2022-cartao-beneficio
+- src-doesp-2022-04-15-resolucao-sfp-26-margem-50
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

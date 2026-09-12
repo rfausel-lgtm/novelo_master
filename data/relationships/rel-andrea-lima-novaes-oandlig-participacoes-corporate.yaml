@@ -1,0 +1,22 @@
+id: rel-andrea-lima-novaes-oandlig-participacoes-corporate
+kind: relationship
+from_id: andrea-lima-novaes
+to_id: oandlig-participacoes
+relationship_type: corporate
+directed: true
+label: administradora conjunta desde 23/02/2023
+description: A O&Lig Participações (CNPJ 49.678.809/0001-66, Salvador/BA) é administrada conjuntamente por Andréa
+  Lima Novaes e Ana Paula de Almeida Pithon desde 23/02/2023, tendo o Diamond FIP como sócio.
+evidence_class: A
+confidence: 0.7
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-minhareceita-2026-09-05-andrea-lima-novaes-empresas
+start_date: '2023-02-23'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

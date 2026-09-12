@@ -1,0 +1,23 @@
+id: rel-wedson-caje-lopes-david-agape-allegation
+kind: relationship
+from_id: wedson-caje-lopes
+to_id: david-agape
+relationship_type: investigative_allegation
+directed: false
+label: apontado pela newsletter dele como o único com acesso à decisão
+description: A newsletter 'A Investigação', de David Ágape, cita Wedson Cajé Lopes como o único integrante de uma
+  equipe da Polícia Federal com acesso a uma decisão do ministro André Mendonça, no contexto da apuração sobre a
+  autoria do relatório apócrifo. Trata-se de apontamento jornalístico de fonte única, não confirmado por documento
+  nem por autoridade.
+evidence_class: A
+confidence: 0.4
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-ainvestigacao-2026-09-04-pistas-autor-dossie-mendonca
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

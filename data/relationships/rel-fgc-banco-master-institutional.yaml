@@ -1,0 +1,24 @@
+id: rel-fgc-banco-master-institutional
+kind: relationship
+from_id: fgc
+to_id: banco-master
+relationship_type: institutional
+directed: true
+label: pagou a cobertura aos credores do banco liquidado
+description: O Fundo Garantidor de Créditos, entidade privada mantida por contribuições compulsórias dos bancos
+  associados, iniciou em 17/01/2026 o pagamento da cobertura aos credores do Banco Master, dentro do limite regulamentar
+  de R$ 250 mil por CPF.
+evidence_class: C
+confidence: 0.85
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-fgc-2026-01-17-inicio-pagamento-master
+- src-fgc-2026-04-28-relatorio-anual-123bi
+start_date: '2026-01-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

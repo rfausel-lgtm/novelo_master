@@ -1,0 +1,23 @@
+id: rel-william-marcel-murad-andrei-rodrigues-institutional
+kind: relationship
+from_id: william-marcel-murad
+to_id: andrei-rodrigues
+relationship_type: institutional
+directed: true
+label: assumiu interinamente a Direção-Geral após o afastamento dele
+description: O delegado William Marcel Murad, diretor-executivo da Polícia Federal desde janeiro de 2025, assumiu
+  interinamente a Direção-Geral da corporação em 08/09/2026, após o afastamento cautelar de Andrei Rodrigues determinado
+  pelo STF.
+evidence_class: A
+confidence: 0.75
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-nsctotal-2026-09-08-quem-assume-pf-murad
+start_date: '2026-09-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

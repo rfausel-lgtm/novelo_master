@@ -1,0 +1,23 @@
+id: rel-emerson-jose-pedroso-fundo-de-previdencia-municipal-de-imbituva-professional
+kind: relationship
+from_id: emerson-jose-pedroso
+to_id: fundo-de-previdencia-municipal-de-imbituva
+relationship_type: professional
+directed: true
+label: presidente do comitê de investimentos
+description: Emerson José Pedroso preside o Comitê de Investimentos do Fundo de Previdência Municipal de Imbituva
+  (PR). Sob sua presidência, o comitê deliberou por unanimidade, em 19/08/2025, manter a aplicação em Letras Financeiras
+  do Banco Master.
+evidence_class: A
+confidence: 0.7
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-tcepr-2026-04-06-despacho-zucchi-imbituva-tomada-contas
+start_date: '2025-08-19'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,25 @@
+id: rel-nayara-maria-dias-albuquerque-de-sa-marilson-roseno-da-silva-allegation
+kind: relationship
+from_id: nayara-maria-dias-albuquerque-de-sa
+to_id: marilson-roseno-da-silva
+relationship_type: investigative_allegation
+directed: true
+label: e-mail funcional usado em pedidos de remoção de conteúdo, segundo a PF
+description: Segundo a representação da PF de 27/02/2026, o e-mail funcional da servidora do Ministério Público
+  do Ceará Nayara Maria Dias Albuquerque de Sá foi usado, em outubro de 2024, para enviar pedidos de remoção de
+  contas a plataformas digitais em nome de ofício atribuído ao órgão. A representação não estabelece que ela própria
+  tenha enviado os pedidos.
+evidence_class: A
+confidence: 0.55
+status: unverified
+evidence_ids: []
+document_ids:
+- doc-2026-02-27-representacao-pf-pet15556-edoc1
+source_ids:
+- src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+start_date: 2024-10
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,24 @@
+id: rel-acm-neto-a-m-consultoria-corporate
+kind: relationship
+from_id: acm-neto
+to_id: a-m-consultoria
+relationship_type: corporate
+directed: true
+label: sócio administrador da consultoria
+description: A A&M Consultoria (CNPJ 48.998.315/0001-04, Salvador/BA, aberta em 28/12/2022) tem Antonio Carlos Peixoto
+  de Magalhães Neto — ACM Neto — como sócio administrador. Não é escritório de advocacia, e sim consultoria em gestão
+  empresarial.
+evidence_class: C
+confidence: 0.8
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-correiobraziliense-2026-03-acm-neto-36-milhoes-master-reag
+- src-bahiaba-2026-acm-neto-confirma-54-milhoes
+start_date: '2022-12-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

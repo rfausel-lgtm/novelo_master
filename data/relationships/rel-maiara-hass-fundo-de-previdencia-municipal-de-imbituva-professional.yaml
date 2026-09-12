@@ -1,0 +1,22 @@
+id: rel-maiara-hass-fundo-de-previdencia-municipal-de-imbituva-professional
+kind: relationship
+from_id: maiara-hass
+to_id: fundo-de-previdencia-municipal-de-imbituva
+relationship_type: professional
+directed: true
+label: integrante do comitê de investimentos
+description: Maiara Hass integra o Comitê de Investimentos do Fundo de Previdência Municipal de Imbituva (PR) e
+  é citada pelo TCE-PR, em Tomada de Contas Extraordinária de 06/04/2026, como uma das responsáveis solidárias pelo
+  dano ao erário.
+evidence_class: A
+confidence: 0.7
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-tcepr-2026-04-06-despacho-zucchi-imbituva-tomada-contas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

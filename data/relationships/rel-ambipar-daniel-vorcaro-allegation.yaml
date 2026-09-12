@@ -1,0 +1,23 @@
+id: rel-ambipar-daniel-vorcaro-allegation
+kind: relationship
+from_id: ambipar
+to_id: daniel-vorcaro
+relationship_type: investigative_allegation
+directed: true
+label: investigada por venda de títulos do Master ao BRB
+description: 'A Ambipar é investigada na Operação Compliance Zero por mecanismo distinto do já registrado no acervo:
+  a apuração trata da venda de títulos de crédito do Banco Master ao BRB envolvendo a empresa. É frente diferente
+  da compra coordenada de ações via Texas I FIA.'
+evidence_class: A
+confidence: 0.6
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-stf-pet15556-edoc353-decisao-oitiva-vorcaro-cvm-24-07-2026
+- src-poder360-2026-09-08-namorada-andrei-lobby-ambipar
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

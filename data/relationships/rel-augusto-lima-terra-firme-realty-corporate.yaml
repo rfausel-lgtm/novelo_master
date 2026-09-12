@@ -1,0 +1,22 @@
+id: rel-augusto-lima-terra-firme-realty-corporate
+kind: relationship
+from_id: augusto-lima
+to_id: terra-firme-realty
+relationship_type: corporate
+directed: true
+label: holding com dois empreendimentos de luxo em Salvador
+description: A Terra Firme Realty (capital social de R$ 99,4 milhões, sede em Salvador) é holding de Augusto Ferreira
+  Lima e controlava dois empreendimentos residenciais de luxo na capital baiana.
+evidence_class: C
+confidence: 0.8
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-advdinamico-2026-09-terra-firme-realty-socios-spes
+- src-cnpja-2026-09-terra-firme-realty-cnpj-raiz
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

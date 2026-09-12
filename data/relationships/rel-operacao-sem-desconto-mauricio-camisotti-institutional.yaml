@@ -1,0 +1,21 @@
+id: rel-operacao-sem-desconto-mauricio-camisotti-institutional
+kind: relationship
+from_id: operacao-sem-desconto
+to_id: mauricio-camisotti
+relationship_type: institutional
+directed: true
+label: apontado pela PF como operador central do esquema
+description: Segundo a Polícia Federal, Maurício Camisotti foi operador central e beneficiário direto das fraudes
+  apuradas na Operação Sem Desconto, sobre descontos indevidos em benefícios do INSS. Foi preso em setembro de 2025.
+evidence_class: A
+confidence: 0.65
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-poder360-2026-09-04-mendonca-beneficio-ilegal-camisotti
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

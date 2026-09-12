@@ -1,0 +1,24 @@
+id: rel-ngvspe-empreendimentos-participacoes-empresa-baiana-de-alimentos-corporate
+kind: relationship
+from_id: ngvspe-empreendimentos-participacoes
+to_id: empresa-baiana-de-alimentos
+relationship_type: corporate
+directed: true
+label: arrematou o leilão da estatal por R$ 15 milhões
+description: A NGVSPE Empreendimentos e Participações (CNPJ 29.334.799/0001-34) arrematou o leilão da Empresa Baiana
+  de Alimentos em 11/04/2018, por R$ 15 milhões. Foi constituída em 29/12/2017, pouco mais de cem dias antes do
+  leilão.
+evidence_class: C
+confidence: 0.85
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-brasilapi-2026-ngvspe-empreendimentos
+- src-poder360-2026-credcesta-privatizado-15-milhoes-dividas-93
+start_date: '2018-04-11'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

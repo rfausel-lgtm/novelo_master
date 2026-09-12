@@ -1,0 +1,41 @@
+id: evt-2024-06-04-intimidacao-angra-dos-reis
+kind: event
+title: A Turma intimida o capitão e o ex-chefe de cozinha de Vorcaro em Angra dos Reis
+event_type: other
+date: '2024-06-04'
+date_precision: day
+location: Marina Bracuhy e Hotel Nacional Inn, Angra dos Reis/RJ
+participant_ids:
+- a-turma
+- luiz-phillipi-mourao
+- manoel-mendes-rodrigues
+- daniel-vorcaro
+- luis-felipe-woyceichoski
+- leandro-garcia
+- tatiana-dantas-carta
+description: Segundo a representação da PF e a decisão de 13/05/2026, integrantes do núcleo 'A Turma' se deslocaram
+  à Marina Bracuhy, em Angra dos Reis/RJ, para ameaçar Luís Felipe Woyceichoski, então capitão da embarcação usada
+  por Daniel Vorcaro, e em seguida ao Hotel Nacional Inn para constranger o ex-chefe de cozinha Leandro Garcia.
+  A cronologia descrita pela autoridade policial indica que, em 28/05/2024, Vorcaro encaminhou a Luiz Phillipi Mourão
+  documentos das duas vítimas determinando 'levantamento de tudo' e que 'teriam que ir pra cima'. Woyceichoski relatou
+  ter sido ameaçado de morte por cerca de sete homens, um dos quais se identificou como 'Manoel, amigo de Daniel
+  Vorcaro, que mexia com jogo do bicho'; Leandro Garcia descreveu abordagem semelhante e reconheceu Manoel Mendes
+  Rodrigues com elevado grau de certeza em procedimento formal de reconhecimento fotográfico (art. 226 do CPP).
+  Tatiana Dantas Carta, chefe de comissários de bordo do Solar I, relatou ter sido abordada por seis a sete homens
+  que procuravam pelo capitão. Woyceichoski, Garcia e Tatiana figuram no acervo como vítimas e testemunha, não como
+  investigados.
+evidence_class: D
+status: unverified
+evidence_ids:
+- ev-manoel-mendes-reconhecido-por-leandro-garcia
+source_ids:
+- src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+- src-stf-pet15978-edoc2-representacao-pf-sexta-fase
+document_ids:
+- doc-2026-05-13-decisao-pet15978-sexta-fase-os-meninos
+- doc-2026-05-representacao-pf-pet15978-sexta-fase
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

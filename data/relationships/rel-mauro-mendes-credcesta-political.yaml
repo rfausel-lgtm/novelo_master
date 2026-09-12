@@ -1,0 +1,24 @@
+id: rel-mauro-mendes-credcesta-political
+kind: relationship
+from_id: mauro-mendes
+to_id: credcesta
+relationship_type: political
+directed: true
+label: assinou o decreto de Mato Grosso que criou a margem exclusiva de 10%
+description: Mauro Mendes assinou, em 05/05/2023, o decreto que criou em Mato Grosso a margem consignável exclusiva
+  de 10% para cartão de benefício. É investigado no Superior Tribunal de Justiça a pedido da Procuradoria-Geral
+  da República.
+evidence_class: C
+confidence: 0.8
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-sefazmt-decreto-257-2023-texto-oficial
+- src-metropoles-2026-06-stj-investiga-mauro-mendes-master
+start_date: '2023-05-05'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

@@ -1,0 +1,24 @@
+id: rel-elisangela-capassi-foco-dtvm-professional
+kind: relationship
+from_id: elisangela-capassi
+to_id: foco-dtvm
+relationship_type: professional
+directed: true
+label: diretora responsável pela administração fiduciária (2018-2019)
+description: Elisângela Capassi foi diretora responsável pela administração fiduciária da Sefer Investimentos, hoje
+  Foco DTVM, de 06/12/2018 a 30/04/2019. Em defesa ao processo sancionador da CVM, relatou ter encontrado a distribuidora
+  em cenário operacional precário.
+evidence_class: C
+confidence: 0.8
+status: verified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+- src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
+start_date: '2018-12-06'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

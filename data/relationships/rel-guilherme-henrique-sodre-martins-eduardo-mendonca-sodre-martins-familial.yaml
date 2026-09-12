@@ -1,0 +1,21 @@
+id: rel-guilherme-henrique-sodre-martins-eduardo-mendonca-sodre-martins-familial
+kind: relationship
+from_id: guilherme-henrique-sodre-martins
+to_id: eduardo-mendonca-sodre-martins
+relationship_type: familial
+directed: false
+label: pai biológico
+description: Guilherme Henrique Sodré Martins é pai biológico de Eduardo Mendonça Sodré Martins, enteado do senador
+  Jaques Wagner identificado por decisão do STF na Pet 16.229.
+evidence_class: A
+confidence: 0.75
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-metropoles-2026-guilherme-sodre-martins-melhor-amigo-wagner-9afase
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'

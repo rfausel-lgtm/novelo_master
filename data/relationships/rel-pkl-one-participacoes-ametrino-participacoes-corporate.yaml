@@ -1,0 +1,21 @@
+id: rel-pkl-one-participacoes-ametrino-participacoes-corporate
+kind: relationship
+from_id: pkl-one-participacoes
+to_id: ametrino-participacoes
+relationship_type: corporate
+directed: true
+label: sócia da holding, ao lado do Diamond FIP
+description: A PKL One Participações, operadora do cartão CredCesta, figura como sócia da Ametrino Participações
+  ao lado do Diamond Fundo de Investimento em Participações–Multiestratégia.
+evidence_class: A
+confidence: 0.7
+status: unverified
+evidence_ids: []
+document_ids: []
+source_ids:
+- src-minhareceita-2026-09-05-andrea-lima-novaes-empresas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-11'
+created_at: '2026-09-11'
+updated_at: '2026-09-11'
