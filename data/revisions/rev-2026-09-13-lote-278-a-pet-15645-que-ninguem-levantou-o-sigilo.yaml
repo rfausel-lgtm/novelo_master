@@ -1,0 +1,35 @@
+id: rev-2026-09-13-lote-278-a-pet-15645-que-ninguem-levantou-o-sigilo
+kind: revision
+date: '2026-09-13'
+title: 'Lote 278 — a Pet 15.645, que ninguém levantou o sigilo, tem "elementos essenciais" para o julgamento
+  de terça'
+summary: 'Ofício GMAM nº 11/2026 (13/09/2026, Pet 16.704), lido diretamente do PDF (texto nativo). Alexandre
+  de Moraes informa a Fachin que a Pet 15.645 — distribuída por prevenção a André Mendonça — não teve o
+  sigilo levantado, apesar da ordem de 11/09/2026 que mandava levantar o sigilo de todos os procedimentos
+  ligados à Pet 15.556/Operação Compliance Zero. Segundo Moraes, essa petição específica "possui elementos
+  essenciais para o julgamento da PET 16662", marcado para 15/09/2026 — o julgamento que decidirá se ele
+  próprio será investigado. Pede que Fachin determine o levantamento do sigilo e a disponibilização dos
+  autos a todo o colegiado antes da sessão. Não há, até esta coleta, notícia pública sobre o que a Pet 15.645
+  contém nem resposta publicada de Fachin ao pedido.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'alexandre-de-moraes / edson-fachin: acrescentado o pedido de 13/09/2026 para levantamento do sigilo da
+  Pet 15.645, apontada como tendo elementos essenciais para o julgamento de 15/09.'
+author: orquestrador
+affected_ids:
+- alexandre-de-moraes
+- edson-fachin
+- andre-mendonca
+reason: Fork de download baixou o Ofício GMAM nº 11/2026, cujo conteúdo tinha sido apenas parcialmente
+  descrito por uma sessão anterior (já encerrada); a leitura direta do PDF confirmou e detalhou o texto.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

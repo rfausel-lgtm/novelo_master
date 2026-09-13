@@ -1,0 +1,25 @@
+id: doc-2026-09-13-oficio-gmam11-moraes-cobra-sigilo-pet15645
+kind: document
+title: Ofício GMAM nº 11/2026 — Moraes cobra o levantamento do sigilo da Pet 15.645
+doc_type: letter
+date: '2026-09-13'
+date_precision: day
+source_ids:
+- src-stf-pet16704-oficio-gmam11-2026-09-13-pet15645-sigilo
+summary: 'Moraes informa a Fachin que a Pet 15.645 — distribuída por prevenção a André Mendonça — não teve
+  o sigilo levantado apesar da ordem de 11/09/2026, e que ela contém "elementos essenciais para o julgamento
+  da PET 16662", marcado para 15/09/2026. Pede que Fachin determine o levantamento do sigilo e a
+  disponibilização dos autos a todo o colegiado antes do julgamento.'
+is_official: true
+related_entity_ids:
+- alexandre-de-moraes
+- edson-fachin
+- andre-mendonca
+issuer_id: alexandre-de-moraes
+issuer: Ministro Alexandre de Moraes
+reference: PET 16.704/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
