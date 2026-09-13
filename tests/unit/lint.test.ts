@@ -322,3 +322,94 @@ describe("fonte de pista (blog/rede social)", () => {
     );
   });
 });
+
+/*
+ * Consistência das ligações: as três formas de ligação errada que a análise do grafo de 13/09/2026
+ * achou com todos os registros válidos um a um.
+ */
+describe("consistência das ligações", () => {
+  const avisos = (c: Corpus, padrao: RegExp) =>
+    lintCorpus(c).filter((i) => i.level === "warning" && padrao.test(i.message));
+
+  it("corpus mínimo não dispara nenhuma das regras", () => {
+    expect(
+      avisos(minimalCorpus(), /mesma start_date|transaction_ids|cargo|sem nenhuma ligação/),
+    ).toEqual([]);
+  });
+
+  /* Caso Viking–Barci: o mesmo contrato no lote 11 e no lote 84, com tipos diferentes. */
+  it("avisa quando duas relações do mesmo par têm a mesma start_date, e o aviso bloqueia", () => {
+    const c = minimalCorpus();
+    const original = c.relationships[1];
+    c.relationships.push({
+      ...original,
+      id: "rel-pessoa-b-pessoa-a-professional",
+      relationship_type: "professional",
+      from_id: "pessoa-b",
+      to_id: "pessoa-a",
+    });
+    const [aviso] = avisos(c, /mesma start_date/);
+    expect(aviso?.published).not.toBe(false);
+  });
+
+  it("não confunde duas relações do mesmo par em datas diferentes", () => {
+    const c = minimalCorpus();
+    c.relationships.push({
+      ...c.relationships[1],
+      id: "rel-pessoa-a-pessoa-b-allegation-2",
+      start_date: "2026-06-01",
+    });
+    expect(avisos(c, /mesma start_date/)).toEqual([]);
+  });
+
+  /* Caso Frias–ICB: as mesmas emendas como relação e como transação. */
+  it("avisa sobre relação e transação do mesmo par no mesmo ano, e cala quando a relação aponta a transação", () => {
+    const c = minimalCorpus();
+    c.transactions.push({
+      id: "tx-2026-teste",
+      kind: "transaction",
+      title: "Pagamento",
+      transaction_type: "payment",
+      from_id: "pessoa-b",
+      to_id: "pessoa-a",
+      currency: "BRL",
+      date: "2026",
+      description: "Pagamento.",
+      evidence_class: "A",
+      status: "unverified",
+      evidence_ids: ["ev-a"],
+      source_ids: ["src-imprensa"],
+      document_ids: [],
+      event_ids: [],
+      cited_position: [],
+      tags: [],
+      review_status: "published",
+      created_at: "2026-09-01",
+      updated_at: "2026-09-01",
+    } as unknown as Corpus["transactions"][number]);
+    expect(avisos(c, /transaction_ids/)).toHaveLength(1);
+    c.relationships[1].transaction_ids = ["tx-2026-teste"];
+    expect(avisos(c, /transaction_ids/)).toEqual([]);
+  });
+
+  /* Caso Flávio Dino: ministro do STF na ficha, sem aresta com o STF no grafo. */
+  it("avisa sobre cargo sem relação entre a pessoa e a organização", () => {
+    const c = minimalCorpus();
+    c.people[1].positions = [{ title: "Diretora", organization_id: "org-x", source_ids: [] }];
+    expect(avisos(c, /cargo "Diretora"/)).toHaveLength(1);
+  });
+
+  it("avisa sobre entidade sem nenhuma ligação e cala quando isolation_reason explica", () => {
+    const c = minimalCorpus();
+    c.people.push({ ...c.people[1], id: "pessoa-c", name: "Pessoa Solta" });
+    expect(avisos(c, /sem nenhuma ligação/).map((i) => i.file)).toEqual(["people/pessoa-c.yaml"]);
+    c.people[2].isolation_reason = "O documento a nomeia sem descrever vínculo.";
+    expect(avisos(c, /sem nenhuma ligação/)).toEqual([]);
+  });
+
+  it("avisa quando isolation_reason sobra numa entidade que tem ligação", () => {
+    const c = minimalCorpus();
+    c.people[0].isolation_reason = "Justificativa esquecida.";
+    expect(avisos(c, /isolation_reason declarado/)).toHaveLength(1);
+  });
+});

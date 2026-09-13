@@ -1,0 +1,26 @@
+id: rel-neilton-paixao-de-jesus-itaprevi-itaguai-professional
+kind: relationship
+from_id: neilton-paixao-de-jesus
+to_id: itaprevi-itaguai
+relationship_type: professional
+directed: false
+label: dirigente da unidade gestora
+description: Neilton Paixão de Jesus dirigia o Instituto de Previdência de Itaguaí e assinou
+  digitalmente, em 16/01/2024, nos campos do dirigente da unidade gestora e do gestor de recursos, o
+  termo de credenciamento do Banco Master.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids:
+- evt-2024-01-16-itaprevi-assina-o-termo-do-master
+evidence_ids:
+- ev-mesma-pessoa-assinou-os-dois-campos-do-rpps
+source_ids:
+- src-itaprevi-processo-200000015-2024
+document_ids:
+- doc-2024-01-16-termo-credenciamento-001-itaprevi
+review_status: published
+reviewer: sessão de código (saneamento de consistência do grafo)
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

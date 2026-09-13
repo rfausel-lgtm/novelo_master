@@ -1,0 +1,26 @@
+id: rel-gabriel-pimenta-alves-ministerio-publico-federal-institutional
+kind: relationship
+from_id: gabriel-pimenta-alves
+to_id: ministerio-publico-federal
+relationship_type: institutional
+directed: false
+label: procurador da República (PR-DF)
+description: 'Gabriel Pimenta Alves atua como procurador da República no Distrito Federal: juntou, em
+  11/04/2025, a representação do deputado Antônio Carlos Rodrigues à Notícia de Fato que originou o IPL
+  2025.0087917, e opôs embargos à decisão de primeiro grau que remeteu o caso ao STF, em dezembro de
+  2025.'
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+document_ids:
+- doc-2025-12-03-decisao-1a-instancia-suspende-pf-remete-stf
+- doc-2025-04-02-representacao-deputado-antonio-carlos-rodrigues
+review_status: published
+reviewer: sessão de código (saneamento de consistência do grafo)
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -26,8 +26,10 @@ open_questions:
   entidade própria por ora, seguindo a numeração da própria decisão, que a lista separadamente.'
 source_ids:
 - src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
+isolation_reason: A decisão da PET 15.478 a nomeia como alvo ao lado da Terra Firme da Bahia, mas o
+  acervo não confirmou, por registro cadastral, quem a controla; a ligação fica pendente de documento.
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'
 created_at: '2026-09-12'
-updated_at: '2026-09-12'
+updated_at: '2026-09-13'

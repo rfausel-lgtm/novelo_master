@@ -1,0 +1,26 @@
+id: rel-priscila-franca-parigine-the-pay-solucoes-de-pagamentos-corporate
+kind: relationship
+from_id: priscila-franca-parigine
+to_id: the-pay-solucoes-de-pagamentos
+relationship_type: corporate
+directed: false
+label: sócia-administradora formal desde 28/04/2025
+start_date: '2025-04-28'
+description: Segundo pesquisa societária do MPF (Relatório 1838/2025), Priscila Franca Parigine assumiu
+  formalmente a representação da The-Pay em 28/04/2025. O MPF aponta indícios de que a administração
+  formal da empresa, desde 2024, é exercida por interpostas pessoas; os documentos lidos não lhe atribuem
+  conhecimento do esquema.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+document_ids:
+- doc-2025-relatorio-asspa-1838-the-pay-societario
+review_status: published
+reviewer: sessão de código (saneamento de consistência do grafo)
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
