@@ -1,0 +1,29 @@
+id: rev-2026-09-12-correcao-o-relatorio-da-pf-sobre-toffoli-e-um-so
+kind: revision
+date: '2026-09-12'
+title: 'Correção — o relatório da PF sobre Toffoli é um só, e registra 12 encontros com Vorcaro'
+summary: 'O lote 262 deixou em aberto se "mais de 80 páginas" e "196 páginas" descreviam dois relatórios da PF sobre Dias
+  Toffoli. Não descrevem: o Correio Braziliense trata no mesmo texto a IPJ-A nº 893171/2026 e o relatório de quase
+  duzentas páginas como um único documento. A mesma reportagem acrescenta que a PF documentou ao menos 12 encontros
+  presenciais entre o ministro e Daniel Vorcaro entre o fim de 2023 e o início de 2025 e 167 ligações por aplicativo, e
+  que os ministros que analisaram o relatório decidiram arquivá-lo.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'ev-pf-hipotese-de-que-toffoli-seria-beneficiario-final-do-fundo-arleen: resolvida a divergência sobre o tamanho do
+  relatório e incluídos encontros e ligações descritos pela imprensa.'
+author: orquestrador
+affected_ids:
+- dias-toffoli
+- daniel-vorcaro
+reason: Apuração de uma sessão paralela do projeto, conferida aqui na reportagem do Correio Braziliense.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
