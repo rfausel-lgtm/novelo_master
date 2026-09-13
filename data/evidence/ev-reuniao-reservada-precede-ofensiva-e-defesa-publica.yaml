@@ -1,0 +1,22 @@
+id: ev-reuniao-reservada-precede-ofensiva-e-defesa-publica
+kind: evidence
+classification: A
+proposition: Alexandre de Moraes e Davi Alcolumbre se reuniram reservadamente por cerca de três horas na
+  residência do senador, no Lago Sul, em 02/09/2026, véspera da decisão de Moraes de 03/09/2026 contra
+  Mendonça (que cita Alcolumbre nominalmente como um dos alvos do suposto direcionamento). Horas depois do
+  encontro, Alcolumbre saiu em defesa pública de Moraes.
+document_ids: []
+source_ids:
+- src-rumonews-2026-09-reuniao-moraes-alcolumbre-3-horas
+- src-terrabrasilnoticias-2026-09-reuniao-moraes-alcolumbre
+attributed_to: Imprensa, sem identificação de fonte primária para o conteúdo da reunião
+excerpt: o encontro reservado ocorreu na residência do parlamentar
+date: '2026-09-02'
+notes: Coincidência temporal forte (reunião na véspera; decisão no dia seguinte; defesa pública horas depois),
+  mas nenhuma fonte estabelece causalidade nem reproduz o conteúdo da conversa — a equipe não confirma que
+  a decisão de Moraes tenha sido combinada ou influenciada pelo encontro, apenas registra a sequência.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

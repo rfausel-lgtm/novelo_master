@@ -40,6 +40,11 @@ open_questions:
   a busca de 07/05/2026 contra ele — entre 17 processos correlatos à Compliance Zero que ficaram de fora do
   levantamento de sigilo de 10/09/2026 (ver ev-pgr-lista-17-processos-omitidos-do-levantamento-de-sigilo).
   Não implica, por si, nenhum fato novo sobre ele além do que o acervo já documenta.
+- 'Achado em 13/09/2026: reportagens de fevereiro de 2026 o identificam, ao lado de Davi Alcolumbre, entre
+  os presentes/debatedores do 1º Fórum Jurídico Brasil de Ideias (Londres, 24-26/04/2024), evento patrocinado
+  pelo Banco Master — quatro meses antes de apresentar a Emenda 11. Sem indicação de presença na degustação
+  de Macallan mais restrita, do dia seguinte, custeada por Vorcaro; sem manifestação dele sobre o próprio
+  fórum localizada pela equipe.'
 source_ids:
 - src-stf-pet16704-manifestacoes-pgr-2026-09-11-12
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
@@ -50,9 +55,11 @@ source_ids:
 - src-jdb-2026-05-12-ciro-nega-emenda
 - src-metropoles-2026-05-07-defesa-ciro
 - src-senado-plp-135-2026-fgc
+- src-otempo-2026-02-evento-londres-alcolumbre-participantes
+- src-jornaldebrasilia-2026-empresas-acoes-stf-evento-londres
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-13'
 created_at: '2026-09-03'
 updated_at: '2026-09-13'
 photo:

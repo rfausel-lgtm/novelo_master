@@ -1,0 +1,28 @@
+id: rel-antonio-rueda-davi-alcolumbre-political
+kind: relationship
+from_id: antonio-rueda
+to_id: davi-alcolumbre
+relationship_type: political
+directed: false
+label: rivais pelo comando estratégico do União Brasil
+description: 'Rueda (presidente nacional do União Brasil) e Alcolumbre (presidente do Senado, também do
+  partido) disputam publicamente os rumos da sigla para 2026: Alcolumbre busca estreitar laços com o governo
+  Lula, enquanto Rueda, ao lado de ACM Neto, defende postura mais distante e crítica à gestão petista. Pontos
+  de atrito incluem a indicação de Pedro Lucas Fernandes ao Ministério das Comunicações e a pauta de anistia
+  aos réus de 8 de Janeiro. Contexto relevante para a hipótese, já registrada em ambos os verbetes, de que
+  a PF suspeitaria de Mendonça usar uma investigação sobre Rueda como via de acesso a Alcolumbre — a rivalidade
+  interna não confirma nem afasta essa hipótese, apenas mostra que os dois não formam bloco único dentro do
+  próprio partido.'
+evidence_class: A
+confidence: 0.6
+status: unverified
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-novojornal-2026-alcolumbre-rueda-disputa-uniao-brasil
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -1,0 +1,26 @@
+id: ev-alcolumbre-e-ciro-nogueira-no-forum-de-londres
+kind: evidence
+classification: C
+proposition: 'Reportagens de fevereiro de 2026 (O Tempo, Jornal de Brasília) identificam os senadores Davi
+  Alcolumbre (União Brasil-AP) e Ciro Nogueira (PP-PI) entre os presentes/debatedores do 1º Fórum Jurídico
+  Brasil de Ideias (Londres, 24-26/04/2024), evento patrocinado pelo Banco Master que reuniu também os
+  ministros do STF Dias Toffoli, Alexandre de Moraes e Gilmar Mendes, o ex-ministro Ricardo Lewandowski,
+  o diretor-geral da PF Andrei Rodrigues, o procurador-geral da República Paulo Gonet, o então
+  advogado-geral da União Jorge Messias, o ex-presidente Michel Temer e Fábio Faria (então do BTG Pactual).
+  É a primeira ligação pessoal direta — não apenas por parentes ou aliados — entre Alcolumbre e um evento
+  custeado pelo Banco Master localizada pela equipe.'
+document_ids: []
+source_ids:
+- src-otempo-2026-02-evento-londres-alcolumbre-participantes
+- src-jornaldebrasilia-2026-empresas-acoes-stf-evento-londres
+attributed_to: O Tempo e Jornal de Brasília, fevereiro de 2026
+date: '2024-04-24'
+notes: 'As reportagens listam Alcolumbre e Ciro Nogueira entre os "debatedores"/presentes do fórum, sem
+  precisar se participaram também da degustação de Macallan de 25/04 (evento distinto, mais restrito,
+  documentado por outra via em ev-viagem-a-londres-custeada-e-degustacao). O corpus não localizou
+  manifestação de Alcolumbre ou de Ciro Nogueira sobre a própria presença no fórum.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
