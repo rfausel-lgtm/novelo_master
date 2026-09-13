@@ -1,0 +1,22 @@
+id: doc-2026-03-11-certidao-redistribuicao-ms40791-toffoli-impedido
+kind: document
+title: Certidão de redistribuição do MS 40.791 ao ministro Cristiano Zanin, com impedimento de Dias Toffoli
+doc_type: judicial_decision
+date: '2026-03-11'
+date_precision: day
+source_ids:
+- src-stf-portal-ms40791-andamentos-2026-09-12
+summary: 'Registro oficial de 11/03/2026 de que o mandado de segurança sobre a instalação da CPI do Master na Câmara,
+  distribuído a Dias Toffoli no mesmo dia, foi redistribuído a Cristiano Zanin, com a anotação "Impedido(a): MIN. DIAS
+  TOFFOLI", nos termos do art. 67, § 3º, do RISTF.'
+is_official: true
+related_entity_ids:
+- dias-toffoli
+- cristiano-zanin
+issuer: Supremo Tribunal Federal
+reference: MS 40.791/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

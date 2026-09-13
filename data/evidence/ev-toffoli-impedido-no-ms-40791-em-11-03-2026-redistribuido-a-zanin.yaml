@@ -1,0 +1,24 @@
+id: ev-toffoli-impedido-no-ms-40791-em-11-03-2026-redistribuido-a-zanin
+kind: evidence
+classification: D
+proposition: Em 11/03/2026, o MS 40.791 — mandado de segurança do deputado Rodrigo Rollemberg para obrigar a Câmara a
+  instalar a CPI do Banco Master — foi distribuído ao ministro Dias Toffoli e, no mesmo dia, depois de decisão dele,
+  redistribuído ao ministro Cristiano Zanin com o registro "Impedido(a) MIN. DIAS TOFFOLI"; Zanin negou seguimento ao
+  pedido em 12/03/2026.
+document_ids:
+- doc-2026-03-11-certidao-redistribuicao-ms40791-toffoli-impedido
+source_ids:
+- src-stf-portal-ms40791-andamentos-2026-09-12
+- src-stf-2026-03-20-segunda-turma-mantem-prisao
+- src-stf-2026-03-12-rejeita-cpi
+date: '2026-03-11'
+notes: 'Corrige o acervo, que atribuía a declaração de suspeição de Toffoli à PET 15.556 e a datava de 20/03/2026 — data
+  da notícia oficial do STF que a menciona e a qualifica como suspeição por foro íntimo. Não se confunde com a saída dele
+  da relatoria da Rcl 88.121 e do INQ 5.026 em 12/02/2026, a pedido próprio, quando os demais ministros declararam não
+  caber suspeição (ver src-cnn-2026-02-12-toffoli-deixa-relatoria). A apuração que levou à correção foi feita por uma
+  sessão paralela e conferida aqui nos andamentos públicos do processo.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

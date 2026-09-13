@@ -1,0 +1,26 @@
+id: src-stf-portal-ms40791-andamentos-2026-09-12
+kind: source
+title: Andamentos oficiais do MS 40.791 no portal do STF — distribuição a Toffoli e redistribuição a Zanin por impedimento
+publisher: Supremo Tribunal Federal
+publication_date: '2026-03-11'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7526345
+source_type: official_court
+summary: 'Página pública do MS 40.791 (Rodrigo Sobral Rollemberg contra o presidente da Câmara dos Deputados), lida em
+  12/09/2026. Registra protocolo em 09/03/2026, autuação em 10/03, distribuição ao ministro Dias Toffoli em 11/03,
+  decisão monocrática dele no mesmo dia ("convertido em diligência"), remessa à Presidência e certidão de redistribuição
+  de 11/03/2026 ao ministro Cristiano Zanin com a anotação "Impedido(a): MIN. DIAS TOFFOLI", nos termos do art. 67, §
+  3º, do RISTF; Zanin negou seguimento ao mandado de segurança em 12/03/2026.'
+notes: 'Consulta direta ao portal público, sem autenticação. A íntegra da decisão de Toffoli de 11/03 não foi lida; a
+  qualificação do motivo como foro íntimo vem da notícia oficial do STF de 20/03/2026
+  (src-stf-2026-03-20-segunda-turma-mantem-prisao).'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

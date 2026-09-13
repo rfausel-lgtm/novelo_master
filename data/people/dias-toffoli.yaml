@@ -12,14 +12,15 @@ positions:
   organization_id: supremo-tribunal-federal
   source_ids:
   - src-stf-2026-03-20-segunda-turma-mantem-prisao
-summary: Ministro do STF. Segundo comunicação oficial do tribunal de 20/03/2026, declarou suspeição, por
-  razões de foro íntimo, para participar de julgamentos relacionados ao caso Master, após ter sido sorteado
-  relator do MS 40791. Entre 28 e 30/11/2025, viajou a Lima (Peru) no jato particular do empresário Luiz
+summary: Ministro do STF. Em 11/03/2026, no mesmo dia em que recebeu por distribuição o MS 40.791 (mandado de
+  segurança do deputado Rodrigo Rollemberg pela instalação da CPI do Master na Câmara), deixou o processo, que foi
+  redistribuído a Cristiano Zanin com o registro de impedimento dele; a notícia oficial do STF de 20/03/2026
+  descreve o ato como suspeição por foro íntimo para julgamentos do caso Master. Entre 28 e 30/11/2025, viajou a Lima (Peru) no jato particular do empresário Luiz
   Osvaldo Pastore, seu amigo de longa data, para assistir à final da Libertadores — também a bordo estava
   o advogado Augusto de Arruda Botelho, que defende Luiz Antonio Bull, investigado no caso Master. Dois
   dias depois, em 02/12/2025, decretou sigilo no processo do Master. Em fevereiro de 2026, a PF citou
   esse voo como uma de três frentes (junto de mensagens no celular de Vorcaro e da venda de participação
-  de sua empresa Maridt ao fundo Arllen, ligado ao cunhado de Vorcaro, Fabiano Zettel) num pedido de afastamento
+  de sua empresa Maridt ao fundo Arleen, ligado ao cunhado de Vorcaro, Fabiano Zettel) num pedido de afastamento
   por suspeição — pedido arquivado por Fachin em 21/02/2026, já após Toffoli ter deixado a relatoria (12/02/2026,
   substituído por André Mendonça). O episódio motivou a OAB-SP a estudar, a partir de fevereiro de 2026,
   restrições éticas ao transporte gratuito de ministros por particulares. Na Reclamação 88.121, ajuizada por
@@ -29,8 +30,8 @@ summary: Ministro do STF. Segundo comunicação oficial do tribunal de 20/03/202
   janeiro de 2026 mandou reservar salas do STF para as oitivas da PF, estendeu a quebra de sigilo bancário
   aos dados consolidados do FGC e ratificou as medidas de primeiro grau; no dia em que deixou a relatoria,
   determinou que a PF enviasse ao STF, na íntegra, o conteúdo dos aparelhos apreendidos.
-why_in_novelo: Declarou suspeição, por foro íntimo, para julgamentos relacionados ao caso Master, conforme
-  comunicação oficial do STF.
+why_in_novelo: Foi o primeiro relator do caso Master no STF (Rcl 88.121 e INQ 5.026) até 12/02/2026 e declarou-se
+  impedido no MS 40.791, sobre a CPI do Master, em 11/03/2026.
 cited_position:
 - date: '2026-02-12'
   by_id: dias-toffoli
@@ -40,7 +41,7 @@ cited_position:
   - src-reuters-2026-02-12-toffoli-nega
 - kind: public_note
   summary: 'Nota de 12/02/2026: integra o quadro societário da Maridt, empresa familiar sem atos de gestão,
-    que foi sócia do grupo Tayayá até 21/02/2025; desconhece o gestor do Fundo Arllen; jamais teve amizade
+    que foi sócia do grupo Tayayá até 21/02/2025; desconhece o gestor do Fundo Arleen; jamais teve amizade
     com Vorcaro nem recebeu valores.'
   source_ids:
   - src-metropoles-2026-02-12-toffoli-confirma-socio-tayaya
@@ -58,7 +59,8 @@ open_questions:
 - 'PISTA ENCONTRADA (lote 174), não prova: seus irmãos José Eugênio e José Carlos Dias Toffoli — sócios,
   junto com ele, da empresa familiar Maridt — constam como investigados no INQ 5.026/DF (o eixo BRB-Master),
   e obtiveram dispensa de comparecimento à CPI do Crime Organizado em 26/02/2026, poucas semanas antes de
-  ele próprio declarar suspeição no caso irmão (PET 15.556). Nenhuma fonte consultada liga expressamente
+  ele próprio se declarar impedido no MS 40.791, sobre a CPI do Master (11/03/2026; corrigido em 12/09/2026 — o acervo
+  atribuía a suspeição à PET 15.556). Nenhuma fonte consultada liga expressamente
   as duas coisas — é leitura da equipe a partir da cronologia e do tema comum (registrada como inferência
   classe I), não fato relatado por qualquer autoridade. A relatoria anterior do caso e as razões formais da
   suspeição, tais como declaradas por ele, continuam sem documentação em fonte primária no corpus.'
@@ -71,11 +73,12 @@ open_questions:
   não pelo STF. A decisão é anterior, em mais de quatro meses, à revelação pública do vínculo dele com
   a empresa Maridt e ao seu afastamento da relatoria do caso Master (12/02/2026) — cronologia citada pela
   imprensa como fundamento de suspeita, sem constituir prova de irregularidade nesta decisão específica.
-- A Poder360 (06/09/2026) data sua declaração de impedimento no caso Master em 11/03/2026 — data que diverge
-  da de 20/03/2026 já registrada no acervo a partir de comunicação oficial do STF; divergência sinalizada,
-  não resolvida, sem impacto sobre o fato em si (o impedimento).
+- 'RESOLVIDO (12/09/2026): a data do impedimento é 11/03/2026, como dizia a Poder360; os andamentos oficiais do MS
+  40.791 registram distribuição a ele, decisão dele e redistribuição a Cristiano Zanin no mesmo dia. 20/03/2026 é a
+  data da notícia do STF que menciona o fato.'
 source_ids:
 - src-apublica-2026-02-12-nota-pedido-suspeicao-toffoli-pf
+- src-stf-portal-ms40791-andamentos-2026-09-12
 - src-blogdodina-2026-05-01-toffoli-suspende-investigacao-daniel-leite
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-cnnbrasil-2025-12-20-advogado-passageiros-torcedores
@@ -108,7 +111,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-11'
+updated_at: '2026-09-12'
 photo:
   path: /fotos/dias-toffoli.jpg
   source: Wikimedia Commons

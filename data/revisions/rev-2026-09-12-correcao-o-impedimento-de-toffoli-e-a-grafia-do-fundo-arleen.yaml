@@ -1,0 +1,32 @@
+id: rev-2026-09-12-correcao-o-impedimento-de-toffoli-e-a-grafia-do-fundo-arleen
+kind: revision
+date: '2026-09-12'
+title: 'Correção — onde e quando Toffoli se declarou impedido, e o nome certo do fundo Arleen'
+summary: 'O acervo misturava dois episódios. A saída de Dias Toffoli da relatoria do caso Master, em 12/02/2026, foi a
+  pedido dele, com os demais ministros afirmando não caber suspeição — e isso estava certo. Mas a declaração de
+  suspeição por foro íntimo não foi na PET 15.556 nem em 20/03: foi no MS 40.791, o mandado de segurança sobre a CPI do
+  Master na Câmara, que ele recebeu e deixou no mesmo dia, 11/03/2026, com redistribuição a Cristiano Zanin registrada
+  como impedimento. 20/03 é a data da notícia do STF. Corrigida também a grafia "Arllen" para Arleen, nome do fundo que
+  comprou a participação da Maridt no resort Tayayá.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'dias-toffoli: impedimento atribuído ao MS 40.791, em 11/03/2026, com redistribuição a Cristiano Zanin; resolvida a
+  divergência de datas antes sinalizada.'
+- 'ev-inferencia-sobre-motivo-da-suspeicao-de-toffoli-e-o-inq-5026: processo e data da suspeição corrigidos.'
+- 'Arllen corrigido para Arleen em nove arquivos.'
+author: orquestrador
+affected_ids:
+- dias-toffoli
+- cristiano-zanin
+reason: Apuração de uma sessão paralela do projeto, conferida nos andamentos públicos do MS 40.791 no portal do STF.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
