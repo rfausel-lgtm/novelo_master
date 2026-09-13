@@ -1,0 +1,25 @@
+id: src-gazetadopovo-2026-02-pf-mp-irmao-aliado-alcolumbre-alerta-ignorado
+kind: source
+title: Alcolumbre — indicações na Amprev e investimentos no Master
+publisher: Gazeta do Povo
+publication_date: '2026-02-06'
+retrieved_at: '2026-09-13'
+url: https://www.gazetadopovo.com.br/republica/pf-e-mp-vao-apurar-se-fundo-com-irmao-e-aliado-de-alcolumbre-ignorou-alerta-sobre-o-master/
+source_type: press
+summary: 'Identifica Alberto Alcolumbre, advogado e irmão do senador Davi Alcolumbre, como integrante do
+  Conselho Estadual de Previdência do Amapá em 2023-2024 e, a partir de 2025, do Conselho Fiscal da própria
+  Amprev. Relata que a PF e o MP-AP vão apurar se o fundo foi formalmente alertado sobre riscos e recebeu
+  pareceres contrários antes de aportar cerca de R$ 100 milhões (de um total de ~R$ 400 milhões) em letras
+  do Banco Master em reunião do Comitê de Investimentos de 30/07/2024, na qual o conselheiro Gláucio Bezerra
+  se disse "propenso a se posicionar pela suspensão desse investimento até que se faça diligências adicionais
+  aos órgãos reguladores e ao TCU".'
+verification:
+  checked_at: '2026-09-13'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

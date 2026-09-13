@@ -32,6 +32,11 @@ cited_position:
   source_ids:
   - src-metropoles-2026-03-19-rueda-admite
 open_questions:
+- 'Achado em 13/09/2026: um relatório de inteligência da PF, citado por Alexandre de Moraes contra Mendonça
+  (decisão de 03/09/2026), levanta a hipótese de que Mendonça poderia ver em Rueda uma "rota de acesso"
+  ao presidente do Senado, Davi Alcolumbre, tratado no mesmo documento como "provável alvo estratégico".
+  É hipótese de inteligência formulada pela própria PF sobre a conduta de Mendonça, não uma imputação
+  a Rueda; não há investigação, cautelar ou oitiva contra ele que qualquer autoridade vincule a esse motivo.'
 - Os registros da Receita não foram lidos pela equipe; os valores são os reportados pelo Poder360.
 - 'A nova acusação de comissão de 10% é distinta dos R$ 6,4 milhões já documentados por registros fiscais enviados
   à CPI (2022-2025): aquele valor é pagamento a escritório por serviços; este é comissão alegada sobre captação
@@ -42,9 +47,10 @@ source_ids:
 - src-cnn-2026-04-master-304-milhoes-a-advogados
 - src-revistaforum-2026-09-10-acm-neto-rueda-comissao-rpps-master
 - src-jgb-2026-09-10-delacao-vorcaro-conta-corrente-gerencial
+- src-poder360-2026-09-relatorio-pf-alvo-estrategico-alcolumbre
 full_name: Antônio de Rueda
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-13'
 created_at: '2026-09-03'
-updated_at: '2026-09-10'
+updated_at: '2026-09-13'

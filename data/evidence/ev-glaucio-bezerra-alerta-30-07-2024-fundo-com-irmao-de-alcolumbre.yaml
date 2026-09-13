@@ -1,0 +1,32 @@
+id: ev-glaucio-bezerra-alerta-30-07-2024-fundo-com-irmao-de-alcolumbre
+kind: evidence
+classification: A
+proposition: 'Em reunião do Comitê de Investimentos da Amprev de 30/07/2024, o conselheiro Gláucio Bezerra
+  alertou que "a informação que circulou foi de que esse emissor específico teve um problema envolvendo
+  questão política e de governança junto à Caixa Econômica Federal" e se disse "propenso a se posicionar
+  pela suspensão desse investimento até que se faça diligências adicionais aos órgãos reguladores e ao
+  TCU" — antes da aprovação de cerca de R$ 100 milhões (parte do total de ~R$ 400 milhões aplicados em
+  julho de 2024) em letras financeiras do Banco Master. A Polícia Federal e o Ministério Público do Amapá
+  apuram se o fundo foi formalmente alertado sobre riscos e recebeu pareceres contrários antes de aportar
+  os recursos. Alberto Samuel Alcolumbre Tobelem, identificado pela imprensa como irmão do senador Davi
+  Alcolumbre, integrava à época o Conselho Estadual de Previdência (órgão distinto do Comitê de Investimentos),
+  e só passou ao Conselho Fiscal da Amprev em 2025 — depois das aprovações.'
+document_ids: []
+source_ids:
+- src-gazetadopovo-2026-02-pf-mp-irmao-aliado-alcolumbre-alerta-ignorado
+- src-otempo-2026-02-fundo-irmao-aliado-alcolumbre-alerta-master
+attributed_to: Reportagens de Gazeta do Povo e O Tempo, citando o conselheiro Gláucio Bezerra e a apuração
+  da PF/MP-AP
+excerpt: propenso a se posicionar pela suspensão desse investimento até que se faça diligências adicionais
+date: '2024-07-30'
+notes: 'A data e o teor deste alerta (30/07/2024, sobre um problema de governança do emissor junto à Caixa)
+  são distintos do já registrado em glaucio-maciel-bezerra.yaml (voto contrário na 12ª reunião do CIAP, em
+  19/07/2024, segundo ata publicada no Diário Oficial) — o corpus não reconcilia se são o mesmo episódio
+  descrito com datas diferentes por fontes diferentes, ou dois alertas distintos do mesmo conselheiro em
+  reuniões próximas, compatível com as "três deliberações em menos de vinte dias" já registradas em
+  amapa-previdencia.yaml. Até a apuração adicional, ambas as datas ficam registradas separadamente.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
