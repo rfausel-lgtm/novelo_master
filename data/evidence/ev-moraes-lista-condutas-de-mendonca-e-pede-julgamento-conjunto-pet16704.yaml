@@ -1,0 +1,28 @@
+id: ev-moraes-lista-condutas-de-mendonca-e-pede-julgamento-conjunto-pet16704
+kind: evidence
+classification: A
+proposition: 'Em ofício de 11/09/2026 dirigido a Fachin, Alexandre de Moraes atribui a André Mendonça, na
+  relatoria das PETs 15.041 e 15.556: (1) "usurpação da direção das investigações das autoridades policiais,
+  inclusive com determinação de medidas administrativas que afastaram a observância da cadeia de custódia";
+  (2) "condução irregular das tratativas de eventual colaboração premiada"; (3) "direcionamento de determinados
+  alvos para investigação (Ministro Alexandre de Moraes e Senador Davi Alcolumbre), por motivos pessoais e
+  políticos, inclusive com a indicação prévia de medidas cautelares a serem apresentadas pela Polícia Federal".
+  Pede julgamento conjunto das PETs 16.704 e 16.662 "para evitar risco concreto de decisões contraditórias".'
+document_ids:
+- doc-2026-09-11-oficio-gmam07-moraes-acusa-mendonca
+source_ids:
+- src-stf-pet16704-oficio07-moraes-2026-09-11
+excerpt: direcionamento de determinados alvos para investigação (Ministro Alexandre de Moraes e Senador Davi
+  Alcolumbre), por motivos pessoais e políticos
+attributed_to: Alexandre de Moraes, em ofício de 11/09/2026 à Presidência do STF
+date: '2026-09-11'
+notes: 'Detalha e formaliza, por ofício assinado (não mais só por decisão judicial), a acusação já registrada
+  em ev-moraes-decisao-assimetria-mendonca-2026-09-03 — a novidade é a lista numerada de condutas específicas
+  e o pedido concreto de julgamento conjunto, além da denúncia de que o levantamento de sigilo de 10/09 excluiu
+  180 documentos. Alegação de uma parte contra outra em disputa institucional aberta; nenhuma apuração externa
+  a confirma até esta coleta.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

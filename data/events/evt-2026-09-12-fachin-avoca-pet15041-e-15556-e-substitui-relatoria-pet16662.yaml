@@ -1,0 +1,33 @@
+id: evt-2026-09-12-fachin-avoca-pet15041-e-15556-e-substitui-relatoria-pet16662
+kind: event
+title: Fachin avoca as PETs 15.041 e 15.556 e formaliza a substituição da relatoria da PET 16.662
+event_type: judicial_decision
+date: '2026-09-12'
+date_precision: day
+participant_ids:
+- edson-fachin
+- andre-mendonca
+- alexandre-de-moraes
+description: 'No mesmo dia em que Mendonça remeteu a PET 16.662 à Presidência (ver
+  evt-2026-09-12-mendonca-remete-pet-16662-a-presidencia), Fachin foi além: remeteu à Presidência também as
+  próprias PETs 15.041 (Operação Sem Desconto, INSS) e 15.556 (Compliance Zero), com todos os processos
+  relacionados, e formalizou, com base no art. 13, XV, do RISTF, a substituição da relatoria da PET 16.662 para
+  a Presidência, diante da possibilidade de aplicação do art. 144, IV, do CPC (suspeição). Três dias antes da
+  sessão de 15/09, um único processo (PET 16.662) manteve a data; a própria PET 16.704 — onde toda a instrução
+  corre — foi excluída da pauta daquele dia e remarcada para 23/09.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-fachin-avoca-pet15041-e-pet15556-e-formaliza-substituicao-relatoria
+source_ids:
+- src-stf-pet16704-despacho-12-09-2026-avocacao-e-substituicao-relatoria
+- src-stf-pet16704-despacho-12-09-2026-pauta-adiada-23-09
+document_ids:
+- doc-2026-09-12-despacho-fachin-avocacao-substituicao-relatoria
+- doc-2026-09-12-despacho-pauta-15-09-exclusiva-pet16662
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -1,0 +1,47 @@
+id: rev-2026-09-13-lote-265-moraes-acusa-mendonca-por-oficio-e-fachin-avoca-o-inss
+kind: revision
+date: '2026-09-13'
+title: 'Lote 265 — Moraes acusa Mendonça por ofício, e Fachin avoca também o caso do INSS'
+summary: 'Mineração da Pet 16.704 (a petição-guarda-chuva da crise institucional do STF) direto no peticionamento
+  eletrônico, com a sessão do Rafael. Em ofício de 11/09/2026, Alexandre de Moraes formaliza por escrito, com lista
+  numerada, a acusação de que André Mendonça usurpou a direção de investigações, conduziu irregularmente
+  colaboração premiada e direcionou alvos — o próprio Moraes e o senador Davi Alcolumbre — "por motivos pessoais e
+  políticos"; pede julgamento conjunto das PETs 16.704 e 16.662 e denuncia que 180 documentos ficaram fora do
+  levantamento de sigilo de 10/09. No mesmo dia, Moraes, Cristiano Zanin e Gilmar Mendes cobram, cada um por
+  ofício próprio, que a cópia dos dados do celular de Vorcaro — lacrada no gabinete de Mendonça desde março —
+  seja compartilhada com todo o colegiado antes do julgamento de 15/09. A PGR aponta que o levantamento de
+  sigilo excluiu 17 processos correlatos à Compliance Zero (entre eles a PET 15.873, de Ciro Nogueira, já no
+  acervo) e pede levantamento sem exceção. Em 12/09, Fachin vai além da PET 16.662: avoca também as próprias
+  PETs 15.041 (Operação Sem Desconto, INSS) e 15.556 (Compliance Zero) à Presidência, e formaliza — com base
+  no art. 13, XV, do RISTF — a substituição da relatoria da PET 16.662, diante da possibilidade de suspeição
+  (art. 144, IV, CPC). No mesmo despacho, mantém a sessão de 15/09 exclusiva à PET 16.662 e remarca a própria
+  Pet 16.704 para 23/09.'
+added:
+  people: 0
+  organizations: 0
+  events: 2
+  documents: 5
+  relationships: 0
+  sources: 5
+  evidence: 4
+updated_relationships: 0
+corrections:
+- 'ev-pauta-de-15-09-tem-um-unico-item-e-nao-inclui-o-caso-andrei: confirmado por despacho de 12/09 que a sessão
+  de 15/09 fica exclusiva à PET 16.662, com a Pet 16.704 remarcada para 23/09.'
+author: orquestrador
+affected_ids:
+- alexandre-de-moraes
+- andre-mendonca
+- edson-fachin
+- davi-alcolumbre
+- cristiano-zanin
+- gilmar-mendes
+- ciro-nogueira
+- paulo-gonet
+reason: Rafael autenticou-se no peticionamento eletrônico do STF e pediu para continuar a análise processual em
+  loop a partir do despacho de Fachin de 12/09/2026 (avocação do caso Master e correlatos). Mineração das 126
+  peças da Pet 16.704, com download e leitura de 12 ofícios, manifestações e despachos via
+  peticionamento.stf.jus.br.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
