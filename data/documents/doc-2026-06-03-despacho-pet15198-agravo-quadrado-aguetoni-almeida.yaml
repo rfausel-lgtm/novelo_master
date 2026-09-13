@@ -1,0 +1,21 @@
+id: doc-2026-06-03-despacho-pet15198-agravo-quadrado-aguetoni-almeida
+kind: document
+title: Despacho de 03/06/2026 na Pet 15.198/DF — vista à PGR sobre agravo regimental
+doc_type: judicial_decision
+date: '2026-06-03'
+date_precision: day
+source_ids:
+- src-stf-pet15198-despacho-03-06-2026-agravo-quadrado-aguetoni-almeida
+summary: Abre vista à PGR para manifestação sobre agravo regimental interposto por Maurício Antonio Quadrado,
+  Luís Fernando de Almeida e Flávio Daniel Aguetoni na Pet 15.198/DF.
+is_official: true
+related_entity_ids:
+- mauricio-quadrado
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça (relator)
+reference: Pet 15.198/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

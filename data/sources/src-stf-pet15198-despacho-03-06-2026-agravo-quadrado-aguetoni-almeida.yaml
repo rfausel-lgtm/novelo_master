@@ -1,0 +1,32 @@
+id: src-stf-pet15198-despacho-03-06-2026-agravo-quadrado-aguetoni-almeida
+kind: source
+title: Despacho de 03/06/2026 na Pet 15.198/DF — vista à PGR sobre agravo regimental de Quadrado, Almeida e
+  Aguetoni
+publisher: Supremo Tribunal Federal
+publication_date: '2026-06-03'
+retrieved_at: '2026-09-13'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336
+source_type: official_court
+summary: 'Despacho de 03/06/2026 na Pet 15.198/DF (petição fundadora da Operação Compliance Zero, relator
+  André Mendonça) abre vista à Procuradoria-Geral da República "para manifestação sobre o agravo regimental
+  interposto por Maurício Antonio Quadrado, Luís Fernando de Almeida e Flávio Daniel Aguetoni (e-doc. 684)".
+  Almeida e Aguetoni já constavam do acervo como ex-administradores da Trustee DTVM com bens tornados
+  indisponíveis pelo decreto de liquidação do Banco Central (03/09/2026) — este despacho é o primeiro
+  registro de que os três atuam conjuntamente como parte (agravantes) em processo no STF. O teor específico
+  do agravo (contra qual decisão, e com que pedido) não é visível no portal público — apenas a existência do
+  recurso e a abertura de vista à PGR.'
+notes: Consulta feita via busca "por parte" no portal público do STF pelo nome de Maurício Antonio Quadrado,
+  que retornou este como o único processo em trâmite em que ele figura como parte, fora do Inq 5.035 (onde
+  pediu habilitação em 17/08/2026 "em todos os procedimentos correlatos" — ver lote 281). Também registrado
+  no mesmo processo, despacho de 11/06/2026 desmembrando um inquérito autônomo a partir da Pet 15.198,
+  mantendo nesta apenas as medidas cautelares — não verificado se tem relação com o agravo dos três.
+verification:
+  checked_at: '2026-09-13'
+  checked_by: orquestrador (via equipe delegada)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

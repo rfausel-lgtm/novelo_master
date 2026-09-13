@@ -37,8 +37,11 @@ cited_position:
 open_questions:
 - 'Em 17/08/2026, seus advogados requereram habilitação no Inq 5.035/DF (inquérito do "Projeto DV",
   campanha de influenciadores a favor de Vorcaro perante STF e TCU) "e em todos os procedimentos
-  correlatos" — vínculo inédito no acervo até esta coleta; não se sabe a que título (investigado,
-  testemunha ou terceiro interessado) nem quais seriam os procedimentos correlatos.'
+  correlatos" — não se sabe a que título (investigado, testemunha ou terceiro interessado). PARCIALMENTE
+  RESOLVIDO (13/09/2026): a Pet 15.198/DF, petição fundadora da Compliance Zero, é um desses procedimentos
+  correlatos — ele agrava lá, junto com Luís Fernando de Almeida e Flávio Daniel Aguetoni (ex-administradores
+  da Trustee), desde 03/06/2026 (ver ev-quadrado-almeida-aguetoni-agravam-juntos-na-pet15198). O teor do
+  agravo e outros possíveis "procedimentos correlatos" seguem desconhecidos.'
 - Administrava o fundo Verbier, usado pelo advogado maranhense Daniel Leite (apontado pela Kroll como
   'figura instrumental' de Vorcaro) para comprar ações do BRB com empréstimo de R$ 93,7 milhões em abril
   de 2025.
@@ -52,6 +55,7 @@ open_questions:
   de Figueiredo sugerem uma estrutura comum de planejamento patrimonial — hipótese, não fato provado;
   o escritório/family office responsável não foi identificado.
 source_ids:
+- src-stf-pet15198-despacho-03-06-2026-agravo-quadrado-aguetoni-almeida
 - src-stf-inq5035-peticao-17-08-2026-habilitacao-quadrado
 - src-cnnbrasil-2026-09-03-bc-liquida-trustee-banvox
 - src-jornaldebrasilia-2026-quem-e-mauricio-quadrado

@@ -1,0 +1,26 @@
+id: ev-quadrado-almeida-aguetoni-agravam-juntos-na-pet15198
+kind: evidence
+classification: D
+proposition: 'Maurício Quadrado, Luís Fernando de Almeida e Flávio Daniel Aguetoni — os dois últimos já
+  documentados como ex-administradores da Trustee DTVM com bens tornados indisponíveis pela liquidação do
+  Banco Central (03/09/2026) — atuam conjuntamente como agravantes na Pet 15.198/DF, a petição fundadora da
+  Operação Compliance Zero. Resolve, ao menos em parte, a que Quadrado se referia ao pedir habilitação no
+  Inq 5.035 "em todos os procedimentos correlatos" (lote 281): a Pet 15.198 é um deles.'
+document_ids:
+- doc-2026-06-03-despacho-pet15198-agravo-quadrado-aguetoni-almeida
+source_ids:
+- src-stf-pet15198-despacho-03-06-2026-agravo-quadrado-aguetoni-almeida
+related_entity_ids:
+- mauricio-quadrado
+excerpt: manifestação sobre o agravo regimental interposto por Maurício Antonio Quadrado, Luís Fernando de
+  Almeida e Flávio Daniel Aguetoni
+date: '2026-06-03'
+notes: O teor do agravo (contra qual decisão, com que pedido) não está acessível no portal público — apenas
+  sua existência e os agravantes. Luís Fernando de Almeida e Flávio Daniel Aguetoni ainda não têm verbete
+  próprio no acervo; aparecem apenas nomeados nesta evidência e em
+  ev-figueiredo-bc-trustee-indisponibilidade-bens-nao-banvox.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

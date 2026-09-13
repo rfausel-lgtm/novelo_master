@@ -1,0 +1,36 @@
+id: rev-2026-09-13-lote-282-um-dos-procedimentos-correlatos-de-quadrado
+kind: revision
+date: '2026-09-13'
+title: 'Lote 282 — um dos "procedimentos correlatos" de Quadrado é a própria petição fundadora da Compliance
+  Zero'
+summary: 'Busca "por parte" no portal público do STF por Maurício Antonio Quadrado (para entender a que ele
+  se referia ao pedir habilitação no Inq 5.035 "em todos os procedimentos correlatos", lote 281) encontrou a
+  Pet 15.198/DF — a própria petição fundadora da Operação Compliance Zero. Despacho de 03/06/2026 mostra que
+  Quadrado agrava lá, junto com Luís Fernando de Almeida e Flávio Daniel Aguetoni — os dois já documentados
+  como ex-administradores da Trustee DTVM com bens tornados indisponíveis pela liquidação do Banco Central
+  (03/09/2026). Resolve parcialmente o open_question do lote 281; o teor do agravo (contra qual decisão, com
+  que pedido) não está acessível no portal público. Verificações negativas na mesma coleta: (a) despacho de
+  13/09/2026 de Mendonça na Pet 16.704 reitera acesso igual ao material do julgamento — sem menção visível à
+  Pet 15.645, e é reiteração de fato já publicado; (b) a Pet 15.645 segue sem qualquer andamento novo,
+  continua integralmente sigilosa; (c) não há denúncia formal do MPF/PGR no Inq 5.026 (inquérito-mãe da
+  Compliance Zero) até 13/09/2026 — confirmado agora por fonte primária do próprio STF, não só imprensa.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'mauricio-quadrado: open_question sobre o Inq 5.035 atualizado — a Pet 15.198 identificada como um dos
+  "procedimentos correlatos".'
+author: orquestrador
+affected_ids:
+- mauricio-quadrado
+reason: Consulta ao portal público do STF (equipe delegada) para resolver pendência aberta no lote 281,
+  aproveitando a reautenticação do Rafael no peticionamento.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
