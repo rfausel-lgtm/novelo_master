@@ -13,8 +13,11 @@ description: 'Alexandre de Moraes, em decisão de 03/09/2026 e ofício formal de
   na mesma decisão descreve Alcolumbre como "provável alvo estratégico" por seu controle da pauta de
   impeachment de ministros do STF, e levanta a hipótese de que Mendonça veria em Antônio Rueda uma "rota
   de acesso" a ele, relacionando a suspeita à resistência histórica de Alcolumbre à indicação de Mendonça
-  ao STF em 2021. É acusação de uma parte contra outra em disputa institucional aberta; nenhuma investigação,
-  cautelar ou oitiva concreta contra Rueda ou Alcolumbre é atribuída a esse motivo por qualquer autoridade.'
+  ao STF em 2021. O mesmo relatório liga o suposto interesse de Mendonça a um motivo mais amplo: a chance de
+  que uma "anistia ampla dos crimes cometidos no contexto da recente tentativa de golpe de Estado" viesse a
+  ser "avalizada no Tribunal" com uma composição mais favorável. É acusação de uma parte contra outra em
+  disputa institucional aberta; nenhuma investigação, cautelar ou oitiva concreta contra Rueda ou Alcolumbre
+  é atribuída a esse motivo por qualquer autoridade.'
 evidence_class: A
 confidence: 0.3
 status: disputed
@@ -26,6 +29,7 @@ evidence_ids:
 - ev-moraes-lista-condutas-de-mendonca-e-pede-julgamento-conjunto-pet16704
 source_ids:
 - src-poder360-2026-09-relatorio-pf-alvo-estrategico-alcolumbre
+- src-ndmais-2026-09-04-pf-mendonca-mira-alcolumbre-anistia
 - src-stf-pet16704-oficio07-moraes-2026-09-11
 document_ids:
 - doc-2026-09-11-oficio-gmam07-moraes-acusa-mendonca

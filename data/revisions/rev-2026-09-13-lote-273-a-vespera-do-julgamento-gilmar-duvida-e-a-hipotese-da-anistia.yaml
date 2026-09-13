@@ -1,0 +1,42 @@
+id: rev-2026-09-13-lote-273-a-vespera-do-julgamento-gilmar-duvida-e-a-hipotese-da-anistia
+kind: revision
+date: '2026-09-13'
+title: 'Lote 273 — a véspera do julgamento: Gilmar duvida que a Pet 16.662 esteja pronta, e a PF liga
+  Mendonça a uma possível anistia do 8 de janeiro'
+summary: 'Varredura de imprensa (não do STF) a dois dias da sessão extraordinária de 15/09/2026. Dois
+  achados: (1) em 11/09/2026, Gilmar Mendes questionou publicamente se a Pet 16.662 está em condições de
+  julgamento — "A rigor, na Pet 16.662, não há nem sequer pedido a ser decidido" —, apontando indefinição
+  sobre quem é investigado, o objeto da apuração e o rito, e propondo que Fachin primeiro reunisse os
+  procedimentos correlatos antes de levar o caso ao Plenário; a sessão foi mantida assim mesmo. (2)
+  Enriquecimento de achado já publicado (a hipótese da própria PF de que Mendonça mira Alcolumbre via Rueda):
+  o mesmo relatório de inteligência liga esse suposto interesse a um motivo mais amplo — a chance de que uma
+  composição mais favorável do STF viabilizasse "anistia ampla dos crimes cometidos no contexto da recente
+  tentativa de golpe de Estado", isto é, dos atos de 8 de janeiro de 2023. Nenhum dos dois achados é fato
+  estabelecido: o primeiro é posição pública de um ministro sobre o rito; o segundo é hipótese da própria PF
+  sobre a motivação de outro ministro, não confirmada por nenhuma autoridade.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 2
+  evidence: 1
+updated_relationships: 1
+corrections:
+- 'gilmar-mendes: acrescentado que, em 11/09/2026, questionou publicamente se a Pet 16.662 estava pronta
+  para julgamento, propondo a Fachin reunir os procedimentos antes de levar o caso ao Plenário.'
+- 'davi-alcolumbre / andre-mendonca (relação): o relatório da PF sobre "Alcolumbre como alvo estratégico"
+  liga o suposto interesse de Mendonça também à possibilidade de uma anistia do 8 de janeiro, não só ao
+  controle da pauta de impeachment.'
+author: orquestrador
+affected_ids:
+- gilmar-mendes
+- edson-fachin
+- andre-mendonca
+- davi-alcolumbre
+reason: 'Rafael pediu para acompanhar as notícias mais recentes e mapear os centros de atenção
+  contemporâneos, dado o agravamento da crise às vésperas do julgamento de 15/09.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

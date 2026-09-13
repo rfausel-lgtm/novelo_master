@@ -48,6 +48,11 @@ open_questions:
 - 'Em ofício nº 005/MGM de 11/09/2026, aderiu ao pedido de Zanin de que a cópia dos dados do celular de Vorcaro,
   lacrada no gabinete de Mendonça desde março, fosse compartilhada com todos os ministros antes do julgamento
   de 15/09, falando em "acesso assimétrico" que compromete a "paridade entre os integrantes da Corte".'
+- 'NOVO (13/09/2026): no mesmo 11/09/2026, publicamente questionou se a Pet 16.662 estava pronta para
+  julgamento: "A rigor, na Pet 16.662, não há nem sequer pedido a ser decidido." Apontou indefinição sobre
+  quem é investigado, o objeto da apuração e o rito a seguir, e propôs que Fachin primeiro reunisse os
+  procedimentos correlatos e assumisse a coordenação, em vez de levar o caso ao Plenário no estado em que
+  se encontrava.'
 source_ids:
 - src-stf-pet16704-oficios-acesso-midia-celular-2026-09-11
 - src-correiobraziliense-2026-09-gilmar-propoe-retirar-delegados
@@ -57,6 +62,7 @@ source_ids:
 - src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
 - src-stf-pet15556-edoc286-acordao-referendo-23-03-2026
 - src-stf-pet-16662-voto-vista-gilmar-mendes-08-09-2026
+- src-timesbrasil-2026-09-11-gilmar-sugere-adiar-julgamento-15-09
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

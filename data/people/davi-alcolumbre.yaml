@@ -76,7 +76,10 @@ open_questions:
   do Supremo" — e por ter sido, segundo o mesmo relatório, "grande empecilho" à indicação de Mendonça ao
   STF no governo Bolsonaro. A reportagem que reproduz o trecho frisa que a PF trabalha com hipótese de
   inteligência, não com fato comprovado; não há, até esta coleta, investigação aberta, cautelar ou oitiva
-  contra Rueda ou Alcolumbre que qualquer autoridade atribua a esse motivo específico.'
+  contra Rueda ou Alcolumbre que qualquer autoridade atribua a esse motivo específico. NOVO (13/09/2026):
+  o mesmo relatório liga esse suposto interesse de Mendonça a um motivo mais amplo — a chance de que uma
+  "anistia ampla dos crimes cometidos no contexto da recente tentativa de golpe de Estado" (8 de janeiro de
+  2023) viesse a ser "avalizada no Tribunal" com uma composição mais favorável.'
 - 'Achado em 13/09/2026: Alcolumbre e Rueda são, na verdade, RIVAIS pelo comando estratégico do União
   Brasil para 2026 — Alcolumbre busca estreitar laços com o governo Lula, Rueda defende (com ACM Neto)
   postura mais distante e crítica. A rivalidade não confirma nem afasta a hipótese da PF sobre Mendonça
@@ -139,6 +142,7 @@ source_ids:
 - src-rumonews-2026-09-reuniao-moraes-alcolumbre-3-horas
 - src-terrabrasilnoticias-2026-09-reuniao-moraes-alcolumbre
 - src-novojornal-2026-alcolumbre-rueda-disputa-uniao-brasil
+- src-ndmais-2026-09-04-pf-mendonca-mira-alcolumbre-anistia
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Davi_Alcolumbre
 review_status: published
