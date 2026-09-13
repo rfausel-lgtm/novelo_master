@@ -1,0 +1,34 @@
+id: rev-2026-09-12-lote-256-a-holding-do-presidente-do-brb-e-o-frio-na-espinha
+kind: revision
+date: '2026-09-12'
+title: 'Lote 256 — a holding do presidente do BRB, e o "frio na espinha" de quem assinava pela Tirreno'
+summary: 'Mais dois celulares analisados pela PF e juntados ao INQ 5.026. No de Paulo Henrique Costa, então presidente do
+  BRB, a PF encontrou a negociação de apartamentos de R$ 4,67 milhões e R$ 6,01 milhões entre novembro de 2024 e
+  janeiro de 2025, com pedido de sigilo, contratos com o comprador em branco e uma holding "para que não seja direto
+  em meu nome"; e uma mensagem de setembro de 2025, mês em que o Banco Central barrou a compra do Master, sobre "uma
+  solução que não depende do Bacen". No de André Seixas Maia, apresentado como responsável pela Tirreno, a empresa só
+  aparece em 04/04/2025 — quatro meses depois da data dos documentos que a criaram. Tudo registrado como alegação da
+  PF, sem denúncia.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 2
+  relationships: 0
+  sources: 2
+  evidence: 3
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- paulo-henrique-costa
+- andre-seixas-maia
+- tirreno
+- banco-de-brasilia-brb
+- banco-master
+reason: Continuação da leitura do bloco de 12/05/2026 do INQ 5.026 via peticionamento.stf.jus.br (sessão autenticada
+  pelo próprio Rafael). Os relatórios trazem dados de acesso de aparelho, telefones, CPFs, nomes de familiares e de
+  contatos pessoais, identificação de unidades e endereços, que não são reproduzidos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

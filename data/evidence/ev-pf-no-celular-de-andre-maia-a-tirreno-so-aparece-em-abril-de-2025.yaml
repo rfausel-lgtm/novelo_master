@@ -1,0 +1,26 @@
+id: ev-pf-no-celular-de-andre-maia-a-tirreno-so-aparece-em-abril-de-2025
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, a primeira menção à Tirreno no celular de André Seixas Maia, apresentado como
+  responsável pela empresa, é de 04/04/2025 — um texto que parecia a prévia de uma apresentação do que viria a ser a
+  Tirreno —, o que contraria os documentos de formalização datados de 02/12/2024 e, somado ao registro na Junta
+  Comercial só em 15/04/2025, leva a PF a considerar que a empresa foi constituída em abril de 2025 com data
+  retroativa, para dar lastro a transações já feitas entre o BRB e o Master.
+document_ids:
+- doc-2026-02-04-rapj-21161-01-celular-andre-seixas-maia
+source_ids:
+- src-stf-inq5026-rapj-21161-01-2026-celular-andre-seixas-maia
+- src-stf-inq5026-ipja-1252786-2026-celular-vorcaro-tirreno
+attributed_to: Polícia Federal, no RAPJ nº 21161.01/2026 (análise do celular de André Seixas Maia), juntado ao INQ 5.026
+date: '2025-04-04'
+notes: 'Converge com a análise do celular de Vorcaro, em que a Tirreno só aparece em maio de 2025 (ver
+  ev-pf-documentos-da-tirreno-produzidos-sob-demanda-em-maio-de-2025), e com a ata antedatada já registrada (ver
+  ev-tirreno-ata-antedatada-peretto-seixas-maia). A IPJ-A nº 1252786/2026, citando este relatório, acrescenta que em
+  05/05/2025 Maia disse a um contato pessoal que estava no banco assinando contratos de um negócio que lhe dava "frio
+  na espinha", no mesmo dia em que o advogado Daniel Lopes Monteiro avisava Vorcaro que colhia as assinaturas dos
+  contratos da Tirreno. Hipótese investigativa, sem denúncia.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

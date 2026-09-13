@@ -1,0 +1,25 @@
+id: ev-pf-paulo-henrique-costa-negociou-imoveis-por-holding-para-nao-ficar-em-seu-nome
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, entre novembro de 2024 e janeiro de 2025 Paulo Henrique Costa, então presidente
+  do BRB, negociou com incorporadoras de Brasília a compra de apartamentos de R$ 4,67 milhões e de R$ 6,01 milhões,
+  pedindo sigilo ("vamos manter o mais restrito possível") e dizendo que providenciaria uma holding patrimonial "para
+  que não seja direto em meu nome"; as minutas de contrato vieram com o campo do comprador em branco, a pedido dele.
+document_ids:
+- doc-2026-03-04-ipj-1039533-celular-paulo-henrique-costa
+source_ids:
+- src-stf-inq5026-ipj-1039533-2026-celular-paulo-henrique-costa
+attributed_to: Polícia Federal, na IPJ nº 1039533/2026 (análise preliminar do celular de Paulo Henrique Costa), juntada ao INQ 5.026
+date: '2024-11-25'
+notes: 'Em 10/01/2025, segundo o relatório, ele informou às duas incorporadoras que a holding estava estruturada. A PF
+  classifica o conteúdo como "planejamento patrimonial e sigilo" potencialmente relevante e não afirma, nesta peça
+  preliminar, de onde viriam os recursos. As datas coincidem com o período em que outra análise da PF o descreve
+  prestando favorecimento ao Master (ver ev-pf-paulo-henrique-costa-favorecia-o-master-desde-2024), mas o relatório
+  não liga os imóveis a pagamentos; o acervo registra, separadamente, a acusação da PGR de que empresas de fachada
+  teriam ocultado imóveis de luxo repassados a ele (perfil de daniel-lopes-monteiro), sem que se possa afirmar que
+  sejam os mesmos imóveis. Unidades, endereços e nomes dos empresários não são reproduzidos. Hipótese investigativa.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

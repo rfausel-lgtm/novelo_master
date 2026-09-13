@@ -1,0 +1,27 @@
+id: src-stf-inq5026-rapj-21161-01-2026-celular-andre-seixas-maia
+kind: source
+title: Relatório de Análise de Polícia Judiciária nº 21161.01/2026 — o celular de André Seixas Maia e a criação da Tirreno
+publisher: Polícia Federal
+author: Delegacia de Inquéritos Especiais (DELEINQUE/DRPJ/SR/PF/DF), para a delegada Janaína Pereira Lima Palazzo
+publication_date: '2026-02-04'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347
+source_type: official_police
+summary: 'Relatório de 90 páginas sobre o aparelho de André Felipe de Oliveira Seixas Maia, apresentado como
+  responsável pela Tirreno, com o objetivo declarado de identificar dados sobre a criação e a legitimidade da empresa.
+  Monta uma linha do tempo das conversas e conclui que a primeira menção à Tirreno no aparelho é de 04/04/2025, o que
+  contraria os documentos de formalização datados de 02/12/2024; somado ao registro na Junta Comercial só em
+  15/04/2025, isso levanta a possibilidade de que a empresa tenha sido constituída em abril de 2025, com data
+  retroativa, para dar lastro a transações já realizadas entre o BRB e o Master.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele), juntada ao INQ 5.026
+  em 12/05/2026. Nomes de contatos pessoais, telefones e CPF do relatório não são reproduzidos.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
