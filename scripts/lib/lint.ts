@@ -22,7 +22,11 @@ import type { LoadIssue } from "./load";
  *  - fonte sem verification;
  *  - evidência D ou C apoiada em fonte de blog/rede social (em A e I a fonte de pista é o esperado);
  *  - prefixo de id fora da convenção;
- *  - tokens de um nome contidos no de outro registro do mesmo tipo, sem `distinct_from` declarado.
+ *  - tokens de um nome contidos no de outro registro do mesmo tipo, sem `distinct_from` declarado;
+ *  - duas relações do mesmo par com a mesma start_date, ou relação e transação do mesmo par no mesmo
+ *    ano sem a relação apontar a transação (o mesmo fato registrado duas vezes);
+ *  - cargo em positions sem relação entre a pessoa e a organização;
+ *  - pessoa ou organização sem nenhuma ligação no grafo, sem `isolation_reason` declarado.
  *
  * INFO (nunca bloqueia): relação sem data própria para a time machine.
  */
@@ -532,6 +536,102 @@ export function lintCorpus(corpus: Corpus): LoadIssue[] {
       err(file, "causality_proven=true exige documentary_link=present");
     }
     checkImputation(file, "description", s.description, pub);
+  }
+
+  /*
+   * ---- consistência das ligações ----
+   *
+   * A análise do grafo de 13/09/2026 achou três formas de ligação errada que nenhuma regra acima pega,
+   * porque cada registro, sozinho, é válido:
+   *
+   * 1. O MESMO FATO DUAS VEZES. O contrato Viking–Barci de 12/05/2025 entrou no lote 11 e de novo no
+   *    lote 84, com tipos diferentes; as emendas de Mário Frias ao ICB entraram como relação e como
+   *    transação. Duas relações do mesmo par com a mesma start_date são quase sempre um fato repetido,
+   *    e relação e transação do mesmo par no mesmo ano também, a menos que a relação aponte a transação
+   *    em transaction_ids. Tipo igual não basta: Vorcaro e Gonet têm duas alegações distintas.
+   * 2. CARGO SEM LIGAÇÃO. positions[].organization_id afirma o vínculo, mas o grafo só desenha relações:
+   *    Flávio Dino aparecia sem aresta com o STF, e sete pessoas ficavam soltas por isso.
+   * 3. ENTIDADE ISOLADA. Pessoa ou organização publicada sem relação, participação, ato ou transação é
+   *    um nó solto. Quando isso é o correto (o documento a nomeia sem descrever vínculo com mais
+   *    ninguém), o registro diz por quê em isolation_reason, como distinct_from faz para duplicatas.
+   */
+  const parDe = (a: string, b: string) => [a, b].sort().join(" ");
+  const relacoesPorPar = new Map<string, Corpus["relationships"]>();
+  for (const r of corpus.relationships) {
+    const par = parDe(r.from_id, r.to_id);
+    relacoesPorPar.set(par, [...(relacoesPorPar.get(par) ?? []), r]);
+  }
+  const publicado = (...registros: { review_status?: string }[]) =>
+    registros.some((r) => r.review_status === "published");
+
+  for (const lista of relacoesPorPar.values()) {
+    for (let i = 0; i < lista.length; i++) {
+      for (let j = i + 1; j < lista.length; j++) {
+        const [a, b] = [lista[i], lista[j]];
+        if (a.start_date && a.start_date === b.start_date) {
+          warn(
+            `relationships/${b.id}.yaml`,
+            `mesmo par e mesma start_date (${a.start_date}) de "${a.id}": é o mesmo fato registrado duas ` +
+              "vezes? Funda as relações ou corrija a data",
+            publicado(a, b),
+          );
+        }
+      }
+    }
+  }
+  for (const t of corpus.transactions) {
+    const ano = t.date?.slice(0, 4);
+    for (const r of relacoesPorPar.get(parDe(t.from_id, t.to_id)) ?? []) {
+      if (ano && r.start_date?.slice(0, 4) === ano && !r.transaction_ids.includes(t.id)) {
+        warn(
+          `relationships/${r.id}.yaml`,
+          `transação "${t.id}" liga o mesmo par no mesmo ano (${ano}) e não consta em transaction_ids: ` +
+            "se é o mesmo fato, fique com um registro; se a relação abrange a transação, aponte-a",
+          publicado(r, t),
+        );
+      }
+    }
+  }
+
+  for (const p of corpus.people) {
+    for (const pos of p.positions) {
+      if (pos.organization_id && !relacoesPorPar.has(parDe(p.id, pos.organization_id))) {
+        warn(
+          `people/${p.id}.yaml`,
+          `cargo "${pos.title}" em "${pos.organization_id}" sem relação entre os dois: o grafo só desenha ` +
+            "relações, e o vínculo fica invisível",
+          publicado(p),
+        );
+      }
+    }
+  }
+
+  const ligadas = new Set<string>();
+  for (const r of corpus.relationships) ligadas.add(r.from_id).add(r.to_id);
+  for (const t of corpus.transactions) ligadas.add(t.from_id).add(t.to_id);
+  for (const e of corpus.events) e.participant_ids.forEach((id) => ligadas.add(id));
+  for (const a of corpus.public_acts) {
+    [...a.actor_ids, ...a.affected_ids, ...(a.issuer_id ? [a.issuer_id] : [])].forEach((id) =>
+      ligadas.add(id),
+    );
+  }
+  for (const e of [...corpus.people, ...corpus.organizations]) {
+    const arquivo = `${e.kind === "person" ? "people" : "organizations"}/${e.id}.yaml`;
+    if (!ligadas.has(e.id) && !e.isolation_reason) {
+      warn(
+        arquivo,
+        "entidade sem nenhuma ligação no grafo (relação, participação em evento, ato ou transação): " +
+          "ligue-a pelo que os documentos sustentam ou declare isolation_reason",
+        publicado(e),
+      );
+    }
+    if (ligadas.has(e.id) && e.isolation_reason) {
+      warn(
+        arquivo,
+        "isolation_reason declarado, mas a entidade já tem ligação no grafo: remova-o",
+        publicado(e),
+      );
+    }
   }
 
   /* ---- duplicação de entidade ---- */
