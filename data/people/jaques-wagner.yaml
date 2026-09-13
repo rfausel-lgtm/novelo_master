@@ -79,6 +79,24 @@ cited_position:
   by_id: jaques-wagner
   date: '2026-08-26'
 open_questions:
+- 'Aprofundamento de 11-13/09/2026 (Mendonça levantou novo sigilo em 11/09): a PF reconstrói a cronologia
+  da Emenda 11 e caracteriza a sequência como "um padrão de acompanhamento direto, por Senador Jaques
+  Wagner, de pauta legislativa de interesse" do Master, com relação descrita como unidirecional ("o Senador
+  recebe ou solicita vantagens ou favores, e o empresário os concede") — linguagem mais assertiva que a
+  "correlação" registrada antes. Novos elementos: contato de Guilherme Sodré com Vorcaro seis dias antes
+  da apresentação da emenda pedindo discrição; ligação de 9min19s entre Lima e Wagner no dia da apresentação
+  e visita de Lima ao gabinete duas semanas depois; mensagem do próprio Wagner ("Vamos marcar, que eu
+  precisava conversar com você pra saber como estão as coisas do banco"); e mensagem de Lima de 29/03/2025
+  ("Você mais do que ninguém sabe de minha história e faz parte disso!!"). Uma reportagem registra 74
+  ligações em um ano e meio, não reconciliado com precisão com o "ao menos 70" já registrado.'
+- 'Em 30/06/2026, a defesa de Wagner peticionou a Mendonça contestando "com dados e fatos as onze hipóteses
+  de ilegalidade" do inquérito da PF, reiterando que ele "nunca teve negócios com o Banco Master", "nunca
+  atuou como intermediário de interesses da instituição" e "nunca votou a favor de projetos que pudessem
+  beneficiá-la" — teor completo das onze hipóteses não divulgado nem lido pela equipe.'
+- 'Em mensagem a jornalista de 19/08/2025, durante a negociação da venda do Master ao BRB, Vorcaro nomeou
+  Wagner, junto com Rui Costa e o ministro Alexandre Silveira, como autoridades do governo Lula favoráveis
+  à operação — mensagem que a PF usou para sustentar o pedido contra Wagner na 9ª fase; Rui Costa e Silveira
+  não são investigados por este fato.'
 - O relatório da PF de 30/07/2026 (PDF de 33 MB) não foi lido pela equipe; o corpus registra a síntese
   do Poder360.
 - O corpus não contém denúncia ou decisão de mérito sobre o senador.
@@ -176,13 +194,18 @@ source_ids:
 - src-poder360-2026-wagner-rui-costa-favoreceram-negocio
 - src-brasilapi-2026-ebal-capital-social
 - src-brasilapi-2026-ngvspe-empreendimentos
+- src-jornaldebrasilia-2026-09-12-emenda-master-wagner
+- src-bnews-2026-09-12-wagner-favor-master-vantagens-luxo
+- src-metropoles-2026-08-vorcaro-ministros-lula-venda-master
+- src-diariocarioca-2026-09-12-pf-liga-wagner-pauta-master
+- src-timesbrasil-2026-09-relatorio-pf-wagner-vantagens
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Jaques_Wagner
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-13'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-13'
 photo:
   path: /fotos/jaques-wagner.jpg
   source: Wikimedia Commons

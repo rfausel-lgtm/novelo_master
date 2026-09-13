@@ -1,0 +1,34 @@
+id: ev-pf-emenda-master-cronologia-guilherme-sodre-e-lima
+kind: evidence
+classification: A
+proposition: 'A PF, no relatório cujo sigilo Mendonça levantou em 11/09/2026, reconstrói a cronologia da
+  Emenda 11 à PEC 65/2023 (a "Emenda Master") a partir de mensagens: seis dias antes da apresentação de
+  13/08/2024, o publicitário Guilherme Henrique Sodré Martins procurou Vorcaro pedindo discrição sobre um
+  "tema importante" e avisou que o chefe de gabinete de Wagner entraria em contato; no dia da apresentação,
+  Augusto Lima telefonou para Wagner (9min19s de duração) e em seguida enviou o link da emenda; duas semanas
+  depois, Lima visitou pessoalmente o gabinete do senador e reenviou o texto da proposta. Em mensagem de
+  agosto de 2024, o próprio Wagner escreveu a Lima: "Vamos marcar, que eu precisava conversar com você pra
+  saber como estão as coisas do banco". Em 29/03/2025, Lima escreveu a Wagner: "Você mais do que ninguém
+  sabe de minha história e faz parte disso!!". Para a PF, essa sequência "configura um padrão de acompanhamento
+  direto, por Senador Jaques Wagner, de pauta legislativa de interesse" do Master, com a relação caracterizada
+  como aparentemente unidirecional: "o Senador recebe ou solicita vantagens ou favores, e o empresário os
+  concede". Reportagem da mesma data registra 74 ligações entre Lima e Wagner em um ano e meio, atualizando
+  a contagem de "ao menos 70" já registrada no corpus.'
+document_ids: []
+source_ids:
+- src-jornaldebrasilia-2026-09-12-emenda-master-wagner
+- src-diariocarioca-2026-09-12-pf-liga-wagner-pauta-master
+- src-bnews-2026-09-12-wagner-favor-master-vantagens-luxo
+attributed_to: Polícia Federal, em relatório citado por reportagens de 12/09/2026 sobre a decisão de Mendonça
+  de 11/09/2026
+date: '2026-09-11'
+notes: A mensagem "faz parte disso" e a caracterização de "padrão de acompanhamento direto de pauta legislativa"
+  são elementos novos em relação ao que o corpus já registrava (contato frequente com Lima, ligação de
+  13/08/2024, pedido de vista em 14/08) — aprofundam, sem contradizer, o quadro anterior. O número de contatos
+  (74 em um ano e meio, contra "ao menos 70" sem período definido) não está reconciliado com precisão; ambos
+  podem descrever a mesma contagem com arredondamento diferente.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
