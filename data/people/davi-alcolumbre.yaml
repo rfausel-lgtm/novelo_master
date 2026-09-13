@@ -57,6 +57,26 @@ open_questions:
   seis meses antes, em representação individual ao STF de 09/03/2026 (e-Doc 82 da PET 15.556), que pediu seu
   afastamento cautelar da presidência do Senado citando a perda de R$ 400 milhões do Amprev no Master — sem
   que o corpus tenha localizado notícia de que o STF deu seguimento ao pedido.'
+- 'Achado em 13/09/2026: Alberto Samuel Alcolumbre Tobelem — já registrado no corpus como presidente da
+  Junta Comercial do Amapá, identificado pela imprensa (não por documento oficial) como seu irmão — integrou
+  o Conselho Estadual de Previdência do Amapá em 2023-2024 e, a partir de 2025, o Conselho Fiscal da própria
+  Amprev, órgão criado depois das três deliberações de julho de 2024 que aprovaram cerca de R$ 400 milhões
+  em letras do Banco Master. A PF e o MP-AP apuram se o fundo foi formalmente alertado sobre riscos antes
+  de aportar os recursos (ver ev-glaucio-bezerra-alerta-30-07-2024-fundo-com-irmao-de-alcolumbre e
+  alberto-samuel-alcolumbre-tobelem.yaml). O corpus não localizou ata que o situe presente em qualquer
+  deliberação específica sobre o Master, nem ato concreto da apuração contra ele. A assessoria do senador
+  classificou como "falsa e irresponsável qualquer tentativa de vincular o presidente do Senado a essas
+  nomeações ou decisões".'
+- 'DESENVOLVIMENTO EM 03/09/2026 (achado em 13/09/2026): a própria PF, em relatório de inteligência que
+  fundamenta a decisão de Moraes contra Mendonça, formula uma hipótese com os MESMOS três nomes (Mendonça,
+  Rueda, Alcolumbre) mas em direção causal OPOSTA à do editor: não que Alcolumbre blinda Moraes por causa
+  do esquema de Rueda/ACM Neto, mas que o próprio Mendonça poderia estar usando uma investigação sobre
+  Rueda como "rota de acesso" para atingir Alcolumbre, descrito como "provável alvo estratégico" por seu
+  controle da pauta do Senado "notadamente quanto ao processamento de pedidos de impeachment de ministros
+  do Supremo" — e por ter sido, segundo o mesmo relatório, "grande empecilho" à indicação de Mendonça ao
+  STF no governo Bolsonaro. A reportagem que reproduz o trecho frisa que a PF trabalha com hipótese de
+  inteligência, não com fato comprovado; não há, até esta coleta, investigação aberta, cautelar ou oitiva
+  contra Rueda ou Alcolumbre que qualquer autoridade atribua a esse motivo específico.'
 - O corpus não registra se e quando o requerimento da CPMI do Master foi lido.
 - O senador não é investigado na operação Zona Cinzenta, segundo a CNN; o corpus não contém documento
   que corrobore o relato da Veja.
@@ -88,11 +108,14 @@ source_ids:
 - src-decisao-zona-cinzenta-integral-pje-trf1
 - src-amprev-lei-0915-2005-consolidada
 - src-stf-pet15556-edoc82-representacao-emerson-pontes-alcolumbre-09-03-2026
+- src-poder360-2026-09-relatorio-pf-alvo-estrategico-alcolumbre
+- src-gazetadopovo-2026-02-pf-mp-irmao-aliado-alcolumbre-alerta-ignorado
+- src-otempo-2026-02-fundo-irmao-aliado-alcolumbre-alerta-master
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Davi_Alcolumbre
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-09-13'
 created_at: '2026-09-03'
 updated_at: '2026-09-13'
 photo:

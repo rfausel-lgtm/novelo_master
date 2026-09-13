@@ -1,0 +1,24 @@
+id: rel-alberto-samuel-alcolumbre-tobelem-davi-alcolumbre-familial
+kind: relationship
+from_id: alberto-samuel-alcolumbre-tobelem
+to_id: davi-alcolumbre
+relationship_type: familial
+directed: false
+label: irmão, segundo a imprensa
+description: Reportagens de fevereiro de 2026 (Gazeta do Povo, O Tempo) identificam Alberto Samuel Alcolumbre
+  Tobelem como irmão do senador Davi Alcolumbre. A equipe não confirmou o parentesco em documento oficial
+  (certidão, registro civil).
+evidence_class: A
+confidence: 0.5
+status: unverified
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-gazetadopovo-2026-02-pf-mp-irmao-aliado-alcolumbre-alerta-ignorado
+- src-otempo-2026-02-fundo-irmao-aliado-alcolumbre-alerta-master
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

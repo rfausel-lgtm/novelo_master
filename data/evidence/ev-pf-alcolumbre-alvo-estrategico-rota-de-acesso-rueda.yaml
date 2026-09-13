@@ -1,0 +1,30 @@
+id: ev-pf-alcolumbre-alvo-estrategico-rota-de-acesso-rueda
+kind: evidence
+classification: A
+proposition: 'O relatório de inteligência da PF que fundamenta a decisão de Moraes de 03/09/2026 contra
+  Mendonça dedica uma seção a "Alcolumbre como ''alvo estratégico''": descreve o presidente do Senado como
+  "provável alvo estratégico, considerada sua força política, o favoritismo para manter-se na presidência
+  do Senado Federal e o consequente controle da pauta daquela Casa, notadamente quanto ao processamento
+  de pedidos de impeachment de ministros do Supremo Tribunal Federal". O documento levanta a hipótese de
+  que Mendonça poderia ver no presidente do União Brasil, Antônio Rueda, uma "rota de acesso" a Alcolumbre,
+  e relaciona a suspeita à "resistência de Alcolumbre à indicação de Mendonça ao STF durante o governo de
+  Jair Bolsonaro", descrevendo-o como "grande empecilho" àquela indicação.'
+document_ids: []
+source_ids:
+- src-poder360-2026-09-relatorio-pf-alvo-estrategico-alcolumbre
+attributed_to: Relatório de inteligência da Polícia Federal, citado na decisão de Alexandre de Moraes de 03/09/2026
+excerpt: provável alvo estratégico [...] rota de acesso [...] grande empecilho
+date: '2026-09-03'
+notes: 'O próprio relatório, segundo a reportagem, qualifica a hipótese como de inteligência, não como fato
+  comprovado — não há, até esta coleta, qualquer ato concreto (investigação aberta, cautelar, oitiva) contra
+  Rueda ou Alcolumbre que a PF ou o STF atribuam a esse motivo específico. Esta é uma hipótese formulada
+  pela PRÓPRIA PF sobre a conduta de Mendonça — direção causal distinta e não confirmada por nenhuma fonte
+  da hipótese editorial já registrada em open_questions de davi-alcolumbre.yaml (que especulava a via inversa:
+  Alcolumbre blindando Moraes por causa do esquema de comissões atribuído a Rueda/ACM Neto). As duas hipóteses
+  compartilham os mesmos três nomes (Mendonça, Rueda, Alcolumbre) mas atribuem motivação e direção causal
+  opostas; nenhuma delas está estabelecida como fato.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
