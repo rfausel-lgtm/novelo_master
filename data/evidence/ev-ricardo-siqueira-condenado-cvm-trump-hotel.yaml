@@ -1,0 +1,23 @@
+id: ev-ricardo-siqueira-condenado-cvm-trump-hotel
+kind: evidence
+classification: A
+proposition: 'Ricardo Siqueira Rodrigues foi condenado pela CVM em dezembro de 2024 — antes, portanto, do
+  episódio RioPrevidência/Banco Master — por fraude no empreendimento imobiliário LSH Hotel (que teve
+  licença para usar a marca Trump, na Barra da Tijuca): R$ 17,7 milhões de condenação individual, dentro de
+  uma fraude total estimada em R$ 45 milhões no projeto. Votou pela aprovação de um laudo que sabia estar
+  inflacionado. Co-réu: Paulo Figueiredo Filho, sócio no empreendimento.'
+document_ids: []
+source_ids:
+- src-diariodorio-2026-09-12-ricardo-siqueira-condenacao-cvm-trump-hotel
+attributed_to: Diário do Rio de Janeiro, citando decisão da CVM de dezembro de 2024
+excerpt: operação fraudulenta, atuação irregular no mercado de valores mobiliários e quebra do dever de
+  diligência
+date: '2024-12'
+notes: É uma QUARTA apuração/condenação envolvendo Ricardo Siqueira, distinta das três já registradas no
+  acervo (Rizoma, Circus Maximus, Encilhamento — ver lote 285) — e a única, até esta coleta, com condenação
+  administrativa formal (CVM), não apenas investigação ou confissão em outro contexto.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

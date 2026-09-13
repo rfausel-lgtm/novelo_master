@@ -1,0 +1,30 @@
+id: rev-2026-09-13-lote-289-ricardo-siqueira-tambem-foi-condenado-pela-cvm
+kind: revision
+date: '2026-09-13'
+title: 'Lote 289 — Ricardo Siqueira também foi condenado pela CVM, no caso do ex-Trump Hotel da Barra'
+summary: 'Achado do agente de monitoramento de imprensa, verificado por leitura direta da reportagem: Ricardo
+  Siqueira Rodrigues foi condenado pela CVM em dezembro de 2024 — antes do episódio RioPrevidência/Banco
+  Master — por fraude no empreendimento imobiliário LSH Hotel (que teve licença para usar a marca Trump, na
+  Barra da Tijuca): R$ 17,7 milhões de condenação individual dentro de um esquema total de R$ 45 milhões,
+  ao lado do coréu Paulo Figueiredo Filho. É uma quarta apuração/condenação envolvendo Ricardo Siqueira,
+  distinta das três já registradas no acervo (Rizoma, Circus Maximus, Encilhamento — lote 285) — e a única
+  com condenação administrativa formal, não apenas investigação ou confissão em outro contexto.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'ricardo-siqueira-rodrigues: acrescentada a condenação pela CVM no caso do ex-Trump Hotel da Barra.'
+author: orquestrador
+affected_ids:
+- ricardo-siqueira-rodrigues
+reason: Achado do terceiro ciclo do agente de monitoramento de imprensa (a cada 15 minutos, a pedido do
+  Rafael); verificado por WebFetch direto da reportagem antes da publicação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
