@@ -1,0 +1,21 @@
+id: rel-eduardo-girao-senado-federal-institutional
+kind: relationship
+from_id: eduardo-girao
+to_id: senado-federal
+relationship_type: institutional
+directed: true
+label: senador
+description: Eduardo Girão é senador pelo Ceará (Novo).
+evidence_class: A
+confidence: 0.9
+status: unverified
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-poder360-2026-08-girao-alcolumbre-barra-cpi-amprev
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

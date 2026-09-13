@@ -40,12 +40,17 @@ open_questions:
   o senador, não uma manifestação pessoal dele sobre seu próprio papel nos colegiados da Amprev. A apuração
   da PF/MP-AP sobre o alerta ignorado, até esta coleta, não resultou em ato concreto (indiciamento, cautelar)
   contra ele especificamente.'
+- 'Achado em 13/09/2026: seu assento no Conselho Fiscal da Amprev foi citado nominalmente pelo senador
+  Eduardo Girão, em 24/08/2026, como um dos dois vínculos (ao lado de Jocildo Lemos) que fundamentariam
+  um suposto conflito de interesses de Davi Alcolumbre ao bloquear a CPI do Master no Senado — acusação
+  de um parlamentar, não apuração formal contra ele.'
 source_ids:
 - src-diofe-7825-2023-01-03
 - src-diofe-8594-2026-02-11
 - src-gazeta-2026-01-29-pf-mp-amprev
 - src-gazetadopovo-2026-02-pf-mp-irmao-aliado-alcolumbre-alerta-ignorado
 - src-otempo-2026-02-fundo-irmao-aliado-alcolumbre-alerta-master
+- src-poder360-2026-08-girao-alcolumbre-barra-cpi-amprev
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-13'

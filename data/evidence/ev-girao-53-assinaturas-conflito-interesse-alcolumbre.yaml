@@ -1,0 +1,23 @@
+id: ev-girao-53-assinaturas-conflito-interesse-alcolumbre
+kind: evidence
+classification: A
+proposition: Em 24/08/2026, o senador Eduardo Girão (Novo-CE) declarou que Davi Alcolumbre barra a instalação
+  da CPI do Banco Master no Senado por "conflito de interesses", afirmando ter reunido 53 assinaturas para
+  o requerimento. Citou nominalmente Alberto Alcolumbre (conselheiro fiscal da Amprev, irmão do presidente
+  do Senado) e Jocildo Silva Lemos (ex-presidente da Amprev, tesoureiro de campanha de Alcolumbre) como os
+  vínculos que fundamentam a acusação.
+document_ids: []
+source_ids:
+- src-poder360-2026-08-girao-alcolumbre-barra-cpi-amprev
+attributed_to: Senador Eduardo Girão, em declaração à imprensa
+excerpt: conflito de interesses
+date: '2026-08-24'
+notes: Acusação de um parlamentar contra outro; a assessoria de Alcolumbre não a contestou, apenas disse
+  que não comentaria. Distinta do episódio de 21/05/2026 (evt-2026-05-21-alcolumbre-cpmi-discricionaria),
+  em que Alcolumbre justificou a não leitura do requerimento por critério regimental, sem que o corpus
+  tenha reconciliado se ambos os episódios tratam do mesmo requerimento.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

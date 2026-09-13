@@ -1,0 +1,44 @@
+id: evt-2025-09-17-rueda-vira-alvo-carbono-oculto
+kind: event
+title: Rueda vira alvo da PF na Operação Carbono Oculto
+event_type: investigation_step
+date: '2025-09-17'
+date_precision: day
+participant_ids:
+- antonio-rueda
+- policia-federal
+description: 'A PF passou a investigar se Antônio Rueda seria dono oculto de jatos executivos formalmente
+  registrados em nome de terceiros e de fundos de investimento — o Fundo Bariloche e o Fundo Viena (gestora
+  Genial), classificados como "fundos caixa-preta". O piloto Mauro Caputti Mattosinho afirmou à PF que
+  Rueda seria dono oculto de 4 dos 10 jatos operados pela Táxi Aéreo Piracicaba (TAP), empresa que também
+  operava aeronaves usadas por Roberto Augusto Leme da Silva ("Beto Louco") e Mohamad Hussein Mourad
+  ("Primo"), foragidos apontados como líderes do esquema de combustíveis do PCC apurado pela Carbono
+  Oculto. Rueda negou qualquer envolvimento, classificando as acusações como "ilações irresponsáveis sem
+  fundamento" e "absolutamente infundadas", com motivação política. Até setembro de 2026, segundo fontes
+  ligadas ao caso, não há provas formais contra ele — apenas indícios em análise, sem oitiva, indiciamento,
+  denúncia ou arquivamento.'
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-rueda-alvo-carbono-oculto-jatinhos-fundos-caixa-preta
+source_ids:
+- src-istoe-2025-09-piloto-rueda-jatinhos-pcc
+- src-metropoles-2025-09-rueda-alvo-carbono-oculto-fundos
+- src-ndmais-2026-quem-e-rueda-carbono-oculto-status
+document_ids: []
+public_act_ids: []
+cited_position:
+- by_id: antonio-rueda
+  kind: denial
+  summary: '"Ilações irresponsáveis sem fundamento", com motivação política; separadamente, que seu nome
+    "foi suscitado em um contexto absolutamente infundado" e que tomará "todas as medidas cabíveis para
+    proteger sua reputação".'
+  source_ids:
+  - src-istoe-2025-09-piloto-rueda-jatinhos-pcc
+  - src-metropoles-2025-09-rueda-alvo-carbono-oculto-fundos
+  date: '2025-09-18'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

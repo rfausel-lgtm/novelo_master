@@ -78,6 +78,12 @@ open_questions:
   inteligência, não com fato comprovado; não há, até esta coleta, investigação aberta, cautelar ou oitiva
   contra Rueda ou Alcolumbre que qualquer autoridade atribua a esse motivo específico.'
 - O corpus não registra se e quando o requerimento da CPMI do Master foi lido.
+- 'Achado em 13/09/2026: em 24/08/2026, o senador Eduardo Girão acusou publicamente Alcolumbre de bloquear
+  a CPI do Master por "conflito de interesses", citando nominalmente o irmão dele no conselho fiscal da
+  Amprev e seu ex-tesoureiro de campanha à frente da autarquia, e afirmando ter reunido 53 assinaturas.
+  A assessoria de Alcolumbre disse apenas que não comentaria o assunto, sem contestar os fatos citados.
+  Não reconciliado com o episódio de 21/05/2026, em que Alcolumbre justificou por critério regimental a
+  não leitura de requerimento de CPMI.'
 - O senador não é investigado na operação Zona Cinzenta, segundo a CNN; o corpus não contém documento
   que corrobore o relato da Veja.
 - Não há documento oficial que registre indicação, ofício ou correspondência dele relativa à nomeação
@@ -111,6 +117,7 @@ source_ids:
 - src-poder360-2026-09-relatorio-pf-alvo-estrategico-alcolumbre
 - src-gazetadopovo-2026-02-pf-mp-irmao-aliado-alcolumbre-alerta-ignorado
 - src-otempo-2026-02-fundo-irmao-aliado-alcolumbre-alerta-master
+- src-poder360-2026-08-girao-alcolumbre-barra-cpi-amprev
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Davi_Alcolumbre
 review_status: published

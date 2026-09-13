@@ -1,0 +1,36 @@
+id: evt-2026-08-24-girao-acusa-alcolumbre-conflito-interesse-cpi-amprev
+kind: event
+title: Girão acusa Alcolumbre de bloquear CPI do Master por conflito de interesses com a Amprev
+event_type: statement
+date: '2026-08-24'
+date_precision: day
+participant_ids:
+- eduardo-girao
+- davi-alcolumbre
+- alberto-samuel-alcolumbre-tobelem
+- jocildo-lemos
+- senado-federal
+description: O senador Eduardo Girão declarou que Alcolumbre barra a instalação da CPI do Banco Master no
+  Senado por "conflito de interesses", citando nominalmente que o irmão do presidente do Senado, Alberto
+  Alcolumbre, é conselheiro fiscal da Amapá Previdência, e que Jocildo Silva Lemos, ex-presidente da
+  autarquia, foi tesoureiro de sua campanha. Disse ter reunido 53 assinaturas para o requerimento. A
+  assessoria de Alcolumbre disse que não comentaria o assunto.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-girao-53-assinaturas-conflito-interesse-alcolumbre
+source_ids:
+- src-poder360-2026-08-girao-alcolumbre-barra-cpi-amprev
+document_ids: []
+public_act_ids: []
+cited_position:
+- by_id: davi-alcolumbre
+  kind: no_response
+  summary: A assessoria disse que não comentaria o assunto, sem contestar os fatos citados por Girão.
+  source_ids:
+  - src-poder360-2026-08-girao-alcolumbre-barra-cpi-amprev
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

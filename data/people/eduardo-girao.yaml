@@ -1,0 +1,33 @@
+id: eduardo-girao
+kind: person
+name: Eduardo Girão
+category: politician
+role: Senador (Novo-CE)
+positions:
+- title: Senador
+  organization_id: senado-federal
+  source_ids:
+  - src-poder360-2026-08-girao-alcolumbre-barra-cpi-amprev
+summary: Senador pelo Ceará (Novo). Em 24/08/2026, declarou que o presidente do Senado, Davi Alcolumbre,
+  barra a instalação da CPI do Banco Master por "conflito de interesses", citando o irmão do senador,
+  Alberto Alcolumbre, conselheiro fiscal da Amapá Previdência, e o ex-presidente da autarquia, Jocildo
+  Silva Lemos, tesoureiro de campanha de Alcolumbre. Disse ter reunido 53 assinaturas para o requerimento
+  da CPI. Não é investigado nem alvo de qualquer apuração do caso Master.
+why_in_novelo: Autor da acusação pública mais direta, até esta coleta, de que Alcolumbre tem conflito de
+  interesses pessoal ao decidir sobre a CPI do Banco Master no Senado.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação adicional dele, além da declaração de 24/08/2026, foi localizada pela equipe.
+open_questions:
+- Não localizada resposta pessoal de Girão a eventuais críticas; a assessoria de Alcolumbre apenas disse
+  que não comentaria o assunto, sem contestar os fatos citados por Girão.
+- Se as 53 assinaturas citadas por Girão em 24/08/2026 coincidem com o mesmo requerimento tratado em
+  21/05/2026 (quando Alcolumbre alegou ato discricionário) ou constituem requerimento distinto — o corpus
+  não reconciliou os dois episódios.
+source_ids:
+- src-poder360-2026-08-girao-alcolumbre-barra-cpi-amprev
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
