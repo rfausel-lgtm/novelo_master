@@ -28,7 +28,13 @@ summary: 'Quatro ofícios do mesmo dia, juntados à Pet 16.704, pedindo que a c�
 notes: 'Peças obtidas via peticionamento.stf.jus.br (sessão do Rafael). O Ofício 13/2026-GMCZ, anterior ao 14,
   não pôde ser lido (PDF sem texto extraível). ATUALIZAÇÃO (13/09/2026): o Ofício GMAM 09/2026 (datado
   11/09/2026, juntado 13/09/2026), antes marcado como ilegível, foi lido via OCR — ver detalhe em
-  ev-moraes-acusa-mendonca-de-levantamento-seletivo-de-sigilo.'
+  ev-moraes-acusa-mendonca-de-levantamento-seletivo-de-sigilo.
+
+  ATUALIZAÇÃO (13/09/2026, texto integral do Ofício GMAM 10/2026 lido): Moraes cita o próprio ofício em que
+  Mendonça justificou o lacre (Ofício nº 33/2026-CNQ/CGRC/DICOR/PF, de 08/03/2026, no qual a PF alega ter
+  entregue a cópia "de forma voluntária e espontânea") e reitera, invocando o argumento já usado por Zanin no
+  Ofício 14/2026-GMCZ (lacre protege o original, não a cópia): "não cabe ao Ministro relator escolher quais
+  os documentos acessíveis ao Colegiado para realizar seu julgamento."'
 verification:
   checked_at: '2026-09-13'
   checked_by: orquestrador

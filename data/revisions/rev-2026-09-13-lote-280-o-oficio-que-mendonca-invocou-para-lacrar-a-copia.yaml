@@ -1,0 +1,36 @@
+id: rev-2026-09-13-lote-280-o-oficio-que-mendonca-invocou-para-lacrar-a-copia
+kind: revision
+date: '2026-09-13'
+title: 'Lote 280 — o ofício que Mendonça invocou para justificar o lacre, e a réplica de Moraes'
+summary: 'Leitura integral do Ofício GMAM nº 10/2026 (11/09/2026, Pet 16.704), já baixado em sessão anterior
+  mas ainda não lido. Enriquecimento de precisão sobre um fato já publicado (a disputa pelo HD lacrado do
+  celular de Vorcaro): Moraes cita o próprio ofício com que Mendonça justificou o lacre — Ofício nº
+  33/2026-CNQ/CGRC/DICOR/PF, de 08/03/2026, no qual a Polícia Federal alega ter entregue a cópia de segurança
+  "de forma voluntária e espontânea" — e reitera, apoiando-se no mesmo argumento de Zanin (o lacre protege o
+  original, não a cópia), a frase: "não cabe ao Ministro relator escolher quais os documentos acessíveis ao
+  Colegiado para realizar seu julgamento." Não altera a conclusão já publicada, mas identifica com precisão o
+  documento primário que fundamentou a posição de Mendonça e cristaliza a réplica de Moraes em citação
+  literal.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'src-stf-pet16704-oficios-acesso-midia-celular-2026-09-11: acrescentada a identificação do Ofício nº
+  33/2026-CNQ/CGRC/DICOR/PF (08/03/2026) citado por Mendonça, e a citação literal da réplica de Moraes no
+  Ofício GMAM 10/2026.'
+author: orquestrador
+affected_ids:
+- alexandre-de-moraes
+- andre-mendonca
+- cristiano-zanin
+reason: Documento já estava baixado (sessão de 13/09 às 09:54) mas não tinha sido lido; leitura direta antes
+  de despachar novo download-fork, para não duplicar trabalho.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
