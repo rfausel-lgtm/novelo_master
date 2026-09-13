@@ -10,6 +10,12 @@ summary: 'Empresa de Ribeirão Claro (PR) ligada à incorporação do Resort Tay
   primo do ministro Dias Toffoli, é apontado como tendo relação societária com ela.'
 why_in_novelo: É a segunda empresa, além da Maridt, pela qual a CPI do Crime Organizado liga o resort Tayayá ao fundo
   Arleen, ligado ao cunhado de Daniel Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação da empresa ou de seus sócios localizada; a reportagem do Jornal de Brasília não conseguiu
+    falar com Mario Umberto Degani.
+  source_ids:
+  - src-jornaldebrasilia-2026-01-27-primo-de-toffoli-degani-tayaya
 open_questions:
 - CNPJ, quadro societário e datas de entrada e saída dos sócios não foram conferidos em registro oficial pelo acervo.
 - A razão social da holding que comprou as cotas aparece como PHD Holding no requerimento do Senado e como PHB Holding em
