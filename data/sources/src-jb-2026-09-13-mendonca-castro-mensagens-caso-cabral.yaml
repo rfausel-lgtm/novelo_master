@@ -1,0 +1,27 @@
+id: src-jb-2026-09-13-mendonca-castro-mensagens-caso-cabral
+kind: source
+title: Mensagens de 2022 revelam pedido de Cláudio Castro a Mendonça sobre o "caso Cabral"
+publisher: Jornal do Brasil
+publication_date: '2026-09-13'
+retrieved_at: '2026-09-13'
+url: https://www.jb.com.br/brasil/justica/2026/09/1060895-andre-mendonca-nega-busca-da-pf-contra-claudio-castro-no-caso-master.html
+source_type: press
+summary: 'Com a queda de sigilo que trouxe à tona documentos antes restritos, vieram a público mensagens de
+  2022 em que o então governador do Rio, Cláudio Castro, escreveu a André Mendonça — "Amigo, preciso falar"
+  — mencionando o "caso Cabral" (o ex-governador Sérgio Cabral) e encaminhando arquivos sobre pedidos de
+  habeas corpus. Mendonça respondeu que ligaria em alguns minutos; dias depois, votou pela soltura de Sérgio
+  Cabral. A matéria também recorda que, em julho de 2026, Mendonça já havia indeferido pedido da PF (com
+  parecer favorável do PGR Paulo Gonet) para nova busca e apreensão contra Castro no âmbito do caso
+  RioPrevidência/Banco Master, por entender que a representação não trazia elementos suficientes.'
+notes: Verificado por WebFetch direto. Não localizado, nesta coleta, o teor completo da troca de mensagens
+  além do trecho citado, nem a data exata do voto de Mendonça pela soltura de Cabral.
+verification:
+  checked_at: '2026-09-13'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

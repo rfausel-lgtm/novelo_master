@@ -14,6 +14,11 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
+- 'NOVO (13/09/2026): mensagens de 2022, reveladas com a queda de sigilo, mostram que ele escreveu a André
+  Mendonça — hoje relator do caso RioPrevidência/Master, no qual Castro é investigado — sobre o "caso
+  Cabral" (ex-governador Sérgio Cabral), enviando arquivos sobre pedidos de habeas corpus; dias depois,
+  Mendonça votou pela soltura de Cabral. Levanta questão de proximidade pessoal entre investigado e relator,
+  ainda não aprofundada.'
 - 'PARCIALMENTE RESOLVIDO (13/09/2026): localizada a peça de origem do caso — representação da PF de
   20/02/2026 (Pet 15.497), lida por inteiro. A PF aponta que Vorcaro teria custeado jantares de luxo em Nova
   York e um evento de "degustação de whiskey" (mais de US$ 1 milhão) em favor de Castro, e cita mensagens do
@@ -40,6 +45,7 @@ open_questions:
   de secretário e origina-se do Processo SEI-150001/006360/2021, cuja obtenção mostraria quem propôs o
   inciso VIII e como se justificou o limite de 20%.'
 source_ids:
+- src-jb-2026-09-13-mendonca-castro-mensagens-caso-cabral
 - src-stf-portal-pet15676-15686-andamentos-2026-09-13
 - src-stf-pet15497-representacao-pf-e-despacho-claudio-castro
 - src-stf-2026-05-26-oitava-fase-castro

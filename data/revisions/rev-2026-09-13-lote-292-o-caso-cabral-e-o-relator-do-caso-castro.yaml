@@ -1,0 +1,35 @@
+id: rev-2026-09-13-lote-292-o-caso-cabral-e-o-relator-do-caso-castro
+kind: revision
+date: '2026-09-13'
+title: 'Lote 292 — o "caso Cabral": mensagens de 2022 entre Cláudio Castro e o hoje relator André Mendonça'
+summary: 'Achado do agente de monitoramento de imprensa, verificado por WebFetch direto: com a queda de
+  sigilo que trouxe à tona documentos antes restritos, vieram a público mensagens de 2022 em que Cláudio
+  Castro (então governador do Rio) escreveu a André Mendonça — "Amigo, preciso falar" — sobre o "caso Cabral"
+  (o ex-governador Sérgio Cabral), enviando arquivos de pedidos de habeas corpus; Mendonça respondeu que
+  ligaria em minutos, e dias depois votou pela soltura de Cabral. Mendonça é hoje o relator do caso
+  RioPrevidência/Banco Master, no qual Castro é investigado, e indeferiu em julho de 2026 um pedido de nova
+  busca e apreensão contra Castro, mesmo com parecer favorável do PGR Paulo Gonet. Levanta uma questão de
+  proximidade pessoal entre relator e investigado, no mesmo contexto mais amplo da crise de imparcialidade já
+  documentada no acervo.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'claudio-castro: novo open_question sobre as mensagens de 2022 com Mendonça.'
+- 'andre-mendonca: novo open_question sobre a proximidade com Castro e a possível relação com decisões
+  posteriores no caso RioPrevidência.'
+author: orquestrador
+affected_ids:
+- andre-mendonca
+- claudio-castro
+reason: Achado do agente de monitoramento de imprensa a cada 15 minutos; verificado por WebFetch antes da
+  publicação, confirmando data de 13/09/2026 e origem em documento recém-desigilado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
