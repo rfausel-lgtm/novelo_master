@@ -1,6 +1,7 @@
 id: rev-2026-09-13-saneamento-consistencia-das-ligacoes
 kind: revision
 date: '2026-09-13'
+published_at: '2026-09-13T10:31:23-03:00'
 title: 'Saneamento: ligações repetidas, lastro fora do alvo e entidades soltas'
 summary: 'Terceira etapa da manutenção de integridade do grafo — não é apuração nova. Uma análise de consistência
   conferiu, para cada ligação, se o próprio registro e as fontes citadas nomeiam as duas pontas, e achou quatro
