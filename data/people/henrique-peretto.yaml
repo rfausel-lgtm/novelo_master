@@ -27,7 +27,9 @@ summary: 'Fundou a Cartos SCD em 03/11/2014 e segue como seu representante forma
   acervo, que só o ligava à Cartos. A mesma decisão narra que ele encaminhou a Seixas Maia, em 17/04/2025,
   uma ata de assembleia extraordinária da Tirreno supostamente de 02/12/2024, dois dias depois de a
   empresa ter sido formalmente registrada na JUCESP em 15/04/2025 — indício, segundo a autoridade
-  policial, de documento fabricado a posteriori.'
+  policial, de documento fabricado a posteriori. ACHADO (lote 260): segundo a PF, repassava a Vorcaro as
+  requisições do Banco Central à Cartos no dia em que eram assinadas e submetia a ele as respostas, e o celular dele
+  mostra um FIDC de R$ 31,44 milhões que dizia reservado ao aumento de capital da Tirreno.'
 why_in_novelo: É apontado por Daniel Vorcaro como o criador da Tirreno — atribuição que o Poder360 considera
   falsa, mas que o torna, de qualquer forma, uma das figuras centrais na disputa sobre a origem da empresa
   usada para vender créditos fabricados ao BRB.
@@ -41,6 +43,8 @@ open_questions:
   direto dele com a Tirreno (antedatação de ata, presença na assinatura dos contratos, reuniões no BRB) —
   mas não confirma nem refuta especificamente que ele a tenha "criado", questão que segue em aberto.'
 source_ids:
+- src-stf-inq5026-ipja-1252786-2026-celular-vorcaro-tirreno
+- src-stf-inq5026-rapj-21161-02-2026-celular-henrique-peretto
 - src-poder360-2026-02-04-bc-poupou-cartos
 - src-stf-inq5026-ipl1096304-completo
 - src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb

@@ -1,0 +1,34 @@
+id: rev-2026-09-12-lote-260-peretto-o-elo-entre-vorcaro-e-as-perguntas-do-bc
+kind: revision
+date: '2026-09-12'
+title: 'Lote 260 — Peretto, o elo entre Vorcaro e as perguntas do Banco Central à Cartos'
+summary: 'Fechando a leitura dos celulares analisados pela PF no INQ 5.026: Henrique Peretto, dono da Cartos e acionista
+  da Tirreno, levava a Vorcaro as requisições que o Banco Central mandava à Cartos no mesmo dia em que eram assinadas, e
+  lhe submetia cada versão das respostas. Numa delas, uma análise "exaustiva e complexa" não achara operação nenhuma; no
+  dia seguinte, a resposta passou a falar em operações interrompidas e num distrato de 30/07/2025. Ele também mandou a
+  Vorcaro o acordo entre as duas empresas em arquivo editável, sem assinaturas, datado de janeiro. E no celular dele a PF
+  achou um fundo de R$ 31,44 milhões que ele dizia reservado ao capital da Tirreno. Alegação da PF, sem denúncia.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'henrique-peretto: registrado o papel de intermediário das requisições do Banco Central descrito pela PF.'
+author: orquestrador
+affected_ids:
+- henrique-peretto
+- daniel-vorcaro
+- cartos
+- tirreno
+reason: Continuação e fecho da leitura do bloco de 12/05/2026 do INQ 5.026 via peticionamento.stf.jus.br (sessão
+  autenticada pelo próprio Rafael). Lidas sem entrada própria a análise do celular de Augusto Lima (conclusão genérica,
+  já coberta pelas mensagens do celular de Vorcaro) e a seção 4.10 da IPJ-A nº 1252786/2026. Telefones, endereço e
+  IMEIs que constam dos relatórios não são reproduzidos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

@@ -1,0 +1,28 @@
+id: ev-pf-peretto-levava-a-vorcaro-as-requisicoes-do-bc-a-cartos
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, Henrique Peretto repassava a Daniel Vorcaro os pedidos do Banco Central à Cartos
+  — em 02/07/2025 enviou-lhe, no mesmo dia em que foram assinadas, duas requisições do BC com 13 perguntas sobre as
+  cessões BRB-Master-Tirreno-Cartos — e submeteu a ele sucessivas versões das respostas até 20/08/2025, quando a Cartos
+  deixou de dizer que uma análise "exaustiva e complexa" não achara CCBs e passou a informar que as operações foram
+  interrompidas por falta de liquidação da Tirreno e que o acordo entre as duas empresas fora distratado em 30/07/2025.
+document_ids:
+- doc-2026-03-11-ipja-1252786-analise-celular-vorcaro-tirreno-brb
+- doc-2026-03-18-rapj-21161-02-celular-henrique-peretto
+source_ids:
+- src-stf-inq5026-ipja-1252786-2026-celular-vorcaro-tirreno
+- src-stf-inq5026-rapj-21161-02-2026-celular-henrique-peretto
+attributed_to: Polícia Federal, na IPJ-A nº 1252786/2026 (celular de Vorcaro) e no RAPJ nº 21161.02/2026 (celular de Peretto), juntados ao INQ 5.026
+date: '2025-07-02'
+notes: 'Para a PF, se a Cartos já sabia do distrato de 30/07, não precisaria da análise exaustiva descrita um dia antes, o
+  que indica respostas construídas sob demanda. O mesmo relatório registra que, em 16/06/2025, Peretto enviou a Vorcaro
+  o acordo operacional Cartos x Tirreno em arquivo editável e sem assinaturas, embora datado de 03/01/2025, e que em
+  06/06/2025 lhe mandou um diagrama que espelha a segunda versão apresentada sobre a origem dos créditos. Pelo registro
+  na Junta Comercial citado pela PF, Peretto aportou R$ 30 milhões no capital da Tirreno; a análise do celular dele
+  aponta um FIDC de R$ 31,44 milhões que ele dizia reservado a esse aumento de capital. Complementa
+  ev-pf-resposta-da-cartos-ao-bc-reescrita-sob-supervisao-de-vorcaro. Hipótese investigativa, sem denúncia.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
