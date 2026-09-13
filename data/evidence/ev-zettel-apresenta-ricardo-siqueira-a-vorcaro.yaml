@@ -1,0 +1,25 @@
+id: ev-zettel-apresenta-ricardo-siqueira-a-vorcaro
+kind: evidence
+classification: D
+proposition: 'A PF registra, no documento comprobatório da Pet 15.497/DF, que o contato de Ricardo Siqueira
+  Rodrigues foi repassado a Daniel Bueno Vorcaro por seu cunhado, Fabiano Campos Zettel, em 18/10/2023 — um
+  dia antes da assinatura do atestado de credenciamento do Banco Master no Rioprevidência (19/10/2023).'
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+source_ids:
+- src-stf-pet15497-ipja-886269-documento-comprobatorio
+related_entity_ids:
+- fabiano-zettel
+- ricardo-siqueira-rodrigues
+- daniel-vorcaro
+excerpt: Registra-se que o contato de RICARDO SIQUEIRA foi repassado a DANIEL BUENO VORCARO por seu cunhado,
+  FABIANO CAMPOS ZETTEL [...], no dia 18/10/2023.
+date: '2023-10-18'
+notes: A frase da PF vem acompanhada de uma captura de tela (Figura 6) do contato/conversa, não extraível por
+  OCR nesta coleta — o conteúdo literal da conversa em si não foi lido, apenas a afirmação narrativa da PF
+  sobre quem apresentou quem e quando.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

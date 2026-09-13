@@ -1,0 +1,39 @@
+id: src-stf-pet15497-ipja-886269-documento-comprobatorio
+kind: source
+title: 'Documento comprobatório anexo à representação da PF (IPJ-A nº 886269/2026, NADIP/DFIN/CGRC/DICOR/PF)
+  na Pet 15.497/DF'
+publisher: Polícia Federal (NADIP/DFIN/CGRC/DICOR)
+publication_date: '2026-02-20'
+retrieved_at: '2026-09-13'
+url: https://peticionamento.stf.jus.br/visualizarProcesso/7473633
+source_type: official_police
+summary: 'Documento comprobatório de 128 páginas anexo à representação original da PF na Pet 15.497/DF (caso
+  Rioprevidência/Cláudio Castro), nunca antes lido no acervo — só a petição-síntese estava registrada.
+  Contém: (a) transcrição de áudio em que Ricardo Siqueira Rodrigues ("Ricardo Gordo") nega a Daniel Vorcaro
+  ser o "dono" do esquema — "Eu não vou te enrolar não, cara. Lá, o dono é outro." — sem nomear quem de fato
+  "manda lá de verdade"; (b) histórico da PF sobre Ricardo Siqueira Rodrigues como operador financeiro
+  reincidente, com mandado de prisão preventiva na Operação Rizoma (fraude com déficits bilionários nos
+  fundos de pensão Postalis e Serpro, lavagem de dinheiro e evasão de divisas), citação na Operação Circus
+  Maximus (vantagens indevidas a diretores do BRB para aportes em empreendimentos hoteleiros no Rio) e
+  confissão, em termo de declarações da Operação Encilhamento (IPL 0004/2017-11-SR/DPF/SP), de pagamento de
+  R$ 1 milhão em comissões a Renato de Matteo como "financiador estratégico" recebendo "prêmios de sucesso";
+  (c) print de conversa mostrando que Fabiano Zettel apresentou Ricardo Siqueira a Daniel Vorcaro em
+  18/10/2023; (d) menção do TCE-RJ classificando como "notável coincidência" o fato de o credenciamento do
+  Banco Master no Rioprevidência ter sido aberto no mesmo dia em que Euchério Lerner Rodrigues assumiu como
+  novo diretor de investimentos, descrevendo o credenciamento como "mera compilação documental", sem análise
+  de risco.'
+notes: Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, equipe delegada). Os capítulos 8-13 (sobre
+  captação de Letras Financeiras e "comissão de Ricardo Siqueira") não foram lidos nesta coleta. Números
+  exatos de aportes por fundo citados no relatório do fork (Arena, Revolution, Texas I, Horizonte I) estão em
+  verificação — não publicados nesta fonte até confirmação literal, por divergirem em parte da reconciliação
+  já publicada (ver doc-2026-09-10-reconciliacao-dos-numeros-do-rioprevidencia-no-master).
+verification:
+  checked_at: '2026-09-13'
+  checked_by: orquestrador (via equipe delegada)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

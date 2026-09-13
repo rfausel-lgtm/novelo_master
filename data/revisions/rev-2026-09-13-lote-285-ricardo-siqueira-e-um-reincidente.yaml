@@ -1,0 +1,48 @@
+id: rev-2026-09-13-lote-285-ricardo-siqueira-e-um-reincidente
+kind: revision
+date: '2026-09-13'
+title: 'Lote 285 — Ricardo Siqueira é um reincidente em fraudes de fundo de pensão, e outros detalhes da
+  peça nunca lida do caso RioPrevidência'
+summary: 'Leitura de um documento comprobatório de 128 páginas, anexo à representação original da PF na Pet
+  15.497/DF (caso RioPrevidência/Cláudio Castro), até aqui nunca lido no acervo — só a petição-síntese estava
+  registrada. Maior achado: Ricardo Siqueira Rodrigues, intermediário dos aportes bilionários da
+  RioPrevidência no Banco Master, não é um operador estreante nesse tipo de esquema — tem mandado de prisão
+  preventiva na Operação Rizoma (fraude nos fundos de pensão Postalis e Serpro), é citado na Operação Circus
+  Maximus (propina a diretores do BRB) e confessou, na Operação Encilhamento, pagamento de R$ 1 milhão em
+  comissões como "financiador estratégico". Também: (1) em áudio, ele nega ser o "dono" do esquema sem
+  nomear quem é, mesmo à própria PF; (2) foi apresentado a Vorcaro por Fabiano Zettel em 18/10/2023; (3) o
+  TCE-RJ (citado em cadeia via O Globo) chama de "notável coincidência" o Banco Master ter aberto pedido de
+  credenciamento no Rioprevidência no mesmo dia em que Euchério Lerner Rodrigues assumiu como diretor de
+  investimentos (04/10/2023) — 15 dias antes da assinatura formal do atestado (19/10/2023, já conhecida);
+  (4) tabela discriminada, por fundo e data, dos R$ 2,01 bilhões em cotas de fundos já reconciliados no
+  acervo (lote 163) — mais granular, mas sem conflito com o total já publicado.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 3
+updated_relationships: 0
+corrections:
+- 'ricardo-siqueira-rodrigues: acrescentado histórico de reincidência (Rizoma, Circus Maximus, Encilhamento)
+  e a data de apresentação a Vorcaro.'
+- 'eucherio-lerner-rodrigues: acrescentada a "notável coincidência" apontada pelo TCE-RJ entre sua posse e o
+  pedido de credenciamento do Master, distinguindo-a da assinatura do atestado.'
+- 'fabiano-zettel: registrado que apresentou Ricardo Siqueira a Vorcaro em 18/10/2023.'
+- 'ev-ricardo-siqueira-cita-dono-e-operador-politico-no-rioprevidencia: acrescentada a citação em áudio em
+  que ele nega ser o "dono".'
+author: orquestrador
+affected_ids:
+- ricardo-siqueira-rodrigues
+- eucherio-lerner-rodrigues
+- fabiano-zettel
+- rioprevidencia
+reason: Peer fork (sessão cross-session) leu a peça a pedido desta sessão, dentro dos rumos do revisor (lote
+  276, Bloco 2, item E — identificar os "operadores" não nomeados); mandou citações literais com página/seção
+  antes da publicação, o que permitiu separar com cuidado datas e cadeias de citação que, se confundidas,
+  teriam produzido erro.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

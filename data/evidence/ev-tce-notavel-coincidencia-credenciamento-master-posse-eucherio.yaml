@@ -1,0 +1,28 @@
+id: ev-tce-notavel-coincidencia-credenciamento-master-posse-eucherio
+kind: evidence
+classification: D
+proposition: 'O documento comprobatório da PF (Pet 15.497/DF) cita reportagem de O Globo (19/11/2025), que
+  por sua vez cita o TCE-RJ classificando como "notável coincidência" que, em 04/10/2023 — mesmo dia em que
+  Euchério Lerner Rodrigues iniciou suas atividades como diretor de investimentos do Rioprevidência —, o
+  Banco Master enviou e-mail solicitando credenciamento e teve o procedimento aberto pelo órgão. Este evento
+  (abertura do procedimento, 04/10/2023) é distinto da assinatura do atestado de credenciamento em si
+  (19/10/2023, já registrada no acervo) — um intervalo de 15 dias entre os dois.'
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+source_ids:
+- src-stf-pet15497-ipja-886269-documento-comprobatorio
+related_entity_ids:
+- eucherio-lerner-rodrigues
+- rioprevidencia
+excerpt: notável coincidência
+date: '2023-10-04'
+notes: 'Cadeia de citação a três níveis: a peça da PF (fonte direta desta evidência) cita O Globo, que cita o
+  TCE-RJ — não é manifestação direta da PF nem acesso direto ao documento do TCE. Tratar com a devida cautela;
+  não equivale a uma fonte independente adicional sobre o mesmo fato, é a mesma alegação do TCE relatada por
+  camadas sucessivas. Não confundir a data de 04/10/2023 (abertura do procedimento de credenciamento) com a
+  de 19/10/2023 (assinatura do atestado final) — são dois atos distintos.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -70,6 +70,9 @@ cited_position:
   by_id: fabiano-zettel
   date: '2026-03-21'
 open_questions:
+- 'NOVO (13/09/2026): a PF registra, no documento comprobatório da Pet 15.497, que ele apresentou Ricardo
+  Siqueira Rodrigues (operador ligado ao caso RioPrevidência/Cláudio Castro) a Daniel Vorcaro em 18/10/2023 —
+  um dia antes da assinatura do atestado de credenciamento do Banco Master no Rioprevidência.'
 - Está preso preventivamente há seis meses sem que tenha sido localizada denúncia formal da PGR, recebimento
   de denúncia ou ação penal — o caso segue em inquérito, com relatório da PF previsto para o fim de setembro
   de 2026. Não foram localizados habeas corpus em seu favor nem arguição de excesso de prazo.
@@ -99,6 +102,7 @@ open_questions:
   de 2024, mas a sobreposição de administradores permaneceu: Ana Cláudia Queiroz de Paiva é diretora da
   Super e também de três empresas dele (Adonay, Storm e REN).'
 source_ids:
+- src-stf-pet15497-ipja-886269-documento-comprobatorio
 - src-correiobraziliense-2026-04-07-relatorio-paralelo-cpmi
 - src-gazeta-2026-02-14-vorcaro-cobrado-resort
 - src-metropoles-2026-02-14-vorcaro-cobrado-tayaya

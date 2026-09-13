@@ -8,13 +8,17 @@ positions:
   organization_id: rioprevidencia
   source_ids:
   - src-rioprevidencia-atestado-credenciamento-master
-summary: Assinou, em 19/10/2023, o atestado de credenciamento do Banco Master no Rioprevidência. Conduziu
+summary: 'NOVO (13/09/2026): segundo o TCE-RJ, citado em cadeia (PF cita O Globo, que cita o TCE), é "notável
+  coincidência" que, em 04/10/2023, no mesmo dia em que ele iniciou suas atividades como diretor de
+  investimentos, o Banco Master tenha enviado e-mail solicitando credenciamento e tido o procedimento aberto
+  pelo órgão — 15 dias antes de ele assinar, em 19/10/2023, o atestado de credenciamento do Banco Master no
+  Rioprevidência propriamente dito. Conduziu
   a reunião do Comitê de Investimentos de 30/11/2023 em que se aprovou a liberação genérica de teto regulatório
   para letras financeiras — sem que a ata nomeasse o Banco Master —, na mesma semana em que a autarquia
   fez sua primeira aplicação nos papéis do banco. Segundo reportagem, afirmou perante o comitê, em outubro
   de 2024, que houve due diligence e análise de balanço da instituição, com ressalva de que a avaliação
   de rating não foi feita internamente. Não é réu nem indiciado; não localizada manifestação pública direta
-  sobre as acusações de credenciamento acelerado.
+  sobre as acusações de credenciamento acelerado.'
 why_in_novelo: É o dirigente que assinou o credenciamento e conduziu a reunião em que se liberou o teto
   regulatório na mesma semana da primeira compra — sem que a decisão específica constasse da ata.
 cited_position:
@@ -27,6 +31,7 @@ cited_position:
 open_questions:
 - Não há manifestação pública direta localizada sobre as acusações da Operação Barco de Papel.
 source_ids:
+- src-stf-pet15497-ipja-886269-documento-comprobatorio
 - src-rioprevidencia-atestado-credenciamento-master
 - src-rioprevidencia-ata-11-2023-11-30
 review_status: published

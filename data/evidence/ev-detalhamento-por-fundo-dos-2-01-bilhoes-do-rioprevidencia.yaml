@@ -1,0 +1,29 @@
+id: ev-detalhamento-por-fundo-dos-2-01-bilhoes-do-rioprevidencia
+kind: evidence
+classification: D
+proposition: 'O documento comprobatório da PF (Pet 15.497/DF) discrimina, em quatro tabelas, os aportes do
+  RioPrevidência nos fundos administrados pelo grupo Master que somam os R$ 2,01 bilhões já reconciliados no
+  acervo (a "segunda frente", em cotas de fundos, distinta dos R$ 970 milhões em Letras Financeiras): fundo
+  Arena (16 lançamentos entre 19/12/2024 e 01/09/2025, R$ 1.371.035.789,96), fundo Revolution (10 lançamentos
+  entre 23/05/2025 e 19/08/2025, R$ 481.482.773,54), fundo Texas I (5 lançamentos entre 04/06/2025 e
+  08/08/2025, R$ 150.000.000,00) e fundo Institucional Horizonte I (1 lançamento em 29/08/2025, R$
+  10.000.000,00) — soma de R$ 2.012.518.563,50, compatível com o total de "R$ 2,01 bilhões" que a própria PF
+  cita no relatório.'
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+source_ids:
+- src-stf-pet15497-ipja-886269-documento-comprobatorio
+related_entity_ids:
+- rioprevidencia
+excerpt: Os investimentos do RioPrevidência nesses fundos atingiram o montante de R$ 2,01 bilhões
+date: '2026-02-20'
+notes: Este detalhamento por fundo é mais granular do que a reconciliação prévia do acervo (lote 163, ver
+  doc-2026-09-10-reconciliacao-dos-numeros-do-rioprevidencia-no-master), mas não contradiz o total já
+  reconciliado — apenas discrimina, com datas e valores por lançamento, o mesmo bloco de "R$ 2,01 bilhões em
+  cotas de fundos" ali descrito de forma agregada. Continua distinto do bloco de R$ 970 milhões em Letras
+  Financeiras (Operação Barco de Papel).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

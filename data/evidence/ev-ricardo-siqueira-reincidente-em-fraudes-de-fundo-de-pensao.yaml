@@ -1,0 +1,28 @@
+id: ev-ricardo-siqueira-reincidente-em-fraudes-de-fundo-de-pensao
+kind: evidence
+classification: D
+proposition: 'O documento comprobatório da PF anexo à Pet 15.497/DF descreve Ricardo Siqueira Rodrigues —
+  apontado como intermediário dos aportes da RioPrevidência no Banco Master — como alvo, em outras operações,
+  de mandado de prisão preventiva na Operação Rizoma (fraude com déficits bilionários nos fundos de pensão
+  Postalis e Serpro, lavagem de dinheiro e evasão de divisas) e citação na Operação Circus Maximus (vantagens
+  indevidas a diretores do BRB para viabilizar aportes em empreendimentos hoteleiros de luxo no Rio); e
+  registra confissão dele, em termo de declarações da Operação Encilhamento (IPL 0004/2017-11-SR/DPF/SP), de
+  pagamento de R$ 1 milhão em comissões a Renato de Matteo, atuando como "financiador estratégico" que recebia
+  "prêmios de sucesso".'
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+source_ids:
+- src-stf-pet15497-ipja-886269-documento-comprobatorio
+related_entity_ids:
+- ricardo-siqueira-rodrigues
+excerpt: financiador estratégico [...] prêmios de sucesso
+date: '2026-02-20'
+notes: Estabelece um padrão de reincidência em esquemas de fraude envolvendo fundos de pensão (Postalis,
+  Serpro) e corrupção institucional (BRB), anterior ao caso RioPrevidência/Banco Master — Ricardo Siqueira
+  não é um operador financeiro estreante neste tipo de esquema. Não há, nesta coleta, notícia de desfecho
+  judicial (condenação ou absolvição) das operações Rizoma, Circus Maximus ou Encilhamento.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

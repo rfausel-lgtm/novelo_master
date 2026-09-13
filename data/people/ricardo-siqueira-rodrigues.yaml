@@ -9,7 +9,11 @@ summary: 'Operador financeiro apontado pela PF e pela PGR como intermediário do
   do órgão e a um "operador político" que "manda lá de verdade" — sem nomear expressamente quem seriam. O
   Master teria pago a ele ao menos R$ 22,1 milhões pela intermediação (cerca de 0,6% do total aportado), e a
   empresa Mídias Promotora recebeu R$ 126 milhões do banco entre 2022 e 2025, descrita nas peças como veículo
-  de recebimento e distribuição de comissões.'
+  de recebimento e distribuição de comissões. NOVO (13/09/2026): o documento comprobatório da PF (Pet 15.497)
+  revela que ele não é um operador estreante nesse tipo de esquema — é alvo, em outras apurações, de mandado
+  de prisão preventiva na Operação Rizoma (fraude em fundos de pensão Postalis e Serpro), citação na Operação
+  Circus Maximus (vantagens indevidas a diretores do BRB), e confissão, na Operação Encilhamento, de pagamento
+  de R$ 1 milhão em comissões a Renato de Matteo. Foi apresentado a Vorcaro por Fabiano Zettel em 18/10/2023.'
 why_in_novelo: É apontado por PF e PGR como o operador que intermediou os aportes bilionários da
   RioPrevidência no Banco Master, e suas mensagens são citadas como indício de interferência política sobre
   o RPPS fluminense.
@@ -17,12 +21,15 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública dele localizada no corpus até a data desta apuração.
 open_questions:
-- Suas mensagens citam um "dono" do Rioprevidência e um "operador político" sem nomeá-los expressamente; a PF
-  não esclarece, na petição lida, a quem se refere.
+- 'Suas mensagens citam um "dono" do Rioprevidência e um "operador político" sem nomeá-los expressamente; a
+  PF não esclarece, na petição lida, a quem se refere. CONFIRMADO (13/09/2026): em áudio transcrito no
+  documento comprobatório, ele nega ser o "dono" ("Eu não vou te enrolar não, cara. Lá, o dono é outro."),
+  mas também não o nomeia — nem para a própria PF em depoimento. A identidade segue desconhecida.'
 - 'NOVO (13/09/2026): em 11/08/2026, Mendonça indeferiu pedido formulado por ele na Pet 15.676 (caso Cláudio
   Castro), mantendo as investigações contra ele em curso — o teor do pedido não foi lido, apenas o dispositivo
   público que o nega.'
 source_ids:
+- src-stf-pet15497-ipja-886269-documento-comprobatorio
 - src-stf-portal-pet15676-15686-andamentos-2026-09-13
 - src-stf-pet15497-representacao-pf-e-despacho-claudio-castro
 - src-agendadopoder-ricardo-siqueira-lobista

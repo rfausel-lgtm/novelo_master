@@ -8,14 +8,19 @@ proposition: 'Mensagens de Ricardo Siqueira Rodrigues, operador financeiro apont
   seriam essas pessoas.'
 document_ids:
 - doc-2026-02-20-representacao-pf-claudio-castro-rioprevidencia
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
 source_ids:
 - src-stf-pet15497-representacao-pf-e-despacho-claudio-castro
+- src-stf-pet15497-ipja-886269-documento-comprobatorio
 excerpt: um "dono" do órgão e de um "operador político" que "manda lá de verdade"
 attributed_to: Ricardo Siqueira Rodrigues, em mensagens citadas pela PF (Pet 15.497)
 date: '2026-02-20'
-notes: A PF lê essas mensagens como indício de interferência política externa sobre decisões técnicas do RPPS,
+notes: 'A PF lê essas mensagens como indício de interferência política externa sobre decisões técnicas do RPPS,
   no contexto da hipótese de corrupção envolvendo o então governador Cláudio Castro; não identifica
-  expressamente a quem as expressões "dono" e "operador político" se referem.
+  expressamente a quem as expressões "dono" e "operador político" se referem. CONFIRMADO (13/09/2026): no
+  documento comprobatório anexo (128 páginas), áudio transcrito registra Ricardo Siqueira negando ser ele o
+  "dono" — "Eu não vou te enrolar não, cara. Lá, o dono é outro." — mas, mesmo em depoimento à própria PF, ele
+  não o nomeia. A identidade de ambos ("dono" e "operador político") segue desconhecida.'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-13'
