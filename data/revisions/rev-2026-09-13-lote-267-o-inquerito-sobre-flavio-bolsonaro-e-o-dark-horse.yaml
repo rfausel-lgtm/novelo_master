@@ -1,0 +1,45 @@
+id: rev-2026-09-13-lote-267-o-inquerito-sobre-flavio-bolsonaro-e-o-dark-horse
+kind: revision
+date: '2026-09-13'
+title: 'Lote 267 — o inquérito sobre Flávio Bolsonaro: "irmão, estou e estarei contigo sempre"'
+summary: 'Continuando o mapeamento dos 17 processos que a PGR listou como excluídos do levantamento de sigilo
+  de 10/09 (lote 265), a Pet 16.369 apareceu reautuada como INQ 5.070. Lida por inteiro: é o inquérito formal
+  que investiga o senador Flávio Bolsonaro por lavagem de dinheiro, evasão de divisas, corrupção e organização
+  criminosa no financiamento do filme "Dark Horse" — resolvendo o open_question que o acervo já registrava
+  ("os inquéritos no STF não foram lidos pela equipe"). A representação da PF, com base em mensagens extraídas
+  do celular de Vorcaro, mostra Flávio como interlocutor direto do banqueiro — não terceiro mencionado — em
+  cobranças de pagamento ao longo de 2025, culminando na mensagem de véspera da prisão dele: "Irmão, estou e
+  estarei contigo sempre, não tem meia conversa entre a gente. Só preciso que me dê uma luz! Abs!". Descreve
+  também um print atribuído a Eduardo Bolsonaro com instruções sobre gestão de recursos nos EUA, e nomeia
+  Altieres Santana, corretor de imóveis ligado à gestora do fundo Havengate. Mendonça autorizou a instauração
+  em 22/07/2026.'
+added:
+  people: 1
+  organizations: 0
+  events: 1
+  documents: 2
+  relationships: 0
+  sources: 1
+  evidence: 3
+updated_relationships: 0
+corrections:
+- 'flavio-bolsonaro: resolvido o open_question sobre os inquéritos no STF nunca lidos pela equipe — o de
+  relatoria de Mendonça (INQ 5.070) foi lido por inteiro; o de relatoria de Flávio Dino segue pendente.'
+- 'eduardo-bolsonaro: acrescentado o print de 21/03/2025 com instruções sobre gestão de recursos nos EUA,
+  atribuído a ele pela representação da PF.'
+author: orquestrador
+affected_ids:
+- flavio-bolsonaro
+- eduardo-bolsonaro
+- andre-mendonca
+- altieres-santana
+- daniel-vorcaro
+- mario-frias
+- thiago-miranda
+- paulo-calixto
+reason: Continuação do lote 265/266 — ao mapear os 17 processos que a PGR listou como excluídos do
+  levantamento de sigilo, a Pet 16.369 (reautuada INQ 5.070) revelou-se o inquérito formal sobre Flávio
+  Bolsonaro que o acervo só conhecia pela imprensa; minerado via peticionamento.stf.jus.br (sessão do Rafael).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

@@ -1,0 +1,29 @@
+id: ev-pf-representa-flavio-bolsonaro-por-lavagem-evasao-corrupcao-dark-horse
+kind: evidence
+classification: A
+proposition: 'A Polícia Federal representa, em petição vinculada ao INQ 5.026, pela apuração de lavagem de
+  dinheiro (Lei 9.613/98), evasão de divisas (art. 22, Lei 7.492/86), corrupção passiva e ativa (arts. 317 e
+  333, CP) e organização criminosa (Lei 12.850/2013) no financiamento internacional do filme "Dark Horse",
+  citando o senador Flávio Bolsonaro como interlocutor direto de Daniel Vorcaro em tratativas sobre os
+  aportes — não apenas como terceiro mencionado por outros —, com cobranças de pagamento, reuniões presenciais
+  e acompanhamento das gravações. André Mendonça autorizou a instauração do procedimento em 22/07/2026, com
+  anuência da PGR; hoje tramita como INQ 5.070.'
+document_ids:
+- doc-2026-07-representacao-pf-flavio-bolsonaro-dark-horse
+- doc-2026-07-22-despacho-mendonca-autoriza-inquerito-flavio-bolsonaro
+source_ids:
+- src-stf-inq5070-representacao-pf-flavio-bolsonaro-dark-horse
+excerpt: o Senador Flávio Nantes Bolsonaro não aparece apenas como terceiro mencionado em comunicações de
+  outras pessoas, mas como interlocutor direto de Daniel Vorcaro em tratativas relacionadas ao financiamento da
+  produção
+attributed_to: Polícia Federal, em representação anterior a 08/07/2026; autorizado por André Mendonça em
+  22/07/2026
+date: '2026-07-22'
+notes: 'O enquadramento penal é qualificado pela própria PF como "preliminar e não exaustivo". Resolve o
+  open_question de flavio-bolsonaro.yaml sobre os inquéritos no STF nunca terem sido lidos pela equipe, só
+  descritos pela imprensa.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

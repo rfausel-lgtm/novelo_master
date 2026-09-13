@@ -1,0 +1,32 @@
+id: src-stf-inq5070-representacao-pf-flavio-bolsonaro-dark-horse
+kind: source
+title: INQ 5.070 (ex-Pet 16.369) — representação da PF e despachos que investigam Flávio Bolsonaro por Dark Horse
+publisher: Supremo Tribunal Federal
+author: Polícia Federal (CINQ/CGRC/DICOR/PF); Ministro André Mendonça
+publication_date: '2026-07-22'
+retrieved_at: '2026-09-13'
+url: https://peticionamento.stf.jus.br/visualizarProcesso/7661993/4
+source_type: official_court
+summary: 'Representação de 16 páginas da PF (protocolada antes de 08/07/2026, quando Mendonça abriu vista à PGR)
+  pedindo a instauração de PET/inquérito em apartado do INQ 5026 para apurar lavagem de dinheiro, evasão de
+  divisas, corrupção e organização criminosa no financiamento do filme "Dark Horse", com possível participação
+  do senador Flávio Bolsonaro. Reconstrói, com data e citação literal, uma sequência de mensagens entre Vorcaro
+  e Flávio Bolsonaro entre dezembro/2024 e novembro/2025 — reuniões, cobranças de pagamento, um vídeo e uma
+  mensagem de voz — incluindo a mensagem de 16/11/2025, véspera da prisão de Vorcaro: "Irmão, estou e estarei
+  contigo sempre, não tem meia conversa entre a gente. Só preciso que me dê uma luz! Abs!". Descreve também um
+  print atribuído a Eduardo Bolsonaro com orientações sobre gestão de recursos nos EUA, mencionando a
+  disponibilidade de Altieres Santana (corretor de imóveis ligado à gestora do Havengate). Mendonça autorizou a
+  instauração em 22/07/2026, com anuência da PGR; o feito foi reautuado como INQ 5.070 em 06/08/2026.'
+notes: 'Peças obtidas via peticionamento.stf.jus.br (sessão do Rafael). Resolve o open_question já registrado
+  em flavio-bolsonaro.yaml sobre os inquéritos no STF nunca terem sido lidos pela equipe, só descritos pela
+  imprensa.'
+verification:
+  checked_at: '2026-09-13'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

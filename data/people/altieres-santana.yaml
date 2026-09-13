@@ -1,0 +1,27 @@
+id: altieres-santana
+kind: person
+name: Altieres Santana
+category: other
+role: Corretor de imóveis nos EUA, ligado à gestora do Havengate Development Fund
+summary: 'Segundo a representação da PF no INQ 5.070 (ex-Pet 16.369), identificado em plataformas de corretagem
+  imobiliária norte-americanas (Zillow, Realtor.com, Homes.com) como corretor de imóveis nos EUA com
+  experiência nos mercados financeiro e imobiliário. É apontado como ligado à Havengate Development Fund GP
+  LLC (gestora do fundo que recebeu os recursos do filme "Dark Horse") e à Calixsan Capital Management LLC,
+  ao lado de Paulo Sergio Camin Calixto. Um print atribuído a Eduardo Bolsonaro, encaminhado por Thiago Miranda
+  a Daniel Vorcaro em 21/03/2025, menciona sua disponibilidade no contexto de orientações sobre gestão de
+  recursos nos Estados Unidos.'
+why_in_novelo: É apontado pela PF como ligado à estrutura financeira usada para remeter recursos de Daniel
+  Vorcaro ao fundo que financiou o filme "Dark Horse", ao lado de Paulo Calixto, advogado de Eduardo Bolsonaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele localizada no corpus até a data desta apuração.
+open_questions:
+- Sua relação profissional e societária com Paulo Calixto e com a Calixsan Capital Management LLC não foi
+  verificada pela equipe em registros oficiais, apenas descrita na representação da PF.
+source_ids:
+- src-stf-inq5070-representacao-pf-flavio-bolsonaro-dark-horse
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

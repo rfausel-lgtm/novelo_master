@@ -1,0 +1,23 @@
+id: ev-eduardo-bolsonaro-instrui-gestao-de-recursos-nos-eua
+kind: evidence
+classification: A
+proposition: 'Em 21/03/2025, Thiago Miranda encaminhou a Daniel Vorcaro uma captura de tela de conversa
+  atribuída a Eduardo Bolsonaro, na qual são apresentadas orientações sobre a forma pela qual os recursos do
+  financiamento de "Dark Horse" poderiam ser geridos nos Estados Unidos, com menção à possibilidade de envio da
+  maior quantidade possível de valores pelo modelo então em curso e referência à disponibilidade de Altieres
+  Santana.'
+document_ids:
+- doc-2026-07-representacao-pf-flavio-bolsonaro-dark-horse
+source_ids:
+- src-stf-inq5070-representacao-pf-flavio-bolsonaro-dark-horse
+excerpt: captura de tela de conversa atribuída a EDUARDO BOLSONARO, na qual eram apresentadas orientações sobre
+  a forma pela qual os recursos poderiam ser geridos nos Estados Unidos
+attributed_to: Eduardo Bolsonaro, segundo print encaminhado por Thiago Miranda a Daniel Vorcaro
+date: '2025-03-21'
+notes: A PF não confirma a autenticidade do print além de descrevê-lo como atribuído a Eduardo Bolsonaro; ele
+  já havia negado, em manifestação pública anterior, qualquer cargo de gestão no filme (ver eduardo-bolsonaro.yaml).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
