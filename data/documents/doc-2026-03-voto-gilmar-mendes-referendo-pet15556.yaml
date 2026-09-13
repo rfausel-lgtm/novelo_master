@@ -7,8 +7,7 @@ source_ids:
 - src-conjur-2026-03-voto-gilmar-mendes-pet15556-referendo
 summary: Voto-vogal de 42 páginas no referendo das prisões da Operação Compliance Zero, lido integralmente
   pela equipe. Referenda a prisão de Fabiano Campos Zettel 'por ora', mas dedica capítulo próprio ao pedido
-  de prisão domiciliar humanitária formulado pela defesa dele — filho de dois anos e gêmeos por nascer
-  em gravidez de risco — reconhecendo que 'a tese de defesa é relevante' e determinando que, concluídas
+  de prisão domiciliar humanitária formulado pela defesa dele — filho de dois anos e gêmeos por nascer — reconhecendo que 'a tese de defesa é relevante' e determinando que, concluídas
   as diligências, a substituição por domiciliar 'deve ser reavaliada', com base no art. 318, III, do CPP.
 is_official: true
 related_entity_ids:
@@ -28,4 +27,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'
 created_at: '2026-09-09'
-updated_at: '2026-09-09'
+updated_at: '2026-09-13'

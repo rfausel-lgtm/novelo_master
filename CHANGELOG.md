@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+- **Saneamento de dados pessoais (auditoria rotineira).** Varredura de todo o acervo publicado contra
+  a seção 6 da política editorial. Não havia CPF, RG, telefone, placa nem dado bancário; havia cinco
+  tipos de dado vedado em 31 registros, todos retirados sem alterar fato nenhum: número de unidade de
+  imóvel investigado, diagnóstico de saúde e dados de recém-nascidos citados em pedido de prisão
+  domiciliar (o título e o card do lote correspondente foram refeitos), e-mails individuais transcritos
+  de despachos (fica o domínio), logradouro de apartamento usado como sede de empresa e uma data de
+  nascimento sem pertinência. O conteúdo removido não é reproduzido aqui; ver a revisão
+  `rev-2026-09-13-saneamento-dados-pessoais`.
+
 - **Consistência das ligações do grafo, e três regras novas no lint.** Uma análise conferiu, ligação
   por ligação, se o registro e as fontes citadas nomeiam as duas pontas. Nenhuma ligava as pessoas
   erradas, mas quatro tipos de problema passavam por um lint limpo, porque cada registro, sozinho,

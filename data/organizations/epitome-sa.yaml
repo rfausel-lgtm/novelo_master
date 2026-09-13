@@ -3,8 +3,7 @@ kind: organization
 name: Epítome S.A.
 aliases: []
 org_type: company
-summary: Empresa que, segundo a decisão da Petição 16.229, teria realizado a compra formal do apartamento
-  nº 1.702 do Poème Horto, representada por Luiz Antônio Lombardi, com recursos provenientes de estruturas
+summary: Empresa que, segundo a decisão da Petição 16.229, teria realizado a compra formal de um apartamento do Poème Horto, representada por Luiz Antônio Lombardi, com recursos provenientes de estruturas
   de fundos vinculadas ao grupo econômico investigado — dinâmica que a autoridade policial reputa compatível
   com ocultação do beneficiário final.
 why_in_novelo: É apontada em decisão pública do STF como a compradora formal do imóvel examinado no primeiro
@@ -21,4 +20,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-13'

@@ -4,8 +4,8 @@ from_id: epitome-sa
 to_id: grupo-moura-dubeux
 relationship_type: commercial
 directed: true
-label: compra formal da unidade nº 1.702 do Poème Horto, segundo a PF
-description: Segundo a decisão, a Epítome S.A. teria comprado formalmente a unidade nº 1.702 do empreendimento
+label: compra formal de uma unidade do Poème Horto, segundo a PF
+description: Segundo a decisão, a Epítome S.A. teria comprado formalmente uma unidade do empreendimento
   Poème Horto, incorporado pelo Grupo Moura Dubeux. Nenhuma conduta ilícita é atribuída à incorporadora
   nos documentos do corpus.
 evidence_class: A
@@ -22,4 +22,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-13'

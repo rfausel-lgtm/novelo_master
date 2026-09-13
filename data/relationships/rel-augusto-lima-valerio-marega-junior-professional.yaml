@@ -6,7 +6,7 @@ relationship_type: professional
 directed: true
 label: acionado para operacionalizar a compra do imóvel, segundo a PF
 description: Segundo a decisão da 9ª fase, após receber de Jaques Wagner os dados do empreendimento e
-  da unidade nº 1.702, Augusto Ferreira Lima teria acionado Valério Marega Júnior para tratar da operacionalização
+  da unidade, Augusto Ferreira Lima teria acionado Valério Marega Júnior para tratar da operacionalização
   da aquisição.
 evidence_class: A
 confidence: 0.45
@@ -23,4 +23,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-13'
