@@ -1,0 +1,37 @@
+id: rev-2026-09-12-lote-255-o-que-o-proprio-brb-escreveu-sobre-as-carteiras
+kind: revision
+date: '2026-09-12'
+title: 'Lote 255 — o que o próprio BRB escreveu sobre as carteiras do Master, antes da Tirreno aparecer'
+summary: 'Dois relatórios internos do BRB, juntados ao INQ 5.026, dão lastro documental ao que a PF descreveu a partir
+  do celular de Vorcaro. Em 04/04/2025, o grupo de trabalho do banco registrou ter comprado do Master 1,79 milhão de
+  contratos de consignado, com saldo de R$ 7,62 bilhões, sem ter visto as CCBs, e achou 114.626 contratos com numeração
+  padronizada — sem nenhuma menção à Tirreno. Em 19/05/2025, o mesmo grupo anotou que o Master ainda não tinha
+  entregado a cláusula de mandato entre a Tirreno e o Master, documento que a PF diz ter sido finalizado em 24/05 com
+  data de dezembro de 2024. No meio disso, segundo a PF, Vorcaro cobrava de Augusto Lima os contratos da Tirreno: "ate
+  agora nao mandamos NADA".'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 2
+  relationships: 0
+  sources: 2
+  evidence: 3
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- banco-de-brasilia-brb
+- banco-master
+- credcesta
+- tirreno
+- daniel-vorcaro
+- augusto-lima
+reason: Continuação da leitura do bloco de 12/05/2026 do INQ 5.026 via peticionamento.stf.jus.br (sessão autenticada
+  pelo próprio Rafael) — relatórios do grupo de trabalho do BRB e a seção 4.4 da IPJ-A nº 1252786/2026. Lida também,
+  sem entrada própria, a seção 4.10 do mesmo relatório, que mostra Vorcaro compartilhando contratos com seus advogados
+  num grupo de mensagens, atividade de defesa sem imputação a eles. Nomes e CPFs de clientes listados nos relatórios
+  do BRB não são reproduzidos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

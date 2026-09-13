@@ -1,0 +1,25 @@
+id: doc-2025-05-19-relatorio-gt-brb-carteiras-adquiridas-retificado
+kind: document
+title: Relatório final retificado do GT "Conciliação Carteiras Adquiridas" do BRB (19/05/2025)
+doc_type: official_report
+date: '2025-05-19'
+date_precision: day
+source_ids:
+- src-stf-inq5026-brb-relatorio-gt-carteiras-adquiridas-19-05-2025
+summary: 'Relatório reservado da prorrogação do grupo de trabalho (Portaria DIFIC 2025/006). Lista as pendências do
+  Master como cedente depois de reunião em 15/05/2025 — entre elas a cláusula de mandato Cliente → Tirreno → Banco
+  Master, a certidão de inteiro teor das CCBs e os lastros das operações Credcesta — e calcula pendência financeira de
+  R$ 265,9 milhões.'
+is_official: false
+related_entity_ids:
+- banco-de-brasilia-brb
+- banco-master
+- credcesta
+- tirreno
+issuer: BRB — Banco de Brasília S.A. (DIFIC/SUOPE)
+reference: Relatório Final (Retificado) GT – Conciliação Carteiras Adquiridas, Portaria DIFIC 2025/006; juntado ao INQ 5.026 em 12/05/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

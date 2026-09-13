@@ -1,0 +1,23 @@
+id: ev-brb-em-maio-de-2025-master-nao-tinha-enviado-mandato-da-tirreno
+kind: evidence
+classification: D
+proposition: O relatório retificado do grupo de trabalho do BRB, concluído em 19/05/2025, registra que, depois de
+  reunião em 15/05/2025, o Banco Master ainda não havia enviado a cláusula de mandato "Cliente → Tirreno e Tirreno →
+  Banco Master", a certidão de inteiro teor das CCBs nem os lastros das operações Credcesta, e aponta pendência
+  financeira de R$ 265,9 milhões entre o que o Master devia e o que havia pago.
+document_ids:
+- doc-2025-05-19-relatorio-gt-brb-carteiras-adquiridas-retificado
+source_ids:
+- src-stf-inq5026-brb-relatorio-gt-carteiras-adquiridas-19-05-2025
+- src-stf-inq5026-ipja-1252786-2026-celular-vorcaro-tirreno
+date: '2025-05-19'
+notes: 'O documento corrobora, pela via do próprio BRB, o achado da PF de que o instrumento de outorga e
+  substabelecimento de cláusula mandato Tirreno x Master só foi dado como finalizado em 24/05/2025, com data de
+  celebração de 05/12/2024 (ver ev-pf-documentos-da-tirreno-produzidos-sob-demanda-em-maio-de-2025). O relatório diz
+  ainda que uma carta do BRB ao Master não teve nenhum de seus itens atendidos, e que a pendência de lastros era
+  "em especial das classificadas como originadas pelo Banco Master".'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

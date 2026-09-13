@@ -1,0 +1,24 @@
+id: doc-2025-04-04-relatorio-gt-brb-carteiras-adquiridas-credcesta
+kind: document
+title: Relatório final do GT "Conciliação Carteiras Adquiridas" do BRB sobre a carteira Credcesta comprada do Master
+doc_type: official_report
+date: '2025-04-04'
+date_precision: day
+source_ids:
+- src-stf-inq5026-brb-relatorio-gt-carteiras-adquiridas-04-04-2025
+summary: 'Relatório reservado da Diretoria de Finanças e Controladoria do BRB, do grupo de trabalho instituído pela
+  Portaria DIFIC 2025/004, de 26/02/2025. Traz o panorama da carteira Credcesta adquirida do Master (52 tranches, 1,79
+  milhão de contratos, R$ 7,62 bilhões de saldo contábil), registra que as CCBs ainda não tinham sido acessadas,
+  descreve a amostra de 399 contratos e aponta 114.626 contratos com numeração padronizada em convênios da Bahia.'
+is_official: false
+related_entity_ids:
+- banco-de-brasilia-brb
+- banco-master
+- credcesta
+issuer: BRB — Banco de Brasília S.A. (DIFIC/SUOPE)
+reference: Relatório Final GT – Conciliação Carteiras Adquiridas, Portaria DIFIC 2025/004; juntado ao INQ 5.026 em 12/05/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

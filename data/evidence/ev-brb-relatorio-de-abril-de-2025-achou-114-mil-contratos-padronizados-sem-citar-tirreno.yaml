@@ -1,0 +1,25 @@
+id: ev-brb-relatorio-de-abril-de-2025-achou-114-mil-contratos-padronizados-sem-citar-tirreno
+kind: evidence
+classification: D
+proposition: O relatório do grupo de trabalho do BRB concluído em 04/04/2025 registra que o banco havia comprado do
+  Master 1.789.951 contratos de consignado Credcesta, com saldo contábil de R$ 7,62 bilhões, sem ter acessado as CCBs
+  das tranches; pediu uma amostra de 399 contratos e identificou 24.481 clientes com numeração de contrato padronizada,
+  somando 114.626 contratos concentrados em convênios do governo da Bahia — e não menciona a Tirreno.
+document_ids:
+- doc-2025-04-04-relatorio-gt-brb-carteiras-adquiridas-credcesta
+source_ids:
+- src-stf-inq5026-brb-relatorio-gt-carteiras-adquiridas-04-04-2025
+- src-stf-inq5026-ipja-1252786-2026-celular-vorcaro-tirreno
+date: '2025-04-04'
+notes: 'Por "padronização" o relatório entende contratos de um mesmo cliente separados na numeração por exatamente 1,
+  10 ou 100, originados em ordem cronológica aleatória, o que considera improvável numa codificação sequencial.
+  Segundo a IPJ-A nº 1252786/2026, Augusto Lima enviou a Vorcaro em 08/04/2025 um documento sigiloso do BRB com esse
+  mesmo achado, e uma carta do BRB de 04/04/2025 apontava 209 dos 399 contratos da amostra (52,4%) sem documentação
+  ou com má formalização. Para a PF, a ausência da Tirreno numa análise que agrupa todas as carteiras de julho de 2024
+  a março de 2025 reforça que a empresa foi introduzida depois como originadora (ver
+  ev-pf-documentos-da-tirreno-produzidos-sob-demanda-em-maio-de-2025).'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

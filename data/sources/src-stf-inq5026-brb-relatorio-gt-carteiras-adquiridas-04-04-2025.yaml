@@ -1,0 +1,27 @@
+id: src-stf-inq5026-brb-relatorio-gt-carteiras-adquiridas-04-04-2025
+kind: source
+title: Relatório final do grupo de trabalho do BRB sobre as carteiras de crédito compradas do Master (04/04/2025)
+publisher: BRB — Banco de Brasília S.A.
+author: Grupo de Trabalho "Conciliação Carteiras Adquiridas" (Portaria DIFIC 2025/004), Diretoria de Finanças e Controladoria do BRB
+publication_date: '2025-04-04'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347
+source_type: other
+summary: 'Relatório reservado do BRB, concluído em 04/04/2025, sobre a carteira de cartão de benefício consignado
+  Credcesta comprada do Banco Master. Registra 52 tranches, 598.770 clientes, 1.789.951 contratos, saldo contábil
+  adquirido de R$ 7,62 bilhões (R$ 6,94 bilhões líquido de recompra em 31/03/2025) e saldo futuro de R$ 29,2 bilhões.
+  Informa que o BRB ainda não havia acessado as CCBs das tranches e pediu uma amostra de 399 contratos, e aponta
+  24.481 clientes com numeração de contrato padronizada, somando 114.626 contratos concentrados em convênios do
+  governo da Bahia. O relatório não menciona a Tirreno.'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele), juntada ao INQ 5.026 em
+  12/05/2026. O documento lista nomes, CPFs e contratos de clientes da amostra, que não são reproduzidos.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
