@@ -1,0 +1,29 @@
+id: src-stf-inq5035-peticao-17-08-2026-habilitacao-quadrado
+kind: source
+title: Petição de 17/08/2026 no Inq 5.035/DF — habilitação de procuradores de Maurício Quadrado
+publisher: Supremo Tribunal Federal
+author: Hugo Leonardo, Fabiana Logullo, Marcelo Pucci Maia e Ricardo Angelin Giorgion (advogados de Maurício
+  Antonio Quadrado)
+publication_date: '2026-08-17'
+retrieved_at: '2026-09-13'
+url: https://peticionamento.stf.jus.br/visualizarProcesso/7498168
+source_type: official_court
+summary: 'Petição de uma página protocolada em 17/08/2026 no Inq 5.035/DF (o inquérito do "Projeto DV",
+  sobre a campanha de influenciadores/dossiês a favor de Daniel Vorcaro perante STF e TCU, relatado por
+  André Mendonça), em que os advogados de Maurício Antonio Quadrado requerem "a habilitação de seus
+  procuradores nos autos do procedimento em epígrafe, bem como em todos os procedimentos correlatos".
+  Não especifica em que qualidade Quadrado busca acesso (testemunha, terceiro interessado ou investigado),
+  nem quais seriam os "procedimentos correlatos".'
+notes: Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, equipe delegada). Certidão de 11/09/2026
+  do mesmo inquérito trata de uma habilitação distinta (a de Daniel Vorcaro, renovada em petição de
+  25/08/2026) — não confundir as duas.
+verification:
+  checked_at: '2026-09-13'
+  checked_by: orquestrador (via equipe delegada)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

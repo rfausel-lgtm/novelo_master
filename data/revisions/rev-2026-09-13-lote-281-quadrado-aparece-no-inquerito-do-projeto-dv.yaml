@@ -1,0 +1,34 @@
+id: rev-2026-09-13-lote-281-quadrado-aparece-no-inquerito-do-projeto-dv
+kind: revision
+date: '2026-09-13'
+title: 'Lote 281 — Maurício Quadrado pede habilitação no inquérito do "Projeto DV"'
+summary: 'Leitura das peças de agosto/setembro do Inq 5.035/DF (o inquérito do "Projeto DV" — campanha de
+  influenciadores e dossiês a favor de Daniel Vorcaro perante STF e TCU, relatado por André Mendonça).
+  Achado: em 17/08/2026, advogados de Maurício Quadrado (ex-sócio de Vorcaro no Master, controlador da
+  Trustee/Banvox) requereram habilitação de procuradores nesse inquérito "e em todos os procedimentos
+  correlatos" — vínculo inédito no acervo, que até aqui só documentava Quadrado em apurações de natureza
+  financeira (Compliance Zero, bloqueio de Toffoli). Não se sabe a que título ele busca acesso, nem quais
+  seriam os procedimentos correlatos. Achado negativo, sem publicação própria: a certidão de 11/09/2026 do
+  mesmo inquérito e a petição de 25/08/2026 tratam de assunto distinto (renovação de habilitação de Daniel
+  Vorcaro, já documentado) — mero ato cartorário, sem conteúdo de mérito novo.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'mauricio-quadrado: novo open_question sobre o pedido de habilitação no Inq 5.035/DF ("Projeto DV").'
+author: orquestrador
+affected_ids:
+- mauricio-quadrado
+- daniel-vorcaro
+- thiago-miranda
+reason: Download-fork (Agent tool interno) leu, um documento de cada vez e sem incidente, a cauda de peças
+  do Inq 5.035/DF pendente desde o lote 278; a petição de 17/08 revelou vínculo não catalogado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

@@ -1,0 +1,23 @@
+id: doc-2026-08-17-peticao-habilitacao-quadrado-inq5035
+kind: document
+title: Petição de habilitação de procuradores de Maurício Quadrado no Inq 5.035/DF
+doc_type: judicial_filing
+date: '2026-08-17'
+date_precision: day
+source_ids:
+- src-stf-inq5035-peticao-17-08-2026-habilitacao-quadrado
+summary: Petição de uma página em que os advogados de Maurício Antonio Quadrado requerem habilitação de
+  procuradores no Inq 5.035/DF (inquérito do "Projeto DV") "e em todos os procedimentos correlatos", sem
+  especificar a que título.
+is_official: true
+related_entity_ids:
+- mauricio-quadrado
+- daniel-vorcaro
+issuer_id: mauricio-quadrado
+issuer: Hugo Leonardo, Fabiana Logullo, Marcelo Pucci Maia e Ricardo Angelin Giorgion (advogados)
+reference: Inq 5.035/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

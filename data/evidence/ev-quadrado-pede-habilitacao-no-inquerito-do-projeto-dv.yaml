@@ -1,0 +1,27 @@
+id: ev-quadrado-pede-habilitacao-no-inquerito-do-projeto-dv
+kind: evidence
+classification: D
+proposition: Em 17/08/2026, advogados de Maurício Quadrado — ex-sócio de Vorcaro no Master e controlador da
+  Trustee/Banvox, sem vínculo antes documentado com este inquérito — requereram habilitação de procuradores
+  no Inq 5.035/DF (o inquérito do "Projeto DV", que apura a campanha de influenciadores e dossiês a favor de
+  Daniel Vorcaro perante STF e TCU) "e em todos os procedimentos correlatos", sem especificar a que título.
+document_ids:
+- doc-2026-08-17-peticao-habilitacao-quadrado-inq5035
+source_ids:
+- src-stf-inq5035-peticao-17-08-2026-habilitacao-quadrado
+related_entity_ids:
+- mauricio-quadrado
+- daniel-vorcaro
+- thiago-miranda
+excerpt: requerer a habilitação de seus procuradores nos autos do procedimento em epígrafe, bem como em
+  todos os procedimentos correlatos
+date: '2026-08-17'
+notes: O acervo não tinha, até esta coleta, nenhum vínculo entre Quadrado e o inquérito do "Projeto DV" —
+  toda a apuração documentada sobre ele até aqui é de natureza financeira (Compliance Zero, Trustee/Banvox,
+  bloqueio de Toffoli). A petição não diz se ele figura como investigado, testemunha ou terceiro interessado,
+  nem identifica os "procedimentos correlatos". Pergunta em aberto.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
