@@ -1,0 +1,22 @@
+id: ev-master-forjava-documentos-credcesta-para-brb
+kind: evidence
+classification: A
+proposition: 'Relatório da PF, tornado público na quebra de sigilo de setembro de 2026, aponta que o Banco
+  Master fabricava em escala procurações, cédulas de crédito (CCBs) e outra documentação usando dados de
+  clientes do CredCesta, com ferramentas de automação gerando milhares de documentos em lote, e manipulação
+  digital sistemática (remoção de datas, exclusão de horários de assinaturas eletrônicas) para dificultar a
+  rastreabilidade. Os documentos fabricados eram usados como lastro documental para legitimar transações
+  bilionárias com o BRB.'
+document_ids: []
+source_ids:
+- src-imirante-2026-09-13-credcesta-documentos-forjados-brb
+attributed_to: Relatório da Polícia Federal, citado pela imprensa em 13/09/2026
+date: '2026-09-13'
+notes: Não localizado, nesta coleta, o relatório primário da PF nem citação literal de seu texto — apenas
+  paráfrase jornalística. Verificar se há peça correspondente no STF (Pet 15.478 ou correlatas, já ligadas ao
+  CredCesta/BRB no acervo) antes de aprofundar.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

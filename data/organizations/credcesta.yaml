@@ -25,6 +25,10 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
+- 'NOVO (13/09/2026): relatório da PF, citado pela imprensa, aponta que o Banco Master fabricava em escala
+  procurações e cédulas de crédito usando dados de clientes do CredCesta, com manipulação de datas e
+  assinaturas eletrônicas, para legitimar transações bilionárias com o BRB — não localizado, até esta coleta,
+  o relatório primário nem citação literal de seu texto.'
 - A data exata de origem do programa é contestada entre fontes — há versões que a situam nos anos 1980, em 1996,
   em 2007 e em 2014 —, e a equipe não localizou o ato fundador; o preâmbulo do Decreto 18.353/2018 sugere origem
   contratual da EBAL, não normativa.
@@ -143,6 +147,7 @@ open_questions:
   que o corpus tratava como documentados só na esfera estadual. Seguem sem ato localizado, entre os estados do mapa,
   o Amazonas, Rondônia e o Tocantins.'
 source_ids:
+- src-imirante-2026-09-13-credcesta-documentos-forjados-brb
 - src-poder360-2026-07-31-pf-wagner-relatorio
 - src-poder360-2026-03-integra-do-relatorio-da-cpmi-do-inss
 - src-otempo-2026-03-05-inss-m-facil-consignado-fraude

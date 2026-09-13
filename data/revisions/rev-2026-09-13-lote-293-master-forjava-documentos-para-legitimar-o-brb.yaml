@@ -1,0 +1,30 @@
+id: rev-2026-09-13-lote-293-master-forjava-documentos-para-legitimar-o-brb
+kind: revision
+date: '2026-09-13'
+title: 'Lote 293 — o Master forjava procurações e CCBs do CredCesta para legitimar transações com o BRB'
+summary: 'Achado do agente de monitoramento de imprensa, verificado por WebFetch direto: relatório da PF,
+  tornado público na quebra de sigilo de setembro de 2026, aponta que o Banco Master fabricava em escala
+  procurações e cédulas de crédito usando dados de clientes do CredCesta — com ferramentas de automação
+  gerando milhares de documentos em lote e manipulação digital sistemática (remoção de datas, exclusão de
+  horários de assinaturas eletrônicas) para dificultar a rastreabilidade. Os documentos fabricados serviam
+  de lastro documental para legitimar transações bilionárias com o BRB. Achado ainda sem acesso ao relatório
+  primário da PF nem citação literal de seu texto — apenas paráfrase jornalística, classificado como A.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'credcesta: novo open_question sobre o esquema de documentos forjados apontado pela PF.'
+author: orquestrador
+affected_ids:
+- credcesta
+reason: Achado do agente de monitoramento de imprensa a cada 15 minutos; verificado por WebFetch antes da
+  publicação. Pendência registrada para localizar o relatório primário da PF e/ou peça correspondente no STF.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
