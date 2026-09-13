@@ -1,0 +1,22 @@
+id: ev-wagner-defesa-peticao-30-06-2026-onze-hipoteses
+kind: evidence
+classification: A
+proposition: A defesa de Jaques Wagner apresentou petição ao gabinete de André Mendonça em 30/06/2026 contestando,
+  "com dados e fatos, as onze hipóteses de ilegalidade produzidas no inquérito da Polícia Federal", sustentando
+  que o senador "nunca teve negócios com o Banco Master", "nunca atuou como intermediário de interesses da
+  instituição" e "nunca votou a favor de projetos que pudessem beneficiá-la", e que sua atuação parlamentar
+  foi "contrária aos interesses do banco".
+document_ids: []
+source_ids:
+- src-timesbrasil-2026-09-relatorio-pf-wagner-vantagens
+attributed_to: Defesa de Jaques Wagner, em petição de 30/06/2026 citada por reportagem
+excerpt: nunca teve negócios com o Banco Master [...] nunca atuou como intermediário de interesses da instituição
+  [...] nunca votou a favor de projetos que pudessem beneficiá-la
+date: '2026-06-30'
+notes: O teor completo das onze hipóteses não foi divulgado pela imprensa nem lido pela equipe; apenas a
+  posição de contestação geral da defesa é conhecida.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

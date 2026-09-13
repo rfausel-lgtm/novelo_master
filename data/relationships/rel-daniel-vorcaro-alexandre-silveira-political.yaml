@@ -1,0 +1,26 @@
+id: rel-daniel-vorcaro-alexandre-silveira-political
+kind: relationship
+from_id: daniel-vorcaro
+to_id: alexandre-silveira
+relationship_type: political
+directed: false
+label: nomeado por Vorcaro como aliado à venda do Master ao BRB
+start_date: '2025-08-19'
+description: Em mensagem a jornalista, em 19/08/2025, Vorcaro nomeou Alexandre Silveira, ao lado de Jaques
+  Wagner e Rui Costa, como autoridade do governo Lula favorável à venda do Master ao BRB. A PF incluiu a
+  mensagem em relatório para sustentar o pedido contra Wagner; Silveira não é investigado por este fato,
+  e nenhuma conduta específica lhe é atribuída além de ser nomeado.
+evidence_class: A
+confidence: 0.3
+status: disputed
+event_ids:
+- evt-2025-08-19-vorcaro-cita-rui-jaques-silveira-aliados-venda-brb
+evidence_ids: []
+source_ids:
+- src-metropoles-2026-08-vorcaro-ministros-lula-venda-master
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

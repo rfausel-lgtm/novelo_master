@@ -11,10 +11,12 @@ summary: Governador da Bahia quando o Estado privatizou a Empresa Baiana de Alim
   que retirou a portabilidade das consignações do programa. Foi ministro da Casa Civil no terceiro governo
   Lula até 02/04/2026, quando deixou o cargo para disputar o Senado pela Bahia, na mesma chapa de Jaques
   Wagner. Esteve presente à reunião de 04/12/2024 no Palácio do Planalto entre Lula e Daniel Vorcaro,
-  fora da agenda oficial. NÃO é alvo, investigado ou indiciado em nenhuma fase da Operação Compliance
-  Zero, nem é citado nominalmente como investigado em relatório da Polícia Federal ou em delação. Foi
-  convidado — não convocado — pela CPI do Crime Organizado em 26/02/2026, e nomeado em requerimento da
-  oposição.
+  fora da agenda oficial. Em mensagem de 19/08/2025 a jornalista, durante a negociação da venda do Master
+  ao BRB, Vorcaro o nomeou — ao lado de Jaques Wagner e do ministro Alexandre Silveira — como autoridade
+  do governo Lula favorável à operação; a PF citou a mensagem em relatório para sustentar o pedido contra
+  Wagner, sem imputar a Rui Costa qualquer conduta específica. NÃO é alvo, investigado ou indiciado em
+  nenhuma fase da Operação Compliance Zero. Foi convidado — não convocado — pela CPI do Crime Organizado
+  em 26/02/2026, e nomeado em requerimento da oposição.
 why_in_novelo: Assinou os decretos estaduais que converteram o CredCesta em plataforma de consignado com
   margem própria e, depois, os que retiraram a portabilidade dos servidores.
 cited_position:
@@ -31,6 +33,11 @@ open_questions:
 - Rui Costa não é alvo nem investigado em nenhuma frente do caso. Sua presença no corpus decorre de ser
   o signatário dos atos administrativos que estruturaram o produto, e de ter estado na reunião de 04/12/2024
   — não de imputação de qualquer natureza.
+- 'Em 19/08/2025, em mensagem a jornalista durante a negociação da venda do Master ao BRB, Vorcaro foi
+  questionado sobre quais autoridades do governo Lula apoiavam a operação e respondeu "Rui, Jaques,
+  Alexandre Silveira" — nomeando-o ao lado de Jaques Wagner e do ministro Alexandre Silveira. A PF incluiu
+  a mensagem em relatório para sustentar o pedido contra Wagner; nenhuma conduta específica é atribuída
+  a Rui Costa além de ser nomeado, e ele não é investigado por este fato.'
 - Rui Costa e Jaques Wagner disputam, em 2026, as duas vagas do Senado pela Bahia na mesma chapa — contexto
   político que o corpus registra por transparência, sem que dele decorra qualquer imputação.
 - Uma reportagem de Lauro Jardim (O Globo, 15/03/2026) revelou 207 pagamentos do governo da Bahia ao Master
@@ -60,8 +67,10 @@ source_ids:
 - src-brasilapi-2026-ebal-capital-social
 - src-brasilapi-2026-ngvspe-empreendimentos
 - src-folhape-2026-02-rui-costa-defende-venda-supermercado-estatal
+- src-metropoles-2026-08-vorcaro-ministros-lula-venda-master
+- src-bnews-2026-09-12-wagner-favor-master-vantagens-luxo
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-13'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-13'

@@ -1,0 +1,32 @@
+id: alexandre-silveira
+kind: person
+name: Alexandre Silveira
+category: politician
+role: Ministro de Minas e Energia (governo Lula)
+positions:
+- title: Ministro de Minas e Energia
+  source_ids:
+  - src-metropoles-2026-08-vorcaro-ministros-lula-venda-master
+summary: Ministro de Minas e Energia do governo Lula. Em conversa com jornalista, em 19/08/2025, durante
+  a negociação da venda do Banco Master ao BRB, Daniel Vorcaro foi questionado sobre quais nomes do governo
+  apoiavam a operação e respondeu "Rui, Jaques, Alexandre Silveira" — ao lado de Rui Costa e Jaques Wagner.
+  A Polícia Federal incluiu a mensagem em relatório entregue a André Mendonça para sustentar o pedido de
+  busca e apreensão contra Wagner. Silveira não é investigado nem citado como alvo de qualquer apuração
+  do caso Master por este ou qualquer outro fato.
+why_in_novelo: Foi nomeado por Daniel Vorcaro, em mensagem citada pela PF, como uma das autoridades do
+  governo Lula favoráveis à venda do Master ao BRB.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele sobre a citação foi localizada pela equipe.
+open_questions:
+- A menção é isolada, feita por Vorcaro a um jornalista, sem qualquer ato, mensagem ou conduta atribuída
+  a Silveira além de ser nomeado como alguém que, na percepção do banqueiro, apoiava a venda — o corpus
+  não localizou qualquer outro elemento que o vincule ao caso.
+source_ids:
+- src-metropoles-2026-08-vorcaro-ministros-lula-venda-master
+- src-bnews-2026-09-12-wagner-favor-master-vantagens-luxo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
