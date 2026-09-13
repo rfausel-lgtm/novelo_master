@@ -1,6 +1,7 @@
 id: rev-2026-09-04-lote-23-decisao-10a-fase-por-ocr
 kind: revision
 date: '2026-09-03'
+published_at: '2026-09-04T02:07:39-03:00'
 title: 'Lote 23: leitura integral, por OCR, da decisão da 10ª fase (PET 16.346)'
 summary: 'O PDF de 24 páginas da decisão que autorizou a 10ª fase (publicado pelo Poder360) tinha fonte
   corrompida — pypdf e PyMuPDF retornavam apenas caracteres ilegíveis. Convertidas as páginas em imagem
