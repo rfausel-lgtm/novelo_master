@@ -1,0 +1,26 @@
+id: ev-pf-investigacao-interna-do-master-descreve-fabricacao-das-amostras-enviadas-ao-brb
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, uma apresentação de investigação interna do próprio Banco Master, achada no
+  acervo digital entregue pelo liquidante, descreve funcionários do banco gerando em lote, entre junho e outubro de
+  2025, CCBs, termos de consentimento e procurações a partir de dados de clientes Credcesta, em pastas chamadas
+  "Demanda BRB-Tirreno 2700 amostras" — o mesmo kit de três arquivos por contrato que André Seixas Maia enviou ao BRB
+  em 23/06/2025 como amostra de 1.785 créditos atribuídos à Tirreno.
+document_ids:
+- doc-2026-03-23-ipja-1390980-investigacao-interna-master-hd-liquidante
+source_ids:
+- src-stf-inq5026-ipja-1390980-2026-hd-do-liquidante-investigacao-interna
+attributed_to: Polícia Federal, na IPJ-A nº 1390980/2026 (análise do HD entregue pelo liquidante do Banco Master), juntada ao INQ 5.026
+date: '2025-06-20'
+notes: 'A captura de tela com as pastas é de 20/06/2025, três dias antes do envio da amostra ao BRB (ver
+  ev-pf-escritorio-de-monteiro-redigiu-documentos-da-tirreno-para-vorcaro, que registra a supervisão do envio por
+  Vorcaro, Ângelo Ribeiro da Silva e Alberto Félix). Segundo o relatório, a apresentação menciona ainda pastas de 119 e
+  299 amostras, um lote de 300 mil CCBs, a necessidade de remover datas dos termos de consentimento, a geração de
+  comprovantes de transferência ajustados e trabalho concentrado em noites e fins de semana. É um documento interno
+  sem assinatura; a PF atribui a autoria, pelos metadados, a uma funcionária da área jurídica, com a ressalva de que
+  isso não é garantido. Os funcionários citados não são nomeados aqui. Hipótese investigativa.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

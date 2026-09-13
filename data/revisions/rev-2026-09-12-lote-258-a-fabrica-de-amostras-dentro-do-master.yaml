@@ -1,0 +1,34 @@
+id: rev-2026-09-12-lote-258-a-fabrica-de-amostras-dentro-do-master
+kind: revision
+date: '2026-09-12'
+title: 'Lote 258 — a fábrica de amostras dentro do Master, descrita numa investigação interna do próprio banco'
+summary: 'No acervo digital que o liquidante do Master entregou à PF, os analistas acharam uma apresentação chamada
+  "Investigações internas – Banco Master". Ela descreve funcionários gerando em lote, entre junho e outubro de 2025,
+  CCBs, termos de consentimento e procurações a partir de dados de clientes Credcesta, em pastas batizadas "Demanda
+  BRB-Tirreno 2700 amostras" — o mesmo kit que foi mandado ao BRB em 23/06/2025 como prova de 1.785 créditos da Tirreno.
+  A apresentação aponta o diretor Alberto Félix como supervisor e registra a ordem de responder às falhas achadas pela
+  Deloitte como "erro operacional na seleção". Registrado como alegação da PF; os funcionários citados não são nomeados.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 2
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- banco-master
+- banco-de-brasilia-brb
+- tirreno
+- credcesta
+- alberto-felix-oliveira
+- andre-seixas-maia
+reason: Continuação da leitura do bloco de 12/05/2026 do INQ 5.026 via peticionamento.stf.jus.br (sessão autenticada
+  pelo próprio Rafael). O relatório qualifica mais de uma dezena de funcionários e ex-funcionários do Master, com
+  endereços e CPFs; nenhum desses dados é reproduzido, e só são nomeados os que já figuravam no acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

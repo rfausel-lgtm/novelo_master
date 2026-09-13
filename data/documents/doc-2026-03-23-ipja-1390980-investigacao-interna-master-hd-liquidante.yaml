@@ -1,0 +1,26 @@
+id: doc-2026-03-23-ipja-1390980-investigacao-interna-master-hd-liquidante
+kind: document
+title: IPJ-A nº 1390980/2026 — análise da apresentação "Investigações internas – Banco Master" do HD do liquidante
+doc_type: official_report
+date: '2026-03-23'
+date_precision: day
+source_ids:
+- src-stf-inq5026-ipja-1390980-2026-hd-do-liquidante-investigacao-interna
+summary: 'Relatório da PF que analisa, slide a slide, uma apresentação interna do Master sobre a fabricação de documentos
+  de crédito consignado, e a cruza com as conversas do celular de Vorcaro, concluindo que as amostras enviadas ao BRB
+  como lastro das carteiras atribuídas à Tirreno foram produzidas por funcionários do banco.'
+is_official: true
+related_entity_ids:
+- banco-master
+- banco-de-brasilia-brb
+- tirreno
+- credcesta
+- alberto-felix-oliveira
+- andre-seixas-maia
+issuer: Polícia Federal (NADIP/DFIN/DICOR)
+reference: IPJ-A nº 1390980/2026; Termo de Apreensão nº 4606129/2025; juntada ao INQ 5.026 em 12/05/2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

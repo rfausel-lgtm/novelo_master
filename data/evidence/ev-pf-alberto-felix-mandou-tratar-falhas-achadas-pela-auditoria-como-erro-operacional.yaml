@@ -1,0 +1,23 @@
+id: ev-pf-alberto-felix-mandou-tratar-falhas-achadas-pela-auditoria-como-erro-operacional
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, a apresentação de investigação interna do Master aponta o diretor Alberto Félix
+  de Oliveira como supervisor da produção dos documentos e registra que, em 23/06/2025, ele determinou que as falhas
+  encontradas pela Deloitte na auditoria das carteiras atribuídas à Tirreno, de dezembro de 2024 a março de 2025,
+  fossem respondidas como "erro operacional na seleção".
+document_ids:
+- doc-2026-03-23-ipja-1390980-investigacao-interna-master-hd-liquidante
+source_ids:
+- src-stf-inq5026-ipja-1390980-2026-hd-do-liquidante-investigacao-interna
+attributed_to: Polícia Federal, na IPJ-A nº 1390980/2026 (análise do HD entregue pelo liquidante do Banco Master), juntada ao INQ 5.026
+date: '2025-06-23'
+notes: 'Para a PF, classificar a falta de documentos como erro operacional é compatível com um processo de falsificação,
+  em que os documentos simplesmente não existiam. O relatório cruza a apresentação com mensagens do celular de Vorcaro
+  em que Alberto Félix trata de uma amostra de 300 contratos e de procurações, e conclui que as amostras foram fraudadas
+  por funcionários do Master sob sua supervisão. Alberto Félix já constava do acervo como integrante do grupo "INFO –
+  BRB" (ver ev-info-brb-grupo-whatsapp-fabricacao-extrato). Hipótese investigativa, sem denúncia.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
