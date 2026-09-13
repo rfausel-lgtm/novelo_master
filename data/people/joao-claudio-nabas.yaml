@@ -24,11 +24,17 @@ open_questions:
 - 'A ligação entre o "Moraes.pdf" (confirmado pela PF como fonte provável da reportagem de 09/12/2025) e as
   reportagens de março de 2026 sobre as conversas Vorcaro-Moraes é apontada pela PF como hipótese reforçada
   pela coincidência temporal da exclusão do arquivo, mas não como fato definitivamente estabelecido.'
-- Não há, até esta coleta, notícia de desfecho do inquérito (denúncia, arquivamento ou acordo) nem confirmação
-  de que a busca e apreensão de 18/05/2026 tenha sido efetivamente cumprida.
+- 'RESOLVIDO EM PARTE (13/09/2026): a busca e apreensão foi efetivamente cumprida em 19/05/2026, um dia após
+  a autorização, segundo ofício da PF juntado aos autos. Ainda não há notícia do desfecho do inquérito.'
 - O conteúdo e o destino do arquivo "Toffoli e esposa.pdf" não são detalhados na decisão lida — apenas sua
   criação, ao lado do "Moraes.pdf", no mesmo dia.
+- 'NOVO (13/09/2026): sua defesa pediu, em 02/07/2026, perícia de informática e documentoscopia para contestar
+  a autenticidade do "Moraes.pdf" — linha de defesa ainda sem resultado conhecido. Em 21/08/2026, o caso passou
+  a tramitar também na Corregedoria-Geral da PF, para eventual sanção disciplinar, com a PGR caracterizando
+  formalmente a investigação como apuração de violação de sigilo funcional por fornecimento indevido de
+  informações a jornalista.'
 source_ids:
+- src-stf-pet15625-despachos-julho-agosto-2026
 - src-stf-pet15625-representacao-e-decisao-joao-claudio-nabas
 review_status: published
 reviewer: orquestrador

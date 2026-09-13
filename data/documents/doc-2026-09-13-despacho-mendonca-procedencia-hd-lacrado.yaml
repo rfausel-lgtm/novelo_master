@@ -1,0 +1,25 @@
+id: doc-2026-09-13-despacho-mendonca-procedencia-hd-lacrado
+kind: document
+title: Despacho de Mendonça sobre a procedência do HD lacrado e os quatro delegados subscritores
+doc_type: judicial_decision
+date: '2026-09-13'
+date_precision: day
+source_ids:
+- src-stf-pet16704-despacho-13-09-2026-procedencia-hd-lacrado
+summary: Mendonça reconhece divergência sobre como o material do Ofício 33V/2026 chegou ao seu gabinete, sem
+  decisão que o determinasse, e pede que quatro delegados da PF prestem informações em 24h sobre as
+  circunstâncias da entrega e eventuais constrangimentos sofridos na investigação. Recusa incluir o conteúdo
+  integral do celular de Vorcaro nos autos antes do julgamento de 15/09.
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- edson-fachin
+- daniel-vorcaro
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: PET 16.704/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

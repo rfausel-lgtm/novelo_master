@@ -1,0 +1,25 @@
+id: ev-mendonca-recusa-incluir-celular-integral-antes-do-julgamento
+kind: evidence
+classification: D
+proposition: No mesmo despacho de 13/09/2026, Mendonça reitera que todo o material do julgamento de 15/09 está
+  disponível a todos os ministros, e recusa incluir agora o conteúdo integral do celular de Vorcaro nos autos,
+  por entender que isso "tumultuaria o julgamento" e arriscaria "o seguimento e êxito das investigações",
+  citando Fachin — "a gravidade dos fatos não autoriza atalhos", mas "também não tolera subterfúgios ou
+  desvios de rotas".
+document_ids:
+- doc-2026-09-13-despacho-mendonca-procedencia-hd-lacrado
+source_ids:
+- src-stf-pet16704-despacho-13-09-2026-procedencia-hd-lacrado
+excerpt: A inserção de elementos adicionais, que não constam dos autos até o presente momento, o que inclui a
+  abertura de todas as informações contidas no celular do senhor Daniel Vorcaro, somente contribuiria para
+  tumultuar o julgamento
+attributed_to: Ministro André Mendonça, em despacho de 13/09/2026
+date: '2026-09-13'
+notes: Este despacho não decide o pedido de Moraes/Zanin/Gilmar Mendes de acesso ao HD lacrado (ver
+  ev-disputa-pelo-hd-lacrado-do-celular-de-vorcaro-entre-ministros) — trata de um pedido distinto, sobre
+  circunstâncias da entrega do material já em poder de Mendonça, e recusa ampliar o que consta dos autos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

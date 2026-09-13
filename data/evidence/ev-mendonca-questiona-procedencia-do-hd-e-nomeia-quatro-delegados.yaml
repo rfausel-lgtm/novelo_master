@@ -1,0 +1,26 @@
+id: ev-mendonca-questiona-procedencia-do-hd-e-nomeia-quatro-delegados
+kind: evidence
+classification: D
+proposition: 'Em despacho de 13/09/2026, André Mendonça reconhece "divergência de informações" sobre as
+  circunstâncias em que o material do Ofício nº 33V/2026-CINQ/CGRC/DICOR/PF (08/03/2026, um domingo) chegou ao
+  seu gabinete, "não tendo sido indicada nenhuma decisão que contivesse a referida determinação". Pede que a
+  Presidência determine, em 24h, que os delegados Daniel Mostardeiro Cola, Wedson Cajé Lopes, Victor Arruda de
+  Oliveira e Guilherme Alves de Siqueira — subscritores da representação inicial da Pet 15.556 — prestem
+  informações sobre essas circunstâncias e sobre eventuais "constrangimentos sofridos ao longo das
+  investigações".'
+document_ids:
+- doc-2026-09-13-despacho-mendonca-procedencia-hd-lacrado
+source_ids:
+- src-stf-pet16704-despacho-13-09-2026-procedencia-hd-lacrado
+excerpt: divergência de informações em torno das circunstâncias nas quais o material [...] aportou ao Gabinete
+  deste Ministro, não tendo sido indicada nenhuma decisão que contivesse a referida determinação
+attributed_to: Ministro André Mendonça, em despacho de 13/09/2026
+date: '2026-09-13'
+notes: Não está estabelecido se há de fato irregularidade na entrega do material a Mendonça em março, ou se é
+  apenas lacuna documental a esclarecer; o próprio despacho pede que os delegados relatem "constrangimentos
+  sofridos", sem especificar a natureza suspeitada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

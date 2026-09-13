@@ -1,0 +1,26 @@
+id: ev-nabas-contesta-autenticidade-do-moraes-pdf-e-caso-vai-a-corregedoria
+kind: evidence
+classification: D
+proposition: 'A defesa de João Cláudio Nabas pediu, em 02/07/2026, perícia de informática e documentoscopia
+  para contestar a autenticidade do arquivo "Moraes.pdf" — o mesmo documento que a PF atribui à origem do
+  vazamento à jornalista Malu Gaspar. Em 21/08/2026, Mendonça deferiu o compartilhamento das provas do
+  inquérito com a Corregedoria-Geral da Polícia Federal para apuração de infração disciplinar, com base em
+  parecer da PGR que caracteriza a investigação como apuração de "possível violação de sigilo funcional
+  imposto ao cargo de João Cláudio Nabas, que teria fornecido indevidamente informações resguardadas por
+  sigilo a jornalista". Um ofício de 20/05/2026 da PF confirma que as buscas autorizadas em 18/05/2026 foram
+  efetivamente cumpridas em 19/05/2026.'
+document_ids:
+- doc-2026-08-21-despachos-nabas-pericia-e-corregedoria
+source_ids:
+- src-stf-pet15625-despachos-julho-agosto-2026
+excerpt: possível violação de sigilo funcional imposto ao cargo de João Cláudio Nabas, que teria fornecido
+  indevidamente informações resguardadas por sigilo a jornalista
+attributed_to: Procuradoria-Geral da República, em parecer citado no despacho de 21/08/2026
+date: '2026-08-21'
+notes: A perícia pedida por Nabas para contestar o "Moraes.pdf" é uma linha de defesa; não há, até esta
+  coleta, notícia do resultado dessa perícia nem do desfecho do processo disciplinar na Corregedoria da PF.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

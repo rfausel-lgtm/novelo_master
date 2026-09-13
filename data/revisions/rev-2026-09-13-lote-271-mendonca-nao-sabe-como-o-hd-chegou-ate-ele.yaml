@@ -1,0 +1,43 @@
+id: rev-2026-09-13-lote-271-mendonca-nao-sabe-como-o-hd-chegou-ate-ele
+kind: revision
+date: '2026-09-13'
+title: 'Lote 271 — Mendonça reconhece que não sabe explicar como o HD lacrado chegou até ele'
+summary: 'Dois dias antes da sessão de 15/09, Mendonça admite, em despacho na Pet 16.704, "divergência de
+  informações" sobre como o HD com a extração do celular de Vorcaro — lacrado em seu gabinete desde março,
+  centro da disputa com Moraes, Zanin e Gilmar Mendes registrada no lote 265 — de fato chegou até ele: "não
+  tendo sido indicada nenhuma decisão que contivesse a referida determinação". Pede que a Presidência intime,
+  em 24h, os quatro delegados que subscreveram a representação original da Pet 15.556 — Daniel Mostardeiro
+  Cola, Wedson Cajé Lopes, Victor Arruda de Oliveira e Guilherme Alves de Siqueira — a explicar as
+  circunstâncias e relatar eventuais "constrangimentos sofridos" durante as investigações. No mesmo ato,
+  recusa incluir agora o conteúdo integral do celular de Vorcaro nos autos. Em paralelo, uma equipe delegada
+  trouxe o desdobramento do caso do perito João Cláudio Nabas (lote 268): sua defesa contesta a autenticidade
+  do "Moraes.pdf" por perícia, e o caso passou a tramitar também na Corregedoria-Geral da PF para eventual
+  sanção disciplinar, com a PGR confirmando formalmente a caracterização do vazamento já registrada no
+  acervo.'
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 3
+  relationships: 0
+  sources: 2
+  evidence: 4
+updated_relationships: 0
+corrections:
+- 'joao-claudio-nabas: confirmado que a busca foi cumprida em 19/05/2026; acrescentado o pedido de perícia
+  contra o "Moraes.pdf" e a tramitação disciplinar na Corregedoria da PF.'
+- 'wedson-caje-lopes: confirmado por fonte primária como um dos quatro delegados subscritores da Pet 15.556 e
+  como signatário de ofício na Pet 15.625.'
+- 'andre-mendonca: acrescentado o despacho de 13/09/2026 sobre a procedência do HD lacrado.'
+author: orquestrador
+affected_ids:
+- andre-mendonca
+- edson-fachin
+- daniel-vorcaro
+- joao-claudio-nabas
+- wedson-caje-lopes
+reason: Continuação do acompanhamento diário da Pet 16.704 e do desdobramento delegado (fork) da Pet 15.625,
+  via peticionamento.stf.jus.br (sessão do Rafael, reautenticada).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

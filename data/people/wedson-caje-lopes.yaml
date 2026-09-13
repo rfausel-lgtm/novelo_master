@@ -11,15 +11,26 @@ summary: Nome que a newsletter 'A Investigação' (David Ágape) cita como o ún
   esta alegação contra documento primário nem contra o texto integral do artigo — a informação chegou
   por resumo assistido, e nenhuma outra fonte a corrobora até a data desta atualização.
 why_in_novelo: É um dos nomes que uma reportagem de fonte única associa, sem confirmação independente,
-  ao acesso a material sensível relacionado ao dossiê anônimo central na crise Moraes-Mendonça.
+  ao acesso a material sensível relacionado ao dossiê anônimo central na crise Moraes-Mendonça; e, por fonte
+  primária, é um dos quatro delegados que subscreveram a representação original da Pet 15.556 e um dos que
+  atuam na Pet 15.625 (caso do perito João Cláudio Nabas).
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- 'NOVO (13/09/2026): confirmado por fonte primária como um dos quatro delegados subscritores da representação
+  original da Pet 15.556 (junto de Daniel Mostardeiro Cola, Victor Arruda de Oliveira e Guilherme Alves de
+  Siqueira) — os quatro foram intimados por Mendonça a explicar, em 24h, as circunstâncias em que um HD com a
+  extração do celular de Vorcaro chegou ao gabinete dele em março, e a relatar eventuais "constrangimentos
+  sofridos" durante as investigações. Ele também assina, na Pet 15.625, ofício confirmando o cumprimento da
+  busca contra o perito João Cláudio Nabas em 19/05/2026. Não está estabelecido se há relação entre a alegação
+  de fonte única acima (acesso a decisão de Mendonça) e esses fatos confirmados.'
 source_ids:
+- src-stf-pet16704-despacho-13-09-2026-procedencia-hd-lacrado
+- src-stf-pet15625-despachos-julho-agosto-2026
 - src-ainvestigacao-2026-09-04-pistas-autor-dossie-mendonca
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-06'
+reviewed_at: '2026-09-13'
 created_at: '2026-09-06'
-updated_at: '2026-09-06'
+updated_at: '2026-09-13'

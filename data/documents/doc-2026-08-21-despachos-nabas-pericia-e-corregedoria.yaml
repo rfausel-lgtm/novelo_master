@@ -1,0 +1,24 @@
+id: doc-2026-08-21-despachos-nabas-pericia-e-corregedoria
+kind: document
+title: Despachos sobre o pedido de perícia de Nabas e o compartilhamento de provas com a Corregedoria da PF
+doc_type: judicial_decision
+date: '2026-08-21'
+date_precision: day
+source_ids:
+- src-stf-pet15625-despachos-julho-agosto-2026
+summary: Em 02/07/2026, a defesa de João Cláudio Nabas pede perícia para contestar a autenticidade do
+  "Moraes.pdf". Em 21/08/2026, Mendonça defere o compartilhamento das provas do inquérito com a
+  Corregedoria-Geral da PF para apuração disciplinar, acolhendo parecer da PGR que caracteriza a investigação
+  como apuração de violação de sigilo funcional por fornecimento indevido de informações a jornalista.
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- joao-claudio-nabas
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: PET 15.625/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

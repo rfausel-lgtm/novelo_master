@@ -1,0 +1,32 @@
+id: evt-2026-09-13-mendonca-questiona-procedencia-do-hd-lacrado
+kind: event
+title: Mendonça reconhece divergência sobre a procedência do HD lacrado e pede explicações a quatro delegados
+event_type: judicial_decision
+date: '2026-09-13'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- edson-fachin
+- daniel-vorcaro
+description: 'Dois dias antes da sessão de 15/09, Mendonça admite não ter uma decisão que documente como o
+  material do Ofício 33V/2026-CINQ/CGRC/DICOR/PF — o HD com a extração do celular de Vorcaro que está lacrado
+  em seu gabinete desde março, alvo da disputa com Moraes, Zanin e Gilmar Mendes registrada no lote 265 — de
+  fato chegou até ele. Pede que a Presidência intime os quatro delegados subscritores da representação
+  original da Pet 15.556 a explicar as circunstâncias da entrega e relatar eventuais "constrangimentos" que
+  tenham sofrido durante as investigações. No mesmo ato, recusa-se a incluir agora o conteúdo integral do
+  celular de Vorcaro nos autos, por risco de tumultuar o julgamento.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-mendonca-questiona-procedencia-do-hd-e-nomeia-quatro-delegados
+- ev-mendonca-recusa-incluir-celular-integral-antes-do-julgamento
+source_ids:
+- src-stf-pet16704-despacho-13-09-2026-procedencia-hd-lacrado
+document_ids:
+- doc-2026-09-13-despacho-mendonca-procedencia-hd-lacrado
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
