@@ -8,24 +8,6 @@ import { SITE } from "@/lib/site";
  */
 const URL_DO_JOGO = "https://street-fight-stf.rfausel.chatgpt.site";
 
-/**
- * Ícone em pixel art: um manche de arcade, desenhado em blocos e não recortado de nenhum asset do
- * jogo — o convite não carrega nada de lá além do link. `currentColor` acompanha o texto ao redor,
- * então segue os dois temas sem regra própria.
- */
-function IconeArcade({ className }: { className?: string }) {
-  return (
-    <svg viewBox="0 0 16 16" className={className} aria-hidden="true" shapeRendering="crispEdges">
-      <rect x="7" y="0" width="2" height="1" fill="currentColor" />
-      <rect x="6" y="1" width="4" height="3" fill="currentColor" />
-      <rect x="7" y="4" width="2" height="5" fill="currentColor" />
-      <rect x="4" y="9" width="8" height="1" fill="currentColor" />
-      <rect x="3" y="10" width="10" height="3" fill="currentColor" />
-      <rect x="4" y="13" width="8" height="1" fill="currentColor" />
-    </svg>
-  );
-}
-
 export function SiteFooter() {
   return (
     <footer className="border-border text-fg-3 border-t px-4 py-8 text-xs sm:px-6">
@@ -88,28 +70,47 @@ export function SiteFooter() {
 
         {/*
           Convite ao jogo satírico, à parte do resto do rodapé: separado por régua própria, sem
-          link para o repositório do jogo, sem iframe, sem carregar nenhum asset de lá. Sem som
-          automático nem animação contínua — só a transição de cor no hover do botão.
+          link para o repositório do jogo, sem iframe. O banner é a única imagem carregada aqui —
+          arte própria do jogo, convertida para WebP e servida por este site, não embutida a partir
+          de lá. Sem som automático nem animação contínua: só a transição de cor no hover.
+
+          O título "O plenário pediu intervalo" já está no pixel art do banner; repeti-lo em texto
+          seria redundante, então o texto ao lado só complementa.
         */}
-        <div className="border-border flex flex-col items-start gap-3 border-t pt-6 sm:flex-row sm:items-center sm:justify-between">
-          <div className="flex items-start gap-3">
-            <IconeArcade className="text-fg-3 mt-0.5 h-4 w-4 shrink-0" />
-            <div className="space-y-1">
-              <p className="text-fg-3 font-mono text-[10px] tracking-wide uppercase">
-                Jogo satírico
-              </p>
-              <p className="text-fg text-sm font-medium">O plenário pediu intervalo.</p>
-              <p className="text-fg-3">A tensão continua. Mas aqui cabe revanche.</p>
-            </div>
-          </div>
+        <div className="border-border border-t pt-6">
+          <p className="text-fg-3 mb-3 font-mono text-[10px] tracking-wide uppercase">
+            Jogo satírico
+          </p>
           <a
             href={URL_DO_JOGO}
             target="_blank"
             rel="noopener noreferrer"
-            className="border-border hover:border-accent hover:text-accent inline-flex shrink-0 items-center gap-2 rounded-md border px-3 py-1.5 font-mono text-xs font-medium whitespace-nowrap transition-colors"
+            className="border-border hover:border-accent block overflow-hidden rounded-md border transition-colors"
           >
-            <span aria-hidden="true">▶</span> Entrar na arena
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/assets/jogo-satirico/street-fight-stf-banner.webp"
+              alt={
+                'Banner do jogo satírico "O Plenário pediu intervalo — STF Edition": dois lutadores ' +
+                "em pixel art se enfrentam diante do STF, sob a lua cheia."
+              }
+              width={1280}
+              height={427}
+              loading="lazy"
+              className="block h-auto w-full"
+            />
           </a>
+          <div className="mt-3 flex flex-col items-start gap-3 sm:flex-row sm:items-center sm:justify-between">
+            <p className="text-fg-3">A tensão continua. Mas aqui cabe revanche.</p>
+            <a
+              href={URL_DO_JOGO}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="border-border hover:border-accent hover:text-accent inline-flex shrink-0 items-center gap-2 rounded-md border px-3 py-1.5 font-mono text-xs font-medium whitespace-nowrap transition-colors"
+            >
+              <span aria-hidden="true">▶</span> Entrar na arena
+            </a>
+          </div>
         </div>
       </div>
     </footer>
