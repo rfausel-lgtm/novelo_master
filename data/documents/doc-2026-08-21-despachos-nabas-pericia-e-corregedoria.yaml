@@ -6,10 +6,15 @@ date: '2026-08-21'
 date_precision: day
 source_ids:
 - src-stf-pet15625-despachos-julho-agosto-2026
-summary: Em 02/07/2026, a defesa de João Cláudio Nabas pede perícia para contestar a autenticidade do
+summary: 'Em 02/07/2026, a defesa de João Cláudio Nabas pede perícia para contestar a autenticidade do
   "Moraes.pdf". Em 21/08/2026, Mendonça defere o compartilhamento das provas do inquérito com a
   Corregedoria-Geral da PF para apuração disciplinar, acolhendo parecer da PGR que caracteriza a investigação
-  como apuração de violação de sigilo funcional por fornecimento indevido de informações a jornalista.
+  como apuração de violação de sigilo funcional por fornecimento indevido de informações a jornalista. O
+  pedido partiu da própria PF, por meio do Ofício nº 2652643/2026-CINQ/CGRC/DICOR/PF, "com vistas à instrução
+  de procedimento administrativo [instaurado] para apurar eventual infração disciplinar". Mendonça funda o
+  deferimento em precedente do Plenário do STF: "as provas obtidas em razão de diligências deflagradas na
+  esfera criminal podem ser utilizadas em Processo Administrativo Disciplinar (PAD)" (MS 28.003/DF, red. do
+  ac. min. Luiz Fux, julgado em 08/02/2012, DJe 31/05/2012).'
 is_official: true
 related_entity_ids:
 - andre-mendonca

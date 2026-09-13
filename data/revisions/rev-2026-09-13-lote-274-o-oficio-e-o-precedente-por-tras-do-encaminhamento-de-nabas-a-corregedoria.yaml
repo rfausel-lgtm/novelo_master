@@ -1,0 +1,36 @@
+id: rev-2026-09-13-lote-274-o-oficio-e-o-precedente-por-tras-do-encaminhamento-de-nabas-a-corregedoria
+kind: revision
+date: '2026-09-13'
+title: 'Lote 274 — o ofício e o precedente por trás do encaminhamento do caso Nabas à Corregedoria da PF'
+summary: 'Enriquecimento de precisão do achado já publicado no lote 271: o despacho de 21/08/2026 em que
+  Mendonça autoriza o compartilhamento das provas da Pet 15.625 com a Corregedoria-Geral da PF, para instruir
+  processo administrativo disciplinar contra o perito João Cláudio Nabas. A leitura integral da peça (feita
+  por equipe delegada, via peticionamento) trouxe três precisões que a versão anterior não tinha: o pedido de
+  compartilhamento partiu formalmente da própria PF, pelo Ofício nº 2652643/2026-CINQ/CGRC/DICOR/PF; Mendonça
+  fundamentou o deferimento no precedente do Plenário do STF no MS 28.003/DF (2012, red. min. Luiz Fux); e a
+  citação direta desse precedente — "as provas obtidas em razão de diligências deflagradas na esfera criminal
+  podem ser utilizadas em Processo Administrativo Disciplinar (PAD)". Não muda a narrativa já publicada, só
+  a documenta com precisão de fonte primária.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'doc-2026-08-21-despachos-nabas-pericia-e-corregedoria / ev-nabas-contesta-autenticidade-do-moraes-pdf-e-caso-vai-a-corregedoria
+  / src-stf-pet15625-despachos-julho-agosto-2026: acrescentado o número do Ofício da PF que pediu o
+  compartilhamento e a citação verbatim do precedente MS 28.003/DF usado por Mendonça para deferir.'
+author: orquestrador
+affected_ids:
+- andre-mendonca
+- joao-claudio-nabas
+reason: Equipe delegada (fork com sessão autenticada do Rafael) releu a peça na íntegra e repassou o trecho
+  literal, por coordenação combinada entre as sessões (fork baixa e passa texto bruto, esta sessão analisa
+  e publica).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
