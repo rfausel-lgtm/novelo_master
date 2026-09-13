@@ -1,0 +1,37 @@
+id: rev-2026-09-12-lote-263-o-primo-de-toffoli-a-dgep-e-os-requerimentos-da-cpi
+kind: revision
+date: '2026-09-12'
+title: 'Lote 263 — o primo de Toffoli, a DGEP e o que a CPI escreveu para convocar os irmãos do ministro'
+summary: 'Os quatro requerimentos da CPI do Crime Organizado que convocaram os irmãos de Dias Toffoli, lidos na íntegra,
+  têm duas motivações. Os de Magno Malta citam reportagem sobre jogos de azar no Resort Tayayá. Os de Alessandro Vieira
+  apontam a Maridt e uma segunda empresa, a DGEP, como cedentes de cotas do resort ao fundo Arleen, administrado pela
+  antiga Reag Trust, e falam em suspeita de "utilização de influência institucional". O terceiro nome citado, Mario
+  Umberto Degani, é primo do ministro e fundador do resort, e vendeu sua parte em 2025 a Paulo Humberto Barbosa —
+  investigado do INQ 5.026 cujo papel o acervo ainda não conhecia.'
+added:
+  people: 1
+  organizations: 1
+  events: 0
+  documents: 2
+  relationships: 0
+  sources: 4
+  evidence: 3
+updated_relationships: 0
+corrections:
+- 'paulo-humberto-barbosa: registrada a compra de participações no Tayayá, segundo a imprensa.'
+author: orquestrador
+affected_ids:
+- jose-eugenio-dias-toffoli
+- jose-carlos-dias-toffoli
+- mario-umberto-degani
+- dgep-empreendimentos-e-participacoes
+- paulo-humberto-barbosa
+- resort-tayaya
+- maridt-participacoes
+- cpi-do-crime-organizado
+- alessandro-vieira
+reason: Apuração de uma sessão paralela do projeto. Os requerimentos foram lidos aqui nos PDFs oficiais do Senado, e as
+  duas reportagens sobre Degani, conferidas diretamente.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

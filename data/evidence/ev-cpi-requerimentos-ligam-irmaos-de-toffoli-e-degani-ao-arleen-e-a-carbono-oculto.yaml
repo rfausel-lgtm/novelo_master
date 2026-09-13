@@ -1,0 +1,24 @@
+id: ev-cpi-requerimentos-ligam-irmaos-de-toffoli-e-degani-ao-arleen-e-a-carbono-oculto
+kind: evidence
+classification: D
+proposition: Nos Requerimentos 160 e 161/2026 da CPI do Crime Organizado, de 27/01/2026, o senador Alessandro Vieira
+  justificou a convocação dos irmãos José Carlos e José Eugênio Dias Toffoli — e citou Mario Umberto Degani — afirmando
+  que Maridt e DGEP transferiram cotas do resort Tayayá ao fundo Arleen, administrado pela antiga Reag Trust, alvo da
+  Operação Carbono Oculto, e que os vínculos familiares do relator do caso Master com os sócios levantam suspeitas de
+  "utilização de influência institucional para fins privados".
+document_ids:
+- doc-2026-01-27-requerimentos-160-161-cpi-crime-organizado-maridt-dgep
+source_ids:
+- src-senado-cpicrime-req-160-161-2026-maridt-dgep-arleen
+date: '2026-01-27'
+notes: 'O documento prova o que o senador escreveu, não os fatos alegados. A ligação com a Carbono Oculto passa pela
+  gestora: o requerimento não afirma que o próprio fundo Arleen seja investigado naquela operação, e o acervo registra
+  decisão judicial que negou conexão formal entre Vorcaro e a Carbono Oculto (evt-2025-12-19-justica-nega-conexao-vorcaro-carbono-oculto).
+  Os mesmos requerimentos, somados aos 140 e 143/2026, motivaram a convocação que Mendonça tornou facultativa em
+  26/02/2026 (ver ev-irmaos-de-toffoli-sao-investigados-no-inq-5026-e-dispensados-da-cpi). A cadeia de cotistas do
+  Arleen está em ev-cadeia-zettel-fundo-leal-arleen-participacao-maridt-tayaya.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

@@ -1,0 +1,28 @@
+id: doc-2026-01-27-requerimentos-160-161-cpi-crime-organizado-maridt-dgep
+kind: document
+title: Requerimentos 160/2026 e 161/2026 da CPI do Crime Organizado (Maridt, DGEP e fundo Arleen)
+doc_type: legislative_act
+date: '2026-01-27'
+date_precision: day
+source_ids:
+- src-senado-cpicrime-req-160-161-2026-maridt-dgep-arleen
+summary: 'Requerimentos do senador Alessandro Vieira que convocam os irmãos Dias Toffoli e citam Mario Umberto Degani, a
+  Maridt, a DGEP, o fundo Arleen, a PHD Holding, a Reag e a Operação Carbono Oculto como fundamento.'
+is_official: true
+related_entity_ids:
+- cpi-do-crime-organizado
+- alessandro-vieira
+- jose-eugenio-dias-toffoli
+- jose-carlos-dias-toffoli
+- mario-umberto-degani
+- dgep-empreendimentos-e-participacoes
+- maridt-participacoes
+- resort-tayaya
+- reag-investimentos
+issuer: Senado Federal — CPI do Crime Organizado (Sen. Alessandro Vieira)
+reference: REQ 160/2026 e REQ 161/2026 - CPICRIME
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

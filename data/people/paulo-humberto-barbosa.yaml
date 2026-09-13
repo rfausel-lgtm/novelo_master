@@ -10,9 +10,11 @@ summary: 'Citado na petição de Ibaneis Rocha (e-Doc 216) como uma das pessoas 
   CPI tinha fundamentação idêntica à dos irmãos Toffoli (mesmo texto-modelo), e que sua própria defesa caracteriza
   o requerimento como baseado em suposta "relação ilícita" entre ele e outros convocados — alegação da defesa sobre
   o que a CPI teria usado contra ele, não fato apurado. O corpus não localizou, além disso, nenhum outro documento
-  que explique seu papel nas investigações do caso Master.'
-why_in_novelo: Nome novo, citado apenas de passagem em lista de dispensas de comparecimento à CPI — sua conexão
-  específica com o caso Master ainda não está estabelecida no acervo.
+  que explique seu papel nas investigações do caso Master. ACHADO (lote 263): segundo o Jornal de Brasília e o FatoNews,
+  é o advogado que comprou em 2025, com empresas ligadas a ele, a participação de Mario Umberto Degani, primo de Dias
+  Toffoli, no Resort Tayayá — e, segundo o FatoNews, as de todos os sócios, inclusive as de Toffoli e parentes.'
+why_in_novelo: Investigado no INQ 5.026 que, segundo a imprensa, comprou em 2025 participações no Resort Tayayá, empreendimento
+  ligado à família de Dias Toffoli e ao fundo Arleen.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública localizada no corpus.
@@ -24,8 +26,10 @@ open_questions:
 source_ids:
 - src-stf-pet15556-edoc216-pedido-extensao-ibaneis-01-04-2026
 - src-stf-inq5026-decisao-26-02-2026-paulo-humberto-barbosa-salvo-conduto
+- src-jornaldebrasilia-2026-01-27-primo-de-toffoli-degani-tayaya
+- src-fatonews-2026-03-20-a-longa-ligacao-de-toffoli-com-o-tayaya
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-09-12'
