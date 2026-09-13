@@ -16,6 +16,7 @@
     "data:build": "node --import tsx scripts/build-data.ts",
     "data:lint": "tsx scripts/validate-data.ts --strict",
     "data:stress": "tsx scripts/synth-stress.ts",
+    "data:published-at": "tsx scripts/revisions-published-at.ts",
     "scan:secrets": "tsx scripts/scan-secrets.ts",
     "social:add": "tsx scripts/social-add.ts",
     "social:cards": "tsx scripts/social-card.ts",

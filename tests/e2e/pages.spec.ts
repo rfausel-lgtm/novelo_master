@@ -118,14 +118,22 @@ test("home lista as três últimas revisões, da mais recente para a mais antiga
   const links = page.locator('a[href^="/atualizacoes/#rev-"]');
   await expect(links).toHaveCount(3);
   /*
-   * A asserção é sobre a ORDEM, não sobre qual lote é o último: o corpus ganha lotes o tempo todo,
-   * e fixar o número aqui quebraria o CI a cada publicação do fork — já quebrou uma vez.
+   * A asserção é sobre a REGRA de ordem, não sobre qual revisão é a última: o corpus ganha revisões o
+   * tempo todo, e fixar um id aqui quebraria o CI a cada publicação. A regra é data editorial e,
+   * dentro dela, o instante de publicação. Número de lote não serve: saneamento e auditoria não têm.
    */
-  const numeros = (await links.evaluateAll((as) =>
-    as.map((a) => Number(/lote-(\d+)/.exec(a.getAttribute("href") ?? "")?.[1] ?? NaN)),
-  )) as number[];
-  expect(numeros.every(Number.isFinite)).toBe(true);
-  expect(numeros).toEqual([...numeros].sort((a, b) => b - a));
+  const itens = (await page.locator("li[data-published-at]").evaluateAll((lis) =>
+    lis.map((li) => [
+      li.querySelector("time")?.getAttribute("datetime") ?? "",
+      Date.parse(li.getAttribute("data-published-at") ?? ""),
+    ]),
+  )) as [string, number][];
+  expect(itens).toHaveLength(3);
+  expect(
+    itens.every(([data, t]) => data !== "" && Number.isFinite(t)),
+    "revisão da home sem published_at: rode npm run data:published-at -- --write",
+  ).toBe(true);
+  expect(itens).toEqual([...itens].sort((a, b) => b[0].localeCompare(a[0]) || b[1] - a[1]));
   const primeiro = await links.first().getAttribute("href");
   await links.first().click();
   await expect(page).toHaveURL(new RegExp(`${primeiro!.split("#")[1]}$`));

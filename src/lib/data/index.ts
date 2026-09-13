@@ -86,17 +86,28 @@ export const allSequences = (): TemporalSequence[] => corpus.sequences;
  * grupo de `rev-2026-09-06`) para ele grudar no topo à frente de lotes publicados depois — e o
  * número do lote nunca chegava a ser consultado. Sem o prefixo sobra a sequência do fork, em ordem
  * natural: `lote-109` acima de `lote-108`, e `lote-70` acima de `lote-7`, que texto puro inverteria.
+ *
+ * Antes do id vem `published_at`, o instante em que a revisão entrou no acervo. Sem ele o id decidia
+ * também entre revisões que não são lote, e pela ordem das letras: "saneamento" subia acima de todo
+ * "lote" do mesmo dia e "auditoria" afundava abaixo de todos, publicadas antes ou depois. Compara-se
+ * o instante, não o texto, porque há horários em UTC e em -03:00. Revisão sem o campo conta como a
+ * mais recente do dia: o histórico inteiro já tem horário, então quem falta é revisão nova que não
+ * passou por `npm run data:published-at` — melhor aparecer no topo, onde é esperada, do que sumir
+ * abaixo das antigas enquanto o E2E da home acusa a falta.
  */
 const NATURAL = new Intl.Collator("pt-BR", { numeric: true });
 const PREFIXO_DE_DATA = /^rev-\d{4}-\d{2}-\d{2}-/;
+const instante = (r: Pick<Revision, "published_at">) =>
+  r.published_at ? Date.parse(r.published_at) : Number.POSITIVE_INFINITY;
 
 /** Exportado para teste: é a regra que decide o que aparece como "última atualização". */
 export function compararRevisoes(
-  a: Pick<Revision, "id" | "date">,
-  b: Pick<Revision, "id" | "date">,
+  a: Pick<Revision, "id" | "date" | "published_at">,
+  b: Pick<Revision, "id" | "date" | "published_at">,
 ) {
   return (
     b.date.localeCompare(a.date) ||
+    instante(b) - instante(a) ||
     NATURAL.compare(b.id.replace(PREFIXO_DE_DATA, ""), a.id.replace(PREFIXO_DE_DATA, ""))
   );
 }

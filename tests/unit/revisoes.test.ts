@@ -65,3 +65,57 @@ describe("ordem das atualizações", () => {
     ).toEqual(["rev-2026-09-06-lote-109-b", "rev-2026-09-03-seed-inicial"]);
   });
 });
+
+/*
+ * O caso que prendeu o saneamento no topo da home em 12/09/2026: dezenas de revisões com a mesma
+ * `date`, e o desempate pelo texto do id pondo "saneamento" acima de todo "lote" e "auditoria"
+ * abaixo de todos, qualquer que fosse a hora em que cada uma foi publicada.
+ */
+describe("ordem pelo instante de publicação", () => {
+  const revP = (id: string, date: string, published_at?: string) => ({ id, date, published_at });
+  const ordemP = (lista: { id: string; date: string; published_at?: string }[]) =>
+    [...lista].sort(compararRevisoes).map((r) => r.id);
+
+  it("na mesma data, o instante decide, não o texto do id", () => {
+    expect(
+      ordemP([
+        revP("rev-2026-09-12-saneamento-cpfs", "2026-09-12", "2026-09-12T20:47:08-03:00"),
+        revP("rev-2026-09-12-lote-256-a", "2026-09-12", "2026-09-12T21:24:43-03:00"),
+        revP("rev-2026-09-12-auditoria-x", "2026-09-12", "2026-09-12T21:30:00-03:00"),
+        revP("rev-2026-09-12-lote-255-b", "2026-09-12", "2026-09-12T21:18:04-03:00"),
+      ]),
+    ).toEqual([
+      "rev-2026-09-12-auditoria-x",
+      "rev-2026-09-12-lote-256-a",
+      "rev-2026-09-12-lote-255-b",
+      "rev-2026-09-12-saneamento-cpfs",
+    ]);
+  });
+
+  it("compara instantes, não texto: 21:00 em -03:00 é depois de 23:30 UTC", () => {
+    expect(
+      ordemP([
+        revP("rev-2026-09-12-lote-9-utc", "2026-09-12", "2026-09-12T23:30:00Z"),
+        revP("rev-2026-09-12-lote-2-brt", "2026-09-12", "2026-09-12T21:00:00-03:00"),
+      ]),
+    ).toEqual(["rev-2026-09-12-lote-2-brt", "rev-2026-09-12-lote-9-utc"]);
+  });
+
+  it("revisão ainda sem horário conta como a mais recente do dia", () => {
+    expect(
+      ordemP([
+        revP("rev-2026-09-12-lote-300-com-horario", "2026-09-12", "2026-09-12T23:59:00-03:00"),
+        revP("rev-2026-09-12-lote-1-sem-horario", "2026-09-12"),
+      ]),
+    ).toEqual(["rev-2026-09-12-lote-1-sem-horario", "rev-2026-09-12-lote-300-com-horario"]);
+  });
+
+  it("a data editorial continua valendo antes do horário", () => {
+    expect(
+      ordemP([
+        revP("rev-2026-09-12-lote-2-a", "2026-09-12", "2026-09-13T09:00:00-03:00"),
+        revP("rev-2026-09-13-lote-1-b", "2026-09-13", "2026-09-12T09:00:00-03:00"),
+      ]),
+    ).toEqual(["rev-2026-09-13-lote-1-b", "rev-2026-09-12-lote-2-a"]);
+  });
+});
