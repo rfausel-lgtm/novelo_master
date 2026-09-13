@@ -1,0 +1,47 @@
+id: rev-2026-09-13-saneamento-dados-pessoais
+kind: revision
+date: '2026-09-13'
+title: 'Saneamento: dados pessoais fora da política editorial'
+summary: 'Auditoria rotineira de dados pessoais sobre todo o acervo publicado — não é apuração nova. A varredura
+  procurou, registro por registro, os dados que a seção 6 da política editorial veda, e encontrou cinco tipos em 31 registros. Todos foram retirados sem alterar nenhum fato: o que importa para o caso continua publicado, e só
+  o dado pessoal desnecessário saiu. Nenhum CPF, RG, telefone, placa ou dado bancário foi encontrado.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 0
+updated_relationships: 3
+corrections:
+- 'Número de unidade de imóvel: o apartamento investigado na 9ª fase da Operação Compliance Zero aparecia com o
+  número da unidade em 16 registros. A política admite o imóvel que é objeto do caso, nunca o número do
+  apartamento; o empreendimento, a cidade, o valor e a narrativa policial continuam publicados.'
+- 'Dado de saúde e dado de menores: um pedido de prisão domiciliar era descrito com o diagnóstico de uma
+  investigada e com o nome e a data de nascimento de recém-nascidos. Fica o fundamento do pedido (o nascimento
+  dos filhos e complicações de saúde no pós-parto), sem diagnóstico, nomes ou data exata. O título do lote
+  correspondente e sua arte de divulgação foram refeitos pelo mesmo motivo. Na mesma linha, a menção à idade
+  exata de uma filha e ao estado de saúde de uma mãe, em outro pedido, virou referência genérica.'
+- 'E-mails individuais transcritos de despachos judiciais e de contrato: fica o domínio, que é o dado pertinente
+  (a mudança de empresa ou o vínculo com o portal), e sai o endereço da pessoa.'
+- 'Endereço residencial: o logradouro do apartamento que serviu de sede a uma empresa na constituição foi
+  substituído pela cidade; o fato de a sede ser residencial continua registrado.'
+- 'Data de nascimento sem pertinência ao caso, em ficha oficial de parlamentar, foi retirada.'
+author: sessão de código
+affected_ids:
+- jaques-wagner
+- augusto-lima
+- epitome-sa
+- david-lopes-monteiro
+- luiz-antonio-lombardi
+- valerio-marega-junior
+- grupo-moura-dubeux
+- fabiano-zettel
+- natalia-vorcaro-zettel
+- gilmar-mendes
+- marilson-roseno-da-silva
+- thiago-miranda
+- leo-dias-comunicacao-e-jornalismo-ltda
+- pkl-one-participacoes
+- leandro-de-jesus

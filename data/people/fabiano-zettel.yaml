@@ -47,17 +47,14 @@ cited_position:
   date: '2026-03-04'
 - kind: version
   summary: Em petição ao STF, a defesa sustentou 'o não preenchimento dos requisitos para a sua segregação
-    cautelar' e pediu prisão domiciliar por razões humanitárias — filho de dois anos e gêmeos por nascer,
-    em gravidez de risco. Gilmar Mendes considerou a tese 'relevante', mas referendou a prisão 'por ora'.
+    cautelar' e pediu prisão domiciliar por razões humanitárias — filho de dois anos e gêmeos por nascer. Gilmar Mendes considerou a tese 'relevante', mas referendou a prisão 'por ora'.
   source_ids:
   - src-conjur-2026-03-voto-gilmar-mendes-pet15556-referendo
   by_id: fabiano-zettel
   date: 2026-03
 - kind: version
   summary: 'RESOLVE EM PARTE open_question (lote 188): em nova petição de 24/04/2026, retomou o pedido de
-    domiciliar diante de fato novo — os gêmeos Samuel e Sarah nasceram em 08/04/2026, e Natália teve
-    complicações graves no pós-parto (síndrome HELLP, reinternação, agravamento de quadro psiquiátrico
-    preexistente). Nega ter integrado o grupo ''A Turma'', caracterizando-se apenas como operador financeiro
+    domiciliar diante de fato novo — o nascimento dos gêmeos do casal, em abril de 2026, e complicações de saúde da esposa no pós-parto. Nega ter integrado o grupo ''A Turma'', caracterizando-se apenas como operador financeiro
     subordinado a Vorcaro. O corpus não localizou a decisão que apreciou este pedido específico.'
   source_ids:
   - src-stf-pet15556-edoc247-peticao-zettel-domiciliar-pos-parto-24-04-2026
@@ -77,8 +74,7 @@ open_questions:
   de denúncia ou ação penal — o caso segue em inquérito, com relatório da PF previsto para o fim de setembro
   de 2026. Não foram localizados habeas corpus em seu favor nem arguição de excesso de prazo.
 - Gilmar Mendes determinou, no voto de referendo, que a substituição da preventiva por domiciliar 'deve
-  ser reavaliada' assim que concluídas as diligências, por ele ter filho de tenra idade e gêmeos por nascer
-  em gravidez de risco (art. 318, III, do CPP). A petição de reavaliação foi apresentada em 24/04/2026
+  ser reavaliada' assim que concluídas as diligências, por ele ter filho de tenra idade e gêmeos por nascer (art. 318, III, do CPP). A petição de reavaliação foi apresentada em 24/04/2026
   (lote 188), mas o corpus não localizou a decisão que a apreciou.
 - Sua única parente próxima citada, além da esposa, é a mãe, desembargadora aposentada com mais de 80
   anos — o corpus não localizou o nome dela nem mais informações.
@@ -130,7 +126,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-11'
+updated_at: '2026-09-13'
 photo:
   path: /fotos/fabiano-zettel.jpg
   source: Wikimedia Commons

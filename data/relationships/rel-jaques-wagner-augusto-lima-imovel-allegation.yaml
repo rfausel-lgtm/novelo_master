@@ -7,7 +7,7 @@ directed: false
 label: envio dos dados do imóvel (1º eixo da 9ª fase), segundo a PF
 via_id: valerio-marega-junior
 description: A decisão registra que Wagner teria encaminhado a Augusto Ferreira Lima os dados do empreendimento
-  Poème Horto, do corretor responsável e da unidade nº 1.702, avaliada em cerca de R$ 2,45 milhões. O
+  Poème Horto, do corretor responsável e da unidade, avaliada em cerca de R$ 2,45 milhões. O
   documento reproduz a narrativa policial e não julga o mérito.
 evidence_class: A
 confidence: 0.4
@@ -33,4 +33,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-13'
