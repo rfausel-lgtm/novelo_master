@@ -1,0 +1,40 @@
+id: evt-2026-05-18-mendonca-suspende-perito-suspeito-de-vazar-material-vorcaro
+kind: event
+title: Mendonça suspende perito da PF suspeito de vazar material do celular de Vorcaro a Malu Gaspar
+event_type: judicial_decision
+date: '2026-05-18'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- joao-claudio-nabas
+- malu-gaspar
+- daniel-vorcaro
+- viviane-barci-de-moraes
+- alexandre-de-moraes
+- dias-toffoli
+description: 'O inquérito aberto em 06/03/2026 (Pet 15.625), a pedido da defesa de Vorcaro, para apurar o
+  vazamento de material sigiloso do celular do banqueiro identificou como suspeito o Perito Criminal Federal
+  João Cláudio Nabas. Segundo a PF, ele acessou o laudo pericial em 01/12/2025, criou os arquivos "Moraes.pdf" e
+  "Toffoli e esposa.pdf" em 04/12/2025, e os repassou no dia seguinte à delegada que presidia a investigação,
+  incentivando-a a procurar a jornalista Malu Gaspar — cuja reportagem de 09/12/2025 trouxe conteúdo coincidente
+  com o "Moraes.pdf". O mesmo arquivo foi apagado do OneDrive institucional horas antes de uma reportagem de
+  março de 2026 sobre conversas entre Vorcaro e o ministro Alexandre de Moraes, o que a PF trata como reforço
+  indiciário de que a mesma fonte estaria por trás do vazamento que deflagrou a crise Moraes-Mendonça. Com
+  anuência da PGR, Mendonça suspendeu Nabas da função, autorizou busca e apreensão e afastou o sigilo telemático
+  de sua conta Google.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-pf-identifica-nabas-como-fonte-do-vazamento-a-malu-gaspar
+- ev-arquivo-moraes-pdf-excluido-antes-de-reportagem-de-marco
+- ev-mendonca-suspende-nabas-e-autoriza-buscas
+source_ids:
+- src-stf-pet15625-representacao-e-decisao-joao-claudio-nabas
+document_ids:
+- doc-2026-05-decisao-mendonca-nabas-vazamento
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

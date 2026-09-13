@@ -1,0 +1,23 @@
+id: ev-mendonca-suspende-nabas-e-autoriza-buscas
+kind: evidence
+classification: D
+proposition: 'Em 18/05/2026, André Mendonça, acolhendo a representação da PF e o parecer da PGR, suspendeu João
+  Cláudio Nabas do exercício da função de Perito Criminal Federal, deferiu busca e apreensão domiciliar,
+  pessoal, profissional e veicular, proibiu contato dele com servidores e policiais federais e acesso às
+  dependências da PF, e afastou o sigilo telemático de sua conta Google (dados cadastrais, logs de acesso e
+  conteúdo armazenado, no período de 1º/11/2025 até o cumprimento da ordem).'
+document_ids:
+- doc-2026-05-decisao-mendonca-nabas-vazamento
+source_ids:
+- src-stf-pet15625-representacao-e-decisao-joao-claudio-nabas
+excerpt: SUSPENDO, nos termos do art. 319, VI, do CPP, o Perito Criminal Federal JOÃO CLÁUDIO NABAS do exercício
+  das funções públicas
+attributed_to: Ministro André Mendonça, em decisão de 18/05/2026
+date: '2026-05-18'
+notes: Não há, até esta coleta, notícia do desfecho do inquérito nem confirmação pública de que a busca e
+  apreensão foi cumprida.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -42,6 +42,12 @@ cited_position:
   by_id: barci-de-moraes-sociedade-de-advogados
   date: '2026-09-02'
 open_questions:
+- 'NOVO (13/09/2026): a PF, na Pet 15.625, aponta o Perito Criminal Federal João Cláudio Nabas como suspeito de
+  ter vazado, em dezembro de 2025, material do celular de Vorcaro sobre o contrato de Viviane Barci de Moraes
+  (publicado por O Globo em 09/12/2025); o mesmo arquivo foi apagado do OneDrive institucional horas antes de
+  uma reportagem de março de 2026 sobre as próprias conversas entre Vorcaro e o ministro — coincidência que a PF
+  trata como reforço indiciário, não como fato provado, de que a mesma fonte estaria por trás do vazamento que
+  deflagrou a crise Moraes-Mendonça.'
 - O corpus não contém manifestação do ministro posterior ao levantamento do sigilo da PET 16.662 (01/09/2026);
   ele atuou por despacho no INQ 4.781, não por nota.
 - O relatório da PF atribui o número a um contato salvo pelo banqueiro e compartilhado por Fábio Faria;
@@ -93,6 +99,7 @@ open_questions:
   março; a Presidência não decidiu o mérito desse pedido até 12/09, mas intimou a PF a informar sobre a
   custódia do material em 24h.'
 source_ids:
+- src-stf-pet15625-representacao-e-decisao-joao-claudio-nabas
 - src-stf-pet16704-oficio07-moraes-2026-09-11
 - src-stf-pet16704-oficios-acesso-midia-celular-2026-09-11
 - src-congressoemfoco-2026-09-01-relatorio-pf
