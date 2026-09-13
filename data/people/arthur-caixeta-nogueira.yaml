@@ -1,0 +1,26 @@
+id: arthur-caixeta-nogueira
+kind: person
+name: Arthur Caixeta Nogueira
+category: other
+role: Representante da REAG Portfolio Solutions
+summary: Apontado, na decisão de 15/04/2026 que autorizou busca e apreensão no esquema de propina imobiliária
+  ao ex-presidente do BRB Paulo Henrique Costa (Pet 15.771/15.772, STF), como representante formal da REAG
+  Portfolio Solutions — gestora do FIP Alucard (depois Abbiamo), fundo que passou a deter participação
+  majoritária nas seis empresas de fachada compradoras dos imóveis de R$ 146,6 milhões atribuídos a Paulo
+  Henrique Costa (ver ev-pf-seis-empresas-e-um-fundo-da-reag-compraram-os-imoveis-de-paulo-henrique-costa).
+why_in_novelo: É apontado como o representante formal da gestora do fundo usado para estruturar a compra dos
+  imóveis atribuídos ao ex-presidente do BRB no esquema de propina imobiliária.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele localizada no corpus até a data desta apuração.
+open_questions:
+- Não há, até esta coleta, notícia de denúncia, indiciamento formal ou desfecho da investigação contra ele.
+isolation_reason: Ligado à REAG Portfolio Solutions apenas como representante formal em atas societárias
+  citadas pela PF, sem vínculo pessoal com o esquema estabelecido no corpus até esta coleta.
+source_ids:
+- src-verificacao-direta-equipe-pet15771-decisao-integra
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

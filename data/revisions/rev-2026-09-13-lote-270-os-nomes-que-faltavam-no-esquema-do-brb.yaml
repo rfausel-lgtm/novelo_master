@@ -1,0 +1,39 @@
+id: rev-2026-09-13-lote-270-os-nomes-que-faltavam-no-esquema-do-brb
+kind: revision
+date: '2026-09-13'
+title: 'Lote 270 — os nomes que faltavam no esquema imobiliário do BRB'
+summary: 'Rafael reautenticou no peticionamento e uma equipe delegada baixou a decisão de 15/04/2026 que
+  autorizou a busca e apreensão contra Paulo Henrique Costa, Daniel Lopes Monteiro e outros (Pet 15.771/15.772),
+  já parcialmente conhecida no acervo por outra via. A releitura revela três nomes que antes ficavam de fora
+  por falta de acusação formal: a advogada Thaísa Menzato, apontada como participante qualificada do esquema
+  (assinatura de contratos, gestão de pagamentos via WhatsApp, estruturação jurídica da Tirreno); Hamilton
+  Suaki, médico e cunhado de Daniel Lopes Monteiro, colocado como diretor de uma das seis empresas de fachada
+  que compraram os imóveis de R$ 146,6 milhões atribuídos a Paulo Henrique Costa; e Arthur Caixeta Nogueira,
+  representante da REAG Portfolio Solutions, gestora do fundo por trás das seis empresas.'
+added:
+  people: 3
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 1
+  sources: 0
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'ev-pf-seis-empresas-e-um-fundo-da-reag-compraram-os-imoveis-de-paulo-henrique-costa: nomeados o diretor
+  (Hamilton Suaki) e o representante da REAG (Arthur Caixeta Nogueira), antes anônimos por falta de acusação
+  formal.'
+- 'daniel-lopes-monteiro: acrescentados os vínculos com Hamilton Suaki e Thaísa Menzato, e um indício de
+  repasse de R$ 86 milhões achado em documento na residência de Vorcaro.'
+author: orquestrador
+affected_ids:
+- thaisa-menzato
+- hamilton-suaki
+- arthur-caixeta-nogueira
+- daniel-lopes-monteiro
+- paulo-henrique-costa
+reason: Delegação a uma equipe (fork) para baixar peças pré-triadas da Pet 15.772 via peticionamento.stf.jus.br,
+  após o Rafael reautenticar a sessão.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

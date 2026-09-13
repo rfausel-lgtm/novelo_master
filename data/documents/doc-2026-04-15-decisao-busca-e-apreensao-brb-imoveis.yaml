@@ -1,0 +1,29 @@
+id: doc-2026-04-15-decisao-busca-e-apreensao-brb-imoveis
+kind: document
+title: Decisão de 15/04/2026 — busca e apreensão contra Paulo Henrique Costa, Daniel Lopes Monteiro e outros
+doc_type: judicial_decision
+date: '2026-04-15'
+date_precision: day
+source_ids:
+- src-verificacao-direta-equipe-pet15771-decisao-integra
+summary: 'Decisão de André Mendonça que autoriza busca e apreensão pessoal e domiciliar contra seis alvos —
+  Paulo Henrique Bezerra Rodrigues Costa, Daniel Lopes Monteiro, Thaísa Menzato, Hamilton Edward Suaki, Arthur
+  Caixeta Nogueira e o escritório Monteiro Rusu — no esquema de propina imobiliária ao ex-presidente do BRB,
+  operado via seis empresas de fachada controladas pelo FIP Alucard (REAG Portfolio Solutions). Nomeia
+  Hamilton Suaki como cunhado de Daniel Lopes Monteiro e diretor de uma das empresas (Allora S.A.).'
+is_official: true
+related_entity_ids:
+- paulo-henrique-costa
+- daniel-lopes-monteiro
+- thaisa-menzato
+- hamilton-suaki
+- arthur-caixeta-nogueira
+- andre-mendonca
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: PET 15.771/DF e PET 15.772/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -1,0 +1,29 @@
+id: hamilton-suaki
+kind: person
+name: Hamilton Suaki
+full_name: Hamilton Edward Suaki
+category: other
+role: Médico; cunhado de Daniel Lopes Monteiro; diretor de empresa de fachada usada no esquema imobiliário
+summary: 'Médico, casado com Maria de Fátima Monteiro Suaki, irmã do advogado Daniel Lopes Monteiro. Segundo
+  a decisão de 15/04/2026 que autorizou busca e apreensão contra ele (Pet 15.771/15.772, STF), tornou-se
+  diretor da empresa de fachada Allora S.A. — com endereço coincidente ao do escritório Monteiro Rusu — após a
+  renúncia dos sócios originais Sueli Ferretti e Cleber Fernandes. A Allora está entre as seis sociedades de
+  prateleira controladas pelo FIP Alucard (depois Abbiamo), da REAG Portfolio Solutions, usadas para comprar
+  imóveis de R$ 146,6 milhões atribuídos ao ex-presidente do BRB Paulo Henrique Costa (ver
+  ev-pf-seis-empresas-e-um-fundo-da-reag-compraram-os-imoveis-de-paulo-henrique-costa).'
+why_in_novelo: É apontado, na decisão que autorizou busca e apreensão no esquema de propina imobiliária ao
+  BRB, como o diretor colocado à frente de uma das seis empresas de fachada que compraram os imóveis.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele localizada no corpus até a data desta apuração.
+open_questions:
+- Não há, até esta coleta, notícia de denúncia, indiciamento formal ou desfecho da investigação contra ele.
+- Não está estabelecido se ele tinha conhecimento da origem dos recursos movimentados pela Allora S.A. ou
+  atuou apenas como "laranja" formal na direção da empresa.
+source_ids:
+- src-verificacao-direta-equipe-pet15771-decisao-integra
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -1,0 +1,22 @@
+id: rel-hamilton-suaki-daniel-lopes-monteiro-familial
+kind: relationship
+from_id: hamilton-suaki
+to_id: daniel-lopes-monteiro
+relationship_type: familial
+directed: false
+label: cunhado
+description: Hamilton Suaki é casado com Maria de Fátima Monteiro Suaki, irmã do advogado Daniel Lopes Monteiro,
+  segundo a decisão de 15/04/2026 que autorizou busca e apreensão contra ambos (Pet 15.771/15.772, STF).
+evidence_class: D
+confidence: 0.9
+status: verified
+evidence_ids: []
+document_ids:
+- doc-2026-04-15-decisao-busca-e-apreensao-brb-imoveis
+source_ids:
+- src-verificacao-direta-equipe-pet15771-decisao-integra
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

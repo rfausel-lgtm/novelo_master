@@ -1,0 +1,24 @@
+id: ev-thaisa-menzato-papel-no-esquema-brb-master
+kind: evidence
+classification: A
+proposition: 'Segundo a decisão de 15/04/2026 que autorizou busca e apreensão contra ela (Pet 15.771/15.772,
+  STF), a advogada Thaísa Menzato teria participação recorrente e tecnicamente qualificada no esquema de
+  propina imobiliária ao ex-presidente do BRB Paulo Henrique Costa: assinatura de contratos na sede do Banco
+  Master, integração de grupo de WhatsApp que geria os pagamentos indevidos, atuação na elaboração dos
+  instrumentos jurídicos de criação da empresa Tirreno e dos contratos de cessão Tirreno-Master, explicações
+  sobre a origem dos recursos usados para quitar os imóveis (aportes do FIP Triunfo no FIP Alucard), e alertas
+  a Daniel Vorcaro sobre notificações de inadimplemento dos imóveis. Um pagamento de 22/07/2025 é atribuído,
+  na decisão, à origem "THAIZA" do escritório Monteiro Rusu.'
+document_ids:
+- doc-2026-04-15-decisao-busca-e-apreensao-brb-imoveis
+source_ids:
+- src-verificacao-direta-equipe-pet15771-decisao-integra
+attributed_to: André Mendonça, em decisão de 15/04/2026, com base em representação da Polícia Federal
+date: '2026-04-15'
+notes: Alegação de autoridade investigativa em cognição sumária, sem denúncia oferecida contra ela até esta
+  coleta.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

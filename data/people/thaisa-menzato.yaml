@@ -1,0 +1,32 @@
+id: thaisa-menzato
+kind: person
+name: Thaísa Menzato
+category: lawyer
+role: Advogada; alvo de busca e apreensão na Operação Compliance Zero
+summary: 'Advogada, alvo de busca e apreensão pessoal e domiciliar autorizada em 15/04/2026 (Pet 15.771/15.772,
+  STF, relator André Mendonça) no âmbito do esquema de propina imobiliária ao ex-presidente do BRB Paulo
+  Henrique Costa. Segundo a decisão, teria participação recorrente e tecnicamente qualificada nos momentos
+  centrais do esquema: assinatura de contratos na sede do Banco Master, integração de grupo de WhatsApp que
+  geria os pagamentos indevidos a Paulo Henrique Costa, atuação na elaboração dos instrumentos jurídicos de
+  criação da empresa Tirreno e dos contratos de cessão Tirreno-Master, explicações sobre a origem dos recursos
+  usados para quitar os imóveis (aportes do FIP Triunfo no FIP Alucard), e alertas a Daniel Vorcaro sobre
+  notificações de inadimplemento dos imóveis ligados a Paulo Henrique Costa. Um pagamento de 22/07/2025 é
+  atribuído, na decisão, à origem "THAIZA" do escritório Monteiro Rusu.'
+why_in_novelo: É apontada pela decisão que autorizou a 6ª/7ª fase da Compliance Zero como participante
+  qualificada do esquema de propina imobiliária ao ex-presidente do BRB, ao lado de Daniel Lopes Monteiro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dela localizada no corpus até a data desta apuração.
+open_questions:
+- Não há, até esta coleta, notícia de denúncia, indiciamento formal ou desfecho da investigação contra ela.
+- O corpus não confirma se ela integra formalmente o quadro societário do escritório Monteiro Rusu ou atua
+  apenas em conjunto com ele.
+isolation_reason: Ligada ao esquema apurado na Pet 15.771/15.772 (Paulo Henrique Costa, Daniel Lopes Monteiro),
+  mas sem vínculo societário ou familiar formalmente estabelecido no corpus até esta coleta.
+source_ids:
+- src-verificacao-direta-equipe-pet15771-decisao-integra
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
