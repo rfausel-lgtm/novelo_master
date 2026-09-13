@@ -1,0 +1,27 @@
+id: ev-fachin-avoca-pet15041-e-pet15556-e-formaliza-substituicao-relatoria
+kind: evidence
+classification: D
+proposition: 'Em despacho de 12/09/2026 na Pet 16.704, Fachin remete à Presidência do STF as PETs 15.041
+  (Operação Sem Desconto, fraude no INSS) e 15.556 (Compliance Zero), com todos os processos a elas relacionados,
+  citando a manifestação de Moraes; e determina, com fundamento no art. 13, XV, do RISTF, que a Secretaria
+  Judiciária substitua a relatoria da PET 16.662 para a Presidência, diante da possibilidade de aplicação do
+  art. 144, IV, do Código de Processo Civil (suspeição). O mesmo despacho registra que a PET 16.662 foi criada
+  porque a IPJ-A nº 3298613/2026 identificou pessoa que atrai o art. 5º, I, do RISTF (competência do Plenário),
+  desentranhada da Pet 15.556.'
+document_ids:
+- doc-2026-09-12-despacho-fachin-avocacao-substituicao-relatoria
+source_ids:
+- src-stf-pet16704-despacho-12-09-2026-avocacao-e-substituicao-relatoria
+excerpt: determino, com fundamento no art. 13, XV, do Regimento Interno do Supremo Tribunal Federal, à
+  Secretaria Judiciária, que substitua a relatoria da PET 16.662 para a Presidência do Supremo Tribunal Federal
+attributed_to: Ministro Edson Fachin, em despacho de 12/09/2026
+date: '2026-09-12'
+notes: 'Complementa ev-mendonca-remete-pet16662-a-presidencia-em-cumprimento-a-fachin (lote 253), que registrava
+  só o cumprimento por Mendonça — este despacho é o ato que formalmente decreta a substituição, com base legal
+  explícita, e amplia a avocação para além da PET 16.662, incluindo as próprias PETs 15.041 e 15.556. O texto
+  não nomeia a pessoa identificada pela IPJ-A nº 3298613/2026 que teria atraído o art. 5º, I, do RISTF.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

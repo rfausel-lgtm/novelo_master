@@ -85,7 +85,16 @@ open_questions:
   do colegiado sobre abrir inquérito contra um de seus integrantes. A suspeita se apoia no relatório preliminar
   de 218 páginas da Polícia Federal, produzido sobre o material do celular de Daniel Vorcaro. A Procuradoria-Geral
   da República sustenta a nulidade desse relatório, por vício de método na sua produção.
+- 'Em ofício de 11/09/2026 a Fachin, formalizou por escrito a acusação contra Mendonça: usurpação da direção
+  de investigações, condução irregular de colaboração premiada e direcionamento de alvos — ele próprio e o
+  senador Davi Alcolumbre — "por motivos pessoais e políticos". Pediu julgamento conjunto das PETs 16.704 e
+  16.662 e denunciou levantamento de sigilo parcial (180 documentos excluídos). No mesmo dia, com Zanin e
+  Gilmar Mendes, pediu acesso à cópia dos dados do celular de Vorcaro, lacrada no gabinete de Mendonça desde
+  março; a Presidência não decidiu o mérito desse pedido até 12/09, mas intimou a PF a informar sobre a
+  custódia do material em 24h.'
 source_ids:
+- src-stf-pet16704-oficio07-moraes-2026-09-11
+- src-stf-pet16704-oficios-acesso-midia-celular-2026-09-11
 - src-congressoemfoco-2026-09-01-relatorio-pf
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-poder360-2026-03-06-moraes-nega
@@ -117,7 +126,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-10'
+updated_at: '2026-09-13'
 photo:
   path: /fotos/alexandre-de-moraes.jpg
   source: Wikimedia Commons

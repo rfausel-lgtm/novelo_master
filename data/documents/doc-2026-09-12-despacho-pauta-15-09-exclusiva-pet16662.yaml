@@ -1,0 +1,21 @@
+id: doc-2026-09-12-despacho-pauta-15-09-exclusiva-pet16662
+kind: document
+title: Despacho — sessão de 15/09 fica exclusiva à PET 16.662, e a Pet 16.704 é adiada para 23/09
+doc_type: judicial_decision
+date: '2026-09-12'
+date_precision: day
+source_ids:
+- src-stf-pet16704-despacho-12-09-2026-pauta-adiada-23-09
+summary: Indefere a inclusão da Pet 16.704 na pauta de 15/09/2026, mantendo-a exclusiva à PET 16.662, e marca
+  a Pet 16.704 para a sessão de 23/09/2026, após o fim da instrução.
+is_official: true
+related_entity_ids:
+- edson-fachin
+issuer_id: edson-fachin
+issuer: Ministro Presidente Edson Fachin
+reference: PET 16.704/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

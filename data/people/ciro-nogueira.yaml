@@ -36,7 +36,12 @@ cited_position:
 open_questions:
 - 'RESOLVIDO (lote 264): a Emenda nº 11 à PEC 65/2023 foi apresentada em 13/08/2024, elevava a garantia do FGC a R$ 1
   milhão e foi rejeitada pela CCJ em 10/06/2026 (ver ev-emenda-11-de-ciro-nogueira-elevava-o-fgc-a-1-milhao-e-foi-rejeitada-na-ccj).'
+- A PGR, em manifestação de 11/09/2026 na Pet 16.704, lista a PET 15.873 — a petição sobre a Emenda nº 11 e
+  a busca de 07/05/2026 contra ele — entre 17 processos correlatos à Compliance Zero que ficaram de fora do
+  levantamento de sigilo de 10/09/2026 (ver ev-pgr-lista-17-processos-omitidos-do-levantamento-de-sigilo).
+  Não implica, por si, nenhum fato novo sobre ele além do que o acervo já documenta.
 source_ids:
+- src-stf-pet16704-manifestacoes-pgr-2026-09-11-12
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
 - src-senado-emenda-11-pec-65-2023-ciro-nogueira
 - src-senado-parecer-ccj-47-2026-pec-65
@@ -49,7 +54,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-12'
+updated_at: '2026-09-13'
 photo:
   path: /fotos/ciro-nogueira.jpg
   source: Wikimedia Commons

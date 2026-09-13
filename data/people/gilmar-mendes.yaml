@@ -45,7 +45,11 @@ open_questions:
   preservar Alexandre de Moraes das suspeitas envolvendo Vorcaro e que deseja retirar a relatoria do caso
   Banco Master de André Mendonça — leitura da reportagem, sem corroboração jornalística independente localizada
   até a data desta apuração.
+- 'Em ofício nº 005/MGM de 11/09/2026, aderiu ao pedido de Zanin de que a cópia dos dados do celular de Vorcaro,
+  lacrada no gabinete de Mendonça desde março, fosse compartilhada com todos os ministros antes do julgamento
+  de 15/09, falando em "acesso assimétrico" que compromete a "paridade entre os integrantes da Corte".'
 source_ids:
+- src-stf-pet16704-oficios-acesso-midia-celular-2026-09-11
 - src-correiobraziliense-2026-09-gilmar-propoe-retirar-delegados
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
 - src-verificacao-direta-equipe-pet16669-decisao-dino-integra
@@ -57,7 +61,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-11'
+updated_at: '2026-09-13'
 photo:
   path: /fotos/gilmar-mendes.jpg
   source: Wikimedia Commons

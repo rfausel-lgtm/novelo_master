@@ -65,7 +65,17 @@ open_questions:
   afastou o diretor-geral da Polícia Federal e o diretor de Inteligência, foi suspenso por Fachin no dia
   seguinte, junto com a decisão de Dino que o havia neutralizado. A Procuradoria-Geral da República sustenta
   que ele direcionou a apuração contra Moraes sem autorização prévia do Plenário.
+- 'Em ofício de 11/09/2026, Moraes formalizou por escrito, com lista numerada, a acusação de que Mendonça
+  usurpou a direção de investigações, conduziu irregularmente colaboração premiada e direcionou alvos —
+  o próprio Moraes e o senador Davi Alcolumbre — "por motivos pessoais e políticos"; denunciou ainda que o
+  levantamento de sigilo de 10/09 excluiu 180 documentos dos 15 processos liberados. No mesmo dia, três
+  ministros (Moraes, Zanin, Gilmar Mendes) cobraram que a cópia dos dados do celular de Vorcaro — entregue
+  ao gabinete de Mendonça pela PF em 08/03/2026 e mantida lacrada (lacre nº B0003311945) — fosse compartilhada
+  com todo o colegiado antes do julgamento de 15/09; Mendonça respondeu que a cópia permanece intocada, sem
+  se opor abertamente ao compartilhamento nem promovê-lo.'
 source_ids:
+- src-stf-pet16704-oficio07-moraes-2026-09-11
+- src-stf-pet16704-oficios-acesso-midia-celular-2026-09-11
 - src-apublica-2026-02-13-mendonca-herda-caso
 - src-cnn-2026-09-02-mendonca-admite-encontro
 - src-exame-2026-09-08-agu-messias-pede-suspensao-mendonca-fachin
@@ -95,7 +105,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-10'
+updated_at: '2026-09-13'
 photo:
   path: /fotos/andre-mendonca.jpg
   source: Wikimedia Commons

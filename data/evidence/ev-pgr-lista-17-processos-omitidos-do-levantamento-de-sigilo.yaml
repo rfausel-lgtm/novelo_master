@@ -1,0 +1,23 @@
+id: ev-pgr-lista-17-processos-omitidos-do-levantamento-de-sigilo
+kind: evidence
+classification: D
+proposition: 'A PGR, em manifestação de 11/09/2026 na Pet 16.704, nomeia 17 processos correlatos à Compliance
+  Zero que ficaram de fora do levantamento de sigilo determinado por Mendonça em 10/09 (que cobriu 14 processos):
+  PET 16.319, 15.711, 15.771, 15.772, 15.773, 15.855, 15.873, 15.877, 15.625, 15.676, 15.686, 15.497, 16.201,
+  16.210, 16.229, 16.230, 16.346 e 16.369. Pede levantamento "sem exceção".'
+document_ids:
+- doc-2026-09-12-manifestacoes-pgr-processos-omitidos
+source_ids:
+- src-stf-pet16704-manifestacoes-pgr-2026-09-11-12
+excerpt: PET 16319, PET 15711, PET 15771, PET 15772, PET 15773, PET 15855, PET 15873, PET 15877, PET 15625,
+  PET 15676, PET 15686, PET 15497, PET 16201, PET 16210, PET 16229, PET 16230, PET 16346 e PET 16369
+attributed_to: Ministério Público Federal (Hindenburgo Chateaubriand Filho, Vice-Procurador-Geral da República)
+date: '2026-09-11'
+notes: 'A PET 15.873 já está no acervo (ver ciro-nogueira.yaml, lote 264) — é a petição sobre a Emenda nº 11 e
+  a busca e apreensão de 07/05/2026 contra o senador. Os outros 16 números não foram abertos nesta coleta; ficam
+  como fio para retomar.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

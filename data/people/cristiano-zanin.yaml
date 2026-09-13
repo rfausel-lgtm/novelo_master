@@ -20,7 +20,13 @@ open_questions:
   preservar Alexandre de Moraes das suspeitas envolvendo Vorcaro e que deseja retirar a relatoria do caso
   Banco Master de André Mendonça — leitura da reportagem, sem corroboração jornalística independente localizada
   até a data desta apuração.
+- 'Em ofícios de 11/09/2026 (nº 13 e 14/2026-GMCZ), pediu a Fachin que a cópia dos dados do celular de Vorcaro,
+  mantida lacrada no gabinete de Mendonça desde março, fosse compartilhada com todos os ministros antes do
+  julgamento de 15/09 — ato formal, em processo público, distinto da articulação de bastidores descrita pela
+  Poder360 acima; não se pronuncia sobre proteger ou não Moraes, apenas sobre paridade de acesso probatório
+  entre os julgadores.'
 source_ids:
+- src-stf-pet16704-oficios-acesso-midia-celular-2026-09-11
 - src-stf-2026-03-12-rejeita-cpi
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
@@ -29,7 +35,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-13'
 photo:
   path: /fotos/cristiano-zanin.jpg
   source: Wikimedia Commons

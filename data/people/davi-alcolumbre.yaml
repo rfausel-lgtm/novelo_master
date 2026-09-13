@@ -62,9 +62,14 @@ open_questions:
   que corrobore o relato da Veja.
 - Não há documento oficial que registre indicação, ofício ou correspondência dele relativa à nomeação
   de Jocildo Lemos — a atribuição repousa exclusivamente na declaração do nomeado.
+- 'Em ofício de 11/09/2026 a Fachin, Alexandre de Moraes o cita nominalmente, ao lado de si mesmo, como alvo
+  de "direcionamento" de investigação por André Mendonça "por motivos pessoais e políticos" — acusação de
+  uma parte contra outra em disputa institucional aberta, sem manifestação dele localizada até esta coleta,
+  e sem relação estabelecida com a hipótese em aberto acima sobre Rueda/ACM Neto.'
 - A negativa da assessoria cobre 'nomeações e decisões administrativas'; o corpus não localizou manifestação
   dele sobre a relação pessoal com Jocildo Lemos nem sobre o vínculo de campanha.
 source_ids:
+- src-stf-pet16704-oficio07-moraes-2026-09-11
 - src-senado-pec-65-2023-materia
 - src-senado-2026-05-21-alcolumbre-cpmi
 - src-senado-2026-02-03-cpmi-protocolada
@@ -89,7 +94,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-11'
+updated_at: '2026-09-13'
 photo:
   path: /fotos/davi-alcolumbre.jpg
   source: Wikimedia Commons

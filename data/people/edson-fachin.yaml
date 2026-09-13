@@ -65,9 +65,17 @@ open_questions:
   conexos, invocando paridade de armas eleitoral e o precedente da Operação Spoofing. Não está estabelecido
   se essa petição influenciou o despacho de Fachin, que correu por procedimento distinto (PET 16.704) já
   aberto por ele seis dias antes — mas ambos convergiram no mesmo resultado em 48 horas.'
+- 'Em 12/09/2026, diante de ofício de Moraes pedindo julgamento conjunto e de manifestação da PGR sobre
+  levantamento parcial de sigilo, foi além da PET 16.662: avocou também as próprias PETs 15.041 (INSS) e
+  15.556 (Compliance Zero), com todos os processos relacionados, e formalizou — com base no art. 13, XV,
+  do RISTF — a substituição da relatoria da PET 16.662 para a Presidência, diante da possibilidade de
+  aplicação do art. 144, IV, do CPC (suspeição). No mesmo dia, indeferiu pedido de inclusão da própria
+  PET 16.704 na pauta de 15/09, mantendo-a exclusiva à PET 16.662 e remarcando a Pet 16.704 para 23/09.'
 source_ids:
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
+- src-stf-pet16704-despacho-12-09-2026-avocacao-e-substituicao-relatoria
+- src-stf-pet16704-despacho-12-09-2026-pauta-adiada-23-09
 - src-verificacao-direta-equipe-pet16669-decisao-dino-integra
 - src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
@@ -87,7 +95,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-11'
+updated_at: '2026-09-13'
 photo:
   path: /fotos/edson-fachin.jpg
   source: Wikimedia Commons
