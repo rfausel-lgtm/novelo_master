@@ -1,0 +1,35 @@
+id: rev-2026-09-13-lote-290-zanin-determina-entrega-em-48-horas
+kind: revision
+date: '2026-09-13'
+title: 'Lote 290 — Zanin escala a disputa pelo HD: determinação formal com prazo de 48 horas'
+summary: 'Achados do 4º e 5º ciclos do agente de monitoramento de imprensa, verificados por WebFetch direto:
+  (1) na noite de 13/09/2026, o ministro Cristiano Zanin foi além do ofício de 11/09 (já registrado no
+  acervo) e determinou formalmente que a PF entregasse a cópia dos dados do celular de Vorcaro ao seu
+  gabinete até as 23h de domingo — exatas 48 horas antes da sessão de terça — argumentando que "não existe
+  hierarquia entre os ministros do STF"; (2) atualização do lote 284: reportagens indicam que a PF de fato
+  respondeu, mais cedo no mesmo domingo, à intimação de 24h de Fachin, informando ter plenas condições
+  técnicas de fornecer cópias — mas essa resposta não constava, na verificação direta desta sessão, como
+  juntada formal aos autos públicos; não está claro se foi comunicação por outro canal ou juntada posterior.
+  Não verificado se o prazo de Zanin foi cumprido nem por que ele agiu mesmo após a sinalização da PF.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 2
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'ev-disputa-pelo-hd-lacrado-do-celular-de-vorcaro-entre-ministros: registrada a determinação formal de
+  Zanin com prazo de 23h de domingo (48h antes da sessão).'
+author: orquestrador
+affected_ids:
+- cristiano-zanin
+- alexandre-de-moraes
+- andre-mendonca
+reason: Continuação do acompanhamento da disputa pelo HD lacrado (lote 284), pelo agente de monitoramento de
+  imprensa a cada 15 minutos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
