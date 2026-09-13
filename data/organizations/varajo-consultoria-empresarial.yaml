@@ -30,14 +30,19 @@ open_questions:
   milhão em 2025).'
 - Não foi localizada manifestação da empresa ou de seu sócio único sobre a caracterização das contas como
   'conta de passagem' dos recebimentos ilícitos, feita pela Polícia Federal.
+- 'NOVO (13/09/2026): em agravo regimental de 30/06/2026, a empresa (com Palhares) pediu redimensionamento
+  do bloqueio patrimonial ao valor "efetivamente demonstrado nos autos" de R$ 3.810.000,00 — primeira cifra
+  específica associada ao bloqueio da Varajo no acervo. A PGR pediu o não provimento em contraminuta de
+  10/07/2026; não há notícia do julgamento do agravo até esta coleta.'
 source_ids:
 - src-timesbrasil-2026-03-mensagens-belline-cobrando
 - src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
 - src-brasilapi-2026-varajo-consultoria-cnpj
 - src-infomoney-2026-04-bc-negocio-simulado-contratos-varajo
 - src-infomoney-2026-master-declarou-13-milhoes-varajo
+- src-stf-pet15563-contraminuta-pgr-10-07-2026-agravo-palhares-varajo
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-13'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-13'

@@ -1,0 +1,40 @@
+id: rev-2026-09-13-lote-275-a-decisao-original-chamou-o-nucleo-de-vorcaro-de-milicia-violenta
+kind: revision
+date: '2026-09-13'
+title: 'Lote 275 — a decisão original já chamava o núcleo de Vorcaro de "milícia violenta", e Palhares briga
+  por R$ 3,81 milhões'
+summary: 'Equipe delegada leu a contraminuta da PGR (10/07/2026) ao agravo regimental de Leonardo Palhares e
+  da Varajo Consultoria contra o bloqueio de bens de 03/03/2026 (Pet 15.563). Dois achados: (1) o agravo
+  revela a primeira cifra específica do bloqueio de Palhares/Varajo — pedem redimensionamento ao valor
+  "efetivamente demonstrado nos autos" de R$ 3.810.000,00, alegando que o contrato com Belline Santana
+  (projeto "Jovens Potentes") tinha objeto real; a PGR pediu o não provimento, sem notícia do julgamento até
+  esta coleta. (2) A PGR, ao transcrever o item 10.5 da decisão original para rebater o agravo, traz uma
+  caracterização jurídica do núcleo liderado por Vorcaro que não estava registrada no acervo: "de formação de
+  uma milícia violenta, sob os comandos de DANIEL VORCARO, para satisfação de seus interesses exclusivamente
+  privados" — a mesma dinâmica já documentada como "A Turma" (lotes 170-171), agora com essa formulação da
+  própria decisão original.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'doc-2026-03-03-decisao-pet15563-medidas-assecuratorias: acrescentada a caracterização do item 10.5 como
+  "milícia violenta", até então não registrada.'
+- 'leonardo-augusto-furtado-palhares / varajo-consultoria-empresarial: acrescentado o agravo de 30/06/2026 e
+  a cifra de R$ 3.810.000,00 pedida como redimensionamento do bloqueio.'
+author: orquestrador
+affected_ids:
+- leonardo-augusto-furtado-palhares
+- varajo-consultoria-empresarial
+- belline-santana
+- daniel-vorcaro
+reason: Continuação da fila de download delegada (fork com sessão autenticada do Rafael) na Pet 15.563 —
+  divisão de trabalho combinada em 13/09/2026 (fork baixa e passa texto bruto, esta sessão analisa e publica).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

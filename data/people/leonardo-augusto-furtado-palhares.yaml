@@ -86,6 +86,11 @@ open_questions:
   a outra pessoa — o dado é falso e não deve ser reproduzido. Seu registro profissional não foi confirmado.'
 - 'A petição de 12/08/2026 cita a PET 15.504 como o procedimento com a documentação integral do projeto
   Jovens Potentes — número de processo até então não registrado no corpus.'
+- 'NOVO (13/09/2026): em agravo regimental de 30/06/2026 contra o bloqueio de bens (Pet 15.563), nega vínculo
+  com os fatos e pede, subsidiariamente, redimensionamento do bloqueio ao valor "efetivamente demonstrado nos
+  autos" de R$ 3.810.000,00. A PGR, em contraminuta de 10/07/2026, pediu o não provimento do agravo,
+  reiterando que ele "atuou na formalização documental" do contrato Varajo/Belline Santana. Não há notícia
+  do julgamento do agravo até esta coleta.'
 source_ids:
 - src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
 - src-brasilapi-2026-super-empreendimentos-cnpj
@@ -101,8 +106,9 @@ source_ids:
 - src-stf-pet15556-edoc390-peticao-palhares-revisao-cautelares-12-08-2026
 - src-stf-inq5026-decisao-27-03-2026-palhares-facultativo-cpi
 - src-stf-pet15563-decisao-03-03-2026-medidas-assecuratorias
+- src-stf-pet15563-contraminuta-pgr-10-07-2026-agravo-palhares-varajo
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-09-13'
 created_at: '2026-09-09'
-updated_at: '2026-09-11'
+updated_at: '2026-09-13'
