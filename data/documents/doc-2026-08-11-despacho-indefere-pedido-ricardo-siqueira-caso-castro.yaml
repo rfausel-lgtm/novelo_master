@@ -1,0 +1,23 @@
+id: doc-2026-08-11-despacho-indefere-pedido-ricardo-siqueira-caso-castro
+kind: document
+title: Despacho de Mendonça indefere pedido de Ricardo Siqueira Rodrigues na Pet 15.676
+doc_type: judicial_decision
+date: '2026-08-11'
+date_precision: day
+source_ids:
+- src-stf-portal-pet15676-15686-andamentos-2026-09-13
+summary: Mendonça indefere pedido formulado por Ricardo Siqueira Rodrigues na Pet 15.676 (caso Cláudio Castro),
+  mantendo em curso as investigações contra ele.
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- ricardo-siqueira-rodrigues
+- claudio-castro
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: PET 15.676/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

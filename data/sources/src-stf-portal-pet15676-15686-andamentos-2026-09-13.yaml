@@ -1,0 +1,29 @@
+id: src-stf-portal-pet15676-15686-andamentos-2026-09-13
+kind: source
+title: Andamentos públicos das PETs 15.676 e 15.686 — a operação contra Cláudio Castro foi maior do que a
+  busca já conhecida
+publisher: Supremo Tribunal Federal
+publication_date: '2026-08-11'
+retrieved_at: '2026-09-13'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7530185
+source_type: official_court
+summary: 'Os andamentos públicos das PETs 15.676 (origem DF) e 15.686 (origem RJ), ambas distribuídas por
+  prevenção à Pet 15.497 (o caso Cláudio Castro), mostram que a decisão de 25/05/2026 gerou pelo menos 10
+  mandados de busca e apreensão na Pet 15.676 e mais 3 ofícios na Pet 15.686 — mais ampla do que a busca
+  "na casa do ex-governador" noticiada pela imprensa em 26/05/2026. A Pet 15.686 nomeia um segundo alvo,
+  Tharcio Nascimento Salgado. Em 11/08/2026, Mendonça indeferiu pedido formulado por Ricardo Siqueira
+  Rodrigues (o operador financeiro da RioPrevidência já identificado no lote 266) na Pet 15.676, mantendo em
+  curso as investigações contra ele.'
+notes: Lido nas abas de Andamentos e Decisões do portal público (sem certificado); o teor completo das decisões
+  sigilosas de 25/05 não é acessível sem certificado ou sessão autenticada — apenas a certidão de quantidade de
+  mandados e o despacho de 11/08, que não é sigiloso, ficaram visíveis.
+verification:
+  checked_at: '2026-09-13'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
