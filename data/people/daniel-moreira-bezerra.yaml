@@ -22,7 +22,11 @@ open_questions:
   veículo de venda de créditos ao BRB — o registro de ~91 empresas semelhantes é consistente tanto com
   atuação própria de "vendedor de empresas de prateleira" (praxe comercial comum, não necessariamente ilícita)
   quanto com participação consciente no esquema; os documentos não resolvem essa distinção.
+- 'Atualização do lote 257: a IPJ-A nº 1270942/2026 da PF o registra como secretário nas atas de aumento de capital
+  de duas das seis empresas de prateleira usadas, segundo a PF, para comprar imóveis para Paulo Henrique Costa
+  (Lenore e Stanza, fevereiro de 2025). O relatório não afirma que ele soubesse do propósito das operações.'
 source_ids:
+- src-stf-inq5026-ipja-1270942-2026-imoveis-paulo-henrique-costa
 - src-stf-inq5026-ipl1096304-completo
 review_status: published
 reviewer: orquestrador

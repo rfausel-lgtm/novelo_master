@@ -1,0 +1,30 @@
+id: ev-pf-seis-empresas-e-um-fundo-da-reag-compraram-os-imoveis-de-paulo-henrique-costa
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, os seis imóveis de R$ 146,6 milhões atribuídos a Paulo Henrique Costa seriam
+  comprados por seis sociedades anônimas de prateleira — Allora, Lenore, Stanza, Domani, Chesapeake e Milano —, cada
+  uma com capital aumentado entre janeiro e março de 2025 no valor de um imóvel e controlada pelo FIP Alucard (depois
+  renomeado Abbiamo), gerido pela REAG Portfolio Solutions; o diretor das seis empresas é, pela PF, cunhado do advogado
+  Daniel Lopes Monteiro.
+document_ids:
+- doc-2026-03-12-ipja-1270942-imoveis-paulo-henrique-costa
+source_ids:
+- src-stf-inq5026-ipja-1270942-2026-imoveis-paulo-henrique-costa
+attributed_to: Polícia Federal, na IPJ-A nº 1270942/2026, juntada ao INQ 5.026
+date: '2025-01-20'
+notes: 'O valor e a lista dos seis imóveis já constavam do acervo pela decisão de prisão (ver
+  ev-pet15771-mensagens-vorcaro-phc-imoveis); a novidade é a estrutura. As assembleias que aumentaram o capital das
+  empresas das duas unidades de Brasília são de 20/01/2025, dez dias depois de Paulo Henrique Costa dizer às
+  incorporadoras que a holding estava pronta (ver
+  ev-pf-paulo-henrique-costa-negociou-imoveis-por-holding-para-nao-ficar-em-seu-nome). Segundo a PF, Daniel Moreira
+  Bezerra, que constituiu a empresa depois transformada na Tirreno, assina como secretário as atas de Lenore e Stanza,
+  e os dois sócios originais das seis empresas, registrantes de uma centena de sociedades, foram também fundadores da
+  empresa que se tornou a Super Empreendimentos e Participações, ligada a Vorcaro e a Fabiano Zettel. O diretor,
+  médico, e o representante da REAG nas atas não são nomeados aqui por não haver acusação formal contra eles. Para a PF,
+  fundos do grupo foram usados para disfarçar como operação entre investidores o que seria vantagem indevida. Hipótese
+  investigativa, sem denúncia.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

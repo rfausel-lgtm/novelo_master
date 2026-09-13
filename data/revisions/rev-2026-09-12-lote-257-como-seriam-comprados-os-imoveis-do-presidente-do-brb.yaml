@@ -1,0 +1,36 @@
+id: rev-2026-09-12-lote-257-como-seriam-comprados-os-imoveis-do-presidente-do-brb
+kind: revision
+date: '2026-09-12'
+title: 'Lote 257 — como seriam comprados os imóveis do presidente do BRB: seis empresas de prateleira e um fundo da REAG'
+summary: 'O acervo já sabia, pela decisão que prendeu Paulo Henrique Costa, que a PF lhe atribui R$ 146,6 milhões em
+  seis imóveis como contrapartida ao Master. Um relatório de análise juntado ao INQ 5.026 mostra a engrenagem: seis
+  sociedades anônimas de prateleira, com capital aumentado no valor de cada imóvel entre janeiro e março de 2025, todas
+  controladas por um fundo de participações gerido pela REAG e dirigidas, segundo a PF, pelo cunhado do advogado Daniel
+  Lopes Monteiro. Dois dos imóveis são os apartamentos de Brasília que o próprio Paulo Henrique negociava por uma
+  holding "para que não seja direto em meu nome" — o que corrige a ressalva do lote anterior.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'ev-pf-paulo-henrique-costa-negociou-imoveis-por-holding-para-nao-ficar-em-seu-nome: a ressalva de que não se podia
+  afirmar que fossem os mesmos imóveis foi substituída pela identificação feita na IPJ-A nº 1270942/2026.'
+- 'daniel-moreira-bezerra: registrado que ele assina como secretário atas de duas das empresas usadas na compra.'
+author: orquestrador
+affected_ids:
+- paulo-henrique-costa
+- daniel-lopes-monteiro
+- daniel-moreira-bezerra
+- reag-investimentos
+- daniel-vorcaro
+reason: Continuação da leitura do bloco de 12/05/2026 do INQ 5.026 via peticionamento.stf.jus.br (sessão autenticada
+  pelo próprio Rafael). Endereços, matrículas e unidades dos imóveis, CPFs e nomes de particulares que figuram só como
+  sócios formais, diretor ou representante das empresas não são reproduzidos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
