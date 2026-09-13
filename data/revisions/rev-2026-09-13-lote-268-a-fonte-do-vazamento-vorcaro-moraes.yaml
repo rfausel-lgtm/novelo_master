@@ -1,0 +1,50 @@
+id: rev-2026-09-13-lote-268-a-fonte-do-vazamento-vorcaro-moraes
+kind: revision
+date: '2026-09-13'
+published_at: '2026-09-13T11:01:43-03:00'
+title: 'Lote 268 — a fonte do vazamento: um perito da PF, dois arquivos, e Malu Gaspar'
+summary: 'Fechando o mapeamento dos 17 processos que a PGR listou como excluídos do levantamento de sigilo (lote
+  265), a Pet 15.625 — o inquérito aberto em 06/03/2026 a pedido da própria defesa de Vorcaro para apurar
+  vazamentos de seu celular — resolve um fio que o acervo mantinha em aberto desde os lotes 168/169: quem vazou
+  o quê, e para quem. A PF identifica o Perito Criminal Federal João Cláudio Nabas, que tinha acesso ao laudo de
+  extração do celular de Vorcaro, como autor de dois arquivos criados em 04/12/2025 — "Moraes.pdf" (sobre o
+  contrato entre a advogada Viviane Barci de Moraes e o Master) e "Toffoli e esposa.pdf" —, repassados no dia
+  seguinte à delegada que presidia a investigação, com o incentivo para que ela procurasse a jornalista Malu
+  Gaspar, de quem ele disse ser fonte havia anos. A reportagem de O Globo de 09/12/2025 trouxe conteúdo
+  coincidente com o "Moraes.pdf". O mesmo arquivo foi apagado do OneDrive institucional horas antes de uma
+  reportagem de março de 2026 sobre as conversas Vorcaro-Moraes — o episódio que deflagrou toda a crise
+  institucional do STF —, o que a PF trata como reforço indiciário, não como prova, de uma mesma fonte por trás
+  dos dois vazamentos. Mendonça, com aval da PGR, suspendeu Nabas da função, autorizou busca e apreensão e
+  afastou o sigilo telemático de sua conta.'
+added:
+  people: 1
+  organizations: 0
+  events: 1
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 3
+updated_relationships: 0
+corrections:
+- 'evt-2026-03-06-mendonca-inquerito-vazamento: acrescentado o desfecho parcial — o suspeito identificado é o
+  perito João Cláudio Nabas.'
+- 'malu-gaspar: acrescentado que, além de alvo de devassa, ela também teria recebido material vazado por um
+  perito da PF.'
+- 'dias-toffoli: registrada a criação do arquivo "Toffoli e esposa.pdf" pelo mesmo suspeito, sem confirmação de
+  conteúdo ou publicação.'
+- 'alexandre-de-moraes: registrada a hipótese investigativa (não provada) de que a mesma fonte vazou tanto o
+  contrato de Viviane Barci de Moraes quanto as conversas dele com Vorcaro.'
+author: orquestrador
+affected_ids:
+- joao-claudio-nabas
+- andre-mendonca
+- malu-gaspar
+- daniel-vorcaro
+- viviane-barci-de-moraes
+- alexandre-de-moraes
+- dias-toffoli
+reason: Continuação e fechamento do mapeamento dos 17 processos listados pela PGR na Pet 16.704 (lote 265);
+  minerado via peticionamento.stf.jus.br (sessão do Rafael).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

@@ -23,6 +23,11 @@ open_questions:
   da busca de 26/05. A petição da PF pediu explicitamente que o caso não fosse avocado de imediato ao STF,
   para preservar a Operação Barco de Papel em curso no Rio, e observou que, se o núcleo da apuração recair só
   sobre o governador, a competência originária passa a ser do STJ (art. 105, I, "a", CF).'
+- 'NOVO (13/09/2026): a operação de 25/05/2026 foi maior do que a busca já registrada — pelo menos 10
+  mandados de busca e apreensão na Pet 15.676, mais 3 ofícios na Pet 15.686 (origem RJ), que nomeia um segundo
+  alvo, Tharcio Nascimento Salgado. Em 11/08/2026, Mendonça indeferiu pedido de Ricardo Siqueira Rodrigues na
+  Pet 15.676, mantendo as investigações contra ele em curso. O teor de ambas as decisões sigilosas não foi
+  lido — apenas certidões e o dispositivo público do indeferimento.'
 - A posição pública de Cláudio Castro sobre a operação não foi localizada em fonte verificada do corpus.
 - 'Assinou, em 27/05/2021, o decreto que acrescentou ao rol de consignatárias fluminenses a categoria
   residual ''outras entidades consignatárias devidamente autorizadas pelo Estado'' — cláusula em branco
@@ -35,6 +40,7 @@ open_questions:
   de secretário e origina-se do Processo SEI-150001/006360/2021, cuja obtenção mostraria quem propôs o
   inciso VIII e como se justificou o limite de 20%.'
 source_ids:
+- src-stf-portal-pet15676-15686-andamentos-2026-09-13
 - src-stf-pet15497-representacao-pf-e-despacho-claudio-castro
 - src-stf-2026-05-26-oitava-fase-castro
 - src-sefazrj-decreto-45563-2016-consignacoes

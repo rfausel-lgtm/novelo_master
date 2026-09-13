@@ -1,0 +1,21 @@
+id: ev-operacao-contra-castro-teve-mais-mandados-e-um-segundo-alvo
+kind: evidence
+classification: D
+proposition: 'A decisão de 25/05/2026 que autorizou medidas contra Cláudio Castro gerou pelo menos 10 mandados
+  de busca e apreensão registrados na Pet 15.676 (origem DF), além de 3 ofícios eletrônicos na Pet 15.686
+  (origem RJ, mesma data) — mais ampla do que a busca "na casa do ex-governador" divulgada pela imprensa em
+  26/05/2026. A Pet 15.686 nomeia um segundo alvo, Tharcio Nascimento Salgado.'
+document_ids:
+- doc-2026-05-25-certidoes-mandados-castro-e-segundo-alvo
+source_ids:
+- src-stf-portal-pet15676-15686-andamentos-2026-09-13
+excerpt: Certifico a elaboração de 10 mandados de busca e apreensão e 1 ofício eletrônico. Decisão de 25.5.2026.
+attributed_to: Certidões do STF nas PETs 15.676 e 15.686
+date: '2026-05-25'
+notes: O teor da decisão sigilosa de 25/05/2026 não foi lido — apenas a certidão pública de quantidade de
+  mandados e a autuação da Pet 15.686 com o segundo requerido.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

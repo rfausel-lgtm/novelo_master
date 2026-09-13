@@ -1,0 +1,19 @@
+id: ev-mendonca-indefere-pedido-de-ricardo-siqueira-no-caso-castro
+kind: evidence
+classification: D
+proposition: Em 11/08/2026, André Mendonça indeferiu pedido formulado por Ricardo Siqueira Rodrigues na Pet
+  15.676 (caso Cláudio Castro), determinando o prosseguimento das investigações contra ele.
+document_ids:
+- doc-2026-08-11-despacho-indefere-pedido-ricardo-siqueira-caso-castro
+source_ids:
+- src-stf-portal-pet15676-15686-andamentos-2026-09-13
+excerpt: INDEFIRO o pedido em favor de RICARDO SIQUEIRA RODRIGUES, prosseguindo-se as investigações
+attributed_to: Ministro André Mendonça, em decisão de 11/08/2026
+date: '2026-08-11'
+notes: O teor do pedido de Ricardo Siqueira Rodrigues não foi lido — apenas o dispositivo, público, que o
+  indefere.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

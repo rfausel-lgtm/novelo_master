@@ -1,0 +1,24 @@
+id: ev-arquivo-moraes-pdf-excluido-antes-de-reportagem-de-marco
+kind: evidence
+classification: D
+proposition: 'Auditorias da Polícia Federal indicaram a exclusão definitiva do arquivo "Moraes.pdf" do
+  armazenamento em nuvem institucional (OneDrive) vinculado ao usuário de João Cláudio Nabas poucas horas antes
+  da publicação de uma reportagem de março de 2026 sobre supostas conversas entre Daniel Vorcaro e o ministro
+  Alexandre de Moraes — reportagens que, segundo a PF, têm "semelhança relevante" com o conteúdo do mesmo
+  arquivo, inclusive na forma de extração e organização das evidências digitais.'
+document_ids:
+- doc-2026-05-decisao-mendonca-nabas-vazamento
+source_ids:
+- src-stf-pet15625-representacao-e-decisao-joao-claudio-nabas
+excerpt: a exclusão definitiva do arquivo "Moraes.pdf" do sistema de armazenamento em nuvem vinculado ao
+  usuário institucional de JOÃO NABAS poucas horas antes da publicação de uma das reportagens de março de 2026
+attributed_to: Polícia Federal, em representação de 08/05/2026 (Pet 15.625)
+date: '2026-03-01'
+notes: A própria PF trata a ligação entre o arquivo de dezembro/2025 e as reportagens de março/2026 sobre
+  Moraes como reforço indiciário, não como fato provado — fica registrado como hipótese investigativa robusta,
+  não como conclusão definitiva.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

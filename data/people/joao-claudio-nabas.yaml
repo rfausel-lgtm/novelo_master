@@ -1,0 +1,37 @@
+id: joao-claudio-nabas
+kind: person
+name: João Cláudio Nabas
+category: other
+role: Perito Criminal Federal
+summary: 'Perito Criminal Federal que atuava em apoio às análises da Operação Compliance Zero, com acesso ao
+  Laudo Pericial nº 4281/2025 (extração do celular de Daniel Vorcaro). Segundo representação da Polícia Federal
+  na Pet 15.625, acessou o laudo em 01/12/2025, criou em 04/12/2025 os arquivos "Moraes.pdf" (prints de
+  conversas entre Vorcaro e a advogada Viviane Barci de Moraes, e trechos do contrato dela com o Banco Master) e
+  "Toffoli e esposa.pdf", e em 05/12/2025 enviou os arquivos à delegada Janaína Palazzo, incentivando-a a
+  conversar com a jornalista Malu Gaspar, de quem disse ser fonte "há anos". Em 09/12/2025 O Globo publicou
+  reportagem com conteúdo coincidente com o "Moraes.pdf". Auditorias da PF (SISCRIM, SARD) confirmam os acessos;
+  o arquivo foi excluído do OneDrive institucional horas antes de uma reportagem de março de 2026 sobre
+  conversas entre Vorcaro e o ministro Alexandre de Moraes. Em 18/05/2026, Mendonça, com anuência da PGR,
+  suspendeu-o da função, autorizou busca e apreensão e afastou o sigilo telemático de sua conta.'
+why_in_novelo: É o suspeito formalmente identificado pela PF e pelo STF como fonte do vazamento à imprensa de
+  material sigiloso do celular de Daniel Vorcaro, incluindo o material que deu origem à cobertura sobre o
+  contrato de Viviane Barci de Moraes com o Master e, possivelmente, às conversas entre Vorcaro e o ministro
+  Alexandre de Moraes.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele localizada no corpus até a data desta apuração.
+open_questions:
+- 'A ligação entre o "Moraes.pdf" (confirmado pela PF como fonte provável da reportagem de 09/12/2025) e as
+  reportagens de março de 2026 sobre as conversas Vorcaro-Moraes é apontada pela PF como hipótese reforçada
+  pela coincidência temporal da exclusão do arquivo, mas não como fato definitivamente estabelecido.'
+- Não há, até esta coleta, notícia de desfecho do inquérito (denúncia, arquivamento ou acordo) nem confirmação
+  de que a busca e apreensão de 18/05/2026 tenha sido efetivamente cumprida.
+- O conteúdo e o destino do arquivo "Toffoli e esposa.pdf" não são detalhados na decisão lida — apenas sua
+  criação, ao lado do "Moraes.pdf", no mesmo dia.
+source_ids:
+- src-stf-pet15625-representacao-e-decisao-joao-claudio-nabas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -1,0 +1,25 @@
+id: tharcio-nascimento-salgado
+kind: person
+name: Tharcio Nascimento Salgado
+category: other
+role: Requerido na Pet 15.686, ligada à investigação sobre Cláudio Castro
+summary: Nomeado como requerido, ao lado de Cláudio Castro, na Pet 15.686 (origem Rio de Janeiro), parte da
+  mesma operação de 25/05/2026 contra o então governador do Rio de Janeiro no âmbito do INQ 5.026.
+why_in_novelo: É o segundo alvo, ao lado de Cláudio Castro, de medidas na Pet 15.686 — origem Rio de Janeiro —
+  ligada à investigação sobre os aportes da RioPrevidência no Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele localizada no corpus até a data desta apuração.
+open_questions:
+- Seu papel específico na investigação não foi identificado — os andamentos públicos da Pet 15.686 não
+  detalham o teor da decisão de 25/05/2026 (sigilosa), apenas a existência dos ofícios expedidos.
+isolation_reason: Nomeado como requerido ao lado de Cláudio Castro na Pet 15.686, mas sem que o conteúdo
+  sigiloso da decisão (não lido) estabeleça a natureza do vínculo entre os dois; por isso, nenhuma relação
+  foi registrada até que essa peça seja lida.
+source_ids:
+- src-stf-portal-pet15676-15686-andamentos-2026-09-13
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

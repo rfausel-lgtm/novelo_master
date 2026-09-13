@@ -25,6 +25,11 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
+- 'NOVO (13/09/2026): além de alvo de devassa, foi também destinatária de vazamento de material sigiloso do
+  celular de Vorcaro. Segundo a PF (Pet 15.625), o Perito Criminal Federal João Cláudio Nabas lhe teria
+  repassado, por meio da delegada que presidia a investigação, informações sobre o contrato entre a advogada
+  Viviane Barci de Moraes e o Master — publicadas por O Globo em 09/12/2025 — dizendo ser fonte dela "há anos".
+  Não há manifestação pública dela sobre esse episódio específico no corpus.'
 - Ela é uma das quatro pessoas que constam nominalmente da decisão como alvos de monitoramento, mas apuração
   jornalística indica que o número total de alvos pode passar de vinte — os demais não foram identificados
   publicamente.
@@ -34,6 +39,7 @@ open_questions:
   Consuelo Dieguez, da revista piauí, que recusou, e com o consultor Renato Breia, da Nord Investimentos,
   que removeu publicação em que recomendava não investir no CDB do Master — único dos três a ceder.'
 source_ids:
+- src-stf-pet15625-representacao-e-decisao-joao-claudio-nabas
 - src-poder360-2026-07-09-integra-decisao-thiago-miranda
 - src-cnnbrasil-2026-vorcaro-devassa-malu-gaspar
 - src-gazetadopovo-2026-vorcaro-ordenou-devassa-jornalista-o-globo
@@ -45,7 +51,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-13'
 photo:
   path: /fotos/malu-gaspar.jpg
   source: Wikimedia Commons

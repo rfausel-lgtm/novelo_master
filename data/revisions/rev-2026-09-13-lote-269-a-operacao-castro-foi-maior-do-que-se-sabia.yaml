@@ -1,0 +1,41 @@
+id: rev-2026-09-13-lote-269-a-operacao-castro-foi-maior-do-que-se-sabia
+kind: revision
+date: '2026-09-13'
+published_at: '2026-09-13T11:38:07-03:00'
+title: 'Lote 269 — a operação contra Cláudio Castro foi maior do que se sabia'
+summary: 'Sem acesso ao peticionamento sigiloso (sessão do Rafael expirou), a varredura seguiu pelo portal
+  público do STF nos processos restantes da lista da PGR. A decisão de 25/05/2026 contra Cláudio Castro gerou
+  pelo menos 10 mandados de busca e apreensão (Pet 15.676) e mais 3 ofícios em processo companheiro de origem
+  fluminense (Pet 15.686) que nomeia um segundo alvo, Tharcio Nascimento Salgado — mais ampla do que a busca
+  "na casa do ex-governador" noticiada pela imprensa. Em 11/08/2026, Mendonça indeferiu pedido do operador
+  Ricardo Siqueira Rodrigues (identificado no lote 266) no mesmo processo, mantendo as investigações contra ele.
+  Os processos ligados a Jaques Wagner (16.201, 16.210) e Augusto Ferreira Lima (16.229, 16.230) mostraram-se
+  a mesma 9ª fase já documentada no acervo (fonte primária já lida em sessão anterior); as Pets 15.771/15.772/
+  15.773 (Daniel Lopes Monteiro, Thaísa Menzato, Paulo Henrique Costa) confirmaram-se como desdobramentos de
+  custódia de uma operação conjunta de 15/04/2026, de baixo valor investigativo adicional sem leitura do
+  conteúdo sigiloso.'
+added:
+  people: 1
+  organizations: 0
+  events: 0
+  documents: 2
+  relationships: 0
+  sources: 1
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'claudio-castro: a operação de 25/05/2026 tinha, na verdade, ao menos 10 mandados de busca e apreensão e um
+  segundo alvo (Tharcio Nascimento Salgado), não só a busca na residência já noticiada.'
+- 'ricardo-siqueira-rodrigues: acrescentado o indeferimento de pedido dele por Mendonça em 11/08/2026.'
+author: orquestrador
+affected_ids:
+- claudio-castro
+- ricardo-siqueira-rodrigues
+- tharcio-nascimento-salgado
+- andre-mendonca
+reason: Continuação da varredura dos 17 processos listados pela PGR (lote 265), agora só pelo portal público
+  do STF (portal.stf.jus.br), já que a sessão autenticada do peticionamento expirou e o Rafael está no celular
+  sem condição de logar novamente.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

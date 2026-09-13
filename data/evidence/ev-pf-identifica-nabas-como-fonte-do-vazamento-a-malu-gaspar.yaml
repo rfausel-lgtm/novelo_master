@@ -1,0 +1,31 @@
+id: ev-pf-identifica-nabas-como-fonte-do-vazamento-a-malu-gaspar
+kind: evidence
+classification: D
+proposition: 'A Polícia Federal apurou, com base em auditorias dos sistemas SISCRIM e SARD e em depoimentos dos
+  delegados Janaína Palazzo, Marcelo Botelho e Dennis Cali, que o Perito Criminal Federal João Cláudio Nabas
+  acessou o Laudo Pericial nº 4281/2025 (celular de Daniel Vorcaro) em 01/12/2025, criou em 04/12/2025 os
+  arquivos "Moraes.pdf" e "Toffoli e esposa.pdf", e em 05/12/2025 encaminhou-os à delegada Janaína Palazzo,
+  incentivando-a a conversar com a jornalista Malu Gaspar, de quem disse ser fonte havia anos. Em 09/12/2025, O
+  Globo publicou reportagem cujo conteúdo, segundo a PF, corresponde diretamente ao material do arquivo
+  "Moraes.pdf" (prints de conversas entre Vorcaro e a advogada Viviane Barci de Moraes, e trechos do contrato
+  dela com o Banco Master). A defesa de Vorcaro e a PGR só tiveram acesso ao material em março e janeiro de
+  2026, respectivamente — depois da publicação —, o que reforça a hipótese de que o vazamento partiu de quem já
+  tinha acesso funcional ao acervo.'
+document_ids:
+- doc-2026-05-decisao-mendonca-nabas-vazamento
+source_ids:
+- src-stf-pet15625-representacao-e-decisao-joao-claudio-nabas
+excerpt: entre 4/12/2025 e 9/12/2025, por meio de ambiente virtual, JOÃO CLÁUDIO NABAS, na condição de Perito
+  Criminal Federal, teria revelado à jornalista Malu Gaspar informações sigilosas relativas ao valor e a
+  trechos do contrato de prestação de serviços advocatícios firmado entre VIVIANE BARCI DE MORAES e o Banco
+  Master
+attributed_to: Polícia Federal, em representação de 08/05/2026, acolhida por decisão de André Mendonça em
+  18/05/2026
+date: '2025-12-09'
+notes: Resolve, com fonte primária, um fio que o acervo mantinha em aberto desde os lotes 168/169 sobre a
+  origem do vazamento de material do celular de Vorcaro que antecedeu a crise institucional Moraes-Mendonça.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

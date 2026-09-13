@@ -9,10 +9,13 @@ participant_ids:
 - supremo-tribunal-federal
 - daniel-vorcaro
 - cpmi-do-inss
-description: Na PET 15612, a pedido da defesa de Vorcaro, o relator determinou a abertura de inquérito
+description: 'Na PET 15612, a pedido da defesa de Vorcaro, o relator determinou a abertura de inquérito
   para apurar o vazamento de mensagens extraídas dos celulares do banqueiro, ressalvando o sigilo da fonte
   jornalística. Registrou que em 20/02/2026 determinara a devolução à CPMI do INSS dos dados obtidos por
   quebras decretadas pela própria comissão e que as investigações são autônomas.
+
+  DESFECHO PARCIAL (18/05/2026, ver evt-2026-05-18-mendonca-suspende-perito-suspeito-de-vazar-material-vorcaro):
+  o inquérito, autuado como Pet 15.625, identificou como suspeito o Perito Criminal Federal João Cláudio Nabas.'
 evidence_class: D
 status: verified
 evidence_ids:

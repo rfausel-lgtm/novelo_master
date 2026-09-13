@@ -1,0 +1,24 @@
+id: doc-2026-05-25-certidoes-mandados-castro-e-segundo-alvo
+kind: document
+title: Certidões de expedição de mandados nas PETs 15.676 e 15.686 (operação Cláudio Castro)
+doc_type: judicial_decision
+date: '2026-05-25'
+date_precision: day
+source_ids:
+- src-stf-portal-pet15676-15686-andamentos-2026-09-13
+summary: Certidões registram a elaboração de 10 mandados de busca e apreensão e 1 ofício eletrônico na Pet
+  15.676, e de 3 ofícios eletrônicos na Pet 15.686 (que nomeia Tharcio Nascimento Salgado como segundo
+  requerido), em cumprimento a decisões de 25/05/2026 no caso Cláudio Castro.
+is_official: true
+related_entity_ids:
+- claudio-castro
+- tharcio-nascimento-salgado
+- andre-mendonca
+issuer_id: supremo-tribunal-federal
+issuer: Supremo Tribunal Federal (Gerência de Processos Originários Criminais)
+reference: PET 15.676/DF e PET 15.686/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
