@@ -1,0 +1,31 @@
+id: evt-2026-09-02-reuniao-moraes-alcolumbre-antes-da-ofensiva
+kind: event
+title: Moraes e Alcolumbre se reúnem por três horas na véspera da ofensiva contra Mendonça
+event_type: meeting
+date: '2026-09-02'
+date_precision: day
+location: Residência de Davi Alcolumbre, Lago Sul, Brasília (DF)
+participant_ids:
+- alexandre-de-moraes
+- davi-alcolumbre
+description: Alexandre de Moraes e Davi Alcolumbre se reuniram reservadamente por cerca de três horas na
+  residência do senador, no Lago Sul, em 02/09/2026 — véspera do dia em que Moraes protocolou sua ofensiva
+  formal contra André Mendonça (a decisão de 03/09/2026 que aponta "assimetria" e cita Alcolumbre como um
+  dos alvos do suposto direcionamento de Mendonça). Segundo a imprensa, foram discutidos "os desdobramentos
+  da crise judicial e os possíveis cenários no Congresso"; horas depois do encontro, Alcolumbre saiu em
+  defesa pública de Moraes. Nenhuma fonte detalha o teor exato da conversa.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-reuniao-reservada-precede-ofensiva-e-defesa-publica
+source_ids:
+- src-rumonews-2026-09-reuniao-moraes-alcolumbre-3-horas
+- src-terrabrasilnoticias-2026-09-reuniao-moraes-alcolumbre
+document_ids: []
+public_act_ids: []
+cited_position: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

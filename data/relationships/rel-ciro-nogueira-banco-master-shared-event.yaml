@@ -1,0 +1,27 @@
+id: rel-ciro-nogueira-banco-master-shared-event
+kind: relationship
+from_id: ciro-nogueira
+to_id: banco-master
+relationship_type: shared_event
+directed: false
+label: presente no fórum de Londres patrocinado pelo banco
+start_date: '2024-04-24'
+description: Ciro Nogueira é identificado pela imprensa entre os presentes do 1º Fórum Jurídico Brasil de
+  Ideias (Londres, 24-26/04/2024), evento patrocinado pelo Banco Master — quatro meses antes de apresentar
+  a Emenda 11 à PEC 65/2023, já registrada no corpus como a "Emenda Master".
+evidence_class: C
+confidence: 0.5
+status: unverified
+event_ids:
+- evt-2024-04-24-forum-de-londres-e-degustacao
+evidence_ids:
+- ev-alcolumbre-e-ciro-nogueira-no-forum-de-londres
+source_ids:
+- src-otempo-2026-02-evento-londres-alcolumbre-participantes
+- src-jornaldebrasilia-2026-empresas-acoes-stf-evento-londres
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

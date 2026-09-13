@@ -63,6 +63,9 @@ open_questions:
   diferido, a ser exercido apenas em eventual ação penal.
 - A alegação de que teria sido tesoureiro da campanha de Alcolumbre em 2022 circula na imprensa sem que
   nenhum veículo cite o documento; a equipe não conseguiu confirmá-la em fonte primária do TSE.
+- 'Achado em 13/09/2026: seu papel de ex-presidente da Amprev e ex-tesoureiro de campanha de Alcolumbre
+  foi citado nominalmente pelo senador Eduardo Girão, em 24/08/2026, como um dos vínculos que fundamentariam
+  suposto conflito de interesses de Alcolumbre ao bloquear a CPI do Master no Senado.'
 source_ids:
 - src-amprev-2025-11-19-nota-master
 - src-poder360-2026-02-10-amprev-zona-cinzenta
@@ -77,9 +80,10 @@ source_ids:
 - src-amprev-ata-9a-ordinaria-cep-2025-09-17
 - src-amprev-2026-02-11-comunicado-exoneracao
 - src-tjap-autos-6102005-63-2025
+- src-poder360-2026-08-girao-alcolumbre-barra-cpi-amprev
 full_name: Jocildo Silva Lemos
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-13'
 created_at: '2026-09-03'
-updated_at: '2026-09-05'
+updated_at: '2026-09-13'

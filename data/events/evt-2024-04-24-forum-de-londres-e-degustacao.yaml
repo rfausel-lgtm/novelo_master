@@ -9,6 +9,8 @@ participant_ids:
 - andrei-rodrigues
 - banco-master
 - fabio-faria
+- davi-alcolumbre
+- ciro-nogueira
 description: 'O 1º Fórum Jurídico Brasil de Ideias, organizado pelo Grupo Voto e patrocinado pelo Banco
   Master, reuniu em Londres, de 24 a 26 de abril de 2024, ministros do STF e do STJ, o procurador-geral
   da República, o então ministro da Justiça e o diretor-geral da PF. Em 25/04, houve degustação de uísque
@@ -17,22 +19,30 @@ description: 'O 1º Fórum Jurídico Brasil de Ideias, organizado pelo Grupo Vot
   da PF sobre o celular de Vorcaro transcreve a trilha do convite ao diretor-geral, incluindo a pergunta
   atribuída a sua assistente sobre quem cobriria hospedagem e passagem, e a resposta do lado do organizador:
   ''todas as despesas bancadas por nós''. A PF confirmou, por Lei de Acesso à Informação, que o organizador
-  custeou diretamente as despesas extraordinárias.'
+  custeou diretamente as despesas extraordinárias. Reportagens de fevereiro de 2026 (O Tempo, Jornal de
+  Brasília) identificam entre os presentes/debatedores, além dos já registrados, os ministros Dias Toffoli
+  e Gilmar Mendes, o ex-ministro Ricardo Lewandowski, o então advogado-geral da União Jorge Messias, o
+  ex-presidente Michel Temer, e os senadores Davi Alcolumbre (União Brasil-AP) e Ciro Nogueira (PP-PI) —
+  hoje, respectivamente, presidente do Senado e alvo de fase própria da Compliance Zero (Pet 15.873), já
+  registrada no corpus por outra via.'
 evidence_class: C
 status: verified
 evidence_ids:
 - ev-viagem-a-londres-custeada-e-degustacao
 - ev-trilha-do-convite-a-londres-no-relatorio-da-pf
+- ev-alcolumbre-e-ciro-nogueira-no-forum-de-londres
 source_ids:
 - src-poder360-2026-04-08-master-bancou-viagem-londres
 - src-poder360-2026-degustacao-macallan-londres
 - src-pf-relatorio-ipj-3298613-2026-integra
+- src-otempo-2026-02-evento-londres-alcolumbre-participantes
+- src-jornaldebrasilia-2026-empresas-acoes-stf-evento-londres
 document_ids:
 - doc-2026-08-27-relatorio-pf-celular-vorcaro
 public_act_ids: []
 location: Londres, Reino Unido
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-13'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-13'

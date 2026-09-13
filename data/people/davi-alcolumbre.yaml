@@ -77,7 +77,29 @@ open_questions:
   STF no governo Bolsonaro. A reportagem que reproduz o trecho frisa que a PF trabalha com hipótese de
   inteligência, não com fato comprovado; não há, até esta coleta, investigação aberta, cautelar ou oitiva
   contra Rueda ou Alcolumbre que qualquer autoridade atribua a esse motivo específico.'
+- 'Achado em 13/09/2026: Alcolumbre e Rueda são, na verdade, RIVAIS pelo comando estratégico do União
+  Brasil para 2026 — Alcolumbre busca estreitar laços com o governo Lula, Rueda defende (com ACM Neto)
+  postura mais distante e crítica. A rivalidade não confirma nem afasta a hipótese da PF sobre Mendonça
+  usar Rueda como via de acesso a Alcolumbre; apenas mostra que os dois não formam bloco único dentro do
+  próprio partido, o que pode tanto tornar mais plausível quanto mais improvável um "acesso" via Rueda,
+  a depender de qual hipótese política se adote — o corpus não resolve essa ambiguidade.'
 - O corpus não registra se e quando o requerimento da CPMI do Master foi lido.
+- 'Achado em 13/09/2026: reportagens de fevereiro de 2026 (O Tempo, Jornal de Brasília) o identificam,
+  ao lado de Ciro Nogueira, entre os presentes do 1º Fórum Jurídico Brasil de Ideias (Londres, 24-26/04/2024),
+  evento patrocinado pelo Banco Master que reuniu também ministros do STF, o procurador-geral da República
+  e o diretor-geral da PF — a primeira ligação pessoal direta (não por parentes ou aliados) entre ele e um
+  evento custeado pelo banco. Sem indicação de presença na degustação de Macallan mais restrita, do dia
+  seguinte, custeada por Vorcaro.'
+- 'Achado em 13/09/2026: em 02/09/2026, véspera da decisão de Moraes contra Mendonça (que o cita nominalmente
+  como alvo de suposto direcionamento), Alcolumbre recebeu Moraes por cerca de três horas em sua residência
+  no Lago Sul; horas depois, saiu em defesa pública dele. Nenhuma fonte relata o conteúdo da conversa nem
+  estabelece que a decisão tenha sido combinada ali.'
+- 'Achado em 13/09/2026: em 24/08/2026, o senador Eduardo Girão acusou publicamente Alcolumbre de bloquear
+  a CPI do Master por "conflito de interesses", citando nominalmente o irmão dele no conselho fiscal da
+  Amprev e seu ex-tesoureiro de campanha à frente da autarquia, e afirmando ter reunido 53 assinaturas.
+  A assessoria de Alcolumbre disse apenas que não comentaria o assunto, sem contestar os fatos citados.
+  Não reconciliado com o episódio de 21/05/2026, em que Alcolumbre justificou por critério regimental a
+  não leitura de requerimento de CPMI.'
 - O senador não é investigado na operação Zona Cinzenta, segundo a CNN; o corpus não contém documento
   que corrobore o relato da Veja.
 - Não há documento oficial que registre indicação, ofício ou correspondência dele relativa à nomeação
@@ -111,6 +133,12 @@ source_ids:
 - src-poder360-2026-09-relatorio-pf-alvo-estrategico-alcolumbre
 - src-gazetadopovo-2026-02-pf-mp-irmao-aliado-alcolumbre-alerta-ignorado
 - src-otempo-2026-02-fundo-irmao-aliado-alcolumbre-alerta-master
+- src-poder360-2026-08-girao-alcolumbre-barra-cpi-amprev
+- src-otempo-2026-02-evento-londres-alcolumbre-participantes
+- src-jornaldebrasilia-2026-empresas-acoes-stf-evento-londres
+- src-rumonews-2026-09-reuniao-moraes-alcolumbre-3-horas
+- src-terrabrasilnoticias-2026-09-reuniao-moraes-alcolumbre
+- src-novojornal-2026-alcolumbre-rueda-disputa-uniao-brasil
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Davi_Alcolumbre
 review_status: published

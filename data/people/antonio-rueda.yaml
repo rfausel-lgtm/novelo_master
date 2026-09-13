@@ -8,12 +8,24 @@ positions:
   organization_id: uniao-brasil
   source_ids:
   - src-poder360-2026-04-08-receita-pagamentos-master
-summary: Presidente do União Brasil. Segundo registros da Receita Federal enviados à CPI do Crime Organizado, conforme
-  o Poder360, dois escritórios ligados a Rueda receberam R$ 6,4 milhões do Banco Master desde 2023. Sua assessoria
-  não confirmou as informações, disse que os dados foram 'vazados de forma ilícita' e que os serviços são legais
-  e regularmente contratados. Em 10/09/2026, o UOL revelou que a mesma proposta atribui a ele, com ACM Neto, a intermediação
-  dos mesmos aportes institucionais mediante comissão de 10%, com pagamentos possivelmente somando R$ 3 milhões
-  mensais via o escritório Rueda & Rueda Advogados. Rueda negou irregularidades.
+summary: 'Presidente do União Brasil, filho de médica e engenheiro espanhol, formado em direito tributário; aproximou-se
+  de Luciano Bivar em 1998, fundou o escritório Rueda & Rueda com a irmã em 2008 (hoje administra mais de 250 mil
+  processos), assumiu a presidência interina do PSL em 2018 e articulou, em 2021, a fusão com o DEM que criou o
+  União Brasil — hoje a maior bancada do Congresso —, aliando-se então ao ex-presidente da Câmara Arthur Lira.
+  Rompeu com Bivar em agosto de 2023, crise durante a qual imóveis dele e de sua irmã no litoral de Pernambuco
+  foram incendiados, caso apurado pelo STF (sem relação estabelecida com o caso Master). Disputa publicamente,
+  com o presidente do Senado e correligionário Davi Alcolumbre, os rumos do partido para 2026 — Alcolumbre busca
+  estreitar laços com o governo Lula, Rueda defende, com ACM Neto, postura mais distante e crítica. Segundo registros da Receita Federal enviados à CPI
+  do Crime Organizado, conforme o Poder360, dois escritórios ligados a Rueda receberam R$ 6,4 milhões do Banco Master
+  desde 2023. Sua assessoria não confirmou as informações, disse que os dados foram ''vazados de forma ilícita'' e
+  que os serviços são legais e regularmente contratados. Em 10/09/2026, o UOL revelou que a mesma proposta atribui a
+  ele, com ACM Neto, a intermediação dos mesmos aportes institucionais mediante comissão de 10%, com pagamentos
+  possivelmente somando R$ 3 milhões mensais via o escritório Rueda & Rueda Advogados. Rueda negou irregularidades.
+  Em frente distinta, a PF apura desde 17/09/2025, na Operação Carbono Oculto, se ele seria dono oculto de jatos
+  executivos e de fundos de investimento (Bariloche e Viena) ligados ao esquema de combustíveis do PCC — um piloto
+  da empresa que operava as aeronaves o identificou como financiador por trás do crescimento da frota; Rueda nega e
+  fala em acusação política. Até setembro de 2026, sem oitiva, indiciamento, denúncia ou arquivamento em nenhuma
+  das duas frentes.'
 why_in_novelo: Escritórios ligados a ele constam, segundo registros fiscais enviados a CPI e divulgados pela imprensa,
   entre os destinatários de pagamentos do Banco Master; sua posição está registrada.
 cited_position:
@@ -31,12 +43,27 @@ cited_position:
     sociais.
   source_ids:
   - src-metropoles-2026-03-19-rueda-admite
+- date: '2025-09-18'
+  by_id: antonio-rueda
+  kind: denial
+  summary: 'Sobre a suspeita de ser dono oculto de jatos e fundos ligados à Carbono Oculto: "ilações irresponsáveis
+    sem fundamento", com motivação política; disse ainda que seu nome "foi suscitado em um contexto absolutamente
+    infundado" e que tomaria "todas as medidas cabíveis para proteger sua reputação".'
+  source_ids:
+  - src-istoe-2025-09-piloto-rueda-jatinhos-pcc
+  - src-metropoles-2025-09-rueda-alvo-carbono-oculto-fundos
 open_questions:
 - 'Achado em 13/09/2026: um relatório de inteligência da PF, citado por Alexandre de Moraes contra Mendonça
   (decisão de 03/09/2026), levanta a hipótese de que Mendonça poderia ver em Rueda uma "rota de acesso"
   ao presidente do Senado, Davi Alcolumbre, tratado no mesmo documento como "provável alvo estratégico".
   É hipótese de inteligência formulada pela própria PF sobre a conduta de Mendonça, não uma imputação
   a Rueda; não há investigação, cautelar ou oitiva contra ele que qualquer autoridade vincule a esse motivo.'
+- 'Achado em 13/09/2026: a frente Carbono Oculto (jatos e fundos ocultos) é INTEIRAMENTE DISTINTA da frente
+  Master (comissão de 10% sobre RPPS) — apuradas por autoridades diferentes (PF/MP-SP vs. PF/PGR no caso
+  Master), sem relação documental estabelecida entre elas além da coincidência da mesma pessoa. A única
+  ponte estrutural encontrada é que a Trustee DTVM (de Maurício Quadrado, ex-sócio de Vorcaro) também
+  apareceu na Carbono Oculto, mas em fundos distintos (Zeus FIDC, Gran Capital FIDC-NP, FIDC DB Crédito
+  Global) dos citados para Rueda (Bariloche, Viena) — nenhum elo direto encontrado entre as duas pontas.'
 - Os registros da Receita não foram lidos pela equipe; os valores são os reportados pelo Poder360.
 - 'A nova acusação de comissão de 10% é distinta dos R$ 6,4 milhões já documentados por registros fiscais enviados
   à CPI (2022-2025): aquele valor é pagamento a escritório por serviços; este é comissão alegada sobre captação
@@ -48,6 +75,11 @@ source_ids:
 - src-revistaforum-2026-09-10-acm-neto-rueda-comissao-rpps-master
 - src-jgb-2026-09-10-delacao-vorcaro-conta-corrente-gerencial
 - src-poder360-2026-09-relatorio-pf-alvo-estrategico-alcolumbre
+- src-istoe-2025-09-piloto-rueda-jatinhos-pcc
+- src-metropoles-2025-09-rueda-alvo-carbono-oculto-fundos
+- src-ndmais-2026-quem-e-rueda-carbono-oculto-status
+- src-novojornal-2026-alcolumbre-rueda-disputa-uniao-brasil
+- src-otempo-2025-09-rueda-trajetoria-disputas-suspeitas
 full_name: Antônio de Rueda
 review_status: published
 reviewer: orquestrador
