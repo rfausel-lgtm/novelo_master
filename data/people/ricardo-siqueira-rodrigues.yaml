@@ -1,0 +1,29 @@
+id: ricardo-siqueira-rodrigues
+kind: person
+name: Ricardo Siqueira Rodrigues
+category: other
+role: Operador financeiro, apontado como intermediário de aportes de RPPS no Banco Master
+summary: 'Operador financeiro apontado pela PF e pela PGR como intermediário dos aportes da RioPrevidência
+  (RPPS do Rio de Janeiro) no Banco Master. Segundo a representação da PF na Pet 15.497 (20/02/2026), mensagens
+  suas afirmam que a liberação dos investimentos dependia de "alinhamento político", referindo-se a um "dono"
+  do órgão e a um "operador político" que "manda lá de verdade" — sem nomear expressamente quem seriam. O
+  Master teria pago a ele ao menos R$ 22,1 milhões pela intermediação (cerca de 0,6% do total aportado), e a
+  empresa Mídias Promotora recebeu R$ 126 milhões do banco entre 2022 e 2025, descrita nas peças como veículo
+  de recebimento e distribuição de comissões.'
+why_in_novelo: É apontado por PF e PGR como o operador que intermediou os aportes bilionários da
+  RioPrevidência no Banco Master, e suas mensagens são citadas como indício de interferência política sobre
+  o RPPS fluminense.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele localizada no corpus até a data desta apuração.
+open_questions:
+- Suas mensagens citam um "dono" do Rioprevidência e um "operador político" sem nomeá-los expressamente; a PF
+  não esclarece, na petição lida, a quem se refere.
+source_ids:
+- src-stf-pet15497-representacao-pf-e-despacho-claudio-castro
+- src-agendadopoder-ricardo-siqueira-lobista
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

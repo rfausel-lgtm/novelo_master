@@ -1,0 +1,41 @@
+id: rev-2026-09-13-lote-266-a-origem-do-caso-claudio-castro
+kind: revision
+date: '2026-09-13'
+title: 'Lote 266 — a origem do caso Cláudio Castro: jantares, whiskey e um "operador político" no Rioprevidência'
+summary: 'A PGR, na Pet 16.704 (lote 265), listou 17 processos excluídos do levantamento de sigilo de 10/09;
+  a PET 15.497 já era conhecida em parte — é a petição que, em 26/05/2026, levou à busca contra Cláudio Castro
+  —, mas o acervo só tinha a comunicação oficial de imprensa sobre a busca, nunca a peça de origem. Lida
+  agora por inteiro: a representação da PF de 20/02/2026 aponta que Daniel Vorcaro teria custeado jantares de
+  luxo em Nova York e um evento de "degustação de whiskey" de mais de US$ 1 milhão em favor do então
+  governador, e cita mensagens do operador financeiro Ricardo Siqueira Rodrigues sobre "alinhamento político"
+  necessário para liberar os aportes bilionários da RioPrevidência no Master — referindo-se a um "dono" do
+  órgão e a um "operador político" que "manda lá de verdade", sem nomeá-los. André Mendonça autorizou a
+  instauração do procedimento em 28/04/2026, quase um mês antes da busca já conhecida. A própria petição da
+  PF pediu que o caso não fosse avocado de imediato ao STF, para preservar a Operação Barco de Papel em curso
+  no Rio, e observou que a competência originária seria do STJ caso o núcleo da apuração recaia só sobre o
+  governador.'
+added:
+  people: 1
+  organizations: 0
+  events: 1
+  documents: 2
+  relationships: 0
+  sources: 1
+  evidence: 3
+updated_relationships: 0
+corrections:
+- 'claudio-castro: a caracterização genérica de "proximidade pessoal e atuação política" (só por comunicação
+  de imprensa) foi substituída por acusação concreta, com fonte primária — jantares, whiskey, e as mensagens
+  de Ricardo Siqueira Rodrigues.'
+author: orquestrador
+affected_ids:
+- claudio-castro
+- andre-mendonca
+- ricardo-siqueira-rodrigues
+- daniel-vorcaro
+reason: Continuação do lote 265 — ao mapear os 17 processos que a PGR listou como excluídos do levantamento de
+  sigilo, a Pet 15.497 (Cláudio Castro) se revelou já parcialmente conhecida, mas nunca lida por inteiro;
+  minerada via peticionamento.stf.jus.br (sessão do Rafael).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
