@@ -10,7 +10,10 @@
   instante, depois o critério anterior — comparando instantes, não texto, porque há horários em UTC e
   em -03:00. `npm run data:published-at -- --write` preenche o campo: pelo histórico do git nas
   revisões já commitadas, com o horário de agora nas que ainda não foram. O E2E da home passa a
-  conferir a regra (data e instante), e não mais o número do lote.
+  conferir a regra (data e instante), e não mais o número do lote; revisão ainda sem o campo conta
+  como a mais recente do dia, então lote publicado sem carimbo não põe o CI vermelho. O
+  `card-de-lote.yml`, que já roda a cada push de revisão com histórico completo, grava o
+  `published_at` que faltar e o commita junto com o card — ninguém precisa lembrar de rodar o script.
 
 - **A ilustração do Codex volta a prevalecer sobre o card** (decisão de Rafael, 12/09/2026). Na
   primeira versão o card contava como arte concluída, e com ele cobrindo 100% das revisões dois elos

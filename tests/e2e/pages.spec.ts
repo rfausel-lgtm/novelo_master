@@ -122,18 +122,26 @@ test("home lista as três últimas revisões, da mais recente para a mais antiga
    * tempo todo, e fixar um id aqui quebraria o CI a cada publicação. A regra é data editorial e,
    * dentro dela, o instante de publicação. Número de lote não serve: saneamento e auditoria não têm.
    */
-  const itens = (await page.locator("li[data-published-at]").evaluateAll((lis) =>
-    lis.map((li) => [
-      li.querySelector("time")?.getAttribute("datetime") ?? "",
-      Date.parse(li.getAttribute("data-published-at") ?? ""),
-    ]),
-  )) as [string, number][];
-  expect(itens).toHaveLength(3);
-  expect(
-    itens.every(([data, t]) => data !== "" && Number.isFinite(t)),
-    "revisão da home sem published_at: rode npm run data:published-at -- --write",
-  ).toBe(true);
-  expect(itens).toEqual([...itens].sort((a, b) => b[0].localeCompare(a[0]) || b[1] - a[1]));
+  /*
+   * Mesma regra de compararRevisoes: revisão ainda sem `published_at` conta como a mais recente do
+   * dia — acabou de sair e não foi carimbada —, então vem antes das que têm. Exigir o atributo aqui
+   * poria o CI vermelho a cada lote publicado sem o carimbo, com o site certo.
+   */
+  const itens = (await links.evaluateAll((as) =>
+    as.map((a) => {
+      const li = a.closest("li");
+      return [
+        li?.querySelector("time")?.getAttribute("datetime") ?? "",
+        li?.getAttribute("data-published-at") ?? null,
+      ];
+    }),
+  )) as [string, string | null][];
+  expect(itens.every(([data]) => data !== "")).toBe(true);
+  const instante = (p: string | null) => (p ? Date.parse(p) : Number.POSITIVE_INFINITY);
+  const ordenado = [...itens].sort(
+    (a, b) => b[0].localeCompare(a[0]) || Math.sign(instante(b[1]) - instante(a[1])) || 0,
+  );
+  expect(itens).toEqual(ordenado);
   const primeiro = await links.first().getAttribute("href");
   await links.first().click();
   await expect(page).toHaveURL(new RegExp(`${primeiro!.split("#")[1]}$`));
