@@ -12,8 +12,14 @@ name: Card de lote
 # e publicar uma depois (via `social:add`) apaga o id do manifesto `public/social/cards.json` e
 # devolve a legenda de IA àquela revisão.
 #
-# POR QUE NÃO ENTRA EM LAÇO. A gatilho é `data/revisions/**`; o commit que este workflow empurra
-# toca apenas `public/social/**`, que não casa com o caminho — a execução seguinte não nasce.
+# ELE TAMBÉM CARIMBA `published_at`. A ordem das atualizações do mesmo dia depende do instante de
+# publicação de cada revisão, e ninguém precisa lembrar de gravá-lo: com o histórico completo do
+# checkout, `npm run data:published-at -- --write` dá à revisão que chegou sem o campo o instante do
+# commit que a adicionou, e o carimbo vai no mesmo commit do card.
+#
+# POR QUE NÃO ENTRA EM LAÇO. O commit que este workflow empurra toca `data/revisions/**`, que é o
+# próprio gatilho — mas push feito com o `GITHUB_TOKEN` não dispara workflow nenhum (regra do GitHub
+# contra laço de workflows), então a execução seguinte não nasce.
 
 on:
   push:
@@ -47,16 +53,17 @@ jobs:
       # O runner não tem Chrome do sistema; o script cai para o Chromium empacotado.
       - run: npx playwright install --with-deps chromium
 
-      - name: Gerar os cards que faltam
+      - name: Gerar os cards que faltam e carimbar published_at
         id: gerar
         run: |
           set -euo pipefail
           npm run social:cards
-          if [ -z "$(git status --porcelain -- public/social)" ]; then
-            echo "nenhuma revisão sem arte"
+          npm run data:published-at -- --write
+          if [ -z "$(git status --porcelain -- public/social data/revisions)" ]; then
+            echo "nenhuma revisão sem arte nem sem published_at"
             echo "seguir=nao" >> "$GITHUB_OUTPUT"
           else
-            git status --porcelain -- public/social | sed 's/^/    /'
+            git status --porcelain -- public/social data/revisions | sed 's/^/    /'
             echo "seguir=sim" >> "$GITHUB_OUTPUT"
           fi
 
@@ -70,30 +77,34 @@ jobs:
         if: steps.gerar.outputs.seguir == 'sim'
 
       # A `main` anda o tempo todo — a pesquisa publica em rajadas —, então a corrida se resolve
-      # rebaseando e tentando de novo, e não falhando. O rebase é seguro aqui porque o commit toca
-      # só arquivos gerados: conflito de conteúdo com trabalho humano não existe nesta pasta.
+      # rebaseando e tentando de novo, e não falhando. Os cards são gerados, e o carimbo só insere uma
+      # linha depois de `date:`; o rebase só conflita se a mesma revisão for editada nos poucos minutos
+      # desta execução, e aí a falha fica visível e a próxima execução refaz o carimbo.
       - name: Entregar os cards na main
         if: steps.gerar.outputs.seguir == 'sim'
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- public/social
+          git add -- public/social data/revisions
 
           # `npm run build`, acima, reescreve public/acervo.txt e public/llms.txt, que são
           # versionados. Esse resíduo não é do card, e deixá-lo solto no worktree fazia o rebase da
           # retentativa abortar com "cannot rebase: You have unstaged changes" — ou seja, a entrega
           # falhava sempre que a `main` andava durante a execução, que é quase sempre (runs 34711387952
-          # e 34711774411). O descarte vem DEPOIS do `git add`: o índice já tem os .webp novos e o
-          # cards.json atualizado, e restaurar o worktree a partir dele preserva os dois.
+          # e 34711774411). O descarte vem DEPOIS do `git add`: o índice já tem os .webp novos, o
+          # cards.json atualizado e o carimbo das revisões, e restaurar o worktree a partir dele
+          # preserva tudo.
           git checkout -- .
 
           quantas=$(git diff --cached --name-only --diff-filter=A -- 'public/social/*.webp' | wc -l | tr -d ' ')
+          carimbadas=$(git diff --cached --name-only -- data/revisions | wc -l | tr -d ' ')
           git commit -q -F - <<COMMIT
-          feat(social): card de lote ($quantas)
+          feat(social): card de lote ($quantas), published_at ($carimbadas)
 
           Geração automática de .github/workflows/card-de-lote.yml. O card é função do
-          Revision.id: mesmo id, mesmo desenho. Passaram social:check, data:lint e build.
+          Revision.id: mesmo id, mesmo desenho; o published_at vem do commit que adicionou a
+          revisão. Passaram social:check, data:lint e build.
           COMMIT
 
           for tentativa in 1 2 3 4 5; do
