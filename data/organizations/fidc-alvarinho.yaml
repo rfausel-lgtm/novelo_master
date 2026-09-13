@@ -1,0 +1,23 @@
+id: fidc-alvarinho
+kind: organization
+name: FIDC Alvarinho
+aliases: []
+org_type: fund
+summary: Fundo de Investimento em Direitos Creditórios citado na Pet 15.198/DF (Operação Compliance Zero)
+  como o veículo que subscreveu R$ 18.268.809,43 em notas comerciais — recursos que, segundo a hipótese
+  investigativa, teriam relação com um prejuízo patrimonial de ~R$ 24 milhões apurado nas operações da
+  Bello Pactum Participações S.A., mas que, segundo os agravantes Maurício Quadrado, Luís Fernando de
+  Almeida e Flávio Daniel Aguetoni, foram integralmente usados para pagar 32 acordos trabalhistas do passivo
+  do BANIF — Banco Internacional do Funchal (Brasil) S.A.
+why_in_novelo: Veículo financeiro central na hipótese que fundamenta o bloqueio de bens de Quadrado e dos
+  dois ex-administradores da Trustee na Pet 15.198.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública própria localizada até a data desta coleta.
+source_ids:
+- src-stf-pet15198-peticao-73734-2026-agravo-regimental
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

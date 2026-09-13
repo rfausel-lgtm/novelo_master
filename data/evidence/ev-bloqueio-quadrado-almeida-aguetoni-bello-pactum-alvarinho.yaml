@@ -1,0 +1,28 @@
+id: ev-bloqueio-quadrado-almeida-aguetoni-bello-pactum-alvarinho
+kind: evidence
+classification: D
+proposition: 'Decisão monocrática de 19/05/2026 do Ministro André Mendonça, na Pet 15.198/DF, manteve o
+  bloqueio de bens e valores de Maurício Quadrado, Luís Fernando de Almeida e Flávio Daniel Aguetoni. Quanto a
+  esses três, a hipótese investigativa restringe-se a operações envolvendo a Bello Pactum Participações S.A.
+  e o FIDC Alvarinho, com prejuízo patrimonial estimado pela investigação em aproximadamente R$ 24 milhões.'
+document_ids:
+- doc-2026-06-02-agravo-regimental-quadrado-almeida-aguetoni-pet15198
+source_ids:
+- src-stf-pet15198-peticao-73734-2026-agravo-regimental
+related_entity_ids:
+- mauricio-quadrado
+- bello-pactum-participacoes
+- fidc-alvarinho
+date: '2026-05-19'
+notes: 'A caracterização da hipótese investigativa vem do próprio agravo dos investigados (que a resumem
+  para contestá-la), não do texto integral da decisão de 19/05/2026 nem de peça do MPF/PF — não foi possível,
+  nesta coleta, acessar diretamente a decisão original ou a representação que a fundamentou. Tratar como
+  descrição de segunda mão da hipótese até eventual confirmação por peça primária da acusação. Note-se a
+  proximidade de valor com o bloqueio de "R$ 24,2 milhões envolvendo Banvox, Master, Vorcaro e Quadrado"
+  já registrado em ev-toffoli-bloqueio-24-2-milhoes-banvox-master-vorcaro-quadrado (atribuído a Toffoli por
+  fonte de imprensa, sem número de processo confirmado) — pode ou não ser o mesmo bloqueio; não confirmado.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

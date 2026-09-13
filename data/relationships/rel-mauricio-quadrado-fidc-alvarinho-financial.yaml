@@ -1,0 +1,25 @@
+id: rel-mauricio-quadrado-fidc-alvarinho-financial
+kind: relationship
+from_id: mauricio-quadrado
+to_id: fidc-alvarinho
+relationship_type: financial
+directed: false
+label: notas comerciais subscritas pelo fundo
+description: 'O FIDC Alvarinho subscreveu R$ 18.268.809,43 em notas comerciais ligadas a operações de
+  Maurício Quadrado apuradas na Pet 15.198/DF; a defesa alega que o valor pagou integralmente 32 acordos
+  trabalhistas do passivo do BANIF, sem desvio.'
+evidence_class: A
+confidence: 0.5
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-defesa-quadrado-alvarinho-pagou-passivo-trabalhista-banif
+source_ids:
+- src-stf-pet15198-peticao-73734-2026-agravo-regimental
+document_ids:
+- doc-2026-06-02-agravo-regimental-quadrado-almeida-aguetoni-pet15198
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

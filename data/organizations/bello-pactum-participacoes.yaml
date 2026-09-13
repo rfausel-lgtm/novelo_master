@@ -1,0 +1,24 @@
+id: bello-pactum-participacoes
+kind: organization
+name: Bello Pactum Participações S.A.
+aliases: []
+org_type: company
+summary: 'Empresa citada como parte da operação sob investigação na Pet 15.198/DF (Operação Compliance Zero):
+  segundo a hipótese que fundamentou o bloqueio cautelar de bens de Maurício Quadrado, Luís Fernando de
+  Almeida e Flávio Daniel Aguetoni (decisão de 19/05/2026), operações envolvendo a Bello Pactum e o FIDC
+  Alvarinho teriam causado prejuízo patrimonial estimado em ~R$ 24 milhões. Os três, em agravo regimental
+  (03/06/2026), negam qualquer desvio e alegam que os R$ 18.268.809,43 captados via notas comerciais
+  subscritas pelo FIDC Alvarinho foram integralmente destinados ao pagamento de 32 acordos trabalhistas do
+  passivo do BANIF — Banco Internacional do Funchal (Brasil) S.A.'
+why_in_novelo: Parte da hipótese investigativa específica (Bello Pactum/FIDC Alvarinho) que fundamenta o
+  bloqueio de bens de Quadrado e dos dois ex-administradores da Trustee na Pet 15.198.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública própria localizada até a data desta coleta.
+source_ids:
+- src-stf-pet15198-peticao-73734-2026-agravo-regimental
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -1,0 +1,39 @@
+id: rev-2026-09-13-lote-283-bello-pactum-e-o-fidc-alvarinho
+kind: revision
+date: '2026-09-13'
+title: 'Lote 283 — o que fundamenta o bloqueio de bens de Quadrado, Almeida e Aguetoni: Bello Pactum e o
+  FIDC Alvarinho'
+summary: 'Leitura do agravo regimental (petição 73734/2026, obtido via peticionamento autenticado) contra a
+  decisão de 19/05/2026 do Ministro André Mendonça na Pet 15.198/DF, que manteve bloqueado o patrimônio de
+  Maurício Quadrado, Luís Fernando de Almeida e Flávio Daniel Aguetoni. Revela pela primeira vez no acervo o
+  fundamento específico do bloqueio desses três: operações envolvendo a Bello Pactum Participações S.A. e o
+  FIDC Alvarinho, com prejuízo patrimonial estimado pela investigação em ~R$ 24 milhões. A defesa contesta:
+  alega que os R$ 18.268.809,43 captados via notas comerciais do FIDC Alvarinho pagaram integralmente 32
+  acordos trabalhistas do passivo do BANIF — Banco Internacional do Funchal (Brasil) S.A., sem desvio.
+  Duas organizações novas no acervo (Bello Pactum, FIDC Alvarinho). Nota metodológica: a caracterização da
+  hipótese investigativa vem da própria defesa (que a resume para contestá-la) — não foi possível acessar a
+  decisão original ou a representação que a fundamentou; e não se confirma se este bloqueio é o mesmo já
+  registrado (com número de processo não confirmado) em ev-toffoli-bloqueio-24-2-milhoes-banvox-master-
+  vorcaro-quadrado, atribuído à imprensa a Dias Toffoli — valor muito próximo (R$ 24 milhões vs. R$ 24,2
+  milhões), mas relator e caracterização diferem; tratado como não confirmado, não como coincidência
+  resolvida.'
+added:
+  people: 0
+  organizations: 2
+  events: 0
+  documents: 1
+  relationships: 2
+  sources: 1
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'mauricio-quadrado: open_question sobre a Pet 15.198 atualizada com o teor completo do agravo e a
+  hipótese investigativa que fundamenta o bloqueio.'
+author: orquestrador
+affected_ids:
+- mauricio-quadrado
+reason: Continuação direta do lote 282 — download-fork interno obteve o teor do agravo regimental (e-doc
+  684) cuja existência havia sido apenas identificada, um documento por vez, sem incidente.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
