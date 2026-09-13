@@ -1,0 +1,20 @@
+id: ev-fachin-manda-pf-explicar-custodia-do-hd-um-dia-antes-de-mendonca-admitir-duvida
+kind: evidence
+classification: D
+proposition: 'Em 12/09/2026, um dia antes de Mendonça admitir "divergência de informações" sobre como o HD
+  com a extração do celular de Vorcaro chegou ao seu gabinete (lote 271), a própria Presidência do STF
+  (Fachin), na Pet 16.704, já havia determinado à Polícia Federal que prestasse informações, em 24 horas,
+  sobre a custódia do material e o estado em que se encontra — sinal de que a dúvida sobre a cadeia de
+  custódia do HD não partiu apenas da autoexplicação de Mendonça, mas já vinha sendo verificada de forma
+  independente pela Presidência junto à própria PF.'
+document_ids:
+- doc-2026-09-12-despacho-fachin-intima-pf-custodia-material
+related_entity_ids:
+- edson-fachin
+- andre-mendonca
+- daniel-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

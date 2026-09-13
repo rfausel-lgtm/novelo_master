@@ -71,6 +71,11 @@ open_questions:
   do RISTF — a substituição da relatoria da PET 16.662 para a Presidência, diante da possibilidade de
   aplicação do art. 144, IV, do CPC (suspeição). No mesmo dia, indeferiu pedido de inclusão da própria
   PET 16.704 na pauta de 15/09, mantendo-a exclusiva à PET 16.662 e remarcando a Pet 16.704 para 23/09.'
+- 'NOVO (13/09/2026): no mesmo 12/09/2026, um dia antes de Mendonça admitir "divergência de informações"
+  sobre a chegada do HD ao seu gabinete, a Presidência já havia determinado à PF que prestasse informações,
+  em 24h, sobre a custódia do material e o estado em que se encontra — verificação da cadeia de custódia
+  do HD já em curso pela própria Presidência, não só pela autoexplicação do relator. Consultado apenas pelo
+  andamento público; sem o teor completo da petição/certidão associada.'
 source_ids:
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-poder360-2026-09-04-despacho-fachin-admissibilidade-pdf
@@ -90,6 +95,7 @@ source_ids:
 - src-poder360-2026-09-10-fachin-pede-e-mendonca-tira-sigilo
 - src-stf-portal-2026-09-10-status-pet15556-pet15978-pet16704
 - src-stf-pet15556-edoc414-peticao-pt-levantamento-sigilo-09-09-2026
+- src-stf-pet16704-despacho-12-09-2026-fachin-intima-pf-custodia-material
 full_name: Luiz Edson Fachin
 review_status: published
 reviewer: orquestrador
@@ -97,6 +103,7 @@ reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
 updated_at: '2026-09-13'
 photo:
+
   path: /fotos/edson-fachin.jpg
   source: Wikimedia Commons
   author: Antonio Cruz/Agência Brasil

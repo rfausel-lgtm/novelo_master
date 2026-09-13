@@ -1,0 +1,25 @@
+id: doc-2026-09-12-despacho-fachin-intima-pf-custodia-material
+kind: document
+title: Despacho da Presidência (Fachin) intimando a PF a informar, em 24h, sobre a custódia do material
+doc_type: judicial_decision
+date: '2026-09-12'
+date_precision: day
+source_ids:
+- src-stf-pet16704-despacho-12-09-2026-fachin-intima-pf-custodia-material
+summary: 'Na Pet 16.704, a Presidência do STF (Fachin) determina: "Intime-se a Polícia Federal para que
+  preste informações, em até 24 (vinte e quatro) horas, sobre a custódia do material e o estado em que se
+  encontra." Consultado apenas pelo andamento público (sem o teor completo da petição/certidão associada);
+  o contexto imediato — ofícios de Moraes e Gilmar Mendes sobre o compartilhamento do HD do celular de
+  Vorcaro, seguidos por este despacho — indica que o "material" é essa mesma cópia de segurança lacrada.'
+is_official: true
+related_entity_ids:
+- edson-fachin
+- daniel-vorcaro
+reference: PET 16.704/DF
+issuer_id: edson-fachin
+issuer: Presidência do STF (Ministro Edson Fachin)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
