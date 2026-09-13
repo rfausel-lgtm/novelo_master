@@ -1,0 +1,39 @@
+id: rev-2026-09-13-lote-276-saneamento-pos-auditoria-do-revisor
+kind: revision
+date: '2026-09-13'
+title: 'Lote 276 — saneamento de consistência a partir da auditoria do revisor editorial'
+summary: 'Convocado um agente revisor para auditar os lotes 253-275 e apontar lacunas de atualização
+  cruzada. Três correções aplicadas: (1) o verbete de André Mendonça não registrava que ele deixou de ser
+  relator da Pet 16.662 em 12/09/2026 (substituído por Fachin, por possível suspeição) — só o verbete de
+  Fachin tinha esse fato. (2) O open_question de Gilmar Mendes sobre uma articulação política para retirar
+  a relatoria de Mendonça (Poder360) não distinguia essa hipótese do que de fato ocorreu — a substituição
+  real teve fundamento jurídico distinto (suspeição), não a articulação relatada; adicionada nota
+  diferenciando as duas explicações. (3) O verbete da organização "A Turma" não citava a caracterização de
+  "milícia violenta" (item 10.5 da decisão original, revelada no lote 275) — só constava em arquivo de
+  evidência avulso, não no verbete da própria organização, onde um leitor iria procurá-la.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'andre-mendonca: registrada a perda da relatoria da Pet 16.662 em 12/09/2026.'
+- 'gilmar-mendes: diferenciada a hipótese de articulação política (Poder360) da substituição de relatoria
+  efetivamente ocorrida, de fundamento jurídico distinto.'
+- 'a-turma: acrescentada a caracterização "milícia violenta" da decisão original, revelada no lote 275.'
+author: orquestrador
+affected_ids:
+- andre-mendonca
+- gilmar-mendes
+- edson-fachin
+- a-turma
+- daniel-vorcaro
+reason: Rafael pediu para convocar um revisor que auditasse o acervo e apontasse lacunas/rumos — este lote
+  aplica as correções de consistência de baixo risco que a auditoria sinalizou.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

@@ -2,13 +2,17 @@ id: a-turma
 kind: organization
 name: A Turma
 org_type: association
-summary: Núcleo operacional de intimidação presencial da organização criminosa investigada na Operação Compliance
-  Zero, paralelo a 'Os Meninos' (braço tecnológico). Segundo a representação da PF e as decisões de 13/05/2026,
+summary: 'Núcleo operacional de intimidação presencial da organização criminosa investigada na Operação Compliance
+  Zero, paralelo a ''Os Meninos'' (braço tecnológico). Segundo a representação da PF e as decisões de 13/05/2026,
   era controlado por Daniel Vorcaro e gerenciado por Luiz Phillipi Mourão, tendo Marilson Roseno da Silva como líder
   de campo e, entre os integrantes identificados, Sebastião Monteiro Júnior, Anderson Wander da Silva Lima e Manoel
   Mendes Rodrigues — este último à frente de um braço local no Rio de Janeiro. Recebia R$ 400 mil por mês dentro
   do repasse mensal de R$ 1 milhão feito por Vorcaro a Mourão. Registre-se que a defesa de Vorcaro nega peremptoriamente
-  que o grupo exista.
+  que o grupo exista. NOVO (13/09/2026): o item 10.5 da decisão original de medidas assecuratórias de 03/03/2026
+  (Pet 15.563), segundo transcrição feita pela PGR em contraminuta de 10/07/2026, caracteriza formalmente o
+  núcleo como estrutura "de formação de uma milícia violenta, sob os comandos de DANIEL VORCARO, para
+  satisfação de seus interesses exclusivamente privados" — a formulação jurídica mais forte, até esta coleta,
+  para descrever o grupo em uma decisão judicial.'
 why_in_novelo: É o braço presencial da organização — o que executa ameaças, monitoramentos e constrangimentos físicos
   contra desafetos —, citado em todo o acervo como núcleo irmão de 'Os Meninos', mas que até aqui não existia como
   entidade própria.
@@ -26,6 +30,7 @@ source_ids:
 - src-stf-pet15978-edoc2-representacao-pf-sexta-fase
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
 - src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
+- src-stf-pet15563-contraminuta-pgr-10-07-2026-agravo-palhares-varajo
 open_questions:
 - Não há denúncia oferecida nem decisão de mérito que reconheça a existência do grupo — o que há são imputações
   da autoridade policial acolhidas em cognição sumária para fins cautelares, e a negativa expressa da defesa de
@@ -34,6 +39,6 @@ open_questions:
   ainda não identificados.'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-09-13'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-09-13'

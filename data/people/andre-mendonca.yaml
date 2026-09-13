@@ -31,10 +31,12 @@ cited_position:
 open_questions:
 - O corpus não contém avaliação oficial sobre impedimento ou suspeição do relator em razão do encontro
   de março de 2025.
-- Em 08/09/2026, na Pet 16.662 (sua própria relatoria), determinou o afastamento cautelar do diretor-geral
+- 'Em 08/09/2026, na Pet 16.662 (sua própria relatoria), determinou o afastamento cautelar do diretor-geral
   da PF — decisão tomada em paralelo à Pet 16.704, que o presidente do STF Fachin havia avocado cinco
   dias antes para tratar da mesma crise; não há, nas fontes disponíveis, manifestação de Fachin especificamente
-  sobre essa aparente sobreposição de procedimentos.
+  sobre essa aparente sobreposição de procedimentos. ATUALIZAÇÃO (12/09/2026): não é mais o relator da Pet
+  16.662 — Fachin, diante da possibilidade de aplicação do art. 144, IV, do CPC (suspeição), formalizou a
+  substituição da relatoria para a própria Presidência.'
 - Formalizou, em 06/09/2026, pedido para que o plenário do STF — não apenas Fachin — julgue o caso da
   acusação de Moraes contra ele (art. 5º RISTF) — sem data de pauta definida.
 - Sua decisão de afastamento de Andrei Rodrigues (08/09/2026) foi neutralizada, um dia depois, por decisão
@@ -80,6 +82,7 @@ open_questions:
   mesmo despacho, recusou incluir o conteúdo integral do celular nos autos antes do julgamento de 15/09, por
   risco de "tumultuar" a sessão.'
 source_ids:
+- src-stf-pet16704-despacho-12-09-2026-avocacao-e-substituicao-relatoria
 - src-stf-pet16704-despacho-13-09-2026-procedencia-hd-lacrado
 - src-stf-pet16704-oficio07-moraes-2026-09-11
 - src-stf-pet16704-oficios-acesso-midia-celular-2026-09-11
