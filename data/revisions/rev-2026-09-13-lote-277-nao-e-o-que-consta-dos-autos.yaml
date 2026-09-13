@@ -1,0 +1,36 @@
+id: rev-2026-09-13-lote-277-nao-e-o-que-consta-dos-autos
+kind: revision
+date: '2026-09-13'
+title: 'Lote 277 — "Não é o que consta dos autos": Moraes contesta por escrito a versão de Mendonça de que o
+  sigilo foi levantado por completo'
+summary: 'Um fork de download recuperou, via OCR, o conteúdo do Ofício GMAM nº 09/2026 (11/09/2026, Pet
+  16.704), que uma tentativa anterior havia marcado como ilegível. No ofício, Alexandre de Moraes contesta
+  diretamente a afirmação repetida por Mendonça em despachos de 11 e 13/09 de que "todo o material" estava
+  disponível a todos os ministros: "Não é o que consta dos autos" — anexando prints que mostram a Pet 15.556,
+  a Pet 15.976 e a Rcl 88.121, entre outras, ainda com peças sigilosas inacessíveis. Acusa Mendonça de
+  "levantamento seletivo e direcionado do sigilo... na proteção ostensiva de determinado grupo político",
+  equiparando a conduta ao "direcionamento de acordos de colaboração premiada" já alegado antes, e fala em
+  supressão ao colegiado do conhecimento de "18 PETs e de 180 documentos" — dois dias antes da sessão
+  extraordinária de 15/09/2026. Enriquecimento adicional de precisão: o ofício de Zanin sobre o mesmo tema
+  identifica o aparelho de Vorcaro (iPhone 17 Pro, IMEI e laudo pericial específicos).'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'alexandre-de-moraes / andre-mendonca: acrescentada a acusação direta de Moraes ("não é o que consta dos
+  autos") de que o levantamento de sigilo anunciado por Mendonça não foi de fato completo.'
+author: orquestrador
+affected_ids:
+- alexandre-de-moraes
+- andre-mendonca
+reason: Fork de download (novo, aberto após o encerramento da sessão anterior) recuperou via OCR o conteúdo
+  de uma peça antes marcada como ilegível, na véspera da sessão de 15/09/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
