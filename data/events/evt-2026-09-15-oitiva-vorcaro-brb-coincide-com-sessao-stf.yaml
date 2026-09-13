@@ -1,0 +1,29 @@
+id: evt-2026-09-15-oitiva-vorcaro-brb-coincide-com-sessao-stf
+kind: event
+title: Depoimento de Vorcaro à PF sobre fraudes no BRB é marcado para o mesmo dia da sessão do STF sobre Moraes
+event_type: investigation_step
+date: '2026-09-15'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- policia-federal
+- banco-de-brasilia-brb
+description: A Polícia Federal marcou depoimento de Daniel Vorcaro para 15/09/2026, sobre irregularidades no
+  Banco Master e fraudes em operações com o BRB — o mesmo dia da sessão extraordinária do STF (Pet 16.662)
+  que decide se Alexandre de Moraes deve ser investigado por suas comunicações com Vorcaro. A oitiva já havia
+  sido adiada uma vez (do fim de agosto) a pedido da defesa; novo pedido de adiamento é esperado, com a
+  alegação de acesso incompleto aos documentos tornados públicos em 11/09/2026.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-vorcaro-depoimento-15-09-brb-mesma-data-sessao-stf
+source_ids:
+- src-infomoney-2026-09-13-vorcaro-depoimento-15-setembro-brb
+document_ids: []
+public_act_ids: []
+location: Brasília (DF)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

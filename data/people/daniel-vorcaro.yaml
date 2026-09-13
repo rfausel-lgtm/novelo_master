@@ -98,6 +98,9 @@ cited_position:
   by_id: daniel-vorcaro
   date: '2026-03-09'
 open_questions:
+- 'NOVO (13/09/2026): a PF marcou depoimento dele para 15/09/2026 sobre fraudes no BRB — o mesmo dia da
+  sessão do STF que julga se Moraes deve ser investigado. Já adiado uma vez (fim de agosto); reportagem
+  antecipa novo pedido de adiamento pela defesa.'
 - Não há, no corpus, a íntegra das decisões judiciais; o conteúdo registrado é o das comunicações oficiais
   do STF.
 - As alegações da PF sobre pagamentos a agentes públicos permanecem sob investigação e não foram julgadas.
@@ -159,6 +162,7 @@ open_questions:
   autorização do STF para colhê-lo em depoimento (autorizado para 24/02/2026, estendido para 10/03/2026)
   — frente parlamentar distinta e até então não registrada no acervo.'
 source_ids:
+- src-infomoney-2026-09-13-vorcaro-depoimento-15-setembro-brb
 - src-ac24horas-2026-09-04-vorcaro-sinaliza-poupar-moraes-delacao
 - src-agenciabrasil-2026-09-08-cvm-multa-vorcaro-20-milhoes-fii
 - src-braziljournal-2021-12-23-master-outsider

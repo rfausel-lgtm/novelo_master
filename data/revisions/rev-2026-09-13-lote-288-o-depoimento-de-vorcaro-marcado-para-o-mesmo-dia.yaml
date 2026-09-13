@@ -1,0 +1,31 @@
+id: rev-2026-09-13-lote-288-o-depoimento-de-vorcaro-marcado-para-o-mesmo-dia
+kind: revision
+date: '2026-09-13'
+title: 'Lote 288 — o depoimento de Vorcaro sobre fraudes no BRB foi marcado para o mesmo dia da sessão do
+  STF sobre Moraes'
+summary: 'Reportagem do InfoMoney (13/09/2026), verificada diretamente: a Polícia Federal marcou depoimento
+  de Daniel Vorcaro para 15/09/2026 — o mesmo dia da sessão extraordinária do STF (Pet 16.662) que decide
+  se Alexandre de Moraes deve ser investigado por suas comunicações com ele — sobre irregularidades no Banco
+  Master e fraudes em operações com o BRB. A oitiva já havia sido adiada uma vez, do fim de agosto, a pedido
+  da defesa; a reportagem antecipa novo pedido de adiamento, alegando acesso incompleto aos documentos
+  desigilados em 11/09/2026.'
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'daniel-vorcaro: novo open_question sobre a coincidência de datas entre seu depoimento e a sessão do STF.'
+author: orquestrador
+affected_ids:
+- daniel-vorcaro
+reason: Achado do primeiro ciclo do agente de monitoramento de imprensa despachado a cada 15 minutos, a
+  pedido do Rafael, dado o momento crítico da crise institucional; verificado por leitura direta da matéria
+  antes da publicação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
