@@ -1,0 +1,31 @@
+id: src-stf-pet15625-emails-agosto-2026-acesso-e-oitiva-nabas
+kind: source
+title: Troca de e-mails (junho-agosto 2026) entre a defesa de Nabas e a PF sobre acesso ao inquérito e oitiva
+publisher: Polícia Federal / Bunazar Advogados
+publication_date: '2026-08-27'
+retrieved_at: '2026-09-13'
+url: https://peticionamento.stf.jus.br/visualizarProcesso/7523431
+source_type: official_police
+summary: 'Sequência de e-mails juntados à Pet 15.625/DF entre o escritório Bunazar Advogados (defesa de João
+  Cláudio Nabas) e a Polícia Federal, de 30/06 a 27/08/2026. A defesa pede repetidamente acesso a novas
+  juntadas do inquérito nº 2026.0024472-CINQ/CGRC/DICOR/PF posteriores a 02/06/2026 e a habilitação de
+  advogados substabelecidos; a PF responde que o acesso deve se dar diretamente pelo processo eletrônico do
+  STF (Pet 15.625), não pela via administrativa da PF, já que a defesa já está habilitada nos autos judiciais.
+  A defesa usa a alegação de acesso insuficiente para pedir o adiamento da oitiva de Nabas, agendada
+  inicialmente para 06/08/2026; a PF mantém a oitiva, remarcada para 27/08/2026 às 15h, por videoconferência
+  (Microsoft Teams). Despacho do delegado Victor Barbabella Negraes (25/08/2026) reafirma que a
+  disponibilização dos autos ocorre pelo processo eletrônico do STF, não por cópia administrativa.'
+notes: Não há, nestes e-mails, informação sobre o conteúdo da oitiva em si (se de fato ocorreu em 27/08, o
+  que foi perguntado, ou qual a posição de Nabas) — apenas a disputa procedimental sobre acesso e data.
+  Também juntada ao mesmo lote de peças uma declaração da Universidade Federal do Paraná (UFPR), sem
+  conteúdo legível por extração de texto (documento escaneado) — não lida.
+verification:
+  checked_at: '2026-09-13'
+  checked_by: orquestrador (leitura direta, arquivos já baixados em coleta anterior)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

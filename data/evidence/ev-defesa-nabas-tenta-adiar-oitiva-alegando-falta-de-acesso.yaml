@@ -1,0 +1,26 @@
+id: ev-defesa-nabas-tenta-adiar-oitiva-alegando-falta-de-acesso
+kind: evidence
+classification: D
+proposition: 'Entre junho e agosto de 2026, a defesa de João Cláudio Nabas pediu repetidamente à PF acesso a
+  juntadas do inquérito posteriores a 02/06/2026 e a habilitação de novos advogados substabelecidos, e usou a
+  alegação de acesso insuficiente para pedir o adiamento da oitiva de Nabas, agendada para 06/08/2026. A PF
+  respondeu que o acesso deveria se dar diretamente pelo processo eletrônico do STF (Pet 15.625), não pela via
+  administrativa, e manteve a oitiva, remarcada para 27/08/2026 às 15h, por videoconferência.'
+document_ids:
+- doc-2026-08-27-emails-acesso-e-oitiva-nabas
+source_ids:
+- src-stf-pet15625-emails-agosto-2026-acesso-e-oitiva-nabas
+related_entity_ids:
+- joao-claudio-nabas
+excerpt: eventuais vistas dos autos deverão ser realizadas diretamente no processo judicial eletrônico do
+  STF relacionado à PET 15.625
+date: '2026-08-27'
+notes: Não há, nos e-mails lidos, informação sobre o conteúdo da oitiva em si (se ocorreu, o que foi
+  perguntado, qual a posição de Nabas) — apenas a disputa procedimental sobre acesso e data. Ainda sem
+  notícia, até esta coleta, do resultado da perícia de autenticidade do "Moraes.pdf" nem do desfecho do PAD
+  na Corregedoria da PF.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -1,0 +1,31 @@
+id: rev-2026-09-13-lote-286-a-defesa-de-nabas-tenta-adiar-a-oitiva
+kind: revision
+date: '2026-09-13'
+title: 'Lote 286 — a defesa de Nabas disputa acesso ao inquérito e tenta adiar sua oitiva'
+summary: 'Leitura de peças já baixadas em coleta anterior, mas ainda não lidas — e-mails juntados à Pet
+  15.625/DF entre o escritório Bunazar Advogados (defesa de João Cláudio Nabas) e a Polícia Federal, de
+  30/06 a 27/08/2026. A defesa pediu repetidamente acesso a novas juntadas do inquérito e usou a alegação de
+  acesso insuficiente para pedir o adiamento da oitiva de Nabas (inicialmente 06/08/2026); a PF respondeu que
+  o acesso deve se dar diretamente pelo processo eletrônico do STF, e manteve a oitiva, remarcada para
+  27/08/2026 por videoconferência. Não há informação sobre o que de fato ocorreu na oitiva nem sobre o
+  resultado da perícia ou do PAD já registrados no acervo. Uma declaração da UFPR, junta ao mesmo lote de
+  peças, não foi lida por ser documento escaneado sem texto extraível.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'joao-claudio-nabas: acrescentada a disputa de acesso ao inquérito e a tentativa de adiamento da oitiva.'
+author: orquestrador
+affected_ids:
+- joao-claudio-nabas
+reason: Verificação de arquivos já baixados em coleta anterior (12-13/09/2026) mas ainda não lidos, antes de
+  despachar novo download-fork — evita repetir navegação desnecessária no STF.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
