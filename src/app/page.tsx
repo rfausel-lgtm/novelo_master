@@ -169,7 +169,7 @@ export default function HomePage() {
             {allRevisions()
               .slice(0, 3)
               .map((r) => (
-                <li key={r.id} className="py-2.5 text-sm">
+                <li key={r.id} className="py-2.5 text-sm" data-published-at={r.published_at}>
                   <time dateTime={r.date} className="text-fg-3 font-mono text-xs">
                     {formatPartialDate(r.date)}
                   </time>

@@ -1,6 +1,7 @@
 id: rev-2026-09-11-saneamento-grafo-orfas-documentadas
 kind: revision
 date: '2026-09-11'
+published_at: '2026-09-11T22:57:20-03:00'
 title: 'Saneamento: as órfãs com lastro documental voltam ao grafo'
 summary: 'Segunda etapa da manutenção de integridade aberta pela auditoria do grafo — não é apuração nova. Vinte
   e quatro relações religam entidades que estavam publicadas sem nenhuma conexão, embora os documentos já sustentassem

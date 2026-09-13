@@ -566,5 +566,10 @@ export const RevisionSchema = z.object({
   title: z.string().optional(),
   /** Registros que a revisão tocou; viram links em /atualizacoes e na home. */
   affected_ids: z.array(IdSchema).default([]),
+  /**
+   * Instante em que a revisão entrou no acervo, com fuso (ISO 8601). Desempata revisões da mesma
+   * `date` — sem ele a ordem saía do texto do id. `npm run data:published-at -- --write` preenche.
+   */
+  published_at: z.iso.datetime({ offset: true }).optional(),
 });
 export type Revision = z.infer<typeof RevisionSchema>;

@@ -1,6 +1,7 @@
 id: rev-2026-09-12-auditoria-classe-c-fontes-independentes
 kind: revision
 date: '2026-09-12'
+published_at: '2026-09-12T11:42:23-03:00'
 title: 'O que conta como "duas fontes independentes": seis evidências reclassificadas'
 summary: 'Auditoria movida por uma decisão pendente há vários lotes: o que conta como fonte independente para
   a classe C. O lint soma `source_ids.length + document_ids.length`, e um registro `document` que é só o

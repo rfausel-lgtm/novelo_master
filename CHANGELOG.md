@@ -2,6 +2,16 @@
 
 ## Unreleased
 
+- **Ordem das atualizações pelo instante de publicação.** Revisões da mesma data eram desempatadas
+  pelo texto do id, e revisão que não é lote saía de ordem: `saneamento` subia acima de todos os lotes
+  do dia, e `auditoria` e `correcao` afundavam abaixo de todos. Em 12/09/2026 o saneamento de CPFs
+  ficou no topo da home enquanto os lotes 253 em diante saíam, e o E2E da home passou a falhar. A
+  revisão ganha `published_at` (instante com fuso), e a ordem passa a ser data editorial, depois
+  instante, depois o critério anterior — comparando instantes, não texto, porque há horários em UTC e
+  em -03:00. `npm run data:published-at -- --write` preenche o campo: pelo histórico do git nas
+  revisões já commitadas, com o horário de agora nas que ainda não foram. O E2E da home passa a
+  conferir a regra (data e instante), e não mais o número do lote.
+
 - **A ilustração do Codex volta a prevalecer sobre o card** (decisão de Rafael, 12/09/2026). Na
   primeira versão o card contava como arte concluída, e com ele cobrindo 100% das revisões dois elos
   pararam em silêncio: `social:pending` deixou de listar pendência — a automação do Codex não tinha

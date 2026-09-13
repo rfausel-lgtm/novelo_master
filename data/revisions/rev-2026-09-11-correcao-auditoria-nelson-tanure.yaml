@@ -1,6 +1,7 @@
 id: rev-2026-09-11-correcao-auditoria-nelson-tanure
 kind: revision
 date: '2026-09-11'
+published_at: '2026-09-11T11:24:24-03:00'
 title: Correção editorial em Nelson Tanure — alegação autodescrita marcada como tal, e data/local de nascimento sem fonte removidos
 summary: 'Auditoria cruzada (outra sessão) de data/people/nelson-tanure.yaml apontou dois problemas: (1) o
   resumo afirmava como fato que ele "esteve envolvido em mais de 200 empresas", quando a fonte citada
