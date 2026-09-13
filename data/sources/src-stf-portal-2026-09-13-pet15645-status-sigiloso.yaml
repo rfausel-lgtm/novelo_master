@@ -1,0 +1,33 @@
+id: src-stf-portal-2026-09-13-pet15645-status-sigiloso
+kind: source
+title: Portal STF — status da Pet 15.645 (incidente 7526458), integralmente sigilosa
+publisher: Supremo Tribunal Federal
+publication_date: '2026-09-13'
+retrieved_at: '2026-09-13'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7526458
+source_type: official_court
+summary: 'Consulta ao portal público (sem certificado digital) confirma que a Pet 15.645/DF (número único
+  0166793-29.2026.1.00.0000, incidente 7526458) está classificada como "PROCESSO ELETRÔNICO SIGILOSO", com
+  relator André Mendonça. Os únicos dados visíveis são andamentos sem teor: protocolado e autuado em
+  10/03/2026, distribuído por prevenção em 11/03/2026 — datas compatíveis com a mesma janela temporal da
+  autuação da Pet 15.556 (06/03/2026) e de outras petições satélites da Operação Compliance Zero. Abas de
+  Partes, Decisões e Peças não renderizam conteúdo. Notavelmente, a Pet 15.645 NÃO consta na lista de 14
+  "procedimentos contidos ou relacionados" à Pet 15.556 cujo sigilo Mendonça levantou em 10/09/2026 (Inq
+  5.026, Rcl 88.121, Pet 15.198, Inq 5.035, Pet 15.478, Pet 15.504, Pet 15.562, Pet 15.563, Pet 15.693, Pet
+  15.976-78, Pet 16.019, Pet 16.662) — o que é consistente com ela seguir sigilosa por não ter sido
+  formalmente incluída nesse rol, apesar de Moraes considerá-la portadora de "elementos essenciais". Também
+  verificado: a conta autenticada de Rafael Fausel no peticionamento.stf.jus.br — que tem relação de parte
+  visível em todos os demais 16 processos "Vorcaro" que acompanha — NÃO tem acesso à Pet 15.645
+  ("Não foi possível encontrar o processo"), confirmando que ela está fora do alcance mesmo de quem
+  acompanha de perto o caso.'
+notes: Não foi possível identificar assunto ou partes da Pet 15.645 — permanece pergunta em aberto.
+verification:
+  checked_at: '2026-09-13'
+  checked_by: orquestrador (via equipe delegada)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

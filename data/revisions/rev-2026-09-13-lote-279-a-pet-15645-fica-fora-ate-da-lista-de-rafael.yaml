@@ -1,0 +1,37 @@
+id: rev-2026-09-13-lote-279-a-pet-15645-fica-fora-ate-da-lista-de-rafael
+kind: revision
+date: '2026-09-13'
+title: 'Lote 279 — a Pet 15.645 não está nem na lista das 14 petições desigiladas, nem no alcance de quem
+  acompanha o caso Vorcaro de perto'
+summary: 'Verificação direta no portal do STF (equipe delegada) sobre a Pet 15.645, citada por Moraes (lote
+  278) como tendo "elementos essenciais" para o julgamento de 15/09/2026 mas ainda sigilosa. Confirmado:
+  a petição (incidente 7526458) está classificada como "PROCESSO ELETRÔNICO SIGILOSO", com relator André
+  Mendonça, autuada em 10/03/2026 e distribuída por prevenção em 11/03/2026 — mesma janela temporal da
+  autuação da petição-mãe (Pet 15.556, 06/03/2026). Dois achados negativos, mas relevantes: (1) a Pet 15.645
+  NÃO consta na lista de 14 procedimentos cujo sigilo Mendonça levantou em 10/09/2026, o que explica por que
+  segue fechada; (2) a própria conta de Rafael Fausel — que tem relação de parte visível em todos os outros
+  16 processos "Vorcaro" que acompanha — não tem acesso a esta petição específica, sinal de que ela tem
+  distribuição de partes mais restrita que o resto da família de processos satélites. O assunto e as partes
+  da Pet 15.645 permanecem desconhecidos.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'ev-moraes-diz-pet15645-nao-teve-sigilo-levantado-antes-do-julgamento: acrescentadas as datas de autuação/
+  distribuição e a confirmação de que a petição está fora da lista de 14 desigiladas em 10/09.'
+author: orquestrador
+affected_ids:
+- alexandre-de-moraes
+- andre-mendonca
+- edson-fachin
+reason: Continuação direta do lote 278 — tentativa de identificar o conteúdo da Pet 15.645 antes da sessão
+  de 15/09/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

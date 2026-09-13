@@ -11,13 +11,18 @@ document_ids:
 - doc-2026-09-13-oficio-gmam11-moraes-cobra-sigilo-pet15645
 source_ids:
 - src-stf-pet16704-oficio-gmam11-2026-09-13-pet15645-sigilo
+- src-stf-portal-2026-09-13-pet15645-status-sigiloso
 related_entity_ids:
 - alexandre-de-moraes
 - edson-fachin
 - andre-mendonca
-notes: A natureza dos "elementos essenciais" que a Pet 15.645 conteria não é detalhada no ofício; não há,
+notes: 'A natureza dos "elementos essenciais" que a Pet 15.645 conteria não é detalhada no ofício; não há,
   até esta coleta, notícia de resposta de Fachin ao pedido, nem confirmação de que o sigilo tenha sido
-  levantado antes da sessão de 15/09.
+  levantado antes da sessão de 15/09. Verificação direta do portal (13/09/2026): a Pet 15.645 (incidente
+  7526458) segue integralmente sigilosa, autuada em 10/03/2026 e distribuída por prevenção a Mendonça em
+  11/03/2026 — mesma janela temporal da Pet 15.556 (06/03/2026) — mas NÃO consta na lista de 14 procedimentos
+  cujo sigilo Mendonça levantou em 10/09/2026. A conta de Rafael Fausel, que acompanha os demais 16
+  processos "Vorcaro", não tem acesso a este especificamente.'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-13'
