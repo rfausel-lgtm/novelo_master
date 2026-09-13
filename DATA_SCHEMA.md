@@ -143,50 +143,52 @@ DocumentType: `judicial_decision`, `judicial_filing`, `official_report`, `forens
 
 ### `people` (Person)
 
-| Campo          | Tipo            | Obrigatório       | Descrição                                                                                        |
-| -------------- | --------------- | ----------------- | ------------------------------------------------------------------------------------------------ |
-| id             | Id              | sim               | Nome completo em kebab                                                                           |
-| kind           | `person`        | sim               | Literal                                                                                          |
-| name           | string          | sim               | Nome usual                                                                                       |
-| full_name      | string          | não               | Nome completo                                                                                    |
-| aliases        | string[]        | não (padrão `[]`) | Outras grafias e apelidos públicos                                                               |
-| distinct_from  | Id[]            | não (padrão `[]`) | Homônimos/parentes que NÃO são este registro; silencia o aviso de duplicata do lint              |
-| category       | PersonCategory  | sim               | Ver enum abaixo                                                                                  |
-| role           | string          | sim               | Cargo ou função principal no período relevante                                                   |
-| positions      | Position[]      | não (padrão `[]`) | `title` (obrigatório), `organization_id`, `organization`, `start_date`, `end_date`, `source_ids` |
-| summary        | string          | sim               | Resumo factual                                                                                   |
-| why_in_novelo  | string          | sim               | Uma frase factual e neutra                                                                       |
-| photo          | Photo           | não               | Foto com metadados completos                                                                     |
-| cited_position | CitedPosition[] | não (padrão `[]`) | Contraditório                                                                                    |
-| open_questions | string[]        | não (padrão `[]`) | Lacunas                                                                                          |
-| tags           | string[]        | não (padrão `[]`) | Etiquetas                                                                                        |
-| source_ids     | Id[]            | não (padrão `[]`) | Fontes do registro                                                                               |
-| external_ids   | objeto          | não               | `wikidata` (string), `wikipedia_pt` (URL)                                                        |
+| Campo            | Tipo            | Obrigatório       | Descrição                                                                                                |
+| ---------------- | --------------- | ----------------- | -------------------------------------------------------------------------------------------------------- |
+| id               | Id              | sim               | Nome completo em kebab                                                                                   |
+| kind             | `person`        | sim               | Literal                                                                                                  |
+| name             | string          | sim               | Nome usual                                                                                               |
+| full_name        | string          | não               | Nome completo                                                                                            |
+| aliases          | string[]        | não (padrão `[]`) | Outras grafias e apelidos públicos                                                                       |
+| distinct_from    | Id[]            | não (padrão `[]`) | Homônimos/parentes que NÃO são este registro; silencia o aviso de duplicata do lint                      |
+| isolation_reason | string          | não               | Por que a pessoa não tem ligação no grafo, quando isso é o correto; silencia o aviso de entidade isolada |
+| category         | PersonCategory  | sim               | Ver enum abaixo                                                                                          |
+| role             | string          | sim               | Cargo ou função principal no período relevante                                                           |
+| positions        | Position[]      | não (padrão `[]`) | `title` (obrigatório), `organization_id`, `organization`, `start_date`, `end_date`, `source_ids`         |
+| summary          | string          | sim               | Resumo factual                                                                                           |
+| why_in_novelo    | string          | sim               | Uma frase factual e neutra                                                                               |
+| photo            | Photo           | não               | Foto com metadados completos                                                                             |
+| cited_position   | CitedPosition[] | não (padrão `[]`) | Contraditório                                                                                            |
+| open_questions   | string[]        | não (padrão `[]`) | Lacunas                                                                                                  |
+| tags             | string[]        | não (padrão `[]`) | Etiquetas                                                                                                |
+| source_ids       | Id[]            | não (padrão `[]`) | Fontes do registro                                                                                       |
+| external_ids     | objeto          | não               | `wikidata` (string), `wikipedia_pt` (URL)                                                                |
 
 PersonCategory: `banker`, `businessperson`, `politician`, `judge`, `prosecutor`, `police`, `lawyer`, `public_official`, `executive`, `journalist`, `family`, `other`.
 
 ### `organizations` (Organization)
 
-| Campo          | Tipo            | Obrigatório       | Descrição                                                                           |
-| -------------- | --------------- | ----------------- | ----------------------------------------------------------------------------------- |
-| id             | Id              | sim               | Nome em kebab                                                                       |
-| kind           | `organization`  | sim               | Literal                                                                             |
-| name           | string          | sim               | Nome usual                                                                          |
-| full_name      | string          | não               | Razão social ou nome completo                                                       |
-| aliases        | string[]        | não (padrão `[]`) | Outras denominações                                                                 |
-| distinct_from  | Id[]            | não (padrão `[]`) | Homônimos/parentes que NÃO são este registro; silencia o aviso de duplicata do lint |
-| org_type       | OrgType         | sim               | Ver enum abaixo                                                                     |
-| cnpj           | string          | não               | Formato `00.000.000/0000-00`                                                        |
-| jurisdiction   | string          | não               | Estado, país, foro                                                                  |
-| summary        | string          | sim               | Resumo factual                                                                      |
-| why_in_novelo  | string          | sim               | Uma frase factual e neutra                                                          |
-| photo          | Photo           | não               | Logotipo ou imagem com metadados                                                    |
-| place          | Place           | não               | Onde a organização fica                                                             |
-| cited_position | CitedPosition[] | não (padrão `[]`) | Contraditório                                                                       |
-| open_questions | string[]        | não (padrão `[]`) | Lacunas                                                                             |
-| tags           | string[]        | não (padrão `[]`) | Etiquetas                                                                           |
-| source_ids     | Id[]            | não (padrão `[]`) | Fontes do registro                                                                  |
-| external_ids   | objeto          | não               | `wikidata`, `wikipedia_pt`                                                          |
+| Campo            | Tipo            | Obrigatório       | Descrição                                                                                                     |
+| ---------------- | --------------- | ----------------- | ------------------------------------------------------------------------------------------------------------- |
+| id               | Id              | sim               | Nome em kebab                                                                                                 |
+| kind             | `organization`  | sim               | Literal                                                                                                       |
+| name             | string          | sim               | Nome usual                                                                                                    |
+| full_name        | string          | não               | Razão social ou nome completo                                                                                 |
+| aliases          | string[]        | não (padrão `[]`) | Outras denominações                                                                                           |
+| distinct_from    | Id[]            | não (padrão `[]`) | Homônimos/parentes que NÃO são este registro; silencia o aviso de duplicata do lint                           |
+| isolation_reason | string          | não               | Por que a organização não tem ligação no grafo, quando isso é o correto; silencia o aviso de entidade isolada |
+| org_type         | OrgType         | sim               | Ver enum abaixo                                                                                               |
+| cnpj             | string          | não               | Formato `00.000.000/0000-00`                                                                                  |
+| jurisdiction     | string          | não               | Estado, país, foro                                                                                            |
+| summary          | string          | sim               | Resumo factual                                                                                                |
+| why_in_novelo    | string          | sim               | Uma frase factual e neutra                                                                                    |
+| photo            | Photo           | não               | Logotipo ou imagem com metadados                                                                              |
+| place            | Place           | não               | Onde a organização fica                                                                                       |
+| cited_position   | CitedPosition[] | não (padrão `[]`) | Contraditório                                                                                                 |
+| open_questions   | string[]        | não (padrão `[]`) | Lacunas                                                                                                       |
+| tags             | string[]        | não (padrão `[]`) | Etiquetas                                                                                                     |
+| source_ids       | Id[]            | não (padrão `[]`) | Fontes do registro                                                                                            |
+| external_ids     | objeto          | não               | `wikidata`, `wikipedia_pt`                                                                                    |
 
 OrgType: `company`, `financial_institution`, `public_body`, `court`, `party`, `fund`, `law_firm`, `media`, `association`, `other`. Empresas e órgãos públicos são subtipos de Organization ([ADR-0003](docs/adr/0003-modelo-de-evidencia.md)). No grafo, `company`, `fund` e `law_firm` são exibidos como "Empresa"; `public_body` e `court`, como "Órgão público".
 
@@ -440,6 +442,9 @@ Sequências:
 - Termo imputativo (`criminoso`, `corrupto`, `bandido`, `quadrilha`, `fraudador`, `ladrão`, `propina`, `lavou dinheiro`, `comprou o ministro`, `comprou a decisão`, `mensalão`, `esquema criminoso`) sem qualificador de atribuição no mesmo texto (`segundo`, `conforme`, `de acordo com`, `alega`, `afirma`, `aponta`, `sustenta`, `acusa`, `denúncia`, `suspeita`, `investiga`, `hipótese`, `nega`, `supost-`, `presum-`, `teria`, e flexões), nos campos `proposition`, `summary`, `why_in_novelo`, `description`, `label`, `statement`. O lint é heurístico: um qualificador em qualquer ponto do texto suprime o aviso, e o revisor humano continua responsável.
 - Relação `investigative_allegation` classificada como D (confirmar se o documento prova o fato ou só registra a alegação).
 - Relação `intermediary` sem `via_id`.
+- O mesmo fato registrado duas vezes: duas relações do mesmo par (em qualquer direção) com a mesma `start_date`, ou uma relação e uma transação do mesmo par no mesmo ano sem a relação apontar a transação em `transaction_ids`. Tipo de relação igual não conta — o mesmo par pode ter alegações distintas.
+- Cargo em `positions` com `organization_id` sem nenhuma relação entre a pessoa e a organização: o grafo só desenha relações, e o vínculo da ficha fica invisível.
+- Pessoa ou organização sem nenhuma ligação no grafo (relação, participação em evento, ato público ou transação) e sem `isolation_reason`. O inverso também avisa: `isolation_reason` numa entidade que já tem ligação. Declarar o motivo é a afirmação editorial de que o documento nomeia a entidade sem descrever vínculo com mais ninguém.
 - (Nota informativa, nunca bloqueante) Relação sem `start_date` e sem `event_ids` não terá data própria na máquina do tempo.
 - Registro `draft` ou `in_review` excluído do build quando não se usa `--include-drafts` (aviso do carregador, nunca bloqueante).
 

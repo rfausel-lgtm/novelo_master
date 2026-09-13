@@ -1,0 +1,24 @@
+id: rel-renata-leme-borges-dos-santos-banco-pleno-professional
+kind: relationship
+from_id: renata-leme-borges-dos-santos
+to_id: banco-pleno
+relationship_type: professional
+directed: false
+label: diretora
+description: Renata Leme Borges dos Santos, diretora do Banco Pleno, assinou com o chefe do Departamento
+  de Supervisão Bancária do Banco Central o termo de comparecimento de 18/12/2025, que advertiu a
+  instituição sobre o agravamento do risco de liquidez, dois meses antes da liquidação.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-stf-inq5026-pecas-1-100
+document_ids:
+- doc-2025-12-18-termo-comparecimento-27-2025-bc-pleno
+review_status: published
+reviewer: sessão de código (saneamento de consistência do grafo)
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

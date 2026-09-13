@@ -1,0 +1,23 @@
+id: doc-2026-07-22-despacho-mendonca-autoriza-inquerito-flavio-bolsonaro
+kind: document
+title: Despacho de Mendonça autoriza inquérito sobre Flávio Bolsonaro e o financiamento de 'Dark Horse'
+doc_type: judicial_decision
+date: '2026-07-22'
+date_precision: day
+source_ids:
+- src-stf-inq5070-representacao-pf-flavio-bolsonaro-dark-horse
+summary: Com anuência da PGR, Mendonça autoriza, com base no art. 21, XV, do RISTF, a instauração de
+  procedimento investigatório vinculado ao INQ 5.026 para apurar a hipótese criminal delineada pela PF sobre o
+  financiamento de 'Dark Horse', envolvendo o senador Flávio Bolsonaro.
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- flavio-bolsonaro
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: INQ 5.070 (ex-Pet 16.369)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

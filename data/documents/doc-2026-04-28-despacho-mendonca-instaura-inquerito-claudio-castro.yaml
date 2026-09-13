@@ -1,0 +1,23 @@
+id: doc-2026-04-28-despacho-mendonca-instaura-inquerito-claudio-castro
+kind: document
+title: Despacho de Mendonça autoriza a instauração de procedimento sobre Cláudio Castro
+doc_type: judicial_decision
+date: '2026-04-28'
+date_precision: day
+source_ids:
+- src-stf-pet15497-representacao-pf-e-despacho-claudio-castro
+summary: Com anuência da PGR, Mendonça autoriza, com base no art. 21, XV, do RISTF, a instauração de
+  procedimento investigatório vinculado ao INQ 5.026 para apurar a hipótese criminal envolvendo Cláudio
+  Castro e a RioPrevidência.
+is_official: true
+related_entity_ids:
+- andre-mendonca
+- claudio-castro
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça
+reference: PET 15.497/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

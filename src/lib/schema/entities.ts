@@ -196,6 +196,11 @@ export const PersonSchema = z
      * Basta um dos dois lados declarar.
      */
     distinct_from: z.array(IdSchema).default([]),
+    /**
+     * Por que a entidade publicada não tem nenhuma ligação no grafo, quando isso é o correto: o
+     * documento a nomeia sem descrever vínculo com mais ninguém. Silencia o aviso de entidade isolada.
+     */
+    isolation_reason: z.string().min(1).optional(),
     category: PersonCategorySchema,
     /** Cargo/função principal no período relevante. */
     role: z.string().min(1),
@@ -251,6 +256,11 @@ export const OrganizationSchema = z
      * Basta um dos dois lados declarar.
      */
     distinct_from: z.array(IdSchema).default([]),
+    /**
+     * Por que a entidade publicada não tem nenhuma ligação no grafo, quando isso é o correto: o
+     * documento a nomeia sem descrever vínculo com mais ninguém. Silencia o aviso de entidade isolada.
+     */
+    isolation_reason: z.string().min(1).optional(),
     org_type: OrgTypeSchema,
     cnpj: z
       .string()

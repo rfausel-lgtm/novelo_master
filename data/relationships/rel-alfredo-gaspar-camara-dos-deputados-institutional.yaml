@@ -1,0 +1,23 @@
+id: rel-alfredo-gaspar-camara-dos-deputados-institutional
+kind: relationship
+from_id: alfredo-gaspar
+to_id: camara-dos-deputados
+relationship_type: institutional
+directed: false
+label: deputado federal; relator da CPMI do INSS
+description: Alfredo Gaspar é deputado federal e foi o relator da CPMI do INSS, cujo parecer a comissão
+  rejeitou por 19 votos a 12 em 28/03/2026.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-senado-2026-03-28-cpmi-do-inss-sem-relatorio-final
+- src-congressoemfoco-2026-03-28-cpmi-derruba-relatorio
+document_ids: []
+review_status: published
+reviewer: sessão de código (saneamento de consistência do grafo)
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

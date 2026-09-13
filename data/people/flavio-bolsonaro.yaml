@@ -55,8 +55,10 @@ cited_position:
 open_questions:
 - A prestação de contas do filme prometida em maio de 2026 não foi localizada pela equipe.
 - O corpus não contém o contrato de confidencialidade mencionado pelo senador.
-- Os inquéritos no STF (relatores André Mendonça e Flávio Dino) não foram lidos pela equipe; o corpus registra apenas
-  a descrição da imprensa.
+- 'RESOLVIDO EM PARTE (13/09/2026): o inquérito relatado por Mendonça foi lido por inteiro — é o INQ 5.070
+  (ex-Pet 16.369), aberto por representação da PF que o cita como interlocutor direto de Vorcaro (não terceiro
+  mencionado) em cobranças de pagamento, reuniões e um recado de véspera da prisão do banqueiro. Mendonça
+  autorizou a instauração em 22/07/2026. Segue sem leitura o inquérito de relatoria de Flávio Dino.'
 - A colaboração premiada de Antonio Carlos Freixo Júnior ('Mineiro'), fechada em 03/09/2026, alega repasses relacionados
   a ele dentro de uma movimentação de cerca de US$ 1 bilhão para Vorcaro — alegação do colaborador, não confirmada
   por prova independente, e sem manifestação pública dele especificamente sobre esse ponto.
@@ -66,6 +68,7 @@ open_questions:
   dois e a coincidência de que a saída de Lopes da campanha se deu em meio à repercussão das mensagens do senador
   com Daniel Vorcaro sobre o financiamento do filme.
 source_ids:
+- src-stf-inq5070-representacao-pf-flavio-bolsonaro-dark-horse
 - src-brasil247-2026-delator-bomba-1-bilhao-vorcaro
 - src-cartacapital-2026-09-01-flavio-evita-explicar
 - src-cartacapital-2026-09-01-novo-repasse-dark-horse
@@ -85,7 +88,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-11'
+updated_at: '2026-09-13'
 photo:
   path: /fotos/flavio-bolsonaro.jpg
   source: Wikimedia Commons

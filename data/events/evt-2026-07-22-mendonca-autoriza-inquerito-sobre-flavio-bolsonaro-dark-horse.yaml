@@ -1,0 +1,39 @@
+id: evt-2026-07-22-mendonca-autoriza-inquerito-sobre-flavio-bolsonaro-dark-horse
+kind: event
+title: Mendonça autoriza inquérito formal sobre Flávio Bolsonaro e o financiamento de 'Dark Horse'
+event_type: judicial_decision
+date: '2026-07-22'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- flavio-bolsonaro
+- eduardo-bolsonaro
+- daniel-vorcaro
+- mario-frias
+- thiago-miranda
+- altieres-santana
+- paulo-calixto
+description: 'A PF representou pela apuração de lavagem de dinheiro, evasão de divisas, corrupção e organização
+  criminosa no financiamento internacional de "Dark Horse", citando Flávio Bolsonaro como interlocutor direto
+  de Daniel Vorcaro — não apenas terceiro mencionado — em mensagens que vão de dezembro/2024 a novembro/2025,
+  incluindo cobranças de pagamento e um recado de véspera da prisão do banqueiro ("Irmão, estou e estarei
+  contigo sempre..."). Também descreve um print atribuído a Eduardo Bolsonaro com instruções sobre gestão de
+  recursos nos EUA. Mendonça autorizou a instauração em 22/07/2026, com anuência da PGR; o feito, antes Pet
+  16.369, foi reautuado como INQ 5.070 em 06/08/2026.'
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-pf-representa-flavio-bolsonaro-por-lavagem-evasao-corrupcao-dark-horse
+- ev-mensagens-mostram-flavio-bolsonaro-cobrando-vorcaro-pelos-pagamentos
+- ev-eduardo-bolsonaro-instrui-gestao-de-recursos-nos-eua
+source_ids:
+- src-stf-inq5070-representacao-pf-flavio-bolsonaro-dark-horse
+document_ids:
+- doc-2026-07-representacao-pf-flavio-bolsonaro-dark-horse
+- doc-2026-07-22-despacho-mendonca-autoriza-inquerito-flavio-bolsonaro
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
