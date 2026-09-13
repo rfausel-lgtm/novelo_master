@@ -1,0 +1,48 @@
+id: rev-2026-09-13-lote-287-o-laranja-por-tras-da-midias-promotora
+kind: revision
+date: '2026-09-13'
+title: 'Lote 287 — o "laranja" por trás da Mídias Promotora, e a comissão de 0,6% que Ricardo Siqueira
+  calculou para si mesmo'
+summary: 'Leitura dos capítulos 8-13 (páginas 42-128) do documento comprobatório da PF na Pet 15.497/DF —
+  capítulos ainda não lidos do mesmo arquivo do lote 285. Achados: (1) a Mídias Promotora, veículo usado
+  para pagar a comissão de Ricardo Siqueira, é formalmente titulada por Gilson Bahia Vasconcelos — pessoa com
+  antecedentes de estelionato e organização criminosa, mandado de prisão recente e histórico de Auxílio
+  Emergencial, cujo perfil destoa de quem movimenta dezenas de milhões; o telefone da empresa na Receita
+  Federal está vinculado a Ricardo Siqueira, não a Gilson; (2) em mensagem de 18/06/2024, o próprio Ricardo
+  Siqueira confirma o percentual de sua comissão — 0,6% sobre valores captados — ao calcular R$ 7,2 milhões
+  sobre R$ 1,2 bilhão; a PF rastreia R$ 41,9 milhões em pagamentos específicos entre dez/2023 e jul/2024 (com
+  ressalva de possível dupla contagem frente a números já publicados no acervo); (3) enriquecimento de um
+  episódio já conhecido: em 01/10/2024, a equipe de Vorcaro conseguiu, via Gilberto Kassab, a retirada do ar
+  de uma notícia sobre os riscos do aporte do Rioprevidência (embora não do vídeo do deputado Luiz Paulo);
+  (4) o total consolidado da PF (R$ 2,98 bilhões) confirma, por fonte primária, a reconciliação já publicada
+  no acervo (lote 163).'
+added:
+  people: 1
+  organizations: 1
+  events: 0
+  documents: 0
+  relationships: 1
+  sources: 1
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'ricardo-siqueira-rodrigues: acrescentado o mecanismo da comissão de 0,6% e a suspeita de testa de ferro
+  na Mídias Promotora.'
+- 'evt-2024-10-vorcaro-pede-contato-com-kassab / ev-pf-vorcaro-aciona-kassab-2024-10: enriquecidos com a
+  data precisa (01/10/2024) e a confirmação, por fonte primária, de que uma notícia foi de fato retirada do
+  ar — upgrade de classificação A para D.'
+- 'doc-2026-09-10-reconciliacao-dos-numeros-do-rioprevidencia-no-master: acrescentada confirmação
+  independente do total de R$ 2,98 bilhões pela PF.'
+author: orquestrador
+affected_ids:
+- ricardo-siqueira-rodrigues
+- gilson-bahia-vasconcelos
+- midias-promotora
+- daniel-vorcaro
+- gilberto-kassab
+reason: Continuação da leitura do documento de 128 páginas do lote 285 — capítulos 8-13, sobre captação de
+  Letras Financeiras e a comissão de Ricardo Siqueira, lidos por subagente a partir do arquivo já baixado
+  localmente (sem necessidade de nova navegação no STF).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

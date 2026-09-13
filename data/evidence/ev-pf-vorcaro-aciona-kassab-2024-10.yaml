@@ -1,15 +1,20 @@
 id: ev-pf-vorcaro-aciona-kassab-2024-10
 kind: evidence
-classification: A
+classification: D
 proposition: Segundo relatório da PF citado pela CNN, em outubro de 2024 Vorcaro escreveu a Augusto Lima
   'Tem que ligar urgente pro kassab' para tentar remover vídeo do deputado Luiz Paulo sobre aportes da
   RioPrevidência no Master; o vídeo não foi removido.
-document_ids: []
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
 source_ids:
 - src-cnn-2026-kassab-video-rioprevidencia
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
 excerpt: Tem que ligar urgente pro kassab
 attributed_to_id: policia-federal
 date: 2024-10
+notes: 'NOVO (13/09/2026, fonte primária): documento da PF na Pet 15.497 data o episódio com precisão em
+  01/10/2024 e acrescenta que a equipe de Vorcaro conseguiu, ainda que o vídeo do deputado não tenha saído
+  do ar, a retirada de uma notícia sobre o tema do site "expresso222.com.br" (hoje inexistente).'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

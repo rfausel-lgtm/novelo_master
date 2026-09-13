@@ -1,0 +1,24 @@
+id: midias-promotora
+kind: organization
+name: Mídias Promotora Ltda
+aliases: []
+org_type: company
+summary: 'Duas empresas com o mesmo nome (CNPJ 37.565.625/0001-00 e 44.758.763/0001-71), formalmente em nome
+  de Gilson Bahia Vasconcelos, mas com telefone cadastrado na Receita Federal vinculado a Ricardo Siqueira
+  Rodrigues — indício, segundo a PF, de estrutura de testa de ferro. Usadas para receber pagamentos do Banco
+  Master relacionados à comissão de intermediação de Ricardo Siqueira nos aportes do Rioprevidência: uma
+  nota fiscal específica de R$ 7.053.615,37 e uma tabela de seis pagamentos entre 22/12/2023 e 19/07/2024
+  somando R$ 41,9 milhões (a PF ressalva possível dupla contagem entre os registros). Uma das duas empresas
+  tem conta bancária apenas no próprio Banco Master; a outra nunca teve relacionamento bancário algum.'
+why_in_novelo: Veículo apontado pela PF para o recebimento e distribuição da comissão paga a Ricardo Siqueira
+  Rodrigues pela intermediação dos aportes do Rioprevidência no Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada até a data desta apuração.
+source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

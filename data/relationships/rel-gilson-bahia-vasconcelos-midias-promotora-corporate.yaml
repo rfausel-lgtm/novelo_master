@@ -1,0 +1,24 @@
+id: rel-gilson-bahia-vasconcelos-midias-promotora-corporate
+kind: relationship
+from_id: gilson-bahia-vasconcelos
+to_id: midias-promotora
+relationship_type: corporate
+directed: false
+label: titular formal, apontado como testa de ferro
+description: Gilson Bahia Vasconcelos é o titular formal de CPF das duas empresas Mídias Promotora Ltda,
+  mas a PF aponta indícios de que atua como testa de ferro de Ricardo Siqueira Rodrigues.
+evidence_class: D
+confidence: 0.6
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-midias-promotora-laranja-com-antecedentes-criminais
+source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

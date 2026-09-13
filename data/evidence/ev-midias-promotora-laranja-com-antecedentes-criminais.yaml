@@ -1,0 +1,27 @@
+id: ev-midias-promotora-laranja-com-antecedentes-criminais
+kind: evidence
+classification: D
+proposition: 'A PF identifica Gilson Bahia Vasconcelos como titular formal das duas empresas "Mídias
+  Promotora Ltda" (CNPJ 37.565.625/0001-00 e 44.758.763/0001-71), usadas para receber pagamentos de comissão
+  do Banco Master a Ricardo Siqueira Rodrigues — mas nota que o telefone cadastrado na Receita Federal para
+  essas empresas está vinculado a Ricardo Siqueira, não a Gilson. Gilson tem histórico de boletins de
+  ocorrência por estelionato e organização criminosa, mandado de prisão recente, e recebeu cinco parcelas de
+  Auxílio Emergencial — perfil incompatível com o de titular de empresas que movimentaram dezenas de milhões
+  de reais. Uma das duas empresas tem conta bancária apenas no próprio Banco Master; a outra nunca teve
+  relacionamento bancário algum.'
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+related_entity_ids:
+- gilson-bahia-vasconcelos
+- midias-promotora
+- ricardo-siqueira-rodrigues
+date: '2026-02-20'
+notes: A PF não esclarece, no trecho lido, se Gilson tinha conhecimento do uso de seu nome/CPF ou se é vítima
+  de fraude de identidade.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

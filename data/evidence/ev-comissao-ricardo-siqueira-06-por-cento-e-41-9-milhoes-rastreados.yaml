@@ -1,0 +1,30 @@
+id: ev-comissao-ricardo-siqueira-06-por-cento-e-41-9-milhoes-rastreados
+kind: evidence
+classification: D
+proposition: 'Em mensagem de 18/06/2024, Ricardo Siqueira Rodrigues informa a Daniel Vorcaro ter captado
+  R$ 1,2 bilhão e calcula seu próprio "bônus de desempenho por coordenação" em 0,6% desse valor — R$ 7,2
+  milhões —, confirmando o percentual da comissão. A PF rastreia, por conversas entre Vorcaro e funcionários
+  do Master (a executiva de tesouraria "Romy" e um interlocutor identificado como "Marcelo Terra Firme"),
+  seis pagamentos à Mídias Promotora entre 22/12/2023 e 19/07/2024 somando R$ 41.900.000,00, com ressalva
+  expressa de que pode haver dupla contagem entre os registros.'
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+related_entity_ids:
+- ricardo-siqueira-rodrigues
+- daniel-vorcaro
+- midias-promotora
+excerpt: bônus de desempenho por coordenação
+date: '2024-06-18'
+notes: 'Reconciliação com números já publicados no acervo: o verbete de Ricardo Siqueira já registrava "ao
+  menos R$ 22,1 milhões" (0,6% de um total menor, aportado até aquele momento) e "R$ 126 milhões" recebidos
+  pela Mídias Promotora do banco entre 2022 e 2025 (escopo mais amplo, todo o relacionamento comercial, não
+  só a comissão do Rioprevidência). Os R$ 41,9 milhões aqui registrados são um terceiro recorte — pagamentos
+  específicos rastreados por conversa dentro do mesmo período — e não substituem nem contradizem os números
+  anteriores; são âmbitos de medição distintos, não reconciliados entre si nesta coleta.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
