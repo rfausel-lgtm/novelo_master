@@ -1,0 +1,23 @@
+id: rel-andre-seixas-maia-tirreno-professional
+kind: relationship
+from_id: andre-seixas-maia
+to_id: tirreno
+relationship_type: professional
+directed: false
+label: diretor desde 15/04/2025
+start_date: '2025-04-15'
+description: André Seixas Maia assumiu a direção da Tirreno em 15/04/2025, segundo a leitura direta do
+  IPL 2025.0087917 registrada no acervo; a empresa havia sido constituída como SX 016 em 04/11/2024.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids: []
+evidence_ids:
+- ev-tirreno-vendia-creditos-fabricados-ao-brb
+source_ids: []
+document_ids: []
+review_status: published
+reviewer: sessão de código (saneamento de consistência do grafo)
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

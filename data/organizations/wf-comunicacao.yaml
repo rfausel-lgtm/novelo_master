@@ -1,0 +1,24 @@
+id: wf-comunicacao
+kind: organization
+name: WF Comunicação
+aliases: []
+org_type: company
+summary: Empresa do advogado Fabio Wajngarten, ex-secretário de Comunicação Social do governo Bolsonaro,
+  segundo a CNN. Recebeu ao menos R$ 3,8 milhões para atuar na defesa de Daniel Vorcaro, segundo
+  documentos da Receita Federal encaminhados à CPI.
+why_in_novelo: É a empresa que recebeu os pagamentos pela atuação de Fabio Wajngarten na defesa de Daniel Vorcaro.
+cited_position:
+- kind: clarification
+  summary: Wajngarten confirmou integrar a equipe de defesa; o contrato tem cláusula de confidencialidade.
+  source_ids:
+  - src-cnn-2026-wajngarten-3-8-milhoes
+  by_id: fabio-wajngarten
+  date: '2026'
+source_ids:
+- src-cnn-2026-wajngarten-3-8-milhoes
+jurisdiction: Brasil
+review_status: published
+reviewer: sessão de código (saneamento de consistência do grafo)
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

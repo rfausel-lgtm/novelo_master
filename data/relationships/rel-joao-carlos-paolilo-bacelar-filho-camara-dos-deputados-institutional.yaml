@@ -1,0 +1,25 @@
+id: rel-joao-carlos-paolilo-bacelar-filho-camara-dos-deputados-institutional
+kind: relationship
+from_id: joao-carlos-paolilo-bacelar-filho
+to_id: camara-dos-deputados
+relationship_type: institutional
+directed: false
+label: deputado federal
+description: João Carlos Paolilo Bacelar Filho é deputado federal, qualificação com que a liminar de
+  09/12/2025 na Reclamação 88.121 lhe deferiu acesso aos autos, por ser "referido nos documentos
+  apreendidos".
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids:
+- ev-rcl88121-liminar-leva-compliance-zero-ao-stf
+source_ids:
+- src-stf-rcl88121-decisao-liminar-09-12-2025
+document_ids:
+- doc-2025-12-09-decisao-liminar-rcl88121-remete-compliance-zero-stf
+review_status: published
+reviewer: sessão de código (saneamento de consistência do grafo)
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

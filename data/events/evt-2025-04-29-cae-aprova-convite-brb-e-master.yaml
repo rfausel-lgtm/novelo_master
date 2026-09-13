@@ -10,6 +10,7 @@ participant_ids:
 - paulo-henrique-costa
 - banco-de-brasilia-brb
 - banco-master
+- comissao-de-assuntos-economicos-senado-federal
 description: A Comissão de Assuntos Econômicos aprovou convite para que os presidentes do Master e do
   BRB prestassem esclarecimentos sobre a aquisição. O requerimento registra que a compra de 58% do capital
   por R$ 2 bilhões equivalia a 75% do patrimônio consolidado do banco público.
@@ -25,4 +26,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-13'

@@ -1,0 +1,27 @@
+id: rel-dgep-empreendimentos-e-participacoes-resort-tayaya-corporate
+kind: relationship
+from_id: dgep-empreendimentos-e-participacoes
+to_id: resort-tayaya
+relationship_type: corporate
+directed: false
+label: incorporadora do resort; cotas transferidas ao fundo Arleen, segundo a CPI
+start_date: '2006'
+description: A DGEP Empreendimentos foi registrada em 2006 como incorporadora do Tayayá, segundo o Fato
+  News. Os requerimentos 160 e 161/2026 da CPI do Crime Organizado afirmam que a Maridt e a DGEP
+  transferiram cotas do resort ao fundo Arleen; a afirmação é do autor dos requerimentos.
+evidence_class: C
+confidence: 0.85
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-cpi-requerimentos-ligam-irmaos-de-toffoli-e-degani-ao-arleen-e-a-carbono-oculto
+source_ids:
+- src-fatonews-2026-03-20-a-longa-ligacao-de-toffoli-com-o-tayaya
+- src-senado-cpicrime-req-160-161-2026-maridt-dgep-arleen
+document_ids:
+- doc-2026-01-27-requerimentos-160-161-cpi-crime-organizado-maridt-dgep
+review_status: published
+reviewer: sessão de código (saneamento de consistência do grafo)
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

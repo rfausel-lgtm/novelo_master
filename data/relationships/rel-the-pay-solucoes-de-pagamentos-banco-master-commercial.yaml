@@ -1,0 +1,28 @@
+id: rel-the-pay-solucoes-de-pagamentos-banco-master-commercial
+kind: relationship
+from_id: the-pay-solucoes-de-pagamentos
+to_id: banco-master
+relationship_type: commercial
+directed: true
+label: originou carteiras que o Master cedeu ao BRB e recomprou em 2025
+start_date: '2024-12'
+description: A The-Pay originou carteiras de crédito consignado que o Banco Master cedeu ao BRB em
+  dezembro de 2024 e recomprou em fevereiro de 2025, após reclamações de titulares que negavam conhecer
+  as operações. O Master informou ao Banco Central recompra de cerca de R$ 303 milhões; o próprio Banco
+  Central, em ofício de agosto de 2025, atribuiu à operação cerca de R$ 1,7 bilhão.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids: []
+evidence_ids:
+- ev-angelo-ribeiro-assina-resposta-the-pay
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+document_ids:
+- doc-2025-03-25-resposta-master-bc-recompra-the-pay
+- doc-2025-08-06-oficio-20035-bc-the-pay-1-7-bilhao
+review_status: published
+reviewer: sessão de código (saneamento de consistência do grafo)
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

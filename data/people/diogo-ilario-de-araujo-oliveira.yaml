@@ -22,8 +22,10 @@ open_questions:
 source_ids:
 - src-stf-inq5026-despacho-28-08-2026-diogo-ilario-saude-investigado
 - src-stf-inq5026-oficio-20476-2026-delegada-palazzo
+isolation_reason: Seu papel no INQ 5.026 não está identificado nas peças lidas; ligá-lo a qualquer
+  entidade seria adivinhar.
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'
 created_at: '2026-09-12'
-updated_at: '2026-09-12'
+updated_at: '2026-09-13'

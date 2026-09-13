@@ -12,6 +12,7 @@ participant_ids:
 - banco-de-brasilia-brb
 - banco-master
 - daniel-vorcaro
+- daniel-lopes-monteiro
 description: O ministro André Mendonça decretou, na PET 15771 (INQ 5026), a prisão preventiva de Paulo
   Henrique Bezerra Rodrigues Costa, ex-presidente do BRB, e do advogado Daniel Lopes Monteiro, a pedido
   da PF com manifestação favorável da PGR. Segundo os autos, o BRB teria adquirido carteiras de crédito
@@ -33,4 +34,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-13'

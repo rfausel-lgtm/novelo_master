@@ -2,6 +2,22 @@
 
 ## Unreleased
 
+- **Consistência das ligações do grafo, e três regras novas no lint.** Uma análise conferiu, ligação
+  por ligação, se o registro e as fontes citadas nomeiam as duas pontas. Nenhuma ligava as pessoas
+  erradas, mas quatro tipos de problema passavam por um lint limpo, porque cada registro, sozinho,
+  era válido: o mesmo fato registrado duas vezes (o contrato Viking–Barci de 12/05/2025 nos lotes 11
+  e 84; os R$ 14 milhões da Pollaris também como pagamento pessoal a Mantega; as emendas de Frias
+  como relação e como transação), pagamento a empresa desenhado para a pessoa (WF Comunicação),
+  lastro sobre outro assunto (a relação de Gonet com o MPF citava a prisão de Paulo Henrique Costa)
+  e 36 entidades sem nenhuma ligação, das quais 30 os documentos já ligavam — sete delas só
+  precisavam do cargo que a ficha já registrava. Correções na revisão
+  `rev-2026-09-13-saneamento-consistencia-das-ligacoes`: 37 relações novas, três registros
+  duplicados removidos, e o grafo passa de 37 componentes para 7 (o corpo principal e seis entidades
+  cujo isolamento é o correto). O lint passa a avisar, e a bloquear no modo estrito, sobre relações
+  do mesmo par com a mesma `start_date`, relação e transação do mesmo par no mesmo ano sem
+  `transaction_ids`, cargo sem relação e entidade sem ligação; a entidade que deve ficar solta
+  declara o motivo no campo novo `isolation_reason`, como `distinct_from` faz para duplicatas.
+
 - **Ordem das atualizações pelo instante de publicação.** Revisões da mesma data eram desempatadas
   pelo texto do id, e revisão que não é lote saía de ordem: `saneamento` subia acima de todos os lotes
   do dia, e `auditoria` e `correcao` afundavam abaixo de todos. Em 12/09/2026 o saneamento de CPFs

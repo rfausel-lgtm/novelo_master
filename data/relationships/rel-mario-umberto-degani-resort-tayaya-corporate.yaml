@@ -1,0 +1,26 @@
+id: rel-mario-umberto-degani-resort-tayaya-corporate
+kind: relationship
+from_id: mario-umberto-degani
+to_id: resort-tayaya
+relationship_type: corporate
+directed: false
+label: fundador; vendeu sua participação em 2025
+start_date: '1999'
+end_date: '2025-07'
+description: Mario Umberto Degani, o Beto Degani, fundou o Resort Tayayá em 1999 e concluiu em julho de
+  2025 a venda de sua participação ao advogado Paulo Humberto Barbosa, segundo duas reportagens.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids: []
+evidence_ids:
+- ev-degani-primo-de-toffoli-vendeu-sua-parte-no-tayaya-a-paulo-humberto-barbosa
+source_ids:
+- src-jornaldebrasilia-2026-01-27-primo-de-toffoli-degani-tayaya
+- src-fatonews-2026-03-20-a-longa-ligacao-de-toffoli-com-o-tayaya
+document_ids: []
+review_status: published
+reviewer: sessão de código (saneamento de consistência do grafo)
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

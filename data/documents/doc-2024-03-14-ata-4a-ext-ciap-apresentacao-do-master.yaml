@@ -5,14 +5,16 @@ doc_type: corporate_record
 date: '2024-03-14'
 source_ids:
 - src-amprev-ata-4a-ext-ciap-2024
-summary: Documento mais revelador do caso do Amapá, e inédito na cobertura. Registra que a reunião ocorreu
-  'por solicitação' do próprio Banco Master, representado por Paula Vouguinha e Alberto Félix Oliveira.
-  A ata recita o histórico da instituição — corretora desde 1974, banco desde 1990, crédito desde 2000,
-  'em 2018 sob a nova gestão de Daniel Vorcaro e Augusto Lima', conglomerado em 2021 — e descreve, em
-  números, a operação de captação junto a investidores institucionais que o banco montara a partir de
-  novembro de 2023. Registra ainda a recomendação do prazo de dez anos e o argumento jurídico, apoiado
-  em parecer de escritório, de que o banco não precisaria constar da lista exaustiva da Secretaria de
-  Previdência.
+summary: "Documento mais revelador do caso do Amapá, e inédito na cobertura. Registra que a reunião
+  ocorreu 'por solicitação' do próprio Banco Master, representado por Paula Vouguinha e Alberto Félix
+  Oliveira. A ata recita o histórico da instituição — corretora desde 1974, banco desde 1990, crédito
+  desde 2000, 'em 2018 sob a nova gestão de Daniel Vorcaro e Augusto Lima', conglomerado em 2021 — e
+  descreve, em números, a operação de captação junto a investidores institucionais que o banco montara a
+  partir de novembro de 2023. Registra ainda a recomendação do prazo de dez anos e o argumento jurídico,
+  apoiado em parecer de escritório, de que o banco não precisaria constar da lista exaustiva da
+  Secretaria de Previdência. Membros do comitê presentes, segundo a verificação de quórum: Jocildo Silva
+  Lemos (coordenador), Alexandre Flávio Medeiros Monteiro, Gláucio Maciel Bezerra, Jackson Rubens de
+  Oliveira e José Milton Afonso Gonçalves."
 is_official: true
 related_entity_ids:
 - amapa-previdencia
@@ -20,6 +22,11 @@ related_entity_ids:
 - paula-vouguinha
 - alberto-felix-oliveira
 - daniel-vorcaro
+- jocildo-lemos
+- alexandre-flavio-medeiros-monteiro
+- glaucio-maciel-bezerra
+- jackson-rubens-de-oliveira
+- jose-milton-afonso-goncalves
 issuer_id: amapa-previdencia
 issuer: Comitê de Investimentos da Amapá Previdência (CIAP)
 date_precision: day
@@ -32,4 +39,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-04'
 created_at: '2026-09-04'
-updated_at: '2026-09-04'
+updated_at: '2026-09-13'

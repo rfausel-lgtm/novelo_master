@@ -19,8 +19,10 @@ open_questions:
   nem se ele já prestou o depoimento cuja oitiva seria adiada.
 source_ids:
 - src-stf-inq5026-decisao-28-08-2026-joao-pedro-leite-nunes-pedidos-prejudicados
+isolation_reason: Investigado no INQ 5.026 cujo vínculo com as demais entidades não é descrito nas peças
+  lidas, que listam as outras partes sob sigilo.
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'
 created_at: '2026-09-12'
-updated_at: '2026-09-12'
+updated_at: '2026-09-13'

@@ -7,7 +7,7 @@ positions:
 - title: Procurador-Geral da República
   organization_id: ministerio-publico-federal
   source_ids:
-  - src-stf-2026-04-16-prisao-ex-presidente-brb
+  - src-conjur-2026-09-manifestacao-gonet-pdf
 summary: Procurador-Geral da República. O relatório da PF sobre o celular de Vorcaro contém seção de pesquisa
   pelos termos 'Paulo Gonet' e identifica menções, em conversas do banqueiro com terceiros, a pessoa que
   'pode se tratar' do PGR. A PGR manifestou-se favoravelmente a medidas nas fases da Compliance Zero.
@@ -87,7 +87,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-10'
+updated_at: '2026-09-13'
 photo:
   path: /fotos/paulo-gonet.jpg
   source: Wikimedia Commons

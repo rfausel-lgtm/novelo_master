@@ -1,0 +1,125 @@
+id: rev-2026-09-13-saneamento-consistencia-das-ligacoes
+kind: revision
+date: '2026-09-13'
+title: 'Saneamento: ligações repetidas, lastro fora do alvo e entidades soltas'
+summary: 'Terceira etapa da manutenção de integridade do grafo — não é apuração nova. Uma análise de consistência
+  conferiu, para cada ligação, se o próprio registro e as fontes citadas nomeiam as duas pontas, e achou quatro
+  tipos de problema. Fatos registrados duas vezes: o contrato Viking–Barci de Moraes de 12/05/2025, os R$ 14
+  milhões do Master à Pollaris desenhados também como pagamento pessoal a Guido Mantega, e as emendas de Mário
+  Frias ao Instituto Conhecer Brasil como relação e como transação. Pagamento à empresa desenhado para a pessoa:
+  os R$ 3,8 milhões da WF Comunicação, que passa a ter registro próprio. Lastro que falava de outra coisa: a
+  relação de Paulo Gonet com o MPF citava a prisão de Paulo Henrique Costa. E 36 pessoas e organizações sem
+  nenhuma ligação, 30 das quais os documentos do acervo já ligavam. O lint ganha três regras para que os quatro
+  tipos não voltem.'
+added:
+  people: 0
+  organizations: 1
+  events: 0
+  documents: 0
+  relationships: 37
+  sources: 0
+  evidence: 0
+updated_relationships: 5
+corrections:
+- 'Fato registrado duas vezes: o 2º contrato da Viking Participações com o escritório Barci de Moraes (12/05/2025)
+  existia como relação contratual (lote 11) e como relação comercial (lote 84). A comercial foi fundida na
+  contratual, que herda suas evidências, fonte e evento.'
+- 'Fato registrado duas vezes: a relação direta Banco Master → Guido Mantega repetia os R$ 14 milhões que o acervo
+  já registra como pagamento à Pollaris Consultoria, empresa de Mantega. Fica a relação Pollaris → Master, que
+  herda a evidência, a fonte e a posição do citado; a relação de consultoria entre Mantega e o banco permanece.'
+- 'Fato registrado duas vezes: as emendas de R$ 2 milhões de Mário Frias ao Instituto Conhecer Brasil existiam
+  como relação e como transação. A transação saiu: emenda é verba pública indicada pelo parlamentar, e o registro
+  desenhava o dinheiro saindo dele.'
+- 'A transação de R$ 3,8 milhões do Banco Master passa a apontar a WF Comunicação, que a fonte identifica como
+  empresa de Fabio Wajngarten, e não mais a pessoa. A empresa ganha registro, ligado a ele.'
+- 'Lastro fora do alvo: a relação de Paulo Gonet com o Ministério Público Federal (e o cargo na ficha dele) citava
+  evidência, fonte e documento sobre a prisão de Paulo Henrique Costa, que não o mencionam. Passa a citar a
+  manifestação que ele assinou como procurador-geral na PET 16.662.'
+- 'Lastro fora do alvo: a relação de Ascendino Madureira Garcia com a Foco DTVM citava uma evidência sobre Daniel
+  Vorcaro; fica apoiada só na fonte que trata dele. O ato de liquidação da CBSF DTVM deixa de apontar Gabriel
+  Galípolo como autor, porque nenhuma das fontes o cita e o texto do ato não foi lido.'
+- 'Conferido e mantido: os cinco conselheiros do comitê da Amprev constam da verificação de quórum da ata de
+  14/03/2024. O registro do documento passa a nomeá-los.'
+- 'Retratação do ciclo 71-86 reaplicada: duas evidências ainda traziam R$ 1,876 bilhão como total aplicado pelos
+  18 regimes próprios; o valor correto é R$ 1,867 bilhão. A fonte da posse de Flávio Dino datava a posse de
+  22/02/2026; a data é 22/02/2024.'
+- 'Entidades soltas: 30 das 36 pessoas e organizações sem ligação passam a tê-la pelo que os documentos já
+  sustentavam — cargos (senadores de Mato Grosso, procuradores, a delegada Janaina Palazzo, dirigentes do BRB, da
+  Cartos, da Tirreno, da The-Pay e do Banco Pleno), a participação nomeada nos próprios eventos (alvos da decisão
+  de 06/01/2026 na PET 15.198, a CAE nas suas audiências, o Galo Forte FIP no bloqueio patrimonial) e vínculos
+  societários (Tayayá, Terra Firme da Bahia, Lormont e FIDC Maranta). As relações atribuídas à polícia entram como
+  alegação (classe A).'
+- 'Entidades que ficam sem ligação, com o motivo declarado no registro: Cláudia Resende Soares da Silva, Karina
+  Resende Oliveira Vorcaro, Diogo Ilário de Araújo Oliveira, João Pedro Leite Nunes, Décio Gabriel Gimenez e Terra
+  Firme Construções e Incorporações. Os documentos as nomeiam sem descrever vínculo com mais ninguém, e ligá-las
+  seria presumir.'
+- 'Participantes que o próprio evento nomeava e não constavam: Marilson Roseno da Silva e Luiz Phillipi Mourão na
+  prisão preventiva de 04/03/2026, Marilson Roseno na decisão da Segunda Turma de 20/03/2026 e Daniel Lopes
+  Monteiro na prisão de 16/04/2026.'
+author: sessão de código
+affected_ids:
+- viking-participacoes
+- barci-de-moraes-sociedade-de-advogados
+- pollaris-consultoria
+- guido-mantega
+- banco-master
+- mario-frias
+- instituto-conhecer-brasil
+- wf-comunicacao
+- fabio-wajngarten
+- paulo-gonet
+- ministerio-publico-federal
+- ascendino-madureira-garcia
+- foco-dtvm
+- reag-investimentos
+- amapa-previdencia
+- flavio-dino
+- supremo-tribunal-federal
+- carlos-favaro
+- jayme-campos
+- wellington-fagundes
+- antonio-carlos-rodrigues
+- joao-carlos-paolilo-bacelar-filho
+- gabriel-pimenta-alves
+- vicente-solari-mandetta
+- janaina-pereira-lima-palazzo
+- dario-oswaldo-garcia-junior
+- roberio-bonfim-mangueira
+- henrique-peretto
+- andre-seixas-maia
+- cartos
+- tirreno
+- daniel-moreira-bezerra
+- alberto-felix-oliveira
+- paula-vouguinha
+- angelo-ribeiro-da-silva
+- guilherme-de-toledo-benazzi
+- neilton-paixao-de-jesus
+- renan-calheiros
+- comissao-de-assuntos-economicos-senado-federal
+- carlos-viana
+- alfredo-gaspar
+- flavio-bolsonaro
+- priscila-franca-parigine
+- roberto-fernandes-de-oliveira-filho
+- the-pay-solucoes-de-pagamentos
+- renata-leme-borges-dos-santos
+- mario-umberto-degani
+- dgep-empreendimentos-e-participacoes
+- resort-tayaya
+- augusto-lima
+- terra-firme-da-bahia
+- voce-pode-saude
+- lormont-participacoes
+- fidc-maranta
+- nelson-tanure
+- galo-forte-fip
+- daniel-vorcaro
+- cesar-reginato-ligeiro
+- vicente-conte-neto
+- ricardo-batista-de-siqueira-xavier
+- tiago-oliva-schietti
+- julia-grasiela-de-oliveira-freixo
+- marilson-roseno-da-silva
+- luiz-phillipi-mourao
+- daniel-lopes-monteiro
