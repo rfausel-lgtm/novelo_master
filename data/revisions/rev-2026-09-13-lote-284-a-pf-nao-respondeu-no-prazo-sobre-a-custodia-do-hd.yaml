@@ -1,0 +1,38 @@
+id: rev-2026-09-13-lote-284-a-pf-nao-respondeu-no-prazo-sobre-a-custodia-do-hd
+kind: revision
+date: '2026-09-13'
+title: 'Lote 284 — a Polícia Federal não respondeu no prazo sobre a custódia do HD do celular de Vorcaro'
+summary: 'Verificação dos andamentos da Pet 16.704 (13/09/2026 em diante): o prazo de 24 horas dado pela
+  Presidência do STF à Polícia Federal em 12/09/2026, para informar sobre a custódia e o estado da cópia
+  lacrada dos dados do celular de Vorcaro, venceu sem qualquer ofício ou informação da PF nos autos. A dois
+  dias da sessão extraordinária de 15/09/2026, a disputa entre os ministros pelo acesso à mídia segue sem
+  resposta oficial sobre seu estado. Achado negativo, mas relevante — enriquece fato já publicado (a disputa
+  pelo HD lacrado), sem evidência nova própria. Enriquecimento adicional (peer fork, Pet 15.198/DF): as
+  petições 33324/2026 e 36726/2026, citadas no agravo do lote 283 como origem da documentação de defesa de
+  Quadrado/Almeida/Aguetoni, são confirmadamente sigilosas — inacessíveis mesmo à conta autenticada do
+  Rafael, não apenas "não lidas por falta de tempo" como registrado antes.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'ev-disputa-pelo-hd-lacrado-do-celular-de-vorcaro-entre-ministros: registrado que o prazo de 24h dado à
+  PF em 12/09 venceu sem resposta nos autos, verificado em 13/09.'
+- 'src-stf-pet15198-peticao-73734-2026-agravo-regimental: confirmado que as petições 33324/2026 e
+  36726/2026 são sigilosas e inacessíveis mesmo à conta autenticada, e detalhado o ciclo de vistas à PGR
+  sem devolução localizável sobre o agravo.'
+author: orquestrador
+affected_ids:
+- andre-mendonca
+- alexandre-de-moraes
+- mauricio-quadrado
+reason: Continuação dos rumos do revisor (lote 276, Bloco 2, item A — cadeia de custódia do HD); verificação
+  via subagente interno, um andamento de cada vez, sem incidente.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
