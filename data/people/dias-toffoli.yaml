@@ -29,10 +29,21 @@ summary: Ministro do STF. Em 11/03/2026, no mesmo dia em que recebeu por distrib
   mencionado em documento apreendido. Como relator do INQ 5.026, em
   janeiro de 2026 mandou reservar salas do STF para as oitivas da PF, estendeu a quebra de sigilo bancário
   aos dados consolidados do FGC e ratificou as medidas de primeiro grau; no dia em que deixou a relatoria,
-  determinou que a PF enviasse ao STF, na íntegra, o conteúdo dos aparelhos apreendidos.
+  determinou que a PF enviasse ao STF, na íntegra, o conteúdo dos aparelhos apreendidos. Em 10/09/2026, a piauí revelou relatório da PF sob sigilo que
+  levanta a hipótese de ele ser beneficiário final do fundo Arleen, que recebeu R$ 35 milhões de Vorcaro (ver
+  ev-pf-hipotese-de-que-toffoli-seria-beneficiario-final-do-fundo-arleen); o gabinete nega.
 why_in_novelo: Foi o primeiro relator do caso Master no STF (Rcl 88.121 e INQ 5.026) até 12/02/2026 e declarou-se
   impedido no MS 40.791, sobre a CPI do Master, em 11/03/2026.
 cited_position:
+- kind: denial
+  summary: Diante da revelação do relatório da PF, o gabinete afirmou que ele "jamais manteve ou teve direta ou
+    indiretamente recursos no exterior" e "jamais realizou qualquer operação direta ou indiretamente nas Ilhas Virgens
+    Britânicas", e negou alteração de voto no caso de precatórios citado.
+  source_ids:
+  - src-brasil247-2026-09-11-relatorio-pf-toffoli-arleen
+  - src-ac24horas-2026-09-11-toffoli-beneficiario-fundo-vorcaro
+  by_id: dias-toffoli
+  date: '2026-09-11'
 - date: '2026-02-12'
   by_id: dias-toffoli
   kind: denial
@@ -79,6 +90,8 @@ open_questions:
 source_ids:
 - src-apublica-2026-02-12-nota-pedido-suspeicao-toffoli-pf
 - src-stf-portal-ms40791-andamentos-2026-09-12
+- src-brasil247-2026-09-11-relatorio-pf-toffoli-arleen
+- src-gazetadopovo-2026-09-11-fachin-mantem-suspeicao-toffoli-sob-sigilo
 - src-blogdodina-2026-05-01-toffoli-suspende-investigacao-daniel-leite
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-cnnbrasil-2025-12-20-advogado-passageiros-torcedores

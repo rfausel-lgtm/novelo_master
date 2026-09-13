@@ -1,0 +1,33 @@
+id: rev-2026-09-12-lote-262-a-hipotese-da-pf-sobre-toffoli-e-o-fundo-arleen
+kind: revision
+date: '2026-09-12'
+title: 'Lote 262 — a hipótese da PF de que Toffoli seria o dono de fato do fundo Arleen'
+summary: 'A revista piauí revelou em 10/09/2026 um relatório da Polícia Federal, entregue ao presidente do STF e mantido
+  sob sigilo, que levanta a hipótese de o ministro Dias Toffoli ser "beneficiário final" ou "proprietário de fato" do
+  FIP Arleen — o fundo que comprou cotas do resort Tayayá da família dele, recebeu R$ 35 milhões de Daniel Vorcaro e
+  mandou cerca de R$ 34 milhões a uma holding nas Ilhas Virgens Britânicas. Outra reportagem cita mensagens em que Vorcaro
+  e Fabiano Zettel tratam de ao menos R$ 20 milhões do Arleen à Maridt, empresa da família, depois de um contrato de
+  2024. O gabinete nega recursos e operações no exterior. Registrado como hipótese da PF, conhecida só por imprensa,
+  com divergência sobre o tamanho e o número do relatório.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 4
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'dias-toffoli: incluídas a menção ao relatório e a negativa do gabinete de 11/09/2026.'
+author: orquestrador
+affected_ids:
+- dias-toffoli
+- daniel-vorcaro
+- fabiano-zettel
+- maridt-participacoes
+reason: Apuração de uma sessão paralela do projeto, conferida aqui em quatro veículos que repercutem a piauí. A
+  reportagem original e o relatório não foram lidos diretamente.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

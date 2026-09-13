@@ -1,0 +1,19 @@
+id: ev-pf-mensagens-indicam-20-milhoes-do-arleen-a-maridt-apos-contrato-de-2024
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, mensagens entre Daniel Vorcaro e Fabiano Zettel indicam pagamentos de pelo menos
+  R$ 20 milhões do fundo Arleen à Maridt, empresa da família de Dias Toffoli, depois de um contrato firmado em 2024.
+document_ids: []
+source_ids:
+- src-gazetadopovo-2026-09-11-fachin-mantem-suspeicao-toffoli-sob-sigilo
+attributed_to: Polícia Federal, em relatório sob sigilo entregue ao presidente do STF, segundo a Gazeta do Povo (11/09/2026)
+date: '2026-09-11'
+notes: 'É um fluxo distinto dos R$ 35 milhões de Vorcaro ao Arleen, e as fontes não reconciliam os dois valores. O acervo
+  registra, pela nota do ministro de 12/02/2026, que a Maridt vendeu cotas do resort Tayayá ao Arleen em 2021 e o saldo
+  à PHD Holding em 21/02/2025, a valor de mercado e com declaração à Receita (ver ev-toffoli-nota-nega-valores). O
+  contrato de 2024 citado não foi localizado. Hipótese investigativa, em fonte única de imprensa.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

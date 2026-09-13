@@ -1,0 +1,29 @@
+id: ev-pf-hipotese-de-que-toffoli-seria-beneficiario-final-do-fundo-arleen
+kind: evidence
+classification: A
+proposition: Segundo relatório da Polícia Federal entregue ao presidente do STF e revelado pela revista piauí em
+  10/09/2026, a PF levanta a hipótese de que o ministro Dias Toffoli seja "beneficiário final" ou "proprietário de fato"
+  do FIP Arleen, fundo que recebeu R$ 35 milhões de Daniel Vorcaro e transferiu cerca de R$ 34 milhões, em dezembro de
+  2025, à holding Egide I, nas Ilhas Virgens Britânicas; o gabinete de Toffoli nega ter tido recursos no exterior ou
+  operado naquele território.
+document_ids: []
+source_ids:
+- src-brasil247-2026-09-11-relatorio-pf-toffoli-arleen
+- src-ncnews-2026-09-11-relatorio-pf-toffoli-196-paginas
+- src-ac24horas-2026-09-11-toffoli-beneficiario-fundo-vorcaro
+- src-gazetadopovo-2026-09-11-fachin-mantem-suspeicao-toffoli-sob-sigilo
+attributed_to: Polícia Federal, em relatório sob sigilo descrito pela revista piauí (10/09/2026) e repercutido por outros veículos
+date: '2026-09-10'
+notes: 'Hipótese investigativa: os veículos registram que a PF pede "aprofundamento analítico" e não afirma conclusão.
+  O relatório não foi lido pelo acervo, e as descrições divergem — um veículo o identifica como IPJ-A nº 893171/2026, com
+  mais de 80 páginas; outro fala em 196 páginas assinadas por quatro delegados e entregues a Edson Fachin em fevereiro,
+  o que pode indicar mais de uma peça. Segundo um dos veículos, o Arleen teve o regulamento alterado em março de 2025
+  para permitir aplicação no exterior, e o relatório também recomenda aprofundar a apuração sobre possível influência
+  de Vorcaro num voto de Toffoli sobre precatórios, o que o gabinete nega. A cadeia de cotistas do Arleen está em
+  ev-cadeia-zettel-fundo-leal-arleen-participacao-maridt-tayaya. Sem denúncia ou investigação formal aberta contra o
+  ministro localizada no acervo.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
