@@ -1,0 +1,28 @@
+id: src-stf-inq5026-brb-nota-executiva-2025-012-carteira-adicional-master
+kind: source
+title: Nota executiva conjunta do BRB que propôs comprar mais R$ 450 milhões em carteira Credcesta do Master (03/04/2025)
+publisher: BRB — Banco de Brasília S.A.
+author: Diretoria Executiva de Finanças e Controladoria do BRB (DIFIC/SUOPE/GEOPE/GECEC)
+publication_date: '2025-04-03'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347
+source_type: other
+summary: 'Nota Executiva Conjunta DIFIC/SUOPE/GEOPE/GECEC 2025/012, reservada, dirigida ao Comitê de Negócios e à Diretoria
+  Colegiada do BRB. Propõe limite de até R$ 450 milhões para comprar nova tranche de carteira de cartão de benefício
+  consignado do Banco Master, a taxa mínima de 2,20% ao mês, atendendo a pedido da Diretoria Colegiada de 20/03/2025,
+  que já havia aprovado a compra de R$ 750 milhões. Registra que até 14/03/2025 o BRB comprara R$ 7,7 bilhões em saldo
+  contábil de consignado do Master, vincula a estratégia ao "Projeto Vértice" de incorporação do Master e traz
+  recomendação da área de risco de que, para uma análise mais precisa, era condição necessária o envio da base de
+  clientes a ser adquirida "ou pelo menos uma amostra fidedigna, o que não ocorreu no presente processo".'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele), juntada ao INQ 5.026 em
+  12/05/2026. A nota é uma proposta às alçadas do banco; o desfecho da deliberação não consta dela.'
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

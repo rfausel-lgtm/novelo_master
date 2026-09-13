@@ -1,0 +1,29 @@
+id: rev-2026-09-12-lote-259-o-brb-queria-comprar-mais-sem-ver-a-amostra
+kind: revision
+date: '2026-09-12'
+title: 'Lote 259 — o BRB queria comprar mais R$ 450 milhões do Master sem ter visto a amostra'
+summary: 'Em 03/04/2025, seis dias depois de anunciar a compra do Master, o BRB preparou internamente uma proposta para
+  comprar mais R$ 450 milhões em carteira de consignado do banco — somando-se a R$ 750 milhões aprovados em março e aos
+  R$ 7,7 bilhões já adquiridos. A mesma nota registra que a área de risco não recebera a base de clientes "ou pelo menos
+  uma amostra fidedigna". No dia seguinte, o grupo de trabalho do próprio BRB concluiria que 114.626 contratos dessas
+  carteiras tinham numeração padronizada. O documento, juntado ao INQ 5.026, não diz se o limite foi aprovado.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- banco-de-brasilia-brb
+- banco-master
+- credcesta
+reason: Continuação da leitura do bloco de 12/05/2026 do INQ 5.026 via peticionamento.stf.jus.br (sessão autenticada
+  pelo próprio Rafael).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

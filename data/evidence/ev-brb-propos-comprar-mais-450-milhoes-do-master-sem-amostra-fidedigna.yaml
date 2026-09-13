@@ -1,0 +1,23 @@
+id: ev-brb-propos-comprar-mais-450-milhoes-do-master-sem-amostra-fidedigna
+kind: evidence
+classification: D
+proposition: Em 03/04/2025, uma nota executiva interna do BRB propôs limite de até R$ 450 milhões para comprar mais
+  carteira de consignado Credcesta do Banco Master — além de R$ 750 milhões aprovados em 20/03/2025 e de R$ 7,7 bilhões
+  já comprados até 14/03/2025 —, embora a própria nota registre, entre as recomendações da área de risco, que não havia
+  sido enviada a base de clientes a ser adquirida "ou pelo menos uma amostra fidedigna".
+document_ids:
+- doc-2025-04-03-nota-executiva-brb-2025-012-carteira-adicional-master
+source_ids:
+- src-stf-inq5026-brb-nota-executiva-2025-012-carteira-adicional-master
+date: '2025-04-03'
+notes: 'A proposta é do dia anterior à conclusão do relatório do grupo de trabalho do BRB que identificou 114.626
+  contratos com numeração padronizada e registrou que as CCBs das tranches ainda não tinham sido acessadas (ver
+  ev-brb-relatorio-de-abril-de-2025-achou-114-mil-contratos-padronizados-sem-citar-tirreno), e de seis dias depois do
+  fato relevante sobre a compra do Master pelo BRB. A nota diz que a compra de carteiras está "em consonância ao Projeto
+  Vértice", referência estratégica que não detalha, e estima contribuição de cerca de R$ 78 milhões ao plano de
+  negócios. O documento não informa se o limite foi aprovado.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
