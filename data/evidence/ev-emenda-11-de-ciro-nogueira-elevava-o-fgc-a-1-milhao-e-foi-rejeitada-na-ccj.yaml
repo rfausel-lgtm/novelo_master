@@ -1,0 +1,22 @@
+id: ev-emenda-11-de-ciro-nogueira-elevava-o-fgc-a-1-milhao-e-foi-rejeitada-na-ccj
+kind: evidence
+classification: D
+proposition: A Emenda nº 11 à PEC 65/2023, apresentada por Ciro Nogueira em 13/08/2024, elevava a garantia do FGC de R$
+  250 mil para R$ 1 milhão por pessoa e atribuía ao fundo "função pública, inclusive por delegação"; em 10/06/2026, a CCJ
+  do Senado aprovou parecer do relator Plínio Valério favorável à PEC na forma de substitutivo e contrário à Emenda nº 11.
+document_ids:
+- doc-2024-08-13-emenda-11-pec-65-2023-ciro-nogueira
+- doc-2026-06-10-parecer-ccj-47-2026-pec-65
+source_ids:
+- src-senado-emenda-11-pec-65-2023-ciro-nogueira
+- src-senado-parecer-ccj-47-2026-pec-65
+date: '2024-08-13'
+notes: 'Resolve a pendência do perfil de Ciro Nogueira sobre o texto e a data da emenda. Segundo a PF, citada na decisão da
+  Pet 15.873, o texto teria sido redigido pela assessoria do Master e entregue na residência do senador (ver
+  ev-pf-vorcaro-mandou-buscar-na-casa-de-ciro-minutas-de-projetos-de-lei) — autoria que o STF reporta no condicional; os
+  documentos do Senado provam o conteúdo e a rejeição, não a autoria.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

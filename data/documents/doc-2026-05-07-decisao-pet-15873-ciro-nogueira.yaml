@@ -10,6 +10,7 @@ reference: Pet 15873
 url: https://noticias.stf.jus.br/postsnoticias/stf-autoriza-nova-fase-da-operacao-compliance-zero/
 source_ids:
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
+- src-stf-pet15873-decisao-07-05-2026-integra
 summary: Decisão que autorizou nova fase da operação, decretou prisão temporária de Felipe Cançado Vorcaro
   e impôs cautelares ao senador Ciro Nogueira e a outros investigados; descreve as suspeitas apresentadas
   pela PF (emenda à PEC 65/2023 sobre o FGC, pagamentos e vantagens).
@@ -29,4 +30,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-12'

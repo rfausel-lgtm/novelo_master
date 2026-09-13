@@ -34,10 +34,14 @@ cited_position:
   source_ids:
   - src-metropoles-2026-05-07-defesa-ciro
 open_questions:
-- A data e o teor exato da emenda à PEC 65/2023 devem ser confirmados em fonte primária do Senado.
-- A data e o texto exato da Emenda nº 11 devem ser confirmados no documento do Senado (não lido pela equipe).
+- 'RESOLVIDO (lote 264): a Emenda nº 11 à PEC 65/2023 foi apresentada em 13/08/2024, elevava a garantia do FGC a R$ 1
+  milhão e foi rejeitada pela CCJ em 10/06/2026 (ver ev-emenda-11-de-ciro-nogueira-elevava-o-fgc-a-1-milhao-e-foi-rejeitada-na-ccj).'
 source_ids:
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
+- src-senado-emenda-11-pec-65-2023-ciro-nogueira
+- src-senado-parecer-ccj-47-2026-pec-65
+- src-stf-pet15873-decisao-07-05-2026-integra
+- src-stf-portal-pet15674-andamentos-2026-09-12
 - src-jdb-2026-05-12-ciro-nega-emenda
 - src-metropoles-2026-05-07-defesa-ciro
 - src-senado-plp-135-2026-fgc
@@ -45,7 +49,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-12'
 photo:
   path: /fotos/ciro-nogueira.jpg
   source: Wikimedia Commons

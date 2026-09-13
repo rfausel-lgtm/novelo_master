@@ -1,0 +1,24 @@
+id: ev-pf-empresa-do-irmao-de-ciro-comprou-30-por-cento-da-green-por-1-milhao
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, citada na decisão da Pet 15.873, a CNLF Empreendimentos Imobiliários, administrada
+  formalmente por Raimundo Neto e Silva Nogueira Lima, irmão de Ciro Nogueira, comprou 30% da Green Investimentos por R$ 1
+  milhão quando o valor dessas ações era de cerca de R$ 13,06 milhões, e recebeu repasses mensais de R$ 300 mil, depois R$
+  500 mil, pela "parceria BRGD/CNLF" — BRGD S.A. dirigida por Oscar Vorcaro, pai de Felipe Cançado Vorcaro.
+document_ids:
+- doc-2026-05-07-decisao-pet-15873-ciro-nogueira
+source_ids:
+- src-stf-pet15873-decisao-07-05-2026-integra
+attributed_to: Polícia Federal, em representação acolhida por André Mendonça na decisão de 07/05/2026 da Pet 15.873
+date: '2024-07-25'
+notes: 'A decisão transcreve mensagens em que Felipe pergunta a Daniel Vorcaro, em 21 e 24/06/2024 e 25/07/2024, se segue
+  "pagando a parceria brgd/cnlf? 300k mes?", e Vorcaro responde "Sim", dizendo que seria algo "muito importante". Segundo
+  Felipe, a Green Investimentos recebeu R$ 2,4 milhões de dividendos anuais pela participação de 20% na Trinity Energias
+  Renováveis. A decisão também descreve vantagens pessoais custeadas por Vorcaro — hospedagem no Park Hyatt de Nova York,
+  restaurantes, viagens e um cartão para despesas —, com Léo Serrano como intermediário; o nome da acompanhante citada não
+  é reproduzido. Hipótese investigativa, sem denúncia.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

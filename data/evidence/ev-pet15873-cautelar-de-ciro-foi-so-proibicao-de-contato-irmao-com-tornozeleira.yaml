@@ -1,0 +1,21 @@
+id: ev-pet15873-cautelar-de-ciro-foi-so-proibicao-de-contato-irmao-com-tornozeleira
+kind: evidence
+classification: D
+proposition: Na decisão de 07/05/2026 da Pet 15.873, a única medida imposta ao senador Ciro Nogueira foi a proibição de
+  contato com testemunhas e investigados da Compliance Zero; o irmão dele, Raimundo Neto e Silva Nogueira Lima, e Bernardo
+  Rodrigues de Oliveira Filho, descrito como operador de inserção de dinheiro em espécie, receberam proibição de contato,
+  de sair do município e do país, com entrega de passaporte, e tornozeleira eletrônica; Felipe Cançado Vorcaro teve
+  prisão temporária decretada, e quatro empresas tiveram as atividades suspensas.
+document_ids:
+- doc-2026-05-07-decisao-pet-15873-ciro-nogueira
+source_ids:
+- src-stf-pet15873-decisao-07-05-2026-integra
+date: '2026-05-07'
+notes: 'As empresas suspensas são CNLF Empreendimentos Imobiliários, BRGD S.A., Green Investimentos S.A. e Green Energia
+  FIP Multiestratégia. O MPF concordou integralmente com a representação. Detalha o registro genérico de
+  ev-stf-nova-fase-ciro-nogueira-2026-05-07, que falava em cautelares ao senador sem especificá-las.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

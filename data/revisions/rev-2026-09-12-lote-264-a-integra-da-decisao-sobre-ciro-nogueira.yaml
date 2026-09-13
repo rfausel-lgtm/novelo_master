@@ -1,0 +1,36 @@
+id: rev-2026-09-12-lote-264-a-integra-da-decisao-sobre-ciro-nogueira
+kind: revision
+date: '2026-09-12'
+title: 'Lote 264 — a íntegra da decisão sobre Ciro Nogueira, e o fim da emenda do FGC'
+summary: 'O acervo tinha a fase de 07/05/2026 contra Ciro Nogueira só pelo resumo oficial. Na íntegra da decisão, a PF
+  descreve a emenda que elevava o FGC a R$ 1 milhão chegando à casa do senador em envelope e a frase de Vorcaro "saiu
+  exatamente como mandei"; minutas de dois projetos de lei retiradas da mesma casa em novembro de 2023, com cuidado para o
+  motorista não ligar o transporte ao parlamentar; a empresa do irmão dele comprando por R$ 1 milhão ações avaliadas em
+  R$ 13 milhões; e repasses mensais de R$ 300 mil a R$ 500 mil. Contra o senador, a única cautelar foi a proibição de
+  contato; a tornozeleira ficou com o irmão e um operador. E o Senado fechou a outra ponta: a emenda, apresentada em
+  13/08/2024, foi rejeitada pela CCJ em 10/06/2026.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 2
+  relationships: 0
+  sources: 3
+  evidence: 4
+updated_relationships: 0
+corrections:
+- 'ciro-nogueira: resolvidas as pendências sobre texto e data da Emenda nº 11.'
+- 'doc-2026-05-07-decisao-pet-15873-ciro-nogueira: vinculada a íntegra da decisão.'
+author: orquestrador
+affected_ids:
+- ciro-nogueira
+- felipe-cancado-vorcaro
+- daniel-vorcaro
+- andre-kruschewsky-lima
+- fgc
+reason: Apuração de uma sessão paralela do projeto; a decisão, a emenda e o parecer foram lidos aqui nos arquivos obtidos
+  por ela. Ficaram de fora, por falta de lastro suficiente, uma lista manuscrita de nomes noticiada por um único veículo
+  pequeno e a composição societária familiar da CNLF, de fonte secundária.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

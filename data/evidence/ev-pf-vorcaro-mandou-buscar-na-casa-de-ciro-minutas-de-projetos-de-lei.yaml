@@ -1,0 +1,23 @@
+id: ev-pf-vorcaro-mandou-buscar-na-casa-de-ciro-minutas-de-projetos-de-lei
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, citada na decisão de 07/05/2026 na Pet 15.873, a emenda do FGC foi enviada por
+  André Kruschewsky Lima a Daniel Vorcaro, impressa e entregue em envelope endereçado a "Ciro" na residência do senador,
+  que a reproduziu integralmente — e Vorcaro comentou que "saiu exatamente como mandei"; e, em novembro de 2023, Vorcaro
+  mandou retirar da casa do senador envelopes com minutas dos PLs 5.174/2023 e 412/2022, revisadas num "escritório" e
+  devolvidas com cuidado "para que o motorista não consiga vincular o transporte do documento ao parlamentar".
+document_ids:
+- doc-2026-05-07-decisao-pet-15873-ciro-nogueira
+source_ids:
+- src-stf-pet15873-decisao-07-05-2026-integra
+attributed_to: Polícia Federal, em representação acolhida por André Mendonça na decisão de 07/05/2026 da Pet 15.873
+date: '2023-11'
+notes: 'O PL 5.174/2023 institui o Programa de Aceleração da Transição Energética e o PL 412/2022 o Sistema Brasileiro de
+  Comércio de Emissões. A decisão registra ainda que interlocutores do banco disseram que a emenda do FGC "sextuplicaria"
+  o negócio do Master. O STF descreve a autoria no condicional, e o lastro é de mensagens e da comparação feita pela PF.
+  Sem denúncia contra o senador.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
