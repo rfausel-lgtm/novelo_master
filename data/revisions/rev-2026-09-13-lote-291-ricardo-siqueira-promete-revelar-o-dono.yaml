@@ -1,0 +1,29 @@
+id: rev-2026-09-13-lote-291-ricardo-siqueira-promete-revelar-o-dono
+kind: revision
+date: '2026-09-13'
+title: 'Lote 291 — Ricardo Siqueira promete revelar à PF quem é o "dono" do esquema no Rioprevidência'
+summary: 'Achado do 9º ciclo do agente de monitoramento de imprensa, verificado por WebFetch direto: em sua
+  primeira entrevista à imprensa desde que passou a ser publicamente investigado, Ricardo Siqueira Rodrigues
+  afirmou que revelará à PF a identidade do "dono" do esquema — disse que é um político ainda não citado nas
+  investigações, mas não o nomeou publicamente. É uma promessa de revelação futura, não uma divulgação já
+  feita; a identidade continua desconhecida.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'ricardo-siqueira-rodrigues: acrescentada a promessa de revelar a identidade do "dono" à PF, feita em
+  entrevista de 13/09/2026.'
+author: orquestrador
+affected_ids:
+- ricardo-siqueira-rodrigues
+reason: Achado do 9º ciclo do agente de monitoramento de imprensa a cada 15 minutos; verificado por WebFetch
+  antes da publicação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
