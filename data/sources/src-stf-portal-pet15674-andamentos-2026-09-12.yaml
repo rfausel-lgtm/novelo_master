@@ -1,0 +1,25 @@
+id: src-stf-portal-pet15674-andamentos-2026-09-12
+kind: source
+title: Andamentos públicos da PET 15.674 — pedido da PF contra Ciro Nogueira, vinculado ao INQ 5.026
+publisher: Supremo Tribunal Federal
+publication_date: '2026-08-21'
+retrieved_at: '2026-09-12'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7529999
+source_type: official_court
+summary: 'Página pública da PET 15.674, classe criminal, com requerente "Delegado de Polícia Federal" e requerido Ciro
+  Nogueira Lima Filho. Protocolada e autuada em 12/03/2026 e distribuída por prevenção a André Mendonça, com o INQ
+  5.026 como processo que justifica. Registra dezenas de petições sigilosas entre março e agosto de 2026, vistas à PGR, e
+  despacho de Mendonça de 20/08/2026 que, a pedido da autoridade policial, prorroga por 60 dias o prazo para
+  diligências complementares "imprescindíveis para a ultimação das investigações". Última movimentação visível em
+  03/09/2026.'
+notes: Consulta direta ao portal público, sem autenticação. O conteúdo das peças segue sigiloso.
+verification:
+  checked_at: '2026-09-12'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

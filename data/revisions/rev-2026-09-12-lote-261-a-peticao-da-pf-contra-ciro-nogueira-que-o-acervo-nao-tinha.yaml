@@ -1,0 +1,26 @@
+id: rev-2026-09-12-lote-261-a-peticao-da-pf-contra-ciro-nogueira-que-o-acervo-nao-tinha
+kind: revision
+date: '2026-09-12'
+title: 'Lote 261 — a petição da PF contra Ciro Nogueira que o acervo não tinha'
+summary: 'Além da Pet 15.873, que levou à fase de 07/05/2026, o senador Ciro Nogueira é requerido numa segunda petição da
+  Polícia Federal no STF: a PET 15.674, aberta em 12/03/2026 por prevenção ao INQ 5.026. O processo tem dezenas de
+  petições sigilosas e, em 20/08/2026, André Mendonça concedeu à PF mais 60 dias de diligências "imprescindíveis para
+  a ultimação das investigações". O conteúdo segue sob sigilo.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- ciro-nogueira
+- andre-mendonca
+reason: Pista levantada por uma sessão paralela do projeto e conferida nos andamentos públicos do portal do STF.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
