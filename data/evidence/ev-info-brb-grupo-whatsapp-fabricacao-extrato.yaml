@@ -9,12 +9,16 @@ document_ids:
 - doc-2026-06-22-decisao-pet15478-sigilo-tirreno-brb
 source_ids:
 - src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
+- src-stf-inq5026-ipja-1252786-2026-celular-vorcaro-tirreno
 attributed_to: Autoridade policial, encampada pelo MPF e citada na decisão de André Mendonça
 date: '2026-06-22'
 notes: Nome próprio do grupo ("INFO-BRB") e cadeia de comando específica (Vorcaro determina, Ribeiro e
   Félix executam) inéditos no acervo até esta leitura — os perfis de ambos já cobriam seus cargos formais
   no Master (tesoureiro e diretor), mas não este episódio específico de fabricação documental nem o nome
-  do grupo de WhatsApp.
+  do grupo de WhatsApp. A IPJ-A nº 1252786/2026 (lote 254) dá os números — o extrato da conta vinculada da Tirreno
+  enviado no grupo, com emissão em 23/06/2025, soma R$ 6,40 bilhões, e o do mesmo período entregue ao Banco Central,
+  emitido em 04/06/2025, R$ 6,70 bilhões; para a PF, lançamentos anteriores às duas emissões aparecem num e não no
+  outro, o que indica alteração, e Vorcaro disse no grupo que o saldo deveria ser maior.
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'

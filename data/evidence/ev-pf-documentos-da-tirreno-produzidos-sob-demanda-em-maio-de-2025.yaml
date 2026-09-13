@@ -1,0 +1,26 @@
+id: ev-pf-documentos-da-tirreno-produzidos-sob-demanda-em-maio-de-2025
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, os contratos entre o Banco Master e a Tirreno, apresentados como celebrados entre
+  dezembro de 2024 e janeiro de 2025, foram assinados e produzidos em maio de 2025 — as autenticações em cartório são de
+  13 e 14/05/2025, logo depois de Paulo Henrique Costa, então presidente do BRB, repassar a pendência a Vorcaro; um
+  instrumento de mandato dado como finalizado em 24/05/2025 traz data de 05/12/2024; e uma versão do contrato de
+  parceria citava memorando de 06/05/2024, anterior à própria criação da Tirreno.
+document_ids:
+- doc-2026-03-11-ipja-1252786-analise-celular-vorcaro-tirreno-brb
+source_ids:
+- src-stf-inq5026-ipja-1252786-2026-celular-vorcaro-tirreno
+attributed_to: Polícia Federal, na IPJ-A nº 1252786/2026 (análise do celular de Daniel Vorcaro), juntada ao INQ 5.026
+date: '2025-05-13'
+notes: 'Complementa ev-tirreno-ata-antedatada-peretto-seixas-maia (lote 238), que tratava só da ata de 02/12/2024
+  enviada em abril de 2025. Pelo relatório, o CNPJ da Tirreno foi criado em 01/10/2024, e a referência ao memorando
+  foi retirada em 06/06/2025 porque, nas palavras de Ângelo Ribeiro da Silva citadas pela PF, era preciso tirar "a
+  referência do MOU com o Pereto e qq outra vinculação". A PF também registra que a palavra "Tirreno" só aparece nas
+  conversas de Vorcaro com seu advogado em 02/05/2025 e com Ângelo em 06/05/2025, embora as operações atribuídas à
+  empresa tivessem começado em janeiro, e lê a ausência como indício de que a Tirreno não originou os créditos.
+  Hipótese investigativa, sem denúncia até a data mais recente disponível.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

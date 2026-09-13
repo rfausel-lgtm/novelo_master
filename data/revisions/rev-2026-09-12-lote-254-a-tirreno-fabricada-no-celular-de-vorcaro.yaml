@@ -1,0 +1,40 @@
+id: rev-2026-09-12-lote-254-a-tirreno-fabricada-no-celular-de-vorcaro
+kind: revision
+date: '2026-09-12'
+title: 'Lote 254 — a Tirreno fabricada, contada pelo celular de Vorcaro'
+summary: 'Primeira leitura do relatório de 228 páginas em que a Polícia Federal analisou as conversas do celular de Daniel
+  Vorcaro sobre as cessões de crédito ao BRB, juntado ao INQ 5.026 em maio. Pela PF, os contratos com a Tirreno datados
+  de 2024 foram assinados e autenticados em maio de 2025, logo depois de o presidente do BRB cobrar a pendência; a
+  resposta da Cartos ao Banco Central começou dizendo que a Tirreno originara só R$ 546 mil e foi reescrita até afirmar
+  que a Cartos não tinha acesso a nada; o escritório de Daniel Lopes Monteiro redigia documentos em nome da Tirreno sob
+  revisão de Vorcaro ("Estamos notificando pra passar para os outros nao para assumir"); e Paulo Henrique Costa,
+  alertado desde outubro de 2024 sobre carteiras inconsistentes, respondeu a Vorcaro "Estamos juntos mesmo para a
+  vida". Tudo registrado como alegação da PF, sem denúncia.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 4
+updated_relationships: 0
+corrections:
+- 'ev-info-brb-grupo-whatsapp-fabricacao-extrato: acrescentados os saldos divergentes dos dois extratos da conta da
+  Tirreno, segundo a IPJ-A nº 1252786/2026.'
+author: orquestrador
+affected_ids:
+- daniel-vorcaro
+- paulo-henrique-costa
+- henrique-peretto
+- daniel-lopes-monteiro
+- angelo-ribeiro-da-silva
+- tirreno
+reason: Mineração das peças de 12/05/2026 do INQ 5.026 via peticionamento.stf.jus.br (sessão autenticada pelo próprio
+  Rafael). O bloco reúne relatórios de análise de celulares da PF (Vorcaro, Augusto Lima, Paulo Henrique Costa,
+  Henrique Peretto, André Seixas Maia), relatórios internos do BRB sobre as carteiras compradas e uma análise do HD
+  entregue pelo liquidante do Master — material para os próximos lotes. Números de telefone, IMEIs, senhas de
+  aparelhos, CPFs e endereços que constam dessas peças não são reproduzidos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'

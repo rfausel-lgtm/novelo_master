@@ -1,0 +1,23 @@
+id: ev-pf-resposta-da-cartos-ao-bc-reescrita-sob-supervisao-de-vorcaro
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, a resposta da Cartos SCD a uma requisição do Banco Central foi reescrita sob
+  supervisão de Daniel Vorcaro — a primeira versão, enviada por Henrique Peretto a Vorcaro em 15/07/2025, informava que
+  a Tirreno originara apenas R$ 546.300,00 via Master entre janeiro e maio de 2025; em 24/07 passou a dizer que a Cartos
+  não tinha acesso às informações da Tirreno; e em 20/08 acrescentou que a Tirreno teria recomprado ou desfeito todas
+  as operações com o Master.
+document_ids:
+- doc-2026-03-11-ipja-1252786-analise-celular-vorcaro-tirreno-brb
+source_ids:
+- src-stf-inq5026-ipja-1252786-2026-celular-vorcaro-tirreno
+attributed_to: Polícia Federal, na IPJ-A nº 1252786/2026 (análise do celular de Daniel Vorcaro), juntada ao INQ 5.026
+date: '2025-07-15'
+notes: 'O contraste é com os cerca de R$ 6,7 bilhões em créditos atribuídos à Tirreno nas cessões ao BRB (ver
+  ev-tres-versoes-sucessivas-da-origem-dos-creditos-tirreno). Para a PF, ou a Cartos tinha as informações que depois
+  disse não ter, ou as duas respostas eram fabricadas; entre a primeira e a segunda versão houve, segundo o relatório,
+  várias conversas por voz entre Peretto e Vorcaro. Hipótese investigativa.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'

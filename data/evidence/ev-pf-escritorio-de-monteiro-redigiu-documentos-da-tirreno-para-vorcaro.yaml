@@ -1,0 +1,24 @@
+id: ev-pf-escritorio-de-monteiro-redigiu-documentos-da-tirreno-para-vorcaro
+kind: evidence
+classification: A
+proposition: Segundo a Polícia Federal, o advogado Daniel Lopes Monteiro e integrantes de seu escritório redigiram, sob
+  supervisão de Daniel Vorcaro, documentos em nome da Tirreno, inclusive uma contranotificação ao BRB em nome de André
+  Seixas Maia, numa atuação que para a PF extrapolou a assessoria jurídica; em 24/05/2025, ao mandar suprimir trecho que
+  atribuía ao Master responsabilidade pelos documentos das carteiras, Vorcaro escreveu "Estamos notificando pra passar
+  para os outros nao para assumir".
+document_ids:
+- doc-2026-03-11-ipja-1252786-analise-celular-vorcaro-tirreno-brb
+source_ids:
+- src-stf-inq5026-ipja-1252786-2026-celular-vorcaro-tirreno
+attributed_to: Polícia Federal, na IPJ-A nº 1252786/2026 (análise do celular de Daniel Vorcaro), juntada ao INQ 5.026
+date: '2025-05-24'
+notes: 'O relatório descreve um grupo de WhatsApp com Vorcaro e advogados do escritório criado, segundo Monteiro, "para
+  facilitar o fechamento das operações", e registra que em 23/06/2025 Vorcaro, Ângelo Ribeiro da Silva e Alberto Félix
+  supervisionaram o envio ao BRB de amostra de 1.785 contratos supostamente originados na Tirreno. Os demais advogados
+  citados não são nomeados aqui, por não haver acusação formal contra eles. O perfil de Daniel Lopes Monteiro registra a
+  prisão de 16/04/2026 e a posição da defesa. Hipótese investigativa.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-12'
+created_at: '2026-09-12'
+updated_at: '2026-09-12'
