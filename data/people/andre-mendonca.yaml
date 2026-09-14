@@ -34,6 +34,10 @@ open_questions:
   votou pela soltura de Cabral. Mendonça é hoje relator do caso RioPrevidência/Master, no qual Castro é
   investigado, e indeferiu em julho de 2026 pedido de nova busca contra Castro, mesmo com parecer favorável
   do PGR. Não aprofundado se há relação entre a proximidade de 2022 e as decisões de 2026.'
+- 'NOVO (13/09/2026): o diretor-geral da PF, Andrei Rodrigues, afirmou publicamente que foi o gabinete de
+  Mendonça que pediu a cópia dos dados do celular de Vorcaro (atendida em 08/03/2026) — contradizendo a
+  versão do próprio Mendonça, de que a PF entregou o material por iniciativa própria, voluntariamente. A
+  divergência sobre quem tomou a iniciativa permanecia em aberto na véspera da sessão de 15/09.'
 - O corpus não contém avaliação oficial sobre impedimento ou suspeição do relator em razão do encontro
   de março de 2025.
 - 'Em 08/09/2026, na Pet 16.662 (sua própria relatoria), determinou o afastamento cautelar do diretor-geral
@@ -92,6 +96,7 @@ open_questions:
   direcionado do sigilo... na proteção ostensiva de determinado grupo político" e de suprimir do colegiado
   "18 PETs e 180 documentos".'
 source_ids:
+- src-diariocarioca-2026-09-13-andrei-rodrigues-contradiz-mendonca
 - src-jb-2026-09-13-mendonca-castro-mensagens-caso-cabral
 - src-stf-pet16704-despacho-12-09-2026-avocacao-e-substituicao-relatoria
 - src-stf-pet16704-despacho-13-09-2026-procedencia-hd-lacrado

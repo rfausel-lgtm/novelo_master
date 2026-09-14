@@ -11,6 +11,7 @@ proposition: 'A cópia de segurança dos dados extraídos do celular de Daniel V
 document_ids:
 - doc-2026-09-11-oficios-acesso-midia-celular-vorcaro
 source_ids:
+- src-diariocarioca-2026-09-13-andrei-rodrigues-contradiz-mendonca
 - src-ndmais-2026-09-13-zanin-determina-entrega-ate-23h
 - src-poder360-2026-09-13-zanin-prazo-23h-pf-celular-vorcaro
 - src-stf-pet16704-oficios-acesso-midia-celular-2026-09-11
@@ -32,7 +33,11 @@ notes: 'Até esta coleta, não foi localizado despacho determinando o compartilh
   cópias, Zanin foi além do ofício e determinou formalmente que a PF entregasse a cópia ao seu gabinete até as
   23h de domingo (48h antes da sessão), argumentando que "não existe hierarquia entre os ministros do STF".
   Não verificado, até esta coleta, se a PF cumpriu esse prazo, nem por que Zanin agiu mesmo após a PF sinalizar
-  disposição.'
+  disposição. DIVERGÊNCIA DE VERSÕES (13/09/2026): o diretor-geral da PF, Andrei Rodrigues, afirmou
+  publicamente que foi o gabinete de Mendonça que pediu a cópia (atendida em 08/03/2026) — contradizendo a
+  versão do próprio Mendonça, de entrega por iniciativa espontânea da PF (ver ev-andrei-rodrigues-contradiz-
+  mendonca-sobre-pedido-do-celular). A questão de quem tomou a iniciativa permanecia em aberto na véspera da
+  sessão.'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-13'

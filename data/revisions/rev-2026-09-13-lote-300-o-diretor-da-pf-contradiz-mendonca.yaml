@@ -1,0 +1,32 @@
+id: rev-2026-09-13-lote-300-o-diretor-da-pf-contradiz-mendonca
+kind: revision
+date: '2026-09-13'
+title: 'Lote 300 — o diretor-geral da PF contradiz Mendonça sobre quem pediu a cópia do celular de Vorcaro'
+summary: 'Achado do agente de monitoramento de imprensa, verificado por WebFetch direto: o diretor-geral da
+  PF, Andrei Rodrigues, afirmou publicamente que foi o gabinete de André Mendonça que pediu a cópia dos dados
+  do celular de Vorcaro, atendida em 08/03/2026 — contradizendo a versão do próprio Mendonça, já registrada
+  no acervo (lote 280), de que a PF entregou o material por iniciativa espontânea, sem solicitação. A
+  divergência sobre quem tomou a iniciativa — buscar o material ou apenas recebê-lo passivamente — permanecia
+  em aberto na véspera da sessão de 15/09.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'andre-mendonca: novo open_question com a versão contraditória do diretor-geral da PF.'
+- 'ev-disputa-pelo-hd-lacrado-do-celular-de-vorcaro-entre-ministros: acrescentada a divergência de versões
+  sobre quem solicitou a cópia.'
+author: orquestrador
+affected_ids:
+- andre-mendonca
+- andrei-rodrigues
+reason: Achado do agente de monitoramento de imprensa a cada 15 minutos; verificado por WebFetch antes da
+  publicação, na véspera da sessão extraordinária de 15/09/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

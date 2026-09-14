@@ -1,0 +1,22 @@
+id: ev-andrei-rodrigues-contradiz-mendonca-sobre-pedido-do-celular
+kind: evidence
+classification: A
+proposition: 'O diretor-geral da PF, Andrei Rodrigues, afirmou publicamente que "o gabinete do ministro André
+  Mendonça pediu uma cópia dos dados extraídos do celular" de Daniel Vorcaro, atendida em 08/03/2026 — versão
+  que contradiz a de Mendonça, segundo a qual "a própria Polícia Federal entregou voluntariamente um envelope
+  lacrado contendo uma cópia de segurança dos dados", por iniciativa da própria PF, não a pedido do seu
+  gabinete.'
+document_ids: []
+source_ids:
+- src-diariocarioca-2026-09-13-andrei-rodrigues-contradiz-mendonca
+attributed_to_id: andrei-rodrigues
+excerpt: o gabinete do ministro André Mendonça pediu uma cópia dos dados extraídos do celular
+date: '2026-09-13'
+notes: 'Contradiz diretamente a versão de Mendonça já registrada no acervo (lote 280), onde ele cita ofício
+  da PF descrevendo entrega "de forma voluntária e espontânea". A questão de quem tomou a iniciativa — se
+  Mendonça buscou o material ou apenas recebeu — permanecia em aberto na véspera da sessão de 15/09.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'
