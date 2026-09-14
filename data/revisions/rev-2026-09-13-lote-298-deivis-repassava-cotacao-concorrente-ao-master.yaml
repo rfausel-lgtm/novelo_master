@@ -1,0 +1,37 @@
+id: rev-2026-09-13-lote-298-deivis-repassava-cotacao-concorrente-ao-master
+kind: revision
+date: '2026-09-13'
+title: 'Lote 298 — Deivis Marcon Antunes repassava cotação de banco concorrente ao Master e recusava o Voiter'
+summary: 'O documento comprobatório da PF (Pet 15.497) mostra Deivis Marcon Antunes — já alvo principal da
+  Operação Barco de Papel — nominalmente, em conduta concreta: em 12/03/2024, repassou a interlocutores do
+  Master uma cotação de LFs de um banco concorrente (Pine), com a própria PF notando "estranheza" na conduta,
+  já que o presidente do Rioprevidência estaria favorecendo informação a um captador do Master. Sete dias
+  depois, o Rioprevidência aportou R$ 120 milhões no Master. No mesmo período, recusou por e-mail a tentativa
+  de venda de LF do Banco Voiter (do qual Vorcaro é presidente, via Maurício Quadrado, conselheiro do Voiter)
+  ao próprio Rioprevidência, alegando falta de credenciamento — tratamento assimétrico entre o Master e um
+  concorrente. Ressalva importante, da própria conclusão do relatório da PF: a autoridade não liga este
+  achado à identidade do "dono" do RPPS citada por Ricardo Siqueira — trata-se de indício de proximidade
+  informal, não confirmação da identidade dessa figura.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'deivis-marcon-antunes: novo open_question com o repasse de cotação concorrente e a recusa ao Voiter.'
+- 'mauricio-quadrado: detalhe adicional sobre seu papel de conselheiro do Voiter e a recusa de Deivis.'
+author: orquestrador
+affected_ids:
+- deivis-marcon-antunes
+- mauricio-quadrado
+- daniel-vorcaro
+reason: Continuação da leitura do documento comprobatório (Pet 15.497) por fork cross-session; achado
+  considerado significativo o suficiente para interromper e priorizar, por mudar o quadro sobre a conduta do
+  presidente do Rioprevidência no período dos aportes.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

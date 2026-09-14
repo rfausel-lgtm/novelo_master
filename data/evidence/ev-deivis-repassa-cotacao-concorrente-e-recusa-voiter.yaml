@@ -1,0 +1,43 @@
+id: ev-deivis-repassa-cotacao-concorrente-e-recusa-voiter
+kind: evidence
+classification: D
+proposition: 'Segundo o documento comprobatório da PF (Pet 15.497), em conversa com Fernando de Goes consta
+  cotação de Letras Financeiras do Banco Pine encaminhada a Deivis Marcon Antunes, então presidente do
+  Rioprevidência — um banco concorrente do Master. Após o envio da imagem, Fernando afirma: "Estão indo pra
+  cima do rj". A própria PF observa: "A situação causa estranheza, uma vez que, à luz do contexto da
+  conversa, o presidente do Rioprevidência teria encaminhado cotação de instituição financeira concorrente a
+  um captador vinculado ao Banco Master, circunstância que foge à lógica esperada das tratativas." Na
+  sequência, Vorcaro reclama que "Rj travou nosso"; Fernando responde "Essa semana sai. Prometi a vc" — sete
+  dias depois, em 16/04/2024, o Rioprevidência fez um novo aporte de R$ 120 milhões em LFs do Master (Tabela
+  1 do mesmo documento, intermediado pela Planner). No mesmo período (12/03/2024), Maurício Quadrado —
+  conselheiro do Banco Voiter, do qual Vorcaro é presidente — tentou vender LFs do Voiter ao Rioprevidência; o
+  próprio Deivis recusou por e-mail, alegando que "o Banco Voiter nunca solicitou o credenciamento" — ou seja,
+  recusou formalmente o concorrente do Master enquanto, no mesmo período, repassava informação competitiva
+  sensível ao grupo Master.'
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+related_entity_ids:
+- deivis-marcon-antunes
+- daniel-vorcaro
+- fernando-de-goes
+- mauricio-quadrado
+- rioprevidencia
+excerpt: A situação causa estranheza, uma vez que, à luz do contexto da conversa, o presidente do
+  Rioprevidência teria encaminhado cotação de instituição financeira concorrente a um captador vinculado ao
+  Banco Master, circunstância que foge à lógica esperada das tratativas
+date: '2024-03-12'
+notes: 'É o indício mais direto, no acervo, de que a liderança formal do Rioprevidência (Deivis, como
+  presidente) tinha canal informal com o grupo Master e agia de forma favorável a ele em detrimento de um
+  concorrente. IMPORTANTE — ressalva do próprio documento (capítulo de considerações finais, lido por
+  inteiro): a PF NÃO liga esse achado, de forma explícita, à fala de Ricardo Siqueira sobre o "dono" do RPPS
+  ("alinhamento político com a figura que... seria o dono do RPPS"). São tratados como duas linhas de indício
+  paralelas na própria conclusão do relatório — a proximidade Vorcaro-Castro (jantares) é uma linha; o
+  "alinhamento político" com o "dono" não identificado é outra, sem que a PF afirme que Castro ou Deivis É
+  essa figura. Não superinterpretar este achado como confirmação da identidade do "dono".'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

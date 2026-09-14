@@ -26,7 +26,15 @@ cited_position:
   date: '2026-03-19'
 open_questions:
 - O corpus não registra manifestação pública mais extensa da defesa sobre o mérito das acusações.
+- 'NOVO (13/09/2026): o documento comprobatório da PF (Pet 15.497) mostra que, em 12/03/2024, ele repassou a
+  interlocutores do Master uma cotação de LFs do Banco Pine (concorrente), com a PF notando "estranheza" na
+  conduta — enquanto recusava, no mesmo período, a tentativa de venda de LFs do Banco Voiter (do qual Vorcaro
+  é presidente) ao Rioprevidência, alegando falta de credenciamento. Sete dias após o repasse da cotação
+  concorrente, o Rioprevidência fez novo aporte de R$120 milhões no Master. A própria PF, porém, não liga
+  esse achado à identidade do "dono" citada por Ricardo Siqueira — trata como indício de proximidade
+  informal com o Master, não confirmação de que ele seja essa figura.'
 source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
 - src-migalhas-2026-01-23-barco-de-papel
 - src-stj-2026-03-19-mantem-prisao-deivis
 review_status: published
