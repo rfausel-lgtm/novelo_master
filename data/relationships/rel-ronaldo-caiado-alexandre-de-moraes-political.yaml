@@ -1,0 +1,23 @@
+id: rel-ronaldo-caiado-alexandre-de-moraes-political
+kind: relationship
+from_id: ronaldo-caiado
+to_id: alexandre-de-moraes
+relationship_type: political
+directed: true
+label: crítica pública e cobrança de transparência
+description: Ronaldo Caiado criticou publicamente Moraes em 10/09/2026, por cancelar um pronunciamento, e
+  cobrou a abertura total dos sigilos do caso Master, sem exceção de cargo.
+evidence_class: A
+confidence: 0.8
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-caiado-cobra-abertura-de-todos-os-sigilos-do-master
+source_ids:
+- src-gazetaweb-2026-09-10-caiado-critica-moraes-sigilos-master
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

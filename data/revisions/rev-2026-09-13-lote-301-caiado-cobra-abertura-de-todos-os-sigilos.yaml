@@ -1,0 +1,28 @@
+id: rev-2026-09-13-lote-301-caiado-cobra-abertura-de-todos-os-sigilos
+kind: revision
+date: '2026-09-14'
+title: 'Lote 301 — Caiado cobra publicamente a abertura de todos os sigilos do Banco Master'
+summary: 'Achado do agente de monitoramento de imprensa, verificado por WebFetch direto: em 10/09/2026, o
+  governador de Goiás, Ronaldo Caiado, criticou Alexandre de Moraes por cancelar um pronunciamento e cobrou
+  publicamente a abertura de todos os sigilos ligados ao Banco Master, sem exceção de cargo: "ministro,
+  presidente, candidato, senador… todos!" É a primeira manifestação de um governador em exercício, no acervo,
+  pedindo o levantamento total dos sigilos do caso.'
+added:
+  people: 1
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 1
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- ronaldo-caiado
+- alexandre-de-moraes
+reason: Achado do agente de monitoramento de imprensa a cada 15 minutos, na véspera da sessão extraordinária
+  de 15/09/2026; verificado por WebFetch antes da publicação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'

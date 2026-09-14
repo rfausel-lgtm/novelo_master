@@ -1,0 +1,27 @@
+id: ronaldo-caiado
+kind: person
+name: Ronaldo Caiado
+category: politician
+role: Governador de Goiás
+summary: 'Governador de Goiás. Em 10/09/2026, após Alexandre de Moraes anunciar e cancelar minutos depois um
+  pronunciamento público (seu primeiro desde a retirada da relatoria do Inquérito das Fake News por Fachin),
+  criticou publicamente o ministro e cobrou a abertura de todos os sigilos ligados ao Banco Master, sem
+  exceção de cargo: "Alexandre de Moraes anuncia pronunciamento e cancela minutos depois, é a dificuldade de
+  tentar explicar o inexplicável. O que queremos mesmo é a abertura de TODOS os sigilos do Banco Master:
+  ministro, presidente, candidato, senador… todos!"'
+why_in_novelo: Governador que se posicionou publicamente pedindo o levantamento de todos os sigilos do caso
+  Master, sem exceção de cargo — inclui uma cobrança dirigida ao próprio Moraes.
+cited_position:
+- kind: not_located
+  summary: A manifestação registrada é a própria crítica dele a Moraes; não há resposta de Moraes a essa
+    cobrança específica localizada até a data desta apuração.
+open_questions:
+- Não está claro a quem exatamente ele se refere com "presidente, candidato, senador" — pode ser referência
+  genérica a qualquer autoridade envolvida, não a pessoas específicas nomeadas.
+source_ids:
+- src-gazetaweb-2026-09-10-caiado-critica-moraes-sigilos-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

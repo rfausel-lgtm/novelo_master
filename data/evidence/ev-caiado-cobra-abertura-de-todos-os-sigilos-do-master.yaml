@@ -1,0 +1,23 @@
+id: ev-caiado-cobra-abertura-de-todos-os-sigilos-do-master
+kind: evidence
+classification: A
+proposition: 'Em 10/09/2026, o governador de Goiás, Ronaldo Caiado, criticou publicamente Alexandre de Moraes
+  por anunciar e cancelar minutos depois um pronunciamento — o primeiro do ministro desde que Fachin o
+  afastou da relatoria do Inquérito das Fake News — e cobrou a abertura de todos os sigilos ligados ao Banco
+  Master, sem exceção de cargo: "O que queremos mesmo é a abertura de TODOS os sigilos do Banco Master:
+  ministro, presidente, candidato, senador… todos!"'
+document_ids: []
+source_ids:
+- src-gazetaweb-2026-09-10-caiado-critica-moraes-sigilos-master
+attributed_to_id: ronaldo-caiado
+excerpt: O que queremos mesmo é a abertura de TODOS os sigilos do Banco Master; ministro, presidente,
+  candidato, senador… todos!
+date: '2026-09-10'
+notes: É a primeira manifestação de um governador em exercício, no acervo, pedindo publicamente o levantamento
+  total dos sigilos do caso Master. Não fica claro a quem exatamente ele se refere com "presidente, candidato,
+  senador" — pode ser cobrança genérica.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'
