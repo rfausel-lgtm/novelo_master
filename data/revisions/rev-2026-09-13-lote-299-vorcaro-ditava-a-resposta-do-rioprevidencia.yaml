@@ -1,0 +1,34 @@
+id: rev-2026-09-13-lote-299-vorcaro-ditava-a-resposta-do-rioprevidencia
+kind: revision
+date: '2026-09-13'
+title: 'Lote 299 — Vorcaro ditava, palavra por palavra, a resposta do Rioprevidência ao Estadão'
+summary: 'Em agosto de 2024, o jornal Estadão enviou perguntas ao Rioprevidência sobre os aportes em LFs do
+  Master. Segundo o documento comprobatório da PF (Pet 15.497), Fernando de Goes pediu orientação a Daniel
+  Vorcaro antes de a autarquia responder ao jornal, e Vorcaro ditou a redação exata da resposta e a
+  estratégia de mantê-la curta, calculando que uma resposta detalhada geraria mais matérias. A própria PF
+  conclui que isso demonstra influência de Vorcaro sobre a comunicação institucional do órgão sobre seus
+  próprios investimentos — captura mais direta da comunicação de um órgão público do que o episódio Kassab
+  (lotes 287/295), que envolvia pressão sobre conteúdo de terceiro. Identificado um contato interno provável,
+  Márcio Garcia Liñares, membro do Conselho Fiscal do Rioprevidência.'
+added:
+  people: 1
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 1
+  sources: 0
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'rioprevidencia: novo open_question sobre a captura da resposta institucional ao Estadão.'
+author: orquestrador
+affected_ids:
+- daniel-vorcaro
+- fernando-de-goes
+- rioprevidencia
+reason: Continuação da leitura do documento comprobatório (Pet 15.497) por fork cross-session; achado
+  considerado mais grave que o episódio Kassab por envolver captura direta de comunicação institucional
+  pública, não pressão sobre conteúdo de terceiro.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

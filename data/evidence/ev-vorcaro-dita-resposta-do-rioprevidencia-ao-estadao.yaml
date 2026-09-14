@@ -1,0 +1,35 @@
+id: ev-vorcaro-dita-resposta-do-rioprevidencia-ao-estadao
+kind: evidence
+classification: D
+proposition: 'No início de agosto de 2024, o jornal Estadão enviou uma lista de perguntas ao Rioprevidência
+  sobre os aportes em LFs do Master. Fernando de Goes recebeu a demanda e pediu orientação a Daniel Vorcaro
+  antes de a autarquia responder ao jornal. Vorcaro ditou a estratégia — "Existe Sigilo" e "não podem revelar
+  as informações demandadas" — e a redação exata da resposta: "Acho que tem que responder curto dizendo que
+  lfs sao titulos de mercado que fazem parte do portfolio. Que nao podem abrir por sigilo os investimentos".
+  Fernando confirmou "Isso q será feito irmão" e enviou a Vorcaro imagens da resposta que o Rioprevidência de
+  fato preparou para o jornal. Vorcaro orientou ainda que a resposta fosse propositalmente curta: "Pra jornal
+  tem que escrever pouco", "Isso ai vai fazer eles fazerem 10 materias" — calculando que uma resposta
+  detalhada geraria mais matérias.'
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+related_entity_ids:
+- daniel-vorcaro
+- fernando-de-goes
+- rioprevidencia
+- marcio-garcia-linares
+excerpt: infere-se que o banqueiro possui influência sobre o RioPrevidência, declarando até como deve ser a
+  resposta da autarquia às perguntas formuladas pelo jornalista
+date: '2024-08'
+notes: A própria PF conclui pela influência de Vorcaro sobre a comunicação institucional do órgão. Não
+  localizada, nesta coleta, a matéria do Estadão de fato publicada nem seu conteúdo final — não confirmado se
+  a resposta ditada por Vorcaro foi usada literalmente. É evidência de captura direta da comunicação
+  institucional de um órgão de previdência estadual sobre seus próprios investimentos pelo banco investigado
+  — distinto e mais grave, no juízo desta coleta, do que a tentativa de pressão sobre um vídeo de terceiro no
+  episódio Kassab (lotes 287/295).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

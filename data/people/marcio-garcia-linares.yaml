@@ -1,0 +1,28 @@
+id: marcio-garcia-linares
+kind: person
+name: Márcio Garcia Liñares
+category: public_official
+role: Membro efetivo do Conselho Fiscal do Rioprevidência
+positions:
+- title: Membro efetivo do Conselho Fiscal
+  organization_id: rioprevidencia
+  source_ids:
+  - src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+summary: Identificado pela PF, via pesquisa em fonte aberta, como o provável destinatário/contato interno de
+  uma mensagem de Fernando de Goes durante o episódio em que o Rioprevidência preparou resposta ao Estadão
+  sobre os aportes em LFs do Master (agosto de 2024), com a redação da resposta ditada por Daniel Vorcaro.
+why_in_novelo: É o contato interno do Rioprevidência identificado no episódio de captura da resposta
+  institucional da autarquia à imprensa pelo grupo Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele localizada até a data desta apuração.
+open_questions:
+- Não está confirmado se ele de fato recebeu e agiu sobre a mensagem, ou apenas que a PF o identificou como
+  destinatário provável via fonte aberta.
+source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -1,0 +1,24 @@
+id: rel-marcio-garcia-linares-rioprevidencia-institutional
+kind: relationship
+from_id: marcio-garcia-linares
+to_id: rioprevidencia
+relationship_type: institutional
+directed: false
+label: membro efetivo do Conselho Fiscal
+description: Márcio Garcia Liñares é membro efetivo do Conselho Fiscal do Rioprevidência, identificado pela
+  PF como provável contato interno no episódio da resposta ao Estadão sobre os aportes em LFs do Master.
+evidence_class: D
+confidence: 0.6
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-vorcaro-dita-resposta-do-rioprevidencia-ao-estadao
+source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'
