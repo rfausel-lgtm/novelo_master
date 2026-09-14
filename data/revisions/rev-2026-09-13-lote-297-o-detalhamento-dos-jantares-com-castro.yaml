@@ -1,0 +1,34 @@
+id: rev-2026-09-13-lote-297-o-detalhamento-dos-jantares-com-castro
+kind: revision
+date: '2026-09-13'
+title: 'Lote 297 — o detalhamento dos jantares, do whiskey e da amizade entre Vorcaro e Cláudio Castro'
+summary: 'O capítulo do mesmo documento comprobatório dedicado ao vínculo pessoal entre Vorcaro e Cláudio
+  Castro traz muito mais precisão do que a evidência já publicada (que só falava em "jantares de luxo" e uma
+  "degustação de whiskey de mais de US$1 milhão"). Agora: dois jantares específicos no Nusr-Et Steakhouse de
+  Nova York (11-12/05/2023 e 12/05/2024, este com reserva trocada do nome de Vorcaro para o de Castro via o
+  fixer Leo Serrano Giunchetti), com cardápio e valores detalhados; a degustação de whiskey no The Carnegie
+  Club, com fatura discriminada da SL Consulting CO em USD 1.023.646,00; e mensagens de 2025 (feijoada,
+  churrasco, almoço no Parque Lage) que tratam a relação como de amizade próxima. Uma menção a "Ciro" num
+  convite é lida pela própria PF, com ressalva, como possível referência ao senador Ciro Nogueira — não
+  confirmado.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'ev-pf-aponta-jantares-e-degustacao-de-whiskey-de-vorcaro-a-claudio-castro: substituído o resumo genérico
+  por detalhamento preciso de datas, locais, valores e mecanismo (fixer) dos eventos.'
+author: orquestrador
+affected_ids:
+- daniel-vorcaro
+- claudio-castro
+reason: Continuação da leitura do documento comprobatório (Pet 15.497) por fork cross-session; enriquece com
+  precisão um fato já publicado, sem alterar a conclusão.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

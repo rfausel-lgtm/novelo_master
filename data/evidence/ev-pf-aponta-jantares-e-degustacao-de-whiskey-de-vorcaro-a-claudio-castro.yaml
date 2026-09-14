@@ -9,15 +9,30 @@ proposition: 'Segundo representação da Polícia Federal na Pet 15.497 (20/02/2
   tese" poderia configurar vantagem indevida.'
 document_ids:
 - doc-2026-02-20-representacao-pf-claudio-castro-rioprevidencia
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
 source_ids:
 - src-stf-pet15497-representacao-pf-e-despacho-claudio-castro
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
 excerpt: jantares em restaurante de luxo em Nova Iorque/EUA e evento restrito de "degustação de whiskey", cujo
   custo ultrapassaria USD 1 milhão
 attributed_to: Polícia Federal, em representação de 20/02/2026 (Pet 15.497)
 date: '2026-02-20'
-notes: Alegação investigativa da PF, não fato julgado; a própria petição qualifica a hipótese como "em tese".
+notes: 'Alegação investigativa da PF, não fato julgado; a própria petição qualifica a hipótese como "em tese".
   Precede em três meses a busca e apreensão de 26/05/2026 (Pet 15.676) já conhecida no acervo só por
-  comunicação oficial de imprensa.
+  comunicação oficial de imprensa. DETALHAMENTO (13/09/2026, mesmo documento comprobatório, capítulo próprio):
+  jantar de 11-12/05/2023 no restaurante Nusr-Et Steakhouse (Nova York) — cartão Bradesco de Vorcaro debitado
+  em USD 13.313,00 às 01h18 de 12/05, cruzado pela PF com dados de Wi-Fi e contato local para confirmar a
+  presença física de Vorcaro; jantar de 12/05/2024, no mesmo restaurante, com reserva feita em nome de Vorcaro
+  e depois trocada para o de Castro via o fixer Leo Serrano Giunchetti (já no acervo), menu incluindo Vega-
+  Sicilia Único 2013, Cristal Brut 2013, Dom Pérignon Rosé 2009 e carnes folheadas a ouro, com o chef Nusret
+  Gökçe ("Salt Bae") presente; degustação de whiskey em 14/05/2024 no The Carnegie Club (Nova York), evento
+  restrito a 10 pessoas, com fatura da SL Consulting CO (já no acervo) de 13/06/2024 detalhando USD
+  1.023.646,00 (locação e charutos, whiskeys, administração do local, honorários de gestão e de serviço).
+  Mensagens de 2025 (feijoada, churrasco, almoço no Parque Lage) tratam a relação como próxima ("Vc é meu
+  amigo, não conta", em resposta de Castro a um elogio de Vorcaro). Uma menção de Vorcaro no convite do
+  Parque Lage (08/03/2025) — "Ciro deve ir" — é interpretada pela própria PF, com a ressalva "provavelmente",
+  como possível referência ao senador Ciro Nogueira, já documentado em outro contexto (emenda do FGC); não
+  confirmado.'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-13'
