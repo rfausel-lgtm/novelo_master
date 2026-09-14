@@ -1,0 +1,31 @@
+id: joao-henrique-caldas
+kind: person
+name: João Henrique Caldas (JHC)
+category: politician
+role: Ex-prefeito de Maceió; candidato ao governo de Alagoas (PSDB)
+positions:
+- title: Prefeito de Maceió
+  organization: Prefeitura Municipal de Maceió
+  source_ids:
+  - src-tribunadosertao-2026-09-13-jhc-iprev-maceio
+summary: Ex-prefeito de Maceió e candidato ao governo de Alagoas pelo PSDB. Um juiz federal registrou que ele
+  figurava como "responsável legal da unidade gestora perante o Ministério da Previdência Social" do Iprev de
+  Maceió, com autoridade para nomear/exonerar a cúpula do instituto, no período em que este aportou R$ 97
+  milhões no Banco Master (R$ 80 milhões em 06/12/2023, R$ 17 milhões em 13/05/2024). Não é, até esta coleta,
+  formalmente investigado criminalmente — a decisão que trata do caso foi remetida ao STF para análise de
+  competência, e a apuração de responsabilidades individuais segue em aberto.
+why_in_novelo: É a autoridade política identificada como responsável legal pelo Iprev de Maceió no período em
+  que o instituto aportou R$ 97 milhões no Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele localizada até a data desta apuração.
+open_questions:
+- Não está claro se ele teve conhecimento ou participação direta na decisão de aportar recursos no Master,
+  ou se sua responsabilidade é apenas formal/hierárquica pelo cargo.
+source_ids:
+- src-tribunadosertao-2026-09-13-jhc-iprev-maceio
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -1,0 +1,33 @@
+id: rev-2026-09-13-lote-294-jhc-no-centro-do-caso-iprev-maceio
+kind: revision
+date: '2026-09-13'
+title: 'Lote 294 — João Henrique Caldas (JHC) identificado como responsável legal do Iprev de Maceió no
+  caso dos R$ 97 milhões'
+summary: 'Achado do agente de monitoramento de imprensa, verificado por WebFetch direto: com repercussão
+  nacional do caso Iprev-Master (já documentado, R$ 97 milhões aportados no Banco Master em 2023-2024), foi
+  identificado que João Henrique Caldas (JHC), ex-prefeito de Maceió e candidato ao governo de Alagoas, era o
+  "responsável legal da unidade gestora" do Iprev perante o Ministério da Previdência Social no período dos
+  aportes, com autoridade para nomear/exonerar a cúpula do instituto. Ele não é, até esta coleta, formalmente
+  investigado criminalmente — o caso foi remetido ao STF para análise de competência.'
+added:
+  people: 1
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 1
+  sources: 1
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'iprev-maceio: novo open_question identificando JHC como responsável legal da unidade gestora no período
+  dos aportes.'
+author: orquestrador
+affected_ids:
+- joao-henrique-caldas
+- iprev-maceio
+reason: Achado do agente de monitoramento de imprensa a cada 15 minutos, dentro da onda de revelações da
+  quebra de sigilo do caso Master; verificado por WebFetch antes da publicação, com cuidado de não incluir
+  a alegação de cronologia entre aportes e credenciamento do Master, não confirmada na fonte.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
