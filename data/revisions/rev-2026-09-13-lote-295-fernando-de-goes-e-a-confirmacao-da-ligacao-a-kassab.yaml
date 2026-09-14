@@ -1,0 +1,41 @@
+id: rev-2026-09-13-lote-295-fernando-de-goes-e-a-confirmacao-da-ligacao-a-kassab
+kind: revision
+date: '2026-09-13'
+title: 'Lote 295 — Fernando de Goes, o segundo canal para Kassab, e a confirmação interna da ligação a
+  Pedro Paulo'
+summary: 'Releitura mais detalhada (páginas 80-84 do mesmo documento comprobatório da PF, Pet 15.497)
+  revela que, no episódio já publicado da tentativa de Vorcaro de pressionar Gilberto Kassab (01/10/2024),
+  havia um SEGUNDO canal paralelo além de Augusto Lima: Fernando de Goes ("Pedi o nando pra ajudar e tentar
+  falar com o kassab"). Goes confirmou internamente à equipe de Vorcaro que Kassab de fato telefonara ao
+  deputado Pedro Paulo Carvalho (presidente do PSD-RJ) — confirmação contemporânea por fonte interna, mais
+  forte que a versão dada por Kassab à imprensa depois. Também corrige um detalhe do lote 287: o próprio
+  relatório da PF registra que a notícia do site "expresso222.com.br", que Vorcaro alegou ter "tirado do ar",
+  NÃO foi encontrada pela perícia — é alegação do próprio Vorcaro, não fato confirmado de forma independente.
+  Pedro Paulo Carvalho, com posição pública já registrada pela imprensa (mas ausente do acervo), ganha
+  verbete próprio.'
+added:
+  people: 2
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 1
+updated_relationships: 1
+corrections:
+- 'ev-pf-vorcaro-aciona-kassab-2024-10 e evt-2024-10-vorcaro-pede-contato-com-kassab: corrigido para
+  deixar claro que a retirada do ar do "expresso222.com.br" é alegação do próprio Vorcaro, não fato
+  confirmado pela PF — a perícia registra não ter encontrado a notícia.'
+- 'rel-daniel-vorcaro-gilberto-kassab-allegation: acrescentada a confirmação interna (Fernando de Goes) de
+  que Kassab ligou a Pedro Paulo, e o cited_position de Pedro Paulo Carvalho.'
+author: orquestrador
+affected_ids:
+- fernando-de-goes
+- pedro-paulo-carvalho
+- daniel-vorcaro
+- gilberto-kassab
+reason: Releitura mais atenta de um trecho já parcialmente lido no lote 287, a pedido do Rafael, por fork
+  cross-session; a correção sobre o expresso222 chegou antes da publicação, evitando erro factual.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'

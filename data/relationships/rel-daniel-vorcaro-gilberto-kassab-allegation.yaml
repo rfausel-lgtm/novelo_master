@@ -7,20 +7,24 @@ directed: false
 label: tentativa de contato por intermediários (segundo a PF)
 start_date: 2024-10
 via_id: augusto-lima
-description: Segundo relatório da PF citado pela CNN, Vorcaro tentou acionar Kassab, via Augusto Lima
+description: 'Segundo relatório da PF citado pela CNN, Vorcaro tentou acionar Kassab, via Augusto Lima
   e Fernando de Goes, para remover vídeo crítico aos aportes da RioPrevidência; Kassab diz ter orientado
   a continuidade das denúncias e o vídeo não foi removido. Não há registro de contato direto entre os
-  dois no corpus.
+  dois no corpus. NOVO (13/09/2026): o próprio documento da PF confirma, por comunicação interna da
+  equipe de Vorcaro (Fernando de Goes), que Kassab de fato telefonou ao deputado Pedro Paulo Carvalho —
+  não é só a versão dada por Kassab à imprensa depois.'
 evidence_class: A
-confidence: 0.5
+confidence: 0.7
 status: unverified
 event_ids:
 - evt-2024-10-vorcaro-pede-contato-com-kassab
 evidence_ids:
 - ev-pf-vorcaro-aciona-kassab-2024-10
 - ev-kassab-resposta-video
+- ev-fernando-de-goes-confirma-kassab-ligou-pedro-paulo
 source_ids:
 - src-cnn-2026-kassab-video-rioprevidencia
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
 document_ids: []
 cited_position:
 - by_id: gilberto-kassab

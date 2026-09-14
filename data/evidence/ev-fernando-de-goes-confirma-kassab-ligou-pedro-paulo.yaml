@@ -1,0 +1,36 @@
+id: ev-fernando-de-goes-confirma-kassab-ligou-pedro-paulo
+kind: evidence
+classification: D
+proposition: 'No mesmo dia em que Vorcaro pediu a Augusto Lima que acionasse Kassab (01/10/2024), também
+  pediu a Fernando de Goes: "Pedi o nando pra ajudar e tentar falar com o kassab". Goes respondeu tê-lo
+  pressionado ("Dei uma porrada grande aqui em kassab") e, em seguida, confirmou internamente à equipe de
+  Vorcaro que Kassab de fato telefonara ao deputado Pedro Paulo Carvalho, presidente do PSD-RJ: "FERNANDO
+  informa que KASSAB ligou para PEDRO PAULO". Relatou o teor da ligação atribuindo a Kassab uma queixa sobre
+  o Dep. Luiz Paulo ("o cara não ouve ninguém, xiita") e afirma ter contestado essa caracterização junto a
+  eles ("falei com ele que era tudo inverdade o q estava falando").'
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+related_entity_ids:
+- daniel-vorcaro
+- fernando-de-goes
+- gilberto-kassab
+- pedro-paulo-carvalho
+excerpt: FERNANDO informa que KASSAB ligou para PEDRO PAULO
+date: '2024-10-01'
+notes: 'Diferente da versão já publicada (Kassab, por assessoria, dizendo à imprensa que conversou com Pedro
+  Paulo para entender o tema) — aqui é a própria equipe de Vorcaro confirmando internamente, em tempo real,
+  que a ligação ocorreu, o que eleva a confiabilidade do fato de "declaração pública posterior" para
+  "confirmação contemporânea por fonte interna". CORREÇÃO (13/09/2026): a menção a "neto" na mesma conversa
+  é identificada — trata-se de Luiz Rennó Netto, advogado de confiança de Vorcaro (ver verbete próprio). Sobre
+  a suposta "segunda matéria" da qual Vorcaro teria "tirado o nome do banco": o próprio relatório da PF
+  registra que a única notícia mencionada, a do site "expresso222.com.br", não foi encontrada pela perícia —
+  a retirada do ar é alegação do próprio Vorcaro, não fato confirmado de forma independente. Não está
+  definitivamente esclarecido se a "segunda matéria" citada nesta conversa é a mesma do expresso222 ou uma
+  peça distinta ainda não identificada.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

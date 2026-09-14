@@ -7,29 +7,45 @@ date_precision: month
 participant_ids:
 - daniel-vorcaro
 - augusto-lima
+- fernando-de-goes
 - gilberto-kassab
+- pedro-paulo-carvalho
 - rioprevidencia
 - banco-master
 description: 'Segundo relatório da PF citado pela CNN, em outubro de 2024 Vorcaro pediu a Augusto Lima
   que ligasse ''urgente pro kassab'' para tentar remover vídeo do deputado estadual Luiz Paulo (PSD-RJ)
   crítico aos aportes de R$ 500 milhões da RioPrevidência no Master; Kassab conversou com o deputado federal
   Pedro Paulo; o vídeo não foi removido. Kassab e Pedro Paulo afirmam que orientaram a continuidade das
-  denúncias. NOVO (13/09/2026, fonte primária da PF): o mesmo episódio, datado com precisão em 01/10/2024,
-  teve êxito parcial — a equipe de Vorcaro conseguiu a retirada do ar de uma notícia sobre o tema no site
-  "expresso222.com.br" (hoje inexistente), mesmo sem conseguir remover o vídeo do deputado.'
+  denúncias. NOVO (13/09/2026, fonte primária da PF): o mesmo episódio é datado com precisão em 01/10/2024.
+  Vorcaro afirmou a interlocutores ter conseguido tirar do ar uma notícia sobre o tema no site
+  "expresso222.com.br" (hoje inexistente) — mas o próprio relatório da PF registra não ter encontrado essa
+  notícia, ao contrário da postagem do Dep. Luiz Paulo, que seguia acessível; é alegação do próprio Vorcaro,
+  não confirmação independente da PF. Também nesse dia, Vorcaro acionou um segundo canal paralelo, Fernando
+  de Goes ("Pedi o nando pra ajudar e tentar falar com o kassab"), que informou internamente à equipe de
+  Vorcaro que Kassab telefonara a Pedro Paulo — confirmação contemporânea por fonte interna, distinta da
+  versão dada à imprensa depois.'
 evidence_class: A
 status: unverified
 evidence_ids:
 - ev-pf-vorcaro-aciona-kassab-2024-10
 - ev-kassab-resposta-video
+- ev-fernando-de-goes-confirma-kassab-ligou-pedro-paulo
 source_ids:
 - src-cnn-2026-kassab-video-rioprevidencia
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
 document_ids: []
 public_act_ids: []
 cited_position:
 - by_id: gilberto-kassab
   kind: clarification
-  summary: Foi procurado; conversou com Pedro Paulo para entender o tema; orientou que as denúncias prosseguissem.
+  summary: Foi procurado; conversou com Pedro Paulo para entender o tema; orientou que as denúncias
+    prosseguissem; ninguém estava autorizado a falar em seu nome sobre o tema.
+  source_ids:
+  - src-cnn-2026-kassab-video-rioprevidencia
+- by_id: pedro-paulo-carvalho
+  kind: denial
+  summary: Afirma sempre ter feito oposição ao governo de Cláudio Castro e ter apoiado as denúncias do Dep.
+    Luiz Paulo; diz ter informado Kassab "da gravidade das denúncias".
   source_ids:
   - src-cnn-2026-kassab-video-rioprevidencia
 review_status: published
