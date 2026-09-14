@@ -1,0 +1,26 @@
+id: ev-renno-faremos-o-mesmo-em-maceio
+kind: evidence
+classification: D
+proposition: 'Em 28/10/2025, Luiz Rennó Netto disse a Vorcaro que seria estruturado um fundo para alocar os
+  ativos do Rioprevidência, com cessão de cotas posterior, e acrescentou: "Faremos o mesmo em Maceió" — em
+  referência ao RPPS de Maceió (Iprev), que aportou R$ 97 milhões no Master (já documentado no acervo, lote
+  294). Vorcaro não respondeu ao comentário sobre Maceió, segundo o documento.'
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+related_entity_ids:
+- luiz-renno-netto
+- daniel-vorcaro
+- rioprevidencia
+- iprev-maceio
+excerpt: Faremos o mesmo em Maceió
+date: '2025-10-28'
+notes: Primeira ligação literal e direta, no acervo, entre a operação do Rioprevidência (conduzida por Rennó)
+  e o esquema do Iprev de Maceió — até então tratados como casos paralelos sem conexão documental explícita.
+  Não está claro se a frase se refere apenas à estruturação de um fundo similar ou a um plano mais amplo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

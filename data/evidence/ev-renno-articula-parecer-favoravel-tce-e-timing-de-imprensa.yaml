@@ -1,0 +1,30 @@
+id: ev-renno-articula-parecer-favoravel-tce-e-timing-de-imprensa
+kind: evidence
+classification: D
+proposition: 'Em 12/12/2024, Luiz Rennó Netto enviou a Vorcaro um parecer do Ministério Público de Contas do
+  TCE-RJ (sobre representação de 19/11/2024) favorável à legalidade dos aportes do Rioprevidência no Master
+  ("cumpriu todos os critérios legais necessários para receber os recursos previdenciários"), e articulou
+  diretamente com um repórter a pauta de divulgação dessa notícia — combinando os temas "Rioprev" e "Tce" —,
+  mas aconselhou Vorcaro a não aparecer pessoalmente ("não tem que aparecer nisso"), para não desgastar sua
+  imagem. No dia seguinte, Vorcaro pediu que a notícia não saísse naquele momento, mesmo sendo favorável,
+  porque tinha "captacao grande pra semana": "Nao podemos deixar sair essa noticia agora" — o timing da
+  divulgação era calculado para não coincidir com uma captação de recursos em andamento.'
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+related_entity_ids:
+- luiz-renno-netto
+- daniel-vorcaro
+- rioprevidencia
+excerpt: Nao podemos deixar sair essa noticia agora
+date: '2024-12-12'
+notes: Mostra um mecanismo de gestão de imprensa mais sofisticado do que a simples tentativa de pressão sobre
+  Kassab (lote 287/295) — envolve preparar reportagem favorável com documento oficial real (parecer do TCE-RJ),
+  coordenar diretamente com repórter, e cronometrar a divulgação para não conflitar com operações financeiras
+  em andamento.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
+created_at: '2026-09-13'
+updated_at: '2026-09-13'

@@ -1,0 +1,35 @@
+id: rev-2026-09-13-lote-296-renno-e-a-ponte-com-maceio
+kind: revision
+date: '2026-09-13'
+title: 'Lote 296 — Luiz Rennó Netto: parecer favorável do TCE-RJ, timing de imprensa, e a ponte com Maceió'
+summary: 'Novas páginas do mesmo documento comprobatório da PF (Pet 15.497) identificam Luiz Rennó Netto —
+  referido nas conversas de Vorcaro apenas como "neto" — como advogado de confiança encarregado de gestão de
+  imprensa e engenharia jurídica das operações do Rioprevidência. Em 12/12/2024, articulou a divulgação de um
+  parecer do TCE-RJ favorável à legalidade dos aportes, coordenando diretamente com um repórter, mas
+  aconselhou Vorcaro a não aparecer pessoalmente; a divulgação foi cronometrada para não coincidir com uma
+  captação de recursos em andamento. Achado maior: em 28/10/2025, ao estruturar um fundo para os ativos do
+  Rioprevidência, disse a Vorcaro "Faremos o mesmo em Maceió" — primeira ligação documental direta entre a
+  operação do Rioprevidência e o esquema do Iprev de Maceió (lote 294), até então tratados como casos
+  paralelos sem conexão explícita no acervo.'
+added:
+  people: 1
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 1
+  sources: 0
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'iprev-maceio: novo open_question com a ligação direta ao Rioprevidência via Luiz Rennó Netto.'
+author: orquestrador
+affected_ids:
+- luiz-renno-netto
+- daniel-vorcaro
+- iprev-maceio
+- rioprevidencia
+reason: Continuação da leitura do documento comprobatório (Pet 15.497) por fork cross-session, a pedido do
+  Rafael, focada em conexões do episódio Kassab; identificou "neto" e a ponte documental com Maceió.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-13'
