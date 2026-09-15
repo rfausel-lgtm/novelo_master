@@ -1,0 +1,48 @@
+id: evt-2026-02-12-reuniao-fechada-dez-ministros-relatorio-pf-toffoli
+kind: event
+title: Reunião fechada dos dez ministros do STF sobre o relatório da PF contra Toffoli
+event_type: meeting
+date: '2026-02-12'
+date_precision: day
+participant_ids:
+- edson-fachin
+- alexandre-de-moraes
+- gilmar-mendes
+- carmen-lucia
+- dias-toffoli
+- luiz-fux
+- andre-mendonca
+- nunes-marques
+- cristiano-zanin
+- flavio-dino
+location: Sede do STF, Brasília
+description: 'Reunião fechada dos dez ministros do STF (uma vaga aberta desde a saída de Barroso), em duas
+  etapas, para discutir relatório de 200 páginas da PF que investigava a permanência de Dias Toffoli como
+  relator do caso Banco Master. Segundo apuração do Poder360, o placar antes da solução negociada era de 8
+  votos pela permanência de Toffoli (Moraes, André Mendonça, Zanin, Dino, Gilmar Mendes, Fux, Nunes Marques e
+  o próprio Toffoli) contra 2 (Cármen Lúcia e Fachin); Flávio Dino, classificando o relatório como "lixo
+  jurídico", propôs a solução final: nota de apoio assinada pelos dez ministros, em troca da qual Toffoli
+  encaminharia voluntariamente o processo para redistribuição. No mesmo dia, o STF divulgou nota oficial
+  reconhecendo a validade dos atos praticados por Toffoli na relatoria e expressando apoio pessoal a ele; o
+  caso foi redistribuído a André Mendonça.'
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-reuniao-secreta-12-02-2026-ministros-rejeitam-relatorio-pf
+- ev-nota-oficial-dez-ministros-apoio-toffoli-12-02-2026
+source_ids:
+- src-poder360-2026-02-13-pressao-politica-empurrou-stf-tirar-toffoli
+- src-cnnbrasil-2026-02-13-dialogos-ministros-reuniao-toffoli
+- src-infomoney-2026-02-12-carta-ministros-stf-saida-toffoli
+- src-poder360-2026-09-11-ha-7-meses-pf-ligava-toffoli-pagamento
+document_ids: []
+public_act_ids: []
+cited_position: []
+tags:
+- caso-master
+- toffoli
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

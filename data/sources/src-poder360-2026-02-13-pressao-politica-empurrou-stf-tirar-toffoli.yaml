@@ -1,0 +1,35 @@
+id: src-poder360-2026-02-13-pressao-politica-empurrou-stf-tirar-toffoli
+kind: source
+title: Pressão política empurrou STF para tirar Toffoli do caso Master
+publisher: Poder360
+publication_date: '2026-02-13'
+retrieved_at: '2026-09-14'
+url: https://www.poder360.com.br/poder-justica/pressao-politica-empurrou-stf-para-tirar-toffoli-do-caso-master/
+source_type: press
+summary: 'Reconstitui a reunião fechada de 12/02/2026 dos dez ministros do STF (uma vaga aberta desde a saída
+  de Barroso), a partir de apuração própria com diálogos atribuídos aos ministros. Placar antes da solução
+  negociada: 8 a favor da permanência de Toffoli (Moraes, André Mendonça, Zanin, Dino, Gilmar Mendes, Fux,
+  Nunes Marques e o próprio Toffoli) e 2 contrários (Cármen Lúcia e Fachin). Citações atribuídas: Toffoli
+  disse que "não tinha nada a temer" e chamou o relatório da PF de "uma ilegalidade"; Gilmar Mendes disse
+  que "o que está por trás disso é que o ministro Toffoli tomou decisões, nesse caso Master, contrárias à
+  Polícia Federal. E a Polícia Federal quis retaliar"; Cármen Lúcia citou a repercussão pública ("todo taxista
+  que eu pego fala mal do Supremo") mas disse ter "confiança" em Toffoli; Fux disse que Toffoli "tem
+  credibilidade" com ele e que seu voto era "por ele. Ponto"; Moraes chamou a apuração da PF de "ilegal" e de
+  "trabalho sujo"; Nunes Marques chamou o argumento de suspeição de "nada jurídico"; e Dino, que classificou
+  as 200 páginas do relatório como "lixo jurídico" para ele, propôs a solução: uma nota assinada pelos 10
+  ministros de apoio a Toffoli, em troca da qual o ministro, "num gesto de grandeza e defesa da
+  institucionalidade", encaminharia o caso para redistribuição — o que resultou na nota oficial do mesmo dia e
+  na redistribuição a André Mendonça.'
+verification:
+  checked_at: '2026-09-14'
+  checked_by: orquestrador (WebFetch direto)
+  url_reachable: true
+  content_matches_summary: true
+notes: Apuração de bastidor com diálogos atribuídos a ministros do STF em reunião fechada; ver
+  src-cnnbrasil-2026-02-13-dialogos-ministros-reuniao-toffoli para a ressalva expressa de outro veículo sobre
+  a impossibilidade de verificar a autenticidade desses diálogos de forma independente.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'
