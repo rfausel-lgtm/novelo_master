@@ -57,6 +57,10 @@ open_questions:
   encontro do ministro com Daniel Vorcaro sobre a STP 976 e no episódio de "delação seletiva" de 16/06/2026
   (ver ev-suspeicao-benjamim-botelho-fundamentos). É pedido de parte interessada no afastamento do relator de
   seu próprio processo, não apuração independente.'
+- 'NOVO (15/09/2026): em 14/09, suscitou questão de ordem pedindo que o Plenário julgasse primeiro a
+  arguição de suspeição contra Mendonça, antes da sessão de 15/09, ou que sobrestasse o feito principal até
+  essa deliberação (ver ev-botelho-questao-de-ordem-suspeicao-antes-sessao). Não localizada informação sobre
+  apreciação antes do início da sessão.'
 - Não há manifestação dele sobre a menção ao fundo Jaguar Multimarket na delação de João Carlos Mansur;
   nenhum veículo o procurou sobre esse ponto específico.
 - Não foi localizada denúncia, indiciamento formal ou prisão contra ele no caso Master; as medidas existentes
@@ -95,8 +99,9 @@ source_ids:
 - src-trf3-acordao-hc-botelho-5033547
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 - src-stf-pet16704-arguicao-suspeicao-benjamim-botelho-mendonca
+- src-stf-pet16704-questao-de-ordem-botelho-14-09
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-14'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-14'
+updated_at: '2026-09-15'

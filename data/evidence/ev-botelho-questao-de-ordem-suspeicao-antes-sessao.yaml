@@ -1,0 +1,20 @@
+id: ev-botelho-questao-de-ordem-suspeicao-antes-sessao
+kind: evidence
+classification: D
+proposition: 'Em 14/09/2026, Benjamim Botelho de Almeida suscitou questão de ordem pedindo que o Plenário
+  julgasse primeiro a Arguição de Suspeição nº 253, que ele próprio apresentara em 08/09/2026 contra André
+  Mendonça, antes de prosseguir com a sessão extraordinária de 15/09/2026 — ou, alternativamente, que
+  sobrestasse o feito principal até a deliberação sobre a suspeição.'
+document_ids:
+- doc-2026-09-14-questao-de-ordem-botelho
+source_ids:
+- src-stf-pet16704-questao-de-ordem-botelho-14-09
+attributed_to_id: benjamim-botelho-de-almeida
+date: '2026-09-14'
+notes: Nenhuma fonte localizada até esta coleta informa se a questão de ordem foi apreciada antes do início
+  da sessão de 15/09.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

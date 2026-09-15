@@ -1,0 +1,26 @@
+id: src-stf-pet16704-questao-de-ordem-botelho-14-09
+kind: source
+title: 'Questão de Ordem de Benjamim Botelho de Almeida pede julgamento prévio da suspeição contra Mendonça'
+publisher: Supremo Tribunal Federal
+author: Benjamim Botelho de Almeida
+publication_date: '2026-09-14'
+retrieved_at: '2026-09-15'
+url: https://peticionamento.stf.jus.br/visualizarProcesso/7687920/1
+source_type: official_court
+summary: 'Petição de 4 páginas, protocolada em 14/09/2026, suscitando questão de ordem para que o Plenário
+  julgue primeiro a Arguição de Suspeição nº 253 (já apresentada por ele em 08/09/2026 contra André Mendonça,
+  já no acervo desde o lote 304) antes de prosseguir com a sessão extraordinária de 15/09/2026. Pede,
+  alternativamente, o sobrestamento de todo o feito principal até a deliberação sobre a suspeição.'
+notes: Peça obtida via peticionamento.stf.jus.br (sessão autenticada de Rafael). Botelho já é investigado na
+  Compliance Zero e já havia apresentado a arguição de suspeição em si (lote 304) — esta petição é a
+  escalada processual pedindo que ela seja julgada antes da sessão de hoje.
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (leitura direta do PDF extraído, 4 páginas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

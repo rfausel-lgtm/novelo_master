@@ -1,0 +1,34 @@
+id: rev-2026-09-15-lote-311-dois-pedidos-para-adiar-a-sessao
+kind: revision
+date: '2026-09-15'
+title: 'Lote 311 — na véspera, Partido Novo e Benjamim Botelho pedem para adiar ou reordenar a sessão de hoje'
+summary: 'Duas peças novas da Pet 16.704/DF, ambas de 14/09/2026 (véspera da sessão extraordinária de
+  15/09), pedindo que o Plenário altere o rito antes de julgar o mérito: (1) o Partido Novo interpôs agravo
+  interno contra os itens I, II e IV da decisão de Fachin de 09/09/2026 — que suspendeu a decisão de
+  Mendonça na Pet 16.662, sobrestou seu trâmite e suspendeu qualquer investigação de integrantes do STF —,
+  pedindo reconsideração ou submissão ao Plenário, sem impugnar o item que suspendeu a decisão de Flávio
+  Dino; (2) Benjamim Botelho de Almeida (investigado na Compliance Zero, autor da arguição de suspeição
+  contra Mendonça já publicada no lote 304) suscitou questão de ordem pedindo que essa arguição seja
+  julgada primeiro, ou que o feito principal seja sobrestado até sua deliberação. Nenhuma fonte localizada
+  até esta coleta informa se qualquer um dos dois pedidos foi apreciado antes do início da sessão de hoje.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 2
+  relationships: 0
+  sources: 2
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'partido-novo: novo open_question com o agravo interno de 14/09.'
+- 'benjamim-botelho-de-almeida: novo open_question com a questão de ordem de 14/09.'
+author: orquestrador
+affected_ids:
+- partido-novo
+- benjamim-botelho-de-almeida
+reason: Rafael baixou peças novas da Pet 16.704/DF na manhã de 15/09/2026, horas antes da sessão
+  extraordinária das 10h.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
