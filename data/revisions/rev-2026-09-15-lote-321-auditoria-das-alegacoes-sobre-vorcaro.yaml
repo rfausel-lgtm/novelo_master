@@ -1,0 +1,45 @@
+id: rev-2026-09-15-lote-321-auditoria-das-alegacoes-sobre-vorcaro
+kind: revision
+date: '2026-09-15'
+title: 'Lote 321 — auditoria das ligações classe A de Vorcaro, e a promessa de Ricardo Siqueira tem três meses e meio'
+summary: 'Auditoria das 57 relações classe A que envolvem Daniel Vorcaro, feita a partir da revisão estrutural do
+  grafo. Resultado: a predominância de classe A no centro do grafo é, em regra, classificação correta, não
+  fragilidade. Das 19 relações A que já tinham evidência documental ligada, 17 são alegações investigativas — o
+  documento prova que a PF ou a PGR afirmou, não que o fato ocorreu — e permanecem em A. As seis sem nenhuma
+  evidência ligada foram conferidas contra suas fontes: dizem o que o rótulo afirma e seguem em A, por serem fonte
+  única ou alegação. Uma única promoção se justificou: a convocação de Vorcaro como testemunha pela CPI do Crime
+  Organizado e o cancelamento do depoimento por sua prisão são fatos institucionais registrados por duas
+  publicações oficiais do Senado e por decisão do STF já no acervo, e a relação passa de A para C. O lote corrige
+  ainda uma data: a promessa de Ricardo Siqueira Rodrigues de revelar à PF o político "dono" do Rioprevidência foi
+  feita em entrevista ao Metrópoles em 31/05/2026, dias depois da 8ª fase da Compliance Zero — e não em 13/09/2026,
+  como o acervo registrara a partir de republicação. Três meses e meio depois, não há notícia pública de que a
+  revelação tenha ocorrido.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 0
+updated_relationships: 1
+corrections:
+- 'rel-daniel-vorcaro-cpi-do-crime-organizado-institutional: de A para C (fato institucional com duas fontes
+  oficiais do Senado e evidência documental da decisão de Mendonça).'
+- 'ev-ricardo-siqueira-promete-revelar-dono-a-pf, ricardo-siqueira-rodrigues e
+  src-temporealrj-2026-09-ricardo-siqueira-promete-revelar-dono: a entrevista é de 31/05/2026, não de 13/09/2026.'
+- 'benjamim-botelho-de-almeida: apelação criminal no TRF3 pautada para sessão virtual de 09/06/2026, sem
+  comunicação posterior no DJEN nem acórdão localizado até 15/09/2026 — sem desfecho confirmado.'
+author: orquestrador
+affected_ids:
+- daniel-vorcaro
+- cpi-do-crime-organizado
+- ricardo-siqueira-rodrigues
+- rioprevidencia
+- benjamim-botelho-de-almeida
+reason: Linha 1 da revisão estrutural de 15/09/2026; a auditoria corrigiu o diagnóstico inicial de que o centro do
+  grafo seria frágil por excesso de classe A. A data da entrevista foi levantada por pesquisa delegada e conferida
+  por esta sessão.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'

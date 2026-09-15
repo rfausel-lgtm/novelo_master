@@ -12,8 +12,10 @@ summary: 'Em sua primeira entrevista à imprensa desde que passou a ser publicam
   posso fazer é dar um encaminhamento técnico... porque lá tem dono, tá?"). Na entrevista, afirmou que um
   político ainda não citado nas investigações autorizava as transferências, mas não o nomeou publicamente.
   É uma promessa de revelação futura (à PF, não à imprensa), não uma divulgação já feita.'
-notes: Verificado por WebFetch direto. Não localizada, nesta coleta, confirmação de que a revelação à PF já
-  ocorreu.
+notes: 'Verificado por WebFetch direto. CORREÇÃO (lote 321): a data de 13/09/2026 foi atribuída na coleta sem
+  confirmação na página; a entrevista reproduzida é de 31/05/2026 (ver
+  src-agendadopoder-2026-05-31-siqueira-promete-revelar-dono), e "a semana anterior" do texto é a da 8ª fase
+  da Compliance Zero, em maio. Não localizada confirmação de que a revelação à PF já ocorreu.'
 verification:
   checked_at: '2026-09-13'
   checked_by: orquestrador

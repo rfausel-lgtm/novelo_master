@@ -1,17 +1,21 @@
 id: ev-ricardo-siqueira-promete-revelar-dono-a-pf
 kind: evidence
 classification: A
-proposition: Em sua primeira entrevista à imprensa desde que passou a ser publicamente investigado, Ricardo
-  Siqueira Rodrigues afirmou que revelará à Polícia Federal a identidade do "dono" do esquema no
-  Rioprevidência, e disse que um político ainda não citado nas investigações autorizava as transferências —
-  sem nomeá-lo publicamente.
+proposition: 'Em entrevista ao Metrópoles publicada em 31/05/2026, dias depois de ser alvo da 8ª fase da
+  Compliance Zero, Ricardo Siqueira Rodrigues afirmou que revelará à Polícia Federal ou à PGR a identidade do
+  "dono" do esquema no Rioprevidência ("Esse dono específico, com relação ao Rio de Janeiro, eu estou aguardando
+  aqui para poder prestar depoimento dentro dos próximos dias à Polícia Federal ou à PGR"), e disse que um
+  político ainda não citado nas investigações autorizava as transferências — sem nomeá-lo publicamente.'
 document_ids: []
 source_ids:
+- src-agendadopoder-2026-05-31-siqueira-promete-revelar-dono
 - src-temporealrj-2026-09-ricardo-siqueira-promete-revelar-dono
-attributed_to: Ricardo Siqueira Rodrigues, em entrevista de 13/09/2026
-date: '2026-09-13'
-notes: Promessa de revelação futura, não divulgação já feita — não há, até esta coleta, confirmação de que
-  ele de fato revelou o nome à PF.
+attributed_to: Ricardo Siqueira Rodrigues, em entrevista ao Metrópoles de 31/05/2026
+date: '2026-05-31'
+notes: 'CORRIGIDO (lote 321): o acervo registrara a entrevista como de 13/09/2026, a partir de republicação sem
+  data confiável; a entrevista é de 31/05/2026. Promessa de revelação futura, não divulgação já feita — até
+  15/09/2026, três meses e meio depois, não há notícia pública de que o depoimento tenha ocorrido nem de que o
+  nome tenha sido revelado.'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-13'
