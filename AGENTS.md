@@ -15,7 +15,7 @@ nada nesta cadeia depende de alguém lembrar depois.
 
 1. **Publicar o lote.** `npm run data:lint -- --strict` e `npm run build`, ambos com saída 0 (conferir
    o código de saída, não o texto), commit com o `data/revisions/*.yaml` do lote, push na `main`. O instante de publicação
-   (`published_at`), que ordena as atualizações do mesmo dia, é gravado pelo
+   (`published_at`), que ordena as atualizações, é gravado pelo
    [`card-de-lote.yml`](.github/workflows/card-de-lote.yml) logo depois do push, a partir do histórico
    do git; rodar `npm run data:published-at -- --write` antes do commit é opcional. O
    Cloudflare Pages reconstrói o site a cada push na `main` e `/atualizacoes` já abre com as dez

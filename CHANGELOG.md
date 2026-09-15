@@ -2,6 +2,16 @@
 
 ## Unreleased
 
+- **Atualizações em ordem de publicação.** A lista ordenava primeiro pela data editorial da revisão e só
+  depois pelo instante de publicação. Como a data é escolhida por quem publica, sem critério único, os
+  lotes 84 a 88 (publicados em 05/09 com data de 04/09) apareciam abaixo dos lotes 89 a 98, e lotes
+  publicados depois da meia-noite saíam ora com a data do dia anterior, ora com a do dia novo. Agora o
+  instante de publicação, gravado pelo workflow a partir do git, decide primeiro; a data editorial só
+  desempata e continua sendo a data exibida. O lote 87, cuja revisão foi criada retroativamente em
+  09/09 e carimbada com essa data, passa a ter o horário em que o conteúdo foi publicado (05/09, 15:19);
+  sem isso ele subiria para o meio dos lotes de 09/09. Os lotes 83 a 86 usados duas vezes em 05/09 ficam
+  na ordem em que cada um saiu.
+
 - **Saneamento de dados pessoais (auditoria rotineira).** Varredura de todo o acervo publicado contra
   a seção 6 da política editorial. Não havia CPF, RG, telefone, placa nem dado bancário; havia cinco
   tipos de dado vedado em 31 registros, todos retirados sem alterar fato nenhum: número de unidade de

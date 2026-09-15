@@ -101,7 +101,7 @@ describe("ordem pelo instante de publicação", () => {
     ).toEqual(["rev-2026-09-12-lote-2-brt", "rev-2026-09-12-lote-9-utc"]);
   });
 
-  it("revisão ainda sem horário conta como a mais recente do dia", () => {
+  it("revisão ainda sem horário conta como a mais recente", () => {
     expect(
       ordemP([
         revP("rev-2026-09-12-lote-300-com-horario", "2026-09-12", "2026-09-12T23:59:00-03:00"),
@@ -110,12 +110,26 @@ describe("ordem pelo instante de publicação", () => {
     ).toEqual(["rev-2026-09-12-lote-1-sem-horario", "rev-2026-09-12-lote-300-com-horario"]);
   });
 
-  it("a data editorial continua valendo antes do horário", () => {
+  /*
+   * O caso de 05/09/2026: os lotes 84 a 88 saíram com a data de 04/09 e afundavam abaixo dos lotes
+   * 89 a 98, publicados no mesmo dia. A data é escolhida por quem publica; o instante, não.
+   */
+  it("o horário de publicação vale antes da data editorial", () => {
     expect(
       ordemP([
-        revP("rev-2026-09-12-lote-2-a", "2026-09-12", "2026-09-13T09:00:00-03:00"),
-        revP("rev-2026-09-13-lote-1-b", "2026-09-13", "2026-09-12T09:00:00-03:00"),
+        revP("rev-2026-09-05-lote-89-a", "2026-09-05", "2026-09-05T15:40:36-03:00"),
+        revP("rev-2026-09-05-lote-88-b", "2026-09-04", "2026-09-05T15:23:49-03:00"),
+        revP("rev-2026-09-05-lote-90-c", "2026-09-05", "2026-09-05T16:00:00-03:00"),
       ]),
-    ).toEqual(["rev-2026-09-13-lote-1-b", "rev-2026-09-12-lote-2-a"]);
+    ).toEqual(["rev-2026-09-05-lote-90-c", "rev-2026-09-05-lote-89-a", "rev-2026-09-05-lote-88-b"]);
+  });
+
+  it("revisão sem horário fica acima até das de data posterior", () => {
+    expect(
+      ordemP([
+        revP("rev-2026-09-15-lote-306-com-horario", "2026-09-15", "2026-09-15T10:00:00-03:00"),
+        revP("rev-2026-09-14-lote-307-sem-horario", "2026-09-14"),
+      ]),
+    ).toEqual(["rev-2026-09-14-lote-307-sem-horario", "rev-2026-09-15-lote-306-com-horario"]);
   });
 });
