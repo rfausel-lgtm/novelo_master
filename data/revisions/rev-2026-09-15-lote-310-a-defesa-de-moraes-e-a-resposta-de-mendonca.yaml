@@ -1,0 +1,44 @@
+id: rev-2026-09-15-lote-310-a-defesa-de-moraes-e-a-resposta-de-mendonca
+kind: revision
+date: '2026-09-15'
+title: 'Lote 310 — na véspera da sessão, Moraes acusa Mendonça de vazamento e motivação eleitoral'
+summary: 'Rafael baixou, na manhã de 15/09/2026, peças novas da Pet 16.704/DF datadas de 14/09 — véspera da
+  sessão extraordinária. A mais relevante: ofício de 44 páginas e 121 tópicos (GMAM 13/2026) em que
+  Alexandre de Moraes, em cumprimento a despacho de Fachin, apresenta defesa formal contra a investigação e
+  acusa diretamente André Mendonça de ter vazado informações à imprensa antes de 7/9/2026, gravado vídeo
+  político na véspera de atos por motivação eleitoral, e tentado incluir Moraes e o senador Davi Alcolumbre
+  em colaboração premiada "por motivos pessoais e políticos" — a acusação mais direta já registrada no
+  acervo de um ministro do STF contra outro. Moraes também insinua, sem prova anexada, que o relatório da
+  PF poderia ter sido produzido com auxílio de "órgão externo, provavelmente estrangeiro". No mesmo dia,
+  Mendonça respondeu separadamente a Fachin explicando a origem de um despacho controverso: determinou
+  identificar pessoas citadas numa nota de Vorcaro que mencionava o diretor-geral da PF e o procurador-geral
+  da República, agindo "por cautela... sem imputar qualquer suspeita a quem quer que seja". Mendonça não
+  respondeu publicamente às acusações específicas de Moraes até esta coleta. Tudo tratado como alegação de
+  parte interessada, não fato estabelecido.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 2
+  relationships: 0
+  sources: 2
+  evidence: 2
+updated_relationships: 1
+corrections:
+- 'rel-alexandre-de-moraes-andre-mendonca-allegation: escalada registrada — de decisão administrativa
+  (03/09) para acusação pessoal direta e detalhada (14/09).'
+- 'alexandre-de-moraes: novo open_question com a defesa de 121 tópicos e as acusações contra Mendonça.'
+- 'andre-mendonca: novo open_question com sua explicação sobre o despacho de identificação e as acusações
+  de Moraes contra ele.'
+- 'davi-alcolumbre: open_question já existente reforçado — agora é o próprio Moraes, não só a PF em hipótese
+  de inteligência, quem afirma que Mendonça tentou incluí-lo em colaboração premiada por motivos políticos.'
+author: orquestrador
+affected_ids:
+- alexandre-de-moraes
+- andre-mendonca
+- davi-alcolumbre
+reason: Rafael baixou peças novas da Pet 16.704/DF na manhã de 15/09/2026, horas antes da sessão
+  extraordinária das 10h, e pediu para analisar o que ainda não estava no grafo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'

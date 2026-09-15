@@ -1,0 +1,33 @@
+id: ev-moraes-acusa-mendonca-vazamento-motivacao-eleitoral
+kind: evidence
+classification: A
+proposition: 'Na véspera da sessão de 15/09/2026, em ofício formal a Fachin, Alexandre de Moraes acusou
+  André Mendonça de ter, pessoalmente, vazado informações à imprensa na semana anterior a 7/9/2026 e
+  gravado um vídeo nas redes sociais na véspera de atos políticos "para impulsionar os comícios de
+  determinado grupo político" — caracterizando a condução da investigação contra ele e contra o senador
+  Davi Alcolumbre como direcionada "por motivos pessoais e políticos", com vistas às eleições de outubro de
+  2026. Moraes também insinuou, sem comprovação anexada, que o relatório da PF poderia ter sido produzido
+  com auxílio de "órgão externo, provavelmente estrangeiro", e sugeriu relação entre isso e o afastamento
+  do diretor-geral da PF.'
+document_ids:
+- doc-2026-09-14-oficio-gmam13-defesa-moraes
+source_ids:
+- src-stf-pet16704-oficio-gmam13-defesa-moraes-121-topicos
+attributed_to_id: alexandre-de-moraes
+excerpt: Por motivos políticos-eleitorais, houve direcionamento do magistrado relator para incriminar colega
+  do STF, bem como o Presidente do Senado Federal e favorecer determinado grupo político nas eleições de
+  outubro de 2026, inclusive com o vazamento pelo próprio relator... reforçado pela gravação de um vídeo nas
+  redes sociais pelo próprio Ministro relator, na véspera dos comícios de 7/9.
+date: '2026-09-14'
+notes: 'ALEGAÇÃO DE PARTE INTERESSADA — o próprio investigado acusando o relator que conduziu a investigação
+  contra ele, apresentada como fato consumado ("como todos vocês da imprensa sabem"), sem prova documental
+  própria anexada a estas peças nem cobertura jornalística independente localizada que confirme o vazamento
+  ou a autoria do vídeo. A insinuação de produção do relatório por "órgão externo, provavelmente
+  estrangeiro" é apresentada sem qualquer elemento de sustentação além da observação sobre metadados do
+  arquivo (aberto e finalizado no mesmo dia) — interpretação da própria defesa, não conclusão pericial
+  independente.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

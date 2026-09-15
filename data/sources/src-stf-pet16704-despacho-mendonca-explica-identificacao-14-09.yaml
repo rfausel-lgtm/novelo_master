@@ -1,0 +1,32 @@
+id: src-stf-pet16704-despacho-mendonca-explica-identificacao-14-09
+kind: source
+title: 'Despacho de Mendonça (14/09/2026) explica por que determinou identificar pessoas citadas em nota de
+  Vorcaro'
+publisher: Supremo Tribunal Federal
+author: Ministro André Mendonça
+publication_date: '2026-09-14'
+retrieved_at: '2026-09-15'
+url: https://peticionamento.stf.jus.br/visualizarProcesso/7687920/1
+source_type: official_court
+summary: 'Resposta de 8 páginas de Mendonça ao despacho de Fachin de 03/09/2026, explicando as circunstâncias
+  do despacho que determinou a identificação de pessoas mencionadas na IPJ-M nº 144738439/2026. Segundo
+  Mendonça, a medida foi precaução: uma nota enviada por Daniel Vorcaro a interlocutor não identificado, via
+  WhatsApp, mencionava "Andrei Augusto Passos Rodrigues, Diretor-Geral da Polícia Federal" e "Paulo Gustavo
+  Gonet Branco, Procurador-Geral da República" — e, diante da menção direta a essas duas autoridades,
+  Mendonça diz ter agido "sem imputar qualquer suspeita a quem quer que seja", apenas para preservar a
+  regularidade dos autos. Também relata que a intimação dos delegados da Pet 15.556 se deu presencialmente
+  em seu gabinete em 24/08/2026, às 17h40.'
+notes: Peça obtida via peticionamento.stf.jus.br (sessão autenticada de Rafael). É a versão de Mendonça
+  sobre um episódio que a defesa de Moraes (mesma data, ver
+  src-stf-pet16704-oficio-gmam13-defesa-moraes-121-topicos) caracteriza como parte de um "direcionamento
+  ilegal" da investigação.
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (leitura direta do PDF extraído, 8 páginas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

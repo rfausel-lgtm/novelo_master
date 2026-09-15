@@ -1,0 +1,25 @@
+id: ev-mendonca-explica-identificacao-nota-vorcaro-pf-pgr
+kind: evidence
+classification: D
+proposition: 'André Mendonça, em resposta formal a Fachin de 14/09/2026, explicou que determinou a
+  identificação de pessoas mencionadas na IPJ-M nº 144738439/2026 porque uma nota enviada por Daniel
+  Vorcaro a um interlocutor não identificado, via WhatsApp, mencionava nominalmente o diretor-geral da PF,
+  Andrei Rodrigues, e o procurador-geral da República, Paulo Gonet — e que agiu "sem imputar qualquer
+  suspeita a quem quer que seja", por cautela, dada a menção direta às duas autoridades.'
+document_ids:
+- doc-2026-09-14-despacho-mendonca-explica-identificacao
+source_ids:
+- src-stf-pet16704-despacho-mendonca-explica-identificacao-14-09
+attributed_to_id: andre-mendonca
+excerpt: diante da menção direta à pessoa do atual Diretor-Geral da Polícia Federal, bem como do
+  Procurador-Geral da República, por cautela, buscando preservar a higidez dos autos e a eficiência das
+  investigações — sem imputar qualquer suspeita a quem quer que seja.
+date: '2026-09-14'
+notes: É a versão do próprio Mendonça sobre um episódio que a defesa de Moraes, na mesma data, caracteriza
+  como parte de um "direcionamento ilegal" da investigação (ver
+  ev-moraes-acusa-mendonca-vazamento-motivacao-eleitoral).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

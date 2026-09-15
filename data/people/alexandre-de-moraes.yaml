@@ -42,6 +42,12 @@ cited_position:
   by_id: barci-de-moraes-sociedade-de-advogados
   date: '2026-09-02'
 open_questions:
+- 'NOVO (15/09/2026): na véspera da sessão de 15/09, apresentou a Fachin defesa formal de 121 tópicos (Ofício
+  GMAM 13/2026) alegando nulidade da investigação contra ele e acusando diretamente André Mendonça de
+  vazamento à imprensa, de gravar vídeo político por motivação eleitoral e de tentar incluí-lo em colaboração
+  premiada "por motivos pessoais e políticos" — ver ev-moraes-acusa-mendonca-vazamento-motivacao-eleitoral.
+  Alegação de parte interessada, sem prova documental própria anexada nem resposta pública de Mendonça
+  localizada até esta coleta.'
 - 'NOVO (13/09/2026): a PF, na Pet 15.625, aponta o Perito Criminal Federal João Cláudio Nabas como suspeito de
   ter vazado, em dezembro de 2025, material do celular de Vorcaro sobre o contrato de Viviane Barci de Moraes
   (publicado por O Globo em 09/12/2025); o mesmo arquivo foi apagado do OneDrive institucional horas antes de
@@ -110,6 +116,7 @@ source_ids:
 - src-stf-pet16704-oficios-acesso-midia-celular-2026-09-11
 - src-stf-pet16704-oficio-gmam11-2026-09-13-pet15645-sigilo
 - src-congressoemfoco-2026-09-01-relatorio-pf
+- src-stf-pet16704-oficio-gmam13-defesa-moraes-121-topicos
 - src-poder360-2026-09-01-sigilo-pet-16662
 - src-poder360-2026-03-06-moraes-nega
 - src-cnn-2026-02-12-toffoli-deixa-relatoria

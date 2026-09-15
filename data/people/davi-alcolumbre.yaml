@@ -79,7 +79,12 @@ open_questions:
   contra Rueda ou Alcolumbre que qualquer autoridade atribua a esse motivo específico. NOVO (13/09/2026):
   o mesmo relatório liga esse suposto interesse de Mendonça a um motivo mais amplo — a chance de que uma
   "anistia ampla dos crimes cometidos no contexto da recente tentativa de golpe de Estado" (8 de janeiro de
-  2023) viesse a ser "avalizada no Tribunal" com uma composição mais favorável.'
+  2023) viesse a ser "avalizada no Tribunal" com uma composição mais favorável. REFORÇO (15/09/2026): em
+  defesa formal de 14/09/2026 (Ofício GMAM 13/2026, ver ev-moraes-acusa-mendonca-vazamento-motivacao-eleitoral),
+  o próprio Moraes afirma diretamente que Mendonça tentou incluir Alcolumbre (ao lado dele) em colaboração
+  premiada "por motivos pessoais e políticos" — primeira vez que um ministro do STF, em nome próprio, faz
+  essa acusação especificamente sobre Alcolumbre, e não apenas a PF em hipótese de inteligência. Ainda
+  assim, é alegação de parte interessada (o próprio investigado), sem prova documental própria anexada.'
 - 'Achado em 13/09/2026: Alcolumbre e Rueda são, na verdade, RIVAIS pelo comando estratégico do União
   Brasil para 2026 — Alcolumbre busca estreitar laços com o governo Lula, Rueda defende (com ACM Neto)
   postura mais distante e crítica. A rivalidade não confirma nem afasta a hipótese da PF sobre Mendonça
@@ -114,6 +119,7 @@ open_questions:
 - A negativa da assessoria cobre 'nomeações e decisões administrativas'; o corpus não localizou manifestação
   dele sobre a relação pessoal com Jocildo Lemos nem sobre o vínculo de campanha.
 source_ids:
+- src-stf-pet16704-oficio-gmam13-defesa-moraes-121-topicos
 - src-stf-pet16704-oficio07-moraes-2026-09-11
 - src-senado-pec-65-2023-materia
 - src-senado-2026-05-21-alcolumbre-cpmi
