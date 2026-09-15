@@ -1,0 +1,25 @@
+id: ev-pf-operacao-transparencia-busca-cezinha-madureira
+kind: evidence
+classification: C
+proposition: 'Em 14/09/2026, a Polícia Federal cumpriu a terceira fase da Operação Transparência — quatro
+  mandados de busca e apreensão no Distrito Federal e em São Paulo, autorizados pelo Min. Flávio Dino —
+  contra o deputado federal Cezinha de Madureira (PL-SP) e sua esposa, a advogada Valéria Rodrigues
+  Linhares, por suspeita de exploração de prestígio, tráfico de influência, corrupção passiva e lavagem de
+  dinheiro. A investigação aponta negociação de "pagamento de valores expressivos, condicionados ao
+  resultado de processos em curso", com o objetivo de influenciar decisões judiciais em tribunais
+  superiores. Em 25/08/2026, a PF já havia apreendido R$ 510 mil em espécie com Linhares, em mala, no
+  Aeroporto de Congonhas. A Operação Transparência começou em dezembro de 2025 para apurar irregularidades
+  na destinação de emendas parlamentares; esta é sua terceira fase.'
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-09-14-pf-operacao-trafico-influencia-cezinha
+- src-gazetadopovo-2026-09-14-pf-cezinha-suspeita-trafico-influencia
+attributed_to_id: cezinha-de-madureira
+date: '2026-09-14'
+notes: Classificado como C (duas fontes de imprensa independentes); despacho/decisão de Dino autorizando
+  as buscas não foi localizado nem lido diretamente por esta equipe até esta coleta.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

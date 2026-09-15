@@ -1,0 +1,27 @@
+id: rel-cezinha-de-madureira-valeria-rodrigues-linhares-familial
+kind: relationship
+from_id: cezinha-de-madureira
+to_id: valeria-rodrigues-linhares
+relationship_type: familial
+directed: false
+label: cônjuge
+description: Cezinha de Madureira e a advogada Valéria Rodrigues Linhares são casados. Ambos são alvos da
+  terceira fase da Operação Transparência (14/09/2026), autorizada pelo Min. Flávio Dino, por suspeita de
+  tráfico de influência sobre tribunais superiores. Linhares teve R$ 510 mil em espécie apreendidos em
+  25/08/2026 no Aeroporto de Congonhas.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids:
+- evt-2026-09-14-pf-operacao-transparencia-busca-cezinha
+evidence_ids:
+- ev-pf-operacao-transparencia-busca-cezinha-madureira
+source_ids:
+- src-cnnbrasil-2026-09-14-pf-operacao-trafico-influencia-cezinha
+- src-gazetadopovo-2026-09-14-pf-cezinha-suspeita-trafico-influencia
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

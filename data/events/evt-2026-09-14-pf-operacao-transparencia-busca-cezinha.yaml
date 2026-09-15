@@ -1,0 +1,31 @@
+id: evt-2026-09-14-pf-operacao-transparencia-busca-cezinha
+kind: event
+title: 'PF cumpre 3ª fase da Operação Transparência contra Cezinha de Madureira, autorizada por Dino'
+event_type: investigation_step
+date: '2026-09-14'
+date_precision: day
+participant_ids:
+- cezinha-de-madureira
+- valeria-rodrigues-linhares
+- flavio-dino
+description: 'Terceira fase da Operação Transparência: quatro mandados de busca e apreensão no DF e em SP
+  contra o deputado Cezinha de Madureira e sua esposa Valéria Rodrigues Linhares, por suspeita de
+  exploração de prestígio, tráfico de influência, corrupção passiva e lavagem de dinheiro, autorizados pelo
+  Min. Flávio Dino. Ocorre na véspera da sessão extraordinária do Plenário do STF de 15/09/2026 e um dia
+  antes de Dino, na ADPF 1.196, citar o mesmo Cezinha de Madureira como intermediário do encontro entre o
+  Min. André Mendonça e Daniel Vorcaro em 14/03/2025 (ver evt-2026-09-15-dino-decisao-adpf1196-converte-diligencia
+  e rel-daniel-vorcaro-andre-mendonca-allegation).'
+evidence_class: C
+status: unverified
+evidence_ids:
+- ev-pf-operacao-transparencia-busca-cezinha-madureira
+source_ids:
+- src-cnnbrasil-2026-09-14-pf-operacao-trafico-influencia-cezinha
+- src-gazetadopovo-2026-09-14-pf-cezinha-suspeita-trafico-influencia
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -6,9 +6,15 @@ role: Deputado federal (PL-SP)
 positions: []
 summary: Deputado federal e liderança da Assembleia de Deus Ministério de Madureira. Segundo o Brasil
   de Fato, articulou com Ciro Soares o encontro de 14/03/2025 entre Vorcaro e o ministro André Mendonça
-  e enviou mensagem confirmando que o ministro aguardava o banqueiro.
+  e enviou mensagem confirmando que o ministro aguardava o banqueiro. Em 14/09/2026, ele e a esposa,
+  Valéria Rodrigues Linhares, foram alvos da terceira fase da Operação Transparência (quatro mandados de
+  busca e apreensão no DF e em SP, autorizados pelo Min. Flávio Dino), por suspeita de exploração de
+  prestígio, tráfico de influência, corrupção passiva e lavagem de dinheiro — negociação de valores
+  condicionados ao resultado de processos judiciais em tribunais superiores.
 why_in_novelo: É apontado pela imprensa, com base em mensagens do celular de Daniel Vorcaro, como articulador
-  do encontro entre o banqueiro e o ministro André Mendonça.
+  do encontro entre o banqueiro e o ministro André Mendonça — e, desde 14/09/2026, é também alvo formal de
+  investigação da PF, autorizada pelo mesmo Min. Flávio Dino que na véspera da sessão do STF sobre o caso
+  Master citou esse mesmo encontro na decisão da ADPF 1.196 (lote 313).
 cited_position:
 - date: '2026-09-02'
   by_id: cezinha-de-madureira
@@ -16,15 +22,22 @@ cited_position:
   summary: Negou ato ilícito; à época do encontro não havia informação pública de investigação sobre Vorcaro.
   source_ids:
   - src-cnn-2026-09-02-mendonca-admite-encontro
-open_questions: []
+open_questions:
+- 'NOVO (15/09/2026): a investigação de tráfico de influência (Operação Transparência) é formalmente
+  distinta da apuração sobre o encontro Mendonça-Vorcaro — nenhuma fonte, até esta coleta, afirma que a PF
+  ou o Min. Dino tenham ligado formalmente os dois fatos entre si; a proximidade temporal e o fato de ambos
+  envolverem o mesmo intermediário e o mesmo relator são registradas aqui como coincidência relevante a
+  observar, não como conexão processual estabelecida.'
 source_ids:
 - src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
 - src-cnn-2026-09-02-mendonca-admite-encontro
+- src-cnnbrasil-2026-09-14-pf-operacao-trafico-influencia-cezinha
+- src-gazetadopovo-2026-09-14-pf-cezinha-suspeita-trafico-influencia
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-15'
 photo:
   path: /fotos/cezinha-de-madureira.jpg
   source: Wikimedia Commons

@@ -1,0 +1,43 @@
+id: rev-2026-09-15-lote-314-pf-mira-cezinha-madureira-trafico-influencia
+kind: revision
+date: '2026-09-15'
+title: 'Lote 314 — PF mira Cezinha de Madureira por tráfico de influência, autorizado por Dino'
+summary: 'Achado de um fork delegado, verificado por esta sessão via WebFetch em duas fontes de imprensa
+  independentes (CNN Brasil, Gazeta do Povo): em 14/09/2026, a PF cumpriu a terceira fase da Operação
+  Transparência (iniciada em dezembro/2025 sobre emendas parlamentares) contra o deputado Cezinha de
+  Madureira (PL-SP) e sua esposa, a advogada Valéria Rodrigues Linhares (nova no acervo) — quatro mandados
+  de busca e apreensão no DF e em SP, autorizados pelo Min. Flávio Dino, por suspeita de exploração de
+  prestígio, tráfico de influência, corrupção passiva e lavagem de dinheiro, envolvendo negociação de
+  valores condicionados ao resultado de processos em tribunais superiores. Já se sabia que Linhares tivera
+  R$ 510 mil em espécie apreendidos em mala no Aeroporto de Congonhas em 25/08/2026. Cezinha de Madureira
+  já constava do acervo como o intermediário, segundo a imprensa, do encontro de 14/03/2025 entre o Min.
+  André Mendonça e Daniel Vorcaro — encontro que a decisão de hoje do Min. Dino na ADPF 1.196 (lote 313)
+  volta a citar. Registrado com cautela: nenhuma fonte liga formalmente as duas apurações entre si; a
+  coincidência de intermediário e relator é anotada como o que é — coincidência a observar, não conexão
+  processual estabelecida.'
+added:
+  people: 1
+  organizations: 0
+  events: 1
+  documents: 0
+  relationships: 1
+  sources: 2
+  evidence: 1
+updated_relationships: 0
+corrections:
+- 'cezinha-de-madureira: verbete atualizado com a Operação Transparência e nova open_question sobre a
+  ausência de conexão formal entre essa investigação e o episódio do encontro Mendonça-Vorcaro.'
+author: orquestrador
+affected_ids:
+- cezinha-de-madureira
+- valeria-rodrigues-linhares
+- flavio-dino
+- andre-mendonca
+- daniel-vorcaro
+reason: Fork delegado (funny-chatterjee-b1b9b2-9d), ao apurar material pendente sobre o histórico do caso
+  Master relacionado a cemitérios, encontrou de forma independente esta operação da véspera e sinalizou
+  como mais urgente por envolver a mesma pessoa citada na decisão do Min. Dino publicada no lote 313; esta
+  sessão verificou via WebFetch antes de publicar.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'

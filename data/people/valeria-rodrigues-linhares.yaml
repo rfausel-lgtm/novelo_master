@@ -1,0 +1,33 @@
+id: valeria-rodrigues-linhares
+kind: person
+name: Valéria Rodrigues Linhares
+full_name: Valéria Rodrigues Linhares
+aliases: []
+category: lawyer
+role: Advogada, esposa do deputado federal Cezinha de Madureira (PL-SP)
+positions: []
+summary: Advogada, filiada ao PSD antes da migração de Cezinha de Madureira para o PL. Teve R$ 510 mil em
+  espécie apreendidos pela Polícia Federal em 25/08/2026, dentro de uma mala, no Aeroporto de Congonhas
+  (São Paulo). Alvo, junto com o marido, da terceira fase da Operação Transparência em 14/09/2026 (quatro
+  mandados de busca e apreensão no DF e em SP, autorizados pelo Min. Flávio Dino), por suspeita de
+  exploração de prestígio, tráfico de influência, corrupção passiva e lavagem de dinheiro.
+why_in_novelo: Alvo, com o marido Cezinha de Madureira — intermediário do encontro entre o Min. André
+  Mendonça e Daniel Vorcaro em 14/03/2025, segundo apuração já registrada no acervo —, de investigação da
+  PF por suposta venda de influência sobre ministros de tribunais superiores.
+cited_position:
+- kind: denial
+  summary: Sua defesa afirmou que o valor de R$ 510 mil apreendido no aeroporto estava devidamente
+    declarado e não haveria ilegalidade.
+  source_ids:
+  - src-cnnbrasil-2026-09-14-pf-operacao-trafico-influencia-cezinha
+  date: '2026-09-14'
+open_questions:
+- Origem e destino declarados do valor apreendido não localizados nesta coleta.
+source_ids:
+- src-cnnbrasil-2026-09-14-pf-operacao-trafico-influencia-cezinha
+- src-gazetadopovo-2026-09-14-pf-cezinha-suspeita-trafico-influencia
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'
