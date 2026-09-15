@@ -1,0 +1,17 @@
+kind: evidence
+source_ids:
+- src-stf-pet16230-autos-pecas
+id: ev-emails-da-unidade-1702-dirigidos-a-david-monteiro
+classification: D
+proposition: Os e-mails da construtora sobre a personalização da unidade 1.702, entre outubro de 2025 e fevereiro
+  de 2026, foram endereçados a "David Monteiro" e respondidos com a assinatura de Luiz Lombardi, diretor da Epítome,
+  que em 10/02/2026 pediu que a construtora não copiasse nenhum e-mail de David.
+document_ids:
+- doc-2026-07-06-resposta-moura-dubeux-pet16230-unidade-1702
+date: 2025-10
+excerpt: Não copiar nenhum e-mail do David
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

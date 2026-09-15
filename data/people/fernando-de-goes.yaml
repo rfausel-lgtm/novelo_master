@@ -13,7 +13,9 @@ summary: 'Segundo o documento comprobatório da PF (Pet 15.497), foi acionado po
   Paulo ("falei com ele que era tudo inverdade o q estava falando"). A representação da PF da 9ª fase o identifica
   como Fernando de Goes Mascarenhas Filho, diretor comercial do Master, e registra que, em conversa com Vorcaro
   sobre o banco ser visto como próximo do governo, escreveu "vou mandar então pra tio guiga e Jaques", que a PF
-  lê como referência a Guilherme Sodré e ao senador Jaques Wagner.'
+  lê como referência a Guilherme Sodré e ao senador Jaques Wagner. Segundo a análise cadastral da PF, foi diretor
+  da PKL One de outubro de 2020 a julho de 2021, e em 10/03/2022 assinou como procurador do Master o contrato com
+  a BN Financeira.'
 why_in_novelo: É um segundo canal, paralelo a Augusto Lima, que Vorcaro usou na mesma tentativa de pressão política
   sobre Gilberto Kassab em outubro de 2024 — e a fonte da confirmação interna de que Kassab de fato ligou para Pedro
   Paulo.
@@ -30,6 +32,7 @@ source_ids:
 - src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
 - src-pf-representacao-9a-fase-wagner-pdf
 - src-poder360-2026-06-19-pf-wagner-intermediario-vorcaro-lula
+- src-stf-pet16230-autos-pecas
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'

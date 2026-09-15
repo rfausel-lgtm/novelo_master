@@ -6,9 +6,9 @@ relationship_type: financial
 directed: false
 label: transferência de R$ 3,5 milhões em 17/10/2025
 start_date: '2025-10-17'
-description: A decisão do STF registra transferência de R$ 3.500.000,00 da PKL One Participações — detentora
-  dos direitos do CredCesta e vinculada ao núcleo de Augusto Ferreira Lima — à BN Financeira em 17/10/2025,
-  com comprovante bancário nos autos.
+description: A decisão do STF registra transferência de R$ 3.500.000,00 da PKL One Participações — detentora dos
+  direitos do CredCesta e vinculada ao núcleo de Augusto Ferreira Lima — à BN Financeira em 17/10/2025, com comprovante
+  bancário nos autos.
 evidence_class: D
 confidence: 0.9
 status: verified
@@ -16,11 +16,22 @@ event_ids:
 - evt-2026-06-17-suspensao-das-atividades-das-empresas-bn
 evidence_ids:
 - ev-valores-bn-reconciliados
+- ev-termo-quitacao-pkl-pagou-bn-por-mera-liberalidade
 source_ids:
 - src-stf-pet-16229-decisao-9a-fase-pdf
-document_ids: []
+- src-stf-pet16230-autos-pecas
+document_ids:
+- doc-2025-10-16-termo-quitacao-pkl-one-bn-financeira
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-15'
+cited_position:
+- kind: clarification
+  by_id: pkl-one-participacoes
+  date: 2026-07
+  summary: Em agravo na PET 16.230, a PKL One diz que o repasse quitou valores devidos pelo Master à BN Financeira
+    por serviços de correspondente; o termo de quitação fala em pagamento "por mera liberalidade".
+  source_ids:
+  - src-stf-pet16230-autos-pecas

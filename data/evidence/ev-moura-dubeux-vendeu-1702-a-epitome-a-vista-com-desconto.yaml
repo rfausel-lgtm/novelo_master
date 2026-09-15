@@ -1,0 +1,19 @@
+kind: evidence
+source_ids:
+- src-stf-pet16230-autos-pecas
+id: ev-moura-dubeux-vendeu-1702-a-epitome-a-vista-com-desconto
+classification: D
+proposition: A Moura Dubeux vendeu a unidade 1.702 do Poème Horto à Epítome S.A. em 27/12/2024, sete dias depois
+  da rescisão do primeiro comprador, por R$ 2.455.250 à vista — valor de tabela de R$ 2.827.000 com 10% de desconto
+  e mais 3,5% de desconto da comissão.
+document_ids:
+- doc-2026-07-06-resposta-moura-dubeux-pet16230-unidade-1702
+date: '2024-12-27'
+excerpt: comercializada em 27/12/2024 para EPITOME S.A., mediante pagamento à vista
+notes: Um mês antes, em 26/11/2024, Wagner enviara a Augusto Lima o contato do gerente da construtora com "a unidade
+  é a 1702 e o preço é 2,45 mi", segundo a decisão de 19/06/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

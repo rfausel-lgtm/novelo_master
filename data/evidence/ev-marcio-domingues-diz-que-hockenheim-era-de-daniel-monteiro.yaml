@@ -1,0 +1,17 @@
+kind: evidence
+source_ids:
+- src-stf-pet16230-autos-pecas
+id: ev-marcio-domingues-diz-que-hockenheim-era-de-daniel-monteiro
+classification: A
+proposition: Em oitiva na PF em 16/07/2026, Márcio Domingues dos Santos afirmou que o fundo Hockenheim, que capitalizou
+  a Epítome, "era do Daniel Monteiro", até onde sabia, e que a Epítome era um ativo abaixo desse fundo.
+document_ids:
+- doc-2026-07-16-termos-de-oitiva-pf-pissolito-e-marcio-domingues
+attributed_to: Márcio Domingues dos Santos, em oitiva na Polícia Federal
+date: '2026-07-16'
+excerpt: era do Daniel Monteiro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,24 @@
+kind: document
+source_ids:
+- src-stf-pet16230-autos-pecas
+id: doc-2026-07-16-termos-de-oitiva-pf-pissolito-e-marcio-domingues
+title: Termos de oitiva de André Pissolito Campos e Márcio Domingues dos Santos na PF
+doc_type: testimony
+date: '2026-07-16'
+date_precision: day
+issuer_id: policia-federal
+issuer: Polícia Federal
+reference: STF, PET 16.230/DF, e-doc 281
+is_official: true
+summary: Oitivas juntadas pela defesa de Márcio Domingues. Pissolito, ex-sócio de Daniel Lopes Monteiro, diz ter
+  feito a pedido dele, em fevereiro de 2026, minuta de cessão com os dados comerciais em branco. Márcio afirma que
+  o fundo Hockenheim "era do Daniel Monteiro", até onde sabia, e que a Epítome era ativo abaixo desse fundo.
+excerpt: Esse é um fundo que é uma estrutura, até onde a gente sabe lá, que era do Daniel Monteiro
+related_entity_ids:
+- daniel-lopes-monteiro
+- epitome-sa
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

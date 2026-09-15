@@ -1,0 +1,28 @@
+kind: document
+source_ids:
+- src-stf-pet16230-autos-pecas
+id: doc-2026-06-ipja-2268204-analise-cadastral-pet16230
+title: Análise cadastral e societária da PF (IPJ-A 2268204/2026) juntada na PET 16.230
+doc_type: official_report
+date: 2026-06
+date_precision: month
+issuer_id: policia-federal
+issuer: Polícia Federal — NAI/CRC/CGRC/DICOR
+reference: IPJ-A nº 2268204/2026; STF, PET 16.230/DF, e-doc 6
+is_official: true
+summary: Levantamento cadastral pedido pela PGR. Registra que a Sodré Martins Serviços Administrativos, constituída
+  em 19/02/2021 em São José do Rio Preto (SP), tem Guilherme Henrique Sodré Martins com 60% do capital e Eduardo
+  Mendonça Sodré Martins com 10%, entre outros sócios; que a GF4.15 Participações e Consultoria tem Guilherme como
+  único sócio administrador; e que Fernando de Góes Mascarenhas Filho integrou a diretoria da PKL One de 21/10/2020
+  a 06/07/2021.
+excerpt: possui como único sócio administrador GUILHERME HENRIQUE SODRÉ MARTINS
+related_entity_ids:
+- sodre-martins-servicos-administrativos
+- gf4-15-participacoes-e-consultoria
+- pkl-one-participacoes
+- fernando-de-goes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

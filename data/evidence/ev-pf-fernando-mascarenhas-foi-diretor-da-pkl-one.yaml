@@ -1,0 +1,17 @@
+kind: evidence
+source_ids:
+- src-stf-pet16230-autos-pecas
+id: ev-pf-fernando-mascarenhas-foi-diretor-da-pkl-one
+classification: D
+proposition: Segundo a análise cadastral da PF, Fernando de Góes Mascarenhas Filho, diretor comercial do Banco Master,
+  integrou a diretoria da PKL One de 21/10/2020 a 06/07/2021.
+document_ids:
+- doc-2026-06-ipja-2268204-analise-cadastral-pet16230
+attributed_to_id: policia-federal
+date: '2020-10-21'
+excerpt: incluído em 21/10/2020 e excluído em 06/07/2021
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

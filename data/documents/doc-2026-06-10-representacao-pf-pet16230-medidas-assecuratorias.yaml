@@ -1,0 +1,27 @@
+kind: document
+source_ids:
+- src-stf-pet16230-autos-pecas
+id: doc-2026-06-10-representacao-pf-pet16230-medidas-assecuratorias
+title: Representação da PF por medidas assecuratórias na PET 16.230
+doc_type: judicial_filing
+date: '2026-06-10'
+date_precision: day
+issuer_id: policia-federal
+issuer: Polícia Federal — CINQ/CGRC/DICOR
+reference: STF, PET 16.230/DF, e-doc 2 (Ofício 2368199/2026)
+is_official: true
+summary: 'Representação de cerca de 100 páginas que fundamenta a constrição de 19/06/2026. Entre outros pontos:
+  descreve a Epítome S.A., antes NK 322 Empreendimentos e Participações, cujo capital subiu de R$ 100 para R$ 2.000.100
+  em 11/07/2024; transcreve planilha do celular de Daniel Lopes Monteiro com o fluxo "Mansur aporta no Sebastian.
+  Sebastian aporta na Pegasus. Mytra emitirá Nota contra a Pegasus"; e registra pagamentos a "Dudu" acima de R$
+  2,34 milhões.'
+excerpt: Mansur aporta no Sebastian. Sebastian aporta na Pegasus. Mytra emitirá Nota contra a Pegasus
+related_entity_ids:
+- epitome-sa
+- daniel-lopes-monteiro
+- joao-carlos-mansur
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

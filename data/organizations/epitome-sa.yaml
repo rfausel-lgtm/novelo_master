@@ -3,11 +3,15 @@ kind: organization
 name: Epítome S.A.
 aliases: []
 org_type: company
-summary: Empresa que, segundo a decisão da Petição 16.229, teria realizado a compra formal de um apartamento do Poème Horto, representada por Luiz Antônio Lombardi, com recursos provenientes de estruturas
-  de fundos vinculadas ao grupo econômico investigado — dinâmica que a autoridade policial reputa compatível
-  com ocultação do beneficiário final.
-why_in_novelo: É apontada em decisão pública do STF como a compradora formal do imóvel examinado no primeiro
-  eixo da 9ª fase da Compliance Zero.
+summary: Empresa que, segundo a decisão da Petição 16.229, teria realizado a compra formal de um apartamento do
+  Poème Horto, representada por Luiz Antônio Lombardi, com recursos provenientes de estruturas de fundos vinculadas
+  ao grupo econômico investigado — dinâmica que a autoridade policial reputa compatível com ocultação do beneficiário
+  final. Os autos da PET 16.230 mostram que se chamava NK 322 Empreendimentos e Participações até 11/07/2024, quando
+  teve o capital elevado a R$ 2.000.100; comprou a unidade 1.702 em 27/12/2024 por R$ 2.455.250 à vista, com cerca
+  de 13% abaixo da tabela; e que os e-mails da personalização foram dirigidos a David Monteiro. Um depoente disse
+  à PF que o fundo sob o qual estava a empresa era de Daniel Lopes Monteiro.
+why_in_novelo: É apontada em decisão pública do STF como a compradora formal do imóvel examinado no primeiro eixo
+  da 9ª fase da Compliance Zero.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
@@ -16,8 +20,9 @@ open_questions:
 - A leitura de ocultação do beneficiário final é da autoridade policial, sem juízo de mérito.
 source_ids:
 - src-poder360-2026-06-18-nona-fase-wagner
+- src-stf-pet16230-autos-pecas
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-09-15'

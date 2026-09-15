@@ -1,0 +1,28 @@
+kind: document
+source_ids:
+- src-stf-pet16230-autos-pecas
+id: doc-2026-07-06-resposta-moura-dubeux-pet16230-unidade-1702
+title: Resposta da Moura Dubeux e documentos da unidade 1.702 do Poème Horto na PET 16.230
+doc_type: letter
+date: '2026-07-06'
+date_precision: day
+issuer_id: grupo-moura-dubeux
+issuer: Moura Dubeux Engenharia e MD BA Parque Florestal Construções
+reference: STF, PET 16.230/DF, e-docs 129 a 146
+is_official: false
+summary: A construtora informa que a unidade 1.702 foi liberada por rescisão do primeiro comprador em 20/12/2024
+  e vendida em 27/12/2024 à Epítome S.A., representada por Luiz Antônio Lombardi, por R$ 2.455.250,00 à vista. A
+  proposta de reserva registra valor de tabela de R$ 2.827.000,00, com desconto de 10% e mais 3,5% de desconto da
+  comissão. Os e-mails da personalização da unidade (out/2025 a fev/2026) foram dirigidos a "David Monteiro" e respondidos
+  com a assinatura de Lombardi, que em 10/02/2026 pediu à construtora para "não copiar nenhum e-mail do David".
+excerpt: Valor de tabela R$ 2.827.000,00 - Desconto de 10%
+related_entity_ids:
+- grupo-moura-dubeux
+- epitome-sa
+- luiz-antonio-lombardi
+- david-lopes-monteiro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

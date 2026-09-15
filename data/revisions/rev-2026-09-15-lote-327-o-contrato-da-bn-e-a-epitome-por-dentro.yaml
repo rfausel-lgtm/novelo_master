@@ -1,0 +1,50 @@
+id: rev-2026-09-15-lote-327-o-contrato-da-bn-e-a-epitome-por-dentro
+kind: revision
+date: '2026-09-15'
+title: Lote 327 — o contrato do Master com a BN Financeira e a Epítome por dentro da PET 16.230
+summary: 'A leitura das 343 peças da PET 16.230 traz os documentos que sustentam os dois eixos. No eixo BN Financeira,
+  o contrato de 10/03/2022 com o Master — 15% da receita do consignado Credcesta, convênio de Lauro de Freitas,
+  assinado pelo diretor comercial Fernando Mascarenhas, ex-diretor da PKL One, e com a Terra Firme de Augusto Lima
+  como interveniente — e o termo de quitação de outubro de 2025, emitido pelo escritório de Daniel Monteiro, em
+  que a PKL One paga os R$ 3,5 milhões "por mera liberalidade" uma dívida que o próprio termo atribui ao Master.
+  No eixo do apartamento, a Epítome, ex-NK 322, capitalizada em julho de 2024, comprou a unidade 1.702 à vista uma
+  semana depois de ela ser liberada, cerca de 13% abaixo da tabela; os e-mails da personalização iam para David
+  Monteiro, e um depoente disse à PF que o fundo que controlava a Epítome era de Daniel Monteiro. A Sodré Martins
+  Serviços Administrativos passa de alegação a vínculo societário: 60% de Guilherme e 10% de Eduardo.'
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 6
+  relationships: 5
+  sources: 0
+  evidence: 9
+updated_relationships: 3
+corrections:
+- 'rel-guilherme-henrique-sodre-martins-sodre-martins-servicos-administrativos-allegation e rel-eduardo-mendonca-sodre-martins-sodre-martins-servicos-administrativos-allegation:
+  de alegação (A) para vínculo societário documentado (D), com os percentuais da análise cadastral da PF.'
+author: orquestrador
+affected_ids:
+- banco-master
+- bn-financeira
+- pkl-one-participacoes
+- terra-firme-da-bahia
+- fernando-de-goes
+- luiz-bull
+- augusto-lima
+- epitome-sa
+- david-lopes-monteiro
+- daniel-lopes-monteiro
+- luiz-antonio-lombardi
+- monteiro-sociedade-de-advogados
+- sodre-martins-servicos-administrativos
+- guilherme-henrique-sodre-martins
+- eduardo-mendonca-sodre-martins
+- joao-carlos-mansur
+reason: Leitura integral da PET 16.230 por equipes delegadas, com cada ponto publicado conferido por esta sessão
+  no texto das peças.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

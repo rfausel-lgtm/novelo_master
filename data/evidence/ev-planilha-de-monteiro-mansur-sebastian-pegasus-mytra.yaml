@@ -1,0 +1,20 @@
+kind: evidence
+source_ids:
+- src-stf-pet16230-autos-pecas
+id: ev-planilha-de-monteiro-mansur-sebastian-pegasus-mytra
+classification: D
+proposition: 'Segundo a representação da PF, planilha do celular de Daniel Lopes Monteiro descreve o fluxo dos pagamentos
+  a "Mansur": "Mansur aporta no Sebastian. Sebastian aporta na Pegasus. Mytra emitirá Nota contra a Pegasus", o
+  que a PF lê como estrutura societária interposta.'
+document_ids:
+- doc-2026-06-10-representacao-pf-pet16230-medidas-assecuratorias
+attributed_to_id: policia-federal
+date: '2026-06-10'
+excerpt: Mansur aporta no Sebastian
+notes: A leitura da planilha é da PF; as iniciais podem corresponder a Daniel ou a David Monteiro, segundo a própria
+  representação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,31 @@
+kind: document
+source_ids:
+- src-stf-pet16230-autos-pecas
+id: doc-2022-03-10-contrato-parceria-master-bn-financeira
+title: Contrato de Parceria Comercial e Outras Avenças entre Banco Master e BN Financeira
+doc_type: contract
+date: '2022-03-10'
+date_precision: day
+issuer: Banco Master S.A. e BN Financeira Ltda.
+reference: Juntado na PET 16.230 (e-docs 79 e 92)
+is_official: false
+summary: Contrato assinado em São Paulo em 10/03/2022 pelo qual a BN Financeira prospecta, com exclusividade, operações
+  de crédito consignado do cartão Credcesta para o Banco Master, recebendo 15% da receita mensal líquida das operações
+  que originar; já indica o convênio do Município de Lauro de Freitas (BA). Registra, nos considerandos, a cessão
+  ao Master, em 24/06/2018, dos direitos de exploração do Credcesta pela PKL One. Assinam pelo Master Fernando de
+  Góes Mascarenhas Filho (procurador) e Luiz Antônio Bull (diretor); pela BN, seu sócio administrador; como intervenientes
+  anuentes, a PKL One, por seu diretor, e a Terra Firme da Bahia, por Augusto Ferreira Lima.
+excerpt: atribua ao Parceiro 15% (quinze por cento) da receita mensal deduzidos os tributos
+related_entity_ids:
+- banco-master
+- bn-financeira
+- pkl-one-participacoes
+- terra-firme-da-bahia
+- fernando-de-goes
+- luiz-bull
+- augusto-lima
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

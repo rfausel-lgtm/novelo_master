@@ -1,0 +1,25 @@
+kind: relationship
+event_ids: []
+evidence_ids:
+- ev-termo-quitacao-pkl-pagou-bn-por-mera-liberalidade
+source_ids:
+- src-stf-pet16230-autos-pecas
+document_ids:
+- doc-2025-10-16-termo-quitacao-pkl-one-bn-financeira
+id: rel-monteiro-sociedade-de-advogados-bn-financeira-professional
+from_id: monteiro-sociedade-de-advogados
+to_id: bn-financeira
+relationship_type: professional
+directed: true
+label: emitiu o envelope de assinatura do termo de quitação PKL–BN (out/2025)
+start_date: '2025-10-16'
+description: O certificado DocuSign do termo de quitação de 16/10/2025 entre PKL One e BN Financeira registra o
+  escritório Monteiro, Rusu, Cameirão e Bercht Advogados, de Daniel Lopes Monteiro, como emissor do envelope.
+evidence_class: D
+confidence: 0.85
+status: verified
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

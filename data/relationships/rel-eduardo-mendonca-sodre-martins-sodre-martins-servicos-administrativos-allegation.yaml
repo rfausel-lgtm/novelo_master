@@ -3,23 +3,27 @@ event_ids:
 - evt-2026-06-19-mendonca-decreta-constricao-patrimonial-pet16230
 evidence_ids:
 - ev-pet16230-constricao-de-27-alvos-pelos-eixos-poeme-e-bn
+- ev-pf-sodre-martins-servicos-guilherme-60-eduardo-10
 source_ids:
 - src-stf-pet16230-decisao-19-06-2026-constricao-patrimonial
+- src-stf-pet16230-autos-pecas
 document_ids:
 - doc-2026-06-19-decisao-pet16230-constricao-patrimonial
+- doc-2026-06-ipja-2268204-analise-cadastral-pet16230
 id: rel-eduardo-mendonca-sodre-martins-sodre-martins-servicos-administrativos-allegation
 from_id: eduardo-mendonca-sodre-martins
 to_id: sodre-martins-servicos-administrativos
-relationship_type: investigative_allegation
+relationship_type: corporate
 directed: true
-label: empresa vinculada, segundo a PF
-description: Segundo a PF, citada na decisão de 19/06/2026 na PET 16.230, a Sodré Martins Serviços Administrativos
-  é vinculada ao núcleo de Eduardo e Guilherme Sodré Martins e deve ser tratada como projeção patrimonial dos investigados.
-evidence_class: A
-confidence: 0.7
-status: unverified
+label: sócio com 10% do capital (segundo a PF)
+description: Segundo a análise cadastral da PF juntada na PET 16.230, detém 10% do capital da Sodré Martins Serviços
+  Administrativos, aberta em 19/02/2021; a PF trata a empresa como projeção patrimonial dos investigados.
+evidence_class: D
+confidence: 0.85
+status: verified
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'
 created_at: '2026-09-15'
 updated_at: '2026-09-15'
+start_date: '2021-02-19'

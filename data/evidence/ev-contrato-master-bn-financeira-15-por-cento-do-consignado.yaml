@@ -1,0 +1,19 @@
+kind: evidence
+source_ids:
+- src-stf-pet16230-autos-pecas
+id: ev-contrato-master-bn-financeira-15-por-cento-do-consignado
+classification: D
+proposition: Em 10/03/2022, o Banco Master contratou a BN Financeira para prospectar, com exclusividade, consignado
+  do Credcesta, pagando-lhe 15% da receita mensal líquida das operações que originasse, com o convênio de Lauro
+  de Freitas (BA) já indicado; assinaram pelo Master Fernando de Góes Mascarenhas Filho e Luiz Antônio Bull, com
+  a PKL One e a Terra Firme da Bahia, de Augusto Lima, como intervenientes.
+document_ids:
+- doc-2022-03-10-contrato-parceria-master-bn-financeira
+date: '2022-03-10'
+excerpt: Município de Lauro de Freitas - BA
+notes: O contrato é anterior à MP 1.106/2022 (17/03/2022), cuja emenda de Wagner a PF associa ao consignado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,26 @@
+kind: document
+source_ids:
+- src-stf-pet16230-autos-pecas
+id: doc-2025-10-16-termo-quitacao-pkl-one-bn-financeira
+title: Termo de quitação entre PKL One e BN Financeira (R$ 3,5 milhões)
+doc_type: contract
+date: '2025-10-16'
+date_precision: day
+issuer: BN Financeira Ltda.
+reference: Juntado na PET 16.230 (e-docs 80 e 93); envelope DocuSign 63EF94A4
+is_official: false
+summary: Declara que os valores devidos no contrato de 2022 são de responsabilidade exclusiva do Banco Master, mas
+  que a PKL One, "por mera liberalidade", pagou R$ 3.500.000,00, e dá quitação integral à PKL. O certificado de
+  conclusão do DocuSign registra o escritório Monteiro, Rusu, Cameirão e Bercht Advogados como emissor do envelope,
+  concluído em 17/10/2025.
+excerpt: a PKL, por mera liberalidade, optou por realizar o pagamento do valor de R$ 3.500.000,00
+related_entity_ids:
+- pkl-one-participacoes
+- bn-financeira
+- banco-master
+- monteiro-sociedade-de-advogados
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'
