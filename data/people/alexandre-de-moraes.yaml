@@ -21,7 +21,9 @@ summary: 'Ministro do STF. O relatório da PF sobre o celular de Daniel Vorcaro 
   Em 03/09/2026 ele foi intimado, ao lado de André Mendonça, Paulo Gonet e Andrei Passos Rodrigues, a
   prestar informações na PET 16.704, aberta de ofício pela Presidência do Supremo — condição processual
   de quem presta informações, não de investigado. Não há inquérito instaurado, indiciamento ou denúncia
-  contra ele.'
+  contra ele. Na véspera da sessão extraordinária de 15/09/2026, em que o Plenário decidiria se autoriza
+  a abertura de investigação contra ele, apresentou defesa formal de 121 tópicos negando qualquer conduta
+  ilícita e acusando diretamente Mendonça de ter direcionado a investigação por motivação político-eleitoral.'
 why_in_novelo: Aparece em relatório da Polícia Federal sobre o celular de Daniel Vorcaro como contato
   salvo e interlocutor referido em mensagens, e é cônjuge da titular do escritório contratado pelo Banco
   Master; sua posição de negativa está registrada.
@@ -34,6 +36,16 @@ cited_position:
     contatos do ministro''; o material estaria vinculado a outros contatos da agenda do banqueiro.'
   source_ids:
   - src-poder360-2026-03-06-moraes-nega
+- date: '2026-09-14'
+  by_id: alexandre-de-moraes
+  kind: denial
+  summary: 'Defesa formal de 121 tópicos (Ofício GMAM 13/2026, 44 páginas), na véspera da sessão de 15/09:
+    nega qualquer conduta ilícita, sustenta que a investigação contra ele é nula por instauração de ofício
+    sem autorização do Plenário, que os 7.742 documentos dos autos não trazem um único indício contra ele,
+    e acusa diretamente André Mendonça de tê-la direcionado por motivação político-eleitoral (vazamento à
+    imprensa, gravação de vídeo político, tentativa de incluí-lo em colaboração premiada).'
+  source_ids:
+  - src-stf-pet16704-oficio-gmam13-defesa-moraes-121-topicos
 - kind: clarification
   summary: Segundo o escritório, o compliance do Banco Master consultou o ministro sobre eventuais impedimentos
     legais antes da contratação; ele jamais julgou causa envolvendo o banco.
@@ -42,12 +54,10 @@ cited_position:
   by_id: barci-de-moraes-sociedade-de-advogados
   date: '2026-09-02'
 open_questions:
-- 'NOVO (15/09/2026): na véspera da sessão de 15/09, apresentou a Fachin defesa formal de 121 tópicos (Ofício
-  GMAM 13/2026) alegando nulidade da investigação contra ele e acusando diretamente André Mendonça de
-  vazamento à imprensa, de gravar vídeo político por motivação eleitoral e de tentar incluí-lo em colaboração
-  premiada "por motivos pessoais e políticos" — ver ev-moraes-acusa-mendonca-vazamento-motivacao-eleitoral.
-  Alegação de parte interessada, sem prova documental própria anexada nem resposta pública de Mendonça
-  localizada até esta coleta.'
+- 'Sobre a defesa de 121 tópicos de 14/09/2026 (ver cited_position acima): as acusações contra Mendonça —
+  vazamento à imprensa, vídeo político por motivação eleitoral, tentativa de incluí-lo em colaboração
+  premiada — são alegação de parte interessada, sem prova documental própria anexada a estas peças nem
+  resposta pública de Mendonça localizada até esta coleta (ver ev-moraes-acusa-mendonca-vazamento-motivacao-eleitoral).'
 - 'NOVO (13/09/2026): a PF, na Pet 15.625, aponta o Perito Criminal Federal João Cláudio Nabas como suspeito de
   ter vazado, em dezembro de 2025, material do celular de Vorcaro sobre o contrato de Viviane Barci de Moraes
   (publicado por O Globo em 09/12/2025); o mesmo arquivo foi apagado do OneDrive institucional horas antes de
@@ -145,9 +155,9 @@ external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Alexandre_de_Moraes
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-09-15'
 photo:
   path: /fotos/alexandre-de-moraes.jpg
   source: Wikimedia Commons
