@@ -1,0 +1,38 @@
+id: rev-2026-09-15-lote-312-simonetti-trava-o-afastamento-de-moraes-na-oab
+kind: revision
+date: '2026-09-15'
+title: 'Lote 312 — Simonetti trava o afastamento de Moraes na OAB, meses depois de criticá-lo na campanha'
+summary: 'Apuração de um fork delegado sobre a postura do presidente da OAB, Beto Simonetti (novo verbete),
+  diante da crise Moraes/Toffoli. Em 09/09/2026, o Conselho Federal — já no acervo por pedir acesso a provas
+  e o afastamento do procurador-geral Gonet (lote 306) — optou, na mesma reunião, por criar uma comissão
+  formada pela própria diretoria em vez de deliberar sobre o afastamento cautelar de Moraes e Toffoli. Em
+  14/09/2026, véspera da sessão extraordinária de hoje, o conselheiro Marcelo Tostes (MG) pediu que essa
+  votação fosse pautada, citando o contrato do escritório da esposa de Moraes com o Banco Master; Simonetti
+  recusou, alegando que a comissão ainda examinava o caso — recusa criticada pelo conselheiro Telles.
+  Achado editorial: na campanha de reeleição (janeiro/2025), Simonetti havia criticado publicamente Moraes
+  ("a lei brasileira não permite que a vítima julgue seu próprio caso"); a tensão entre esse discurso e a
+  recusa de pautar, oito meses depois, é registrada como inferência, não como contradição provada — nenhuma
+  fonte liga os dois fatos expressamente. Busca negativa testada e registrada: não há indício de vínculo
+  financeiro entre o escritório de Simonetti (Manaus) e o Banco Master, Vorcaro, CredCesta ou a Amazonprev.'
+added:
+  people: 1
+  organizations: 0
+  events: 1
+  documents: 0
+  relationships: 2
+  sources: 4
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'oab-conselho-federal: resumo atualizado com a criação da comissão (09/09) e a recusa de pautar (14/09).'
+author: orquestrador
+affected_ids:
+- beto-simonetti
+- oab-conselho-federal
+- alexandre-de-moraes
+- dias-toffoli
+reason: Rafael pediu a um fork para aprofundar a postura da OAB sobre o afastamento de Moraes/Toffoli e
+  possíveis conexões do presidente da entidade com o caso Master; a apuração voltou pronta para publicação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'

@@ -1,0 +1,25 @@
+id: src-jornaldebrasilia-2026-simonetti-critico-moraes-reeleicao
+kind: source
+title: 'OAB repete chapa única com crítico de Moraes e caminha para rara reeleição'
+publisher: Jornal de Brasília
+publication_date: '2025-01-30'
+retrieved_at: '2026-09-15'
+url: https://jornaldebrasilia.com.br/noticias/politica-e-poder/oab-repete-chapa-unica-com-critico-de-moraes-e-caminha-para-rara-reeleicao/
+source_type: press
+summary: 'Cobertura da campanha de reeleição de José Alberto (Beto) Simonetti à presidência do Conselho
+  Federal da OAB (chapa única, eleita em 31/01/2025 com 77 de 80 votos). Registra crítica pública e nominal
+  de Simonetti a Alexandre de Moraes, com a frase "a lei brasileira não permite que a vítima julgue seu
+  próprio caso" — lida pela imprensa como referência ao ministro, no contexto dos processos do 8 de janeiro
+  em que ele figura simultaneamente como um dos alvos dos atos golpistas e como julgador dos casos.'
+notes: Verificado por WebFetch direto, via agente de pesquisa delegado. A frase é anterior em cerca de 8
+  meses às revelações de setembro de 2026 sobre as mensagens Vorcaro-Moraes.
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (via fork delegado)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

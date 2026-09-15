@@ -1,0 +1,24 @@
+id: ev-simonetti-critica-moraes-campanha-depois-recusa-pautar
+kind: evidence
+classification: I
+proposition: 'Há uma tensão não resolvida entre duas condutas de Beto Simonetti: na campanha de reeleição à
+  presidência da OAB (janeiro/2025), criticou publicamente Alexandre de Moraes, sem nomeá-lo diretamente
+  ("a lei brasileira não permite que a vítima julgue seu próprio caso"); menos de oito meses depois, já como
+  presidente reeleito e com evidência concreta em mãos (mensagens Vorcaro-Moraes, contrato do escritório da
+  esposa de Moraes com o Banco Master), recusou pautar no Conselho Federal a votação sobre o afastamento
+  cautelar do próprio ministro, preferindo uma comissão sob controle da diretoria que preside.'
+document_ids: []
+source_ids:
+- src-jornaldebrasilia-2026-simonetti-critico-moraes-reeleicao
+- src-ndmais-2026-09-14-simonetti-rejeita-pautar-afastamento
+date: '2026-09-14'
+inference_basis: 'Nenhuma fonte liga expressamente os dois fatos — a frase de campanha de janeiro/2025 e a
+  recusa de pautar de setembro/2026. A tensão é construída pela equipe a partir da cronologia e do conteúdo
+  dos dois eventos, não por declaração de terceiro que os associe. Limite explícito: a recusa de pautar foi
+  justificada publicamente por razão procedimental (comissão em andamento), não por mudança de opinião
+  sobre Moraes — a equipe não tem como distinguir entre justificativa genuína e pretexto.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

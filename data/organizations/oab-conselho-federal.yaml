@@ -5,15 +5,21 @@ aliases:
 - OAB
 - Conselho Federal da OAB
 org_type: association
-summary: Órgão nacional máximo da advocacia brasileira. Em 01/09/2026, por meio do presidente em exercício
-  Délio Lins e Silva Jr., manifestou 'extrema preocupação' com a crise institucional envolvendo o STF,
+summary: 'Órgão nacional máximo da advocacia brasileira. Em 01/09/2026, por meio do presidente em exercício
+  Délio Lins e Silva Jr., manifestou ''extrema preocupação'' com a crise institucional envolvendo o STF,
   pedindo apuração rigorosa e imparcial dos fatos, com garantia de devido processo, ampla defesa e presunção
   de inocência — sem pedir o afastamento de nenhum dos envolvidos. NOVO (09/09/2026) — em manifestação mais
   formal, assinada pelo presidente José Alberto Simonetti em conjunto com dirigentes de 24 seccionais
   estaduais e protocolada na Pet 16.704/DF, pediu acesso da OAB aos elementos de prova do caso, inclusive sob
   sigilo, e que o procurador-geral da República, Paulo Gonet Branco, se abstivesse de oficiar na Pet
   16.662/DF por ter sido pessoalmente chamado a prestar esclarecimentos sobre os mesmos fatos na Pet
-  16.704/DF.
+  16.704/DF. NA MESMA REUNIÃO de 09/09/2026, em vez de deliberar sobre o afastamento cautelar de Moraes e
+  de Dias Toffoli, a diretoria decidiu criar uma comissão formada por ela própria e pelos presidentes de
+  seccionais para examinar os documentos e redigir relatório sobre a conduta dos ministros. NOVO
+  (14/09/2026): em reunião seguinte, o presidente Beto Simonetti recusou pautar a votação direta sobre o
+  afastamento, pedida pelo conselheiro Marcelo Tostes (MG), alegando que a comissão ainda estava em
+  andamento — recusa criticada publicamente pelo conselheiro Telles (ver
+  evt-2026-09-14-oab-simonetti-recusa-pautar-afastamento).'
 why_in_novelo: Manifestou-se institucionalmente sobre a crise entre Moraes e Mendonça, em posição mais
   moderada que a da seccional do Paraná, e pediu formalmente o afastamento do procurador-geral da República
   de um dos procedimentos relacionados ao caso.
@@ -24,11 +30,13 @@ open_questions: []
 source_ids:
 - src-oantagonista-2026-09-01-oab-extrema-preocupacao
 - src-stf-pet16704-manifestacao-oab-pede-recusa-gonet
+- src-ndmais-2026-09-14-simonetti-rejeita-pautar-afastamento
+- src-poder360-2026-09-09-oab-pede-acesso-provas-afastamento-gonet
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-14'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-14'
+updated_at: '2026-09-15'
 photo:
   path: /fotos/oab-conselho-federal.png
   source: Wikimedia Commons

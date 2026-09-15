@@ -1,0 +1,29 @@
+id: rel-beto-simonetti-alexandre-de-moraes-political
+kind: relationship
+from_id: beto-simonetti
+to_id: alexandre-de-moraes
+relationship_type: political
+directed: true
+label: criticou na campanha, depois recusou pautar seu afastamento
+description: Simonetti criticou publicamente Moraes na campanha de reeleição à OAB (janeiro/2025); menos
+  de oito meses depois, já como presidente reeleito, recusou pautar no Conselho Federal a votação sobre o
+  afastamento cautelar do ministro. Nenhuma fonte liga expressamente os dois fatos — tensão registrada como
+  inferência, não como contradição provada.
+evidence_class: I
+confidence: 0.4
+status: unverified
+event_ids:
+- evt-2026-09-14-oab-simonetti-recusa-pautar-afastamento
+evidence_ids:
+- ev-simonetti-critica-moraes-campanha-depois-recusa-pautar
+source_ids:
+- src-jornaldebrasilia-2026-simonetti-critico-moraes-reeleicao
+- src-ndmais-2026-09-14-simonetti-rejeita-pautar-afastamento
+document_ids: []
+inference_basis: A frase de campanha e a recusa de pautar são fatos independentes conectados pela equipe
+  via cronologia e tema; nenhuma fonte terceira estabelece relação causal ou intencional entre eles.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

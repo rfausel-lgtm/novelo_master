@@ -1,0 +1,49 @@
+id: beto-simonetti
+kind: person
+name: Beto Simonetti
+full_name: José Alberto Ribeiro Simonetti Cabral
+category: other
+role: Presidente do Conselho Federal da OAB
+summary: 'Advogado de Manaus/AM (OAB-AM 3725), sócio do escritório Simonetti e Paiva Advogados, fundado em
+  1974 por seu pai, Alberto Simonetti Cabral Filho (quatro vezes presidente da OAB-AM); o irmão dele,
+  Alberto Simonetti Cabral Neto, também foi conselheiro federal. Eleito presidente do Conselho Federal da
+  OAB em 31/01/2022 (77 de 80 votos) e reeleito em chapa única em 31/01/2025. Na campanha de reeleição,
+  criticou publicamente Alexandre de Moraes, sem nomeá-lo, dizendo que "a lei brasileira não permite que a
+  vítima julgue seu próprio caso" — lido pela imprensa como referência ao ministro, no contexto dos
+  processos do 8 de janeiro. Menos de oito meses depois, já com as mensagens Vorcaro-Moraes e o contrato do
+  escritório da esposa do ministro com o Banco Master publicamente conhecidos, recusou, em reunião do
+  Conselho Federal de 14/09/2026, pautar a deliberação sobre o afastamento cautelar de Moraes e de Dias
+  Toffoli pedida pelo conselheiro Marcelo Tostes (MG) — alegando que uma comissão formada pela própria
+  diretoria e por presidentes de seccionais, criada na semana anterior (09/09/2026), ainda examinava o caso.
+  Sob sua presidência, a OAB também protocolou, em 09/09/2026, pedido de acesso a provas sigilosas do caso
+  Master e de afastamento do procurador-geral Paulo Gonet dos casos da Compliance Zero (já no acervo, lote
+  306).'
+why_in_novelo: Como presidente do Conselho Federal da OAB, controla a agenda da entidade no momento em que
+  ela decide como (e se) se posiciona institucionalmente sobre o afastamento cautelar de Moraes e Toffoli —
+  e recusou pautar a votação direta, preferindo uma comissão sob controle da própria diretoria que preside.
+cited_position:
+- kind: not_located
+  summary: Manifestação pessoal específica sobre a recusa de pautar não localizada — a justificativa
+    registrada vem de cobertura de imprensa da reunião, não de nota própria dele.
+open_questions:
+- 'Tensão não resolvida entre discurso e conduta: a crítica pública a Moraes na campanha de reeleição
+  (janeiro/2025) e a recusa de pautar seu afastamento em setembro/2026, já com evidência concreta em mãos
+  — nenhuma fonte liga expressamente os dois fatos; fica registrada como tensão documentável, não como
+  contradição provada (ver ev-simonetti-critica-moraes-campanha-depois-recusa-pautar).'
+- Não localizada indicação de vínculo financeiro ou profissional entre o escritório Simonetti e Paiva
+  Advogados (Manaus) e o Banco Master, Daniel Vorcaro, CredCesta ou a Amazonprev — busca negativa
+  especificamente testada pela equipe, dado ele ser de Manaus e a Amazonprev (RPPS do Amazonas) já estar
+  mapeada no acervo como investidora do Master.
+- Não está estabelecido se a comissão criada em 09/09/2026 tem prazo para concluir os trabalhos, nem se
+  seu relatório será público.
+source_ids:
+- src-ndmais-2026-09-14-simonetti-rejeita-pautar-afastamento
+- src-jornaldebrasilia-2026-simonetti-critico-moraes-reeleicao
+- src-poder360-2026-09-09-oab-pede-acesso-provas-afastamento-gonet
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'
+external_ids:
+  wikipedia_pt: https://pt.wikipedia.org/wiki/Beto_Simonetti
