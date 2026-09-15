@@ -1,0 +1,32 @@
+id: ev-suspeicao-benjamim-botelho-fundamentos
+kind: evidence
+classification: D
+proposition: Em 14/09/2026, Benjamim Botelho de Almeida apresentou arguição de suspeição contra o ministro
+  André Mendonça, por dependência à STP 976 e à Pet 16.704/DF, alegando (i) encontro privado entre Mendonça e
+  Daniel Vorcaro sobre a STP 976 — litígio do FIDC MEG, do ecossistema de fundos de Vorcaro, administrado pela
+  Trustee DTVM (alvo da Compliance Zero) — e (ii) recebimento, pelo ministro, de proposta de "delação
+  premiada seletiva" por advogado de Vorcaro em sessão de 16/06/2026, o que a peça argumenta violar o art. 4º,
+  §§6º-7º, da Lei 12.850/2013. A peça alega ainda amizade próxima entre Mendonça e o advogado Ciro Rocha
+  Soares, e que o voto do ministro pela prisão preventiva do pai de Vorcaro se apoiou em relatórios policiais
+  com conteúdo de comunicações entre advogados de defesa e seus clientes.
+document_ids:
+- doc-2026-09-14-arguicao-suspeicao-benjamim-botelho-mendonca
+source_ids:
+- src-stf-pet16704-arguicao-suspeicao-benjamim-botelho-mendonca
+attributed_to: Benjamim Botelho de Almeida, em arguição de suspeição protocolada no STF
+date: '2026-09-14'
+notes: 'Documento lido integralmente pela equipe (PDF baixado por Rafael via certificado digital). Os dois
+  fundamentos centrais (encontro de 02/09 e delação seletiva de 16/06) estão corroborados por imprensa
+  independente — ver ev-mendonca-recusa-delacao-seletiva-vorcaro e a atualização de
+  rel-daniel-vorcaro-andre-mendonca-allegation. As alegações sobre a amizade com Ciro Rocha Soares e sobre o
+  fundamento do voto na prisão preventiva do pai de Vorcaro são a caracterização do peticionante — um
+  investigado com interesse direto no afastamento do relator — e não foram confirmadas por fonte
+  independente até a data de publicação; tratadas como alegação, não fato estabelecido. A peça cita um
+  "ministro revisor" divergente e um "ministro decano" que teria comparado a prática de monitorar
+  comunicações de advogados de defesa a "regimes totalitários", sem identificá-los nominalmente no trecho
+  lido — identidade não verificada pela equipe.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

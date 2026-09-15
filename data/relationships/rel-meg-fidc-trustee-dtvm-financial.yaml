@@ -1,0 +1,24 @@
+id: rel-meg-fidc-trustee-dtvm-financial
+kind: relationship
+from_id: meg-fidc
+to_id: trustee-dtvm
+relationship_type: financial
+directed: true
+label: administrado pela Trustee DTVM
+description: Segundo arguição de suspeição de Benjamim Botelho de Almeida, o FIDC MEG — parte interessada na
+  STP 976 — foi administrado pela Trustee Distribuidora de Títulos e Valores Mobiliários, alvo de busca e
+  apreensão na Operação Compliance Zero.
+evidence_class: D
+confidence: 0.7
+status: unverified
+document_ids:
+- doc-2026-09-14-arguicao-suspeicao-benjamim-botelho-mendonca
+evidence_ids:
+- ev-suspeicao-benjamim-botelho-fundamentos
+source_ids:
+- src-stf-pet16704-arguicao-suspeicao-benjamim-botelho-mendonca
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

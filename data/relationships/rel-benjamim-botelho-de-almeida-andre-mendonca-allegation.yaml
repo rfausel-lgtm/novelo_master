@@ -1,0 +1,26 @@
+id: rel-benjamim-botelho-de-almeida-andre-mendonca-allegation
+kind: relationship
+from_id: benjamim-botelho-de-almeida
+to_id: andre-mendonca
+relationship_type: investigative_allegation
+directed: true
+label: arguição de suspeição (14/09/2026)
+start_date: '2026-09-14'
+description: Benjamim Botelho de Almeida, investigado na Operação Compliance Zero, apresentou arguição de
+  suspeição contra André Mendonça pedindo seu afastamento da relatoria da Pet. 15.198/DF, da Rcl. 88.121/DF e
+  do INQ 5026/DF, com base no encontro do ministro com Daniel Vorcaro sobre a STP 976 e no episódio da
+  "delação seletiva" de 16/06/2026.
+evidence_class: A
+confidence: 0.9
+status: unverified
+document_ids:
+- doc-2026-09-14-arguicao-suspeicao-benjamim-botelho-mendonca
+evidence_ids:
+- ev-suspeicao-benjamim-botelho-fundamentos
+source_ids:
+- src-stf-pet16704-arguicao-suspeicao-benjamim-botelho-mendonca
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

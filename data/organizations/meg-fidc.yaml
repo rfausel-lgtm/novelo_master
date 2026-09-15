@@ -1,0 +1,28 @@
+id: meg-fidc
+kind: organization
+name: MEG — Fundo de Investimento em Direitos Creditórios Não Padronizados
+aliases:
+- MEG FIDC
+org_type: fund
+summary: Fundo de investimento em direitos creditórios (precatórios), parte interessada na Suspensão de
+  Tutela Provisória (STP) 976 do STF, que discute créditos de precatórios de interesse do Banco Master.
+  Segundo arguição de suspeição de Benjamim Botelho de Almeida, integra o ecossistema de fundos ligados a
+  Daniel Vorcaro e foi administrado pela Trustee Distribuidora de Títulos e Valores Mobiliários, alvo de
+  busca e apreensão na Operação Compliance Zero.
+why_in_novelo: É o fundo cujo litígio (STP 976) foi o assunto declarado do encontro privado, em março de 2025,
+  entre o ministro André Mendonça e Daniel Vorcaro — usado como fundamento central de arguição de suspeição
+  contra o ministro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Estrutura societária e cotistas do fundo não verificados em registro oficial pela equipe; a ligação com
+  Vorcaro vem da caracterização feita pelo peticionante da arguição de suspeição, não de documento societário
+  primário.
+source_ids:
+- src-stf-pet16704-arguicao-suspeicao-benjamim-botelho-mendonca
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'
