@@ -11,6 +11,8 @@ participant_ids:
 - fabio-faria
 - davi-alcolumbre
 - ciro-nogueira
+- marcio-chaer
+- conjur
 description: 'O 1º Fórum Jurídico Brasil de Ideias, organizado pelo Grupo Voto e patrocinado pelo Banco
   Master, reuniu em Londres, de 24 a 26 de abril de 2024, ministros do STF e do STJ, o procurador-geral
   da República, o então ministro da Justiça e o diretor-geral da PF. Em 25/04, houve degustação de uísque
@@ -24,25 +26,35 @@ description: 'O 1º Fórum Jurídico Brasil de Ideias, organizado pelo Grupo Vot
   e Gilmar Mendes, o ex-ministro Ricardo Lewandowski, o então advogado-geral da União Jorge Messias, o
   ex-presidente Michel Temer, e os senadores Davi Alcolumbre (União Brasil-AP) e Ciro Nogueira (PP-PI) —
   hoje, respectivamente, presidente do Senado e alvo de fase própria da Compliance Zero (Pet 15.873), já
-  registrada no corpus por outra via.'
+  registrada no corpus por outra via. NOVO (14/09/2026): segundo Folha de S.Paulo e revista piauí, com base
+  em relatório da PF, o convite ao evento apresentava ConJur, Correio Braziliense e Banco Master como
+  organizadores — o editor do ConJur, Márcio Chaer, foi contratado pelos organizadores para formatar as mesas
+  e negociou diretamente com Vorcaro a lista de convidados; Vorcaro se preocupou com a exposição do banco como
+  financiador, e Chaer o tranquilizou dizendo que a formulação do convite ficava "sóbria". Chaer confirmou
+  publicamente, em 01/09/2026, ter organizado a edição de 2024 e que o ConJur recebeu patrocínio do Master,
+  dizendo ter declinado de organizar a edição de 2025.'
 evidence_class: C
 status: verified
 evidence_ids:
 - ev-viagem-a-londres-custeada-e-degustacao
 - ev-trilha-do-convite-a-londres-no-relatorio-da-pf
 - ev-alcolumbre-e-ciro-nogueira-no-forum-de-londres
+- ev-chaer-organizou-forum-com-patrocinio-do-master
 source_ids:
 - src-poder360-2026-04-08-master-bancou-viagem-londres
 - src-poder360-2026-degustacao-macallan-londres
 - src-pf-relatorio-ipj-3298613-2026-integra
 - src-otempo-2026-02-evento-londres-alcolumbre-participantes
 - src-jornaldebrasilia-2026-empresas-acoes-stf-evento-londres
+- src-folha-2026-03-05-bergamo-chaer-vorcaro-convidados-londres
+- src-piaui-2026-09-10-dois-relatorios-e-um-supremo
+- src-uol-2026-09-01-chaer-confirma-patrocinio-master-conjur
 document_ids:
 - doc-2026-08-27-relatorio-pf-celular-vorcaro
 public_act_ids: []
 location: Londres, Reino Unido
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-13'
+reviewed_at: '2026-09-14'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-09-14'

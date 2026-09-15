@@ -8,20 +8,27 @@ org_type: association
 summary: Órgão nacional máximo da advocacia brasileira. Em 01/09/2026, por meio do presidente em exercício
   Délio Lins e Silva Jr., manifestou 'extrema preocupação' com a crise institucional envolvendo o STF,
   pedindo apuração rigorosa e imparcial dos fatos, com garantia de devido processo, ampla defesa e presunção
-  de inocência — sem pedir o afastamento de nenhum dos envolvidos.
+  de inocência — sem pedir o afastamento de nenhum dos envolvidos. NOVO (09/09/2026) — em manifestação mais
+  formal, assinada pelo presidente José Alberto Simonetti em conjunto com dirigentes de 24 seccionais
+  estaduais e protocolada na Pet 16.704/DF, pediu acesso da OAB aos elementos de prova do caso, inclusive sob
+  sigilo, e que o procurador-geral da República, Paulo Gonet Branco, se abstivesse de oficiar na Pet
+  16.662/DF por ter sido pessoalmente chamado a prestar esclarecimentos sobre os mesmos fatos na Pet
+  16.704/DF.
 why_in_novelo: Manifestou-se institucionalmente sobre a crise entre Moraes e Mendonça, em posição mais
-  moderada que a da seccional do Paraná.
+  moderada que a da seccional do Paraná, e pediu formalmente o afastamento do procurador-geral da República
+  de um dos procedimentos relacionados ao caso.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions: []
 source_ids:
 - src-oantagonista-2026-09-01-oab-extrema-preocupacao
+- src-stf-pet16704-manifestacao-oab-pede-recusa-gonet
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-14'
 created_at: '2026-09-03'
-updated_at: '2026-09-04'
+updated_at: '2026-09-14'
 photo:
   path: /fotos/oab-conselho-federal.png
   source: Wikimedia Commons

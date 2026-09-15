@@ -1,0 +1,25 @@
+id: doc-2026-09-09-manifestacao-oab-pede-recusa-gonet
+kind: document
+title: Manifestação do Conselho Federal da OAB e seccionais estaduais na Pet 16.704/DF
+doc_type: judicial_filing
+date: '2026-09-09'
+date_precision: day
+source_ids:
+- src-stf-pet16704-manifestacao-oab-pede-recusa-gonet
+summary: Manifestação institucional pedindo acesso da OAB aos elementos da Pet 16.704/DF, a abstenção do
+  procurador-geral da República na Pet 16.662/DF e a instauração de investigação sobre eventuais ilícitos
+  penais relacionados aos fatos, sem distinção de cargo ou função.
+is_official: true
+related_entity_ids:
+- oab-conselho-federal
+- paulo-gonet
+- edson-fachin
+- supremo-tribunal-federal
+issuer_id: oab-conselho-federal
+issuer: José Alberto Simonetti (presidente do CFOAB) e presidentes/representantes de 24 seccionais estaduais
+reference: STF, Pet 16.704/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

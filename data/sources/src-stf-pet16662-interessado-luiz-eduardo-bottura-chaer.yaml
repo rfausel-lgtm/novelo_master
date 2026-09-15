@@ -1,0 +1,35 @@
+id: src-stf-pet16662-interessado-luiz-eduardo-bottura-chaer
+kind: source
+title: Petição de terceiro interessado (Luiz Eduardo Bottura) na Pet 16.662/DF sobre Márcio Chaer
+publisher: Supremo Tribunal Federal
+author: Ana Luiza Rocha de Souza (OAB/SP 445.414), advogada do peticionante
+publication_date: '2026-09-11'
+retrieved_at: '2026-09-14'
+url: https://peticionamento.stf.jus.br/visualizarProcesso/7681133/4
+source_type: official_court
+summary: 'Petição de terceiro interessado na Pet 16.662/DF (baixada na íntegra por Rafael, via certificado
+  digital, em 14/09/2026), de Luiz Eduardo Bottura (grupo Bueno Netto), com pedido de aprofundamento
+  investigativo sobre o jornalista Márcio Chaer, editor do ConJur. Usa como gancho diálogos entre Vorcaro e
+  Chaer, revelados pela imprensa a partir de relatório da PF, sobre a organização do fórum jurídico em
+  Londres patrocinado pelo Banco Master (citando Folha/Bergamo 05/03/2026 e piauí 10/09/2026) e a confirmação
+  pública do próprio Chaer (Estadão Conteúdo/UOL, 01/09/2026) de que organizou a edição de 2024 e que o
+  ConJur recebeu patrocínio do Master. A maior parte da peça — não usada no acervo — é dedicada a uma disputa
+  reputacional própria e antiga do peticionante contra Chaer (ações por difamação desde 2007) e a um caso de
+  corrupção não relacionado ao Master na Corte Especial do STJ (Pet 16.036/DF e Pet 16.087/DF, sobre anulação
+  de sentença arbitral envolvendo o Grupo Bueno Netto).'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão de Rafael, certificado digital). O acervo usa
+  apenas os elementos objetivamente verificáveis e já reportados por imprensa independente (organização do
+  fórum, patrocínio do Master, diálogos sobre convidados); a narrativa mais ampla do peticionante sobre uma
+  "campanha de assassinato civil" contra ele e sobre o caso STJ é de interesse pessoal do próprio
+  peticionante — um litigante antigo de Chaer usando a Pet 16.662 como veículo — e não foi trazida ao acervo
+  por não ser matéria do caso Banco Master.'
+verification:
+  checked_at: '2026-09-14'
+  checked_by: orquestrador (leitura direta do PDF, extração de texto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

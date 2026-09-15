@@ -1,0 +1,27 @@
+id: rel-oab-conselho-federal-paulo-gonet-institutional
+kind: relationship
+from_id: oab-conselho-federal
+to_id: paulo-gonet
+relationship_type: institutional
+directed: true
+label: pediu sua abstenção na Pet 16.662/DF
+start_date: '2026-09-09'
+description: Em manifestação de 09/09/2026 na Pet 16.704/DF, o Conselho Federal da OAB pediu que Paulo Gonet
+  Branco se abstivesse de oficiar na Pet 16.662/DF, por ter sido pessoalmente chamado a prestar
+  esclarecimentos, na Pet 16.704/DF, sobre os mesmos fatos.
+evidence_class: D
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2026-09-09-oab-pede-recusa-gonet-pet16662
+evidence_ids:
+- ev-oab-pede-recusa-gonet-pet16662
+document_ids:
+- doc-2026-09-09-manifestacao-oab-pede-recusa-gonet
+source_ids:
+- src-stf-pet16704-manifestacao-oab-pede-recusa-gonet
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

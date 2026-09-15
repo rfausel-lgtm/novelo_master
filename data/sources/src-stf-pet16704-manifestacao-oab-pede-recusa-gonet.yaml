@@ -1,0 +1,34 @@
+id: src-stf-pet16704-manifestacao-oab-pede-recusa-gonet
+kind: source
+title: Manifestação conjunta do Conselho Federal da OAB e dos Conselhos Seccionais na Pet 16.704/DF
+publisher: Conselho Federal da Ordem dos Advogados do Brasil
+author: José Alberto Simonetti (presidente do CFOAB) e presidentes/representantes de 24 seccionais estaduais
+publication_date: '2026-09-09'
+retrieved_at: '2026-09-14'
+url: https://peticionamento.stf.jus.br/visualizarProcesso/7687920/4
+source_type: official_court
+summary: 'Peça protocolada em 09/09/2026 na Pet 16.704/DF (baixada na íntegra por Rafael, via certificado
+  digital, em 14/09/2026), assinada pelo presidente do CFOAB, José Alberto Simonetti, e por dirigentes de 24
+  seccionais estaduais. Reconstrói a cronologia institucional de 24/08 a 09/09/2026 (da requisição de Mendonça
+  à PF sobre a rede de Vorcaro até a convocação da sessão extraordinária de 15/09) e pede: (a) acesso da OAB
+  aos elementos de prova e documentos reunidos na Pet 16.704/DF e processos conexos, inclusive sob sigilo, na
+  extensão juridicamente possível; (b) que o procurador-geral da República, Paulo Gonet Branco, "se abstenha
+  de oficiar" na Pet 16.662/DF, por ter sido pessoalmente chamado a prestar esclarecimentos na Pet 16.704/DF
+  sobre os mesmos fatos, com base no art. 258 do CPP (suspeição/impedimento de membros do MP) e no art. 27 da
+  LC 75/1993 (substituição pelo Vice-PGR); (c) instauração de procedimentos investigativos sobre eventuais
+  ilícitos penais relacionados aos fatos, "sem distinção em razão do cargo ou da função", com observância do
+  devido processo; (d) preservação da celeridade já dada ao caso; (e) ciência à OAB das decisões futuras sobre
+  a tramitação. A manifestação explicita não antecipar juízo sobre a conduta de nenhuma autoridade.'
+notes: Peça obtida via peticionamento.stf.jus.br (sessão de Rafael, certificado digital). É posterior e mais
+  formal que a nota de "extrema preocupação" do CFOAB de 01/09/2026 (já no acervo) — esta acrescenta o pedido
+  concreto de abstenção do PGR na Pet 16.662/DF, não presente na manifestação anterior.
+verification:
+  checked_at: '2026-09-14'
+  checked_by: orquestrador (leitura direta do PDF, extração de texto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

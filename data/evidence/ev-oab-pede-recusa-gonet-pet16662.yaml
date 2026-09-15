@@ -1,0 +1,23 @@
+id: ev-oab-pede-recusa-gonet-pet16662
+kind: evidence
+classification: D
+proposition: Em manifestação de 09/09/2026 na Pet 16.704/DF, o Conselho Federal da OAB — sob a presidência de
+  José Alberto Simonetti, em conjunto com dirigentes de 24 seccionais estaduais — pediu que o procurador-geral
+  da República, Paulo Gonet Branco, se abstivesse de oficiar na Pet 16.662/DF, por ter sido pessoalmente
+  chamado a prestar esclarecimentos, na Pet 16.704/DF, sobre os mesmos fatos submetidos àquele procedimento.
+document_ids:
+- doc-2026-09-09-manifestacao-oab-pede-recusa-gonet
+source_ids:
+- src-stf-pet16704-manifestacao-oab-pede-recusa-gonet
+attributed_to: Conselho Federal da OAB, em manifestação oficial protocolada no STF
+date: '2026-09-09'
+notes: Documento lido integralmente pela equipe (PDF baixado por Rafael via certificado digital). É posterior
+  e mais formal que a nota de "extrema preocupação" do CFOAB de 01/09/2026, já publicada no acervo
+  (ev-oab-nacional-extrema-preocupacao-2026-09-01) — esta acrescenta o pedido concreto de abstenção do PGR,
+  ausente na manifestação anterior. Não foi localizada cobertura de imprensa desta manifestação específica
+  até a data de publicação deste lote.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

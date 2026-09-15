@@ -1,0 +1,21 @@
+id: rel-marcio-chaer-conjur-corporate
+kind: relationship
+from_id: marcio-chaer
+to_id: conjur
+relationship_type: corporate
+directed: true
+label: editor
+description: Márcio Chaer é editor do ConJur, veículo que coorganizou e recebeu patrocínio do Banco Master
+  para o fórum jurídico em Londres de 2024.
+evidence_class: C
+confidence: 0.9
+status: verified
+evidence_ids:
+- ev-chaer-organizou-forum-com-patrocinio-do-master
+source_ids:
+- src-uol-2026-09-01-chaer-confirma-patrocinio-master-conjur
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

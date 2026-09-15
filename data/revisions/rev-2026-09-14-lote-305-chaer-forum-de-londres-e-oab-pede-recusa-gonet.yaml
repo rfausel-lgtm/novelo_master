@@ -1,0 +1,47 @@
+id: rev-2026-09-14-lote-305-chaer-forum-de-londres-e-oab-pede-recusa-gonet
+kind: revision
+date: '2026-09-14'
+title: 'Lote 305 — o ConJur no fórum de Londres patrocinado pelo Master, e a OAB pede a recusa de Gonet'
+summary: 'Continuação da varredura das Pet 16.662/DF e Pet 16.704/DF baixadas por Rafael em 14/09/2026, com
+  duas frentes. (1) Uma petição de terceiro interessado (Luiz Eduardo Bottura, contra o jornalista Márcio
+  Chaer, por disputa reputacional própria) trouxe ao acervo, por citação de reportagens independentes já
+  publicadas (Folha/Bergamo, revista piauí, Estadão Conteúdo/UOL), o papel do editor do ConJur, Márcio Chaer,
+  na organização do fórum jurídico em Londres de abril de 2024 — já registrado no acervo — negociando com
+  Daniel Vorcaro a lista de convidados e a exposição do Banco Master como patrocinador; Chaer confirmou
+  publicamente ter organizado a edição de 2024 e recebido patrocínio do Master. A disputa pessoal do
+  peticionante e um caso de corrupção não relacionado ao Master na Corte Especial do STJ, também citados na
+  mesma peça, foram deixados de fora por não dizerem respeito ao caso Master. (2) Uma manifestação do
+  Conselho Federal da OAB de 09/09/2026, assinada pelo presidente José Alberto Simonetti e por dirigentes de
+  24 seccionais estaduais, pede formalmente que o procurador-geral da República, Paulo Gonet Branco, se
+  abstenha de atuar na Pet 16.662/DF — sem cobertura de imprensa localizada até a publicação deste lote.'
+added:
+  people: 1
+  organizations: 1
+  events: 1
+  documents: 1
+  relationships: 4
+  sources: 5
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'evt-2024-04-24-forum-de-londres-e-degustacao: acrescentado o papel de ConJur/Márcio Chaer na organização
+  do evento e novos participant_ids/source_ids.'
+- 'oab-conselho-federal: acrescentada a manifestação de 09/09/2026 e o pedido de abstenção do PGR.'
+- 'paulo-gonet: novo open_question sobre o pedido de abstenção da OAB na Pet 16.662/DF.'
+author: orquestrador
+affected_ids:
+- marcio-chaer
+- conjur
+- daniel-vorcaro
+- banco-master
+- oab-conselho-federal
+- paulo-gonet
+reason: Continuação da leitura das Pet 16.662/DF e Pet 16.704/DF baixadas por Rafael via certificado digital
+  em 14/09/2026, a pedido dele de verificar novidade na sequência processual antes da sessão extraordinária
+  de 15/09/2026. Os fatos citados de imprensa nas duas petições (fórum de Londres, manifestação da OAB) foram
+  tratados com o mesmo rigor de classificação do restante do acervo; a manifestação da OAB pedindo a
+  abstenção de Gonet é leitura direta do documento primário, sem cobertura jornalística própria localizada
+  até a publicação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'

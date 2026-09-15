@@ -1,0 +1,37 @@
+id: evt-2026-09-09-oab-pede-recusa-gonet-pet16662
+kind: event
+title: OAB e 24 seccionais pedem que Gonet se abstenha de atuar na Pet 16.662/DF
+event_type: public_act
+date: '2026-09-09'
+date_precision: day
+participant_ids:
+- oab-conselho-federal
+- paulo-gonet
+- edson-fachin
+location: STF, Pet 16.704/DF
+description: O Conselho Federal da OAB, sob a presidência de José Alberto Simonetti, em manifestação
+  conjunta com dirigentes de 24 seccionais estaduais, pediu formalmente que o procurador-geral da República,
+  Paulo Gonet Branco, se abstivesse de oficiar na Pet 16.662/DF, por ter sido pessoalmente chamado a prestar
+  esclarecimentos na Pet 16.704/DF sobre os mesmos fatos — com base no art. 258 do CPP e no art. 27 da LC
+  75/1993, que prevê a substituição pelo Vice-PGR. A OAB também pediu acesso aos elementos de prova reunidos
+  na Pet 16.704/DF, inclusive sob sigilo, e a instauração de investigação sobre eventuais ilícitos penais
+  "sem distinção em razão do cargo ou da função".
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-oab-pede-recusa-gonet-pet16662
+source_ids:
+- src-stf-pet16704-manifestacao-oab-pede-recusa-gonet
+document_ids:
+- doc-2026-09-09-manifestacao-oab-pede-recusa-gonet
+public_act_ids: []
+cited_position: []
+tags:
+- caso-master
+- oab
+- paulo-gonet
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'
