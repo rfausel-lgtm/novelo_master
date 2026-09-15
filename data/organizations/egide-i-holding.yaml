@@ -1,0 +1,29 @@
+id: egide-i-holding
+kind: organization
+name: Egide I Holding Limited
+aliases:
+- Egide I
+org_type: company
+summary: Holding registrada nas Ilhas Virgens Britânicas, segundo investigadores em março de 2025 pelo
+  empresário Alberto Leite. Recebeu cerca de R$ 34 milhões do Fundo Arleen em dezembro de 2025, antes da
+  liquidação deste, e é a offshore citada pela Polícia Federal na apuração sobre Dias Toffoli e Daniel
+  Vorcaro. Controla integralmente a Lino Properties, empresa de Delaware que comprou um apartamento de US$
+  3,648 milhões em Miami.
+why_in_novelo: É a offshore que a PF cita como possível instrumento de ocultação de recursos ligados ao Fundo
+  Arleen na hipótese de que Dias Toffoli seja beneficiário final; controla a empresa que comprou o imóvel de
+  luxo em Miami noticiado pelo Estadão.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+open_questions:
+- Não localizado, no corpus, documento societário primário da Egide I (apenas descrições da imprensa,
+  atribuídas a apuração da PF ou do Estadão).
+source_ids:
+- src-bnews-2026-09-11-pf-encontro-casa-toffoli-fs-security
+- src-bnews-2026-09-14-estadao-offshore-imovel-miami-888-brickell
+jurisdiction: Ilhas Virgens Britânicas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

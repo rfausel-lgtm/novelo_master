@@ -1,0 +1,25 @@
+id: rel-flavio-dino-dias-toffoli-personal-social
+kind: relationship
+from_id: flavio-dino
+to_id: dias-toffoli
+relationship_type: personal_social
+directed: false
+label: amigo pessoal há mais de 20 anos
+description: Segundo apuração do Poder360 sobre a reunião fechada de 12/02/2026, Flávio Dino — descrito como
+  amigo pessoal de Toffoli havia mais de 20 anos — chamou o relatório da PF de "lixo jurídico" e propôs a
+  solução negociada (nota de apoio dos dez ministros em troca da saída voluntária de Toffoli da relatoria do
+  caso Master).
+evidence_class: A
+confidence: 0.6
+status: unverified
+evidence_ids:
+- ev-reuniao-secreta-12-02-2026-ministros-rejeitam-relatorio-pf
+event_ids:
+- evt-2026-02-12-reuniao-fechada-dez-ministros-relatorio-pf-toffoli
+source_ids:
+- src-poder360-2026-02-13-pressao-politica-empurrou-stf-tirar-toffoli
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

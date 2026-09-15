@@ -7,12 +7,6 @@ proposition: Segundo relatório da Polícia Federal entregue ao presidente do ST
   2025, à holding Egide I, nas Ilhas Virgens Britânicas; o gabinete de Toffoli nega ter tido recursos no exterior ou
   operado naquele território.
 document_ids: []
-source_ids:
-- src-brasil247-2026-09-11-relatorio-pf-toffoli-arleen
-- src-correiobraziliense-2026-09-pf-aponta-suspeitas-toffoli-vorcaro
-- src-ncnews-2026-09-11-relatorio-pf-toffoli-196-paginas
-- src-ac24horas-2026-09-11-toffoli-beneficiario-fundo-vorcaro
-- src-gazetadopovo-2026-09-11-fachin-mantem-suspeicao-toffoli-sob-sigilo
 attributed_to: Polícia Federal, em relatório sob sigilo descrito pela revista piauí (10/09/2026) e repercutido por outros veículos
 date: '2026-09-10'
 notes: 'Hipótese investigativa: os veículos registram que a PF pede "aprofundamento analítico" e não afirma conclusão.
@@ -24,9 +18,24 @@ notes: 'Hipótese investigativa: os veículos registram que a PF pede "aprofunda
   para permitir aplicação no exterior, e o relatório também recomenda aprofundar a apuração sobre possível influência
   de Vorcaro num voto de Toffoli sobre precatórios, o que o gabinete nega. A cadeia de cotistas do Arleen está em
   ev-cadeia-zettel-fundo-leal-arleen-participacao-maridt-tayaya. Sem denúncia ou investigação formal aberta contra o
-  ministro localizada no acervo.'
+  ministro localizada no acervo. NOVO (14/09/2026): entre os encontros presenciais citados pela PF, uma das
+  fontes consultadas descreve um episódio específico, de março de 2024 - mensagens em que Toffoli enviou a
+  Vorcaro um endereço residencial no Lago Norte (Brasília) marcando encontro às 9h, e Vorcaro respondeu na
+  manhã seguinte confirmando estar a caminho; a PF concluiu que o endereço corresponde à residência conhecida
+  de Toffoli e classificou a visita como plausível, sem confirmá-la. A mesma leva de reportagens identifica o
+  controle do Arleen como tendo passado ao empresário Alberto Leite, amigo de Toffoli, que em seguida teria
+  registrado a offshore Egide I e, através dela, comprado um imóvel em Miami - ver
+  ev-vorcaro-identifica-alberto-leite-amigo-comprador-arleen e ev-estadao-lino-properties-imovel-888-brickell-miami.'
+source_ids:
+- src-brasil247-2026-09-11-relatorio-pf-toffoli-arleen
+- src-correiobraziliense-2026-09-pf-aponta-suspeitas-toffoli-vorcaro
+- src-ncnews-2026-09-11-relatorio-pf-toffoli-196-paginas
+- src-ac24horas-2026-09-11-toffoli-beneficiario-fundo-vorcaro
+- src-gazetadopovo-2026-09-11-fachin-mantem-suspeicao-toffoli-sob-sigilo
+- src-bnews-2026-09-11-pf-encontro-casa-toffoli-fs-security
+- src-cnnbrasil-2026-09-11-toffoli-seria-beneficiario-fundo-vorcaro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-12'
+reviewed_at: '2026-09-14'
 created_at: '2026-09-12'
-updated_at: '2026-09-12'
+updated_at: '2026-09-14'

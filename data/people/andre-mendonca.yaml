@@ -29,6 +29,17 @@ cited_position:
   - src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
   date: '2026-09-09'
 open_questions:
+- 'NOVO (14/09/2026): em sessão pública da Segunda Turma de 16/06/2026, relatou ter recebido, por advogado de
+  Vorcaro, proposta de "delação premiada seletiva", que diz ter recusado ("perderam o pudor... delação
+  seletiva, comigo não") — episódio coberto por CNN Brasil e Gazeta do Povo (Gilmar Mendes reagiu chamando a
+  situação de "muito invertida"). Em 14/09/2026, Benjamim Botelho de Almeida (investigado na Compliance Zero)
+  apresentou arguição de suspeição contra Mendonça citando esse episódio e o encontro de março de 2025 com
+  Vorcaro sobre a STP 976 (créditos de precatórios do FIDC MEG, ligado ao ecossistema de Vorcaro) como
+  fundamentos — ver ev-suspeicao-benjamim-botelho-fundamentos. A petição também alega, sem confirmação
+  independente localizada até a publicação, amizade próxima com o advogado Ciro Rocha Soares e que o voto do
+  ministro pela prisão preventiva do pai de Vorcaro se apoiou em relatórios policiais com conteúdo de
+  comunicações entre advogados de defesa e seus clientes — tratado como alegação de parte interessada, não
+  fato estabelecido.'
 - 'NOVO (13/09/2026): mensagens de 2022 reveladas com a queda de sigilo mostram Cláudio Castro escrevendo-lhe
   sobre o "caso Cabral" (ex-governador Sérgio Cabral), com arquivos de pedidos de habeas corpus; dias depois,
   votou pela soltura de Cabral. Mendonça é hoje relator do caso RioPrevidência/Master, no qual Castro é
@@ -127,11 +138,15 @@ source_ids:
 - src-em-2026-09-09-fachin-retira-moraes-relatoria-fake-news
 - src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
 - src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
+- src-cnnbrasil-2026-06-17-mendonca-recusa-delacao-seletiva-vorcaro
+- src-gazetadopovo-2026-06-16-mendonca-recusa-delacao-seletiva
+- src-migalhas-2026-09-02-mendonca-stp976-encontro-vorcaro
+- src-stf-pet16704-arguicao-suspeicao-benjamim-botelho-mendonca
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-14'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-09-14'
 photo:
   path: /fotos/andre-mendonca.jpg
   source: Wikimedia Commons

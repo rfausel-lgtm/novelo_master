@@ -31,6 +31,14 @@ cited_position:
   - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
   date: '2026-09-06'
 open_questions:
+- 'NOVO (14/09/2026): segundo apuração do Poder360 sobre a reunião fechada de 12/02/2026 dos dez ministros
+  do STF que discutiu o relatório da PF contra Dias Toffoli, Dino é amigo pessoal de Toffoli há mais de 20
+  anos; chamou o relatório de "lixo jurídico" e propôs a solução negociada (nota de apoio dos dez ministros
+  em troca da saída voluntária de Toffoli da relatoria do caso Master) — ver
+  evt-2026-02-12-reuniao-fechada-dez-ministros-relatorio-pf-toffoli e
+  rel-flavio-dino-dias-toffoli-personal-social. A CNN Brasil, ao reproduzir diálogos atribuídos aos ministros
+  na mesma reunião, registrou não ter podido verificar sua autenticidade de forma independente — tratado como
+  alegação de uma única linha de apuração (Poder360), não como fato certificado.'
 - Em 17/08/2026, no 'Caso Tech Office' (Pet 15.900/DF e conexas), afastou o presidente do TCE-MA — processo
   sem relação comprovada com o caso Master, citado apenas como precedente na decisão de Mendonça sobre
   Andrei Rodrigues. Uma fonte única e não verificada (111Next, 08/09/2026) menciona um 'Dino' em anotações
@@ -118,11 +126,14 @@ source_ids:
 - src-stf-2023-pet-10829-andamento-e-decisao-nikolas
 - src-stf-2023-pet-11227-andamento-partido-novo
 - src-ainvestigacao-2026-09-09-moraes-arquiva-dino-denunciante-alvo
+- src-poder360-2026-02-13-pressao-politica-empurrou-stf-tirar-toffoli
+- src-cnnbrasil-2026-02-13-dialogos-ministros-reuniao-toffoli
+- src-infomoney-2026-02-12-carta-ministros-stf-saida-toffoli
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-14'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-14'
 photo:
   path: /fotos/flavio-dino.jpg
   source: Wikimedia Commons

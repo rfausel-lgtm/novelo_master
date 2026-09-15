@@ -1,0 +1,22 @@
+id: lino-properties
+kind: organization
+name: Lino Properties
+org_type: company
+summary: Empresa registrada em Delaware (EUA), controlada integralmente pela offshore Egide I Holding Limited
+  (Ilhas Virgens Britânicas), de Alberto Leite. Comprou, em contrato assinado em março de 2025, a unidade 41B
+  do empreendimento 888 Brickell Miami — assinado pela grife Dolce & Gabbana, com conclusão prevista para 2030
+  — por US$ 3.648.750, pagos em três parcelas (entrada de US$ 729,7 mil, nova parcela de US$ 729,7 mil em
+  março de 2026, e cerca de US$ 2,18 milhões no fechamento).
+why_in_novelo: É a compradora, segundo o Estadão, do imóvel de luxo em Miami adquirido pela offshore que a PF
+  cita na apuração sobre Dias Toffoli e Daniel Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+source_ids:
+- src-bnews-2026-09-14-estadao-offshore-imovel-miami-888-brickell
+jurisdiction: Delaware, Estados Unidos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

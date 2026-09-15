@@ -31,7 +31,21 @@ summary: Ministro do STF. Em 11/03/2026, no mesmo dia em que recebeu por distrib
   aos dados consolidados do FGC e ratificou as medidas de primeiro grau; no dia em que deixou a relatoria,
   determinou que a PF enviasse ao STF, na íntegra, o conteúdo dos aparelhos apreendidos. Em 10/09/2026, a piauí revelou relatório da PF sob sigilo que
   levanta a hipótese de ele ser beneficiário final do fundo Arleen, que recebeu R$ 35 milhões de Vorcaro (ver
-  ev-pf-hipotese-de-que-toffoli-seria-beneficiario-final-do-fundo-arleen); o gabinete nega.
+  ev-pf-hipotese-de-que-toffoli-seria-beneficiario-final-do-fundo-arleen); o gabinete nega. Segundo a PF, o
+  controle desse fundo passou, por volta de fevereiro de 2025, ao empresário Alberto Leite, amigo de Toffoli,
+  identificado como o "amigo" a quem Vorcaro determinou repassar sua posição; Leite registrou em seguida a
+  offshore Egide I Holding (Ilhas Virgens Britânicas), que recebeu cerca de R$ 34 milhões do Arleen em
+  dezembro de 2025 e que, via a subsidiária Lino Properties (Delaware), comprou em março de 2025 um
+  apartamento de US$ 3,648 milhões em Miami (Estadão, 14/09/2026) — Leite nega qualquer participação ou
+  benefício de Toffoli na compra. Sua saída da relatoria, em 12/02/2026, seguiu-se a uma reunião fechada dos
+  dez ministros do STF sobre um relatório de 200 páginas da PF a seu respeito — segundo apuração do Poder360,
+  o placar antes da solução negociada era de 8 votos pela permanência de Toffoli contra 2 (Cármen Lúcia e
+  Fachin), a maioria descartou o relatório como juridicamente inconsistente — Dino teria chamado as 200
+  páginas de "lixo jurídico" e Moraes classificado a apuração da PF como "ilegal" — e, por proposta de Dino,
+  os dez ministros divulgaram nota oficial de apoio pessoal a Toffoli no mesmo dia em que ele encaminhou
+  voluntariamente o caso para redistribuição (ver evt-2026-02-12-reuniao-fechada-dez-ministros-relatorio-pf-toffoli).
+  A CNN Brasil, ao reproduzir os diálogos atribuídos aos ministros, registrou não ter podido verificar sua
+  autenticidade; já a nota oficial de apoio está corroborada de forma independente por mais de uma apuração.
 why_in_novelo: Foi o primeiro relator do caso Master no STF (Rcl 88.121 e INQ 5.026) até 12/02/2026 e declarou-se
   impedido no MS 40.791, sobre a CPI do Master, em 11/03/2026.
 cited_position:
@@ -118,6 +132,13 @@ source_ids:
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
 - src-verificacao-direta-equipe-pet14601-decisao-toffoli-integra
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-cnnbrasil-2026-09-11-toffoli-seria-beneficiario-fundo-vorcaro
+- src-bnews-2026-09-11-pf-encontro-casa-toffoli-fs-security
+- src-bnews-2026-09-14-estadao-offshore-imovel-miami-888-brickell
+- src-poder360-2026-02-13-pressao-politica-empurrou-stf-tirar-toffoli
+- src-cnnbrasil-2026-02-13-dialogos-ministros-reuniao-toffoli
+- src-infomoney-2026-02-12-carta-ministros-stf-saida-toffoli
+- src-poder360-2026-09-11-ha-7-meses-pf-ligava-toffoli-pagamento
 - src-stf-pet15556-edoc173-peticao-belline-dispensa-cpi
 - src-stf-inq5026-despacho-20-01-2026-toffoli-salas-oitivas
 - src-stf-inq5026-despacho-21-01-2026-toffoli-sigilo-dados-fgc
@@ -128,9 +149,9 @@ source_ids:
 - src-stf-rcl88121-decisao-final-22-12-2025
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-09-14'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-09-14'
 photo:
   path: /fotos/dias-toffoli.jpg
   source: Wikimedia Commons

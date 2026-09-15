@@ -1,0 +1,30 @@
+id: src-bnews-2026-09-11-pf-encontro-casa-toffoli-fs-security
+kind: source
+title: PF suspeita que Toffoli seja "beneficiário final" de fundo com R$ 35 mi de Vorcaro e cita possível encontro
+  na casa do ministro
+publisher: BNews
+publication_date: '2026-09-11'
+retrieved_at: '2026-09-14'
+url: https://www.bnews.com.br/noticias/crime-e-justica-bahia/pf-suspeita-que-toffoli-seja-beneficiario-final-de-fundo-com-r-35-mi-de-vorcaro-e-cita-possivel-encontro-na-casa-do-ministro.html
+source_type: press
+summary: 'Descreve mensagens analisadas pela PF, de março de 2024, em que Toffoli enviou a Vorcaro um endereço
+  residencial no Lago Norte (Brasília) marcando encontro às 9h, e Vorcaro respondeu na manhã seguinte "Bom dia
+  tudo bem? A caminho, Pelo waze devo me atrasar uns 15 minutos"; a PF concluiu que o endereço corresponde à
+  residência conhecida de Toffoli e classificou a visita como "plausível", sem confirmá-la. Também identifica
+  Alberto Leite — dono da empresa de segurança FS Security, amigo de Toffoli — como quem assumiu o controle do
+  fundo Arleen, e cita mensagem de Vorcaro a Zettel perguntando "Como chama o FIP?", respondida "FIP Arleen",
+  seguida de mensagem de Vorcaro a Leite confirmando disposição de executar o negócio já tratado entre eles.'
+verification:
+  checked_at: '2026-09-14'
+  checked_by: orquestrador (WebFetch direto)
+  url_reachable: true
+  content_matches_summary: true
+notes: 'Diverge da src-cnnbrasil-2026-09-11-toffoli-seria-beneficiario-fundo-vorcaro quanto ao mês em que o
+  controle do Arleen passou a Leite (esta fonte sugere novembro de 2025 para a negociação e fevereiro de 2025
+  para a formalização; a CNN Brasil cita simplesmente fevereiro de 2025) — divergência registrada, não
+  reconciliada, provavelmente por descreverem etapas diferentes da mesma operação.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

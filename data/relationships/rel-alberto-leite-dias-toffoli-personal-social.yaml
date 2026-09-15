@@ -1,0 +1,32 @@
+id: rel-alberto-leite-dias-toffoli-personal-social
+kind: relationship
+from_id: alberto-leite
+to_id: dias-toffoli
+relationship_type: personal_social
+directed: false
+label: amigo
+description: A imprensa descreve Alberto Leite consistentemente como amigo de Dias Toffoli. Leite nega que o
+  ministro tenha qualquer participação ou benefício na compra do imóvel em Miami feita através de sua
+  offshore.
+evidence_class: A
+confidence: 0.7
+status: disputed
+evidence_ids:
+- ev-estadao-lino-properties-imovel-888-brickell-miami
+source_ids:
+- src-cnnbrasil-2026-09-11-toffoli-seria-beneficiario-fundo-vorcaro
+- src-bnews-2026-09-11-pf-encontro-casa-toffoli-fs-security
+- src-bnews-2026-09-14-estadao-offshore-imovel-miami-888-brickell
+cited_position:
+- kind: denial
+  summary: A operação de compra do imóvel em Miami é regular, legal e declarada; nega qualquer participação
+    ou benefício de Dias Toffoli.
+  source_ids:
+  - src-bnews-2026-09-14-estadao-offshore-imovel-miami-888-brickell
+  by_id: alberto-leite
+  date: '2026-09-14'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

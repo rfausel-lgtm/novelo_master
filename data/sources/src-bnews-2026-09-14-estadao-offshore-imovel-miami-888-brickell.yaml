@@ -1,0 +1,34 @@
+id: src-bnews-2026-09-14-estadao-offshore-imovel-miami-888-brickell
+kind: source
+title: PF investiga offshore de imóvel em Miami em inquérito sobre Toffoli e ex-dono do Banco Master
+publisher: Estadão
+publication_date: '2026-09-14'
+retrieved_at: '2026-09-14'
+url: https://www.bnews.com.br/noticias/politica/pf-investiga-offshore-de-imovel-em-miami-em-inquerito-sobre-toffoli-e-ex-dono-do-banco-master.html
+source_type: press
+summary: 'Reportagem exclusiva do Estadão (republicada com atribuição pelo BNews): com base em documentos
+  obtidos pelo jornal, a offshore Egide I Holding Limited (Ilhas Virgens Britânicas) — já citada pela PF na
+  apuração sobre Toffoli e o fundo Arleen — controla integralmente a Lino Properties, empresa registrada em
+  Delaware (EUA) que comprou, em contrato assinado em março de 2025, a unidade 41B do empreendimento 888
+  Brickell Miami (assinado pela grife Dolce & Gabbana, 90 andares, conclusão prevista para 2030) por US$
+  3.648.750, pagos em três parcelas (entrada de US$ 729,7 mil, nova parcela de US$ 729,7 mil em março de
+  2026, e cerca de US$ 2,18 milhões no fechamento). A Egide I pertence ao empresário Alberto Leite, amigo de
+  Toffoli. A PF investiga "uso de intermediários e estruturas no exterior para ocultar o destino de recursos"
+  e examina o fluxo do fundo Arleen até a Egide, antes de sua liquidação, sob a hipótese de que Toffoli seja
+  o beneficiário final desses recursos. Leite afirma que a operação é "totalmente regular, legal e declarada"
+  e nega "qualquer participação ou benefício de Dias Toffoli na compra do imóvel". O gabinete de Toffoli não
+  comentou a aquisição especificamente; advogados do ministro já haviam afirmado, antes desta reportagem, não
+  ter havido "novas negociações com o fundo após aquele ano".'
+verification:
+  checked_at: '2026-09-14'
+  checked_by: orquestrador (WebFetch direto)
+  url_reachable: true
+  content_matches_summary: true
+notes: Matéria original do Estadão está sob paywall e não foi acessada diretamente pela equipe; usada a
+  republicação do BNews, que atribui o conteúdo expressamente ao Estadão e reproduz trechos e dados específicos
+  (valores, datas, nome das empresas) consistentes com a cobertura de outros veículos sobre o mesmo caso.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

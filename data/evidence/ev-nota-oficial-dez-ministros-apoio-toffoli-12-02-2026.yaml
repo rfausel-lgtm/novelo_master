@@ -1,0 +1,24 @@
+id: ev-nota-oficial-dez-ministros-apoio-toffoli-12-02-2026
+kind: evidence
+classification: C
+proposition: Em 12/02/2026 os dez ministros do STF então em exercício (Fachin, Moraes, Gilmar Mendes, Cármen
+  Lúcia, Toffoli, Fux, André Mendonça, Nunes Marques, Zanin e Dino) divulgaram nota oficial reconhecendo "a
+  plena validade dos atos praticados pelo Ministro Dias Toffoli na relatoria da Reclamação n. 88.121" e
+  expressando "apoio pessoal" a ele; a Presidência do STF, "ouvidos todos os Ministros", acolheu no mesmo ato a
+  comunicação de Toffoli sobre o envio dos autos para redistribuição, que coube a André Mendonça.
+document_ids: []
+source_ids:
+- src-infomoney-2026-02-12-carta-ministros-stf-saida-toffoli
+- src-poder360-2026-02-13-pressao-politica-empurrou-stf-tirar-toffoli
+- src-poder360-2026-09-11-ha-7-meses-pf-ligava-toffoli-pagamento
+attributed_to: Nota oficial dos dez ministros do STF, divulgada em noticias.stf.jus.br em 12/02/2026
+date: '2026-02-12'
+notes: A equipe não conseguiu acessar diretamente noticias.stf.jus.br (403 na tentativa de WebFetch); a
+  proposição se apoia na reprodução integral feita pelo InfoMoney, corroborada em substância por duas outras
+  apurações independentes (Poder360, em duas datas distintas). Nenhum documento primário (PDF/HTML da nota)
+  foi baixado pelo acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

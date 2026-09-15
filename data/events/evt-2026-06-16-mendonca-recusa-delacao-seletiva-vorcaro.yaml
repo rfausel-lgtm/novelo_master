@@ -1,0 +1,37 @@
+id: evt-2026-06-16-mendonca-recusa-delacao-seletiva-vorcaro
+kind: event
+title: Mendonça relata em sessão ter recusado proposta de "delação seletiva" de Vorcaro
+event_type: statement
+date: '2026-06-16'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- daniel-vorcaro
+- gilmar-mendes
+location: Segunda Turma do STF
+description: 'Durante sessão de julgamento da Segunda Turma (que manteve a prisão preventiva do pai e do
+  primo de Daniel Vorcaro), o relator André Mendonça relatou ter recebido, por meio de advogado de Vorcaro,
+  proposta de "delação premiada seletiva": "Perderam o pudor. ''Queremos fazer uma delação seletiva''.
+  Falaram na minha face isso... Não faço questão de delação. Agora, delação seletiva, comigo não." Gilmar
+  Mendes reagiu: "Está tudo muito invertido" — a tratativa deveria ir à Polícia Federal ou à PGR, não ao
+  relator. Na mesma semana, PF e PGR rejeitaram uma segunda proposta de delação de Vorcaro, por não trazer
+  nada além do já apurado.'
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-mendonca-recusa-delacao-seletiva-vorcaro
+source_ids:
+- src-cnnbrasil-2026-06-17-mendonca-recusa-delacao-seletiva-vorcaro
+- src-gazetadopovo-2026-06-16-mendonca-recusa-delacao-seletiva
+document_ids: []
+public_act_ids: []
+cited_position: []
+tags:
+- caso-master
+- andre-mendonca
+- delacao-premiada
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

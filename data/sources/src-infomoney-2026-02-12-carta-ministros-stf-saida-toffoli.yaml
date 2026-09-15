@@ -1,0 +1,28 @@
+id: src-infomoney-2026-02-12-carta-ministros-stf-saida-toffoli
+kind: source
+title: Ministros do STF divulgaram carta sobre saída de Toffoli do caso Master; leia a íntegra
+publisher: InfoMoney
+publication_date: '2026-02-12'
+retrieved_at: '2026-09-14'
+url: https://www.infomoney.com.br/politica/ministros-do-stf-divulgaram-carta-sobre-saida-de-toffoli-do-caso-master-leia-integra/
+source_type: press
+summary: 'Reproduz a íntegra da nota oficial dos dez ministros do STF de 12/02/2026, assinada por Fachin
+  (presidente), Moraes (vice), Gilmar Mendes, Cármen Lúcia, Toffoli, Fux, André Mendonça, Nunes Marques, Zanin
+  e Dino. Trechos literais: "Reconhecem, assim, a plena validade dos atos praticados pelo Ministro Dias
+  Toffoli na relatoria da Reclamação n. 88.121"; "Expressam, neste ato, apoio pessoal ao Exmo. Min. Dias
+  Toffoli, respeitando a dignidade de Sua Excelência"; e que, "considerados os altos interesses
+  institucionais, a Presidência do Supremo Tribunal Federal, ouvidos todos os Ministros, acolhe comunicação de
+  Sua Excelência quanto ao envio dos feitos" — formalizando a redistribuição do caso.'
+verification:
+  checked_at: '2026-09-14'
+  checked_by: orquestrador (WebFetch direto)
+  url_reachable: true
+  content_matches_summary: true
+notes: A equipe não conseguiu acessar diretamente noticias.stf.jus.br (403 na tentativa de WebFetch); esta
+  reprodução do InfoMoney, com trechos literais e lista de signatários, é usada como referência ao conteúdo da
+  nota oficial.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

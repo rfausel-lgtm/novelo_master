@@ -1,0 +1,27 @@
+id: doc-2026-09-14-arguicao-suspeicao-benjamim-botelho-mendonca
+kind: document
+title: Arguição de suspeição de Benjamim Botelho de Almeida contra o ministro André Mendonça
+doc_type: judicial_filing
+date: '2026-09-14'
+date_precision: day
+source_ids:
+- src-stf-pet16704-arguicao-suspeicao-benjamim-botelho-mendonca
+summary: 'Petição, protocolada por dependência à STP 976 e à Pet 16.704/DF, na qual Benjamim Botelho de
+  Almeida — investigado na Operação Compliance Zero — pede o afastamento do ministro André Mendonça da
+  relatoria da Pet. 15.198/DF, da Rcl. 88.121/DF e do INQ 5026/DF, com fundamento no art. 254, IV, do CPP
+  c/c art. 278 do RISTF, por suspeição.'
+is_official: false
+related_entity_ids:
+- benjamim-botelho-de-almeida
+- andre-mendonca
+- daniel-vorcaro
+- ciro-soares
+- supremo-tribunal-federal
+issuer_id: benjamim-botelho-de-almeida
+issuer: Benjamim Botelho de Almeida, por seus advogados
+reference: STF, Pet 16.704/DF (dependência à STP 976)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'
