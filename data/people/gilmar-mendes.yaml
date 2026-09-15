@@ -56,11 +56,13 @@ open_questions:
   quem é investigado, o objeto da apuração e o rito a seguir, e propôs que Fachin primeiro reunisse os
   procedimentos correlatos e assumisse a coordenação, em vez de levar o caso ao Plenário no estado em que
   se encontrava.'
-- 'NOVO (14/09/2026, véspera da sessão): formalizou em ofício a Fachin o que sugerira publicamente em 11/09 —
-  pediu o adiamento do julgamento e propôs reunir os processos de Moraes e Mendonça sob a relatoria do
-  próprio Fachin; alternativamente, que ele mesmo apresentasse o caso ao plenário, com as preliminares
-  (inclusive o pedido de nulidade da PGR) examinadas antes do mérito. Nenhuma fonte localizada até esta
-  coleta relata se Fachin respondeu antes da sessão de 15/09.'
+- 'CORRIGIDO (15/09/2026): em 11/09/2026 (mesmo dia da entrevista já registrada acima), formalizou em ofício
+  a Fachin o pedido de adiamento do julgamento e de reunião dos processos de Moraes e Mendonça sob a
+  relatoria do próprio Fachin; alternativamente, que ele mesmo apresentasse o caso ao plenário, com as
+  preliminares (inclusive o pedido de nulidade da PGR) examinadas antes do mérito. Fachin respondeu no dia
+  seguinte, 12/09/2026: indeferiu a reunião, manteve a sessão de 15/09 exclusiva à Pet 16.662, e remeteu a
+  Pet 16.704 (caso Mendonça) para 23/09 — despacho já publicado no acervo antes deste item ter sido
+  registrado.'
 source_ids:
 - src-stf-pet16704-oficios-acesso-midia-celular-2026-09-11
 - src-correiobraziliense-2026-09-gilmar-propoe-retirar-delegados
@@ -71,8 +73,9 @@ source_ids:
 - src-stf-pet15556-edoc286-acordao-referendo-23-03-2026
 - src-stf-pet-16662-voto-vista-gilmar-mendes-08-09-2026
 - src-timesbrasil-2026-09-11-gilmar-sugere-adiar-julgamento-15-09
-- src-migalhas-2026-09-14-gilmar-oficio-pede-fachin-adiar-reunir-casos
-- src-exame-2026-09-14-gilmar-pede-fachin-reunir-casos-relatoria
+- src-migalhas-2026-09-11-gilmar-oficio-pede-fachin-adiar-reunir-casos
+- src-exame-2026-09-11-gilmar-pede-fachin-reunir-casos-relatoria
+- src-stf-pet16704-despacho-12-09-2026-pauta-adiada-23-09
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-14'

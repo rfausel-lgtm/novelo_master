@@ -1,22 +1,28 @@
 id: ev-gilmar-oficio-formal-pede-adiamento-sessao-e-reuniao-processos
 kind: evidence
 classification: C
-proposition: 'Na véspera da sessão extraordinária de 15/09/2026, Gilmar Mendes enviou ofício formal a Fachin
-  pedindo o adiamento do julgamento da Pet 16.662 e propondo quatro alternativas: reunir os processos de
-  Moraes e de Mendonça; Fachin assumir a relatoria do processo de Mendonça; organizar previamente a matéria
-  a ser julgada; ou, mantida a sessão, o próprio Gilmar apresentar o caso ao plenário com as preliminares
-  (inclusive o pedido de nulidade da PGR) analisadas antes do mérito.'
+proposition: 'Na noite de 11/09/2026, Gilmar Mendes enviou ofício formal a Fachin pedindo o adiamento do
+  julgamento da Pet 16.662 e propondo quatro alternativas: reunir os processos de Moraes e de Mendonça;
+  Fachin assumir a relatoria do processo de Mendonça; organizar previamente a matéria a ser julgada; ou,
+  mantida a sessão, o próprio Gilmar apresentar o caso ao plenário com as preliminares (inclusive o pedido
+  de nulidade da PGR) analisadas antes do mérito. Fachin respondeu no dia seguinte, 12/09/2026: indeferiu a
+  reunião dos processos, manteve a sessão de 15/09 exclusiva à Pet 16.662 e remeteu a Pet 16.704 (caso
+  Mendonça) para 23/09.'
 document_ids: []
 source_ids:
-- src-migalhas-2026-09-14-gilmar-oficio-pede-fachin-adiar-reunir-casos
-- src-exame-2026-09-14-gilmar-pede-fachin-reunir-casos-relatoria
+- src-migalhas-2026-09-11-gilmar-oficio-pede-fachin-adiar-reunir-casos
+- src-exame-2026-09-11-gilmar-pede-fachin-reunir-casos-relatoria
+- src-stf-pet16704-despacho-12-09-2026-pauta-adiada-23-09
 attributed_to_id: gilmar-mendes
 excerpt: Se a sessão de terça for mantida, o próprio Gilmar apresentaria o caso ao plenário, com as
   preliminares — inclusive o pedido da PGR de nulidade do relatório da PF — analisadas antes do mérito.
-date: '2026-09-14'
-notes: Formaliza, em ofício escrito, o que Gilmar já havia sugerido publicamente em entrevista de 11/09/2026
-  (ver ev-gilmar-questiona-publicamente-se-pet16662-esta-pronta-para-julgamento). Nenhuma fonte localizada
-  até esta coleta relata se Fachin acatou, recusou ou respondeu ao ofício antes da sessão.
+date: '2026-09-11'
+notes: 'CORREÇÃO (15/09/2026): a data originalmente registrada para o ofício (14/09) estava errada —
+  confirmado por WebFetch direto que ambas as matérias (Migalhas, Exame) são de 11/09/2026, e que Fachin
+  já havia respondido, indeferindo o pedido, em despacho de 12/09/2026 (já publicado no acervo desde o lote
+  253/254, ver src-stf-pet16704-despacho-12-09-2026-pauta-adiada-23-09) — antes mesmo de este item ter sido
+  publicado. Formaliza, em ofício escrito, o que Gilmar já havia sugerido publicamente em entrevista no
+  mesmo dia (ver ev-gilmar-questiona-publicamente-se-pet16662-esta-pronta-para-julgamento).'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-14'

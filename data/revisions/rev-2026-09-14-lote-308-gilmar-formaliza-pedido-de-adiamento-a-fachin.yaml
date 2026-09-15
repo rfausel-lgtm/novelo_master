@@ -3,14 +3,15 @@ kind: revision
 date: '2026-09-14'
 published_at: '2026-09-14T23:31:53-03:00'
 title: 'Lote 308 — na véspera da sessão, Gilmar formaliza a Fachin o pedido de adiamento'
-summary: 'Achado do agente de monitoramento de imprensa, verificado por duas fontes independentes (Migalhas
-  e Exame): na véspera da sessão extraordinária de 15/09/2026, Gilmar Mendes enviou ofício formal ao
-  presidente do STF, Edson Fachin, pedindo o adiamento do julgamento da Pet 16.662 e propondo reunir os
-  processos de Moraes e Mendonça sob a relatoria do próprio Fachin — ou, mantida a sessão, que ele mesmo
-  apresentasse o caso ao plenário, com as preliminares (inclusive o pedido de nulidade da PGR) examinadas
-  antes do mérito. É a formalização, em documento escrito, do que Gilmar já sugerira publicamente em
-  entrevista de 11/09/2026 (já no acervo). Nenhuma fonte localizada até esta coleta relata se Fachin
-  respondeu ao ofício antes da sessão.'
+summary: 'CORRIGIDO EM 15/09/2026 (ver corrections abaixo): achado do agente de monitoramento de imprensa,
+  verificado por duas fontes independentes (Migalhas e Exame), ambas de 11/09/2026 (não 14/09, como constava
+  na publicação original deste lote) — Gilmar Mendes enviou ofício formal ao presidente do STF, Edson Fachin,
+  pedindo o adiamento do julgamento da Pet 16.662 e propondo reunir os processos de Moraes e Mendonça sob a
+  relatoria do próprio Fachin — ou, mantida a sessão, que ele mesmo apresentasse o caso ao plenário, com as
+  preliminares (inclusive o pedido de nulidade da PGR) examinadas antes do mérito. Fachin respondeu no dia
+  seguinte, 12/09/2026: indeferiu a reunião, manteve a sessão de 15/09 exclusiva à Pet 16.662 e remeteu a
+  Pet 16.704 (caso Mendonça) para 23/09 — despacho já publicado no acervo (lote 253/254) antes mesmo deste
+  item ter sido registrado.'
 added:
   people: 0
   organizations: 0
@@ -23,6 +24,12 @@ updated_relationships: 0
 corrections:
 - 'gilmar-mendes: novo open_question com a formalização, em ofício, do pedido de adiamento e reunião de
   processos.'
+- 'CORREÇÃO (15/09/2026): a data do ofício estava registrada como 14/09/2026; verificado por WebFetch direto
+  que as duas fontes (Migalhas, Exame) são de 11/09/2026, e que Fachin já havia respondido, indeferindo o
+  pedido, em despacho de 12/09/2026 já publicado no acervo (lote 253/254,
+  src-stf-pet16704-despacho-12-09-2026-pauta-adiada-23-09) — antes mesmo de este lote ter sido publicado.
+  Arquivos de fonte renomeados (2026-09-14 → 2026-09-11); evidência, relacionamento e verbete de Gilmar
+  corrigidos com a data certa e o desfecho (Fachin indeferiu).'
 author: orquestrador
 affected_ids:
 - gilmar-mendes

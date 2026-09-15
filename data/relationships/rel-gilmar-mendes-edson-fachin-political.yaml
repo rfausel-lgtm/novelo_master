@@ -4,11 +4,11 @@ from_id: gilmar-mendes
 to_id: edson-fachin
 relationship_type: political
 directed: true
-label: pediu adiamento e reunião de processos, véspera da sessão de 15/09
-description: Na véspera da sessão extraordinária de 15/09/2026, Gilmar Mendes enviou ofício formal ao
-  presidente do STF, Edson Fachin, pedindo o adiamento do julgamento da Pet 16.662 e propondo a reunião
-  dos processos de Moraes e Mendonça sob a relatoria do próprio Fachin — formalização de sugestão que já
-  fizera publicamente em 11/09/2026.
+label: pediu adiamento e reunião de processos; Fachin indeferiu no dia seguinte
+description: Em 11/09/2026, Gilmar Mendes enviou ofício formal ao presidente do STF, Edson Fachin, pedindo
+  o adiamento do julgamento da Pet 16.662 e propondo a reunião dos processos de Moraes e Mendonça sob a
+  relatoria do próprio Fachin — formalização de sugestão que já fizera publicamente no mesmo dia. Fachin
+  indeferiu o pedido em 12/09/2026, mantendo a sessão de 15/09 exclusiva à Pet 16.662.
 evidence_class: C
 confidence: 0.75
 status: unverified
@@ -16,8 +16,9 @@ event_ids: []
 evidence_ids:
 - ev-gilmar-oficio-formal-pede-adiamento-sessao-e-reuniao-processos
 source_ids:
-- src-migalhas-2026-09-14-gilmar-oficio-pede-fachin-adiar-reunir-casos
-- src-exame-2026-09-14-gilmar-pede-fachin-reunir-casos-relatoria
+- src-migalhas-2026-09-11-gilmar-oficio-pede-fachin-adiar-reunir-casos
+- src-exame-2026-09-11-gilmar-pede-fachin-reunir-casos-relatoria
+- src-stf-pet16704-despacho-12-09-2026-pauta-adiada-23-09
 document_ids: []
 review_status: published
 reviewer: orquestrador
