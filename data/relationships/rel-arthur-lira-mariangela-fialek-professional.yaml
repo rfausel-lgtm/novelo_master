@@ -1,0 +1,27 @@
+id: rel-arthur-lira-mariangela-fialek-professional
+kind: relationship
+from_id: arthur-lira
+to_id: mariangela-fialek
+relationship_type: professional
+directed: true
+label: nomeou para a Chefia da Assessoria Especial
+start_date: '2021-03'
+description: Arthur Lira, então presidente da Câmara, nomeou Mariângela Fialek para a Chefia da Assessoria
+  Especial do Gabinete da Presidência em março/2021. Ela manteve o cargo mesmo após a saída dele em
+  fevereiro/2025, sob a presidência de Hugo Motta. Em depoimento de 13/02/2025, o deputado Glauber Braga
+  citou Fialek como operadora ligada diretamente à Presidência sob Lira — alegação de testemunha, sem
+  prova documental equivalente à que embasou as buscas contra ela.
+evidence_class: A
+confidence: 0.85
+status: unverified
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
+- src-metropoles-2025-02-13-glauber-braga-depoimento-lira-orcamento-secreto
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,23 @@
+id: rel-arthur-lira-camara-dos-deputados-institutional
+kind: relationship
+from_id: arthur-lira
+to_id: camara-dos-deputados
+relationship_type: institutional
+directed: true
+label: presidente (2021-2025)
+start_date: '2021-02'
+end_date: '2025-02'
+description: Arthur Lira presidiu a Câmara dos Deputados de fevereiro de 2021 a fevereiro de 2025.
+evidence_class: A
+confidence: 0.9
+status: unverified
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

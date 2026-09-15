@@ -1,0 +1,22 @@
+id: ev-mesa-diretora-camara-pede-stf-anulacao-provas-fialek
+kind: evidence
+classification: C
+proposition: 'Em dezembro/2025, a Mesa Diretora da Câmara dos Deputados, presidida por Hugo Motta, enviou
+  ao Min. Flávio Dino pedido formal de anulação das provas obtidas pela PF contra Mariângela Fialek e de
+  retorno dela ao cargo na Presidência da Câmara. Apesar da proibição expressa de Dino a Fialek de exercer
+  "atividades relacionadas à proposição, tramitação ou destinação de emendas parlamentares", ela seguia
+  formalmente nomeada e recebendo salário (~R$ 25,9 mil/mês) como chefe da Assessoria Especial do Gabinete
+  da Presidência, na Diretoria Administrativa (Dirad), até a data desta coleta.'
+document_ids: []
+source_ids:
+- src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
+- src-jovempan-2026-07-10-fialek-proibida-segue-nomeada-camara
+attributed_to_id: camara-dos-deputados
+date: '2025-12-01'
+notes: Classificado como C (duas fontes de imprensa independentes convergentes); petição original não foi
+  lida diretamente por esta equipe.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,27 @@
+id: rel-glauber-braga-arthur-lira-allegation
+kind: relationship
+from_id: glauber-braga
+to_id: arthur-lira
+relationship_type: investigative_allegation
+directed: true
+label: acusação de testemunha sobre orçamento secreto
+start_date: '2025-02-13'
+description: 'Em depoimento de 13/02/2025 à PF, com mandato suspenso à época, Glauber Braga responsabilizou
+  Arthur Lira por concentrar o direcionamento de emendas parlamentares e enfraquecer a transparência,
+  citando Mariângela Fialek como operadora ligada diretamente à Presidência. Alega ser perseguido
+  politicamente por Lira em razão dessas críticas. É a origem documentada da investigação que resultou,
+  meses depois, na Operação Transparência. Lira não é alvo formal desta operação até esta coleta — a
+  acusação permanece no nível de depoimento de testemunha, sem prova documental equivalente.'
+evidence_class: A
+confidence: 0.5
+status: disputed
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-metropoles-2025-02-13-glauber-braga-depoimento-lira-orcamento-secreto
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

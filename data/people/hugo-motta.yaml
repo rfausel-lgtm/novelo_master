@@ -8,11 +8,17 @@ positions:
   organization_id: camara-dos-deputados
   source_ids:
   - src-stf-2026-03-12-rejeita-cpi
-summary: Presidente da Câmara dos Deputados. No MS 40791, o deputado Rodrigo Rollemberg alegou omissão
-  de Motta na instalação da CPI do Banco Master (requerimento de 02/02/2026 com 201 assinaturas); o STF
-  rejeitou o pedido em 12/03/2026 por falta de prova de omissão ilegal.
+summary: 'Presidente da Câmara dos Deputados, descrito pela imprensa como "afilhado político" de seu
+  antecessor, Arthur Lira. No MS 40791, o deputado Rodrigo Rollemberg alegou omissão de Motta na instalação
+  da CPI do Banco Master (requerimento de 02/02/2026 com 201 assinaturas); o STF rejeitou o pedido em
+  12/03/2026 por falta de prova de omissão ilegal. NOVO (15/09/2026): a Mesa Diretora da Câmara, sob sua
+  presidência, pediu ao Min. Flávio Dino, em dezembro/2025, a anulação das provas obtidas pela PF contra
+  Mariângela Fialek — servidora nomeada por Lira, investigada por peculato-desvio e associação criminosa
+  num esquema de R$ 119,2 milhões em emendas — e o retorno dela ao cargo.'
 why_in_novelo: Foi apontado como autoridade coatora em mandado de segurança sobre a instalação da CPI
-  do Banco Master, rejeitado pelo STF.
+  do Banco Master, rejeitado pelo STF — e, desde dezembro/2025, a Mesa Diretora sob sua presidência pediu
+  ao STF a anulação de provas contra uma servidora investigada por desvio de emendas, ação institucional
+  da própria cúpula da Câmara.
 cited_position:
 - kind: version
   summary: Segundo a comunicação oficial do STF, Motta declarou à imprensa que não seria possível instalar
@@ -30,13 +36,14 @@ open_questions: []
 source_ids:
 - src-stf-2026-03-12-rejeita-cpi
 - src-jparaiba-2026-03-24-motta-nao-teme
+- src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Hugo_Motta
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-15'
 photo:
   path: /fotos/hugo-motta.jpg
   source: Wikimedia Commons

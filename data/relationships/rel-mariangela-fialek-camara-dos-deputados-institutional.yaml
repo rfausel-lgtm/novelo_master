@@ -1,0 +1,27 @@
+id: rel-mariangela-fialek-camara-dos-deputados-institutional
+kind: relationship
+from_id: mariangela-fialek
+to_id: camara-dos-deputados
+relationship_type: institutional
+directed: true
+label: Chefe da Assessoria Especial do Gabinete da Presidência
+start_date: '2021-03'
+description: Mariângela Fialek ocupa, desde março de 2021, a Chefia da Assessoria Especial do Gabinete da
+  Presidência da Câmara dos Deputados — cargo para o qual foi nomeada por Arthur Lira e que manteve sob a
+  presidência de Hugo Motta, apesar de investigada e proibida de tratar de emendas parlamentares.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids:
+- evt-2025-12-mesa-diretora-pede-anulacao-provas-fialek
+evidence_ids:
+- ev-mesa-diretora-camara-pede-stf-anulacao-provas-fialek
+source_ids:
+- src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
+- src-jovempan-2026-07-10-fialek-proibida-segue-nomeada-camara
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

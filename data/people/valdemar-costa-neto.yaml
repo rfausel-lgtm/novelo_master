@@ -1,0 +1,33 @@
+id: valdemar-costa-neto
+kind: person
+name: Valdemar Costa Neto
+full_name: Valdemar Costa Neto
+aliases: []
+category: politician
+role: Presidente nacional do PL (Partido Liberal); sem mandato parlamentar
+positions: []
+summary: 'Presidente nacional do PL. Segundo a PF, embora sem mandato parlamentar, teria influenciado o
+  direcionamento de pelo menos 21 emendas parlamentares (R$ 119.216.703,15) por meio de servidores da
+  Câmara dos Deputados — entre eles Mariângela Fialek —, que seriam formalmente registrados como autores
+  das indicações "para dar aparência de legalidade", enquanto as indicações reais vinham dele. Cerca de
+  R$ 104 milhões já haviam sido pagos quando o Min. Flávio Dino determinou, em 10/07/2026, o bloqueio dos
+  R$ 119,2 milhões e a suspensão da execução das despesas ligadas às emendas. É investigado por
+  peculato-desvio e associação criminosa.'
+why_in_novelo: Apontado pela PF como o beneficiário final de um esquema de emendas parlamentares
+  operacionalizado por servidores da Câmara — entre eles Mariângela Fialek, a mesma operadora citada na
+  investigação sobre Cezinha de Madureira (lote 314/316) — com R$ 119,2 milhões bloqueados por decisão do
+  Min. Flávio Dino.
+cited_position:
+- kind: not_located
+  summary: Manifestação pública dele sobre as acusações não localizada até esta coleta.
+open_questions:
+- Se e como o esquema apontado se relaciona, além da coincidência de operadora (Fialek), com a investigação
+  de tráfico de influência sobre Cezinha de Madureira e Nunes Marques (lote 316) — nenhuma fonte localizada
+  liga formalmente os dois esquemas entre si.
+source_ids:
+- src-migalhas-2026-07-10-dino-bloqueia-119-milhoes-valdemar
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

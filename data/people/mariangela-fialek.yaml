@@ -1,29 +1,56 @@
 id: mariangela-fialek
 kind: person
 name: Mariângela Fialek
+full_name: Mariângela Fialek
 aliases:
 - Tuca
 category: public_official
-role: Ex-assessora do ex-presidente da Câmara Arthur Lira; apontada pela PF como operadora do esquema de
-  destinação de emendas parlamentares investigado na Operação Transparência
-positions: []
-summary: Ex-assessora de Arthur Lira na Câmara dos Deputados. Segundo a Polícia Federal (Operação
-  Transparência), enviava a Cezinha de Madureira memoriais de processos sob relatoria de ministros do STF
-  (entre eles Kassio Nunes Marques) e preparava contratos de honorários de êxito, condicionados ao
-  resultado de julgamentos, com valores entre R$ 500 mil e R$ 2 milhões, em nome do escritório da esposa de
-  Cezinha, Valéria Rodrigues Linhares. Teve seu gabinete (como ex-assessora) alvo de busca na primeira fase
-  da mesma operação.
-why_in_novelo: Apontada pela PF como a operadora que conectava processos sob relatoria de ministros do STF
-  aos contratos de honorários condicionados negociados por Cezinha de Madureira e Valéria Linhares — nó
-  central do esquema de tráfico de influência investigado na Operação Transparência.
+role: Chefe da Assessoria Especial do Gabinete da Presidência da Câmara dos Deputados; investigada por
+  peculato-desvio e associação criminosa (Operação Transparência)
+positions:
+- title: Chefe da Assessoria Especial do Gabinete da Presidência
+  organization_id: camara-dos-deputados
+  start_date: '2021-03'
+  source_ids:
+  - src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
+summary: 'Advogada, 51 anos, natural de União da Vitória/PR, formada pela PUC/RS, mestre em Direito do
+  Estado pela USP. Desde março/2021 ocupa a Chefia da Assessoria Especial do Gabinete da Presidência da
+  Câmara — cargo estrutural, não assessoria avulsa —, salário de ~R$ 25,9 mil/mês, lotada na Diretoria
+  Administrativa (Dirad), com sala no Anexo IV (subsolo, "área de baixa circulação e pouca visibilidade
+  pública"). Nomeada por Arthur Lira, então presidente da Câmara, manteve o cargo mesmo após a saída dele
+  em fevereiro/2025, sob a presidência de Hugo Motta. A PF a aponta como "personagem principal" de um
+  "arranjo funcional informal" que operacionalizava, junto com os servidores Garigham Amarante Pinto e
+  Nara Brum, indicações de emendas parlamentares em nome de Valdemar Costa Neto (presidente do PL, sem
+  mandato) — ao menos 21 emendas, R$ 119,2 milhões, dos quais ~R$ 104 milhões já pagos quando o Min.
+  Flávio Dino determinou o bloqueio em 10/07/2026, proibindo-a de tratar de emendas. Ela é investigada por
+  peculato-desvio e associação criminosa. Em dezembro/2025, a própria Mesa Diretora da Câmara, presidida
+  por Hugo Motta, pediu ao STF a anulação das provas contra ela e seu retorno ao cargo — apesar da
+  proibição, ela seguia formalmente nomeada e recebendo salário até esta coleta. Na terceira fase da
+  Operação Transparência (14/09/2026, lote 314), a PF a aponta também como a operadora que enviava a
+  Cezinha de Madureira memoriais de processos sob relatoria de ministros do STF (entre eles Kassio Nunes
+  Marques) e preparava contratos de honorários de êxito, em nome do escritório da esposa de Cezinha,
+  Valéria Rodrigues Linhares.'
+why_in_novelo: 'Nó central de DOIS esquemas distintos investigados na mesma Operação Transparência: o
+  desvio de R$ 119,2 milhões em emendas em benefício de Valdemar Costa Neto, e o tráfico de influência
+  sobre processos no STF ligado a Cezinha de Madureira (lote 316) — com a própria Mesa Diretora da Câmara
+  agindo institucionalmente, via pedido ao STF, para protegê-la.'
 cited_position:
 - kind: not_located
   summary: Manifestação pública dela sobre as acusações não localizada até esta coleta.
 open_questions:
-- Vínculo formal atual (se ainda assessora algum parlamentar) não apurado por esta equipe.
+- 'Origem documentada da investigação: depoimento do deputado Glauber Braga à PF em 13/02/2025,
+  responsabilizando Arthur Lira e citando Fialek como operadora ligada à Presidência — alegação de
+  testemunha, tratada com a devida cautela em relação a Lira (ver arthur-lira, glauber-braga).'
+- Vínculo entre este esquema (Valdemar Costa Neto/emendas) e o esquema de tráfico de influência sobre
+  Cezinha de Madureira/Nunes Marques (lote 316) não é afirmado por nenhuma fonte além da coincidência de
+  operadora (ela própria) — registrado como o que é, não como conexão processual única.
 source_ids:
 - src-metropoles-2026-09-14-cezinha-operadora-emendas-elo-stf
 - src-sbtnews-2026-09-14-dino-cezinha-nunes-marques
+- src-migalhas-2026-07-10-dino-bloqueia-119-milhoes-valdemar
+- src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
+- src-jovempan-2026-07-10-fialek-proibida-segue-nomeada-camara
+- src-metropoles-2025-02-13-glauber-braga-depoimento-lira-orcamento-secreto
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'

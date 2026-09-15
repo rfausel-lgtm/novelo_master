@@ -1,0 +1,30 @@
+id: glauber-braga
+kind: person
+name: Glauber Braga
+full_name: Glauber Braga
+aliases: []
+category: politician
+role: Deputado federal (PSOL-RJ)
+positions: []
+summary: Deputado federal, com mandato suspenso à época dos fatos. Em depoimento de 13/02/2025 à PF, numa
+  investigação requisitada pelo Min. Flávio Dino sobre o "orçamento secreto", responsabilizou o então
+  presidente da Câmara, Arthur Lira, por concentrar o direcionamento de emendas parlamentares e citou
+  Mariângela Fialek como operadora ligada diretamente à Presidência da Câmara. Esse depoimento é a origem
+  documentada da investigação que resultou na Operação Transparência.
+why_in_novelo: Sua denúncia como testemunha à PF, em fevereiro de 2025, deu origem à investigação que,
+  meses depois, resultou nas buscas contra Mariângela Fialek, o bloqueio de R$ 119,2 milhões de Valdemar
+  Costa Neto e, por fim, a Operação Transparência contra Cezinha de Madureira (lotes 314/316).
+cited_position:
+- kind: version
+  summary: Alega ser perseguido politicamente por Arthur Lira em razão dessas críticas.
+  source_ids:
+  - src-metropoles-2025-02-13-glauber-braga-depoimento-lira-orcamento-secreto
+  by_id: glauber-braga
+open_questions: []
+source_ids:
+- src-metropoles-2025-02-13-glauber-braga-depoimento-lira-orcamento-secreto
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

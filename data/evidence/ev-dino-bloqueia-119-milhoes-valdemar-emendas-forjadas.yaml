@@ -1,0 +1,24 @@
+id: ev-dino-bloqueia-119-milhoes-valdemar-emendas-forjadas
+kind: evidence
+classification: C
+proposition: 'Em 10/07/2026, o Min. Flávio Dino bloqueou R$ 119.216.703,15 em bens de Valdemar Costa Neto,
+  presidente nacional do PL, e suspendeu a execução de despesas públicas ligadas a 21 emendas
+  parlamentares que a PF aponta como forjadas e desviadas em seu benefício — registradas formalmente em
+  nome de deputados "para dar aparência de legalidade", mas executadas, segundo a investigação, por
+  servidores da Câmara dos Deputados (Mariângela Fialek, Garigham Amarante Pinto e Nara Brum) a mando de
+  Valdemar, que não tem mandato parlamentar. Cerca de R$ 104 milhões já haviam sido pagos antes da
+  suspensão. Dino classificou os indícios de responsabilidade como "veementes" e determinou a entrega de
+  documentação completa pela Câmara em 10 dias. Acusações: peculato-desvio e associação criminosa.'
+document_ids: []
+source_ids:
+- src-migalhas-2026-07-10-dino-bloqueia-119-milhoes-valdemar
+- src-jovempan-2026-07-10-fialek-proibida-segue-nomeada-camara
+attributed_to_id: flavio-dino
+date: '2026-07-10'
+notes: Classificado como C (duas fontes de imprensa independentes); decisão original de Dino não foi lida
+  diretamente por esta equipe.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

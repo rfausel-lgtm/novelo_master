@@ -1,0 +1,49 @@
+id: rev-2026-09-15-lote-317-fialek-valdemar-costa-neto-e-a-defesa-da-mesa-diretora
+kind: revision
+date: '2026-09-15'
+title: 'Lote 317 — Fialek, o desvio de R$ 119,2 milhões de Valdemar Costa Neto e a defesa da Mesa Diretora'
+summary: 'Aprofundamento de um fork delegado sobre Mariângela Fialek e Arthur Lira (a pedido de Rafael),
+  verificado por esta sessão via WebFetch/WebSearch em fontes independentes. Revela que a investigação
+  sobre Fialek (já no acervo desde o lote 314/316, pela conexão com Cezinha de Madureira) é bem maior:
+  em 10/07/2026, o Min. Flávio Dino bloqueou R$ 119,2 milhões de Valdemar Costa Neto, presidente do PL
+  sem mandato parlamentar, por 21 emendas parlamentares forjadas e desviadas em seu benefício, executadas
+  por Fialek e outros dois servidores da Câmara — dos quais ~R$ 104 milhões já haviam sido pagos. Fialek,
+  longe de ser "ex-assessora", segue formalmente nomeada como chefe da Assessoria Especial do Gabinete da
+  Presidência da Câmara, cargo para o qual foi indicada por Arthur Lira em 2021 e que manteve sob a
+  presidência de Hugo Motta — cuja Mesa Diretora pediu ao STF, em dezembro/2025, a anulação das provas
+  contra ela e seu retorno ao cargo, numa defesa institucional da própria cúpula da Câmara. A origem de
+  toda a investigação foi um depoimento do deputado Glauber Braga (PSOL-RJ) à PF em 13/02/2025,
+  responsabilizando Lira por concentrar o direcionamento de emendas — tratado com cautela, por ser
+  alegação de testemunha sem prova documental equivalente e sem que Lira seja alvo formal da operação.
+  Três novas entidades de pessoa (Valdemar Costa Neto, Arthur Lira, Glauber Braga), dois eventos, duas
+  evidências classe C e quatro relações novas, além de reescrita substancial do verbete de Fialek e
+  atualização do de Hugo Motta.'
+added:
+  people: 3
+  organizations: 0
+  events: 2
+  documents: 0
+  relationships: 6
+  sources: 4
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'mariangela-fialek: verbete reescrito — corrigida a descrição de "ex-assessora" para o cargo que ela
+  formalmente mantém, com biografia e os dois esquemas investigados.'
+- 'hugo-motta: nova informação sobre o pedido da Mesa Diretora ao STF em defesa de Fialek.'
+author: orquestrador
+affected_ids:
+- mariangela-fialek
+- valdemar-costa-neto
+- arthur-lira
+- glauber-braga
+- hugo-motta
+- cezinha-de-madureira
+- flavio-dino
+reason: Fork delegado (funny-chatterjee-b1b9b2-9d) aprofundou, a pedido de Rafael, as investigações sobre
+  Mariângela Fialek e Arthur Lira, revelando uma frente maior (R$119,2mi de Valdemar Costa Neto) além da
+  já registrada nos lotes 314/316. Esta sessão verificou de forma independente as alegações principais
+  antes de publicar.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'

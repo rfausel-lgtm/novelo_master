@@ -1,0 +1,27 @@
+id: rel-hugo-motta-mariangela-fialek-institutional
+kind: relationship
+from_id: hugo-motta
+to_id: mariangela-fialek
+relationship_type: institutional
+directed: true
+label: Mesa Diretora pediu anulação de provas e retorno ao cargo
+start_date: '2025-12'
+description: A Mesa Diretora da Câmara, presidida por Hugo Motta (descrito pela imprensa como "afilhado
+  político" de Arthur Lira, que nomeou Fialek), enviou ao Min. Flávio Dino, em dezembro/2025, pedido formal
+  de anulação das provas obtidas pela PF contra Fialek e de retorno dela ao cargo — ação institucional da
+  cúpula da Câmara em defesa de servidora sob investigação por peculato-desvio e associação criminosa.
+evidence_class: C
+confidence: 0.8
+status: verified
+event_ids:
+- evt-2025-12-mesa-diretora-pede-anulacao-provas-fialek
+evidence_ids:
+- ev-mesa-diretora-camara-pede-stf-anulacao-provas-fialek
+source_ids:
+- src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,27 @@
+id: rel-valdemar-costa-neto-mariangela-fialek-allegation
+kind: relationship
+from_id: valdemar-costa-neto
+to_id: mariangela-fialek
+relationship_type: investigative_allegation
+directed: true
+label: "\"braço\" executor apontado pela PF"
+start_date: '2024'
+description: A PF aponta Mariângela Fialek, junto com os servidores Garigham Amarante Pinto e Nara Brum,
+  como executora, dentro da Câmara dos Deputados, das indicações reais de emendas parlamentares de
+  Valdemar Costa Neto — que, sem mandato, não podia indicá-las diretamente. Ao menos 21 emendas, R$ 119,2
+  milhões, dos quais ~R$ 104 milhões já pagos quando o Min. Dino determinou o bloqueio em 10/07/2026.
+evidence_class: C
+confidence: 0.7
+status: unverified
+event_ids:
+- evt-2026-07-10-dino-bloqueia-119-milhoes-valdemar
+evidence_ids:
+- ev-dino-bloqueia-119-milhoes-valdemar-emendas-forjadas
+source_ids:
+- src-migalhas-2026-07-10-dino-bloqueia-119-milhoes-valdemar
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

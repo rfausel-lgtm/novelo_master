@@ -1,0 +1,40 @@
+id: arthur-lira
+kind: person
+name: Arthur Lira
+full_name: Arthur Lira
+aliases: []
+category: politician
+role: Deputado federal (PP-AL); ex-presidente da Câmara dos Deputados (2021-2025)
+positions:
+- title: Presidente da Câmara dos Deputados
+  organization_id: camara-dos-deputados
+  start_date: '2021-02'
+  end_date: '2025-02'
+  source_ids:
+  - src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
+summary: 'Presidente da Câmara dos Deputados de 2021 a 2025. Nomeou Mariângela Fialek para a Chefia da
+  Assessoria Especial do Gabinete da Presidência em março/2021 — cargo que ela manteve mesmo após a saída
+  dele, sob a presidência de Hugo Motta, descrito pela imprensa como seu "afilhado político". Em
+  depoimento de 13/02/2025 à PF, o deputado Glauber Braga (PSOL-RJ) o responsabilizou por concentrar o
+  direcionamento de emendas parlamentares e citou Fialek como operadora ligada diretamente à Presidência —
+  alegação de testemunha, sem prova documental equivalente à que embasou as buscas contra Fialek e
+  Valdemar Costa Neto. Lira não é alvo formal da Operação Transparência até esta coleta.'
+why_in_novelo: Ex-presidente da Câmara que nomeou Mariângela Fialek — a operadora central tanto do esquema
+  de emendas ligado a Valdemar Costa Neto quanto da investigação de tráfico de influência sobre Cezinha de
+  Madureira (lotes 314/316) — e é apontado por depoimento de parlamentar, não por prova documental, como
+  articulador de um esquema mais amplo de desvio de emendas.
+cited_position:
+- kind: not_located
+  summary: Manifestação pública dele sobre a acusação de Glauber Braga não localizada até esta coleta.
+open_questions:
+- 'A acusação de Glauber Braga (que o chama de "pai do orçamento secreto") é alegação de testemunha
+  (classe A), datada de fevereiro/2025 — não há, até esta coleta, mandado, indiciamento ou prova
+  documental equivalente contra ele nesta operação. Manter essa distinção em qualquer atualização futura.'
+source_ids:
+- src-metropoles-2025-02-13-glauber-braga-depoimento-lira-orcamento-secreto
+- src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

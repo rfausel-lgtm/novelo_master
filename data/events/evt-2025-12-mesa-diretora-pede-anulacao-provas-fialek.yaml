@@ -1,0 +1,29 @@
+id: evt-2025-12-mesa-diretora-pede-anulacao-provas-fialek
+kind: event
+title: 'Mesa Diretora da Câmara, presidida por Hugo Motta, pede ao STF anulação de provas contra Fialek e
+  seu retorno ao cargo'
+event_type: public_act
+date: '2025-12-01'
+date_precision: month
+participant_ids:
+- hugo-motta
+- mariangela-fialek
+- flavio-dino
+- camara-dos-deputados
+description: A Mesa Diretora da Câmara dos Deputados, presidida por Hugo Motta, enviou ao Min. Flávio Dino
+  pedido formal de anulação das provas obtidas pela PF contra Mariângela Fialek e de retorno dela ao cargo
+  na Presidência da Câmara — ação institucional da própria cúpula da Casa, não apenas de aliados
+  individuais, em defesa de uma servidora sob investigação por peculato-desvio e associação criminosa.
+evidence_class: C
+status: verified
+evidence_ids:
+- ev-mesa-diretora-camara-pede-stf-anulacao-provas-fialek
+source_ids:
+- src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'
