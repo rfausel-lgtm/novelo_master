@@ -8,6 +8,10 @@ const CHAVE = "novelo-orientacao-vista";
 
 const INSTRUCOES = [
   ["Toque ou clique num nó", "abre o card com o resumo, as conexões e as fontes."],
+  [
+    "Toque ou clique numa linha",
+    "abre a ligação: por que as duas pontas estão conectadas, a classe da evidência e as fontes. Na ficha do nó, “ver ligação” leva ao mesmo card.",
+  ],
   ["Clique duas vezes", "abre o dossiê completo daquela entidade."],
   ["No celular", "um dedo move o mapa; use Ferramentas → Mover nós para reorganizar."],
 ];
