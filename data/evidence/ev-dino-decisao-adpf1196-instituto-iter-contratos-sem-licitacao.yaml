@@ -1,0 +1,28 @@
+id: ev-dino-decisao-adpf1196-instituto-iter-contratos-sem-licitacao
+kind: evidence
+classification: D
+proposition: 'A decisão registra que, "em 24 de setembro de 2025 — após o voto do Exmo. Ministro André
+  Mendonça no sentido de não referendar a medida por mim deferida —, o Instituto [ITER] celebrou com a
+  Prefeitura do Município de São Paulo, por intermédio da Secretaria Municipal de Gestão, o Termo de
+  Contrato nº. 32/SEGES/2025, mediante contratação direta fundada no art. 74, III, ''f'', da Lei nº.
+  14.133/2021", no valor de R$ 380.000,00, para cursos de gestão de contratações públicas na EMASP. Registra
+  ainda que o Instituto ITER "teria celebrado, também sem licitação, contrato com a Fundação para o
+  Desenvolvimento da Educação (FDE)", vinculada à Secretaria da Educação do Estado de SP, no valor
+  aproximado de R$ 1.630.000,00. Achado independente desta equipe (Revista Fórum, 12/09/2026) mostra
+  contexto mais amplo: o Instituto ITER acumulou ao menos R$ 10,85 milhões em 55 contratos públicos, 54
+  deles (98,2%) sem licitação prévia.'
+document_ids:
+- doc-2026-09-15-decisao-dino-adpf1196-zettel-cortel-mendonca
+source_ids:
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+- src-revistaforum-2026-09-instituto-iter-108-milhoes-contratos
+attributed_to_id: flavio-dino
+date: '2026-09-15'
+notes: 'A decisão trata os dois contratos citados (Prefeitura/SP e FDE/SP) como parte do "quadro
+  indiciário" a esclarecer, sem afirmar irregularidade. O dado dos 55 contratos/R$ 10,8 milhões é achado
+  de imprensa independente, não constante da decisão.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

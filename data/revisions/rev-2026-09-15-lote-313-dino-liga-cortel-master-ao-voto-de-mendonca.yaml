@@ -1,0 +1,57 @@
+id: rev-2026-09-15-lote-313-dino-liga-cortel-master-ao-voto-de-mendonca
+kind: revision
+date: '2026-09-15'
+title: 'Lote 313 — Dino liga Cortel/Banco Master ao voto de Mendonça e remete decisão a Fachin'
+summary: 'Decisão monocrática do Min. Flávio Dino de hoje (ADPF 1.196, privatização dos cemitérios de São
+  Paulo), obtida e conferida integralmente no portal público do STF por um fork delegado e corroborada por
+  esta sessão via WebSearch/WebFetch independentes. A decisão narra que Fabiano Zettel (cunhado de Daniel
+  Vorcaro, já preso no caso Master) foi conselheiro da concessionária Cortel SP até outubro/2025, assinando
+  atas com e-mails institucionais do Banco Master e do Banco Máxima — fato negado pela Cortel e sob
+  apuração da Prefeitura de SP e do MP-SP. Estabelece cronologia inédita: o encontro Mendonça-Vorcaro de
+  14/03/2025 ocorreu um dia antes de Mendonça pedir vista da cautelar de preços funerários do próprio
+  Dino — cautelar que afetava a Cortel — e, na retomada, Mendonça votou contra ela. Cita a própria entrevista
+  de Mendonça confirmando que recebeu Vorcaro a pedido da Igreja Batista da Lagoinha (à qual Zettel é
+  vinculado), com o deputado Cezinha de Madureira como intermediário — ambos já registrados no acervo.
+  Registra que o irmão de Mendonça é Secretário-Executivo da SP Regula, agência que fiscaliza os cemitérios
+  de SP, e que o Instituto ITER (fundado por Mendonça, local do encontro com Vorcaro) fechou, dias após o
+  voto, dois contratos sem licitação com entes públicos de SP (R$ 380 mil com a Prefeitura, ~R$ 1,63 milhão
+  com a FDE) — achado de imprensa independente desta equipe mostra que o Instituto acumula R$ 10,8 milhões
+  em 55 contratos públicos, 54 sem licitação. O relator explicita não afirmar relação causal, apenas
+  "quadro indiciário suficientemente relevante" a apurar, e remete cópia da decisão ao Min. Fachin para
+  juntada nos autos que apuram a conduta de Mendonça, sujeito a autorização do Plenário. Não incluído neste
+  lote, por prudência de tempo e escopo: o histórico mais antigo (2016-2022) sobre o fundo CARE11, a VHR
+  Empreendimentos, o fundo Brazilian Graveyard and Death Care Services e a multa da CVM aos irmãos Schumann,
+  também narrado na decisão — fica para lote posterior.'
+added:
+  people: 1
+  organizations: 2
+  events: 1
+  documents: 1
+  relationships: 4
+  sources: 3
+  evidence: 4
+updated_relationships: 1
+corrections:
+- 'fabiano-zettel: nova open_question sobre seu papel na Cortel SP.'
+- 'instituto-iter: nova open_question sobre os contratos sem licitação com Prefeitura de SP e FDE.'
+- 'andre-mendonca: nova open_question sobre a decisão de Dino e a remessa a Fachin.'
+- 'rel-daniel-vorcaro-andre-mendonca-allegation: enriquecida com a cronologia encontro→pedido de
+  vista→voto e a conexão com a Cortel, estabelecida pela decisão de Dino.'
+author: orquestrador
+affected_ids:
+- flavio-dino
+- andre-mendonca
+- daniel-vorcaro
+- fabiano-zettel
+- cortel-sp
+- sp-regula
+- alexandre-de-almeida-mendonca
+- instituto-iter
+- cezinha-de-madureira
+- banco-master
+reason: Uma sessão fork, a pedido de Rafael, localizou e extraiu integralmente do portal público do STF a
+  decisão de hoje na ADPF 1.196; esta sessão corroborou o conteúdo de forma independente via WebSearch e
+  WebFetch contra reportagens de imprensa (Poder360, Revista Fórum) antes de publicar.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'

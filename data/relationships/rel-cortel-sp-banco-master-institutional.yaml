@@ -1,0 +1,36 @@
+id: rel-cortel-sp-banco-master-institutional
+kind: relationship
+from_id: cortel-sp
+to_id: banco-master
+relationship_type: institutional
+directed: false
+label: vínculo alegado via Fabiano Zettel (negado pela Cortel)
+description: Apuração da Prefeitura de SP, do MP-SP e agora da CVM, por determinação do Min. Dino, sobre
+  possível vínculo entre a Cortel e o Banco Master (e o Banco Máxima), tendo como ponto de partida as atas
+  societárias assinadas por Fabiano Zettel com e-mails institucionais desses bancos. A Cortel nega
+  qualquer vínculo financeiro ou societário.
+evidence_class: D
+confidence: 0.5
+status: disputed
+event_ids:
+- evt-2026-09-15-dino-decisao-adpf1196-converte-diligencia
+evidence_ids:
+- ev-dino-decisao-adpf1196-zettel-cortel-master-maxima
+source_ids:
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+- src-poder360-2026-04-07-dino-questiona-zettel-cortel
+document_ids:
+- doc-2026-09-15-decisao-dino-adpf1196-zettel-cortel-mendonca
+cited_position:
+- by_id: cortel-sp
+  kind: denial
+  summary: Nega vínculo financeiro ou societário com o Banco Master/Banco Máxima ou com Fabiano Zettel
+    enquanto signatário das atas.
+  source_ids:
+  - src-poder360-2026-04-07-dino-questiona-zettel-cortel
+  date: '2026-04-07'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

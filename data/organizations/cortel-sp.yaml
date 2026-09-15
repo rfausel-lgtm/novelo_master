@@ -1,0 +1,44 @@
+id: cortel-sp
+kind: organization
+name: Cortel SP
+full_name: SPE Consórcio Cortel SP S.A.
+aliases:
+- Cortel
+- Cortel Holding
+org_type: company
+summary: 'Concessionária de serviços funerários e cemiteriais do Município de São Paulo desde a
+  privatização promovida pela gestão do prefeito Ricardo Nunes em 2023. Fabiano Zettel (cunhado de Daniel
+  Vorcaro) integrou seu conselho até deixar o cargo em outubro/2025, tendo assinado, segundo apuração
+  citada pelo Min. Flávio Dino na ADPF 1.196, cinco atas entre 2022 e 2025 usando e-mails institucionais
+  do Banco Master e do Banco Máxima. A empresa nega vínculo financeiro ou societário com o banco ou com o
+  signatário. O fundo imobiliário Brazilian Graveyard and Death Care Services detém 20% de suas ações; em
+  2022 a CVM multou os irmãos Roberto e Márcio Schumann por uso de informação privilegiada em compras
+  agressivas de cotas desse fundo, feitas pela Cortel Holding sob ordens de Roberto Schumann — a defesa
+  deles atribuiu as ordens a Vicente Conte Neto, conselheiro da Cortel e cofundador do Brazilian Graveyard,
+  e destacou a proximidade dele com Vorcaro.'
+why_in_novelo: Concessionária apontada pelo STF (ADPF 1.196) como o ponto de convergência entre Fabiano
+  Zettel/Banco Master, a cautelar de preços funerários de SP e o voto de André Mendonça contra essa
+  cautelar um dia após receber Daniel Vorcaro — objeto de apuração pela Prefeitura de SP, MP-SP e CVM por
+  determinação do Min. Dino em 15/09/2026.
+cited_position:
+- kind: denial
+  summary: Nega qualquer vínculo financeiro ou societário com o Banco Master, o Banco Máxima ou com
+    Fabiano Zettel enquanto signatário das atas; afirma que ele não é acionista e deixou o conselho em
+    outubro de 2025.
+  source_ids:
+  - src-poder360-2026-04-07-dino-questiona-zettel-cortel
+  date: '2026-04-07'
+open_questions:
+- Resultado das diligências determinadas pelo Min. Dino em 15/09/2026 (Prefeitura/SP Regula, MP-SP,
+  CVM) ainda não localizado — a decisão fixou prazos de 10 e 15 dias.
+- Identidade completa e papel atual de Vicente Conte Neto (conselheiro da Cortel, diretor da Zion
+  Capital, cofundador do Brazilian Graveyard) na relação com o grupo Vorcaro não apurados em profundidade
+  por esta equipe.
+source_ids:
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+- src-poder360-2026-04-07-dino-questiona-zettel-cortel
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,22 @@
+id: ev-dino-decisao-adpf1196-remessa-fachin-suspeicao-mendonca
+kind: evidence
+classification: D
+proposition: 'No dispositivo da decisão de 15/09/2026, o Min. Dino determina "IV) Apresentar cópia desta
+  decisão ao Exmo. Ministro Edson Fachin, Presidente desta Corte, para juntada nos autos em que se apuram
+  condutas do Exmo. Ministro André Mendonça, a fim de que, mediante o contraditório e a ampla defesa, após
+  autorização do Plenário, os fatos sejam esclarecidos, já que podem impactar no desfecho destes autos."
+  A decisão foi proferida no mesmo dia da sessão extraordinária do Plenário do STF (15/09/2026) sobre a
+  investigação/suspeição de Mendonça.'
+document_ids:
+- doc-2026-09-15-decisao-dino-adpf1196-zettel-cortel-mendonca
+source_ids:
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+attributed_to_id: flavio-dino
+date: '2026-09-15'
+notes: Formaliza a conexão processual entre a ADPF 1.196 e o processo de apuração da conduta de Mendonça —
+  depende de autorização do Plenário, ainda não confirmada nesta coleta.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

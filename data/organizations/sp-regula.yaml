@@ -1,0 +1,28 @@
+id: sp-regula
+kind: organization
+name: SP Regula
+full_name: Agência Reguladora de Serviços Públicos do Município de São Paulo
+aliases: []
+org_type: public_body
+summary: Agência reguladora municipal de São Paulo responsável, entre outras frentes, pela fiscalização
+  dos serviços funerários e cemiteriais privatizados, incluindo a concessão à Cortel SP. Em 10/02/2026
+  enviou o Ofício 028/SP REGULA/GSFC/2026 à Cortel exigindo esclarecimentos sobre sua estrutura societária
+  e eventual vínculo com o Banco Master. Alexandre de Almeida Mendonça, irmão do Min. André Mendonça, foi
+  nomeado Superintendente da agência em julho/2024 e promovido a Secretário-Executivo em 26/05/2026.
+why_in_novelo: Agência municipal na linha de frente da apuração sobre o vínculo Cortel/Banco Master
+  determinada pelo Min. Flávio Dino, e onde o irmão do Min. André Mendonça ocupa cargo de direção desde
+  antes do julgamento da cautelar em que Mendonça votou favoravelmente às concessionárias.
+cited_position:
+- kind: not_located
+  summary: Manifestação pública específica da agência sobre o vínculo Cortel/Master não localizada até
+    esta coleta.
+open_questions:
+- Resultado da intimação de 15/09/2026 (prazo de 10 dias) para apresentar documentação sobre a concessão
+  à Cortel ainda não localizado.
+source_ids:
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

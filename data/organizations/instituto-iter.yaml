@@ -6,16 +6,27 @@ org_type: association
 summary: Instituição de ensino em São Paulo fundada pelo ministro André Mendonça, segundo o Brasil de
   Fato; local do encontro de 14/03/2025 com Vorcaro.
 why_in_novelo: Local do encontro entre o ministro André Mendonça e Daniel Vorcaro em março de 2025, segundo
-  a imprensa.
+  a imprensa; e, segundo decisão do Min. Flávio Dino de 15/09/2026 (ADPF 1.196), contratante de entes
+  públicos de São Paulo sem licitação nos meses seguintes ao voto de Mendonça contra a cautelar de preços
+  funerários — parte do "quadro indiciário" que o relator determinou apurar.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
 - Natureza jurídica e vínculo formal do ministro com o instituto não verificados em registro oficial.
+- 'NOVO (15/09/2026): a decisão do Min. Dino na ADPF 1.196 registra que, em 24/09/2025 — dias após o voto
+  de Mendonça contra a cautelar de preços funerários —, o Instituto celebrou com a Prefeitura de São Paulo
+  o Termo de Contrato 32/SEGES/2025 (R$ 380 mil, sem licitação, art. 74 III "f" da Lei 14.133/2021) e,
+  também sem licitação, contrato de ~R$ 1,63 milhão com a FDE/SP. Achado independente desta equipe
+  (Revista Fórum, 12/09/2026) mostra escala maior: R$ 10,85 milhões em 55 contratos públicos, 54 sem
+  licitação (98,2%). Dino explicita não afirmar relação causal entre o voto e os contratos — trata a
+  "convergência temporal" como indício a esclarecer.'
 source_ids:
 - src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+- src-revistaforum-2026-09-instituto-iter-108-milhoes-contratos
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-15'

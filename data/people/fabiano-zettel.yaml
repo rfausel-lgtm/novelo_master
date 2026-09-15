@@ -70,6 +70,13 @@ cited_position:
   by_id: fabiano-zettel
   date: '2026-03-21'
 open_questions:
+- 'NOVO (15/09/2026): decisão do Min. Flávio Dino na ADPF 1.196 (privatização dos cemitérios de SP) narra
+  que ele integrou o conselho da concessionária Cortel SP até outubro de 2025, tendo assinado cinco atas
+  societárias entre 2022 e 2025 com e-mails institucionais do Banco Master e do Banco Máxima — achado que
+  o Min. Dino qualifica como parte de um "quadro indiciário" (não fato provado) conectado à cronologia do
+  encontro entre Daniel Vorcaro e o Min. André Mendonça em 14/03/2025 e ao voto de Mendonça contra a
+  cautelar de preços funerários em 04/04/2025. A Cortel nega vínculo financeiro/societário com os bancos.
+  Ver rel-fabiano-zettel-cortel-sp-corporate e cortel-sp.'
 - 'NOVO (15/09/2026): o RIF nº 140515 do COAF (Pet 15.645/DF, sigilo levantado em 14/09/2026) o identifica
   como maior remetente de recursos (R$ 19,2 milhões) para a conta da própria Igreja Batista da Lagoinha
   onde foi pastor, e mostra a Moriah Asset comprando veículos de luxo somando R$ 4,95 milhões em 2025
@@ -133,11 +140,13 @@ source_ids:
 - src-cnnbrasil-2026-arleen-maridt-tayaya-quebra-cabeca
 - src-stf-pet15556-edoc247-peticao-zettel-domiciliar-pos-parto-24-04-2026
 - src-stf-pet15645-rif-140515-coaf
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+- src-poder360-2026-04-07-dino-questiona-zettel-cortel
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-09-15'
 photo:
   path: /fotos/fabiano-zettel.jpg
   source: Wikimedia Commons

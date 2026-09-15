@@ -1,0 +1,26 @@
+id: rel-alexandre-de-almeida-mendonca-andre-mendonca-familial
+kind: relationship
+from_id: alexandre-de-almeida-mendonca
+to_id: andre-mendonca
+relationship_type: familial
+directed: false
+label: irmão
+description: Alexandre de Almeida Mendonça é irmão do Min. André Mendonça. Ocupa cargo de direção na SP
+  Regula, agência que fiscaliza os serviços funerários de SP, desde julho/2024 — período que abrange o
+  julgamento da cautelar de preços funerários em que o Min. Mendonça votou a favor das concessionárias.
+evidence_class: D
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2026-09-15-dino-decisao-adpf1196-converte-diligencia
+evidence_ids:
+- ev-dino-decisao-adpf1196-timeline-encontro-vista-voto-mendonca
+source_ids:
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+document_ids:
+- doc-2026-09-15-decisao-dino-adpf1196-zettel-cortel-mendonca
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

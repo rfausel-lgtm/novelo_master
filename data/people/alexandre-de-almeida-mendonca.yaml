@@ -1,0 +1,39 @@
+id: alexandre-de-almeida-mendonca
+kind: person
+name: Alexandre de Almeida Mendonça
+full_name: Alexandre de Almeida Mendonça
+aliases: []
+category: public_official
+role: Secretário-Executivo da SP Regula (Agência Reguladora de Serviços Públicos do Município de São
+  Paulo)
+positions:
+- title: Superintendente
+  organization_id: sp-regula
+  start_date: '2024-07'
+  source_ids:
+  - src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+- title: Secretário-Executivo
+  organization_id: sp-regula
+  start_date: '2026-05-26'
+  source_ids:
+  - src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+summary: Irmão do Min. André Mendonça. Nomeado Superintendente da SP Regula em julho/2024, atuando na área
+  funerária e cemiterial, e promovido a Secretário-Executivo da agência em 26/05/2026 — durante a
+  pendência do julgamento da cautelar sobre preços dos serviços funerários de São Paulo, cautelar essa em
+  que seu irmão votou contra a posição do relator, Min. Flávio Dino, e a favor das concessionárias privadas
+  (incluindo a Cortel SP).
+why_in_novelo: A decisão do Min. Dino na ADPF 1.196 (15/09/2026) registra sua posição na agência municipal
+  que regula os serviços funerários de SP como um dos pontos de "convergência temporal" a esclarecer, ao
+  lado do encontro Mendonça-Vorcaro e dos contratos do Instituto ITER — sem afirmar relação causal.
+cited_position:
+- kind: not_located
+  summary: Manifestação pública dele sobre o tema não localizada até esta coleta.
+open_questions:
+- Processo seletivo/critério de nomeação e promoção na SP Regula não apurado por esta equipe.
+source_ids:
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

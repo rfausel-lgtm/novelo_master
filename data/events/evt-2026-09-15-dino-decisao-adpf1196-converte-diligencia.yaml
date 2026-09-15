@@ -1,0 +1,42 @@
+id: evt-2026-09-15-dino-decisao-adpf1196-converte-diligencia
+kind: event
+title: 'Dino converte ADPF 1.196 em diligência e liga apuração Cortel/Master ao caso Mendonça'
+event_type: judicial_decision
+date: '2026-09-15'
+date_precision: day
+participant_ids:
+- flavio-dino
+- andre-mendonca
+- fabiano-zettel
+- cortel-sp
+- daniel-vorcaro
+- instituto-iter
+- alexandre-de-almeida-mendonca
+- sp-regula
+- cezinha-de-madureira
+description: 'Na ADPF 1.196/SP (privatização dos serviços funerários e cemiteriais de São Paulo), o
+  relator, Min. Flávio Dino, profere decisão monocrática determinando diligências à Prefeitura de SP/SP
+  Regula, ao MP-SP e à CVM sobre o vínculo entre a concessionária Cortel e o Banco Master/Banco Máxima via
+  Fabiano Zettel, e remete cópia da decisão ao Min. Edson Fachin para juntada nos autos que apuram a
+  conduta do Min. André Mendonça — narrando a cronologia entre o encontro Mendonça-Vorcaro de 14/03/2025,
+  o pedido de vista do dia seguinte, o voto de Mendonça contra a cautelar de preços funerários em
+  04/04/2025, os contratos sem licitação do Instituto ITER com entes públicos de SP posteriores a esse
+  voto, e o cargo do irmão de Mendonça na SP Regula. Proferida no mesmo dia da sessão extraordinária do
+  Plenário do STF sobre a investigação de Mendonça.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-dino-decisao-adpf1196-zettel-cortel-master-maxima
+- ev-dino-decisao-adpf1196-timeline-encontro-vista-voto-mendonca
+- ev-dino-decisao-adpf1196-instituto-iter-contratos-sem-licitacao
+- ev-dino-decisao-adpf1196-remessa-fachin-suspeicao-mendonca
+source_ids:
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+document_ids:
+- doc-2026-09-15-decisao-dino-adpf1196-zettel-cortel-mendonca
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'
