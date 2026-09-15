@@ -1,0 +1,43 @@
+id: rev-2026-09-14-lote-302-alberto-leite-e-o-apartamento-em-miami
+kind: revision
+date: '2026-09-14'
+title: 'Lote 302 — Alberto Leite: do fundo Arleen ao apartamento de luxo em Miami'
+summary: 'Investigação aberta a partir de matéria compartilhada por Rafael (post da Transparência Internacional
+  - Brasil citando reportagem exclusiva do Estadão de 14/09/2026): identificado o empresário Alberto Leite,
+  amigo de Dias Toffoli e dono da FS Security, como o "amigo" a quem Daniel Vorcaro determinou repassar sua
+  posição no Fundo Arleen (o mesmo fundo já apontado pela PF como possível instrumento de benefício a Toffoli).
+  Leite registrou, segundo investigadores, a offshore Egide I Holding (Ilhas Virgens Britânicas) — que recebeu
+  cerca de R$ 34 milhões do Arleen antes de sua liquidação — e, através da subsidiária Lino Properties
+  (Delaware), comprou em março de 2025 um apartamento de US$ 3,648 milhões no empreendimento 888 Brickell
+  Miami. Leite nega qualquer participação ou benefício de Toffoli na compra. Enriquecida também a evidência
+  já publicada sobre a hipótese da PF, com um episódio específico (mar/2024) de possível encontro entre
+  Toffoli e Vorcaro na residência do ministro no Lago Norte, classificado pela PF como "plausível", não
+  confirmado.'
+added:
+  people: 1
+  organizations: 2
+  events: 0
+  documents: 0
+  relationships: 4
+  sources: 3
+  evidence: 2
+updated_relationships: 0
+corrections:
+- 'dias-toffoli: summary e source_ids atualizados com a cadeia Leite/Egide I/Lino Properties e o imóvel em
+  Miami.'
+- 'ev-pf-hipotese-de-que-toffoli-seria-beneficiario-final-do-fundo-arleen: acrescentado o episódio do possível
+  encontro no Lago Norte (mar/2024) e novos source_ids.'
+author: orquestrador
+affected_ids:
+- alberto-leite
+- egide-i-holding
+- lino-properties
+- daniel-vorcaro
+- dias-toffoli
+reason: Investigação solicitada por Rafael a partir de print de post da Transparência Internacional - Brasil
+  (X/Twitter) sobre a cobertura do relatório da PF citado pela revista piauí e a reportagem do Estadão sobre a
+  offshore ligada a Toffoli. Verificado por WebFetch direto em três artigos (CNN Brasil, BNews x2) antes da
+  publicação; matéria original do Estadão, sob paywall, não acessada diretamente.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'

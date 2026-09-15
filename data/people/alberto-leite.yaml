@@ -1,0 +1,41 @@
+id: alberto-leite
+kind: person
+name: Alberto Leite
+category: businessperson
+role: Empresário, dono da empresa de segurança FS Security
+summary: Empresário, dono da empresa de segurança FS Security e amigo de Dias Toffoli. Segundo mensagem de
+  Daniel Vorcaro a Fabiano Zettel (novembro de 2025), o "FIP Tayayá" deveria passar a "um amigo que vai
+  comprar", identificado só pelo primeiro nome "Alberto" — a PF identifica esse Alberto como Leite. Assumiu o
+  controle do Fundo Arleen (que chegou a deter participação na Maridt, empresa da família de Toffoli, no
+  Resort Tayayá) por volta de fevereiro de 2025. Em março de 2025 registrou, segundo investigadores, a
+  offshore Egide I Holding Limited nas Ilhas Virgens Britânicas, que recebeu cerca de R$ 34 milhões do Arleen
+  em dezembro de 2025, antes da liquidação do fundo, e que controla integralmente a Lino Properties, empresa
+  de Delaware (EUA) que comprou, em março de 2025, um apartamento de US$ 3,648 milhões no empreendimento 888
+  Brickell Miami. Afirma que a operação é regular e nega qualquer participação ou benefício de Toffoli na
+  compra do imóvel.
+why_in_novelo: A Polícia Federal identifica Leite como o destinatário final da participação de Daniel Vorcaro
+  no Fundo Arleen e como dono da offshore que a PF cita na hipótese de que Dias Toffoli seja beneficiário
+  final de recursos ligados ao banqueiro — e como comprador, através dessa offshore, de um imóvel de luxo em
+  Miami.
+cited_position:
+- kind: denial
+  summary: A operação de compra do imóvel em Miami é "totalmente regular, legal e declarada"; nega "qualquer
+    participação ou benefício de Dias Toffoli na compra do imóvel".
+  source_ids:
+  - src-bnews-2026-09-14-estadao-offshore-imovel-miami-888-brickell
+  by_id: alberto-leite
+  date: '2026-09-14'
+open_questions:
+- Os relatos divergem sobre o mês em que o controle do Fundo Arleen passou a Leite (novembro x fevereiro de
+  2025) — ver notas de src-bnews-2026-09-11-pf-encontro-casa-toffoli-fs-security. Não reconciliado.
+- Não localizada manifestação de Leite sobre a mensagem de Vorcaro a Zettel que o identifica pelo primeiro
+  nome, nem sobre a extensão de sua relação pessoal com Toffoli além de "amigo".
+source_ids:
+- src-cnnbrasil-2026-09-11-toffoli-seria-beneficiario-fundo-vorcaro
+- src-bnews-2026-09-11-pf-encontro-casa-toffoli-fs-security
+- src-bnews-2026-09-14-estadao-offshore-imovel-miami-888-brickell
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

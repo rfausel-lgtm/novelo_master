@@ -1,0 +1,24 @@
+id: ev-vorcaro-identifica-alberto-leite-amigo-comprador-arleen
+kind: evidence
+classification: A
+proposition: Segundo mensagens de Daniel Vorcaro a Fabiano Zettel analisadas pela PF e reveladas pela imprensa
+  a partir do relatório citado pela revista piauí, Vorcaro afirmou, em novembro de 2025, que o "FIP Tayayá"
+  deveria passar a "um amigo que vai comprar", pediu que esse amigo — identificado só pelo primeiro nome
+  "Alberto" — o procurasse, e a PF identifica esse Alberto como o empresário Alberto Leite, que assumiu o
+  controle do Fundo Arleen por volta de fevereiro de 2025.
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-09-11-toffoli-seria-beneficiario-fundo-vorcaro
+- src-bnews-2026-09-11-pf-encontro-casa-toffoli-fs-security
+attributed_to: Polícia Federal, em relatório sob sigilo descrito pela revista piauí e repercutido por outros
+  veículos
+date: '2025-11-01'
+notes: 'As duas fontes consultadas divergem sobre o mês exato em que o controle do fundo passou a Leite
+  (novembro x fevereiro de 2025) — divergência registrada em ambos os verbetes de origem, não reconciliada.
+  O acervo não teve acesso direto ao relatório da PF nem às mensagens originais; a proposição depende da
+  leitura que a imprensa fez do documento.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'
