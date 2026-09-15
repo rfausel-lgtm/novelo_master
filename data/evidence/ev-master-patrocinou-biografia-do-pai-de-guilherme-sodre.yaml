@@ -1,0 +1,16 @@
+kind: evidence
+id: ev-master-patrocinou-biografia-do-pai-de-guilherme-sodre
+classification: A
+proposition: Segundo a Folha de S.Paulo, o livro sobre o coronel Geraldo Sodré Martins, pai de Guilherme Sodré,
+  foi lançado em 2022 em Salvador com patrocínio do banco de Daniel Vorcaro.
+source_ids:
+- src-folha-acessa-2026-06-21-enteado-wagner-lastro-familiar
+attributed_to: Folha de S.Paulo (João Pedro Pitombo)
+excerpt: lançado em 2022 em Salvador com patrocínio do banco de Daniel Vorcaro
+date: '2022'
+notes: Contato documentado pela imprensa entre o Master e a família Sodré dois anos antes da mensagem de 19/06/2024.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,31 @@
+kind: relationship
+event_ids: []
+evidence_ids:
+- ev-ipgt-kevin-marques-e-filho-do-dono-da-consult-socios
+source_ids:
+- src-em-2026-03-20-ipgt-kevin-marques-consult
+document_ids: []
+id: rel-kevin-de-carvalho-marques-instituto-de-pesquisa-e-gestao-tributaria-corporate
+from_id: kevin-de-carvalho-marques
+to_id: instituto-de-pesquisa-e-gestao-tributaria
+relationship_type: corporate
+directed: true
+label: sócio com 70% (segundo a imprensa)
+start_date: 2024-11
+description: Segundo o Estado de Minas, com base na revista piauí e na Jucesp, Kevin de Carvalho Marques detém 70%
+  do IPGT, cujo outro sócio é filho do dono da Consult Inteligência Tributária.
+evidence_class: A
+confidence: 0.65
+status: unverified
+cited_position:
+- kind: clarification
+  by_id: kevin-de-carvalho-marques
+  date: '2026-03-20'
+  summary: As empresas são independentes uma da outra.
+  source_ids:
+  - src-em-2026-03-20-ipgt-kevin-marques-consult
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

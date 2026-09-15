@@ -5,17 +5,26 @@ to_id: jaques-wagner
 relationship_type: personal_social
 directed: false
 label: descrito pela PF como pessoa próxima ao senador
-description: Guilherme Henrique Sodré Martins, ex-marido da atual esposa de Jaques Wagner, é descrito pela Polícia
-  Federal como pessoa próxima ao senador. Foi alvo da 9ª fase da Operação Compliance Zero.
+description: Guilherme Henrique Sodré Martins, ex-marido da atual esposa de Jaques Wagner e pai do enteado do senador,
+  é descrito pela Polícia Federal como pessoa próxima e de confiança de Wagner. Segundo a revista Época (2016),
+  comprou com o senador, em 2015, um sítio em Andaraí (BA), com 24% para ele; Wagner confirmou a compra conjunta
+  para lazer. Segundo a PF, recebeu de Augusto Lima presentes enviados ao mesmo tempo ao senador, e foi citado com
+  ele pelo diretor comercial do Master. Foi alvo da 9ª fase da Operação Compliance Zero.
 evidence_class: A
 confidence: 0.6
 status: unverified
-evidence_ids: []
-document_ids: []
+evidence_ids:
+- ev-epoca-2016-sitio-andarai-wagner-e-guilherme-sodre
+- ev-pf-presentes-augusto-lima-a-wagner-e-tio-guiga
+- ev-pf-mascarenhas-vou-mandar-pra-tio-guiga-e-jaques
+document_ids:
+- doc-2026-07-31-representacao-pf-9a-fase-wagner
 source_ids:
 - src-metropoles-2026-guilherme-sodre-martins-melhor-amigo-wagner-9afase
+- src-bahianoticias-2016-05-15-wagner-compra-sitio-chapada
+- src-pf-representacao-9a-fase-wagner-pdf
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-09-15'

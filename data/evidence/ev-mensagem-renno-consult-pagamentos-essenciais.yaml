@@ -1,0 +1,18 @@
+kind: evidence
+id: ev-mensagem-renno-consult-pagamentos-essenciais
+classification: A
+proposition: Segundo a Folha de S.Paulo, reproduzida pelo Times Brasil, em 08/08/2025 Luiz Rennó escreveu a Vorcaro
+  que "dos pagamentos essenciais está faltando a Consult" e reenviou o contato de Kevin Marques, indicando-o como
+  o único pagamento que ainda faltava.
+source_ids:
+- src-timesbrasil-2026-09-15-mensagens-vorcaro-citam-filho-nunes-marques
+attributed_to: Folha de S.Paulo (coluna Mônica Bergamo), segundo o Times Brasil
+excerpt: Dos pagamentos essenciais está faltando a Consult
+date: '2025-08-08'
+notes: A matéria original da Folha não foi localizada pela equipe. A mensagem "Dominado aqui", atribuída em outras
+  reproduções a 01/10/2024, não foi confirmada e não entra.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

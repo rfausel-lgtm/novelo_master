@@ -1,0 +1,29 @@
+id: instituto-de-pesquisa-e-gestao-tributaria
+kind: organization
+name: Instituto de Pesquisa e Gestão Tributária
+aliases:
+- IPGT
+org_type: company
+summary: Empresa que, segundo o Estado de Minas com base na revista piauí e na Jucesp, tem Kevin de Carvalho Marques
+  com 70% e Gabriel Campelo de Carvalho, filho do dono da Consult Inteligência Tributária, com 30%, e que funcionou
+  na mesma sala e com o mesmo e-mail da Consult. A Consult afirma que o IPGT está sem operação e sem faturamento.
+why_in_novelo: Liga societariamente o filho do ministro Nunes Marques à família dona da Consult, que recebeu pagamentos
+  do Banco Master, segundo relatório do Coaf noticiado.
+cited_position:
+- kind: clarification
+  by_id: kevin-de-carvalho-marques
+  date: '2026-03-20'
+  summary: Kevin Marques afirma que IPGT e Consult são independentes uma da outra e que o compartilhamento de estrutura
+    foi estratégia empresarial legal.
+  source_ids:
+  - src-em-2026-03-20-ipgt-kevin-marques-consult
+open_questions:
+- 'Data de constituição: 7 de novembro de 2024 segundo o Estado de Minas, outubro de 2024 segundo o ICL Notícias.
+  A ficha da Jucesp não foi lida.'
+source_ids:
+- src-em-2026-03-20-ipgt-kevin-marques-consult
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,27 @@
+kind: relationship
+event_ids: []
+evidence_ids:
+- ev-pf-guilherme-sodre-e-daniel-monteiro-tratativas-do-apartamento
+- ev-decisao-9a-fase-tratativas-continuaram
+source_ids:
+- src-pf-representacao-9a-fase-wagner-pdf
+document_ids:
+- doc-2026-07-31-representacao-pf-9a-fase-wagner
+id: rel-daniel-lopes-monteiro-guilherme-henrique-sodre-martins-communication
+from_id: daniel-lopes-monteiro
+to_id: guilherme-henrique-sodre-martins
+relationship_type: communication
+directed: false
+label: tratativas sobre o apartamento do Poème Horto (segundo a PF)
+start_date: '2025-11-25'
+description: 'Segundo a representação da PF da 9ª fase, Guilherme Sodré e o advogado Daniel Lopes Monteiro trataram,
+  entre novembro de 2025 e 2026, da situação do apartamento do Poème Horto: reunião presencial, ligações, a mensagem
+  "A altura do vão é 2,45m" e minuta de cessão dos direitos sobre o imóvel. A interpretação das mensagens é da PF.'
+evidence_class: D
+confidence: 0.75
+status: unverified
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,23 @@
+kind: evidence
+id: ev-pf-guilherme-sodre-e-daniel-monteiro-tratativas-do-apartamento
+classification: D
+proposition: 'Segundo a representação da PF da 9ª fase, depois da primeira fase da Compliance Zero Guilherme Henrique
+  Sodré Martins foi interlocutor do advogado Daniel Lopes Monteiro nas tratativas sobre o apartamento do Poème Horto:
+  reunião no escritório de Monteiro em 25/11/2025, pedido de encontro em 04/12/2025, a mensagem de 18/12/2025 "A
+  altura do vão é 2,45m", respondida com "Perfeito", que a PF lê como referência ao valor de R$ 2,45 milhões do
+  imóvel, e, em 2026, o envio de minuta de venda dos direitos sobre a unidade.'
+document_ids:
+- doc-2026-07-31-representacao-pf-9a-fase-wagner
+source_ids:
+- src-pf-representacao-9a-fase-wagner-pdf
+attributed_to_id: policia-federal
+locator: páginas 22 a 25 de 98
+excerpt: A altura do vão é 2,45m
+date: '2025-11-25'
+notes: A leitura de "2,45m" como valor do imóvel é interpretação da PF. Complementa ev-decisao-9a-fase-tratativas-continuaram,
+  que registrava o fato a partir da decisão.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

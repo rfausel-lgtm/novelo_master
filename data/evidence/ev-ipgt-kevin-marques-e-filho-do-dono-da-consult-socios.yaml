@@ -1,0 +1,17 @@
+kind: evidence
+id: ev-ipgt-kevin-marques-e-filho-do-dono-da-consult-socios
+classification: A
+proposition: Segundo o Estado de Minas, com base na revista piauí e em registro na Jucesp, Kevin de Carvalho Marques
+  detém 70% do Instituto de Pesquisa e Gestão Tributária (IPGT) e Gabriel Campelo de Carvalho, filho do dono da
+  Consult Inteligência Tributária, os 30% restantes; IPGT e Consult teriam funcionado na mesma sala e com o mesmo
+  e-mail corporativo.
+source_ids:
+- src-em-2026-03-20-ipgt-kevin-marques-consult
+attributed_to: Estado de Minas, citando a revista piauí e registro na Junta Comercial de São Paulo
+date: '2024-11-07'
+notes: A equipe não leu a ficha da Jucesp. O ICL Notícias data a constituição em outubro de 2024.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

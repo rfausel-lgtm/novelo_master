@@ -1,0 +1,54 @@
+id: rev-2026-09-15-lote-324-renno-kevin-e-tio-guiga
+kind: revision
+date: '2026-09-15'
+title: Lote 324 — as mensagens do "500 mil mês", o administrador de fato e o que a PF diz de Tio Guiga
+summary: 'Registra as mensagens publicadas em 15/09/2026 por Metrópoles e Folha, extraídas do celular de Vorcaro,
+  em que Luiz Rennó encaminha o contato de "Kevin Marques" com "500 mil mês - mantém?" e cita a Consult entre "pagamentos
+  essenciais" — em classe A: a imprensa associa o contato ao filho do ministro Nunes Marques sem documento, as reportagens
+  ressalvam que as mensagens não comprovam pagamento, e o material integral do celular segue sob sigilo no STF.
+  Rennó passa a ter a indisponibilidade de bens decretada pelo Banco Central em 05/05/2026 como administrador de
+  fato do Master; o cargo de diretor jurídico fica como atribuição da imprensa, porque a PF o dá a André Kruschewsky
+  Lima em período anterior. A releitura da representação da PF sobre Wagner acrescenta a Guilherme Sodré os presentes
+  de Augusto Lima endereçados a "Tio Guiga", a menção do diretor comercial do Master e as tratativas com Daniel
+  Lopes Monteiro sobre o apartamento do Poème Horto, abertas por telefone repassado por Kruschewsky. Entram ainda
+  a MMSM Patrimonial, sociedade de Guilherme e do filho Eduardo, o IPGT, sociedade de Kevin Marques com o filho
+  do dono da Consult, e o sítio de Andaraí comprado em 2015 por Wagner e Guilherme.'
+added:
+  people: 0
+  organizations: 2
+  events: 1
+  documents: 0
+  relationships: 7
+  sources: 10
+  evidence: 11
+updated_relationships: 1
+corrections:
+- 'guilherme-henrique-sodre-martins: retirada a nota de que o documento primário da PF não havia sido lido; resumo
+  refeito a partir da representação.'
+- 'andre-kruschewsky-lima: o cargo de diretor jurídico passa a constar da representação da PF, não só de reportagem.'
+- 'fernando-de-goes: nome completo e cargo de diretor comercial, segundo a PF.'
+- 'luiz-renno-netto: o "advogado trabalhista" do verbete foi conferido na p. 85 do IPJ-A 886269/2026, que cita o
+  perfil profissional dele; cargo no banco tratado como atribuição da imprensa.'
+author: orquestrador
+affected_ids:
+- luiz-renno-netto
+- kevin-de-carvalho-marques
+- consult-inteligencia-tributaria
+- guilherme-henrique-sodre-martins
+- eduardo-mendonca-sodre-martins
+- andre-kruschewsky-lima
+- fernando-de-goes
+- augusto-lima
+- daniel-lopes-monteiro
+- jaques-wagner
+- banco-master
+- mmsm-patrimonial
+- instituto-de-pesquisa-e-gestao-tributaria
+reason: Pedido do Rafael para investigar Rennó, Kevin Marques e Guilherme Sodré a partir do print do Metrópoles;
+  pesquisa delegada em fontes abertas, conferida por esta sessão no relatório da PF, na API do DJEN e nos dados
+  abertos da Receita.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

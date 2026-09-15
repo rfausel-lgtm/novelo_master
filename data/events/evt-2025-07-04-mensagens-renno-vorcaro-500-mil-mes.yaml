@@ -1,0 +1,48 @@
+id: evt-2025-07-04-mensagens-renno-vorcaro-500-mil-mes
+kind: event
+title: Mensagens de Luiz Rennó a Vorcaro citam "500 mil mês" e a Consult (segundo a imprensa)
+event_type: communication
+date: '2025-07-04'
+date_precision: day
+end_date: '2025-08-08'
+participant_ids:
+- luiz-renno-netto
+- daniel-vorcaro
+description: Segundo Metrópoles e Folha de S.Paulo, que publicaram em 15/09/2026 mensagens do celular de Daniel
+  Vorcaro, Luiz Rennó encaminhou a Vorcaro em 04/07/2025 o contato de "Kevin Marques" com a pergunta "Esse aqui
+  - 500 mil mês - mantém?" e, em 08/08/2025, disse que entre os "pagamentos essenciais" faltava a Consult, reenviando
+  o contato. A imprensa associa o contato ao advogado Kevin de Carvalho Marques, filho do ministro Nunes Marques.
+  As próprias reportagens ressalvam que as mensagens não comprovam pagamento de R$ 500 mil mensais; o Coaf registrou
+  R$ 281,6 mil da Consult ao advogado. O material integral do celular segue sob sigilo no STF.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-mensagem-renno-500-mil-mes-contato-kevin-marques
+- ev-mensagem-renno-consult-pagamentos-essenciais
+source_ids:
+- src-metropoles-2026-09-15-celular-vorcaro-500-mil-filho-nunes-marques
+- src-timesbrasil-2026-09-15-mensagens-vorcaro-citam-filho-nunes-marques
+document_ids: []
+public_act_ids: []
+cited_position:
+- kind: denial
+  by_id: kevin-de-carvalho-marques
+  date: '2026-09-15'
+  summary: Kevin Marques não prestou serviços ao Banco Master nem recebeu dinheiro de Vorcaro; recebeu R$ 281,6
+    mil da Consult por serviços jurídicos na área tributária administrativa.
+  source_ids:
+  - src-timesbrasil-2026-09-15-mensagens-vorcaro-citam-filho-nunes-marques
+- kind: denial
+  by_id: nunes-marques
+  date: '2026-09-15'
+  summary: O ministro afirmou que o filho nunca trabalhou para o Banco Master.
+  source_ids:
+  - src-metropoles-2026-09-15-celular-vorcaro-500-mil-filho-nunes-marques
+- kind: not_located
+  by_id: luiz-renno-netto
+  summary: Nenhuma manifestação de Luiz Rennó sobre as mensagens foi localizada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

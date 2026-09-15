@@ -1,0 +1,23 @@
+id: src-minhareceita-mmsm-patrimonial-cnpj
+kind: source
+title: Cadastro Nacional da Pessoa Jurídica — MMSM PATRIMONIAL LTDA
+publisher: Receita Federal, via redistribuição do dump público de CNPJ
+publication_date: '2026'
+url: https://minhareceita.org/09379956000110
+source_type: official_government
+summary: 'Registro cadastral reproduzido do conjunto de dados abertos da Receita Federal: MMSM Patrimonial Ltda.,
+  aberta em 14/01/2008 em Salvador (BA), atividade de aluguel de imóveis próprios, situação ativa. O quadro societário
+  registra Guilherme Henrique Sodré Martins como sócio-administrador e Eduardo Mendonça Sodré Martins como sócio,
+  ambos desde 14/01/2008, além de duas outras sócias pessoas físicas da família, sem papel no caso e não nomeadas
+  aqui.'
+retrieved_at: '2026-09-15'
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

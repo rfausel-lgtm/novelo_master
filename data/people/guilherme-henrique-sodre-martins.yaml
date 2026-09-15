@@ -2,29 +2,41 @@ id: guilherme-henrique-sodre-martins
 kind: person
 name: Guilherme Henrique Sodré Martins
 category: businessperson
-role: Ex-marido da atual esposa de Jaques Wagner e pai do enteado do senador; alvo da 9ª fase da Compliance
-  Zero
+role: Pai do enteado de Jaques Wagner, apontado pela PF como pessoa de confiança do senador; alvo da 9ª fase da
+  Compliance Zero
 positions: []
-summary: Ex-marido de Fátima Mendonça, atual esposa de Jaques Wagner, e pai biológico de Eduardo Mendonça
-  Sodré Martins (enteado do senador, ligado à BN Financeira). Descrito pela PF como 'pessoa próxima e
-  de confiança' de Wagner, apelidado 'Guiga', suposto articulador entre o núcleo empresarial ligado ao
-  Banco Master, o círculo pessoal do parlamentar e o gabinete. Foi alvo de medidas da PF na 9ª fase da
-  Compliance Zero (junho de 2026). Não é parente consanguíneo de Jaques Wagner.
-why_in_novelo: É apontado pela PF como articulador de confiança entre o núcleo Master e o gabinete de
-  Jaques Wagner — apesar de não ter parentesco de sangue com o senador, é pai do enteado dele (Eduardo
-  Mendonça Sodré Martins), já central a outra frente do caso (BN Financeira/PKL One).
+summary: Ex-marido de Fátima Mendonça, atual esposa de Jaques Wagner, e pai de Eduardo Mendonça Sodré Martins, enteado
+  do senador; apresentado pela imprensa como publicitário. A representação da PF da 9ª fase o chama de "Tio Guiga"
+  e o descreve como operador e pessoa de confiança de Wagner. Segundo o documento, intermediou os primeiros contatos
+  de Wagner com Vorcaro em 19/06/2024; foi mencionado pelo diretor comercial do Master em "vou mandar então pra
+  tio guiga e Jaques"; recebeu de Augusto Lima, em dezembro de 2024, presentes enviados ao mesmo tempo ao senador;
+  e, depois da primeira fase da operação, tratou com o advogado Daniel Lopes Monteiro da cessão dos direitos sobre
+  o apartamento do Poème Horto, inclusive na mensagem "A altura do vão é 2,45m", que a PF lê como o valor do imóvel.
+  É sócio-administrador da MMSM Patrimonial, de que o filho é sócio. Segundo a imprensa, o Master patrocinou em
+  2022 o livro sobre o pai dele, e ele é coproprietário com Wagner, desde 2015, de um sítio em Andaraí (BA). Mendonça
+  negou-lhe viagem à Itália em setembro de 2026.
+why_in_novelo: É apontado pela PF como articulador de confiança entre o núcleo Master e o gabinete de Jaques Wagner
+  — apesar de não ter parentesco de sangue com o senador, é pai do enteado dele (Eduardo Mendonça Sodré Martins),
+  já central a outra frente do caso (BN Financeira/PKL One).
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
-- Não localizada manifestação pública dele sobre a alegação da PF de que seria articulador entre o núcleo
-  Master e o gabinete de Wagner.
-- '''Pessoa próxima e de confiança'' e ''articulador'' são caracterizações atribuídas à PF pela reportagem
-  consultada — o corpus não teve acesso ao documento primário da representação policial que as sustenta.'
+- Nenhuma manifestação pública dele sobre o mérito das imputações da PF foi localizada; a defesa só se manifestou
+  no pedido de viagem.
+- Não se sabe se a MMSM Patrimonial é a empresa grafada "MMSS" pela Época na compra do sítio de Andaraí, nem se
+  a fração de 24% ainda é dele.
+- A empresa de energia de que a MMSM é sócia, segundo a Folha, não foi identificada.
 source_ids:
 - src-metropoles-2026-guilherme-sodre-martins-melhor-amigo-wagner-9afase
+- src-pf-representacao-9a-fase-wagner-pdf
+- src-minhareceita-mmsm-patrimonial-cnpj
+- src-folha-acessa-2026-06-21-enteado-wagner-lastro-familiar
+- src-bahianoticias-2026-09-14-mendonca-nega-viagens-sodre
+- src-bahianoticias-2016-05-15-wagner-compra-sitio-chapada
+- src-poder360-2026-06-19-pf-wagner-intermediario-vorcaro-lula
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-06'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-06'
-updated_at: '2026-09-06'
+updated_at: '2026-09-15'

@@ -1,0 +1,19 @@
+kind: evidence
+id: ev-bc-indisponibilidade-bens-renno-e-augusto-lima
+classification: C
+proposition: Em 05/05/2026, conforme comunicado do Banco Central noticiado pela imprensa, foram declarados indisponíveis
+  os bens de Augusto Ferreira Lima e Luiz Rennó Netto, com base no art. 36 da Lei 6.024/1974, pela atuação como
+  administradores de fato do Banco Master nos doze meses anteriores ao regime de resolução, conforme comissão de
+  inquérito do Ato de Diretor 695/2026 e Parecer Jurídico 543/2026-BCB/PGBC.
+source_ids:
+- src-infomoney-2026-05-05-bc-indisponibilidade-lima-renno
+- src-sbtnews-2026-05-05-bc-congela-bens-ex-diretor-juridico
+excerpt: atuação como administradores de fato da instituição
+date: '2026-05-05'
+notes: O texto original do comunicado não foi localizado em bcb.gov.br nem no DOU; segundo o SBT, foi enviado às
+  instituições financeiras. A Augusto Lima, a defesa nega atuação no banco após maio de 2024.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

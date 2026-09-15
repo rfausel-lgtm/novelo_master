@@ -2,34 +2,38 @@ id: andre-kruschewsky-lima
 kind: person
 name: André Kruschewsky Lima
 category: executive
-role: Diretor jurídico do Banco Master (mar/2023–ago/2024), segundo reportagem
+role: Ex-diretor jurídico do Banco Master (mar/2023–ago/2024, segundo reportagem; a PF registra que foi diretor
+  jurídico)
 positions: []
-summary: Assina digitalmente, em 08/04/2024, o termo de credenciamento do Banco Master na Alagoas Previdência,
-  na condição de representante legal da instituição interessada no credenciamento, ao lado de Alberto
-  Felix de Oliveira Neto. O corpus não apurou seu cargo formal no banco. Segundo reportagem que afirma
-  ter obtido relatório da PF citado em decisão do ministro André Mendonça, exerceu o cargo de diretor
-  jurídico do Banco Master entre março de 2023 e agosto de 2024, e é situado no contexto da emenda nº
-  11 à PEC 65/2023, sobre ampliação da cobertura do FGC. A mesma reportagem atribui a ele a contratação
-  do escritório de seu primo, Eugênio de Souza Kruschewsky — atribuição não confirmada pela equipe em
-  documento primário.
-why_in_novelo: Um dos dois signatários, pelo banco, do termo de credenciamento cujo texto a auditoria
-  federal descreve como replicado em vários regimes próprios.
+summary: Assina digitalmente, em 08/04/2024, o termo de credenciamento do Banco Master na Alagoas Previdência, na
+  condição de representante legal da instituição interessada no credenciamento, ao lado de Alberto Felix de Oliveira
+  Neto. O corpus não apurou seu cargo formal no banco. Segundo reportagem que afirma ter obtido relatório da PF
+  citado em decisão do ministro André Mendonça, exerceu o cargo de diretor jurídico do Banco Master entre março
+  de 2023 e agosto de 2024, e é situado no contexto da emenda nº 11 à PEC 65/2023, sobre ampliação da cobertura
+  do FGC. A mesma reportagem atribui a ele a contratação do escritório de seu primo, Eugênio de Souza Kruschewsky
+  — atribuição não confirmada pela equipe em documento primário. A representação da PF da 9ª fase registra que ele
+  "foi diretor jurídico do BANCO MASTER" e que, em 21/11/2025, três dias após a primeira fase da Compliance Zero,
+  falou com o advogado Daniel Lopes Monteiro e em seguida lhe enviou o telefone de Guilherme Sodré, nas tratativas
+  sobre o apartamento do Poème Horto.
+why_in_novelo: Um dos dois signatários, pelo banco, do termo de credenciamento cujo texto a auditoria federal descreve
+  como replicado em vários regimes próprios.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública dele foi localizada pela equipe.
   source_ids:
   - src-alagoasprevidencia-termo-credenciamento-033-2024
 open_questions:
-- O cargo de diretor jurídico é atribuição de reportagem que cita relatório da PF; a equipe não leu o
-  documento primário.
-- A relação de parentesco com Eugênio de Souza Kruschewsky e a atribuição a ele da contratação do escritório
-  do primo não foram confirmadas em documento primário.
+- A relação de parentesco com Eugênio de Souza Kruschewsky e a atribuição a ele da contratação do escritório do
+  primo não foram confirmadas em documento primário.
+- O cargo de diretor jurídico está registrado na representação da PF da 9ª fase (p. 23), sem período; o intervalo
+  mar/2023–ago/2024 vem de reportagem.
 source_ids:
 - src-alagoasprevidencia-termo-credenciamento-033-2024
 - src-bnews-2026-05-07-kruschewsky-emenda-fgc
 - src-bahianoticias-2026-04-11-gabino-kruschewsky-pf
+- src-pf-representacao-9a-fase-wagner-pdf
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-04'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-04'
-updated_at: '2026-09-04'
+updated_at: '2026-09-15'

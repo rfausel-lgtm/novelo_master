@@ -2,34 +2,45 @@ id: luiz-renno-netto
 kind: person
 name: Luiz Rennó Netto
 category: lawyer
-role: Advogado de confiança de Daniel Vorcaro, atuando em gestão de imprensa e engenharia jurídica de
-  operações do Rioprevidência
-summary: 'Advogado trabalhista, descrito no documento comprobatório da PF (Pet 15.497) como homem de
-  confiança de Vorcaro em negociações importantes ("vasta experiência... no âmbito do setor bancário").
-  Referido nas conversas internas de Vorcaro apenas como "neto". Em 12/12/2024, enviou a Vorcaro um parecer
-  do Ministério Público de Contas do TCE-RJ favorável à legalidade dos aportes do Rioprevidência no Master
-  ("cumpriu todos os critérios legais necessários"), e articulou diretamente com um repórter a pauta de
-  divulgação dessa notícia favorável — mas aconselhou o próprio Vorcaro a não aparecer pessoalmente ("não
-  tem que aparecer nisso"), para não desgastar sua imagem; a divulgação foi calculada para não coincidir com
-  uma captação de recursos em andamento ("Nao podemos deixar sair essa noticia agora"). Em 02/10/2025, sugeriu
-  trocar Letras Financeiras do Rioprevidência por "direitos creditórios" para "diminuir descobertos". Em
-  28/10/2025, estruturou um fundo para alocar os ativos do Rioprevidência com cessão de cotas, e disse a
-  Vorcaro "Faremos o mesmo em Maceió" — ligação direta com o esquema do Iprev de Maceió, já documentado no
-  acervo.'
-why_in_novelo: É o operador da frente de "engenharia jurídica e contenção de danos" (gestão de imprensa e
-  estruturação de veículos financeiros) nas operações do Rioprevidência, com ligação direta e literal ao
-  esquema paralelo do Iprev de Maceió.
+role: Advogado; tratado pelo Banco Central como administrador de fato do Banco Master e identificado pela imprensa
+  como ex-diretor jurídico do banco
+summary: Advogado trabalhista, descrito no documento comprobatório da PF (Pet 15.497) como homem de confiança de
+  Vorcaro em negociações importantes ("vasta experiência... no âmbito do setor bancário"). Referido nas conversas
+  internas de Vorcaro apenas como "neto". Em 12/12/2024, enviou a Vorcaro um parecer do Ministério Público de Contas
+  do TCE-RJ favorável à legalidade dos aportes do Rioprevidência no Master ("cumpriu todos os critérios legais necessários"),
+  e articulou diretamente com um repórter a pauta de divulgação dessa notícia favorável — mas aconselhou o próprio
+  Vorcaro a não aparecer pessoalmente ("não tem que aparecer nisso"), para não desgastar sua imagem; a divulgação
+  foi calculada para não coincidir com uma captação de recursos em andamento ("Nao podemos deixar sair essa noticia
+  agora"). Em 02/10/2025, sugeriu trocar Letras Financeiras do Rioprevidência por "direitos creditórios" para "diminuir
+  descobertos". Em 28/10/2025, estruturou um fundo para alocar os ativos do Rioprevidência com cessão de cotas,
+  e disse a Vorcaro "Faremos o mesmo em Maceió" — ligação direta com o esquema do Iprev de Maceió, já documentado
+  no acervo. Em 05/05/2026, segundo comunicado do Banco Central noticiado pela imprensa, teve os bens declarados
+  indisponíveis, com Augusto Lima, como administrador de fato do Master nos doze meses anteriores à liquidação.
+  Em 15/09/2026, Metrópoles e Folha publicaram mensagens do celular de Vorcaro em que ele encaminha o contato de
+  "Kevin Marques" com "500 mil mês - mantém?" (04/07/2025) e cita a Consult entre "pagamentos essenciais" (08/08/2025).
+why_in_novelo: É o operador da frente de "engenharia jurídica e contenção de danos" (gestão de imprensa e estruturação
+  de veículos financeiros) nas operações do Rioprevidência, com ligação direta e literal ao esquema paralelo do
+  Iprev de Maceió.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública dele localizada até a data desta apuração.
 open_questions:
-- Não está claro se a frase "Faremos o mesmo em Maceió" (28/10/2025) se refere apenas à estruturação de um
-  fundo para receber os ativos, ou a um plano mais amplo replicando o padrão RioPrevidência — Vorcaro não
-  respondeu ao comentário, segundo o documento lido.
+- Não está claro se a frase "Faremos o mesmo em Maceió" (28/10/2025) se refere apenas à estruturação de um fundo
+  para receber os ativos, ou a um plano mais amplo replicando o padrão RioPrevidência — Vorcaro não respondeu ao
+  comentário, segundo o documento lido.
+- 'Cargo formal no banco: a imprensa o chama de ex-diretor jurídico, o BC o trata como administrador de fato, e
+  a PF atribui a diretoria jurídica a André Kruschewsky Lima, que a teria exercido até agosto de 2024. Período e
+  registro estatutário não localizados.'
+- 'O que o "500 mil mês" designa: não há documento que ligue o valor à Consult ou ao contato identificado pela imprensa
+  como Kevin Marques.'
 source_ids:
 - src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+- src-infomoney-2026-05-05-bc-indisponibilidade-lima-renno
+- src-sbtnews-2026-05-05-bc-congela-bens-ex-diretor-juridico
+- src-metropoles-2026-09-15-celular-vorcaro-500-mil-filho-nunes-marques
+- src-timesbrasil-2026-09-15-mensagens-vorcaro-citam-filho-nunes-marques
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-13'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-13'
-updated_at: '2026-09-13'
+updated_at: '2026-09-15'

@@ -1,0 +1,22 @@
+kind: evidence
+id: ev-mensagem-renno-500-mil-mes-contato-kevin-marques
+classification: A
+proposition: Segundo prints publicados pelo Metrópoles e mensagens reveladas pela Folha de S.Paulo, extraídos do
+  celular de Daniel Vorcaro, em 04/07/2025 Luiz Rennó encaminhou a Vorcaro o contato de "Kevin Marques" com a pergunta
+  "Esse aqui - 500 mil mês - mantém?", e em seguida "Então esse aqui já era né"; Vorcaro respondeu com risos. A
+  imprensa associa o contato ao advogado Kevin de Carvalho Marques, filho do ministro Nunes Marques; as mensagens
+  não comprovam pagamento.
+source_ids:
+- src-metropoles-2026-09-15-celular-vorcaro-500-mil-filho-nunes-marques
+- src-timesbrasil-2026-09-15-mensagens-vorcaro-citam-filho-nunes-marques
+attributed_to: Metrópoles e Folha de S.Paulo, a partir de material extraído do celular de Daniel Vorcaro
+excerpt: Esse aqui - 500 mil mês - mantém?
+date: '2025-07-04'
+notes: 'O material integral do celular foi entregue pela PF aos gabinetes do STF em 14/09/2026 e, segundo o Poder360,
+  segue sob sigilo: a publicação não decorre de levantamento de sigilo. A identidade do contato com o filho do ministro
+  é associação da imprensa, sem documento que a comprove; o número de telefone do print não é reproduzido.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

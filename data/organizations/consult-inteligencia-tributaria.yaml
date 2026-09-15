@@ -4,18 +4,18 @@ name: Consult Inteligência Tributária
 aliases:
 - Consulte Inteligência Tributária
 org_type: company
-summary: Consultoria aberta em 2022 por Francisco Craveiro de Carvalho Junior, com endereços em Barueri
-  (SP), Brasília e Teresina, segundo a imprensa. Relatório do Coaf noticiado pelo Estadão aponta R$ 6,6
-  milhões recebidos do Banco Master (14 operações, out/2024–jul/2025) e R$ 11,3 milhões da JBS, contra
-  faturamento declarado de R$ 25,5 mil, e 11 transferências (R$ 281,6 mil) ao escritório de Kevin de Carvalho
-  Marques. A empresa diz ter prestado auditoria e consultoria tributária e serviços de sistemas.
-why_in_novelo: Recebeu pagamentos do Banco Master e repassou valores ao escritório do filho de um ministro
-  do STF, segundo relatório do Coaf noticiado pela imprensa.
+summary: Consultoria aberta em 2022 por Francisco Craveiro de Carvalho Junior, com endereços em Barueri (SP), Brasília
+  e Teresina, segundo a imprensa. Relatório do Coaf noticiado pelo Estadão aponta R$ 6,6 milhões recebidos do Banco
+  Master (14 operações, out/2024–jul/2025) e R$ 11,3 milhões da JBS, contra faturamento declarado de R$ 25,5 mil,
+  e 11 transferências (R$ 281,6 mil) ao escritório de Kevin de Carvalho Marques. A empresa diz ter prestado auditoria
+  e consultoria tributária e serviços de sistemas.
+why_in_novelo: Recebeu pagamentos do Banco Master e repassou valores ao escritório do filho de um ministro do STF,
+  segundo relatório do Coaf noticiado pela imprensa.
 cited_position:
 - kind: clarification
-  summary: Afirmou ter prestado 'serviços de auditoria e consultoria tributária, bem como de desenvolvimento
-    e implantação de sistemas' aos grupos, e que contratou o advogado para 'prestação de serviços técnicos
-    e de assessoria jurídica' entre 2024 e 2025, com pagamentos mensais de cerca de R$ 25 mil.
+  summary: Afirmou ter prestado 'serviços de auditoria e consultoria tributária, bem como de desenvolvimento e implantação
+    de sistemas' aos grupos, e que contratou o advogado para 'prestação de serviços técnicos e de assessoria jurídica'
+    entre 2024 e 2025, com pagamentos mensais de cerca de R$ 25 mil.
   source_ids:
   - src-oantagonista-2026-03-19-repasses-consult
   - src-brasil247-2026-03-24-consult-coaf
@@ -24,13 +24,18 @@ cited_position:
 open_questions:
 - O relatório do Coaf e os contratos não foram lidos pela equipe.
 - A natureza dos serviços prestados ao Master não foi detalhada pelo banco, que não se manifestou.
+- 'Período dos pagamentos do Master: o acervo registra outubro de 2024 a julho de 2025; o Estado de Minas fala em
+  pagamentos iniciados em 1º de agosto de 2024.'
+- Segundo o Estado de Minas, a Consult dividiu sala e e-mail com o IPGT, empresa de Kevin Marques e do filho do
+  dono da Consult; a Consult nega relação societária e fala em compartilhamento temporário.
 source_ids:
 - src-oantagonista-2026-03-19-repasses-consult
 - src-gazeta-2026-03-20-master-jbs-consult
 - src-band-2026-03-20-consult-filho-nunes-marques
 - src-brasil247-2026-03-24-consult-coaf
+- src-em-2026-03-20-ipgt-kevin-marques-consult
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-15'

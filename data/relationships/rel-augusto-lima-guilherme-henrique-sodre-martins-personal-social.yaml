@@ -1,0 +1,26 @@
+kind: relationship
+event_ids: []
+evidence_ids:
+- ev-pf-presentes-augusto-lima-a-wagner-e-tio-guiga
+source_ids:
+- src-pf-representacao-9a-fase-wagner-pdf
+document_ids:
+- doc-2026-07-31-representacao-pf-9a-fase-wagner
+id: rel-augusto-lima-guilherme-henrique-sodre-martins-personal-social
+from_id: augusto-lima
+to_id: guilherme-henrique-sodre-martins
+relationship_type: personal_social
+directed: true
+label: 'presentes de fim de ano "Para: Tio Guiga" (segundo a PF)'
+start_date: '2024-12-23'
+description: 'Segundo a representação da PF da 9ª fase, Augusto Lima enviou em dezembro de 2024 presentes, incluindo
+  vinhos, simultaneamente ao senador Jaques Wagner e a Guilherme Sodré, com bilhetes "De: Guga" "Para: Tio Guiga".
+  Leitura da PF sobre foto extraída do celular; não há decisão de mérito.'
+evidence_class: D
+confidence: 0.75
+status: unverified
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

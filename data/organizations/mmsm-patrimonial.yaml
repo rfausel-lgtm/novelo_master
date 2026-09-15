@@ -1,0 +1,26 @@
+id: mmsm-patrimonial
+kind: organization
+name: MMSM Patrimonial
+full_name: MMSM Patrimonial Ltda.
+org_type: company
+jurisdiction: Salvador (BA)
+summary: Empresa patrimonial aberta em 14/01/2008 em Salvador, com atividade de aluguel de imóveis próprios. Tem
+  Guilherme Henrique Sodré Martins como sócio-administrador e o filho dele, Eduardo Mendonça Sodré Martins, enteado
+  do senador Jaques Wagner, como sócio desde a constituição. Segundo a Folha, é sócia de uma empresa do setor de
+  energia, não identificada pela equipe.
+why_in_novelo: É o vínculo societário formal entre Guilherme Sodré e Eduardo Sodré, os dois apontados pela PF na
+  frente Jaques Wagner.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação da empresa localizada.
+open_questions:
+- Qual é a empresa do setor de energia de que a MMSM é sócia, segundo a Folha?
+- É a empresa grafada "MMSS" na reportagem da Época de 2016 sobre o sítio de Andaraí?
+source_ids:
+- src-minhareceita-mmsm-patrimonial-cnpj
+- src-folha-acessa-2026-06-21-enteado-wagner-lastro-familiar
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,24 @@
+kind: relationship
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-minhareceita-mmsm-patrimonial-cnpj
+- src-folha-acessa-2026-06-21-enteado-wagner-lastro-familiar
+document_ids: []
+id: rel-eduardo-mendonca-sodre-martins-mmsm-patrimonial-corporate
+from_id: eduardo-mendonca-sodre-martins
+to_id: mmsm-patrimonial
+relationship_type: corporate
+directed: true
+label: sócio desde 2008
+start_date: '2008-01-14'
+description: Eduardo Mendonça Sodré Martins é sócio da MMSM Patrimonial desde 14/01/2008, conforme dados abertos
+  da Receita Federal; a Folha registra que pai e filho são sócios de uma patrimonial.
+evidence_class: A
+confidence: 0.85
+status: unverified
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

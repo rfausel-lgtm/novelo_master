@@ -4,41 +4,54 @@ name: Kevin de Carvalho Marques
 category: lawyer
 role: Advogado; filho do ministro Nunes Marques
 positions: []
-summary: Advogado, filho do ministro do STF Nunes Marques. Segundo relatório do Coaf noticiado pelo Estadão
-  e outros veículos, seu escritório recebeu R$ 281,6 mil em 11 transferências (2024-2025) da Consult Inteligência
-  Tributária, consultoria que recebeu R$ 6,6 milhões do Banco Master e R$ 11,3 milhões da JBS. Afirmou
-  que os valores são lícitos, decorrentes de assessoria jurídica 'voltada ao fisco administrativo', e
-  que nunca atuou em caso no STF.
-why_in_novelo: Seu escritório recebeu pagamentos de consultoria contratada pelo Banco Master, segundo
-  relatório do Coaf noticiado pela imprensa; sua posição está registrada.
+summary: Advogado, filho do ministro do STF Nunes Marques. Segundo relatório do Coaf noticiado pelo Estadão e outros
+  veículos, seu escritório recebeu R$ 281,6 mil em 11 transferências (2024-2025) da Consult Inteligência Tributária,
+  consultoria que recebeu R$ 6,6 milhões do Banco Master e R$ 11,3 milhões da JBS. Afirmou que os valores são lícitos,
+  decorrentes de assessoria jurídica 'voltada ao fisco administrativo', e que nunca atuou em caso no STF. Segundo
+  o Estado de Minas, é sócio com 70% do Instituto de Pesquisa e Gestão Tributária (IPGT), em sociedade com o filho
+  do dono da Consult. Em 15/09/2026, Metrópoles e Folha publicaram mensagens do celular de Vorcaro em que Luiz Rennó
+  encaminha um contato "Kevin Marques" com "500 mil mês - mantém?"; ele nega ter prestado serviço ao Master ou recebido
+  de Vorcaro.
+why_in_novelo: Seu escritório recebeu pagamentos de consultoria contratada pelo Banco Master, segundo relatório
+  do Coaf noticiado pela imprensa; sua posição está registrada.
 cited_position:
 - kind: clarification
   summary: Os valores recebidos são lícitos e decorrem de atuação profissional 'voltada ao fisco administrativo'
-    (assessoria por 11 meses); o escritório 'nunca defendeu nenhum caso' no STF; criticou 'tentativas
-    de criminalização da advocacia'.
+    (assessoria por 11 meses); o escritório 'nunca defendeu nenhum caso' no STF; criticou 'tentativas de criminalização
+    da advocacia'.
   source_ids:
   - src-gazeta-2026-03-20-master-jbs-consult
   - src-band-2026-03-20-consult-filho-nunes-marques
   - src-brasil247-2026-03-24-consult-coaf
   by_id: kevin-de-carvalho-marques
   date: '2026-03-20'
+- kind: denial
+  by_id: kevin-de-carvalho-marques
+  date: '2026-09-15'
+  summary: Não prestou serviços ao Banco Master nem recebeu dinheiro de Vorcaro; recebeu R$ 281,6 mil da Consult
+    por serviços jurídicos na área tributária administrativa.
+  source_ids:
+  - src-timesbrasil-2026-09-15-mensagens-vorcaro-citam-filho-nunes-marques
 open_questions:
 - O relatório do Coaf não foi lido pela equipe; os valores vêm de reportagens do Estadão e da Folha reproduzidas
   por outros veículos.
 - O corpus não registra o objeto dos serviços prestados nem os contratos.
-- Não há retrato próprio com licença livre; a interface mantém avatar neutro para não confundi-lo com
-  o pai.
+- Não há retrato próprio com licença livre; a interface mantém avatar neutro para não confundi-lo com o pai.
+- A associação entre o contato "Kevin Marques" das mensagens de Rennó e o advogado é feita pela imprensa, sem documento.
 source_ids:
 - src-gazeta-2026-03-20-master-jbs-consult
 - src-band-2026-03-20-consult-filho-nunes-marques
 - src-oantagonista-2026-03-19-repasses-consult
 - src-brasil247-2026-03-24-consult-coaf
+- src-em-2026-03-20-ipgt-kevin-marques-consult
+- src-timesbrasil-2026-09-15-mensagens-vorcaro-citam-filho-nunes-marques
+- src-metropoles-2026-09-15-celular-vorcaro-500-mil-filho-nunes-marques
 aliases:
 - Kevin Nunes Marques
 distinct_from:
 - nunes-marques
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-15'
