@@ -1,0 +1,25 @@
+id: src-ofator-2025-11-27-cvm-care11-rpps-minas
+kind: source
+title: 'CVM condena negociação com informação privilegiada em fundo investigado por investimento de prefeituras de MG'
+publisher: O Fator
+publication_date: '2025-11-27'
+retrieved_at: '2026-09-15'
+url: https://ofator.com.br/informacao/cvm-condena-negociacao-com-informacao-privilegiada-em-fundo-investigado-por-investimento-de-prefeituras-de-mg/
+source_type: press
+summary: 'Cobertura do julgamento da CVM de 25/11/2025 sobre o CARE11, com os valores das multas aos irmãos
+  Schumann e a absolvição da Cortel. Registra que o Ministério Público de Contas de Minas Gerais apura se os
+  regimes próprios de previdência de Extrema, Guanhães, Paraguaçu, São João del-Rei e Três Pontas aplicaram
+  recursos de forma temerária no fundo, que teria perdido 78% do valor de mercado desde o lançamento sem
+  distribuir rendimentos. Não menciona Banco Master, Vorcaro ou Vicente Conte Neto.'
+notes: Lido por esta sessão via WebFetch direto. Fonte única para a apuração do MPC-MG; valores e datas dos
+  aportes não informados.
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (via WebFetch direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

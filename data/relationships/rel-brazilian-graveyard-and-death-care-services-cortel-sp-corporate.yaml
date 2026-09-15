@@ -1,0 +1,29 @@
+id: rel-brazilian-graveyard-and-death-care-services-cortel-sp-corporate
+kind: relationship
+from_id: brazilian-graveyard-and-death-care-services
+to_id: cortel-sp
+relationship_type: corporate
+directed: true
+label: acionista (20% do capital)
+start_date: '2022'
+description: O fundo CARE11 detinha 20% do capital da Cortel, o equivalente a 54% do patrimônio do fundo, segundo
+  a síntese das defesas no processo sancionador da CVM julgado em 25/11/2025; a mesma participação de 20% é
+  citada pelo O Bastidor, em reportagem transcrita na decisão da ADPF 1.196. Em 2022 a própria Cortel comprou
+  cotas do fundo, com a meta de chegar a 25% delas.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids: []
+evidence_ids:
+- ev-cvm-condena-schumann-e-absolve-cortel-care11
+- ev-adpf1196-cita-vicente-conte-neto-cortel-zion
+source_ids:
+- src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+document_ids:
+- doc-2025-11-25-voto-cvm-pas-cortel-schumann
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

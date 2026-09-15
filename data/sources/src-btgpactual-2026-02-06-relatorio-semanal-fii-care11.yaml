@@ -1,0 +1,27 @@
+id: src-btgpactual-2026-02-06-relatorio-semanal-fii-care11
+kind: source
+title: 'Relatório Semanal — Fundos de Investimento Imobiliário (06/02/2026)'
+publisher: BTG Pactual Equity Research
+publication_date: '2026-02-06'
+retrieved_at: '2026-09-15'
+url: https://content.btgpactual.com/research/files/file/pt-BR/2026-02-09T111342.568_BTG_Relat_rio_Semanal_06FEV26.pdf
+source_type: other
+summary: 'Resumo de comunicados de FIIs. Registra que, em Fato Relevante de 06/02/2026, o CARE11 anunciou que "a
+  Mérito DTVM assumiu os serviços de administração fiduciária do fundo em substituição à Master CCTVM"; e que, em
+  assembleia geral extraordinária de 04/02/2026, os cotistas aprovaram a substituição da administradora pela
+  Mérito, o agrupamento de cotas na proporção de 5 para 1 e a alteração do regulamento para permitir recompra de
+  cotas ou oferta pública de aquisição.'
+notes: 'Lido por esta sessão (texto extraído do PDF). Fonte independente que confirma a sucessão do administrador
+  levantada por pesquisa delegada a partir do Fato Relevante, cujo texto original não pôde ser aberto (o agregador
+  bloqueia leitura automatizada). Contraria a informação da Revista Oeste de que o fundo seria administrado pela
+  Planner Trustee.'
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (leitura direta do PDF)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

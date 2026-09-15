@@ -9,9 +9,13 @@ não têm fonte ficam fora deste arquivo, que é público.
 
 - 276 pessoas, 191 organizações, 244 eventos, 542 relações, 1.320 evidências, 1.243 fontes, 853 perguntas
   abertas.
-- Relações por classe: A 212, D 177, C 150, I 3. O centro é o ponto mais frágil: Daniel Vorcaro tem 75
-  relações, 55 delas classe A. Várias peças lidas depois (Pet 15.556, Pet 15.497, RIF 140515, ADPF 1.196)
-  ainda não foram usadas para rever essas alegações.
+- Relações por classe: A 212, D 177, C 150, I 3. Daniel Vorcaro tem 75 relações, 55 delas classe A.
+  **Correção de diagnóstico (auditoria feita no mesmo dia):** isso não é, em regra, fragilidade. Das 57
+  relações A que o envolvem, 19 já têm evidência D ligada, mas 17 dessas são alegações investigativas — o
+  documento registra o que a PF afirma, não prova o fato, e o lint trata D em alegação como erro de
+  classificação. Promover seria o erro. A fila real de auditoria são as relações A **sem nenhuma evidência**
+  ligada (6) e as sustentadas só por evidência A (27), para conferir se a fonte existe e diz o que o rótulo
+  afirma.
 - 45 pessoas e organizações sem nenhuma relação. **Correção de medição:** 36 delas aparecem no grafo por
   participação em eventos (o build desenha essas arestas); só 9 estavam de fato soltas.
 - 1.203 pares em que um verbete cita outra entidade pelo nome sem que haja relação entre as duas — fila
@@ -23,10 +27,12 @@ não têm fonte ficam fora deste arquivo, que é público.
 ## 2. Linhas de investigação, por prioridade
 
 1. **Consolidação do que já foi lido.** Iniciada no lote 318 (irmãos Conte; Ricardo Siqueira; ITER; Nabas;
-   holdings controladoras). Próximo passo: revisar as relações classe A de Vorcaro contra os documentos
-   primários já no acervo, promovendo só quando a peça sustentar a proposição inteira.
+   holdings controladoras). Próximo passo: auditar as relações A de Vorcaro sem evidência ligada, conferindo
+   fonte e rótulo; alegações investigativas ficam em A ou C mesmo com documento, porque o documento registra a
+   alegação, não o fato.
 2. **Setor de cemitérios ("mercado da morte").** Cadeia hoje documentada: fundo CARE11 / Brazilian Graveyard
-   (administrado pela Trustee DTVM, gerido pela Zion, Master cotista) → 20% da Cortel → Fabiano Zettel
+   (administrado pela Master CCTVM até 04/02/2026, depois Mérito DTVM; gerido pela Zion; Master cotista segundo a
+   imprensa) → 20% da Cortel → Fabiano Zettel
    conselheiro com e-mail do Master → cautelar de preços funerários → voto de Mendonça. Gatilhos com prazo
    contado de 15/09/2026: Prefeitura de SP e SP Regula (10 dias), CVM (15 dias), cópia do Inquérito Civil
    0695.0000483/2025 do MP-SP. Faltam: histórico da VHR Empreendimentos (cemitério de Sabará) e da

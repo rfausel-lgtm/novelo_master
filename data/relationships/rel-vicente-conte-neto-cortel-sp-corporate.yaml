@@ -4,22 +4,27 @@ from_id: vicente-conte-neto
 to_id: cortel-sp
 relationship_type: corporate
 directed: true
-label: conselheiro (segundo reportagem transcrita pelo STF)
-description: Segundo reportagem do O Bastidor transcrita na decisão do Min. Flávio Dino na ADPF 1.196,
-  Vicente Conte Neto é conselheiro da Cortel, diretor da Zion Capital e um dos fundadores do fundo Brazilian
-  Graveyard and Death Care Services, que detém 20% das ações da Cortel. Fonte única; sem registro societário
-  lido pela equipe.
-evidence_class: A
-confidence: 0.6
+label: conselheiro (imprensa e processo da CVM)
+start_date: '2022'
+description: 'Segundo reportagem do O Bastidor transcrita na decisão do Min. Flávio Dino na ADPF 1.196, Vicente
+  Conte Neto é conselheiro da Cortel, diretor da Zion Capital e um dos fundadores do fundo Brazilian Graveyard.
+  O voto da CVM de 25/11/2025 confirma que, em 2022, um conselheiro da Cortel identificado pelas iniciais V.C.N.
+  acompanhou a compra de cotas do fundo, e a síntese das defesas registra que a Zion Capital, acionista relevante
+  da Cortel, indicara V.C.N. ao conselho. A CVM usa só iniciais; a correspondência com o nome vem da imprensa.'
+evidence_class: C
+confidence: 0.75
 status: unverified
 event_ids:
 - evt-2026-09-15-dino-decisao-adpf1196-converte-diligencia
 evidence_ids:
 - ev-adpf1196-cita-vicente-conte-neto-cortel-zion
+- ev-cvm-condena-schumann-e-absolve-cortel-care11
 source_ids:
 - src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+- src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann
 document_ids:
 - doc-2026-09-15-decisao-dino-adpf1196-zettel-cortel-mendonca
+- doc-2025-11-25-voto-cvm-pas-cortel-schumann
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'

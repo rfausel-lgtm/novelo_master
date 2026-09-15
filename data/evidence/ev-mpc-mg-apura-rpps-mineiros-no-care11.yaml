@@ -1,0 +1,19 @@
+id: ev-mpc-mg-apura-rpps-mineiros-no-care11
+kind: evidence
+classification: A
+proposition: 'Segundo O Fator (27/11/2025), o Ministério Público de Contas de Minas Gerais apura se os regimes
+  próprios de previdência dos municípios de Extrema, Guanhães, Paraguaçu, São João del-Rei e Três Pontas
+  aplicaram recursos de forma temerária no fundo CARE11, que teria perdido 78% do valor de mercado desde o
+  lançamento sem distribuir rendimentos aos cotistas.'
+document_ids: []
+source_ids:
+- src-ofator-2025-11-27-cvm-care11-rpps-minas
+attributed_to: O Fator, reportagem de 27/11/2025
+date: '2025-11-27'
+notes: Fonte única. Não há, no acervo, documento do MPC-MG ou do TCE-MG, nem valores ou datas dos aportes. A
+  reportagem não liga essas aplicações ao Banco Master — o elo com o Master passa pelo fundo, não pelos RPPS.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

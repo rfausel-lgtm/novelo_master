@@ -11,11 +11,14 @@ summary: 'Concessionária de serviços funerários e cemiteriais do Município d
   Vorcaro) integrou seu conselho até deixar o cargo em outubro/2025, tendo assinado, segundo apuração
   citada pelo Min. Flávio Dino na ADPF 1.196, cinco atas entre 2022 e 2025 usando e-mails institucionais
   do Banco Master e do Banco Máxima. A empresa nega vínculo financeiro ou societário com o banco ou com o
-  signatário. O fundo imobiliário Brazilian Graveyard and Death Care Services detém 20% de suas ações; em
-  2022 a CVM multou os irmãos Roberto e Márcio Schumann por uso de informação privilegiada em compras
-  agressivas de cotas desse fundo, feitas pela Cortel Holding sob ordens de Roberto Schumann — a defesa
-  deles atribuiu as ordens a Vicente Conte Neto, conselheiro da Cortel e cofundador do Brazilian Graveyard,
-  e destacou a proximidade dele com Vorcaro.'
+  signatário. O fundo imobiliário Brazilian Graveyard and Death Care Services (CARE11) detém 20% de suas
+  ações. Entre março e maio de 2022 a Cortel Holding comprou cotas desse fundo; em 25/11/2025 a CVM absolveu
+  a empresa da acusação de manipulação de preços e condenou o então diretor financeiro, Roberto Schumann, e o
+  irmão dele, Marcio, por prática não equitativa — negociação própria com conhecimento das compras da
+  Cortel (CORRIGIDO no lote 320: o texto anterior falava em "multa em 2022" por informação privilegiada). A
+  defesa dos Schumann atribuiu as ordens a Vicente Conte Neto, conselheiro da Cortel indicado pela Zion
+  Capital, e destacou a proximidade dele com Vorcaro; a Cortel sustentou ter sido vítima do diretor, demitido
+  por justa causa.'
 why_in_novelo: Concessionária apontada pelo STF (ADPF 1.196) como o ponto de convergência entre Fabiano
   Zettel/Banco Master, a cautelar de preços funerários de SP e o voto de André Mendonça contra essa
   cautelar um dia após receber Daniel Vorcaro — objeto de apuração pela Prefeitura de SP, MP-SP e CVM por
@@ -31,12 +34,13 @@ cited_position:
 open_questions:
 - Resultado das diligências determinadas pelo Min. Dino em 15/09/2026 (Prefeitura/SP Regula, MP-SP,
   CVM) ainda não localizado — a decisão fixou prazos de 10 e 15 dias.
-- Identidade completa e papel atual de Vicente Conte Neto (conselheiro da Cortel, diretor da Zion
-  Capital, cofundador do Brazilian Graveyard) na relação com o grupo Vorcaro não apurados em profundidade
-  por esta equipe.
+- 'Papel atual de Vicente Conte Neto na Cortel e na relação com o grupo Vorcaro: identidade e vínculos
+  segundo a imprensa registrados no lote 318; o voto da CVM confirma um conselheiro de iniciais V.C.N. em 2022.
+  Nenhum registro societário da Cortel foi lido.'
 source_ids:
 - src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
 - src-poder360-2026-04-07-dino-questiona-zettel-cortel
+- src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'

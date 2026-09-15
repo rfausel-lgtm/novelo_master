@@ -7,10 +7,9 @@ directed: false
 label: controlador
 description: 'Maurício Quadrado é o controlador da Trustee DTVM — razão social completa "Planner Trustee
   Distribuidora de Títulos e Valores Mobiliários Ltda." (CNPJ 67.030.395/0001-46), herdada da área de
-  custódia que ele levou consigo ao sair da corretora Planner em 2020. NOVO (15/09/2026): sob essa
-  identidade, a empresa administra o fundo CARE11 (citado na decisão do Min. Dino na ADPF 1.196, lote
-  313) desde antes de 2022 — ponto de contato adicional dele com o "mercado da morte" do grupo Vorcaro,
-  anterior à compra do Banco Máxima.'
+  custódia que ele levou consigo ao sair da corretora Planner em 2020. CORRIGIDO (lote 320): o lote 315
+  afirmou que a empresa administrava o fundo CARE11; documento do fundo aponta a Master S.A. CCTVM como
+  administradora até 04/02/2026 e a Mérito DTVM depois, e a afirmação foi retirada.'
 evidence_class: A
 confidence: 0.85
 status: unverified

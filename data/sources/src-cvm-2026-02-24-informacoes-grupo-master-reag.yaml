@@ -1,0 +1,26 @@
+id: src-cvm-2026-02-24-informacoes-grupo-master-reag
+kind: source
+title: 'Informações relativas a Grupo Master, REAG e outras entidades conexas'
+publisher: Comissão de Valores Mobiliários
+publication_date: '2026-02-24'
+retrieved_at: '2026-09-15'
+url: https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/informacoes-relativas-a-grupo-master-reag-e-outras-entidades-conexas
+source_type: official_regulator
+summary: 'Página oficial da CVM que lista processos envolvendo entidades do Grupo Master. Registra o Processo
+  Administrativo Sancionador 19957.006441/2021-87, sobre "possível manipulação de mercado pelo Banco Maxima S.A.
+  (antiga denominação do atual Banco Master S.A.) com o ativo CARE11", encerrado após aceitação de termo de
+  compromisso pelo Colegiado em 16/11/2022; e, separadamente, o Processo 19957.010180/2022-81, sobre possível
+  manipulação com cotas do Brazil Realty FII (BZLI11) pelo Banco Master.'
+notes: Lida por esta sessão via WebFetch direto. Precisa dois pontos do acervo — o termo foi aceito pelo
+  Colegiado em 16/11/2022 (13/09/2022 é a data do parecer do Comitê de Termo de Compromisso) e o segundo
+  processo trata do Brazil Realty, não do CARE11.
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (via WebFetch direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

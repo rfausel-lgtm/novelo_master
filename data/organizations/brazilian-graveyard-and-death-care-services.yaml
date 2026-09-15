@@ -1,0 +1,46 @@
+id: brazilian-graveyard-and-death-care-services
+kind: organization
+name: Brazilian Graveyard and Death Care Services FII
+aliases:
+- CARE11
+- Graveyard Death and Care
+org_type: fund
+summary: 'Fundo de investimento imobiliário do setor funerário, negociado na B3 sob o código CARE11. Detinha 20% do
+  capital da Cortel, concessionária de cemitérios de São Paulo — participação equivalente a 54% do patrimônio do
+  fundo, segundo a síntese das defesas no processo da CVM. Gestão atribuída à Zion Gestão de Recursos, ligada à
+  Zion Capital, acionista relevante da Cortel. A administração fiduciária coube à Master S.A. CCTVM, corretora do
+  conglomerado Master, até 04/02/2026, quando os cotistas a substituíram pela Mérito DTVM. O ativo foi alvo de dois
+  processos na CVM: o encerrado por termo de compromisso em 2022 sobre ordens do Banco Máxima (depois Master) nas
+  cotas, e o processo sancionador sobre as compras da própria Cortel em 2022, julgado em 25/11/2025 com condenação
+  dos irmãos Schumann por prática não equitativa e absolvição da Cortel. Reportagem do UOL, transcrita pelo Min.
+  Flávio Dino na ADPF 1.196, liga o fundo à origem do Master em 2016 — um cemitério em Sabará/MG avaliado pela
+  própria empresa em R$ 181 milhões. O Ministério Público de Contas de Minas Gerais apura aplicações de regimes
+  próprios de cinco municípios no fundo.'
+why_in_novelo: Ativo em que convergem o conglomerado Master (operador das cotas, administrador do fundo e cotista),
+  a Cortel ligada a Fabiano Zettel, os irmãos Conte e dinheiro de previdência municipal — a frente de cemitérios
+  que o Min. Flávio Dino mandou a CVM apurar em 15/09/2026.
+cited_position:
+- kind: not_located
+  summary: Manifestação pública do fundo ou de sua gestora sobre as apurações não localizada até esta coleta.
+open_questions:
+- 'RESOLVIDO (15/09/2026): o administrador até 04/02/2026 era a Master S.A. CCTVM, sucedida pela Mérito DTVM —
+  não a Planner Trustee, como dissera a Revista Oeste e o acervo repetira no lote 315. Não foi localizado
+  documento que ponha a Planner Trustee na administração do fundo em qualquer período.'
+- Valores, datas e situação atual das aplicações dos RPPS de Extrema, Guanhães, Paraguaçu, São João del-Rei e
+  Três Pontas — fonte única de imprensa; nenhum documento do MPC-MG ou do TCE-MG localizado.
+- A resposta da CVM à requisição do Min. Dino (15 dias a partir de 15/09/2026) sobre fundos ligados a cemitérios
+  de São Paulo, com prioridade para a Cortel.
+- O regulamento e os informes do fundo não foram lidos; os papéis de Zion Gestão e Zion Capital vêm do processo
+  da CVM, na parte que resume a defesa.
+source_ids:
+- src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann
+- src-cvm-2026-02-24-informacoes-grupo-master-reag
+- src-btgpactual-2026-02-06-relatorio-semanal-fii-care11
+- src-ofator-2025-11-27-cvm-care11-rpps-minas
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+- src-stf-inq5026-ipl1096304-completo
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

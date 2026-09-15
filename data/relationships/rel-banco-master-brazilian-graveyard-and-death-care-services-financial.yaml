@@ -1,0 +1,35 @@
+id: rel-banco-master-brazilian-graveyard-and-death-care-services-financial
+kind: relationship
+from_id: banco-master
+to_id: brazilian-graveyard-and-death-care-services
+relationship_type: financial
+directed: true
+label: operou cotas do CARE11 (termo de compromisso com a CVM) e administrou o fundo até fev/2026
+start_date: '2016'
+end_date: '2026-02-04'
+description: 'Documentado: a CVM encerrou, por termo de compromisso aceito pelo Colegiado em 16/11/2022 (parecer do
+  Comitê de 13/09/2022), o processo 19957.006441/2021-87 sobre possível manipulação de mercado com o CARE11 pelo
+  Banco Máxima, antiga denominação do Master — acordo sem confissão. Até 04/02/2026 a administração fiduciária do
+  fundo coube à Master S.A. CCTVM, corretora do conglomerado, substituída pela Mérito DTVM em assembleia de
+  cotistas (Fato Relevante resumido pela BTG Pactual). Segundo a imprensa, transcrita na ADPF 1.196: o Master era
+  um dos principais cotistas (O Bastidor) e, segundo relatório da PF citado pelo UOL, como cotista aceitou cotas de
+  empresa do próprio grupo "ao preço que ele mesmo havia estabelecido", na origem do banco em 2016.'
+evidence_class: D
+confidence: 0.85
+status: verified
+event_ids: []
+evidence_ids:
+- ev-angelo-ribeiro-manipulacao-care11-cvm-2022
+- ev-adpf1196-transcreve-uol-cemiterio-sabara-care11
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+- src-cvm-2026-02-24-informacoes-grupo-master-reag
+- src-btgpactual-2026-02-06-relatorio-semanal-fii-care11
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+document_ids:
+- doc-2022-09-13-termo-compromisso-cvm-care11-angelo-ribeiro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

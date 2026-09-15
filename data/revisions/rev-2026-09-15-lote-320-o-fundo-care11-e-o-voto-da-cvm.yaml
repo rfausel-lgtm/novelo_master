@@ -1,0 +1,50 @@
+id: rev-2026-09-15-lote-320-o-fundo-care11-e-o-voto-da-cvm
+kind: revision
+date: '2026-09-15'
+title: 'Lote 320 — o fundo CARE11 ganha verbete, e documentos oficiais corrigem dois erros do acervo'
+summary: 'Continuação da frente de cemitérios. O fundo Brazilian Graveyard and Death Care Services (CARE11), que
+  aparecia só em texto espalhado por quatro lotes, ganha verbete próprio e passa a ligar, no grafo, o conglomerado
+  Master (termo de compromisso com a CVM sobre ordens nas cotas, administração do fundo pela Master CCTVM até
+  fevereiro de 2026 e, segundo a imprensa, posição de cotista), a Cortel (20% do capital) e Vicente Conte Neto
+  (cofundador, segundo a imprensa). A leitura de documentos oficiais corrige o acervo em dois pontos. Primeiro, o
+  relatório e o voto da CVM julgados em 25/11/2025: os irmãos Roberto e Marcio Schumann foram condenados por
+  prática não equitativa (R$ 2.127.992,80 e R$ 54.048,02) e absolvidos da acusação de manipulação, e a Cortel foi
+  absolvida — não houve "multa em 2022", ano apenas das operações; o voto também confirma um conselheiro da Cortel
+  identificado como V.C.N., o que reforça a ligação de Vicente Conte Neto à empresa. Segundo, o administrador do
+  fundo: comunicado do próprio fundo resumido pela BTG Pactual mostra que era a Master CCTVM até 04/02/2026,
+  substituída pela Mérito DTVM — o que desmente a administração pela Planner Trustee (hoje Trustee DTVM, de Maurício
+  Quadrado) publicada no lote 315 com base numa única reportagem; a afirmação é retirada dos verbetes e registrada
+  como correção. Também sai do acervo a reavaliação do cemitério de Sabará para R$ 111,7 milhões, publicada no lote
+  315 sem conferência. Fica registrado, como fonte única, que o Ministério Público de Contas de Minas Gerais apura
+  aplicações de regimes próprios de cinco municípios no fundo.'
+added:
+  people: 0
+  organizations: 1
+  events: 0
+  documents: 1
+  relationships: 3
+  sources: 4
+  evidence: 3
+updated_relationships: 2
+corrections:
+- 'trustee-dtvm e rel-mauricio-quadrado-trustee-dtvm-corporate: retirada a afirmação do lote 315 de que a Trustee
+  DTVM (Planner Trustee) administrava o CARE11; documento do fundo aponta a Master CCTVM até 04/02/2026 e a Mérito
+  DTVM depois. Retirada também a reavaliação de R$ 111,7 milhões em 2020, não conferida.'
+- 'cortel-sp: a condenação dos Schumann é de 25/11/2025, por prática não equitativa, com absolvição da Cortel e da
+  acusação de manipulação — o texto do lote 313 dizia "em 2022 a CVM multou".'
+- 'Termo de compromisso sobre o CARE11: aceito pelo Colegiado da CVM em 16/11/2022 (13/09/2022 é a data do parecer
+  do Comitê); o processo 19957.010180/2022-81, citado junto no acervo, trata do Brazil Realty (BZLI11), não do CARE11.'
+- 'rel-vicente-conte-neto-cortel-sp-corporate: de A para C, com o voto da CVM somado à reportagem.'
+author: orquestrador
+affected_ids:
+- brazilian-graveyard-and-death-care-services
+- cortel-sp
+- banco-master
+- trustee-dtvm
+- mauricio-quadrado
+- vicente-conte-neto
+reason: Linha 2 da revisão estrutural de 15/09/2026 (setor de cemitérios); leitura dos documentos oficiais da CVM e
+  do comunicado do fundo que o acervo citava só por reportagem.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
