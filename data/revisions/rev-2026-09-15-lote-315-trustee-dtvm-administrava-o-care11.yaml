@@ -1,0 +1,38 @@
+id: rev-2026-09-15-lote-315-trustee-dtvm-administrava-o-care11
+kind: revision
+date: '2026-09-15'
+title: 'Lote 315 — Trustee DTVM (Quadrado) já administrava o fundo CARE11 antes de 2022'
+summary: 'Reconciliação feita por um fork delegado e verificada por esta sessão: a "Planner Trustee",
+  citada pela Revista Oeste como administradora do fundo CARE11 (Graveyard Death and Care/Brazilian
+  Graveyard and Death Care Services, com cemitério em Sabará/MG avaliado em R$181mi em 2016 e reavaliado
+  para R$111,7mi em 2020), é a mesma entidade já registrada no acervo como Trustee DTVM, controlada por
+  Maurício Quadrado — confirmado via CNPJ (67.030.395/0001-46, mesmo número em ambas as fontes). É um
+  ponto de contato adicional, anterior a 2022, entre Quadrado e o "mercado da morte" do grupo Vorcaro,
+  distinto do episódio já mapeado sobre a Bello Pactum/FIDC Alvarinho. Também descartado, pela mesma
+  reconciliação, um possível fato novo: o "segundo" Termo de Compromisso da CVM mencionado pelo O Bastidor
+  é quase certamente o mesmo já registrado no acervo (ev-angelo-ribeiro-manipulacao-care11-cvm-2022,
+  valores idênticos), não um episódio adicional — por isso não gerou novo registro. Enriquecimento pontual
+  de dois arquivos existentes, sem novas entidades de pessoa/organização.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 2
+  evidence: 0
+updated_relationships: 1
+corrections:
+- 'trustee-dtvm: nova open_question sobre a administração do fundo CARE11 desde antes de 2022.'
+- 'rel-mauricio-quadrado-trustee-dtvm-corporate: descrição enriquecida com a mesma informação.'
+author: orquestrador
+affected_ids:
+- trustee-dtvm
+- mauricio-quadrado
+reason: Fork delegado (funny-chatterjee-b1b9b2-9d) reconciliou, a pedido desta sessão, se o fundo CARE11
+  citado na decisão de Dino (lote 313) já tinha algum ponto de contato mapeado no acervo — encontrou que
+  sim, via a Trustee DTVM, e também descartou uma possível duplicação de fato sobre o Termo de Compromisso
+  da CVM. Esta sessão conferiu via WebSearch antes de publicar.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
