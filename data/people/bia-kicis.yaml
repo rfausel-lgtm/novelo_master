@@ -22,4 +22,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-10'
 created_at: '2026-09-10'
-updated_at: '2026-09-10'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/bia-kicis.jpg
+  source: Wikimedia Commons
+  author: Cleia Viana/Câmara dos Deputados
+  license: CC BY 3.0
+  original_url: https://commons.wikimedia.org/wiki/File:Bia_Kicis_em_agosto_de_2019.jpg
+  retrieved_at: 2026-09-14
+  alt: Retrato de Bia Kicis

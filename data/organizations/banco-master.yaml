@@ -118,4 +118,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-10'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/banco-master.png
+  source: Wikimedia Commons
+  author: Banco Master
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:Logotipo_do_Banco_Master.svg
+  retrieved_at: 2026-09-14
+  alt: Logotipo de Banco Master

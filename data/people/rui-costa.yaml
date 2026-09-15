@@ -73,4 +73,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-13'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/rui-costa.jpg
+  source: Wikimedia Commons
+  author: Marcos Oliveira/Agência Senado
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_da_2%C2%AA_Sess%C3%A3o_Legislativa_Ordin%C3%A1ria_da_57%C2%AA_Legislatura_(cropped).jpg
+  retrieved_at: 2026-09-14
+  alt: Retrato de Rui Costa

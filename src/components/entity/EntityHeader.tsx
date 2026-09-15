@@ -29,7 +29,7 @@ export function Avatar({ entity, size = 64 }: { entity: Person | Organization; s
           width={size}
           height={size}
           loading="lazy"
-          className={`border-border border ${isOrg ? "bg-bg-2 rounded-md object-contain p-1" : "rounded-full object-cover"}`}
+          className={`border-border border ${isOrg ? "bg-white rounded-md object-contain p-1" : "rounded-full object-cover"}`}
           style={{ width: size, height: size, ...(isOrg ? {} : { objectPosition: FOCO[entity.photo.focus] }) }}
         />
         <figcaption className="text-fg-3 mt-1 max-w-[7rem] text-[10px] leading-tight sm:max-w-[12rem]">
