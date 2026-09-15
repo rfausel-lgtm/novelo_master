@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+- **Ligações do grafo mais fáceis de abrir.** As linhas são finas e o clique precisava cair em cima
+  delas. Agora um clique perto de uma linha abre o card da conexão, com margem maior no toque do
+  celular; clicar num nó continua selecionando o nó, e clicar longe de tudo continua desmarcando.
+  Com um nó selecionado, as linhas dele têm preferência. Ao passar o mouse, a linha ao alcance
+  engrossa e um rótulo junto ao cursor mostra o tipo da ligação e a classe da evidência. Na ficha
+  do nó, cada item de "Principais conexões" e da "Linha do tempo das conexões" ganhou o botão "ver
+  ligação", que abre o card sem precisar mirar; quando há mais de uma ligação com o mesmo nó, abre
+  a de evidência mais forte. As linhas do nó selecionado também ficaram mais grossas.
+
 - **Atualizações em ordem de publicação.** A lista ordenava primeiro pela data editorial da revisão e só
   depois pelo instante de publicação. Como a data é escolhida por quem publica, sem critério único, os
   lotes 84 a 88 (publicados em 05/09 com data de 04/09) apareciam abaixo dos lotes 89 a 98, e lotes

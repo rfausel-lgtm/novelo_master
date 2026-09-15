@@ -14,6 +14,7 @@ import type { NoveloGraph, SigmaEdgeAttributes, SigmaNodeAttributes } from "@/li
 import type { GraphIndex } from "@/lib/graph/indexes";
 import { createLayoutRunner, type LayoutRunner } from "@/lib/graph/layout-worker";
 import { createEdgeProgramClasses } from "@/lib/graph/programs";
+import { arestaMaisProxima, type SegmentoDeAresta } from "@/lib/graph/hit";
 import { type Palette } from "@/lib/graph/style";
 
 export interface CanvasView {
@@ -57,12 +58,17 @@ interface Context {
   edges: ReadonlySet<string>;
   emphasis: ReadonlySet<string>;
   forceLabels: ReadonlySet<string>;
+  /** O foco vem de um nó selecionado (não de hover): as linhas dele engrossam mais. */
+  fromSelection: boolean;
 }
 
 type NodeData = NodeDisplayData & { dimmed?: boolean };
 type NoveloSigma = Sigma<SigmaNodeAttributes, SigmaEdgeAttributes>;
 
 const MAX_FORCED_LABELS = 40;
+/* Alcance da mira sobre as linhas, em px de tela: o dedo cobre bem mais que o ponteiro. */
+const EDGE_HIT_MOUSE_PX = 8;
+const EDGE_HIT_TOUCH_PX = 18;
 
 export function GraphCanvas(props: GraphCanvasProps) {
   const {
@@ -92,6 +98,16 @@ export function GraphCanvas(props: GraphCanvasProps) {
   /* A paleta muda com o tema; num ref, as rotinas de desenho a leem sem recriar o Sigma. */
   const paletteRef = useRef(palette);
   const hoverRef = useRef<string | null>(null);
+  /* Aresta ao alcance do mouse: engrossa, ganha rótulo junto ao cursor e é o alvo do clique. */
+  const edgeHoverRef = useRef<string | null>(null);
+  /* Aresta que o próprio Sigma acusa sob o ponteiro; vence a geometria, como no clique. */
+  const nativeEdgeRef = useRef<string | null>(null);
+  const [edgeTip, setEdgeTip] = useState<{
+    text: string;
+    x: number;
+    y: number;
+    left: boolean;
+  } | null>(null);
   const ctxRef = useRef<Context | null>(null);
   const neighborCache = useRef(new Map<string, { nodes: Set<string>; edges: Set<string> }>());
   const layoutRef = useRef<LayoutRunner | null>(null);
@@ -159,7 +175,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
         v.highlight.edges.forEach((e) => edges.add(e));
       }
       const forceLabels = nb.nodes.size <= MAX_FORCED_LABELS ? nb.nodes : emphasis;
-      return { nodes, edges, emphasis, forceLabels };
+      return { nodes, edges, emphasis, forceLabels, fromSelection: !hover };
     }
     if (v.selectedEdge && graph.hasEdge(v.selectedEdge)) {
       const [s, t] = graph.extremities(v.selectedEdge);
@@ -168,6 +184,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
         edges: new Set([v.selectedEdge]),
         emphasis: new Set([s, t]),
         forceLabels: new Set([s, t]),
+        fromSelection: false,
       };
     }
     if (v.highlight) {
@@ -176,6 +193,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
         edges: v.highlight.edges,
         emphasis: v.highlight.nodes,
         forceLabels: v.highlight.nodes,
+        fromSelection: false,
       };
     }
     if (v.selection.size > 0) {
@@ -187,7 +205,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
         nb.nodes.forEach((n) => nodes.add(n));
         nb.edges.forEach((e) => edges.add(e));
       }
-      return { nodes, edges, emphasis, forceLabels: emphasis };
+      return { nodes, edges, emphasis, forceLabels: emphasis, fromSelection: false };
     }
     return null;
   };
@@ -255,13 +273,23 @@ export function GraphCanvas(props: GraphCanvasProps) {
         return res;
       }
       const ctx = ctxRef.current;
-      if (!ctx) return res;
-      if (ctx.edges.has(edge)) {
+      const hovered = edge === edgeHoverRef.current;
+      /* Escalas sobre a espessura da classe: a proporção entre D, C, A e I se mantém. */
+      if (ctx?.edges.has(edge)) {
         res.color = data.activeColor;
-        res.size = data.size * (edge === v.selectedEdge ? 2.2 : 1.5);
-        res.zIndex = 1;
+        let scale = edge === v.selectedEdge ? 3.2 : ctx.fromSelection ? 2.5 : 1.5;
+        if (hovered) scale = Math.max(scale, ctx.fromSelection ? 3.2 : 2.2);
+        res.size = data.size * scale;
+        res.zIndex = hovered ? 2 : 1;
         return res;
       }
+      if (hovered) {
+        res.color = data.activeColor;
+        res.size = data.size * 2.2;
+        res.zIndex = 2;
+        return res;
+      }
+      if (!ctx) return res;
       res.color = paletteRef.current.dimEdge;
       res.zIndex = 0;
       return res;
@@ -394,7 +422,78 @@ export function GraphCanvas(props: GraphCanvasProps) {
     ctxRef.current = computeContext();
     sigma.refresh();
 
+    /*
+     * Mira com tolerância. A detecção nativa de aresta lê um framebuffer em meia resolução e
+     * quase nunca acerta uma linha de 1 px; como as arestas são retas, a distância ao segmento
+     * em pixels de tela resolve. Só entram arestas visíveis com as duas pontas visíveis, e as do
+     * contexto em foco têm prioridade dentro do alcance.
+     */
+    function* segmentosNaTela(): Generator<SegmentoDeAresta> {
+      const v = viewRef.current;
+      const ctx = ctxRef.current;
+      const telas = new Map<string, { x: number; y: number } | null>();
+      const naTela = (node: string) => {
+        if (!telas.has(node)) {
+          const data = sigma.getNodeDisplayData(node);
+          /* Coordenadas enquadradas → viewport: já considera zoom, deslocamento e rotação. */
+          telas.set(node, data && !data.hidden ? sigma.framedGraphToViewport(data) : null);
+        }
+        return telas.get(node) ?? null;
+      };
+      for (const edge of v.visibleEdges) {
+        if (!graph.hasEdge(edge)) continue;
+        const [s, t] = graph.extremities(edge);
+        if (!v.visibleNodes.has(s) || !v.visibleNodes.has(t)) continue;
+        const a = naTela(s);
+        const b = naTela(t);
+        if (!a || !b) continue;
+        yield { id: edge, a, b, prioridade: ctx?.edges.has(edge) ?? false };
+      }
+    }
+    const arestaPerto = (x: number, y: number, tolerancia: number) =>
+      arestaMaisProxima({ x, y }, segmentosNaTela(), tolerancia);
+
+    /* Aviso de hover: só com mouse. O rótulo junto ao cursor diz o que o clique vai abrir. */
+    const setEdgeHover = (edge: string | null, x = 0, y = 0) => {
+      const previous = edgeHoverRef.current;
+      if (edge !== previous) {
+        edgeHoverRef.current = edge;
+        if (!hoverRef.current) container.style.cursor = edge ? "pointer" : "";
+        const changed = [previous, edge].filter((e): e is string => !!e && graph.hasEdge(e));
+        if (changed.length) sigma.refresh({ partialGraph: { edges: changed } });
+      }
+      if (!edge) return setEdgeTip(null);
+      const attrs = graph.getEdgeAttributes(edge);
+      const classe = `classe ${attrs.evidence_class}`;
+      setEdgeTip({
+        text: attrs.label ? `${attrs.label} · ${classe}` : classe,
+        x,
+        y,
+        left: x > container.clientWidth * 0.6,
+      });
+    };
+    let hoverFrame = 0;
+    let hoverPoint: { x: number; y: number } | null = null;
+    const scheduleEdgeHover = (x: number, y: number) => {
+      hoverPoint = { x, y };
+      if (hoverFrame) return;
+      hoverFrame = requestAnimationFrame(() => {
+        hoverFrame = 0;
+        const p = hoverPoint;
+        if (!p) return;
+        if (hoverRef.current || draggedNodeRef.current) return setEdgeHover(null);
+        setEdgeHover(nativeEdgeRef.current ?? arestaPerto(p.x, p.y, EDGE_HIT_MOUSE_PX), p.x, p.y);
+      });
+    };
+    const clearEdgeHover = () => {
+      hoverPoint = null;
+      if (hoverFrame) cancelAnimationFrame(hoverFrame);
+      hoverFrame = 0;
+      setEdgeHover(null);
+    };
+
     sigma.on("enterNode", ({ node }) => {
+      clearEdgeHover();
       hoverRef.current = node;
       container.style.cursor = "pointer";
       refresh();
@@ -473,9 +572,40 @@ export function GraphCanvas(props: GraphCanvasProps) {
       callbacks.current.onOpenNode(node);
     });
     sigma.on("clickEdge", ({ edge }) => callbacks.current.onSelectEdge(edge));
-    sigma.on("enterEdge", () => (container.style.cursor = "pointer"));
-    sigma.on("leaveEdge", () => (container.style.cursor = ""));
-    sigma.on("clickStage", () => {
+    /* Os eventos nativos de aresta alimentam o mesmo estado do hover com tolerância. */
+    sigma.on("enterEdge", ({ edge, event }) => {
+      if ("touches" in event.original) return;
+      nativeEdgeRef.current = edge;
+      scheduleEdgeHover(event.x, event.y);
+    });
+    sigma.on("leaveEdge", ({ event }) => {
+      nativeEdgeRef.current = null;
+      if ("touches" in event.original) return;
+      scheduleEdgeHover(event.x, event.y);
+    });
+    sigma.on("moveBody", ({ event }) => {
+      const original = event.original;
+      if ("touches" in original) return;
+      /* O movimento chega do documento inteiro: sobre um painel, ou arrastando, não há aviso. */
+      if (
+        !(original.target instanceof Node && container.contains(original.target)) ||
+        original.buttons !== 0 ||
+        draggedNodeRef.current
+      )
+        return clearEdgeHover();
+      scheduleEdgeHover(event.x, event.y);
+    });
+    sigma.on("leaveStage", clearEdgeHover);
+    /* Zoom, pan e rotação tiram a linha do lugar: o rótulo sai junto. */
+    sigma.getCamera().on("updated", clearEdgeHover);
+    sigma.on("clickStage", ({ event }) => {
+      /* Nem nó nem aresta sob o ponto: antes de desselecionar, procura a linha ao alcance. */
+      const touch = "touches" in event.original;
+      const edge = arestaPerto(event.x, event.y, touch ? EDGE_HIT_TOUCH_PX : EDGE_HIT_MOUSE_PX);
+      if (edge && Date.now() - lastDragAtRef.current >= 180) {
+        callbacks.current.onSelectEdge(edge);
+        return;
+      }
       if (viewRef.current.selectedNode) callbacks.current.onSelectNode(null);
       else if (viewRef.current.selectedEdge) callbacks.current.onSelectEdge(null);
     });
@@ -484,6 +614,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
     ro.observe(container);
 
     return () => {
+      if (hoverFrame) cancelAnimationFrame(hoverFrame);
       ro.disconnect();
       layoutRef.current?.kill();
       layoutRef.current = null;
@@ -726,6 +857,25 @@ export function GraphCanvas(props: GraphCanvasProps) {
         className="h-full w-full"
         data-testid="graph-canvas"
       />
+      {edgeTip && (
+        /* Repete o que o card da conexão diz em texto; para leitor de tela, o card basta. */
+        <div
+          aria-hidden="true"
+          data-testid="edge-hover-label"
+          className="text-fg pointer-events-none absolute z-10 max-w-[min(20rem,70%)] truncate rounded border px-2 py-1 text-xs shadow-sm"
+          style={{
+            left: edgeTip.x,
+            top: edgeTip.y,
+            transform: edgeTip.left
+              ? "translate(calc(-100% - 12px), 14px)"
+              : "translate(12px, 14px)",
+            background: "var(--canvas-hover-bg)",
+            borderColor: "var(--canvas-hover-border)",
+          }}
+        >
+          {edgeTip.text}
+        </div>
+      )}
       {webglError && (
         <div
           role="alert"
