@@ -18,6 +18,10 @@ Observações:
 - Hover, seleção e filtros usam `nodeReducer`/`edgeReducer` (sem mutação do grafo e sem recriar o
   Sigma). Os conjuntos visíveis são calculados em funções puras (`applyFilters`, `neighborhood`,
   `inducedSubgraph`) e memoizados por estado.
+- Clique e hover perto de uma aresta não dependem da detecção nativa do Sigma, que lê um framebuffer
+  em meia resolução e perde linhas de cerca de 1 px. `src/lib/graph/hit.ts` mede a distância, em
+  pixels de tela, do ponteiro às arestas visíveis — as retas permitem conta exata —, com margem maior
+  no toque e preferência pelas arestas do contexto em foco.
 - Rótulos: `labelRenderedSizeThreshold` cresce com o tamanho do grafo (4 → 7 → 9 px), limitando a
   densidade de texto no zoom afastado.
 - Limitação conhecida: o parse inicial de 13,6 MB bloqueia a thread principal por alguns segundos.
