@@ -1,0 +1,26 @@
+kind: document
+is_official: true
+id: doc-2025-04-28-relatorio-pesquisa-mpf-banco-master-administradores
+title: Relatório de pesquisa da Assessoria de Pesquisa e Análise do MPF (PR-DF) sobre o Banco Master e seus administradores
+doc_type: official_report
+date: '2025-04-28'
+date_precision: day
+issuer: Ministério Público Federal — Procuradoria da República no Distrito Federal, Assessoria de Pesquisa e Análise
+reference: Notícia de Fato 1.16.000.001223/2025-35; trasladado no IPL 2025.0087917 (Inq 5.026), documento id 2213770869,
+  páginas 521 a 527 do PDF da peça 2
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+summary: Relatório emitido em 28/04/2025 que qualifica o Banco Master a partir dos dados da Receita Federal e junta
+  tela da Junta Comercial do Rio de Janeiro. No quadro da Receita, André Kruschewsky Lima aparece como diretor a
+  partir de 13/02/2023, mesma data de Augusto Ferreira Lima; na tela da Junta, como procurador de 23/02/2022 a 13/02/2023.
+  Dados pessoais constantes do relatório não são reproduzidos.
+excerpt: 'ANDRE KRUSCHEWSKY LIMA DIRETOR com de participação na empresa. A partir de: 13/02/2023'
+related_entity_ids:
+- banco-master
+- andre-kruschewsky-lima
+- augusto-lima
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

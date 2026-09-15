@@ -1,0 +1,20 @@
+kind: evidence
+id: ev-receita-andre-kruschewsky-diretor-do-banco-master-desde-2023
+classification: D
+proposition: Nos dados da Receita Federal, André Kruschewsky Lima consta como diretor do Banco Master desde 13/02/2023,
+  mesma data de entrada de Augusto Ferreira Lima; a Junta Comercial do Rio de Janeiro o registra antes como procurador
+  do banco, de 23/02/2022 a 13/02/2023.
+document_ids:
+- doc-2025-04-28-relatorio-pesquisa-mpf-banco-master-administradores
+source_ids:
+- src-stf-inq5026-ipl1096304-completo
+- src-minhareceita-banco-master-qsa-2026-09-15
+locator: IPL 2025.0087917, documento id 2213770869, páginas 523 e 527 do PDF
+excerpt: Procurador São Paulo 23/02/2022 13/02/2023
+date: '2023-02-13'
+notes: Nenhum documento lido registra a data de saída da diretoria.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

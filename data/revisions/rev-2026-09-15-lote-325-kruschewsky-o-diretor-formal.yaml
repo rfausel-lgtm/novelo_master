@@ -1,0 +1,45 @@
+id: rev-2026-09-15-lote-325-kruschewsky-o-diretor-formal
+kind: revision
+date: '2026-09-15'
+title: Lote 325 — André Kruschewsky Lima era o diretor formal, e a família Kruschewsky no Master
+summary: O verbete de André Kruschewsky Lima dizia que o corpus não apurara seu cargo formal, mas o próprio acervo
+  já continha o que resolve a questão. No inquérito trasladado ao Inq 5.026, relatório do MPF de 28/04/2025 traz
+  o quadro da Receita, que o lista como diretor do Banco Master desde 13/02/2023, e tela da Junta Comercial do Rio,
+  que o registra antes como procurador (2022–2023). Nos autos do TJAP, o relatório de visita da Amprev, a apresentação
+  institucional de 2024 e o questionário de due diligence do banco o identificam como diretor jurídico, a quem se
+  reportava o compliance. Luiz Rennó Netto não aparece no quadro da Receita, o que é coerente com a qualificação
+  de administrador de fato dada pelo BC. Entram ainda, em classe A, as mensagens de Kruschewsky a Vorcaro sobre
+  o caso Alcídia no STF, segundo relatório da PF noticiado; o parentesco com Eugênio Kruschewsky passa a classe
+  C, por ser afirmado por três veículos, sem documento de filiação; e Matheus Kruschewsky Silva, gerente comercial
+  do Master segundo reportagem, entra com possível parentesco registrado como inferência.
+added:
+  people: 1
+  organizations: 0
+  events: 0
+  documents: 3
+  relationships: 4
+  sources: 4
+  evidence: 6
+updated_relationships: 1
+corrections:
+- 'andre-kruschewsky-lima: retirada a afirmação de que o corpus não apurou o cargo formal; cargo de diretor desde
+  13/02/2023 documentado, e o início em mar/2023 da reportagem anotado como divergente.'
+- 'rel-eugenio-kruschewsky-andre-kruschewsky-lima-familial: de A (disputed) para C (unverified), com três veículos
+  independentes e sem documento de filiação.'
+- 'luiz-renno-netto: registrada a ausência no quadro de administradores da Receita.'
+author: orquestrador
+affected_ids:
+- andre-kruschewsky-lima
+- banco-master
+- eugenio-de-souza-kruschewsky
+- matheus-kruschewsky-silva
+- luiz-renno-netto
+- daniel-vorcaro
+- amapa-previdencia
+reason: Pedido do Rafael para aprofundar André Kruschewsky Lima e registrar os parentescos com Eugênio e Matheus
+  Kruschewsky; pesquisa delegada conferida por esta sessão nos PDFs do IPL e do TJAP e nos dados da Receita.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -2,19 +2,25 @@ id: andre-kruschewsky-lima
 kind: person
 name: André Kruschewsky Lima
 category: executive
-role: Ex-diretor jurídico do Banco Master (mar/2023–ago/2024, segundo reportagem; a PF registra que foi diretor
-  jurídico)
-positions: []
-summary: Assina digitalmente, em 08/04/2024, o termo de credenciamento do Banco Master na Alagoas Previdência, na
-  condição de representante legal da instituição interessada no credenciamento, ao lado de Alberto Felix de Oliveira
-  Neto. O corpus não apurou seu cargo formal no banco. Segundo reportagem que afirma ter obtido relatório da PF
-  citado em decisão do ministro André Mendonça, exerceu o cargo de diretor jurídico do Banco Master entre março
-  de 2023 e agosto de 2024, e é situado no contexto da emenda nº 11 à PEC 65/2023, sobre ampliação da cobertura
-  do FGC. A mesma reportagem atribui a ele a contratação do escritório de seu primo, Eugênio de Souza Kruschewsky
-  — atribuição não confirmada pela equipe em documento primário. A representação da PF da 9ª fase registra que ele
-  "foi diretor jurídico do BANCO MASTER" e que, em 21/11/2025, três dias após a primeira fase da Compliance Zero,
-  falou com o advogado Daniel Lopes Monteiro e em seguida lhe enviou o telefone de Guilherme Sodré, nas tratativas
-  sobre o apartamento do Poème Horto.
+role: Diretor do Banco Master desde 13/02/2023 (Receita Federal), identificado como diretor jurídico em documentos
+  de 2024
+positions:
+- title: Diretor (diretor jurídico)
+  organization_id: banco-master
+  source_ids:
+  - src-stf-inq5026-ipl1096304-completo
+  - src-tjap-autos-6102005-63-2025
+  - src-minhareceita-banco-master-qsa-2026-09-15
+summary: Advogado. Foi procurador do Banco Master de 23/02/2022 a 13/02/2023, segundo a Junta Comercial do Rio de
+  Janeiro, e consta como diretor desde 13/02/2023 nos dados da Receita Federal, mesma data de Augusto Lima. Documentos
+  de 2024 juntados aos autos do TJAP — relatório de visita da Amprev, apresentação institucional e questionário
+  de due diligence do banco — o identificam como diretor jurídico, a quem se reportava o compliance. Assinou em
+  08/04/2024, como representante legal do Master, o termo de credenciamento na Alagoas Previdência, e, segundo a
+  PF citada na decisão da Pet 15.873, enviou a Vorcaro o texto da emenda do FGC. Segundo a representação da PF da
+  9ª fase, que registra que ele "foi diretor jurídico", falou com Daniel Lopes Monteiro em 21/11/2025 e lhe repassou
+  o telefone de Guilherme Sodré. Segundo relatório da PF noticiado pelo Estado de Minas, ofereceu ajuda a Vorcaro
+  para "tirar de pauta" o caso Alcídia no STF. Três veículos o apontam como primo de Eugênio Kruschewsky, cujo escritório
+  recebeu R$ 54 milhões do Master.
 why_in_novelo: Um dos dois signatários, pelo banco, do termo de credenciamento cujo texto a auditoria federal descreve
   como replicado em vários regimes próprios.
 cited_position:
@@ -23,15 +29,23 @@ cited_position:
   source_ids:
   - src-alagoasprevidencia-termo-credenciamento-033-2024
 open_questions:
-- A relação de parentesco com Eugênio de Souza Kruschewsky e a atribuição a ele da contratação do escritório do
-  primo não foram confirmadas em documento primário.
-- O cargo de diretor jurídico está registrado na representação da PF da 9ª fase (p. 23), sem período; o intervalo
-  mar/2023–ago/2024 vem de reportagem.
+- 'Data de saída da diretoria: nenhum documento lido a registra; o intervalo mar/2023–ago/2024 vem de reportagem
+  e o início diverge dos 13/02/2023 da Receita.'
+- O parentesco com Eugênio de Souza Kruschewsky é afirmado por três veículos, sem documento de filiação; o com Matheus
+  Kruschewsky Silva é inferência.
+- Segundo o Metrópoles (24/08/2026), recebeu R$ 22 milhões em salários e honorários em 2023–2024 e visitou gabinetes
+  da Câmara com Augusto Lima; não conferido pela equipe.
 source_ids:
 - src-alagoasprevidencia-termo-credenciamento-033-2024
 - src-bnews-2026-05-07-kruschewsky-emenda-fgc
 - src-bahianoticias-2026-04-11-gabino-kruschewsky-pf
 - src-pf-representacao-9a-fase-wagner-pdf
+- src-stf-inq5026-ipl1096304-completo
+- src-tjap-autos-6102005-63-2025
+- src-minhareceita-banco-master-qsa-2026-09-15
+- src-em-2026-09-11-pf-suspeita-vorcaro-influenciou-voto-toffoli
+- src-tribunadonorte-2026-02-23-esplanada-conexao-kruschewsky
+- src-ainvestigacao-2026-08-10-festa-augusto-lima-bahia
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'

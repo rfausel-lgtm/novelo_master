@@ -1,0 +1,16 @@
+kind: evidence
+id: ev-inferencia-possivel-parentesco-andre-kruschewsky-e-matheus-kruschewsky-silva
+classification: I
+proposition: É possível que André Kruschewsky Lima e Matheus Kruschewsky Silva sejam parentes.
+source_ids:
+- src-ainvestigacao-2026-08-10-festa-augusto-lima-bahia
+inference_basis: 'Três elementos: o sobrenome Kruschewsky, pouco comum, compartilhado pelos dois; a reportagem de
+  A Investigação, que chama Matheus de "familiar" de André sem indicar grau nem fonte; e o registro, na mesma reportagem,
+  de que André representou Matheus e a mãe em ação judicial de 2010. Não se conclui a existência nem o grau do parentesco:
+  a representação em processo não prova vínculo familiar, e nenhum documento de filiação foi lido.'
+date: '2026-08-10'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,25 @@
+kind: document
+is_official: true
+id: doc-2024-07-relatorio-diligencia-amprev-visita-banco-master
+title: Relatório de diligência da Amapá Previdência — visita à instituição Banco Master
+doc_type: official_report
+date: 2024-07
+date_precision: month
+issuer_id: amapa-previdencia
+reference: Processo TJAP 6102005-63.2025.8.03.0001, anexo da petição inicial; página 1693 do PDF dos autos
+source_ids:
+- src-tjap-autos-6102005-63-2025
+summary: 'Relatório da Amprev sobre visita ao Banco Master no processo de avaliação de investimento. Lista os representantes
+  do banco que receberam a equipe: gerente de relações institucionais, André Kruschewsky como diretor jurídico,
+  Angelo Silva como diretor financeiro, Luiz Bull como diretor de operações e Alberto Felix como superintendente.
+  A folha de rosto traz 22/05/2024 e o texto menciona 22 de julho de 2024.'
+excerpt: 'ANDRE KRUSCHEWSKY: Diretor Jurídico'
+related_entity_ids:
+- amapa-previdencia
+- banco-master
+- andre-kruschewsky-lima
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

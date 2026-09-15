@@ -1,0 +1,23 @@
+kind: relationship
+event_ids: []
+evidence_ids:
+- ev-inferencia-possivel-parentesco-andre-kruschewsky-e-matheus-kruschewsky-silva
+source_ids:
+- src-ainvestigacao-2026-08-10-festa-augusto-lima-bahia
+document_ids: []
+id: rel-andre-kruschewsky-lima-matheus-kruschewsky-silva-familial
+from_id: andre-kruschewsky-lima
+to_id: matheus-kruschewsky-silva
+relationship_type: familial
+directed: false
+label: possível parentesco (inferência, sem documento)
+description: Possível parentesco inferido do sobrenome comum, da descrição de Matheus como "familiar" de André por
+  A Investigação e da representação judicial de 2010. Não há documento de filiação nem indicação de grau.
+evidence_class: I
+confidence: 0.3
+status: unverified
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,29 @@
+kind: relationship
+event_ids: []
+evidence_ids:
+- ev-pf-mensagens-kruschewsky-a-vorcaro-sobre-o-caso-alcidia
+source_ids:
+- src-em-2026-09-11-pf-suspeita-vorcaro-influenciou-voto-toffoli
+document_ids: []
+id: rel-andre-kruschewsky-lima-daniel-vorcaro-communication
+from_id: andre-kruschewsky-lima
+to_id: daniel-vorcaro
+relationship_type: communication
+directed: false
+label: mensagens sobre o caso Alcídia no STF (segundo a PF, via imprensa)
+start_date: '2024'
+description: Segundo relatório da PF divulgado pela piauí e noticiado pelo Estado de Minas, André Kruschewsky escreveu
+  a Vorcaro sobre a ação da destilaria Alcídia no STF, oferecendo ajuda para "tirar de pauta" o julgamento. A equipe
+  não leu o relatório.
+evidence_class: A
+confidence: 0.6
+status: unverified
+cited_position:
+- kind: not_located
+  by_id: andre-kruschewsky-lima
+  summary: Nenhuma manifestação de André Kruschewsky sobre as mensagens foi localizada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

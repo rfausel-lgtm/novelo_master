@@ -1,0 +1,22 @@
+kind: relationship
+event_ids: []
+evidence_ids:
+- ev-ainvestigacao-matheus-kruschewsky-silva-gerente-comercial-do-master
+source_ids:
+- src-ainvestigacao-2026-08-10-festa-augusto-lima-bahia
+document_ids: []
+id: rel-matheus-kruschewsky-silva-banco-master-professional
+from_id: matheus-kruschewsky-silva
+to_id: banco-master
+relationship_type: professional
+directed: true
+label: gerente comercial (segundo reportagem)
+description: Segundo A Investigação, Matheus Kruschewsky Silva é gerente comercial do Banco Master.
+evidence_class: A
+confidence: 0.5
+status: unverified
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

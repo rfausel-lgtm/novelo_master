@@ -1,0 +1,19 @@
+kind: evidence
+id: ev-documentos-de-2024-kruschewsky-diretor-juridico-do-master
+classification: D
+proposition: 'Documentos de 2024 juntados aos autos do TJAP identificam André Kruschewsky Lima como diretor jurídico
+  do Banco Master: o relatório de visita da Amprev, a apresentação institucional do banco e o questionário de due
+  diligence, segundo o qual o compliance se reporta a ele.'
+document_ids:
+- doc-2024-07-relatorio-diligencia-amprev-visita-banco-master
+- doc-2024-materiais-institucionais-banco-master-amprev
+source_ids:
+- src-tjap-autos-6102005-63-2025
+locator: páginas 1693, 1712 e 1937 do PDF dos autos
+excerpt: ANDRÉ KRUSCHEWSKY DIRETOR JURÍDICO
+date: '2024'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

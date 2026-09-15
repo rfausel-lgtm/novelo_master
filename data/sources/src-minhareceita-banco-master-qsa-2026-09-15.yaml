@@ -1,0 +1,23 @@
+kind: source
+id: src-minhareceita-banco-master-qsa-2026-09-15
+title: Cadastro Nacional da Pessoa Jurídica — BANCO MASTER S/A (em liquidação extrajudicial), quadro de administradores
+publisher: Receita Federal, via redistribuição do dump público de CNPJ
+publication_date: '2026'
+url: https://minhareceita.org/33923798000100
+source_type: official_government
+summary: 'Quadro de administradores do Banco Master S/A em liquidação extrajudicial nos dados abertos da Receita
+  Federal, consultado em 15/09/2026: Daniel Bueno Vorcaro (presidente, desde 01/12/2017), Angelo Antonio Ribeiro
+  da Silva (diretor, 07/07/2017), Luiz Antonio Bull (diretor, 04/01/2018), Felipe Wallace Simonsen (diretor, 23/11/2021),
+  Augusto Ferreira Lima e André Kruschewsky Lima (diretores, ambos desde 13/02/2023). Luiz Rennó Netto não consta.'
+notes: A base registra datas de entrada; saídas não são refletidas com confiabilidade.
+retrieved_at: '2026-09-15'
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

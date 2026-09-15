@@ -1,0 +1,25 @@
+kind: document
+is_official: true
+id: doc-2024-materiais-institucionais-banco-master-amprev
+title: Apresentação institucional 2024 e questionário ANBIMA de due diligence do Banco Master, juntados aos autos
+  do TJAP
+doc_type: corporate_record
+date: '2024'
+date_precision: year
+issuer_id: banco-master
+reference: Processo TJAP 6102005-63.2025.8.03.0001, documento Num. 25501981 (páginas 1712 e 1937 do PDF dos autos)
+source_ids:
+- src-tjap-autos-6102005-63-2025
+summary: Materiais do próprio Banco Master entregues à Amprev. A apresentação institucional de 2024 lista entre
+  os executivos principais Daniel Vorcaro (presidente), Augusto Lima (CEO), André Kruschewsky (diretor jurídico),
+  Angelo Silva (diretor financeiro), Luiz Bull (diretor de operações) e Felipe Simonsen (diretor de câmbio). O questionário
+  de due diligence informa que a área de compliance se reporta ao diretor jurídico André Kruschewsky Lima.
+excerpt: Reporta a diretoria de Compliance para o director do jurídico André Kruschewsky Lima
+related_entity_ids:
+- banco-master
+- andre-kruschewsky-lima
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

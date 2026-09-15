@@ -1,0 +1,19 @@
+kind: evidence
+id: ev-pf-mensagens-kruschewsky-a-vorcaro-sobre-o-caso-alcidia
+classification: A
+proposition: Segundo relatório da PF divulgado pela revista piauí e noticiado pelo Estado de Minas, André Kruschewsky,
+  diretor jurídico do Banco Master, escreveu a Daniel Vorcaro sobre a ação da destilaria Alcídia no STF que o caso
+  "serve de paradigma para nossos casos", perguntou "Vamos nos movimentar?" e ofereceu "Se precisar de ajuda para
+  tirar de pauta, avisa!". O julgamento terminou 3 a 2 a favor da Alcídia em 01/10/2024.
+source_ids:
+- src-em-2026-09-11-pf-suspeita-vorcaro-influenciou-voto-toffoli
+attributed_to: Polícia Federal, em relatório divulgado pela revista piauí, segundo o Estado de Minas
+excerpt: Se precisar de ajuda para tirar de pauta, avisa!
+date: '2024'
+notes: A equipe não leu o relatório da PF; as datas das mensagens não foram publicadas. O gabinete de Dias Toffoli
+  afirmou que ele apresentou o mesmo voto no plenário virtual e no presencial.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

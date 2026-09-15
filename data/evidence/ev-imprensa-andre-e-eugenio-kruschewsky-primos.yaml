@@ -1,0 +1,17 @@
+kind: evidence
+id: ev-imprensa-andre-e-eugenio-kruschewsky-primos
+classification: C
+proposition: 'Três veículos distintos afirmam que André Kruschewsky Lima e Eugênio de Souza Kruschewsky são primos:
+  Bahia Notícias (11/04/2026), Coluna Esplanada na Tribuna do Norte (23/02/2026) e A Investigação (10/08/2026).'
+source_ids:
+- src-bahianoticias-2026-04-11-gabino-kruschewsky-pf
+- src-tribunadonorte-2026-02-23-esplanada-conexao-kruschewsky
+- src-ainvestigacao-2026-08-10-festa-augusto-lima-bahia
+date: '2026-02-23'
+notes: Nenhum documento primário lido pela equipe estabelece a genealogia; os dois atuam como advogados em processos
+  comuns no TJBA, o que não prova parentesco. Complementa ev-genealogia-kruschewsky-nao-confirmada-por-documento-primario.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

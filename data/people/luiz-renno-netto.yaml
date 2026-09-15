@@ -28,17 +28,18 @@ open_questions:
 - Não está claro se a frase "Faremos o mesmo em Maceió" (28/10/2025) se refere apenas à estruturação de um fundo
   para receber os ativos, ou a um plano mais amplo replicando o padrão RioPrevidência — Vorcaro não respondeu ao
   comentário, segundo o documento lido.
-- 'Cargo formal no banco: a imprensa o chama de ex-diretor jurídico, o BC o trata como administrador de fato, e
-  a PF atribui a diretoria jurídica a André Kruschewsky Lima, que a teria exercido até agosto de 2024. Período e
-  registro estatutário não localizados.'
 - 'O que o "500 mil mês" designa: não há documento que ligue o valor à Consult ou ao contato identificado pela imprensa
   como Kevin Marques.'
+- 'Cargo formal no banco: não consta do quadro de administradores do Master nos dados da Receita (consulta de 15/09/2026),
+  onde André Kruschewsky Lima figura como diretor desde 13/02/2023 e é identificado como diretor jurídico em 2024.
+  A imprensa o chama de ex-diretor jurídico e o BC o trata como administrador de fato; período não localizado.'
 source_ids:
 - src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
 - src-infomoney-2026-05-05-bc-indisponibilidade-lima-renno
 - src-sbtnews-2026-05-05-bc-congela-bens-ex-diretor-juridico
 - src-metropoles-2026-09-15-celular-vorcaro-500-mil-filho-nunes-marques
 - src-timesbrasil-2026-09-15-mensagens-vorcaro-citam-filho-nunes-marques
+- src-minhareceita-banco-master-qsa-2026-09-15
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'

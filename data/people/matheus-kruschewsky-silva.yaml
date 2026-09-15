@@ -1,0 +1,22 @@
+id: matheus-kruschewsky-silva
+kind: person
+name: Matheus Kruschewsky Silva
+category: executive
+role: Gerente comercial do Banco Master, segundo reportagem
+summary: Apresentado por A Investigação (10/08/2026) como gerente comercial do Banco Master e "familiar" de André
+  Kruschewsky Lima, ex-diretor jurídico do banco, que o representou em ação judicial de 2010. O parentesco não foi
+  estabelecido por documento e fica registrado como inferência.
+why_in_novelo: Seria mais um integrante da família Kruschewsky nos quadros ou no entorno jurídico do Banco Master.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação dele foi localizada.
+open_questions:
+- Cargo e período no Banco Master não foram confirmados em documento.
+- Existência e grau de parentesco com André Kruschewsky Lima não foram documentados.
+source_ids:
+- src-ainvestigacao-2026-08-10-festa-augusto-lima-bahia
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'
