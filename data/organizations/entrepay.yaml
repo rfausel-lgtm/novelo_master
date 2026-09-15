@@ -43,4 +43,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-10'
-updated_at: '2026-09-11'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/entrepay.png
+  source: Wikimedia Commons
+  author: Entrepay
+  license: CC0
+  original_url: https://commons.wikimedia.org/wiki/File:Logo-entrepay-principal-01.png
+  retrieved_at: 2026-09-14
+  alt: Logotipo de Entrepay

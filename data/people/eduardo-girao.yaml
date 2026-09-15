@@ -30,4 +30,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-13'
 created_at: '2026-09-13'
-updated_at: '2026-09-13'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/eduardo-girao.jpg
+  source: Wikimedia Commons
+  author: Agência Senado
+  license: Attribution
+  original_url: https://commons.wikimedia.org/wiki/File:Senador_Eduardo_Gir%C3%A3o.jpg
+  retrieved_at: 2026-09-14
+  alt: Retrato de Eduardo Girão

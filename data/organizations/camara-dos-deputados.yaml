@@ -16,4 +16,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/camara-dos-deputados.png
+  source: Wikimedia Commons
+  author: Congresso Nacional do Brasil
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:Logo_C%C3%A2mara_dos_Deputados_do_Brasil.png
+  retrieved_at: 2026-09-14
+  alt: Logotipo de Câmara dos Deputados

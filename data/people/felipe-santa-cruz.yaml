@@ -23,4 +23,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-05'
 created_at: '2026-09-05'
-updated_at: '2026-09-05'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/felipe-santa-cruz.jpg
+  source: Wikimedia Commons
+  author: Pablo Valadares/Câmara dos Deputados
+  license: CC BY 3.0
+  original_url: https://commons.wikimedia.org/wiki/File:Presidente_-_Ordem_dos_Advogados_do_Brasil,_Felipe_Santa_Cruz_(cropped).jpg
+  retrieved_at: 2026-09-14
+  alt: Retrato de Felipe Santa Cruz

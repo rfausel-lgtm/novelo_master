@@ -23,4 +23,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/banco-btg-pactual.png
+  source: Wikimedia Commons
+  author: Vitoraba
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:Btg-logo-blue.svg
+  retrieved_at: 2026-09-14
+  alt: Logotipo de BTG Pactual

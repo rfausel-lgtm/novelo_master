@@ -22,4 +22,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'
 created_at: '2026-09-09'
-updated_at: '2026-09-09'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/carmen-lucia.jpg
+  source: Wikimedia Commons
+  author: Rosinei Coutinho
+  license: Attribution
+  original_url: https://commons.wikimedia.org/wiki/File:C%C3%A1rmen_L%C3%BAcia_em_outubro_de_2019.jpg
+  retrieved_at: 2026-09-14
+  alt: Retrato de Cármen Lúcia
