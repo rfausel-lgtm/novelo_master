@@ -1,0 +1,26 @@
+id: ev-gabinete-davi-alcolumbre-confirma-irmao-em-nota-2022
+kind: evidence
+classification: C
+proposition: 'Em março de 2022, por ocasião da apreensão policial de cerca de R$ 500 mil pertencentes a
+  Alberto Samuel Alcolumbre Tobelem em São Paulo, o próprio gabinete/assessoria do senador Davi Alcolumbre,
+  provocado pela imprensa, confirmou institucionalmente o parentesco, referindo-se a Alberto Samuel como
+  "o irmão" do senador — manifestação contemporânea ao fato e independente da cobertura de 2026 sobre o
+  Banco Master/Amprev.'
+document_ids: []
+source_ids:
+- src-cnnbrasil-2022-03-pm-apreende-500mil-irmao-alcolumbre
+- src-metropoles-2022-03-pm-apreende-500mil-irmao-alcolumbre
+attributed_to_id: davi-alcolumbre
+excerpt: O senador estava no Amapá, soube do caso pela imprensa, e o dinheiro seria relativo à atividade
+  profissional do irmão.
+date: '2022-03-25'
+notes: 'Não é documento cartorial (certidão, TSE) — é uma manifestação institucional do gabinete do senador,
+  replicada por dois veículos editorialmente independentes (CNN Brasil e Metrópoles), num contexto (apreensão
+  policial de dinheiro) totalmente alheio ao Master, o que reduz a hipótese de fabricação para fins da
+  narrativa atual. Fica como confirmação institucional reforçada, não como prova documental definitiva —
+  o open_question sobre certidão/documento oficial permanece.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

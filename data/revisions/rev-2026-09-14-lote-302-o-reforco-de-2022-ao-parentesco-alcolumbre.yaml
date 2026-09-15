@@ -1,0 +1,37 @@
+id: rev-2026-09-14-lote-302-o-reforco-de-2022-ao-parentesco-alcolumbre
+kind: revision
+date: '2026-09-14'
+title: 'Lote 302 — um episódio de 2022 reforça, sem provar documentalmente, o parentesco Alcolumbre'
+summary: 'A pedido de Rafael, apuração dedicada (OSINT) buscou confirmar documentalmente o parentesco entre
+  Alberto Samuel Alcolumbre Tobelem e o senador Davi Alcolumbre, hoje sustentado apenas por reportagens de
+  2026. A ficha de candidato de Davi Alcolumbre no TSE não trouxe Alberto Samuel como candidato ou doador,
+  e nenhuma certidão ou registro público foi localizado. A apuração encontrou, porém, um reforço institucional
+  anterior e independente: em março de 2022, quando a PM de São Paulo apreendeu cerca de R$ 500 mil pertencentes
+  a Alberto Samuel, o próprio gabinete do senador, em nota à imprensa, referiu-se a ele como "o irmão" — episódio
+  coberto de forma editorialmente independente por CNN Brasil e Metrópoles, sem nenhuma relação com o Banco
+  Master. Não é documento cartorial, mas eleva a classificação da relação de A (só imprensa) para C (duas
+  fontes independentes) e reforça, sem fechar, o open_question já registrado no acervo.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 2
+  evidence: 1
+updated_relationships: 1
+corrections:
+- 'rel-alberto-samuel-alcolumbre-tobelem-davi-alcolumbre-familial: classificação elevada de A para C e
+  confiança de 0.5 para 0.65, com o reforço institucional de 2022.'
+- 'alberto-samuel-alcolumbre-tobelem: open_question sobre o parentesco atualizado com o achado de 2022 e
+  com o resultado negativo da tentativa de cruzamento via TSE.'
+author: orquestrador
+affected_ids:
+- alberto-samuel-alcolumbre-tobelem
+- davi-alcolumbre
+reason: Pedido explícito de Rafael, delegado a um agente OSINT, para fechar a lacuna documental do parentesco
+  entre Alberto Samuel Alcolumbre Tobelem e o senador Davi Alcolumbre — resultado parcial, sem documento
+  cartorial, registrado como tal.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'

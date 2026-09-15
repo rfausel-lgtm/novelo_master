@@ -1,0 +1,29 @@
+id: src-cnnbrasil-2022-03-pm-apreende-500mil-irmao-alcolumbre
+kind: source
+title: 'PM apreende R$ 500 mil em veículo e "irmão de Alcolumbre" é chamado a depor'
+publisher: CNN Brasil
+publication_date: '2022-03-25'
+retrieved_at: '2026-09-14'
+url: https://www.cnnbrasil.com.br/politica/pm-apreende-r-500-mil-em-veiculo-e-irmao-de-alcolumbre-e-chamado-a-depor/
+source_type: press
+summary: 'Em 25/03/2022, a Polícia Militar de São Paulo abordou um veículo na Av. Olavo Fontoura (zona norte
+  de SP) e apreendeu cerca de R$ 500 mil em espécie, pertencentes a Alberto Samuel Alcolumbre Tobelem. O
+  caso foi registrado no 13º Distrito Policial (Casa Verde) como localização/apreensão de objeto. A reportagem
+  registra que a assessoria do senador Davi Alcolumbre, provocada pela imprensa, declarou que o senador
+  estava no Amapá, soube do caso pela imprensa, e que o dinheiro seria relativo à atividade profissional
+  "do irmão" — formulação atribuída ao próprio gabinete do senador. O episódio é anterior e independente
+  da cobertura de 2026 sobre o Banco Master/Amprev.'
+notes: Localizado por WebSearch/WebFetch em investigação sobre o parentesco entre Alberto Samuel Alcolumbre
+  Tobelem e o senador Davi Alcolumbre, solicitada por Rafael e delegada a um agente OSINT. O mesmo episódio
+  foi coberto de forma independente por Metrópoles, CartaCapital e Gazeta do Povo, todos identificando
+  Alberto Samuel como irmão do senador.
+verification:
+  checked_at: '2026-09-14'
+  checked_by: orquestrador
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'

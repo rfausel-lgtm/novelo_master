@@ -30,8 +30,14 @@ cited_position:
   source_ids:
   - src-gazeta-2026-01-29-pf-mp-amprev
 open_questions:
-- O parentesco com o senador Davi Alcolumbre é afirmado pela imprensa; a equipe não o confirmou em documento
-  oficial.
+- 'O parentesco com o senador Davi Alcolumbre é afirmado pela imprensa; a equipe não o confirmou em documento
+  cartorial (certidão, registro civil, ficha TSE). Achado em 14/09/2026, a pedido de Rafael: em março de
+  2022, por ocasião de apreensão policial de cerca de R$ 500 mil pertencentes a Alberto Samuel em São Paulo,
+  o próprio gabinete do senador Davi Alcolumbre, em nota à imprensa, referiu-se a ele como "o irmão" —
+  manifestação institucional anterior e independente da cobertura de 2026 sobre o Master (ver
+  ev-gabinete-davi-alcolumbre-confirma-irmao-em-nota-2022). Tentativa de cruzar a ficha de candidato de
+  Davi Alcolumbre no TSE (nome dos pais) não encontrou Alberto Samuel como candidato ou doador registrado.
+  Permanece como fio aberto quanto a documento cartorial, agora com reforço institucional.'
 - As datas exatas de entrada e saída nos colegiados da Amprev não foram lidas pela equipe nos decretos
   correspondentes.
 - Não há defesa pública localizada.
@@ -51,8 +57,10 @@ source_ids:
 - src-gazetadopovo-2026-02-pf-mp-irmao-aliado-alcolumbre-alerta-ignorado
 - src-otempo-2026-02-fundo-irmao-aliado-alcolumbre-alerta-master
 - src-poder360-2026-08-girao-alcolumbre-barra-cpi-amprev
+- src-cnnbrasil-2022-03-pm-apreende-500mil-irmao-alcolumbre
+- src-metropoles-2022-03-pm-apreende-500mil-irmao-alcolumbre
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-13'
+reviewed_at: '2026-09-14'
 created_at: '2026-09-04'
-updated_at: '2026-09-13'
+updated_at: '2026-09-14'
