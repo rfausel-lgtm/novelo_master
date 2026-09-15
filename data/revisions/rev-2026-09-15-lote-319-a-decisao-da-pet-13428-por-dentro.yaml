@@ -1,0 +1,48 @@
+id: rev-2026-09-15-lote-319-a-decisao-da-pet-13428-por-dentro
+kind: revision
+date: '2026-09-15'
+title: 'Lote 319 — a decisão que mandou buscar Cezinha de Madureira, por dentro: três reclamações, R$ 3,5 milhões em êxito e a ressalva sobre os ministros'
+summary: 'Lida a íntegra da decisão que autorizou a 3ª fase da Operação Transparência: Pet 13.428/DF, assinada
+  pelo Min. Flávio Dino em 05/09/2026 e cumprida em 14/09 (o PDF, divulgado pelo Poder360, tinha texto
+  corrompido e foi lido por OCR, conferido nos trechos usados). A frente, que estava toda em classe C por
+  imprensa (lotes 314, 316 e 317), passa a classe D. O documento descreve a estrutura atribuída pela PF a
+  Mariângela Fialek, Valéria Rodrigues Linhares e o deputado Cezinha de Madureira; detalha três reclamações no
+  STF — a 79.545 (prefeita de Beberibe/CE, honorários de R$ 500 mil após o julgamento, "Despachei sim"), a
+  76.831 (memoriais endereçados nominalmente a Nunes Marques, André Mendonça e Gilmar Mendes) e a 81.608
+  (ex-secretário de Belford Roxo preso por desvio de R$ 112 milhões do FUNDEB e PNAE, com R$ 1 milhão cedido à
+  sociedade de Valéria e aditivo de R$ 2 milhões condicionado à soltura); registra a mensagem "Tu vais fazer
+  mais um!" de 16/10/2025; avoca os procedimentos sobre os R$ 510 mil de Congonhas; e indefere a busca no
+  gabinete parlamentar. Com o mesmo peso, a decisão transcreve a delimitação da PF: ministros citados aparecem
+  "exclusivamente como destinatários cogitados da influência anunciada" e "jamais como suspeitos", e os crimes
+  investigados se consumam mesmo que o magistrado nunca saiba da negociação feita em seu nome. O acervo não
+  identifica interlocutores que a própria PF declara desconhecidos, e não reproduz CPF, OAB, CNPJ de
+  sociedades individuais, endereços ou dados de voo presentes no documento.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 1
+  evidence: 5
+updated_relationships: 3
+corrections:
+- 'evt-2026-09-14-pf-operacao-transparencia-busca-cezinha: promovido de C para D com a decisão.'
+- 'rel-cezinha-de-madureira-nunes-marques-allegation, rel-mariangela-fialek-cezinha-de-madureira-professional,
+  rel-cezinha-de-madureira-valeria-rodrigues-linhares-familial: promovidas de C para D; a primeira segue
+  "disputada" e amarrada à evidência da delimitação negativa.'
+- 'cezinha-de-madureira: nova pergunta aberta sobre a decisão e a análise dos aparelhos.'
+author: orquestrador
+affected_ids:
+- cezinha-de-madureira
+- valeria-rodrigues-linhares
+- mariangela-fialek
+- nunes-marques
+- andre-mendonca
+- gilmar-mendes
+- flavio-dino
+reason: Linha 4 da revisão estrutural de 15/09/2026 (Operação Transparência) tinha como prioridade ler a decisão
+  que autorizou a 3ª fase; o fork delegado a localizou e transcreveu por OCR, e esta sessão conferiu o texto.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'

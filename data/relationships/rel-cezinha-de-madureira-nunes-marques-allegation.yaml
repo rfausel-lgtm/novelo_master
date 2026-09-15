@@ -19,10 +19,15 @@ event_ids:
 - evt-2026-09-14-pf-operacao-transparencia-busca-cezinha
 evidence_ids:
 - ev-pf-cezinha-fialek-nunes-marques-processos-honorarios-exito
+- ev-pet13428-reclamacoes-79545-e-76831
+- ev-pet13428-reclamacao-81608-denis-macedo
+- ev-pet13428-delimitacao-negativa-ministros
 source_ids:
 - src-metropoles-2026-09-14-cezinha-operadora-emendas-elo-stf
 - src-sbtnews-2026-09-14-dino-cezinha-nunes-marques
-document_ids: []
+- src-stf-pet13428-decisao-dino-05-09-2026
+document_ids:
+- doc-2026-09-05-decisao-dino-pet13428-cezinha
 cited_position:
 - by_id: flavio-dino
   kind: clarification

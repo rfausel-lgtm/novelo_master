@@ -31,6 +31,14 @@ cited_position:
   source_ids:
   - src-cnn-2026-09-02-mendonca-admite-encontro
 open_questions:
+- 'NOVO (15/09/2026, lote 319): lida a íntegra da decisão que autorizou as buscas — Pet 13.428/DF, assinada
+  pelo Min. Flávio Dino em 05/09/2026 e cumprida em 14/09. Ela sobe a frente de imprensa (classe C) para
+  documento (classe D): os episódios das Reclamações 79.545, 76.831 e 81.608, a estrutura de três pessoas
+  descrita pela PF, a avocação dos procedimentos sobre os R$ 510 mil de Congonhas e o indeferimento da busca
+  no gabinete parlamentar. A mesma decisão delimita que ministros citados aparecem só como "destinatários
+  cogitados da influência anunciada", nunca como suspeitos (ver ev-pet13428-delimitacao-negativa-ministros).
+  Pendente: análise dos aparelhos apreendidos em 14/09, que a PF aponta como única via para identificar
+  interlocutores e fluxos financeiros.'
 - 'NOVO (15/09/2026): a investigação de tráfico de influência (Operação Transparência) é formalmente
   distinta da apuração sobre o encontro Mendonça-Vorcaro — nenhuma fonte, até esta coleta, afirma que a PF
   ou o Min. Dino tenham ligado formalmente os dois fatos entre si; a proximidade temporal e o fato de ambos
@@ -56,6 +64,7 @@ source_ids:
 - src-sbtnews-2026-09-14-dino-cezinha-nunes-marques
 - src-brasil247-2021-09-12-mendonca-bispos-culto-madureira
 - src-opovobbc-2026-09-14-quem-e-cezinha-de-madureira
+- src-stf-pet13428-decisao-dino-05-09-2026
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'

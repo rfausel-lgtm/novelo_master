@@ -15,14 +15,18 @@ description: 'Terceira fase da Operação Transparência: quatro mandados de bus
   antes de Dino, na ADPF 1.196, citar o mesmo Cezinha de Madureira como intermediário do encontro entre o
   Min. André Mendonça e Daniel Vorcaro em 14/03/2025 (ver evt-2026-09-15-dino-decisao-adpf1196-converte-diligencia
   e rel-daniel-vorcaro-andre-mendonca-allegation).'
-evidence_class: C
-status: unverified
+evidence_class: D
+status: verified
 evidence_ids:
 - ev-pf-operacao-transparencia-busca-cezinha-madureira
+- ev-pet13428-estrutura-e-alcance-da-busca
+- ev-pet13428-delimitacao-negativa-ministros
 source_ids:
 - src-cnnbrasil-2026-09-14-pf-operacao-trafico-influencia-cezinha
 - src-gazetadopovo-2026-09-14-pf-cezinha-suspeita-trafico-influencia
-document_ids: []
+- src-stf-pet13428-decisao-dino-05-09-2026
+document_ids:
+- doc-2026-09-05-decisao-dino-pet13428-cezinha
 public_act_ids: []
 review_status: published
 reviewer: orquestrador

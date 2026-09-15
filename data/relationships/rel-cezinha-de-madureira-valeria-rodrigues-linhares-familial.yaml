@@ -9,17 +9,20 @@ description: Cezinha de Madureira e a advogada Valéria Rodrigues Linhares são 
   terceira fase da Operação Transparência (14/09/2026), autorizada pelo Min. Flávio Dino, por suspeita de
   tráfico de influência sobre tribunais superiores. Linhares teve R$ 510 mil em espécie apreendidos em
   25/08/2026 no Aeroporto de Congonhas.
-evidence_class: C
-confidence: 0.85
+evidence_class: D
+confidence: 0.95
 status: verified
 event_ids:
 - evt-2026-09-14-pf-operacao-transparencia-busca-cezinha
 evidence_ids:
 - ev-pf-operacao-transparencia-busca-cezinha-madureira
+- ev-pet13428-estrutura-e-alcance-da-busca
 source_ids:
 - src-cnnbrasil-2026-09-14-pf-operacao-trafico-influencia-cezinha
 - src-gazetadopovo-2026-09-14-pf-cezinha-suspeita-trafico-influencia
-document_ids: []
+- src-stf-pet13428-decisao-dino-05-09-2026
+document_ids:
+- doc-2026-09-05-decisao-dino-pet13428-cezinha
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'

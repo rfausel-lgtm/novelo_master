@@ -1,0 +1,28 @@
+id: ev-pet13428-delimitacao-negativa-ministros
+kind: evidence
+classification: D
+proposition: 'A representação da PF transcrita na decisão da Pet 13.428 impõe "delimitação negativa e expressa
+  do objeto": não são objeto da apuração condutas de ministros do STF, do STJ, do TSE ou de quaisquer outros
+  magistrados; "não há, nos elementos reunidos, notícia de solicitação, de aceitação ou de recebimento de
+  vantagem indevida por integrante do Poder Judiciário, tampouco de prolação de ato jurisdicional em
+  desconformidade com o direito"; os magistrados citados nos diálogos "comparecem nestes autos exclusivamente
+  como destinatários cogitados da influência anunciada pelos investigados [...] e jamais como suspeitos". A PF
+  explica que os crimes de exploração de prestígio e tráfico de influência são formais: consumam-se com a
+  solicitação ou o recebimento de vantagem "a pretexto de influir", sendo irrelevantes "a existência real da
+  influência anunciada", seu efetivo exercício e "qualquer adesão do agente público cogitado — que pode
+  inclusive jamais tomar conhecimento da negociação levada a efeito em seu nome". Nenhuma diligência foi pedida
+  contra gabinete judicial.'
+document_ids:
+- doc-2026-09-05-decisao-dino-pet13428-cezinha
+source_ids:
+- src-stf-pet13428-decisao-dino-05-09-2026
+attributed_to_id: flavio-dino
+date: '2026-09-05'
+notes: Evidência de leitura obrigatória para qualquer ligação entre os investigados e ministros citados. A
+  representação prevê que, surgindo elemento indicativo de conduta atribuível a magistrado, o relator e o MPF
+  serão informados, sem iniciativa autônoma da polícia.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

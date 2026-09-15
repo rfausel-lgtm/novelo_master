@@ -10,17 +10,21 @@ description: Segundo a Operação Transparência da PF, Mariângela Fialek envia
   memoriais de processos sob relatoria de ministros do STF e preparava contratos de honorários de êxito
   condicionados a julgamentos, em nome do escritório de Valéria Rodrigues Linhares. Nenhum ministro citado
   é investigado ou suspeito de participação.
-evidence_class: C
-confidence: 0.7
+evidence_class: D
+confidence: 0.8
 status: unverified
 event_ids:
 - evt-2026-09-14-pf-operacao-transparencia-busca-cezinha
 evidence_ids:
 - ev-pf-cezinha-fialek-nunes-marques-processos-honorarios-exito
+- ev-pet13428-estrutura-e-alcance-da-busca
+- ev-pet13428-proximidade-e-tu-vais-fazer-mais-um
 source_ids:
 - src-metropoles-2026-09-14-cezinha-operadora-emendas-elo-stf
 - src-sbtnews-2026-09-14-dino-cezinha-nunes-marques
-document_ids: []
+- src-stf-pet13428-decisao-dino-05-09-2026
+document_ids:
+- doc-2026-09-05-decisao-dino-pet13428-cezinha
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'
