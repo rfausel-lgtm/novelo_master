@@ -5,9 +5,13 @@ doc_type: official_report
 date: 2026-07
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
-summary: 'Relatório enviado ao STF, com sigilo retirado por André Mendonça em 30/07/2026 (PDF de 33 MB
-  publicado pelo Poder360): indícios preliminares de vantagens econômicas a Wagner por Augusto Lima e
-  Vorcaro; ao menos 70 contatos entre Lima e o senador. Não lido pela equipe.'
+summary: 'Relatório enviado ao STF, com sigilo retirado por André Mendonça em 30/07/2026 (PDF de 33 MB e 98
+  páginas publicado pelo Poder360): indícios preliminares de vantagens econômicas a Wagner por Augusto Lima e
+  Vorcaro. CORRIGIDO (lote 323): este registro dizia "não lido pela equipe", mas é o mesmo PDF registrado
+  também como doc-2026-07-representacao-pf-inq-5026-pet-16032 e doc-2026-07-31-representacao-pf-9a-fase-wagner,
+  lido na íntegra desde o lote 8. Os três registros foram mantidos porque cada um sustenta evidências já
+  publicadas.'
+url: https://static.poder360.com.br/uploads/2026/07/relatorio-pf-jaques-wagner-master-31jul26.pdf
 is_official: true
 related_entity_ids:
 - jaques-wagner

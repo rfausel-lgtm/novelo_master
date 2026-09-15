@@ -1,0 +1,47 @@
+id: rev-2026-09-15-lote-323-o-relatorio-de-wagner-ja-lido-e-a-cautelar-do-rio
+kind: revision
+date: '2026-09-15'
+title: 'Lote 323 — o relatório da PF sobre Wagner já estava lido, e dizia outra coisa sobre quem apresentou Vorcaro'
+summary: 'Saneamento a partir dos fios herdados do estado da pesquisa. O verbete de Jaques Wagner registrava que o
+  relatório da PF de 30/07/2026 (33 MB) nunca fora lido; a conferência mostrou que o mesmo PDF de 98 páginas está no
+  acervo sob três registros de documento e foi lido na íntegra desde o lote 8 — a nota antiga vinha de um registro
+  duplicado criado a partir de síntese de imprensa. A releitura do texto corrigiu dois pontos que esse registro
+  sustentava: a contagem de "ao menos 70 contatos" entre Augusto Lima e o senador não aparece no documento, e a
+  proximidade de Wagner com Vorcaro não é atribuída a Lima — segundo a PF, os primeiros contatos foram intermediados
+  por Guilherme Henrique Sodré Martins, o "Tio Guiga", melhor amigo do senador e pai de seu enteado, que em 19/06/2024
+  escreveu a Vorcaro colocando-se à disposição. Os três registros do documento foram mantidos, com referência cruzada.
+  O lote fecha também o fio da cautelar do Rio: a API do DJEN mostra que a Justiça estadual declinou da competência
+  para a Justiça Federal em 10/03/2026, com base constitucional genérica e sem mencionar o Banco Central, e manteve a
+  retenção de repasses ao Master por risco aos cofres públicos; segundo a imprensa, o TRF2 negou recurso do banco e o
+  caso seguiu ao STF em maio, sob número ainda não localizado.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 1
+  sources: 2
+  evidence: 3
+updated_relationships: 0
+corrections:
+- 'jaques-wagner: retirada a nota de que o relatório da PF de 30/07/2026 não havia sido lido.'
+- 'doc-pf-relatorio-wagner-2026-07, doc-2026-07-31-representacao-pf-9a-fase-wagner e
+  doc-2026-07-representacao-pf-inq-5026-pet-16032: anotada a duplicidade de registro do mesmo PDF.'
+- 'ev-pf-70-contatos-lima-wagner e evt-2026-07-30-mendonca-retira-sigilo-relatorio-pf-wagner: retiradas a contagem de
+  70 contatos como fato do relatório e a intermediação de Lima; o documento atribui os primeiros contatos com Vorcaro
+  a Guilherme Sodré.'
+- 'rioprevidencia: trajeto da cautelar documentado; a associação da mudança de competência a pedido do Banco Central
+  não aparece na decisão de declínio.'
+author: orquestrador
+affected_ids:
+- jaques-wagner
+- augusto-lima
+- guilherme-henrique-sodre-martins
+- daniel-vorcaro
+- rioprevidencia
+- banco-master
+reason: Continuação da revisão estrutural de 15/09/2026 (fios herdados do estado de 05/09); a cautelar do Rio foi
+  levantada por pesquisa delegada e conferida por esta sessão na API do DJEN.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'

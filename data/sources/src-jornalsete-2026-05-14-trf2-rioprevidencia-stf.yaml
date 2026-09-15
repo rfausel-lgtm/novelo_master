@@ -1,0 +1,24 @@
+id: src-jornalsete-2026-05-14-trf2-rioprevidencia-stf
+kind: source
+title: 'Rioprevidência: processo de recuperação de investimento bilionário no Banco Master chega ao STF'
+publisher: Jornal Sete
+publication_date: '2026-05-14'
+retrieved_at: '2026-09-15'
+url: https://jornalsete.com.br/rioprevidencia-processo-investimento-bilionario-stf/
+source_type: press
+summary: 'Informa que o desembargador federal Mauro Braga, do TRF da 2ª Região, negou em liminar recurso do Banco
+  Master e que o processo em que o Rioprevidência busca recuperar os investimentos no banco foi encaminhado ao STF,
+  mantida a autorização para o Rioprevidência reter parcelas de consignados que seriam repassadas ao Master. Não
+  informa número de processo.'
+notes: Lida por esta sessão via WebFetch direto. A Band publicou o mesmo fato em 15/05/2026 ("TRF-2 envia caso da
+  Rioprevidência para o Supremo"), não lida na íntegra.
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (via WebFetch direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

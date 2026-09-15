@@ -1,0 +1,21 @@
+id: ev-cautelar-rio-declinada-a-justica-federal-tutela-mantida
+kind: evidence
+classification: D
+proposition: 'Em 10/03/2026, a 2ª Vara da Fazenda Pública da Capital do Rio de Janeiro declinou da competência para
+  a Justiça Federal na cautelar do Estado do Rio e do Rioprevidência contra o Banco Master (3049678-51.2025.8.19.0001),
+  com base apenas no art. 109, I, da Constituição e na Súmula 150 do STJ. No dia seguinte, acolheu embargos para
+  manter a tutela já deferida — que permitia ao Rioprevidência reter repasses de consignados ao banco — "haja vista o
+  potencial efeito lesivo aos cofres públicos de sua revogação".'
+document_ids:
+- doc-2026-03-10-declinio-cautelar-rioprevidencia-tjrj
+source_ids:
+- src-djen-cnj-cautelar-3049678-2025-tjrj
+date: '2026-03-10'
+notes: 'A decisão não nomeia o Banco Central nem detalha o ente federal interessado; o acervo associava a mudança de
+  competência a pedido de intervenção do BC, petição que não foi lida. Explica por que o caso do Rio saiu da Justiça
+  estadual, ao contrário da cautelar gêmea do Amapá.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -53,16 +53,20 @@ não têm fonte ficam fora deste arquivo, que é público.
    de um dos interlocutores citados nas mensagens; não presumir.
    Pendentes: os servidores Garigham Amarante Pinto e Nara Brum; os outros casos citados pela PF; o destino
    do pedido da Mesa Diretora da Câmara para anular as provas contra Fialek.
-5. **Rioprevidência e o "dono".** Ricardo Siqueira prometeu nomear à PF o político a quem se referia;
+5. **Rioprevidência e o "dono".** Ricardo Siqueira prometeu, em entrevista de 31/05/2026 (data corrigida no lote
+   321), nomear à PF o político a quem se referia, e até 15/09 não há notícia de que o tenha feito;
    Tharcio Nascimento Salgado segue sem relação por decisão editorial até a leitura da decisão sigilosa da
    Pet 15.686; números dos autos no STF e da ação da PGE-RJ não localizados.
 6. **Sefer e Benjamim Botelho de Almeida.** O autor da arguição de suspeição contra Mendonça é o controlador
    da Sefer (mesma entidade no acervo). Processos parados que podem gerar fato datado: PAS CVM
    19957.008699/2019-01 (sem movimento público desde 05/2022) e Apelação Criminal 5003557-34.2021.4.03.6181
    no TRF3 (vista desde 11/06/2026). Verbete de Ascendino Madureira Garcia sem revisão desde 03/09.
-7. **Fios herdados do estado de 05/09 ainda abertos:** cautelar do Rio 3049678-51.2025.8.19.0001; quadro
-   societário da PKL One na Junta Comercial de SP; relatório do COAF sobre o Metrópoles; relatório da PF de
-   30/07/2026 sobre Jaques Wagner (33 MB, não lido).
+7. **Fios herdados do estado de 05/09:** a cautelar do Rio 3049678-51.2025.8.19.0001 foi resolvida até a
+   Justiça Federal no lote 323 (DJEN: declínio em 10/03/2026, tutela mantida em 11/03); o número do caso no STF
+   não foi localizado nem por busca por parte no portal público. O relatório da PF de 30/07/2026 sobre Jaques
+   Wagner **já estava lido desde o lote 8** — a nota de "não lido" vinha de registro duplicado do mesmo PDF, e a
+   releitura corrigiu a atribuição da intermediação com Vorcaro (Guilherme Sodré, não Augusto Lima). Seguem
+   abertos: quadro societário da PKL One na Junta Comercial de SP e relatório do COAF sobre o Metrópoles.
 
 **Transversal:** Flávio Dino é relator de três frentes ativas (ADPF 1.196, Operação Transparência, Pet
 16.669) e tem grau 4 no grafo — suas decisões estão em evidências, não em relações. Aplicar a mesma régua de

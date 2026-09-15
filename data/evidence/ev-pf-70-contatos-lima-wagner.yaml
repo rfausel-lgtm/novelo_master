@@ -1,13 +1,16 @@
 id: ev-pf-70-contatos-lima-wagner
 kind: evidence
 classification: A
-proposition: O relatório da PF registra ao menos 70 contatos diretos entre Augusto Lima e Wagner e afirma
-  que a proximidade do senador com Vorcaro se deu por intermédio de Lima.
+proposition: 'Segundo síntese do Poder360, o relatório da PF registraria ao menos 70 contatos diretos entre Augusto
+  Lima e Wagner. CORRIGIDO (lote 323): a contagem de 70 contatos não aparece no texto da representação de 98 páginas
+  lido pela equipe, e a afirmação anterior de que a proximidade do senador com Vorcaro se deu "por intermédio de
+  Lima" foi retirada — o documento atribui os primeiros contatos a Guilherme Sodré (ver
+  ev-pf-primeiros-contatos-wagner-vorcaro-via-guilherme-sodre).'
 document_ids:
 - doc-pf-relatorio-wagner-2026-07
 source_ids:
 - src-poder360-2026-07-31-pf-wagner-relatorio
-attributed_to_id: policia-federal
+attributed_to: Poder360, síntese de 31/07/2026 do relatório da PF
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

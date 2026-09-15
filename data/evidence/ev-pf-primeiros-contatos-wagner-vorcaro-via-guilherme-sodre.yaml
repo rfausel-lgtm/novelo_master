@@ -1,0 +1,23 @@
+id: ev-pf-primeiros-contatos-wagner-vorcaro-via-guilherme-sodre
+kind: evidence
+classification: D
+proposition: 'A representação da PF de 98 páginas no INQ 5026/PET 16.032 afirma que, "pelo que consta nos diálogos,
+  os primeiros contatos entre o Senador e DANIEL VORCARO foram intermediados por GUILHERME HENRIQUE SODRÉ MARTINS,
+  conhecido pelo apelido Tio Guiga, reconhecido pelo próprio Senador JAQUES WAGNER como seu melhor amigo", que em
+  19/06/2024 enviou mensagens a Vorcaro "apresentando-se como Guiga e colocando-se à disposição". A PF o descreve
+  como "intermediário historicamente vinculado ao Senador" e pai do enteado de Wagner.'
+document_ids:
+- doc-2026-07-31-representacao-pf-9a-fase-wagner
+source_ids:
+- src-pf-representacao-9a-fase-wagner-pdf
+attributed_to_id: policia-federal
+date: '2024-06-19'
+notes: 'Corrige registro anterior do acervo (evento de 30/07/2026 e evidência ev-pf-70-contatos-lima-wagner) que,
+  com base em síntese de imprensa, atribuía a Augusto Lima a intermediação da proximidade entre Wagner e Vorcaro. O
+  documento lido atribui os primeiros contatos a Guilherme Sodré; Lima aparece na sequência de diálogos sobre a
+  Emenda 11 da PEC 65/2023 e nos pagamentos à BN Financeira. Trecho na página 76 do PDF.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

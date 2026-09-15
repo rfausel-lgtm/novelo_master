@@ -10,11 +10,13 @@ participant_ids:
 - augusto-lima
 - daniel-vorcaro
 - policia-federal
-description: O relatório, tornado público em 30/07/2026, aponta indícios que a PF classifica como preliminares
-  e indiciários de 'vantagens econômicas diversas' a Wagner por Augusto Lima e Vorcaro (incluindo uso
-  gratuito de aeronaves) e registra ao menos 70 contatos entre Lima e o senador; afirma que a proximidade
-  com Vorcaro se deu por intermédio de Lima. A PF ressalva que a presença de pessoas no organograma não
-  implica participação na fraude.
+description: 'O relatório, tornado público em 30/07/2026, aponta indícios que a PF classifica como preliminares
+  e indiciários de ''vantagens econômicas diversas'' a Wagner por Augusto Lima e Vorcaro (incluindo uso
+  gratuito de aeronaves e ingressos para show acima de R$ 60 mil). A PF ressalva que a presença de pessoas no
+  organograma não implica participação na fraude. CORRIGIDO (lote 323): este texto dizia, a partir de síntese de
+  imprensa, que o relatório registra "ao menos 70 contatos" entre Lima e o senador e que a proximidade com Vorcaro
+  se deu por intermédio de Lima; na leitura do documento, a contagem não aparece e os primeiros contatos com
+  Vorcaro são atribuídos a Guilherme Henrique Sodré Martins.'
 evidence_class: A
 status: disputed
 evidence_ids:
