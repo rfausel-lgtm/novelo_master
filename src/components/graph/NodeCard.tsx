@@ -7,6 +7,8 @@ import { NODE_CATEGORY_LABEL, type GraphNode } from "@/lib/graph/types";
 import { NODE_COLOR_FALLBACK } from "@/lib/graph/style";
 import { formatDatePT } from "@/lib/graph/dates";
 import { neighborhood } from "@/lib/graph/algorithms";
+import { classeMaisForte } from "@/lib/graph/hit";
+import type { EvidenceClass } from "@/lib/schema";
 import {
   EVENT_TYPE_LABEL,
   ORG_TYPE_LABEL,
@@ -24,6 +26,8 @@ interface NodeCardProps {
   pinned: boolean;
   onClose: () => void;
   onSelectNode: (id: string) => void;
+  /** Abre o card da conexão: o caminho que dispensa mirar a linha no canvas. */
+  onSelectEdge: (id: string) => void;
   onFocus: (depth: 1 | 2 | 3 | null) => void;
   onAddToSelection: () => void;
   onPathFrom: () => void;
@@ -89,6 +93,7 @@ export function NodeCard(props: NodeCardProps) {
     pinned,
     onClose,
     onSelectNode,
+    onSelectEdge,
     onFocus,
     onAddToSelection,
     onPathFrom,
@@ -99,15 +104,30 @@ export function NodeCard(props: NodeCardProps) {
   const [showAll, setShowAll] = useState(false);
 
   const connections = useMemo(() => {
-    const seen = new Map<string, { node: GraphNode; edgeLabel: string; count: number }>();
+    const seen = new Map<string, Conexao>();
     for (const a of index.adjacency.get(node.id) ?? []) {
       if (!visible.edges.has(a.edge) || !visible.nodes.has(a.other)) continue;
       const other = index.nodeById.get(a.other);
       const edge = index.edgeById.get(a.edge);
       if (!other || !edge) continue;
       const hit = seen.get(other.id);
-      if (hit) hit.count++;
-      else seen.set(other.id, { node: other, edgeLabel: edge.label, count: 1 });
+      if (!hit) {
+        seen.set(other.id, {
+          node: other,
+          edgeId: edge.id,
+          edgeLabel: edge.label,
+          cls: edge.evidence_class,
+          count: 1,
+        });
+        continue;
+      }
+      hit.count++;
+      /* Mais de uma ligação com o mesmo nó: a linha mostra, e "ver ligação" abre, a mais forte. */
+      if (classeMaisForte(edge.evidence_class, hit.cls)) {
+        hit.edgeId = edge.id;
+        hit.edgeLabel = edge.label;
+        hit.cls = edge.evidence_class;
+      }
     }
     return [...seen.values()].sort((a, b) => b.node.degree - a.node.degree);
   }, [index, node.id, visible]);
@@ -317,12 +337,12 @@ export function NodeCard(props: NodeCardProps) {
       {isEvent ? (
         <>
           <SectionHeading>Participantes ({participants.length})</SectionHeading>
-          <ConnectionList items={shown} onSelectNode={onSelectNode} />
+          <ConnectionList items={shown} onSelectNode={onSelectNode} onSelectEdge={onSelectEdge} />
         </>
       ) : (
         <>
           <SectionHeading>Principais conexões ({connections.length})</SectionHeading>
-          <ConnectionList items={shown} onSelectNode={onSelectNode} />
+          <ConnectionList items={shown} onSelectNode={onSelectNode} onSelectEdge={onSelectEdge} />
         </>
       )}
       {connections.length > 8 && (
@@ -355,7 +375,11 @@ export function NodeCard(props: NodeCardProps) {
                   className="text-fg hover:underline"
                 >
                   {t.other.label}
-                </button>
+                </button>{" "}
+                <VerLigacao
+                  rotulo={`Ver a ligação com ${t.other.label}, de ${formatDatePT(t.date)}`}
+                  onClick={() => onSelectEdge(t.edgeId)}
+                />
               </li>
             ))}
             {timeline.length > 12 && (
@@ -368,22 +392,47 @@ export function NodeCard(props: NodeCardProps) {
   );
 }
 
+/** Conexão agregada por outro nó; `edgeId` é a ligação de classe mais forte com ele. */
+interface Conexao {
+  node: GraphNode;
+  edgeId: string;
+  edgeLabel: string;
+  cls: EvidenceClass;
+  count: number;
+}
+
+/** Abre o card da conexão sem precisar acertar a linha no canvas. */
+function VerLigacao({ rotulo, onClick }: { rotulo: string; onClick: () => void }) {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      aria-label={rotulo}
+      className="text-accent hover:bg-bg-3 inline-flex min-h-7 shrink-0 items-center rounded px-1.5 text-[10.5px] whitespace-nowrap hover:underline"
+    >
+      ver ligação
+    </button>
+  );
+}
+
 function ConnectionList({
   items,
   onSelectNode,
+  onSelectEdge,
 }: {
-  items: { node: GraphNode; edgeLabel: string; count: number }[];
+  items: Conexao[];
   onSelectNode: (id: string) => void;
+  onSelectEdge: (id: string) => void;
 }) {
   if (items.length === 0) return <p className="text-fg-3 text-xs">Nenhuma conexão registrada.</p>;
   return (
     <ul className="divide-border divide-y">
       {items.map((c) => (
-        <li key={c.node.id}>
+        <li key={c.node.id} className="flex items-center gap-1">
           <button
             type="button"
             onClick={() => onSelectNode(c.node.id)}
-            className="hover:bg-bg-3 flex w-full items-center gap-2 rounded px-1 py-1.5 text-left"
+            className="hover:bg-bg-3 flex min-w-0 flex-1 items-center gap-2 rounded px-1 py-1.5 text-left"
           >
             <span
               aria-hidden="true"
@@ -404,6 +453,10 @@ function ConnectionList({
               {c.node.degree} ↔
             </span>
           </button>
+          <VerLigacao
+            rotulo={`Ver a ligação com ${c.node.label}`}
+            onClick={() => onSelectEdge(c.edgeId)}
+          />
         </li>
       ))}
     </ul>

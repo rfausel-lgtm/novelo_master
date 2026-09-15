@@ -59,6 +59,19 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
     await expect(dossier).toHaveAttribute("href", /\/pessoas\//);
   });
 
+  test("ficha do nó abre o card da conexão sem mirar a linha", async ({ page }) => {
+    await abrirBusca(page);
+    const search = page.getByRole("combobox", { name: /Buscar pessoa/i });
+    await search.fill("Pessoa Exemplo 2");
+    await page.getByRole("option").first().click();
+    await expect(page.getByRole("heading", { name: /Pessoa Exemplo 2/ })).toBeVisible();
+    await page
+      .getByRole("button", { name: /^Ver a ligação com / })
+      .first()
+      .click();
+    await expect(page.getByText("Por que estes nós estão conectados?")).toBeVisible();
+  });
+
   test("modo somente fontes oficiais exibe banner e reduz a contagem", async ({ page }) => {
     const before = await page
       .getByText(/\d+ nós · \d+ arestas/)

@@ -435,6 +435,7 @@ export function GraphExplorer() {
             pinned={state.pinnedNodes.includes(selectedNode.id)}
             onClose={() => dispatch({ type: "panel", panel: null })}
             onSelectNode={(id) => selectNode(id, true)}
+            onSelectEdge={(id) => dispatch({ type: "selectEdge", id })}
             onFocus={(depth) =>
               depth
                 ? dispatch({ type: "focus", root: selectedNode.id, depth })
