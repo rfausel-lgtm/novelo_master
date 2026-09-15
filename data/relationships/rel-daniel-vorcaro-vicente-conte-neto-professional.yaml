@@ -1,0 +1,29 @@
+id: rel-daniel-vorcaro-vicente-conte-neto-professional
+kind: relationship
+from_id: daniel-vorcaro
+to_id: vicente-conte-neto
+relationship_type: professional
+directed: false
+label: parceria desde 2011 (segundo a imprensa)
+start_date: '2011'
+description: 'Duas fontes, de naturezas distintas, apontam a relação: a Gazeta Mercantil (24/11/2025)
+  descreve aproximação desde 2011, com projeto hoteleiro e depois a compra do Banco Máxima; e a defesa de
+  Roberto Schumann, no julgamento da CVM citado pelo O Bastidor e transcrito na decisão da ADPF 1.196,
+  "destacou a relação entre Vicente e o banqueiro Daniel Vorcaro" — argumento de defesa de terceiro, não fato
+  apurado. Nenhuma fonte descreve a natureza atual da relação.'
+evidence_class: A
+confidence: 0.55
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-gazetamercantil-vorcaro-proximo-irmaos-conte-desde-2011
+- ev-adpf1196-cita-vicente-conte-neto-cortel-zion
+source_ids:
+- src-gazetamercantil-2025-11-24-dossie-vorcaro-irmaos-conte
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

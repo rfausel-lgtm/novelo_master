@@ -1,0 +1,54 @@
+id: rev-2026-09-15-lote-318-os-irmaos-conte-e-as-ligacoes-que-faltavam
+kind: revision
+date: '2026-09-15'
+title: 'Lote 318 — os irmãos Conte, do bloqueio bilionário aos cemitérios, e as ligações que faltavam'
+summary: 'Lote de consolidação a partir de revisão estrutural do grafo pelo investigador-chefe. Principal
+  achado: Vicente Conte Neto, cujo verbete dizia "o acervo não sabe quem é" apesar de ter bens bloqueados em
+  R$ 1,012 bilhão na Pet 15.198, é descrito na decisão do Min. Flávio Dino na ADPF 1.196 (lote 313, via
+  reportagem do O Bastidor) como conselheiro da Cortel, diretor da Zion Capital e cofundador do fundo de
+  cemitérios Brazilian Graveyard — e pela Gazeta Mercantil como irmão de Antônio Augusto Conte (também
+  bloqueado no mesmo valor), herdeiro de administradora de cemitérios e parceiro de Vorcaro desde 2011, numa
+  relação que teria chegado à compra do Banco Máxima. Que os alvos do bloqueio sejam esses irmãos fica
+  registrado como inferência, não como fato; e fica anotada a tensão com as conversas de 2024 em que Antônio
+  Augusto aparece como desafeto de Vorcaro. O lote também transforma em ligações do grafo fatos já
+  documentados no acervo que só existiam em texto: Zettel repassou a Vorcaro o contato de Ricardo Siqueira
+  um dia antes do credenciamento do Master no Rioprevidência; a comissão de 0,6% de Ricardo Siqueira; seu
+  papel de intermediário no Rioprevidência; o Instituto ITER como instituição fundada por Mendonça; o perito
+  João Cláudio Nabas na PF; e as duas holdings controladoras do Master nomeadas pelo Banco Central. Por
+  decisão editorial já registrada no acervo, Tharcio Nascimento Salgado segue sem ligação até que a decisão
+  sigilosa da Pet 15.686 seja lida; e não foi criada ligação entre o perito suspeito de vazamento e a
+  jornalista citada, para não expor relação de fonte jornalística além do que o texto já registra.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 11
+  sources: 1
+  evidence: 3
+updated_relationships: 0
+corrections:
+- 'vicente-conte-neto: verbete reescrito com identidade e ocupação segundo a imprensa; perguntas abertas
+  parcialmente resolvidas.'
+- 'antonio-augusto-conte: pergunta aberta sobre identidade parcialmente resolvida, com a tensão 2011 x 2024.'
+author: orquestrador
+affected_ids:
+- vicente-conte-neto
+- antonio-augusto-conte
+- daniel-vorcaro
+- cortel-sp
+- fabiano-zettel
+- ricardo-siqueira-rodrigues
+- rioprevidencia
+- instituto-iter
+- andre-mendonca
+- joao-claudio-nabas
+- policia-federal
+- master-holding-financeira
+- 113-investimentos-e-participacoes
+- banco-master
+reason: Revisão estrutural do grafo pedida por Rafael (15/09/2026) identificou entidades centrais sem
+  nenhuma relação e perguntas abertas cuja resposta já estava em documento do próprio acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'

@@ -1,0 +1,22 @@
+id: ev-conte-bloqueados-pet15198-coincidem-com-irmaos-da-imprensa
+kind: evidence
+classification: I
+proposition: 'Os dois alvos de busca e bloqueio de R$ 1.012.025.000,00 cada na Pet 15.198 — Antônio Augusto
+  Conte e Vicente Conte Neto — provavelmente são os irmãos descritos pela imprensa como herdeiros de uma
+  administradora de cemitérios, próximos de Vorcaro desde 2011, sendo Vicente conselheiro da Cortel e diretor
+  da Zion Capital.'
+inference_basis: 'Coincidência do PAR de nomes (os mesmos dois, juntos) entre a lista de alvos da Pet 15.198
+  e o dossiê da Gazeta Mercantil, somada ao bloqueio no mesmo valor exato para ambos, compatível com
+  tratamento conjunto de parentes. Nenhum documento lido afirma a identidade: a representação e a decisão da
+  Pet 15.198 não descrevem ocupação nem parentesco, e as fontes de imprensa não mencionam o bloqueio.'
+document_ids: []
+source_ids:
+- src-gazetamercantil-2025-11-24-dossie-vorcaro-irmaos-conte
+- src-stf-pet15198-peca006-manifestacao-pgr-representacao
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+date: '2026-09-15'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

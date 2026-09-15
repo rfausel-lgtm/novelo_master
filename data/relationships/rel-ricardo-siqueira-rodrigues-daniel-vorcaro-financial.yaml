@@ -1,0 +1,27 @@
+id: rel-ricardo-siqueira-rodrigues-daniel-vorcaro-financial
+kind: relationship
+from_id: ricardo-siqueira-rodrigues
+to_id: daniel-vorcaro
+relationship_type: financial
+directed: true
+label: comissão de 0,6% sobre captação (mensagem de 18/06/2024)
+start_date: '2023-10-18'
+description: Em mensagem de 18/06/2024 a Vorcaro, Ricardo Siqueira informa ter captado R$ 1,2 bilhão e
+  calcula o próprio "bônus de desempenho por coordenação" em 0,6% — R$ 7,2 milhões. A PF rastreia seis
+  pagamentos à Mídias Promotora entre dezembro de 2023 e julho de 2024, somando R$ 41,9 milhões, com ressalva
+  de possível dupla contagem.
+evidence_class: D
+confidence: 0.8
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-comissao-ricardo-siqueira-06-por-cento-e-41-9-milhoes-rastreados
+source_ids:
+- src-stf-pet15497-ipja-886269-cap8-13-comissao-e-lfs
+document_ids:
+- doc-2026-02-20-ipja-886269-documento-comprobatorio-ricardo-siqueira
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

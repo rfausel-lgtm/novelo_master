@@ -1,0 +1,27 @@
+id: rel-daniel-vorcaro-antonio-augusto-conte-professional
+kind: relationship
+from_id: daniel-vorcaro
+to_id: antonio-augusto-conte
+relationship_type: professional
+directed: false
+label: parceria desde 2011 (imprensa); desafeto em 2024 (conversas apreendidas)
+start_date: '2011'
+description: 'Segundo a Gazeta Mercantil (24/11/2025), Vorcaro aproximou-se em 2011 dos irmãos Antonio
+  Augusto e Vicente Conte Neto, numa parceria que teria evoluído até a compra do Banco Máxima. Em 14/10/2024,
+  porém, Luiz Phillipi Mourão tratou Antônio Augusto Conte como desafeto de Vorcaro e, dias depois, propôs
+  interná-lo (ver rel-luiz-phillipi-mourao-antonio-augusto-conte-allegation). A ruptura entre as duas datas é
+  hipótese que nenhuma fonte confirma.'
+evidence_class: A
+confidence: 0.5
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-gazetamercantil-vorcaro-proximo-irmaos-conte-desde-2011
+source_ids:
+- src-gazetamercantil-2025-11-24-dossie-vorcaro-irmaos-conte
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

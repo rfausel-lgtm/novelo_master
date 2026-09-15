@@ -1,0 +1,27 @@
+id: rel-instituto-iter-andre-mendonca-institutional
+kind: relationship
+from_id: andre-mendonca
+to_id: instituto-iter
+relationship_type: institutional
+directed: true
+label: fundador
+description: O Instituto ITER é descrito como fundado pelo Min. André Mendonça pela imprensa (Brasil de Fato)
+  e pela decisão do Min. Flávio Dino na ADPF 1.196, que também registra ter sido na sede do instituto o
+  encontro com Daniel Vorcaro de 14/03/2025. A natureza jurídica do vínculo atual do ministro com a entidade
+  não foi verificada em registro oficial.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids:
+- evt-2025-03-14-encontro-mendonca-vorcaro-iter
+- evt-2026-09-15-dino-decisao-adpf1196-converte-diligencia
+evidence_ids: []
+source_ids:
+- src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

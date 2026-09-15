@@ -2,31 +2,46 @@ id: vicente-conte-neto
 kind: person
 name: Vicente Conte Neto
 category: other
-role: Alvo de busca e apreensão e bloqueio de bens na PET 15.198 (Banco Master); citado de passagem nas
-  consultas ilegais de Marilson Roseno da Silva
+role: Alvo de busca e apreensão e bloqueio de bens na PET 15.198 (Banco Master); descrito pela imprensa
+  como conselheiro da Cortel, diretor da Zion Capital e cofundador do fundo Brazilian Graveyard
 summary: 'Nomeado entre os 38 alvos de busca e apreensão da representação policial que fundamentou a
   decisão de Dias Toffoli de 06/01/2026 na PET 15.198, com bloqueio individualizado de R$ 1.012.025.000,00
   — mesmo valor atribuído a Antônio Augusto Conte, César Reginato Ligeiro e Ricardo Batista De Siqueira
   Xavier. A manifestação da PGR de 05/05/2026 (PET 15.978) já registrava seu nome, ao lado do de Antônio
   Augusto Conte, entre os termos pesquisados por Marilson Roseno da Silva em consultas indevidas a sistemas
-  da Polícia Federal desde 2021 — sem outro contexto no documento.'
-why_in_novelo: É um dos quatro alvos, ao lado de Daniel Vorcaro e do próprio Banco Master, com valor
-  individualizado de bloqueio de bens acima de R$ 1 bilhão na decisão fundadora da PET 15.198 — mas o
-  acervo não localizou, nas peças lidas, qual seria especificamente sua relação com o esquema investigado.
+  da Polícia Federal desde 2021 — sem outro contexto no documento. NOVO (15/09/2026): reportagem do O
+  Bastidor transcrita na decisão do Min. Flávio Dino na ADPF 1.196 o descreve como conselheiro da Cortel
+  (concessionária de cemitérios de São Paulo), diretor da Zion Capital e um dos fundadores do fundo Brazilian
+  Graveyard and Death Care Services — dono de 20% da Cortel, com o Master entre os principais cotistas. No
+  julgamento da CVM que multou os irmãos Schumann por insider trading com cotas desse fundo, a defesa de
+  Roberto Schumann atribuiu a ele as ordens de compra e destacou sua relação com Vorcaro. A Gazeta
+  Mercantil (24/11/2025) o descreve, com o irmão Antonio Augusto, como herdeiro de administradora de
+  cemitérios, sócio da gestora Blackwood e próximo de Vorcaro desde 2011, numa parceria que teria chegado à
+  compra do Banco Máxima. Que o alvo da Pet 15.198 seja essa mesma pessoa é inferência (mesmo par de nomes,
+  mesmo valor de bloqueio), não fato documentado.'
+why_in_novelo: É um dos quatro alvos com bloqueio individualizado acima de R$ 1 bilhão na decisão fundadora
+  da PET 15.198 e, segundo a imprensa, o ponto em que o caso Master encontra o setor de cemitérios — Cortel,
+  Zion e o fundo Brazilian Graveyard —, frente que o Min. Flávio Dino mandou apurar na ADPF 1.196.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação dele foi localizada no corpus, e a equipe não conseguiu contato.
 open_questions:
-- 'O acervo não sabe quem é: nenhuma informação independente sobre sua identidade, ocupação ou relação
-  com o Banco Master foi localizada além da lista de alvos de busca/bloqueio e da menção nas consultas de
-  Marilson Roseno da Silva.'
-- Por que ele e Antônio Augusto Conte compartilham sobrenome e foram bloqueados no mesmo valor exato não
-  está explicado nas peças lidas — pode indicar parentesco, mas isso não é afirmado em nenhum documento.
+- 'RESOLVIDO EM PARTE (15/09/2026): identidade e ocupação agora vêm da imprensa (Gazeta Mercantil; O Bastidor
+  via ADPF 1.196) — conselheiro da Cortel, diretor da Zion Capital, cofundador do Brazilian Graveyard,
+  sócio da Blackwood. Continua não documentado: que o alvo da Pet 15.198 seja essa pessoa (ver
+  ev-conte-bloqueados-pet15198-coincidem-com-irmaos-da-imprensa) e por que o bloqueio chegou a R$ 1 bilhão.'
+- 'RESOLVIDO EM PARTE (15/09/2026): a Gazeta Mercantil descreve ele e Antônio Augusto Conte como irmãos —
+  fonte única, sem documento de registro civil.'
+- Nenhum registro societário da Cortel, da Zion Capital ou da Blackwood foi lido pela equipe.
+- A resposta da CVM à requisição do Min. Dino (prazo de 15 dias a partir de 15/09/2026) sobre fundos ligados
+  a cemitérios de São Paulo pode trazer o primeiro documento oficial sobre seu papel.
 source_ids:
 - src-stf-pet15198-peca006-manifestacao-pgr-representacao
 - src-mpf-pgr-2026-05-05-manifestacao-pet15978-sexta-fase
+- src-gazetamercantil-2025-11-24-dossie-vorcaro-irmaos-conte
+- src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-12'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-12'
-updated_at: '2026-09-12'
+updated_at: '2026-09-15'
