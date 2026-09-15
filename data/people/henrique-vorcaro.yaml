@@ -59,6 +59,10 @@ cited_position:
   by_id: henrique-vorcaro
   date: '2026-03-09'
 open_questions:
+- 'NOVO (15/09/2026, lote 322): o pastor André Valadão, liderança da Lagoinha, chamou-o de "amigo da minha vida [...]
+  de décadas" em culto de abril de 2025 (O Globo); segundo a Folha, ele ajudou a quitar a dívida de um BMW comprado
+  por Valadão cerca de 25 anos antes, episódio que o pastor descreve como aquisição de veículo, não benefício.
+  Proximidade pessoal registrada em classe A, sem vínculo com o esquema investigado.'
 - 'NOVO (15/09/2026): o RIF nº 140515 do COAF (Pet 15.645/DF) o identifica como remetente de R$ 120 mil, em
   4 lançamentos, para a conta da Igreja Batista da Lagoinha (Belvedere) — mesma conta que recebeu R$ 19,2
   milhões de Fabiano Zettel, de quem foi pastor. Também aparece na mesma rede uma "Fabíola de Almeida Macedo
@@ -87,6 +91,8 @@ source_ids:
 - src-stf-pet15198-peca013-ipl-5004641-completo
 - src-stf-pet15977-decisao-11-05-2026-interceptacao
 - src-stf-pet15645-rif-140515-coaf
+- src-brasil247-2026-03-30-valadao-amigos-da-minha-vida-o-globo
+- src-jornaldebrasilia-2026-03-13-folhapress-lagoinha-familia-vorcaro
 full_name: Henrique Moura Vorcaro
 review_status: published
 reviewer: orquestrador

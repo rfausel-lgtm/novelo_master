@@ -1,0 +1,33 @@
+id: rel-banco-master-amando-vidas-produtora-e-gravadora-financial
+kind: relationship
+from_id: banco-master
+to_id: amando-vidas-produtora-e-gravadora
+relationship_type: financial
+directed: true
+label: repasse de R$ 3,9 milhões apontado pelo COAF (2022), negado pela empresa
+start_date: '2022-03'
+end_date: '2022-04'
+description: Relatório do COAF citado pelo SBT News aponta repasse de R$ 3,897 milhões do Banco Master à produtora de
+  André Valadão e da esposa entre março e abril de 2022. A empresa nega a operação e diz que seus extratos não
+  registram entrada compatível.
+evidence_class: A
+confidence: 0.45
+status: disputed
+event_ids: []
+evidence_ids:
+- ev-coaf-master-repassou-3-9-milhoes-amando-vidas
+source_ids:
+- src-sbtnews-2026-03-13-coaf-master-produtora-valadao
+document_ids: []
+cited_position:
+- by_id: amando-vidas-produtora-e-gravadora
+  kind: denial
+  date: '2026-03-13'
+  summary: Nega qualquer vínculo ou participação em transações nos valores mencionados.
+  source_ids:
+  - src-sbtnews-2026-03-13-coaf-master-produtora-valadao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

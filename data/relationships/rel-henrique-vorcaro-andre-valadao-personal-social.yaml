@@ -1,0 +1,26 @@
+id: rel-henrique-vorcaro-andre-valadao-personal-social
+kind: relationship
+from_id: henrique-vorcaro
+to_id: andre-valadao
+relationship_type: personal_social
+directed: false
+label: '"amigos da minha vida" (Valadão, abril de 2025)'
+description: Em culto de inauguração de templo da Lagoinha em Belo Horizonte, em abril de 2025, André Valadão chamou
+  Henrique e Aline Vorcaro de "amigos da minha vida [...] de décadas" (O Globo). Segundo a Folha, Henrique Vorcaro
+  ajudou a quitar a dívida de um BMW comprado por Valadão cerca de 25 anos antes — episódio que Valadão descreve como
+  aquisição de veículo, não presente ou benefício.
+evidence_class: A
+confidence: 0.7
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-valadao-e-a-familia-vorcaro-decadas-de-proximidade
+source_ids:
+- src-brasil247-2026-03-30-valadao-amigos-da-minha-vida-o-globo
+- src-jornaldebrasilia-2026-03-13-folhapress-lagoinha-familia-vorcaro
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

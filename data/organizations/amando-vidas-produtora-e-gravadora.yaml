@@ -1,0 +1,29 @@
+id: amando-vidas-produtora-e-gravadora
+kind: organization
+name: Amando Vidas Produtora e Gravadora
+aliases:
+- Amando Vidas Produtora e Gravadora Ltda
+org_type: company
+summary: Produtora e gravadora que tem como sócios, segundo a Receita Federal citada pela imprensa, o pastor André
+  Valadão e a esposa, Cassiane Montosa Valadão. Relatório do COAF citado pelo SBT News aponta que o Banco Master lhe
+  repassou R$ 3,897 milhões entre março e abril de 2022; a empresa nega a operação.
+why_in_novelo: Empresa de André Valadão apontada, em relatório de inteligência financeira citado pela imprensa, como
+  destinatária de repasse milionário do Banco Master.
+cited_position:
+- by_id: amando-vidas-produtora-e-gravadora
+  kind: denial
+  date: '2026-03-13'
+  summary: '"Nega veementemente qualquer vínculo ou participação em transações nos valores mencionados"; afirma que
+    os extratos bancários não registram entrada de valores compatíveis com o montante.'
+  source_ids:
+  - src-sbtnews-2026-03-13-coaf-master-produtora-valadao
+open_questions:
+- O relatório do COAF não foi lido pela equipe, e a reportagem não informa o procedimento de origem nem a natureza
+  declarada do repasse.
+source_ids:
+- src-sbtnews-2026-03-13-coaf-master-produtora-valadao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

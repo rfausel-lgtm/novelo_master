@@ -1,0 +1,27 @@
+id: rel-andre-valadao-fabiano-zettel-personal-social
+kind: relationship
+from_id: andre-valadao
+to_id: fabiano-zettel
+relationship_type: personal_social
+directed: false
+label: celebrou o casamento dele (2018); "mais de 20 anos de relacionamento"
+start_date: '2018'
+description: Segundo a Folha, André Valadão celebrou em 2018 o casamento de Fabiano Zettel com Natália Vorcaro, e
+  Zettel passou a atuar como pastor na Lagoinha em 2024, afastado em novembro de 2025. Segundo O Globo, na
+  inauguração de templo em abril de 2025, Valadão falou em "mais de 20 anos de relacionamento" com Zettel e viu no
+  casal "uma promessa de Deus".
+evidence_class: A
+confidence: 0.75
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-valadao-e-a-familia-vorcaro-decadas-de-proximidade
+source_ids:
+- src-jornaldebrasilia-2026-03-13-folhapress-lagoinha-familia-vorcaro
+- src-brasil247-2026-03-30-valadao-amigos-da-minha-vida-o-globo
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

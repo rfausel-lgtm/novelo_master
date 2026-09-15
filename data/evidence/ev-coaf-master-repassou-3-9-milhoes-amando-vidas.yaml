@@ -1,0 +1,18 @@
+id: ev-coaf-master-repassou-3-9-milhoes-amando-vidas
+kind: evidence
+classification: A
+proposition: 'Segundo relatório do COAF citado pelo SBT News, o Banco Master repassou R$ 3,897 milhões à Amando Vidas
+  Produtora e Gravadora Ltda — empresa que tem como sócios André Valadão e a esposa, Cassiane Montosa Valadão —
+  entre março e abril de 2022.'
+document_ids: []
+source_ids:
+- src-sbtnews-2026-03-13-coaf-master-produtora-valadao
+attributed_to: SBT News, citando relatório do COAF
+date: '2022-04-01'
+notes: A produtora nega a operação e diz que seus extratos não registram entrada compatível. Relatório do COAF não
+  lido pela equipe; procedimento de origem e natureza do repasse não informados.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

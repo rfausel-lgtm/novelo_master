@@ -1,0 +1,58 @@
+id: andre-valadao
+kind: person
+name: André Valadão
+full_name: André Valadão
+aliases: []
+category: other
+role: Pastor, liderança da Igreja Batista da Lagoinha e cantor gospel
+positions: []
+summary: 'Pastor e principal liderança da Igreja Batista da Lagoinha, de Belo Horizonte. Segundo mensagens e áudios
+  revelados pelo ICL Notícias, em abril de 2024 atendeu a pedido de Daniel Vorcaro para conter críticas do deputado
+  Nikolas Ferreira ao fórum de Londres patrocinado pelo Master e relatou ao banqueiro que o deputado "nem sabia
+  sobre o banco" e "pediu perdão" — intermediação que o próprio Valadão confirmou em vídeo de 03/09/2026 como
+  "interlocução entre pessoas que eu conheço". Diz conhecer Vorcaro há mais de 30 anos. Segundo O Globo, em abril de
+  2025, na inauguração de templo da Lagoinha em Belo Horizonte, chamou os pais do banqueiro de "amigos da minha
+  vida" e exaltou Fabiano Zettel e Natália Vorcaro; segundo a Folha, celebrou o casamento dos dois em 2018 e teve
+  a dívida de um BMW quitada com ajuda de Henrique Vorcaro, cerca de 25 anos antes. Relatório do COAF citado pela
+  imprensa aponta repasse de R$ 3,9 milhões do Master, em 2022, a produtora da qual ele e a esposa são sócios —
+  negado pela empresa. Hoje se diz decepcionado com a família e nega irregularidades.'
+why_in_novelo: Amigo declarado de décadas da família Vorcaro e líder da igreja que recebeu dezenas de milhões de Fabiano
+  Zettel, atuou, segundo mensagens reveladas pela imprensa e confirmadas por ele, como intermediário entre Vorcaro e
+  o deputado Nikolas Ferreira em 2024.
+cited_position:
+- by_id: andre-valadao
+  kind: clarification
+  date: '2026-09-03'
+  summary: Em vídeo, afirma que sua participação no episódio com Nikolas "se restringiu exclusivamente a uma
+    interlocução entre pessoas que eu conheço" e que conhece Vorcaro "há mais de 30 anos, muito antes de quaisquer
+    fatos que hoje estão sendo divulgados".
+  source_ids:
+  - src-bereia-2026-09-04-valadao-admite-articulacao-nikolas-vorcaro
+- by_id: andre-valadao
+  kind: denial
+  date: '2026-09-03'
+  summary: Em nota ao ICL Notícias, nega envolvimento com os negócios do Banco Master e repudia condutas ilícitas; em
+    março de 2026, disse-se decepcionado e afastado da família Vorcaro.
+  source_ids:
+  - src-iclnoticias-2026-09-03-valadao-pediu-nikolas-nao-atacar-vorcaro
+  - src-brasil247-2026-03-30-valadao-amigos-da-minha-vida-o-globo
+open_questions:
+- 'A origem das mensagens e áudios de abril de 2024 não é declarada pela reportagem que os revelou; o teor tem fonte
+  única (ICL Notícias). O que tem confirmação é a intermediação em si, admitida pelo próprio Valadão.'
+- 'O repasse de R$ 3,897 milhões do Master à Amando Vidas Produtora e Gravadora (março-abril de 2022) vem de relatório
+  do COAF não lido pela equipe e é negado pela empresa, que diz não haver entrada compatível nos extratos.'
+- 'A fintech Clava Forte Bank, criada por ele e pela esposa em 2024, saiu do ar em novembro de 2025; um deputado pediu
+  na CPMI do INSS a quebra de sigilo de Valadão para verificar eventual atuação conjunta com o Master. Não há vínculo
+  documentado — apenas o pedido de investigação.'
+source_ids:
+- src-iclnoticias-2026-09-03-valadao-pediu-nikolas-nao-atacar-vorcaro
+- src-bereia-2026-09-04-valadao-admite-articulacao-nikolas-vorcaro
+- src-brasil247-2026-03-30-valadao-amigos-da-minha-vida-o-globo
+- src-jornaldebrasilia-2026-03-13-folhapress-lagoinha-familia-vorcaro
+- src-sbtnews-2026-03-13-coaf-master-produtora-valadao
+- src-apublica-2025-12-clava-forte-sai-do-ar-cpmi-inss
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

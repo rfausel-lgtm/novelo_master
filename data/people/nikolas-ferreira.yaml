@@ -22,6 +22,10 @@ cited_position:
   by_id: nikolas-ferreira
   date: '2026-09-03'
 open_questions:
+- 'NOVO (15/09/2026): segundo mensagens e áudios revelados pelo ICL Notícias, em abril de 2024 o pastor André Valadão
+  o procurou a pedido de Vorcaro, depois das críticas ao fórum de Londres, e relatou ao banqueiro que o deputado "nem
+  sabia sobre o banco" e "pediu perdão"; Valadão confirmou a intermediação em vídeo de 03/09/2026. Nikolas atribui o
+  contato com Vorcaro a essa intermediação (ver rel-andre-valadao-nikolas-ferreira-intermediary).'
 - Foi autor da Petição 10.829/STF, notícia-crime contra Flávio Dino por omissão diante dos atos de 8 de
   janeiro de 2023, protocolada em 11/01/2023 e arquivada por Alexandre de Moraes em 12/01/2023 — um dia
   depois, em processo público e com dispositivo publicado no Diário de Justiça, sem qualquer consequência
@@ -36,11 +40,12 @@ source_ids:
 - src-jornalggn-2026-09-nikolas-admite-ajuda-tenta-minimizar
 - src-poder360-2026-09-03-pt-pede-investigacao-nikolas-vorcaro
 - src-stf-2023-pet-10829-andamento-e-decisao-nikolas
+- src-iclnoticias-2026-09-03-valadao-pediu-nikolas-nao-atacar-vorcaro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-09-15'
 photo:
   path: /fotos/nikolas-ferreira.jpg
   source: Wikimedia Commons

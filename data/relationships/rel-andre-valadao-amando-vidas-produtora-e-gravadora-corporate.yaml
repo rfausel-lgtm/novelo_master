@@ -1,0 +1,23 @@
+id: rel-andre-valadao-amando-vidas-produtora-e-gravadora-corporate
+kind: relationship
+from_id: andre-valadao
+to_id: amando-vidas-produtora-e-gravadora
+relationship_type: corporate
+directed: true
+label: sócio, com a esposa (Receita Federal, segundo a imprensa)
+description: Segundo registros da Receita Federal citados pelo SBT News, André Valadão e a esposa, Cassiane Montosa
+  Valadão, são sócios da Amando Vidas Produtora e Gravadora Ltda.
+evidence_class: A
+confidence: 0.75
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-coaf-master-repassou-3-9-milhoes-amando-vidas
+source_ids:
+- src-sbtnews-2026-03-13-coaf-master-produtora-valadao
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

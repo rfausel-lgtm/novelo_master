@@ -1,0 +1,29 @@
+id: rel-andre-valadao-nikolas-ferreira-intermediary
+kind: relationship
+from_id: andre-valadao
+to_id: nikolas-ferreira
+relationship_type: intermediary
+directed: true
+label: procurou o deputado a pedido de Vorcaro (abril de 2024)
+start_date: '2024-04-27'
+via_id: daniel-vorcaro
+description: 'A pedido de Daniel Vorcaro, incomodado com críticas do deputado ao fórum de Londres patrocinado pelo
+  Master, André Valadão procurou Nikolas Ferreira em abril de 2024 e relatou ao banqueiro que o deputado "nem sabia
+  sobre o banco" e "pediu perdão". Valadão confirma a "interlocução"; Nikolas nega relação pessoal com Vorcaro e
+  atribui o contato à intermediação do pastor.'
+evidence_class: A
+confidence: 0.7
+status: unverified
+event_ids:
+- evt-2024-04-29-valadao-relata-a-vorcaro-conversa-com-nikolas
+evidence_ids:
+- ev-valadao-intermediou-vorcaro-nikolas-abril-2024
+source_ids:
+- src-iclnoticias-2026-09-03-valadao-pediu-nikolas-nao-atacar-vorcaro
+- src-bereia-2026-09-04-valadao-admite-articulacao-nikolas-vorcaro
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,46 @@
+id: rev-2026-09-15-lote-322-andre-valadao-o-pastor-entre-vorcaro-e-nikolas
+kind: revision
+date: '2026-09-15'
+title: 'Lote 322 — André Valadão, o pastor que falou com Nikolas a pedido de Vorcaro'
+summary: 'Linha 3 da revisão estrutural (rede religiosa), publicada inteiramente em classe A por decisão editorial. O
+  acervo já registrava que Vorcaro mobilizara interlocutores para conter críticas de Nikolas Ferreira ao fórum de
+  Londres e que o deputado atribuía o contato ao pastor André Valadão; faltava o próprio Valadão. Segundo mensagens
+  e áudios revelados pelo ICL Notícias, em 27/04/2024 Vorcaro pediu a Valadão "ajuda com Nikolas" e, dois dias
+  depois, ouviu dele que o deputado "nem sabia sobre o banco" e "pediu perdão" — intermediação que Valadão confirmou
+  em vídeo de 03/09/2026 como "interlocução entre pessoas que eu conheço". Registra-se ainda a proximidade de décadas
+  com a família Vorcaro descrita por O Globo (os pais do banqueiro chamados de "amigos da minha vida" em culto de
+  abril de 2025) e pela Folha (casamento de Zettel celebrado por Valadão em 2018; dívida de um BMW quitada com ajuda
+  de Henrique Vorcaro) — proximidade pessoal, não vínculo com o esquema; e o repasse de R$ 3,9 milhões do Master, em
+  2022, à produtora de Valadão e da esposa, apontado por relatório do COAF citado pelo SBT News e negado pela
+  empresa. A fintech Clava Forte, criada pelo casal e fora do ar desde novembro de 2025, fica só como pergunta
+  aberta: o vínculo com o Master é hipótese de um pedido de investigação, sem documento. Resultado negativo
+  registrado na mesma linha: a Assembleia de Deus Madureira, de Cezinha de Madureira, não tem vínculo localizado com
+  a Lagoinha, e ninguém nomeou os membros da igreja que pediram a Mendonça para receber Vorcaro.'
+added:
+  people: 1
+  organizations: 1
+  events: 1
+  documents: 0
+  relationships: 7
+  sources: 6
+  evidence: 3
+updated_relationships: 0
+corrections:
+- 'nikolas-ferreira: pergunta aberta sobre a intermediação de Valadão.'
+- 'evt-2026-09-03-nikolas-vorcaro-mensagens-reveladas: André Valadão incluído como participante.'
+- 'henrique-vorcaro: pergunta aberta sobre a relação com Valadão.'
+author: orquestrador
+affected_ids:
+- andre-valadao
+- amando-vidas-produtora-e-gravadora
+- daniel-vorcaro
+- henrique-vorcaro
+- fabiano-zettel
+- nikolas-ferreira
+- igreja-batista-da-lagoinha-belvedere
+- banco-master
+reason: Rafael autorizou em 15/09/2026 publicar a frente Valadão em classe A, depois de verificadas as fontes
+  originais levantadas por pesquisa delegada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
