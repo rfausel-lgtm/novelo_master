@@ -7,20 +7,29 @@ directed: false
 label: articulou o encontro com Vorcaro (segundo a imprensa)
 start_date: 2025-03
 via_id: daniel-vorcaro
-description: Segundo o Brasil de Fato, o deputado articulou o encontro de 14/03/2025 e confirmou por mensagem
-  que o ministro aguardava o banqueiro.
+description: 'Segundo o Brasil de Fato, o deputado articulou o encontro de 14/03/2025 e confirmou por
+  mensagem que o ministro aguardava o banqueiro. NOVO (15/09/2026): a relação entre os dois é anterior — em
+  12/09/2021, pouco depois de ser indicado ao STF, Mendonça participou de culto na Assembleia de Deus de
+  Madureira, onde Cezinha era liderança, e declarou aos bispos "vocês têm autoridade espiritual sobre a
+  minha vida" (ver evt-2021-09-12-mendonca-culto-madureira-bispos). Uma alegação adicional, vinda de um
+  fork delegado e NÃO confirmada por fonte independente localizada por esta equipe, de que Cezinha teria
+  articulado diretamente a aprovação do nome de Mendonça no Congresso em 2021, permanece como open_question
+  não verificada no verbete de Cezinha.'
 evidence_class: A
 confidence: 0.55
 status: unverified
 event_ids:
 - evt-2025-03-14-encontro-mendonca-vorcaro-iter
+- evt-2021-09-12-mendonca-culto-madureira-bispos
 evidence_ids:
 - ev-mensagens-mendonca-recebeu-vorcaro-2025-03-14
+- ev-mendonca-2021-culto-madureira-bispos-autoridade
 source_ids:
 - src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
+- src-brasil247-2021-09-12-mendonca-bispos-culto-madureira
 document_ids: []
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-15'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-15'

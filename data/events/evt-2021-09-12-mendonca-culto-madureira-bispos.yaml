@@ -1,0 +1,29 @@
+id: evt-2021-09-12-mendonca-culto-madureira-bispos
+kind: event
+title: 'Mendonça, recém-indicado ao STF, declara submissão espiritual a bispos em culto com Cezinha de
+  Madureira'
+event_type: statement
+date: '2021-09-12'
+date_precision: day
+participant_ids:
+- andre-mendonca
+- cezinha-de-madureira
+description: 'Em culto na Assembleia de Deus de Madureira (RJ), André Mendonça — indicado dias antes por
+  Jair Bolsonaro ao STF — declarou aos bispos presentes: "Os senhores são bispos da Assembleia de Deus,
+  mas, para além disso, Deus os constituiu bispos sobre a minha vida. Vocês têm autoridade espiritual sobre
+  a minha vida." Cezinha de Madureira, então líder da Frente Parlamentar Evangélica, estava presente —
+  documentando uma relação entre os dois que antecede em quase quatro anos o encontro de 14/03/2025 com
+  Daniel Vorcaro.'
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-mendonca-2021-culto-madureira-bispos-autoridade
+source_ids:
+- src-brasil247-2021-09-12-mendonca-bispos-culto-madureira
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

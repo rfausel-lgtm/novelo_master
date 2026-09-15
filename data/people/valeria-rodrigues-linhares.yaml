@@ -23,6 +23,10 @@ cited_position:
   date: '2026-09-14'
 open_questions:
 - Origem e destino declarados do valor apreendido não localizados nesta coleta.
+- 'NOVO (15/09/2026): segundo apuração de um fork delegado, não confirmada de forma independente por esta
+  equipe, foi candidata a deputada distrital pelo DF em 2018 (PSD, 1.904 votos, não eleita) — teria,
+  portanto, trajetória política própria anterior ao casamento com Cezinha de Madureira, não apenas o papel
+  de "esposa de". Mantido como open_question até checagem direta no TSE.'
 source_ids:
 - src-cnnbrasil-2026-09-14-pf-operacao-trafico-influencia-cezinha
 - src-gazetadopovo-2026-09-14-pf-cezinha-suspeita-trafico-influencia

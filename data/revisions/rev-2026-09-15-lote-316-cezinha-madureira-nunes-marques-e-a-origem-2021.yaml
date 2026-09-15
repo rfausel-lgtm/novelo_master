@@ -1,0 +1,48 @@
+id: rev-2026-09-15-lote-316-cezinha-madureira-nunes-marques-e-a-origem-2021
+kind: revision
+date: '2026-09-15'
+title: 'Lote 316 — investigação de Cezinha de Madureira mira Nunes Marques; vínculo com Mendonça remonta a
+  2021'
+summary: 'Aprofundamento de um fork delegado sobre Cezinha de Madureira (a pedido de Rafael), verificado
+  por esta sessão via WebFetch/WebSearch em fontes independentes. Dois achados principais: (1) a Operação
+  Transparência da PF (lote 314) aponta Mariângela Fialek (nova no acervo, ex-assessora de Arthur Lira)
+  como operadora que enviava a Cezinha memoriais de processos sob relatoria do Min. Kassio Nunes Marques,
+  incluindo um contrato de R$ 500 mil condicionado ao resultado de uma Reclamação no STF movida pela então
+  prefeita de Beberibe/CE — com a ressalva explícita, feita pelo próprio Min. Dino e reforçada pela PF, de
+  que nenhum ministro é investigado ou suspeito de participação; (2) o vínculo entre Cezinha e o Min. André
+  Mendonça remonta a pelo menos 12/09/2021, quando Mendonça, recém-indicado ao STF, participou de culto na
+  Assembleia de Deus de Madureira e declarou aos bispos presentes "vocês têm autoridade espiritual sobre a
+  minha vida" — quatro anos antes do encontro de 2025 com Vorcaro que Cezinha também intermediou. Verbete
+  de Cezinha ganhou biografia completa (nome civil, trajetória política, origem do apelido), confirmada
+  via Câmara dos Deputados/imprensa. Duas alegações do fork NÃO confirmadas por fonte independente ficaram
+  registradas como open_question, não como fato: que Cezinha teria articulado diretamente a aprovação do
+  nome de Mendonça no Congresso em 2021 (a versão original também citava incorretamente Rodrigo Pacheco
+  como presidente da Câmara — ele presidia o Senado), e a comparação entre o crescimento patrimonial de
+  Cezinha e os valores do esquema investigado.'
+added:
+  people: 1
+  organizations: 0
+  events: 1
+  documents: 0
+  relationships: 2
+  sources: 4
+  evidence: 2
+updated_relationships: 2
+corrections:
+- 'cezinha-de-madureira: verbete reestruturado com biografia completa e duas novas open_questions.'
+- 'valeria-rodrigues-linhares: nova open_question sobre candidatura própria em 2018 (não confirmada).'
+- 'rel-cezinha-de-madureira-andre-mendonca-intermediary: enriquecida com o culto de 2021.'
+author: orquestrador
+affected_ids:
+- cezinha-de-madureira
+- valeria-rodrigues-linhares
+- mariangela-fialek
+- nunes-marques
+- andre-mendonca
+- flavio-dino
+reason: Fork delegado (funny-chatterjee-b1b9b2-9d) aprofundou, a pedido de Rafael, a investigação sobre
+  Cezinha de Madureira com OSINT; esta sessão verificou de forma independente as alegações mais fortes
+  antes de publicar e sinalizou como não confirmadas as que não encontraram fonte própria.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'

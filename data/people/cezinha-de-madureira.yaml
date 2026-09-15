@@ -1,16 +1,24 @@
 id: cezinha-de-madureira
 kind: person
 name: Cezinha de Madureira
+full_name: Antônio Cezar Correia Freire
 category: politician
 role: Deputado federal (PL-SP)
 positions: []
-summary: Deputado federal e liderança da Assembleia de Deus Ministério de Madureira. Segundo o Brasil
-  de Fato, articulou com Ciro Soares o encontro de 14/03/2025 entre Vorcaro e o ministro André Mendonça
-  e enviou mensagem confirmando que o ministro aguardava o banqueiro. Em 14/09/2026, ele e a esposa,
-  Valéria Rodrigues Linhares, foram alvos da terceira fase da Operação Transparência (quatro mandados de
-  busca e apreensão no DF e em SP, autorizados pelo Min. Flávio Dino), por suspeita de exploração de
-  prestígio, tráfico de influência, corrupção passiva e lavagem de dinheiro — negociação de valores
-  condicionados ao resultado de processos judiciais em tribunais superiores.
+summary: 'Nome político de Antônio Cezar Correia Freire (nascido em 12/12/1973, Ipiaú/BA); radialista de
+  origem, mudou-se para São Paulo, onde construiu carreira política. Deputado estadual por SP (2015-2019),
+  deputado federal desde 2019 (reeleito 2022), filiado ao PSD por anos até migrar para o PL em 2026. Pastor
+  e liderança da Assembleia de Deus Ministério de Madureira — uma das maiores comunidades evangélicas do
+  país —, de onde vem o apelido. Foi líder da Frente Parlamentar Evangélica ("bancada da Bíblia"). Segundo
+  o Brasil de Fato, articulou com Ciro Soares o encontro de 14/03/2025 entre Vorcaro e o ministro André
+  Mendonça e enviou mensagem confirmando que o ministro aguardava o banqueiro — relação que remonta a pelo
+  menos 12/09/2021, quando Mendonça, recém-indicado ao STF, participou de culto na Assembleia de Deus de
+  Madureira onde Cezinha era liderança. Em 14/09/2026, ele e a esposa, a advogada Valéria Rodrigues
+  Linhares, foram alvos da terceira fase da Operação Transparência (quatro mandados de busca e apreensão
+  no DF e em SP, autorizados pelo Min. Flávio Dino), por suspeita de exploração de prestígio, tráfico de
+  influência, corrupção passiva e lavagem de dinheiro — negociação, via a ex-assessora de Arthur Lira
+  Mariângela Fialek, de contratos de honorários condicionados ao resultado de processos sob relatoria de
+  ministros do STF, entre eles Kassio Nunes Marques.'
 why_in_novelo: É apontado pela imprensa, com base em mensagens do celular de Daniel Vorcaro, como articulador
   do encontro entre o banqueiro e o ministro André Mendonça — e, desde 14/09/2026, é também alvo formal de
   investigação da PF, autorizada pelo mesmo Min. Flávio Dino que na véspera da sessão do STF sobre o caso
@@ -28,11 +36,26 @@ open_questions:
   ou o Min. Dino tenham ligado formalmente os dois fatos entre si; a proximidade temporal e o fato de ambos
   envolverem o mesmo intermediário e o mesmo relator são registradas aqui como coincidência relevante a
   observar, não como conexão processual estabelecida.'
+- 'NOVO (15/09/2026): um fork delegado apurou, sem confirmação por fonte independente localizada por esta
+  equipe, que ele teria articulado diretamente junto ao Congresso a aprovação do nome de Mendonça ao STF em
+  2021 (a alegação original citava incorretamente Rodrigo Pacheco como presidente da Câmara — ele presidia
+  o Senado). O que está confirmado é sua presença, como liderança evangélica, no culto de 12/09/2021 em que
+  Mendonça declarou submissão espiritual aos bispos presentes (ver
+  evt-2021-09-12-mendonca-culto-madureira-bispos). Tratado como open_question, não como fato.'
+- 'NOVO (15/09/2026): seu patrimônio declarado ao TSE saltou de R$ 602 mil (candidatura de 2022) para R$
+  3,1 milhões (candidatura de 2026, PL, número 2223/SP) — período que coincide com o intervalo em que a PF
+  situa o esquema de honorários condicionados. Nenhuma fonte localizada por esta equipe compara diretamente
+  esse crescimento aos valores dos contratos investigados; registrado como coincidência temporal a observar,
+  não como fato provado.'
 source_ids:
 - src-brasildefato-2026-09-02-mendonca-recebeu-vorcaro
 - src-cnn-2026-09-02-mendonca-admite-encontro
 - src-cnnbrasil-2026-09-14-pf-operacao-trafico-influencia-cezinha
 - src-gazetadopovo-2026-09-14-pf-cezinha-suspeita-trafico-influencia
+- src-metropoles-2026-09-14-cezinha-operadora-emendas-elo-stf
+- src-sbtnews-2026-09-14-dino-cezinha-nunes-marques
+- src-brasil247-2021-09-12-mendonca-bispos-culto-madureira
+- src-opovobbc-2026-09-14-quem-e-cezinha-de-madureira
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'
