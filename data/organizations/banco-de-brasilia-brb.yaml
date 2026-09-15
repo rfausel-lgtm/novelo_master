@@ -51,4 +51,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'
 created_at: '2026-09-03'
-updated_at: '2026-09-12'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/banco-de-brasilia-brb.png
+  source: Wikimedia Commons
+  author: Banco de Brasília
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:BRB_Logo.png
+  retrieved_at: 2026-09-14
+  alt: Logotipo de BRB

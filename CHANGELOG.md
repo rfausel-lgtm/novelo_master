@@ -12,6 +12,11 @@
   sem isso ele subiria para o meio dos lotes de 09/09. Os lotes 83 a 86 usados duas vezes em 05/09 ficam
   na ordem em que cada um saiu.
 
+- **Imagens de pessoas e organizações.** Acrescentados 21 retratos e 11 logotipos com autoria,
+  licença e origem verificadas. Marcas passam a usar fundo branco também no tema escuro.
+  A triagem dos 374 cadastros inicialmente sem imagem e os 342 ainda pendentes estão em
+  `docs/fotos/`. Nenhum fato ou relação do acervo foi alterado.
+
 - **Saneamento de dados pessoais (auditoria rotineira).** Varredura de todo o acervo publicado contra
   a seção 6 da política editorial. Não havia CPF, RG, telefone, placa nem dado bancário; havia cinco
   tipos de dado vedado em 31 registros, todos retirados sem alterar fato nenhum: número de unidade de

@@ -17,4 +17,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'
 created_at: '2026-09-12'
-updated_at: '2026-09-12'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/wellington-fagundes.jpg
+  source: Wikimedia Commons
+  author: Agência Senado
+  license: Attribution
+  original_url: https://commons.wikimedia.org/wiki/File:Senador_Wellington_Fagundes.jpg
+  retrieved_at: 2026-09-14
+  alt: Retrato de Wellington Fagundes

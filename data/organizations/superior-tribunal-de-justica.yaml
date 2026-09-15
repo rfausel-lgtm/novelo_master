@@ -17,4 +17,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/superior-tribunal-de-justica.png
+  source: Wikimedia Commons
+  author: Superior Tribunal de Justiça
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:Superior_Tribunal_de_Justi%C3%A7a_logo.svg
+  retrieved_at: 2026-09-14
+  alt: Logotipo de STJ

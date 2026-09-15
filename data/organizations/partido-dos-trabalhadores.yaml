@@ -22,4 +22,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/partido-dos-trabalhadores.png
+  source: Wikimedia Commons
+  author: The original uploader was Dantadd at Wikimedia Commons.
+  license: Public domain
+  original_url: https://commons.wikimedia.org/wiki/File:Logo_do_Partido_dos_Trabalhadores.svg
+  retrieved_at: 2026-09-14
+  alt: Logotipo de Partido dos Trabalhadores

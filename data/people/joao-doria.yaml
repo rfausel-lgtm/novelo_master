@@ -30,4 +30,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'
 created_at: '2026-09-09'
-updated_at: '2026-09-09'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/joao-doria.jpg
+  source: Wikimedia Commons
+  author: Governo do Estado de São Paulo
+  license: CC BY 2.0
+  original_url: https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Jo%C3%A3o_D%C3%B3ria_como_Governador_de_S%C3%A3o_Paulo.jpg
+  retrieved_at: 2026-09-14
+  alt: Retrato de João Doria

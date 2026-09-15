@@ -44,4 +44,12 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-14'
+photo:
+  path: /fotos/jeronimo-rodrigues.png
+  source: Wikimedia Commons
+  author: Educação Bahia
+  license: CC BY 3.0
+  original_url: https://commons.wikimedia.org/wiki/File:Jer%C3%B4nimo_Rodrigues_(cut).png
+  retrieved_at: 2026-09-14
+  alt: Retrato de Jerônimo Rodrigues

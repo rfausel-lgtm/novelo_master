@@ -58,7 +58,7 @@ function Avatar({ node }: { node: GraphNode }) {
         width={48}
         height={48}
         onError={() => setBroken(true)}
-        className={`border-border h-12 w-12 shrink-0 border ${isOrg ? "bg-bg-2 rounded-md object-contain p-1" : "rounded-full object-cover"}`}
+        className={`border-border h-12 w-12 shrink-0 border ${isOrg ? "bg-white rounded-md object-contain p-1" : "rounded-full object-cover"}`}
       />
     );
   }
