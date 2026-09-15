@@ -4,21 +4,28 @@ from_id: alberto-samuel-alcolumbre-tobelem
 to_id: davi-alcolumbre
 relationship_type: familial
 directed: false
-label: irmão, segundo a imprensa
-description: Reportagens de fevereiro de 2026 (Gazeta do Povo, O Tempo) identificam Alberto Samuel Alcolumbre
-  Tobelem como irmão do senador Davi Alcolumbre. A equipe não confirmou o parentesco em documento oficial
-  (certidão, registro civil).
-evidence_class: A
-confidence: 0.5
+label: irmão, segundo a imprensa e nota do gabinete
+description: 'Reportagens de fevereiro de 2026 (Gazeta do Povo, O Tempo) identificam Alberto Samuel Alcolumbre
+  Tobelem como irmão do senador Davi Alcolumbre. Apuração de 14/09/2026 localizou reforço anterior e
+  independente dessa cobertura: em março de 2022, por ocasião de apreensão policial de dinheiro pertencente
+  a Alberto Samuel, o próprio gabinete do senador, em nota à imprensa, referiu-se a ele como "o irmão"
+  (ver ev-gabinete-davi-alcolumbre-confirma-irmao-em-nota-2022). A equipe ainda não confirmou o parentesco
+  em documento cartorial (certidão, registro civil, ficha TSE) — tentativa de cruzamento pela ficha de
+  candidato de Davi Alcolumbre no TSE não localizou registro de Alberto Samuel como candidato ou doador.'
+evidence_class: C
+confidence: 0.65
 status: unverified
 event_ids: []
-evidence_ids: []
+evidence_ids:
+- ev-gabinete-davi-alcolumbre-confirma-irmao-em-nota-2022
 source_ids:
 - src-gazetadopovo-2026-02-pf-mp-irmao-aliado-alcolumbre-alerta-ignorado
 - src-otempo-2026-02-fundo-irmao-aliado-alcolumbre-alerta-master
+- src-cnnbrasil-2022-03-pm-apreende-500mil-irmao-alcolumbre
+- src-metropoles-2022-03-pm-apreende-500mil-irmao-alcolumbre
 document_ids: []
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-13'
+reviewed_at: '2026-09-14'
 created_at: '2026-09-13'
-updated_at: '2026-09-13'
+updated_at: '2026-09-14'
