@@ -28,6 +28,13 @@ open_questions:
 - Fabiano Zettel teria recebido R$ 485 milhões da empresa entre julho de 2022 e janeiro de 2026, incluindo
   264 transferências em 2025 — a natureza contratual desses repasses não foi esclarecida por nenhuma das
   partes.
+- 'PARCIALMENTE RESPONDIDO (15/09/2026): o RIF nº 140515 do COAF (Pet 15.645/DF) detalha um portfólio
+  imobiliário de mais de R$ 250 milhões movimentado pela própria empresa entre 2022 e 2024 — incluindo a
+  compra de um imóvel de R$ 50 milhões de Alexandre Café Birman e a doação de um imóvel de R$ 4,347 milhões
+  a Karolina Santos Trainotti, assinada por Ana Cláudia Queiroz de Paiva. Isso mostra PARTE do destino do
+  dinheiro da empresa no período, mas não esclarece a natureza dos repasses de R$ 485 milhões
+  especificamente a Zettel, que continuam sem explicação contratual (ver
+  ev-super-empreendimentos-portfolio-imobiliario-2022-2024).'
 source_ids:
 - src-oeste-2026-01-29-projeto-eolico-faria
 - src-infomoney-2026-03-18-liminar-bloqueio-bens
@@ -35,6 +42,7 @@ source_ids:
 - src-brasilapi-2026-super-empreendimentos-cnpj
 - src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
 - src-otempo-2026-03-21-zettel-recebeu-485-milhoes-super
+- src-stf-pet15645-rif-140515-coaf
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

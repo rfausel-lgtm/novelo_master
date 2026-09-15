@@ -1,0 +1,30 @@
+id: fabiola-de-almeida-macedo-vorcaro
+kind: person
+name: Fabíola de Almeida Macedo Vorcaro
+category: other
+role: Advogada e servidora pública estadual; identificada como remetente na mesma rede financeira de
+  Henrique Vorcaro e Fabiano Zettel
+summary: 'Advogada e servidora pública estadual, identificada no RIF nº 140515 do COAF (fev/2026, anexo à
+  Pet 15.645/DF) como remetente de R$ 101,6 mil, em 7 lançamentos, para a mesma conta bancária vinculada à
+  Igreja Batista da Lagoinha Belvedere que recebeu valores de Henrique Moura Vorcaro (pai de Daniel Vorcaro)
+  e Fabiano Campos Zettel (cunhado dele). O sobrenome "Macedo Vorcaro" sugere parentesco com a família
+  Vorcaro, possivelmente cônjuge de Henrique — mas nenhum documento do acervo confirma o grau exato.'
+cited_position:
+- kind: not_located
+  summary: Manifestação não localizada até esta coleta.
+why_in_novelo: Aparece na mesma rede financeira de Henrique Vorcaro e Fabiano Zettel num relatório de
+  inteligência financeira do COAF anexado à investigação do Banco Master; o sobrenome sugere parentesco
+  com a família Vorcaro, ainda não confirmado.
+open_questions:
+- 'Grau de parentesco com a família Vorcaro não confirmado — nenhuma fonte no acervo estabelece se é
+  cônjuge de Henrique Vorcaro (pai de Daniel) ou outro parente. Inferência baseada apenas no sobrenome
+  composto "Macedo Vorcaro" e na coincidência de aparecer na mesma rede financeira.'
+- Não há, no RIF, qualquer alegação de irregularidade especificamente contra ela — o valor é modesto
+  frente aos demais remetentes do mesmo núcleo.
+source_ids:
+- src-stf-pet15645-rif-140515-coaf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

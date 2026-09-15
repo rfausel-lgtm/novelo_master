@@ -1,0 +1,62 @@
+id: rev-2026-09-15-lote-309-o-rif-do-coaf-e-a-fortuna-imobiliaria-de-zettel
+kind: revision
+date: '2026-09-15'
+title: 'Lote 309 — o RIF do COAF revela a igreja de Zettel, seus carros de luxo e a fortuna imobiliária da
+  Super Empreendimentos'
+summary: 'A pedido de Rafael, análise do RIF nº 140515 do COAF (fev/2026), anexo à Pet 15.645/DF, cujo
+  sigilo Mendonça levantou em 14/09/2026 a pedido de Fachin — que atendia, por sua vez, pedido do próprio
+  Alexandre de Moraes de que o conteúdo fosse disponibilizado ao colegiado antes da sessão de 15/09/2026.
+  O documento detalha quatro núcleos de comunicações suspeitas: (1) a Igreja Batista da Lagoinha (Belvedere),
+  da qual Fabiano Zettel foi pastor até novembro de 2025, recebeu dele R$ 19,2 milhões e de Henrique Vorcaro
+  (pai de Daniel Vorcaro) R$ 120 mil — o COAF classifica a comunicação citando a "relação financeira íntima
+  do outorgado [Zettel] em possíveis ilicitudes"; (2) a Moriah Asset (empresa de Zettel) comprou R$ 4,95
+  milhões em veículos de luxo em 2025; (3) a Super Empreendimentos e Participações (ligada a Daniel Vorcaro)
+  movimentou mais de R$ 250 milhões em imóveis entre 2022 e 2024, incluindo a compra de um imóvel de R$ 50
+  milhões de Alexandre Café Birman e a doação de um imóvel de R$ 4,347 milhões a Karolina Santos Trainotti
+  — doação já sinalizada pela imprensa sem identificar beneficiária nem signatária, agora esclarecida: quem
+  assinou foi Ana Cláudia Queiroz de Paiva, diretora da empresa; (4) a Pipe Participações (empresa de Zettel)
+  e a Noah Empreendimentos registram pequenas transações em Guaxupé/MG em 2024, cidade onde o delator Paulo
+  Sérgio já relatara ter vendido um sítio a Zettel em 2020 — conexão sugerida, não confirmada. O universo
+  total do RIF soma 823 pessoas físicas e jurídicas relacionadas; apenas o subconjunto em que a pessoa
+  figura como titular foi detalhado nesta peça — os demais nomes ficam registrados nas evidências como
+  referência para eventual conexão futura, sem entidade própria nesta rodada. Nenhum CPF/CNPJ de terceiros
+  foi reproduzido no acervo.'
+added:
+  people: 3
+  organizations: 2
+  events: 0
+  documents: 2
+  relationships: 6
+  sources: 2
+  evidence: 8
+updated_relationships: 0
+corrections:
+- 'fabiano-zettel: novo open_question com os achados do RIF (igreja, carros de luxo).'
+- 'super-empreendimentos-e-participacoes: open_question sobre os R$ 485 milhões a Zettel parcialmente
+  respondido com o portfólio imobiliário detalhado no RIF.'
+- 'ana-claudia-queiroz-de-paiva: open_question sobre a doação de dezembro/2024 parcialmente resolvido —
+  ela é quem assinou; a identidade da beneficiária como pessoa denunciada por lavagem em 2023 segue não
+  confirmada.'
+- 'henrique-vorcaro: novo open_question com sua presença como remetente na rede da Igreja Batista da
+  Lagoinha.'
+- 'moriah-asset: novo open_question com as compras de veículos de luxo em 2025.'
+- 'ev-paulo-sergio-relato-interno-sitio-guaxupe-4-5-milhoes-zettel: nota cruzada com as transações de Pipe/Noah
+  em Guaxupé em 2024, possível mas não confirmada relação com o mesmo sítio.'
+author: orquestrador
+affected_ids:
+- fabiano-zettel
+- henrique-vorcaro
+- super-empreendimentos-e-participacoes
+- moriah-asset
+- ana-claudia-queiroz-de-paiva
+- igreja-batista-da-lagoinha-belvedere
+- pipe-participacoes
+- fabiola-de-almeida-macedo-vorcaro
+- alexandre-cafe-birman
+- karolina-santos-trainotti
+reason: Rafael pediu para analisar e publicar as informações do procedimento cujo sigilo foi levantado
+  (Pet 15.645/DF), estabelecendo conexões com entidades já existentes no grafo e registrando os demais
+  nomes do RIF para eventual conexão futura, à medida que a investigação evoluir.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'

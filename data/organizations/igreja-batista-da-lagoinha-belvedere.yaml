@@ -1,0 +1,37 @@
+id: igreja-batista-da-lagoinha-belvedere
+kind: organization
+name: Igreja Batista da Lagoinha Belvedere
+aliases: []
+org_type: association
+summary: 'Igreja em Belo Horizonte/MG (bairro Belvedere), da qual Fabiano Zettel é descrito, no próprio
+  verbete dele já publicado no acervo, como pastor — afastado das funções pastorais desde novembro de
+  2025. É também titular de comunicações de operações financeiras no RIF nº 140515 do COAF (fev/2026, anexo
+  à Pet 15.645/DF): Fabiano Campos Zettel aparece como
+  o maior remetente de recursos identificado no núcleo — R$ 19,2 milhões em 26 lançamentos, no período de
+  24/12/2024 a 08/12/2025, via conta que também recebeu de Henrique Moura Vorcaro (pai de Daniel Vorcaro,
+  R$ 120 mil em 4 lançamentos). O próprio COAF nota, no relatório, que o "outorgado" (Zettel) foi "citado
+  em notícia desabonadora" pela Folha de S.Paulo (08/12/2025, sobre o escândalo Master) e conclui pela
+  comunicação "considerando relação financeira íntima do outorgado mencionado em possíveis ilicitudes".
+  Os recursos recebidos pela conta da igreja foram majoritariamente repassados a empresas de construção
+  civil, consistente com obras no templo; não há, no relatório, qualquer alegação de irregularidade
+  atribuída à própria igreja.'
+cited_position:
+- kind: not_located
+  summary: Manifestação institucional não localizada até esta coleta.
+why_in_novelo: Igreja da qual Fabiano Zettel foi pastor até novembro de 2025, e cuja conta bancária recebeu
+  recursos dele e de Henrique Vorcaro (pai de Daniel Vorcaro), num relatório de inteligência financeira do
+  COAF anexado à investigação sobre o Banco Master.
+open_questions:
+- Não há, no RIF, qualquer alegação de irregularidade ou conhecimento por parte da própria igreja quanto
+  à origem dos recursos recebidos — o alerta do COAF recai sobre o perfil do remetente (Zettel), não sobre
+  a instituição religiosa.
+- Não confirmado se "Igreja Batista da Lagoinha Belvedere" é uma congregação satélite/filial distinta da
+  "Igreja Batista da Lagoinha" já citada no verbete de Zettel, ou a mesma referida de forma abreviada —
+  ambas em Belo Horizonte, compatível com ser a mesma instituição ou uma unidade dela.
+source_ids:
+- src-stf-pet15645-rif-140515-coaf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

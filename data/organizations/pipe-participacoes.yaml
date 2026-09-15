@@ -1,0 +1,31 @@
+id: pipe-participacoes
+kind: organization
+name: Pipe Participações
+aliases: []
+org_type: company
+summary: 'Empresa da qual Fabiano Campos Zettel é sócio único, segundo o próprio verbete da Moriah Asset
+  já publicado no acervo (que ele administra e onde a Pipe figura como sócia). O RIF nº 140515 do COAF
+  (fev/2026, anexo à Pet 15.645/DF) a registra, junto com a Noah Empreendimentos e Participações, como
+  titular de pequenas transações de fração de imóvel rural em Guaxupé/MG, em outubro de 2024 (R$ 240 mil
+  e R$ 205 mil), com contrapartes da família "de Souza" — mesmo sobrenome do delator do BC Paulo Sérgio
+  Neves de Souza, já no acervo, cujo irmão arrendou terra de Zettel em Guaxupé após venda de um sítio em
+  2020.'
+cited_position:
+- kind: not_located
+  summary: Manifestação não localizada até esta coleta.
+why_in_novelo: Empresa de Fabiano Zettel, envolvida em transações imobiliárias em Guaxupé/MG — mesma cidade
+  do sítio que o delator Paulo Sérgio Neves de Souza vendeu a Zettel em 2020, ainda sem relação confirmada
+  entre as duas operações.
+open_questions:
+- 'Não está estabelecido se as transações de 2024 em Guaxupé (via Pipe/Noah) envolvem a mesma propriedade
+  do sítio vendido por Paulo Sérgio Neves de Souza a Zettel em 2020 (ver
+  ev-paulo-sergio-relato-interno-sitio-guaxupe-4-5-milhoes-zettel) — a coincidência de sobrenome dos
+  contrapartes ("de Souza") e de município é sugestiva, mas nenhuma fonte confirma se é a mesma área,
+  um loteamento dela, ou uma propriedade distinta.'
+source_ids:
+- src-stf-pet15645-rif-140515-coaf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

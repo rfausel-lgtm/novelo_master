@@ -1,0 +1,31 @@
+id: src-stf-pet15645-peticao-inicial-pf-rif-140515
+kind: source
+title: 'Petição inicial da PF na Pet 15.645/DF — pede acesso integral ao RIF nº 140515 retido pelo COAF'
+publisher: Supremo Tribunal Federal
+author: Delegado de Polícia Federal Daniel Penido de Britto
+publication_date: '2026-03-10'
+retrieved_at: '2026-09-15'
+url: https://peticionamento.stf.jus.br/visualizarProcesso/7526458/1
+source_type: official_court
+summary: 'Petição de 4 páginas (10/03/2026), pela DELECOR/DRPJ/SR/PF/SP, distribuída por conexão à Pet
+  15.198/DF e relatada por André Mendonça. A PF havia solicitado ao COAF o Relatório de Inteligência
+  Financeira (RIF) vinculado a pessoas físicas e jurídicas relacionadas à investigação sobre o Banco
+  Master; o COAF respondeu com o RIF nº 140515 (140515.2.9294.11521), mas reteve parte das comunicações
+  por identificar possível incidência de regra de foro por prerrogativa de função (competência do STJ ou
+  do STF), o que exige autorização judicial específica para liberação. A PF pede autorização para acesso
+  integral e ofício ao COAF determinando o compartilhamento de todas as comunicações omitidas, inclusive
+  as dos cinco anos anteriores à investigação (desde 2020).'
+notes: 'Peça obtida via peticionamento.stf.jus.br (sessão autenticada de Rafael), com o processo (Pet
+  15.645/DF) já com o sigilo levantado por Mendonça em 14/09/2026, a pedido de Fachin, que atendia por sua
+  vez a pedido do próprio Alexandre de Moraes (ofício GMAM 11/2026, já no acervo) de que o conteúdo fosse
+  disponibilizado a todo o colegiado antes da sessão de 15/09/2026.'
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (leitura direta do PDF extraído)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,32 @@
+id: alexandre-cafe-birman
+kind: person
+name: Alexandre Café Birman
+category: businessperson
+role: Empresário (grupo Arezzo); vendeu imóvel de R$ 50 milhões à Super Empreendimentos e Participações
+summary: 'Empresário do setor calçadista, ligado ao grupo Arezzo. O RIF nº 140515 do COAF (fev/2026, anexo
+  à Pet 15.645/DF) registra escritura de 10/05/2024, lavrada em São Paulo/SP, na qual vendeu um imóvel à
+  Super Empreendimentos e Participações S.A. (já no acervo, ligada a Daniel Vorcaro e administrada por
+  Fabiano Zettel) por R$ 50 milhões — valor superior a 100% da avaliação fiscal, o que motivou a comunicação
+  ao COAF pelo tabelião nos termos do Provimento CN nº 149/2023 do CNJ. Não há, no relatório, qualquer
+  outra menção a ele nem alegação de irregularidade de sua parte — a comunicação decorre exclusivamente do
+  descompasso entre valor declarado e avaliação fiscal, prática rotineiramente sinalizada em transações
+  imobiliárias.'
+cited_position:
+- kind: not_located
+  summary: Manifestação não localizada até esta coleta.
+why_in_novelo: Vendeu um imóvel de R$ 50 milhões à Super Empreendimentos e Participações, empresa ligada a
+  Daniel Vorcaro e administrada por Fabiano Zettel, numa transação sinalizada ao COAF por discrepância de
+  valor fiscal.
+open_questions:
+- Não há no acervo confirmação do vínculo formal dele com o grupo Arezzo (fundador, sócio ou familiar de
+  fundador) — associação feita por reconhecimento do nome, a confirmar com fonte própria.
+- Nenhuma alegação de irregularidade recai sobre ele especificamente; a comunicação ao COAF decorre da
+  diferença entre valor declarado e avaliação fiscal, prática comum em transações imobiliárias de alto
+  valor.
+source_ids:
+- src-stf-pet15645-rif-140515-coaf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

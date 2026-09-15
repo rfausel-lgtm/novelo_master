@@ -1,0 +1,26 @@
+id: rel-fabiola-de-almeida-macedo-vorcaro-henrique-vorcaro-familial
+kind: relationship
+from_id: fabiola-de-almeida-macedo-vorcaro
+to_id: henrique-vorcaro
+relationship_type: familial
+directed: false
+label: possível cônjuge (não confirmado)
+description: Fabíola de Almeida Macedo Vorcaro compartilha o sobrenome "Vorcaro" e aparece na mesma rede
+  financeira de Henrique Moura Vorcaro (remetentes para a mesma conta da Igreja Batista da Lagoinha
+  Belvedere) — indícios de parentesco, possivelmente cônjuge, sem confirmação documental do grau exato.
+evidence_class: I
+confidence: 0.4
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-fabiola-vorcaro-sobrenome-e-coocorrencia-sugerem-parentesco
+source_ids:
+- src-stf-pet15645-rif-140515-coaf
+document_ids: []
+inference_basis: Sobrenome composto "Macedo Vorcaro" e coocorrência como remetente na mesma conta bancária
+  de Henrique Vorcaro no mesmo período — nenhum documento do acervo estabelece o vínculo familiar exato.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

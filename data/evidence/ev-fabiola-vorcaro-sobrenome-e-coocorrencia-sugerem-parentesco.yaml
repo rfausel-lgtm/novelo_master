@@ -1,0 +1,20 @@
+id: ev-fabiola-vorcaro-sobrenome-e-coocorrencia-sugerem-parentesco
+kind: evidence
+classification: I
+proposition: Fabíola de Almeida Macedo Vorcaro é possivelmente parente (talvez cônjuge) de Henrique Moura
+  Vorcaro, com base no sobrenome composto "Macedo Vorcaro" e na coocorrência como remetente na mesma conta
+  bancária da Igreja Batista da Lagoinha Belvedere, no mesmo período em que ele também aparece como remetente.
+document_ids: []
+source_ids:
+- src-stf-pet15645-rif-140515-coaf
+date: '2025-12-08'
+inference_basis: 'Nenhum documento do acervo estabelece diretamente o vínculo familiar entre os dois — a
+  inferência baseia-se apenas em (1) o sobrenome dela incluir "Vorcaro" e (2) ambos aparecerem como
+  remetentes na mesma conta bancária, no mesmo relatório de inteligência financeira, no mesmo período.
+  Limite explícito: sobrenome compartilhado não prova parentesco (poderia ser coincidência ou vínculo por
+  outra via), e coocorrência numa mesma conta receptora não implica relação direta entre os remetentes.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

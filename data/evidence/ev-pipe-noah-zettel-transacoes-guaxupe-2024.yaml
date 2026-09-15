@@ -1,0 +1,26 @@
+id: ev-pipe-noah-zettel-transacoes-guaxupe-2024
+kind: evidence
+classification: I
+proposition: 'O RIF nº 140515 do COAF registra, em 08/10/2024, duas transações de fração de imóvel rural
+  em Guaxupé/MG envolvendo Pipe Participações Ltda (empresa da qual Fabiano Zettel é sócio único, segundo
+  o verbete já publicado da Moriah Asset) e Noah Empreendimentos e Participações Ltda, com contrapartes de
+  sobrenome "de Souza" (Luis Roberto Neves de Souza, Helio Anacleto de Souza, Maria Lúcia de Souza
+  Rodrigues), por valores de R$ 240 mil e R$ 205 mil.'
+document_ids:
+- doc-2026-02-25-rif-140515-coaf
+source_ids:
+- src-stf-pet15645-rif-140515-coaf
+inference_basis: 'A coincidência de sobrenome ("de Souza") e de município (Guaxupé/MG) com o relato já
+  publicado do delator Paulo Sérgio Neves de Souza (que vendeu, em 2020, um sítio na mesma cidade a Fabiano
+  Zettel, e cujo irmão depois arrendou a mesma terra dele para lavoura de café) sugere que estas transações
+  de 2024 possam ser desdobramentos daquela mesma área ou de um loteamento dela — mas nenhuma fonte confirma
+  isso. Os valores (R$240 mil, R$205 mil) e a data (2024) divergem o suficiente do relato original (R$4,5
+  milhões, 2020) para não presumir que sejam a mesma operação.'
+date: '2024-10-08'
+notes: Registrado para referência futura — vale reconferir se a investigação eventualmente esclarecer a
+  identidade exata da propriedade rural em Guaxupé ligada a Zettel.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

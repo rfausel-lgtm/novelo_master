@@ -1,0 +1,24 @@
+id: rel-pipe-participacoes-fabiano-zettel-corporate
+kind: relationship
+from_id: fabiano-zettel
+to_id: pipe-participacoes
+relationship_type: corporate
+directed: true
+label: sócio único
+description: Fabiano Zettel é sócio único da Pipe Participações, segundo o verbete já publicado da Moriah
+  Asset (da qual a Pipe é sócia); o RIF nº 140515 do COAF registra a Pipe (com a Noah Empreendimentos) como
+  titular de transações imobiliárias em Guaxupé/MG em 2024.
+evidence_class: C
+confidence: 0.8
+status: verified
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-neofeed-2026-zettel-braco-direito-vorcaro-moriah-asset
+- src-stf-pet15645-rif-140515-coaf
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,38 @@
+id: src-stf-pet15645-rif-140515-coaf
+kind: source
+title: 'RIF nº 140515.2.9294.11521 (COAF) — anexo à Pet 15.645/DF'
+publisher: Conselho de Controle de Atividades Financeiras (COAF)
+publication_date: '2026-02-25'
+retrieved_at: '2026-09-15'
+url: https://peticionamento.stf.jus.br/visualizarProcesso/7526458/1
+source_type: official_court
+summary: 'Relatório de Inteligência Financeira de 13 páginas, datado de 25/02/2026, difundido à PF/SP,
+  com 823 pessoas relacionadas (303 físicas, 520 jurídicas) no universo total do procedimento COAF nº
+  2025.0049253 — deste total, o documento em anexo detalha apenas o subconjunto de comunicações em que a
+  pessoa física ou jurídica figura como titular, agrupadas em quatro núcleos: (1) Igreja Batista da
+  Lagoinha Belvedere, com Fabiano Campos Zettel como principal remetente (R$ 19,2 milhões) e nota do
+  analista do COAF classificando-o como "outorgado" citado em "notícia desabonadora" (Folha de S.Paulo,
+  08/12/2025) por ser cunhado de Daniel Vorcaro; (2) Moriah Asset Empreendimentos e Participações — compras
+  de veículos de luxo (Range Rover, Cadillac Escalade, Audi RS6) somando ~R$ 4,95 milhões em 2025; (3) Super
+  Empreendimentos e Participações S.A. — portfólio de aquisições e alienações imobiliárias entre 2022 e
+  2024 somando mais de R$ 250 milhões, incluindo compra de imóvel de R$ 50 milhões de Alexandre Café Birman
+  e doação de imóvel de R$ 4,347 milhões a Karolina Santos Trainotti; (4) Pipe Participações/Noah
+  Empreendimentos — pequenas transações de fração de imóvel em Guaxupé/MG em 2024. O restante do universo
+  de 823 relacionados consta apenas em planilhas .csv anexas, não incluídas nesta peça, e parte das
+  comunicações permanece retida por possível foro por prerrogativa de função.'
+notes: 'SIGILOSO por natureza (RIF de inteligência financeira, Lei 9.613/98) — mas o PROCESSO em que está
+  juntado (Pet 15.645/DF) teve o sigilo formalmente levantado por Mendonça em 14/09/2026. Nenhum CPF/CNPJ
+  de terceiros é reproduzido no acervo a partir desta fonte — apenas nomes, valores agregados e a natureza
+  das transações, conforme a política editorial do projeto. Nomes de contrapartes menores (vendedores/
+  compradores de imóveis de valor unitário mais baixo, fornecedores de obra) foram registrados apenas em
+  texto nas evidências, sem entidade própria, para eventual conexão futura.'
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (leitura direta do PDF extraído, 13 páginas)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

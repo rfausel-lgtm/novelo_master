@@ -1,0 +1,37 @@
+id: karolina-santos-trainotti
+kind: person
+name: Karolina Santos Trainotti
+category: other
+role: Administradora; recebeu por doação um imóvel de R$ 4,347 milhões da Super Empreendimentos e
+  Participações
+summary: 'Administradora, identificada no RIF nº 140515 do COAF (fev/2026, anexo à Pet 15.645/DF) como
+  destinatária de doação de imóvel em São Paulo/SP pela Super Empreendimentos e Participações S.A. (já no
+  acervo), por escritura de 16/12/2024, com valor fiscal atribuído de R$ 4.347.000,00 — mais de três vezes
+  o valor de referência (R$ 1.318.344,00 numa citação do RIF, R$ 1.350.268,00 noutra). A doação foi
+  assinada, em nome da Super Empreendimentos, por Ana Cláudia Queiroz de Paiva (já no acervo, diretora da
+  empresa) — dado que RESOLVE um open_question do verbete dela: a imprensa já registrava, sem identificar
+  a beneficiária nem quem assinou, que a Super Empreendimentos doara em dezembro de 2024 um apartamento de
+  R$ 4,4 milhões em São Paulo a pessoa denunciada pelo Ministério Público Federal em 2023 por lavagem de
+  dinheiro — valor, mês e cidade compatíveis com esta escritura, mas o RIF não repete essa alegação de
+  denúncia por lavagem, então a equipe NÃO confirma se Karolina Trainotti é a mesma pessoa referida pela
+  imprensa.'
+cited_position:
+- kind: not_located
+  summary: Manifestação não localizada até esta coleta.
+why_in_novelo: Recebeu, por doação da Super Empreendimentos, um imóvel de R$ 4,3 milhões assinado por Ana
+  Cláudia Queiroz de Paiva — achado que localiza a beneficiária e a signatária de uma doação já sinalizada
+  pela imprensa sem esses dados.
+open_questions:
+- 'NÃO CONFIRMADO: se ela é a pessoa que a imprensa (citada no verbete de Ana Cláudia Queiroz de Paiva)
+  descreve como "denunciada pelo Ministério Público Federal em 2023 por lavagem de dinheiro" — coincidem
+  valor (~R$4,3-4,4 milhões), mês (dezembro/2024) e cidade (São Paulo), mas o RIF do COAF não repete essa
+  alegação, e nenhuma fonte independente foi localizada associando o nome dela a uma denúncia de 2023.'
+- Motivo da doação não esclarecido — nenhuma fonte explica a relação entre ela e a Super Empreendimentos
+  ou seus administradores.
+source_ids:
+- src-stf-pet15645-rif-140515-coaf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

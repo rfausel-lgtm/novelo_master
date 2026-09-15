@@ -11,10 +11,14 @@ document_ids:
 source_ids:
 - src-bcb-2026-01-09-oficio-935-secre-dossie-admissibilidade-pf
 date: '2026-01-07'
-notes: Não está estabelecido se esta venda (sítio, Guaxupé/MG, R$ 4,5 milhões, jan/2020, comprador pessoa física)
-  é a mesma operação já registrada no verbete dele como 'venda de uma fazenda de café por R$ 3 milhões em 2021 a
-  fundo ligado a Fabiano Zettel', ou uma segunda operação distinta — os valores, datas, tipo de comprador (pessoa
-  física vs. fundo) e natureza do imóvel divergem o suficiente para não presumir que sejam a mesma.
+notes: 'Não está estabelecido se esta venda (sítio, Guaxupé/MG, R$ 4,5 milhões, jan/2020, comprador pessoa física)
+  é a mesma operação já registrada no verbete dele como ''venda de uma fazenda de café por R$ 3 milhões em 2021 a
+  fundo ligado a Fabiano Zettel'', ou uma segunda operação distinta — os valores, datas, tipo de comprador (pessoa
+  física vs. fundo) e natureza do imóvel divergem o suficiente para não presumir que sejam a mesma. NOVO
+  (15/09/2026): o RIF nº 140515 do COAF (Pet 15.645/DF) registra, em outubro de 2024, pequenas transações de
+  fração de imóvel rural em Guaxupé/MG envolvendo a Pipe Participações (sócio único: Zettel) e a Noah
+  Empreendimentos, com contrapartes de sobrenome "de Souza" — coincidência de sobrenome e município que sugere,
+  sem confirmar, relação com esta mesma área (ver ev-pipe-noah-zettel-transacoes-guaxupe-2024).'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

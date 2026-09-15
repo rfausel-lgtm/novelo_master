@@ -70,6 +70,12 @@ cited_position:
   by_id: fabiano-zettel
   date: '2026-03-21'
 open_questions:
+- 'NOVO (15/09/2026): o RIF nº 140515 do COAF (Pet 15.645/DF, sigilo levantado em 14/09/2026) o identifica
+  como maior remetente de recursos (R$ 19,2 milhões) para a conta da própria Igreja Batista da Lagoinha
+  onde foi pastor, e mostra a Moriah Asset comprando veículos de luxo somando R$ 4,95 milhões em 2025
+  (Range Rover x2, Cadillac Escalade, Audi RS6). O mesmo documento cita, sem identificar a fonte, que ele
+  seria apontado por "publicações" como maior doador das campanhas de Jair Bolsonaro e do atual governador
+  de São Paulo — não confirmado por fonte jornalística independente localizada pela equipe.'
 - 'NOVO (13/09/2026): a PF registra, no documento comprobatório da Pet 15.497, que ele apresentou Ricardo
   Siqueira Rodrigues (operador ligado ao caso RioPrevidência/Cláudio Castro) a Daniel Vorcaro em 18/10/2023 —
   um dia antes da assinatura do atestado de credenciamento do Banco Master no Rioprevidência.'
@@ -126,6 +132,7 @@ source_ids:
 - src-brasilapi-2026-super-empreendimentos-cnpj
 - src-cnnbrasil-2026-arleen-maridt-tayaya-quebra-cabeca
 - src-stf-pet15556-edoc247-peticao-zettel-domiciliar-pos-parto-24-04-2026
+- src-stf-pet15645-rif-140515-coaf
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'

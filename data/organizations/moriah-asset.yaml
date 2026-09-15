@@ -21,6 +21,10 @@ cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
+- 'NOVO (15/09/2026): o RIF nº 140515 do COAF (Pet 15.645/DF) mostra a Moriah Asset comprando, em 2025,
+  ao menos três veículos de luxo somando R$ 4,95 milhões (dois Range Rover, um Cadillac Escalade, um Audi
+  RS6), com forma de negociação (entradas com veículos usados, trocos elevados) que levou o COAF a colocar
+  o cliente em "monitoramento reforçado".'
 - A divergência entre a data de início de atividade no CNPJ (12/03/1998) e a fundação atribuída pela imprensa
   sugere reaproveitamento de CNPJ pré-existente com mudança de objeto e denominação — hipótese não confirmada
   em documento societário.
@@ -28,6 +32,7 @@ open_questions:
   das atividades nem sobre os repasses alegados pela liquidante.
 source_ids:
 - src-neofeed-2026-zettel-braco-direito-vorcaro-moriah-asset
+- src-stf-pet15645-rif-140515-coaf
 - src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
 - src-stf-rcl88121-decisao-12-12-2025-quebras-cpmi-acauteladas-senado
 review_status: published

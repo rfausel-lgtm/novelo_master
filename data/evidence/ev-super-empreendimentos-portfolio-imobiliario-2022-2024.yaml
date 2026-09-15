@@ -1,0 +1,32 @@
+id: ev-super-empreendimentos-portfolio-imobiliario-2022-2024
+kind: evidence
+classification: D
+proposition: 'O RIF nº 140515 do COAF documenta ao menos dez transações imobiliárias da Super
+  Empreendimentos e Participações S.A. entre 10/05/2022 e 10/04/2024 — todas em São Paulo/SP, quase todas
+  com Fabiano Zettel como procurador/representante legal —, somando mais de R$ 250 milhões: aquisições de
+  R$ 8,7 milhões (10/05/2022), R$ 10,34 milhões (11/08/2022), R$ 8,5 milhões (22/08/2022), R$ 30,9 milhões
+  de um fundo (High Yield Distressed, 10/05/2023), R$ 7 milhões (20/02/2024), R$ 43,71 milhões via BRL
+  Trust/Terra Fundo de Investimento Imobiliário (08/03/2024), R$ 48 milhões da Grip Negócios Imobiliários
+  (09/04/2024) e R$ 16,99 milhões de Vitor Silva Lourenço e Thais Fabrile Berlingeri Lourenço (10/04/2024)
+  — além da compra de R$ 50 milhões de Alexandre Café Birman (ver
+  ev-super-empreendimentos-compra-imovel-alexandre-birman-50-milhoes) e da venda por R$ 36,9 milhões à
+  Luzom Sociedade de Propósito Específico (21/05/2024, com garantia fiduciária de volta à Super
+  Empreendimentos). Quase todas as transações foram sinalizadas ao COAF por diferença entre valor declarado
+  e avaliação fiscal, não por alegação de ilicitude específica.'
+document_ids:
+- doc-2026-02-25-rif-140515-coaf
+source_ids:
+- src-stf-pet15645-rif-140515-coaf
+attributed_to_id: super-empreendimentos-e-participacoes
+date: '2024-04-10'
+notes: 'Esta descoberta dá conteúdo concreto a um open_question já registrado no verbete da própria Super
+  Empreendimentos: que Fabiano Zettel teria recebido R$ 485 milhões da empresa entre 2022 e 2026 sem
+  natureza contratual esclarecida. O portfólio imobiliário aqui detalhado mostra PARTE do destino do
+  dinheiro da empresa no mesmo período — mas não fecha a pergunta original sobre a origem/natureza dos
+  repasses a Zettel pessoalmente, que são um fluxo distinto (a empresa comprando imóveis em nome próprio,
+  não necessariamente repassando a ele).'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -58,11 +58,13 @@ open_questions:
   nenhuma decisão que revogue ou agrave as cautelares, nenhuma denúncia formal da PGR e nenhuma tratativa
   de colaboração premiada. Registra-se que a PGR se manifestou contrariamente às cautelares impostas nesta
   fase.'
-- A Super Empreendimentos doou, em dezembro de 2024, apartamento de R$ 4,4 milhões em São Paulo a pessoa
-  denunciada pelo Ministério Público Federal em 2023 por lavagem de dinheiro. Como Fabiano Zettel deixara
-  a diretoria em julho daquele ano, ela seria a diretora em exercício na data — mas uma das fontes atribui
-  a posição a Zettel, e a reportagem que trataria especificamente do ponto foi despublicada. Quem assinou
-  a escritura não está estabelecido; a verificação depende do registro de imóveis.
+- 'PARCIALMENTE RESOLVIDO (15/09/2026): o RIF nº 140515 do COAF (Pet 15.645/DF) confirma que foi ELA quem
+  assinou, como procuradora/representante legal da Super Empreendimentos, a escritura de 16/12/2024 que
+  doou um imóvel de R$ 4,347 milhões a Karolina Santos Trainotti — valor, mês e cidade (São Paulo)
+  compatíveis com a doação de "R$ 4,4 milhões" já registrada aqui a partir de reportagem que não identificava
+  a beneficiária nem a signatária. PERMANECE EM ABERTO: o RIF não repete a alegação de que a beneficiária
+  tenha sido denunciada pelo MPF em 2023 por lavagem de dinheiro — a equipe NÃO confirma se Karolina
+  Trainotti é a mesma pessoa referida pela reportagem original (ver karolina-santos-trainotti.yaml).'
 source_ids:
 - src-timesbrasil-2026-03-mensagens-belline-cobrando
 - src-stf-2026-03-03-integra-decisao-compliance-zero-pet15556
@@ -72,6 +74,7 @@ source_ids:
 - src-cnnbrasil-2026-vorcaro-pagava-400-mil-mes-a-turma
 - src-brasilapi-2026-king-participacoes-imobiliarias
 - src-poder360-2026-mendonca-pgr-divergiram-cautelares
+- src-stf-pet15645-rif-140515-coaf
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

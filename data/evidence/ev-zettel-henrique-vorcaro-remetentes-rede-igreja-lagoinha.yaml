@@ -1,0 +1,24 @@
+id: ev-zettel-henrique-vorcaro-remetentes-rede-igreja-lagoinha
+kind: evidence
+classification: D
+proposition: 'No RIF nº 140515 do COAF, a conta bancária vinculada à Igreja Batista da Lagoinha Belvedere
+  (Belo Horizonte/MG) registra, entre os principais remetentes de recursos no período de 24/12/2024 a
+  08/12/2025: Fabiano Campos Zettel (R$ 19,2 milhões em 26 lançamentos, o maior remetente identificado),
+  Henrique Moura Vorcaro (R$ 120 mil em 4 lançamentos) e Fabíola de Almeida Macedo Vorcaro (R$ 101,6 mil em
+  7 lançamentos). O COAF conclui a comunicação "considerando relação financeira íntima do outorgado
+  [Zettel] mencionado em possíveis ilicitudes" — nota que o próprio relatório atribui à cobertura da Folha
+  de S.Paulo de 08/12/2025 sobre o escândalo do Banco Master.'
+document_ids:
+- doc-2026-02-25-rif-140515-coaf
+source_ids:
+- src-stf-pet15645-rif-140515-coaf
+attributed_to_id: fabiano-zettel
+date: '2025-12-08'
+notes: Os valores recebidos pela conta da igreja foram majoritariamente repassados a empresas de construção
+  civil — consistente com obras no templo. Nenhuma fonte alega irregularidade por parte da própria
+  instituição religiosa; o alerta do COAF recai sobre o perfil do remetente Zettel.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

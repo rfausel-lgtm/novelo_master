@@ -1,0 +1,25 @@
+id: ev-super-empreendimentos-doa-apartamento-karolina-trainotti-2024
+kind: evidence
+classification: D
+proposition: 'Por escritura de 16/12/2024, a Super Empreendimentos e Participações S.A. doou a Karolina
+  Santos Trainotti um imóvel em São Paulo/SP com valor fiscal atribuído de R$ 4.347.000,00 — mais de três
+  vezes o valor de referência da prefeitura —, ato assinado, em nome da doadora, por Ana Cláudia Queiroz de
+  Paiva, diretora da empresa. O RIF registra a mesma doação duas vezes (tentativa de registro devolvida em
+  30/01/2025 por exigências, e novo registro em 25/02/2025).'
+document_ids:
+- doc-2026-02-25-rif-140515-coaf
+source_ids:
+- src-stf-pet15645-rif-140515-coaf
+attributed_to_id: ana-claudia-queiroz-de-paiva
+date: '2024-12-16'
+notes: 'Esta descoberta responde, em parte, ao open_question já registrado no verbete de Ana Cláudia
+  Queiroz de Paiva: reportagem de imprensa (não repetida aqui) mencionava uma doação de dezembro/2024, de
+  cerca de R$ 4,4 milhões, em São Paulo, a pessoa dita denunciada pelo MPF em 2023 por lavagem de dinheiro,
+  sem identificar a beneficiária nem quem assinou. Valor, mês e cidade batem com esta escritura — mas o
+  RIF do COAF não repete a alegação de denúncia por lavagem contra Karolina Trainotti, então a equipe NÃO
+  confirma que se trata da mesma pessoa mencionada pela imprensa.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'
