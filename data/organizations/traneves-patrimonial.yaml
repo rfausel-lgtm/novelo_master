@@ -1,0 +1,22 @@
+kind: organization
+org_type: company
+id: traneves-patrimonial
+name: Traneves Patrimonial
+full_name: Traneves Patrimonial Ltda.
+jurisdiction: Salvador (BA)
+summary: Empresa da família Grangeon Trancoso Neves aberta em 1993. Segundo a Folha, reproduzida pela CNN, vendeu
+  a Jaques Wagner em 2000, por R$ 28 mil, o terreno de Camaçari; a escritura de 2026 registra a Fazenda Terere da
+  Traneves como confrontante. Alex Grangeon Trancoso Neves, seu sócio-administrador, administra a Lagoons, compradora
+  do mesmo terreno em 2026.
+why_in_novelo: Liga o vendedor do terreno de Wagner em 2000 ao comprador de 2026.
+cited_position:
+- kind: not_located
+  summary: A CNN aguardava resposta da empresa; nenhuma manifestação localizada.
+source_ids:
+- src-minhareceita-traneves-patrimonial-cnpj
+- src-cnn-2026-07-24-terreno-de-wagner-valorizou-11400
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

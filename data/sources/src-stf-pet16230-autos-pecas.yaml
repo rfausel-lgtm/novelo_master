@@ -1,0 +1,25 @@
+kind: source
+id: src-stf-pet16230-autos-pecas
+title: PET 16.230/DF — autos da representação por medidas assecuratórias (343 peças)
+publisher: Supremo Tribunal Federal
+publication_date: '2026-08-21'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7619744
+source_type: official_court
+summary: Autos da petição autuada em 11/06/2026 a partir do Ofício 2368199/2026 da PF (Inq 5.026 e Pet 16.032),
+  com a decisão de constrição, agravos e pedidos das defesas, manifestações da PGR, respostas de instituições e
+  cartórios e documentos juntados pelas partes — entre eles, pela defesa de Jaques Wagner, a carta-proposta do City
+  Football Group de 27/02/2025, a comunicação do adiantamento pago pela EC Bahia SAF e as escrituras de venda e
+  de novação do terreno de Camaçari, lavradas em 18/05/2026.
+notes: Peças obtidas pelo editor no peticionamento eletrônico do STF; o processo consta com partes e decisões em
+  consulta pública no portal. Dados pessoais das peças (documentos, endereços, contas) não são reproduzidos.
+retrieved_at: '2026-09-15'
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

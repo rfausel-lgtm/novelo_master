@@ -1,0 +1,27 @@
+kind: event
+evidence_ids:
+- ev-pet16230-proventos-do-senado-de-wagner-desbloqueados
+source_ids:
+- src-stf-pet16230-decisao-29-07-2026-desbloqueio-proventos
+document_ids:
+- doc-2026-07-29-decisao-pet16230-desbloqueio-proventos-wagner
+public_act_ids: []
+id: evt-2026-07-29-mendonca-libera-proventos-do-senado-de-wagner
+title: Mendonça libera proventos do Senado bloqueados de Jaques Wagner (PET 16.230)
+event_type: judicial_decision
+date: '2026-07-29'
+date_precision: day
+location: Brasília (DF)
+participant_ids:
+- andre-mendonca
+- jaques-wagner
+description: André Mendonça determinou o desbloqueio de R$ 53.994,59 de proventos do Senado de Jaques Wagner e vedou
+  novos bloqueios sobre créditos dessa fonte na conta indicada, por sua natureza remuneratória e indenizatória,
+  com parecer favorável da PGR. A constrição sobre valores de outras origens foi mantida.
+evidence_class: D
+status: verified
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

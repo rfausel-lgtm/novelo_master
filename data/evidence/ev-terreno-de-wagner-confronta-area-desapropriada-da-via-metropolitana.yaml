@@ -1,0 +1,24 @@
+kind: evidence
+id: ev-terreno-de-wagner-confronta-area-desapropriada-da-via-metropolitana
+classification: D
+proposition: A escritura de 18/05/2026 descreve o terreno de Wagner em Camaçari confrontando com a "ÁREA DECRETO
+  Nº 15.159 DE 28 DE MAIO DE 2014", e a carta do City Football Group afirma que a área da matrícula "foi parcialmente
+  desapropriada em função da construção do anel metropolitano"; o decreto, assinado pelo governador Jaques Wagner,
+  declarou de utilidade pública as áreas da Via Metropolitana e autorizou a Bahia Norte a desapropriar.
+document_ids:
+- doc-2026-05-18-escritura-venda-terreno-camacari-a-lagoons
+- doc-2025-02-27-carta-proposta-city-football-group-terreno-camacari
+- doc-2014-05-28-decreto-ba-15159-utilidade-publica-via-metropolitana
+source_ids:
+- src-stf-pet16230-autos-pecas
+- src-legislabahia-decreto-15159-2014-via-metropolitana
+- src-fiocruz-mapa-de-conflitos-quingoma-bahia-norte
+date: '2014-05-28'
+notes: O anexo do decreto descreve as poligonais só por coordenadas, sem nomear proprietários; a equipe não cruzou
+  as coordenadas com o terreno. Nenhum processo de desapropriação ou indenização envolvendo Wagner foi localizado
+  no DJEN; ele afirma ter aberto mão da indenização.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

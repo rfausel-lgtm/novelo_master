@@ -1,0 +1,21 @@
+kind: organization
+org_type: company
+id: esporte-clube-bahia-saf
+name: Esporte Clube Bahia SAF
+aliases:
+- EC Bahia SAF
+jurisdiction: Salvador (BA)
+summary: Sociedade anônima do futebol do Bahia, controlada pelo City Football Group. Pagou a Jaques Wagner, em maio
+  de 2025, adiantamento de R$ 2 milhões pelo terreno de Camaçari, em nome da CFG (Midco).
+why_in_novelo: Pagadora do adiantamento a Jaques Wagner pelo terreno de Camaçari.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação da SAF localizada.
+source_ids:
+- src-stf-pet16230-autos-pecas
+- src-band-2026-08-03-patrimonio-de-wagner-cresce-631
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

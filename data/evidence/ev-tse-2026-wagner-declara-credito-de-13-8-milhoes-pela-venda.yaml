@@ -1,0 +1,15 @@
+kind: evidence
+id: ev-tse-2026-wagner-declara-credito-de-13-8-milhoes-pela-venda
+classification: A
+proposition: Segundo o Estadão Conteúdo, Jaques Wagner declarou ao TSE em 2026 R$ 13,8 milhões em crédito decorrente
+  da venda do terreno de Camaçari à SAF do Bahia e à Lagoons, e patrimônio total de R$ 24,5 milhões, contra R$ 3,3
+  milhões em 2018.
+source_ids:
+- src-band-2026-08-03-patrimonio-de-wagner-cresce-631
+attributed_to: Estadão Conteúdo, com base nas declarações ao TSE
+date: '2026-08-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

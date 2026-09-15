@@ -32,6 +32,8 @@ open_questions:
 - 'NOVO (15/09/2026): é sócio, desde 14/01/2008, da MMSM Patrimonial, cujo sócio-administrador é o pai, Guilherme
   Sodré, conforme dados abertos da Receita. Segundo Wagner em 2016, a parte de Guilherme no sítio de Andaraí foi
   adquirida para o filho.'
+- 'NOVO (15/09/2026): teve bens constritos até R$ 5.955.250 na PET 16.230 (19/06/2026); a decisão cita planilhas
+  com pagamentos a "Dudu" acima de R$ 2,34 milhões.'
 source_ids:
 - src-jornalsete-2026-pf-repasse-empresa-enteado-wagner
 - src-metropoles-2026-guilherme-sodre-martins-melhor-amigo-wagner-9afase
@@ -40,6 +42,7 @@ source_ids:
 - src-verificacao-direta-equipe-pet16229-decisao-integra
 - src-minhareceita-mmsm-patrimonial-cnpj
 - src-bahianoticias-2016-05-15-wagner-compra-sitio-chapada
+- src-stf-pet16230-decisao-19-06-2026-constricao-patrimonial
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'

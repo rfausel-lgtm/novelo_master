@@ -27,6 +27,8 @@ open_questions:
 - Não se sabe se a MMSM Patrimonial é a empresa grafada "MMSS" pela Época na compra do sítio de Andaraí, nem se
   a fração de 24% ainda é dele.
 - A empresa de energia de que a MMSM é sócia, segundo a Folha, não foi identificada.
+- Em 19/06/2026 teve bens constritos até R$ 5.955.250 na PET 16.230, com a GF4.15 Participações e Consultoria, que
+  administra, e a Sodré Martins Serviços Administrativos; recorreu por agravo em julho de 2026.
 source_ids:
 - src-metropoles-2026-guilherme-sodre-martins-melhor-amigo-wagner-9afase
 - src-pf-representacao-9a-fase-wagner-pdf
@@ -35,6 +37,8 @@ source_ids:
 - src-bahianoticias-2026-09-14-mendonca-nega-viagens-sodre
 - src-bahianoticias-2016-05-15-wagner-compra-sitio-chapada
 - src-poder360-2026-06-19-pf-wagner-intermediario-vorcaro-lula
+- src-stf-pet16230-decisao-19-06-2026-constricao-patrimonial
+- src-stf-pet16230-autos-pecas
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-15'

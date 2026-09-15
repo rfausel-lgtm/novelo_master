@@ -1,0 +1,19 @@
+kind: evidence
+id: ev-wagner-comprou-terreno-de-camacari-em-2000-por-28-mil
+classification: C
+proposition: Jaques Wagner adquiriu o terreno em Tererê, distrito de Abrantes, Camaçari, por escritura de março
+  de 2000, e o declarou ao TSE em 2018 por R$ 28 mil; segundo a Folha, reproduzida pela CNN, o vendedor foi a Traneves
+  Patrimonial, representada por Antonoaldo Grangeon Trancoso Neves.
+document_ids:
+- doc-2026-05-18-escritura-venda-terreno-camacari-a-lagoons
+source_ids:
+- src-cnn-2026-07-24-terreno-de-wagner-valorizou-11400
+- src-band-2026-08-03-patrimonio-de-wagner-cresce-631
+date: 2000-03
+notes: A escritura de 2026 data a aquisição em 02/03/2000, com registro em 07/04/2000; a CNN fala em 20/03/2000.
+  O vendedor não é nomeado na escritura de 2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

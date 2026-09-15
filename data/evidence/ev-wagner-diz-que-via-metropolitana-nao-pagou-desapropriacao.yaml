@@ -1,0 +1,17 @@
+kind: evidence
+id: ev-wagner-diz-que-via-metropolitana-nao-pagou-desapropriacao
+classification: A
+proposition: Em entrevista à Rádio Andaiá, reproduzida por CNN Brasil e O Tempo, Jaques Wagner afirmou que a Via
+  Metropolitana "cortou lá um pedaço do terreno e eu digo 'não vou cobrar nenhuma desapropriação'" e que foi "talvez
+  a única obra feita na Bahia para benefício dos baianos que não teve pago desapropriação".
+source_ids:
+- src-cnn-2026-07-24-terreno-de-wagner-valorizou-11400
+- src-otempo-2026-07-24-wagner-recusou-indenizacao-terreno
+attributed_to_id: jaques-wagner
+date: '2026-07-24'
+excerpt: não teve pago desapropriação
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

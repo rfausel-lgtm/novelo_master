@@ -1,0 +1,63 @@
+kind: event
+evidence_ids:
+- ev-pet16230-constricao-de-27-alvos-pelos-eixos-poeme-e-bn
+- ev-pet16230-decisao-descreve-suspeitas-da-pf-sobre-wagner
+- ev-pgr-foi-contra-a-constricao-patrimonial-da-pet16230
+source_ids:
+- src-stf-pet16230-decisao-19-06-2026-constricao-patrimonial
+- src-stf-pet16230-autos-pecas
+document_ids:
+- doc-2026-06-19-decisao-pet16230-constricao-patrimonial
+- doc-2026-07-03-pgr-pet16230-contra-medida-assecuratoria
+public_act_ids: []
+id: evt-2026-06-19-mendonca-decreta-constricao-patrimonial-pet16230
+title: Mendonça decreta constrição patrimonial de 27 alvos no eixo Jaques Wagner (PET 16.230)
+event_type: judicial_decision
+date: '2026-06-19'
+date_precision: day
+location: Brasília (DF)
+participant_ids:
+- andre-mendonca
+- supremo-tribunal-federal
+- policia-federal
+- andrea-lima-novaes
+- augusto-lima
+- bn-financeira
+- bn-representacoes-tecnologicas
+- daniel-lopes-monteiro
+- david-lopes-monteiro
+- eduardo-mendonca-sodre-martins
+- gf4-15-participacoes-e-consultoria
+- guilherme-henrique-sodre-martins
+- jaques-wagner
+- joao-carlos-mansur
+- pkl-one-participacoes
+- sodre-martins-servicos-administrativos
+- terra-firme-da-bahia
+- bonnie-toaldo-bonilha
+- moises-dantas-dos-santos
+- epitome-sa
+- luiz-antonio-lombardi
+- valerio-marega-junior
+description: Um dia após a 9ª fase da Compliance Zero, André Mendonça deferiu a representação da PF por medidas
+  assecuratórias e decretou a constrição de bens de 27 alvos, com tetos individuais de R$ 5.955.250, R$ 3,5 milhões
+  ou R$ 2.455.250 conforme o eixo investigado — o apartamento do Poème Horto e a transferência da PKL One à BN Financeira
+  —, além da indisponibilidade da unidade 1.702. A decisão registra as hipóteses da PF em juízo preliminar, sem
+  exame de mérito, e foi tomada contra o parecer da PGR, que se opusera à medida assecuratória. Os bloqueios foram
+  executados a partir de 22/06/2026.
+evidence_class: D
+status: verified
+cited_position:
+- kind: denial
+  by_id: jaques-wagner
+  date: 2026-07
+  summary: Em agravo regimental, Wagner pede a reconsideração ou a reforma pela Turma, alegando falta de acesso
+    aos elementos de origem, indeterminação da medida, inexistência de ato de ofício ou contrapartida e que os bens
+    alcançados não integram seu patrimônio.
+  source_ids:
+  - src-stf-pet16230-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

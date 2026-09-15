@@ -1,0 +1,21 @@
+kind: evidence
+id: ev-pet16230-decisao-descreve-suspeitas-da-pf-sobre-wagner
+classification: D
+proposition: 'Segundo a decisão de 19/06/2026 na PET 16.230, a PF aponta Jaques Wagner como suposto beneficiário
+  central das vantagens investigadas: uso gratuito de aeronaves ligadas a Augusto Lima ou ao Master, ingressos de
+  show no exterior de R$ 63.339 comprados pela REAG, a aquisição do apartamento 1.702 do Poème Horto por estruturas
+  interpostas e pagamentos à BN Financeira, ligada ao núcleo familiar do senador.'
+document_ids:
+- doc-2026-06-19-decisao-pet16230-constricao-patrimonial
+source_ids:
+- src-stf-pet16230-decisao-19-06-2026-constricao-patrimonial
+attributed_to_id: policia-federal
+locator: itens 46 a 52 da decisão
+date: '2026-06-19'
+excerpt: suposto beneficiário central das vantagens econômicas investigadas
+notes: A decisão registra a hipótese da PF em juízo preliminar; não há juízo de mérito.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

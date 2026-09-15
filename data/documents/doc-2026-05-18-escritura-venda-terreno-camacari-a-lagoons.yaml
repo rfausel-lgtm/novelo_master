@@ -1,0 +1,26 @@
+kind: document
+id: doc-2026-05-18-escritura-venda-terreno-camacari-a-lagoons
+title: Escritura pública de venda e compra de 4,3844 ha do terreno de Jaques Wagner em Camaçari à Lagoons
+doc_type: contract
+date: '2026-05-18'
+date_precision: day
+issuer: 2º Ofício de Notas de Camaçari (BA)
+reference: Livro 251-E, folhas 091/097, ordem 005763; juntada na PET 16.230
+source_ids:
+- src-stf-pet16230-autos-pecas
+is_official: true
+summary: Jaques Wagner e Maria de Fátima Mendonça vendem à Lagoons Empreendimentos SPE, representada pelos administradores
+  Raul Aguirre Zegarra e Alex Grangeon Trancoso Neves, 4,3844 ha de área de 5,15 ha no lugar Tererê, distrito de
+  Abrantes, Camaçari, havida por escritura de 02/03/2000. Preço de R$ 15.834.129,00, dado por quitado mediante nota
+  promissória pro soluto com vencimento em 2029. A descrição do perímetro registra confrontação com a "ÁREA DECRETO
+  Nº 15.159 DE 28 DE MAIO DE 2014" e com a Fazenda Terere da Traneves Patrimonial.
+excerpt: O preço total, certo e ajustado pelas partes para a área descrita na cláusula 3.1. é de R$15.834.129,00
+related_entity_ids:
+- jaques-wagner
+- lagoons-empreendimentos-spe
+- traneves-patrimonial
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

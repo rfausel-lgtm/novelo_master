@@ -1,0 +1,26 @@
+kind: relationship
+event_ids:
+- evt-2026-05-18-wagner-vende-terreno-de-camacari-a-lagoons
+evidence_ids:
+- ev-ec-bahia-saf-pagou-adiantamento-de-2-milhoes-a-wagner
+source_ids:
+- src-stf-pet16230-autos-pecas
+document_ids:
+- doc-2025-05-21-comunicacao-adiantamento-ec-bahia-saf-a-wagner
+id: rel-esporte-clube-bahia-saf-jaques-wagner-financial
+from_id: esporte-clube-bahia-saf
+to_id: jaques-wagner
+relationship_type: financial
+directed: true
+label: adiantamento de R$ 2 milhões pelo terreno (mai/2025)
+start_date: 2025-05
+description: A EC Bahia SAF transferiu R$ 2 milhões a Jaques Wagner e Fátima Mendonça, em nome da CFG (Midco), como
+  adiantamento do preço do terreno de Camaçari.
+evidence_class: D
+confidence: 0.95
+status: verified
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,20 @@
+kind: organization
+org_type: company
+id: sodre-martins-servicos-administrativos
+name: Sodré Martins Serviços Administrativos
+full_name: Sodré Martins Serviços Administrativos Ltda.
+summary: Empresa apontada pela PF, na PET 16.230, como vinculada a Eduardo e Guilherme Sodré Martins e tratada como
+  projeção patrimonial dos investigados; incluída na constrição com teto de R$ 5.955.250. A Folha registra que pai
+  e filho são sócios de uma firma de serviços administrativos.
+why_in_novelo: Alvo de constrição patrimonial na 9ª fase da Compliance Zero ligado à família Sodré Martins.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação da empresa localizada.
+source_ids:
+- src-stf-pet16230-decisao-19-06-2026-constricao-patrimonial
+- src-folha-acessa-2026-06-21-enteado-wagner-lastro-familiar
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

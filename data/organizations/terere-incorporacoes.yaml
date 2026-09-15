@@ -1,0 +1,21 @@
+kind: organization
+org_type: company
+id: terere-incorporacoes
+name: Terere Incorporações
+full_name: Terere Incorporações Ltda.
+jurisdiction: Salvador (BA)
+summary: Incorporadora aberta em 2024, com Alex Grangeon Trancoso Neves como sócio-administrador e, desde janeiro
+  de 2026, a BN Participações e Investimentos, representada por Antonoaldo Grangeon Trancoso Neves — empresa distinta
+  da BN Financeira. É sócia da Lagoons Empreendimentos SPE.
+why_in_novelo: Sócia da compradora do terreno de Jaques Wagner.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação localizada.
+source_ids:
+- src-minhareceita-terere-incorporacoes-cnpj
+- src-minhareceita-lagoons-empreendimentos-spe-cnpj
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,23 @@
+kind: document
+id: doc-2014-05-28-decreto-ba-15159-utilidade-publica-via-metropolitana
+title: Decreto estadual nº 15.159/2014 (Bahia) — utilidade pública das áreas da Via Metropolitana
+doc_type: administrative_act
+date: '2014-05-28'
+date_precision: day
+issuer: Governo do Estado da Bahia
+reference: Decreto nº 15.159, de 28/05/2014, alterado pelo Decreto nº 16.293, de 26/08/2015
+url: https://www.legislabahia.ba.gov.br/documentos/decreto-no-15159-de-28-de-maio-de-2014
+source_ids:
+- src-legislabahia-decreto-15159-2014-via-metropolitana
+is_official: true
+summary: Declara de utilidade pública, para desapropriação, áreas em Salvador, Lauro de Freitas e Camaçari para
+  a interligação BA-099/BA-526 e autoriza a Bahia Norte a desapropriar e indenizar. Assinado pelo governador Jaques
+  Wagner.
+excerpt: se destinam à execução de obras de interligação entre a Rodovia BA-099 e a Rodovia BA-526
+related_entity_ids:
+- jaques-wagner
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

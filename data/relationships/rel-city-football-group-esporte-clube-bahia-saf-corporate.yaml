@@ -1,0 +1,23 @@
+kind: relationship
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-stf-pet16230-autos-pecas
+- src-band-2026-08-03-patrimonio-de-wagner-cresce-631
+document_ids: []
+id: rel-city-football-group-esporte-clube-bahia-saf-corporate
+from_id: city-football-group
+to_id: esporte-clube-bahia-saf
+relationship_type: corporate
+directed: true
+label: controlador
+description: A EC Bahia SAF pagou o adiantamento pelo terreno de Wagner em nome e por conta da CFG (Midco), do Grupo
+  City, controlador da SAF.
+evidence_class: A
+confidence: 0.8
+status: unverified
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

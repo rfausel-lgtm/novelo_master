@@ -1,0 +1,20 @@
+kind: document
+id: doc-2026-07-03-pgr-pet16230-contra-medida-assecuratoria
+title: Manifestações da PGR na PET 16.230 contrárias à medida assecuratória
+doc_type: judicial_filing
+date: '2026-07-03'
+date_precision: day
+issuer: Procurador-Geral da República Paulo Gonet Branco
+reference: STF, PET 16.230/DF, manifestações de 03/07/2026 e 05/08/2026
+source_ids:
+- src-stf-pet16230-autos-pecas
+is_official: true
+summary: Em 03/07/2026, sobre o pedido de Wagner, a PGR registra que já se manifestara em sentido contrário à medida
+  assecuratória que motivou o bloqueio e opina pelo levantamento; em 05/08/2026 deixa de contra-arrazoar os agravos
+  de Wagner, Gavazza, Augusto Lima, Andréa Lima Novaes, Terra Firme e PKL One pelo mesmo motivo.
+excerpt: opinou em sentido contrário à medida assecuratória que motivou os bloqueios questionados
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

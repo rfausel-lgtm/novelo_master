@@ -1,0 +1,25 @@
+kind: document
+id: doc-2026-05-18-escritura-novacao-terreno-camacari-lagoons
+title: Escritura pública de novação e confissão de dívida sobre o preço do terreno de Camaçari
+doc_type: contract
+date: '2026-05-18'
+date_precision: day
+issuer: 2º Ofício de Notas de Camaçari (BA)
+reference: Livro 251-E, folhas 098/103, ordem 005764; juntada na PET 16.230
+source_ids:
+- src-stf-pet16230-autos-pecas
+is_official: true
+summary: Substitui a nota promissória da venda por confissão de dívida da Lagoons de R$ 15.834.129,00, quitada em
+  R$ 2.000.000,00 por compensação de créditos e, no saldo de R$ 13.834.129,00, por dação em pagamento de 5.510,73
+  m² de lotes do condomínio de lotes que a Lagoons fará em terreno de 458.794 m² na Via Metropolitana, em Tererê,
+  a serem escolhidos após aprovação do projeto e registro da incorporação.
+excerpt: mediante dação em pagamento de 5.510,73m² (cinco mil, quinhentos e dez metros quadrados e setenta e três
+  decímetros quadrados)
+related_entity_ids:
+- jaques-wagner
+- lagoons-empreendimentos-spe
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

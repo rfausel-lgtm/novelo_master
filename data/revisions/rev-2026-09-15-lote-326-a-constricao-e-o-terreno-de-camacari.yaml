@@ -1,0 +1,52 @@
+id: rev-2026-09-15-lote-326-a-constricao-e-o-terreno-de-camacari
+kind: revision
+date: '2026-09-15'
+title: Lote 326 — a constrição da PET 16.230 e o terreno de Wagner que o Grupo City comprou
+summary: 'Os autos da PET 16.230 abrem o eixo patrimonial da 9ª fase. Em 19/06/2026, André Mendonça decretou a constrição
+  de bens de 27 alvos — Wagner, Augusto Lima, Guilherme e Eduardo Sodré entre eles — até R$ 5.955.250, soma dos
+  eixos Poème Horto e BN Financeira, contra o parecer da PGR, que se opusera à medida; em 29/07, liberou os proventos
+  do Senado bloqueados de Wagner. Os documentos juntados pela defesa reconstituem o terreno de Camaçari: comprado
+  em 2000 por R$ 28 mil, confrontando com área declarada de utilidade pública pelo Decreto 15.159/2014, assinado
+  pelo próprio Wagner como governador, para a Via Metropolitana — obra pela qual ele diz ter aberto mão de indenização;
+  oferecido ao Grupo City em fevereiro de 2025 para o condomínio junto ao CT do Bahia; R$ 2 milhões de adiantamento
+  pagos pela EC Bahia SAF; e vendido em 18/05/2026 à Lagoons por R$ 15,8 milhões, em lotes e no adiantamento. A
+  Lagoons, aberta em dezembro de 2025, é administrada pelo CEO da SAF e por Alex Trancoso Neves, cuja família vendeu
+  o terreno a Wagner em 2000. O registro, pedido no dia seguinte à operação, foi barrado pela indisponibilidade.'
+added:
+  people: 2
+  organizations: 7
+  events: 3
+  documents: 9
+  relationships: 15
+  sources: 11
+  evidence: 13
+updated_relationships: 0
+corrections:
+- 'O bloqueio do terreno não vem de ordem específica: a decisão de 19/06/2026 não o menciona, e a indisponibilidade
+  foi averbada pela ordem geral na CNIB.'
+- 'A Traneves Patrimonial não pertence a Wagner: é da família Trancoso Neves e vendeu-lhe o terreno em 2000.'
+- A venda à Lagoons é de 18/05/2026, não de maio de 2025; em maio de 2025 houve o adiantamento pago pela EC Bahia
+  SAF.
+author: orquestrador
+affected_ids:
+- jaques-wagner
+- guilherme-henrique-sodre-martins
+- eduardo-mendonca-sodre-martins
+- augusto-lima
+- lagoons-empreendimentos-spe
+- traneves-patrimonial
+- terere-incorporacoes
+- city-football-group
+- esporte-clube-bahia-saf
+- alex-grangeon-trancoso-neves
+- raul-aguirre-zegarra
+- gf4-15-participacoes-e-consultoria
+- sodre-martins-servicos-administrativos
+- andre-mendonca
+reason: Autos da PET 16.230 obtidos pelo editor no peticionamento e liberados para publicação por ele; processo
+  com decisões em consulta pública no portal do STF. Terreno conferido nas escrituras, na Receita e na imprensa.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

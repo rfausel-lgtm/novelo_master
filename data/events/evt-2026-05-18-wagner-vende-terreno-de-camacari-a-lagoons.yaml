@@ -1,0 +1,60 @@
+kind: event
+evidence_ids:
+- ev-carta-do-city-football-group-propoe-comprar-terreno-de-wagner
+- ev-ec-bahia-saf-pagou-adiantamento-de-2-milhoes-a-wagner
+- ev-escrituras-venda-do-terreno-de-wagner-a-lagoons-por-15-8-milhoes
+- ev-indisponibilidade-averbada-no-terreno-de-camacari
+- ev-wagner-comprou-terreno-de-camacari-em-2000-por-28-mil
+- ev-tse-2026-wagner-declara-credito-de-13-8-milhoes-pela-venda
+- ev-terreno-de-wagner-confronta-area-desapropriada-da-via-metropolitana
+source_ids:
+- src-stf-pet16230-autos-pecas
+- src-cnn-2026-07-24-terreno-de-wagner-valorizou-11400
+- src-band-2026-08-03-patrimonio-de-wagner-cresce-631
+document_ids:
+- doc-2026-05-18-escritura-venda-terreno-camacari-a-lagoons
+- doc-2026-05-18-escritura-novacao-terreno-camacari-lagoons
+- doc-2025-02-27-carta-proposta-city-football-group-terreno-camacari
+- doc-2025-05-21-comunicacao-adiantamento-ec-bahia-saf-a-wagner
+- doc-2026-07-20-manifestacao-wagner-pet16230-terreno-camacari
+public_act_ids: []
+id: evt-2026-05-18-wagner-vende-terreno-de-camacari-a-lagoons
+title: Jaques Wagner vende terreno de Camaçari à Lagoons, do Grupo City, por R$ 15,8 milhões em lotes e adiantamento
+event_type: transaction
+date: '2026-05-18'
+date_precision: day
+location: Camaçari (BA)
+participant_ids:
+- jaques-wagner
+- lagoons-empreendimentos-spe
+- alex-grangeon-trancoso-neves
+- raul-aguirre-zegarra
+description: Por escrituras lavradas em 18/05/2026, Jaques Wagner e Maria de Fátima Mendonça venderam à Lagoons
+  Empreendimentos SPE 4,3844 ha do terreno comprado em 2000 por R$ 28 mil, pelo preço de R$ 15.834.129, pago com
+  o adiantamento de R$ 2 milhões feito pela EC Bahia SAF em maio de 2025 e com 5.510,73 m² de lotes do condomínio
+  planejado pelo Grupo City junto ao seu CT. A escritura foi levada a registro em 19/06/2026, dia seguinte à 9ª
+  fase da Compliance Zero, e o cartório averbou a indisponibilidade da PET 16.230. Parte da área original confronta
+  com terras declaradas de utilidade pública em 2014 para a Via Metropolitana.
+evidence_class: D
+status: verified
+cited_position:
+- kind: clarification
+  by_id: jaques-wagner
+  date: '2026-07-20'
+  summary: A defesa diz que o negócio foi concebido em 2024, parcialmente cumprido em 2025, tributado e público,
+    que o pedido de registro foi feito pela compradora e que o imóvel continua indisponível e em nome de Wagner,
+    sem dilapidação.
+  source_ids:
+  - src-stf-pet16230-autos-pecas
+- kind: clarification
+  by_id: jaques-wagner
+  date: '2026-07-24'
+  summary: Sobre a Via Metropolitana, disse que a estrada seguiu o traçado escolhido pelos engenheiros e que a obra
+    não pagou desapropriação.
+  source_ids:
+  - src-cnn-2026-07-24-terreno-de-wagner-valorizou-11400
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

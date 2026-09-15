@@ -1,0 +1,25 @@
+kind: document
+id: doc-2025-05-21-comunicacao-adiantamento-ec-bahia-saf-a-wagner
+title: Comunicação do adiantamento de R$ 2 milhões pago pela EC Bahia SAF a Jaques Wagner
+doc_type: letter
+date: '2025-05-21'
+date_precision: day
+issuer: Esporte Clube Bahia SAF e City Football Group (Midco) Limited
+reference: Juntada pela defesa de Jaques Wagner na PET 16.230
+source_ids:
+- src-stf-pet16230-autos-pecas
+summary: Informa a Jaques Wagner e Maria de Fátima Mendonça a transferência de R$ 2.000.000,00 feita pela EC Bahia
+  SAF em nome da CFG (Midco), como adiantamento do preço previsto na carta-proposta de 27/02/2025, aceita em 25/04/2025,
+  a ser devolvido se as condições suspensivas não se cumprirem. Assinam, pela SAF, o CFO e Raul Aguirre como CEO,
+  e, pela CFG (Midco), seu CFO.
+excerpt: The Advance Payment has been made by EC Bahia SAF on behalf of CITY FOOTBALL GROUP (MIDCO) LIMITED
+related_entity_ids:
+- jaques-wagner
+- esporte-clube-bahia-saf
+- city-football-group
+- raul-aguirre-zegarra
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

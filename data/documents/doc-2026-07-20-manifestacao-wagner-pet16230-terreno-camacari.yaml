@@ -1,0 +1,25 @@
+kind: document
+id: doc-2026-07-20-manifestacao-wagner-pet16230-terreno-camacari
+title: Manifestação de Jaques Wagner na PET 16.230 sobre a venda do terreno de Camaçari
+doc_type: judicial_filing
+date: '2026-07-20'
+date_precision: day
+issuer_id: jaques-wagner
+issuer: Defesa de Jaques Wagner
+reference: STF, PET 16.230/DF
+source_ids:
+- src-stf-pet16230-autos-pecas
+summary: 'Refuta reportagens de tentativa de venda após a operação: tratativas desde 2024, proposta do Grupo City
+  aceita em abril de 2025, adiantamento de R$ 2 milhões em maio de 2025, imposto de ganho de capital pago em 30/06/2025
+  e escrituras de 18/05/2026. Afirma que em 19/06/2026 a escritura foi apresentada a registro pela compradora, com
+  procuração dada na própria escritura, que o cartório averbou a indisponibilidade e que o imóvel permaneceu em
+  nome de Wagner, de cuja decisão a defesa só teve ciência em 26/06/2026.'
+excerpt: O 1º Ofício de Registro de Imóveis averbou a indisponibilidade
+related_entity_ids:
+- jaques-wagner
+- lagoons-empreendimentos-spe
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,19 @@
+kind: evidence
+id: ev-pet16230-constricao-de-27-alvos-pelos-eixos-poeme-e-bn
+classification: D
+proposition: Em 19/06/2026, na PET 16.230, André Mendonça decretou a constrição patrimonial de 27 alvos, com teto
+  de R$ 5.955.250 — soma dos eixos Poème Horto e BN Financeira — para Jaques Wagner, Augusto Lima, Guilherme e Eduardo
+  Sodré Martins e outros 12 alvos, de R$ 3,5 milhões para três alvos do eixo BN Financeira e de R$ 2.455.250 para
+  oito alvos do eixo Poème Horto.
+document_ids:
+- doc-2026-06-19-decisao-pet16230-constricao-patrimonial
+source_ids:
+- src-stf-pet16230-decisao-19-06-2026-constricao-patrimonial
+locator: itens 113 a 118 da decisão
+date: '2026-06-19'
+excerpt: DETERMINAR a constrição patrimonial, até o limite individual abaixo indicado
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

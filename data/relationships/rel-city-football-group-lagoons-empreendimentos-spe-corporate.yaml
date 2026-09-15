@@ -1,0 +1,23 @@
+kind: relationship
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-minhareceita-lagoons-empreendimentos-spe-cnpj
+document_ids: []
+id: rel-city-football-group-lagoons-empreendimentos-spe-corporate
+from_id: city-football-group
+to_id: lagoons-empreendimentos-spe
+relationship_type: corporate
+directed: true
+label: sócio por meio da City Football Brazil Ltda
+start_date: '2025-12-15'
+description: A City Football Brazil Ltda, do Grupo City, é sócia da Lagoons Empreendimentos SPE desde a constituição,
+  segundo a Receita Federal.
+evidence_class: A
+confidence: 0.8
+status: unverified
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

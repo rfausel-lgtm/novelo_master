@@ -1,0 +1,24 @@
+kind: relationship
+event_ids: []
+evidence_ids:
+- ev-wagner-comprou-terreno-de-camacari-em-2000-por-28-mil
+source_ids:
+- src-cnn-2026-07-24-terreno-de-wagner-valorizou-11400
+document_ids: []
+id: rel-traneves-patrimonial-jaques-wagner-commercial
+from_id: traneves-patrimonial
+to_id: jaques-wagner
+relationship_type: commercial
+directed: true
+label: vendeu-lhe o terreno de Camaçari em 2000 (segundo a Folha)
+start_date: 2000-03
+description: Segundo a Folha, reproduzida pela CNN, a Traneves Patrimonial vendeu a Jaques Wagner o terreno de Camaçari
+  em março de 2000, por R$ 28 mil.
+evidence_class: A
+confidence: 0.7
+status: unverified
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

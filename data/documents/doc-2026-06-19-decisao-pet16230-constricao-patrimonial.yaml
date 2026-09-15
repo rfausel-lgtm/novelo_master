@@ -1,0 +1,36 @@
+kind: document
+id: doc-2026-06-19-decisao-pet16230-constricao-patrimonial
+title: Decisão de constrição patrimonial na PET 16.230 (eixo Jaques Wagner da Compliance Zero)
+doc_type: judicial_decision
+date: '2026-06-19'
+date_precision: day
+issuer_id: supremo-tribunal-federal
+issuer: Ministro André Mendonça
+reference: STF, PET 16.230/DF, decisão de 19/06/2026
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15388189970&ext=.pdf
+source_ids:
+- src-stf-pet16230-decisao-19-06-2026-constricao-patrimonial
+- src-stf-pet16230-autos-pecas
+is_official: true
+summary: 'Defere representação da PF e determina constrição patrimonial de 27 alvos: até R$ 5.955.250 (soma dos
+  eixos Poème Horto e BN Financeira) para Andréa Lima Novaes, Augusto Ferreira Lima, BN Financeira, BN Representações
+  Tecnológicas, Daniel e David Lopes Monteiro, Eduardo e Guilherme Sodré Martins, Gavazza Empreendimentos, GF4.15
+  Participações e Consultoria, Jaques Wagner, João Carlos Falbo Mansur, PKL One, REAG Administradora de Recursos,
+  Sodré Martins Serviços Administrativos e Terra Firme da Bahia; até R$ 3.500.000 para Bonnie e Patrich Toaldo Bonilha
+  e Moisés Dantas dos Santos; até R$ 2.455.250 para André Pissolito Campos, Epítome S.A., Hockenheim FIP, Luiz Antônio
+  Lombardi, Márcio Domingues dos Santos, Valério Marega Júnior, WNT Gestora e WNT Capital DTVM. Decreta ainda a
+  indisponibilidade da unidade 1.702 do Poème Horto.'
+excerpt: o valor global mínimo deve perfazer a importância de R$ 5.955.250,00, correspondente à soma dos referidos
+  eixos
+related_entity_ids:
+- jaques-wagner
+- augusto-lima
+- guilherme-henrique-sodre-martins
+- eduardo-mendonca-sodre-martins
+- bn-financeira
+- pkl-one-participacoes
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

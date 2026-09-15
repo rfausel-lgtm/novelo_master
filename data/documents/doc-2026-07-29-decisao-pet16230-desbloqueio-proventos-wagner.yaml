@@ -1,0 +1,25 @@
+kind: document
+id: doc-2026-07-29-decisao-pet16230-desbloqueio-proventos-wagner
+title: Decisão que desbloqueia proventos do Senado de Jaques Wagner na PET 16.230
+doc_type: judicial_decision
+date: '2026-07-29'
+date_precision: day
+issuer_id: supremo-tribunal-federal
+issuer: Ministro André Mendonça
+reference: STF, PET 16.230/DF, decisão de 29/07/2026
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15388947196&ext=.pdf
+source_ids:
+- src-stf-pet16230-decisao-29-07-2026-desbloqueio-proventos
+- src-stf-pet16230-autos-pecas
+is_official: true
+summary: Reconhece, pela declaração da Coordenação de Pagamento do Senado, que R$ 53.994,59 bloqueados estavam em
+  conta de proventos, determina o desbloqueio e veda que a ordem de constrição alcance créditos futuros pagos pelo
+  Senado na mesma conta; valores de outras fontes dependem de pedido próprio.
+excerpt: DEFIRO os pedidos formulados por Jaques Wagner nos e-Docs. 43 e 179
+related_entity_ids:
+- jaques-wagner
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

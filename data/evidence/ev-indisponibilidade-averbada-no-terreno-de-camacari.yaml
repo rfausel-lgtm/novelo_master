@@ -1,0 +1,20 @@
+kind: evidence
+id: ev-indisponibilidade-averbada-no-terreno-de-camacari
+classification: C
+proposition: A escritura de venda do terreno de Camaçari foi apresentada a registro em 19/06/2026, dia seguinte
+  à 9ª fase da Compliance Zero, e o cartório averbou a indisponibilidade decorrente da PET 16.230, de modo que o
+  imóvel permaneceu em nome de Jaques Wagner.
+document_ids:
+- doc-2026-07-20-manifestacao-wagner-pet16230-terreno-camacari
+source_ids:
+- src-stf-pet16230-autos-pecas
+- src-cnn-2026-07-24-terreno-de-wagner-valorizou-11400
+date: '2026-06-19'
+notes: A defesa afirma que o pedido de registro foi feito pela compradora, com procuração dada na escritura, e que
+  Wagner só teve ciência da decisão em 26/06/2026. A decisão de 19/06 não menciona o terreno; o bloqueio decorre
+  da ordem geral de indisponibilidade na CNIB.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

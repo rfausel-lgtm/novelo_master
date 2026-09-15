@@ -1,0 +1,23 @@
+kind: organization
+org_type: company
+id: city-football-group
+name: City Football Group
+aliases:
+- CFG (Midco) Limited
+- Grupo City
+jurisdiction: Reino Unido
+summary: Grupo controlador de clubes de futebol, dono da SAF do Esporte Clube Bahia. Por meio da CFG (Midco) Limited,
+  propôs em 27/02/2025 a Jaques Wagner a compra do terreno de Camaçari para o CT e um condomínio, e é sócio da Lagoons
+  Empreendimentos SPE por meio da City Football Brazil Ltda.
+why_in_novelo: Negociou com Jaques Wagner a compra do terreno barrada pela constrição da PET 16.230.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação do grupo localizada.
+source_ids:
+- src-stf-pet16230-autos-pecas
+- src-minhareceita-lagoons-empreendimentos-spe-cnpj
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

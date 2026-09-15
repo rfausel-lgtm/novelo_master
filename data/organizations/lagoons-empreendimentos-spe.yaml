@@ -1,0 +1,27 @@
+kind: organization
+org_type: company
+id: lagoons-empreendimentos-spe
+name: Lagoons Empreendimentos SPE
+full_name: Lagoons Empreendimentos SPE Ltda.
+jurisdiction: Camaçari (BA)
+summary: Sociedade de propósito específico aberta em 15/12/2025 em Camaçari, com sede no CT Evaristo de Macedo do
+  Bahia, tendo como sócias City Football Brazil, QPC Incorporadora e Terere Incorporações e como administradores
+  Alex Grangeon Trancoso Neves e Raul Aguirre Zegarra. Comprou de Jaques Wagner, em 18/05/2026, 4,3844 ha do terreno
+  de Camaçari por R$ 15.834.129, pagos com R$ 2 milhões e 5.510,73 m² de lotes do condomínio que fará em 458.794
+  m² na Via Metropolitana; o registro foi barrado pela indisponibilidade da PET 16.230.
+why_in_novelo: É a compradora do terreno de Jaques Wagner cuja transferência foi barrada pela constrição da 9ª fase
+  da Compliance Zero.
+cited_position:
+- kind: not_located
+  summary: Nota da empresa citada pela imprensa não foi lida pela equipe.
+open_questions:
+- A Lagoons foi aberta em dezembro de 2025, depois da carta-proposta de fevereiro de 2025, que previa empresa a
+  ser designada pelo City Football Group.
+source_ids:
+- src-minhareceita-lagoons-empreendimentos-spe-cnpj
+- src-stf-pet16230-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

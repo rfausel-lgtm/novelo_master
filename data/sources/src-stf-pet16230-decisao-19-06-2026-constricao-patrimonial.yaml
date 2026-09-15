@@ -1,0 +1,26 @@
+kind: source
+id: src-stf-pet16230-decisao-19-06-2026-constricao-patrimonial
+title: Decisão que decreta constrição patrimonial de 27 alvos da 9ª fase da Compliance Zero (PET 16.230, 19/06/2026)
+publisher: Supremo Tribunal Federal — Ministro André Mendonça
+author: Ministro André Mendonça
+publication_date: '2026-06-19'
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15388189970&ext=.pdf
+source_type: official_court
+summary: Decisão de 40 páginas que defere a representação da Polícia Federal por medidas assecuratórias no eixo
+  Jaques Wagner da Operação Compliance Zero. Individualiza 27 alvos, organiza a constrição pelos dois eixos patrimoniais
+  apontados pela PF — o apartamento 1.702 do Poème Horto (R$ 2.455.250) e a transferência da PKL One à BN Financeira
+  (R$ 3.500.000) — e fixa tetos de R$ 5.955.250, R$ 3.500.000 ou R$ 2.455.250 por alvo, com ordens via SISBAJUD,
+  CNIB, RENAJUD, cartórios, juntas e Banco Central, além da indisponibilidade da unidade 1.702.
+notes: Listada na aba de decisões do portal do STF (incidente 7619744); o processo mostra partes e decisões em consulta
+  pública. Texto lido também na cópia obtida no peticionamento.
+retrieved_at: '2026-09-15'
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

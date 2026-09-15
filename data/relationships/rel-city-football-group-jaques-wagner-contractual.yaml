@@ -1,0 +1,26 @@
+kind: relationship
+event_ids:
+- evt-2026-05-18-wagner-vende-terreno-de-camacari-a-lagoons
+evidence_ids:
+- ev-carta-do-city-football-group-propoe-comprar-terreno-de-wagner
+source_ids:
+- src-stf-pet16230-autos-pecas
+document_ids:
+- doc-2025-02-27-carta-proposta-city-football-group-terreno-camacari
+id: rel-city-football-group-jaques-wagner-contractual
+from_id: city-football-group
+to_id: jaques-wagner
+relationship_type: contractual
+directed: true
+label: carta-proposta de compra do terreno de Camaçari (aceita em abr/2025)
+start_date: '2025-02-27'
+description: A CFG (Midco), do Grupo City, propôs em 27/02/2025 comprar o terreno de Wagner em Camaçari para o condomínio
+  junto ao CT do Bahia; Wagner e Fátima Mendonça aceitaram em 25/04/2025.
+evidence_class: D
+confidence: 0.95
+status: verified
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

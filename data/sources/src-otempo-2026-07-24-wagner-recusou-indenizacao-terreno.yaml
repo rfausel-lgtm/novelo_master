@@ -1,0 +1,21 @@
+kind: source
+id: src-otempo-2026-07-24-wagner-recusou-indenizacao-terreno
+title: Jaques Wagner diz que recusou indenização por terreno cedido à construção de rodovia na Bahia
+publisher: O Tempo
+publication_date: '2026-07-24'
+url: https://www.otempo.com.br/politica/judiciario/2026/7/24/jaques-wagner-diz-que-recusou-indenizacao-por-terreno-cedido-a-construcao-de-rodovia-na-bahia
+source_type: press
+summary: 'Reproduz entrevista de Jaques Wagner à Rádio Andaiá: a Via Metropolitana "cortou lá um pedaço do terreno
+  e eu digo ''não vou cobrar nenhuma desapropriação''"; e post em que diz que a via, "que eu comecei e @ruicostaoficial
+  terminou", permitiria construir o novo CT do Bahia.'
+retrieved_at: '2026-09-15'
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

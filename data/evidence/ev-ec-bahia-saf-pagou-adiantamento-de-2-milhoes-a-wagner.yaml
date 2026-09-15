@@ -1,0 +1,17 @@
+kind: evidence
+id: ev-ec-bahia-saf-pagou-adiantamento-de-2-milhoes-a-wagner
+classification: D
+proposition: Em maio de 2025, a Esporte Clube Bahia SAF transferiu R$ 2 milhões a Jaques Wagner e Maria de Fátima
+  Mendonça, em nome da CFG (Midco), como adiantamento do preço do terreno de Camaçari, conforme comunicação de 21/05/2025
+  assinada por Raul Aguirre como CEO da SAF.
+document_ids:
+- doc-2025-05-21-comunicacao-adiantamento-ec-bahia-saf-a-wagner
+source_ids:
+- src-stf-pet16230-autos-pecas
+date: '2025-05-21'
+excerpt: bank transfer order made in your favour by EC Bahia SAF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'

@@ -1,0 +1,20 @@
+kind: source
+id: src-minhareceita-traneves-patrimonial-cnpj
+title: Cadastro Nacional da Pessoa Jurídica — TRANEVES PATRIMONIAL LTDA
+publisher: Receita Federal, via redistribuição do dump público de CNPJ
+publication_date: '2026'
+url: https://minhareceita.org/73889693000199
+source_type: official_government
+summary: Aberta em 14/12/1993 em Salvador (BA), incorporação de empreendimentos imobiliários. Quatro sócios-administradores
+  da família Grangeon Trancoso Neves, todos desde 10/11/1994, entre eles Alex e Antonoaldo Grangeon Trancoso Neves.
+retrieved_at: '2026-09-15'
+verification:
+  checked_at: '2026-09-15'
+  checked_by: orquestrador (leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-15'
+created_at: '2026-09-15'
+updated_at: '2026-09-15'
