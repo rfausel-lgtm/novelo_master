@@ -1,0 +1,24 @@
+id: ev-gilmar-oficio-formal-pede-adiamento-sessao-e-reuniao-processos
+kind: evidence
+classification: C
+proposition: 'Na véspera da sessão extraordinária de 15/09/2026, Gilmar Mendes enviou ofício formal a Fachin
+  pedindo o adiamento do julgamento da Pet 16.662 e propondo quatro alternativas: reunir os processos de
+  Moraes e de Mendonça; Fachin assumir a relatoria do processo de Mendonça; organizar previamente a matéria
+  a ser julgada; ou, mantida a sessão, o próprio Gilmar apresentar o caso ao plenário com as preliminares
+  (inclusive o pedido de nulidade da PGR) analisadas antes do mérito.'
+document_ids: []
+source_ids:
+- src-migalhas-2026-09-14-gilmar-oficio-pede-fachin-adiar-reunir-casos
+- src-exame-2026-09-14-gilmar-pede-fachin-reunir-casos-relatoria
+attributed_to_id: gilmar-mendes
+excerpt: Se a sessão de terça for mantida, o próprio Gilmar apresentaria o caso ao plenário, com as
+  preliminares — inclusive o pedido da PGR de nulidade do relatório da PF — analisadas antes do mérito.
+date: '2026-09-14'
+notes: Formaliza, em ofício escrito, o que Gilmar já havia sugerido publicamente em entrevista de 11/09/2026
+  (ver ev-gilmar-questiona-publicamente-se-pet16662-esta-pronta-para-julgamento). Nenhuma fonte localizada
+  até esta coleta relata se Fachin acatou, recusou ou respondeu ao ofício antes da sessão.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-14'
+created_at: '2026-09-14'
+updated_at: '2026-09-14'
