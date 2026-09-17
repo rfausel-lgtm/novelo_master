@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+- **Grafo organizado ao abrir, e sem rotação.** O desenho inicial era um novelo uniforme, com os dois
+  maiores hubs puxando tudo para o meio. Agora as posições partem dos grupos de nós mais ligados entre
+  si, cada grupo fica na sua região e nenhum nó cobre outro; os hubs continuam no centro, com os
+  vizinhos diretos em volta. Ligar a camada probatória não mexe mais no desenho do núcleo: documentos,
+  fontes e evidências aparecem junto dos nós que sustentam. "Reorganizar" usa as mesmas forças do
+  desenho inicial, para refiná-lo em vez de desmontá-lo. Os botões de girar o grafo, os atalhos `[`,
+  `]` e `0` e o giro com dois dedos saíram.
+
 - **Embed do grafo também no painel da Revista Oeste.** O `frame-ancestors` passou a admitir
   `admin.revistaoeste.com`, onde a Revista edita e pré-visualiza o post: o grafo aparecia no post
   publicado, mas não na pré-visualização. Host explícito, sem curinga, a pedido do TI da Revista.

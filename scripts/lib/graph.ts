@@ -1,6 +1,6 @@
 import Graph from "graphology";
-import forceAtlas2 from "graphology-layout-forceatlas2";
 import { circular } from "graphology-layout";
+import { layoutGraph } from "./graph-layout";
 import type { Corpus } from "../../src/lib/schema";
 import { OFFICIAL_SOURCE_TYPES, RELATIONSHIP_FAMILY } from "../../src/lib/schema";
 import type {
@@ -49,7 +49,7 @@ export interface BuildGraphOptions {
  *  - arestas: relações (entidade↔entidade), participação (entidade→evento),
  *    atuação (entidade→ato público) e transações (from→to);
  *  - métricas por nó, flags official/documented por aresta, datas para a time machine;
- *  - posições via ForceAtlas2 determinístico (seed fixa).
+ *  - posições determinísticas (seed fixa), calculadas em `graph-layout.ts`.
  */
 /** Categorias que compõem a camada probatória opcional. */
 export const EVIDENCE_LAYER_CATEGORIES = ["document", "source", "claim", "evidence"] as const;
@@ -87,7 +87,7 @@ export function splitEvidenceLayer(payload: GraphPayload): {
 
 export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphPayload {
   const layout = opts.layout ?? true;
-  const iterations = opts.iterations ?? 600;
+  const iterations = opts.iterations ?? 1500;
 
   const sources = new Map(corpus.sources.map((s) => [s.id, s]));
   const evidence = new Map(corpus.evidence.map((e) => [e.id, e]));
@@ -708,23 +708,15 @@ export function buildGraph(corpus: Corpus, opts: BuildGraphOptions = {}): GraphP
     else g.addUndirectedEdgeWithKey(e.id, e.source, e.target, { weight: 1 });
   }
   if (g.order > 0) {
-    circular.assign(g, { scale: 100 });
-    // Perturbação determinística para evitar simetrias perfeitas.
-    let seed = opts.seed ?? 42;
-    const rand = () => {
-      seed = (seed * 1664525 + 1013904223) % 4294967296;
-      return seed / 4294967296;
-    };
-    g.forEachNode((id) => {
-      g.setNodeAttribute(id, "x", g.getNodeAttribute(id, "x") + (rand() - 0.5) * 20);
-      g.setNodeAttribute(id, "y", g.getNodeAttribute(id, "y") + (rand() - 0.5) * 20);
-    });
     if (layout) {
-      const settings = forceAtlas2.inferSettings(g);
-      forceAtlas2.assign(g, {
+      const layerCategories = new Set<string>(EVIDENCE_LAYER_CATEGORIES);
+      layoutGraph(g, {
         iterations,
-        settings: { ...settings, gravity: 1, scalingRatio: 6, barnesHutOptimize: g.order > 800 },
+        seed: opts.seed ?? 42,
+        isLayer: (id) => layerCategories.has(nodes.get(id)!.category),
       });
+    } else {
+      circular.assign(g, { scale: 100 });
     }
     g.forEachNode((id, attrs) => {
       const n = nodes.get(id)!;

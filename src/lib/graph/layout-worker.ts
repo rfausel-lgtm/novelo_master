@@ -5,7 +5,7 @@
  */
 import type Graph from "graphology";
 import FA2Layout from "graphology-layout-forceatlas2/worker";
-import forceAtlas2 from "graphology-layout-forceatlas2";
+import { FA2_LAYOUT_SETTINGS } from "./layout-settings";
 
 export interface LayoutRunner {
   /** Inicia continuamente; com `durationMs`, para sozinho. */
@@ -19,12 +19,9 @@ export function createLayoutRunner(graph: Graph, onStop?: () => void): LayoutRun
   if (graph.order === 0) {
     return { run() {}, stop() {}, isRunning: () => false, kill() {} };
   }
-  const settings = forceAtlas2.inferSettings(graph);
   const layout = new FA2Layout(graph, {
     settings: {
-      ...settings,
-      gravity: 1,
-      scalingRatio: 8,
+      ...FA2_LAYOUT_SETTINGS,
       barnesHutOptimize: graph.order > 800,
       slowDown: 2,
     },
