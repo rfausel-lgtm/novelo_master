@@ -172,8 +172,9 @@ Site estático sem segredos em runtime. `.env.example` versionado, `.env*` ignor
 pre-commit e no CI, scanner de fallback (`npm run scan:secrets`), auditoria de dependências e CodeQL.
 Cabeçalhos de segurança são aplicados pelo host (`public/_headers`, ver [DEPLOYMENT.md](DEPLOYMENT.md)).
 
-Uma exceção deliberada: o site pode ser embutido em `iframe` por `revistaoeste.com` e
-`www.revistaoeste.com`, que pediram autorização, e o `X-Frame-Options` foi removido porque não sabe
+Uma exceção deliberada: o site pode ser embutido em `iframe` por `revistaoeste.com`,
+`www.revistaoeste.com` e `admin.revistaoeste.com` (o painel onde a Revista pré-visualiza o post,
+liberado em 17/09/2026), que pediram autorização, e o `X-Frame-Options` foi removido porque não sabe
 liberar domínio específico. Liberar o enquadramento não abre superfície aqui — não há login, cookie,
 formulário nem ação com efeito para um clickjacking sequestrar. **Essa premissa expira** no dia em que
 o site ganhar qualquer interação com efeito; nesse dia, a linha `frame-ancestors` em `public/_headers`

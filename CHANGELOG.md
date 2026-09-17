@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+- **Embed do grafo também no painel da Revista Oeste.** O `frame-ancestors` passou a admitir
+  `admin.revistaoeste.com`, onde a Revista edita e pré-visualiza o post: o grafo aparecia no post
+  publicado, mas não na pré-visualização. Host explícito, sem curinga, a pedido do TI da Revista.
+  `SECURITY.md` e `DEPLOYMENT.md` ainda descreviam `frame-ancestors 'none'` e `X-Frame-Options: DENY`,
+  anteriores à autorização de embed; agora refletem o `public/_headers`.
+
 - **Ligações do grafo mais fáceis de abrir.** As linhas são finas e o clique precisava cair em cima
   delas. Agora um clique perto de uma linha abre o card da conexão, com margem maior no toque do
   celular; clicar num nó continua selecionando o nó, e clicar longe de tudo continua desmarcando.

@@ -44,12 +44,14 @@ Nenhum scanner imprime o valor do segredo encontrado; apenas arquivo e linha.
 
 ## Cabeçalhos de segurança do host
 
-O site é exportado estaticamente ([ADR-0002](docs/adr/0002-next-static-export.md)), então `next.config.ts` não define cabeçalhos; eles são configurados no host. A ADR prevê `public/_headers` (Cloudflare Pages, Netlify) e um `DEPLOYMENT.md` com o equivalente para nginx. Cabeçalhos esperados em produção:
+O site é exportado estaticamente ([ADR-0002](docs/adr/0002-next-static-export.md)), então `next.config.ts` não define cabeçalhos; eles são configurados no host. A fonte da verdade é `public/_headers` (Cloudflare Pages, Netlify), que traz comentado o motivo de cada exceção; `DEPLOYMENT.md` tem o equivalente para nginx. Cabeçalhos esperados em produção:
 
-- `Content-Security-Policy` restritiva: `default-src 'self'`; scripts e estilos do próprio domínio (com os ajustes que o Next e o Sigma exigirem); `img-src 'self' data:`; `connect-src 'self'`; `frame-ancestors 'none'`; `object-src 'none'`; `base-uri 'self'`.
-- `Strict-Transport-Security: max-age=31536000; includeSubDomains`.
+- `Content-Security-Policy` restritiva: `default-src 'self'`; scripts e estilos do próprio domínio (com os ajustes que o Next e o Sigma exigirem), mais o beacon do Cloudflare Web Analytics; `img-src 'self' data:`; `connect-src 'self'` mais o host de envio do beacon; `object-src 'none'`; `base-uri 'self'`.
+- `frame-ancestors 'self' https://revistaoeste.com https://www.revistaoeste.com https://admin.revistaoeste.com`: a Revista Oeste pediu autorização para embutir o site. Hosts explícitos, sem curinga. A premissa (sem login, cookie, formulário nem ação com efeito para um clickjacking sequestrar) é reavaliada antes de o site ganhar qualquer interação com efeito; ver [ARCHITECTURE.md](ARCHITECTURE.md).
+- `Strict-Transport-Security: max-age=31536000; includeSubDomains; preload`.
 - `X-Content-Type-Options: nosniff`.
-- `X-Frame-Options: DENY`.
+- **Sem** `X-Frame-Options`: ele não sabe liberar domínio específico e, com `DENY`, derrubaria o embed autorizado. Quem controla o enquadramento é `frame-ancestors`.
+- `Cross-Origin-Opener-Policy: same-origin`.
 - `Referrer-Policy: strict-origin-when-cross-origin`.
 - `Permissions-Policy` negando câmera, microfone, geolocalização e sensores.
 - `poweredByHeader: false` já está em `next.config.ts`.
