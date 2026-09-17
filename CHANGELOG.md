@@ -2,6 +2,20 @@
 
 ## Unreleased
 
+- **Grafo organizado ao abrir, e sem rotação.** O desenho inicial era um novelo uniforme, com os dois
+  maiores hubs puxando tudo para o meio. Agora as posições partem dos grupos de nós mais ligados entre
+  si, cada grupo fica na sua região e nenhum nó cobre outro; os hubs continuam no centro, com os
+  vizinhos diretos em volta. Ligar a camada probatória não mexe mais no desenho do núcleo: documentos,
+  fontes e evidências aparecem junto dos nós que sustentam. "Reorganizar" usa as mesmas forças do
+  desenho inicial, para refiná-lo em vez de desmontá-lo. Os botões de girar o grafo, os atalhos `[`,
+  `]` e `0` e o giro com dois dedos saíram.
+
+- **Embed do grafo também no painel da Revista Oeste.** O `frame-ancestors` passou a admitir
+  `admin.revistaoeste.com`, onde a Revista edita e pré-visualiza o post: o grafo aparecia no post
+  publicado, mas não na pré-visualização. Host explícito, sem curinga, a pedido do TI da Revista.
+  `SECURITY.md` e `DEPLOYMENT.md` ainda descreviam `frame-ancestors 'none'` e `X-Frame-Options: DENY`,
+  anteriores à autorização de embed; agora refletem o `public/_headers`.
+
 - **Ligações do grafo mais fáceis de abrir.** As linhas são finas e o clique precisava cair em cima
   delas. Agora um clique perto de uma linha abre o card da conexão, com margem maior no toque do
   celular; clicar num nó continua selecionando o nó, e clicar longe de tudo continua desmarcando.

@@ -96,4 +96,18 @@ describe("buildGraph", () => {
     expect(p1.nodes.map((n) => [n.x, n.y])).toEqual(p2.nodes.map((n) => [n.x, n.y]));
     expect(p1.nodes.every((n) => Number.isFinite(n.x) && Number.isFinite(n.y))).toBe(true);
   });
+
+  it("não deixa nós sobrepostos e não move o núcleo ao posicionar a camada probatória", () => {
+    const p = buildGraph(minimalCorpus(), { layout: true, iterations: 50 });
+    for (const [i, a] of p.nodes.entries()) {
+      for (const b of p.nodes.slice(i + 1)) {
+        expect(Math.hypot(a.x - b.x, a.y - b.y)).toBeGreaterThanOrEqual((a.size + b.size) * 0.5);
+      }
+    }
+    const core = p.nodes.filter(
+      (n) => !["document", "source", "claim", "evidence"].includes(n.category),
+    );
+    const span = Math.max(...core.flatMap((n) => [Math.abs(n.x), Math.abs(n.y)]));
+    expect(span).toBeCloseTo(320, 0);
+  });
 });

@@ -35,7 +35,7 @@ data/*.yaml  ──►  scripts/build-data.ts  ──►  src/generated/corpus.j
 | `raw/`                         | Material bruto de pesquisa: briefing dos investigadores, relatórios de cluster, patches propostos. Nada daqui vai ao site sem passar pelo schema.                                                                                                                                                                            |
 | `processed/`                   | Capturas de páginas e PDFs feitas por `python/novelo_osint/fetch.py` (ignorado no Git).                                                                                                                                                                                                                                      |
 | `scripts/`                     | Pipeline de dados (`build-data.ts`, `validate-data.ts`), dataset sintético (`synth-stress.ts`), scanner de segredos de fallback.                                                                                                                                                                                             |
-| `scripts/lib/`                 | `load.ts` (YAML → registros validados), `lint.ts` (regras editoriais), `graph.ts` (corpus → grafo + layout), `acervo.ts` (corpus → texto e llms.txt), `kml.ts` (lugares → KML), `report.ts`.                                                                                                                                 |
+| `scripts/lib/`                 | `load.ts` (YAML → registros validados), `lint.ts` (regras editoriais), `graph.ts` (corpus → grafo), `graph-layout.ts` (posições), `acervo.ts` (corpus → texto e llms.txt), `kml.ts` (lugares → KML), `report.ts`.                                                                                                            |
 | `src/lib/schema/`              | Schemas Zod e rótulos pt-BR. Contrato único usado pelo pipeline e pelo site.                                                                                                                                                                                                                                                 |
 | `src/lib/data/`                | Acesso ao corpus compilado nas páginas (server-only).                                                                                                                                                                                                                                                                        |
 | `src/lib/graph/`               | Contrato do grafo (`types.ts`), construção do Graphology, algoritmos (caminhos, vizinhança, filtros), mira com tolerância sobre as arestas (`hit.ts`), estilos e programas WebGL.                                                                                                                                            |
@@ -74,7 +74,11 @@ como categorias distintas.
   (classe D ou C), `since` (data para a time machine), fontes e evidências.
 - **Cor = natureza** (família da relação); **forma = força** (D sólida, C sólida curta, A tracejada,
   I pontilhada). Vermelho nunca sinaliza crime.
-- **Layout**: ForceAtlas2 determinístico no build; refinamento opcional em Web Worker no cliente.
+- **Layout**: determinístico no build (`scripts/lib/graph-layout.ts`). O núcleo parte das comunidades
+  de Louvain e é assentado pelo ForceAtlas2 em modo LinLog, com uma passada final contra nós
+  sobrepostos; a camada probatória é posta depois junto dos vizinhos, sem mover o núcleo. O
+  "Reorganizar" roda o mesmo ForceAtlas2 em Web Worker no cliente (`src/lib/graph/layout-settings.ts`).
+  A câmera não gira.
 - **Algoritmos**: caminho mínimo e alternativos, vizinhança em 1º a 3º grau, conexões comuns,
   intermediários e eventos compartilhados, todos em funções puras testadas.
 - **Modos**: "somente fontes oficiais" e "somente fatos documentados" são filtros sobre `official` e
@@ -172,8 +176,9 @@ Site estático sem segredos em runtime. `.env.example` versionado, `.env*` ignor
 pre-commit e no CI, scanner de fallback (`npm run scan:secrets`), auditoria de dependências e CodeQL.
 Cabeçalhos de segurança são aplicados pelo host (`public/_headers`, ver [DEPLOYMENT.md](DEPLOYMENT.md)).
 
-Uma exceção deliberada: o site pode ser embutido em `iframe` por `revistaoeste.com` e
-`www.revistaoeste.com`, que pediram autorização, e o `X-Frame-Options` foi removido porque não sabe
+Uma exceção deliberada: o site pode ser embutido em `iframe` por `revistaoeste.com`,
+`www.revistaoeste.com` e `admin.revistaoeste.com` (o painel onde a Revista pré-visualiza o post,
+liberado em 17/09/2026), que pediram autorização, e o `X-Frame-Options` foi removido porque não sabe
 liberar domínio específico. Liberar o enquadramento não abre superfície aqui — não há login, cookie,
 formulário nem ação com efeito para um clickjacking sequestrar. **Essa premissa expira** no dia em que
 o site ganhar qualquer interação com efeito; nesse dia, a linha `frame-ancestors` em `public/_headers`

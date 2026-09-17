@@ -141,7 +141,7 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
     await expect(page.getByText(/Nenhuma cor significa ilícito/)).toBeVisible();
   });
 
-  test("permite expandir, fixar, girar e controlar a física", async ({ page }) => {
+  test("permite expandir, fixar e controlar a física", async ({ page }) => {
     await abrirBusca(page);
     const search = page.getByRole("combobox", { name: /Buscar pessoa/i });
     await search.fill("Pessoa Exemplo 2");
@@ -157,8 +157,6 @@ test.describe("Grafo (dataset sintético de demonstração)", () => {
     await expect(page.getByRole("button", { name: "Desafixar nó" })).toBeVisible();
 
     await abrirFerramentas(page);
-    await page.getByRole("button", { name: "Girar o grafo para a direita" }).click();
-    await page.getByRole("button", { name: "Remover a rotação do grafo" }).click();
 
     const physics = page.getByRole("button", { name: /^(Reorganizar|Parar)$/ });
     await physics.click();

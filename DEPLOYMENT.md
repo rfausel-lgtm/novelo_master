@@ -43,9 +43,9 @@ server {
     root /var/www/novelo/out;
     index index.html;
 
-    add_header Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; worker-src 'self' blob:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests" always;
+    # Espelha public/_headers, que é a fonte da verdade. Sem X-Frame-Options: ver o comentário lá.
+    add_header Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; worker-src 'self' blob:; frame-ancestors 'self' https://revistaoeste.com https://www.revistaoeste.com https://admin.revistaoeste.com; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests" always;
     add_header X-Content-Type-Options nosniff always;
-    add_header X-Frame-Options DENY always;
     add_header Referrer-Policy strict-origin-when-cross-origin always;
     add_header Permissions-Policy "camera=(), microphone=(), geolocation=(), interest-cohort=()" always;
     add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;
