@@ -130,7 +130,7 @@ export function GraphExplorer() {
   const [restoreToken, setRestoreToken] = useState(0);
   const [cameraCommand, setCameraCommand] = useState<{
     token: number;
-    action: "rotate-left" | "rotate-right" | "reset-angle" | "zoom-in" | "zoom-out";
+    action: "zoom-in" | "zoom-out";
   } | null>(null);
   const searchRef = useRef<HTMLInputElement | null>(null);
   const reducedMotion = useReducedMotion();
@@ -595,42 +595,6 @@ export function GraphExplorer() {
           Desafixar todos ({state.pinnedNodes.length})
         </ToolButton>
       )}
-      <ToolButton
-        onClick={() =>
-          setCameraCommand((current) => ({
-            token: (current?.token ?? 0) + 1,
-            action: "rotate-left",
-          }))
-        }
-        className="graph-rotation-control"
-        aria-label="Girar o grafo para a esquerda"
-      >
-        ↺ Esquerda
-      </ToolButton>
-      <ToolButton
-        onClick={() =>
-          setCameraCommand((current) => ({
-            token: (current?.token ?? 0) + 1,
-            action: "rotate-right",
-          }))
-        }
-        className="graph-rotation-control"
-        aria-label="Girar o grafo para a direita"
-      >
-        ↻ Direita
-      </ToolButton>
-      <ToolButton
-        onClick={() =>
-          setCameraCommand((current) => ({
-            token: (current?.token ?? 0) + 1,
-            action: "reset-angle",
-          }))
-        }
-        className="graph-rotation-control"
-        aria-label="Remover a rotação do grafo"
-      >
-        0°
-      </ToolButton>
       {(state.focus || state.isolate) && (
         <ToolButton
           onClick={() => {

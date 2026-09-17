@@ -46,7 +46,7 @@ export interface GraphCanvasProps {
   restoreToken: number;
   cameraCommand: {
     token: number;
-    action: "rotate-left" | "rotate-right" | "reset-angle" | "zoom-in" | "zoom-out";
+    action: "zoom-in" | "zoom-out";
   } | null;
   organizeMode: boolean;
   reducedMotion: boolean;
@@ -375,7 +375,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
         allowInvalidContainer: true,
         renderEdgeLabels: false,
         enableEdgeEvents: true,
-        enableCameraRotation: true,
+        enableCameraRotation: false,
         hideEdgesOnMove: large,
         hideLabelsOnMove: false,
         labelFont,
@@ -435,7 +435,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
       const naTela = (node: string) => {
         if (!telas.has(node)) {
           const data = sigma.getNodeDisplayData(node);
-          /* Coordenadas enquadradas → viewport: já considera zoom, deslocamento e rotação. */
+          /* Coordenadas enquadradas → viewport: já considera zoom e deslocamento. */
           telas.set(node, data && !data.hidden ? sigma.framedGraphToViewport(data) : null);
         }
         return telas.get(node) ?? null;
@@ -596,7 +596,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
       scheduleEdgeHover(event.x, event.y);
     });
     sigma.on("leaveStage", clearEdgeHover);
-    /* Zoom, pan e rotação tiram a linha do lugar: o rótulo sai junto. */
+    /* Zoom e pan tiram a linha do lugar: o rótulo sai junto. */
     sigma.getCamera().on("updated", clearEdgeHover);
     sigma.on("clickStage", ({ event }) => {
       /* Nem nó nem aresta sob o ponto: antes de desselecionar, procura a linha ao alcance. */
@@ -731,7 +731,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
       { cameraState: { ...baseState, ...center, ratio } },
     );
     void camera.animate(
-      { x: 2 * center.x - target.x, y: 2 * center.y - target.y, ratio, angle: 0 },
+      { x: 2 * center.x - target.x, y: 2 * center.y - target.y, ratio },
       { duration: reducedMotionRef.current ? 0 : 350 },
     );
   }, [fitToken]);
@@ -751,23 +751,14 @@ export function GraphCanvas(props: GraphCanvasProps) {
       .animatedReset({ duration: reducedMotionRef.current ? 0 : 350 });
   }, [restoreToken, graph]);
 
-  /* Rotação acessível além do gesto de dois dedos suportado pelo Sigma. */
+  /* Zoom pelos botões da barra. */
   useEffect(() => {
     const sigma = sigmaRef.current;
     if (!sigma || !cameraCommand) return;
     const camera = sigma.getCamera();
-    if (cameraCommand.action === "zoom-in" || cameraCommand.action === "zoom-out") {
-      const options = { duration: reducedMotionRef.current ? 0 : 180 };
-      if (cameraCommand.action === "zoom-in") void camera.animatedZoom(options);
-      else void camera.animatedUnzoom(options);
-      return;
-    }
-    const state = camera.getState();
-    const angle =
-      cameraCommand.action === "reset-angle"
-        ? 0
-        : state.angle + (cameraCommand.action === "rotate-left" ? -Math.PI / 12 : Math.PI / 12);
-    void camera.animate({ angle }, { duration: reducedMotionRef.current ? 0 : 180 });
+    const options = { duration: reducedMotionRef.current ? 0 : 180 };
+    if (cameraCommand.action === "zoom-in") void camera.animatedZoom(options);
+    else void camera.animatedUnzoom(options);
   }, [cameraCommand]);
 
   /* Física contínua no worker; segundo clique pausa. */
@@ -827,15 +818,6 @@ export function GraphCanvas(props: GraphCanvasProps) {
       case "/":
         callbacks.current.onFocusSearch();
         break;
-      case "[":
-        void camera.animate({ angle: camera.getState().angle - Math.PI / 12 }, { duration });
-        break;
-      case "]":
-        void camera.animate({ angle: camera.getState().angle + Math.PI / 12 }, { duration });
-        break;
-      case "0":
-        void camera.animate({ angle: 0 }, { duration });
-        break;
       default:
         return;
     }
@@ -845,7 +827,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
   return (
     <div
       role="application"
-      aria-label="Área do grafo. No celular, um dedo move o mapa e um toque seleciona. Ative Mover nós em Ferramentas para reorganizar. Use as setas para mover, + e - para aproximar, colchetes para girar, 0 para remover a rotação, Escape para limpar e / para buscar."
+      aria-label="Área do grafo. No celular, um dedo move o mapa e um toque seleciona. Ative Mover nós em Ferramentas para reorganizar. Use as setas para mover, + e - para aproximar, Escape para limpar e / para buscar."
       tabIndex={0}
       onKeyDown={onKeyDown}
       className="focus-visible:outline-accent absolute inset-0 outline-none focus-visible:outline-2 focus-visible:-outline-offset-2"
