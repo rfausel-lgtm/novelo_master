@@ -1,0 +1,25 @@
+id: doc-2026-07-28-marcio-domingues-pedido-revisao-bloqueio
+kind: document
+title: Pedido de Márcio Domingues dos Santos de revisão do bloqueio patrimonial
+doc_type: judicial_filing
+date: '2026-07-28'
+date_precision: day
+source_ids:
+- src-stf-pet16230-autos-pecas
+summary: Petição em que Márcio Domingues dos Santos, dizendo-se ainda não formalmente intimado do bloqueio, pede
+  a habilitação de seus advogados e a revisão da medida com base no art. 282, §5º, do CPP. Relata ter tomado conhecimento
+  do bloqueio em 18/06/2026 e transcreve o trecho da decisão que o atinge — 'a representação menciona que DANIEL
+  LOPES MONTEIRO teria encaminhado a MÁRCIO documentos relativos ao instrumento de aquisição e ao primeiro aditivo
+  da operação imobiliária' —, atribuindo-o à 'PET 16.229', não à PET 16.230 sob a qual o próprio pedido é protocolado.
+  Sustenta que a oitiva prestada dez dias antes esclareceu sua posição e pede a revisão da necessidade de manutenção
+  do bloqueio.
+is_official: true
+related_entity_ids:
+- marcio-domingues-dos-santos
+- daniel-lopes-monteiro
+reference: PET 16.230/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

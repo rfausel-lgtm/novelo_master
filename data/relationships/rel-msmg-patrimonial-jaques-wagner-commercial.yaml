@@ -1,0 +1,27 @@
+id: rel-msmg-patrimonial-jaques-wagner-commercial
+kind: relationship
+from_id: msmg-patrimonial
+to_id: jaques-wagner
+relationship_type: commercial
+directed: true
+label: comprou-lhe apartamento em Salvador por R$ 10 milhões, registro barrado pela PET 16.230
+description: Em 23/12/2025, a MSMG Patrimonial celebrou com Jaques Wagner e sua mulher, Maria de Fátima Carneiro
+  de Mendonça, compromisso de compra e venda do apartamento nº 1302 do condomínio Mansão Victory Tower, em Salvador,
+  por R$ 10 milhões. O preço foi quitado e a escritura lavrada antes de junho de 2026, mas o registro foi barrado,
+  em julho de 2026, pela indisponibilidade cadastrada em nome de Wagner na PET 16.230.
+evidence_class: D
+confidence: 0.85
+status: unverified
+start_date: '2025-12-23'
+evidence_ids:
+- ev-msmg-comprou-apartamento-de-wagner-por-10-milhoes
+- ev-registro-do-apartamento-de-wagner-barrado-pela-pet16230
+document_ids:
+- doc-2026-07-13-msmg-peticao-terceira-adquirente-boa-fe
+source_ids:
+- src-stf-pet16230-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

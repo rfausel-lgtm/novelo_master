@@ -1,0 +1,28 @@
+id: wnt-gestora-de-recursos
+kind: organization
+name: WNT Gestora de Recursos
+full_name: WNT Gestora de Recursos Ltda.
+aliases: []
+org_type: fund
+jurisdiction: Brasil
+summary: Estrutura financeira alvo de constrição patrimonial na PET 16.230 (item I.26, teto de R$ 2.455.250), apontada
+  pela PF como vinculada a Valério Marega Júnior e ao grupo WNT. A decisão registra que Valério seria administrador
+  ou gestor ligado à WNT e que a atuação da estrutura seria compatível com a operacionalização da aquisição do apartamento
+  do Poème Horto, valendo-se de veículos capazes de dissimular a titularidade real do bem. Em 30/07/2026 a PGR opinou
+  pelo levantamento do bloqueio.
+why_in_novelo: É a estrutura financeira que a PF liga a Valério Marega Júnior na operacionalização da compra do
+  apartamento do Poème Horto.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada até esta data.
+  source_ids:
+  - src-stf-pet16230-autos-pecas
+open_questions:
+- O parecer favorável da PGR de 30/07/2026 segue sem decisão do relator.
+source_ids:
+- src-stf-pet16230-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

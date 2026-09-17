@@ -1,0 +1,22 @@
+id: ev-marcio-domingues-corrige-a-direcao-do-envio-dos-documentos
+kind: evidence
+classification: D
+proposition: Em depoimento de 28/07/2026, Márcio Domingues dos Santos afirma que foi ele quem enviou a Daniel Lopes
+  Monteiro os arquivos do apartamento Poème Horto — retirados da rede do escritório, a pedido de Daniel —, invertendo
+  o sentido que a decisão de 19/06/2026 atribuiu ao episódio ('Daniel Lopes Monteiro teria encaminhado a Márcio
+  documentos').
+document_ids:
+- doc-2026-07-28-oitiva-marcio-domingues-dos-santos
+- doc-2026-06-19-decisao-pet16230-constricao-patrimonial
+source_ids:
+- src-stf-pet16230-autos-pecas
+excerpt: eu fui no arquivo que tinha lá na rede e joguei para ele
+locator: PET 16.230, peça 281, p. 14-15
+date: '2026-07-28'
+notes: Não é conclusão do acervo sobre qual versão é correta; é o registro de que a decisão e o depoimento do próprio
+  investigado descrevem o fluxo em sentidos opostos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

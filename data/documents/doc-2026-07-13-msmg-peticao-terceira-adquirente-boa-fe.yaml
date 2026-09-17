@@ -1,0 +1,27 @@
+id: doc-2026-07-13-msmg-peticao-terceira-adquirente-boa-fe
+kind: document
+title: Petição incidental da MSMG Patrimonial — terceira adquirente de boa-fé do apartamento de Jaques Wagner
+doc_type: judicial_filing
+date: '2026-07-13'
+date_precision: day
+source_ids:
+- src-stf-pet16230-autos-pecas
+summary: Petição incidental de terceira adquirente de boa-fé, com pedido liminar de levantamento parcial de indisponibilidade,
+  apresentada pela MSMG Patrimonial Ltda. na PET 16.230. Narra que, em 23/12/2025, celebrou com Jaques Wagner e
+  sua mulher, Maria de Fátima Carneiro de Mendonça, compromisso de compra e venda do apartamento nº 1302 do condomínio
+  Mansão Victory Tower, na Avenida Sete de Setembro, em Salvador, por R$ 10 milhões; que o preço foi integralmente
+  quitado em 16/04/2026, antes do vencimento contratual; que a escritura pública foi lavrada em 06/05/2026 e levada
+  a registro em 10/06/2026; e que o Cartório do 1º Ofício de Registro de Imóveis de Salvador devolveu o título em
+  06/07/2026, por nota que aponta ordem de indisponibilidade cadastrada na CNIB com referência à PET 16.230. Pede
+  o cancelamento parcial da indisponibilidade sobre a matrícula do imóvel.
+is_official: true
+related_entity_ids:
+- msmg-patrimonial
+- jaques-wagner
+- marcelo-passos-de-araujo
+reference: PET 16.230/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

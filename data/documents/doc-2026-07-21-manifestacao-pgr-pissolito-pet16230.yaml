@@ -12,6 +12,7 @@ summary: 'Parecer do procurador-geral da República no pedido de revogação da 
 is_official: true
 related_entity_ids:
 - paulo-gonet
+- andre-pissolito-campos
 reference: PET 16.230/DF
 review_status: published
 reviewer: orquestrador

@@ -1,0 +1,28 @@
+id: gavazza-empreendimentos-imobiliarios
+kind: organization
+name: Gavazza Empreendimentos Imobiliários
+full_name: Gavazza Empreendimentos Imobiliários Ltda.
+aliases: []
+org_type: company
+jurisdiction: Brasil
+summary: Empresa alvo de constrição patrimonial na PET 16.230 (item I.8, teto de R$ 5.955.250). A decisão de 19/06/2026
+  a aponta como possível extensão patrimonial de Andréa Lima Novaes, por vínculos societários, patrimoniais ou operacionais
+  descritos na representação da PF, e a relaciona à posição de Andréa no eixo da PKL One e a estruturas vinculadas
+  a Augusto Ferreira Lima.
+why_in_novelo: É apontada pela PF como extensão patrimonial de Andréa Lima Novaes e incluída na constrição da PET
+  16.230 por esse vínculo.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada até esta data.
+  source_ids:
+  - src-stf-pet16230-autos-pecas
+open_questions:
+- A decisão não detalha os vínculos societários, patrimoniais ou operacionais entre a empresa e Andréa Lima Novaes
+  além de os afirmar; o quadro societário não foi localizado em fonte aberta.
+source_ids:
+- src-stf-pet16230-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

@@ -1,0 +1,29 @@
+id: hockenheim-fundo-de-investimento
+kind: organization
+name: Hockenheim FIP
+full_name: Hockenheim Fundo de Investimento em Participações Multiestratégia de Responsabilidade Ilimitada
+aliases:
+- Hockenheim Fundo de Investimento
+org_type: fund
+jurisdiction: Brasil
+summary: Fundo administrado pela REAG Administradora de Recursos, alvo de constrição patrimonial próprio na PET
+  16.230 (item I.22, teto de R$ 2.455.250) — distinto, na decisão, da própria REAG (item I.14). A representação
+  da PF descreve o Hockenheim como o veículo por onde teriam transitado recursos direcionados à Epítome S.A., adquirente
+  formal do apartamento 1.702 do Poème Horto, caracterizando-o como elo financeiro da estrutura de ocultação patrimonial.
+why_in_novelo: É o fundo que a PF aponta como intermediário do fluxo de recursos entre a REAG e a Epítome S.A. na
+  compra do apartamento do Poème Horto, com item próprio na constrição da PET 16.230.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada até esta data.
+  source_ids:
+  - src-stf-pet16230-autos-pecas
+open_questions:
+- O corpus não tem o valor nem a data das movimentações entre o Hockenheim e a Epítome, apenas a caracterização
+  geral da decisão.
+source_ids:
+- src-stf-pet16230-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

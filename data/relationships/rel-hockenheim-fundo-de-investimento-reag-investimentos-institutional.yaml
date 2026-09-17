@@ -1,0 +1,26 @@
+id: rel-hockenheim-fundo-de-investimento-reag-investimentos-institutional
+kind: relationship
+from_id: hockenheim-fundo-de-investimento
+to_id: reag-investimentos
+relationship_type: institutional
+directed: true
+label: administrado pela
+description: O Hockenheim FIP é administrado pela REAG Administradora de Recursos, segundo a representação da PF
+  reproduzida na decisão de 19/06/2026 da PET 16.230.
+evidence_class: D
+confidence: 0.8
+status: unverified
+start_date: '2026-06-19'
+event_ids:
+- evt-2026-06-19-mendonca-decreta-constricao-patrimonial-pet16230
+evidence_ids:
+- ev-pet16230-constricao-de-27-alvos-pelos-eixos-poeme-e-bn
+document_ids:
+- doc-2026-06-19-decisao-pet16230-constricao-patrimonial
+source_ids:
+- src-stf-pet16230-decisao-19-06-2026-constricao-patrimonial
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

@@ -1,0 +1,19 @@
+id: ev-registro-do-apartamento-de-wagner-barrado-pela-pet16230
+kind: evidence
+classification: D
+proposition: Em 06/07/2026, o Cartório do 1º Ofício de Registro de Imóveis de Salvador devolveu o título de compra
+  e venda do apartamento nº 1302 da Mansão Victory Tower, por nota que aponta ordem de indisponibilidade cadastrada
+  na Central Nacional de Indisponibilidade de Bens em nome de Jaques Wagner, com referência expressa à PET 16.230.
+document_ids:
+- doc-2026-07-13-msmg-peticao-terceira-adquirente-boa-fe
+source_ids:
+- src-stf-pet16230-autos-pecas
+excerpt: nota devolutiva de 2026 nº 96.639 (...) em razão da existência, na Central Nacional de Indisponibilidade
+  de Bens, de ordem de indisponibilidade em nome de Jaques Wagner (...) com referência expressa ao Processo nº 16.230
+locator: PET 16.230, peça 175, itens 1 e 15
+date: '2026-07-06'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

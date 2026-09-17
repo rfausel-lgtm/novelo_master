@@ -39,6 +39,13 @@ participant_ids:
 - epitome-sa
 - luiz-antonio-lombardi
 - valerio-marega-junior
+- gavazza-empreendimentos-imobiliarios
+- hockenheim-fundo-de-investimento
+- wnt-gestora-de-recursos
+- wnt-capital-dtvm
+- patrich-toaldo-bonilha
+- andre-pissolito-campos
+- marcio-domingues-dos-santos
 description: Um dia após a 9ª fase da Compliance Zero, André Mendonça deferiu a representação da PF por medidas
   assecuratórias e decretou a constrição de bens de 27 alvos, com tetos individuais de R$ 5.955.250, R$ 3,5 milhões
   ou R$ 2.455.250 conforme o eixo investigado — o apartamento do Poème Horto e a transferência da PKL One à BN Financeira
@@ -58,6 +65,6 @@ cited_position:
   - src-stf-pet16230-autos-pecas
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-09-17'
 created_at: '2026-09-15'
-updated_at: '2026-09-15'
+updated_at: '2026-09-17'

@@ -1,0 +1,21 @@
+id: ev-marcio-domingues-descreve-noctua-e-excelsior
+kind: evidence
+classification: D
+proposition: Segundo Márcio Domingues dos Santos, Daniel Monteiro tentou constituir, para administrar seus próprios
+  investimentos sem pagar gestora externa, a Noctua Asset — assinada por volta de outubro ou novembro de 2025 e
+  dissolvida sem nunca operar, por não conseguir contratar os dois CGAs que a ANBIMA passou a exigir a partir de
+  janeiro de 2026 — e depois a Excelsior Capital, o mesmo projeto com estrutura menor, que também não chegou a obter
+  registro na CVM ou na ANBIMA nem a movimentar um real.
+document_ids:
+- doc-2026-07-28-oitiva-marcio-domingues-dos-santos
+source_ids:
+- src-stf-pet16230-autos-pecas
+excerpt: a Excelsior, na realidade, é o mesmo projeto da Noctua (...) também não chegou a operar, não chegou nem
+  a ter registro de CVM, ANBIMA, nada
+locator: PET 16.230, peça 281, p. 12-13
+date: '2026-07-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

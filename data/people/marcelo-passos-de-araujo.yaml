@@ -1,0 +1,29 @@
+id: marcelo-passos-de-araujo
+kind: person
+name: Marcelo Passos de Araujo
+category: businessperson
+role: Sócio-administrador da MSMG Patrimonial
+positions:
+- title: Sócio-administrador
+  organization_id: msmg-patrimonial
+  source_ids:
+  - src-stf-pet16230-autos-pecas
+summary: Sócio-administrador da MSMG Patrimonial Ltda., empresa de Lauro de Freitas (BA) que comprou de Jaques Wagner
+  o apartamento nº 1302 do condomínio Mansão Victory Tower, em Salvador, por R$ 10 milhões, e teve o registro da
+  compra barrado pela indisponibilidade cadastrada na PET 16.230. Assinou, em nome da empresa, o compromisso de
+  compra e venda de 23/12/2025 e a petição de terceira adquirente de boa-fé.
+why_in_novelo: É quem representa a MSMG Patrimonial na compra do apartamento de Jaques Wagner e no pedido de desbloqueio
+  do registro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele foi localizada até esta data; a petição da MSMG fala em nome da empresa.
+  source_ids:
+  - src-stf-pet16230-autos-pecas
+open_questions: []
+source_ids:
+- src-stf-pet16230-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

@@ -1,0 +1,27 @@
+id: wnt-capital-dtvm
+kind: organization
+name: WNT Capital DTVM
+full_name: WNT Capital Distribuidora de Títulos e Valores Mobiliários S.A.
+aliases: []
+org_type: financial_institution
+jurisdiction: Brasil
+summary: Distribuidora de títulos e valores mobiliários alvo de constrição patrimonial na PET 16.230 (item I.27,
+  teto de R$ 2.455.250), apontada pela PF como pertencente ao mesmo núcleo financeiro de Valério Marega Júnior e
+  inserida no conjunto de estruturas financeiras ligadas ao Banco Master na operacionalização da aquisição imobiliária
+  investigada. Em 30/07/2026 a PGR opinou pelo levantamento do bloqueio.
+why_in_novelo: É a distribuidora que a PF liga ao mesmo núcleo financeiro de Valério Marega Júnior na constrição
+  da PET 16.230.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada até esta data.
+  source_ids:
+  - src-stf-pet16230-autos-pecas
+open_questions:
+- O parecer favorável da PGR de 30/07/2026 segue sem decisão do relator.
+source_ids:
+- src-stf-pet16230-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

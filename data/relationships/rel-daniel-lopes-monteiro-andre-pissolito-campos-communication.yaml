@@ -1,0 +1,27 @@
+id: rel-daniel-lopes-monteiro-andre-pissolito-campos-communication
+kind: relationship
+from_id: daniel-lopes-monteiro
+to_id: andre-pissolito-campos
+relationship_type: communication
+directed: true
+label: encaminhou documentos e cobrou o envio do CCV (segundo a PF)
+description: Segundo a representação da PF reproduzida na decisão de 19/06/2026, Daniel Lopes Monteiro encaminhou
+  documentos a André Pissolito Campos e depois lhe cobrou o envio do contrato de compra e venda e do instrumento
+  de cessão de direitos aquisitivos da unidade 1.702 do Poème Horto.
+evidence_class: D
+confidence: 0.75
+status: unverified
+start_date: '2026-06-19'
+event_ids:
+- evt-2026-06-19-mendonca-decreta-constricao-patrimonial-pet16230
+evidence_ids:
+- ev-pet16230-constricao-de-27-alvos-pelos-eixos-poeme-e-bn
+document_ids:
+- doc-2026-06-19-decisao-pet16230-constricao-patrimonial
+source_ids:
+- src-stf-pet16230-decisao-19-06-2026-constricao-patrimonial
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

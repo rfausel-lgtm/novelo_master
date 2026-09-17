@@ -1,0 +1,52 @@
+id: marcio-domingues-dos-santos
+kind: person
+name: Márcio Domingues dos Santos
+category: businessperson
+role: Prestador de serviços administrativos do advogado Daniel Monteiro, alvo de constrição na PET 16.230
+positions: []
+summary: 'Alvo de constrição patrimonial na PET 16.230 (item I.24, teto de R$ 2.455.250, eixo do apartamento Poème
+  Horto), por ser apontado como destinatário de documentos que Daniel Lopes Monteiro teria enviado sobre o instrumento
+  de aquisição e o primeiro aditivo do imóvel. Vem de trinta anos de carreira na indústria do alumínio — organizou
+  desde o início a fábrica Alussin — e deixou, em 16/04/2026, os treze ou catorze anos no emprego anterior para
+  se dedicar, desde fevereiro ou março de 2025, a prestar apoio administrativo e organizacional ao ''escritório
+  pessoal'' de investimentos de Daniel Monteiro, amigo de longa data, faturando pela empresa M QUATTRO à Mytra.
+  Em depoimento de 28/07/2026, corrige o sentido atribuído pela representação policial: diz que foi ele quem enviou
+  a Daniel Monteiro os documentos do apartamento, retirados da rede do escritório a pedido dele, e não o contrário.
+  No mesmo dia, pediu a revisão do bloqueio, mas identificou a decisão que o atinge como proferida na ''PET 16.229'',
+  numeração distinta da PET 16.230 em que a própria petição foi protocolada.'
+why_in_novelo: É alvo de constrição patrimonial na PET 16.230 e, em depoimento próprio, descreve por dentro o escritório
+  pessoal de investimentos de Daniel Monteiro — as tentativas de montar uma gestora cativa (Noctua, depois Excelsior)
+  e o papel de David Lopes Monteiro no controle financeiro — além de corrigir, com base na própria memória dos fatos,
+  a direção atribuída pela PF ao envio dos documentos do apartamento.
+cited_position:
+- kind: version
+  by_id: marcio-domingues-dos-santos
+  date: '2026-07-28'
+  summary: Em depoimento, afirma que foi ele quem enviou a Daniel Monteiro os documentos do apartamento Poème Horto,
+    e não o contrário como registra a representação policial; nega qualquer contato com Valério Marega Júnior ou
+    João Carlos Falbo Mansur.
+  source_ids:
+  - src-stf-pet16230-autos-pecas
+- kind: denial
+  by_id: marcio-domingues-dos-santos
+  date: '2026-07-28'
+  summary: Pede a revisão da necessidade do bloqueio patrimonial, sustentando que a oitiva prestada dez dias antes
+    esclareceu sua posição no caso.
+  source_ids:
+  - src-stf-pet16230-autos-pecas
+open_questions:
+- A petição em que pede a revisão do bloqueio (28/07/2026) atribui a decisão que o atinge à 'PET 16.229', numeração
+  distinta da PET 16.230 sob a qual a própria petição é protocolada. A manifestação conjunta da PGR de 16/06/2026
+  trata as Pets 16.201, 16.210, 16.229 e 16.230 como quatro processos correlatos com manifestação comum; não está
+  esclarecido, a partir das peças reunidas, se a decisão de 19/06/2026 sobre o eixo do apartamento Poème Horto foi
+  proferida separadamente na PET 16.229 ou se há erro de citação na petição do próprio investigado.
+- Não há, no corpus, decisão sobre o pedido de revisão do bloqueio de 28/07/2026.
+- Se recebeu, e de quem, os documentos do apartamento antes de reenviá-los a Daniel Monteiro — ele cogita Luiz Lombardi,
+  sem certeza.
+source_ids:
+- src-stf-pet16230-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

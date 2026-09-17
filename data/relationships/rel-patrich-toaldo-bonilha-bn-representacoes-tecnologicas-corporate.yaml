@@ -1,0 +1,27 @@
+id: rel-patrich-toaldo-bonilha-bn-representacoes-tecnologicas-corporate
+kind: relationship
+from_id: patrich-toaldo-bonilha
+to_id: bn-representacoes-tecnologicas
+relationship_type: corporate
+directed: true
+label: teria integrado a estrutura societária (segundo a decisão da PET 16.230)
+description: A decisão de 19/06/2026 aponta que Patrich Toaldo Bonilha teria integrado a estrutura societária da
+  BN Representações Tecnológicas, empresa do mesmo núcleo familiar da BN Financeira, com elementos operacionais
+  e cadastrais compartilhados.
+evidence_class: D
+confidence: 0.75
+status: unverified
+start_date: '2026-06-19'
+event_ids:
+- evt-2026-06-19-mendonca-decreta-constricao-patrimonial-pet16230
+evidence_ids:
+- ev-pet16230-constricao-de-27-alvos-pelos-eixos-poeme-e-bn
+document_ids:
+- doc-2026-06-19-decisao-pet16230-constricao-patrimonial
+source_ids:
+- src-stf-pet16230-decisao-19-06-2026-constricao-patrimonial
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

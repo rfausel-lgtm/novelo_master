@@ -1,0 +1,22 @@
+id: ev-marcio-domingues-cita-decisao-como-da-pet-16229
+kind: evidence
+classification: I
+proposition: O pedido de revisão do bloqueio apresentado por Márcio Domingues dos Santos em 28/07/2026 atribui a
+  decisão que o atinge à PET 16.229, numeração distinta da PET 16.230 sob a qual a própria petição foi protocolada.
+document_ids:
+- doc-2026-07-28-marcio-domingues-pedido-revisao-bloqueio
+source_ids:
+- src-stf-pet16230-autos-pecas
+inference_basis: 'A petição cita duas vezes ''PET 16.229'', inclusive com número de página (''Decisão, PET 16.229,
+  p. 18''), ao transcrever o mesmo trecho sobre o envio de documentos a Márcio que consta do item I.24 da decisão
+  reunida nestes autos como peça 014, da PET 16.230. A manifestação conjunta da PGR de 16/06/2026 (peça 012) trata
+  as Pets 16.201, 16.210, 16.229 e 16.230 como quatro processos correlatos, com uma única manifestação para todos.
+  O que NÃO se conclui: se a decisão sobre o eixo do apartamento Poème Horto foi de fato proferida em separado na
+  PET 16.229 e apenas reunida a estes autos, ou se há erro de citação na petição do próprio investigado. O acervo
+  registra a ambiguidade sem resolvê-la.'
+date: '2026-07-28'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

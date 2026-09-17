@@ -1,0 +1,33 @@
+id: mytra-consultoria
+kind: organization
+name: Mytra Consultoria
+full_name: Mytra Consultoria
+aliases: []
+org_type: company
+jurisdiction: Brasil
+summary: Empresa do advogado Daniel Monteiro descrita, em depoimento de Márcio Domingues dos Santos à PF (28/07/2026),
+  como o veículo do 'escritório pessoal' de investimentos de Daniel — organização administrativa e cadastral de
+  suas sociedades e ativos, sem relação, segundo o depoente, com João Carlos Falbo Mansur ou com a REAG. Márcio
+  prestava serviços a ela faturando por outra empresa, a M Quattro. O ND Mais, em levantamento de 14/09/2026 sobre
+  honorários do Banco Master, atribui à Mytra cerca de R$ 30 milhões, ligados a Daniel Monteiro.
+why_in_novelo: É o veículo do escritório pessoal de Daniel Monteiro, descrito por dentro no depoimento de um de
+  seus próprios prestadores de serviço, e aparece entre os maiores recebedores de honorários do Master segundo o
+  ND Mais.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública localizada até esta data.
+  source_ids:
+  - src-stf-pet16230-autos-pecas
+open_questions:
+- O corpus não tem o CNPJ nem o quadro societário da Mytra; o depoimento de Márcio Domingues a descreve apenas funcionalmente,
+  como escritório pessoal de investimentos.
+- Não verificado se os cerca de R$ 30 milhões que o ND Mais atribui à Mytra em honorários do Master correspondem
+  a serviços jurídicos de Daniel Monteiro ou a outra frente de atuação.
+source_ids:
+- src-stf-pet16230-autos-pecas
+- src-ndmais-2026-09-14-maiores-recebedores-de-honorarios-do-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'
