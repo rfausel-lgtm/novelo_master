@@ -1,0 +1,41 @@
+id: rev-2026-09-17-lote-329-a-sociedade-certa-por-tras-do-alves-correa
+kind: revision
+date: '2026-09-17'
+title: Lote 329 — a sociedade certa por trás do 'Alves Corrêa'
+summary: 'A pergunta que o lote 328 deixou aberta tem resposta. A sociedade Alves Corrêa & Advogados Associados,
+  de 2007, não podia ter recebido nada em 2024: foi extinta em 27/02/2013, por liquidação voluntária. A sociedade
+  ativa da mesma titular é a Alves Corrêa & Veríssimo Advocacia, aberta em 14/06/2016, com capital de R$ 500 mil,
+  Dalide Barbosa Alves Corrêa como sócia-administradora desde a abertura e David Veríssimo de Souza como sócio desde
+  2019. E há uma fonte que a nomeia por extenso três dias antes do Estadão: o levantamento do ND Mais de 14/09/2026
+  lista os maiores recebedores de honorários do Master e atribui à Alves Corrêa Verissimo Advocacia cerca de R$
+  32,9 milhões, ao lado de Barci de Moraes, Monteiro/Rusu/Cameirão/Bercht, Warde, Gabino Kruschewsky, Marcus Vinícius
+  Furtado Coelho e Mytra. A identificação da pessoa jurídica continua sendo por convergência de nome, titularidade
+  e período: nenhum contrato, nota fiscal ou extrato público liga o CNPJ a um pagamento. A busca no DJEN foi estendida
+  ao outro sócio e também não encontra processo com o Banco Master como parte.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 2
+  evidence: 5
+updated_relationships: 2
+corrections:
+- 'organizations/alves-correa-advogados: a organização passa a ser a sociedade ativa, Alves Corrêa & Veríssimo Advocacia
+  (CNPJ 25.096.820/0001-50), com a sociedade de 2007 registrada como extinta em 2013; a pergunta em aberto sobre
+  qual pessoa jurídica recebeu os valores foi respondida e substituída pela ressalva de que a identificação é por
+  convergência, não por documento de pagamento.'
+- 'ev-alves-correa-cadastro-societario-e-situacao-baixada: a proposição ganha a data da extinção (27/02/2013), ausente
+  na primeira redação.'
+author: orquestrador
+affected_ids:
+- alves-correa-advogados
+- dalide-barbosa-alves-correa
+- banco-master
+- barci-de-moraes-sociedade-de-advogados
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

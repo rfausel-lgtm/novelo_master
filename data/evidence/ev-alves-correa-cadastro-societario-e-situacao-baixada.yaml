@@ -2,15 +2,17 @@ id: ev-alves-correa-cadastro-societario-e-situacao-baixada
 kind: evidence
 classification: D
 proposition: A sociedade de advogados Alves Corrêa & Advogados Associados, de Brasília, foi aberta em 14/05/2007
-  com capital social de R$ 100 mil, tem Dalide Barbosa Alves Corrêa como sócia-administradora e David Veríssimo
-  de Souza como sócio, ambos desde a constituição, e está com situação cadastral baixada na Receita Federal.
+  com capital social de R$ 100 mil e tinha Dalide Barbosa Alves Corrêa como sócia-administradora e David Veríssimo
+  de Souza como sócio, ambos desde a constituição; sua situação cadastral na Receita Federal é baixada, com a extinção
+  registrada em 27/02/2013.
 document_ids:
 - doc-2026-09-17-cadastro-receita-alves-correa-advogados
 source_ids:
 - src-minhareceita-2026-09-17-alves-correa-advogados-associados
 date: '2026-09-17'
-notes: A baixa cadastral dessa sociedade deixa em aberto qual pessoa jurídica recebeu os R$ 33 milhões de 2024,
-  já que a auditoria citada pela imprensa identifica o destinatário apenas como 'Alves Corrêa'.
+notes: 'CORREÇÃO (17/09/2026): a primeira redação registrava a baixa sem a data e deixava em aberto qual pessoa
+  jurídica recebeu os R$ 33 milhões de 2024. A data da extinção — 2013 — exclui esta sociedade, e a sociedade ativa
+  da mesma titular é a Alves Corrêa & Veríssimo Advocacia (ver ev-a-pessoa-juridica-ativa-em-2024-e-a-alves-correa-verissimo).'
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-17'

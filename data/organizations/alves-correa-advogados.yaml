@@ -1,17 +1,20 @@
 id: alves-correa-advogados
 kind: organization
-name: Alves Corrêa Advogados
+name: Alves Corrêa & Veríssimo Advocacia
 aliases:
 - Alves Corrêa
+- Alves Corrêa Verissimo Advocacia
 - Alves Corrêa & Advogados Associados
 org_type: law_firm
 jurisdiction: Brasil
 summary: Escritório de advocacia de Brasília identificado nos documentos da auditoria interna do BRB como destinatário
   de R$ 33 milhões pagos pelo Banco Master em 2024 — o segundo maior valor do ano, atrás do escritório Barci de
-  Moraes. A sociedade Alves Corrêa & Advogados Associados, registrada na Receita Federal desde 14/05/2007 com capital
-  de R$ 100 mil, tem Dalide Barbosa Alves Corrêa como sócia-administradora e David Veríssimo de Souza como sócio,
-  e está com situação cadastral baixada; a auditoria citada pela imprensa identifica o destinatário apenas pelo
-  nome 'Alves Corrêa', sem indicar a pessoa jurídica.
+  Moraes. A sociedade ativa é a Alves Corrêa & Veríssimo Advocacia, aberta em 14/06/2016, com capital social de
+  R$ 500 mil, tendo Dalide Barbosa Alves Corrêa como sócia-administradora desde a abertura e David Veríssimo de
+  Souza como sócio desde 18/06/2019. A sociedade homônima anterior, Alves Corrêa & Advogados Associados, de 2007,
+  foi extinta em 27/02/2013 e não podia receber pagamento em 2024. A auditoria citada pela imprensa nomeia o destinatário
+  apenas como 'Alves Corrêa'; quem o nomeia por extenso é o levantamento do ND Mais de 14/09/2026, que atribui à
+  Alves Corrêa Verissimo Advocacia cerca de R$ 32,9 milhões em honorários do banco.
 why_in_novelo: É o escritório que, segundo documentos apreendidos pela PF, recebeu R$ 33 milhões do Banco Master
   em 2024, com o pagamento ordenado sob a justificativa de 'canal direto com o STF'.
 cited_position:
@@ -19,14 +22,20 @@ cited_position:
   summary: Procurado por meio da advogada que o administra, o escritório não divulgou manifestação própria; a resposta
     ao caso veio em nota pessoal de Dalide Corrêa.
 open_questions:
-- Qual pessoa jurídica recebeu efetivamente os R$ 33 milhões, já que a sociedade registrada em 2007 está baixada
-  na Receita Federal.
+- Nenhum documento público — contrato, nota fiscal ou extrato — liga o CNPJ da sociedade ativa a um pagamento específico
+  do Banco Master; a identificação da pessoa jurídica se dá por convergência de nome, titularidade e período de
+  atividade.
+- 'Quais serviços jurídicos concretos correspondem aos valores: as publicações judiciais no DJEN em nome dos dois
+  sócios não registram processo com o Banco Master como parte.'
 source_ids:
 - src-estadao-2026-09-17-master-33-milhoes-alves-correa
 - src-timesbrasil-2026-09-17-master-33-milhoes-canal-direto
 - src-minhareceita-2026-09-17-alves-correa-advogados-associados
+- src-minhareceita-2026-09-17-alves-correa-verissimo-advocacia
+- src-ndmais-2026-09-14-maiores-recebedores-de-honorarios-do-master
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-17'
 created_at: '2026-09-17'
 updated_at: '2026-09-17'
+cnpj: 25.096.820/0001-50

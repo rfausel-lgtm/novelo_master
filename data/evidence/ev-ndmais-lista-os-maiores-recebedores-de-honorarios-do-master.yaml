@@ -1,0 +1,20 @@
+id: ev-ndmais-lista-os-maiores-recebedores-de-honorarios-do-master
+kind: evidence
+classification: A
+proposition: 'Levantamento do ND Mais publicado em 14/09/2026 lista os maiores recebedores de honorários do Banco
+  Master: Barci de Moraes com R$ 80,2 milhões; Monteiro, Rusu, Cameirão e Bercht com R$ 79 milhões; Warde com R$
+  63,8 milhões; Gabino Kruschewsky com R$ 54 milhões; Alves Corrêa Verissimo Advocacia com cerca de R$ 32,9 milhões;
+  Marcus Vinícius Furtado Coelho com R$ 27,5 milhões; e a Mytra Consultoria com R$ 30 milhões.'
+document_ids: []
+source_ids:
+- src-ndmais-2026-09-14-maiores-recebedores-de-honorarios-do-master
+attributed_to: ND Mais, a partir de dados fiscais enviados à CPI do Crime Organizado e de relatórios da PF
+date: '2026-09-14'
+notes: Os valores são acumulados e não coincidem com o recorte anual da auditoria interna do BRB, que atribui ao
+  Barci de Moraes R$ 40 milhões e ao Alves Corrêa R$ 33 milhões somente em 2024. Os dois levantamentos convivem;
+  não se somam nem se anulam.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

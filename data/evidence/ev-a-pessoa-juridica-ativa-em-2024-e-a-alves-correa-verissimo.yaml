@@ -1,0 +1,27 @@
+id: ev-a-pessoa-juridica-ativa-em-2024-e-a-alves-correa-verissimo
+kind: evidence
+classification: I
+proposition: A pessoa jurídica que podia receber honorários em nome do escritório 'Alves Corrêa' em 2024 é a Alves
+  Corrêa & Veríssimo Advocacia, e não a sociedade homônima de 2007.
+document_ids:
+- doc-2026-09-17-cadastro-receita-alves-correa-verissimo
+- doc-2026-09-17-cadastro-receita-alves-correa-advogados
+source_ids:
+- src-minhareceita-2026-09-17-alves-correa-verissimo-advocacia
+- src-minhareceita-2026-09-17-alves-correa-advogados-associados
+- src-ndmais-2026-09-14-maiores-recebedores-de-honorarios-do-master
+inference_basis: 'Três elementos convergem: a sociedade de 2007 estava extinta desde 27/02/2013 e não podia receber
+  pagamento em 2024; a única sociedade de advocacia ativa naquele ano com o nome ''Alves Corrêa'' e a mesma titular
+  é a Alves Corrêa & Veríssimo Advocacia, ativa desde 2016; e o levantamento do ND Mais, de 14/09/2026, nomeia por
+  extenso ''Alves Corrêa Verissimo Advocacia'' entre os maiores recebedores de honorários do Master, com cerca de
+  R$ 32,9 milhões, valor da mesma ordem dos R$ 33 milhões da auditoria do BRB. O que NÃO se conclui: nenhum documento
+  público consultado — contrato, nota fiscal ou extrato — liga esse CNPJ a um pagamento específico, e os dois levantamentos
+  têm recortes diferentes (no do ND Mais, o escritório Barci de Moraes aparece com R$ 80,2 milhões acumulados, contra
+  R$ 40 milhões só de 2024 na auditoria do BRB). A identificação é por convergência de nome, titularidade e período
+  de atividade.'
+date: '2024'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

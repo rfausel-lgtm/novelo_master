@@ -1,0 +1,22 @@
+id: doc-2026-09-17-cadastro-receita-alves-correa-verissimo
+kind: document
+title: Cadastro da Receita Federal — Alves Corrêa & Veríssimo Advocacia
+doc_type: corporate_record
+date: '2026-09-17'
+date_precision: day
+source_ids:
+- src-minhareceita-2026-09-17-alves-correa-verissimo-advocacia
+summary: 'Cadastro público da sociedade Alves Corrêa & Veríssimo Advocacia, CNPJ 25.096.820/0001-50: aberta em 14/06/2016
+  em Brasília, capital social de R$ 500 mil, serviços advocatícios, situação ativa, matriz sem filial. Dalide Barbosa
+  Alves Corrêa como sócia-administradora desde a abertura e David Veríssimo de Souza como sócio com capital desde
+  18/06/2019.'
+is_official: true
+related_entity_ids:
+- alves-correa-advogados
+- dalide-barbosa-alves-correa
+issuer: Receita Federal do Brasil
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

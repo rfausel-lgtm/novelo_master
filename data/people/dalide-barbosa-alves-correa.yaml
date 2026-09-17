@@ -5,7 +5,7 @@ full_name: Dalide Barbosa Alves Corrêa
 aliases:
 - Dalide Barbosa Alves Corrêa
 category: lawyer
-role: Advogada, sócia-administradora do escritório Alves Corrêa
+role: Advogada, sócia-administradora da Alves Corrêa & Veríssimo Advocacia
 positions:
 - title: Sócia-administradora
   organization_id: alves-correa-advogados
@@ -15,16 +15,16 @@ positions:
   organization_id: idp
   source_ids:
   - src-contrafatos-2026-09-17-dalide-ex-diretora-do-idp
-summary: 'Advogada de Brasília cujo escritório, o Alves Corrêa, recebeu R$ 33 milhões do Banco Master em 2024, segundo
-  documentos da auditoria interna do BRB apreendidos pela Polícia Federal e revelados pelo Estadão em 17/09/2026.
-  Em diálogos entre executivos do banco, o pagamento é ordenado sob o argumento de que ela seria ''canal direto
-  com o STF'' — expressão que os próprios diálogos não explicam e que não vem acompanhada do nome de nenhum ministro.
-  Ela nega: afirma jamais ter atuado para o Master no Supremo nem procurado ministros, e diz que sua atuação se
-  restringiu a processos de primeira e segunda instâncias em favor de empresas que venderam créditos ao banco. Na
-  trajetória pública anterior, foi diretora jurídica nacional da Caixa Econômica Federal, procuradora-geral da ANAC
-  e diretora-geral do IDP, instituição fundada por Gilmar Mendes, de onde saiu em 2017 após divergências sobre a
-  gestão. No Tocantins, é apontada pela imprensa regional como sócia do Grupo Monte Sião e filiada ao Agir, com
-  domicílio eleitoral em Porto Nacional.'
+summary: 'Advogada de Brasília cujo escritório, a Alves Corrêa & Veríssimo Advocacia, recebeu R$ 33 milhões do Banco
+  Master em 2024, segundo documentos da auditoria interna do BRB apreendidos pela Polícia Federal e revelados pelo
+  Estadão em 17/09/2026. Em diálogos entre executivos do banco, o pagamento é ordenado sob o argumento de que ela
+  seria ''canal direto com o STF'' — expressão que os próprios diálogos não explicam e que não vem acompanhada do
+  nome de nenhum ministro. Ela nega: afirma jamais ter atuado para o Master no Supremo nem procurado ministros,
+  e diz que sua atuação se restringiu a processos de primeira e segunda instâncias em favor de empresas que venderam
+  créditos ao banco. Na trajetória pública anterior, foi diretora jurídica nacional da Caixa Econômica Federal,
+  procuradora-geral da ANAC e diretora-geral do IDP, instituição fundada por Gilmar Mendes, de onde saiu em 2017
+  após divergências sobre a gestão. No Tocantins, é apontada pela imprensa regional como sócia do Grupo Monte Sião
+  e filiada ao Agir, com domicílio eleitoral em Porto Nacional.'
 why_in_novelo: É a advogada cujo escritório aparece, em documentos de auditoria apreendidos pela PF, recebendo R$
   33 milhões do Banco Master em um único ano sob a justificativa de ser 'canal direto com o STF'.
 cited_position:
@@ -38,14 +38,15 @@ cited_position:
   - src-estadao-2026-09-17-master-33-milhoes-alves-correa
   - src-jornaldebrasilia-2026-09-17-dalide-correa-canal-direto
 open_questions:
-- 'Qual pessoa jurídica recebeu os R$ 33 milhões em 2024: a sociedade Alves Corrêa & Advogados Associados, aberta
-  em 2007, está com situação cadastral baixada na Receita Federal, e a auditoria citada pela imprensa identifica
-  o destinatário apenas como ''Alves Corrêa''.'
+- 'Nenhum documento público liga o CNPJ da sociedade ativa a um pagamento específico do Banco Master: a identificação
+  da pessoa jurídica que recebeu os valores se dá por convergência entre o registro da Receita Federal e o levantamento
+  do ND Mais, que a nomeia por extenso.'
 - O que significa, nos diálogos entre os executivos do Master, a expressão 'canal direto com o STF' — as reportagens
   registram que os próprios diálogos não explicam e que nenhum ministro é nomeado no trecho.
-- 'Quais serviços jurídicos concretos correspondem aos R$ 33 milhões: as publicações judiciais em nome dela no DJEN
-  não registram processo com o Banco Master como parte, o que é compatível tanto com atuação por outros advogados
-  do escritório quanto com serviços não contenciosos.'
+- 'Quais serviços jurídicos concretos correspondem aos valores: as publicações do DJEN em nome dela e do sócio não
+  registram processo com o Banco Master como parte, o que é compatível tanto com atuação em nome de empresas cedentes
+  quanto com serviços não contenciosos. O teste definitivo depende da lista das empresas que venderam créditos ao
+  banco.'
 - 'Em que pessoa jurídica do Grupo Monte Sião está o vínculo societário que a imprensa regional lhe atribui: o quadro
   societário da Agropecuária Monte Sião, no registro público, não a inclui.'
 source_ids:
@@ -55,6 +56,8 @@ source_ids:
 - src-contrafatos-2026-09-17-dalide-ex-diretora-do-idp
 - src-jornalopcao-2026-09-17-dalide-monte-siao-tocantins
 - src-minhareceita-2026-09-17-alves-correa-advogados-associados
+- src-minhareceita-2026-09-17-alves-correa-verissimo-advocacia
+- src-ndmais-2026-09-14-maiores-recebedores-de-honorarios-do-master
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-17'

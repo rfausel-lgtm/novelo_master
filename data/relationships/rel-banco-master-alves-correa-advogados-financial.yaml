@@ -7,7 +7,9 @@ directed: true
 label: pagou R$ 33 milhões em honorários em 2024
 description: Segundo documentos da auditoria interna do BRB apreendidos pela PF e revelados pelo Estadão em 17/09/2026,
   o Banco Master pagou R$ 33 milhões ao escritório Alves Corrêa em 2024 — o segundo maior valor do ano —, com a
-  ordem de pagamento justificada internamente pelo argumento de 'canal direto com o STF'.
+  ordem de pagamento justificada internamente pelo argumento de 'canal direto com o STF'. O levantamento do ND Mais,
+  de 14/09/2026, nomeia a sociedade por extenso, Alves Corrêa Verissimo Advocacia, com cerca de R$ 32,9 milhões
+  em honorários do banco.
 evidence_class: A
 confidence: 0.7
 status: unverified
@@ -16,11 +18,14 @@ evidence_ids:
 - ev-master-pagou-33-milhoes-ao-alves-correa-em-2024
 - ev-pagamento-ordenado-como-canal-direto-com-o-stf
 - ev-dalide-nega-ter-atuado-para-o-master-no-stf
+- ev-ndmais-lista-os-maiores-recebedores-de-honorarios-do-master
+- ev-a-pessoa-juridica-ativa-em-2024-e-a-alves-correa-verissimo
 document_ids:
 - doc-2026-04-07-relatorio-final-auditoria-brb-machado-meyer-kroll
 source_ids:
 - src-estadao-2026-09-17-master-33-milhoes-alves-correa
 - src-timesbrasil-2026-09-17-master-33-milhoes-canal-direto
+- src-ndmais-2026-09-14-maiores-recebedores-de-honorarios-do-master
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-17'

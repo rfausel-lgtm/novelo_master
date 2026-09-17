@@ -1,0 +1,20 @@
+id: ev-djen-tambem-nao-registra-processo-do-master-no-nome-do-socio
+kind: evidence
+classification: I
+proposition: A busca por publicações judiciais no nome do outro sócio do escritório, David Veríssimo de Souza, também
+  não encontra processo com o Banco Master como parte.
+document_ids: []
+source_ids:
+- src-verificacao-direta-djen-2026-09-17-publicacoes-de-dalide-correa
+inference_basis: 'Consulta desta sessão à API pública do DJEN, em 17/09/2026, ao nome do sócio: 154 publicações
+  em 31 processos, concentradas no TJDFT, sem nenhum processo com o Banco Master no polo ativo ou passivo; a única
+  ocorrência da palavra ''BRB'' vem de outro processo listado na mesma pauta. O que NÃO se conclui: o DJEN indexa
+  pelo advogado que recebe a intimação e não alcança processos em segredo de justiça, atuação anterior à cobertura
+  do sistema nem serviço não contencioso. Como a versão da advogada é a de que a atuação se deu em favor de empresas
+  cedentes de crédito, cujos nomes não são públicos, o teste definitivo seria a busca por parte, não por advogado.'
+date: '2026-09-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

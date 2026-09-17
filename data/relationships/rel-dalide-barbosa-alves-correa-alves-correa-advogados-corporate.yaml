@@ -5,18 +5,23 @@ to_id: alves-correa-advogados
 relationship_type: corporate
 directed: true
 label: sócia-administradora
-description: Dalide Barbosa Alves Corrêa consta no cadastro da Receita Federal como sócia-administradora da sociedade
-  Alves Corrêa & Advogados Associados desde a constituição, em 14/05/2007, ao lado do sócio David Veríssimo de Souza.
-  A sociedade está com situação cadastral baixada.
+description: Dalide Barbosa Alves Corrêa consta no cadastro da Receita Federal como sócia-administradora da Alves
+  Corrêa & Veríssimo Advocacia desde a abertura, em 14/06/2016, ao lado do sócio David Veríssimo de Souza, que entrou
+  no quadro em 18/06/2019. Antes dela, os mesmos dois nomes compunham a sociedade Alves Corrêa & Advogados Associados,
+  aberta em 2007 e extinta em 27/02/2013.
 evidence_class: D
 confidence: 0.95
 status: verified
-start_date: '2007-05-14'
+start_date: '2016-06-14'
 evidence_ids:
+- ev-alves-correa-verissimo-cadastro-societario
 - ev-alves-correa-cadastro-societario-e-situacao-baixada
+- ev-sociedade-alves-correa-de-2007-foi-extinta-em-2013
 document_ids:
+- doc-2026-09-17-cadastro-receita-alves-correa-verissimo
 - doc-2026-09-17-cadastro-receita-alves-correa-advogados
 source_ids:
+- src-minhareceita-2026-09-17-alves-correa-verissimo-advocacia
 - src-minhareceita-2026-09-17-alves-correa-advogados-associados
 review_status: published
 reviewer: orquestrador
