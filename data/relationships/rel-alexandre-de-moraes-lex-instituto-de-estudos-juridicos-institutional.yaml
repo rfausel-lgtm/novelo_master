@@ -1,0 +1,31 @@
+id: rel-alexandre-de-moraes-lex-instituto-de-estudos-juridicos-institutional
+kind: relationship
+from_id: alexandre-de-moraes
+to_id: lex-instituto-de-estudos-juridicos
+relationship_type: institutional
+directed: true
+label: instituto da família, sancionado pelos EUA como apoio financeiro a ele
+description: 'A ligação entre o ministro e o Instituto Lex é institucional e patrimonial, não societária: ele não
+  integra o quadro de sócios, formado pela mulher e pelos três filhos do casal. O que liga os dois diretamente é
+  um ato de governo estrangeiro — em 22/09/2025 o Departamento do Tesouro dos EUA designou o instituto pela Lei
+  Magnitsky classificando-o como parte da rede de apoio financeiro do ministro, sanção retirada em 12/12/2025 —
+  e o fato, noticiado pela imprensa, de o instituto deter o imóvel de residência do casal. A caracterização como
+  ''rede de apoio'' é do governo americano, não do acervo.'
+evidence_class: C
+confidence: 0.75
+status: unverified
+start_date: '2000-06-01'
+evidence_ids:
+- ev-eua-sancionam-viviane-instituto-lex-2025-09-22
+- ev-quadro-societario-do-instituto-lex-nao-inclui-o-ministro
+- ev-eua-retiram-viviane-lista-magnitsky-2025-12-12
+document_ids:
+- doc-2026-09-17-cadastro-receita-lex-instituto-de-estudos-juridicos
+source_ids:
+- src-nsctotal-2025-09-22-instituto-lex
+- src-minhareceita-2026-09-17-lex-instituto-de-estudos-juridicos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

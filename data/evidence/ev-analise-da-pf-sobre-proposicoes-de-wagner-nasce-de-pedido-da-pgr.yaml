@@ -1,0 +1,20 @@
+id: ev-analise-da-pf-sobre-proposicoes-de-wagner-nasce-de-pedido-da-pgr
+kind: evidence
+classification: D
+proposition: A análise da PF sobre as proposições legislativas de Jaques Wagner foi produzida em atendimento a requisição
+  da própria Procuradoria-Geral da República, no ofício ASSCRIM/PGR nº 726146/2026, e não por iniciativa autônoma
+  da polícia.
+document_ids:
+- doc-2026-06-08-ipja-2290463-proposicoes-legislativas-de-jaques-wagner
+source_ids:
+- src-stf-pet16230-autos-pecas
+excerpt: em atenção à Procuradoria-Geral da República no ofício ASSCRIM/PGR N. 726146/2026, no que tange à relação
+  de proposições legislativas apresentadas ou endossadas pelo Senador JAQUES WAGNER que possam ser de interesse
+  do BANCO MASTER
+locator: PET 16.230, peça 005, item 3
+date: '2026-06-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

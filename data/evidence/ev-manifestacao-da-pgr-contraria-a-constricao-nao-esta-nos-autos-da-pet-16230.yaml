@@ -1,0 +1,20 @@
+id: ev-manifestacao-da-pgr-contraria-a-constricao-nao-esta-nos-autos-da-pet-16230
+kind: evidence
+classification: I
+proposition: A manifestação em que a PGR teria se oposto à constrição, citada repetidamente pelos pareceres posteriores,
+  não está nas peças da PET 16.230.
+document_ids: []
+source_ids:
+- src-stf-pet16230-autos-pecas
+inference_basis: 'Os pareceres da PGR de julho e agosto remetem, todos, a uma manifestação anterior ''referente
+  às cautelares requeridas pela autoridade policial'', em que o MPF teria se posicionado contra a medida assecuratória.
+  A única peça da PGR anterior a 19/06/2026 no corpus é a de 16/06, conjunta a outras petições, e nela não aparecem
+  as palavras constrição, medida assecuratória, indisponibilidade, sequestro, arresto ou bloqueio — a oposição ali
+  é a dois outros pontos do pedido policial. O que NÃO se conclui: nada indica que a manifestação não exista; o
+  mais provável é que tenha sido feita em outro procedimento, na abertura do inquérito, fora deste conjunto de peças.'
+date: '2026-09-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

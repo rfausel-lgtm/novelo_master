@@ -1,0 +1,34 @@
+id: evt-2026-06-08-analise-da-pf-sobre-as-proposicoes-de-jaques-wagner
+kind: event
+title: PF entrega à PGR a análise das proposições legislativas de Jaques Wagner
+event_type: investigation_step
+date: '2026-06-08'
+date_precision: day
+participant_ids:
+- policia-federal
+- paulo-gonet
+- jaques-wagner
+- daniel-vorcaro
+- augusto-lima
+description: 'A pedido da própria PGR, a Polícia Federal cruzou oito anos de atividade parlamentar de Jaques Wagner
+  com o conteúdo dos celulares de Daniel Vorcaro e Augusto Lima. O resultado, entregue em 08/06/2026 e juntado como
+  peça 005 da PET 16.230, é majoritariamente negativo: na maior parte das proposições selecionadas nada foi encontrado.
+  O único capítulo que avança é o do PL 412/2022, do mercado regulado de carbono, em que a PF registra interesse
+  dos dois investigados — sem afirmar atuação do senador e sem nenhuma mensagem que o tenha como interlocutor.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-analise-da-pf-sobre-proposicoes-de-wagner-nasce-de-pedido-da-pgr
+- ev-pf-nao-encontrou-referencias-na-maioria-das-proposicoes-analisadas
+- ev-cronologia-da-relatoria-do-pl-412-2022
+- ev-emendas-ao-pl-412-circularam-no-celular-de-vorcaro
+- ev-pf-registra-interesse-e-nao-atuacao-parlamentar-no-pl-412
+source_ids:
+- src-stf-pet16230-autos-pecas
+document_ids:
+- doc-2026-06-08-ipja-2290463-proposicoes-legislativas-de-jaques-wagner
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

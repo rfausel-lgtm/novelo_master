@@ -1,0 +1,22 @@
+id: doc-2026-09-09-pedido-de-eduardo-sodre-martins-verbas-alimentares
+kind: document
+title: Pedido de Eduardo Mendonça Sodré Martins de 09/09/2026 — desconstituição da constrição sobre verbas alimentares
+doc_type: judicial_filing
+date: '2026-09-09'
+date_precision: day
+source_ids:
+- src-stf-pet16230-autos-pecas
+summary: Petição que pede a liberação de verbas de natureza alimentar — subsídio pago por órgão público estadual
+  da Bahia e outras remunerações —, invocando o art. 580 do Código de Processo Penal e a identidade de circunstâncias
+  com a decisão de 29/07/2026 que desbloqueou os proventos do Senado de Jaques Wagner. Até 17/09/2026 não havia
+  vista à PGR nem decisão.
+is_official: true
+related_entity_ids:
+- eduardo-mendonca-sodre-martins
+- jaques-wagner
+reference: PET 16.230/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

@@ -1,0 +1,33 @@
+id: jose-antonio-ramos-bittencourt
+kind: person
+name: José Antonio Ramos Bittencourt
+aliases:
+- José Antonio Carbono
+category: businessperson
+role: Empresário identificado pela PF como interlocutor de Vorcaro sobre créditos de carbono
+positions: []
+summary: Empresário que a Polícia Federal identifica, na IPJ-A nº 2290463/2026, como o contato salvo no celular
+  de Daniel Vorcaro sob o apelido 'José Antonio Carbono'. Em 22/10/2023 enviou ao banqueiro três emendas ao PL 412/2022,
+  de autoria do senador Efraim Filho, dizendo serem 'fundamentais serem aplicadas ao PL'; em 29/10 encaminhou, a
+  pedido de Vorcaro, estudos sobre estoques de carbono de uma fazenda no Amazonas, entre eles um relatório de consultoria
+  que a própria PF descreve como confidencial e restrito aos proprietários e à empresa que o contratou; e em 08/12
+  mandou notícia sobre o tema com a frase 'Nosso projeto'. A PF registra vínculos societários dele em cerca de dez
+  empresas. O relatório não lhe imputa crime.
+why_in_novelo: É o interlocutor por quem, segundo a análise da PF, o assunto dos créditos de carbono e as emendas
+  ao PL 412/2022 chegaram ao celular de Daniel Vorcaro.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação dele foi localizada no corpus; a análise da PF não registra oitiva nem pedido de
+    esclarecimento a seu respeito.
+  source_ids:
+  - src-stf-pet16230-autos-pecas
+open_questions:
+- A PF não conclui sobre a licitude do repasse do relatório de consultoria descrito como confidencial, nem sobre
+  a finalidade do envio das emendas a Vorcaro.
+source_ids:
+- src-stf-pet16230-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

@@ -1,0 +1,19 @@
+id: ev-pf-nao-encontrou-referencias-na-maioria-das-proposicoes-analisadas
+kind: evidence
+classification: D
+proposition: 'O resultado principal da análise é negativo: na maior parte das votações e proposições selecionadas,
+  a PF não encontrou nos celulares qualquer alusão ou referência relacionada, direta ou indiretamente, às atividades
+  do Banco Master ou de empresas associadas.'
+document_ids:
+- doc-2026-06-08-ipja-2290463-proposicoes-legislativas-de-jaques-wagner
+source_ids:
+- src-stf-pet16230-autos-pecas
+excerpt: em relação a maior parte das votações e proposições selecionadas, não foram encontradas alusões ou referências
+  nas conversas registradas nos aparelhos celulares analisados
+locator: PET 16.230, peça 005, item 4
+date: '2026-06-08'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

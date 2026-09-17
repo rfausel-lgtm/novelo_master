@@ -1,0 +1,27 @@
+id: rel-jose-antonio-ramos-bittencourt-daniel-vorcaro-communication
+kind: relationship
+from_id: jose-antonio-ramos-bittencourt
+to_id: daniel-vorcaro
+relationship_type: communication
+directed: true
+label: enviou-lhe as emendas ao PL 412/2022 e estudos sobre créditos de carbono
+description: Entre outubro e dezembro de 2023, segundo a análise da PF juntada à PET 16.230, enviou a Daniel Vorcaro
+  as emendas 26, 27 e 28 ao PL 412/2022, de autoria do senador Efraim Filho, estudos sobre estoques de carbono de
+  uma fazenda no Amazonas — entre eles um relatório de consultoria que a PF descreve como confidencial — e uma notícia
+  sobre o tema acompanhada da frase 'Nosso projeto'.
+evidence_class: D
+confidence: 0.9
+status: verified
+start_date: '2023-10-22'
+end_date: '2023-12-08'
+evidence_ids:
+- ev-emendas-ao-pl-412-circularam-no-celular-de-vorcaro
+document_ids:
+- doc-2026-06-08-ipja-2290463-proposicoes-legislativas-de-jaques-wagner
+source_ids:
+- src-stf-pet16230-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'
