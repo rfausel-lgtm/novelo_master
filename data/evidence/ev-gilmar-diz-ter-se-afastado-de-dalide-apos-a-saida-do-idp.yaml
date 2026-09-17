@@ -1,0 +1,17 @@
+id: ev-gilmar-diz-ter-se-afastado-de-dalide-apos-a-saida-do-idp
+kind: evidence
+classification: A
+proposition: Gilmar Mendes afirma que se afastou de Dalide Corrêa depois que ela deixou o IDP e que não mantém relação
+  de proximidade com a advogada; sobre os documentos encontrados pela PF, não se manifestou.
+document_ids: []
+source_ids:
+- src-estadao-2026-09-17-master-33-milhoes-alves-correa
+- src-contrafatos-2026-09-17-dalide-ex-diretora-do-idp
+attributed_to_id: gilmar-mendes
+attributed_to: Gilmar Mendes, segundo o Estadão
+date: '2026-09-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

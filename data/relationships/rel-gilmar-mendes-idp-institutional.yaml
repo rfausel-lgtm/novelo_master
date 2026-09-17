@@ -1,0 +1,25 @@
+id: rel-gilmar-mendes-idp-institutional
+kind: relationship
+from_id: gilmar-mendes
+to_id: idp
+relationship_type: institutional
+directed: true
+label: fundador e sócio
+description: Gilmar Mendes fundou o IDP em 1998, ao lado de Paulo Gonet e Inocêncio Mártires Coelho, e permanece
+  entre os sócios da instituição, hoje ao lado do filho, Francisco Schertel Mendes, reitor e comprador da participação
+  de Gonet em 2017.
+evidence_class: C
+confidence: 0.8
+status: unverified
+start_date: '1998'
+evidence_ids:
+- ev-gonet-foi-socio-do-idp-ate-2017
+document_ids: []
+source_ids:
+- src-jota-2017-09-14-gonet-nao-e-mais-socio-do-idp
+- src-oeste-2023-12-14-gonet-ex-socio-de-gilmar-no-idp
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

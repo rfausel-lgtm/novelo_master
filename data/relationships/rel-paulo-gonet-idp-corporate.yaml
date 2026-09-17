@@ -1,0 +1,26 @@
+id: rel-paulo-gonet-idp-corporate
+kind: relationship
+from_id: paulo-gonet
+to_id: idp
+relationship_type: corporate
+directed: true
+label: foi sócio fundador, até 2017
+description: Paulo Gonet fundou o IDP em 1998 com Gilmar Mendes e Inocêncio Mártires Coelho e deixou a sociedade
+  em 2017, vendendo sua participação a Francisco Schertel Mendes, filho do ministro. Segue como professor da instituição,
+  segundo o próprio IDP.
+evidence_class: C
+confidence: 0.8
+status: unverified
+start_date: '1998'
+end_date: '2017'
+evidence_ids:
+- ev-gonet-foi-socio-do-idp-ate-2017
+document_ids: []
+source_ids:
+- src-jota-2017-09-14-gonet-nao-e-mais-socio-do-idp
+- src-oeste-2023-12-14-gonet-ex-socio-de-gilmar-no-idp
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

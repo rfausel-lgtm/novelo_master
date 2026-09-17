@@ -1,0 +1,32 @@
+id: alves-correa-advogados
+kind: organization
+name: Alves Corrêa Advogados
+aliases:
+- Alves Corrêa
+- Alves Corrêa & Advogados Associados
+org_type: law_firm
+jurisdiction: Brasil
+summary: Escritório de advocacia de Brasília identificado nos documentos da auditoria interna do BRB como destinatário
+  de R$ 33 milhões pagos pelo Banco Master em 2024 — o segundo maior valor do ano, atrás do escritório Barci de
+  Moraes. A sociedade Alves Corrêa & Advogados Associados, registrada na Receita Federal desde 14/05/2007 com capital
+  de R$ 100 mil, tem Dalide Barbosa Alves Corrêa como sócia-administradora e David Veríssimo de Souza como sócio,
+  e está com situação cadastral baixada; a auditoria citada pela imprensa identifica o destinatário apenas pelo
+  nome 'Alves Corrêa', sem indicar a pessoa jurídica.
+why_in_novelo: É o escritório que, segundo documentos apreendidos pela PF, recebeu R$ 33 milhões do Banco Master
+  em 2024, com o pagamento ordenado sob a justificativa de 'canal direto com o STF'.
+cited_position:
+- kind: not_located
+  summary: Procurado por meio da advogada que o administra, o escritório não divulgou manifestação própria; a resposta
+    ao caso veio em nota pessoal de Dalide Corrêa.
+open_questions:
+- Qual pessoa jurídica recebeu efetivamente os R$ 33 milhões, já que a sociedade registrada em 2007 está baixada
+  na Receita Federal.
+source_ids:
+- src-estadao-2026-09-17-master-33-milhoes-alves-correa
+- src-timesbrasil-2026-09-17-master-33-milhoes-canal-direto
+- src-minhareceita-2026-09-17-alves-correa-advogados-associados
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

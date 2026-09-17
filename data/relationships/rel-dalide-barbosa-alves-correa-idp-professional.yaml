@@ -1,0 +1,26 @@
+id: rel-dalide-barbosa-alves-correa-idp-professional
+kind: relationship
+from_id: dalide-barbosa-alves-correa
+to_id: idp
+relationship_type: professional
+directed: true
+label: foi diretora-geral, até 2017
+description: Dalide Corrêa foi diretora-geral do IDP e deixou o instituto em 2017, após divergências sobre a gestão.
+  É um vínculo encerrado sete anos antes dos pagamentos de 2024, e o acervo não o usa como ponte para nenhuma outra
+  ligação.
+evidence_class: C
+confidence: 0.75
+status: unverified
+end_date: '2017'
+evidence_ids:
+- ev-dalide-foi-diretora-geral-do-idp-e-rompeu-com-gilmar-em-2017
+- ev-gilmar-diz-ter-se-afastado-de-dalide-apos-a-saida-do-idp
+document_ids: []
+source_ids:
+- src-contrafatos-2026-09-17-dalide-ex-diretora-do-idp
+- src-jornaldebrasilia-2026-09-17-dalide-correa-canal-direto
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

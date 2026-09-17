@@ -1,0 +1,23 @@
+id: src-verificacao-direta-djen-2026-09-17-publicacoes-de-dalide-correa
+kind: source
+title: Publicações judiciais em nome de Dalide Barbosa Alves Corrêa — DJEN/CNJ
+publisher: Diário de Justiça Eletrônico Nacional (CNJ)
+publication_date: '2026-09-17'
+retrieved_at: '2026-09-17'
+url: https://comunicaapi.pje.jus.br/api/v1/comunicacao?nomeAdvogado=DALIDE%20BARBOSA%20ALVES%20CORREA
+source_type: official_court
+summary: 'Consulta direta à API pública do DJEN pelo nome da advogada, feita por esta sessão em 17/09/2026: 177
+  publicações distribuídas em 15 processos, no TRF-1, TJDFT, STJ, TJMG, TJRJ e TJMA, concentradas em matéria antiga
+  (um cumprimento de sentença de 2008 responde por 99 delas). Nenhum processo tem o Banco Master como parte; as
+  ocorrências das palavras ''Master'' e ''BRB'' nos textos vêm de outros processos listados nas mesmas pautas de
+  julgamento.'
+verification:
+  checked_at: '2026-09-17'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

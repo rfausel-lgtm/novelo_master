@@ -1,0 +1,27 @@
+id: evt-2026-04-07-brb-conclui-auditoria-independente-e-envia-a-pf
+kind: event
+title: BRB conclui a apuração independente sobre as operações com o Master e envia tudo à PF
+event_type: investigation_step
+date: '2026-04-07'
+date_precision: day
+participant_ids:
+- banco-de-brasilia-brb
+- banco-master
+description: Cinco meses depois da primeira fase da Operação Compliance Zero, o BRB concluiu a apuração independente
+  sobre suas operações com o Banco Master, conduzida pelo Machado Meyer Advogados com perícia da Kroll Associates
+  e validada por uma Comissão Independente de Investigação, e encaminhou toda a documentação à Polícia Federal.
+  É dessa apuração que saem, cinco meses depois, os números dos gastos do Master com advocacia em 2023 e 2024.
+evidence_class: C
+status: unverified
+evidence_ids:
+- ev-auditoria-do-brb-conduzida-por-machado-meyer-e-kroll
+source_ids:
+- src-otempo-2026-04-08-brb-envia-auditoria-final-a-pf
+- src-timesbrasil-2026-04-10-quem-conduziu-a-auditoria-do-brb
+document_ids:
+- doc-2026-04-07-relatorio-final-auditoria-brb-machado-meyer-kroll
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

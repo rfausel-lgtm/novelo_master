@@ -1,0 +1,20 @@
+id: ev-barci-de-moraes-40-milhoes-em-2024-pela-auditoria-do-brb
+kind: evidence
+classification: A
+proposition: Pela mesma auditoria do BRB, o escritório Barci de Moraes foi o maior recebedor de honorários do Banco
+  Master em 2024, com R$ 40 milhões.
+document_ids:
+- doc-2026-04-07-relatorio-final-auditoria-brb-machado-meyer-kroll
+source_ids:
+- src-estadao-2026-09-17-master-33-milhoes-alves-correa
+- src-timesbrasil-2026-09-17-master-33-milhoes-canal-direto
+attributed_to: Auditoria interna do BRB apreendida pela PF, segundo o Estadão
+date: '2024'
+notes: Complementa, por outra base, o que o acervo já registrava a partir de dados da Receita Federal citados na
+  CPI do Crime Organizado (ver ev-barci-40-milhoes-somente-em-2025), que apontavam cerca de R$ 40,1 milhões em 2025
+  dentro de R$ 80,2 milhões em dois anos. Os recortes de ano são distintos e não se anulam.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

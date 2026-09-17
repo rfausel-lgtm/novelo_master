@@ -1,0 +1,43 @@
+id: rev-2026-09-17-lote-328-canal-direto-com-o-stf-e-o-no-do-idp
+kind: revision
+date: '2026-09-17'
+title: Lote 328 — o 'canal direto com o STF' nos R$ 33 milhões do Master e o nó do IDP
+summary: 'Documentos da auditoria que o BRB contratou sobre suas operações com o Banco Master — feita pelo Machado
+  Meyer com perícia da Kroll, concluída em 07/04/2026 e depois apreendida pela PF com dirigentes do próprio BRB
+  — mostram que os gastos do Master com advocacia saltaram de R$ 76 milhões em 2023 para R$ 215 milhões em 2024.
+  Nesse ano, o escritório Barci de Moraes recebeu R$ 40 milhões e o Alves Corrêa, de Dalide Corrêa, R$ 33 milhões,
+  com a ordem de pagamento justificada por um diretor do banco como ''canal direto com o STF'' — expressão que os
+  diálogos não explicam e que não vem com o nome de nenhum ministro. A advogada nega ter atuado para o Master no
+  Supremo. O que existe de documentado em torno dela é institucional e antigo: foi diretora-geral do IDP, instituto
+  fundado por Gilmar Mendes, de onde saiu em 2017; no mesmo ano, Paulo Gonet, hoje procurador-geral, deixou a sociedade
+  do IDP vendendo sua parte ao filho do ministro. O lote publica esse nó institucional e nenhuma aresta entre a
+  advogada e ministro algum. Duas verificações próprias entram como limite: a sociedade Alves Corrêa registrada
+  em 2007 está baixada na Receita, e as publicações do DJEN em nome dela não registram processo com o Master como
+  parte.'
+added:
+  people: 1
+  organizations: 2
+  events: 1
+  documents: 2
+  relationships: 7
+  sources: 11
+  evidence: 12
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- dalide-barbosa-alves-correa
+- alves-correa-advogados
+- idp
+- banco-master
+- banco-de-brasilia-brb
+- gilmar-mendes
+- paulo-gonet
+- angelo-ribeiro-da-silva
+- alberto-felix-oliveira
+- barci-de-moraes-sociedade-de-advogados
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

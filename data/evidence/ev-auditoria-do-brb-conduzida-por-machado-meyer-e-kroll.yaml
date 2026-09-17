@@ -1,0 +1,18 @@
+id: ev-auditoria-do-brb-conduzida-por-machado-meyer-e-kroll
+kind: evidence
+classification: C
+proposition: A apuração independente que o BRB contratou sobre suas operações com o Banco Master foi conduzida pelo
+  escritório Machado Meyer Advogados, com perícia da Kroll Associates, começou em novembro de 2025, foi concluída
+  em 07/04/2026 com validação de uma Comissão Independente de Investigação, e toda a documentação foi enviada à
+  Polícia Federal.
+document_ids:
+- doc-2026-04-07-relatorio-final-auditoria-brb-machado-meyer-kroll
+source_ids:
+- src-otempo-2026-04-08-brb-envia-auditoria-final-a-pf
+- src-timesbrasil-2026-04-10-quem-conduziu-a-auditoria-do-brb
+date: '2026-04-07'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

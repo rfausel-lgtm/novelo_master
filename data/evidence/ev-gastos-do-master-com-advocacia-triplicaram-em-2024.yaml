@@ -1,0 +1,20 @@
+id: ev-gastos-do-master-com-advocacia-triplicaram-em-2024
+kind: evidence
+classification: A
+proposition: Os gastos do Banco Master com escritórios de advocacia passaram de R$ 76 milhões em 2023 para R$ 215
+  milhões em 2024, salto que a auditoria interna do BRB tratou como ponto de atenção ao avaliar o impacto dessas
+  despesas no modelo financeiro do banco.
+document_ids:
+- doc-2026-04-07-relatorio-final-auditoria-brb-machado-meyer-kroll
+source_ids:
+- src-estadao-2026-09-17-master-33-milhoes-alves-correa
+- src-timesbrasil-2026-09-17-master-33-milhoes-canal-direto
+attributed_to: Auditoria interna do BRB apreendida pela PF, segundo o Estadão
+date: '2024'
+notes: As demais coberturas do dia reproduzem a apuração do Estadão; por isso o registro fica em classe A, atribuída,
+  e não em C.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

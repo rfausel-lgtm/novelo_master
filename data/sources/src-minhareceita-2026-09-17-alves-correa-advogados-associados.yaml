@@ -1,0 +1,22 @@
+id: src-minhareceita-2026-09-17-alves-correa-advogados-associados
+kind: source
+title: Registro cadastral da sociedade Alves Corrêa & Advogados Associados — Receita Federal
+publisher: Receita Federal do Brasil
+publication_date: '2026-09-17'
+retrieved_at: '2026-09-17'
+url: https://minhareceita.org/08957586000199
+source_type: corporate_registry
+summary: 'Consulta direta ao cadastro da sociedade de advogados Alves Corrêa & Advogados Associados, de Brasília:
+  início de atividade em 14/05/2007, capital social de R$ 100 mil, atividade de serviços advocatícios, situação
+  cadastral BAIXADA. O quadro societário registra Dalide Barbosa Alves Corrêa como sócia-administradora e David
+  Veríssimo de Souza como sócio, ambos desde a constituição.'
+verification:
+  checked_at: '2026-09-17'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'
