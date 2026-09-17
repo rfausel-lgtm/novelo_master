@@ -774,6 +774,11 @@ export function GraphCanvas(props: GraphCanvasProps) {
       runner.stop();
       return;
     }
+    /*
+     * O ForceAtlas2 expande o desenho enquanto roda. Se um arraste anterior deixou o enquadramento
+     * congelado, o grafo sairia da tela; com a física ligada, o enquadramento volta a ser automático.
+     */
+    sigmaRef.current?.setCustomBBox(null);
     callbacks.current.onLayoutRunning?.(true);
     runner.run(reducedMotionRef.current ? 1200 : undefined);
   }, [layoutToken, graph]);
