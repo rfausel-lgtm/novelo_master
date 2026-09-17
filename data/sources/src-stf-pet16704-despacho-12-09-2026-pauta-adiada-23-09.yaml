@@ -1,18 +1,21 @@
 id: src-stf-pet16704-despacho-12-09-2026-pauta-adiada-23-09
 kind: source
-title: Despacho de 12/09/2026 — Fachin mantém a sessão de 15/09 exclusiva à PET 16.662 e adia a Pet 16.704 para 23/09
+title: Despacho de 12/09/2026 — Fachin mantém a sessão de 15/09 exclusiva à PET 16.662 e adia a Pet 16.704 para
+  23/09
 publisher: Supremo Tribunal Federal
 author: Ministro Presidente (Edson Fachin)
 publication_date: '2026-09-12'
 retrieved_at: '2026-09-13'
 url: https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7687920
 source_type: official_court
-summary: 'Despacho da Presidência que indefere pedido de inclusão da própria Pet 16.704 na pauta da sessão
-  plenária extraordinária de 15/09/2026, mantendo-a "designada exclusivamente para apreciação da Pet 16.662".
-  Determina que, finda a instrução da Pet 16.704, o processo seja incluído em calendário na sessão de
-  23/09/2026.'
-notes: Lido na aba de Andamentos pública do portal.stf.jus.br (texto do despacho já aparece ali porque o
-  sigilo dos autos foi levantado em 10/09/2026); não foi baixada a peça individual via peticionamento.
+summary: Despacho da Presidência que indefere pedido de inclusão da própria Pet 16.704 na pauta da sessão plenária
+  extraordinária de 15/09/2026, mantendo-a "designada exclusivamente para apreciação da Pet 16.662". Determina que,
+  finda a instrução da Pet 16.704, o processo seja incluído em calendário na sessão de 23/09/2026.
+notes: 'Lido na aba de Andamentos pública do portal.stf.jus.br (texto do despacho já aparece ali porque o sigilo
+  dos autos foi levantado em 10/09/2026); não foi baixada a peça individual via peticionamento. ATUALIZAÇÃO (17/09/2026):
+  essa designação não subsistiu — a inclusão da Pet 16.704 na sessão de 23/09 era condicionada ao fim da instrução
+  e foi desfeita por despacho da Presidência de 17/09/2026, que remete a nova pauta ''oportunamente redesignada''
+  (ver src-stf-pet16704-despacho-17-09-2026-pauta-redesignada).'
 verification:
   checked_at: '2026-09-13'
   checked_by: orquestrador
@@ -20,6 +23,6 @@ verification:
   content_matches_summary: true
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-13'
+reviewed_at: '2026-09-17'
 created_at: '2026-09-13'
-updated_at: '2026-09-13'
+updated_at: '2026-09-17'

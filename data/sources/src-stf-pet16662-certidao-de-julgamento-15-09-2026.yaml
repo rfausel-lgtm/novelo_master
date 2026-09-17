@@ -1,0 +1,27 @@
+id: src-stf-pet16662-certidao-de-julgamento-15-09-2026
+kind: source
+title: Certidão de julgamento da sessão extraordinária de 15/09/2026 — PET 16.662
+publisher: Supremo Tribunal Federal
+publication_date: '2026-09-15'
+retrieved_at: '2026-09-17'
+url: https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7681133
+source_type: official_court
+summary: 'Texto da decisão de julgamento publicado nos andamentos públicos da PET 16.662: registra a questão de
+  ordem suscitada por Gilmar Mendes para reunir a PET 16.662 e a PET 16.704 por continência, redistribuir os feitos,
+  certificar todos os magistrados citados no caso Banco Master sobre os quais recaiam indícios de recebimento de
+  valores indevidos e abrir prazo à PGR e aos juízes citados; o acompanhamento de Zanin e Moraes; os votos de Fachin,
+  ali identificado como ''Presidente e Relator'', e de Mendonça, que não acolhiam a questão de ordem; os votos antecipados
+  de Fux e Cármen Lúcia com o Presidente; o impedimento de Nunes Marques; a suspeição afirmada por Toffoli; e o
+  pedido de vista de Flávio Dino.'
+notes: Lido na aba de Andamentos pública do portal.stf.jus.br em 17/09/2026, com a ata do julgamento já publicada
+  no DJE (divulgada em 16/09, publicada em 17/09).
+verification:
+  checked_at: '2026-09-17'
+  checked_by: orquestrador (leitura direta no portal do STF)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

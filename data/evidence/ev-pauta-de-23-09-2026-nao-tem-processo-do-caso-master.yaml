@@ -1,0 +1,15 @@
+id: ev-pauta-de-23-09-2026-nao-tem-processo-do-caso-master
+kind: evidence
+classification: D
+proposition: A sessão plenária de 23/09/2026, na qual a Presidência havia previsto incluir a PET 16.704, tem três
+  processos em pauta — ADI 7935, ARE 1490466 e ADPF 1218 —, nenhum deles do caso Banco Master.
+document_ids:
+- doc-2026-09-17-pauta-do-plenario-de-23-09-2026
+source_ids:
+- src-stf-pauta-plenario-23-09-2026
+date: '2026-09-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

@@ -1,6 +1,6 @@
 id: evt-2026-09-15-sessao-extraordinaria-stf-investigacao-contra-moraes
 kind: event
-title: Sessão extraordinária do Plenário do STF sobre a abertura de investigação contra Moraes
+title: Sessão extraordinária do STF sobre investigar Moraes termina sem decisão, com vista de Dino
 event_type: judicial_decision
 date: '2026-09-15'
 date_precision: day
@@ -8,30 +8,38 @@ participant_ids:
 - edson-fachin
 - alexandre-de-moraes
 - andre-mendonca
+- gilmar-mendes
+- cristiano-zanin
+- dias-toffoli
 - supremo-tribunal-federal
 - paulo-gonet
-description: Sessão extraordinária convocada por Fachin em 09/09/2026, a pedido de André Mendonça, marcada
-  para 15/09/2026 às 10h, presencial. Segundo a cobertura, o Plenário decidirá se autoriza a abertura
-  de investigação contra Alexandre de Moraes, com base no relatório preliminar de 218 páginas da Polícia
-  Federal produzido sobre o material do celular de Daniel Vorcaro — o que seria a primeira deliberação
-  do colegiado sobre abrir inquérito contra um de seus integrantes. A Procuradoria-Geral da República
-  sustenta a nulidade do relatório, por entender que a apuração foi direcionada contra o ministro sem
-  autorização prévia do Plenário. Parte da cobertura descreve a mesma sessão como destinada às decisões
-  conflitantes sobre o comando da Polícia Federal; se são dois itens da mesma pauta, o acervo ainda não
-  estabeleceu. Evento futuro na data deste registro.
-evidence_class: C
-status: unverified
+description: Sessão extraordinária convocada por Fachin em 09/09/2026, a pedido de André Mendonça, realizada em
+  15/09/2026 às 10h. O Plenário não chegou ao mérito. Depois da leitura do relatório, Gilmar Mendes suscitou questão
+  de ordem para reunir a PET 16.662 e a PET 16.704 por continência, redistribuir os feitos, certificar todos os
+  magistrados citados no caso Banco Master sobre os quais recaiam indícios de recebimento de valores indevidos e
+  abrir prazo à PGR e a esses juízes. Acompanharam Zanin e Moraes; votaram contra Fachin — que a certidão identifica
+  como Presidente e Relator, após a substituição da relatoria em 12/09 — e Mendonça, com votos antecipados de Fux
+  e Cármen Lúcia no mesmo sentido. Nunes Marques está impedido, Toffoli afirmou suspeição e Flávio Dino pediu vista,
+  suspendendo o julgamento com o placar parcial de 3 a 4. A ata foi publicada no DJE em 17/09/2026.
+evidence_class: D
+status: verified
 evidence_ids:
 - ev-plenario-do-stf-decide-em-15-09-se-autoriza-investigacao-contra-moraes
 - ev-pgr-defende-nulidade-do-relatorio-da-pf-sobre-moraes
+- ev-questao-de-ordem-de-gilmar-para-reunir-as-pets-16662-e-16704
+- ev-placar-parcial-da-questao-de-ordem-e-vista-de-dino
+- ev-relatoria-da-pet-16662-esta-com-a-presidencia
+- ev-prazo-da-vista-de-dino-na-pet-16662
 source_ids:
 - src-otempo-2026-09-09-stf-decide-dia-15-se-investiga-moraes
 - src-migalhas-2026-09-09-fachin-suspende-decisoes-dino-mendonca-andrei
+- src-stf-pet16662-certidao-de-julgamento-15-09-2026
 document_ids:
 - doc-2026-09-09-decisao-fachin-suspende-mendonca-e-dino-caso-andrei
+- doc-2026-09-15-certidao-de-julgamento-pet-16662
 public_act_ids: []
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-10'
+reviewed_at: '2026-09-17'
 created_at: '2026-09-10'
-updated_at: '2026-09-10'
+updated_at: '2026-09-17'

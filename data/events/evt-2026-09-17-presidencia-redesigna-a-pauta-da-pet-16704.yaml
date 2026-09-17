@@ -1,0 +1,31 @@
+id: evt-2026-09-17-presidencia-redesigna-a-pauta-da-pet-16704
+kind: event
+title: Presidência desfaz a sessão de 23/09 para a PET 16.704
+event_type: judicial_decision
+date: '2026-09-17'
+date_precision: day
+participant_ids:
+- edson-fachin
+- andre-mendonca
+- supremo-tribunal-federal
+description: 'Dois dias depois da sessão interrompida por vista, a Presidência desfez a designação da sessão de
+  23/09/2026 para a PET 16.704 — o procedimento que ela mesma autuou de ofício em 03/09 e que a imprensa vinha chamando
+  de ''o caso Mendonça''. O fundamento é a própria questão de ordem pendente: se o Plenário decidir reunir e redistribuir
+  os feitos, muda quem os relata. A pauta de 23/09 confirma o efeito prático — traz três processos, nenhum do caso
+  Master. Não há nova data.'
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-presidencia-redesigna-a-inclusao-em-pauta-da-pet-16704
+- ev-pauta-de-23-09-2026-nao-tem-processo-do-caso-master
+source_ids:
+- src-stf-pet16704-despacho-17-09-2026-pauta-redesignada
+- src-stf-pauta-plenario-23-09-2026
+document_ids:
+- doc-2026-09-17-despacho-presidencia-redesigna-pauta-pet-16704
+- doc-2026-09-17-pauta-do-plenario-de-23-09-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

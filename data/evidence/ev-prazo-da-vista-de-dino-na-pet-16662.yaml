@@ -1,0 +1,20 @@
+id: ev-prazo-da-vista-de-dino-na-pet-16662
+kind: evidence
+classification: I
+proposition: O prazo da vista de Flávio Dino na PET 16.662 corre a partir da publicação da ata, em 17/09/2026, e
+  se esgota em meados de dezembro de 2026.
+document_ids:
+- doc-2026-09-15-certidao-de-julgamento-pet-16662
+source_ids:
+- src-stf-pet16662-certidao-de-julgamento-15-09-2026
+inference_basis: 'Os andamentos registram a ata de julgamento divulgada em 16/09 e publicada no DJE em 17/09/2026.
+  O Regimento Interno do STF, na redação dada pela Emenda Regimental 58/2022, fixa em 90 dias o prazo de vista,
+  contados da publicação da ata, com liberação automática ao fim. A contagem simples leva a 16/12/2026. O que NÃO
+  se conclui: o prazo é limite, não agenda — o ministro pode devolver os autos a qualquer momento antes disso, e
+  a devolução não implica julgamento imediato, que depende de nova inclusão em pauta.'
+date: '2026-09-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

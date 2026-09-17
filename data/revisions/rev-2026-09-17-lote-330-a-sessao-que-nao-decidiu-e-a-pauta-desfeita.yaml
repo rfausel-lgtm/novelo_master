@@ -1,0 +1,43 @@
+id: rev-2026-09-17-lote-330-a-sessao-que-nao-decidiu-e-a-pauta-desfeita
+kind: revision
+date: '2026-09-17'
+title: Lote 330 — a sessão que não decidiu e a pauta de 23/09 desfeita
+summary: 'A leitura direta da certidão de julgamento corrige o que a cobertura consolidou. Em 15/09 o Plenário não
+  decidiu nada e não votou o mérito: discutiu uma questão de ordem suscitada por Gilmar Mendes para reunir a PET
+  16.662 e a PET 16.704 por continência, redistribuir os feitos, certificar todos os magistrados citados no caso
+  Master sobre os quais recaiam indícios de recebimento de valores indevidos e abrir prazo à PGR e a esses juízes.
+  O placar parcial era 3 a 4 — Gilmar, Zanin e Moraes de um lado; Fachin, Mendonça, Fux e Cármen Lúcia de outro
+  —, com Nunes Marques impedido, Toffoli suspeito e vista de Flávio Dino. A certidão também confirma que a relatoria
+  está com a Presidência desde 12/09. E em 17/09 a Presidência desfez a sessão de 23/09 que estava prevista para
+  a PET 16.704, justamente porque a questão de ordem alcança a regularidade da relatoria: a pauta daquele dia traz
+  três processos e nenhum do caso Master.'
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 3
+  relationships: 0
+  sources: 3
+  evidence: 6
+updated_relationships: 0
+corrections:
+- 'evt-2026-09-15-sessao-extraordinaria-stf-investigacao-contra-moraes: o registro descrevia uma sessão futura em
+  que o Plenário decidiria sobre autorizar investigação. Passa a registrar o que ocorreu — questão de ordem, placar
+  parcial de 3 a 4, impedimento, suspeição e vista —, em classe D e verificado.'
+- 'src-stf-pet16704-despacho-12-09-2026-pauta-adiada-23-09: a designação da sessão de 23/09 registrada nessa fonte
+  foi desfeita em 17/09/2026; a nota da fonte passa a apontar o despacho novo.'
+author: orquestrador
+affected_ids:
+- supremo-tribunal-federal
+- edson-fachin
+- gilmar-mendes
+- alexandre-de-moraes
+- andre-mendonca
+- cristiano-zanin
+- dias-toffoli
+- paulo-gonet
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

@@ -1,0 +1,23 @@
+id: doc-2026-09-17-despacho-presidencia-redesigna-pauta-pet-16704
+kind: document
+title: Despacho da Presidência de 17/09/2026 — redesignação da inclusão em pauta da PET 16.704/DF
+doc_type: judicial_decision
+date: '2026-09-17'
+date_precision: day
+source_ids:
+- src-stf-pet16704-despacho-17-09-2026-pauta-redesignada
+summary: Despacho que desfaz a designação da sessão de 23/09/2026 para a PET 16.704, por causa da questão de ordem
+  pendente de vista na PET 16.662, que alcança a regularidade da própria relatoria. Sem nova data.
+is_official: true
+related_entity_ids:
+- supremo-tribunal-federal
+- edson-fachin
+- andre-mendonca
+issuer_id: edson-fachin
+issuer: Ministro Presidente (Edson Fachin)
+reference: PET 16.704/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'
