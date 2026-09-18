@@ -1,0 +1,20 @@
+id: doc-2026-consultasocio-dalide-agropecuaria-monte-siao
+kind: document
+title: Histórico de agregador — entrada de Dalide na Agropecuária Monte Sião
+doc_type: corporate_record
+date: '2022-08-16'
+date_precision: day
+source_ids:
+- src-consultasocio-2026-09-17-dalide-quadro-societario
+summary: Registro do agregador ConsultaSocio de que Dalide Barbosa Alves Corrêa entrou no quadro societário da Agropecuária
+  Monte Sião em 16/08/2022, retrato não atualizado em relação ao cadastro vigente da Receita Federal, que já não
+  a inclui.
+is_official: false
+related_entity_ids:
+- dalide-barbosa-alves-correa
+issuer: ConsultaSocio (agregador de dados públicos de CNPJ)
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

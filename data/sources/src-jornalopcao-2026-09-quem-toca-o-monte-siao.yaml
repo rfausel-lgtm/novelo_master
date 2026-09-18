@@ -1,0 +1,21 @@
+id: src-jornalopcao-2026-09-quem-toca-o-monte-siao
+kind: source
+title: 'Grupo Monte Sião: o império agropecuário que domina os bastidores da política tocantinense'
+publisher: Jornal Opção — Tocantins
+publication_date: '2026'
+retrieved_at: '2026-09-17'
+url: https://tocantins.jornalopcao.com.br/noticias/grupo-monte-siao-o-imperio-agropecuario-que-ultrapassa-as-porteiras-e-domina-os-bastidores-da-politica-tocantinense-562486/
+source_type: press
+summary: Perfil do Grupo Monte Sião que atribui a Vilma Magalhães e Silva a sociedade formal desde a fundação, em
+  2022, e afirma que quem de fato comanda os bastidores do grupo é o empresário Leandro Luiz — nome que não foi
+  localizado em nenhum quadro societário das empresas do grupo consultadas na Receita Federal.
+verification:
+  checked_at: '2026-09-17'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

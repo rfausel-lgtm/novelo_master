@@ -1,0 +1,17 @@
+id: ev-dalide-declarou-88-milhoes-de-patrimonio-em-2022
+kind: evidence
+classification: D
+proposition: Na candidatura de 2022, Dalide Barbosa Alves Corrêa declarou ao TSE patrimônio total de R$ 88.525.000,00,
+  em 24 bens — dois anos antes dos pagamentos de 2024 do Banco Master ao seu escritório.
+document_ids:
+- doc-2022-tse-ficha-candidatura-dalide-correa
+source_ids:
+- src-tse-divulgacand-2022-dalide-correa-go
+date: '2022'
+notes: Fonte não reconfirmada por acesso direto desta sessão ao TSE, bloqueado por controle de acesso (Akamai);
+  dado de leitura delegada, sinalizado como tal.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

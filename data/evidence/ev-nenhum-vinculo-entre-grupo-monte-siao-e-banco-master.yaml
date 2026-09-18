@@ -1,0 +1,19 @@
+id: ev-nenhum-vinculo-entre-grupo-monte-siao-e-banco-master
+kind: evidence
+classification: I
+proposition: Não há, em fonte pública localizada, qualquer operação, contrato ou aporte entre empresas do Grupo
+  Monte Sião (Agropecuária Monte Sião, Monte Sião Haras) e o Banco Master, o BRB ou fundos ligados a Daniel Vorcaro.
+  Os R$ 33 milhões do Banco Master à Alves Corrêa & Veríssimo Advocacia dizem respeito à pessoa da advogada e ao
+  escritório dela em Brasília, não à operação agropecuária do Tocantins.
+document_ids: []
+source_ids:
+- src-jornalopcao-2026-09-quem-toca-o-monte-siao
+inference_basis: 'Busca por combinações de ''Monte Sião'' com Master, BRB, Vorcaro, crédito e leilão não retornou
+  nenhuma notícia ou registro que ligue as duas frentes, além da própria matéria sobre os honorários da advogada.
+  O que NÃO se conclui: que essa ligação não exista — apenas que não foi encontrada em fonte aberta até esta data.'
+date: '2026-09-17'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

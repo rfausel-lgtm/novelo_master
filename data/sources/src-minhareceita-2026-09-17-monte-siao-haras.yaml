@@ -1,0 +1,22 @@
+id: src-minhareceita-2026-09-17-monte-siao-haras
+kind: source
+title: Registro cadastral vigente do Monte Sião Haras — Receita Federal
+publisher: Receita Federal do Brasil
+publication_date: '2026-09-17'
+retrieved_at: '2026-09-17'
+url: https://minhareceita.org/57533673000124
+source_type: corporate_registry
+summary: Consulta direta desta sessão ao cadastro vigente do Monte Sião Haras Ltda. (CNPJ 57.533.673/0001-24), aberto
+  em 02/10/2024 em Porto Nacional (TO), capital de R$ 1 milhão, criação de equinos, situação ativa. Quadro societário
+  com Raquel Patrícia Alvarenga Alves Corrêa, sócia-administradora, e Renato Pereira de Carvalho, sócio, ambos desde
+  a abertura. Dalide Barbosa Alves Corrêa não consta.
+verification:
+  checked_at: '2026-09-17'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

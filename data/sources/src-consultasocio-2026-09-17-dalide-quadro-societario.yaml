@@ -1,0 +1,27 @@
+id: src-consultasocio-2026-09-17-dalide-quadro-societario
+kind: source
+title: Quadro societário — Dalide Barbosa Alves Corrêa (agregador de CNPJ)
+publisher: ConsultaSocio
+publication_date: '2026-09-17'
+retrieved_at: '2026-09-17'
+url: https://www.consultasocio.com/q/sa/dalide-barbosa-alves-correa
+source_type: corporate_registry
+summary: 'Agregador de CNPJ que lista quatro sociedades de Dalide Barbosa Alves Corrêa: a Alves Corrêa & Veríssimo
+  Advocacia (ativa, desde 14/06/2016) e a Alves Corrêa & Advogados Associados (baixada, desde 14/05/2007), já conhecidas
+  do acervo; a Cooperativa dos Produtores Rurais de Brazlândia (baixada, sócia desde 12/09/2005); e a Agropecuária
+  Monte Sião Ltda., com entrada registrada em 16/08/2022 — três semanas depois de registrada como suplente de senadora
+  — e situação marcada como ''ATIVA'' na base do agregador.'
+notes: A consulta direta desta sessão ao cadastro vigente da Receita Federal, feita na mesma data (17/09/2026),
+  mostra a Agropecuária Monte Sião com quadro societário formado apenas por Vilma Magalhães e Silva, sem Dalide.
+  O agregador reflete um retrato mais antigo, não atualizado; a data de saída dela do quadro não é localizável em
+  nenhuma das duas fontes, que só registram o estado em que cada uma foi consultada, não o histórico de alterações.
+verification:
+  checked_at: '2026-09-17'
+  checked_by: orquestrador (captura local + leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

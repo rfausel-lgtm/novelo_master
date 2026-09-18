@@ -1,0 +1,22 @@
+id: ev-dalide-entrou-na-agropecuaria-monte-siao-em-2022-nao-consta-mais
+kind: evidence
+classification: D
+proposition: 'Dalide Barbosa Alves Corrêa entrou no quadro societário da Agropecuária Monte Sião Ltda. em 16/08/2022,
+  três semanas depois de registrada como suplente de senadora. O cadastro vigente da Receita Federal, consultado
+  por esta sessão em 17/09/2026, não a inclui: o único nome no quadro é Vilma Magalhães e Silva, sócia-administradora
+  desde a abertura da empresa.'
+document_ids:
+- doc-2026-consultasocio-dalide-agropecuaria-monte-siao
+- doc-2026-09-17-cadastro-receita-agropecuaria-monte-siao
+source_ids:
+- src-consultasocio-2026-09-17-dalide-quadro-societario
+- src-minhareceita-2026-09-17-agropecuaria-monte-siao
+date: '2022-08-16'
+notes: Nem o agregador nem o cadastro vigente da Receita registram histórico de alterações societárias; a data em
+  que ela deixou o quadro não é localizável em nenhuma das duas fontes. O que se pode afirmar é que ela era sócia
+  em algum momento a partir de 16/08/2022 e não é sócia na consulta de 17/09/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

@@ -1,0 +1,20 @@
+id: ev-dalide-candidatura-2022-suplente-senado-goias
+kind: evidence
+classification: D
+proposition: Em 2022, Dalide Barbosa Alves Corrêa foi 1ª suplente na candidatura de João Campos de Araújo ao Senado
+  por Goiás, pelo Republicanos, com o registro de candidatura considerado apto; não foi eleita. Segundo o TSE, a
+  chapa tinha registrado antes dela dois outros suplentes, ambos com candidatura indeferida, o que indica que ela
+  entrou por substituição.
+document_ids:
+- doc-2022-tse-ficha-candidatura-dalide-correa
+source_ids:
+- src-ndmais-2022-ficha-candidatura-dalide-correa
+- src-tse-divulgacand-2022-dalide-correa-go
+date: '2022'
+notes: 'Corrige versão de outra reportagem, que atribuíra a candidatura ao Tocantins: é Goiás, confirmado de forma
+  independente pela ficha do ND Mais.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

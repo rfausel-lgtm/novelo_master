@@ -1,0 +1,27 @@
+id: src-tse-divulgacand-2022-dalide-correa-go
+kind: source
+title: Ficha do DivulgaCand/TSE — Dalide Barbosa Alves Corrêa, eleição 2022, Goiás
+publisher: Tribunal Superior Eleitoral
+publication_date: '2022'
+retrieved_at: '2026-09-17'
+url: https://divulgacandcontas.tse.jus.br/divulga/#/candidato/2022/2040602022/GO/90001739408
+source_type: official_regulator
+summary: 'Ficha oficial do TSE: 1ª suplente de senador por Goiás, coligação ''Estado Inteligente'', resultado ''não
+  eleito'', patrimônio total declarado de R$ 88.525.000,00 em 24 bens. O histórico de candidatos da chapa registra
+  dois primeiros suplentes anteriores, Joamar Rodrigues de Amurim Filho e Osmair Ferreira da Silva, ambos com registro
+  de candidatura indeferido (''candidatoApto: false''), o que evidencia que Dalide entrou na chapa por substituição,
+  após o indeferimento dos suplentes originalmente indicados.'
+notes: O acesso direto ao serviço do TSE está bloqueado para este IP (Akamai, HTTP 403), inclusive por proxy de
+  leitura; os dados de patrimônio, coligação, resultado e substituição de suplentes vêm da leitura feita pela sessão
+  de pesquisa em 17/09/2026 e não foram reconferidos por acesso direto desta sessão. Os demais campos da ficha (número,
+  partido, titular, situação) estão confirmados de forma independente pela ficha do ND Mais.
+verification:
+  checked_at: '2026-09-17'
+  checked_by: sessão de pesquisa delegada, via proxy de leitura
+  url_reachable: false
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-17'
+created_at: '2026-09-17'
+updated_at: '2026-09-17'

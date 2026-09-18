@@ -47,8 +47,15 @@ open_questions:
   registram processo com o Banco Master como parte, o que é compatível tanto com atuação em nome de empresas cedentes
   quanto com serviços não contenciosos. O teste definitivo depende da lista das empresas que venderam créditos ao
   banco.'
-- 'Em que pessoa jurídica do Grupo Monte Sião está o vínculo societário que a imprensa regional lhe atribui: o quadro
-  societário da Agropecuária Monte Sião, no registro público, não a inclui.'
+- Não localizada, em fonte pública, a data em que ela deixou o quadro societário da Agropecuária Monte Sião, nem
+  confirmação oficial da filiação partidária ao Agir; e nenhuma operação entre o Grupo Monte Sião e o Banco Master,
+  o BRB ou fundos ligados a Daniel Vorcaro foi localizada até esta data.
+- Não localizada, em fonte pública, a data em que ela deixou o quadro societário da Agropecuária Monte Sião, nem
+  confirmação oficial da filiação partidária ao Agir; e nenhuma operação entre o Grupo Monte Sião e o Banco Master,
+  o BRB ou fundos ligados a Daniel Vorcaro foi localizada até esta data.
+- Não localizada, em fonte pública, a data em que ela deixou o quadro societário da Agropecuária Monte Sião, nem
+  confirmação oficial da filiação partidária ao Agir; e nenhuma operação entre o Grupo Monte Sião e o Banco Master,
+  o BRB ou fundos ligados a Daniel Vorcaro foi localizada até esta data.
 source_ids:
 - src-estadao-2026-09-17-master-33-milhoes-alves-correa
 - src-timesbrasil-2026-09-17-master-33-milhoes-canal-direto
@@ -58,6 +65,15 @@ source_ids:
 - src-minhareceita-2026-09-17-alves-correa-advogados-associados
 - src-minhareceita-2026-09-17-alves-correa-verissimo-advocacia
 - src-ndmais-2026-09-14-maiores-recebedores-de-honorarios-do-master
+- src-ndmais-2022-ficha-candidatura-dalide-correa
+- src-tse-divulgacand-2022-dalide-correa-go
+- src-consultasocio-2026-09-17-dalide-quadro-societario
+- src-ndmais-2022-ficha-candidatura-dalide-correa
+- src-tse-divulgacand-2022-dalide-correa-go
+- src-consultasocio-2026-09-17-dalide-quadro-societario
+- src-ndmais-2022-ficha-candidatura-dalide-correa
+- src-tse-divulgacand-2022-dalide-correa-go
+- src-consultasocio-2026-09-17-dalide-quadro-societario
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-17'
