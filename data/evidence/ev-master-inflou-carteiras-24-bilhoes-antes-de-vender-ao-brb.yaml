@@ -1,0 +1,22 @@
+id: ev-master-inflou-carteiras-24-bilhoes-antes-de-vender-ao-brb
+kind: evidence
+classification: A
+proposition: Segundo documento da PF tornado público em abril de 2026, entre julho de 2024 e janeiro de 2025 o Banco
+  Master vendeu ao BRB carteiras de crédito com valor contábil de R$ 7,5 bilhões por R$ 9,9 bilhões — ágio de R$
+  2,4 bilhões, cerca de 32% — com carteiras individuais infladas em até 93% acima do valor contábil, sob pressão
+  de Daniel Vorcaro para obter recursos do banco estatal antes da formalização pública da compra, segundo mensagens
+  de seu celular citadas na apuração.
+document_ids:
+- doc-2026-04-documento-pf-agio-24bi-carteiras-master-brb
+source_ids:
+- src-correiobraziliense-2026-04-20-master-inflou-carteiras-24bi-brb
+attributed_to: Polícia Federal, Operação Compliance Zero
+date: 2026-04
+notes: É a fonte da notícia de ágio de R$ 2,4 bilhões que a petição do BRB de 20/07/2026 na Rcl 88.121 (já registrada
+  no lote 334) cita sem confirmar documentalmente; este registro fecha a referência com o documento original de
+  origem.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

@@ -6,37 +6,40 @@ aliases:
 - Banco de Brasília
 org_type: financial_institution
 jurisdiction: Distrito Federal
-summary: 'Banco controlado pelo Governo do Distrito Federal. Segundo decisão do STF (PET 15771), teria
-  adquirido carteiras de crédito do Banco Master que alcançariam R$ 12,2 bilhões, apesar de pareceres
-  técnicos e jurídicos contrários. Reportagem baseada em apuração da Polícia Federal descreve o mecanismo
-  dessa aquisição: uma empresa de fachada, a Tirreno, vendia os créditos ao BRB embutindo prêmio ao banco
-  comprador, e a Polícia Federal apurou que os créditos não puderam ser confirmados na origem. Em ofício
-  próprio de 18/06/2025 ao Banco Central, ainda sob a presidência de Paulo Henrique Costa, o BRB reconheceu
-  ter identificado tranches de crédito com origem em promotores de vendas contratados pelo Master, documentação
-  incompleta e auditoria independente não concluída — cinco meses antes do afastamento dele.'
-why_in_novelo: Adquiriu carteiras de crédito do Banco Master que são objeto central da Operação Compliance
-  Zero, segundo comunicações oficiais da PF e do STF.
+summary: 'Banco controlado pelo Governo do Distrito Federal. Segundo decisão do STF (PET 15771), teria adquirido
+  carteiras de crédito do Banco Master que alcançariam R$ 12,2 bilhões, apesar de pareceres técnicos e jurídicos
+  contrários. Reportagem baseada em apuração da Polícia Federal descreve o mecanismo dessa aquisição: uma empresa
+  de fachada, a Tirreno, vendia os créditos ao BRB embutindo prêmio ao banco comprador, e a Polícia Federal apurou
+  que os créditos não puderam ser confirmados na origem. Em ofício próprio de 18/06/2025 ao Banco Central, ainda
+  sob a presidência de Paulo Henrique Costa, o BRB reconheceu ter identificado tranches de crédito com origem em
+  promotores de vendas contratados pelo Master, documentação incompleta e auditoria independente não concluída —
+  cinco meses antes do afastamento dele. Perícia da PF concluída em 13/08/2026, com sigilo levantado em 11/09/2026,
+  analisou R$ 17,5 bilhões em operações e concluiu que o BRB concentrou 90,3% de suas carteiras adquiridas de terceiros
+  no Master, com pico de R$ 19,8 bilhões em junho de 2025, e que R$ 7,6 bilhões foram pagos em 22 operações antes
+  da conclusão dos ritos técnicos obrigatórios — caracterizando a gestão da própria diretoria do BRB à época como
+  ''gestão fraudulenta''. Documento anterior da PF, de abril de 2026, já havia apontado ágio de R$ 2,4 bilhões (32%)
+  entre o valor contábil e o valor pago pelas carteiras adquiridas entre julho de 2024 e janeiro de 2025.'
+why_in_novelo: Adquiriu carteiras de crédito do Banco Master que são objeto central da Operação Compliance Zero,
+  segundo comunicações oficiais da PF e do STF.
 cited_position:
 - kind: clarification
-  summary: 'Em ofício de 18/06/2025 ao Banco Central (Ofício PRESI-2025/051), o BRB — sob a presidência de
-    Paulo Henrique Costa — atribuiu as medidas adicionais de garantia à "intempestividade no envio das
-    informações complementares" pelo Master e à "não conclusão dos trabalhos da auditoria independente"
-    contratada.'
+  summary: Em ofício de 18/06/2025 ao Banco Central (Ofício PRESI-2025/051), o BRB — sob a presidência de Paulo
+    Henrique Costa — atribuiu as medidas adicionais de garantia à "intempestividade no envio das informações complementares"
+    pelo Master e à "não conclusão dos trabalhos da auditoria independente" contratada.
   source_ids:
   - src-stf-inq5026-ipl1096304-completo
   by_id: paulo-henrique-costa
   date: '2025-06-18'
 open_questions:
-- A extensão da responsabilidade de dirigentes do BRB que aprovaram a compra apesar de pareceres técnicos
-  e jurídicos contrários não foi apurada pela equipe neste lote.
-- Nelson Antônio de Souza (ex-presidente da Caixa) assumiu a presidência em 26/11/2025, aprovado pelo
-  BC e pela Câmara Legislativa do DF, após o afastamento de Paulo Henrique Costa. O Banco Central determinou
-  provisionamento de R$ 2,6 bilhões para cobrir a fraude nas carteiras do Master, com prazo até 29/05/2026
-  sob risco de intervenção — o novo presidente declarou publicamente que não haveria intervenção nem liquidação;
-  resultado final desse processo regulatório não confirmado por fonte localizada.
-- Pedidos de CPI sobre o caso BRB-Master foram apresentados na Câmara Legislativa do DF (PL) e sugeridos
-  no Senado (Izalci Lucas) em fevereiro de 2026 — instalação efetiva e resultado dos trabalhos não confirmados
-  por fonte localizada.
+- A extensão da responsabilidade de dirigentes do BRB que aprovaram a compra apesar de pareceres técnicos e jurídicos
+  contrários não foi apurada pela equipe neste lote.
+- Nelson Antônio de Souza (ex-presidente da Caixa) assumiu a presidência em 26/11/2025, aprovado pelo BC e pela
+  Câmara Legislativa do DF, após o afastamento de Paulo Henrique Costa. O Banco Central determinou provisionamento
+  de R$ 2,6 bilhões para cobrir a fraude nas carteiras do Master, com prazo até 29/05/2026 sob risco de intervenção
+  — o novo presidente declarou publicamente que não haveria intervenção nem liquidação; resultado final desse processo
+  regulatório não confirmado por fonte localizada.
+- Pedidos de CPI sobre o caso BRB-Master foram apresentados na Câmara Legislativa do DF (PL) e sugeridos no Senado
+  (Izalci Lucas) em fevereiro de 2026 — instalação efetiva e resultado dos trabalhos não confirmados por fonte localizada.
 source_ids:
 - src-apublica-2026-03-reconstrucao-fraude-master
 - src-brb-2025-03-28-fato-relevante-master
@@ -47,11 +50,13 @@ source_ids:
 - src-senado-2025-04-29-cae-audiencia-brb-master
 - src-stf-2026-04-16-prisao-ex-presidente-brb
 - src-stf-inq5026-ipl1096304-completo
+- src-tribunadosertao-2026-09-11-pericia-pf-brb-903-carteiras-master
+- src-correiobraziliense-2026-04-20-master-inflou-carteiras-24bi-brb
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-12'
+reviewed_at: '2026-09-18'
 created_at: '2026-09-03'
-updated_at: '2026-09-14'
+updated_at: '2026-09-18'
 photo:
   path: /fotos/banco-de-brasilia-brb.png
   source: Wikimedia Commons

@@ -1,0 +1,20 @@
+id: ev-brb-pagou-76-bilhoes-antes-de-laudos-tecnicos
+kind: evidence
+classification: A
+proposition: A mesma perícia aponta que o BRB pagou R$ 7,6 bilhões em 22 operações de aquisição de carteiras do
+  Master antes de concluir os ritos internos e os laudos técnicos obrigatórios — 43,41% do total desembolsado nas
+  aquisições de varejo —, caracterizando a gestão da diretoria à época, presidida por Paulo Henrique Costa, como
+  'gestão fraudulenta', por manipulação de procedimentos de governança e formalização retroativa de controles.
+document_ids:
+- doc-2026-08-13-laudo-pericial-pf-brb-master-gestao-fraudulenta
+source_ids:
+- src-tribunadosertao-2026-09-11-pericia-pf-brb-903-carteiras-master
+attributed_to: Perícia da Polícia Federal, Operação Compliance Zero
+date: '2026-08-13'
+notes: É a mesma diretoria do BRB, não a do Master, que a perícia qualifica de fraudulenta — o achado atinge o lado
+  comprador da operação, distinto das imputações já registradas ao Master como vendedor.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'
