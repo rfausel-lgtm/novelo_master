@@ -1,0 +1,38 @@
+id: rev-2026-09-17-saneamento-dados-pessoais
+kind: revision
+date: '2026-09-17'
+title: 'Saneamento: dados pessoais reintroduzidos por lotes novos'
+summary: 'Segunda passada de auditoria de dados pessoais sobre o acervo publicado — não é apuração nova.
+  O saneamento de 13/09 não é estado permanente: lotes publicados depois dele reintroduziram dados que a
+  seção 6 da política editorial veda, e a varredura encontrou três em dois verbetes de pessoa. Todos foram
+  retirados sem alterar nenhum fato: o que sustenta o caso continua publicado, e só o dado pessoal
+  desnecessário saiu. O dado removido não é reproduzido aqui nem em lugar nenhum do acervo.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'CPF de pessoa física: o verbete de um titular formal de empresas apontado pela PF como testa de ferro
+  trazia o número do documento dele. O número saiu; continua publicado o fato que importa — ele é a pessoa
+  física titular das duas empresas usadas para receber comissão, com os CNPJ das empresas, que são dado
+  público de pessoa jurídica, e com a observação da PF sobre o telefone cadastrado em nome de outro.'
+- 'Telefone pessoal de terceiro: um verbete transcrevia, do depoimento juntado aos autos, o número de
+  celular de outra pessoa investigada. O número saiu; fica registrado que o depoimento confirmou o novo
+  número dele, que é o que tem valor na apuração.'
+- 'Endereço residencial identificado: o mesmo trecho nomeava o condomínio e a unidade onde ficava o
+  apartamento dessa pessoa. A seção 6 admite o imóvel que é objeto do caso, nunca a unidade nem os
+  detalhes de acesso; o endereço foi generalizado para o município, e continua publicado que o
+  depoimento confirmou onde ficava o apartamento.'
+- 'Falso positivo registrado, sem alteração: a varredura apontou como e-mail pessoal o endereço de
+  contabilidade que duas associações baianas registraram na Receita Federal. É caixa funcional em
+  domínio de pessoa jurídica, não de pessoa natural, e é justamente o vínculo documental que a PF
+  aponta. Fica como está.'
+author: sessão de código
+affected_ids:
+- gilson-bahia-vasconcelos
+- katherine-venancio-telles
