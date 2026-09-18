@@ -2,6 +2,17 @@
 
 ## Unreleased
 
+- **Auditoria noturna do acervo, camada determinística e contrato da revisão por IA.**
+  `npm run auditoria` relê o acervo inteiro e devolve um JSON estável de achados — órfãos que o lint
+  não olha (fonte, documento e evidência que ninguém cita; `affected_ids` de revisão apontando para
+  nada), datas impossíveis, duplicidade provável, link rot que separa link morto de bloqueio, e
+  varredura de dado pessoal cujo valor **nunca** sai do repositório: o achado traz arquivo, linha e
+  tipo, com máscara fixa e sem um dígito sequer. `npm run auditoria:selecao` escolhe o que a revisão
+  por IA olha na noite — o que mudou em 24 h mais amostra rotativa, com o ponteiro fora do
+  repositório. Os prompts das duas passadas de IA (revisão e verificação adversarial) ficam
+  versionados em `docs/auditoria/`. A rotina só relata: não corrige, não commita, não publica e não
+  escreve em `data/`. Ver [docs/AUDITORIA_NOTURNA.md](docs/AUDITORIA_NOTURNA.md).
+
 - **"Na mídia" na abertura.** A página inicial passou a registrar a cobertura de imprensa sobre o
   projeto, começando pela matéria "As conexões de Daniel Vorcaro" (Revista Oeste, 18/09/2026), que
   cita o Novelo pelo nome do autor. Cada item traz o logo do veículo, o título, a data e o trecho em
