@@ -1,0 +1,36 @@
+id: ev-relato-woyceichoski-prime-you-e-delegado-iniciais
+kind: evidence
+classification: A
+proposition: 'Durante o cumprimento do mandado contra ele na 3ª fase da Compliance Zero (04/03/2026, PET 15.562/DF),
+  Luís Felipe Woyceichoski relatou espontaneamente à equipe da PF, sem apresentar documento de apoio: que uma pessoa
+  identificada como "M.M." figuraria formalmente como proprietário da empresa "Prime You", mas seria, segundo ele,
+  testa de ferro de Daniel Vorcaro; que "T.G.", apontada como diretora de operações da mesma empresa, estaria envolvida
+  no agenciamento de acompanhantes em festas; que um delegado da Polícia Civil, identificado como "R.M.", teria
+  comparecido a uma embarcação a mando de "M.M." para intimidar funcionários; e que uma pessoa identificada apenas
+  como "M." o teria ameaçado por WhatsApp, dizendo trabalhar a serviço de Vorcaro e dispor de policiais federais em
+  sua "equipe".'
+document_ids: []
+source_ids:
+- src-stf-pet15562-autos-pecas
+attributed_to_id: luis-felipe-woyceichoski
+attributed_to: Luís Felipe Woyceichoski, em relato verbal à equipe da PF durante o cumprimento de mandado
+date: '2026-03-04'
+locator: PET 15.562/DF, relatório de diligência da busca contra ele
+notes: 'Relato de testemunha única, sem qualquer documento de apoio no material lido — nenhuma outra peça do lote
+  cita "Prime You", nem confirma o papel atribuído a cada uma das pessoas mencionadas. Os nomes completos, conhecidos
+  pela equipe que leu a peça original, foram substituídos por iniciais nesta publicação por decisão editorial de
+  17/09/2026: são acusações criminais graves — inclusive de agenciamento de acompanhantes e de uso da função pública
+  por um delegado de polícia — feitas por uma única pessoa, sem lastro documental, contra terceiros que não tiveram
+  oportunidade de se manifestar nestes autos. Nenhuma relação de grafo foi criada para "M.M.", "T.G.", "R.M." ou "M.":
+  um nó de identidade instável (iniciais, sem outro dado de qualificação) tende a atrair fusão indevida com pessoa
+  real no futuro, o que a regra do acervo contra identificação de homônimos sem documento veda. ATENÇÃO PARA A
+  DIFERENÇA: o verbete de Woyceichoski já registra, por fonte distinta (extração do celular de Vorcaro, lote 203),
+  um "Marcus Vinícius da Mata", presidente da Solar Administração de Bem Próprio S.A., como provável interlocutor
+  do áudio em que Vorcaro comenta a ameaça a Woyceichoski. A semelhança de sobrenome com o "M.M." deste relato é
+  chamativa, mas nada no material lido identifica os dois como a mesma pessoa — trata-se de hipótese não confirmada,
+  registrada aqui apenas para não se perder de vista, nunca como identidade estabelecida.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

@@ -1,0 +1,33 @@
+id: rev-2026-09-18-lote-337-o-relato-de-woyceichoski-publicado-com-iniciais
+kind: revision
+date: '2026-09-18'
+title: Lote 337 — o relato de Woyceichoski sobre agência e delegado, publicado com iniciais
+summary: 'Publica, por decisão editorial expressa de Rafael Fausel, o relato que Luís Felipe Woyceichoski fez à
+  PF durante o cumprimento do próprio mandado de busca, na 3ª fase da Compliance Zero (04/03/2026): uma pessoa
+  identificada como "M.M." seria testa de ferro de Daniel Vorcaro à frente da empresa "Prime You"; "T.G.", diretora
+  de operações da mesma empresa, estaria envolvida em agenciamento de acompanhantes; um delegado da Polícia Civil,
+  "R.M.", teria comparecido a uma embarcação a mando de "M.M." para intimidar funcionários; e uma pessoa identificada
+  só como "M." o teria ameaçado por WhatsApp em nome de Vorcaro. É relato de testemunha única, sem nenhum documento
+  de apoio no material lido, e por isso os nomes completos foram substituídos por iniciais e nenhuma relação de
+  grafo foi criada para as pessoas citadas — um nó de identidade instável convidaria fusão indevida no futuro.
+  Registrada, com a mesma cautela, a semelhança de sobrenome entre "M.M." e o Marcus Vinícius da Mata já conhecido
+  do verbete de Woyceichoski por fonte distinta, sem tratá-la como identidade confirmada.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- luis-felipe-woyceichoski
+- daniel-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

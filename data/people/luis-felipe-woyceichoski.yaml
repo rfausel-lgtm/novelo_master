@@ -45,15 +45,21 @@ open_questions:
 - 'Divergência de data parcialmente esclarecida (lote 199): duas peças da PET 15.978 (decisão do lote 192 e
   manifestação da PGR) convergem em 04/06/2024; só a representação isolada de 27/02/2026 (PET 15.556) cita
   11/07/2025. Provável erro de ano naquele documento, mas não confirmado diretamente.'
+- 'NOVO (lote 337): no cumprimento do mandado contra ele mesmo, na 3ª fase (04/03/2026, PET 15.562), relatou à
+  PF, sem documento de apoio, um esquema paralelo envolvendo uma empresa e um delegado de polícia (ver
+  ev-relato-woyceichoski-prime-you-e-delegado-iniciais, publicado com iniciais por decisão editorial). O relato
+  cita uma pessoa cujo sobrenome lembra o de Marcus Vinícius da Mata, já registrado neste verbete como provável
+  interlocutor do áudio sobre a ameaça de 2024 — coincidência não confirmada como identidade.'
 source_ids:
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 - src-mpf-pgr-2026-05-05-manifestacao-pet15978-sexta-fase
 - src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
 - src-stf-pet15562-decisao-03-03-2026-busca-e-apreensao
+- src-stf-pet15562-autos-pecas
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-09-18'
 created_at: '2026-09-11'
-updated_at: '2026-09-12'
+updated_at: '2026-09-18'
 
