@@ -2,6 +2,18 @@
 
 ## Unreleased
 
+- **"Na mídia" na abertura.** A página inicial passou a registrar a cobertura de imprensa sobre o
+  projeto, começando pela matéria "As conexões de Daniel Vorcaro" (Revista Oeste, 18/09/2026), que
+  cita o Novelo pelo nome do autor. Cada item traz o logo do veículo, o título, a data e o trecho em
+  que a matéria fala do projeto — o trecho é o que sustenta a seção: mostra o veículo falando do
+  Novelo, e não o contrário. A ressalva de que não há vínculo com os veículos fecha o bloco, porque
+  logo de terceiro ao lado do nome do site, sem ela, sugere parceria que não existe. O registro mora
+  em `src/lib/media-coverage.ts`, e não em `data/`: cobertura sobre o projeto não é fonte do acervo,
+  não entra no grafo e não passa pelas regras de evidência. A marca de cada veículo entra na forma
+  original; a única adaptação é de legibilidade — no tema escuro entra a versão clara do mesmo logo,
+  sem recorte, recoloração ou composição com a nossa marca. O uso do logo da Oeste depende de
+  autorização da revista, ainda não concedida quando isto foi escrito.
+
 - **Grafo organizado ao abrir, e sem rotação.** O desenho inicial era um novelo uniforme, com os dois
   maiores hubs puxando tudo para o meio. Agora as posições partem dos grupos de nós mais ligados entre
   si, cada grupo fica na sua região e nenhum nó cobre outro; os hubs continuam no centro, com os
@@ -81,7 +93,7 @@
 - **A ilustração do Codex volta a prevalecer sobre o card** (decisão de Rafael, 12/09/2026). Na
   primeira versão o card contava como arte concluída, e com ele cobrindo 100% das revisões dois elos
   pararam em silêncio: `social:pending` deixou de listar pendência — a automação do Codex não tinha
-  mais o que gerar — e o `arte-de-lote.yml`, que só aceitava arquivo *novo*, descartaria qualquer
+  mais o que gerar — e o `arte-de-lote.yml`, que só aceitava arquivo _novo_, descartaria qualquer
   arte que chegasse por cima de um card. Agora revisão só com card é pendente (9 lotes a partir do
   200 voltaram à fila: 220, 223, 226, 228–232 e 235), e o workflow aceita arte que substitui card,
   tirando o id do manifesto. Ilustração já publicada continua nunca sendo refeita nem sobrescrita.

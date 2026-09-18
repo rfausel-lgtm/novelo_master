@@ -1158,3 +1158,25 @@ body {
 .mobile-filter-apply:disabled {
   opacity: 0.6;
 }
+
+/*
+ * Logo de veículo em "Na mídia": a marca original é legível sobre papel e some sobre fundo escuro,
+ * então cada veículo entra com as duas versões e só uma é exibida — mesmo padrão de .minimapa.
+ */
+.logo-veiculo-claro {
+  display: none;
+}
+:root[data-theme="light"] .logo-veiculo-claro {
+  display: block;
+}
+:root[data-theme="light"] .logo-veiculo-escuro {
+  display: none;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .logo-veiculo-claro {
+    display: block;
+  }
+  :root:not([data-theme="dark"]) .logo-veiculo-escuro {
+    display: none;
+  }
+}

@@ -5,6 +5,7 @@ import { allRevisions, corpus, entityHref, entityName, stats, lastUpdated } from
 import { excerptOf, safeJsonLd, siteJsonLd } from "@/lib/pages";
 import { formatDateTimeBRT, formatNumber, formatPartialDate } from "@/lib/format";
 import { LogoAnimado } from "@/components/ui/LogoAnimado";
+import { NaMidia } from "@/components/ui/NaMidia";
 import { EVIDENCE_CLASS_LABEL, type EvidenceClass } from "@/lib/schema";
 
 /*
@@ -205,6 +206,8 @@ export default function HomePage() {
             Todas as atualizações
           </Link>
         </section>
+
+        <NaMidia />
 
         <nav
           aria-label="Atalhos"
