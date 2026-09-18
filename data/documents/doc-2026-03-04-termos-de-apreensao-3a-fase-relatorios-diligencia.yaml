@@ -1,0 +1,29 @@
+id: doc-2026-03-04-termos-de-apreensao-3a-fase-relatorios-diligencia
+kind: document
+title: Termos de Apreensão e relatórios de diligência da 3ª fase da Compliance Zero (04/03/2026)
+doc_type: official_report
+date: '2026-03-04'
+date_precision: day
+source_ids:
+- src-stf-pet15562-autos-pecas
+summary: 'Conjunto de Termos de Apreensão e relatórios de diligência da PF sobre os bens arrecadados em cada endereço
+  de busca da 3ª fase: dinheiro em espécie, joias e relógios de luxo com Fabiano Zettel; uma nota promissória de
+  R$ 200 mil avalizada por Henrique Vorcaro, Aline Bueno Ribeiro Vorcaro e Daniel Vorcaro, apreendida na casa de
+  Zettel; uma cédula de crédito bancário rural vinculada a Marilson Roseno da Silva; uma nota fiscal de veículo
+  em nome de Ana Cláudia Queiroz de Paiva; e documentos diversos na residência de Luiz Phillipi Mourão, entre eles
+  um cheque cancelado de R$ 1.802.200,00 nominal a um ''Antônio Mansur'' não identificado no material.'
+is_official: true
+related_entity_ids:
+- fabiano-zettel
+- henrique-vorcaro
+- marilson-roseno-da-silva
+- ana-claudia-queiroz-de-paiva
+- luiz-phillipi-mourao
+- daniel-vorcaro
+issuer: Polícia Federal
+reference: PET 15.562/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

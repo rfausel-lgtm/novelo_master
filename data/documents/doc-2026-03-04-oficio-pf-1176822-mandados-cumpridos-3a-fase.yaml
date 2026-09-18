@@ -1,0 +1,38 @@
+id: doc-2026-03-04-oficio-pf-1176822-mandados-cumpridos-3a-fase
+kind: document
+title: Ofício nº 1176822/2026 da PF — mandados cumpridos e não cumpridos na 3ª fase da Compliance Zero
+doc_type: official_report
+date: '2026-03-04'
+date_precision: day
+source_ids:
+- src-stf-pet15562-autos-pecas
+summary: 'A Polícia Federal relata a execução, em 04/03/2026, de mandados de busca e apreensão em São Paulo e Minas
+  Gerais contra nove pessoas físicas e cinco pessoas jurídicas. Cumpridos contra Daniel Bueno Vorcaro, Paulo Sérgio
+  Neves de Souza, Belline Santana, Leonardo Augusto Furtado Palhares, Moriah Asset, Fabiano Campos Zettel, Ana Cláudia
+  Queiroz de Paiva, Luis Felipe Woyceichoski, Luiz Phillipi Machado de Moraes Mourão e Marilson Roseno da Silva.
+  Não cumpridos, por inexistência de funcionamento real no endereço ou por o alvo não residir mais ali: Varajo Consultoria
+  Empresarial, Super Empreendimentos e Participações, King Participações Imobiliárias e King Motors Locação de Veículos.'
+is_official: true
+related_entity_ids:
+- policia-federal
+- daniel-vorcaro
+- paulo-sergio-neves-de-souza
+- belline-santana
+- leonardo-augusto-furtado-palhares
+- moriah-asset
+- fabiano-zettel
+- ana-claudia-queiroz-de-paiva
+- luis-felipe-woyceichoski
+- luiz-phillipi-mourao
+- marilson-roseno-da-silva
+- varajo-consultoria-empresarial
+- super-empreendimentos-e-participacoes
+- king-participacoes-imobiliarias
+- king-motors-locacao-veiculos
+issuer: Polícia Federal
+reference: PET 15.562/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

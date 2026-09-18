@@ -1,0 +1,22 @@
+id: rel-varajo-consultoria-empresarial-policia-federal-institutional
+kind: relationship
+from_id: policia-federal
+to_id: varajo-consultoria-empresarial
+relationship_type: institutional
+directed: true
+label: mandado de busca não cumprido, endereço sem funcionamento real
+description: 'O mandado de busca contra a Varajo Consultoria Empresarial na 3ª fase (04/03/2026) não foi cumprido:
+  a PF relata inexistência de funcionamento real no endereço cadastrado.'
+evidence_class: D
+confidence: 0.8
+status: verified
+start_date: '2026-03-04'
+document_ids:
+- doc-2026-03-04-oficio-pf-1176822-mandados-cumpridos-3a-fase
+source_ids:
+- src-stf-pet15562-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

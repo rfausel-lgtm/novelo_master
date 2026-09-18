@@ -1,0 +1,15 @@
+id: ev-espolio-de-zettel-dinheiro-joias-relogios-apreendidos
+kind: evidence
+classification: D
+proposition: Na mesma busca contra Fabiano Zettel, a PF apreendeu US$ 5.700,00 em espécie, oito relógios de luxo
+  (Breitling, Omega Speedmaster, Frederique Constant, entre outros) e joias diversas.
+document_ids:
+- doc-2026-03-04-termos-de-apreensao-3a-fase-relatorios-diligencia
+source_ids:
+- src-stf-pet15562-autos-pecas
+date: '2026-03-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'
