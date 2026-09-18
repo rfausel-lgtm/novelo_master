@@ -1,0 +1,32 @@
+id: doc-2026-07-20-brb-peticao-afastamento-resolucao-4966-rcl88121
+kind: document
+title: Petição do BRB de 20/07/2026 — pedido de afastamento temporário da Resolução CMN 4.966/2021
+doc_type: judicial_filing
+date: '2026-07-20'
+date_precision: day
+source_ids:
+- src-stf-rcl88121-autos-pecas
+summary: 'O BRB pede o afastamento temporário dos efeitos da Resolução CMN 4.966/2021 sobre as carteiras adquiridas
+  do Banco Master, alegando assimetria informacional na compra. Detalha: aquisição de carteiras Master/Will Bank
+  entre julho de 2024 e outubro de 2025 totalizando R$ 22.989.790.491,43; carteiras da Tirreno estimadas em cerca
+  de R$ 12 bilhões como fraudulentas; substituição por fundos e carteira de atacado (CCBs) de cerca de R$ 10 bilhões,
+  restando R$ 2 bilhões de saldo residual já reconhecido como prejuízo. Cita fundos administrados pela REAG (Nápoles,
+  Cártago, Tessália, Kyra), a Novo Bairro S.A./FIP e a Planner Corretora, o fundo Astralo 95 como contraparte de
+  swap, e ações civis já ajuizadas em São Paulo contra o Banco Pleno e a PKL One. Menciona, sem confirmar documentalmente,
+  notícia de ágio de R$ 2,4 bilhões na venda das carteiras ao BRB.'
+is_official: true
+related_entity_ids:
+- banco-de-brasilia-brb
+- banco-master
+- will-bank
+- reag-investimentos
+- banco-pleno
+- pkl-one-participacoes
+issuer_id: banco-de-brasilia-brb
+issuer: Banco de Brasília — BRB
+reference: Rcl 88.121/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

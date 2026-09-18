@@ -1,0 +1,29 @@
+id: doc-2026-05-05-brb-peticao-credcesta-pkl-pleno-rcl88121
+kind: document
+title: Petição do BRB de 05/05/2026 — desvio do Credcesta para PKL One e Banco Pleno
+doc_type: judicial_filing
+date: '2026-05-05'
+date_precision: day
+source_ids:
+- src-stf-rcl88121-autos-pecas
+summary: O BRB denuncia o desvio de fluxos do produto de consignado Credcesta para estruturas ligadas à PKL One
+  Participações e ao Banco Pleno, apontando Augusto Ferreira Lima — ex-sócio de Vorcaro no Master, controlador do
+  Pleno — como possível centro de comando do desvio. Cita a ação cível nº 4010622-66.2025.8.26.0011, em curso em
+  São Paulo, e representação criminal ao MPF (Tombo 20260027699/2026). Pede a segregação dos fluxos do Credcesta
+  sob controle do liquidante do Master e a intimação de Andréa Lima Novaes, diretora da PKL One à época.
+is_official: true
+related_entity_ids:
+- banco-de-brasilia-brb
+- pkl-one-participacoes
+- banco-pleno
+- augusto-lima
+- andrea-lima-novaes
+- credcesta
+issuer_id: banco-de-brasilia-brb
+issuer: Banco de Brasília — BRB
+reference: Rcl 88.121/DF
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

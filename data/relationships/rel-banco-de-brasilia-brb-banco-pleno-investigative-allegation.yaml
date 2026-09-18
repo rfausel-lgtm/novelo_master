@@ -1,0 +1,24 @@
+id: rel-banco-de-brasilia-brb-banco-pleno-investigative-allegation
+kind: relationship
+from_id: banco-de-brasilia-brb
+to_id: banco-pleno
+relationship_type: investigative_allegation
+directed: true
+label: aponta como destino de fluxos desviados do Credcesta
+description: Na mesma petição de 05/05/2026, o BRB aponta o Banco Pleno, controlado por Augusto Ferreira Lima, como
+  destino de fluxos do Credcesta que alega terem sido desviados do Master.
+evidence_class: A
+confidence: 0.6
+status: unverified
+start_date: '2026-05-05'
+evidence_ids:
+- ev-brb-aponta-augusto-lima-como-centro-do-desvio-do-credcesta
+document_ids:
+- doc-2026-05-05-brb-peticao-credcesta-pkl-pleno-rcl88121
+source_ids:
+- src-stf-rcl88121-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

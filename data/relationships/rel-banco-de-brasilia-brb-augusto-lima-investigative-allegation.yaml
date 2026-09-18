@@ -1,0 +1,25 @@
+id: rel-banco-de-brasilia-brb-augusto-lima-investigative-allegation
+kind: relationship
+from_id: banco-de-brasilia-brb
+to_id: augusto-lima
+relationship_type: investigative_allegation
+directed: true
+label: aponta como possível centro de comando do desvio do Credcesta
+description: Em petição própria de 05/05/2026 na Rcl 88.121, o BRB aponta Augusto Ferreira Lima — controlador do
+  Banco Pleno e ex-sócio de Vorcaro no Master — como possível centro de comando do desvio de fluxos do Credcesta
+  para estruturas ligadas à PKL One e ao Banco Pleno, com base em ação cível e representação criminal próprias.
+evidence_class: A
+confidence: 0.6
+status: unverified
+start_date: '2026-05-05'
+evidence_ids:
+- ev-brb-aponta-augusto-lima-como-centro-do-desvio-do-credcesta
+document_ids:
+- doc-2026-05-05-brb-peticao-credcesta-pkl-pleno-rcl88121
+source_ids:
+- src-stf-rcl88121-autos-pecas
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

@@ -18,7 +18,16 @@ summary: Sociedade (CNPJ 27.490.629/0001-13, nome fantasia CREDCESTA), confirmad
   Rioprevidência sustentam que o Master e a PKL One administravam de forma conjunta as carteiras de crédito consignado,
   com indícios de possível grupo econômico — alegação dos autores, sem reconhecimento judicial no material lido.
   A quebra de sigilo societário foi aprovada pela CPMI do INSS no fim de fevereiro de 2026 e suspensa por decisão
-  do ministro Flávio Dino.
+  do ministro Flávio Dino. Em petição própria de 05/05/2026 na Rcl 88.121/DF, o BRB acusa desvio de fluxos do Credcesta
+  para estruturas ligadas à PKL One e ao Banco Pleno, apontando Augusto Ferreira Lima como possível centro de comando
+  — alegação de parte interessada, formulada em ação cível própria em São Paulo, sem reconhecimento judicial de
+  mérito no material lido. Em petição própria de 05/05/2026 na Rcl 88.121/DF, o BRB acusa desvio de fluxos do Credcesta
+  para estruturas ligadas à PKL One e ao Banco Pleno, apontando Augusto Ferreira Lima como possível centro de comando
+  — alegação de parte interessada, formulada em ação cível própria em São Paulo, sem reconhecimento judicial de
+  mérito no material lido. Em petição própria de 05/05/2026 na Rcl 88.121/DF, o BRB acusa desvio de fluxos do Credcesta
+  para estruturas ligadas à PKL One e ao Banco Pleno, apontando Augusto Ferreira Lima como possível centro de comando
+  — alegação de parte interessada, formulada em ação cível própria em São Paulo, sem reconhecimento judicial de
+  mérito no material lido.
 why_in_novelo: É a sociedade que detém os direitos do CredCesta e por meio da qual o Banco Master (antes Máxima)
   entrou na folha dos servidores baianos — também em disputa judicial com o liquidante do banco sobre repasses relativos
   à folha de Macapá.
@@ -174,8 +183,11 @@ source_ids:
 - src-djen-cnj-2026-09-10-pegada-judicial-da-operadora-por-tribunal
 - src-dom-feira-de-santana-2025-2026-decisoes-do-procon
 - src-procons-2023-2026-reclamacoes-em-jundiai-londrina-taubate-e-outros
+- src-stf-rcl88121-autos-pecas
+- src-stf-rcl88121-autos-pecas
+- src-stf-rcl88121-autos-pecas
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-18'
 created_at: '2026-09-03'
-updated_at: '2026-09-10'
+updated_at: '2026-09-18'

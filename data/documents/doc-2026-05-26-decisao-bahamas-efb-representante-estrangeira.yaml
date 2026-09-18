@@ -1,0 +1,28 @@
+id: doc-2026-05-26-decisao-bahamas-efb-representante-estrangeira
+kind: document
+title: Decisão da Suprema Corte das Bahamas de 26/05/2026 — EFB como representante estrangeira do conglomerado Master
+doc_type: judicial_decision
+date: '2026-05-26'
+date_precision: day
+source_ids:
+- src-stf-rcl88121-autos-pecas
+summary: O Acting Justice Raynard S. Rigby KC, da Suprema Corte da Commonwealth das Bahamas (processo 2026/COM/com/00018),
+  reconhece a EFB Regimes Especiais de Empresas Ltda. como representante estrangeira de cinco entidades do conglomerado
+  Banco Master — Banco Master S.A., Banco Letsbank S.A., Banco Master de Investimento S.A., Master S/A Corretora
+  de Câmbio Títulos e Valores Mobiliários e Banco Master Múltiplo S.A. Citada pelo BRB em petição de 30/06 e 01/07/2026
+  para pedir prestação de contas dos administradores dos fundos internacionais e cooperação jurídica internacional.
+is_official: true
+related_entity_ids:
+- efb-regimes-especiais-de-empresas
+- banco-master
+- letsbank
+issuer: Suprema Corte da Commonwealth das Bahamas
+reference: Rcl 88.121/DF, processo bahamense 2026/COM/com/00018
+notes: O texto integral da decisão bahamense (peça 052 dos autos) não teve texto extraível na leitura desta sessão
+  — provável digitalização sem camada de OCR; o teor aqui resumido vem da petição do BRB que a cita e a descreve,
+  não da leitura direta da decisão original.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

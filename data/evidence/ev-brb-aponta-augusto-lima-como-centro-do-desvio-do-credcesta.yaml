@@ -1,0 +1,19 @@
+id: ev-brb-aponta-augusto-lima-como-centro-do-desvio-do-credcesta
+kind: evidence
+classification: A
+proposition: Em petição de 05/05/2026, o BRB denuncia o desvio de fluxos do Credcesta para estruturas ligadas à
+  PKL One Participações e ao Banco Pleno, apontando Augusto Ferreira Lima como possível centro de comando do desvio,
+  com base em ação cível própria em São Paulo (nº 4010622-66.2025.8.26.0011) e representação criminal ao MPF.
+document_ids:
+- doc-2026-05-05-brb-peticao-credcesta-pkl-pleno-rcl88121
+source_ids:
+- src-stf-rcl88121-autos-pecas
+attributed_to: Banco de Brasília (BRB), em petição própria
+date: '2026-05-05'
+notes: É alegação de parte interessada (o próprio BRB, que disputa os mesmos fluxos), formulada em ação cível própria
+  — não é conclusão da PF nem decisão judicial sobre o mérito.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'
