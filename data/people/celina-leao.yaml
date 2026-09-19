@@ -14,18 +14,26 @@ summary: Governadora do Distrito Federal. Em 01/04/2026 mandou afastar servidore
 why_in_novelo: Como governadora, determinou o afastamento de funcionários do BRB envolvidos na aprovação
   das operações com o Banco Master, segundo a imprensa.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: public_note
+  summary: 'Cobrou punição dos responsáveis pela operação, pediu o afastamento de todos os ocupantes de
+    cargos que tiveram relação com o episódio e reiterou não ter sido convidada para qualquer decisão ou
+    tratativa envolvendo as negociações: "A minha fala é muito dura com as pessoas que deixaram o banco
+    nessa situação. Espero que a Justiça traga clareza e transparência."'
+  source_ids:
+  - src-expressaobrasiliense-2026-04-12-celina-leao-cobra-punicao
+  by_id: celina-leao
+  date: '2026-04-12'
 open_questions: []
 source_ids:
 - src-cnn-2026-04-01-celina-afasta-funcionarios
+- src-expressaobrasiliense-2026-04-12-celina-leao-cobra-punicao
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Celina_Le%C3%A3o
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-19'
 photo:
   path: /fotos/celina-leao.jpg
   source: Wikimedia Commons

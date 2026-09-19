@@ -1,0 +1,55 @@
+id: rev-2026-09-19-lote-347-fila-do-contraditorio-grau-2
+kind: revision
+date: '2026-09-19'
+title: 'Lote 347 — fila do contraditório grau 2: mensagens de Benedito Gonçalves, e o CEO do Itaú cobrando
+  as plataformas'
+summary: 'Primeira leva da fila de contraditório de grau 2 (rodada parcial: 12 de 42 nomes). O achado mais
+  grave: mensagens do celular de Vorcaro (PF à CPMI do INSS) mostram proximidade pessoal com o ministro do
+  STJ Benedito Gonçalves — "grande amigo", uísque pago por Vorcaro em Londres — e o ministro se declarou
+  impedido de julgar causas do Master no STJ; nova relação pessoal registrada no grafo. Alexandre Silveira
+  (MME) teve alegação de delação de R$ 20 milhões contra ele, ainda não aceita pelo MPF, e nota
+  institucional do ministério negando qualquer reunião irregular. Quatro autoridades (Cármen Lúcia, Celina
+  Leão, Carlos Jordy, Vladimir Timerman) tiveram falas públicas já dadas como certas alhures mas sem
+  cited_position formal agora registradas — incluindo o "não adianta me matar" de Timerman sobre sua
+  segurança pessoal. Alberto Maurício Caló teve negativa formal por advogado a acusação de erro grave.
+  Fora da fila desta rodada, três achados por busca dirigida: Milton Maluhy Filho (CEO do Itaú) cobrou
+  publicamente as plataformas de investimento pela distribuição de CDBs do Master e citou rombo de R$ 55
+  bi no FGC; Renan Calheiros classificou o caso como "uma das maiores fraudes da história" em nota nas
+  redes; Luiz Antônio Lombardi, apontado pela PF como testa de ferro da Epítome S.A. no caso do apartamento
+  de Jaques Wagner, negou por meio de defesa ser proprietário da empresa. Duas correções internas de
+  precisão, sem pesquisa nova: Moisés Dantas dos Santos já tinha citação direta no resumo mas
+  cited_position dizia "não localizada" — corrigido para denial; Oliver Ortiz de Zárate Martin tinha
+  "não localizada" quando a fonte já documentava tentativa de contato sem resposta — reclassificado para
+  no_response, com a fonte primária adicionada. Restam 30 nomes de grau 2 para rodadas seguintes.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 1
+  sources: 11
+  evidence: 0
+updated_relationships: 0
+corrections:
+- 'moises-dantas-dos-santos: cited_position estava not_located apesar de já haver citação direta no
+    resumo; corrigido para denial com a fonte já vinculada.'
+- 'oliver-ortiz-de-zarate-martin: cited_position estava not_located; reclassificado para no_response, mais
+    preciso, com nova fonte primária que documenta a tentativa de contato sem resposta.'
+affected_ids:
+- alberto-mauricio-calo
+- alexandre-silveira
+- benedito-goncalves
+- carlos-jordy
+- carmen-lucia
+- celina-leao
+- vladimir-timerman
+- moises-dantas-dos-santos
+- luiz-antonio-lombardi
+- milton-maluhy-filho
+- renan-calheiros
+- oliver-ortiz-de-zarate-martin
+reason: Continuação da fila de contraditório (lotes 338-340, 346) para o degrau de grau 2 — pedida por
+  Rafael Fausel.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'

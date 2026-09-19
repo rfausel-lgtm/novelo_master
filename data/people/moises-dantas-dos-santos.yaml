@@ -14,8 +14,15 @@ summary: Advogado e sócio da BN Financeira Ltda. desde 30/08/2022. É quem se m
 why_in_novelo: Sócio e porta-voz da empresa que recebeu pagamentos do Banco Master, e com vínculo societário
   prévio ao núcleo familiar do senador.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: 'Sustentou, em nome da BN Financeira, que o serviço prestado ao Banco Master ''não foi de
+    consultoria, mas de prospecção e indicação, em caráter de exclusividade, de operações e convênios
+    de crédito consignado'', prestado de 2022 a 2025, com recursos recebidos ''de forma oficial,
+    contabilizada e mediante emissão de nota fiscal''.'
+  source_ids:
+  - src-metro1-2026-03-18-empresa-diz-que-repasse-e-legal
+  by_id: moises-dantas-dos-santos
+  date: '2026-03-18'
 open_questions:
 - O vínculo societário entre Eduardo Mendonça Sodré Martins e a Moisés Dantas Advocacia consta de base
   de agregador privado, e não do conjunto de dados abertos da Receita Federal — que não publica histórico

@@ -10,14 +10,20 @@ summary: A decisão da Petição 16.229 registra que a compra formal de um apart
 why_in_novelo: É nomeado em decisão pública do STF como representante da empresa que teria feito a compra
   formal do imóvel examinado na 9ª fase.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions:
-- O corpus não registra manifestação de Luiz Antônio Lombardi.
+- kind: denial
+  summary: Por meio de defesa, afirmou que não é proprietário da Epítome S.A. e que exerceu apenas a
+    administração da empresa durante o período em que esteve vinculado a ela — contrapondo a versão da PF,
+    que o aponta como "pessoa interposta" para ocultar os reais responsáveis pela operação.
+  source_ids:
+  - src-terrabrasil-2026-07-05-lombardi-ex-metalurgico-epitome
+  by_id: luiz-antonio-lombardi
+  date: '2026-07-05'
+open_questions: []
 source_ids:
 - src-poder360-2026-06-18-nona-fase-wagner
+- src-terrabrasil-2026-07-05-lombardi-ex-metalurgico-epitome
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-09-19'

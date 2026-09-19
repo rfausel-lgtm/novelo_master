@@ -11,18 +11,28 @@ summary: Ministra do STF. Segundo a Poder360 (06/09/2026), 'transita entre os 2 
 why_in_novelo: É descrita por apuração jornalística como o voto de equilíbrio ('swing vote') entre os
   dois grupos formados no STF em torno da crise institucional do caso Master.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: public_note
+  summary: 'Não se manifestou sobre a caracterização de "voto de equilíbrio", mas falou sobre a crise em
+    geral: em 15/09/2026, disse que a exposição do STF nas últimas semanas provocou "mal-estar cívico" na
+    população e que gostaria de ter contribuído para "acalmar" a crise; em 16/09/2026, lamentou o cenário
+    de descrença nas instituições — "a democracia vive da confiança que o cidadão tem em suas
+    instituições".'
+  source_ids:
+  - src-geraisnews-2026-09-16-carmen-lucia-mal-estar-civico
+  by_id: carmen-lucia
+  date: '2026-09-15'
 open_questions:
-- Não localizada nenhuma manifestação pública dela sobre a caracterização feita pela Poder360 de que 'transita
-  entre os 2 grupos' — trata-se de leitura da reportagem, não de declaração própria da ministra.
+- Não localizada manifestação pública dela sobre a caracterização feita pela Poder360 de que 'transita
+  entre os 2 grupos' especificamente — trata-se de leitura da reportagem, não de declaração própria da
+  ministra; as falas localizadas são sobre a crise institucional em geral, não sobre essa caracterização.
 source_ids:
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
+- src-geraisnews-2026-09-16-carmen-lucia-mal-estar-civico
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-09'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-09'
-updated_at: '2026-09-14'
+updated_at: '2026-09-19'
 photo:
   path: /fotos/carmen-lucia.jpg
   source: Wikimedia Commons

@@ -17,15 +17,20 @@ summary: 'Preso pela Polícia Federal em 27/06/2013, em cobertura na Barra da Ti
 why_in_novelo: Citado, em alegação em disputa e em decisão judicial sobre terrenos, como cotista de fundos
   do grupo que administrava os veículos usados na aquisição do Banco Máxima.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: no_response
+  summary: 'Segundo o Cubo Jornalismo, foi procurado por e-mail para se manifestar e não respondeu: "Benjamim
+    Botelho foi procurado por email, assim como Oliver Ortiz. Nenhum dos dois enviou resposta."'
+  source_ids:
+  - src-cubo-2026-03-09-oliver-ortiz-narcotraficante-master
+  by_id: oliver-ortiz-de-zarate-martin
+  date: '2026-03-09'
 open_questions:
 - O número do processo da condenação de 2013 não foi localizado pela equipe.
-- Procurado pelas reportagens de 2026, por e-mail e por meio de advogado, não respondeu.
 source_ids:
 - src-agenciabrasil-2013-06-27-prisao-oliver-ortiz
 - src-senado-req-287-2026-cpicrime-convocacao-hirano
 - src-iclnoticias-2026-05-05-acao-terrenos-elo-narcotraficante
+- src-cubo-2026-03-09-oliver-ortiz-narcotraficante-master
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'

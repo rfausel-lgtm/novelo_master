@@ -1,0 +1,27 @@
+id: rel-daniel-vorcaro-benedito-goncalves-personal-social
+kind: relationship
+from_id: daniel-vorcaro
+to_id: benedito-goncalves
+relationship_type: personal_social
+directed: false
+label: proximidade pessoal declarada em mensagens; ministro se declarou impedido no STJ
+description: 'Mensagens do celular de Vorcaro (encaminhadas pela PF à CPMI do INSS) mostram troca de
+  mensagens afetuosas entre os dois ("grande amigo", "Tamo junto sempre") e a participação de Benedito
+  Gonçalves em eventos custeados por Vorcaro em Londres, entre eles uma degustação de uísque em
+  25/04/2024. No primeiro semestre de 2026, o ministro se declarou impedido de julgar causas do Banco
+  Master no STJ.'
+evidence_class: C
+confidence: 0.7
+status: unverified
+event_ids: []
+evidence_ids: []
+source_ids:
+- src-poder360-2026-03-10-degustacao-londres
+- src-jornaldebrasilia-2026-09-18-benedito-goncalves-mensagens-vorcaro
+document_ids: []
+start_date: '2024-04-25'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'
