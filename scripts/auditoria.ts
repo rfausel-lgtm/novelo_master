@@ -156,6 +156,9 @@ function achadosDoLint(issues: ReturnType<typeof lintCorpus>): {
   };
 }
 
+/** Teto de cada subprocesso: um teste ou build preso não pode segurar a rotina a noite inteira. */
+const TETO_DO_SUBPROCESSO_MS = 20 * 60_000;
+
 function rodarComando(
   nome: string,
   comando: string,
@@ -166,15 +169,19 @@ function rodarComando(
     shell: true,
     encoding: "utf8",
     maxBuffer: 64 * 1024 * 1024,
+    timeout: TETO_DO_SUBPROCESSO_MS,
+    killSignal: "SIGKILL",
   });
+  const estourou =
+    r.signal !== null || (r.error as NodeJS.ErrnoException | undefined)?.code === "ETIMEDOUT";
   const codigo = r.status ?? 1;
   const status: StatusVerificacao = {
     nome,
     comando,
-    status: codigo === 0 ? "ok" : "falhou",
+    status: codigo === 0 && !estourou ? "ok" : "falhou",
     codigo,
   };
-  if (codigo === 0) return { status, achados: [] };
+  if (codigo === 0 && !estourou) return { status, achados: [] };
 
   /*
    * Só as últimas linhas, e só do que a ferramenta imprimiu sobre o próprio fracasso. O relatório
@@ -186,17 +193,20 @@ function rodarComando(
     .slice(-5)
     .join(" | ")
     .slice(0, 500);
-  return {
-    status,
-    achados: [
-      novoAchado({
-        categoria: "verificacao",
-        gravidade: "alta",
-        arquivo: "package.json",
-        mensagem: `"${comando}" terminou com código ${codigo}: ${cauda}`,
-      }),
-    ],
-  };
+  /*
+   * O id vem só do comando e do desfecho: a cauda muda toda noite (tempos, contagens) e, se entrasse
+   * no id, a mesma falha seria anunciada como nova a cada execução.
+   */
+  const desfecho = estourou
+    ? `"${comando}" interrompido após ${TETO_DO_SUBPROCESSO_MS / 60_000} min sem terminar`
+    : `"${comando}" terminou com código ${codigo}`;
+  const achado = novoAchado({
+    categoria: "verificacao",
+    gravidade: "alta",
+    arquivo: "package.json",
+    mensagem: desfecho,
+  });
+  return { status, achados: [{ ...achado, mensagem: cauda ? `${desfecho}: ${cauda}` : desfecho }] };
 }
 
 /* ------------------------------------------------------------------ */

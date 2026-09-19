@@ -21,15 +21,15 @@ Está primeiro porque é a parte que não se dobra.
 
 Sem IA, portanto sem alucinação possível. Carrega o acervo uma vez e roda tudo sobre ele.
 
-| Conferência            | O que procura                                                                                                                                                                                                                                                                            |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `lint-erro/aviso/info` | O lint editorial que já existe (`scripts/lib/lint.ts`), reaproveitado em processo — inclusive as regras de ligação: mesmo par com a mesma `start_date`, relação e transação do mesmo par no mesmo ano sem `transaction_ids`, cargo sem relação, entidade isolada sem `isolation_reason`. |
-| `integridade`          | Órfãos no sentido inverso, que o lint não olha: fonte, documento e evidência que existem e ninguém cita. E `affected_ids` de revisão apontando para id inexistente — o lint não percorre `data/revisions/`.                                                                              |
-| `datas`                | Data futura, data anterior a 1900, fim antes do início (inclusive em cargos), captura anterior à publicação da fonte. Data parcial é tratada como intervalo.                                                                                                                             |
-| `duplicidade`          | Nome com uma palavra trocada por outra quase igual, duas fontes com a mesma URL, dois documentos com a mesma URL ou o mesmo `sha256`, relação repetida sem data.                                                                                                                         |
-| `link-rot`             | `HEAD` (com queda para `GET`) nas URLs de `data/sources`. Classifica 404/410 como morte, 401/403/429 como **bloqueio**, 5xx e ausência de resposta como indisponibilidade.                                                                                                               |
-| `dados-pessoais`       | CPF (com dígito verificador), RG em contexto, CEP junto de unidade, telefone, e-mail, data de nascimento, termo de saúde, menção a menor.                                                                                                                                                |
-| `verificacao`          | `scan:secrets`, `vitest run` e `build`, cada um como subprocesso, com o código de saída conferido.                                                                                                                                                                                       |
+| Conferência            | O que procura                                                                                                                                                                                                                                                                                                                                            |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `lint-erro/aviso/info` | O lint editorial que já existe (`scripts/lib/lint.ts`), reaproveitado em processo — inclusive as regras de ligação: mesmo par com a mesma `start_date`, relação e transação do mesmo par no mesmo ano sem `transaction_ids`, cargo sem relação, entidade isolada sem `isolation_reason`.                                                                 |
+| `integridade`          | Órfãos no sentido inverso, que o lint não olha: fonte, documento e evidência que existem e ninguém cita. E `affected_ids` de revisão apontando para id inexistente — o lint não percorre `data/revisions/`.                                                                                                                                              |
+| `datas`                | Data futura, data anterior a 1900, fim antes do início (inclusive em cargos), captura anterior à publicação da fonte. Data parcial é tratada como intervalo.                                                                                                                                                                                             |
+| `duplicidade`          | Nome com uma palavra trocada por outra quase igual, duas fontes com a mesma URL, dois documentos com a mesma URL ou o mesmo `sha256`, relação repetida sem data.                                                                                                                                                                                         |
+| `link-rot`             | `HEAD` (com queda para `GET`) nas URLs de `data/sources`. Classifica 404/410 como morte, 401/403/429 como **bloqueio**, 5xx e ausência de resposta como indisponibilidade. Só busca a internet pública: URL (ou redirecionamento) que resolva para loopback, rede privada, link-local ou metadados da nuvem é **recusada** sem requisição e vira achado. |
+| `dados-pessoais`       | CPF (com dígito verificador), RG em contexto, CEP junto de unidade, telefone, e-mail, data de nascimento, termo de saúde, menção a menor.                                                                                                                                                                                                                |
+| `verificacao`          | `scan:secrets`, `vitest run` e `build`, cada um como subprocesso, com o código de saída conferido.                                                                                                                                                                                                                                                       |
 
 **O valor do dado pessoal nunca sai.** O achado traz arquivo, linha e o tipo, com uma máscara fixa
 (`NNN.NNN.NNN-NN`) montada só com constantes do próprio código. Nenhum achado dessa categoria contém
@@ -74,8 +74,9 @@ três meses; aumentar o teto ou a reserva é o botão para encurtá-la.
 Revisões (`data/revisions/`) ficam de fora da seleção: são a prosa do lote, e não têm fonte própria
 contra a qual conferir.
 
-A etapa de IA tem teto de **45 minutos**. Estourado o teto, ela entrega o que revisou — o que ficou
-de fora volta para a fila da noite seguinte, porque o ponteiro só avança sobre o que foi entregue.
+A etapa de IA tem teto de **45 minutos**. O ponteiro só avança quando a etapa termina: a rotina grava
+a seleção num estado provisório e só o promove a definitivo depois da revisão. Se a noite estourar o
+teto ou quebrar, a mesma fatia volta na noite seguinte.
 
 ## Como rodar à mão
 
@@ -121,7 +122,8 @@ Sequência de uma noite:
    publicada, não uma cópia de trabalho.
 2. `npm ci`
 3. `npm run auditoria -- --json --estado "$NOVELO_AUDITORIA_CACHE_LINKS" --saida "$NOVELO_AUDITORIA_RELATORIO"`
-4. `npm run auditoria:selecao -- --estado "$NOVELO_AUDITORIA_ESTADO" --escrever-estado --json`
+4. `npm run auditoria:selecao -- --estado <cópia provisória do estado> --escrever-estado --json` — a
+   cópia só substitui `$NOVELO_AUDITORIA_ESTADO` depois que a etapa 5 termina.
 5. A etapa de IA, com os prompts de `docs/auditoria/` preenchidos, em modo headless, com teto de
    45 minutos.
 6. Comparar os achados com os da noite anterior pelo campo `id` e mandar ao Telegram o que é novo.

@@ -1,3 +1,5 @@
+import { lookup } from "node:dns/promises";
+import { isIP } from "node:net";
 import { normalizarUrl } from "./duplicidade";
 import { novoAchado, type Achado, type ResumoLinks } from "./tipos";
 
@@ -17,10 +19,19 @@ import { novoAchado, type Achado, type ResumoLinks } from "./tipos";
  * São mais de mil fontes. URL que respondeu bem há poucos dias não é reconferida; URL que falhou é
  * reconferida sempre, porque é a que pode ter voltado — ou piorado. O estado vive FORA do
  * repositório, no caminho que a máquina que hospeda a rotina passar por flag.
+ *
+ * ## Só a internet pública
+ *
+ * As URLs vêm de `data/`, e o schema só exige URL bem formada: uma fonte apontando para
+ * `http://localhost:porta` ou para o endereço de metadados da nuvem faria a rotina, que roda na
+ * máquina que hospeda outros serviços, bater neles de madrugada. Por isso cada endereço — o pedido e
+ * cada salto de redirecionamento, seguido à mão — tem o host resolvido e é recusado sem requisição
+ * quando cai em loopback, rede privada, link-local, CGNAT ou multicast. Recusado vira achado, porque
+ * fonte do acervo apontando para rede interna é, em si, erro de captura.
  */
 
 export type EstadoDoLink =
-  "ok" | "redirecionado" | "morto" | "bloqueado" | "erro-servidor" | "erro-rede";
+  "ok" | "redirecionado" | "morto" | "bloqueado" | "erro-servidor" | "erro-rede" | "recusado";
 
 export interface RegistroDeLink {
   estado: EstadoDoLink;
@@ -59,7 +70,73 @@ export interface OpcoesDeLink {
   validadeDias: number;
   agora: Date;
   buscar: typeof fetch;
+  /** Endereços IP do host; injetável para teste. */
+  resolver: (host: string) => Promise<string[]>;
   userAgent: string;
+}
+
+/** Saltos de redirecionamento seguidos antes de desistir. */
+const MAX_SALTOS = 5;
+
+async function resolverDns(host: string): Promise<string[]> {
+  return (await lookup(host, { all: true, verbatim: true })).map((r) => r.address);
+}
+
+function ipv4Interno(ip: string): boolean {
+  const [a, b] = ip.split(".").map(Number);
+  return (
+    a === 0 ||
+    a === 10 ||
+    a === 127 ||
+    a >= 224 ||
+    (a === 100 && b >= 64 && b <= 127) ||
+    (a === 169 && b === 254) ||
+    (a === 172 && b >= 16 && b <= 31) ||
+    (a === 192 && b === 168) ||
+    (a === 192 && b === 0 && ip.split(".")[2] === "0") ||
+    (a === 198 && (b === 18 || b === 19))
+  );
+}
+
+/** Loopback, rede privada, link-local, CGNAT, multicast e reservados — v4 e v6. */
+export function ipInterno(ip: string): boolean {
+  const v = isIP(ip);
+  if (v === 4) return ipv4Interno(ip);
+  if (v !== 6) return true;
+  const s = ip.toLowerCase();
+  const mapeado = /^::ffff:(\d+\.\d+\.\d+\.\d+)$/.exec(s);
+  if (mapeado) return ipv4Interno(mapeado[1]);
+  return (
+    s === "::" ||
+    s === "::1" ||
+    /^f[cd]/.test(s) || // fc00::/7
+    /^fe[89ab]/.test(s) || // fe80::/10
+    s.startsWith("ff") // multicast
+  );
+}
+
+/** A URL pode ser buscada? Protocolo http(s) e todo endereço do host na internet pública. */
+export async function destinoPermitido(
+  url: string,
+  resolver: OpcoesDeLink["resolver"],
+): Promise<boolean> {
+  let u: URL;
+  try {
+    u = new URL(url);
+  } catch {
+    return false;
+  }
+  if (u.protocol !== "http:" && u.protocol !== "https:") return false;
+  const host = u.hostname.replace(/^\[|\]$/g, "");
+  if (!host || host === "localhost" || host.endsWith(".localhost")) return false;
+  if (isIP(host)) return !ipInterno(host);
+  try {
+    const ips = await resolver(host);
+    return ips.length > 0 && ips.every((ip) => !ipInterno(ip));
+  } catch {
+    /* DNS que não resolve não é recusa: a requisição falha adiante como erro de rede. */
+    return true;
+  }
 }
 
 export const USER_AGENT_PADRAO =
@@ -74,6 +151,7 @@ export function opcoesPadrao(parcial: Partial<OpcoesDeLink> = {}): OpcoesDeLink 
     validadeDias: 14,
     agora: new Date(),
     buscar: fetch,
+    resolver: resolverDns,
     userAgent: USER_AGENT_PADRAO,
     ...parcial,
   };
@@ -101,6 +179,7 @@ const GRAVIDADE_DO_ESTADO: Record<EstadoDoLink, "alta" | "media" | "baixa" | nul
   bloqueado: "baixa",
   "erro-servidor": "baixa",
   "erro-rede": "baixa",
+  recusado: "media",
 };
 
 const EXPLICACAO: Record<Exclude<EstadoDoLink, "ok">, string> = {
@@ -113,36 +192,60 @@ const EXPLICACAO: Record<Exclude<EstadoDoLink, "ok">, string> = {
     "o servidor respondeu com erro no momento da conferência; pode ser indisponibilidade passageira",
   "erro-rede":
     "não houve resposta (tempo esgotado, DNS ou conexão); pode ser indisponibilidade passageira",
+  recusado:
+    "a URL (ou um redirecionamento dela) aponta para rede interna ou protocolo que não é http(s); não foi buscada. Fonte pública não mora aí: confira a captura",
 };
+
+const REDIRECIONAMENTO = new Set([301, 302, 303, 307, 308]);
+
+class Recusado extends Error {}
+
+/** Uma requisição, seguindo redirecionamentos à mão para validar cada salto. */
+async function buscarValidando(
+  url: string,
+  metodo: "HEAD" | "GET",
+  opts: OpcoesDeLink,
+): Promise<{ status: number; final: string }> {
+  const cabecalhos = { "user-agent": opts.userAgent, accept: "*/*" };
+  let atual = url;
+  for (let salto = 0; salto <= MAX_SALTOS; salto++) {
+    if (!(await destinoPermitido(atual, opts.resolver))) throw new Recusado();
+    const resposta = await opts.buscar(atual, {
+      method: metodo,
+      redirect: "manual",
+      headers: cabecalhos,
+      signal: AbortSignal.timeout(opts.timeoutMs),
+    });
+    const local = REDIRECIONAMENTO.has(resposta.status) ? resposta.headers?.get("location") : null;
+    if (!local) return { status: resposta.status, final: resposta.url || atual };
+    atual = new URL(local, atual).toString();
+  }
+  throw Object.assign(new Error("redirecionamentos demais"), { name: "RedirectLoop" });
+}
 
 /** Uma tentativa: HEAD primeiro, GET quando o servidor não aceita HEAD. */
 async function conferirUrl(url: string, opts: OpcoesDeLink): Promise<RegistroDeLink> {
-  const cabecalhos = { "user-agent": opts.userAgent, accept: "*/*" };
   let ultimoErro = "";
 
   for (let tentativa = 0; tentativa < opts.tentativas; tentativa++) {
     for (const metodo of ["HEAD", "GET"] as const) {
       try {
-        const resposta = await opts.buscar(url, {
-          method: metodo,
-          redirect: "follow",
-          headers: cabecalhos,
-          signal: AbortSignal.timeout(opts.timeoutMs),
-        });
+        const resposta = await buscarValidando(url, metodo, opts);
         /*
          * HEAD recusado: tenta GET antes de concluir. 405 e 501 dizem "não implemento HEAD", e 403
          * a um HEAD costuma ser a mesma coisa em servidor com filtro — concluir bloqueio aqui
          * marcaria como suspeita uma fonte que abre no GET.
          */
         if (metodo === "HEAD" && [403, 405, 501].includes(resposta.status)) continue;
-        const estado = classificarResposta(resposta.status, url, resposta.url || url);
+        const estado = classificarResposta(resposta.status, url, resposta.final);
         return {
           estado,
           em: opts.agora.toISOString(),
           status: resposta.status,
-          destino: estado === "redirecionado" ? resposta.url : undefined,
+          destino: estado === "redirecionado" ? resposta.final : undefined,
         };
       } catch (e) {
+        if (e instanceof Recusado) return { estado: "recusado", em: opts.agora.toISOString() };
         ultimoErro = (e as Error).name;
       }
     }
@@ -201,6 +304,7 @@ export async function verificarLinks(
     bloqueados: 0,
     erro_rede: 0,
     erro_servidor: 0,
+    recusados: 0,
     nao_verificados: pendentes.length - aConferir.length,
   };
 
@@ -226,6 +330,9 @@ export async function verificarLinks(
         break;
       case "erro-rede":
         resumo.erro_rede++;
+        break;
+      case "recusado":
+        resumo.recusados++;
         break;
     }
     const gravidade = GRAVIDADE_DO_ESTADO[registro.estado];

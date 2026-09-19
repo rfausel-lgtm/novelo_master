@@ -80,6 +80,17 @@ const GRAVIDADE: Record<TipoDeDadoPessoal, Gravidade> = {
 
 /** Caixas de contato que a política admite: institucional, não pessoal. */
 const CAIXA_INSTITUCIONAL = new Set([
+  /* Caixas de setor de empresa: julgadas não pessoais no saneamento de 17/09/2026. */
+  "contabilidade",
+  "contabil",
+  "financeiro",
+  "juridico",
+  "fiscal",
+  "rh",
+  "comercial",
+  "vendas",
+  "adm",
+  "administrativo",
   "contato",
   "imprensa",
   "assessoria",

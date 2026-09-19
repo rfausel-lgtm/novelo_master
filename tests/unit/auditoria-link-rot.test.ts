@@ -2,6 +2,7 @@ import { describe, it, expect } from "vitest";
 import {
   cacheVazio,
   classificarResposta,
+  ipInterno,
   verificarLinks,
   type AlvoDeLink,
   type CacheDeLinks,
@@ -13,6 +14,15 @@ const alvo = (url: string): AlvoDeLink => ({
   registro: "src-x",
   arquivo: "data/sources/src-x.yaml",
 });
+
+/** DNS de mentira: todo host resolve para um IP público, salvo os nomeados aqui. */
+const publico = async (host: string) => (host === "interno" ? ["10.0.0.5"] : ["93.184.216.34"]);
+
+const verificar = (
+  alvos: AlvoDeLink[],
+  cache: CacheDeLinks,
+  o: Parameters<typeof verificarLinks>[2] = {},
+) => verificarLinks(alvos, cache, { resolver: publico, ...o });
 
 /** `fetch` de mentira: nenhum teste desta suíte toca a rede. */
 function falsoFetch(respostas: Record<string, { status: number; url?: string } | "erro">) {
@@ -55,7 +65,7 @@ describe("auditoria — classificação da resposta", () => {
 describe("auditoria — link rot", () => {
   it("não trata bloqueio como link morto e ainda assim reporta, com gravidade baixa", async () => {
     const { buscar } = falsoFetch({ "https://veiculo/x": { status: 403 } });
-    const r = await verificarLinks([alvo("https://veiculo/x")], cacheVazio(), {
+    const r = await verificar([alvo("https://veiculo/x")], cacheVazio(), {
       buscar,
       tentativas: 1,
     });
@@ -67,7 +77,7 @@ describe("auditoria — link rot", () => {
 
   it("404 é alta e diz o que fazer", async () => {
     const { buscar } = falsoFetch({ "https://veiculo/x": { status: 404 } });
-    const r = await verificarLinks([alvo("https://veiculo/x")], cacheVazio(), {
+    const r = await verificar([alvo("https://veiculo/x")], cacheVazio(), {
       buscar,
       tentativas: 1,
     });
@@ -77,7 +87,7 @@ describe("auditoria — link rot", () => {
 
   it("200 não vira achado", async () => {
     const { buscar } = falsoFetch({ "https://veiculo/x": { status: 200 } });
-    const r = await verificarLinks([alvo("https://veiculo/x")], cacheVazio(), {
+    const r = await verificar([alvo("https://veiculo/x")], cacheVazio(), {
       buscar,
       tentativas: 1,
     });
@@ -92,7 +102,7 @@ describe("auditoria — link rot", () => {
       if (init?.method === "HEAD") return { status: 405, url } as Response;
       return { status: 200, url } as Response;
     }) as unknown as typeof fetch;
-    const r = await verificarLinks([alvo("https://veiculo/x")], cacheVazio(), {
+    const r = await verificar([alvo("https://veiculo/x")], cacheVazio(), {
       buscar,
       tentativas: 1,
     });
@@ -102,7 +112,7 @@ describe("auditoria — link rot", () => {
 
   it("sem resposta é erro de rede, não morte", async () => {
     const { buscar } = falsoFetch({ "https://veiculo/x": "erro" });
-    const r = await verificarLinks([alvo("https://veiculo/x")], cacheVazio(), {
+    const r = await verificar([alvo("https://veiculo/x")], cacheVazio(), {
       buscar,
       tentativas: 1,
     });
@@ -113,7 +123,7 @@ describe("auditoria — link rot", () => {
 
   it("identifica o projeto no user-agent", async () => {
     const { buscar, chamadas } = falsoFetch({ "https://veiculo/x": { status: 200 } });
-    await verificarLinks([alvo("https://veiculo/x")], cacheVazio(), { buscar, tentativas: 1 });
+    await verificar([alvo("https://veiculo/x")], cacheVazio(), { buscar, tentativas: 1 });
     expect(chamadas[0].userAgent).toContain("NoveloMasterAuditoria");
   });
 
@@ -123,7 +133,7 @@ describe("auditoria — link rot", () => {
       links: { "https://veiculo/x": { estado: "ok", em: "2026-09-16T02:00:00.000Z", status: 200 } },
     };
     const { buscar, chamadas } = falsoFetch({ "https://veiculo/x": { status: 200 } });
-    const r = await verificarLinks([alvo("https://veiculo/x")], cache, {
+    const r = await verificar([alvo("https://veiculo/x")], cache, {
       buscar,
       agora: new Date("2026-09-17T02:00:00.000Z"),
     });
@@ -139,7 +149,7 @@ describe("auditoria — link rot", () => {
       },
     };
     const { buscar, chamadas } = falsoFetch({ "https://veiculo/x": { status: 200 } });
-    const r = await verificarLinks([alvo("https://veiculo/x")], cache, {
+    const r = await verificar([alvo("https://veiculo/x")], cache, {
       buscar,
       tentativas: 1,
       agora: new Date("2026-09-17T02:00:00.000Z"),
@@ -155,8 +165,73 @@ describe("auditoria — link rot", () => {
       "https://a/2": { status: 200 },
       "https://a/3": { status: 200 },
     });
-    const r = await verificarLinks(alvos, cacheVazio(), { buscar, limite: 2, tentativas: 1 });
+    const r = await verificar(alvos, cacheVazio(), { buscar, limite: 2, tentativas: 1 });
     expect(chamadas).toHaveLength(2);
     expect(r.resumo.nao_verificados).toBe(1);
+  });
+});
+
+describe("auditoria — link rot só busca a internet pública", () => {
+  const semBusca = (() => {
+    throw new Error("não deveria ter buscado");
+  }) as unknown as typeof fetch;
+
+  it("classifica loopback, rede privada, link-local e CGNAT como internos", () => {
+    for (const ip of [
+      "127.0.0.1",
+      "10.1.2.3",
+      "172.20.0.1",
+      "192.168.0.10",
+      "169.254.169.254",
+      "100.64.0.1",
+      "0.0.0.0",
+      "::1",
+      "fd00::1",
+      "fe80::1",
+      "::ffff:127.0.0.1",
+    ])
+      expect(ipInterno(ip), ip).toBe(true);
+    for (const ip of ["93.184.216.34", "8.8.8.8", "172.32.0.1", "2606:4700::1111"])
+      expect(ipInterno(ip), ip).toBe(false);
+  });
+
+  it("recusa localhost, IP interno, host que resolve para rede interna e protocolo estranho sem fazer requisição", async () => {
+    for (const url of [
+      "http://localhost:6379/",
+      "http://127.0.0.1/x",
+      "http://169.254.169.254/latest/meta-data/",
+      "http://interno/x",
+      "file:///etc/passwd",
+      "ftp://veiculo/x",
+    ]) {
+      const r = await verificar([alvo(url)], cacheVazio(), { buscar: semBusca, tentativas: 1 });
+      expect(r.resumo.recusados, url).toBe(1);
+      expect(r.achados[0].gravidade).toBe("media");
+    }
+  });
+
+  it("recusa redirecionamento de host público para rede interna", async () => {
+    const chamadas: string[] = [];
+    const buscar = (async (url: string) => {
+      chamadas.push(url);
+      return {
+        status: 302,
+        url,
+        headers: new Headers({ location: "http://169.254.169.254/latest/meta-data/" }),
+      } as Response;
+    }) as unknown as typeof fetch;
+    const r = await verificar([alvo("https://veiculo/x")], cacheVazio(), { buscar, tentativas: 1 });
+    expect(chamadas).toEqual(["https://veiculo/x"]);
+    expect(r.resumo.recusados).toBe(1);
+  });
+
+  it("segue redirecionamento público e o registra como tal", async () => {
+    const buscar = (async (url: string) =>
+      url === "https://veiculo/x"
+        ? ({ status: 301, url, headers: new Headers({ location: "/nova" }) } as Response)
+        : ({ status: 200, url, headers: new Headers() } as Response)) as unknown as typeof fetch;
+    const r = await verificar([alvo("https://veiculo/x")], cacheVazio(), { buscar, tentativas: 1 });
+    expect(r.resumo.redirecionados).toBe(1);
+    expect(r.cache.links["https://veiculo/x"].destino).toBe("https://veiculo/nova");
   });
 });
