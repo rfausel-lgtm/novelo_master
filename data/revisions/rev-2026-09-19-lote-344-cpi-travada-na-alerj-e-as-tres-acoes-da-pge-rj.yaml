@@ -1,0 +1,39 @@
+id: rev-2026-09-19-lote-344-cpi-travada-na-alerj-e-as-tres-acoes-da-pge-rj
+kind: revision
+date: '2026-09-19'
+title: 'Lote 344 — a CPI travada na Alerj, as três ações da PGE-RJ (não uma), e a lei que nasceu da
+  crise'
+summary: 'Frente de fronteira do lote 338 (Rioprevidência/PGE-RJ). Três achados. Primeiro, a CPI da Alerj:
+  o requerimento do deputado Flávio Serafini (PSOL), protocolado em 06/05/2026 com as 24 assinaturas
+  necessárias, foi travado pela presidência da Casa sob alegação processual (pedido de retirada de
+  assinatura). Serafini acionou o TJ-RJ; o desembargador Cherubin Helcias Schwartz Junior reconheceu que
+  os requisitos estavam cumpridos mas negou a liminar em 26/05/2026, preferindo ouvir a Alerj sobre quantas
+  CPIs já funcionavam (limite regimental de sete). No mesmo dia a Alerj anunciou quatro novas CPIs — sem
+  confirmação, em fonte lida, de que a do Rioprevidência esteja entre elas ou tenha chegado a funcionar.
+  Segundo, a ação da PGE-RJ: não é uma ação de R$ 640 milhões, como o acervo registrava, mas três,
+  ajuizadas em 16/07/2026 (um dia antes do que constava) contra a Master Corretora, a Trustee DTVM e
+  gestoras ligadas ao grupo — pedindo cautelares de R$ 616,6 milhões sobre uma perda de R$ 641,4 milhões
+  em dois fundos, Revolution (R$ 481,4 milhões) e Texas I FIA (R$ 135,1 milhões). Terceiro, um resultado
+  concreto da crise: a Lei estadual 11.193/2026, sancionada em 21/05/2026, passou a exigir que o
+  Rioprevidência publique relatório semestral detalhando cada aplicação — instituição, fundo por CNPJ,
+  valor, taxa e custo de gestão.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 4
+  evidence: 0
+updated_relationships: 0
+corrections:
+- A data da ação da PGE-RJ contra o grupo Master, registrada como 17/07/2026, é corrigida para 16/07/2026
+  conforme a Agência Brasil; e o número de ações, de uma para três.
+author: orquestrador
+affected_ids:
+- rioprevidencia
+reason: Continuação das frentes de fronteira do lote 338 (F7, Rioprevidência/PGE-RJ) — pedida por Rafael
+  Fausel.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
