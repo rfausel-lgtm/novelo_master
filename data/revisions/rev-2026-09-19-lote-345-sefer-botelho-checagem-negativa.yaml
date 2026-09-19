@@ -1,0 +1,33 @@
+id: rev-2026-09-19-lote-345-sefer-botelho-checagem-negativa
+kind: revision
+date: '2026-09-19'
+title: 'Lote 345 — Sefer/Botelho: checagem sem avanço real, registrada como tal'
+summary: 'Checagem dos dois processos parados contra Benjamim Botelho de Almeida que o relatório do lote
+  338 apontava como baratos de verificar. Resultado majoritariamente negativo, registrado honestamente:
+  o PAS CVM 19957.008699/2019-01 (oferecimento de vantagens a prefeitos e gestores de RPPS) não avançou —
+  confirmado, por checagem à retomada de sessões da CVM em 05/08/2025 com retorno de vista do próprio
+  relator, João Accioly, que ele não estava entre os dois processos retomados naquela data. A Apelação
+  Criminal 5003557-34.2021.4.03.6181 no TRF3 não pôde ser verificada: o portal do tribunal esteve
+  inacessível a três tentativas desta sessão. Um achado lateral que já existia no acervo (o acórdão de
+  2022 que negou habeas corpus a Botelho, por maioria, contra a ação penal do Banco Máxima) apareceu de
+  novo numa busca e foi conferido contra o próprio registro já publicado — sem informação nova, e sem
+  repetir o erro que um resumo de busca cometeu ao descrevê-lo como concedido (era só o voto do relator,
+  vencido).'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 0
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- benjamim-botelho-de-almeida
+reason: Item 1 da lista de próximos passos sugerida por Rafael Fausel — a frente que a equipe julgava
+  mais barata de checar entre as pendências do relatório do lote 338.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'

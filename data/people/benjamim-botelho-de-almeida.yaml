@@ -77,7 +77,11 @@ open_questions:
   intercorrente: a Lei 9.873/1999, art. 1º, §1º, prevê prescrição em três anos para processo administrativo
   paralisado pendente de julgamento ou despacho. A equipe não confirmou se a Lei 13.506/2017, que reorganizou
   o processo sancionador do BCB e da CVM, traz disciplina própria que prevaleça sobre esse regime, nem
-  se houve atos internos não publicados capazes de afastar a paralisação.'
+  se houve atos internos não publicados capazes de afastar a paralisação. CHECAGEM (19/09/2026): quando a
+  CVM retomou, em 05/08/2025, dois processos com retorno de vista do próprio Accioly, este não estava entre
+  eles — indício, não prova, de que a paralisação persistia àquela data. Verificação do andamento mais
+  recente (Apelação 5003557-34.2021.4.03.6181 no TRF3, e o próprio PAS) não avançou: o portal do TRF3
+  esteve inacessível às tentativas desta sessão.'
 - Condenado pela CVM em 08/09/2026 por operação fraudulenta no Brazil Realty FII — era, à época dos fatos,
   único acionista da FG Participações, holding que controlava a Sefer Investimentos (via Foco Participações)
   e detinha 70% da Entre Investimentos; era também beneficiário final da offshore Jaguar Investments,
@@ -102,8 +106,9 @@ source_ids:
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
 - src-stf-pet16704-arguicao-suspeicao-benjamim-botelho-mendonca
 - src-stf-pet16704-questao-de-ordem-botelho-14-09
+- src-cvm-2025-08-06-retomada-sessoes-accioly
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-15'
+updated_at: '2026-09-19'
