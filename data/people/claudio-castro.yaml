@@ -11,8 +11,13 @@ summary: Ex-governador do Rio de Janeiro. Em 26/05/2026 o STF autorizou busca e 
 why_in_novelo: É investigado, segundo comunicação oficial do STF, por suposto envolvimento em aportes
   da RioPrevidência em produtos financeiros do Banco Master.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: clarification
+  summary: 'À época da busca de 26/05/2026, seu advogado, Carlo Luchione, disse que a defesa ainda não
+    tinha acesso às decisões, mas que o ex-governador acompanhava as operações "com serenidade".'
+  source_ids:
+  - src-metropoles-2026-05-26-claudio-castro-busca-serenidade
+  by: Carlo Luchione (advogado)
+  date: '2026-05-26'
 open_questions:
 - 'NOVO (13/09/2026): mensagens de 2022, reveladas com a queda de sigilo, mostram que ele escreveu a André
   Mendonça — hoje relator do caso RioPrevidência/Master, no qual Castro é investigado — sobre o "caso
@@ -33,7 +38,6 @@ open_questions:
   alvo, Tharcio Nascimento Salgado. Em 11/08/2026, Mendonça indeferiu pedido de Ricardo Siqueira Rodrigues na
   Pet 15.676, mantendo as investigações contra ele em curso. O teor de ambas as decisões sigilosas não foi
   lido — apenas certidões e o dispositivo público do indeferimento.'
-- A posição pública de Cláudio Castro sobre a operação não foi localizada em fonte verificada do corpus.
 - 'Assinou, em 27/05/2021, o decreto que acrescentou ao rol de consignatárias fluminenses a categoria
   residual ''outras entidades consignatárias devidamente autorizadas pelo Estado'' — cláusula em branco
   cujo requisito de habilitação é definido pelo mesmo Executivo que credencia — e que fixou para o cartão
@@ -56,14 +60,15 @@ source_ids:
 - src-revistaoeste-2026-decreto-favoreceu-consignado-master-rj
 - src-doerj-2021-05-28-decreto-47625-texto-integral
 - src-tjrj-acordao-ai-87521-transcreve-art-6-decreto-47625
+- src-metropoles-2026-05-26-claudio-castro-busca-serenidade
 full_name: Cláudio Bomfim de Castro e Silva
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Cl%C3%A1udio_Castro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-09-19'
 photo:
   path: /fotos/claudio-castro.jpg
   source: Wikimedia Commons

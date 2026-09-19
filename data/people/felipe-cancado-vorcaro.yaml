@@ -20,8 +20,16 @@ why_in_novelo: Teve prisão temporária decretada pelo STF em fase da Operação
   pela CVM no processo do Brazil Realty FII, ao lado do pai, Henrique Vorcaro, evidenciando o padrão familiar
   de participação nos veículos societários envolvidos na fraude.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: Em defesa apresentada individualmente ao PAS da CVM em 13/10/2025, sustentou nunca ter sido
+    sócio ou administrador da Milo Investimentos ou de qualquer contraparte das operações do Brazil
+    Realty FII, e que nem ele nem a MGI se enquadrariam na definição subjetiva de sujeito passível de
+    responsabilização pela norma invocada — argumento rejeitado pelo colegiado, que o condenou mesmo
+    assim.
+  source_ids:
+  - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+  by_id: felipe-cancado-vorcaro
+  date: '2025-10-13'
 open_questions:
 - O grau de parentesco com Daniel Vorcaro não está registrado nas fontes oficiais do corpus sobre a
   prisão temporária de 07/05/2026 — mas é confirmado como "primo" pela cobertura da condenação da CVM
