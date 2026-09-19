@@ -286,10 +286,15 @@ async function principal(): Promise<void> {
       verificacoes.push({ nome, status: "pulada" });
     log("· testes, build e segredos: pulados (--sem-verificacoes)");
   } else {
+    /*
+     * O build vem antes dos testes porque é ele que roda `data:build`, e vários testes importam
+     * `src/generated/*.json`. Num clone recém-feito — que é como a rotina noturna sempre começa —
+     * esses arquivos ainda não existem, e a ordem inversa fazia os testes falharem por falta deles.
+     */
     for (const [nome, comando] of [
       ["segredos", "npm run scan:secrets"],
-      ["testes", "npx vitest run"],
       ["build", "npm run build"],
+      ["testes", "npx vitest run"],
     ] as const) {
       const r = rodarComando(nome, comando);
       verificacoes.push(r.status);
