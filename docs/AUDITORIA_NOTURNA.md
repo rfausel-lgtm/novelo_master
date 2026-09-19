@@ -111,39 +111,53 @@ Flags de `npm run auditoria`:
 Flags de `npm run auditoria:selecao`: `--teto <n>` (padrão 60), `--horas <n>` (padrão 24),
 `--estado <arquivo>`, `--escrever-estado`, `--json`.
 
-## O que a instalação na máquina que hospeda a rotina precisa saber
+## A rotina na máquina que a hospeda
 
-O repositório exige Node >= 24. A máquina que hospeda a rotina roda uma versão anterior, e por isso
-a rotina roda em contêiner `node:24`, com o repositório clonado dentro dele.
+Dois arquivos em [`scripts/auditoria-noturna/`](../scripts/auditoria-noturna/), versionados como o
+resto: o cron chama `rodar.sh`, que prepara a noite e chama `noite.mjs`.
 
-Sequência de uma noite:
+1. **`rodar.sh`** atualiza um clone da `main` publicada (por https público — a rotina não tem
+   credencial do GitHub, e não ter uma é a garantia de que não empurra nada), roda a camada
+   determinística e a seleção num contêiner `node:24`, porque o projeto exige Node >= 24 e a máquina
+   pode rodar outra versão, e então chama `noite.mjs`. Tem trava contra execução dupla, teto de tempo
+   em cada etapa e, se algo quebrar, avisa no Telegram: noite de falha em silêncio seria lida como
+   noite limpa.
+2. **`noite.mjs`** roda fora do contêiner, onde o Claude Code está autenticado, só com a biblioteca
+   padrão do Node. Revisa a seleção em lotes de dez registros, cada lote numa sessão nova; manda cada
+   achado, isolado, ao verificador; descarta por construção o achado sem trecho literal ou fora do
+   lote; promove o ponteiro da amostra só se a revisão cobriu a seleção inteira; compara a camada
+   determinística com a noite anterior pelo `id`; grava o relatório completo e manda o resumo ao
+   Telegram. Na primeira noite, só a contagem: ela é a linha de base.
 
-1. `git fetch && git checkout main && git reset --hard origin/main` — a auditoria lê a `main`
-   publicada, não uma cópia de trabalho.
-2. `npm ci`
-3. `npm run auditoria -- --json --estado "$NOVELO_AUDITORIA_CACHE_LINKS" --saida "$NOVELO_AUDITORIA_RELATORIO"`
-4. `npm run auditoria:selecao -- --estado <cópia provisória do estado> --escrever-estado --json` — a
-   cópia só substitui `$NOVELO_AUDITORIA_ESTADO` depois que a etapa 5 termina.
-5. A etapa de IA, com os prompts de `docs/auditoria/` preenchidos, em modo headless, com teto de
-   45 minutos.
-6. Comparar os achados com os da noite anterior pelo campo `id` e mandar ao Telegram o que é novo.
+O Claude Code é chamado com `--permission-mode dontAsk` e só com `Read`, `Grep`, `Glob` e `WebFetch`;
+`Bash`, `Edit` e `Write` ficam proibidos, e nenhum servidor MCP é carregado. Ele roda com
+`CLAUDE_CONFIG_DIR` próprio da auditoria, para não herdar instruções, plugins ou memória de outros
+usos da mesma máquina. Todo texto escrito pela IA passa ainda por uma máscara de e-mail e de
+sequência numérica antes de sair — o prompt proíbe transcrever dado pessoal, mas texto de modelo não
+é garantia.
 
-Variáveis de ambiente esperadas, **por nome** (os valores ficam na máquina, nunca no repositório):
+`NOVELO_AUDITORIA_SECO=1` imprime a mensagem em vez de enviá-la: é o modo de ensaio da instalação.
+Criar o arquivo `DESLIGADA` na pasta da rotina suspende tudo sem mexer no cron.
 
-| Nome                           | Para quê                                                          |
-| ------------------------------ | ----------------------------------------------------------------- |
-| `NOVELO_AUDITORIA_ESTADO`      | Caminho do ponteiro da amostra rotativa.                          |
-| `NOVELO_AUDITORIA_CACHE_LINKS` | Caminho do cache do link rot.                                     |
-| `NOVELO_AUDITORIA_RELATORIO`   | Caminho do relatório da noite.                                    |
-| `NOVELO_AUDITORIA_ANTERIOR`    | Caminho do relatório da noite anterior, para o diff.              |
-| `TELEGRAM_BOT_TOKEN`           | Credencial do bot que entrega o relatório.                        |
-| `TELEGRAM_CHAT_ID`             | Destino da mensagem.                                              |
-| `ANTHROPIC_API_KEY`            | Credencial da etapa de IA, se ela não usar sessão já autenticada. |
+Configuração em `config.env` na pasta da rotina, **fora do repositório**. Nomes esperados:
+
+| Nome                            | Para quê                                                                         |
+| ------------------------------- | -------------------------------------------------------------------------------- |
+| `NOVELO_AUDITORIA_BASE`         | Pasta da rotina (clone, estado, relatórios, logs). Padrão: `~/novelo-auditoria`. |
+| `NOVELO_AUDITORIA_CLAUDE`       | Caminho do executável do Claude Code.                                            |
+| `CLAUDE_CONFIG_DIR`             | Configuração isolada do Claude Code para a auditoria.                            |
+| `TELEGRAM_CHAT_ID`              | Destino da mensagem.                                                             |
+| `NOVELO_AUDITORIA_TELEGRAM_ENV` | Arquivo de onde ler `TELEGRAM_BOT_TOKEN`, sem copiá-lo para outro lugar.         |
+| `NOVELO_AUDITORIA_PRAZO_MIN`    | Teto da etapa de IA (padrão 45).                                                 |
+| `NOVELO_AUDITORIA_LOTE`         | Registros por sessão de revisão (padrão 10).                                     |
+
+O teto de registros por noite (60) é o padrão de `auditoria:selecao`.
 
 Três pontos que a instalação não pode inverter:
 
-- **O volume do repositório é montado somente para leitura** na etapa de IA. A garantia de que nada
-  é escrito em `data/` não deve depender só do prompt.
+- **A IA só lê.** A garantia de que nada é escrito em `data/` não depende do prompt: as ferramentas de
+  escrita estão proibidas na chamada, o clone é descartável (refeito a partir da `main` toda noite) e
+  a rotina não tem credencial para empurrar nada.
 - **Nada é publicado.** Nem issue, nem PR, nem post. O relatório vai para o Telegram e para o arquivo.
 - **Falha da rotina não é falha do acervo.** Se a auditoria quebrar, o site continua no ar e os lotes
   continuam sendo publicados. A rotina nunca entra no caminho da publicação.

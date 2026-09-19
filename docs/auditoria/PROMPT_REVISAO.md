@@ -17,8 +17,8 @@ Como a rotina monta a chamada:
   # e então, com o prompt abaixo preenchido:
   claude -p "$(prompt_preenchido)" --output-format json
 
-O revisor NÃO recebe permissão de escrita. A rotina roda em contêiner com o repositório montado
-somente para leitura; nenhuma etapa de IA tem autorização para editar `data/`, commitar ou abrir PR.
+O revisor NÃO recebe permissão de escrita: a chamada proíbe Bash, Edit e Write, o clone é refeito
+a partir da main toda noite e a rotina não tem credencial para empurrar nada. Ver scripts/auditoria-noturna/.
 -->
 
 === PROMPT ===
