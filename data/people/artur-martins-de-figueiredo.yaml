@@ -29,7 +29,12 @@ summary: Identidade ancorada pelo CPF parcial, idêntico em três fontes distint
   como prova documental, o PAS CVM 19957.008143/2018-26 (debêntures EBPH), no qual ele foi absolvido
   (20/12/2023), como diretor responsável da Planner Corretora, de suposta infração ao dever de fiscalização
   — antecedente regulatório que já o ligava ao mesmo círculo profissional (Planner/Quadrado) antes da
-  criação da Banvox.
+  criação da Banvox. ACHADO NOVO (19/09/2026) — uma das empresas "Fraction NNN" que dirige é a Fraction
+  024, proprietária do jato Legacy 650 de prefixo PP-NLR que o termo de dação em pagamento de 19/05/2025
+  previa usar para quitar parte dos honorários do Master ao escritório Barci de Moraes — é diretor da
+  empresa desde a constituição, em 13/05/2021, ao lado do presidente Marcus Vinícius da Mata, operador
+  de dezenas de empresas do mesmo padrão. O quadro societário, consultado em 19/09/2026, não registra
+  Viviane Barci de Moraes nem o escritório como sócios em nenhuma data.
 why_in_novelo: É diretor, ao lado de Maurício Quadrado, tanto da Trustee Holding Financeira quanto da
   Banvox Holding Financeira — mas entrou na Trustee Holding antes de Quadrado (2019 vs. 2022), revisando
   a hipótese inicial do acervo de um vínculo 'recente e específico à Banvox' para um vínculo profissional
@@ -55,8 +60,9 @@ source_ids:
 - src-fnetb3-2023-06-01-documento-472804-figueiredo-diretor-zion
 - src-iclnoticias-2026-09-03-bc-liquida-distribuidoras-titulos
 - src-stf-pet15198-peca012-pedido-prisao-preventiva-5009071
+- src-minhareceita-fraction024-qsa-2026-09-19
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-06'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-06'
-updated_at: '2026-09-12'
+updated_at: '2026-09-19'
