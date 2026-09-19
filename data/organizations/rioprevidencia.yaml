@@ -14,21 +14,29 @@ summary: 'Autarquia responsável pela gestão e pagamento das aposentadorias e p
   e a PF, reapurando o mesmo conjunto, a R$ 2,01 bi em 26/05/2026 — juntos, ''cerca de R$ 3 bi''. Os R$ 3,7 bi da
   PGR, mesma data, seguem sem explicação encontrada. Os R$ 6,5 bi de outra auditoria do TCE NÃO são exposição ao
   Master: cobrem também Genial (mera custódia), Mirae Asset e Digimais. Decisão judicial de dez/2025 já retém os
-  R$ 970 mi via desconto de consignados, com liquidação prevista em ~2 anos.'
+  R$ 970 mi via desconto de consignados, com liquidação prevista em ~2 anos. NOVO (19/09/2026): em
+  21/05/2026, foi sancionada a Lei estadual 11.193/2026 (Luiz Paulo — PSD, e Guilherme Delaroli — PL),
+  exigindo que a autarquia publique relatórios semestrais detalhando suas aplicações — instituições,
+  fundos por CNPJ, valores, taxas e custos de gestão.'
 why_in_novelo: Seus aportes em produtos do Banco Master são objeto da 8ª fase da Operação Compliance Zero, segundo
   comunicação oficial do STF.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 open_questions:
+- Se o primeiro relatório semestral exigido pela Lei 11.193/2026 já foi publicado, e se ele detalha os
+  fundos ligados ao Master, não apurado até esta coleta.
 - 'NOVO (13/09/2026): em agosto de 2024, ao responder a perguntas do jornal Estadão sobre os aportes em
   LFs do Master, a redação da resposta da autarquia foi ditada, palavra por palavra, pelo próprio Daniel
   Vorcaro a um interlocutor interno (Fernando de Goes) — a PF conclui que isso demonstra "influência" de
   Vorcaro sobre a comunicação institucional do órgão. Não confirmado se a matéria do Estadão foi publicada
   nem seu conteúdo final.'
-- Em 17/07/2026, a PGE-RJ moveu ação cobrando cerca de R$ 640 milhões do grupo Master, apontando que a Trustee (gestora
-  ligada ao Master, liquidada em 03/09/2026) comprou maciçamente papéis dos fundos Revolution e Texas I FIA entre
-  jul-ago/2024, inflando artificialmente seus preços — alegação sob apuração judicial, não julgada.
+- 'RESOLVIDO EM PARTE (19/09/2026): a PGE-RJ ajuizou, em 16/07/2026 (não 17/07, como o acervo registrava
+  — divergência de um dia entre fontes, não conferida), três ações — não uma — contra a Master
+  Corretora, a Trustee DTVM e gestoras ligadas ao grupo (entre elas a Acura, votante pelo fundo
+  Revolution), pedindo cautelares de R$ 616,6 milhões sobre uma perda total estimada em R$ 641,4 milhões:
+  R$ 481,4 milhões no fundo Revolution e R$ 135,1 milhões no Texas I FIA. Números dos três processos
+  seguem não divulgados; a imprensa registra que tramitam sob sigilo.'
 - 'ATUALIZADO (lote 323): o trajeto da cautelar 3049678-51.2025.8.19.0001 está documentado no DJEN — a 2ª Vara da
   Fazenda Pública da Capital declinou da competência para a Justiça Federal em 10/03/2026 (art. 109, I, da
   Constituição; Súmula 150 do STJ) e, em embargos de 11/03, manteve a tutela por risco aos cofres públicos. Segundo
@@ -39,10 +47,15 @@ open_questions:
   agosto de 2024 não foram lidas.
 - Não foi localizado o número do processo em que a cautelar do Rioprevidência tramitou no STF antes da redistribuição
   por Toffoli à primeira instância.
-- Há divergência entre fontes jornalísticas sobre se a CPI da Alerj, aprovada em 12/05/2026, chegou a ser efetivamente
-  instalada.
-- O número do processo da ação da Procuradoria-Geral do Estado do Rio de Janeiro, de 17/07/2026, não foi localizado;
-  tramita sob sigilo.
+- 'RESOLVIDO EM PARTE (19/09/2026): o requerimento de CPI (Rioprevidência e Cedae), do deputado Flávio
+  Serafini — PSOL, protocolado em 06/05/2026 com as 24 assinaturas necessárias, foi travado pela
+  presidência da Alerj (Douglas Ruas, PL), que o enviou à Procuradoria da Casa sob alegação de que um
+  pedido de retirada de assinatura alterava requisito de admissibilidade. Serafini acionou o TJ-RJ em
+  18/05/2026 pedindo liminar; o desembargador Cherubin Helcias Schwartz Junior negou-a em 26/05/2026 —
+  reconheceu que os requisitos estavam cumpridos, mas preferiu ouvir a Alerj antes, questionando quantas
+  CPIs já funcionavam (limite regimental de sete simultâneas). No mesmo dia, a Alerj anunciou a criação de
+  quatro novas CPIs — não confirmado, em fonte lida, se a do Rioprevidência/Master está entre elas nem se
+  chegou a funcionar.'
 - A proposta de colaboração não esclarece se a comissão de 10% incidiu sobre o total investido pelo Rioprevidência
   ou sobre parcela dele, nem distingue a atuação específica de ACM Neto e Rueda da atuação de Cláudio Castro, já
   investigada na 8ª fase da Compliance Zero.
@@ -63,9 +76,13 @@ source_ids:
 - src-cnnbrasil-2026-05-26-entenda-como-o-rio-investiu-3-bi
 - src-temporealrj-2026-05-26-rioprevidencia-quase-3-bilhoes
 - src-timesbrasil-2026-entenda-investigacao-rioprevidencia
+- src-agenciabrasil-2026-07-16-pge-rj-cobra-master-641-milhoes
+- src-alerj-2026-05-21-lei-11193-transparencia-rioprevidencia
+- src-temporealrj-2026-05-22-serafini-aciona-tj-cpi-master
+- src-noticiadorio-2026-05-26-tj-rejeita-liminar-cpi-master-alerj
 full_name: Fundo Único de Previdência Social do Estado do Rio de Janeiro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-10'
+updated_at: '2026-09-19'

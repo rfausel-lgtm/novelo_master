@@ -15,6 +15,15 @@
   pedida à revista e não teve resposta até a publicação (19/09/2026); se a revista pedir a retirada, o
   logo sai e o nome do veículo entra em texto.
 
+- **Saneamento de dados pessoais (segunda passada).** O saneamento de 13/09 não vale para sempre: lotes
+  publicados depois dele reintroduziram dado vedado pela seção 6 da política editorial. Saíram, de dois
+  verbetes de pessoa, um CPF de pessoa física, o telefone pessoal de um terceiro e o endereço residencial
+  identificado dele (condomínio e unidade), este generalizado para o município. Nenhum fato mudou: o
+  titular formal das empresas, os CNPJ delas, o telefone novo confirmado em depoimento e o apartamento
+  como objeto da apuração continuam publicados. O endereço de contabilidade que duas associações baianas
+  registraram na Receita ficou como está — é caixa funcional de pessoa jurídica, não dado pessoal. O
+  conteúdo removido não é reproduzido aqui; ver a revisão `rev-2026-09-17-saneamento-dados-pessoais`.
+
 - **Grafo organizado ao abrir, e sem rotação.** O desenho inicial era um novelo uniforme, com os dois
   maiores hubs puxando tudo para o meio. Agora as posições partem dos grupos de nós mais ligados entre
   si, cada grupo fica na sua região e nenhum nó cobre outro; os hubs continuam no centro, com os
