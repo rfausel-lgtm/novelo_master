@@ -33,13 +33,22 @@ summary: 'Ex-funcionário do Banco Master até março de 2022, foi sócio-direto
   de documento fabricado a posteriori. A mesma peça o qualifica também como "diretor e sócio da Cartos" no
   presente, qualificação que tensiona com o registro já publicado de que ele deixou a Cartos em
   05/05/2021 — pode ser imprecisão da representação policial ou vínculo residual não documentado; não
-  resolvido pelos documentos disponíveis.'
+  resolvido pelos documentos disponíveis. NOVO (19/09/2026): é também alvo de uma segunda investigação,
+  distinta da apuração da Tirreno — foi sócio principal da Silium (depois Nuoro Pay), que a Polícia Civil
+  de São Paulo descreve como peça central da engrenagem financeira de uma organização de apostas ilegais
+  ("tigrinho"), administrando contas-bolsão de empresas de fachada. Corre sob sigilo.'
 why_in_novelo: É a figura central por trás da Tirreno, a empresa de fachada usada para vender ao BRB R$ 12,2
   bilhões em créditos que a Polícia Federal não conseguiu confirmar na origem — com lastro documental primário
   (Banco Central e o próprio IPL), não apenas jornalístico.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
+- kind: denial
+  summary: 'Sobre a investigação da Silium/Nuoro Pay (apostas ilegais), seu advogado, Luiz Felipe Mallmann
+    de Magalhães, declarou que "o empresário não cometeu nenhum ato ilícito e isso será demonstrado ao
+    longo da apuração". Não localizada manifestação dele ou de defesa sobre a apuração da Tirreno
+    especificamente.'
+  source_ids:
+  - src-politicalivre-2026-02-23-seixas-maia-tigrinho-lavagem
+  date: '2026-02-23'
 open_questions:
 - O teor exato das irregularidades que levaram ao termo de compromisso de 2021 da Cartos com o Banco Central
   não está disponível nos documentos lidos até agora.
@@ -54,8 +63,9 @@ source_ids:
 - src-stf-inq5026-ipl1096304-completo
 - src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
 - src-stf-inq5026-despacho-24-04-2026-seixas-maia-devolucao-equipamentos
+- src-politicalivre-2026-02-23-seixas-maia-tigrinho-lavagem
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-12'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-12'
-updated_at: '2026-09-12'
+updated_at: '2026-09-19'

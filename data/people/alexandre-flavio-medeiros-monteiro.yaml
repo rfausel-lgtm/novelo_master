@@ -2,30 +2,47 @@ id: alexandre-flavio-medeiros-monteiro
 kind: person
 name: Alexandre Flávio Medeiros Monteiro
 category: public_official
-role: Conselheiro do Comitê de Investimentos da Amapá Previdência (CIAP)
+role: Procurador-Geral de Justiça do Amapá (desde 10/03/2025); à época dos fatos, conselheiro do Comitê
+  de Investimentos da Amapá Previdência (CIAP)
 positions:
 - title: Conselheiro do Comitê de Investimentos
   organization_id: amapa-previdencia
   source_ids:
   - src-diofe-8556-2025-12-16
-summary: Conselheiro do Comitê de Investimentos da Amprev. Segundo a ata do Conselho Estadual de Previdência
-  publicada no Diário Oficial, foi ele quem provocou a convocação da 12ª reunião do CIAP, em 19/07/2024,
-  por preocupação com as movimentações do mercado financeiro e com as notícias já veiculadas sobre o Banco
-  Master — e votou contra a proposta aprovada pela maioria, sugerindo que o comitê só decidisse depois
-  de apreciar o parecer da visita técnica. Não é alvo da operação Zona Cinzenta.
-why_in_novelo: Um dos dois conselheiros que votaram contra a continuidade das aplicações no Banco Master,
-  identificados por documento oficial.
+- title: Procurador-Geral de Justiça
+  organization: Ministério Público do Estado do Amapá
+  start_date: '2025-03-10'
+  source_ids:
+  - src-jornaldebrasilia-2026-08-03-monteiro-pgj-amapa-chancela-aporte
+summary: 'Conselheiro do Comitê de Investimentos da Amprev à época dos fatos — hoje é o Procurador-Geral
+  de Justiça do Amapá, empossado em 10/03/2025. Segundo a ata do Conselho Estadual de Previdência publicada
+  no Diário Oficial, foi ele quem provocou a convocação da 12ª reunião do CIAP, em 19/07/2024, por
+  preocupação com as movimentações do mercado financeiro e com as notícias já veiculadas sobre o Banco
+  Master — e votou contra a proposta aprovada pela maioria, sugerindo que o comitê só decidisse depois de
+  apreciar o parecer da visita técnica. Não é alvo da operação Zona Cinzenta. NOVO (19/09/2026): em
+  30/07/2024 — onze dias depois desse voto contrário, e depois de a Caixa Econômica Federal ter rejeitado
+  R$ 500 milhões em letras do Master por risco —, votou, por unanimidade, a favor de um terceiro aporte de
+  R$ 100 milhões, dizendo-se "mais tranquilo" com a "diversificação" do investimento e citando pareceres
+  técnicos que atestavam a "solidez" do banco.'
+why_in_novelo: 'É hoje o Procurador-Geral de Justiça do Amapá — mas, à época dos fatos, foi um dos dois
+  conselheiros que votaram contra a continuidade das aplicações no Banco Master, identificados por
+  documento oficial, e depois revisou a própria posição para aprovar por unanimidade um terceiro aporte,
+  onze dias após alertar sobre o risco.'
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada pela equipe.
   source_ids:
   - src-diofe-8556-2025-12-16
 open_questions:
-- O corpus não registra manifestação pública dele posterior à operação.
+- O corpus não registra manifestação pública dele sobre a mudança de posição entre 19 e 30/07/2024, nem
+  sobre a operação em geral, além do que consta das próprias atas do CIAP.
+- Quais pareceres técnicos, especificamente, embasaram a mudança de avaliação sobre a "solidez" do banco
+  entre um voto e outro — não identificados pela equipe.
 source_ids:
 - src-diofe-8556-2025-12-16
+- src-jornaldebrasilia-2026-08-03-monteiro-pgj-amapa-chancela-aporte
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-04'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-04'
-updated_at: '2026-09-04'
+updated_at: '2026-09-19'

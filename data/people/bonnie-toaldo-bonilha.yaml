@@ -12,7 +12,9 @@ summary: 'Sócia-administradora da BN Financeira Ltda. desde a constituição da
   Poème Horto, suspensão de passaporte, impedimento de saída do país e proibição de atuação econômica
   com as empresas citadas. A decisão a qualifica por sua posição societária e pelo vínculo familiar, sem
   imputação individualizada de conduta. Não há bloqueio de bens nem indiciamento noticiado, e não foi
-  localizada manifestação própria dela — as respostas foram dadas pelo sócio e advogado da empresa.'
+  localizada manifestação própria dela — as respostas foram dadas pelo sócio e advogado da empresa. NOVO
+  (19/09/2026): Mendonça também indeferiu, em decisão de 18/06/2026 na mesma 9ª fase, o pedido de busca e
+  apreensão contra ela e contra o irmão dela, Patrich Toaldo Bonilha.'
 why_in_novelo: Sócia das duas empresas cujas atividades o STF suspendeu na 9ª fase da operação, e alvo
   de cautelares pessoais.
 cited_position:
@@ -31,6 +33,7 @@ source_ids:
 - src-minhareceita-bn-financeira-cnpj
 - src-minhareceita-bn-representacoes-cnpj
 - src-stf-pet-16229-decisao-9a-fase-pdf
+- src-bahianoticias-2026-06-18-mendonca-nega-busca-toaldo-bonilha
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-19'

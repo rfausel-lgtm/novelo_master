@@ -4,20 +4,22 @@ category: businessperson
 role: Integrante do grupo de controle apresentado ao Banco Central em 2019
 summary: Aparece, ao lado de Daniel Vorcaro e de Armando Miguel Gallo Neto, no grupo de controle de três
   nomes apresentado ao Banco Central em 2 de maio de 2019, segundo os extratos dos votos obtidos pelo
-  Valor Econômico.
+  Valor Econômico. NOVO (19/09/2026) — após a aprovação da compra, passou a dividir o comando do banco com
+  Vorcaro, Gallo Neto e Augusto Ferreira Lima, segundo a Bloomberg Línea.
 why_in_novelo: Integrou o grupo de controle apresentado ao Banco Central no pedido que resultou na autorização
-  de 2019.
+  de 2019, e passou a dividir o comando do banco.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
 source_ids:
 - src-letsmoney-2026-04-14-do-veto-ao-aval-no-maxima
+- src-bloomberglinea-2025-11-18-trajetoria-vorcaro-master
 aliases: []
 positions: []
 open_questions: []
 kind: person
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-19'
