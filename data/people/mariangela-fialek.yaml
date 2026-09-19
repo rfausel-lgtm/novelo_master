@@ -35,8 +35,15 @@ why_in_novelo: 'Nó central de DOIS esquemas distintos investigados na mesma Ope
   sobre processos no STF ligado a Cezinha de Madureira (lote 316) — com a própria Mesa Diretora da Câmara
   agindo institucionalmente, via pedido ao STF, para protegê-la.'
 cited_position:
-- kind: not_located
-  summary: Manifestação pública dela sobre as acusações não localizada até esta coleta.
+- kind: clarification
+  summary: 'Sua defesa afirmou, em nota, que a atuação dela na organização de emendas parlamentares era
+    "estritamente técnica, apartidária e impessoal", decidida pela Presidência da Câmara e por todos os
+    líderes partidários indistintamente — sem negar, ponto a ponto, o desvio de recursos que a
+    investigação aponta.'
+  source_ids:
+  - src-cnnbrasil-2025-12-12-fialek-defesa-tecnica
+  by_id: mariangela-fialek
+  date: '2025-12-12'
 open_questions:
 - 'Origem documentada da investigação: depoimento do deputado Glauber Braga à PF em 13/02/2025,
   responsabilizando Arthur Lira e citando Fialek como operadora ligada à Presidência — alegação de
@@ -51,8 +58,9 @@ source_ids:
 - src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
 - src-jovempan-2026-07-10-fialek-proibida-segue-nomeada-camara
 - src-metropoles-2025-02-13-glauber-braga-depoimento-lira-orcamento-secreto
+- src-cnnbrasil-2025-12-12-fialek-defesa-tecnica
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-15'
-updated_at: '2026-09-15'
+updated_at: '2026-09-19'

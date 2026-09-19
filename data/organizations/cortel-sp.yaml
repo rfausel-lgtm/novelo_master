@@ -18,7 +18,9 @@ summary: 'Concessionária de serviços funerários e cemiteriais do Município d
   Cortel (CORRIGIDO no lote 320: o texto anterior falava em "multa em 2022" por informação privilegiada). A
   defesa dos Schumann atribuiu as ordens a Vicente Conte Neto, conselheiro da Cortel indicado pela Zion
   Capital, e destacou a proximidade dele com Vorcaro; a Cortel sustentou ter sido vítima do diretor, demitido
-  por justa causa.'
+  por justa causa. Roberto Schumann negociou parte das cotas em nome de sua companheira, Priscila Oliveira
+  Gomes — nomeada por extenso no voto como acusada, e absolvida de toda imputação por falta de prova de que
+  soubesse das ordens feitas em seu nome.'
 why_in_novelo: Concessionária apontada pelo STF (ADPF 1.196) como o ponto de convergência entre Fabiano
   Zettel/Banco Master, a cautelar de preços funerários de SP e o voto de André Mendonça contra essa
   cautelar um dia após receber Daniel Vorcaro — objeto de apuração pela Prefeitura de SP, MP-SP e CVM por
@@ -43,6 +45,6 @@ source_ids:
 - src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-15'
-updated_at: '2026-09-15'
+updated_at: '2026-09-19'

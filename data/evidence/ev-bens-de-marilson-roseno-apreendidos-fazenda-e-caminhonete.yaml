@@ -1,0 +1,16 @@
+id: ev-bens-de-marilson-roseno-apreendidos-fazenda-e-caminhonete
+kind: evidence
+classification: D
+proposition: Na busca contra Marilson Roseno da Silva, a PF apreendeu uma cédula de crédito bancário rural do Banco
+  do Brasil de R$ 808.516,86, vinculada a uma cédula rural pignoratícia sobre a Fazenda Cantagalo (Jacinto, MG),
+  e uma caminhonete Toyota Hilux avaliada em cerca de R$ 310 mil.
+document_ids:
+- doc-2026-03-04-termos-de-apreensao-3a-fase-relatorios-diligencia
+source_ids:
+- src-stf-pet15562-autos-pecas
+date: '2026-03-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

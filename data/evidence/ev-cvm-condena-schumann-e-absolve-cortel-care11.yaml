@@ -4,22 +4,33 @@ classification: D
 proposition: 'Em 25/11/2025, no PAS 19957.013886/2022-02, a CVM condenou Roberto Coutinho Schumann, então diretor
   financeiro da Cortel, e seu irmão Marcio Coutinho Schumann a multas de R$ 2.127.992,80 e R$ 54.048,02 por
   prática não equitativa — negociação de cotas do CARE11 com conhecimento das compras que a própria Cortel fazia
-  no fundo entre março e maio de 2022. Absolveu a Cortel e Roberto Schumann da acusação de manipulação de preços e
-  Roberto da de operação fraudulenta. O voto registra que o conselho de administração da Cortel acompanhou a
-  operação, citando e-mail do conselheiro identificado como V.C.N. que pedia regras para a negociação de cotas por
-  administradores, e que a Cortel mirava 25% das cotas do fundo a preço médio abaixo de R$ 5, contra valor
-  patrimonial de R$ 8,17.'
+  no fundo entre março e maio de 2022, em nome próprio e, no caso de Roberto, também em nome de sua companheira,
+  Priscila Oliveira Gomes (ganhos individuais de R$ 471.904,93, R$ 265.717,32 e R$ 18.734,57, respectivamente,
+  multados em 2,5 vezes). Absolveu Priscila Gomes de toda imputação, por falta de prova de que soubesse ou
+  autorizasse as ordens feitas em seu nome — os registros mostram só que a conta dela era acessada dos mesmos
+  dispositivos de Roberto. Absolveu a Cortel e Roberto Schumann da acusação de manipulação de preços — não por
+  ausência de indícios (a relatora reconhece "sinais que permitem cogitar a consumação do ilícito" por Roberto),
+  mas por dúvida razoável resolvida a favor dos acusados, e por a Cortel ter contratado parecer jurídico externo
+  antes de aprovar a estratégia e acompanhado a execução com reportes periódicos ao conselho. Absolveu Roberto da
+  acusação de operação fraudulenta (o uso da conta de Priscila, mesmo se ardil, seria só acessório à prática não
+  equitativa já punida, não fraude autônoma). O voto registra que o conselho de administração da Cortel
+  acompanhou a operação, citando e-mail do conselheiro identificado como V.C.N. que pedia regras para a
+  negociação de cotas por administradores, e que a Cortel mirava 25% das cotas do fundo a preço médio abaixo de
+  R$ 5, contra valor patrimonial de R$ 8,17.'
 document_ids:
 - doc-2025-11-25-voto-cvm-pas-cortel-schumann
 source_ids:
 - src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann
 date: '2025-11-25'
 notes: 'Corrige o que o acervo publicara no lote 313 a partir de reportagem: a condenação é de 25/11/2025, não de
-  2022 (ano das operações), e é por prática não equitativa, com absolvição da acusação de manipulação. Uma terceira
-  pessoa, companheira de Roberto, foi absolvida e não é nomeada no acervo. As iniciais V.C.N. são do documento; a
-  identificação com Vicente Conte Neto vem da imprensa.'
+  2022 (ano das operações), e é por prática não equitativa, com absolvição da acusação de manipulação. RESOLVIDO
+  (19/09/2026, releitura integral do voto): a companheira de Roberto é nomeada por extenso no próprio cabeçalho
+  do voto (Priscila Oliveira Gomes) — é parte formal do processo, acusada e depois absolvida, não terceira
+  incidental; a cautela da CVM com iniciais vale para testemunhas/terceiros (ex.: V.C.N., F.G.), não para os
+  quatro acusados nomeados. As iniciais V.C.N. são do documento; a identificação com Vicente Conte Neto vem da
+  imprensa.'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-15'
-updated_at: '2026-09-15'
+updated_at: '2026-09-19'

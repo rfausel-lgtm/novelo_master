@@ -20,17 +20,28 @@ why_in_novelo: Teve prisão temporária decretada pelo STF em fase da Operação
   pela CVM no processo do Brazil Realty FII, ao lado do pai, Henrique Vorcaro, evidenciando o padrão familiar
   de participação nos veículos societários envolvidos na fraude.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: Em defesa apresentada individualmente ao PAS da CVM em 13/10/2025, sustentou nunca ter sido
+    sócio ou administrador da Milo Investimentos ou de qualquer contraparte das operações do Brazil
+    Realty FII, e que nem ele nem a MGI se enquadrariam na definição subjetiva de sujeito passível de
+    responsabilização pela norma invocada — argumento rejeitado pelo colegiado, que o condenou mesmo
+    assim.
+  source_ids:
+  - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
+  by_id: felipe-cancado-vorcaro
+  date: '2025-10-13'
 open_questions:
 - O grau de parentesco com Daniel Vorcaro não está registrado nas fontes oficiais do corpus sobre a
   prisão temporária de 07/05/2026 — mas é confirmado como "primo" pela cobertura da condenação da CVM
   (Agência Brasil, Poder360).
 - 'NOVO (lote 235): em 13/01/2026, a PF localizou, por sobrevoo de drone comparado a fotos públicas de
   Instagram, uma segunda casa de veraneio dele no distrito de Trancoso, Porto Seguro (BA) — além do
-  endereço já conhecido em Nova Lima (MG). Nas fotos usadas para a identificação aparecem Cláudia Resende
-  Soares da Silva e Karina Resende Oliveira Vorcaro; o sobrenome desta última sugere vínculo conjugal, mas
-  nenhuma peça lida afirma isso expressamente.'
+  endereço já conhecido em Nova Lima (MG). Nas fotos usadas para a identificação aparecem duas
+  particulares sem qualquer alegação de irregularidade no corpus, identificadas nos autos apenas por
+  iniciais neste acervo (C.R.S.S. e K.R.O.V.); o sobrenome da segunda sugere vínculo conjugal, mas
+  nenhuma peça lida afirma isso expressamente. ANONIMIZADO (19/09/2026): os dois verbetes individuais
+  foram removidos do acervo — eram nós isolados sem qualquer relação de grafo, criados só para registrar
+  a autoria involuntária das fotos; o fato consta agora só aqui, com iniciais.'
 source_ids:
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
@@ -43,4 +54,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-11'
+updated_at: '2026-09-19'

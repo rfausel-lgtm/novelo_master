@@ -16,11 +16,13 @@ summary: 'Sócia-administradora da BN Financeira Ltda. desde a constituição da
 why_in_novelo: Sócia das duas empresas cujas atividades o STF suspendeu na 9ª fase da operação, e alvo
   de cautelares pessoais.
 cited_position:
-- kind: not_located
-  summary: Não foi localizada manifestação própria; as respostas às reportagens foram dadas pelo sócio
-    e advogado da empresa, Moisés Dantas dos Santos.
+- kind: clarification
+  summary: 'Não foi localizada manifestação própria dela; a resposta às reportagens foi dada pelo sócio
+    e advogado da empresa, Moisés Dantas dos Santos: "todos os valores recebidos foram formalizados por
+    nota fiscal, com balanços e extratos disponíveis às autoridades".'
   source_ids:
   - src-metro1-2026-03-18-empresa-diz-que-repasse-e-legal
+  by: Moisés Dantas dos Santos (sócio e advogado da empresa)
   date: '2026-03-18'
 open_questions:
 - 'A decisão não lhe imputa conduta individualizada: as cautelares decorrem da posição societária e do
@@ -31,6 +33,6 @@ source_ids:
 - src-stf-pet-16229-decisao-9a-fase-pdf
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-19'

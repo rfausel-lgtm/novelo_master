@@ -1,0 +1,26 @@
+id: src-minhareceita-fraction024-qsa-2026-09-19
+kind: source
+title: Cadastro Nacional da Pessoa Jurídica — FRACTION 024 ADMINISTRAÇÃO DE BEM PRÓPRIO S.A., quadro de sócios
+publisher: Receita Federal, via redistribuição do dump público de CNPJ
+publication_date: '2026'
+url: https://minhareceita.org/41934366000115
+source_type: official_government
+summary: 'Quadro de sócios da Fraction 024 Administração de Bem Próprio S.A. (CNPJ 41.934.366/0001-15),
+  proprietária do jato Legacy 650 de prefixo PP-NLR, nos dados abertos da Receita Federal, consultado em
+  19/09/2026: Marcus Vinícius da Mata (presidente, desde 13/05/2021) e Artur Martins de Figueiredo
+  (diretor, desde 13/05/2021). Situação cadastral ativa. Nenhum dos dois nomes muda desde a constituição
+  da empresa — a base não registra Viviane Barci de Moraes nem o escritório Barci de Moraes Sociedade de
+  Advogados como sócios em nenhuma data.'
+notes: A base registra datas de entrada; a ausência de um nome não prova que uma participação minoritária
+  ou uma cessão não registrada não exista — apenas que o quadro societário formal não a reflete.
+retrieved_at: '2026-09-19'
+verification:
+  checked_at: '2026-09-19'
+  checked_by: orquestrador (leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'

@@ -1,0 +1,27 @@
+id: rel-marcus-vinicius-da-mata-artur-martins-de-figueiredo-corporate
+kind: relationship
+from_id: marcus-vinicius-da-mata
+to_id: artur-martins-de-figueiredo
+relationship_type: corporate
+directed: false
+label: coadministradores da Fraction 024 (e de outras "Administração de Bem Próprio")
+description: 'Marcus Vinícius da Mata (presidente) e Artur Martins de Figueiredo (diretor) coadministram
+  a Fraction 024 Administração de Bem Próprio S.A. desde a constituição da empresa, em 13/05/2021, segundo
+  o cadastro público de CNPJ. Aparecem juntos, segundo agregador de dados públicos, em outras empresas do
+  mesmo padrão de nomenclatura ("Administração de Bem Próprio").'
+evidence_class: A
+confidence: 0.75
+status: unverified
+event_ids: []
+evidence_ids:
+- ev-fraction024-qsa-nao-reflete-dacao-barci-de-moraes
+source_ids:
+- src-minhareceita-fraction024-qsa-2026-09-19
+- src-consultasocio-2026-marcus-vinicius-da-mata
+document_ids: []
+start_date: '2021-05-13'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'

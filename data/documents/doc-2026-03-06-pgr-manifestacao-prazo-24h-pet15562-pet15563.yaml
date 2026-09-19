@@ -1,0 +1,30 @@
+id: doc-2026-03-06-pgr-manifestacao-prazo-24h-pet15562-pet15563
+kind: document
+title: Manifestação da PGR de 06/03/2026 — protesto contra o prazo de 24 horas nas Pets 15.562 e 15.563
+doc_type: public_statement
+date: '2026-03-06'
+date_precision: day
+source_ids:
+- src-stf-pet15562-autos-pecas
+summary: O procurador-geral Paulo Gonet Branco registra que, diferentemente da primeira petição da 3ª fase (Pet
+  15.556, com 72 horas de vista), as Pets 15.562 e 15.563 — juntas somando mais de 2.100 páginas, sobre nove pessoas
+  e cinco empresas além do investigado principal — tiveram apenas 24 horas de prazo; que a PGR se manifestara pela
+  insuficiência do prazo e o relator rejeitara o argumento; e cita, sem detalhar, um 'evento fúnebre ocorrido durante
+  a operação realizada' como exemplo do impacto de medidas cautelares sobre direitos fundamentais.
+is_official: true
+related_entity_ids:
+- paulo-gonet
+- andre-mendonca
+- luiz-phillipi-mourao
+issuer_id: paulo-gonet
+issuer: Procurador-Geral da República
+reference: PET 15.562/DF
+notes: O 'evento fúnebre' citado sem nome é, com alta probabilidade dada a coincidência exata de data (04/03/2026)
+  e de fase (3ª fase da Compliance Zero), a morte de Luiz Phillipi Mourão sob custódia, já registrada no acervo
+  (evt-2026-03-04-morte-de-luiz-phillipi-mourao-sob-custodia). A própria manifestação da PGR não nomeia a pessoa,
+  e este registro trata a ligação como inferência, não como identificação documental direta.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'
