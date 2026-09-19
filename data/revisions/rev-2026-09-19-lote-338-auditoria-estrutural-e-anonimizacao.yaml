@@ -1,6 +1,7 @@
 id: rev-2026-09-19-lote-338-auditoria-estrutural-e-anonimizacao
 kind: revision
 date: '2026-09-19'
+published_at: '2026-09-19T08:14:20-03:00'
 title: 'Lote 338 — auditoria estrutural do grafo: dois achados reais, quatro descartados, e a anonimização
   das fotos de Trancoso'
 summary: 'Auditoria estrutural do grafo, a pedido de Rafael Fausel, verificando contra o lint real (não
