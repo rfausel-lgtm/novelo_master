@@ -1,0 +1,36 @@
+id: roberto-coutinho-schumann
+kind: person
+name: Roberto Coutinho Schumann
+category: businessperson
+role: Ex-diretor financeiro da Cortel; condenado pela CVM por prática não equitativa na negociação de
+  cotas do CARE11
+summary: 'Diretor financeiro da Cortel Holding S.A. (concessionária de cemitérios de São Paulo) à época
+  em que a empresa comprou, entre março e maio de 2022, cotas do fundo imobiliário Brazilian Graveyard
+  and Death Care Services (CARE11) — do qual a própria Cortel viria a ser participada em 20% pelo mesmo
+  fundo. A CVM (PAS 19957.013886/2022-02, voto de 25/11/2025) condenou-o a R$ 2.127.992,80 por prática não
+  equitativa: negociou cotas do CARE11 em nome próprio (ganho de R$ 471.904,93) e em nome de sua
+  companheira, Priscila Oliveira Gomes (ganho de R$ 265.717,32, ela absolvida por falta de prova de que
+  soubesse das ordens), aproveitando-se do conhecimento prévio, por seu cargo, dos preços-alvo e do
+  momento das compras institucionais da Cortel. Foi absolvido da acusação de manipulação de preços — a
+  relatora reconheceu "sinais que permitem cogitar a consumação do ilícito", mas resolveu a dúvida a seu
+  favor — e da acusação de operação fraudulenta (o uso da conta da companheira, mesmo se ardil, foi tido
+  como acessório à prática não equitativa já punida, não fraude autônoma). Determinada comunicação ao
+  MPF-RS.'
+why_in_novelo: É o operador central do episódio em que a Cortel — concessionária ligada a Fabiano Zettel
+  e ao Banco Master pela cadeia CARE11 — comprou cotas do próprio fundo que a participa, com o diretor
+  financeiro lucrando pessoalmente com informação privilegiada sobre as ordens da companhia.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele fora dos autos do PAS foi localizada.
+open_questions:
+- Desfecho da comunicação à MPF-RS (por que Rio Grande do Sul, não São Paulo, não esclarecido no
+  documento) não apurado.
+- Relação, se houver, entre ele e o "mercado da morte" mais amplo do grupo Vorcaro (VHR Empreendimentos,
+  cemitério de Sabará) não estabelecida — o vínculo documentado é só via Cortel/CARE11.
+source_ids:
+- src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'

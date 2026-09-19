@@ -1,0 +1,30 @@
+id: marcio-coutinho-schumann
+kind: person
+name: Marcio Coutinho Schumann
+category: businessperson
+role: Irmão de Roberto Coutinho Schumann; condenado pela CVM por prática não equitativa na negociação de
+  cotas do CARE11
+summary: 'Irmão de Roberto Coutinho Schumann, então diretor financeiro da Cortel. A CVM (PAS
+  19957.013886/2022-02, voto de 25/11/2025) condenou-o a R$ 54.048,02 por prática não equitativa —
+  reproduziu, em escala menor, a estratégia do irmão: negociou cotas do CARE11 entre fevereiro e maio de
+  2022 (ganho de R$ 18.734,57), com posições que coincidiam em data e sentido com as ordens institucionais
+  da Cortel, sem que houvesse prova direta de como recebeu a informação privilegiada — a condenação se
+  apoiou em indícios múltiplos e convergentes: era a primeira vez que negociava cotas de fundo imobiliário,
+  começou a comprar cerca de um mês antes de a Cortel operar e liquidou a posição no mesmo dia da máxima
+  do ativo, coincidindo com o fim da atuação relevante da Cortel.'
+why_in_novelo: Reproduziu, em menor escala, o esquema de negociação com informação privilegiada do
+  irmão, no mesmo episódio em que a Cortel — ligada a Fabiano Zettel e ao Banco Master via CARE11 —
+  comprava cotas do próprio fundo que a participa.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele fora dos autos do PAS foi localizada.
+open_questions:
+- Não apurado como teve acesso à informação privilegiada — a CVM não exige prova direta do meio de
+  transmissão, bastando indícios convergentes.
+source_ids:
+- src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'
