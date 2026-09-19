@@ -28,9 +28,12 @@ open_questions:
   (Agência Brasil, Poder360).
 - 'NOVO (lote 235): em 13/01/2026, a PF localizou, por sobrevoo de drone comparado a fotos públicas de
   Instagram, uma segunda casa de veraneio dele no distrito de Trancoso, Porto Seguro (BA) — além do
-  endereço já conhecido em Nova Lima (MG). Nas fotos usadas para a identificação aparecem Cláudia Resende
-  Soares da Silva e Karina Resende Oliveira Vorcaro; o sobrenome desta última sugere vínculo conjugal, mas
-  nenhuma peça lida afirma isso expressamente.'
+  endereço já conhecido em Nova Lima (MG). Nas fotos usadas para a identificação aparecem duas
+  particulares sem qualquer alegação de irregularidade no corpus, identificadas nos autos apenas por
+  iniciais neste acervo (C.R.S.S. e K.R.O.V.); o sobrenome da segunda sugere vínculo conjugal, mas
+  nenhuma peça lida afirma isso expressamente. ANONIMIZADO (19/09/2026): os dois verbetes individuais
+  foram removidos do acervo — eram nós isolados sem qualquer relação de grafo, criados só para registrar
+  a autoria involuntária das fotos; o fato consta agora só aqui, com iniciais.'
 source_ids:
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
 - src-verificacao-direta-equipe-relatorio-pas-brazil-realty
@@ -43,4 +46,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-11'
+updated_at: '2026-09-19'

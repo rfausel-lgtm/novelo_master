@@ -1,0 +1,53 @@
+id: rev-2026-09-19-lote-338-auditoria-estrutural-e-anonimizacao
+kind: revision
+date: '2026-09-19'
+title: 'Lote 338 — auditoria estrutural do grafo: dois achados reais, quatro descartados, e a anonimização
+  das fotos de Trancoso'
+summary: 'Auditoria estrutural do grafo, a pedido de Rafael Fausel, verificando contra o lint real (não
+  contra intuição editorial) quatro suspeitas de inconsistência: 53 relações classe D com status
+  "unverified", 65 relações classe A sem evidência formal ligada, 5 eventos aparentemente sem evidência,
+  e 3 arestas/verbetes aparentemente ausentes. As quatro primeiras suspeitas eram falsas — o lint
+  (`data:lint --strict`) já passava limpo, e a leitura direta de cada registro mostra que classe D com
+  status "unverified" é o desenho correto quando o documento primário só registra uma alegação da PF
+  ainda sem decisão de mérito, e classe A apoiada só em source_ids (sem um registro formal de evidência)
+  é igualmente válida pelo schema. Dos três nós/arestas supostamente ausentes, um já existia (BRB × PKL
+  One, modelado como duas alegações do BRB, não como aresta direta Augusto Lima–PKL One — desenho mais
+  cauteloso, não lacuna) e outro também (a sociedade Monteiro, Rusu, Cameirão e Bercht já tinha verbete
+  sob o id monteiro-sociedade-de-advogados). Só um era real: Garigham Amarante Pinto e Nara Brum,
+  citados pela PF e pela decisão de Flávio Dino de 10/07/2026 como coexecutores do mesmo esquema de
+  emendas de Valdemar Costa Neto que já rendia verbete a Mariângela Fialek, não tinham verbete próprio —
+  ganham agora, com a mesma base documental dela, e passam a constar como participantes do evento e em
+  relação de alegação com Valdemar Costa Neto. Por decisão de Rafael Fausel, também anonimiza os dois
+  verbetes de particulares sem qualquer alegação de irregularidade que existiam só para registrar a
+  autoria das fotos de Instagram usadas pela PF para localizar a casa de veraneio de Felipe Cançado
+  Vorcaro em Trancoso (lote 235): os nós individuais (Cláudia Resende Soares da Silva e Karina Resende
+  Oliveira Vorcaro) foram removidos — eram nós isolados, sem qualquer relação de grafo —, e o fato passa
+  a constar só por iniciais (C.R.S.S. e K.R.O.V.) no verbete de Felipe Cançado Vorcaro e no documento que
+  registra o método de identificação.'
+added:
+  people: 2
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 2
+  sources: 0
+  evidence: 0
+updated_relationships: 0
+corrections:
+- O verbete de Felipe Cançado Vorcaro e o documento sobre a identificação da casa de Trancoso (lote 235)
+  passam a citar as duas particulares envolvidas só por iniciais; os dois verbetes individuais delas
+  foram removidos do acervo.
+author: orquestrador
+affected_ids:
+- felipe-cancado-vorcaro
+- garigham-amarante-pinto
+- nara-brum
+- mariangela-fialek
+- valdemar-costa-neto
+reason: Auditoria estrutural do grafo pedida por Rafael Fausel em 19/09/2026, verificando pontas soltas
+  levantadas por medição própria do corpus contra o comportamento real do lint e do schema, não contra
+  suposição. Decisão de anonimização das duas particulares de Trancoso também tomada por ele na mesma
+  sessão.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
