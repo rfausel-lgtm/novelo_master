@@ -1,0 +1,40 @@
+id: tribunal-de-contas-do-distrito-federal
+kind: organization
+name: Tribunal de Contas do Distrito Federal
+aliases:
+- TCDF
+org_type: public_body
+jurisdiction: Distrito Federal
+summary: 'Órgão de controle externo responsável pela fiscalização contábil, financeira e orçamentária do
+  Distrito Federal e de suas entidades, entre elas o BRB. Mantém, em relação ao caso Master, duas frentes
+  distintas: (1) o processo nº 00600-00003617/2025-75, aberto em 19/11/2025 por denúncia do Ministério
+  Público de Contas do DF (MPC-DF), com representação também protocolada por parlamentar da CLDF,
+  apontando que as operações de compra de carteiras de crédito entre BRB e Banco Master "poderiam ter
+  sido realizadas com o objetivo de contornar a restrição imposta pelo Banco Central" e apontando
+  possíveis falhas de governança e riscos ao erário distrital; (2) por Decisão nº 1.687/2026 do
+  conselheiro-relator Paulo Tadeu, suspendeu, em 20/08/2026, o prazo regimental de 60 dias para apreciar
+  as contas de 2025 do governo do Distrito Federal até que o BRB entregue balanço financeiro auditado
+  completo — o banco não divulga balanço desde novembro de 2025 — e deu 30 dias à Casa Civil do DF e ao
+  BRB para esclarecer o atraso, inclusive se há vínculo com a contratação de um empréstimo de R$ 6,6
+  bilhões.'
+why_in_novelo: É o órgão de controle externo do BRB, banco público estadual no centro do caso — mantém
+  aberta a única apuração formal, fora do STF e da PF, sobre a própria governança da compra das carteiras
+  do Master, e travou a análise das contas do governo do DF por falta do balanço auditado do banco.
+cited_position:
+- kind: not_located
+  summary: Não se aplica manifestação pública própria — é o órgão fiscalizador, não parte interessada.
+open_questions:
+- Relator do processo nº 00600-00003617/2025-75 (a denúncia do MPC-DF) não identificado nas fontes
+  lidas.
+- Desfecho do prazo de 30 dias dado à Casa Civil do DF e ao BRB (a partir de 20/08/2026) para esclarecer
+  o atraso do balanço não apurado até esta coleta.
+- Se CVM ou Banco Central abriram procedimento próprio por conta do atraso na divulgação do balanço do
+  BRB, como o TCDF exigiu que fosse esclarecido, não apurado até esta coleta.
+source_ids:
+- src-tcdf-2025-11-19-denuncia-mpc-df-brb-master
+- src-brasildefato-2026-08-20-tcdf-trava-contas-df-sem-balanco-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'

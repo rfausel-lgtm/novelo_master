@@ -31,15 +31,27 @@ cited_position:
   by_id: paulo-henrique-costa
   date: '2025-06-18'
 open_questions:
-- A extensão da responsabilidade de dirigentes do BRB que aprovaram a compra apesar de pareceres técnicos e jurídicos
-  contrários não foi apurada pela equipe neste lote.
+- 'RESOLVIDO EM PARTE (19/09/2026): em assembleia geral extraordinária de 24/08/2026, os acionistas do
+  BRB aprovaram autorização processual (art. 159 da Lei 6.404/1976) para acionar judicialmente ex-gestores
+  pelas perdas nas operações com o Master — só Paulo Henrique Costa é nominalmente citado; outros
+  "ex-gestores" não são identificados individualmente, e o banco frisou que a autorização não constitui
+  "definição prévia de responsabilidade". Ainda não apurado: se a ação foi de fato ajuizada, contra quem
+  especificamente, e por qual valor.'
 - Nelson Antônio de Souza (ex-presidente da Caixa) assumiu a presidência em 26/11/2025, aprovado pelo BC e pela
   Câmara Legislativa do DF, após o afastamento de Paulo Henrique Costa. O Banco Central determinou provisionamento
   de R$ 2,6 bilhões para cobrir a fraude nas carteiras do Master, com prazo até 29/05/2026 sob risco de intervenção
   — o novo presidente declarou publicamente que não haveria intervenção nem liquidação; resultado final desse processo
   regulatório não confirmado por fonte localizada.
-- Pedidos de CPI sobre o caso BRB-Master foram apresentados na Câmara Legislativa do DF (PL) e sugeridos no Senado
-  (Izalci Lucas) em fevereiro de 2026 — instalação efetiva e resultado dos trabalhos não confirmados por fonte localizada.
+- 'RESOLVIDO EM PARTE (19/09/2026): o requerimento de CPI na CLDF, protocolado por deputados do PL em
+  março de 2026, tinha 7 das 8 assinaturas mínimas em 06/03/2026 — faltava a do deputado Thiago Manzoni
+  (PL). Busca em 19/09/2026 não confirma instalação efetiva até esta data (ver camara-legislativa-do-
+  distrito-federal). A sugestão de Izalci Lucas no Senado não teve desdobramento localizado.'
+- 'NOVO (19/09/2026): o TCDF, órgão de controle externo do BRB — sem nenhuma ocorrência no acervo até
+  esta coleta —, mantém duas frentes abertas: o processo nº 00600-00003617/2025-75 (denúncia do MPC-DF,
+  19/11/2025, sobre possível contorno de restrição do BC na compra das carteiras) e a Decisão nº
+  1.687/2026 (20/08/2026), que suspendeu a apreciação das contas de 2025 do governo do DF até o BRB
+  entregar balanço financeiro auditado — o banco não divulga balanço desde novembro de 2025 (ver
+  tribunal-de-contas-do-distrito-federal).'
 source_ids:
 - src-apublica-2026-03-reconstrucao-fraude-master
 - src-brb-2025-03-28-fato-relevante-master
@@ -52,11 +64,15 @@ source_ids:
 - src-stf-inq5026-ipl1096304-completo
 - src-tribunadosertao-2026-09-11-pericia-pf-brb-903-carteiras-master
 - src-correiobraziliense-2026-04-20-master-inflou-carteiras-24bi-brb
+- src-otempo-2026-08-24-brb-acionistas-acionar-justica-ex-gestores
+- src-metropoles-2026-03-06-cpi-master-cldf-manzoni
+- src-tcdf-2025-11-19-denuncia-mpc-df-brb-master
+- src-brasildefato-2026-08-20-tcdf-trava-contas-df-sem-balanco-brb
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-18'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-18'
+updated_at: '2026-09-19'
 photo:
   path: /fotos/banco-de-brasilia-brb.png
   source: Wikimedia Commons
