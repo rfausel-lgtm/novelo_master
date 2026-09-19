@@ -11,8 +11,9 @@
   em `src/lib/media-coverage.ts`, e não em `data/`: cobertura sobre o projeto não é fonte do acervo,
   não entra no grafo e não passa pelas regras de evidência. A marca de cada veículo entra na forma
   original; a única adaptação é de legibilidade — no tema escuro entra a versão clara do mesmo logo,
-  sem recorte, recoloração ou composição com a nossa marca. O uso do logo da Oeste depende de
-  autorização da revista, ainda não concedida quando isto foi escrito.
+  sem recorte, recoloração ou composição com a nossa marca. A autorização para usar o logo da Oeste foi
+  pedida à revista e não teve resposta até a publicação (19/09/2026); se a revista pedir a retirada, o
+  logo sai e o nome do veículo entra em texto.
 
 - **Grafo organizado ao abrir, e sem rotação.** O desenho inicial era um novelo uniforme, com os dois
   maiores hubs puxando tudo para o meio. Agora as posições partem dos grupos de nós mais ligados entre
@@ -93,7 +94,7 @@
 - **A ilustração do Codex volta a prevalecer sobre o card** (decisão de Rafael, 12/09/2026). Na
   primeira versão o card contava como arte concluída, e com ele cobrindo 100% das revisões dois elos
   pararam em silêncio: `social:pending` deixou de listar pendência — a automação do Codex não tinha
-  mais o que gerar — e o `arte-de-lote.yml`, que só aceitava arquivo _novo_, descartaria qualquer
+  mais o que gerar — e o `arte-de-lote.yml`, que só aceitava arquivo *novo*, descartaria qualquer
   arte que chegasse por cima de um card. Agora revisão só com card é pendente (9 lotes a partir do
   200 voltaram à fila: 220, 223, 226, 228–232 e 235), e o workflow aceita arte que substitui card,
   tirando o id do manifesto. Ilustração já publicada continua nunca sendo refeita nem sobrescrita.
