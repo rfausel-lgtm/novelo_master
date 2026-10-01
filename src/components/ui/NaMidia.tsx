@@ -6,7 +6,9 @@ import { formatPartialDate } from "@/lib/format";
  * "Na mídia": veículos que publicaram sobre o Novelo Master.
  *
  * O trecho citado é o que sustenta a seção — mostra que o veículo falou do projeto, e não que o
- * projeto fala do veículo. A ressalva de vínculo fecha o bloco porque logo de terceiro ao lado do
+ * projeto fala do veículo. Quando não há frase transcrevível, porque o veículo só creditou o site
+ * como fonte com um link, entra o `mention`: descrição nossa, sem aspas e em tom secundário, para
+ * não se passar por citação. A ressalva de vínculo fecha o bloco porque logo de terceiro ao lado do
  * nome do site, sem ela, sugere parceria que não existe.
  *
  * Cada logo aparece na marca original do veículo; nada de recolorir, recortar ou compor com o
@@ -34,14 +36,14 @@ export function NaMidia() {
                   alt={m.logo.alt}
                   width={m.logo.width}
                   height={m.logo.height}
-                  className="logo-veiculo-escuro h-10 w-auto"
+                  className="logo-veiculo-escuro max-h-10 w-auto max-w-[168px] object-contain"
                 />
                 <Image
                   src={m.logo.light}
                   alt={m.logo.alt}
                   width={m.logo.width}
                   height={m.logo.height}
-                  className="logo-veiculo-claro h-10 w-auto"
+                  className="logo-veiculo-claro max-h-10 w-auto max-w-[168px] object-contain"
                 />
                 <time dateTime={m.date} className="text-fg-3 font-mono text-[10px]">
                   {formatPartialDate(m.date)}
@@ -49,10 +51,16 @@ export function NaMidia() {
               </span>
               <span className="min-w-0 flex-1">
                 <span className="text-fg block font-semibold">{m.title}</span>
-                {m.quote && (
+                {m.quote ? (
                   <span className="border-accent text-fg-2 mt-2 block border-l-2 pl-4 text-sm leading-relaxed">
                     “{m.quote}”
                   </span>
+                ) : (
+                  m.mention && (
+                    <span className="text-fg-3 mt-2 block text-sm leading-relaxed">
+                      {m.mention}
+                    </span>
+                  )
                 )}
                 <span className="text-fg-3 mt-2 block font-mono text-[11px]">
                   {[m.outlet, m.author, m.section].filter(Boolean).join(" · ")}

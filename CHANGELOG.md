@@ -3,8 +3,11 @@
 ## Unreleased
 
 - **"Na mídia" na abertura.** A página inicial passou a registrar a cobertura de imprensa sobre o
-  projeto, começando pela matéria "As conexões de Daniel Vorcaro" (Revista Oeste, 18/09/2026), que
-  cita o Novelo pelo nome do autor. Cada item traz o logo do veículo, o título, a data e o trecho em
+  projeto: a matéria "As conexões de Daniel Vorcaro" (Revista Oeste, 18/09/2026), que cita o Novelo
+  pelo nome do autor, e "Banco Master tenta derrubar retenção de R$ 1,42 milhão do IMPCG na Justiça"
+  (Jornal do Estado MS, 01/10/2026), que credita o site como fonte com link para a ficha do IMPCG.
+  Quando não há frase transcrevível, o item traz uma descrição nossa do tipo de menção, sem aspas e
+  em tom secundário, para não se passar por citação. Cada item traz o logo do veículo, o título, a data e o trecho em
   que a matéria fala do projeto — o trecho é o que sustenta a seção: mostra o veículo falando do
   Novelo, e não o contrário. A ressalva de que não há vínculo com os veículos fecha o bloco, porque
   logo de terceiro ao lado do nome do site, sem ela, sugere parceria que não existe. O registro mora
