@@ -12,7 +12,11 @@ summary: Alvo de constrição patrimonial na PET 16.230 (item I.19, teto de R$ 3
   o aponta como irmão de Bonnie Toaldo Bonilha e como pessoa que teria integrado a estrutura societária da BN Representações
   Tecnológicas, empresa que a representação da PF descreve como do mesmo núcleo familiar da BN Financeira, com elementos
   operacionais e cadastrais compartilhados. A decisão registra ainda alterações cadastrais posteriores ao início
-  das investigações como reforço, em juízo indiciário, à necessidade de preservação patrimonial.
+  das investigações como reforço, em juízo indiciário, à necessidade de preservação patrimonial. NOVO
+  (19/09/2026) — na mesma 9ª fase, em decisão de 18/06/2026, Mendonça indeferiu especificamente o pedido de
+  busca e apreensão contra ele e contra Bonnie — "indefiro a medida de busca e apreensão em relação a
+  Bonnie Toaldo Bonilha e a Patrich Toaldo Bonilha" —, enquanto outros dezoito mandados foram cumpridos na
+  mesma operação. O texto lido não explica os fundamentos da negativa.
 why_in_novelo: É alvo de constrição patrimonial na PET 16.230 pelo vínculo familiar e societário com Bonnie Toaldo
   Bonilha e com a BN Representações Tecnológicas, do mesmo núcleo da BN Financeira.
 cited_position:
@@ -25,8 +29,9 @@ open_questions:
   menciona sem detalhar.
 source_ids:
 - src-stf-pet16230-autos-pecas
+- src-bahianoticias-2026-06-18-mendonca-nega-busca-toaldo-bonilha
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-17'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-17'
-updated_at: '2026-09-17'
+updated_at: '2026-09-19'

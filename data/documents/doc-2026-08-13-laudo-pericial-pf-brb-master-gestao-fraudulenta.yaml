@@ -1,0 +1,30 @@
+id: doc-2026-08-13-laudo-pericial-pf-brb-master-gestao-fraudulenta
+kind: document
+title: Laudo pericial da PF de 13/08/2026 — gestão fraudulenta na compra de carteiras do Master pelo BRB
+doc_type: forensic_extract
+date: '2026-08-13'
+date_precision: day
+source_ids:
+- src-tribunadosertao-2026-09-11-pericia-pf-brb-903-carteiras-master
+summary: Perícia da Polícia Federal, concluída em 13/08/2026 e com sigilo levantado em 11/09/2026 por ordem da Presidência
+  do STF, sobre a aquisição pelo BRB de carteiras de crédito do Banco Master. Analisa R$ 17,5 bilhões em operações
+  e conclui que o BRB concentrou 90,3% de suas carteiras adquiridas de terceiros no Master, com pico de R$ 19,8
+  bilhões em junho de 2025; que R$ 7,6 bilhões, em 22 operações (43,41% do total desembolsado em varejo), foram
+  pagos antes da conclusão dos ritos internos e laudos técnicos obrigatórios; e caracteriza a gestão da diretoria
+  do BRB, então presidida por Paulo Henrique Costa, como 'gestão fraudulenta', por manipulação de procedimentos
+  de governança e formalização retroativa de controles.
+is_official: true
+related_entity_ids:
+- banco-de-brasilia-brb
+- banco-master
+- paulo-henrique-costa
+- policia-federal
+issuer: Polícia Federal
+reference: Operação Compliance Zero
+notes: O acervo não teve acesso ao laudo original; o registro é do documento tal como descrito pela reportagem que
+  teve acesso a ele.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

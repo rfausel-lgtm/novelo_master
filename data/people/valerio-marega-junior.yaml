@@ -11,10 +11,15 @@ summary: 'Aparece na decisão da Petição 16.229 do STF, que reproduz a narrati
 why_in_novelo: É nomeado em decisão pública do STF como quem teria sido acionado para operacionalizar
   a compra do imóvel no centro do primeiro eixo da investigação sobre Jaques Wagner.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: Sua defesa nega que tenha participado do negócio imobiliário do apartamento do Poème Horto —
+    diz que ele foi apenas consultado sobre a possibilidade de fundos então sob gestão da WNT adquirirem
+    imóveis, tendo respondido negativamente.
+  source_ids:
+  - src-revistaoeste-2026-06-19-marega-nega-participacao-poeme-horto
+  by_id: valerio-marega-junior
+  date: '2026-06-19'
 open_questions:
-- O corpus não registra manifestação de Valério Marega Júnior.
 - A decisão descreve a narrativa da PF; não há juízo de mérito sobre a conduta.
 - Segundo reportagem do UOL (replicada por quatro veículos), a offshore WNT Master Fortress (Bahamas),
   a ele ligada, controlaria cerca de metade do fundo Fortress — um dos dois fundos controladores do Diamond
@@ -23,10 +28,11 @@ open_questions:
 source_ids:
 - src-poder360-2026-06-18-nona-fase-wagner
 - src-tiacandia-2026-08-05-angelo-rezende-socio-indireto-pkl-one
+- src-revistaoeste-2026-06-19-marega-nega-participacao-poeme-horto
 aliases:
 - Valério Fundos
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-09-19'

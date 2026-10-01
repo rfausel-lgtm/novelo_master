@@ -1,0 +1,25 @@
+id: ev-fraction024-qsa-nao-reflete-dacao-barci-de-moraes
+kind: evidence
+classification: A
+proposition: 'Consulta direta ao Cadastro Nacional da Pessoa Jurídica, em 19/09/2026, mostra que o quadro
+  de sócios da Fraction 024 Administração de Bem Próprio S.A. (CNPJ 41.934.366/0001-15) — a empresa
+  proprietária do jato Legacy 650, cujas cotas de 33,33% o termo de dação em pagamento de 19/05/2025
+  previa transferir ao escritório Barci de Moraes — segue registrando os mesmos dois sócios desde a
+  constituição da empresa, em 13/05/2021: Marcus Vinícius da Mata (presidente) e Artur Martins de
+  Figueiredo (diretor). Viviane Barci de Moraes e o escritório Barci de Moraes Sociedade de Advogados não
+  constam em nenhuma data.'
+document_ids: []
+source_ids:
+- src-minhareceita-fraction024-qsa-2026-09-19
+attributed_to: orquestrador (verificação própria)
+date: '2026-09-19'
+notes: A ausência do nome no cadastro não prova que nenhuma cessão de cotas minoritária ou não registrada
+  tenha ocorrido — só que o quadro societário formal, disponível publicamente, não a reflete. O termo de
+  dação já registrava, no próprio texto, que a transferência ficava condicionada à conclusão dos serviços
+  jurídicos e vedava alienação sem autorização prévia — o que é consistente com, mas não prova, a
+  ausência de registro.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'

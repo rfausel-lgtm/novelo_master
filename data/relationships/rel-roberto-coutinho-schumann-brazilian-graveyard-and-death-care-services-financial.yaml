@@ -1,0 +1,26 @@
+id: rel-roberto-coutinho-schumann-brazilian-graveyard-and-death-care-services-financial
+kind: relationship
+from_id: roberto-coutinho-schumann
+to_id: brazilian-graveyard-and-death-care-services
+relationship_type: financial
+directed: true
+label: negociou cotas do CARE11 com informação privilegiada (condenado pela CVM)
+description: Entre março e maio de 2022, negociou cotas do CARE11 em nome próprio e em nome de sua
+  companheira, aproveitando-se, segundo a CVM, do conhecimento prévio dos preços-alvo e do momento das
+  compras institucionais da Cortel — condenado por prática não equitativa (PAS 19957.013886/2022-02).
+evidence_class: D
+confidence: 0.9
+status: verified
+event_ids: []
+evidence_ids:
+- ev-cvm-condena-schumann-e-absolve-cortel-care11
+source_ids:
+- src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann
+document_ids:
+- doc-2025-11-25-voto-cvm-pas-cortel-schumann
+start_date: '2022-03'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'

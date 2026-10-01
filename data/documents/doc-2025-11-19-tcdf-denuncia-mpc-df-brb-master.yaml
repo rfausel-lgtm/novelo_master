@@ -1,0 +1,25 @@
+id: doc-2025-11-19-tcdf-denuncia-mpc-df-brb-master
+kind: document
+title: Comunicado do TCDF sobre a abertura do processo nº 00600-00003617/2025-75 (denúncia do MPC-DF
+  contra o BRB, caso Master)
+doc_type: official_report
+date: '2025-11-19'
+date_precision: day
+source_ids:
+- src-tcdf-2025-11-19-denuncia-mpc-df-brb-master
+summary: Comunicado oficial do TCDF anunciando o recebimento de denúncia do Ministério Público de Contas
+  do DF, com representação também de parlamentar da CLDF, sobre possível contorno, pelo BRB, de
+  restrição do Banco Central à aquisição do Banco Master — apontando falhas de governança, ausência de
+  diligência prévia e riscos ao erário distrital, e a insuficiência de documentos comprobatórios nas
+  respostas do BRB.
+is_official: true
+issuer_id: tribunal-de-contas-do-distrito-federal
+related_entity_ids:
+- tribunal-de-contas-do-distrito-federal
+- banco-de-brasilia-brb
+reference: TCDF, processo nº 00600-00003617/2025-75
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'

@@ -2,6 +2,17 @@
 
 ## Unreleased
 
+- **Auditoria noturna do acervo, camada determinística e contrato da revisão por IA.**
+  `npm run auditoria` relê o acervo inteiro e devolve um JSON estável de achados — órfãos que o lint
+  não olha (fonte, documento e evidência que ninguém cita; `affected_ids` de revisão apontando para
+  nada), datas impossíveis, duplicidade provável, link rot que separa link morto de bloqueio, e
+  varredura de dado pessoal cujo valor **nunca** sai do repositório: o achado traz arquivo, linha e
+  tipo, com máscara fixa e sem um dígito sequer. `npm run auditoria:selecao` escolhe o que a revisão
+  por IA olha na noite — o que mudou em 24 h mais amostra rotativa, com o ponteiro fora do
+  repositório. Os prompts das duas passadas de IA (revisão e verificação adversarial) ficam
+  versionados em `docs/auditoria/`. A rotina só relata: não corrige, não commita, não publica e não
+  escreve em `data/`. Ver [docs/AUDITORIA_NOTURNA.md](docs/AUDITORIA_NOTURNA.md).
+
 - **"Na mídia" na abertura.** A página inicial passou a registrar a cobertura de imprensa sobre o
   projeto: a matéria "As conexões de Daniel Vorcaro" (Revista Oeste, 18/09/2026), que cita o Novelo
   pelo nome do autor, e "Banco Master tenta derrubar retenção de R$ 1,42 milhão do IMPCG na Justiça"
@@ -14,8 +25,18 @@
   em `src/lib/media-coverage.ts`, e não em `data/`: cobertura sobre o projeto não é fonte do acervo,
   não entra no grafo e não passa pelas regras de evidência. A marca de cada veículo entra na forma
   original; a única adaptação é de legibilidade — no tema escuro entra a versão clara do mesmo logo,
-  sem recorte, recoloração ou composição com a nossa marca. O uso do logo da Oeste depende de
-  autorização da revista, ainda não concedida quando isto foi escrito.
+  sem recorte, recoloração ou composição com a nossa marca. A autorização para usar o logo da Oeste foi
+  pedida à revista e não teve resposta até a publicação (19/09/2026); se a revista pedir a retirada, o
+  logo sai e o nome do veículo entra em texto.
+
+- **Saneamento de dados pessoais (segunda passada).** O saneamento de 13/09 não vale para sempre: lotes
+  publicados depois dele reintroduziram dado vedado pela seção 6 da política editorial. Saíram, de dois
+  verbetes de pessoa, um CPF de pessoa física, o telefone pessoal de um terceiro e o endereço residencial
+  identificado dele (condomínio e unidade), este generalizado para o município. Nenhum fato mudou: o
+  titular formal das empresas, os CNPJ delas, o telefone novo confirmado em depoimento e o apartamento
+  como objeto da apuração continuam publicados. O endereço de contabilidade que duas associações baianas
+  registraram na Receita ficou como está — é caixa funcional de pessoa jurídica, não dado pessoal. O
+  conteúdo removido não é reproduzido aqui; ver a revisão `rev-2026-09-17-saneamento-dados-pessoais`.
 
 - **Grafo organizado ao abrir, e sem rotação.** O desenho inicial era um novelo uniforme, com os dois
   maiores hubs puxando tudo para o meio. Agora as posições partem dos grupos de nós mais ligados entre
@@ -96,7 +117,7 @@
 - **A ilustração do Codex volta a prevalecer sobre o card** (decisão de Rafael, 12/09/2026). Na
   primeira versão o card contava como arte concluída, e com ele cobrindo 100% das revisões dois elos
   pararam em silêncio: `social:pending` deixou de listar pendência — a automação do Codex não tinha
-  mais o que gerar — e o `arte-de-lote.yml`, que só aceitava arquivo _novo_, descartaria qualquer
+  mais o que gerar — e o `arte-de-lote.yml`, que só aceitava arquivo *novo*, descartaria qualquer
   arte que chegasse por cima de um card. Agora revisão só com card é pendente (9 lotes a partir do
   200 voltaram à fila: 220, 223, 226, 228–232 e 235), e o workflow aceita arte que substitui card,
   tirando o id do manifesto. Ilustração já publicada continua nunca sendo refeita nem sobrescrita.

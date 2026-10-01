@@ -1,0 +1,53 @@
+id: rev-2026-09-19-lote-340-fila-do-contraditorio-2
+kind: revision
+date: '2026-09-19'
+published_at: '2026-09-19T08:52:19-03:00'
+title: 'Lote 340 — fila do contraditório, segunda rodada: seis manifestações localizadas, uma corrigida
+  internamente'
+summary: 'Segunda rodada da fila de contraditório (19 nomes de grau 5 e 4 sem posição citada). Busca
+  dirigida, com toda alegação de WebSearch conferida por WebFetch direto na fonte antes de publicar — dois
+  falsos positivos descartados nesse processo (um artigo do Senado sobre Carlos Viana era de outra
+  controvérsia, sem relação com o Banco Master; um resumo de busca atribuiu a David Lopes Monteiro uma
+  nota que, conferida na fonte, pertencia a Valério Marega Júnior). Cinco manifestações novas: Angelo
+  Ribeiro da Silva — mesmo padrão de Alberto Félix Oliveira (lote 339), defesa alegou falta de acesso aos
+  autos para adiar depoimento (27/01/2026). Cláudio Castro — por seu advogado, acompanhava as buscas de
+  26/05/2026 "com serenidade", sem acesso ainda às decisões. Valério Marega Júnior — nega ter participado
+  do negócio do apartamento do Poème Horto; diz ter sido só consultado e respondido negativamente
+  (19/06/2026). Plínio Valério — nega que Jaques Wagner tenha atuado para que aceitasse a "Emenda
+  Master" como relator da PEC 65/2023 (18/06/2026). Bonnie Toaldo Bonilha — a fonte já citada no acervo
+  (18/03/2026) ganhou a citação verbatim do advogado da empresa, antes resumida. Uma correção interna,
+  sem busca nova: o verbete de Felipe Cançado Vorcaro já registrava, desde antes desta auditoria, a defesa
+  dele no PAS da CVM sobre o Brazil Realty FII — só não estava refletida em `cited_position`, que
+  registrava "não localizada" por engano. Nos demais oito nomes (Andréa Lima Novaes, Eduardo Mendonça
+  Sodré Martins, José Milton Afonso Gonçalves, Vicente Conte Neto, Alberto Samuel Alcolumbre Tobelem,
+  Alex Grangeon Trancoso Neves, Daniel de Faria Jerônimo Leite, David Lopes Monteiro, Gustavo Cleto
+  Marsiglia, Jackson Rubens de Oliveira, Carlos Viana) busca dedicada não confirmou manifestação
+  específica sobre o que os traz ao acervo — permanece "não localizada". Luiz Fux e Cristiano Zanin, por
+  atuarem como julgadores institucionais e não como acusados, ficam fora do escopo real do contraditório;
+  registrado aqui, não alterado nos verbetes.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 4
+  evidence: 0
+updated_relationships: 0
+corrections:
+- O verbete de Felipe Cançado Vorcaro tinha cited_position "não localizada" por engano — a defesa dele
+  já estava descrita no corpo do verbete desde antes desta auditoria; corrigido para refletir o que já
+  era conhecido.
+author: orquestrador
+affected_ids:
+- angelo-ribeiro-da-silva
+- claudio-castro
+- valerio-marega-junior
+- plinio-valerio
+- bonnie-toaldo-bonilha
+- felipe-cancado-vorcaro
+reason: Continuação da fila de contraditório do lote 338/339, pedida por Rafael Fausel — os próximos 19
+  por grau.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'

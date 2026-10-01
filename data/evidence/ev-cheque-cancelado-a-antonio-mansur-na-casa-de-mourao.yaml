@@ -1,0 +1,21 @@
+id: ev-cheque-cancelado-a-antonio-mansur-na-casa-de-mourao
+kind: evidence
+classification: I
+proposition: Entre os documentos apreendidos na residência de Luiz Phillipi Mourão em 04/03/2026, havia um cheque
+  do Banco Itaú, no valor de R$ 1.802.200,00, da empresa Del Rei S. Adm. Ltda., nominal a uma pessoa identificada
+  apenas como 'Antônio Mansur', com inscrição 'cancelado'.
+document_ids:
+- doc-2026-03-04-termos-de-apreensao-3a-fase-relatorios-diligencia
+source_ids:
+- src-stf-pet15562-autos-pecas
+inference_basis: 'O documento apreendido nomeia apenas ''Antônio Mansur'', sem CPF nem outro dado de qualificação
+  no material lido. O que NÃO se conclui: não há, no material lido, qualquer elemento que identifique essa pessoa
+  com João Carlos Falbo Mansur, já conhecido do acervo por outra frente (acionista do BRB, delação premiada) — a
+  coincidência de sobrenome não basta, e o acervo registra os dois como pessoas distintas até que apareça documento
+  que os identifique.'
+date: '2026-03-04'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

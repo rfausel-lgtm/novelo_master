@@ -1,0 +1,40 @@
+id: rev-2026-09-19-lote-342-tcdf-e-cpi-do-brb
+kind: revision
+date: '2026-09-19'
+published_at: '2026-09-19T09:35:02-03:00'
+title: 'Lote 342 — o TCDF entra no acervo: duas frentes abertas contra o BRB, a CPI parada, e os
+  acionistas contra os ex-gestores'
+summary: 'Fecha a lacuna mais barata identificada no relatório do lote 338: o Tribunal de Contas do
+  Distrito Federal, órgão de controle externo do BRB, não tinha nenhuma ocorrência no acervo. Ganha
+  verbete e duas relações datadas com o BRB: o processo nº 00600-00003617/2025-75, aberto em 19/11/2025
+  por denúncia do MPC-DF (com representação também de parlamentar da CLDF) sobre se a compra de carteiras
+  do Master pelo BRB contornou restrição do Banco Central; e a Decisão nº 1.687/2026 (20/08/2026), que
+  suspendeu a apreciação das contas de 2025 do governo do DF até o BRB entregar balanço financeiro
+  auditado — o banco não divulga balanço desde novembro de 2025. Resolve em parte dois dos três
+  open_questions que o verbete do BRB já tinha: (1) responsabilização de dirigentes — em 24/08/2026, os
+  acionistas do BRB autorizaram, em assembleia, ação judicial contra ex-gestores pelas perdas com o
+  Master (art. 159 da Lei 6.404/76), citando nominalmente só Paulo Henrique Costa; (2) a CPI na CLDF,
+  pedida em fevereiro/2026, seguia em março com 7 das 8 assinaturas necessárias (faltava a do deputado
+  Thiago Manzoni) — busca em 19/09/2026 não confirma instalação efetiva até hoje. Terceiro
+  open_question (destino do provisionamento de R$ 2,6 bi sob risco de intervenção) segue sem fonte
+  nova.'
+added:
+  people: 0
+  organizations: 1
+  events: 1
+  documents: 2
+  relationships: 3
+  sources: 4
+  evidence: 0
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- tribunal-de-contas-do-distrito-federal
+- banco-de-brasilia-brb
+- camara-legislativa-do-distrito-federal
+- paulo-henrique-costa
+reason: Continuação das frentes de fronteira do lote 338 (F1, BRB×TCDF) — pedida por Rafael Fausel.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'

@@ -9,22 +9,30 @@ positions:
   source_ids:
   - src-senado-pec-65-2023-materia
 summary: Senador pelo Amazonas, relator da PEC 65/2023 (autonomia do Banco Central). Segundo o Poder360,
-  rejeitou a Emenda nº 11, de Ciro Nogueira, que ampliava a cobertura do FGC; a emenda não avançou.
+  rejeitou a Emenda nº 11, de Ciro Nogueira, que ampliava a cobertura do FGC; a emenda não avançou. Em
+  18/06/2026, negou publicamente que Jaques Wagner tivesse atuado para que ele acatasse a emenda.
 why_in_novelo: É o relator da PEC 65/2023, à qual foi apresentada a emenda sobre o FGC citada pela Polícia
   Federal.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  summary: 'Nega que Jaques Wagner tenha atuado para que ele, como relator, acatasse a "Emenda Master":
+    "Em nenhum momento o senador Jaques Wagner sequer tocou nesse assunto comigo. A emenda foi rejeitada
+    de pronto por não guardar relação com a matéria."'
+  source_ids:
+  - src-brasil247-2026-06-18-plinio-valerio-nega-wagner-emenda-master
+  by_id: plinio-valerio
+  date: '2026-06-18'
 open_questions: []
 source_ids:
 - src-senado-pec-65-2023-materia
 - src-poder360-2026-05-07-emenda-fgc
 - src-senado-2026-06-10-ccj-pec-65-autonomia
+- src-brasil247-2026-06-18-plinio-valerio-nega-wagner-emenda-master
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-19'
 photo:
   path: /fotos/plinio-valerio.jpg
   source: Wikimedia Commons

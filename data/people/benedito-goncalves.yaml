@@ -4,22 +4,36 @@ name: Benedito Gonçalves
 category: judge
 role: Ministro do Superior Tribunal de Justiça
 positions: []
-summary: Ministro do STJ. Segundo o Poder360, com base em documentos encaminhados pela PF à CPMI do INSS,
+summary: 'Ministro do STJ. Segundo o Poder360, com base em documentos encaminhados pela PF à CPMI do INSS,
   participou da degustação de uísque no George Club, em Londres, em 25/04/2024, evento pago por Vorcaro
-  durante fórum patrocinado pelo Banco Master.
+  durante fórum patrocinado pelo Banco Master. NOVO (19/09/2026): mensagens do celular de Vorcaro,
+  publicadas em 18/09/2026, mostram proximidade pessoal entre os dois — em 17/05/2024, Benedito escreveu
+  "Boa noite feliz em rever o amigo. Festa bonita! Parabéns!"; em 02/07/2024, ao ser chamado por Vorcaro
+  de "grande amigo" e convidado para um encontro em Brasília, respondeu "E aqui sempre à disposição",
+  com emoji "Tamo junto sempre". No primeiro semestre de 2026, declarou-se impedido de julgar causas do
+  Banco Master no STJ — sem que a reportagem detalhe data exata ou teor da declaração.'
 why_in_novelo: É listado pela imprensa, com base em documentos enviados pela PF à CPMI do INSS, entre
-  os participantes de evento em Londres pago por Daniel Vorcaro.
+  os participantes de evento em Londres pago por Daniel Vorcaro — e mensagens do celular do banqueiro
+  mostram proximidade pessoal declarada entre os dois, ao ponto de o ministro se declarar impedido de
+  julgar causas do Master no STJ.
 cited_position:
-- kind: not_located
-  summary: Posição não localizada em fonte verificada do corpus.
-open_questions: []
+- kind: no_response
+  summary: Procurado pela reportagem via assessorias do STJ e do CNJ, por WhatsApp, às 13h15 de
+    15/09/2026, não comentou até a publicação de 18/09/2026.
+  source_ids:
+  - src-jornaldebrasilia-2026-09-18-benedito-goncalves-mensagens-vorcaro
+  date: '2026-09-15'
+open_questions:
+- Data exata e teor da declaração de impedimento no STJ, referida apenas como "no primeiro semestre de
+  2026", não apurados.
 source_ids:
 - src-poder360-2026-03-10-degustacao-londres
+- src-jornaldebrasilia-2026-09-18-benedito-goncalves-mensagens-vorcaro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-19'
 photo:
   path: /fotos/benedito-goncalves.jpg
   source: Wikimedia Commons

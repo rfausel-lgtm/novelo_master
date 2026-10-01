@@ -4,21 +4,30 @@ name: CLDF
 aliases: []
 org_type: public_body
 summary: Câmara Legislativa do Distrito Federal. Aprovou em 19/08/2025 o PL 1882/2025 (14 a 7) autorizando
-  o BRB a adquirir participação no Banco Master, após reunião fechada com o presidente do BRB.
-why_in_novelo: Aprovou a autorização legislativa para o BRB comprar participação no Banco Master.
+  o BRB a adquirir participação no Banco Master, após reunião fechada com o presidente do BRB. Deputados
+  do PL protocolaram, em março de 2026, requerimento de CPI para investigar governança, diligência prévia
+  e processo decisório da negociação BRB-Master entre janeiro de 2024 e março de 2026 — colegiado previsto
+  de 7 membros, prazo de 180 dias. Em 06/03/2026, o requerimento tinha 7 das 8 assinaturas mínimas
+  necessárias, faltando a do deputado Thiago Manzoni (PL). Busca em 19/09/2026 não confirma instalação
+  efetiva da CPI até essa data.
+why_in_novelo: Aprovou a autorização legislativa para o BRB comprar participação no Banco Master, e é a
+  casa onde tramita, sem instalação confirmada até esta coleta, o pedido de CPI sobre o caso.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+open_questions:
+- Se e quando o requerimento de CPI completou as 8 assinaturas e foi formalmente instalado não foi
+  confirmado por fonte localizada até 19/09/2026.
 source_ids:
 - src-cldf-2025-08-19-autoriza-brb-comprar-master
+- src-metropoles-2026-03-06-cpi-master-cldf-manzoni
 full_name: Câmara Legislativa do Distrito Federal
 jurisdiction: Distrito Federal
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-19'
 photo:
   path: /fotos/camara-legislativa-do-distrito-federal.png
   source: Wikimedia Commons

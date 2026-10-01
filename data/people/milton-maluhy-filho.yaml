@@ -13,13 +13,21 @@ summary: Executivo bancário, CEO do Itaú Unibanco desde 2021. Segundo a decis�
 why_in_novelo: CEO de banco apontado, em decisão judicial da Operação Compliance Zero, como alvo de levantamento
   de dados pessoais e patrimoniais encomendado por Daniel Vorcaro.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: public_note
+  summary: 'Comentando a liquidação do Master e do Will Bank, em resultado trimestral do Itaú, classificou
+    o episódio como evento de magnitude relevante — rombo de R$ 55 bilhões no FGC — e disse que "o FGC terá
+    de ser recapitalizado, o que deve gerar custos para toda a sociedade", atribuindo parte da responsabilidade
+    às plataformas de investimento que distribuíram CDBs do Master.'
+  source_ids:
+  - src-forbes-2026-02-05-maluhy-plataformas-responsaveis
+  by_id: milton-maluhy-filho
+  date: '2026-02-05'
 open_questions: []
 source_ids:
 - src-poder360-2026-07-09-integra-decisao-thiago-miranda
+- src-forbes-2026-02-05-maluhy-plataformas-responsaveis
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-19'

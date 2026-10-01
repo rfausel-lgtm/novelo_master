@@ -1,0 +1,100 @@
+import { createHash } from "node:crypto";
+
+/**
+ * Tipos e utilidades comuns da auditoria noturna (docs/AUDITORIA_NOTURNA.md).
+ *
+ * A camada determinística só RELATA: nada aqui escreve em `data/`, commita ou publica.
+ */
+
+export type Gravidade = "alta" | "media" | "baixa";
+
+export interface Achado {
+  /** Identidade estável do achado: mesma entrada → mesmo id, para o runner comparar noites. */
+  id: string;
+  categoria: string;
+  gravidade: Gravidade;
+  /** Caminho relativo à raiz do repositório, sempre com barra normal. */
+  arquivo: string;
+  linha?: number;
+  /** Id do registro do acervo, quando o achado é sobre um registro. */
+  registro?: string;
+  mensagem: string;
+  /**
+   * Amostra do que foi encontrado, SEM o valor original. Só existe nos achados de dado
+   * pessoal, e o contrato está descrito em `lgpd.ts`: nenhum caractere do trecho casado
+   * entra aqui.
+   */
+  evidencia_mascarada?: string;
+}
+
+export interface StatusVerificacao {
+  nome: string;
+  comando?: string;
+  status: "ok" | "falhou" | "pulada";
+  codigo?: number;
+}
+
+export interface ResumoLinks {
+  verificados: number;
+  do_cache: number;
+  ok: number;
+  redirecionados: number;
+  mortos: number;
+  bloqueados: number;
+  erro_rede: number;
+  erro_servidor: number;
+  recusados: number;
+  nao_verificados: number;
+}
+
+export interface Relatorio {
+  gerado_em: string;
+  resumo: {
+    achados: number;
+    por_gravidade: Record<Gravidade, number>;
+    por_categoria: Record<string, number>;
+    registros: Record<string, number>;
+    verificacoes: StatusVerificacao[];
+    links?: ResumoLinks;
+  };
+  achados: Achado[];
+}
+
+const ORDEM_GRAVIDADE: Record<Gravidade, number> = { alta: 0, media: 1, baixa: 2 };
+
+/**
+ * Id do achado: hash curto de categoria, arquivo, linha, registro e mensagem.
+ *
+ * Nunca entra aqui o valor casado por um padrão de dado pessoal — só o TIPO do achado,
+ * que já está na mensagem. Ver o contrato em `lgpd.ts`.
+ */
+export function idDoAchado(partes: (string | number | undefined)[]): string {
+  return createHash("sha256")
+    .update(partes.map((p) => (p === undefined ? "" : String(p))).join("\u0000"))
+    .digest("hex")
+    .slice(0, 12);
+}
+
+export function novoAchado(a: Omit<Achado, "id">): Achado {
+  return {
+    id: idDoAchado([a.categoria, a.arquivo, a.linha, a.registro, a.mensagem]),
+    ...a,
+  };
+}
+
+/** Ordem total e estável: gravidade, categoria, arquivo, linha, id. */
+export function ordenarAchados(achados: Achado[]): Achado[] {
+  return [...achados].sort(
+    (a, b) =>
+      ORDEM_GRAVIDADE[a.gravidade] - ORDEM_GRAVIDADE[b.gravidade] ||
+      a.categoria.localeCompare(b.categoria, "pt-BR") ||
+      a.arquivo.localeCompare(b.arquivo, "pt-BR") ||
+      (a.linha ?? 0) - (b.linha ?? 0) ||
+      a.id.localeCompare(b.id),
+  );
+}
+
+/** Caminho do arquivo de um registro do acervo, relativo à raiz do repositório. */
+export function arquivoDoRegistro(colecao: string, id: string): string {
+  return `data/${colecao}/${id}.yaml`;
+}

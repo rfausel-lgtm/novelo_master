@@ -10,21 +10,31 @@ positions:
   - src-senado-2026-04-14-cpi-crime-organizado-sem-relatorio
 summary: Relator da CPI do Crime Organizado. Seu relatório final, que pedia o indiciamento por crimes
   de responsabilidade de Toffoli, Moraes, Gilmar Mendes e Gonet, foi rejeitado por 6 a 4 em 14/04/2026.
-  Coautor da PEC 65/2023.
+  No mesmo dia, Gilmar Mendes acionou a PGR pedindo a investigação dele por suposto abuso de autoridade,
+  em razão das conclusões do relatório contra o próprio ministro. Coautor da PEC 65/2023.
 why_in_novelo: Relatou a CPI do Crime Organizado, cujo relatório sobre o caso Master foi rejeitado, e
   é coautor da PEC 65/2023.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+- kind: clarification
+  summary: 'Ao pedido de investigação de Gilmar Mendes na PGR, respondeu que reagiria "com absoluta
+    tranquilidade" e que "ameaças e tentativas de constrangimento não vão mudar o curso da história" —
+    sustentando estar protegido por imunidade parlamentar, já que avaliação jurídica em voto de CPI não
+    configura abuso de autoridade.'
+  source_ids:
+  - src-gazetadopovo-2026-04-15-alessandro-vieira-reage-gilmar
+  by_id: alessandro-vieira
+  date: '2026-04-15'
+open_questions:
+- Desfecho da representação de Gilmar Mendes na PGR contra ele não apurado pela equipe.
 source_ids:
 - src-senado-2026-04-14-cpi-crime-organizado-sem-relatorio
 - src-senado-pec-65-2023-materia
+- src-gazetadopovo-2026-04-15-alessandro-vieira-reage-gilmar
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-09-19'
 photo:
   path: /fotos/alessandro-vieira.jpg
   source: Wikimedia Commons

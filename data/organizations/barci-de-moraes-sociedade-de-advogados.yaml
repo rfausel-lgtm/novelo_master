@@ -44,8 +44,13 @@ open_questions:
   que está fora do seu escopo declarado e não pode ser tratada como lacuna incriminatória.'
 - Os dois contratos e o termo de dação em pagamento foram lidos pela equipe nos autos da PET 16.662; o
   corpus não sabe quanto foi efetivamente pago sob cada instrumento.
-- Não se apurou se a transferência das participações societárias prevista no termo de dação chegou a ser
-  efetivada nos registros das sociedades.
+- 'RESOLVIDO EM PARTE (19/09/2026): consulta direta ao cadastro de CNPJ mostra que o quadro de sócios da
+  Fraction 024 (proprietária do jato Legacy 650) segue registrando os mesmos dois sócios desde 13/05/2021
+  — Marcus Vinícius da Mata e Artur Martins de Figueiredo, este último já conhecido do acervo pela rede
+  Trustee/Banvox de Maurício Quadrado. Nem Viviane Barci de Moraes nem o escritório constam em nenhuma
+  data. Isso não prova que nenhuma cessão tenha ocorrido — o próprio termo vinculava a dação à conclusão
+  dos serviços e vedava alienação sem autorização prévia —, mas indica que a transferência formal não foi
+  registrada, ao menos até esta data.'
 source_ids:
 - src-poder360-2026-03-09-nota-barci
 - src-poder360-2026-09-01-integras-pet-16662
@@ -54,9 +59,10 @@ source_ids:
 - src-cnn-2026-04-master-304-milhoes-a-advogados
 - src-metropoles-escritorio-moraes-master-rpps
 - src-stf-pet-16662-autos-integrais
+- src-minhareceita-fraction024-qsa-2026-09-19
 full_name: Barci de Moraes Sociedade de Advogados
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-05'
+updated_at: '2026-09-19'

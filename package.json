@@ -18,6 +18,8 @@
     "data:stress": "tsx scripts/synth-stress.ts",
     "data:published-at": "tsx scripts/revisions-published-at.ts",
     "scan:secrets": "tsx scripts/scan-secrets.ts",
+    "auditoria": "tsx scripts/auditoria.ts",
+    "auditoria:selecao": "tsx scripts/auditoria-selecao.ts",
     "social:add": "tsx scripts/social-add.ts",
     "social:cards": "tsx scripts/social-card.ts",
     "social:check": "tsx scripts/social-check.ts",

@@ -12,8 +12,14 @@ summary: Autor do requerimento de CPMI do Banco Master protocolado em 03/02/2026
   deputados, conforme a Agência Senado.
 why_in_novelo: É o autor do requerimento de criação da CPMI do Banco Master.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: public_note
+  summary: 'Ao confirmar 280 assinaturas para o requerimento — recorde, superando as 223 da CPMI dos
+    Correios —, disse: "Muitas CPMIs sequer atingem o terço necessário, mas consegui muito mais do que
+    preciso", e que a comissão deve investigar "doa a quem doer".'
+  source_ids:
+  - src-revistaoeste-2026-02-03-jordy-280-assinaturas-cpmi
+  by_id: carlos-jordy
+  date: '2026-02-03'
 open_questions:
 - Apresentou, com outros deputados (Adriana Ventura, Caroline de Toni), representação à PGR em janeiro
   de 2026 pedindo o afastamento do ministro Dias Toffoli da relatoria do caso Master, citando o voo a
@@ -21,11 +27,12 @@ open_questions:
 source_ids:
 - src-congressoemfoco-2026-01-23-pgr-arquiva-pedido-tirar-toffoli-relatoria
 - src-senado-2026-02-03-cpmi-protocolada
+- src-revistaoeste-2026-02-03-jordy-280-assinaturas-cpmi
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-09-19'
 photo:
   path: /fotos/carlos-jordy.jpg
   source: Wikimedia Commons

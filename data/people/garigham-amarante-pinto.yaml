@@ -1,0 +1,31 @@
+id: garigham-amarante-pinto
+kind: person
+name: Garigham Amarante Pinto
+category: public_official
+role: Servidor da Câmara dos Deputados; apontado pela PF como um dos executores do esquema de emendas
+  de Valdemar Costa Neto (Operação Transparência)
+summary: Servidor da Câmara dos Deputados apontado pela Polícia Federal, ao lado de Mariângela Fialek e
+  de Nara Brum, como integrante do "arranjo funcional informal" que operacionalizava, dentro da Câmara,
+  indicações de emendas parlamentares em nome de Valdemar Costa Neto (presidente do PL, sem mandato) —
+  ao menos 21 emendas, R$ 119,2 milhões, dos quais cerca de R$ 104 milhões já pagos quando o ministro
+  Flávio Dino determinou o bloqueio em 10/07/2026. O corpus não tem, até esta coleta, o cargo exato dele
+  na Câmara nem histórico funcional equivalente ao levantado para Fialek.
+why_in_novelo: Coexecutor, apontado pela PF, do mesmo esquema de emendas que rendeu o bloqueio de R$
+  119,2 milhões de Valdemar Costa Neto — mesma base documental que já sustenta o verbete de Mariângela
+  Fialek.
+cited_position:
+- kind: not_located
+  summary: Manifestação pública dele sobre as acusações não localizada até esta coleta.
+open_questions:
+- Cargo, lotação e histórico funcional na Câmara dos Deputados não apurados pela equipe — o corpus só
+  tem o nome, tal como citado pela decisão de Flávio Dino e pela PF.
+- Se responde a inquérito ou procedimento próprio, distinto do que atinge Fialek, não está esclarecido
+  nas fontes lidas.
+source_ids:
+- src-migalhas-2026-07-10-dino-bloqueia-119-milhoes-valdemar
+- src-jovempan-2026-07-10-fialek-proibida-segue-nomeada-camara
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'

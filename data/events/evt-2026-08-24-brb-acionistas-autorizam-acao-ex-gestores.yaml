@@ -1,0 +1,27 @@
+id: evt-2026-08-24-brb-acionistas-autorizam-acao-ex-gestores
+kind: event
+title: Acionistas do BRB autorizam ação judicial contra ex-gestores pelas perdas com o Banco Master
+event_type: corporate_act
+date: '2026-08-24'
+date_precision: day
+participant_ids:
+- banco-de-brasilia-brb
+- paulo-henrique-costa
+description: Em assembleia geral extraordinária, os acionistas do BRB aprovaram, com base no art. 159
+  da Lei 6.404/1976, autorização processual para acionar judicialmente ex-gestores do banco pelas perdas
+  nas operações com o Banco Master — R$ 30 bilhões em transações totais, cerca de R$ 8,8 bilhões em
+  ativos estimados como problemáticos. Só Paulo Henrique Costa, ex-presidente à época das operações, é
+  nominalmente citado; outros "ex-gestores" não são identificados individualmente. O banco frisou que a
+  autorização não constitui "definição prévia de responsabilidade".
+evidence_class: A
+status: unverified
+evidence_ids: []
+source_ids:
+- src-otempo-2026-08-24-brb-acionistas-acionar-justica-ex-gestores
+document_ids: []
+public_act_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'

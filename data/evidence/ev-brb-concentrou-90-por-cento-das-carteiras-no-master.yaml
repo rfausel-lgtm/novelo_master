@@ -1,0 +1,17 @@
+id: ev-brb-concentrou-90-por-cento-das-carteiras-no-master
+kind: evidence
+classification: A
+proposition: Segundo laudo pericial da PF de 13/08/2026, o BRB chegou a concentrar 90,3% de suas carteiras de crédito
+  adquiridas de outras instituições no Banco Master, com pico de R$ 19,8 bilhões em junho de 2025, dentro de um
+  universo analisado de R$ 17,5 bilhões em operações.
+document_ids:
+- doc-2026-08-13-laudo-pericial-pf-brb-master-gestao-fraudulenta
+source_ids:
+- src-tribunadosertao-2026-09-11-pericia-pf-brb-903-carteiras-master
+attributed_to: Perícia da Polícia Federal, Operação Compliance Zero
+date: '2026-08-13'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

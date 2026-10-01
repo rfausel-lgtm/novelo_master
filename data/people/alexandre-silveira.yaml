@@ -7,29 +7,47 @@ positions:
 - title: Ministro de Minas e Energia
   source_ids:
   - src-metropoles-2026-08-vorcaro-ministros-lula-venda-master
-summary: Ministro de Minas e Energia do governo Lula. Em conversa com jornalista, em 19/08/2025, durante
+summary: 'Ministro de Minas e Energia do governo Lula. Em conversa com jornalista, em 19/08/2025, durante
   a negociação da venda do Banco Master ao BRB, Daniel Vorcaro foi questionado sobre quais nomes do governo
   apoiavam a operação e respondeu "Rui, Jaques, Alexandre Silveira" — ao lado de Rui Costa e Jaques Wagner.
   A Polícia Federal incluiu a mensagem em relatório entregue a André Mendonça para sustentar o pedido de
   busca e apreensão contra Wagner. Silveira não é investigado nem citado como alvo de qualquer apuração
-  do caso Master por este ou qualquer outro fato.
+  do caso Master por este ou qualquer outro fato. NOVO (19/09/2026): segundo proposta de colaboração de
+  Vorcaro, ainda não aceita pelas autoridades, ele teria financiado a campanha de Silveira ao Senado em
+  2022 com cerca de R$ 20 milhões não contabilizados — alegação do próprio delator, sem registro
+  correspondente no TSE localizado pela imprensa. Reportagem relata ainda que, em ligação telefônica de
+  27 de outubro, Vorcaro disse à namorada estar recebendo em casa um ministro e "Duda" (Eduardo
+  Wanderley) — o que ele disse à namorada, não um fato confirmado por outra fonte.'
 why_in_novelo: Foi nomeado por Daniel Vorcaro, em mensagem citada pela PF, como uma das autoridades do
-  governo Lula favoráveis à venda do Master ao BRB.
+  governo Lula favoráveis à venda do Master ao BRB, e depois, em proposta de colaboração ainda não
+  aceita, como suposto destinatário de doação de campanha não contabilizada.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública dele sobre a citação foi localizada pela equipe.
+- kind: denial
+  summary: 'O Ministério de Minas e Energia, em nota, negou qualquer irregularidade: "O ministro Alexandre
+    Silveira rechaça, de forma categórica, quaisquer ilações que associem agendas institucionais ou
+    compromissos pessoais a interesses indevidos", afirmando que ele mantém interações com agentes
+    públicos e privados "dentro da normalidade institucional", sem favorecimento.'
+  source_ids:
+  - src-jornaldebrasilia-2026-04-23-silveira-mme-nota-reuniao
+  by: Ministério de Minas e Energia (nota institucional)
+  date: '2026-04-23'
 open_questions:
-- A menção é isolada, feita por Vorcaro a um jornalista, sem qualquer ato, mensagem ou conduta atribuída
-  a Silveira além de ser nomeado como alguém que, na percepção do banqueiro, apoiava a venda — o corpus
-  não localizou qualquer outro elemento que o vincule ao caso.
+- A menção original é isolada, feita por Vorcaro a um jornalista, sem qualquer ato, mensagem ou conduta
+  atribuída a Silveira além de ser nomeado como alguém que, na percepção do banqueiro, apoiava a venda.
+- Não localizado registro no TSE de qualquer transferência de Vorcaro ou do Master à campanha de Silveira
+  em 2022 — a alegação de R$ 20 milhões não contabilizados vem só da proposta de colaboração, ainda não
+  aceita.
+- Não confirmada, por fonte independente do relato de Vorcaro à namorada, a reunião de 27 de outubro em
+  sua casa.
 source_ids:
 - src-metropoles-2026-08-vorcaro-ministros-lula-venda-master
 - src-bnews-2026-09-12-wagner-favor-master-vantagens-luxo
+- src-jornaldebrasilia-2026-04-23-silveira-mme-nota-reuniao
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-13'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-13'
-updated_at: '2026-09-14'
+updated_at: '2026-09-19'
 photo:
   path: /fotos/alexandre-silveira.jpg
   source: Wikimedia Commons

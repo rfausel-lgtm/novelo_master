@@ -7,6 +7,11 @@ category: public_official
 role: Secretário-Executivo da SP Regula (Agência Reguladora de Serviços Públicos do Município de São
   Paulo)
 positions:
+- title: Gerente
+  organization_id: sp-regula
+  start_date: '2024-02'
+  source_ids:
+  - src-em-2026-09-10-irmao-mendonca-promovido-sp-regula
 - title: Superintendente
   organization_id: sp-regula
   start_date: '2024-07'
@@ -17,23 +22,36 @@ positions:
   start_date: '2026-05-26'
   source_ids:
   - src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
-summary: Irmão do Min. André Mendonça. Nomeado Superintendente da SP Regula em julho/2024, atuando na área
-  funerária e cemiterial, e promovido a Secretário-Executivo da agência em 26/05/2026 — durante a
-  pendência do julgamento da cautelar sobre preços dos serviços funerários de São Paulo, cautelar essa em
-  que seu irmão votou contra a posição do relator, Min. Flávio Dino, e a favor das concessionárias privadas
-  (incluindo a Cortel SP).
+summary: 'Irmão do Min. André Mendonça. Entrou na SP Regula como gerente em fevereiro de 2024, foi nomeado
+  Superintendente em julho/2024 — atuando na área funerária e cemiterial — e promovido a Secretário-Executivo
+  da agência, segundo a decisão de Dino, em 26/05/2026; matéria de imprensa de 10/09/2026 (não conferida
+  contra o Diário Oficial) situa a mesma promoção em julho de 2026 — divergência de data entre fontes não
+  reconciliada. Tudo isso durante a pendência do julgamento da cautelar sobre preços dos serviços
+  funerários de São Paulo, cautelar essa em que seu irmão votou contra a posição do relator, Min. Flávio
+  Dino, e a favor das concessionárias privadas (incluindo a Cortel SP).'
 why_in_novelo: A decisão do Min. Dino na ADPF 1.196 (15/09/2026) registra sua posição na agência municipal
   que regula os serviços funerários de SP como um dos pontos de "convergência temporal" a esclarecer, ao
   lado do encontro Mendonça-Vorcaro e dos contratos do Instituto ITER — sem afirmar relação causal.
 cited_position:
-- kind: not_located
-  summary: Manifestação pública dele sobre o tema não localizada até esta coleta.
+- kind: denial
+  summary: 'Manifestação pública dele mesmo não localizada; a Prefeitura de São Paulo, em nota, chamou de
+    "irresponsável e sem fundamento" insinuar relação entre o voto do ministro André Mendonça no STF e a
+    carreira do irmão na SP Regula, afirmando que ele foi contratado por processo seletivo em 2024
+    (currículos, histórico, entrevistas) e sempre exerceu funções administrativas, "sem qualquer
+    responsabilidade direta pela gestão dos contratos de concessão".'
+  source_ids:
+  - src-em-2026-09-10-irmao-mendonca-promovido-sp-regula
+  date: '2026-09-10'
 open_questions:
-- Processo seletivo/critério de nomeação e promoção na SP Regula não apurado por esta equipe.
+- Processo seletivo/critério de nomeação e promoção na SP Regula não apurado por esta equipe além da nota
+  da Prefeitura.
+- Divergência de data entre a decisão de Dino (26/05/2026) e a imprensa (julho de 2026) sobre a promoção
+  a Secretário-Executivo, não reconciliada.
 source_ids:
 - src-stf-adpf1196-decisao-15-09-2026-zettel-cortel-mendonca
+- src-em-2026-09-10-irmao-mendonca-promovido-sp-regula
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-15'
-updated_at: '2026-09-15'
+updated_at: '2026-09-19'

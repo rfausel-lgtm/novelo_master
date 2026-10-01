@@ -8,23 +8,36 @@ url: https://www.gov.br/cvm/pt-br/assuntos/noticias/anexos/2025/20251125-pas-cvm
 source_type: official_regulator
 summary: 'Relatório (24/11/2025, 26 pp.) e voto (25/11/2025, 22 pp.) do processo sancionador sobre as compras de
   cotas do fundo Brazilian Graveyard and Death Care Services (CARE11) pela Cortel Holding entre março e maio de
-  2022. Dispositivo: condenação de Roberto Coutinho Schumann (R$ 2.127.992,80) e Marcio Coutinho Schumann
-  (R$ 54.048,02) por prática não equitativa; absolvição da Cortel e de Roberto Schumann da acusação de
-  manipulação de preços e de Roberto da acusação de operação fraudulenta; comunicação ao MPF. Registra que o
-  conselho de administração da Cortel acompanhou a operação, citando e-mail de um conselheiro identificado pelas
-  iniciais V.C.N.; e, na síntese das defesas, que o CARE11 detinha 20% da Cortel (54% do patrimônio do fundo) e
-  era gerido pela Zion Gestão de Recursos, ligada à Zion Capital, acionista relevante da Cortel que indicara
-  V.C.N. ao conselho.'
+  2022. Acusados nomeados por extenso no cabeçalho do voto: Cortel Holding S.A., Marcio Coutinho Schumann,
+  Priscila Oliveira Gomes (companheira de Roberto Schumann) e Roberto Coutinho Schumann. Dispositivo: condenação
+  de Roberto Coutinho Schumann (R$ 2.127.992,80, somando os ganhos apurados em nome próprio — R$ 471.904,93 — e
+  em nome de Priscila Gomes — R$ 265.717,32, atualizados pelo IPCA) e Marcio Coutinho Schumann (R$ 54.048,02,
+  sobre ganho de R$ 18.734,57) por prática não equitativa (2,5 vezes o ganho indevido); absolvição de Priscila
+  Gomes de toda imputação (SMI não provou que soubesse ou autorizasse as ordens feitas em seu nome, ainda que a
+  conta fosse operada por Roberto); absolvição da Cortel e de Roberto Schumann da acusação de manipulação de
+  preços — não por ausência de indícios, mas por dúvida razoável, que a relatora resolve em favor dos acusados
+  (in dubio pro reo); absolvição de Roberto da acusação de operação fraudulenta (o uso da conta de Priscila, ainda
+  que configurasse ardil, seria só acessório à prática não equitativa já punida, não fraude autônoma);
+  comunicação ao MPF-RS. Registra que o conselho de administração da Cortel acompanhou a operação, tendo
+  contratado escritório de advocacia externo antes de aprovar a estratégia (reunião de 04/03/2022) — base da
+  absolvição da própria Cortel —, e cita e-mail de um conselheiro identificado pelas iniciais V.C.N. cobrando
+  regras de negociação para administradores; e, na síntese das defesas, que o CARE11 detinha 20% da Cortel (54%
+  do patrimônio do fundo) e era gerido pela Zion Gestão de Recursos, ligada à Zion Capital, acionista relevante
+  da Cortel que indicara V.C.N. ao conselho. Transcreve conversas entre Roberto Schumann e "F.G." (pessoa
+  vinculada à Zion Invest) sobre os preços-alvo das ordens.'
 notes: 'Relatório disponível em https://www.gov.br/cvm/pt-br/assuntos/noticias/anexos/2025/20251124-pas-cvm-19957-013886-2022-02-relatorio-diretora-marina-copola.pdf.
-  Ambos lidos por esta sessão (texto extraído dos PDFs oficiais). A CVM usa só iniciais para terceiros; a
-  correspondência entre V.C.N. e Vicente Conte Neto vem da imprensa (O Bastidor), não do documento.'
+  Ambos lidos por esta sessão (texto extraído dos PDFs oficiais), e o voto relido por inteiro em 19/09/2026. A
+  CVM usa só iniciais para terceiros que não são partes do processo (ex.: V.C.N., F.G.) — mas os quatro
+  ACUSADOS, incluindo Priscila Gomes, são nomeados por extenso no próprio cabeçalho do voto, por serem parte
+  formal do PAS, não terceiros incidentais; a correspondência entre V.C.N. e Vicente Conte Neto continua vindo
+  da imprensa (O Bastidor), não do documento.'
 verification:
-  checked_at: '2026-09-15'
-  checked_by: orquestrador (leitura direta dos PDFs da CVM)
+  checked_at: '2026-09-19'
+  checked_by: orquestrador (leitura direta do PDF da CVM, relido por inteiro)
   url_reachable: true
   content_matches_summary: true
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-09-19'
 created_at: '2026-09-15'
-updated_at: '2026-09-15'
+updated_at: '2026-09-19'

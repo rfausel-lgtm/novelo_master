@@ -19,13 +19,20 @@ why_in_novelo: Conduz, como presidente da CAE, uma linha própria de apuração 
   Master — distinta da CPI do Crime Organizado — que já produziu ao menos um confronto público direto com
   o presidente do Banco Central.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública dele especificamente sobre o pedido de depoimento de Vorcaro foi
-    localizada no corpus, além do próprio requerimento.
+- kind: public_note
+  summary: 'Em publicação nas redes sociais, disse que a CAE "vai acompanhar de perto as fraudes do Banco
+    Master, uma das maiores da história" e que "o Senado não se curva a abusos do sistema financeiro.
+    Vamos fiscalizar, cobrar explicações e proteger a economia do país sem blindar quem quer que seja,
+    esteja onde estiver."'
+  source_ids:
+  - src-tribunadosertao-2026-01-15-renan-calheiros-cae-fraudes-master
+  by_id: renan-calheiros
+  date: '2026-01-15'
 source_ids:
 - src-stf-inq5026-decisao-19-02-2026-cae-convoca-vorcaro-original
 - src-stf-inq5026-decisao-26-02-2026-cae-estende-convocacao-vorcaro
 - src-correiobraziliense-2026-05-19-galipolo-na-cae-renan
+- src-tribunadosertao-2026-01-15-renan-calheiros-cae-fraudes-master
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'

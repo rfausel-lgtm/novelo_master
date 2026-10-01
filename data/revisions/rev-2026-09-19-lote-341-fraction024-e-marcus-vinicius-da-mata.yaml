@@ -1,0 +1,44 @@
+id: rev-2026-09-19-lote-341-fraction024-e-marcus-vinicius-da-mata
+kind: revision
+date: '2026-09-19'
+published_at: '2026-09-19T09:23:39-03:00'
+title: 'Lote 341 — o jato de Barci de Moraes não mudou de sócio, e o operador por trás dele'
+summary: 'Frente de fronteira do lote 338 (honorários do Master e dação em pagamento): resolve em parte
+  a pergunta em aberto sobre se a transferência de 33,33% da Fraction 024 (dona do jato Legacy 650 usado
+  para pagar o escritório Barci de Moraes) e de 20% da Fraction 053 chegou a ser registrada. Consulta
+  direta ao cadastro de CNPJ, em 19/09/2026, mostra que a Fraction 024 segue com os mesmos dois sócios
+  desde sua constituição em 13/05/2021 — Marcus Vinícius da Mata (presidente) e Artur Martins de
+  Figueiredo (diretor) — sem Viviane Barci de Moraes ou o escritório em nenhuma data. Não prova que
+  nenhuma cessão condicional tenha ocorrido (o próprio termo vinculava a dação à conclusão dos serviços
+  e vedava alienação sem autorização), mas indica que o registro formal não mudou. O achado lateral: Artur
+  Martins de Figueiredo, já conhecido do acervo como diretor da Trustee e da Banvox (rede de Maurício
+  Quadrado), é também diretor da própria Fraction 024 — achado que amarra, pela primeira vez, o "avião de
+  Barci de Moraes" à mesma rede de holdings patrimoniais já mapeada em torno de Quadrado e Tanure. E
+  ganha verbete o presidente da Fraction 024, Marcus Vinícius da Mata — operador de cerca de 59 empresas
+  ativas, a maioria do mesmo padrão "Administração de Bem Próprio", e já citado en passant, sem verbete
+  próprio, no relato da extração do celular de Vorcaro sobre a ameaça a Luís Felipe Woyceichoski (a PF o
+  identifica como "provavelmente" o interlocutor de um áudio em que o banqueiro o descreve como figura
+  temida). O verbete registra essa identificação com a mesma cautela da PF, e registra explicitamente que
+  não deve ser confundido com o "M.M." anonimizado do lote 337 — coincidência de sobrenome já registrada
+  como não confirmada, e este lote não a reforça.'
+added:
+  people: 1
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 2
+  sources: 2
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- marcus-vinicius-da-mata
+- artur-martins-de-figueiredo
+- barci-de-moraes-sociedade-de-advogados
+- daniel-vorcaro
+reason: Continuação das frentes de fronteira do lote 338 (F2, honorários e dação em pagamento) — pedida
+  por Rafael Fausel, redirecionando da fila de contraditório para as frentes investigativas.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'

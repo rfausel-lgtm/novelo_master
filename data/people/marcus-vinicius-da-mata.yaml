@@ -1,0 +1,48 @@
+id: marcus-vinicius-da-mata
+kind: person
+category: businessperson
+name: Marcus Vinícius da Mata
+role: Operador de estruturas societárias do tipo "Administração de Bem Próprio"; presidente da Solar e da
+  Fraction 024, entre dezenas de outras
+summary: 'Sócio ou administrador de cerca de 59 empresas ativas, segundo agregador de dados públicos de
+  CNPJ, com funções de presidente, diretor, administrador ou sócio — padrão compatível com um operador
+  profissional de estruturas patrimoniais para terceiros, não necessariamente proprietário econômico
+  delas. É presidente da Solar Administração de Bem Próprio S.A. (CNPJ 44.949.935/0001-94) e da Fraction
+  024 Administração de Bem Próprio S.A. (CNPJ 41.934.366/0001-15, proprietária do jato Legacy 650 de
+  prefixo PP-NLR) — nesta última, desde a constituição da empresa em 13/05/2021, ao lado de Artur Martins
+  de Figueiredo (diretor), já conhecido do acervo como diretor da Trustee Holding Financeira e da Banvox
+  Holding Financeira, ligadas a Maurício Quadrado. A extração do celular de Daniel Vorcaro (IPJ-A anexa à
+  PET 15.978) registra 25 minutos de conversa, aparentemente captação de ambiente, entre o banqueiro e
+  quem a PF identifica como provavelmente ele, então na condição de comandante da embarcação de Luís
+  Felipe Woyceichoski — Vorcaro avalia no áudio que "tiro saiu pela culatra. Esse cara era o principal" e
+  pede a Luiz Phillipi Mourão que apague a gravação, temendo "ter problema com esse cara".'
+why_in_novelo: É o ponto de encontro, ainda pouco costurado, entre duas frentes distintas do acervo — a
+  estrutura de "Fraction NNN" já ligada a Maurício Quadrado via Artur Martins de Figueiredo, e o jato
+  usado para pagar o escritório de Viviane Barci de Moraes — além de aparecer, com identificação
+  hedgeada pela própria PF, como o interlocutor de um áudio em que Vorcaro o descreve como figura
+  temida.
+cited_position:
+- kind: not_located
+  summary: Nenhuma manifestação pública dele foi localizada no corpus.
+open_questions:
+- 'A identificação dele como interlocutor de Vorcaro no áudio de 2024 é da própria PF, qualificada como
+  "provavelmente" — não é fato confirmado por este acervo, que preserva a mesma cautela (ver
+  luis-felipe-woyceichoski).'
+- 'Não confirmar identidade com "M.M.", pessoa anonimizada no relato de Woyceichoski sobre um esquema
+  distinto envolvendo a empresa "Prime You" (lote 337) — o próprio acervo já registra a semelhança de
+  sobrenome como coincidência não confirmada, e este verbete não a fortalece nem a repete sem essa
+  ressalva.'
+- Não apurado se atua como operador profissional remunerado (sócio de fachada/serviço) ou tem
+  participação econômica real nas empresas que preside — o volume de ~59 empresas ativas é mais
+  compatível com o primeiro padrão, mas não é conclusivo.
+- Não localizada, até esta coleta, qualquer manifestação dele sobre o áudio, sobre a Solar ou sobre a
+  Fraction 024.
+source_ids:
+- src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
+- src-consultasocio-2026-marcus-vinicius-da-mata
+- src-minhareceita-fraction024-qsa-2026-09-19
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
+created_at: '2026-09-19'
+updated_at: '2026-09-19'

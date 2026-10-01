@@ -1,0 +1,34 @@
+id: rev-2026-09-18-lote-336-a-pericia-que-chama-a-gestao-do-brb-de-fraudulenta
+kind: revision
+date: '2026-09-18'
+published_at: '2026-09-18T19:48:55-03:00'
+title: Lote 336 — a perícia que chama a gestão do BRB de fraudulenta, e o ágio de R$ 2,4 bilhões
+summary: Duas peças da própria Polícia Federal, encontradas na apuração da imprensa e ainda ausentes do acervo.
+  A mais recente, um laudo pericial concluído em 13/08/2026 e liberado do sigilo em 11/09/2026, analisa R$ 17,5
+  bilhões em operações entre o BRB e o Banco Master e conclui que o banco público chegou a concentrar 90,3% das
+  carteiras que comprava de terceiros no Master, com pico de R$ 19,8 bilhões em junho de 2025 — e que pagou R$ 7,6
+  bilhões em 22 operações antes de concluir os laudos técnicos obrigatórios, o que a perícia qualifica como 'gestão
+  fraudulenta' da própria diretoria do BRB, então presidida por Paulo Henrique Costa. A segunda, um documento de
+  abril de 2026, já apontava ágio de R$ 2,4 bilhões (32%) nas vendas de carteiras entre julho de 2024 e janeiro
+  de 2025 — a fonte original da notícia que a petição do BRB citou sem confirmar, já registrada no lote 334.
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 2
+  relationships: 0
+  sources: 2
+  evidence: 3
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- banco-de-brasilia-brb
+- banco-master
+- paulo-henrique-costa
+- daniel-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-18'
+created_at: '2026-09-18'
+updated_at: '2026-09-18'

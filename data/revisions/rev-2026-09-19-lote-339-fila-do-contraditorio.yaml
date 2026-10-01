@@ -1,0 +1,43 @@
+id: rev-2026-09-19-lote-339-fila-do-contraditorio
+kind: revision
+date: '2026-09-19'
+published_at: '2026-09-19T08:42:25-03:00'
+title: 'Lote 339 — fila do contraditório: três manifestações localizadas entre os dez nomes de maior grau
+  sem posição citada'
+summary: 'Primeira rodada da fila de contraditório identificada na auditoria do lote 338: dos dez nomes
+  de maior grau no grafo cujo `cited_position` era só "não localizada", busca dirigida encontrou
+  manifestação em três. Mariângela Fialek — sua defesa, em nota à CNN Brasil de 12/12/2025, chamou sua
+  atuação na organização de emendas de "estritamente técnica, apartidária e impessoal", sem negar,
+  ponto a ponto, o desvio de recursos apontado pela investigação. Alberto Félix Oliveira — em depoimento
+  por videoconferência ao STF em 26/01/2026, já registrado na própria narrativa do verbete, mas sem
+  cited_position correspondente: permaneceu em silêncio por orientação da defesa, que alegou falta de
+  acesso à íntegra dos autos — direito ao silêncio em depoimento formal, não recusa de resposta à
+  imprensa. Alessandro Vieira — ao pedido de Gilmar Mendes à PGR para investigá-lo por abuso de
+  autoridade (mesmo dia da rejeição do relatório da CPI do Crime Organizado, 14/04/2026), respondeu que
+  reagiria "com absoluta tranquilidade" e invocou imunidade parlamentar; verbete ganhou também o fato,
+  até então ausente, de que o pedido de Gilmar existe. Busca dedicada nos outros sete nomes (Guilherme
+  Henrique Sodré Martins, André Kruschewsky Lima, Antonio Carlos Freixo Júnior, Clécio Luís, David
+  Henrique Alves, Jair Bolsonaro, Natália Vorcaro Zettel) não localizou manifestação pública específica
+  deles sobre as imputações que os trazem ao acervo — "não localizada" permanece correto para os sete,
+  sem alteração de dado.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 3
+  evidence: 0
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+- mariangela-fialek
+- alberto-felix-oliveira
+- alessandro-vieira
+reason: Continuação da fila de contraditório levantada pela auditoria estrutural do lote 338 (30 pessoas
+  de grau ≥4 com cited_position só "não localizada"), pedida por Rafael Fausel — os dez primeiros por
+  grau.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-09-19'
