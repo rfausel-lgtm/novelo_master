@@ -13,21 +13,23 @@
   versionados em `docs/auditoria/`. A rotina só relata: não corrige, não commita, não publica e não
   escreve em `data/`. Ver [docs/AUDITORIA_NOTURNA.md](docs/AUDITORIA_NOTURNA.md).
 
-- **"Na mídia" na abertura.** A página inicial passou a registrar a cobertura de imprensa sobre o
-  projeto: a matéria "As conexões de Daniel Vorcaro" (Revista Oeste, 18/09/2026), que cita o Novelo
-  pelo nome do autor, e "Banco Master tenta derrubar retenção de R$ 1,42 milhão do IMPCG na Justiça"
-  (Jornal do Estado MS, 01/10/2026), que credita o site como fonte com link para a ficha do IMPCG.
-  Quando não há frase transcrevível, o item traz uma descrição nossa do tipo de menção, sem aspas e
-  em tom secundário, para não se passar por citação. Cada item traz o logo do veículo, o título, a data e o trecho em
-  que a matéria fala do projeto — o trecho é o que sustenta a seção: mostra o veículo falando do
-  Novelo, e não o contrário. A ressalva de que não há vínculo com os veículos fecha o bloco, porque
-  logo de terceiro ao lado do nome do site, sem ela, sugere parceria que não existe. O registro mora
-  em `src/lib/media-coverage.ts`, e não em `data/`: cobertura sobre o projeto não é fonte do acervo,
-  não entra no grafo e não passa pelas regras de evidência. A marca de cada veículo entra na forma
-  original; a única adaptação é de legibilidade — no tema escuro entra a versão clara do mesmo logo,
-  sem recorte, recoloração ou composição com a nossa marca. A autorização para usar o logo da Oeste foi
-  pedida à revista e não teve resposta até a publicação (19/09/2026); se a revista pedir a retirada, o
-  logo sai e o nome do veículo entra em texto.
+- **"Na mídia" na abertura.** A página inicial registra a cobertura de imprensa sobre o projeto. São
+  duas matérias: "As conexões de Daniel Vorcaro" (Revista Oeste, 18/09/2026), que fala do Novelo em
+  texto corrido, e "Banco Master tenta derrubar retenção de R$ 1,42 milhão do IMPCG na Justiça"
+  (Jornal do Estado MS, 01/10/2026), que credita o site como fonte, com link para a ficha do IMPCG.
+  Cada item traz o logo do veículo, o título e a data. Quando há frase sobre o projeto, ela aparece
+  transcrita entre aspas — é o que sustenta a seção: mostra o veículo falando do Novelo, e não o
+  contrário. Quando não há frase transcrevível, entra uma descrição nossa do tipo de menção, sem
+  aspas e em tom secundário, para não se passar por citação. A ressalva de que não há vínculo com os
+  veículos fecha o bloco, porque logo de terceiro ao lado do nome do site, sem ela, sugere parceria
+  que não existe. A ordem é curada à mão, e não por data: a Oeste abre a lista por ser a única que
+  fala do projeto em texto corrido. O registro mora em `src/lib/media-coverage.ts`, e não em `data/`:
+  cobertura sobre o projeto não é fonte do acervo, não entra no grafo e não passa pelas regras de
+  evidência. A marca de cada veículo entra na forma original; a única adaptação é de legibilidade —
+  cada logo tem a versão que o tema do site exige, sem recorte, distorção ou composição com a nossa
+  marca. A autorização foi pedida à Oeste e não teve resposta até a publicação (19/09/2026); a do
+  Jornal do Estado MS foi publicada na mesma condição (01/10/2026). Se um veículo pedir a retirada, o
+  logo sai e o nome entra em texto.
 
 - **Saneamento de dados pessoais (segunda passada).** O saneamento de 13/09 não vale para sempre: lotes
   publicados depois dele reintroduziram dado vedado pela seção 6 da política editorial. Saíram, de dois
@@ -117,7 +119,7 @@
 - **A ilustração do Codex volta a prevalecer sobre o card** (decisão de Rafael, 12/09/2026). Na
   primeira versão o card contava como arte concluída, e com ele cobrindo 100% das revisões dois elos
   pararam em silêncio: `social:pending` deixou de listar pendência — a automação do Codex não tinha
-  mais o que gerar — e o `arte-de-lote.yml`, que só aceitava arquivo *novo*, descartaria qualquer
+  mais o que gerar — e o `arte-de-lote.yml`, que só aceitava arquivo _novo_, descartaria qualquer
   arte que chegasse por cima de um card. Agora revisão só com card é pendente (9 lotes a partir do
   200 voltaram à fila: 220, 223, 226, 228–232 e 235), e o workflow aceita arte que substitui card,
   tirando o id do manifesto. Ilustração já publicada continua nunca sendo refeita nem sobrescrita.
