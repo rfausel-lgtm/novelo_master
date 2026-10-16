@@ -94,11 +94,24 @@ async function baixar(url) {
   if (/pdf/i.test(ct) || /\.pdf(\?|$)/i.test(url)) {
     const tmp = path.join(os.tmpdir(), `fonte-${Date.now()}.pdf`);
     fs.writeFileSync(tmp, buf);
+    const saida = `${tmp}.txt`;
     try {
-      const text = execFileSync("pdftotext", ["-layout", tmp, "-"], {
-        encoding: "utf8",
-        maxBuffer: 256 * 1024 * 1024,
-      });
+      // Grava em arquivo com -enc UTF-8 (a saída padrão no Windows usa a página de código local e
+      // corrompe acentos). Tenta o PATH e, no Windows, o pdftotext que acompanha o Git for Windows.
+      const candidatos = ["pdftotext", "C:\\Program Files\\Git\\mingw64\\bin\\pdftotext.exe"];
+      let ultimo = null;
+      let ok = false;
+      for (const exe of candidatos) {
+        try {
+          execFileSync(exe, ["-layout", "-enc", "UTF-8", tmp, saida], { stdio: "ignore" });
+          ok = true;
+          break;
+        } catch (e) {
+          ultimo = e;
+        }
+      }
+      if (!ok) throw new Error(`pdftotext indisponível (${ultimo?.code || ultimo?.message})`);
+      const text = fs.readFileSync(saida, "utf8");
       return {
         status: r.status,
         text,
@@ -106,6 +119,7 @@ async function baixar(url) {
       };
     } finally {
       fs.rmSync(tmp, { force: true });
+      fs.rmSync(saida, { force: true });
     }
   }
   const html = buf.toString("utf8");

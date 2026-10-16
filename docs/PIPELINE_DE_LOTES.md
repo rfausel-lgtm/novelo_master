@@ -69,18 +69,18 @@ GitHub commita o card de cada lote: `git pull --rebase` antes de cada push.
 
 ## 4. Ferramentas (`scripts/lote/`)
 
-| Comando                                   | Para quê                                                                                                   |
-| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| `npm run lote:fonte -- <url>`             | Baixa HTML ou PDF (`pdftotext`), grava texto literal, `sha256`, título e data em `processed/fontes-cache/` |
-| `npm run lote:fonte -- <url> --texto arq` | Registra texto capturado no navegador (403, paywall)                                                       |
-| `npm run lote:fonte -- --achar "trecho"`  | Procura o trecho literal nas fontes em cache                                                               |
-| `npm run lote:aspas`                      | Confere cada trecho entre aspas **novo** dos registros contra o cache das fontes que o registro cita       |
-| `npm run lote:check`                      | `added` × arquivos novos, `affected_ids`, `published_at`, chaves críticas, dado pessoal, termo vedado      |
-| `npm run lote:check -- --so-texto`        | Saneamento: qualquer chave não textual alterada é falha                                                    |
-| `npm run lote:achar -- "Nome"`            | Duplicata por id, nome e alias (substitui o índice de 80 KB)                                               |
-| `npm run lote:novo -- spec.yaml [--seco]` | Gera os arquivos do lote e a Revision a partir de uma especificação com só o conteúdo                      |
+| Comando                                   | Para quê                                                                                                                                                      |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `npm run lote:fonte -- <url>`             | Baixa HTML ou PDF (`pdftotext -enc UTF-8`, com fallback para o do Git for Windows), grava texto literal, `sha256`, título e data em `processed/fontes-cache/` |
+| `npm run lote:fonte -- <url> --texto arq` | Registra texto capturado no navegador (403, paywall)                                                                                                          |
+| `npm run lote:fonte -- --achar "trecho"`  | Procura o trecho literal nas fontes em cache                                                                                                                  |
+| `npm run lote:aspas`                      | Confere cada trecho entre aspas **novo** dos registros contra o cache das fontes que o registro cita                                                          |
+| `npm run lote:check`                      | `added` × arquivos novos, `affected_ids`, `published_at`, chaves críticas, dado pessoal, termo vedado                                                         |
+| `npm run lote:check -- --so-texto`        | Saneamento: qualquer chave não textual alterada é falha                                                                                                       |
+| `npm run lote:achar -- "Nome"`            | Duplicata por id, nome e alias (substitui o índice de 80 KB)                                                                                                  |
+| `npm run lote:novo -- spec.yaml [--seco]` | Gera os arquivos do lote e a Revision a partir de uma especificação com só o conteúdo                                                                         |
 
-Em worktree, defina `NOVELO_CACHE` (caminho do `processed/fontes-cache` do repositório principal) para compartilhar o cache entre agentes e rodadas.
+Em worktree, defina `NOVELO_CACHE` **na mesma chamada** de cada comando (no PowerShell a variável não persiste entre chamadas) (caminho do `processed/fontes-cache` do repositório principal) para compartilhar o cache entre agentes e rodadas.
 Todos aceitam `--base <ref> --head <ref>` (exceto `fonte`/`achar`/`novo`) para auditar um lote já commitado.
 `lote:check` e `lote:aspas` **não substituem** o editor: ordenam o trabalho dele. Falha de `lote:check`
 bloqueia a integração; alerta é para o editor julgar. Páginas bloqueadas (cache < 500 caracteres) contam como
