@@ -10,9 +10,9 @@ summary: Servidora do Ministério Público do Ceará. Segundo a representação 
   entre o nome da promotora titular do órgão (Mayara Menezes Muniz) e o nome grafado como signatário ('Nayara Muniz').
   A própria PF registra não ter, até aquele momento, elementos para determinar se ela participou conscientemente
   ou se suas credenciais foram usadas por terceiros sem seu conhecimento.
-why_in_novelo: Seu e-mail funcional aparece como o canal usado num esquema de ofícios forjados para derrubar perfis
-  em redes sociais, atribuído pela PF ao núcleo de intimidação de Daniel Vorcaro — caso em que a própria autoridade
-  investigativa reconhece não estar estabelecida a participação dela.
+why_in_novelo: Seu e-mail funcional aparece, segundo a PF, como o canal usado para enviar ofícios forjados que
+  derrubaram perfis em redes sociais, episódio atribuído pela PF ao núcleo de intimidação de Daniel Vorcaro — caso
+  em que a própria autoridade investigativa reconhece não estar estabelecida a participação dela.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública dela foi localizada no corpus até a data desta apuração.
@@ -25,4 +25,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-10-16'

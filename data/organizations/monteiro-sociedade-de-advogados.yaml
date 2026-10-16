@@ -11,9 +11,9 @@ summary: Escritório com denominação oficial na Receita Federal distinta da us
   imóveis repassados ao ex-presidente do BRB, Paulo Henrique Costa — a PGR estima vantagem econômica pessoal
   dele em cerca de R$ 86,1 milhões. O Master declarou à Receita R$ 109 milhões em pagamentos a empresas
   de que ele é sócio, entre 2022 e 2025.
-why_in_novelo: 'É o caso mais grave entre os escritórios identificados: não se trata de honorário questionado,
-  mas de prisão e imputação de operação paralela de esquema de propina, segundo a PGR, ligado à tentativa
-  de compra do Master pelo BRB.'
+why_in_novelo: Seu sócio-administrador, Daniel Lopes Monteiro, foi preso na Operação Compliance Zero em 16/04/2026,
+  acusado pela PGR de operar 'compliance paralelo' do Banco Master no contexto da tentativa de compra do Master
+  pelo BRB.
 cited_position:
 - kind: denial
   summary: A defesa nega ilegalidade, afirma que a criação de empresas, fundos e outras estruturas é parte
@@ -34,4 +34,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-04'
 created_at: '2026-09-04'
-updated_at: '2026-09-04'
+updated_at: '2026-10-16'

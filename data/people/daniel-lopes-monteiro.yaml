@@ -14,8 +14,9 @@ summary: Sócio-administrador da Monteiro Sociedade de Advogados, banca de merca
   imóveis de luxo repassados ao ex-presidente do BRB, Paulo Henrique Costa. A PGR estima vantagem econômica
   pessoal dele em cerca de R$ 86,1 milhões; o Master declarou à Receita R$ 109 milhões em pagamentos a
   empresas de que é sócio.
-why_in_novelo: É o único advogado da rede de fornecedores jurídicos do Master preso e formalmente acusado
-  de operar esquema de propina, e não apenas de prestar serviço jurídico questionável.
+why_in_novelo: É o único advogado da rede de fornecedores jurídicos do Master preso e acusado pela PGR, que lhe
+  atribui ter operado 'compliance paralelo' do banco e estruturado empresas para ocultar imóveis repassados ao
+  ex-presidente do BRB.
 cited_position:
 - kind: denial
   summary: Nega ilegalidade, afirma que a criação de empresas e fundos é atividade regular da advocacia,
@@ -28,7 +29,7 @@ cited_position:
 open_questions:
 - 'NOVO (13/09/2026): a decisão de 15/04/2026 nomeia mais dois alvos ligados a ele — o cunhado Hamilton Suaki,
   colocado como diretor da empresa de fachada Allora S.A. (endereço coincidente ao do escritório Monteiro
-  Rusu), e a advogada Thaísa Menzato, apontada como participante qualificada do mesmo esquema. Indica ainda
+  Rusu), e a advogada Thaísa Menzato, apontada pela decisão como participante qualificada da mesma estrutura. Indica ainda
   um indício de repasse de R$ 86 milhões a ele relacionado a tratativas do BRB, encontrado em documento
   apreendido na residência de Daniel Vorcaro — sem confirmação de que esse valor é o mesmo já citado (R$ 86,1
   milhões) ou um achado distinto.'
@@ -41,4 +42,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-04'
 created_at: '2026-09-04'
-updated_at: '2026-09-13'
+updated_at: '2026-10-16'

@@ -4,14 +4,13 @@ name: AC3 Cobranças e Participações
 aliases: []
 org_type: company
 summary: 'Holding de Augusto Lima (CNPJ 33.084.900/0001-13, aberta em 20/03/2019, capital social de R$
-  12.340.344,00, sede em São Paulo). Sócios, além de Lima como administrador: seus quatro filhos — Catarina
-  e Maria Clara Calmon Borges Lima (sócias desde 13/12/2019) e Arthur e Augusto Calmon Borges Lima (sócios
-  menores, representados pelo pai, desde 16/05/2025). Em dezembro de 2019, Lima e a então esposa doaram
-  as quotas às duas filhas mais velhas, retendo usufruto vitalício dos direitos políticos e econômicos
-  — ato apontado, na ação cível movida pela família ex-controladora do Voiter, como parte de esquema de
-  blindagem patrimonial.'
-why_in_novelo: É a holding através da qual se identificam, pela primeira vez no corpus, os quatro filhos
-  de Augusto Lima, e o veículo do ato de doação com usufruto retido apontado como blindagem patrimonial.
+  12.340.344,00, sede em São Paulo). Sócios, além de Lima como administrador: quatro familiares dele, que o
+  Novelo não nomeia (dois sócios desde 13/12/2019 e dois desde 16/05/2025, representados por ele). Em
+  dezembro de 2019, Lima e a então esposa doaram quotas a dois desses familiares, retendo usufruto vitalício
+  dos direitos políticos e econômicos — ato apontado, na ação cível movida pela família ex-controladora do
+  Voiter, como blindagem patrimonial.'
+why_in_novelo: É a holding de Augusto Lima usada na doação de quotas com usufruto retido que a família
+  ex-controladora do Voiter aponta, em ação cível, como blindagem patrimonial.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
@@ -22,4 +21,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'
 created_at: '2026-09-06'
-updated_at: '2026-09-06'
+updated_at: '2026-10-16'

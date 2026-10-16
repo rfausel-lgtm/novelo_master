@@ -2,8 +2,8 @@ id: felipe-cancado-vorcaro
 kind: person
 name: Felipe Cançado Vorcaro
 category: businessperson
-role: Primo de Daniel Vorcaro; apontado pela PF como operador financeiro; condenado pela CVM por fraude
-  no Brazil Realty FII
+role: Primo de Daniel Vorcaro; apontado pela PF como operador financeiro; condenado pela CVM por operação
+  fraudulenta no Brazil Realty FII
 summary: Teve prisão temporária de cinco dias decretada pelo STF em 07/05/2026 (Pet 15873). Segundo a
   PF, integraria o núcleo financeiro-operacional do grupo investigado. É primo de Daniel Vorcaro e responsável
   pela MGI Desenvolvimento Imobiliário. Condenado pela CVM em 08/09/2026, no PAS 19957.007976/2020-94,
@@ -17,8 +17,7 @@ summary: Teve prisão temporária de cinco dias decretada pelo STF em 07/05/2026
   via CDBs e fundos cativos, ao lado do tio Henrique e da prima Natália.
 why_in_novelo: Teve prisão temporária decretada pelo STF em fase da Operação Compliance Zero, sendo apontado
   pela Polícia Federal como operador financeiro de Daniel Vorcaro — e é um dos parentes dele condenados
-  pela CVM no processo do Brazil Realty FII, ao lado do pai, Henrique Vorcaro, evidenciando o padrão familiar
-  de participação nos veículos societários envolvidos na fraude.
+  pela CVM no processo do Brazil Realty FII, ao lado do pai do banqueiro, Henrique Vorcaro.
 cited_position:
 - kind: denial
   summary: Em defesa apresentada individualmente ao PAS da CVM em 13/10/2025, sustentou nunca ter sido
@@ -54,4 +53,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-03'
-updated_at: '2026-09-19'
+updated_at: '2026-10-16'

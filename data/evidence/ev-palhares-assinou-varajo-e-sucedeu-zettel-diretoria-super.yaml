@@ -3,12 +3,12 @@ kind: evidence
 classification: I
 proposition: 'Cruzamento entre dois registros já verificados: (a) a decisão do STF na PET 15.556 identifica
   Leonardo Augusto Furtado Palhares como administrador da Varajo Consultoria, autor da assinatura da proposta
-  de contratação fictícia do servidor do Banco Central, e como o ''Leo'' que Vorcaro queria que pagasse
-  a propina para ocultar a origem do recurso; (b) o registro da Receita Federal mostra que o mesmo Leonardo
+  de contratação fictícia do servidor do Banco Central, e como o ''Leo'' por meio de quem, segundo a decisão,
+  Vorcaro queria que o pagamento fosse feito, para ocultar a origem do recurso; (b) o registro da Receita Federal mostra que o mesmo Leonardo
   Augusto Furtado Palhares entrou na diretoria da Super Empreendimentos e Participações em 23/07/2024
   — o mesmo mês em que, segundo a imprensa, Fabiano Zettel deixou a diretoria da empresa. A sobreposição
-  é factual e verificável; nenhuma fonte localizada estabelece relação causal entre a atuação dele na
-  triangulação da propina e sua posterior entrada na diretoria da Super, e não há manifestação dele sobre
+  é factual e verificável; nenhuma fonte localizada estabelece relação causal entre a atuação dele no
+  pagamento descrito pela decisão e sua posterior entrada na diretoria da Super, e não há manifestação dele sobre
   isso.'
 document_ids: []
 source_ids:
@@ -23,4 +23,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'
 created_at: '2026-09-09'
-updated_at: '2026-09-09'
+updated_at: '2026-10-16'

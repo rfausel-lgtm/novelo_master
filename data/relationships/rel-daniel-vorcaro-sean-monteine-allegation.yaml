@@ -6,7 +6,7 @@ relationship_type: investigative_allegation
 directed: true
 label: apontado por Vorcaro como autor de filmagem; 'preciso matar esse cara'
 description: Segundo a análise do chat entre Vorcaro e Luiz Phillipi Mourão (IPJ-A nº 1070759/2026), em 25/07/2025
-  Vorcaro identificou Sean Monteine — contato de número estrangeiro — como quem teria filmado ele com a filha e
+  Vorcaro identificou Sean Monteine — contato de número estrangeiro — como quem teria filmado ele com um familiar e
   espalhado o vídeo, escrevendo a Mourão 'Preciso matar esse cara'. Ele aparece no acervo como alvo, não como investigado.
 evidence_class: A
 confidence: 0.6
@@ -21,4 +21,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-10-16'

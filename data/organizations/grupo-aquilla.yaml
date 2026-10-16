@@ -12,8 +12,8 @@ summary: 'Conglomerado formado por uma distribuidora de títulos e valores mobil
   que mascarou a insuficiência de capital do Banco Máxima entre 2014 e 2016; e o Aquilla FII, que segundo
   requerimento aprovado na CPI do Crime Organizado teria investido no Fundo São Domingos, veículo usado
   na aquisição do Máxima em 2017.'
-why_in_novelo: Estrutura de fundos que atravessa a origem do Banco Master — tanto a fraude contábil que
-  precedeu a venda quanto o veículo usado na aquisição.
+why_in_novelo: Estrutura de fundos que atravessa a origem do Banco Master — tanto a simulação de valorização
+  que o MPF aponta no Banco Máxima antes da venda quanto o veículo usado na aquisição.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
@@ -27,4 +27,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'

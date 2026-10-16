@@ -18,9 +18,9 @@ summary: 'Empresa apontada, segundo apuração da PF citada pela imprensa, como 
   com Belline Santana somando cerca de R$ 4 milhões e apontou a incompatibilidade entre esses valores
   e o capital de R$ 10 mil e o endereço de coworking, classificando o arranjo como ''negócio simulado''.
   A empresa é anterior aos pagamentos relatados, o que afasta a hipótese de ter sido criada especificamente
-  para o esquema.'
-why_in_novelo: Entra no corpus como o instrumento contratual apontado para dissimular pagamentos a servidores
-  do Banco Central no esquema atribuído a Daniel Vorcaro.
+  para eles.'
+why_in_novelo: Entra no corpus como o instrumento contratual que a PF aponta como usado para dissimular pagamentos
+  a servidores do Banco Central atribuídos a Daniel Vorcaro.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
@@ -45,4 +45,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-13'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-10-16'

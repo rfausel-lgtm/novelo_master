@@ -8,7 +8,7 @@ url: https://brasilapi.com.br/api/cnpj/v1/33943467000124
 source_type: corporate_registry
 summary: 'Consulta ao CNPJ 33.943.467/0001-24. Empresa individual aberta em 17/06/2019, capital social
   de R$ 100.000, CNAEs de prestação de serviços de informação e agência de publicidade, sede na Asa Sul,
-  Brasília. Titular: Thiago Miranda Silva, CPF terminado em 451. Situação: BAIXADA em 22/07/2020 por encerramento
+  Brasília. Titular: Thiago Miranda Silva (o registro traz o CPF dele, não reproduzido). Situação: BAIXADA em 22/07/2020 por encerramento
   voluntário — não é, portanto, a pessoa jurídica que assinou os contratos de 2025/2026, e não foi alcançada
   por suspensão judicial.'
 verification:
@@ -20,4 +20,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'
 created_at: '2026-09-09'
-updated_at: '2026-09-09'
+updated_at: '2026-10-16'

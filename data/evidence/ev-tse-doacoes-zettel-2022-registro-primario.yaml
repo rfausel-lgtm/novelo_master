@@ -2,7 +2,7 @@ id: ev-tse-doacoes-zettel-2022-registro-primario
 kind: evidence
 classification: D
 proposition: 'Consulta primária à base do TSE (DivulgaCandContas, eleição de 2022) registra três doações
-  de pessoa física feitas por Fabiano Campos Zettel, CPF terminado em 816-86: R$ 3.000.000,00 a Jair Messias
+  de pessoa física feitas por Fabiano Campos Zettel, identificado na base pelo CPF (não reproduzido): R$ 3.000.000,00 a Jair Messias
   Bolsonaro (PL, presidente) em 10/10/2022; R$ 2.000.000,00 a Tarcisio Gomes de Freitas (Republicanos,
   governador de São Paulo) em 13/10/2022; e R$ 10.000,00 a Lucas de Vasconcelos Gonzalez (Novo, deputado
   federal por Minas Gerais, não eleito) em 23/09/2022 — este terceiro beneficiário não constava do acervo.
@@ -23,4 +23,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'
 created_at: '2026-09-09'
-updated_at: '2026-09-09'
+updated_at: '2026-10-16'

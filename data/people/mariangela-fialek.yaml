@@ -30,10 +30,9 @@ summary: 'Advogada, 51 anos, natural de União da Vitória/PR, formada pela PUC/
   Cezinha de Madureira memoriais de processos sob relatoria de ministros do STF (entre eles Kassio Nunes
   Marques) e preparava contratos de honorários de êxito, em nome do escritório da esposa de Cezinha,
   Valéria Rodrigues Linhares.'
-why_in_novelo: 'Nó central de DOIS esquemas distintos investigados na mesma Operação Transparência: o
-  desvio de R$ 119,2 milhões em emendas em benefício de Valdemar Costa Neto, e o tráfico de influência
-  sobre processos no STF ligado a Cezinha de Madureira (lote 316) — com a própria Mesa Diretora da Câmara
-  agindo institucionalmente, via pedido ao STF, para protegê-la.'
+why_in_novelo: 'Apontada pela PF, na Operação Transparência, como personagem principal das indicações de emendas
+  em nome de Valdemar Costa Neto que levaram ao bloqueio de R$ 119,2 milhões e, na terceira fase (lote 316),
+  como quem enviava a Cezinha de Madureira memoriais de processos sob relatoria de ministros do STF.'
 cited_position:
 - kind: clarification
   summary: 'Sua defesa afirmou, em nota, que a atuação dela na organização de emendas parlamentares era
@@ -48,7 +47,7 @@ open_questions:
 - 'Origem documentada da investigação: depoimento do deputado Glauber Braga à PF em 13/02/2025,
   responsabilizando Arthur Lira e citando Fialek como operadora ligada à Presidência — alegação de
   testemunha, tratada com a devida cautela em relação a Lira (ver arthur-lira, glauber-braga).'
-- Vínculo entre este esquema (Valdemar Costa Neto/emendas) e o esquema de tráfico de influência sobre
+- Vínculo entre esta frente (Valdemar Costa Neto/emendas) e a frente de tráfico de influência investigada sobre
   Cezinha de Madureira/Nunes Marques (lote 316) não é afirmado por nenhuma fonte além da coincidência de
   operadora (ela própria) — registrado como o que é, não como conexão processual única.
 source_ids:
@@ -63,4 +62,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-19'
 created_at: '2026-09-15'
-updated_at: '2026-09-19'
+updated_at: '2026-10-16'

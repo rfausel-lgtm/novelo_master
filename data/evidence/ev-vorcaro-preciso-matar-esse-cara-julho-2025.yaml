@@ -2,7 +2,7 @@ id: ev-vorcaro-preciso-matar-esse-cara-julho-2025
 kind: evidence
 classification: D
 proposition: 'Em 25/07/2025, Daniel Vorcaro escreveu a Luiz Phillipi Mourão que alguém o havia filmado
-  com sua filha e estaria espalhando as imagens na internet, e acrescentou: "Preciso matar esse cara".
+  com um familiar e estaria espalhando as imagens na internet, e acrescentou: "Preciso matar esse cara".
   Mourão perguntou "Quem é? me manda tudo que vc tem ou alguma coisa" e, diante da repetição da frase
   por Vorcaro, respondeu: "sabe quem é? Vou pra cima".'
 document_ids:
@@ -13,8 +13,8 @@ source_ids:
 - src-stf-pet15978-edoc3-ipja-analise-chat-vorcaro-mourao
 excerpt: Preciso matar esse cara
 date: '2025-07-25'
-notes: 'A pessoa filmada junto com Vorcaro é filha dele, identificada no documento como Stella; seu nome
-  não é reproduzido aqui por ser dado pessoal de terceiro sem relevância para o fato apurado. A análise
+notes: 'A pessoa filmada junto com Vorcaro é um familiar dele; o Novelo não a identifica, por ser dado
+  pessoal de terceiro sem relevância para o fato apurado. A análise
   do chat (IPJ-A nº 1070759/2026, lote 206) mostra o desdobramento imediato desta mesma conversa: Vorcaro
   identificou o autor como "Sean" (contato salvo como Sean Monteine, de número internacional) e mandou
   que ligassem "como Polícia Federal do Brasil" para o estabelecimento Amor St Tropez, pedindo os nomes
@@ -27,4 +27,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-11'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-10-16'

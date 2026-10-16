@@ -1,0 +1,243 @@
+id: rev-2026-10-16-lote-354-saneamento-de-dados-pessoais-e-texto-proprio
+kind: revision
+date: '2026-10-16'
+title: 'Lote 354 — Saneamento de registros antigos: fragmentos de CPF, datas de nascimento, unidade residencial,
+  referências a filhos menores e dados de saúde de terceiros, e texto próprio com vocabulário de imputação sem
+  atribuição'
+summary: >-
+  Lote de saneamento, sem pesquisa nova e sem nenhum registro novo, autorizado por Rafael Fausel sobre o estado
+  atual do acervo (o histórico do git não foi reescrito). O que este lote NÃO faz, em destaque: não altera fato,
+  data, valor, classe de evidência, status, fonte ou relação de nenhum registro; não acrescenta nem retira
+  atribuição de conduta a ninguém; não afirma que qualquer pessoa citada seja menor de idade além do que os
+  próprios registros já diziam; e não reproduz, nem neste texto, nenhum dos dados retirados. Quatro frentes,
+  aplicando as seções 3 e 6 da política editorial a 95 registros já publicados e ao texto de três revisões antigas. (1) Fragmentos de CPF: seis
+  registros (duas fontes cadastrais de Thiago Miranda, a fonte cadastral da Varajo, o verbete de Leonardo
+  Palhares, a evidência sobre as empresas de Thiago Miranda e a evidência das doações de Fabiano Zettel ao
+  TSE) traziam dígitos finais de CPF; os dígitos saíram e o texto passa a dizer que o registro traz o CPF, não
+  reproduzido, preservando a âncora de identidade. (2) Outros dados pessoais: duas datas de nascimento completas
+  e um ano de nascimento saíram (fica a naturalidade); o número da unidade e a rua de um apartamento vendido por
+  Jaques Wagner saíram de seis registros (ficam o edifício, a cidade, o valor e as datas); o nome da esposa de
+  um investigado, sem papel próprio, saiu de dois registros; dados de saúde de familiares citados em petições de
+  defesa saíram de quatro registros. (3) Menores: referências a filhos e filhas de investigados — nomes, idades,
+  gestação e nascimento, festa de aniversário, o motivo de um presente, o nome de uma filha registrado em nota e
+  os nomes de dois sócios menores de uma holding familiar — foram substituídas por "familiar", "razões
+  familiares" ou equivalente em 27 registros, mantidos o episódio, a data e a atribuição; em uma evidência sobre
+  consultas a sistemas da PF, a justificativa que um investigado deu para pedir a consulta sobre um terceiro, não
+  investigado e sem documento que a sustente, saiu, junto com o nome desse terceiro; ficam a data, a consulta e o
+  pedido. (4) Texto
+  próprio: 56 registros usavam, em why_in_novelo, label, summary, description, proposition, role ou
+  open_questions, sem atribuição, palavras como "esquema", "propina", "fraude"/"fraudulenta", "lavagem",
+  "testa de ferro" ou juízos do próprio editor ("o caso mais grave", "suspeitosamente", "o padrão familiar",
+  "blindagem que Alcolumbre dá a Moraes"); foram reescritos com atribuição explícita (PF, PGR, MPF, CVM,
+  decisão e data) ou termo neutro ("fatos investigados", "interposta pessoa", "contrapartida"). Ficaram como
+  estavam, por serem tipos legais ou citação atribuída: "gestão fraudulenta" e "operação fraudulenta" (tipos
+  penal e da CVM), "organização criminosa" em negativas e tipificações atribuídas, "indícios de fraude" atribuídos
+  ao INSS/CGU, a CVM ou a avaliadoras, e termos entre aspas de documentos. Não confirmado nem tocado: o sobrenome
+  "Giunchetti" atribuído a Leo Serrano em um registro de evidência e em um lote antigo, nunca conferido em fonte.
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 0
+updated_relationships: 9
+corrections:
+- 'Fragmentos de CPF (EDITORIAL §6), seis registros: src-brasilapi-2026-varajo-consultoria-cnpj, src-brasilapi-2026-miranda-comunicacao-eireli,
+  src-brasilapi-2026-leo-dias-scp-thiago-miranda, leonardo-augusto-furtado-palhares, ev-miranda-empresas-mithi-cnpj-nao-localizado
+  e ev-tse-doacoes-zettel-2022-registro-primario reproduziam os dígitos finais do CPF de três pessoas físicas; os dígitos
+  saíram e o texto registra apenas que o cadastro traz o CPF (ou que o mesmo CPF consta nos registros cruzados), sem
+  reproduzi-lo. A varredura de data/ por "CPF", por máscaras, por "terminado em" e por sequências de 11 dígitos não achou
+  outro número de CPF; os demais usos da palavra são descritivos.'
+- 'Datas de nascimento: augusto-de-arruda-botelho e cezinha-de-madureira (e a fonte src-opovobbc-2026-09-14-quem-e-cezinha-de-madureira)
+  traziam a data completa de nascimento, e ev-vorcaro-trajetoria-antes-do-banco o ano; saíram, e fica a naturalidade.'
+- 'Endereço residencial: o número da unidade e a rua do apartamento vendido por Jaques Wagner e sua mulher à MSMG Patrimonial
+  saíram de doc-2026-07-13-msmg-peticao-terceira-adquirente-boa-fe, ev-msmg-comprou-apartamento-de-wagner-por-10-milhoes,
+  ev-registro-do-apartamento-de-wagner-barrado-pela-pet16230, msmg-patrimonial, marcelo-passos-de-araujo e
+  rel-msmg-patrimonial-jaques-wagner-commercial; ficam o nome do edifício, a cidade, o valor, as datas e a indisponibilidade.'
+- 'Familiar sem papel próprio: o nome da esposa de Hamilton Suaki saiu de hamilton-suaki e de rel-hamilton-suaki-daniel-lopes-monteiro-familial;
+  fica o parentesco (irmã de Daniel Lopes Monteiro), que é o fato que liga os dois.'
+- 'Dados de saúde e de dependentes citados por defesas: em leonardo-augusto-furtado-palhares, src-stf-pet15556-edoc390-peticao-palhares-revisao-cautelares-12-08-2026,
+  marilson-roseno-da-silva, src-stf-pet15556-edoc221-peticao-marilson-revogacao-prisao-02-04-2026, fabiano-zettel,
+  natalia-vorcaro-zettel e src-stf-pet15556-edoc247-peticao-zettel-domiciliar-pos-parto-24-04-2026, a composição da
+  família, a idade de filhos e o estado de saúde de familiares, invocados nas petições, passaram a "razões familiares"
+  ou "dependentes familiares"; o pedido, a data e o fundamento legal (art. 318, III, do CPP) ficam. O título descritivo
+  da fonte do e-Doc 247 foi neutralizado; o id foi mantido para não romper referências.'
+- 'Menores (filhos de investigados): gilmar-mendes, fabiano-zettel, ev-gilmar-condicionou-reavaliacao-domiciliar-zettel
+  e doc-2026-03-voto-gilmar-mendes-referendo-pet15556 deixam de citar idade e nascimento de filhos de Fabiano Zettel
+  (na evidência, o trecho entre aspas da defesa sobre os filhos foi substituído por paráfrase, e o restante da citação
+  do voto foi mantido); leonardo-augusto-furtado-palhares, ev-palhares-solar-associacao-ong-familia-vorcaro,
+  solar-sociedade-organizada e src-gazetadopovo-2026-operador-vorcaro-ong-africa passam a dizer que a ONG é ligada à
+  família de Daniel Vorcaro, sem identificar quem a representa; ev-vorcaro-preciso-matar-esse-cara-julho-2025, que
+  registrava em nota o primeiro nome de uma filha de Vorcaro, sean-monteine, rel-daniel-vorcaro-sean-monteine-allegation,
+  ev-os-meninos-modus-operandi-oficios-forjados-derrubada-perfis, ev-turma-forja-documento-da-interpol-e-vorcaro-oferece-10-milhoes
+  e ev-oficio-forjado-interpol-plano-intimidacao-dj-miami passam a falar em "familiar"; ev-valadao-e-a-familia-vorcaro-decadas-de-proximidade,
+  rel-daniel-vorcaro-andre-valadao-personal-social e src-jornaldebrasilia-2026-03-13-folhapress-lagoinha-familia-vorcaro
+  passam a falar em "festa familiar" de 2023, sem idade nem filhos; ac3-cobrancas-e-participacoes deixa de nomear os
+  quatro filhos de Augusto Lima sócios da holding (dois deles menores), e rel-augusto-lima-ac3-cobrancas-e-participacoes-corporate
+  e ev-augusto-lima-blindagem-patrimonial-e-bloqueios passam a falar em "familiares"; anderson-wander-da-silva-lima e
+  ev-anderson-wander-padrao-dois-anos-consultas-ilegais deixam de citar a ocasião familiar de um presente.'
+- 'Textos de lotes antigos: os resumos das revisões rev-2026-09-11-lote-184-palhares-primeira-manifestacao,
+  rev-2026-09-11-lote-185-marilson-primeira-manifestacao e rev-2026-09-11-lote-188-zettel-gemeos-domiciliar (inclusive
+  o título desta última) reproduziam os mesmos dados de filhos, dependentes e saúde retirados dos verbetes; passaram
+  a "circunstâncias familiares" ou "fato novo de ordem familiar", com nota de saneamento. Os ids foram mantidos. Outras
+  revisões antigas que mencionam de forma genérica, sem nome nem idade, um filho ou uma filha de Vorcaro (lotes 197,
+  198 e 203) ou os quatro filhos de Augusto Lima (lote 109) não foram alteradas.'
+- 'ev-anderson-wander-padrao-dois-anos-consultas-ilegais (decisão do editor-master): a proposição e a nota reproduziam
+  o nome de uma pessoa não investigada e a justificativa que Marilson Roseno deu, em mensagem transcrita pela decisão de
+  13/05/2026, para pedir a consulta sobre ela; a decisão apenas transcreve a mensagem, sem verificar a alegação, e nenhum
+  documento a sustenta. Pela política editorial (nenhuma imputação sem documento que a sustente; nome de terceiro só com
+  papel próprio), saíram o nome e o teor da alegação, que não são reproduzidos aqui. Ficam a data (30/10/2024), a
+  consulta, o pedido de Marilson e a ressalva de que a decisão não verifica a justificativa. "Consultas indevidas"
+  passou a ser qualificação atribuída à decisão.'
+- 'Dependente sem papel próprio: src-stf-pet15556-edoc247-peticao-zettel-domiciliar-pos-parto-24-04-2026 e uma pendência
+  de fabiano-zettel descreviam um familiar de Zettel invocado no pedido de domiciliar (parentesco, profissão e idade); a
+  fonte passa a mencionar apenas as circunstâncias familiares invocadas, e a pendência, que só registrava a falta de
+  mais dados sobre esse familiar, saiu.'
+- 'Texto próprio, casos apontados: banco-de-brasilia-brb e src-infomoney-2026-05-bc-brb-provisionamento-2-6-bilhoes
+  diziam que o provisionamento era para cobrir "a fraude" nas carteiras do Master; passa a "perdas com as carteiras
+  adquiridas do Master", atribuído à InfoMoney no verbete. augusto-lima chamava, em pendência, Vorcaro de controlador
+  "do esquema"; passa a "do Banco Master"; a "remuneração indevida" do resumo passa a ser atribuída à declaração de
+  28/10/2025 que a qualifica assim. davi-alcolumbre: a pendência levantada pelo editor em 10/09/2026 (a "blindagem"
+  que o senador daria a Moraes e o "esquema de comissões" de Rueda e ACM Neto) foi reescrita como registro neutro do
+  que a proposta de delação diz e do que o corpus não liga; nas pendências seguintes saíram a referência à hipótese do
+  editor e a especulação sobre plausibilidade. jorge-messias: "monitoramento ilícito" foi mantido, agora atribuído
+  expressamente à decisão de André Mendonça de 08/09/2026 na Pet 16.662 ("o que a decisão descreve como").'
+- 'Texto próprio, varredura (why_in_novelo, label e frases sem atribuição): reescritos com atribuição explícita ou termo
+  neutro, sem acrescentar fato — organizações asteba, banco-pleno (inclusive duas pendências sobre os "indícios de
+  fraude", agora atribuídos ao Poder360), clinica-mais-medico, espaco-engenharia (saiu "suspeitosamente"), fg-participacoes,
+  foco-dtvm (saiu "supervalorizado", fica o preço), galo-forte-fip, grupo-aquilla, inspiracao, jaguar-investments,
+  mgi-desenvolvimento, monteiro-sociedade-de-advogados (saiu "o caso mais grave"), talent-construcoes, terra-firme-da-bahia,
+  the-pay-solucoes-de-pagamentos e varajo-consultoria-empresarial; pessoas anderson-wander-da-silva-lima ("propina"
+  no resumo, agora "pagamentos", dentro da atribuição à PF), ana-claudia-queiroz-de-paiva, antonio-carlos-freixo-junior,
+  arthur-caixeta-nogueira, arthur-lira, benjamim-botelho-de-almeida (o why_in_novelo falava em fraude contábil sem
+  registrar a absolvição em primeira instância), cesar-reginato-ligeiro, cezinha-de-madureira (pendência), daniel-lopes-monteiro,
+  erlene-nonato-lacerda, felipe-cancado-vorcaro (saiu "o padrão familiar"), garigham-amarante-pinto, gilson-bahia-vasconcelos,
+  hamilton-suaki, leonardo-augusto-furtado-palhares ("operador jurídico-documental do esquema"), luiz-renno-netto,
+  marcio-coutinho-schumann, mariangela-fialek (saiu a Mesa Diretora "agindo para protegê-la"), nara-brum,
+  nayara-maria-dias-albuquerque-de-sa, paulo-henrique-costa, priscila-franca-parigine, tarcisio-de-freitas,
+  thaisa-menzato, tiago-oliva-schietti e valdemar-costa-neto; relações rel-daniel-vorcaro-tarcisio-de-freitas-allegation,
+  rel-gilson-bahia-vasconcelos-midias-promotora-corporate, rel-grupo-aquilla-banco-master-financial e
+  rel-operacao-sem-desconto-mauricio-camisotti-institutional (labels); evidências ev-duas-modalidades-distintas-de-fraude-atribuidas-ao-grupo-master,
+  ev-efb-acao-civil-eua-familia-vorcaro, ev-mecanismo-cdb-fundos-cativos-emprestimos-ficticios-inflacao-ativos e
+  ev-palhares-assinou-varajo-e-sucedeu-zettel-diretoria-super e a nota de ev-valadao-e-a-familia-vorcaro-decadas-de-proximidade.
+  Ids que contêm essas palavras foram mantidos para não
+  romper referências.'
+- 'Achado e não tocado: o sobrenome "Giunchetti" de Leo Serrano em ev-pf-aponta-jantares-e-degustacao-de-whiskey-de-vorcaro-a-claudio-castro
+  (e no lote 297) segue sem conferência em fonte; e-mail corporativo de pessoa jurídica (ev-augusto-lima-controla-asteba-asseba-por-procuracao,
+  src-bahiaba-2026-pf-liga-email-associacoes-augusto-lima) e CNPJs não são dado pessoal; bairros de residência de autoridades
+  (Lago Sul, Lago Norte) e cidades de buscas foram mantidos por não constituírem endereço; a unidade do Poème Horto,
+  de titularidade formal de pessoa jurídica e objeto da constrição, foi mantida; faixas etárias e idades de adultos
+  investigados foram mantidas.'
+author: orquestrador
+affected_ids:
+- src-brasilapi-2026-varajo-consultoria-cnpj
+- src-brasilapi-2026-miranda-comunicacao-eireli
+- src-brasilapi-2026-leo-dias-scp-thiago-miranda
+- ev-miranda-empresas-mithi-cnpj-nao-localizado
+- ev-tse-doacoes-zettel-2022-registro-primario
+- leonardo-augusto-furtado-palhares
+- augusto-de-arruda-botelho
+- cezinha-de-madureira
+- src-opovobbc-2026-09-14-quem-e-cezinha-de-madureira
+- ev-vorcaro-trajetoria-antes-do-banco
+- doc-2026-07-13-msmg-peticao-terceira-adquirente-boa-fe
+- ev-msmg-comprou-apartamento-de-wagner-por-10-milhoes
+- ev-registro-do-apartamento-de-wagner-barrado-pela-pet16230
+- msmg-patrimonial
+- marcelo-passos-de-araujo
+- rel-msmg-patrimonial-jaques-wagner-commercial
+- hamilton-suaki
+- rel-hamilton-suaki-daniel-lopes-monteiro-familial
+- src-stf-pet15556-edoc390-peticao-palhares-revisao-cautelares-12-08-2026
+- marilson-roseno-da-silva
+- src-stf-pet15556-edoc221-peticao-marilson-revogacao-prisao-02-04-2026
+- fabiano-zettel
+- natalia-vorcaro-zettel
+- src-stf-pet15556-edoc247-peticao-zettel-domiciliar-pos-parto-24-04-2026
+- gilmar-mendes
+- ev-gilmar-condicionou-reavaliacao-domiciliar-zettel
+- doc-2026-03-voto-gilmar-mendes-referendo-pet15556
+- ev-palhares-solar-associacao-ong-familia-vorcaro
+- solar-sociedade-organizada
+- src-gazetadopovo-2026-operador-vorcaro-ong-africa
+- ev-vorcaro-preciso-matar-esse-cara-julho-2025
+- sean-monteine
+- rel-daniel-vorcaro-sean-monteine-allegation
+- ev-os-meninos-modus-operandi-oficios-forjados-derrubada-perfis
+- ev-turma-forja-documento-da-interpol-e-vorcaro-oferece-10-milhoes
+- ev-oficio-forjado-interpol-plano-intimidacao-dj-miami
+- ev-valadao-e-a-familia-vorcaro-decadas-de-proximidade
+- rel-daniel-vorcaro-andre-valadao-personal-social
+- src-jornaldebrasilia-2026-03-13-folhapress-lagoinha-familia-vorcaro
+- ac3-cobrancas-e-participacoes
+- rel-augusto-lima-ac3-cobrancas-e-participacoes-corporate
+- ev-augusto-lima-blindagem-patrimonial-e-bloqueios
+- anderson-wander-da-silva-lima
+- ev-anderson-wander-padrao-dois-anos-consultas-ilegais
+- banco-de-brasilia-brb
+- src-infomoney-2026-05-bc-brb-provisionamento-2-6-bilhoes
+- augusto-lima
+- davi-alcolumbre
+- jorge-messias
+- asteba
+- banco-pleno
+- clinica-mais-medico
+- espaco-engenharia
+- fg-participacoes
+- foco-dtvm
+- galo-forte-fip
+- grupo-aquilla
+- inspiracao
+- jaguar-investments
+- mgi-desenvolvimento
+- monteiro-sociedade-de-advogados
+- talent-construcoes
+- terra-firme-da-bahia
+- the-pay-solucoes-de-pagamentos
+- varajo-consultoria-empresarial
+- ana-claudia-queiroz-de-paiva
+- antonio-carlos-freixo-junior
+- arthur-caixeta-nogueira
+- arthur-lira
+- benjamim-botelho-de-almeida
+- cesar-reginato-ligeiro
+- daniel-lopes-monteiro
+- erlene-nonato-lacerda
+- felipe-cancado-vorcaro
+- garigham-amarante-pinto
+- gilson-bahia-vasconcelos
+- luiz-renno-netto
+- marcio-coutinho-schumann
+- mariangela-fialek
+- nara-brum
+- nayara-maria-dias-albuquerque-de-sa
+- paulo-henrique-costa
+- priscila-franca-parigine
+- tarcisio-de-freitas
+- thaisa-menzato
+- tiago-oliva-schietti
+- valdemar-costa-neto
+- rel-daniel-vorcaro-tarcisio-de-freitas-allegation
+- rel-gilson-bahia-vasconcelos-midias-promotora-corporate
+- rel-grupo-aquilla-banco-master-financial
+- rel-operacao-sem-desconto-mauricio-camisotti-institutional
+- ev-duas-modalidades-distintas-de-fraude-atribuidas-ao-grupo-master
+- ev-efb-acao-civil-eua-familia-vorcaro
+- ev-mecanismo-cdb-fundos-cativos-emprestimos-ficticios-inflacao-ativos
+- ev-palhares-assinou-varajo-e-sucedeu-zettel-diretoria-super
+- rev-2026-09-11-lote-184-palhares-primeira-manifestacao
+- rev-2026-09-11-lote-185-marilson-primeira-manifestacao
+- rev-2026-09-11-lote-188-zettel-gemeos-domiciliar
+reason: >-
+  Saneamento pedido pelo orquestrador e autorizado por Rafael Fausel sobre o estado atual do acervo (EDITORIAL_POLICY
+  §3 e §6): registros antigos, anteriores à disciplina dos lotes 348 a 350, ainda traziam fragmentos de CPF, datas de
+  nascimento, unidade residencial, nomes e idades de filhos menores, dados de saúde de familiares e vocabulário de
+  imputação ou juízo do editor em texto próprio. O lote só reescreve texto; nenhum fato muda, e o histórico do git não
+  foi reescrito. Varredura feita em todo data/ (exceto revisions) por padrões de CPF, telefone, e-mail, endereço,
+  nascimento, filhos e menores, e por termos vedados em campos de texto próprio, com leitura integral de cada registro
+  antes da edição.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'

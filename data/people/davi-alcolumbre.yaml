@@ -44,19 +44,14 @@ cited_position:
   by_id: davi-alcolumbre
   date: '2026-06-12'
 open_questions:
-- 'HIPÓTESE EM ABERTO (levantada pelo editor, 10/09/2026): há uma possível ligação entre a blindagem que
-  Alcolumbre dá a Moraes contra o impeachment e o fato de que dois nomes de peso do próprio partido dele
-  (União Brasil) — Antônio Rueda e ACM Neto — são acusados por Vorcaro, em proposta de delação, de cobrar
-  comissão de 10% sobre aportes de RPPS ao Master. A equipe NÃO localizou nenhuma fonte que estabeleça relação
-  causal ou mesmo correlação direta entre os dois fatos; a proposta de delação (revelada em 10/09/2026) cita
+- 'Antônio Rueda e ACM Neto, do partido de Alcolumbre (União Brasil), são acusados por Vorcaro, em proposta
+  de delação revelada em 10/09/2026, de cobrar comissão de 10% sobre aportes de RPPS ao Master; a proposta cita
   institutos do Rio, Amapá e Amazonas de forma genérica, sem nomear Alcolumbre nem seu ex-tesoureiro Jocildo
-  Lemos. O que está confirmado é apenas a coincidência de partido e o fato de que Alcolumbre, ao ser cobrado
-  sobre o impeachment de Moraes, reagiu citando o financiamento do Dark Horse por Vorcaro (lote 167) — não
-  uma ligação com o esquema de comissões de Rueda/ACM Neto. Fica como fio a apurar, não como fato estabelecido.
-  ANTECEDENTE ENCONTRADO (lote 179): a mesma tese de conflito de interesse já havia sido articulada formalmente
-  seis meses antes, em representação individual ao STF de 09/03/2026 (e-Doc 82 da PET 15.556), que pediu seu
-  afastamento cautelar da presidência do Senado citando a perda de R$ 400 milhões do Amprev no Master — sem
-  que o corpus tenha localizado notícia de que o STF deu seguimento ao pedido.'
+  Lemos. O corpus não localizou fonte que relacione esse relato à posição de Alcolumbre sobre os pedidos de
+  impeachment de Moraes; ao ser cobrado sobre o tema, ele reagiu citando o financiamento do Dark Horse por
+  Vorcaro (lote 167). ANTECEDENTE (lote 179): representação individual ao STF de 09/03/2026 (e-Doc 82 da PET
+  15.556) pediu seu afastamento cautelar da presidência do Senado, por conflito de interesse, citando a perda
+  de R$ 400 milhões do Amprev no Master; o corpus não localizou notícia de que o STF deu seguimento ao pedido.'
 - 'Achado em 13/09/2026: Alberto Samuel Alcolumbre Tobelem — já registrado no corpus como presidente da
   Junta Comercial do Amapá, identificado pela imprensa (não por documento oficial) como seu irmão — integrou
   o Conselho Estadual de Previdência do Amapá em 2023-2024 e, a partir de 2025, o Conselho Fiscal da própria
@@ -68,9 +63,8 @@ open_questions:
   classificou como "falsa e irresponsável qualquer tentativa de vincular o presidente do Senado a essas
   nomeações ou decisões".'
 - 'DESENVOLVIMENTO EM 03/09/2026 (achado em 13/09/2026): a própria PF, em relatório de inteligência que
-  fundamenta a decisão de Moraes contra Mendonça, formula uma hipótese com os MESMOS três nomes (Mendonça,
-  Rueda, Alcolumbre) mas em direção causal OPOSTA à do editor: não que Alcolumbre blinda Moraes por causa
-  do esquema de Rueda/ACM Neto, mas que o próprio Mendonça poderia estar usando uma investigação sobre
+  fundamenta a decisão de Moraes contra Mendonça, formula uma hipótese com os nomes de Mendonça, Rueda e
+  Alcolumbre: que o próprio Mendonça poderia estar usando uma investigação sobre
   Rueda como "rota de acesso" para atingir Alcolumbre, descrito como "provável alvo estratégico" por seu
   controle da pauta do Senado "notadamente quanto ao processamento de pedidos de impeachment de ministros
   do Supremo" — e por ter sido, segundo o mesmo relatório, "grande empecilho" à indicação de Mendonça ao
@@ -88,9 +82,8 @@ open_questions:
 - 'Achado em 13/09/2026: Alcolumbre e Rueda são, na verdade, RIVAIS pelo comando estratégico do União
   Brasil para 2026 — Alcolumbre busca estreitar laços com o governo Lula, Rueda defende (com ACM Neto)
   postura mais distante e crítica. A rivalidade não confirma nem afasta a hipótese da PF sobre Mendonça
-  usar Rueda como via de acesso a Alcolumbre; apenas mostra que os dois não formam bloco único dentro do
-  próprio partido, o que pode tanto tornar mais plausível quanto mais improvável um "acesso" via Rueda,
-  a depender de qual hipótese política se adote — o corpus não resolve essa ambiguidade.'
+  usar Rueda como via de acesso a Alcolumbre; registra apenas que os dois não formam bloco único dentro do
+  próprio partido.'
 - O corpus não registra se e quando o requerimento da CPMI do Master foi lido.
 - 'Achado em 13/09/2026: reportagens de fevereiro de 2026 (O Tempo, Jornal de Brasília) o identificam,
   ao lado de Ciro Nogueira, entre os presentes do 1º Fórum Jurídico Brasil de Ideias (Londres, 24-26/04/2024),
@@ -115,7 +108,7 @@ open_questions:
 - 'Em ofício de 11/09/2026 a Fachin, Alexandre de Moraes o cita nominalmente, ao lado de si mesmo, como alvo
   de "direcionamento" de investigação por André Mendonça "por motivos pessoais e políticos" — acusação de
   uma parte contra outra em disputa institucional aberta, sem manifestação dele localizada até esta coleta,
-  e sem relação estabelecida com a hipótese em aberto acima sobre Rueda/ACM Neto.'
+  e sem relação estabelecida com o relato sobre Rueda e ACM Neto na proposta de delação.'
 - A negativa da assessoria cobre 'nomeações e decisões administrativas'; o corpus não localizou manifestação
   dele sobre a relação pessoal com Jocildo Lemos nem sobre o vínculo de campanha.
 source_ids:
@@ -155,7 +148,7 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-13'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/davi-alcolumbre.jpg
   source: Wikimedia Commons

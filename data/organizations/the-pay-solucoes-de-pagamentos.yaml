@@ -19,8 +19,9 @@ summary: 'Empresa de nome fantasia "Privilege" (CNPJ 17.780.249/0001-60), citada
   com remuneração incompatível com a administração de uma sociedade envolvida em cessões bilionárias.
   Segundo apurou o Banco Central, operações de consignado originadas pelo próprio Banco Master (e não por
   terceiros como a The-Pay) não apresentaram indícios de irregularidade.'
-why_in_novelo: É a origem de um segundo vetor de fraude na relação Master-BRB, distinto da Tirreno, com
-  indícios de que sua administração formal, ao menos desde 2024, é exercida por interpostas pessoas.
+why_in_novelo: Originou um segundo conjunto de carteiras questionadas na relação Master-BRB, distinto da Tirreno,
+  com indícios, segundo o MPF, de que sua administração formal, ao menos desde 2024, é exercida por interpostas
+  pessoas.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
@@ -39,4 +40,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'
 created_at: '2026-09-12'
-updated_at: '2026-09-12'
+updated_at: '2026-10-16'

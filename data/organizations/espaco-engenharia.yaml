@@ -10,7 +10,8 @@ summary: Empresa que subscreveu, em 31/10/2018, cotas do Brazil Realty FII integ
   averbação em favor do fundo. A empresa alienou toda a posição em cinco meses, com retorno de R$ 11,7
   milhões — rápida liquidação que a CVM apontou como evidência de propósito fraudulento.
 why_in_novelo: É outro dos subscritores cujo laudo de avaliação de imóveis a CVM considerou fraudulento,
-  com matrículas irregulares e liquidação suspeitosamente rápida das cotas obtidas.
+  com matrículas sem averbação em favor do fundo e liquidação das cotas em cinco meses, que a CVM apontou
+  como evidência de propósito fraudulento.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
@@ -21,4 +22,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-06'
 created_at: '2026-09-06'
-updated_at: '2026-09-06'
+updated_at: '2026-10-16'

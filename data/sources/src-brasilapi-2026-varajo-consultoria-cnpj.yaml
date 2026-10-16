@@ -9,7 +9,7 @@ source_type: corporate_registry
 summary: 'Consulta ao CNPJ 39.665.366/0001-15. Sociedade unipessoal aberta em 04/11/2020, capital social
   de R$ 10.000,00, CNAE principal de consultoria em gestão empresarial e secundário de holding de instituições
   não-financeiras, sede na Av. Paulista, 2202, 7º andar, conjunto 73, sala 6C (endereço de coworking).
-  Sócio único e administrador: Leonardo Augusto Furtado Palhares, CPF terminado em 356, com entrada em
+  Sócio único e administrador: Leonardo Augusto Furtado Palhares (o registro traz o CPF dele, não reproduzido), com entrada em
   04/11/2020. Situação cadastral SUSPENSA desde 03/03/2026 por DETERMINAÇÃO JUDICIAL — a suspensão determinada
   pelo STF aparece registrada no cadastro da Receita, com a data exata da decisão.'
 verification:
@@ -21,4 +21,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-09'
 created_at: '2026-09-09'
-updated_at: '2026-09-09'
+updated_at: '2026-10-16'

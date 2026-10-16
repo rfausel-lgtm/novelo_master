@@ -4,7 +4,7 @@ from_id: grupo-aquilla
 to_id: banco-master
 relationship_type: financial
 directed: false
-label: fundo do grupo apontado como instrumento da fraude contábil no Máxima
+label: fundo do grupo apontado pelo MPF como instrumento de simulação de valorização no Máxima
 start_date: '2014'
 description: Segundo denúncia do MPF, o fundo Aquilla Veyron FIM foi usado para simular valorização de
   investimentos e mascarar a insuficiência de capital do Banco Máxima entre 2014 e 2016 — a mesma mecânica
@@ -22,4 +22,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-03'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'
