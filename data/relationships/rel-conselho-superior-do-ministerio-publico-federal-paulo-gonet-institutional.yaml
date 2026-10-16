@@ -1,0 +1,31 @@
+id: rel-conselho-superior-do-ministerio-publico-federal-paulo-gonet-institutional
+kind: relationship
+from_id: conselho-superior-do-ministerio-publico-federal
+to_id: paulo-gonet
+relationship_type: institutional
+directed: true
+label: apreciou a Notícia de Fato sobre sua atuação no caso Master (25/09/2026)
+start_date: '2026-09-25'
+description: >-
+  Em 25/09/2026, segundo a notícia oficial do MPF, o Conselho Superior do MPF não conheceu, por unanimidade, dos
+  pedidos de impedimento ou suspeição do procurador-geral Paulo Gonet nas apurações do caso Master, julgou
+  prejudicados os pedidos de afastamento e rejeitou, por cinco votos a quatro, a abertura de investigação criminal
+  sobre sua atuação (Notícia de Fato PGR-00385698/2026, segundo a convocação). É decisão do colegiado sobre a
+  representação, não juízo sobre fato.
+evidence_class: D
+confidence: 0.9
+status: verified
+event_ids:
+- evt-2026-09-25-conselho-superior-do-mpf-nao-conhece-da-suspeicao-do-pgr-e-rejeita-por-5-a-4-investigar-sua-atuacao-no-caso-master
+evidence_ids:
+- ev-csmpf-nao-conhece-da-suspeicao-do-pgr-e-nega-por-5-a-4-a-investigacao-sobre-sua-atuacao
+source_ids:
+- src-mpf-2026-09-25-conselho-superior-do-mpf-nega-afastamento-e-apuracao-contra-paulo-gonet-por-conducao-no-caso-master
+- src-mpf-2026-09-23-conselho-superior-do-mpf-faz-sessao-extraordinaria-na-sexta-feira-25
+document_ids:
+- doc-2026-09-25-mpf-noticia-do-conselho-superior-sobre-a-atuacao-do-pgr-no-caso-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

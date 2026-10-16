@@ -1,0 +1,52 @@
+id: evt-2026-09-25-presidencia-do-stf-pede-a-oitiva-da-pgr-na-pet-16704
+kind: event
+title: A Presidência do STF pede a oitiva da PGR sobre todas as providências postuladas na PET 16.704
+event_type: judicial_decision
+date: '2026-09-25'
+date_precision: day
+participant_ids:
+- edson-fachin
+- supremo-tribunal-federal
+- ministerio-publico-federal
+description: >-
+  Em 25/09/2026, na PET 16.704, a Presidência do STF despachou: "Considerando os requerimentos pendentes, entendo
+  necessária a oitiva da Procuradoria-Geral da República acerca de todas as providências postuladas (Docs. 161,
+  163, 166, 175, 180, 184, 189 e 194), inclusive quanto à sua pertinência, necessidade, adequação e eventual
+  repercussão sobre procedimentos investigativos em curso. À Procuradoria-Geral da República, para manifestação e
+  parecer, no prazo de 5 (cinco) dias." No mesmo dia o portal registra "Vista à PGR". Em 13/10/2026 o Informe do
+  STF registra que a Presidência aguarda o pronunciamento da PGR na PET 16.704. O portal lista petições posteriores
+  (25, 26 e 29/09, duas em 08/10 e a Petição 128602, de 12/10) sem identificar os peticionantes, e o Novelo não as
+  atribui a ninguém. Até 13/10/2026, última entrada na consulta de 16/10, não há petição identificável da PGR nem
+  nova designação de pauta depois de 17/09.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-presidencia-do-stf-pede-a-oitiva-da-pgr-na-pet-16704-em-25-09
+- ev-informe-stf-pf-de-13-10-a-presidencia-do-stf-recebe-o-diretor-geral-da-pf
+source_ids:
+- src-stf-2026-10-16-pet-16704-andamentos
+- src-stf-2026-10-13-presidente-do-stf-ministro-edson-fachin-recebe-diretor-geral-da-policia-federal-andrei-rodrigues
+document_ids:
+- doc-2026-09-25-stf-despacho-da-presidencia-na-pet-16704-ouve-a-pgr
+cited_position:
+- by_id: edson-fachin
+  kind: version
+  date: '2026-09-25'
+  summary: O próprio despacho de 25/09/2026, transcrito nos andamentos do portal, é a posição da Presidência.
+  source_ids:
+  - src-stf-2026-10-16-pet-16704-andamentos
+- by_id: ministerio-publico-federal
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Manifestação da PGR na PET 16.704 não identificada nos andamentos públicos até 13/10/2026 (consulta de
+    16/10/2026); a Agência Brasil noticia parecer de 13/10 sobre o afastamento do diretor-geral da PF, sem dizer em
+    que PET.
+  source_ids:
+  - src-stf-2026-10-16-pet-16704-andamentos
+  - src-agenciabrasil-2026-10-14-pgr-se-manifesta-contra-afastamento-de-diretor-geral-da-pf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

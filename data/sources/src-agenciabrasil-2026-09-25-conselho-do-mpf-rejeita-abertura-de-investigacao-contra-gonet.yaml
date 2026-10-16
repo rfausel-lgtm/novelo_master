@@ -1,0 +1,30 @@
+id: src-agenciabrasil-2026-09-25-conselho-do-mpf-rejeita-abertura-de-investigacao-contra-gonet
+kind: source
+title: Conselho do MPF rejeita abertura de investigação contra Gonet
+publisher: Agência Brasil
+author: André Richter
+publication_date: '2026-09-25'
+retrieved_at: '2026-10-16'
+url: https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/conselho-do-mpf-rejeita-abertura-de-investigacao-contra-gonet
+source_type: wire
+language: pt-BR
+summary: >-
+  Publicada em 25/09/2026, às 18:11. Segundo a agência, o Partido Novo pediu que Paulo Gonet fosse investigado por
+  prevaricação e afastado dos processos do Banco Master; a investigação foi rejeitada por "5 votos a 4" e a
+  manutenção de Gonet no caso teve "placar unânime de 9 votos a 0", versão que diverge da notícia oficial do MPF
+  (não conhecimento da suspeição e pedidos de afastamento prejudicados). Registra que Gonet descreveu sua
+  interação com Vorcaro como "brevíssima e banal". Não traz declaração institucional da PGR nem do Partido Novo
+  sobre o resultado.
+notes: >-
+  A matéria traz falas e votos de conselheiros; o Novelo não os registra (juízo de terceiros sobre o PGR; grafia
+  de nomes divergente entre os veículos).
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

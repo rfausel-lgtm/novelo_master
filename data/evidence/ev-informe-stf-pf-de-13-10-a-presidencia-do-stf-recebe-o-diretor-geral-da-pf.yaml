@@ -1,0 +1,27 @@
+id: ev-informe-stf-pf-de-13-10-a-presidencia-do-stf-recebe-o-diretor-geral-da-pf
+kind: evidence
+classification: D
+proposition: >-
+  Segundo o Informe à Imprensa conjunto do STF e da PF de 13/10/2026, o presidente do STF, Edson Fachin, recebeu
+  naquele dia, em audiência solicitada pela PF, o diretor-geral Andrei Rodrigues, que tratou do Ofício 3467748, de
+  02/10/2026, sobre o formato de apresentação do material das investigações do Master; o presidente esclareceu que
+  a eventual investigação de ministro depende de autorização do Plenário e que a autoridade policial deve
+  encaminhar todas as menções encontradas, sem exceção, com seu contexto e em caráter estritamente descritivo; e a
+  Presidência registrou que aguarda o pronunciamento da PGR na PET 16.704.
+document_ids:
+- doc-2026-10-13-stf-e-pf-informe-a-imprensa-sobre-a-audiencia-fachin-andrei-rodrigues
+source_ids:
+- src-stf-2026-10-13-presidente-do-stf-ministro-edson-fachin-recebe-diretor-geral-da-policia-federal-andrei-rodrigues
+excerpt: >-
+  O presidente esclareceu que a eventual realização de atos de investigação de ministro depende de autorização do
+  Plenário da Corte
+date: '2026-10-13'
+notes: >-
+  O Informe diz que o diretor-geral "tratou do Ofício 3467748", sem dizer quem o expediu; o Novelo não fixa o
+  remetente. O Informe não fixa prazo para relatório nem nomeia
+  ministros.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

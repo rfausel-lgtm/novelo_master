@@ -1,0 +1,35 @@
+id: src-stf-2026-10-16-pet-16704-andamentos
+kind: source
+title: PET 16704 — andamentos
+publisher: Supremo Tribunal Federal (portal processual)
+publication_date: '2026-10-16'
+retrieved_at: '2026-10-16'
+url: https://portal.stf.jus.br/processos/abaAndamentos.asp?incidente=7687920
+source_type: official_court
+language: pt-BR
+summary: >-
+  Andamentos da PET 16.704. Em 25/09/2026, despacho da Presidência: "Considerando os requerimentos pendentes,
+  entendo necessária a oitiva da Procuradoria-Geral da República acerca de todas as providências postuladas
+  (Docs. 161, 163, 166, 175, 180, 184, 189 e 194), inclusive quanto à sua pertinência, necessidade, adequação e
+  eventual repercussão sobre procedimentos investigativos em curso. À Procuradoria-Geral da República, para
+  manifestação e parecer, no prazo de 5 (cinco) dias."; no mesmo dia, "Vista à PGR". Depois do despacho constam
+  petições de manifestação em 25/09 (121549), 26/09 (121748), 29/09 (123031), 08/10 (127324 e 127346) e 12/10
+  (128602, às 19:38, remetida à Presidência em 13/10), sem identificação dos peticionantes. O andamento mais recente
+  na consulta é o de 13/10/2026; não há devolução da vista de Flávio Dino nem nova designação de pauta depois do
+  despacho de 17/09/2026, nem petição identificável da PGR.
+notes: >-
+  Página dinâmica, sem captura no Wayback; consulta de 16/10/2026, que repete a dos investigadores de 15/10/2026.
+  Captura de texto do trecho de 25/09 a 13/10 em raw/capturas/2026-10-16/stf-pet-16704-andamentos-2026-10-16.txt
+  (sha256 61582d5e8edf7a3688a53284b209e40512c27afa1e2e295927df7c82e63bc7a0). A vista de Flávio Dino de
+  15/09/2026 foi pedida na PET 16.662; nos andamentos dessa PET (incidente 7681133), também consultados em
+  16/10/2026, a entrada mais recente é a remessa da Petição 128795, de 13/10/2026, e não há devolução da vista.
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

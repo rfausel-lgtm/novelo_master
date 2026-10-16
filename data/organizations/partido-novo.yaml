@@ -6,13 +6,32 @@ aliases:
 org_type: party
 summary: Partido político que protocolou no STF, em 03/09/2026, pedidos de prisão preventiva e de afastamento
   cautelar do diretor-geral da Polícia Federal, com abertura de inquérito, no âmbito do inquérito da Operação
-  Compliance Zero.
+  Compliance Zero. Segundo o Poder360 e a Agência Brasil, é o requerente da Notícia de Fato apreciada pelo
+  Conselho Superior do MPF em 25/09/2026; em 28/09/2026 pediu a Fachin a anulação do pedido de vista de Flávio
+  Dino (Congresso em Foco; Times Brasil).
 why_in_novelo: Apresentou ao STF os pedidos de prisão e de afastamento do diretor-geral da Polícia Federal
   no caso Master.
 cited_position:
+- kind: version
+  by_id: partido-novo
+  date: '2026-09-28'
+  summary: >-
+    O pedido de 28/09/2026 a Fachin para anular a vista de Flávio Dino de 15/09, nos termos descritos pelo
+    Congresso em Foco ("desvio de finalidade") e pelo Times Brasil; os argumentos são do partido.
+  source_ids:
+  - src-congressoemfoco-2026-09-28-novo-requer-anulacao-do-pedido-de-vista-de-dino-em-acao-do-caso-master
+  - src-timesbrasil-2026-09-28-caso-master-novo-pede-que-stf-desconsidere-pedido-de-vista-de-dino-em-julgamento-sobre-moraes
 - kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+  by_id: partido-novo
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma nota do partido sobre a decisão do Conselho Superior do MPF de 25/09/2026 localizada (busca do Novelo
+    em 16/10/2026 na notícia do MPF, no Poder360 e na Agência Brasil, que só registram o pedido).
+  source_ids:
+  - src-poder360-2026-09-25-conselho-do-mpf-rejeita-abrir-investigacao-contra-gonet
+  - src-agenciabrasil-2026-09-25-conselho-do-mpf-rejeita-abertura-de-investigacao-contra-gonet
 open_questions:
+- Sem decisão localizada sobre o agravo interno de 14/09/2026 nem sobre o pedido de 28/09/2026 (andamentos das PET 16.704 e 16.662 consultados em 16/10/2026); a PET em que o pedido de 28/09 foi protocolado não foi identificada.
 - Os pedidos são de parte; o corpus não registra decisão do relator sobre eles.
 - 'NOVO (15/09/2026): em 14/09, interpôs agravo interno contra a decisão de Fachin de 09/09 que suspendeu
   a decisão de Mendonça e sobrestou a Pet 16.662, pedindo reconsideração ou submissão ao Plenário antes da
@@ -21,11 +40,15 @@ open_questions:
 source_ids:
 - src-poder360-2026-09-03-novo-pede-prisao-de-andrei
 - src-stf-pet16704-agravo-interno-partido-novo-14-09
+- src-poder360-2026-09-25-conselho-do-mpf-rejeita-abrir-investigacao-contra-gonet
+- src-agenciabrasil-2026-09-25-conselho-do-mpf-rejeita-abertura-de-investigacao-contra-gonet
+- src-congressoemfoco-2026-09-28-novo-requer-anulacao-do-pedido-de-vista-de-dino-em-acao-do-caso-master
+- src-timesbrasil-2026-09-28-caso-master-novo-pede-que-stf-desconsidere-pedido-de-vista-de-dino-em-julgamento-sobre-moraes
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-15'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/partido-novo.png
   source: Wikimedia Commons

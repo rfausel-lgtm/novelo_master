@@ -1,0 +1,100 @@
+id: rev-2026-10-16-lote-352-csmpf-pet-16704-fachin-pf-e-parecer-da-pgr
+kind: revision
+date: '2026-10-16'
+title: 'Lote 352 — O Conselho Superior do MPF não conhece da suspeição do PGR e rejeita, por 5 a 4, investigar sua atuação no caso Master; a Presidência do STF pede o parecer da PGR na PET 16.704; o Partido Novo pede a anulação da vista de Dino; Fachin e a PF tratam das menções a ministros; e a PGR, segundo a Agência Brasil, se opõe ao afastamento do diretor-geral da PF'
+summary: >-
+  Lote sobre quem decide a condução do caso, de 25/09 a 13/10/2026. O que NÃO se afirma, em destaque: as decisões
+  aqui registradas são atos processuais e de colegiado, não juízo sobre a conduta de ninguém; o Novelo não
+  localizou a ata nem os votos nominais da sessão do Conselho Superior do MPF, o parecer da PGR sobre o
+  afastamento do diretor-geral da PF (nem a PET em que estaria), a peça do Partido Novo de 28/09 nem decisão sobre
+  ela, e não atribui a ninguém as petições sem identificação listadas nos andamentos das PET 16.704 e 16.662.
+  Camada D, só quanto ao conteúdo de cada ato: segundo a notícia oficial do MPF (25/09/2026, 18:14) e a convocação
+  de 23/09, na 1ª Sessão Extraordinária de 2026 o Conselho Superior do MPF, com relatoria do subprocurador-geral
+  Francisco Sanseverino e presidência prevista, na convocação, do vice-presidente Nicolao Dino, apreciou a Notícia de Fato
+  PGR-00385698/2026 (número só na convocação), sobre a atuação do PGR Paulo Gonet nas apurações do Master,
+  especialmente nas PET 15.556 e 16.662; por unanimidade decidiu pelo não conhecimento dos pedidos de impedimento
+  ou suspeição, por não ter competência legal para analisá-los, e julgou prejudicados os de afastamento; por cinco
+  votos a quatro negou a investigação criminal "por ausência de elementos mínimos para a tipificação do crime de
+  prevaricação". O MPF não nomeia o requerente; segundo o Poder360 e a Agência Brasil, é o Partido Novo (classe C);
+  a Agência Brasil fala em "9 votos a 0" para não afastar, versão não adotada. Na PET 16.704, despacho da
+  Presidência do STF de 25/09/2026 (portal, consulta de 16/10) determina a oitiva da PGR, em cinco dias, "acerca de
+  todas as providências postuladas"; até 13/10, última entrada, não há petição identificável da PGR, devolução da
+  vista de Flávio Dino nem nova pauta. Em 13/10/2026, segundo o Informe à Imprensa conjunto do STF e da PF (lido na
+  íntegra, com captura e sha256 em raw/), Fachin recebeu Andrei Rodrigues em audiência solicitada pela PF; o
+  diretor-geral tratou do Ofício 3467748, de 02/10, cujo remetente o Informe não identifica e o Novelo não fixa; o
+  presidente esclareceu que a investigação de ministro depende de autorização do Plenário e que a PF deve
+  encaminhar "todas as menções encontradas sem exceção", em caráter descritivo; a Presidência aguardava a PGR na
+  PET 16.704; o Informe não fixa prazo nem nomeia ministros. Camada C/A: segundo o Congresso em Foco e o Times
+  Brasil, o Novo pediu a Fachin em 28/09 a anulação da vista de Dino de 15/09, com empate de 4 a 4 e voto de
+  desempate do presidente; os argumentos ("desvio de finalidade") são do requerente; Dino não respondeu nas fontes.
+  Segundo a Agência Brasil (classe A), Fachin oficiou à PF em 02/10 e a PGR enviou ao STF, na noite de 13/10,
+  parecer contrário ao afastamento de Andrei Rodrigues e de Leandro Almada, por falta de evidências da
+  "participação imprópria em atos ilícitos". Entra uma organização nova, o Conselho Superior do MPF; Sanseverino,
+  Nicolao Dino e os demais conselheiros não ganham verbete, nem os signatários do parecer. Corrigido no acervo: a
+  pendência de Paulo Gonet sobre a manifestação formal da PGR, superada, e o contraditório genérico do Partido
+  Novo. Não confirmado: ata, votos e requerente na fonte oficial do MPF; peticionantes da PET 16.704; teor, data e
+  PET do parecer da PGR; destino do pedido do Novo e do agravo de 14/09; devolução da vista de Dino; formato e data
+  da entrega do material da PF; manifestação de Gonet sobre a decisão do Conselho.
+added:
+  people: 0
+  organizations: 1
+  events: 5
+  documents: 3
+  relationships: 3
+  sources: 11
+  evidence: 7
+updated_relationships: 0
+corrections:
+- 'paulo-gonet: a pendência "O corpus não tem a manifestação formal da PGR ao relator; o prazo de cinco dias estava em curso" estava desatualizada diante do despacho da Presidência de 25/09/2026 na PET 16.704 e do Informe do STF de 13/10/2026; foi reescrita com o estado atual (parecer pedido em 25/09, aguardado em 13/10, parecer sobre o afastamento noticiado só pela Agência Brasil).'
+- 'partido-novo: o cited_position not_located genérico ("Nenhuma manifestação pública específica localizada") foi substituído pelas manifestações localizadas: o pedido de 28/09/2026 (version) e a ausência de nota sobre a decisão do Conselho Superior do MPF (not_located com a busca descrita).'
+- 'Nota de método (não é correção de registro publicado): o Informe oficial de 13/10/2026 diz que o diretor-geral "tratou do Ofício 3467748", de 02/10, sem dizer quem o expediu; a Agência Brasil noticia ofício de Fachin à PF naquela data, sem número; o Novelo não fixa o remetente do nº 3467748 nem afirma se há um ou dois ofícios de 02/10 (a versão do plano de redação, de que o nº seria da PF, foi retirada por não constar do Informe). A frase de que suspeição é matéria do STF "onde tramita a ação", do plano de redação, não é literal na notícia do MPF, que diz que o questionamento deve ser feito no processo em trâmite no STF; entrou em paráfrase. A expressão "desvio de finalidade" está só no Congresso em Foco, e "deixou de servir ao exame do processo para servir à condução da sessão" só no Times Brasil; cada uma é atribuída ao veículo em que aparece. A notícia do resultado do MPF não cita as PETs nem Nicolao Dino, que vêm da convocação.'
+author: orquestrador
+affected_ids:
+- conselho-superior-do-ministerio-publico-federal
+- paulo-gonet
+- ministerio-publico-federal
+- edson-fachin
+- andrei-rodrigues
+- leandro-almada-da-costa
+- policia-federal
+- supremo-tribunal-federal
+- partido-novo
+- flavio-dino
+- evt-2026-09-25-conselho-superior-do-mpf-nao-conhece-da-suspeicao-do-pgr-e-rejeita-por-5-a-4-investigar-sua-atuacao-no-caso-master
+- evt-2026-09-25-presidencia-do-stf-pede-a-oitiva-da-pgr-na-pet-16704
+- evt-2026-09-28-partido-novo-pede-a-fachin-a-anulacao-da-vista-de-dino
+- evt-2026-10-13-fachin-recebe-andrei-rodrigues-e-stf-e-pf-divulgam-informe-sobre-as-mencoes-a-ministros
+- evt-2026-10-13-pgr-envia-ao-stf-parecer-contrario-ao-afastamento-do-diretor-geral-da-pf-segundo-a-agencia-brasil
+- doc-2026-09-25-mpf-noticia-do-conselho-superior-sobre-a-atuacao-do-pgr-no-caso-master
+- doc-2026-09-25-stf-despacho-da-presidencia-na-pet-16704-ouve-a-pgr
+- doc-2026-10-13-stf-e-pf-informe-a-imprensa-sobre-a-audiencia-fachin-andrei-rodrigues
+- rel-conselho-superior-do-ministerio-publico-federal-paulo-gonet-institutional
+- rel-conselho-superior-do-ministerio-publico-federal-ministerio-publico-federal-institutional
+- rel-partido-novo-conselho-superior-do-ministerio-publico-federal-institutional
+- ev-csmpf-nao-conhece-da-suspeicao-do-pgr-e-nega-por-5-a-4-a-investigacao-sobre-sua-atuacao
+- ev-partido-novo-e-o-requerente-da-representacao-contra-gonet-no-csmpf
+- ev-presidencia-do-stf-pede-a-oitiva-da-pgr-na-pet-16704-em-25-09
+- ev-partido-novo-pede-a-fachin-a-anulacao-do-pedido-de-vista-de-dino
+- ev-informe-stf-pf-de-13-10-a-presidencia-do-stf-recebe-o-diretor-geral-da-pf
+- ev-fachin-oficiou-a-pf-em-02-10-segundo-a-agencia-brasil
+- ev-pgr-parecer-contra-o-afastamento-de-andrei-rodrigues-e-leandro-almada-segundo-a-agencia-brasil
+- src-mpf-2026-09-25-conselho-superior-do-mpf-nega-afastamento-e-apuracao-contra-paulo-gonet-por-conducao-no-caso-master
+- src-mpf-2026-09-23-conselho-superior-do-mpf-faz-sessao-extraordinaria-na-sexta-feira-25
+- src-poder360-2026-09-25-conselho-do-mpf-rejeita-abrir-investigacao-contra-gonet
+- src-agenciabrasil-2026-09-25-conselho-do-mpf-rejeita-abertura-de-investigacao-contra-gonet
+- src-stf-2026-10-16-pet-16704-andamentos
+- src-congressoemfoco-2026-09-28-novo-requer-anulacao-do-pedido-de-vista-de-dino-em-acao-do-caso-master
+- src-timesbrasil-2026-09-28-caso-master-novo-pede-que-stf-desconsidere-pedido-de-vista-de-dino-em-julgamento-sobre-moraes
+- src-stf-2026-10-13-presidente-do-stf-ministro-edson-fachin-recebe-diretor-geral-da-policia-federal-andrei-rodrigues
+- src-agenciabrasil-2026-10-02-fachin-tera-reuniao-com-pf-sobre-citacoes-a-ministros-no-caso-master
+- src-agenciabrasil-2026-10-13-master-fachin-se-reune-com-pf-para-tratar-de-citacoes-a-ministros
+- src-agenciabrasil-2026-10-14-pgr-se-manifesta-contra-afastamento-de-diretor-geral-da-pf
+reason: >-
+  Varredura de 19/09 a 15/10/2026 (linhas C e D, controles institucionais), liberada pelo investigador-chefe em
+  16/10/2026 como lote 352 ("quem decide sobre a condução do caso"); o bloco do TCU, de Zanin e das urnas sai em
+  lote próprio. Pré-publicação feita no dia: permalink do Informe do STF conferido (é a URL canônica do post, sem
+  Wayback; captura e sha256 em raw/) e andamentos das PET 16.704 e 16.662 reconsultados, sem petição identificável
+  da PGR depois de 13/10.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'

@@ -1,0 +1,26 @@
+id: ev-csmpf-nao-conhece-da-suspeicao-do-pgr-e-nega-por-5-a-4-a-investigacao-sobre-sua-atuacao
+kind: evidence
+classification: D
+proposition: >-
+  Segundo a notícia oficial do MPF de 25/09/2026, na 1ª Sessão Extraordinária de 2026 o Conselho Superior do MPF,
+  relator o subprocurador-geral Francisco Sanseverino, decidiu por unanimidade pelo não conhecimento dos pedidos
+  de impedimento ou suspeição do procurador-geral Paulo Gonet nas apurações do caso Master, por não ter
+  competência legal para analisá-los, julgou prejudicados os pedidos de afastamento e, por cinco votos a quatro,
+  rejeitou a abertura de investigação criminal "por ausência de elementos mínimos para a tipificação do crime de
+  prevaricação"; segundo a convocação de 23/09, a sessão apreciou a Notícia de Fato PGR-00385698/2026.
+document_ids:
+- doc-2026-09-25-mpf-noticia-do-conselho-superior-sobre-a-atuacao-do-pgr-no-caso-master
+source_ids:
+- src-mpf-2026-09-25-conselho-superior-do-mpf-nega-afastamento-e-apuracao-contra-paulo-gonet-por-conducao-no-caso-master
+- src-mpf-2026-09-23-conselho-superior-do-mpf-faz-sessao-extraordinaria-na-sexta-feira-25
+excerpt: por ausência de elementos mínimos para a tipificação do crime de prevaricação
+date: '2026-09-25'
+notes: >-
+  D demonstra o que o MPF diz ter sido decidido, não demonstra nem afasta qualquer fato sobre Gonet. A versão da
+  Agência Brasil ("9 votos a 0" para não afastar) não é adotada; vale a da notícia oficial. Ata, certidão e votos
+  nominais não localizados em fonte oficial.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

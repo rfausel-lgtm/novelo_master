@@ -1,0 +1,19 @@
+id: ev-fachin-oficiou-a-pf-em-02-10-segundo-a-agencia-brasil
+kind: evidence
+classification: A
+proposition: >-
+  Segundo a Agência Brasil, Edson Fachin enviou ofício à Polícia Federal em 02/10/2026 afirmando que, recebidas as
+  informações, "sem exceção de pessoa, os fatos correlatos, serão dados os encaminhamentos devidos", e a reunião
+  com o diretor-geral foi prevista para 13/10/2026.
+source_ids:
+- src-agenciabrasil-2026-10-02-fachin-tera-reuniao-com-pf-sobre-citacoes-a-ministros-no-caso-master
+attributed_to: Agência Brasil
+date: '2026-10-02'
+notes: >-
+  O ofício de Fachin não foi localizado e a matéria não traz número. O Informe de 13/10/2026 cita um Ofício
+  3467748, da mesma data, sem dizer quem o expediu; o Novelo não afirma se é o mesmo documento nem fixa o remetente.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

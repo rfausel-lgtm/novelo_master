@@ -1,0 +1,74 @@
+id: evt-2026-09-25-conselho-superior-do-mpf-nao-conhece-da-suspeicao-do-pgr-e-rejeita-por-5-a-4-investigar-sua-atuacao-no-caso-master
+kind: event
+title: O Conselho Superior do MPF não conhece da suspeição do PGR e rejeita, por 5 a 4, abrir investigação sobre sua atuação no caso Master
+event_type: public_act
+date: '2026-09-25'
+date_precision: day
+participant_ids:
+- conselho-superior-do-ministerio-publico-federal
+- paulo-gonet
+- ministerio-publico-federal
+- partido-novo
+description: >-
+  Na 1ª Sessão Extraordinária de 2026, em 25/09/2026, o Conselho Superior do Ministério Público Federal, com
+  relatoria do subprocurador-geral da República Francisco Sanseverino e presidência prevista, na convocação de
+  23/09, do vice-presidente do Conselho, Nicolao Dino, apreciou a Notícia de Fato PGR-00385698/2026, sobre a atuação do
+  procurador-geral Paulo Gonet nas apurações do caso Master, especialmente nas PET 15.556 e 16.662, segundo a mesma
+  convocação. Segundo a notícia oficial do MPF, o Conselho decidiu por unanimidade pelo não conhecimento dos
+  pedidos de impedimento ou suspeição, por não ter competência legal para analisá-los (o questionamento, segundo o
+  texto, deve ser feito no processo em trâmite no STF), e julgou prejudicados os pedidos de afastamento; por cinco
+  votos a quatro, negou a abertura de investigação criminal "por ausência de elementos mínimos para a tipificação
+  do crime de prevaricação". O MPF não nomeia o requerente; segundo o Poder360 e a Agência Brasil, é o Partido
+  Novo. A decisão é do colegiado sobre a representação e não é manifestação sobre a veracidade de qualquer fato.
+  O Novelo não localizou a ata da sessão nem os votos nominais em fonte oficial.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-csmpf-nao-conhece-da-suspeicao-do-pgr-e-nega-por-5-a-4-a-investigacao-sobre-sua-atuacao
+- ev-partido-novo-e-o-requerente-da-representacao-contra-gonet-no-csmpf
+source_ids:
+- src-mpf-2026-09-25-conselho-superior-do-mpf-nega-afastamento-e-apuracao-contra-paulo-gonet-por-conducao-no-caso-master
+- src-mpf-2026-09-23-conselho-superior-do-mpf-faz-sessao-extraordinaria-na-sexta-feira-25
+- src-poder360-2026-09-25-conselho-do-mpf-rejeita-abrir-investigacao-contra-gonet
+- src-agenciabrasil-2026-09-25-conselho-do-mpf-rejeita-abertura-de-investigacao-contra-gonet
+document_ids:
+- doc-2026-09-25-mpf-noticia-do-conselho-superior-sobre-a-atuacao-do-pgr-no-caso-master
+cited_position:
+- by_id: paulo-gonet
+  kind: version
+  date: '2026-09-15'
+  summary: >-
+    No plenário do STF, em 15/09/2026, segundo o Poder360: "O único encontro que eu tive com o senhor Vorcaro se
+    deu com várias autoridades em abril de 2024".
+  source_ids:
+  - src-poder360-2026-09-25-conselho-do-mpf-rejeita-abrir-investigacao-contra-gonet
+- by_id: paulo-gonet
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma manifestação de Gonet ou da PGR sobre a decisão do Conselho localizada: o Poder360 registra que ele não
+    participou da sessão e não traz manifestação sobre a votação; a Agência Brasil não traz declaração
+    institucional (busca do Novelo em 16/10/2026 nas fontes deste evento).
+  source_ids:
+  - src-poder360-2026-09-25-conselho-do-mpf-rejeita-abrir-investigacao-contra-gonet
+  - src-agenciabrasil-2026-09-25-conselho-do-mpf-rejeita-abertura-de-investigacao-contra-gonet
+- by_id: conselho-superior-do-ministerio-publico-federal
+  kind: version
+  date: '2026-09-25'
+  summary: A notícia oficial do MPF de 25/09/2026 é a posição do órgão sobre a decisão.
+  source_ids:
+  - src-mpf-2026-09-25-conselho-superior-do-mpf-nega-afastamento-e-apuracao-contra-paulo-gonet-por-conducao-no-caso-master
+- by_id: partido-novo
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma nota do partido sobre o resultado localizada nas quatro fontes deste evento (busca do Novelo em
+    16/10/2026); a posição do partido é a própria representação, segundo o Poder360 e a Agência Brasil.
+  source_ids:
+  - src-poder360-2026-09-25-conselho-do-mpf-rejeita-abrir-investigacao-contra-gonet
+  - src-agenciabrasil-2026-09-25-conselho-do-mpf-rejeita-abertura-de-investigacao-contra-gonet
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

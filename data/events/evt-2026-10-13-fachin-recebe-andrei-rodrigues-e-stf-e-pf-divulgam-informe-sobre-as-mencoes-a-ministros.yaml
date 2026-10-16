@@ -1,0 +1,61 @@
+id: evt-2026-10-13-fachin-recebe-andrei-rodrigues-e-stf-e-pf-divulgam-informe-sobre-as-mencoes-a-ministros
+kind: event
+title: Fachin recebe o diretor-geral da PF, e o STF e a PF divulgam Informe sobre o encaminhamento das menções a ministros
+event_type: meeting
+date: '2026-10-13'
+date_precision: day
+participant_ids:
+- edson-fachin
+- andrei-rodrigues
+- policia-federal
+- supremo-tribunal-federal
+description: >-
+  Em 13/10/2026 o presidente do STF, Edson Fachin, recebeu o diretor-geral da PF, Andrei Rodrigues, "em audiência
+  solicitada pela Polícia Federal". Segundo o Informe à Imprensa do mesmo dia (18:43), assinado pela Secretaria de
+  Comunicação do STF e pela Coordenação Geral de Comunicação Social da PF: quanto às investigações do Master, o
+  diretor-geral tratou do Ofício 3467748, de 02/10/2026, "solicitando informações sobre formato para apresentação
+  do material respectivo"; o presidente esclareceu que "a eventual realização de atos de investigação de ministro
+  depende de autorização do Plenário da Corte" e ressaltou que "a autoridade policial tem o dever de encaminhar
+  todas as menções encontradas sem exceção, acompanhadas de seu contexto, em caráter estritamente descritivo";
+  apresentados os elementos, o Plenário, ouvida a PGR, "pode deliberar" nos termos do art. 33, parágrafo único, da
+  Lei Complementar 35/1979. Sobre ameaças a ministros, a PF "reiterou seu compromisso" com a segurança; sobre os
+  inquéritos do INSS e do Master, a Presidência registrou que aguarda o pronunciamento da PGR na PET 16.704; sobre
+  o INQ 4781, o presidente pediu celeridade à PF. Segundo a Agência Brasil (02/10/2026), Fachin havia enviado
+  ofício à PF em 02/10 afirmando que, recebidas as informações, "sem exceção de pessoa, os fatos correlatos, serão
+  dados os encaminhamentos devidos", e a agência informou que a audiência ocorreria em 13/10; esse ofício não foi
+  localizado. O Informe cita o Ofício 3467748 sem dizer quem o expediu; o Novelo não fixa o remetente do nº 3467748 nem afirma se há um ou dois ofícios daquela data.
+  O Informe não fixa prazo para a entrega do material nem nomeia ministros.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-informe-stf-pf-de-13-10-a-presidencia-do-stf-recebe-o-diretor-geral-da-pf
+- ev-fachin-oficiou-a-pf-em-02-10-segundo-a-agencia-brasil
+source_ids:
+- src-stf-2026-10-13-presidente-do-stf-ministro-edson-fachin-recebe-diretor-geral-da-policia-federal-andrei-rodrigues
+- src-agenciabrasil-2026-10-02-fachin-tera-reuniao-com-pf-sobre-citacoes-a-ministros-no-caso-master
+- src-agenciabrasil-2026-10-13-master-fachin-se-reune-com-pf-para-tratar-de-citacoes-a-ministros
+document_ids:
+- doc-2026-10-13-stf-e-pf-informe-a-imprensa-sobre-a-audiencia-fachin-andrei-rodrigues
+cited_position:
+- by_id: policia-federal
+  kind: public_note
+  date: '2026-10-13'
+  summary: >-
+    A PF assina, com o STF, o Informe à Imprensa de 13/10/2026; nenhuma declaração pessoal de Andrei Rodrigues à
+    imprensa foi localizada (a Agência Brasil não traz fala dele).
+  source_ids:
+  - src-stf-2026-10-13-presidente-do-stf-ministro-edson-fachin-recebe-diretor-geral-da-policia-federal-andrei-rodrigues
+  - src-agenciabrasil-2026-10-13-master-fachin-se-reune-com-pf-para-tratar-de-citacoes-a-ministros
+- by_id: edson-fachin
+  kind: version
+  date: '2026-10-13'
+  summary: >-
+    A posição do presidente é a registrada no Informe: investigação de ministro depende de autorização do Plenário,
+    e a PF deve encaminhar todas as menções encontradas, sem exceção, em caráter descritivo.
+  source_ids:
+  - src-stf-2026-10-13-presidente-do-stf-ministro-edson-fachin-recebe-diretor-geral-da-policia-federal-andrei-rodrigues
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

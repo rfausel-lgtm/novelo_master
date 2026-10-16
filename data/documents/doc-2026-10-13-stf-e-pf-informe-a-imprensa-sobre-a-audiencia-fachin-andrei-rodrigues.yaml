@@ -1,0 +1,35 @@
+id: doc-2026-10-13-stf-e-pf-informe-a-imprensa-sobre-a-audiencia-fachin-andrei-rodrigues
+kind: document
+title: 'Informe à Imprensa STF/PF: Presidente do STF recebe o diretor-geral da Polícia Federal (13/10/2026)'
+doc_type: public_statement
+date: '2026-10-13'
+date_precision: day
+issuer_id: supremo-tribunal-federal
+reference: STF, Informe à Imprensa de 13/10/2026 (post 166949), conjunto com a Coordenação Geral de Comunicação Social da PF
+url: https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa/
+source_ids:
+- src-stf-2026-10-13-presidente-do-stf-ministro-edson-fachin-recebe-diretor-geral-da-policia-federal-andrei-rodrigues
+raw_path: raw/capturas/2026-10-16/stf-informe-a-imprensa-2026-10-13-fachin-recebe-andrei-rodrigues.txt
+sha256: 5a5d6c83a6b5aae69cce96ee6f9767382ff6c44e4eab1bb90d029bf6276578fd
+summary: >-
+  Nota conjunta da Secretaria de Comunicação do STF e da Coordenação Geral de Comunicação Social da PF sobre a
+  audiência de 13/10/2026, solicitada pela PF, entre o presidente do STF, Edson Fachin, e o diretor-geral Andrei
+  Rodrigues. Registra que o diretor-geral tratou do Ofício 3467748, de 02/10/2026 (sobre o formato de apresentação
+  do material; o Informe não diz quem o expediu), que o presidente esclareceu depender de autorização do Plenário a eventual
+  investigação de ministro e que a PF deve encaminhar todas as menções encontradas, sem exceção, com contexto e em
+  caráter descritivo; registra ainda a segurança de ministros, a espera pelo pronunciamento da PGR na PET 16.704 e o
+  pedido de celeridade no INQ 4781. Não fixa prazo nem nomeia ministros. Sem captura no Wayback; o hash refere-se
+  à captura de texto guardada em raw/.
+excerpt: a autoridade policial tem o dever de encaminhar todas as menções encontradas sem exceção, acompanhadas de seu contexto, em caráter estritamente descritivo
+is_official: true
+related_entity_ids:
+- edson-fachin
+- andrei-rodrigues
+- policia-federal
+- supremo-tribunal-federal
+- ministerio-publico-federal
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

@@ -11,7 +11,10 @@ positions:
 summary: Procurador-Geral da República. O relatório da PF sobre o celular de Vorcaro contém seção de pesquisa
   pelos termos 'Paulo Gonet' e identifica menções, em conversas do banqueiro com terceiros, a pessoa que
   'pode se tratar' do PGR. A PGR manifestou-se favoravelmente a medidas nas fases da Compliance Zero.
-  O relatório não conclui pela prática de crime.
+  O relatório não conclui pela prática de crime. Em 25/09/2026 o Conselho Superior do MPF não conheceu do pedido
+  de suspeição apresentado sobre sua atuação no caso Master e rejeitou, por 5 a 4, a abertura de investigação
+  criminal (ver o evento de 25/09/2026); segundo a Agência Brasil, a PGR, em parecer assinado por ele, enviou ao
+  STF em 13/10/2026 posição contrária ao afastamento do diretor-geral da PF.
 why_in_novelo: É mencionado em relatório da Polícia Federal sobre o celular de Daniel Vorcaro e chefia
   o órgão que se manifestou nas fases da Operação Compliance Zero.
 cited_position:
@@ -32,6 +35,24 @@ cited_position:
   - src-oeste-2026-gonet-fecha-portas-para-delacao
   by_id: paulo-gonet
   date: '2026-09-02'
+- kind: version
+  summary: >-
+    No plenário do STF, em 15/09/2026, segundo o Poder360: "O único encontro que eu tive com o senhor Vorcaro se
+    deu com várias autoridades em abril de 2024".
+  source_ids:
+  - src-poder360-2026-09-25-conselho-do-mpf-rejeita-abrir-investigacao-contra-gonet
+  by_id: paulo-gonet
+  date: '2026-09-15'
+- kind: not_located
+  summary: >-
+    Sobre a decisão do Conselho Superior do MPF de 25/09/2026, nenhuma manifestação dele ou da PGR localizada: o
+    Poder360 registra que não participou da sessão e não traz manifestação sobre a votação, e a Agência Brasil não
+    traz declaração institucional (busca do Novelo em 16/10/2026 nessas fontes e na notícia oficial do MPF).
+  source_ids:
+  - src-poder360-2026-09-25-conselho-do-mpf-rejeita-abrir-investigacao-contra-gonet
+  - src-agenciabrasil-2026-09-25-conselho-do-mpf-rejeita-abertura-de-investigacao-contra-gonet
+  by_id: paulo-gonet
+  date: '2026-09-25'
 open_questions:
 - 'NOVO (14/09/2026): em manifestação de 09/09/2026 na Pet 16.704/DF, o Conselho Federal da OAB — com o
   presidente José Alberto Simonetti e dirigentes de 24 seccionais estaduais — pediu formalmente que Gonet se
@@ -41,8 +62,12 @@ open_questions:
   de Fachin sobre o pedido até a data de publicação.'
 - A posição pública de Gonet sobre as menções no relatório da PF não foi localizada em fonte verificada
   do corpus.
-- O corpus não tem a manifestação formal da PGR ao relator; o prazo de cinco dias estava em curso quando
-  o registro foi feito.
+- Em 25/09/2026 a Presidência do STF pediu o parecer da PGR sobre todas as providências postuladas na PET 16.704
+  (cinco dias); em 13/10 o Informe do STF registrava a Presidência ainda aguardando; a Agência Brasil noticia
+  parecer da PGR na noite de 13/10 sobre o afastamento do diretor-geral da PF (documento e PET não localizados).
+- 'Pedido da OAB de 09/09/2026: o Conselho Superior do MPF registrou, em 25/09/2026, que o questionamento sobre
+  impedimento ou suspeição deve ser feito no processo em trâmite no STF, o que converge com o pedido feito na PET
+  16.704; resposta de Fachin ao pedido da OAB não localizada.'
 - O filho do procurador-geral é pessoa privada e não integra o mapa; as reportagens o nomeiam.
 - Gonet pediu o arquivamento das alegações de intimidação de Vorcaro sendo ele próprio nominalmente citado
   nas mensagens do celular do banqueiro. Segundo o Jornal de Brasília, há divisão interna no MPF sobre
@@ -89,12 +114,18 @@ source_ids:
 - src-pgr-2026-09-01-manifestacao-asscrim-1428987-pet-16662
 - src-stf-2026-09-09-integra-decisao-fachin-pet-16704
 - src-stf-pet16704-manifestacao-oab-pede-recusa-gonet
+- src-mpf-2026-09-25-conselho-superior-do-mpf-nega-afastamento-e-apuracao-contra-paulo-gonet-por-conducao-no-caso-master
+- src-mpf-2026-09-23-conselho-superior-do-mpf-faz-sessao-extraordinaria-na-sexta-feira-25
+- src-poder360-2026-09-25-conselho-do-mpf-rejeita-abrir-investigacao-contra-gonet
+- src-agenciabrasil-2026-09-25-conselho-do-mpf-rejeita-abertura-de-investigacao-contra-gonet
+- src-stf-2026-10-16-pet-16704-andamentos
+- src-agenciabrasil-2026-10-14-pgr-se-manifesta-contra-afastamento-de-diretor-geral-da-pf
 full_name: Paulo Gustavo Gonet Branco
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-14'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-14'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/paulo-gonet.jpg
   source: Wikimedia Commons

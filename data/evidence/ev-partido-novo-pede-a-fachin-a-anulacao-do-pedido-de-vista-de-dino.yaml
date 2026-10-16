@@ -1,0 +1,25 @@
+id: ev-partido-novo-pede-a-fachin-a-anulacao-do-pedido-de-vista-de-dino
+kind: evidence
+classification: C
+proposition: >-
+  Segundo o Congresso em Foco e o Times Brasil (com Estadão Conteúdo), em 28/09/2026 o Partido Novo, por sua
+  executiva nacional, pediu ao presidente do STF, Edson Fachin, a anulação do pedido de vista de Flávio Dino de
+  15/09/2026 na questão de ordem sobre a reunião das PET 16.662 e 16.704 e, computada a posição de Dino, o
+  reconhecimento de empate de 4 a 4 com voto de desempate do presidente; os argumentos ("desvio de finalidade",
+  segundo o Congresso em Foco; a vista "deixou de servir ao exame do processo para servir à condução da sessão",
+  segundo o Times Brasil) são do requerente.
+source_ids:
+- src-congressoemfoco-2026-09-28-novo-requer-anulacao-do-pedido-de-vista-de-dino-em-acao-do-caso-master
+- src-timesbrasil-2026-09-28-caso-master-novo-pede-que-stf-desconsidere-pedido-de-vista-de-dino-em-julgamento-sobre-moraes
+attributed_to_id: partido-novo
+attributed_to: Partido Novo (pedido), segundo o Congresso em Foco e o Times Brasil
+date: '2026-09-28'
+notes: >-
+  Classe C só quanto à existência do pedido (duas apurações; o Times Brasil é só em parte Estadão Conteúdo); o
+  conteúdo é alegação do requerente (A). A peça e a PET em que foi protocolado não foram identificadas; nenhuma
+  decisão de Fachin nem resposta de Dino foi localizada até 16/10/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

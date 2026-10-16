@@ -1,0 +1,51 @@
+id: evt-2026-09-28-partido-novo-pede-a-fachin-a-anulacao-da-vista-de-dino
+kind: event
+title: O Partido Novo pede a Fachin a anulação do pedido de vista de Flávio Dino na questão de ordem sobre as PET 16.662 e 16.704, segundo a imprensa
+event_type: public_act
+date: '2026-09-28'
+date_precision: day
+participant_ids:
+- partido-novo
+- edson-fachin
+- flavio-dino
+description: >-
+  Segundo o Congresso em Foco (28/09/2026, 18:16) e o Times Brasil, com Estadão Conteúdo (28/09/2026, 19:32), a
+  executiva nacional do Partido Novo pediu ao presidente do STF, Edson Fachin, em 28/09/2026, a anulação do pedido
+  de vista de Flávio Dino de 15/09/2026 na questão de ordem de Gilmar Mendes sobre reunir as PET 16.662 e 16.704,
+  alegando "desvio de finalidade" (segundo o Congresso em Foco) e que a vista "deixou de servir ao exame do
+  processo para servir à condução da sessão" (segundo o Times Brasil); pede também, segundo o Congresso em Foco, que
+  o efeito suspensivo da vista seja afastado ou tido por ineficaz e, segundo os dois veículos, que, computada a
+  posição já manifestada por Dino, se reconheça empate de 4 a 4 com voto de desempate do presidente. Os argumentos
+  são do requerente. A PET em que o pedido foi protocolado não foi identificada, e não há decisão de Fachin nem
+  resposta de Dino localizadas até 16/10/2026. A vista e a certidão de julgamento de 15/09 já estão no acervo.
+evidence_class: C
+status: unverified
+evidence_ids:
+- ev-partido-novo-pede-a-fachin-a-anulacao-do-pedido-de-vista-de-dino
+source_ids:
+- src-congressoemfoco-2026-09-28-novo-requer-anulacao-do-pedido-de-vista-de-dino-em-acao-do-caso-master
+- src-timesbrasil-2026-09-28-caso-master-novo-pede-que-stf-desconsidere-pedido-de-vista-de-dino-em-julgamento-sobre-moraes
+cited_position:
+- by_id: partido-novo
+  kind: version
+  date: '2026-09-28'
+  summary: A própria petição de 28/09/2026, nos termos descritos pelo Congresso em Foco e pelo Times Brasil.
+  source_ids:
+  - src-congressoemfoco-2026-09-28-novo-requer-anulacao-do-pedido-de-vista-de-dino-em-acao-do-caso-master
+  - src-timesbrasil-2026-09-28-caso-master-novo-pede-que-stf-desconsidere-pedido-de-vista-de-dino-em-julgamento-sobre-moraes
+- by_id: flavio-dino
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma resposta de Dino ao pedido localizada: as duas matérias de 28/09/2026 não informam resposta, e os
+    andamentos das PET 16.704 e 16.662 consultados em 16/10/2026 não registram devolução da vista nem decisão sobre
+    o pedido.
+  source_ids:
+  - src-congressoemfoco-2026-09-28-novo-requer-anulacao-do-pedido-de-vista-de-dino-em-acao-do-caso-master
+  - src-timesbrasil-2026-09-28-caso-master-novo-pede-que-stf-desconsidere-pedido-de-vista-de-dino-em-julgamento-sobre-moraes
+  - src-stf-2026-10-16-pet-16704-andamentos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

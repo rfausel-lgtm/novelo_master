@@ -1,0 +1,52 @@
+id: evt-2026-10-13-pgr-envia-ao-stf-parecer-contrario-ao-afastamento-do-diretor-geral-da-pf-segundo-a-agencia-brasil
+kind: event
+title: A PGR envia ao STF parecer contrário ao afastamento do diretor-geral e do diretor de Inteligência da PF, segundo a Agência Brasil
+event_type: public_act
+date: '2026-10-13'
+date_precision: day
+participant_ids:
+- paulo-gonet
+- ministerio-publico-federal
+- andrei-rodrigues
+- leandro-almada-da-costa
+description: >-
+  Segundo a Agência Brasil (14/10/2026, 09:46), a Procuradoria-Geral da República enviou ao STF, na noite de
+  13/10/2026, parecer assinado pelo procurador-geral, pelo vice-procurador-geral e por dois subprocuradores-gerais,
+  contrário ao afastamento do diretor-geral da PF, Andrei Rodrigues, e do diretor de Inteligência, Leandro Almada;
+  segundo a matéria, o parecer afirma que a qualificação negativa do comportamento das autoridades policiais, para
+  justificar o afastamento, "precisaria estar acompanhada de evidências da participação imprópria em atos
+  ilícitos", que a posição hierárquica do servidor não basta e que a medida
+  configuraria "risco à ordem pública". O afastamento havia sido determinado por André Mendonça em 08/09/2026, e
+  os atos de 08 e 09/09 já estão no acervo. O Novelo não localizou o parecer, a PET em que foi juntado nem outra
+  fonte: nos andamentos públicos das PET 16.704 e 16.662 consultados em 16/10/2026 não há petição identificável da
+  PGR. O relato é compatível, sem contradição, com o Informe do STF das 18:43 de 13/10, que registrava a
+  Presidência aguardando o pronunciamento da PGR.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-pgr-parecer-contra-o-afastamento-de-andrei-rodrigues-e-leandro-almada-segundo-a-agencia-brasil
+source_ids:
+- src-agenciabrasil-2026-10-14-pgr-se-manifesta-contra-afastamento-de-diretor-geral-da-pf
+cited_position:
+- by_id: andrei-rodrigues
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma manifestação pessoal sobre o parecer localizada (busca do Novelo em 16/10/2026 nas matérias da Agência
+    Brasil de 13 e 14/10/2026 e no Informe do STF de 13/10).
+  source_ids:
+  - src-agenciabrasil-2026-10-14-pgr-se-manifesta-contra-afastamento-de-diretor-geral-da-pf
+  - src-agenciabrasil-2026-10-13-master-fachin-se-reune-com-pf-para-tratar-de-citacoes-a-ministros
+- by_id: leandro-almada-da-costa
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma manifestação pessoal sobre o parecer localizada (busca do Novelo em 16/10/2026 na matéria da Agência
+    Brasil de 14/10/2026).
+  source_ids:
+  - src-agenciabrasil-2026-10-14-pgr-se-manifesta-contra-afastamento-de-diretor-geral-da-pf
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'
