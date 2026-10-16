@@ -1,6 +1,7 @@
 id: rev-2026-10-16-lote-354-saneamento-de-dados-pessoais-e-texto-proprio
 kind: revision
 date: '2026-10-16'
+published_at: '2026-10-16T15:13:53-03:00'
 title: 'Lote 354 — Saneamento de registros antigos: fragmentos de CPF, datas de nascimento, unidade residencial,
   referências a filhos menores e dados de saúde de terceiros, e texto próprio com vocabulário de imputação sem
   atribuição'
