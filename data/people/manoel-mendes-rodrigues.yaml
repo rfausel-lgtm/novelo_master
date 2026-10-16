@@ -2,8 +2,10 @@ id: manoel-mendes-rodrigues
 kind: person
 name: Manoel Mendes Rodrigues
 category: other
-role: Apontado como 'operador do jogo do bicho' e líder do braço fluminense de 'A Turma'; preso preventivamente
-  em 14/05/2026
+role: Apontado como 'operador do jogo do bicho' e líder do braço fluminense de 'A Turma'; prisão preventiva
+  decretada em 13/05/2026 e noticiada como cumprida em 14/05/2026
+aliases:
+- Dom
 summary: Preso preventivamente na 6ª fase da Operação Compliance Zero (decisão de 13/05/2026). Descrito pela PF
   como "operador do jogo do bicho" e líder de um braço local de 'A Turma' no Rio de Janeiro, composto por pessoas
   ainda não identificadas, incluindo possivelmente milicianos e policiais. Apontado como executor da campanha de
@@ -15,7 +17,8 @@ summary: Preso preventivamente na 6ª fase da Operação Compliance Zero (decis�
   Garcia reconheceu Manoel, com alto grau de certeza, em procedimento formal de reconhecimento fotográfico (art.
   226 CPP). Entre 02 e 03/03/2026, véspera da 3ª fase da operação, trocou 58 mensagens de WhatsApp com Mourão. No
   mesmo dia 13/05/2026, na PET 16.019 (processo formal de bloqueio patrimonial, distinto da PET 15.978),
-  teve R$ 9,6 milhões em bens e valores bloqueados por decisão de Mendonça. Em 12/06/2026, seus advogados
+  teve decretado bloqueio patrimonial com teto de R$ 9,6 milhões por decisão de Mendonça; o teto não é
+  o valor encontrado (nas respostas dos bancos, R$ 0,08 em conta dele, conforme ev-pet16019-bloqueio-de-43-milhoes-encontrou-contas-vazias). Em 12/06/2026, seus advogados
   obtiveram habilitação e acesso temporário aos autos sigilosos da PET 16.019, com as restrições da Súmula
   Vinculante 14. ACHADO NOVO (lote 237) — em 11/05/2026, dois dias antes da prisão, o STF já havia
   autorizado interceptação telefônica e de WhatsApp contra ele, por 15 dias, na PET 15.977.
@@ -24,7 +27,16 @@ why_in_novelo: É o elo entre o núcleo central da organização e um braço de 
   uma ameaça de morte específica, com reconhecimento fotográfico formal por uma das vítimas.
 cited_position:
 - kind: not_located
-  summary: Nenhuma manifestação pública dele localizada no corpus.
+  date: '2026-10-16'
+  summary: 'Nenhuma nota, entrevista ou manifestação própria localizada. Os advogados dele estão habilitados
+    na PET 16.019 (decisão de 12/06/2026). A Folhapress (17/06/2026, republicada pelo Jornal de Brasília)
+    escreveu que não conseguiu localizar os advogados de Dom; o SBT News (14/05/2026) traz apenas nota da
+    defesa de Henrique Vorcaro. Busca em 16/10/2026 (WebSearch ''Manoel Mendes Rodrigues defesa advogados
+    jogo do bicho Vorcaro preso nota'', ''Manolo Dom OR Manoel Mendes Rodrigues defesa advogado habeas
+    corpus STF'' e ''defesa de Henrique Vorcaro Manoel serviços''); portal do STF não consultado.'
+  source_ids:
+  - src-jornaldebrasilia-2026-06-17-pf-encontra-comprovante-de-r-7-mi-na-casa-de-bicheiro-contratado-por-vorcaro-no-rj
+  - src-sbtnews-2026-05-14-pf-prende-operador-do-jogo-do-bicho-suspeito-de-atuar-para-grupo-de-vorcaro
 open_questions:
 - Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ele no corpus.
 source_ids:
@@ -32,8 +44,10 @@ source_ids:
 - src-stf-pet16019-decisao-13-05-2026-medidas-assecuratorias
 - src-stf-pet16019-decisao-12-06-2026-habilitacao-advogados
 - src-stf-pet15977-decisao-11-05-2026-interceptacao
+- src-jornaldebrasilia-2026-06-17-pf-encontra-comprovante-de-r-7-mi-na-casa-de-bicheiro-contratado-por-vorcaro-no-rj
+- src-sbtnews-2026-05-14-pf-prende-operador-do-jogo-do-bicho-suspeito-de-atuar-para-grupo-de-vorcaro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-10-16'

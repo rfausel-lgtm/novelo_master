@@ -1,0 +1,24 @@
+id: src-cnnbrasil-2026-01-08-caso-master-pf-apura-contratacao-de-influenciadores-para-atacar-bc
+kind: source
+title: "Caso Master: PF apura contratação de influenciadores para atacar BC"
+publisher: CNN Brasil
+author: Elijonas Maia, com informações de Jussara Soares
+publication_date: 2026-01-08
+url: https://www.cnnbrasil.com.br/politica/caso-master-pf-apura-contratacao-de-influencers-para-atacar-bc/
+source_type: press
+language: pt-BR
+summary: Informa que a PF apura de forma inicial a denúncia de contratação de influenciadores e que,
+  procurada, a agência UNLTD Brasil afirmou não ter contrato com o Banco Master. A matéria não nomeia André
+  Salvador nem Anderson. Usada aqui para a negativa da agência.
+notes: O slug da URL diz "influencers"; o título da página é o informado.
+retrieved_at: 2026-10-16
+verification:
+  checked_at: 2026-10-16
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

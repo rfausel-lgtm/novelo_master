@@ -12,24 +12,52 @@ summary: Procurador do Estado da Bahia desde 2000 e sócio-administrador do escr
   Kruschewsky Lima, então diretor jurídico do Master, a quem se atribui a contratação do escritório — atribuição
   não confirmada por documento lido pela equipe.
 why_in_novelo: Acumula a função pública de procurador do Estado da Bahia com a advocacia privada para o Banco Master,
-  o que levou parlamentar a apontar, em requerimento não lido pela equipe, possível conflito de interesse.
+  o que levou o deputado Josenildo (PDT-AP) a pedir sua acareação na CPMI do INSS (requerimento de 05/11/2025,
+  lido pela equipe em 09/09/2026).
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pessoal dele, distinta da nota institucional do escritório, foi localizada pela
-    equipe.
+- kind: no_response
+  date: '2025-11-13'
+  summary: Segundo a coluna Esplanada (Leandro Mazzini, O Imparcial), procurado, ele não retornou a demanda
+    da reportagem sobre o requerimento da CPMI.
+  source_ids:
+  - src-oimparcial-2025-11-13-kruschewsky-na-cpmi
+- kind: public_note
+  by_id: gabino-kruschewsky-advogados-associados
+  date: '2026-04-11'
+  summary: 'Nota do escritório, sem signatário identificado (não fala por ele pessoalmente): segundo o
+    Bahia Notícias (11/04/2026), informou ter atuado em 45 mil processos em favor do Banco Master, com
+    mais de 30 mil em andamento; e disse à coluna Esplanada (O Hoje, 21/04/2026) atuar desde 2018, com
+    cerca de 30 mil em tramitação e aproximadamente 15 mil encerrados.'
   source_ids:
   - src-bahianoticias-2026-04-11-gabino-kruschewsky-pf
+  - src-ohoje-2026-04-21-vem-mais-coisa-ai
+- kind: not_located
+  date: '2026-10-16'
+  summary: 'Nenhuma manifestação pessoal dele, nem da Procuradoria-Geral do Estado da Bahia, localizada.
+    Busca em 16/10/2026 (WebSearch ''Eugênio Kruschewsky procurador Bahia Banco Master nota'', ''Eugênio
+    Kruschewsky PGE Bahia Master advocacia privada'' e ''Eugênio Kruschewsky CPMI requerimento convocação
+    se manifesta'').'
 open_questions:
 - O parentesco com André Kruschewsky Lima é afirmado por três veículos (Bahia Notícias, Coluna Esplanada e A Investigação),
   sem documento de filiação lido; a atribuição a André da contratação do escritório vem de reportagem.
+- 'Divergência não resolvida: o Bahia Notícias diz que a defesa do Banco Master em duas ações coletivas de associação
+  de servidores foi conduzida por ele, e a coluna Esplanada (21/04/2026) diz que ele defende o Master na
+  Bahia; um resumo de busca (não aberto) diz que ele não atua pessoalmente nos casos. O Novelo não resolveu
+  se ele atua pessoalmente.'
+- 'O requerimento do deputado Josenildo pede acareação (documento do Senado lido pela equipe), ao passo
+  que a coluna Esplanada de 13/11/2025 o descreve como requerimento de convocação; o Novelo usa os termos
+  do documento. A coluna traz ainda alegações de terceiros sobre processos na OAB, que não são registradas.'
 source_ids:
 - src-minhareceita-escritorios-master-cnpjs
 - src-bahianoticias-2026-04-11-gabino-kruschewsky-pf
 - src-otempo-2026-04-09-master-91-escritorios
 - src-tribunadonorte-2026-02-23-esplanada-conexao-kruschewsky
 - src-ainvestigacao-2026-08-10-festa-augusto-lima-bahia
+- src-senado-2025-11-05-requerimento-cpmi-inss-kruschewsky
+- src-oimparcial-2025-11-13-kruschewsky-na-cpmi
+- src-ohoje-2026-04-21-vem-mais-coisa-ai
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-04'
-updated_at: '2026-09-15'
+updated_at: '2026-10-16'

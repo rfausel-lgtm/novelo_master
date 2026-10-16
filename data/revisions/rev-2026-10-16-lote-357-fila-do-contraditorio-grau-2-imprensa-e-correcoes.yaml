@@ -1,0 +1,146 @@
+id: rev-2026-10-16-lote-357-fila-do-contraditorio-grau-2-imprensa-e-correcoes
+kind: revision
+date: 2026-10-16
+title: 'Lote 357 — Fila do contraditório, grau 2 (2/2): tentativas de contato sem resposta e notas
+  institucionais (UNLTD, Kruschewsky, Renata Varandas, Manoel Mendes Rodrigues e outros); a correção de "ação
+  penal" no verbete de David Ágape; e erros objetivos de atribuição (data da condenação de Oliver Ortiz, teto
+  de bloqueio de Manoel Mendes Rodrigues, o instrumento processual de David Ágape)'
+summary: 'Segunda parte da rodada da fila de grau 2 (15 pessoas e uma organização neste lote), no mesmo método
+  do lote 356: por pessoa, busca em 16/10/2026 de nota, entrevista, manifestação nos autos ou tentativa de
+  contato; quando há, cited_position ganha tipo, data e fonte; quando não, not_located ganha a descrição da
+  busca. O que o lote NÃO afirma, em destaque: não afirma que a UNLTD tenha ou não contrato com o Banco Master
+  (registra apenas a negativa da agência à CNN Brasil, em 08/01/2026); não resolve se "Anderson Antunes"
+  (decisão de Mendonça na PET 16.346, lida por OCR) é o "Anderson Nunes" do Poder360 e da base da Receita
+  Federal, e por isso não renomeia o verbete; não afirma que as tentativas de contato sem resposta signifiquem
+  recusa; não registra a condenação de Oliver Ortiz como fato documentado (não há sentença no acervo); não
+  adota as imputações das reportagens sobre Garigham Amarante Pinto e Nara Brum, que seguem atribuídas à PF e
+  à decisão do ministro Flávio Dino; não registra a lotação de Garigham na Câmara (não conferida em fonte
+  oficial); e não trata nenhuma nota institucional como fala da pessoa. Camada A, sempre atribuída: tentativas
+  de contato sem resposta, com veículo, data e meio — André Salvador e a UNLTD (Estadão Conteúdo, 08/01/2026;
+  Poder360, 09/01 e 09/07/2026); Eugênio Kruschewsky (coluna Esplanada, 13/11/2025); Renata Varandas
+  (Poder360, 08/09/2026, por WhatsApp, às 11h34; Gazeta do Paraná, 25/06/2026); Garigham Amarante Pinto
+  (Metrópoles, 10/07/2026: procurado, disse que não vai se manifestar); Oliver Ortiz (ICL Notícias, 09/03 e
+  05/05/2026). Posições: a negativa institucional da UNLTD à CNN Brasil (08/01/2026) passa a constar na
+  organização e não na pessoa de André Salvador; as notas do escritório Barci de Moraes (09/03 e 02/09/2026)
+  constam no verbete de Guilherme de Toledo Benazzi com a ressalva de que não o nomeiam; a nota do escritório
+  Gabino Kruschewsky (45 mil processos, mais de 30 mil em andamento), que não é fala de Eugênio pessoalmente;
+  as autopublicações de David Ágape (11/11/2025 e 29/01/2026) e o pedido de correção de 08/09/2026; a
+  justificativa de Humberto Costa em um dos requerimentos de convocação de Belline Santana (Agência Senado,
+  20/03/2026); a petição dos advogados de Leonardo Antônio Lima Dias nos autos e a nota que, segundo o Intercept
+  Brasil (21/05/2026, texto lido no navegador embutido), Leo Dias divulgou em janeiro de 2026 sobre a
+  transferência da participação de Thiago Miranda. Correções de atribuição, conferidas contra os registros do próprio acervo: o
+  instrumento que atingiu David Ágape e Eli Vieira era uma representação criminal (Pet 14.760, conforme o nome do arquivo dos autos
+  hospedado pelo Poder360) arquivada
+  por Moraes em janeiro de 2026 (27/01 segundo o Poder360; 28/01 segundo Ágape), e não "ação penal";
+  "condenado em dezembro de 2013" deixa de constar sem atribuição em Oliver Ortiz (a condenação a 16 anos
+  e a data passam a constar atribuídas ao ICL Notícias, fonte única reproduzida pelo Cubo Jornalismo;
+  sentença não localizada); "R$ 9,6 milhões bloqueados" em
+  Manoel Mendes Rodrigues era o teto do bloqueio na PET 16.019, não o valor encontrado (R$ 0,08 em conta dele,
+  conforme evidência do lote 252), e a decretação da preventiva (13/05) distingue-se da notícia do cumprimento
+  (14/05). Registros de fonte corrigidos: título, data de consulta e data de publicação de duas fontes sobre
+  Renata Varandas. Não confirmado: o instrumento processual exato e a data de assinatura da decisão sobre a
+  representação contra Ágape e Vieira (o PDF da decisão não foi aberto em texto); o nome do juiz Jucelio
+  Fleury Neto, que vem da decisão e não do Poder360; o cargo de carreira exato de Nara Brum e a atuação
+  pessoal de Eugênio Kruschewsky nos casos do Master; a defesa de Talarico e de Wily da Silva Leão, cujo prazo
+  no TCDF não tem termo inicial documentado. O título da fonte autopublicada de A Investigação (29/01/2026)
+  foi abreviado entre colchetes para não nomear a autora da representação, pessoa sem papel no caso
+  Master; a URL original é mantida. Nenhum registro novo de pessoa, organização, evento, documento,
+  relação ou evidência; nenhuma relação alterada. Verbetes e trechos que a liberação previa e que dependem de
+  decisão do responsável editorial ficaram de fora.'
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 20
+  evidence: 0
+updated_relationships: 0
+corrections:
+  - 'oliver-ortiz-de-zarate-martin, ev-oliver-ortiz-preso-e-condenado-2013: "condenado em dezembro de 2013"
+    constava sem atribuição, e o role afirmava a condenação como fato; passaram a "segundo o ICL Notícias
+    (reproduzido pelo Cubo Jornalismo), condenado a 16 anos; só o ICL situa a condenação em dezembro de
+    2013", com sentença e processo não localizados. A tentativa de contato foi do ICL Notícias (09/03 e
+    05/05/2026), não do Cubo; o by_id autorreferente do no_response foi retirado.'
+  - 'manoel-mendes-rodrigues: "teve R$ 9,6 milhões em bens e valores bloqueados" era o teto do bloqueio na PET
+    16.019, não o valor encontrado; a decretação da preventiva (13/05/2026) foi distinguida da notícia do
+    cumprimento (14/05/2026); alias "Dom" acrescentado.'
+  - 'david-agape: "ação penal" era representação criminal (Pet 14.760); a caracterização da autora como
+    "ex-colaboradora do TSE" é dos próprios autores e passou a vir atribuída; "por falta de indícios mínimos
+    de crime" e "atrito pessoal direto" foram reescritos com atribuição ao Poder360 e aos fatos conferidos; o
+    not_located foi substituído pelas autopublicações e pelo pedido de correção de 08/09/2026.'
+  - 'eugenio-de-souza-kruschewsky: o requerimento da CPMI do INSS foi lido pela equipe em 09/09/2026 (o
+    verbete dizia "não lido") e pede acareação; o not_located foi substituído pela tentativa de contato da
+    coluna Esplanada e pela nota do escritório.'
+  - "unltd-network-brazil, andre-salvador-unltd: a organização tinha not_located embora o resumo já
+    registrasse a negativa de contrato com o Banco Master (agora atribuída à CNN Brasil, com data); o sócio e
+    a contratação passam a vir com atribuição ao Estadão Conteúdo e à PF; a referência ao depoimento de Thiago
+    Miranda à PF foi retirada do resumo de André Salvador, porque o trecho lido do Poder360 não cita a UNLTD."
+  - 'renata-varandas, src-poder360-2026-09-08-namorada-andrei-lobby-ambipar,
+    src-gazetadoparana-2026-exclusivo-escritorio-namorada-andrei-defende-socio-vorcaro: o not_located
+    contradizia o resumo, que já registrava a tentativa de contato do Poder360; título da fonte do Poder360
+    ("Mulher de Andrei ..."), retrieved_at anterior à publicação e data incompleta ("2026") da fonte da Gazeta
+    do Paraná corrigidos. O resumo da fonte da Gazeta do Paraná de 28/06/2026 dizia que ela registrava
+    tentativa de contato com a banca, o SBT News e a jornalista; o trecho está na reportagem de 25/06/2026,
+    que passa a ser a fonte do no_response.'
+  - "marcelo-talarico, wily-da-silva-leao: by_id autorreferente retirado do not_located; o prazo de 30 dias do
+    TCDF passa a constar sem termo inicial documentado; segunda fonte (Reuters, IstoÉ Dinheiro) para a
+    renúncia de Talarico."
+  - "leonardo-antonio-lima-dias: referência ao CPF retirada do resumo; why_in_novelo não afirma mais vínculo
+    societário atual (a transferência da participação começou no fim de 2025, segundo nota divulgada por
+    Leo Dias e reproduzida pelo Intercept Brasil); not_located substituído pela petição dos advogados e
+    por essa nota."
+  - 'humberto-costa: a justificativa que o acervo atribuía aos dois requerimentos de convocação consta, na
+    Agência Senado, em "outro requerimento", sem identificar qual; o cargo de senador ganhou position.'
+  - "garigham-amarante-pinto: not_located substituído pela tentativa de contato do Metrópoles; o resumo deixou
+    de dizer que o cargo não era conhecido, sem registrar a lotação, que não foi conferida em fonte oficial."
+  - 'guilherme-de-toledo-benazzi, nara-brum, jucelio-fleury-neto, anderson-antunes-unltd: not_located genérico
+    ("no corpus") substituído por descrição da busca ou por notas institucionais que não os nomeiam; o artigo
+    do Poder360 de 10/02/2026 não nomeia o juiz (nome vem da decisão).'
+author: orquestrador
+affected_ids:
+  - src-poder360-2026-01-09-vereador-procurado-para-criticar-o-bc-diz-que-vorcaro-era-contratante
+  - src-moneytimes-2026-01-08-empresa-de-marketing-em-brasilia-contratou-vereador-para-atacar-banco-central
+  - src-cnnbrasil-2026-01-08-caso-master-pf-apura-contratacao-de-influenciadores-para-atacar-bc
+  - src-poder360-2025-11-11-jornalismo-nao-e-milicia-acao-mira-autores-da-vaza-toga-no-stf
+  - src-ainvestigacao-2026-01-29-stf-arquiva-acao-contra-jornalistas-da-vaza-toga
+  - src-gazetadopovo-2025-11-11-pesquisadora-da-unb-pede-a-moraes-para-investigar-autores-da-vaza-toga-no-stf
+  - src-poder360-2026-01-27-moraes-arquiva-acao-contra-autores-da-vaza-toga
+  - src-oimparcial-2025-11-13-kruschewsky-na-cpmi
+  - src-ohoje-2026-04-21-vem-mais-coisa-ai
+  - src-metropoles-2026-07-10-ex-diretor-do-fnde-de-bolsonaro-negociava-emendas-de-valdemar-diz-pf
+  - src-bahianoticias-2026-07-10-ex-diretor-do-fnde-na-gestao-bolsonaro-e-apontado-como-assessor-de-valdemar-em-negociacao-de-emendas
+  - src-intercept-2026-05-21-portal-leo-dias-apagou-materia-sobre-dark-horse-apos-bronca-de-vorcaro
+  - src-poder360-2026-07-09-defesa-de-thiago-miranda-nega-ilegalidade-em-campanha-pro-master
+  - src-jornaldebrasilia-2026-06-17-pf-encontra-comprovante-de-r-7-mi-na-casa-de-bicheiro-contratado-por-vorcaro-no-rj
+  - src-sbtnews-2026-05-14-pf-prende-operador-do-jogo-do-bicho-suspeito-de-atuar-para-grupo-de-vorcaro
+  - src-istoedinheiro-2026-01-29-conselheiros-do-brb-renunciam-em-meio-a-mudancas-na-direcao-do-banco
+  - src-itatiaia-2026-07-10-pf-diz-que-valdemar-usava-servidora-da-camara-para-direcionar-emendas
+  - src-oliberal-2026-07-10-mensagens-de-advogado-do-pl-revelam-desvio-de-emendas-por-valdemar-aponta-pf
+  - src-cnnbrasil-2026-07-10-fechou-o-valor-do-valdemar-veja-dialogos-obtidos-pela-pf
+  - src-poder360-2026-07-10-valdemar-direcionou-r-119-milhoes-em-emendas-mesmo-sem-mandato-diz-pf
+  - anderson-antunes-unltd
+  - andre-salvador-unltd
+  - unltd-network-brazil
+  - david-agape
+  - eugenio-de-souza-kruschewsky
+  - garigham-amarante-pinto
+  - nara-brum
+  - guilherme-de-toledo-benazzi
+  - humberto-costa
+  - jucelio-fleury-neto
+  - leonardo-antonio-lima-dias
+  - manoel-mendes-rodrigues
+  - marcelo-talarico
+  - wily-da-silva-leao
+  - oliver-ortiz-de-zarate-martin
+  - renata-varandas
+  - ev-oliver-ortiz-preso-e-condenado-2013
+  - src-poder360-2026-09-08-namorada-andrei-lobby-ambipar
+  - src-gazetadoparana-2026-exclusivo-escritorio-namorada-andrei-defende-socio-vorcaro
+reason: Dar contraditório de imprensa e corrigir atribuições nos verbetes de grau 2 da fila do contraditório
+  (EDITORIAL §5), com busca descrita onde não há posição localizada, e retirar afirmações do acervo que as
+  fontes abertas não sustentam como estavam escritas.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16

@@ -2,37 +2,56 @@ id: oliver-ortiz-de-zarate-martin
 kind: person
 name: Oliver Ortiz de Zarate Martin
 category: other
-role: Cidadão espanhol condenado no Brasil por tráfico internacional e lavagem de dinheiro
+role: Cidadão espanhol preso no Brasil em 2013; segundo o ICL Notícias, condenado por tráfico internacional
+  e lavagem de dinheiro
 positions: []
 summary: 'Preso pela Polícia Federal em 27/06/2013, em cobertura na Barra da Tijuca (RJ), com apreensão
   de cerca de R$ 20 milhões em bens; segundo a PF à época, chefiava quadrilha espanhola ligada a cartéis
-  colombianos. Foi condenado em dezembro de 2013 a 16 anos por tráfico internacional e lavagem de dinheiro.
+  colombianos. Segundo o ICL Notícias (09/03/2026), reproduzido pelo Cubo Jornalismo, foi condenado a
+  16 anos de prisão por lavagem de dinheiro e tráfico internacional de drogas; só o ICL situa a condenação
+  em dezembro de 2013 (fonte única para a data). A sentença e o número do processo não foram localizados
+  pela equipe.
   Aparece no caso Master por uma via indireta e disputada: decisão da Justiça Federal do Rio, em ação
   de restituição de terrenos em Queimados, o descreve como cotista de fundos do Grupo Aquilla geridos
   por Benjamim Botelho de Almeida, e requerimento aprovado na CPI do Crime Organizado sustenta que ele
   constava como cotista de fundos da antiga Foco DTVM em registros da CVM de outubro de 2015. Nenhuma
   fonte localizada o liga pessoalmente a Daniel Vorcaro, e nenhuma investigação oficial incorporou a alegação
-  de que recursos seus teriam financiado a compra do Banco Máxima. Procurado por reportagens em 2026,
-  não respondeu.'
+  de que recursos seus teriam financiado a compra do Banco Máxima. Procurado por reportagens do ICL Notícias
+  em 2026, não respondeu.'
 why_in_novelo: Citado, em alegação em disputa e em decisão judicial sobre terrenos, como cotista de fundos
   do grupo que administrava os veículos usados na aquisição do Banco Máxima.
 cited_position:
 - kind: no_response
-  summary: 'Segundo o Cubo Jornalismo, foi procurado por e-mail para se manifestar e não respondeu: "Benjamim
-    Botelho foi procurado por email, assim como Oliver Ortiz. Nenhum dos dois enviou resposta."'
-  source_ids:
-  - src-cubo-2026-03-09-oliver-ortiz-narcotraficante-master
-  by_id: oliver-ortiz-de-zarate-martin
   date: '2026-03-09'
+  summary: 'Segundo o ICL Notícias (09/03/2026), foi procurado por e-mail e não respondeu. O Cubo Jornalismo
+    repete a tentativa: “Benjamim Botelho foi procurado por email, assim como Oliver Ortiz. Nenhum dos
+    dois enviou resposta.” A tentativa é do ICL; o Cubo não a corrobora de forma independente (o ICL registra
+    que os advogados de Botelho enviaram nota após a publicação).'
+  source_ids:
+  - src-iclnoticias-2026-03-09-exclusivo-narcotraficante-fundo
+  - src-cubo-2026-03-09-oliver-ortiz-narcotraficante-master
+- kind: no_response
+  date: '2026-05-05'
+  summary: Em 05/05/2026 o ICL Notícias registra nova tentativa de contato, por e-mail e pelo advogado
+    que o representou em processos mais recentes, sem retorno.
+  source_ids:
+  - src-iclnoticias-2026-05-05-acao-terrenos-elo-narcotraficante
+- kind: not_located
+  date: '2026-10-16'
+  summary: Nenhuma manifestação dele ou de advogado dele localizada até 16/10/2026.
 open_questions:
-- O número do processo da condenação de 2013 não foi localizado pela equipe.
+- O número do processo da condenação noticiada pelo ICL Notícias não foi localizado pela equipe.
+- 'Data da condenação: só o ICL Notícias (09/03/2026) a situa (dezembro de 2013); o Cubo, que reproduz
+  a apuração do ICL, dá a pena de 16 anos e a prisão em 2013, sem data da sentença; a Agência Brasil (2013)
+  traz só a prisão. Sentença não localizada.'
 source_ids:
 - src-agenciabrasil-2013-06-27-prisao-oliver-ortiz
 - src-senado-req-287-2026-cpicrime-convocacao-hirano
 - src-iclnoticias-2026-05-05-acao-terrenos-elo-narcotraficante
 - src-cubo-2026-03-09-oliver-ortiz-narcotraficante-master
+- src-iclnoticias-2026-03-09-exclusivo-narcotraficante-fundo
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'

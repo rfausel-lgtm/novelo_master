@@ -4,16 +4,23 @@ classification: C
 proposition: Oliver Ortiz de Zarate Martin foi preso pela Polícia Federal em 27/06/2013, em cobertura
   na Barra da Tijuca (RJ), com apreensão de R$ 175 mil, US$ 150 mil, € 110 mil, sete imóveis e cerca de
   R$ 20 milhões em bens; segundo o delegado Paulo Telles, da DRE/PF, chefiava quadrilha espanhola ligada
-  a cartéis colombianos, atuando em tráfico marítimo. Foi condenado em dezembro de 2013 a 16 anos por
-  tráfico internacional e lavagem de dinheiro. O número do processo não foi localizado pela equipe. Este
-  é fato público sobre Ortiz — e não pode ser usado como qualificação de terceiros.
+  a cartéis colombianos, atuando em tráfico marítimo. Segundo o ICL Notícias (09/03/2026), reproduzido
+  pelo Cubo Jornalismo, foi condenado a 16 anos de prisão por lavagem de dinheiro e tráfico internacional
+  de drogas; só o ICL situa a condenação em dezembro de 2013. A sentença e o número do processo não foram
+  localizados. A prisão é fato público sobre Ortiz — e não pode ser usada como qualificação de terceiros.
 document_ids: []
 source_ids:
 - src-agenciabrasil-2013-06-27-prisao-oliver-ortiz
 - src-senado-req-287-2026-cpicrime-convocacao-hirano
+- src-cubo-2026-03-09-oliver-ortiz-narcotraficante-master
+- src-iclnoticias-2026-03-09-exclusivo-narcotraficante-fundo
 date: '2013-06-27'
+notes: A classe C vale para a prisão em 27/06/2013 (Agência Brasil e requerimento do Senado). A condenação
+  e a sua data têm fonte única de imprensa (o ICL Notícias; o Cubo reproduz a apuração do ICL e não é
+  fonte independente), sem documento da sentença; seguem como alegação atribuída, não como fato
+  documentado.
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'

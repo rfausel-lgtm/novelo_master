@@ -8,24 +8,41 @@ summary: Servidor da Câmara dos Deputados apontado pela Polícia Federal, ao la
   de Nara Brum, como integrante do "arranjo funcional informal" que operacionalizava, dentro da Câmara,
   indicações de emendas parlamentares em nome de Valdemar Costa Neto (presidente do PL, sem mandato) —
   ao menos 21 emendas, R$ 119,2 milhões, dos quais cerca de R$ 104 milhões já pagos quando o ministro
-  Flávio Dino determinou o bloqueio em 10/07/2026. O corpus não tem, até esta coleta, o cargo exato dele
-  na Câmara nem histórico funcional equivalente ao levantado para Fialek.
+  Flávio Dino determinou o bloqueio em 10/07/2026. Reportagens de 10/07/2026 (Metrópoles; Bahia Notícias,
+  citando O Globo) o descrevem como advogado, ex-diretor do Fundo Nacional de Desenvolvimento da Educação
+  (FNDE) no governo de Jair Bolsonaro e ocupante de cargo de natureza especial na Câmara dos Deputados;
+  o cargo e a lotação exatos não foram conferidos em fonte oficial.
 why_in_novelo: Apontado pela PF como um dos executores das indicações de emendas em nome de Valdemar Costa Neto
   que levaram ao bloqueio de R$ 119,2 milhões — mesma base documental que já sustenta o verbete de Mariângela
   Fialek.
 cited_position:
+- kind: no_response
+  date: '2026-07-10'
+  summary: Segundo o Metrópoles, procurado pela reportagem (meio não informado), ele disse que não vai se
+    manifestar.
+  source_ids:
+  - src-metropoles-2026-07-10-ex-diretor-do-fnde-de-bolsonaro-negociava-emendas-de-valdemar-diz-pf
 - kind: not_located
-  summary: Manifestação pública dele sobre as acusações não localizada até esta coleta.
+  date: '2026-10-16'
+  summary: 'Nenhuma nota ou manifestação em set–out/2026 localizada (WebSearch ''Garigham Amarante Pinto
+    Câmara Valdemar emendas Dino'' e variações). A nota da defesa de Valdemar Costa Neto é dele, não de
+    Garigham; o Bahia Notícias de 10/07 não informa contato com ele.'
+  source_ids:
+  - src-bahianoticias-2026-07-10-ex-diretor-do-fnde-na-gestao-bolsonaro-e-apontado-como-assessor-de-valdemar-em-negociacao-de-emendas
 open_questions:
-- Cargo, lotação e histórico funcional na Câmara dos Deputados não apurados pela equipe — o corpus só
-  tem o nome, tal como citado pela decisão de Flávio Dino e pela PF.
+- 'Cargo exato, lotação e histórico funcional na Câmara: o Metrópoles e o Bahia Notícias (que cita O Globo)
+  o descrevem como advogado, ex-diretor do FNDE (nomeado em maio de 2020, por indicação do presidente do
+  PL, segundo O Globo via Bahia Notícias) e ocupante de cargo de natureza especial; a lotação não foi
+  conferida no portal da Câmara.'
 - Se responde a inquérito ou procedimento próprio, distinto do que atinge Fialek, não está esclarecido
   nas fontes lidas.
 source_ids:
 - src-migalhas-2026-07-10-dino-bloqueia-119-milhoes-valdemar
 - src-jovempan-2026-07-10-fialek-proibida-segue-nomeada-camara
+- src-metropoles-2026-07-10-ex-diretor-do-fnde-de-bolsonaro-negociava-emendas-de-valdemar-diz-pf
+- src-bahianoticias-2026-07-10-ex-diretor-do-fnde-na-gestao-bolsonaro-e-apontado-como-assessor-de-valdemar-em-negociacao-de-emendas
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-19'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-19'
 updated_at: '2026-10-16'

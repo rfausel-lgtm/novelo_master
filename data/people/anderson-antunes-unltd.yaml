@@ -11,12 +11,26 @@ why_in_novelo: Sócio de agência apontada, em decisão judicial da Operação C
   de campanha coordenada de influenciadores a favor do Banco Master.
 cited_position:
 - kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+  date: '2026-10-16'
+  summary: 'Nenhuma manifestação dele localizada. Busca em 16/10/2026 (WebSearch por ''UNLTD Network Brazil
+    Projeto DV Banco Master agência nota defesa'', por ''Anderson Nunes OR Anderson Antunes UNLTD agência
+    sócio'' e por ''André Salvador UNLTD defesa nota advogado Projeto DV''; leitura de CNN Brasil, Poder360,
+    Money Times e Gazeta do Povo): nenhum perfil institucional ou nota em seu nome. A tentativa de contato
+    do Poder360 com o sócio que grafa ''Anderson Nunes'' consta da organização, não deste verbete.'
+  source_ids:
+  - src-poder360-2026-01-09-vereador-procurado-para-criticar-o-bc-diz-que-vorcaro-era-contratante
+open_questions:
+- 'Grafia do sobrenome: o Poder360 (09/01/2026) fala em ''Anderson Nunes'', sócio da empresa, procurado
+  sem resposta; a base da Receita (BrasilAPI, via acervo) registra como único sócio-administrador ''Anderson
+  Nunes da Rosa''; a decisão de Mendonça na PET 16.346, lida por OCR, grafa ''Anderson Antunes''. Reler
+  a página da decisão (PDF do Poder360) e, se for ''Nunes'', renomear id e name, com alias. Enquanto
+  isso, o id e o nome ficam como estão.'
 source_ids:
 - src-poder360-2026-07-09-integra-decisao-thiago-miranda
+- src-poder360-2026-01-09-vereador-procurado-para-criticar-o-bc-diz-que-vorcaro-era-contratante
+- src-brasilapi-2026-unltd-network-brazil
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'

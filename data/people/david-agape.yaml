@@ -9,28 +9,58 @@ summary: Jornalista investigativo brasileiro, fundador da newsletter 'A Investig
   Revista Oeste (linha editorial conservadora) — vínculo corroborado de forma independente pela página
   de autor do próprio veículo e por nota do portal de mídia Comunique-se sobre sua chegada à redação.
   Idealizador da série 'Twitter Files Brazil' (com Michael Shellenberger e Eli Vieira) e de 'Vaza Toga
-  2 e 4' (com Eli Vieira) — por esta última, ambos foram alvo de ação penal apresentada ao STF por ex-colaboradora
-  do TSE, sob acusação de incitação, perseguição e 'tentativa de subversão do Estado Democrático de Direito',
-  ação arquivada pelo próprio ministro Alexandre de Moraes por falta de indícios mínimos de crime. Segundo
-  autodescrição em seu site oficial (davidagape.com) — não verificada de forma independente pela equipe
-  —, é também diretor de comunicação da Free Speech Union Brasil, coautor do livro 'In Verbo Veritas',
-  vencedor do 'Free Speech Courage Award' (Civilization Works, Londres, 2026), e seu trabalho já provocou
-  depoimentos no Senado Federal, na Câmara dos Deputados, no Congresso dos Estados Unidos e 'intervenção
-  direta do Vaticano' em 2019, após reportagem sobre os Arautos do Evangelho; o mesmo site lista citações
-  por veículos como NYT, Reuters, BBC e WSJ sem links de verificação. Publica, na 'A Investigação', cobertura
-  de linha editorial declaradamente crítica ao STF e ao governo, com conteúdo parcialmente restrito a
-  assinantes. A equipe editorial NÃO localizou fact-checking institucional (Aos Fatos, Lupa, Comprova)
-  desmentindo publicações específicas dele. Em checagem direta de um de seus artigos contra o documento
-  primário citado, a equipe não confirmou nenhum erro factual na redação do texto — mas, dado o histórico
-  de atrito pessoal direto com o ministro que é alvo central de suas matérias atuais sobre a crise Moraes-Mendonça,
-  o corpus trata sua reportagem como posição atribuída, nunca como lastro factual autônomo sem verificação
-  direta contra documento primário.
+  2 e 4' (com Eli Vieira) — por esta última, ambos foram alvo de representação criminal (Pet 14.760, segundo o arquivo dos autos hospedado pelo Poder360)
+  apresentada ao STF por uma jornalista e pesquisadora da UnB (que os dois autores descrevem como colaboradora
+  informal do TSE; a imprensa a descreve como jornalista e pesquisadora). Segundo o Poder360 (27/01/2026),
+  a petição pedia a investigação dos dois e de Eduardo Tagliaferro por crimes como difamação, injúria
+  e abolição violenta do Estado Democrático de Direito; os crimes apontados variam conforme as fontes
+  e não foram conferidos na peça. A representação foi arquivada pelo ministro Alexandre de Moraes em janeiro
+  de 2026, que seguiu a recomendação da PGR e disse, segundo o Poder360, não haver na petição “indícios
+  mínimos da ocorrência de ilícito criminal”. Segundo autodescrição em seu site oficial (davidagape.com)
+  — não verificada de forma independente pela equipe —, é também diretor de comunicação da Free Speech
+  Union Brasil, coautor do livro 'In Verbo Veritas', vencedor do 'Free Speech Courage Award' (Civilization
+  Works, Londres, 2026), e seu trabalho já provocou depoimentos no Senado Federal, na Câmara dos Deputados,
+  no Congresso dos Estados Unidos e 'intervenção direta do Vaticano' em 2019, após reportagem sobre os
+  Arautos do Evangelho; o mesmo site lista citações por veículos como NYT, Reuters, BBC e WSJ sem links
+  de verificação. Publica, na 'A Investigação', cobertura de linha editorial declaradamente crítica ao
+  STF e ao governo, com conteúdo parcialmente restrito a assinantes. A equipe editorial NÃO localizou
+  fact-checking institucional (Aos Fatos, Lupa, Comprova) desmentindo publicações específicas dele. Em
+  checagem direta de um de seus artigos contra o documento primário citado, a equipe não confirmou nenhum
+  erro factual na redação do texto — mas, dado que foi alvo de representação que tramitou sob relatoria
+  do ministro Alexandre de Moraes e foi por ele arquivada, e que sua cobertura atual tem esse ministro
+  como alvo central de suas matérias sobre a crise Moraes-Mendonça, o corpus trata sua reportagem como
+  posição atribuída, nunca como lastro factual autônomo sem verificação direta contra documento primário.
 why_in_novelo: É a fonte de múltiplas reportagens recentes sobre a crise institucional Moraes-Mendonça
-  no STF, com linha editorial declarada e histórico de atrito com um dos ministros centrais ao caso —
-  perfil relevante para calibrar o padrão de verificação aplicado às suas alegações.
+  no STF, com linha editorial declarada e tendo sido alvo de representação que tramitou sob a relatoria
+  de um dos ministros centrais ao caso — perfil relevante para calibrar o padrão de verificação aplicado
+  às suas alegações.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: public_note
+  by_id: david-agape
+  date: '2025-11-11'
+  summary: 'Autopublicação. No artigo de opinião ''Jornalismo não é milícia: ação mira autores da Vaza
+    Toga no STF'' (Poder360, em coautoria com Eli Vieira), classificou a petição como SLAPP e tentativa
+    de enquadrar repórteres investigativos; disse que ela se apoia em declarações de terceiros e no pedido
+    de prevenção ao Inquérito das Milícias Digitais, invocou a ADPF 130 e o art. 220 da Constituição e
+    afirmou que as reportagens se baseiam em documentos e em falas da própria autora da petição.'
+  source_ids:
+  - src-poder360-2025-11-11-jornalismo-nao-e-milicia-acao-mira-autores-da-vaza-toga-no-stf
+  - src-gazetadopovo-2025-11-11-pesquisadora-da-unb-pede-a-moraes-para-investigar-autores-da-vaza-toga-no-stf
+- kind: public_note
+  by_id: david-agape
+  date: '2026-01-29'
+  summary: 'Autopublicação (A Investigação). Escreveu que o arquivamento da representação é correto quanto
+    ao mérito e uma vitória pontual, que não resolve o problema estrutural; criticou a legitimação, pela
+    decisão, de inquéritos que considera juridicamente questionáveis na origem. Segundo ele, a decisão
+    é de 28/01/2026; o Poder360 publicou a notícia em 27/01/2026.'
+  source_ids:
+  - src-ainvestigacao-2026-01-29-stf-arquiva-acao-contra-jornalistas-da-vaza-toga
+  - src-poder360-2026-01-27-moraes-arquiva-acao-contra-autores-da-vaza-toga
+- kind: clarification
+  by_id: david-agape
+  date: '2026-09-08'
+  summary: Por e-mail ao Novelo, pediu revisão da ficha quanto a formação e trajetória; o pedido foi atendido
+    (ver open_questions).
 open_questions:
 - 'A pedido do próprio jornalista, por e-mail de 08/09/2026, a ficha foi revisada: a versão anterior citava
   formação pela Uninove e ESPM, e ''onze anos no Grupo Comunique-se, de estagiário a editor sênior'' —
@@ -48,6 +78,15 @@ open_questions:
   matéria descreve o denunciante como deputado federal, quando o registro oficial confirma tratar-se de
   deputado estadual — imprecisão que, no entanto, reforça em vez de enfraquecer a crítica de competência
   que ela própria levanta.'
+- 'Correção de 16/10/2026: o instrumento era uma representação criminal, e não uma ação penal. O número
+  (Pet 14.760) consta do nome do arquivo PDF dos autos hospedado pelo Poder360 e linkado na matéria de
+  27/01/2026; nem esse PDF nem o da decisão foram abertos em texto pelo Novelo. A caracterização da autora
+  da representação como colaboradora do TSE é dos dois autores; a imprensa a descreve como jornalista
+  e pesquisadora da UnB. O Novelo não nomeia a autora da representação.'
+- 'Datas divergentes: a petição teria sido protocolada em 25/10/2025 e arquivada em 28/01/2026, segundo
+  Ágape; a Gazeta do Povo diz 21/10/2025 para o protocolo e 30/10 para o envio à PGR; o Poder360 publicou
+  a notícia do arquivamento em 27/01/2026, um dia antes da data dada por Ágape. A data da assinatura da
+  decisão não foi conferida em texto.'
 source_ids:
 - src-ainvestigacao-2026-09-02-gonet-cnpg-jatinho-kallas
 - src-ainvestigacao-2026-09-02-relatorio-pf-moraes
@@ -58,8 +97,12 @@ source_ids:
 - src-ainvestigacao-2026-09-09-moraes-arquiva-dino-denunciante-alvo
 - src-ainvestigacao-2026-08-18-vaza-toga-5-devassa-cpfs
 - src-stf-2026-pet-11228-andamento-processual
+- src-poder360-2025-11-11-jornalismo-nao-e-milicia-acao-mira-autores-da-vaza-toga-no-stf
+- src-ainvestigacao-2026-01-29-stf-arquiva-acao-contra-jornalistas-da-vaza-toga
+- src-gazetadopovo-2025-11-11-pesquisadora-da-unb-pede-a-moraes-para-investigar-autores-da-vaza-toga-no-stf
+- src-poder360-2026-01-27-moraes-arquiva-acao-contra-autores-da-vaza-toga
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-06'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-06'
-updated_at: '2026-09-09'
+updated_at: '2026-10-16'

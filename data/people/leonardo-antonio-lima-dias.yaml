@@ -4,7 +4,7 @@ category: businessperson
 name: Leonardo Antônio Lima Dias
 role: Comunicador conhecido como "Léo Dias"; intimado como testemunha no inquérito sobre o "Projeto DV"
 summary: 'Comunicador brasileiro, apresentador e dono do portal de entretenimento associado à marca "Léo
-  Dias" (portalleodias.com), conhecido publicamente por esse nome artístico. Identificado nos autos pelo nome civil e pelo CPF. Foi
+  Dias" (portalleodias.com), conhecido publicamente por esse nome artístico. Identificado nos autos pelo nome civil. Foi
   intimado, no mesmo despacho que convocou Thiago Miranda a depor sobre o "Projeto DV" (Mandado de
   Intimação nº 1783075/2026, IPL 2026.0009625, INQ 5.035), para prestar Termo de Declarações em
   29/04/2026 na sede da PF em Brasília. Por meio de advogados do escritório KLA (Koury Lopes Advogados),
@@ -14,14 +14,36 @@ summary: 'Comunicador brasileiro, apresentador e dono do portal de entreteniment
   Miranda foi CEO e sócio de 10%) — este documento o traz, pela primeira vez, como pessoa própria,
   formalmente intimada como testemunha na mesma investigação.'
 why_in_novelo: É intimado como testemunha na mesma frente investigativa que apura o "Projeto DV" de
-  Thiago Miranda, com quem mantém vínculo societário na empresa que leva seu próprio nome — sem que o
-  documento o aponte como investigado ou beneficiário dos recursos da campanha.
+  Thiago Miranda, que, segundo nota divulgada por Leo Dias, iniciou no fim de 2025 a transferência de sua participação
+  societária minoritária na empresa que leva o nome de Leo Dias — sem que o documento o aponte como investigado
+  ou beneficiário dos recursos da campanha.
 cited_position:
+- kind: version
+  summary: 'Posição nos autos, não manifestação pública. Por meio de advogados do escritório KLA, pediu
+    vista integral dos autos e a redesignação da oitiva de 29/04/2026, alegando desconhecer o teor da
+    investigação e residir em São Paulo por compromissos profissionais. Se a oitiva ocorreu, e o conteúdo
+    do termo, não foram localizados.'
+  source_ids:
+  - src-stf-inq5035-edoc42-despacho-intimacoes-projeto-dv
+- kind: public_note
+  by_id: leonardo-antonio-lima-dias
+  date: '2026-01'
+  summary: Segundo o Intercept Brasil (21/05/2026), em janeiro de 2026 Leo Dias divulgou uma nota comunicando
+    que “Thiago Miranda iniciou processo de transferência da participação societária minoritária no fim
+    de 2025”, e reiterou seu compromisso com a transparência e a ética jornalística. O original da nota
+    e o canal em que foi divulgada não foram localizados.
+  source_ids:
+  - src-intercept-2026-05-21-portal-leo-dias-apagou-materia-sobre-dark-horse-apos-bronca-de-vorcaro
 - kind: not_located
-  summary: Nenhuma manifestação pública dele sobre o episódio foi localizada no corpus até a data desta
-    apuração; a petição de seus advogados pedindo vista e redesignação da oitiva é o único registro
-    formal da posição dele nos autos.
+  date: '2026-10-16'
+  summary: 'Nenhuma manifestação específica dele sobre a intimação ou o ''Projeto DV'' em set–out/2026
+    localizada; nenhuma matéria aberta registra pedido de manifestação a ele (WebSearch ''Léo Dias Projeto
+    DV Thiago Miranda depoimento PF nota defesa'' e variações; perfis dele em redes sociais não consultados).'
 open_questions:
+- Segundo o Poder360 (09/07/2026), Miranda anunciou em suas redes, em 07/07/2026, que deixava oficialmente
+  a sociedade do Grupo Léo Dias de Comunicação.
+- Circulam números distintos para a participação vendida por Miranda (R$ 3,5 milhões, segundo a PF e
+  o Poder360; 10% no acervo; outros percentuais e valores noticiados não foram registrados); ver ev-coincidencia-3-5-milhoes-venda-leodias-e-repasse-influenciadores.
 - Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ele no corpus. O
   documento o convoca como testemunha ("Termo de Declarações"), não como investigado.
 - 'O acervo registra múltiplas pessoas jurídicas com nomes semelhantes ligadas a ele — "Léo Dias
@@ -32,8 +54,10 @@ open_questions:
 source_ids:
 - src-stf-inq5035-edoc42-despacho-intimacoes-projeto-dv
 - src-stf-inq5035-edoc15-portaria-ipl-projeto-dv
+- src-intercept-2026-05-21-portal-leo-dias-apagou-materia-sobre-dark-horse-apos-bronca-de-vorcaro
+- src-poder360-2026-07-09-defesa-de-thiago-miranda-nega-ilegalidade-em-campanha-pro-master
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-11'
-updated_at: '2026-09-12'
+updated_at: '2026-10-16'

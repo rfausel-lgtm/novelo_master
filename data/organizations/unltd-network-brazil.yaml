@@ -13,14 +13,31 @@ summary: 'Agência de comunicação e relações públicas, também referida com
   sob encomenda e secundários de consultoria em publicidade e marketing direto, com sede em Águas Claras,
   Brasília. Sua situação cadastral permanece ATIVA — diferentemente da Varajo, da Moriah Asset, da Super
   Empreendimentos e das duas empresas King, ela não foi alcançada por suspensão judicial de atividades.
-  A agência declarou não ter contrato com o Banco Master. O quadro societário retornado pela base da Receita
-  traz um único sócio-administrador, ao passo que agregadores comerciais listam outros dois nomes, entre
-  eles o de André Salvador, apontado como autor das abordagens — divergência não resolvida.'
+  Procurada pela CNN Brasil, a agência (''UNLTD Brasil'') afirmou não ter contrato com o Banco Master
+  (CNN Brasil, 08/01/2026). O quadro societário retornado pela base da Receita Federal traz um único
+  sócio-administrador, ao passo que agregadores comerciais listam outros dois nomes, entre eles o de
+  André Salvador, apontado como autor das abordagens — divergência não resolvida.'
 why_in_novelo: Agência apontada, em decisão judicial da Operação Compliance Zero, como executora de campanha
   coordenada de influenciadores a favor do Banco Master e contra o Banco Central.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: denial
+  date: '2026-01-08'
+  summary: A agência ('UNLTD Brasil') disse à CNN Brasil não ter contrato com o Banco Master. A matéria
+    não nomeia quem falou pela agência nem informa o meio da resposta.
+  source_ids:
+  - src-cnnbrasil-2026-01-08-caso-master-pf-apura-contratacao-de-influenciadores-para-atacar-bc
+- kind: no_response
+  date: '2026-01-09'
+  summary: O Poder360 relata ter procurado a agência por e-mail, telefone e aplicativo de mensagens, com
+    cinco ligações ao sócio que grafa 'Anderson Nunes', sem resposta até a publicação.
+  source_ids:
+  - src-poder360-2026-01-09-vereador-procurado-para-criticar-o-bc-diz-que-vorcaro-era-contratante
+- kind: no_response
+  date: '2026-07-09'
+  summary: O Poder360 procurou a agência Unlimited por e-mail, sobre a operação da PF contra Thiago Miranda,
+    sem resposta até a publicação.
+  source_ids:
+  - src-poder360-2026-07-09-quem-e-thiago-miranda
 open_questions:
 - Há divergência sobre o quadro societário entre a base da Receita Federal, que retorna um único sócio-administrador,
   e agregadores comerciais, que listam outros dois nomes — checagem que dependeria de certidão da Junta
@@ -33,8 +50,11 @@ source_ids:
 - src-poder360-2026-07-09-integra-decisao-thiago-miranda
 - src-brasilapi-2026-unltd-network-brazil
 - src-cnnbrasil-2026-depoimentos-influenciadores-pf-ataques-bc
+- src-poder360-2026-01-09-vereador-procurado-para-criticar-o-bc-diz-que-vorcaro-era-contratante
+- src-cnnbrasil-2026-01-08-caso-master-pf-apura-contratacao-de-influenciadores-para-atacar-bc
+- src-poder360-2026-07-09-quem-e-thiago-miranda
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-09'
+updated_at: '2026-10-16'

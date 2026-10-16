@@ -12,13 +12,12 @@ positions:
 summary: >-
   Eleito presidente do Conselho de Administração do BRB na 802ª Reunião do Consad, de 30/01/2023 (ata publicada
   pela área de Relações com Investidores do banco). Segundo o fato relevante do BRB de 28/01/2026 noticiado
-  pelo Money Times, renunciou ao conselho com efeito imediato. Segundo o Metrópoles, o SBT News e o Congresso
+  pelo Money Times e pela Reuters (IstoÉ Dinheiro), renunciou ao conselho com efeito imediato. Segundo o Metrópoles, o SBT News e o Congresso
   em Foco, é um dos cinco ex-dirigentes alcançados pela cautelar de indisponibilidade de bens do TCDF de
   23/09/2026 (cautelar, sem julgamento de mérito).
 why_in_novelo: Presidente do Conselho de Administração do BRB eleito em 30/01/2023 conforme ata do banco, e um dos cinco ex-dirigentes alcançados pela cautelar do TCDF de 23/09/2026, segundo a imprensa.
 cited_position:
 - kind: not_located
-  by_id: marcelo-talarico
   date: '2026-10-15'
   summary: >-
     Quanto à cautelar do TCDF, o Poder360 informou, em 23/09/2026, não ter localizado contato válido para ele;
@@ -28,15 +27,17 @@ cited_position:
 open_questions:
 - O Metrópoles (13/01/2026) afirma que ele presidia o conselho desde 2022; a ata prova apenas a eleição de
   30/01/2023 para o novo mandato, e não se apurou se presidia antes.
-- A renúncia de janeiro de 2026 é conhecida só pelo fato relevante do BRB de 28/01/2026 noticiado pelo Money
-  Times (o comunicado não foi aberto), por isso não consta como data final do cargo.
-- Defesa nos 30 dias dados pelo TCDF a partir de 23/09/2026; nada localizado até 15/10/2026.
+- A renúncia de janeiro de 2026 é noticiada pelo Money Times e pela Reuters (IstoÉ Dinheiro, 29/01/2026),
+  a partir do mesmo comunicado do BRB de 28/01/2026; o comunicado do RI do BRB não foi aberto, por isso
+  não consta como data final do cargo.
+- 'Defesa: as matérias falam em 30 dias sem termo inicial (depende da intimação); nada localizado até 16/10/2026.'
 source_ids:
 - src-brb-2023-01-31-extrato-ata-802-consad-eleicao-do-presidente
 - src-moneytimes-2026-01-29-banco-de-brasilia-brb-marcelo-talarico-e-luis-resende-deixam-conselho
 - src-metropoles-2026-09-23-caso-master-tcdf-bloqueia-r-27-bilhoes-de-ex-presidente-do-brb-e-mais-4
 - src-sbtnews-2026-09-23-tcdf-bloqueia-r-2-7-bi-de-ex-presidente-do-brb-e-mais-4
 - src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+- src-istoedinheiro-2026-01-29-conselheiros-do-brb-renunciam-em-meio-a-mudancas-na-direcao-do-banco
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-10-16'

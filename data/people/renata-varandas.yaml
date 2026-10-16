@@ -19,24 +19,48 @@ summary: Jornalista, ex-Record e ex-CNN, hoje na SBT News (programa 'Poder em Fo
   um dos dois investigados centrais da Compliance Zero, desde a prisão dele (18/11/2025) até a renúncia
   da banca ao caso (04-05/08/2026) — sobreposição de cerca de 8,5 meses com sua presença na banca. Não
   há indício de que ela tenha atuado nesse caso especificamente; sua atuação profissional conhecida é
-  para a Ambipar.
+  para a Ambipar. Segundo o Poder360 (08/09/2026), a decisão que afastou Andrei Rodrigues não menciona
+  Renata Varandas nem sua atuação para a Ambipar; a matéria usa 'mulher' do diretor-geral onde as fontes
+  de 2025 usam 'namorada'.
 why_in_novelo: É a namorada do diretor-geral afastado da PF, com atuação profissional registrada de lobby
   para uma empresa investigada pela própria corporação que ele dirigia — conflito de interesse potencial,
   sem que nenhuma fonte tenha até aqui atribuído a Andrei qualquer ação ou omissão concreta decorrente
   disso.
 cited_position:
+- kind: no_response
+  date: '2026-09-08'
+  summary: 'O Poder360 a procurou em 08/09/2026, às 11h34, por WhatsApp, com perguntas sobre a natureza
+    do vínculo com a Ambipar, se a atuação foi direta ou por meio do Figueiredo & Velloso, quais serviços
+    foram prestados e se Andrei Rodrigues sabia; a matéria registra: “Não houve resposta até a publicação
+    desta reportagem.” A página, conferida em 16/10/2026, não mostra atualização.'
+  source_ids:
+  - src-poder360-2026-09-08-namorada-andrei-lobby-ambipar
+- kind: no_response
+  date: '2026-06-25'
+  summary: Na reportagem de 25/06/2026, a Gazeta do Paraná (veículo de menor rigor editorial; registro
+    apenas da tentativa, não das alegações da matéria) diz ter procurado o escritório Figueiredo & Velloso
+    pelo e-mail institucional, o SBT News pelos endereços da redação e a jornalista diretamente, sem manifestação
+    de nenhum deles até o fechamento da edição.
+  source_ids:
+  - src-gazetadoparana-2026-06-25-namorada-andrei-contrato-ambipar
 - kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+  date: '2026-10-16'
+  summary: 'Nenhuma nota dela, do SBT News, da Ambipar ou do escritório sobre as reuniões localizada
+    (WebSearch com Renata Varandas Ambipar nota lobby Andrei Rodrigues, e-Agendas, e Figueiredo & Velloso
+    Ambipar nota); site do SBT News, do escritório e redes oficiais não consultados.'
+open_questions:
+- A página do Poder360 de 08/09/2026 foi reconferida em 16/10/2026 e não mostra atualização com manifestação
+  dela; repetir a consulta antes de novas edições.
 source_ids:
 - src-chambers-2026-figueiredo-e-velloso-advogados-profile
 - src-gazetadoparana-2026-exclusivo-escritorio-namorada-andrei-defende-socio-vorcaro
+- src-gazetadoparana-2026-06-25-namorada-andrei-contrato-ambipar
 - src-migalhas-2025-01-31-renata-varandas-nova-socia-fv
 - src-minhareceita-2026-09-figueiredo-velloso-cnpj
 - src-poder360-2025-01-31-renata-varandas-vira-lobista
 - src-poder360-2026-09-08-namorada-andrei-lobby-ambipar
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-06'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-06'
-updated_at: '2026-09-06'
+updated_at: '2026-10-16'

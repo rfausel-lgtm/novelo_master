@@ -8,24 +8,41 @@ summary: Servidora da Câmara dos Deputados apontada pela Polícia Federal, ao l
   de Garigham Amarante Pinto, como integrante do "arranjo funcional informal" que operacionalizava, dentro
   da Câmara, indicações de emendas parlamentares em nome de Valdemar Costa Neto (presidente do PL, sem
   mandato) — ao menos 21 emendas, R$ 119,2 milhões, dos quais cerca de R$ 104 milhões já pagos quando o
-  ministro Flávio Dino determinou o bloqueio em 10/07/2026. O corpus não tem, até esta coleta, o cargo
-  exato dela na Câmara nem histórico funcional equivalente ao levantado para Fialek.
+  ministro Flávio Dino determinou o bloqueio em 10/07/2026. A Itatiaia, O Liberal (Estadão Conteúdo) e
+  a CNN Brasil, em 10/07/2026, a identificam como Nara Benedetti Nicolau Brum, servidora lotada na Liderança
+  do PL na Câmara (a Itatiaia diz servidora efetiva); o Poder360 a descreve como assessora lotada na liderança
+  do PL. O cargo de carreira exato não foi apurado em fonte oficial.
 why_in_novelo: Apontada pela PF como uma das executoras das indicações de emendas em nome de Valdemar Costa Neto
   que levaram ao bloqueio de R$ 119,2 milhões — mesma base documental que já sustenta o verbete de Mariângela
   Fialek.
 cited_position:
 - kind: not_located
-  summary: Manifestação pública dela sobre as acusações não localizada até esta coleta.
+  date: '2026-10-16'
+  summary: 'Busca em 16/10/2026 (WebSearch com o nome mais Câmara, emendas, Valdemar, defesa e nota; leitura
+    de Itatiaia, O Liberal/Estadão Conteúdo, CNN Brasil e Poder360, todas de 10/07/2026): nenhuma manifestação
+    dela, de advogado ou da Câmara; as reportagens não informam contato com ela. A Itatiaia registra que
+    a assessoria do PL foi procurada e não respondeu, o que não é posição dela.'
+  source_ids:
+  - src-itatiaia-2026-07-10-pf-diz-que-valdemar-usava-servidora-da-camara-para-direcionar-emendas
+  - src-oliberal-2026-07-10-mensagens-de-advogado-do-pl-revelam-desvio-de-emendas-por-valdemar-aponta-pf
+  - src-cnnbrasil-2026-07-10-fechou-o-valor-do-valdemar-veja-dialogos-obtidos-pela-pf
+  - src-poder360-2026-07-10-valdemar-direcionou-r-119-milhoes-em-emendas-mesmo-sem-mandato-diz-pf
 open_questions:
-- Cargo, lotação e histórico funcional na Câmara dos Deputados não apurados pela equipe — o corpus só
-  tem o nome, tal como citado pela decisão de Flávio Dino e pela PF.
+- Cargo de carreira exato (um resultado de busca falou em analista legislativo, não aberto; conferir no
+  Portal da Transparência da Câmara). Divergência entre servidora (Itatiaia, O Liberal, CNN) e assessora
+  (Poder360).
+- A expressão do resumo entre aspas, atribuída à PF, não foi conferida no texto da decisão de Flávio Dino.
 - Se responde a inquérito ou procedimento próprio, distinto do que atinge Fialek, não está esclarecido
   nas fontes lidas.
 source_ids:
 - src-migalhas-2026-07-10-dino-bloqueia-119-milhoes-valdemar
 - src-jovempan-2026-07-10-fialek-proibida-segue-nomeada-camara
+- src-itatiaia-2026-07-10-pf-diz-que-valdemar-usava-servidora-da-camara-para-direcionar-emendas
+- src-oliberal-2026-07-10-mensagens-de-advogado-do-pl-revelam-desvio-de-emendas-por-valdemar-aponta-pf
+- src-cnnbrasil-2026-07-10-fechou-o-valor-do-valdemar-veja-dialogos-obtidos-pela-pf
+- src-poder360-2026-07-10-valdemar-direcionou-r-119-milhoes-em-emendas-mesmo-sem-mandato-diz-pf
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-19'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-19'
 updated_at: '2026-10-16'

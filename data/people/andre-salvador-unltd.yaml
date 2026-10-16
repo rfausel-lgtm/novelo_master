@@ -4,24 +4,44 @@ name: André Salvador
 category: businessperson
 role: Sócio da agência UNLTD Network Brazil (Unlimited)
 positions: []
-summary: Sócio, ao lado de Anderson Antunes, da agência UNLTD Network Brazil Ltda (CNPJ 47.643.948/0001-29),
-  também referida como 'Unlimited'. Segundo a decisão de André Mendonça na PET 16.346 e o depoimento de
-  Thiago Miranda à PF, a agência foi contratada para desenvolver o chamado 'Projeto DV' — a aproximação
-  de influenciadores e formadores de opinião para defender o Banco Master e questionar a atuação do Banco
-  Central. A decisão reproduz um 'Acordo de Confidencialidade — Projeto UNLTD' firmado com um vereador,
-  com multa de R$ 800 mil por quebra contratual.
+summary: Apontado como sócio, ao lado de Anderson Antunes, da agência UNLTD Network Brazil Ltda (CNPJ
+  47.643.948/0001-29), também referida como 'Unlimited'. Segundo a apuração da GloboNews relatada pelo
+  Estadão Conteúdo (08/01/2026), foi ele quem procurou o vereador Rony Gabriel (PL, Erechim-RS) com a
+  proposta de gravar conteúdos; o Estadão Conteúdo diz que ele consta na Receita Federal como um dos sócios,
+  ao passo que o quadro societário da base da Receita lido pelo Novelo traz outro nome como único sócio-administrador
+  (divergência não resolvida). Segundo a decisão de André Mendonça na PET 16.346, a agência foi apontada
+  como executora do chamado 'Projeto DV' — a aproximação de influenciadores e formadores de opinião para
+  defender o Banco Master e questionar a atuação do Banco Central; segundo a PF, citada pelo Poder360
+  (09/07/2026), Thiago Miranda foi o principal articulador do 'Projeto DV' por meio da contratação da
+  agência Unlimited. A decisão reproduz um 'Acordo de Confidencialidade — Projeto UNLTD' firmado com um
+  vereador, com multa de R$ 800 mil por quebra contratual.
 why_in_novelo: Sócio de agência apontada, em decisão judicial da Operação Compliance Zero, como executora
   de campanha coordenada de influenciadores a favor do Banco Master.
 cited_position:
+- kind: no_response
+  date: '2026-01-08'
+  summary: O Estadão Conteúdo (republicado pelo Money Times) informou, em 08/01/2026, buscar contato com
+    a empresa e com ele; a matéria não registra resposta.
+  source_ids:
+  - src-moneytimes-2026-01-08-empresa-de-marketing-em-brasilia-contratou-vereador-para-atacar-banco-central
 - kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+  date: '2026-10-16'
+  summary: 'Nenhuma manifestação em nome próprio localizada. Busca em 16/10/2026 (WebSearch ''UNLTD André
+    Salvador agência influenciadores Master PF depoimento'' e variações; leitura de Money Times, Gazeta
+    do Povo, CNN Brasil, Poder360 e Agência O Globo); sem advogado identificado. A negativa de contrato
+    com o Banco Master foi dada pela agência, não por ele (ver unltd-network-brazil).'
+open_questions:
+- 'Segundo o Poder360 (09/07/2026), a PF afirma que Thiago Miranda contratou a agência Unlimited; um resultado
+  de busca (não aberto) atribui a contratação à agência Mithi. Pista, não fonte.'
+- 'Se o depoimento de Thiago Miranda à PF cita a UNLTD: o trecho do Poder360 de 09/07/2026 lido pelo Novelo
+  não o faz; a referência ao depoimento foi retirada do resumo até conferência.'
 source_ids:
 - src-poder360-2026-07-09-integra-decisao-thiago-miranda
+- src-moneytimes-2026-01-08-empresa-de-marketing-em-brasilia-contratou-vereador-para-atacar-banco-central
 aliases:
 - Unlimited
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'

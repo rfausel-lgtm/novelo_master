@@ -11,21 +11,45 @@ positions:
 summary: Figura como administrador da sociedade de advogados nos dois contratos firmados com o grupo de
   Daniel Vorcaro, lidos pela equipe nos autos da PET 16.662 — o de 16/01/2024, com o Banco Master, e o
   de 12/05/2025, com a Viking Participações. É também o nome que consta como autor nos metadados da minuta
-  de contrato descrita no relatório da Polícia Federal sobre o celular de Vorcaro.
+  de contrato descrita no relatório da Polícia Federal sobre o celular de Vorcaro; segundo o próprio acervo
+  (ev-metadados-da-minuta-de-contrato-barci), trata-se do nome da conta de usuário do editor de texto,
+  e não de assinatura ou demonstração de autoria pessoal.
 why_in_novelo: Assina, como administrador do escritório, os contratos de honorários que somam até cerca
   de R$ 181 milhões com o grupo investigado.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública dele foi localizada pela equipe; o escritório se manifestou institucionalmente
-    em nota de 09/03/2026.
+- kind: public_note
+  by_id: barci-de-moraes-sociedade-de-advogados
+  date: '2026-03-09'
+  summary: 'Nota de esclarecimento do escritório, sem signatário individual, que não nomeia Guilherme
+    Benazzi: contratado entre fevereiro de 2024 e novembro de 2025; 15 advogados e três escritórios terceirizados;
+    94 reuniões de trabalho; 36 pareceres; segundo a nota, o escritório nunca conduziu causa do Banco Master
+    no STF (nota reproduzida pelo Poder360).'
   source_ids:
-  - src-stf-pet-16662-autos-integrais
+  - src-poder360-2026-03-09-nota-barci
+- kind: public_note
+  by_id: barci-de-moraes-sociedade-de-advogados
+  date: '2026-09-02'
+  summary: 'Nova nota do escritório ao Poder360 (ver evt-2026-09-02-escritorio-confirma-edicao-do-contrato-por-moraes):
+    segundo o escritório, o setor de compliance solicitou ao ministro Alexandre de Moraes informações sobre
+    eventuais impedimentos legais à contratação, pelo Banco Master, dos serviços do escritório de sua mulher;
+    segundo a nota, sem previsão de atuação no STF nem impedimento legal, o contrato foi assinado e os
+    serviços prestados. A nota não o nomeia.'
+  source_ids:
+  - src-poder360-2026-09-02-dois-contratos-barci
+- kind: not_located
+  date: '2026-10-16'
+  summary: 'Nenhuma fala, entrevista ou manifestação em nome próprio localizada. Busca em 16/10/2026 (WebSearch
+    ''Guilherme Benazzi Barci de Moraes contrato Vorcaro nota escritório'', ''Guilherme Benazzi administrador
+    escritório Barci'' e por seu nome entre aspas com disse ou afirmou); as duas notas institucionais não
+    o mencionam.'
 open_questions:
 - A equipe não localizou manifestação pessoal dele sobre os contratos.
 source_ids:
 - src-stf-pet-16662-autos-integrais
+- src-poder360-2026-03-09-nota-barci
+- src-poder360-2026-09-02-dois-contratos-barci
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-05'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-05'
-updated_at: '2026-09-05'
+updated_at: '2026-10-16'
