@@ -1,0 +1,33 @@
+id: doc-2026-09-29-voto-da-diretora-marina-copola-no-pas-cvm-19957-011231-2025-34
+kind: document
+title: Voto da diretora Marina Copola no PAS CVM nº 19957.011231/2025-34 (Reg. Col. 3543/26)
+doc_type: regulatory_record
+date: 2026-09-29
+date_precision: day
+issuer_id: comissao-de-valores-mobiliarios
+issuer: Comissão de Valores Mobiliários, Diretora Marina Copola (relatora)
+reference: PAS CVM nº 19957.011231/2025-34, Reg. Col. 3543/26
+url: https://www.gov.br/cvm/pt-br/assuntos/noticias/anexos/2026/20260929-pas-cvm-19957-011231-2025-34-diretora-marina-copola-voto.pdf
+source_ids:
+  - src-cvm-2026-09-29-voto-pas-19957-011231-2025-34-marina-copola
+sha256: 5fed00a905185efdc993664a82bdc1359b219625500d8506ff2928e97f97556f
+summary: Voto da relatora que conclui pela responsabilização de João Carlos Mansur e Rodolfo Turelli, diretor
+  presidente e diretor financeiro da REAG Capital Holding S.A., por não fazerem elaborar as demonstrações
+  financeiras de 2024 e os ITR do 1º e 2º trimestres de 2025; fixa pena-base de R$ 100.000,00 por infração,
+  atenuante de 15% e multa individual de R$ 170.000,00. Registra que as demonstrações de 2024 e o ITR do 1º
+  trimestre foram elaborados depois, fora do prazo e sem disponibilização no sistema da CVM, e que o
+  cancelamento do registro da companhia não afasta a responsabilidade por infrações anteriores (art. 60 da
+  Resolução CVM 80). Trata de infração formal de dever de informação; não relaciona a condenação ao Banco
+  Master. O sha256 é o do PDF.
+excerpt: voto por condenar João Carlos Mansur e Rodolfo Turelli, na qualidade de diretor presidente e diretor
+  financeiro, respectivamente
+is_official: true
+related_entity_ids:
+  - comissao-de-valores-mobiliarios
+  - joao-carlos-mansur
+  - rodolfo-turelli
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

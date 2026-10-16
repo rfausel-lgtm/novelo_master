@@ -1,0 +1,31 @@
+id: src-cvm-2026-10-02-cvm-multa-neo-in-e-administradores-da-reag-capital-holdings
+kind: source
+title: CVM multa em R$ 3 milhões Neo In Construções e Incorporação Ltda. e seu administrador
+publisher: Comissão de Valores Mobiliários
+publication_date: 2026-10-02
+retrieved_at: 2026-10-16
+url: https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-multa-em-r-3-milhoes-neo-in-construcoes-e-incorporacao-ltda-e-seu-administrador
+source_type: official_regulator
+language: pt-BR
+summary: Nota da CVM (publicada em 02/10/2026, 16h31) sobre a sessão de julgamento de 29/09/2026, com dois
+  processos administrativos sancionadores. No PAS 19957.011231/2025-34, o Colegiado, por unanimidade e
+  acompanhando o voto da diretora Marina Copola, decidiu pela condenação de João Carlos Mansur e Rodolfo
+  Turelli, diretor presidente e diretor financeiro, à multa individual de R$ 170.000,00, pela não elaboração
+  das demonstrações financeiras de 2024 e dos formulários de informações trimestrais do 1º e do 2º trimestres
+  de 2025, com recurso, com efeito suspensivo, ao Conselho de Recursos do Sistema Financeiro Nacional. A nota
+  grafa o nome da companhia como Reag Capital Holdings S.A. O outro processo da nota (Neo In) não é objeto
+  deste lote.
+notes: "Aberta em 16/10/2026 com lote:fonte (sha256, prefixo, a043cc0646f3aa9c) e conferida no navegador
+  embutido, em aba própria: o trecho da condenação consta contíguo no DOM; a extração em texto da página
+  insere espaços espúrios em algumas palavras. A nota diz que o PAS foi instaurado para apurar possível
+  infração; a condenação está no trecho seguinte."
+verification:
+  checked_at: 2026-10-16
+  checked_by: orquestrador (lote:fonte, leitura integral; trecho conferido no navegador embutido)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

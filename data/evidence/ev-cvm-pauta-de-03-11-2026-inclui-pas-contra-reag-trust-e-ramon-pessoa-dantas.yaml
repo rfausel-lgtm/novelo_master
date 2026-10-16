@@ -1,0 +1,21 @@
+id: ev-cvm-pauta-de-03-11-2026-inclui-pas-contra-reag-trust-e-ramon-pessoa-dantas
+kind: evidence
+classification: D
+proposition: A pauta oficial da CVM atualizada em 09/10/2026 inclui, na sessão de julgamento de 03/11/2026
+  (15h), o PAS 19957.017563/2025-22 (relator Igor Muniz, SIN), para apurar as responsabilidades da Reag Trust
+  DTVM (hoje CBSF DTVM, em liquidação extrajudicial) e de Ramon Pessoa Dantas, diretor responsável pela
+  administração de carteiras à época dos fatos, por infração ao art. 22 da Resolução CVM 21.
+document_ids:
+  - doc-2026-10-09-pauta-de-julgamentos-da-cvm-sessao-de-03-11-2026
+source_ids:
+  - src-cvm-2026-10-09-pauta-de-sessoes-de-julgamentos-de-processos-administrativos-sancionadores
+excerpt: atualmente denominada CBSF Distribuidora de Títulos e Valores Mobiliários Ltda.
+locator: pauta, sessão de 03/11/2026
+date: 2026-11-03
+notes: "D vale só quanto ao conteúdo da pauta. Pauta não é julgamento: o acusado não é condenado, e o processo
+  pode ser retirado ou adiado. A pauta não descreve os fatos imputados."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

@@ -16,12 +16,27 @@ summary: 'Gestora/administradora fundada em 2012 por João Carlos Mansur, que a 
   também foi alvo direto da Operação Carbono Oculto (investigação sobre fraude de combustíveis e lavagem
   ligada ao PCC), com o fundador João Carlos Mansur acusado de dinâmica fraudulenta e ocultação de recursos.
   Segundo a representação da PF de 27/02/2026 (lote 171), na 2ª fase da Operação Compliance Zero (14/01/2026)
-  a PF bloqueou R$ 2.245.235.850,24 em conta de Henrique Moura Vorcaro, pai do banqueiro, na CBSF DTVM.'
+  a PF bloqueou R$ 2.245.235.850,24 em conta de Henrique Moura Vorcaro, pai do banqueiro, na CBSF DTVM.
+  A pauta da CVM de 09/10/2026 inclui, para 03/11/2026, o PAS contra a Reag Trust DTVM (hoje CBSF DTVM) e Ramon
+  Pessoa Dantas, seu diretor responsável pela administração de carteiras à época dos fatos, ambos acusados por
+  infração ao art. 22 da Resolução CVM 21; não há julgamento (ver o evento de 03/11).'
 why_in_novelo: Administradora de fundos citada pelo Banco Central em operações irregulares com o Banco
   Master e liquidada em 2026, segundo a imprensa.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: not_located
+  summary: Nenhuma manifestação da Reag Trust DTVM (hoje CBSF DTVM, em liquidação extrajudicial) sobre o PAS
+    19957.017563/2025-22 localizada em buscas na web de 16/10/2026 pelos nomes Reag Trust, CBSF e Ramon Pessoa
+    Dantas, nem na pauta da CVM.
+  source_ids:
+  - src-cvm-2026-10-09-pauta-de-sessoes-de-julgamentos-de-processos-administrativos-sancionadores
+  by_id: reag-investimentos
+  date: '2026-10-16'
+open_questions:
+- A CVM condenou em 29/09/2026 o diretor presidente e o diretor financeiro da REAG Capital Holding S.A. (Mansur e
+  Turelli). O Novelo não estabeleceu a relação entre essa companhia e a Reag Investimentos nem a CBSF; o ato 1.375
+  do Banco Central distingue a CBSF DTVM da REAG IP S.A.
 source_ids:
 - src-cnn-2026-02-05-mansur-reag-brb
 - src-migalhas-2026-02-03-liquidacao-reag-will
@@ -30,8 +45,9 @@ source_ids:
 - src-metropoles-2026-master-repassou-3-6-bilhoes-reag
 - src-cnnbrasil-2026-reag-liquidada-alvo-megaoperacao-pcc
 - src-stf-pet15556-edoc1-representacao-pf-27-02-2026
+- src-cvm-2026-10-09-pauta-de-sessoes-de-julgamentos-de-processos-administrativos-sancionadores
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-11'
+updated_at: '2026-10-16'

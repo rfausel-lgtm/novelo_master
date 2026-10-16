@@ -1,0 +1,26 @@
+id: ev-cvm-condena-mansur-e-turelli-por-nao-elaborar-demonstracoes-e-itr-da-reag-capital-holding
+kind: evidence
+classification: D
+proposition: Em sessão de 29/09/2026, o Colegiado da CVM decidiu, por unanimidade e acompanhando o voto da
+  diretora Marina Copola, condenar João Carlos Mansur e Rodolfo Turelli, diretor presidente e diretor
+  financeiro da REAG Capital Holding S.A., à multa individual de R$ 170.000,00, pela não elaboração das
+  demonstrações financeiras de 2024 (art. 176, caput, da Lei 6.404/1976) e dos ITR do 1º e 2º trimestres de
+  2025 (art. 31, II, da Resolução CVM 80), com possibilidade de recurso, com efeito suspensivo, ao CRSFN.
+document_ids:
+  - doc-2026-09-29-voto-da-diretora-marina-copola-no-pas-cvm-19957-011231-2025-34
+  - doc-2026-10-02-nota-da-cvm-sobre-a-sessao-de-julgamento-de-29-09-2026
+source_ids:
+  - src-cvm-2026-10-02-cvm-multa-neo-in-e-administradores-da-reag-capital-holdings
+  - src-cvm-2026-09-29-voto-pas-19957-011231-2025-34-marina-copola
+excerpt: pela condenação de João Carlos Mansur e Rodolfo Turelli
+locator: nota, item 2; voto, parágrafos 16 a 21
+date: 2026-09-29
+notes: D demonstra o conteúdo do voto e da nota, e nada além da omissão sancionada. É infração formal de
+  dever de informação, em primeira instância administrativa e recorrível; o voto e a nota não imputam ato
+  intencional nem ligam a condenação ao Banco Master. A ata ou o acórdão do Colegiado não foram lidos além da
+  nota.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

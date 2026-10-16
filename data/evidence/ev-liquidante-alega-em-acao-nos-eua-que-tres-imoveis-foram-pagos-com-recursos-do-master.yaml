@@ -1,0 +1,25 @@
+id: ev-liquidante-alega-em-acao-nos-eua-que-tres-imoveis-foram-pagos-com-recursos-do-master
+kind: evidence
+classification: A
+proposition: Segundo o liquidante do Banco Master, a EFB Regimes Especiais de Empresas, em ação proposta em
+  07/10/2026 no Tribunal de Falências do Distrito Sul da Flórida contra Clear River Properties LLC e Goldbeach
+  Properties LLC, três imóveis em Aspen e Miami, comprados à vista entre abril de 2024 e fevereiro de 2025,
+  foram pagos com recursos do Master que teriam passado por um fundo nas Bahamas (Mosaic Short Duration Fund);
+  o liquidante pede o reconhecimento dos imóveis como patrimônio do Master ou, alternativamente, a restituição
+  de ao menos US$ 77 milhões (Clear River) e US$ 92,5 milhões (Goldbeach), além de bloqueio da venda e
+  administrador judicial, conforme Times Brasil, Metrópoles e Rio Times.
+source_ids:
+  - src-timesbrasil-2026-10-09-liquidante-do-banco-master-recorre-a-justica-dos-eua-para-recuperar-imoveis-de-r-843-milhoes-ligados-a-vorcaro
+  - src-metropoles-2026-10-09-liquidante-liga-mansoes-de-vorcaro-nos-eua-a-lavagem-de-r-2-bilhoes
+  - src-riotimes-2026-10-12-banco-master-liquidator-sues-for-3-us-mansions
+attributed_to_id: efb-regimes-especiais-de-empresas
+attributed_to: EFB Regimes Especiais de Empresas (petição de 07/10/2026), conforme Times Brasil, Metrópoles e Rio Times
+date: 2026-10-07
+notes: Alegações do liquidante, não julgadas. As três reportagens partem da mesma petição (uma origem, não
+  três confirmações). O Novelo não leu a petição; só o docket (ver ev-docket). Valores em reais variam entre
+  os veículos e não são usados.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

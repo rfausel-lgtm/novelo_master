@@ -1,0 +1,71 @@
+id: evt-2026-09-29-cvm-condena-dois-administradores-da-reag-capital-holding-por-nao-elaborar-demonstracoes-e-itr
+kind: event
+title: CVM condena o diretor presidente e o diretor financeiro da REAG Capital Holding a multa de R$ 170 mil
+  cada por não elaborarem demonstrações financeiras e ITR
+event_type: regulatory_act
+date: 2026-09-29
+date_precision: day
+participant_ids:
+  - comissao-de-valores-mobiliarios
+  - joao-carlos-mansur
+  - rodolfo-turelli
+description: Em sessão de julgamento de 29/09/2026, divulgada pela CVM em 02/10, o Colegiado da autarquia
+  decidiu, por unanimidade e acompanhando o voto da diretora Marina Copola, condenar João Carlos Mansur e
+  Rodolfo Turelli, diretor presidente e diretor financeiro da REAG Capital Holding S.A., à multa individual de
+  R$ 170 mil, por não elaborarem as demonstrações financeiras de 2024 (art. 176 da Lei 6.404/1976) e os
+  formulários de informações trimestrais do 1º e do 2º trimestres de 2025 (art. 31, II, da Resolução CVM
+  80/2022). O processo (PAS 19957.011231/2025-34) seguiu o rito simplificado; os acusados apresentaram defesa
+  conjunta e, em 02/02/2026, proposta de termo de compromisso, rejeitada pelo Colegiado em 26/05/2026. Segundo
+  o voto, as demonstrações de 2024 e o ITR do 1º trimestre foram elaborados depois, fora do prazo e sem
+  disponibilização no sistema da CVM, e o cancelamento do registro da companhia (deferido em 07/10/2025) não
+  afasta a responsabilidade por infrações anteriores. A pena-base foi de R$ 100 mil por infração, com
+  atenuante de 15% por bons antecedentes. Cabe recurso, com efeito suspensivo, ao Conselho de Recursos do
+  Sistema Financeiro Nacional. A condenação é uma infração formal, de primeira instância administrativa, por
+  omissão no dever de elaborar documentos periódicos; o voto e a nota não imputam ato intencional nem
+  relacionam a decisão ao Banco Master.
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-cvm-condena-mansur-e-turelli-por-nao-elaborar-demonstracoes-e-itr-da-reag-capital-holding
+source_ids:
+  - src-cvm-2026-10-02-cvm-multa-neo-in-e-administradores-da-reag-capital-holdings
+  - src-cvm-2026-09-29-voto-pas-19957-011231-2025-34-marina-copola
+document_ids:
+  - doc-2026-09-29-voto-da-diretora-marina-copola-no-pas-cvm-19957-011231-2025-34
+  - doc-2026-10-02-nota-da-cvm-sobre-a-sessao-de-julgamento-de-29-09-2026
+cited_position:
+  - by_id: joao-carlos-mansur
+    kind: version
+    date: 2026-02-02
+    summary: Nos autos, apresentou defesa conjunta com Rodolfo Turelli e, em 02/02/2026, proposta de termo de
+      compromisso, rejeitada pelo Colegiado em 26/05/2026; o voto não reproduz o teor das razões de defesa.
+    source_ids:
+      - src-cvm-2026-09-29-voto-pas-19957-011231-2025-34-marina-copola
+  - by_id: rodolfo-turelli
+    kind: version
+    date: 2026-02-02
+    summary: Nos autos, apresentou defesa conjunta com João Carlos Mansur e, em 02/02/2026, proposta de termo de
+      compromisso, rejeitada pelo Colegiado em 26/05/2026; o voto não reproduz o teor das razões de defesa.
+    source_ids:
+      - src-cvm-2026-09-29-voto-pas-19957-011231-2025-34-marina-copola
+  - by_id: joao-carlos-mansur
+    kind: not_located
+    date: 2026-10-16
+    summary: "Nenhuma nota pública ou manifestação sobre a condenação localizada: buscas na web em 16/10/2026 pelo
+      nome do acusado com o número do processo, e leitura da nota da CVM de 02/10, que não traz posição dos
+      acusados."
+    source_ids:
+      - src-cvm-2026-10-02-cvm-multa-neo-in-e-administradores-da-reag-capital-holdings
+  - by_id: rodolfo-turelli
+    kind: not_located
+    date: 2026-10-16
+    summary: "Nenhuma nota pública, manifestação ou recurso ao CRSFN localizado: busca na web em 16/10/2026 pelo
+      nome do acusado com Reag Capital Holding, CVM e recurso; o resultado mais recente encontrado é de maio
+      de 2026."
+    source_ids:
+      - src-cvm-2026-10-02-cvm-multa-neo-in-e-administradores-da-reag-capital-holdings
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

@@ -1,0 +1,30 @@
+id: doc-2026-10-09-pauta-de-julgamentos-da-cvm-sessao-de-03-11-2026
+kind: document
+title: Pauta de Sessões de Julgamentos de Processos Administrativos Sancionadores da CVM, atualizada em
+  09/10/2026 (sessão de 03/11/2026)
+doc_type: regulatory_record
+date: 2026-10-09
+date_precision: day
+issuer_id: comissao-de-valores-mobiliarios
+issuer: Comissão de Valores Mobiliários
+reference: Pauta atualizada em 09/10/2026; PAS 19957.017563/2025-22
+url: https://www.gov.br/cvm/pt-br/assuntos/processos/pautas-de-julgamento/pautadejulgamentos-2026-10-09.pdf
+source_ids:
+  - src-cvm-2026-10-09-pauta-de-sessoes-de-julgamentos-de-processos-administrativos-sancionadores
+sha256: 79273a1501b1527e8ef174f83cb9a5cb899d1ec74d5110db407ed12628f3f9a2
+summary: Pauta da sessão de julgamento de 03/11/2026 (terça-feira, 15h), com o PAS 19957.017563/2025-22,
+  relator Diretor Igor Muniz, Superintendência SIN, para apurar as responsabilidades da Reag Trust DTVM,
+  atualmente CBSF DTVM em liquidação extrajudicial, e de seu diretor responsável pela administração de
+  carteiras à época dos fatos, Ramon Pessoa Dantas, por infração ao art. 22 da Resolução CVM 21; pauta
+  publicada no Diário Eletrônico de 08/10/2026. A pauta não descreve os fatos imputados. O sha256 é o do PDF.
+excerpt: atualmente denominada CBSF Distribuidora de Títulos e Valores Mobiliários Ltda.
+is_official: true
+related_entity_ids:
+  - comissao-de-valores-mobiliarios
+  - reag-investimentos
+  - ramon-pessoa-dantas
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

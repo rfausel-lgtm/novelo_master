@@ -1,0 +1,23 @@
+id: ev-docket-registra-a-autuacao-da-acao-26-01362-do-liquidante-contra-clear-river-e-goldbeach
+kind: evidence
+classification: D
+proposition: O docket do Tribunal de Falências dos EUA para o Distrito Sul da Flórida, espelhado pelo
+  CourtListener, registra a autuação em 07/10/2026 do adversary proceeding nº 26-01362 (juiz Scott M.
+  Grossman), com petição inicial de EFB Regimes Especiais de Empresas Ltda. contra Clear River Properties LLC
+  e Goldbeach Properties LLC.
+document_ids:
+  - doc-2026-10-07-docket-do-adversary-proceeding-26-01362-efb-v-clear-river-properties
+source_ids:
+  - src-courtlistener-2026-10-16-efb-v-clear-river-properties-adversary-26-01362
+excerpt: Complaint by EFB Regimes Especiais de Empresas Ltda. against Clear River Properties LLC, Goldbeach
+  Properties LLC.
+locator: docket, entrada 1
+date: 2026-10-07
+notes: D demonstra a existência e a data da autuação, as partes indicadas na descrição da entrada e o número;
+  não demonstra o conteúdo das alegações. Espelho de terceiros do PACER, não conferido no PACER. Nenhuma
+  decisão de mérito consta do docket em 16/10/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

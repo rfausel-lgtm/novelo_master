@@ -127,7 +127,17 @@ cited_position:
   - src-oantagonista-2026-10-15-vorcaro-depoe-a-pf-sobre-compra-do-master-pelo-brb
   by_id: daniel-vorcaro
   date: '2026-10-15'
+- kind: no_response
+  summary: A coluna de Demétrio Vecchioli, no Metrópoles, procurou a defesa sobre a ação do liquidante nos EUA por
+    três imóveis (petição de 07/10/2026), que não respondeu até a publicação de 09/10/2026.
+  source_ids:
+  - src-metropoles-2026-10-09-liquidante-liga-mansoes-de-vorcaro-nos-eua-a-lavagem-de-r-2-bilhoes
+  by_id: daniel-vorcaro
+  date: '2026-10-09'
 open_questions:
+- Em 07/10/2026 o liquidante do Master propôs ação nos EUA contra duas empresas de Delaware titulares de três
+  imóveis que a imprensa liga a ele; ele não é réu, e as alegações do liquidante não foram julgadas (a petição não
+  foi lida pelo Novelo; o docket foi).
 - Oitiva sobre o BRB prevista para 15/10/2026, às 14h, com formato divergente entre as fontes
   (videoconferência segundo a CNN Brasil e outros veículos; presencial segundo o Metrópoles e O Antagonista);
   todas as fontes localizadas são anteriores ao ato, e o Novelo não a registra como ocorrida.
@@ -248,6 +258,7 @@ source_ids:
 - src-agenciabrasil-2026-10-08-defesa-quer-que-mendonca-analise-soltura-de-daniel-vorcaro
 - src-cnnbrasil-2026-10-15-caso-master-vorcaro-presta-hoje-novo-depoimento-a-pf-sobre-o-brb
 - src-oantagonista-2026-10-15-vorcaro-depoe-a-pf-sobre-compra-do-master-pelo-brb
+- src-metropoles-2026-10-09-liquidante-liga-mansoes-de-vorcaro-nos-eua-a-lavagem-de-r-2-bilhoes
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published

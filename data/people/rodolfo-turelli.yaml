@@ -1,0 +1,46 @@
+id: rodolfo-turelli
+kind: person
+name: Rodolfo Turelli
+aliases: []
+category: executive
+role: Diretor financeiro da REAG Capital Holding S.A. à época dos fatos julgados pela CVM, segundo o voto de
+  29/09/2026
+positions:
+  - title: Diretor financeiro
+    organization: REAG Capital Holding S.A.
+    source_ids:
+      - src-cvm-2026-09-29-voto-pas-19957-011231-2025-34-marina-copola
+summary: Foi condenado pela CVM em 29/09/2026, com João Carlos Mansur, à multa individual de R$ 170 mil pela
+  não elaboração das demonstrações financeiras de 2024 e dos ITR do 1º e 2º trimestres de 2025 da REAG Capital
+  Holding S.A., da qual era diretor financeiro, segundo o voto da diretora Marina Copola (PAS
+  19957.011231/2025-34). É infração formal de dever de informação, decisão de primeira instância
+  administrativa, e cabe recurso, com efeito suspensivo, ao CRSFN. O voto e a nota da CVM não relacionam a
+  condenação ao Banco Master.
+why_in_novelo: Condenado pela CVM, em 29/09/2026, à multa de R$ 170 mil por não elaborar demonstrações
+  financeiras e ITR da REAG Capital Holding S.A., da qual era diretor financeiro.
+cited_position:
+  - by_id: rodolfo-turelli
+    kind: version
+    date: 2026-02-02
+    summary: Nos autos, apresentou defesa conjunta com João Carlos Mansur e, em 02/02/2026, proposta de termo de
+      compromisso, rejeitada pelo Colegiado em 26/05/2026; o voto não reproduz o teor das razões.
+    source_ids:
+      - src-cvm-2026-09-29-voto-pas-19957-011231-2025-34-marina-copola
+  - by_id: rodolfo-turelli
+    kind: not_located
+    date: 2026-10-16
+    summary: "Nenhuma nota pública, manifestação ou recurso ao CRSFN localizado: busca na web em 16/10/2026 pelo
+      nome com Reag Capital Holding, CVM e recurso; o resultado mais recente encontrado é de maio de 2026."
+    source_ids:
+      - src-cvm-2026-10-02-cvm-multa-neo-in-e-administradores-da-reag-capital-holdings
+open_questions:
+  - A CVM registra defesa conjunta com Mansur, mas o voto não reproduz o teor das razões de defesa.
+  - Não foi apurado se recorreu ao CRSFN.
+source_ids:
+  - src-cvm-2026-10-02-cvm-multa-neo-in-e-administradores-da-reag-capital-holdings
+  - src-cvm-2026-09-29-voto-pas-19957-011231-2025-34-marina-copola
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

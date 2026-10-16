@@ -1,0 +1,28 @@
+id: rel-comissao-de-valores-mobiliarios-ramon-pessoa-dantas-institutional
+kind: relationship
+from_id: comissao-de-valores-mobiliarios
+to_id: ramon-pessoa-dantas
+relationship_type: institutional
+directed: true
+label: acusado no PAS 19957.017563/2025-22, pautado para 03/11/2026 (sem julgamento)
+start_date: 2026-10-09
+description: Segundo a pauta da CVM atualizada em 09/10/2026, Ramon Pessoa Dantas é acusado, com a Reag Trust
+  DTVM, no PAS 19957.017563/2025-22, por infração ao art. 22 da Resolução CVM 21, pautado para a sessão de
+  03/11/2026. Não há julgamento nem condenação; a pauta pode ser retirada ou adiada e não descreve os fatos
+  imputados.
+evidence_class: D
+confidence: 0.6
+status: unverified
+event_ids:
+  - evt-2026-11-03-cvm-pauta-o-julgamento-da-reag-trust-cbsf-e-de-ramon-pessoa-dantas
+evidence_ids:
+  - ev-cvm-pauta-de-03-11-2026-inclui-pas-contra-reag-trust-e-ramon-pessoa-dantas
+source_ids:
+  - src-cvm-2026-10-09-pauta-de-sessoes-de-julgamentos-de-processos-administrativos-sancionadores
+document_ids:
+  - doc-2026-10-09-pauta-de-julgamentos-da-cvm-sessao-de-03-11-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

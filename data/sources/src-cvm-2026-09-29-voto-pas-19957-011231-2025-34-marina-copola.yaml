@@ -1,0 +1,31 @@
+id: src-cvm-2026-09-29-voto-pas-19957-011231-2025-34-marina-copola
+kind: source
+title: Processo Administrativo Sancionador CVM nº 19957.011231/2025-34 - Voto
+publisher: Comissão de Valores Mobiliários
+author: Diretora Marina Copola (relatora)
+publication_date: 2026-09-29
+retrieved_at: 2026-10-16
+url: https://www.gov.br/cvm/pt-br/assuntos/noticias/anexos/2026/20260929-pas-cvm-19957-011231-2025-34-diretora-marina-copola-voto.pdf
+source_type: official_regulator
+language: pt-BR
+summary: Voto da diretora relatora (Reg. Col. 3543/26, 6 páginas, datado de 29/09/2026) no PAS contra João
+  Carlos Falbo Mansur e Rodolfo Turelli, diretor presidente e diretor financeiro da REAG Capital Holding S.A.
+  Rito simplificado; termo de acusação da SEP de 08/09/2025; defesa conjunta; proposta de termo de compromisso
+  de 02/02/2026, rejeitada pelo Colegiado em 26/05/2026. Conclui pela responsabilização por não fazerem
+  elaborar as demonstrações financeiras de 2024 e os ITR do 1º e 2º trimestres de 2025; registra que parte dos
+  documentos foi elaborada depois, fora do prazo e sem disponibilização no sistema da CVM; fixa pena-base de
+  R$ 100.000,00 por infração, atenuante de 15% por bons antecedentes e multa individual de R$ 170.000,00.
+notes: Anexo à nota de 02/10/2026. Aberta em 16/10/2026 com lote:fonte; o texto foi reextraído com pdftotext
+  -enc UTF-8 porque a extração padrão do lote:fonte, no Windows, perdeu os acentos (o cache foi reescrito com
+  --texto). O PDF tem sha256 5fed00a905185efdc993664a82bdc1359b219625500d8506ff2928e97f97556f. O Novelo usa do
+  voto apenas o que se refere ao objeto da condenação.
+verification:
+  checked_at: 2026-10-16
+  checked_by: orquestrador (lote:fonte, leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

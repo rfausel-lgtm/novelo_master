@@ -11,7 +11,10 @@ summary: Fundou a Reag Investimentos em 2012 e a comandou até 2025, quando vend
   Em 02/09/2026, assinou com a PGR a primeira delação da Operação Compliance Zero — 17 temas, multa de
   R$ 40 milhões —, prometendo revelar o paradeiro de R$ 20 bilhões em ativos atribuídos a Vorcaro. Audiência
   de voluntariedade ocorreu em 03/09/2026; a homologação, pelo relator André Mendonça, seguia pendente
-  até a data desta atualização.
+  até a data desta atualização. Em 29/09/2026 foi condenado pela CVM, com Rodolfo Turelli, à multa individual
+  de R$ 170 mil por não elaborar as demonstrações financeiras de 2024 e os ITR do 1º e 2º trimestres de 2025 da
+  REAG Capital Holding S.A., da qual era diretor presidente, segundo o voto da diretora Marina Copola; é infração
+  formal de dever de informação, decisão de primeira instância administrativa e recorrível.
 why_in_novelo: Comprou ações do BRB por meio de fundo administrado pelo Banco Master, segundo documento
   do próprio BRB noticiado pela imprensa. Firmou a primeira delação premiada da Operação Compliance Zero.
 cited_position:
@@ -21,7 +24,25 @@ cited_position:
   - src-cnn-2026-02-05-mansur-reag-brb
   by_id: joao-carlos-mansur
   date: '2026-02-05'
+- kind: version
+  summary: Nos autos do PAS 19957.011231/2025-34, apresentou defesa conjunta com Rodolfo Turelli e, em 02/02/2026,
+    proposta de termo de compromisso, rejeitada pelo Colegiado da CVM em 26/05/2026; o voto não reproduz o teor
+    das razões de defesa.
+  source_ids:
+  - src-cvm-2026-09-29-voto-pas-19957-011231-2025-34-marina-copola
+  by_id: joao-carlos-mansur
+  date: '2026-02-02'
+- kind: not_located
+  summary: Nenhuma nota pública ou manifestação sobre a condenação da CVM localizada em buscas na web de
+    16/10/2026 pelo nome com o número do processo; a nota da CVM de 02/10 não traz posição dos acusados.
+  source_ids:
+  - src-cvm-2026-10-02-cvm-multa-neo-in-e-administradores-da-reag-capital-holdings
+  by_id: joao-carlos-mansur
+  date: '2026-10-16'
 open_questions:
+- Não apurado se recorreu ao CRSFN da condenação de 29/09/2026 pela CVM. A relação societária entre a REAG
+  Capital Holding S.A., cuja diretoria ele presidia segundo o voto, e a Reag Investimentos não foi estabelecida
+  pelo Novelo; a identidade com o fundador da Reag foi aceita pelo cargo (diretor presidente) e pelo nome.
 - O documento do BRB ao BC não foi lido pela equipe.
 - O corpus não registra a situação atual da participação de Mansur no BRB após a auditoria independente.
 - Os 17 temas/anexos da colaboração não foram discriminados individualmente por nenhum veículo consultado
@@ -39,6 +60,8 @@ open_questions:
   de que não é necessariamente líquido disponível.'
 - Até 09/09/2026, a homologação da delação pelo relator André Mendonça segue pendente.
 source_ids:
+- src-cvm-2026-10-02-cvm-multa-neo-in-e-administradores-da-reag-capital-holdings
+- src-cvm-2026-09-29-voto-pas-19957-011231-2025-34-marina-copola
 - src-agendadopoder-2026-mansur-entrega-20-bilhoes-vorcaro
 - src-bahianoticias-2026-08-26-proposta-delacao-mansur-wagner-acmneto
 - src-bahianoticias-2026-09-mansur-jaguar-fund-botelho
@@ -52,6 +75,6 @@ source_ids:
 - src-verofato-2026-mansur-paradeiro-20-bilhoes-jaguar
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-06'
+updated_at: '2026-10-16'

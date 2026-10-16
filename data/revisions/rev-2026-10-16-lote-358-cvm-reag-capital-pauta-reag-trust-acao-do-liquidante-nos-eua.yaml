@@ -1,0 +1,92 @@
+id: rev-2026-10-16-lote-358-cvm-reag-capital-pauta-reag-trust-acao-do-liquidante-nos-eua
+kind: revision
+date: 2026-10-16
+title: Lote 358 — A CVM condena dois diretores da REAG Capital Holding por infração formal (não elaborar
+  demonstrações financeiras e ITR); pauta para 03/11 o processo contra a Reag Trust (hoje CBSF) e
+  seu ex-diretor Ramon Pessoa Dantas; e o liquidante do Master propõe ação nos EUA por três imóveis
+  (alegações)
+summary: "Lote de atos da CVM e de uma ação do liquidante nos EUA. O que NÃO se afirma, em destaque: a
+  condenação de 29/09/2026 é infração formal de dever de informação (não elaborar demonstrações financeiras e
+  ITR), em primeira instância administrativa, e dela cabe recurso, com efeito suspensivo, ao CRSFN; o voto e a nota não imputam
+  ato intencional nem relacionam a condenação ao Banco Master, e o Novelo não faz essa ligação; a pauta de
+  03/11 não é julgamento, o acusado Ramon Pessoa Dantas não está condenado e o processo pode ser retirado; e a
+  ação do liquidante contém alegações que nenhum tribunal julgou, sem Daniel Vorcaro como réu. Camada D,
+  quanto ao conteúdo de cada ato: em sessão de 29/09/2026, divulgada em 02/10, o Colegiado da CVM, por
+  unanimidade e acompanhando o voto da diretora Marina Copola, condenou João Carlos Mansur (diretor
+  presidente) e Rodolfo Turelli (diretor financeiro) da REAG Capital Holding S.A. à multa individual de R$ 170
+  mil (PAS 19957.011231/2025-34) pela não elaboração das demonstrações financeiras de 2024 (Lei 6.404, art.
+  176) e dos ITR do 1º e 2º trimestres de 2025 (Resolução CVM 80, art. 31, II); pena-base de R$ 100 mil por
+  infração, atenuante de 15%; proposta de termo de compromisso rejeitada em 26/05/2026. A pauta atualizada em
+  09/10/2026 inclui na sessão de 03/11 (15h) o PAS 19957.017563/2025-22 (relator Igor Muniz) contra a Reag
+  Trust DTVM, hoje CBSF DTVM em liquidação extrajudicial, e Ramon Pessoa Dantas, por infração ao art. 22 da
+  Resolução CVM 21; a pauta não descreve os fatos. Camada A: segundo Metrópoles, Times Brasil/CNBC e Rio
+  Times, o liquidante do Master, a EFB Regimes Especiais de Empresas, propôs em 07/10/2026 no Tribunal de
+  Falências do Distrito Sul da Flórida ação contra Clear River Properties LLC e Goldbeach Properties LLC,
+  titulares de três imóveis em Aspen e Miami, alegando que as compras à vista foram pagas com recursos do
+  Master que teriam passado por um fundo nas Bahamas, e pedindo o reconhecimento dos imóveis como patrimônio
+  do Master ou a restituição de ao menos US$ 169,5 milhões (valores em dólares; os valores em reais variam
+  entre os veículos e não são usados). O docket do tribunal, espelhado pelo CourtListener e lido em
+  16/10/2026, confirma a autuação em 07/10 do processo nº 26-01362 (juiz Scott M. Grossman), com citações
+  cumpridas em 15 e 16/10 e nenhuma decisão de mérito; esse registro é D quanto à existência da ação, não
+  quanto ao teor das alegações, e vem de espelho de terceiros, sem conferência no PACER. Com ele, o número
+  não depende mais do Rio Times, que declara usar redação automatizada. A defesa de Vorcaro não respondeu ao Metrópoles; os réus e o liquidante não foram localizados.
+  Duas pessoas novas (Rodolfo Turelli e Ramon Pessoa Dantas), sem verbete de REAG Capital Holding, CBSF, Clear
+  River, Goldbeach ou outras partes dos EUA. Não confirmado: recurso ao CRSFN; relação societária entre a REAG
+  Capital Holding S.A., a Reag Investimentos e a CBSF; conteúdo da petição; defesa das empresas; resultado da
+  sessão de 03/11 (rever em 04/11)."
+added:
+  people: 2
+  organizations: 0
+  events: 3
+  documents: 4
+  relationships: 3
+  sources: 6
+  evidence: 4
+updated_relationships: 0
+corrections:
+  - 'comissao-de-valores-mobiliarios: o resumo dizia "O julgamento estava marcado para 08/09/2026"; o
+    julgamento ocorreu em 08/09/2026 (há evento de condenação nessa data) e o texto
+    passou a dizer isso, com a condenação de 29/09 e a pauta de 03/11 acrescentadas.'
+  - "Plano de redação (não é correção de registro publicado): o número 26-01362, que a liberação dava apenas
+    segundo o Rio Times, foi conferido no docket do CourtListener; a ação ganhou evidência D quanto à autuação
+    (documento e fonte novos), sem elevar a classe das alegações, que seguem A."
+  - "Plano de redação: a fonte da pauta da CVM de 09/10/2026 já existia no acervo (lote 355) e foi
+    reutilizada, em vez de criada de novo; a liberação previa dez fontes novas, o lote traz seis."
+author: orquestrador
+affected_ids:
+  - src-cvm-2026-10-02-cvm-multa-neo-in-e-administradores-da-reag-capital-holdings
+  - src-cvm-2026-09-29-voto-pas-19957-011231-2025-34-marina-copola
+  - src-timesbrasil-2026-10-09-liquidante-do-banco-master-recorre-a-justica-dos-eua-para-recuperar-imoveis-de-r-843-milhoes-ligados-a-vorcaro
+  - src-metropoles-2026-10-09-liquidante-liga-mansoes-de-vorcaro-nos-eua-a-lavagem-de-r-2-bilhoes
+  - src-riotimes-2026-10-12-banco-master-liquidator-sues-for-3-us-mansions
+  - src-courtlistener-2026-10-16-efb-v-clear-river-properties-adversary-26-01362
+  - doc-2026-09-29-voto-da-diretora-marina-copola-no-pas-cvm-19957-011231-2025-34
+  - doc-2026-10-02-nota-da-cvm-sobre-a-sessao-de-julgamento-de-29-09-2026
+  - doc-2026-10-09-pauta-de-julgamentos-da-cvm-sessao-de-03-11-2026
+  - doc-2026-10-07-docket-do-adversary-proceeding-26-01362-efb-v-clear-river-properties
+  - ev-cvm-condena-mansur-e-turelli-por-nao-elaborar-demonstracoes-e-itr-da-reag-capital-holding
+  - ev-cvm-pauta-de-03-11-2026-inclui-pas-contra-reag-trust-e-ramon-pessoa-dantas
+  - ev-liquidante-alega-em-acao-nos-eua-que-tres-imoveis-foram-pagos-com-recursos-do-master
+  - ev-docket-registra-a-autuacao-da-acao-26-01362-do-liquidante-contra-clear-river-e-goldbeach
+  - evt-2026-09-29-cvm-condena-dois-administradores-da-reag-capital-holding-por-nao-elaborar-demonstracoes-e-itr
+  - evt-2026-11-03-cvm-pauta-o-julgamento-da-reag-trust-cbsf-e-de-ramon-pessoa-dantas
+  - evt-2026-10-07-liquidante-do-master-propoe-acao-nos-eua-por-tres-imoveis-ligados-a-vorcaro
+  - rodolfo-turelli
+  - ramon-pessoa-dantas
+  - rel-comissao-de-valores-mobiliarios-joao-carlos-mansur-institutional
+  - rel-comissao-de-valores-mobiliarios-rodolfo-turelli-institutional
+  - rel-comissao-de-valores-mobiliarios-ramon-pessoa-dantas-institutional
+  - comissao-de-valores-mobiliarios
+  - joao-carlos-mansur
+  - reag-investimentos
+  - efb-regimes-especiais-de-empresas
+  - daniel-vorcaro
+reason: "Linha financeiro-regulatória (radar R3), liberada pelo investigador-chefe em 16/10/2026 e recortada
+  pelo orquestrador: o lote traz só os atos da CVM e a ação do liquidante dos imóveis, e deixa de fora os
+  demais itens da liberação, por fonte única, por data não confirmada ou por decisão editorial de retenção.
+  Cada fonte nova foi aberta em 16/10/2026; o trecho da condenação foi conferido no navegador embutido. O
+  docket do CourtListener, encontrado na tentativa de localizar o processo, elevou a ação a D quanto à
+  autuação."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16

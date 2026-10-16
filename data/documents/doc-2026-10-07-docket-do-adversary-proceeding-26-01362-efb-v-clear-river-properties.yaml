@@ -1,0 +1,29 @@
+id: doc-2026-10-07-docket-do-adversary-proceeding-26-01362-efb-v-clear-river-properties
+kind: document
+title: "Docket do adversary proceeding 26-01362 (Bankr. S.D. Fla.): EFB Regimes Especiais de Empresas Ltda. v.
+  Clear River Properties LLC e Goldbeach Properties LLC"
+doc_type: judicial_filing
+date: 2026-10-07
+date_precision: day
+issuer: Tribunal de Falências dos EUA, Distrito Sul da Flórida (dados do PACER espelhados pelo CourtListener)
+reference: Adv. Proc. nº 26-01362-SMG (Bankr. S.D. Fla.)
+url: https://www.courtlistener.com/docket/74934818/efb-regimes-especiais-de-empresas-ltda-v-clear-river-properties-llc/
+source_ids:
+  - src-courtlistener-2026-10-16-efb-v-clear-river-properties-adversary-26-01362
+raw_path: raw/capturas/2026-10-16/courtlistener-docket-26-01362-efb-v-clear-river.txt
+sha256: 24cf8cb73eea66f39494c2fd3418c778ea077712b1123fe6af551e984bf8b583
+summary: "Registro do andamento do processo: autuação em 07/10/2026, juiz Scott M. Grossman, petição inicial
+  (entrada 1) de EFB Regimes Especiais de Empresas Ltda. contra Clear River Properties LLC e Goldbeach
+  Properties LLC, ordem de designação de conferência (08/10), certidões de citação cumprida (15 e 16/10) e
+  entradas sob selo. O docket não traz o conteúdo da petição; o Novelo não a leu. O sha256 é o da captura de
+  texto da página. Espelho de terceiros, não conferido no PACER."
+excerpt: Complaint by EFB Regimes Especiais de Empresas Ltda. against Clear River Properties LLC, Goldbeach
+  Properties LLC.
+is_official: false
+related_entity_ids:
+  - efb-regimes-especiais-de-empresas
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

@@ -1,0 +1,47 @@
+id: evt-2026-11-03-cvm-pauta-o-julgamento-da-reag-trust-cbsf-e-de-ramon-pessoa-dantas
+kind: event
+title: CVM pauta para 03/11 o julgamento da Reag Trust DTVM (hoje CBSF, em liquidação) e de Ramon Pessoa Dantas
+event_type: regulatory_act
+date: 2026-11-03
+date_precision: day
+participant_ids:
+  - comissao-de-valores-mobiliarios
+  - reag-investimentos
+  - ramon-pessoa-dantas
+description: "A pauta oficial da CVM, atualizada em 09/10/2026 e com o processo publicado no Diário Eletrônico
+  de 08/10, inclui na sessão de julgamento de 03/11/2026, às 15h, o PAS 19957.017563/2025-22, sob relatoria do
+  diretor Igor Muniz, para apurar as responsabilidades da Reag Trust Distribuidora de Títulos e Valores
+  Mobiliários S.A., atualmente denominada CBSF Distribuidora de Títulos e Valores Mobiliários Ltda. (em
+  liquidação extrajudicial), e de Ramon Pessoa Dantas, diretor responsável pela administração de carteiras à
+  época dos fatos, ambos por infração ao art. 22 da Resolução CVM 21. Registro prospectivo: a pauta não é
+  julgamento e pode ser retirada ou adiada; Dantas é acusado, não condenado; a pauta não descreve os fatos
+  imputados nem relaciona o processo ao Banco Master. O resultado não é conhecido nesta atualização; rever em
+  04/11/2026."
+evidence_class: D
+status: unverified
+evidence_ids:
+  - ev-cvm-pauta-de-03-11-2026-inclui-pas-contra-reag-trust-e-ramon-pessoa-dantas
+source_ids:
+  - src-cvm-2026-10-09-pauta-de-sessoes-de-julgamentos-de-processos-administrativos-sancionadores
+document_ids:
+  - doc-2026-10-09-pauta-de-julgamentos-da-cvm-sessao-de-03-11-2026
+cited_position:
+  - by_id: ramon-pessoa-dantas
+    kind: not_located
+    date: 2026-10-16
+    summary: "Nenhuma manifestação pública do acusado localizada: buscas na web em 16/10/2026 pelo nome completo
+      com Reag Trust, CBSF e CVM, e leitura da pauta, que não traz a posição do acusado."
+    source_ids:
+      - src-cvm-2026-10-09-pauta-de-sessoes-de-julgamentos-de-processos-administrativos-sancionadores
+  - by_id: reag-investimentos
+    kind: not_located
+    date: 2026-10-16
+    summary: Nenhuma manifestação da Reag Trust DTVM (hoje CBSF, em liquidação extrajudicial) sobre o processo
+      localizada na busca de 16/10/2026; a entidade está sob liquidação extrajudicial.
+    source_ids:
+      - src-cvm-2026-10-09-pauta-de-sessoes-de-julgamentos-de-processos-administrativos-sancionadores
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

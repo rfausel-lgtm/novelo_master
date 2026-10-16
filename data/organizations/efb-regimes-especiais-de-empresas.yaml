@@ -9,7 +9,10 @@ summary: Empresa liquidante do Banco Master (CNPJ 43.336.034/0001-64, responsáv
   reconhecida em 26/05/2026 pela Suprema Corte das Bahamas como representante estrangeira de cinco entidades do
   conglomerado Master — Banco Master S.A., Banco Letsbank S.A., Banco Master de Investimento S.A., Master S/A Corretora
   de Câmbio Títulos e Valores Mobiliários e Banco Master Múltiplo S.A. — para fins da liquidação de fundos internacionais
-  em Jersey, Cayman e Bahamas.
+  em Jersey, Cayman e Bahamas. Em 07/10/2026, segundo a imprensa e o docket do tribunal, propôs no Tribunal de
+  Falências dos EUA para o Distrito Sul da Flórida (processo nº 26-01362) ação contra Clear River Properties LLC
+  e Goldbeach Properties LLC, titulares de três imóveis em Aspen e Miami, alegando que foram pagos com recursos do
+  Master; são alegações do liquidante, não julgadas, e o Novelo não leu a petição.
 why_in_novelo: É a liquidante formal do Banco Master, com reconhecimento judicial em jurisdição estrangeira para
   atuar sobre os fundos internacionais do conglomerado — o elo entre a liquidação decretada pelo Bacen e os ativos
   localizados fora do país.
@@ -18,11 +21,31 @@ cited_position:
   summary: Nenhuma manifestação pública própria localizada até esta data.
   source_ids:
   - src-stf-rcl88121-autos-pecas
-open_questions: []
+- kind: not_located
+  summary: Nenhuma das reportagens abertas sobre a ação de 07/10/2026 registra nota do liquidante, e a busca na web
+    de 16/10/2026 não localizou nota própria; o radar do Novelo informa ter consultado os comunicados do liquidante
+    em bancomaster.com.br (18/11/2025 a set/2026) sem menção à ação.
+  source_ids:
+  - src-timesbrasil-2026-10-09-liquidante-do-banco-master-recorre-a-justica-dos-eua-para-recuperar-imoveis-de-r-843-milhoes-ligados-a-vorcaro
+  by_id: efb-regimes-especiais-de-empresas
+  date: '2026-10-16'
+open_questions:
+- A petição da ação 26-01362 (54 páginas, com trechos tarjados, segundo o Metrópoles) não foi lida pelo Novelo; o
+  docket foi lido no CourtListener, que espelha o PACER, sem conferência no PACER. O prazo de resposta das empresas
+  (09/11/2026) vem do Rio Times, que cita a Jovem Pan (não aberta).
+- Divergências entre os veículos sobre a data da ação (07/10/2026 no docket e nas reportagens; petições "de 8 de
+  outubro" em reportagem posterior não aberta) e sobre os valores em reais; o Novelo usa dólares.
+- Segundo a imprensa, o liquidante teria proposto em 02/10/2026 outra ação nos EUA, sobre valores ligados à venda
+  de uma aeronave; tribunal, partes e número não conferidos pelo Novelo; não registrada.
+- O Rio Times afirma reconhecimento do processo brasileiro sob o Chapter 15 em 08/01/2026, sem outra fonte aberta.
 source_ids:
 - src-stf-rcl88121-autos-pecas
+- src-timesbrasil-2026-10-09-liquidante-do-banco-master-recorre-a-justica-dos-eua-para-recuperar-imoveis-de-r-843-milhoes-ligados-a-vorcaro
+- src-metropoles-2026-10-09-liquidante-liga-mansoes-de-vorcaro-nos-eua-a-lavagem-de-r-2-bilhoes
+- src-riotimes-2026-10-12-banco-master-liquidator-sues-for-3-us-mansions
+- src-courtlistener-2026-10-16-efb-v-clear-river-properties-adversary-26-01362
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-18'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-18'
-updated_at: '2026-09-18'
+updated_at: '2026-10-16'
