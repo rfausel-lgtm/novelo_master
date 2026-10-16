@@ -80,6 +80,7 @@ GitHub commita o card de cada lote: `git pull --rebase` antes de cada push.
 | `npm run lote:achar -- "Nome"`            | Duplicata por id, nome e alias (substitui o índice de 80 KB)                                               |
 | `npm run lote:novo -- spec.yaml [--seco]` | Gera os arquivos do lote e a Revision a partir de uma especificação com só o conteúdo                      |
 
+Em worktree, defina `NOVELO_CACHE` (caminho do `processed/fontes-cache` do repositório principal) para compartilhar o cache entre agentes e rodadas.
 Todos aceitam `--base <ref> --head <ref>` (exceto `fonte`/`achar`/`novo`) para auditar um lote já commitado.
 `lote:check` e `lote:aspas` **não substituem** o editor: ordenam o trabalho dele. Falha de `lote:check`
 bloqueia a integração; alerta é para o editor julgar. Páginas bloqueadas (cache < 500 caracteres) contam como

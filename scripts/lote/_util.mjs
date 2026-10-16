@@ -7,7 +7,8 @@ import { fileURLToPath } from "node:url";
 import YAML from "yaml";
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
-export const CACHE = path.join(ROOT, "processed", "fontes-cache");
+// NOVELO_CACHE compartilha o cache entre worktrees (aponte para o do repositório principal).
+export const CACHE = process.env.NOVELO_CACHE || path.join(ROOT, "processed", "fontes-cache");
 
 /** Pasta de dados -> `kind` do schema. */
 export const KINDS = {
