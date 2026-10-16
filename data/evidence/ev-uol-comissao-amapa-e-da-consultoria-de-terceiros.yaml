@@ -1,0 +1,26 @@
+id: ev-uol-comissao-amapa-e-da-consultoria-de-terceiros
+kind: evidence
+classification: A
+proposition: >-
+  Segundo o UOL (16/10/2026), em julho de 2024 o tesoureiro do Master, Alberto Felix, perguntou a Vorcaro sobre
+  a comissão da "consultoria do Ricardo/Raphael" pela operação do Amapá, de R$ 8,9 milhões; no dia seguinte
+  Vorcaro autorizou uma nota de R$ 8 milhões; e em 01/08/2024 a tesouraria registrou o pagamento de R$ 11
+  milhões como "comissão Amapá". O UOL atribui a consultoria a Ricardo Siqueira Rodrigues.
+attributed_to: UOL (Fabio Serapião, Natália Portinari e Cézar Feitoza)
+document_ids: []
+source_ids:
+- src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
+date: '2024-08-01'
+notes: >-
+  Nas mensagens descritas pelo UOL, a comissão é da consultoria de terceiros, não de Rueda nem de ACM Neto, e o
+  UOL ressalva que as mensagens não mostram pagamento de comissão diretamente aos dois. Os valores (R$ 8,9
+  milhões pedidos, nota de R$ 8 milhões autorizada, R$ 11 milhões registrados) são etapas distintas, atribuídas
+  ao veículo; o Novelo não localizou documento da tesouraria nem registra transação. "Raphael" não é
+  identificado por sobrenome. Segundo o UOL, a consultoria praticava comissão de 10% com o Master; o acervo
+  registra, para o Rioprevidência, percentual de 0,6% em mensagem do próprio Ricardo Siqueira (divergência
+  não reconciliada).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

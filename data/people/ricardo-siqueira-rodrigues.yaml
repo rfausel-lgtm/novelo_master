@@ -10,24 +10,39 @@ summary: 'Operador financeiro apontado pela PF e pela PGR como intermediário do
   Master teria pago a ele ao menos R$ 22,1 milhões pela intermediação (cerca de 0,6% do total aportado), e a
   empresa Mídias Promotora recebeu R$ 126 milhões do banco entre 2022 e 2025, descrita nas peças como veículo
   de recebimento e distribuição de comissões. NOVO (13/09/2026): o documento comprobatório da PF (Pet 15.497)
-  revela que ele não é um operador estreante nesse tipo de esquema — é alvo, em outras apurações, de mandado
-  de prisão preventiva na Operação Rizoma (fraude em fundos de pensão Postalis e Serpro), citação na Operação
-  Circus Maximus (vantagens indevidas a diretores do BRB), e confissão, na Operação Encilhamento, de pagamento
-  de R$ 1 milhão em comissões a Renato de Matteo. Foi apresentado a Vorcaro por Fabiano Zettel em 18/10/2023.
-  Foi também condenado pela CVM em dezembro de 2024 — antes do episódio RioPrevidência — por fraude no
-  empreendimento imobiliário LSH Hotel (ex-licenciado com a marca Trump, na Barra da Tijuca): R$ 17,7
-  milhões de condenação individual dentro de um esquema total de R$ 45 milhões, ao lado do coréu Paulo
-  Figueiredo Filho.
+  registra que ele foi alvo, em outras apurações, de mandado de prisão preventiva na Operação Rizoma (sobre
+  os fundos de pensão Postalis e Serpro), de citação na Operação Circus Maximus (sobre pagamentos a diretores
+  do BRB) e, segundo o mesmo documento, admitiu em termo de declarações da Operação Encilhamento o pagamento
+  de R$ 1 milhão em comissões a Renato de Matteo; o corpus não registra desfecho judicial dessas apurações.
+  Foi apresentado a Vorcaro por Fabiano Zettel em 18/10/2023. Segundo o Diário do Rio, foi também condenado
+  pela CVM em dezembro de 2024 — antes do episódio RioPrevidência — no caso do empreendimento imobiliário LSH
+  Hotel (ex-licenciado com a marca Trump, na Barra da Tijuca), caracterizado pela CVM como "operação
+  fraudulenta": R$ 17,7 milhões de condenação individual, num total estimado em R$ 45 milhões, ao lado do
+  coréu Paulo Figueiredo Filho.
   NOVO (13/09/2026): em mensagem de 18/06/2024, ele mesmo confirma o percentual da comissão — 0,6% sobre
   valores captados — ao calcular seu "bônus de desempenho por coordenação" em R$ 7,2 milhões sobre R$ 1,2
   bilhão captado. A PF aponta que a Mídias Promotora é formalmente titulada por Gilson Bahia Vasconcelos,
-  mas o telefone da empresa na Receita Federal está vinculado a ele, indício de uso de testa de ferro.'
-why_in_novelo: É apontado por PF e PGR como o operador que intermediou os aportes bilionários da
-  RioPrevidência no Banco Master, e suas mensagens são citadas como indício de interferência política sobre
-  o RPPS fluminense.
+  mas o telefone da empresa na Receita Federal está vinculado a ele, o que a PF aponta como indício de uso de
+  testa de ferro.
+  Segundo o UOL (16/10/2026), a "consultoria do Ricardo/Raphael", que o veículo atribui a ele, é a destinatária
+  da comissão pela operação do Amapá discutida em mensagens do Master de julho de 2024, no contexto do registro
+  de R$ 11 milhões como "comissão Amapá" em 01/08/2024; o UOL não liga essa comissão a Antônio Rueda nem a ACM
+  Neto.'
+why_in_novelo: Apontado pela PF e pela PGR como intermediário dos aportes da RioPrevidência no Banco Master, em
+  mensagens que, segundo a representação da PF na Pet 15.497, ligam a liberação dos investimentos a "alinhamento
+  político".
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública dele localizada no corpus até a data desta apuração.
+- by_id: ricardo-siqueira-rodrigues
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    A reportagem do UOL de 16/10/2026 que lhe atribui a "consultoria do Ricardo/Raphael" não registra procura nem
+    manifestação dele; busca da equipe do Novelo nas republicações do mesmo dia não localizou manifestação pública
+    dele sobre as mensagens.
+  source_ids:
+  - src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
 open_questions:
 - 'Suas mensagens citam um "dono" do Rioprevidência e um "operador político" sem nomeá-los expressamente; a
   PF não esclarece, na petição lida, a quem se refere. CONFIRMADO (13/09/2026): em áudio transcrito no
@@ -40,6 +55,10 @@ open_questions:
 - 'NOVO (13/09/2026): em 11/08/2026, Mendonça indeferiu pedido formulado por ele na Pet 15.676 (caso Cláudio
   Castro), mantendo as investigações contra ele em curso — o teor do pedido não foi lido, apenas o dispositivo
   público que o nega.'
+- 'Percentuais divergentes (16/10/2026): o UOL diz que a consultoria dele praticava comissão de 10% com o
+  Master; o acervo registra, para o Rioprevidência, 0,6% sobre valores captados em mensagem dele próprio. Não
+  reconciliado; não há documento da tesouraria do Master sobre os R$ 8,9 milhões, a nota de R$ 8 milhões e os
+  R$ 11 milhões descritos pelo UOL, e "Raphael" não é identificado.'
 source_ids:
 - src-temporealrj-2026-09-ricardo-siqueira-promete-revelar-dono
 - src-agendadopoder-2026-05-31-siqueira-promete-revelar-dono
@@ -49,8 +68,9 @@ source_ids:
 - src-stf-portal-pet15676-15686-andamentos-2026-09-13
 - src-stf-pet15497-representacao-pf-e-despacho-claudio-castro
 - src-agendadopoder-ricardo-siqueira-lobista
+- src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-13'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-13'
-updated_at: '2026-09-13'
+updated_at: '2026-10-16'

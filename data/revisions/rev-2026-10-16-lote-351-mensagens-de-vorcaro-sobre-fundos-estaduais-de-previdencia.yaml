@@ -1,0 +1,106 @@
+id: rev-2026-10-16-lote-351-mensagens-de-vorcaro-sobre-fundos-estaduais-de-previdencia
+kind: revision
+date: '2026-10-16'
+title: 'Lote 351 — Mensagens de Vorcaro sobre a captação de fundos estaduais de previdência (UOL, 16/10): o que mostram sobre Antônio Rueda, ACM Neto e Fernando Mascarenhas, o dia 12/07/2024 no Amapá e o que as mensagens não mostram; e as mensagens de Alcolumbre noticiadas pela Veja'
+summary: >-
+  Segundo dos dois lotes sobre conversas do celular de Daniel Vorcaro publicadas pela imprensa. O que NÃO se
+  afirma, em destaque: o próprio UOL ressalva que as mensagens "não mostram pagamento de comissão diretamente
+  aos dois dirigentes do União Brasil", Antônio Rueda e ACM Neto; a comissão de 10% atribuída a eles continua
+  sendo alegação da terceira proposta de colaboração de Vorcaro (classe A, disputada), e este lote não a
+  promove; o Novelo não localizou Pet, relatório ou decisão de origem das mensagens, nem a decisão sobre o
+  pedido de buscas da PF contra os dois que, segundo o UOL, o STF não chegou a autorizar; mensagem que exista no
+  aparelho periciado prova que está lá, não que o conteúdo seja verdadeiro. Camada A, de uma só apuração (UOL,
+  coluna de Fabio Serapião, com Natália Portinari e Cézar Feitoza, 16/10/2026; Bahia Notícias, Revista Fórum,
+  Goiás 246, Brasil 247 e NC News republicam): mensagens extraídas pela PF, citadas de 11/2023 a 07/2025,
+  registram contatos de Rueda com Vorcaro e com o diretor comercial do Master, Fernando Mascarenhas (no acervo,
+  fernando-de-goes); a oferta de jatos (12/2023) e de hospedagem em hotel em São Paulo (03/2024) a Rueda; a
+  contratação do escritório Rueda & Rueda em quatro ações, R$ 15,4 milhões apresentados a Vorcaro em 08/2024
+  (valor contratado, não pago); uma lista de captações em andamento em 12/07/2024 (Amapá 400, Rio de Janeiro
+  350, Amazonas 250, Campos dos Goytacazes 160, Maricá 500, Belo Horizonte 100 e Alagoas 200, em R$ milhões),
+  que são operações em negociação, não transferências, sem total publicado; a comissão da "consultoria do
+  Ricardo/Raphael", atribuída pelo UOL a Ricardo Siqueira Rodrigues, pela operação do Amapá (R$ 8,9 milhões
+  pedidos, nota de R$ 8 milhões autorizada e R$ 11 milhões registrados como "comissão Amapá" em 01/08/2024),
+  que nas mensagens é de terceiros, não de Rueda; e encontros de ACM Neto e Rueda com Vorcaro em 09 e 10/2024.
+  Em 12/07/2024, segundo o UOL, Rueda pediu a Vorcaro às 11h45 que apagasse mensagens e, cerca de uma hora
+  depois, Mascarenhas relatou a aprovação de R$ 200 milhões no Amapá. Camada D, já no acervo e relida em
+  16/10/2026: a ata da 11ª Reunião Extraordinária do comitê de investimentos da Amprev registra a aprovação
+  unânime de R$ 200 milhões em letras do Master nesse dia, em reunião aberta às 10h49 e encerrada às 11h13,
+  antes das duas mensagens; a ata não menciona Rueda, e a sequência tem causalidade não comprovada. As cifras do
+  Amapá no UOL (400 "confirmado" em 04/2024, 200 aprovados em 12/07, 300 já transferidos até 01/08) não são
+  reconciliadas. Rueda diz que a relação com o Master era "eminentemente profissional", nega a viagem de
+  11/2023 e as negociações do Amapá; ACM Neto chama os vazamentos de "seletivos, manipulados e fora de contexto"
+  e nega ter atuado junto a institutos. Segundo a Bahia Notícias e o SBT News (25/09), a Veja publicou mensagens
+  de 2025 com expressões de amizade entre Vorcaro e Davi Alcolumbre, que as chama de pessoais e anuncia medidas
+  judiciais; a Veja não foi aberta. Nenhuma pessoa ou organização nova. Fora do lote: a lista do Ministério da
+  Previdência (UOL, 12/10), associações feitas só por veículos republicadores, frases de terceiros sobre
+  terceiros, familiares e cargos eleitorais. Não confirmado: origem processual; fuso dos
+  horários; conteúdo das mensagens apagadas; documentos da tesouraria; identidade de "Raphael".
+added:
+  people: 0
+  organizations: 0
+  events: 3
+  documents: 0
+  relationships: 3
+  sources: 3
+  evidence: 12
+updated_relationships: 2
+corrections:
+- 'acm-neto: a posição not_located genérica ficou obsoleta e foi substituída pela negativa de 16/10/2026 ao UOL e pela negativa de 10/09/2026 (já registrada na relação financeira e agora também no verbete); cargo e resultado eleitoral não alterados.'
+- 'fernando-de-goes: acrescentado o alias "Fernando Mascarenhas", nome usado pelo UOL para o diretor comercial do Master (mesmo nome completo e cargo já registrados no verbete), o que evita a criação de uma duplicata; a posição not_located genérica foi substituída por not_located datado de 16/10/2026, com a descrição da busca e o registro de que o UOL não informa ter procurado o executivo.'
+- 'alberto-felix-oliveira e ricardo-siqueira-rodrigues: acrescentada posição not_located de 16/10/2026 sobre as mensagens publicadas pelo UOL, com a descrição da busca.'
+- 'alberto-felix-oliveira, ev-alberto-felix-prisao-domiciliar-e-viagem-humanitaria e src-stf-inq5026-decisao-30-04-2026-alberto-felix-viagem-humanitaria: retirado o nome do pai falecido, familiar sem papel no caso (EDITORIAL §6; METHODOLOGY §2); no verbete, "revelou" → "registra".'
+- 'ricardo-siqueira-rodrigues: summary e why_in_novelo reescritos com atribuição expressa ao documento comprobatório da PF, à representação da PF e ao Diário do Rio, sem os termos "esquema", "fraude" e "vantagens indevidas" em texto próprio e sem "interferência política"; "operação fraudulenta" fica entre aspas como caracterização da CVM; registrado que o corpus não traz desfecho judicial das operações Rizoma, Circus Maximus e Encilhamento. Nenhum fato, valor ou fonte mudou.'
+- 'antonio-rueda: no summary, "fundos ... ligados ao esquema de combustíveis do PCC" → "fundos ... que a operação associa à atuação do PCC no setor de combustíveis"; "o UOL revelou" → "o UOL publicou".'
+- 'acm-neto: no summary, retirada a menção à esposa como sócia da A&M (desnecessária à proposição; o registro societário segue no verbete da empresa) e "o UOL revelou" → "o UOL publicou"; why_in_novelo reescrito em frase factual (sócio-administrador da A&M, pagamentos declarados por ele, citação na proposta de colaboração que ele nega), sem "maior projeção nacional" nem "rede".'
+- 'evt-2024-07-12-ciap-aprova-200-mi-em-letras-do-master: acrescentados os horários de abertura (10h49) e encerramento (11h13) da reunião, lidos na ata em 16/10/2026, e a remissão ao evento das mensagens do mesmo dia.'
+- 'Correções ao plano de redação (não são de registro publicado): (1) o evento previsto para a aprovação de 12/07/2024 pelo comitê da Amprev já existia (evt-2024-07-12-ciap-aprova-200-mi-em-letras-do-master) e foi reutilizado, sem duplicata, por isso events = 3; (2) a ata registra encerramento às 11h13, antes da mensagem de Rueda das 11h45 e do relato de Mascarenhas cerca de uma hora depois, e a sequência foi reescrita nessa ordem, com a ressalva de que o UOL não informa o fuso; (3) o UOL fala em contratação do escritório Rueda & Rueda "em quatro ações", não em quatro contratações; (4) "entre os quais o Amapá Previdência", na posição de ACM Neto, é paráfrase do UOL, não citação, e entra sem aspas; (5) a nota publicada de ACM Neto não trata dos encontros de 2024; (6) o UOL relata a aprovação no Amapá e o registro de R$ 11 milhões em sequência, mas não afirma literalmente que esse pagamento foi feito à consultoria; o texto diz "no contexto" da comissão da consultoria; (7) a data da Veja: matéria de capa da edição que chegou às bancas em 25/09, com nota de Alcolumbre enviada na noite de 24/09.'
+author: orquestrador
+affected_ids:
+- evt-2026-10-16-uol-publica-mensagens-de-vorcaro-sobre-a-captacao-de-fundos-estaduais-de-previdencia
+- evt-2024-07-12-rueda-pede-que-mensagens-sejam-apagadas-segundo-o-uol
+- evt-2026-09-24-veja-publica-mensagens-de-vorcaro-e-davi-alcolumbre
+- evt-2024-07-12-ciap-aprova-200-mi-em-letras-do-master
+- seq-12-07-2024-mensagem-de-rueda-e-aprovacao-de-r-200-mi-no-amapa
+- rel-daniel-vorcaro-antonio-rueda-communication
+- rel-daniel-vorcaro-acm-neto-communication
+- rel-daniel-vorcaro-davi-alcolumbre-communication
+- rel-daniel-vorcaro-antonio-rueda-financial
+- rel-daniel-vorcaro-acm-neto-financial
+- src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
+- src-bahianoticias-2026-09-25-alcolumbre-diz-que-mensagens-que-mostram-intimidade-entre-ele-e-vorcaro-sao-sensacionalismo-barato
+- src-sbtnews-2026-09-25-alcolumbre-e-defesa-de-vorcaro-criticam-vazamentos
+- ev-uol-mensagens-de-vorcaro-sobre-fundos-estaduais-e-a-ressalva-sobre-pagamento
+- ev-uol-rueda-pediu-que-mensagens-fossem-apagadas-em-12-07-2024
+- ev-uol-mascarenhas-informa-aprovacao-de-r-200-mi-no-amapa-em-12-07-2024
+- ev-uol-lista-de-captacoes-em-andamento-de-12-07-2024
+- ev-uol-comissao-amapa-e-da-consultoria-de-terceiros
+- ev-uol-vorcaro-ofereceu-aeronaves-e-hospedagem-a-rueda
+- ev-uol-contratacoes-do-escritorio-de-rueda-apresentadas-a-vorcaro-r-15-4-milhoes
+- ev-uol-encontros-de-acm-neto-e-rueda-com-vorcaro-em-2024
+- ev-rueda-responde-a-reportagem-do-uol-de-16-10
+- ev-acm-neto-responde-a-reportagem-do-uol-de-16-10
+- ev-veja-mensagens-entre-alcolumbre-e-vorcaro-em-2025
+- ev-alcolumbre-nota-sobre-as-mensagens-publicadas-pela-veja
+- fernando-de-goes
+- antonio-rueda
+- acm-neto
+- davi-alcolumbre
+- alberto-felix-oliveira
+- ricardo-siqueira-rodrigues
+- uniao-brasil
+- ev-alberto-felix-prisao-domiciliar-e-viagem-humanitaria
+- src-stf-inq5026-decisao-30-04-2026-alberto-felix-viagem-humanitaria
+reason: >-
+  Linha WA4 (Rueda, ACM Neto, fundos estaduais de previdência e Alcolumbre), liberada pelo investigador-chefe em
+  16/10/2026; segundo dos lotes 350 e 351 sobre conversas vazadas. Orientação editorial de Rafael aplicada:
+  conexões e proximidade entre agentes e o investigado entram, e o teor só em trechos curtos, atribuídos e já
+  publicados (EDITORIAL §6), aqui limitados a expressões da própria fonte; vocabulário de imputação não entra
+  em texto próprio; mensagem juntada aos autos prova que existe no aparelho periciado, não que o conteúdo é
+  verdadeiro; o rastro (fonte, data, interlocutores, documento de origem) fica completo para corroboração
+  futura. Fica registrado que o relatório da linha WA4 errava ao propor classe D para a presença do Master na
+  Lista Exaustiva do Ministério da Previdência em maio de 2024: o acervo documenta o contrário
+  (ev-master-nao-estava-na-lista-exaustiva-em-maio-de-2024), e a reportagem do UOL de 12/10 fica fora até se
+  verificar de que lista trata.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'

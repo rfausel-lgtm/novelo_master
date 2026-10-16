@@ -15,13 +15,24 @@ summary: 'Segundo o documento comprobatório da PF (Pet 15.497), foi acionado po
   sobre o banco ser visto como próximo do governo, escreveu "vou mandar então pra tio guiga e Jaques", que a PF
   lê como referência a Guilherme Sodré e ao senador Jaques Wagner. Segundo a análise cadastral da PF, foi diretor
   da PKL One de outubro de 2020 a julho de 2021, e em 10/03/2022 assinou como procurador do Master o contrato com
-  a BN Financeira.'
+  a BN Financeira. Segundo o UOL (16/10/2026), que o chama Fernando Mascarenhas, diretor comercial do Master, é
+  autor das mensagens de 12/07/2024 a Vorcaro sobre a aprovação no Amapá e da lista de captações em andamento
+  enviada nesse dia.'
+aliases:
+- Fernando Mascarenhas
 why_in_novelo: É um segundo canal, paralelo a Augusto Lima, que Vorcaro usou na mesma tentativa de pressão política
   sobre Gilberto Kassab em outubro de 2024 — e a fonte da confirmação interna de que Kassab de fato ligou para Pedro
   Paulo.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública dele localizada até a data desta apuração.
+- by_id: fernando-de-goes
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    A reportagem do UOL de 16/10/2026 que lhe atribui as mensagens de 12/07/2024 não registra procura nem
+    manifestação dele; busca da equipe do Novelo até 16/10/2026 (reportagens sobre a Pet 15.497, a 9ª fase e as
+    mensagens de 16/10/2026, e republicações do mesmo dia) não localizou manifestação pública dele.
+  source_ids:
+  - src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
 open_questions:
 - 'RESOLVIDO (13/09/2026): a referência a "neto" na mesma conversa é Luiz Rennó Netto, advogado de confiança de
   Vorcaro (ver verbete próprio).'
@@ -33,9 +44,10 @@ source_ids:
 - src-pf-representacao-9a-fase-wagner-pdf
 - src-poder360-2026-06-19-pf-wagner-intermediario-vorcaro-lula
 - src-stf-pet16230-autos-pecas
+- src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-13'
-updated_at: '2026-09-15'
+updated_at: '2026-10-16'
 full_name: Fernando de Goes Mascarenhas Filho

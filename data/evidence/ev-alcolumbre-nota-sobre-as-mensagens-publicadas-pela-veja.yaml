@@ -1,0 +1,19 @@
+id: ev-alcolumbre-nota-sobre-as-mensagens-publicadas-pela-veja
+kind: evidence
+classification: A
+proposition: >-
+  Em nota enviada por sua assessoria na noite de 24/09/2026, Davi Alcolumbre chamou a matéria da Veja de
+  "injusto ataque" ao presidente do Congresso, disse tratar-se de supostas mensagens "de teor pessoal,
+  inclusive de terceiros, que não indicam ilegalidade alguma" e anunciou medidas judiciais; segundo o SBT News
+  (25/09), a defesa de Vorcaro criticou a divulgação "seletiva e fragmentada" de supostas conversas privadas.
+attributed_to_id: davi-alcolumbre
+document_ids: []
+source_ids:
+- src-bahianoticias-2026-09-25-alcolumbre-diz-que-mensagens-que-mostram-intimidade-entre-ele-e-vorcaro-sao-sensacionalismo-barato
+- src-sbtnews-2026-09-25-alcolumbre-e-defesa-de-vorcaro-criticam-vazamentos
+date: '2026-09-24'
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

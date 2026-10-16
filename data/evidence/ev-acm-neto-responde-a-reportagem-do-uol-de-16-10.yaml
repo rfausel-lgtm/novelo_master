@@ -1,0 +1,23 @@
+id: ev-acm-neto-responde-a-reportagem-do-uol-de-16-10
+kind: evidence
+classification: A
+proposition: >-
+  Procurado pelo UOL (16/10/2026), ACM Neto classificou os vazamentos como "seletivos, manipulados e fora de
+  contexto" e atribuiu-os a tentativa do governo federal de provocar desgaste político; afirmou que jamais
+  atuou para que institutos de previdência aplicassem recursos no Master, entre eles o Amapá Previdência; que
+  "sequer conhece Fabiano Zettel"; que os valores recebidos do Master decorreram de consultoria prestada por
+  contrato mensal iniciado em janeiro de 2023; e que está à disposição das autoridades desde março de 2026.
+attributed_to_id: acm-neto
+document_ids: []
+source_ids:
+- src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
+date: '2026-10-16'
+notes: >-
+  A nota não trata dos encontros de setembro e outubro de 2024 descritos pelo UOL. A parte da nota sobre a
+  lista do Ministério da Previdência não é registrada neste lote (ver open_questions de acm-neto). Negativa não
+  apaga a evidência; convive com ela.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

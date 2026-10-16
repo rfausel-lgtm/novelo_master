@@ -1,0 +1,50 @@
+id: evt-2026-09-24-veja-publica-mensagens-de-vorcaro-e-davi-alcolumbre
+kind: event
+title: Veja publica mensagens entre Vorcaro e Davi Alcolumbre, segundo Bahia Notícias e SBT News
+event_type: publication
+date: '2026-09-24'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- davi-alcolumbre
+description: >-
+  Segundo a Bahia Notícias e o SBT News (25/09/2026), a revista Veja publicou, em matéria de capa da edição que
+  chegou às bancas em 25/09/2026, mensagens que teriam sido extraídas pela PF do celular de Daniel Vorcaro, com
+  expressões de amizade entre ele e o presidente do Senado, Davi Alcolumbre, uma de 01/02/2025 e outra do fim
+  de março de 2025. Na noite de 24/09, Alcolumbre respondeu em nota, chamando a matéria de "injusto ataque",
+  dizendo tratar-se de mensagens de teor pessoal que não indicam ilegalidade e anunciando medidas judiciais; a
+  defesa de Vorcaro criticou a divulgação "seletiva e fragmentada". A Veja não foi aberta pela equipe; nas
+  fontes lidas, as mensagens não tratam de fundos de previdência, da Amprev nem de nomeações. O Novelo não
+  transcreve as mensagens nem localizou documento oficial de origem.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-veja-mensagens-entre-alcolumbre-e-vorcaro-em-2025
+- ev-alcolumbre-nota-sobre-as-mensagens-publicadas-pela-veja
+source_ids:
+- src-bahianoticias-2026-09-25-alcolumbre-diz-que-mensagens-que-mostram-intimidade-entre-ele-e-vorcaro-sao-sensacionalismo-barato
+- src-sbtnews-2026-09-25-alcolumbre-e-defesa-de-vorcaro-criticam-vazamentos
+document_ids: []
+cited_position:
+- by_id: davi-alcolumbre
+  kind: public_note
+  date: '2026-09-24'
+  summary: >-
+    Chamou a matéria de "injusto ataque" ao presidente do Congresso; supostas mensagens "de teor pessoal, inclusive de terceiros,
+    que não indicam ilegalidade alguma"; medidas judiciais serão tomadas.
+  source_ids:
+  - src-bahianoticias-2026-09-25-alcolumbre-diz-que-mensagens-que-mostram-intimidade-entre-ele-e-vorcaro-sao-sensacionalismo-barato
+  - src-sbtnews-2026-09-25-alcolumbre-e-defesa-de-vorcaro-criticam-vazamentos
+- by_id: daniel-vorcaro
+  kind: public_note
+  date: '2026-09-25'
+  summary: >-
+    A defesa critica a divulgação "seletiva e fragmentada" de supostas conversas privadas fora de contexto e
+    questiona a cadeia de custódia do material.
+  source_ids:
+  - src-sbtnews-2026-09-25-alcolumbre-e-defesa-de-vorcaro-criticam-vazamentos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

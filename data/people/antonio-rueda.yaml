@@ -18,17 +18,31 @@ summary: 'Presidente do União Brasil, filho de médica e engenheiro espanhol, f
   estreitar laços com o governo Lula, Rueda defende, com ACM Neto, postura mais distante e crítica. Segundo registros da Receita Federal enviados à CPI
   do Crime Organizado, conforme o Poder360, dois escritórios ligados a Rueda receberam R$ 6,4 milhões do Banco Master
   desde 2023. Sua assessoria não confirmou as informações, disse que os dados foram ''vazados de forma ilícita'' e
-  que os serviços são legais e regularmente contratados. Em 10/09/2026, o UOL revelou que a mesma proposta atribui a
+  que os serviços são legais e regularmente contratados. Em 10/09/2026, o UOL publicou que a mesma proposta atribui a
   ele, com ACM Neto, a intermediação dos mesmos aportes institucionais mediante comissão de 10%, com pagamentos
   possivelmente somando R$ 3 milhões mensais via o escritório Rueda & Rueda Advogados. Rueda negou irregularidades.
   Em frente distinta, a PF apura desde 17/09/2025, na Operação Carbono Oculto, se ele seria dono oculto de jatos
-  executivos e de fundos de investimento (Bariloche e Viena) ligados ao esquema de combustíveis do PCC — um piloto
+  executivos e de fundos de investimento (Bariloche e Viena) que a operação associa à atuação do PCC no setor de
+  combustíveis — um piloto
   da empresa que operava as aeronaves o identificou como financiador por trás do crescimento da frota; Rueda nega e
   fala em acusação política. Até setembro de 2026, sem oitiva, indiciamento, denúncia ou arquivamento em nenhuma
-  das duas frentes.'
+  das duas frentes. Em 16/10/2026, o UOL publicou mensagens extraídas pela PF do celular de Vorcaro que, segundo
+  o veículo, registram contatos dele com Vorcaro e com a diretoria comercial do Master sobre a captação de
+  institutos de previdência e favores oferecidos a ele; o próprio UOL ressalva que as mensagens não mostram
+  pagamento de comissão a ele, e Rueda diz que a relação com o banco era eminentemente profissional.'
 why_in_novelo: Escritórios ligados a ele constam, segundo registros fiscais enviados a CPI e divulgados pela imprensa,
   entre os destinatários de pagamentos do Banco Master; sua posição está registrada.
 cited_position:
+- date: '2026-10-16'
+  by_id: antonio-rueda
+  kind: denial
+  summary: >-
+    Ao UOL, sobre as mensagens: relação com o Master "eminentemente profissional"; serviços advocatícios
+    prestados com emissão de notas fiscais e recolhimento de impostos; nega ter participado da viagem de novembro
+    de 2023 (diz que estava em São Paulo) e das negociações do Amapá; lamenta "o uso político de trechos isolados
+    de informações que deveriam estar sob sigilo" e diz que "adotará as medidas cabíveis".
+  source_ids:
+  - src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
 - by_id: antonio-rueda
   kind: clarification
   summary: 'Assessoria ao Poder360: não confirma as informações; dados ''vazados de forma ilícita''; serviços legais,
@@ -68,6 +82,17 @@ open_questions:
 - 'A nova acusação de comissão de 10% é distinta dos R$ 6,4 milhões já documentados por registros fiscais enviados
   à CPI (2022-2025): aquele valor é pagamento a escritório por serviços; este é comissão alegada sobre captação
   de terceiros, sem comprovação de repasse efetivo.'
+- 'Duas camadas distintas (16/10/2026): (1) a comissão de 10% é alegação da terceira proposta de colaboração de
+  Vorcaro (classe A, disputada; rejeitada pela PF e pela PGR, segundo o UOL); (2) as mensagens publicadas pelo
+  UOL em 16/10/2026 descrevem contatos, a oferta de jatos e hospedagem e a contratação do escritório em quatro
+  ações (R$ 15,4 milhões), sem mostrar pagamento de comissão a ele, segundo o próprio veículo. A "comissão
+  Amapá" registrada pela tesouraria do Master em 01/08/2024 é, nas mensagens, da consultoria de terceiros.'
+- 'Segundo o UOL (16/10/2026), a PF pediu busca e apreensão em endereços ligados a ele e a ACM Neto com base nas
+  mensagens, e a operação não chegou a ser autorizada pelo STF; o Novelo não localizou a decisão, a data nem o
+  relator. Não confundir com a decisão sobre busca contra ACM Neto na Operação Overclean, outro caso.'
+- 'Pedido de 12/07/2024 para que Vorcaro apagasse mensagens (UOL): o conteúdo das mensagens apagadas e o fuso
+  horário não são informados; a ata do comitê da Amprev registra a reunião daquele dia entre 10h49 e 11h13 e
+  não o menciona (seq-12-07-2024-mensagem-de-rueda-e-aprovacao-de-r-200-mi-no-amapa).'
 source_ids:
 - src-poder360-2026-04-08-receita-pagamentos-master
 - src-metropoles-2026-03-19-rueda-admite
@@ -80,9 +105,10 @@ source_ids:
 - src-ndmais-2026-quem-e-rueda-carbono-oculto-status
 - src-novojornal-2026-alcolumbre-rueda-disputa-uniao-brasil
 - src-otempo-2025-09-rueda-trajetoria-disputas-suspeitas
+- src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
 full_name: Antônio de Rueda
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-13'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-10-16'

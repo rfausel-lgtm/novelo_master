@@ -1,0 +1,47 @@
+id: rel-daniel-vorcaro-davi-alcolumbre-communication
+kind: relationship
+from_id: daniel-vorcaro
+to_id: davi-alcolumbre
+relationship_type: communication
+directed: false
+label: mensagens de 2025 noticiadas pela Veja (segundo Bahia Notícias e SBT News)
+start_date: '2025-02'
+description: >-
+  Segundo a Bahia Notícias e o SBT News (25/09/2026), a Veja publicou mensagens que teriam sido extraídas pela
+  PF do celular de Vorcaro, com expressões de amizade entre ele e Alcolumbre, de 01/02/2025 e do fim de março de
+  2025. A Veja não foi aberta pela equipe; nas fontes lidas, as mensagens não tratam de fundos de previdência,
+  da Amprev nem de nomeações. Alcolumbre diz que são mensagens de teor pessoal que não indicam ilegalidade.
+  Relação distinta da alegação de US$ 30 milhões (rel-daniel-vorcaro-davi-alcolumbre-allegation).
+evidence_class: A
+confidence: 0.35
+status: unverified
+event_ids:
+- evt-2026-09-24-veja-publica-mensagens-de-vorcaro-e-davi-alcolumbre
+evidence_ids:
+- ev-veja-mensagens-entre-alcolumbre-e-vorcaro-em-2025
+- ev-alcolumbre-nota-sobre-as-mensagens-publicadas-pela-veja
+source_ids:
+- src-bahianoticias-2026-09-25-alcolumbre-diz-que-mensagens-que-mostram-intimidade-entre-ele-e-vorcaro-sao-sensacionalismo-barato
+- src-sbtnews-2026-09-25-alcolumbre-e-defesa-de-vorcaro-criticam-vazamentos
+document_ids: []
+cited_position:
+- by_id: davi-alcolumbre
+  kind: public_note
+  date: '2026-09-24'
+  summary: >-
+    Chamou a matéria de "injusto ataque"; supostas mensagens de teor pessoal, inclusive de terceiros, sem
+    ilegalidade; anunciou medidas judiciais.
+  source_ids:
+  - src-bahianoticias-2026-09-25-alcolumbre-diz-que-mensagens-que-mostram-intimidade-entre-ele-e-vorcaro-sao-sensacionalismo-barato
+  - src-sbtnews-2026-09-25-alcolumbre-e-defesa-de-vorcaro-criticam-vazamentos
+- by_id: daniel-vorcaro
+  kind: public_note
+  date: '2026-09-25'
+  summary: A defesa critica a divulgação "seletiva e fragmentada" de supostas conversas privadas.
+  source_ids:
+  - src-sbtnews-2026-09-25-alcolumbre-e-defesa-de-vorcaro-criticam-vazamentos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

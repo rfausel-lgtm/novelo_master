@@ -1,0 +1,83 @@
+id: evt-2026-10-16-uol-publica-mensagens-de-vorcaro-sobre-a-captacao-de-fundos-estaduais-de-previdencia
+kind: event
+title: UOL publica mensagens de Vorcaro sobre a captação de fundos estaduais de previdência que citam Rueda e ACM Neto
+event_type: publication
+date: '2026-10-16'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- antonio-rueda
+- acm-neto
+- fernando-de-goes
+- alberto-felix-oliveira
+description: >-
+  Em 16/10/2026 o UOL publicou mensagens de WhatsApp que diz terem sido extraídas pela Polícia Federal do
+  celular de Daniel Vorcaro, citadas de novembro de 2023 a julho de 2025, sobre a captação de recursos de
+  institutos estaduais de previdência pelo Banco Master. O UOL ressalva que as mensagens não mostram pagamento
+  de comissão diretamente a Antônio Rueda nem a ACM Neto. Segundo o UOL, as mensagens registram contatos do
+  presidente nacional do União Brasil, Rueda, com Vorcaro e com o diretor comercial do banco, Fernando
+  Mascarenhas; jatos e hospedagem em hotel em São Paulo oferecidos a Rueda; a apresentação a Vorcaro da
+  contratação do escritório Rueda & Rueda Advogados em quatro ações (R$ 15,4 milhões); uma lista de captações
+  em andamento em 12/07/2024 (Amapá, Rio de Janeiro, Amazonas, Campos dos Goytacazes, Maricá, Belo Horizonte e
+  Alagoas); a comissão de uma consultoria de terceiros, atribuída a Ricardo Siqueira Rodrigues, pela operação do
+  Amapá, e o registro, em 01/08/2024, de R$ 11 milhões como "comissão Amapá"; e encontros de ACM Neto e Rueda
+  com Vorcaro em 2024. A comissão de 10% a Rueda e ACM Neto continua sendo alegação da terceira proposta de
+  colaboração de Vorcaro, rejeitada pela PF e pela PGR segundo o UOL. Os valores da lista são de operações em
+  negociação, não de transferências. Rueda diz que a relação com o Master era "eminentemente profissional", que
+  os serviços do escritório foram advocatícios, com notas fiscais, nega ter participado da viagem de novembro
+  de 2023 e das negociações do Amapá e lamenta o uso político de trechos isolados; ACM Neto diz que os
+  vazamentos são "seletivos, manipulados e fora de contexto", que nunca atuou para que institutos aplicassem
+  no Master e que não conhece Fabiano Zettel. Segundo o UOL, a PF pediu buscas em endereços ligados aos dois e
+  a operação não chegou a ser autorizada pelo STF. O UOL não informa a Pet, o relatório ou a decisão de que as
+  mensagens teriam saído, e o Novelo não localizou documento oficial nem a decisão sobre as buscas. Mensagem
+  que exista no aparelho periciado não prova, por si, que o conteúdo seja verdadeiro.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-uol-mensagens-de-vorcaro-sobre-fundos-estaduais-e-a-ressalva-sobre-pagamento
+- ev-uol-mascarenhas-informa-aprovacao-de-r-200-mi-no-amapa-em-12-07-2024
+- ev-uol-lista-de-captacoes-em-andamento-de-12-07-2024
+- ev-uol-comissao-amapa-e-da-consultoria-de-terceiros
+- ev-uol-vorcaro-ofereceu-aeronaves-e-hospedagem-a-rueda
+- ev-uol-contratacoes-do-escritorio-de-rueda-apresentadas-a-vorcaro-r-15-4-milhoes
+- ev-uol-encontros-de-acm-neto-e-rueda-com-vorcaro-em-2024
+- ev-rueda-responde-a-reportagem-do-uol-de-16-10
+- ev-acm-neto-responde-a-reportagem-do-uol-de-16-10
+source_ids:
+- src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
+document_ids: []
+cited_position:
+- by_id: antonio-rueda
+  kind: denial
+  date: '2026-10-16'
+  summary: >-
+    Relação com o Master "eminentemente profissional"; serviços advocatícios com notas fiscais e impostos; nega
+    ter participado da viagem de novembro de 2023 e das negociações do Amapá; lamenta "o uso político de trechos
+    isolados de informações que deveriam estar sob sigilo" e diz que "adotará as medidas cabíveis".
+  source_ids:
+  - src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
+- by_id: acm-neto
+  kind: denial
+  date: '2026-10-16'
+  summary: >-
+    Vazamentos "seletivos, manipulados e fora de contexto"; jamais atuou para que institutos de previdência
+    aplicassem no Master, entre eles o Amapá Previdência; "sequer conhece Fabiano Zettel"; valores recebidos
+    do Master são de consultoria por contrato mensal desde janeiro de 2023.
+  source_ids:
+  - src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
+- by: Fernando Mascarenhas (fernando-de-goes), Alberto Felix (alberto-felix-oliveira) e Ricardo Siqueira Rodrigues
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    O UOL não registra procura nem manifestação; busca da equipe do Novelo em 16/10/2026, nas republicações do
+    mesmo dia e em resultados de busca, não localizou manifestação dos três sobre as mensagens.
+- by: União Brasil e defesa de Daniel Vorcaro
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma nota do partido nem da defesa de Vorcaro sobre estas mensagens nas fontes lidas até 16/10/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

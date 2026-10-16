@@ -1,0 +1,24 @@
+id: ev-rueda-responde-a-reportagem-do-uol-de-16-10
+kind: evidence
+classification: A
+proposition: >-
+  Em nota ao UOL (16/10/2026), Antônio Rueda afirmou que sua relação com o Master era "eminentemente
+  profissional" e que os serviços advocatícios foram prestados com emissão de notas fiscais e recolhimento de
+  impostos; lamentou "o uso político de trechos isolados de informações que deveriam estar sob sigilo", que,
+  segundo a nota, "foram retirados de contexto com o propósito de criar suspeitas infundadas e atingir sua
+  reputação"; disse que "adotará as medidas cabíveis"; negou ter participado da viagem de novembro de 2023 (disse que
+  estava em São Paulo) e das negociações do Amapá.
+attributed_to_id: antonio-rueda
+document_ids: []
+source_ids:
+- src-uol-2026-10-16-mensagens-mostram-como-rueda-e-acm-levaram-o-master-a-fundos-de-previdencia
+date: '2026-10-16'
+notes: >-
+  A nota, tal como publicada pelo UOL, não trata dos jatos, da hospedagem nem do pedido de 12/07/2024 para que
+  mensagens fossem apagadas; sobre o escritório, fala em termos gerais dos serviços advocatícios prestados, sem
+  mencionar o valor de R$ 15,4 milhões. Negativa não apaga a evidência; convive com ela.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

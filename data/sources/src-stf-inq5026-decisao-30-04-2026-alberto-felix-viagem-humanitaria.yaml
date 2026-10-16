@@ -10,8 +10,7 @@ source_type: official_court
 summary: 'Decisão pública (Resolução STF 427/2010), baixada diretamente do portal do STF, que autoriza
   Alberto Felix de Oliveira Neto — sujeito a medidas cautelares restritivas, incluindo prisão domiciliar e
   proibição de contato com investigados da Operação Compliance Zero (art. 319, III, CPP) — a se deslocar
-  excepcionalmente a Passos/MG entre 30/04 e 04/05/2026, para o velório e sepultamento do pai, Gerson Felix
-  de Oliveira, com flexibilização temporária do monitoramento eletrônico.'
+  excepcionalmente a Passos/MG entre 30/04 e 04/05/2026, para o velório e sepultamento do pai, com flexibilização temporária do monitoramento eletrônico.'
 notes: Documento público, baixado diretamente do portal do STF. Não depende do certificado digital do
   Rafael. Confirma que, por abril/2026, Alberto Felix de Oliveira Neto já cumpria prisão domiciliar (não
   mais custódia fechada) com monitoramento eletrônico.
@@ -22,6 +21,6 @@ verification:
   content_matches_summary: true
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-10-16'
