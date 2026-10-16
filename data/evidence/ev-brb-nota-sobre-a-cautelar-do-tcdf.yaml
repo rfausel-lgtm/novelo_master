@@ -1,0 +1,18 @@
+id: ev-brb-nota-sobre-a-cautelar-do-tcdf
+kind: evidence
+classification: A
+proposition: >-
+  Segundo o Poder360 (23/09/2026) e o Congresso em Foco (24/09/2026), o BRB, em nota, classificou a decisão do
+  TCDF como positiva e disse que a atual gestão atua "de forma diligente" na recuperação de ativos.
+attributed_to_id: banco-de-brasilia-brb
+document_ids: []
+source_ids:
+- src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+- src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+date: '2026-09-23'
+notes: A nota do BRB não foi aberta no site do banco; o registro vale pelo que os dois veículos reproduzem.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

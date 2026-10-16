@@ -1,0 +1,28 @@
+id: ev-mensagens-de-05-04-2025-entre-vorcaro-e-thiago-miranda-sobre-celina-leao
+kind: evidence
+classification: A
+proposition: >-
+  Segundo a Folha de S.Paulo (15/09/2026), conforme o Poder360 (16/09/2026), que diz ter confirmado as
+  mensagens, e segundo o Congresso em Foco (17/09/2026), mensagens de 05/04/2025 entre Daniel Vorcaro e o
+  publicitário Thiago Miranda, de material da Operação Compliance Zero tornado público após o levantamento de
+  sigilo por André Mendonça (segundo o Poder360 e o Congresso em Foco), registram
+  Miranda escrevendo que conhece a hoje governadora Celina Leão "muito bem" e que ela "está querendo aparecer
+  porque ficou de fora da negociação", e Vorcaro respondendo "Não ficou de fora, não. Isso aí é jogo para se
+  preservar na política" e que "o problema é a descredibilização minha e do Master. Isso sim, temos que
+  atacar"; não há conversa direta entre Vorcaro e Celina Leão nem descrição de em que consistiria a
+  participação dela.
+attributed_to: Folha de S.Paulo (segundo o Poder360) e Congresso em Foco
+document_ids: []
+source_ids:
+- src-poder360-2026-09-16-vorcaro-ordenou-atacar-celina-leao-por-operacao-do-master-com-brb
+- src-congressoemfoco-2026-09-17-vorcaro-discutiu-atacar-celina-por-criticas-a-operacao-master-brb
+date: '2026-09-15'
+notes: >-
+  A reportagem original da Folha (origem) não foi aberta; as fontes registradas são o Poder360, que atribui a
+  revelação à Folha e diz ter confirmado as mensagens, e o Congresso em Foco, que não cita a Folha. Não se usa a manchete do Poder360 ("ordenou atacar"): a frase de Vorcaro refere-se à
+  "descredibilização minha e do Master". Sem conversa direta entre Vorcaro e Celina Leão.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

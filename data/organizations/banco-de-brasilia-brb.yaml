@@ -18,7 +18,14 @@ summary: 'Banco controlado pelo Governo do Distrito Federal. Segundo decisão do
   no Master, com pico de R$ 19,8 bilhões em junho de 2025, e que R$ 7,6 bilhões foram pagos em 22 operações antes
   da conclusão dos ritos técnicos obrigatórios — caracterizando a gestão da própria diretoria do BRB à época como
   ''gestão fraudulenta''. Documento anterior da PF, de abril de 2026, já havia apontado ágio de R$ 2,4 bilhões (32%)
-  entre o valor contábil e o valor pago pelas carteiras adquiridas entre julho de 2024 e janeiro de 2025.'
+  entre o valor contábil e o valor pago pelas carteiras adquiridas entre julho de 2024 e janeiro de 2025.
+  Em 23/09/2026, em sessão reservada, o Tribunal de Contas do Distrito Federal decidiu, em caráter cautelar
+  (Decisão RES nº 361/2026, processo 00600-00003617/2025-75-e), determinar a indisponibilidade de bens, por
+  um ano, de ex-integrantes da alta administração do BRB, e deu 24 horas ao banco para enviar o relatório da
+  auditoria independente, 30 dias ao atual diretor-presidente para justificar o descumprimento de determinação
+  anterior e 15 dias ao banco para esclarecer a representação do MPC/DF; a medida é cautelar, não julga o
+  mérito, e o inteiro teor é sigiloso (ver o evento do dia). Segundo a imprensa, o BRB classificou a decisão
+  como positiva em nota.'
 why_in_novelo: Adquiriu carteiras de crédito do Banco Master que são objeto central da Operação Compliance Zero,
   segundo comunicações oficiais da PF e do STF.
 cited_position:
@@ -30,7 +37,18 @@ cited_position:
   - src-stf-inq5026-ipl1096304-completo
   by_id: paulo-henrique-costa
   date: '2025-06-18'
+- kind: public_note
+  summary: Em nota sobre a cautelar do TCDF de 23/09/2026, segundo o Poder360 e o Congresso em Foco,
+    classificou a decisão como positiva e disse que a atual gestão atua "de forma diligente" na
+    recuperação de ativos.
+  source_ids:
+  - src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+  - src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+  by_id: banco-de-brasilia-brb
+  date: '2026-09-23'
 open_questions:
+- O TCDF deu 24 horas (23/09/2026) para o BRB enviar o relatório da auditoria independente e 15 dias para
+  esclarecer a representação do MPC/DF; o cumprimento dessas determinações não foi localizado.
 - 'RESOLVIDO EM PARTE (19/09/2026): em assembleia geral extraordinária de 24/08/2026, os acionistas do
   BRB aprovaram autorização processual (art. 159 da Lei 6.404/1976) para acionar judicialmente ex-gestores
   pelas perdas nas operações com o Master — só Paulo Henrique Costa é nominalmente citado; outros
@@ -47,8 +65,10 @@ open_questions:
   (PL). Busca em 19/09/2026 não confirma instalação efetiva até esta data (ver camara-legislativa-do-
   distrito-federal). A sugestão de Izalci Lucas no Senado não teve desdobramento localizado.'
 - 'NOVO (19/09/2026): o TCDF, órgão de controle externo do BRB — sem nenhuma ocorrência no acervo até
-  esta coleta —, mantém duas frentes abertas: o processo nº 00600-00003617/2025-75 (denúncia do MPC-DF,
-  19/11/2025, sobre possível contorno de restrição do BC na compra das carteiras) e a Decisão nº
+  esta coleta —, mantém duas frentes abertas: o processo nº 00600-00003617/2025-75 (autuado em 01/04/2025
+  segundo o e-TCDF; nele o tribunal comunicou em 19/11/2025 nova denúncia do MPC-DF sobre possível contorno
+  de restrição do BC na compra das carteiras, e em 23/09/2026 decretou a cautelar de indisponibilidade de
+  bens de ex-dirigentes) e a Decisão nº
   1.687/2026 (20/08/2026), que suspendeu a apreciação das contas de 2025 do governo do DF até o BRB
   entregar balanço financeiro auditado — o banco não divulga balanço desde novembro de 2025 (ver
   tribunal-de-contas-do-distrito-federal).'
@@ -68,11 +88,15 @@ source_ids:
 - src-metropoles-2026-03-06-cpi-master-cldf-manzoni
 - src-tcdf-2025-11-19-denuncia-mpc-df-brb-master
 - src-brasildefato-2026-08-20-tcdf-trava-contas-df-sem-balanco-brb
+- src-tcdf-2026-09-23-tcdf-determina-bloqueio-de-bens-de-ex-dirigentes-do-brb
+- src-tcdf-2026-10-15-etcdf-processo-00600-00003617-2025-75
+- src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+- src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-19'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-19'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/banco-de-brasilia-brb.png
   source: Wikimedia Commons

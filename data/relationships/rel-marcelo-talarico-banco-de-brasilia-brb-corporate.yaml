@@ -1,0 +1,29 @@
+id: rel-marcelo-talarico-banco-de-brasilia-brb-corporate
+kind: relationship
+from_id: marcelo-talarico
+to_id: banco-de-brasilia-brb
+relationship_type: corporate
+directed: false
+label: presidente do Conselho de Administração (eleito em 30/01/2023)
+description: >-
+  Marcelo Talarico foi eleito, por unanimidade, presidente do Conselho de Administração do BRB na 802ª Reunião
+  Ordinária do Consad, de 30/01/2023, conforme extrato da ata publicado pela área de Relações com Investidores
+  do banco. Segundo o fato relevante do BRB de 28/01/2026 noticiado pelo Money Times (classe A), renunciou ao
+  conselho com efeito imediato.
+evidence_class: D
+confidence: 0.9
+status: verified
+start_date: '2023-01-30'
+event_ids: []
+evidence_ids:
+- ev-marcelo-talarico-eleito-presidente-do-consad-do-brb-em-2023
+source_ids:
+- src-brb-2023-01-31-extrato-ata-802-consad-eleicao-do-presidente
+- src-moneytimes-2026-01-29-banco-de-brasilia-brb-marcelo-talarico-e-luis-resende-deixam-conselho
+document_ids:
+- doc-2023-01-30-brb-extrato-ata-802-consad-eleicao-do-presidente
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

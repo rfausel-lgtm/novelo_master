@@ -1,0 +1,38 @@
+id: rel-tribunal-de-contas-do-distrito-federal-wily-da-silva-leao-institutional
+kind: relationship
+from_id: tribunal-de-contas-do-distrito-federal
+to_id: wily-da-silva-leao
+relationship_type: institutional
+directed: true
+label: indisponibilidade cautelar de bens (RES 361/2026), segundo a imprensa
+description: >-
+  Segundo o Metrópoles, o SBT News e o Congresso em Foco, Wily da Silva Leão está entre os cinco ex-dirigentes
+  do BRB alcançados pela cautelar de indisponibilidade de bens decretada pelo TCDF em 23/09/2026. A nota oficial
+  do tribunal não nomeia os atingidos. A medida é cautelar e não é decisão de mérito.
+evidence_class: A
+confidence: 0.6
+status: unverified
+start_date: '2026-09-23'
+event_ids:
+- evt-2026-09-23-tcdf-decreta-indisponibilidade-cautelar-de-bens-de-ex-dirigentes-do-brb
+evidence_ids:
+- ev-tcdf-nomes-dos-cinco-atingidos-pela-cautelar
+source_ids:
+- src-metropoles-2026-09-23-caso-master-tcdf-bloqueia-r-27-bilhoes-de-ex-presidente-do-brb-e-mais-4
+- src-sbtnews-2026-09-23-tcdf-bloqueia-r-2-7-bi-de-ex-presidente-do-brb-e-mais-4
+- src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+document_ids: []
+cited_position:
+- by_id: wily-da-silva-leao
+  kind: not_located
+  date: '2026-10-15'
+  summary: >-
+    O Poder360 não localizou contato válido (23/09/2026); busca do Novelo em 15/10/2026 por nota de defesa ou
+    manifestação nos autos não localizou posição.
+  source_ids:
+  - src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

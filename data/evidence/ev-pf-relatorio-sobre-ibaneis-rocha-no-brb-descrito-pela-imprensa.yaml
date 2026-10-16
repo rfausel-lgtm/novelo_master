@@ -1,0 +1,32 @@
+id: ev-pf-relatorio-sobre-ibaneis-rocha-no-brb-descrito-pela-imprensa
+kind: evidence
+classification: A
+proposition: >-
+  Segundo o Metrópoles (09/10/2026), a CNN Brasil (10/10/2026), o g1 (conforme reproduzido pelo Brasil 247) e
+  a Jovem Pan (10/10/2026), relatório da Polícia Federal enviado ao STF em 28/09/2026, com sigilo levantado em 09/10,
+  afirma que Ibaneis Rocha, na qualidade de acionista controlador do BRB, "não se limitou ao exercício regular
+  de suas prerrogativas institucionais" e que "decisões estratégicas relevantes eram submetidas previamente à
+  sua apreciação" antes dos órgãos de governança; o g1 (via Brasil 247) reproduz a frase "Tal atuação é
+  indicativa de captura institucional"; segundo o Metrópoles e a Jovem Pan, o relatório descreve reunião em
+  Zurique em 23/01/2025 entre Ibaneis, Vorcaro, Paulo Henrique Costa e uma pessoa tratada como "Léo" ou
+  "Leonardo" (não identificada nas fontes) e a autorização do aumento de capital do BRB de R$ 750 milhões.
+attributed_to: Relatório da Polícia Federal, segundo Metrópoles, CNN Brasil, g1 (via Brasil 247) e Jovem Pan
+document_ids: []
+source_ids:
+- src-metropoles-2026-10-09-master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb
+- src-cnnbrasil-2026-10-10-pf-ibaneis-agiu-de-forma-direta-para-viabilizar-compra-do-master-pelo-brb
+- src-brasil247-2026-10-09-pf-aponta-atuacao-direta-de-ibaneis-na-tentativa-de-compra-do-master-pelo-brb
+- src-jovempan-2026-10-10-ibaneis-participou-de-decisoes-do-brb-e-se-reuniu-com-vorcaro-na-suica-diz-pf
+date: '2026-10-09'
+notes: >-
+  Mantida em A mesmo com dois veículos de apuração própria: a descrição é do mesmo documento sigiloso e o
+  número da PET, o ministro que levantou o sigilo e a data do relatório não constam das fontes lidas. Não se
+  usa a expressão "interferência direta" da manchete do Metrópoles (o corpo da matéria atribui ao relatório a
+  formulação "interferência política direta na condução da instituição financeira pública"; por cautela, ela
+  não é usada como proposição), nem
+  "R$ 294 mi" (fonte única, Brasil de Fato), nem a data "25/10/2024" (nenhuma fonte dá o dia).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

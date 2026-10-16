@@ -1,0 +1,129 @@
+id: rev-2026-10-16-lote-348-tcdf-cautelar-brb-relatorio-pf-ibaneis-e-celina
+kind: revision
+date: '2026-10-16'
+title: 'Lote 348 — O TCDF decreta a indisponibilidade cautelar de bens de cinco ex-dirigentes do BRB (e o acervo corrige a data do processo); a PF descreve ao STF a atuação de Ibaneis Rocha no banco; e as mensagens de Vorcaro sobre Celina Leão'
+summary: >-
+  Primeiro lote da varredura de 19/09 a 15/10/2026. O ponto de maior lastro é a Decisão RES nº 361/2026 do
+  Tribunal de Contas do Distrito Federal (23/09/2026): em sessão reservada, em caráter cautelar, o tribunal
+  determinou a indisponibilidade de bens, por um ano, de ex-integrantes da alta administração do BRB, com 30
+  dias para manifestação, instrução prioritária do processo 00600-00003617/2025-75-e para avaliar a extensão a
+  outros agentes, conversão em Tomada de Contas Especial, 24 horas para o banco enviar o relatório da
+  auditoria independente, 30 dias para o atual diretor-presidente justificar o descumprimento de determinação
+  anterior e 15 dias para o banco esclarecer a representação do MPC/DF. Isso é classe D, mas só quanto ao
+  conteúdo da nota institucional do TCDF e da ficha pública do e-TCDF (consultada em 15/10/2026); o inteiro
+  teor é sigiloso e não foi lido, e a publicação no DODF de 05/10/2026 (págs. 53-54) não foi aberta. Os nomes
+  dos cinco atingidos (Paulo Henrique Costa, Dario Oswaldo Garcia Júnior, Robério Cesar Bonfim Mangueira, Wily
+  da Silva Leão e Marcelo Talarico) são alegação atribuída ao Metrópoles, ao SBT News e ao Congresso em Foco,
+  que não citam fonte e repetem a mesma lista; o valor exato de R$ 2.761.749.206,55 e a unanimidade são da
+  Agência Brasil, único veículo a informá-los (os demais falam em "até R$ 2,7 bilhões"); a nota do tribunal não
+  nomeia ninguém nem informa valor. A medida é cautelar, não é julgamento de mérito, e nenhuma defesa dos
+  atingidos foi localizada; o BRB, em nota, classificou a decisão como positiva. Entram dois verbetes novos
+  (Wily da Silva Leão, com o cargo descrito de formas diferentes pela imprensa, e Marcelo Talarico, eleito
+  presidente do Conselho de Administração do BRB em 30/01/2023 conforme extrato de ata do banco; a renúncia de
+  janeiro de 2026 é conhecida só pelo fato relevante noticiado pelo Money Times). Correção ao acervo: o
+  processo do TCDF foi autuado em 01/04/2025 segundo o e-TCDF, e não "aberto em 19/11/2025", data do comunicado
+  sobre uma nova denúncia do MPC-DF dentro dele; a relatora é a Conselheira Anilcéia Luzia Machado. Segunda
+  frente, tudo em classe A: segundo o Metrópoles (09/10), a CNN Brasil (10/10), o g1 (via Brasil 247) e a
+  Jovem Pan (10/10), relatório da Polícia Federal enviado ao STF em 28/09/2026, com sigilo levantado em 09/10, afirma que
+  Ibaneis Rocha, como acionista controlador do BRB, "não se limitou ao exercício regular de suas prerrogativas
+  institucionais" e que decisões estratégicas eram submetidas previamente à sua apreciação, e descreve reunião
+  em Zurique em 23/01/2025 e a autorização do aumento de capital de R$ 750 milhões; o número da PET, o
+  ministro e a data do documento não foram localizados, e o Novelo não viu o relatório. A defesa de Ibaneis
+  (Antônio Carlos de Almeida Castro) nega ingerência e diz que Costa detinha total autonomia; a defesa de Costa,
+  só em O Tempo, diz que ele foi presidente do BRB, "não seu dono". Terceira frente: mensagens de 05/04/2025
+  entre Vorcaro e o publicitário Thiago Miranda sobre Celina Leão, publicadas pela Folha de S.Paulo em
+  15/09/2026 (reportagem original não aberta; registradas pelo Poder360, que diz tê-las confirmado, e pelo
+  Congresso em Foco), sem conversa
+  direta com ela; Celina Leão, em três manifestações de 15, 16 e 18/09, e a defesa de Miranda negam que ela
+  tenha participado das negociações, e a defesa de Vorcaro não respondeu. Também ficam registradas a petição
+  da defesa de Vorcaro de 08/10 e a distinção entre a prisão de 17/11/2025 e a preventiva de 04/03/2026. O que
+  NÃO foi confirmado: a ocorrência da oitiva de Vorcaro (prevista para 15/10) e da de Augusto Lima (16/10),
+  ambas só noticiadas antes do ato; a identidade de "Léo"; o número da PET do relatório da PF; e o conteúdo do
+  voto da relatora e do parecer do MPC, que o Novelo não reproduz por serem sigilosos, descritos por um só
+  veículo e sem defesa localizada.
+added:
+  people: 2
+  organizations: 0
+  events: 3
+  documents: 3
+  relationships: 8
+  sources: 24
+  evidence: 11
+updated_relationships: 1
+corrections:
+- 'tribunal-de-contas-do-distrito-federal, doc-2025-11-19-tcdf-denuncia-mpc-df-brb-master, src-tcdf-2025-11-19-denuncia-mpc-df-brb-master e rel-tribunal-de-contas-do-distrito-federal-banco-de-brasilia-brb-institutional-denuncia: o processo 00600-00003617/2025-75 não foi "aberto em 19/11/2025"; o e-TCDF registra autuação em 01/04/2025 (interessado "TCDF", decisões reservadas desde 10/04/2025) e o comunicado de 19/11/2025 trata de nova denúncia do MPC-DF dentro do processo preexistente. O lote 342 repete o erro no seu summary; a revisão antiga não é reescrita e a correção fica registrada aqui.'
+- 'tribunal-de-contas-do-distrito-federal: relatora identificada como a Conselheira Anilcéia Luzia Machado, segundo o e-TCDF; a pendência "relator não identificado" foi retirada.'
+- 'ibaneis-rocha: a manifestação da defesa de 16/04/2026 (CNN Brasil) não constava do verbete e foi acrescentada.'
+- 'banco-de-brasilia-brb: a pendência de 19/09/2026 sobre as frentes do TCDF datava o processo 00600-00003617/2025-75 pelo comunicado de 19/11/2025; passa a registrar a autuação em 01/04/2025 (e-TCDF), a nova denúncia de 19/11/2025 e a cautelar de 23/09/2026.'
+- 'thiago-miranda: o resumo trazia dígitos do CPF dele, dado que a seção 6 da política editorial veda; o dado saiu (fica registrado apenas que a identidade foi confirmada em registro da Receita Federal) e não é reproduzido aqui. O campo why_in_novelo, que usava "esquema" em texto próprio e adjetivo de juízo, foi reescrito com atribuição à decisão da PET 16.346, sem acrescentar fato.'
+- 'roberio-bonfim-mangueira: o campo why_in_novelo dizia que a documentação era "hoje tida por fraudulenta", sem atribuição; passa a dizer "hoje questionada", como no verbete de Dario Oswaldo Garcia Júnior.'
+author: orquestrador
+affected_ids:
+- tribunal-de-contas-do-distrito-federal
+- banco-de-brasilia-brb
+- paulo-henrique-costa
+- dario-oswaldo-garcia-junior
+- roberio-bonfim-mangueira
+- wily-da-silva-leao
+- marcelo-talarico
+- ibaneis-rocha
+- celina-leao
+- thiago-miranda
+- daniel-vorcaro
+- augusto-lima
+- evt-2026-09-23-tcdf-decreta-indisponibilidade-cautelar-de-bens-de-ex-dirigentes-do-brb
+- evt-2026-10-09-relatorio-da-pf-sobre-a-atuacao-de-ibaneis-rocha-no-brb-vem-a-publico
+- evt-2026-09-15-mensagens-de-vorcaro-e-thiago-miranda-sobre-celina-leao-vem-a-publico
+- doc-2026-09-23-tcdf-nota-oficial-cautelar-de-indisponibilidade-de-bens-de-ex-dirigentes-do-brb
+- doc-2026-09-23-tcdf-decisao-res-361-2026-registro-no-etcdf
+- doc-2023-01-30-brb-extrato-ata-802-consad-eleicao-do-presidente
+- doc-2025-11-19-tcdf-denuncia-mpc-df-brb-master
+- rel-tribunal-de-contas-do-distrito-federal-paulo-henrique-costa-institutional
+- rel-tribunal-de-contas-do-distrito-federal-dario-oswaldo-garcia-junior-institutional
+- rel-tribunal-de-contas-do-distrito-federal-roberio-bonfim-mangueira-institutional
+- rel-tribunal-de-contas-do-distrito-federal-wily-da-silva-leao-institutional
+- rel-tribunal-de-contas-do-distrito-federal-marcelo-talarico-institutional
+- rel-marcelo-talarico-banco-de-brasilia-brb-corporate
+- rel-wily-da-silva-leao-banco-de-brasilia-brb-professional
+- rel-ibaneis-rocha-banco-de-brasilia-brb-allegation
+- rel-tribunal-de-contas-do-distrito-federal-banco-de-brasilia-brb-institutional-denuncia
+- ev-tcdf-res-361-2026-cautelar-de-indisponibilidade-de-bens-de-ex-dirigentes-do-brb
+- ev-tcdf-processo-00600-00003617-2025-75-autuado-em-2025-04-01
+- ev-tcdf-nomes-dos-cinco-atingidos-pela-cautelar
+- ev-tcdf-valor-exato-e-unanimidade-segundo-a-agencia-brasil
+- ev-brb-nota-sobre-a-cautelar-do-tcdf
+- ev-marcelo-talarico-eleito-presidente-do-consad-do-brb-em-2023
+- ev-wily-da-silva-leao-cargo-no-brb-segundo-a-imprensa
+- ev-pf-relatorio-sobre-ibaneis-rocha-no-brb-descrito-pela-imprensa
+- ev-defesa-de-ibaneis-rocha-nega-ingerencia-no-brb-nota-de-09-10-2026
+- ev-mensagens-de-05-04-2025-entre-vorcaro-e-thiago-miranda-sobre-celina-leao
+- ev-celina-leao-nega-ter-participado-das-negociacoes-do-brb-com-o-master
+- src-tcdf-2026-09-23-tcdf-determina-bloqueio-de-bens-de-ex-dirigentes-do-brb
+- src-tcdf-2026-10-15-etcdf-processo-00600-00003617-2025-75
+- src-agenciabrasil-2026-09-24-caso-master-tcdf-bloqueia-ate-r-27-bi-de-ex-dirigentes-do-brb
+- src-metropoles-2026-09-23-caso-master-tcdf-bloqueia-r-27-bilhoes-de-ex-presidente-do-brb-e-mais-4
+- src-sbtnews-2026-09-23-tcdf-bloqueia-r-2-7-bi-de-ex-presidente-do-brb-e-mais-4
+- src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+- src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+- src-brb-2023-01-31-extrato-ata-802-consad-eleicao-do-presidente
+- src-moneytimes-2026-01-29-banco-de-brasilia-brb-marcelo-talarico-e-luis-resende-deixam-conselho
+- src-metropoles-2026-10-09-master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb
+- src-cnnbrasil-2026-10-10-pf-ibaneis-agiu-de-forma-direta-para-viabilizar-compra-do-master-pelo-brb
+- src-brasil247-2026-10-09-pf-aponta-atuacao-direta-de-ibaneis-na-tentativa-de-compra-do-master-pelo-brb
+- src-jovempan-2026-10-10-ibaneis-participou-de-decisoes-do-brb-e-se-reuniu-com-vorcaro-na-suica-diz-pf
+- src-otempo-2026-10-15-vorcaro-depoe-sobre-negocios-do-master-com-brb-que-envolvem-ibaneis-rocha-e-paulo-henrique-costa
+- src-cnnbrasil-2026-04-16-advogados-usam-dialogos-para-defender-ibaneis-de-ingerencia-sobre-brb
+- src-poder360-2026-09-16-vorcaro-ordenou-atacar-celina-leao-por-operacao-do-master-com-brb
+- src-poder360-2026-09-16-celina-rebate-vorcaro-e-diz-que-era-contraria-a-compra-do-master
+- src-sbtnews-2026-09-16-celina-contesta-vorcaro-e-nega-participacao-em-negociacao
+- src-congressoemfoco-2026-09-17-vorcaro-discutiu-atacar-celina-por-criticas-a-operacao-master-brb
+- src-estadaoconteudo-2026-09-18-df-vorcaro-nao-tinha-meu-celular-e-eu-nao-tenho-o-dele-nao-trocamos-mensagens-diz-celina
+- src-cnnbrasil-2026-10-15-caso-master-vorcaro-presta-hoje-novo-depoimento-a-pf-sobre-o-brb
+- src-oantagonista-2026-10-15-vorcaro-depoe-a-pf-sobre-compra-do-master-pelo-brb
+- src-agenciabrasil-2026-10-08-defesa-quer-que-mendonca-analise-soltura-de-daniel-vorcaro
+- src-metropoles-2026-10-15-pf-marca-depoimento-de-augusto-lima-ex-socio-de-vorcaro-para-sexta
+- src-tcdf-2025-11-19-denuncia-mpc-df-brb-master
+reason: Varredura de 19/09 a 15/10/2026 (linha A, BRB), liberada pelo investigador-chefe; primeiro dos lotes 348 a 351, que corrige também um registro já publicado (data de autuação do processo do TCDF).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'

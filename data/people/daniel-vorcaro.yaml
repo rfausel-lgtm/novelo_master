@@ -97,7 +97,45 @@ cited_position:
   - src-stf-pet15556-edoc86-agravo-regimental-vorcaro-09-03-2026
   by_id: daniel-vorcaro
   date: '2026-03-09'
+- kind: no_response
+  summary: A defesa não respondeu ao Poder360 sobre as mensagens de 05/04/2025 entre ele e Thiago Miranda
+    que mencionam Celina Leão, até a publicação de 16/09/2026.
+  source_ids:
+  - src-poder360-2026-09-16-vorcaro-ordenou-atacar-celina-leao-por-operacao-do-master-com-brb
+  by_id: daniel-vorcaro
+  date: '2026-09-16'
+- kind: version
+  summary: Em petição de 08/10/2026, a defesa pediu a Edson Fachin que julgue o pedido de soltura ou autorize
+    André Mendonça a fazê-lo, afirmando que ele "está preso há mais de oito meses, sem ter sido indiciado,
+    sem ação penal", segundo a Agência Brasil.
+  source_ids:
+  - src-agenciabrasil-2026-10-08-defesa-quer-que-mendonca-analise-soltura-de-daniel-vorcaro
+  by_id: daniel-vorcaro
+  date: '2026-10-08'
+- kind: version
+  summary: 'Em carta divulgada por seu advogado em 13/10/2026, escreveu: "Reitero que quero falar de forma
+    objetiva e transparente sobre todos os assuntos investigados e todas as minhas relações", segundo a CNN
+    Brasil.'
+  source_ids:
+  - src-cnnbrasil-2026-10-15-caso-master-vorcaro-presta-hoje-novo-depoimento-a-pf-sobre-o-brb
+  by_id: daniel-vorcaro
+  date: '2026-10-13'
+- kind: version
+  summary: Em 15/10/2026, segundo O Antagonista, a defesa disse que ele "responderá a tudo que for
+    perguntado" na oitiva sobre o BRB e defenderá a legalidade da operação.
+  source_ids:
+  - src-oantagonista-2026-10-15-vorcaro-depoe-a-pf-sobre-compra-do-master-pelo-brb
+  by_id: daniel-vorcaro
+  date: '2026-10-15'
 open_questions:
+- Oitiva sobre o BRB prevista para 15/10/2026, às 14h, com formato divergente entre as fontes
+  (videoconferência segundo a CNN Brasil e outros veículos; presencial segundo o Metrópoles e O Antagonista);
+  todas as fontes localizadas são anteriores ao ato, e o Novelo não a registra como ocorrida.
+- 'Prisões: a de 17/11/2025 (1ª fase) foi revogada dias depois pelo TRF-1; a preventiva atual foi decretada
+  pelo STF em 04/03/2026 (PET 15556) e mantida pela 2ª Turma em 20/03/2026. O "mais de oito meses" da petição
+  de 08/10/2026 conta desta última; a Agência Brasil, ao dizer "preso em março", refere-se à preventiva atual,
+  sem contradição com a prisão de novembro de 2025. O "preso desde 25 de junho" de O Tempo corresponde à
+  transferência para a Papudinha.'
 - 'NOVO (13/09/2026): a PF marcou depoimento dele para 15/09/2026 sobre fraudes no BRB — o mesmo dia da
   sessão do STF que julga se Moraes deve ser investigado. Já adiado uma vez (fim de agosto); reportagem
   antecipa novo pedido de adiamento pela defesa.'
@@ -206,13 +244,17 @@ source_ids:
 - src-stf-pet15198-peca020-pf-projeto-dv-fundamenta-nova-busca
 - src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
 - src-stf-inq5026-decisao-26-02-2026-cae-estende-convocacao-vorcaro
+- src-poder360-2026-09-16-vorcaro-ordenou-atacar-celina-leao-por-operacao-do-master-com-brb
+- src-agenciabrasil-2026-10-08-defesa-quer-que-mendonca-analise-soltura-de-daniel-vorcaro
+- src-cnnbrasil-2026-10-15-caso-master-vorcaro-presta-hoje-novo-depoimento-a-pf-sobre-o-brb
+- src-oantagonista-2026-10-15-vorcaro-depoe-a-pf-sobre-compra-do-master-pelo-brb
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Daniel_Vorcaro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-11'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/daniel-vorcaro.jpg
   source: Wikimedia Commons

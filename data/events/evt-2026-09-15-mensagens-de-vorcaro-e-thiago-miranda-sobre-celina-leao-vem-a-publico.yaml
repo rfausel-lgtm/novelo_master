@@ -1,0 +1,65 @@
+id: evt-2026-09-15-mensagens-de-vorcaro-e-thiago-miranda-sobre-celina-leao-vem-a-publico
+kind: event
+title: Folha publica mensagens de 05/04/2025 em que Vorcaro e Thiago Miranda comentam a posição de Celina Leão sobre a compra do Master pelo BRB
+event_type: publication
+date: '2026-09-15'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- thiago-miranda
+- celina-leao
+description: >-
+  Segundo a Folha de S.Paulo (15/09/2026), conforme o Poder360 (16/09/2026), que diz ter confirmado as
+  mensagens, e segundo o Congresso em Foco (17/09/2026), mensagens de 05/04/2025 entre Daniel Vorcaro e o
+  publicitário Thiago Miranda, de material da Operação Compliance Zero tornado público após o levantamento de
+  sigilo por André Mendonça (segundo o Poder360 e o Congresso em Foco), registram
+  Miranda escrevendo que conhece a hoje governadora Celina Leão "muito bem" e que ela "está querendo aparecer
+  porque ficou de fora da negociação", e Vorcaro respondendo "Não ficou de fora, não. Isso aí é jogo para se
+  preservar na política" e que "o problema é a descredibilização minha e do Master. Isso sim, temos que
+  atacar"; não há conversa direta entre Vorcaro e Celina Leão nem descrição de em que consistiria a
+  participação dela. Celina Leão e a defesa de Miranda contestam a leitura de que ela tenha participado das
+  negociações; a defesa de Vorcaro não respondeu. O Novelo não abriu a reportagem original da Folha.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-mensagens-de-05-04-2025-entre-vorcaro-e-thiago-miranda-sobre-celina-leao
+- ev-celina-leao-nega-ter-participado-das-negociacoes-do-brb-com-o-master
+source_ids:
+- src-poder360-2026-09-16-vorcaro-ordenou-atacar-celina-leao-por-operacao-do-master-com-brb
+- src-poder360-2026-09-16-celina-rebate-vorcaro-e-diz-que-era-contraria-a-compra-do-master
+- src-sbtnews-2026-09-16-celina-contesta-vorcaro-e-nega-participacao-em-negociacao
+- src-congressoemfoco-2026-09-17-vorcaro-discutiu-atacar-celina-por-criticas-a-operacao-master-brb
+- src-estadaoconteudo-2026-09-18-df-vorcaro-nao-tinha-meu-celular-e-eu-nao-tenho-o-dele-nao-trocamos-mensagens-diz-celina
+document_ids: []
+cited_position:
+- by_id: celina-leao
+  kind: denial
+  date: '2026-09-16'
+  summary: >-
+    Em três manifestações públicas (vídeo de 15/09/2026, sabatina ao SBT de 16/09 e sabatina de O Globo/CBN de
+    18/09), disse que era contrária à operação seis meses antes de qualquer tipo de operação, que não tem o
+    contato de Vorcaro, que não há diálogo em que ele diga que ela participou, que as mensagens foram tiradas
+    de contexto e que só o viu em festas públicas.
+  source_ids:
+  - src-poder360-2026-09-16-celina-rebate-vorcaro-e-diz-que-era-contraria-a-compra-do-master
+  - src-sbtnews-2026-09-16-celina-contesta-vorcaro-e-nega-participacao-em-negociacao
+  - src-estadaoconteudo-2026-09-18-df-vorcaro-nao-tinha-meu-celular-e-eu-nao-tenho-o-dele-nao-trocamos-mensagens-diz-celina
+- by_id: thiago-miranda
+  kind: clarification
+  date: '2026-09-16'
+  summary: >-
+    A defesa, por Rafael Martins, afirmou que a governadora não participou das negociações e que as mensagens
+    são recortes de diálogos privados que, isolados, geram interpretações equivocadas.
+  source_ids:
+  - src-poder360-2026-09-16-vorcaro-ordenou-atacar-celina-leao-por-operacao-do-master-com-brb
+- by_id: daniel-vorcaro
+  kind: no_response
+  date: '2026-09-16'
+  summary: A defesa não respondeu ao Poder360 sobre as mensagens até a publicação.
+  source_ids:
+  - src-poder360-2026-09-16-vorcaro-ordenou-atacar-celina-leao-por-operacao-do-master-com-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

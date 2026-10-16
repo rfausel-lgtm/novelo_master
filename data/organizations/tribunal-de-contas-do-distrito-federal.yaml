@@ -7,11 +7,15 @@ org_type: public_body
 jurisdiction: Distrito Federal
 summary: 'Órgão de controle externo responsável pela fiscalização contábil, financeira e orçamentária do
   Distrito Federal e de suas entidades, entre elas o BRB. Mantém, em relação ao caso Master, duas frentes
-  distintas: (1) o processo nº 00600-00003617/2025-75, aberto em 19/11/2025 por denúncia do Ministério
-  Público de Contas do DF (MPC-DF), com representação também protocolada por parlamentar da CLDF,
-  apontando que as operações de compra de carteiras de crédito entre BRB e Banco Master "poderiam ter
-  sido realizadas com o objetivo de contornar a restrição imposta pelo Banco Central" e apontando
-  possíveis falhas de governança e riscos ao erário distrital; (2) por Decisão nº 1.687/2026 do
+  distintas: (1) o processo nº 00600-00003617/2025-75-e, autuado em 01/04/2025 segundo o e-TCDF (tipo
+  ordinário, sigiloso; interessado "TCDF"; assunto "Análise de Contratos, Convênios e Outros Ajustes"),
+  no qual o Ministério Público de Contas do DF (MPC-DF) apresentou a denúncia noticiada pelo tribunal em
+  19/11/2025, com representação também protocolada por parlamentar da CLDF, apontando que as operações de
+  compra de carteiras de crédito entre BRB e Banco Master "poderiam ter sido realizadas com o objetivo de
+  contornar a restrição imposta pelo Banco Central" e apontando possíveis falhas de governança e riscos ao
+  erário distrital, e no qual, em 23/09/2026, a Decisão RES nº 361/2026 decretou, em caráter cautelar, a
+  indisponibilidade de bens de ex-dirigentes do BRB (ver o evento do dia); relatora: Conselheira Anilcéia
+  Luzia Machado, segundo o e-TCDF; (2) por Decisão nº 1.687/2026 do
   conselheiro-relator Paulo Tadeu, suspendeu, em 20/08/2026, o prazo regimental de 60 dias para apreciar
   as contas de 2025 do governo do Distrito Federal até que o BRB entregue balanço financeiro auditado
   completo — o banco não divulga balanço desde novembro de 2025 — e deu 30 dias à Casa Civil do DF e ao
@@ -24,8 +28,18 @@ cited_position:
 - kind: not_located
   summary: Não se aplica manifestação pública própria — é o órgão fiscalizador, não parte interessada.
 open_questions:
-- Relator do processo nº 00600-00003617/2025-75 (a denúncia do MPC-DF) não identificado nas fontes
-  lidas.
+- O inteiro teor da Decisão RES nº 361/2026 é sigiloso ("Não disponível para download" no e-TCDF); a
+  publicação no DODF de 05/10/2026, págs. 53-54, indicada pela ficha do processo, não foi aberta, e por
+  isso não se sabe se o extrato nomeia os atingidos ou informa valor.
+- Os prazos de 30 dias abertos em 23/09/2026 (manifestação dos atingidos; justificativa do atual
+  diretor-presidente do BRB) estavam em curso em 15/10/2026; nada foi localizado sobre defesas ou
+  justificativas.
+- A ficha do e-TCDF lista sete decisões reservadas no processo (RES 82/2025, de 10/04/2025, a RES 361/2026),
+  entre elas a RES 124/2025, de 29/05/2025, rotulada "Decisão de Mérito"; o conteúdo dessas decisões é
+  desconhecido do Novelo.
+- O Metrópoles liga a cautelar à representação do deputado distrital Gabriel Magno (processo
+  00600-00002492/2025-66-e, citado no DODF de 26/05/2025), mas a ficha do e-TCDF do processo 3617/2025 não
+  lista esse processo entre os correlacionados.
 - Desfecho do prazo de 30 dias dado à Casa Civil do DF e ao BRB (a partir de 20/08/2026) para esclarecer
   o atraso do balanço não apurado até esta coleta.
 - Se CVM ou Banco Central abriram procedimento próprio por conta do atraso na divulgação do balanço do
@@ -33,8 +47,10 @@ open_questions:
 source_ids:
 - src-tcdf-2025-11-19-denuncia-mpc-df-brb-master
 - src-brasildefato-2026-08-20-tcdf-trava-contas-df-sem-balanco-brb
+- src-tcdf-2026-09-23-tcdf-determina-bloqueio-de-bens-de-ex-dirigentes-do-brb
+- src-tcdf-2026-10-15-etcdf-processo-00600-00003617-2025-75
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-19'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-19'
-updated_at: '2026-09-19'
+updated_at: '2026-10-16'

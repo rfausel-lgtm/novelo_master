@@ -1,0 +1,25 @@
+id: ev-celina-leao-nega-ter-participado-das-negociacoes-do-brb-com-o-master
+kind: evidence
+classification: A
+proposition: >-
+  Em três manifestações públicas, Celina Leão negou ter participado das negociações do BRB com o Master: em
+  vídeo de 15/09/2026, "Seis meses antes de qualquer tipo de operação, eu já era contrária" (Poder360); em
+  sabatina ao SBT de 16/09/2026, "Eu não tenho o contato do Daniel Vorcaro" (SBT News); em sabatina de O
+  Globo/CBN de 18/09/2026, "Não tem um diálogo onde ele fala que eu participei, que dia que eu participei",
+  disse que as mensagens foram "tiradas de contexto" e que só viu Vorcaro em festas públicas (Estadão
+  Conteúdo).
+attributed_to_id: celina-leao
+document_ids: []
+source_ids:
+- src-poder360-2026-09-16-celina-rebate-vorcaro-e-diz-que-era-contraria-a-compra-do-master
+- src-sbtnews-2026-09-16-celina-contesta-vorcaro-e-nega-participacao-em-negociacao
+- src-estadaoconteudo-2026-09-18-df-vorcaro-nao-tinha-meu-celular-e-eu-nao-tenho-o-dele-nao-trocamos-mensagens-diz-celina
+date: '2026-09-16'
+notes: >-
+  Manifestações da governadora, atribuídas a ela; convivem com as mensagens descritas pela Folha e não as
+  apagam. A URL original do Estadão Conteúdo não foi localizada (registrada a republicação).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

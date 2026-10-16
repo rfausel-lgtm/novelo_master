@@ -1,0 +1,30 @@
+id: doc-2026-09-23-tcdf-nota-oficial-cautelar-de-indisponibilidade-de-bens-de-ex-dirigentes-do-brb
+kind: document
+title: 'Nota do TCDF: TCDF determina bloqueio de bens de ex-dirigentes do BRB'
+doc_type: official_report
+date: '2026-09-23'
+date_precision: day
+issuer_id: tribunal-de-contas-do-distrito-federal
+reference: TCDF, processo nº 00600-00003617/2025-75-e
+url: https://www2.tc.df.gov.br/tcdf-determina-bloqueio-de-bens-de-ex-dirigentes-do-brb/
+source_ids:
+- src-tcdf-2026-09-23-tcdf-determina-bloqueio-de-bens-de-ex-dirigentes-do-brb
+summary: >-
+  Nota institucional do TCDF sobre a decisão do Plenário de 23/09/2026 em sessão reservada: indisponibilidade
+  cautelar de bens de ex-integrantes da alta administração do BRB, por um ano, com 30 dias para manifestação;
+  instrução prioritária do processo para avaliar a extensão a outros agentes; conversão em Tomada de Contas
+  Especial; 24 horas para o BRB enviar o relatório da auditoria independente; 30 dias para o atual
+  diretor-presidente justificar o descumprimento de determinação anterior; 15 dias para o BRB esclarecer a
+  representação do Ministério Público de Contas do DF. A nota não nomeia os atingidos nem informa valor ou
+  relator.
+excerpt: A medida tem por objetivo resguardar eventual ressarcimento aos cofres públicos diante de indícios
+  apontados em apurações relacionadas a operações conduzidas pela instituição financeira.
+is_official: true
+related_entity_ids:
+- tribunal-de-contas-do-distrito-federal
+- banco-de-brasilia-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

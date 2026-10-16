@@ -1,0 +1,21 @@
+id: ev-tcdf-processo-00600-00003617-2025-75-autuado-em-2025-04-01
+kind: evidence
+classification: D
+proposition: >-
+  A ficha pública do e-TCDF, consultada em 15/10/2026, registra a autuação do processo
+  00600-00003617/2025-75-e em 01/04/2025, com interessado "TCDF", e sete decisões reservadas, a primeira (RES
+  82/2025) de 10/04/2025.
+document_ids:
+- doc-2026-09-23-tcdf-decisao-res-361-2026-registro-no-etcdf
+source_ids:
+- src-tcdf-2026-10-15-etcdf-processo-00600-00003617-2025-75
+date: '2025-04-01'
+notes: >-
+  Corrige o registro anterior do acervo, que dava o processo como aberto em 19/11/2025 (data do comunicado do
+  TCDF sobre nova denúncia do MPC-DF). Apoio secundário, não obrigatório e não lido na íntegra: extratos de
+  pauta do DODF de 28/04/2025 e de 26/05/2025 (apenas resultados de busca foram vistos).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

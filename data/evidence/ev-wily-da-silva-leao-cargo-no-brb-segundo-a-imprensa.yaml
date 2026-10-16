@@ -1,0 +1,22 @@
+id: ev-wily-da-silva-leao-cargo-no-brb-segundo-a-imprensa
+kind: evidence
+classification: A
+proposition: >-
+  Segundo o SBT News, Wily da Silva Leão é ex-gerente de Tesouraria e da Superintendência de Operações
+  Financeiras do BRB; segundo o Metrópoles, ex-integrante dessa superintendência; nenhum ato de nomeação foi
+  localizado.
+attributed_to: SBT News e Metrópoles
+document_ids: []
+source_ids:
+- src-metropoles-2026-09-23-caso-master-tcdf-bloqueia-r-27-bilhoes-de-ex-presidente-do-brb-e-mais-4
+- src-sbtnews-2026-09-23-tcdf-bloqueia-r-2-7-bi-de-ex-presidente-do-brb-e-mais-4
+date: '2026-09-23'
+notes: >-
+  As duas formulações não foram reconciliadas. Só passa a D se uma matéria individual do DODF (por exemplo,
+  extrato de contrato do BRB com "Gestor: Wily da Silva Leão") for aberta e registrada; páginas de resultado
+  de busca do DODF não bastam como fonte.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

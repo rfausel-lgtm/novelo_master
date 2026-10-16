@@ -8,13 +8,19 @@ positions:
   organization_id: governo-do-distrito-federal
   source_ids:
   - src-cldf-2025-08-19-autoriza-brb-comprar-master
-summary: 'Governador do Distrito Federal. Seu governo enviou à CLDF, em regime de urgência, o PL 1882/2025
+summary: 'Governador do Distrito Federal à época da tentativa de compra do Master pelo BRB. Seu governo enviou à CLDF, em regime de urgência, o PL 1882/2025
   que autorizou o BRB, banco controlado pelo GDF, a adquirir participação no Banco Master; o projeto foi
   aprovado em 19/08/2025 e seguia para sanção. CONFIRMADO COMO INVESTIGADO FORMAL (lote 176): decisão do
   STF de 02/04/2026, que o dispensou de depor na CPI do Crime Organizado por essa condição, reproduz a
   justificativa da própria CPI de que ele está ''no centro de dois eixos de investigação'' — as relações
   comerciais do escritório de advocacia que leva seu nome com entidades investigadas nas operações Compliance
-  Zero e Carbono Oculto, e seu papel institucional nas decisões do BRB sobre a compra do Master.'
+  Zero e Carbono Oculto, e seu papel institucional nas decisões do BRB sobre a compra do Master. Em
+  09/10/2026, segundo o Metrópoles, a CNN Brasil, o g1 (via Brasil 247) e a Jovem Pan, veio a público
+  relatório da Polícia Federal enviado ao STF em 28/09/2026 que afirma que ele, como acionista controlador
+  do BRB, não se limitou ao exercício regular de suas prerrogativas institucionais e que decisões
+  estratégicas relevantes eram submetidas previamente à sua apreciação; a defesa nega ingerência (ver o
+  evento do dia). Já era tratado como "ex-governador" pela defesa em 16/04/2026 (CNN Brasil); a data e o
+  ato oficial da saída do cargo não foram abertos pelo Novelo.'
 why_in_novelo: Chefiava o Executivo distrital que propôs a autorização legislativa para o BRB comprar
   participação no Banco Master, e é formalmente investigado, segundo decisão do STF, em dois eixos ligados
   ao caso — um envolvendo seu próprio escritório de advocacia.
@@ -33,7 +39,32 @@ cited_position:
   - src-stf-pet15556-edoc216-pedido-extensao-ibaneis-01-04-2026
   by_id: ibaneis-rocha
   date: '2026-04-01'
+- kind: denial
+  summary: Sobre o relatório da PF divulgado em 09/10/2026, a defesa (por Antônio Carlos de Almeida Castro,
+    o Kakay, segundo o Metrópoles) afirmou que ele não pressionou e tampouco teve qualquer ingerência nas
+    operações realizadas pelo BRB, que Paulo Henrique Costa detinha total autonomia, que ele não é
+    interlocutor direto em nenhuma mensagem com Vorcaro e que seu nome é mencionado pela PF em quatro
+    oportunidades.
+  source_ids:
+  - src-metropoles-2026-10-09-master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb
+  - src-cnnbrasil-2026-10-10-pf-ibaneis-agiu-de-forma-direta-para-viabilizar-compra-do-master-pelo-brb
+  - src-jovempan-2026-10-10-ibaneis-participou-de-decisoes-do-brb-e-se-reuniu-com-vorcaro-na-suica-diz-pf
+  by_id: ibaneis-rocha
+  date: '2026-10-09'
+- kind: denial
+  summary: 'Em 16/04/2026, a defesa usou diálogos entre Paulo Henrique Costa e Daniel Vorcaro da 4ª fase da
+    operação para sustentar que "O ex-governador não acompanhava, não pressionou e tampouco teve qualquer
+    ingerência em operações realizadas pelas referidas instituições financeiras…" (manifestação que o
+    verbete não registrava até então).'
+  source_ids:
+  - src-cnnbrasil-2026-04-16-advogados-usam-dialogos-para-defender-ibaneis-de-ingerencia-sobre-brb
+  by_id: ibaneis-rocha
+  date: '2026-04-16'
 open_questions:
+- O número da PET, o ministro que levantou o sigilo e a data do relatório da PF divulgado em 09/10/2026 não
+  foram identificados nas fontes lidas; o Novelo não localizou o relatório nos autos públicos.
+- A pessoa tratada como "Léo" ou "Leonardo", descrita pela imprensa como presente na reunião de Zurique de
+  23/01/2025 segundo o relatório, não é identificada nas fontes.
 - 'ATUALIZADO (lote 177): a própria petição de Ibaneis Rocha (e-Doc 216, 01/04/2026) confirma que houve,
   sim, uma cessão de créditos a um fundo administrado pela Reag/CBSF (Fundo Laguz I, 23/12/2021) — mas
   a CPI, no mesmo requerimento, cita uma OUTRA operação, com o fundo Reag Legal Claims (hoje Pedra Azul
@@ -46,13 +77,19 @@ source_ids:
 - src-cldf-2025-08-19-autoriza-brb-comprar-master
 - src-stf-pet15556-edoc223-decisao-dispensa-ibaneis-cpi-02-04-2026
 - src-stf-pet15556-edoc216-pedido-extensao-ibaneis-01-04-2026
+- src-metropoles-2026-10-09-master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb
+- src-cnnbrasil-2026-10-10-pf-ibaneis-agiu-de-forma-direta-para-viabilizar-compra-do-master-pelo-brb
+- src-brasil247-2026-10-09-pf-aponta-atuacao-direta-de-ibaneis-na-tentativa-de-compra-do-master-pelo-brb
+- src-jovempan-2026-10-10-ibaneis-participou-de-decisoes-do-brb-e-se-reuniu-com-vorcaro-na-suica-diz-pf
+- src-otempo-2026-10-15-vorcaro-depoe-sobre-negocios-do-master-com-brb-que-envolvem-ibaneis-rocha-e-paulo-henrique-costa
+- src-cnnbrasil-2026-04-16-advogados-usam-dialogos-para-defender-ibaneis-de-ingerencia-sobre-brb
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Ibaneis_Rocha
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-11'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/ibaneis-rocha.jpg
   source: Wikimedia Commons

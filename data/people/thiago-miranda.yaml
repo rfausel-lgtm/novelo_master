@@ -5,7 +5,7 @@ category: businessperson
 role: Publicitário; ex-CEO do Grupo LeoDias e dono da Agência MiThi; apontado como articulador do 'Projeto
   DV'
 positions: []
-summary: 'Publicitário de Brasília, com CPF terminado em 451 confirmado em registro da Receita Federal.
+summary: 'Publicitário de Brasília, com identidade confirmada em registro da Receita Federal.
   Foi CEO do Grupo LeoDias e dono da Agência MiThi, com carteira que incluía marcas de luxo, instituições
   financeiras e celebridades. A decisão de André Mendonça na PET 16.346, que autorizou a 10ª fase da Operação
   Compliance Zero em 09/07/2026 e foi lida integralmente pela equipe, o aponta como articulador do ''Projeto
@@ -31,10 +31,14 @@ summary: 'Publicitário de Brasília, com CPF terminado em 451 confirmado em reg
   Jornalismo S.A.'', da qual o mesmo sócio-administrador de Miranda teria sido administrador até 2025,
   além de apontar Flávio Carneiro como possível sócio majoritário (60%) do ''Grupo Leo Dias''. A partir
   de maio de 2026, os despachos de intimação a Miranda passaram a usar um e-mail do domínio ''agenciamentha.com.br'', ao lado do já conhecido ''agenciamithi.com.br'' — sem
-  explicação documentada do que seria essa ''Agência Mentha''.'
-why_in_novelo: 'É apontado como o operador da frente de comunicação do esquema: quem contratava influenciadores
-  para atacar o regulador que liquidara o banco, quem encomendava dossiês sobre jornalistas e executivos
-  incômodos, e quem intermediava o dinheiro do filme sobre Bolsonaro.'
+  explicação documentada do que seria essa ''Agência Mentha''. Segundo a Folha de S.Paulo (15/09/2026),
+  conforme o Poder360, e segundo o Congresso em Foco, mensagens de 05/04/2025 entre ele e Daniel Vorcaro
+  registram-no escrevendo que conhece a governadora Celina Leão "muito bem" e que ela "está querendo aparecer
+  porque ficou de fora da negociação"; a defesa dele afirma que a governadora não participou das negociações
+  e que as mensagens são recortes de diálogos privados.'
+why_in_novelo: 'Apontado pela decisão de André Mendonça na PET 16.346, que autorizou a 10ª fase da Operação
+  Compliance Zero, como articulador do ''Projeto DV'', campanha com influenciadores para questionar a liquidação
+  do Banco Master; admitiu publicamente ter intermediado o investimento de Vorcaro no filme ''Dark Horse''.'
 cited_position:
 - kind: version
   summary: Em depoimento à PF em 12/05/2026, confirmou o plano com influenciadores para defender o Master,
@@ -72,6 +76,14 @@ cited_position:
   - src-metropoles-2026-05-12-depoimento-thiago-miranda-pf
   by_id: thiago-miranda
   date: '2026-05-12'
+- kind: clarification
+  summary: Sobre as mensagens de 05/04/2025 com Daniel Vorcaro em que Celina Leão é mencionada, a defesa, por
+    Rafael Martins, afirmou em 16/09/2026 que a governadora não participou das negociações e que as
+    mensagens são recortes de diálogos privados que, isolados, geram interpretações equivocadas.
+  source_ids:
+  - src-poder360-2026-09-16-vorcaro-ordenou-atacar-celina-leao-por-operacao-do-master-com-brb
+  by_id: thiago-miranda
+  date: '2026-09-16'
 open_questions:
 - 'CORREÇÃO (09/09/2026): o corpus registrava que a decisão da 10ª fase não havia sido lida integralmente.
   O registro estava desatualizado — a decisão foi lida na íntegra pela equipe, mediante conversão das
@@ -121,9 +133,11 @@ source_ids:
 - src-apublica-2026-09-analise-master-vorcaro-moraes-mendonca
 - src-stf-inq5035-edoc15-portaria-ipl-projeto-dv
 - src-stf-inq5035-edoc42-despacho-intimacoes-projeto-dv
+- src-poder360-2026-09-16-vorcaro-ordenou-atacar-celina-leao-por-operacao-do-master-com-brb
+- src-congressoemfoco-2026-09-17-vorcaro-discutiu-atacar-celina-por-criticas-a-operacao-master-brb
 full_name: Thiago Miranda Silva
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-10-16'

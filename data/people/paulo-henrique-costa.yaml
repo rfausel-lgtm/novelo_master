@@ -34,7 +34,10 @@ summary: 'Ex-presidente do BRB (2019 a novembro de 2025), por indicação do gov
   concluída. Perícia da PF de 13/08/2026 (sigilo levantado em 11/09/2026) qualifica a gestão da diretoria do BRB
   sob sua presidência como ''gestão fraudulenta'' na compra de carteiras do Master, por manipulação de procedimentos
   de governança e formalização retroativa de controles — R$ 7,6 bilhões em 22 operações pagos antes da conclusão
-  dos laudos técnicos obrigatórios.'
+  dos laudos técnicos obrigatórios. Segundo o Metrópoles, o SBT News e o Congresso em Foco, é um dos cinco
+  ex-dirigentes do BRB alcançados pela indisponibilidade cautelar de bens decretada pelo TCDF em 23/09/2026
+  (Decisão RES nº 361/2026, sem julgamento de mérito; a nota oficial do tribunal não nomeia os atingidos).
+  Segundo a CNN Brasil (15/10/2026), a PF pretende ouvi-lo depois de Vorcaro, sem data informada.'
 why_in_novelo: É um dos apenas três nomes formalmente indiciados no inquérito-mãe da Compliance Zero, com decisão
   de prisão que documenta, por mensagens diretas com Daniel Vorcaro, o que a autoridade policial descreve como esquema
   de vantagem indevida via imóveis em troca da compra pelo BRB de carteiras de crédito fraudulentas do Master —
@@ -63,6 +66,24 @@ cited_position:
   - src-cnnbrasil-2026-06-23-defesa-phc-pede-soltura
   by_id: paulo-henrique-costa
   date: '2026-06-23'
+- kind: no_response
+  summary: Sobre a cautelar do TCDF de 23/09/2026, o Poder360 informou que a defesa foi procurada e não
+    respondeu até a publicação.
+  source_ids:
+  - src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+  by_id: paulo-henrique-costa
+  date: '2026-09-23'
+- kind: version
+  summary: 'Segundo O Tempo (fonte única), a defesa disse em 15/10/2026 que ele foi presidente do BRB, "não
+    seu dono", que decisões dessa envergadura exigiam aprovação do Conselho de Administração e que o
+    acionista majoritário era o Governo do Distrito Federal. O Metrópoles (09/10) e a CNN Brasil (10/10)
+    informam não haver manifestação da defesa dele sobre o relatório da PF até as respectivas publicações.'
+  source_ids:
+  - src-otempo-2026-10-15-vorcaro-depoe-sobre-negocios-do-master-com-brb-que-envolvem-ibaneis-rocha-e-paulo-henrique-costa
+  - src-metropoles-2026-10-09-master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb
+  - src-cnnbrasil-2026-10-10-pf-ibaneis-agiu-de-forma-direta-para-viabilizar-compra-do-master-pelo-brb
+  by_id: paulo-henrique-costa
+  date: '2026-10-15'
 open_questions:
 - O status de custódia entre julho e setembro de 2026 não foi confirmado por nenhuma fonte localizada — não se sabe
   se o pedido de liberdade provisória de 23/06/2026 foi decidido, nem o resultado.
@@ -86,8 +107,14 @@ source_ids:
 - src-stf-inq5026-ipl1096304-completo
 - src-stf-pet15478-decisao-22-06-2026-sigilo-tirreno-brb
 - src-tribunadosertao-2026-09-11-pericia-pf-brb-903-carteiras-master
+- src-metropoles-2026-09-23-caso-master-tcdf-bloqueia-r-27-bilhoes-de-ex-presidente-do-brb-e-mais-4
+- src-sbtnews-2026-09-23-tcdf-bloqueia-r-2-7-bi-de-ex-presidente-do-brb-e-mais-4
+- src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+- src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+- src-otempo-2026-10-15-vorcaro-depoe-sobre-negocios-do-master-com-brb-que-envolvem-ibaneis-rocha-e-paulo-henrique-costa
+- src-cnnbrasil-2026-10-15-caso-master-vorcaro-presta-hoje-novo-depoimento-a-pf-sobre-o-brb
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-18'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-18'
+updated_at: '2026-10-16'

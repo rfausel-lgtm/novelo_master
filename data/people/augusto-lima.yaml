@@ -60,7 +60,8 @@ cited_position:
   date: '2026-01-26'
 open_questions:
 - Não foi incluído no indiciamento de agosto/2026 (só Vorcaro, Paulo Henrique Costa e Tanure); depoimento adiado
-  pela terceira vez, sem data fixada até 19/08/2026.
+  pela terceira vez; oitiva marcada para 16/10/2026 (Metrópoles, 15/10/2026, fonte única e anterior ao ato),
+  que o Novelo não registra como ocorrida.
 - Casou-se em janeiro de 2024 com Flávia Peres (ex-Arruda), ex-deputada federal e ex-secretária de Governo de Bolsonaro.
 - O documento apócrifo 'dono e presidente de fato' segue sem qualquer avaliação formal da PF sobre sua credibilidade,
   estagnado desde março de 2026 — a narrativa dominante de toda a demais cobertura investigativa trata Vorcaro,
@@ -143,9 +144,10 @@ source_ids:
 - src-stf-rcl88121-autos-pecas
 - src-stf-rcl88121-autos-pecas
 - src-stf-rcl88121-autos-pecas
+- src-metropoles-2026-10-15-pf-marca-depoimento-de-augusto-lima-ex-socio-de-vorcaro-para-sexta
 full_name: Augusto Ferreira Lima
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-18'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-18'
+updated_at: '2026-10-16'

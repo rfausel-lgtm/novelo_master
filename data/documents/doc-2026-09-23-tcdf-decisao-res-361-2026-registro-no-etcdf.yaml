@@ -1,0 +1,27 @@
+id: doc-2026-09-23-tcdf-decisao-res-361-2026-registro-no-etcdf
+kind: document
+title: Decisão RES nº 361/2026 do TCDF (23/09/2026) — registro no e-TCDF; inteiro teor sigiloso
+doc_type: administrative_act
+date: '2026-09-23'
+date_precision: day
+issuer_id: tribunal-de-contas-do-distrito-federal
+reference: TCDF, Decisão RES nº 361/2026, processo 00600-00003617/2025-75-e, e-DOC 96A3AA16-e, DODF de 05/10/2026, págs. 53-54 (segundo a ficha)
+url: https://etcdf.tc.df.gov.br/?a=consultaETCDF&f=formPrincipal
+source_ids:
+- src-tcdf-2026-10-15-etcdf-processo-00600-00003617-2025-75
+summary: >-
+  Registro público da decisão na ficha do processo no e-TCDF: peça 227, relatora Conselheira Anilcéia Luzia
+  Machado, saída do gabinete em 23/09/2026 às 14h32 e inclusão em atos em 23/09/2026 às 17h06; ementa e
+  decisão marcadas como sigilosas ("Não disponível para download"); publicação no DODF de 05/10/2026, págs.
+  53-54, segundo a ficha. A ficha lista ainda outras seis decisões reservadas no processo, de RES 82/2025
+  (10/04/2025) a RES 354/2026 (17/09/2026). O Novelo não leu o inteiro teor da decisão: o registro vale
+  apenas pelo que a ficha pública do e-TCDF informa, consultada em 15/10/2026.
+is_official: true
+related_entity_ids:
+- tribunal-de-contas-do-distrito-federal
+- banco-de-brasilia-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

@@ -1,0 +1,29 @@
+id: src-tcdf-2026-10-15-etcdf-processo-00600-00003617-2025-75
+kind: source
+title: Processo 00600-00003617/2025-75 — Informações gerais do Processo / Peças juntadas / Trâmite
+publisher: Tribunal de Contas do Distrito Federal (e-TCDF, consulta pública)
+publication_date: '2026-10-15'
+url: https://etcdf.tc.df.gov.br/?a=consultaETCDF&f=formPrincipal
+source_type: official_regulator
+language: pt-BR
+summary: >-
+  Ficha pública do processo: tipo "Ordinário, Sigiloso"; jurisdicionado Banco de Brasília S/A; interessado
+  "TCDF"; assunto "Análise de Contratos, Convênios e Outros Ajustes"; autuação em 01/04/2025; relatora
+  vinculada Conselheira Anilcéia Luzia Machado; 335 peças; lista sete decisões reservadas, a última a RES
+  361/2026 (23/09/2026, e-DOC 96A3AA16-e, publicada no DODF de 05/10/2026, págs. 53-54), cujo inteiro teor
+  consta como sigiloso.
+notes: >-
+  Página dinâmica, que não é arquivada no Wayback Machine; consulta de 15/10/2026 (Consulta Rápida por número
+  do processo). A URL inicial do e-TCDF redireciona para login; o endereço indicado (formPrincipal) é público.
+  Captura de tela e sha256 a guardar em raw/.
+retrieved_at: '2026-10-15'
+verification:
+  checked_at: '2026-10-15'
+  checked_by: orquestrador (leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

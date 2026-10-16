@@ -1,0 +1,87 @@
+id: evt-2026-10-09-relatorio-da-pf-sobre-a-atuacao-de-ibaneis-rocha-no-brb-vem-a-publico
+kind: event
+title: Relatório da PF enviado ao STF descreve a atuação de Ibaneis Rocha no BRB, segundo a imprensa; sigilo é levantado em 09/10
+event_type: investigation_step
+date: '2026-10-09'
+date_precision: day
+participant_ids:
+- ibaneis-rocha
+- paulo-henrique-costa
+- daniel-vorcaro
+- policia-federal
+- banco-de-brasilia-brb
+description: >-
+  Segundo o Metrópoles (09/10/2026), a CNN Brasil (10/10/2026), o g1 (conforme reproduzido pelo Brasil 247) e
+  a Jovem Pan (10/10/2026), relatório da Polícia Federal enviado ao STF em 28/09/2026, com sigilo levantado em 09/10,
+  afirma que Ibaneis Rocha, na qualidade de acionista controlador do BRB, "não se limitou ao exercício regular
+  de suas prerrogativas institucionais" e que "decisões estratégicas relevantes eram submetidas previamente à
+  sua apreciação" antes dos órgãos de governança; o g1 (via Brasil 247) reproduz a frase "Tal atuação é
+  indicativa de captura institucional"; segundo o Metrópoles e a Jovem Pan, o relatório descreve reunião em
+  Zurique em 23/01/2025 entre Ibaneis, Vorcaro, Paulo Henrique Costa e uma pessoa tratada como "Léo" ou
+  "Leonardo" (não identificada nas fontes) e a autorização do aumento de capital do BRB de R$ 750 milhões. A
+  defesa de Ibaneis nega: segundo o Metrópoles, a CNN Brasil e a Jovem Pan, ela (representada, segundo o
+  Metrópoles, pelo advogado Antônio Carlos de Almeida Castro, o Kakay) afirmou que ele "não pressionou e
+  tampouco teve qualquer ingerência nas operações realizadas pelo BRB", que Paulo Henrique Costa "detinha
+  total autonomia para condução das negociações" e que Ibaneis "não é interlocutor direto em nenhuma mensagem
+  com Daniel Vorcaro" e "seu nome somente é mencionado pela Polícia Federal em quatro oportunidades". O Novelo não localizou o relatório nos autos públicos: o número da PET, o ministro que
+  levantou o sigilo e a data do documento não constam das fontes lidas, e os trechos acima são descrição da
+  imprensa. O nome "Léo" ou "Leonardo" não é identificado nas fontes.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-pf-relatorio-sobre-ibaneis-rocha-no-brb-descrito-pela-imprensa
+- ev-defesa-de-ibaneis-rocha-nega-ingerencia-no-brb-nota-de-09-10-2026
+source_ids:
+- src-metropoles-2026-10-09-master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb
+- src-cnnbrasil-2026-10-10-pf-ibaneis-agiu-de-forma-direta-para-viabilizar-compra-do-master-pelo-brb
+- src-brasil247-2026-10-09-pf-aponta-atuacao-direta-de-ibaneis-na-tentativa-de-compra-do-master-pelo-brb
+- src-jovempan-2026-10-10-ibaneis-participou-de-decisoes-do-brb-e-se-reuniu-com-vorcaro-na-suica-diz-pf
+- src-otempo-2026-10-15-vorcaro-depoe-sobre-negocios-do-master-com-brb-que-envolvem-ibaneis-rocha-e-paulo-henrique-costa
+- src-cnnbrasil-2026-04-16-advogados-usam-dialogos-para-defender-ibaneis-de-ingerencia-sobre-brb
+document_ids: []
+cited_position:
+- by_id: ibaneis-rocha
+  kind: denial
+  date: '2026-10-09'
+  summary: >-
+    Por meio do advogado Antônio Carlos de Almeida Castro (Kakay), afirmou que não pressionou e tampouco teve
+    qualquer ingerência nas operações realizadas pelo BRB, que Paulo Henrique Costa detinha total autonomia,
+    que Ibaneis não é interlocutor direto em nenhuma mensagem com Vorcaro e que seu nome é mencionado pela PF
+    em quatro oportunidades (o advogado é nomeado pelo Metrópoles).
+  source_ids:
+  - src-metropoles-2026-10-09-master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb
+  - src-cnnbrasil-2026-10-10-pf-ibaneis-agiu-de-forma-direta-para-viabilizar-compra-do-master-pelo-brb
+  - src-jovempan-2026-10-10-ibaneis-participou-de-decisoes-do-brb-e-se-reuniu-com-vorcaro-na-suica-diz-pf
+- by_id: ibaneis-rocha
+  kind: denial
+  date: '2026-04-16'
+  summary: >-
+    Manifestação anterior da defesa, sobre mensagens da 4ª fase da operação: "O ex-governador não acompanhava,
+    não pressionou e tampouco teve qualquer ingerência em operações realizadas pelas referidas instituições
+    financeiras…".
+  source_ids:
+  - src-cnnbrasil-2026-04-16-advogados-usam-dialogos-para-defender-ibaneis-de-ingerencia-sobre-brb
+- by_id: paulo-henrique-costa
+  kind: version
+  date: '2026-10-15'
+  summary: >-
+    Segundo O Tempo (fonte única), a defesa disse que ele foi presidente do BRB, "não seu dono", que decisões
+    dessa envergadura exigiam aprovação do Conselho de Administração e que o acionista majoritário era o
+    Governo do Distrito Federal. O Metrópoles e a CNN Brasil informam não haver manifestação da defesa dele
+    até a publicação.
+  source_ids:
+  - src-otempo-2026-10-15-vorcaro-depoe-sobre-negocios-do-master-com-brb-que-envolvem-ibaneis-rocha-e-paulo-henrique-costa
+  - src-metropoles-2026-10-09-master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb
+  - src-cnnbrasil-2026-10-10-pf-ibaneis-agiu-de-forma-direta-para-viabilizar-compra-do-master-pelo-brb
+- by_id: celina-leao
+  kind: not_located
+  date: '2026-10-15'
+  summary: >-
+    Buscas do Novelo em 15/10/2026 por manifestação da governadora sobre o relatório da PF (três variações com
+    os termos "relatório da PF", "interferência" e "Zurique") não retornaram nada; Metrópoles e Brasil de Fato
+    não a mencionam.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

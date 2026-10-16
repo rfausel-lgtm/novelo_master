@@ -1,0 +1,71 @@
+id: evt-2026-09-23-tcdf-decreta-indisponibilidade-cautelar-de-bens-de-ex-dirigentes-do-brb
+kind: event
+title: TCDF decreta, em caráter cautelar, a indisponibilidade de bens de ex-dirigentes do BRB e converte o processo em Tomada de Contas Especial
+event_type: regulatory_act
+date: '2026-09-23'
+date_precision: day
+location: Brasília (DF)
+participant_ids:
+- tribunal-de-contas-do-distrito-federal
+- banco-de-brasilia-brb
+description: >-
+  Em sessão reservada de 23/09/2026, o Tribunal de Contas do Distrito Federal decidiu, em caráter cautelar,
+  determinar a indisponibilidade de bens, por um ano, de ex-integrantes da alta administração do BRB, com 30
+  dias para manifestação, com o objetivo de "resguardar eventual ressarcimento aos cofres públicos", conforme
+  nota oficial do tribunal. A decisão (RES nº 361/2026, processo 00600-00003617/2025-75-e, relatora Anilcéia Luzia
+  Machado, segundo o e-TCDF) prevê ainda instrução prioritária do processo para avaliar a extensão da medida a
+  outros agentes, conversão em Tomada de Contas Especial, 24 horas para o BRB enviar o relatório da auditoria
+  independente, 30 dias para o atual diretor-presidente justificar o descumprimento de determinação anterior
+  sobre envio de informações e 15 dias para o banco esclarecer a representação do Ministério Público de Contas
+  do DF. A nota não nomeia os atingidos nem informa valor. Segundo o Metrópoles, o SBT News e o Congresso em
+  Foco, os cinco atingidos são Paulo Henrique Costa, Dario Oswaldo Garcia Júnior, Robério Cesar Bonfim
+  Mangueira, Wily da Silva Leão e Marcelo Talarico; segundo a Agência Brasil, a decisão foi unânime e o valor
+  total é de R$ 2.761.749.206,55 (os demais veículos falam em "até R$ 2,7 bilhões"). O inteiro teor é sigiloso;
+  a ficha do e-TCDF indica publicação no DODF de 05/10/2026. A medida é cautelar: não é julgamento de mérito
+  nem atribuição definitiva de responsabilidade, e as defesas dispunham de 30 dias para se manifestar.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-tcdf-res-361-2026-cautelar-de-indisponibilidade-de-bens-de-ex-dirigentes-do-brb
+- ev-tcdf-processo-00600-00003617-2025-75-autuado-em-2025-04-01
+- ev-tcdf-nomes-dos-cinco-atingidos-pela-cautelar
+- ev-tcdf-valor-exato-e-unanimidade-segundo-a-agencia-brasil
+- ev-brb-nota-sobre-a-cautelar-do-tcdf
+source_ids:
+- src-tcdf-2026-09-23-tcdf-determina-bloqueio-de-bens-de-ex-dirigentes-do-brb
+- src-tcdf-2026-10-15-etcdf-processo-00600-00003617-2025-75
+- src-agenciabrasil-2026-09-24-caso-master-tcdf-bloqueia-ate-r-27-bi-de-ex-dirigentes-do-brb
+- src-metropoles-2026-09-23-caso-master-tcdf-bloqueia-r-27-bilhoes-de-ex-presidente-do-brb-e-mais-4
+- src-sbtnews-2026-09-23-tcdf-bloqueia-r-2-7-bi-de-ex-presidente-do-brb-e-mais-4
+- src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+- src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+document_ids:
+- doc-2026-09-23-tcdf-nota-oficial-cautelar-de-indisponibilidade-de-bens-de-ex-dirigentes-do-brb
+- doc-2026-09-23-tcdf-decisao-res-361-2026-registro-no-etcdf
+cited_position:
+- by_id: banco-de-brasilia-brb
+  kind: public_note
+  date: '2026-09-23'
+  summary: Decisão "positiva"; a atual gestão atua "de forma diligente" na recuperação de ativos.
+  source_ids:
+  - src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+  - src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+- by_id: paulo-henrique-costa
+  kind: no_response
+  date: '2026-09-23'
+  summary: Procurada pelo Poder360, a defesa não respondeu até a publicação.
+  source_ids:
+  - src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+- by: Dario Oswaldo Garcia Júnior, Robério Cesar Bonfim Mangueira, Wily da Silva Leão e Marcelo Talarico
+  kind: not_located
+  date: '2026-10-15'
+  summary: >-
+    O Poder360 não localizou contato válido (23/09/2026); busca do Novelo em 15/10/2026 por nota de defesa
+    ou manifestação nos autos (notas públicas e nas 14 matérias lidas) não localizou posição.
+  source_ids:
+  - src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

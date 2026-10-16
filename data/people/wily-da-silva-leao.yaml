@@ -1,0 +1,39 @@
+id: wily-da-silva-leao
+kind: person
+name: Wily da Silva Leão
+category: executive
+role: Ex-integrante da Superintendência de Operações Financeiras do BRB (cargo descrito de formas diferentes pela imprensa)
+positions: []
+summary: >-
+  Segundo o Metrópoles, o SBT News e o Congresso em Foco, é um dos cinco ex-dirigentes do BRB alcançados pela
+  indisponibilidade cautelar de bens decretada pelo TCDF em 23/09/2026 (Decisão RES nº 361/2026, cautelar, sem
+  julgamento de mérito). O SBT News o descreve como ex-gerente de Tesouraria e da Superintendência de
+  Operações Financeiras; o Metrópoles, como ex-integrante dessa superintendência. Nenhum ato de nomeação foi
+  localizado.
+why_in_novelo: Um dos cinco ex-dirigentes do BRB alcançados pela cautelar de indisponibilidade de bens do TCDF de 23/09/2026, segundo a imprensa; a nota oficial do tribunal não nomeia os atingidos.
+cited_position:
+- kind: not_located
+  by_id: wily-da-silva-leao
+  date: '2026-10-15'
+  summary: >-
+    O Poder360 informou, em 23/09/2026, não ter localizado contato válido para ele; busca do Novelo em
+    15/10/2026 por nota de defesa ou manifestação pública, pelo nome, não retornou posição.
+  source_ids:
+  - src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+open_questions:
+- O cargo exato no BRB não está apurado, pois o SBT News fala em ex-gerente de Tesouraria e da Superintendência
+  de Operações Financeiras e o Metrópoles, em ex-integrante dessa superintendência; não há ato de nomeação
+  localizado.
+- Confirmação do nome e do cargo por documento oficial (extrato do DODF de 05/10/2026, págs. 53-54, não
+  aberto; matéria individual do DODF com ele como gestor de contrato).
+- Defesa nos 30 dias dados pelo TCDF a partir de 23/09/2026; nada localizado até 15/10/2026.
+source_ids:
+- src-metropoles-2026-09-23-caso-master-tcdf-bloqueia-r-27-bilhoes-de-ex-presidente-do-brb-e-mais-4
+- src-sbtnews-2026-09-23-tcdf-bloqueia-r-2-7-bi-de-ex-presidente-do-brb-e-mais-4
+- src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
+- src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

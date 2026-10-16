@@ -1,0 +1,25 @@
+id: ev-defesa-de-ibaneis-rocha-nega-ingerencia-no-brb-nota-de-09-10-2026
+kind: evidence
+classification: A
+proposition: >-
+  Segundo o Metrópoles, a CNN Brasil e a Jovem Pan (09 e 10/10/2026), a defesa de Ibaneis Rocha (conduzida,
+  segundo o Metrópoles, por Antônio Carlos de Almeida Castro, o Kakay) afirmou que ele "não pressionou e
+  tampouco teve qualquer ingerência nas operações realizadas pelo BRB", que Paulo Henrique Costa "detinha total
+  autonomia para condução das negociações", que Ibaneis "não é interlocutor direto em nenhuma mensagem com
+  Daniel Vorcaro" e que "seu nome somente é mencionado pela Polícia Federal em quatro oportunidades".
+attributed_to_id: ibaneis-rocha
+document_ids: []
+source_ids:
+- src-metropoles-2026-10-09-master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb
+- src-cnnbrasil-2026-10-10-pf-ibaneis-agiu-de-forma-direta-para-viabilizar-compra-do-master-pelo-brb
+- src-jovempan-2026-10-10-ibaneis-participou-de-decisoes-do-brb-e-se-reuniu-com-vorcaro-na-suica-diz-pf
+date: '2026-10-09'
+notes: >-
+  Manifestação da defesa, atribuída ao advogado; convive com a evidência do relatório descrito pela imprensa e
+  não a apaga. Manifestação anterior, de 16/04/2026, sobre mensagens da 4ª fase, está na CNN Brasil de
+  16/04/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

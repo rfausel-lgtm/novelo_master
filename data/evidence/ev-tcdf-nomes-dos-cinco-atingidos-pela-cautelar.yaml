@@ -1,0 +1,25 @@
+id: ev-tcdf-nomes-dos-cinco-atingidos-pela-cautelar
+kind: evidence
+classification: A
+proposition: >-
+  Segundo o Metrópoles (23/09/2026), o SBT News (23/09/2026) e o Congresso em Foco (24/09/2026), os cinco
+  ex-integrantes da alta administração do BRB alcançados pela cautelar do TCDF são Paulo Henrique Costa
+  (ex-presidente), Dario Oswaldo Garcia Júnior, Robério Cesar Bonfim Mangueira, Wily da Silva Leão e Marcelo
+  Talarico (ex-presidente do Conselho de Administração); a nota oficial do TCDF não nomeia os atingidos.
+attributed_to: Metrópoles (mesmos nomes no SBT News e no Congresso em Foco, sem origem declarada)
+document_ids: []
+source_ids:
+- src-metropoles-2026-09-23-caso-master-tcdf-bloqueia-r-27-bilhoes-de-ex-presidente-do-brb-e-mais-4
+- src-sbtnews-2026-09-23-tcdf-bloqueia-r-2-7-bi-de-ex-presidente-do-brb-e-mais-4
+- src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+date: '2026-09-23'
+notes: >-
+  Classe A, não C: os três veículos listam os mesmos cinco nomes, na mesma ordem e com os mesmos cargos, e
+  nenhum cita fonte; Poder360, Jornal de Brasília e Times Brasil atribuem a informação ao Metrópoles (primeira
+  publicação, 23/09/2026, 17h33). A independência não está demonstrada e a decisão é sigilosa. Pode subir de
+  classe se o extrato do DODF de 05/10/2026 (págs. 53-54), não aberto, nomear os atingidos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'
