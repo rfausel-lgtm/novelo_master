@@ -1,0 +1,33 @@
+id: src-stf-2026-10-16-andamentos-do-are-1327995
+kind: source
+title: ARE 1327995 — andamentos
+publisher: Supremo Tribunal Federal (portal processual)
+publication_date: '2026-10-16'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=6180950
+source_type: official_court
+language: pt-BR
+summary: >-
+  Processo eletrônico público, número único 0023235-79.2001.4.01.3400, recorrente União (Advogado-Geral da
+  União), recorrida Destilaria Alcidia S.A., relator Edson Fachin. Andamentos: em 21/02/2024 (sessão virtual de
+  9 a 20/02/2024), julgamento do agravo regimental suspenso "por empate na votação", com o registro "Impedido o
+  Ministro Nunes Marques"; em 07/03/2024, despacho de Nunes Marques: "Afasto o impedimento lançado no sistema,
+  declarando-me habilitado a votar"; em 17/09/2024, pedido de vista de Nunes Marques; em 01/10/2024, a 2ª
+  Turma, por maioria, negou provimento ao agravo regimental da União, nos termos do voto do relator, vencidos
+  André Mendonça e Gilmar Mendes; em 03/06/2025, rejeitou os embargos de declaração da União, por maioria,
+  vencidos Gilmar Mendes e André Mendonça; trânsito em julgado em 10/10/2025. Os andamentos não mencionam o
+  Banco Master.
+notes: >-
+  Página dinâmica: os andamentos são carregados pela aba "abaAndamentos.asp?incidente=6180950", consultada em
+  16/10/2026. Os andamentos não nomeiam os ministros que formaram a maioria; os acórdãos publicados no DJE de
+  27/11/2024 e 18/08/2025 não foram abertos. Captura e sha256 em raw/ pendentes.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

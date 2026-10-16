@@ -1,0 +1,31 @@
+id: rel-advocacia-geral-da-uniao-tribunal-regional-federal-da-1a-regiao-institutional
+kind: relationship
+from_id: advocacia-geral-da-uniao
+to_id: tribunal-regional-federal-da-1a-regiao
+relationship_type: institutional
+directed: true
+label: requerente do PP 0007917-89 contra o TRF-1
+description: >-
+  A União, por meio da AGU, é a requerente do Pedido de Providências 0007917-89.2026.2.00.0000 no CNJ, em que o
+  TRF-1 é o requerido; pediu a suspensão de decisões da Presidência do tribunal que haviam sustado o cancelamento
+  de precatórios e, em 28/09/2026, o aditamento da cautelar a mais três cumprimentos de sentença.
+evidence_class: D
+confidence: 0.95
+status: verified
+event_ids:
+- evt-2026-09-22-corregedor-nacional-cancela-16-precatorios-do-trf-1-no-pp-0007917-89
+- evt-2026-09-28-corregedor-nacional-estende-a-cautelar-a-14-requisicoes-do-trf-1
+evidence_ids:
+- ev-cnj-cautelar-de-22-09-cancelamento-de-16-precatorios-do-trf-1
+- ev-cnj-aditamento-de-28-09-cancelamento-de-14-requisicoes
+source_ids:
+- src-cnj-2026-09-22-decisao-do-corregedor-pp-0007917-89-cautelar-pjecnj
+- src-cnj-2026-09-28-decisao-do-corregedor-pp-0007917-89-aditamento-pjecnj
+document_ids:
+- doc-2026-09-22-cnj-decisao-do-corregedor-cautelar-no-pp-0007917-89
+- doc-2026-09-28-cnj-decisao-do-corregedor-aditamento-no-pp-0007917-89
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

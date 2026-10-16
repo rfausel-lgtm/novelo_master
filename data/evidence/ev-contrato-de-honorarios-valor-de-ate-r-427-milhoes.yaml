@@ -1,0 +1,25 @@
+id: ev-contrato-de-honorarios-valor-de-ate-r-427-milhoes
+kind: evidence
+classification: A
+proposition: >-
+  Segundo o Metrópoles (21/09/2026), calculados sobre o valor de face das 12 causas (cerca de R$ 8,5 bilhões), os
+  honorários de êxito de 5% do contrato entre o Banco Master e o escritório Queiroga, Vieira, Queiroz & Ramos
+  seriam de R$ 427 milhões em caso de êxito; o Metrópoles de 24/09/2026 e o Times Brasil de 12/10/2026 descrevem
+  o contrato como "de até R$ 427 milhões".
+attributed_to: Metrópoles
+document_ids: []
+source_ids:
+- src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+- src-metropoles-2026-09-24-cnj-abre-sindicancia-contra-desembargador-newton-ramos
+- src-cnnbrasil-2026-09-21-turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens
+date: '2026-09-21'
+notes: >-
+  O valor é teto teórico, condicionado ao êxito em todas as causas; o escritório afirma não ter recebido nenhum
+  pagamento. A CNN Brasil repete o valor ("chegariam a R$ 427 milhões em caso de vitória das causas"). O
+  documento não é público. A data do contrato não está confirmada (o Times Brasil de 23/09 fala em minuta de março
+  de 2024).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

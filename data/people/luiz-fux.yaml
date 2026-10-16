@@ -9,8 +9,12 @@ positions:
   organization_id: supremo-tribunal-federal
   source_ids:
   - src-stf-2026-03-20-segunda-turma-mantem-prisao
-summary: Ministro do STF, integrante da Segunda Turma que referendou em 20/03/2026 a prisão preventiva
-  de Daniel Vorcaro e outros investigados (PET 15556).
+summary: >-
+  Ministro do STF, integrante da Segunda Turma que referendou em 20/03/2026 a prisão preventiva
+  de Daniel Vorcaro e outros investigados (PET 15556). No ARE 1.312.127 (União x Raízen Energia S.A. e outras),
+  sobre indenizações a usinas sucroalcooleiras, pediu vista em 02/10/2026, na sessão virtual da 2ª Turma em que o
+  relator, Gilmar Mendes, indicou a afetação do julgamento ao Plenário para referendo de decisão de 24/09/2026,
+  segundo os andamentos oficiais do STF.
 why_in_novelo: Votou, na Segunda Turma do STF, no referendo da prisão preventiva de investigados do caso
   Master, conforme comunicação oficial do tribunal.
 cited_position:
@@ -19,11 +23,12 @@ cited_position:
 open_questions: []
 source_ids:
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
+- src-stf-2026-10-16-andamentos-do-are-1312127
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/luiz-fux.jpg
   source: Wikimedia Commons

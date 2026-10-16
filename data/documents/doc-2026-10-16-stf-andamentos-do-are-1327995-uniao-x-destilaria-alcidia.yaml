@@ -1,0 +1,33 @@
+id: doc-2026-10-16-stf-andamentos-do-are-1327995-uniao-x-destilaria-alcidia
+kind: document
+title: Andamentos do ARE 1.327.995 (União x Destilaria Alcidia S.A.) no portal do STF, consulta de 16/10/2026
+doc_type: other
+date: '2026-10-16'
+date_precision: day
+issuer_id: supremo-tribunal-federal
+reference: STF, ARE 1.327.995 (0023235-79.2001.4.01.3400)
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=6180950
+source_ids:
+- src-stf-2026-10-16-andamentos-do-are-1327995
+summary: >-
+  Registro oficial dos andamentos do recurso, relator Edson Fachin. Em 21/02/2024, julgamento do agravo
+  regimental suspenso por empate, com o registro "Impedido o Ministro Nunes Marques"; em 07/03/2024, despacho
+  de Nunes Marques afastando o impedimento lançado no sistema; na sessão virtual de 15 a 22/03/2024, o registro
+  de que ele afastou o impedimento e se declarou habilitado a votar; em 17/09/2024, pedido de vista dele; em
+  01/10/2024, a 2ª Turma negou provimento ao agravo da União, por maioria, nos termos do voto do relator,
+  vencidos André Mendonça e Gilmar Mendes; em 03/06/2025, rejeitou os embargos de declaração da União, por
+  maioria, vencidos Gilmar Mendes e André Mendonça; trânsito em julgado em 10/10/2025. Os andamentos não nomeiam
+  os ministros da maioria e não mencionam o Banco Master. Acórdãos não abertos.
+excerpt: '"Afasto o impedimento lançado no sistema, declarando-me habilitado a votar."'
+is_official: true
+related_entity_ids:
+- nunes-marques
+- gilmar-mendes
+- andre-mendonca
+- edson-fachin
+- advocacia-geral-da-uniao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

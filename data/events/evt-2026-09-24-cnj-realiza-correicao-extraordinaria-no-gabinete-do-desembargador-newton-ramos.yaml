@@ -1,0 +1,70 @@
+id: evt-2026-09-24-cnj-realiza-correicao-extraordinaria-no-gabinete-do-desembargador-newton-ramos
+kind: event
+title: CNJ realiza correição extraordinária no gabinete do desembargador Newton Ramos, no TRF-1, segundo a imprensa
+event_type: investigation_step
+date: '2026-09-24'
+date_precision: day
+participant_ids:
+- conselho-nacional-de-justica
+- benedito-goncalves
+- newton-ramos
+- tribunal-regional-federal-da-1a-regiao
+- policia-federal
+description: >-
+  Em 24/09/2026 (quinta-feira), segundo a Agência Brasil, o Times Brasil e A Crítica, foi realizada diligência no
+  gabinete do desembargador Newton Ramos, no TRF-1, determinada pelo corregedor nacional de Justiça, ministro
+  Benedito Gonçalves, e cumprida pela Polícia Federal, com extração de dados de equipamentos eletrônicos e
+  arquivos (A Crítica), no âmbito de correição extraordinária (Times Brasil e A Crítica) para levantar
+  informações sobre processos do setor sucroalcooleiro. Não há notícia oficial do CNJ sobre a diligência;
+  "operação" e "buscas" são termos dos veículos. Segundo o Metrópoles, decisão do corregedor assinada em
+  22/09/2026 instaurou sindicância contra o desembargador a partir de reclamação disciplinar de um advogado,
+  para apurar sua atuação em processos de precatórios do setor sucroalcooleiro e possíveis interesses do Banco
+  Master (prazo inicial de 60 dias, prorrogável; 10 dias para defesa prévia); a decisão e o número da sindicância não
+  foram localizados. Newton Ramos continua no cargo.
+evidence_class: C
+status: unverified
+evidence_ids:
+- ev-cnj-correicao-extraordinaria-no-gabinete-de-newton-ramos-em-24-09
+- ev-cnj-sindicancia-contra-newton-ramos-segundo-o-metropoles
+source_ids:
+- src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
+- src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+- src-acritica-2026-09-24-pf-faz-buscas-em-gabinete-de-desembargador-do-trf-1-citado-em-investigacao-do-banco-master
+- src-metropoles-2026-09-24-cnj-abre-sindicancia-contra-desembargador-newton-ramos
+document_ids: []
+cited_position:
+- by_id: newton-ramos
+  kind: public_note
+  date: '2026-09-24'
+  summary: >-
+    Em nota, segundo a Agência Brasil, disse que continua no cargo e considera "natural e regular" o
+    procedimento de correição do CNJ; segundo o Times Brasil, disse confiar no trabalho da Corregedoria e estar à
+    disposição para esclarecimentos.
+  source_ids:
+  - src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
+  - src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+- by_id: tribunal-regional-federal-da-1a-regiao
+  kind: public_note
+  date: '2026-09-24'
+  summary: >-
+    Em nota, segundo o Times Brasil, o tribunal determinou "integral colaboração" com as autoridades da correição
+    e ressaltou que o procedimento não representa antecipação de responsabilidade, devendo ser preservados a
+    presunção de inocência e o direito de defesa; segundo A Crítica, a nota é da presidente do TRF-1,
+    desembargadora federal Maria do Carmo Cardoso.
+  source_ids:
+  - src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+  - src-acritica-2026-09-24-pf-faz-buscas-em-gabinete-de-desembargador-do-trf-1-citado-em-investigacao-do-banco-master
+- by_id: conselho-nacional-de-justica
+  kind: public_note
+  date: '2026-09-24'
+  summary: >-
+    Segundo o Metrópoles, em paráfrase do veículo, o CNJ afirma que ainda não foi comprovada eventual relação
+    entre o crédito analisado por Newton Ramos e o Banco Master, nem a participação do escritório da mulher dele
+    no processo.
+  source_ids:
+  - src-metropoles-2026-09-24-cnj-abre-sindicancia-contra-desembargador-newton-ramos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

@@ -3,23 +3,48 @@ kind: organization
 name: TRF-1
 aliases: []
 org_type: court
-summary: Tribunal Regional Federal da 1ª Região. Em 28/11/2025 a desembargadora Solange Salgado substituiu
-  a prisão preventiva de Vorcaro e de executivos do Master por medidas cautelares.
-why_in_novelo: Concedeu o habeas corpus que soltou Daniel Vorcaro após a primeira prisão, em novembro
-  de 2025.
+summary: >-
+  Tribunal Regional Federal da 1ª Região. Em 28/11/2025 a desembargadora Solange Salgado substituiu
+  a prisão preventiva de Vorcaro e de executivos do Master por medidas cautelares. É o requerido no Pedido de
+  Providências 0007917-89.2026.2.00.0000, da AGU, no CNJ: em 22/09/2026 o corregedor nacional suspendeu decisões
+  da Presidência do tribunal nas SLS 1010037-93.2026.4.01.0000, 1010048-25.2026.4.01.0000 e
+  1010055-17.2026.4.01.0000, que haviam sustado o cancelamento de 16 precatórios de usinas sucroalcooleiras, e
+  determinou o cancelamento e a restituição dos valores (R$ 4.738.065.026,73); em 28/09/2026 estendeu a medida a
+  14 requisições (R$ 1.877.143.674,66 nas datas-base), após decisão de 23/09/2026 da Presidência do TRF-1 na SLS
+  1010050-92.2026.4.01.0000. As decisões do CNJ não mencionam o Banco Master. Em 24/09/2026, segundo a Agência
+  Brasil, o Times Brasil e A Crítica, o gabinete do desembargador federal Newton Ramos foi objeto de correição
+  extraordinária do CNJ; em nota, o tribunal informou que colabora com o CNJ e que o procedimento não antecipa
+  responsabilidade.
+why_in_novelo: Tribunal em que uma desembargadora substituiu a prisão de Vorcaro em 28/11/2025 e cujas decisões da Presidência sobre precatórios de usinas sucroalcooleiras foram suspensas pela Corregedoria Nacional de Justiça em 22/09/2026.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+- kind: public_note
+  by_id: tribunal-regional-federal-da-1a-regiao
+  date: '2026-09-24'
+  summary: >-
+    Sobre a correição no gabinete de Newton Ramos, o tribunal informou em nota, segundo o Times Brasil, ter
+    determinado "integral colaboração" com as autoridades responsáveis e que o procedimento não representa
+    antecipação de responsabilidade, devendo ser preservados a presunção de inocência e o direito de defesa;
+    segundo A Crítica, a nota é da presidente, desembargadora federal Maria do Carmo Cardoso. Nenhuma
+    manifestação do tribunal sobre as decisões do CNJ relativas aos precatórios foi localizada.
+  source_ids:
+  - src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+  - src-acritica-2026-09-24-pf-faz-buscas-em-gabinete-de-desembargador-do-trf-1-citado-em-investigacao-do-banco-master
+open_questions:
+- Cumprimento, pela Presidência do TRF-1 e pela COREJ, das determinações do CNJ de 22 e 28/09/2026 (cancelamento, restituição e informações sobre o levantamento de R$ 16.129.427,04 de 31/07/2026) não verificado.
 source_ids:
 - src-migalhas-2025-11-28-trf1-solta-vorcaro
+- src-cnj-2026-09-22-decisao-do-corregedor-pp-0007917-89-cautelar-pjecnj
+- src-cnj-2026-09-28-decisao-do-corregedor-pp-0007917-89-aditamento-pjecnj
+- src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+- src-acritica-2026-09-24-pf-faz-buscas-em-gabinete-de-desembargador-do-trf-1-citado-em-investigacao-do-banco-master
+- src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
 full_name: Tribunal Regional Federal da 1ª Região
 jurisdiction: Brasil
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/tribunal-regional-federal-da-1a-regiao.png
   source: Wikimedia Commons

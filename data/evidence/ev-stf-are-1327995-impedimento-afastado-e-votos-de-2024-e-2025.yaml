@@ -1,0 +1,26 @@
+id: ev-stf-are-1327995-impedimento-afastado-e-votos-de-2024-e-2025
+kind: evidence
+classification: D
+proposition: >-
+  No ARE 1.327.995 (União x Destilaria Alcidia S.A.), relator Edson Fachin, o portal do STF registra que a 2ª
+  Turma suspendeu o julgamento do agravo regimental em 21/02/2024 por empate, com o registro "Impedido o
+  Ministro Nunes Marques"; que em 07/03/2024 Nunes Marques despachou afastando o impedimento lançado no sistema;
+  que em 17/09/2024 ele pediu vista; que em 01/10/2024 a Turma negou provimento ao agravo da União, por maioria,
+  vencidos André Mendonça e Gilmar Mendes; e que em 03/06/2025 rejeitou os embargos da União, por maioria,
+  vencidos Gilmar Mendes e André Mendonça, com trânsito em julgado em 10/10/2025.
+document_ids:
+- doc-2026-10-16-stf-andamentos-do-are-1327995-uniao-x-destilaria-alcidia
+source_ids:
+- src-stf-2026-10-16-andamentos-do-are-1327995
+excerpt: Afasto o impedimento lançado no sistema, declarando-me habilitado a votar.
+locator: Andamento de 07/03/2024 (despacho)
+date: '2024-03-07'
+notes: >-
+  O portal não nomeia os ministros que formaram a maioria e não menciona o Banco Master. O andamento é compatível
+  com a descrição feita pelo próprio ministro em sua nota de 21/09/2026 (impedimento por anotação da Secretaria,
+  depois retificado). É processo distinto do ARE 1.312.127.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

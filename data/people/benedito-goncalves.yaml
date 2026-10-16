@@ -2,20 +2,28 @@ id: benedito-goncalves
 kind: person
 name: Benedito Gonçalves
 category: judge
-role: Ministro do Superior Tribunal de Justiça
-positions: []
-summary: 'Ministro do STJ. Segundo o Poder360, com base em documentos encaminhados pela PF à CPMI do INSS,
-  participou da degustação de uísque no George Club, em Londres, em 25/04/2024, evento pago por Vorcaro
-  durante fórum patrocinado pelo Banco Master. NOVO (19/09/2026): mensagens do celular de Vorcaro,
-  publicadas em 18/09/2026, mostram proximidade pessoal entre os dois — em 17/05/2024, Benedito escreveu
-  "Boa noite feliz em rever o amigo. Festa bonita! Parabéns!"; em 02/07/2024, ao ser chamado por Vorcaro
-  de "grande amigo" e convidado para um encontro em Brasília, respondeu "E aqui sempre à disposição",
-  com emoji "Tamo junto sempre". No primeiro semestre de 2026, declarou-se impedido de julgar causas do
-  Banco Master no STJ — sem que a reportagem detalhe data exata ou teor da declaração.'
-why_in_novelo: É listado pela imprensa, com base em documentos enviados pela PF à CPMI do INSS, entre
-  os participantes de evento em Londres pago por Daniel Vorcaro — e mensagens do celular do banqueiro
-  mostram proximidade pessoal declarada entre os dois, ao ponto de o ministro se declarar impedido de
-  julgar causas do Master no STJ.
+role: Ministro do Superior Tribunal de Justiça; Corregedor Nacional de Justiça
+positions:
+- title: Corregedor Nacional de Justiça
+  organization_id: conselho-nacional-de-justica
+  source_ids:
+  - src-cnj-2026-09-23-corregedoria-nacional-determina-cancelamento-de-precatorios-emitidos-pelo-trf-1
+  - src-cnj-2026-09-28-corregedoria-amplia-medida-sobre-precatorios-do-trf-1-e-determina-devolucao-de-r-1-8-bilhao
+summary: >-
+  Ministro do STJ e Corregedor Nacional de Justiça. Segundo o Poder360, com base em documentos encaminhados pela
+  PF à CPMI do INSS, participou da degustação de uísque no George Club, em Londres, em 25/04/2024, evento pago por
+  Vorcaro durante fórum patrocinado pelo Banco Master. Segundo o Jornal de Brasília (18/09/2026), mensagens do
+  celular de Vorcaro registram trocas cordiais entre os dois em maio e julho de 2024. Segundo o Estadão Conteúdo
+  (republicado pelo Money Times em 07/04/2026), apresentou pelo sistema eletrônico do STJ declaração de
+  impedimento para julgar processos relacionados ao Master, e o tribunal juntou certidão de impedimento aos
+  processos do banco em 31/03/2026, inclusive em recurso do Master sobre precatórios do setor sucroalcooleiro.
+  Como corregedor nacional, assinou em 22/09/2026 a cautelar no PP 0007917-89.2026.2.00.0000 que mandou cancelar
+  16 precatórios expedidos no âmbito do TRF-1 (R$ 4.738.065.026,73) e, em 28/09/2026, o aditamento que estendeu
+  a medida a 14 requisições (R$ 1.877.143.674,66 nas datas-base); as duas decisões não
+  mencionam o Banco Master nem Vorcaro e aguardam referendo do Plenário do CNJ. Segundo a Agência Brasil, o Times
+  Brasil e A Crítica, determinou a correição extraordinária realizada em 24/09/2026 no gabinete do desembargador
+  Newton Ramos, no TRF-1.
+why_in_novelo: Ministro do STJ e Corregedor Nacional de Justiça que assinou em 22 e 28/09/2026 as decisões do CNJ sobre precatórios do TRF-1 e que, segundo a imprensa, esteve em evento em Londres pago por Vorcaro em 2024 e declarou-se impedido em processos do Master no STJ.
 cited_position:
 - kind: no_response
   summary: Procurado pela reportagem via assessorias do STJ e do CNJ, por WhatsApp, às 13h15 de
@@ -23,17 +31,40 @@ cited_position:
   source_ids:
   - src-jornaldebrasilia-2026-09-18-benedito-goncalves-mensagens-vorcaro
   date: '2026-09-15'
+- kind: no_response
+  by_id: benedito-goncalves
+  date: '2026-04-07'
+  summary: Procurado pelo Estadão sobre a declaração de impedimento no STJ, não retornou aos contatos, segundo o Estadão Conteúdo.
+  source_ids:
+  - src-moneytimes-2026-04-07-ministro-do-stj-que-foi-a-evento-pago-pelo-master-se-declara-impedido-em-casos-do-banco
+- kind: not_located
+  by_id: benedito-goncalves
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma manifestação dele ou do CNJ sobre a compatibilidade entre o impedimento declarado no STJ e as decisões
+    tomadas como corregedor foi localizada (notícias oficiais do CNJ de 23 e 28/09, Agência Brasil, SBT News,
+    Poder360 e Times Brasil lidos em 16/10/2026); o Times Brasil de 26/09 não registra tentativa de contato.
+  source_ids:
+  - src-cnj-2026-09-23-corregedoria-nacional-determina-cancelamento-de-precatorios-emitidos-pelo-trf-1
+  - src-timesbrasil-2026-09-26-indicado-por-lula-ministro-do-stj-atuou-em-caso-do-banco-master-mesmo-apos-declarar-impedimento
 open_questions:
-- Data exata e teor da declaração de impedimento no STJ, referida apenas como "no primeiro semestre de
-  2026", não apurados.
+- Segundo o Estadão Conteúdo (Money Times, 07/04/2026), o STJ juntou certidão de impedimento em 31/03/2026, inclusive em recurso do Master sobre precatórios do setor sucroalcooleiro; o sistema do STJ não foi consultado diretamente e a data da declaração não está confirmada.
+- O Times Brasil (26/09/2026), citando coluna de Lauro Jardim (O Globo), relaciona o impedimento declarado no STJ às decisões tomadas como corregedor nacional; as decisões do CNJ de 22 e 28/09 não mencionam o Master, e o Novelo não localizou posição do ministro sobre o ponto.
 source_ids:
 - src-poder360-2026-03-10-degustacao-londres
 - src-jornaldebrasilia-2026-09-18-benedito-goncalves-mensagens-vorcaro
+- src-cnj-2026-09-23-corregedoria-nacional-determina-cancelamento-de-precatorios-emitidos-pelo-trf-1
+- src-cnj-2026-09-22-decisao-do-corregedor-pp-0007917-89-cautelar-pjecnj
+- src-cnj-2026-09-28-corregedoria-amplia-medida-sobre-precatorios-do-trf-1-e-determina-devolucao-de-r-1-8-bilhao
+- src-cnj-2026-09-28-decisao-do-corregedor-pp-0007917-89-aditamento-pjecnj
+- src-moneytimes-2026-04-07-ministro-do-stj-que-foi-a-evento-pago-pelo-master-se-declara-impedido-em-casos-do-banco
+- src-timesbrasil-2026-09-26-indicado-por-lula-ministro-do-stj-atuou-em-caso-do-banco-master-mesmo-apos-declarar-impedimento
+- src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-19'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-19'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/benedito-goncalves.jpg
   source: Wikimedia Commons

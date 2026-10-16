@@ -1,0 +1,39 @@
+id: src-cnj-2026-09-28-decisao-do-corregedor-pp-0007917-89-aditamento-pjecnj
+kind: source
+title: Decisão — PP 0007917-89.2026.2.00.0000, Num. 6779874, 28/09/2026 08:41
+publisher: Conselho Nacional de Justiça (PJe)
+author: Ministro Benedito Gonçalves, Corregedor Nacional de Justiça
+publication_date: '2026-09-28'
+url: https://www.cnj.jus.br/pjecnj/Processo/ConsultaDocumento/listView.seam?x=26092808414560900000006199529
+source_type: official_court
+language: pt-BR
+summary: >-
+  Decisão integral (5 páginas, mais capa do PJe) que defere pedido de aditamento da União e estende a cautelar
+  de Id 6777898 aos Cumprimentos de Sentença 0017910-79.2008.4.01.3400 (Companhia Agroindustrial Santa
+  Helena), 0017882-14.2008.4.01.3400 (Agrovale Companhia Agroindustrial Vale do Curu S/A) e
+  0017886-51.2008.4.01.3400 (Borborema Agro Industrial Ltda.): cancelamento em cinco dias de 14 requisições
+  (R$ 1.877.143.674,66 nas datas-base, valores depositados em 26/12/2023), restituição com rendimentos,
+  vedação de levantamentos e de novas requisições sem trânsito em julgado e informações em cinco dias. Registra
+  que a Santa Helena se manifestou contra o pedido (Id 6779871), alegando preclusão, e rejeita a alegação;
+  afirma que a decisão "não examina a existência ou a extensão do crédito". Não menciona o Banco Master nem
+  Daniel Vorcaro.
+notes: >-
+  O "fato novo" apontado pela União é uma decisão de 23/09/2026 da Presidência do TRF-1 na SLS
+  1010050-92.2026.4.01.0000 (reconsideração de liminar quanto à Santa Helena), e não a cautelar do corregedor,
+  que esta decisão cita como "decisão de Id 6777898".
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+  notes: >-
+    Aberto no PJe: "A assinatura é válida para o documento". Texto extraído da cópia em PDF hospedada pelo
+    Poder360 (https://static.poder360.com.br/uploads/2026/09/Decisao-1.pdf, sha256
+    15d2d4ec3d1460165826381dcb72f47ba84dc6fa8845c044c91be6e5ecbed972), cujo rodapé traz o número do documento
+    26092808414560900000006199529; busca por "Master" e "Vorcaro" sem resultado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

@@ -46,6 +46,9 @@ summary: Ministro do STF. Em 11/03/2026, no mesmo dia em que recebeu por distrib
   voluntariamente o caso para redistribuição (ver evt-2026-02-12-reuniao-fechada-dez-ministros-relatorio-pf-toffoli).
   A CNN Brasil, ao reproduzir os diálogos atribuídos aos ministros, registrou não ter podido verificar sua
   autenticidade; já a nota oficial de apoio está corroborada de forma independente por mais de uma apuração.
+  No ARE 1.312.127 (União x Raízen Energia S.A. e outras), sobre indenizações a usinas sucroalcooleiras,
+  acompanhou o relator, Gilmar Mendes, na indicação de afetação do julgamento ao Plenário na sessão virtual da 2ª
+  Turma de 25/09 a 02/10/2026, segundo os andamentos oficiais do STF.
 why_in_novelo: Foi o primeiro relator do caso Master no STF (Rcl 88.121 e INQ 5.026) até 12/02/2026 e declarou-se
   impedido no MS 40.791, sobre a CPI do Master, em 11/03/2026.
 cited_position:
@@ -147,11 +150,12 @@ source_ids:
 - src-stf-rcl88121-decisao-liminar-09-12-2025
 - src-stf-rcl88121-decisao-12-12-2025-quebras-cpmi-acauteladas-senado
 - src-stf-rcl88121-decisao-final-22-12-2025
+- src-stf-2026-10-16-andamentos-do-are-1312127
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-14'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-14'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/dias-toffoli.jpg
   source: Wikimedia Commons

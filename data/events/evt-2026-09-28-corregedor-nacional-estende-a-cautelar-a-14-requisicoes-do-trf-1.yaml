@@ -1,0 +1,56 @@
+id: evt-2026-09-28-corregedor-nacional-estende-a-cautelar-a-14-requisicoes-do-trf-1
+kind: event
+title: Corregedor Nacional estende a cautelar a mais 14 requisições de precatórios do TRF-1 (R$ 1,88 bi nas datas-base)
+event_type: judicial_decision
+date: '2026-09-28'
+date_precision: day
+participant_ids:
+- benedito-goncalves
+- conselho-nacional-de-justica
+- advocacia-geral-da-uniao
+- tribunal-regional-federal-da-1a-regiao
+description: >-
+  Em 28/09/2026 (assinatura às 08h41), no PP 0007917-89.2026.2.00.0000, o corregedor nacional deferiu pedido de
+  aditamento da União e estendeu a cautelar de 22/09 aos Cumprimentos de Sentença 0017910-79.2008.4.01.3400,
+  0017882-14.2008.4.01.3400 e 0017886-51.2008.4.01.3400, que têm como partes a Companhia Agroindustrial Santa
+  Helena, a Agrovale Companhia Agroindustrial Vale do Curu S/A e a Borborema Agro Industrial Ltda., derivados do
+  mesmo título. Determinou o cancelamento em cinco dias de 14 requisições (R$ 1.877.143.674,66 nas datas-base,
+  depositados em 26/12/2023) e a restituição com rendimentos, vedou levantamentos e novas requisições sem
+  trânsito em julgado e pediu informações em cinco dias. O fato novo apontado pela União foi decisão de
+  23/09/2026 da Presidência do TRF-1 na SLS 1010050-92.2026.4.01.0000. A Santa Helena manifestou-se nos autos
+  contra o aditamento, alegando preclusão; a decisão rejeitou a alegação e registra que não examina a
+  existência ou a extensão do crédito. A decisão e a notícia oficial do CNJ não mencionam o Banco Master nem
+  Daniel Vorcaro, e nenhuma fonte aberta liga estas três empresas ao Master.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-cnj-aditamento-de-28-09-cancelamento-de-14-requisicoes
+- ev-decisao-do-cnj-de-22-09-nao-menciona-o-master-nem-vorcaro
+source_ids:
+- src-cnj-2026-09-28-corregedoria-amplia-medida-sobre-precatorios-do-trf-1-e-determina-devolucao-de-r-1-8-bilhao
+- src-cnj-2026-09-28-decisao-do-corregedor-pp-0007917-89-aditamento-pjecnj
+document_ids:
+- doc-2026-09-28-cnj-decisao-do-corregedor-aditamento-no-pp-0007917-89
+cited_position:
+- by: Companhia Agroindustrial Santa Helena (sem verbete)
+  kind: version
+  date: '2026-09-28'
+  summary: >-
+    Segundo a decisão, manifestou-se nos autos (Id 6779871) contra o aditamento, sustentando que a decisão de
+    21/03/2022 resolveu a impugnação da União, que o agravo contra ela não foi conhecido e que houve preclusão; a
+    alegação foi rejeitada.
+  source_ids:
+  - src-cnj-2026-09-28-decisao-do-corregedor-pp-0007917-89-aditamento-pjecnj
+- by: Agrovale e Borborema (sem verbete)
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    A decisão faculta manifestação das beneficiárias em 15 dias; nenhuma manifestação delas foi localizada nas
+    fontes lidas.
+  source_ids:
+  - src-cnj-2026-09-28-decisao-do-corregedor-pp-0007917-89-aditamento-pjecnj
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

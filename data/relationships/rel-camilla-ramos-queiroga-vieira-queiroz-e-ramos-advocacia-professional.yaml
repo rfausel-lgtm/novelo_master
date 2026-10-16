@@ -1,0 +1,29 @@
+id: rel-camilla-ramos-queiroga-vieira-queiroz-e-ramos-advocacia-professional
+kind: relationship
+from_id: camilla-ramos
+to_id: queiroga-vieira-queiroz-e-ramos-advocacia
+relationship_type: professional
+directed: false
+label: sócia do escritório, segundo a Agência Brasil e o Times Brasil
+description: >-
+  A Agência Brasil (24/09/2026) descreve o escritório como "que tem Camila Ramos como sócia", e o Times Brasil
+  (24/09/2026) como escritório "do qual Camilla Ramos, esposa de Newton, é sócia"; o Metrópoles (21/09) o chama de
+  escritório da mulher do desembargador e diz que o contrato prevê a prestação de serviços por ela. O quadro
+  societário não foi consultado na Receita Federal.
+evidence_class: A
+confidence: 0.6
+status: unverified
+event_ids:
+- evt-2026-09-21-metropoles-publica-contrato-de-honorarios-do-master-e-mensagens-sobre-a-turma-do-kn
+evidence_ids:
+- ev-contrato-de-honorarios-do-master-com-o-escritorio-de-camilla-ramos-existe
+source_ids:
+- src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
+- src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+- src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+document_ids: []
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

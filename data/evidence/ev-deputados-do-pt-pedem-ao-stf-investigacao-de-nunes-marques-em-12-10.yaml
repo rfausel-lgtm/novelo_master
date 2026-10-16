@@ -1,0 +1,26 @@
+id: ev-deputados-do-pt-pedem-ao-stf-investigacao-de-nunes-marques-em-12-10
+kind: evidence
+classification: A
+proposition: >-
+  Segundo o Poder360 e o Times Brasil (12/10/2026), os deputados federais Rui Falcão (PT-SP) e Rogério Correia
+  (PT-MG) apresentaram ao STF notícia de fato pedindo a investigação do ministro Nunes Marques, presidente do TSE,
+  por possíveis vínculos com o Banco Master, o envio dos fatos à PGR e a análise pelo Plenário ou por ministro sem
+  impedimento ou suspeição; a petição cita o contrato de honorários do escritório de Camilla Ramos, a expressão
+  "Turma do KN" e o julgamento da Destilaria Alcídia, e enquadra os fatos em tipos penais que são formulação dos
+  autores.
+attributed_to: Poder360 e Times Brasil (este, com base na coluna de Mônica Bergamo, da Folha de S.Paulo)
+document_ids: []
+source_ids:
+- src-poder360-2026-10-12-deputados-do-pt-pedem-ao-stf-investigacao-de-nunes-marques
+- src-timesbrasil-2026-10-12-deputados-pedem-investigacao-de-nunes-marques-por-possiveis-vinculos-com-master
+date: '2026-10-12'
+notes: >-
+  Classe A, e não C: o Times Brasil informa que suas informações vêm da coluna de Mônica Bergamo (Folha), e o
+  Poder360 não indica a origem, de modo que a independência entre as duas não está demonstrada. Número e
+  distribuição da petição não localizados; a petição não foi vista. O Poder360 registra que "as suspeitas
+  apresentadas pelos deputados dependem de apuração".
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

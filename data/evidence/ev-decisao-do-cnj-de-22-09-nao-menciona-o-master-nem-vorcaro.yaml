@@ -1,0 +1,25 @@
+id: ev-decisao-do-cnj-de-22-09-nao-menciona-o-master-nem-vorcaro
+kind: evidence
+classification: D
+proposition: >-
+  O texto integral da decisão do corregedor nacional de 22/09/2026 no PP 0007917-89.2026.2.00.0000, a decisão de
+  aditamento de 28/09/2026 e as notícias oficiais do CNJ de 23 e 28/09/2026 não contêm as palavras "Master" nem
+  "Vorcaro".
+document_ids:
+- doc-2026-09-22-cnj-decisao-do-corregedor-cautelar-no-pp-0007917-89
+- doc-2026-09-28-cnj-decisao-do-corregedor-aditamento-no-pp-0007917-89
+source_ids:
+- src-cnj-2026-09-23-corregedoria-nacional-determina-cancelamento-de-precatorios-emitidos-pelo-trf-1
+- src-cnj-2026-09-22-decisao-do-corregedor-pp-0007917-89-cautelar-pjecnj
+- src-cnj-2026-09-28-corregedoria-amplia-medida-sobre-precatorios-do-trf-1-e-determina-devolucao-de-r-1-8-bilhao
+- src-cnj-2026-09-28-decisao-do-corregedor-pp-0007917-89-aditamento-pjecnj
+date: '2026-09-22'
+notes: >-
+  Verificação por busca no texto integral das duas decisões (cópias em PDF) e das duas notícias oficiais, feita
+  em 16/10/2026. É uma negativa documental: registra o que os documentos não dizem; a ligação dos precatórios ao
+  Master é da imprensa (ver evidência própria).
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

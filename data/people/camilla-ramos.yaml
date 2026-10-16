@@ -1,0 +1,54 @@
+id: camilla-ramos
+kind: person
+name: Camilla Ramos
+aliases:
+- Camilla Ewerton Ramos
+- Camila Ramos
+category: lawyer
+role: Advogada; sócia do escritório Queiroga, Vieira, Queiroz & Ramos Advocacia, segundo a Agência Brasil e o Times Brasil
+positions: []
+summary: >-
+  Advogada. A Agência Brasil e o Times Brasil a descrevem como sócia do escritório Queiroga, Vieira, Queiroz &
+  Ramos Advocacia, que, segundo o Metrópoles e a CNN Brasil, firmou com o Banco Master contrato de honorários de
+  êxito de 5% em 12 ações do setor sucroalcooleiro; segundo o Metrópoles, o contrato prevê a prestação de
+  serviços por ela. Em nota de 21/09/2026, o desembargador federal Newton Ramos (TRF-1), que se declarou casado
+  com ela, afirmou que ela "atua em causas cíveis para o Banco Master". O escritório declarou ter o contrato em
+  nota de 23/09/2026 e disse nunca ter recebido pagamento. Segundo o Metrópoles e a CNN Brasil, mensagens de
+  assessores de Vorcaro referem-se a ela e ao marido como "Turma do KN"; a leitura da sigla como referência ao
+  ministro Nunes Marques é da imprensa e não está demonstrada por documento acessível ao Novelo.
+why_in_novelo: Sócia, segundo a imprensa, do escritório que, segundo o Metrópoles e a CNN Brasil, firmou com o Banco Master contrato de honorários de êxito em ações de precatórios; o escritório declara ter o contrato e diz não ter recebido pagamento.
+cited_position:
+- kind: clarification
+  by: Queiroga, Vieira, Queiroz & Ramos Advocacia (escritório)
+  date: '2026-09-23'
+  summary: >-
+    Nota do escritório, não dela individualmente: contrato formal com o Master para atuar em processos de
+    precatórios, taxa de êxito de 5% e nenhum pagamento recebido "a título de pró-labore ou de êxito", segundo a
+    Agência Brasil.
+  source_ids:
+  - src-agenciabrasil-2026-09-23-cnj-cancela-r-4-7-bilhoes-em-precatorios-ligados-ao-master
+  - src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
+- kind: no_response
+  by_id: camilla-ramos
+  date: '2026-09-22'
+  summary: >-
+    O Poder360 informou em 22/09/2026 que buscava contato com a assessoria de Camila Ramos e de Newton Ramos,
+    sem retorno até a publicação; nenhuma manifestação individual dela foi localizada até 16/10/2026.
+  source_ids:
+  - src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
+open_questions:
+- Grafia do nome completo ("Camilla Ewerton Ramos" no Poder360 e no Times Brasil de 12/10/2026) não conferida em registro da OAB ou da Receita Federal.
+- Papel individual no contrato descrito apenas pelo Metrópoles (prestação de serviços por ela); o documento não é público.
+source_ids:
+- src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+- src-cnnbrasil-2026-09-21-turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens
+- src-agenciabrasil-2026-09-23-cnj-cancela-r-4-7-bilhoes-em-precatorios-ligados-ao-master
+- src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
+- src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+- src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
+- src-poder360-2026-10-12-deputados-do-pt-pedem-ao-stf-investigacao-de-nunes-marques
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

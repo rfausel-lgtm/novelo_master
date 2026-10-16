@@ -1,0 +1,28 @@
+id: ev-nunes-marques-nega-vinculos-com-vorcaro-e-o-master-nota-de-21-09
+kind: evidence
+classification: A
+proposition: >-
+  Em nota publicada pelo Metrópoles em 21/09/2026, o ministro Kassio Nunes Marques afirmou que "nunca votou a favor
+  de Daniel Vorcaro ou do Banco Master, nunca trocou mensagens com o banqueiro e nem pediu nada a ele" e "nunca
+  autorizou ninguém a falar em nome dele"; sobre o processo da usina, que "estava impedido por anotação da
+  Secretaria porque decidiu o caso como vice-presidente do TRF-1", que depois entendeu não estar impedido "por se
+  tratar de tese ampla", pediu retificação e votou, e que "não se tratava de ação sobre o Master". À CNN Brasil,
+  classificou a divulgação das mensagens como "tentativa de criar narrativa para incriminá-lo".
+attributed_to_id: nunes-marques
+document_ids: []
+source_ids:
+- src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+- src-cnnbrasil-2026-09-21-turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens
+- src-agenciabrasil-2026-09-23-cnj-cancela-r-4-7-bilhoes-em-precatorios-ligados-ao-master
+- src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
+date: '2026-09-21'
+notes: >-
+  Trechos conferidos literalmente no Metrópoles e na CNN Brasil em 16/10/2026. A nota do gabinete reproduzida
+  pelo Poder360 (22/09) descreve o julgamento como "um caso específico e delimitado", com alcance "restrito
+  àquela causa em particular". Os andamentos oficiais do ARE 1.327.995 registram o impedimento lançado no
+  sistema em 21/02/2024 e o despacho que o afastou em 07/03/2024, compatíveis com a descrição da nota.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

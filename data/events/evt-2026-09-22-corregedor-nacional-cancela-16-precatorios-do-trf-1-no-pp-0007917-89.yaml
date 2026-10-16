@@ -1,0 +1,73 @@
+id: evt-2026-09-22-corregedor-nacional-cancela-16-precatorios-do-trf-1-no-pp-0007917-89
+kind: event
+title: Corregedor Nacional de Justiça manda cancelar 16 precatórios do TRF-1 (R$ 4,74 bi) em pedido de providências da AGU; a decisão não cita o Master
+event_type: judicial_decision
+date: '2026-09-22'
+date_precision: day
+participant_ids:
+- benedito-goncalves
+- conselho-nacional-de-justica
+- advocacia-geral-da-uniao
+- tribunal-regional-federal-da-1a-regiao
+description: >-
+  Em 22/09/2026 (assinatura eletrônica às 23h37; notícia oficial do CNJ em 23/09), o corregedor nacional de
+  Justiça, ministro Benedito Gonçalves, deferiu cautelar no Pedido de Providências nº 0007917-89.2026.2.00.0000
+  (requerente: AGU; requerido: TRF-1) para suspender os efeitos de decisões da Presidência do TRF-1 nas SLS
+  1010037-93.2026.4.01.0000, 1010048-25.2026.4.01.0000 e 1010055-17.2026.4.01.0000, restabelecer decisões de
+  10/09/2026 da 6ª Vara Federal Cível da SJDF e determinar o cancelamento, em cinco dias, de 16 precatórios
+  (R$ 4.738.065.026,73) das beneficiárias Companhia Açucareira Usina Capricho, Una Agroindustrial S/A e
+  Companhia Açucareira Vale do Ceará Mirim, com devolução dos valores à Conta Única do Tesouro Nacional e vedação
+  de levantamentos e de destaque de honorários até a restituição. Fundamento: precatórios expedidos antes do
+  trânsito em julgado da fase de execução e acórdão do Plenário do CNJ no PP 0003764-47.2025.2.00.0000. A
+  decisão registra levantamento de R$ 16.129.427,04 em 31/07/2026 na conta do Precatório 866/2022 e pede
+  informações sobre ele; afirma que a devolução não extingue nem reduz o crédito. A decisão e a notícia oficial
+  do CNJ não mencionam o Banco Master nem Daniel Vorcaro. Segundo o SBT News e o Times Brasil, as três
+  empresas constam de lista com o título "precatórios a receber" encontrada no celular de Vorcaro; o Novelo não
+  localizou essa lista. A medida foi submetida a referendo do Plenário do CNJ, que não está na pauta da 15ª
+  Sessão Virtual (08 a 16/10/2026).
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-cnj-cautelar-de-22-09-cancelamento-de-16-precatorios-do-trf-1
+- ev-decisao-do-cnj-de-22-09-nao-menciona-o-master-nem-vorcaro
+- ev-precatorios-lista-no-celular-de-vorcaro-segundo-a-imprensa
+source_ids:
+- src-cnj-2026-09-23-corregedoria-nacional-determina-cancelamento-de-precatorios-emitidos-pelo-trf-1
+- src-cnj-2026-09-22-decisao-do-corregedor-pp-0007917-89-cautelar-pjecnj
+- src-agenciabrasil-2026-09-23-cnj-cancela-r-4-7-bilhoes-em-precatorios-ligados-ao-master
+- src-sbtnews-2026-09-23-cnj-cancela-r-4-7-bilhoes-em-precatorios-ligados-ao-master
+- src-timesbrasil-2026-09-23-cnj-manda-cancelar-r-4-7-bilhoes-em-precatorios-ligados-ao-master-e-devolver-valores-ao-tesouro
+- src-cnj-2026-10-01-pauta-de-julgamentos-15a-sessao-do-plenario-virtual-de-2026
+document_ids:
+- doc-2026-09-22-cnj-decisao-do-corregedor-cautelar-no-pp-0007917-89
+cited_position:
+- by_id: advocacia-geral-da-uniao
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nota oficial da AGU sobre a decisão não localizada (segundo a investigação do lote, a página do gov.br/agu
+    exigiu autenticação na busca de 15/10/2026); a posição da União consta do pedido descrito na própria decisão.
+  source_ids:
+  - src-cnj-2026-09-22-decisao-do-corregedor-pp-0007917-89-cautelar-pjecnj
+- by_id: tribunal-regional-federal-da-1a-regiao
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma manifestação do TRF-1 sobre a cautelar foi localizada; a única nota do tribunal encontrada, de
+    24/09/2026, trata da correição no gabinete do desembargador Newton Ramos, não desta decisão.
+  source_ids:
+  - src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+  - src-acritica-2026-09-24-pf-faz-buscas-em-gabinete-de-desembargador-do-trf-1-citado-em-investigacao-do-banco-master
+- by: Beneficiárias dos precatórios (Usina Capricho, Una Agroindustrial e Vale do Ceará Mirim; sem verbete)
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    A decisão faculta manifestação das beneficiárias nos autos em 15 dias; nenhuma manifestação pública delas foi
+    localizada nas fontes lidas.
+  source_ids:
+  - src-cnj-2026-09-22-decisao-do-corregedor-pp-0007917-89-cautelar-pjecnj
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

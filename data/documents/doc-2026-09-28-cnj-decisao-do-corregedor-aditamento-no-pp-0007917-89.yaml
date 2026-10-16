@@ -1,0 +1,40 @@
+id: doc-2026-09-28-cnj-decisao-do-corregedor-aditamento-no-pp-0007917-89
+kind: document
+title: Decisão do Corregedor Nacional de Justiça (aditamento da cautelar) no Pedido de Providências nº 0007917-89.2026.2.00.0000, de 28/09/2026
+doc_type: judicial_decision
+date: '2026-09-28'
+date_precision: day
+issuer_id: benedito-goncalves
+reference: CNJ, PP 0007917-89.2026.2.00.0000, Num. 6779874 (documento 26092808414560900000006199529)
+url: https://www.cnj.jus.br/pjecnj/Processo/ConsultaDocumento/listView.seam?x=26092808414560900000006199529
+source_ids:
+- src-cnj-2026-09-28-decisao-do-corregedor-pp-0007917-89-aditamento-pjecnj
+- src-cnj-2026-09-28-corregedoria-amplia-medida-sobre-precatorios-do-trf-1-e-determina-devolucao-de-r-1-8-bilhao
+sha256: 15d2d4ec3d1460165826381dcb72f47ba84dc6fa8845c044c91be6e5ecbed972
+summary: >-
+  Decisão assinada eletronicamente em 28/09/2026, às 08h41, que defere o pedido de aditamento da União e
+  estende a cautelar de 22/09 (Id 6777898) aos Cumprimentos de Sentença 0017910-79.2008.4.01.3400 (Companhia
+  Agroindustrial Santa Helena), 0017882-14.2008.4.01.3400 (Agrovale Companhia Agroindustrial Vale do Curu S/A)
+  e 0017886-51.2008.4.01.3400 (Borborema Agro Industrial Ltda.), derivados do mesmo título. Determina o
+  cancelamento, em cinco dias, de 14 requisições (R$ 1.877.143.674,66 nas datas-base, depositados em
+  26/12/2023, na modalidade "Precatório com Alvará") e a restituição com rendimentos; veda levantamentos e a
+  expedição ou migração de novas requisições sem certidão de trânsito em julgado; pede informações sobre cada
+  requisição em cinco dias; faculta manifestação das beneficiárias em 15 dias; submete a decisão a referendo
+  junto com a de 22/09. Registra que a Santa Helena se manifestou contra o pedido (Id 6779871), alegando
+  preclusão, e rejeita a alegação. O fato novo apontado pela União é decisão de 23/09/2026 da Presidência do
+  TRF-1 na SLS 1010050-92.2026.4.01.0000. O texto não menciona o Banco Master nem Daniel Vorcaro. Hash da cópia
+  em PDF hospedada pelo Poder360, lida em 16/10/2026.
+excerpt: >-
+  "Esta decisão não examina a existência ou a extensão do crédito, nem o cabimento dos recursos interpostos nas
+  instâncias judiciais."
+is_official: true
+related_entity_ids:
+- benedito-goncalves
+- conselho-nacional-de-justica
+- advocacia-geral-da-uniao
+- tribunal-regional-federal-da-1a-regiao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

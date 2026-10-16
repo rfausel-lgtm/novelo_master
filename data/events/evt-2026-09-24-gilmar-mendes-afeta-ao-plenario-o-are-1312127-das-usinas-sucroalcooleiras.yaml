@@ -1,0 +1,53 @@
+id: evt-2026-09-24-gilmar-mendes-afeta-ao-plenario-o-are-1312127-das-usinas-sucroalcooleiras
+kind: event
+title: No ARE 1.312.127 (usinas sucroalcooleiras), Gilmar Mendes decide em 24/09 e indica a afetação do referendo ao Plenário; Fux pede vista em 02/10
+event_type: judicial_decision
+date: '2026-09-24'
+date_precision: day
+end_date: '2026-10-02'
+participant_ids:
+- gilmar-mendes
+- luiz-fux
+- dias-toffoli
+- advocacia-geral-da-uniao
+- supremo-tribunal-federal
+description: >-
+  No ARE 1.312.127 (recorrente União; recorridas Raízen Energia S.A. e outras), o portal do STF registra que o
+  relator, Gilmar Mendes, despachou e incluiu questão de ordem na lista da sessão virtual da 2ª Turma em
+  22/09/2026, proferiu decisão monocrática registrada como "Deferido" em 24/09/2026 e, na sessão virtual de 25/09
+  a 02/10/2026, indicou a afetação do julgamento ao Plenário, para referendo dessa decisão, acompanhado por Dias
+  Toffoli; Luiz Fux pediu vista em 02/10. O Poder360 (22/09) diz que a questão de ordem busca uniformizar as
+  regras de indenização das usinas pela União e liga o tema aos precatórios descritos nas mensagens do celular de
+  Vorcaro; o portal não menciona o Banco Master. Outro processo, o ARE 1.327.995 (União x Destilaria Alcidia
+  S.A., relator Edson Fachin), já transitado em julgado em 10/10/2025, registra o impedimento de Nunes Marques
+  lançado no sistema em 21/02/2024 e afastado por ele em 07/03/2024, e decisões da 2ª Turma de 01/10/2024 e
+  03/06/2025 contra a União, por maioria, vencidos André Mendonça e Gilmar Mendes; esses andamentos também não
+  mencionam o Master e são compatíveis com a descrição feita por Nunes Marques em nota de 21/09/2026.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-are-1312127-afetacao-ao-plenario-e-vista-de-fux
+- ev-stf-are-1327995-impedimento-afastado-e-votos-de-2024-e-2025
+source_ids:
+- src-stf-2026-10-16-andamentos-do-are-1312127
+- src-stf-2026-10-16-andamentos-do-are-1327995
+- src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
+document_ids:
+- doc-2026-10-16-stf-andamentos-do-are-1312127-uniao-x-raizen
+- doc-2026-10-16-stf-andamentos-do-are-1327995-uniao-x-destilaria-alcidia
+cited_position:
+- by_id: nunes-marques
+  kind: clarification
+  date: '2026-09-21'
+  summary: >-
+    Sobre o ARE 1.327.995, afirmou em nota ao Metrópoles que estava impedido "por anotação da Secretaria porque
+    decidiu o caso como vice-presidente do TRF-1", que depois entendeu não estar impedido, pediu retificação e
+    votou; na nota reproduzida pelo Poder360, descreve o julgamento como "um caso específico e delimitado".
+  source_ids:
+  - src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+  - src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

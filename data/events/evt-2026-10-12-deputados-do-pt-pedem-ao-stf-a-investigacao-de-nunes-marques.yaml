@@ -1,0 +1,43 @@
+id: evt-2026-10-12-deputados-do-pt-pedem-ao-stf-a-investigacao-de-nunes-marques
+kind: event
+title: Deputados do PT apresentam ao STF notícia de fato pedindo a investigação de Nunes Marques, segundo a imprensa
+event_type: public_act
+date: '2026-10-12'
+date_precision: day
+participant_ids:
+- nunes-marques
+- supremo-tribunal-federal
+description: >-
+  Em 12/10/2026, segundo o Poder360 e o Times Brasil (este com base na coluna de Mônica Bergamo, da Folha de
+  S.Paulo), os deputados federais Rui Falcão (PT-SP) e Rogério Correia (PT-MG) apresentaram ao STF notícia de fato
+  pedindo a investigação do ministro Nunes Marques, presidente do TSE, por possíveis vínculos com o grupo do Banco
+  Master, a remessa à PGR e a distribuição ao Plenário ou a ministro sem impedimento ou suspeição. Segundo os
+  veículos, a petição cita o contrato de honorários do escritório de Camilla Ramos, a expressão "Turma do KN" e o
+  julgamento da Destilaria Alcídia (ARE 1.327.995), e enquadra os fatos em tipos penais que são formulação dos
+  autores; o Poder360 registra que as suspeitas dependem de apuração. Número e distribuição da petição não
+  localizados.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-deputados-do-pt-pedem-ao-stf-investigacao-de-nunes-marques-em-12-10
+source_ids:
+- src-poder360-2026-10-12-deputados-do-pt-pedem-ao-stf-investigacao-de-nunes-marques
+- src-timesbrasil-2026-10-12-deputados-pedem-investigacao-de-nunes-marques-por-possiveis-vinculos-com-master
+document_ids:
+- doc-2026-10-16-stf-andamentos-do-are-1327995-uniao-x-destilaria-alcidia
+cited_position:
+- by_id: nunes-marques
+  kind: no_response
+  date: '2026-10-12'
+  summary: >-
+    Segundo o Times Brasil, não se manifestou sobre a nova representação quando procurado; o Poder360 e o Times
+    Brasil registram as negativas anteriores do ministro (não recebeu dinheiro de Vorcaro, não trocou mensagens com
+    ele, não autorizou terceiros a falar em seu nome).
+  source_ids:
+  - src-timesbrasil-2026-10-12-deputados-pedem-investigacao-de-nunes-marques-por-possiveis-vinculos-com-master
+  - src-poder360-2026-10-12-deputados-do-pt-pedem-ao-stf-investigacao-de-nunes-marques
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

@@ -1,0 +1,36 @@
+id: doc-2026-10-16-stf-andamentos-do-are-1312127-uniao-x-raizen
+kind: document
+title: Andamentos do ARE 1.312.127 (União x Raízen Energia S.A. e outras) no portal do STF, consulta de 16/10/2026
+doc_type: other
+date: '2026-10-16'
+date_precision: day
+issuer_id: supremo-tribunal-federal
+reference: STF, ARE 1.312.127 (0036430-14.2013.4.01.3400)
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=6114201
+source_ids:
+- src-stf-2026-10-16-andamentos-do-are-1312127
+summary: >-
+  Registro oficial dos andamentos do recurso, relator Gilmar Mendes. Em 16/09/2024, a 2ª Turma deu provimento,
+  por maioria, ao agravo regimental da União, vencidos Edson Fachin e Nunes Marques. Em 22/09/2026, despacho do
+  relator e inclusão de questão de ordem na lista da sessão virtual da 2ª Turma de 25/09 a 02/10/2026; em
+  24/09/2026, decisão monocrática registrada como "Deferido", sem descrição; na sessão virtual, o relator indicou
+  a afetação do julgamento ao Plenário, para referendo da decisão de 24/09, acompanhado por Dias Toffoli, e Luiz
+  Fux pediu vista (andamento de 02/10/2026). Não menciona o Banco Master. Inteiro teor da decisão de 24/09 não
+  aberto.
+excerpt: >-
+  "Após a indicação pelo Ministro Gilmar Mendes (Relator) de afetação do julgamento do feito ao Plenário, para
+  referendo da decisão monocrática exarada em 24.9.2026, no que foi acompanhado pelo Ministro Dias Toffoli,
+  pediu vista dos autos o Ministro Luiz Fux."
+is_official: true
+related_entity_ids:
+- gilmar-mendes
+- luiz-fux
+- dias-toffoli
+- edson-fachin
+- nunes-marques
+- advocacia-geral-da-uniao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

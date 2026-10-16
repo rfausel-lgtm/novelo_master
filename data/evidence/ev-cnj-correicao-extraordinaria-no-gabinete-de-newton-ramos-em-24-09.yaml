@@ -1,0 +1,25 @@
+id: ev-cnj-correicao-extraordinaria-no-gabinete-de-newton-ramos-em-24-09
+kind: evidence
+classification: C
+proposition: >-
+  Em 24/09/2026, segundo a Agência Brasil, o Times Brasil e A Crítica, foi realizada diligência no gabinete do
+  desembargador Newton Ramos, no TRF-1, determinada pelo corregedor nacional de Justiça e cumprida pela Polícia
+  Federal, com extração de dados de equipamentos eletrônicos (A Crítica), no âmbito de correição extraordinária
+  (Times Brasil e A Crítica); o TRF-1 informou em nota que colaborará com o CNJ e que o procedimento não
+  antecipa responsabilidade; Newton Ramos continua no cargo.
+document_ids: []
+source_ids:
+- src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
+- src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+- src-acritica-2026-09-24-pf-faz-buscas-em-gabinete-de-desembargador-do-trf-1-citado-em-investigacao-do-banco-master
+date: '2026-09-24'
+notes: >-
+  Não há notícia oficial do CNJ sobre a diligência. "Operação" e "buscas" são termos dos veículos; o Novelo usa
+  "correição extraordinária", termo do Times Brasil e de A Crítica (a Agência Brasil fala em "procedimento de
+  correição"). A nota do TRF-1 é conhecida por paráfrase dos veículos; o Times Brasil cita entre aspas apenas
+  "integral colaboração".
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

@@ -1,0 +1,42 @@
+id: doc-2026-09-22-cnj-decisao-do-corregedor-cautelar-no-pp-0007917-89
+kind: document
+title: Decisão do Corregedor Nacional de Justiça (cautelar) no Pedido de Providências nº 0007917-89.2026.2.00.0000, de 22/09/2026
+doc_type: judicial_decision
+date: '2026-09-22'
+date_precision: day
+issuer_id: benedito-goncalves
+reference: CNJ, PP 0007917-89.2026.2.00.0000, Num. 6777898 (documento 26092223375715800000006198038)
+url: https://www.cnj.jus.br/pjecnj/Processo/ConsultaDocumento/listView.seam?x=26092223375715800000006198038
+source_ids:
+- src-cnj-2026-09-22-decisao-do-corregedor-pp-0007917-89-cautelar-pjecnj
+- src-cnj-2026-09-23-corregedoria-nacional-determina-cancelamento-de-precatorios-emitidos-pelo-trf-1
+sha256: 4f5a50ed391b3215ccd4c2d3b2ab59706c25fa007cfd18585ea86a551c9f3432
+summary: >-
+  Decisão cautelar assinada eletronicamente pelo ministro Benedito Gonçalves em 22/09/2026, às 23h37, no PP
+  requerido pela União (AGU) contra o TRF-1. Suspende os efeitos das decisões da Presidência do TRF-1 nas SLS
+  1010037-93.2026.4.01.0000, 1010048-25.2026.4.01.0000 e 1010055-17.2026.4.01.0000; restabelece as decisões de
+  10/09/2026 da 6ª Vara Federal Cível da SJDF nos Cumprimentos de Sentença 0017912-49.2008.4.01.3400,
+  0022408-24.2008.4.01.3400 e 0017894-28.2008.4.01.3400; determina o cancelamento, em cinco dias, dos
+  Precatórios 866/2022 (Companhia Açucareira Usina Capricho), 729 a 732 e 870 a 875/2022 (Una Agroindustrial
+  S/A) e 125, 919, 920, 921 e 924/2022 (Companhia Açucareira Vale do Ceará Mirim), que somam
+  R$ 4.738.065.026,73, com restituição à Conta Única do Tesouro Nacional; veda levantamento, transferência,
+  alvará ou destaque de honorários até a restituição; pede informações, em cinco dias, sobre o levantamento de
+  R$ 16.129.427,04 em 31/07/2026 na conta do Precatório 866/2022; dá ciência às beneficiárias, facultada
+  manifestação em 15 dias; e inclui o feito em pauta para referendo do Plenário. Fundamenta-se no acórdão do
+  Plenário do CNJ no PP 0003764-47.2025.2.00.0000 (rel. Mauro Campbell Marques, 05/08/2025). O texto não
+  menciona o Banco Master nem Daniel Vorcaro. Hash da cópia em PDF hospedada pelo Poder360, lida em 16/10/2026.
+excerpt: >-
+  "Mais de um ano depois da ordem de cancelamento, esses requisitórios continuam registrados como precatórios
+  bloqueados, com R$ 4,7 bilhões mantidos em contas judiciais." / "A devolução não extingue nem reduz o
+  crédito, que seguirá em discussão nas vias próprias."
+is_official: true
+related_entity_ids:
+- benedito-goncalves
+- conselho-nacional-de-justica
+- advocacia-geral-da-uniao
+- tribunal-regional-federal-da-1a-regiao
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

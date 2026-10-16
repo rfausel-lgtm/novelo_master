@@ -16,11 +16,14 @@ summary: 'Ministro do STF, integrante da Segunda Turma que referendou, em acórd
   de tenra idade e gêmeos por nascer. Dedicou capítulo próprio do voto (lote 172) a
   criticar vazamentos à imprensa no curso do caso, comparando a dinâmica a abusos da Operação Lava Jato, e
   apontou que uma reportagem do Estadão sobre mensagens do advogado Walfrido Warde continha captura de tela
-  mais completa do que a constante dos próprios autos entregues à Turma — indício de vazamento com acesso
-  mais amplo que o do próprio colegiado julgador.'
-why_in_novelo: Votou, na Segunda Turma do STF, no referendo da prisão preventiva de investigados do caso
-  Master, com ressalvas próprias sobre vazamentos à imprensa que expuseram um achado ainda não explicado —
-  uma reportagem tinha acesso a material mais completo do que o próprio STF.
+  mais completa do que a constante dos próprios autos entregues à Turma. Relator do ARE 1.312.127 (União x
+  Raízen Energia S.A. e outras), sobre indenizações a usinas sucroalcooleiras: segundo os andamentos oficiais,
+  incluiu questão de ordem na lista da 2ª Turma em 22/09/2026, proferiu decisão monocrática em 24/09/2026 e, na
+  sessão virtual de 25/09 a 02/10/2026, indicou a afetação do julgamento ao Plenário, para referendo, acompanhado
+  por Dias Toffoli, quando Luiz Fux pediu vista; os andamentos não mencionam o Banco Master. No ARE 1.327.995
+  (União x Destilaria Alcidia S.A.), ficou vencido, com André Mendonça, nos julgamentos da 2ª Turma de
+  01/10/2024 e 03/06/2025.'
+why_in_novelo: Integra a Segunda Turma do STF, que referendou a prisão preventiva de investigados do caso Master, e é relator do ARE 1.312.127, sobre indenizações a usinas sucroalcooleiras, cuja afetação ao Plenário indicou em setembro de 2026.
 cited_position:
 - kind: version
   summary: Comparou os vazamentos à imprensa no caso Master a 'práticas processuais autoritárias da
@@ -76,11 +79,14 @@ source_ids:
 - src-migalhas-2026-09-11-gilmar-oficio-pede-fachin-adiar-reunir-casos
 - src-exame-2026-09-11-gilmar-pede-fachin-reunir-casos-relatoria
 - src-stf-pet16704-despacho-12-09-2026-pauta-adiada-23-09
+- src-stf-2026-10-16-andamentos-do-are-1312127
+- src-stf-2026-10-16-andamentos-do-are-1327995
+- src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-14'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-14'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/gilmar-mendes.jpg
   source: Wikimedia Commons

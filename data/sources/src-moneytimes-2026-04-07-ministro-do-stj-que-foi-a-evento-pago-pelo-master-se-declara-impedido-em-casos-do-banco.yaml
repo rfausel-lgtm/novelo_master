@@ -1,0 +1,29 @@
+id: src-moneytimes-2026-04-07-ministro-do-stj-que-foi-a-evento-pago-pelo-master-se-declara-impedido-em-casos-do-banco
+kind: source
+title: Ministro do STJ que foi a evento pago pelo Master se declara impedido em casos do banco
+publisher: Estadão Conteúdo (republicado pelo Money Times)
+author: Estadão Conteúdo
+publication_date: '2026-04-07'
+url: https://www.moneytimes.com.br/ministro-do-stj-que-foi-a-evento-pago-pelo-master-se-declara-impedido-em-casos-do-banco-gaep/
+source_type: wire
+language: pt-BR
+summary: >-
+  O ministro do STJ Benedito Gonçalves apresentou, pelo sistema eletrônico do tribunal, declaração de
+  impedimento para julgar processos relacionados ao Banco Master; depois dessa comunicação, o STJ enviou aos
+  processos do Master, "no último dia 31 de março", certidão com o impedimento; uma delas foi protocolada em
+  recurso do Master ao STJ sobre a liberação de precatórios do setor sucroalcooleiro; procurado, o ministro não
+  retornou aos contatos do Estadão.
+notes: >-
+  A data é do Estadão Conteúdo; o sistema do STJ não foi consultado diretamente. A matéria traz também
+  referência a contato telefônico do ministro salvo no celular de Vorcaro, dado que o Novelo não reproduz.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

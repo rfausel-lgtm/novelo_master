@@ -1,0 +1,75 @@
+id: newton-ramos
+kind: person
+name: Newton Ramos
+category: judge
+role: Desembargador federal do TRF-1
+positions:
+- title: Desembargador federal
+  organization_id: tribunal-regional-federal-da-1a-regiao
+  source_ids:
+  - src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
+  - src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+summary: >-
+  Desembargador federal do TRF-1. Em nota publicada em 21/09/2026 pelo Metrópoles, afirmou ser casado com a
+  advogada Camilla Ramos, "que atua em causas cíveis para o Banco Master", sócia, segundo a Agência Brasil e o
+  Times Brasil, do escritório que, segundo o Metrópoles e a CNN Brasil, firmou com o Master contrato de
+  honorários de êxito em ações de precatórios do setor sucroalcooleiro. Na mesma nota disse que o casal mantinha
+  relação pessoal com Daniel Vorcaro antes dos fatos investigados, mencionou a empresa Prime You e afirmou
+  "nunca julguei qualquer causa de interesse do Banco Master". Segundo o Metrópoles e a CNN Brasil, mensagens de
+  assessores de Vorcaro referem-se ao casal como "Turma do KN"; a leitura da sigla como referência ao ministro
+  Nunes Marques é da imprensa. Em 24/09/2026, segundo a Agência Brasil, o Times Brasil e A Crítica, seu gabinete
+  foi objeto de correição extraordinária determinada pelo corregedor nacional de Justiça, com extração de dados
+  de equipamentos pela Polícia Federal; segundo o Metrópoles, há sindicância aberta contra ele no CNJ. Continua
+  no cargo.
+why_in_novelo: Desembargador federal do TRF-1 cujo gabinete foi objeto de correição extraordinária do CNJ em 24/09/2026, segundo a imprensa, e cuja mulher integra o escritório que, segundo a imprensa, firmou contrato de honorários com o Banco Master; ele nega ter julgado causa de interesse do banco.
+cited_position:
+- kind: clarification
+  by_id: newton-ramos
+  date: '2026-09-21'
+  summary: >-
+    Em nota: "Esclareço que sou casado com a advogada Camilla Ramos, que atua em causas cíveis para o Banco
+    Master. Vale destacar que mantínhamos relação pessoal com o ex-banqueiro antes dos fatos ora objeto de
+    investigação. Em razão da participação societária na empresa Prime You, o empresário foi consultado sobre a
+    disponibilidade de imóveis e transportes. Tratou-se de situação privada articulada com a profissional que
+    presta serviços para o referido banco, sem qualquer vínculo com funções públicas. Por fim, nunca julguei
+    qualquer causa de interesse do Banco Master". A CNN Brasil publica a mesma nota a partir da menção à relação
+    pessoal.
+  source_ids:
+  - src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+  - src-cnnbrasil-2026-09-21-turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens
+- kind: public_note
+  by_id: newton-ramos
+  date: '2026-09-24'
+  summary: >-
+    Em nota, segundo a Agência Brasil, disse que continua no cargo e que considera "natural e regular" o
+    procedimento de correição do CNJ; segundo o Times Brasil, disse confiar no trabalho da Corregedoria e estar à
+    disposição para prestar esclarecimentos.
+  source_ids:
+  - src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
+  - src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+- kind: no_response
+  by_id: newton-ramos
+  date: '2026-09-22'
+  summary: >-
+    O Poder360 informou em 22/09/2026 que buscava contato com a assessoria de Camila Ramos e de Newton Ramos,
+    sem retorno até a publicação.
+  source_ids:
+  - src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
+open_questions:
+- Nome completo não confirmado em página do TRF-1 (a página de perfil do tribunal não abriu em 16/10/2026); grafias mais longas do nome encontradas em atos antigos do tribunal e em agência de notícias não foram associadas a ele pelo Novelo, por falta de documento que confirme a identidade.
+- Número da sindicância e da reclamação disciplinar; a decisão de 22/09/2026 que, segundo o Metrópoles, instaurou a sindicância não foi localizada.
+- Votos atribuídos a ele pela imprensa em processos do setor sucroalcooleiro não verificados (acórdãos não abertos).
+- A leitura de "Turma do KN" como referência ao ministro Nunes Marques é da imprensa e não está demonstrada por documento acessível ao Novelo.
+source_ids:
+- src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+- src-cnnbrasil-2026-09-21-turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens
+- src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
+- src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+- src-acritica-2026-09-24-pf-faz-buscas-em-gabinete-de-desembargador-do-trf-1-citado-em-investigacao-do-banco-master
+- src-metropoles-2026-09-24-cnj-abre-sindicancia-contra-desembargador-newton-ramos
+- src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

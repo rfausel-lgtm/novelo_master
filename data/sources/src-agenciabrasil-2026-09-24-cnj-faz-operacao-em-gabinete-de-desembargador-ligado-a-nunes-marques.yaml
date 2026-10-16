@@ -1,0 +1,31 @@
+id: src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
+kind: source
+title: CNJ faz operação em gabinete de desembargador ligado a Nunes Marques
+publisher: Agência Brasil (EBC)
+author: André Richter
+publication_date: '2026-09-24'
+url: https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/cnj-faz-operacao-em-gabinete-de-desembargador-ligado-nunes-marques
+source_type: wire
+language: pt-BR
+summary: >-
+  O CNJ realizou diligência no gabinete do desembargador Newton Ramos, do TRF-1, determinada pelo corregedor
+  nacional Benedito Gonçalves e cumprida pela Polícia Federal, um dia depois de divulgado o cancelamento dos
+  precatórios; nota de Newton Ramos (continua no cargo e considera "natural e regular" o procedimento de
+  correição do CNJ); nota do escritório Queiroga, Vieira, Queiroz e Ramos, "que tem Camila Ramos como sócia"
+  (contrato formal com o Master; nenhum pagamento "a título de pró-labore ou de êxito"); Nunes Marques nega ter
+  trocado mensagens com Vorcaro ou autorizado alguém a falar em seu nome.
+notes: >-
+  O texto data a diligência de "quarta-feira (24)"; 24/09/2026 foi quinta-feira. "Operação" e "buscas" são
+  termos do veículo; o próprio texto fala em "procedimento de correição". A manchete ("ligado a Nunes
+  Marques") não é proposição do Novelo.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

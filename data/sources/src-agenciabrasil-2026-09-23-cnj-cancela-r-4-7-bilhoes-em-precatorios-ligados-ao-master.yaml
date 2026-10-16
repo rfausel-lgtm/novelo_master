@@ -1,0 +1,31 @@
+id: src-agenciabrasil-2026-09-23-cnj-cancela-r-4-7-bilhoes-em-precatorios-ligados-ao-master
+kind: source
+title: CNJ cancela R$ 4,7 bilhões em precatórios ligados ao Master
+publisher: Agência Brasil (EBC)
+author: André Richter
+publication_date: '2026-09-23'
+url: https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/cnj-cancela-r-47-bilhoes-em-precatorios-ligados-ao-master
+source_type: wire
+language: pt-BR
+summary: >-
+  Descreve a decisão do corregedor nacional, a pedido da AGU, contra decisões do TRF-1 sobre 16 precatórios
+  (R$ 4,7 bilhões) e reproduz o trecho literal da decisão sobre os requisitórios bloqueados; afirma, sem
+  documentar, que as usinas negociaram os créditos com o Banco Master; cita o Metrópoles sobre o contrato de
+  honorários do escritório de Camilla Ramos; registra a nota do escritório (contrato formal com o Master,
+  nenhum pagamento recebido "a título de pró-labore ou de êxito", taxa de êxito de 5%) e a negativa de Nunes
+  Marques. Não traz o número do processo nem os nomes das usinas.
+notes: >-
+  A manchete ("ligados ao Master") afirma mais do que a decisão, que não menciona o banco; não é usada como
+  proposição. O texto afirma que o contrato "foi encontrado pela Polícia Federal" no celular de Vorcaro, sem
+  indicar documento.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

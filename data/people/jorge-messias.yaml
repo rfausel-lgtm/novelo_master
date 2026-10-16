@@ -16,12 +16,10 @@ summary: Advogado-Geral da União (AGU). Segundo a decisão de André Mendonça 
   da Poder360 sobre a articulação paralela entre o governo e o ministro Flávio Dino, na noite do mesmo
   dia, não cita Messias nominalmente — a ligação entre ele e essa articulação específica é inferência
   a partir de seu papel institucional (presença na reunião, autoria da petição), não uma afirmação textual
-  das fontes consultadas.
-why_in_novelo: É, junto com o ministro Mendonça, um dos dois alvos nomeados do monitoramento ilícito da
-  PF que fundamentou o afastamento do diretor-geral da corporação — figura central para entender o verdadeiro
-  motivo da decisão de 08/09/2026. É também o Advogado-Geral da União que buscou, junto a Fachin, a suspensão
-  da decisão que afastou o diretor-geral da PF — um dos pontos de contato entre o Executivo e o Judiciário
-  na crise institucional aberta em setembro de 2026.
+  das fontes consultadas. A AGU, que chefia, é a requerente do Pedido de Providências 0007917-89.2026.2.00.0000
+  no CNJ, contra o TRF-1, em que o corregedor nacional determinou em 22 e 28/09/2026 o cancelamento de 30
+  precatórios e requisições de usinas sucroalcooleiras; as decisões não o mencionam pessoalmente.
+why_in_novelo: Advogado-Geral da União, citado na decisão de André Mendonça na Pet 16.662 entre os alvos de relatório de inteligência apócrifo da PF e signatário de petição da AGU a Fachin pela suspensão da decisão que afastou o diretor-geral da PF em 08/09/2026.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
@@ -33,11 +31,12 @@ source_ids:
 - src-verificacao-direta-equipe-pet16662-documentos-primarios
 - src-metropoles-2026-09-08-lula-recebe-agu-alvorada-decisao-mendonca
 - src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
+- src-cnj-2026-09-22-decisao-do-corregedor-pp-0007917-89-cautelar-pjecnj
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-06'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-06'
-updated_at: '2026-09-14'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/jorge-messias.jpg
   source: Wikimedia Commons

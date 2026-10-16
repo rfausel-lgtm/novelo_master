@@ -1,0 +1,58 @@
+id: conselho-nacional-de-justica
+kind: organization
+name: Conselho Nacional de Justiça
+aliases:
+- CNJ
+org_type: public_body
+jurisdiction: Brasil
+summary: >-
+  Órgão de controle administrativo e financeiro do Poder Judiciário. Por sua Corregedoria Nacional, chefiada
+  pelo ministro Benedito Gonçalves, decidiu no Pedido de Providências 0007917-89.2026.2.00.0000 (requerente
+  AGU, requerido TRF-1), em 22/09/2026, suspender decisões da Presidência do TRF-1 e determinar o cancelamento
+  de 16 precatórios (R$ 4.738.065.026,73) e, em 28/09/2026, estender a medida a 14 requisições
+  (R$ 1.877.143.674,66 nas datas-base), com fundamento em acórdão do Plenário do CNJ no PP
+  0003764-47.2025.2.00.0000; as duas decisões aguardam referendo do Plenário, não pautado na sessão virtual de
+  08 a 16/10/2026. As decisões e as notícias oficiais do CNJ não mencionam o Banco Master nem Daniel Vorcaro; a
+  ligação ao Master é feita pela imprensa. Em 24/09/2026, segundo a Agência Brasil, o Times Brasil e A Crítica,
+  realizou correição extraordinária no gabinete do desembargador federal Newton Ramos, no TRF-1, com apoio da
+  Polícia Federal; não há notícia oficial do CNJ sobre a diligência.
+why_in_novelo: Órgão cuja Corregedoria Nacional determinou, no PP 0007917-89.2026.2.00.0000, o cancelamento de 30 precatórios e requisições do TRF-1 e realizou, segundo a imprensa, correição extraordinária no gabinete de um desembargador federal.
+cited_position:
+- kind: public_note
+  by_id: conselho-nacional-de-justica
+  date: '2026-09-24'
+  summary: >-
+    Segundo o Metrópoles (24/09/2026), em paráfrase do veículo, o CNJ afirma que ainda não foi comprovada
+    eventual relação entre o crédito analisado por Newton Ramos e o Banco Master, nem a participação do
+    escritório da mulher do desembargador no processo, circunstâncias que serão verificadas na sindicância.
+  source_ids:
+  - src-metropoles-2026-09-24-cnj-abre-sindicancia-contra-desembargador-newton-ramos
+- kind: not_located
+  by_id: conselho-nacional-de-justica
+  date: '2026-10-16'
+  summary: >-
+    Órgão decisor. As notícias oficiais de 23 e 28/09/2026 não mencionam o Banco Master; não foi localizada
+    manifestação oficial do CNJ sobre a correição no gabinete de Newton Ramos nem sobre a relação entre os
+    precatórios e o Master (busca no portal do CNJ em 16/10/2026).
+  source_ids:
+  - src-cnj-2026-09-23-corregedoria-nacional-determina-cancelamento-de-precatorios-emitidos-pelo-trf-1
+  - src-cnj-2026-09-28-corregedoria-amplia-medida-sobre-precatorios-do-trf-1-e-determina-devolucao-de-r-1-8-bilhao
+open_questions:
+- Referendo das decisões de 22 e 28/09/2026 pelo Plenário do CNJ; o PP 0007917-89.2026.2.00.0000 não consta da pauta da 15ª Sessão Virtual (08 a 16/10/2026).
+- Decisão que instaurou a sindicância contra Newton Ramos (assinada em 22/09/2026, segundo o Metrópoles), número da sindicância e da reclamação disciplinar não localizados.
+- Cumprimento das determinações pelo TRF-1 (cancelamento, restituição e informações sobre o levantamento de R$ 16.129.427,04 de 31/07/2026) não verificado.
+source_ids:
+- src-cnj-2026-09-23-corregedoria-nacional-determina-cancelamento-de-precatorios-emitidos-pelo-trf-1
+- src-cnj-2026-09-22-decisao-do-corregedor-pp-0007917-89-cautelar-pjecnj
+- src-cnj-2026-09-28-corregedoria-amplia-medida-sobre-precatorios-do-trf-1-e-determina-devolucao-de-r-1-8-bilhao
+- src-cnj-2026-09-28-decisao-do-corregedor-pp-0007917-89-aditamento-pjecnj
+- src-cnj-2026-10-01-pauta-de-julgamentos-15a-sessao-do-plenario-virtual-de-2026
+- src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
+- src-timesbrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-newton-ramos-ligado-a-turma-do-kn
+- src-acritica-2026-09-24-pf-faz-buscas-em-gabinete-de-desembargador-do-trf-1-citado-em-investigacao-do-banco-master
+- src-metropoles-2026-09-24-cnj-abre-sindicancia-contra-desembargador-newton-ramos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

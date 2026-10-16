@@ -1,0 +1,33 @@
+id: src-stf-2026-10-16-andamentos-do-are-1312127
+kind: source
+title: ARE 1312127 — andamentos
+publisher: Supremo Tribunal Federal (portal processual)
+publication_date: '2026-10-16'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=6114201
+source_type: official_court
+language: pt-BR
+summary: >-
+  Número único 0036430-14.2013.4.01.3400, relator Gilmar Mendes, recorrente União, recorridas Raízen Energia
+  S.A. e outras. Andamentos: em 16/09/2024 (sessão virtual de 6 a 13/09/2024), a 2ª Turma, por maioria, deu
+  provimento ao agravo regimental da União, vencidos Edson Fachin e Nunes Marques; em 22/09/2026, despacho do
+  relator e inclusão de questão de ordem (ARE-QO) na lista da sessão virtual da 2ª Turma de 25/09 a 02/10/2026;
+  em 24/09/2026, decisão monocrática do relator registrada como "Deferido", sem descrição; na sessão virtual de
+  25/09 a 02/10/2026, após a indicação do relator "de afetação do julgamento do feito ao Plenário, para
+  referendo da decisão monocrática exarada em 24.9.2026, no que foi acompanhado pelo Ministro Dias Toffoli",
+  Luiz Fux pediu vista (andamento de 02/10; certidão juntada em 06/10). Os andamentos não mencionam o Banco
+  Master.
+notes: >-
+  Página dinâmica; aba "abaAndamentos.asp?incidente=6114201" consultada em 16/10/2026. O inteiro teor da decisão
+  de 24/09/2026 não foi aberto. Constam petições da AGU (08/10/2026) e de outra parte (09/10/2026) depois da
+  vista. Captura e sha256 em raw/ pendentes.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

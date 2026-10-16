@@ -1,0 +1,96 @@
+id: evt-2026-09-21-metropoles-publica-contrato-de-honorarios-do-master-e-mensagens-sobre-a-turma-do-kn
+kind: event
+title: Metrópoles noticia contrato de honorários de até R$ 427 mi, condicionado a êxito, entre o Master e o escritório de Camilla Ramos, e mensagens que citam a “Turma do KN”
+event_type: publication
+date: '2026-09-21'
+date_precision: day
+participant_ids:
+- banco-master
+- queiroga-vieira-queiroz-e-ramos-advocacia
+- camilla-ramos
+- newton-ramos
+- nunes-marques
+- daniel-vorcaro
+description: >-
+  Em 21/09/2026, o Metrópoles (coluna de Andreza Matais) publicou, e a CNN Brasil, que diz ter obtido o documento,
+  relatou no mesmo dia, a existência de contrato entre o Banco Master e o escritório Queiroga, Vieira, Queiroz
+  & Ramos Advocacia, do qual a advogada Camilla Ramos é sócia segundo a Agência Brasil e o Times Brasil, com
+  honorários de êxito de 5% líquidos sobre o que o banco recebesse em 12 ações do setor sucroalcooleiro; pelo
+  cálculo do Metrópoles sobre o valor de face das causas (cerca de R$ 8,5 bilhões), os honorários chegariam a
+  R$ 427 milhões, valor devido apenas em caso de êxito. Camilla Ramos é casada com o desembargador federal Newton
+  Ramos (TRF-1), segundo nota dele. Segundo o Metrópoles e a CNN Brasil, mensagens de assessores de Vorcaro, em
+  material extraído do celular do banqueiro e enviado pela PF ao STF, referem-se ao casal como "Turma do KN"; as
+  reportagens leem a sigla como referência ao ministro Kassio Nunes Marques (o Times Brasil atribui a leitura à
+  PF), e nenhum documento acessível ao Novelo confirma essa leitura. O ministro não é parte do contrato. O
+  conteúdo das mensagens, privado e em material não público, não é reproduzido. O escritório declarou ter o
+  contrato em nota de 23/09 e afirma não ter recebido pagamento; Nunes Marques nega ter votado a favor de Vorcaro
+  ou do Master, e Newton Ramos afirma nunca ter julgado causa de interesse do banco.
+evidence_class: C
+status: disputed
+evidence_ids:
+- ev-contrato-de-honorarios-do-master-com-o-escritorio-de-camilla-ramos-existe
+- ev-contrato-de-honorarios-valor-de-ate-r-427-milhoes
+- ev-turma-do-kn-leitura-da-imprensa
+- ev-nunes-marques-nega-vinculos-com-vorcaro-e-o-master-nota-de-21-09
+- ev-newton-ramos-nota-de-21-09-sobre-camilla-ramos-e-vorcaro
+- ev-escritorio-queiroga-vieira-queiroz-e-ramos-contrato-formal-e-nada-recebido
+source_ids:
+- src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+- src-cnnbrasil-2026-09-21-turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens
+- src-agenciabrasil-2026-09-23-cnj-cancela-r-4-7-bilhoes-em-precatorios-ligados-ao-master
+- src-agenciabrasil-2026-09-24-cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques
+- src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
+- src-timesbrasil-2026-09-23-cnj-manda-cancelar-r-4-7-bilhoes-em-precatorios-ligados-ao-master-e-devolver-valores-ao-tesouro
+document_ids: []
+cited_position:
+- by_id: nunes-marques
+  kind: denial
+  date: '2026-09-21'
+  summary: >-
+    Em nota ao Metrópoles: "nunca votou a favor de Daniel Vorcaro ou do Banco Master, nunca trocou mensagens com
+    o banqueiro e nem pediu nada a ele" e "nunca autorizou ninguém a falar em nome dele"; sobre o processo da
+    usina, estava impedido "por anotação da Secretaria", depois entendeu não estar impedido "por se tratar de tese
+    ampla" e votou, e "não se tratava de ação sobre o Master". À CNN Brasil, falou em "tentativa de criar
+    narrativa para incriminá-lo".
+  source_ids:
+  - src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+  - src-cnnbrasil-2026-09-21-turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens
+- by_id: newton-ramos
+  kind: clarification
+  date: '2026-09-21'
+  summary: >-
+    Em nota: é casado com Camilla Ramos, "que atua em causas cíveis para o Banco Master"; o casal mantinha
+    relação pessoal com Vorcaro antes dos fatos investigados; cita a empresa Prime You; "nunca julguei qualquer
+    causa de interesse do Banco Master".
+  source_ids:
+  - src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+  - src-cnnbrasil-2026-09-21-turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens
+- by_id: queiroga-vieira-queiroz-e-ramos-advocacia
+  kind: clarification
+  date: '2026-09-23'
+  summary: >-
+    Segundo a Agência Brasil, contrato formal com o Master, taxa de êxito de 5% e nenhum pagamento "a título de
+    pró-labore ou de êxito"; segundo o Times Brasil, desconhece e não participou de negociações de transferência
+    dos precatórios a terceiros.
+  source_ids:
+  - src-agenciabrasil-2026-09-23-cnj-cancela-r-4-7-bilhoes-em-precatorios-ligados-ao-master
+  - src-timesbrasil-2026-09-23-cnj-manda-cancelar-r-4-7-bilhoes-em-precatorios-ligados-ao-master-e-devolver-valores-ao-tesouro
+- by_id: camilla-ramos
+  kind: no_response
+  date: '2026-09-22'
+  summary: O Poder360 buscou contato com a assessoria dela e do marido, sem retorno até a publicação.
+  source_ids:
+  - src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
+- by_id: daniel-vorcaro
+  kind: not_located
+  date: '2026-10-16'
+  summary: Nenhuma manifestação da defesa de Vorcaro sobre o contrato foi localizada nas fontes lidas.
+- by_id: banco-master
+  kind: not_located
+  date: '2026-10-16'
+  summary: Nenhuma manifestação do Master ou de seu liquidante sobre o contrato foi localizada nas fontes lidas.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

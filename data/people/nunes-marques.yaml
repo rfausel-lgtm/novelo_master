@@ -3,14 +3,27 @@ kind: person
 name: Nunes Marques
 full_name: Kassio Nunes Marques
 category: judge
-role: Ministro do Supremo Tribunal Federal
+role: Ministro do Supremo Tribunal Federal; presidente do Tribunal Superior Eleitoral
 positions:
 - title: Ministro
   organization_id: supremo-tribunal-federal
   source_ids:
   - src-stf-2026-03-20-segunda-turma-mantem-prisao
-summary: Ministro do STF, integrante da Segunda Turma que referendou em 20/03/2026 a prisão preventiva
-  de Daniel Vorcaro e outros investigados (PET 15556).
+summary: >-
+  Ministro do STF, integrante da Segunda Turma que referendou em 20/03/2026 a prisão preventiva
+  de Daniel Vorcaro e outros investigados (PET 15556); presidente do TSE, segundo o Poder360 (12/10/2026). No
+  ARE 1.327.995 (União x Destilaria Alcidia S.A., relator Edson Fachin), os andamentos oficiais do STF registram
+  o impedimento dele lançado no sistema em 21/02/2024, o despacho de 07/03/2024 em que o afastou ("Afasto o
+  impedimento lançado no sistema, declarando-me habilitado a votar"), pedido de vista em 17/09/2024 e decisões da
+  2ª Turma de 01/10/2024 e 03/06/2025 contra a União, por maioria; os andamentos não mencionam o Banco Master e
+  são compatíveis com a descrição feita por ele em nota de 21/09/2026. Segundo o Metrópoles e a CNN Brasil
+  (21/09/2026), mensagens de assessores de Vorcaro referem-se ao desembargador Newton Ramos e à advogada Camilla
+  Ramos, cujo escritório declara ter contrato de honorários de êxito com o Master, como "Turma do KN", e as reportagens
+  leem a sigla como referência a ele; nenhum documento acessível ao Novelo confirma essa leitura, e ele não é parte
+  do contrato. Ele nega ter votado a favor de Vorcaro ou do Master, ter trocado mensagens com o banqueiro ou
+  autorizado alguém a falar em seu nome. Em 12/10/2026, segundo o Poder360 e o Times Brasil, deputados do PT
+  apresentaram ao STF notícia de fato pedindo sua investigação; o Poder360 registra que as suspeitas dependem de
+  apuração.
 why_in_novelo: Votou, na Segunda Turma do STF, no referendo da prisão preventiva de investigados do caso
   Master, conforme comunicação oficial do tribunal.
 cited_position:
@@ -21,19 +34,67 @@ cited_position:
   - src-band-2026-03-20-consult-filho-nunes-marques
   by_id: nunes-marques
   date: '2026-03-20'
+- kind: denial
+  by_id: nunes-marques
+  date: '2026-09-21'
+  summary: >-
+    Em nota ao Metrópoles: "O ministro Kassio Nunes Marques nunca votou a favor de Daniel Vorcaro ou do Banco
+    Master, nunca trocou mensagens com o banqueiro e nem pediu nada a ele. O ministro também nunca autorizou
+    ninguém a falar em nome dele. São irresponsáveis quaisquer tentativas de relacionar a atuação do Ministro com
+    os serviços prestados pelo filho ou quaisquer terceiros."
+  source_ids:
+  - src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+  - src-cnnbrasil-2026-09-21-turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens
+- kind: clarification
+  by_id: nunes-marques
+  date: '2026-09-21'
+  summary: >-
+    Sobre o processo da usina (ARE 1.327.995), afirmou que "estava impedido por anotação da Secretaria porque
+    decidiu o caso como vice-presidente do TRF-1", que depois compreendeu não estar impedido "por se tratar de
+    tese ampla", pediu retificação e votou, e que "não se tratava de ação sobre o Master". Na nota do gabinete
+    reproduzida pelo Poder360 em 22/09, o julgamento é descrito como "um caso específico e delimitado". Os
+    andamentos oficiais do STF registram o impedimento lançado no sistema e o despacho que o afastou.
+  source_ids:
+  - src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+  - src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
+  - src-stf-2026-10-16-andamentos-do-are-1327995
+- kind: version
+  by_id: nunes-marques
+  date: '2026-09-21'
+  summary: >-
+    À CNN Brasil, classificou a divulgação das mensagens como "tentativa de criar narrativa para incriminá-lo" e
+    disse que o processo que julgou no STF não tem relação com as ações de precatórios defendidas pela advogada,
+    que tramitavam no STJ, segundo o veículo.
+  source_ids:
+  - src-cnnbrasil-2026-09-21-turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens
+- kind: no_response
+  by_id: nunes-marques
+  date: '2026-10-12'
+  summary: Segundo o Times Brasil, não se manifestou sobre a notícia de fato apresentada por deputados do PT quando procurado.
+  source_ids:
+  - src-timesbrasil-2026-10-12-deputados-pedem-investigacao-de-nunes-marques-por-possiveis-vinculos-com-master
 open_questions:
-- O corpus não registra manifestação do ministro sobre os pagamentos da Consult ao escritório de seu filho.
+- 'A nota de 21/09/2026 trata genericamente dos serviços do filho ("São irresponsáveis quaisquer tentativas de relacionar a atuação do Ministro com os serviços prestados pelo filho ou quaisquer terceiros"), sem detalhar os pagamentos da Consult ao escritório dele.'
+- A leitura de "KN" como referência ao ministro é da imprensa (o Times Brasil a atribui à PF) e não está demonstrada por documento acessível ao Novelo.
+- Número e distribuição da notícia de fato apresentada ao STF em 12/10/2026 não localizados.
+- 'As duas versões da nota de 21 e 22/09/2026 descrevem o alcance do julgamento do ARE 1.327.995 de formas diferentes ("tese ampla", no Metrópoles; "caso específico e delimitado", no Poder360); os acórdãos não foram abertos.'
 source_ids:
 - src-stf-2026-03-20-segunda-turma-mantem-prisao
 - src-band-2026-03-20-consult-filho-nunes-marques
 - src-gazeta-2026-03-20-master-jbs-consult
 - src-conjur-2026-06-06-fachin-rejeita-suspeicao-nunes-marques
 - src-poder360-2026-03-05-agenda-vorcaro-contatos
+- src-metropoles-2026-09-21-r-427-milhoes-o-contrato-da-turma-do-kn-para-destravar-precatorios-de-vorcaro
+- src-cnnbrasil-2026-09-21-turma-do-kn-negociou-contrato-de-r-427-mi-com-master-apontam-mensagens
+- src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
+- src-stf-2026-10-16-andamentos-do-are-1327995
+- src-poder360-2026-10-12-deputados-do-pt-pedem-ao-stf-investigacao-de-nunes-marques
+- src-timesbrasil-2026-10-12-deputados-pedem-investigacao-de-nunes-marques-por-possiveis-vinculos-com-master
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/nunes-marques.jpg
   source: Wikimedia Commons
