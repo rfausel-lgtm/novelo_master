@@ -1,13 +1,13 @@
 id: ev-metropoles-omitiu-o-proprio-nome-em-duas-materias
 kind: evidence
 classification: I
-proposition: Dois artefatos datados de omissão. Em 09/04/2026 — o mesmo dia em que se tornaram públicos
-  os R$ 27,28 milhões que recebeu —, o Metrópoles publicou lista de pagamentos do Banco Master a comunicadores
-  e veículos, citando Ratinho, Léo Dias e WF Comunicação, sem incluir o próprio veículo. E em 01/09/2026
-  publicou matéria sobre as mensagens do relatório da Polícia Federal em que Vorcaro cobra pagamento ao
-  escritório Barci de Moraes, reproduzindo três mensagens literais — mas não a que menciona o pagamento
-  ao próprio Metrópoles na mesma noite. A equipe não localizou nenhuma matéria do veículo sobre o relatório
-  do Coaf que o cita.
+proposition: >-
+  A lista de pagamentos do Banco Master a comunicadores e veículos publicada pelo Metrópoles em 09/04/2026,
+  que cita Ratinho, Léo Dias e WF Comunicação, não inclui o próprio veículo; no mesmo dia, o Estadão Conteúdo
+  (reproduzido pelo Terra) noticiou pagamentos do Master ao Metrópoles registrados pelo Coaf. A matéria do
+  Metrópoles de 01/09/2026 sobre as mensagens do relatório da Polícia Federal relativas ao escritório Barci de
+  Moraes reproduz três mensagens, e não a que, segundo o mesmo relatório, menciona o próprio veículo. Até
+  04/09/2026 a equipe não localizou matéria do veículo sobre o relatório do Coaf que o cita.
 document_ids: []
 source_ids:
 - src-metropoles-2026-04-09-blog-noblat-lista-pagamentos
@@ -15,11 +15,13 @@ source_ids:
 date: '2026-04-09'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-04'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-04'
-updated_at: '2026-09-04'
-inference_basis: 'Leitura direta, pela equipe, de duas matérias publicadas pelo próprio veículo: a lista
-  de pagamentos do Banco Master a comunicadores, de 09/04/2026, que não inclui o Metrópoles; e a matéria
-  de 01/09/2026 sobre as mensagens do relatório da Polícia Federal, que reproduz três mensagens literais
-  mas não a que menciona o pagamento ao próprio veículo. Somou-se a busca, sem resultado, por matéria
-  do veículo sobre o relatório do Coaf que o cita.'
+updated_at: '2026-10-16'
+inference_basis: >-
+  Comparação, feita pela equipe, entre o conteúdo de duas publicações do Metrópoles (a lista de 09/04/2026 e a
+  matéria de 01/09/2026) e o que outras fontes do acervo registram (a reportagem do Estadão Conteúdo sobre os
+  pagamentos e as mensagens do relatório da PF), somada a uma busca sem resultado, até 04/09/2026, por matéria
+  do veículo sobre o relatório do Coaf. Limite: a comparação descreve o que as publicações incluem e não
+  incluem; não se conclui motivo, intenção ou decisão editorial do veículo, nem que ele estivesse obrigado a se
+  citar. O id do registro foi mantido para não romper referências; o título descritivo é a proposição acima.

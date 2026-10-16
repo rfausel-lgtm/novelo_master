@@ -4,26 +4,37 @@ from_id: fabio-faria
 to_id: daniel-vorcaro
 relationship_type: communication
 directed: false
-label: troca de mensagens (2023-2024)
+label: troca de mensagens (2023-2024; grupo de WhatsApp em 2025, segundo o UOL)
 start_date: '2023-12-21'
 description: O relatório da PF sobre o celular de Vorcaro documenta mensagens entre Fábio Faria e o banqueiro
   entre dezembro de 2023 e novembro de 2024, sobre reuniões, compartilhamento de contato e o contrato
-  com o escritório Barci de Moraes.
+  com o escritório Barci de Moraes. Segundo o UOL (30/09/2026), Faria participava, com Vorcaro, Ciro Nogueira
+  e Hugo Motta, de grupo de WhatsApp criado em abril de 2024, cujo conteúdo registrado vai de 20/08 a
+  17/11/2025; segundo a Folha de S.Paulo (via Brasil 247), constava de lista de convidados de encontro em
+  Lisboa em 2024, cidade em que diz não ter estado naquele ano. O trecho até 11/2024 é documentado pelo relatório da PF
+  (classe D); o grupo de 2025 e a lista de Lisboa são de reportagem (classe A).
 evidence_class: D
 confidence: 0.9
 status: verified
 event_ids:
 - evt-2023-12-26-faria-compartilha-contato-moraes
 - evt-2024-03-15-cobranca-pagamento-escritorio-barci
+- evt-2026-09-30-uol-publica-a-existencia-do-grupo-de-whatsapp-de-vorcaro-ciro-nogueira-hugo-motta-e-fabio-faria
 evidence_ids:
 - ev-ipja-faria-compartilha-contato-moraes-2023-12-26
 - ev-ipja-faria-tratativas-contrato-barci-2024-01
 - ev-ipja-cobranca-pagamento-2024-03-15
 - ev-pf-faria-intermediario-recorrente
+- ev-fabio-faria-nega-ter-estado-em-lisboa-em-2024
+- ev-uol-grupo-de-whatsapp-ciro-daniel-fabio-hugo
+- ev-uol-grupo-servia-para-combinar-encontros-e-viagens
 source_ids:
 - src-cnn-2026-09-fabio-faria-pf
 - src-cartacapital-2026-09-01-faria-ponte-moraes
 - src-terra-2026-09-01-quem-e-fabio-faria
+- src-brasil247-2026-06-16-vorcaro-organizou-evento-restrito-com-politicos-em-lisboa-nao-entra-nem-o-papa
+- src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+- src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
 document_ids:
 - doc-2026-08-27-ipj-a-3298613-relatorio-pf-celular-vorcaro
 cited_position:
@@ -33,8 +44,21 @@ cited_position:
     banca e sem conhecer os valores.
   source_ids:
   - src-cnn-2026-09-fabio-faria-pf
+- by_id: fabio-faria
+  kind: denial
+  date: '2026-06-16'
+  summary: Declarou à Folha de S.Paulo (via Brasil 247) que não esteve em Lisboa durante o ano de 2024.
+  source_ids:
+  - src-brasil247-2026-06-16-vorcaro-organizou-evento-restrito-com-politicos-em-lisboa-nao-entra-nem-o-papa
+- by_id: fabio-faria
+  kind: no_response
+  date: '2026-09-30'
+  summary: Sobre o grupo, preferiu não comentar o teor das conversas (UOL); a defesa não foi encontrada pela Gazeta do Povo.
+  source_ids:
+  - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+  - src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'

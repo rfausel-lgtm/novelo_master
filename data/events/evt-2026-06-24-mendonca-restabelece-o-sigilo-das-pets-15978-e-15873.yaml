@@ -1,0 +1,32 @@
+id: evt-2026-06-24-mendonca-restabelece-o-sigilo-das-pets-15978-e-15873
+kind: event
+title: André Mendonça restabelece o sigilo das Pets 15.978 e 15.873
+event_type: judicial_decision
+date: '2026-06-24'
+date_precision: day
+participant_ids:
+- supremo-tribunal-federal
+- andre-mendonca
+- policia-federal
+description: >-
+  Em 24/06/2026, oito dias depois de levantar o sigilo, o ministro André Mendonça, em decisão na Pet 15.873/DF,
+  determinou "o restabelecimento do sigilo anteriormente vigente no âmbito das PETs nº 15.978 e nº 15.873, para
+  a retomada do trâmite processual", com base no art. 20 do "CCP" (assim grafado no texto) e na Súmula
+  Vinculante nº 14, considerando a necessidade de resguardar o aporte de novas informações aos autos para
+  viabilizar futuras diligências. No cabeçalho, a Polícia Federal figura como interessada. A Agência O Globo
+  (via InfoMoney, 25/06) noticiou o restabelecimento sem citar o número das Pets. A decisão não menciona a
+  divulgação de 16/06 nem a relaciona ao restabelecimento.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-decisao-de-24-06-2026-restabelece-o-sigilo-das-pets-15978-e-15873
+source_ids:
+- src-stf-2026-06-24-decisao-pet-15873-restabelece-o-sigilo-das-pets-15978-e-15873
+- src-infomoney-2026-06-25-mendonca-volta-a-determinar-sigilo-em-investigacao-sobre-ciro-nogueira
+document_ids:
+- doc-2026-06-24-decisao-restabelece-sigilo-pets-15978-e-15873
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

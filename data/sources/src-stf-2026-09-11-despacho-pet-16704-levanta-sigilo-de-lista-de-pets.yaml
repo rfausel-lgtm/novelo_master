@@ -1,0 +1,30 @@
+id: src-stf-2026-09-11-despacho-pet-16704-levanta-sigilo-de-lista-de-pets
+kind: source
+title: 'PET 16704 / DF — Despacho (Min. André Mendonça, 11/09/2026)'
+publisher: Supremo Tribunal Federal (portal processual)
+author: André Mendonça
+publication_date: '2026-09-11'
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390360837&ext=.pdf
+source_type: official_court
+language: pt-BR
+summary: >-
+  Despacho de uma página. Registra que o Vice-Procurador-Geral da República pediu o levantamento dos sigilos
+  de 18 Pets, entre elas a 15.873; anota que esses processos não guardam relação com o objeto da pauta da
+  sessão extraordinária seguinte e afirma "não haver impedimento ao levantamento dos correspondentes
+  sigilos"; e, de ofício, determina "também o levantamento do sigilo" de outra lista, com os Inquéritos 5.050
+  e 5.070 e Pets, entre elas a 15.674. A Pet 15.978 não consta de nenhuma das duas listas.
+notes: >-
+  Consulta de 16/10/2026. O link direto baixa o PDF; WebFetch/curl = 403. Lido no navegador embutido, numa
+  aba própria, por leitura do PDF dentro da sessão do portal (sem download para o usuário). sha256 do PDF
+  lido: e74e42807999bb3aa75c1142db35cea8276ab18284ddb65e98b489925239e847; captura em raw/ pendente.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

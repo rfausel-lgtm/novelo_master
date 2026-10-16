@@ -1,0 +1,62 @@
+id: rel-daniel-vorcaro-hugo-motta-communication
+kind: relationship
+from_id: daniel-vorcaro
+to_id: hugo-motta
+relationship_type: communication
+directed: false
+label: grupo de WhatsApp, chamadas e encontros combinados (segundo UOL e CNN)
+start_date: '2024-03'
+description: >-
+  Segundo o blog de Matheus Teixeira na CNN Brasil (29/09/2026), registros extraídos pela PF do celular de
+  Vorcaro mostram, entre março de 2024 e outubro de 2025, ao menos 100 chamadas concluídas e 102 não concluídas
+  entre os dois e ao menos 19 encontros combinados; segundo o UOL (30/09/2026), ambos participavam, com Ciro Nogueira e Fábio
+  Faria, de grupo de WhatsApp criado em abril de 2024. As duas informações têm origens únicas, sem relatório,
+  Pet ou decisão conhecidos; são metadados e descrição dos veículos, não conteúdo verificado pelo Novelo. A
+  assessoria de Motta afirma que não há ilícito nos diálogos publicados.
+evidence_class: A
+confidence: 0.4
+status: unverified
+event_ids:
+- evt-2026-09-29-cnn-publica-registros-de-chamadas-e-encontros-entre-vorcaro-e-hugo-motta
+- evt-2026-09-30-uol-publica-a-existencia-do-grupo-de-whatsapp-de-vorcaro-ciro-nogueira-hugo-motta-e-fabio-faria
+evidence_ids:
+- ev-uol-grupo-de-whatsapp-ciro-daniel-fabio-hugo
+- ev-uol-grupo-servia-para-combinar-encontros-e-viagens
+- ev-cnn-registros-de-chamadas-e-encontros-entre-vorcaro-e-hugo-motta
+- ev-hugo-motta-nota-da-assessoria-de-29-09-sobre-os-dialogos-publicados
+source_ids:
+- src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+- src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+- src-cnnbrasil-2026-09-29-hugo-e-vorcaro-trocaram-ao-menos-100-telefonemas-e-tiveram-19-encontros
+- src-cnnbrasil-2026-09-29-hugo-se-posiciona-apos-revelacoes-de-telefonemas-e-encontros-com-vorcaro
+document_ids: []
+cited_position:
+- by_id: hugo-motta
+  kind: public_note
+  date: '2026-09-29'
+  summary: >-
+    Nota da assessoria: Motta "sempre manteve diálogo com os diversos segmentos do empresariado" e "não existe
+    nenhum ilícito retratado nos diálogos publicados".
+  source_ids:
+  - src-cnnbrasil-2026-09-29-hugo-se-posiciona-apos-revelacoes-de-telefonemas-e-encontros-com-vorcaro
+- by_id: hugo-motta
+  kind: no_response
+  date: '2026-09-30'
+  summary: >-
+    Sobre o grupo, preferiu não comentar o teor das conversas (UOL); a assessoria disse que os parlamentares não
+    vão se pronunciar (Gazeta do Povo).
+  source_ids:
+  - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+  - src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+- by_id: daniel-vorcaro
+  kind: no_response
+  date: '2026-09-30'
+  summary: A defesa de Vorcaro não respondeu à CNN Brasil (29/09) nem ao UOL (30/09).
+  source_ids:
+  - src-cnnbrasil-2026-09-29-hugo-e-vorcaro-trocaram-ao-menos-100-telefonemas-e-tiveram-19-encontros
+  - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

@@ -4,20 +4,35 @@ from_id: daniel-vorcaro
 to_id: hugo-motta
 relationship_type: investigative_allegation
 directed: false
-label: encontros relatados em mensagens (segundo a imprensa)
+label: encontros relatados em mensagens e hospedagem em Lisboa (segundo a imprensa)
 start_date: '2025'
 description: Mensagens do celular de Vorcaro, com sigilo levantado pelo STF e reproduzidas pelo Jornal
   da Paraíba, relatam encontros com o presidente da Câmara, entre eles jantar na 'residência oficial'
   com 'Hugo e seis empresários'. Motta disse não temer delação. Relato unilateral do banqueiro; sem registro
-  oficial no corpus.
+  oficial no corpus. Segundo reportagens de 16/06/2026 que descrevem relatório da PF não localizado pelo
+  Novelo, Vorcaro pagou hospedagem de Motta em Lisboa em junho de 2024 (cinco diárias, segundo a PF); Motta
+  afirmou que viajou no jato de Vorcaro a convite de Ciro Nogueira, que teve duas diárias pagas por Vorcaro e
+  que se tratava de evento corporativo. As reportagens registram que Motta não é investigado; o Novelo não
+  localizou documento oficial sobre isso.
 evidence_class: A
 confidence: 0.45
 status: unverified
-event_ids: []
+event_ids:
+- evt-2026-06-16-reportagens-descrevem-relatorios-da-pf-sobre-hospedagem-paga-por-vorcaro-a-ciro-nogueira-e-hugo-motta
 evidence_ids:
 - ev-motta-mensagens-jantar-residencia-oficial
+- ev-pf-hospedagem-em-lisboa-em-06-2024-segundo-a-imprensa
+- ev-valores-da-hospedagem-em-lisboa-divergem-entre-os-veiculos
+- ev-hugo-motta-afirma-que-viajou-no-jato-de-vorcaro-e-teve-duas-diarias-pagas
 source_ids:
 - src-jparaiba-2026-03-24-motta-nao-teme
+- src-cnnbrasil-2026-06-16-vorcaro-bancou-suites-em-hotel-de-lisboa-para-hugo-motta-e-ciro-nogueira
+- src-poder360-2026-06-16-pf-diz-que-vorcaro-e-nogueira-tinham-convergencia-de-interesses-ilicitos
+- src-istoe-2026-06-16-caso-master-hugo-motta-e-ciro-nogueira-sao-citados-em-relatorio-da-pf-entenda
+- src-metropoles-2026-06-16-pf-diz-que-vorcaro-bancou-hotel-de-luxo-para-ciro-nogueira-e-hugo-motta-em-lisboa
+- src-gazetadopovo-2026-06-16-pf-cita-hugo-motta-em-investigacao-sobre-beneficios-pagos-por-daniel-vorcaro
+- src-correiobraziliense-2026-06-17-master-bancou-despesas-de-ciro-nogueira-e-hugo-motta-diz-pf
+- src-correiodamanha-2026-06-17-motta-diz-que-viajou-em-aviao-de-vorcaro-a-convite-de-ciro-nogueira
 document_ids: []
 cited_position:
 - by_id: hugo-motta
@@ -25,8 +40,17 @@ cited_position:
   summary: Disse não temer eventual delação de Vorcaro.
   source_ids:
   - src-jparaiba-2026-03-24-motta-nao-teme
+- date: '2026-06-17'
+  by_id: hugo-motta
+  kind: version
+  summary: >-
+    Afirmou que viajou no jato de Vorcaro a convite de Ciro Nogueira e que Vorcaro pagou a hospedagem, mas que
+    teve apenas duas diárias pagas; descreveu a viagem como evento corporativo, um encontro jurídico.
+  source_ids:
+  - src-correiodamanha-2026-06-17-motta-diz-que-viajou-em-aviao-de-vorcaro-a-convite-de-ciro-nogueira
+  - src-correiobraziliense-2026-06-17-master-bancou-despesas-de-ciro-nogueira-e-hugo-motta-diz-pf
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'

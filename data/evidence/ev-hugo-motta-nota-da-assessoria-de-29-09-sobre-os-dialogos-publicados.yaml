@@ -1,0 +1,27 @@
+id: ev-hugo-motta-nota-da-assessoria-de-29-09-sobre-os-dialogos-publicados
+kind: evidence
+classification: A
+proposition: >-
+  Em nota divulgada pela CNN Brasil em 29/09/2026, a assessoria de Hugo Motta afirmou que ele "sempre manteve
+  diálogo com os diversos segmentos do empresariado" e que "não existe nenhum ilícito retratado nos diálogos
+  publicados"; segundo a versão reproduzida no blog de Matheus Teixeira, a nota também rejeita atribuir a
+  interesses impróprios conversas fora de contexto e diz que Motta confia nas autoridades responsáveis. Em
+  30/09, sobre o grupo de WhatsApp, Motta não comentou (UOL) e a assessoria disse que os parlamentares não vão
+  se pronunciar (Gazeta do Povo).
+attributed_to_id: hugo-motta
+attributed_to: Assessoria de Hugo Motta, segundo CNN Brasil, UOL e Gazeta do Povo
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-09-29-hugo-se-posiciona-apos-revelacoes-de-telefonemas-e-encontros-com-vorcaro
+- src-cnnbrasil-2026-09-29-hugo-e-vorcaro-trocaram-ao-menos-100-telefonemas-e-tiveram-19-encontros
+- src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+- src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+date: '2026-09-29'
+notes: >-
+  A nota de 29/09 trata dos contatos bilaterais com Vorcaro e não menciona o grupo. A parte da nota sobre
+  empréstimo envolve familiar de Motta e não é registrada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

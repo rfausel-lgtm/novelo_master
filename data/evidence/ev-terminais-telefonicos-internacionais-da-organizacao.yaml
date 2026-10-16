@@ -1,15 +1,15 @@
 id: ev-terminais-telefonicos-internacionais-da-organizacao
 kind: evidence
 classification: D
-proposition: 'A análise do celular de Marilson Roseno da Silva revelou que ele mantinha, além do número
-  brasileiro conhecido, uma conta secundária de WhatsApp Business associada a um número com DDI da
-  Turquia (+905386670594), sob o codinome "MISTER", usada para se comunicar com outros integrantes da
-  organização com o recurso de mensagens temporárias ativado — motivo pelo qual só havia, no aparelho,
-  conversas recentes a partir de fevereiro de 2026. A PF mapeou outros terminais internacionais usados
-  pelo grupo: "L.M" (+447529670444, Reino Unido), possivelmente de Luiz Phillipi Mourão; "Sebastião/SP PF"
-  (+12012798461, Estados Unidos), utilizado por Sebastião Monteiro Júnior; "Top" (+573028396721,
-  Colômbia), provavelmente de Henrique Vorcaro; e "BH" (+447508680629, Reino Unido), também
-  aparentemente ligado a Mourão, sem certeza se é dele mesmo ou de outro integrante.'
+proposition: 'A análise do celular de Marilson Roseno da Silva registrou que ele mantinha, além do número
+  brasileiro conhecido, uma conta secundária de WhatsApp Business associada a um número da Turquia, sob o
+  codinome "MISTER", usada para se comunicar com outros integrantes da organização com o recurso de
+  mensagens temporárias ativado — motivo pelo qual só havia, no aparelho, conversas recentes a partir de
+  fevereiro de 2026. A PF mapeou outros quatro terminais internacionais usados pelo grupo: "L.M" (Reino
+  Unido), possivelmente de Luiz Phillipi Mourão; "Sebastião/SP PF" (Estados Unidos), utilizado por
+  Sebastião Monteiro Júnior; "Top" (Colômbia), provavelmente de Henrique Vorcaro; e "BH" (Reino Unido),
+  também aparentemente ligado a Mourão, sem certeza se é dele mesmo ou de outro integrante. Os números dos
+  terminais não são reproduzidos pelo Novelo.'
 document_ids:
 - doc-2026-03-18-ipj-1752768-celular-marilson
 source_ids:
@@ -19,10 +19,11 @@ notes: 'A PF qualifica essa identificação como "análise preliminar e não exa
   estrangeiros para dificultar a identificação de titularidade e obter dados de operadoras sujeitas a
   outras legislações é lido pela PF como padrão deliberado, não coincidência. O número colombiano de
   Henrique Vorcaro já constava do acervo de forma genérica ("número registrado na Colômbia", lote 196);
-  esta evidência traz o número específico e sua atribuição a "Top". A atribuição de "L.M" e "BH" a Mourão
-  é qualificada pela própria PF como incerta.'
+  esta evidência registra a atribuição desse terminal a "Top". A atribuição de "L.M" e "BH" a Mourão
+  é qualificada pela própria PF como incerta. Os números dos cinco terminais, que constam do documento,
+  foram retirados do registro em 16/10/2026 (EDITORIAL §6).'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-10-16'

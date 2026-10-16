@@ -1,0 +1,37 @@
+id: ev-valores-da-hospedagem-em-lisboa-divergem-entre-os-veiculos
+kind: evidence
+classification: A
+proposition: >-
+  As cifras publicadas sobre a hospedagem em Lisboa em junho de 2024 divergem entre os veículos, e o Novelo não
+  as reconcilia: R$ 91.280,59 por cinco diárias atribuídas a Ciro Nogueira (CNN Brasil, Correio Braziliense e
+  Agência O Globo, esta com R$ 18.256,12 por dia; o Poder360 dá R$ 91.280 e média de R$ 18.256 por diária);
+  custo total de cerca de R$ 90 mil para cada um, segundo a PF, com base na cotação do euro da época (Estadão
+  Conteúdo); fatura de 3.155,71 euros por cinco diárias, cerca de R$ 18 mil (IstoÉ, que fala em cerca de 3 mil
+  euros), cerca de R$ 18,2 mil (Correio da Manhã) ou R$ 20.038,76 (Gazeta do Povo); e, segundo o Correio
+  Braziliense, R$ 16.784,89 de cinco diárias pagas pelo Senado ao senador na mesma data.
+attributed_to: >-
+  CNN Brasil, Poder360, Agência O Globo e Correio Braziliense (R$ 91.280,59); Estadão Conteúdo (cerca de R$ 90
+  mil por pessoa); IstoÉ, Metrópoles, Correio da Manhã e Gazeta do Povo (fatura em euros e conversões);
+  Correio Braziliense (diárias pagas pelo Senado)
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-06-16-vorcaro-bancou-suites-em-hotel-de-lisboa-para-hugo-motta-e-ciro-nogueira
+- src-poder360-2026-06-16-pf-diz-que-vorcaro-e-nogueira-tinham-convergencia-de-interesses-ilicitos
+- src-istoe-2026-06-16-caso-master-hugo-motta-e-ciro-nogueira-sao-citados-em-relatorio-da-pf-entenda
+- src-metropoles-2026-06-16-pf-diz-que-vorcaro-bancou-hotel-de-luxo-para-ciro-nogueira-e-hugo-motta-em-lisboa
+- src-agenciaoglobo-2026-06-16-viagens-de-ciro-nogueira-a-ny-lisboa-e-courchevel-bancadas-por-vorcaro-custaram-r-468-mil-diz-pf
+- src-estadaoconteudo-2026-06-16-pf-diz-que-vorcaro-bancou-despesas-de-viagem-de-ciro-nogueira-e-hugo-motta-para-lisboa
+- src-gazetadopovo-2026-06-16-pf-cita-hugo-motta-em-investigacao-sobre-beneficios-pagos-por-daniel-vorcaro
+- src-correiobraziliense-2026-06-17-master-bancou-despesas-de-ciro-nogueira-e-hugo-motta-diz-pf
+- src-correiodamanha-2026-06-17-motta-diz-que-viajou-em-aviao-de-vorcaro-a-convite-de-ciro-nogueira
+date: '2024-06'
+notes: >-
+  Nenhuma cifra é registrada como fato. As unidades diferem (por diária, cinco diárias, fatura em euros
+  convertida, valor por pessoa), e a fonte primária (o relatório da PF) não foi localizada. O Correio
+  Braziliense não explica a diferença entre o valor atribuído pela PF e as diárias registradas no portal do
+  Senado, que o Novelo não abriu.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

@@ -1,0 +1,28 @@
+id: ev-stf-despacho-de-11-09-2026-levanta-o-sigilo-das-pets-15873-e-15674
+kind: evidence
+classification: D
+proposition: >-
+  Em 11/09/2026, o ministro André Mendonça, em despacho na Pet 16.704/DF, registrou o pedido do
+  Vice-Procurador-Geral da República de levantamento do sigilo de 18 Pets, entre elas a 15.873, afirmou não
+  haver impedimento ao levantamento dos correspondentes sigilos e, de ofício, determinou também o
+  levantamento do sigilo de outra lista de processos, entre eles a Pet 15.674. A Pet 15.978 não consta de
+  nenhuma das duas listas.
+document_ids:
+- doc-2026-09-11-despacho-pet-16704-levanta-sigilo-de-lista-de-pets
+source_ids:
+- src-stf-2026-09-11-despacho-pet-16704-levanta-sigilo-de-lista-de-pets
+- src-congressoemfoco-2026-09-11-mendonca-tira-sigilo-de-casos-dark-horse-castro-ciro-e-wagner
+excerpt: >-
+  De todo o modo, entendo não haver impedimento ao levantamento dos correspondentes sigilos.
+locator: despacho, itens 1 a 3
+date: '2026-09-11'
+notes: >-
+  Liga-se a ev-pgr-lista-17-processos-omitidos-do-levantamento-de-sigilo: a PGR havia pedido o levantamento
+  "sem exceção" e listado a Pet 15.873. Limite: o portal público lista como peças baixáveis despachos e
+  decisões, e não as peças da PF (relatórios, representações); o levantamento do sigilo da Pet não equivale à
+  publicação do relatório.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

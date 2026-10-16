@@ -6,17 +6,32 @@ role: Empresário à frente da SL Consulting, serviço de concierge
 positions: []
 summary: Segundo depoimento de Daniel Vorcaro à PF em 28/08/2026, representa a SL Consulting, empresa
   de concierge que organizou a viagem à Disney/Universal (Orlando) oferecida a Paulo Sérgio Neves de Souza
-  no início de 2024.
+  no início de 2024. A decisão de 07/05/2026 na Pet 15.873 o descreve como quem intermediava as operações de
+  pagamentos relacionados a viagens internacionais cujas despesas a representação da PF atribui ao senador Ciro
+  Nogueira. Segundo reportagens de 16/06/2026, um "Leo Serrano" foi o interlocutor das reservas de hotel em
+  Lisboa pedidas por Vorcaro em junho de 2024; a identidade com este verbete é inferida, não documentada.
 why_in_novelo: Nomeado por Vorcaro, em depoimento à PF, como representante da empresa que organizou a
   viagem oferecida a ex-diretor do Banco Central.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
-open_questions: []
+- kind: not_located
+  date: '2026-10-16'
+  summary: Nenhuma manifestação dele localizada nas matérias de 16/06/2026 sobre as reservas em Lisboa lidas pelo Novelo.
+  source_ids:
+  - src-cnnbrasil-2026-06-16-vorcaro-bancou-suites-em-hotel-de-lisboa-para-hugo-motta-e-ciro-nogueira
+  - src-metropoles-2026-06-16-pf-diz-que-vorcaro-bancou-hotel-de-luxo-para-ciro-nogueira-e-hugo-motta-em-lisboa
+open_questions:
+- 'Sobrenome e empresa do "Leo Serrano" das reservas de Lisboa não constam das fontes lidas; a identidade plena
+  com este verbete é inferência (classe I), registrada em
+  ev-leo-serrano-de-lisboa-e-tratado-como-o-intermediario-de-viagens-de-ciro.'
 source_ids:
 - src-poder360-2026-09-03-vorcaro-agrado-disney
+- src-stf-pet15873-decisao-07-05-2026-integra
+- src-cnnbrasil-2026-06-16-vorcaro-bancou-suites-em-hotel-de-lisboa-para-hugo-motta-e-ciro-nogueira
+- src-metropoles-2026-06-16-pf-diz-que-vorcaro-bancou-hotel-de-luxo-para-ciro-nogueira-e-hugo-motta-em-lisboa
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'

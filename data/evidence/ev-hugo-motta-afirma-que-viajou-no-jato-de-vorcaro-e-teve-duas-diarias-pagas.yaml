@@ -1,0 +1,26 @@
+id: ev-hugo-motta-afirma-que-viajou-no-jato-de-vorcaro-e-teve-duas-diarias-pagas
+kind: evidence
+classification: A
+proposition: >-
+  Segundo o Correio da Manhã (17/06/2026), Hugo Motta afirmou que viajou a Lisboa no jato de Daniel Vorcaro a
+  convite de Ciro Nogueira e que a hospedagem foi paga por Vorcaro, mas disse ter "ganho" apenas duas
+  diárias; segundo a Gazeta do Povo (16/06) e o Correio Braziliense (17/06), descreveu a viagem como "evento
+  corporativo" e "encontro jurídico". O relatório da PF, segundo as reportagens, conta cinco diárias.
+attributed_to_id: hugo-motta
+attributed_to: Hugo Motta, segundo Correio da Manhã, Gazeta do Povo e Correio Braziliense
+document_ids: []
+source_ids:
+- src-correiodamanha-2026-06-17-motta-diz-que-viajou-em-aviao-de-vorcaro-a-convite-de-ciro-nogueira
+- src-correiobraziliense-2026-06-17-master-bancou-despesas-de-ciro-nogueira-e-hugo-motta-diz-pf
+- src-gazetadopovo-2026-06-16-pf-cita-hugo-motta-em-investigacao-sobre-beneficios-pagos-por-daniel-vorcaro
+date: '2026-06-17'
+notes: >-
+  Classe A, e não C: tanto a descrição da PF quanto a declaração de Motta chegam ao Novelo só pela imprensa,
+  a extensão da hospedagem está em disputa (duas diárias, segundo Motta; cinco, segundo a PF) e o relatório
+  não foi localizado. A frase literal de Motta ao Correio Braziliense é "Era um evento corporativo, encontro
+  jurídico"; à Gazeta do Povo, em 16/06, "é um evento corporativo, um encontro jurídico".
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

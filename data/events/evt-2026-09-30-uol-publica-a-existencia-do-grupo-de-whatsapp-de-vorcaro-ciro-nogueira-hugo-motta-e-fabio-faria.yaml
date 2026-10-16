@@ -1,0 +1,78 @@
+id: evt-2026-09-30-uol-publica-a-existencia-do-grupo-de-whatsapp-de-vorcaro-ciro-nogueira-hugo-motta-e-fabio-faria
+kind: event
+title: UOL publica a existência de grupo de WhatsApp de Vorcaro com Ciro Nogueira, Hugo Motta e Fábio Faria
+event_type: publication
+date: '2026-09-30'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- ciro-nogueira
+- hugo-motta
+- fabio-faria
+description: >-
+  Em 30/09/2026 o UOL publicou que o celular de Daniel Vorcaro continha um grupo de WhatsApp chamado "Ciro
+  Daniel Fábio Hugo", de que participavam Vorcaro, o senador Ciro Nogueira, o deputado Hugo Motta e Fábio
+  Faria. Segundo o UOL, o grupo foi criado por Ciro em abril de 2024, com apagamento automático das mensagens
+  após 90 dias; o conteúdo registrado no aparelho vai de 20/08/2025 a 17/11/2025, dia da prisão de Vorcaro, e
+  mensagens anteriores ainda poderiam ser resgatadas pela PF. Ainda segundo o UOL, os participantes
+  combinavam encontros e viagens, entre elas uma viagem em aeronave de Vorcaro organizada em 28/08/2025. O UOL
+  diz ter obtido o conteúdo; não cita relatório, Pet ou decisão, e o Novelo não localizou documento oficial
+  sobre o grupo. A Gazeta do Povo diz ter confirmado a informação "com fontes a par da investigação", sem que
+  a independência esteja demonstrada. Mensagem que exista no aparelho periciado não prova, por si, que o
+  conteúdo seja verdadeiro. Não se registra o teor das mensagens.
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-uol-grupo-de-whatsapp-ciro-daniel-fabio-hugo
+- ev-uol-grupo-servia-para-combinar-encontros-e-viagens
+source_ids:
+- src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+- src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+document_ids: []
+cited_position:
+- by_id: ciro-nogueira
+  kind: no_response
+  date: '2026-09-30'
+  summary: >-
+    Procurado pelo UOL, preferiu não comentar o teor das conversas; à Gazeta do Povo, a assessoria disse que os
+    parlamentares não vão se pronunciar.
+  source_ids:
+  - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+  - src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+- by_id: hugo-motta
+  kind: no_response
+  date: '2026-09-30'
+  summary: >-
+    Procurado pelo UOL, preferiu não comentar o teor das conversas; à Gazeta do Povo, a assessoria disse que os
+    parlamentares não vão se pronunciar.
+  source_ids:
+  - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+  - src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+- by_id: fabio-faria
+  kind: no_response
+  date: '2026-09-30'
+  summary: >-
+    Procurado pelo UOL, preferiu não comentar o teor das conversas; segundo a Gazeta do Povo, a defesa dele não
+    foi encontrada.
+  source_ids:
+  - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+  - src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+- by_id: daniel-vorcaro
+  kind: no_response
+  date: '2026-09-30'
+  summary: Segundo o UOL, a defesa de Vorcaro não respondeu; a Gazeta do Povo diz tê-la procurado.
+  source_ids:
+  - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+  - src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+- by: Progressistas (PP), Republicanos e Câmara dos Deputados
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nota própria dos partidos ou da Câmara sobre o grupo, a hospedagem em Lisboa ou os relatórios da PF não
+    localizada em busca da equipe do Novelo até 16/10/2026; só se localizaram manifestações das assessorias dos
+    parlamentares.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

@@ -1,0 +1,134 @@
+id: rev-2026-10-16-lote-350-sigilo-das-pets-15873-15978-lisboa-e-grupo-de-whatsapp
+kind: revision
+date: '2026-10-16'
+title: 'Lote 350 — O vaivém do sigilo das Pets 15.873 e 15.978 no STF (levantado em 16/06, restabelecido em 24/06, levantado de novo em 11/09); o que a imprensa descreve dos relatórios da PF sobre a hospedagem em Lisboa paga por Vorcaro a Ciro Nogueira e Hugo Motta; o grupo de WhatsApp “Ciro Daniel Fábio Hugo”; e os contatos entre Vorcaro e Motta'
+summary: >-
+  Primeiro dos dois lotes sobre conversas do celular de Daniel Vorcaro publicadas pela imprensa. O que NÃO se
+  afirma, em destaque: o Novelo não localizou documento oficial do relatório da PF sobre Lisboa (a Pet, a data
+  e um PDF não constam das fontes; tudo o que se registra dele é descrição de imprensa, classe A); Hugo Motta
+  não é investigado segundo as reportagens, e o Novelo não localizou documento oficial sobre isso; e mensagem
+  que exista no aparelho periciado prova que ela está lá, não que o conteúdo seja verdadeiro. Camada D, só
+  quanto ao conteúdo de cada ato, lidos no portal do STF em 16/10/2026: em 16/06/2026, despacho de André
+  Mendonça na Pet 15.873 levanta o sigilo das Pets 15.978 e 15.873 pela inclusão em pauta, "de última hora", da
+  devolução de vista na Segunda Turma, no dia em que a Turma referendou as prisões de Henrique e Felipe
+  Vorcaro; em 24/06, decisão na mesma Pet determina "o restabelecimento do sigilo anteriormente vigente" nas
+  duas, "para a retomada do trâmite processual"; em 11/09, despacho na Pet 16.704 registra o pedido do
+  Vice-PGR de levantamento do sigilo de 18 Pets, entre elas a 15.873, afirma não haver impedimento e, de
+  ofício, levanta o de outra lista que inclui a Pet 15.674; a Pet 15.978 não consta de nenhuma das listas. A
+  sequência dos três atos tem causalidade não comprovada. Camada A: segundo CNN Brasil, Poder360, IstoÉ,
+  Metrópoles e Agência O Globo (16/06), relatório da PF registra que em 18/06/2024 Vorcaro pediu a "Leo
+  Serrano" reservas no Four Seasons de Lisboa para si e para "Ciro" e "Hugo", que uma fatura registra cinco
+  diárias e 3.155,71 euros em duas suítes júnior e que a PF identifica os dois como Ciro Nogueira e Hugo Motta
+  pelas mensagens, pela lista de nomes e pela fatura. Os valores ficam em disputa, cada um atribuído ao
+  veículo: R$ 91.280,59 por cinco diárias atribuídas a Ciro (R$ 18.256,12 por dia, segundo a Agência O Globo);
+  cerca de R$ 90 mil por pessoa (Estadão Conteúdo); cerca de R$ 18 mil ou R$ 20.038,76 pela fatura; R$
+  16.784,89 de diárias pagas pelo Senado ao senador (Correio Braziliense). A Agência O Globo registra estimativa
+  da PF de R$ 468.721,78 em viagens e jantares e um pedido de cautela da PF com referências a "Ciro" em listas
+  de pagamentos, por possível homônimo. Motta afirmou em 16 e 17/06 que viajou no jato de Vorcaro a convite de
+  Ciro, que teve duas diárias pagas (a PF conta cinco) e que se tratava de evento corporativo; Fábio Faria disse
+  à Folha (via Brasil 247) que não esteve em Lisboa em 2024; a defesa de Ciro diz que prestará esclarecimentos
+  nos autos. Segundo o UOL (30/09, uma origem, sem relatório, Pet ou decisão), Vorcaro, Ciro, Motta e Faria
+  participavam do grupo de WhatsApp "Ciro Daniel Fábio Hugo", criado por Ciro em abril de 2024, com
+  apagamento em 90 dias e conteúdo preservado de 20/08 a 17/11/2025, para combinar encontros e viagens; os três
+  preferiram não comentar. Segundo a CNN Brasil (29/09, uma origem), registros extraídos pela PF mostram ao
+  menos 100 chamadas concluídas e 102 não concluídas entre Vorcaro e Motta e ao menos 19 encontros combinados
+  de 03/2024 a 10/2025; a assessoria de Motta diz que não há ilícito nos diálogos publicados. O "Leo Serrano" de Lisboa é
+  tratado como o Léo Serrano do acervo por inferência (classe I), com limite escrito. Nenhuma mensagem é
+  transcrita; nenhuma pessoa ou organização nova. Corrigido no acervo: números de terminais telefônicos
+  internacionais retirados de três registros, linguagem de insinuação em evidência sobre o Metrópoles,
+  pendência superada sobre a Pet 15.873 e textos antigos de Ciro Nogueira, Hugo Motta, Fábio Faria e de uma
+  relação. Não confirmado: a Pet do relatório; o estado do sigilo da Pet 15.978; os valores; o número de
+  diárias; a identidade plena de Serrano; o conteúdo do grupo antes de 20/08/2025.
+added:
+  people: 0
+  organizations: 0
+  events: 6
+  documents: 3
+  relationships: 3
+  sources: 20
+  evidence: 15
+updated_relationships: 4
+corrections:
+- 'doc-2026-03-18-ipj-1752768-celular-marilson: o campo excerpt reproduzia o número de um terminal telefônico internacional com código de país (EDITORIAL §6); o número foi substituído por "[número omitido pelo Novelo]", mantidos o codinome, o país e a atribuição.'
+- 'ev-terminais-telefonicos-internacionais-da-organizacao: a proposição reproduzia os números de cinco terminais telefônicos internacionais; foram retirados, mantidos os codinomes, os países, as atribuições da PF e o número de terminais; a nota que dizia trazer "o número específico" foi reescrita; na proposição, "revelou" passou a "registrou" (EDITORIAL §3).'
+- 'sebastiao-monteiro-junior: o resumo reproduzia o número do terminal internacional atribuído a ele e qualificava, em texto próprio, o padrão de comunicação como "clandestino"; reescrito como descrição atribuída à PF, sem o número (achado na varredura de data/ pelos mesmos terminais).'
+- 'ev-metropoles-omitiu-o-proprio-nome-em-duas-materias: a proposição falava em "artefatos datados de omissão" e sugeria intenção do veículo; reescrita como descrição neutra do que as duas publicações incluem e não incluem, com limite explícito em inference_basis (não se conclui motivo nem intenção). O id foi mantido para não romper referências.'
+- 'ciro-nogueira: a pendência de que a Pet 15.873 ficara fora do levantamento de sigilo de 10/09/2026 foi superada pelo despacho de 11/09/2026 na Pet 16.704 e marcada como resolvida; retirada de outra pendência a justaposição temporal com a Emenda 11, sem fonte que ligue os fatos.'
+- 'hugo-motta: o campo why_in_novelo não mencionava Vorcaro e trazia juízo próprio ("ação institucional da própria cúpula da Câmara"); reescrito em frase única; o resumo deixou de usar, em texto próprio, a palavra "esquema" e passou a atribuir ao Poder360 o pedido da Mesa Diretora.'
+- 'fabio-faria: no resumo, "articulação de encontros" passou a "organização de encontros".'
+- 'rel-daniel-vorcaro-ciro-nogueira-allegation: a descrição dizia que a posição do senador não fora localizada, embora a negativa de 12/05/2026 já constasse do próprio registro; corrigido.'
+- 'Correções ao plano de redação (não são de registro publicado): (1) no portal, o ato de 24/06/2026 é rotulado "Despacho", mas o documento se intitula "Decisão"; (2) o despacho de 11/09 registra o pedido do Vice-PGR e afirma "não haver impedimento ao levantamento dos correspondentes sigilos", sem a fórmula "a pedido"; (3) a frase atribuída à Gazeta do Povo de 16/06 ("os dados vêm da reportagem, não dos relatórios originais") não foi encontrada no texto; (4) "cerca de R$ 90 mil para cada um" não é literal no Estadão Conteúdo e entra em paráfrase; (5) "evento corporativo, encontro jurídico" está no Correio Braziliense e na Gazeta do Povo, não no Correio da Manhã, que traz o jato, o convite e as duas diárias; (6) "descontextualizadas" e a confiança nas investigações não constam da nota publicada às 22h26 pela CNN, e entram só em paráfrase da versão do blog; (7) o Congresso em Foco não afirma de forma explícita que a Pet 15.873 teve o sigilo levantado; (8) o cabeçalho do despacho de 16/06 traz as partes "sob sigilo", por isso a PF não figura como participante do evento de 16/06; (9) eventos não têm campo notes, e a divergência sobre a posição dos citados em 30/09 ficou nas notes de ev-uol-grupo-de-whatsapp-ciro-daniel-fabio-hugo; (10) o UOL fala em encontros e viagens; o jantar que menciona é familiar e não entra, e o id da evidência foi ajustado; (11) as duas fontes da InfoMoney são registradas pelo permalink, e a de 25/06 é da Agência O Globo.'
+author: orquestrador
+affected_ids:
+- ciro-nogueira
+- hugo-motta
+- fabio-faria
+- leo-serrano
+- sebastiao-monteiro-junior
+- evt-2026-06-16-mendonca-levanta-o-sigilo-das-pets-15978-e-15873
+- evt-2026-06-24-mendonca-restabelece-o-sigilo-das-pets-15978-e-15873
+- evt-2026-09-11-mendonca-levanta-o-sigilo-das-pets-15873-e-15674-na-pet-16704
+- evt-2026-06-16-reportagens-descrevem-relatorios-da-pf-sobre-hospedagem-paga-por-vorcaro-a-ciro-nogueira-e-hugo-motta
+- evt-2026-09-30-uol-publica-a-existencia-do-grupo-de-whatsapp-de-vorcaro-ciro-nogueira-hugo-motta-e-fabio-faria
+- evt-2026-09-29-cnn-publica-registros-de-chamadas-e-encontros-entre-vorcaro-e-hugo-motta
+- doc-2026-06-16-despacho-levanta-sigilo-pets-15978-e-15873
+- doc-2026-06-24-decisao-restabelece-sigilo-pets-15978-e-15873
+- doc-2026-09-11-despacho-pet-16704-levanta-sigilo-de-lista-de-pets
+- doc-2026-03-18-ipj-1752768-celular-marilson
+- seq-sigilo-das-pets-15873-e-15978-levantado-restabelecido-e-levantado-de-novo
+- rel-daniel-vorcaro-ciro-nogueira-communication
+- rel-daniel-vorcaro-hugo-motta-communication
+- rel-ciro-nogueira-hugo-motta-shared-event
+- rel-daniel-vorcaro-ciro-nogueira-allegation
+- rel-daniel-vorcaro-hugo-motta-allegation
+- rel-fabio-faria-daniel-vorcaro-communication
+- rel-vorcaro-leo-serrano-sl-consulting-professional
+- ev-stf-despacho-de-16-06-2026-levanta-o-sigilo-das-pets-15978-e-15873
+- ev-stf-decisao-de-24-06-2026-restabelece-o-sigilo-das-pets-15978-e-15873
+- ev-stf-despacho-de-11-09-2026-levanta-o-sigilo-das-pets-15873-e-15674
+- ev-pf-hospedagem-em-lisboa-em-06-2024-segundo-a-imprensa
+- ev-valores-da-hospedagem-em-lisboa-divergem-entre-os-veiculos
+- ev-pf-estimativa-de-r-468-mil-em-viagens-e-jantares-de-ciro-nogueira
+- ev-pf-ressalva-de-homonimo-de-ciro-em-listas-de-pagamento-e-resposta-do-senador
+- ev-hugo-motta-afirma-que-viajou-no-jato-de-vorcaro-e-teve-duas-diarias-pagas
+- ev-fabio-faria-nega-ter-estado-em-lisboa-em-2024
+- ev-uol-grupo-de-whatsapp-ciro-daniel-fabio-hugo
+- ev-uol-grupo-servia-para-combinar-encontros-e-viagens
+- ev-cnn-registros-de-chamadas-e-encontros-entre-vorcaro-e-hugo-motta
+- ev-hugo-motta-nota-da-assessoria-de-29-09-sobre-os-dialogos-publicados
+- ev-defesa-de-ciro-nogueira-promete-esclarecimentos-nos-autos
+- ev-leo-serrano-de-lisboa-e-tratado-como-o-intermediario-de-viagens-de-ciro
+- ev-pgr-lista-17-processos-omitidos-do-levantamento-de-sigilo
+- ev-terminais-telefonicos-internacionais-da-organizacao
+- ev-metropoles-omitiu-o-proprio-nome-em-duas-materias
+- src-stf-2026-06-16-despacho-pet-15873-levanta-sigilo-das-pets-15978-e-15873
+- src-stf-2026-06-24-decisao-pet-15873-restabelece-o-sigilo-das-pets-15978-e-15873
+- src-stf-2026-09-11-despacho-pet-16704-levanta-sigilo-de-lista-de-pets
+- src-cnnbrasil-2026-06-16-vorcaro-bancou-suites-em-hotel-de-lisboa-para-hugo-motta-e-ciro-nogueira
+- src-poder360-2026-06-16-pf-diz-que-vorcaro-e-nogueira-tinham-convergencia-de-interesses-ilicitos
+- src-istoe-2026-06-16-caso-master-hugo-motta-e-ciro-nogueira-sao-citados-em-relatorio-da-pf-entenda
+- src-metropoles-2026-06-16-pf-diz-que-vorcaro-bancou-hotel-de-luxo-para-ciro-nogueira-e-hugo-motta-em-lisboa
+- src-agenciaoglobo-2026-06-16-viagens-de-ciro-nogueira-a-ny-lisboa-e-courchevel-bancadas-por-vorcaro-custaram-r-468-mil-diz-pf
+- src-estadaoconteudo-2026-06-16-pf-diz-que-vorcaro-bancou-despesas-de-viagem-de-ciro-nogueira-e-hugo-motta-para-lisboa
+- src-gazetadopovo-2026-06-16-pf-cita-hugo-motta-em-investigacao-sobre-beneficios-pagos-por-daniel-vorcaro
+- src-correiobraziliense-2026-06-17-master-bancou-despesas-de-ciro-nogueira-e-hugo-motta-diz-pf
+- src-correiodamanha-2026-06-17-motta-diz-que-viajou-em-aviao-de-vorcaro-a-convite-de-ciro-nogueira
+- src-brasil247-2026-06-16-vorcaro-organizou-evento-restrito-com-politicos-em-lisboa-nao-entra-nem-o-papa
+- src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+- src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+- src-cnnbrasil-2026-09-29-hugo-e-vorcaro-trocaram-ao-menos-100-telefonemas-e-tiveram-19-encontros
+- src-cnnbrasil-2026-09-29-hugo-se-posiciona-apos-revelacoes-de-telefonemas-e-encontros-com-vorcaro
+- src-infomoney-2026-03-05-pf-apura-suposta-ordem-de-vorcaro-para-pagamento-a-ciro-nogueira
+- src-infomoney-2026-06-25-mendonca-volta-a-determinar-sigilo-em-investigacao-sobre-ciro-nogueira
+- src-congressoemfoco-2026-09-11-mendonca-tira-sigilo-de-casos-dark-horse-castro-ciro-e-wagner
+reason: >-
+  Linha WA1 (Ciro Nogueira, Hugo Motta e Fábio Faria), liberada pelo investigador-chefe em 16/10/2026; primeiro
+  dos lotes 350 e 351 sobre conversas vazadas. Orientação editorial de Rafael aplicada: conexões e proximidade
+  entre agentes e o investigado entram, e o teor só em trechos curtos, atribuídos e já publicados (EDITORIAL
+  §6), aqui reduzidos a designações da própria fonte; vocabulário de imputação não entra em texto próprio;
+  mensagem juntada aos autos prova que existe no aparelho periciado, não que o
+  conteúdo é verdadeiro; o rastro (fonte, data, interlocutores, documento de origem) fica completo para
+  corroboração futura. Inclui a correção obrigatória de dados pessoais (telefones) no acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'

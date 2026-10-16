@@ -15,7 +15,14 @@ positions:
   - src-stf-2026-05-07-nova-fase-ciro-nogueira
 summary: Senador pelo Piauí. Em 07/05/2026 o STF autorizou fase da Compliance Zero que, segundo a PF,
   envolve suposta atuação do senador em favor de Daniel Vorcaro; o ministro relator impôs ao parlamentar
-  medidas cautelares (proibição de contato com testemunhas e investigados).
+  medidas cautelares (proibição de contato com testemunhas e investigados). Segundo reportagens de 16/06/2026
+  (CNN Brasil, Poder360, IstoÉ, Metrópoles e Agência O Globo) que descrevem relatório da PF não localizado pelo
+  Novelo, Vorcaro pediu em 18/06/2024 reservas de hotel em Lisboa para "Ciro" e "Hugo", identificados pela PF
+  como o senador e o deputado Hugo Motta; segundo a Agência O Globo, a PF estima em R$ 468.721,78 o "benefício
+  econômico direto" do senador em viagens e jantares pagos por Vorcaro; os valores da hospedagem divergem entre os veículos. Segundo
+  o UOL (30/09/2026), participava com Vorcaro, Motta e Fábio Faria de grupo de WhatsApp que criou em abril de
+  2024. O sigilo das Pets 15.873 e 15.978 foi levantado em 16/06/2026, restabelecido em 24/06 e, quanto à Pet
+  15.873, levantado de novo em 11/09/2026. A defesa diz que prestará esclarecimentos nos autos.
 why_in_novelo: É citado em comunicação oficial do STF como investigado em fase da Operação Compliance
   Zero, por suposta atuação em favor de interesses de Daniel Vorcaro, segundo a Polícia Federal.
 cited_position:
@@ -33,18 +40,61 @@ cited_position:
     e criticou a busca baseada 'somente em celulares de terceiros'.
   source_ids:
   - src-metropoles-2026-05-07-defesa-ciro
+- date: '2026-06-16'
+  by_id: ciro-nogueira
+  kind: clarification
+  summary: >-
+    A defesa disse ao Poder360 que não comentaria o caso naquele momento e que apresentará nos autos "todos os
+    esclarecimentos técnicos" para rebater o que chamou de "descabidas insinuações policiais".
+  source_ids:
+  - src-poder360-2026-06-16-pf-diz-que-vorcaro-e-nogueira-tinham-convergencia-de-interesses-ilicitos
+- date: '2026-03-05'
+  by_id: ciro-nogueira
+  kind: denial
+  summary: >-
+    Sobre o item "Pagamento pra Ciro" de lista de pagamentos, disse que inferir que se refere a ele "é
+    definitivamente uma mentira fabricada" e citou mais de 11 mil pessoas com o nome Ciro no Brasil, segundo o
+    IBGE, entre elas um advogado de Vorcaro, segundo a matéria.
+  source_ids:
+  - src-infomoney-2026-03-05-pf-apura-suposta-ordem-de-vorcaro-para-pagamento-a-ciro-nogueira
+- date: '2026-09-30'
+  by_id: ciro-nogueira
+  kind: no_response
+  summary: >-
+    Sobre o grupo de WhatsApp, preferiu não comentar o teor das conversas (UOL); a assessoria disse à Gazeta do
+    Povo que os parlamentares não vão se pronunciar.
+  source_ids:
+  - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+  - src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+- date: '2026-10-16'
+  by_id: ciro-nogueira
+  kind: not_located
+  summary: >-
+    Manifestação específica sobre a hospedagem em Lisboa e as viagens a Courchevel não localizada: CNN Brasil e
+    IstoÉ registram que não houve resposta até a publicação, o Metrópoles não traz posição, e a busca do Novelo
+    até 16/10/2026 não localizou outra manifestação.
+  source_ids:
+  - src-cnnbrasil-2026-06-16-vorcaro-bancou-suites-em-hotel-de-lisboa-para-hugo-motta-e-ciro-nogueira
+  - src-istoe-2026-06-16-caso-master-hugo-motta-e-ciro-nogueira-sao-citados-em-relatorio-da-pf-entenda
 open_questions:
 - 'RESOLVIDO (lote 264): a Emenda nº 11 à PEC 65/2023 foi apresentada em 13/08/2024, elevava a garantia do FGC a R$ 1
   milhão e foi rejeitada pela CCJ em 10/06/2026 (ver ev-emenda-11-de-ciro-nogueira-elevava-o-fgc-a-1-milhao-e-foi-rejeitada-na-ccj).'
-- A PGR, em manifestação de 11/09/2026 na Pet 16.704, lista a PET 15.873 — a petição sobre a Emenda nº 11 e
-  a busca de 07/05/2026 contra ele — entre 17 processos correlatos à Compliance Zero que ficaram de fora do
-  levantamento de sigilo de 10/09/2026 (ver ev-pgr-lista-17-processos-omitidos-do-levantamento-de-sigilo).
-  Não implica, por si, nenhum fato novo sobre ele além do que o acervo já documenta.
+- 'RESOLVIDO (lote 350): a PET 15.873, que a PGR listara em 11/09/2026 entre os processos fora do levantamento
+  de sigilo de 10/09/2026 (ver ev-pgr-lista-17-processos-omitidos-do-levantamento-de-sigilo), teve o sigilo
+  levantado por despacho de André Mendonça de 11/09/2026 na Pet 16.704 (ver
+  doc-2026-09-11-despacho-pet-16704-levanta-sigilo-de-lista-de-pets).'
 - 'Achado em 13/09/2026: reportagens de fevereiro de 2026 o identificam, ao lado de Davi Alcolumbre, entre
   os presentes/debatedores do 1º Fórum Jurídico Brasil de Ideias (Londres, 24-26/04/2024), evento patrocinado
-  pelo Banco Master — quatro meses antes de apresentar a Emenda 11. Sem indicação de presença na degustação
-  de Macallan mais restrita, do dia seguinte, custeada por Vorcaro; sem manifestação dele sobre o próprio
-  fórum localizada pela equipe.'
+  pelo Banco Master. Sem indicação de presença na degustação de Macallan mais restrita, do dia seguinte,
+  custeada por Vorcaro; sem manifestação dele sobre o próprio fórum localizada pela equipe.'
+- 'Em qual Pet (15.873, 15.978 ou 15.674) está o relatório da PF sobre a hospedagem em Lisboa e qual a data dele
+  (a IstoÉ diz abril de 2026): não identificado. O sigilo da Pet 15.978 foi restabelecido em 24/06/2026 e ela
+  não consta da lista de 11/09/2026.'
+- 'Número de diárias e valores da hospedagem em Lisboa: as fontes usam unidades distintas (por diária, cinco
+  diárias, fatura em euros convertida, valor por pessoa), e a diferença para as diárias pagas pelo Senado no
+  mesmo período, segundo o Correio Braziliense, não é explicada.'
+- 'Grupo de WhatsApp: o conteúdo anterior a 20/08/2025 foi apagado automaticamente, segundo o UOL, e a origem
+  processual do material (relatório, Pet ou decisão) não é conhecida.'
 source_ids:
 - src-stf-pet16704-manifestacoes-pgr-2026-09-11-12
 - src-stf-2026-05-07-nova-fase-ciro-nogueira
@@ -57,11 +107,22 @@ source_ids:
 - src-senado-plp-135-2026-fgc
 - src-otempo-2026-02-evento-londres-alcolumbre-participantes
 - src-jornaldebrasilia-2026-empresas-acoes-stf-evento-londres
+- src-stf-2026-06-16-despacho-pet-15873-levanta-sigilo-das-pets-15978-e-15873
+- src-stf-2026-06-24-decisao-pet-15873-restabelece-o-sigilo-das-pets-15978-e-15873
+- src-stf-2026-09-11-despacho-pet-16704-levanta-sigilo-de-lista-de-pets
+- src-cnnbrasil-2026-06-16-vorcaro-bancou-suites-em-hotel-de-lisboa-para-hugo-motta-e-ciro-nogueira
+- src-poder360-2026-06-16-pf-diz-que-vorcaro-e-nogueira-tinham-convergencia-de-interesses-ilicitos
+- src-istoe-2026-06-16-caso-master-hugo-motta-e-ciro-nogueira-sao-citados-em-relatorio-da-pf-entenda
+- src-metropoles-2026-06-16-pf-diz-que-vorcaro-bancou-hotel-de-luxo-para-ciro-nogueira-e-hugo-motta-em-lisboa
+- src-agenciaoglobo-2026-06-16-viagens-de-ciro-nogueira-a-ny-lisboa-e-courchevel-bancadas-por-vorcaro-custaram-r-468-mil-diz-pf
+- src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+- src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+- src-infomoney-2026-03-05-pf-apura-suposta-ordem-de-vorcaro-para-pagamento-a-ciro-nogueira
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-13'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/ciro-nogueira.jpg
   source: Wikimedia Commons

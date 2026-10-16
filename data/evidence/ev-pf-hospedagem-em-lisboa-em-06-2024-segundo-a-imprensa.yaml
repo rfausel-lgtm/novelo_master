@@ -1,0 +1,33 @@
+id: ev-pf-hospedagem-em-lisboa-em-06-2024-segundo-a-imprensa
+kind: evidence
+classification: A
+proposition: >-
+  Segundo a CNN Brasil, o Poder360, a IstoÉ, o Metrópoles e a Agência O Globo (16/06/2026), relatório da PF
+  cujo sigilo foi levantado em 16/06/2026 registra que, em 18/06/2024, Daniel Vorcaro pediu a "Leo Serrano"
+  reservas no hotel Four Seasons, em Lisboa, para si e para "Ciro" e "Hugo"; que uma fatura do hotel registra
+  cinco diárias e 3.155,71 euros, associada pela PF a duas suítes júnior; e que a PF identifica "Ciro" e
+  "Hugo" como o senador Ciro Nogueira e o deputado Hugo Motta a partir das mensagens, da lista de nomes
+  enviada por Vorcaro e da fatura.
+attributed_to_id: policia-federal
+attributed_to: Relatório da PF, segundo CNN Brasil, Poder360, IstoÉ, Metrópoles e Agência O Globo (16/06/2026)
+document_ids: []
+source_ids:
+- src-cnnbrasil-2026-06-16-vorcaro-bancou-suites-em-hotel-de-lisboa-para-hugo-motta-e-ciro-nogueira
+- src-poder360-2026-06-16-pf-diz-que-vorcaro-e-nogueira-tinham-convergencia-de-interesses-ilicitos
+- src-istoe-2026-06-16-caso-master-hugo-motta-e-ciro-nogueira-sao-citados-em-relatorio-da-pf-entenda
+- src-metropoles-2026-06-16-pf-diz-que-vorcaro-bancou-hotel-de-luxo-para-ciro-nogueira-e-hugo-motta-em-lisboa
+- src-agenciaoglobo-2026-06-16-viagens-de-ciro-nogueira-a-ny-lisboa-e-courchevel-bancadas-por-vorcaro-custaram-r-468-mil-diz-pf
+- src-gazetadopovo-2026-06-16-pf-cita-hugo-motta-em-investigacao-sobre-beneficios-pagos-por-daniel-vorcaro
+date: '2024-06-18'
+notes: >-
+  Relatório não localizado como documento: a Pet, a data (a IstoÉ diz que foi produzido em abril de 2026) e
+  um PDF não constam das fontes. Todas as reportagens descrevem o mesmo documento, por isso a classe é A, e
+  não C. A identificação de "Ciro" e "Hugo" é leitura da PF; a mensagem não traz sobrenomes. Para Motta, a
+  declaração dele de 16 e 17/06/2026 (ev-hugo-motta-afirma-que-viajou-no-jato-de-vorcaro-e-teve-duas-diarias-pagas)
+  admite parte da hospedagem (diz ter tido duas diárias pagas); para Ciro, não há manifestação específica localizada. Nenhuma mensagem é
+  transcrita pelo Novelo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

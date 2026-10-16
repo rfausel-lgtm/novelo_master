@@ -1,0 +1,27 @@
+id: src-infomoney-2026-03-05-pf-apura-suposta-ordem-de-vorcaro-para-pagamento-a-ciro-nogueira
+kind: source
+title: PF apura suposta ordem de Vorcaro para pagamento a Ciro Nogueira
+publisher: Estadão Conteúdo (via InfoMoney)
+publication_date: '2026-03-05'
+url: https://www.infomoney.com.br/politica/pf-apura-suposta-ordem-de-vorcaro-para-pagamento-a-ciro-nogueira/
+source_type: wire
+language: pt-BR
+summary: >-
+  Segundo a matéria, lista enviada por Fabiano Zettel a Vorcaro em maio de 2024, com pedido de autorização de
+  pagamentos, inclui o item "Pagamento pra Ciro"; a investigação ainda não havia obtido dados bancários para
+  verificar o pagamento e se o destinatário era o senador ou outra pessoa chamada Ciro. Ciro Nogueira disse
+  que "Inferir que se refere a mim, senador Ciro Nogueira, é definitivamente uma mentira fabricada", citou o
+  IBGE ("existem mais de 11 mil pessoas com o nome Ciro no Brasil") e mencionou, segundo a matéria, um "Ciro"
+  entre os advogados que atuam na defesa de Vorcaro.
+notes: Publicada às 11h15 de 05/03/2026. Permalink registrado no lugar do endereço curto https://www.infomoney.com.br/?p=3237586.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

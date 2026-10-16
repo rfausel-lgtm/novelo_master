@@ -1,0 +1,21 @@
+id: ev-fabio-faria-nega-ter-estado-em-lisboa-em-2024
+kind: evidence
+classification: A
+proposition: >-
+  Segundo a Folha de S.Paulo, conforme republicação do Brasil 247 (16/06/2026), mensagens de Vorcaro listam
+  Fábio Faria entre os convidados de encontro restrito em Lisboa, e Faria declarou que não esteve em Lisboa
+  durante o ano de 2024.
+attributed_to_id: fabio-faria
+attributed_to: Fábio Faria, segundo a Folha de S.Paulo (via Brasil 247)
+document_ids: []
+source_ids:
+- src-brasil247-2026-06-16-vorcaro-organizou-evento-restrito-com-politicos-em-lisboa-nao-entra-nem-o-papa
+date: '2026-06-16'
+notes: >-
+  Origem (Folha) não aberta pelo Novelo; a fonte registrada é republicação declarada. A negativa convive com a
+  menção na lista de convidados; o Novelo não registra presença de Faria em Lisboa.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

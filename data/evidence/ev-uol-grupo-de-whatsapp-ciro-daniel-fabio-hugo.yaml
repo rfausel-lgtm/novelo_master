@@ -1,0 +1,28 @@
+id: ev-uol-grupo-de-whatsapp-ciro-daniel-fabio-hugo
+kind: evidence
+classification: A
+proposition: >-
+  Segundo o UOL (30/09/2026), o celular de Daniel Vorcaro continha um grupo de WhatsApp chamado "Ciro Daniel
+  Fábio Hugo", de que participavam Vorcaro, o senador Ciro Nogueira, o deputado Hugo Motta e Fábio Faria,
+  criado por Ciro em abril de 2024 com apagamento automático das mensagens após 90 dias; os diálogos
+  registrados no aparelho concentram-se de 20/08 a 17/11/2025, e mensagens anteriores ainda poderiam ser
+  resgatadas pela PF.
+attributed_to: UOL (Cézar Feitoza, Natália Portinari e Fabio Serapião)
+document_ids: []
+source_ids:
+- src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+- src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+date: '2024-04'
+notes: >-
+  Uma origem só: o UOL diz ter obtido o conteúdo; a Gazeta do Povo atribui a informação ao UOL e diz tê-la
+  confirmado com fontes, sem que a independência esteja demonstrada. Sem relatório, Pet ou decisão: o grupo
+  não consta de documento conhecido pelo Novelo. É fragmento (apagamento em 90 dias). Mensagem que exista no
+  aparelho periciado não prova, por si, que o conteúdo seja verdadeiro. Posição dos citados em 30/09: segundo o
+  UOL, Ciro, Faria e Motta "preferiram não comentar o teor das conversas com Vorcaro"; segundo a Gazeta do
+  Povo, as assessorias de Ciro e de Motta disseram que os parlamentares não vão se pronunciar e a defesa de
+  Faria não foi encontrada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

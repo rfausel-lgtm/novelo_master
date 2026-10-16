@@ -1,0 +1,51 @@
+id: evt-2026-09-29-cnn-publica-registros-de-chamadas-e-encontros-entre-vorcaro-e-hugo-motta
+kind: event
+title: CNN Brasil publica registros de chamadas e encontros entre Vorcaro e Hugo Motta (03/2024 a 10/2025)
+event_type: publication
+date: '2026-09-29'
+date_precision: day
+participant_ids:
+- daniel-vorcaro
+- hugo-motta
+description: >-
+  Em 29/09/2026, o blog de Matheus Teixeira na CNN Brasil publicou que registros extraídos pela PF do celular de
+  Daniel Vorcaro mostram, entre março de 2024 e outubro de 2025, ao menos 100 chamadas concluídas e 102 não
+  concluídas entre Vorcaro e o deputado Hugo Motta e ao menos 19 encontros combinados; segundo o blog, as conversas tratam de temas
+  como o FGC, a disputa pela presidência da Câmara, uma possível sociedade, caronas e camarote. A CNN não diz
+  como obteve os registros nem cita relatório, Pet ou decisão; são metadados e descrição do veículo, não
+  conteúdo verificado pelo Novelo, e dizem respeito à relação entre os dois, não ao grupo de mensagens
+  publicado pelo UOL no dia seguinte. O título da matéria fala em 100 telefonemas, número das chamadas
+  concluídas. Em nota divulgada pela CNN no mesmo dia, a assessoria de Motta afirmou que ele "sempre manteve
+  diálogo com os diversos segmentos do empresariado" e que "não existe nenhum ilícito retratado nos diálogos
+  publicados".
+evidence_class: A
+status: unverified
+evidence_ids:
+- ev-cnn-registros-de-chamadas-e-encontros-entre-vorcaro-e-hugo-motta
+- ev-hugo-motta-nota-da-assessoria-de-29-09-sobre-os-dialogos-publicados
+source_ids:
+- src-cnnbrasil-2026-09-29-hugo-e-vorcaro-trocaram-ao-menos-100-telefonemas-e-tiveram-19-encontros
+- src-cnnbrasil-2026-09-29-hugo-se-posiciona-apos-revelacoes-de-telefonemas-e-encontros-com-vorcaro
+document_ids: []
+cited_position:
+- by_id: hugo-motta
+  kind: public_note
+  date: '2026-09-29'
+  summary: >-
+    Nota da assessoria: Motta "sempre manteve diálogo com os diversos segmentos do empresariado" e "não existe
+    nenhum ilícito retratado nos diálogos publicados"; na versão do blog, a nota também rejeita atribuir a
+    interesses impróprios conversas fora de contexto e diz que ele confia nas autoridades.
+  source_ids:
+  - src-cnnbrasil-2026-09-29-hugo-se-posiciona-apos-revelacoes-de-telefonemas-e-encontros-com-vorcaro
+  - src-cnnbrasil-2026-09-29-hugo-e-vorcaro-trocaram-ao-menos-100-telefonemas-e-tiveram-19-encontros
+- by_id: daniel-vorcaro
+  kind: no_response
+  date: '2026-09-29'
+  summary: Segundo a CNN Brasil, a defesa de Vorcaro não havia respondido até a publicação.
+  source_ids:
+  - src-cnnbrasil-2026-09-29-hugo-e-vorcaro-trocaram-ao-menos-100-telefonemas-e-tiveram-19-encontros
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

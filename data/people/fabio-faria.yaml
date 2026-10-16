@@ -7,9 +7,12 @@ positions: []
 summary: Ex-ministro das Comunicações do governo Bolsonaro e ex-deputado federal. Segundo o relatório
   da PF sobre o celular de Vorcaro, compartilhou com o banqueiro, em 26/12/2023, contatos salvos como
   'Alexandre de Moraes BRASILIA', participou de tratativas sobre o prazo do contrato com o escritório
-  Barci de Moraes (janeiro de 2024) e da articulação de encontros. Em nota, afirmou ter sugerido o escritório
+  Barci de Moraes (janeiro de 2024) e da organização de encontros. Em nota, afirmou ter sugerido o escritório
   para um caso na Justiça de São Paulo, não ter se reunido com a banca e não conhecer os valores. Não
-  é alvo da investigação, segundo a CNN Brasil.
+  é alvo da investigação, segundo a CNN Brasil. Segundo a Folha de S.Paulo (via Brasil 247, 16/06/2026),
+  constava de lista de convidados de encontro restrito em Lisboa organizado por Vorcaro em 2024, e disse que
+  não esteve em Lisboa em 2024; segundo o UOL (30/09/2026), participava de grupo de WhatsApp com Vorcaro, Ciro
+  Nogueira e Hugo Motta, sobre o qual preferiu não comentar.
 why_in_novelo: É apontado pela Polícia Federal, em relatório sobre o celular de Daniel Vorcaro, como intermediário
   de contatos entre o banqueiro e o ministro Alexandre de Moraes; sua posição está registrada.
 cited_position:
@@ -37,10 +40,30 @@ cited_position:
   - src-terra-2026-09-01-quem-e-fabio-faria
   by_id: fabio-faria
   date: '2026-09-01'
+- kind: denial
+  summary: Declarou à Folha de S.Paulo (via Brasil 247) que não esteve em Lisboa durante o ano de 2024.
+  source_ids:
+  - src-brasil247-2026-06-16-vorcaro-organizou-evento-restrito-com-politicos-em-lisboa-nao-entra-nem-o-papa
+  by_id: fabio-faria
+  date: '2026-06-16'
+- kind: no_response
+  summary: >-
+    Sobre o grupo de WhatsApp, preferiu não comentar o teor das conversas (UOL); segundo a Gazeta do Povo, a
+    defesa dele não foi encontrada.
+  source_ids:
+  - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+  - src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+  by_id: fabio-faria
+  date: '2026-09-30'
 open_questions:
 - O corpus não registra a data exata da nota de Faria nem manifestação sobre os encontros descritos pela
   PF.
 - O relatório da PF não conclui que Faria tenha cometido crime.
+- 'Lisboa: Faria nega ter estado na cidade em 2024; a lista de convidados que o inclui é descrita pela Folha de
+  S.Paulo (via Brasil 247), cuja matéria original o Novelo não abriu.'
+- 'Nova York: fatura de hotel atribuída a ele pela revista piauí não foi verificada pelo Novelo e não está
+  registrada.'
+- Posição dele sobre o grupo de WhatsApp descrito pelo UOL não localizada além da recusa a comentar.
 source_ids:
 - src-cnn-2026-09-fabio-faria-pf
 - src-congressoemfoco-2026-09-01-relatorio-pf
@@ -48,14 +71,17 @@ source_ids:
 - src-oeste-2026-01-29-projeto-eolico-faria
 - src-terra-2026-09-01-quem-e-fabio-faria
 - src-cartacapital-2026-09-01-faria-ponte-moraes
+- src-brasil247-2026-06-16-vorcaro-organizou-evento-restrito-com-politicos-em-lisboa-nao-entra-nem-o-papa
+- src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+- src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
 full_name: Fábio Salustino Mesquita de Faria
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/F%C3%A1bio_Faria
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/fabio-faria.jpg
   source: Wikimedia Commons

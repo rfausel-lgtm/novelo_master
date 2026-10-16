@@ -1,0 +1,58 @@
+id: rel-ciro-nogueira-hugo-motta-shared-event
+kind: relationship
+from_id: ciro-nogueira
+to_id: hugo-motta
+relationship_type: shared_event
+directed: false
+label: viagem a Lisboa em 06/2024 e grupo de WhatsApp (segundo a imprensa)
+start_date: '2024-06'
+description: >-
+  Segundo o Correio da Manhã (17/06/2026), Hugo Motta afirmou que viajou a Lisboa no jato de Vorcaro a convite
+  de Ciro Nogueira; segundo reportagens de 16/06/2026 que descrevem relatório da PF, os dois são os
+  parlamentares das reservas do hotel pagas por Vorcaro (leitura da PF); e, segundo o UOL (30/09/2026), ambos
+  participavam do mesmo grupo de mensagens com Vorcaro e Fábio Faria. Tudo por imprensa; o relatório não foi
+  localizado.
+evidence_class: A
+confidence: 0.45
+status: unverified
+event_ids:
+- evt-2026-06-16-reportagens-descrevem-relatorios-da-pf-sobre-hospedagem-paga-por-vorcaro-a-ciro-nogueira-e-hugo-motta
+- evt-2026-09-30-uol-publica-a-existencia-do-grupo-de-whatsapp-de-vorcaro-ciro-nogueira-hugo-motta-e-fabio-faria
+evidence_ids:
+- ev-pf-hospedagem-em-lisboa-em-06-2024-segundo-a-imprensa
+- ev-hugo-motta-afirma-que-viajou-no-jato-de-vorcaro-e-teve-duas-diarias-pagas
+- ev-uol-grupo-de-whatsapp-ciro-daniel-fabio-hugo
+source_ids:
+- src-gazetadopovo-2026-06-16-pf-cita-hugo-motta-em-investigacao-sobre-beneficios-pagos-por-daniel-vorcaro
+- src-correiobraziliense-2026-06-17-master-bancou-despesas-de-ciro-nogueira-e-hugo-motta-diz-pf
+- src-correiodamanha-2026-06-17-motta-diz-que-viajou-em-aviao-de-vorcaro-a-convite-de-ciro-nogueira
+- src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+- src-poder360-2026-06-16-pf-diz-que-vorcaro-e-nogueira-tinham-convergencia-de-interesses-ilicitos
+document_ids: []
+cited_position:
+- by_id: hugo-motta
+  kind: version
+  date: '2026-06-17'
+  summary: Disse que viajou a convite de Ciro Nogueira, que se tratava de evento corporativo e que teve apenas duas diárias pagas.
+  source_ids:
+  - src-correiodamanha-2026-06-17-motta-diz-que-viajou-em-aviao-de-vorcaro-a-convite-de-ciro-nogueira
+  - src-correiobraziliense-2026-06-17-master-bancou-despesas-de-ciro-nogueira-e-hugo-motta-diz-pf
+- by_id: ciro-nogueira
+  kind: clarification
+  date: '2026-06-16'
+  summary: >-
+    A defesa disse ao Poder360 que não comentaria o caso naquele momento e que apresentará nos autos "todos os
+    esclarecimentos técnicos" para rebater o que chamou de "descabidas insinuações policiais".
+  source_ids:
+  - src-poder360-2026-06-16-pf-diz-que-vorcaro-e-nogueira-tinham-convergencia-de-interesses-ilicitos
+- by_id: ciro-nogueira
+  kind: not_located
+  date: '2026-10-16'
+  summary: Manifestação específica sobre a viagem a Lisboa não localizada; sobre o grupo, preferiu não comentar (UOL, 30/09/2026).
+  source_ids:
+  - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

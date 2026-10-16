@@ -1,0 +1,24 @@
+id: ev-pf-ressalva-de-homonimo-de-ciro-em-listas-de-pagamento-e-resposta-do-senador
+kind: evidence
+classification: A
+proposition: >-
+  Segundo a Agência O Globo (16/06/2026), os investigadores da PF indicaram "cautela" ao considerar referências
+  a "Ciro" em listas de pagamentos e diálogos, pela possibilidade de homônimo. Antes, em 05/03/2026, segundo o
+  Estadão Conteúdo (via InfoMoney), a investigação ainda não havia obtido dados bancários para verificar se o
+  item "Pagamento pra Ciro", de lista enviada por Fabiano Zettel a Vorcaro em maio de 2024, se referia ao
+  senador ou a outra pessoa chamada Ciro; Ciro Nogueira disse que inferir isso "é definitivamente uma mentira
+  fabricada" e que há mais de 11 mil pessoas com o nome Ciro no Brasil, segundo o IBGE.
+attributed_to: Polícia Federal, segundo a Agência O Globo; Ciro Nogueira, segundo o Estadão Conteúdo (via InfoMoney)
+document_ids: []
+source_ids:
+- src-agenciaoglobo-2026-06-16-viagens-de-ciro-nogueira-a-ny-lisboa-e-courchevel-bancadas-por-vorcaro-custaram-r-468-mil-diz-pf
+- src-infomoney-2026-03-05-pf-apura-suposta-ordem-de-vorcaro-para-pagamento-a-ciro-nogueira
+date: '2026-03-05'
+notes: >-
+  A ressalva de homônimo, tal como descrita pela Agência O Globo, trata de referências a "Ciro" em listas de
+  pagamentos e diálogos; a fonte não diz se ela alcança a fatura de Lisboa.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

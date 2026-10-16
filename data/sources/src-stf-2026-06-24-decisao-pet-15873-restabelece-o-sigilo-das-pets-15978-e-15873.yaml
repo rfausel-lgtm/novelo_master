@@ -1,0 +1,33 @@
+id: src-stf-2026-06-24-decisao-pet-15873-restabelece-o-sigilo-das-pets-15978-e-15873
+kind: source
+title: 'PET 15873 / DF — Decisão (Min. André Mendonça, 24/06/2026)'
+publisher: Supremo Tribunal Federal (portal processual)
+author: André Mendonça
+publication_date: '2026-06-24'
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15388324529&ext=.pdf
+source_type: official_court
+language: pt-BR
+summary: >-
+  Decisão de duas páginas, assinada digitalmente pelo relator em 24/06/2026. Com base no art. 20 do "CCP"
+  (assim grafado no texto) e na Súmula Vinculante nº 14, e considerando a necessidade de resguardar o aporte
+  de novas informações aos autos para viabilizar futuras diligências, determina "o restabelecimento do sigilo
+  anteriormente vigente no âmbito das PETs nº 15.978 e nº 15.873, para a retomada do trâmite processual". No
+  cabeçalho, a Polícia Federal figura como interessada e, entre os requeridos, o senador Ciro Nogueira e
+  Felipe Cançado Vorcaro, já registrados no acervo como investigados na Pet 15.873; os demais nomes do
+  cabeçalho não são reproduzidos pelo Novelo.
+notes: >-
+  Consulta de 16/10/2026. No portal, o andamento de 24/06/2026 é rotulado "Despacho"; o documento traz o
+  título "DECISÃO". O link direto baixa o PDF; WebFetch/curl = 403. Lido no navegador embutido, numa aba
+  própria, por leitura do PDF dentro da sessão do portal (sem download para o usuário). sha256 do PDF lido:
+  266ae834fbad02c00bd19a28b747f6ee43d4b387964c90dcb4b8d045c7264b56; captura em raw/ pendente.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

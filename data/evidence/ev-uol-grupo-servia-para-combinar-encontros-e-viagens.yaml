@@ -1,0 +1,20 @@
+id: ev-uol-grupo-servia-para-combinar-encontros-e-viagens
+kind: evidence
+classification: A
+proposition: >-
+  Segundo o UOL (30/09/2026), os participantes do grupo combinavam encontros e viagens, entre elas uma viagem
+  em aeronave de Vorcaro organizada em 28/08/2025, com destino não informado.
+attributed_to: UOL (Cézar Feitoza, Natália Portinari e Fabio Serapião)
+document_ids: []
+source_ids:
+- src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+date: '2025-08-28'
+notes: >-
+  O teor das mensagens não é transcrito. O UOL registra que, pelas mensagens apagadas, não é possível saber
+  quantos encontros foram organizados pelo grupo. Não se registram compromissos familiares, terceiros nem
+  outros assuntos descritos na reportagem.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

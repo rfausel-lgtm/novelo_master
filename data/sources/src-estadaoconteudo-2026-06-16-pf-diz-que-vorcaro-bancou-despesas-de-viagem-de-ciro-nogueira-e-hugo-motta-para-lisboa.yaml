@@ -1,0 +1,30 @@
+id: src-estadaoconteudo-2026-06-16-pf-diz-que-vorcaro-bancou-despesas-de-viagem-de-ciro-nogueira-e-hugo-motta-para-lisboa
+kind: source
+title: PF diz que Vorcaro bancou despesas de viagem de Ciro Nogueira e Hugo Motta para Lisboa
+publisher: Estadão Conteúdo (republicado pelo Diario de Pernambuco)
+publication_date: '2026-06-16'
+url: https://www.diariodepernambuco.com.br/brasil/2026/06/11716738-pf-diz-que-vorcaro-bancou-despesas-de-viagem-de-ciro-nogueira-e-hugo-motta-para-lisboa.html
+source_type: wire
+language: pt-BR
+summary: >-
+  Segundo a matéria, Vorcaro encomendou cinco diárias de suíte júnior no Four Seasons de Lisboa para Ciro
+  Nogueira e Hugo Motta, em pedido de 18/06/2024; de acordo com a PF, o custo total para cada um seria de
+  cerca de R$ 90 mil, com base na cotação do euro da época. Registra que Motta disse ter "muita tranquilidade"
+  e que a defesa de Vorcaro não comentou.
+notes: >-
+  Publicada às 20h16 de 16/06/2026. A cifra por pessoa diverge das demais fontes; o Novelo a registra apenas
+  como atribuída ao veículo; o texto diz que, "de acordo com a PF, o custo total para cada um seria de cerca
+  de R$ 90 mil", e a fórmula "cerca de R$ 90 mil para cada um" não é literal. A matéria
+  também cita um total de despesas de viagem de Ciro com roteiro diferente do da Agência O Globo; esse trecho
+  não é usado.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

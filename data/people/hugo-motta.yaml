@@ -8,17 +8,24 @@ positions:
   organization_id: camara-dos-deputados
   source_ids:
   - src-stf-2026-03-12-rejeita-cpi
-summary: 'Presidente da Câmara dos Deputados, descrito pela imprensa como "afilhado político" de seu
-  antecessor, Arthur Lira. No MS 40791, o deputado Rodrigo Rollemberg alegou omissão de Motta na instalação
-  da CPI do Banco Master (requerimento de 02/02/2026 com 201 assinaturas); o STF rejeitou o pedido em
-  12/03/2026 por falta de prova de omissão ilegal. NOVO (15/09/2026): a Mesa Diretora da Câmara, sob sua
-  presidência, pediu ao Min. Flávio Dino, em dezembro/2025, a anulação das provas obtidas pela PF contra
-  Mariângela Fialek — servidora nomeada por Lira, investigada por peculato-desvio e associação criminosa
-  num esquema de R$ 119,2 milhões em emendas — e o retorno dela ao cargo.'
-why_in_novelo: Foi apontado como autoridade coatora em mandado de segurança sobre a instalação da CPI
-  do Banco Master, rejeitado pelo STF — e, desde dezembro/2025, a Mesa Diretora sob sua presidência pediu
-  ao STF a anulação de provas contra uma servidora investigada por desvio de emendas, ação institucional
-  da própria cúpula da Câmara.
+summary: >-
+  Presidente da Câmara dos Deputados, descrito pela imprensa como "afilhado político" de seu antecessor, Arthur
+  Lira. No MS 40791, o deputado Rodrigo Rollemberg alegou omissão de Motta na instalação da CPI do Banco Master
+  (requerimento de 02/02/2026 com 201 assinaturas); o STF rejeitou o pedido em 12/03/2026 por falta de prova de
+  omissão ilegal. Segundo o Poder360, a Mesa Diretora da Câmara, sob sua presidência, pediu ao Min. Flávio Dino,
+  em dezembro/2025, a anulação das provas obtidas pela PF contra Mariângela Fialek, servidora nomeada por Lira e
+  investigada em apuração sobre emendas parlamentares, e o retorno dela ao cargo. Segundo reportagens de
+  16/06/2026 que descrevem relatório da PF não localizado pelo Novelo, Vorcaro pagou hospedagem de "Ciro" e
+  "Hugo", identificados pela PF como Ciro Nogueira e Motta, em hotel de Lisboa em junho de 2024; Motta afirmou
+  em 16 e 17/06 que viajou no jato de Vorcaro a convite de Ciro, que teve duas diárias pagas por Vorcaro (a PF
+  conta cinco) e que se tratava de evento corporativo, um encontro jurídico. Segundo a CNN Brasil (29/09/2026),
+  registros extraídos pela PF do celular de Vorcaro mostram ao menos 100 chamadas concluídas e 102 não concluídas entre
+  os dois e ao menos 19 encontros combinados de 03/2024 a 10/2025; segundo o UOL (30/09/2026), participava com Vorcaro, Ciro e Fábio
+  Faria de um grupo de WhatsApp. As reportagens registram que Motta não é investigado; o Novelo não localizou
+  documento oficial sobre isso.
+why_in_novelo: >-
+  Presidente da Câmara dos Deputados; citado em reportagens sobre relatórios da PF como hóspede, em Lisboa em
+  06/2024, de hotel pago por Daniel Vorcaro; Motta afirma ter tido duas diárias pagas.
 cited_position:
 - kind: version
   summary: Segundo a comunicação oficial do STF, Motta declarou à imprensa que não seria possível instalar
@@ -32,18 +39,64 @@ cited_position:
   summary: Disse não temer eventual delação de Vorcaro.
   source_ids:
   - src-jparaiba-2026-03-24-motta-nao-teme
-open_questions: []
+- date: '2026-06-17'
+  by_id: hugo-motta
+  kind: version
+  summary: >-
+    Afirmou que viajou a Lisboa no jato de Vorcaro a convite de Ciro Nogueira e que Vorcaro pagou a hospedagem,
+    mas que teve apenas duas diárias pagas; descreveu a viagem como evento corporativo, um encontro jurídico;
+    disse, segundo o Correio da Manhã, que em 2024 desconhecia as irregularidades atribuídas ao banqueiro, e,
+    segundo a Gazeta do Povo (16/06), que tem tranquilidade sobre suas relações e defende que as investigações
+    prossigam.
+  source_ids:
+  - src-correiodamanha-2026-06-17-motta-diz-que-viajou-em-aviao-de-vorcaro-a-convite-de-ciro-nogueira
+  - src-correiobraziliense-2026-06-17-master-bancou-despesas-de-ciro-nogueira-e-hugo-motta-diz-pf
+  - src-gazetadopovo-2026-06-16-pf-cita-hugo-motta-em-investigacao-sobre-beneficios-pagos-por-daniel-vorcaro
+- date: '2026-09-29'
+  by_id: hugo-motta
+  kind: public_note
+  summary: >-
+    Nota da assessoria sobre os contatos com Vorcaro: Motta "sempre manteve diálogo com os diversos segmentos do
+    empresariado" e "não existe nenhum ilícito retratado nos diálogos publicados".
+  source_ids:
+  - src-cnnbrasil-2026-09-29-hugo-se-posiciona-apos-revelacoes-de-telefonemas-e-encontros-com-vorcaro
+- date: '2026-09-30'
+  by_id: hugo-motta
+  kind: no_response
+  summary: >-
+    Sobre o grupo de WhatsApp, preferiu não comentar o teor das conversas (UOL); a assessoria disse à Gazeta do
+    Povo que os parlamentares não vão se pronunciar.
+  source_ids:
+  - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+  - src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+open_questions:
+- 'Se Motta é investigado: as reportagens (IstoÉ, Gazeta do Povo) dizem que não; o Novelo não localizou documento
+  oficial que o confirme ou o negue.'
+- 'Número de diárias em Lisboa: duas, segundo Motta; cinco, segundo a PF descrita pela imprensa. O relatório não
+  foi localizado.'
+- 'Origem processual dos registros de chamadas e encontros (CNN Brasil) e do grupo de WhatsApp (UOL): não citada
+  pelas fontes.'
 source_ids:
 - src-stf-2026-03-12-rejeita-cpi
 - src-jparaiba-2026-03-24-motta-nao-teme
 - src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
+- src-cnnbrasil-2026-06-16-vorcaro-bancou-suites-em-hotel-de-lisboa-para-hugo-motta-e-ciro-nogueira
+- src-istoe-2026-06-16-caso-master-hugo-motta-e-ciro-nogueira-sao-citados-em-relatorio-da-pf-entenda
+- src-metropoles-2026-06-16-pf-diz-que-vorcaro-bancou-hotel-de-luxo-para-ciro-nogueira-e-hugo-motta-em-lisboa
+- src-gazetadopovo-2026-06-16-pf-cita-hugo-motta-em-investigacao-sobre-beneficios-pagos-por-daniel-vorcaro
+- src-correiobraziliense-2026-06-17-master-bancou-despesas-de-ciro-nogueira-e-hugo-motta-diz-pf
+- src-correiodamanha-2026-06-17-motta-diz-que-viajou-em-aviao-de-vorcaro-a-convite-de-ciro-nogueira
+- src-cnnbrasil-2026-09-29-hugo-e-vorcaro-trocaram-ao-menos-100-telefonemas-e-tiveram-19-encontros
+- src-cnnbrasil-2026-09-29-hugo-se-posiciona-apos-revelacoes-de-telefonemas-e-encontros-com-vorcaro
+- src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
+- src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Hugo_Motta
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-15'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/hugo-motta.jpg
   source: Wikimedia Commons

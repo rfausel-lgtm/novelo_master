@@ -1,0 +1,30 @@
+id: src-cnnbrasil-2026-09-29-hugo-e-vorcaro-trocaram-ao-menos-100-telefonemas-e-tiveram-19-encontros
+kind: source
+title: Hugo e Vorcaro trocaram ao menos 100 telefonemas e tiveram 19 encontros
+publisher: CNN Brasil (blog de Matheus Teixeira)
+author: Matheus Teixeira
+publication_date: '2026-09-29'
+url: https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/hugo-e-vorcaro-trocaram-ao-menos-100-telefonemas-e-tiveram-19-encontros/
+source_type: press
+language: pt-BR
+summary: >-
+  Segundo o blog, mensagens e registros extraídos pela PF do celular de Daniel Vorcaro mostram, entre março
+  de 2024 e outubro de 2025, ao menos 100 chamadas concluídas e 102 não concluídas entre Vorcaro e Hugo Motta
+  e que ambos "marcaram ao menos 19 encontros"; os temas incluem o FGC, a disputa pela presidência da Câmara, uma possível sociedade,
+  caronas e camarote. Traz nota da assessoria de Motta; a defesa de Vorcaro não respondeu até a publicação.
+notes: >-
+  Publicada às 17h16 e atualizada às 18h50 de 29/09/2026. O título fala em 100 telefonemas (as chamadas
+  concluídas); o corpo registra ainda 102 não concluídas e fala em encontros marcados, não em encontros
+  realizados (a matéria da CNN das 22h26 diz "encontros presenciais combinados"). A matéria não diz como obteve os registros nem cita
+  relatório, Pet ou decisão.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

@@ -1,0 +1,34 @@
+id: evt-2026-09-11-mendonca-levanta-o-sigilo-das-pets-15873-e-15674-na-pet-16704
+kind: event
+title: Na Pet 16.704, André Mendonça levanta o sigilo de duas listas de processos, entre eles as Pets 15.873 e 15.674
+event_type: judicial_decision
+date: '2026-09-11'
+date_precision: day
+participant_ids:
+- supremo-tribunal-federal
+- andre-mendonca
+- ministerio-publico-federal
+description: >-
+  Em 11/09/2026, o ministro André Mendonça, em despacho na Pet 16.704/DF, registrou o pedido do
+  Vice-Procurador-Geral da República de levantamento do sigilo de 18 Pets, entre elas a 15.873, afirmou "não
+  haver impedimento ao levantamento dos correspondentes sigilos" e, de ofício, determinou também o
+  levantamento do sigilo de outra lista, com os Inquéritos 5.050 e 5.070 e Pets, entre elas a 15.674. A Pet
+  15.978 não consta de nenhuma das duas listas, e o último ato sobre o sigilo dela localizado pelo Novelo é o
+  de 24/06/2026. O Congresso em Foco noticiou a decisão no mesmo dia. O portal público lista como peças
+  baixáveis despachos e decisões, e não as peças da PF; o levantamento do sigilo da Pet não equivale à
+  publicação de relatório.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-despacho-de-11-09-2026-levanta-o-sigilo-das-pets-15873-e-15674
+- ev-pgr-lista-17-processos-omitidos-do-levantamento-de-sigilo
+source_ids:
+- src-stf-2026-09-11-despacho-pet-16704-levanta-sigilo-de-lista-de-pets
+- src-congressoemfoco-2026-09-11-mendonca-tira-sigilo-de-casos-dark-horse-castro-ciro-e-wagner
+document_ids:
+- doc-2026-09-11-despacho-pet-16704-levanta-sigilo-de-lista-de-pets
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

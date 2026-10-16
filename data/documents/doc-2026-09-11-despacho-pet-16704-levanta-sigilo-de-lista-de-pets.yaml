@@ -1,0 +1,34 @@
+id: doc-2026-09-11-despacho-pet-16704-levanta-sigilo-de-lista-de-pets
+kind: document
+title: 'Despacho do Min. André Mendonça na Pet 16.704/DF (11/09/2026): levantamento do sigilo de duas listas de processos, entre eles as Pets 15.873 e 15.674'
+doc_type: judicial_decision
+date: '2026-09-11'
+date_precision: day
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça (STF)
+reference: STF, Pet 16.704/DF, despacho de 11/09/2026 (código de autenticação 16DC-94E0-E48A-E730)
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390360837&ext=.pdf
+source_ids:
+- src-stf-2026-09-11-despacho-pet-16704-levanta-sigilo-de-lista-de-pets
+- src-congressoemfoco-2026-09-11-mendonca-tira-sigilo-de-casos-dark-horse-castro-ciro-e-wagner
+sha256: e74e42807999bb3aa75c1142db35cea8276ab18284ddb65e98b489925239e847
+summary: >-
+  Registra o pedido do Vice-Procurador-Geral da República de levantamento do sigilo de 18 Pets, entre elas a
+  15.873; anota que esses processos não guardam relação com o objeto da pauta da sessão extraordinária
+  seguinte e afirma não haver impedimento ao levantamento dos sigilos; e, de ofício, determina também o
+  levantamento do sigilo de outra lista, com os Inquéritos 5.050 e 5.070 e Pets, entre elas a 15.674. A Pet
+  15.978 não consta de nenhuma das listas. O portal público lista como peças baixáveis despachos e decisões;
+  o levantamento do sigilo dos autos não equivale à publicação de relatórios ou representações da PF. Hash do
+  PDF lido no portal em 16/10/2026.
+excerpt: >-
+  De todo o modo, entendo não haver impedimento ao levantamento dos correspondentes sigilos.
+is_official: true
+related_entity_ids:
+- supremo-tribunal-federal
+- andre-mendonca
+- ministerio-publico-federal
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

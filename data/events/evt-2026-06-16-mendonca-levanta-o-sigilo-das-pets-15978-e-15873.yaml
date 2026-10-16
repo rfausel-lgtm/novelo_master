@@ -1,0 +1,31 @@
+id: evt-2026-06-16-mendonca-levanta-o-sigilo-das-pets-15978-e-15873
+kind: event
+title: André Mendonça levanta o sigilo das Pets 15.978 e 15.873 no dia do julgamento das prisões na Segunda Turma
+event_type: judicial_decision
+date: '2026-06-16'
+date_precision: day
+participant_ids:
+- supremo-tribunal-federal
+- andre-mendonca
+description: >-
+  Em 16/06/2026, o ministro André Mendonça, relator, em despacho na Pet 15.873/DF, levantou o sigilo das Pets
+  15.978 e 15.873. O despacho registra como motivos a inclusão em pauta, no mesmo dia e "de última hora", da
+  devolução da vista regimental das duas Pets na sessão presencial da Segunda Turma, a necessidade de permitir
+  aos demais ministros do colegiado o acesso à integralidade dos feitos e a ausência de prejuízo à
+  investigação. No mesmo dia a Segunda Turma referendou as prisões de Henrique e Felipe Vorcaro (ver
+  evt-2026-06-16-segunda-turma-mantem-prisao-pai-e-primo). O despacho não descreve o conteúdo das Pets nem
+  determina a publicação de relatórios; as reportagens publicadas a partir desse dia sobre relatórios da PF
+  são registradas à parte, em classe A.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-stf-despacho-de-16-06-2026-levanta-o-sigilo-das-pets-15978-e-15873
+source_ids:
+- src-stf-2026-06-16-despacho-pet-15873-levanta-sigilo-das-pets-15978-e-15873
+document_ids:
+- doc-2026-06-16-despacho-levanta-sigilo-pets-15978-e-15873
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

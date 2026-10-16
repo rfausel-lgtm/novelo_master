@@ -1,0 +1,109 @@
+id: evt-2026-06-16-reportagens-descrevem-relatorios-da-pf-sobre-hospedagem-paga-por-vorcaro-a-ciro-nogueira-e-hugo-motta
+kind: event
+title: Reportagens descrevem relatórios da PF sobre hospedagem em Lisboa paga por Vorcaro a Ciro Nogueira e Hugo Motta (06/2024), segundo a imprensa
+event_type: publication
+date: '2026-06-16'
+date_precision: day
+participant_ids:
+- ciro-nogueira
+- hugo-motta
+- daniel-vorcaro
+- leo-serrano
+- policia-federal
+description: >-
+  Em 16/06/2026, depois do despacho de André Mendonça que levantou o sigilo das Pets 15.873 e 15.978, a CNN
+  Brasil, o Poder360, a IstoÉ, o Metrópoles e a Agência O Globo publicaram descrições de relatórios da Polícia
+  Federal sobre viagens e hospedagens pagas por Daniel Vorcaro. Segundo essas reportagens, em 18/06/2024
+  Vorcaro pediu a "Leo Serrano" reservas no hotel Four Seasons, em Lisboa, para si e para "Ciro" e "Hugo"; uma
+  fatura do hotel registra cinco diárias e 3.155,71 euros, associada pela PF a duas suítes júnior; e a PF
+  identifica "Ciro" e "Hugo" como o senador Ciro Nogueira e o deputado Hugo Motta a partir das mensagens, da
+  lista de nomes enviada por Vorcaro e da fatura (leitura da PF; a mensagem não traz sobrenomes). Os valores
+  divergem entre os veículos: R$ 91.280,59 por cinco diárias atribuídas a Ciro (R$ 18.256,12 por diária,
+  segundo a Agência O Globo); custo de cerca de R$ 90 mil para cada um, segundo o Estadão Conteúdo; cerca de
+  R$ 18 mil ou R$ 20.038,76 pela fatura em euros, conforme o veículo; e, segundo o Correio Braziliense,
+  R$ 16.784,89 de diárias pagas pelo Senado ao senador na mesma data. A Agência O Globo registra estimativa da
+  PF de R$ 468.721,78 em "benefício econômico direto" ao senador em viagens (Nova York, Lisboa e Courchevel) e
+  jantares, e que os investigadores pediram "cautela" com referências a "Ciro" em listas de pagamentos e
+  diálogos, por possível homônimo; a ressalva, tal como descrita, trata de listas e diálogos. Segundo o
+  Correio da Manhã, Hugo Motta afirmou em 17/06 que viajou no jato de Vorcaro a convite de Ciro e que Vorcaro
+  pagou a hospedagem, mas disse ter "ganho" apenas duas diárias; à Gazeta do Povo e ao Correio Braziliense,
+  descreveu a viagem como "evento corporativo" e "encontro jurídico". A IstoÉ e a Gazeta do Povo registram que
+  Motta não é investigado, o que o Novelo não localizou em documento oficial. Segundo a Folha de S.Paulo (via
+  Brasil 247), Fábio Faria constava de lista de convidados e declarou que não esteve em Lisboa em 2024. A
+  defesa de Ciro disse ao Poder360 que prestará esclarecimentos nos autos. O Novelo não localizou os relatórios
+  nos autos públicos: a Pet, a data do documento (a IstoÉ diz que foi produzido em abril de 2026) e um PDF não
+  constam das fontes, e tudo o que se registra deles é descrição da imprensa.
+evidence_class: A
+status: disputed
+evidence_ids:
+- ev-pf-hospedagem-em-lisboa-em-06-2024-segundo-a-imprensa
+- ev-valores-da-hospedagem-em-lisboa-divergem-entre-os-veiculos
+- ev-pf-estimativa-de-r-468-mil-em-viagens-e-jantares-de-ciro-nogueira
+- ev-pf-ressalva-de-homonimo-de-ciro-em-listas-de-pagamento-e-resposta-do-senador
+- ev-hugo-motta-afirma-que-viajou-no-jato-de-vorcaro-e-teve-duas-diarias-pagas
+- ev-fabio-faria-nega-ter-estado-em-lisboa-em-2024
+- ev-defesa-de-ciro-nogueira-promete-esclarecimentos-nos-autos
+- ev-leo-serrano-de-lisboa-e-tratado-como-o-intermediario-de-viagens-de-ciro
+source_ids:
+- src-cnnbrasil-2026-06-16-vorcaro-bancou-suites-em-hotel-de-lisboa-para-hugo-motta-e-ciro-nogueira
+- src-poder360-2026-06-16-pf-diz-que-vorcaro-e-nogueira-tinham-convergencia-de-interesses-ilicitos
+- src-istoe-2026-06-16-caso-master-hugo-motta-e-ciro-nogueira-sao-citados-em-relatorio-da-pf-entenda
+- src-metropoles-2026-06-16-pf-diz-que-vorcaro-bancou-hotel-de-luxo-para-ciro-nogueira-e-hugo-motta-em-lisboa
+- src-agenciaoglobo-2026-06-16-viagens-de-ciro-nogueira-a-ny-lisboa-e-courchevel-bancadas-por-vorcaro-custaram-r-468-mil-diz-pf
+- src-estadaoconteudo-2026-06-16-pf-diz-que-vorcaro-bancou-despesas-de-viagem-de-ciro-nogueira-e-hugo-motta-para-lisboa
+- src-gazetadopovo-2026-06-16-pf-cita-hugo-motta-em-investigacao-sobre-beneficios-pagos-por-daniel-vorcaro
+- src-correiobraziliense-2026-06-17-master-bancou-despesas-de-ciro-nogueira-e-hugo-motta-diz-pf
+- src-correiodamanha-2026-06-17-motta-diz-que-viajou-em-aviao-de-vorcaro-a-convite-de-ciro-nogueira
+- src-brasil247-2026-06-16-vorcaro-organizou-evento-restrito-com-politicos-em-lisboa-nao-entra-nem-o-papa
+- src-infomoney-2026-03-05-pf-apura-suposta-ordem-de-vorcaro-para-pagamento-a-ciro-nogueira
+document_ids: []
+cited_position:
+- by_id: ciro-nogueira
+  kind: clarification
+  date: '2026-06-16'
+  summary: >-
+    A defesa disse ao Poder360 que não comentaria o caso naquele momento e que apresentará nos autos "todos os
+    esclarecimentos técnicos" para rebater o que chamou de "descabidas insinuações policiais".
+  source_ids:
+  - src-poder360-2026-06-16-pf-diz-que-vorcaro-e-nogueira-tinham-convergencia-de-interesses-ilicitos
+- by_id: ciro-nogueira
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Manifestação específica sobre a hospedagem em Lisboa não localizada: a CNN Brasil e a IstoÉ registram que
+    não houve resposta até a publicação, e o Metrópoles não traz posição dos citados.
+  source_ids:
+  - src-cnnbrasil-2026-06-16-vorcaro-bancou-suites-em-hotel-de-lisboa-para-hugo-motta-e-ciro-nogueira
+  - src-istoe-2026-06-16-caso-master-hugo-motta-e-ciro-nogueira-sao-citados-em-relatorio-da-pf-entenda
+- by_id: hugo-motta
+  kind: version
+  date: '2026-06-17'
+  summary: >-
+    Afirmou que viajou no jato de Vorcaro a convite de Ciro Nogueira e que Vorcaro pagou a hospedagem, mas que
+    teve apenas duas diárias pagas; descreveu a viagem como evento corporativo, um encontro jurídico, e disse
+    ter tranquilidade sobre suas relações e defender que as investigações prossigam.
+  source_ids:
+  - src-correiodamanha-2026-06-17-motta-diz-que-viajou-em-aviao-de-vorcaro-a-convite-de-ciro-nogueira
+  - src-correiobraziliense-2026-06-17-master-bancou-despesas-de-ciro-nogueira-e-hugo-motta-diz-pf
+  - src-gazetadopovo-2026-06-16-pf-cita-hugo-motta-em-investigacao-sobre-beneficios-pagos-por-daniel-vorcaro
+- by_id: fabio-faria
+  kind: denial
+  date: '2026-06-16'
+  summary: Declarou à Folha de S.Paulo (via Brasil 247) que não esteve em Lisboa durante o ano de 2024.
+  source_ids:
+  - src-brasil247-2026-06-16-vorcaro-organizou-evento-restrito-com-politicos-em-lisboa-nao-entra-nem-o-papa
+- by_id: daniel-vorcaro
+  kind: no_response
+  date: '2026-06-16'
+  summary: Segundo o Estadão Conteúdo, a defesa de Vorcaro não comentou; as demais matérias lidas não trazem posição dele.
+  source_ids:
+  - src-estadaoconteudo-2026-06-16-pf-diz-que-vorcaro-bancou-despesas-de-viagem-de-ciro-nogueira-e-hugo-motta-para-lisboa
+- by_id: leo-serrano
+  kind: not_located
+  date: '2026-10-16'
+  summary: Nenhuma manifestação dele localizada nas matérias lidas pelo Novelo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'
