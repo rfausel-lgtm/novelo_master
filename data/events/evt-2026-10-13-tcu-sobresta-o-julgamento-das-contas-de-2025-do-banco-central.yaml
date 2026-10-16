@@ -1,0 +1,64 @@
+id: evt-2026-10-13-tcu-sobresta-o-julgamento-das-contas-de-2025-do-banco-central
+kind: event
+title: TCU sobresta o julgamento das contas de 2025 do Banco Central até o desfecho da representação sobre a supervisão do Banco Master
+event_type: regulatory_act
+date: '2026-10-13'
+date_precision: day
+participant_ids:
+- tribunal-de-contas-da-uniao
+- banco-central-do-brasil
+- jorge-oliveira
+- jhonatan-de-jesus
+description: >-
+  Em sessão de 13/10/2026, a 2ª Câmara do Tribunal de Contas da União, em acórdão de relação de relatoria do
+  ministro Jorge Oliveira (Acórdão 5163/2026), decidiu sobrestar o julgamento das contas de 2025 do Banco
+  Central do Brasil (TC 007.138/2026-1) até o trânsito em julgado da deliberação a ser proferida no TC
+  022.950/2025-7, quando a unidade especializada, ao instruir novamente o processo, deverá avaliar se o TC
+  008.216/2025-8 e a Reclamação 88.121 do STF têm potencial para influir no mérito das contas. Segundo o
+  acórdão, a unidade técnica propunha julgá-las regulares, com quitação plena, e o sobrestamento acompanha o
+  parecer do Ministério Público junto ao TCU. O TC 022.950/2025-7 (relator Jhonatan de Jesus) é, segundo cópia
+  de despacho de 24/03/2026 hospedada pelo Poder360, a representação do MPTCU sobre a atuação do Banco Central
+  na supervisão e na resolução do Banco Master, sobrestada por esse despacho até elementos oficiais de
+  apurações internas do BC, da CGU e do STF; no TC 008.216/2025-8, de relatoria de Jorge Oliveira, está sobrestado pedido de reexame
+  relacionado a representação do MPTCU sobre a atuação do Banco Central e, eventualmente, da CVM na operação
+  entre o BRB e o Master. O acórdão não aponta irregularidade em ato de ninguém; os "responsáveis" listados,
+  entre eles o presidente do Banco Central, são os gestores que prestam as contas. O Novelo não leu a Ata
+  35/2026 nem os autos do TC 022.950/2025-7, que tramita sob sigilo.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-tcu-acordao-5163-2026-sobresta-as-contas-de-2025-do-banco-central
+- ev-tcu-despacho-de-24-03-2026-sobresta-o-tc-022-950-2025-7
+source_ids:
+- src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+- src-tcu-2026-03-24-despacho-tc-022-950-2025-7-gabinete-jhonatan-de-jesus
+document_ids:
+- doc-2026-10-13-tcu-acordao-5163-2026-segunda-camara-sobrestamento-das-contas-de-2025-do-bc
+cited_position:
+- by_id: tribunal-de-contas-da-uniao
+  kind: version
+  date: '2026-10-13'
+  summary: O acórdão é a posição do tribunal; não há declaração pública do relator nas fontes abertas.
+  source_ids:
+  - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+- by_id: banco-central-do-brasil
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma nota do Banco Central sobre o sobrestamento localizada: busca do Novelo em 16/10/2026 nas notas à
+    imprensa publicadas em bcb.gov.br entre 09 e 16/10/2026 e nas fontes deste registro.
+  source_ids:
+  - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+- by_id: gabriel-galipolo
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma manifestação pública do presidente do Banco Central sobre o sobrestamento localizada na mesma busca
+    de 16/10/2026.
+  source_ids:
+  - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

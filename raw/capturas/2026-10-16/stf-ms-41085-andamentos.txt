@@ -1,0 +1,51 @@
+# Captura de texto — STF, MS 41.085, página do processo e aba de andamentos
+# url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7696998
+# retrieved_at: 2026-10-16 (navegador embutido, aba própria, texto da página; editor do lote 355)
+# registro ligado: data/documents/doc-2026-09-22-stf-ms-41085-andamentos-liminar-indeferida.yaml
+# supressões do Novelo: (1) nomes e números de inscrição dos advogados das partes substituídos por [advogado omitido], como nos registros; (2) na certidão de distribuição, o nome do ministro excluído da distribuição de liminares foi substituído por [nome do ministro omitido], como no documento do Novelo (o portal o identifica pelo cargo de Presidente do TSE); (3) menus, campo de busca, rodapé institucional e aviso de cookies omitidos.
+# esta captura é transcrição do texto exibido, não cópia oficial; o sha256 registrado no documento é o deste arquivo.
+
+MS 41085
+PROCESSO ELETRÔNICO PÚBLICO MEDIDA LIMINAR
+NÚMERO ÚNICO: 0185001-61.2026.1.00.0000
+MANDADO DE SEGURANÇA
+Origem: DF - DISTRITO FEDERAL
+Relator(a): MIN. CRISTIANO ZANIN
+Relator(a) do último incidente: MIN. CRISTIANO ZANIN (MS-AgR)
+IMPTE.(S) ALESSANDRO VIEIRA
+ADV.(A/S) [advogado omitido]
+IMPDO.(A/S) PRESIDENTE DO SENADO FEDERAL
+ADV.(A/S) [advogado omitido]
+
+Andamentos
+14/10/2026 | Vista à PGR | Vista à PGR
+14/10/2026 | Certidão | Certifico a retificação da autuação destes autos, nos termos do inciso I, art. 1º da Resolução 467/2011, do STF.
+13/10/2026 | Petição | Informações - Petição: 129337 Data: 13/10/2026, às 23:53:44
+13/10/2026 | Intimado eletronicamente | Intimação | ADVOGADO-GERAL DA UNIÃO. Intimação relativa ao DJe publicado em 30/09/2026.
+05/10/2026 | Intimado eletronicamente | Intimação | PROCURADOR-GERAL DA REPÚBLICA. Intimação relativa ao DJe publicado em 23/09/2026.
+05/10/2026 | Intimado eletronicamente | Intimação | ADVOGADO-GERAL DA UNIÃO. Intimação relativa ao DJe publicado em 23/09/2026.
+30/09/2026 | Intimação eletrônica disponibilizada | Intimação de Despacho, Decisão ou Acórdão - ADVOGADO-GERAL DA UNIÃO
+30/09/2026 | Publicação, DJE | Divulgado em 29/09/2026
+29/09/2026 | Lançamento indevido | 29/09/2026 - Vista à PGR Justificativa: Aguardando informações ao Senado Federal
+29/09/2026 | Remessa | Petição: 122934/2026 ao Gab. Min. Relator
+29/09/2026 | Interposto agravo regimental | Juntada Petição: 122934/2026
+29/09/2026 | Petição | Agravo Regimental - Petição: 122934 Data: 29/09/2026, às 17:29:50
+29/09/2026 | Determinada a intimação | Despacho | MIN. CRISTIANO ZANIN | Sem Descrição
+29/09/2026 | Juntada | de comprovante de recibo ref. OFÍCIO ELETRÔNICO 22541/2026 - Advogado-Geral da União
+29/09/2026 | Juntada | de comprovante de recibo ref. OFÍCIO ELETRÔNICO 22540/2026 - Presidente do Senado Federal
+28/09/2026 | Expedido(a) | MS - Informação petição inicial _Relator
+28/09/2026 | Expedido(a) | MS - Envio petição inicial AGU _Relator
+28/09/2026 | Comunicação assinada | Ofício 22540/2026. MS - Informação petição inicial _Relator
+28/09/2026 | Comunicação assinada | Ofício 22541/2026. MS - Envio petição inicial AGU _Relator
+25/09/2026 | Remessa | Petição: 121498/2026 ao Gab. Min. Relator
+25/09/2026 | Petição | Reconsideração - Petição: 121498 Data: 25/09/2026, às 17:29:44
+23/09/2026 | Petição | PROCURADOR-GERAL DA REPÚBLICA - Petição: 120312 - Data: 23/09/2026, às 17:02:51, via Web Service MNI 2.2.2.
+23/09/2026 | Certidão | De elaboração de dois ofícios eletrônicos. Decisão de 22/9/2026.
+23/09/2026 | Vista à PGR para fins de intimação | Decisão monocrática
+23/09/2026 | Intimação eletrônica disponibilizada | Intimação de Despacho, Decisão ou Acórdão - ADVOGADO-GERAL DA UNIÃO
+23/09/2026 | Publicação, DJE | Divulgado em 22/09/2026
+22/09/2026 | Liminar indeferida | Decisão monocrática | MIN. CRISTIANO ZANIN
+22/09/2026 | Conclusos ao(à) Relator(a)
+22/09/2026 | Distribuído | Certidão | MIN. CRISTIANO ZANIN. PRESIDENTE DO TSE(somente para liminares): Excluído(a) da distribuição [nome do ministro omitido] de 04/07/2026 a 24/11/2026, motivo: Art. 67 - § 5º RISTF
+15/09/2026 | Autuado
+15/09/2026 | Protocolado | Petição Inicial (nº 116489) recebida em 15/09/2026, às 17:52:33

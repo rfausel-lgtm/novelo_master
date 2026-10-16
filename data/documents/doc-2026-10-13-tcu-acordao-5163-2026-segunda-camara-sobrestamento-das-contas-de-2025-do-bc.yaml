@@ -1,0 +1,40 @@
+id: doc-2026-10-13-tcu-acordao-5163-2026-segunda-camara-sobrestamento-das-contas-de-2025-do-bc
+kind: document
+title: 'Acórdão 5163/2026–TCU–2ª Câmara (TC 007.138/2026-1): sobrestamento do julgamento das contas de 2025 do Banco Central'
+doc_type: administrative_act
+date: '2026-10-13'
+date_precision: day
+issuer_id: tribunal-de-contas-da-uniao
+issuer: Tribunal de Contas da União, 2ª Câmara
+reference: TCU, Acórdão 5163/2026–2ª Câmara, TC 007.138/2026-1, Ata 35/2026, rel. Min. Jorge Oliveira
+url: https://pesquisa.apps.tcu.gov.br/doc/acordao-completo/5163/2026/Segunda%20C%C3%A2mara
+source_ids:
+- src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+- src-tcu-2026-03-24-despacho-tc-022-950-2025-7-gabinete-jhonatan-de-jesus
+raw_path: raw/capturas/2026-10-16/tcu-acordao-5163-2026-segunda-camara.txt
+sha256: 0278b8a7c805a81e5f6601cca04128225fd84907ebba045c4bdb80f41f901821
+summary: >-
+  Acórdão de relação na prestação de contas de 2025 do Banco Central do Brasil. Com fundamento no art. 10,
+  § 1º, da Lei 8.443/1992 e nos arts. 201, § 1º, e 143, I, "b", do Regimento Interno, e de acordo com o parecer
+  do MPTCU, a 2ª Câmara sobrestou o julgamento das contas até o trânsito em julgado da deliberação no TC
+  022.950/2025-7 (relator Jhonatan de Jesus; segundo cópia de despacho hospedada pelo Poder360, representação
+  sobre a atuação do BC na supervisão e na resolução do Banco Master), quando a unidade técnica deverá avaliar
+  se o TC 008.216/2025-8 (relator Jorge Oliveira) e a Reclamação 88.121 do STF podem influir no mérito. A
+  unidade técnica propunha julgar as contas regulares, com quitação plena. Os responsáveis listados são o
+  presidente do Banco Central e outros oito gestores, que prestam as contas; o acórdão não aponta
+  irregularidade de nenhum deles e não traz determinações ou recomendações. É ato de tribunal de contas, não
+  decisão judicial. Captura de texto em raw/ (CPFs mascarados omitidos); o sha256 é o da captura.
+excerpt: >-
+  ACORDAM em sobrestar o julgamento destas contas até o trânsito em julgado da deliberação a ser proferida no
+  TC Processo 022.950/2025-7
+is_official: true
+related_entity_ids:
+- tribunal-de-contas-da-uniao
+- banco-central-do-brasil
+- jorge-oliveira
+- jhonatan-de-jesus
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

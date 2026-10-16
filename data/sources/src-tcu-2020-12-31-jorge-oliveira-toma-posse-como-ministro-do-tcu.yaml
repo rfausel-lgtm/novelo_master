@@ -1,0 +1,28 @@
+id: src-tcu-2020-12-31-jorge-oliveira-toma-posse-como-ministro-do-tcu
+kind: source
+title: Jorge Oliveira toma posse como ministro do TCU
+publisher: Tribunal de Contas da União (Secom)
+author: Secom
+publication_date: '2020-12-31'
+url: https://portal.tcu.gov.br/imprensa/noticias/jorge-oliveira-toma-posse-como-ministro-do-tcu
+source_type: official_regulator
+language: pt-BR
+summary: >-
+  Notícia oficial do TCU: Jorge Antonio de Oliveira Francisco tomou posse em 31/12/2020 como ministro do
+  Tribunal de Contas da União, empossado pelo decano Walton Alencar Rodrigues, após indicação do presidente
+  Jair Bolsonaro e sabatina no Senado. Antes, foi ministro de Estado chefe da Secretaria-Geral da Presidência
+  da República e subchefe para Assuntos Jurídicos da Casa Civil.
+notes: >-
+  Usada para identificar o ministro relator do Acórdão 5163/2026 pelo cargo e afastar homônimos. Lida no
+  navegador embutido em 16/10/2026.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

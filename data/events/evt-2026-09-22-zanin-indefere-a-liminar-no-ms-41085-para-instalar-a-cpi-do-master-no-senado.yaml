@@ -1,0 +1,70 @@
+id: evt-2026-09-22-zanin-indefere-a-liminar-no-ms-41085-para-instalar-a-cpi-do-master-no-senado
+kind: event
+title: Zanin indefere a liminar no MS 41.085, que pedia a instalação da CPI do Master no Senado
+event_type: judicial_decision
+date: '2026-09-22'
+date_precision: day
+participant_ids:
+- cristiano-zanin
+- alessandro-vieira
+- davi-alcolumbre
+- senado-federal
+- supremo-tribunal-federal
+description: >-
+  No Mandado de Segurança 41.085 (número único 0185001-61.2026.1.00.0000), impetrado pelo senador Alessandro
+  Vieira contra o Presidente do Senado Federal e protocolado em 15/09/2026, o relator, ministro Cristiano
+  Zanin, indeferiu a liminar em 22/09/2026, por decisão monocrática (DJE divulgado em 22/09). Segundo os
+  andamentos do portal do STF, houve pedido de reconsideração em 25/09; em 28/09 foram assinados ofícios ao
+  Presidente do Senado, para informações, e à AGU; em 29/09 foi interposto agravo regimental e o relator
+  despachou; em 13/10 foi registrada petição do tipo "Informações", sem identificação do autor no portal; e em
+  14/10/2026 os autos foram com vista à PGR. Segundo a Agência Brasil e o Congresso em Foco, Zanin entendeu não
+  comprovada, naquele momento, a omissão de Davi Alcolumbre, destacou a existência de outro requerimento sobre
+  fatos ligados ao Master, pediu informações ao Senado, ressalvou que poderá reexaminar o pedido e lembrou a
+  jurisprudência sobre o direito das minorias parlamentares de instalar CPI; o requerimento de CPI é de 09/03 e
+  tem 41 assinaturas, segundo o senador. O processo é distinto do MS 40.791, sobre CPI na Câmara, já no acervo.
+  O Novelo não leu o inteiro teor da decisão; decisão sobre liminar não resolve o mérito.
+evidence_class: D
+status: verified
+evidence_ids:
+- ev-zanin-indefere-a-liminar-no-ms-41085-sobre-a-cpi-do-master-no-senado
+- ev-fundamentos-da-liminar-negada-por-zanin-segundo-a-imprensa
+source_ids:
+- src-stf-2026-10-16-ms-41085-andamentos
+- src-agenciabrasil-2026-09-23-zanin-nega-liminar-para-obrigar-senado-instalar-cpi-sobre-master
+- src-congressoemfoco-2026-09-23-zanin-nega-liminar-para-obrigar-alcolumbre-a-instalar-cpi-do-master
+document_ids:
+- doc-2026-09-22-stf-ms-41085-andamentos-liminar-indeferida
+cited_position:
+- by_id: alessandro-vieira
+  kind: public_note
+  date: '2026-09-23'
+  summary: >-
+    Em nota, disse: "A decisão do ministro Zanin é uma decepção, como aliás tem sido decepcionante a atuação do
+    STF em geral", e que juntaria mais informações e pediria revisão do entendimento; o agravo regimental foi
+    interposto em 29/09.
+  source_ids:
+  - src-agenciabrasil-2026-09-23-zanin-nega-liminar-para-obrigar-senado-instalar-cpi-sobre-master
+  - src-congressoemfoco-2026-09-23-zanin-nega-liminar-para-obrigar-alcolumbre-a-instalar-cpi-do-master
+  - src-stf-2026-10-16-ms-41085-andamentos
+- by_id: davi-alcolumbre
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma manifestação pública do presidente do Senado sobre a decisão ou sobre o requerimento localizada nas
+    duas matérias de 23/09; as informações pedidas pelo relator não são públicas no portal (consulta de
+    16/10/2026).
+  source_ids:
+  - src-agenciabrasil-2026-09-23-zanin-nega-liminar-para-obrigar-senado-instalar-cpi-sobre-master
+  - src-congressoemfoco-2026-09-23-zanin-nega-liminar-para-obrigar-alcolumbre-a-instalar-cpi-do-master
+  - src-stf-2026-10-16-ms-41085-andamentos
+- by_id: cristiano-zanin
+  kind: version
+  date: '2026-09-22'
+  summary: A decisão é a posição do relator; o Novelo não leu o inteiro teor.
+  source_ids:
+  - src-stf-2026-10-16-ms-41085-andamentos
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

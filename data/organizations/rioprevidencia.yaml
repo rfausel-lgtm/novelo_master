@@ -62,6 +62,7 @@ open_questions:
 - 'A diferença de R$ 700 milhões entre a estimativa de R$ 3 bi da PF e de R$ 3,7 bi da PGR, ambas de 26/05/2026,
   permanece sem explicação encontrada em nenhuma fonte consultada; hipótese não confirmada: juros e correção monetária,
   ou perdas projetadas, somados por uma das partes e não pela outra.'
+- 'CHECAGEM (15/10/2026, linha de investigação do Novelo): nenhum fato novo localizado depois de 26/05/2026 (CPI na Alerj) e de 23/07/2026 (bloqueio de R$ 135 milhões no TJ-RJ, fundo Texas I FIA); o número do processo e a vara da ação do Rioprevidência continuam sem fonte aberta.'
 source_ids:
 - src-stf-2026-05-26-oitava-fase-castro
 - src-conjur-2026-07-17-pge-rj-cobra-master-rioprevidencia
@@ -83,6 +84,6 @@ source_ids:
 full_name: Fundo Único de Previdência Social do Estado do Rio de Janeiro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-19'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-19'
+updated_at: '2026-10-16'

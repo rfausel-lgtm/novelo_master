@@ -3,11 +3,16 @@ kind: person
 name: Mário Frias
 category: politician
 role: Deputado federal (PL-SP); ex-secretário especial da Cultura; produtor-executivo de 'Dark Horse'
-positions: []
+positions:
+- title: Deputado federal reeleito (PL-SP) em 04/10/2026, eleito por quociente partidário
+  organization: Câmara dos Deputados
+  source_ids:
+  - src-tse-2026-10-05-resultados-do-1o-turno-deputado-federal
 summary: Deputado federal e ator, ex-secretário especial da Cultura no governo Bolsonaro. É produtor-executivo de
   'Dark Horse'. Em 11/12/2024 enviou áudio a Vorcaro agradecendo o apoio ao filme, segundo o Intercept; pediu a
   Thiago Miranda a ponte com o banqueiro para um encontro com Jair Bolsonaro (março de 2025). Em nota de 13/05/2026
-  negou uso de dinheiro de Vorcaro no filme.
+  negou uso de dinheiro de Vorcaro no filme. No 1º turno de 04/10/2026 foi reeleito deputado federal por São
+  Paulo, eleito por quociente partidário, com 91.403 votos (0,39% dos válidos), segundo o TSE.
 why_in_novelo: Produtor-executivo do filme 'Dark Horse' que, segundo áudio divulgado pela imprensa, agradeceu a
   Daniel Vorcaro pelo apoio à produção; sua negativa pública está registrada.
 cited_position:
@@ -51,6 +56,7 @@ source_ids:
 - src-stf-2026-09-03-decisao-pet16669-operacao-make-up
 - src-metropoles-2026-09-10-marcelao-confirma-aporte-de-um-milhao
 - src-stf-inq5026-decisao-06-07-2026-quatro-peticoes-desentranhadas
+- src-tse-2026-10-05-resultados-do-1o-turno-deputado-federal
 aliases:
 - Mario Frias
 full_name: Mário Frias
@@ -58,9 +64,9 @@ external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/M%C3%A1rio_Frias
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-10'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/mario-frias.jpg
   source: Wikimedia Commons

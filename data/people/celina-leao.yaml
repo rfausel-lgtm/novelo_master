@@ -13,7 +13,9 @@ summary: Governadora do Distrito Federal. Em 01/04/2026 mandou afastar servidore
   CNN Brasil. Em 15/09/2026, segundo a Folha de S.Paulo (conforme o Poder360) e segundo o Congresso em Foco,
   vieram a público mensagens de 05/04/2025 entre Daniel Vorcaro e o publicitário Thiago Miranda em que ela é
   mencionada; não há conversa direta entre Vorcaro e ela. Ela nega ter participado das negociações do BRB com
-  o Master (ver o evento do dia).
+  o Master (ver o evento do dia). No 1º turno da eleição para governador do Distrito Federal de 04/10/2026 teve
+  825.530 votos (49,93% dos válidos) e disputa o 2º turno, em 25/10/2026, com Leandro Grass, que teve 569.930
+  votos (34,47% dos válidos), segundo o TSE.
 why_in_novelo: Como governadora, determinou o afastamento de funcionários do BRB envolvidos na aprovação
   das operações com o Banco Master, segundo a imprensa.
 cited_position:
@@ -65,6 +67,7 @@ source_ids:
 - src-sbtnews-2026-09-16-celina-contesta-vorcaro-e-nega-participacao-em-negociacao
 - src-congressoemfoco-2026-09-17-vorcaro-discutiu-atacar-celina-por-criticas-a-operacao-master-brb
 - src-estadaoconteudo-2026-09-18-df-vorcaro-nao-tinha-meu-celular-e-eu-nao-tenho-o-dele-nao-trocamos-mensagens-diz-celina
+- src-tse-2026-10-05-resultados-do-1o-turno-governador-e-senador
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Celina_Le%C3%A3o
 review_status: published

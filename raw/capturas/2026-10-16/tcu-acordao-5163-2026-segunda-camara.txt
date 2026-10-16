@@ -1,0 +1,66 @@
+# Captura de texto — Acórdão 5163/2026-TCU-Segunda Câmara (TC 007.138/2026-1)
+# url: https://pesquisa.apps.tcu.gov.br/doc/acordao-completo/5163/2026/Segunda%20C%C3%A2mara
+# redireciona para: https://pesquisa.apps.tcu.gov.br/documento/acordao-completo/*/NUMACORDAO%253A5163%2520ANOACORDAO%253A2026%2520COLEGIADO%253A%2522Segunda%2520C%25C3%25A2mara%2522/...
+# retrieved_at: 2026-10-16 (navegador embutido, aba própria, texto do elemento <main>; editor do lote 355)
+# registro ligado: data/documents/doc-2026-10-13-tcu-acordao-5163-2026-segunda-camara-sobrestamento-das-contas-de-2025-do-bc.yaml
+# supressões do Novelo: (1) os CPFs mascarados exibidos pelo acórdão após o nome de cada responsável foram substituídos por [CPF mascarado omitido] (EDITORIAL_POLICY §6); (2) a "Visão geral do documento gerada com IA" exibida pelo sistema de pesquisa não é parte do acórdão e foi omitida; (3) elementos de navegação da página omitidos.
+# esta captura é transcrição do texto exibido, não cópia oficial; o sha256 registrado no documento é o deste arquivo.
+
+NÚMERO DO ACÓRDÃO
+ACÓRDÃO DE RELAÇÃO 5163/2026 - SEGUNDA CÂMARA
+
+RELATOR
+JORGE OLIVEIRA
+
+PROCESSO
+007.138/2026-1
+
+TIPO DE PROCESSO
+PRESTAÇÃO DE CONTAS (PC)
+
+DATA DA SESSÃO
+13/10/2026
+
+NÚMERO DA ATA
+35/2026 - Segunda Câmara
+
+INTERESSADO / RESPONSÁVEL / RECORRENTE
+Gabriel Muricca Galípolo [CPF mascarado omitido], Rodrigo Alves Teixeira [CPF mascarado omitido], Izabela Moreira Correa [CPF mascarado omitido], Gilneu Francisco Astolfi Vivan [CPF mascarado omitido], Ailton de Aquino Santos [CPF mascarado omitido], Renato Dias de Brito Gomes [CPF mascarado omitido], Nilton José Schneider David [CPF mascarado omitido], Paulo Picchetti [CPF mascarado omitido] e Diogo Abry Guillen [CPF mascarado omitido]
+
+ENTIDADE
+Banco Central do Brasil
+
+REPRESENTANTE DO MINISTÉRIO PÚBLICO
+Procurador Júlio Marcelo de Oliveira
+
+UNIDADE TÉCNICA
+Unidade de Auditoria Especializada em Bancos Públicos e Reguladores Financeiros (AudBancos)
+
+REPRESENTANTE LEGAL
+não há
+
+ASSUNTO
+PRESTAÇÃO DE CONTAS. Prestação de contas anual do exercício de 2025 do Banco Central do Brasil.
+
+ACÓRDÃO
+Acórdão 5163/2026-TCU-Segunda Câmara
+
+Trata-se de processo de prestação de contas anuais do Banco Central do Brasil (BC), referentes ao exercício de 2025, organizado nos termos da Instrução Normativa-TCU 84/2020 e da Decisão Normativa-TCU 198/2022.
+
+Considerando que a Unidade de Auditoria Especializada em Bancos Públicos e Reguladores Financeiros (AudBancos) apontou estar o processo regularmente constituído, propondo julgar regulares as contas dos responsáveis, conferindo-lhes quitação plena;
+
+considerando, entretanto, que o Ministério Público junto ao TCU (MPTCU) sugeriu sobrestar, preliminarmente, o feito, a fim de aguardar o trânsito em julgado da deliberação a ser proferida no TC Processo 022.950/2025-7 (relator: Ministro Jhonatan de Jesus), ante potenciais repercussões dos fatos ali apurados sobre o mérito da gestão em exame; e
+
+considerando que o MPTCU também fez referência ao despacho proferido no TC Processo 008.216/2025-8 (de minha relatoria), o qual determinou o sobrestamento da apreciação de pedido de reexame interposto naquele processo, visando ao conhecimento de representação do Parquet que busca analisar a atuação do Banco Central e, eventualmente, da Comissão de Valores Mobiliários na operação realizada entre o Banco de Brasília S.A. (BRB) e Banco Master, até que sobrevenham elementos decisivos da Reclamação 88.121, em trâmite no Supremo Tribunal Federal;
+
+os ministros do Tribunal de Contas da União, reunidos em sessão da 2ª Câmara, diante das razões expostas pelo relator, com fundamento no art. 10, § 1º, da Lei 8.443/1992, c/c os arts. 201, § 1º, e 143, inciso I, alínea "b", do Regimento Interno do TCU e de acordo com o parecer do MPTCU, ACORDAM em sobrestar o julgamento destas contas até o trânsito em julgado da deliberação a ser proferida no TC Processo 022.950/2025-7, momento em que a unidade especializada, ao instruir novamente o processo, deverá avaliar se o TC Processo 008.216/2025-8 e a Reclamação 88.121-STF têm potencial para influir no mérito das presentes contas.
+
+1. Processo TC-Processo 007.138/2026-1 (PRESTAÇÃO DE CONTAS - Exercício: 2025)
+1.1. Apenso: TC Processo 022.593/2025-0 (Relatório de Auditoria)
+1.2. Responsáveis: Gabriel Muricca Galípolo [CPF mascarado omitido], Rodrigo Alves Teixeira [CPF mascarado omitido], Izabela Moreira Correa [CPF mascarado omitido], Gilneu Francisco Astolfi Vivan [CPF mascarado omitido], Ailton de Aquino Santos [CPF mascarado omitido], Renato Dias de Brito Gomes [CPF mascarado omitido], Nilton José Schneider David [CPF mascarado omitido], Paulo Picchetti [CPF mascarado omitido] e Diogo Abry Guillen [CPF mascarado omitido]
+1.3. Unidade: Banco Central do Brasil
+1.4. Relator: Ministro Jorge Oliveira
+1.5. Representante do Ministério Público: Procurador Júlio Marcelo de Oliveira
+1.6. Unidade Técnica: Unidade de Auditoria Especializada em Bancos Públicos e Reguladores Financeiros (AudBancos)
+1.7. Representação legal: não há
+1.8. Determinações/Recomendações/Orientações: não há

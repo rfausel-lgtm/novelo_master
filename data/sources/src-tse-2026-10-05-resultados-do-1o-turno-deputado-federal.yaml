@@ -1,0 +1,32 @@
+id: src-tse-2026-10-05-resultados-do-1o-turno-deputado-federal
+kind: source
+title: 'Resultados — Eleição Ordinária Estadual 2026, 1º turno — Deputado Federal (PB, MG, SP, RJ)'
+publisher: Tribunal Superior Eleitoral
+publication_date: '2026-10-05'
+url: https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pb/pb-c0006-e006259-u.jws
+source_type: official_court
+language: pt-BR
+summary: >-
+  Arquivos oficiais de dados do portal de resultados do TSE, eleição 6259 (1º turno de 04/10/2026), cargo
+  Deputado Federal, todos com totalização final. Paraíba: Hugo Motta (Republicanos), "Eleito por QP", 124.339
+  votos (5,17%). Minas Gerais: Nikolas Ferreira (PL), "Eleito por QP", 3.119.318 (27,19%). São Paulo: Mario
+  Frias (PL), "Eleito por QP", 91.403 (0,39%). Rio de Janeiro: Antonio Rueda (União), "Eleito por QP", 155.836
+  (1,76%).
+notes: >-
+  A URL registrada é a do arquivo da Paraíba; os demais seguem o padrão
+  https://resultados.tse.jus.br/oficial/ele2026/6259/dados/<uf>/<uf>-c0006-e006259-u.jws (mg, sp, rj).
+  Totalizações: PB 04/10/2026 23:22:24; SP 04/10/2026 22:58:07; RJ 10/10/2026 15:08:04; MG 15/10/2026 19:09:59
+  (arquivos de RJ e MG regenerados depois de 04/10). Lidos em 16/10/2026 no navegador, a partir da página
+  oficial, sem gravação local. "QP" = quociente partidário; percentuais sobre votos válidos. Datas de
+  nascimento dos arquivos não são registradas. Arquivos em raw/ e sha256 pendentes.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

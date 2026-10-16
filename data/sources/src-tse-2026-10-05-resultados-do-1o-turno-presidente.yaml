@@ -1,0 +1,30 @@
+id: src-tse-2026-10-05-resultados-do-1o-turno-presidente
+kind: source
+title: 'Resultados — Eleição Ordinária Federal 2026, 1º turno — Presidente da República'
+publisher: Tribunal Superior Eleitoral
+publication_date: '2026-10-05'
+url: https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6257/uf/br/cargo/1/vis/nominal/resultados
+source_type: official_court
+language: pt-BR
+summary: >-
+  Portal oficial de resultados do TSE, eleição 6257 (1º turno federal de 04/10/2026), cargo Presidente, Brasil:
+  "Última atualização 05/10/2026 12:51:05", 499.248 de 499.248 seções totalizadas (100,00%), 119.300.788 votos
+  válidos. Flávio Bolsonaro (PL) teve 56.104.503 votos (47,03% dos válidos) e Lula (PT) 53.879.538 (45,16%),
+  ambos com a situação "2º turno".
+notes: >-
+  Aplicação de página única (título da página: "Resultados"); consulta de 16/10/2026 no navegador embutido, em
+  aba própria. Os números foram conferidos contra o arquivo oficial de dados do mesmo portal,
+  https://resultados.tse.jus.br/oficial/ele2026/6257/dados/br/br-c0001-e006257-u.jws (totalização final de
+  05/10/2026 12:51:05), lido no navegador sem gravação local. Percentuais sobre votos válidos. Dados pessoais
+  do arquivo (data de nascimento) não são registrados. Arquivo em raw/ e sha256 pendentes.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

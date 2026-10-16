@@ -7,22 +7,38 @@ org_type: public_body
 summary: Órgão de controle externo que inspecionou o Banco Central para verificar os documentos que embasaram
   a liquidação do Banco Master. A inspeção foi concluída em 11/02/2026; segundo interlocutores da Corte,
   o relatório não analisa o mérito da decisão nem aponta irregularidades na atuação da autoridade monetária.
+  Há uma segunda frente documentada. Segundo cópia de despacho de 24/03/2026 hospedada pelo Poder360, o
+  relator Jhonatan de Jesus sobrestou o TC 022.950/2025-7, representação do MPTCU sobre a atuação do BC na
+  supervisão e na resolução do Master, inclusive a apreciação do relatório de inspeção, até elementos oficiais
+  de apurações do BC, da CGU e do STF; e, em 13/10/2026, a 2ª Câmara, no Acórdão 5163/2026 (relator Jorge
+  Oliveira), sobrestou o julgamento das contas de 2025 do Banco Central até o trânsito em julgado daquela
+  representação. O acórdão não aponta irregularidade de ninguém.
 why_in_novelo: Fiscaliza a atuação do Banco Central na liquidação do Banco Master; sua inspeção é o principal
   exame externo da decisão.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- by_id: tribunal-de-contas-da-uniao
+  kind: version
+  date: '2026-10-13'
+  summary: O Acórdão 5163/2026 da 2ª Câmara é a posição do tribunal sobre as contas de 2025 do Banco Central (sobrestamento).
+  source_ids:
+  - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
 open_questions:
 - O relatório da inspeção é sigiloso e não foi lido pela equipe; o conteúdo vem de interlocutores da Corte
   ouvidos pelo Correio Braziliense.
+- A Ata 35/2026 da 2ª Câmara não foi lida; o TC 022.950/2025-7 tramita sob sigilo; o conteúdo do TC 008.216/2025-8 é desconhecido além do que diz o Acórdão 5163/2026.
+- A autenticidade da cópia do despacho de 24/03/2026 (código 79923336) não foi conferida no portal do TCU.
 source_ids:
 - src-correiobraziliense-2026-02-12-tcu-conclui-inspecao
 - src-cnn-2026-02-05-mansur-reag-brb
+- src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+- src-tcu-2026-03-24-despacho-tc-022-950-2025-7-gabinete-jhonatan-de-jesus
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-04'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/tribunal-de-contas-da-uniao.png
   source: Wikimedia Commons

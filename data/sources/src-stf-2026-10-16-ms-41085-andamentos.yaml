@@ -1,0 +1,35 @@
+id: src-stf-2026-10-16-ms-41085-andamentos
+kind: source
+title: 'MS 41085 — andamentos'
+publisher: Supremo Tribunal Federal (portal processual)
+publication_date: '2026-10-16'
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7696998
+source_type: official_court
+language: pt-BR
+summary: >-
+  Página do Mandado de Segurança 41.085 (número único 0185001-61.2026.1.00.0000), processo eletrônico
+  público: impetrante Alessandro Vieira; impetrado o Presidente do Senado Federal; relator Cristiano Zanin.
+  Andamentos: petição inicial protocolada em 15/09/2026; distribuição em 22/09, com certidão que registra a
+  exclusão do Presidente do TSE, somente para liminares, de 04/07 a 24/11/2026 (art. 67, § 5º, do RISTF);
+  andamento "Liminar indeferida", por decisão monocrática do relator, em 22/09/2026 (DJE divulgado em 22/09); certidão de 23/09 de
+  elaboração de dois ofícios eletrônicos; pedido de reconsideração (Petição 121498) em 25/09; Ofícios
+  22540/2026 (ao Presidente do Senado, informação sobre a petição inicial) e 22541/2026 (à AGU) assinados em
+  28/09; despacho do relator, agravo regimental (Petição 122934) e lançamento de "Vista à PGR" tornado sem
+  efeito ("Aguardando informações ao Senado Federal") em 29/09; petição registrada como "Informações"
+  (Petição 129337) em 13/10; "Vista à PGR" em 14/10/2026. O portal não identifica o autor da petição de 13/10.
+notes: >-
+  Página dinâmica; consulta de 16/10/2026 no navegador embutido, em aba própria (a aba de andamentos é a do
+  endereço processos/abaAndamentos.asp?incidente=7696998). O inteiro teor da decisão de 22/09 não foi lido.
+  Nomes de advogados constantes da página não são registrados. Página relida pelo editor em 16/10/2026, sem
+  andamento novo; captura de texto em raw/capturas/2026-10-16/stf-ms-41085-andamentos.txt (sha256 no documento).
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

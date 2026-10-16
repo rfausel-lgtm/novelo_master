@@ -87,6 +87,7 @@ open_questions:
   e detinha 70% da Entre Investimentos; era também beneficiário final da offshore Jaguar Investments,
   com cerca de R$ 113 milhões em cotas do fundo. Sua defesa negou ingerência direta nas operações, sustentando
   que não exercia cargo de administração formal na FG, Sefer ou Entre — argumento não acolhido pelo colegiado.
+- 'CHECAGEM (16/10/2026): o PAS CVM 19957.008699/2019-01 não consta da pauta de sessões de julgamento da CVM atualizada em 09/10/2026 (sessões de 13/10, 20/10, 27/10 e 03/11/2026), que também não menciona Botelho, Sefer, Índigo ou Foco; a expectativa de julgamento em outubro não se confirma nessa versão da pauta, que pode ser atualizada. Na Apelação Criminal 5003557-34.2021.4.03.6181 (TRF3), a consulta da equipe ao DataJud em 15/10/2026 registrou pedido de vista em 11/06/2026, petições em 06 e 12/08 e despacho de mero expediente em 18/09/2026, sem julgamento; a API pública não retorna partes nem inteiro teor.'
 source_ids:
 - src-cvm-2021-02-23-parecer-termo-compromisso-pas-03-2016
 - src-cvm-2022-07-05-julgamento-fii-sao-domingos
@@ -107,8 +108,9 @@ source_ids:
 - src-stf-pet16704-arguicao-suspeicao-benjamim-botelho-mendonca
 - src-stf-pet16704-questao-de-ordem-botelho-14-09
 - src-cvm-2025-08-06-retomada-sessoes-accioly
+- src-cvm-2026-10-09-pauta-de-sessoes-de-julgamentos-de-processos-administrativos-sancionadores
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-19'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
 updated_at: '2026-10-16'

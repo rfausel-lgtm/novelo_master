@@ -22,7 +22,10 @@ summary: 'Ministro do STF, integrante da Segunda Turma que referendou, em acórd
   sessão virtual de 25/09 a 02/10/2026, indicou a afetação do julgamento ao Plenário, para referendo, acompanhado
   por Dias Toffoli, quando Luiz Fux pediu vista; os andamentos não mencionam o Banco Master. No ARE 1.327.995
   (União x Destilaria Alcidia S.A.), ficou vencido, com André Mendonça, nos julgamentos da 2ª Turma de
-  01/10/2024 e 03/06/2025.'
+  01/10/2024 e 03/06/2025. Segundo o SBT News e a Agência Estado, em 29/09/2026 enviou ofícios aos
+  presidentes do STF e do STJ pedindo que se sustassem decisões que determinaram a expedição de precatórios
+  antes do trânsito em julgado e uma correição extraordinária da Corregedoria Nacional de Justiça nos
+  tribunais regionais federais, sobretudo no TRF-1; os ofícios não foram publicados (classe C).'
 why_in_novelo: Integra a Segunda Turma do STF, que referendou a prisão preventiva de investigados do caso Master, e é relator do ARE 1.312.127, sobre indenizações a usinas sucroalcooleiras, cuja afetação ao Plenário indicou em setembro de 2026.
 cited_position:
 - kind: version
@@ -33,7 +36,18 @@ cited_position:
   - src-stf-pet15556-edoc286-acordao-referendo-23-03-2026
   by_id: gilmar-mendes
   date: '2026-03-23'
+- by_id: gilmar-mendes
+  kind: version
+  date: '2026-09-29'
+  summary: >-
+    Nos ofícios de 29/09/2026, segundo trechos transcritos pelo SBT News e pela Agência Estado, afirmou que as
+    investigações sobre o Banco Master "revelaram um modelo de negócios parasitário, que drenava recursos
+    públicos e a poupança de milhares de investidores" e propôs medidas sobre a expedição de precatórios.
+  source_ids:
+  - src-sbtnews-2026-09-29-gilmar-defende-suspensao-de-precatorios-e-cita-master
+  - src-agenciaestado-2026-09-29-stf-gilmar-cobra-de-fachin-e-salomao-medidas-para-coibir-irregularidades-em-precatorios
 open_questions:
+- 'Ofícios de 29/09/2026 a Fachin e Salomão: texto não publicado nem localizado; respostas não localizadas até 16/10/2026.'
 - Propôs a Fachin, em setembro de 2026, a retirada dos delegados da PF cedidos ao STF, sob justificativa
   de risco de influência sobre os ministros investigados; proposta ainda não deliberada.
 - 'CONFIRMADO POR FONTE PRIMÁRIA (lote 215): o texto integral do voto de vista de 08/09/2026 (sobre o
@@ -82,6 +96,8 @@ source_ids:
 - src-stf-2026-10-16-andamentos-do-are-1312127
 - src-stf-2026-10-16-andamentos-do-are-1327995
 - src-poder360-2026-09-22-gilmar-quer-levar-ao-plenario-do-stf-caso-de-precatorios-de-vorcaro
+- src-sbtnews-2026-09-29-gilmar-defende-suspensao-de-precatorios-e-cita-master
+- src-agenciaestado-2026-09-29-stf-gilmar-cobra-de-fachin-e-salomao-medidas-para-coibir-irregularidades-em-precatorios
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-10-16'

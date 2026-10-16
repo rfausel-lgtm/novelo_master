@@ -1,0 +1,54 @@
+id: jorge-oliveira
+kind: person
+name: Jorge Oliveira
+full_name: Jorge Antonio de Oliveira Francisco
+category: public_official
+role: Ministro do Tribunal de Contas da União; vice-presidente do TCU em 2026
+positions:
+- title: Ministro
+  organization_id: tribunal-de-contas-da-uniao
+  start_date: '2020-12-31'
+  source_ids:
+  - src-tcu-2020-12-31-jorge-oliveira-toma-posse-como-ministro-do-tcu
+- title: Vice-presidente (2026)
+  organization_id: tribunal-de-contas-da-uniao
+  source_ids:
+  - src-poder360-2025-12-03-tcu-reconduz-vital-do-rego-a-presidencia-para-2026
+summary: >-
+  Ministro do TCU desde a posse de 31/12/2020, segundo o próprio tribunal, e vice-presidente do tribunal para
+  2026, segundo o Poder360. É relator do Acórdão 5163/2026 da 2ª Câmara, de 13/10/2026, que sobrestou o
+  julgamento das contas de 2025 do Banco Central, e, segundo o mesmo acórdão, do TC 008.216/2025-8, em que está
+  sobrestado pedido de reexame relacionado a representação do MPTCU sobre a atuação do Banco Central na operação
+  entre o BRB e o Banco Master. Antes do TCU, foi ministro-chefe da Secretaria-Geral da Presidência da
+  República.
+why_in_novelo: >-
+  Relator do acórdão da 2ª Câmara do TCU de 13/10/2026 que sobrestou as contas de 2025 do Banco Central e do TC
+  008.216/2025-8 (operação BRB–Master), conforme o acórdão.
+cited_position:
+- by_id: jorge-oliveira
+  kind: version
+  date: '2026-10-13'
+  summary: O Acórdão 5163/2026, de sua relatoria, é a posição registrada; trata de sobrestamento, sem juízo de mérito sobre as contas.
+  source_ids:
+  - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+- by_id: jorge-oliveira
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Nenhuma declaração pública do ministro sobre o sobrestamento localizada nas fontes deste registro (busca de
+    16/10/2026).
+  source_ids:
+  - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+open_questions:
+- A Ata 35/2026 da 2ª Câmara, referida no acórdão, não foi lida.
+- 'O conteúdo do TC 008.216/2025-8 não é público no acervo: o acórdão informa apenas que lá está sobrestado o pedido de reexame "até que sobrevenham elementos decisivos da Reclamação 88.121".'
+- Identidade estabelecida pelo cargo (ministro do TCU, relator do acórdão); homônimos sem esse cargo não são associados a ele.
+source_ids:
+- src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+- src-tcu-2020-12-31-jorge-oliveira-toma-posse-como-ministro-do-tcu
+- src-poder360-2025-12-03-tcu-reconduz-vital-do-rego-a-presidencia-para-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

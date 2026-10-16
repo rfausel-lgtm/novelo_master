@@ -18,7 +18,11 @@ summary: 'Presidente do Banco Central. Segundo a CNN Brasil e a Gazeta do Povo, 
   ''não afirmou que não tratou de Banco Master''. Em audiência na CAE do Senado, em 19/05/2026, negou
   categoricamente, a questionamento do senador Renan Calheiros, ter defendido a venda do banco ao BRB
   ou intercedido junto ao FGC: ''A informação está errada. Não há nenhuma carta com valor de R$ 11 bilhões,
-  o Banco Central jamais tentou viabilizar a venda.'''
+  o Banco Central jamais tentou viabilizar a venda.'' Segundo a Agência Estado, disse em 24/09/2026 ter
+  sido intimado pela PF para depor sobre a fiscalização do Master; segundo o SBT News (fonte única), prestou
+  depoimento como testemunha em 06/10/2026, de conteúdo não divulgado. No Acórdão 5163/2026 do TCU (13/10/2026),
+  que sobrestou o julgamento das contas de 2025 do Banco Central, consta como responsável pela prestação das
+  contas, condição que não implica imputação.'
 why_in_novelo: Presidia o Banco Central quando a compra do Master pelo BRB foi rejeitada e quando o banco
   foi liquidado, e participou, como indicado ao cargo, do encontro de dezembro de 2024 no Planalto.
 cited_position:
@@ -38,7 +42,25 @@ cited_position:
   - src-correiobraziliense-2026-05-19-galipolo-na-cae-renan
   by_id: gabriel-galipolo
   date: '2026-05-19'
+- by_id: gabriel-galipolo
+  kind: clarification
+  date: '2026-09-24'
+  summary: >-
+    Na coletiva do Relatório de Política Monetária, disse ter recebido intimação da PF para depor sobre a
+    fiscalização do Banco Master; segundo a Agência Estado, disse não se recordar da data exata, mas que seria
+    no início de outubro (paráfrase da agência, sem aspas diretas).
+  source_ids:
+  - src-agenciaestado-2026-09-24-galipolo-confirma-intimacao-da-pf-para-depor-em-outubro-sobre-master
+- by_id: gabriel-galipolo
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Sobre o sobrestamento das contas de 2025 do BC pelo TCU (13/10/2026): nenhuma manifestação localizada nas
+    notas à imprensa do BC de 09 a 16/10/2026 nem nas fontes deste registro.
+  source_ids:
+  - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
 open_questions:
+- 'Depoimento à PF de 06/10/2026: registrado só pelo SBT News (fonte única, classe A); conteúdo não divulgado; sem nota do Banco Central.'
 - 'A sequência a registrar sem insinuação: participou da reunião de 04/12/2024 como diretor do BC já indicado
   à presidência; assumiu em janeiro de 2025; em setembro de 2025 a diretoria colegiada barrou a compra
   do Master pelo BRB; e em 18/11/2025 o BC decretou a liquidação. Não há apuração pessoal contra ele;
@@ -50,13 +72,16 @@ source_ids:
 - src-dou-2026-02-19-atos-1377-1378
 - src-correiobraziliense-2026-05-19-galipolo-na-cae-renan
 - src-gazetadopovo-2026-master-recebeu-ultimato-do-bc
+- src-agenciaestado-2026-09-24-galipolo-confirma-intimacao-da-pf-para-depor-em-outubro-sobre-master
+- src-sbtnews-2026-10-06-caso-master-pf-ouve-galipolo-na-condicao-de-testemunha
+- src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Gabriel_Gal%C3%ADpolo
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/gabriel-galipolo.jpg
   source: Wikimedia Commons

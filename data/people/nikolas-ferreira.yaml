@@ -3,7 +3,11 @@ kind: person
 name: Nikolas Ferreira
 category: politician
 role: Deputado federal (PL-MG)
-positions: []
+positions:
+- title: Deputado federal reeleito (PL-MG) em 04/10/2026, eleito por quociente partidário
+  organization: Câmara dos Deputados
+  source_ids:
+  - src-tse-2026-10-05-resultados-do-1o-turno-deputado-federal
 summary: Deputado federal pelo PL de Minas Gerais. Em 03-04/09/2026, em meio à crise institucional aberta
   pela divulgação de mensagens entre Vorcaro e o contato salvo como Alexandre de Moraes, declarou publicamente
   que André Mendonça 'tem que dar voz de prisão a Moraes em plenário'. Mensagens do mesmo celular de Vorcaro
@@ -11,7 +15,8 @@ summary: Deputado federal pelo PL de Minas Gerais. Em 03-04/09/2026, em meio à 
   e que o deputado o procurou em 2025 para intermediar a liberação de um ativo mineral de interesse de
   seu ex-assessor Thiago Rodrigues de Faria. Nikolas confirma a ajuda logística de 2022, mas nega relação
   pessoal com o banqueiro. Deputados do PT pediram à PGR a investigação de ambos e de Thiago Rodrigues
-  de Faria.
+  de Faria. No 1º turno de 04/10/2026 foi reeleito deputado federal por Minas Gerais, eleito por quociente
+  partidário, com 3.119.318 votos (27,19% dos válidos), segundo o TSE.
 why_in_novelo: Fez declaração pública de repercussão na crise institucional do STF em torno do caso Master.
 cited_position:
 - kind: denial
@@ -41,11 +46,12 @@ source_ids:
 - src-poder360-2026-09-03-pt-pede-investigacao-nikolas-vorcaro
 - src-stf-2023-pet-10829-andamento-e-decisao-nikolas
 - src-iclnoticias-2026-09-03-valadao-pediu-nikolas-nao-atacar-vorcaro
+- src-tse-2026-10-05-resultados-do-1o-turno-deputado-federal
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-15'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/nikolas-ferreira.jpg
   source: Wikimedia Commons

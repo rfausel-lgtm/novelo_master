@@ -2,9 +2,13 @@ id: rui-costa
 kind: person
 name: Rui Costa
 category: politician
-role: Governador da Bahia de 2015 a 2022; ministro da Casa Civil de 2023 a abril de 2026; candidato ao
-  Senado
-positions: []
+role: Governador da Bahia de 2015 a 2022; ministro da Casa Civil de 2023 a abril de 2026; senador eleito pela
+  Bahia em 2026
+positions:
+- title: Senador eleito pela Bahia (PT) em 04/10/2026
+  organization: Senado Federal
+  source_ids:
+  - src-tse-2026-10-05-resultados-do-1o-turno-governador-e-senador
 summary: Governador da Bahia quando o Estado privatizou a Empresa Baiana de Alimentos, em abril de 2018,
   e assinou os decretos que estruturaram o CredCesta como plataforma de consignado — os de nº 18.353 e
   18.354, de 27/04/2018, editados dezesseis dias após o leilão — e, em 13/01/2022, o Decreto nº 21.041,
@@ -16,7 +20,8 @@ summary: Governador da Bahia quando o Estado privatizou a Empresa Baiana de Alim
   do governo Lula favorável à operação; a PF citou a mensagem em relatório para sustentar o pedido contra
   Wagner, sem imputar a Rui Costa qualquer conduta específica. NÃO é alvo, investigado ou indiciado em
   nenhuma fase da Operação Compliance Zero. Foi convidado — não convocado — pela CPI do Crime Organizado
-  em 26/02/2026, e nomeado em requerimento da oposição.
+  em 26/02/2026, e nomeado em requerimento da oposição. No 1º turno de 04/10/2026 foi eleito senador pela Bahia,
+  em primeiro lugar numa eleição de duas vagas, com 4.335.196 votos (30,07% dos válidos), segundo o TSE.
 why_in_novelo: Assinou os decretos estaduais que converteram o CredCesta em plataforma de consignado com
   margem própria e, depois, os que retiraram a portabilidade dos servidores.
 cited_position:
@@ -69,11 +74,12 @@ source_ids:
 - src-folhape-2026-02-rui-costa-defende-venda-supermercado-estatal
 - src-metropoles-2026-08-vorcaro-ministros-lula-venda-master
 - src-bnews-2026-09-12-wagner-favor-master-vantagens-luxo
+- src-tse-2026-10-05-resultados-do-1o-turno-governador-e-senador
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-13'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-14'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/rui-costa.jpg
   source: Wikimedia Commons

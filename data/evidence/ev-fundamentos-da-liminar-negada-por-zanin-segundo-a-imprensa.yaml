@@ -1,0 +1,27 @@
+id: ev-fundamentos-da-liminar-negada-por-zanin-segundo-a-imprensa
+kind: evidence
+classification: A
+proposition: >-
+  Segundo a Agência Brasil e o Congresso em Foco (23/09/2026), Zanin entendeu não comprovada, naquele momento,
+  a omissão do presidente do Senado, Davi Alcolumbre, em instalar a CPI requerida por Alessandro Vieira;
+  destacou a existência de outro requerimento sobre fatos ligados ao Master; pediu informações ao Senado, com
+  posterior envio à PGR, e ressalvou que poderá reexaminar o pedido; e lembrou a jurisprudência do STF sobre o
+  direito das minorias parlamentares de instalar CPI. Segundo o Congresso em Foco, a decisão diz: "Não é
+  possível reconhecer, neste momento processual, a relevância do fundamento invocado pelo impetrante".
+source_ids:
+- src-agenciabrasil-2026-09-23-zanin-nega-liminar-para-obrigar-senado-instalar-cpi-sobre-master
+- src-congressoemfoco-2026-09-23-zanin-nega-liminar-para-obrigar-alcolumbre-a-instalar-cpi-do-master
+attributed_to: Agência Brasil e Congresso em Foco
+excerpt: >-
+  Não é possível reconhecer, neste momento processual, a relevância do fundamento invocado pelo impetrante
+locator: Congresso em Foco, seção "Zanin cita outra CPI sobre o Master"
+date: '2026-09-23'
+notes: >-
+  O Novelo não leu o inteiro teor da decisão; os fundamentos ficam em A, como relato dos veículos. Segundo a
+  Agência Brasil, o requerimento de CPI foi protocolado em 09/03 e tem 41 assinaturas; o veículo grafa o nome
+  do senador como "Alessandro Viana" em trechos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

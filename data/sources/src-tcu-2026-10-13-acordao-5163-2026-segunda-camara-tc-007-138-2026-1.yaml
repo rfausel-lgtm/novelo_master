@@ -1,0 +1,42 @@
+id: src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+kind: source
+title: 'Acórdão 5163/2026-TCU-Segunda Câmara (Acórdão de relação) — TC 007.138/2026-1'
+publisher: Tribunal de Contas da União (Pesquisa de Jurisprudência)
+author: Ministro Jorge Oliveira (relator)
+publication_date: '2026-10-13'
+url: https://pesquisa.apps.tcu.gov.br/doc/acordao-completo/5163/2026/Segunda%20C%C3%A2mara
+source_type: official_regulator
+language: pt-BR
+summary: >-
+  Acórdão de relação da 2ª Câmara do TCU, sessão de 13/10/2026 (Ata 35/2026), relator Jorge Oliveira, no TC
+  007.138/2026-1, prestação de contas anual do Banco Central do Brasil do exercício de 2025 (apenso: TC
+  022.593/2025-0, relatório de auditoria). Registra que a AudBancos propunha julgar regulares as contas dos
+  responsáveis, com quitação plena; que o MPTCU sugeriu sobrestar o feito até o trânsito em julgado da
+  deliberação no TC 022.950/2025-7 (relator Jhonatan de Jesus), "ante potenciais repercussões dos fatos ali
+  apurados sobre o mérito da gestão em exame"; e que no TC 008.216/2025-8, de relatoria de Jorge Oliveira, foi
+  sobrestada a apreciação de pedido de reexame, visando ao conhecimento de representação do MPTCU sobre a
+  atuação do Banco Central e, eventualmente, da CVM na operação entre o BRB e o Banco Master, até elementos
+  decisivos da Reclamação 88.121 do STF. Dispositivo: os ministros acordam "em sobrestar o julgamento destas
+  contas até o trânsito em julgado da deliberação a ser proferida no TC Processo 022.950/2025-7", quando a
+  unidade técnica avaliará se o TC 008.216/2025-8 e a Reclamação 88.121 "têm potencial para influir no mérito
+  das presentes contas". Determinações, recomendações ou orientações: não há. Os responsáveis listados são o
+  presidente do Banco Central e outros oito gestores, que prestam as contas; o acórdão não aponta
+  irregularidade de nenhum deles.
+notes: >-
+  Consulta de 16/10/2026 no navegador embutido, em aba própria (aplicação de página única; o endereço
+  redireciona para pesquisa.apps.tcu.gov.br/documento/acordao-completo/...). O acórdão exibe CPFs mascarados
+  dos responsáveis: não registrados pelo Novelo (EDITORIAL §6). O termo do acórdão é "sobrestar"; manchetes de
+  imprensa falam em "suspender" ou "adiar". A Ata 35/2026 não foi lida. Relido pelo editor em
+  16/10/2026; captura de texto, sem os CPFs mascarados, em raw/capturas/2026-10-16/tcu-acordao-5163-2026-segunda-camara.txt
+  (sha256 no documento).
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

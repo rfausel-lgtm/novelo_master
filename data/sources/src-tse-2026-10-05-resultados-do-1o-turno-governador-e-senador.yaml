@@ -1,0 +1,36 @@
+id: src-tse-2026-10-05-resultados-do-1o-turno-governador-e-senador
+kind: source
+title: 'Resultados — Eleição Ordinária Estadual 2026, 1º turno — Governador e Senador (BA, AL, PI, DF)'
+publisher: Tribunal Superior Eleitoral
+publication_date: '2026-10-05'
+url: https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0003-e006259-u.jws
+source_type: official_court
+language: pt-BR
+summary: >-
+  Arquivos oficiais de dados do portal de resultados do TSE, eleição 6259 (1º turno estadual de 04/10/2026),
+  todos com totalização final. Governador da Bahia: Jerônimo Rodrigues (PT) eleito, 4.626.509 votos (55,80%);
+  ACM Neto (União) não eleito, 3.625.227 (43,72%). Senador pela Bahia: Rui Costa (PT) eleito, 4.335.196
+  (30,07%); Jaques Wagner (PT) eleito, 3.986.690 (27,65%). Governador de Alagoas: JHC (PSDB) eleito, 892.484
+  (52,20%). Senador por Alagoas: Arthur Lira (PP) eleito, 948.703 (28,87%). Senador pelo Piauí: Ciro Nogueira
+  (PP) não eleito, 904.961 (24,68%). Governador do DF: Celina Leão (PP), 825.530 (49,93%), e Leandro Grass
+  (PT), 569.930 (34,47%), ambos com a situação "2º turno". Ibaneis Rocha não consta entre os candidatos a
+  governador, a senador, a deputado federal nem a deputado distrital do DF.
+notes: >-
+  A URL registrada é a do arquivo de Governador da Bahia; os demais seguem o padrão
+  https://resultados.tse.jus.br/oficial/ele2026/6259/dados/<uf>/<uf>-c000<cargo>-e006259-u.jws (cargo 3
+  Governador, 5 Senador, 6 Deputado Federal, 8 Deputado Distrital), para ba, al, pi e df. Totalizações: BA
+  05/10/2026 00:50:30; AL 04/10/2026 22:54:29; PI 14/10/2026 09:50:43; DF 04/10/2026 20:22:29 (Governador e
+  Senador; arquivos regenerados em 15/10/2026). Lidos em 16/10/2026 no navegador, a partir da página oficial,
+  sem gravação local; percentuais sobre votos válidos. Datas de nascimento dos arquivos não são registradas.
+  Arquivos em raw/ e sha256 pendentes.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

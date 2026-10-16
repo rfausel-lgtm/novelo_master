@@ -4,8 +4,12 @@ name: Arthur Lira
 full_name: Arthur Lira
 aliases: []
 category: politician
-role: Deputado federal (PP-AL); ex-presidente da Câmara dos Deputados (2021-2025)
+role: Deputado federal (PP-AL); ex-presidente da Câmara dos Deputados (2021-2025); senador eleito por Alagoas em 2026
 positions:
+- title: Senador eleito por Alagoas (PP) em 04/10/2026
+  organization: Senado Federal
+  source_ids:
+  - src-tse-2026-10-05-resultados-do-1o-turno-governador-e-senador
 - title: Presidente da Câmara dos Deputados
   organization_id: camara-dos-deputados
   start_date: '2021-02'
@@ -18,7 +22,9 @@ summary: 'Presidente da Câmara dos Deputados de 2021 a 2025. Nomeou Mariângela
   depoimento de 13/02/2025 à PF, o deputado Glauber Braga (PSOL-RJ) o responsabilizou por concentrar o
   direcionamento de emendas parlamentares e citou Fialek como operadora ligada diretamente à Presidência —
   alegação de testemunha, sem prova documental equivalente à que embasou as buscas contra Fialek e
-  Valdemar Costa Neto. Lira não é alvo formal da Operação Transparência até esta coleta.'
+  Valdemar Costa Neto. Lira não é alvo formal da Operação Transparência até esta coleta. No 1º turno de
+  04/10/2026 foi eleito senador por Alagoas, em primeiro lugar numa eleição de duas vagas, com 948.703 votos
+  (28,87% dos válidos), segundo o TSE.'
 why_in_novelo: Ex-presidente da Câmara que nomeou Mariângela Fialek, investigada na Operação Transparência, e
   apontado em depoimento do deputado Glauber Braga à PF, não por prova documental, como responsável por concentrar
   o direcionamento de emendas parlamentares.
@@ -32,8 +38,9 @@ open_questions:
 source_ids:
 - src-metropoles-2025-02-13-glauber-braga-depoimento-lira-orcamento-secreto
 - src-poder360-2026-camara-pede-stf-anulacao-provas-fialek
+- src-tse-2026-10-05-resultados-do-1o-turno-governador-e-senador
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-15'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-15'
 updated_at: '2026-10-16'

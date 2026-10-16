@@ -1,0 +1,28 @@
+id: ev-tcu-despacho-de-24-03-2026-sobresta-o-tc-022-950-2025-7
+kind: evidence
+classification: A
+proposition: >-
+  Segundo cópia do despacho de 24/03/2026 hospedada pelo Poder360, o ministro Jhonatan de Jesus, relator no
+  TCU da representação do MPTCU sobre a atuação do Banco Central na supervisão e na resolução do Banco Master
+  (TC 022.950/2025-7), sobrestou o processo, "inclusive a apreciação do relatório de inspeção da AudBancos e o
+  julgamento do mérito da representação", até elementos oficiais da sindicância interna do Banco Central, do
+  PAD da CGU e/ou das apurações no STF, "notadamente no âmbito da RCL 88.121/STF"; determinou procedimento de
+  reavaliação do sigilo dos autos e ofício ao gabinete do ministro André Mendonça com cópia integral.
+source_ids:
+- src-tcu-2026-03-24-despacho-tc-022-950-2025-7-gabinete-jhonatan-de-jesus
+attributed_to: Despacho do TCU no TC 022.950/2025-7, em cópia hospedada pelo Poder360 (autenticidade não conferida)
+excerpt: >-
+  sobrestar o andamento do feito, inclusive a apreciação do relatório de inspeção da AudBancos e o julgamento
+  do mérito da representação
+locator: despacho, item 9.1
+date: '2026-03-24'
+notes: >-
+  O conteúdo é de ato do TCU, mas o Novelo leu apenas a cópia hospedada pelo Poder360 e não conferiu o código de
+  autenticidade 79923336 no portal do tribunal; por isso a evidência fica em A, e não em D, até a conferência
+  (quando o despacho poderá virar documento próprio). O despacho diz não antecipar juízo sobre o mérito das
+  apurações nem sobre responsabilidades individuais.
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'

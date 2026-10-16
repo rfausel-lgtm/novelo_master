@@ -44,6 +44,15 @@ cited_position:
     as informações, "sem exceção de pessoa, os fatos correlatos, serão dados os encaminhamentos devidos".
   source_ids:
   - src-agenciabrasil-2026-10-02-fachin-tera-reuniao-com-pf-sobre-citacoes-a-ministros-no-caso-master
+- by_id: edson-fachin
+  kind: not_located
+  date: '2026-10-16'
+  summary: >-
+    Sobre os ofícios de Gilmar Mendes de 29/09/2026 a respeito da expedição de precatórios: nenhuma resposta
+    noticiada pelo SBT News e pela Agência Estado nem localizada pelo Novelo até 16/10/2026.
+  source_ids:
+  - src-sbtnews-2026-09-29-gilmar-defende-suspensao-de-precatorios-e-cita-master
+  - src-agenciaestado-2026-09-29-stf-gilmar-cobra-de-fachin-e-salomao-medidas-para-coibir-irregularidades-em-precatorios
 open_questions:
 - Não localizada decisão sobre o pedido do Partido Novo de 28/09/2026 para anular a vista de Flávio Dino (portal da PET 16.704 e da PET 16.662 consultado em 16/10/2026).
 - Não há prazo oficial para a entrega, pela PF, do material com as menções a ministros; o Informe de 13/10/2026 não fixa data.

@@ -22,7 +22,9 @@ summary: Senador pelo Piauí. Em 07/05/2026 o STF autorizou fase da Compliance Z
   econômico direto" do senador em viagens e jantares pagos por Vorcaro; os valores da hospedagem divergem entre os veículos. Segundo
   o UOL (30/09/2026), participava com Vorcaro, Motta e Fábio Faria de grupo de WhatsApp que criou em abril de
   2024. O sigilo das Pets 15.873 e 15.978 foi levantado em 16/06/2026, restabelecido em 24/06 e, quanto à Pet
-  15.873, levantado de novo em 11/09/2026. A defesa diz que prestará esclarecimentos nos autos.
+  15.873, levantado de novo em 11/09/2026. A defesa diz que prestará esclarecimentos nos autos. Candidato à
+  reeleição ao Senado pelo Piauí, não foi reeleito; teve 904.961 votos (24,68% dos válidos) no 1º turno de
+  04/10/2026, terceiro colocado numa eleição de duas vagas, segundo o TSE.
 why_in_novelo: É citado em comunicação oficial do STF como investigado em fase da Operação Compliance
   Zero, por suposta atuação em favor de interesses de Daniel Vorcaro, segundo a Polícia Federal.
 cited_position:
@@ -118,6 +120,7 @@ source_ids:
 - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
 - src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
 - src-infomoney-2026-03-05-pf-apura-suposta-ordem-de-vorcaro-para-pagamento-a-ciro-nogueira
+- src-tse-2026-10-05-resultados-do-1o-turno-governador-e-senador
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-10-16'

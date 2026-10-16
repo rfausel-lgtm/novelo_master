@@ -8,6 +8,10 @@ positions:
   organization_id: camara-dos-deputados
   source_ids:
   - src-stf-2026-03-12-rejeita-cpi
+- title: Deputado federal reeleito (Republicanos-PB) em 04/10/2026, eleito por quociente partidário
+  organization_id: camara-dos-deputados
+  source_ids:
+  - src-tse-2026-10-05-resultados-do-1o-turno-deputado-federal
 summary: >-
   Presidente da Câmara dos Deputados, descrito pela imprensa como "afilhado político" de seu antecessor, Arthur
   Lira. No MS 40791, o deputado Rodrigo Rollemberg alegou omissão de Motta na instalação da CPI do Banco Master
@@ -22,7 +26,8 @@ summary: >-
   registros extraídos pela PF do celular de Vorcaro mostram ao menos 100 chamadas concluídas e 102 não concluídas entre
   os dois e ao menos 19 encontros combinados de 03/2024 a 10/2025; segundo o UOL (30/09/2026), participava com Vorcaro, Ciro e Fábio
   Faria de um grupo de WhatsApp. As reportagens registram que Motta não é investigado; o Novelo não localizou
-  documento oficial sobre isso.
+  documento oficial sobre isso. No 1º turno de 04/10/2026 foi reeleito deputado federal pela Paraíba
+  (Republicanos), eleito por quociente partidário, com 124.339 votos (5,17% dos válidos), segundo o TSE.
 why_in_novelo: >-
   Presidente da Câmara dos Deputados; citado em reportagens sobre relatórios da PF como hóspede, em Lisboa em
   06/2024, de hotel pago por Daniel Vorcaro; Motta afirma ter tido duas diárias pagas.
@@ -90,6 +95,7 @@ source_ids:
 - src-cnnbrasil-2026-09-29-hugo-se-posiciona-apos-revelacoes-de-telefonemas-e-encontros-com-vorcaro
 - src-uol-2026-09-30-grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria
 - src-gazetadopovo-2026-09-30-vorcaro-tinha-grupo-com-motta-ciro-nogueira-e-fabio-faria-para-organizar-encontros
+- src-tse-2026-10-05-resultados-do-1o-turno-deputado-federal
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Hugo_Motta
 review_status: published

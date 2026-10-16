@@ -9,13 +9,22 @@ positions:
   source_ids:
   - src-stf-2026-03-12-rejeita-cpi
 summary: Ministro do STF. Relator do MS 40791 após a suspeição de Toffoli; em 12/03/2026 rejeitou o pedido
-  de instalação da CPI do Banco Master na Câmara.
+  de instalação da CPI do Banco Master na Câmara. Relator também do MS 41.085, impetrado por Alessandro Vieira
+  contra o Presidente do Senado para a instalação de CPI sobre o caso Master no Senado; indeferiu a liminar em
+  22/09/2026, segundo o portal do STF; em 14/10/2026 os autos foram com vista à PGR.
 why_in_novelo: Decidiu, no STF, o mandado de segurança que pedia a instalação da CPI do Banco Master na
   Câmara dos Deputados.
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- by_id: cristiano-zanin
+  kind: version
+  date: '2026-09-22'
+  summary: A decisão que indeferiu a liminar no MS 41.085 é a posição do relator; o Novelo não leu o inteiro teor.
+  source_ids:
+  - src-stf-2026-10-16-ms-41085-andamentos
 open_questions:
+- 'MS 41.085: inteiro teor da decisão de 22/09/2026 não lido; julgamento do agravo regimental de 29/09, parecer da PGR e teor das informações do Senado não localizados até 16/10/2026.'
 - Segundo apuração da Poder360 (06/09 e 09/09/2026), integra, com outros ministros, um grupo que articula
   preservar Alexandre de Moraes das suspeitas envolvendo Vorcaro e que deseja retirar a relatoria do caso
   Banco Master de André Mendonça — leitura da reportagem, sem corroboração jornalística independente localizada
@@ -35,11 +44,14 @@ source_ids:
 - src-cnn-2026-02-12-toffoli-deixa-relatoria
 - src-poder360-2026-09-06-planalto-supremo-negociam-preservar-moraes-eleicao
 - src-poder360-2026-09-09-planalto-engana-fachin-articula-volta-andrei-dino
+- src-stf-2026-10-16-ms-41085-andamentos
+- src-agenciabrasil-2026-09-23-zanin-nega-liminar-para-obrigar-senado-instalar-cpi-sobre-master
+- src-congressoemfoco-2026-09-23-zanin-nega-liminar-para-obrigar-alcolumbre-a-instalar-cpi-do-master
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-13'
+updated_at: '2026-10-16'
 photo:
   path: /fotos/cristiano-zanin.jpg
   source: Wikimedia Commons

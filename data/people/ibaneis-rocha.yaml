@@ -73,6 +73,7 @@ open_questions:
   específica com a Reag Legal Claims/Pedra Azul FIDC seguem sem confirmação documental direta — corpus
   não resolve se são a mesma operação, descrita de forma diferente pelas duas partes, ou duas operações
   distintas.'
+- 'Eleição de 2026: não consta entre os candidatos a governador, a senador, a deputado federal nem a deputado distrital do DF nos arquivos oficiais do TSE lidos em 16/10/2026 (1º turno de 04/10/2026); o cargo disputado em 2026, se algum, não foi verificado, e o Novelo não registra candidatura nem cargo eleitoral para ele.'
 source_ids:
 - src-cldf-2025-08-19-autoriza-brb-comprar-master
 - src-stf-pet15556-edoc223-decisao-dispensa-ibaneis-cpi-02-04-2026
@@ -83,6 +84,7 @@ source_ids:
 - src-jovempan-2026-10-10-ibaneis-participou-de-decisoes-do-brb-e-se-reuniu-com-vorcaro-na-suica-diz-pf
 - src-otempo-2026-10-15-vorcaro-depoe-sobre-negocios-do-master-com-brb-que-envolvem-ibaneis-rocha-e-paulo-henrique-costa
 - src-cnnbrasil-2026-04-16-advogados-usam-dialogos-para-defender-ibaneis-de-ingerencia-sobre-brb
+- src-tse-2026-10-05-resultados-do-1o-turno-governador-e-senador
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Ibaneis_Rocha
 review_status: published

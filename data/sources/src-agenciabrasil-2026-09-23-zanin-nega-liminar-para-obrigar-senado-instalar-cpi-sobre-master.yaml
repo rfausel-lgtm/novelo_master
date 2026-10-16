@@ -1,0 +1,31 @@
+id: src-agenciabrasil-2026-09-23-zanin-nega-liminar-para-obrigar-senado-instalar-cpi-sobre-master
+kind: source
+title: Zanin nega liminar para obrigar Senado a instalar CPI sobre Master
+publisher: Agência Brasil
+author: Felipe Pontes
+publication_date: '2026-09-23'
+url: https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-nega-liminar-para-obrigar-senado-instalar-cpi-sobre-master
+source_type: wire
+language: pt-BR
+summary: >-
+  Segundo a matéria, em decisão assinada em 22/09/2026 o ministro Cristiano Zanin negou liminar em mandado de
+  segurança do senador Alessandro Vieira para obrigar a instalação de CPI sobre o caso Master no Senado, por
+  entender não comprovada a omissão do presidente do Senado, Davi Alcolumbre; destacou a existência de outros
+  requerimentos sobre a mesma matéria, ressalvou que a decisão poderá ser reavaliada após as informações de
+  Alcolumbre e registrou a jurisprudência do STF sobre o direito das minorias parlamentares de instalar CPI. O
+  requerimento, protocolado em 09/03, tem 41 assinaturas, segundo o senador. Em nota, Vieira disse: "A decisão
+  do ministro Zanin é uma decepção, como aliás tem sido decepcionante a atuação do STF em geral".
+notes: >-
+  A matéria grafa o nome do senador como "Alessandro Viana" no subtítulo e em trechos do corpo (erro do
+  veículo; no mesmo texto aparece "Alessandro Vieira"). Não traz o número do processo.
+retrieved_at: '2026-10-16'
+verification:
+  checked_at: '2026-10-16'
+  checked_by: orquestrador (WebFetch/navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: '2026-10-16'
+created_at: '2026-10-16'
+updated_at: '2026-10-16'
