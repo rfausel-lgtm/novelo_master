@@ -1,0 +1,18 @@
+id: ev-tcu-jhonatan-de-jesus-despacho-de-18-12-2025-sobre-a-liquidacao-do-master
+kind: evidence
+classification: A
+proposition: Segundo o Estadão Conteúdo (Jornal de Brasília, 19/12/2025), em despacho de 18/12/2025 o ministro
+  do TCU Jhonatan de Jesus deu 72 horas ao Banco Central para justificar a liquidação do Banco Master e
+  apontou precipitação na adoção da medida, indícios de cronologia atípica e demora na condução de
+  alternativas, citando proposta do Grupo Fictor; a matéria registra que o BC não emitiu nota e que
+  interlocutores disseram ao Broadcast que o BC estaria munido de documentos.
+source_ids:
+  - src-jornaldebrasilia-2025-12-19-ministro-do-tcu-ve-precipitacao-na-liquidacao-do-master-bc-diz-estar-munido-com-documentos
+attributed_to: Estadão Conteúdo (Jornal de Brasília)
+date: 2025-12-18
+notes: O despacho não foi localizado; fonte única e republicação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

@@ -8,7 +8,9 @@ summary: 'Ex-funcionário de Daniel Vorcaro, capitão da embarcação do banquei
   descrito nas mensagens como ''extorsão''. Vorcaro determinou levantamento de dados sobre ele e sua família e ordenou
   que a Turma ''desse um sacode'' nele; em 11/07/2025, segundo relato do próprio Woyceichoski em gravação obtida pela
   investigação, sete pessoas identificadas por ele como milicianos foram até a marina onde trabalhava e o ameaçaram
-  de morte, a ele e à família, em nome de Vorcaro. DETALHADO PELA DECISÃO DA 6ª FASE (13/05/2026, lote 192, PET
+  de morte, a ele e à família, em nome de Vorcaro. Segundo a CNN Brasil (18/06/2026), em matéria sobre
+  depoimentos à PF tornados públicos pelo relator em 17/06/2026, ele disse, em depoimento, ter sido ameaçado de morte depois de registrar os danos
+  que Vorcaro e convidados fizeram na embarcação. DETALHADO PELA DECISÃO DA 6ª FASE (13/05/2026, lote 192, PET
   15.978): a mesma campanha teve um episódio concreto em 04/06/2024, na Marina Bracuhy e no Hotel Nacional Inn,
   em Angra dos Reis/RJ, executado por grupo de cerca de sete homens que incluía Luiz Phillipi Mourão e Manoel
   Mendes Rodrigues (''amigo de Daniel Vorcaro'', segundo o próprio agressor se identificou, ligado ao jogo do
@@ -36,12 +38,29 @@ why_in_novelo: É a vítima nomeada de um episódio concreto de ameaça de morte
   pelo núcleo de intimidação 'A Turma', segundo a representação da PF que fundamentou a prisão preventiva de Vorcaro
   e de Luiz Phillipi Mourão.
 cited_position:
+- kind: version
+  date: '2026-06-17'
+  summary: Manifestação nos autos, não pública espontânea; a data do depoimento não é informada. Segundo a CNN
+    Brasil (18/06/2026), em matéria sobre depoimentos à PF tornados públicos em 17/06/2026 pelo ministro André
+    Mendonça, ele disse em depoimento
+    ter sido ameaçado de morte depois de registrar os danos que Daniel Vorcaro e convidados fizeram na embarcação,
+    e relatou que Manoel, o homem que se apresentou com esse nome, lhe falou de forma intimidatória sobre a vida
+    dele. O Novelo não localizou o depoimento nos autos públicos.
+  source_ids:
+  - src-cnnbrasil-2026-06-18-chef-de-cozinha-relata-a-pf-ameacas-de-grupo-de-vorcaro
 - kind: not_located
-  summary: Nenhuma manifestação pública dele foi localizada no corpus até a data desta apuração; o relato de ameaça
-    consta da transcrição de um áudio dele obtido pela investigação, não de declaração pública própria.
+  date: '2026-10-16'
+  summary: Nenhuma entrevista, nota ou rede social própria localizada (WebSearch sobre Woyceichoski, capitão do iate,
+    Vorcaro, ameaça, Angra e entrevista, inclusive para outubro de 2026; leitura de CNN Brasil, SBT News e
+    Poder360); os textos abertos não registram resposta de Vorcaro ou de sua defesa sobre o capitão.
 open_questions:
-- O corpus não localizou notícia de imprensa sobre este episódio específico antes da leitura direta da representação
-  da PF; não há registro de boletim de ocorrência ou processo próprio dele contra Vorcaro.
+- 'Há cobertura de imprensa do depoimento divulgado em 17/06/2026 (CNN Brasil, 18/06/2026, registrada neste
+  lote); não há registro de boletim de ocorrência ou processo próprio dele contra Vorcaro.'
+- 'Vínculo: este verbete diz ex-funcionário de Vorcaro; o verbete de Marcus Vinícius da Mata diz Solar
+  Administração de Bem Próprio. Duas descrições sem reconciliação.'
+- 'O áudio de 25 minutos: este verbete o dá entre Woyceichoski e ''provavelmente'' Marcus Vinícius da Mata; o
+  verbete de Mata e a relação rel-daniel-vorcaro-marcus-vinicius-da-mata-communication o dão entre Vorcaro e
+  Mata. Resolver na IPJ-A (e-Doc 4, PET 15.978); não alterado neste lote.'
 - 'Divergência de data parcialmente esclarecida (lote 199): duas peças da PET 15.978 (decisão do lote 192 e
   manifestação da PGR) convergem em 04/06/2024; só a representação isolada de 27/02/2026 (PET 15.556) cita
   11/07/2025. Provável erro de ano naquele documento, mas não confirmado diretamente.'
@@ -57,9 +76,10 @@ source_ids:
 - src-stf-pet15978-edoc4-ipja-extracao-celular-vorcaro
 - src-stf-pet15562-decisao-03-03-2026-busca-e-apreensao
 - src-stf-pet15562-autos-pecas
+- src-cnnbrasil-2026-06-18-chef-de-cozinha-relata-a-pf-ameacas-de-grupo-de-vorcaro
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-18'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-11'
-updated_at: '2026-09-18'
+updated_at: '2026-10-16'
 

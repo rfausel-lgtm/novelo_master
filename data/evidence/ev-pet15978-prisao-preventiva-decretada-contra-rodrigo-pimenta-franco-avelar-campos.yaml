@@ -1,0 +1,21 @@
+id: ev-pet15978-prisao-preventiva-decretada-contra-rodrigo-pimenta-franco-avelar-campos
+kind: evidence
+classification: D
+proposition: Na decisão de 13/05/2026 na PET 15.978/DF, do ministro André Mendonça, o dispositivo decreta a
+  prisão preventiva de sete investigados, entre eles Rodrigo Pimenta Franco Avelar Campos; a nota do STF de
+  14/05/2026 o lista entre os presos do núcleo "Os Meninos". A preventiva é medida cautelar e não equivale a
+  condenação; a classe D demonstra o conteúdo da decisão e da nota, não os fatos imputados.
+document_ids:
+  - doc-2026-05-13-decisao-pet15978-sexta-fase-os-meninos
+source_ids:
+  - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
+  - src-stf-2026-05-14-sexta-fase
+locator: dispositivo da decisão, item iv (p. 56–57); nota do STF de 14/05/2026, bloco "Os Meninos"
+date: 2026-05-13
+notes: A nota do STF diz que o relator determinou as prisões "na manhã desta quinta-feira (14)"; a decisão no
+  processo é datada de 13/05/2026. O Novelo mantém 13/05 como data da decisão.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

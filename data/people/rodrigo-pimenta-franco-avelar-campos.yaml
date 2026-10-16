@@ -1,28 +1,59 @@
 id: rodrigo-pimenta-franco-avelar-campos
 kind: person
 name: Rodrigo Pimenta Franco Avelar Campos
+aliases:
+- Rodriguinho
+- Rodrigo Pimenta
 category: other
 role: Apontado como operador do núcleo 'Os Meninos', subordinado a David Henrique Alves
 summary: Integrante identificado do núcleo 'Os Meninos' na decisão de 13/05/2026 (6ª fase), conhecido como 'Rodriguinho'.
   Sua participação emerge do depoimento de Victor Lima Sedlmaier, que afirmou já ter pedido a ele a realização de
   'trabalhos para David [Henrique Alves]', incluindo pagar boletos e adquirir domínios na internet. Foi identificado
   como a pessoa que acompanhava Victor no deslocamento ao apartamento de David em Lagoa Santa/MG, em 05/03/2026,
-  no contexto de esvaziamento do imóvel após a fuga de David. No mesmo dia 13/05/2026, na PET 16.019
-  (processo formal de bloqueio patrimonial, distinto da PET 15.978), teve R$ 1,8 milhão em bens e valores
-  bloqueados por decisão de Mendonça.
+  no contexto de esvaziamento do imóvel após a fuga de David. No mesmo dia 13/05/2026, a decisão na PET 15.978
+  decretou a sua prisão preventiva (dispositivo, item iv), noticiada pelo STF em 14/05/2026 entre as prisões da
+  6ª fase; a preventiva é medida cautelar, não condenação. Na PET 16.019 (processo de bloqueio patrimonial,
+  distinto da PET 15.978) a decisão fixou bloqueio individualizado com teto de R$ 1,8 milhão; teto não é o valor
+  encontrado (ver lote 252). Em 22/09/2026, segundo O Antagonista e o Metrópoles, a defesa pediu ao presidente do
+  STF, Edson Fachin, a revogação da preventiva (ver cited_position). O Novelo não localizou decisão sobre o pedido
+  nem o resultado do depoimento à PF que, segundo a defesa, estava marcado para 06/10/2026.
 why_in_novelo: É o terceiro integrante identificado do núcleo hacker 'Os Meninos', com papel de apoio técnico-operacional
   subordinado a David Henrique Alves.
 cited_position:
+- kind: version
+  date: '2026-09-22'
+  summary: Posição processual, não negativa de mérito. Segundo O Antagonista e o Metrópoles (que relatam a mesma
+    petição, uma origem), a defesa pediu ao presidente do STF a revogação da prisão preventiva, argumentando que
+    não há nos autos elemento concreto de risco de não comparecimento e que ele estava intimado a depor na PF em
+    06/10/2026 e compareceria mesmo solto; pediu, subsidiariamente, medidas cautelares diversas (entrega de
+    passaporte, proibição de deixar o país e de contato, comparecimento periódico). Segundo O Antagonista, um
+    primeiro pedido fora feito em 20/08/2026 e a PGR se manifestou em 18/09/2026 pela manutenção da prisão. Tal
+    como relatada, a petição não discute os fatos imputados.
+  source_ids:
+  - src-oantagonista-2026-09-22-integrante-de-os-meninos-de-vorcaro-pede-a-fachin-revogacao-de-prisao
+  - src-metropoles-2026-09-22-operador-tecnico-do-grupo-os-meninos-de-vorcaro-pede-soltura-a-fachin
 - kind: not_located
-  summary: Nenhuma manifestação pública dele localizada no corpus.
+  date: '2026-10-16'
+  summary: Busca do Novelo em 16/10/2026 (WebSearch por 'Rodriguinho' e 'Rodrigo Pimenta' com Os Meninos, Compliance
+    Zero, prisão e habeas corpus; leitura de O Antagonista, Metrópoles, da nota do STF e da decisão) não localizou
+    nota pública da defesa, entrevista ou manifestação fora dos autos; o pedido de 20/08/2026 e a eventual decisão de
+    Fachin não foram localizados.
 open_questions:
 - Não há denúncia oferecida, indiciamento concluído ou decisão de mérito contra ele no corpus.
+- Segundo o parecer da PGR relatado por O Antagonista, a 2ª Turma referendou a decretação da prisão; o acórdão não
+  foi localizado.
+- 'Cumprimento da prisão: O Antagonista diz 14/05, o Metrópoles diz 13/05; a decisão é de 13/05 e a nota do STF é
+  de 14/05.'
+- Depoimento de 06/10/2026 e decisão de Fachin sobre o pedido de revogação não foram localizados até 16/10/2026.
 source_ids:
 - src-stf-pet15978-edoc28-decisao-sexta-fase-13-05-2026
 - src-stf-pet16019-decisao-13-05-2026-medidas-assecuratorias
 - src-stf-pet15977-decisao-11-05-2026-interceptacao
+- src-stf-2026-05-14-sexta-fase
+- src-oantagonista-2026-09-22-integrante-de-os-meninos-de-vorcaro-pede-a-fachin-revogacao-de-prisao
+- src-metropoles-2026-09-22-operador-tecnico-do-grupo-os-meninos-de-vorcaro-pede-soltura-a-fachin
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-11'
-updated_at: '2026-09-11'
+updated_at: '2026-10-16'

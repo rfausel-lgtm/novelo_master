@@ -1,0 +1,18 @@
+id: ev-depoimento-de-woyceichoski-a-pf-divulgado-em-junho-de-2026
+kind: evidence
+classification: A
+proposition: Segundo a CNN Brasil (18/06/2026), em matéria sobre depoimentos à PF tornados públicos em
+  17/06/2026 pelo ministro André Mendonça, o capitão do iate Luis Felipe Woyceichoski disse em depoimento ter sido ameaçado de morte depois de
+  registrar os danos que Daniel Vorcaro e convidados fizeram na embarcação, e relatou que "Manoel" lhe falou
+  de forma intimidatória sobre a vida dele.
+source_ids:
+  - src-cnnbrasil-2026-06-18-chef-de-cozinha-relata-a-pf-ameacas-de-grupo-de-vorcaro
+attributed_to_id: luis-felipe-woyceichoski
+date: 2026-06-17
+notes: O depoimento não foi localizado nos autos públicos; a CNN Brasil cita o trecho da fala, que não é
+  reproduzido aqui. Outros relatos de imprensa sobre o mesmo depoimento não foram abertos pelo Novelo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

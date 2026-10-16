@@ -1,0 +1,25 @@
+id: src-cnnbrasil-2026-06-18-chef-de-cozinha-relata-a-pf-ameacas-de-grupo-de-vorcaro
+kind: source
+title: Chef de cozinha relata à PF ameaças de grupo de Vorcaro
+publisher: CNN Brasil
+publication_date: 2026-06-18
+retrieved_at: 2026-10-16
+url: https://www.cnnbrasil.com.br/politica/chef-de-cozinha-relata-a-pf-ameacas-de-grupo-de-vorcaro/
+source_type: press
+language: pt-BR
+summary: Informa que depoimentos prestados à PF por ex-funcionários de Vorcaro em Angra dos Reis foram
+  tornados públicos em 17/06/2026 pelo relator, ministro André Mendonça. Relata o depoimento do ex-chef
+  Leandro Garcia e, em trecho final, o do capitão do iate, Luis Felipe Woyceichoski, que teria dito ter sido
+  ameaçado de morte depois de registrar danos causados à embarcação, e atribui a "Manoel" uma abordagem
+  intimidatória. Cita mensagens obtidas pela PF em que Vorcaro pede para "irem pra cima" do chef e do capitão.
+notes: A fonte é usada apenas para o depoimento do capitão; o relato do chef não é registrado neste lote.
+verification:
+  checked_at: 2026-10-16
+  checked_by: orquestrador (leitura direta, lote:fonte)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

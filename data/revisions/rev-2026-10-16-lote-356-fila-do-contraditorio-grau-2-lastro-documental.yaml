@@ -1,0 +1,164 @@
+id: rev-2026-10-16-lote-356-fila-do-contraditorio-grau-2-lastro-documental
+kind: revision
+date: 2026-10-16
+title: "Lote 356 — Fila do contraditório, grau 2 (1/2): a prisão preventiva de Rodrigo Pimenta Franco Avelar
+  Campos que o verbete omitia; o que a defesa de Schumann disse nos autos da CVM; a notificação de Neilton
+  Paixão de Jesus pelo TCE-RJ e a nota de Fernanda Machado; e correções de atribuição em Dário Garcia Júnior,
+  Malu Gaspar, Woyceichoski e outros"
+summary: "Segunda rodada da fila do contraditório de grau 2 (16 pessoas neste lote; as demais ficam para o
+  lote 357; uma foi adiada). Método: por pessoa, busca em 16/10/2026 de nota, entrevista, manifestação nos
+  autos ou tentativa de contato; quando há, cited_position ganha tipo, data e fonte; quando não, not_located
+  ganha a descrição da busca. O que este lote NÃO afirma, em destaque: não afirma a veracidade de nenhuma das
+  versões registradas, que convivem com os documentos e com as alegações de origem; não registra o conteúdo da
+  ata do Comitê de Investimentos do Rioprevidência de outubro (só a notícia dela pela NeoFeed); não registra o
+  depoimento de Luis Felipe Woyceichoski além do que a CNN Brasil publicou, porque a matéria do BNews que o
+  descreve com mais detalhe ficou inacessível (bloqueio 403) e foi deixada de fora; não registra decisão de
+  Fachin sobre o pedido de Rodrigo Pimenta Franco Avelar Campos nem o resultado do depoimento à PF de
+  06/10/2026; não consultou os autos 206.599-7/26 do TCE-RJ; e uma prisão preventiva é medida cautelar, não
+  condenação. Camada D, só quanto ao conteúdo de cada documento: (i) a decisão de 13/05/2026 na PET 15.978
+  decreta a prisão preventiva de Rodrigo Pimenta Franco Avelar Campos (dispositivo, item iv) e a nota do STF
+  de 14/05/2026 o lista entre os presos do núcleo Os Meninos; o verbete só registrava o bloqueio patrimonial,
+  e o valor de R$ 1,8 milhão passa a constar como teto, não como valor encontrado; (ii) o relatório e o voto
+  da CVM no PAS 19957.013886/2022-02 descrevem a defesa de Marcio Coutinho Schumann (investidor pessoa física,
+  sem prova de ciência prévia), e o voto reconhece a ausência de prova direta do acesso à informação e
+  considera frágeis as justificativas econômicas; (iii) o voto do TCE-RJ (Acórdão 26.458/2026, assinado em
+  03/08/2026) notifica Neilton Paixão de Jesus, Presidente do Itaprevi, para explicar dois atos em 15 dias, e
+  registra que as aplicações ocorreram na gestão seguinte; (iv) o termo de credenciamento do Itaprevi é de
+  16/01/2024, antes da nomeação de Fernanda Pereira da Silva Machado (12/06/2024), o que não diz nada sobre a
+  atuação dela no Rioprevidência. Camada A, sempre com atribuição: nota de Fernanda Machado (InfoMoney/Agência
+  O Globo, 27/01/2026); nota do advogado de Dário Garcia Júnior (Folhapress, 08/02/2026); depoimento de
+  Woyceichoski à PF, segundo a CNN Brasil; tentativas de contato sem resposta (Estadão: Nabas, 19/05 e 03/07;
+  Almada, 08/09; NeoFeed: Euchério, 09/01); manifestação processual da defesa de Robério Mangueira
+  (27/01/2026); nota da Nord e de Renato Breia (Brasil de Fato, 10/07/2026); nota de O Globo sobre Malu Gaspar
+  (01/07/2026), que é do jornal e não da jornalista; despachos de Jhonatan de Jesus no TCU segundo a imprensa;
+  pedido da defesa de Rodrigo Pimenta a Fachin (22/09/2026, O Antagonista e Metrópoles, uma única origem).
+  Vinte fontes novas e sete evidências novas; nenhuma pessoa, organização, evento, documento ou relação nova.
+  Correções de registros anteriores estão em corrections (inclui a data de 'mesma semana' da ata do
+  Rioprevidência, a retirada de 'confirmou' da piauí, as notas de entidades atribuídas a 04/03 quando as
+  específicas sobre Malu Gaspar são de julho e o by_id autorreferente)."
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 20
+  evidence: 7
+updated_relationships: 1
+corrections:
+  - "rodrigo-pimenta-franco-avelar-campos: o verbete não registrava a prisão preventiva decretada em
+    13/05/2026 na PET 15.978 nem a manifestação da defesa; o bloqueio de R$ 1,8 milhão passou a constar como
+    teto, não como valor bloqueado."
+  - 'eucherio-lerner-rodrigues, rel-euquerio-lerner-rodrigues-rioprevidencia-institutional,
+    evt-2023-11-30-comite-libera-teto-sem-nomear-o-master, ev-decisao-do-master-nao-individualizada-em-ata,
+    doc-2023-11-30-ata-11-rioprevidencia-liberacao-generica, src-rioprevidencia-ata-11-2023-11-30: a ata do
+    Comitê é de 30/11/2023, de três a quatro semanas depois das aplicações de 01 e 10/11/2023; "na mesma
+    semana da primeira compra" estava incorreto. Cargo: deixou a diretoria em março de 2025. A fonte da
+    posição (ata de 30/11/2023) não sustentava a fala de outubro; trocada pela NeoFeed.'
+  - 'ev-reacoes-vitimas-monitoramento-itau-piaui-nord: "tendo a publicação confirmado as tentativas de
+    intimidação" retirado (nenhuma fonte lida registra confirmação da piauí); a mensagem de comemoração de
+    Miranda e a nota da Nord e de Breia eram atribuídas à CNN Brasil, cuja página não as traz: a citação da
+    mensagem saiu e a nota passou a ser atribuída ao Brasil de Fato; a menção a familiar sem papel próprio no
+    trecho sobre Milton Maluhy Filho foi retirada.
+    src-cnnbrasil-2026-pf-thiago-miranda-coagiu-tres-jornalistas: data completa; título e resumo corrigidos pela
+    página atual, que não traz a mensagem de Miranda nem a nota da Nord e de Breia (o "à disposição das
+    autoridades" dela é da defesa de Miranda).'
+  - 'malu-gaspar e ev-devassa-contra-malu-gaspar-e-tentativa-de-cooptacao: as notas de Abraji, ANJ e Fenaj de
+    04/03/2026 eram gerais (a da Abraji nomeia Lauro Jardim); em 02/07/2026 a ANJ repudiou o levantamento
+    sobre Malu Gaspar e a Abraji, ataques on-line contra ela após reportagem sobre Moraes e Galípolo; a citação da nota de O Globo foi corrigida pelo texto bruto; a proposta de contratação e a
+    mensagem de Vorcaro passaram a constar com atribuição; a mensagem é grafada "abordagem" em O Globo e na
+    Gazeta do Povo (o registro anterior dizia "aproximação"); as citações "frear a Malu Gaspar" e "iria dar
+    trabalho nos próximos dias" foram postas na forma literal.
+    src-gazetadopovo-2026-vorcaro-ordenou-devassa-jornalista-o-globo: data completa.'
+  - 'dario-oswaldo-garcia-junior, roberio-bonfim-mangueira: by_id autorreferente retirado das entradas
+    not_located; cargos "ex-"; manifestações de 08/02/2026 (advogado) e 27/01/2026 (defesas, processual)
+    registradas; prazo de 30 dias do TCDF com termo inicial não informado.'
+  - "neilton-paixao-de-jesus: cargo (Presidente do Itaprevi) e os dois pontos da notificação do TCE-RJ
+    conforme o voto. doc-2026-08-06-voto-acordao-26458-tcerj-itaprevi: a data do documento é 03/08/2026
+    (assinatura digital), não 06/08 (upload no site de hospedagem); o id foi mantido. Pelo mesmo motivo,
+    evt-2026-08-06-tcerj-conclui-que-o-banco-escreveu-o-proprio-parecer e
+    ev-tcerj-conclui-que-o-banco-preencheu-o-proprio-parecer passam a 03/08/2026 (ids mantidos), e
+    src-tcerj-voto-acordao-26458-2026 ganha nota sobre as duas datas."
+  - "fernanda-pereira-da-silva-machado: tinha not_located e dizia que o corpus não registrava defesa, havendo
+    nota dela de 27/01/2026; saída do Itaprevi em 01/01/2025."
+  - 'andre-pissolito-campos: tinha not_located ("sem declaração pessoal") havendo o termo de oitiva de
+    16/07/2026 no acervo.'
+  - "joao-claudio-nabas: why_in_novelo atribuía ao STF a identificação como suspeito e supunha ligação a
+    conversas Vorcaro-Moraes; reescrito com atribuição à PF; not_located substituído por no_response, posição
+    nos autos e nota de terceiro."
+  - 'luis-felipe-woyceichoski: o depoimento à PF divulgado em junho de 2026 não estava registrado; a afirmação
+    "não há notícia de imprensa" foi corrigida.'
+  - "leandro-almada-da-costa: not_located substituído por no_response; prazo de 90 dias atribuído ao
+    Metrópoles; positions preenchido; open_questions com acentuação; by_id autorreferente retirado do
+    not_located do lote 352."
+  - "jhonatan-de-jesus: sigilo atribuído ao Correio Braziliense, com a versão do Diário do Nordeste; despachos
+    de 18/12/2025 e 24/03/2026 registrados."
+  - "gilberto-benevides: a recusa do ANPP saiu de open_questions para cited_position; data da denúncia e
+    dúvida sobre a vara registradas."
+  - "marcio-coutinho-schumann: defesa nos autos registrada; fonte do resultado do Colegiado."
+  - "consuelo-dieguez, renato-breia: not_located e public_note com fonte."
+author: orquestrador
+affected_ids:
+  - src-poder360-2026-01-27-pf-cancela-depoimentos-de-executivos-no-caso-master
+  - src-jornaldebrasilia-2026-02-08-ex-diretor-do-brb-afastado-por-caso-master-volta-para-agencia-bancaria-e-busca-discricao
+  - src-cvm-2025-11-24-pas-19957-013886-2022-02-relatorio-da-diretora-marina-copola
+  - src-infomoney-2026-01-27-fundo-de-itaguai-que-aplicou-20-do-patrimonio-no-master-ja-espera-visita-da-pf
+  - src-neofeed-2026-01-09-behind-the-scenes-of-how-rioprevidencia-invested-r-970-million-in-banco-master-bonds
+  - src-infomoney-2025-11-19-rioprevidencia-justifica-aporte-no-master-todo-investimento-possui-riscos
+  - src-cnnbrasil-2026-06-18-chef-de-cozinha-relata-a-pf-ameacas-de-grupo-de-vorcaro
+  - src-jornaldebrasilia-2026-05-19-perito-suspeito-de-vazar-contrato-de-mulher-de-moraes-e-alvo-da-pf
+  - src-gazetadopovo-2026-07-03-agente-da-pf-produziu-provas-contra-moraes-e-toffoli-que-vazaram-a-imprensa-diz-investigacao
+  - src-jornaldebrasilia-2025-12-19-ministro-do-tcu-ve-precipitacao-na-liquidacao-do-master-bc-diz-estar-munido-com-documentos
+  - src-diariodonordeste-2026-02-11-tcu-restringe-acesso-a-documentos-do-caso-banco-master-e-acirra-tensao-com-banco-central
+  - src-poder360-2026-03-24-tcu-congela-processo-sobre-o-master-e-avalia-retirar-sigilo-do-caso
+  - src-dgabc-2026-09-08-mendonca-afasta-diretor-geral-da-pf-e-chefe-da-inteligencia-da-corporacao
+  - src-bpmoney-2025-12-19-tanure-e-denunciado-por-operacao-na-gafisa-gfsa3
+  - src-revistaoeste-2025-12-19-mp-denuncia-nelson-tanure-por-uso-de-informacao-privilegiada-em-negocio-com-a-gafisa
+  - src-oglobo-2026-07-01-vorcaro-e-publicitario-mandaram-vasculhar-vida-de-jornalista-malu-gaspar-preciso-calar-essa-mulher
+  - src-poder360-2026-07-09-saiba-quais-jornalistas-foram-alvo-de-vorcaro-e-thiago-miranda
+  - src-brasildefato-2026-07-10-vorcaro-ofereceu-dinheiro-para-influenciadores-criticarem-o-bc-nas-redes-segundo-a-pf
+  - src-oantagonista-2026-09-22-integrante-de-os-meninos-de-vorcaro-pede-a-fachin-revogacao-de-prisao
+  - src-metropoles-2026-09-22-operador-tecnico-do-grupo-os-meninos-de-vorcaro-pede-soltura-a-fachin
+  - ev-pet15978-prisao-preventiva-decretada-contra-rodrigo-pimenta-franco-avelar-campos
+  - ev-defesa-de-rodrigo-pimenta-pede-a-fachin-a-revogacao-da-preventiva-segundo-a-imprensa
+  - ev-defesa-de-marcio-schumann-nos-autos-do-pas-cvm-19957-013886-2022-02
+  - ev-tcerj-notifica-neilton-paixao-de-jesus-sobre-o-credenciamento-do-master-no-itaprevi
+  - ev-termo-de-credenciamento-001-2024-do-itaprevi-precede-a-posse-de-fernanda-machado
+  - ev-depoimento-de-woyceichoski-a-pf-divulgado-em-junho-de-2026
+  - ev-tcu-jhonatan-de-jesus-despacho-de-18-12-2025-sobre-a-liquidacao-do-master
+  - rodrigo-pimenta-franco-avelar-campos
+  - marcio-coutinho-schumann
+  - neilton-paixao-de-jesus
+  - andre-pissolito-campos
+  - fernanda-pereira-da-silva-machado
+  - eucherio-lerner-rodrigues
+  - luis-felipe-woyceichoski
+  - joao-claudio-nabas
+  - jhonatan-de-jesus
+  - leandro-almada-da-costa
+  - roberio-bonfim-mangueira
+  - dario-oswaldo-garcia-junior
+  - gilberto-benevides
+  - malu-gaspar
+  - consuelo-dieguez
+  - renato-breia
+  - evt-2026-05-14-compliance-zero-6a-fase
+  - doc-2026-08-06-voto-acordao-26458-tcerj-itaprevi
+  - ev-reacoes-vitimas-monitoramento-itau-piaui-nord
+  - ev-devassa-contra-malu-gaspar-e-tentativa-de-cooptacao
+  - evt-2023-11-30-comite-libera-teto-sem-nomear-o-master
+  - ev-decisao-do-master-nao-individualizada-em-ata
+  - doc-2023-11-30-ata-11-rioprevidencia-liberacao-generica
+  - src-rioprevidencia-ata-11-2023-11-30
+  - src-cnnbrasil-2026-pf-thiago-miranda-coagiu-tres-jornalistas
+  - src-gazetadopovo-2026-vorcaro-ordenou-devassa-jornalista-o-globo
+  - rel-euquerio-lerner-rodrigues-rioprevidencia-institutional
+  - evt-2026-08-06-tcerj-conclui-que-o-banco-escreveu-o-proprio-parecer
+  - ev-tcerj-conclui-que-o-banco-preencheu-o-proprio-parecer
+  - src-tcerj-voto-acordao-26458-2026
+reason: Cumprir o contraditório do EDITORIAL_POLICY §5 para 16 pessoas já publicadas, trocando registros
+  genéricos de 'não localizada manifestação' por posições ancoradas em documento, nos autos ou na imprensa,
+  com a descrição da busca quando nada foi achado, e corrigindo o que o acervo afirmava sem lastro.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16

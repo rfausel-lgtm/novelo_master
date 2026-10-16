@@ -1,0 +1,24 @@
+id: src-infomoney-2025-11-19-rioprevidencia-justifica-aporte-no-master-todo-investimento-possui-riscos
+kind: source
+title: "Rioprevidência justifica aporte no Master: ‘Todo investimento possui riscos’"
+publisher: InfoMoney (Agência O Globo)
+publication_date: 2025-11-19
+retrieved_at: 2026-10-16
+url: https://www.infomoney.com.br/?p=3109649
+source_type: wire
+language: pt-BR
+summary: O Rioprevidência justifica ao TCE-RJ os aportes no Master; o título vem de ofício do presidente do
+  instituto. Registra que Euchério Lerner Rodrigues, ex-diretor de investimentos, deixou o governo estadual em
+  março de 2025.
+notes: Republicação de matéria da Agência O Globo; usada neste lote só para a data de saída de Euchério Lerner
+  Rodrigues do cargo.
+verification:
+  checked_at: 2026-10-16
+  checked_by: orquestrador (leitura direta, lote:fonte)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

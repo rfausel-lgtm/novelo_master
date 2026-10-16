@@ -11,6 +11,7 @@ participant_ids:
 - ministerio-publico-federal
 - henrique-vorcaro
 - daniel-vorcaro
+- rodrigo-pimenta-franco-avelar-campos
 description: Na Pet 15978, o relator decretou a prisão preventiva de Henrique Vorcaro e de outros seis
   investigados dos núcleos 'A Turma' e 'Os Meninos', afastou uma delegada e um agente da PF suspeitos
   de repassar dados do e-Pol e impôs cautelares; todas as medidas com parecer favorável do MPF. Segundo
@@ -21,6 +22,7 @@ evidence_ids:
 - ev-stf-prisao-henrique-vorcaro-2026-05-14
 - ev-pf-henrique-operador-financeiro
 - ev-decisao-6a-fase-representacao
+- ev-pet15978-prisao-preventiva-decretada-contra-rodrigo-pimenta-franco-avelar-campos
 source_ids:
 - src-stf-2026-05-14-sexta-fase
 document_ids:
@@ -30,6 +32,6 @@ public_act_ids:
 - ato-2026-05-14-decisao-pet-15978
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-03'
-updated_at: '2026-09-03'
+updated_at: '2026-10-16'

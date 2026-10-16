@@ -5,10 +5,14 @@ proposition: 'Entre março e abril de 2025, Daniel Vorcaro determinou levantamen
   jornalista Malu Gaspar, de O Globo, em razão de sua cobertura sobre o Banco Master: familiares, endereço,
   contas bancárias e informações veiculares. A execução é atribuída ao publicitário Thiago Miranda, que
   teria informado não ter encontrado nada comprometedor. Trecho atribuído a Vorcaro: ''Vamos ter que tentar
-  pegar algo dessa mulher no pessoal''. Antes disso houve tentativa de cooptação — proposta de contratá-la
-  por R$ 120 mil mensais mais R$ 1,5 milhão a título de luvas, com o objetivo de interromper as apurações
-  —, e em outra mensagem Vorcaro reclama que ''Malu e Lauro vieram com mais fúria após a aproximação''.
-  A Abraji, a ANJ e a Fenaj divulgaram notas de repúdio em 04/03/2026. Apuração jornalística registra
+  pegar algo dessa mulher no pessoal''. Segundo mensagens reproduzidas pela CNN Brasil e pela Gazeta do
+  Povo, Vorcaro e Miranda trataram de uma possível contratação dela (a CNN cita ''Luva de 1,5 mm e salário de
+  120k''); as fontes lidas não registram que a proposta tenha chegado a ela nem resposta dela. Em outra
+  mensagem, Vorcaro reclama que ela e o jornalista Lauro Jardim teriam reagido com mais intensidade após uma
+  abordagem. Em 04/03/2026, Abraji (cuja nota nomeia Lauro Jardim), ANJ e Fenaj repudiaram, em termos gerais, as
+  tentativas de intimidar jornalistas reveladas na operação. Em 02/07/2026, a ANJ repudiou especificamente o
+  levantamento sobre Malu Gaspar, e a Abraji, ataques on-line contra ela após reportagem sobre conversas entre
+  Alexandre de Moraes e Gabriel Galípolo. Apuração jornalística registra
   que quatro pessoas constam nominalmente da decisão como alvos de monitoramento, mas que o número total
   pode passar de vinte; entre os alvos há também funcionários das residências de Vorcaro, não identificados
   nominalmente.'
@@ -17,9 +21,11 @@ source_ids:
 - src-gazetadopovo-2026-vorcaro-ordenou-devassa-jornalista-o-globo
 - src-gazetadopovo-2026-turma-planejou-atacar-jornalistas-autoridades
 - src-abraji-2026-03-04-repudio-intimidacao-jornalistas
+- src-cnnbrasil-2026-vorcaro-devassa-malu-gaspar
+- src-gazetadopovo-2026-entidades-repudiam-assedio-malu-gaspar
 date: 2025-04
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-09'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-09'
-updated_at: '2026-09-09'
+updated_at: '2026-10-16'

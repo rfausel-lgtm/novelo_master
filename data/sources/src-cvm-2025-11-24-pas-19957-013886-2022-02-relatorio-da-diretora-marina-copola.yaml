@@ -1,0 +1,25 @@
+id: src-cvm-2025-11-24-pas-19957-013886-2022-02-relatorio-da-diretora-marina-copola
+kind: source
+title: Processo Administrativo Sancionador CVM nº 19957.013886/2022-02 – Relatório
+publisher: Comissão de Valores Mobiliários
+publication_date: 2025-11-24
+retrieved_at: 2026-10-16
+url: https://www.gov.br/cvm/pt-br/assuntos/noticias/anexos/2025/20251124-pas-cvm-19957-013886-2022-02-relatorio-diretora-marina-copola.pdf
+source_type: official_regulator
+language: pt-BR
+summary: Relatório de 26 páginas da Diretora Marina Copola no PAS 19957.013886/2022-02. Descreve a acusação da
+  área técnica e as defesas dos acusados; nos §§ 78 a 86, a defesa conjunta de Roberto e Marcio Coutinho
+  Schumann.
+notes: Data de publicação tomada do nome do arquivo; a data do documento não foi conferida. Texto extraído do
+  PDF oficial em 16/10/2026 (extração local). O voto da mesma relatora está na fonte
+  src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann.
+verification:
+  checked_at: 2026-10-16
+  checked_by: orquestrador (PDF oficial, extração local de texto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

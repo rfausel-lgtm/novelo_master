@@ -9,22 +9,38 @@ summary: Empresário, ex-controlador da Upcon (titular de 82,94% do capital), co
   do MPF, teria coordenado com Tanure a inflação do capital social da Upcon dias antes do laudo de avaliação
   da operação, tomando empréstimo formal da corretora Planner enquanto o lastro real dos recursos teria
   vindo do próprio Tanure via fundo Singular Plus. Réu desde 28/01/2026, junto com Tanure, perante a 5ª
-  Vara Criminal Federal de São Paulo. Nenhuma manifestação de defesa atribuída a ele foi localizada pela
-  equipe.
+  Vara Criminal Federal de São Paulo. A denúncia do MPF foi noticiada em 19/12/2025 (BPMoney; Revista Oeste) e
+  recebida em 28/01/2026. Nenhuma manifestação de defesa atribuída a ele foi localizada pela equipe.
 why_in_novelo: É corréu de Nelson Tanure na única ação penal em que o empresário já figura como réu —
   distinta do caso Master, mas relevante para o perfil processual de um investigado do caso.
 cited_position:
+- kind: version
+  date: '2026-09-04'
+  summary: Ato processual, não manifestação sobre o mérito. Segundo a leitura direta das comunicações do DJEN pela
+    equipe, o MPF lhe ofereceu Acordo de Não Persecução Penal, que ele recusou; a Tanure o MPF negou o acordo. A
+    fase de instrução tem audiências designadas para 20/10/2026 e 18/11/2026 (esta com o interrogatório dos réus).
+  source_ids:
+  - src-verificacao-direta-equipe-djen-processo-gafisa-upcon
 - kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+  date: '2026-10-16'
+  summary: Busca em 16/10/2026 (quatro buscas por nome com Upcon, Gafisa, Tanure, defesa e ANPP; leitura de BPMoney e
+    Revista Oeste de 19/12/2025) não localizou declaração dele ou de advogado em nome dele, nem registro de tentativa
+    de contato; só há nota da defesa de Tanure. Nada em set–out/2026.
+  source_ids:
+  - src-bpmoney-2025-12-19-tanure-e-denunciado-por-operacao-na-gafisa-gfsa3
+  - src-revistaoeste-2025-12-19-mp-denuncia-nelson-tanure-por-uso-de-informacao-privilegiada-em-negocio-com-a-gafisa
 open_questions:
-- Leitura direta do processo (via DJEN/CNJ) confirma que o MPF ofereceu a ele Acordo de Não Persecução
-  Penal (ANPP) — diferentemente de Tanure, a quem o ANPP foi negado — mas ele recusou a proposta.
+- 'Vara: o verbete e a decisão de 31/07/2026 falam em 5ª Vara Criminal Federal de São Paulo; o BPMoney e a Revista
+  Oeste (19/12/2025) situam o inquérito na 9ª Vara Criminal Federal de São Paulo. Conferir.'
+- O interrogatório dos réus está designado para 18/11/2026.
 source_ids:
 - src-otempo-2026-01-29-tanure-reu-outra-fraude
 - src-seudinheiro-2026-entenda-denuncia-tanure-gafisa-master
 - src-verificacao-direta-equipe-djen-processo-gafisa-upcon
+- src-bpmoney-2025-12-19-tanure-e-denunciado-por-operacao-na-gafisa-gfsa3
+- src-revistaoeste-2025-12-19-mp-denuncia-nelson-tanure-por-uso-de-informacao-privilegiada-em-negocio-com-a-gafisa
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-05'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-05'
-updated_at: '2026-09-06'
+updated_at: '2026-10-16'

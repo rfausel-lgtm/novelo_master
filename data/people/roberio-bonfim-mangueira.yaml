@@ -4,7 +4,7 @@ name: Robério Bonfim Mangueira
 aliases:
 - Robério César Bonfim Mangueira
 category: executive
-role: Superintendente de Operações Financeiras (SUOPE) do BRB
+role: Ex-superintendente de Operações Financeiras (SUOPE) do BRB
 positions:
 - title: Superintendente de Operações Financeiras (SUOPE)
   organization_id: banco-de-brasilia-brb
@@ -21,14 +21,21 @@ summary: 'Superintendente de Operações Financeiras do BRB, cossignatário, ao 
 why_in_novelo: É apontado pelo MPF como um dos responsáveis, do lado do BRB, por entregar ao Banco Central
   a documentação sobre a aquisição de carteiras do Master hoje questionada.
 cited_position:
+- kind: version
+  date: '2026-01-27'
+  summary: 'Posição processual, não negativa de mérito. Segundo o Poder360 e a Agência Brasil, a PF cancelou/adiou o
+    depoimento previsto para 27/01/2026 no inquérito do STF porque as defesas disseram não ter tido acesso ao
+    conteúdo das investigações e, por isso, não responderiam aos questionamentos. Depoimento posterior: não
+    localizado.'
+  source_ids:
+  - src-poder360-2026-01-27-pf-cancela-depoimentos-de-executivos-no-caso-master
+  - src-agenciabrasil-2026-01-27-pf-adia-depoimentos-tres-investigados
 - kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
-- kind: not_located
-  by_id: roberio-bonfim-mangueira
-  date: '2026-10-15'
-  summary: Quanto à cautelar do TCDF de 23/09/2026, o Poder360 informou não ter localizado contato válido
-    para ele; busca do Novelo em 15/10/2026 por nota de defesa ou manifestação nos autos não localizou
-    posição.
+  date: '2026-09-23'
+  summary: Quanto à cautelar do TCDF, o Poder360 informou não ter localizado telefone ou e-mail válido para ele;
+    busca do Novelo em 15 e 16/10/2026 por nota de defesa ou manifestação nos autos não localizou posição. O
+    prazo de 30 dias dado pelo TCDF tem termo inicial não informado (depende da intimação), em princípio ainda
+    em curso.
   source_ids:
   - src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
 open_questions:
@@ -40,6 +47,7 @@ source_ids:
 - src-sbtnews-2026-09-23-tcdf-bloqueia-r-2-7-bi-de-ex-presidente-do-brb-e-mais-4
 - src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
 - src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+- src-poder360-2026-01-27-pf-cancela-depoimentos-de-executivos-no-caso-master
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-10-16'

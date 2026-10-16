@@ -1,0 +1,26 @@
+id: src-jornaldebrasilia-2025-12-19-ministro-do-tcu-ve-precipitacao-na-liquidacao-do-master-bc-diz-estar-munido-com-documentos
+kind: source
+title: Ministro do TCU vê ‘precipitação’ na liquidação do Master; BC diz estar munido com documentos
+publisher: Jornal de Brasília (Estadão Conteúdo)
+publication_date: 2025-12-19
+retrieved_at: 2026-10-16
+url: https://jornaldebrasilia.com.br/noticias/economia/ministro-do-tcu-ve-precipitacao-na-liquidacao-do-master-bc-diz-estar-munido-com-documentos/
+source_type: press
+language: pt-BR
+summary: Descreve despacho de 18/12/2025 do ministro do TCU Jhonatan de Jesus que deu 72 horas ao Banco
+  Central para justificar a liquidação do Banco Master, apontou suposta precipitação, indícios de cronologia
+  atípica e demora na condução de alternativas (citando proposta do Grupo Fictor). Segundo o Broadcast, o BC
+  recebeu o pedido com tranquilidade e se diz munido de documentos; a matéria não registra nota oficial do BC.
+notes: Republicação do Estadão Conteúdo; o despacho não foi localizado. O texto contrapõe o despacho a
+  evidências de investigações em linguagem do veículo, que o Novelo não adota. O sobrenome do ministro aparece
+  grafado "Jessus" em um trecho da matéria.
+verification:
+  checked_at: 2026-10-16
+  checked_by: orquestrador (leitura direta, lote:fonte)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

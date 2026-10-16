@@ -9,21 +9,35 @@ summary: Alvo de constrição patrimonial na PET 16.230 (item I.20, teto de R$ 2
   o envio do contrato de compra e venda e do instrumento de cessão de direitos aquisitivos referentes à unidade
   1.702, descrevendo sua atuação como inserida no circuito jurídico-documental de formalização ou reorganização
   dos direitos sobre o imóvel. Em 21/07/2026, a PGR opinou pelo levantamento do bloqueio, com vedação a novos bloqueios
-  sobre a mesma rubrica.
+  sobre a mesma rubrica. Segundo o termo de oitiva de 16/07/2026, é ex-sócio de Daniel Lopes Monteiro.
 why_in_novelo: É alvo de constrição patrimonial na PET 16.230 no eixo do apartamento Poème Horto, com parecer favorável
   da PGR ao levantamento do bloqueio ainda sem decisão.
 cited_position:
-- kind: not_located
-  summary: Nenhuma manifestação pública dele foi localizada; o pedido de revogação da cautelar em seu favor foi
-    apresentado por seus advogados, sem declaração pessoal registrada nas peças reunidas.
+- kind: version
+  date: '2026-07-16'
+  summary: 'Declaração nos autos, não manifestação pública. Segundo o resumo do termo de oitiva na PF de 16/07/2026
+    (doc-2026-07-16-termos-de-oitiva-pf-pissolito-e-marcio-domingues), ele, ex-sócio de Daniel Lopes Monteiro, diz
+    ter elaborado, a pedido dele e em fevereiro de 2026, minuta de cessão com os dados comerciais em branco.'
   source_ids:
   - src-stf-pet16230-autos-pecas
+- kind: not_located
+  date: '2026-10-16'
+  summary: Busca em 16/10/2026 (WebSearch sobre Pissolito, PET 16.230, Poème Horto, bloqueio de apartamento e defesa;
+    leitura do agregador diar.ia.br, usado só como pista) não localizou nota pública, entrevista ou notícia de
+    decisão do relator sobre o parecer da PGR de 21/07/2026. O pedido de revogação da cautelar foi apresentado por
+    advogados.
 open_questions:
 - O parecer favorável da PGR de 21/07/2026 segue sem decisão do relator.
+- A fonte src-stf-pet16230-autos-pecas não descreve Pissolito; as remissões nomeadas são os documentos de 16/07/2026
+  (oitiva) e 21/07/2026 (parecer da PGR).
+- 'O agregador diar.ia.br marca a entrada como PET 16.229 (p. 19); o acervo usa PET 16.230. Conferir na decisão de
+  19/06/2026 (doc-2026-06-19-decisao-pet16230-constricao-patrimonial); agregador é pista, não fonte.'
+- O termo de oitiva (e-doc 281) não foi relido neste lote; o resumo da declaração vem do registro do acervo
+  (doc-2026-07-16-termos-de-oitiva-pf-pissolito-e-marcio-domingues).
 source_ids:
 - src-stf-pet16230-autos-pecas
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-17'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-17'
-updated_at: '2026-09-17'
+updated_at: '2026-10-16'

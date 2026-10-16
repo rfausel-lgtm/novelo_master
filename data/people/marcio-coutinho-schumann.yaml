@@ -11,20 +11,39 @@ summary: 'Irmão de Roberto Coutinho Schumann, então diretor financeiro da Cort
   da Cortel, sem que houvesse prova direta de como recebeu a informação privilegiada — a condenação se
   apoiou em indícios múltiplos e convergentes: era a primeira vez que negociava cotas de fundo imobiliário,
   começou a comprar cerca de um mês antes de a Cortel operar e liquidou a posição no mesmo dia da máxima
-  do ativo, coincidindo com o fim da atuação relevante da Cortel.'
+  do ativo, coincidindo com o fim da atuação relevante da Cortel. Segundo O Fator (27/11/2025), o voto da
+  relatora foi acompanhado por outros diretores da CVM.'
 why_in_novelo: Foi condenado pela CVM por prática não equitativa ao negociar cotas do CARE11 em data e sentido
   coincidentes com as ordens da Cortel, no mesmo episódio em que a Cortel — ligada a Fabiano Zettel e ao Banco Master via CARE11 —
   comprava cotas do próprio fundo que a participa.
 cited_position:
+- kind: version
+  date: '2025-11-24'
+  summary: Posição dentro dos autos do PAS CVM 19957.013886/2022-02. Segundo o Relatório da Diretora Marina Copola
+    (§§ 78 a 86), a defesa conjunta dele e do irmão sustentou que a acusação partia de premissas fáticas equivocadas;
+    que a 'prática não equitativa' estaria sendo usada como substituto de insider trading sem tipificação para
+    fundo imobiliário; que, ainda que fosse considerado insider secundário, não haveria evidência de ciência
+    prévia; e que ele teria agido apenas como investidor pessoa física, atraído por notícias positivas sobre o
+    fundo. O voto (§ 66) avalia como frágeis as justificativas econômicas apresentadas e reconhece a ausência de
+    provas diretas de que ele tenha tido acesso às informações do irmão.
+  source_ids:
+  - src-cvm-2025-11-24-pas-19957-013886-2022-02-relatorio-da-diretora-marina-copola
+  - src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann
 - kind: not_located
-  summary: Nenhuma manifestação pública dele fora dos autos do PAS foi localizada.
+  date: '2026-10-16'
+  summary: 'Busca em 16/10/2026 por manifestação pública fora dos autos (WebSearch sobre o nome, CVM, CARE11, Cortel
+    e defesa; leitura integral do relatório, do voto, de O Fator e do InfoMoney de 11/09/2023): nenhuma. Recurso ao
+    CRSFN não pesquisado.'
 open_questions:
-- Não apurado como teve acesso à informação privilegiada — a CVM não exige prova direta do meio de
-  transmissão, bastando indícios convergentes.
+- A acusação da área técnica, segundo o voto (§ 3), é que Roberto Schumann repassou as informações ao irmão; o voto
+  reconhece que não há prova direta do meio de acesso e que a condenação se apoia em indícios convergentes.
+- 'Recurso ao CRSFN: não pesquisado.'
 source_ids:
 - src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann
+- src-cvm-2025-11-24-pas-19957-013886-2022-02-relatorio-da-diretora-marina-copola
+- src-ofator-2025-11-27-cvm-care11-rpps-minas
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-19'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-19'
 updated_at: '2026-10-16'

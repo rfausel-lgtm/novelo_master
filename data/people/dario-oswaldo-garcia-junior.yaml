@@ -2,7 +2,7 @@ id: dario-oswaldo-garcia-junior
 kind: person
 name: Dário Oswaldo Garcia Júnior
 category: executive
-role: Diretor Executivo de Finanças e Controladoria (DIFIC) do BRB
+role: Ex-Diretor Executivo de Finanças e Controladoria (DIFIC) do BRB
 positions:
 - title: Diretor Executivo de Finanças e Controladoria (DIFIC)
   organization_id: banco-de-brasilia-brb
@@ -11,7 +11,10 @@ positions:
 summary: 'Diretor Executivo de Finanças e Controladoria do BRB, cossignatário, ao lado de Paulo Henrique
   Costa e Robério César Bonfim Mangueira, do Ofício PRESI-2025/051 (18/06/2025) — a primeira manifestação
   institucional própria do BRB sobre a aquisição de carteiras do Banco Master já lida diretamente pela
-  equipe. Investigado formal no INQ 5.026, com pedido de habilitação de defesa em novembro de 2025. ACHADO
+  equipe. Investigado formal no INQ 5.026, com pedido de habilitação de defesa em novembro de 2025. Segundo a Folhapress
+  (Jornal de Brasília, 08/02/2026), houve busca e apreensão contra ele em 18/11/2025, com afastamento da diretoria
+  por ordem judicial; no dia seguinte foi destituído do cargo pelo conselho do banco, e em 26/01/2026 prestou
+  depoimento à PF. ACHADO
   NOVO (lote 240) — a decisão de 22/06/2026 na PET 15.478 atribui a ele conduta pessoal, não apenas
   institucional: segundo a autoridade policial, já desde novembro/dezembro de 2024 tinha conhecimento de
   inconsistências graves na carteira CREDCESTA (manipulação, ausência de lastro, movimentação atípica de
@@ -22,14 +25,20 @@ summary: 'Diretor Executivo de Finanças e Controladoria do BRB, cossignatário,
 why_in_novelo: É um dos dirigentes do BRB apontados pelo Ministério Público Federal como responsáveis por
   entregar ao Banco Central a documentação hoje questionada sobre a aquisição de carteiras do Master.
 cited_position:
+- kind: version
+  date: '2026-02-08'
+  summary: 'Nota do advogado Ricardo Borges, segundo a Folhapress (Jornal de Brasília, 08/02/2026; data da nota não
+    informada): o cliente confia na investigação, adotou conduta colaborativa e respondeu aos questionamentos; teria
+    cumprido suas funções de forma legal, com conduta decorrente de decisões colegiadas anteriores; o advogado o
+    descreve como vítima do episódio. A nota é anterior à decisão de 22/06/2026 na PET 15.478 e ao bloqueio do TCDF
+    (23/09/2026) e não responde a eles.'
+  source_ids:
+  - src-jornaldebrasilia-2026-02-08-ex-diretor-do-brb-afastado-por-caso-master-volta-para-agencia-bancaria-e-busca-discricao
 - kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data desta atualização.
-- kind: not_located
-  by_id: dario-oswaldo-garcia-junior
   date: '2026-10-15'
   summary: Quanto à cautelar do TCDF de 23/09/2026, o Poder360 informou não ter localizado contato válido
     para ele; busca do Novelo em 15/10/2026 por nota de defesa ou manifestação nos autos não localizou
-    posição.
+    posição. O prazo de 30 dias dado pelo TCDF tem termo inicial não informado, em princípio ainda em curso.
   source_ids:
   - src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
 open_questions:
@@ -43,6 +52,7 @@ source_ids:
 - src-sbtnews-2026-09-23-tcdf-bloqueia-r-2-7-bi-de-ex-presidente-do-brb-e-mais-4
 - src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
 - src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+- src-jornaldebrasilia-2026-02-08-ex-diretor-do-brb-afastado-por-caso-master-volta-para-agencia-bancaria-e-busca-discricao
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-10-16'

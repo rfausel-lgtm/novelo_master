@@ -2,28 +2,39 @@ id: neilton-paixao-de-jesus
 kind: person
 name: Neilton Paixão de Jesus
 category: public_official
-role: Dirigente do Instituto de Previdência de Itaguaí à época do credenciamento do Banco Master
+role: Presidente do Itaprevi (Instituto de Previdência de Itaguaí) à época do credenciamento do Banco Master
 positions:
-- title: Dirigente da unidade gestora
+- title: Presidente do Itaprevi (dirigente da unidade gestora)
   organization_id: itaprevi-itaguai
   source_ids:
   - src-itaprevi-processo-200000015-2024
+  - src-tcerj-voto-acordao-26458-2026
 summary: Assinou digitalmente, em 16/01/2024, o Termo de Análise e Atestado de Credenciamento nº 001/2024
   do Banco Master no regime próprio de Itaguaí — firmando, com dois minutos de diferença, os dois campos
   distintos que o modelo do Ministério da Previdência reserva ao dirigente da unidade gestora e ao gestor
   de recursos. O processo fora aberto cinco dias antes, e a documentação chegara por mensagem do próprio
-  banco. O Tribunal de Contas do Estado do Rio de Janeiro o notificou pelo credenciamento. Não é réu,
-  denunciado nem indiciado.
+  banco. O voto condutor do Acórdão nº 26.458/2026 do TCE-RJ (processo 206.599-7/26, assinado em 03/08/2026) o
+  designa Presidente do Itaprevi e Presidente do Comitê de Investimentos e determina a sua notificação, no
+  prazo de 15 dias a contar da decisão, para apresentar as razões pelas quais (a) assinou e validou o termo de
+  credenciamento e (b) como presidente do Comitê, não incluiu o credenciamento na pauta. O mesmo voto registra
+  que a abertura efetiva da conta e as aplicações em letras financeiras do banco (R$ 59 milhões, segundo o voto)
+  ocorreram na gestão seguinte, de Fernanda Pereira da Silva Machado, nomeada em 12/06/2024. A notificação pede
+  esclarecimentos; não é julgamento de mérito. Não é réu, denunciado nem indiciado.
 why_in_novelo: Assinou o termo que atestou a aptidão do Banco Master para receber recursos previdenciários
   em Itaguaí, documento que o tribunal de contas concluiu ter sido preenchido pelo próprio banco.
 cited_position:
 - kind: not_located
-  summary: Nenhuma manifestação pública dele, ou de defesa constituída, foi localizada pela equipe. Os
-    notificados pelo tribunal têm prazo para defesa.
+  date: '2026-10-16'
+  summary: Busca em 16/10/2026 (WebSearch com o nome e Itaprevi, TCE-RJ e defesa; leitura do voto do Acórdão
+    26.458/2026 e de Jornal Atual e Manchete Online, de 06 e 07/08/2026) não localizou manifestação dele ou de
+    defesa constituída; os veículos locais não o nomeiam. A defesa em resposta à notificação do TCE-RJ, se
+    existir, está nos autos 206.599-7/26, que exigem sessão e não foram consultados.
   source_ids:
   - src-tcerj-voto-acordao-26458-2026
 open_questions:
-- O corpus não registra defesa dele quanto aos achados do tribunal.
+- O voto grafa a data do termo como 16/01/2023 nos itens da notificação; o documento do Itaprevi é de 16/01/2024
+  (doc-2024-01-16-termo-credenciamento-001-itaprevi). Erro material do tribunal; o Novelo usa 2024.
+- Consultar os autos 206.599-7/26 (prazo de 15 dias contado da decisão) para eventual juntada de razões de defesa.
 - Não se apurou por que os dois campos de assinatura, reservados a funções distintas, foram firmados pela
   mesma pessoa.
 source_ids:
@@ -31,6 +42,6 @@ source_ids:
 - src-tcerj-voto-acordao-26458-2026
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-05'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-05'
-updated_at: '2026-09-05'
+updated_at: '2026-10-16'

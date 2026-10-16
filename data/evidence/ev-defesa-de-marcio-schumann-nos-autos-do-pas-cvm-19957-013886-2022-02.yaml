@@ -1,0 +1,23 @@
+id: ev-defesa-de-marcio-schumann-nos-autos-do-pas-cvm-19957-013886-2022-02
+kind: evidence
+classification: D
+proposition: Segundo o Relatório da Diretora Marina Copola no PAS CVM 19957.013886/2022-02 (§§ 78 a 86), a
+  defesa conjunta de Marcio Coutinho Schumann e do irmão sustentou que a acusação partia de premissas fáticas
+  equivocadas, que a prática não equitativa estaria sendo usada como substituto de insider trading sem
+  tipificação para fundo imobiliário, que, ainda que ele fosse considerado insider secundário, não haveria
+  evidência de ciência prévia, e que ele agiu apenas como investidor pessoa física, atraído por notícias
+  positivas sobre o fundo. O voto (§ 66) avalia como frágeis as justificativas econômicas apresentadas e
+  reconhece que não há nos autos provas diretas de que ele tenha tido acesso às informações do irmão.
+document_ids:
+  - doc-2025-11-25-voto-cvm-pas-cortel-schumann
+source_ids:
+  - src-cvm-pas-19957-013886-2022-02-voto-cortel-schumann
+  - src-cvm-2025-11-24-pas-19957-013886-2022-02-relatorio-da-diretora-marina-copola
+locator: Relatório §§ 78–86; Voto § 66
+date: 2025-11-24
+notes: A classe D demonstra o que o relatório e o voto dizem da defesa, não a veracidade dos argumentos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-16
+created_at: 2026-10-16
+updated_at: 2026-10-16

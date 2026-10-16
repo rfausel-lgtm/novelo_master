@@ -9,8 +9,11 @@ positions:
   source_ids:
   - src-correiobraziliense-2026-02-12-tcu-conclui-inspecao
 summary: Relator, no TCU, do processo de inspeção no Banco Central sobre a liquidação do Banco Master.
-  Recebeu o relatório final em fevereiro de 2026 e, em seguida, ampliou o sigilo do processo, retirando
-  o acesso automático do próprio BC aos autos. Segundo cópia de despacho de 24/03/2026 hospedada pelo
+  Recebeu o relatório final em fevereiro de 2026 e, em seguida, segundo o Correio Braziliense, citando
+  interlocutores da Corte, ampliou o sigilo do processo, retirando o acesso automático do próprio BC aos autos;
+  o Diário do Nordeste (11/02/2026) descreve a mudança como exigência de autorização específica para acesso, com
+  acesso do BC mediante pedido formal ao gabinete, e diz que o relator recuou em parte e suspendeu a inspeção até
+  decisão do plenário. Segundo cópia de despacho de 24/03/2026 hospedada pelo
   Poder360 (autenticidade não conferida), é o relator do TC 022.950/2025-7, representação do MPTCU sobre a
   atuação do BC na supervisão e na resolução do Master, e sobrestou esse processo, inclusive a apreciação do
   relatório de inspeção, até elementos oficiais da sindicância do BC, do PAD da CGU e das apurações no STF; em 13/10/2026 o
@@ -18,14 +21,42 @@ summary: Relator, no TCU, do processo de inspeção no Banco Central sobre a liq
 why_in_novelo: Conduz, como relator no TCU, a fiscalização sobre como o Banco Central decidiu liquidar
   o Banco Master.
 cited_position:
+- kind: version
+  date: '2025-12-18'
+  summary: Ato do relator, não entrevista. Segundo o Estadão Conteúdo (Jornal de Brasília, 19/12/2025), em despacho de
+    18/12/2025 deu 72 horas ao Banco Central para justificar a liquidação e apontou precipitação na adoção da
+    medida, indícios de cronologia atípica e demora na condução de alternativas (citou proposta do Grupo Fictor); a
+    matéria registra que o BC não emitiu nota e que interlocutores falaram ao Broadcast que o BC estaria munido de
+    documentos.
+  source_ids:
+  - src-jornaldebrasilia-2025-12-19-ministro-do-tcu-ve-precipitacao-na-liquidacao-do-master-bc-diz-estar-munido-com-documentos
+- kind: version
+  date: '2026-02-11'
+  summary: 'Ato do relator. Sigilo: trocou a classificação de "sigiloso" para "sigiloso com exigência de autorização
+    específica para acesso", segundo o Diário do Nordeste; nenhuma justificativa dele foi atribuída pelas matérias.'
+  source_ids:
+  - src-diariodonordeste-2026-02-11-tcu-restringe-acesso-a-documentos-do-caso-banco-master-e-acirra-tensao-com-banco-central
+- kind: version
+  date: '2026-03-24'
+  summary: 'Ato do relator. Despacho no TC 022.950/2025-7: não pautará a análise até receber informações das apurações
+    do BC, da CGU e do STF e pediu à área técnica a reavaliação do nível de sigilo (eventual levantamento total ou
+    parcial). Ver lote 353 para o conteúdo da cópia.'
+  source_ids:
+  - src-poder360-2026-03-24-tcu-congela-processo-sobre-o-master-e-avalia-retirar-sigilo-do-caso
+  - src-tcu-2026-03-24-despacho-tc-022-950-2025-7-gabinete-jhonatan-de-jesus
 - kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+  date: '2026-10-16'
+  summary: Nenhuma nota de gabinete, entrevista ou decisão nova em set–out/2026 (WebSearch com o nome e Banco Master,
+    liquidação e sigilo); o portal de processos do TCU e o canal do TCU não foram consultados.
 open_questions:
 - A autenticidade da cópia do despacho de 24/03/2026 no TC 022.950/2025-7 (código 79923336) não foi conferida no portal do TCU; os autos tramitam sob sigilo.
 source_ids:
 - src-correiobraziliense-2026-02-12-tcu-conclui-inspecao
 - src-tcu-2026-03-24-despacho-tc-022-950-2025-7-gabinete-jhonatan-de-jesus
 - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+- src-jornaldebrasilia-2025-12-19-ministro-do-tcu-ve-precipitacao-na-liquidacao-do-master-bc-diz-estar-munido-com-documentos
+- src-diariodonordeste-2026-02-11-tcu-restringe-acesso-a-documentos-do-caso-banco-master-e-acirra-tensao-com-banco-central
+- src-poder360-2026-03-24-tcu-congela-processo-sobre-o-master-e-avalia-retirar-sigilo-do-caso
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-10-16'

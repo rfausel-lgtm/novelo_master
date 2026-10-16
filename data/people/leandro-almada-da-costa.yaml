@@ -3,8 +3,13 @@ kind: person
 name: Leandro Almada da Costa
 category: police
 role: Diretor de Inteligência Policial da PF, afastado junto com Andrei Rodrigues
-positions: []
-summary: Diretor de Inteligência Policial da Polícia Federal, afastado cautelarmente por 90 dias na mesma
+positions:
+- title: Diretor de Inteligência Policial
+  organization: Polícia Federal
+  source_ids:
+  - src-metropoles-2026-09-08-afastamento-90-dias
+summary: Diretor de Inteligência Policial da Polícia Federal, afastado cautelarmente — por 90 dias, segundo o
+  Metrópoles; Poder360 e Estadão falam em afastamento preventivo sem confirmar o prazo — na mesma
   decisão de André Mendonça de 08/09/2026 que afastou o diretor-geral Andrei Rodrigues — sob a alegação
   de monitoramento ilícito do próprio ministro por meio de relatórios de inteligência produzidos entre
   03 e 31/08/2026. Segundo a Agência Brasil (classe A; documento não localizado), a PGR enviou ao STF, na noite
@@ -12,10 +17,25 @@ summary: Diretor de Inteligência Policial da Polícia Federal, afastado cautela
 why_in_novelo: É o segundo nome afastado, junto com o diretor-geral, na decisão de Mendonça que produziu
   nova escalada da crise institucional no STF.
 cited_position:
+- kind: no_response
+  date: '2026-09-08'
+  summary: O Estadão pediu manifestação do delegado, com o espaço aberto, sem resposta até a publicação (Diário do
+    Grande ABC, crédito Estadão).
+  source_ids:
+  - src-dgabc-2026-09-08-mendonca-afasta-diretor-geral-da-pf-e-chefe-da-inteligencia-da-corporacao
+- kind: public_note
+  by_id: associacao-nacional-delegados-pf
+  date: '2026-09-08'
+  summary: Nota de terceiro, não dele. Registrou não haver inquérito, ação penal ou processo disciplinar instaurado
+    contra os dois dirigentes afastados, entre eles ele.
+  source_ids:
+  - src-agenciabrasil-2026-09-08-delegados-criticam-afastamento-monocratico
 - kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+  date: '2026-10-16'
+  summary: Nenhuma nota, entrevista ou informação prestada por ele ao STF localizada em set–out/2026 (WebSearch sobre
+    Leandro Almada, diretor de inteligência da PF, afastamento, Mendonça, nota e manifestação, com variações);
+    STF/PET 16.669 e 16.704, comunicação da PF e perfis oficiais não consultados.
 - kind: not_located
-  by_id: leandro-almada-da-costa
   date: '2026-10-16'
   summary: >-
     Nenhuma manifestação pessoal sobre o parecer da PGR de 13/10/2026 noticiado pela Agência Brasil localizada
@@ -25,12 +45,10 @@ cited_position:
 open_questions:
 - Reintegrado em 09/09/2026 por decisão de Flávio Dino (Pet 16.669), junto com Andrei Rodrigues, pelos
   mesmos fundamentos — desfecho final não confirmado até a data desta apuração.
-- A suspensao determinada pela Presidencia em 09/09/2026 alcanca o ato que o afastou, mas o comando de
-  intimacao para prestar informacoes em 48 horas, e a subsequente apreciacao de permanencia reservada
-  ao presidente do tribunal, referem-se expressamente apenas a Direcao-Geral. Esclarecer sua situacao
+- A suspensão determinada pela Presidência em 09/09/2026 alcança o ato que o afastou, mas o comando de
+  intimação para prestar informações em 48 horas, e a subsequente apreciação de permanência reservada
+  ao presidente do tribunal, referem-se expressamente apenas à Direção-Geral. Esclarecer sua situação
   funcional efetiva.
-- A associacao nacional dos delegados da Policia Federal registrou, em nota de 08/09/2026, nao haver inquerito,
-  acao penal ou processo disciplinar instaurado contra ele.
 source_ids:
 - src-metropoles-2026-09-08-afastamento-90-dias
 - src-migalhas-2026-09-09-dino-reintegra-andrei-pf
@@ -40,6 +58,7 @@ source_ids:
 - src-agenciabrasil-2026-09-08-delegados-criticam-afastamento-monocratico
 - src-stf-2026-09-09-nota-a-imprensa-46-convocacao-sessao
 - src-agenciabrasil-2026-10-14-pgr-se-manifesta-contra-afastamento-de-diretor-geral-da-pf
+- src-dgabc-2026-09-08-mendonca-afasta-diretor-geral-da-pf-e-chefe-da-inteligencia-da-corporacao
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-10-16'

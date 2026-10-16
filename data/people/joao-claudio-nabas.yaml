@@ -13,13 +13,46 @@ summary: 'Perito Criminal Federal que atuava em apoio às análises da Operaçã
   o arquivo foi excluído do OneDrive institucional horas antes de uma reportagem de março de 2026 sobre
   conversas entre Vorcaro e o ministro Alexandre de Moraes. Em 18/05/2026, Mendonça, com anuência da PGR,
   suspendeu-o da função, autorizou busca e apreensão e afastou o sigilo telemático de sua conta.'
-why_in_novelo: É o suspeito formalmente identificado pela PF e pelo STF como fonte do vazamento à imprensa de
-  material sigiloso do celular de Daniel Vorcaro, incluindo o material que deu origem à cobertura sobre o
-  contrato de Viviane Barci de Moraes com o Master e, possivelmente, às conversas entre Vorcaro e o ministro
-  Alexandre de Moraes.
+why_in_novelo: Apontado pela PF, em representação ao STF, como suspeito de ter fornecido a uma jornalista material
+  extraído do celular de Daniel Vorcaro; em 18/05/2026 o ministro André Mendonça, com anuência da PGR, o suspendeu
+  da função e autorizou medidas de busca com base nessa representação. A defesa contesta a autenticidade de um
+  dos arquivos.
 cited_position:
+- kind: no_response
+  date: '2026-05-19'
+  summary: Segundo a matéria do Estadão republicada pelo Jornal de Brasília em 19/05/2026 (data da matéria; a
+    data do contato não é informada), o Estadão procurou a defesa do perito e não houve resposta.
+  source_ids:
+  - src-jornaldebrasilia-2026-05-19-perito-suspeito-de-vazar-contrato-de-mulher-de-moraes-e-alvo-da-pf
+- kind: no_response
+  date: '2026-07-03'
+  summary: Em 03/07/2026 a reportagem (Estadão, republicada pela Gazeta do Povo) registrava que buscava contato com
+    a defesa e que o espaço seguia aberto.
+  source_ids:
+  - src-gazetadopovo-2026-07-03-agente-da-pf-produziu-provas-contra-moraes-e-toffoli-que-vazaram-a-imprensa-diz-investigacao
+- kind: version
+  date: '2026-07-02'
+  summary: 'Posição nos autos. Em 02/07/2026, sua defesa (Bunazar Advogados) pediu perícia de informática e
+    documentoscopia para contestar a autenticidade do arquivo "Moraes.pdf"
+    (ev-nabas-contesta-autenticidade-do-moraes-pdf-e-caso-vai-a-corregedoria). Entre junho e agosto de 2026, a
+    defesa disputou o acesso a novas juntadas e pediu adiamento da oitiva, remarcada para 27/08/2026
+    (ev-defesa-nabas-tenta-adiar-oitiva-alegando-falta-de-acesso). Resultado da perícia e conteúdo da oitiva:
+    não localizados.'
+  source_ids:
+  - src-stf-pet15625-despachos-julho-agosto-2026
+- kind: public_note
+  by: Associação Nacional dos Peritos Criminais Federais (APCF) — nota de associação de classe, não do perito nem
+    de seus advogados
+  date: '2026-05-19'
+  summary: Disse prestar assistência ao perito para garantir a ampla defesa e o contraditório e pediu que se evitem
+    conclusões precipitadas antes da elucidação dos fatos.
+  source_ids:
+  - src-jornaldebrasilia-2026-05-19-perito-suspeito-de-vazar-contrato-de-mulher-de-moraes-e-alvo-da-pf
 - kind: not_located
-  summary: Nenhuma manifestação pública dele localizada no corpus até a data desta apuração.
+  date: '2026-10-16'
+  summary: Nenhuma nota ou entrevista dele ou de seus advogados em set–out/2026 (WebSearch com o nome e defesa, nota,
+    APCF e Corregedoria; leitura de Painel Político e Revista Fórum, de 15 e 16/09, e do Jornal do Advogado, de
+    17/09, que repetem o depoimento da delegada e não trazem fala dele); sites da banca e da APCF não consultados.
 open_questions:
 - 'A ligação entre o "Moraes.pdf" (confirmado pela PF como fonte provável da reportagem de 09/12/2025) e as
   reportagens de março de 2026 sobre as conversas Vorcaro-Moraes é apontada pela PF como hipótese reforçada
@@ -41,8 +74,10 @@ source_ids:
 - src-stf-pet15625-emails-agosto-2026-acesso-e-oitiva-nabas
 - src-stf-pet15625-despachos-julho-agosto-2026
 - src-stf-pet15625-representacao-e-decisao-joao-claudio-nabas
+- src-jornaldebrasilia-2026-05-19-perito-suspeito-de-vazar-contrato-de-mulher-de-moraes-e-alvo-da-pf
+- src-gazetadopovo-2026-07-03-agente-da-pf-produziu-provas-contra-moraes-e-toffoli-que-vazaram-a-imprensa-diz-investigacao
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-13'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-13'
-updated_at: '2026-09-13'
+updated_at: '2026-10-16'

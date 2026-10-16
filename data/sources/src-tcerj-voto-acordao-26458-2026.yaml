@@ -15,8 +15,11 @@ verification:
   checked_by: orquestrador (captura local + leitura integral)
   url_reachable: true
   content_matches_summary: true
+notes: 'A data de publicação registrada (06/08/2026) é a da hospedagem do PDF pelo O Bastidor; a assinatura
+  digital do voto no próprio arquivo é de 03/08/2026 (processo 206599-7/2026, conferida em 16/10/2026, lote 356).
+  O documento e os registros que dependem dele usam 03/08/2026; os ids com "2026-08-06" foram mantidos.'
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-04'
+reviewed_at: '2026-10-16'
 created_at: '2026-09-04'
-updated_at: '2026-09-04'
+updated_at: '2026-10-16'
