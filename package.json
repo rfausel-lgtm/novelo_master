@@ -27,7 +27,12 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:e2e": "playwright test",
-    "check": "npm run typecheck && npm run lint && npm run data:validate && npm run test"
+    "check": "npm run typecheck && npm run lint && npm run data:validate && npm run test",
+    "lote:fonte": "node scripts/lote/fonte.mjs",
+    "lote:aspas": "node scripts/lote/aspas.mjs",
+    "lote:check": "node scripts/lote/lote.mjs",
+    "lote:achar": "node scripts/lote/achar.mjs",
+    "lote:novo": "node scripts/lote/novo.mjs"
   },
   "dependencies": {
     "graphology": "^0.26.0",

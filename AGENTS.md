@@ -8,6 +8,12 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 <!-- END:nextjs-agent-rules -->
 
+# Lotes produzidos por equipe de agentes
+
+Lote feito por agentes (investigador, chefe, redator, editor-master) segue [docs/PIPELINE_DE_LOTES.md](docs/PIPELINE_DE_LOTES.md):
+conferência mecânica por script (`npm run lote:check`, `lote:aspas`, `lote:fonte`, `lote:achar`, `lote:novo`),
+modelo por risco e os portões editoriais invariáveis. Esse documento também define a rotina diária de dois lotes.
+
 # Publicação de lote: a cadeia de gatilhos
 
 Publicar um lote não termina no `git push`. Quem publica aciona o elo seguinte na mesma sessão —

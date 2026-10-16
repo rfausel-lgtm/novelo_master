@@ -89,3 +89,6 @@ Thumbs.db
 # sessão local
 /.claude/
 /.codex/
+
+# Cache de fontes das ferramentas de lote (scripts/lote/fonte.mjs): texto literal, não versionado
+/processed/fontes-cache/
