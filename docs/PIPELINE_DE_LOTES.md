@@ -113,6 +113,13 @@ bloqueia a integração; alerta é para o editor julgar. Páginas bloqueadas (ca
 - **Eleições:** até o 2º turno (25/10/2026), nenhum lote novo sobre alegação contra candidato em disputa
   (Flávio Bolsonaro, Lula, Celina Leão, Leandro Grass) sem OK explícito do responsável editorial. Resultado
   eleitoral só com o número do TSE e a mesma formulação para todos.
+- **Imprensa (decisão de 17/10/2026, Rafael Fausel):** jornalistas, veículos e executivos de mídia podem ser
+  registrados como pessoas e organizações do acervo, desde que haja documento ou fonte independente, e sempre
+  com a versão do citado (contraditório) com igual destaque. Patrocínio e publicidade contratados não são
+  irregularidade por si. Print divulgado por influenciador ou conta partidária não é fonte independente: vale só
+  como alegação atribuída, e o que o próprio citado confirma entra como posição dele.
+- **Radar obrigatório:** "sem lote hoje" só vale depois de um radar executado (inclusive fins de semana); a FILA
+  pode estar defasada, então conferir `git log` e `data/revisions/`.
 - **Histórico do git:** nunca reescrever nem fazer force-push sem decisão explícita do responsável editorial.
 
 ## 7. Rotina diária (dois lotes por dia)
