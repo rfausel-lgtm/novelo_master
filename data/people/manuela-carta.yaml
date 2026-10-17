@@ -1,0 +1,36 @@
+id: manuela-carta
+kind: person
+name: Manuela Carta
+category: executive
+role: Publisher de CartaCapital
+positions:
+  - title: Publisher
+    organization_id: cartacapital
+    source_ids:
+      - src-cartacapital-2026-10-15-nota-de-esclarecimento-sobre-reportagem-do-uol
+summary: Publisher de CartaCapital. Segundo o UOL (15/10/2026), com base em mensagens extraídas pela PF do
+  celular de Daniel Vorcaro, ela tratou com o banqueiro de recursos para a revista em 2021, de uma possível
+  entrada dele como sócio em 2023 (não concretizada) e de um adiantamento de publicidade em 2024. Em nota, diz
+  que o contrato com o Master foi de publicidade regular e que Vorcaro nunca pediu notícias positivas.
+why_in_novelo: Publisher de CartaCapital citada pelo UOL, com base em mensagens de Daniel Vorcaro, sobre
+  contrato de publicidade do Banco Master com a revista.
+cited_position:
+  - kind: clarification
+    by_id: manuela-carta
+    date: 2026-10-15
+    summary: 'Em nota: "contrato regular de veiculação de anúncio, conforme as regras do mercado publicitário"
+      (2021 a 2023); o grupo voltou a anunciar por meio da Kovr e do Will; "Daniel Vorcaro nunca me procurou
+      para pedir a publicação de notícias positivas ou interferir em qualquer tipo de conteúdo jornalístico";
+      diz que isso seria um erro, dada a separação entre a área comercial e a redação.'
+    source_ids:
+      - src-cartacapital-2026-10-15-nota-de-esclarecimento-sobre-reportagem-do-uol
+source_ids:
+  - src-cartacapital-2026-10-15-nota-de-esclarecimento-sobre-reportagem-do-uol
+  - src-uol-2026-10-15-brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites
+tags:
+  - imprensa
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

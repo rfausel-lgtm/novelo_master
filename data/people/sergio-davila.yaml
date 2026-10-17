@@ -1,0 +1,40 @@
+id: sergio-davila
+kind: person
+name: Sérgio Dávila
+category: journalist
+role: Diretor de Redação da Folha de S.Paulo
+positions:
+  - title: Diretor de Redação
+    organization_id: folha-de-s-paulo
+    source_ids:
+      - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+summary: Diretor de Redação da Folha de S.Paulo. O Metrópoles (16/10/2026) afirmou, com base em mensagens de
+  Guilherme Barros a Daniel Vorcaro, que ele atendeu a pedidos do banqueiro e que o jornal segurou e
+  amenizou um perfil de Vorcaro publicado em 30/08/2024; a Folha, em resposta às perguntas enviadas a ele, nega que a reportagem tenha sido
+  segurada ou amenizada e diz que ele só soube do valor oferecido a Barros pelas mensagens vazadas. As duas
+  versões são registradas como disputa entre veículos.
+why_in_novelo: Diretor de Redação citado pelo Metrópoles, em disputa com a Folha, sobre a reportagem de agosto
+  de 2024 a respeito de Daniel Vorcaro.
+cited_position:
+  - kind: denial
+    by_id: folha-de-s-paulo
+    by: Folha de S.Paulo (respostas às perguntas enviadas ao diretor de Redação)
+    date: 2026-10-16
+    summary: 'A Folha diz que a reportagem não foi segurada nem amenizada, que o café na sede foi pedido por
+      Guilherme Barros para Vorcaro dar sua versão e que Dávila não sabia do valor oferecido a Barros: "Não,
+      apenas depois de ler as mensagens vazadas nos últimos dias".'
+    source_ids:
+      - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+      - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+open_questions:
+  - Não foi localizada manifestação pessoal dele além das respostas publicadas pela Folha.
+source_ids:
+  - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+  - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+tags:
+  - imprensa
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

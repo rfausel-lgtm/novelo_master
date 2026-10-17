@@ -1,0 +1,21 @@
+id: ev-folha-responde-ao-metropoles-sobre-a-reportagem-de-2024
+kind: evidence
+classification: A
+proposition: A Folha de S.Paulo afirmou em 16/10/2026 que a reportagem de agosto de 2024 sobre Daniel Vorcaro
+  não foi adiada nem amenizada, que o pedido de Vorcaro foi de prazo para ser ouvido, que a visita à sede foi
+  pedida por Guilherme Barros para o banqueiro dar sua versão, que "não havia outra versão, apenas a que foi
+  publicada", que a atualização posterior incluiu a prisão de Vorcaro, com aviso ao leitor, e que Sérgio
+  Dávila só soube do valor oferecido a Barros pelas mensagens vazadas; chamou a reportagem do Metrópoles de
+  retaliação à do UOL. Perguntada sobre publicidade, informou que recebeu R$ 516.441,60 em anúncios veiculados
+  no jornal de 2021 a 2025, segundo seu departamento comercial, que diz não responder à direção de Redação.
+source_ids:
+  - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+  - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+attributed_to_id: folha-de-s-paulo
+attributed_to: Folha de S.Paulo (resposta publicada pelo jornal e reproduzida pelo Metrópoles)
+date: 2026-10-16
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

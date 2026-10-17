@@ -1,0 +1,32 @@
+id: guilherme-barros
+kind: person
+name: Guilherme Barros
+category: other
+role: Assessor de imprensa e consultor do Banco Master até 2025, segundo nota dele
+summary: Consultor de comunicação. Em nota ao Metrópoles (16/10/2026), diz que prestou serviços de assessoria
+  de imprensa ao Banco Master até 2025. Segundo o UOL (15/10/2026), levou Lilian Tahan a um café com Daniel
+  Vorcaro em maio de 2024. Segundo o Metrópoles, mensagens dele com Vorcaro tratam de um perfil do banqueiro
+  na Folha (agosto de 2024) e de um valor prometido por Vorcaro; a Folha diz que o pedido de visita feito por
+  ele serviu para Vorcaro dar sua versão. Não há acusação formal contra ele.
+why_in_novelo: Assessor de imprensa do Banco Master até 2025, segundo nota dele, citado em mensagens de Daniel
+  Vorcaro publicadas pelo UOL e pelo Metrópoles.
+cited_position:
+  - kind: version
+    by_id: guilherme-barros
+    date: 2026-10-16
+    summary: 'Em nota ao Metrópoles: "prestou serviços de assessoria de imprensa ao Banco Master até 2025, quando
+      encerrou o contrato com a instituição"; diz que agiu com transparência e ética e que "A matéria foi
+      publicada em 30 de agosto de 2024 com absoluta independência editorial do jornal".'
+    source_ids:
+      - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+source_ids:
+  - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+  - src-uol-2026-10-15-vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar
+  - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+tags:
+  - imprensa
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

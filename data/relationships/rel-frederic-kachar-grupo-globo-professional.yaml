@@ -1,0 +1,29 @@
+id: rel-frederic-kachar-grupo-globo-professional
+kind: relationship
+from_id: frederic-kachar
+to_id: grupo-globo
+relationship_type: professional
+directed: true
+label: diretor-geral de Mídia Impressa e Rádio (desligado em 15/10/2026)
+end_date: 2026-10-15
+description: Segundo a nota do Grupo Globo de 15/10/2026, Kachar trabalhou 29 anos no grupo, dirigiu a Editora
+  Globo desde 2008, a Infoglobo desde 2015 e o Sistema Globo de Rádio desde 2020, e foi desligado em
+  15/10/2026. O desligamento também foi noticiado pelo UOL e pela Gazeta do Povo no mesmo dia.
+evidence_class: C
+confidence: 0.85
+status: verified
+event_ids:
+  - evt-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+evidence_ids:
+  - ev-nota-do-grupo-globo-sobre-o-desligamento-de-frederic-kachar
+source_ids:
+  - src-g1-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+  - src-uol-2026-10-15-grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro
+  - src-gazetadopovo-2026-10-15-como-diretor-demitido-da-globo-tratou-de-reportagens-com-vorcaro
+document_ids:
+  - doc-2026-10-15-nota-do-grupo-globo-sobre-o-desligamento-de-frederic-kachar
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

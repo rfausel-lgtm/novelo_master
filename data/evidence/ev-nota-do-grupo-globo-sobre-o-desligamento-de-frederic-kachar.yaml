@@ -1,0 +1,22 @@
+id: ev-nota-do-grupo-globo-sobre-o-desligamento-de-frederic-kachar
+kind: evidence
+classification: C
+proposition: Em 15/10/2026 o Grupo Globo comunicou o desligamento de Frederic Kachar da direção-geral de Mídia
+  Impressa e Rádio e afirmou que as conversas privadas dele com Daniel Vorcaro, às quais teve acesso em 14/10,
+  revelam relação inadequada do executivo com um anunciante.
+document_ids:
+  - doc-2026-10-15-nota-do-grupo-globo-sobre-o-desligamento-de-frederic-kachar
+source_ids:
+  - src-g1-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+  - src-uol-2026-10-15-grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro
+  - src-gazetadopovo-2026-10-15-como-diretor-demitido-da-globo-tratou-de-reportagens-com-vorcaro
+excerpt: revela uma relação inadequada do executivo com um anunciante
+date: 2026-10-15
+notes: Classe C, não D. A nota é pública e da própria empresa (não é documento oficial; `is_official` falso);
+  o desligamento é corroborado por reportagens independentes do UOL e da Gazeta do Povo. A nota demonstra o
+  que a empresa comunicou, não o conteúdo das conversas. Não nomeia o anunciante.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

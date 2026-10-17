@@ -1,0 +1,41 @@
+id: grupo-globo
+kind: organization
+name: Grupo Globo
+aliases:
+  - Editora Globo
+org_type: media
+jurisdiction: Rio de Janeiro
+summary: Grupo de comunicação presidido por João Roberto Marinho. Segundo nota de 15/10/2026, a Editora Globo
+  reúne O Globo, Extra e Valor, as publicações das Edições Globo Condé Nast e a Globo Livros, e a
+  direção-geral de Mídia Impressa e Rádio responde também pelo Sistema Globo de Rádio. Em 15/10/2026 comunicou
+  o desligamento do diretor-geral Frederic Kachar, depois de ter acesso, segundo a nota, a conversas dele com
+  Daniel Vorcaro que revelariam relação inadequada com um anunciante. Segundo o UOL (15/10/2026), com base em
+  mensagens extraídas pela PF, o Master patrocinou o Baile da Vogue de 2024 e o camarote da editora no
+  Carnaval de 2023; segundo o Terra, foi um dos principais patrocinadores do Summit Valor Econômico
+  Brazil-USA. Patrocínio e publicidade contratados não são irregularidade por si.
+why_in_novelo: Empresa que, em nota de 15/10/2026, comunicou o desligamento de um diretor-geral por conversas
+  com Daniel Vorcaro.
+cited_position:
+  - kind: public_note
+    by_id: grupo-globo
+    date: 2026-10-15
+    summary: Em nota, a empresa diz que o conteúdo das conversas "revela uma relação inadequada do executivo com
+      um anunciante", reafirma "a absoluta independência editorial do jornalismo de seus veículos" e cita a
+      cobertura do caso Master como demonstração desse compromisso.
+    source_ids:
+      - src-g1-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+open_questions:
+  - A nota não nomeia o anunciante nem descreve o conteúdo das conversas; o Novelo não localizou documento
+    oficial com as mensagens.
+  - Os valores de patrocínio vêm de tabela citada pelo UOL nas mensagens; não há contrato publicado.
+source_ids:
+  - src-g1-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+  - src-uol-2026-10-15-grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro
+  - src-terra-2026-10-15-grupo-globo-demite-diretor-geral-fred-kachar-apos-vazamento-de-conversas-com-vorcaro
+tags:
+  - imprensa
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

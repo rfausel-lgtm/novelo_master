@@ -1,0 +1,36 @@
+id: cartacapital
+kind: organization
+name: CartaCapital
+org_type: media
+summary: Revista semanal cuja publisher é Manuela Carta. Segundo o UOL (15/10/2026), com base em mensagens
+  extraídas pela PF do celular de Daniel Vorcaro, a revista fechou em 2021 contrato de patrocínio de cinco
+  anos com o Banco Máxima, depois Master, recebeu adiantamento de R$ 300 mil em dezembro de 2020 e discutiu em
+  2023 a possível entrada de Vorcaro como sócio, que não se concretizou. Em nota, a publisher diz que se
+  tratou de contrato regular de publicidade (2021 a 2023), que o grupo voltou a anunciar por meio da Kovr e do
+  Will e que Vorcaro nunca pediu notícias positivas. Publicidade contratada não é irregularidade por si.
+why_in_novelo: Revista citada pelo UOL, com base em mensagens de Daniel Vorcaro, como destinatária de contrato
+  de publicidade do Banco Master.
+cited_position:
+  - kind: clarification
+    by_id: manuela-carta
+    date: 2026-10-15
+    summary: 'Nota da publisher: o Master fechou contrato de publicidade em 2021 e anunciou até 2023, num
+      "contrato regular de veiculação de anúncio, conforme as regras do mercado publicitário"; "Daniel Vorcaro
+      nunca me procurou para pedir a publicação de notícias positivas ou interferir em qualquer tipo de
+      conteúdo jornalístico".'
+    source_ids:
+      - src-cartacapital-2026-10-15-nota-de-esclarecimento-sobre-reportagem-do-uol
+      - src-uol-2026-10-15-brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites
+open_questions:
+  - A razão social da editora não foi conferida em fonte aberta pela equipe.
+  - O contrato não foi publicado; os valores vêm das mensagens citadas pelo UOL.
+source_ids:
+  - src-cartacapital-2026-10-15-nota-de-esclarecimento-sobre-reportagem-do-uol
+  - src-uol-2026-10-15-brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites
+tags:
+  - imprensa
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

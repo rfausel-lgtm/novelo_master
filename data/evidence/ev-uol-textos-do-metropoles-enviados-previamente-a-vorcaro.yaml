@@ -1,0 +1,19 @@
+id: ev-uol-textos-do-metropoles-enviados-previamente-a-vorcaro
+kind: evidence
+classification: A
+proposition: Segundo levantamento do UOL (15/10/2026) em mensagens extraídas pela PF do celular de Daniel
+  Vorcaro, ao menos 14 textos do Metrópoles foram enviados previamente a ele, 11 foram alterados após pedidos
+  dele e duas reportagens foram publicadas a pedido dele, entre 2024 e 17/11/2025, numa interlocução direta
+  com a CEO Lilian Tahan; depois de reclamação dele sobre uma informação publicada, em 02/04/2025, ela
+  respondeu "Tiramos".
+source_ids:
+  - src-uol-2026-10-15-vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar
+attributed_to: UOL (Renata Agostini e Tiago Dantas)
+date: 2026-10-15
+notes: A contagem é do UOL. Mensagem no aparelho não prova o que diz. Pedidos sobre a cobertura de um
+  pré-candidato e de um diretor do Banco Central, descritos pelo UOL, não são registrados neste lote.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

@@ -1,0 +1,29 @@
+id: rel-banco-master-cartacapital-commercial
+kind: relationship
+from_id: banco-master
+to_id: cartacapital
+relationship_type: commercial
+directed: true
+label: contrato de publicidade (2021 a 2023, segundo a revista)
+start_date: "2021"
+end_date: "2023"
+description: Segundo nota de Manuela Carta (15/10/2026), o Master fechou contrato de publicidade com a editora
+  em 2021 e anunciou até 2023, e o grupo voltou a anunciar por meio da Kovr e do Will. Segundo o UOL, o
+  contrato era de patrocínio de cinco anos, com adiantamento de R$ 300 mil em dezembro de 2020. Publicidade
+  contratada não é irregularidade por si.
+evidence_class: A
+confidence: 0.6
+status: unverified
+event_ids:
+  - evt-2026-10-15-uol-publica-mensagens-sobre-patrocinios-de-vorcaro-a-sites-e-revistas
+evidence_ids:
+  - ev-manuela-carta-nota-sobre-a-reportagem-do-uol
+  - ev-uol-patrocinio-e-adiantamentos-do-master-a-cartacapital
+source_ids:
+  - src-cartacapital-2026-10-15-nota-de-esclarecimento-sobre-reportagem-do-uol
+  - src-uol-2026-10-15-brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

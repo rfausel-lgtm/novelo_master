@@ -1,0 +1,56 @@
+id: evt-2026-10-16-metropoles-publica-mensagens-sobre-reportagem-da-folha-e-folha-responde
+kind: event
+title: Metrópoles publica mensagens sobre reportagem da Folha de 2024; Folha responde
+event_type: publication
+date: 2026-10-16
+date_precision: day
+participant_ids:
+  - metropoles
+  - folha-de-s-paulo
+  - sergio-davila
+  - guilherme-barros
+  - daniel-vorcaro
+description: "Disputa entre veículos, registrada com as duas versões. Em 16/10/2026 o Metrópoles publicou
+  mensagens que diz ter obtido entre Daniel Vorcaro e Guilherme Barros e afirmou que a Folha segurou e
+  amenizou um perfil do banqueiro publicado em 30/08/2024: segundo o portal, Vorcaro prometeu a Barros um
+  prêmio de R$ 1 milhão se a reportagem fosse segurada, Barros escreveu em 08/08 que o diretor de Redação
+  Sérgio Dávila havia respondido, houve encontro na sede do jornal em 12/08 e trechos favoráveis foram depois
+  retirados. No mesmo dia a Folha respondeu que a reportagem não foi segurada nem amenizada, que Vorcaro pediu
+  prazo para ser ouvido, que a visita foi pedida por Barros para o banqueiro dar sua versão, que a atualização
+  posterior incluiu a prisão de Vorcaro e que Dávila só soube do valor oferecido a Barros pelas mensagens
+  vazadas; chamou a reportagem de retaliação à do UOL sobre o Metrópoles e informou ter recebido R$
+  516.441,60 em anúncios veiculados de 2021 a 2025, segundo seu departamento comercial. Barros diz que a matéria saiu com
+  independência editorial. O Novelo não comparou as versões da reportagem de 2024 e não afirma qual relato
+  está correto."
+evidence_class: A
+status: disputed
+evidence_ids:
+  - ev-metropoles-mensagens-de-barros-sobre-reportagem-da-folha
+  - ev-folha-responde-ao-metropoles-sobre-a-reportagem-de-2024
+  - ev-guilherme-barros-nota-ao-metropoles
+source_ids:
+  - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+  - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+cited_position:
+  - kind: denial
+    by_id: folha-de-s-paulo
+    date: 2026-10-16
+    summary: '"Os anseios de Vorcaro não foram atendidos, a reportagem não foi segurada, saiu no prazo programado,
+      e não foi amenizada, saiu em sua versão original."'
+    source_ids:
+      - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+  - kind: version
+    by_id: guilherme-barros
+    date: 2026-10-16
+    summary: Em nota, Barros diz que prestou assessoria de imprensa ao Master até 2025 e que a matéria saiu com
+      independência editorial do jornal.
+    source_ids:
+      - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+tags:
+  - imprensa
+  - mensagens-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

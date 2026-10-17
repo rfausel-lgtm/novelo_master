@@ -1,0 +1,51 @@
+id: evt-2026-10-15-uol-publica-mensagens-de-vorcaro-com-frederic-kachar
+kind: event
+title: UOL publica mensagens de Vorcaro com Frederic Kachar sobre patrocínios e cobertura
+event_type: publication
+date: 2026-10-15
+date_precision: day
+participant_ids:
+  - daniel-vorcaro
+  - frederic-kachar
+  - grupo-globo
+  - banco-master
+description: Em 15/10/2026 o UOL publicou mensagens que diz terem sido extraídas pela PF do celular de Daniel
+  Vorcaro com Frederic Kachar, entre 2023 e 2025. Segundo o UOL, elas tratam de patrocínios do Master a
+  eventos do grupo (Baile da Vogue de 2024, R$ 825 mil; camarote do Carnaval de 2023, R$ 1,6 milhão, segundo
+  tabela enviada por Kachar), de um pedido dele para destravar um novo contrato de publicidade e de
+  reclamações de Vorcaro sobre colunas e reportagens de O Globo e do Valor, às quais Kachar respondeu
+  defendendo os repórteres. A Gazeta do Povo diz ter confirmado as conversas e afirma não haver confirmação de
+  que a cobertura tenha sido modificada. O Grupo Globo, em nota, reafirma a independência editorial de seus
+  veículos; Kachar não respondeu à Gazeta do Povo. Mensagem no aparelho não prova, por si, o que diz;
+  patrocínio contratado não é irregularidade por si.
+evidence_class: A
+status: unverified
+evidence_ids:
+  - ev-uol-mensagens-de-kachar-e-vorcaro-sobre-patrocinios-a-eventos-do-grupo-globo
+  - ev-uol-kachar-responde-a-reclamacoes-de-vorcaro-sobre-a-cobertura
+source_ids:
+  - src-uol-2026-10-15-grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro
+  - src-gazetadopovo-2026-10-15-como-diretor-demitido-da-globo-tratou-de-reportagens-com-vorcaro
+  - src-terra-2026-10-15-grupo-globo-demite-diretor-geral-fred-kachar-apos-vazamento-de-conversas-com-vorcaro
+cited_position:
+  - kind: public_note
+    by_id: grupo-globo
+    date: 2026-10-15
+    summary: O grupo reafirma "a absoluta independência editorial do jornalismo de seus veículos" e cita a
+      cobertura do caso Master.
+    source_ids:
+      - src-g1-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+  - kind: no_response
+    date: 2026-10-15
+    by: Gazeta do Povo (tentativa de contato com Frederic Kachar)
+    summary: Procurado pela Gazeta do Povo, Kachar não deu retorno até a publicação.
+    source_ids:
+      - src-gazetadopovo-2026-10-15-como-diretor-demitido-da-globo-tratou-de-reportagens-com-vorcaro
+tags:
+  - imprensa
+  - mensagens-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

@@ -1,0 +1,39 @@
+id: lilian-tahan
+kind: person
+name: Lilian Tahan
+category: executive
+role: CEO do grupo Metrópoles
+positions:
+  - title: CEO
+    organization_id: metropoles
+    source_ids:
+      - src-uol-2026-10-15-vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar
+      - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+summary: CEO do grupo Metrópoles, segundo o UOL e a Folha. Segundo o UOL (15/10/2026), com base em mensagens
+  extraídas pela PF do celular de Daniel Vorcaro, ela mantinha interlocução direta com o banqueiro, a quem
+  ao menos 14 textos do portal foram enviados antes da publicação, entre 2024 e 17/11/2025, 11 deles alterados
+  após pedidos dele, no período do contrato de publicidade de R$ 20 milhões do Master com o portal. Ela responde que checar com a fonte é prática que adota
+  com empresários, políticos e o Judiciário e que o contrato não tinha relação com a cobertura.
+why_in_novelo: CEO do Metrópoles citada pelo UOL, com base em mensagens de Daniel Vorcaro, como interlocutora
+  dele sobre textos do portal.
+cited_position:
+  - kind: version
+    by_id: lilian-tahan
+    date: 2026-10-15
+    summary: 'Ao UOL: "checar com a fonte se a matéria reflete o contexto passado para o veículo é uma prática que
+      adoto com personalidades empresariais, da política e do Judiciário"; diz que o contrato de publicidade
+      não tinha relação com a cobertura de interesse do banco e cita as matérias do portal sobre empresas de
+      Vorcaro: "Basta ver a quantidade de matérias publicadas pelo Metrópoles expondo a situação das empresas
+      de Vorcaro".'
+    source_ids:
+      - src-uol-2026-10-15-vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar
+source_ids:
+  - src-uol-2026-10-15-vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar
+  - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+tags:
+  - imprensa
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

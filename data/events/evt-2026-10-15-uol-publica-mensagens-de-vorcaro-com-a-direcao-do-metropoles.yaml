@@ -1,0 +1,45 @@
+id: evt-2026-10-15-uol-publica-mensagens-de-vorcaro-com-a-direcao-do-metropoles
+kind: event
+title: UOL publica mensagens de Vorcaro com a direção do Metrópoles; Lilian Tahan contesta
+event_type: publication
+date: 2026-10-15
+date_precision: day
+participant_ids:
+  - daniel-vorcaro
+  - lilian-tahan
+  - metropoles
+  - banco-master
+  - guilherme-barros
+description: "Em 15/10/2026 o UOL publicou levantamento em mensagens que diz terem sido extraídas pela PF do
+  celular de Daniel Vorcaro: ao menos 14 textos do Metrópoles teriam sido enviados previamente a ele, 11 alterados
+  após pedidos dele e duas reportagens publicadas a pedido dele, entre 2024 e 17/11/2025, numa interlocução
+  direta com a CEO Lilian Tahan. Segundo o UOL, a interlocução começou em maio de 2024, num café organizado por Guilherme Barros,
+  e o Master pagou ao portal R$ 1 milhão em junho, acertou R$ 900 mil em julho e fechou contrato de
+  publicidade de R$ 20 milhões. Lilian Tahan responde que checar com a fonte é prática que adota com
+  empresários, políticos e o Judiciário, que o contrato não tinha relação com a cobertura e que basta ver
+  a quantidade de matérias do portal expondo a situação das empresas de Vorcaro. Publicidade contratada não é irregularidade por
+  si."
+evidence_class: A
+status: disputed
+evidence_ids:
+  - ev-uol-textos-do-metropoles-enviados-previamente-a-vorcaro
+  - ev-uol-pagamentos-do-master-ao-metropoles-segundo-as-mensagens
+  - ev-lilian-tahan-responde-ao-uol-sobre-os-textos-enviados
+source_ids:
+  - src-uol-2026-10-15-vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar
+cited_position:
+  - kind: version
+    by_id: lilian-tahan
+    date: 2026-10-15
+    summary: 'Ao UOL: checar com a fonte é "uma prática que adoto com personalidades empresariais, da política e
+      do Judiciário"; o contrato de publicidade não tinha relação com a cobertura.'
+    source_ids:
+      - src-uol-2026-10-15-vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar
+tags:
+  - imprensa
+  - mensagens-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

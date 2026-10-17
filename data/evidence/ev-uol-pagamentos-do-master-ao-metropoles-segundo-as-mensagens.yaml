@@ -1,0 +1,17 @@
+id: ev-uol-pagamentos-do-master-ao-metropoles-segundo-as-mensagens
+kind: evidence
+classification: A
+proposition: Segundo o UOL (15/10/2026), com base nas mensagens, o Master pagou R$ 1 milhão ao Metrópoles em
+  junho de 2024, acertou R$ 900 mil em julho para projetos de "educação financeira" da Kovr e do Will e fechou
+  em novembro contrato de publicidade de R$ 20 milhões, quitado em 2025 em parcelas de R$ 5 milhões.
+source_ids:
+  - src-uol-2026-10-15-vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar
+attributed_to: UOL (Renata Agostini e Tiago Dantas)
+date: 2024-11
+notes: Valores segundo as mensagens citadas pelo UOL; o contrato não foi publicado. Publicidade contratada não
+  é irregularidade por si; Lilian Tahan diz que o contrato não tinha relação com a cobertura.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

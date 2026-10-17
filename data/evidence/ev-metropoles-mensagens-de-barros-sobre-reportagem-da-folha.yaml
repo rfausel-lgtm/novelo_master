@@ -1,0 +1,20 @@
+id: ev-metropoles-mensagens-de-barros-sobre-reportagem-da-folha
+kind: evidence
+classification: A
+proposition: Segundo o Metrópoles (16/10/2026), em 07/08/2024 Daniel Vorcaro prometeu a Guilherme Barros um
+  "prêmio de R$ 1mm" se a reportagem da Folha sobre ele fosse segurada; em 08/08 Barros escreveu "A Folha vai
+  segurar a matéria. O Sérgio me respondeu agora"; em 12/08 houve encontro na sede da Folha com o diretor de
+  Redação e dois editores; e o perfil publicado em 30/08/2024 teria incorporado dados positivos sugeridos por
+  Barros, depois retirados da versão digital.
+source_ids:
+  - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+attributed_to: Metrópoles
+date: 2024-08-08
+notes: O Metrópoles é parte interessada (publicou um dia depois da reportagem do UOL sobre ele). A Folha
+  contesta cada ponto (ev-folha-responde-ao-metropoles-sobre-a-reportagem-de-2024). Mensagem no aparelho não
+  prova o que diz.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

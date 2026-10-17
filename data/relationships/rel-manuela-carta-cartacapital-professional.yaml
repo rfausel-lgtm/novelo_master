@@ -1,0 +1,21 @@
+id: rel-manuela-carta-cartacapital-professional
+kind: relationship
+from_id: manuela-carta
+to_id: cartacapital
+relationship_type: professional
+directed: true
+label: publisher
+description: Manuela Carta é a publisher de CartaCapital, segundo nota da própria revista e o UOL (15/10/2026).
+evidence_class: A
+confidence: 0.7
+status: unverified
+evidence_ids:
+  - ev-manuela-carta-nota-sobre-a-reportagem-do-uol
+source_ids:
+  - src-cartacapital-2026-10-15-nota-de-esclarecimento-sobre-reportagem-do-uol
+  - src-uol-2026-10-15-brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

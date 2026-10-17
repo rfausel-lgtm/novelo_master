@@ -1,0 +1,17 @@
+id: ev-manuela-carta-nota-sobre-a-reportagem-do-uol
+kind: evidence
+classification: A
+proposition: Em nota de 15/10/2026, Manuela Carta disse que o Banco Master fechou contrato de publicidade com
+  a editora em 2021 e anunciou até 2023, num contrato regular de veiculação de anúncio, que o grupo voltou a
+  anunciar por meio da Kovr e do Will e que Daniel Vorcaro nunca a procurou para pedir notícias positivas.
+source_ids:
+  - src-cartacapital-2026-10-15-nota-de-esclarecimento-sobre-reportagem-do-uol
+  - src-uol-2026-10-15-brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites
+attributed_to_id: manuela-carta
+attributed_to: Manuela Carta, publisher de CartaCapital
+date: 2026-10-15
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

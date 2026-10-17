@@ -1,0 +1,21 @@
+id: ev-uol-mensagens-de-kachar-e-vorcaro-sobre-patrocinios-a-eventos-do-grupo-globo
+kind: evidence
+classification: A
+proposition: 'Segundo o UOL (15/10/2026), mensagens extraídas pela PF do celular de Daniel Vorcaro mostram
+  Frederic Kachar tratando com ele de patrocínios a eventos do grupo: uma tabela enviada por Kachar registra o
+  Baile da Vogue de 2024 (R$ 825 mil) e o camarote da editora no Carnaval de 2023 (R$ 1,6 milhão); Kachar
+  pediu ajuda para "destravar o uso do novo contrato" de publicidade e, em 2025, escreveu "Tirei o banco nos
+  dois casos" sobre as propostas. Segundo o Terra, Vorcaro foi um dos principais patrocinadores do Summit
+  Valor Econômico Brazil-USA.'
+source_ids:
+  - src-uol-2026-10-15-grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro
+  - src-terra-2026-10-15-grupo-globo-demite-diretor-geral-fred-kachar-apos-vazamento-de-conversas-com-vorcaro
+attributed_to: UOL (Renata Agostini e Tiago Dantas) e Terra
+date: 2026-10-15
+notes: Mensagem no aparelho não prova o que diz; não há contrato publicado. Patrocínio contratado não é
+  irregularidade por si. Trechos sobre temas pessoais, familiares e terceiros não são registrados.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

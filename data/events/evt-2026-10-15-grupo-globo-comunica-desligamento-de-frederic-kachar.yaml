@@ -1,0 +1,39 @@
+id: evt-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+kind: event
+title: Grupo Globo comunica o desligamento de Frederic Kachar
+event_type: statement
+date: 2026-10-15
+date_precision: day
+participant_ids:
+  - grupo-globo
+  - frederic-kachar
+description: Em 15/10/2026 o Grupo Globo comunicou o desligamento de Frederic Kachar, diretor-geral de Mídia
+  Impressa e Rádio havia 29 anos na empresa, e disse que o conteúdo de conversas privadas dele com Daniel
+  Vorcaro, de outubro de 2023 a julho de 2025, às quais teve acesso em 14/10, "revela uma relação inadequada
+  do executivo com um anunciante". A nota reafirma a independência editorial dos veículos do grupo e informa
+  que Luis Henrique Guimarães assume interinamente o cargo. A nota não nomeia o anunciante nem descreve as
+  mensagens. Kachar não respondeu à Gazeta do Povo; nenhuma manifestação dele foi localizada até 17/10/2026.
+evidence_class: C
+status: verified
+evidence_ids:
+  - ev-nota-do-grupo-globo-sobre-o-desligamento-de-frederic-kachar
+source_ids:
+  - src-g1-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+  - src-uol-2026-10-15-grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro
+  - src-gazetadopovo-2026-10-15-como-diretor-demitido-da-globo-tratou-de-reportagens-com-vorcaro
+document_ids:
+  - doc-2026-10-15-nota-do-grupo-globo-sobre-o-desligamento-de-frederic-kachar
+cited_position:
+  - kind: no_response
+    date: 2026-10-15
+    by: Gazeta do Povo (tentativa de contato)
+    summary: A Gazeta do Povo procurou o ex-diretor e "não obteve retorno" até a publicação.
+    source_ids:
+      - src-gazetadopovo-2026-10-15-como-diretor-demitido-da-globo-tratou-de-reportagens-com-vorcaro
+tags:
+  - imprensa
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

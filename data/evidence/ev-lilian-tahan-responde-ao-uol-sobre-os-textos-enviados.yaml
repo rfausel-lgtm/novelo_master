@@ -1,0 +1,16 @@
+id: ev-lilian-tahan-responde-ao-uol-sobre-os-textos-enviados
+kind: evidence
+classification: A
+proposition: Lilian Tahan disse ao UOL (15/10/2026) que checar com a fonte se a matéria reflete o contexto
+  passado ao veículo é prática que adota com empresários, políticos e o Judiciário, e que o contrato de
+  publicidade do Master não tinha relação com a cobertura de interesse do banco.
+source_ids:
+  - src-uol-2026-10-15-vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar
+attributed_to_id: lilian-tahan
+attributed_to: Lilian Tahan, ao UOL
+date: 2026-10-15
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

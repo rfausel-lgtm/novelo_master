@@ -1,0 +1,87 @@
+id: rev-2026-10-17-lote-359-imprensa-e-banco-master-globo-metropoles-folha-e-cartacapital
+kind: revision
+date: 2026-10-17
+title: "Lote 359 — Imprensa e Banco Master: Globo, Metrópoles, Folha e CartaCapital"
+summary: 'Registra, com a versão de cada citado em igual destaque, quatro episódios publicados em 15 e
+  16/10/2026 sobre mensagens que veículos dizem ter sido extraídas pela PF do celular de Daniel Vorcaro. (1)
+  Grupo Globo: a nota da empresa de 15/10/2026, lida no g1, é a fonte do desligamento de Frederic Kachar (29
+  anos no grupo) e da frase sobre "relação inadequada do executivo com um anunciante" (classe C: nota pública
+  da própria empresa, não documento oficial, corroborada por UOL e Gazeta do Povo); o conteúdo das conversas é alegação atribuída ao UOL e à Gazeta do Povo (patrocínios
+  do Master ao Baile da Vogue de 2024, R$ 825 mil, e ao camarote do Carnaval de 2023, R$ 1,6 milhão, segundo
+  tabela citada pelo UOL; reclamações de Vorcaro sobre a cobertura, às quais Kachar respondeu defendendo os
+  repórteres); Kachar não respondeu à Gazeta do Povo. (2) Metrópoles: o UOL afirma que ao menos 14 textos
+  foram enviados previamente a Vorcaro e 11 alterados, no período de contrato de publicidade de R$ 20 milhões;
+  Lilian Tahan responde que checar com a fonte é prática habitual e que o contrato não tinha relação com a
+  cobertura. (3) Folha: disputa entre veículos, com as duas versões: o Metrópoles afirma que um perfil de
+  Vorcaro de 30/08/2024 foi segurado e amenizado depois de promessa de R$ 1 milhão a Guilherme Barros; a Folha
+  e Sérgio Dávila negam, a Folha chama a reportagem de retaliação à do UOL e informa ter recebido R$ 516.441,60
+  em anúncios veiculados de 2021 a 2025; Barros diz que a matéria saiu com independência editorial. (4) CartaCapital: o UOL relata patrocínio e adiantamentos do Master desde 2020;
+  Manuela Carta diz que houve contrato regular de publicidade (2021 a 2023). O lote NÃO afirma: que alguma
+  cobertura tenha sido alterada em troca de dinheiro; que patrocínio ou publicidade contratados
+  sejam irregulares; qual versão da disputa entre Metrópoles e Folha está correta; que as mensagens provem o
+  que dizem (não há documento oficial publicado); nada sobre a colunista Malu Gaspar além de ter sido alvo de
+  reclamação de Vorcaro. Ficam de fora: temas pessoais, terceiros sem papel no caso e familiares, nomes de políticos citados nas
+  mensagens (quarentena eleitoral até 25/10/2026) e os trechos da reportagem do UOL sobre os demais sites e
+  revistas citados, que não são registrados neste lote.'
+added:
+  people: 5
+  organizations: 3
+  events: 5
+  documents: 1
+  relationships: 9
+  sources: 9
+  evidence: 11
+updated_relationships: 1
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-g1-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+  - src-uol-2026-10-15-grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro
+  - src-uol-2026-10-15-vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar
+  - src-uol-2026-10-15-brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites
+  - src-gazetadopovo-2026-10-15-como-diretor-demitido-da-globo-tratou-de-reportagens-com-vorcaro
+  - src-terra-2026-10-15-grupo-globo-demite-diretor-geral-fred-kachar-apos-vazamento-de-conversas-com-vorcaro
+  - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+  - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+  - src-cartacapital-2026-10-15-nota-de-esclarecimento-sobre-reportagem-do-uol
+  - doc-2026-10-15-nota-do-grupo-globo-sobre-o-desligamento-de-frederic-kachar
+  - grupo-globo
+  - folha-de-s-paulo
+  - cartacapital
+  - frederic-kachar
+  - lilian-tahan
+  - sergio-davila
+  - guilherme-barros
+  - manuela-carta
+  - ev-nota-do-grupo-globo-sobre-o-desligamento-de-frederic-kachar
+  - ev-uol-mensagens-de-kachar-e-vorcaro-sobre-patrocinios-a-eventos-do-grupo-globo
+  - ev-uol-kachar-responde-a-reclamacoes-de-vorcaro-sobre-a-cobertura
+  - ev-uol-textos-do-metropoles-enviados-previamente-a-vorcaro
+  - ev-uol-pagamentos-do-master-ao-metropoles-segundo-as-mensagens
+  - ev-lilian-tahan-responde-ao-uol-sobre-os-textos-enviados
+  - ev-metropoles-mensagens-de-barros-sobre-reportagem-da-folha
+  - ev-folha-responde-ao-metropoles-sobre-a-reportagem-de-2024
+  - ev-guilherme-barros-nota-ao-metropoles
+  - ev-uol-patrocinio-e-adiantamentos-do-master-a-cartacapital
+  - ev-manuela-carta-nota-sobre-a-reportagem-do-uol
+  - evt-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+  - evt-2026-10-15-uol-publica-mensagens-de-vorcaro-com-frederic-kachar
+  - evt-2026-10-15-uol-publica-mensagens-de-vorcaro-com-a-direcao-do-metropoles
+  - evt-2026-10-15-uol-publica-mensagens-sobre-patrocinios-de-vorcaro-a-sites-e-revistas
+  - evt-2026-10-16-metropoles-publica-mensagens-sobre-reportagem-da-folha-e-folha-responde
+  - rel-frederic-kachar-grupo-globo-professional
+  - rel-daniel-vorcaro-frederic-kachar-communication
+  - rel-banco-master-grupo-globo-commercial
+  - rel-lilian-tahan-metropoles-professional
+  - rel-daniel-vorcaro-lilian-tahan-communication
+  - rel-sergio-davila-folha-de-s-paulo-professional
+  - rel-guilherme-barros-banco-master-professional
+  - rel-manuela-carta-cartacapital-professional
+  - rel-banco-master-cartacapital-commercial
+  - metropoles
+  - rel-banco-master-metropoles-commercial
+reason: "Liberação do chefe de 17/10/2026 (itens 1, 2, 4, 5 e 6; o item 3 ficou fora na revisão editorial), sob a decisão editorial de 17/10/2026 sobre imprensa (PIPELINE_DE_LOTES, seção 6):
+  veículos e executivos de mídia entram com documento ou fonte e com o contraditório em igual destaque."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17

@@ -1,0 +1,40 @@
+id: folha-de-s-paulo
+kind: organization
+name: Folha de S.Paulo
+full_name: Empresa Folha da Manhã S.A.
+cnpj: 60.579.703/0001-48
+org_type: media
+jurisdiction: São Paulo
+summary: Jornal publicado pela Empresa Folha da Manhã S.A. (CNPJ informado no rodapé do próprio site), do
+  mesmo grupo que edita o UOL. Em 16/10/2026 o Metrópoles publicou mensagens que atribui a Daniel Vorcaro e ao
+  assessor Guilherme Barros sobre um perfil do banqueiro publicado pela Folha em 30/08/2024 e afirmou que a
+  reportagem foi adiada e amenizada; no mesmo dia a Folha negou, disse que o texto saiu na versão original,
+  quando a apuração terminou, e chamou a reportagem do portal de retaliação à do UOL sobre o Metrópoles.
+why_in_novelo: Jornal cuja reportagem de agosto de 2024 sobre Daniel Vorcaro é objeto de disputa pública com o
+  Metrópoles desde 16/10/2026.
+cited_position:
+  - kind: denial
+    by_id: folha-de-s-paulo
+    date: 2026-10-16
+    summary: Em resposta publicada pelo jornal, a Folha diz que a reportagem "não foi segurada, porque nem estava
+      pronta", que o pedido de Vorcaro foi de prazo para ser ouvido, que "Os anseios de Vorcaro não foram
+      atendidos" e que as alterações posteriores incluíram a prisão do ex-banqueiro, com aviso ao leitor abaixo
+      da data original; chama a reportagem do Metrópoles de "reportagem mentirosa em retaliação" à do UOL.
+      Perguntada sobre publicidade, informa que recebeu R$ 516.441,60 em anúncios veiculados no jornal ao longo
+      de cinco anos (2021 a 2025), segundo seu departamento comercial, que diz não responder à direção de
+      Redação.
+    source_ids:
+      - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+      - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+open_questions:
+  - A versão impressa e a digital original da reportagem de 30/08/2024 não foram comparadas pela equipe.
+source_ids:
+  - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+  - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+tags:
+  - imprensa
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

@@ -1,0 +1,22 @@
+id: rel-sergio-davila-folha-de-s-paulo-professional
+kind: relationship
+from_id: sergio-davila
+to_id: folha-de-s-paulo
+relationship_type: professional
+directed: true
+label: diretor de Redação
+description: Sérgio Dávila é o diretor de Redação da Folha de S.Paulo, segundo o próprio jornal e o Metrópoles
+  (16/10/2026).
+evidence_class: A
+confidence: 0.7
+status: unverified
+evidence_ids:
+  - ev-folha-responde-ao-metropoles-sobre-a-reportagem-de-2024
+source_ids:
+  - src-folha-2026-10-16-metropoles-publica-reportagem-mentirosa-em-retaliacao-a-denuncia-revelada-pelo-uol
+  - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

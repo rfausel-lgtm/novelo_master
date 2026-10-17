@@ -1,0 +1,17 @@
+id: ev-guilherme-barros-nota-ao-metropoles
+kind: evidence
+classification: A
+proposition: Em nota ao Metrópoles (16/10/2026), Guilherme Barros disse que prestou serviços de assessoria de
+  imprensa ao Banco Master até 2025, que entre suas atividades estavam organizar entrevistas e reuniões com
+  veículos e apresentar os argumentos do cliente, e que a reportagem da Folha saiu em 30/08/2024 com
+  independência editorial do jornal.
+source_ids:
+  - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+attributed_to_id: guilherme-barros
+attributed_to: Guilherme Barros, em nota ao Metrópoles
+date: 2026-10-16
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

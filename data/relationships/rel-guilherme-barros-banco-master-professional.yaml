@@ -1,0 +1,26 @@
+id: rel-guilherme-barros-banco-master-professional
+kind: relationship
+from_id: guilherme-barros
+to_id: banco-master
+relationship_type: professional
+directed: true
+label: assessoria de imprensa (até 2025, segundo nota dele)
+end_date: "2025"
+description: Em nota ao Metrópoles (16/10/2026), Guilherme Barros diz que prestou serviços de assessoria de
+  imprensa ao Banco Master até 2025, quando encerrou o contrato; o UOL o descreve como consultor de Vorcaro em
+  2024.
+evidence_class: A
+confidence: 0.6
+status: unverified
+event_ids:
+  - evt-2026-10-16-metropoles-publica-mensagens-sobre-reportagem-da-folha-e-folha-responde
+evidence_ids:
+  - ev-guilherme-barros-nota-ao-metropoles
+source_ids:
+  - src-metropoles-2026-10-16-daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha
+  - src-uol-2026-10-15-vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

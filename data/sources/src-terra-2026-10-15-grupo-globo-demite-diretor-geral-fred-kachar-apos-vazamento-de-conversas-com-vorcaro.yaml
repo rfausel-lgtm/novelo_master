@@ -1,0 +1,25 @@
+id: src-terra-2026-10-15-grupo-globo-demite-diretor-geral-fred-kachar-apos-vazamento-de-conversas-com-vorcaro
+kind: source
+title: Grupo Globo demite diretor-geral Fred Kachar após vazamento de conversas com Vorcaro
+publisher: Terra
+publication_date: 2026-10-15
+retrieved_at: 2026-10-17
+url: https://www.terra.com.br/noticias/grupo-globo-demite-diretor-geral-fred-kachar-apos-vazamento-de-conversas-com-vorcaro,0f166fab2c44a56685100c5e6f329b09qo69kgmk.html
+source_type: press
+language: pt-BR
+summary: Relata a nota do Grupo Globo e mensagens entre Frederic Kachar e Daniel Vorcaro de 2023 a 2025 sobre
+  patrocínios e cobertura; diz que o banqueiro era um dos principais patrocinadores do Summit Valor Econômico
+  Brazil-USA e que Kachar, diante de reclamação sobre post de uma colunista, respondeu que pediria correção se
+  houvesse erro e que não podia censurar um colunista.
+notes: Cache do script lote:fonte (17/10/2026); texto com entidades HTML. Usada só para o patrocínio do Summit
+  Valor. A matéria trata ainda de temas pessoais, familiares e terceiros, que o Novelo não registra.
+verification:
+  checked_at: 2026-10-17
+  checked_by: orquestrador (cache lote:fonte de 17/10/2026)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

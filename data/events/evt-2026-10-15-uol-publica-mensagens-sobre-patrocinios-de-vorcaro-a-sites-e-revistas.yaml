@@ -1,0 +1,45 @@
+id: evt-2026-10-15-uol-publica-mensagens-sobre-patrocinios-de-vorcaro-a-sites-e-revistas
+kind: event
+title: UOL publica mensagens sobre patrocínios de Vorcaro a sites e revistas; CartaCapital responde
+event_type: publication
+date: 2026-10-15
+date_precision: day
+participant_ids:
+  - daniel-vorcaro
+  - banco-master
+  - cartacapital
+  - manuela-carta
+description: Em 15/10/2026 o UOL publicou mensagens que diz terem sido extraídas pela PF do celular de Daniel
+  Vorcaro segundo as quais, por meio de patrocínios e investimentos de empresas ligadas a ele, o banqueiro era
+  consultado sobre textos de sites e revistas antes da publicação ou pedia alterações. Sobre a CartaCapital, o
+  UOL relata contrato de patrocínio de cinco anos fechado em 2021 com o Banco Máxima (depois Master),
+  adiantamento de R$ 300 mil em dezembro de 2020, conversa em 2023 sobre a possível entrada de Vorcaro como
+  sócio, que não se concretizou, e pedido de adiantamento de publicidade em 2024. Em nota, a publisher Manuela
+  Carta diz que houve contrato regular de publicidade de 2021 a 2023, que o grupo voltou a anunciar por meio
+  da Kovr e do Will e que Vorcaro nunca a procurou para pedir notícias positivas ou interferir em conteúdo
+  jornalístico, dada a separação entre a área comercial e a redação. O Novelo registra desta reportagem
+  apenas o trecho sobre a CartaCapital. Publicidade contratada não é irregularidade por si.
+evidence_class: A
+status: disputed
+evidence_ids:
+  - ev-uol-patrocinio-e-adiantamentos-do-master-a-cartacapital
+  - ev-manuela-carta-nota-sobre-a-reportagem-do-uol
+source_ids:
+  - src-uol-2026-10-15-brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites
+  - src-cartacapital-2026-10-15-nota-de-esclarecimento-sobre-reportagem-do-uol
+cited_position:
+  - kind: clarification
+    by_id: manuela-carta
+    date: 2026-10-15
+    summary: Contrato "regular de veiculação de anúncio, conforme as regras do mercado publicitário"; Vorcaro
+      nunca a procurou para pedir notícias positivas.
+    source_ids:
+      - src-cartacapital-2026-10-15-nota-de-esclarecimento-sobre-reportagem-do-uol
+tags:
+  - imprensa
+  - mensagens-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

@@ -1,0 +1,49 @@
+id: frederic-kachar
+kind: person
+name: Frederic Kachar
+aliases:
+  - Fred Kachar
+category: executive
+role: Diretor-geral de Mídia Impressa e Rádio do Grupo Globo até 15/10/2026
+positions:
+  - title: Diretor-geral da Editora Globo
+    organization_id: grupo-globo
+    start_date: "2008"
+    end_date: 2026-10-15
+    source_ids:
+      - src-g1-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+  - title: Diretor-geral de Mídia Impressa e Rádio
+    organization_id: grupo-globo
+    end_date: 2026-10-15
+    source_ids:
+      - src-g1-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+summary: "Executivo do Grupo Globo por 29 anos, segundo a nota da empresa: dirigiu a Editora Globo desde 2008,
+  a Infoglobo desde 2015 e o Sistema Globo de Rádio desde 2020. Em 15/10/2026 o grupo comunicou seu
+  desligamento, dizendo que conversas privadas dele com Daniel Vorcaro (outubro de 2023 a julho de 2025)
+  revelaram relação inadequada com um anunciante. Segundo o UOL (15/10/2026), as mensagens extraídas pela PF
+  tratam de patrocínios do Master a eventos do grupo e de reclamações de Vorcaro sobre a cobertura, às quais
+  Kachar respondeu defendendo os repórteres; a Gazeta do Povo diz ter confirmado as conversas e que não há
+  confirmação de que a cobertura tenha sido modificada. Não há acusação formal contra ele."
+why_in_novelo: Executivo desligado pelo Grupo Globo em 15/10/2026 por conversas com Daniel Vorcaro, segundo nota da empresa.
+cited_position:
+  - kind: no_response
+    date: 2026-10-15
+    by: Gazeta do Povo (tentativa de contato)
+    summary: A Gazeta do Povo informou que procurou o ex-diretor e "não obteve retorno" até a publicação. Em
+      17/10/2026 nenhuma nota ou manifestação dele foi localizada nas fontes lidas (g1, UOL, Gazeta do Povo,
+      Terra, Revista Fórum e Jovem Pan); o UOL não informa se o procurou.
+    source_ids:
+      - src-gazetadopovo-2026-10-15-como-diretor-demitido-da-globo-tratou-de-reportagens-com-vorcaro
+open_questions:
+  - Não há documento oficial publicado com as mensagens; o conteúdo vem de veículos que dizem tê-las obtido.
+source_ids:
+  - src-g1-2026-10-15-grupo-globo-comunica-desligamento-de-frederic-kachar
+  - src-uol-2026-10-15-grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro
+  - src-gazetadopovo-2026-10-15-como-diretor-demitido-da-globo-tratou-de-reportagens-com-vorcaro
+tags:
+  - imprensa
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17
