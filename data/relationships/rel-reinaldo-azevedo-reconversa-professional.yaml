@@ -1,0 +1,24 @@
+id: rel-reinaldo-azevedo-reconversa-professional
+kind: relationship
+from_id: reinaldo-azevedo
+to_id: reconversa
+relationship_type: professional
+directed: true
+label: apresentou o podcast, segundo nota própria
+description: Reinaldo Azevedo afirma, em nota de 16/10/2026, que comandava o podcast Reconversa, patrocinado
+  pelo Banco Master a partir de contrato de março de 2024.
+evidence_class: A
+confidence: 0.8
+status: unverified
+event_ids:
+  - evt-2026-10-16-reinaldo-azevedo-divulga-nota-sobre-patrocinio-do-banco-master-ao-reconversa
+evidence_ids:
+  - ev-reinaldo-azevedo-declara-em-nota-patrocinio-do-master-ao-reconversa
+source_ids:
+  - src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+  - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

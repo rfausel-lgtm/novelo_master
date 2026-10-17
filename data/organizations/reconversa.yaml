@@ -1,0 +1,36 @@
+id: reconversa
+kind: organization
+name: Reconversa
+aliases: []
+org_type: media
+summary: "Podcast de entrevistas que o jornalista Reinaldo Azevedo diz ter apresentado em companhia do
+  advogado Walfrido Warde (nota de 16/10/2026, em que o descreve no passado). Segundo a mesma nota, teve
+  patrocínio do Banco Master, contratado por meio da empresa Super em março de 2024: 12 parcelas de R$ 100
+  mil, das quais sete foram pagas. Azevedo afirma que o podcast não servia aos interesses do banco. A
+  existência do contrato e os valores são os declarados por ele; o Novelo não teve acesso ao contrato."
+why_in_novelo: Segundo nota de Reinaldo Azevedo de 16/10/2026, teve patrocínio do Banco Master contratado em março de 2024.
+cited_position:
+  - by_id: reinaldo-azevedo
+    kind: version
+    date: 2026-10-16
+    summary: Azevedo, que apresentava o podcast, afirma que o patrocínio foi contratado com a área comercial, que
+      sete das 12 parcelas foram pagas e declaradas e que o podcast não servia aos interesses do banco.
+    source_ids:
+      - src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+  - by: Empresa Super, citada na nota de Azevedo
+    kind: not_located
+    date: 2026-10-17
+    summary: Nenhuma manifestação localizada nas fontes abertas e nas buscas do investigador de 17/10/2026; a
+      empresa não foi identificada além do nome dado na nota.
+    source_ids:
+      - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+open_questions:
+  - Não foi identificada a razão social da empresa Super nem localizado o contrato de patrocínio.
+source_ids:
+  - src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+  - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

@@ -1,0 +1,29 @@
+id: src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+kind: source
+title: Reinaldo Azevedo esclarece patrocínio do Banco Master
+publisher: TMC
+author: Arthur Farias
+publication_date: 2026-10-16
+retrieved_at: 2026-10-17
+url: https://tmc.com.br/politica/reinaldo-azevedo-esclarece-patrocinio-do-banco-master/
+source_type: press
+language: pt-BR
+summary: "Reportagem que publica na íntegra a nota enviada pelo jornalista Reinaldo Azevedo à TMC sobre o
+  patrocínio do Banco Master ao podcast Reconversa: contrato de março de 2024, 12 parcelas de R$ 100 mil, sete
+  pagas, valores declarados e impostos pagos, entendimentos com a área comercial; e as negativas de ter
+  escrito em defesa do banco ou conversado com Daniel Vorcaro ou Fabiano Zettel. A nota é a posição do próprio
+  citado."
+notes: Aberta pelo redator em 17/10/2026 com lote:fonte (16/10/2026 às 16h19, atualizada às 16h37). Fonte do
+  que o citado disse, não prova do conteúdo de mensagens. A nota contém ataques pessoais e referências a
+  candidatos e a terceiros que o Novelo não registra (quarentena eleitoral até 25/10/2026); o texto próprio da
+  TMC sobre esses trechos também fica de fora.
+verification:
+  checked_at: 2026-10-17
+  checked_by: orquestrador (lote:fonte direto, leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

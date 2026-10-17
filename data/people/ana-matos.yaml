@@ -1,0 +1,37 @@
+id: ana-matos
+kind: person
+name: Ana Matos
+aliases: []
+category: executive
+role: Superintendente de Comunicação e Marketing do Banco Master entre 2023 e o final de 2025, segundo o Estadão
+positions:
+  - title: Superintendente de Comunicação e Marketing
+    organization_id: banco-master
+    start_date: "2023"
+    end_date: "2025"
+    source_ids:
+      - src-estadao-terra-2026-10-16-dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli
+summary: Segundo o Estadão (16/10/2026), foi superintendente de Comunicação e Marketing do Banco Master entre
+  2023 e o final de 2025 e é interlocutora de Daniel Vorcaro nas mensagens extraídas do celular dele que o
+  jornal descreve sobre Gabriela Prioli; nelas, segundo o jornal, relata a assinatura de um contrato de 12
+  meses com a influenciadora, o que Prioli nega. O conteúdo é atribuído ao jornal; mensagem em aparelho não
+  prova o que diz. Procurada pelo Estadão, não respondeu. Não há acusação formal contra ela registrada no
+  Novelo.
+why_in_novelo: Descrita pelo Estadão, em 16/10/2026, como ex-superintendente de Comunicação e Marketing do
+  Banco Master e interlocutora de Daniel Vorcaro em mensagens sobre a contratação de uma influenciadora.
+cited_position:
+  - by_id: ana-matos
+    kind: no_response
+    date: 2026-10-16
+    summary: Procurada pelo Estadão antes da publicação de 16/10/2026, não respondeu.
+    source_ids:
+      - src-estadao-terra-2026-10-16-dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli
+open_questions:
+  - O nome completo não foi confirmado em fonte aberta pelo Novelo.
+source_ids:
+  - src-estadao-terra-2026-10-16-dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

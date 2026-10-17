@@ -1,0 +1,67 @@
+id: rev-2026-10-17-lote-360-reconversa-e-prioli-contratos-de-patrocinio-contestados
+kind: revision
+date: 2026-10-17
+title: "Lote 360 — Reconversa e Prioli: Reinaldo Azevedo descreve o patrocínio do Master ao podcast; o Estadão
+  relata contrato com Gabriela Prioli, que nega (alegações atribuídas e versões dos citados)"
+summary: "Lote de imprensa, só com alegações atribuídas e a versão dos citados em igual destaque ou à frente.
+  O que NÃO se afirma, em destaque: o Novelo não afirma que Reinaldo Azevedo ou Gabriela Prioli tenham
+  recebido dinheiro para escrever ou opinar, não autentica os prints divulgados por influenciador, não
+  reproduz o texto deles nem de mensagens privadas, não liga a empresa Super citada por Azevedo a nenhum
+  verbete do acervo e não trata patrocínio contratado como irregularidade. Reconversa: em nota enviada à TMC e
+  publicada em 16/10/2026, Azevedo afirmou que o Banco Master patrocinou o podcast, que ele
+  apresentava, por meio da empresa Super, em contrato de março de 2024 de 12 parcelas de R$ 100 mil, das quais
+  sete foram pagas, com valores declarados e impostos pagos; que os entendimentos foram feitos com a área
+  comercial; que nunca escreveu em defesa do banco e que jamais conversou com Daniel Vorcaro ou Fabiano
+  Zettel. A nota responde a prints divulgados no mesmo dia, nas redes sociais, pelo influenciador Paulo Figueiredo, que os atribui a uma conversa de WhatsApp com Fabiano Zettel (segundo Brasil 247); até 17/10/2026 nenhum
+  veículo de apuração própria localizado checou os prints, e Vorcaro, Zettel e a Super não se manifestaram:
+  classe A, não autenticada. Prioli: segundo reportagem do Estadão de 16/10/2026 (Aguirre Talento, Luiz
+  Vassallo, Gustavo Côrtes e Vinícius Valfré), mensagens extraídas do celular de Vorcaro indicariam que ela
+  gravou vídeos em defesa do banco sob contrato de 12 meses, com roteiros submetidos ao banqueiro, e que a
+  então superintendente de Comunicação e Marketing Ana Matos relatou a assinatura; os diálogos não revelam
+  valor. No mesmo dia, em vídeo relatado pelo Correio Braziliense, Prioli negou reunião, contrato e pagamento,
+  cobrou provas e disse que tomará as medidas cabíveis; ao jornal, disse que Vorcaro “jamais editou” seu
+  conteúdo. Ana Matos não respondeu ao Estadão. O original do Estadão foi aberto, mas o corpo está sob
+  paywall: foram lidos título, linha fina, autores, datas e o resumo do próprio jornal, e o corpo na
+  republicação do Terra, que conta como a mesma origem. Três pessoas novas (Reinaldo Azevedo, Gabriela Prioli,
+  Ana Matos) e um verbete de organização (Reconversa); nenhum registro existente alterado. Não confirmado: o
+  contrato do Reconversa e sua contraparte; a autenticidade dos prints; o contrato atribuído a Prioli; o nome
+  completo de Ana Matos; a reportagem do Poder360 citada pelo Estadão."
+added:
+  people: 3
+  organizations: 1
+  events: 2
+  documents: 0
+  relationships: 3
+  sources: 5
+  evidence: 4
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+  - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+  - src-estadao-2026-10-16-dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli
+  - src-estadao-terra-2026-10-16-dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli
+  - src-correiobraziliense-2026-10-16-gabriela-prioli-nega-contrato-com-master-e-contato-com-vorcaro
+  - ev-reinaldo-azevedo-declara-em-nota-patrocinio-do-master-ao-reconversa
+  - ev-influenciador-divulga-prints-atribuidos-a-conversa-com-fabiano-zettel
+  - ev-estadao-relata-mensagens-sobre-contrato-de-12-meses-com-gabriela-prioli
+  - ev-gabriela-prioli-nega-contrato-reuniao-e-pagamento-em-video-de-16-10
+  - reinaldo-azevedo
+  - reconversa
+  - gabriela-prioli
+  - ana-matos
+  - evt-2026-10-16-reinaldo-azevedo-divulga-nota-sobre-patrocinio-do-banco-master-ao-reconversa
+  - evt-2026-10-16-estadao-publica-mensagens-sobre-gabriela-prioli-e-ela-nega
+  - rel-banco-master-reconversa-sponsorship
+  - rel-reinaldo-azevedo-reconversa-professional
+  - rel-ana-matos-banco-master-professional
+reason: 'Itens 9 e 10 da liberação "Vorcaro e a imprensa" (investigador e chefe, 17/10/2026), aplicada a regra
+  de imprensa de 17/10/2026 (docs/PIPELINE_DE_LOTES.md, seção 6). A nota de Azevedo na TMC e o original do
+  Estadão foram abertos pelo redator; a resposta de Prioli foi relida no navegador; as demais fontes vêm do
+  cache do investigador e foram relidas integralmente. Ficam de fora, por decisão editorial: o texto dos
+  prints, os ataques pessoais da nota, as referências a candidatos (quarentena eleitoral até 25/10/2026),
+  dados empresariais e trechos pessoais relativos à citada, um grupo de influenciadores sem nomes e Paulo Figueiredo como verbete. Na edição, saiu a fonte Roma News, cujo título traz alegação sobre terceiro que este lote não registra.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17

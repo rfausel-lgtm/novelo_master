@@ -1,0 +1,21 @@
+id: ev-reinaldo-azevedo-declara-em-nota-patrocinio-do-master-ao-reconversa
+kind: evidence
+classification: A
+proposition: Reinaldo Azevedo declarou, em nota enviada à TMC em 16/10/2026, que o Banco Master patrocinou o
+  podcast Reconversa por meio da empresa Super, em contrato de março de 2024 de 12 parcelas de R$ 100 mil, das
+  quais sete foram pagas, com valores declarados e impostos pagos, e negou ter escrito em defesa do banco ou
+  conversado com Daniel Vorcaro ou Fabiano Zettel.
+excerpt: "“Há um contrato de patrocínio feito em março de 2024: 12 parcelas de R$ 100 mil.”"
+source_ids:
+  - src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+  - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+attributed_to_id: reinaldo-azevedo
+attributed_to: Reinaldo Azevedo, nota enviada à TMC e publicada em 16/10/2026
+date: 2026-10-16
+notes: Posição do próprio citado (autodeclaração). Não prova o teor do contrato, que não é público, nem o
+  conteúdo dos prints divulgados no mesmo dia.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

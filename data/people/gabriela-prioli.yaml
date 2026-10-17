@@ -1,0 +1,56 @@
+id: gabriela-prioli
+kind: person
+name: Gabriela Prioli
+aliases: []
+category: other
+role: Advogada e influenciadora digital
+summary: Advogada e influenciadora digital. Em reportagem de 16/10/2026 (Aguirre Talento, Luiz Vassallo,
+  Gustavo Côrtes e Vinícius Valfré), o Estadão afirmou que mensagens extraídas do celular de Daniel Vorcaro
+  indicariam que ela gravou vídeos em defesa do Banco Master sob contrato de 12 meses, com roteiros submetidos
+  à aprovação do banqueiro; segundo o jornal, os diálogos não revelam valor pago. No mesmo dia, em vídeo nas
+  redes sociais, Prioli negou ter feito reunião com qualquer pessoa do banco ou representante de Vorcaro, ter
+  assinado contrato com o banco ou empresas ligadas ao banqueiro e ter recebido pagamentos; cobrou a
+  apresentação do contrato e dos pagamentos mencionados e disse que tomará as medidas cabíveis. Ao Estadão,
+  afirmou que Vorcaro “jamais editou” seu conteúdo. As mensagens não constam de documento público lido pelo
+  Novelo; mensagem em aparelho não prova o que diz, e não há acusação formal contra ela.
+why_in_novelo: Citada pelo Estadão, em 16/10/2026, como contratada pelo Banco Master para vídeos, segundo
+  mensagens do celular de Daniel Vorcaro, o que ela nega.
+cited_position:
+  - by_id: gabriela-prioli
+    kind: denial
+    date: 2026-10-16
+    summary: "Em vídeo nas redes sociais: “Eu nunca fiz nenhuma reunião com qualquer pessoa do Banco Master”, nem
+      com representante de Vorcaro, por nenhum meio; não assinou contrato com o banco ou empresas ligadas ao
+      banqueiro, seus trabalhos são documentados por notas fiscais, cobra a apresentação do contrato, dos
+      pagamentos e de conversas suas e escreveu: “A partir de agora, vou tomar as medidas cabíveis que tenho à
+      minha disposição”."
+    source_ids:
+      - src-correiobraziliense-2026-10-16-gabriela-prioli-nega-contrato-com-master-e-contato-com-vorcaro
+  - by_id: gabriela-prioli
+    kind: denial
+    date: 2026-10-16
+    summary: Procurada pelo Estadão, negou ter sido contratada pelo Master e disse que o banqueiro “jamais editou”
+      seu conteúdo (linha fina da versão atualizada da reportagem).
+    source_ids:
+      - src-estadao-2026-10-16-dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli
+  - by_id: gabriela-prioli
+    kind: denial
+    date: 2026-01
+    summary: Em janeiro de 2026, segundo o Estadão, publicou vídeo afirmando que nunca foi contratada para
+      defender o Banco Master.
+    source_ids:
+      - src-estadao-terra-2026-10-16-dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli
+open_questions:
+  - O Estadão não publicou contrato nem comprovante de pagamento; o corpo da reportagem original está sob
+    paywall e foi lido na republicação do Terra.
+  - A reportagem do Poder360 sobre diálogos com uma agência que a representaria, citada pelo Estadão, não foi
+    aberta.
+source_ids:
+  - src-estadao-2026-10-16-dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli
+  - src-estadao-terra-2026-10-16-dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli
+  - src-correiobraziliense-2026-10-16-gabriela-prioli-nega-contrato-com-master-e-contato-com-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

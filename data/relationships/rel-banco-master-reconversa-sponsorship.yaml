@@ -1,0 +1,42 @@
+id: rel-banco-master-reconversa-sponsorship
+kind: relationship
+from_id: banco-master
+to_id: reconversa
+relationship_type: commercial
+directed: true
+label: patrocínio contratado em março de 2024, por meio da empresa Super, segundo Azevedo
+start_date: 2024-03
+description: Segundo nota de Reinaldo Azevedo de 16/10/2026, o Banco Master patrocinou o podcast Reconversa
+  por meio da empresa Super, em contrato de março de 2024 de 12 parcelas de R$ 100 mil, das quais sete foram
+  pagas, com valores declarados e impostos pagos. É relação comercial declarada pelo próprio citado; o
+  contrato não é público, e patrocínio contratado não é, por si, irregularidade. O Novelo não liga a empresa
+  Super a nenhum outro verbete.
+evidence_class: A
+confidence: 0.6
+status: unverified
+event_ids:
+  - evt-2026-10-16-reinaldo-azevedo-divulga-nota-sobre-patrocinio-do-banco-master-ao-reconversa
+evidence_ids:
+  - ev-reinaldo-azevedo-declara-em-nota-patrocinio-do-master-ao-reconversa
+source_ids:
+  - src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+  - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+cited_position:
+  - by_id: reinaldo-azevedo
+    kind: version
+    date: 2026-10-16
+    summary: Afirma que o patrocínio foi tratado com a área comercial, que o podcast não servia aos interesses do
+      banco e que os valores recebidos estão declarados.
+    source_ids:
+      - src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+  - by: Banco Master (em liquidação) e empresa Super
+    kind: not_located
+    date: 2026-10-17
+    summary: Nenhuma manifestação localizada nas fontes abertas nem nas buscas do investigador de 17/10/2026.
+    source_ids:
+      - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

@@ -1,0 +1,62 @@
+id: evt-2026-10-16-reinaldo-azevedo-divulga-nota-sobre-patrocinio-do-banco-master-ao-reconversa
+kind: event
+title: Reinaldo Azevedo divulga nota sobre o patrocínio do Banco Master ao podcast Reconversa, após prints
+  divulgados por influenciador
+event_type: statement
+date: 2026-10-16
+date_precision: day
+participant_ids:
+  - reinaldo-azevedo
+  - reconversa
+  - banco-master
+  - daniel-vorcaro
+  - fabiano-zettel
+description: Em nota enviada à TMC e publicada em 16/10/2026, o jornalista
+  Reinaldo Azevedo afirmou que o Banco Master patrocinou o podcast Reconversa por meio da empresa Super, em
+  contrato de março de 2024 de 12 parcelas de R$ 100 mil, das quais sete foram pagas, com valores declarados e
+  impostos pagos; que os entendimentos foram feitos com a área comercial; que nunca escreveu em defesa do
+  banco, que o podcast não servia aos interesses do banco e que jamais conversou com Daniel Vorcaro ou Fabiano
+  Zettel. A nota responde a prints divulgados no mesmo dia, nas redes sociais, pelo influenciador Paulo Figueiredo, que os atribui a uma conversa de WhatsApp com Fabiano Zettel e que, segundo Brasil 247, mencionariam um suposto contrato relacionado ao jornalista. Os prints não foram autenticados nem, até 17/10/2026, checados por veículo de
+  apuração própria localizado pelo Novelo; valem só como alegação atribuída a quem os divulgou, e o Novelo não
+  reproduz o texto deles. Patrocínio contratado não é, por si, irregularidade.
+evidence_class: A
+status: unverified
+evidence_ids:
+  - ev-reinaldo-azevedo-declara-em-nota-patrocinio-do-master-ao-reconversa
+  - ev-influenciador-divulga-prints-atribuidos-a-conversa-com-fabiano-zettel
+source_ids:
+  - src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+  - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+cited_position:
+  - by_id: reinaldo-azevedo
+    kind: version
+    date: 2026-10-16
+    summary: Afirma que o patrocínio era do podcast, contratado com a área comercial e declarado, que “nunca
+      escrevi em defesa do Banco Master” e que “jamais conversei com Daniel Vorcaro ou Fabiano Zettel”.
+    source_ids:
+      - src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+  - by_id: fabiano-zettel
+    kind: not_located
+    date: 2026-10-17
+    summary: Nenhuma manifestação sobre os prints localizada nas fontes abertas nem nas buscas do investigador de
+      17/10/2026.
+    source_ids:
+      - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+  - by_id: daniel-vorcaro
+    kind: not_located
+    date: 2026-10-17
+    summary: Nenhuma manifestação da defesa sobre os prints localizada nas fontes abertas nem nas buscas do
+      investigador de 17/10/2026.
+    source_ids:
+      - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+  - by: Empresa Super, citada na nota de Azevedo
+    kind: not_located
+    date: 2026-10-17
+    summary: Nenhuma manifestação localizada nas fontes abertas nem nas buscas do investigador de 17/10/2026.
+    source_ids:
+      - src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

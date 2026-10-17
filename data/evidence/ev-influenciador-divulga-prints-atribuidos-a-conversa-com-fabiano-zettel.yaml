@@ -1,0 +1,19 @@
+id: ev-influenciador-divulga-prints-atribuidos-a-conversa-com-fabiano-zettel
+kind: evidence
+classification: A
+proposition: Em 16/10/2026, o influenciador Paulo Figueiredo divulgou nas redes sociais prints que atribui a
+  uma conversa de WhatsApp com Fabiano Zettel e que, segundo Brasil 247, mencionariam um suposto contrato
+  relacionado a Reinaldo Azevedo. A evidência registra só a divulgação, não a autenticidade nem o conteúdo dos
+  prints.
+source_ids:
+  - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+attributed_to: Influenciador Paulo Figueiredo (publicação nas redes sociais de 16/10/2026, relatada por Brasil 247)
+date: 2026-10-16
+notes: Fonte partidária; prints não autenticados e não checados por veículo de apuração própria localizado até
+  17/10/2026. O texto dos prints não é reproduzido. Vorcaro, Zettel e a empresa Super não se manifestaram nas
+  fontes abertas.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

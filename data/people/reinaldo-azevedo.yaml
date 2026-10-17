@@ -1,0 +1,42 @@
+id: reinaldo-azevedo
+kind: person
+name: Reinaldo Azevedo
+aliases: []
+category: journalist
+role: Jornalista; apresentou o podcast Reconversa, segundo nota própria de 16/10/2026
+summary: Jornalista. Em nota enviada à TMC e publicada em 16/10/2026, afirmou que o Banco Master patrocinou o
+  podcast Reconversa, que ele apresentava, por meio da empresa Super (assim nomeada na nota), em contrato de
+  março de 2024 de 12 parcelas de R$ 100 mil, das quais sete foram pagas, com todos os valores declarados e os
+  impostos pagos; disse que os entendimentos foram feitos com a área comercial e que seus contratantes sabiam
+  do patrocínio porque ele os avisou. Na mesma nota afirmou que nunca escreveu em defesa do banco, que o podcast não servia aos interesses do banco e que jamais conversou com Daniel Vorcaro ou Fabiano Zettel. A nota responde a prints divulgados no mesmo dia, nas redes sociais, pelo influenciador Paulo Figueiredo, que os atribui a uma conversa de WhatsApp com Fabiano Zettel; nenhum veículo de apuração própria localizado pelo Novelo checou os prints
+  até 17/10/2026, e Vorcaro, Zettel e a empresa Super não se manifestaram. Patrocínio contratado não é, por
+  si, irregularidade, e o Novelo não registra acusação formal contra ele.
+why_in_novelo: Declarou, em nota de 16/10/2026, que o podcast Reconversa, que apresentava, teve patrocínio do
+  Banco Master contratado em março de 2024.
+cited_position:
+  - by_id: reinaldo-azevedo
+    kind: version
+    date: 2026-10-16
+    summary: "Em nota à TMC: o patrocínio foi do podcast, por contrato de março de 2024 de
+      12 parcelas de R$ 100 mil, com a área comercial; “Foram pagas sete parcelas. Todos os valores estão
+      declarados, com os impostos devidamente pagos.” Afirma que “nunca escrevi em defesa do Banco Master”,
+      que o podcast não servia aos interesses do banco e que “jamais conversei com Daniel Vorcaro ou Fabiano
+      Zettel”."
+    source_ids:
+      - src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+      - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+open_questions:
+  - O contrato e os comprovantes de pagamento não são públicos; os valores registrados são os declarados por
+    Azevedo.
+  - Os prints divulgados pelo influenciador não foram autenticados nem checados por veículo de apuração
+    própria até 17/10/2026.
+  - Não foi apurado se a empresa Super citada na nota corresponde a alguma empresa já registrada no acervo; o
+    Novelo não faz essa ligação.
+source_ids:
+  - src-tmc-2026-10-16-reinaldo-azevedo-esclarece-patrocinio-do-banco-master
+  - src-brasil247-2026-10-16-reinaldo-azevedo-esclarece-sua-relacao-comercial-com-o-banco-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17

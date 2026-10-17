@@ -1,0 +1,20 @@
+id: ev-estadao-relata-mensagens-sobre-contrato-de-12-meses-com-gabriela-prioli
+kind: evidence
+classification: A
+proposition: Segundo o Estadão (16/10/2026), mensagens extraídas do celular de Daniel Vorcaro indicariam que
+  Gabriela Prioli gravou vídeos em defesa do Banco Master sob contrato de 12 meses, com roteiros submetidos à
+  aprovação do banqueiro, e mostram a então superintendente de Comunicação e Marketing do banco, Ana Matos,
+  relatando a assinatura do contrato; os diálogos não revelam o valor pago.
+source_ids:
+  - src-estadao-2026-10-16-dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli
+  - src-estadao-terra-2026-10-16-dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli
+attributed_to: Estadão (Aguirre Talento, Luiz Vassallo, Gustavo Côrtes e Vinícius Valfré), 16/10/2026
+date: 2026-10-16
+notes: Alegação de origem única (Estadão; a versão do Terra é republicação). As mensagens não constam de
+  documento público lido pelo Novelo; mensagem em aparelho não prova o que diz. Prioli nega (ver evidência
+  própria).
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-17
+created_at: 2026-10-17
+updated_at: 2026-10-17
