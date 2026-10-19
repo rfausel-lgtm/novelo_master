@@ -1,0 +1,24 @@
+id: ev-cnn-brasil-relata-peticao-da-defesa-de-vorcaro-a-fachin-sobre-vazamento-de-dados-do-celular
+kind: evidence
+classification: A
+proposition: Segundo a CNN Brasil (16/10/2026), a defesa de Daniel Vorcaro pediu ao presidente do STF, Edson
+  Fachin, a abertura de investigação sobre o vazamento de áudios, mensagens e outros conteúdos extraídos do
+  celular apreendido na Operação Compliance Zero; defende que o material obtido por meio dos supostos
+  vazamentos não sirva de base para novas investigações contra ele; pede investigação criminal que identifique
+  agentes públicos com acesso funcional ao aparelho e terceiros que possam ter recebido as informações; e,
+  ainda segundo a reportagem, afirma não confirmar o teor de tudo o que veio a público e sustenta que os
+  conteúdos podem ter sido manipulados.
+source_ids:
+  - src-cnnbrasil-2026-10-16-vorcaro-pede-ao-stf-que-investigue-vazamento-de-dados-de-seu-celular
+attributed_to: Defesa de Daniel Vorcaro, conforme a CNN Brasil (Fernanda Fonseca), 16/10/2026
+date: 2026-10-16
+notes: "Alegação da defesa, relatada pelo veículo; o Novelo não leu a petição e não localizou número de
+  processo, despacho ou resposta do STF, da PF ou da PGR. O Novelo não afirma a autenticidade nem a
+  procedência do material nem a tese da defesa. Cada um dos três veículos relata a peça com apuração própria,
+  mas todos dependem da mesma petição: corroboram o envio e o conteúdo atribuído, não a veracidade do que a
+  defesa alega."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-19
+created_at: 2026-10-19
+updated_at: 2026-10-19

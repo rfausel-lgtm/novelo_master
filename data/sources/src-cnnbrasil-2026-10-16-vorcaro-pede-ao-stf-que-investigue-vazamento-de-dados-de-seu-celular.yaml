@@ -1,0 +1,29 @@
+id: src-cnnbrasil-2026-10-16-vorcaro-pede-ao-stf-que-investigue-vazamento-de-dados-de-seu-celular
+kind: source
+title: Vorcaro pede ao STF que investigue vazamento de dados de seu celular
+publisher: CNN Brasil
+author: Fernanda Fonseca
+publication_date: 2026-10-16
+retrieved_at: 2026-10-19
+url: https://www.cnnbrasil.com.br/politica/vorcaro-pede-ao-stf-que-investigue-vazamento-de-dados-de-seu-celular/
+source_type: press
+language: pt-BR
+summary: Relata que a defesa de Daniel Vorcaro pediu, em 16/10/2026, ao presidente do STF, Edson Fachin, a
+  abertura de investigação sobre o vazamento de áudios, mensagens e outros conteúdos extraídos do celular
+  apreendido na Operação Compliance Zero; descreve os argumentos da petição (acesso restrito das autoridades,
+  conversas com advogados, material que não deveria embasar novas investigações contra ele) e o pedido de
+  investigação criminal que identifique agentes públicos com acesso funcional ao aparelho e terceiros que
+  possam ter recebido as informações. Não traz número de processo, despacho nem posição do STF.
+notes: Aberta com lote:fonte em 19/10/2026 (publicada em 16/10 às 20:05, atualizada em 17/10); texto da
+  petição parafraseado pela reportagem, sem aspas literais usadas pelo Novelo. A página trata também de
+  outros assuntos, que o Novelo não registra.
+verification:
+  checked_at: 2026-10-19
+  checked_by: orquestrador (lote:fonte, leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-19
+created_at: 2026-10-19
+updated_at: 2026-10-19

@@ -1,0 +1,45 @@
+id: rev-2026-10-19-lote-361-defesa-de-vorcaro-pede-a-fachin-investigacao-sobre-vazamento-do-celular
+kind: revision
+date: 2026-10-19
+title: Lote 361 — Defesa de Vorcaro pede ao presidente do STF, Fachin, investigação criminal sobre a
+  divulgação de dados do celular (alegação atribuída)
+summary: 'Lote curto, só com alegação atribuída. O que NÃO se afirma, em destaque: o Novelo não leu a petição
+  e não afirma a autenticidade, a procedência ou a licitude do material extraído do celular de Daniel Vorcaro,
+  nem a tese da defesa de que ele não pode embasar novas investigações; não registra o conteúdo de nenhuma
+  mensagem ou áudio, inclusive das conversas com advogados, nem o assunto das divulgações; não nomeia os
+  "agentes públicos" ou "terceiros" a que a defesa se refere; não liga a petição a nenhum outro registro do
+  acervo; e distingue o pedido do que levou à decisão de 06/03/2026 do relator André Mendonça na Pet 15612
+  (classe D, já no acervo). O evento: segundo CNN Brasil (16/10), O Tempo (17/10) e Agência
+  Brasil (16/10), a defesa enviou ao presidente do STF, Edson Fachin, na sexta-feira 16/10/2026, petição
+  pedindo investigação criminal ampla sobre a divulgação de dados do celular apreendido na Operação Compliance
+  Zero, para identificar os responsáveis ("agentes públicos" ou "terceiros"), alegando violação do sigilo
+  advogado-cliente e sustentando que o material não pode embasar novas investigações contra Vorcaro. Três
+  evidências de classe A, uma por veículo com apuração própria (a republicação do Poder360 não é registrada
+  e não corrobora); evento `unverified`. Posições: Fachin/STF, PF, PGR e Mendonça `not_located`; não foram
+  localizados número de processo, relator, despacho nem parecer. Nenhuma pessoa, organização, relação ou
+  sequência nova; nenhum registro existente alterado.'
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 0
+  relationships: 0
+  sources: 3
+  evidence: 3
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-cnnbrasil-2026-10-16-vorcaro-pede-ao-stf-que-investigue-vazamento-de-dados-de-seu-celular
+  - src-otempo-2026-10-17-vorcaro-fala-em-nulidade-e-cobra-que-pf-investigue-mensagens-vazadas-de-seu-celular
+  - src-agenciabrasil-2026-10-16-defesa-de-vorcaro-pede-investigacao-sobre-vazamento-de-conversas
+  - ev-cnn-brasil-relata-peticao-da-defesa-de-vorcaro-a-fachin-sobre-vazamento-de-dados-do-celular
+  - ev-o-tempo-relata-peticao-da-defesa-de-vorcaro-a-fachin-com-trechos-literais
+  - ev-agencia-brasil-relata-peticao-da-defesa-de-vorcaro-ao-presidente-do-stf
+  - evt-2026-10-16-defesa-de-vorcaro-pede-a-fachin-investigacao-criminal-sobre-vazamentos
+reason: 'Liberação "pedido da defesa de Vorcaro ao STF sobre vazamentos" (investigador e chefe, 19/10/2026):
+  petição real, recente e noticiada por três veículos com apuração própria, sem documento primário localizado;
+  entra só como alegação atribuída, `unverified`, com contraditório `not_located`.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-19

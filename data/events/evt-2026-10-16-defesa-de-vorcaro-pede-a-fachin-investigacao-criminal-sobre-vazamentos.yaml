@@ -1,0 +1,85 @@
+id: evt-2026-10-16-defesa-de-vorcaro-pede-a-fachin-investigacao-criminal-sobre-vazamentos
+kind: event
+title: Defesa de Vorcaro pede ao presidente do STF, Fachin, investigação criminal sobre a divulgação de dados
+  do celular
+event_type: statement
+date: 2026-10-16
+date_precision: day
+participant_ids:
+  - daniel-vorcaro
+  - edson-fachin
+  - supremo-tribunal-federal
+description: 'Segundo CNN Brasil, O Tempo e Agência Brasil, que relatam o conteúdo da petição, a defesa de
+  Daniel Vorcaro enviou ao STF, na sexta-feira 16/10/2026, petição dirigida ao presidente da Corte, Edson
+  Fachin, pedindo a abertura de investigação sobre a divulgação de áudios, mensagens e outros conteúdos
+  extraídos do celular apreendido na Operação Compliance Zero. Segundo os veículos, a defesa requer uma
+  "investigação criminal ampla" (O Tempo) que identifique os responsáveis, "agentes públicos" ou "terceiros";
+  afirma que circulam conversas de Vorcaro com seus advogados, o que violaria o sigilo advogado-cliente;
+  sustenta que o material divulgado não pode embasar novas investigações contra ele, sendo a "única
+  repercussão jurídica" a instauração de inquérito para apurar os responsáveis (Agência Brasil); e fala em "processo de linchamento público"
+  (Agência Brasil) e "espetacularização midiática" (O Tempo). Segundo a CNN Brasil, a defesa também diz não
+  confirmar o teor de tudo o que veio a público e sustenta que os conteúdos podem ter sido manipulados. Tudo
+  isso é alegação da defesa: o Novelo não leu a petição e não afirma a autenticidade nem a procedência do
+  material, nem a tese de que ele não possa ser usado. Não foram localizados número de processo, despacho ou
+  manifestação de Fachin, do STF, da PF ou da PGR. É pedido distinto do que levou à decisão de 06/03/2026 do
+  relator André Mendonça na Pet 15612 (inquérito autuado como Pet 15.625; ver
+  evt-2026-03-06-mendonca-inquerito-vazamento): este é de outubro e dirigido à Presidência do STF. Nenhuma das
+  reportagens diz que ele se ligue àquele inquérito, e o Novelo não faz essa ligação.'
+evidence_class: A
+status: unverified
+evidence_ids:
+  - ev-cnn-brasil-relata-peticao-da-defesa-de-vorcaro-a-fachin-sobre-vazamento-de-dados-do-celular
+  - ev-o-tempo-relata-peticao-da-defesa-de-vorcaro-a-fachin-com-trechos-literais
+  - ev-agencia-brasil-relata-peticao-da-defesa-de-vorcaro-ao-presidente-do-stf
+source_ids:
+  - src-cnnbrasil-2026-10-16-vorcaro-pede-ao-stf-que-investigue-vazamento-de-dados-de-seu-celular
+  - src-otempo-2026-10-17-vorcaro-fala-em-nulidade-e-cobra-que-pf-investigue-mensagens-vazadas-de-seu-celular
+  - src-agenciabrasil-2026-10-16-defesa-de-vorcaro-pede-investigacao-sobre-vazamento-de-conversas
+document_ids: []
+public_act_ids: []
+cited_position:
+  - by_id: daniel-vorcaro
+    kind: version
+    date: 2026-10-16
+    summary: "Pela defesa, na petição ao presidente do STF: pede investigação criminal dos responsáveis pela
+      divulgação do material do celular e sustenta que ele não pode embasar novas investigações contra Vorcaro
+      (versão da defesa, relatada pelos três veículos)."
+    source_ids:
+      - src-cnnbrasil-2026-10-16-vorcaro-pede-ao-stf-que-investigue-vazamento-de-dados-de-seu-celular
+      - src-otempo-2026-10-17-vorcaro-fala-em-nulidade-e-cobra-que-pf-investigue-mensagens-vazadas-de-seu-celular
+      - src-agenciabrasil-2026-10-16-defesa-de-vorcaro-pede-investigacao-sobre-vazamento-de-conversas
+  - by_id: edson-fachin
+    kind: not_located
+    date: 2026-10-19
+    summary: Destinatário da petição. Nenhuma das três reportagens e nenhuma busca em 19/10/2026 localizou
+      despacho, decisão ou nota de Fachin ou do STF sobre o pedido.
+    source_ids:
+      - src-cnnbrasil-2026-10-16-vorcaro-pede-ao-stf-que-investigue-vazamento-de-dados-de-seu-celular
+      - src-otempo-2026-10-17-vorcaro-fala-em-nulidade-e-cobra-que-pf-investigue-mensagens-vazadas-de-seu-celular
+      - src-agenciabrasil-2026-10-16-defesa-de-vorcaro-pede-investigacao-sobre-vazamento-de-conversas
+  - by_id: policia-federal
+    kind: not_located
+    date: 2026-10-19
+    summary: Nenhuma nota ou manifestação da Polícia Federal sobre esta petição foi localizada nas três
+      reportagens nem em busca de 19/10/2026.
+    source_ids:
+      - src-agenciabrasil-2026-10-16-defesa-de-vorcaro-pede-investigacao-sobre-vazamento-de-conversas
+  - by: Procuradoria-Geral da República
+    kind: not_located
+    date: 2026-10-19
+    summary: Nenhum parecer ou manifestação da PGR sobre esta petição foi localizado nas três reportagens nem em
+      busca de 19/10/2026.
+    source_ids:
+      - src-agenciabrasil-2026-10-16-defesa-de-vorcaro-pede-investigacao-sobre-vazamento-de-conversas
+  - by_id: andre-mendonca
+    kind: not_located
+    date: 2026-10-19
+    summary: Relator da Pet 15612 (decisão de 06/03/2026); as reportagens de 16 e 17/10 não o citam em relação a esta petição,
+      e nenhuma manifestação dele sobre ela foi localizada.
+    source_ids:
+      - src-otempo-2026-10-17-vorcaro-fala-em-nulidade-e-cobra-que-pf-investigue-mensagens-vazadas-de-seu-celular
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-19
+created_at: 2026-10-19
+updated_at: 2026-10-19
