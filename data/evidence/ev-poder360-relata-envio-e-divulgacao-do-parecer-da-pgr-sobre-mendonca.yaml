@@ -1,0 +1,17 @@
+id: ev-poder360-relata-envio-e-divulgacao-do-parecer-da-pgr-sobre-mendonca
+kind: evidence
+classification: A
+proposition: Segundo o Poder360 (19/10/2026), a PGR encaminhou o parecer ao STF no sábado, 17/10/2026, em
+  resposta ao pedido de manifestação do presidente Edson Fachin sobre a representação de Moraes; o veículo
+  divulgou a íntegra em 19/10 e registra que, mesmo com o parecer, a decisão final cabe ao Plenário do STF.
+source_ids:
+  - src-poder360-2026-10-19-pgr-rejeita-abuso-de-autoridade-em-conduta-de-mendonca-no-caso-master
+attributed_to: Poder360, 19/10/2026
+date: 2026-10-19
+notes: Reportagem que tem o próprio parecer como base; não corrobora o teor de forma independente, só a data
+  de envio e a divulgação.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-20
+created_at: 2026-10-20
+updated_at: 2026-10-20

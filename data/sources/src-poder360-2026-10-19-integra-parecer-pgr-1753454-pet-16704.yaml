@@ -1,0 +1,32 @@
+id: src-poder360-2026-10-19-integra-parecer-pgr-1753454-pet-16704
+kind: source
+title: Parecer da PGR (ASSCRIM/PGR n. 1753454/2026) na Pet 16.704, de 17/10/2026 (PDF)
+publisher: Poder360 (reprodução de documento da PGR)
+publication_date: 2026-10-19
+retrieved_at: 2026-10-20
+url: https://static.poder360.com.br/uploads/2026/10/PGR-nao-ve-abuso-de-autroridade-de-Mendonca-19-out-2026.pdf
+source_type: official_prosecutor
+language: pt-BR
+summary: Íntegra, hospedada pelo Poder360, da manifestação da Procuradoria-Geral da República dirigida ao
+  presidente do STF, Edson Fachin, na Pet 16.704, datada de "Brasília, 17 de outubro de 2026" e assinada
+  eletronicamente nesse dia por Paulo Gonet Branco, Hindenburgo Chateaubriand Filho, Antônio Edílio Magalhães
+  Teixeira e André de Carvalho Ramos. Responde à vista sobre os Docs. 161, 163, 166, 175, 180, 184, 189 e 194;
+  no Doc. 180, que trata da representação de Alexandre de Moraes contra André Mendonça, conclui que ela "não
+  apresenta condições de ter seguimento", ressalvado o entendimento do Plenário.
+notes: Aberta com lote:fonte em 20/10/2026 (PDF, texto extraído com pdftotext; sha256 do arquivo
+  08e1a0fa4fdb2504...). É documento primário reproduzido por veículo, não URL oficial do MPF; o cabeçalho traz
+  a marca "Sigiloso" e a página de certificação, com chave de validação no portal de transparência do MPF, que
+  o Novelo não consultou; por isso o parecer entra como fonte e evidência de classe A, sem documento próprio
+  (mesmo critério do despacho do TCU de 24/03/2026, lote 355). O Novelo registra só a parte do Doc. 180; os demais itens (pedidos de revisão de
+  prisões, petição da OAB e outras) não entram neste lote.
+verification:
+  checked_at: 2026-10-20
+  checked_by: orquestrador (lote:fonte, leitura integral do texto extraído)
+  url_reachable: true
+  content_matches_summary: true
+  notes: cópia; marca "Sigiloso"; chave de validação no portal do MPF não conferida.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-20
+created_at: 2026-10-20
+updated_at: 2026-10-20

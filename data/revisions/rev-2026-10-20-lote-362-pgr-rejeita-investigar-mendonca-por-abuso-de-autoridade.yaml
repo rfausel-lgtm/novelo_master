@@ -1,0 +1,45 @@
+id: rev-2026-10-20-lote-362-pgr-rejeita-investigar-mendonca-por-abuso-de-autoridade
+kind: revision
+date: 2026-10-20
+title: Lote 362 — PGR opina que a representação de Moraes contra Mendonça por abuso de autoridade não tem
+  condições de seguimento (parecer na Pet 16.704); a decisão é do Plenário do STF
+summary: 'Lote curto, de camada A (alegação atribuída). O que NÃO se afirma, em destaque: o parecer é
+  opinião do Ministério Público, não decisão; o Novelo não afirma o mérito da representação de Moraes nem da
+  resposta de Mendonça, e não localizou decisão do Plenário, a quem cabe autorizar ou recusar investigação de
+  integrante do STF. O evento: segundo a íntegra divulgada pelo Poder360, em 17/10/2026, parecer da PGR (ASSCRIM/PGR n. 1753454/2026, assinado por Paulo Gonet Branco,
+  Hindenburgo Chateaubriand Filho, Antônio Edílio Magalhães Teixeira e André de Carvalho Ramos) dirigido a
+  Fachin na Pet 16.704 conclui, quanto ao Doc. 180, que a representação "não apresenta condições de ter
+  seguimento", por não parecer demonstrar conduta enquadrável na Lei de Abuso de Autoridade; registra também que os
+  relatórios da PF "sugerem direção das investigações com vieses desafeiçoados da posição de neutralidade do
+  magistrado", que não têm valor probatório e que crimes de responsabilidade cabem ao Senado. Íntegra
+  reproduzida pelo Poder360 em 19/10; como a cópia traz a marca "Sigiloso" e a chave de validação do MPF não
+  foi conferida, o parecer entra como fonte e evidência de classe A, sem documento próprio, e o evento como
+  A/unverified (mesmo critério do despacho do TCU no lote 355); reportagem do Poder360 como fonte da data de envio e da divulgação. Posições: PGR (o
+  parecer), Moraes (a representação de 03/09) e Mendonça (a resposta nos autos, segundo o resumo da PGR) com o
+  mesmo destaque; Fachin `not_located`. Os outros sete documentos tratados no parecer ficam de fora. Nenhuma
+  pessoa, organização ou relação nova; a relação Moraes–Mendonça recebe o parecer e a resposta de Mendonça
+  nos autos, e o texto antigo sobre a falta de manifestação dele passa a ter data (até 15/09/2026).'
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 0
+  relationships: 0
+  sources: 2
+  evidence: 2
+updated_relationships: 1
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-poder360-2026-10-19-integra-parecer-pgr-1753454-pet-16704
+  - src-poder360-2026-10-19-pgr-rejeita-abuso-de-autoridade-em-conduta-de-mendonca-no-caso-master
+  - ev-parecer-pgr-de-17-10-diz-que-representacao-de-moraes-contra-mendonca-nao-tem-condicoes-de-seguimento
+  - ev-poder360-relata-envio-e-divulgacao-do-parecer-da-pgr-sobre-mendonca
+  - evt-2026-10-17-pgr-opina-que-representacao-de-moraes-contra-mendonca-nao-tem-condicoes-de-seguimento
+  - rel-alexandre-de-moraes-andre-mendonca-allegation
+reason: "Radar de 20/10/2026: documento primário (íntegra do parecer) e reportagem com data de envio, sobre
+  procedimento já registrado no acervo (Pet 16.704); entra como ato do Ministério Público, sem juízo de
+  mérito, com o contraditório dos dois ministros."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-20

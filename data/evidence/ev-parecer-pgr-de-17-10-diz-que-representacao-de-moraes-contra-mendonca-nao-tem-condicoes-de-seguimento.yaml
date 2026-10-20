@@ -1,0 +1,35 @@
+id: ev-parecer-pgr-de-17-10-diz-que-representacao-de-moraes-contra-mendonca-nao-tem-condicoes-de-seguimento
+kind: evidence
+classification: A
+proposition: Segundo a íntegra do parecer da PGR de 17/10/2026 na Pet 16.704 divulgada pelo Poder360, a
+  Procuradoria registrou, quanto ao Doc. 180, que Mendonça reage ao pedido de investigação de Moraes dizendo
+  que ele se embasa em relatórios internos da PF imprestáveis para esse fim; afirmou que os relatórios não
+  geraram diligências investigatórias da PF e que eles próprios advertem não ter valor probatório; escreveu
+  que "Os relatórios sugerem direção das investigações com vieses desafeiçoados da posição de neutralidade do
+  magistrado incumbido de supervisionar os procedimentos policiais"; afirmou que a representação "não parece
+  demonstrar que a conduta possa ser reconduzida a ato punido por algum tipo da Lei n. 13.869/2019";
+  observou que crimes de responsabilidade são da competência do Senado e que ações por improbidade escapam
+  da prévia autorização do Plenário; e concluiu que a representação "não apresenta condições de ter
+  seguimento, ressalvado entendimento em contrário do Plenário".
+source_ids:
+  - src-poder360-2026-10-19-integra-parecer-pgr-1753454-pet-16704
+attributed_to: Parecer da PGR (ASSCRIM/PGR n. 1753454/2026), em cópia divulgada pelo Poder360 em 19/10/2026
+  (chave de validação do MPF não conferida)
+excerpt: Ao ver da Procuradoria-Geral da República, portanto, a representação não apresenta condições de ter
+  seguimento, ressalvado entendimento em contrário do Plenário, titular da decisão de admitir ou recusar
+  autorização para investigar integrante da Corte.
+date: 2026-10-17
+locator: Seção "Doc. 180" do parecer
+notes: Classe A, e não D, pelo mesmo critério aplicado ao despacho do TCU de 24/03/2026 (lote 355) e pela regra
+  de documento sigiloso das OSINT_GUIDELINES; o cabeçalho traz a marca "Sigiloso", o Novelo leu só a cópia
+  hospedada pelo Poder360, não conferiu a chave de validação no portal do MPF e não localizou a peça em autos
+  públicos nem divulgada pelo próprio órgão. Conferida a chave ou localizada a peça em fonte oficial, o
+  parecer pode virar documento próprio e a evidência subir a D. É opinião do Ministério Público, não decisão;
+  não é juízo do Novelo sobre a conduta de Mendonça nem de Moraes. A frase sobre os "vieses" é do parecer e
+  descreve o que, segundo a PGR, os relatórios sugerem; na mesma passagem, a PGR conclui pela falta de
+  enquadramento na Lei de Abuso de Autoridade.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-20
+created_at: 2026-10-20
+updated_at: 2026-10-20

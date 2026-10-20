@@ -1,0 +1,84 @@
+id: evt-2026-10-17-pgr-opina-que-representacao-de-moraes-contra-mendonca-nao-tem-condicoes-de-seguimento
+kind: event
+title: Segundo íntegra divulgada pelo Poder360, PGR opina ao STF que a representação de Moraes contra Mendonça por abuso de autoridade não tem
+  condições de seguimento (parecer na Pet 16.704)
+event_type: public_act
+date: 2026-10-17
+date_precision: day
+participant_ids:
+  - ministerio-publico-federal
+  - paulo-gonet
+  - alexandre-de-moraes
+  - andre-mendonca
+  - edson-fachin
+  - supremo-tribunal-federal
+description: 'Segundo a íntegra divulgada pelo Poder360 em 19/10/2026 (cópia com a marca "Sigiloso", cuja
+  chave de validação no portal do MPF o Novelo não conferiu), em 17/10/2026, em parecer dirigido ao
+  presidente do STF, Edson Fachin, na Pet 16.704 (ASSCRIM/PGR n. 1753454/2026, assinado por Paulo Gonet
+  Branco, Hindenburgo Chateaubriand Filho, Antônio Edílio Magalhães Teixeira e André de Carvalho Ramos), a
+  Procuradoria-Geral da República tratou do Doc. 180,
+  em que, segundo o parecer, Mendonça reage ao pedido de investigação deduzido por Moraes (ver
+  evt-2026-09-03-moraes-pede-providencias-contra-mendonca e
+  evt-2026-09-04-fachin-avoca-pedido-moraes-contra-mendonca). A PGR afirma que os relatórios internos da PF
+  não geraram diligências investigatórias e advertem não ter valor probatório; registra que "Os relatórios
+  sugerem direção das investigações com vieses desafeiçoados da posição de neutralidade do magistrado
+  incumbido de supervisionar os procedimentos policiais"; mas afirma que a representação "não parece
+  demonstrar que a conduta possa ser reconduzida a ato punido por algum tipo da Lei n. 13.869/2019", a Lei de
+  Abuso de Autoridade, tema que diz caber examinar naquele momento. Observa que crimes de responsabilidade são
+  da competência do Senado Federal e que ações por improbidade escapam da prévia autorização do Plenário.
+  Conclui que a representação "não apresenta condições de ter seguimento, ressalvado entendimento em contrário
+  do Plenário". O parecer é opinião do Ministério Público, não decisão: segundo o próprio documento, o
+  Plenário do STF é o titular da decisão de admitir ou recusar autorização para investigar integrante da
+  Corte, e até 20/10/2026 não foi localizada decisão sobre o tema. Segundo o Poder360, o parecer foi
+  encaminhado ao STF em 17/10/2026. O mesmo parecer trata de outros sete documentos dos autos, não registrados neste evento. O
+  Novelo não afirma o mérito da representação nem da resposta de Mendonça.'
+evidence_class: A
+status: unverified
+evidence_ids:
+  - ev-parecer-pgr-de-17-10-diz-que-representacao-de-moraes-contra-mendonca-nao-tem-condicoes-de-seguimento
+  - ev-poder360-relata-envio-e-divulgacao-do-parecer-da-pgr-sobre-mendonca
+source_ids:
+  - src-poder360-2026-10-19-integra-parecer-pgr-1753454-pet-16704
+  - src-poder360-2026-10-19-pgr-rejeita-abuso-de-autoridade-em-conduta-de-mendonca-no-caso-master
+document_ids: []
+public_act_ids: []
+cited_position:
+  - by_id: ministerio-publico-federal
+    kind: version
+    date: 2026-10-17
+    summary: O próprio parecer, assinado pelo PGR Paulo Gonet e por outros três membros, é a posição da
+      Procuradoria-Geral da República.
+    source_ids:
+      - src-poder360-2026-10-19-integra-parecer-pgr-1753454-pet-16704
+  - by_id: alexandre-de-moraes
+    kind: version
+    date: 2026-09-03
+    summary: Autor da representação. Em 03/09/2026 apontou "fortes indícios" de abuso de autoridade e possível
+      crime de responsabilidade por parte de Mendonça, com base em relatórios da PF (posição já registrada no
+      acervo e retomada pelo Poder360 em 19/10). A reportagem de 19/10 não traz manifestação dele sobre o
+      parecer, e busca na web em 20/10/2026 não localizou nenhuma.
+    source_ids:
+      - src-poder360-2026-10-19-pgr-rejeita-abuso-de-autoridade-em-conduta-de-mendonca-no-caso-master
+      - src-poder360-2026-09-03-pf-assimetria-decisoes-mendonca
+  - by_id: andre-mendonca
+    kind: version
+    date: 2026-10-17
+    summary: Segundo o resumo do parecer (Doc. 180), Mendonça reagiu nos autos ao pedido de Moraes dizendo, em
+      suma, que ele está embasado em relatórios internos da PF imprestáveis para o fim a que lhes foi dado. O
+      Novelo não leu a manifestação dele; a reportagem de 19/10 não traz posição dele sobre o parecer, e busca
+      na web em 20/10/2026 não localizou nenhuma.
+    source_ids:
+      - src-poder360-2026-10-19-integra-parecer-pgr-1753454-pet-16704
+      - src-poder360-2026-10-19-pgr-rejeita-abuso-de-autoridade-em-conduta-de-mendonca-no-caso-master
+  - by_id: edson-fachin
+    kind: not_located
+    date: 2026-10-20
+    summary: Destinatário do parecer. Nem o parecer nem a reportagem de 19/10 registram decisão ou despacho de
+      Fachin ou do Plenário sobre ele; busca na web em 20/10/2026 não localizou nenhum.
+    source_ids:
+      - src-poder360-2026-10-19-pgr-rejeita-abuso-de-autoridade-em-conduta-de-mendonca-no-caso-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-20
+created_at: 2026-10-20
+updated_at: 2026-10-20
