@@ -1,0 +1,32 @@
+id: src-poder360-2026-09-24-integra-decisao-adi-7791-requisita-inquerito-pf-cvm
+kind: source
+title: Decisão de Flávio Dino na ADI 7.791, de 24/09/2026, que requisita à PF inquérito sobre a atuação da CVM (PDF)
+publisher: Poder360 (reprodução de decisão do STF)
+publication_date: 2026-09-24
+retrieved_at: 2026-10-21
+url: https://static.poder360.com.br/uploads/2026/09/ADI-7791-decisao-Dino-pede-investigacao-CVM-caso-Master-24set2026.pdf
+source_type: press
+language: pt-BR
+summary: Íntegra, hospedada pelo Poder360, da decisão monocrática do relator da ADI 7.791 no STF, Flávio Dino,
+  datada de "Brasília, 24 de setembro de 2026", com "Publique-se" e assinatura digital (código de
+  autenticidade 7945-FE6E-EABB-E40B no portal do STF). Em aditamento à decisão interlocutória de 20/09/2026
+  (eDOC 190) e com base no relatório do grupo de trabalho da CVM (eDOC 182), requisita à Polícia Federal a
+  instauração de inquérito policial, determina à CVM o envio em 72 horas da cópia integral do Processo SEI nº
+  19957.001206/2022-08 e informações sobre seu trâmite, e dá ciência à PGR. Nove páginas.
+notes: Aberta com lote:fonte em 21/10/2026; o texto extraído pelo pdftotext saiu ilegível (fonte embutida sem
+  mapa Unicode). O Novelo renderizou as nove páginas como imagem (pypdfium2) e leu-as integralmente; a
+  transcrição literal dos trechos usados (cabeçalho, seção I, seção III e dispositivo) foi registrada no cache
+  com lote:fonte --texto. sha256 do PDF b2d48efa83eea4fd.... É cópia reproduzida por veículo, não URL do
+  portal do STF; o código de autenticidade não foi conferido no portal (a conferência exige preencher
+  formulário). A decisão traz "Publique-se" e não tem marca de sigilo.
+verification:
+  checked_at: 2026-10-21
+  checked_by: orquestrador (leitura visual integral das 9 páginas renderizadas)
+  url_reachable: true
+  content_matches_summary: true
+  notes: cópia do Poder360; código de autenticidade do STF não conferido no portal.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-21
+created_at: 2026-10-21
+updated_at: 2026-10-21

@@ -1,0 +1,27 @@
+id: src-dgabc-2026-09-24-no-stf-dino-manda-pf-investigar-cvm-no-caso-master
+kind: source
+title: No STF, Dino manda PF investigar CVM por omissão no caso Master
+publisher: Diário do Grande ABC
+publication_date: 2026-09-24
+retrieved_at: 2026-10-21
+url: https://www.dgabc.com.br/Noticia/4348930/no-stf-dino-manda-pf-investigar-cvm-por-omissao-no-caso-master
+source_type: press
+language: pt-BR
+summary: Noticia a decisão de 24/09/2026 na ADI 7.791; reproduz que, segundo a decisão, a denúncia encaminhada
+  pelo FGC em 2022 foi classificada como "denúncia anônima desprovida de elementos suficientes para justificar
+  o prosseguimento da apuração"; e registra a decisão de 20/09 sobre avaliação técnica do arcabouço da CVM em
+  90 dias.
+notes: Aberta com lote:fonte em 21/10/2026. O texto coincide em grande parte com o publicado por O Povo em
+  25/09 (mesma redação de agência); não são fontes independentes entre si. O título e uma frase final usam
+  formulações próprias do veículo ("omissão" e uma afirmação sobre o uso dos fundos pelo banco) que o Novelo
+  não adota.
+verification:
+  checked_at: 2026-10-21
+  checked_by: orquestrador (lote:fonte, leitura integral)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-21
+created_at: 2026-10-21
+updated_at: 2026-10-21

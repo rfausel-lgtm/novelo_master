@@ -1,0 +1,17 @@
+id: ev-imprensa-relata-que-a-cvm-se-disse-mobilizada-para-cumprir-a-decisao-de-24-09
+kind: evidence
+classification: A
+proposition: Segundo nota publicada por O Povo em 25/09/2026, a CVM informou, na tarde de 24/09/2026, que estava mobilizada para atender à determinação do
+  STF de enviar em 72 horas o material do processo arquivado.
+source_ids:
+  - src-opovo-2026-09-25-farol-dino-manda-pf-investigar-cvm-no-caso-master
+attributed_to: O Povo, 25/09/2026
+date: 2026-09-24
+notes: Relato indireto da posição da CVM, de fonte única (o Diário do Grande ABC, que usa a mesma redação de
+  agência sobre a decisão, não traz essa frase); o Novelo não localizou nota própria da autarquia sobre a decisão nem
+  notícia sobre o cumprimento do prazo de 72 horas até 21/10/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-21
+created_at: 2026-10-21
+updated_at: 2026-10-21

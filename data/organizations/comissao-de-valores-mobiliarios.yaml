@@ -20,7 +20,12 @@ summary: 'Autarquia federal responsável pela regulação e fiscalização do me
   o Colegiado condenou o diretor presidente e o diretor financeiro da REAG Capital Holding S.A. à multa de R$ 170 mil
   cada, por infração formal: não elaborar demonstrações financeiras e ITR (evento de 29/09). A pauta atualizada em
   09/10/2026 inclui, para 03/11/2026, o PAS contra a Reag Trust DTVM (hoje CBSF DTVM) e Ramon Pessoa Dantas, seu
-  diretor responsável pela administração de carteiras à época dos fatos, ainda sem julgamento (evento de 03/11).'
+  diretor responsável pela administração de carteiras à época dos fatos, ainda sem julgamento (evento de 03/11).
+  Em 24/09/2026, com base no relatório do grupo de trabalho, o relator da ADI 7.791 no STF, Flávio Dino,
+  requisitou à Polícia Federal inquérito sobre os fatos descritos na decisão, entre eles o arquivamento do
+  Processo SEI nº 19957.001206/2022-08, aberto em 18/02/2022 a partir de comunicação do FGC sobre o Grupo Master,
+  e deu à CVM 72 horas para enviar o processo e informar quem o analisou e arquivou; a decisão não nomeia
+  investigados e não é condenação (evento de 24/09). Segundo O Povo, a CVM disse estar mobilizada para cumprir.'
 why_in_novelo: Regulador do mercado de capitais que processou repetidamente as empresas e pessoas do caso
   Master antes do colapso, e cuja atuação passou a ser questionada no Senado.
 cited_position:
@@ -32,6 +37,14 @@ cited_position:
   - src-senado-2026-02-24-cae-ouve-presidente-interino-da-cvm
   by_id: comissao-de-valores-mobiliarios
   date: '2026-02-24'
+- kind: public_note
+  summary: Segundo O Povo (25/09/2026), na tarde de 24/09/2026 a CVM informou estar mobilizada para atender à
+    decisão da ADI 7.791 que lhe deu 72 horas para enviar ao STF o Processo SEI nº 19957.001206/2022-08. Buscas
+    na web em 21/10/2026 não localizaram nota própria da autarquia sobre o mérito nem notícia sobre o envio.
+  source_ids:
+  - src-opovo-2026-09-25-farol-dino-manda-pf-investigar-cvm-no-caso-master
+  by_id: comissao-de-valores-mobiliarios
+  date: '2026-09-24'
 open_questions:
 - A CVM nunca deu explicação pública sobre o PAS 19957.008699/2019-01, o processo sobre desvio de recursos
   de regimes próprios de previdência, que segue sem julgamento desde 2016 e sequer consta da apresentação
@@ -43,6 +56,9 @@ open_questions:
 - O Colegiado condenou, em 29/09/2026, o diretor presidente e o diretor financeiro da REAG Capital Holding por
   não elaborarem demonstrações e ITR; o recurso ao CRSFN e a sessão de 03/11/2026 (Reag Trust/CBSF e Ramon
   Pessoa Dantas) estão em aberto.
+- Até 21/10/2026 não foi localizada notícia de que a CVM tenha enviado ao STF, no prazo de 72 horas, o Processo
+  SEI nº 19957.001206/2022-08 e as informações pedidas na decisão de 24/09/2026, nem de que a PF tenha
+  instaurado o inquérito requisitado (número e relatório de 60 dias).
 source_ids:
 - src-cvm-2020-12-01-decisao-tc-debentures
 - src-cvm-processos-a-julgar-por-relator
@@ -54,11 +70,13 @@ source_ids:
 - src-cvm-2026-comite-de-riscos-recomendacoes-gt-master
 - src-cvm-2026-10-02-cvm-multa-neo-in-e-administradores-da-reag-capital-holdings
 - src-cvm-2026-10-09-pauta-de-sessoes-de-julgamentos-de-processos-administrativos-sancionadores
+- src-poder360-2026-09-24-integra-decisao-adi-7791-requisita-inquerito-pf-cvm
+- src-opovo-2026-09-25-farol-dino-manda-pf-investigar-cvm-no-caso-master
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-10-16'
+reviewed_at: '2026-10-21'
 created_at: '2026-09-03'
-updated_at: '2026-10-16'
+updated_at: '2026-10-21'
 photo:
   path: /fotos/comissao-de-valores-mobiliarios.png
   source: Wikimedia Commons

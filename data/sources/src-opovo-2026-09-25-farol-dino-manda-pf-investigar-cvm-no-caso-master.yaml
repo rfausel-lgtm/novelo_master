@@ -1,0 +1,26 @@
+id: src-opovo-2026-09-25-farol-dino-manda-pf-investigar-cvm-no-caso-master
+kind: source
+title: Coluna Farol, edição de 25/09/2026 (nota "Dino manda PF investigar CVM no caso Master")
+publisher: O Povo
+publication_date: 2026-09-25
+retrieved_at: 2026-10-21
+url: https://mais.opovo.com.br/jornal/farol/2026/09/25/cnj-faz-operacao-em-gabinete-de-desembargador-ligado-a-nunes-marques.html
+source_type: press
+language: pt-BR
+summary: Edição impressa de 25/09/2026; a nota sobre a CVM relata a decisão de 24/09 na ADI 7.791 e registra
+  que, na tarde de 24/09, a CVM informou estar mobilizada para atender à determinação.
+notes: Aberta com lote:fonte em 21/10/2026. Só a nota sobre a CVM é usada; os demais itens da página ficam de
+  fora; o título da página (manchete de outro item da coluna) não é reproduzido aqui. O texto sobre a decisão
+  coincide em grande parte com o do Diário do Grande ABC (mesma redação de agência; não são fontes independentes
+  entre si), mas a frase sobre a CVM estar mobilizada só aparece em O Povo. Formulações próprias do texto sobre o banco não são
+  adotadas pelo Novelo. O cache guarda o texto com entidades HTML.
+verification:
+  checked_at: 2026-10-21
+  checked_by: orquestrador (lote:fonte, leitura do trecho)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-21
+created_at: 2026-10-21
+updated_at: 2026-10-21

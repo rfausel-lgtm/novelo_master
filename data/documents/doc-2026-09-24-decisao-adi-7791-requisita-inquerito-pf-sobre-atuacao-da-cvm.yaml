@@ -1,0 +1,36 @@
+id: doc-2026-09-24-decisao-adi-7791-requisita-inquerito-pf-sobre-atuacao-da-cvm
+kind: document
+title: Decisão do relator da ADI 7.791 que requisita à PF inquérito sobre a atuação da CVM e o arquivamento do
+  Processo SEI nº 19957.001206/2022-08
+doc_type: judicial_decision
+date: 2026-09-24
+date_precision: day
+source_ids:
+  - src-poder360-2026-09-24-integra-decisao-adi-7791-requisita-inquerito-pf-cvm
+summary: "Decisão de Flávio Dino, relator da ADI 7.791 no STF, em aditamento à decisão interlocutória de
+  20/09/2026 (eDOC 190). Com base no relatório do grupo de trabalho da CVM (eDOC 182, 314 processos de 2017 a
+  2026), registra que o Processo SEI nº 19957.001206/2022-08, instaurado em 18/02/2022 a partir de comunicação
+  formal do FGC com denúncia relativa ao Grupo Master, foi classificado pela área técnica como denúncia
+  anônima sem elementos suficientes e arquivado. No dispositivo: (i) requisita à PF a instauração de inquérito
+  policial (art. 5º, II, do CPP); (ii) manda a autoridade policial informar o número do inquérito e apresentar
+  relatório em 60 dias; (iii) manda a CVM enviar em 72 horas cópia integral do processo; (iv) manda a CVM
+  informar, no mesmo prazo, unidades com acesso, agentes responsáveis pela análise e pelo arquivamento, regime
+  de sigilo, compartilhamento e providências posteriores; ciência à PGR."
+is_official: true
+related_entity_ids:
+  - flavio-dino
+  - supremo-tribunal-federal
+  - comissao-de-valores-mobiliarios
+  - policia-federal
+  - fgc
+issuer_id: supremo-tribunal-federal
+issuer: Ministro Flávio Dino, relator da ADI 7.791 no STF
+url: https://static.poder360.com.br/uploads/2026/09/ADI-7791-decisao-Dino-pede-investigacao-CVM-caso-Master-24set2026.pdf
+reference: STF, ADI 7.791/DF, decisão de 24/09/2026 (código de autenticidade 7945-FE6E-EABB-E40B)
+excerpt: (i) REQUISITAR, nos termos do art. 5.º, II, do CPP, à Polícia Federal a instauração de inquérito
+  policial para apuração dos fatos descritos nesta decisão;
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-21
+created_at: 2026-10-21
+updated_at: 2026-10-21

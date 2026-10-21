@@ -1,0 +1,86 @@
+id: evt-2026-09-24-stf-requisita-a-pf-inquerito-sobre-a-atuacao-da-cvm-no-caso-master
+kind: event
+title: Na ADI 7.791, relator do STF requisita à PF inquérito sobre a atuação da CVM, incluindo o arquivamento,
+  em 2022, da denúncia sobre o Grupo Master encaminhada pelo FGC
+event_type: judicial_decision
+date: 2026-09-24
+date_precision: day
+participant_ids:
+  - supremo-tribunal-federal
+  - flavio-dino
+  - comissao-de-valores-mobiliarios
+  - policia-federal
+  - fgc
+description: 'Em decisão de 24/09/2026 na ADI 7.791, o relator, Flávio Dino, em aditamento à decisão
+  interlocutória de 20/09/2026 (eDOC 190), requisitou à Polícia Federal a instauração de inquérito policial
+  "para apuração dos fatos descritos nesta decisão". A base é o relatório do grupo de trabalho da CVM (eDOC
+  182), que examinou 314 processos administrativos de 2017 a 2026. Segundo a decisão, o relatório trata do
+  Processo SEI nº 19957.001206/2022-08, instaurado em 18/02/2022 a partir de comunicação formal do FGC com
+  denúncia relativa ao Grupo Master, que a área técnica da CVM classificou como "denúncia anônima desprovida
+  de elementos suficientes para justificar o prosseguimento da apuração" e arquivou; o trecho do relatório
+  reproduzido na decisão registra: "No caso em questão, não houve qualquer ação apuratória". A decisão afirma
+  que os elementos dos autos "ultrapassam a esfera de possíveis irregularidades exclusivamente administrativas
+  ou regulatórias" e lista, entre os pontos a apurar, as circunstâncias do arquivamento, "a eventual
+  interferência indevida na atuação da CVM" (expressão da decisão) em 2021 e 2022, "a possível ocorrência de
+  vazamento ou ocultação de informações relevantes por agentes da CVM" e as repercussões penais quanto ao FII
+  CARE11 (PAS nº 19957.006441/2021-87). A PF deve informar o número do inquérito e apresentar relatório em 60
+  dias; a CVM, em 72 horas, cópia integral do processo e informações sobre unidades com acesso, agentes
+  responsáveis pela análise e pelo arquivamento, regime de sigilo, compartilhamento e providências
+  posteriores; a PGR recebeu ciência. A decisão não nomeia investigados e registra que "A qualificação
+  jurídica dos fatos, a identificação dos possíveis autores e a definição da competência jurisdicional deverão
+  ser reavaliadas à medida que as diligências produzam novos elementos"; o Poder360 resume que ela "não
+  atribui crimes a pessoas específicas". Decisão que manda investigar não é condenação nem prova de ilícito.
+  Segundo o Poder360, a decisão de 20/09 deu 90 dias à União para avaliar e revisar as normas da autarquia,
+  sob coordenação do Ministério da Fazenda. Até 21/10/2026 não foram localizadas notícias sobre a instauração
+  do inquérito pela PF nem sobre o cumprimento do prazo de 72 horas pela CVM.'
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-decisao-adi-7791-de-24-09-requisita-a-pf-inquerito-sobre-a-atuacao-da-cvm
+  - ev-imprensa-relata-que-a-cvm-se-disse-mobilizada-para-cumprir-a-decisao-de-24-09
+  - ev-poder360-relata-decisao-de-20-09-que-da-90-dias-a-uniao-para-revisar-normas-da-cvm
+source_ids:
+  - src-poder360-2026-09-24-integra-decisao-adi-7791-requisita-inquerito-pf-cvm
+  - src-poder360-2026-09-24-dino-manda-pf-investigar-atuacao-da-cvm-no-caso-master
+  - src-congressoemfoco-2026-09-24-dino-manda-pf-abrir-inquerito-sobre-atuacao-da-cvm-no-caso-master
+  - src-dgabc-2026-09-24-no-stf-dino-manda-pf-investigar-cvm-no-caso-master
+  - src-opovo-2026-09-25-farol-dino-manda-pf-investigar-cvm-no-caso-master
+document_ids:
+  - doc-2026-09-24-decisao-adi-7791-requisita-inquerito-pf-sobre-atuacao-da-cvm
+public_act_ids: []
+cited_position:
+  - by_id: supremo-tribunal-federal
+    kind: version
+    date: 2026-09-24
+    summary: A própria decisão, assinada pelo relator, é a posição do STF; ela não nomeia investigados e prevê que
+      a qualificação dos fatos e a identificação de possíveis autores sejam reavaliadas com as diligências.
+    source_ids:
+      - src-poder360-2026-09-24-integra-decisao-adi-7791-requisita-inquerito-pf-cvm
+  - by_id: comissao-de-valores-mobiliarios
+    kind: public_note
+    date: 2026-09-24
+    summary: Segundo O Povo (25/09/2026), a CVM informou na tarde de 24/09 que estava mobilizada para atender à
+      determinação. Poder360, Congresso em Foco e Diário do Grande ABC não trazem manifestação da autarquia;
+      buscas na web em 21/10/2026 (CVM, nota, 72 horas, inquérito PF) não localizaram nota própria da CVM
+      sobre o mérito nem notícia sobre o envio do processo ao STF.
+    source_ids:
+      - src-opovo-2026-09-25-farol-dino-manda-pf-investigar-cvm-no-caso-master
+  - by_id: policia-federal
+    kind: not_located
+    date: 2026-10-21
+    summary: Nenhuma das reportagens traz manifestação da PF; buscas na web em 21/10/2026 não localizaram notícia
+      sobre a instauração do inquérito nem seu número.
+    source_ids:
+      - src-poder360-2026-09-24-dino-manda-pf-investigar-atuacao-da-cvm-no-caso-master
+  - by_id: fgc
+    kind: not_located
+    date: 2026-10-21
+    summary: O FGC é citado como quem encaminhou a comunicação à CVM em fevereiro de 2022; nenhuma das reportagens
+      traz manifestação dele, e buscas na web em 21/10/2026 não localizaram nenhuma.
+    source_ids:
+      - src-congressoemfoco-2026-09-24-dino-manda-pf-abrir-inquerito-sobre-atuacao-da-cvm-no-caso-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-21
+created_at: 2026-10-21
+updated_at: 2026-10-21

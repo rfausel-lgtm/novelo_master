@@ -1,0 +1,45 @@
+id: rev-2026-10-21-lote-363-stf-requisita-a-pf-inquerito-sobre-a-atuacao-da-cvm-no-caso-master
+kind: revision
+date: 2026-10-21
+title: Lote 363 — Na ADI 7.791, relator do STF requisita à PF inquérito sobre a atuação da CVM e o
+  arquivamento, em 2022, da denúncia do FGC sobre o Grupo Master (decisão de 24/09/2026)
+summary: "Lote curto, de camada D (decisão judicial lida na íntegra). O que NÃO se afirma, em destaque:
+  decisão que manda investigar não é condenação nem prova; a decisão não nomeia investigados nem atribui
+  conduta a pessoa; o Novelo não afirma que houve ilícito na CVM. O evento: em 24/09/2026, na ADI 7.791, o
+  relator Flávio Dino requisitou à PF inquérito sobre os fatos descritos na decisão, entre eles o arquivamento
+  do Processo SEI nº 19957.001206/2022-08 (aberto em 18/02/2022 a partir de comunicação do FGC sobre o Grupo
+  Master), e deu à CVM 72 horas para enviar o processo e informar quem teve acesso, quem o analisou e
+  arquivou, o regime de sigilo e as providências posteriores. A íntegra hospedada pelo Poder360 tem camada de
+  texto ilegível; o Novelo leu as nove páginas renderizadas como imagem e registrou a transcrição dos trechos
+  usados; o código de autenticidade do STF não foi conferido no portal. A decisão de 20/09 (90 dias à União
+  para revisar normas) entra só como contexto atribuído ao Poder360. Contraditório: CVM (disse estar
+  mobilizada para cumprir, segundo O Povo), PF e FGC `not_located`. Atualiza o verbete da CVM."
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 1
+  relationships: 0
+  sources: 5
+  evidence: 3
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-poder360-2026-09-24-integra-decisao-adi-7791-requisita-inquerito-pf-cvm
+  - src-poder360-2026-09-24-dino-manda-pf-investigar-atuacao-da-cvm-no-caso-master
+  - src-congressoemfoco-2026-09-24-dino-manda-pf-abrir-inquerito-sobre-atuacao-da-cvm-no-caso-master
+  - src-dgabc-2026-09-24-no-stf-dino-manda-pf-investigar-cvm-no-caso-master
+  - src-opovo-2026-09-25-farol-dino-manda-pf-investigar-cvm-no-caso-master
+  - doc-2026-09-24-decisao-adi-7791-requisita-inquerito-pf-sobre-atuacao-da-cvm
+  - ev-decisao-adi-7791-de-24-09-requisita-a-pf-inquerito-sobre-a-atuacao-da-cvm
+  - ev-imprensa-relata-que-a-cvm-se-disse-mobilizada-para-cumprir-a-decisao-de-24-09
+  - ev-poder360-relata-decisao-de-20-09-que-da-90-dias-a-uniao-para-revisar-normas-da-cvm
+  - evt-2026-09-24-stf-requisita-a-pf-inquerito-sobre-a-atuacao-da-cvm-no-caso-master
+  - comissao-de-valores-mobiliarios
+reason: 'Pedido de lote sobre a decisão de 24/09/2026 na ADI 7.791, já citada no verbete da CVM: documento
+  primário com "Publique-se" e quatro reportagens; entra como ato do Judiciário, sem juízo de mérito, com o
+  contraditório da CVM, da PF e do FGC.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-21

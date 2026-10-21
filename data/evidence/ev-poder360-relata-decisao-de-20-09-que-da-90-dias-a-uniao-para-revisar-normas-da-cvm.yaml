@@ -1,0 +1,21 @@
+id: ev-poder360-relata-decisao-de-20-09-que-da-90-dias-a-uniao-para-revisar-normas-da-cvm
+kind: evidence
+classification: A
+proposition: Segundo o Poder360 (24/09/2026), em 20/09/2026 Flávio Dino deu prazo de 90 dias para a União
+  avaliar e revisar as normas aplicáveis à regulação dos fundos de investimento, sob coordenação do Ministério
+  da Fazenda, a partir das conclusões do grupo de trabalho da CVM. A decisão de 24/09 confirma a existência da
+  decisão interlocutória de 20/09/2026 (eDOC 190), proferida em face de petição da Transparência Internacional
+  - Brasil, e que ela destinou diligências à União para avaliação técnica do arcabouço normativo infralegal.
+source_ids:
+  - src-poder360-2026-09-24-dino-manda-pf-investigar-atuacao-da-cvm-no-caso-master
+  - src-poder360-2026-09-24-integra-decisao-adi-7791-requisita-inquerito-pf-cvm
+attributed_to: Poder360, 24/09/2026; decisão de 24/09/2026 na ADI 7.791
+date: 2026-09-20
+notes: O Novelo não leu a decisão de 20/09; o prazo de 90 dias e a coordenação da Fazenda vêm da reportagem (o
+  Diário do Grande ABC e o Congresso em Foco também citam os 90 dias). Por isso não entra como evento próprio
+  neste lote.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-21
+created_at: 2026-10-21
+updated_at: 2026-10-21
