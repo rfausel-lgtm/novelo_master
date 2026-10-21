@@ -17,7 +17,7 @@ summary: Relator, no TCU, do processo de inspeção no Banco Central sobre a liq
   Poder360 (autenticidade não conferida), é o relator do TC 022.950/2025-7, representação do MPTCU sobre a
   atuação do BC na supervisão e na resolução do Master, e sobrestou esse processo, inclusive a apreciação do
   relatório de inspeção, até elementos oficiais da sindicância do BC, do PAD da CGU e das apurações no STF; em 13/10/2026 o
-  TCU sobrestou as contas de 2025 do BC até o trânsito em julgado desse processo (Acórdão 5163/2026).
+  TCU sobrestou as contas de 2025 do BC até o trânsito em julgado desse processo (Acórdão 5163/2026). Presidiu a sessão de 20/10/2026 da 2ª Câmara, em que o Acórdão 5184/2026 (relator Jorge Oliveira) levantou esse sobrestamento e julgou regulares as contas; o acórdão não cita o processo que ele relata.
 why_in_novelo: Conduz, como relator no TCU, a fiscalização sobre como o Banco Central decidiu liquidar
   o Banco Master.
 cited_position:
@@ -48,6 +48,13 @@ cited_position:
   date: '2026-10-16'
   summary: Nenhuma nota de gabinete, entrevista ou decisão nova em set–out/2026 (WebSearch com o nome e Banco Master,
     liquidação e sigilo); o portal de processos do TCU e o canal do TCU não foram consultados.
+- by_id: jhonatan-de-jesus
+  kind: not_located
+  date: '2026-10-21'
+  summary: >-
+    Nenhuma declaração pública do ministro sobre o acórdão de 20/10/2026 localizada nas fontes do registro.
+  source_ids:
+  - src-poder360-2026-10-20-tcu-desiste-de-esperar-por-caso-master-e-aprova-contas-do-bc
 open_questions:
 - A autenticidade da cópia do despacho de 24/03/2026 no TC 022.950/2025-7 (código 79923336) não foi conferida no portal do TCU; os autos tramitam sob sigilo.
 source_ids:
@@ -57,11 +64,13 @@ source_ids:
 - src-jornaldebrasilia-2025-12-19-ministro-do-tcu-ve-precipitacao-na-liquidacao-do-master-bc-diz-estar-munido-com-documentos
 - src-diariodonordeste-2026-02-11-tcu-restringe-acesso-a-documentos-do-caso-banco-master-e-acirra-tensao-com-banco-central
 - src-poder360-2026-03-24-tcu-congela-processo-sobre-o-master-e-avalia-retirar-sigilo-do-caso
+- src-tcu-2026-10-20-acordao-5184-2026-segunda-camara-tc-007-138-2026-1
+- src-poder360-2026-10-20-tcu-desiste-de-esperar-por-caso-master-e-aprova-contas-do-bc
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-10-16'
+reviewed_at: '2026-10-21'
 created_at: '2026-09-03'
-updated_at: '2026-10-16'
+updated_at: '2026-10-21'
 photo:
   path: /fotos/jhonatan-de-jesus.jpg
   source: Wikimedia Commons

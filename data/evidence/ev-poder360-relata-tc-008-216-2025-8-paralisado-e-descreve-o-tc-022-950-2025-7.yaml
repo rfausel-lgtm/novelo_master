@@ -1,0 +1,21 @@
+id: ev-poder360-relata-tc-008-216-2025-8-paralisado-e-descreve-o-tc-022-950-2025-7
+kind: evidence
+classification: A
+proposition: Segundo o Poder360 (20/10/2026), o TC 008.216/2025-8, que trata de possíveis falhas de fiscalização
+  na operação entre o BRB e o Banco Master, "está paralisado", pois aguarda elementos ainda em tramitação no
+  STF; a reportagem descreve o TC 022.950/2025-7 (relator Jhonatan de Jesus) como investigação que apura
+  possível omissão do BC na fiscalização e supervisão do Master e não informa decisão de mérito nesse processo.
+source_ids:
+  - src-poder360-2026-10-20-tcu-desiste-de-esperar-por-caso-master-e-aprova-contas-do-bc
+excerpt: Esse outro processo está paralisado
+locator: seção "Entenda"
+attributed_to: Poder360 (Leo Garfinkel), apuração própria
+date: 2026-10-20
+notes: Fonte única (apuração do veículo, sem documento do TCU lido por esta equipe sobre o estado desses dois
+  processos); o TC 022.950/2025-7 tramita sob sigilo. "Possível omissão" é a descrição do veículo, não
+  conclusão do TCU; o Novelo não afirma o estado atual do TC 022.950/2025-7 além do que a reportagem diz.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-21
+created_at: 2026-10-21
+updated_at: 2026-10-21

@@ -1,0 +1,61 @@
+id: rev-2026-10-21-lote-364-tcu-julga-regulares-as-contas-de-2025-do-bc-e-levanta-o-sobrestamento
+kind: revision
+date: 2026-10-21
+title: Lote 364 — O TCU julga regulares as contas de 2025 do Banco Central e levanta o sobrestamento de 13/10
+  (Acórdão 5.184/2026, 2ª Câmara, 20/10/2026)
+summary: 'Lote curto sobre um ato de tribunal de contas. O que NÃO se afirma, em destaque: o Novelo não afirma
+  que o BC foi "inocentado" nem "absolvido" no caso Master; o acórdão trata das contas de 2025 (TC
+  007.138/2026-1) e não cita o TC 022.950/2025-7 (representação do MPTCU sobre a supervisão e a resolução do
+  Master, sob sigilo, que o Poder360 descreve como investigação em curso, sem informar decisão de mérito) nem
+  o TC 008.216/2025-8 (BRB–Master, que segundo o Poder360 "está paralisado" à espera do STF); julgar
+  regulares contas com quitação plena não é conclusão sobre a atuação do BC no caso. Camada D quanto ao
+  conteúdo do ato, lido no portal de jurisprudência do TCU em 21/10/2026 e coincidente com o PDF do excerto da
+  Relação 34/2026 hospedado pelo Poder360. O evento: em 20/10/2026 (Ata 36/2026, relator Jorge Oliveira,
+  Jhonatan de Jesus na presidência), a 2ª Câmara acordou em levantar o sobrestamento do Acórdão 5163/2026,
+  julgar regulares as contas dos nove responsáveis (entre eles Gabriel Galípolo), com quitação plena, e
+  arquivar os autos, sem determinações. Considerandos: a AudBancos propõe a regularidade; o MPTCU, "embora
+  tenha suscitado questão examinada em outro processo", reconheceu que os elementos dos autos não evidenciam
+  irregularidades capazes de comprometer a regularidade das contas. O evento de 13/10 (lote 355) ganha o
+  desfecho. Os CPFs exibidos no portal e no PDF não são registrados; os outros oito responsáveis não ganham
+  verbete (só Galípolo já constava). Camada A: o Poder360 (20/10) diz que o TC 008.216/2025-8 segue
+  paralisado e descreve o TC 022.950/2025-7 como apuração de possível omissão do BC; a matéria usa
+  "suspensão" e "suspendido" para o que o acórdão chama de "sobrestar" e diz que o relator "voltou atrás", leitura do veículo
+  que o Novelo não adota. Contraditório: nenhuma nota do BC nem manifestação de Galípolo nas notas à imprensa
+  de bcb.gov.br de 16 a 21/10/2026. Não confirmado: Ata 36/2026, autos, estado atual do TC 022.950/2025-7.'
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 1
+  relationships: 1
+  sources: 2
+  evidence: 2
+updated_relationships: 3
+corrections:
+- 'Editor-master (21/10/2026): a fonte e o documento do Acórdão 5184/2026 passam a apontar para o portal de jurisprudência do TCU, lido pelo editor e coincidente com o PDF hospedado pelo Poder360; com isso a classe D fica mantida pelo mesmo critério do Acórdão 5163/2026 (lote 355), e não pelo PDF de veículo com código de autenticidade não conferido, que pelo critério do despacho de 24/03/2026 seria A. Saem as menções à autenticidade não conferida; o sha256 da captura foi recalculado.'
+- 'Editor-master: a evidência do Poder360 sobre o TC 008.216/2025-8 e o TC 022.950/2025-7 dizia que este "segue sem a conclusão" que o sobrestamento aguardava, inferência que a reportagem não faz; passa a dizer o que a fonte diz (investigação que apura possível omissão, sem decisão de mérito informada) e muda de id para ev-poder360-relata-tc-008-216-2025-8-paralisado-e-descreve-o-tc-022-950-2025-7.'
+- 'Editor-master: a posição registrada de Jorge Oliveira deixa de trazer a leitura do Poder360 de que ele "voltou atrás"; caracterização do veículo não é posição do citado.'
+- 'Editor-master: o contraditório not_located do BC e de Galípolo passa a descrever a busca feita nas notas à imprensa de bcb.gov.br (16 a 21/10/2026).'
+author: orquestrador
+affected_ids:
+  - src-tcu-2026-10-20-acordao-5184-2026-segunda-camara-tc-007-138-2026-1
+  - src-poder360-2026-10-20-tcu-desiste-de-esperar-por-caso-master-e-aprova-contas-do-bc
+  - doc-2026-10-20-tcu-acordao-5184-2026-segunda-camara-contas-de-2025-do-bc-regulares
+  - ev-tcu-acordao-5184-2026-julga-regulares-as-contas-de-2025-do-banco-central
+  - ev-poder360-relata-tc-008-216-2025-8-paralisado-e-descreve-o-tc-022-950-2025-7
+  - evt-2026-10-20-tcu-julga-regulares-as-contas-de-2025-do-banco-central-e-levanta-o-sobrestamento
+  - rel-tribunal-de-contas-da-uniao-gabriel-galipolo-institutional
+  - evt-2026-10-13-tcu-sobresta-o-julgamento-das-contas-de-2025-do-banco-central
+  - rel-tribunal-de-contas-da-uniao-banco-central-do-brasil-institutional
+  - rel-jorge-oliveira-tribunal-de-contas-da-uniao-institutional
+  - rel-jhonatan-de-jesus-tribunal-de-contas-da-uniao-institutional
+  - banco-central-do-brasil
+  - tribunal-de-contas-da-uniao
+  - jorge-oliveira
+  - jhonatan-de-jesus
+  - gabriel-galipolo
+reason: "Fechar a ponta do lote 355: o sobrestamento de 13/10 durou sete dias e o acórdão de 20/10 é documento
+  primário, de escopo estreito, com redação de atos."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-21

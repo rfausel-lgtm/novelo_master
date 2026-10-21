@@ -1,0 +1,70 @@
+# Captura de texto — Excerto da Relação 34/2026 da 2ª Câmara do TCU: Acórdão 5184/2026 (TC 007.138/2026-1)
+# url: https://static.poder360.com.br/uploads/2026/10/tcu-bc-master-2025.pdf (PDF hospedado pelo Poder360; 104 kB segundo a reportagem)
+# retrieved_at: 2026-10-21 (npm run lote:fonte; texto extraído do PDF com pdftotext; sha256 do arquivo-texto de cache 896ef1c8043d722f...)
+# supressões do Novelo: os CPFs impressos após o nome de cada responsável foram substituídos por [CPF omitido] (EDITORIAL_POLICY §6).
+# conferência (editor-master, 21/10/2026): o mesmo texto do acórdão foi lido no portal de jurisprudência do TCU (https://pesquisa.apps.tcu.gov.br/doc/acordao-completo/5184/2026/Segunda%20C%C3%A2mara), que coincide com o PDF; o código de autenticidade 81279426 não foi consultado, por ser desnecessário após a leitura no portal.
+# esta captura é transcrição do texto extraído, não cópia oficial; o sha256 registrado no documento é o deste arquivo.
+
+                 TRIBUNAL DE CONTAS DA UNIÃO
+                 Excerto da Relação 34/2026 - TCU – 2ª Câmara
+                 Relator - Ministro JORGE OLIVEIRA
+
+                               ACÓRDÃO Nº 5184/2026 - TCU - 2ª Câmara
+
+              Trata-se da prestação de contas do Banco Central do Brasil (BC), referente ao exercício
+de 2025, organizada nos termos da Instrução Normativa-TCU 84/2020 e da Decisão Normativa-TCU
+198/2022.
+
+              Considerando que a Unidade de Auditoria Especializada em Bancos Públicos e
+Reguladores Financeiros (AudBancos) propõe o julgamento pela regularidade das contas dos
+responsáveis;
+
+              considerando que, embora tenha suscitado questão examinada em outro processo,
+o Ministério Público junto ao TCU (MPTCU) reconheceu que os elementos constantes dos autos
+não evidenciam irregularidades capazes de comprometer a regularidade das contas;
+
+              considerando que a proposta subsidiária do MPTCU converge com a avaliação de mérito
+da unidade técnica, favorável ao julgamento pela regularidade das contas;
+
+              os ministros do Tribunal de Contas da União, reunidos em sessão da 2ª Câmara,
+diante das razões expostas pelo relator e pela unidade técnica, e com fundamento nos arts. 1º, I, 16, I,
+17 e 23, I, da Lei 8.443/1992 e nos arts. 143, I, “a”, 207 e 214, I, do Regimento Interno do TCU,
+ACORDAM em levantar o sobrestamento determinado pelo Acórdão 5.163/2026-2ª Câmara,
+julgar regulares as contas dos responsáveis a seguir indicados, dando-lhes quitação plena, e arquivar
+os autos.
+
+1. Processo TC-007.138/2026-1 (PRESTAÇÃO DE CONTAS - Exercício: 2025)
+              1.1. Apensos: 022.593/2025-0 (RELATÓRIO DE AUDITORIA)
+              1.2. Responsáveis: Gabriel Muricca Galípolo [CPF omitido], Rodrigo Alves Teixeira
+
+[CPF omitido], Izabela Moreira Correa [CPF omitido], Gilneu Francisco Astolfi Vivan
+[CPF omitido], Ailton de Aquino Santos [CPF omitido], Renato Dias de Brito Gomes
+[CPF omitido], Nilton José Schneider David [CPF omitido], Paulo Picchetti [CPF omitido]
+e Diogo Abry Guillen [CPF omitido]
+
+              1.3. Unidade: Banco Central do Brasil
+              1.4. Relator: Ministro Jorge Oliveira
+              1.5. Representante do Ministério Público: Procurador Júlio Marcelo de Oliveira
+              1.6. Unidade Técnica: Unidade de Auditoria Especializada em Bancos Públicos e
+Reguladores Financeiros (AudBancos)
+              1.7. Representação legal: não há
+              1.8. Determinações/Recomendações/Orientações: não há
+
+Dados da Sessão:
+Ata n° 36/2026 – 2ª Câmara
+Data: 20/10/2026 – Ordinária
+Relator: Ministro JORGE OLIVEIRA
+na Presidência: Ministro JHONATAN DE JESUS
+Representante do Ministério Público: Subprocurador-Geral LUCAS ROCHA FURTADO
+
+                                        TCU, em 20 de outubro de 2026.
+
+                            Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade e informe o código 81279426.
+TRIBUNAL DE CONTAS DA UNIÃO
+Excerto da Relação 34/2026 - TCU – 2ª Câmara
+Relator - Ministro JORGE OLIVEIRA
+
+  Documento eletrônico gerado automaticamente pelo Sistema SAGAS
+
+    Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade e informe o código 81279426.
+

@@ -11,7 +11,7 @@ summary: Autoridade monetária e supervisora do Sistema Financeiro Nacional. Dec
   de instituições do Conglomerado Master em novembro de 2025. Em 13/10/2026, a 2ª Câmara do TCU sobrestou o
   julgamento das contas de 2025 do Banco Central até o trânsito em julgado da deliberação no TC 022.950/2025-7
   (Acórdão 5163/2026, classe D), representação sobre a atuação do BC na supervisão e na resolução do Master,
-  segundo cópia de despacho do TCU hospedada pelo Poder360; a unidade técnica propunha julgá-las regulares, e o acórdão não aponta irregularidade de ninguém. Segundo o SBT
+  segundo cópia de despacho do TCU hospedada pelo Poder360; a unidade técnica propunha julgá-las regulares, e o acórdão não aponta irregularidade de ninguém. Em 20/10/2026, a 2ª Câmara levantou o sobrestamento, julgou regulares as contas de 2025, com quitação plena aos nove responsáveis, e as arquivou (Acórdão 5184/2026, classe D); o acórdão não cita o TC 022.950/2025-7 nem o TC 008.216/2025-8, e o acórdão não é conclusão sobre a supervisão do Master. Segundo o SBT
   News, o presidente do BC, Gabriel Galípolo, foi ouvido pela PF como testemunha em 06/10/2026 (classe A, fonte
   única; conteúdo não divulgado).
 why_in_novelo: Decretou a liquidação extrajudicial do Banco Master e de outras instituições do conglomerado,
@@ -27,6 +27,13 @@ cited_position:
     publicadas em bcb.gov.br entre 09 e 16/10/2026 (consulta de 16/10/2026).
   source_ids:
   - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+- by_id: banco-central-do-brasil
+  kind: not_located
+  date: '2026-10-21'
+  summary: >-
+    Sobre o julgamento regular das contas de 2025 pelo TCU (20/10/2026): nenhuma nota localizada na busca do Novelo em 21/10/2026 nas notas à imprensa de bcb.gov.br publicadas entre 16 e 21/10/2026, nenhuma das quais trata do TCU, nem nas fontes do registro.
+  source_ids:
+  - src-poder360-2026-10-20-tcu-desiste-de-esperar-por-caso-master-e-aprova-contas-do-bc
 open_questions:
 - 'Contas de 2025 sobrestadas pelo TCU (Acórdão 5163/2026): a Ata 35/2026 não foi lida; o TC 022.950/2025-7 tramita sob sigilo; o conteúdo do TC 008.216/2025-8 não é público no acervo.'
 source_ids:
@@ -35,11 +42,13 @@ source_ids:
 - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
 - src-tcu-2026-03-24-despacho-tc-022-950-2025-7-gabinete-jhonatan-de-jesus
 - src-sbtnews-2026-10-06-caso-master-pf-ouve-galipolo-na-condicao-de-testemunha
+- src-tcu-2026-10-20-acordao-5184-2026-segunda-camara-tc-007-138-2026-1
+- src-poder360-2026-10-20-tcu-desiste-de-esperar-por-caso-master-e-aprova-contas-do-bc
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-10-16'
+reviewed_at: '2026-10-21'
 created_at: '2026-09-03'
-updated_at: '2026-10-16'
+updated_at: '2026-10-21'
 photo:
   path: /fotos/banco-central-do-brasil.png
   source: Wikimedia Commons

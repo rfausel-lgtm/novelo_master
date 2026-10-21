@@ -1,0 +1,39 @@
+id: doc-2026-10-20-tcu-acordao-5184-2026-segunda-camara-contas-de-2025-do-bc-regulares
+kind: document
+title: "Acórdão 5184/2026–TCU–2ª Câmara (TC 007.138/2026-1): contas de 2025 do Banco Central julgadas
+  regulares e sobrestamento levantado"
+doc_type: administrative_act
+date: 2026-10-20
+date_precision: day
+issuer_id: tribunal-de-contas-da-uniao
+issuer: Tribunal de Contas da União, 2ª Câmara
+reference: TCU, Acórdão 5184/2026–2ª Câmara (acórdão de relação, Relação 34/2026), TC 007.138/2026-1, Ata
+  36/2026, rel. Min. Jorge Oliveira
+url: https://pesquisa.apps.tcu.gov.br/doc/acordao-completo/5184/2026/Segunda%20C%C3%A2mara
+source_ids:
+  - src-tcu-2026-10-20-acordao-5184-2026-segunda-camara-tc-007-138-2026-1
+raw_path: raw/capturas/2026-10-21/tcu-acordao-5184-2026-segunda-camara-excerto.txt
+sha256: 054abd5eea840ba20666e090abd2ab02b0d858138b4402a10c0c0808c8163ce7
+summary: 'Acórdão de relação na prestação de contas de 2025 do Banco Central do Brasil. A 2ª Câmara acordou em
+  levantar o sobrestamento determinado pelo Acórdão 5163/2026, julgar regulares as contas dos nove
+  responsáveis listados, com quitação plena, e arquivar os autos, com fundamento nos arts. 1º, I, 16, I, 17 e
+  23, I, da Lei 8.443/1992 e nos arts. 143, I, "a", 207 e 214, I, do Regimento Interno. Considerandos: a
+  AudBancos propõe a regularidade; o MPTCU reconheceu que os elementos dos autos não evidenciam
+  irregularidades capazes de comprometer a regularidade das contas. Sem determinações ou recomendações. A
+  decisão trata das contas de 2025 do BC; o acórdão não menciona o TC 022.950/2025-7 nem o TC 008.216/2025-8.
+  É ato de tribunal de contas, não decisão judicial. Texto lido no portal de jurisprudência do TCU em
+  21/10/2026 e coincidente com o PDF hospedado pelo Poder360. A captura em raw/ omite os CPFs; o sha256 é o da
+  captura.'
+excerpt: ACORDAM em levantar o sobrestamento determinado pelo Acórdão 5163/2026-TCU-Segunda Câmara
+is_official: true
+related_entity_ids:
+  - tribunal-de-contas-da-uniao
+  - banco-central-do-brasil
+  - jorge-oliveira
+  - jhonatan-de-jesus
+  - gabriel-galipolo
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-21
+created_at: 2026-10-21
+updated_at: 2026-10-21

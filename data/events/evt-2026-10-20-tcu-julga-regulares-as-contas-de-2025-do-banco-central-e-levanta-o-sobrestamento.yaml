@@ -1,0 +1,63 @@
+id: evt-2026-10-20-tcu-julga-regulares-as-contas-de-2025-do-banco-central-e-levanta-o-sobrestamento
+kind: event
+title: TCU julga regulares as contas de 2025 do Banco Central e levanta o sobrestamento de 13/10
+event_type: regulatory_act
+date: 2026-10-20
+date_precision: day
+participant_ids:
+  - tribunal-de-contas-da-uniao
+  - banco-central-do-brasil
+  - jorge-oliveira
+  - jhonatan-de-jesus
+  - gabriel-galipolo
+description: 'Em sessão de 20/10/2026, sete dias depois do Acórdão 5163/2026, a 2ª Câmara do Tribunal de
+  Contas da União, em acórdão de relação de relatoria do ministro Jorge Oliveira (Acórdão 5184/2026, Ata
+  36/2026, com o ministro Jhonatan de Jesus na presidência da sessão), acordou em levantar o sobrestamento e
+  julgar regulares as contas de 2025 do Banco Central do Brasil (TC 007.138/2026-1), dando quitação plena aos
+  nove responsáveis listados, entre eles o presidente do BC, Gabriel Galípolo, e arquivar os autos, sem
+  determinações ou recomendações. Segundo o acórdão, a AudBancos propôs a regularidade e o MPTCU, "embora
+  tenha suscitado questão examinada em outro processo", reconheceu que os elementos dos autos não evidenciam
+  irregularidades capazes de comprometer a regularidade das contas. O que a decisão não faz: o acórdão
+  não cita o TC 022.950/2025-7 (representação do MPTCU sobre a atuação do BC na supervisão e na resolução do
+  Master, relator Jhonatan de Jesus, sob sigilo) nem o TC 008.216/2025-8 (operação BRB–Master); segundo o
+  Poder360, este "está paralisado" à espera de elementos do STF, e a reportagem descreve aquele como
+  investigação em curso, sem informar decisão de mérito (classe A). A decisão não é conclusão sobre a atuação
+  do BC no caso Master. O Novelo leu o acórdão no portal de jurisprudência do TCU, mas não a Ata 36/2026 nem
+  os autos.'
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-tcu-acordao-5184-2026-julga-regulares-as-contas-de-2025-do-banco-central
+  - ev-poder360-relata-tc-008-216-2025-8-paralisado-e-descreve-o-tc-022-950-2025-7
+source_ids:
+  - src-tcu-2026-10-20-acordao-5184-2026-segunda-camara-tc-007-138-2026-1
+  - src-poder360-2026-10-20-tcu-desiste-de-esperar-por-caso-master-e-aprova-contas-do-bc
+document_ids:
+  - doc-2026-10-20-tcu-acordao-5184-2026-segunda-camara-contas-de-2025-do-bc-regulares
+cited_position:
+  - by_id: tribunal-de-contas-da-uniao
+    kind: version
+    date: 2026-10-20
+    summary: O acórdão é a posição do tribunal; não há declaração pública do relator nas fontes abertas.
+    source_ids:
+      - src-tcu-2026-10-20-acordao-5184-2026-segunda-camara-tc-007-138-2026-1
+  - by_id: banco-central-do-brasil
+    kind: not_located
+    date: 2026-10-21
+    summary: Nenhuma nota do Banco Central sobre o julgamento das contas localizada; busca do editor em 21/10/2026
+      nas notas à imprensa de bcb.gov.br publicadas entre 16 e 21/10/2026 (nenhuma trata do TCU) e nas fontes
+      deste registro.
+    source_ids:
+      - src-poder360-2026-10-20-tcu-desiste-de-esperar-por-caso-master-e-aprova-contas-do-bc
+  - by_id: gabriel-galipolo
+    kind: not_located
+    date: 2026-10-21
+    summary: Nenhuma manifestação pública do presidente do Banco Central sobre o julgamento localizada na mesma
+      busca de 21/10/2026 (notas à imprensa de bcb.gov.br entre 16 e 21/10/2026) nem nas fontes deste registro.
+    source_ids:
+      - src-poder360-2026-10-20-tcu-desiste-de-esperar-por-caso-master-e-aprova-contas-do-bc
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-21
+created_at: 2026-10-21
+updated_at: 2026-10-21

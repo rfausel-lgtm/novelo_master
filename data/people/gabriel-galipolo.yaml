@@ -22,7 +22,7 @@ summary: 'Presidente do Banco Central. Segundo a CNN Brasil e a Gazeta do Povo, 
   sido intimado pela PF para depor sobre a fiscalização do Master; segundo o SBT News (fonte única), prestou
   depoimento como testemunha em 06/10/2026, de conteúdo não divulgado. No Acórdão 5163/2026 do TCU (13/10/2026),
   que sobrestou o julgamento das contas de 2025 do Banco Central, consta como responsável pela prestação das
-  contas, condição que não implica imputação.'
+  contas, condição que não implica imputação. Em 20/10/2026, o Acórdão 5184/2026 julgou regulares essas contas, com quitação plena a ele e aos outros oito responsáveis, e as arquivou; não é conclusão sobre a supervisão do Banco Master.'
 why_in_novelo: Presidia o Banco Central quando a compra do Master pelo BRB foi rejeitada e quando o banco
   foi liquidado, e participou, como indicado ao cargo, do encontro de dezembro de 2024 no Planalto.
 cited_position:
@@ -59,6 +59,13 @@ cited_position:
     notas à imprensa do BC de 09 a 16/10/2026 nem nas fontes deste registro.
   source_ids:
   - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+- by_id: gabriel-galipolo
+  kind: not_located
+  date: '2026-10-21'
+  summary: >-
+    Sobre o julgamento regular das contas de 2025 pelo TCU (20/10/2026): nenhuma manifestação pública localizada na busca do Novelo em 21/10/2026 (notas à imprensa de bcb.gov.br entre 16 e 21/10/2026) nem nas fontes do registro.
+  source_ids:
+  - src-poder360-2026-10-20-tcu-desiste-de-esperar-por-caso-master-e-aprova-contas-do-bc
 open_questions:
 - 'Depoimento à PF de 06/10/2026: registrado só pelo SBT News (fonte única, classe A); conteúdo não divulgado; sem nota do Banco Central.'
 - 'A sequência a registrar sem insinuação: participou da reunião de 04/12/2024 como diretor do BC já indicado
@@ -75,13 +82,15 @@ source_ids:
 - src-agenciaestado-2026-09-24-galipolo-confirma-intimacao-da-pf-para-depor-em-outubro-sobre-master
 - src-sbtnews-2026-10-06-caso-master-pf-ouve-galipolo-na-condicao-de-testemunha
 - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
+- src-tcu-2026-10-20-acordao-5184-2026-segunda-camara-tc-007-138-2026-1
+- src-poder360-2026-10-20-tcu-desiste-de-esperar-por-caso-master-e-aprova-contas-do-bc
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Gabriel_Gal%C3%ADpolo
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-10-16'
+reviewed_at: '2026-10-21'
 created_at: '2026-09-03'
-updated_at: '2026-10-16'
+updated_at: '2026-10-21'
 photo:
   path: /fotos/gabriel-galipolo.jpg
   source: Wikimedia Commons

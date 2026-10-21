@@ -4,28 +4,32 @@ from_id: jorge-oliveira
 to_id: tribunal-de-contas-da-uniao
 relationship_type: institutional
 directed: false
-label: ministro do TCU; relator do Acórdão 5163/2026 e do TC 008.216/2025-8
+label: ministro do TCU; relator dos Acórdãos 5163/2026 e 5184/2026 e do TC 008.216/2025-8
 start_date: '2020-12-31'
 description: >-
   Jorge Oliveira tomou posse como ministro do TCU em 31/12/2020, segundo o próprio tribunal, e é vice-presidente
   para 2026, segundo o Poder360. É o relator do Acórdão 5163/2026 da 2ª Câmara, de 13/10/2026, que sobrestou o
   julgamento das contas de 2025 do Banco Central, e, segundo o mesmo acórdão, do TC 008.216/2025-8, ligado à
-  operação entre o BRB e o Banco Master. Relação de cargo; não descreve conduta.
+  operação entre o BRB e o Banco Master. Foi também o relator do Acórdão 5184/2026, de 20/10/2026, que levantou o sobrestamento e julgou regulares essas contas. Relação de cargo; não descreve conduta.
 evidence_class: D
 confidence: 0.9
 status: verified
 event_ids:
+- evt-2026-10-20-tcu-julga-regulares-as-contas-de-2025-do-banco-central-e-levanta-o-sobrestamento
 - evt-2026-10-13-tcu-sobresta-o-julgamento-das-contas-de-2025-do-banco-central
 evidence_ids:
+- ev-tcu-acordao-5184-2026-julga-regulares-as-contas-de-2025-do-banco-central
 - ev-tcu-acordao-5163-2026-sobresta-as-contas-de-2025-do-banco-central
 source_ids:
+- src-tcu-2026-10-20-acordao-5184-2026-segunda-camara-tc-007-138-2026-1
 - src-tcu-2026-10-13-acordao-5163-2026-segunda-camara-tc-007-138-2026-1
 - src-tcu-2020-12-31-jorge-oliveira-toma-posse-como-ministro-do-tcu
 - src-poder360-2025-12-03-tcu-reconduz-vital-do-rego-a-presidencia-para-2026
 document_ids:
+- doc-2026-10-20-tcu-acordao-5184-2026-segunda-camara-contas-de-2025-do-bc-regulares
 - doc-2026-10-13-tcu-acordao-5163-2026-segunda-camara-sobrestamento-das-contas-de-2025-do-bc
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-10-16'
+reviewed_at: '2026-10-21'
 created_at: '2026-10-16'
-updated_at: '2026-10-16'
+updated_at: '2026-10-21'
