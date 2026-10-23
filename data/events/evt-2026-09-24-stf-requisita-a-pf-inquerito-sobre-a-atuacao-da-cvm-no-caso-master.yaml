@@ -31,8 +31,11 @@ description: 'Em decisão de 24/09/2026 na ADI 7.791, o relator, Flávio Dino, e
   ser reavaliadas à medida que as diligências produzam novos elementos"; o Poder360 resume que ela "não
   atribui crimes a pessoas específicas". Decisão que manda investigar não é condenação nem prova de ilícito.
   Segundo o Poder360, a decisão de 20/09 deu 90 dias à União para avaliar e revisar as normas da autarquia,
-  sob coordenação do Ministério da Fazenda. Até 21/10/2026 não foram localizadas notícias sobre a instauração
-  do inquérito pela PF nem sobre o cumprimento do prazo de 72 horas pela CVM.'
+  sob coordenação do Ministério da Fazenda. Desdobramento: em 19/10/2026 o relator registrou que a PF comunicou,
+  em autos apartados, a instauração do inquérito (número não divulgado), que a CVM não respondeu (certidão do STF) e
+  que a União entregou o processo SEI e as informações, trasladando os documentos à Pet 16.814, sigilosa (ver
+  evt-2026-10-19-dino-registra-que-a-pf-comunicou-inquerito-sobre-a-cvm-e-traslada-documentos-a-pet-16814). A
+  decisão de 24/09 foi cotejada em 23/10/2026 com a peça servida pelo portal do STF (mesmo código de autenticidade).'
 evidence_class: D
 status: verified
 evidence_ids:
@@ -40,6 +43,7 @@ evidence_ids:
   - ev-imprensa-relata-que-a-cvm-se-disse-mobilizada-para-cumprir-a-decisao-de-24-09
   - ev-poder360-relata-decisao-de-20-09-que-da-90-dias-a-uniao-para-revisar-normas-da-cvm
 source_ids:
+  - src-stf-2026-09-24-decisao-adi-7791-requisita-inquerito-pf-portal-do-stf
   - src-poder360-2026-09-24-integra-decisao-adi-7791-requisita-inquerito-pf-cvm
   - src-poder360-2026-09-24-dino-manda-pf-investigar-atuacao-da-cvm-no-caso-master
   - src-congressoemfoco-2026-09-24-dino-manda-pf-abrir-inquerito-sobre-atuacao-da-cvm-no-caso-master
@@ -55,23 +59,29 @@ cited_position:
     summary: A própria decisão, assinada pelo relator, é a posição do STF; ela não nomeia investigados e prevê que
       a qualificação dos fatos e a identificação de possíveis autores sejam reavaliadas com as diligências.
     source_ids:
-      - src-poder360-2026-09-24-integra-decisao-adi-7791-requisita-inquerito-pf-cvm
+      - src-stf-2026-09-24-decisao-adi-7791-requisita-inquerito-pf-portal-do-stf
   - by_id: comissao-de-valores-mobiliarios
     kind: public_note
     date: 2026-09-24
     summary: Segundo O Povo (25/09/2026), a CVM informou na tarde de 24/09 que estava mobilizada para atender à
       determinação. Poder360, Congresso em Foco e Diário do Grande ABC não trazem manifestação da autarquia;
       buscas na web em 21/10/2026 (CVM, nota, 72 horas, inquérito PF) não localizaram nota própria da CVM
-      sobre o mérito nem notícia sobre o envio do processo ao STF.
+      sobre o mérito nem notícia sobre o envio do processo ao STF. Posteriormente, a certidão do STF de 07/10/2026 e
+      a decisão de 19/10/2026 registram a ausência de manifestação da CVM em resposta à decisão de 24/09 e que as
+      informações foram prestadas pela União (ver o evento de 19/10).
     source_ids:
       - src-opovo-2026-09-25-farol-dino-manda-pf-investigar-cvm-no-caso-master
+      - src-stf-2026-10-23-andamentos-da-adi-7791-no-portal-do-stf
   - by_id: policia-federal
-    kind: not_located
-    date: 2026-10-21
-    summary: Nenhuma das reportagens traz manifestação da PF; buscas na web em 21/10/2026 não localizaram notícia
-      sobre a instauração do inquérito nem seu número.
+    kind: version
+    date: 2026-10-19
+    summary: Segundo a decisão de 19/10/2026, a PF comunicou, em autos apartados, a instauração do
+      inquérito policial requisitado. O Novelo não leu essa comunicação; o número do inquérito não é público. Até
+      07/10/2026, certidão do STF registrava que não havia manifestação da PF; nenhuma das reportagens de 24/09
+      traz manifestação da PF.
     source_ids:
-      - src-poder360-2026-09-24-dino-manda-pf-investigar-atuacao-da-cvm-no-caso-master
+      - src-stf-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-portal-do-stf
+      - src-stf-2026-10-23-andamentos-da-adi-7791-no-portal-do-stf
   - by_id: fgc
     kind: not_located
     date: 2026-10-21
@@ -81,6 +91,6 @@ cited_position:
       - src-congressoemfoco-2026-09-24-dino-manda-pf-abrir-inquerito-sobre-atuacao-da-cvm-no-caso-master
 review_status: published
 reviewer: orquestrador
-reviewed_at: 2026-10-21
+reviewed_at: 2026-10-23
 created_at: 2026-10-21
-updated_at: 2026-10-21
+updated_at: 2026-10-23

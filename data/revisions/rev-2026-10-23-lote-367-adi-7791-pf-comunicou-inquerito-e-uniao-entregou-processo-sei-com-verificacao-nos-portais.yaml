@@ -1,0 +1,110 @@
+id: rev-2026-10-23-lote-367-adi-7791-pf-comunicou-inquerito-e-uniao-entregou-processo-sei-com-verificacao-nos-portais
+kind: revision
+date: 2026-10-23
+title: "Lote 367 — ADI 7.791: Dino registra que a PF comunicou a instauração de inquérito sobre a atuação da
+  CVM e que a União entregou o processo SEI (decisão de 19/10/2026); verificação nos portais do STF e do TCU
+  dos lotes 362 a 364"
+summary: 'Lote de atualização de registros existentes, de camada D (decisões judiciais lidas na íntegra em
+  peças servidas pelo portal do STF e andamentos dos portais do STF e do TCU). O que NÃO se afirma, em
+  destaque: o Novelo não afirma que houve irregularidade na CVM nem nos fatos que o inquérito apura; decisão
+  que dá por cumpridas diligências não é condenação nem prova; o número do inquérito da PF não é público e não
+  é inventado; o Novelo não leu a comunicação da PF, a petição da União, o processo SEI nem a Pet 16.814
+  (sigilosa); o teor do parecer da PGR na Pet 16.704 segue classe A. O evento novo: em 19/10/2026, na ADI
+  7.791, o relator Flávio Dino registrou que a certidão do STF aponta ausência de manifestação da CVM (eDOC
+  215), mas que a União prestou as informações e entregou o processo SEI nº 19957.001206/2022-08 (eDOC 211) e
+  o espelho de tramitação (eDOC 209); deu por integralmente cumpridas as determinações do eDOC 199 e, tendo em
+  vista a instauração de inquérito policial já comunicada pela PF em autos apartados, mandou trasladar a
+  decisão e os eDOCs 208-211 à PET 16.814, com ciência à autoridade policial. Posições: STF (a decisão), PF e
+  União (conforme a decisão) e CVM (certidão de ausência de manifestação), cada uma atribuída. Verificação dos
+  lotes anteriores nos portais, em 23/10/2026: (a) lote 363, a decisão de 24/09 (código 7945-FE6E-EABB-E40B)
+  foi cotejada com a peça servida pelo portal do STF, de texto legível, e a fonte, o documento e a evidência
+  passam a apontar para ela, mantendo a classe D; (b) lote 362, o portal registra em 17/10, às 16:06, a
+  juntada de "Parecer da PGR" como petição sigilosa, com conclusão ao relator, e isso entra como evidência D
+  apenas sobre a juntada; o teor segue A pela cópia do Poder360, cuja chave do MPF não pôde ser validada sem
+  login gov.br; (c) lote 364, o número da Ata 36/2026 da 2ª Câmara e a sessão de 20/10 foram confirmados no
+  portal de pesquisa do TCU; o texto da ata e os autos continuam não lidos. Lotes 359, 360 e 361 sem mudança.
+  Atualiza o verbete da CVM.'
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 2
+  relationships: 0
+  sources: 4
+  evidence: 2
+updated_relationships: 0
+corrections:
+  - 'Lote 363: a decisão de 24/09/2026 na ADI 7.791 foi cotejada em 23/10/2026 com a peça servida pelo portal
+    do STF (downloadPeca id 15390694465, texto legível por pdftotext, sha256 do texto 2190b11734d6c2e9...): o
+    código 7945-FE6E-EABB-E40B do rodapé coincide, a data do fecho (24 de setembro de 2026) coincide com os
+    andamentos do portal, e o dispositivo (i) a (iv), o prazo de 60 dias, o de 72 horas e "Ciência à PGR"
+    coincidem com a transcrição do Poder360. Fonte, documento e evidência passam a apontar para a peça do
+    portal (nova fonte do STF); a cópia do Poder360 fica como fonte secundária; sai a ressalva de código não
+    conferido; classe D mantida (a evidência já era D, com documento).'
+  - "Lote 363: o contraditório da PF deixa de ser not_located. A decisão de 19/10/2026 registra que a PF
+    comunicou, em autos apartados, a instauração de inquérito; o número do inquérito não é público
+    e não foi registrado. O texto do evento de 24/09 e o verbete da CVM, que diziam não haver notícia da
+    instauração, passam a remeter ao evento novo de 19/10."
+  - "Lote 363: o contraditório da CVM no evento de 24/09 ganha a posição de ausência de manifestação (certidão
+    do STF de 07/10 e certidão eDOC 215, citada na decisão de 19/10), ao lado da versão atribuída pelo O Povo
+    em 24/09 (mobilizada para cumprir); são datas diferentes, não há conflito de fatos. As informações
+    requisitadas foram prestadas pela União, segundo a decisão de 19/10."
+  - 'Lote 362: o portal do STF (Pet 16704) registra em 17/10/2026, às 16:06:09, "Parecer da PGR - Petição
+    Sigilosa: 131105", com conclusão ao relator no mesmo dia, sem teor. Nova evidência D apenas sobre a
+    juntada (documento do andamento, com captura em raw/capturas/2026-10-23). A evidência do conteúdo continua
+    classe A e o evento continua A/unverified quanto ao conteúdo: a chave de validação
+    70c0a266.a4568e27.eb8109c4.f25adce4 não foi conferida, porque o validador do MPF exige login gov.br (não
+    se autenticou); a nota "não localizou a peça em autos públicos" passa a dizer que o portal a registra como
+    petição sigilosa.'
+  - 'Lote 362: o id da Revision
+    (rev-2026-10-20-lote-362-pgr-rejeita-investigar-mendonca-por-abuso-de-autoridade) diz "rejeita", mas o
+    título e o texto do lote dizem que a PGR "opina" que a representação não tem condições de seguimento,
+    ressalvado o entendimento do Plenário: o parecer é opinião do Ministério Público, não decisão nem
+    rejeição. O id NÃO foi renomeado: a busca por referências ao id antigo não ficou limpa (o manifesto
+    public/social/cards.json lista o id e há o card public/social/rev-2026-10-20-lote-362-...webp com o id no
+    nome; renomear quebraria o card e o endereço já publicado da atualização). O texto do lote, o título e o
+    evento seguem com "opina". O "rejeita" do id da fonte
+    src-poder360-2026-10-19-pgr-rejeita-abuso-de-autoridade-... é manchete do veículo e fica.'
+  - 'Lote 364: a Ata 36/2026 da 2ª Câmara (sessão de 20/10/2026), que o resumo da Revision 364 dá como "não
+    confirmado", passa a ter número e sessão confirmados: o portal de pesquisa do TCU, reaberto em 23/10/2026, exibe o Acórdão de Relação 5184/2026, relator Jorge
+    Oliveira, TC 007.138/2026-1, sessão de 20/10/2026, "Número da Ata 36/2026 - Segunda Câmara", representante
+    do MP Júlio Marcelo de Oliveira e unidade técnica AudBancos. Seguem não lidos o texto da ata, os autos e o
+    estado atual do TC 022.950/2025-7. O portal confirma o número e a sessão; a presidência da sessão
+    (Jhonatan de Jesus) continua sustentada só pelo excerto do Poder360. Os CPFs (mascarados no portal) não
+    são registrados.'
+  - 'Editor-master: as Revisions publicadas dos lotes 362, 363 e 364 são registro histórico; recebem só uma
+    linha nova em corrections. A frase do summary da Revision 364 alterada pelo redator foi restaurada ao texto
+    original. A Pet 16.814 não está "sem andamentos": o portal mostra autuação (29/09) e distribuição por
+    prevenção (06/10), e o evento de 19/10 passou a dizer isso. "A PF comunicou ao relator" virou "a PF
+    comunicou, em autos apartados", como na decisão.'
+author: orquestrador
+affected_ids:
+  - src-stf-2026-09-24-decisao-adi-7791-requisita-inquerito-pf-portal-do-stf
+  - src-stf-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-portal-do-stf
+  - src-stf-2026-10-23-andamentos-da-adi-7791-no-portal-do-stf
+  - src-stf-2026-10-23-andamentos-da-pet-16704-no-portal-do-stf
+  - doc-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-e-traslada-documentos-a-pet-16814
+  - doc-2026-10-17-andamento-da-pet-16704-no-portal-do-stf-registra-parecer-da-pgr-sigiloso
+  - ev-decisao-adi-7791-de-19-10-registra-inquerito-da-pf-em-autos-apartados-e-traslada-documentos-a-pet-16814
+  - ev-portal-do-stf-registra-juntada-de-parecer-da-pgr-sigiloso-na-pet-16704-em-17-10
+  - evt-2026-10-19-dino-registra-que-a-pf-comunicou-inquerito-sobre-a-cvm-e-traslada-documentos-a-pet-16814
+  - evt-2026-09-24-stf-requisita-a-pf-inquerito-sobre-a-atuacao-da-cvm-no-caso-master
+  - doc-2026-09-24-decisao-adi-7791-requisita-inquerito-pf-sobre-atuacao-da-cvm
+  - ev-decisao-adi-7791-de-24-09-requisita-a-pf-inquerito-sobre-a-atuacao-da-cvm
+  - src-poder360-2026-09-24-integra-decisao-adi-7791-requisita-inquerito-pf-cvm
+  - comissao-de-valores-mobiliarios
+  - evt-2026-10-17-pgr-opina-que-representacao-de-moraes-contra-mendonca-nao-tem-condicoes-de-seguimento
+  - ev-parecer-pgr-de-17-10-diz-que-representacao-de-moraes-contra-mendonca-nao-tem-condicoes-de-seguimento
+  - src-poder360-2026-10-19-integra-parecer-pgr-1753454-pet-16704
+  - evt-2026-10-20-tcu-julga-regulares-as-contas-de-2025-do-banco-central-e-levanta-o-sobrestamento
+  - src-tcu-2026-10-20-acordao-5184-2026-segunda-camara-tc-007-138-2026-1
+  - tribunal-de-contas-da-uniao
+  - rev-2026-10-20-lote-362-pgr-rejeita-investigar-mendonca-por-abuso-de-autoridade
+  - rev-2026-10-21-lote-363-stf-requisita-a-pf-inquerito-sobre-a-atuacao-da-cvm-no-caso-master
+  - rev-2026-10-21-lote-364-tcu-julga-regulares-as-contas-de-2025-do-bc-e-levanta-o-sobrestamento
+reason: Decisão nova de 19/10/2026 na ADI 7.791 (documento primário servido pelo portal do STF) e verificação,
+  nos portais, dos fatos pendentes dos lotes 362, 363 e 364, conforme a verificação A→D de 23/10/2026; entra
+  como ato do Judiciário e do Ministério Público, sem juízo de mérito, com as posições citadas na decisão.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23

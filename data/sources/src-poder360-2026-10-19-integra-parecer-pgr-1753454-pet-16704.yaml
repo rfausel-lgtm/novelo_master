@@ -24,9 +24,9 @@ verification:
   checked_by: orquestrador (lote:fonte, leitura integral do texto extraído)
   url_reachable: true
   content_matches_summary: true
-  notes: cópia; marca "Sigiloso"; chave de validação no portal do MPF não conferida.
+  notes: cópia; marca "Sigiloso"; chave de validação do MPF não conferida (em 23/10/2026 o validador exigia login gov.br, e o portal do STF registra a peça como petição sigilosa nº 131105, de 17/10/2026, sem o teor).
 review_status: published
 reviewer: orquestrador
-reviewed_at: 2026-10-20
+reviewed_at: 2026-10-23
 created_at: 2026-10-20
-updated_at: 2026-10-20
+updated_at: 2026-10-23

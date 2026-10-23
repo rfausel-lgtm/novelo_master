@@ -29,7 +29,8 @@ added:
   sources: 2
   evidence: 2
 updated_relationships: 1
-corrections: []
+corrections:
+  - 'Lote 367 (23/10/2026): o portal do STF registra em 17/10/2026, às 16:06, a juntada de "Parecer da PGR" como petição sigilosa na Pet 16704, sem o teor; entra evidência D só sobre a juntada, e o conteúdo segue classe A. O id desta Revision diz "rejeita", mas o texto diz que a PGR "opina"; o id foi mantido (o manifesto de cards e o card em public/social usam o id), e vale o texto.'
 author: orquestrador
 affected_ids:
   - src-poder360-2026-10-19-integra-parecer-pgr-1753454-pet-16704

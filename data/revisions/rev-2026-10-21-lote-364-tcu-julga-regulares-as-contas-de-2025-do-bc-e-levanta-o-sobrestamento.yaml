@@ -37,6 +37,7 @@ corrections:
 - 'Editor-master: a evidência do Poder360 sobre o TC 008.216/2025-8 e o TC 022.950/2025-7 dizia que este "segue sem a conclusão" que o sobrestamento aguardava, inferência que a reportagem não faz; passa a dizer o que a fonte diz (investigação que apura possível omissão, sem decisão de mérito informada) e muda de id para ev-poder360-relata-tc-008-216-2025-8-paralisado-e-descreve-o-tc-022-950-2025-7.'
 - 'Editor-master: a posição registrada de Jorge Oliveira deixa de trazer a leitura do Poder360 de que ele "voltou atrás"; caracterização do veículo não é posição do citado.'
 - 'Editor-master: o contraditório not_located do BC e de Galípolo passa a descrever a busca feita nas notas à imprensa de bcb.gov.br (16 a 21/10/2026).'
+- 'Lote 367 (23/10/2026): o resumo acima, mantido como registro histórico, dá a Ata 36/2026 da 2ª Câmara como "não confirmado"; desde então o portal de pesquisa do TCU exibe o número da ata, a sessão de 20/10/2026 e o relator do Acórdão de Relação 5184/2026. O texto da ata e os autos seguem não lidos.'
 author: orquestrador
 affected_ids:
   - src-tcu-2026-10-20-acordao-5184-2026-segunda-camara-tc-007-138-2026-1

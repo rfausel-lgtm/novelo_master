@@ -1,0 +1,38 @@
+id: doc-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-e-traslada-documentos-a-pet-16814
+kind: document
+title: Decisão do relator da ADI 7.791 de 19/10/2026 que dá por cumpridas as determinações do eDOC 199 e
+  traslada documentos à PET 16.814
+doc_type: judicial_decision
+date: 2026-10-19
+date_precision: day
+issuer_id: supremo-tribunal-federal
+issuer: Ministro Flávio Dino, relator da ADI 7.791 no STF
+reference: STF, ADI 7.791/DF, decisão de 19/10/2026 (código de autenticidade EFBE-DAF2-CD37-20DE)
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15391545547&ext=.pdf
+source_ids:
+  - src-stf-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-portal-do-stf
+  - src-stf-2026-10-23-andamentos-da-adi-7791-no-portal-do-stf
+sha256: cac3d82488facd87e08467ece6a6d1a0d5a47e5215ae5f185956b96514cb8841
+summary: Decisão de Flávio Dino, relator da ADI 7.791 no STF, em três páginas. Transcreve o dispositivo da
+  decisão de 24/09/2026 (eDOC 199) e registra que a Gerência de Processos Originários Cíveis certificou a
+  ausência de manifestação da CVM (eDOC 215), mas que as informações foram prestadas pela União, com a íntegra
+  do processo administrativo SEI nº 19957.001206/2022-08 (eDOC 211) e o espelho de tramitação (eDOC 209); que
+  foram informadas as unidades técnicas e identificados, nominalmente, os agentes responsáveis pela autuação,
+  instrução e decisão de arquivamento, sem que a decisão os nomeie; que se esclareceu a classificação
+  originária de sigilo e seu levantamento formal; e que não houve remessa ou compartilhamento externo de dados
+  do processo com o MPF, o Banco Central, a PF ou o Coaf. Considera integralmente cumpridas as determinações
+  do eDOC 199 e, tendo em vista a instauração de inquérito policial já comunicada pela PF em autos apartados,
+  manda trasladar a decisão, a petição da União e os eDOCs 208-211 para a PET 16.814, com ciência à autoridade
+  policial. Não traz o número do inquérito.
+excerpt: Tendo em vista a instauração de inquérito policial, já comunicada pela Polícia Federal em autos apartados
+is_official: true
+related_entity_ids:
+  - flavio-dino
+  - supremo-tribunal-federal
+  - comissao-de-valores-mobiliarios
+  - policia-federal
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

@@ -28,7 +28,11 @@ summary: 'Autarquia federal responsável pela regulação e fiscalização do me
   requisitou à Polícia Federal inquérito sobre os fatos descritos na decisão, entre eles o arquivamento do
   Processo SEI nº 19957.001206/2022-08, aberto em 18/02/2022 a partir de comunicação do FGC sobre o Grupo Master,
   e deu à CVM 72 horas para enviar o processo e informar quem o analisou e arquivou; a decisão não nomeia
-  investigados e não é condenação (evento de 24/09). Segundo O Povo, a CVM disse estar mobilizada para cumprir.'
+  investigados e não é condenação (evento de 24/09). Segundo O Povo, a CVM disse estar mobilizada para cumprir.
+  Em 19/10/2026 o relator registrou que a certidão do STF aponta ausência de manifestação da CVM, mas que a União
+  prestou as informações e entregou o processo SEI, que a PF comunicou em autos apartados a instauração do inquérito
+  (número não divulgado) e que os documentos foram trasladados à Pet 16.814, sigilosa (evento de 19/10); a decisão
+  não é condenação nem conclusão sobre a conduta de ninguém.'
 why_in_novelo: Regulador do mercado de capitais que processou repetidamente as empresas e pessoas do caso
   Master antes do colapso, e cuja atuação passou a ser questionada no Senado.
 cited_position:
@@ -48,6 +52,17 @@ cited_position:
   - src-opovo-2026-09-25-farol-dino-manda-pf-investigar-cvm-no-caso-master
   by_id: comissao-de-valores-mobiliarios
   date: '2026-09-24'
+- kind: no_response
+  summary: A certidão da Gerência de Processos Originários Cíveis do STF (eDOC 215), citada na decisão de 19/10/2026
+    na ADI 7.791, registra a ausência de manifestação da CVM em resposta à decisão de 24/09; a certidão de 07/10
+    nos andamentos da ADI registra o mesmo até aquela data. Segundo a decisão, as informações requisitadas foram
+    prestadas pela União, que juntou a íntegra do processo SEI nº 19957.001206/2022-08. Buscas de 21/10/2026
+    não localizaram nota própria da CVM sobre o mérito.
+  source_ids:
+  - src-stf-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-portal-do-stf
+  - src-stf-2026-10-23-andamentos-da-adi-7791-no-portal-do-stf
+  by_id: comissao-de-valores-mobiliarios
+  date: '2026-10-19'
 open_questions:
 - A CVM nunca deu explicação pública sobre o PAS 19957.008699/2019-01, o processo sobre desvio de recursos
   de regimes próprios de previdência, que segue sem julgamento desde 2016 e sequer consta da apresentação
@@ -59,9 +74,10 @@ open_questions:
 - O Colegiado condenou, em 29/09/2026, o diretor presidente e o diretor financeiro da REAG Capital Holding por
   não elaborarem demonstrações e ITR; o recurso ao CRSFN e a sessão de 03/11/2026 (Reag Trust/CBSF e Ramon
   Pessoa Dantas) estão em aberto.
-- Até 21/10/2026 não foi localizada notícia de que a CVM tenha enviado ao STF, no prazo de 72 horas, o Processo
-  SEI nº 19957.001206/2022-08 e as informações pedidas na decisão de 24/09/2026, nem de que a PF tenha
-  instaurado o inquérito requisitado (número e relatório de 60 dias).
+- Segundo a decisão de 19/10/2026, a CVM não respondeu à decisão de 24/09 e as informações foram prestadas pela
+  União; o Novelo não sabe por que a CVM não respondeu nem leu a petição da União, o processo SEI ou a Pet 16.814
+  (sigilosa). O número do inquérito que a PF comunicou ao STF em autos apartados não é público, e o relatório de 60
+  dias, se houver, não foi localizado.
 source_ids:
 - src-cvm-2020-12-01-decisao-tc-debentures
 - src-cvm-processos-a-julgar-por-relator
@@ -77,6 +93,9 @@ source_ids:
 - src-opovo-2026-09-25-farol-dino-manda-pf-investigar-cvm-no-caso-master
 - src-cvm-2026-06-23-ata-da-reuniao-do-colegiado-n-16
 - src-cvm-2026-06-30-colegiado-rejeita-proposta-de-tc-com-diretora-financeira-da-reag
+- src-stf-2026-09-24-decisao-adi-7791-requisita-inquerito-pf-portal-do-stf
+- src-stf-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-portal-do-stf
+- src-stf-2026-10-23-andamentos-da-adi-7791-no-portal-do-stf
 review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-10-23'

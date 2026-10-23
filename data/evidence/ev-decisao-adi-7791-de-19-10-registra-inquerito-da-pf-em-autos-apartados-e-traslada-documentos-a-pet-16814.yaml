@@ -1,0 +1,31 @@
+id: ev-decisao-adi-7791-de-19-10-registra-inquerito-da-pf-em-autos-apartados-e-traslada-documentos-a-pet-16814
+kind: evidence
+classification: D
+proposition: Em decisão de 19/10/2026 na ADI 7.791, o relator, Flávio Dino, registrou que a Gerência de
+  Processos Originários Cíveis certificou a ausência de manifestação da CVM em resposta à decisão de
+  24/09/2026 (eDOC 215), mas que as informações foram prestadas pela União (íntegra do processo SEI nº
+  19957.001206/2022-08, eDOC 211; espelho de tramitação, eDOC 209); considerou "integralmente cumpridas" as
+  determinações do eDOC 199; e, "Tendo em vista a instauração de inquérito policial, já comunicada pela
+  Polícia Federal em autos apartados", determinou o traslado da decisão, da petição da União e dos eDOCs
+  208-211 para a PET 16.814, com ciência à autoridade policial.
+document_ids:
+  - doc-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-e-traslada-documentos-a-pet-16814
+source_ids:
+  - src-stf-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-portal-do-stf
+  - src-stf-2026-10-23-andamentos-da-adi-7791-no-portal-do-stf
+excerpt: Considero, portanto, integralmente cumpridas as determinações constantes do eDOC 199.
+date: 2026-10-19
+locator: p. 2-3 (dois últimos blocos e fecho)
+notes: 'Classe D: decisão judicial com "Publique-se. Intimem-se.", sem marca de sigilo, servida pelo portal do
+  STF (downloadPeca id 15391545547) e lida na íntegra com texto legível; o código EFBE-DAF2-CD37-20DE do
+  rodapé foi conferido, e a data (19/10/2026) coincide com o fecho e com os andamentos da ADI 7791 (decisão
+  monocrática de 19/10; DJe divulgado em 19/10). Prova o que a decisão registra, não o conteúdo do que foi
+  entregue: o Novelo não leu a comunicação da PF, a petição da União nem o processo SEI (eDOCs 208-211 e a Pet
+  16.814, sigilosa). A decisão não traz o número do inquérito, não nomeia investigados nem os agentes que a
+  União diz ter identificado. Decisão que dá por cumpridas diligências não é condenação nem prova de ilícito.
+  As expressões entre aspas são da decisão.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

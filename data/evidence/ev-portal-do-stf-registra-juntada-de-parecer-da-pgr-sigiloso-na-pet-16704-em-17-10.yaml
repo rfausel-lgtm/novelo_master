@@ -1,0 +1,23 @@
+id: ev-portal-do-stf-registra-juntada-de-parecer-da-pgr-sigiloso-na-pet-16704-em-17-10
+kind: evidence
+classification: D
+proposition: O portal de processos do STF registra, nos andamentos da Pet 16704, que em 17/10/2026, às
+  16:06:09, foi juntado o "Parecer da PGR" como Petição Sigilosa nº 131105, seguido, no mesmo dia, de
+  "Conclusos ao(à) Relator(a)"; o teor da peça não é público no portal.
+document_ids:
+  - doc-2026-10-17-andamento-da-pet-16704-no-portal-do-stf-registra-parecer-da-pgr-sigiloso
+source_ids:
+  - src-stf-2026-10-23-andamentos-da-pet-16704-no-portal-do-stf
+excerpt: Parecer da PGR - Petição Sigilosa
+date: 2026-10-17
+locator: Andamentos, 17/10/2026
+notes: Classe D apenas quanto à juntada (existência, data, hora e tipo da peça), conferida no portal do STF em
+  23/10/2026. Não sustenta o teor do parecer, que segue classe A pela cópia do Poder360; o portal não permite
+  associar a Petição Sigilosa 131105 ao número ASSCRIM/PGR 1753454/2026 além da coincidência de data e
+  assunto. Manifestação do Ministério Público, não decisão. Depois da juntada, os andamentos até 21/10/2026
+  não registram despacho nem decisão sobre ela.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

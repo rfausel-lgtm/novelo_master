@@ -22,8 +22,9 @@ description: 'Em sessão de 20/10/2026, sete dias depois do Acórdão 5163/2026,
   Master, relator Jhonatan de Jesus, sob sigilo) nem o TC 008.216/2025-8 (operação BRB–Master); segundo o
   Poder360, este "está paralisado" à espera de elementos do STF, e a reportagem descreve aquele como
   investigação em curso, sem informar decisão de mérito (classe A). A decisão não é conclusão sobre a atuação
-  do BC no caso Master. O Novelo leu o acórdão no portal de jurisprudência do TCU, mas não a Ata 36/2026 nem
-  os autos.'
+  do BC no caso Master. O Novelo leu o acórdão no portal de jurisprudência do TCU e, em 23/10/2026, confirmou
+  nesse portal o número da Ata (36/2026 - Segunda Câmara), a sessão de 20/10/2026 e o relator; não leu o texto da
+  ata nem os autos.'
 evidence_class: D
 status: verified
 evidence_ids:
@@ -58,6 +59,6 @@ cited_position:
       - src-poder360-2026-10-20-tcu-desiste-de-esperar-por-caso-master-e-aprova-contas-do-bc
 review_status: published
 reviewer: orquestrador
-reviewed_at: 2026-10-21
+reviewed_at: 2026-10-23
 created_at: 2026-10-21
-updated_at: 2026-10-21
+updated_at: 2026-10-23

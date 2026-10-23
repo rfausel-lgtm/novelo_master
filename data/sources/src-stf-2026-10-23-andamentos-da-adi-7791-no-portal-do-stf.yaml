@@ -1,0 +1,32 @@
+id: src-stf-2026-10-23-andamentos-da-adi-7791-no-portal-do-stf
+kind: source
+title: ADI 7791 — andamentos no portal de processos do STF (consulta de 23/10/2026)
+publisher: Supremo Tribunal Federal (portal de processos)
+publication_date: 2026-10-23
+retrieved_at: 2026-10-23
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7186901
+source_type: official_court
+language: pt-BR
+summary: "Página de acompanhamento processual da ADI 7791 (processo eletrônico público, relator Min. Flávio
+  Dino). Registra, entre outros andamentos: decisão monocrática de 24/09/2026 e ofícios 22638/2026
+  (Diretor-Geral da PF, recebido em 24/09) e 22639/2026 (Presidente da CVM, expedido em 25/09 e entregue em
+  01/10); certidão de 07/10/2026 de que, até então, não houve manifestação da CVM nem da PF; decisão
+  monocrática de 19/10/2026; certidão de 19/10 de juntada de cópia da decisão aos autos da Pet 16814 e das
+  peças dos edocs 208-212; e publicação no DJe, divulgada em 19/10/2026."
+notes: 'Aberta no navegador embutido em 23/10/2026; texto das linhas relevantes registrado com lote:fonte
+  --texto. A certidão de 19/10 fala em "edocs 208-212", enquanto a decisão manda trasladar os eDOCs 208-211; o
+  Novelo registra as duas formulações sem concluir qual é a contagem correta. Consulta complementar, no mesmo
+  dia, à página da Pet 16814 no portal (incidente 7709309): processo eletrônico sigiloso, relator Flávio Dino,
+  com andamentos públicos só de autuação (29/09/2026) e distribuição por prevenção (06/10/2026). Página
+  dinâmica: o conteúdo muda a cada andamento novo.'
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (navegador direto)
+  url_reachable: true
+  content_matches_summary: true
+  notes: andamentos conferidos em 23/10/2026; a página muda com novos andamentos.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

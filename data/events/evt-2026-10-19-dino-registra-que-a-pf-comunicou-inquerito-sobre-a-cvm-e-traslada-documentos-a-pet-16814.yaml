@@ -1,0 +1,89 @@
+id: evt-2026-10-19-dino-registra-que-a-pf-comunicou-inquerito-sobre-a-cvm-e-traslada-documentos-a-pet-16814
+kind: event
+title: Na ADI 7.791, Dino registra que a PF comunicou a instauração de inquérito em autos apartados, que a CVM
+  não respondeu e que a União entregou o processo SEI; documentos vão à Pet 16.814
+event_type: judicial_decision
+date: 2026-10-19
+date_precision: day
+participant_ids:
+  - supremo-tribunal-federal
+  - flavio-dino
+  - comissao-de-valores-mobiliarios
+  - policia-federal
+description: Em decisão de 19/10/2026 na ADI 7.791 (três páginas; publicação no DJe divulgada em 19/10), o
+  relator, Flávio Dino, registrou que a Gerência de Processos Originários Cíveis do STF certificou a ausência
+  de manifestação da CVM em resposta à decisão de 24/09/2026 (eDOC 199; certidão no eDOC 215), mas que as
+  informações requisitadas foram prestadas pela União. Segundo a decisão, a União juntou a íntegra do processo
+  administrativo SEI nº 19957.001206/2022-08 (eDOC 211) e o espelho eletrônico com o histórico de tramitação
+  (eDOC 209); foram informadas as unidades técnicas pelas quais o processo tramitou e identificados,
+  nominalmente, os agentes responsáveis por sua autuação, instrução e decisão de arquivamento (eDOC 209);
+  esclareceu-se a classificação originária de sigilo e seu levantamento formal; e informou-se não ter havido
+  remessa ou compartilhamento externo de dados do processo com o Ministério Público Federal, o Banco Central,
+  a Polícia Federal ou o Conselho de Controle de Atividades Financeiras. O relator considerou "integralmente
+  cumpridas" as determinações do eDOC 199 e, "Tendo em vista a instauração de inquérito policial, já
+  comunicada pela Polícia Federal em autos apartados", determinou o traslado da decisão, da petição da União e
+  dos documentos que a acompanham (eDOCs 208-211) para a PET 16.814, com ciência à autoridade policial. A
+  decisão não traz o número do inquérito, não nomeia investigados nem os agentes mencionados, e o Novelo não
+  leu a comunicação da PF, a petição da União nem o processo SEI; o portal do STF classifica a Pet 16.814 como
+  processo eletrônico sigiloso, com andamentos públicos só de autuação (29/09) e distribuição por prevenção
+  (06/10). Os andamentos da ADI 7791 registram, em 19/10,
+  certidão de juntada de cópia da decisão aos autos da Pet 16814 e das peças dos "edocs 208-212" (a decisão
+  fala em 208-211). Antes, em 07/10/2026, outra certidão registrou que, até então, não houve manifestação da
+  CVM nem da PF em cumprimento à decisão de 24/09. Decisão que dá por cumpridas diligências não é condenação
+  nem prova de ilícito, e o Novelo não afirma que houve irregularidade na CVM nem nos fatos que o inquérito
+  apura. Ver evt-2026-09-24-stf-requisita-a-pf-inquerito-sobre-a-atuacao-da-cvm-no-caso-master.
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-decisao-adi-7791-de-19-10-registra-inquerito-da-pf-em-autos-apartados-e-traslada-documentos-a-pet-16814
+source_ids:
+  - src-stf-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-portal-do-stf
+  - src-stf-2026-10-23-andamentos-da-adi-7791-no-portal-do-stf
+document_ids:
+  - doc-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-e-traslada-documentos-a-pet-16814
+public_act_ids: []
+cited_position:
+  - by_id: supremo-tribunal-federal
+    kind: version
+    date: 2026-10-19
+    summary: "A própria decisão, assinada pelo relator, é a posição do STF: dá por cumpridas as determinações do
+      eDOC 199 e traslada os documentos à PET 16.814, com ciência à autoridade policial; não nomeia
+      investigados nem informa o número do inquérito."
+    source_ids:
+      - src-stf-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-portal-do-stf
+  - by_id: policia-federal
+    kind: version
+    date: 2026-10-19
+    summary: Segundo a decisão, a PF comunicou, em autos apartados, a instauração de inquérito
+      policial. O Novelo não leu essa comunicação; o número do inquérito não consta de nenhuma peça pública
+      localizada e não é divulgado aqui. Nenhuma nota pública da PF sobre o inquérito consta das fontes deste
+      registro.
+    source_ids:
+      - src-stf-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-portal-do-stf
+      - src-stf-2026-10-23-andamentos-da-adi-7791-no-portal-do-stf
+  - by_id: comissao-de-valores-mobiliarios
+    kind: no_response
+    date: 2026-10-19
+    summary: A certidão da Gerência de Processos Originários Cíveis do STF (eDOC 215), citada na decisão, registra
+      a ausência de manifestação da CVM em resposta à decisão de 24/09; a certidão de 07/10, nos andamentos da
+      ADI 7791, registra o mesmo até aquela data. Buscas na web de 21/10/2026 (lote 363) não localizaram nota
+      própria da CVM sobre o mérito; a versão atribuída à autarquia em 24/09 (estaria mobilizada, segundo O
+      Povo) consta do evento de 24/09.
+    source_ids:
+      - src-stf-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-portal-do-stf
+      - src-stf-2026-10-23-andamentos-da-adi-7791-no-portal-do-stf
+  - by: União (segundo a decisão de 19/10/2026)
+    kind: version
+    date: 2026-10-19
+    summary: "Segundo a decisão, a União apresentou a documentação determinada e prestou as informações
+      requisitadas à CVM: íntegra do processo SEI, espelho de tramitação, unidades técnicas, identificação
+      nominal dos agentes, regime de sigilo e seu levantamento, e a informação de que não houve remessa ou
+      compartilhamento externo com o MPF, o Banco Central, a PF ou o Coaf. O Novelo não leu a petição da União
+      (eDOCs 208-211); a decisão não indica o órgão da União que a assinou."
+    source_ids:
+      - src-stf-2026-10-19-decisao-adi-7791-registra-inquerito-da-pf-portal-do-stf
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

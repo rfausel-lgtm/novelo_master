@@ -30,16 +30,20 @@ description: 'Segundo a íntegra divulgada pelo Poder360 em 19/10/2026 (cópia c
   do Plenário". O parecer é opinião do Ministério Público, não decisão: segundo o próprio documento, o
   Plenário do STF é o titular da decisão de admitir ou recusar autorização para investigar integrante da
   Corte, e até 20/10/2026 não foi localizada decisão sobre o tema. Segundo o Poder360, o parecer foi
-  encaminhado ao STF em 17/10/2026. O mesmo parecer trata de outros sete documentos dos autos, não registrados neste evento. O
+  encaminhado ao STF em 17/10/2026. O portal do STF registra, nos andamentos da Pet 16704, a juntada de "Parecer da
+  PGR" como petição sigilosa nº 131105 em 17/10/2026, às 16:06, seguida de conclusão ao relator no mesmo dia; o teor
+  não é público no portal e vem, aqui, da cópia do Poder360. O mesmo parecer trata de outros sete documentos dos autos, não registrados neste evento. O
   Novelo não afirma o mérito da representação nem da resposta de Mendonça.'
 evidence_class: A
 status: unverified
 evidence_ids:
   - ev-parecer-pgr-de-17-10-diz-que-representacao-de-moraes-contra-mendonca-nao-tem-condicoes-de-seguimento
   - ev-poder360-relata-envio-e-divulgacao-do-parecer-da-pgr-sobre-mendonca
+  - ev-portal-do-stf-registra-juntada-de-parecer-da-pgr-sigiloso-na-pet-16704-em-17-10
 source_ids:
   - src-poder360-2026-10-19-integra-parecer-pgr-1753454-pet-16704
   - src-poder360-2026-10-19-pgr-rejeita-abuso-de-autoridade-em-conduta-de-mendonca-no-caso-master
+  - src-stf-2026-10-23-andamentos-da-pet-16704-no-portal-do-stf
 document_ids: []
 public_act_ids: []
 cited_position:
@@ -79,6 +83,6 @@ cited_position:
       - src-poder360-2026-10-19-pgr-rejeita-abuso-de-autoridade-em-conduta-de-mendonca-no-caso-master
 review_status: published
 reviewer: orquestrador
-reviewed_at: 2026-10-20
+reviewed_at: 2026-10-23
 created_at: 2026-10-20
-updated_at: 2026-10-20
+updated_at: 2026-10-23

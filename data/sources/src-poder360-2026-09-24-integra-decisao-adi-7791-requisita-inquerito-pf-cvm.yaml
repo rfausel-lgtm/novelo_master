@@ -17,16 +17,18 @@ notes: Aberta com lote:fonte em 21/10/2026; o texto extraído pelo pdftotext sai
   mapa Unicode). O Novelo renderizou as nove páginas como imagem (pypdfium2) e leu-as integralmente; a
   transcrição literal dos trechos usados (cabeçalho, seção I, seção III e dispositivo) foi registrada no cache
   com lote:fonte --texto. sha256 do PDF b2d48efa83eea4fd.... É cópia reproduzida por veículo, não URL do
-  portal do STF; o código de autenticidade não foi conferido no portal (a conferência exige preencher
-  formulário). A decisão traz "Publique-se" e não tem marca de sigilo.
+  portal do STF. A decisão traz "Publique-se" e não tem marca de sigilo. Atualização de 23/10/2026, a mesma
+  peça está no portal do STF (downloadPeca id 15390694465, texto legível), com o mesmo código de autenticidade
+  7945-FE6E-EABB-E40B no rodapé e o mesmo dispositivo; a fonte do portal passa a ser a principal (ver
+  src-stf-2026-09-24-decisao-adi-7791-requisita-inquerito-pf-portal-do-stf) e esta cópia fica como secundária.
 verification:
-  checked_at: 2026-10-21
-  checked_by: orquestrador (leitura visual integral das 9 páginas renderizadas)
+  checked_at: 2026-10-23
+  checked_by: orquestrador (leitura visual integral das 9 páginas renderizadas em 21/10; cotejo com a peça do portal do STF em 23/10)
   url_reachable: true
   content_matches_summary: true
-  notes: cópia do Poder360; código de autenticidade do STF não conferido no portal.
+  notes: cópia do Poder360; o código de autenticidade do STF coincide com o da mesma peça servida pelo portal do STF (conferido em 23/10/2026).
 review_status: published
 reviewer: orquestrador
-reviewed_at: 2026-10-21
+reviewed_at: 2026-10-23
 created_at: 2026-10-21
-updated_at: 2026-10-21
+updated_at: 2026-10-23

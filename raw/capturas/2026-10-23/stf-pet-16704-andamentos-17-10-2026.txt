@@ -1,0 +1,20 @@
+Captura de texto do portal do STF, consulta de 23/10/2026 (navegador embutido).
+URL: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920
+Cabeçalho: PROCESSO ELETRÔNICO PÚBLICO CRIMINAL | NÚMERO ÚNICO: 0183948-45.2026.1.00.0000 | PETIÇÃO (Pet 16704) | Origem: DF - DISTRITO FEDERAL | Relator(a): MINISTRO PRESIDENTE | REQTE.(S): DE OFÍCIO | INTDO.(A/S): NOVO - DIRETORIO NACIONAL - DF
+Aba "Andamentos" (ordem do portal, do mais recente ao mais antigo), trecho de 16/10/2026 a 21/10/2026:
+
+21/10/2026 | Conclusos à Presidência
+21/10/2026 | Petição | Manifestação - Petição: 132578 Data: 21/10/2026, às 14:17:34
+20/10/2026 | Conclusos à Presidência
+20/10/2026 | Petição | Manifestação - Petição: 131863 Data: 20/10/2026, às 14:04:36
+20/10/2026 | Petição | Manifestação - Petição: 131845 Data: 20/10/2026, às 13:39:09
+19/10/2026 | Conclusos à Presidência
+19/10/2026 | Petição | Manifestação - Petição: 131523 Data: 19/10/2026, às 20:48:39
+17/10/2026 | Conclusos ao(à) Relator(a)
+17/10/2026 | Petição | Parecer da PGR - Petição Sigilosa: 131105 Data: 17/10/2026, às 16:06:09
+16/10/2026 | Remessa | da Petição nº 130992/2026 para PRESIDÊNCIA
+16/10/2026 | Petição | Manifestação - Petição: 130992 Data: 16/10/2026, às 18:57:15
+16/10/2026 | Remessa | da Petição nº 130936/2026 para PRESIDÊNCIA
+16/10/2026 | Petição | Prioridade na tramitação do feito - Petição: 130936 Data: 16/10/2026, às 17:29:20
+
+O andamento não traz o teor da petição de 17/10/2026 (Petição Sigilosa 131105).

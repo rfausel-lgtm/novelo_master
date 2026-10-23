@@ -6,7 +6,9 @@ doc_type: judicial_decision
 date: 2026-09-24
 date_precision: day
 source_ids:
+  - src-stf-2026-09-24-decisao-adi-7791-requisita-inquerito-pf-portal-do-stf
   - src-poder360-2026-09-24-integra-decisao-adi-7791-requisita-inquerito-pf-cvm
+sha256: b7adc85e7ee1f57b5807422c084e9d6dda178eef8071bcf91d259e00bcf0b741
 summary: "Decisão de Flávio Dino, relator da ADI 7.791 no STF, em aditamento à decisão interlocutória de
   20/09/2026 (eDOC 190). Com base no relatório do grupo de trabalho da CVM (eDOC 182, 314 processos de 2017 a
   2026), registra que o Processo SEI nº 19957.001206/2022-08, instaurado em 18/02/2022 a partir de comunicação
@@ -25,12 +27,14 @@ related_entity_ids:
   - fgc
 issuer_id: supremo-tribunal-federal
 issuer: Ministro Flávio Dino, relator da ADI 7.791 no STF
-url: https://static.poder360.com.br/uploads/2026/09/ADI-7791-decisao-Dino-pede-investigacao-CVM-caso-Master-24set2026.pdf
-reference: STF, ADI 7.791/DF, decisão de 24/09/2026 (código de autenticidade 7945-FE6E-EABB-E40B)
+url: https://portal.stf.jus.br/processos/downloadPeca.asp?id=15390694465&ext=.pdf
+reference: STF, ADI 7.791/DF, decisão de 24/09/2026 (eDOC 199, segundo a decisão de 19/10/2026; código de
+  autenticidade 7945-FE6E-EABB-E40B, conferido em 23/10/2026 na peça servida pelo portal do STF; cópia hospedada
+  pelo Poder360 como fonte secundária)
 excerpt: (i) REQUISITAR, nos termos do art. 5.º, II, do CPP, à Polícia Federal a instauração de inquérito
   policial para apuração dos fatos descritos nesta decisão;
 review_status: published
 reviewer: orquestrador
-reviewed_at: 2026-10-21
+reviewed_at: 2026-10-23
 created_at: 2026-10-21
-updated_at: 2026-10-21
+updated_at: 2026-10-23

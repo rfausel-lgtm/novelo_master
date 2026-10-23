@@ -1,0 +1,27 @@
+id: doc-2026-10-17-andamento-da-pet-16704-no-portal-do-stf-registra-parecer-da-pgr-sigiloso
+kind: document
+title: Andamento de 17/10/2026 da Pet 16704 no portal do STF — juntada de parecer da PGR como petição sigilosa nº 131105
+doc_type: judicial_filing
+date: 2026-10-17
+date_precision: day
+issuer_id: supremo-tribunal-federal
+issuer: Portal de processos do STF (andamentos da Pet 16704)
+reference: STF, Pet 16704, andamento de 17/10/2026, 16:06:09 (Petição Sigilosa 131105)
+url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7687920
+source_ids:
+  - src-stf-2026-10-23-andamentos-da-pet-16704-no-portal-do-stf
+raw_path: raw/capturas/2026-10-23/stf-pet-16704-andamentos-17-10-2026.txt
+sha256: 06be59cc67c0883f8924bcc36449b11ca2d47a74a1128c9c47979eb07bad2841
+summary: 'Registro de andamento do portal do STF: em 17/10/2026, às 16:06:09, "Parecer da PGR - Petição
+  Sigilosa: 131105", seguido, no mesmo dia, de "Conclusos ao(à) Relator(a)". O andamento não traz o
+  teor da peça, que consta como sigilosa. O sha256 é o da captura de texto da página.'
+excerpt: Parecer da PGR - Petição Sigilosa
+is_official: true
+related_entity_ids:
+  - supremo-tribunal-federal
+  - ministerio-publico-federal
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23
