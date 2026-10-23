@@ -1,0 +1,28 @@
+id: src-cvm-2026-06-30-colegiado-rejeita-proposta-de-tc-com-diretora-financeira-da-reag
+kind: source
+title: Colegiado da CVM rejeita proposta de Termo de Compromisso com diretora financeira da REAG
+publisher: Comissão de Valores Mobiliários
+publication_date: 2026-06-30
+retrieved_at: 2026-10-23
+url: https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-nega-proposta-de-termo-de-compromisso-com-diretora-financeira-da-reag
+source_type: official_regulator
+language: pt-BR
+summary: Nota da CVM (publicada em 30/06/2026, 19h28) sobre a reunião do Colegiado de 23/06/2026, que analisou
+  quatro propostas de termo de compromisso. No item 3, o Colegiado acompanhou o parecer do Comitê de Termo de
+  Compromisso (CTC) e rejeitou a proposta de Fabiana Franco, na qualidade de diretora financeira da REAG
+  Investimentos S.A., no PAS 19957.011252/2025-50, instaurado pela SEP para apurar supostas irregularidades na
+  não elaboração das demonstrações financeiras anuais de 2024 e dos formulários de informações trimestrais do
+  1º e 2º trimestres de 2025. Os demais itens da nota (Americanas, Nova Futura CTVM, Braskem) não são objeto
+  deste lote.
+notes: Aberta em 23/10/2026 com lote:fonte (sha256 2804f00b3021efd2, 19.587 caracteres) e lida na íntegra do
+  item 3. A nota não informa o valor proposto; o valor consta da ata.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura do item 3)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

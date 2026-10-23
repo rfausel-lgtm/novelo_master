@@ -1,0 +1,27 @@
+id: doc-2026-06-30-nota-da-cvm-sobre-propostas-de-termo-de-compromisso-da-reuniao-de-23-06-2026
+kind: document
+title: Nota da CVM sobre as propostas de termo de compromisso analisadas na reunião do Colegiado de 23/06/2026
+  (item PAS 19957.011252/2025-50)
+doc_type: regulatory_record
+date: 2026-06-30
+date_precision: day
+issuer_id: comissao-de-valores-mobiliarios
+issuer: Comissão de Valores Mobiliários
+reference: Reunião do Colegiado de 23/06/2026; PAS 19957.011252/2025-50
+url: https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-nega-proposta-de-termo-de-compromisso-com-diretora-financeira-da-reag
+source_ids:
+  - src-cvm-2026-06-30-colegiado-rejeita-proposta-de-tc-com-diretora-financeira-da-reag
+summary: Nota que informa a rejeição, pelo Colegiado, da proposta de termo de compromisso de Fabiana Franco no
+  PAS 19957.011252/2025-50, os fundamentos do Comitê e a descrição das supostas irregularidades. Trata também
+  de três outros processos, que não são objeto deste lote.
+excerpt: rejeitou a proposta para celebração de Termo de Compromisso com Fabiana Franco
+is_official: true
+related_entity_ids:
+  - comissao-de-valores-mobiliarios
+  - fabiana-franco
+  - reag-investimentos
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

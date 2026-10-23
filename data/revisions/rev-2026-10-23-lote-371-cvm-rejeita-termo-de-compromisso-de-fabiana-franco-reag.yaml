@@ -1,0 +1,59 @@
+id: rev-2026-10-23-lote-371-cvm-rejeita-termo-de-compromisso-de-fabiana-franco-reag
+kind: revision
+date: 2026-10-23
+title: Lote 371 — A CVM rejeita, em 23/06/2026, a proposta de termo de compromisso de Fabiana Franco, diretora
+  financeira da Reag Investimentos, no PAS 19957.011252/2025-50
+summary: 'Lote de um ato da CVM, em camada D quanto ao conteúdo dos documentos. O que NÃO se afirma, em
+  destaque: a rejeição de uma proposta de termo de compromisso não é condenação, não é julgamento do mérito
+  nem reconhecimento de culpa; a CVM não decidiu se houve infração, e Fabiana Franco não está condenada. A
+  posição dela tem o mesmo destaque: a ata e a nota da CVM não reproduzem as razões da proponente, e nenhum
+  pronunciamento público dela foi localizado em busca de 23/10/2026. O que os documentos registram: em reunião
+  do Colegiado de 23/06/2026 (ata nº 16, nota publicada em 30/06), o Colegiado, por unanimidade e acompanhando
+  o parecer do Comitê de Termo de Compromisso, rejeitou a proposta de Fabiana Franco, diretora financeira da
+  REAG Investimentos S.A., no PAS 19957.011252/2025-50, instaurado pela Superintendência de Relações com
+  Empresas, sem outros acusados, para apurar supostas irregularidades na não elaboração das demonstrações
+  financeiras anuais completas de 2024 (art. 176 da Lei 6.404) e dos formulários de informações trimestrais do
+  1º e 2º trimestres de 2025 (art. 31 da Resolução CVM 80); a proponente ofereceu R$ 150.000,00 e a PFE-CVM
+  não viu óbice jurídico. O Comitê apontou a "gravidade, em tese, das condutas analisadas" e outros processos
+  e procedimentos sobre o grupo econômico da Reag, citando "possível atuação em desvio no âmbito do referido
+  grupo" (expressão do Comitê, atribuída, que o Novelo não adota), e concluiu que o melhor desfecho seria o
+  julgamento pelo Colegiado; o diretor Igor Muniz foi sorteado relator. Fontes: nota e ata da CVM, ambas
+  abertas em 23/10/2026. Registros novos: uma pessoa, dois documentos, duas fontes, duas evidências, um evento
+  e duas relações; atualizados os verbetes da CVM e da Reag Investimentos. Não confirmado: data de julgamento
+  (o PAS não consta da pauta de 09/10/2026), defesa de mérito, o parecer em PDF vinculado na nota (o texto
+  dele não é reproduzido na ata, que resume os fundamentos), e qualquer relação entre a REAG Investimentos S.A., a CBSF DTVM e a REAG Capital
+  Holding S.A.; o PAS 19957.011231/2025-34 (Mansur e Turelli) é outro processo.'
+added:
+  people: 1
+  organizations: 0
+  events: 1
+  documents: 2
+  relationships: 2
+  sources: 2
+  evidence: 2
+updated_relationships: 0
+corrections:
+  - "Plano de redação (não é correção de registro publicado): o gauntlet citava valores divergentes na ata (R$
+    193.623,90 e R$ 150.000,00); conferido, R$ 193.623,90 é a oferta de outro proponente (diretor da Americanas S.A., PAS 19957.000946/2023-08) e R$
+    150.000,00 é a de Fabiana Franco."
+author: orquestrador
+affected_ids:
+  - src-cvm-2026-06-30-colegiado-rejeita-proposta-de-tc-com-diretora-financeira-da-reag
+  - src-cvm-2026-06-23-ata-da-reuniao-do-colegiado-n-16
+  - doc-2026-06-23-ata-do-colegiado-n-16-e-parecer-do-comite-sobre-o-pas-19957-011252-2025-50
+  - doc-2026-06-30-nota-da-cvm-sobre-propostas-de-termo-de-compromisso-da-reuniao-de-23-06-2026
+  - ev-cvm-rejeita-proposta-de-tc-de-fabiana-franco-no-pas-19957-011252-2025-50
+  - ev-cvm-descreve-o-pas-19957-011252-2025-50-contra-fabiana-franco
+  - evt-2026-06-23-cvm-rejeita-proposta-de-termo-de-compromisso-da-diretora-financeira-da-reag-investimentos
+  - fabiana-franco
+  - rel-comissao-de-valores-mobiliarios-fabiana-franco-institutional
+  - rel-fabiana-franco-reag-investimentos-corporate
+  - comissao-de-valores-mobiliarios
+  - reag-investimentos
+reason: Atualização de rotina de ato da CVM apontada no gauntlet de reguladores de 22/10/2026 (item 5), com
+  documento primário aberto de novo em 23/10/2026; as fontes foram reabertas e cada fato conferido contra o
+  texto da ata e da nota. O valor de R$ 193.623,90 do gauntlet pertence a outro proponente (diretor da Americanas S.A., PAS 19957.000946/2023-08) e foi
+  descartado; o valor da proposta de Fabiana Franco é R$ 150.000,00.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23

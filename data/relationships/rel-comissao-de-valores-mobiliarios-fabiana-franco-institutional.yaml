@@ -1,0 +1,31 @@
+id: rel-comissao-de-valores-mobiliarios-fabiana-franco-institutional
+kind: relationship
+from_id: comissao-de-valores-mobiliarios
+to_id: fabiana-franco
+relationship_type: institutional
+directed: true
+label: PAS 19957.011252/2025-50; proposta de termo de compromisso rejeitada em 23/06/2026
+start_date: 2026-06-23
+description: A CVM instaurou o PAS 19957.011252/2025-50 contra Fabiana Franco, diretora financeira da Reag
+  Investimentos S.A., para apurar supostas irregularidades na não elaboração de demonstrações financeiras e
+  formulários trimestrais, e o Colegiado rejeitou, em 23/06/2026, a proposta de termo de compromisso dela. A
+  rejeição não é condenação nem reconhecimento de culpa; não há julgamento do mérito.
+evidence_class: D
+confidence: 0.9
+status: verified
+event_ids:
+  - evt-2026-06-23-cvm-rejeita-proposta-de-termo-de-compromisso-da-diretora-financeira-da-reag-investimentos
+evidence_ids:
+  - ev-cvm-rejeita-proposta-de-tc-de-fabiana-franco-no-pas-19957-011252-2025-50
+  - ev-cvm-descreve-o-pas-19957-011252-2025-50-contra-fabiana-franco
+source_ids:
+  - src-cvm-2026-06-23-ata-da-reuniao-do-colegiado-n-16
+  - src-cvm-2026-06-30-colegiado-rejeita-proposta-de-tc-com-diretora-financeira-da-reag
+document_ids:
+  - doc-2026-06-23-ata-do-colegiado-n-16-e-parecer-do-comite-sobre-o-pas-19957-011252-2025-50
+  - doc-2026-06-30-nota-da-cvm-sobre-propostas-de-termo-de-compromisso-da-reuniao-de-23-06-2026
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

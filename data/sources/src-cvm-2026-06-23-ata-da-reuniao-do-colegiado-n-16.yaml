@@ -1,0 +1,27 @@
+id: src-cvm-2026-06-23-ata-da-reuniao-do-colegiado-n-16
+kind: source
+title: ATA DA REUNIÃO DO COLEGIADO Nº 16 DE 23.06.2026
+publisher: Comissão de Valores Mobiliários
+publication_date: 2026-06-23
+retrieved_at: 2026-10-23
+url: https://conteudo.cvm.gov.br/decisoes/2026/20260623_R1.html
+source_type: official_regulator
+language: pt-BR
+summary: Ata da reunião do Colegiado da CVM de 23/06/2026, com o parecer do Comitê de Termo de Compromisso
+  resumido em cada item (o parecer vem como anexo). No item do PAS 19957.011252/2025-50 (Reg. 3533/26), registra que a proponente é Fabiana
+  Franco, diretora financeira da Reag Investimentos S.A., única acusada; que propôs pagar à CVM R$ 150.000,00;
+  que a Procuradoria Federal Especializada não viu óbice jurídico; que o Comitê opinou pela rejeição; e que o
+  Colegiado, por unanimidade, rejeitou a proposta, sendo o diretor Igor Muniz sorteado relator do processo.
+notes: Aberta em 23/10/2026 com lote:fonte (sha256 f99c90ca56665c0e, 38.659 caracteres). A página não traz
+  data de publicação; a data usada é a da reunião. O valor de R$ 193.623,90, que aparece em outro trecho da
+  ata, refere-se à proposta de outro proponente (diretor da Americanas S.A., PAS 19957.000946/2023-08) e não à de Fabiana Franco.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura do item do PAS 19957.011252/2025-50)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

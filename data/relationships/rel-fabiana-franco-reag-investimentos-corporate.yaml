@@ -1,0 +1,27 @@
+id: rel-fabiana-franco-reag-investimentos-corporate
+kind: relationship
+from_id: fabiana-franco
+to_id: reag-investimentos
+relationship_type: corporate
+directed: true
+label: diretora financeira da REAG Investimentos S.A., segundo a CVM
+description: A ata e a nota da CVM de 23/06/2026 e 30/06/2026 qualificam Fabiana Franco como diretora
+  financeira da REAG Investimentos S.A. no PAS 19957.011252/2025-50. O Novelo não estabeleceu a relação entre
+  essa companhia, a CBSF DTVM e a REAG Capital Holding S.A.; o registro vale para a denominação usada pela
+  CVM.
+evidence_class: D
+confidence: 0.8
+status: verified
+event_ids:
+  - evt-2026-06-23-cvm-rejeita-proposta-de-termo-de-compromisso-da-diretora-financeira-da-reag-investimentos
+evidence_ids:
+  - ev-cvm-descreve-o-pas-19957-011252-2025-50-contra-fabiana-franco
+source_ids:
+  - src-cvm-2026-06-23-ata-da-reuniao-do-colegiado-n-16
+document_ids:
+  - doc-2026-06-23-ata-do-colegiado-n-16-e-parecer-do-comite-sobre-o-pas-19957-011252-2025-50
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

@@ -1,0 +1,48 @@
+id: fabiana-franco
+kind: person
+name: Fabiana Franco
+aliases: []
+category: executive
+role: Diretora financeira da REAG Investimentos S.A., segundo a CVM, e acusada no PAS 19957.011252/2025-50
+positions:
+  - title: Diretora financeira
+    organization: REAG Investimentos S.A.
+    source_ids:
+      - src-cvm-2026-06-23-ata-da-reuniao-do-colegiado-n-16
+summary: É a única acusada no PAS 19957.011252/2025-50, instaurado pela CVM para apurar supostas
+  irregularidades na não elaboração das demonstrações financeiras anuais de 2024 e dos formulários de
+  informações trimestrais do 1º e 2º trimestres de 2025 da REAG Investimentos S.A., da qual era diretora
+  financeira, segundo a CVM. Em reunião de 23/06/2026, o Colegiado rejeitou, por unanimidade, a proposta de
+  termo de compromisso que ela apresentou (oferta de R$ 150.000,00). A rejeição não é condenação, não é
+  julgamento do mérito nem reconhecimento de culpa; o diretor Igor Muniz foi sorteado relator do processo, que
+  não consta da pauta de 09/10/2026. A ata e a nota da CVM não reproduzem as razões da proponente, e nenhum
+  pronunciamento público dela foi localizado.
+why_in_novelo: Acusada em processo sancionador da CVM sobre a Reag Investimentos, teve sua proposta de termo
+  de compromisso rejeitada pelo Colegiado em 23/06/2026.
+cited_position:
+  - by_id: fabiana-franco
+    kind: version
+    date: 2026-06-23
+    summary: Nos autos, apresentou proposta de termo de compromisso, com oferta de R$ 150.000,00, depois de
+      citada; a ata não reproduz as razões da proponente.
+    source_ids:
+      - src-cvm-2026-06-23-ata-da-reuniao-do-colegiado-n-16
+  - by_id: fabiana-franco
+    kind: not_located
+    date: 2026-10-23
+    summary: "Nenhuma nota pública ou manifestação localizada: busca na web em 23/10/2026 pelo nome com Reag, CVM
+      e termo de compromisso, e leitura da nota da CVM e da ata, que não trazem posição dela."
+    source_ids:
+      - src-cvm-2026-06-30-colegiado-rejeita-proposta-de-tc-com-diretora-financeira-da-reag
+open_questions:
+  - Não foi localizada data de julgamento do PAS 19957.011252/2025-50 nem defesa de mérito apresentada.
+  - O Novelo não estabeleceu a relação entre a REAG Investimentos S.A., citada pela CVM neste processo, a CBSF
+    DTVM e a REAG Capital Holding S.A.
+source_ids:
+  - src-cvm-2026-06-23-ata-da-reuniao-do-colegiado-n-16
+  - src-cvm-2026-06-30-colegiado-rejeita-proposta-de-tc-com-diretora-financeira-da-reag
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

@@ -1,0 +1,26 @@
+id: ev-cvm-descreve-o-pas-19957-011252-2025-50-contra-fabiana-franco
+kind: evidence
+classification: D
+proposition: Segundo a ata e a nota da CVM, o PAS 19957.011252/2025-50 foi instaurado pela Superintendência de
+  Relações com Empresas, sem outros acusados, para apurar supostas irregularidades de Fabiana Franco, na
+  qualidade de diretora financeira da Reag Investimentos S.A., pela não elaboração das demonstrações
+  financeiras anuais completas de 2024 (possível infração ao art. 176 da Lei 6.404/1976) e dos formulários de
+  informações trimestrais do 1º e 2º trimestres de 2025 (possível infração ao art. 31 da Resolução CVM
+  80/2022); depois de citada, ela propôs pagar R$ 150.000,00 à CVM.
+document_ids:
+  - doc-2026-06-23-ata-do-colegiado-n-16-e-parecer-do-comite-sobre-o-pas-19957-011252-2025-50
+  - doc-2026-06-30-nota-da-cvm-sobre-propostas-de-termo-de-compromisso-da-reuniao-de-23-06-2026
+source_ids:
+  - src-cvm-2026-06-23-ata-da-reuniao-do-colegiado-n-16
+  - src-cvm-2026-06-30-colegiado-rejeita-proposta-de-tc-com-diretora-financeira-da-reag
+excerpt: no qual não constam outros acusados
+locator: ata, parecer do Comitê, 1º ao 3º parágrafos; nota, item 3, Mais informações
+date: 2026-06-23
+notes: "D demonstra o que a CVM registra sobre a abertura do processo e a proposta, e nada sobre a ocorrência
+  dos fatos: o texto fala em suposta não elaboração e infração em tese. Não há acusação julgada. O PAS não
+  consta da pauta de julgamentos atualizada em 09/10/2026 (busca no texto da pauta)."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

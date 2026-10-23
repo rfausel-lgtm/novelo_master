@@ -1,0 +1,57 @@
+id: evt-2026-06-23-cvm-rejeita-proposta-de-termo-de-compromisso-da-diretora-financeira-da-reag-investimentos
+kind: event
+title: CVM rejeita a proposta de termo de compromisso de Fabiana Franco, diretora financeira da Reag
+  Investimentos, no PAS 19957.011252/2025-50
+event_type: regulatory_act
+date: 2026-06-23
+date_precision: day
+participant_ids:
+  - comissao-de-valores-mobiliarios
+  - fabiana-franco
+  - reag-investimentos
+description: Em reunião de 23/06/2026, divulgada pela CVM em 30/06, o Colegiado, por unanimidade e
+  acompanhando o parecer do Comitê de Termo de Compromisso, rejeitou a proposta de termo de compromisso de
+  Fabiana Franco, diretora financeira da Reag Investimentos S.A., no PAS 19957.011252/2025-50. O processo foi
+  instaurado pela Superintendência de Relações com Empresas, sem outros acusados, para apurar supostas
+  irregularidades na não elaboração das demonstrações financeiras anuais de 2024 e dos formulários de
+  informações trimestrais do 1º e 2º trimestres de 2025; a proponente havia oferecido pagar R$ 150.000,00. A
+  Procuradoria Federal Especializada não viu óbice jurídico ao acordo. O Comitê entendeu não ser conveniente
+  nem oportuno aceitá-la, em razão da "gravidade, em tese, das condutas analisadas" e da existência de outros
+  processos e procedimentos da CVM sobre o grupo econômico da Reag, que, segundo o parecer, guardam
+  pertinência com "possível atuação em desvio no âmbito do referido grupo"; para o Comitê, "o melhor desfecho,
+  no particular, seria o julgamento pelo Colegiado da CVM". Em seguida, o diretor Igor Muniz foi sorteado
+  relator. A rejeição não é condenação, não é julgamento do mérito e não é reconhecimento de culpa; a CVM não
+  decidiu se houve infração. A ata e a nota não reproduzem as razões da proponente, e nenhum pronunciamento
+  público dela foi localizado.
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-cvm-rejeita-proposta-de-tc-de-fabiana-franco-no-pas-19957-011252-2025-50
+  - ev-cvm-descreve-o-pas-19957-011252-2025-50-contra-fabiana-franco
+source_ids:
+  - src-cvm-2026-06-23-ata-da-reuniao-do-colegiado-n-16
+  - src-cvm-2026-06-30-colegiado-rejeita-proposta-de-tc-com-diretora-financeira-da-reag
+document_ids:
+  - doc-2026-06-23-ata-do-colegiado-n-16-e-parecer-do-comite-sobre-o-pas-19957-011252-2025-50
+  - doc-2026-06-30-nota-da-cvm-sobre-propostas-de-termo-de-compromisso-da-reuniao-de-23-06-2026
+cited_position:
+  - by_id: fabiana-franco
+    kind: version
+    date: 2026-06-23
+    summary: Nos autos, apresentou proposta de termo de compromisso, com oferta de R$ 150.000,00, depois de
+      citada; a ata e a nota não reproduzem as razões da proponente nem uma defesa de mérito.
+    source_ids:
+      - src-cvm-2026-06-23-ata-da-reuniao-do-colegiado-n-16
+  - by_id: fabiana-franco
+    kind: not_located
+    date: 2026-10-23
+    summary: "Nenhuma nota pública ou manifestação sobre a rejeição localizada: busca na web em 23/10/2026 pelo
+      nome com Reag, CVM e termo de compromisso, e leitura da nota da CVM e da ata, que não trazem posição
+      dela."
+    source_ids:
+      - src-cvm-2026-06-30-colegiado-rejeita-proposta-de-tc-com-diretora-financeira-da-reag
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23
