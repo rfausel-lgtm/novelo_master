@@ -1,0 +1,29 @@
+id: src-cnnbrasil-2026-01-22-apos-master-cmn-aprova-mudancas-de-regras-do-fgc
+kind: source
+title: Após Master, CMN aprova mudanças de regras do FGC
+publisher: CNN Brasil
+author: Cristiane Noberto
+publication_date: 2026-01-22
+retrieved_at: 2026-10-23
+url: https://www.cnnbrasil.com.br/economia/macroeconomia/apos-master-cmn-aprova-mudancas-de-regras-do-fgc/
+source_type: press
+language: pt-BR
+summary: Relata que o CMN aprovou em 22/01/2026 as mudanças no estatuto social e no regulamento do FGC
+  deliberadas em assembleias gerais de setembro de 2025 e janeiro de 2026; reproduz a descrição do FGC
+  (ampliação de suporte à transferência de controle mediante reconhecimento de situação conjuntural adversa
+  pelo BC; cobertura de despesas decorrentes de atos regulares de gestão; divulgação de saldos por
+  instituição; prazo máximo de três dias para início dos pagamentos) e afirma que as alterações fazem parte de
+  um processo de revisão iniciado após as liquidações do caso Banco Master.
+notes: Texto lido por lote:fonte em 23/10/2026. A página tem chamadas de outras matérias e de campanha
+  eleitoral, desconsideradas. Descrição do conteúdo é do FGC (aspas do veículo); o vínculo com o caso Master é
+  afirmação do veículo, não de documento.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

@@ -1,0 +1,22 @@
+id: ev-fgc-segundo-cnn-brasil-resolucao-amplia-suporte-a-transferencia-de-controle-em-situacao-conjuntural-adversa
+kind: evidence
+classification: A
+proposition: Segundo o FGC, na versão da CNN Brasil, entre as mudanças aprovadas pelo CMN em 22/01/2026 está a
+  ampliação do suporte do fundo à transferência de controle ou de ativos e passivos de associadas, mediante
+  reconhecimento de situação conjuntural adversa pelo BC; o Poder360 relata o mesmo conteúdo.
+source_ids:
+  - src-cnnbrasil-2026-01-22-apos-master-cmn-aprova-mudancas-de-regras-do-fgc
+  - src-poder360-2026-01-22-conselho-monetario-aprova-mudancas-no-regulamento-do-fgc
+excerpt: ampliação de suporte à transferência de controle ou de ativos e passivos de associadas, mediante
+  reconhecimento de situação conjuntural adversa pelo Banco Central
+locator: CNN Brasil, quarto parágrafo; Poder360, parágrafo "Entre as principais novidades"
+attributed_to: FGC (segundo a CNN Brasil)
+date: 2026-01-22
+notes: Descrição do FGC reproduzida pelos veículos, que não são independentes entre si. O consolidado do BC
+  marca como da 5.279 os incisos I a III do § 1º do art. 4º do estatuto (limites, encargos e operações
+  subsidiadas diante de situação conjuntural adversa reconhecida pelo BC), sem usar a expressão "ampliação".
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

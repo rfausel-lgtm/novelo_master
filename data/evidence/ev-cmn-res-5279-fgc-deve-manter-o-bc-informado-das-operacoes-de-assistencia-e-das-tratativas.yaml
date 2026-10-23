@@ -1,0 +1,19 @@
+id: ev-cmn-res-5279-fgc-deve-manter-o-bc-informado-das-operacoes-de-assistencia-e-das-tratativas
+kind: evidence
+classification: D
+proposition: Segundo o estatuto do FGC na redação dada pela Resolução CMN 5.279, o fundo deve manter o BC
+  informado das operações de assistência ou suporte financeiro a associadas, incluindo as tratativas que as
+  antecederem, a execução dos contratos e as repactuações.
+document_ids:
+  - doc-2026-01-22-res-cmn-5279-redacoes-no-texto-consolidado-da-res-4222
+source_ids:
+  - src-bcb-normativos-res-4222-v19-texto-consolidado-2026
+excerpt: O FGC deve manter o Banco Central do Brasil informado a respeito das operações de que trata o art.
+  3º, caput, inciso II, incluindo as tratativas que as antecederem
+locator: Anexo I (estatuto), art. 4º, § 2º
+date: 2026-01-22
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

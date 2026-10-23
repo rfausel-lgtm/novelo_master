@@ -1,0 +1,22 @@
+id: ev-bc-segundo-nota-citada-pela-imprensa-medidas-visam-mitigar-o-risco-moral-das-captacoes-com-garantia-do-fgc
+kind: evidence
+classification: A
+proposition: Segundo nota do Banco Central citada pela Reuters (Money Times), pelo Capital Aberto e pela
+  Folhapress, as medidas aprovadas pelo CMN em 23/04/2026 complementam o arcabouço existente e visam mitigar o
+  risco moral associado a captações excessivamente ancoradas na garantia do FGC.
+source_ids:
+  - src-moneytimes-2026-04-24-cmn-aperta-regra-para-bancos-captarem-recursos-com-garantia-do-fgc
+  - src-capitalaberto-2026-04-24-cmn-endurece-normas-para-liquidez-bancaria-e-uso-do-fgc
+  - src-diariodocomercio-2026-04-24-bc-aperta-regra-de-captacao-com-garantia-do-fgc-e-exige-de-bancos-aplicacao-em-ativos-de-maior-qualidade
+excerpt: mitigar o risco moral associado a captações excessivamente ancoradas na garantia do FGC
+locator: Money Times (Reuters), terceiro parágrafo
+attributed_to_id: banco-central-do-brasil
+attributed_to: Banco Central do Brasil (nota citada por Money Times/Reuters, Capital Aberto e Folhapress)
+date: 2026-04-23
+notes: Os três veículos reproduzem a mesma nota do BC, que não foi aberta; não são três apurações
+  independentes. É a justificativa declarada pelo BC, não uma conclusão do Novelo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

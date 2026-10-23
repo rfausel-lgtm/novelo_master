@@ -1,0 +1,23 @@
+id: ev-cmn-res-5295-cronograma-escalonado-da-alocacao-em-titulos-publicos-de-julho-de-2026-a-julho-de-2028
+kind: evidence
+classification: D
+proposition: Segundo o texto consolidado da Resolução CMN 4.222 na redação dada pela Resolução CMN 5.295, o
+  montante a alocar em títulos públicos federais quando a condição for o Ativo de Referência é calculado com
+  fatores de 0,05 a partir de 1º de julho de 2026, 0,15 a partir de 1º de janeiro de 2027, 0,30 a partir de 1º
+  de julho de 2027, 0,60 a partir de 1º de janeiro de 2028 e 1 a partir de 1º de julho de 2028, aplicados
+  sobre a diferença entre o Valor de Referência e o Ativo de Referência.
+document_ids:
+  - doc-2026-04-23-res-cmn-5295-redacoes-no-texto-consolidado-da-res-4222
+source_ids:
+  - src-bcb-normativos-res-4222-v19-texto-consolidado-2026
+excerpt: a partir de 1º de julho de 2028
+locator: art. 2º-B, § 3º-B, II, alíneas a a e
+date: 2026-04-23
+notes: O Folhapress/Diário do Comércio descreve o mesmo escalonamento em percentuais, associando o primeiro
+  degrau (5%) ao início da vigência, em 1º de junho; o PDF fixa 1º de julho de 2026 para o primeiro fator, e
+  prevalece.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

@@ -1,0 +1,40 @@
+id: conselho-monetario-nacional
+kind: organization
+name: Conselho Monetário Nacional
+aliases:
+  - CMN
+org_type: public_body
+jurisdiction: Brasil
+summary: Órgão deliberativo do Sistema Financeiro Nacional cujas resoluções são tornadas públicas pelo Banco
+  Central do Brasil. É ele quem aprova, por resolução, o estatuto e o regulamento do Fundo Garantidor de
+  Créditos (Resolução CMN 4.222/2013, Anexos I e II). Em 22/01/2026 editou a Resolução 5.279, que alterou esse
+  estatuto e esse regulamento, e em 23/04/2026 a Resolução 5.295, que alterou as regras de alocação de títulos
+  públicos federais pelas associadas ao FGC e introduziu o Ativo de Referência (classe D, texto consolidado
+  publicado pelo BC). Segundo o Poder360, o CMN afirmou que as mudanças de janeiro contribuem para a solidez
+  do SFN e não afetam as liquidações recentes. O Novelo não afirma que as resoluções tenham sido motivadas
+  pelo caso Master; essa leitura aparece em parte da imprensa, atribuída nos registros.
+why_in_novelo: Aprovou, em 22/01/2026 e 23/04/2026, resoluções que alteram o estatuto, o regulamento e as
+  regras de captação com garantia do FGC, fundo que, segundo a imprensa, pagou garantias a clientes do
+  conglomerado Master após as liquidações.
+cited_position:
+  - kind: clarification
+    summary: Segundo o Poder360 (22/01/2026), o CMN afirmou que as alterações no estatuto e no regulamento do FGC
+      contribuem para maior solidez do Sistema Financeiro Nacional e não afetam as liquidações recentes de
+      instituições financeiras.
+    by_id: conselho-monetario-nacional
+    date: 2026-01-22
+    source_ids:
+      - src-poder360-2026-01-22-conselho-monetario-aprova-mudancas-no-regulamento-do-fgc
+open_questions:
+  - Os textos originais das Resoluções 5.279 e 5.295 e os votos ao CMN que as propuseram não foram abertos; o
+    lote usa o texto consolidado da Resolução 4.222 publicado pelo BC.
+source_ids:
+  - src-bcb-normativos-res-4222-v19-texto-consolidado-2026
+  - src-poder360-2026-01-22-conselho-monetario-aprova-mudancas-no-regulamento-do-fgc
+  - src-cnnbrasil-2026-01-22-apos-master-cmn-aprova-mudancas-de-regras-do-fgc
+  - src-moneytimes-2026-04-24-cmn-aperta-regra-para-bancos-captarem-recursos-com-garantia-do-fgc
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

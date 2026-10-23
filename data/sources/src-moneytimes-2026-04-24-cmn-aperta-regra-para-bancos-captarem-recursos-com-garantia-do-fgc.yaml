@@ -1,0 +1,28 @@
+id: src-moneytimes-2026-04-24-cmn-aperta-regra-para-bancos-captarem-recursos-com-garantia-do-fgc
+kind: source
+title: CMN aperta regra para bancos captarem recursos com garantia do FGC e ajusta norma de liquidez
+publisher: Money Times (Reuters)
+publication_date: 2026-04-24
+retrieved_at: 2026-10-23
+url: https://www.moneytimes.com.br/cmn-aperta-regra-para-bancos-captarem-recursos-com-garantia-do-fgc-e-ajusta-norma-de-liquidez-fets/
+source_type: wire
+language: pt-BR
+summary: Texto da Reuters, de 24/04/2026, que relata, com base em nota do Banco Central, que o CMN aprovou em
+  23/04/2026 regra mais rigorosa para bancos que captam com garantia do FGC, com o indicador Ativo de
+  Referência (AR) e a obrigação de direcionar parte dos recursos a títulos públicos federais quando a captação
+  garantida superar o AR, em vigor a partir de 1º de junho de 2026 com aplicação gradual, além de ajustes de
+  exigências de liquidez.
+notes: Texto lido por lote:fonte em 23/10/2026. É a única fonte do lote que reproduz a nota do BC com aspas; a
+  nota em si não foi aberta. A matéria contextualiza com o caso Master e com menções a Daniel Vorcaro,
+  assuntos que o Novelo não importa para este lote. As medidas de liquidez são tratadas por outra resolução
+  (ver Capital Aberto) e não entram nos registros.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

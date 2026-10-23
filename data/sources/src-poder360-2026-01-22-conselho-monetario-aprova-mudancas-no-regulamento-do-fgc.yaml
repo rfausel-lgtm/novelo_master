@@ -1,0 +1,28 @@
+id: src-poder360-2026-01-22-conselho-monetario-aprova-mudancas-no-regulamento-do-fgc
+kind: source
+title: Conselho monetário aprova mudanças no regulamento do FGC
+publisher: Poder360
+author: Simone Kafruni
+publication_date: 2026-01-22
+retrieved_at: 2026-10-23
+url: https://www.poder360.com.br/poder-economia/conselho-monetario-aprova-mudancas-no-regulamento-do-fgc/
+source_type: press
+language: pt-BR
+summary: Relata que o CMN aprovou em 22/01/2026 alterações no estatuto e no regulamento do FGC deliberadas em
+  assembleias gerais do fundo em setembro de 2025 e janeiro de 2026; descreve a ampliação do suporte do FGC à
+  transferência de controle ou de ativos e passivos de associadas mediante reconhecimento de situação
+  conjuntural adversa pelo BC, a cobertura de despesas decorrentes de atos regulares de gestão de boa-fé, a
+  divulgação do saldo de instrumentos cobertos por instituição e o prazo máximo de 3 dias para o início do
+  pagamento das garantias; registra a afirmação do CMN de que as mudanças não afetam as liquidações recentes.
+notes: Texto lido por lote:fonte em 23/10/2026. O texto atribui as descrições ao FGC e ao CMN; traz também
+  estimativas de garantias do conglomerado Master e de patrimônio do FGC que o Novelo não adota.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

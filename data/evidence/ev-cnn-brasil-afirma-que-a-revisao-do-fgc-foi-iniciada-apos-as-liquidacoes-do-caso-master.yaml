@@ -1,0 +1,21 @@
+id: ev-cnn-brasil-afirma-que-a-revisao-do-fgc-foi-iniciada-apos-as-liquidacoes-do-caso-master
+kind: evidence
+classification: A
+proposition: A CNN Brasil afirma, em texto próprio, que as alterações aprovadas pelo CMN em 22/01/2026 fazem
+  parte do processo de revisão das regras do FGC iniciado após a série de liquidações relacionadas ao caso
+  Banco Master.
+source_ids:
+  - src-cnnbrasil-2026-01-22-apos-master-cmn-aprova-mudancas-de-regras-do-fgc
+excerpt: As alterações fazem parte do processo de revisão iniciado após a série de liquidações relacionadas ao
+  caso Banco Master
+locator: segundo parágrafo
+attributed_to: CNN Brasil (Cristiane Noberto)
+date: 2026-01-22
+notes: Leitura do veículo, sem citar documento. O Poder360 informa que as mudanças foram deliberadas em
+  assembleias do FGC em setembro de 2025 e janeiro de 2026 e registra a afirmação do CMN de que não afetam as
+  liquidações recentes. O Novelo não afirma nexo causal entre o caso Master e a resolução.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

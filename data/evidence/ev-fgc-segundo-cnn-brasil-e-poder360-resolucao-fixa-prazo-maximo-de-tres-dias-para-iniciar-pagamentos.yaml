@@ -1,0 +1,27 @@
+id: ev-fgc-segundo-cnn-brasil-e-poder360-resolucao-fixa-prazo-maximo-de-tres-dias-para-iniciar-pagamentos
+kind: evidence
+classification: A
+proposition: Segundo a CNN Brasil, que reproduz entre aspas a descrição do pacote em matéria baseada em
+  declarações do FGC, o conjunto aprovado em 22/01/2026 estabelece prazo máximo de três dias para o início dos
+  pagamentos das garantias após o recebimento formal das informações enviadas pelos liquidantes; o Poder360,
+  em matéria baseada em declarações do FGC e do CMN, relata o mesmo conteúdo.
+source_ids:
+  - src-cnnbrasil-2026-01-22-apos-master-cmn-aprova-mudancas-de-regras-do-fgc
+  - src-poder360-2026-01-22-conselho-monetario-aprova-mudancas-no-regulamento-do-fgc
+excerpt: estabelecimento de prazo máximo de três dias para o início dos pagamentos das garantias após o
+  recebimento formal das informações enviadas pelos liquidantes
+locator: CNN Brasil, penúltimos parágrafos; Poder360, parágrafo sobre o novo regulamento
+attributed_to: CNN Brasil e Poder360 (descrição das mudanças divulgada pelo FGC e pelo CMN)
+date: 2026-01-22
+notes: Os dois veículos descrevem a mesma comunicação do FGC e do CMN, de modo que não são fontes
+  independentes entre si. No texto consolidado do BC, o art. 2º, § 12, do regulamento, incluído pela 5.279,
+  manda aplicar ao pagamento da garantia ordinária o art. 9º, §§ 2º, 3º e 5º (pagamento da garantia especial
+  em até três dias úteis após a decretação, com prazo estendido em caso de divergência ou atraso nas
+  informações); essa remissão não tem a mesma redação do prazo descrito pela imprensa, e o Novelo não a
+  interpreta como equivalente. A evidência registra a afirmação, não a norma. O texto original da 5.279 não foi
+  aberto.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

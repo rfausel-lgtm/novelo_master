@@ -1,0 +1,29 @@
+id: src-diariodocomercio-2026-04-24-bc-aperta-regra-de-captacao-com-garantia-do-fgc-e-exige-de-bancos-aplicacao-em-ativos-de-maior-qualidade
+kind: source
+title: BC aperta regra de captação com garantia do FGC e exige de bancos aplicação em ativos de maior qualidade
+publisher: Diário do Comércio (Folhapress)
+author: Nathalia Garcia
+publication_date: 2026-04-24
+retrieved_at: 2026-10-23
+url: https://diariodocomercio.com.br/?p=577063
+source_type: wire
+language: pt-BR
+summary: Texto da Folhapress, de 24/04/2026, que relata o aperto das regras para captações com garantia do FGC
+  aprovado pelo CMN em 23/04/2026, o cronograma de alocação em títulos públicos federais (inicialmente 5%, 15%
+  em janeiro de 2027, 30% em julho de 2027, 60% em janeiro de 2028 e 100% em julho de 2028), a citação da nota
+  do BC sobre risco moral e a afirmação do próprio veículo de que a decisão ocorre no rastro da crise do Banco
+  Master.
+notes: Texto lido por lote:fonte em 23/10/2026. Republicação regional de texto da Folhapress, registrada como
+  uma só fonte. O texto associa o primeiro degrau de 5% ao início da vigência, em 1º de junho; o PDF
+  consolidado fixa 1º de julho de 2026 para o primeiro fator (0,05); vale o PDF. Menções a Daniel Vorcaro e à
+  estratégia de captação do Master são do veículo e não são importadas.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

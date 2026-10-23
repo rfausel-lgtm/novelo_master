@@ -1,0 +1,62 @@
+id: evt-2026-01-22-cmn-altera-estatuto-e-regulamento-do-fgc
+kind: event
+title: CMN aprova a Resolução 5.279, que altera o estatuto e o regulamento do FGC
+event_type: regulatory_act
+date: 2026-01-22
+date_precision: day
+participant_ids:
+  - conselho-monetario-nacional
+  - fundo-garantidor-de-creditos
+  - banco-central-do-brasil
+description: O CMN aprovou em 22/01/2026 a Resolução 5.279, que altera o estatuto e o regulamento do FGC
+  (Resolução CMN 4.222/2013, Anexos I e II). Segundo o Poder360, as mudanças haviam sido deliberadas em
+  assembleias gerais do fundo em setembro de 2025 e janeiro de 2026. O texto consolidado do BC marca como da
+  5.279, entre outros, dispositivos sobre operações subsidiadas, informação ao BC das tratativas de
+  assistência, divulgação pública de relatórios por associada, compromisso de indenidade de administradores e
+  valor limite e provisão no pagamento da garantia. Segundo o FGC (CNN Brasil; o Poder360 relata o mesmo
+  conteúdo), o pacote inclui apoio ampliado à transferência de controle em situação conjuntural adversa
+  reconhecida pelo BC; CNN Brasil e Poder360 relatam também prazo máximo de três dias para o início dos
+  pagamentos após o recebimento formal das informações dos liquidantes. O texto consolidado lido não traz
+  esses dois pontos nesses termos, e eles ficam em classe A, atribuídos. A CNN Brasil liga a revisão ao caso Master; o Novelo registra o enquadramento como atribuído
+  e não afirma nexo causal.
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-cmn-res-5279-numero-e-data-no-texto-consolidado-da-res-4222
+  - ev-cmn-res-5279-operacoes-subsidiadas-do-fgc-sob-criterios-de-elegibilidade-e-processo-competitivo
+  - ev-cmn-res-5279-fgc-deve-manter-o-bc-informado-das-operacoes-de-assistencia-e-das-tratativas
+  - ev-cmn-res-5279-associada-autoriza-a-divulgacao-publica-de-relatorios-por-associada
+  - ev-cmn-res-5279-estatuto-prev-compromisso-de-indenidade-para-administradores-do-fgc
+  - ev-cmn-res-5279-regulamento-fixa-valor-limite-vigente-na-decretacao-e-provisao-pelo-fgc
+  - ev-fgc-segundo-cnn-brasil-e-poder360-resolucao-fixa-prazo-maximo-de-tres-dias-para-iniciar-pagamentos
+  - ev-fgc-segundo-cnn-brasil-resolucao-amplia-suporte-a-transferencia-de-controle-em-situacao-conjuntural-adversa
+  - ev-cnn-brasil-afirma-que-a-revisao-do-fgc-foi-iniciada-apos-as-liquidacoes-do-caso-master
+source_ids:
+  - src-bcb-normativos-res-4222-v19-texto-consolidado-2026
+  - src-poder360-2026-01-22-conselho-monetario-aprova-mudancas-no-regulamento-do-fgc
+  - src-cnnbrasil-2026-01-22-apos-master-cmn-aprova-mudancas-de-regras-do-fgc
+document_ids:
+  - doc-2026-01-22-res-cmn-5279-redacoes-no-texto-consolidado-da-res-4222
+public_act_ids:
+  - ato-2026-01-22-res-cmn-5279-estatuto-e-regulamento-do-fgc
+cited_position:
+  - kind: clarification
+    summary: Segundo o Poder360, o CMN afirmou que as alterações contribuem para maior solidez do SFN e não afetam
+      as liquidações recentes de instituições financeiras.
+    by_id: conselho-monetario-nacional
+    date: 2026-01-22
+    source_ids:
+      - src-poder360-2026-01-22-conselho-monetario-aprova-mudancas-no-regulamento-do-fgc
+  - kind: clarification
+    summary: Segundo a CNN Brasil, o FGC afirmou que as medidas tornam o processo de pagamento de garantias mais
+      rápido, previsível e alinhado às melhores práticas internacionais, sem afetar as liquidações recentes de
+      instituições financeiras.
+    by_id: fundo-garantidor-de-creditos
+    date: 2026-01-22
+    source_ids:
+      - src-cnnbrasil-2026-01-22-apos-master-cmn-aprova-mudancas-de-regras-do-fgc
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

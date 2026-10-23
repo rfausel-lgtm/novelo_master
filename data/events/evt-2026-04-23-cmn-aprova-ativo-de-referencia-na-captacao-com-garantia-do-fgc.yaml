@@ -1,0 +1,49 @@
+id: evt-2026-04-23-cmn-aprova-ativo-de-referencia-na-captacao-com-garantia-do-fgc
+kind: event
+title: CMN aprova a Resolução 5.295, com o Ativo de Referência para captações com garantia do FGC
+event_type: regulatory_act
+date: 2026-04-23
+date_precision: day
+participant_ids:
+  - conselho-monetario-nacional
+  - fundo-garantidor-de-creditos
+  - banco-central-do-brasil
+description: O CMN aprovou em 23/04/2026 a Resolução 5.295, que altera as regras de alocação de títulos
+  públicos federais pelas instituições associadas ao FGC. O texto consolidado do BC inclui o Ativo de
+  Referência entre os gatilhos da alocação, com fatores escalonados de 1º de julho de 2026 a 1º de julho de
+  2028, e marca a vigência dos dispositivos alterados a partir de 1º/6/2026. Segundo nota do BC citada pela
+  Reuters, pelo Capital Aberto e pela Folhapress, as medidas visam mitigar o risco moral de captações
+  excessivamente ancoradas na garantia do FGC. A Folhapress afirma que a decisão ocorre no rastro da crise do
+  Banco Master; o Novelo registra o enquadramento como atribuído e não afirma nexo causal. O texto original da
+  resolução e a nota do BC não foram abertos.
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-cmn-res-5295-ativo-de-referencia-aciona-a-alocacao-em-titulos-publicos-federais
+  - ev-cmn-res-5295-cronograma-escalonado-da-alocacao-em-titulos-publicos-de-julho-de-2026-a-julho-de-2028
+  - ev-cmn-res-5295-vigencia-a-partir-de-1-6-2026-no-texto-consolidado
+  - ev-bc-segundo-nota-citada-pela-imprensa-medidas-visam-mitigar-o-risco-moral-das-captacoes-com-garantia-do-fgc
+  - ev-folhapress-afirma-que-a-decisao-do-bc-ocorre-no-rastro-da-crise-do-banco-master
+source_ids:
+  - src-bcb-normativos-res-4222-v19-texto-consolidado-2026
+  - src-moneytimes-2026-04-24-cmn-aperta-regra-para-bancos-captarem-recursos-com-garantia-do-fgc
+  - src-capitalaberto-2026-04-24-cmn-endurece-normas-para-liquidez-bancaria-e-uso-do-fgc
+  - src-diariodocomercio-2026-04-24-bc-aperta-regra-de-captacao-com-garantia-do-fgc-e-exige-de-bancos-aplicacao-em-ativos-de-maior-qualidade
+document_ids:
+  - doc-2026-04-23-res-cmn-5295-redacoes-no-texto-consolidado-da-res-4222
+public_act_ids:
+  - ato-2026-04-23-res-cmn-5295-ativo-de-referencia
+cited_position:
+  - kind: clarification
+    summary: Segundo nota do BC citada pela Reuters (Money Times), as medidas complementam o arcabouço existente,
+      visam mitigar o risco moral associado a captações excessivamente ancoradas na garantia do FGC e entram
+      em vigor a partir de 1º de junho de 2026, com aplicação gradual.
+    by_id: banco-central-do-brasil
+    date: 2026-04-23
+    source_ids:
+      - src-moneytimes-2026-04-24-cmn-aperta-regra-para-bancos-captarem-recursos-com-garantia-do-fgc
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

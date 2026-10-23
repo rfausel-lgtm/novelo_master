@@ -1,0 +1,70 @@
+id: rev-2026-10-23-lote-369-cmn-altera-estatuto-do-fgc-res-5279-e-ativo-de-referencia-res-5295
+kind: revision
+date: 2026-10-23
+title: "Lote 369 — CMN e FGC: Resolução 5.279 (22/01/2026) e Resolução 5.295 (23/04/2026, Ativo de Referência)"
+summary: "Registra duas resoluções do Conselho Monetário Nacional sobre o Fundo Garantidor de Créditos, com
+  base no texto consolidado da Resolução CMN 4.222/2013 publicado pelo Banco Central (arquivo
+  Res_4222_v19_L.pdf, lido integralmente em 23/10/2026, classe D). A Resolução 5.279, de 22/01/2026, alterou o
+  estatuto e o regulamento do FGC: o consolidado marca como dela, entre outros, as operações subsidiadas sob
+  critérios de elegibilidade e processo competitivo, o dever de manter o BC informado das tratativas de
+  assistência, a divulgação pública de relatórios por associada, o compromisso de indenidade de
+  administradores e as regras de valor limite e provisão no pagamento da garantia. A Resolução 5.295, de
+  23/04/2026, incluiu o Ativo de Referência entre os gatilhos da obrigação de alocar recursos em títulos
+  públicos federais, com fatores de 0,05 (1º/07/2026) a 1 (1º/07/2028), e o consolidado marca a vigência dos
+  dispositivos a partir de 1º/06/2026. Poder360 e CNN Brasil (22/01) e Reuters/Money Times, Capital Aberto e
+  Folhapress (24/04) cobrem as decisões; o que dizem sobre conteúdo, prazo de três dias para início dos
+  pagamentos, apoio à transferência de controle e justificativa do BC (risco moral) é registrado em classe A,
+  atribuído. O lote NÃO afirma que as resoluções tenham sido motivadas pelo caso Master (CNN Brasil e
+  Folhapress fazem esse enquadramento, atribuído); NÃO afirma a data de início de vigência da 5.279 (o
+  consolidado não a traz); NÃO usa os textos originais das resoluções nem os votos ao CMN, a nota do BC ou o
+  Diário Oficial, que não foram abertos; e NÃO registra a liquidação do Banco Master Múltiplo (17/03/2026),
+  cujo ato do BC não foi localizado. As medidas de liquidez da mesma reunião do CMN (que a imprensa atribui a
+  outra resolução) ficaram de fora. Cria o verbete do CMN, ainda inexistente, e liga-o ao FGC; registra
+  também os 2 atos públicos correspondentes às resoluções (coleção public-acts, que não tem contagem em
+  added)."
+added:
+  people: 0
+  organizations: 1
+  events: 2
+  documents: 2
+  relationships: 1
+  sources: 6
+  evidence: 14
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - conselho-monetario-nacional
+  - src-bcb-normativos-res-4222-v19-texto-consolidado-2026
+  - src-poder360-2026-01-22-conselho-monetario-aprova-mudancas-no-regulamento-do-fgc
+  - src-cnnbrasil-2026-01-22-apos-master-cmn-aprova-mudancas-de-regras-do-fgc
+  - src-moneytimes-2026-04-24-cmn-aperta-regra-para-bancos-captarem-recursos-com-garantia-do-fgc
+  - src-capitalaberto-2026-04-24-cmn-endurece-normas-para-liquidez-bancaria-e-uso-do-fgc
+  - src-diariodocomercio-2026-04-24-bc-aperta-regra-de-captacao-com-garantia-do-fgc-e-exige-de-bancos-aplicacao-em-ativos-de-maior-qualidade
+  - doc-2026-01-22-res-cmn-5279-redacoes-no-texto-consolidado-da-res-4222
+  - doc-2026-04-23-res-cmn-5295-redacoes-no-texto-consolidado-da-res-4222
+  - ev-cmn-res-5279-numero-e-data-no-texto-consolidado-da-res-4222
+  - ev-cmn-res-5279-operacoes-subsidiadas-do-fgc-sob-criterios-de-elegibilidade-e-processo-competitivo
+  - ev-cmn-res-5279-fgc-deve-manter-o-bc-informado-das-operacoes-de-assistencia-e-das-tratativas
+  - ev-cmn-res-5279-associada-autoriza-a-divulgacao-publica-de-relatorios-por-associada
+  - ev-cmn-res-5279-estatuto-prev-compromisso-de-indenidade-para-administradores-do-fgc
+  - ev-cmn-res-5279-regulamento-fixa-valor-limite-vigente-na-decretacao-e-provisao-pelo-fgc
+  - ev-fgc-segundo-cnn-brasil-e-poder360-resolucao-fixa-prazo-maximo-de-tres-dias-para-iniciar-pagamentos
+  - ev-fgc-segundo-cnn-brasil-resolucao-amplia-suporte-a-transferencia-de-controle-em-situacao-conjuntural-adversa
+  - ev-cnn-brasil-afirma-que-a-revisao-do-fgc-foi-iniciada-apos-as-liquidacoes-do-caso-master
+  - ev-cmn-res-5295-ativo-de-referencia-aciona-a-alocacao-em-titulos-publicos-federais
+  - ev-cmn-res-5295-cronograma-escalonado-da-alocacao-em-titulos-publicos-de-julho-de-2026-a-julho-de-2028
+  - ev-cmn-res-5295-vigencia-a-partir-de-1-6-2026-no-texto-consolidado
+  - ev-bc-segundo-nota-citada-pela-imprensa-medidas-visam-mitigar-o-risco-moral-das-captacoes-com-garantia-do-fgc
+  - ev-folhapress-afirma-que-a-decisao-do-bc-ocorre-no-rastro-da-crise-do-banco-master
+  - ato-2026-01-22-res-cmn-5279-estatuto-e-regulamento-do-fgc
+  - ato-2026-04-23-res-cmn-5295-ativo-de-referencia
+  - evt-2026-01-22-cmn-altera-estatuto-e-regulamento-do-fgc
+  - evt-2026-04-23-cmn-aprova-ativo-de-referencia-na-captacao-com-garantia-do-fgc
+  - rel-conselho-monetario-nacional-fundo-garantidor-de-creditos-institutional
+  - fundo-garantidor-de-creditos
+reason: Lacuna de atos regulatórios do CMN sobre o FGC (radar regulador de 23/10/2026), com documento primário
+  aberto.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
