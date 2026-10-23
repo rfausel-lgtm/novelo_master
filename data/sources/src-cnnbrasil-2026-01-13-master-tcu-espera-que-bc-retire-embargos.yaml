@@ -1,0 +1,26 @@
+id: src-cnnbrasil-2026-01-13-master-tcu-espera-que-bc-retire-embargos
+kind: source
+title: "Master: TCU espera que BC retire embargos e evite racha em plenário"
+publisher: CNN Brasil
+author: Jussara Soares e Daniel Rittner
+publication_date: 2026-01-13
+retrieved_at: 2026-10-23
+url: https://www.cnnbrasil.com.br/politica/master-tcu-espera-que-bc-retire-embargos-e-evite-racha-em-plenario/
+source_type: press
+language: pt-BR
+summary: Relata que em 12/01/2026 o presidente do BC, Gabriel Galípolo, recebeu o presidente do TCU, Vital do
+  Rêgo, e o relator Jhonatan de Jesus, e que o encontro abriu caminho para acordo de inspeção pela
+  AudBancos, com compromisso do TCU de respeitar sigilos; segundo apuração da CNN, o BC estaria disposto a
+  retirar os embargos, previstos para o Plenário de 21/01; transcreve declarações de Vital do Rêgo em coletiva
+  após o encontro.
+notes: Os relatos de bastidor da reunião atribuídos a fontes não identificadas não são usados.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura integral do texto extraído)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

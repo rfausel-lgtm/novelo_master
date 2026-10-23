@@ -1,0 +1,44 @@
+id: src-poder360-2025-12-18-integra-despacho-tcu-tc-022-950-2025-7
+kind: source
+title: Despacho do relator Jhonatan de Jesus no TC 022.950/2025-7 (TCU, 18/12/2025, PDF)
+publisher: Poder360 (reprodução de despacho do TCU)
+author: Ministro Jhonatan de Jesus (relator)
+publication_date: 2025-12-18
+retrieved_at: 2026-10-23
+url: https://static.poder360.com.br/2025/12/idSisdoc_32473484v9-39-Despacho-MIN-JPJ-2025-12-18.pdf
+source_type: official_regulator
+language: pt-BR
+summary: Íntegra, hospedada pelo Poder360, de despacho de 18/12/2025 no TC 022.950/2025-7, representação do
+  Ministério Público junto ao TCU que suscita indícios de falhas na supervisão do Banco Central sobre o Banco
+  Master; responsáveis e interessados com identidade preservada. O relator lista elementos posteriores à
+  admissão (proposta de aquisição por grupo privado às vésperas da liquidação, tratativas de solução privada
+  com o FGC, "indícios de cronologia atípica do processo decisório" e possíveis divergências internas no BC),
+  cita como elemento corroborativo a representação da Liderança da Minoria da Câmara (TC 024.329/2025-8) e, em
+  juízo preliminar, formula a hipótese de demora na condução de alternativas e de "precipitação na adoção da
+  medida extrema de liquidação". Diz que "vislumbro a possibilidade de vir a ser adotada medida cautelar"
+  (abstenção de alienar ativos relevantes da massa), mas antes determina (item 12) oitiva prévia do BC, no
+  prazo de "72 (setenta e duas) horas", sobre fundamentos da liquidação, alternativas menos gravosas,
+  tratativas e cronologia, divergências internas e acesso a peças sigilosas; manda os autos à AudBancos para
+  avaliar cautelar e eventual inspeção; dá ciência à Presidência do STF e ao relator da Rcl 88.121. Declara que
+  a decisão "possui natureza exclusivamente instrutória".
+notes: Aberta com lote:fonte em 23/10/2026 e reaberta pelo editor no mesmo dia (PDF de quatro páginas, texto
+  extraído com pdftotext; sha256 do arquivo 691837612050fdf14fa38c2bd10bbe4290534da52b8157a0f4ba4cea22bb1191).
+  A data é a do despacho; a data em que o Poder360 hospedou a cópia não aparece no arquivo (pasta 2025/12). O
+  rodapé de todas as páginas traz o código de autenticidade 79499517. Em 23/10/2026 a consulta pública do
+  portal de autenticidade do TCU (autenticidade-documento.apps.tcu.gov.br) reconheceu o número 79.499.517-9
+  como documento da área de controle externo, classificado como sigiloso, sem exibir conteúdo nem assinantes;
+  a comparação do arquivo com o original pelo envio do PDF ao portal não foi feita. É cópia reproduzida por
+  veículo, sem conferência de conteúdo no portal oficial; por isso, como no lote 365, o despacho não ganha
+  documento próprio e a evidência é C (cópia + Estadão Conteúdo), não D.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura integral do texto extraído; consulta do código no portal do TCU)
+  url_reachable: true
+  content_matches_summary: true
+  notes: cópia hospedada pelo Poder360; o código existe no portal do TCU (documento sigiloso), mas o conteúdo
+    não é exibido ali nem foi conferido.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

@@ -1,0 +1,64 @@
+id: rev-2026-10-23-lote-368-tcu-tc-022-950-2025-7-do-despacho-de-18-12-a-desistencia-dos-embargos
+kind: revision
+date: 2026-10-23
+title: "Lote 368 — TCU e Banco Central, dez/2025–jan/2026 (TC 022.950/2025-7): a oitiva de 18/12, os embargos
+  do BC, a suspensão da inspeção e a desistência de 13/01"
+summary: 'Lote que preenche o intervalo do TC 022.950/2025-7 entre dezembro de 2025 e a conclusão da inspeção
+  em 11/02/2026. O que NÃO se afirma, em destaque: o Novelo não afirma que a liquidação do Master foi
+  precipitada, tardia ou irregular (a hipótese é do relator, em juízo preliminar, num despacho que diz possuir
+  "natureza exclusivamente instrutória"); não afirma que houve cautelar (o relator só diz vislumbrar a
+  possibilidade de uma); não leu a decisão que mandou inspecionar, os embargos do BC, o despacho de 08/01 nem
+  o de 13/01 na íntegra; e não afirma nada sobre sessão do Plenário em 21/01/2026, que nenhuma fonte aberta
+  descreve: segundo Agência Brasil e Times Brasil, com a desistência dos embargos em 13/01 o caso deixava de
+  ser analisado pelo Plenário. O despacho de 18/12/2025 de Jhonatan de Jesus foi lido em cópia hospedada pelo
+  Poder360, cujo rodapé traz o código de autenticidade 79499517; em 23/10/2026 o portal de autenticidade do TCU
+  reconheceu o número 79.499.517-9 como documento sigiloso de controle externo, sem exibir conteúdo nem
+  assinantes, e a comparação do arquivo não foi feita. Por isso, pelo critério do lote 365 (cópia hospedada
+  por veículo sem conferência no portal oficial), o despacho não ganha documento próprio e a evidência sobre
+  ele, antes A (Estadão Conteúdo, "não localizado"), passa a C, não a D: oitiva prévia do BC em 72 horas sobre
+  fundamentos, alternativas, tratativas, divergências internas e acesso a peças sigilosas, com envio à
+  AudBancos. Também em camada C: os embargos do BC até 06/01 contra a inspeção determinada monocraticamente (Estadão Conteúdo, Reuters,
+  Itatiaia); a suspensão da inspeção e a remessa ao Plenário em 08/01 (Reuters, Itatiaia); a reunião de 12/01
+  entre Galípolo, Vital do Rêgo e o relator (CNN Brasil, Agência Brasil); a desistência dos embargos e a
+  restituição dos autos à AudBancos em 13/01 (Agência Brasil, Times Brasil). Posições do BC e do TCU lado a
+  lado em cada evento. Sem pessoa, organização ou relação nova; o presidente do TCU aparece só como autor de
+  declarações, sem registro próprio.'
+added:
+  people: 0
+  organizations: 0
+  events: 5
+  documents: 0
+  relationships: 0
+  sources: 7
+  evidence: 4
+updated_relationships: 0
+corrections:
+  - 'ev-tcu-jhonatan-de-jesus-despacho-de-18-12-2025-sobre-a-liquidacao-do-master: classe A para C, com a cópia
+    do despacho hospedada pelo Poder360 como fonte (sem documento próprio, por falta de conferência de conteúdo
+    no portal do TCU); a proposição passa a descrever o texto do despacho, e o relato do Estadão Conteúdo segue
+    como fonte; a nota "O despacho não foi localizado" foi substituída.'
+author: orquestrador
+affected_ids:
+  - src-poder360-2025-12-18-integra-despacho-tcu-tc-022-950-2025-7
+  - src-moneytimes-2026-01-09-ministro-do-tcu-suspende-fiscalizacao-no-banco-central
+  - src-mercadoeconsumo-2026-01-06-banco-central-questiona-decisao-monocratica-no-caso-master
+  - src-itatiaia-2026-01-08-tcu-suspende-inspecao-do-bc-no-caso-master
+  - src-cnnbrasil-2026-01-13-master-tcu-espera-que-bc-retire-embargos
+  - src-monitormercantil-2026-01-13-bc-desiste-de-recurso-contra-inspecao-do-tcu
+  - src-timesbrasil-2026-01-14-banco-central-retira-recurso-e-tcu-vai-iniciar-inspecao
+  - ev-bc-opoe-embargos-no-tcu-contra-inspecao-determinada-pelo-relator
+  - ev-tcu-relator-suspende-inspecao-no-bc-e-remete-embargos-ao-plenario
+  - ev-reuniao-de-12-01-2026-entre-bc-e-tcu-sobre-a-inspecao
+  - ev-bc-desiste-dos-embargos-e-relator-restitui-os-autos-a-audbancos
+  - evt-2025-12-18-tcu-relator-determina-oitiva-previa-do-bc-em-72-horas
+  - evt-2026-01-06-bc-opoe-embargos-no-tcu-contra-inspecao-monocratica
+  - evt-2026-01-08-tcu-relator-suspende-a-inspecao-no-bc-e-remete-ao-plenario
+  - evt-2026-01-12-reuniao-entre-bc-e-tcu-sobre-a-inspecao-no-caso-master
+  - evt-2026-01-13-bc-desiste-dos-embargos-e-a-inspecao-do-tcu-prossegue
+  - ev-tcu-jhonatan-de-jesus-despacho-de-18-12-2025-sobre-a-liquidacao-do-master
+reason: Lacuna cronológica do TCU (dez/2025–jan/2026) apontada pelo gauntlet de reguladores, e despacho de
+  18/12/2025 localizado e lido em cópia hospedada pelo Poder360, o que permite elevar a evidência existente de
+  A para C (não D, sem conferência de conteúdo no portal do TCU).
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23

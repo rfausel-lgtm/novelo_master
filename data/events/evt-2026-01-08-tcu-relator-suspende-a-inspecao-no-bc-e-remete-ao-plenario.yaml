@@ -1,0 +1,46 @@
+id: evt-2026-01-08-tcu-relator-suspende-a-inspecao-no-bc-e-remete-ao-plenario
+kind: event
+title: Relator no TCU suspende a inspeção no Banco Central e remete os embargos ao Plenário
+event_type: regulatory_act
+date: 2026-01-08
+date_precision: day
+participant_ids:
+  - tribunal-de-contas-da-uniao
+  - jhonatan-de-jesus
+  - banco-central-do-brasil
+description: Em despacho de 08/01/2026, Jhonatan de Jesus suspendeu a inspeção no Banco Central e remeteu a
+  controvérsia dos embargos ao Plenário do TCU, cuja primeira sessão, segundo a Reuters, estava marcada para
+  21/01. Segundo
+  Reuters e Itatiaia, o relator rejeitou a tese de que a inspeção dependeria de órgão colegiado, mas
+  justificou a remessa pela repercussão pública do caso.
+evidence_class: C
+status: verified
+evidence_ids:
+  - ev-tcu-relator-suspende-inspecao-no-bc-e-remete-embargos-ao-plenario
+source_ids:
+  - src-moneytimes-2026-01-09-ministro-do-tcu-suspende-fiscalizacao-no-banco-central
+  - src-itatiaia-2026-01-08-tcu-suspende-inspecao-do-bc-no-caso-master
+cited_position:
+  - by_id: tribunal-de-contas-da-uniao
+    kind: version
+    date: 2026-01-08
+    summary: Na decisão, segundo a Reuters, o relator escreveu que "a dimensão pública assumida pelo caso, com
+      contornos desproporcionais para providência instrutória corriqueira nesta Corte, recomenda que a
+      controvérsia seja submetida ao crivo do Plenário". Em entrevista à Reuters em 07/01, o presidente do
+      TCU, Vital do Rêgo, disse que o tribunal não tem competência para suspender a liquidação do Master.
+    source_ids:
+      - src-moneytimes-2026-01-09-ministro-do-tcu-suspende-fiscalizacao-no-banco-central
+  - by_id: banco-central-do-brasil
+    kind: version
+    date: 2026-01-06
+    summary: O BC sustentou nos embargos, segundo a Reuters e a Itatiaia, que a inspeção não poderia ser
+      determinada monocraticamente por um ministro do tribunal. O Novelo não localizou nota do BC sobre a
+      suspensão.
+    source_ids:
+      - src-moneytimes-2026-01-09-ministro-do-tcu-suspende-fiscalizacao-no-banco-central
+      - src-itatiaia-2026-01-08-tcu-suspende-inspecao-do-bc-no-caso-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

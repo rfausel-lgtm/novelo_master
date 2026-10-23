@@ -1,0 +1,18 @@
+id: ev-reuniao-de-12-01-2026-entre-bc-e-tcu-sobre-a-inspecao
+kind: evidence
+classification: C
+proposition: Em 12/01/2026 o presidente do Banco Central, Gabriel Galípolo, reuniu-se com o presidente do TCU,
+  Vital do Rêgo, e com o relator Jhonatan de Jesus; segundo CNN Brasil e Agência Brasil, o encontro levou a
+  entendimento para que a inspeção fosse feita pelos técnicos da AudBancos, com respeito ao sigilo bancário,
+  e, segundo a Agência Brasil, restrita à documentação que embasou a liquidação.
+source_ids:
+  - src-cnnbrasil-2026-01-13-master-tcu-espera-que-bc-retire-embargos
+  - src-monitormercantil-2026-01-13-bc-desiste-de-recurso-contra-inspecao-do-tcu
+date: 2026-01-12
+notes: Classe C (CNN Brasil e Agência Brasil, independentes). Não há ata ou nota oficial aberta da reunião; os
+  relatos de bastidor da CNN sobre o que cada participante disse no encontro não são registrados.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

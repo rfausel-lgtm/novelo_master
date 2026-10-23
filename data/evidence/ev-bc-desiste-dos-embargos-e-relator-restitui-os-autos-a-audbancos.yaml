@@ -1,0 +1,23 @@
+id: ev-bc-desiste-dos-embargos-e-relator-restitui-os-autos-a-audbancos
+kind: evidence
+classification: C
+proposition: 'Em 13/01/2026 o Banco Central desistiu dos embargos de declaração no TC 022.950/2025-7, e o
+  relator, em despacho, restituiu os autos à AudBancos para prosseguimento: "Ante o pedido de desistência dos
+  embargos de declaração formulado pelo Banco Central do Brasil, restituo os autos à AudBancos para
+  prosseguimento do feito". Segundo a Agência Brasil, com a retirada do recurso a análise poderia seguir sem
+  apreciação pelo Plenário; segundo o Times Brasil, o caso deixava de ser analisado pelo Plenário.'
+source_ids:
+  - src-monitormercantil-2026-01-13-bc-desiste-de-recurso-contra-inspecao-do-tcu
+  - src-timesbrasil-2026-01-14-banco-central-retira-recurso-e-tcu-vai-iniciar-inspecao
+excerpt: Ante o pedido de desistência dos embargos de declaração formulado pelo Banco Central do Brasil,
+  restituo os autos à AudBancos para prosseguimento do feito
+locator: Times Brasil, 14/01/2026, trecho do despacho de 13/01
+date: 2026-01-13
+notes: Classe C (Agência Brasil e Times Brasil). A Agência Brasil diz que a desistência foi formalizada no
+  sistema de consulta pública do TCU, que o Novelo não consultou; o despacho de 13/01 não foi lido na íntegra.
+  Nenhuma fonte aberta descreve deliberação do Plenário sobre o tema em 21/01/2026.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

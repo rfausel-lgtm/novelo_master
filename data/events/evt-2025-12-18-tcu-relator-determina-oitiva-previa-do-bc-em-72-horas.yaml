@@ -1,0 +1,51 @@
+id: evt-2025-12-18-tcu-relator-determina-oitiva-previa-do-bc-em-72-horas
+kind: event
+title: Relator no TCU determina oitiva prévia do Banco Central em 72 horas sobre a liquidação do Master (TC
+  022.950/2025-7)
+event_type: regulatory_act
+date: 2025-12-18
+date_precision: day
+participant_ids:
+  - tribunal-de-contas-da-uniao
+  - jhonatan-de-jesus
+  - banco-central-do-brasil
+description: Na representação do Ministério Público junto ao TCU sobre a supervisão do Banco Central em
+  relação ao Banco Master, o relator Jhonatan de Jesus determinou, em despacho de 18/12/2025, oitiva prévia do
+  BC no prazo de 72 horas sobre os fundamentos da liquidação, as alternativas menos gravosas, as tratativas de
+  mercado e sua cronologia, eventuais divergências internas e o acesso a peças sigilosas. No despacho, o
+  relator formula em juízo preliminar a hipótese de demora na condução de alternativas e de precipitação na
+  adoção da liquidação, diz vislumbrar uma possível cautelar futura (abstenção de alienar ativos relevantes da
+  massa), sem adotá-la, e manda os autos à AudBancos para propor eventual cautelar e eventual inspeção. O
+  documento se declara instrutório, sem juízo definitivo sobre a regularidade do ato do BC. O despacho foi lido
+  em cópia hospedada pelo Poder360 (código de autenticidade 79499517 no rodapé); o portal do TCU reconhece o
+  número como documento sigiloso, sem exibir o conteúdo, que não foi conferido ali.
+evidence_class: C
+status: verified
+evidence_ids:
+  - ev-tcu-jhonatan-de-jesus-despacho-de-18-12-2025-sobre-a-liquidacao-do-master
+source_ids:
+  - src-poder360-2025-12-18-integra-despacho-tcu-tc-022-950-2025-7
+  - src-jornaldebrasilia-2025-12-19-ministro-do-tcu-ve-precipitacao-na-liquidacao-do-master-bc-diz-estar-munido-com-documentos
+cited_position:
+  - by_id: tribunal-de-contas-da-uniao
+    kind: clarification
+    date: 2025-12-18
+    summary: O próprio despacho afirma que a decisão "possui natureza exclusivamente instrutória", sem juízo
+      definitivo quanto à regularidade do ato regulatório, e que não cabe ao TCU substituir o BC no mérito
+      regulatório, mas verificar legalidade, motivação, proporcionalidade e consideração de alternativas.
+    source_ids:
+      - src-poder360-2025-12-18-integra-despacho-tcu-tc-022-950-2025-7
+  - by_id: banco-central-do-brasil
+    kind: version
+    date: 2025-12-19
+    summary: Segundo o Estadão Conteúdo (Jornal de Brasília, 19/12/2025), que cita apuração do Broadcast, o BC
+      recebeu o pedido de explicações com tranquilidade e avalia internamente ter cumprido o rito legal da
+      liquidação, reunindo elementos e provas documentais; a matéria não registra nota oficial do BC. A
+      manifestação do BC na oitiva não foi localizada.
+    source_ids:
+      - src-jornaldebrasilia-2025-12-19-ministro-do-tcu-ve-precipitacao-na-liquidacao-do-master-bc-diz-estar-munido-com-documentos
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

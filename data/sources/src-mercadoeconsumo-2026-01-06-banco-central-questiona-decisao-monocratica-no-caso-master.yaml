@@ -1,0 +1,25 @@
+id: src-mercadoeconsumo-2026-01-06-banco-central-questiona-decisao-monocratica-no-caso-master
+kind: source
+title: Banco Central questiona decisão monocrática no caso Master e pede decisão colegiada do TCU
+publisher: Mercado e Consumo (Estadão Conteúdo)
+author: Estadão Conteúdo (Alvaro Gribel)
+publication_date: 2026-01-06
+retrieved_at: 2026-10-23
+url: https://mercadoeconsumo.com.br/06/01/2026/economia/banco-central-questiona-decisao-monocratica-no-caso-master-e-pede-decisao-colegiada-do-tcu/
+source_type: press
+language: pt-BR
+summary: Informa que o Banco Central opôs embargos de declaração no TCU contra a decisão monocrática de
+  Jhonatan de Jesus que determinou inspeção no BC sobre o processo do Banco Master, sustentando que o
+  Regimento Interno reserva a decisões colegiadas a determinação de inspeções em órgãos federais, e transcreve
+  trecho dos embargos; registra o recesso do TCU até 16/01.
+notes: Texto com informação do Estadão Conteúdo; conta como a mesma origem da republicação no Jornal de Brasília.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura integral do texto extraído)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

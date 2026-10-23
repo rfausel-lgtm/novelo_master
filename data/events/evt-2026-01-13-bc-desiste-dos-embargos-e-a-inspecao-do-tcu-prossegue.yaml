@@ -1,0 +1,46 @@
+id: evt-2026-01-13-bc-desiste-dos-embargos-e-a-inspecao-do-tcu-prossegue
+kind: event
+title: Banco Central desiste dos embargos e o relator devolve o processo à AudBancos para a inspeção
+event_type: regulatory_act
+date: 2026-01-13
+date_precision: day
+participant_ids:
+  - banco-central-do-brasil
+  - tribunal-de-contas-da-uniao
+  - jhonatan-de-jesus
+description: Em 13/01/2026 o Banco Central desistiu dos embargos de declaração, e Jhonatan de Jesus restituiu
+  os autos à AudBancos para prosseguimento. Segundo a Agência Brasil, com a retirada do recurso a análise
+  técnica poderia ser feita sem apreciação pelo Plenário e voltava a valer a decisão original que autoriza a
+  inspeção, a cargo da AudBancos na sede do BC; segundo o Times Brasil, o caso deixava de ser analisado pelo
+  Plenário. Nenhuma fonte aberta descreve sessão do Plenário sobre o tema, e o Novelo não afirma que houve ou
+  não houve uma. Segundo a Agência Brasil, Vital do Rêgo estimou em até 30 dias o trabalho. A inspeção foi concluída em
+  11/02/2026 (evento próprio no acervo).
+evidence_class: C
+status: verified
+evidence_ids:
+  - ev-bc-desiste-dos-embargos-e-relator-restitui-os-autos-a-audbancos
+source_ids:
+  - src-monitormercantil-2026-01-13-bc-desiste-de-recurso-contra-inspecao-do-tcu
+  - src-timesbrasil-2026-01-14-banco-central-retira-recurso-e-tcu-vai-iniciar-inspecao
+cited_position:
+  - by_id: banco-central-do-brasil
+    kind: version
+    date: 2026-01-13
+    summary: A desistência é ato do próprio BC; segundo a Agência Brasil, a autarquia avaliou após a reunião que
+      houve clareza quanto ao escopo da fiscalização, restrita à documentação da liquidação e sem alcance
+      sobre as decisões técnicas da autoridade monetária.
+    source_ids:
+      - src-monitormercantil-2026-01-13-bc-desiste-de-recurso-contra-inspecao-do-tcu
+  - by_id: tribunal-de-contas-da-uniao
+    kind: public_note
+    date: 2026-01-12
+    summary: 'Vital do Rêgo afirmou, segundo a Agência Brasil: "Só quem podia liquidar o banco era o Banco
+      Central, e isso nunca esteve em discussão"; segundo ele, caberia ao tribunal analisar os documentos, sem
+      revisar o mérito da decisão.'
+    source_ids:
+      - src-monitormercantil-2026-01-13-bc-desiste-de-recurso-contra-inspecao-do-tcu
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

@@ -1,0 +1,46 @@
+id: evt-2026-01-12-reuniao-entre-bc-e-tcu-sobre-a-inspecao-no-caso-master
+kind: event
+title: Galípolo recebe o presidente do TCU e o relator; encontro abre acordo para a inspeção da AudBancos
+event_type: meeting
+date: 2026-01-12
+date_precision: day
+participant_ids:
+  - gabriel-galipolo
+  - jhonatan-de-jesus
+  - banco-central-do-brasil
+  - tribunal-de-contas-da-uniao
+description: Em 12/01/2026 o presidente do Banco Central, Gabriel Galípolo, recebeu o presidente do TCU, Vital
+  do Rêgo, e o relator Jhonatan de Jesus. Segundo CNN Brasil e Agência Brasil, o encontro levou a entendimento
+  para que a inspeção fosse feita pelos técnicos da AudBancos, com respeito ao sigilo bancário; segundo a
+  Agência Brasil, restrita à documentação que embasou a liquidação. Segundo a CNN Brasil, os embargos do BC estavam
+  previstos para o Plenário de 21/01.
+evidence_class: C
+status: verified
+evidence_ids:
+  - ev-reuniao-de-12-01-2026-entre-bc-e-tcu-sobre-a-inspecao
+source_ids:
+  - src-cnnbrasil-2026-01-13-master-tcu-espera-que-bc-retire-embargos
+  - src-monitormercantil-2026-01-13-bc-desiste-de-recurso-contra-inspecao-do-tcu
+cited_position:
+  - by_id: tribunal-de-contas-da-uniao
+    kind: public_note
+    date: 2026-01-12
+    summary: Em coletiva após o encontro, Vital do Rêgo disse, segundo a CNN Brasil, que "o Banco Central quer o
+      selo de qualidade do TCU, a segurança jurídica que o TCU pode dar", e que o TCU não tem poder para
+      reverter a liquidação.
+    source_ids:
+      - src-cnnbrasil-2026-01-13-master-tcu-espera-que-bc-retire-embargos
+  - by_id: banco-central-do-brasil
+    kind: version
+    date: 2026-01-13
+    summary: Segundo apuração da CNN Brasil, o BC estava disposto a retirar os embargos porque os pontos
+      questionados teriam sido esclarecidos na reunião; segundo a Agência Brasil, o BC avaliou que houve
+      clareza quanto ao escopo da fiscalização. Não foi localizada nota oficial do BC sobre o encontro.
+    source_ids:
+      - src-cnnbrasil-2026-01-13-master-tcu-espera-que-bc-retire-embargos
+      - src-monitormercantil-2026-01-13-bc-desiste-de-recurso-contra-inspecao-do-tcu
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

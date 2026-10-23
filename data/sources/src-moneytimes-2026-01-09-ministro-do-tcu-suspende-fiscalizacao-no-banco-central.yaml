@@ -1,0 +1,28 @@
+id: src-moneytimes-2026-01-09-ministro-do-tcu-suspende-fiscalizacao-no-banco-central
+kind: source
+title: Ministro do TCU suspende fiscalização no Banco Central e remete decisão ao plenário do tribunal
+publisher: Money Times (Reuters)
+author: Reuters
+publication_date: 2026-01-09
+retrieved_at: 2026-10-23
+url: https://www.moneytimes.com.br/ministro-do-tcu-suspende-fiscalizacao-no-banco-central-e-remete-decisao-ao-plenario-do-tribunal-fets/
+source_type: wire
+language: pt-BR
+summary: Segundo a Reuters, Jhonatan de Jesus aceitou recurso do Banco Central e suspendeu, em decisão de
+  quinta-feira (08/01/2026), a inspeção que havia determinado na autarquia, remetendo a decisão ao Plenário,
+  cuja primeira sessão estava marcada para 21/01; cita trecho da decisão sobre a "dimensão pública assumida
+  pelo caso". Registra que a decisão de inspecionar fora tomada "na segunda-feira", que o BC recorreu sob o
+  argumento de que a medida não poderia ser monocrática, e que o relator ressalvou ter competência para
+  determiná-la individualmente. Relata entrevista à Reuters, na quarta-feira, do presidente do TCU, Vital do
+  Rêgo, para quem o tribunal não tem competência para suspender a liquidação.
+notes: Despacho da Reuters republicado pelo Money Times; a parte sobre o processo nos EUA não é usada aqui.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura integral do texto extraído)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23
