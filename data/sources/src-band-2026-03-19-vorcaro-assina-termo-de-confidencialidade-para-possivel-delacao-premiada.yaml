@@ -1,0 +1,29 @@
+id: src-band-2026-03-19-vorcaro-assina-termo-de-confidencialidade-para-possivel-delacao-premiada
+kind: source
+title: Vorcaro assina termo de confidencialidade para possível delação premiada
+publisher: Band
+author: Caiã Messina
+publication_date: 2026-03-19
+retrieved_at: 2026-10-23
+url: https://www.band.com.br/politica/noticias/vorcaro-assina-termo-de-confidencialidade-para-possivel-delacao-premiada-202603192129
+source_type: press
+language: pt-BR
+summary: Relata que Vorcaro assinou na noite de 19/03/2026 o termo de confidencialidade que formaliza o início
+  das tratativas para uma eventual delação, conforme diretrizes da PGR e da PF; diz que a expectativa dos
+  advogados dele era concluir o processo, inclusive a homologação, em até 15 dias, e que o teor e o escopo da
+  colaboração seguiam sob sigilo; registra a transferência dele para a Superintendência da PF por determinação
+  de Mendonça. Não traz conteúdo de colaboração.
+notes: A página bloqueou o acesso automático (403); o texto foi lido no navegador embutido em 23/10/2026 e
+  registrado com lote:fonte --texto. O corpo escreve "quinta-feira (18)" na frase da transferência, erro do
+  veículo; o mesmo texto diz "quinta-feira (19)" para a assinatura. O subtítulo chama o termo de "Acordo firmado"; a expressão designa o
+  termo de confidencialidade, não acordo de colaboração.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (navegador embutido, get_page_text)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

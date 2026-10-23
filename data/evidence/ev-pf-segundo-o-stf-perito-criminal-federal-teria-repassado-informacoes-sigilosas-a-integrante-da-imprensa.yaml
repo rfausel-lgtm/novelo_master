@@ -1,0 +1,23 @@
+id: ev-pf-segundo-o-stf-perito-criminal-federal-teria-repassado-informacoes-sigilosas-a-integrante-da-imprensa
+kind: evidence
+classification: A
+proposition: Segundo a PF, conforme a nota do STF de 19/05/2026, o investigado, na condição de perito criminal
+  federal, teria repassado a integrante da imprensa informações sigilosas relacionadas a fatos do início das
+  investigações, obtidas da análise de material apreendido em uma das fases da Operação Compliance Zero.
+source_ids:
+  - src-stf-2026-05-19-nota-a-imprensa-sobre-a-operacao-compliance-zero
+  - src-band-2026-05-19-pf-mira-perito-suspeito-de-vazar-informacoes-sigilosas-da-compliance-zero
+excerpt: o investigado, na condição de perito criminal federal, teria repassado a integrante da imprensa
+  informações sigilosas
+locator: terceiro parágrafo (nota do STF)
+attributed_to_id: policia-federal
+attributed_to: Polícia Federal, na nota do STF
+date: 2026-05-19
+notes: Alegação da PF no âmbito de uma investigação, em tese; não é conclusão judicial nem conclusão do
+  Novelo. A mesma nota diz que a investigação se destina à apuração da conduta de agente público que, em tese,
+  teria violado o dever funcional de resguardar informações sigilosas.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

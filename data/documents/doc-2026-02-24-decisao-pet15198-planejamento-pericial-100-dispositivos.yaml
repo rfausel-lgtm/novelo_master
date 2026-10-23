@@ -1,24 +1,38 @@
 id: doc-2026-02-24-decisao-pet15198-planejamento-pericial-100-dispositivos
 kind: document
-title: Decisão sobre planejamento pericial da 2ª fase da Compliance Zero
+title: Decisão na Pet 15.198/DF (19/02/2026) sobre o planejamento pericial da 2ª fase da Compliance Zero -
+  fluxo ordinário de perícia, compartimentação e sigilo nível III
 doc_type: judicial_decision
-date: '2026-02-24'
+date: '2026-02-19'
 date_precision: day
+issuer_id: andre-mendonca
+issuer: Ministro André Mendonça (relator)
+reference: Pet 15.198/DF; INQ 5.026/DF
+url: https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2026/02/19213404/Decisao-Pet.-15198-2.pdf
 source_ids:
 - src-stf-pet15198-decisao-24-02-2026-planejamento-pericial-100-dispositivos
-summary: 'Defere o requerimento da Polícia Federal (Ofício nº 12/2026-CINQ/CGRC/DICOR/PF, e-doc. 380 da
-  Pet. 15.198, e representação e-doc. 306 do INQ 5.026) para que as extrações, indexações e análises dos
-  cerca de 100 dispositivos eletrônicos apreendidos na 2ª fase da Operação Compliance Zero sigam o fluxo
-  ordinário de trabalho pericial da instituição, com distribuição regular entre peritos habilitados,
-  dispensado o encaminhamento global das extrações à relatoria.'
+- src-stf-pet15198-decisao-19-02-2026-fluxo-ordinario-de-pericia
+- src-stf-2026-02-19-stf-autoriza-fluxo-de-pericias-solicitado-pela-pf-na-operacao-compliance-zero
+summary: 'Decisão assinada em 19/02/2026 na Pet 15.198/DF, com referência cruzada ao INQ 5.026/DF (partes sob
+  sigilo no cabeçalho). Defere o requerimento da Polícia Federal (Ofício nº 12/2026-CINQ/CGRC/DICOR/PF, e-doc.
+  380 da Pet. 15.198, com a manifestação do INC sobre cerca de 100 dispositivos e 20 semanas de dedicação
+  exclusiva de um único perito; e representação e-doc. 306 do INQ 5.026) e autoriza (a) o fluxo ordinário de
+  trabalho pericial da instituição, dispensado o encaminhamento global das extrações à relatoria, (b)
+  diligências ordinárias que não dependem de reserva de jurisdição, como oitivas na sede da PF, e (c) a
+  custódia do material apreendido nos depósitos da PF; condiciona isso à compartimentação (Corregedoria-Geral,
+  Diretoria de Inteligência, demais áreas, dever de sigilo inclusive perante superiores); determina que nova
+  investigação ou inquérito seja antes requerido ao relator; mantém o sigilo padrão nível III para os autos da
+  Operação Compliance Zero e concede acesso às autoridades policiais responsáveis. Data corrigida em 23/10/2026
+  (lote 366): o registro estava datado de 24/02/2026, data que não consta do texto; o identificador foi mantido
+  para não quebrar ligações.'
+excerpt: determino a manutenção do nível de sigilo adotado em relação aos presentes autos
 is_official: true
 related_entity_ids:
 - andre-mendonca
-issuer_id: andre-mendonca
-issuer: Ministro André Mendonça
-reference: Pet 15.198/DF; INQ 5.026/DF
+- policia-federal
+- supremo-tribunal-federal
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-12'
+reviewed_at: '2026-10-23'
 created_at: '2026-09-12'
-updated_at: '2026-09-12'
+updated_at: '2026-10-23'

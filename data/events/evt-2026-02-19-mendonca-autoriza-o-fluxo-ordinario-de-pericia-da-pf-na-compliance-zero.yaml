@@ -1,0 +1,63 @@
+id: evt-2026-02-19-mendonca-autoriza-o-fluxo-ordinario-de-pericia-da-pf-na-compliance-zero
+kind: event
+title: Mendonça autoriza o fluxo ordinário de perícia da PF na Compliance Zero e exige pedido prévio para
+  novas investigações
+event_type: judicial_decision
+date: 2026-02-19
+date_precision: day
+participant_ids:
+  - andre-mendonca
+  - policia-federal
+  - supremo-tribunal-federal
+description: "Uma semana depois de assumir a relatoria (sorteio de 12/02/2026), o ministro André Mendonça
+  decidiu na Pet 15.198, em 19/02/2026, atendendo a pedido da PF, que a perícia dos cerca de 100 dispositivos
+  apreendidos na 2ª fase da Operação Compliance Zero siga o fluxo ordinário de trabalho pericial da
+  instituição, com distribuição entre peritos; autorizou diligências ordinárias, como oitivas na sede da PF, e
+  a custódia do material nos depósitos da PF. Impôs compartimentação (Corregedoria-Geral, Diretoria de
+  Inteligência, demais áreas) e dever de sigilo profissional inclusive perante superiores hierárquicos, e
+  determinou que qualquer nova investigação ou inquérito seja antes requerido a ele. Segundo o Estadão
+  Conteúdo e a CartaCapital, até então apenas quatro peritos autorizados por Toffoli podiam analisar os
+  aparelhos. Sobre o sigilo, o texto da decisão determina a manutenção do nível III, como diz a notícia do
+  STF; os veículos divergem: o título da CartaCapital e do InfoMoney fala em redução (a CartaCapital cita
+  passagem do grau 4 para o 3), o do Jovem Pan fala em manutenção. O Novelo registra a divergência como limite
+  e adota apenas o que o texto da decisão diz. A decisão não trata do mérito das suspeitas apuradas."
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-mendonca-pet15198-19-02-autoriza-fluxo-ordinario-de-pericia-e-exige-pedido-previo-de-novas-investigacoes
+  - ev-mendonca-pet15198-19-02-mantem-o-sigilo-padrao-nivel-iii
+  - ev-cartacapital-afirma-que-mendonca-reduziu-o-sigilo-de-grau-4-para-3
+  - ev-antes-da-decisao-de-19-02-apenas-quatro-peritos-autorizados-por-toffoli-analisavam-os-aparelhos
+source_ids:
+  - src-stf-pet15198-decisao-19-02-2026-fluxo-ordinario-de-pericia
+  - src-stf-2026-02-19-stf-autoriza-fluxo-de-pericias-solicitado-pela-pf-na-operacao-compliance-zero
+  - src-cartacapital-2026-02-19-mendonca-reduz-sigilo-e-da-mais-autonomia-a-pf-no-caso-master
+  - src-infomoney-2026-02-19-caso-master-mendonca-reduz-sigilo-e-da-mais-autonomia-para-pf-nas-investigacoes
+  - src-jovempan-2026-02-19-mendonca-mantem-sigilo-do-caso-master-e-da-mais-autonomia-para-pf-nas-investigacoes
+document_ids:
+  - doc-2026-02-24-decisao-pet15198-planejamento-pericial-100-dispositivos
+cited_position:
+  - by_id: policia-federal
+    kind: version
+    date: 2026-02-19
+    summary: Conforme a decisão, a PF informou por ofício que a demanda envolvia cerca de 100 dispositivos, que um
+      único perito levaria cerca de 20 semanas de dedicação exclusiva só para as extrações, e pediu o fluxo
+      ordinário de trabalho pericial e a custódia do material em seus depósitos.
+    source_ids:
+      - src-stf-pet15198-decisao-19-02-2026-fluxo-ordinario-de-pericia
+  - by_id: supremo-tribunal-federal
+    kind: public_note
+    date: 2026-02-19
+    summary: Em notícia institucional, o STF descreveu a decisão como autorização do fluxo de perícias solicitado
+      pela PF e disse que o relator manteve o sigilo dos autos no nível III.
+    source_ids:
+      - src-stf-2026-02-19-stf-autoriza-fluxo-de-pericias-solicitado-pela-pf-na-operacao-compliance-zero
+tags:
+  - compliance-zero
+  - pericia
+  - sigilo
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

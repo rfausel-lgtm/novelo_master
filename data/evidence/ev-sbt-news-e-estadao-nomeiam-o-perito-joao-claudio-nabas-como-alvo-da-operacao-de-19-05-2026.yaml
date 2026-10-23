@@ -1,0 +1,20 @@
+id: ev-sbt-news-e-estadao-nomeiam-o-perito-joao-claudio-nabas-como-alvo-da-operacao-de-19-05-2026
+kind: evidence
+classification: C
+proposition: O SBT News (apuração própria) e o Estadão (publicado pelo Jornal de Brasília) identificam o
+  perito criminal federal João Cláudio Nabas como o alvo da operação de 19/05/2026; a nota do STF e o Band não
+  nomeiam o investigado.
+source_ids:
+  - src-sbtnews-2026-05-19-perito-da-pf-e-alvo-de-operacao-por-suspeita-de-vazamento-de-informacoes-de-esposa-de-moraes
+  - src-jornaldebrasilia-2026-05-19-perito-suspeito-de-vazar-contrato-de-mulher-de-moraes-e-alvo-da-pf
+excerpt: o alvo da operação é o perito João Cláudio Nabas
+locator: terceiro parágrafo (SBT News)
+date: 2026-05-19
+notes: O nome também consta dos autos da Pet 15.625 já registrados no acervo (verbete joao-claudio-nabas, lote
+  anterior), onde o perito aparece em razão do cargo e do ato. O Jornal de Brasília diz que a ação foi "ontem"
+  na matéria de 19/05, divergindo da nota do STF, que data o cumprimento de 19/05; vale a data da nota.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

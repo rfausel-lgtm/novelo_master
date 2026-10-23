@@ -1,0 +1,28 @@
+id: src-stf-2026-02-19-stf-autoriza-fluxo-de-pericias-solicitado-pela-pf-na-operacao-compliance-zero
+kind: source
+title: STF autoriza fluxo de perícias solicitado pela PF na Operação Compliance Zero
+publisher: Supremo Tribunal Federal (Notícias do STF)
+author: Allan Diego Melo
+publication_date: 2026-02-19
+retrieved_at: 2026-10-23
+url: https://noticias.stf.jus.br/postsnoticias/stf-autoriza-fluxo-de-pericias-solicitado-pela-pf-na-operacao-compliance-zero/
+source_type: official_court
+language: pt-BR
+summary: Notícia institucional do STF, de 19/02/2026 (21h37), sobre a decisão do ministro André Mendonça na
+  Pet 15198 que autoriza a PF a adotar o fluxo ordinário de trabalho pericial na análise de cerca de 100
+  dispositivos eletrônicos, a diligências que não dependem de autorização judicial (como oitivas na PF) e à
+  custódia do material pela própria PF; diz que o relator manteve o sigilo dos autos no nível III, estabeleceu
+  regras de compartilhamento dentro da PF e determinou que novas investigações sejam previamente submetidas a
+  ele. Traz o link para a íntegra da decisão.
+notes: Texto lido por lote:fonte em 23/10/2026. É a descrição do tribunal sobre o próprio ato; a decisão em si
+  é o documento doc-2026-02-24-decisao-pet15198-planejamento-pericial-100-dispositivos.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

@@ -1,0 +1,87 @@
+id: evt-2026-05-19-pf-deflagra-a-7a-fase-da-compliance-zero-contra-perito-criminal-federal
+kind: event
+title: PF cumpre mandados contra perito criminal federal investigado por suposto repasse de informações
+  sigilosas à imprensa (operação que Band e Estadão chamam de 7ª fase da Compliance Zero)
+event_type: investigation_step
+date: 2026-05-19
+date_precision: day
+participant_ids:
+  - policia-federal
+  - supremo-tribunal-federal
+  - andre-mendonca
+  - joao-claudio-nabas
+description: "Em 19/05/2026, segundo nota do STF, a PF cumpriu dois mandados de busca e apreensão e medidas
+  cautelares diversas da prisão, entre elas a suspensão do exercício da função pública, contra um policial
+  federal investigado na condição de perito criminal federal, por decisão do relator André Mendonça, de 18/05,
+  que acolheu representação da PF em apuração de eventual violação de sigilo funcional. Band e Estadão chamam
+  a operação de sétima fase da Compliance Zero (numeração da imprensa: a nota do STF não a usa, e a numeração
+  oficial da PF não foi localizada); SBT News e Estadão nomeiam o perito João Cláudio Nabas, que
+  consta dos autos da Pet 15.625 no verbete dele. Segundo a PF, na nota do STF, o investigado teria repassado
+  a integrante da imprensa informações sigilosas obtidas da análise de material apreendido em uma das fases da
+  operação; SBT News e Estadão dizem que a suspeita envolve o contrato do escritório da mulher do ministro
+  Alexandre de Moraes com o Banco Master e conversas de Moraes com Vorcaro. Posição da defesa: o Estadão
+  procurou a defesa do perito e não houve resposta; a Associação Nacional dos Peritos Criminais Federais
+  (APCF) disse, em nota, prestar assistência a ele para assegurar o respeito à ampla defesa e ao contraditório
+  e pediu cautela contra conclusões precipitadas. Depois, em 02/07/2026, a defesa pediu nos autos perícia
+  para contestar a autenticidade de um dos arquivos que a PF atribui a ele (posição registrada no verbete). O STF afirmou que as medidas não têm como alvo jornalistas
+  ou veículos de imprensa. O que este registro NÃO afirma: a suspeita é da PF e não foi julgada; a medida é
+  cautelar e não é condenação; o STF não nomeou o investigado; o Novelo não registra o local das buscas. O
+  evento de 18/05 (evt-2026-05-18-mendonca-suspende-perito-suspeito-de-vazar-material-vorcaro) traz a decisão
+  lida nos autos; as fontes lidas aqui não trazem manifestação de Moraes sobre esta fase."
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-stf-informa-em-nota-o-cumprimento-de-mandados-contra-perito-criminal-federal-em-19-05-2026
+  - ev-pf-segundo-o-stf-perito-criminal-federal-teria-repassado-informacoes-sigilosas-a-integrante-da-imprensa
+  - ev-sbt-news-e-estadao-nomeiam-o-perito-joao-claudio-nabas-como-alvo-da-operacao-de-19-05-2026
+  - ev-sbt-news-e-estadao-descrevem-o-que-o-perito-teria-repassado-a-imprensa
+  - ev-band-e-estadao-chamam-a-operacao-de-19-05-2026-de-setima-fase-da-compliance-zero
+source_ids:
+  - src-stf-2026-05-19-nota-a-imprensa-sobre-a-operacao-compliance-zero
+  - src-sbtnews-2026-05-19-perito-da-pf-e-alvo-de-operacao-por-suspeita-de-vazamento-de-informacoes-de-esposa-de-moraes
+  - src-band-2026-05-19-pf-mira-perito-suspeito-de-vazar-informacoes-sigilosas-da-compliance-zero
+  - src-jornaldebrasilia-2026-05-19-perito-suspeito-de-vazar-contrato-de-mulher-de-moraes-e-alvo-da-pf
+  - src-stf-pet15625-despachos-julho-agosto-2026
+document_ids:
+  - doc-2026-05-19-stf-nota-a-imprensa-operacao-compliance-zero-violacao-de-sigilo-funcional
+cited_position:
+  - by_id: joao-claudio-nabas
+    kind: no_response
+    date: 2026-05-19
+    summary: Segundo o Estadão (Jornal de Brasília), o jornal procurou a defesa do perito e não houve resposta; a
+      data do contato não é informada.
+    source_ids:
+      - src-jornaldebrasilia-2026-05-19-perito-suspeito-de-vazar-contrato-de-mulher-de-moraes-e-alvo-da-pf
+  - by_id: joao-claudio-nabas
+    kind: version
+    date: 2026-07-02
+    summary: Posição nos autos da Pet 15.625. Em 02/07/2026, a defesa pediu perícia de informática e
+      documentoscopia para contestar a autenticidade de um dos arquivos que a PF atribui a ele; o resultado não
+      foi localizado.
+    source_ids:
+      - src-stf-pet15625-despachos-julho-agosto-2026
+  - by: Associação Nacional dos Peritos Criminais Federais (APCF), nota de associação de classe, não do perito nem
+      de seus advogados
+    kind: public_note
+    date: 2026-05-19
+    summary: Disse prestar assistência ao perito para assegurar o devido respeito à ampla defesa e ao
+      contraditório e destacou a necessidade de evitar conclusões precipitadas antes da completa elucidação
+      dos fatos.
+    source_ids:
+      - src-jornaldebrasilia-2026-05-19-perito-suspeito-de-vazar-contrato-de-mulher-de-moraes-e-alvo-da-pf
+  - by_id: supremo-tribunal-federal
+    kind: public_note
+    date: 2026-05-19
+    summary: Em nota, o STF disse que as diligências têm natureza específica e instrumental e que as medidas não
+      implicam direcionamento investigativo contra jornalistas ou veículos de imprensa, preservados a
+      liberdade de atuação jornalística e o sigilo da fonte.
+    source_ids:
+      - src-stf-2026-05-19-nota-a-imprensa-sobre-a-operacao-compliance-zero
+tags:
+  - compliance-zero
+  - violacao-de-sigilo-funcional
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

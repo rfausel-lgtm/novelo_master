@@ -1,0 +1,23 @@
+id: ev-stf-informa-em-nota-o-cumprimento-de-mandados-contra-perito-criminal-federal-em-19-05-2026
+kind: evidence
+classification: D
+proposition: Em nota de 19/05/2026, o STF informou que, por decisão do relator André Mendonça, tomada em 18/05
+  a pedido da PF, estavam sendo cumpridos naquele dia dois mandados de busca e apreensão e medidas cautelares
+  diversas da prisão, entre elas a suspensão do exercício da função pública do policial federal investigado,
+  em apuração de eventual violação de sigilo funcional.
+document_ids:
+  - doc-2026-05-19-stf-nota-a-imprensa-operacao-compliance-zero-violacao-de-sigilo-funcional
+source_ids:
+  - src-stf-2026-05-19-nota-a-imprensa-sobre-a-operacao-compliance-zero
+excerpt: estão sendo cumpridos nesta terça-feira (19) dois mandados de busca e apreensão
+locator: segundo parágrafo
+date: 2026-05-19
+notes: D demonstra o que o STF informou, não os fatos imputados. A nota data a autorização de "segunda-feira
+  (18)"; a decisão de 18/05 consta do evento
+  evt-2026-05-18-mendonca-suspende-perito-suspeito-de-vazar-material-vorcaro (lote anterior, lido nos autos da
+  Pet 15.625).
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

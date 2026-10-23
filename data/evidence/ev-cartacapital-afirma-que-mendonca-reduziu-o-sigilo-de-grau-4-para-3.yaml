@@ -1,0 +1,24 @@
+id: ev-cartacapital-afirma-que-mendonca-reduziu-o-sigilo-de-grau-4-para-3
+kind: evidence
+classification: A
+proposition: Segundo a CartaCapital (19/02/2026), Mendonça decidiu reduzir o grau de sigilo do caso Master,
+  que teria passado de grau 4 para 3; o título do InfoMoney (Estadão Conteúdo) também fala em redução,
+  enquanto o Jovem Pan (mesmo texto do Estadão Conteúdo) intitula que o ministro mantém o sigilo, e a notícia
+  do STF e o texto da decisão falam em manutenção do nível III.
+source_ids:
+  - src-cartacapital-2026-02-19-mendonca-reduz-sigilo-e-da-mais-autonomia-a-pf-no-caso-master
+  - src-infomoney-2026-02-19-caso-master-mendonca-reduz-sigilo-e-da-mais-autonomia-para-pf-nas-investigacoes
+  - src-jovempan-2026-02-19-mendonca-mantem-sigilo-do-caso-master-e-da-mais-autonomia-para-pf-nas-investigacoes
+excerpt: reduzir o grau de sigilo do caso Master
+locator: primeiro parágrafo (CartaCapital)
+attributed_to: CartaCapital
+date: 2026-02-19
+notes: Registro da divergência, não da conclusão. Os veículos concordam que a PF ganhou autonomia pericial e
+  acesso ampliado dentro da corporação e que novas investigações dependem de pedido ao relator; divergem sobre
+  se houve "redução" do sigilo. O Novelo não adota nenhuma das leituras dos veículos para além do que o texto
+  da decisão diz.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

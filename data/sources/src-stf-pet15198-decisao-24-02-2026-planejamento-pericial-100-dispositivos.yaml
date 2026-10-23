@@ -4,7 +4,7 @@ title: Decisão sobre planejamento pericial da 2ª fase da Operação Compliance
   dispositivos
 publisher: Supremo Tribunal Federal
 author: Ministro André Mendonça
-publication_date: '2026-02-24'
+publication_date: '2026-02-19'
 retrieved_at: '2026-09-12'
 url: https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473336
 source_type: official_court
@@ -16,7 +16,10 @@ summary: A Polícia Federal informa, via Ofício nº 12/2026-CINQ/CGRC/DICOR/PF,
 notes: 'Peça obtida via peticionamento.stf.jus.br (sessão do Rafael, já autenticada por ele — nunca por
   certificado ou credencial do agente), na aba de Peças do INQ 5.026 — mas o próprio documento tem cabeçalho
   "PETIÇÃO 15.198/DF", tratando-se de decisão cross-referenciada entre os dois processos. Código de
-  autenticação/senha do rodapé de cada página nunca reproduzido no acervo.'
+  autenticação/senha do rodapé de cada página nunca reproduzido no acervo. Data corrigida em 23/10/2026
+  (lote 366): de 24/02 para 19/02/2026, data de assinatura da decisão; o conteúdo coincide com o PDF da mesma
+  decisão hospedado pelo STF (src-stf-pet15198-decisao-19-02-2026-fluxo-ordinario-de-pericia); a data de 24/02
+  não consta do texto conferido e pode corresponder a movimentação no portal, não verificada.'
 verification:
   checked_at: '2026-09-12'
   checked_by: orquestrador
@@ -24,6 +27,6 @@ verification:
   content_matches_summary: true
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-12'
+reviewed_at: '2026-10-23'
 created_at: '2026-09-12'
-updated_at: '2026-09-12'
+updated_at: '2026-10-23'

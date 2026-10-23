@@ -1,0 +1,20 @@
+id: ev-band-e-estadao-chamam-a-operacao-de-19-05-2026-de-setima-fase-da-compliance-zero
+kind: evidence
+classification: C
+proposition: O Band e o Estadão (Jornal de Brasília) chamam a operação de 19/05/2026 de sétima fase da
+  Operação Compliance Zero.
+source_ids:
+  - src-band-2026-05-19-pf-mira-perito-suspeito-de-vazar-informacoes-sigilosas-da-compliance-zero
+  - src-jornaldebrasilia-2026-05-19-perito-suspeito-de-vazar-contrato-de-mulher-de-moraes-e-alvo-da-pf
+excerpt: deflagrou, nesta terça-feira (19), a sétima fase da Operação Compliance Zero
+locator: primeiro parágrafo (Band)
+date: 2026-05-19
+notes: A numeração vem da imprensa; a nota do STF não a usa. O registro anterior
+  ev-perito-federal-afastado-vazamento-a-jornalista (Times Brasil) já a traz. A Times Brasil afirma que esta
+  seria a primeira fase com alvo dentro da PF, o que o Novelo não adota, pois a matéria do Jornal de Brasília
+  descreve a 6ª fase, uma semana antes, como mirando uma delegada da PF.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

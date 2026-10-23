@@ -1,0 +1,29 @@
+id: src-sbtnews-2026-05-19-perito-da-pf-e-alvo-de-operacao-por-suspeita-de-vazamento-de-informacoes-de-esposa-de-moraes
+kind: source
+title: Perito da PF é alvo de operação por suspeita de vazamento de informações de esposa de Moraes
+publisher: SBT News
+author: Raquel Landim; Cézar Feitoza; Emanuelle Menezes
+publication_date: 2026-05-19
+retrieved_at: 2026-10-23
+url: https://sbtnews.sbt.com.br/noticia/policia/perito-da-pf-e-alvo-de-operacao-autorizada-pelo-stf-por-vazamento-na-compliance-zero
+source_type: press
+language: pt-BR
+summary: Relata que o STF autorizou em 19/05/2026 operação da PF contra possível vazamento de informações
+  sigilosas da Compliance Zero, com dois mandados de busca e apreensão e medidas cautelares contra um perito
+  criminal federal suspeito de violação de sigilo funcional, autorizada por Mendonça; diz que, segundo
+  apurações do SBT News, o alvo é o perito João Cláudio Nabas, suspeito de ter repassado à imprensa um
+  contrato de serviços jurídicos e conversas divulgados pelo jornal O Globo; reproduz a nota do STF sobre
+  jornalistas.
+notes: Lida por lote:fonte em 23/10/2026. A página capturada traz, ao redor da matéria, listas de notícias e
+  chamadas eleitorais de outra data, que não foram usadas. O texto não traz posição da defesa. O registro não
+  reproduz a cidade das buscas citada pela matéria.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

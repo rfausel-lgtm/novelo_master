@@ -1,0 +1,28 @@
+id: src-stf-2026-05-19-nota-a-imprensa-sobre-a-operacao-compliance-zero
+kind: source
+title: Nota à imprensa sobre a Operação Compliance Zero
+publisher: Supremo Tribunal Federal (Notícias do STF)
+publication_date: 2026-05-19
+retrieved_at: 2026-10-23
+url: https://noticias.stf.jus.br/postsnoticias/nota-a-imprensa-44/
+source_type: official_court
+language: pt-BR
+summary: Nota do STF de 19/05/2026 (10h04). Diz que o tribunal autorizou na segunda-feira (18) operação para
+  apurar eventual crime de violação de sigilo funcional no âmbito da Compliance Zero; que, por decisão do
+  relator Mendonça, que acolheu representação da PF, estão sendo cumpridos em 19/05 dois mandados de busca e
+  apreensão e medidas cautelares diversas da prisão, entre elas a suspensão do exercício da função pública do
+  policial federal; que, segundo a PF, o investigado, perito criminal federal, teria repassado a integrante da
+  imprensa informações sigilosas; e que as medidas não implicam direcionamento contra jornalistas ou veículos
+  de imprensa. Não nomeia o investigado.
+notes: Texto lido por lote:fonte em 23/10/2026. A nota não usa a expressão "sétima fase" nem cita o número da
+  petição.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

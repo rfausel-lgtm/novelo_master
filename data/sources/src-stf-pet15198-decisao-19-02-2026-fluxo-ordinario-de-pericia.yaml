@@ -1,0 +1,29 @@
+id: src-stf-pet15198-decisao-19-02-2026-fluxo-ordinario-de-pericia
+kind: source
+title: Decisão do ministro André Mendonça na Petição 15.198/DF, de 19/02/2026 (cópia hospedada pelo STF)
+publisher: Supremo Tribunal Federal
+author: Ministro André Mendonça
+publication_date: 2026-02-19
+retrieved_at: 2026-10-23
+url: https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2026/02/19213404/Decisao-Pet.-15198-2.pdf
+source_type: official_court
+language: pt-BR
+summary: PDF de 11 páginas da decisão assinada digitalmente em 19/02/2026 pelo relator na Pet 15.198/DF
+  (partes sob sigilo), anexado à notícia do STF de 19/02/2026. Defere o pedido da PF (Ofício 12/2026, e-doc.
+  380; representação e-doc. 306 do INQ 5.026) de fluxo ordinário de trabalho pericial para cerca de 100
+  dispositivos, autoriza diligências ordinárias e a custódia do material nos depósitos da PF, fixa regras de
+  compartimentação, determina que novas investigações sejam previamente requeridas ao relator e determina a
+  manutenção do sigilo padrão, nível III.
+notes: O link consta da notícia do STF da mesma data; o texto extraído é idêntico (mesmo sha256 do texto,
+  d443b99c...) ao do PDF da mesma decisão hospedado por Congresso em Foco
+  (static.congressoemfoco.com.br/2026/02/19/...). O código de autenticação do rodapé não é reproduzido.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura direta do PDF)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

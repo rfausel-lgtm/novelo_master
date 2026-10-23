@@ -1,0 +1,29 @@
+id: src-cartacapital-2026-02-19-mendonca-reduz-sigilo-e-da-mais-autonomia-a-pf-no-caso-master
+kind: source
+title: Mendonça reduz sigilo e dá mais autonomia à PF no caso Master
+publisher: CartaCapital
+publication_date: 2026-02-19
+retrieved_at: 2026-10-23
+url: https://www.cartacapital.com.br/?p=585060
+source_type: press
+language: pt-BR
+summary: Relata que Mendonça decidiu em 19/02/2026 reduzir o grau de sigilo do caso e autorizar a perícia da
+  PF em cerca de 100 aparelhos sem restrições, que antes só quatro peritos escolhidos por Toffoli poderiam
+  acessar; afirma que o sigilo passou de grau 4 para 3 e que a abertura de novas investigações depende de
+  autorização prévia do relator. O texto da decisão
+  (doc-2026-02-24-decisao-pet15198-planejamento-pericial-100-dispositivos) fala em manutenção do
+  nível III e não menciona o grau 4.
+notes: Lida por lote:fonte em 23/10/2026 pelo endereço curto (?p=585060) do próprio veículo; o endereço
+  canônico, conferido pelo editor em 23/10/2026, é
+  https://www.cartacapital.com.br/justica/mendonca-reduz-sigilo-e-da-mais-autonomia-a-pf-no-caso-master/ (o
+  endereço curto redireciona para ele). Fonte da divergência sobre o sigilo, não do ato.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura direta)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

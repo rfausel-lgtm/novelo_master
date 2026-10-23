@@ -1,0 +1,92 @@
+id: rev-2026-10-23-lote-366-fev-mai-2026-tres-pontos-que-faltam-no-stf-e-na-pf
+kind: revision
+date: 2026-10-23
+title: "Lote 366 — Compliance Zero e STF, fev–mai/2026: a decisão de 19/02 sobre a perícia da PF, o termo de
+  confidencialidade de 19/03 e a operação de 19/05 contra perito da PF (a 7ª fase, segundo a imprensa)"
+summary: 'Lote de fechamento de três lacunas. O que NÃO se afirma, em destaque: o Novelo não afirma que haja
+  acordo de colaboração firmado ou homologado por Daniel Vorcaro (as três reportagens de 19/03 descrevem só o
+  termo de confidencialidade como passo inicial, e dizem que o teor segue sob sigilo; nenhum conteúdo, nome ou
+  prova de colaboração é registrado); não afirma que o sigilo do caso foi "reduzido" em 19/02 (o texto da
+  decisão determina a manutenção do nível III; o título da CartaCapital e do InfoMoney fala em redução, o do
+  Jovem Pan em manutenção, e a divergência fica como limite); e não afirma que o perito investigado na 7ª fase
+  tenha cometido o crime apurado (a suspeita é da PF, a medida é cautelar). (1) Decisão de 19/02/2026 (Pet
+  15.198, lida no PDF hospedado pelo próprio STF, com notícia oficial): Mendonça, uma semana após assumir a
+  relatoria, autoriza o fluxo ordinário de trabalho pericial da PF para cerca de 100 dispositivos (a PF
+  estimara 20 semanas de um único perito), diligências ordinárias e a custódia do material pela PF, impõe
+  compartimentação e dever de sigilo inclusive perante superiores, exige pedido prévio ao relator para novas
+  investigações e mantém o sigilo padrão nível III; segundo o Estadão Conteúdo e a CartaCapital, antes só
+  quatro peritos autorizados por Toffoli podiam analisar os aparelhos (classe C; a decisão não cita o número).
+  O acervo já tinha esta mesma decisão como
+  doc-2026-02-24-decisao-pet15198-planejamento-pericial-100-dispositivos, datada por engano de 24/02; o lote não cria
+  documento novo: reaproveita esse registro, completa-o e corrige a data para 19/02 (ver correções). (2) 19/03/2026 (classe C, Poder360, Metrópoles e Band): Vorcaro assina termo de
+  confidencialidade com PGR e PF e Mendonça autoriza a transferência dele da Penitenciária Federal de Brasília
+  para a Superintendência da PF; o termo e a decisão de transferência são sigilosos e não foram lidos; só o
+  Metrópoles liga a mudança de custódia às tratativas (classe A); versão da defesa por interlocutores
+  (Metrópoles) e expectativa dos advogados de concluir em 15 dias (Band) registradas; sem nota de PGR ou PF
+  localizada. (3) 19/05/2026: nota do STF (classe D quanto ao que informa) diz que, por decisão de 18/05,
+  foram cumpridos dois mandados de busca e apreensão e medidas cautelares, entre elas a suspensão da função,
+  contra policial federal investigado como perito criminal federal, em apuração de eventual violação de sigilo
+  funcional, e que não há direcionamento contra a imprensa; Band e Estadão chamam de sétima fase (numeração da imprensa; a nota do STF não a usa), o que
+  completa a numeração das fases 1 a 10 no acervo; SBT News e Estadão nomeiam o perito João Cláudio Nabas, já
+  presente no acervo pelos autos da Pet 15.625, e a posição da defesa (sem resposta ao Estadão; nota da APCF)
+  tem o mesmo destaque que a suspeita. A cidade das buscas, citada por um veículo, não é registrada. Não
+  confirmados: a numeração oficial da fase pela PF (o portal gov.br/pf devolve só a casca); o número da
+  petição da decisão de 18/05 na nota do STF; qualquer manifestação de Moraes sobre esta fase. Não reaberto: o
+  verbete e as fontes dos autos da Pet 15.625 (documentos autenticados), que seguem como estavam.'
+added:
+  people: 0
+  organizations: 0
+  events: 3
+  documents: 1
+  relationships: 0
+  sources: 11
+  evidence: 13
+updated_relationships: 0
+corrections:
+  - 'Editor-master (23/10/2026): sai o documento novo doc-2026-02-19-decisao-pet15198-fluxo-ordinario-de-pericia-da-pf-e-compartimentacao, porque a decisão é a mesma já registrada como doc-2026-02-24-decisao-pet15198-planejamento-pericial-100-dispositivos (mesmo Ofício 12/2026, e-docs 380 e 306, cerca de 100 dispositivos, 20 semanas, dispensa do encaminhamento global das extrações). O registro existente passa a ter a data de assinatura do texto ("Brasília, 19 de fevereiro de 2026"), o PDF hospedado pelo STF, a notícia oficial e o resumo completo; o identificador fica como estava para não quebrar ligações.'
+  - 'Editor-master: a fonte src-stf-pet15198-decisao-24-02-2026-planejamento-pericial-100-dispositivos e a evidência ev-compliance-zero-2fase-cerca-100-dispositivos-pericia passam de 24/02 para 19/02/2026; a evidência ev-toffoli-manda-integra-dos-aparelhos-ao-stf-no-dia-da-saida dizia "Doze dias depois" e passa a dizer "Sete dias depois, em 19/02/2026". A data de 24/02 não consta do texto conferido; pode corresponder a movimentação no portal, não verificada.'
+  - 'Editor-master: o evento de 19/03 atribuía ao Metrópoles a transferência "à noite"; o Metrópoles diz que ela foi realizada naquela quinta-feira (quem fala em noite é o Band, que erra o dia), e o texto passa a dizer "no mesmo dia". O resumo da fonte do Poder360 deixa de dizer que Vorcaro "firmou acordo de confidencialidade" e passa a dizer que assinou termo de confidencialidade, para não sugerir acordo de colaboração; a fonte do Band anota que o subtítulo chama o termo de "Acordo firmado".'
+  - 'Editor-master: o título do evento de 19/05 deixa de afirmar a "7ª fase" como fato e atribui a numeração ao Band e ao Estadão; a descrição diz que a nota do STF não usa a numeração; a posição da defesa ganha a contestação feita nos autos em 02/07/2026 (já registrada no verbete), para dar à defesa o mesmo destaque da suspeita. O nome do perito é mantido: SBT News, com apuração própria, e o Estadão o nomeiam pelo cargo público, e o verbete já existia com a decisão de 18/05 lida nos autos.'
+  - 'Editor-master: o título literal da fonte do SBT News foi mantido, como nos títulos de fonte já publicados sobre o mesmo assunto; a pessoa referida tem verbete próprio por papel próprio e não é nomeada em texto próprio deste lote. A fonte da CartaCapital passa a anotar o endereço canônico.'
+  - 'Editor-master: no verbete joao-claudio-nabas, além das duas fontes novas, a pergunta em aberto de 13/09/2026 dizia "fornecimento indevido de informações" em texto próprio; passa a dizer "suposto fornecimento de informações" (vocabulário da política editorial).'
+author: orquestrador
+affected_ids:
+  - src-stf-2026-02-19-stf-autoriza-fluxo-de-pericias-solicitado-pela-pf-na-operacao-compliance-zero
+  - src-stf-pet15198-decisao-19-02-2026-fluxo-ordinario-de-pericia
+  - src-cartacapital-2026-02-19-mendonca-reduz-sigilo-e-da-mais-autonomia-a-pf-no-caso-master
+  - src-infomoney-2026-02-19-caso-master-mendonca-reduz-sigilo-e-da-mais-autonomia-para-pf-nas-investigacoes
+  - src-jovempan-2026-02-19-mendonca-mantem-sigilo-do-caso-master-e-da-mais-autonomia-para-pf-nas-investigacoes
+  - doc-2026-02-24-decisao-pet15198-planejamento-pericial-100-dispositivos
+  - src-stf-pet15198-decisao-24-02-2026-planejamento-pericial-100-dispositivos
+  - ev-compliance-zero-2fase-cerca-100-dispositivos-pericia
+  - ev-toffoli-manda-integra-dos-aparelhos-ao-stf-no-dia-da-saida
+  - ev-mendonca-pet15198-19-02-autoriza-fluxo-ordinario-de-pericia-e-exige-pedido-previo-de-novas-investigacoes
+  - ev-mendonca-pet15198-19-02-mantem-o-sigilo-padrao-nivel-iii
+  - ev-cartacapital-afirma-que-mendonca-reduziu-o-sigilo-de-grau-4-para-3
+  - ev-antes-da-decisao-de-19-02-apenas-quatro-peritos-autorizados-por-toffoli-analisavam-os-aparelhos
+  - evt-2026-02-19-mendonca-autoriza-o-fluxo-ordinario-de-pericia-da-pf-na-compliance-zero
+  - src-poder360-2026-03-19-vorcaro-assina-termo-com-pgr-e-pf-que-possibilita-delacao
+  - src-metropoles-2026-03-19-vorcaro-assina-termo-de-confidencialidade-com-pgr-e-pf-e-abre-caminho-para-delacao
+  - src-band-2026-03-19-vorcaro-assina-termo-de-confidencialidade-para-possivel-delacao-premiada
+  - ev-vorcaro-assina-termo-de-confidencialidade-com-pgr-e-pf-em-19-03-2026
+  - ev-mendonca-autoriza-a-transferencia-de-vorcaro-para-a-superintendencia-da-pf-em-19-03-2026
+  - ev-metropoles-diz-que-a-transferencia-de-vorcaro-foi-pedida-pela-defesa-e-integrava-as-tratativas
+  - ev-poder360-diz-que-as-partes-se-comprometeram-ao-sigilo-das-tratativas
+  - evt-2026-03-19-vorcaro-assina-termo-de-confidencialidade-com-pgr-e-pf
+  - src-stf-2026-05-19-nota-a-imprensa-sobre-a-operacao-compliance-zero
+  - src-sbtnews-2026-05-19-perito-da-pf-e-alvo-de-operacao-por-suspeita-de-vazamento-de-informacoes-de-esposa-de-moraes
+  - src-band-2026-05-19-pf-mira-perito-suspeito-de-vazar-informacoes-sigilosas-da-compliance-zero
+  - doc-2026-05-19-stf-nota-a-imprensa-operacao-compliance-zero-violacao-de-sigilo-funcional
+  - ev-stf-informa-em-nota-o-cumprimento-de-mandados-contra-perito-criminal-federal-em-19-05-2026
+  - ev-pf-segundo-o-stf-perito-criminal-federal-teria-repassado-informacoes-sigilosas-a-integrante-da-imprensa
+  - ev-sbt-news-e-estadao-nomeiam-o-perito-joao-claudio-nabas-como-alvo-da-operacao-de-19-05-2026
+  - ev-sbt-news-e-estadao-descrevem-o-que-o-perito-teria-repassado-a-imprensa
+  - ev-band-e-estadao-chamam-a-operacao-de-19-05-2026-de-setima-fase-da-compliance-zero
+  - evt-2026-05-19-pf-deflagra-a-7a-fase-da-compliance-zero-contra-perito-criminal-federal
+  - joao-claudio-nabas
+reason: Fechar três lacunas do gauntlet STF/PGR/PF de 23/10/2026 (fev–mai/2026) com documento primário aberto
+  (decisão de 19/02 e nota do STF de 19/05) ou três veículos independentes (termo de 19/03), sem conteúdo de
+  colaboração e sem candidatos do 2º turno.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23

@@ -1,0 +1,19 @@
+id: ev-antes-da-decisao-de-19-02-apenas-quatro-peritos-autorizados-por-toffoli-analisavam-os-aparelhos
+kind: evidence
+classification: C
+proposition: Segundo o Estadão Conteúdo (Jovem Pan) e a CartaCapital, até a decisão de 19/02/2026 apenas
+  quatro peritos autorizados por Dias Toffoli podiam analisar o conteúdo dos aparelhos apreendidos.
+source_ids:
+  - src-jovempan-2026-02-19-mendonca-mantem-sigilo-do-caso-master-e-da-mais-autonomia-para-pf-nas-investigacoes
+  - src-cartacapital-2026-02-19-mendonca-reduz-sigilo-e-da-mais-autonomia-a-pf-no-caso-master
+excerpt: apenas quatro peritos autorizados por Toffoli poderiam analisar o conteúdo de celulares apreendidos
+locator: terceiro parágrafo (Jovem Pan/Estadão Conteúdo)
+date: 2026-02-19
+notes: A decisão de 19/02 não menciona o número de quatro peritos; a informação vem das duas reportagens. A
+  CartaCapital acrescenta que o material ficaria sob custódia da PGR, ponto que o Estadão Conteúdo não traz e
+  que o Novelo não adota.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

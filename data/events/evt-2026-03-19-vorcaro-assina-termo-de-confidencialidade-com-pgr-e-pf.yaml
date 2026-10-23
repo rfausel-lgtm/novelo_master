@@ -1,0 +1,67 @@
+id: evt-2026-03-19-vorcaro-assina-termo-de-confidencialidade-com-pgr-e-pf
+kind: event
+title: Vorcaro assina termo de confidencialidade com PGR e PF; Mendonça autoriza sua transferência para a
+  Superintendência da PF
+event_type: investigation_step
+date: 2026-03-19
+date_precision: day
+participant_ids:
+  - daniel-vorcaro
+  - andre-mendonca
+  - policia-federal
+  - ministerio-publico-federal
+description: "Em 19/03/2026, segundo Poder360, Metrópoles e Band, Daniel Vorcaro, preso preventivamente desde
+  04/03, assinou um termo de confidencialidade com a PGR e a PF, descrito pelas três reportagens como passo
+  inicial das tratativas para uma eventual delação premiada. No mesmo dia, o ministro André Mendonça autorizou
+  a transferência dele da Penitenciária Federal de Brasília para a Superintendência da PF na capital (o
+  Metrópoles registra que ela foi realizada no mesmo dia); só o Metrópoles liga a mudança de custódia às
+  tratativas, a pedido da defesa. O termo é sigiloso e não foi lido. O que este registro NÃO afirma: não há,
+  nas fontes lidas, acordo de colaboração firmado nem homologado; o Novelo não registra conteúdo, nomes ou
+  provas de eventual colaboração, que as próprias fontes dizem seguir sob sigilo; o acervo registra em eventos
+  separados propostas posteriores (junho de 2026), que este registro não liga a esta assinatura."
+evidence_class: C
+status: verified
+evidence_ids:
+  - ev-vorcaro-assina-termo-de-confidencialidade-com-pgr-e-pf-em-19-03-2026
+  - ev-mendonca-autoriza-a-transferencia-de-vorcaro-para-a-superintendencia-da-pf-em-19-03-2026
+  - ev-metropoles-diz-que-a-transferencia-de-vorcaro-foi-pedida-pela-defesa-e-integrava-as-tratativas
+  - ev-poder360-diz-que-as-partes-se-comprometeram-ao-sigilo-das-tratativas
+source_ids:
+  - src-poder360-2026-03-19-vorcaro-assina-termo-com-pgr-e-pf-que-possibilita-delacao
+  - src-metropoles-2026-03-19-vorcaro-assina-termo-de-confidencialidade-com-pgr-e-pf-e-abre-caminho-para-delacao
+  - src-band-2026-03-19-vorcaro-assina-termo-de-confidencialidade-para-possivel-delacao-premiada
+document_ids: []
+cited_position:
+  - by_id: daniel-vorcaro
+    kind: version
+    date: 2026-03-19
+    summary: Segundo o Metrópoles, a defesa sustentou, por interlocutores, que cogitava uma delação e ouviu dos
+      investigadores que a colaboração seria bem-vinda; segundo o Band, a expectativa dos advogados era
+      concluir o processo, inclusive a homologação, em até 15 dias. Nenhuma das duas fontes traz nota assinada
+      da defesa.
+    source_ids:
+      - src-metropoles-2026-03-19-vorcaro-assina-termo-de-confidencialidade-com-pgr-e-pf-e-abre-caminho-para-delacao
+      - src-band-2026-03-19-vorcaro-assina-termo-de-confidencialidade-para-possivel-delacao-premiada
+  - by_id: ministerio-publico-federal
+    kind: not_located
+    date: 2026-10-23
+    summary: Nenhuma nota da PGR sobre o termo foi localizada nas três reportagens lidas nem em busca web de
+      23/10/2026 (o resultado trouxe só imprensa); o portal do STF e o site da PF devolvem apenas a casca, sem
+      andamento.
+    source_ids:
+      - src-poder360-2026-03-19-vorcaro-assina-termo-com-pgr-e-pf-que-possibilita-delacao
+  - by_id: policia-federal
+    kind: not_located
+    date: 2026-10-23
+    summary: Nenhuma nota da PF sobre o termo foi localizada nas três reportagens lidas nem em busca web de
+      23/10/2026.
+    source_ids:
+      - src-poder360-2026-03-19-vorcaro-assina-termo-com-pgr-e-pf-que-possibilita-delacao
+tags:
+  - compliance-zero
+  - colaboracao-premiada
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

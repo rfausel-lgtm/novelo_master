@@ -1,0 +1,21 @@
+id: ev-mendonca-pet15198-19-02-mantem-o-sigilo-padrao-nivel-iii
+kind: evidence
+classification: D
+proposition: Na decisão de 19/02/2026 na Pet 15.198, o ministro André Mendonça determinou a manutenção do
+  nível de sigilo dos autos da Operação Compliance Zero sob sua relatoria, aplicando o sigilo padrão, nível
+  III, e concedeu acesso aos autos às autoridades policiais diretamente responsáveis pelas investigações.
+document_ids:
+  - doc-2026-02-24-decisao-pet15198-planejamento-pericial-100-dispositivos
+source_ids:
+  - src-stf-pet15198-decisao-19-02-2026-fluxo-ordinario-de-pericia
+  - src-stf-2026-02-19-stf-autoriza-fluxo-de-pericias-solicitado-pela-pf-na-operacao-compliance-zero
+excerpt: determino a manutenção do nível de sigilo adotado em relação aos presentes autos
+locator: itens 11 e 12 da decisão (numeração repetida no original)
+date: 2026-02-19
+notes: A notícia do STF diz que o relator "manteve o sigilo dos autos" no nível III. O texto da decisão não
+  menciona nível ou grau anterior diferente de III.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

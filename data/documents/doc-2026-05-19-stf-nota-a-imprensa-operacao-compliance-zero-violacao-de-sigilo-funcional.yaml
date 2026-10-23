@@ -1,0 +1,31 @@
+id: doc-2026-05-19-stf-nota-a-imprensa-operacao-compliance-zero-violacao-de-sigilo-funcional
+kind: document
+title: Nota à imprensa do STF sobre a Operação Compliance Zero (19/05/2026) - apuração de violação de sigilo
+  funcional
+doc_type: public_statement
+date: 2026-05-19
+date_precision: day
+issuer_id: supremo-tribunal-federal
+issuer: Supremo Tribunal Federal
+reference: Nota à imprensa, 19/05/2026 10h04 (decisão do relator de 18/05/2026)
+url: https://noticias.stf.jus.br/postsnoticias/nota-a-imprensa-44/
+source_ids:
+  - src-stf-2026-05-19-nota-a-imprensa-sobre-a-operacao-compliance-zero
+summary: Nota oficial do STF que informa a autorização, em 18/05/2026, de operação para apurar eventual
+  violação de sigilo funcional, o cumprimento em 19/05 de dois mandados de busca e apreensão e de medidas
+  cautelares diversas da prisão (incluindo a suspensão do exercício da função pública do policial federal), a
+  versão da PF de que o investigado, perito criminal federal, teria repassado a integrante da imprensa
+  informações sigilosas obtidas de material apreendido, o caráter específico e instrumental das diligências e
+  a ressalva de que não há direcionamento investigativo contra jornalistas ou veículos de imprensa. Não nomeia
+  o investigado.
+excerpt: as medidas não implicam qualquer direcionamento investigativo contra jornalistas ou veículos de imprensa
+is_official: true
+related_entity_ids:
+  - supremo-tribunal-federal
+  - andre-mendonca
+  - policia-federal
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

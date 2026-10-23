@@ -1,0 +1,21 @@
+id: ev-sbt-news-e-estadao-descrevem-o-que-o-perito-teria-repassado-a-imprensa
+kind: evidence
+classification: A
+proposition: Segundo o SBT News e o Estadão (Jornal de Brasília), a suspeita da PF é que o perito tenha
+  repassado à imprensa o contrato do escritório da mulher do ministro Alexandre de Moraes com o Banco Master e
+  conversas de Moraes com Daniel Vorcaro extraídas do celular do banqueiro.
+source_ids:
+  - src-sbtnews-2026-05-19-perito-da-pf-e-alvo-de-operacao-por-suspeita-de-vazamento-de-informacoes-de-esposa-de-moraes
+  - src-jornaldebrasilia-2026-05-19-perito-suspeito-de-vazar-contrato-de-mulher-de-moraes-e-alvo-da-pf
+excerpt: Ele é suspeito de vazar para a imprensa um contrato de prestação de serviços jurídicos
+locator: terceiro parágrafo (SBT News)
+attributed_to: SBT News e Estadão, com base em apurações próprias sobre a suspeita da PF
+date: 2026-05-19
+notes: Alegação sobre suspeita, sem documento lido nesta fonte. A nota do STF e o Band não descrevem o
+  conteúdo supostamente repassado. As fontes lidas não trazem manifestação de Moraes ou de seu gabinete sobre
+  esta fase.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23
