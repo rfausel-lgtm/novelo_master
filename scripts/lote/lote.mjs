@@ -3,7 +3,9 @@
 //   padrão: working tree contra HEAD. --so-texto (saneamento): qualquer chave não textual alterada é falha.
 // Falhas (saída 1): `added` ≠ arquivos novos; `published_at` presente; dado pessoal; chave estrutural em --so-texto.
 // Alertas (para o editor olhar): affected_ids divergente; chaves críticas alteradas; termo vedado sem atribuição.
-import { changedFiles, collOf, fileAt, idOf, parseYaml, walkStrings } from "./_util.mjs";
+import fs from "node:fs";
+import path from "node:path";
+import { ROOT, changedFiles, collOf, fileAt, idOf, parseYaml, walkStrings } from "./_util.mjs";
 
 const a = process.argv.slice(2);
 const opt = (f) => (a.includes(f) ? a[a.indexOf(f) + 1] : null);
@@ -19,6 +21,14 @@ const novos = files.filter((f) => f.status === "A");
 const alterados = files.filter((f) => f.status === "M");
 const falhas = [];
 const alertas = [];
+
+// 0. arquivo vazio em data/ quebra o CI (Zod: "expected object, received null") e o lint local não acusa
+for (const f of files) {
+  if (f.status === "D") continue;
+  const p = path.join(ROOT, f.file);
+  if (fs.existsSync(p) && fs.readFileSync(p, "utf8").trim() === "")
+    falhas.push(`arquivo VAZIO em data/ (apague ou preencha): ${f.file}`);
+}
 
 // 1. contagens
 const cont = {};
