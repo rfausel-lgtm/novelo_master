@@ -1,0 +1,19 @@
+id: ev-juiz-antecipa-por-30-dias-efeitos-da-rj-da-fictor
+kind: evidence
+classification: C
+proposition: Reportada em 03/02/2026, decisão do juiz Adler Batista Oliveira Nobre, da 3ª Vara de Falências e
+  Recuperações Judiciais de São Paulo, antecipou por 30 dias efeitos do stay period no pedido da Fictor
+  Holding e da Fictor Invest e determinou constatação prévia, sem deferir o processamento da recuperação
+  judicial.
+source_ids:
+  - src-migalhas-2026-02-03-juiz-antecipa-efeitos-recuperacao-fictor
+  - src-infomoney-2026-02-03-justica-acata-pedido-de-rj-e-concede-liminar-a-fictor
+date: 2026-02-03
+notes: A data exata da decisão não é informada pelas duas fontes; a data do registro é a das reportagens. A
+  decisão não foi lida pela equipe. Reportagens que falam em recuperação judicial decretada, sem a ressalva,
+  não foram usadas.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

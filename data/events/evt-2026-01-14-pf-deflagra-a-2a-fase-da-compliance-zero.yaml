@@ -1,0 +1,76 @@
+id: evt-2026-01-14-pf-deflagra-a-2a-fase-da-compliance-zero
+kind: event
+title: "PF deflagra a 2ª fase da Compliance Zero: 42 mandados de busca em cinco estados"
+event_type: investigation_step
+date: 2026-01-14
+date_precision: day
+participant_ids:
+  - policia-federal
+  - supremo-tribunal-federal
+  - dias-toffoli
+  - daniel-vorcaro
+  - fabiano-zettel
+  - nelson-tanure
+  - felipe-cancado-vorcaro
+description: "Segundo o Poder360 e a Jovem Pan, a PF cumpriu em 14/01/2026 a 2ª fase da Operação Compliance
+  Zero: 42 mandados de busca e apreensão em cinco estados (segundo a Jovem Pan), expedidos pelo STF em decisão do então relator Dias Toffoli (a decisão consta do evento de mesma
+  data). O Poder360 lista como alvos Daniel Vorcaro, Fabiano Zettel, Felipe Cançado Vorcaro e Nelson Tanure, e
+  informa que Zettel foi preso temporariamente. Conforme o Poder360, as medidas incluíram sequestro e bloqueio
+  de bens e valores superiores a R$ 5,7 bilhões. A Jovem Pan, citando a PF, informa a apreensão de 39
+  celulares, 31 computadores, 30 armas, 23 veículos avaliados em R$ 16 milhões e R$ 645 mil em espécie, e
+  bloqueio de R$ 24 milhões em contas. Mandados e medidas cautelares não são condenação."
+evidence_class: C
+status: verified
+evidence_ids:
+  - ev-compliance-zero-2a-fase-42-mandados-em-cinco-estados
+  - ev-stf-toffoli-diligencias-2026-01-14
+source_ids:
+  - src-poder360-2026-01-14-alvos-da-2a-fase-da-compliance-zero
+  - src-jovempan-2026-01-15-peritos-da-pf-criticam-decisao-de-toffoli
+document_ids:
+  - doc-2026-01-14-decisao-toffoli-novas-diligencias
+public_act_ids: []
+cited_position:
+  - date: 2026-01-14
+    by_id: daniel-vorcaro
+    kind: public_note
+    summary: Em nota, a defesa de Vorcaro (advogados Roberto Podval, Pierpaolo Cruz Botini e Sérgio Leonardo)
+      disse ter tomado conhecimento da busca e que ele "tem colaborado integral e continuamente com as
+      autoridades competentes", que as medidas serão atendidas com transparência e que confia no devido
+      processo legal.
+    source_ids:
+      - src-poder360-2026-01-14-alvos-da-2a-fase-da-compliance-zero
+  - date: 2026-01-14
+    by_id: nelson-tanure
+    kind: denial
+    summary: Em nota, a defesa de Tanure disse que ele não tem relação societária com o Banco Master, do qual foi
+      cliente, que a única medida imposta foi a apreensão do celular e que confia na demonstração da
+      inexistência de prática ilícita.
+    source_ids:
+      - src-poder360-2026-01-14-alvos-da-2a-fase-da-compliance-zero
+  - date: 2026-01-14
+    by_id: fabiano-zettel
+    kind: not_located
+    summary: O Poder360 informou não ter localizado contato válido da defesa; nenhuma manifestação foi localizada
+      nas fontes lidas.
+    source_ids:
+      - src-poder360-2026-01-14-alvos-da-2a-fase-da-compliance-zero
+  - date: 2026-01-14
+    by_id: felipe-cancado-vorcaro
+    kind: not_located
+    summary: O Poder360 informou não ter localizado contato válido da defesa; nenhuma manifestação foi localizada
+      nas fontes lidas.
+    source_ids:
+      - src-poder360-2026-01-14-alvos-da-2a-fase-da-compliance-zero
+  - date: 2026-01-15
+    by_id: dias-toffoli
+    kind: clarification
+    summary: O gabinete de Toffoli informou à Jovem Pan que a decisão sobre a custódia do material tinha a
+      finalidade de preservar as provas recolhidas e que tudo seria periciado pelas autoridades competentes.
+    source_ids:
+      - src-jovempan-2026-01-15-peritos-da-pf-criticam-decisao-de-toffoli
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

@@ -1,0 +1,71 @@
+id: rev-2026-10-23-lote-370-efeitos-em-cadeia-compliance-zero-2a-fase-fictor-rj-e-liquidacao-da-entrepay
+kind: revision
+date: 2026-10-23
+title: "Lote 370 — Efeitos em cadeia da liquidação do Master: 2ª fase da Compliance Zero (14/01), recuperação
+  judicial da Fictor (01/02) e liquidação da Entrepay (27/03)"
+summary: "O lote preenche o hiato de janeiro a março de 2026 com três marcos. (1) 2ª fase da Operação
+  Compliance Zero em 14/01/2026: 42 mandados de busca e apreensão em cinco estados, expedidos pelo STF em
+  decisão de Dias Toffoli (já registrada no acervo), prisão temporária de Fabiano Zettel e medidas de
+  sequestro e bloqueio de bens e valores superiores a R$ 5,7 bilhões, segundo Poder360 e Jovem Pan; a página
+  da PF exigia login e não foi aberta, de modo que mandados e valores têm classe C e o valor refere-se a bens
+  sujeitos a bloqueio, não a dinheiro apreendido (a PF informou à Jovem Pan bloqueio de R$ 24 milhões em
+  contas). Notas das defesas de Vorcaro e de Tanure e o esclarecimento do gabinete de Toffoli entram em igual
+  destaque. (2) Fictor: pedido de recuperação judicial da Fictor Holding e da Fictor Invest protocolado no
+  TJSP em 01/02/2026 (Capital Aberto, Congresso em Foco), dívidas de cerca de R$ 4 bilhões, e decisão
+  reportada em 03/02 (Migalhas, InfoMoney) que antecipou por 30 dias efeitos do stay period e determinou
+  constatação prévia, sem deferir o processamento; a ligação com a liquidação do Master é versão da própria
+  empresa, registrada como alegação. (3) Entrepay: liquidação extrajudicial da Entrepay, da Acqio e da Octa em
+  27/03/2026, com os Atos do Presidente 1.381, 1.382 e 1.383 (as duas últimas ementas vistas em boletim
+  oficial de legislação) e a nota do Grupo Entre, que diz já conduzir a descontinuação das operações; o Banco
+  Central não citou o Master. Acqio e Octa entram como organizações pelo papel documentado (liquidação). O
+  lote não afirma que a 2ª fase, a crise da Fictor ou a liquidação da Entrepay foram causadas pela liquidação
+  do Master nem se ligam entre si por nexo documentado; não afirma culpa de ninguém (mandado não é
+  condenação); não registra o conteúdo de decisões não lidas. O registro de que Antonio Carlos Freixo Júnior
+  foi alvo de busca na 2ª fase vem só do Seu Dinheiro e do Investidor10 e fica como alegação atribuída (classe A)
+  ligada ao evento da liquidação; ele não é nomeado no evento da 2ª fase. Pendências: a notícia da
+  PF e a petição da Fictor não foram lidas; a data exata da decisão sobre o stay period não consta das fontes;
+  reportagens que apresentam a recuperação como decretada foram descartadas por exceder a decisão."
+added:
+  people: 0
+  organizations: 2
+  events: 3
+  documents: 2
+  relationships: 2
+  sources: 9
+  evidence: 7
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-poder360-2026-01-14-alvos-da-2a-fase-da-compliance-zero
+  - src-jovempan-2026-01-15-peritos-da-pf-criticam-decisao-de-toffoli
+  - src-capitalaberto-2026-02-02-grupo-fictor-protocola-pedido-de-rj
+  - src-congressoemfoco-2026-02-02-fictor-pede-recuperacao-judicial
+  - src-migalhas-2026-02-03-juiz-antecipa-efeitos-recuperacao-fictor
+  - src-infomoney-2026-02-03-justica-acata-pedido-de-rj-e-concede-liminar-a-fictor
+  - src-seudinheiro-2026-03-27-bc-liquida-conglomerado-entrepay
+  - src-investidor10-2026-03-27-entrepay-entra-na-lista-de-liquidacoes
+  - src-bibliotecajuridicasp-2026-04-04-alerta-legislacao-14-atos-1381-a-1383
+  - doc-2026-03-27-ato-do-presidente-1382-liquidacao-da-acqio
+  - doc-2026-03-27-ato-do-presidente-1383-liquidacao-da-octa
+  - ev-compliance-zero-2a-fase-42-mandados-em-cinco-estados
+  - ev-imprensa-registra-freixo-como-alvo-de-busca-na-2a-fase
+  - ev-fictor-protocola-pedido-de-rj-no-tjsp-em-01-02-2026
+  - ev-juiz-antecipa-por-30-dias-efeitos-da-rj-da-fictor
+  - ev-fictor-atribui-sua-crise-de-liquidez-a-liquidacao-do-master
+  - ev-grupo-entre-diz-que-ja-descontinuava-as-operacoes-liquidadas
+  - ev-atos-1382-e-1383-liquidacao-da-acqio-e-da-octa
+  - acqio-adquirencia
+  - octa-sociedade-de-credito-direto
+  - evt-2026-01-14-pf-deflagra-a-2a-fase-da-compliance-zero
+  - evt-2026-02-01-grupo-fictor-pede-recuperacao-judicial
+  - evt-2026-03-27-bc-decreta-a-liquidacao-do-conglomerado-entrepay
+  - rel-entrepay-acqio-adquirencia-corporate
+  - rel-entrepay-octa-sociedade-de-credito-direto-corporate
+  - grupo-fictor
+  - entrepay
+reason: Gauntlet de cronologia de 23/10/2026, lote B; o acervo tinha a decisão de Toffoli de 14/01, a Fictor
+  apenas de passagem e a Entrepay sem evento datado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23

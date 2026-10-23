@@ -1,0 +1,33 @@
+id: acqio-adquirencia
+kind: organization
+name: Acqio Adquirência
+full_name: Acqio Adquirência Instituição de Pagamento S.A. (em liquidação extrajudicial)
+aliases: []
+org_type: financial_institution
+summary: Instituição de pagamento do conglomerado da Entrepay. Teve a liquidação extrajudicial decretada pelo
+  Banco Central em 27/03/2026, junto com a Entrepay e a Octa, pelo Ato do Presidente nº 1.382, segundo a
+  ementa publicada em boletim de legislação. O BC apontou, para o conglomerado, comprometimento da situação
+  econômico-financeira da líder, infringência às normas e prejuízos que sujeitam credores a risco anormal;
+  suas captações não são cobertas pelo FGC.
+why_in_novelo: Teve a liquidação extrajudicial decretada pelo Banco Central em 27/03/2026, com a Entrepay e a Octa.
+cited_position:
+  - date: 2026-03-27
+    by_id: entrepay
+    kind: public_note
+    summary: O Grupo Entre, em nota ao Seu Dinheiro, disse tomar conhecimento da decisão do BC e que conduzia a
+      descontinuação das operações da Acqio, da Entrepay e da Octa, comprometendo-se a colaborar com as
+      autoridades.
+    source_ids:
+      - src-seudinheiro-2026-03-27-bc-liquida-conglomerado-entrepay
+open_questions:
+  - Os textos dos Atos do Presidente nº 1.381 a 1.383 não foram lidos pela equipe; o que se registra vem das
+    ementas e da nota do BC reproduzida pela imprensa.
+source_ids:
+  - src-seudinheiro-2026-03-27-bc-liquida-conglomerado-entrepay
+  - src-investidor10-2026-03-27-entrepay-entra-na-lista-de-liquidacoes
+  - src-bibliotecajuridicasp-2026-04-04-alerta-legislacao-14-atos-1381-a-1383
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

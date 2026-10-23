@@ -1,0 +1,19 @@
+id: ev-compliance-zero-2a-fase-42-mandados-em-cinco-estados
+kind: evidence
+classification: C
+proposition: Em 14/01/2026 a PF realizou a 2ª fase da Operação Compliance Zero, com 42 mandados de busca e
+  apreensão em cinco estados, expedidos pelo STF em decisão de Dias Toffoli, e medidas
+  de sequestro e bloqueio de bens e valores que, segundo a imprensa, superam R$ 5,7 bilhões.
+source_ids:
+  - src-poder360-2026-01-14-alvos-da-2a-fase-da-compliance-zero
+  - src-jovempan-2026-01-15-peritos-da-pf-criticam-decisao-de-toffoli
+date: 2026-01-14
+notes: A ordem de Toffoli está documentada no evento de mesma data (decisão e comunicação oficial do STF). A
+  execução, os 42 mandados e os valores vêm da imprensa; a página da PF sobre a fase exigia login e não foi
+  aberta; as fontes registradas não nomeiam os cinco estados. O valor de R$ 5,7 bilhões refere-se a bens e valores sujeitos a sequestro e bloqueio, não a dinheiro
+  apreendido; o bloqueio em contas informado pela PF à Jovem Pan é de R$ 24 milhões.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

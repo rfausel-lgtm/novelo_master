@@ -1,0 +1,21 @@
+id: ev-fictor-atribui-sua-crise-de-liquidez-a-liquidacao-do-master
+kind: evidence
+classification: A
+proposition: Segundo o próprio Grupo Fictor, a reputação do grupo foi atingida por especulações do mercado
+  após a liquidação do Banco Master, o que comprometeu a liquidez da Fictor Holding e da Fictor Invest e
+  motivou o pedido de recuperação judicial.
+source_ids:
+  - src-capitalaberto-2026-02-02-grupo-fictor-protocola-pedido-de-rj
+  - src-congressoemfoco-2026-02-02-fictor-pede-recuperacao-judicial
+excerpt: a reputação do grupo foi atingida por especulações do mercado
+attributed_to_id: grupo-fictor
+date: 2026-02-01
+notes: Versão da empresa em comunicado, sem verificação independente neste registro. Não se conclui que a
+  liquidação do Master causou a crise do grupo; o Congresso em Foco registra, ainda, bloqueio cautelar de R$
+  150 milhões determinado pela Justiça paulista no fim de janeiro, por descumprimento de garantias de contrato
+  de cartões, matéria não verificada aqui.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

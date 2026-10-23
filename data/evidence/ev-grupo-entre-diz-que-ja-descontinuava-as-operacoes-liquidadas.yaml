@@ -1,0 +1,17 @@
+id: ev-grupo-entre-diz-que-ja-descontinuava-as-operacoes-liquidadas
+kind: evidence
+classification: A
+proposition: Segundo o Grupo Entre, que controla a Entrepay, o grupo vinha conduzindo um processo de
+  descontinuação das operações da Entrepay, da Acqio e da Octa quando o Banco Central decretou a liquidação em
+  27/03/2026, e seus outros negócios seguem normalmente.
+source_ids:
+  - src-seudinheiro-2026-03-27-bc-liquida-conglomerado-entrepay
+excerpt: vinha conduzindo, de forma estruturada, um processo de descontinuação das operações dessas sociedades
+attributed_to_id: entrepay
+date: 2026-03-27
+notes: Nota enviada ao Seu Dinheiro no dia da liquidação; o Banco Central não a comenta nas fontes lidas.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

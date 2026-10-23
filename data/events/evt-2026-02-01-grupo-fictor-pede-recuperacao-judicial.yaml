@@ -1,0 +1,45 @@
+id: evt-2026-02-01-grupo-fictor-pede-recuperacao-judicial
+kind: event
+title: Grupo Fictor pede recuperação judicial no TJSP; juiz antecipa por 30 dias efeitos do stay period
+event_type: corporate_act
+date: 2026-02-01
+date_precision: day
+participant_ids:
+  - grupo-fictor
+  - banco-master
+description: Em comunicado de domingo, 01/02/2026, o Grupo Fictor informou ter protocolado no Tribunal de
+  Justiça de São Paulo pedido de recuperação judicial da Fictor Holding e da Fictor Invest, com dívidas de
+  cerca de R$ 4 bilhões, e pedido de tutela de urgência para suspender execuções e bloqueios por 180 dias;
+  segundo o Capital Aberto, o pedido não inclui as subsidiárias. O grupo atribui a crise de liquidez à
+  reputação atingida após a liquidação do Banco Master, decretada um dia depois de o consórcio liderado por um
+  de seus sócios anunciar a oferta de compra (17/11/2025). Reportada em 03/02, decisão do juiz Adler Batista
+  Oliveira Nobre, da 3ª Vara de Falências e Recuperações Judiciais, antecipou por 30 dias efeitos do stay
+  period e determinou constatação prévia, mantendo os bloqueios já efetivados; segundo o Migalhas, o juiz
+  ressalvou que isso não significa o deferimento do processamento da recuperação. O registro não afirma que a
+  liquidação do Master causou a crise do grupo; essa é a versão da empresa.
+evidence_class: C
+status: verified
+evidence_ids:
+  - ev-fictor-protocola-pedido-de-rj-no-tjsp-em-01-02-2026
+  - ev-juiz-antecipa-por-30-dias-efeitos-da-rj-da-fictor
+  - ev-fictor-atribui-sua-crise-de-liquidez-a-liquidacao-do-master
+source_ids:
+  - src-capitalaberto-2026-02-02-grupo-fictor-protocola-pedido-de-rj
+  - src-congressoemfoco-2026-02-02-fictor-pede-recuperacao-judicial
+  - src-migalhas-2026-02-03-juiz-antecipa-efeitos-recuperacao-fictor
+  - src-infomoney-2026-02-03-justica-acata-pedido-de-rj-e-concede-liminar-a-fictor
+document_ids: []
+public_act_ids: []
+cited_position:
+  - date: 2026-02-01
+    by_id: grupo-fictor
+    kind: version
+    summary: Em comunicado, o grupo disse que o pedido visa "equilibrar a operação e assegurar o pagamento dos
+      compromissos financeiros" e que "a reputação do grupo foi atingida por especulações do mercado".
+    source_ids:
+      - src-capitalaberto-2026-02-02-grupo-fictor-protocola-pedido-de-rj
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

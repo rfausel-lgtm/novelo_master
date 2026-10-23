@@ -1,0 +1,25 @@
+id: src-seudinheiro-2026-03-27-bc-liquida-conglomerado-entrepay
+kind: source
+title: "Mais uma peça cai: Banco Central decreta liquidação extrajudicial do conglomerado Entrepay em meio à
+  crise do Banco Master"
+publisher: Seu Dinheiro
+author: Camille Lima
+publication_date: 2026-03-27
+retrieved_at: 2026-10-23
+url: https://www.seudinheiro.com/2026/empresas/mais-uma-peca-cai-banco-central-decreta-liquidacao-extrajudicial-do-conglomerado-entrepay-em-meio-a-crise-do-banco-master-miql/
+source_type: press
+summary: Informa que o BC decretou em 27/03/2026 a liquidação extrajudicial da Entrepay Instituição de
+  Pagamento, da Acqio Adquirência Instituição de Pagamento e da Octa Sociedade de Crédito Direto, reproduz a
+  nota do BC sobre os motivos e a nota do Grupo Entre, que diz já conduzir um processo de descontinuação das
+  operações dessas sociedades. Registra que o CEO do grupo, Antonio Carlos Freixo Júnior, foi alvo de busca em
+  nova fase da Compliance Zero em janeiro.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, texto literal)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

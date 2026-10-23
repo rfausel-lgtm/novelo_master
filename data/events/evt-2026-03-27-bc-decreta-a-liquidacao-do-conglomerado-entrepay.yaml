@@ -1,0 +1,61 @@
+id: evt-2026-03-27-bc-decreta-a-liquidacao-do-conglomerado-entrepay
+kind: event
+title: BC decreta a liquidação extrajudicial da Entrepay, da Acqio e da Octa
+event_type: regulatory_act
+date: 2026-03-27
+date_precision: day
+participant_ids:
+  - banco-central-do-brasil
+  - entrepay
+  - acqio-adquirencia
+  - octa-sociedade-de-credito-direto
+  - antonio-carlos-freixo-junior
+description: Em 27/03/2026 o Banco Central decretou a liquidação extrajudicial da Entrepay Instituição de
+  Pagamento, da Acqio Adquirência e da Octa Sociedade de Crédito Direto, pelos Atos do Presidente nº 1.381,
+  1.382 e 1.383. Segundo a nota do BC reproduzida por Agência Brasil, Seu Dinheiro e Investidor10, a medida
+  foi motivada pelo comprometimento da situação econômico-financeira da instituição líder, pela infringência
+  às normas e por prejuízos que sujeitam credores a risco anormal; o conglomerado detinha cerca de 0,009% dos
+  ativos do sistema financeiro, e as captações não são cobertas pelo FGC. Os bens de controladores e
+  ex-administradores ficam indisponíveis. O Investidor10 ressalva que o BC não citou o Master ao decretar a
+  liquidação. Segundo a averbação na Receita Federal, Antonio Carlos Freixo Júnior consta como diretor da
+  Entrepay desde fevereiro de 2022. O BC afirmou que continuará apurando responsabilidades.
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-banco-central-liquidou-a-entrepay-do-delator-em-marco-de-2026
+  - ev-atos-1382-e-1383-liquidacao-da-acqio-e-da-octa
+  - ev-grupo-entre-diz-que-ja-descontinuava-as-operacoes-liquidadas
+  - ev-imprensa-registra-freixo-como-alvo-de-busca-na-2a-fase
+source_ids:
+  - src-agenciabrasil-2026-03-27-bc-liquida-entrepay-acqio-e-octa
+  - src-seudinheiro-2026-03-27-bc-liquida-conglomerado-entrepay
+  - src-investidor10-2026-03-27-entrepay-entra-na-lista-de-liquidacoes
+  - src-bibliotecajuridicasp-2026-04-04-alerta-legislacao-14-atos-1381-a-1383
+  - src-minhareceita-2026-09-10-entrepay-em-liquidacao-extrajudicial
+document_ids:
+  - doc-2026-03-27-ato-do-presidente-1381-liquidacao-da-entrepay
+  - doc-2026-03-27-ato-do-presidente-1382-liquidacao-da-acqio
+  - doc-2026-03-27-ato-do-presidente-1383-liquidacao-da-octa
+public_act_ids: []
+cited_position:
+  - date: 2026-03-27
+    by_id: entrepay
+    kind: public_note
+    summary: O Grupo Entre disse, em nota ao Seu Dinheiro, que vinha conduzindo "um processo de descontinuação das
+      operações dessas sociedades" em revisão estratégica do portfólio, que colabora com as autoridades e que
+      "possui outros negócios que seguirão seu curso normalmente".
+    source_ids:
+      - src-seudinheiro-2026-03-27-bc-liquida-conglomerado-entrepay
+  - date: 2026-03-27
+    by_id: antonio-carlos-freixo-junior
+    kind: not_located
+    summary: Nenhuma manifestação pessoal foi localizada nas reportagens de 27/03 (Agência Brasil, Seu Dinheiro,
+      Investidor10) nem no corpus sobre a liquidação ou sobre a busca de janeiro que essas reportagens relatam.
+    source_ids:
+      - src-seudinheiro-2026-03-27-bc-liquida-conglomerado-entrepay
+      - src-investidor10-2026-03-27-entrepay-entra-na-lista-de-liquidacoes
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

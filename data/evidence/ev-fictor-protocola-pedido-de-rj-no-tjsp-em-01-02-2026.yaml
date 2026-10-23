@@ -1,0 +1,19 @@
+id: ev-fictor-protocola-pedido-de-rj-no-tjsp-em-01-02-2026
+kind: evidence
+classification: C
+proposition: Em 01/02/2026 o Grupo Fictor protocolou, no Tribunal de Justiça de São Paulo, pedido de
+  recuperação judicial da Fictor Holding e da Fictor Invest, com dívidas estimadas em cerca de R$ 4 bilhões, e
+  pediu tutela de urgência para suspender execuções e bloqueios por 180 dias.
+source_ids:
+  - src-capitalaberto-2026-02-02-grupo-fictor-protocola-pedido-de-rj
+  - src-congressoemfoco-2026-02-02-fictor-pede-recuperacao-judicial
+  - src-migalhas-2026-02-03-juiz-antecipa-efeitos-recuperacao-fictor
+date: 2026-02-01
+notes: Os dois primeiros veículos reportam o comunicado do grupo; o Migalhas descreve a decisão judicial no
+  pedido. O valor do passivo é o informado pelo grupo (cerca de R$ 4 bilhões). A petição não foi lida pela
+  equipe.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

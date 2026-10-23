@@ -1,0 +1,24 @@
+id: src-capitalaberto-2026-02-02-grupo-fictor-protocola-pedido-de-rj
+kind: source
+title: Grupo Fictor, com dívida de R$ 4 bi, protocola pedido de recuperação judicial
+publisher: Capital Aberto
+author: Victor Aguiar
+publication_date: 2026-02-02
+retrieved_at: 2026-10-23
+url: https://capitalaberto.com.br/companhias-abertas/grupo-fictor-com-divida-de-r-4-bi-protocola-pedido-de-rj/
+source_type: press
+summary: Informa que o Grupo Fictor anunciou, em comunicado de domingo (01/02/2026), ter protocolado no
+  Tribunal de Justiça de São Paulo pedido de recuperação judicial da Fictor Holding e da Fictor Invest, com
+  dívidas de cerca de R$ 4 bilhões e pedido de tutela de urgência para suspender execuções e bloqueios por 180
+  dias. Atribui ao grupo a explicação de que a reputação foi atingida por especulações de mercado após a
+  liquidação do Banco Master, e registra que o pedido não inclui as subsidiárias.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, texto literal)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23
