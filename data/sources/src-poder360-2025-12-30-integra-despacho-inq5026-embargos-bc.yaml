@@ -1,0 +1,32 @@
+id: src-poder360-2025-12-30-integra-despacho-inq5026-embargos-bc
+kind: source
+title: Despacho de Dias Toffoli no INQ 5.026 que não conhece dos embargos do Banco Central (27/12/2025, PDF)
+publisher: Poder360 (reprodução de despacho do STF)
+author: Ministro Dias Toffoli
+publication_date: 2025-12-30
+retrieved_at: 2026-10-23
+url: https://static.poder360.com.br/2025/12/despacho-toffoli-negando-recurso-BC-acaeracao-banco-master-27.dez_.2025.pdf
+source_type: official_court
+language: pt-BR
+summary: 'Íntegra, hospedada pelo Poder360, do despacho de Toffoli no INQ 5.026/DF, datado de "Brasília, 27 de
+  dezembro de 2025": deixa de conhecer dos embargos de declaração opostos pelo Banco Central e por seu diretor
+  de Fiscalização, por não serem investigados; afirma que a participação da autoridade reguladora nos
+  depoimentos e acareações é "de especial relevância"; justifica a urgência das oitivas; determina os atos
+  "sob a condução da autoridade policial competente, com organização pelo juiz auxiliar deste gabinete";
+  mantém o sigilo dos autos.'
+notes: Aberta com lote:fonte em 23/10/2026 (PDF de duas páginas, texto extraído com pdftotext; sha256 do
+  arquivo 1d2a87e6a01c5bea...). Link de leitura da íntegra da decisão da reportagem do Poder360 de 30/12/2025. É
+  cópia reproduzida por veículo, não URL oficial do STF, e o portal do STF devolve só a casca da página; por
+  isso o despacho não ganha documento próprio e a evidência é C (cópia + Agência Brasil, que cita o mesmo
+  trecho), não D. A peça não traz marca de sigilo no corpo, só nas partes ("SOB SIGILO").
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura integral do texto extraído)
+  url_reachable: true
+  content_matches_summary: true
+  notes: cópia hospedada pelo Poder360; autenticidade não conferida no portal do STF.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

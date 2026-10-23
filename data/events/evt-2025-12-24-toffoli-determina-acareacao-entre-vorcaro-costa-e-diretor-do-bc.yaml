@@ -1,0 +1,65 @@
+id: evt-2025-12-24-toffoli-determina-acareacao-entre-vorcaro-costa-e-diretor-do-bc
+kind: event
+title: Toffoli determina acareação entre Vorcaro, Paulo Henrique Costa e o diretor de Fiscalização do BC; PGR
+  pede suspensão e o ministro mantém a data
+event_type: judicial_decision
+date: 2025-12-24
+date_precision: approximate
+participant_ids:
+  - dias-toffoli
+  - supremo-tribunal-federal
+  - daniel-vorcaro
+  - paulo-henrique-costa
+  - banco-central-do-brasil
+  - paulo-gonet
+description: Segundo a Folha (24/12/2025) e O Globo (26/12/2025), Toffoli determinou no inquérito sigiloso sob
+  sua relatoria, sem pedido da PF ou da PGR, uma acareação entre Daniel Vorcaro, Paulo Henrique Costa
+  (ex-presidente do BRB) e o diretor de Fiscalização do Banco Central para 30/12/2025, no recesso. Segundo O
+  Globo e a Gazeta do Povo, o procurador-geral Paulo Gonet pediu a suspensão do ato por considerá-lo prematuro
+  antes dos depoimentos individuais, e Toffoli manteve a data. Segundo a Folha, O Globo e o despacho de 27/12,
+  o diretor do BC não é investigado. A data exata
+  do despacho que marcou a acareação não foi localizada (24/12 é a da divulgação); a manifestação da PGR não
+  foi lida pelo Novelo.
+evidence_class: C
+status: verified
+evidence_ids:
+  - ev-toffoli-determina-de-oficio-acareacao-para-30-12-2025
+  - ev-pgr-pede-suspensao-da-acareacao-e-toffoli-mantem-a-data
+source_ids:
+  - src-folha-2025-12-24-toffoli-determina-acareacao-jornaldebrasilia
+  - src-oglobo-2025-12-26-toffoli-desagrada-pgr-e-bc-infomoney
+  - src-gazetadopovo-2025-12-27-bc-pede-esclarecimentos-acareacao
+cited_position:
+  - kind: version
+    by_id: dias-toffoli
+    date: 2025-12-27
+    summary: No despacho de 27/12/2025 no INQ 5.026, escreveu que a participação da autoridade reguladora nos
+      depoimentos e acareações é de especial relevância para o esclarecimento dos fatos e que a urgência das
+      oitivas se justifica diante da "significativa interferência dos fatos em apuração no sistema financeiro
+      brasileiro".
+    source_ids:
+      - src-poder360-2025-12-30-integra-despacho-inq5026-embargos-bc
+  - kind: version
+    by_id: paulo-gonet
+    date: 2025-12-24
+    summary: Segundo O Globo e a Gazeta do Povo, pediu a suspensão da acareação por considerá-la prematura;
+      segundo a Gazeta, o argumento foi que o Código de Processo Penal a prevê depois dos interrogatórios
+      individuais.
+    source_ids:
+      - src-oglobo-2025-12-26-toffoli-desagrada-pgr-e-bc-infomoney
+      - src-gazetadopovo-2025-12-27-bc-pede-esclarecimentos-acareacao
+  - kind: clarification
+    by_id: banco-central-do-brasil
+    date: 2025-12-26
+    summary: Segundo a Gazeta do Povo, opôs embargos de declaração pedindo que o STF esclarecesse os pontos
+      controversos, a condição em que o diretor era intimado e a urgência do ato no recesso.
+    source_ids:
+      - src-gazetadopovo-2025-12-27-bc-pede-esclarecimentos-acareacao
+tags:
+  - inq-5026
+  - acareacao
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

@@ -1,0 +1,61 @@
+id: rev-2026-10-23-lote-365-fim-de-2025-acareacao-e-arquivamento-do-pedido-contra-moraes
+kind: revision
+date: 2026-10-23
+title: "Lote 365 — Fim de 2025 no STF e na PGR: a acareação determinada por Toffoli no INQ 5.026 e o
+  arquivamento, por Gonet, do pedido para investigar Moraes e a esposa"
+summary: 'Lote de camada C, que fecha o intervalo de 24 a 30/12/2025. O que NÃO se afirma, em destaque: o
+  Novelo não leu a manifestação da PGR contra a acareação, o despacho que a marcou nem o despacho de Gonet na
+  íntegra, nem os localizou em fonte oficial; o arquivamento é ato do Ministério Público por falta de base
+  mínima, não juízo do Novelo sobre os contatos de Moraes com Galípolo nem sobre o contrato do escritório
+  Barci de Moraes; a acareação não indica investigação do Banco Central nem de seu diretor, que não são
+  investigados. Acareação: segundo Folha (24/12) e O Globo (26/12), Toffoli a determinou sem pedido da PF ou
+  da PGR, para 30/12, entre Vorcaro, Paulo Henrique Costa e o diretor de Fiscalização do BC; segundo O Globo e
+  Gazeta do Povo, Gonet pediu a suspensão por entendê-la prematura e o ministro manteve a data. Em 27/12/2025
+  (despacho no INQ 5.026, cópia divulgada pelo Poder360 e trecho citado pela Agência Brasil), Toffoli não
+  conheceu dos embargos do BC e de seu diretor e manteve o diretor nos atos. Em 29/12, segundo Poder360 e
+  Jornal de Brasília, o STF informou que a delegada da PF colheria primeiro os depoimentos separados e então
+  decidiria sobre a acareação; a nota do gabinete de Toffoli de 29/01/2026 (já no acervo) registra a acareação
+  entre Vorcaro e Paulo Henrique Costa em 30/12, enquanto o Poder360 de 30/12, antes das oitivas, previa a
+  acareação para janeiro: a divergência fica registrada como limite, e não se confirmou a participação do
+  diretor do BC.
+  Arquivamento: segundo Poder360 (29/12) e Agência Brasil (30/12), Gonet arquivou em 27/12 a representação do
+  advogado Enio Martins Murad, de 24/12, baseada em reportagens, citando "absoluta ausência de lastro
+  probatório mínimo"; Moraes (nota de 23/12) negou ter tratado do Master com Galípolo. Posições de Toffoli,
+  Gonet, Moraes e do BC nos eventos, com igual destaque. Sem pessoa, organização, documento ou relação nova: o
+  autor da representação aparece só como autor do pedido, sem registro próprio.'
+added:
+  people: 0
+  organizations: 0
+  events: 4
+  documents: 0
+  relationships: 0
+  sources: 10
+  evidence: 5
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-folha-2025-12-24-toffoli-determina-acareacao-jornaldebrasilia
+  - src-oglobo-2025-12-26-toffoli-desagrada-pgr-e-bc-infomoney
+  - src-gazetadopovo-2025-12-27-bc-pede-esclarecimentos-acareacao
+  - src-poder360-2025-12-30-integra-despacho-inq5026-embargos-bc
+  - src-agenciabrasil-2025-12-27-toffoli-mantem-diretor-do-bc-na-acareacao
+  - src-poder360-2025-12-30-pf-ouvira-vorcaro-e-diretor-do-bc
+  - src-jornaldebrasilia-2025-12-29-stf-da-autonomia-a-pf-sobre-acareacao
+  - src-poder360-2025-12-29-contrato-da-mulher-de-moraes-nao-e-ilicito-diz-pgr
+  - src-agenciabrasil-2025-12-30-pgr-descarta-ilicitude-e-arquiva-pedido
+  - src-diariodepernambuco-2025-12-30-pgr-arquiva-pedido-moraes-e-esposa
+  - ev-toffoli-determina-de-oficio-acareacao-para-30-12-2025
+  - ev-pgr-pede-suspensao-da-acareacao-e-toffoli-mantem-a-data
+  - ev-despacho-inq5026-27-12-2025-nao-conhece-embargos-do-bc
+  - ev-stf-informa-que-pf-ouvira-separadamente-antes-de-decidir-acareacao
+  - ev-gonet-arquiva-representacao-de-enio-murad-contra-moraes-e-esposa
+  - evt-2025-12-24-toffoli-determina-acareacao-entre-vorcaro-costa-e-diretor-do-bc
+  - evt-2025-12-27-toffoli-nao-conhece-embargos-do-bc-e-mantem-diretor-nas-oitivas
+  - evt-2025-12-29-stf-informa-que-pf-ouvira-antes-de-decidir-acareacao
+  - evt-2025-12-27-gonet-arquiva-pedido-para-investigar-moraes-e-a-esposa
+reason: "Gauntlet STF/PGR de 23/10/2026, lacunas 1 e 2: marcos de dezembro de 2025 ausentes do acervo, cada um
+  com duas ou mais fontes independentes abertas e, para o despacho de 27/12, cópia da peça."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23

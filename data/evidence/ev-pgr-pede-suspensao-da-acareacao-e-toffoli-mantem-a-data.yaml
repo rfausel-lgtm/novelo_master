@@ -1,0 +1,19 @@
+id: ev-pgr-pede-suspensao-da-acareacao-e-toffoli-mantem-a-data
+kind: evidence
+classification: C
+proposition: Segundo O Globo (26/12/2025) e a Gazeta do Povo (27/12/2025), o procurador-geral Paulo Gonet
+  pediu a suspensão (ou o cancelamento) da acareação por considerá-la prematura antes dos depoimentos
+  individuais, e Toffoli manteve a audiência marcada para 30/12/2025.
+source_ids:
+  - src-oglobo-2025-12-26-toffoli-desagrada-pgr-e-bc-infomoney
+  - src-gazetadopovo-2025-12-27-bc-pede-esclarecimentos-acareacao
+  - src-jornaldebrasilia-2025-12-29-stf-da-autonomia-a-pf-sobre-acareacao
+date: 2025-12-24
+notes: A manifestação da PGR não foi localizada em fonte oficial; o Novelo não a leu. O Globo situa o pedido
+  na noite de quarta-feira (24/12/2025). A Gazeta cita o Código de Processo Penal como fundamento descrito
+  pela PGR. A data da decisão de Toffoli que rejeitou o pedido não foi confirmada.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

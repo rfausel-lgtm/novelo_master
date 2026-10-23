@@ -1,0 +1,24 @@
+id: src-agenciabrasil-2025-12-30-pgr-descarta-ilicitude-e-arquiva-pedido
+kind: source
+title: PGR descarta ilicitude e arquiva pedido para investigar Moraes
+publisher: Agência Brasil
+publication_date: 2025-12-30
+retrieved_at: 2026-10-23
+url: https://agenciabrasil.ebc.com.br/justica/noticia/2025-12/pgr-descarta-ilicitude-e-arquiva-pedido-para-investigar-moraes
+source_type: wire
+language: pt-BR
+summary: 'Agência Brasil (30/12/2025): Gonet decidiu arquivar o pedido para investigar Moraes e a esposa, a
+  advogada Viviane Barci de Moraes, no caso Master; o despacho foi publicado no sábado (27); o pedido foi
+  feito pelo advogado Enio Martins Murad com base no que foi divulgado pela imprensa; cita trechos do
+  despacho, entre eles que a representação "fundamenta-se estritamente em matérias jornalísticas"; registra a
+  afirmação de Moraes, de 23/12, de que as reuniões com Galípolo trataram exclusivamente da Lei Magnitsky.'
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura integral do texto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

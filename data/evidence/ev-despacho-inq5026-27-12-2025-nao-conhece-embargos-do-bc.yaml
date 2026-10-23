@@ -1,0 +1,25 @@
+id: ev-despacho-inq5026-27-12-2025-nao-conhece-embargos-do-bc
+kind: evidence
+classification: C
+proposition: Em despacho de 27/12/2025 no INQ 5.026, Toffoli deixou de conhecer dos embargos de declaração do
+  Banco Central e de seu diretor de Fiscalização, escrevendo que "nem a Autoridade Central Financeira
+  Brasileira nem o diretor da Autarquia são investigados", que a participação da autoridade reguladora nos
+  depoimentos e acareações "é de especial relevância para o esclarecimento dos fatos" e que "justificada está
+  a urgência da realização das oitivas"; determinou os atos sob a condução da autoridade policial, com
+  organização por juiz auxiliar do gabinete, e manteve o sigilo.
+source_ids:
+  - src-poder360-2025-12-30-integra-despacho-inq5026-embargos-bc
+  - src-agenciabrasil-2025-12-27-toffoli-mantem-diretor-do-bc-na-acareacao
+  - src-poder360-2025-12-30-pf-ouvira-vorcaro-e-diretor-do-bc
+attributed_to: Despacho de Dias Toffoli no INQ 5.026, em cópia divulgada pelo Poder360
+excerpt: Deixo de conhecer dos embargos, posto que nem a Autoridade Central Financeira Brasileira nem o
+  diretor da Autarquia são investigados e, portanto, sujeitos das medidas já determinadas nos presentes autos.
+date: 2025-12-27
+notes: Classe C, e não D, porque o texto lido é cópia hospedada pelo Poder360, sem conferência no portal do
+  STF; a Agência Brasil, no mesmo dia, cita literalmente outro trecho do despacho. Elevar a D se a peça for
+  localizada em fonte oficial.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

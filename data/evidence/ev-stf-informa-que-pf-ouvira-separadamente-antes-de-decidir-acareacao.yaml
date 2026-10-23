@@ -1,0 +1,20 @@
+id: ev-stf-informa-que-pf-ouvira-separadamente-antes-de-decidir-acareacao
+kind: evidence
+classification: C
+proposition: Segundo o Poder360 (30/12/2025) e o Jornal de Brasília (29/12/2025), o STF informou em 29/12/2025
+  que, em 30/12, a delegada da PF responsável pelo caso colheria primeiro os depoimentos de Vorcaro, Paulo
+  Henrique Costa e do diretor de Fiscalização do BC e só então decidiria se haveria acareação, com
+  acompanhamento de juiz auxiliar do gabinete de Toffoli e de membro do Ministério Público.
+source_ids:
+  - src-poder360-2025-12-30-pf-ouvira-vorcaro-e-diretor-do-bc
+  - src-jornaldebrasilia-2025-12-29-stf-da-autonomia-a-pf-sobre-acareacao
+date: 2025-12-29
+notes: O comunicado do STF de 29/12 não foi localizado no portal; o Novelo leu só as reportagens. O desfecho
+  de 30/12 (oitivas e acareação entre Vorcaro e Paulo Henrique Costa) vem da nota do gabinete de Toffoli de
+  29/01/2026, já no acervo (ev-stf-nota-cronologia-relatoria). A informação de que o diretor do BC teria sido
+  dispensado da acareação não foi confirmada em fonte aberta.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

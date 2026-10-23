@@ -1,0 +1,28 @@
+id: ev-gonet-arquiva-representacao-de-enio-murad-contra-moraes-e-esposa
+kind: evidence
+classification: C
+proposition: Segundo o Poder360 (29/12/2025) e a Agência Brasil (30/12/2025), o procurador-geral Paulo Gonet
+  arquivou, em despacho de 27/12/2025, o pedido de investigação de Alexandre de Moraes e da esposa, Viviane
+  Barci de Moraes, apresentado em 24/12/2025 pelo advogado Enio Martins Murad com base em reportagens;
+  escreveu que há "absoluta ausência de lastro probatório mínimo que sustente a acusação formulada", que a
+  representação "fundamenta-se estritamente em matérias jornalísticas" e, quanto ao contrato do escritório de
+  Viviane Barci de Moraes com o Master, que "não se vislumbra, a priori, qualquer ilicitude que justifique a
+  intervenção desta instância".
+source_ids:
+  - src-poder360-2025-12-29-contrato-da-mulher-de-moraes-nao-e-ilicito-diz-pgr
+  - src-agenciabrasil-2025-12-30-pgr-descarta-ilicitude-e-arquiva-pedido
+  - src-diariodepernambuco-2025-12-30-pgr-arquiva-pedido-moraes-e-esposa
+attributed_to: Despacho de Paulo Gonet (PGR), em trechos reproduzidos por Poder360 e Agência Brasil
+excerpt: Em uma análise preliminar, é imperativo sublinhar a absoluta ausência de lastro probatório mínimo que
+  sustente a acusação formulada.
+date: 2025-12-27
+notes: O despacho não foi localizado em fonte oficial do MPF nem lido na íntegra; o número do procedimento não
+  foi localizado. O arquivamento é decisão da PGR; o Novelo não emite juízo próprio sobre os fatos narrados
+  nas reportagens nem sobre o contrato. A data de 27/12 vem da Agência Brasil ("publicado no último sábado
+  (27)") e do texto do Estadão Conteúdo republicado pelo Diario de Pernambuco (assinado três dias depois do
+  pedido de 24/12).
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

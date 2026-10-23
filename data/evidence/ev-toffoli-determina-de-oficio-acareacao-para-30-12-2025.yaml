@@ -1,0 +1,19 @@
+id: ev-toffoli-determina-de-oficio-acareacao-para-30-12-2025
+kind: evidence
+classification: C
+proposition: Segundo a Folha (24/12/2025) e O Globo (26/12/2025), Dias Toffoli determinou, no inquérito
+  sigiloso sob sua relatoria no STF e sem pedido da PF ou da PGR, uma audiência de acareação entre Daniel
+  Vorcaro, Paulo Henrique Costa e o diretor de Fiscalização do Banco Central, marcada para 30/12/2025, no
+  recesso do Judiciário.
+source_ids:
+  - src-folha-2025-12-24-toffoli-determina-acareacao-jornaldebrasilia
+  - src-oglobo-2025-12-26-toffoli-desagrada-pgr-e-bc-infomoney
+date: 2025-12-24
+notes: A data exata do despacho que marcou a acareação não foi localizada; 24/12/2025 é a data em que a
+  convocação foi noticiada. O despacho de 27/12 (INQ 5.026) refere-se a despachos anteriores. Dois veículos
+  com apuração própria; as razões atribuídas a "interlocutores" do ministro não entram.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

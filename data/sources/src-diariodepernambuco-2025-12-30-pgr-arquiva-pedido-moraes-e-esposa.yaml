@@ -1,0 +1,26 @@
+id: src-diariodepernambuco-2025-12-30-pgr-arquiva-pedido-moraes-e-esposa
+kind: source
+title: "Banco Master: PGR arquiva pedido para investigar Moraes e esposa"
+publisher: Diario de Pernambuco (Estadão Conteúdo)
+publication_date: 2025-12-30
+retrieved_at: 2026-10-23
+url: https://www.diariodepernambuco.com.br/politica/2025/12/11703937-banco-master-pgr-arquiva-pedido-para-investigar-moraes-e-esposa.html
+source_type: press
+language: pt-BR
+summary: 'Diario de Pernambuco (30/12/2025): Gonet arquivou o pedido de investigação protocolado pelo advogado
+  Enio Martins Murad em 24/12; o arquivamento foi assinado três dias depois; reproduz trechos do despacho
+  sobre a falta de elementos concretos ou indícios materiais e sobre o sigilo da fonte; registra a nota de
+  Moraes de que tratou com o presidente do BC apenas dos efeitos da Lei Magnitsky.'
+notes: Texto creditado a "Estadão Conteúdo", republicado pelo Diario de Pernambuco; conta como uma fonte
+  (Estadão), de apoio. Um comentário do texto sobre a relação entre Gonet e Moraes é opinião e não entra no
+  acervo; o valor do contrato citado no texto também não entra.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura integral do texto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

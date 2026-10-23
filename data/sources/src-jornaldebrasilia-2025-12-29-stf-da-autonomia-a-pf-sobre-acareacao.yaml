@@ -1,0 +1,28 @@
+id: src-jornaldebrasilia-2025-12-29-stf-da-autonomia-a-pf-sobre-acareacao
+kind: source
+title: Supremo dá autonomia para PF colher depoimentos e decidir sobre acareação
+publisher: Jornal de Brasília (Estadão Conteúdo)
+publication_date: 2025-12-29
+retrieved_at: 2026-10-23
+url: https://jornaldebrasilia.com.br/noticias/politica-e-poder/supremo-da-autonomia-para-pf-colher-depoimentos-e-decidir-sobre-acareacao/
+source_type: press
+language: pt-BR
+summary: 'Jornal de Brasília (29/12/2025): o STF informou nesta segunda-feira (29) que o procedimento
+  começaria com o depoimento dos intimados e que, se a PF considerasse não haver contradições a esclarecer,
+  não haveria acareação; a audiência seria a portas fechadas e conduzida pela delegada responsável pelo caso;
+  registra que a PGR havia se manifestado contra a acareação antes dos depoimentos individuais e que, ao
+  manter o ato, Toffoli definiu o BC e o diretor como "terceiros interessados".'
+notes: Assinado "Redação Jornal de Brasília", com o crédito "Estadão Conteúdo" ao final; conta como uma fonte
+  (Estadão). A afirmação de que Toffoli "definiu" BC e diretor como terceiros interessados difere do despacho
+  de 27/12, segundo o qual os próprios embargantes assim se qualificaram, alternativamente. A parte sobre o
+  TCU, a nota de entidades financeiras e os nomes de servidores não entram neste lote.
+verification:
+  checked_at: 2026-10-23
+  checked_by: orquestrador (lote:fonte, leitura integral do texto)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

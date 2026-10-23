@@ -1,0 +1,67 @@
+id: evt-2025-12-27-gonet-arquiva-pedido-para-investigar-moraes-e-a-esposa
+kind: event
+title: Gonet arquiva pedido do advogado Enio Murad para investigar Alexandre de Moraes e Viviane Barci de Moraes
+event_type: public_act
+date: 2025-12-27
+date_precision: day
+participant_ids:
+  - paulo-gonet
+  - ministerio-publico-federal
+  - alexandre-de-moraes
+  - viviane-barci-de-moraes
+description: Segundo o Poder360 (29/12/2025) e a Agência Brasil (30/12/2025), o procurador-geral Paulo Gonet
+  arquivou, em despacho de 27/12/2025, a representação apresentada em 24/12/2025 pelo advogado Enio Martins
+  Murad para investigar Alexandre de Moraes e a esposa, Viviane Barci de Moraes, a partir de reportagens sobre
+  contatos do ministro com o presidente do BC, Gabriel Galípolo, e sobre o contrato do escritório Barci de
+  Moraes com o Master. Gonet registrou a falta de lastro probatório mínimo, que a representação se baseia só
+  em matérias jornalísticas e que, quanto ao contrato, não vê, a priori, ilicitude que justifique a
+  intervenção da PGR. O despacho não foi lido na íntegra pelo Novelo.
+evidence_class: C
+status: verified
+evidence_ids:
+  - ev-gonet-arquiva-representacao-de-enio-murad-contra-moraes-e-esposa
+source_ids:
+  - src-poder360-2025-12-29-contrato-da-mulher-de-moraes-nao-e-ilicito-diz-pgr
+  - src-agenciabrasil-2025-12-30-pgr-descarta-ilicitude-e-arquiva-pedido
+  - src-diariodepernambuco-2025-12-30-pgr-arquiva-pedido-moraes-e-esposa
+cited_position:
+  - kind: version
+    by_id: paulo-gonet
+    date: 2025-12-27
+    summary: No despacho, segundo Poder360 e Agência Brasil, afirmou que a imprensa não apresentou elementos
+      concretos ou indícios materiais, que o sigilo da fonte limita a apuração de relatos anônimos e que a
+      ingerência em negócios jurídicos firmados entre particulares, no exercício da advocacia, foge ao escopo
+      de atuação e à competência da Suprema Corte.
+    source_ids:
+      - src-poder360-2025-12-29-contrato-da-mulher-de-moraes-nao-e-ilicito-diz-pgr
+      - src-agenciabrasil-2025-12-30-pgr-descarta-ilicitude-e-arquiva-pedido
+  - kind: denial
+    by_id: alexandre-de-moraes
+    date: 2025-12-23
+    summary: Em nota de 23/12/2025, segundo Poder360 e Agência Brasil, negou ter tratado de assuntos do Master com
+      Galípolo e disse que as reuniões trataram exclusivamente da Lei Magnitsky; o gabinete declarou que o
+      escritório Barci de Moraes nunca atuou na operação de venda do Master ao BRB.
+    source_ids:
+      - src-poder360-2025-12-29-contrato-da-mulher-de-moraes-nao-e-ilicito-diz-pgr
+      - src-agenciabrasil-2025-12-30-pgr-descarta-ilicitude-e-arquiva-pedido
+  - kind: not_located
+    by_id: viviane-barci-de-moraes
+    summary: Nenhuma manifestação própria de Viviane Barci de Moraes ou do escritório Barci de Moraes sobre o
+      arquivamento foi localizada nas reportagens abertas em 23/10/2026 (Poder360, Agência Brasil, Diario de
+      Pernambuco); nelas, o gabinete de Moraes declarou que o escritório nunca atuou na operação de venda do
+      Master ao BRB. A nota do escritório de 09/03/2026 está no acervo
+      (evt-2026-03-09-nota-escritorio-barci-de-moraes).
+    source_ids:
+      - src-poder360-2025-12-29-contrato-da-mulher-de-moraes-nao-e-ilicito-diz-pgr
+  - kind: not_located
+    by: Enio Martins Murad
+    summary: Nenhuma manifestação do autor da representação sobre o arquivamento foi localizada nas reportagens
+      abertas em 23/10/2026 (Poder360, Agência Brasil, Diario de Pernambuco).
+tags:
+  - pgr
+  - arquivamento
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23

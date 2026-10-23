@@ -1,0 +1,43 @@
+id: evt-2025-12-27-toffoli-nao-conhece-embargos-do-bc-e-mantem-diretor-nas-oitivas
+kind: event
+title: Toffoli não conhece dos embargos do Banco Central e mantém o diretor de Fiscalização nas oitivas e na
+  acareação (INQ 5.026)
+event_type: judicial_decision
+date: 2025-12-27
+date_precision: day
+participant_ids:
+  - dias-toffoli
+  - supremo-tribunal-federal
+  - banco-central-do-brasil
+description: "Despacho de 27/12/2025 no INQ 5.026 (cópia divulgada pelo Poder360; trecho citado também pela
+  Agência Brasil): Toffoli deixou de conhecer dos embargos de declaração do Banco Central e de seu diretor de
+  Fiscalização, por não serem investigados; escreveu que a participação da autoridade reguladora nos
+  depoimentos e acareações é de especial relevância; justificou a urgência das oitivas; determinou os atos sob
+  a condução da autoridade policial, com organização por juiz auxiliar do gabinete; manteve o sigilo."
+evidence_class: C
+status: verified
+evidence_ids:
+  - ev-despacho-inq5026-27-12-2025-nao-conhece-embargos-do-bc
+source_ids:
+  - src-poder360-2025-12-30-integra-despacho-inq5026-embargos-bc
+  - src-agenciabrasil-2025-12-27-toffoli-mantem-diretor-do-bc-na-acareacao
+  - src-poder360-2025-12-30-pf-ouvira-vorcaro-e-diretor-do-bc
+cited_position:
+  - kind: clarification
+    by_id: banco-central-do-brasil
+    date: 2025-12-26
+    summary: Nos embargos, segundo o Poder360 e a Gazeta do Povo, perguntou se o diretor seria ouvido como
+      investigado ou como testemunha e por que o ato seria urgente no recesso; segundo o despacho, os próprios
+      embargantes se qualificaram, alternativamente, como terceiros interessados.
+    source_ids:
+      - src-poder360-2025-12-30-pf-ouvira-vorcaro-e-diretor-do-bc
+      - src-gazetadopovo-2025-12-27-bc-pede-esclarecimentos-acareacao
+      - src-poder360-2025-12-30-integra-despacho-inq5026-embargos-bc
+tags:
+  - inq-5026
+  - acareacao
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-23
+created_at: 2026-10-23
+updated_at: 2026-10-23
