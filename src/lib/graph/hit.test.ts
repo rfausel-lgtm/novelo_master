@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { arestaMaisProxima, classeMaisForte, distanciaAoSegmento } from "./hit";
+import { arestaMaisProxima, classeMaisForte, distanciaAoSegmento, noMaisProximo } from "./hit";
 
 describe("distanciaAoSegmento", () => {
   it("mede a distância perpendicular a um segmento horizontal", () => {
@@ -74,5 +74,29 @@ describe("classeMaisForte", () => {
     expect(classeMaisForte("A", "I")).toBe(true);
     expect(classeMaisForte("I", "D")).toBe(false);
     expect(classeMaisForte("C", "C")).toBe(false);
+  });
+});
+
+describe("noMaisProximo", () => {
+  const nos = [
+    { id: "a", x: 0, y: 0, raio: 2 },
+    { id: "b", x: 30, y: 0, raio: 8 },
+  ];
+
+  it("acerta o nó tocado em cheio", () => {
+    expect(noMaisProximo({ x: 1, y: 1 }, nos, 14)).toBe("a");
+  });
+
+  it("aceita toque perto da borda, dentro da tolerância", () => {
+    expect(noMaisProximo({ x: 0, y: 14 }, nos, 14)).toBe("a");
+  });
+
+  it("mede pela borda, não pelo centro: o nó maior vence quando sua borda está mais perto", () => {
+    /* Centro de "a" a 14 px e de "b" a 16 px, mas a borda de "b" fica a 8 px e a de "a" a 12. */
+    expect(noMaisProximo({ x: 14, y: 0 }, nos, 14)).toBe("b");
+  });
+
+  it("devolve null fora do alcance", () => {
+    expect(noMaisProximo({ x: 0, y: 40 }, nos, 14)).toBeNull();
   });
 });
