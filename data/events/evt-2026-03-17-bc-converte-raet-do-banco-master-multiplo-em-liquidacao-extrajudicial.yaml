@@ -1,0 +1,48 @@
+id: evt-2026-03-17-bc-converte-raet-do-banco-master-multiplo-em-liquidacao-extrajudicial
+kind: event
+title: BC converte o Raet do Banco Master Múltiplo em liquidação extrajudicial
+event_type: regulatory_act
+date: 2026-03-17
+date_precision: day
+participant_ids:
+  - banco-central-do-brasil
+  - banco-master
+  - will-bank
+  - efb-regimes-especiais-de-empresas
+description: Segundo a nota do BC, reproduzida por Poder360 e Congresso em Foco, o Banco Central decretou em
+  17/03/2026 a convolação do Regime de Administração Especial Temporária (Raet) do Banco Master Múltiplo S.A.
+  em liquidação extrajudicial. Conforme a nota, o Raet fora decretado pelo Ato do Presidente nº 1.370, de
+  18/11/2025, por 120 dias, com prazo até 18/03/2026. O BC descreve o Múltiplo como instituição do
+  Conglomerado Master que não captava depósitos do público e foi submetida ao Raet "na tentativa de se
+  viabilizar a continuidade dos negócios" da Will Financeira. Segundo a nota, o relatório do administrador, de
+  12/03/2026, indicou que, com a liquidação da Will Financeira (Ato nº 1.376, de 21/01/2026), "não mais
+  subsistem motivos" para o prosseguimento do Raet. Segundo a nota, a indisponibilidade dos bens dos
+  controladores e dos administradores é mantida, e o BC continua adotando as medidas cabíveis para apurar
+  responsabilidades. Segundo o Poder360, a EFB Regimes Especiais de Empresas foi designada para conduzir a
+  liquidação. A nota não traz o número do ato de 17/03, e a íntegra da nota é conhecida por transcrição de
+  veículos; a publicação no Diário Oficial não foi verificada.
+evidence_class: C
+status: unverified
+evidence_ids:
+  - ev-nota-bc-2026-03-17-convolacao-raet-master-multiplo
+source_ids:
+  - src-poder360-2026-03-17-bc-liquida-banco-master-multiplo
+  - src-congressoemfoco-2026-03-17-bc-decreta-liquidacao-master-multiplo
+document_ids:
+  - doc-2026-03-17-nota-bc-converte-raet-banco-master-multiplo-em-liquidacao
+public_act_ids: []
+cited_position:
+  - date: 2026-10-24
+    by_id: banco-master
+    kind: not_located
+    summary: Busca nas transcrições da nota (Poder360, Congresso em Foco) e no
+      cache em 24/10/2026 não localizou manifestação do Banco Master, de controladores ou de defesa sobre a
+      convolação do Raet em liquidação extrajudicial.
+    source_ids:
+      - src-poder360-2026-03-17-bc-liquida-banco-master-multiplo
+      - src-congressoemfoco-2026-03-17-bc-decreta-liquidacao-master-multiplo
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-24
+created_at: 2026-10-24
+updated_at: 2026-10-24

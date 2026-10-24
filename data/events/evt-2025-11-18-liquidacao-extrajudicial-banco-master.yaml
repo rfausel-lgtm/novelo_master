@@ -18,16 +18,19 @@ description: O Banco Central decretou a liquidação extrajudicial do Banco Mast
   de Investimento S.A., do Banco Letsbank S.A. e da Master S.A. CCTVM, e Regime de Administração Especial
   Temporária no Banco Master Múltiplo S.A. A ata do Comef avalia que a medida não traz risco sistêmico.
   A data de 18/11/2025 é a registrada pela imprensa; a ata do Comef (novembro de 2025) confirma a decretação
-  sem indicar o dia.
+  sem indicar o dia. Segundo a nota do BC de 17/03/2026, o Raet do Banco Master Múltiplo foi decretado pelo Ato
+  do Presidente nº 1.370.
 evidence_class: D
 status: verified
 evidence_ids:
 - ev-bcb-liquidacao-conglomerado-master
 - ev-comunicado-bacen-nomeia-controladoras-e-ex-administradores
+- ev-nota-bc-2026-03-17-convolacao-raet-master-multiplo
 source_ids:
 - src-bcb-2025-11-ata-comef-63
 - src-cnn-2026-03-04-relembre-crise-master
 - src-stf-inq5026-pecas-1-100
+- src-poder360-2026-03-17-bc-liquida-banco-master-multiplo
 document_ids:
 - doc-2025-11-ata-comef-63
 - doc-2025-11-18-comunicado-bacen-44234-liquidacao
@@ -37,4 +40,4 @@ review_status: published
 reviewer: orquestrador
 reviewed_at: '2026-09-12'
 created_at: '2026-09-03'
-updated_at: '2026-09-12'
+updated_at: '2026-10-24'

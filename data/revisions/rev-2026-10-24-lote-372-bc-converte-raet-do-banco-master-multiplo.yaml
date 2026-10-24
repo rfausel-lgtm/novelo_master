@@ -1,0 +1,30 @@
+id: rev-2026-10-24-lote-372-bc-converte-raet-do-banco-master-multiplo
+kind: revision
+date: 2026-10-24
+title: Lote 372 — BC converte o Raet do Banco Master Múltiplo em liquidação extrajudicial (17/03/2026)
+summary: Registra a convolação, em 17/03/2026, do Raet do Banco Master Múltiplo em liquidação extrajudicial,
+  com base na nota do BC transcrita por Poder360 e Congresso em Foco. Acrescenta ao evento de 18/11/2025 o
+  número do ato do Raet, atribuído à nota.
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 1
+  relationships: 0
+  sources: 2
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-poder360-2026-03-17-bc-liquida-banco-master-multiplo
+  - src-congressoemfoco-2026-03-17-bc-decreta-liquidacao-master-multiplo
+  - doc-2026-03-17-nota-bc-converte-raet-banco-master-multiplo-em-liquidacao
+  - ev-nota-bc-2026-03-17-convolacao-raet-master-multiplo
+  - evt-2026-03-17-bc-converte-raet-do-banco-master-multiplo-em-liquidacao-extrajudicial
+  - evt-2025-11-18-liquidacao-extrajudicial-banco-master
+reason: Lacuna do acervo - o Múltiplo estava só como Raet de 18/11/2025 e não havia o desfecho de 17/03/2026.
+  Classe C e status unverified, pois o texto oficial não foi localizado no site do BC nem no DOU.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-24

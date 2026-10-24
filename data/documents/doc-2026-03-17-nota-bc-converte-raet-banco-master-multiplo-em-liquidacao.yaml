@@ -1,0 +1,33 @@
+id: doc-2026-03-17-nota-bc-converte-raet-banco-master-multiplo-em-liquidacao
+kind: document
+title: Nota do BC de 17/03/2026 sobre a conversão do Raet do Banco Master Múltiplo em liquidação extrajudicial
+doc_type: regulatory_record
+date: 2026-03-17
+source_ids:
+  - src-poder360-2026-03-17-bc-liquida-banco-master-multiplo
+  - src-congressoemfoco-2026-03-17-bc-decreta-liquidacao-master-multiplo
+summary: Nota do Banco Central, reproduzida na íntegra por Poder360 e Congresso em Foco. Informa a conversão
+  do Raet do Banco Master Múltiplo S.A. em liquidação extrajudicial em 17/03/2026; que o Raet fora decretado
+  pelo Ato do Presidente nº 1.370, de 18/11/2025, por 120 dias, com prazo até 18/03/2026; que o relatório do
+  administrador, de 12/03/2026, indicou que, com a liquidação da Will Financeira (Ato 1.376, de 21/01/2026),
+  não mais subsistiam motivos para o Raet; e que a indisponibilidade de bens de controladores e
+  administradores é mantida. A nota não traz o número do ato de 17/03. Íntegra reproduzida por veículos; a
+  publicação no DOU não foi verificada.
+is_official: true
+related_entity_ids:
+  - banco-central-do-brasil
+  - banco-master
+  - will-bank
+issuer_id: banco-central-do-brasil
+issuer: Banco Central do Brasil
+url: https://www.poder360.com.br/poder-economia/banco-central-liquida-banco-master-multiplo/
+reference: Nota do BC de 17/03/2026, transcrita pelo Poder360
+excerpt: O Banco Central (BC) decretou nesta terça-feira (17/3) a convolação do Regime de Administração
+  Especial Temporária – Raet, do Banco Master Múltiplo S.A. em liquidação extrajudicial. [...] A
+  indisponibilidade dos bens dos controladores e dos administradores decorrentes da decretação do Raet é
+  mantida com a decretação da liquidação extrajudicial.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-24
+created_at: 2026-10-24
+updated_at: 2026-10-24
