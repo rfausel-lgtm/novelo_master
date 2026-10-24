@@ -2,6 +2,15 @@
 
 ## Unreleased
 
+- **Bolinhas do grafo deixam de se sobrepor.** O layout do build exigia entre dois nós só 60% da
+  soma dos raios — sobreposição por construção —, e em volta dos hubs, sobretudo Daniel Vorcaro
+  (217 vizinhos), as bolinhas viravam um borrão onde não se distinguia nem se apontava um nó. A
+  distância mínima passa a ser a soma dos raios mais uma folga de 2,5 unidades: medido no desenho
+  publicado, zero pares encostados no núcleo, e a distância ao vizinho mais próximo no entorno do
+  Vorcaro dobrou (de ~5 para ~11 unidades). A camada probatória mantém o espaçamento antigo, para
+  não se espalhar até quase o dobro do núcleo e encolhê-lo na tela ao ser ligada. Tempo de build
+  inalterado.
+
 - **Auditoria noturna do acervo, camada determinística e contrato da revisão por IA.**
   `npm run auditoria` relê o acervo inteiro e devolve um JSON estável de achados — órfãos que o lint
   não olha (fonte, documento e evidência que ninguém cita; `affected_ids` de revisão apontando para
