@@ -1,0 +1,30 @@
+id: rev-2026-10-25-lote-373-numero-do-ato-1380-liquidacao-master-multiplo
+kind: revision
+date: 2026-10-25
+title: Lote 373 — Número do Ato do Presidente 1.380 (BC, 17/03/2026) no registro da liquidação do Master Múltiplo
+summary: Acrescenta o número do Ato do Presidente nº 1.380, de 17/03/2026, que decreta a liquidação
+  extrajudicial do Banco Master Múltiplo S.A., com base no boletim Alerta Legislação nº 12 (16 a 21/03/2026)
+  da Biblioteca Jurídica do Governo de SP. Corrige a lacuna deixada no lote 372, cuja nota do BC não trazia o
+  número. A publicação no DOU segue não verificada.
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 0
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-bibliotecajuridicasp-2026-03-21-alerta-legislacao-12-ato-1380
+  - evt-2026-03-17-bc-converte-raet-do-banco-master-multiplo-em-liquidacao-extrajudicial
+  - doc-2026-03-17-nota-bc-converte-raet-banco-master-multiplo-em-liquidacao
+  - ev-nota-bc-2026-03-17-convolacao-raet-master-multiplo
+reason: O lote 372 registrou a liquidação sem o número do ato. O boletim estadual transcreve a ementa do Ato
+  1.380, mas não é o DOU nem o BC e não traz o texto do ato; classe C e status unverified mantidos, e o
+  boletim entra como fonte adicional do número, não como corroboração independente do conteúdo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-25

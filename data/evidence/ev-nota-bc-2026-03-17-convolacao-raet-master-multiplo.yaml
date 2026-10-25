@@ -4,15 +4,19 @@ classification: C
 proposition: Segundo a nota do BC de 17/03/2026, transcrita na íntegra por Poder360 e Congresso em Foco, o
   Banco Central decretou nessa data a convolação do Raet do Banco Master Múltiplo S.A. em liquidação
   extrajudicial. O texto oficial não foi localizado em bcb.gov.br nem no DOU; as duas transcrições reproduzem
-  a mesma nota e não são corroboração independente entre si.
+  a mesma nota e não são corroboração independente entre si. O número do ato, Ato do Presidente nº 1.380, de 17/03/2026,
+  consta apenas do boletim Alerta Legislação nº 12 (Biblioteca Jurídica do Governo de SP), que transcreve a
+  ementa; fonte adicional do número, não corroboração independente do conteúdo, e a publicação no DOU não foi
+  verificada.
 document_ids:
   - doc-2026-03-17-nota-bc-converte-raet-banco-master-multiplo-em-liquidacao
 source_ids:
   - src-poder360-2026-03-17-bc-liquida-banco-master-multiplo
   - src-congressoemfoco-2026-03-17-bc-decreta-liquidacao-master-multiplo
+  - src-bibliotecajuridicasp-2026-03-21-alerta-legislacao-12-ato-1380
 date: 2026-03-17
 review_status: published
 reviewer: orquestrador
-reviewed_at: 2026-10-24
+reviewed_at: 2026-10-25
 created_at: 2026-10-24
-updated_at: 2026-10-24
+updated_at: 2026-10-25

@@ -1,0 +1,23 @@
+id: src-bibliotecajuridicasp-2026-03-21-alerta-legislacao-12-ato-1380
+kind: source
+title: Alerta Legislação nº 12, de 16 a 21 mar. 2026
+publisher: Biblioteca Jurídica da Casa Civil do Estado de São Paulo
+publication_date: 2026-03-21
+retrieved_at: 2026-10-25
+url: https://www.bibliotecajuridica.sp.gov.br/wp-content/uploads/sites/5/2026/04/12-16-a-21-mar.-2026-Alerta-Legislacao.pdf
+source_type: official_government
+summary: Boletim semanal de legislação federal que lista, entre os atos do Banco Central (Diretoria
+  Colegiada), o Ato do Presidente nº 1.380, de 17 de março de 2026, com a ementa "Decreta a liquidação
+  extrajudicial do Banco Master Múltiplo S.A. - em Regime de Administração Especial Temporária". O boletim
+  reproduz apenas a ementa, não o texto do ato, e não informa data ou seção de publicação no DOU. A data de
+  divulgação não consta; adotou-se o último dia do período coberto.
+verification:
+  checked_at: 2026-10-25
+  checked_by: orquestrador (lote:fonte, PDF, texto literal)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-25
+created_at: 2026-10-25
+updated_at: 2026-10-25
