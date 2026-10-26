@@ -1,0 +1,49 @@
+id: rev-2026-10-26-lote-374-brb-master-rito-2025
+kind: revision
+date: 2026-10-26
+title: "Lote 374 — Rito da compra do Master pelo BRB em 2025: liminar de 1ª instância, revogação no TJDFT e
+  aprovação do Cade comunicada pelo BRB"
+summary: Registra três atos de 2025 do rito da compra de participação no Banco Master pelo BRB, todos por
+  documento do emissor. Em 07/05/2025, liminar da 1ª Vara da Fazenda Pública do DF, em ação do MPDFT,
+  suspendendo a assinatura do contrato; em 12/05/2025, nota do TJDFT sobre a revogação da liminar pelo
+  desembargador relator em pedidos de suspensão de liminar, sem exame do mérito; em 17/06/2025, Fato Relevante
+  do BRB segundo o qual o Cade aprovou a operação sem restrições. Cria os verbetes do TJDFT, do MPDFT e do
+  Cade. O desfecho posterior do processo não foi verificado.
+added:
+  people: 0
+  organizations: 3
+  events: 3
+  documents: 3
+  relationships: 0
+  sources: 3
+  evidence: 3
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-tjdft-2025-05-07-justica-determina-que-brb-suspenda-assinatura-contrato-master
+  - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+  - src-brb-2025-06-17-fato-relevante-aprovacao-cade-master
+  - tribunal-de-justica-do-distrito-federal-e-dos-territorios
+  - ministerio-publico-do-distrito-federal-e-territorios
+  - conselho-administrativo-de-defesa-economica
+  - doc-2025-05-07-nota-tjdft-liminar-brb-master
+  - doc-2025-05-12-nota-tjdft-revoga-liminar-brb-master
+  - doc-2025-06-17-fato-relevante-brb-aprovacao-cade
+  - ev-tjdft-2025-05-07-liminar-1a-vara-suspende-assinatura
+  - ev-tjdft-2025-05-12-relator-revoga-liminar
+  - ev-brb-2025-06-17-fato-relevante-cade-aprova
+  - evt-2025-05-07-tjdft-vara-fazenda-liminar-suspende-assinatura-contrato-brb-master
+  - evt-2025-05-12-tjdft-relator-revoga-liminar-contrato-brb-master
+  - evt-2025-06-17-brb-fato-relevante-cade-aprova-compra-master
+  - banco-de-brasilia-brb
+  - banco-master
+  - master-holding-financeira
+reason: Lacuna do acervo - o rito de maio e junho de 2025 entre o Fato Relevante de 28/03/2025 e o restante da
+  história não estava registrado. Classe D para as notas do TJDFT e para o comunicado do BRB, que são
+  comunicações institucionais do emissor, não os textos das decisões nem o ato do Cade. A aprovação do Cade
+  consta só como declaração do BRB. O desfecho posterior do processo (recurso, julgamento colegiado, sentença)
+  não foi verificado; o PJe e o site do MPDFT não foram acessados.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-26

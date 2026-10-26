@@ -16,6 +16,15 @@ why_in_novelo: É a instituição financeira cuja liquidação extrajudicial pel
 cited_position:
 - kind: not_located
   summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+- kind: not_located
+  date: '2026-10-26'
+  summary: Sobre a liminar de 07/05/2025, a revogação de 12/05/2025 e a aprovação do Cade comunicada pelo BRB em
+    17/06/2025, não foi localizada manifestação própria do Banco Master nas notas do TJDFT, no Fato Relevante do BRB
+    nem em busca na web (busca por Banco Master nota liminar, 26/10/2026).
+  source_ids:
+  - src-tjdft-2025-05-07-justica-determina-que-brb-suspenda-assinatura-contrato-master
+  - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+  - src-brb-2025-06-17-fato-relevante-aprovacao-cade-master
 open_questions:
 - O CNPJ e os atos societários devem ser confirmados em registro oficial.
 - A resposta oficial da Secretaria de Previdência à consulta GesCon invocada pelo banco não foi localizada,
@@ -112,13 +121,16 @@ source_ids:
 - src-dom-guarulhos-2022-2024-termos-cooperacao-pkl-one-e-master
 - src-sbc-2023-12-credenciamento-gsa-001-2023-pkl-one-neo-credito
 - src-doesp-2026-01-30-peruibe-indefere-troca-de-titularidade-brb-master
+- src-tjdft-2025-05-07-justica-determina-que-brb-suspenda-assinatura-contrato-master
+- src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+- src-brb-2025-06-17-fato-relevante-aprovacao-cade-master
 external_ids:
   wikipedia_pt: https://pt.wikipedia.org/wiki/Banco_Master
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-03'
+reviewed_at: '2026-10-26'
 created_at: '2026-09-03'
-updated_at: '2026-09-14'
+updated_at: '2026-10-26'
 photo:
   path: /fotos/banco-master.png
   source: Wikimedia Commons

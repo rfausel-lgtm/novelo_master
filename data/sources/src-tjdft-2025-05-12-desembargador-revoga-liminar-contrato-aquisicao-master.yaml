@@ -1,0 +1,22 @@
+id: src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+kind: source
+title: Desembargador revoga liminar que suspendeu assinatura de contrato de aquisição do Banco Master
+publisher: Tribunal de Justiça do Distrito Federal e dos Territórios (Imprensa)
+publication_date: 2025-05-12
+retrieved_at: 2026-10-26
+url: https://www.tjdft.jus.br/institucional/imprensa/noticias/2025/maio/desembargador-revoga-liminar-que-suspendeu-assinatura-de-contrato-de-aquisicao-do-banco-master
+source_type: official_court
+summary: Nota de imprensa do TJDFT, publicada em 12/05/2025, sobre decisão do desembargador relator em pedidos
+  de suspensão de liminar (processo 0717815-26.2025.8.07.0000), apresentados pelo BRB e pelo Distrito Federal,
+  que revogou a liminar de 1ª instância. A nota não informa a data da decisão, só a da publicação. É
+  comunicação institucional do tribunal, não o texto da decisão.
+verification:
+  checked_at: 2026-10-26
+  checked_by: orquestrador (cache lote:fonte, sha256 do texto 4bc555dc)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-26
+created_at: 2026-10-26
+updated_at: 2026-10-26

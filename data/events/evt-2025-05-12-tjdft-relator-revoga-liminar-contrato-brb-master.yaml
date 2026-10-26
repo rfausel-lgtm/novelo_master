@@ -1,0 +1,75 @@
+id: evt-2025-05-12-tjdft-relator-revoga-liminar-contrato-brb-master
+kind: event
+title: Desembargador relator do TJDFT revoga a liminar contra a assinatura do contrato do BRB para comprar
+  parte do Master
+event_type: judicial_decision
+date: 2025-05-12
+date_precision: day
+participant_ids:
+  - banco-de-brasilia-brb
+  - banco-master
+  - master-holding-financeira
+  - tribunal-de-justica-do-distrito-federal-e-dos-territorios
+  - ministerio-publico-do-distrito-federal-e-territorios
+description: Segundo nota do TJDFT publicada em 12/05/2025 (a nota informa a data de publicação, não a da
+  decisão), o desembargador relator, em pedidos de suspensão de liminar apresentados pelo BRB e pelo Distrito
+  Federal (processo 0717815-26.2025.8.07.0000), revogou a liminar de 1ª instância. Segundo a nota, o BRB
+  argumentou que a operação é participação minoritária, enquadrada em exceção da Lei 13.303/2016, e o Distrito
+  Federal reforçou o argumento. O relator destacou que a operação ainda dependia de aprovações do Banco
+  Central e do Cade, considerou prematura uma análise técnica detalhada antes disso e apontou a necessidade de
+  instrução probatória mais detalhada sobre se há aquisição de controle. Diante da "ausência de urgência
+  real", revogou a liminar, o que, segundo a nota, permite ao BRB continuar as negociações com a Master
+  Holding Financeira S.A. e a DV Holding Financeira S.A. "até que haja decisão definitiva". Trata-se de
+  decisão do relator em pedido de suspensão de liminar, sem exame do mérito da ação do MPDFT, e não de
+  desfecho final. O desfecho posterior do processo (recurso, julgamento colegiado, sentença) não foi
+  verificado; o PJe não foi consultado. A fonte é a nota de imprensa do tribunal, não o texto da decisão.
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-tjdft-2025-05-12-relator-revoga-liminar
+source_ids:
+  - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+document_ids:
+  - doc-2025-05-12-nota-tjdft-revoga-liminar-brb-master
+public_act_ids: []
+cited_position:
+  - kind: version
+    by_id: banco-de-brasilia-brb
+    date: 2025-05-12
+    summary: Segundo a nota do TJDFT, nos recursos o BRB argumentou que a operação prevê apenas participação
+      minoritária, enquadrada em exceção da Lei 13.303/2016.
+    source_ids:
+      - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+  - kind: version
+    by_id: ministerio-publico-do-distrito-federal-e-territorios
+    date: 2025-05-12
+    summary: Segundo a nota do TJDFT, o MPDFT alega na ação que a aquisição exigiria autorização legislativa
+      específica e aprovação dos acionistas, por poder implicar controle societário do Banco Master.
+    source_ids:
+      - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+  - kind: not_located
+    by_id: banco-master
+    date: 2026-10-26
+    summary: Nas notas do TJDFT, no Fato Relevante do BRB e em busca na web (busca por Banco Master nota liminar,
+      26/10/2026) não foi localizada manifestação própria do Banco Master sobre a revogação.
+    source_ids:
+      - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+  - kind: not_located
+    by_id: master-holding-financeira
+    date: 2026-10-26
+    summary: A nota cita a Master Holding Financeira S.A. como contraparte das negociações; manifestação própria
+      da empresa sobre a decisão não foi localizada.
+    source_ids:
+      - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+  - kind: not_located
+    by_id: tribunal-de-justica-do-distrito-federal-e-dos-territorios
+    date: 2026-10-26
+    summary: Além da nota de imprensa, nenhuma manifestação do tribunal sobre o processo foi localizada; o texto
+      da decisão e o andamento posterior não foram consultados.
+    source_ids:
+      - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-26
+created_at: 2026-10-26
+updated_at: 2026-10-26

@@ -46,6 +46,17 @@ cited_position:
   - src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
   by_id: banco-de-brasilia-brb
   date: '2026-09-23'
+- kind: version
+  summary: Segundo as notas do TJDFT de maio de 2025 sobre a ação do MPDFT contra a assinatura do contrato de compra de
+    parte do Master, o BRB alegou que a operação é participação minoritária, enquadrada em exceção da Lei 13.303/2016,
+    sem aquisição do controle total. Em Fato Relevante de 17/06/2025, comunicou que o Cade aprovou a operação sem
+    restrições e que a conclusão seguia sujeita a outras condições e aprovações regulatórias.
+  source_ids:
+  - src-tjdft-2025-05-07-justica-determina-que-brb-suspenda-assinatura-contrato-master
+  - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+  - src-brb-2025-06-17-fato-relevante-aprovacao-cade-master
+  by_id: banco-de-brasilia-brb
+  date: '2025-06-17'
 open_questions:
 - O TCDF deu 24 horas (23/09/2026) para o BRB enviar o relatório da auditoria independente e 15 dias para
   esclarecer a representação do MPC/DF; o cumprimento dessas determinações não foi localizado.
@@ -92,11 +103,14 @@ source_ids:
 - src-tcdf-2026-10-15-etcdf-processo-00600-00003617-2025-75
 - src-poder360-2026-09-23-tc-df-bloqueia-r-27-bi-em-bens-de-ex-dirigentes-do-brb
 - src-congressoemfoco-2026-09-24-tc-df-determina-bloqueio-de-ate-r-2-7-bi-de-ex-dirigentes-do-brb
+- src-tjdft-2025-05-07-justica-determina-que-brb-suspenda-assinatura-contrato-master
+- src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+- src-brb-2025-06-17-fato-relevante-aprovacao-cade-master
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-10-16'
+reviewed_at: '2026-10-26'
 created_at: '2026-09-03'
-updated_at: '2026-10-16'
+updated_at: '2026-10-26'
 photo:
   path: /fotos/banco-de-brasilia-brb.png
   source: Wikimedia Commons

@@ -1,0 +1,33 @@
+id: tribunal-de-justica-do-distrito-federal-e-dos-territorios
+kind: organization
+name: Tribunal de Justiça do Distrito Federal e dos Territórios
+aliases:
+  - TJDFT
+org_type: court
+jurisdiction: Distrito Federal
+summary: Tribunal de Justiça do DF. Em maio de 2025, segundo notas de sua própria assessoria de imprensa, a 1ª
+  Vara da Fazenda Pública concedeu liminar que suspendia a assinatura do contrato do BRB para comprar parte do
+  Banco Master, e o desembargador relator a revogou em pedidos de suspensão de liminar. O desfecho posterior
+  do processo não foi verificado.
+why_in_novelo: Órgão que decidiu, em 1ª e 2ª instância, o pedido de suspender a assinatura do contrato de
+  compra do Master pelo BRB em 2025.
+cited_position:
+  - kind: not_located
+    date: 2026-10-26
+    summary: Além das duas notas de imprensa de maio de 2025, nenhuma manifestação do tribunal sobre os processos
+      foi localizada (cache e uma busca na web em 26/10/2026). O texto das decisões e o andamento posterior
+      não foram consultados.
+    source_ids:
+      - src-tjdft-2025-05-07-justica-determina-que-brb-suspenda-assinatura-contrato-master
+      - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+open_questions:
+  - O desfecho posterior do processo (recurso, julgamento colegiado, sentença) não foi verificado; o PJe não
+    foi consultado.
+source_ids:
+  - src-tjdft-2025-05-07-justica-determina-que-brb-suspenda-assinatura-contrato-master
+  - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-26
+created_at: 2026-10-26
+updated_at: 2026-10-26

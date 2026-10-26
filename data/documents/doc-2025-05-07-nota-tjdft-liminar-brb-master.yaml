@@ -1,0 +1,27 @@
+id: doc-2025-05-07-nota-tjdft-liminar-brb-master
+kind: document
+title: Nota do TJDFT de 07/05/2025 sobre liminar que suspende a assinatura do contrato do BRB com o Master
+doc_type: official_report
+date: 2025-05-07
+source_ids:
+  - src-tjdft-2025-05-07-justica-determina-que-brb-suspenda-assinatura-contrato-master
+summary: Nota de imprensa do TJDFT sobre liminar da 1ª Vara da Fazenda Pública do DF em ação do MPDFT
+  (processo 0721635-50.2025.8.07.0001). Traz as teses do MPDFT e do BRB e o trecho da decisão em que o juízo
+  diz não impedir os atos preparatórios do negócio. Comunicação institucional, não a decisão.
+is_official: true
+related_entity_ids:
+  - tribunal-de-justica-do-distrito-federal-e-dos-territorios
+  - ministerio-publico-do-distrito-federal-e-territorios
+  - banco-de-brasilia-brb
+  - banco-master
+issuer_id: tribunal-de-justica-do-distrito-federal-e-dos-territorios
+issuer: Tribunal de Justiça do Distrito Federal e dos Territórios
+url: https://www.tjdft.jus.br/institucional/imprensa/noticias/2025/maio/justica-determina-que-brb-suspenda-assinatura-de-contrato-para-compra-do-banco-master
+reference: Nota de imprensa do TJDFT, 07/05/2025; processo 0721635-50.2025.8.07.0001
+excerpt: A 1ª Vara da Fazenda Pública do Distrito Federal concedeu liminar que suspende a assinatura do
+  contrato definitivo do Banco de Brasília (BRB) para aquisição parcial do Banco Master.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-26
+created_at: 2026-10-26
+updated_at: 2026-10-26

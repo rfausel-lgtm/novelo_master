@@ -1,0 +1,26 @@
+id: conselho-administrativo-de-defesa-economica
+kind: organization
+name: Conselho Administrativo de Defesa Econômica
+aliases:
+  - Cade
+org_type: public_body
+jurisdiction: Brasil
+summary: Autoridade de defesa da concorrência. Segundo o Fato Relevante do BRB de 17/06/2025, aprovou, sem
+  restrições, a aquisição pelo BRB de participação no Banco Master. O ato do Cade não foi localizado.
+why_in_novelo: Sua aprovação era condição da compra do Master pelo BRB; o BRB comunicou a aprovação em 17/06/2025.
+cited_position:
+  - kind: not_located
+    date: 2026-10-26
+    summary: Comunicado ou decisão do próprio Cade sobre a operação não localizado (busca na web e no cache em
+      26/10/2026). A aprovação consta apenas do Fato Relevante do BRB.
+    source_ids:
+      - src-brb-2025-06-17-fato-relevante-aprovacao-cade-master
+open_questions:
+  - Ato da Superintendência-Geral do Cade (DOU ou SEI) sobre a operação não localizado.
+source_ids:
+  - src-brb-2025-06-17-fato-relevante-aprovacao-cade-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-26
+created_at: 2026-10-26
+updated_at: 2026-10-26

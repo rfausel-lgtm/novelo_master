@@ -1,0 +1,17 @@
+id: ev-tjdft-2025-05-12-relator-revoga-liminar
+kind: evidence
+classification: D
+proposition: Segundo nota de imprensa do TJDFT publicada em 12/05/2025, o desembargador relator revogou a
+  liminar de 1ª instância em pedidos de suspensão de liminar apresentados pelo BRB e pelo Distrito Federal, o
+  que permite ao BRB continuar as negociações até decisão definitiva. É decisão cautelar, sem exame do mérito;
+  a nota não informa a data da decisão e o desfecho posterior do processo não foi verificado.
+document_ids:
+  - doc-2025-05-12-nota-tjdft-revoga-liminar-brb-master
+source_ids:
+  - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+date: 2025-05-12
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-26
+created_at: 2026-10-26
+updated_at: 2026-10-26

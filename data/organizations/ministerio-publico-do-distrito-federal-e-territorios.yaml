@@ -1,0 +1,33 @@
+id: ministerio-publico-do-distrito-federal-e-territorios
+kind: organization
+name: Ministério Público do Distrito Federal e Territórios
+aliases:
+  - MPDFT
+org_type: public_body
+distinct_from:
+- ministerio-publico-federal
+jurisdiction: Distrito Federal
+summary: Autor da ação em que a 1ª Vara da Fazenda Pública do DF concedeu, em 07/05/2025, liminar contra a
+  assinatura do contrato do BRB para comprar parte do Banco Master, segundo a nota do TJDFT.
+why_in_novelo: Autor da ação que levou à liminar de maio de 2025 sobre o contrato de compra do Master pelo BRB.
+cited_position:
+  - kind: version
+    by_id: ministerio-publico-do-distrito-federal-e-territorios
+    date: 2025-05-07
+    summary: Segundo a nota do TJDFT, o MPDFT argumentou na ação que o BRB descumpriu obrigações legais ao deixar
+      de realizar assembleia específica e obter autorização legislativa, requisitos que atribui à Lei das
+      Estatais e à Lei Orgânica do DF, e que o negócio poderia implicar controle societário do Banco Master.
+    source_ids:
+      - src-tjdft-2025-05-07-justica-determina-que-brb-suspenda-assinatura-contrato-master
+      - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+open_questions:
+  - Não foi consultada a petição do MPDFT nem o site do órgão (página inacessível em 26/10/2026); a tese
+    consta só da nota do TJDFT.
+source_ids:
+  - src-tjdft-2025-05-07-justica-determina-que-brb-suspenda-assinatura-contrato-master
+  - src-tjdft-2025-05-12-desembargador-revoga-liminar-contrato-aquisicao-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-26
+created_at: 2026-10-26
+updated_at: 2026-10-26

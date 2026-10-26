@@ -1,0 +1,53 @@
+id: evt-2025-06-17-brb-fato-relevante-cade-aprova-compra-master
+kind: event
+title: BRB comunica em Fato Relevante que o Cade aprovou, sem restrições, a compra de participação no Master
+event_type: corporate_act
+date: 2025-06-17
+date_precision: day
+participant_ids:
+  - banco-de-brasilia-brb
+  - banco-master
+  - conselho-administrativo-de-defesa-economica
+description: Em Fato Relevante de 17/06/2025, o BRB informou aos acionistas e ao mercado que, nessa data, o
+  Cade aprovou, sem restrições, a aquisição pelo BRB de 49,0% das ações ordinárias, 100% das preferenciais e
+  58,04% da participação total do Banco Master. Segundo o mesmo comunicado, a conclusão da operação permanece
+  sujeita às demais condições precedentes do contrato e às aprovações regulatórias pendentes. O fato
+  registrado é o comunicado do BRB; o ato do Cade não foi localizado (comunicado do órgão, DOU ou SEI), e a
+  aprovação consta aqui apenas como declaração do BRB. Este lote não trata do que ocorreu com a operação
+  depois do comunicado.
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-brb-2025-06-17-fato-relevante-cade-aprova
+source_ids:
+  - src-brb-2025-06-17-fato-relevante-aprovacao-cade-master
+document_ids:
+  - doc-2025-06-17-fato-relevante-brb-aprovacao-cade
+public_act_ids: []
+cited_position:
+  - kind: public_note
+    by_id: banco-de-brasilia-brb
+    date: 2025-06-17
+    summary: No Fato Relevante, o BRB informou que o Cade aprovou a operação sem restrições e que a conclusão
+      segue sujeita às demais condições precedentes e às aprovações regulatórias pendentes.
+    source_ids:
+      - src-brb-2025-06-17-fato-relevante-aprovacao-cade-master
+  - kind: not_located
+    by_id: conselho-administrativo-de-defesa-economica
+    date: 2026-10-26
+    summary: Comunicado ou decisão do próprio Cade sobre a operação não localizado (busca na web e no cache em
+      26/10/2026).
+    source_ids:
+      - src-brb-2025-06-17-fato-relevante-aprovacao-cade-master
+  - kind: not_located
+    by_id: banco-master
+    date: 2026-10-26
+    summary: Manifestação própria do Banco Master sobre a aprovação do Cade não localizada (busca na web e no
+      cache em 26/10/2026).
+    source_ids:
+      - src-brb-2025-06-17-fato-relevante-aprovacao-cade-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-26
+created_at: 2026-10-26
+updated_at: 2026-10-26

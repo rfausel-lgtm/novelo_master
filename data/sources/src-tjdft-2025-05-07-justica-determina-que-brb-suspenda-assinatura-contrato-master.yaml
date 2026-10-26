@@ -1,0 +1,22 @@
+id: src-tjdft-2025-05-07-justica-determina-que-brb-suspenda-assinatura-contrato-master
+kind: source
+title: Justiça determina que BRB suspenda assinatura de contrato para compra do Banco Master
+publisher: Tribunal de Justiça do Distrito Federal e dos Territórios (Imprensa)
+publication_date: 2025-05-07
+retrieved_at: 2026-10-26
+url: https://www.tjdft.jus.br/institucional/imprensa/noticias/2025/maio/justica-determina-que-brb-suspenda-assinatura-de-contrato-para-compra-do-banco-master
+source_type: official_court
+summary: Nota de imprensa do TJDFT, publicada em 07/05/2025, sobre liminar da 1ª Vara da Fazenda Pública do DF
+  em ação do MPDFT (processo 0721635-50.2025.8.07.0001) que suspende a assinatura do contrato definitivo do
+  BRB para a aquisição parcial do Banco Master. Registra as teses do MPDFT e do BRB e diz que cabe recurso. É
+  comunicação institucional do tribunal, não o texto da decisão.
+verification:
+  checked_at: 2026-10-26
+  checked_by: orquestrador (cache lote:fonte, sha256 do texto 9f3618d2)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-26
+created_at: 2026-10-26
+updated_at: 2026-10-26

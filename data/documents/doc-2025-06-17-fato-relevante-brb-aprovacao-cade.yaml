@@ -1,0 +1,28 @@
+id: doc-2025-06-17-fato-relevante-brb-aprovacao-cade
+kind: document
+title: Fato Relevante do BRB de 17 de junho de 2025 (aprovação do Cade)
+doc_type: corporate_record
+date: 2025-06-17
+source_ids:
+  - src-brb-2025-06-17-fato-relevante-aprovacao-cade-master
+summary: Comunicado de uma página ao mercado, nos termos do art. 157, §4º da Lei das S.A. e da Resolução CVM
+  nº 44/2021. O BRB informa que o Cade aprovou, sem restrições, a aquisição de 49,0% das ordinárias, 100% das
+  preferenciais e 58,04% da participação total do Banco Master, e que a conclusão segue sujeita às demais
+  condições precedentes e às aprovações regulatórias pendentes.
+is_official: true
+related_entity_ids:
+  - banco-de-brasilia-brb
+  - banco-master
+  - conselho-administrativo-de-defesa-economica
+issuer_id: banco-de-brasilia-brb
+issuer: BRB — Banco de Brasília S.A.
+url: https://ri.brb.com.br/upload/files/3886_Fato-Relevante-Aprovac-a-o-CADE-Banco-Master_v02.pdf
+reference: Fato Relevante — art. 157, §4º da Lei 6.404/1976 e Resolução CVM 44/2021
+excerpt: o Conselho Administrativo de Defesa Econômica (“CADE”) aprovou, sem restrições, a operação de
+  aquisição, pelo BRB, de ações representativas de 49,0% das ações ordinárias, 100% das ações preferenciais e
+  58,04% da participação total do Banco Master S.A.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-26
+created_at: 2026-10-26
+updated_at: 2026-10-26
