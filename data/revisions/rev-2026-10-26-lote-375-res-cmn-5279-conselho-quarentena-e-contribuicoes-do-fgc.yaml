@@ -1,0 +1,43 @@
+id: rev-2026-10-26-lote-375-res-cmn-5279-conselho-quarentena-e-contribuicoes-do-fgc
+kind: revision
+date: 2026-10-26
+title: "Lote 375 — Res. CMN 5.279: o que o texto consolidado do FGC passou a prever sobre Conselho, quarentena
+  e contribuições"
+summary: "Completa o registro documental da Res. CMN 5.279, de 22/1/2026, com mais oito conjuntos de
+  dispositivos do estatuto do FGC (Anexo I da Res. 4.222) que o texto consolidado publicado pelo BC (v19,
+  classe D) marca como redação dada, incluído ou revogado pela 5.279: composição e impedimentos do Conselho de
+  Administração (art. 25), mandato de até três anos com limite de seis consecutivos (art. 26), voto de
+  qualidade e quórum qualificado (art. 28, §§ 4º a 4º-C), nomes submetidos ao BC e condições de posse (art.
+  31, caput e § 1º, I), quarentena de seis meses, sigilo e impedimentos (art. 31, § 1º, II a IV), gestão de
+  fundos de investimentos de que o FGC seja cotista exclusivo (art. 5º, § 5º) e três regras de contribuições
+  (art. 10, §§ 3º a 5º). Atualiza as descrições do evento, do ato e do documento, que diziam registrar só
+  alguns dispositivos. O lote não traz a redação anterior, não compara antes e depois, não usa o texto
+  original da 5.279 nem afirma a data de início de vigência, e não estabelece nexo com nenhum caso concreto."
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 0
+  evidence: 8
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - ev-cmn-res-5279-estatuto-art-25-composicao-e-impedimentos-do-conselho-de-administracao
+  - ev-cmn-res-5279-estatuto-art-26-mandato-de-ate-tres-anos-com-limite-de-seis-anos-consecutivos
+  - ev-cmn-res-5279-estatuto-art-28-reunioes-do-conselho-voto-de-qualidade-e-quorum-qualificado
+  - ev-cmn-res-5279-estatuto-art-31-nomes-ao-bc-e-posse-condicionada-a-termos-e-carta-de-confidencialidade
+  - ev-cmn-res-5279-estatuto-art-31-quarentena-de-seis-meses-sigilo-e-impedimentos-de-conselheiros-e-diretores
+  - ev-cmn-res-5279-estatuto-art-5-par-5-fgc-pode-gerir-fundos-de-investimento-dos-quais-seja-cotista-exclusivo
+  - ev-cmn-res-5279-estatuto-art-10-pars-3-e-4-devolucao-ou-complemento-de-contribuicoes-corrigidos-pela-taxa-basica
+  - ev-cmn-res-5279-estatuto-art-10-par-5-associadas-em-intervencao-ou-liquidacao-extrajudicial-nao-recolhem-contribuicoes
+  - evt-2026-01-22-cmn-altera-estatuto-e-regulamento-do-fgc
+  - ato-2026-01-22-res-cmn-5279-estatuto-e-regulamento-do-fgc
+  - doc-2026-01-22-res-cmn-5279-redacoes-no-texto-consolidado-da-res-4222
+reason: Lacuna documental de ato já registrado (evento, ato e documento da 5.279 diziam que só alguns
+  dispositivos foram lidos); o texto consolidado, já em cache, traz as marcas literais da resolução.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-26
