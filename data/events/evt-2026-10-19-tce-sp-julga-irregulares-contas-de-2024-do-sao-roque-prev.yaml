@@ -1,0 +1,101 @@
+id: evt-2026-10-19-tce-sp-julga-irregulares-contas-de-2024-do-sao-roque-prev
+kind: event
+title: TCE-SP julga irregulares as contas de 2024 do São Roque Prev e imputa ressarcimento de R$ 93,15 milhões
+  ao ex-presidente, em decisão recorrível
+event_type: regulatory_act
+date: 2026-10-19
+date_precision: day
+participant_ids:
+  - tribunal-de-contas-do-estado-de-sao-paulo
+  - sao-roque-prev
+  - vanderlei-massarioli
+  - credito-e-mercado
+  - banco-master
+description: Segundo o g1, a decisão foi publicada na segunda-feira, 19/10/2026; o Estadão a divulgou em
+  21/10. Segundo o Estadão e o g1, a conselheira substituta Silvia Cristina Monteiro Moraes, relatora no
+  TCE-SP, julgou irregulares as contas de 2024 do São Roque Prev e imputou ao ex-diretor-presidente Vanderlei
+  Massarioli, que presidiu o instituto de 1º de janeiro a 30 de novembro de 2024, o ressarcimento de R$ 93,15
+  milhões aplicados em letras financeiras do Banco Master, com correção e juros de mora a partir de
+  18/11/2025, data da liquidação extrajudicial do banco, e dedução do que o instituto vier a recuperar; cabe
+  recurso, a decisão não é definitiva e não é condenação criminal. Na mesma reportagem do g1, a defesa diz que
+  a decisão "será objeto de recurso, com efeito suspensivo" e que as aplicações "foram aprovadas de forma
+  colegiada pelo Comitê de Investimentos, com pareceres técnicos de consultoria especializada que não
+  apontavam problemas à época"; segundo o Estadão, ele sustentou no processo que as decisões foram colegiadas
+  e anteriores à deterioração financeira do banco. Segundo o Estadão, foram sete aplicações entre abril e
+  setembro de 2024, cerca de 18,2% da carteira de investimentos ao fim daquele ano (a CPI municipal,
+  registrada no acervo, calculou cerca de 18,8% do patrimônio líquido, base diferente), e a relatora
+  determinou o envio dos autos ao Ministério Público do Estado, o que o g1 não menciona. Segundo os dois
+  veículos, a relatora mandou os autos à Presidência do tribunal propondo procedimento próprio sobre a atuação
+  da consultoria Crédito & Mercado, em que só o plenário poderá decidir sobre eventual declaração de
+  inidoneidade; segundo o Estadão, a decisão ressalva que "não há, nesse processo, conclusão de que a
+  consultoria tenha cometido fraude ou obtido vantagem ilícita", e a empresa respondeu ao g1 que "não possui
+  vínculo econômico com o Banco Master, não recebeu qualquer remuneração pelas aplicações realizadas e não
+  tinha poder para decidir ou executar investimentos". O texto da decisão e o número do processo não foram
+  lidos; a decisão é distinta da Operação Entressafras da PF, e nenhuma fonte liga um procedimento ao outro.
+evidence_class: C
+status: unverified
+evidence_ids:
+  - ev-estadao-g1-2026-10-tce-sp-julga-irregulares-contas-2024-sao-roque-prev
+source_ids:
+  - src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+  - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+document_ids: []
+public_act_ids: []
+cited_position:
+  - kind: version
+    by_id: vanderlei-massarioli
+    date: 2026-10-22
+    summary: Em nota à TV TEM, a defesa disse que a decisão "será objeto de recurso, com efeito suspensivo" e que
+      o emissor era instituição autorizada pelo Banco Central e constava da lista de emissores admitidos pelo
+      Ministério da Previdência Social; ao Estadão, que a decisão "é de primeira instância e ainda não é
+      definitiva" e que a liquidação do banco ocorreu quase um ano após a saída dele da gestão.
+    source_ids:
+      - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+      - src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+  - kind: denial
+    by_id: credito-e-mercado
+    date: 2026-10-22
+    summary: Ao g1, a consultoria disse que "os pareceres da empresa são opinativos e não vinculantes, elaborados
+      com base nas informações disponíveis à época", que as decisões de investimento cabem aos gestores do
+      instituto e que, no procedimento proposto, "a empresa irá apresentar seus documentos e fundamentos
+      técnicos". Segundo o Estadão, sustentou no processo que a exigência de classificação mínima não se
+      aplicava às letras compradas diretamente pelo instituto.
+    source_ids:
+      - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+      - src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+  - kind: public_note
+    by_id: sao-roque-prev
+    date: 2026-10-22
+    summary: Ao g1, o instituto disse que "cumprirá integralmente as determinações e recomendações feitas pelo
+      Tribunal de Contas do Estado de São Paulo (TCE-SP) em sua decisão, incluindo as relativas ao
+      ressarcimento de valores", que "não houve recuperação dos recursos" até o momento e que "ainda não é
+      prudente apontar eventuais responsáveis".
+    source_ids:
+      - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+  - kind: public_note
+    by: Prefeitura de São Roque
+    date: 2026-10-22
+    summary: Ao g1, a Prefeitura disse que cumprirá as determinações do TCE-SP e que o patrimônio do instituto tem
+      "mais de R$ 500 milhões em caixa, sem considerar os valores investidos no Banco Master", sem risco ao
+      pagamento dos pensionistas.
+    source_ids:
+      - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+  - kind: not_located
+    by_id: tribunal-de-contas-do-estado-de-sao-paulo
+    date: 2026-10-27
+    summary: Além da decisão noticiada, nenhuma nota do tribunal foi localizada (portal do TCE-SP e busca na web
+      em 27/10/2026); o texto da decisão não foi consultado.
+    source_ids:
+      - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+  - kind: not_located
+    by_id: banco-master
+    date: 2026-10-27
+    summary: O banco, em liquidação extrajudicial desde novembro de 2025, não aparece com manifestação nas
+      reportagens do Estadão e do g1; nenhuma posição sobre a decisão foi localizada.
+    source_ids:
+      - src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27
+created_at: 2026-10-27
+updated_at: 2026-10-27

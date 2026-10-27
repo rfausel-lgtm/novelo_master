@@ -1,0 +1,19 @@
+id: ev-estadao-g1-2026-10-tce-sp-julga-irregulares-contas-2024-sao-roque-prev
+kind: evidence
+classification: C
+proposition: Segundo o Estadão (21/10/2026) e o g1 Sorocaba e Jundiaí (22/10/2026, apuração própria da TV
+  TEM), a conselheira substituta Silvia Cristina Monteiro Moraes, do TCE-SP, julgou irregulares as contas de
+  2024 do São Roque Prev e imputou ao ex-diretor-presidente Vanderlei Massarioli o ressarcimento de R$ 93,15
+  milhões aplicados em letras financeiras do Banco Master, decisão de que cabe recurso e que não é definitiva.
+source_ids:
+  - src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+  - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+date: 2026-10-19
+notes: "Data: o g1 diz que a decisão foi publicada em 19/10; o Estadão a divulgou em 21/10. O texto da decisão
+  e o número do processo não foram localizados (portal do TCE-SP, bloco de mídia, e busca na web); por isso a
+  classe é C e não D. É decisão de contas, de primeira instância segundo a defesa, não condenação criminal."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27
+created_at: 2026-10-27
+updated_at: 2026-10-27

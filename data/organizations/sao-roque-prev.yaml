@@ -9,19 +9,50 @@ summary: Instituto de previdência municipal de São Roque (SP). Aplicou R$ 93,1
   em abril de 2026. O ex-diretor-presidente Vanderlei Massarioli nega contato direto com o Master, atribuindo
   a operação à consultoria contratada pelo instituto — a Crédito & Mercado, que além de emitir pareceres de
   investimento também implementava no instituto o programa Pró-Gestão RPPS, acúmulo de papéis que o relatório
-  final da CPI aponta como potencial conflito de interesse.
+  final da CPI aponta como potencial conflito de interesse. Segundo o Estadão e o g1, em decisão publicada em
+  19/10/2026, o TCE-SP julgou irregulares as contas de 2024 do instituto e imputou ao ex-diretor-presidente o
+  ressarcimento de R$ 93,15 milhões aplicados em letras do Master; cabe recurso, a decisão não é definitiva e a
+  defesa diz que vai recorrer. O Estadão calcula as aplicações em cerca de 18,2% da carteira ao fim de 2024,
+  base diferente da usada pela CPI. Em 27/10/2026, segundo nota da PF, a Operação Entressafras cumpriu nove
+  mandados de busca sobre a gestão de recursos do instituto entre 2022 e 2024; a nota não cita banco nem
+  investigados, e o nexo com o Master é noticiado pela CNN e pelo Metrópoles.
 why_in_novelo: É outro dos regimes próprios de previdência expostos ao Master não antes mapeado no corpus,
   com CPI municipal própria apurando o caso.
 cited_position:
 - kind: not_located
-  summary: Nenhuma manifestação pública específica localizada no corpus até a data da última atualização.
+  date: '2026-09-10'
+  summary: Sobre a CPI municipal e as aplicações no Master, nenhuma manifestação pública específica do instituto
+    foi localizada no corpus até 10/09/2026; superada, quanto à decisão do TCE-SP, pela nota ao g1 abaixo.
+- kind: public_note
+  by_id: sao-roque-prev
+  date: '2026-10-22'
+  summary: Sobre a decisão do TCE-SP, o instituto disse ao g1 que "cumprirá integralmente as determinações e
+    recomendações feitas pelo Tribunal de Contas do Estado de São Paulo (TCE-SP) em sua decisão, incluindo as
+    relativas ao ressarcimento de valores", que "não houve recuperação dos recursos" até o momento e que "ainda
+    não é prudente apontar eventuais responsáveis".
+  source_ids:
+  - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+- kind: not_located
+  by_id: sao-roque-prev
+  date: '2026-10-27'
+  summary: Sobre a Operação Entressafras, nenhuma manifestação do instituto foi localizada na nota da PF, na CNN e
+    no Metrópoles até a manhã de 27/10/2026.
+  source_ids:
+  - src-cnnbrasil-2026-10-27-pf-mira-aporte-80-milhoes-sao-roque-master
+  - src-metropoles-2026-10-27-pf-investiga-aplicacoes-sao-roque-master
 open_questions:
 - O corpus não obteve o texto integral do relatório final da CPI, apenas a cobertura de imprensa.
+- O texto da decisão do TCE-SP sobre as contas de 2024 e o número do processo não foram localizados.
 source_ids:
 - src-jornalcruzeiro-2026-07-cpi-sao-roque-rombo-113-milhoes
 - src-iclnoticias-2026-08-14-consultoria-sete-institutos-232-milhoes
+- src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+- src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+- src-pf-2026-10-27-pf-investiga-aplicacoes-sao-roque
+- src-cnnbrasil-2026-10-27-pf-mira-aporte-80-milhoes-sao-roque-master
+- src-metropoles-2026-10-27-pf-investiga-aplicacoes-sao-roque-master
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-10'
+reviewed_at: '2026-10-27'
 created_at: '2026-09-06'
-updated_at: '2026-09-10'
+updated_at: '2026-10-27'

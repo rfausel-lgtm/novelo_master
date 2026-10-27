@@ -1,0 +1,34 @@
+id: tribunal-de-contas-do-estado-de-sao-paulo
+kind: organization
+name: Tribunal de Contas do Estado de São Paulo
+aliases:
+  - TCE-SP
+org_type: court
+jurisdiction: São Paulo
+summary: Tribunal de contas do Estado de São Paulo. Segundo o Estadão e o g1, a conselheira substituta Silvia
+  Cristina Monteiro Moraes julgou irregulares as contas de 2024 do São Roque Prev, em decisão publicada em
+  19/10/2026, imputou ao ex-diretor-presidente do instituto o ressarcimento de R$ 93,15 milhões aplicados em
+  letras financeiras do Banco Master e propôs à Presidência do tribunal procedimento próprio sobre a
+  consultoria Crédito & Mercado. Cabe recurso; o texto da decisão não foi localizado.
+why_in_novelo: Órgão que julgou as contas de 2024 do São Roque Prev, relativas às aplicações em letras do
+  Banco Master, segundo a imprensa.
+cited_position:
+  - kind: not_located
+    date: 2026-10-27
+    summary: Além da própria decisão, noticiada pelo Estadão e pelo g1, não foi localizada manifestação
+      institucional do tribunal; o portal do TCE-SP (página inicial e bloco "TCE na mídia") só lista links de
+      imprensa, e uma busca na web restrita ao domínio em 27/10/2026 não achou nota, pauta ou número do
+      processo.
+    source_ids:
+      - src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+      - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+open_questions:
+  - O texto da decisão e o número do processo não foram localizados; o e-TCESP não foi consultado.
+source_ids:
+  - src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+  - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27
+created_at: 2026-10-27
+updated_at: 2026-10-27

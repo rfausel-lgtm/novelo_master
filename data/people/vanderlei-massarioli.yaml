@@ -1,0 +1,54 @@
+id: vanderlei-massarioli
+kind: person
+name: Vanderlei Massarioli
+category: public_official
+role: Ex-diretor-presidente do São Roque Prev (01/01 a 30/11/2024)
+positions:
+  - title: Diretor-presidente
+    organization: São Roque Prev
+    start_date: 2024-01-01
+    end_date: 2024-11-30
+    source_ids:
+      - src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+summary: Presidiu o São Roque Prev, instituto de previdência dos servidores de São Roque (SP), entre 1º de
+  janeiro e 30 de novembro de 2024, segundo o Estadão. Segundo o Estadão e o g1, em decisão publicada em
+  19/10/2026 a conselheira substituta Silvia Cristina Monteiro Moraes, do TCE-SP, julgou irregulares as contas
+  de 2024 do instituto e imputou a ele o ressarcimento de R$ 93,15 milhões aplicados em letras financeiras do
+  Banco Master; cabe recurso, a decisão não é definitiva e não é condenação criminal. Sua defesa afirma que
+  vai recorrer, que as aplicações foram aprovadas de forma colegiada pelo Comitê de Investimentos com
+  pareceres técnicos de consultoria, que o emissor era autorizado pelo Banco Central e admitido pelo
+  Ministério da Previdência Social e que a liquidação do banco ocorreu quase um ano após sua saída da gestão.
+why_in_novelo: Ex-diretor-presidente do São Roque Prev a quem o TCE-SP imputou, em decisão recorrível
+  noticiada pelo Estadão e pelo g1, o ressarcimento das aplicações em letras do Banco Master.
+cited_position:
+  - kind: version
+    by_id: vanderlei-massarioli
+    date: 2026-10-22
+    summary: Em nota à TV TEM, a defesa disse que a decisão do TCE-SP "será objeto de recurso, com efeito
+      suspensivo", que as aplicações de 2024 "foram aprovadas de forma colegiada pelo Comitê de Investimentos,
+      com pareceres técnicos de consultoria especializada que não apontavam problemas à época" e que o emissor
+      era instituição autorizada pelo Banco Central e constava da lista de emissores admitidos pelo Ministério
+      da Previdência Social. Ao Estadão, a defesa afirmou que a decisão "é de primeira instância e ainda não é
+      definitiva" e que a liquidação do banco ocorreu quase um ano após a saída dele da gestão.
+    source_ids:
+      - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+      - src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+  - kind: version
+    by_id: vanderlei-massarioli
+    date: 2026-07
+    summary: No contexto da CPI municipal, segundo o Jornal Cruzeiro, negou contato direto com o Banco Master e
+      atribuiu a operação à consultoria contratada pelo instituto.
+    source_ids:
+      - src-jornalcruzeiro-2026-07-cpi-sao-roque-rombo-113-milhoes
+open_questions:
+  - O texto da decisão do TCE-SP e o número do processo não foram localizados.
+  - O resultado do recurso anunciado pela defesa não é conhecido.
+source_ids:
+  - src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+  - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+  - src-jornalcruzeiro-2026-07-cpi-sao-roque-rombo-113-milhoes
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27
+created_at: 2026-10-27
+updated_at: 2026-10-27

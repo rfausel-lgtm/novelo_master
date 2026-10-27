@@ -22,7 +22,13 @@ summary: Grupo de consultoria de valores mobiliários especializado em regimes p
   de R$ 4 milhões aplicados — caso em que o TCE-PR foi além da assessoria e, em 06/04/2026, converteu representação
   em Tomada de Contas Extraordinária citando a própria consultoria como corresponsável solidária pelo dano ao
   erário, ao lado dos gestores do fundo — a medida de responsabilização mais formal já registrada contra a empresa
-  no acervo.
+  no acervo. Segundo o Estadão e o g1, a decisão do TCE-SP sobre as contas de 2024 do São Roque Prev, publicada
+  em 19/10/2026, enviou os autos à Presidência do tribunal propondo procedimento próprio sobre a atuação da
+  consultoria, em que só o plenário poderá decidir sobre eventual declaração de inidoneidade; segundo o Estadão,
+  a decisão ressalva que "não há, nesse processo, conclusão de que a consultoria tenha cometido fraude ou obtido
+  vantagem ilícita", e a empresa respondeu ao g1 que não tem vínculo econômico com o Master nem recebeu remuneração pelas
+  aplicações, que seus pareceres são opinativos e não vinculantes e que vai apresentar seus documentos nesse
+  procedimento.
 why_in_novelo: Consultoria presente em pelo menos oito dos dezoito regimes próprios que compraram letras financeiras
   do Banco Master, e cujo formulário público declara assessorar os dois lados do mesmo processo de credenciamento.
 cited_position:
@@ -34,6 +40,16 @@ cited_position:
   - src-credito-e-mercado-formulario-referencia-cvm
   by_id: credito-e-mercado
   date: 2026-08
+- kind: denial
+  by_id: credito-e-mercado
+  date: '2026-10-22'
+  summary: Sobre a decisão do TCE-SP no caso do São Roque Prev, disse ao g1 que "não possui vínculo econômico com
+    o Banco Master, não recebeu qualquer remuneração pelas aplicações realizadas e não tinha poder para decidir ou
+    executar investimentos", que "os pareceres da empresa são opinativos e não vinculantes, elaborados com base
+    nas informações disponíveis à época" e que, no procedimento proposto, "a empresa irá apresentar seus
+    documentos e fundamentos técnicos".
+  source_ids:
+  - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
 open_questions:
 - A modalidade e os valores de contratação pelos regimes próprios não foram localizados nos portais de transparência.
 - A lista de clientes publicada no site é atual e não retrata necessariamente a carteira de 2024.
@@ -57,8 +73,10 @@ source_ids:
 - src-nttv-2026-08-credito-mercado-nega-orientacao-iprev-maceio
 - src-folhadealagoas-2026-01-20-calamia-condenado-negocio-milionario-iprev
 - src-tcepr-2026-04-06-despacho-zucchi-imbituva-tomada-contas
+- src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+- src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-11'
+reviewed_at: '2026-10-27'
 created_at: '2026-09-04'
-updated_at: '2026-09-11'
+updated_at: '2026-10-27'

@@ -1,0 +1,20 @@
+id: ev-cnn-metropoles-2026-10-27-entressafras-liga-investimento-ao-master
+kind: evidence
+classification: C
+proposition: CNN Brasil e Metrópoles noticiam, em 27/10/2026, que o investimento investigado na Operação
+  Entressafras foi feito no Banco Master; a proposição registrada é que os dois veículos o noticiam, não que a
+  PF o afirme, pois a nota da PF em gov.br não cita o banco.
+source_ids:
+  - src-cnnbrasil-2026-10-27-pf-mira-aporte-80-milhoes-sao-roque-master
+  - src-metropoles-2026-10-27-pf-investiga-aplicacoes-sao-roque-master
+excerpt: A CNN apurou que o investimento foi feito no então banco Master
+date: 2026-10-27
+notes: "Independência frágil: os dois textos repetem quase literalmente o trecho sobre o prejuízo estimado de
+  cerca de R$ 121 milhões, que atribuem à PF e que não está na nota em gov.br. Os valores de R$ 80 milhões em
+  letras financeiras e R$ 20 milhões em fundo imobiliário são dos veículos. Pendente: nota complementar ou
+  decisão que nomeie o emissor."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27
+created_at: 2026-10-27
+updated_at: 2026-10-27

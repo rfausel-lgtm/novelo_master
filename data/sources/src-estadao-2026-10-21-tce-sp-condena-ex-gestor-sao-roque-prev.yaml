@@ -1,0 +1,25 @@
+id: src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+kind: source
+title: TCE-SP condena ex-gestor do São Roque Prev a devolver R$ 93 milhões aplicados em letras do Master
+publisher: Estadão (Blog do Fausto Macedo)
+publication_date: 2026-10-21
+retrieved_at: 2026-10-27
+url: https://www.estadao.com.br/politica/blog-do-fausto-macedo/tce-sp-condena-ex-gestor-do-sao-roque-prev-a-devolver-r-93-milhoes-aplicados-em-letras-do-master/
+source_type: press
+summary: "Reportagem de 21/10/2026 (atualizada em 22/10, 19h24) sobre a decisão da conselheira substituta
+  Silvia Cristina Monteiro Moraes, do TCE-SP, que julgou irregulares as contas de 2024 do São Roque Prev e
+  imputou ao ex-presidente Vanderlei Massarioli o ressarcimento de R$ 93,15 milhões aplicados em letras
+  financeiras do Banco Master. Traz a ressalva da decisão sobre a consultoria Crédito & Mercado, o envio dos
+  autos à Presidência do tribunal e ao Ministério Público estadual, e as notas do instituto e da defesa.
+  Republicado por outros portais como Estadão Conteúdo (dgabc, Diário de Pernambuco, Times Brasil): mesma
+  apuração."
+verification:
+  checked_at: 2026-10-27
+  checked_by: orquestrador (cache lote:fonte, sha256 do texto ec180573)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27
+created_at: 2026-10-27
+updated_at: 2026-10-27

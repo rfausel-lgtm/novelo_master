@@ -1,0 +1,67 @@
+id: evt-2026-10-27-pf-deflagra-operacao-entressafras-sobre-o-sao-roque-prev
+kind: event
+title: PF cumpre nove mandados de busca na Operação Entressafras sobre a gestão de recursos do São Roque Prev
+event_type: investigation_step
+date: 2026-10-27
+date_precision: day
+participant_ids:
+  - policia-federal
+  - sao-roque-prev
+description: 'Segundo nota da PF publicada em 27/10/2026, a corporação cumpriu nove mandados de busca e
+  apreensão em São Paulo e Pernambuco na Operação Entressafras, que investiga possíveis crimes contra o
+  Sistema Financeiro Nacional na gestão de recursos do São Roque Prev entre 2022 e 2024. A nota diz que "a
+  investigação apura investimentos de cerca de R$ 100 milhões, com aplicações não sendo amparadas por
+  pareceres técnicos e fundamentação adequados" e que "os investigados poderão responder por gestão
+  fraudulenta, peculato financeiro, crimes contra a Administração Pública e lavagem de dinheiro, entre outros
+  delitos"; é a expectativa da PF numa fase de buscas, não denúncia nem acusação formal. A nota não nomeia
+  banco, investigados nem o juízo que expediu os mandados, e nenhuma das fontes lidas nomeia os investigados.
+  Segundo CNN Brasil e Metrópoles, o investimento foi
+  feito no Banco Master; a CNN escreve que "a CNN apurou que o investimento foi feito no então banco Master".
+  Os valores divergem e o corpus não os concilia: a nota da PF fala em cerca de R$ 100 milhões em
+  investimentos apurados; segundo a CNN e o Metrópoles, foram R$ 80 milhões em letras financeiras e R$ 20
+  milhões em um fundo imobiliário; a CNN atribui à PF, em seu subtítulo, um prejuízo estimado de "aproximadamente
+  R$ 121 milhões", que o Metrópoles repete, ambos dizendo que o valor está bloqueado, número que não está na
+  nota em gov.br; o TCE-SP, segundo o Estadão e o
+  g1, imputou ressarcimento de R$ 93,15 milhões referentes a sete aplicações de 2024. São medidas diferentes
+  (aplicado, estimado, bloqueado, imputado) e períodos diferentes. A operação é procedimento distinto da
+  decisão de contas do TCE-SP; nenhuma fonte liga uma à outra.'
+evidence_class: D
+status: verified
+evidence_ids:
+  - ev-pf-2026-10-27-entressafras-nove-mandados-sao-roque-prev
+  - ev-cnn-metropoles-2026-10-27-entressafras-liga-investimento-ao-master
+source_ids:
+  - src-pf-2026-10-27-pf-investiga-aplicacoes-sao-roque
+  - src-cnnbrasil-2026-10-27-pf-mira-aporte-80-milhoes-sao-roque-master
+  - src-metropoles-2026-10-27-pf-investiga-aplicacoes-sao-roque-master
+document_ids:
+  - doc-2026-10-27-nota-pf-operacao-entressafras-sao-roque-prev
+public_act_ids: []
+cited_position:
+  - kind: public_note
+    by_id: policia-federal
+    date: 2026-10-27
+    summary: A nota de imprensa de 27/10/2026 é a manifestação da PF sobre a operação; não nomeia investigados nem
+      banco.
+    source_ids:
+      - src-pf-2026-10-27-pf-investiga-aplicacoes-sao-roque
+  - kind: not_located
+    by_id: sao-roque-prev
+    date: 2026-10-27
+    summary: Nenhuma manifestação do instituto sobre a operação foi localizada na nota da PF, na CNN e no
+      Metrópoles até a manhã de 27/10/2026.
+    source_ids:
+      - src-cnnbrasil-2026-10-27-pf-mira-aporte-80-milhoes-sao-roque-master
+      - src-metropoles-2026-10-27-pf-investiga-aplicacoes-sao-roque-master
+  - kind: not_located
+    by: Prefeitura de São Roque
+    date: 2026-10-27
+    summary: A CNN escreveu que "a reportagem busca contato com a Prefeitura da cidade"; nenhuma resposta foi
+      publicada nas fontes lidas até a manhã de 27/10/2026.
+    source_ids:
+      - src-cnnbrasil-2026-10-27-pf-mira-aporte-80-milhoes-sao-roque-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27
+created_at: 2026-10-27
+updated_at: 2026-10-27

@@ -1,0 +1,49 @@
+id: rev-2026-10-27-lote-376-sao-roque-prev-tce-sp-e-operacao-entressafras
+kind: revision
+date: 2026-10-27
+title: "Lote 376 — São Roque Prev: TCE-SP julga irregulares as contas de 2024 e PF cumpre mandados na Operação
+  Entressafras"
+summary: Registra dois atos distintos sobre o São Roque Prev, sem nexo entre eles. Segundo o Estadão e o g1, o
+  TCE-SP julgou irregulares as contas de 2024 do instituto, em decisão publicada em 19/10/2026, e imputou ao
+  ex-diretor-presidente Vanderlei Massarioli o ressarcimento de R$ 93,15 milhões aplicados em letras do Banco
+  Master; cabe recurso, e a defesa diz que vai recorrer. Em 27/10/2026, segundo nota da PF, a Operação
+  Entressafras cumpriu nove mandados de busca sobre a gestão de recursos do instituto entre 2022 e 2024; a
+  nota não cita banco nem investigados, nenhuma das fontes lidas nomeia os investigados, e o nexo com o Master é atribuído a CNN e Metrópoles. Cria os verbetes
+  do TCE-SP e do ex-presidente.
+added:
+  people: 1
+  organizations: 1
+  events: 2
+  documents: 1
+  relationships: 0
+  sources: 5
+  evidence: 3
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-pf-2026-10-27-pf-investiga-aplicacoes-sao-roque
+  - src-cnnbrasil-2026-10-27-pf-mira-aporte-80-milhoes-sao-roque-master
+  - src-metropoles-2026-10-27-pf-investiga-aplicacoes-sao-roque-master
+  - src-estadao-2026-10-21-tce-sp-condena-ex-gestor-sao-roque-prev
+  - src-g1-2026-10-22-tce-sp-julga-irregulares-contas-sao-roque-prev
+  - doc-2026-10-27-nota-pf-operacao-entressafras-sao-roque-prev
+  - ev-pf-2026-10-27-entressafras-nove-mandados-sao-roque-prev
+  - ev-cnn-metropoles-2026-10-27-entressafras-liga-investimento-ao-master
+  - ev-estadao-g1-2026-10-tce-sp-julga-irregulares-contas-2024-sao-roque-prev
+  - tribunal-de-contas-do-estado-de-sao-paulo
+  - vanderlei-massarioli
+  - evt-2026-10-19-tce-sp-julga-irregulares-contas-de-2024-do-sao-roque-prev
+  - evt-2026-10-27-pf-deflagra-operacao-entressafras-sobre-o-sao-roque-prev
+  - sao-roque-prev
+  - credito-e-mercado
+  - policia-federal
+reason: "Fato novo sobre regime próprio já mapeado no acervo. Classe D para a nota da PF; classe C para a
+  decisão do TCE-SP (duas apurações, Estadão e g1; texto da decisão e número do processo não localizados);
+  classe C restrita para o nexo da operação com o Master, só como o que CNN e Metrópoles noticiam. Os valores
+  de PF, imprensa e TCE-SP divergem e ficam registrados sem conciliação. Ficaram de fora: operação anterior
+  citada só pela CNN, troca de títulos do BTG, multa e determinações ao instituto, e qualquer ligação do
+  ex-presidente ou da consultoria com a operação da PF."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27

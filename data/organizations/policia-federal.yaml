@@ -26,11 +26,12 @@ source_ids:
 - src-poder360-2026-03-04-morte-cerebral-testemunha
 - src-cnn-2026-04-13-familia-de-mourao-sem-acesso
 - src-stf-2026-10-13-presidente-do-stf-ministro-edson-fachin-recebe-diretor-geral-da-policia-federal-andrei-rodrigues
+- src-pf-2026-10-27-pf-investiga-aplicacoes-sao-roque
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-10-16'
+reviewed_at: '2026-10-27'
 created_at: '2026-09-03'
-updated_at: '2026-10-16'
+updated_at: '2026-10-27'
 photo:
   path: /fotos/policia-federal.png
   source: Wikimedia Commons
