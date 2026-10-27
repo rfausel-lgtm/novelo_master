@@ -1,0 +1,23 @@
+id: ev-imprensa-2026-08-28-mendonca-cancela-indisponibilidades-23-imoveis-6-ccbs-brb
+kind: evidence
+classification: A
+proposition: Segundo o Times Brasil e o Jurinews, que não declaram apuração própria nem acesso ao texto da
+  decisão, o ministro André Mendonça (STF) determinou em 28/08/2026, a pedido do BRB, o cancelamento das
+  indisponibilidades que ainda atingiam seis CCBs cedidas pelo Banco Master ao BRB e os 23 imóveis dados em
+  garantia, por entender que a restrição não se justificava depois que o banco fora excluído das medidas
+  patrimoniais. Segundo o Jurinews, a decisão contrariou parecer do Ministério Público Federal/PGR. É decisão
+  cautelar de indisponibilidade, sem juízo de mérito sobre o BRB ou o Master; a decisão e o número do processo
+  não foram localizados.
+attributed_to: Times Brasil e Jurinews (imprensa)
+source_ids:
+  - src-timesbrasil-2026-08-28-mendonca-libera-23-imoveis-creditos-master-brb
+  - src-jurinews-2026-08-29-mendonca-desbloqueia-imoveis-garantia-creditos-master-brb
+date: 2026-08-28
+notes: "Classe A, e não C: as duas matérias descrevem a mesma decisão sem declarar apuração própria, e outra
+  publicação do mesmo dia (não registrada) parte do mesmo material; republicação não corrobora. A decisão sobe
+  de classe se for localizada no portal do STF."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27
+created_at: 2026-10-27
+updated_at: 2026-10-27

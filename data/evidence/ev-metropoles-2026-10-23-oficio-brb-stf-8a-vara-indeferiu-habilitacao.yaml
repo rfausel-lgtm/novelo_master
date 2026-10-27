@@ -1,0 +1,20 @@
+id: ev-metropoles-2026-10-23-oficio-brb-stf-8a-vara-indeferiu-habilitacao
+kind: evidence
+classification: A
+proposition: Segundo o Metrópoles (23/10/2026), que descreve ofício do BRB ao ministro André Mendonça sem
+  publicar o documento, o banco afirma que os 23 imóveis seguem alcançados por outra ordem de
+  indisponibilidade e que, em despacho de 19/10/2026, a 8ª Vara Federal indeferiu seu pedido de habilitação e
+  cancelamento sem exame do mérito, por entender que as providências devem ser requeridas ao STF no processo
+  originário. O banco pede comunicação à autoridade responsável pela carta de ordem, à CNIB e ao 18º Registro
+  de Imóveis de São Paulo. Versão do requerente; ofício e despacho não localizados; o novo pedido não havia
+  sido analisado até 23/10.
+attributed_to_id: banco-de-brasilia-brb
+attributed_to: BRB, em ofício ao STF descrito pelo Metrópoles
+source_ids:
+  - src-metropoles-2026-10-23-brb-pede-liberacao-imoveis-garantia-ccbs-master
+date: 2026-10-23
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27
+created_at: 2026-10-27
+updated_at: 2026-10-27

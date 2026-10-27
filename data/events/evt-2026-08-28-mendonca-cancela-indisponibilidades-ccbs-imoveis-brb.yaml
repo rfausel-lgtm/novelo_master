@@ -1,0 +1,72 @@
+id: evt-2026-08-28-mendonca-cancela-indisponibilidades-ccbs-imoveis-brb
+kind: event
+title: Mendonça cancela indisponibilidades sobre 6 CCBs e 23 imóveis ligados ao BRB (segundo a imprensa)
+event_type: judicial_decision
+date: 2026-08-28
+date_precision: day
+location: Brasília (DF)
+participant_ids:
+  - andre-mendonca
+  - supremo-tribunal-federal
+  - banco-de-brasilia-brb
+  - banco-master
+  - ministerio-publico-federal
+description: Segundo o Times Brasil (28/08/2026) e o Jurinews (29/08/2026), o ministro André Mendonça, do STF,
+  determinou em 28/08/2026, ao analisar pedido do BRB, o cancelamento de indisponibilidades que ainda atingiam
+  bens, direitos e garantias vinculados ao banco, entre eles seis Cédulas de Crédito Bancário (CCBs) e 23
+  imóveis dados em garantia. Segundo o Jurinews, as CCBs foram cedidas pelo Banco Master ao BRB em junho de
+  2025 e, segundo informações apresentadas pelo banco no processo, a cessão foi integral e sem coobrigação; os
+  imóveis estão registrados em São Paulo. Segundo a imprensa, o ministro entendeu que a indisponibilidade só
+  se mantém enquanto ligada à finalidade que a motivou, com critérios de "necessidade, pertinência e
+  proporcionalidade" (Times Brasil), e que, como o BRB já havia sido excluído das medidas patrimoniais, os
+  bloqueios não deveriam continuar produzindo efeitos contra ele. Ainda segundo as duas fontes, determinou
+  providências urgentes na Central Nacional de Indisponibilidade de Bens (CNIB) e, segundo o Jurinews, a
+  comunicação ao cartório das matrículas. O Jurinews registra que o ministro ressalvou que os bens podem
+  voltar a ser bloqueados se surgirem elementos concretos que o justifiquem e preservou restrições impostas a
+  terceiros ou por outras decisões. É decisão cautelar de indisponibilidade de bens, sem juízo de mérito sobre o BRB ou o Master. A
+  decisão, o número do processo e o parecer do MPF não foram localizados; as fontes não declaram apuração
+  própria nem acesso ao texto da decisão.
+evidence_class: A
+status: unverified
+evidence_ids:
+  - ev-imprensa-2026-08-28-mendonca-cancela-indisponibilidades-23-imoveis-6-ccbs-brb
+source_ids:
+  - src-timesbrasil-2026-08-28-mendonca-libera-23-imoveis-creditos-master-brb
+  - src-jurinews-2026-08-29-mendonca-desbloqueia-imoveis-garantia-creditos-master-brb
+cited_position:
+  - kind: version
+    by_id: banco-de-brasilia-brb
+    date: 2026-08-28
+    summary: O BRB foi o autor do pedido. Segundo o Jurinews, argumentou que os bloqueios seguiam produzindo
+      efeitos mesmo depois de decisão da Justiça Federal que o excluíra das medidas patrimoniais, o que
+      dificultava negociar e regularizar garantias e agravava sua liquidez. Segundo o Times Brasil, a direção do
+      BRB disse que a decisão dá mais segurança à condução das operações do banco.
+    source_ids:
+      - src-jurinews-2026-08-29-mendonca-desbloqueia-imoveis-garantia-creditos-master-brb
+      - src-timesbrasil-2026-08-28-mendonca-libera-23-imoveis-creditos-master-brb
+  - kind: version
+    by_id: ministerio-publico-federal
+    date: 2026-08-29
+    summary: Segundo o Jurinews, única fonte do lote a mencioná-lo, o MPF/PGR se manifestou contra a liberação,
+      defendendo manter as restrições no estágio atual das investigações pelo risco de dissipação de
+      patrimônio, e sustentou que a decisão de primeira instância que excluiu o BRB de medidas patrimoniais
+      não bastaria para retirar os bloqueios. O parecer não foi localizado.
+    source_ids:
+      - src-jurinews-2026-08-29-mendonca-desbloqueia-imoveis-garantia-creditos-master-brb
+  - kind: not_located
+    by_id: banco-master
+    date: 2026-10-27
+    summary: Nas três fontes do lote (Times Brasil, Jurinews e Metrópoles) não há manifestação do Banco Master nem
+      de seu liquidante sobre a decisão; não foi feita busca de resposta oficial além dessas fontes.
+    source_ids:
+      - src-timesbrasil-2026-08-28-mendonca-libera-23-imoveis-creditos-master-brb
+      - src-jurinews-2026-08-29-mendonca-desbloqueia-imoveis-garantia-creditos-master-brb
+tags:
+  - brb
+  - stf
+  - indisponibilidade-de-bens
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27
+created_at: 2026-10-27
+updated_at: 2026-10-27

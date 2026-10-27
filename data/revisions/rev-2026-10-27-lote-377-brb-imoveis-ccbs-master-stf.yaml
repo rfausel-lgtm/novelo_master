@@ -1,0 +1,41 @@
+id: rev-2026-10-27-lote-377-brb-imoveis-ccbs-master-stf
+kind: revision
+date: 2026-10-27
+title: "Lote 377 — BRB e os 23 imóveis das CCBs do Master: Mendonça cancela indisponibilidades em 28/08 e BRB
+  volta ao STF em outubro"
+summary: Registra dois atos sobre seis Cédulas de Crédito Bancário cedidas pelo Banco Master ao BRB e os 23
+  imóveis dados em garantia. Em 28/08/2026, segundo o Times Brasil e o Jurinews, o ministro André Mendonça
+  (STF) cancelou, a pedido do BRB, as indisponibilidades que ainda os atingiam, por entender que o banco já
+  fora excluído das medidas patrimoniais; segundo o Jurinews, contra parecer do MPF/PGR. Por volta de
+  23/10/2026, segundo o Metrópoles, o BRB pediu ao ministro a liberação efetiva, afirmando que os imóveis
+  seguem alcançados por outra ordem de indisponibilidade e que a 8ª Vara Federal indeferiu sua habilitação em
+  19/10 sem exame do mérito. Decisão cautelar, sem juízo de mérito sobre o BRB ou o Master; decisão, ofício e
+  despacho não localizados; desfecho do novo pedido não verificado.
+added:
+  people: 0
+  organizations: 0
+  events: 2
+  documents: 0
+  relationships: 0
+  sources: 3
+  evidence: 2
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-timesbrasil-2026-08-28-mendonca-libera-23-imoveis-creditos-master-brb
+  - src-jurinews-2026-08-29-mendonca-desbloqueia-imoveis-garantia-creditos-master-brb
+  - src-metropoles-2026-10-23-brb-pede-liberacao-imoveis-garantia-ccbs-master
+  - ev-imprensa-2026-08-28-mendonca-cancela-indisponibilidades-23-imoveis-6-ccbs-brb
+  - ev-metropoles-2026-10-23-oficio-brb-stf-8a-vara-indeferiu-habilitacao
+  - evt-2026-08-28-mendonca-cancela-indisponibilidades-ccbs-imoveis-brb
+  - evt-2026-10-23-brb-oficio-stf-pede-liberacao-efetiva-imoveis-ccbs
+reason: "Conexão institucional entre STF, BRB e Master sem registro no acervo, complementar ao lote 374. Tudo
+  em classe A atribuída: nenhum documento primário foi localizado (decisão de 28/08, parecer do MPF, ofício do
+  BRB e despacho de 19/10), e as matérias de agosto não declaram apuração própria. Ficaram de fora o
+  levantamento parcial de julho, a vara e a data da decisão de 1ª instância que excluiu o BRB, a venda da
+  carteira e as declarações nominais do presidente do BRB, por fonte única ou derivada. O desfecho do novo
+  pedido não foi verificado."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27

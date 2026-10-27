@@ -1,0 +1,61 @@
+id: evt-2026-10-23-brb-oficio-stf-pede-liberacao-efetiva-imoveis-ccbs
+kind: event
+title: BRB pede ao STF a liberação efetiva dos 23 imóveis; 8ª Vara Federal havia indeferido a habilitação em
+  19/10 (versão do BRB)
+event_type: communication
+date: 2026-10-23
+date_precision: approximate
+participant_ids:
+  - banco-de-brasilia-brb
+  - andre-mendonca
+  - supremo-tribunal-federal
+description: 'Segundo o Metrópoles (coluna Grande Angular, 23/10/2026), o BRB enviou ofício ao ministro André
+  Mendonça pedindo a liberação efetiva dos 23 imóveis dados em garantia das seis CCBs cedidas pelo Banco
+  Master. A data exata do ofício não é informada; 23/10 é a data da publicação. Segundo o ofício, apesar da
+  decisão do ministro de 28/08/2026, "as mesmas matrículas permanecem alcançadas por outra ordem de
+  indisponibilidade". Ainda segundo o BRB, o banco pediu habilitação e cancelamento ao juízo responsável pelo
+  cumprimento da carta de ordem e, em despacho de 19/10/2026, "a 8ª Vara Federal indeferiu a habilitação, sem
+  exame do mérito", por considerar que as providências devem ser requeridas ao STF no processo originário; o
+  Metrópoles identifica o juízo como a 8ª Vara Criminal Federal de São Paulo. O banco pede comunicação à
+  autoridade responsável pela execução da carta de ordem, à CNIB e ao 18º Registro de Imóveis de São Paulo.
+  Segundo a coluna, a indisponibilidade impede a transferência da titularidade e agrava a liquidez do BRB. É a
+  versão do requerente: nem o ofício nem o despacho foram publicados ou localizados. Segundo o Metrópoles, "o
+  novo pedido ainda não foi analisado por Mendonça"; o desfecho posterior não foi verificado.'
+evidence_class: A
+status: unverified
+evidence_ids:
+  - ev-metropoles-2026-10-23-oficio-brb-stf-8a-vara-indeferiu-habilitacao
+source_ids:
+  - src-metropoles-2026-10-23-brb-pede-liberacao-imoveis-garantia-ccbs-master
+cited_position:
+  - kind: version
+    by_id: banco-de-brasilia-brb
+    date: 2026-10-23
+    summary: "O próprio ofício é a versão do BRB: os imóveis seguem bloqueados por outra ordem de
+      indisponibilidade, o juízo da carta de ordem indeferiu a habilitação sem exame do mérito e cabe ao STF
+      determinar as comunicações necessárias, segundo o Metrópoles."
+    source_ids:
+      - src-metropoles-2026-10-23-brb-pede-liberacao-imoveis-garantia-ccbs-master
+  - kind: not_located
+    by_id: ministerio-publico-federal
+    date: 2026-10-27
+    summary: Nas fontes do lote (Metrópoles, Times Brasil e Jurinews) não há manifestação do MPF/PGR sobre o
+      ofício de outubro.
+    source_ids:
+      - src-metropoles-2026-10-23-brb-pede-liberacao-imoveis-garantia-ccbs-master
+  - kind: not_located
+    by_id: supremo-tribunal-federal
+    date: 2026-10-27
+    summary: Segundo o Metrópoles, o pedido não havia sido analisado até 23/10/2026; nas fontes do lote não há decisão
+      posterior, e sem o número do processo não foi possível consultá-lo no portal do STF.
+    source_ids:
+      - src-metropoles-2026-10-23-brb-pede-liberacao-imoveis-garantia-ccbs-master
+tags:
+  - brb
+  - stf
+  - indisponibilidade-de-bens
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-27
+created_at: 2026-10-27
+updated_at: 2026-10-27
