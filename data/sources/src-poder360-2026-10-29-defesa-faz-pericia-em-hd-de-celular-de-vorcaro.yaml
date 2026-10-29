@@ -1,0 +1,24 @@
+id: src-poder360-2026-10-29-defesa-faz-pericia-em-hd-de-celular-de-vorcaro
+kind: source
+title: Perícia em HD de celular de Vorcaro vê 999 itens alterados pós-prisão
+publisher: Poder360
+publication_date: 2026-10-29
+retrieved_at: 2026-10-29
+url: https://www.poder360.com.br/poder-justica/defesa-faz-pericia-em-hd-de-celular-de-vorcaro-e-diz-ver-inconsistencias/
+source_type: press
+summary: Reportagem sobre a análise preliminar do assistente técnico contratado pela defesa de Vorcaro, com o
+  PDF da íntegra. Registra que o laudo não comprova que o material tenha sido alterado. A matéria não traz
+  manifestação da PF nem do STF.
+notes: A matéria descreve o teste de edição do formato UFDR como feito sobre registro do próprio celular de
+  Vorcaro; o PDF da análise (p. 75) diz que o teste foi feito em arquivo público de treinamento e não demonstra
+  alteração do relatório do caso. O acervo segue o PDF e não reproduz o registro usado no teste.
+verification:
+  checked_at: 2026-10-29
+  checked_by: investigador e redator (cache lote:fonte, sha256 do texto 5a767a071d5a69a6)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-29
+created_at: 2026-10-29
+updated_at: 2026-10-29

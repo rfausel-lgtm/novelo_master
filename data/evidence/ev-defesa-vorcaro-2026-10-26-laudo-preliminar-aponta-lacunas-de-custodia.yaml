@@ -1,0 +1,25 @@
+id: ev-defesa-vorcaro-2026-10-26-laudo-preliminar-aponta-lacunas-de-custodia
+kind: evidence
+classification: D
+proposition: A análise preliminar do assistente técnico da defesa de Vorcaro, entregue em 26/10/2026, afirma
+  que o material recebido, sem os arquivos brutos da coleta, não permite verificar a integridade e a
+  integralidade da extração do iPhone, que o laudo da PF não informa a versão do GrayKey, que o termo de
+  apreensão não descreve identificação dos aparelhos nem lacres, e que há 657 arquivos com modificação em
+  18/11/2025 e 999 até 14/05/2026, posteriores à apreensão; no mesmo documento, o perito escreve que não é
+  tecnicamente possível atribuir essas alterações a uma ação humana deliberada e que suas conclusões “se restringem à matéria técnica e não implicam” juízo sobre autoria. É alegação da defesa, não perícia oficial.
+document_ids:
+  - doc-2026-10-26-defesa-vorcaro-analise-preliminar-forense-celular
+source_ids:
+  - src-defesa-vorcaro-2026-10-26-analise-preliminar-forense-celular
+  - src-poder360-2026-10-29-defesa-faz-pericia-em-hd-de-celular-de-vorcaro
+excerpt: sem os arquivos resultantes da coleta (UFD ou UFDX)
+locator: Análise Preliminar, p. 3 (material), p. 57-58 (657 e 999 arquivos) e p. 72-75 (conclusão)
+attributed_to: Assistente técnico da defesa de Daniel Vorcaro (Marcos Monteiro), em análise de 26/10/2026
+date: 2026-10-26
+notes: Os 657 arquivos de 18/11/2025 estão contidos nos 999; os números não se somam. Deve ser lida junto de
+  ev-defesa-vorcaro-2026-10-26-perito-nao-prova-adulteracao-nem-autoria.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-29
+created_at: 2026-10-29
+updated_at: 2026-10-29

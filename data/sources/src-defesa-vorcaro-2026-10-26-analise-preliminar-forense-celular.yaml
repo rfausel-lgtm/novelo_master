@@ -1,0 +1,27 @@
+id: src-defesa-vorcaro-2026-10-26-analise-preliminar-forense-celular
+kind: source
+title: Análise Preliminar (assistente técnico da defesa de Daniel Vorcaro, 76 p.)
+publisher: Defesa de Daniel Vorcaro (arquivo hospedado pelo Poder360)
+author: Marcos Monteiro (assistente técnico da defesa)
+publication_date: 2026-10-26
+retrieved_at: 2026-10-29
+url: https://static.poder360.com.br/uploads/2026/10/analise-forense-celular-vorcaro-29out2026c-2.pdf
+source_type: other
+summary: "Análise de 76 páginas assinada pelo assistente técnico contratado pela defesa de Daniel Vorcaro, com
+  data de entrega de 26/10/2026, sobre o material da extração do celular apreendido que a defesa recebeu do
+  STF. É documento de parte: prova que a defesa produziu a análise e o que ela afirma, não a veracidade do que
+  afirma."
+notes: Peça de parte, não perícia oficial. O PDF foi obtido na hospedagem do Poder360, que o divulgou em
+  29/10/2026; não foi localizado nos autos públicos do STF nem em publicação da própria defesa. O acervo não
+  reproduz números de série, identificadores de aparelho, lacres numerados, hashes nem conteúdo de mensagens
+  que o PDF traz.
+verification:
+  checked_at: 2026-10-29
+  checked_by: investigador e redator (cache lote:fonte, sha256 do texto 2a3d5cd54ed6e796)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-29
+created_at: 2026-10-29
+updated_at: 2026-10-29

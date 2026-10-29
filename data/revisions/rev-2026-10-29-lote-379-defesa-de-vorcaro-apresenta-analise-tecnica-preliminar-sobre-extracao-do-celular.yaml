@@ -1,0 +1,40 @@
+id: rev-2026-10-29-lote-379-defesa-de-vorcaro-apresenta-analise-tecnica-preliminar-sobre-extracao-do-celular
+kind: revision
+date: 2026-10-29
+title: Lote 379 — Defesa de Vorcaro apresenta análise técnica preliminar sobre a extração do celular
+summary: Registra a análise preliminar de 76 páginas que o assistente técnico contratado pela defesa de Daniel
+  Vorcaro entregou em 26/10/2026 sobre o material da extração do celular apreendido, divulgada pelo Poder360
+  em 29/10. Segundo o assistente técnico da defesa, o material recebido, sem os arquivos brutos, não
+  permite verificar a integridade da extração, há lacunas na documentação da cadeia de custódia e há registros
+  de arquivos modificados e criados depois da apreensão. O próprio perito escreve que não é possível atribuir
+  essas alterações a ação humana deliberada (nem, por isso, classificá-las como inofensivas) e que suas
+  conclusões não implicam juízo sobre autoria; segundo o Poder360, o laudo não comprova que o material tenha
+  sido adulterado. Manifestação da PF e do STF não foi localizada até 29/10.
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 1
+  relationships: 0
+  sources: 2
+  evidence: 2
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-defesa-vorcaro-2026-10-26-analise-preliminar-forense-celular
+  - src-poder360-2026-10-29-defesa-faz-pericia-em-hd-de-celular-de-vorcaro
+  - doc-2026-10-26-defesa-vorcaro-analise-preliminar-forense-celular
+  - ev-defesa-vorcaro-2026-10-26-laudo-preliminar-aponta-lacunas-de-custodia
+  - ev-defesa-vorcaro-2026-10-26-perito-nao-prova-adulteracao-nem-autoria
+  - evt-2026-10-26-defesa-de-vorcaro-apresenta-analise-tecnica-preliminar-sobre-extracao-do-celular
+  - ev-disputa-pelo-hd-lacrado-do-celular-de-vorcaro-entre-ministros
+reason: "Documento de parte em PDF primário (hospedado pelo Poder360) e reportagem do Poder360. Evidências e
+  evento em classe D, porque provam só que a defesa produziu a análise e o que ela afirma; status unverified,
+  porque o mérito é alegação. Segunda apuração jornalística independente não localizada (só republicações, não
+  citadas). Contraditório: versão da defesa; PF e STF não localizados. Ficaram de fora o conteúdo de
+  mensagens, terceiros, identificadores de aparelho, lacres e hashes, nomes de agentes da PF, horários finos,
+  a tese jurídica, a contagem de imagens e bancos de dados e o número do laudo da PF."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-29

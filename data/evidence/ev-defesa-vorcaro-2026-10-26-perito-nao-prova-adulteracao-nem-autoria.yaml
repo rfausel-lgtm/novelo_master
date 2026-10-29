@@ -1,0 +1,24 @@
+id: ev-defesa-vorcaro-2026-10-26-perito-nao-prova-adulteracao-nem-autoria
+kind: evidence
+classification: D
+proposition: O próprio assistente técnico da defesa escreve que não é tecnicamente possível atribuir as
+  alterações registradas a uma ação humana deliberada, embora isso tampouco autorize classificá-las como
+  automáticas ou inofensivas, que suas conclusões não implicam juízo sobre autoria,
+  que a diferença entre versões do IPED “não indica, por si, erro ou adulteração”, que o teste em que editou um
+  relatório UFDR foi feito em arquivo público de treinamento e não demonstra alteração do relatório deste
+  caso, e que o hash do arquivo recebido coincide com o consignado no laudo da PF; segundo o Poder360, o laudo
+  não comprova que o material tenha sido adulterado.
+document_ids:
+  - doc-2026-10-26-defesa-vorcaro-analise-preliminar-forense-celular
+source_ids:
+  - src-defesa-vorcaro-2026-10-26-analise-preliminar-forense-celular
+  - src-poder360-2026-10-29-defesa-faz-pericia-em-hd-de-celular-de-vorcaro
+excerpt: A diferença entre versões não indica, por si, erro ou adulteração.
+locator: Análise Preliminar, p. 71-75 (conclusão)
+attributed_to: Assistente técnico da defesa de Daniel Vorcaro (Marcos Monteiro), em análise de 26/10/2026
+date: 2026-10-26
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-29
+created_at: 2026-10-29
+updated_at: 2026-10-29

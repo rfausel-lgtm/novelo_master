@@ -1,0 +1,66 @@
+id: evt-2026-10-26-defesa-de-vorcaro-apresenta-analise-tecnica-preliminar-sobre-extracao-do-celular
+kind: event
+title: Defesa de Vorcaro apresenta análise técnica preliminar sobre a extração do celular (alegação da defesa)
+event_type: statement
+date: 2026-10-26
+date_precision: day
+participant_ids:
+  - daniel-vorcaro
+  - policia-federal
+  - supremo-tribunal-federal
+description: O assistente técnico contratado pela defesa de Daniel Vorcaro, Marcos Monteiro, entregou em
+  26/10/2026 uma análise preliminar de 76 páginas sobre o HD que a equipe de defesa lhe entregou com os arquivos da extração do celular apreendido em
+  17/11/2025 (arquivos fornecidos pelo STF, segundo o Poder360, que divulgou o documento em 29/10). Segundo o
+  assistente técnico da defesa, o material recebido não inclui os arquivos brutos da coleta e por isso não
+  permite verificar a integridade e a integralidade da extração; o laudo da PF não informa a versão da
+  ferramenta GrayKey; o termo de apreensão não descreve elementos de identificação dos aparelhos nem os lacres, e o rompimento dos lacres originais ocorreu “em momento não documentado”; os registros do relatório indicam alteração do
+  estado do aparelho entre a noite de 17/11 e a madrugada de 18/11/2025; e há 657 arquivos com modificação em
+  18/11/2025 e 999 entre 18/11/2025 e 14/05/2026 (os 657 estão entre os 999), além de 94 imagens HEIC com
+  registro de criação posterior à apreensão. No mesmo documento, o perito escreve que não é tecnicamente
+  possível atribuir essas alterações a uma ação humana deliberada (o que, para ele, tampouco autoriza
+  classificá-las como automáticas ou inofensivas), que suas conclusões não implicam juízo
+  sobre autoria e que o teste em que editou um relatório UFDR foi feito em arquivo de treinamento e não
+  demonstra alteração do relatório deste caso; segundo o Poder360, o laudo não comprova que o material tenha
+  sido adulterado. A defesa pede a cópia
+  integral dos dados extraídos, os registros e logs do GrayKey, o método de desbloqueio e a documentação da
+  cadeia de custódia. Tudo é alegação da defesa; não foi localizada manifestação da PF nem do STF sobre a
+  análise. O HD examinado não se confunde com a cópia de segurança lacrada no STF, objeto da disputa
+  registrada no acervo em setembro de 2026.
+evidence_class: D
+status: unverified
+evidence_ids:
+  - ev-defesa-vorcaro-2026-10-26-laudo-preliminar-aponta-lacunas-de-custodia
+  - ev-defesa-vorcaro-2026-10-26-perito-nao-prova-adulteracao-nem-autoria
+source_ids:
+  - src-defesa-vorcaro-2026-10-26-analise-preliminar-forense-celular
+  - src-poder360-2026-10-29-defesa-faz-pericia-em-hd-de-celular-de-vorcaro
+document_ids:
+  - doc-2026-10-26-defesa-vorcaro-analise-preliminar-forense-celular
+cited_position:
+  - kind: version
+    by_id: daniel-vorcaro
+    date: 2026-10-26
+    summary: "Pela defesa, por meio do assistente técnico: o material recebido do STF não permite verificar a
+      integridade e a integralidade da extração e há registros de arquivos criados e modificados após a
+      apreensão; pede os dados brutos, os logs do GrayKey e a documentação da cadeia de custódia. O próprio
+      perito ressalva que não atribui as alterações a ação humana deliberada nem faz juízo sobre autoria."
+    source_ids:
+      - src-defesa-vorcaro-2026-10-26-analise-preliminar-forense-celular
+      - src-poder360-2026-10-29-defesa-faz-pericia-em-hd-de-celular-de-vorcaro
+  - kind: not_located
+    by_id: policia-federal
+    date: 2026-10-29
+    summary: "Manifestação da PF sobre a análise da defesa não localizada em 29/10/2026: a matéria do Poder360 não
+      traz resposta da PF; três buscas na web (laudo da defesa, cadeia de custódia, resposta da PF ao
+      assistente técnico, GrayKey) e buscas no cache de fontes do acervo não acharam nota nem manifestação."
+  - kind: not_located
+    by_id: supremo-tribunal-federal
+    date: 2026-10-29
+    summary: "Manifestação ou decisão do STF sobre a análise da defesa não localizada em 29/10/2026: a matéria do
+      Poder360 não registra; as mesmas buscas na web e no cache de fontes do acervo não acharam despacho nem
+      nota."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-29
+created_at: 2026-10-29
+updated_at: 2026-10-29
