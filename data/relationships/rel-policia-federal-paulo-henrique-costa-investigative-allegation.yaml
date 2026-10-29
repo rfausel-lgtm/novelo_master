@@ -1,0 +1,35 @@
+id: rel-policia-federal-paulo-henrique-costa-investigative-allegation
+kind: relationship
+from_id: policia-federal
+to_id: paulo-henrique-costa
+relationship_type: investigative_allegation
+directed: true
+label: indiciado pela PF em relatório parcial do Inq 5026 (28/10/2026)
+start_date: 2026-10-28
+description: Segundo o relatório parcial da PF de 28/10/2026 no Inq 5026/STF, Paulo Henrique Costa,
+  ex-presidente do BRB, está entre os 15 indiciados. A PF lhe atribui a articulação institucional e o comando
+  das operações no âmbito do BRB (p. 532). Indiciamento não é denúncia nem condenação; o relatório é parcial e
+  a PF pediu mais 60 dias.
+evidence_class: A
+confidence: 0.8
+status: unverified
+event_ids:
+  - evt-2026-10-28-pf-relatorio-parcial-inq-5026-indicia-15
+evidence_ids:
+  - ev-pf-2026-10-28-relatorio-parcial-inq-5026
+source_ids:
+  - src-pf-2026-10-28-relatorio-parcial-inq-5026-indiciamento
+document_ids:
+  - doc-2026-10-28-pf-relatorio-parcial-inq-5026-indiciamento
+cited_position:
+  - kind: not_located
+    by_id: paulo-henrique-costa
+    date: 2026-10-29
+    summary: Nenhuma manifestação da defesa sobre o relatório de 28/10 foi localizada. Busca em 29/10/2026 nas
+      páginas das fontes do lote, em duas buscas na web e no cache de fontes do acervo. As posições anteriores
+      na ficha dele tratam da prisão e da delação, não deste relatório.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-29
+created_at: 2026-10-29
+updated_at: 2026-10-29

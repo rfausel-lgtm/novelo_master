@@ -1,0 +1,43 @@
+id: rel-policia-federal-daniel-vorcaro-investigative-allegation
+kind: relationship
+from_id: policia-federal
+to_id: daniel-vorcaro
+relationship_type: investigative_allegation
+directed: true
+label: indiciado pela PF em relatório parcial do Inq 5026 (28/10/2026)
+start_date: 2026-10-28
+description: Segundo o relatório parcial da PF de 28/10/2026 no Inq 5026/STF, Daniel Vorcaro, ex-controlador
+  do Banco Master, está entre os 15 indiciados. A PF o descreve como "principal centro de comando, coordenação
+  e decisão" da estrutura que investiga (p. 531). A defesa responde que o indiciamento é "frágil e absurdo" e
+  pede o arquivamento. Indiciamento não é denúncia nem condenação; o relatório é parcial e a PF pediu mais 60
+  dias.
+evidence_class: A
+confidence: 0.8
+status: unverified
+event_ids:
+  - evt-2026-10-28-pf-relatorio-parcial-inq-5026-indicia-15
+evidence_ids:
+  - ev-pf-2026-10-28-relatorio-parcial-inq-5026
+  - ev-defesa-vorcaro-2026-10-28-nota-indiciamento
+source_ids:
+  - src-pf-2026-10-28-relatorio-parcial-inq-5026-indiciamento
+  - src-cnn-2026-10-28-vorcaro-diz-que-indiciamento-e-fragil-e-absurdo
+  - src-poder360-2026-10-28-defesa-chama-indiciamento-de-vorcaro-de-fragil-e-absurdo
+document_ids:
+  - doc-2026-10-28-pf-relatorio-parcial-inq-5026-indiciamento
+cited_position:
+  - kind: version
+    by_id: daniel-vorcaro
+    date: 2026-10-28
+    summary: A defesa chama o indiciamento de açodado e afoito e de frágil e absurdo; diz que nenhuma perícia
+      oficial apurou prejuízo, que as carteiras foram substituídas por outros ativos e que a PF antecipa
+      conclusões que a própria investigação admite não ter alcançado. Pede o arquivamento do inquérito e a
+      revogação da prisão preventiva.
+    source_ids:
+      - src-cnn-2026-10-28-vorcaro-diz-que-indiciamento-e-fragil-e-absurdo
+      - src-poder360-2026-10-28-defesa-chama-indiciamento-de-vorcaro-de-fragil-e-absurdo
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-29
+created_at: 2026-10-29
+updated_at: 2026-10-29

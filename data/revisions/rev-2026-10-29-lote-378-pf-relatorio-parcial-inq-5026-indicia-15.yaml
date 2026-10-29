@@ -1,0 +1,54 @@
+id: rev-2026-10-29-lote-378-pf-relatorio-parcial-inq-5026-indicia-15
+kind: revision
+date: 2026-10-29
+title: Lote 378 — PF apresenta relatório parcial no Inq 5026/STF, indicia 15 pessoas e pede mais 60 dias
+summary: Registra o relatório parcial da Polícia Federal no Inq 5026/STF, datado de 28/10/2026 e assinado por
+  quatro delegados da PF. O relatório é parcial e a PF pediu mais 60 dias. Indiciamento não é denúncia nem
+  condenação, e o acervo não registra, até 29/10, decisão do STF sobre o pedido nem manifestação da PGR.
+  Segundo a PF, foram indiciadas 15 pessoas (seis ligadas ao Banco Master, seis dirigentes do BRB, duas
+  ligadas à Tirreno e um advogado), e ao menos R$ 12,2 bilhões em créditos cedidos ao BRB não tiveram a
+  existência comprovada. A defesa de Daniel Vorcaro chama o indiciamento de frágil e absurdo e pede o
+  arquivamento. O lote liga a PF a 11 pessoas já registradas e atualiza a ficha de Diogo Ilário de Araújo
+  Oliveira.
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 1
+  relationships: 11
+  sources: 5
+  evidence: 2
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-pf-2026-10-28-relatorio-parcial-inq-5026-indiciamento
+  - src-cnn-2026-10-28-pf-indicia-vorcaro-ex-presidente-brb
+  - src-poder360-2026-10-29-saiba-quem-sao-os-15-indiciados
+  - src-cnn-2026-10-28-vorcaro-diz-que-indiciamento-e-fragil-e-absurdo
+  - src-poder360-2026-10-28-defesa-chama-indiciamento-de-vorcaro-de-fragil-e-absurdo
+  - doc-2026-10-28-pf-relatorio-parcial-inq-5026-indiciamento
+  - ev-pf-2026-10-28-relatorio-parcial-inq-5026
+  - ev-defesa-vorcaro-2026-10-28-nota-indiciamento
+  - evt-2026-10-28-pf-relatorio-parcial-inq-5026-indicia-15
+  - rel-policia-federal-daniel-vorcaro-investigative-allegation
+  - rel-policia-federal-paulo-henrique-costa-investigative-allegation
+  - rel-policia-federal-augusto-lima-investigative-allegation
+  - rel-policia-federal-angelo-ribeiro-da-silva-investigative-allegation
+  - rel-policia-federal-luiz-bull-investigative-allegation
+  - rel-policia-federal-alberto-felix-oliveira-investigative-allegation
+  - rel-policia-federal-henrique-peretto-investigative-allegation
+  - rel-policia-federal-andre-seixas-maia-investigative-allegation
+  - rel-policia-federal-daniel-lopes-monteiro-investigative-allegation
+  - rel-policia-federal-dario-oswaldo-garcia-junior-investigative-allegation
+  - rel-policia-federal-diogo-ilario-de-araujo-oliveira-investigative-allegation
+  - diogo-ilario-de-araujo-oliveira
+reason: Documento primário obtido (PDF integral, hospedado pelo Poder360; sem hash oficial). Relações em
+  classe A, porque registram só a alegação da PF; evento e documento em classe D, pelo que o relatório diz e
+  pede. Contraditório de Vorcaro pela nota de 28/10; das demais pessoas, do BRB, do Master e da Tirreno, não localizado na busca de
+  29/10. Quatro indiciados sem registro e sem papel público próprio entram só na contagem, sem nome. Ficaram
+  de fora os detalhes das operações, as perdas estimadas, as mensagens de celular, terceiros e testemunhas, as
+  oitivas e os nomes dos delegados.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-29

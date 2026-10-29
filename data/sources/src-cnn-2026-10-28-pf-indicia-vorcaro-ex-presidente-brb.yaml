@@ -1,0 +1,25 @@
+id: src-cnn-2026-10-28-pf-indicia-vorcaro-ex-presidente-brb
+kind: source
+title: CNN Brasil — PF indicia Vorcaro e ex-presidente do BRB no caso Master
+publisher: CNN Brasil
+author: Fernanda Fonseca
+publication_date: 2026-10-28
+retrieved_at: 2026-10-29
+url: https://www.cnnbrasil.com.br/politica/pf-indicia-vorcaro-e-ex-presidente-do-brb-por-fraudes-no-caso-master/
+source_type: press
+summary: Informa que a PF indiciou Daniel Vorcaro, Paulo Henrique Costa e outras 13 pessoas em relatório
+  parcial de mais de 700 páginas encaminhado ao STF em 28/10/2026, e que a PF pediu mais 60 dias. Cita trechos
+  do relatório.
+notes: Publicada às 16h54 de 28/10 e atualizada em 29/10. Descreve o mesmo relatório, sem apuração própria
+  declarada além do PDF; vale para o envio ao STF, não como corroboração do conteúdo. Hash do texto
+  ac87a00169476dfd...
+verification:
+  checked_at: 2026-10-29
+  checked_by: investigador e redator do lote 378 (cache lote:fonte)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-29
+created_at: 2026-10-29
+updated_at: 2026-10-29

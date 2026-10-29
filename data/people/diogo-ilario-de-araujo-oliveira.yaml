@@ -1,31 +1,32 @@
 id: diogo-ilario-de-araujo-oliveira
 kind: person
-category: other
+category: executive
 name: Diogo Ilário de Araújo Oliveira
-role: Papel no INQ 5.026 não identificado — prestou informações sobre o estado de saúde de um investigado
-summary: Citado em despacho de 28/08/2026 no INQ 5.026 — a autoridade policial foi intimada a tomar
-  ciência de informações prestadas por ele e de documentos sobre "o estado de saúde do investigado" (e-Doc.
-  1021-1024). A capa do processo lista todas as partes como "sob sigilo", e o despacho não identifica quem
-  é o investigado nem qual é o papel de Diogo Ilário (médico, advogado, familiar, ou o próprio investigado
-  falando de si). O ofício nº 20476/2026 que comunica esse despacho foi endereçado à Delegada Janaina
-  Pereira Lima Palazzo, da Delegacia de Inquéritos Especiais (DELEINQUE/DRPJ/SR/PF/DF) — a autoridade
-  policial responsável por essa linha do INQ 5.026, antes não identificada.
-why_in_novelo: Nome novo no acervo, ligado a uma peça recente do INQ 5.026 sobre estado de saúde de um
-  investigado não identificado — registrado por transparência, sem tentar adivinhar de quem se trata.
+role: Diretor Executivo de Atacado e Governo do BRB à época das aquisições de carteiras do Master, segundo
+  a PF; indiciado em relatório parcial do Inq 5026 (28/10/2026)
+summary: Segundo o relatório parcial da PF de 28/10/2026 no Inq 5026/STF, era então Diretor Executivo de
+  Atacado e Governo do BRB e membro da Diretoria Colegiada do banco (p. 694). Está entre os 15 indiciados
+  desse relatório. O relatório é parcial e a PF pediu mais 60 dias. Indiciamento é ato da polícia; não é
+  denúncia nem condenação. Seu nome também aparece em despacho de 28/08/2026 no mesmo inquérito, que se
+  refere a informações prestadas por ele; o ofício que comunica esse despacho foi endereçado à delegada
+  Janaina Pereira Lima Palazzo, da Delegacia de Inquéritos Especiais (DELEINQUE/DRPJ/SR/PF/DF).
+why_in_novelo: Dirigente do BRB indiciado pela PF no relatório parcial de 28/10/2026 sobre as aquisições de
+  carteiras do Banco Master.
 cited_position:
 - kind: not_located
-  summary: Nenhuma manifestação pública dele foi localizada no corpus.
+  by_id: diogo-ilario-de-araujo-oliveira
+  date: '2026-10-29'
+  summary: Nenhuma manifestação dele ou da defesa sobre o relatório de 28/10 foi localizada. Busca em
+    29/10/2026 nas páginas das fontes do lote 378, em duas buscas na web e no cache de fontes do acervo.
 open_questions:
-- 'Identidade e papel não estabelecidos — não se sabe se é médico, advogado, familiar, ou o próprio
-  investigado. Não se sabe também quem é "o investigado" cujo estado de saúde está em questão: nenhuma
-  outra peça do acervo, até esta apuração, trata de questão de saúde de qualquer investigado do INQ 5.026.'
+- Não se confirmou que o Diogo Ilário citado no despacho de 28/08/2026 é a mesma pessoa identificada pela PF
+  no relatório de 28/10/2026; a ligação se apoia só no nome completo.
 source_ids:
+- src-pf-2026-10-28-relatorio-parcial-inq-5026-indiciamento
 - src-stf-inq5026-despacho-28-08-2026-diogo-ilario-saude-investigado
 - src-stf-inq5026-oficio-20476-2026-delegada-palazzo
-isolation_reason: Seu papel no INQ 5.026 não está identificado nas peças lidas; ligá-lo a qualquer
-  entidade seria adivinhar.
 review_status: published
 reviewer: orquestrador
-reviewed_at: '2026-09-12'
+reviewed_at: '2026-10-29'
 created_at: '2026-09-12'
-updated_at: '2026-09-13'
+updated_at: '2026-10-29'
