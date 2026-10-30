@@ -1,0 +1,113 @@
+id: evt-2026-10-15-vorcaro-presta-depoimento-a-pf-sobre-as-operacoes-master-brb
+kind: event
+title: Vorcaro presta depoimento à PF sobre as operações Master–BRB e nega irregularidade; vídeo é divulgado
+  em 29/10
+event_type: investigation_step
+date: 2026-10-15
+date_precision: day
+location: Brasília, na unidade onde Vorcaro está preso
+participant_ids:
+  - daniel-vorcaro
+  - policia-federal
+  - banco-de-brasilia-brb
+  - banco-master
+  - paulo-henrique-costa
+  - tirreno
+description: 'Daniel Vorcaro, investigado e preso preventivamente, prestou depoimento à PF em 15/10/2026, uma
+  quinta-feira, presencialmente, na unidade onde está preso, sobre as operações entre o Banco Master e o BRB.
+  Um vídeo de 2h28 do depoimento foi divulgado pelo Poder360 em 29/10, que diz tê-lo tornado público e
+  encaminhado ao STF. O que segue é alegação de Vorcaro, atribuída. Segundo a CNN Brasil e o Poder360, ele
+  negou irregularidade ("Fraude não teve", na transcrição da CNN), disse que "A crise do BRB não foi causada
+  por mim" e a atribuiu à liquidação do Master e à sua prisão, citando saques de R$ 9 bilhões. Disse que nem o
+  BRB nem clientes perderam dinheiro, que as carteiras questionadas foram substituídas por outros ativos e,
+  com a analogia de uma promessa de compra de casa, que a negociação original não se concluiu. Segundo a CNN,
+  reconheceu problemas com carteiras ligadas à Tirreno. Pediu perícia independente, o arquivamento do caso e a
+  soltura. Sobre imóveis de cerca de R$ 146 milhões, disse que seriam para moradia de Paulo Henrique Costa se
+  a fusão ocorresse ("Eu não prometi imóvel para ele"); segundo a CNN, que seriam cedidos em comodato; segundo
+  o Poder360, que a reorganização não se concluiu e que Costa nunca morou neles. A posição da PF tem o mesmo
+  peso: segundo o Poder360, a delegada contestou que a troca posterior de ativos afaste a necessidade de
+  apurar a negociação original; no relatório parcial de 28/10/2026, já registrado no acervo, a PF indiciou
+  Vorcaro, Costa e outras pessoas. Indiciamento não é denúncia nem condenação. A defesa de Vorcaro, em nota de
+  15/10, sustentou que não houve prejuízo ao BRB e pediu o arquivamento e a revogação da prisão. Data: a CNN
+  escreve 15 de setembro; Poder360, Rádio Itatiaia e Correio da Manhã informam 15/10/2026, data registrada
+  aqui.'
+evidence_class: A
+status: unverified
+evidence_ids:
+  - ev-poder360-2026-10-29-video-depoimento-vorcaro-pf
+  - ev-cnn-2026-10-30-vorcaro-nega-a-pf-irregularidade-nas-operacoes-com-o-brb
+  - ev-defesa-vorcaro-2026-10-15-nota-apos-depoimento-a-pf
+source_ids:
+  - src-poder360-2026-10-29-video-do-depoimento-de-vorcaro-a-pf
+  - src-poder360-2026-10-30-vorcaro-nega-a-pf-promessa-de-imoveis-a-ex-presidente-do-brb
+  - src-poder360-2026-10-29-vorcaro-culpa-investigacao-por-crise-no-brb-e-nega-prejuizo
+  - src-poder360-2026-10-29-vorcaro-compara-negociacao-com-o-brb-a-compra-de-uma-casa
+  - src-cnn-2026-10-30-depoimento-de-vorcaro-a-pf-sobre-as-operacoes-com-o-brb
+  - src-itatiaia-2026-10-15-vorcaro-depoe-a-pf-e-pede-pericia-e-soltura
+  - src-correio-da-manha-2026-10-16-vorcaro-volta-a-negar-prejuizos-ao-brb
+  - src-cnn-2026-10-28-pf-indicia-vorcaro-ex-presidente-brb
+document_ids:
+  - doc-2026-10-15-video-depoimento-vorcaro-pf-divulgado-pelo-poder360
+cited_position:
+  - kind: version
+    by_id: daniel-vorcaro
+    date: 2026-10-15
+    summary: Em nota divulgada após a oitiva, a defesa sustentou que não houve prejuízo ao BRB, que o negócio com
+      as carteiras não se concluiu e que a crise do banco decorreu da deflagração "açodada" da Operação
+      Compliance Zero, e pediu o arquivamento e a revogação da prisão preventiva.
+    source_ids:
+      - src-itatiaia-2026-10-15-vorcaro-depoe-a-pf-e-pede-pericia-e-soltura
+  - kind: version
+    by_id: policia-federal
+    date: 2026-10-15
+    summary: Segundo o Poder360, a delegada contestou no depoimento que a troca posterior de ativos afaste a
+      necessidade de apurar a negociação original de carteiras, e contestou a comparação com a compra de uma
+      casa.
+    source_ids:
+      - src-poder360-2026-10-29-vorcaro-culpa-investigacao-por-crise-no-brb-e-nega-prejuizo
+      - src-poder360-2026-10-29-vorcaro-compara-negociacao-com-o-brb-a-compra-de-uma-casa
+  - kind: version
+    by_id: policia-federal
+    date: 2026-10-28
+    summary: No relatório parcial de 28/10/2026, já registrado no acervo, a PF indiciou Vorcaro, Paulo Henrique
+      Costa e outras pessoas; indiciamento não é denúncia nem condenação.
+    source_ids:
+      - src-cnn-2026-10-28-pf-indicia-vorcaro-ex-presidente-brb
+  - kind: version
+    by_id: paulo-henrique-costa
+    date: 2026-10-15
+    summary: Segundo o Correio da Manhã, Costa foi ouvido pela PF no mesmo dia, horas antes de Vorcaro, e negou
+      prejuízos na operação entre o Master e o BRB. Segundo a CNN, em depoimento próprio, sem data informada,
+      afirmou que o BRB "não tinha a menor ideia" do que é apurado nas operações com o Master.
+    source_ids:
+      - src-correio-da-manha-2026-10-16-vorcaro-volta-a-negar-prejuizos-ao-brb
+      - src-cnn-2026-10-30-depoimento-de-vorcaro-a-pf-sobre-as-operacoes-com-o-brb
+  - kind: not_located
+    by_id: paulo-henrique-costa
+    date: 2026-10-30
+    summary: Sobre a fala de Vorcaro a respeito dos imóveis, a defesa de Costa foi consultada pelo Poder360 e não
+      respondeu até a publicação. Nenhuma manifestação foi localizada em busca na web em 30/10/2026 nem nas
+      páginas das fontes do lote.
+    source_ids:
+      - src-poder360-2026-10-30-vorcaro-nega-a-pf-promessa-de-imoveis-a-ex-presidente-do-brb
+  - kind: not_located
+    by_id: banco-de-brasilia-brb
+    date: 2026-10-30
+    summary: Nenhuma nota do BRB sobre o depoimento foi localizada. Busca em 30/10/2026 nas páginas das fontes do
+      lote, em busca na web e no cache de fontes do acervo.
+  - kind: not_located
+    by_id: banco-master
+    date: 2026-10-30
+    summary: Nenhuma manifestação do Banco Master ou de seus representantes sobre o depoimento foi localizada,
+      além da defesa de Vorcaro. Busca em 30/10/2026 nas páginas das fontes do lote e no cache de fontes do
+      acervo.
+  - kind: not_located
+    by_id: tirreno
+    date: 2026-10-30
+    summary: Nenhuma manifestação da Tirreno ou de seus representantes sobre o depoimento foi localizada. Busca em
+      30/10/2026 nas páginas das fontes do lote e no cache de fontes do acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-30
+created_at: 2026-10-30
+updated_at: 2026-10-30

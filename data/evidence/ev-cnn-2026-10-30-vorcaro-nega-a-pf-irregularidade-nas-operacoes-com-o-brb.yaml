@@ -1,0 +1,23 @@
+id: ev-cnn-2026-10-30-vorcaro-nega-a-pf-irregularidade-nas-operacoes-com-o-brb
+kind: evidence
+classification: A
+proposition: Segundo a CNN Brasil, Vorcaro disse à PF "Fraude não teve", afirmou que nem o BRB nem clientes
+  perderam dinheiro, atribuiu a crise do BRB à liquidação do Master e às investigações, pediu perícia por
+  empresa estrangeira e o arquivamento, reconheceu problemas com carteiras ligadas à Tirreno e disse que os
+  imóveis seriam para moradia de Paulo Henrique Costa se a fusão ocorresse; segundo a CNN, disse também que
+  seriam cedidos em comodato, sem transferência de propriedade.
+source_ids:
+  - src-cnn-2026-10-30-depoimento-de-vorcaro-a-pf-sobre-as-operacoes-com-o-brb
+excerpt: Faça uma perícia com uma empresa de fora, não brasileira.
+attributed_to_id: daniel-vorcaro
+attributed_to: Daniel Vorcaro, em depoimento à PF, segundo a CNN Brasil
+date: 2026-10-15
+notes: 'Alegação do investigado; status unverified. Divergência de data: a CNN escreve que a oitiva foi em 15
+  de setembro (subtítulo e corpo); Poder360, Rádio Itatiaia e Correio da Manhã informam 15/10/2026, data
+  registrada. A oitiva antes marcada para 15/09 está em outro evento do acervo. "Comodato" é termo da CNN, não
+  aspa de Vorcaro; o Poder360 não o usa.'
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-30
+created_at: 2026-10-30
+updated_at: 2026-10-30

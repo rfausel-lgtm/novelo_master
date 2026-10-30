@@ -1,0 +1,19 @@
+id: ev-defesa-vorcaro-2026-10-15-nota-apos-depoimento-a-pf
+kind: evidence
+classification: A
+proposition: Em nota divulgada após o depoimento de 15/10/2026, segundo a Rádio Itatiaia, a defesa de Vorcaro
+  sustentou que não houve prejuízo ao BRB, que o negócio com as carteiras não se concluiu e que a crise do
+  banco decorreu da deflagração "açodada" da Operação Compliance Zero, e pediu o arquivamento e a revogação da
+  prisão preventiva.
+source_ids:
+  - src-itatiaia-2026-10-15-vorcaro-depoe-a-pf-e-pede-pericia-e-soltura
+excerpt: açodada
+attributed_to_id: daniel-vorcaro
+attributed_to: Defesa de Daniel Vorcaro (nota de 15/10/2026, reproduzida pela Rádio Itatiaia)
+date: 2026-10-15
+notes: Versão da defesa; status unverified.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-30
+created_at: 2026-10-30
+updated_at: 2026-10-30

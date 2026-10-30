@@ -1,0 +1,27 @@
+id: doc-2026-10-15-video-depoimento-vorcaro-pf-divulgado-pelo-poder360
+kind: document
+title: Vídeo do depoimento de Daniel Vorcaro à PF em 15/10/2026 (2h28min08s), divulgado pelo Poder360
+doc_type: testimony
+date: 2026-10-15
+date_precision: day
+issuer: Polícia Federal (oitiva); vídeo hospedado pelo Poder360
+url: https://www.poder360.com.br/poder-justica/assista-a-integra-do-depoimento-de-vorcaro-a-pf/
+source_ids:
+  - src-poder360-2026-10-29-video-do-depoimento-de-vorcaro-a-pf
+summary: "Vídeo de 2h28min08s do depoimento de Daniel Vorcaro, investigado, à PF em 15/10/2026, divulgado pelo
+  Poder360 em 29/10/2026, que diz tê-lo tornado público e encaminhado ao STF. Nele Vorcaro é questionado sobre
+  as operações de crédito entre o Banco Master e o BRB e sobre imóveis oferecidos a Paulo Henrique Costa; o
+  que ele diz é alegação dele. Cópia hospedada por veículo, sem termo de depoimento nem número de procedimento
+  localizados: a conferência em fonte oficial está pendente e o conteúdo segue não verificado."
+is_official: false
+related_entity_ids:
+  - daniel-vorcaro
+  - policia-federal
+  - paulo-henrique-costa
+  - banco-de-brasilia-brb
+  - banco-master
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-30
+created_at: 2026-10-30
+updated_at: 2026-10-30
