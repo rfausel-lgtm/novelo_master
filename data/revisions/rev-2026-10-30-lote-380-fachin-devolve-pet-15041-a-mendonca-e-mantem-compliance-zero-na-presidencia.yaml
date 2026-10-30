@@ -1,0 +1,37 @@
+id: rev-2026-10-30-lote-380-fachin-devolve-pet-15041-a-mendonca-e-mantem-compliance-zero-na-presidencia
+kind: revision
+date: 2026-10-30
+title: "Lote 380 — Decisão de 29/10/2026 na PET 16.704: Fachin devolve a Mendonça os autos da Operação Sem
+  Desconto e mantém provisoriamente na Presidência os da Compliance Zero"
+summary: "Registra a decisão do Presidente do STF de 29/10/2026 na PET 16.704: devolução ao relator originário
+  dos autos da Operação Sem Desconto, manutenção provisória dos da Compliance Zero por até 90 dias contados de
+  12/09/2026, limites da competência transitória da Presidência, eventos de reavaliação e referendo do
+  Plenário. A decisão declara que não reconhece de forma definitiva competência, prevenção ou conexão nem
+  antecipa juízo sobre o mérito, e que não é juízo sobre a representação pendente do Plenário. Cópia divulgada
+  pelo Poder360, ainda não conferida no portal do STF: status unverified."
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 1
+  relationships: 0
+  sources: 3
+  evidence: 3
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-stf-pet16704-decisao-29-10-2026-devolve-pet15041-mantem-compliance-zero
+  - src-poder360-2026-10-30-fachin-devolve-investigacao-dos-descontos-do-inss-a-mendonca
+  - src-metropoles-2026-10-29-fachin-devolve-inss-a-mendonca-e-mantem-caso-master
+  - doc-2026-10-29-decisao-fachin-pet-16704-devolve-pet-15041-e-mantem-compliance-zero
+  - evt-2026-10-29-fachin-devolve-a-mendonca-os-autos-da-pet-15041-e-mantem-provisoriamente-na-presidencia-os-da-compliance-zero
+  - ev-fachin-devolve-pet15041-a-mendonca-em-29-10-2026
+  - ev-fachin-mantem-compliance-zero-na-presidencia-por-ate-90-dias-e-limita-sua-competencia
+  - ev-decisao-de-29-10-nao-reconhece-competencia-nem-antecipa-merito
+  - ev-fachin-avoca-pet15041-e-pet15556-e-formaliza-substituicao-relatoria
+reason: Decisão de 29/10/2026 (PDF de 11 páginas) e matérias do Poder360 e do Metrópoles; registra o
+  desdobramento da remessa de 12/09/2026 e o prazo de 90 dias, que não estavam no acervo.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-30

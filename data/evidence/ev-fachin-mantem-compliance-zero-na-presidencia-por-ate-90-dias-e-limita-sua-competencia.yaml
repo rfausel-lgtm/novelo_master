@@ -1,0 +1,24 @@
+id: ev-fachin-mantem-compliance-zero-na-presidencia-por-ate-90-dias-e-limita-sua-competencia
+kind: evidence
+classification: D
+proposition: A mesma decisão mantém na Presidência do STF, em caráter excepcional e provisório, só os autos da
+  Compliance Zero remetidos em 12/09/2026, por no máximo 90 dias contados dessa data, com possibilidade de
+  reavaliação antecipada; limita a competência transitória da Presidência à conservação dos autos, à
+  regularidade da tramitação e às questões urgentes; e submete o ato ao referendo do Plenário.
+document_ids:
+  - doc-2026-10-29-decisao-fachin-pet-16704-devolve-pet-15041-e-mantem-compliance-zero
+source_ids:
+  - src-stf-pet16704-decisao-29-10-2026-devolve-pet15041-mantem-compliance-zero
+  - src-poder360-2026-10-30-fachin-devolve-investigacao-dos-descontos-do-inss-a-mendonca
+  - src-metropoles-2026-10-29-fachin-devolve-inss-a-mendonca-e-mantem-caso-master
+excerpt: pelo prazo máximo de 90 (noventa) dias, contado dessa data, ressalvada a possibilidade de reavaliação
+  antecipada
+locator: PET 16.704/DF, decisão de 29/10/2026, p. 10-11 (dispositivos II, III e V)
+attributed_to: Presidente do STF, Edson Fachin, decisão de 29/10/2026
+date: 2026-10-29
+notes: Status unverified até a conferência da cópia (divulgada pelo Poder360) no portal do STF.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-30
+created_at: 2026-10-30
+updated_at: 2026-10-30

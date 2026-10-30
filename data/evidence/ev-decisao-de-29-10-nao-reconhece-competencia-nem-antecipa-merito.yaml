@@ -1,0 +1,23 @@
+id: ev-decisao-de-29-10-nao-reconhece-competencia-nem-antecipa-merito
+kind: evidence
+classification: D
+proposition: A decisão de 29/10/2026 na PET 16.704 declara que não importa reconhecimento definitivo de
+  competência, prevenção ou conexão nem antecipação de juízo sobre o mérito dos procedimentos investigatórios,
+  e registra que o reexame da remessa não é juízo sobre a representação apresentada pelo ministro Alexandre de
+  Moraes, pendente de apreciação pelo Plenário, único órgão competente para deliberar sobre eventual
+  investigação.
+document_ids:
+  - doc-2026-10-29-decisao-fachin-pet-16704-devolve-pet-15041-e-mantem-compliance-zero
+source_ids:
+  - src-stf-pet16704-decisao-29-10-2026-devolve-pet15041-mantem-compliance-zero
+excerpt: não importa reconhecimento definitivo de competência, prevenção ou conexão, nem antecipação de juízo
+  sobre o mérito
+locator: PET 16.704/DF, decisão de 29/10/2026, p. 4 (representação) e p. 11 (ressalva final)
+attributed_to: Presidente do STF, Edson Fachin, decisão de 29/10/2026
+date: 2026-10-29
+notes: Status unverified até a conferência da cópia (divulgada pelo Poder360) no portal do STF.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-30
+created_at: 2026-10-30
+updated_at: 2026-10-30

@@ -1,0 +1,41 @@
+id: doc-2026-10-29-decisao-fachin-pet-16704-devolve-pet-15041-e-mantem-compliance-zero
+kind: document
+title: Decisão da Presidência do STF na PET 16.704 (29/10/2026), devolução dos autos da Operação Sem Desconto
+  e manutenção provisória dos da Compliance Zero
+doc_type: judicial_decision
+date: 2026-10-29
+date_precision: day
+issuer_id: edson-fachin
+issuer: Ministro Edson Fachin, Presidente do STF
+reference: PET 16.704/DF
+url: https://static.poder360.com.br/uploads/2026/10/Decisao-Fachin-INSS-29out2026.pdf
+source_ids:
+  - src-stf-pet16704-decisao-29-10-2026-devolve-pet15041-mantem-compliance-zero
+sha256: 44468401942ee183e1a0eb1ec3488977582d2b561b3fd305862ff62ebc7f7134
+is_official: true
+related_entity_ids:
+  - edson-fachin
+  - andre-mendonca
+  - supremo-tribunal-federal
+  - policia-federal
+  - ministerio-publico-federal
+  - operacao-sem-desconto
+summary: "Decisão de 11 páginas. Relata a remessa de 12/09/2026 (das PETs 15.041 e 15.556 à Presidência,
+  com a substituição da relatoria da PET 16.662), a questão de ordem de 15/09, cujo julgamento não terminou
+  por pedido de vista, e o pedido de manifestação da PGR sobre a competência para decidir os pedidos das duas
+  PETs. A partir do parecer da PGR, a Presidência reexamina a remessa quanto à conexão e, em seguida, quanto ao
+  alcance da competência funcional do Plenário e da Presidência; registra que a conclusão sobre a conexão não é
+  juízo sobre a representação apresentada pelo ministro Alexandre
+  de Moraes, pendente do Plenário, “único órgão competente”. Base legal indicada: art. 33, parágrafo único, da
+  LOMAN e arts. 5º e 13 do RISTF. Dispositivo: (I) devolve a Mendonça, relator originário, os autos da
+  Operação Sem Desconto; (II) mantém na Presidência, em caráter excepcional e provisório, só os da Compliance
+  Zero, por no máximo 90 dias contados de 12/09/2026; (III) limita a competência transitória da Presidência à
+  conservação dos autos, à regularidade da tramitação e às questões urgentes; (IV) prevê reavaliação ao
+  primeiro de quatro eventos; (V) submete a decisão ao referendo do Plenário. Declara que não importa
+  reconhecimento definitivo de competência, prevenção ou conexão nem antecipação de juízo sobre o mérito.
+  Determina à Secretaria a separação dos autos e dá ciência à PGR."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-30
+created_at: 2026-10-30
+updated_at: 2026-10-30

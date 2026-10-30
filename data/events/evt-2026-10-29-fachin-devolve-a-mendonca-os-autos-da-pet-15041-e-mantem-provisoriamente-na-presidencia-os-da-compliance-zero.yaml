@@ -1,0 +1,72 @@
+id: evt-2026-10-29-fachin-devolve-a-mendonca-os-autos-da-pet-15041-e-mantem-provisoriamente-na-presidencia-os-da-compliance-zero
+kind: event
+title: Fachin devolve a Mendonça os autos da Operação Sem Desconto e mantém provisoriamente na Presidência,
+  por até 90 dias, os da Compliance Zero
+event_type: judicial_decision
+date: 2026-10-29
+date_precision: day
+participant_ids:
+  - edson-fachin
+  - andre-mendonca
+  - supremo-tribunal-federal
+description: "Em 29/10/2026, na PET 16.704, o Presidente do STF, Edson Fachin, revisou a remessa à Presidência
+  feita em 12/09/2026. A decisão relata que, após a questão de ordem de 15/09 (cujo julgamento não terminou
+  por pedido de vista), a Presidência pediu manifestação da PGR sobre a competência para decidir os pedidos
+  das PETs 15.041 e 15.556, e que, a partir desse parecer, reexaminou a remessa quanto a um de seus dois
+  fundamentos, a conexão (o outro, o alcance da competência funcional do Plenário e da Presidência, é examinado
+  em seguida). A decisão registra que a conclusão sobre a conexão não é juízo sobre a representação apresentada pelo ministro Alexandre de Moraes,
+  que segue pendente de apreciação pelo Plenário, “único órgão competente”. No dispositivo, a Presidência (I)
+  devolve ao relator originário, André Mendonça, os autos dos procedimentos da Operação Sem Desconto (PET
+  15.041) remetidos em 12/09, por não se identificarem, “ao menos no presente momento”, elementos concretos e
+  suficientemente individualizados que justifiquem mantê-los na Presidência; (II) mantém na Presidência, “em caráter
+  excepcional e provisório”, só os autos da Compliance Zero, por no máximo 90 dias contados de 12/09/2026, com
+  possibilidade de reavaliação antecipada (a contagem simples leva a algo em torno de 11/12/2026, cálculo do
+  Novelo; a data não está na decisão); (III) nesse período, limita a competência da Presidência à conservação
+  dos autos, à regularidade da tramitação e às questões urgentes, em especial a “revisão periódica” da
+  necessidade de prisões preventivas, sem prejuízo da competência definitiva do Plenário; (IV) prevê
+  reavaliação imediata ao primeiro destes eventos: julgamento pelo Plenário das questões das PETs 16.662 e
+  16.704, fim do prazo regimental da vista na PET 16.662, fim dos 90 dias ou recebimento do relatório
+  detalhado pedido à Polícia Federal sobre menções a ministros no contexto das investigações do Banco Master,
+  se trouxer elementos relevantes; (V) submete a decisão ao referendo do Plenário, sem data informada, quando
+  a Presidência apresentará, se pertinente, proposta de desmembramento. Segundo a própria decisão, até o
+  Plenário definir o alcance da matéria não é possível desmembrar os autos da Compliance Zero. A decisão
+  declara que não importa reconhecimento definitivo de competência, prevenção ou conexão nem antecipação de
+  juízo sobre o mérito. A cópia usada foi divulgada pelo Poder360; em 30/10/2026 os andamentos públicos da PET
+  16.704 ainda não registravam o ato. O Novelo registra o ato processual, sem avaliar o mérito das
+  investigações nem as posições dos ministros."
+evidence_class: D
+status: unverified
+evidence_ids:
+  - ev-fachin-devolve-pet15041-a-mendonca-em-29-10-2026
+  - ev-fachin-mantem-compliance-zero-na-presidencia-por-ate-90-dias-e-limita-sua-competencia
+  - ev-decisao-de-29-10-nao-reconhece-competencia-nem-antecipa-merito
+source_ids:
+  - src-stf-pet16704-decisao-29-10-2026-devolve-pet15041-mantem-compliance-zero
+  - src-poder360-2026-10-30-fachin-devolve-investigacao-dos-descontos-do-inss-a-mendonca
+  - src-metropoles-2026-10-29-fachin-devolve-inss-a-mendonca-e-mantem-caso-master
+document_ids:
+  - doc-2026-10-29-decisao-fachin-pet-16704-devolve-pet-15041-e-mantem-compliance-zero
+cited_position:
+  - kind: version
+    by_id: edson-fachin
+    date: 2026-10-29
+    summary: "A posição da Presidência é a própria decisão: devolve os autos da Operação Sem Desconto por não
+      identificar, por ora, elementos concretos de conexão e mantém provisoriamente os da Compliance Zero, sem
+      reconhecer de forma definitiva competência, prevenção ou conexão nem antecipar juízo sobre o mérito."
+    source_ids:
+      - src-stf-pet16704-decisao-29-10-2026-devolve-pet15041-mantem-compliance-zero
+  - kind: not_located
+    by_id: andre-mendonca
+    date: 2026-10-30
+    summary: Manifestação do ministro André Mendonça sobre a devolução não localizada em 30/10/2026 (as matérias
+      do Poder360 e do Metrópoles não trazem fala dele; o portal do STF não tinha andamento sobre o ato).
+  - kind: not_located
+    by_id: policia-federal
+    date: 2026-10-30
+    summary: Manifestação pública da Polícia Federal sobre a decisão ou sobre o relatório detalhado pedido não
+      localizada em 30/10/2026 (busca nas matérias usadas e no noticiário do dia).
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-30
+created_at: 2026-10-30
+updated_at: 2026-10-30
