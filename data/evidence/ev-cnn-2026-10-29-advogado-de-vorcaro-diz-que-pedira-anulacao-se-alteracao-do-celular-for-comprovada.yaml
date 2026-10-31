@@ -1,0 +1,28 @@
+id: ev-cnn-2026-10-29-advogado-de-vorcaro-diz-que-pedira-anulacao-se-alteracao-do-celular-for-comprovada
+kind: evidence
+classification: A
+status: unverified
+proposition: Em entrevista à CNN, o advogado Sergio Leonardo, que lidera a defesa de Daniel Vorcaro, disse
+  que, se for comprovado que o celular foi alterado depois da apreensão, a defesa pedirá a anulação das provas
+  dele decorrentes e, se a prova for considerada ilícita, que o STF a retire dos autos; segundo a CNN, o
+  pedido feito em 29/10/2026 foi para acessar o material bruto em poder da PF e comparar com a análise do
+  perito contratado. A matéria resume, a partir de nota da defesa, os achados que a defesa destaca; não traz
+  resposta da PF nem do STF. A evidência prova apenas o que o advogado disse e pediu; o mérito é alegação da
+  defesa, e o perito escreve que não atribui as alterações a ação humana deliberada nem faz juízo sobre
+  autoria.
+document_ids:
+  - doc-2026-10-26-defesa-vorcaro-analise-preliminar-forense-celular
+source_ids:
+  - src-cnn-2026-10-29-laudo-sugere-provas-ilicitas-e-nulidade-processual-diz-advogado-de-vorcaro
+excerpt: Eu preciso dos dados brutos da extração.
+locator: CNN, entrevista (declarações entre aspas) e parágrafo "Na nota divulgada à imprensa"
+attributed_to: Sergio Leonardo (advogado de Daniel Vorcaro), à CNN, 29/10/2026
+date: 2026-10-29
+notes: Deve ser lida junto de ev-defesa-vorcaro-2026-10-26-perito-nao-prova-adulteracao-nem-autoria. A CNN
+  reproduz da nota da defesa formulações mais fortes que as do perito; o registro não as adota em voz própria.
+  A CNN não informa a quem o pedido de acesso foi dirigido.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-31
+created_at: 2026-10-31
+updated_at: 2026-10-31

@@ -1,0 +1,35 @@
+id: rev-2026-10-31-lote-382-advogado-de-vorcaro-detalha-a-cnn-o-pedido-de-dados-brutos-do-celular
+kind: revision
+date: 2026-10-31
+title: Advogado de Vorcaro detalha à CNN o pedido de dados brutos do celular (atualização do 379)
+summary: Atualiza o evento do lote 379 com a entrevista do advogado Sergio Leonardo, que lidera a defesa de
+  Daniel Vorcaro, à CNN (texto de 29/10/2026, atualizado em 30/10). Segundo a CNN, ele disse que, se ficar
+  comprovado que o celular foi alterado depois da apreensão, a defesa pedirá a anulação das provas dele
+  decorrentes, e que o pedido de 29/10 foi para acessar o material bruto em poder da PF e compará-lo com a
+  análise do perito contratado. São declarações da parte; o perito escreve que não atribui as alterações a
+  ação humana deliberada nem faz juízo sobre autoria, e, segundo o Poder360, o laudo não comprova adulteração.
+  Manifestação da PF e do STF não foi localizada até 31/10.
+added:
+  people: 0
+  organizations: 0
+  events: 0
+  documents: 0
+  relationships: 0
+  sources: 1
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-cnn-2026-10-29-laudo-sugere-provas-ilicitas-e-nulidade-processual-diz-advogado-de-vorcaro
+  - ev-cnn-2026-10-29-advogado-de-vorcaro-diz-que-pedira-anulacao-se-alteracao-do-celular-for-comprovada
+  - evt-2026-10-26-defesa-de-vorcaro-apresenta-analise-tecnica-preliminar-sobre-extracao-do-celular
+reason: Reportagem assinada com entrevista própria, que acrescenta ao 379 a fala atribuída do advogado e a
+  data e a finalidade do pedido de acesso aos dados brutos; não é segunda fonte do mérito pericial. Evidência
+  nova em classe A e unverified, evento mantido em classe D e unverified. Contraditório - versão da defesa
+  registrada; PF e STF não localizados em 31/10, com as buscas descritas no evento. Ficaram de fora a tese
+  jurídica além de uma frase atribuída, as formulações mais fortes da nota da defesa, o destinatário do pedido
+  (a CNN não informa) e o verbete do advogado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-10-31

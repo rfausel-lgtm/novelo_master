@@ -25,15 +25,28 @@ description: O assistente técnico contratado pela defesa de Daniel Vorcaro, Mar
   integral dos dados extraídos, os registros e logs do GrayKey, o método de desbloqueio e a documentação da
   cadeia de custódia. Tudo é alegação da defesa; não foi localizada manifestação da PF nem do STF sobre a
   análise. O HD examinado não se confunde com a cópia de segurança lacrada no STF, objeto da disputa
-  registrada no acervo em setembro de 2026.
+  registrada no acervo em setembro de 2026. Em entrevista à CNN (texto de 29/10, atualizado em 30/10), o
+  advogado Sergio Leonardo, que lidera a defesa de Vorcaro, disse que, se ficar comprovado que o celular foi
+  alterado depois de apreendido, a defesa pedirá a anulação das provas dele decorrentes e, se a prova for
+  considerada ilícita, pedirá ao STF que a retire dos autos. Segundo a CNN, o pedido feito em 29/10 foi para
+  ter acesso ao material bruto em poder da PF, a fim de comparar com a análise do perito contratado; o
+  advogado disse que só com esses dados o perito pode aferir a questão. A CNN resume, com base em nota da
+  defesa, os achados que a defesa destaca (manuseio do aparelho depois da apreensão, centenas de arquivos
+  criados e modificados sob custódia e registros posteriores à extração). Essas são afirmações da defesa. O
+  perito, no próprio documento, escreve que não é tecnicamente possível atribuir as alterações a uma ação
+  humana deliberada e que suas conclusões não implicam juízo sobre autoria; segundo o Poder360, o laudo não
+  comprova que o material tenha sido adulterado. A matéria da CNN não cita trechos do laudo nem traz resposta
+  da PF ou do STF, e não informa a quem o pedido de acesso foi dirigido.
 evidence_class: D
 status: unverified
 evidence_ids:
   - ev-defesa-vorcaro-2026-10-26-laudo-preliminar-aponta-lacunas-de-custodia
   - ev-defesa-vorcaro-2026-10-26-perito-nao-prova-adulteracao-nem-autoria
+  - ev-cnn-2026-10-29-advogado-de-vorcaro-diz-que-pedira-anulacao-se-alteracao-do-celular-for-comprovada
 source_ids:
   - src-defesa-vorcaro-2026-10-26-analise-preliminar-forense-celular
   - src-poder360-2026-10-29-defesa-faz-pericia-em-hd-de-celular-de-vorcaro
+  - src-cnn-2026-10-29-laudo-sugere-provas-ilicitas-e-nulidade-processual-diz-advogado-de-vorcaro
 document_ids:
   - doc-2026-10-26-defesa-vorcaro-analise-preliminar-forense-celular
 cited_position:
@@ -47,6 +60,15 @@ cited_position:
     source_ids:
       - src-defesa-vorcaro-2026-10-26-analise-preliminar-forense-celular
       - src-poder360-2026-10-29-defesa-faz-pericia-em-hd-de-celular-de-vorcaro
+  - kind: version
+    by_id: daniel-vorcaro
+    date: 2026-10-29
+    summary: "Pelo advogado Sergio Leonardo, à CNN: pedirá a anulação das provas decorrentes do celular se a
+      alteração após a apreensão for comprovada; pede o material bruto em poder da PF para comparação com a
+      análise do perito. O perito ressalva, no próprio documento, que não atribui as alterações a ação humana
+      deliberada nem faz juízo sobre autoria."
+    source_ids:
+      - src-cnn-2026-10-29-laudo-sugere-provas-ilicitas-e-nulidade-processual-diz-advogado-de-vorcaro
   - kind: not_located
     by_id: policia-federal
     date: 2026-10-29
@@ -59,8 +81,22 @@ cited_position:
     summary: "Manifestação ou decisão do STF sobre a análise da defesa não localizada em 29/10/2026: a matéria do
       Poder360 não registra; as mesmas buscas na web e no cache de fontes do acervo não acharam despacho nem
       nota."
+  - kind: not_located
+    by_id: policia-federal
+    date: 2026-10-31
+    summary: "Manifestação da PF sobre a análise da defesa ou sobre o pedido de acesso ao material bruto não
+      localizada em 31/10/2026: a reportagem da CNN não traz resposta da PF; o radar de 31/10 (tags CNN e
+      Poder360) não achou nota; busca na web de 31/10 (resposta da PF, laudo da defesa, celular de Vorcaro,
+      cadeia de custódia) só retornou manifestações antigas sobre a cópia lacrada do STF, não resposta a esta
+      análise."
+  - kind: not_located
+    by_id: supremo-tribunal-federal
+    date: 2026-10-31
+    summary: "Decisão ou manifestação do STF sobre o pedido da defesa de 29/10 não localizada em 31/10/2026: a
+      reportagem da CNN não registra; radar de 31/10 sem decisão nova; a mesma busca na web não achou
+      despacho nem nota. A CNN não informa a quem o pedido foi dirigido."
 review_status: published
 reviewer: orquestrador
 reviewed_at: 2026-10-29
 created_at: 2026-10-29
-updated_at: 2026-10-29
+updated_at: 2026-10-31
