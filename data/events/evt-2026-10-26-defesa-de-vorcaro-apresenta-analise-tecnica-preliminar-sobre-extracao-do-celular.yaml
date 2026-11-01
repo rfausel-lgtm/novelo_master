@@ -37,18 +37,34 @@ description: O assistente técnico contratado pela defesa de Daniel Vorcaro, Mar
   humana deliberada e que suas conclusões não implicam juízo sobre autoria; segundo o Poder360, o laudo não
   comprova que o material tenha sido adulterado. A matéria da CNN não cita trechos do laudo nem traz resposta
   da PF ou do STF, e não informa a quem o pedido de acesso foi dirigido.
+  Em nota pública de 30/10/2026, a Associação Nacional dos Peritos Criminais Federais (APCF), entidade de
+  classe que diz representar a carreira técnico-científica da Polícia Federal, respondeu ao parecer da defesa.
+  Segundo a APCF, a eventual identificação de modificações em registros digitais “não significa necessariamente
+  adulteração do conteúdo probatório” e o questionamento da defesa “não constitui, por si só, comprovação de
+  falha na produção da prova pericial”; a entidade afirma que o perito oficial atua com independência e
+  imparcialidade, que o assistente técnico analisa os elementos sob a perspectiva de uma das partes e que cabe ao
+  Poder Judiciário avaliar as alegações e seus efeitos sobre a validade das provas, e cita o art. 280 do Código
+  de Processo Penal. A nota é posição da entidade; não é manifestação da PF, não examina arquivos específicos nem
+  cita o laudo da PF, e não afirma que o aparelho foi ou não alterado. A defesa, por sua vez, pede os dados brutos
+  justamente para verificar a questão, e o perito da defesa escreve que não atribui as alterações a ação humana
+  deliberada. Resposta da defesa à nota da APCF, manifestação própria da PF e decisão do STF não foram localizadas
+  até 01/11/2026.
 evidence_class: D
 status: unverified
 evidence_ids:
   - ev-defesa-vorcaro-2026-10-26-laudo-preliminar-aponta-lacunas-de-custodia
   - ev-defesa-vorcaro-2026-10-26-perito-nao-prova-adulteracao-nem-autoria
   - ev-cnn-2026-10-29-advogado-de-vorcaro-diz-que-pedira-anulacao-se-alteracao-do-celular-for-comprovada
+  - ev-apcf-2026-10-30-nota-diz-que-modificacoes-em-registros-digitais-nao-significam-necessariamente-adulteracao
 source_ids:
   - src-defesa-vorcaro-2026-10-26-analise-preliminar-forense-celular
   - src-poder360-2026-10-29-defesa-faz-pericia-em-hd-de-celular-de-vorcaro
   - src-cnn-2026-10-29-laudo-sugere-provas-ilicitas-e-nulidade-processual-diz-advogado-de-vorcaro
+  - src-apcf-2026-10-30-nota-publica-apcf-reafirma-imparcialidade-da-pericia-criminal-federal
+  - src-gazetadopovo-2026-10-30-peritos-da-pf-rebatem-laudo-da-defesa-de-vorcaro
 document_ids:
   - doc-2026-10-26-defesa-vorcaro-analise-preliminar-forense-celular
+  - doc-2026-10-30-apcf-nota-publica-reafirma-imparcialidade-da-pericia-criminal-federal
 cited_position:
   - kind: version
     by_id: daniel-vorcaro
@@ -95,8 +111,34 @@ cited_position:
     summary: "Decisão ou manifestação do STF sobre o pedido da defesa de 29/10 não localizada em 31/10/2026: a
       reportagem da CNN não registra; radar de 31/10 sem decisão nova; a mesma busca na web não achou
       despacho nem nota. A CNN não informa a quem o pedido foi dirigido."
+  - kind: version
+    by_id: associacao-nacional-dos-peritos-criminais-federais
+    date: 2026-10-30
+    summary: "Pela APCF, em nota pública: modificações em registros digitais não significam necessariamente
+      que o conteúdo probatório tenha sido adulterado; o questionamento da defesa não comprova, por si só, falha da perícia;
+      cabe ao Judiciário avaliar. A nota não examina arquivos específicos nem afirma que o aparelho foi ou não
+      alterado."
+    source_ids:
+      - src-apcf-2026-10-30-nota-publica-apcf-reafirma-imparcialidade-da-pericia-criminal-federal
+      - src-gazetadopovo-2026-10-30-peritos-da-pf-rebatem-laudo-da-defesa-de-vorcaro
+  - kind: not_located
+    by_id: daniel-vorcaro
+    date: 2026-11-01
+    summary: "Resposta da defesa de Vorcaro à nota da APCF não localizada em 01/11/2026: a Gazeta do Povo não
+      ouviu a defesa; busca na web (resposta da defesa à nota da APCF) só retornou republicações da nota, sem
+      manifestação da defesa."
+  - kind: not_located
+    by_id: policia-federal
+    date: 2026-11-01
+    summary: "Manifestação da PF, distinta da nota da APCF, sobre a análise da defesa não localizada em
+      01/11/2026: nem a nota nem a matéria da Gazeta do Povo registram; a mesma busca na web não achou nota da PF."
+  - kind: not_located
+    by_id: supremo-tribunal-federal
+    date: 2026-11-01
+    summary: "Decisão ou manifestação do STF sobre o pedido da defesa de 29/10 ou sobre o parecer não localizada
+      em 01/11/2026: nota e matéria não registram; a mesma busca na web não achou despacho."
 review_status: published
 reviewer: orquestrador
 reviewed_at: 2026-10-29
 created_at: 2026-10-29
-updated_at: 2026-10-31
+updated_at: 2026-11-01

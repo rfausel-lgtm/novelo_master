@@ -1,0 +1,37 @@
+id: rev-2026-11-01-lote-383-apcf-responde-ao-parecer-da-defesa-de-vorcaro-sobre-o-celular
+kind: revision
+date: 2026-11-01
+title: Peritos criminais federais (APCF) respondem em nota ao parecer da defesa de Vorcaro (atualização do 379)
+summary: Atualiza o evento do lote 379 com a nota pública de 30/10/2026 da Associação Nacional dos Peritos
+  Criminais Federais (APCF), entidade de classe que diz representar a carreira técnico-científica da Polícia
+  Federal. Segundo a APCF, modificações em registros digitais não significam necessariamente adulteração, segundo a entidade, e o
+  questionamento da defesa não comprova, por si só, falha da perícia; cabe ao Judiciário avaliar. A nota é
+  posição da entidade, não da PF, e não examina arquivos nem afirma que o celular foi ou não alterado; a
+  defesa pede os dados brutos e o perito dela não atribui as alterações a ação humana deliberada. Resposta da
+  defesa à nota, manifestação da PF e decisão do STF não foram localizadas até 01/11.
+added:
+  people: 0
+  organizations: 1
+  events: 0
+  documents: 1
+  relationships: 0
+  sources: 2
+  evidence: 1
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-apcf-2026-10-30-nota-publica-apcf-reafirma-imparcialidade-da-pericia-criminal-federal
+  - src-gazetadopovo-2026-10-30-peritos-da-pf-rebatem-laudo-da-defesa-de-vorcaro
+  - associacao-nacional-dos-peritos-criminais-federais
+  - doc-2026-10-30-apcf-nota-publica-reafirma-imparcialidade-da-pericia-criminal-federal
+  - ev-apcf-2026-10-30-nota-diz-que-modificacoes-em-registros-digitais-nao-significam-necessariamente-adulteracao
+  - evt-2026-10-26-defesa-de-vorcaro-apresenta-analise-tecnica-preliminar-sobre-extracao-do-celular
+reason: Documento primário íntegro da entidade, que fecha o contraditório institucional que faltava ao 379.
+  Fonte única de conteúdo (a Gazeta do Povo é eco, sem apuração própria); por isso evidência D e unverified,
+  com atribuição em toda frase, e evento mantido em D e unverified. Versão da defesa mantida em igual
+  destaque. Ficaram de fora qualquer conclusão sobre a integridade do aparelho, republicações da nota, o
+  título editorial da Gazeta, os dirigentes e o endereço da entidade, e o artigo do CPP além de uma menção.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-11-01

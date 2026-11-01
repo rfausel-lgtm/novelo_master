@@ -1,0 +1,26 @@
+id: associacao-nacional-dos-peritos-criminais-federais
+kind: organization
+name: Associação Nacional dos Peritos Criminais Federais
+aliases:
+  - APCF
+distinct_from:
+  - policia-federal
+org_type: association
+summary: Entidade de classe que, segundo a própria nota de 30/10/2026, representa a carreira
+  técnico-científica da Polícia Federal. Publicou nota pública sobre o parecer do assistente técnico da defesa
+  de Daniel Vorcaro. Não é a Polícia Federal, e a nota não é laudo nem manifestação oficial da PF.
+isolation_reason: A APCF não participou do fato de 26/10/2026 (apresentação do parecer da defesa) e a nota dela não descreve vínculo com pessoa ou órgão além da autodescrição como representante da carreira de peritos da PF, sem relação registrada. Incluí-la em participant_ids do evento do lote 379 a faria figurar na data do fato, antes da nota; a posição dela consta em cited_position do evento, que não conta como ligação no grafo.
+why_in_novelo: Foi a entidade que respondeu institucionalmente, em 30/10/2026, ao parecer técnico da defesa de
+  Vorcaro sobre a extração do celular, citado no acervo desde o lote 379.
+cited_position:
+  - kind: not_located
+    summary: Nenhuma outra manifestação pública da entidade sobre o tema localizada no acervo e na busca de
+      01/11/2026, além da nota de 30/10.
+source_ids:
+  - src-apcf-2026-10-30-nota-publica-apcf-reafirma-imparcialidade-da-pericia-criminal-federal
+  - src-gazetadopovo-2026-10-30-peritos-da-pf-rebatem-laudo-da-defesa-de-vorcaro
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-11-01
+created_at: 2026-11-01
+updated_at: 2026-11-01
