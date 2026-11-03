@@ -1,0 +1,101 @@
+id: evt-2026-11-02-defesa-de-vorcaro-divulga-recurso-a-cidh-contra-a-prisao-preventiva
+kind: event
+title: Defesa de Vorcaro diz ter acionado a Comissão Interamericana de Direitos Humanos contra a prisão
+  preventiva (alegação da defesa)
+event_type: statement
+date: 2026-11-02
+date_precision: day
+participant_ids:
+  - daniel-vorcaro
+  - supremo-tribunal-federal
+  - edson-fachin
+  - policia-federal
+description: "Em 02/11/2026, a defesa de Daniel Vorcaro divulgou nota à imprensa, assinada pelos advogados
+  Sérgio Leonardo e Engels Augusto Muniz (o rodapé traz a data impressa de 03/11/2026), em que diz ter
+  protocolado em 27/10/2026, na Comissão Interamericana de Direitos Humanos (CIDH), órgão da OEA, pedido
+  urgente de medidas cautelares e petição individual contra o Estado brasileiro. Segundo a nota, os
+  procedimentos receberam os números MC-2068-26 e P-2913-26; não foi localizado documento da CIDH, e o acervo
+  não afirma que a Comissão registrou, admitiu ou deu andamento aos pedidos. A petição em si não foi
+  divulgada. A defesa diz que a iniciativa não pretende discutir o mérito das investigações e que “não é um
+  gesto contra as instituições do país”. Segundo a nota, a petição invoca os artigos 5, 7, 8, 11 e 25 da
+  Convenção Americana sobre Direitos Humanos e os artigos 1, 6 e 8 da Convenção Interamericana para Prevenir e
+  Punir a Tortura, tratado citado pela defesa. Os argumentos, todos da defesa, são: Vorcaro está preso
+  preventivamente desde 04/03/2026, não há denúncia nem ação penal, e o indiciamento em relatório parcial da
+  PF, segundo a defesa, não é acusação formal; a revisão da prisão a cada 90 dias não foi feita; o pedido de
+  liberdade de 18/09/2026 continua sem decisão (“há mais de 40 dias, nenhuma decisão sobre o seu pedido”, diz
+  a nota); o caso é decidido em instância única e sem juiz das garantias; comunicações de Vorcaro com seus
+  advogados teriam sido extraídas do celular sem decisão judicial que autorizasse o acesso, analisadas em
+  relatórios da PF e depois divulgadas, e teria havido vazamentos de conteúdos do aparelho; e a defesa pede desde 19/02/2026 os dados brutos da
+  extração do celular, pedido que, segundo ela, nunca foi decidido (a controvérsia sobre o aparelho está
+  registrada no evento de 26/10/2026, com a nota da APCF de 30/10). A defesa pede que a Comissão inste o
+  Estado brasileiro a restabelecer a liberdade com medidas cautelares ou, ao menos, a assegurar que um juiz
+  competente decida o pedido de liberdade em cinco dias, que cessem os vazamentos, que as comunicações com
+  advogados sejam retiradas dos autos e que os dados brutos sejam preservados e entregues à defesa; diz ainda
+  que levará à Comissão a decisão de 29/10. Posição documentada do STF sobre a guarda dos autos: em
+  29/10/2026, na PET 16.704, o Presidente do STF, Edson Fachin, manteve na Presidência, “em caráter
+  excepcional e provisório”, os autos da Operação Compliance Zero por no máximo 90 dias contados de 12/09/2026
+  e atribuiu à Presidência, nesse período, as questões urgentes, em especial a revisão periódica da
+  necessidade de prisões preventivas. Essa decisão é anterior à nota e não responde a ela nem ao pedido à
+  CIDH. Manifestação do STF, da PF, da PGR ou da CIDH sobre a nota ou sobre os pedidos não foi localizada até
+  03/11/2026. O Poder360 e o Metrópoles noticiaram a nota sem apuração própria sobre os pedidos."
+evidence_class: D
+status: unverified
+evidence_ids:
+  - ev-defesa-vorcaro-2026-11-02-diz-ter-protocolado-na-cidh-em-27-10-pedido-de-cautelar-e-peticao
+  - ev-defesa-vorcaro-2026-11-02-alega-demora-na-apreciacao-do-pedido-de-liberdade-de-18-09-e-falta-de-revisao-de-90-dias
+  - ev-defesa-vorcaro-2026-11-02-alega-uso-de-conversas-com-advogados-e-vazamentos-do-celular
+  - ev-poder360-2026-11-02-noticia-a-nota-da-defesa
+source_ids:
+  - src-defesa-vorcaro-2026-11-02-nota-a-imprensa-recorre-a-cidh
+  - src-poder360-2026-11-02-vorcaro-aciona-comissao-interamericana-de-direitos-humanos-contra-prisao
+  - src-metropoles-2026-11-02-o-que-e-a-comissao-interamericana-de-direitos-humanos-acionada-por-vorcaro
+  - src-stf-pet16704-decisao-29-10-2026-devolve-pet15041-mantem-compliance-zero
+document_ids:
+  - doc-2026-11-02-nota-da-defesa-de-vorcaro-sobre-recurso-a-cidh
+  - doc-2026-10-29-decisao-fachin-pet-16704-devolve-pet-15041-e-mantem-compliance-zero
+cited_position:
+  - kind: version
+    by_id: daniel-vorcaro
+    date: 2026-11-02
+    summary: "Pela defesa, em nota à imprensa: diz ter protocolado na CIDH, em 27/10/2026, pedido de medida
+      cautelar e petição individual; alega falta de decisão sobre o pedido de liberdade de 18/09, falta da
+      revisão de 90 dias, instância única, uso de conversas com advogados e vazamentos; diz que a iniciativa
+      não é contra as instituições do país e reafirma respeito ao STF."
+    source_ids:
+      - src-defesa-vorcaro-2026-11-02-nota-a-imprensa-recorre-a-cidh
+      - src-poder360-2026-11-02-vorcaro-aciona-comissao-interamericana-de-direitos-humanos-contra-prisao
+  - kind: version
+    by_id: supremo-tribunal-federal
+    date: 2026-10-29
+    summary: "Posição documentada, anterior à nota e que não responde a ela: decisão do Presidente do STF, Edson
+      Fachin, de 29/10/2026 na PET 16.704, que manteve os autos da Compliance Zero na Presidência, em caráter
+      excepcional e provisório, por até 90 dias contados de 12/09, com as questões urgentes, em especial a
+      revisão periódica da necessidade de prisões preventivas, a cargo da Presidência."
+    source_ids:
+      - src-stf-pet16704-decisao-29-10-2026-devolve-pet15041-mantem-compliance-zero
+  - kind: not_located
+    by_id: supremo-tribunal-federal
+    date: 2026-11-03
+    summary: "Manifestação do STF sobre a nota, sobre o pedido de liberdade de 18/09 ou sobre os pedidos à CIDH
+      não localizada em 03/11/2026: as matérias não trazem; busca na web de 03/11 (CIDH, Vorcaro, STF, Fachin,
+      PF, PGR) só retornou matérias de setembro."
+  - kind: not_located
+    by_id: policia-federal
+    date: 2026-11-03
+    summary: "Manifestação da PF sobre as alegações da nota (conversas com advogados, vazamentos, dados brutos)
+      não localizada em 03/11/2026: as matérias não trazem; a mesma busca na web não achou nota."
+  - kind: not_located
+    by_id: ministerio-publico-federal
+    date: 2026-11-03
+    summary: "Manifestação da PGR sobre a nota ou os pedidos à CIDH não localizada em 03/11/2026: as matérias não
+      trazem; a mesma busca na web não achou."
+  - kind: not_located
+    by_id: comissao-interamericana-de-direitos-humanos
+    date: 2026-11-03
+    summary: Documento ou manifestação da CIDH sobre os pedidos não localizado em 03/11/2026; os números
+      MC-2068-26 e P-2913-26 constam só na nota da defesa.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-11-03
+created_at: 2026-11-03
+updated_at: 2026-11-03
