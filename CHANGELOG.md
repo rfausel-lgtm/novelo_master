@@ -2,6 +2,24 @@
 
 ## Unreleased
 
+- **Bolinhas do grafo deixam de se sobrepor.** O layout do build exigia entre dois nós só 60% da
+  soma dos raios — sobreposição por construção —, e em volta dos hubs, sobretudo Daniel Vorcaro
+  (217 vizinhos), as bolinhas viravam um borrão onde não se distinguia nem se apontava um nó. A
+  distância mínima passa a ser a soma dos raios mais uma folga de 2,5 unidades: medido no desenho
+  publicado, zero pares encostados no núcleo, e a distância ao vizinho mais próximo no entorno do
+  Vorcaro dobrou (de ~5 para ~11 unidades). A camada probatória mantém o espaçamento antigo, para
+  não se espalhar até quase o dobro do núcleo e encolhê-lo na tela ao ser ligada. Tempo de build
+  inalterado.
+
+- **Grafo legível no celular.** O espaçamento do build é medido em unidades do grafo, mas o Sigma
+  desenha o raio da bolinha em pixels — e no celular uma unidade vale menos de meio pixel, então o
+  mapa inteiro virava uma mancha. O raio passa a acompanhar a tela: fator 1 no desktop (desenho
+  idêntico, conferido pixel a pixel), até 0,5 em tela pequena, recalculado quando o canvas muda de
+  tamanho; o limiar de rótulo encolhe junto, para os hubs não perderem o nome. Bolinha menor é alvo
+  menor, então o toque ganhou mira com folga de 14 px a partir da borda do nó, e o nó vence a linha
+  que passa por perto. Em toques simulados sobre o mapa num iPhone 13, a seleção de nó subiu de 20
+  para 29 em 42.
+
 - **Auditoria noturna do acervo, camada determinística e contrato da revisão por IA.**
   `npm run auditoria` relê o acervo inteiro e devolve um JSON estável de achados — órfãos que o lint
   não olha (fonte, documento e evidência que ninguém cita; `affected_ids` de revisão apontando para

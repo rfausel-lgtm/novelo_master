@@ -62,6 +62,35 @@ export function arestaMaisProxima(
   return (prioritaria ?? qualquer)?.id ?? null;
 }
 
+export interface NoNaTela {
+  id: string;
+  x: number;
+  y: number;
+  /** Raio desenhado, em pixels de tela. */
+  raio: number;
+}
+
+/**
+ * O nó cuja borda fica mais perto de `p`, desde que a até `tolerancia` px dela. No celular as
+ * bolinhas são desenhadas pequenas para caberem sem se sobrepor; sem essa folga, o dedo erraria
+ * quase todas. No empate, fica o que veio primeiro.
+ */
+export function noMaisProximo(
+  p: Ponto,
+  nos: Iterable<NoNaTela>,
+  tolerancia: number,
+): string | null {
+  let melhor: { id: string; d: number } | null = null;
+  for (const n of nos) {
+    const alcance = n.raio + tolerancia;
+    if (Math.abs(p.x - n.x) > alcance || Math.abs(p.y - n.y) > alcance) continue;
+    const d = Math.max(0, Math.hypot(p.x - n.x, p.y - n.y) - n.raio);
+    if (d > tolerancia) continue;
+    if (!melhor || d < melhor.d) melhor = { id: n.id, d };
+  }
+  return melhor?.id ?? null;
+}
+
 const FORCA_DA_CLASSE: Record<EvidenceClass, number> = { D: 4, C: 3, A: 2, I: 1 };
 
 /** Verdadeiro quando `a` é classe de evidência mais forte que `b` (D > C > A > I). */
