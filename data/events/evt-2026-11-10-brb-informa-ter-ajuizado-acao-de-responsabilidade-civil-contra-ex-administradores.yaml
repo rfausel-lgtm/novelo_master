@@ -1,0 +1,78 @@
+id: evt-2026-11-10-brb-informa-ter-ajuizado-acao-de-responsabilidade-civil-contra-ex-administradores
+kind: event
+title: BRB informa ter ajuizado ação de responsabilidade civil contra sete ex-gestores e ter pedido liminar
+  de indisponibilidade de bens (alegação do autor)
+event_type: corporate_act
+date: 2026-11-10
+date_precision: day
+participant_ids:
+  - banco-de-brasilia-brb
+  - paulo-henrique-costa
+  - dario-oswaldo-garcia-junior
+  - marcelo-talarico
+  - diogo-ilario-de-araujo-oliveira
+description: "Em fato relevante de 10/11/2026, o BRB informou ter ajuizado nessa data ação social de
+  responsabilidade civil, com base nos arts. 158 e 159 da Lei 6.404/1976. Segundo o banco, o ajuizamento foi
+  autorizado pelos acionistas na assembleia geral extraordinária de 24/08/2026, registrada no acervo no evento
+  dessa data. Os demandados, segundo o BRB, são sete ex-administradores: Paulo Henrique Costa, Dário Oswaldo
+  Garcia Júnior, Marcelo Talarico, Diogo Ilário de Araújo Oliveira e outros três ex-gestores; a demanda também
+  contempla seis empresas, com “pedidos de natureza patrimonial”. O objeto, diz o banco, é apurar
+  responsabilidades e reparar danos patrimoniais que alega ter sofrido em aquisições de carteiras de crédito
+  do Banco Master e de sociedades relacionadas em 2025. O valor da causa é de R$ 1 milhão “para fins
+  processuais”; segundo o BRB, não representa quantificação dos danos, a ser feita em fase processual própria.
+  O BRB disse ter pedido, em caráter liminar, a indisponibilidade de bens dos ex-administradores demandados e
+  de seis imóveis em São Paulo e Brasília, de titularidade formal dessas empresas. Tudo isso é alegação do autor da ação. O acervo
+  não localizou decisão sobre o pedido liminar até 12/11/2026. Número do processo, vara e juízo não foram
+  divulgados no comunicado. O BRB ressalva que a ação é cível, com tramitação independente das esferas
+  criminal, administrativa e de controle, e que o ajuizamento “não implica juízo antecipado sobre a
+  responsabilidade dos demandados”, a ser apurada com contraditório e ampla defesa. Manifestação dos
+  demandados sobre a ação não foi localizada até 12/11/2026."
+evidence_class: D
+status: unverified
+evidence_ids:
+  - ev-brb-2026-11-10-informa-ter-ajuizado-acao-social-de-responsabilidade-civil-autorizada-pela-age-de-24-08
+  - ev-brb-2026-11-10-alega-danos-em-compras-de-carteiras-e-atribui-causa-de-r-1-milhao-para-fins-processuais
+  - ev-brb-2026-11-10-pede-liminar-de-indisponibilidade-de-bens-e-ressalva-que-nao-ha-juizo-antecipado
+source_ids:
+  - src-brb-2026-11-10-fato-relevante-ajuizamento-acao-responsabilidade-civil
+  - src-brb-2026-11-10-aviso-aos-acionistas-ajuizamento-acao-responsabilidade-civil
+document_ids:
+  - doc-2026-11-10-fato-relevante-brb-ajuizamento-acao-social-de-responsabilidade-civil
+cited_position:
+  - kind: version
+    by_id: banco-de-brasilia-brb
+    date: 2026-11-10
+    summary: "Pelo BRB, autor da ação, em fato relevante: diz ter ajuizado a ação para apurar responsabilidades e
+      reparar danos patrimoniais que alega; ressalva que o ajuizamento não antecipa juízo sobre a
+      responsabilidade dos demandados, que será apurada com contraditório e ampla defesa."
+    source_ids:
+      - src-brb-2026-11-10-fato-relevante-ajuizamento-acao-responsabilidade-civil
+  - kind: not_located
+    by_id: paulo-henrique-costa
+    date: 2026-11-12
+    summary: "Manifestação de Paulo Henrique Costa ou de sua defesa sobre esta ação não localizada em 12/11/2026:
+      o fato relevante e o aviso do BRB não a trazem; busca na web e radar de 12/11 não acharam nota. Número
+      do processo e vara não constam do comunicado, e não houve consulta processual."
+  - kind: not_located
+    by_id: dario-oswaldo-garcia-junior
+    date: 2026-11-12
+    summary: "Manifestação de Dário Oswaldo Garcia Júnior ou de sua defesa sobre esta ação não localizada em
+      12/11/2026: o fato relevante e o aviso do BRB não a trazem; busca na web e radar de 12/11 não acharam
+      nota. Número do processo e vara não constam do comunicado, e não houve consulta processual."
+  - kind: not_located
+    by_id: marcelo-talarico
+    date: 2026-11-12
+    summary: "Manifestação de Marcelo Talarico ou de sua defesa sobre esta ação não localizada em 12/11/2026: o
+      fato relevante e o aviso do BRB não a trazem; busca na web e radar de 12/11 não acharam nota. Número do
+      processo e vara não constam do comunicado, e não houve consulta processual."
+  - kind: not_located
+    by_id: diogo-ilario-de-araujo-oliveira
+    date: 2026-11-12
+    summary: "Manifestação de Diogo Ilário de Araújo Oliveira ou de sua defesa sobre esta ação não localizada em
+      12/11/2026: o fato relevante e o aviso do BRB não a trazem; busca na web e radar de 12/11 não acharam
+      nota. Número do processo e vara não constam do comunicado, e não houve consulta processual."
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-11-12
+created_at: 2026-11-12
+updated_at: 2026-11-12

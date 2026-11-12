@@ -1,0 +1,24 @@
+id: ev-brb-2026-11-10-informa-ter-ajuizado-acao-social-de-responsabilidade-civil-autorizada-pela-age-de-24-08
+kind: evidence
+classification: D
+status: unverified
+proposition: Em fato relevante de 10/11/2026, o BRB informou ter ajuizado nessa data ação social de
+  responsabilidade civil, com base nos arts. 158 e 159 da Lei 6.404/1976, contra sete ex-administradores, e
+  que o ajuizamento foi autorizado pelos acionistas na assembleia geral extraordinária de 24/08/2026. Prova
+  apenas o que o BRB declarou; o comunicado não traz número de processo, vara nem juízo, e o acervo não
+  localizou registro judicial da ação até 12/11/2026.
+document_ids:
+  - doc-2026-11-10-fato-relevante-brb-ajuizamento-acao-social-de-responsabilidade-civil
+source_ids:
+  - src-brb-2026-11-10-fato-relevante-ajuizamento-acao-responsabilidade-civil
+  - src-brb-2026-11-10-aviso-aos-acionistas-ajuizamento-acao-responsabilidade-civil
+excerpt: ajuizou ação social de responsabilidade civil
+locator: Fato Relevante, 1º e 2º parágrafos
+attributed_to: BRB - Banco de Brasília S.A., em fato relevante
+attributed_to_id: banco-de-brasilia-brb
+date: 2026-11-10
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-11-12
+created_at: 2026-11-12
+updated_at: 2026-11-12

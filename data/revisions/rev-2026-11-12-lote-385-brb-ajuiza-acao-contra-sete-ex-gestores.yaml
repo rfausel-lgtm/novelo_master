@@ -1,0 +1,36 @@
+id: rev-2026-11-12-lote-385-brb-ajuiza-acao-contra-sete-ex-gestores
+kind: revision
+date: 2026-11-12
+title: BRB informa ter ajuizado ação contra sete ex-gestores e ter pedido indisponibilidade de bens
+summary: Registra o fato relevante de 10/11/2026 em que o BRB informa ter ajuizado ação social de
+  responsabilidade civil, autorizada pela assembleia de 24/08/2026, contra sete ex-administradores (quatro
+  deles no acervo) e com pedidos patrimoniais em relação a seis empresas, e ter pedido em liminar a
+  indisponibilidade de bens dos demandados e de seis imóveis. Tudo é declaração do autor; não foi localizada
+  decisão sobre a liminar, número do processo, vara nem manifestação dos demandados até 12/11.
+added:
+  people: 0
+  organizations: 0
+  events: 1
+  documents: 1
+  relationships: 0
+  sources: 2
+  evidence: 3
+updated_relationships: 0
+corrections: []
+author: orquestrador
+affected_ids:
+  - src-brb-2026-11-10-fato-relevante-ajuizamento-acao-responsabilidade-civil
+  - src-brb-2026-11-10-aviso-aos-acionistas-ajuizamento-acao-responsabilidade-civil
+  - doc-2026-11-10-fato-relevante-brb-ajuizamento-acao-social-de-responsabilidade-civil
+  - ev-brb-2026-11-10-informa-ter-ajuizado-acao-social-de-responsabilidade-civil-autorizada-pela-age-de-24-08
+  - ev-brb-2026-11-10-alega-danos-em-compras-de-carteiras-e-atribui-causa-de-r-1-milhao-para-fins-processuais
+  - ev-brb-2026-11-10-pede-liminar-de-indisponibilidade-de-bens-e-ressalva-que-nao-ha-juizo-antecipado
+  - evt-2026-11-10-brb-informa-ter-ajuizado-acao-de-responsabilidade-civil-contra-ex-administradores
+reason: Documento primário do autor da ação (classe D), com o aviso aos acionistas como confirmação de data e
+  canal; evidências unverified e atribuídas ao BRB em toda frase. Ficaram de fora os nomes dos três
+  ex-gestores fora do acervo, os nomes dos empreendimentos onde ficam os imóveis, a referência do
+  comunicado à destinação dos imóveis (com sua qualificação e os destinatários citados); as republicações na imprensa não somam peso
+  e não foram registradas. O evento de 24/08/2026 não foi editado.
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-11-12

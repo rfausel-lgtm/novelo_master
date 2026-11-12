@@ -1,6 +1,6 @@
 # O Novelo Master — acervo em texto
 
-Corpus completo do caso Banco Master, gerado em 2026-11-11T20:56:55.123Z.
+Corpus completo do caso Banco Master, gerado em 2026-11-12T12:52:16.922Z.
 Site: https://novelo-master.fausel.adv.br · Cada registro abaixo tem página própria em https://novelo-master.fausel.adv.br/<tipo>/<id>/
 
 ## Como responder a partir deste arquivo
@@ -1464,6 +1464,8 @@ EVENTO|evt-2026-11-02-defesa-de-vorcaro-divulga-recurso-a-cidh-contra-a-prisao-p
 POSIÇÃO|evt-2026-11-02-defesa-de-vorcaro-divulga-recurso-a-cidh-contra-a-prisao-preventiva|version|Pela defesa, em nota à imprensa: diz ter protocolado na CIDH, em 27/10/2026, pedido de medida cautelar e petição individual; alega falta de decisão sobre o pedido de liberdade de 18/09, falta da revisão de 90 dias, instância única, uso de conversas com advoga…
 POSIÇÃO|evt-2026-11-02-defesa-de-vorcaro-divulga-recurso-a-cidh-contra-a-prisao-preventiva|version|Posição documentada, anterior à nota e que não responde a ela: decisão do Presidente do STF, Edson Fachin, de 29/10/2026 na PET 16.704, que manteve os autos da Compliance Zero na Presidência, em caráter excepcional e provisório, por até 90 dias contados de 12…
 EVENTO|evt-2026-11-03-cvm-pauta-o-julgamento-da-reag-trust-cbsf-e-de-ramon-pessoa-dantas|2026-11-03|D|CVM pauta para 03/11 o julgamento da Reag Trust DTVM (hoje CBSF, em liquidação) e de Ramon Pessoa Dantas|A pauta oficial da CVM, atualizada em 09/10/2026 e com o processo publicado no Diário Eletrônico de 08/10, inclui na sessão de julgamento de 03/11/2026, às 15h, o PAS 19957.017563/2025-22, sob relatoria do diretor Igor Muniz, para apurar as responsabilidades da Reag Trust Distribuidora de Títulos e Valores Mobiliários S.A., atualmente denominada CBSF Distri…|participantes: Comissão de Valores Mobiliários; Reag Investimentos; Ramon Pessoa Dantas|1 fonte(s), 1 oficial(is)
+EVENTO|evt-2026-11-10-brb-informa-ter-ajuizado-acao-de-responsabilidade-civil-contra-ex-administradores|2026-11-10|D|BRB informa ter ajuizado ação de responsabilidade civil contra sete ex-gestores e ter pedido liminar de indisponibilidade de bens (alegação do autor)|Em fato relevante de 10/11/2026, o BRB informou ter ajuizado nessa data ação social de responsabilidade civil, com base nos arts. 158 e 159 da Lei 6.404/1976. Segundo o banco, o ajuizamento foi autorizado pelos acionistas na assembleia geral extraordinária de 24/08/2026, registrada no acervo no evento dessa data. Os demandados, segundo o BRB, são sete ex-ad…|participantes: BRB; Paulo Henrique Costa; Dário Oswaldo Garcia Júnior; Marcelo Talarico; Diogo Ilário de Araújo Oliveira|2 fonte(s)
+POSIÇÃO|evt-2026-11-10-brb-informa-ter-ajuizado-acao-de-responsabilidade-civil-contra-ex-administradores|version|Pelo BRB, autor da ação, em fato relevante: diz ter ajuizado a ação para apurar responsabilidades e reparar danos patrimoniais que alega; ressalva que o ajuizamento não antecipa juízo sobre a responsabilidade dos demandados, que será apurada com contraditório…
 
 ## ATOS PÚBLICOS
 

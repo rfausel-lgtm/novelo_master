@@ -1,0 +1,24 @@
+id: src-brb-2026-11-10-aviso-aos-acionistas-ajuizamento-acao-responsabilidade-civil
+kind: source
+title: "Aviso aos Acionistas: Ajuizamento da Ação de Responsabilidade Civil"
+publisher: BRB - Banco de Brasília S.A. (Relações com Investidores)
+publication_date: 2026-11-10
+retrieved_at: 2026-11-12
+url: https://ri.brb.com.br/upload/files/4216_Aviso-aos-Acionistas-Ajuizamento-da-Ac-a-o-de-Responsabilidade-Civil_vf-.pdf
+source_type: corporate_registry
+summary: Aviso do BRB aos acionistas, no mesmo dia, em complemento ao fato relevante. Diz que o banco ajuizou
+  em 10/11/2026 ação social de responsabilidade civil contra ex-administradores, relacionada às aquisições de
+  carteiras de crédito do Banco Master e de sociedades a ele relacionadas, e remete ao fato relevante para os
+  detalhes. Não nomeia demandados.
+notes: Complementar ao fato relevante; confirma data e canal de divulgação e não acrescenta fato nem corrobora
+  além do próprio BRB.
+verification:
+  checked_at: 2026-11-12
+  checked_by: investigador e redator (cache lote:fonte, sha256 do texto b1a1e457afda0e37)
+  url_reachable: true
+  content_matches_summary: true
+review_status: published
+reviewer: orquestrador
+reviewed_at: 2026-11-12
+created_at: 2026-11-12
+updated_at: 2026-11-12
