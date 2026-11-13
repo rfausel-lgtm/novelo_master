@@ -14,7 +14,7 @@ import type { NoveloGraph, SigmaEdgeAttributes, SigmaNodeAttributes } from "@/li
 import type { GraphIndex } from "@/lib/graph/indexes";
 import { createLayoutRunner, type LayoutRunner } from "@/lib/graph/layout-worker";
 import { createEdgeProgramClasses } from "@/lib/graph/programs";
-import { arestaMaisProxima, type SegmentoDeAresta } from "@/lib/graph/hit";
+import { arestaMaisProxima, noMaisProximo, type SegmentoDeAresta } from "@/lib/graph/hit";
 import { type Palette } from "@/lib/graph/style";
 
 export interface CanvasView {
@@ -69,6 +69,14 @@ const MAX_FORCED_LABELS = 40;
 /* Alcance da mira sobre as linhas, em px de tela: o dedo cobre bem mais que o ponteiro. */
 const EDGE_HIT_MOUSE_PX = 8;
 const EDGE_HIT_TOUCH_PX = 18;
+/* Alcance do dedo sobre os nós, medido da borda da bolinha. */
+const NODE_HIT_TOUCH_PX = 14;
+/*
+ * Piso da escala dos nós em tela pequena. O build espaça os nós pela soma dos raios em
+ * unidades do grafo, e o Sigma desenha o raio em px; no celular uma unidade vale menos de meio
+ * px, e com o raio cheio o mapa vira uma mancha. Abaixo da metade, a bolinha some de vista.
+ */
+const MIN_NODE_SCALE = 0.5;
 
 export function GraphCanvas(props: GraphCanvasProps) {
   const {
@@ -109,6 +117,8 @@ export function GraphCanvas(props: GraphCanvasProps) {
     left: boolean;
   } | null>(null);
   const ctxRef = useRef<Context | null>(null);
+  /* Fator sobre o raio dos nós: 1 no desktop, menor quando a tela não comporta o desenho. */
+  const nodeScaleRef = useRef(1);
   const neighborCache = useRef(new Map<string, { nodes: Set<string>; edges: Set<string> }>());
   const layoutRef = useRef<LayoutRunner | null>(null);
   const initialPositionsRef = useRef(new Map<string, { x: number; y: number }>());
@@ -233,7 +243,10 @@ export function GraphCanvas(props: GraphCanvasProps) {
       data,
     ) => {
       const v = viewRef.current;
-      const res: Partial<NodeData> & SigmaNodeAttributes = { ...data };
+      const res: Partial<NodeData> & SigmaNodeAttributes = {
+        ...data,
+        size: data.size * nodeScaleRef.current,
+      };
       if (!v.visibleNodes.has(node)) {
         res.hidden = true;
         return res;
@@ -246,7 +259,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
       if (!ctx) return res;
       if (ctx.emphasis.has(node)) {
         res.highlighted = node === hoverRef.current || node === v.selectedNode;
-        res.size = data.size * 1.25;
+        res.size *= 1.25;
         res.zIndex = 3;
         res.forceLabel = true;
         return res;
@@ -369,6 +382,8 @@ export function GraphCanvas(props: GraphCanvasProps) {
       context.stroke();
     };
 
+    const labelThreshold = narrow ? 7.5 : graph.order > 1000 ? 9 : graph.order > 300 ? 7 : 4;
+
     let sigma: NoveloSigma;
     try {
       sigma = new Sigma(graph, container, {
@@ -382,13 +397,7 @@ export function GraphCanvas(props: GraphCanvasProps) {
         labelSize: narrow ? 11 : 12,
         labelWeight: "500",
         labelColor: { color: paletteRef.current.fg2 },
-        labelRenderedSizeThreshold: narrow
-          ? 7.5
-          : graph.order > 1000
-            ? 9
-            : graph.order > 300
-              ? 7
-              : 4,
+        labelRenderedSizeThreshold: labelThreshold * nodeScaleRef.current,
         labelDensity: narrow ? 0.03 : 0.045,
         labelGridCellSize: narrow ? 165 : 145,
         defaultDrawNodeLabel: drawLabel,
@@ -452,6 +461,17 @@ export function GraphCanvas(props: GraphCanvasProps) {
     }
     const arestaPerto = (x: number, y: number, tolerancia: number) =>
       arestaMaisProxima({ x, y }, segmentosNaTela(), tolerancia);
+
+    function* nosNaTela() {
+      for (const node of viewRef.current.visibleNodes) {
+        const data = sigma.getNodeDisplayData(node);
+        if (!data || data.hidden) continue;
+        const p = sigma.framedGraphToViewport(data);
+        yield { id: node, x: p.x, y: p.y, raio: sigma.scaleSize(data.size) };
+      }
+    }
+    const noPerto = (x: number, y: number) =>
+      noMaisProximo({ x, y }, nosNaTela(), NODE_HIT_TOUCH_PX);
 
     /* Aviso de hover: só com mouse. O rótulo junto ao cursor diz o que o clique vai abrir. */
     const setEdgeHover = (edge: string | null, x = 0, y = 0) => {
@@ -601,6 +621,12 @@ export function GraphCanvas(props: GraphCanvasProps) {
     sigma.on("clickStage", ({ event }) => {
       /* Nem nó nem aresta sob o ponto: antes de desselecionar, procura a linha ao alcance. */
       const touch = "touches" in event.original;
+      /* O dedo raspou a bolinha: o nó vence a linha que passa por perto. */
+      const node = touch ? noPerto(event.x, event.y) : null;
+      if (node && Date.now() - lastDragAtRef.current >= 180) {
+        callbacks.current.onSelectNode(node);
+        return;
+      }
       const edge = arestaPerto(event.x, event.y, touch ? EDGE_HIT_TOUCH_PX : EDGE_HIT_MOUSE_PX);
       if (edge && Date.now() - lastDragAtRef.current >= 180) {
         callbacks.current.onSelectEdge(edge);
@@ -610,7 +636,24 @@ export function GraphCanvas(props: GraphCanvasProps) {
       else if (viewRef.current.selectedEdge) callbacks.current.onSelectEdge(null);
     });
 
-    const ro = new ResizeObserver(() => sigma.resize());
+    /*
+     * Raio proporcional à tela: com a câmera na vista inteira, quantos px vale uma unidade do
+     * grafo. Até 1 px por unidade, o espaçamento do build garante bolinhas sem encostar.
+     */
+    const ajustarEscalaDosNos = () => {
+      const pxPorUnidade = sigma.getGraphToViewportRatio() * sigma.getCamera().ratio;
+      const escala = Math.max(MIN_NODE_SCALE, Math.min(1, pxPorUnidade));
+      if (!Number.isFinite(escala) || Math.abs(escala - nodeScaleRef.current) < 0.01) return;
+      nodeScaleRef.current = escala;
+      /* O limiar de rótulo é em px desenhados: encolhe junto, ou os hubs perdem o nome. */
+      sigma.setSetting("labelRenderedSizeThreshold", labelThreshold * escala);
+    };
+    ajustarEscalaDosNos();
+
+    const ro = new ResizeObserver(() => {
+      sigma.resize();
+      ajustarEscalaDosNos();
+    });
     ro.observe(container);
 
     return () => {

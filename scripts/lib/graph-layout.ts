@@ -35,8 +35,21 @@ function mulberry32(seed: number) {
   };
 }
 
-/** Distância mínima entre centros para dois nós não se sobreporem. */
-const minDistance = (a: number, b: number) => (a + b) * 0.6;
+/**
+ * Distância mínima entre centros, em unidades do grafo. O `size` do nó é o raio em pixels de
+ * tela, e na vista inicial do desktop uma unidade vale pouco mais de um pixel: com a soma dos
+ * raios mais uma folga, duas bolinhas vizinhas não se tocam. O fator antigo (0,6 da soma)
+ * deixava sobrepor por construção, e o entorno dos hubs — Daniel Vorcaro, com mais de 200
+ * vizinhos — virava um borrão em que não dava para apontar um nó.
+ */
+const NODE_GAP = 2.5;
+const minDistance = (a: number, b: number) => a + b + NODE_GAP;
+
+/**
+ * Na camada probatória o encosto continua permitido: são milhares de nós pequenos, e a folga
+ * cheia espalharia a camada até quase o dobro do núcleo, que encolheria na tela ao ligá-la.
+ */
+const layerMinDistance = (a: number, b: number) => (a + b) * 0.6;
 
 /** Recebe um grafo com atributo `size` por nó e grava `x`/`y`. */
 export function layoutGraph(g: Graph, opts: LayoutOptions): void {
@@ -167,7 +180,7 @@ function maxNodeSize(g: Graph) {
 }
 
 /** Relaxamento simples: empurra pares que se sobrepõem até não sobrar nenhum (ou acabar a vez). */
-function removeOverlaps(g: Graph, rounds = 50) {
+function removeOverlaps(g: Graph, rounds = 400) {
   const pos = g.mapNodes((id, a) => ({ id, x: a.x as number, y: a.y as number, size: a.size }));
   const largest = maxNodeSize(g);
   for (let round = 0; round < rounds; round++) {
@@ -180,7 +193,8 @@ function removeOverlaps(g: Graph, rounds = 50) {
         const b = pos[j];
         const min = minDistance(a.size, b.size);
         const d = Math.hypot(b.x - a.x, b.y - a.y);
-        if (d >= min) return;
+        // Tolerância: sem ela, o arredondamento mantém pares "quase encostados" para sempre.
+        if (d >= min - 0.05) return;
         // Dois nós no mesmo ponto: direção tirada dos índices, para seguir determinístico.
         const ux = d > 1e-6 ? (b.x - a.x) / d : Math.cos(i + j);
         const uy = d > 1e-6 ? (b.y - a.y) / d : Math.sin(i + j);
@@ -207,7 +221,7 @@ function removeOverlaps(g: Graph, rounds = 50) {
 function placeLayer(g: Graph, layerIds: string[], rand: () => number) {
   const inLayer = new Set(layerIds);
   const largest = maxNodeSize(g);
-  const grid = new SpatialGrid(minDistance(largest, largest));
+  const grid = new SpatialGrid(layerMinDistance(largest, largest));
   const placed: { x: number; y: number; size: number }[] = [];
   const isPlaced = new Set<string>();
   const put = (id: string, x: number, y: number) => {
@@ -220,7 +234,7 @@ function placeLayer(g: Graph, layerIds: string[], rand: () => number) {
     let ok = true;
     grid.forNear(x, y, (i) => {
       const p = placed[i];
-      if (Math.hypot(p.x - x, p.y - y) < minDistance(p.size, size)) ok = false;
+      if (Math.hypot(p.x - x, p.y - y) < layerMinDistance(p.size, size)) ok = false;
     });
     return ok;
   };
