@@ -67,7 +67,7 @@
     "tailwindcss": "^4",
     "tsx": "^4.23.13",
     "typescript": "^5",
-    "vitest": "^5.0.0"
+    "vitest": "^5.0.5"
   },
   "description": "Mapa público de relações, fatos e fontes — caso Banco Master",
   "license": "MIT",
